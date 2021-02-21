@@ -1,5 +1,4 @@
-
-    1. [Covid vaccine: All UK adults to be offered jab by 31 July - PM](https://www.bbc.co.uk/news/uk-56141867) - Sun, 21 Feb 2021 09:11:55 GMT - Boris Johnson says there will be "no let up", as he prepares to set out his plan to ease lockdown.
+1. [Covid vaccine: All UK adults to be offered jab by 31 July - PM](https://www.bbc.co.uk/news/uk-56141867) - Sun, 21 Feb 2021 09:11:55 GMT - Boris Johnson says there will be "no let up", as he prepares to set out his plan to ease lockdown.
 1. [US plane scatters engine debris over Denver homes](https://www.bbc.co.uk/news/world-us-canada-56141673) - Sun, 21 Feb 2021 01:48:18 GMT - The Honolulu-bound Boeing suffered engine failure but returned safely to Denver airport.
 1. [Israel eases restrictions following vaccine success](https://www.bbc.co.uk/news/world-middle-east-56143126) - Sun, 21 Feb 2021 00:58:25 GMT - Shops, libraries and museums are now open to the public, following easing of Covid rules.
 1. [Lockdown review: What are the risks of schools, pubs and shops reopening?](https://www.bbc.co.uk/news/56102610) - Sun, 21 Feb 2021 00:06:21 GMT - Lockdown could slowly be lifted soon but what are the risks associated with relaxing certain restrictions?
