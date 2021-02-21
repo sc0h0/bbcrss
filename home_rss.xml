@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Feb 2021 05:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 06:23:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/56102610</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56102610</guid>
             <pubDate>Sun, 21 Feb 2021 00:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Child heart transplants: Record year for new-style operations]]></title>
+            <description><![CDATA[A novel approach is cutting waiting lists and helping children like Freya get organ transplants.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56127933</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56127933</guid>
+            <pubDate>Sun, 21 Feb 2021 06:00:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Fewest firms planning job cuts since pandemic began]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56140274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56140274</guid>
             <pubDate>Sat, 20 Feb 2021 22:03:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Misunderstanding' over new smacking ban in Wales]]></title>
-            <description><![CDATA[When asked, 23% said there knew of the changes and 26% said they knew but were unsure of details.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56128587</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56128587</guid>
-            <pubDate>Sat, 20 Feb 2021 22:21:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duke of Edinburgh: Prince Charles visits his father in hospital]]></title>
@@ -252,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/football/56142686</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56142686</guid>
             <pubDate>Sat, 20 Feb 2021 21:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whyte's rematch with Povetkin put back three weeks]]></title>
+            <description><![CDATA[Dillian Whyte's rematch with Russian Alexander Povetkin is put back three weeks to 27 March in Gibraltar.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/56142151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56142151</guid>
+            <pubDate>Sat, 20 Feb 2021 19:50:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Have lockdowns affected my child's physical and mental health?]]></title>
