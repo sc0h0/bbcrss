@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Feb 2021 00:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 00:37:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Boris Johnson says there will be "no let up", as he prepares to set out his plan to ease lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56141867</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56141867</guid>
-            <pubDate>Sun, 21 Feb 2021 00:15:04 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2021 00:27:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duke of Edinburgh: Prince Charles visits his father in hospital]]></title>
@@ -135,18 +135,18 @@
             <pubDate>Sun, 21 Feb 2021 00:05:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pablo Hasel: Luxury stores looted and vehicles ablaze in Barcelona protests]]></title>
+            <description><![CDATA[The arrest of the Catalan rapper has ignited a debate over freedom of speech in Spain.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56143296</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56143296</guid>
+            <pubDate>Sat, 20 Feb 2021 23:49:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: 'Each one of these people mattered']]></title>
             <description><![CDATA[Suzanne Brennan Firstenberg is using art to show the "depth and breadth" of Covid's US death toll.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56118935</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56118935</guid>
             <pubDate>Sat, 20 Feb 2021 23:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pablo Hasel: Luxury stores looted and vehicles ablaze in Barcelona protests]]></title>
-            <description><![CDATA[The arrest of the Catalan rapper has ignited ignited a debate over freedom of speech in Spain.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56143296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56143296</guid>
-            <pubDate>Sat, 20 Feb 2021 23:49:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICYMI: An ice carousel, a wallaby and a mammoth tooth]]></title>
@@ -189,6 +189,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56085924</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56085924</guid>
             <pubDate>Sat, 20 Feb 2021 23:44:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Singapore vending machines now dispense salmon, crab and even cacti]]></title>
+            <description><![CDATA[The city state has a dizzying array of vending machines, dispensing everything from cacti to pizza.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56066064</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56066064</guid>
+            <pubDate>Sat, 20 Feb 2021 23:53:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How European businesses are adapting to Brexit]]></title>
@@ -261,6 +268,41 @@
             <pubDate>Sat, 20 Feb 2021 19:50:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Have lockdowns affected my child's physical and mental health?]]></title>
+            <description><![CDATA[Should parents of under-fives worry about Covid restrictions harming their child's development?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55936928</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55936928</guid>
+            <pubDate>Fri, 12 Feb 2021 13:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Who should be shielding and why?]]></title>
+            <description><![CDATA[More people have been added to the clinically extremely vulnerable list in England. Why?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51997151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51997151</guid>
+            <pubDate>Tue, 16 Feb 2021 14:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Has the NHS got enough of the right PPE?]]></title>
+            <description><![CDATA[Who needs it - and does the UK health service have the right kit?]]></description>
+            <link>https://www.bbc.co.uk/news/health-52254745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52254745</guid>
+            <pubDate>Fri, 19 Feb 2021 07:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 16 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Thu, 18 Feb 2021 17:38:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
+            <description><![CDATA[The R number is a simple but crucial figure at the heart of lockdown decisions across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52473523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52473523</guid>
+            <pubDate>Fri, 19 Feb 2021 15:51:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
             <description><![CDATA[Two approved Covid vaccines are being rolled out across the UK, so when might you get one?]]></description>
             <link>https://www.bbc.co.uk/news/health-55045639</link>
@@ -303,20 +345,6 @@
             <pubDate>Fri, 19 Feb 2021 16:21:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
-            <description><![CDATA[The R number is a simple but crucial figure at the heart of lockdown decisions across the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/health-52473523</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52473523</guid>
-            <pubDate>Fri, 19 Feb 2021 15:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Who should be shielding and why?]]></title>
-            <description><![CDATA[More people have been added to the clinically extremely vulnerable list in England. Why?]]></description>
-            <link>https://www.bbc.co.uk/news/health-51997151</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51997151</guid>
-            <pubDate>Tue, 16 Feb 2021 14:00:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coronavirus: Where does the government borrow billions from?]]></title>
             <description><![CDATA[How does it work when a government wants to borrow money, and when does it have to pay it back?]]></description>
             <link>https://www.bbc.co.uk/news/business-50504151</link>
@@ -343,13 +371,6 @@
             <link>https://www.bbc.co.uk/news/world-55795297</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55795297</guid>
             <pubDate>Fri, 19 Feb 2021 13:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Has the NHS got enough of the right PPE?]]></title>
-            <description><![CDATA[Who needs it - and does the UK health service have the right kit?]]></description>
-            <link>https://www.bbc.co.uk/news/health-52254745</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52254745</guid>
-            <pubDate>Fri, 19 Feb 2021 07:58:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which areas are being mass tested for new variants?]]></title>
@@ -387,39 +408,32 @@
             <pubDate>Wed, 17 Feb 2021 01:15:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Murmurations above supermarket 'wow' shoppers]]></title>
-            <description><![CDATA[The flock started to settle in trees near Asda, on Hall Road, Norwich at the weekend.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-56084376</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-56084376</guid>
-            <pubDate>Tue, 16 Feb 2021 16:41:53 GMT</pubDate>
+            <title><![CDATA[Surviving rape: 'I'd watch TV and start feeling sick']]></title>
+            <description><![CDATA[Martha was raped by a man she had trusted. She explains what it's been like trying to overcome this.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-52789264</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-52789264</guid>
+            <pubDate>Mon, 15 Feb 2021 02:02:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Swansea blitz: Childhood memories of 'bombing horror', 80 years on]]></title>
-            <description><![CDATA[The Three Nights' Blitz began on 19 February 1941, killing 230 and injuring nearly 400.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56115198</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56115198</guid>
-            <pubDate>Fri, 19 Feb 2021 06:07:19 GMT</pubDate>
+            <title><![CDATA[Foot-and-mouth outbreak: Looking back at the crisis after 20 years]]></title>
+            <description><![CDATA[A vet recalls how farmers wept as she told them that their animals were infected with the disease.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56115200</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56115200</guid>
+            <pubDate>Fri, 19 Feb 2021 06:03:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I rescued my son after lightning set fire to our home']]></title>
-            <description><![CDATA[Kerry Quinn stumbled upstairs through the smoke to reach her sleeping teenage son, before taking him out to safety.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56098205</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56098205</guid>
-            <pubDate>Thu, 18 Feb 2021 13:18:31 GMT</pubDate>
+            <title><![CDATA[Cannabis found by off-duty Essex police officer during house viewing]]></title>
+            <description><![CDATA[The off-duty officer was visiting the property with an estate agent when they looked in the garage.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-56082500</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-56082500</guid>
+            <pubDate>Tue, 16 Feb 2021 15:51:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Handforth Parish Council Zoom meeting dogged by rows again]]></title>
-            <description><![CDATA[Thousands tune in for the latest Handforth Parish Council meeting but Jackie Weaver is not present.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-56101198</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56101198</guid>
-            <pubDate>Wed, 17 Feb 2021 22:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Should university students get a refund?]]></title>
-            <description><![CDATA[The pandemic has meant most students have been unable to go to lectures - so should they get a refund?]]></description>
-            <link>https://www.bbc.co.uk/news/education-56083667</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56083667</guid>
-            <pubDate>Wed, 17 Feb 2021 00:46:00 GMT</pubDate>
+            <title><![CDATA[Brian Johnson says AC/DC album is tribute to 'spiritual leader' Malcolm Young]]></title>
+            <description><![CDATA[Singer Brian Johnson says the band wanted to make Scottish founder Malcolm Young proud with their new album.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56116291</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56116291</guid>
+            <pubDate>Thu, 18 Feb 2021 19:09:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
