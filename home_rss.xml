@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Feb 2021 08:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 08:35:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Sun, 21 Feb 2021 01:06:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israel eases restrictions following vaccine success]]></title>
-            <description><![CDATA[Shops, libraries and museums are now open to the public, following easing of Covid rules.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56143126</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56143126</guid>
-            <pubDate>Sun, 21 Feb 2021 00:58:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US plane scatters engine debris over Denver homes]]></title>
             <description><![CDATA[The Honolulu-bound Boeing suffered engine failure but returned safely to Denver airport.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56141673</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56141673</guid>
             <pubDate>Sun, 21 Feb 2021 01:48:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel eases restrictions following vaccine success]]></title>
+            <description><![CDATA[Shops, libraries and museums are now open to the public, following easing of Covid rules.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56143126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56143126</guid>
+            <pubDate>Sun, 21 Feb 2021 00:58:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown review: What are the risks of schools, pubs and shops reopening?]]></title>
