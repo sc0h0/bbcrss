@@ -1,5 +1,5 @@
 
-    1. [Coronavirus: Latest data shows vaccine reduces transmission - Hancock](https://www.bbc.co.uk/news/uk-56145392) - Sun, 21 Feb 2021 21:21:27 GMT - Matt Hancock says hospital admissions are falling more sharply than the first wave of the pandemic.
+    1. [Covid: Boris Johnson to unveil 'cautious' plan to lift England's lockdown](https://www.bbc.co.uk/news/uk-56148160) - Sun, 21 Feb 2021 23:06:54 GMT - All schools are expected to reopen on 8 March, with some outdoor socialising allowed from 29 March.
 1. [Exeter house fire: Girl, 4, and couple die](https://www.bbc.co.uk/news/uk-england-devon-56145465) - Sun, 21 Feb 2021 17:09:31 GMT - Police call it a "tragic incident" and say no-one is being sought in connection with the fire.
 1. [Jo Whiley: It's been the worst week of our lives as Frances struggles with Covid](https://www.bbc.co.uk/news/uk-56139393) - Sun, 21 Feb 2021 17:06:42 GMT - The DJ says her sister Frances, who has a learning disability and diabetes, is "fighting for her life" with Covid.
 1. [Coronavirus: 'Right' to delay contract transparency in pandemic, says Hancock](https://www.bbc.co.uk/news/uk-politics-56145490) - Sun, 21 Feb 2021 14:12:14 GMT - The health secretary defends his team after a court rules he acted unlawfully during the pandemic.
