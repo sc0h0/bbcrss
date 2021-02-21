@@ -19,7 +19,7 @@ jobs:
         curl https://feeds.bbci.co.uk/news/rss.xml?edition=uk > home_uk.xml
     - name: Run XSLT
       run: |-
-        xsltproc home_uk.xml rss.xslt > home_uk.md
+        xsltproc rss.xslt home_uk.xml > home_uk.md
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
