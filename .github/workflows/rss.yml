@@ -10,11 +10,16 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
+    - name: Install xsltproc
+      run: apt-get install xsltproc
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Fetch latest JSON data
+    - name: Fetch latest UK RSS
       run: |-
-        curl https://feeds.bbci.co.uk/news/rss.xml?edition=uk > home_rss.xml
+        curl https://feeds.bbci.co.uk/news/rss.xml?edition=uk > home_uk.xml
+    - name: Run XSLT
+      run: |-
+        xsltproc home_uk.xml rss.xslt > home_uk.md
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
