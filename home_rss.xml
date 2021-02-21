@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Feb 2021 02:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 03:20:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Sun, 21 Feb 2021 01:48:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Duke of Edinburgh: Prince Charles visits his father in hospital]]></title>
-            <description><![CDATA[The Duke of Edinburgh, 99, was admitted to King Edward VII Hospital in central London on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56141128</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56141128</guid>
-            <pubDate>Sat, 20 Feb 2021 21:16:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lockdown review: What are the risks of schools, pubs and shops reopening?]]></title>
             <description><![CDATA[Lockdown could slowly be lifted soon but what are the risks associated with relaxing certain restrictions?]]></description>
             <link>https://www.bbc.co.uk/news/56102610</link>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/business-56130167</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56130167</guid>
             <pubDate>Sun, 21 Feb 2021 00:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Duke of Edinburgh: Prince Charles visits his father in hospital]]></title>
+            <description><![CDATA[The Duke of Edinburgh, 99, was admitted to King Edward VII Hospital in central London on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56141128</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56141128</guid>
+            <pubDate>Sat, 20 Feb 2021 21:16:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RAF sonic boom: Ministry of Defence receives TV and window damage claims]]></title>
@@ -252,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/football/56142686</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56142686</guid>
             <pubDate>Sat, 20 Feb 2021 21:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whyte's rematch with Povetkin put back three weeks]]></title>
-            <description><![CDATA[Dillian Whyte's rematch with Russian Alexander Povetkin is put back three weeks to 27 March in Gibraltar.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/56142151</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56142151</guid>
-            <pubDate>Sat, 20 Feb 2021 19:50:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Have lockdowns affected my child's physical and mental health?]]></title>
