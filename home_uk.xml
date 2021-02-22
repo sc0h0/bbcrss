@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Feb 2021 13:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2021 14:13:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,20 +28,6 @@
             <link>https://www.bbc.co.uk/news/health-56153600</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56153600</guid>
             <pubDate>Mon, 22 Feb 2021 10:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boeing 777: Dozens grounded after Denver engine failure]]></title>
-            <description><![CDATA[United Airlines and Japan's two main airlines suspend 56 planes after the incident over Denver.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56149894</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56149894</guid>
-            <pubDate>Mon, 22 Feb 2021 12:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Edvard Munch wrote 'madman' graffiti on Scream painting, scans show]]></title>
-            <description><![CDATA[The words "Can only have been painted by a madman" are written in the corner of the famous painting.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56127530</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56127530</guid>
-            <pubDate>Mon, 22 Feb 2021 00:26:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid lockdown: 'We are burning through about £500,000 a day']]></title>
@@ -63,6 +49,20 @@
             <link>https://www.bbc.co.uk/news/business-56154961</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56154961</guid>
             <pubDate>Mon, 22 Feb 2021 13:07:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Edvard Munch wrote 'madman' graffiti on Scream painting, scans show]]></title>
+            <description><![CDATA[The words "Can only have been painted by a madman" are written in the corner of the famous painting.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56127530</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56127530</guid>
+            <pubDate>Mon, 22 Feb 2021 00:26:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boeing 777: Dozens grounded after Denver engine failure]]></title>
+            <description><![CDATA[United Airlines and Japan's two main airlines suspend 56 planes after the incident over Denver.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56149894</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56149894</guid>
+            <pubDate>Mon, 22 Feb 2021 12:04:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Italian ambassador to DR Congo killed in UN convoy attack]]></title>
@@ -101,7 +101,7 @@
         </item>
         <item>
             <title><![CDATA[139-year-old Victorian house moved in San Francisco]]></title>
-            <description><![CDATA[The Victorian building was moved six blocks, but it was not an simple journey.]]></description>
+            <description><![CDATA[The Victorian building was moved six blocks, but it was not a simple journey.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56156483</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56156483</guid>
             <pubDate>Mon, 22 Feb 2021 12:48:01 GMT</pubDate>
@@ -126,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/health-56132395</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56132395</guid>
             <pubDate>Mon, 22 Feb 2021 00:00:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Owain Wyn Evans: 'I had to go back in the closet for first TV job']]></title>
+            <description><![CDATA[Weather presenter Owain Wyn Evans tells his coming out story as part of LGBT+ History Month.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-56124667</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56124667</guid>
+            <pubDate>Mon, 22 Feb 2021 09:02:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shrewsbury Cathedral conservators find hidden paintings]]></title>
@@ -254,11 +261,18 @@
             <pubDate>Sun, 21 Feb 2021 23:31:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man Utd v Newcastle: ‘Martial a talented player – but not a striker’]]></title>
-            <description><![CDATA[Alan Shearer and Dion Dublin question Anthony Martial's suitability as a striker, having only scored four Premier League goals for Manchester United this season.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56150151</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56150151</guid>
-            <pubDate>Sun, 21 Feb 2021 23:56:59 GMT</pubDate>
+            <title><![CDATA[Which way will the 'GOAT race' go after Djokovic narrows the gap?]]></title>
+            <description><![CDATA[Not only was Novak Djokovic playing for the Australian Open title on Sunday, he was jostling for position in the race to be crowned the 'GOAT' in men's tennis.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/56146799</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56146799</guid>
+            <pubDate>Sun, 21 Feb 2021 15:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the UK's lockdown rules and when will they end?]]></title>
+            <description><![CDATA[People across the country have been urged to "double down" and stick to the lockdown rules.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Mon, 22 Feb 2021 13:55:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many cases are there in your area?]]></title>
@@ -266,13 +280,6 @@
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Sun, 21 Feb 2021 17:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What are the UK's lockdown rules and when will they end?]]></title>
-            <description><![CDATA[People across the country have been urged to "double down" and stick to the lockdown rules.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 22 Feb 2021 13:25:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will schools reopen?]]></title>
