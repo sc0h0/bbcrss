@@ -1,5 +1,5 @@
 
-    1. [Lockdown: Boris Johnson unveils plan to end England restrictions by 21 June](https://www.bbc.co.uk/news/uk-56158405) - Mon, 22 Feb 2021 21:17:28 GMT - Shops, hairdressers, gyms and outdoor hospitality could reopen on 12 April, Boris Johnson says.
+    1. [Lockdown: Boris Johnson unveils plan to end England restrictions by 21 June](https://www.bbc.co.uk/news/uk-56158405) - Mon, 22 Feb 2021 21:46:17 GMT - Shops, hairdressers, gyms and outdoor hospitality could reopen on 12 April, Boris Johnson says.
 1. [Nasa reveals new video from Mars Perseverance Rover](https://www.bbc.co.uk/news/science-environment-56159376) - Mon, 22 Feb 2021 19:33:43 GMT - The American space agency has released stunning video of its Perseverance rover landing on Mars.
 1. [Nicola Sturgeon challenges Alex Salmond over 'conspiracy' claims](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56155102) - Mon, 22 Feb 2021 20:06:56 GMT - Nicola Sturgeon claims that Alex Salmond has made allegations "without a shred of evidence".
 1. [England's schools back on 8 March with home Covid tests](https://www.bbc.co.uk/news/education-56153751) - Mon, 22 Feb 2021 19:59:28 GMT - Parents of secondary school pupils will carry out Covid tests and face masks will be worn in class.
