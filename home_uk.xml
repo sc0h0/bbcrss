@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Feb 2021 12:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2021 12:45:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,17 +24,10 @@
         </item>
         <item>
             <title><![CDATA[Covid vaccines - 'spectacular' impact on serious illness]]></title>
-            <description><![CDATA[First evidence from the UK's vaccine programme shows a reduction in hospitalisations in Scotland.]]></description>
+            <description><![CDATA[First evidence from the UK's vaccine programme shows a reduction in hospital admissions in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/health-56153600</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56153600</guid>
             <pubDate>Mon, 22 Feb 2021 10:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['They wanted to jail a banker - I was that banker']]></title>
-            <description><![CDATA[Tom Hayes, jailed for rigging interest rates, tells the BBC fresh evidence will show his conviction was unsafe.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56088419</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56088419</guid>
-            <pubDate>Mon, 22 Feb 2021 04:56:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boeing 777: Dozens grounded after Denver engine failure]]></title>
@@ -51,25 +44,32 @@
             <pubDate>Mon, 22 Feb 2021 00:26:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fly-tipping: Licensing system failing to stop dumping, Panorama finds]]></title>
-            <description><![CDATA[A BBC Panorama investigation finds licensed firms involved in the dumping of rubbish.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56128314</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56128314</guid>
-            <pubDate>Mon, 22 Feb 2021 00:42:04 GMT</pubDate>
+            <title><![CDATA[Covid lockdown: 'We are burning through about £500,000 a day']]></title>
+            <description><![CDATA[The owner of PureGym says lockdown has been costing his business hundreds of thousands of pounds a day.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56152833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56152833</guid>
+            <pubDate>Mon, 22 Feb 2021 10:34:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Youngest pupils return as schools reopen]]></title>
-            <description><![CDATA[Schools across the country have been closed to the vast majority of pupils since December.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-56152201</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56152201</guid>
-            <pubDate>Mon, 22 Feb 2021 10:36:57 GMT</pubDate>
+            <title><![CDATA['They wanted to jail a banker - I was that banker']]></title>
+            <description><![CDATA[Tom Hayes, jailed for rigging interest rates, tells the BBC fresh evidence will show his conviction was unsafe.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56088419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56088419</guid>
+            <pubDate>Mon, 22 Feb 2021 04:56:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pupils in Wales return for first time in two months]]></title>
-            <description><![CDATA[Most children have been learning at home since schools closed before Christmas.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56131719</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56131719</guid>
-            <pubDate>Mon, 22 Feb 2021 10:47:30 GMT</pubDate>
+            <title><![CDATA[Prince Philip 'OK' after sixth night in hospital, Duke of Cambridge says]]></title>
+            <description><![CDATA[The exact reason for the Duke of Edinburgh's admission to hospital last Tuesday has not been disclosed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56150725</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56150725</guid>
+            <pubDate>Mon, 22 Feb 2021 12:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Italian ambassador to DR Congo killed in UN convoy attack]]></title>
+            <description><![CDATA[Luca Attanasio and two other people die after his UN convoy is attacked near Goma.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56151600</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56151600</guid>
+            <pubDate>Mon, 22 Feb 2021 12:32:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Captain Sir Tom Moore: Daughters release funeral details]]></title>
@@ -77,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56153128</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56153128</guid>
             <pubDate>Mon, 22 Feb 2021 11:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Italian ambassador to DR Congo killed in UN convoy attack]]></title>
-            <description><![CDATA[Luca Attanasio and two other people die after his UN convoy is attacked near Goma.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56151600</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56151600</guid>
-            <pubDate>Mon, 22 Feb 2021 11:54:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christchurch earthquake: Memorial held for victims 10 years on]]></title>
@@ -100,11 +93,11 @@
             <pubDate>Mon, 22 Feb 2021 10:29:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid lockdown: 'We are burning through about £500,000 a day']]></title>
-            <description><![CDATA[The owner of PureGym says lockdown has been costing his business hundreds of thousands of pounds a day.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56152833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56152833</guid>
-            <pubDate>Mon, 22 Feb 2021 10:34:42 GMT</pubDate>
+            <title><![CDATA[Fly-tipping: Licensing system failing to stop dumping, Panorama finds]]></title>
+            <description><![CDATA[A BBC Panorama investigation finds licensed firms involved in the dumping of rubbish.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56128314</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56128314</guid>
+            <pubDate>Mon, 22 Feb 2021 00:42:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid and PTSD: Dispelling misconceptions on those who may have it and why]]></title>
@@ -126,13 +119,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-56094394</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56094394</guid>
             <pubDate>Mon, 22 Feb 2021 00:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: 'March to freedom' and 'return to the great outdoors' ]]></title>
-            <description><![CDATA[Monday's papers are dominated by the prime minister's plan to ease lockdown in England.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56149781</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56149781</guid>
-            <pubDate>Mon, 22 Feb 2021 05:20:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Walking Dead cast on the final episodes of a global hit]]></title>
@@ -170,14 +156,21 @@
             <pubDate>Mon, 22 Feb 2021 00:38:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What we know so far about back to school in England]]></title>
+            <description><![CDATA[Will all pupils be back on 8 March and what are the plans for testing, masks, exams and catch-up?]]></description>
+            <link>https://www.bbc.co.uk/news/education-56153751</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56153751</guid>
+            <pubDate>Mon, 22 Feb 2021 11:58:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lockdown review: What are the risks of schools, pubs and shops reopening?]]></title>
             <description><![CDATA[Lockdown could slowly be lifted soon but what are the risks associated with relaxing certain restrictions?]]></description>
             <link>https://www.bbc.co.uk/news/56102610</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56102610</guid>
-            <pubDate>Sun, 21 Feb 2021 00:06:21 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2021 12:38:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Africa's data gap: The cost of not counting the dead]]></title>
+            <title><![CDATA[Measuring Africa’s Data Gap: The cost of not counting the dead]]></title>
             <description><![CDATA[Just eight countries in Africa have adequate death registration systems, a BBC investigation finds.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-55674139</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55674139</guid>
