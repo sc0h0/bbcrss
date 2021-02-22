@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Feb 2021 08:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2021 09:14:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[All schools are expected to reopen on 8 March, with some outdoor socialising allowed from 29 March.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56148160</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56148160</guid>
-            <pubDate>Mon, 22 Feb 2021 08:15:10 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2021 08:59:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boeing 777s grounded after Denver engine failure]]></title>
@@ -58,6 +58,20 @@
             <pubDate>Mon, 22 Feb 2021 00:26:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Youngest pupils return as schools reopen]]></title>
+            <description><![CDATA[Schools across the country have been closed to the vast majority of pupils since December.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56152201</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56152201</guid>
+            <pubDate>Mon, 22 Feb 2021 08:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pupils in Wales return for first time in two months]]></title>
+            <description><![CDATA[Most children have been learning at home since schools closed before Christmas.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56131719</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56131719</guid>
+            <pubDate>Mon, 22 Feb 2021 09:12:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[More than half of UK firms plan to hire new staff]]></title>
             <description><![CDATA[The number of firms planning to make staff redundant in the first quarter of 2021 is also falling.]]></description>
             <link>https://www.bbc.co.uk/news/business-56149661</link>
@@ -72,13 +86,6 @@
             <pubDate>Mon, 22 Feb 2021 01:09:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin keeps hitting new highs after Tesla backing]]></title>
-            <description><![CDATA[Having broken through the $50,000 level last week the cryptocurrency has extended its rally this year.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56150425</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56150425</guid>
-            <pubDate>Mon, 22 Feb 2021 03:24:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Catch-up narrative putting 'huge pressure' on children, psychologists say]]></title>
             <description><![CDATA[The British Psychological Society warns against reinforcing the notion that school pupils are "behind".]]></description>
             <link>https://www.bbc.co.uk/news/education-56149902</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56147311</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56147311</guid>
             <pubDate>Sun, 21 Feb 2021 22:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China 'Sexy tea' shop apologises for calling women 'bargains']]></title>
-            <description><![CDATA[The popular beverage chain had previously sold tea bags with the phrase "Master I want you".]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-56150615</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56150615</guid>
-            <pubDate>Mon, 22 Feb 2021 03:25:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'March to freedom' and 'return to the great outdoors' ]]></title>
@@ -212,7 +212,7 @@
             <pubDate>Sun, 21 Feb 2021 15:43:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World number 81 Brown beats O'Sullivan to win Welsh Open]]></title>
+            <title><![CDATA['I always believed in myself' - world number 81 Brown beats O'Sullivan to win Welsh Open]]></title>
             <description><![CDATA[World number 81 Jordan Brown beats Ronnie O'Sullivan 9-8 in a final-frame decider to win the 2021 Welsh Open.]]></description>
             <link>https://www.bbc.co.uk/sport/snooker/56142654</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56142654</guid>
@@ -399,13 +399,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56113478</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56113478</guid>
             <pubDate>Sat, 20 Feb 2021 00:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Norway is offering drug-free treatment to people with psychosis]]></title>
-            <description><![CDATA[People with psychosis are usually given powerful medication - in Norway they can now choose to go drug-free.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-56097028</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56097028</guid>
-            <pubDate>Fri, 19 Feb 2021 00:57:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
