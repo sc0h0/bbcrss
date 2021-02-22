@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Feb 2021 01:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2021 02:00:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,20 @@
             <pubDate>Mon, 22 Feb 2021 00:26:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Australian Open fans criticised for 'booing vaccine']]></title>
+            <description><![CDATA[A crowd's booing of a reference to Covid-19 vaccines is "disgusting", Australia's deputy PM says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-56150021</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56150021</guid>
+            <pubDate>Mon, 22 Feb 2021 01:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Catch-up narrative putting 'huge pressure' on children, psychologists say]]></title>
+            <description><![CDATA[The British Psychological Society warns against reinforcing the notion that school pupils are "behind".]]></description>
+            <link>https://www.bbc.co.uk/news/education-56149902</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56149902</guid>
+            <pubDate>Mon, 22 Feb 2021 01:47:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Iran to stop 'snap' nuclear checks, IAEA confirms]]></title>
             <description><![CDATA[A deal will allow UN inspections of Iran's nuclear facilities to continue - but on more limited terms.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-56030497</link>
@@ -70,20 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-56147309</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56147309</guid>
             <pubDate>Sun, 21 Feb 2021 18:39:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exeter house fire: Girl, 4, and couple die]]></title>
-            <description><![CDATA[Police call it a "tragic incident" and say no-one is being sought in connection with the fire.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-56145465</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56145465</guid>
-            <pubDate>Sun, 21 Feb 2021 17:09:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jo Whiley: It's been the worst week of our lives as Frances struggles with Covid]]></title>
-            <description><![CDATA[The DJ says her sister Frances, who has a learning disability and diabetes, is "fighting for her life" with Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56139393</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56139393</guid>
-            <pubDate>Sun, 21 Feb 2021 17:06:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US plane engine fire: 'I just knew something was wrong']]></title>
@@ -156,13 +156,6 @@
             <pubDate>Sat, 20 Feb 2021 21:40:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The video call apps linking home workers with strangers]]></title>
-            <description><![CDATA[A number of tech firms are connecting people working from home with strangers via video calls.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56083631</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56083631</guid>
-            <pubDate>Mon, 22 Feb 2021 00:10:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lockdown review: What are the risks of schools, pubs and shops reopening?]]></title>
             <description><![CDATA[Lockdown could slowly be lifted soon but what are the risks associated with relaxing certain restrictions?]]></description>
             <link>https://www.bbc.co.uk/news/56102610</link>
@@ -175,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-56085529</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56085529</guid>
             <pubDate>Mon, 22 Feb 2021 00:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The video call apps linking home workers with strangers]]></title>
+            <description><![CDATA[A number of tech firms are connecting people working from home with strangers via video calls.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56083631</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56083631</guid>
+            <pubDate>Mon, 22 Feb 2021 00:10:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Africa's data gap: Measuring the cost of not counting the dead]]></title>
@@ -261,11 +261,11 @@
             <pubDate>Sun, 21 Feb 2021 23:39:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Guardiola surprised by Man City's 18-game winning run after leaders beat Arsenal]]></title>
-            <description><![CDATA[Manchester City boss Pep Guardiola says he is surprised by his side's imperious form "when everyone is suffering in this world" as they make it 18 wins in a row with victory at Arsenal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56033713</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56033713</guid>
-            <pubDate>Sun, 21 Feb 2021 20:35:03 GMT</pubDate>
+            <title><![CDATA[Bundesliga: Erling Braut Haaland and Jadon Sancho score as Borussia Dortmund thrash Schalke]]></title>
+            <description><![CDATA[Watch highlights as goals from Erling Braut Haaland, Jadon Sancho and Raphael Guerreiro help Borussia Dortmund thrash Schalke 4-0 in the Bundesliga.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56145610</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56145610</guid>
+            <pubDate>Sun, 21 Feb 2021 23:00:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many cases are there in your area?]]></title>
