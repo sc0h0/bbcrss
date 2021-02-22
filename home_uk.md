@@ -1,6 +1,6 @@
 
     1. [Nasa reveals new video from Mars Perseverance Rover](https://www.bbc.co.uk/news/science-environment-56159376) - Mon, 22 Feb 2021 19:33:43 GMT - The American space agency has released stunning video of its Perseverance rover landing on Mars.
-1. [Lockdown: Plan to reopen England's shops and gyms on 12 April](https://www.bbc.co.uk/news/uk-56158405) - Mon, 22 Feb 2021 20:11:01 GMT - Boris Johnson hopes all legal limits on social contact could be lifted in England from 21 June.
+1. [Lockdown: Plan to reopen England's shops and gyms on 12 April](https://www.bbc.co.uk/news/uk-56158405) - Mon, 22 Feb 2021 20:43:34 GMT - Boris Johnson hopes all legal limits on social contact could be lifted in England from 21 June.
 1. [Nicola Sturgeon challenges Alex Salmond over 'conspiracy' claims](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56155102) - Mon, 22 Feb 2021 20:06:56 GMT - Nicola Sturgeon claims that Alex Salmond has made allegations "without a shred of evidence".
 1. [England's schools back on 8 March with home Covid tests](https://www.bbc.co.uk/news/education-56153751) - Mon, 22 Feb 2021 19:59:28 GMT - Parents of secondary school pupils will carry out Covid tests and face masks will be worn in class.
 1. [Live music 'at the back of queue to reopen'](https://www.bbc.co.uk/news/entertainment-arts-56159302) - Mon, 22 Feb 2021 18:19:06 GMT - Music and live events bosses have had their say on the PM's new roadmap out of Covid restrictions.
