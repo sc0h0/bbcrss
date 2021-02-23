@@ -64,6 +64,6 @@
 1. [How many cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Mon, 22 Feb 2021 17:44:37 GMT - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 1. [Schools reopening: How at risk are children?](https://www.bbc.co.uk/news/explainers-52777244) - Tue, 23 Feb 2021 00:02:57 GMT - BBC's Health reporter Laura Foster explains what we know currently about how children are affected by the virus.
 1. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Mon, 22 Feb 2021 16:49:20 GMT - Use our search tool to find out about coronavirus rules and restrictions where you live.
-1. [When will I able to go to the gym or get a haircut, in England?](https://www.bbc.co.uk/news/explainers-53349989) - Mon, 22 Feb 2021 17:42:00 GMT - Lockdown is being eased in England. When will services like hairdressers, pubs and gyms open?
+1. [When will I able to go to the gym or get a haircut, in England?](https://www.bbc.co.uk/news/explainers-53349989) - Tue, 23 Feb 2021 12:00:06 GMT - Lockdown is being eased in England. When will services like hairdressers, pubs and gyms open?
 1. [Netflix and Anna Delvey: The race to secure the story of New York's 'fake heiress'](https://www.bbc.co.uk/news/world-us-canada-56113478) - Sat, 20 Feb 2021 00:01:31 GMT - How Anna Sorokin's life rights became hot property.
 
