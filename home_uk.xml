@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Feb 2021 04:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2021 04:36:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/business-56161129</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56161129</guid>
             <pubDate>Mon, 22 Feb 2021 21:50:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook 'to restore news pages in Australia']]></title>
+            <description><![CDATA[Facebook will reverse a decision to block access to news content, Australia's government says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-56165015</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56165015</guid>
+            <pubDate>Tue, 23 Feb 2021 04:34:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Resist becoming numb to the sorrow' - Biden]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56158437</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56158437</guid>
             <pubDate>Mon, 22 Feb 2021 22:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hayley Arceneaux: Cancer survivor joins first all-civilian space mission]]></title>
-            <description><![CDATA[The SpaceX mission will make Hayley Arceneaux the first person with a prosthesis to visit space.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56159726</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56159726</guid>
-            <pubDate>Mon, 22 Feb 2021 21:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gender-reveal device explosion kills father-to-be]]></title>
@@ -245,6 +245,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56123958</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56123958</guid>
             <pubDate>Tue, 23 Feb 2021 00:27:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hayley Arceneaux: Cancer survivor joins first all-civilian space mission]]></title>
+            <description><![CDATA[The SpaceX mission will make Hayley Arceneaux the first person with a prosthesis to visit space.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56159726</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56159726</guid>
+            <pubDate>Mon, 22 Feb 2021 21:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[500,000 deaths: The 'colourful' lives lost to Covid]]></title>
