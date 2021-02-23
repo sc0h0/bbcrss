@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Feb 2021 00:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2021 01:49:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,13 +72,6 @@
             <pubDate>Mon, 22 Feb 2021 18:19:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Parent has seizure during child's Zoom lesson]]></title>
-            <description><![CDATA[Teacher Anthony Cannon-Jones describes feeling "utterly helpless" as the ordeal unfolded.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56152765</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56152765</guid>
-            <pubDate>Mon, 22 Feb 2021 19:39:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Keir Starmer urges government to buy more food from British farmers]]></title>
             <description><![CDATA[Sir Keir Starmer will be the first Labour leader to address the farmers' union since 2008.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56158435</link>
@@ -121,18 +114,18 @@
             <pubDate>Mon, 22 Feb 2021 19:39:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Schools reopening: How at risk are children?]]></title>
+            <description><![CDATA[BBC's Health reporter Laura Foster explains what we know currently about how children are affected by the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52777244</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52777244</guid>
+            <pubDate>Tue, 23 Feb 2021 00:02:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How many cases are there in your area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Mon, 22 Feb 2021 17:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When will schools reopen?]]></title>
-            <description><![CDATA[Boris Johnson says all students in England can return to classrooms from 8 March as part of his "roadmap" for easing lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/education-51643556</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
-            <pubDate>Mon, 22 Feb 2021 16:41:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When will I able to go to the gym or get a haircut, in England?]]></title>
@@ -289,6 +282,34 @@
             <pubDate>Tue, 23 Feb 2021 00:04:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sarika Kale: The sports star who could afford just one meal a day]]></title>
+            <description><![CDATA[Sarika Kale says she survived on instant noodles and chutney for years because that's all she could afford.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56094393</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56094393</guid>
+            <pubDate>Tue, 23 Feb 2021 00:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Church of England Vicar ‘games for God’]]></title>
+            <description><![CDATA[A London vicar says he was "called by God" to create the virtual 'Church of Chat'.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56159786</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56159786</guid>
+            <pubDate>Tue, 23 Feb 2021 00:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[500,000 deaths: The 'colourful' lives lost to Covid]]></title>
+            <description><![CDATA[The sheer scale of the US death toll is hard to comprehend - it helps to hear the individual stories.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56150142</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56150142</guid>
+            <pubDate>Mon, 22 Feb 2021 23:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Augmented reality art: Where your home becomes the gallery]]></title>
+            <description><![CDATA[How virtual artworks allow you to see anything from the sun to a giant spider in your own home.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56123958</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56123958</guid>
+            <pubDate>Tue, 23 Feb 2021 00:27:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[139-year-old Victorian house moved in San Francisco]]></title>
             <description><![CDATA[The Victorian building was moved six blocks, but it was not a simple journey.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56156483</link>
@@ -310,53 +331,32 @@
             <pubDate>Mon, 22 Feb 2021 12:13:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Christchurch earthquake: Memorial held for victims 10 years on]]></title>
-            <description><![CDATA[New Zealand's prime minister attends a service held in tribute to the 185 people who lost their lives.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56153370</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56153370</guid>
-            <pubDate>Mon, 22 Feb 2021 10:03:27 GMT</pubDate>
+            <title><![CDATA[Dating apps scam committed by criminal from inside prison]]></title>
+            <description><![CDATA[A recently reformed criminal shares how he ran romance scams to serve as a warning to others.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56127488</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56127488</guid>
+            <pubDate>Tue, 23 Feb 2021 00:24:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid and PTSD: Dispelling misconceptions on those who may have it and why]]></title>
-            <description><![CDATA[Lifting the lid on common misconceptions, a mother and former Facebook moderator share their experience with post traumatic stress disorder.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56132395</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56132395</guid>
-            <pubDate>Mon, 22 Feb 2021 00:00:25 GMT</pubDate>
+            <title><![CDATA[Is it worth tracking your carbon footprint?]]></title>
+            <description><![CDATA[Apps that offer to track your carbon footprint are becoming more common, but are they any good?]]></description>
+            <link>https://www.bbc.co.uk/news/business-55907643</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55907643</guid>
+            <pubDate>Tue, 23 Feb 2021 00:10:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Owain Wyn Evans: 'I had to go back in the closet for first TV job']]></title>
-            <description><![CDATA[Weather presenter Owain Wyn Evans tells his coming out story as part of LGBT+ History Month.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-56124667</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56124667</guid>
-            <pubDate>Mon, 22 Feb 2021 09:02:23 GMT</pubDate>
+            <title><![CDATA[Covid US death toll: Imagining what 500,000 lost lives look like]]></title>
+            <description><![CDATA[Half a million Americans have died of the coronavirus. Here's a look behind this grim milestone.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56150141</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56150141</guid>
+            <pubDate>Mon, 22 Feb 2021 21:49:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shrewsbury Cathedral conservators find hidden paintings]]></title>
-            <description><![CDATA[The colourful images dating from the Victorian era depict biblical scenes and saints.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-shropshire-56152645</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-56152645</guid>
-            <pubDate>Mon, 22 Feb 2021 10:42:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Divya Kakran: 'I became famous for wrestling boys']]></title>
-            <description><![CDATA[Divya Kakran, a young Indian wrestler, dreams of making history at the Olympics.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56094394</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56094394</guid>
-            <pubDate>Mon, 22 Feb 2021 00:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Walking Dead cast on the final episodes of a global hit]]></title>
-            <description><![CDATA[The Walking Dead is back for new episodes ahead of the show's 2022 conclusion]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-56128639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56128639</guid>
-            <pubDate>Mon, 22 Feb 2021 00:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jasmine Harrison on being youngest solo female to row Atlantic Ocean]]></title>
-            <description><![CDATA[Jasmine Harrison, 21, on becoming the youngest woman to row solo across the Atlantic Ocean.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56145957</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56145957</guid>
-            <pubDate>Sun, 21 Feb 2021 19:05:03 GMT</pubDate>
+            <title><![CDATA[Roadmap: 'We're delighted to have dates to work towards']]></title>
+            <description><![CDATA[Boris Johnson’s route out of lockdown is a relief for businesses, including pubs, restaurants, gyms and retail.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56161126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56161126</guid>
+            <pubDate>Mon, 22 Feb 2021 19:00:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mask force: London's five centuries of face coverings]]></title>
