@@ -1,6 +1,6 @@
 
     1. [Covid-19: PM promises review on issues of vaccine passports](https://www.bbc.co.uk/news/uk-56169616) - Tue, 23 Feb 2021 13:25:58 GMT - Having to show a certificate to go to a pub raises "deep and complex issues", Boris Johnson says.
-1. [Crown Office raises 'concerns' over Alex Salmond papers](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56167956) - Tue, 23 Feb 2021 13:12:21 GMT - The documents were published ahead of the former first minister giving evidence to a Holyrood inquiry.
+1. [Alex Salmond document revised over Crown Office concern](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56167956) - Tue, 23 Feb 2021 13:50:43 GMT - The submission was removed from the Scottish Parliament website before a revised version was published.
 1. [Holiday bookings surge after lockdown exit plans](https://www.bbc.co.uk/news/business-56161129) - Tue, 23 Feb 2021 13:17:31 GMT - Travel firms serving the UK and overseas report a huge jump in bookings and website traffic since Monday.
 1. [Under-25s hit worst as unemployment rises again](https://www.bbc.co.uk/news/business-56165929) - Tue, 23 Feb 2021 12:22:58 GMT - UK unemployment has risen to 5.1% - its highest level in almost five years, official figures show.
 1. [Covid: Biden calls 500,000 death toll a heartbreaking milestone](https://www.bbc.co.uk/news/world-us-canada-56159756) - Tue, 23 Feb 2021 08:43:17 GMT - President Joe Biden addresses the nation as the US mourns 500,000 people lost to Covid-19.
