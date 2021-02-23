@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Feb 2021 12:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2021 12:59:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Covid-19: PM 'optimistic' restrictions can end by 21 June]]></title>
-            <description><![CDATA[There will also be a review into the idea of vaccine passports, Boris Johnson said.]]></description>
+            <description><![CDATA[There will be a review into vaccine passports but there are "complex issues," says Boris Johnson.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56169616</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56169616</guid>
-            <pubDate>Tue, 23 Feb 2021 12:09:01 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2021 12:38:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Holiday bookings surge following lockdown exit plans]]></title>
             <description><![CDATA[Travel agencies and airlines say website traffic jumped following Boris Johnson's announcement.]]></description>
             <link>https://www.bbc.co.uk/news/business-56161129</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56161129</guid>
-            <pubDate>Tue, 23 Feb 2021 10:53:40 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2021 12:33:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Crown Office raises 'concerns' over Alex Salmond papers]]></title>
@@ -98,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56159731</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56159731</guid>
             <pubDate>Tue, 23 Feb 2021 01:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: What are the rules for face masks or face coverings?]]></title>
-            <description><![CDATA[As the UK cautiously unlocks, experts will review the evidence on when and where masks are needed.]]></description>
-            <link>https://www.bbc.co.uk/news/health-51205344</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
-            <pubDate>Tue, 23 Feb 2021 11:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will I be able to go on a foreign holiday? And other questions]]></title>
-            <description><![CDATA[We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
-            <pubDate>Tue, 23 Feb 2021 10:36:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How can children make up for lost school time?]]></title>
@@ -422,6 +408,13 @@
             <pubDate>Tue, 23 Feb 2021 06:36:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Everton's Bramley-Moore Dock stadium approved by council]]></title>
+            <description><![CDATA[The club says the venue at Bramley-Moore Dock will be a "world-class addition" to Liverpool's waterfront.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-56167487</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-56167487</guid>
+            <pubDate>Tue, 23 Feb 2021 12:47:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[France-Scotland game awaits Wednesday decision but no more positive tests on Tuesday]]></title>
             <description><![CDATA[Scotland's Six Nations match in Paris on Sunday is thrown into further doubt after five more France players tested positive for coronavirus.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56154026</link>
@@ -429,11 +422,25 @@
             <pubDate>Tue, 23 Feb 2021 10:01:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['He is a natural-born striker' - Tuchel wary of threat from Atletico's Suarez]]></title>
-            <description><![CDATA[Chelsea will be without defender Thiago Silva for the first leg of their Champions League last-16 tie against Atletico Madrid on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56159008</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56159008</guid>
-            <pubDate>Mon, 22 Feb 2021 16:53:45 GMT</pubDate>
+            <title><![CDATA[Coronavirus: What are the rules for face masks or face coverings?]]></title>
+            <description><![CDATA[As the UK cautiously unlocks, experts will review the evidence on when and where masks are needed.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Tue, 23 Feb 2021 11:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When can I go on holiday in the UK or travel abroad?]]></title>
+            <description><![CDATA[The government has unveiled its plans for unlocking UK restrictions, including holiday travel.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
+            <pubDate>Tue, 23 Feb 2021 12:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will I still have to work at home? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Tue, 23 Feb 2021 10:36:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
@@ -441,6 +448,13 @@
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
             <pubDate>Tue, 23 Feb 2021 09:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When will pubs, hairdressers and gyms open?]]></title>
+            <description><![CDATA[Lockdown is being eased in England. When will services like hairdressers, pubs and gyms open?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
+            <pubDate>Tue, 23 Feb 2021 12:00:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How many cases are there in your area?]]></title>
@@ -462,13 +476,6 @@
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
             <pubDate>Mon, 22 Feb 2021 16:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When will I able to go to the gym or get a haircut, in England?]]></title>
-            <description><![CDATA[Lockdown is being eased in England. When will services like hairdressers, pubs and gyms open?]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
-            <pubDate>Tue, 23 Feb 2021 12:00:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netflix and Anna Delvey: The race to secure the story of New York's 'fake heiress']]></title>
