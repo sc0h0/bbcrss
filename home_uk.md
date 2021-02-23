@@ -1,5 +1,5 @@
 
-    1. [Covid-19: Lockdown easing to make life 'incomparably better'](https://www.bbc.co.uk/news/uk-56164098) - Tue, 23 Feb 2021 06:55:09 GMT - Restrictions could be fully eased by 21 June under Boris Johnson's roadmap - if all goes to plan.
+    1. [Covid-19: Lockdown easing to make life 'incomparably better'](https://www.bbc.co.uk/news/uk-56164098) - Tue, 23 Feb 2021 07:36:23 GMT - Restrictions could be fully eased by 21 June under Boris Johnson's roadmap - if all goes to plan.
 1. [Covid: Biden calls 500,000 death toll a 'heartbreaking milestone'](https://www.bbc.co.uk/news/world-us-canada-56159756) - Tue, 23 Feb 2021 07:16:04 GMT - President Joe Biden addresses the nation as the US mourns 500,000 people lost to Covid-19.
 1. [Holiday bookings surge following lockdown exit plans](https://www.bbc.co.uk/news/business-56161129) - Mon, 22 Feb 2021 21:50:26 GMT - Travel agencies and airlines say website traffic jumped following Boris Johnson's announcement.
 1. [UK unemployment rate rises to 5.1%](https://www.bbc.co.uk/news/business-56165929) - Tue, 23 Feb 2021 07:22:39 GMT - The rate of unemployment in the UK rose 5.1% in the three months to December, figures show.
