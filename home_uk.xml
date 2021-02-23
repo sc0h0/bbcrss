@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Feb 2021 07:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2021 08:14:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,14 +34,21 @@
             <description><![CDATA[Travel agencies and airlines say website traffic jumped following Boris Johnson's announcement.]]></description>
             <link>https://www.bbc.co.uk/news/business-56161129</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56161129</guid>
-            <pubDate>Mon, 22 Feb 2021 21:50:26 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2021 08:11:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK unemployment rate rises to 5.1%]]></title>
             <description><![CDATA[The rate of unemployment in the UK rose 5.1% in the three months to December, figures show.]]></description>
             <link>https://www.bbc.co.uk/news/business-56165929</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56165929</guid>
-            <pubDate>Tue, 23 Feb 2021 07:43:52 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2021 08:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: PM defends 'cautious' plan, and travel bookings surge]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56165287</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56165287</guid>
+            <pubDate>Tue, 23 Feb 2021 07:23:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Facebook reverses ban on news pages in Australia]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56159731</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56159731</guid>
             <pubDate>Tue, 23 Feb 2021 01:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clubhouse confirms data spillage of its audio streams]]></title>
-            <description><![CDATA[A user has been banned for streaming audio from multiple Clubhouse chatrooms onto their website.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56163623</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56163623</guid>
-            <pubDate>Tue, 23 Feb 2021 04:41:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keir Starmer urges government to buy more food from British farmers]]></title>
@@ -282,7 +282,7 @@
             <pubDate>Tue, 23 Feb 2021 00:50:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Church of England Vicar ‘games for God’]]></title>
+            <title><![CDATA[Church of England vicar ‘games for God’]]></title>
             <description><![CDATA[A London vicar says he was "called by God" to create the virtual 'Church of Chat'.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56159786</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56159786</guid>
@@ -401,6 +401,13 @@
             <pubDate>Mon, 22 Feb 2021 23:40:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England deliver all-round performance in big ODI win over New Zealand]]></title>
+            <description><![CDATA[England register a comfortable eight-wicket win over New Zealand in their first one-day international for over a year.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/56165588</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56165588</guid>
+            <pubDate>Tue, 23 Feb 2021 07:45:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Josh Warrington: Mauricio Lara rematch could be make or break for career]]></title>
             <description><![CDATA[British featherweight Josh Warrington explains why he wants to face Mauricio Lara again in a make-or-break rematch.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/56151891</link>
@@ -413,20 +420,6 @@
             <link>https://www.bbc.co.uk/sport/football/56154118</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56154118</guid>
             <pubDate>Tue, 23 Feb 2021 06:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women's match, which will be televised on the BBC, to kick off The Hundred in July]]></title>
-            <description><![CDATA[The first match of The Hundred will be a women's fixture between Oval Invincibles and Manchester Originals on 21 July live on BBC TV.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/56153411</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56153411</guid>
-            <pubDate>Tue, 23 Feb 2021 07:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Zero tolerance' - UK Athletics chief wants life ban for all abusive coaches]]></title>
-            <description><![CDATA[Coaches found guilty of physical or sexual misconduct should receive a mandatory lifetime ban from the sport, says UK Athletics' chief executive Joanna Coates.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/56162384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/56162384</guid>
-            <pubDate>Tue, 23 Feb 2021 06:18:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Murray 'didn't want to see' Australian Open after being forced to miss it]]></title>
