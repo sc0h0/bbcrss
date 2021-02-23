@@ -1,7 +1,7 @@
 
     1. [Lockdown: Boris Johnson unveils plan to end England restrictions by 21 June](https://www.bbc.co.uk/news/uk-56158405) - Mon, 22 Feb 2021 22:10:39 GMT - Shops, hairdressers, gyms and outdoor hospitality could reopen on 12 April, Boris Johnson says.
 1. [Holiday bookings surge following lockdown exit plans](https://www.bbc.co.uk/news/business-56161129) - Mon, 22 Feb 2021 21:50:26 GMT - Travel agencies and airlines say website traffic jumped following Boris Johnson's announcement.
-1. [Facebook 'to restore news pages in Australia'](https://www.bbc.co.uk/news/world-australia-56165015) - Tue, 23 Feb 2021 04:34:59 GMT - Facebook will reverse a decision to block access to news content, Australia's government says.
+1. [Facebook to restore news pages in Australia](https://www.bbc.co.uk/news/world-australia-56165015) - Tue, 23 Feb 2021 04:45:54 GMT - Facebook will reverse a decision to block access to news content, Australia's government says.
 1. ['Resist becoming numb to the sorrow' - Biden](https://www.bbc.co.uk/news/world-us-canada-56159756) - Tue, 23 Feb 2021 02:13:37 GMT - President Joe Biden addresses the nation as the US mourns 500,000 people lost to Covid-19.
 1. [El Chapo's wife Emma Coronel Aispuro arrested in US over 'drug trafficking'](https://www.bbc.co.uk/news/world-us-canada-56163400) - Tue, 23 Feb 2021 00:21:09 GMT - Emma Coronel Aispuro's arrest comes two years after her husband was convicted in the US over his cartel.
 1. [Nasa reveals new video from Mars Perseverance Rover](https://www.bbc.co.uk/news/science-environment-56159376) - Mon, 22 Feb 2021 19:33:43 GMT - The American space agency has released stunning video of its Perseverance rover landing on Mars.
