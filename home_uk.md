@@ -1,7 +1,7 @@
 
-    1. [Covid-19: Everyone 'has to play their part' in lockdown easing, warns Hancock](https://www.bbc.co.uk/news/uk-56164098) - Tue, 23 Feb 2021 08:43:17 GMT - Health Secretary Matt Hancock says lifting restrictions in England is dependent on how people act.
+    1. [Covid-19: Everyone 'has to play their part' in lockdown easing, warns Hancock](https://www.bbc.co.uk/news/uk-56164098) - Tue, 23 Feb 2021 09:39:27 GMT - Health Secretary Matt Hancock says lifting restrictions in England is dependent on how people act.
 1. [Covid: Biden calls 500,000 death toll a 'heartbreaking milestone'](https://www.bbc.co.uk/news/world-us-canada-56159756) - Tue, 23 Feb 2021 08:43:17 GMT - President Joe Biden addresses the nation as the US mourns 500,000 people lost to Covid-19.
-1. [Holiday bookings surge following lockdown exit plans](https://www.bbc.co.uk/news/business-56161129) - Tue, 23 Feb 2021 08:59:52 GMT - Travel agencies and airlines say website traffic jumped following Boris Johnson's announcement.
+1. [Holiday bookings surge following lockdown exit plans](https://www.bbc.co.uk/news/business-56161129) - Tue, 23 Feb 2021 09:47:27 GMT - Travel agencies and airlines say website traffic jumped following Boris Johnson's announcement.
 1. [UK unemployment rate at highest for almost five years](https://www.bbc.co.uk/news/business-56165929) - Tue, 23 Feb 2021 09:06:37 GMT - The unemployment rate rose to 5.1% in the three months to December, with many younger workers affected.
 1. [Covid-19: Everyone must 'play their part', and travel bookings surge](https://www.bbc.co.uk/news/uk-56165287) - Tue, 23 Feb 2021 07:23:52 GMT - Five things you need to know about the coronavirus pandemic this Tuesday morning.
 1. [Covid in Scotland: Plan to ease lockdown restrictions to be unveiled](https://www.bbc.co.uk/news/uk-scotland-56161336) - Tue, 23 Feb 2021 07:58:19 GMT - The easing of restrictions in Scotland will be "driven by data rather than by hard and fast dates".
