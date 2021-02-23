@@ -1,6 +1,6 @@
 
     1. [Covid in Scotland: Nicola Sturgeon unveils 'cautious' route out of lockdown](https://www.bbc.co.uk/news/uk-scotland-56170916) - Tue, 23 Feb 2021 18:23:51 GMT - Scotland's stay at home rule could be lifted on 5 April, with the economy starting to reopen later in the month.
-1. [Tiger Woods in surgery after car crash, say LA County Sheriff's Department](https://www.bbc.co.uk/sport/golf/56172067) - Tue, 23 Feb 2021 20:33:32 GMT - Fifteen-time golf major champion Tiger Woods is in surgery after being taken to hospital following a car crash.
+1. [Tiger Woods in surgery after car crash, say LA County Sheriff's Department](https://www.bbc.co.uk/sport/golf/56172067) - Tue, 23 Feb 2021 20:48:22 GMT - Fifteen-time golf major champion Tiger Woods is in surgery after being taken to hospital following a car crash.
 1. [Alex Salmond will not appear before MSPs on Wednesday](https://www.bbc.co.uk/news/uk-scotland-56176365) - Tue, 23 Feb 2021 20:06:14 GMT - Alex Salmond had been due to give evidence to the inquiry into how the Scottish government handled complaints against him.
 1. [Jo Whiley: Sister's 'huge thank you' in Covid fight](https://www.bbc.co.uk/news/uk-england-northamptonshire-56175627) - Tue, 23 Feb 2021 19:44:09 GMT - The DJ posts a video of her sister Frances giving a thumbs-up and a round of applause.
 1. [Covid-19: PM promises review on issues of vaccine passports](https://www.bbc.co.uk/news/uk-56169616) - Tue, 23 Feb 2021 20:43:38 GMT - Having to show a certificate to go to a pub raises "deep and complex issues", Boris Johnson says.
