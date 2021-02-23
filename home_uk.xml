@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Feb 2021 14:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2021 14:39:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Scotland's roadmap out of lockdown unveiled]]></title>
+            <description><![CDATA[The stay at home rule could be lifted on 5 April, with the economy starting to reopen later in the month.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56170916</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56170916</guid>
+            <pubDate>Tue, 23 Feb 2021 14:28:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: PM promises review on issues of vaccine passports]]></title>
             <description><![CDATA[Having to show a certificate to go to a pub raises "deep and complex issues", Boris Johnson says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56169616</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56169616</guid>
-            <pubDate>Tue, 23 Feb 2021 14:15:34 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2021 14:34:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alex Salmond document revised over Crown Office concern]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-56111878</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-56111878</guid>
             <pubDate>Tue, 23 Feb 2021 10:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nasa reveals new video from Mars Perseverance Rover]]></title>
-            <description><![CDATA[The American space agency has released stunning video of its Perseverance rover landing on Mars.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-56159376</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56159376</guid>
-            <pubDate>Mon, 22 Feb 2021 19:33:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vanessa Bryant criticises Meek Mill for 'insensitive' Kobe Bryant lyric]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56123958</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56123958</guid>
             <pubDate>Tue, 23 Feb 2021 00:27:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nasa reveals new video from Mars Perseverance Rover]]></title>
+            <description><![CDATA[The American space agency has released stunning video of its Perseverance rover landing on Mars.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56159376</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56159376</guid>
+            <pubDate>Mon, 22 Feb 2021 19:33:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[500,000 deaths: The 'colourful' lives lost to Covid]]></title>
@@ -275,6 +282,13 @@
             <pubDate>Sun, 21 Feb 2021 00:11:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[White scores hat-trick as England romp to victory]]></title>
+            <description><![CDATA[Ellen White scores a hat-trick as England thrashed Northern Ireland in Hege Riise's first game as temporary Lionesses boss.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56152893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56152893</guid>
+            <pubDate>Tue, 23 Feb 2021 14:27:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Former Scotland, Man Utd and Leeds defender McQueen diagnosed with dementia]]></title>
             <description><![CDATA[Former Scotland, Manchester United and Leeds United defender Gordon McQueen has been diagnosed with vascular dementia, his family have confirmed.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56168698</link>
@@ -283,10 +297,10 @@
         </item>
         <item>
             <title><![CDATA[Everton's Bramley-Moore Dock stadium approved by council]]></title>
-            <description><![CDATA[The club says the venue at Bramley-Moore Dock will be a "world-class addition" to Liverpool's waterfront.]]></description>
+            <description><![CDATA[The club says the stadium at Bramley-Moore Dock will be a "world-class addition" to Liverpool's waterfront.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-56167487</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-56167487</guid>
-            <pubDate>Tue, 23 Feb 2021 13:32:01 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2021 14:36:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bobby Copping: Former Peterborough defender on retiring at 19 after heading a ball]]></title>
@@ -301,13 +315,6 @@
             <link>https://www.bbc.co.uk/sport/formula1/56168559</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56168559</guid>
             <pubDate>Tue, 23 Feb 2021 13:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eurofiles: 'The best manager in the world?' Why Diego Simeone and Atletico Madrid are the perfect fit]]></title>
-            <description><![CDATA[BBC Sport looks at the reasons behind Diego Simeone's successful 10 years at Atletico Madrid, with the club leading city rivals Real Madrid in this season's La Liga title race.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56160426</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56160426</guid>
-            <pubDate>Tue, 23 Feb 2021 06:29:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What are the rules for face masks or face coverings?]]></title>
