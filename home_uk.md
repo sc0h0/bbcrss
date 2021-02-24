@@ -1,6 +1,6 @@
 
     1. [Covid: WHO scheme Covax delivers first vaccines](https://www.bbc.co.uk/news/world-africa-56180161) - Wed, 24 Feb 2021 15:10:28 GMT - The vaccine-sharing scheme aims to help poorer countries like Ghana get Covid-19 jabs.
-1. [Summer catch-up schools planned for pupils in England](https://www.bbc.co.uk/news/education-56175893) - Wed, 24 Feb 2021 14:00:15 GMT - A total of £720m will help ensure "no child is left behind" due to the pandemic, Boris Johnson says.
+1. [Summer catch-up schools planned for pupils in England](https://www.bbc.co.uk/news/education-56175893) - Wed, 24 Feb 2021 15:43:40 GMT - A total of £700m will help ensure "no child is left behind" due to the pandemic, Boris Johnson says.
 1. [Covid: 150,000 with learning disabilities to be prioritised for vaccine](https://www.bbc.co.uk/news/health-56181154) - Wed, 24 Feb 2021 13:03:25 GMT - It comes after DJ Jo Whiley's call for people like her sister to be vaccinated as soon as possible.
 1. [Alex Salmond saga 'a crisis of credibility' for Holyrood](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56181114) - Wed, 24 Feb 2021 12:11:15 GMT - Opposition leaders demand the Lord Advocate explain why evidence from Alex Salmond was redacted.
 1. [New Zealand: Rescuers save 28 whales from stranding spot](https://www.bbc.co.uk/news/world-asia-56181866) - Wed, 24 Feb 2021 10:10:56 GMT - Rescuers have successfully refloated 28 pilot whales on a notorious New Zealand beach, Farewell Spit.
