@@ -1,5 +1,5 @@
 
-    1. [No child's prospects should be 'blighted by pandemic'](https://www.bbc.co.uk/news/uk-56187673) - Wed, 24 Feb 2021 19:42:40 GMT - The education secretary sets out £700m to help pupils in England catch up on missed time in school.
+    1. [No child's prospects should be 'blighted by pandemic'](https://www.bbc.co.uk/news/uk-56187673) - Wed, 24 Feb 2021 19:51:56 GMT - The education secretary sets out £700m to help pupils in England catch up on missed time in school.
 1. [Alex Salmond saga 'a crisis of credibility' for Holyrood](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56181114) - Wed, 24 Feb 2021 16:50:33 GMT - Opposition leaders question why the Crown Office asked for written evidence from Alex Salmond to be redacted.
 1. [Covid-19: Adverts urge people to 'keep going' and remain at home](https://www.bbc.co.uk/news/uk-56187666) - Wed, 24 Feb 2021 18:00:35 GMT - It comes amid falling cases, the vaccine rollout and the launch of the roadmap out of lockdown.
 1. [Covid-19: 'No child's prospects should be blighted', and music festival hopes](https://www.bbc.co.uk/news/uk-56180889) - Wed, 24 Feb 2021 18:05:07 GMT - Five things you need to know about the coronavirus pandemic this Wednesday evening.
