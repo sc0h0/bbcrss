@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Feb 2021 21:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2021 21:47:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,13 +72,6 @@
             <pubDate>Wed, 24 Feb 2021 13:03:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vauxhall: Crunch talks to save Ellesmere Port plant continue]]></title>
-            <description><![CDATA[Vauxhall's parent company has previously said its fate depends on the government's commitment to the car industry.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56190072</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56190072</guid>
-            <pubDate>Wed, 24 Feb 2021 20:16:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Manchester Arena attack: Ambulance service warned medical delays would 'cost lives']]></title>
             <description><![CDATA[North West Ambulance Service warned lives would be lost if medical help was delayed during a terror attack.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-55948986</link>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56185570</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56185570</guid>
             <pubDate>Wed, 24 Feb 2021 17:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vauxhall: Crunch talks to save Ellesmere Port plant continue]]></title>
+            <description><![CDATA[Vauxhall's parent company has previously said its fate depends on the government's commitment to the car industry.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56190072</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56190072</guid>
+            <pubDate>Wed, 24 Feb 2021 20:16:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Van Gogh Paris painting goes on public display for first time]]></title>
@@ -240,18 +240,18 @@
             <pubDate>Wed, 24 Feb 2021 20:15:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Joshua fight no closer to being agreed, says Fury]]></title>
+            <description><![CDATA[WBC champion Tyson Fury says a fight against Anthony Joshua is no closer to being agreed than it was a year ago.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/56189255</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56189255</guid>
+            <pubDate>Wed, 24 Feb 2021 21:13:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Southampton v Brighton to be shown live on BBC]]></title>
             <description><![CDATA[Southampton's Premier League game against Brighton on Sunday, 14 March, will be shown live on BBC One and the BBC website.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56188865</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56188865</guid>
             <pubDate>Wed, 24 Feb 2021 17:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brisbane announced as preferred bidder for 2032 Olympics]]></title>
-            <description><![CDATA[The International Olympic Committee (IOC) announces that Brisbane is the preferred bidder to host the 2032 Olympic Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/56189331</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/56189331</guid>
-            <pubDate>Wed, 24 Feb 2021 20:24:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
