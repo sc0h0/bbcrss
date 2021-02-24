@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Feb 2021 19:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2021 20:22:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-56187673</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56187673</guid>
             <pubDate>Wed, 24 Feb 2021 19:51:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Johnson and Johnson vaccine: FDA finds the single-shot jab safe]]></title>
+            <description><![CDATA[US regulators say Johnson and Johnson's single-shot vaccine is safe, and could be approved in days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56186965</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56186965</guid>
+            <pubDate>Wed, 24 Feb 2021 18:09:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alex Salmond saga 'a crisis of credibility' for Holyrood]]></title>
@@ -79,11 +86,11 @@
             <pubDate>Wed, 24 Feb 2021 17:32:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Museums body warns of government 'interference' in contested heritage]]></title>
-            <description><![CDATA[The Museums Association voices concerns after the culture secretary met heritage organisations.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56185566</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56185566</guid>
-            <pubDate>Wed, 24 Feb 2021 18:29:18 GMT</pubDate>
+            <title><![CDATA[Manchester Arena attack: Ambulance service warned medical delays would 'cost lives']]></title>
+            <description><![CDATA[North West Ambulance Service warned lives would be lost if medical help was delayed during a terror attack.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-55948986</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-55948986</guid>
+            <pubDate>Wed, 24 Feb 2021 18:44:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bruce Springsteen fined $500 over drinking charge]]></title>
@@ -114,18 +121,11 @@
             <pubDate>Wed, 24 Feb 2021 12:18:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ipswich lockdown litter artist aims to inspire UK clean-up]]></title>
-            <description><![CDATA[Giant garden murals made from rubbish and discarded PPE gain thousands of social media views.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-56173845</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-56173845</guid>
-            <pubDate>Wed, 24 Feb 2021 13:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand: Rescuers save 28 whales from stranding spot]]></title>
-            <description><![CDATA[Rescuers have successfully refloated 28 pilot whales on a notorious New Zealand beach, Farewell Spit.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56181866</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56181866</guid>
-            <pubDate>Wed, 24 Feb 2021 10:10:56 GMT</pubDate>
+            <title><![CDATA[Rare bird: 'Half-male, half-female' cardinal snapped in Pennsylvania]]></title>
+            <description><![CDATA[Jamie Hill said taking the stunning photos of the northern cardinal was "once in a lifetime".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56189600</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56189600</guid>
+            <pubDate>Wed, 24 Feb 2021 19:32:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: MP told to 'dress properly' for House of Commons debate]]></title>
@@ -147,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/uk-56173394</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56173394</guid>
             <pubDate>Wed, 24 Feb 2021 00:06:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand: Rescuers save 28 whales from stranding spot]]></title>
+            <description><![CDATA[Rescuers have successfully refloated 28 pilot whales on a notorious New Zealand beach, Farewell Spit.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56181866</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56181866</guid>
+            <pubDate>Wed, 24 Feb 2021 10:10:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gwyneth Paltrow: NHS boss urges caution over star's long Covid regime]]></title>
@@ -237,7 +244,7 @@
             <description><![CDATA[American Grant Holloway breaks the indoor 60m hurdles world record at the final World Indoor Tour event in Madrid, Spain.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/56188257</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/56188257</guid>
-            <pubDate>Wed, 24 Feb 2021 18:26:08 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2021 20:15:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Southampton v Brighton to be shown live on BBC]]></title>
@@ -245,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/football/56188865</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56188865</guid>
             <pubDate>Wed, 24 Feb 2021 17:30:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['True Celtic man' Lennon resigns as manager with club 18 points behind Rangers]]></title>
+            <description><![CDATA[Celtic manager Neil Lennon resigns with his side 18 points adrift of Rangers in the Scottish Premiership.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55130253</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55130253</guid>
+            <pubDate>Wed, 24 Feb 2021 07:12:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
