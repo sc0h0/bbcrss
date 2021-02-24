@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Feb 2021 14:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2021 14:52:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Wed, 24 Feb 2021 10:10:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Mother in coma 'should be allowed to die']]></title>
+            <description><![CDATA[The woman has been in an induced coma since giving birth to her son last month, a court hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-56180767</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-56180767</guid>
+            <pubDate>Wed, 24 Feb 2021 10:56:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid lockdown: 'My closed hair salons cost me £1,000 a day']]></title>
             <description><![CDATA[The hair and beauty industry is calling for a cut in VAT to help mend the sector's finances.]]></description>
             <link>https://www.bbc.co.uk/news/business-56181215</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56160486</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56160486</guid>
             <pubDate>Wed, 24 Feb 2021 12:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple buys a company every three to four weeks]]></title>
-            <description><![CDATA[The technology giant has bought around 100 companies in six years, chief executive Tim Cook has revealed.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56178792</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56178792</guid>
-            <pubDate>Wed, 24 Feb 2021 04:24:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handforth Parish Council could be abolished under boundary review]]></title>
@@ -266,6 +266,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/56181534</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56181534</guid>
             <pubDate>Wed, 24 Feb 2021 13:15:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LGBT+ History Month: Gareth Thomas on living with HIV - and dispelling its myths]]></title>
+            <description><![CDATA[Former British and Irish Lions rugby union captain Gareth Thomas describes being diagnosed with HIV as "petrifying" but is now using his profile to dispel myths around the virus.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56133248</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56133248</guid>
+            <pubDate>Wed, 24 Feb 2021 05:59:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
