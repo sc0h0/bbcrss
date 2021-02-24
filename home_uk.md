@@ -1,5 +1,5 @@
 
-    1. [Covid: English secondary summer schools part of catch-up plan](https://www.bbc.co.uk/news/education-56175893) - Wed, 24 Feb 2021 05:42:37 GMT - A total of £720m will help ensure "no child is left behind" due to the pandemic, Boris Johnson says.
+    1. [Covid: English secondary summer schools part of catch-up plan](https://www.bbc.co.uk/news/education-56175893) - Wed, 24 Feb 2021 06:57:13 GMT - A total of £720m will help ensure "no child is left behind" due to the pandemic, Boris Johnson says.
 1. [Woods 'awake and responsive' following surgery after crash](https://www.bbc.co.uk/sport/golf/56172067) - Wed, 24 Feb 2021 06:45:04 GMT - Tiger Woods is "awake and responsive" following surgery on serious leg injuries suffered in a car crash in Los Angeles on Tuesday.
 1. [Fashion designer Alexander Wang accused of sexual assault](https://www.bbc.co.uk/news/entertainment-arts-56174310) - Wed, 24 Feb 2021 01:50:27 GMT - More allegations against the US designer emerge as a student speaks to BBC News.
 1. [Smear tests: Women to trial 'do-it-at-home' kits for NHS](https://www.bbc.co.uk/news/health-56168170) - Wed, 24 Feb 2021 01:43:25 GMT - About 31,000 women will be offered the swab checks, which can help spot early signs of cervical cancer.
