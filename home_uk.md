@@ -1,7 +1,7 @@
 
     1. [Covid-19: A-level and GCSE results to be decided by teachers](https://www.bbc.co.uk/news/education-56157413) - Thu, 25 Feb 2021 01:52:18 GMT - A combination of mock exams, coursework and essays will be used to decide grades in England this year.
 1. [Johnson and Johnson vaccine: FDA finds the single-shot jab safe](https://www.bbc.co.uk/news/world-us-canada-56186965) - Wed, 24 Feb 2021 21:57:43 GMT - US regulators say Johnson and Johnson's single-shot vaccine is safe, and could be approved in days.
-1. [Australia passes law to make Google and Facebook pay for news](https://www.bbc.co.uk/news/world-australia-56163550) - Thu, 25 Feb 2021 01:24:15 GMT - The world-first law is designed to make the tech giants pay news publishers for content.
+1. [Australia passes law to make Google and Facebook pay for news](https://www.bbc.co.uk/news/world-australia-56163550) - Thu, 25 Feb 2021 03:51:05 GMT - The world-first law is designed to make the tech giants pay news publishers for content.
 1. [Brit Awards change rules thanks to pop star Rina Sawayama](https://www.bbc.co.uk/news/entertainment-arts-56190413) - Wed, 24 Feb 2021 20:31:25 GMT - Pop star Rina Sawayama protested after being told she was "not British enough" for UK music awards.
 1. [How 30,000 elephant 'selfies' will help in conservation](https://www.bbc.co.uk/news/science-environment-56186595) - Thu, 25 Feb 2021 00:53:29 GMT - Researchers are developing new technology to help reduce human-elephant conflicts.
 1. [UK 4G smartphone owners may be due £480m pay-out](https://www.bbc.co.uk/news/technology-56182272) - Thu, 25 Feb 2021 00:03:45 GMT - Some 29 million people in the UK could be entitled to up to £30 back on Apple or Samsung smartphones.
