@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Feb 2021 07:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2021 07:34:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56182669</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56182669</guid>
             <pubDate>Thu, 25 Feb 2021 05:34:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: GCSE and A-level grades decided by teachers, and more positive jab news]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56192882</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56192882</guid>
+            <pubDate>Thu, 25 Feb 2021 07:26:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brit Awards change rules thanks to pop star Rina Sawayama]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-56163550</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56163550</guid>
             <pubDate>Thu, 25 Feb 2021 03:51:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How 30,000 elephant 'selfies' will help in conservation]]></title>
-            <description><![CDATA[Researchers are developing new technology to help reduce human-elephant conflicts.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-56186595</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56186595</guid>
-            <pubDate>Thu, 25 Feb 2021 00:53:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Insulate homes better or miss carbon targets, ministers told]]></title>
@@ -128,18 +128,25 @@
             <pubDate>Thu, 25 Feb 2021 00:14:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kenya: A sustainable solution to locust swarms?]]></title>
-            <description><![CDATA[An NGO is training and paying communities in Kenya to catch locusts, so they can be turned into animal feed.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56187046</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56187046</guid>
-            <pubDate>Thu, 25 Feb 2021 00:10:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Man Utd & England striker Marcus Rashford receives prestigious Gold Blue Peter badge]]></title>
             <description><![CDATA[Watch the moment Manchester United and England striker Marcus Rashford is awarded the prestigious Gold Blue Peter badge for his work in making a difference to young people’s lives.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/56183688</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56183688</guid>
             <pubDate>Wed, 24 Feb 2021 17:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How 30,000 elephant 'selfies' will help in conservation]]></title>
+            <description><![CDATA[Researchers are developing new technology to help reduce human-elephant conflicts.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56186595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56186595</guid>
+            <pubDate>Thu, 25 Feb 2021 00:53:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kenya: A sustainable solution to locust swarms?]]></title>
+            <description><![CDATA[An NGO is training and paying communities in Kenya to catch locusts, so they can be turned into animal feed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56187046</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56187046</guid>
+            <pubDate>Thu, 25 Feb 2021 00:10:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Builders at Seville bar uncover '12th Century bathhouse']]></title>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-56181653</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-56181653</guid>
             <pubDate>Wed, 24 Feb 2021 18:33:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rare bird: 'Half-male, half-female' cardinal snapped in Pennsylvania]]></title>
-            <description><![CDATA[Jamie Hill said taking the stunning photos of the northern cardinal was "once in a lifetime".]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56189600</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56189600</guid>
-            <pubDate>Wed, 24 Feb 2021 19:32:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The disabled influencers making their mark on social media]]></title>
@@ -226,7 +226,7 @@
             <pubDate>Wed, 24 Feb 2021 19:04:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['We should just be grateful Tiger is still here' - McIlroy]]></title>
+            <title><![CDATA[We should just be grateful Woods is still here, says McIlroy]]></title>
             <description><![CDATA[Rory McIlroy says we should be thankful that Tiger Woods is still alive and not wondering whether he will play golf again after his car crash injuries.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/56186693</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56186693</guid>
