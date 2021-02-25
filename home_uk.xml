@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Feb 2021 08:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2021 09:21:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Thu, 25 Feb 2021 08:37:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Goldman Sachs: Bank boss rejects work from home as the 'new normal']]></title>
+            <description><![CDATA[Remote working is "an aberration" that will be corrected as soon as possible says Goldman Sachs chief.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56192048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56192048</guid>
+            <pubDate>Thu, 25 Feb 2021 04:06:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: GCSE and A-level grades decided by teachers, and more positive jab news]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56192882</link>
@@ -44,11 +51,11 @@
             <pubDate>Thu, 25 Feb 2021 07:26:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Goldman Sachs: Bank boss rejects work from home as the 'new normal']]></title>
-            <description><![CDATA[Remote working is "an aberration" that will be corrected as soon as possible says Goldman Sachs chief.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56192048</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56192048</guid>
-            <pubDate>Thu, 25 Feb 2021 04:06:22 GMT</pubDate>
+            <title><![CDATA[Tiger Woods car crash: Golfing champion will not face criminal charges]]></title>
+            <description><![CDATA[Police say the crash was "purely an accident" after the golfing champion flipped his car on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56193243</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56193243</guid>
+            <pubDate>Thu, 25 Feb 2021 08:52:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hit TV show Frasier to be revived after 20 years]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/health-56180913</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56180913</guid>
             <pubDate>Thu, 25 Feb 2021 01:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia passes law to make Google and Facebook pay for news]]></title>
-            <description><![CDATA[The world-first law is designed to make the tech giants pay news publishers for content.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-56163550</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56163550</guid>
-            <pubDate>Thu, 25 Feb 2021 03:51:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mary Anning: Fossil hunter celebrated with Jurassic 50p coins]]></title>
@@ -219,13 +219,6 @@
             <pubDate>Wed, 24 Feb 2021 22:46:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[We should just be grateful Woods is still here, says McIlroy]]></title>
-            <description><![CDATA[Rory McIlroy says we should be thankful that Tiger Woods is still alive and not wondering whether he will play golf again after his car crash injuries.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/56186693</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56186693</guid>
-            <pubDate>Wed, 24 Feb 2021 21:33:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['It's better to be comfortable with who you are' - Super League referee Child talks about being gay]]></title>
             <description><![CDATA[Super League referee James Child speaks publicly about being gay for the first time in an exclusive interview for the BBC's LGBT Sport Podcast.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/56182569</link>
@@ -240,6 +233,13 @@
             <pubDate>Wed, 24 Feb 2021 20:45:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Holloway breaks Jackson's 27-year-old 60m hurdles world record - highlights & report]]></title>
+            <description><![CDATA[American Grant Holloway breaks the indoor 60m hurdles world record at the final World Indoor Tour event in Madrid, Spain.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/56188257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/56188257</guid>
+            <pubDate>Wed, 24 Feb 2021 20:15:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
             <description><![CDATA[The prime minister has announced a plan for how the lockdown will be lifted in England.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
@@ -251,7 +251,7 @@
             <description><![CDATA[All students in England can return to classrooms from 8 March as part of the plans to ease lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/education-51643556</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
-            <pubDate>Wed, 24 Feb 2021 10:43:36 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2021 09:04:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: How are weddings working around the UK?]]></title>
