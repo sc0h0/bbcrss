@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Feb 2021 07:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2021 07:58:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Thu, 25 Feb 2021 04:31:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Goldman Sachs: Bank boss rejects work from home as the 'new normal']]></title>
+            <description><![CDATA[Remote working is "an aberration" that will be corrected as soon as possible says Goldman Sachs chief.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56192048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56192048</guid>
+            <pubDate>Thu, 25 Feb 2021 04:06:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Government urged to ensure convicted sex offenders cannot work as tutors]]></title>
             <description><![CDATA[There has been an increase in private tuition during the pandemic but concerns remain about the checks in place.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56186826</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/technology-56182272</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56182272</guid>
             <pubDate>Thu, 25 Feb 2021 00:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Johnson and Johnson vaccine: FDA finds the single-shot jab safe]]></title>
-            <description><![CDATA[US regulators say Johnson and Johnson's single-shot vaccine is safe, and could be approved in days.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56186965</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56186965</guid>
-            <pubDate>Wed, 24 Feb 2021 21:57:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ikea aims to launch delayed 'Buy Back' scheme in UK]]></title>
@@ -455,6 +455,13 @@
             <link>https://www.bbc.co.uk/news/health-56072684</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56072684</guid>
             <pubDate>Wed, 17 Feb 2021 01:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea enslaved South Korean prisoners of war in coal mines]]></title>
+            <description><![CDATA[A report describes how prisoners of war are used as slave labour to generate money for the regime.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56178271</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56178271</guid>
+            <pubDate>Thu, 25 Feb 2021 00:13:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netflix and Anna Delvey: The race to secure the story of New York's 'fake heiress']]></title>
