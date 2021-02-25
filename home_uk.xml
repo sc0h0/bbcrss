@@ -11,12 +11,12 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Feb 2021 09:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2021 09:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid-19: A-level and GCSE results to be decided by teachers]]></title>
+            <title><![CDATA[A-level and GCSE results to be decided by teachers]]></title>
             <description><![CDATA[A combination of mock exams, coursework and essays will be used to decide grades in England this year.]]></description>
             <link>https://www.bbc.co.uk/news/education-56157413</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56157413</guid>
@@ -58,6 +58,13 @@
             <pubDate>Thu, 25 Feb 2021 08:37:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[French squad isolate ahead of Six Nations clash]]></title>
+            <description><![CDATA[France suspend training and send their squad into isolation after another positive case before their Six Nations game against Scotland on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56181534</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56181534</guid>
+            <pubDate>Thu, 25 Feb 2021 08:55:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Government urged to ensure convicted sex offenders cannot work as tutors]]></title>
             <description><![CDATA[There has been an increase in private tuition during the pandemic but concerns remain about the checks in place.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56186826</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/business-56190072</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56190072</guid>
             <pubDate>Wed, 24 Feb 2021 20:16:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Half with cancer signs didn't contact GP in first wave]]></title>
-            <description><![CDATA[Symptoms left unchecked included lumps, changes to moles and coughing up blood, a survey finds.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56180913</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56180913</guid>
-            <pubDate>Thu, 25 Feb 2021 01:22:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mary Anning: Fossil hunter celebrated with Jurassic 50p coins]]></title>
@@ -212,13 +212,6 @@
             <pubDate>Wed, 24 Feb 2021 00:46:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[France suspend training as squad isolates after further positive coronavirus test]]></title>
-            <description><![CDATA[France suspend training and send their squad into isolation after another positive case before their Six Nations game against Scotland on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56181534</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56181534</guid>
-            <pubDate>Thu, 25 Feb 2021 08:55:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['It's better to be comfortable with who you are' - Super League referee Child talks about being gay]]></title>
             <description><![CDATA[Super League referee James Child speaks publicly about being gay for the first time in an exclusive interview for the BBC's LGBT Sport Podcast.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/56182569</link>
@@ -238,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/football/56190244</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56190244</guid>
             <pubDate>Wed, 24 Feb 2021 20:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Indoor Tour: Grant Holloway breaks Colin Jackson's 60m hurdles world record]]></title>
+            <description><![CDATA[Watch the USA's Grant Holloway break Colin Jackson's 27-year-old world record, running 7.29 seconds in the 60m hurdles at the World Indoor Tour in Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/athletics/56189741</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/athletics/56189741</guid>
+            <pubDate>Wed, 24 Feb 2021 18:20:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
@@ -374,10 +374,10 @@
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 18 million people receive at least one dose.]]></description>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 18 million people receive at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Wed, 24 Feb 2021 13:37:32 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2021 09:42:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
