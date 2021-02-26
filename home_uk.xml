@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Feb 2021 10:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 10:32:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Queen urges people to 'think about others' by taking Covid jab]]></title>
-            <description><![CDATA[The monarch, who had her first dose of the vaccine in January, said it "didn't hurt at all".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56203768</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56203768</guid>
-            <pubDate>Fri, 26 Feb 2021 06:45:56 GMT</pubDate>
+            <title><![CDATA[Shamima Begum cannot return to UK, Supreme Court rules]]></title>
+            <description><![CDATA[The ruling means she will not be able to come back to fight the decision to remove her citizenship.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56209007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56209007</guid>
+            <pubDate>Fri, 26 Feb 2021 10:26:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alex Salmond to face Holyrood inquiry amid conspiracy claims]]></title>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56198842</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56198842</guid>
             <pubDate>Fri, 26 Feb 2021 06:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shamima Begum not allowed to return to UK]]></title>
-            <description><![CDATA[Shamima Begum, who left the UK for Syria to join IS as a teenager, is not allowed to return and fight her citizenship case]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56209007</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56209007</guid>
-            <pubDate>Fri, 26 Feb 2021 09:55:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biden approves US air strike on Iran-backed militias in Syria]]></title>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-56206932</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56206932</guid>
             <pubDate>Fri, 26 Feb 2021 07:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Queen urges people to 'think about others' by taking Covid jab]]></title>
+            <description><![CDATA[The monarch, who had her first dose of the vaccine in January, said it "didn't hurt at all".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56203768</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56203768</guid>
+            <pubDate>Fri, 26 Feb 2021 06:45:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National Trust to plant blossom trees in cities]]></title>
@@ -93,13 +93,6 @@
             <pubDate>Thu, 25 Feb 2021 22:55:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mr Potato Head to lose "Mr" title in gender-neutral rebrand]]></title>
-            <description><![CDATA[The toy's maker, Hasbro, says it will drop the "Mr" to "promote gender equality and inclusion".]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56200811</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56200811</guid>
-            <pubDate>Thu, 25 Feb 2021 23:01:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: 'Do one's duty' as Queen makes 'vaccine plea']]></title>
             <description><![CDATA[The Queen features on many of the front pages after urging people to get the coronavirus vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56204989</link>
@@ -112,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-56205708</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56205708</guid>
             <pubDate>Fri, 26 Feb 2021 00:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mr Potato Head to lose "Mr" title in gender-neutral rebrand]]></title>
+            <description><![CDATA[The toy's maker, Hasbro, says it will drop the "Mr" to "promote gender equality and inclusion".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56200811</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56200811</guid>
+            <pubDate>Thu, 25 Feb 2021 23:01:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Young vulnerable people receive vaccine]]></title>
@@ -262,7 +262,7 @@
         </item>
         <item>
             <title><![CDATA[Liverpool captain Henderson ruled out for up to 10 weeks]]></title>
-            <description><![CDATA[Liverpool captain Jordan Henderson is ruled out until after the March international break as a result of the groin injury he suffered against Everton.]]></description>
+            <description><![CDATA[Liverpool captain Jordan Henderson is ruled out for up to 10 weeks as a result of the groin injury he suffered against Everton.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56155121</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56155121</guid>
             <pubDate>Fri, 26 Feb 2021 09:57:19 GMT</pubDate>
