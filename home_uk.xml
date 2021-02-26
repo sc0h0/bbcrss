@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Feb 2021 11:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 11:57:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -156,39 +156,18 @@
             <pubDate>Thu, 25 Feb 2021 15:13:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: UK alert level drops and PM defends grading plan]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56199328</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56199328</guid>
-            <pubDate>Thu, 25 Feb 2021 17:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 91-year-old policeman still patrolling the streets]]></title>
-            <description><![CDATA[LC "Buckshot" Smith, one of the oldest police officers in the US, says he has no plans to retire.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56204309</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56204309</guid>
-            <pubDate>Thu, 25 Feb 2021 19:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A-level and GCSE results: What do students and teachers think?]]></title>
-            <description><![CDATA[GCSEs and A-level exams cancelled in England by the pandemic are to be replaced by teachers' grades.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56193769</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56193769</guid>
-            <pubDate>Thu, 25 Feb 2021 15:06:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Lemonade stand' boys get Gold Blue Peter badges for Yemen fundraising]]></title>
-            <description><![CDATA[Best friends Ayaan and Mikaeel raised £100,000 for those affected by the Yemen crisis.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56202255</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56202255</guid>
-            <pubDate>Thu, 25 Feb 2021 18:24:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Salmond and Sturgeon: How the best of political double acts fell apart]]></title>
             <description><![CDATA[The enviable political duo who ran Scotland together is now long gone. So, what went wrong?]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-56166753</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56166753</guid>
             <pubDate>Fri, 26 Feb 2021 06:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who is Shamima Begum and how do you lose your UK citizenship?]]></title>
+            <description><![CDATA[Ms Begum travelled to Syria to join the so-called Islamic State group in 2015.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53428191</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53428191</guid>
+            <pubDate>Fri, 26 Feb 2021 11:28:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['We couldn’t afford fertility treatment so we risked finding a sperm donor on Facebook']]></title>
@@ -240,25 +219,11 @@
             <pubDate>Fri, 26 Feb 2021 01:03:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The UK Covid alert level is down to four. What does that mean?]]></title>
-            <description><![CDATA[The threat of Covid-19 in England is ranked through a five-level, colour-coded alert system.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52634739</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52634739</guid>
-            <pubDate>Thu, 25 Feb 2021 15:29:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[England wary of Wales captain Jones 'targeting' players]]></title>
             <description><![CDATA[England coach Eddie Jones tells his players to be wary of being "targeted" by Wales captain Alun Wyn Jones in the Six Nations on Saturday.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56204421</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56204421</guid>
             <pubDate>Thu, 25 Feb 2021 22:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europa League: Man Utd, Spurs, Arsenal, Rangers await last-16 draw]]></title>
-            <description><![CDATA[Four British sides await their opponents in Friday's draw for the last 16 of the Europa League (12:00 GMT).]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56187466</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56187466</guid>
-            <pubDate>Thu, 25 Feb 2021 22:43:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['An example for the future' - has Aubameyang saved Arsenal's season?]]></title>
