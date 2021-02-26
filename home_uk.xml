@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Feb 2021 19:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 19:25:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Coronavirus levels 'burning quite hot' in some of UK]]></title>
-            <description><![CDATA[Infection rates in the community are continuing to decline overall, but some regions are seeing a rise in cases.]]></description>
+            <description><![CDATA[Infection rates are declining overall, but some regions are seeing a rise in cases.]]></description>
             <link>https://www.bbc.co.uk/news/health-56210665</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56210665</guid>
             <pubDate>Fri, 26 Feb 2021 18:51:30 GMT</pubDate>
@@ -70,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-56203332</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56203332</guid>
             <pubDate>Fri, 26 Feb 2021 18:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown bomb hoaxer targeted NHS, MPs and BLM protests]]></title>
+            <description><![CDATA[A German court imprisons a Berlin-based Italian for extortion threats made against UK targets.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56204359</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56204359</guid>
+            <pubDate>Fri, 26 Feb 2021 17:34:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biden takes first military action with Syria strike on Iran-backed militias]]></title>
@@ -301,13 +308,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/56209142</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56209142</guid>
             <pubDate>Fri, 26 Feb 2021 15:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Richards' journey from tennis outcast to trans pioneer]]></title>
-            <description><![CDATA[As part of LGBT+ History Month, BBC Sport explores the story of transgender tennis player Renee Richards, who won a legal challenge to play at the 1977 US Open as a woman.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/55885930</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/55885930</guid>
-            <pubDate>Fri, 26 Feb 2021 06:00:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
