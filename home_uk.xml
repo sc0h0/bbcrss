@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Feb 2021 20:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 20:46:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Fri, 26 Feb 2021 17:34:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jamal Khashoggi: US says Saudi prince approved Khashoggi killing]]></title>
+            <description><![CDATA[An official report says Saudi Crown Prince Mohammed bin Salman approved the journalist's murder.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56213528</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56213528</guid>
+            <pubDate>Fri, 26 Feb 2021 20:01:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[London-sized iceberg breaks near UK base]]></title>
             <description><![CDATA[The berg covers 1,270 sq km - nearly 490 square miles - but its break-off was expected.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-47692895</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-56203332</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56203332</guid>
             <pubDate>Fri, 26 Feb 2021 18:43:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jamal Khashoggi: US says Saudi prince approved Khashoggi killing]]></title>
-            <description><![CDATA[An official report says Saudi Crown Prince Mohammed bin Salman approved the journalist's murder.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56213528</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56213528</guid>
-            <pubDate>Fri, 26 Feb 2021 20:01:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: DUP agriculture minister orders Brexit check construction halt]]></title>
