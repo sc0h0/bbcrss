@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Feb 2021 15:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 15:42:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Fri, 26 Feb 2021 13:32:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Couple cannot have a Cornish language wedding]]></title>
+            <description><![CDATA[Steph Norman and Aaron Willoughby are told their ceremony must be in English and Cornish.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-56188851</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-56188851</guid>
+            <pubDate>Fri, 26 Feb 2021 15:01:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Prince Harry: UK press were 'destroying my mental health']]></title>
             <description><![CDATA[The Duke of Sussex spoke to TV host James Corden about life in the US after stepping back from royal duties.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56207074</link>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-56205056</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56205056</guid>
             <pubDate>Fri, 26 Feb 2021 15:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amanda Staveley loses High Court fight with Barclays over damages]]></title>
-            <description><![CDATA[A businesswoman who sued Barclays for hundreds of millions loses court case, but judge accuses bank of "deceit".]]></description>
-            <link>https://www.bbc.co.uk/news/business-56208668</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56208668</guid>
-            <pubDate>Fri, 26 Feb 2021 13:24:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nigeria's Zamfara school abduction: More than 300 Nigerian girls missing]]></title>
@@ -157,7 +157,7 @@
         </item>
         <item>
             <title><![CDATA[Shamima Begum: Justice and the ISIS bride]]></title>
-            <description><![CDATA[Why this case - which returns to court today - is bigger than the fate of one teenage runaway.]]></description>
+            <description><![CDATA[The Supreme Court has ruled that Shamima Begum will not be allowed to return to the UK in order to fight her citizenship case.]]></description>
             <link>https://www.bbc.co.uk/news/uk-55034542</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55034542</guid>
             <pubDate>Mon, 23 Nov 2020 00:02:03 GMT</pubDate>
@@ -272,7 +272,14 @@
             <description><![CDATA[England forward Courtney Lawes will be unavailable for the rest of the Six Nations because of a pectoral injury.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56209142</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56209142</guid>
-            <pubDate>Fri, 26 Feb 2021 12:43:24 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2021 15:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
+            <description><![CDATA[The R number is a simple but crucial figure at the heart of lockdown decisions across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52473523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52473523</guid>
+            <pubDate>Fri, 26 Feb 2021 14:55:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
@@ -342,7 +349,7 @@
             <description><![CDATA[Are European countries relaxing restrictions put in place to control a new wave of infections?]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53640249</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
-            <pubDate>Wed, 24 Feb 2021 16:39:40 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2021 15:26:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid map: Coronavirus cases, deaths, vaccinations by country]]></title>
@@ -441,13 +448,6 @@
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
             <pubDate>Fri, 26 Feb 2021 11:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
-            <description><![CDATA[The R number is a simple but crucial figure at the heart of lockdown decisions across the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/health-52473523</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52473523</guid>
-            <pubDate>Fri, 26 Feb 2021 14:55:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is the Covid vaccine safe?]]></title>
