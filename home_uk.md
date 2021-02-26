@@ -1,5 +1,5 @@
 
-    1. [Queen says Covid vaccine 'didn't hurt at all'](https://www.bbc.co.uk/news/uk-56203768) - Thu, 25 Feb 2021 22:01:28 GMT - Anyone reluctant about getting a jab should "think about other people" and do it, the monarch adds.
+    1. [Queen says Covid vaccine 'didn't hurt at all'](https://www.bbc.co.uk/news/uk-56203768) - Fri, 26 Feb 2021 02:13:52 GMT - Anyone reluctant about getting a jab should "think about other people" and do it, the monarch adds.
 1. [Alex Salmond to face Holyrood inquiry amid conspiracy claims](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56198842) - Thu, 25 Feb 2021 22:58:52 GMT - The former first minister is to appear before the inquiry into the government's mishandling of harassment complaints.
 1. [John Geddert: Ex-US Olympics coach found dead after sex assault charges](https://www.bbc.co.uk/news/world-us-canada-56205049) - Thu, 25 Feb 2021 22:55:53 GMT - John Geddert, who headed the 2012 US women's gymnastics team, took his own life, officials say.
 1. [Shamima Begum: Supreme Court to rule on her fate](https://www.bbc.co.uk/news/uk-56202315) - Fri, 26 Feb 2021 00:41:28 GMT - Five justices will decide later whether the runaway schoolgirl should be allowed back into the UK.
