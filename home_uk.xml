@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Feb 2021 12:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 13:05:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Over-40s next in line to get a Covid vaccine]]></title>
-            <description><![CDATA[Teachers and other occupations should not be prioritised in the next phase, say UK vaccine experts.]]></description>
+            <title><![CDATA[Age not job prioritised in second phase of Covid jab roll-out]]></title>
+            <description><![CDATA[Over-40s will be first in line from mid-April after the top nine priority groups receive one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-56208674</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56208674</guid>
-            <pubDate>Fri, 26 Feb 2021 11:57:09 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2021 12:51:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shamima Begum cannot return to UK, Supreme Court rules]]></title>
@@ -28,6 +28,20 @@
             <link>https://www.bbc.co.uk/news/uk-56209007</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56209007</guid>
             <pubDate>Fri, 26 Feb 2021 11:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alex Salmond claims 'Scotland's leadership has failed']]></title>
+            <description><![CDATA[The former first minister makes the claim as he begins giving evidence to a Scottish Parliament inquiry.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56209521</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56209521</guid>
+            <pubDate>Fri, 26 Feb 2021 12:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decreasing levels of coronavirus across the UK]]></title>
+            <description><![CDATA[Infection rates in the community are continuing to decline, says the Office for National Statistics.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56210665</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56210665</guid>
+            <pubDate>Fri, 26 Feb 2021 12:47:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Harry: UK press were 'destroying my mental health']]></title>
@@ -44,18 +58,11 @@
             <pubDate>Fri, 26 Feb 2021 10:36:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Decreasing levels of coronavirus across the UK]]></title>
-            <description><![CDATA[Infection rates are continuing to decline, Office for National Statistics data shows.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56210665</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56210665</guid>
-            <pubDate>Fri, 26 Feb 2021 12:32:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Amanda Staveley loses High Court fight with Barclays over damages]]></title>
             <description><![CDATA[A businesswoman who sued Barclays for hundreds of millions has lost her case.]]></description>
             <link>https://www.bbc.co.uk/news/business-56208668</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56208668</guid>
-            <pubDate>Fri, 26 Feb 2021 12:38:42 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2021 12:57:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Pride in London parade to return in September]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-56205056</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56205056</guid>
             <pubDate>Fri, 26 Feb 2021 12:15:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon rainforest plots sold via Facebook Marketplace ads]]></title>
-            <description><![CDATA[Protected land reserved for Brazil's indigenous communities is being traded on the social network.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56168844</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56168844</guid>
-            <pubDate>Fri, 26 Feb 2021 00:04:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Singapore: Briton jailed for breaking strict quarantine]]></title>
@@ -156,6 +156,13 @@
             <pubDate>Fri, 26 Feb 2021 06:05:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Amazon rainforest plots sold via Facebook Marketplace ads]]></title>
+            <description><![CDATA[Protected land reserved for Brazil's indigenous communities is being traded on the social network.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56168844</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56168844</guid>
+            <pubDate>Fri, 26 Feb 2021 00:04:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Who is Shamima Begum and how do you lose your UK citizenship?]]></title>
             <description><![CDATA[Ms Begum travelled to Syria to join the so-called Islamic State group in 2015.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53428191</link>
@@ -213,10 +220,10 @@
         </item>
         <item>
             <title><![CDATA[Man Utd face AC Milan, Rangers take on Slavia Prague in Europa League last 16]]></title>
-            <description><![CDATA[Manchester United face AC Milan in the Europa League while Arsenal play Olympiakos, Tottenham get Dinamo Zagreb and Rangers draw Slavia Prague.]]></description>
+            <description><![CDATA[Manchester United face AC Milan in the Europa League while Rangers draw Slavia Prague, Arsenal play Olympiakos and Tottenham get Dinamo Zagreb.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56210790</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56210790</guid>
-            <pubDate>Fri, 26 Feb 2021 12:33:55 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2021 13:01:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England wary of Wales captain Jones 'targeting' players]]></title>
@@ -233,11 +240,11 @@
             <pubDate>Fri, 26 Feb 2021 06:49:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Richards' journey from tennis outcast to trans pioneer]]></title>
-            <description><![CDATA[As part of LGBT+ History Month, BBC Sport explores the story of transgender tennis player Renee Richards, who won a legal challenge to play at the 1977 US Open as a woman.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/55885930</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/55885930</guid>
-            <pubDate>Fri, 26 Feb 2021 06:00:09 GMT</pubDate>
+            <title><![CDATA[England lose injured Lawes for rest of Six Nations]]></title>
+            <description><![CDATA[England forward Courtney Lawes will be unavailable for the rest of the Six Nations because of a pectoral injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56209142</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56209142</guid>
+            <pubDate>Fri, 26 Feb 2021 12:43:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
