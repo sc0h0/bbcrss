@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Feb 2021 10:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 11:24:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Over-40s next in line to get a Covid vaccine]]></title>
+            <description><![CDATA[Teachers and other occupations should not be prioritised in the next phase, say UK vaccine experts.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56208674</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56208674</guid>
+            <pubDate>Fri, 26 Feb 2021 11:15:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shamima Begum cannot return to UK, Supreme Court rules]]></title>
             <description><![CDATA[The ruling means she will not be able to come back to fight the decision to remove her British citizenship.]]></description>
@@ -30,13 +37,6 @@
             <pubDate>Fri, 26 Feb 2021 06:04:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Biden approves US air strike on Iran-backed militias in Syria]]></title>
-            <description><![CDATA[The strike in Syria follows attacks on US personnel in Iraq and is Joe Biden's first military action.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56205056</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56205056</guid>
-            <pubDate>Fri, 26 Feb 2021 07:39:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Prince Harry: UK press were 'destroying my mental health']]></title>
             <description><![CDATA[The Duke of Sussex spoke to TV host James Corden about life in the US after stepping back from royal duties.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56207074</link>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56207293</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56207293</guid>
             <pubDate>Fri, 26 Feb 2021 10:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biden takes first military action with strike on Iran-backed militias]]></title>
+            <description><![CDATA[The strike in Syria follows attacks on US personnel in Iraq and is Joe Biden's first military action.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56205056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56205056</guid>
+            <pubDate>Fri, 26 Feb 2021 11:19:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen urges people to 'think about others' by taking Covid jab]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-56196275</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56196275</guid>
             <pubDate>Fri, 26 Feb 2021 00:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manchester attack: 'Martyn's Law' would 'minimise terror risk']]></title>
-            <description><![CDATA[A consultation begins into new anti-terror legislation in memory of Manchester bomb victim Martyn Hett.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-56200707</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56200707</guid>
-            <pubDate>Fri, 26 Feb 2021 09:13:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Singapore: Briton jailed for breaking strict quarantine]]></title>
@@ -254,6 +254,13 @@
             <pubDate>Thu, 25 Feb 2021 22:00:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Europa League: Man Utd, Spurs, Arsenal, Rangers await last-16 draw]]></title>
+            <description><![CDATA[Four British sides await their opponents in Friday's draw for the last 16 of the Europa League (12:00 GMT).]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56187466</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56187466</guid>
+            <pubDate>Thu, 25 Feb 2021 22:43:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['An example for the future' - has Aubameyang saved Arsenal's season?]]></title>
             <description><![CDATA[Did Pierre-Emerick Aubameyang's late goal against Benfica save Arsenal's season? And is their show of "character" a template for the future?]]></description>
             <link>https://www.bbc.co.uk/sport/football/56204926</link>
@@ -283,10 +290,10 @@
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
-            <description><![CDATA[Two approved Covid vaccines are being rolled out across the UK, so when might you get one?]]></description>
+            <description><![CDATA[Two approved Covid vaccines are being rolled out across the UK. So when might you get one?]]></description>
             <link>https://www.bbc.co.uk/news/health-55045639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Thu, 25 Feb 2021 10:58:55 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2021 11:15:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How to get a test for coronavirus]]></title>
@@ -314,7 +321,7 @@
             <description><![CDATA[The government is reviewing whether venues can ask for proof of vaccination or a negative test.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Wed, 24 Feb 2021 11:13:00 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2021 11:10:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
