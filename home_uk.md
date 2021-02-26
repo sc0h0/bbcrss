@@ -1,5 +1,5 @@
 
-    1. [Covid: Vaccinating by age not job 'will save the most lives' - Hancock](https://www.bbc.co.uk/news/uk-56200739) - Fri, 26 Feb 2021 18:24:18 GMT - Putting over-40s ahead of teachers or police officers is "the moral thing to do", Matt Hancock says.
+    1. [Covid: Vaccinating by age not job 'will save the most lives' - Hancock](https://www.bbc.co.uk/news/uk-56200739) - Fri, 26 Feb 2021 18:40:44 GMT - Putting over-40s ahead of teachers or police officers is "the moral thing to do", Matt Hancock says.
 1. [Alex Salmond claims 'Scotland's leadership has failed'](https://www.bbc.co.uk/news/uk-scotland-56209521) - Fri, 26 Feb 2021 16:07:08 GMT - The former first minister makes the claim during his long-awaited appearance at a Holyrood inquiry.
 1. [Coronavirus spread slowed by vaccines, study suggests](https://www.bbc.co.uk/news/health-56211755) - Fri, 26 Feb 2021 16:54:08 GMT - There was a 75% reduction in staff at Addenbrooke's Hospital testing positive after a vaccination.
 1. [Covid-19: Jabs for over-40s in next phase of rollout, and holiday health pass call](https://www.bbc.co.uk/news/uk-56214375) - Fri, 26 Feb 2021 18:11:49 GMT - Five things you need to know about the coronavirus pandemic this Friday evening.
