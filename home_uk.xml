@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Feb 2021 19:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 20:23:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/health-56210665</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56210665</guid>
             <pubDate>Fri, 26 Feb 2021 18:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Jabs for over-40s in next phase of rollout, and holiday health pass call]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56214375</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56214375</guid>
-            <pubDate>Fri, 26 Feb 2021 18:11:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mother drops children from window to escape Istanbul apartment fire]]></title>
@@ -72,6 +65,13 @@
             <pubDate>Fri, 26 Feb 2021 14:22:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rohingya refugees adrift at sea]]></title>
+            <description><![CDATA[A boat full of dozens of Rohingya refugees attempting to reach South East Asia is adrift in the Indian Ocean.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56218415</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56218415</guid>
+            <pubDate>Fri, 26 Feb 2021 19:28:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Couple cannot have a Cornish language wedding]]></title>
             <description><![CDATA[Steph Norman and Aaron Willoughby are told their ceremony must be in English and Cornish.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-56188851</link>
@@ -90,7 +90,14 @@
             <description><![CDATA[An official report says Saudi Crown Prince Mohammed bin Salman approved the journalist's murder.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56213528</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56213528</guid>
-            <pubDate>Fri, 26 Feb 2021 19:40:56 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2021 20:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: DUP agriculture minister orders Brexit check construction halt]]></title>
+            <description><![CDATA[Gordon Lyons says he is responding to "practical difficulties" caused by the NI Protocol.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56217647</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56217647</guid>
+            <pubDate>Fri, 26 Feb 2021 20:13:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ryan Giggs bailed again after denying assault]]></title>
@@ -105,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56212143</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56212143</guid>
             <pubDate>Fri, 26 Feb 2021 17:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Texas sea turtles released back into sea after cold front eases]]></title>
+            <description><![CDATA[Thousands of "cold-stunned" turtles were rescued as temperatures dropped to record lows this month.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56218484</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56218484</guid>
+            <pubDate>Fri, 26 Feb 2021 19:31:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Lookalikes' Jessie Ware and Gemma Arterton team up]]></title>
@@ -161,34 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56200811</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56200811</guid>
             <pubDate>Thu, 25 Feb 2021 23:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Young vulnerable people receive vaccine]]></title>
-            <description><![CDATA[Nearly 200,000 extremely clinically vulnerable young people have been offered their vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56105574</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56105574</guid>
-            <pubDate>Fri, 26 Feb 2021 00:49:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[K-pop superstars Blackpink in climate change message]]></title>
-            <description><![CDATA[K-pop superstars Blackpink have emerged as the latest force in the global fight against climate change.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-56202985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56202985</guid>
-            <pubDate>Fri, 26 Feb 2021 00:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shamima Begum: Justice and the ISIS bride]]></title>
-            <description><![CDATA[The Supreme Court has ruled that Shamima Begum will not be allowed to return to the UK in order to fight her citizenship case.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-55034542</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55034542</guid>
-            <pubDate>Mon, 23 Nov 2020 00:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could Alex Salmond bring down Nicola Sturgeon?]]></title>
-            <description><![CDATA[The next week could be bloody for the SNP as a Scottish Parliament inquiry concludes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-55738179</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55738179</guid>
-            <pubDate>Thu, 25 Feb 2021 15:13:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Salmond and Sturgeon: How the best of political double acts fell apart]]></title>
