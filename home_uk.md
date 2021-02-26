@@ -1,6 +1,6 @@
 
     1. [Alex Salmond says there is 'no doubt' Nicola Sturgeon broke ministerial code](https://www.bbc.co.uk/news/uk-scotland-56209521) - Fri, 26 Feb 2021 18:54:19 GMT - The former first minister makes the claim during his long-awaited appearance at a Holyrood inquiry.
-1. [Covid: Vaccinating by age not job 'will save the most lives' - Hancock](https://www.bbc.co.uk/news/uk-56200739) - Fri, 26 Feb 2021 19:05:00 GMT - Putting over-40s ahead of teachers or police officers is "the moral thing to do", Matt Hancock says.
+1. [Covid: Vaccinating by age not job 'will save the most lives' - Hancock](https://www.bbc.co.uk/news/uk-56200739) - Fri, 26 Feb 2021 19:54:08 GMT - Putting over-40s ahead of teachers or police officers is "the moral thing to do", Matt Hancock says.
 1. [Coronavirus levels 'burning quite hot' in some of UK](https://www.bbc.co.uk/news/health-56210665) - Fri, 26 Feb 2021 18:51:30 GMT - Infection rates are declining overall, but some regions are seeing a rise in cases.
 1. [Covid-19: Jabs for over-40s in next phase of rollout, and holiday health pass call](https://www.bbc.co.uk/news/uk-56214375) - Fri, 26 Feb 2021 18:11:49 GMT - Five things you need to know about the coronavirus pandemic this Friday evening.
 1. [Mother drops children from window to escape Istanbul apartment fire](https://www.bbc.co.uk/news/world-europe-56218287) - Fri, 26 Feb 2021 19:21:49 GMT - The four children were all caught by volunteers holding a blanket on the street in Istanbul.
