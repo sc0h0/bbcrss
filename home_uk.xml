@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Feb 2021 17:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2021 18:11:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Vaccinating by age not job 'will save the most lives' - Hancock]]></title>
+            <description><![CDATA[Prioritising people for a Covid vaccine based on age is "the moral thing to do", Matt Hancock says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56200739</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56200739</guid>
+            <pubDate>Fri, 26 Feb 2021 17:56:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alex Salmond claims 'Scotland's leadership has failed']]></title>
             <description><![CDATA[The former first minister makes the claim during his long-awaited appearance at a Holyrood inquiry.]]></description>
@@ -28,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/health-56211755</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56211755</guid>
             <pubDate>Fri, 26 Feb 2021 16:54:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Jabs for 40s-year-olds in next phase of rollout, and holiday health pass call]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56214375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56214375</guid>
+            <pubDate>Fri, 26 Feb 2021 17:50:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shamima Begum cannot return to UK, Supreme Court rules]]></title>
@@ -72,25 +86,11 @@
             <pubDate>Fri, 26 Feb 2021 15:37:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nigeria's Zamfara school abduction: More than 300 Nigerian girls missing]]></title>
-            <description><![CDATA[Gunmen raided the boarding school in the north-western state of Zamfara on Friday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56188727</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56188727</guid>
-            <pubDate>Fri, 26 Feb 2021 16:09:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ryan Giggs bailed again after denying assault]]></title>
             <description><![CDATA[Several newspapers had reported the Wales manager was arrested on suspicion of assaulting his girlfriend.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-55891507</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-55891507</guid>
             <pubDate>Fri, 26 Feb 2021 17:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dancing On Ice cuts series short by a week after five stars withdraw]]></title>
-            <description><![CDATA[This year's final is brought forward by a week after illness and injury forced five celebrities out.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56208348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56208348</guid>
-            <pubDate>Fri, 26 Feb 2021 14:58:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Your pictures on the theme of 'the beauty of trees']]></title>
@@ -177,7 +177,7 @@
             <pubDate>Fri, 26 Feb 2021 06:05:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LGBT in the forces: 'I'd be sacked if I was gay']]></title>
+            <title><![CDATA[LGBT in the forces: 'It was a very scary time']]></title>
             <description><![CDATA[More than 20 years on, how has military culture changed after allowing the LGBT community to serve?]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-56187485</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56187485</guid>
@@ -268,18 +268,25 @@
             <pubDate>Fri, 26 Feb 2021 06:49:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Charles Leclerc says Ferrari have made 'quite a good step' with new car]]></title>
-            <description><![CDATA[Ferrari driver Charles Leclerc says the team have made "quite a good step" with their 2021 car, although it is too early to say how well they can perform.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/56214857</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56214857</guid>
-            <pubDate>Fri, 26 Feb 2021 16:03:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[England lose injured Lawes for rest of Six Nations]]></title>
             <description><![CDATA[England forward Courtney Lawes will be unavailable for the rest of the Six Nations because of a pectoral injury.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56209142</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56209142</guid>
             <pubDate>Fri, 26 Feb 2021 15:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Richards' journey from tennis outcast to trans pioneer]]></title>
+            <description><![CDATA[As part of LGBT+ History Month, BBC Sport explores the story of transgender tennis player Renee Richards, who won a legal challenge to play at the 1977 US Open as a woman.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/55885930</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/55885930</guid>
+            <pubDate>Fri, 26 Feb 2021 06:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Fri, 26 Feb 2021 17:57:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
@@ -385,13 +392,6 @@
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
             <pubDate>Tue, 23 Feb 2021 15:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Thu, 25 Feb 2021 17:16:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What are the rules for face masks or face coverings?]]></title>
