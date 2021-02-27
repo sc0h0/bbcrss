@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Feb 2021 18:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 18:46:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,8 +37,8 @@
             <pubDate>Sat, 27 Feb 2021 12:23:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Exeter WW2 bomb: Device is detonated]]></title>
-            <description><![CDATA[Bomb disposal specialists deal with the 2.5m (8ft) device which causes 2,600 homes to be evacuated.]]></description>
+            <title><![CDATA[Exeter WW2 bomb detonated after homes evacuated]]></title>
+            <description><![CDATA[Bomb disposal specialists deal with the 2.5m (8ft) device, which caused 2,600 homes to be evacuated.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-56221697</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56221697</guid>
             <pubDate>Sat, 27 Feb 2021 18:21:59 GMT</pubDate>
@@ -77,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-56222326</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56222326</guid>
             <pubDate>Sat, 27 Feb 2021 11:12:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Nations: Wales beat England 40-24 to take Triple Crown]]></title>
+            <description><![CDATA[Wales take the 2021 Triple Crown with a bonus-point win after early controversy in Cardiff.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56225219</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56225219</guid>
+            <pubDate>Sat, 27 Feb 2021 18:43:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pompeii: Archaeologists unveil ceremonial chariot discovery]]></title>
@@ -321,7 +328,7 @@
             <description><![CDATA[Brighton are beaten 1-0 at West Brom after having a goal controversially disallowed and missing two penalties in a remarkable game.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56135045</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56135045</guid>
-            <pubDate>Sat, 27 Feb 2021 17:36:41 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2021 18:32:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Celtic make winning start under interim boss Kennedy]]></title>
@@ -338,18 +345,11 @@
             <pubDate>Sat, 27 Feb 2021 15:21:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wales v England: 'Appalling refereeing' Martin Johnson, Sam Warburton & Jeremy Guscott on Josh Adams try]]></title>
-            <description><![CDATA[Martin Johnson says "appalling refereeing" allowed Wales to score their first try against England at the Principality Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/56226173</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56226173</guid>
-            <pubDate>Sat, 27 Feb 2021 18:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wales v England: Anthony Watson gets England's first try to put the game back into the balance]]></title>
-            <description><![CDATA[England get back into the game against Wales as Anthony Watson takes the ball out wide and drives over the line.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/56225746</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56225746</guid>
-            <pubDate>Sat, 27 Feb 2021 17:50:45 GMT</pubDate>
+            <title><![CDATA[Six Nations 2021: Kieran Hardy darts in to put Wales in command against England]]></title>
+            <description><![CDATA[Kieran Hardy catches England napping at a set piece again to score a crucial try for Wales during an emphatic 40-24 victory.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/56226177</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56226177</guid>
+            <pubDate>Sat, 27 Feb 2021 18:43:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
