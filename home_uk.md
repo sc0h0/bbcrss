@@ -1,6 +1,6 @@
 
     1. [Budget 2021: Mortgage guarantee to help buyers with 5% deposit](https://www.bbc.co.uk/news/uk-56218952) - Sat, 27 Feb 2021 03:26:52 GMT - Boris Johnson says "generation rent" can become "generation buy" through new government-backed loans.
-1. [Budget 2021: Rishi Sunak to inject £126m to boost traineeship scheme](https://www.bbc.co.uk/news/business-56218054) - Fri, 26 Feb 2021 22:43:46 GMT - Rishi Sunak to also launch a 'flexi-job' scheme so people can work for several firms at once.
+1. [Budget 2021: Rishi Sunak to inject £126m to boost traineeship scheme](https://www.bbc.co.uk/news/business-56218054) - Sat, 27 Feb 2021 03:51:20 GMT - The chancellor also launches a "flexi-job" scheme so people can work for several firms at once.
 1. [Mother drops children from window to escape Istanbul apartment fire](https://www.bbc.co.uk/news/world-europe-56218287) - Fri, 26 Feb 2021 19:21:49 GMT - The four children were all caught by volunteers holding a blanket on the street in Istanbul.
 1. [Jamal Khashoggi: US says Saudi prince approved Khashoggi killing](https://www.bbc.co.uk/news/world-us-canada-56213528) - Fri, 26 Feb 2021 21:45:44 GMT - An official report says Saudi Crown Prince Mohammed bin Salman approved the journalist's murder.
 1. [Lady Gaga's dog walker Ryan Fischer to make 'full recovery'](https://www.bbc.co.uk/news/world-us-canada-56218620) - Fri, 26 Feb 2021 23:31:12 GMT - Ryan Fischer was shot when two people attacked him and stole the US singer's two French bulldogs.
