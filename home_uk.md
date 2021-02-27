@@ -17,7 +17,7 @@
 1. [Ros Atkins on... Is Facebook too powerful?](https://www.bbc.co.uk/news/technology-56212076) - Sat, 27 Feb 2021 00:01:50 GMT - Ros Atkins looks at the consequences of Facebook's power on events in Myanmar, Washington DC and Australia.
 1. [Week in pictures: 20-26 February 2021](https://www.bbc.co.uk/news/in-pictures-56195660) - Sat, 27 Feb 2021 00:11:26 GMT - A selection of striking images taken around the world this week.
 1. [How TikTok is powering Duncan Laurence's Eurovision winner](https://www.bbc.co.uk/news/newsbeat-56210143) - Fri, 26 Feb 2021 16:02:46 GMT - Duncan Laurence won Eurovision with his song Arcade, which is now being powered by TikTok.
-1. [Bitcoin energy use 'bigger than most countries'](https://www.bbc.co.uk/news/science-environment-56215787) - Sat, 27 Feb 2021 00:22:22 GMT - Could the cryptocurrency's huge electricity consumption also sink it?
+1. [How Bitcoin's vast energy use could burst its bubble](https://www.bbc.co.uk/news/science-environment-56215787) - Sat, 27 Feb 2021 00:22:22 GMT - Could the cryptocurrency's huge electricity consumption also sink it?
 1. [Hotel quarantine: Isolation and brown paper bags](https://www.bbc.co.uk/news/uk-56212665) - Sat, 27 Feb 2021 00:26:52 GMT - What's it like and what can you eat inside the UK's quarantine hotels?
 1. [Covid-19: How would an NHS vaccine passport app work?](https://www.bbc.co.uk/news/technology-56198552) - Sat, 27 Feb 2021 00:31:50 GMT - There is growing speculation that a certificate scheme could be built into the main NHS app.
 1. [Brexit: Why Irish freight trade is avoiding Britain](https://www.bbc.co.uk/news/56201463) - Sat, 27 Feb 2021 00:32:36 GMT - Irish freight is being shipped directly to Europe to avoid Brexit bureaucracy.
