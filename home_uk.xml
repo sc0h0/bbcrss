@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Feb 2021 23:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 23:34:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Sat, 27 Feb 2021 14:07:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Johnson & Johnson Covid vaccine: FDA approves single-shot jab]]></title>
+            <description><![CDATA[The US is the first country in the world to approve the Johnson & Johnson vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56226979</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56226979</guid>
+            <pubDate>Sat, 27 Feb 2021 23:27:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus: Biden's $1.9tn Covid relief bill passes House vote]]></title>
             <description><![CDATA[The coronavirus aid bill passes despite total Republican opposition, but must now go to the Senate.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56221371</link>
@@ -62,7 +69,7 @@
             <description><![CDATA[Police say 23 people have been arrested after disorder at an anti-lockdown protest.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56222942</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56222942</guid>
-            <pubDate>Sat, 27 Feb 2021 22:38:10 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2021 23:18:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six Nations: Wales beat England 40-24 to take Triple Crown]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56213662</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56213662</guid>
             <pubDate>Sat, 27 Feb 2021 21:54:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Budget 2021: Mortgage guarantee to help buyers with 5% deposit]]></title>
-            <description><![CDATA[The chancellor says public finances are facing a "challenge" from the impact of the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56218952</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56218952</guid>
-            <pubDate>Sat, 27 Feb 2021 12:23:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indian man killed by his own bird during cockfight]]></title>
@@ -336,6 +336,13 @@
             <link>https://www.bbc.co.uk/sport/football/56224827</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56224827</guid>
             <pubDate>Sat, 27 Feb 2021 19:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newcastle United 1-1 Wolverhampton Wanderers: Ruben Neves denies hosts the win]]></title>
+            <description><![CDATA[Ruben Neves earns Wolves a point at Newcastle as Steve Bruce's side miss the chance to move further clear of the relegation zone.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56135048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56135048</guid>
+            <pubDate>Sat, 27 Feb 2021 22:36:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six Nations: Wales 40-24 highlights]]></title>
