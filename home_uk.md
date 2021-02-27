@@ -1,7 +1,7 @@
 
-    1. [Captain Sir Tom Moore's final journey begins](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56212135) - Sat, 27 Feb 2021 11:40:45 GMT - A small, family service will begin soon for the 100-year-old who raised almost £33m for the NHS.
+    1. [Military salute to begin Captain Sir Tom's funeral](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56212135) - Sat, 27 Feb 2021 11:53:37 GMT - A small, family service will start soon for the 100-year-old who raised almost £33m for the NHS.
 1. [Budget 2021: Mortgage guarantee to help buyers with 5% deposit](https://www.bbc.co.uk/news/uk-56218952) - Sat, 27 Feb 2021 11:47:13 GMT - The chancellor says public finances are facing a "challenge" from the impact of the pandemic.
-1. [Anas Sarwar wins Scottish Labour leadership race](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56221768) - Sat, 27 Feb 2021 11:20:15 GMT - The Glasgow MSP defeated rival candidate Monica Lennon in the contest to replace Richard Leonard.
+1. [Anas Sarwar wins Scottish Labour leadership race](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56221768) - Sat, 27 Feb 2021 11:49:20 GMT - The Glasgow MSP defeated rival candidate Monica Lennon in the contest to replace Richard Leonard.
 1. [Covid-19: Public finances facing 'challenge' and Capt Sir Tom Moore's funeral](https://www.bbc.co.uk/news/uk-56220742) - Sat, 27 Feb 2021 07:17:52 GMT - Five things you need to know about the coronavirus pandemic this Saturday.
 1. [Exeter WW2 bomb: 2,600 homes being evacuated](https://www.bbc.co.uk/news/uk-england-devon-56221697) - Sat, 27 Feb 2021 11:07:21 GMT - Royal Navy bomb disposal specialists are dealing with a 2.5m (8ft) device.
 1. [Coronavirus: Biden's $1.9tn Covid relief bill passes House vote](https://www.bbc.co.uk/news/world-us-canada-56221371) - Sat, 27 Feb 2021 09:11:06 GMT - The coronavirus aid bill passes despite total Republican opposition, but must now go to the Senate.
