@@ -1,6 +1,6 @@
 
     1. [Capt Sir Tom's 'spirit lives on', says daughter](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56212135) - Sat, 27 Feb 2021 16:24:23 GMT - He is remembered by family at his funeral as "a beacon of light and hope to the world".
-1. [Covid-19: Nearly 20 million people in UK have first vaccine dose](https://www.bbc.co.uk/news/uk-56224522) - Sat, 27 Feb 2021 17:48:14 GMT - More than half a million people were vaccinated on Friday, as phase two of the vaccine programme continues.
+1. [Covid-19: People aged 60 to 63 in England to get jab invites from Monday](https://www.bbc.co.uk/news/uk-56226020) - Sun, 28 Feb 2021 03:48:48 GMT - The vaccine rollout is gaining "fresh momentum," the NHS says as the next batch of letters are sent out.
 1. [Covid-19: Prince William and Kate urge people to get vaccine](https://www.bbc.co.uk/news/uk-56224314) - Sat, 27 Feb 2021 22:00:02 GMT - The Duke and Duchess of Cambridge urge people to get the jab and warn against fake news on social media.
 1. [Covid vaccine: Germany urged to back AstraZeneca jab for over-65s](https://www.bbc.co.uk/news/world-europe-56227171) - Sun, 28 Feb 2021 00:23:14 GMT - A senior German immunologist tells the BBC that his country should reverse its decision on the jab.
 1. [Johnson & Johnson Covid vaccine: FDA approves single-shot jab](https://www.bbc.co.uk/news/world-us-canada-56226979) - Sun, 28 Feb 2021 01:30:47 GMT - The Johnson & Johnson vaccine, made by Belgian firm Janssen, is the third jab authorised in the US.
