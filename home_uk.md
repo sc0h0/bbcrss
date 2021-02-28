@@ -1,5 +1,5 @@
 
-    1. [Covid-19: Brazil 'variant of concern' detected in UK](https://www.bbc.co.uk/news/uk-56233038) - Sun, 28 Feb 2021 20:09:58 GMT - Six cases of the variant first detected in Brazil have now been found in England and Scotland.
+    1. [Covid-19: Brazil 'variant of concern' detected in UK](https://www.bbc.co.uk/news/uk-56233038) - Sun, 28 Feb 2021 20:29:57 GMT - Six cases of the variant first detected in Brazil have now been found in England and Scotland.
 1. [Covid-19: More than 20 million in UK have had first jab](https://www.bbc.co.uk/news/uk-56231518) - Sun, 28 Feb 2021 16:47:47 GMT - The milestone is a "huge national achievement" and "every jab makes a difference", Boris Johnson says.
 1. [Coronation Street star Johnny Briggs dies aged 85](https://www.bbc.co.uk/news/uk-56229247) - Sun, 28 Feb 2021 13:48:33 GMT - The actor, who played Mike Baldwin in the soap, died after a long illness, his family said.
 1. [Myanmar coup: Deadliest day of protests as police open fire](https://www.bbc.co.uk/news/world-asia-56228357) - Sun, 28 Feb 2021 17:02:40 GMT - At least 18 people are killed as police try to disperse huge anti-coup rallies in several cities.
