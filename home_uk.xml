@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Feb 2021 18:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 18:48:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Brazil 'variant of concern' detected in UK]]></title>
+            <description><![CDATA[Six cases of the variant first detected in Brazil have now been found in England and Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56233038</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56233038</guid>
+            <pubDate>Sun, 28 Feb 2021 18:43:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Budget: Rishi Sunak promises help as Covid restrictions ease]]></title>
             <description><![CDATA[But the chancellor says he wants "to be honest" with the public about the shock suffered by the economy.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56229143</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56229143</guid>
             <pubDate>Sun, 28 Feb 2021 15:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Brazil 'variant of concern' detected in UK]]></title>
-            <description><![CDATA[Six cases of the variant first detected in Brazil have now been found in England and Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56233038</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56233038</guid>
-            <pubDate>Sun, 28 Feb 2021 18:08:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: More than 20 million in UK have had first jab]]></title>
@@ -97,7 +97,7 @@
             <description><![CDATA[Former Watford, West Ham, Newcastle and Norwich manager Glenn Roeder dies aged 65, says the League Managers Association.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56233217</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56233217</guid>
-            <pubDate>Sun, 28 Feb 2021 18:03:45 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2021 18:36:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Your pictures on the theme of 'the beauty of trees']]></title>
@@ -345,6 +345,13 @@
             <pubDate>Sun, 28 Feb 2021 17:06:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Premier League: Chelsea 0-0 Man Utd – More VAR controversy in stalemate]]></title>
+            <description><![CDATA[Chelsea and Manchester United boost their top four hopes with a goalless draw as VAR continues to make headlines.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56143444</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56143444</guid>
+            <pubDate>Sun, 28 Feb 2021 18:41:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Formula E: British driver Alex Lynn 'well' after shocking crash at Diriyah E-prix]]></title>
             <description><![CDATA[Watch British driver Alex Lynn's shocking crash during round two of the Formula E season in Saudi Arabia.]]></description>
             <link>https://www.bbc.co.uk/sport/av/motorsport/56233635</link>
@@ -359,11 +366,11 @@
             <pubDate>Sun, 28 Feb 2021 14:30:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man City thrash Birmingham in WSL - highlights & report]]></title>
-            <description><![CDATA[Manchester City move within two points of the Women's Super League summit with a dominant win at Birmingham.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56098894</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56098894</guid>
-            <pubDate>Sun, 28 Feb 2021 16:24:54 GMT</pubDate>
+            <title><![CDATA[Covid variants: What are they and will vaccines work?]]></title>
+            <description><![CDATA[More cases are being found in the UK, including a variant first seen in Brazil.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55659820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
+            <pubDate>Sun, 28 Feb 2021 17:28:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
@@ -392,13 +399,6 @@
             <link>https://www.bbc.co.uk/news/explainers-55936928</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55936928</guid>
             <pubDate>Fri, 12 Feb 2021 13:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid variants: What are they and will vaccines work?]]></title>
-            <description><![CDATA[More cases are being found in the UK, including a variant first seen in Brazil.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55659820</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
-            <pubDate>Sun, 28 Feb 2021 17:28:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fly-tipping: Licensing system failing to stop dumping, Panorama finds]]></title>
