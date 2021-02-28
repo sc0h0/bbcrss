@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Feb 2021 08:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 09:23:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,18 +58,18 @@
             <pubDate>Sun, 28 Feb 2021 00:23:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Johnson & Johnson Covid vaccine: FDA approves single-shot jab]]></title>
-            <description><![CDATA[The Johnson & Johnson vaccine, made by Belgian firm Janssen, is the third jab authorised in the US.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56226979</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56226979</guid>
-            <pubDate>Sun, 28 Feb 2021 01:30:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Myanmar coup: Casualties rise as police step up crackdown]]></title>
             <description><![CDATA[Police fire live rounds, tear gas and rubber bullets to disperse anti-coup rallies in several cities.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56228357</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56228357</guid>
             <pubDate>Sun, 28 Feb 2021 08:22:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Johnson & Johnson Covid vaccine: FDA approves single-shot jab]]></title>
+            <description><![CDATA[The Johnson & Johnson vaccine, made by Belgian firm Janssen, is the third jab authorised in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56226979</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56226979</guid>
+            <pubDate>Sun, 28 Feb 2021 01:30:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six million accidental savers 'created by Covid crisis']]></title>
@@ -331,6 +331,13 @@
             <pubDate>Sat, 27 Feb 2021 20:55:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Six Nations: Wales 40-24 highlights]]></title>
+            <description><![CDATA[Wales secure the Triple Crown and keep their Grand Slam hopes alive with a thrilling and controversial 40-24 win over England at the Principality Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/56226561</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56226561</guid>
+            <pubDate>Sat, 27 Feb 2021 19:56:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Canelo to fight Britain's Saunders in May after beating Yildirim]]></title>
             <description><![CDATA[Saul 'Canelo' Alvarez beat Avni Yildirim to set up a world title unification fight with Britain's Billy Joe Saunders on 8 May.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/56228461</link>
@@ -350,13 +357,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/56228166</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56228166</guid>
             <pubDate>Sun, 28 Feb 2021 07:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['An embarrassing & horrendous decision' - Brighton angry as goal disallowed, allowed & ruled out again]]></title>
-            <description><![CDATA[Brighton captain Lewis Dunk says the decision to disallow his goal in the defeat by West Brom is "embarrassing and horrendous".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56224827</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56224827</guid>
-            <pubDate>Sat, 27 Feb 2021 19:35:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
