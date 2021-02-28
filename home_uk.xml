@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Feb 2021 21:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 22:20:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -66,10 +66,10 @@
         </item>
         <item>
             <title><![CDATA[CPAC: Trump returns to political stage at conservative conference]]></title>
-            <description><![CDATA[The former US president is addressing the Conservative Political Action Conference (CPAC) in Florida.]]></description>
+            <description><![CDATA[The former US president tells the conservative conference he will not start a new political party.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56230998</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56230998</guid>
-            <pubDate>Sun, 28 Feb 2021 21:49:55 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2021 22:19:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BBC condemns online abuse of Six Nations reporter Sonja McLaughlan]]></title>
@@ -93,7 +93,7 @@
             <pubDate>Sun, 28 Feb 2021 20:18:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Benburb: Police break up crowd of 250 watching fight]]></title>
+            <title><![CDATA[Covid-19: Police break up crowd of 250 watching fight]]></title>
             <description><![CDATA[An "organised fight" in a yard in County Tyrone was a clear breach of Covid-19 rules, say police.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56233235</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56233235</guid>
@@ -205,7 +205,14 @@
             <pubDate>Sat, 27 Feb 2021 00:22:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['100% nailed-on penalty' - Solskjaer fears referees are being swayed by 'outside influences' ]]></title>
+            <title><![CDATA[Liverpool end run of four successive league defeats by beating Sheffield Utd]]></title>
+            <description><![CDATA[Liverpool end a run of four successive Premier League defeats with victory over Sheffield United at Bramall Lane.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56143443</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56143443</guid>
+            <pubDate>Sun, 28 Feb 2021 21:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['100% nailed-on penalty' - Solskjaer fears referees are being swayed by 'outside influences']]></title>
             <description><![CDATA[Manchester United boss Ole Gunnar Solskjaer says his side should have had a "100% nailed-on" penalty in the goalless draw with Chelsea and blames "outside influences" for it not being given.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56233756</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56233756</guid>
@@ -226,18 +233,11 @@
             <pubDate>Sun, 28 Feb 2021 15:51:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Liverpool end run of four successive league defeats by beating Sheffield Utd]]></title>
-            <description><![CDATA[Liverpool end a run of four successive Premier League defeats with victory over Sheffield United at Bramall Lane.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56143443</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56143443</guid>
-            <pubDate>Sun, 28 Feb 2021 21:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England will not complain about refereeing to World Rugby]]></title>
-            <description><![CDATA[England will not make an official complaint to World Rugby over the refereeing in Saturday's 40-24 defeat against Wales.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56230186</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56230186</guid>
-            <pubDate>Sun, 28 Feb 2021 14:15:13 GMT</pubDate>
+            <title><![CDATA[Why LGBT+ History Month matters to athletes]]></title>
+            <description><![CDATA[Swimmer Michael Gunning, racing driver Charlie Martin and rugby union player Florence Williams speak about why LGBT+ History Month matters.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/56226352</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/56226352</guid>
+            <pubDate>Sun, 28 Feb 2021 22:01:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Formula E: British driver Alex Lynn 'well' after shocking crash at Diriyah E-prix]]></title>
@@ -245,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/av/motorsport/56233635</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/motorsport/56233635</guid>
             <pubDate>Sun, 28 Feb 2021 18:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England will not complain about refereeing to World Rugby]]></title>
+            <description><![CDATA[England will not make an official complaint to World Rugby over the refereeing in Saturday's 40-24 defeat against Wales.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56230186</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56230186</guid>
+            <pubDate>Sun, 28 Feb 2021 14:15:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid variants: What are they and will vaccines work?]]></title>
