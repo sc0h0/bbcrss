@@ -1,8 +1,8 @@
 
-    1. [Covid-19: Brazil variant case in England hunted by officials](https://www.bbc.co.uk/news/uk-56234302) - Mon, 01 Mar 2021 09:00:27 GMT - The whereabouts of one infected person is unknown, as they did not give their full contact details.
+    1. [Covid-19: Brazil variant case in England hunted by officials](https://www.bbc.co.uk/news/uk-56234302) - Mon, 01 Mar 2021 10:39:12 GMT - The whereabouts of one infected person is unknown, as they did not give their full contact details.
 1. [Meghan and Harry Oprah interview: Diana discussed in teaser clips](https://www.bbc.co.uk/news/entertainment-arts-56234900) - Mon, 01 Mar 2021 09:57:27 GMT - Harry draws parallels between the treatment of his mother and wife, in teaser clips of a TV special.
 1. [Covid-19: Critical care beds shortage prompts calls for review](https://www.bbc.co.uk/news/uk-56234898) - Mon, 01 Mar 2021 10:08:13 GMT - The UK has 7.3 critical care beds per 100,000 people, compared to Germany's 33.8 and the US's 34.3.
-1. [UK Meteor lights up sky over southern England](https://www.bbc.co.uk/news/uk-england-bristol-56237596) - Mon, 01 Mar 2021 09:11:34 GMT - A meteor - which was caught on camera - lit up the sky in England on Sunday night.
+1. [UK meteor lights up sky over parts of England](https://www.bbc.co.uk/news/uk-england-bristol-56237596) - Mon, 01 Mar 2021 10:47:45 GMT - A meteor - which was caught on camera - was visible for around seven seconds on Sunday night.
 1. [Golden Globe Awards 2021: Nomadland and Borat win top awards](https://www.bbc.co.uk/news/entertainment-arts-56234587) - Mon, 01 Mar 2021 04:44:32 GMT - Chloé Zhao becomes the second woman ever to win best director at Hollywood's Golden Globe awards.
 1. [Budget 2021: Extra £1.6bn for UK's Covid vaccination rollout](https://www.bbc.co.uk/news/uk-56230704) - Mon, 01 Mar 2021 05:39:56 GMT - The chancellor is to provide more funding for the programme, which has now given 20m first doses.
 1. [Trainer Elliot admits dead horse photo is real](https://www.bbc.co.uk/sport/horse-racing/56234556) - Mon, 01 Mar 2021 10:04:28 GMT - Leading Irish racehorse trainer Gordon Elliott says a photo circulating on social media of him sitting on a dead horse is real.
@@ -39,6 +39,7 @@
 1. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Sun, 28 Feb 2021 16:41:55 GMT - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 1. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Tue, 23 Feb 2021 15:51:39 GMT - The prime minister has announced a plan for how the lockdown will be lifted in England.
 1. [Coronavirus: How does the Covid-19 alert level system work?](https://www.bbc.co.uk/news/explainers-52634739) - Thu, 25 Feb 2021 15:29:59 GMT - The threat of Covid-19 in England is ranked through a five-level, colour-coded alert system.
+1. [Lockdown Learning: What educational resources are on TV, iPlayer and online?](https://www.bbc.co.uk/news/education-55591821) - Wed, 10 Feb 2021 08:56:11 GMT - As schools remain closed to most pupils, the BBC is offering a wealth of educational material.
 1. [Coronavirus: What is the R number and how is it calculated?](https://www.bbc.co.uk/news/health-52473523) - Fri, 26 Feb 2021 14:55:15 GMT - The R number is a simple but crucial figure at the heart of lockdown decisions across the UK.
 1. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Fri, 26 Feb 2021 11:15:48 GMT - Two approved Covid vaccines are being rolled out across the UK. So when might you get one?
 
