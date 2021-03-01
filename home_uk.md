@@ -1,5 +1,5 @@
 
-    1. [Covid-19: Brazil variant case in England hunted by officials](https://www.bbc.co.uk/news/uk-56234302) - Mon, 01 Mar 2021 12:15:07 GMT - The whereabouts of one infected person is unknown, as they did not give their full contact details.
+    1. [Covid-19: PM defends border measures to prevent Brazilian variant entering UK](https://www.bbc.co.uk/news/uk-56241213) - Mon, 01 Mar 2021 13:47:58 GMT - It comes as the search continues for a person in England infected with the Brazilian variant.
 1. [Prince Philip transferred to second hospital for heart condition tests](https://www.bbc.co.uk/news/uk-56241353) - Mon, 01 Mar 2021 13:44:48 GMT - The Duke of Edinburgh, 99, will undergo testing and observation for a pre-existing heart condition.
 1. [Sarkozy: Former French president sentenced to jail for corruption](https://www.bbc.co.uk/news/world-europe-56237818) - Mon, 01 Mar 2021 13:41:08 GMT - The former president is found guilty of trying to bribe a magistrate but can serve the term at home.
 1. [Covid: Teachers' risk 'similar' to other under-65s](https://www.bbc.co.uk/news/health-56238468) - Mon, 01 Mar 2021 13:05:56 GMT - The study measured infection rates in school staff and pupils in November and December.
