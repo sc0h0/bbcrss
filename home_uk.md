@@ -1,7 +1,7 @@
 
     1. [Covid-19: Officials hunt Brazil virus variant case in England](https://www.bbc.co.uk/news/uk-56234302) - Mon, 01 Mar 2021 03:46:05 GMT - There is an appeal for anyone without a result from a test on 12 or 13 February to come forward.
 1. [Budget 2021: Extra £1.6bn for UK's Covid vaccination rollout](https://www.bbc.co.uk/news/uk-56230704) - Sun, 28 Feb 2021 22:30:04 GMT - The chancellor is to provide more funding for the programme, which has now given 20m first doses.
-1. [Golden Globe Awards 2021: Boyega and Kaluuya among British winners](https://www.bbc.co.uk/news/entertainment-arts-56234587) - Mon, 01 Mar 2021 03:57:07 GMT - Tina Fey and Amy Poehler are hosting the year's first major film and TV awards ceremony.
+1. [Golden Globe Awards 2021: Nomadland and Borat win top awards](https://www.bbc.co.uk/news/entertainment-arts-56234587) - Mon, 01 Mar 2021 04:44:32 GMT - Chloe Zhao becomes only the second woman ever to win best director at the 78th annual Golden Globes.
 1. [Prince Harry speaks about Diana in Oprah Winfrey interview clip](https://www.bbc.co.uk/news/entertainment-arts-56234900) - Mon, 01 Mar 2021 04:02:36 GMT - The duke talks about his mother's departure from the Royal Family in excerpts of an upcoming TV special.
 1. [Yemen: The nine-year-old war-zone school teacher](https://www.bbc.co.uk/news/world-middle-east-56212929) - Mon, 01 Mar 2021 00:04:33 GMT - Ahmed, blind since birth, stands in for teachers who don't make it in to their ruined school in Yemen.
 1. [CPAC: Trump rules out new political party in speech to conservatives](https://www.bbc.co.uk/news/world-us-canada-56230998) - Sun, 28 Feb 2021 23:52:57 GMT - The former US president hints at another run in 2024 as he returns to the political stage.
