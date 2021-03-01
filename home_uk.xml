@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Mar 2021 08:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 08:50:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Mon, 01 Mar 2021 05:39:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Myanmar coup: Aung San Suu Kyi appears in court to face fresh charges]]></title>
-            <description><![CDATA[Ms Suu Kyi was told she faces fresh charges a month after she was detained during a military coup.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56235405</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56235405</guid>
-            <pubDate>Mon, 01 Mar 2021 07:52:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Trainer Elliot admits dead horse photo is real]]></title>
             <description><![CDATA[Leading Irish racehorse trainer Gordon Elliott says a photo circulating on social media of him sitting on a dead horse is real.]]></description>
             <link>https://www.bbc.co.uk/sport/horse-racing/56234556</link>
@@ -58,11 +51,11 @@
             <pubDate>Mon, 01 Mar 2021 07:37:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Hunt for Brazilian variant, and extra money for vaccine rollout]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56235805</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56235805</guid>
-            <pubDate>Mon, 01 Mar 2021 07:21:55 GMT</pubDate>
+            <title><![CDATA[Myanmar coup: Aung San Suu Kyi appears in court to face fresh charges]]></title>
+            <description><![CDATA[Ms Suu Kyi was told she faces fresh charges a month after she was detained during a military coup.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56235405</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56235405</guid>
+            <pubDate>Mon, 01 Mar 2021 07:52:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget 2021: Northern Tory MPs call for business rates cut to 'save High Streets']]></title>
@@ -273,6 +266,13 @@
             <link>https://www.bbc.co.uk/news/business-52660591</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52660591</guid>
             <pubDate>Tue, 23 Feb 2021 12:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid variants: What are they and will vaccines work?]]></title>
+            <description><![CDATA[More cases are being found in the UK, including a variant first seen in Brazil.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55659820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
+            <pubDate>Mon, 01 Mar 2021 08:16:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
