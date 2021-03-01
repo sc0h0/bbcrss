@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Mar 2021 16:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 17:13:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Brazilian variant: Boris Johnson defends UK Covid border measures]]></title>
-            <description><![CDATA[It comes as the search continues for a person in England infected with the Brazilian variant.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56241213</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56241213</guid>
-            <pubDate>Mon, 01 Mar 2021 15:31:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Prince Philip transferred to second hospital for heart condition tests]]></title>
             <description><![CDATA[The Duke of Edinburgh, 99, will undergo testing and observation for a pre-existing heart condition.]]></description>
@@ -30,11 +23,18 @@
             <pubDate>Mon, 01 Mar 2021 16:04:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Brazilian variant: Boris Johnson defends UK Covid border measures]]></title>
+            <description><![CDATA[It comes as the search continues for a person in England infected with the Brazilian variant.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56241213</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56241213</guid>
+            <pubDate>Mon, 01 Mar 2021 16:49:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sarkozy: Former French president sentenced to jail for corruption]]></title>
             <description><![CDATA[The former president is found guilty of trying to bribe a magistrate but can serve the term at home.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56237818</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56237818</guid>
-            <pubDate>Mon, 01 Mar 2021 15:58:30 GMT</pubDate>
+            <pubDate>Mon, 01 Mar 2021 16:39:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Teachers' risk 'similar' to other under-65s]]></title>
@@ -42,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/health-56238468</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56238468</guid>
             <pubDate>Mon, 01 Mar 2021 13:05:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK meteor lights up sky over parts of England]]></title>
-            <description><![CDATA[A meteor - which was caught on camera - was visible for around seven seconds on Sunday night.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-56237596</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-56237596</guid>
-            <pubDate>Mon, 01 Mar 2021 10:47:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heathrow Airport seven-hour queues 'inhumane', say passengers]]></title>
@@ -62,7 +55,7 @@
             <description><![CDATA[Catalan police make four arrests after searching the offices of La Liga side Barcelona.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56236872</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56236872</guid>
-            <pubDate>Mon, 01 Mar 2021 16:04:34 GMT</pubDate>
+            <pubDate>Mon, 01 Mar 2021 17:12:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trainer Elliott admits dead horse photo is real]]></title>
@@ -76,7 +69,7 @@
             <description><![CDATA[Canary Wharf expects people to return to the office but may choose home working some of the time.]]></description>
             <link>https://www.bbc.co.uk/news/business-56237586</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56237586</guid>
-            <pubDate>Mon, 01 Mar 2021 11:07:02 GMT</pubDate>
+            <pubDate>Mon, 01 Mar 2021 17:04:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Download Festival cancelled for second year]]></title>
@@ -300,7 +293,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sun, 28 Feb 2021 16:41:55 GMT</pubDate>
+            <pubDate>Mon, 01 Mar 2021 16:49:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
