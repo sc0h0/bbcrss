@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Mar 2021 23:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 23:38:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Mon, 01 Mar 2021 22:17:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Swinney agrees to publish Salmond case legal advice]]></title>
+            <description><![CDATA[The deputy first minister was facing a vote of no confidence over the government's advice from Alex Salmond's civil case.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56231222</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56231222</guid>
+            <pubDate>Mon, 01 Mar 2021 19:27:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brazilian variant: Hancock denies quarantine delays put lives at risk]]></title>
             <description><![CDATA[It comes as the search continues for a person in England infected with the Brazilian variant.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56241213</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-56246834</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56246834</guid>
             <pubDate>Mon, 01 Mar 2021 21:24:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['A very close call': Lady Gaga's dog-walker tells of ordeal]]></title>
-            <description><![CDATA[Ryan Fischer is expected to make a full recovery after a dognapper shot him in the chest.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56246882</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56246882</guid>
-            <pubDate>Mon, 01 Mar 2021 19:48:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prosthetist fundraising £300,000 for a bionic arm after cycling accident]]></title>
@@ -230,14 +230,7 @@
             <description><![CDATA[Richarlison continues his good form as Everton keep their European ambitions on track with victory over out-of-form Southampton.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56150298</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56150298</guid>
-            <pubDate>Mon, 01 Mar 2021 22:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police make arrests after search of Barcelona offices]]></title>
-            <description><![CDATA[Catalan police make four arrests after searching the offices of La Liga side Barcelona.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56236872</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56236872</guid>
-            <pubDate>Mon, 01 Mar 2021 17:12:09 GMT</pubDate>
+            <pubDate>Mon, 01 Mar 2021 23:31:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rotterdam Open: Andy Murray & Cameron Norrie earn wins]]></title>
@@ -259,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/football/56242245</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56242245</guid>
             <pubDate>Mon, 01 Mar 2021 15:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police make arrests after search of Barcelona offices]]></title>
+            <description><![CDATA[Catalan police make four arrests after searching the offices of La Liga side Barcelona.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56236872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56236872</guid>
+            <pubDate>Mon, 01 Mar 2021 17:12:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arsenal's Katie McCabe scores stunner into top corner to seal Aston Villa win]]></title>
