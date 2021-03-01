@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Mar 2021 17:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 18:29:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Mon, 01 Mar 2021 16:49:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Vaccines cut risk of serious illness by 80%, and border measures defended]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56244036</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56244036</guid>
+            <pubDate>Mon, 01 Mar 2021 18:04:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sarkozy: Former French president sentenced to jail for corruption]]></title>
-            <description><![CDATA[The former president is found guilty of trying to bribe a judge but can serve the term at home.]]></description>
+            <description><![CDATA[The ex-president is found guilty of trying to bribe a judge but can serve the term at home if he loses an appeal.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56237818</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56237818</guid>
             <pubDate>Mon, 01 Mar 2021 17:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Teachers' risk 'similar' to other under-65s]]></title>
-            <description><![CDATA[The study measured infection rates in school staff and pupils in November and December.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56238468</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56238468</guid>
-            <pubDate>Mon, 01 Mar 2021 13:05:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heathrow Airport seven-hour queues 'inhumane', say passengers]]></title>
@@ -56,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/business-56209431</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56209431</guid>
             <pubDate>Mon, 01 Mar 2021 15:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barcelona: Catalan police make four arrests over financial issues at Spanish club]]></title>
-            <description><![CDATA[Catalan police make four arrests after searching the offices of La Liga side Barcelona.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56236872</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56236872</guid>
-            <pubDate>Mon, 01 Mar 2021 17:12:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trainer Elliott admits dead horse photo is real]]></title>
@@ -79,11 +72,18 @@
             <pubDate>Mon, 01 Mar 2021 17:21:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tomahawk Steakhouse staff told 'loan firm 10% or face sack']]></title>
-            <description><![CDATA[The GMB Union says employees have been told to sign a loan agreement or face possible dismissal.]]></description>
+            <title><![CDATA[Love Island South Africa producers promise more diversity after criticism]]></title>
+            <description><![CDATA[The makers of Love Island South Africa promise more diversity after its starting line-up was criticised by some viewers because of the number of white contestants.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56241026</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56241026</guid>
+            <pubDate>Mon, 01 Mar 2021 18:09:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tomahawk Steakhouse staff told 'loan firm 10% or they could face sack']]></title>
+            <description><![CDATA[The GMB Union says employees say they were told to sign a loan agreement or face possible dismissal.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-56213042</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56213042</guid>
-            <pubDate>Mon, 01 Mar 2021 14:07:38 GMT</pubDate>
+            <pubDate>Mon, 01 Mar 2021 17:59:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Family camping on cliff edge fined for lockdown breach]]></title>
@@ -205,6 +205,13 @@
             <pubDate>Sun, 28 Feb 2021 00:13:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Police make arrests after search of Barcelona offices]]></title>
+            <description><![CDATA[Catalan police make four arrests after searching the offices of La Liga side Barcelona.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56236872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56236872</guid>
+            <pubDate>Mon, 01 Mar 2021 17:12:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England Rugby condemns online threats sent to Genge]]></title>
             <description><![CDATA[England Rugby condemns social media abuse directed at its players after Ellis Genge said he had been sent death threats following the Six Nations defeat by Wales.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56234157</link>
@@ -231,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/football/56242245</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56242245</guid>
             <pubDate>Mon, 01 Mar 2021 15:47:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newcastle face civil claims over behaviour of ex-employee jailed for sexual abuse]]></title>
-            <description><![CDATA[Newcastle are facing several civil claims regarding the behaviour of former employee George Ormond, who in 2018 received a 20-year jail sentence for multiple cases of sexual abuse.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56243610</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56243610</guid>
-            <pubDate>Mon, 01 Mar 2021 16:05:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arsenal's Katie McCabe scores stunner into top corner to seal Aston Villa win]]></title>
