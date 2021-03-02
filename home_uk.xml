@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Mar 2021 10:53:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 11:18:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,18 @@
             <pubDate>Tue, 02 Mar 2021 10:23:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Law chief gives evidence to Salmond inquiry]]></title>
-            <description><![CDATA[The Lord Advocate appears before MSPs probing the Scottish government's botched handling of complaints against Alex Salmond.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-53804923</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-53804923</guid>
-            <pubDate>Tue, 02 Mar 2021 10:36:57 GMT</pubDate>
+            <title><![CDATA[Covid-19: Tests show 'low' infection rates in schools]]></title>
+            <description><![CDATA[But testing will mean schools in England may treat next week as a "transitional week", a teaching union says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56250995</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56250995</guid>
+            <pubDate>Tue, 02 Mar 2021 11:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish government lawyers had 'reservations' about Salmond case]]></title>
+            <description><![CDATA[Concerns were raised about the legal battle more than two months before the government conceded the case.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56251165</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56251165</guid>
+            <pubDate>Tue, 02 Mar 2021 10:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Energy firms overcharged one million switching customers]]></title>
@@ -62,7 +69,7 @@
             <description><![CDATA[A group of nearly 300 girls are released after they were abducted from their school last week.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-56249626</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56249626</guid>
-            <pubDate>Tue, 02 Mar 2021 10:08:05 GMT</pubDate>
+            <pubDate>Tue, 02 Mar 2021 11:15:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Cup 2030: UK and Republic of Ireland associations back UK government support for bid]]></title>
@@ -86,18 +93,11 @@
             <pubDate>Tue, 02 Mar 2021 00:01:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[University to pay out £5k for 'less valuable' experience]]></title>
-            <description><![CDATA[Details of student complaints about Covid's impact are released - including one award of £5,000.]]></description>
-            <link>https://www.bbc.co.uk/news/education-56245074</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56245074</guid>
-            <pubDate>Tue, 02 Mar 2021 00:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Keir Starmer's critics in Labour become increasingly vocal]]></title>
-            <description><![CDATA[The Labour leader is not being strident enough in opposition, two ex-shadow ministers say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56246532</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56246532</guid>
-            <pubDate>Tue, 02 Mar 2021 09:59:42 GMT</pubDate>
+            <title><![CDATA[Angelina Jolie sells Winston Churchill painting for record £7m]]></title>
+            <description><![CDATA[The Tower Of The Koutoubia Mosque, owned by the actress, is sold to an unidentified buyer.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56250654</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56250654</guid>
+            <pubDate>Tue, 02 Mar 2021 10:19:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Migrating flamingos turn Mumbai lakes into 'sea of pink']]></title>
@@ -170,7 +170,7 @@
             <pubDate>Mon, 01 Mar 2021 09:26:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gordon Elliott: The extraordinary rise and fall of Grand National-winning racehorse trainer]]></title>
+            <title><![CDATA[The extraordinary rise and fall of trainer Gordon Elliott]]></title>
             <description><![CDATA[Profile of Irish racehorse trainer Gordon Elliott, who faces an inquiry after being pictured sat on a dead horse.]]></description>
             <link>https://www.bbc.co.uk/sport/horse-racing/56230013</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/horse-racing/56230013</guid>
@@ -212,18 +212,11 @@
             <pubDate>Tue, 02 Mar 2021 00:07:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elliott banned from racing in Britain after admitting dead horse photo is real]]></title>
-            <description><![CDATA[Leading Irish trainer Gordon Elliott is temporarily banned from racing in Britain after being pictured sitting on a dead horse.]]></description>
-            <link>https://www.bbc.co.uk/sport/horse-racing/56246444</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/horse-racing/56246444</guid>
-            <pubDate>Mon, 01 Mar 2021 21:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I feel like I’m playing for my career just now' - Murray digs deep to win in Rotterdam]]></title>
-            <description><![CDATA[Britain's Andy Murray earns his first tour-level win since August with a gutsy fightback against Dutch wildcard Robin Haase in Rotterdam.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/56244576</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56244576</guid>
-            <pubDate>Mon, 01 Mar 2021 23:48:26 GMT</pubDate>
+            <title><![CDATA[Is Fernandes' replacement at Sporting Lisbon Portugal's next superstar?]]></title>
+            <description><![CDATA[Sporting Lisbon appear to have struck gold with a former Wolves youngster who has a better scoring record than Bruno Fernandes.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56243780</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56243780</guid>
+            <pubDate>Tue, 02 Mar 2021 06:07:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fulham midfielder Kevin McDonald to have kidney transplant]]></title>
@@ -240,18 +233,18 @@
             <pubDate>Mon, 01 Mar 2021 23:20:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is Fernandes' replacement at Sporting Lisbon Portugal's next superstar?]]></title>
-            <description><![CDATA[Sporting Lisbon appear to have struck gold with a former Wolves youngster who has a better scoring record than Bruno Fernandes.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56243780</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56243780</guid>
-            <pubDate>Tue, 02 Mar 2021 06:07:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[England opener Beaumont tops ODI batting rankings]]></title>
             <description><![CDATA[England opener Tammy Beaumont becomes the leading one-day batter in the world for the first time.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/56240018</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56240018</guid>
             <pubDate>Tue, 02 Mar 2021 10:25:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I feel like I’m playing for my career just now' - Murray digs deep to win in Rotterdam]]></title>
+            <description><![CDATA[Britain's Andy Murray earns his first tour-level win since August with a gutsy fightback against Dutch wildcard Robin Haase in Rotterdam.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/56244576</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56244576</guid>
+            <pubDate>Mon, 01 Mar 2021 23:48:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arsenal's Katie McCabe scores stunner into top corner to seal Aston Villa win]]></title>
