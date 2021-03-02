@@ -1,5 +1,5 @@
 
-    1. [Calls for Nicola Sturgeon to quit over Alex Salmond revelations](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56259056) - Tue, 02 Mar 2021 19:33:38 GMT - Newly published documents have raised further questions about the Alex Salmond saga.
+    1. [Calls for Nicola Sturgeon to quit over Alex Salmond revelations](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56259056) - Tue, 02 Mar 2021 19:33:38 GMT - Newly published documents raises further questions about the Alex Salmond saga.
 1. [Budget 2021: Furlough set to be extended - Kwasi Kwarteng](https://www.bbc.co.uk/news/uk-politics-56247455) - Tue, 02 Mar 2021 18:49:19 GMT - Kwasi Kwarteng says help for firms and workers will continue, as Chancellor Rishi Sunak prepares to unveil the Budget.
 1. [Brazil variant: Search for mystery case narrows to 379 households](https://www.bbc.co.uk/news/uk-56254979) - Tue, 02 Mar 2021 17:17:48 GMT - The health secretary says 379 households in south-east England are being contacted.
 1. [BBC Three will return to TV screens after six-year break](https://www.bbc.co.uk/news/entertainment-arts-56251020) - Tue, 02 Mar 2021 15:25:39 GMT - The channel will make a comeback, after scoring hits with Normal People and Fleabag online.
