@@ -43,6 +43,6 @@
 1. [Covid: Which areas are being mass tested for new variants?](https://www.bbc.co.uk/news/explainers-54872039) - Tue, 02 Mar 2021 14:46:59 GMT - The government hopes "surge" testing will reduce transmission of new variants of Covid-19.
 1. [Coronavirus: How much will it cost the UK and how will we pay?](https://www.bbc.co.uk/news/business-52663523) - Mon, 01 Mar 2021 18:48:23 GMT - The pandemic is costing the government hundreds of billions of pounds. Where will it all come from?
 1. [When does the stamp duty holiday in England and Northern Ireland end?](https://www.bbc.co.uk/news/business-53319433) - Mon, 01 Mar 2021 12:59:06 GMT - Stamp duty changes introduced to boost the housing market are due to end in March.
-1. [What are the Brazil, South Africa and UK variants and will vaccines work?](https://www.bbc.co.uk/news/health-55659820) - Mon, 01 Mar 2021 09:48:36 GMT - More cases are being found in the UK, including a variant first seen in Brazil.
+1. [What are the Brazil, South Africa and UK variants and will vaccines work?](https://www.bbc.co.uk/news/health-55659820) - Tue, 02 Mar 2021 15:41:26 GMT - More cases are being found in the UK, including a variant first seen in Brazil.
 1. [Lockdown Learning: What educational resources are on TV, iPlayer and online?](https://www.bbc.co.uk/news/education-55591821) - Tue, 02 Mar 2021 09:19:46 GMT - As schools remain closed to most pupils, the BBC is offering a wealth of educational material.
 
