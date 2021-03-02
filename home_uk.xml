@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Mar 2021 22:57:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 23:18:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The chancellor will extend the scheme in the Budget, while more self-employed will also be eligible for help.]]></description>
             <link>https://www.bbc.co.uk/news/business-56259094</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56259094</guid>
-            <pubDate>Tue, 02 Mar 2021 22:48:07 GMT</pubDate>
+            <pubDate>Tue, 02 Mar 2021 22:56:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Calls for Nicola Sturgeon to quit over Alex Salmond revelations]]></title>
@@ -58,13 +58,6 @@
             <pubDate>Tue, 02 Mar 2021 17:54:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Details of NI lockdown exit plan revealed]]></title>
-            <description><![CDATA[The plan for easing the coronavirus lockdown is "cautious and hopeful", the deputy first minister says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56242985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56242985</guid>
-            <pubDate>Tue, 02 Mar 2021 20:59:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Manchester Arena attack: Firefighters 'felt shame' at being held back]]></title>
             <description><![CDATA[A crying paramedic asked why crews were not helping at the scene of the bombing, an inquiry hears.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-56241659</link>
@@ -98,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-isle-of-man-56245100</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-isle-of-man-56245100</guid>
             <pubDate>Tue, 02 Mar 2021 14:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eurovision Song Contest travel 'necessary', organisers say]]></title>
+            <description><![CDATA[Participants from 41 countries will head to the Netherlands for this year's contest under new plans.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56243857</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56243857</guid>
+            <pubDate>Tue, 02 Mar 2021 22:04:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glow-in-the-dark sharks found off New Zealand coast]]></title>
@@ -268,32 +268,11 @@
             <pubDate>Tue, 02 Mar 2021 22:54:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ian St John obituary: 'An iconic Liverpool figure who went on to illuminate TV screens']]></title>
-            <description><![CDATA[Ian St John, who has died aged 82, was one of the iconic figures in Liverpool's history before going on to enjoy a hugely successful career in TV.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56253099</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56253099</guid>
-            <pubDate>Tue, 02 Mar 2021 12:27:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I still love what I do' - Hamilton fully committed as Mercedes launch car for 2021]]></title>
-            <description><![CDATA[Lewis Hamilton says he is still fully committed to success in Formula 1 despite signing only a one-year deal with Mercedes this winter.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/56252715</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56252715</guid>
-            <pubDate>Tue, 02 Mar 2021 15:46:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Premiership may release Scotland players for rescheduled France game]]></title>
             <description><![CDATA[Premiership Rugby is prepared to relax its rules to allow Scotland players to feature in a rearranged Six Nations match against France.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56260018</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56260018</guid>
             <pubDate>Tue, 02 Mar 2021 20:03:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former footballer Whittingham's stairs fall death 'accidental']]></title>
-            <description><![CDATA[Midfielder Peter Whittingham, 35, suffered a traumatic head injury at the pub nearly a year ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56250437</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56250437</guid>
-            <pubDate>Tue, 02 Mar 2021 17:36:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Seven-time world champion Hendry loses comeback match]]></title>
@@ -303,11 +282,32 @@
             <pubDate>Tue, 02 Mar 2021 22:05:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ian St John: 'One of football's finest' - a tribute to Liverpool legend]]></title>
-            <description><![CDATA[BBC Sport pays tribute to former Liverpool and Scotland forward Ian St John, who has died at the age of 82 after a long illness.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56257223</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56257223</guid>
-            <pubDate>Tue, 02 Mar 2021 16:06:44 GMT</pubDate>
+            <title><![CDATA[Former footballer Whittingham's stairs fall death 'accidental']]></title>
+            <description><![CDATA[Midfielder Peter Whittingham, 35, suffered a traumatic head injury at the pub nearly a year ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56250437</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56250437</guid>
+            <pubDate>Tue, 02 Mar 2021 17:36:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ronaldo marks landmark appearance with 20th Serie A goal this season]]></title>
+            <description><![CDATA[Cristiano Ronaldo marks his 600th league appearance with his 20th Serie A goal of the season as Juventus comfortably beat Spezia.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56260966</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56260966</guid>
+            <pubDate>Tue, 02 Mar 2021 22:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cardiff thrash Derby as McCarthy's unbeaten run stretches to 10 games]]></title>
+            <description><![CDATA[Cardiff City make it ten games unbeaten under Mick McCarthy with a 4-0 win over Derby County in the Welsh capital.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56163879</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56163879</guid>
+            <pubDate>Tue, 02 Mar 2021 22:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ian St John obituary: 'An iconic Liverpool figure who went on to illuminate TV screens']]></title>
+            <description><![CDATA[Ian St John, who has died aged 82, was one of the iconic figures in Liverpool's history before going on to enjoy a hugely successful career in TV.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56253099</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56253099</guid>
+            <pubDate>Tue, 02 Mar 2021 12:27:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget 2021: What is it and when will it happen?]]></title>
