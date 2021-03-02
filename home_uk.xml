@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Mar 2021 08:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Mar 2021 08:39:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,25 +51,18 @@
             <pubDate>Mon, 01 Mar 2021 23:02:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[World Cup 2030: UK and Republic of Ireland associations back UK government support for bid]]></title>
+            <description><![CDATA[Prime Minister Boris Johnson says it is the "right time" to bid to host the 2030 World Cup and the plan is backed by football associations across the UK and the Republic of Ireland.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56241637</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56241637</guid>
+            <pubDate>Tue, 02 Mar 2021 08:05:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[University to pay out £5k for 'less valuable' experience]]></title>
             <description><![CDATA[Details of student complaints about Covid's impact are released - including one award of £5,000.]]></description>
             <link>https://www.bbc.co.uk/news/education-56245074</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56245074</guid>
             <pubDate>Tue, 02 Mar 2021 00:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tourism hotspots hit hard by Covid-19 jobs crisis]]></title>
-            <description><![CDATA[Experts say the pandemic has exposed "underlying inequalities in the labour market".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56127385</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56127385</guid>
-            <pubDate>Tue, 02 Mar 2021 00:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Fake accounts used my pictures to sell sex']]></title>
-            <description><![CDATA[Women tell BBC Scotland how scammers used their images on fake accounts advertising sex work websites.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-56182060</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56182060</guid>
-            <pubDate>Mon, 01 Mar 2021 22:48:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI's lockdown exit plan due to be published]]></title>
@@ -93,11 +86,11 @@
             <pubDate>Tue, 02 Mar 2021 06:00:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Michael Gudinski: Australian music industry icon dies aged 68]]></title>
-            <description><![CDATA[The music industry icon championed stars including Kylie Minogue and brought huge acts to Australia.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-56247777</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56247777</guid>
-            <pubDate>Tue, 02 Mar 2021 05:03:16 GMT</pubDate>
+            <title><![CDATA['Fake accounts used my pictures to sell sex']]></title>
+            <description><![CDATA[Women tell BBC Scotland how scammers used their images on fake accounts advertising sex work websites.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56182060</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56182060</guid>
+            <pubDate>Mon, 01 Mar 2021 22:48:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 variants pose 'real threat' to vaccine progress, CDC warns]]></title>
@@ -105,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56247656</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56247656</guid>
             <pubDate>Tue, 02 Mar 2021 02:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael Gudinski: Australian music industry icon dies aged 68]]></title>
+            <description><![CDATA[The music industry icon championed stars including Kylie Minogue and brought huge acts to Australia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-56247777</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56247777</guid>
+            <pubDate>Tue, 02 Mar 2021 05:03:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Digital travel passes and 'prayers for Philip']]></title>
@@ -212,13 +212,6 @@
             <pubDate>Mon, 01 Mar 2021 23:31:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PM Johnson backs potential UK and Ireland bid for 2030 World Cup ]]></title>
-            <description><![CDATA[Prime Minister Boris Johnson says it is the "right time" to bid to host the 2030 World Cup and the plan is backed by football associations across the UK and the Republic of Ireland.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56241637</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56241637</guid>
-            <pubDate>Tue, 02 Mar 2021 08:05:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Elliott banned from racing in Britain after admitting dead horse photo is real]]></title>
             <description><![CDATA[Leading Irish trainer Gordon Elliott is temporarily banned from racing in Britain after being pictured sitting on a dead horse.]]></description>
             <link>https://www.bbc.co.uk/sport/horse-racing/56246444</link>
@@ -252,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/football/56243784</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56243784</guid>
             <pubDate>Mon, 01 Mar 2021 23:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal's Katie McCabe scores stunner into top corner to seal Aston Villa win]]></title>
+            <description><![CDATA[Katie McCabe scores a stunner in the top corner as Arsenal convincingly beat Aston Villa 4-0 in the Women's Super League.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56234334</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56234334</guid>
+            <pubDate>Mon, 01 Mar 2021 13:39:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Can I go on furlough and will it be extended?]]></title>
