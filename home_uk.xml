@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Mar 2021 09:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 09:43:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The move will help millions of people, Rishi Sunak says, ahead of setting out his tax and spending plans.]]></description>
             <link>https://www.bbc.co.uk/news/business-56259094</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56259094</guid>
-            <pubDate>Wed, 03 Mar 2021 07:44:03 GMT</pubDate>
+            <pubDate>Wed, 03 Mar 2021 09:27:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine being tested in patients with low immunity]]></title>
@@ -51,14 +51,14 @@
             <pubDate>Wed, 03 Mar 2021 04:49:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Joe Biden promises vaccines will be available for every US adult by end of May]]></title>
+            <title><![CDATA[Covid: Joe Biden promises vaccines for all US adults by end of May]]></title>
             <description><![CDATA[The US president brings forward full adult supply by two months and urges people to take the vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56262687</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56262687</guid>
-            <pubDate>Wed, 03 Mar 2021 08:11:57 GMT</pubDate>
+            <pubDate>Wed, 03 Mar 2021 09:34:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Some UK arrivals 'still waiting' for quarantine Covid tests]]></title>
+            <title><![CDATA[Some UK arrivals waiting nine days for quarantine Covid tests]]></title>
             <description><![CDATA[International arrivals from countries not on the UK's "red list" must take two Covid tests during quarantine.]]></description>
             <link>https://www.bbc.co.uk/news/business-56260595</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56260595</guid>
@@ -66,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Japanese billionaire seeks eight people to fly to moon]]></title>
-            <description><![CDATA[Yusaku Maezawa says he will pay for the entire trip, so those who come onboard will fly for free.]]></description>
+            <description><![CDATA[Yusaku Maezawa says he will pay for the entire trip, so those who come on board will fly for free.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56261574</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56261574</guid>
             <pubDate>Wed, 03 Mar 2021 02:19:15 GMT</pubDate>
@@ -261,11 +261,25 @@
             <pubDate>Sun, 28 Feb 2021 01:22:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Can I go on furlough and will it be extended?]]></title>
-            <description><![CDATA[Furlough will be extended until the end of September, the Chancellor will announce on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
-            <pubDate>Tue, 02 Mar 2021 22:00:54 GMT</pubDate>
+            <title><![CDATA[Coronavirus: What help are the self-employed getting in the Budget?]]></title>
+            <description><![CDATA[What is being done for the five million self-employed people in the UK facing a loss of income?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52052123</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52052123</guid>
+            <pubDate>Tue, 02 Mar 2021 22:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Budget 2021: Who is Rishi Sunak and what does he believe?]]></title>
+            <description><![CDATA[From newly elected backbencher to Chancellor is less than five years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56255824</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56255824</guid>
+            <pubDate>Wed, 03 Mar 2021 08:59:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Budget 2021: What we know so far about Sunak's spending plans]]></title>
+            <description><![CDATA[From money for the arts to help for small firms, here are the spending plans announced so far.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56250985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56250985</guid>
+            <pubDate>Tue, 02 Mar 2021 22:00:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget 2021: Stamp duty holiday deadline 'may cost us £12,000']]></title>
@@ -275,11 +289,11 @@
             <pubDate>Fri, 26 Feb 2021 23:44:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Budget 2021: What we know so far about Sunak's spending plans]]></title>
-            <description><![CDATA[From money for the arts to help for small firms, here are the spending plans announced so far.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56250985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56250985</guid>
-            <pubDate>Tue, 02 Mar 2021 22:00:46 GMT</pubDate>
+            <title><![CDATA[Covid: Can I go on furlough and will it be extended?]]></title>
+            <description><![CDATA[Furlough will be extended until the end of September, the Chancellor will announce on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
+            <pubDate>Tue, 02 Mar 2021 22:00:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will schools reopen?]]></title>
