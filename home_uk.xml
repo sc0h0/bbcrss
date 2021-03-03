@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Mar 2021 13:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 13:40:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,11 +58,11 @@
             <pubDate>Wed, 03 Mar 2021 04:49:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Joe Biden promises vaccines for all US adults by end of May]]></title>
+            <title><![CDATA[Covid: Biden promises vaccines for all US adults by end of May]]></title>
             <description><![CDATA[The US president also insists the "fight is not over", as some states move to relax Covid rules.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56262687</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56262687</guid>
-            <pubDate>Wed, 03 Mar 2021 13:08:59 GMT</pubDate>
+            <pubDate>Wed, 03 Mar 2021 13:32:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine being tested in patients with low immunity]]></title>
@@ -100,18 +100,32 @@
             <pubDate>Wed, 03 Mar 2021 13:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Budget 2021: The challenge facing Rishi Sunak]]></title>
-            <description><![CDATA[The BBC looks at the state of the UK economy ahead of the spring Budget.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56112755</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56112755</guid>
-            <pubDate>Sun, 28 Feb 2021 01:22:28 GMT</pubDate>
+            <title><![CDATA[When does the stamp duty holiday in England and Northern Ireland end?]]></title>
+            <description><![CDATA[The chancellor has announced an extension to the stamp duty holiday?]]></description>
+            <link>https://www.bbc.co.uk/news/business-53319433</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53319433</guid>
+            <pubDate>Wed, 03 Mar 2021 13:19:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Budget 2021: How will the self-employed grant work?]]></title>
-            <description><![CDATA[What is being done for the five million self-employed people in the UK facing a loss of income?]]></description>
+            <title><![CDATA[Universal credit: how long will the £20 increase last?]]></title>
+            <description><![CDATA[Payments are available to help people who have lost their job or need extra financial support.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-41487126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-41487126</guid>
+            <pubDate>Wed, 03 Mar 2021 12:58:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Budget 2021: How will the self-employed grants work?]]></title>
+            <description><![CDATA[There will be two further self-employed coronavirus grants, and more people will be eligible for them.]]></description>
             <link>https://www.bbc.co.uk/news/business-52052123</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52052123</guid>
-            <pubDate>Tue, 02 Mar 2021 22:01:03 GMT</pubDate>
+            <pubDate>Wed, 03 Mar 2021 13:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Budget 2021: Who is Rishi Sunak and what does he believe?]]></title>
+            <description><![CDATA[From newly elected backbencher to Chancellor in less than five years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56255824</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56255824</guid>
+            <pubDate>Wed, 03 Mar 2021 08:59:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget 2021: What is it and when will it happen?]]></title>
@@ -121,11 +135,11 @@
             <pubDate>Wed, 03 Mar 2021 09:56:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Budget 2021: Who is Rishi Sunak and what does he believe?]]></title>
-            <description><![CDATA[From newly elected backbencher to Chancellor in less than five years.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56255824</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56255824</guid>
-            <pubDate>Wed, 03 Mar 2021 08:59:54 GMT</pubDate>
+            <title><![CDATA[Budget 2021: The challenge facing Rishi Sunak]]></title>
+            <description><![CDATA[The BBC looks at the state of the UK economy ahead of the spring Budget.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56112755</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56112755</guid>
+            <pubDate>Sun, 28 Feb 2021 01:22:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget 2021: What we know so far about Sunak's spending plans]]></title>
