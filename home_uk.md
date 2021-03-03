@@ -1,5 +1,5 @@
 
-    1. [Furlough support scheme to be extended in Budget until September](https://www.bbc.co.uk/news/business-56259094) - Tue, 02 Mar 2021 23:27:40 GMT - The plan will be announced in Wednesday's Budget, while more self-employed will also be eligible for help.
+    1. [Budget 2021: Furlough scheme to be extended until September](https://www.bbc.co.uk/news/business-56259094) - Wed, 03 Mar 2021 02:19:46 GMT - The move will help millions of people, Rishi Sunak says, ahead of setting out his tax and spending plans.
 1. [Calls for Nicola Sturgeon to quit over Alex Salmond revelations](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56259056) - Tue, 02 Mar 2021 22:03:32 GMT - Newly published documents raise further questions about the Alex Salmond saga.
 1. [Covid vaccine being tested in patients with low immunity](https://www.bbc.co.uk/news/health-56256505) - Wed, 03 Mar 2021 00:35:38 GMT - The race is on to find out if those with cancer and other conditions can be protected as the UK unlocks.
 1. [Coronavirus: Texas and other states ease rules despite warnings](https://www.bbc.co.uk/news/world-us-canada-56255701) - Wed, 03 Mar 2021 01:45:41 GMT - Texas and other states move to roll back Covid-19 rules, putting them at odds with health officials.
