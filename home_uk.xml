@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Mar 2021 02:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 03:12:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Wed, 03 Mar 2021 00:01:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Japanese billionaire seeks eight people to fly to moon]]></title>
+            <description><![CDATA[Yusaku Maezawa says he will pay for the entire trip, so those who come onboard will fly for free.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56261574</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56261574</guid>
+            <pubDate>Wed, 03 Mar 2021 02:19:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Circuit-breaker lockdown for Isle of Man  ]]></title>
             <description><![CDATA[The island will return to a three-week lockdown after a sharp rise in unexplained coronavirus cases.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-isle-of-man-56245100</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56251020</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56251020</guid>
             <pubDate>Tue, 02 Mar 2021 15:25:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2021 Rugby World Cup set to be postponed for year]]></title>
-            <description><![CDATA[The Rugby World Cup 2021 is set to be postponed until next year following a recommendation by governing body World Rugby.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56257270</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56257270</guid>
-            <pubDate>Tue, 02 Mar 2021 19:35:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glow-in-the-dark sharks found off New Zealand coast]]></title>
@@ -254,18 +254,18 @@
             <pubDate>Tue, 02 Mar 2021 17:36:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[2021 Rugby World Cup set to be postponed until next year]]></title>
+            <description><![CDATA[The Rugby World Cup 2021 is set to be postponed until next year following a recommendation by governing body World Rugby.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56257270</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56257270</guid>
+            <pubDate>Tue, 02 Mar 2021 19:35:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Real Madrid willing to sell Varane to Man Utd - Wednesday's football gossip]]></title>
             <description><![CDATA[Real Madrid willing to sell Varane to Man Utd, Bale expects a full pay-out, Chelsea still monitoring Donnarumma, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/56259386</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/56259386</guid>
             <pubDate>Tue, 02 Mar 2021 23:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ian St John obituary: 'An iconic Liverpool figure who went on to illuminate TV screens']]></title>
-            <description><![CDATA[Ian St John, who has died aged 82, was one of the iconic figures in Liverpool's history before going on to enjoy a hugely successful career in TV.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56253099</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56253099</guid>
-            <pubDate>Tue, 02 Mar 2021 12:27:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget 2021: What is it and when will it happen?]]></title>
