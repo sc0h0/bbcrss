@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Mar 2021 07:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Mar 2021 07:42:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Wed, 03 Mar 2021 06:30:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Furlough extended in UK, and Texas ends mask rule]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56262260</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56262260</guid>
+            <pubDate>Wed, 03 Mar 2021 07:21:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Some UK arrivals 'still waiting' for quarantine Covid tests]]></title>
             <description><![CDATA[International arrivals from countries not on the UK's "red list" must take two Covid tests during quarantine.]]></description>
             <link>https://www.bbc.co.uk/news/business-56260595</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-isle-of-man-56245100</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-isle-of-man-56245100</guid>
             <pubDate>Wed, 03 Mar 2021 07:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brazil variant: Search for mystery case narrows to 379 households]]></title>
-            <description><![CDATA[The health secretary says 379 households in south-east England are being contacted.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56254979</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56254979</guid>
-            <pubDate>Tue, 02 Mar 2021 20:19:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aerial footage of Exeter bomb exploding]]></title>
