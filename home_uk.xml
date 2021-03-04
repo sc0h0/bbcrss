@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Mar 2021 12:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 12:46:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Thu, 04 Mar 2021 12:16:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Germany approves AstraZeneca vaccine for over-65s]]></title>
+            <description><![CDATA[The decision comes after Chancellor Merkel said data showed the jab was effective for the elderly too.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56275342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56275342</guid>
+            <pubDate>Thu, 04 Mar 2021 12:32:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Women retirees win £2.7bn for underpaid pensions]]></title>
             <description><![CDATA[About 200,000 pensions may get top-ups averaging £13,500 after nearly two decades of shortfalls.]]></description>
             <link>https://www.bbc.co.uk/news/business-56275415</link>
@@ -51,32 +58,11 @@
             <pubDate>Thu, 04 Mar 2021 09:51:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: EU negotiating 'with partner it can't trust', says Coveney]]></title>
-            <description><![CDATA[Irish Foreign Minister Simon Coveney says the EU is being driven towards legal action by the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56278125</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56278125</guid>
-            <pubDate>Thu, 04 Mar 2021 11:17:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar coup: 'Everything will be OK' teenage protester mourned]]></title>
-            <description><![CDATA[Kyal Sin, known as Angel, was one of 38 people killed in anti-coup protests on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56277165</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56277165</guid>
-            <pubDate>Thu, 04 Mar 2021 11:16:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US Capitol police warn of possible militia plot to breach Congress]]></title>
             <description><![CDATA[A session is cancelled because of "potential threats" from a militia to storm the Congress building.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56275335</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56275335</guid>
             <pubDate>Thu, 04 Mar 2021 09:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Germany to approve AstraZeneca vaccine for over-65s]]></title>
-            <description><![CDATA[Chancellor Merkel says data now shows the vaccine to be effective for the elderly too.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56275342</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56275342</guid>
-            <pubDate>Thu, 04 Mar 2021 05:15:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple investigated in UK over 'unfair' App Store claims]]></title>
@@ -86,6 +72,20 @@
             <pubDate>Thu, 04 Mar 2021 11:15:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sweden attack: Seven injured in stabbings in Vetlanda]]></title>
+            <description><![CDATA[Police are treating the case as attempted murder and have now ruled out terrorism.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56272565</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56272565</guid>
+            <pubDate>Thu, 04 Mar 2021 12:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US suspends tariffs on single malt Scotch whisky]]></title>
+            <description><![CDATA[The suspension, which includes other goods, covers tariffs that were imposed in a row over Airbus subsidies.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56279525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56279525</guid>
+            <pubDate>Thu, 04 Mar 2021 12:32:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mariah Carey's brother sues over emotional distress caused by her memoir]]></title>
             <description><![CDATA[The star's older brother, Morgan Carey, accuses the star of "malicious falsehoods" in her memoir.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56277805</link>
@@ -93,32 +93,11 @@
             <pubDate>Thu, 04 Mar 2021 09:06:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tax cut for homebuyers in Scotland to end]]></title>
-            <description><![CDATA[The stamp duty holiday on house purchases was extended in the Westminster budget but will end in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-56280065</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56280065</guid>
-            <pubDate>Thu, 04 Mar 2021 11:35:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX: Starship lands safely... then explodes]]></title>
-            <description><![CDATA[It is the first time Elon Musk's space exploration company has pulled off this difficult landing.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-56275483</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56275483</guid>
-            <pubDate>Thu, 04 Mar 2021 09:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Louvre reunited with 'exceptional' armour stolen in 1983]]></title>
-            <description><![CDATA[The helmet and breastplate were discovered by an antiquities expert in Bordeaux.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56277325</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56277325</guid>
-            <pubDate>Thu, 04 Mar 2021 11:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Budget 2021: 'I'm finding it hard to celebrate']]></title>
-            <description><![CDATA[There's more support for many in the Budget, but for some it still falls short.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56271295</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56271295</guid>
-            <pubDate>Thu, 04 Mar 2021 01:39:02 GMT</pubDate>
+            <title><![CDATA[Abbey Road sign sells at auction for £37,000]]></title>
+            <description><![CDATA[The road will forever be associated with Britain's most successful musical export - The Beatles.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56280104</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56280104</guid>
+            <pubDate>Thu, 04 Mar 2021 12:33:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alec Baldwin deactivates Twitter account over 'switching accents' joke]]></title>
@@ -128,6 +107,13 @@
             <pubDate>Thu, 04 Mar 2021 10:43:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[SpaceX: Starship lands safely... then explodes]]></title>
+            <description><![CDATA[It is the first time Elon Musk's space exploration company has pulled off this difficult landing.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56275483</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56275483</guid>
+            <pubDate>Thu, 04 Mar 2021 09:38:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The 'vaccine hunters' helping older people get Covid jabs]]></title>
             <description><![CDATA[Americans baffled by the complex system for getting a shot now have help from tech-savvy young people.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56270333</link>
@@ -135,11 +121,11 @@
             <pubDate>Wed, 03 Mar 2021 22:31:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ryan Thomas quits acting after 'losing the bug for it']]></title>
-            <description><![CDATA[The former Coronation Street star says he was tired of being rejected for roles and of online trolls.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56278135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56278135</guid>
-            <pubDate>Thu, 04 Mar 2021 10:33:53 GMT</pubDate>
+            <title><![CDATA[Louvre reunited with 'exceptional' armour stolen in 1983]]></title>
+            <description><![CDATA[The helmet and breastplate were discovered by an antiquities expert in Bordeaux.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56277325</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56277325</guid>
+            <pubDate>Thu, 04 Mar 2021 11:17:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life discovered deep beneath an Antarctic ice sheet 'shouldn't be there']]></title>
@@ -147,6 +133,20 @@
             <link>https://www.bbc.co.uk/news/science-environment-56268439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56268439</guid>
             <pubDate>Thu, 04 Mar 2021 00:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Budget 2021: 'I'm finding it hard to celebrate']]></title>
+            <description><![CDATA[There's more support for many in the Budget, but for some it still falls short.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56271295</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56271295</guid>
+            <pubDate>Thu, 04 Mar 2021 01:39:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ryan Thomas quits acting after 'losing the bug for it']]></title>
+            <description><![CDATA[The former Coronation Street star says he was tired of being rejected for roles and of online trolls.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56278135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56278135</guid>
+            <pubDate>Thu, 04 Mar 2021 10:33:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reddit chief: I was late to spot GameStop stock mania]]></title>
@@ -233,6 +233,13 @@
             <pubDate>Thu, 04 Mar 2021 11:01:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Glasgow and Dublin at growing risk of losing Euro 2020 games]]></title>
+            <description><![CDATA[Glasgow and Dublin are at growing risk of being cut from the list of host cities for this summer's European Championship.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56250120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56250120</guid>
+            <pubDate>Thu, 04 Mar 2021 12:18:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Curtis Jones: Liverpool's 'streetwise' youngster with 'unusual belief']]></title>
             <description><![CDATA[It may feel at times like little has gone right for Liverpool this season but the rise of local boy Curtis Jones has provided a much-needed spark.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56239474</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/football/55105438</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55105438</guid>
             <pubDate>Thu, 04 Mar 2021 06:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pollard hits six sixes in an over - off Sri Lanka bowler who had earlier taken a hat-trick]]></title>
-            <description><![CDATA[Kieron Pollard hits six sixes in one over off Akila Dhananjaya, who had earlier taken a hat-trick, in West Indies' T20 defeat of Sri Lanka.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/56276079</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56276079</guid>
-            <pubDate>Thu, 04 Mar 2021 05:17:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget 2021: What is levelling up and how is it going?]]></title>
