@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Mar 2021 17:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 18:30:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Thu, 04 Mar 2021 17:00:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: A new variant in the UK and a festival fallout over vaccines]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56277775</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56277775</guid>
+            <pubDate>Thu, 04 Mar 2021 18:02:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Prince Philip has successful heart procedure, palace says]]></title>
             <description><![CDATA[The Duke of Edinburgh will remain in hospital for a number of days, Buckingham Palace says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56278445</link>
@@ -72,13 +79,6 @@
             <pubDate>Thu, 04 Mar 2021 17:20:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Three UK terror plots foiled during pandemic]]></title>
-            <description><![CDATA[Police are warning that terrorists have not stopped planning attacks or radicalising people online.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56277800</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56277800</guid>
-            <pubDate>Thu, 04 Mar 2021 15:36:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Princess Diana Panorama interview: Police rule out probe]]></title>
             <description><![CDATA[Detectives assessed claims that false documents were used to win Diana's trust before her appearance.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56281694</link>
@@ -86,18 +86,18 @@
             <pubDate>Thu, 04 Mar 2021 14:16:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Budget 2021: Funding for Tory-held towns 'looks fishy,' says Starmer]]></title>
-            <description><![CDATA[But Prime Minister Boris Johnson defends allocations from the Towns Fund as "completely impartial".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56281774</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56281774</guid>
-            <pubDate>Thu, 04 Mar 2021 17:12:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Love Island to return this summer, ITV confirms]]></title>
             <description><![CDATA[The broadcaster announces the dating show will return this summer, but doesn't confirm the location.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56277850</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56277850</guid>
             <pubDate>Thu, 04 Mar 2021 15:23:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Food waste: Amount thrown away totals 900 million tonnes]]></title>
+            <description><![CDATA[Every year, 23 million truckloads of food go straight into the waste bin, according to the UN.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56271385</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56271385</guid>
+            <pubDate>Thu, 04 Mar 2021 15:14:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rare black fox spotted in London garden]]></title>
