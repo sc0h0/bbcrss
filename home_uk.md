@@ -1,6 +1,6 @@
 
     1. [Nurses' union anger over 'pitiful' 1% NHS pay rise](https://www.bbc.co.uk/news/uk-politics-56285087) - Thu, 04 Mar 2021 22:22:44 GMT - The government will face a public backlash if it does not pay staff more, the RCN union warns.
-1. [Covid: Italy 'blocks' AstraZeneca vaccine shipment to Australia](https://www.bbc.co.uk/news/world-europe-56279202) - Thu, 04 Mar 2021 18:42:10 GMT - The bar on shipping 250,000 doses amid a row with the firm is backed by the EU.
+1. [Covid: Italy 'blocks' AstraZeneca vaccine shipment to Australia](https://www.bbc.co.uk/news/world-europe-56279202) - Thu, 04 Mar 2021 22:45:38 GMT - The bar on shipping 250,000 doses amid a row with the firm is backed by the EU.
 1. [Covid-19: Another new variant added to UK watch list](https://www.bbc.co.uk/news/health-56284155) - Thu, 04 Mar 2021 17:28:39 GMT - It shares a worrying mutation with the South Africa and Brazil variants of concern.
 1. [Philip Rutnam: £340k payout to official after Priti Patel bullying claims](https://www.bbc.co.uk/news/uk-politics-56281781) - Thu, 04 Mar 2021 18:42:27 GMT - Home Office boss Philip Rutnam quit his job over what he claimed was "vicious" briefing against him.
 1. [Brexit: EU legal action imminent over UK extension to grace periods](https://www.bbc.co.uk/news/uk-northern-ireland-56285874) - Thu, 04 Mar 2021 22:12:20 GMT - The UK says it will unilaterally extend grace periods for Irish Sea border checks on parcels and agri-foods.
