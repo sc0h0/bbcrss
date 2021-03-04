@@ -1,7 +1,7 @@
 
     1. [Covid: Italy 'blocks' AstraZeneca vaccine shipment to Australia](https://www.bbc.co.uk/news/world-europe-56279202) - Thu, 04 Mar 2021 18:42:10 GMT - The bar on shipping 250,000 doses amid a row with the firm is backed by the EU.
 1. [Covid-19: Another new variant added to UK watch list](https://www.bbc.co.uk/news/health-56284155) - Thu, 04 Mar 2021 17:28:39 GMT - It shares a worrying mutation with the South Africa and Brazil variants of concern.
-1. [Nurses' union anger over 'pitiful' 1% NHS pay rise](https://www.bbc.co.uk/news/uk-politics-56285087) - Thu, 04 Mar 2021 18:58:53 GMT - The government will face a public backlash if it does not pay staff more, the RCN union warns.
+1. [Nurses' union anger over 'pitiful' 1% NHS pay rise](https://www.bbc.co.uk/news/uk-politics-56285087) - Thu, 04 Mar 2021 19:21:46 GMT - The government will face a public backlash if it does not pay staff more, the RCN union warns.
 1. [Philip Rutnam: £340k payout to official after Priti Patel bullying claims](https://www.bbc.co.uk/news/uk-politics-56281781) - Thu, 04 Mar 2021 18:42:27 GMT - Home Office boss Philip Rutnam quit his job over what he claimed was "vicious" briefing against him.
 1. [Sutton Coldfield mum recalls being pregnant and stabbed](https://www.bbc.co.uk/news/uk-england-birmingham-56230392) - Thu, 04 Mar 2021 17:00:41 GMT - Natalie Queiroz recalls her partner's attack five years ago in which her unborn child was feared dead.
 1. [Covid-19: A new variant in the UK and a festival fallout over vaccines](https://www.bbc.co.uk/news/uk-56277775) - Thu, 04 Mar 2021 18:02:06 GMT - Five things you need to know about the coronavirus pandemic this Thursday evening.
