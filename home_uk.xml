@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Mar 2021 05:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 06:23:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Thu, 04 Mar 2021 01:39:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: New vaccines for variants to be fast-tracked]]></title>
+            <description><![CDATA[Rapid approval without lengthy tests can happen if new vaccines are needed to fight variants, say regulators.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56274293</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56274293</guid>
+            <pubDate>Thu, 04 Mar 2021 06:08:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Harry Dunn: Teen's family 'can claim against suspect and her husband']]></title>
             <description><![CDATA[Harry Dunn's family have the go-ahead to proceed with a claim against Jonathan and Anne Sacoolas.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-56274524</link>
@@ -86,18 +93,11 @@
             <pubDate>Thu, 04 Mar 2021 00:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Budget 2021: Covid deaths set to cut state pension costs]]></title>
-            <description><![CDATA[Forecasts suggests inheritance tax receipts will also rise, partly due to over-65s dying of Covid]]></description>
-            <link>https://www.bbc.co.uk/news/business-56272829</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56272829</guid>
-            <pubDate>Wed, 03 Mar 2021 17:58:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: 'Spend now, tax later Budget' and 'war at palace' ]]></title>
             <description><![CDATA[The papers focus on the Budget and the investigation into claims the Duchess of Sussex bullied royal staff.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56274693</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56274693</guid>
-            <pubDate>Wed, 03 Mar 2021 23:35:38 GMT</pubDate>
+            <pubDate>Thu, 04 Mar 2021 06:01:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The 'vaccine hunters' helping older people get Covid jabs]]></title>
