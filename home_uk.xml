@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Mar 2021 07:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 08:29:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Meghan accuses palace of 'perpetuating falsehoods']]></title>
-            <description><![CDATA[The Duchess of Sussex says she does not know how Buckingham Palace could expect her to "just be silent".]]></description>
+            <description><![CDATA[The Duchess of Sussex says she does not know how Buckingham Palace could expect her to "be silent".]]></description>
             <link>https://www.bbc.co.uk/news/uk-56275888</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56275888</guid>
-            <pubDate>Thu, 04 Mar 2021 07:18:46 GMT</pubDate>
+            <pubDate>Thu, 04 Mar 2021 08:11:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Budget 2021: Inequality set to rise, say campaigners]]></title>
+            <title><![CDATA[Rishi Sunak plans 'mean that inequality will worsen']]></title>
             <description><![CDATA[Campaign groups say half a million people will fall into poverty because of Rishi Sunak's benefit changes.]]></description>
             <link>https://www.bbc.co.uk/news/business-56276953</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56276953</guid>
-            <pubDate>Thu, 04 Mar 2021 07:16:00 GMT</pubDate>
+            <pubDate>Thu, 04 Mar 2021 08:06:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: New vaccines for variants to be fast-tracked]]></title>
@@ -44,11 +44,25 @@
             <pubDate>Thu, 04 Mar 2021 07:23:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Vaccines to be fast-tracked and decline in infections 'slowing']]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56276673</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56276673</guid>
+            <pubDate>Thu, 04 Mar 2021 08:14:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: React study finds virus decline slowing in England]]></title>
             <description><![CDATA[Infections fell by two-thirds in lockdown but one in 200 people still have the virus, a study says.]]></description>
             <link>https://www.bbc.co.uk/news/health-56271627</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56271627</guid>
             <pubDate>Thu, 04 Mar 2021 00:10:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women retirees win £2.7bn for underpaid pensions]]></title>
+            <description><![CDATA[About 200,000 pensions may get top-ups averaging £13,500 after nearly two decades of shortfalls.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56275415</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56275415</guid>
+            <pubDate>Thu, 04 Mar 2021 06:08:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget 2021: 'I'm finding it hard to celebrate']]></title>
@@ -65,13 +79,6 @@
             <pubDate>Wed, 03 Mar 2021 22:22:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: EU says UK grace period extension breaches international law]]></title>
-            <description><![CDATA[The latest Brexit flare up is over checks on goods to NI, which remains in the EU's single market.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56262527</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56262527</guid>
-            <pubDate>Wed, 03 Mar 2021 21:09:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US Capitol police warn of possible militia plot to breach Congress]]></title>
             <description><![CDATA[A session is cancelled because of "potential threats" from a militia to storm the Congress building.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56275335</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56275103</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56275103</guid>
             <pubDate>Thu, 04 Mar 2021 00:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reddit chief: I was late to spot GameStop stock mania]]></title>
-            <description><![CDATA[Steve Huffman says he supported the aims of a Reddit group taking on the hedge funds.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56246852</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56246852</guid>
-            <pubDate>Thu, 04 Mar 2021 00:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Spend now, tax later Budget' and 'war at palace' ]]></title>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-56268439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56268439</guid>
             <pubDate>Thu, 04 Mar 2021 00:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reddit chief: I was late to spot GameStop stock mania]]></title>
+            <description><![CDATA[Steve Huffman says he supported the aims of a Reddit group taking on the hedge funds.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56246852</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56246852</guid>
+            <pubDate>Thu, 04 Mar 2021 00:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rare black fox spotted in west London garden]]></title>
