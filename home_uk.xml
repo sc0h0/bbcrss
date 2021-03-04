@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Mar 2021 17:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Mar 2021 17:57:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The bar on shipping 250,000 doses amid a row with the firm is backed by the EU.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56279202</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56279202</guid>
-            <pubDate>Thu, 04 Mar 2021 17:09:45 GMT</pubDate>
+            <pubDate>Thu, 04 Mar 2021 17:52:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Another new variant added to UK watch list]]></title>
@@ -37,18 +37,25 @@
             <pubDate>Thu, 04 Mar 2021 13:28:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Philip Rutnam: £340K payout to official after Priti Patel bullying claims]]></title>
+            <description><![CDATA[Home Office boss Philip Rutnam quit his job over what he claimed was "vicious" briefing against him.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56281781</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56281781</guid>
+            <pubDate>Thu, 04 Mar 2021 17:48:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sutton Coldfield mum recalls being pregnant and stabbed]]></title>
+            <description><![CDATA[Natalie Queiroz recalls her partner's attack five years ago in which her unborn child was feared dead.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56230392</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56230392</guid>
+            <pubDate>Thu, 04 Mar 2021 17:00:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Prince Philip has successful heart procedure, palace says]]></title>
             <description><![CDATA[The Duke of Edinburgh will remain in hospital for a number of days, Buckingham Palace says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56278445</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56278445</guid>
             <pubDate>Thu, 04 Mar 2021 11:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philip Rutnam: Ex-Home Office boss settles unfair dismissal case]]></title>
-            <description><![CDATA[Home Office boss Philip Rutnam quit his job over what he claimed was "vicious" briefing against him.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56281781</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56281781</guid>
-            <pubDate>Thu, 04 Mar 2021 17:08:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Budget 2021: Rishi Sunak insists Covid-recovery tax rises fair]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Thu, 04 Mar 2021 14:16:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BTS named world's best-selling artists of 2020]]></title>
-            <description><![CDATA[The Korean boyband beat Taylor Swift and Drake to top the chart.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56283259</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56283259</guid>
-            <pubDate>Thu, 04 Mar 2021 15:56:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Budget 2021: Funding for Tory-held towns 'looks fishy,' says Starmer]]></title>
             <description><![CDATA[But Prime Minister Boris Johnson defends allocations from the Towns Fund as "completely impartial".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56281774</link>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-56266743</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56266743</guid>
             <pubDate>Thu, 04 Mar 2021 00:02:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BTS named world's best-selling artists of 2020]]></title>
+            <description><![CDATA[The Korean boyband beat Taylor Swift and Drake to top the chart.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56283259</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56283259</guid>
+            <pubDate>Thu, 04 Mar 2021 15:56:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SpaceX: Starship lands safely... then explodes]]></title>
@@ -170,7 +177,7 @@
             <pubDate>Thu, 04 Mar 2021 13:25:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How were the Towns Fund winners chosen?]]></title>
+            <title><![CDATA[Towns Fund: How were the winners chosen?]]></title>
             <description><![CDATA[There has been controversy about the 45 towns sharing just over £1bn from the Towns Fund.]]></description>
             <link>https://www.bbc.co.uk/news/56283199</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56283199</guid>
