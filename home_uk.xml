@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Mar 2021 20:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 20:45:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -45,7 +45,7 @@
         </item>
         <item>
             <title><![CDATA[Sarah Everard: Police 'increasingly concerned' for Brixton woman]]></title>
-            <description><![CDATA[Sarah Everard has not been seen or heard from since Wednesday evening, her best friend says.]]></description>
+            <description><![CDATA[Sarah Everard has not been seen or heard from since Wednesday night, her best friend says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56281473</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56281473</guid>
             <pubDate>Fri, 05 Mar 2021 18:38:39 GMT</pubDate>
@@ -58,11 +58,25 @@
             <pubDate>Fri, 05 Mar 2021 16:04:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[John McAfee charged with fraud over cryptocurrency]]></title>
+            <description><![CDATA[The businessman is accused of promoting cryptocurrency to his followers to inflate prices.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56300593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56300593</guid>
+            <pubDate>Fri, 05 Mar 2021 20:27:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Brazil variant case traced, and nurses prepare possible strike]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56292436</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56292436</guid>
             <pubDate>Fri, 05 Mar 2021 18:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK 'to cut aid to Syria and African countries']]></title>
+            <description><![CDATA[Aid will be more than 60% less, a leaked email suggests, but the government says no decision has been made.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56301743</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56301743</guid>
+            <pubDate>Fri, 05 Mar 2021 20:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mail on Sunday must publish front page statement of Meghan copyright win]]></title>
@@ -79,25 +93,11 @@
             <pubDate>Fri, 05 Mar 2021 17:50:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Berlin Film Festival awards gender-neutral acting prize to Maren Eggert]]></title>
-            <description><![CDATA[Maren Eggert accepted the award for best actor, in the German event's newly mixed gender category.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56295474</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56295474</guid>
-            <pubDate>Fri, 05 Mar 2021 18:02:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Prince Philip transfers back to King Edward VII's Hospital]]></title>
             <description><![CDATA[Prince Philip, 99, is recuperating after a heart procedure on a pre-existing condition.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56293518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56293518</guid>
             <pubDate>Fri, 05 Mar 2021 14:19:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oprah interview: Meghan says it is 'liberating' to be able to speak]]></title>
-            <description><![CDATA[Being a royal was "different than I think what people imagine it to be", says the Duchess of Sussex.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56293793</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56293793</guid>
-            <pubDate>Fri, 05 Mar 2021 14:43:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World's oldest known wild bird has another chick at age of 70]]></title>
@@ -279,7 +279,7 @@
             <description><![CDATA[Newcastle boss Steve Bruce says he will do his "utmost" to find out who leaked a training ground row with Matt Ritchie to the media.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56293399</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56293399</guid>
-            <pubDate>Fri, 05 Mar 2021 19:30:08 GMT</pubDate>
+            <pubDate>Fri, 05 Mar 2021 20:36:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Williams launch disrupted as hackers breach augmented reality app]]></title>
