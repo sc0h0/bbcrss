@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Mar 2021 01:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 02:22:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,25 +23,18 @@
             <pubDate>Thu, 04 Mar 2021 22:54:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Italy 'blocks' AstraZeneca vaccine shipment to Australia]]></title>
-            <description><![CDATA[The bar on shipping 250,000 doses amid a row with the firm is backed by the EU.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56279202</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56279202</guid>
-            <pubDate>Thu, 04 Mar 2021 22:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand earthquakes: Tsunami warnings lifted after evacuations]]></title>
-            <description><![CDATA[A series of earthquakes shook the region, triggering evacuation orders that were later stood down.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56285659</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56285659</guid>
-            <pubDate>Fri, 05 Mar 2021 01:31:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Asthma patients refused vaccine by some GPs]]></title>
             <description><![CDATA[Some are not being prioritised if they haven't been to hospital recently for the condition.]]></description>
             <link>https://www.bbc.co.uk/news/health-56281064</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56281064</guid>
             <pubDate>Fri, 05 Mar 2021 00:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[National Trust's climate change threat map a 'game-changer']]></title>
+            <description><![CDATA[The National Trust's map plots a worst-case scenario if global carbon emissions are not driven down.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56284831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56284831</guid>
+            <pubDate>Fri, 05 Mar 2021 01:06:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid contracts still unpublished despite Boris Johnson's claim]]></title>
@@ -58,6 +51,20 @@
             <pubDate>Fri, 05 Mar 2021 00:03:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New Zealand earthquakes: Tsunami warnings lifted after evacuations]]></title>
+            <description><![CDATA[A series of earthquakes shook the region, triggering evacuation orders that were later stood down.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56285659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56285659</guid>
+            <pubDate>Fri, 05 Mar 2021 01:31:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Italy 'blocks' AstraZeneca vaccine shipment to Australia]]></title>
+            <description><![CDATA[The bar on shipping 250,000 doses amid a row with the firm is backed by the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56279202</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56279202</guid>
+            <pubDate>Thu, 04 Mar 2021 22:45:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brexit: EU legal action imminent over UK extension to grace periods]]></title>
             <description><![CDATA[The UK says it will unilaterally extend grace periods for Irish Sea border checks on parcels and agri-foods.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56285874</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-56253020</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56253020</guid>
             <pubDate>Fri, 05 Mar 2021 00:00:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[National Trust's climate change threat map a 'game-changer']]></title>
-            <description><![CDATA[The National Trust's map plots a worst-case scenario if global carbon emissions are not driven down.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56284831</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56284831</guid>
-            <pubDate>Fri, 05 Mar 2021 01:06:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Right and just' for students to get Covid refunds]]></title>
@@ -142,11 +142,11 @@
             <pubDate>Thu, 04 Mar 2021 15:56:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Team Sturgeon breathes a sigh of relief]]></title>
-            <description><![CDATA[Nicola Sturgeon's team believes no real punches were landed in eight hours of questioning by MSPs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56281854</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56281854</guid>
-            <pubDate>Thu, 04 Mar 2021 13:25:11 GMT</pubDate>
+            <title><![CDATA[International Women's Day: Illustrating the Covid-19 pandemic]]></title>
+            <description><![CDATA[These three artists turn complex research into easy to digest information to help fight coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-56152069</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56152069</guid>
+            <pubDate>Fri, 05 Mar 2021 02:15:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Fresh air 'key to safer classrooms']]></title>
@@ -189,6 +189,13 @@
             <link>https://www.bbc.co.uk/news/business-56164159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56164159</guid>
             <pubDate>Fri, 05 Mar 2021 00:09:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Team Sturgeon breathes a sigh of relief]]></title>
+            <description><![CDATA[Nicola Sturgeon's team believes no real punches were landed in eight hours of questioning by MSPs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56281854</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56281854</guid>
+            <pubDate>Thu, 04 Mar 2021 13:25:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are QAnon believers obsessed with 4 March?]]></title>
