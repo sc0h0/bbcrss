@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Mar 2021 05:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 06:07:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,6 +79,13 @@
             <pubDate>Thu, 04 Mar 2021 22:12:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: San Diego zoo apes given experimental vaccine]]></title>
+            <description><![CDATA[The vaccinations were carried out in February after an outbreak among gorillas at the zoo.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56288542</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56288542</guid>
+            <pubDate>Fri, 05 Mar 2021 01:10:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Football racism: Premier League and EFL asked to help tackle problem]]></title>
             <description><![CDATA[A senior officer wants the Premier League and EFL to act before fans return to stadiums.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56253020</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/education-56285701</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56285701</guid>
             <pubDate>Fri, 05 Mar 2021 00:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Government has no climate change plan - MPs]]></title>
-            <description><![CDATA[Two reports from MPs cast doubt on the government's approach to meeting its climate change goals.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56285239</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56285239</guid>
-            <pubDate>Fri, 05 Mar 2021 01:09:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: NHS pay 'insult' and EU vaccine 'volte-face' ]]></title>
@@ -237,7 +237,7 @@
             <description><![CDATA[Freya Davies and Tammy Beaumont both impress as England beat New Zealand by six wickets in the second Twenty20 in Wellington to win the series.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/56289551</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56289551</guid>
-            <pubDate>Fri, 05 Mar 2021 05:24:56 GMT</pubDate>
+            <pubDate>Fri, 05 Mar 2021 05:52:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday in the UK or travel abroad?]]></title>
