@@ -1,7 +1,7 @@
 
     1. [Covid-19: Starmer calls for bigger pay rise for NHS 'heroes'](https://www.bbc.co.uk/news/uk-politics-56288237) - Fri, 05 Mar 2021 07:45:11 GMT - The Labour leader was responding to a government recommendation of a 1% increase for staff in England.
 1. [Covid: Asthma patients refused vaccine by some GPs](https://www.bbc.co.uk/news/health-56281064) - Fri, 05 Mar 2021 00:52:32 GMT - Some are not being prioritised if they haven't been to hospital recently for the condition.
-1. [Covid-19: Cyprus to welcome vaccinated UK tourists from May](https://www.bbc.co.uk/news/uk-56289054) - Fri, 05 Mar 2021 07:23:10 GMT - It is not yet clear how visitors will be required to prove they have received both doses of a jab.
+1. [Covid-19: Cyprus to welcome vaccinated UK tourists from May](https://www.bbc.co.uk/news/uk-56289054) - Fri, 05 Mar 2021 07:47:29 GMT - It is not yet clear how visitors will be required to prove they have received both doses of a jab.
 1. [Covid contracts still unpublished despite Boris Johnson's claim](https://www.bbc.co.uk/news/uk-56281934) - Fri, 05 Mar 2021 00:48:21 GMT - Days after the PM said all contracts were "on the record", government lawyers admitted many were not.
 1. [Covid 19: 'His mental health has suffered all along'](https://www.bbc.co.uk/news/uk-56255825) - Fri, 05 Mar 2021 00:03:57 GMT - Michael, who has dementia, hasn't been able to properly see his family for a year, due to Covid-19 restrictions in his nursing home.
 1. [Covid-19: Starmer's NHS pay call and Cyprus to welcome vaccinated Brits](https://www.bbc.co.uk/news/uk-56289955) - Fri, 05 Mar 2021 07:37:38 GMT - Five things you need to know about the coronavirus pandemic this Friday morning.
