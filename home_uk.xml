@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Mar 2021 13:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 13:40:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Fri, 05 Mar 2021 13:21:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Some asthma patients being told to wait longer for vaccine]]></title>
-            <description><![CDATA[Some are not being prioritised if they haven't been to hospital recently for the condition.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56281064</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56281064</guid>
-            <pubDate>Fri, 05 Mar 2021 11:05:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Cyprus to welcome vaccinated UK tourists from May]]></title>
             <description><![CDATA[It is not yet clear how visitors will be required to prove they have received both doses of a jab.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56289054</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56289054</guid>
             <pubDate>Fri, 05 Mar 2021 11:06:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oprah interview: Meghan says it is 'liberating to be able to speak']]></title>
+            <description><![CDATA[The Royal Family was "different to what people imagine it to be", says the Duchess of Sussex.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56293793</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56293793</guid>
+            <pubDate>Fri, 05 Mar 2021 13:29:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pope Francis begins historic Iraq visit despite virus and security risks]]></title>
@@ -65,11 +65,18 @@
             <pubDate>Fri, 05 Mar 2021 00:03:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Some asthma patients being told to wait longer for vaccine]]></title>
+            <description><![CDATA[Some are not being prioritised if they haven't been to hospital recently for the condition.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56281064</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56281064</guid>
+            <pubDate>Fri, 05 Mar 2021 11:05:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sports Direct owner Mike Ashley warns of possible shop closures]]></title>
             <description><![CDATA[Mike Ashley's Frasers Group says new business rates measures are "near worthless" for large retailers.]]></description>
             <link>https://www.bbc.co.uk/news/business-56290421</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56290421</guid>
-            <pubDate>Fri, 05 Mar 2021 12:02:52 GMT</pubDate>
+            <pubDate>Fri, 05 Mar 2021 13:36:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid contracts still unpublished despite Boris Johnson's claim]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-56264117</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56264117</guid>
             <pubDate>Fri, 05 Mar 2021 13:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Italy 'blocks' AstraZeneca vaccine shipment to Australia]]></title>
-            <description><![CDATA[The bar on shipping 250,000 doses amid a row with the firm is backed by the EU.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56279202</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56279202</guid>
-            <pubDate>Fri, 05 Mar 2021 07:59:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sinkhole 'swallowed' Cumbrian farmer on quad bike]]></title>
@@ -261,11 +261,11 @@
             <pubDate>Fri, 05 Mar 2021 10:28:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Vaccine passports': Will I need one for going out, work and travel?]]></title>
-            <description><![CDATA[The government is reviewing whether venues can ask for proof of vaccination or a negative test.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Fri, 05 Mar 2021 09:41:38 GMT</pubDate>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 20 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Fri, 05 Mar 2021 11:31:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday in the UK or travel abroad?]]></title>
@@ -275,11 +275,11 @@
             <pubDate>Wed, 24 Feb 2021 12:40:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid variants: What happens when a virus mutates?]]></title>
-            <description><![CDATA[New Covid-19 variants keep appearing – and their mutations are very different to the comic book kind.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56286744</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56286744</guid>
-            <pubDate>Fri, 05 Mar 2021 00:06:47 GMT</pubDate>
+            <title><![CDATA['Vaccine passports': Will I need one for going out, work and travel?]]></title>
+            <description><![CDATA[The government is reviewing whether venues can ask for proof of vaccination or a negative test.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
+            <pubDate>Fri, 05 Mar 2021 09:41:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
@@ -294,6 +294,13 @@
             <link>https://www.bbc.co.uk/news/education-55591821</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-55591821</guid>
             <pubDate>Tue, 02 Mar 2021 09:19:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid variants: What happens when a virus mutates?]]></title>
+            <description><![CDATA[New Covid-19 variants keep appearing – and their mutations are very different to the comic book kind.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56286744</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56286744</guid>
+            <pubDate>Fri, 05 Mar 2021 00:06:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What’s the problem with the EU vaccine rollout?]]></title>
