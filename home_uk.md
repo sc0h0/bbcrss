@@ -1,5 +1,5 @@
 
-    1. [Nurses' union anger over 'pitiful' 1% NHS pay rise](https://www.bbc.co.uk/news/uk-politics-56285087) - Thu, 04 Mar 2021 22:54:25 GMT - The government will face a public backlash if it does not pay staff more, the RCN union warns.
+    1. [Covid-19: Starmer calls for bigger pay rise for NHS 'heroes'](https://www.bbc.co.uk/news/uk-politics-56288237) - Fri, 05 Mar 2021 02:34:34 GMT - The Labour leader was responding to a government recommendation of a 1% increase for staff in England.
 1. [Covid: Asthma patients refused vaccine by some GPs](https://www.bbc.co.uk/news/health-56281064) - Fri, 05 Mar 2021 00:52:32 GMT - Some are not being prioritised if they haven't been to hospital recently for the condition.
 1. [National Trust's climate change threat map a 'game-changer'](https://www.bbc.co.uk/news/uk-56284831) - Fri, 05 Mar 2021 01:06:12 GMT - The National Trust's map plots a worst-case scenario if global carbon emissions are not driven down.
 1. [Covid contracts still unpublished despite Boris Johnson's claim](https://www.bbc.co.uk/news/uk-56281934) - Fri, 05 Mar 2021 00:48:21 GMT - Days after the PM said all contracts were "on the record", government lawyers admitted many were not.
