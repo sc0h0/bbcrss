@@ -1,6 +1,6 @@
 
     1. [NHS pay: 'Undervalued' nurses may quit over 1% rise - union](https://www.bbc.co.uk/news/uk-56301981) - Sat, 06 Mar 2021 13:16:27 GMT - Ministers defend the offer to staff in England, saying finances are under unprecedented strain.
-1. [Coronavirus: US Senate passes major $1.9tn relief plan](https://www.bbc.co.uk/news/world-us-canada-56307889) - Sat, 06 Mar 2021 19:06:03 GMT - The major spending package is expected to be given final approval in the House next week.
+1. [Coronavirus: US Senate passes major $1.9tn relief plan](https://www.bbc.co.uk/news/world-us-canada-56307889) - Sat, 06 Mar 2021 19:28:30 GMT - The major spending package is expected to be given final approval in the House next week.
 1. [Soldier killed at Castlemartin range named as Sgt Gavin Hillier](https://www.bbc.co.uk/news/uk-wales-56304979) - Sat, 06 Mar 2021 18:50:28 GMT - The Ministry of Defence names Sgt Gavin Hillier as the soldier killed in a training exercise.
 1. [Arrest over missing woman Bennylyn Burke and two children](https://www.bbc.co.uk/news/uk-scotland-56304839) - Sat, 06 Mar 2021 16:30:17 GMT - The woman and two children had been missing from South Gloucestershire since 17 February.
 1. [Sarah Everard: Family 'desperate' to see missing woman](https://www.bbc.co.uk/news/uk-england-london-56307038) - Sat, 06 Mar 2021 16:29:52 GMT - Sarah Everard is thought to have walked home alone across Clapham Common on Wednesday evening.
