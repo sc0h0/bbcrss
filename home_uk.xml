@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Mar 2021 13:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 13:41:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Sat, 06 Mar 2021 12:56:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dyfed-Powys Police begins investigation into Pembrokeshire firing range death]]></title>
-            <description><![CDATA[A soldier - understood to be in the Welsh Guards - was fatally injured during live-fire training.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56304979</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56304979</guid>
-            <pubDate>Sat, 06 Mar 2021 12:35:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Lockdown 'a success' but UK 'not out of the woods']]></title>
             <description><![CDATA[The head of the Office for National Statistics say the gains made so far need to be protected.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56306105</link>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56304235</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56304235</guid>
             <pubDate>Sat, 06 Mar 2021 09:04:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dyfed-Powys Police begins investigation into Pembrokeshire firing range death]]></title>
+            <description><![CDATA[A soldier - understood to be in the Welsh Guards - was fatally injured during live-fire training.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56304979</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56304979</guid>
+            <pubDate>Sat, 06 Mar 2021 12:35:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Child dies after being rescued from fire in Greenwich flat]]></title>
@@ -65,13 +65,6 @@
             <pubDate>Sat, 06 Mar 2021 08:51:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Downing Street: Millions spent on new media briefing room]]></title>
-            <description><![CDATA[Televised briefings will "increase public accountability and transparency", the Cabinet Office says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56295191</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56295191</guid>
-            <pubDate>Sat, 06 Mar 2021 01:27:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pubs deluged with beer garden bookings]]></title>
             <description><![CDATA[Pubs in England report high demand bookings from the 12 April opening date for beer gardens.]]></description>
             <link>https://www.bbc.co.uk/news/business-56296518</link>
@@ -79,18 +72,11 @@
             <pubDate>Fri, 05 Mar 2021 22:02:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Rapid testing available to all businesses in England]]></title>
-            <description><![CDATA[It is hoped the wider rollout of workplace testing will mean more asymptomatic cases are detected.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56302489</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56302489</guid>
-            <pubDate>Sat, 06 Mar 2021 04:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John McAfee charged with fraud over cryptocurrency]]></title>
-            <description><![CDATA[The businessman is accused of promoting cryptocurrency to his followers to inflate prices.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56300593</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56300593</guid>
-            <pubDate>Sat, 06 Mar 2021 03:19:36 GMT</pubDate>
+            <title><![CDATA[Downing Street: Millions spent on new media briefing room]]></title>
+            <description><![CDATA[Televised briefings will "increase public accountability and transparency", the Cabinet Office says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56295191</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56295191</guid>
+            <pubDate>Sat, 06 Mar 2021 01:27:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Helicopter flew from Salford to Preston for sandwich]]></title>
