@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Mar 2021 20:59:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Mar 2021 21:18:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Vaccine offers for those aged 56 or over]]></title>
+            <description><![CDATA[People in the age group are being invited to book their first vaccine from this week.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56309198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56309198</guid>
+            <pubDate>Sat, 06 Mar 2021 21:00:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NHS pay: 'Undervalued' nurses may quit over 1% rise - union]]></title>
             <description><![CDATA[Ministers defend the offer to staff in England, saying finances are under unprecedented strain.]]></description>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-56307038</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56307038</guid>
             <pubDate>Sat, 06 Mar 2021 16:29:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Lockdown 'a success' but UK 'not out of the woods']]></title>
-            <description><![CDATA[The head of the Office for National Statistics say the gains made so far need to be protected.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56306105</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56306105</guid>
-            <pubDate>Sat, 06 Mar 2021 16:14:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guard called black poet Amanda Gorman 'suspicious']]></title>
@@ -240,11 +240,11 @@
             <pubDate>Sat, 06 Mar 2021 12:44:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Naulago's late try gives leaders Bristol win over Worcester]]></title>
-            <description><![CDATA[Siva Naulago's late try stuns Worcester as his first Premiership hat-trick helps leaders Bristol overcome the bottom club.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56280622</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56280622</guid>
-            <pubDate>Sat, 06 Mar 2021 20:50:33 GMT</pubDate>
+            <title><![CDATA[Archer takes 1500m silver at European Indoors after winning appeal]]></title>
+            <description><![CDATA[Holly Archer wins 1500m silver for Great Britain at the European Indoor Championships, but only after her disqualification is overturned.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/56308758</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/56308758</guid>
+            <pubDate>Sat, 06 Mar 2021 20:38:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Xhaka error costs Arsenal victory as Burnley survive late siege]]></title>
