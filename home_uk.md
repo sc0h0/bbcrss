@@ -1,6 +1,6 @@
 
     1. [NHS pay: More health unions join backlash against 1% pay rise](https://www.bbc.co.uk/news/uk-56301981) - Sat, 06 Mar 2021 09:13:35 GMT - Health staff "have literally kept the country alive for the past year", says the British Medical Association.
-1. [Pope Francis and top Shia cleric Ali al-Sistani discuss safety of Iraqi Christians](https://www.bbc.co.uk/news/world-middle-east-56302173) - Sat, 06 Mar 2021 08:10:21 GMT - Grand Ayatollah Ali al-Sistani holds historic talks with the Catholic leader at his home in Iraq.
+1. [Pope Francis and top Shia cleric Ali al-Sistani discuss safety of Iraqi Christians](https://www.bbc.co.uk/news/world-middle-east-56302173) - Sat, 06 Mar 2021 09:33:54 GMT - The Catholic leader has historic talks with Iraq's Shia Muslim leader, Grand Ayatollah Ali al-Sistani.
 1. [Downing Street: Millions spent on new media briefing room](https://www.bbc.co.uk/news/uk-politics-56295191) - Sat, 06 Mar 2021 01:27:48 GMT - Televised briefings will "increase public accountability and transparency", the Cabinet Office says.
 1. [Rhondda: Police probe girl's death after 'disturbing event'](https://www.bbc.co.uk/news/uk-wales-56301223) - Sat, 06 Mar 2021 08:51:12 GMT - Two men have been arrested after suffering serious injuries in the incident.
 1. [Covid-19: More unions join NHS pay backlash and beer gardens deluged with bookings](https://www.bbc.co.uk/news/uk-56303752) - Sat, 06 Mar 2021 07:33:12 GMT - Five things you need to know about the coronavirus pandemic this Saturday morning.
