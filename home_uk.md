@@ -1,6 +1,6 @@
 
     1. [Covid-19: Vaccine offers for those aged 56 or over](https://www.bbc.co.uk/news/uk-56309198) - Sat, 06 Mar 2021 21:00:22 GMT - People in the age group are being invited to book their first vaccine from this week.
-1. [Covid: PM urges caution as first roadmap date approaches](https://www.bbc.co.uk/news/uk-56307156) - Sun, 07 Mar 2021 02:35:46 GMT - Schools in England will open to more pupils on Monday, in the first phase of lockdown easing.
+1. [Covid: PM urges caution as first roadmap date approaches](https://www.bbc.co.uk/news/uk-56307156) - Sun, 07 Mar 2021 05:31:51 GMT - Schools in England will open to more pupils on Monday, in the first phase of lockdown easing.
 1. [Covid: Nurses condemn 'fundamentally flawed' PPE rules](https://www.bbc.co.uk/news/health-56293951) - Sun, 07 Mar 2021 00:11:47 GMT - The existing recommendations are based on out-of-date evidence, the Royal College of Nursing says.
 1. [George Floyd: Why is the trial so important?](https://www.bbc.co.uk/news/world-us-canada-56270334) - Sun, 07 Mar 2021 00:52:11 GMT - A US police officer is accused of killing a black man last year. Here's why the world is watching.
 1. [Covid: Parents worry about lost learning as schools reopen](https://www.bbc.co.uk/news/education-56292525) - Sun, 07 Mar 2021 00:14:26 GMT - Parents are confident about children returning to school but worry about catching up, says survey.
