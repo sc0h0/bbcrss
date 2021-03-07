@@ -1,5 +1,5 @@
 
-    1. [Covid: Gavin Williamson 'looking at' longer school day and shorter holidays](https://www.bbc.co.uk/news/uk-56311723) - Sun, 07 Mar 2021 11:29:55 GMT - A range of measures are being looked at to help pupils in England catch up, the education secretary says.
+    1. [Covid: Gavin Williamson 'looking at' longer school day and shorter holidays](https://www.bbc.co.uk/news/uk-56311723) - Sun, 07 Mar 2021 11:43:26 GMT - A range of measures are being looked at to help pupils in England catch up, the education secretary says.
 1. [PPE rules 'fundamentally flawed' - nurses](https://www.bbc.co.uk/news/health-56293951) - Sun, 07 Mar 2021 00:11:47 GMT - The existing recommendations are based on out-of-date evidence, the Royal College of Nursing says.
 1. ['Stay local' rule considered for Wales Covid review](https://www.bbc.co.uk/news/uk-wales-56311143) - Sun, 07 Mar 2021 10:31:23 GMT - Stay at home rules banning all but essential travel could be eased, Wales' first minister says.
 1. [Rangers fans urged to stay at home amid title hopes](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56312051) - Sun, 07 Mar 2021 10:44:28 GMT - The justice secretary asks Rangers fans to obey the "stay at home" message for public health reasons.
