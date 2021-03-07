@@ -1,7 +1,7 @@
 
-    1. [Covid: PM urges caution as England schools to reopen](https://www.bbc.co.uk/news/uk-56307156) - Sun, 07 Mar 2021 05:31:51 GMT - The PM says the return of schools in England on Monday is the "first step" towards "normality".
+    1. [Covid: Boris Johnson urges caution as England schools to reopen](https://www.bbc.co.uk/news/uk-56307156) - Sun, 07 Mar 2021 05:31:51 GMT - The PM says the return of schools in England on Monday is the "first step" towards "normality".
 1. [Covid: Nurses condemn 'fundamentally flawed' PPE rules](https://www.bbc.co.uk/news/health-56293951) - Sun, 07 Mar 2021 00:11:47 GMT - The existing recommendations are based on out-of-date evidence, the Royal College of Nursing says.
-1. [Covid-19: Vaccine offers for those aged 56 or over](https://www.bbc.co.uk/news/uk-56309198) - Sat, 06 Mar 2021 21:00:22 GMT - People in the age group are being invited to book their first vaccine from this week.
+1. [Covid-19: Vaccine offers for all those aged 56 or over](https://www.bbc.co.uk/news/uk-56309198) - Sat, 06 Mar 2021 21:00:22 GMT - People in the age group are being invited to book their first vaccine from this week.
 1. [George Floyd: Why is the trial so important?](https://www.bbc.co.uk/news/world-us-canada-56270334) - Sun, 07 Mar 2021 00:52:11 GMT - A US police officer is accused of killing a black man last year. Here's why the world is watching.
 1. [Covid: Dalai Lama urges others to get vaccinated as he receives first shot](https://www.bbc.co.uk/news/world-asia-india-56310274) - Sun, 07 Mar 2021 04:26:29 GMT - The Tibetan spiritual leader urges others to "take this injection" as he gets the AstraZeneca jab.
 1. [Covid-19: First roadmap date approaches, and 'fundamentally flawed' PPE](https://www.bbc.co.uk/news/uk-56309981) - Sun, 07 Mar 2021 07:31:25 GMT - Five things you need to know about the coronavirus pandemic this Sunday morning.
