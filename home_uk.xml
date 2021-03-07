@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Mar 2021 13:54:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 14:22:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Nazanin Zaghari-Ratcliffe released but faces new court date]]></title>
-            <description><![CDATA[The British-Iranian was jailed in Iran on a five-year sentence on spying charges, which she has always denied.]]></description>
+            <description><![CDATA[The British-Iranian faces a separate court case now her five-year sentence on spying charges has ended.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56313099</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56313099</guid>
-            <pubDate>Sun, 07 Mar 2021 13:44:11 GMT</pubDate>
+            <pubDate>Sun, 07 Mar 2021 14:17:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Gavin Williamson 'looking at' longer school day and shorter holidays]]></title>
@@ -30,25 +30,11 @@
             <pubDate>Sun, 07 Mar 2021 12:22:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: UK must prepare for 'hard winter' of flu – expert]]></title>
+            <title><![CDATA[Covid: UK must prepare for 'hard winter' of flu - expert]]></title>
             <description><![CDATA[The population immunity to viruses other than Covid could be lower than usual, a top medic warns.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56312621</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56312621</guid>
             <pubDate>Sun, 07 Mar 2021 12:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Stay local' rule considered for Wales Covid review]]></title>
-            <description><![CDATA[Stay at home rules banning all but essential travel could be eased, Wales' first minister says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56311143</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56311143</guid>
-            <pubDate>Sun, 07 Mar 2021 12:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rangers fans urged to stay at home amid title hopes]]></title>
-            <description><![CDATA[The justice secretary asks Rangers fans to obey the "stay at home" message for public health reasons.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56312051</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56312051</guid>
-            <pubDate>Sun, 07 Mar 2021 10:44:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: Lord Frost accuses EU of 'ill will' over UK exit]]></title>
@@ -58,18 +44,39 @@
             <pubDate>Sun, 07 Mar 2021 13:36:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rangers champions of Scotland after Celtic slip-up]]></title>
+            <description><![CDATA[Rangers are Scottish champions for the first time in 10 years after Celtic draw 0-0 with Dundee United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56306235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56306235</guid>
+            <pubDate>Sun, 07 Mar 2021 13:52:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Conservatives plan John Swinney no confidence vote]]></title>
+            <description><![CDATA[The Scottish Conservatives are pushing for the vote over John Swinney's handling of the Alex Salmond case.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56311384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56311384</guid>
+            <pubDate>Sun, 07 Mar 2021 14:16:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope Francis visits regions of Iraq once held by Islamic State]]></title>
+            <description><![CDATA[The Roman Catholic leader visits Mosul, the former stronghold of the Islamic State group.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56309779</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56309779</guid>
+            <pubDate>Sun, 07 Mar 2021 13:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Stay local' rule considered for Wales Covid review]]></title>
+            <description><![CDATA[Stay at home rules banning all but essential travel could be eased, Wales' first minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56311143</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56311143</guid>
+            <pubDate>Sun, 07 Mar 2021 12:38:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uighurs: Chinese foreign minister says genocide claims 'absurd']]></title>
             <description><![CDATA[The Chinese government has been accused of trying to destroy the Uighur minority in north-west China.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-56311759</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56311759</guid>
             <pubDate>Sun, 07 Mar 2021 12:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PPE rules 'fundamentally flawed' - nurses]]></title>
-            <description><![CDATA[The existing recommendations are based on out-of-date evidence, the Royal College of Nursing says.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56293951</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56293951</guid>
-            <pubDate>Sun, 07 Mar 2021 00:11:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Abbey Wood: Teenager stabbed to death in fight]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-56311277</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56311277</guid>
             <pubDate>Sun, 07 Mar 2021 10:17:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Francis visits regions of Iraq once held by Islamic State]]></title>
-            <description><![CDATA[The Roman Catholic leader visits Mosul, the former stronghold of the Islamic State group.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56309779</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56309779</guid>
-            <pubDate>Sun, 07 Mar 2021 13:35:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hunger Games salute: The symbol of protest against Asia’s military regimes]]></title>
@@ -212,18 +212,18 @@
             <pubDate>Sat, 06 Mar 2021 13:29:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Strugglers West Brom and Newcastle share goalless draw]]></title>
+            <description><![CDATA[West Brom and Newcastle battle to a goalless draw at the Hawthorns that does little to ease either side's Premier League relegation fears.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56227461</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56227461</guid>
+            <pubDate>Sun, 07 Mar 2021 14:11:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['India mirror Kohli's personality in their dominance, and English summer can bring more glory']]></title>
             <description><![CDATA[Virat Kohli's personality is driving India towards World Test Championship glory - and their 'final frontier' in England, writes Suresh Menon.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/56311207</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56311207</guid>
             <pubDate>Sun, 07 Mar 2021 08:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I wondered how many sunny days I would see again' - Ferguson discusses brain haemorrhage]]></title>
-            <description><![CDATA[Former Manchester United manager Sir Alex Ferguson opens up about his 2018 brain haemorrhage in new film.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56308789</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56308789</guid>
-            <pubDate>Sat, 06 Mar 2021 22:33:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England complete T20 series clean sweep over New Zealand]]></title>
