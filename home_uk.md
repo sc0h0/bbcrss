@@ -1,7 +1,7 @@
 
     1. [Nazanin Zaghari-Ratcliffe must be released 'permanently', says PM](https://www.bbc.co.uk/news/uk-56313099) - Sun, 07 Mar 2021 18:01:41 GMT - The British-Iranian's five-year sentence on spying charges has ended, but she faces a separate court case.
 1. [NHS 1% pay rise is 'as much as we can give' - Boris Johnson](https://www.bbc.co.uk/news/uk-56313199) - Sun, 07 Mar 2021 16:09:27 GMT - Boris Johnson defends his pay rise proposals after a warning nurses may quit for feeling undervalued.
-1. [Huge explosions rock Equatorial Guinea's main city](https://www.bbc.co.uk/news/world-africa-56311677) - Sun, 07 Mar 2021 20:26:43 GMT - At least 17 people have died and hundreds more have been injured in the city of Bata.
+1. [Huge explosions rock Equatorial Guinea's main city](https://www.bbc.co.uk/news/world-africa-56311677) - Sun, 07 Mar 2021 20:51:01 GMT - At least 17 people have died and hundreds more have been injured in the city of Bata.
 1. [Meghan and Harry's TV interview with Oprah Winfrey to air in US](https://www.bbc.co.uk/news/uk-56313648) - Sun, 07 Mar 2021 17:00:36 GMT - Oprah Winfrey's interview with the Duke and Duchess of Sussex will be broadcast at 01:00 GMT on Monday.
 1. [Sarah Everard: Police confirm last sighting of missing woman](https://www.bbc.co.uk/news/uk-england-london-56315011) - Sun, 07 Mar 2021 16:49:16 GMT - Sarah Everard has been missing from south London since Wednesday evening.
 1. [Rangers' Premiership win: Celebrating fans urged to go home](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56312051) - Sun, 07 Mar 2021 20:28:20 GMT - Police make a "small number" of arrests and issue fines after crowds gathered to celebrate Rangers Premiership win.
