@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Mar 2021 22:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 22:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Mon, 08 Mar 2021 15:30:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Nightingale hospitals to close from April]]></title>
+            <description><![CDATA[The temporary hospitals, which were largely unused, are being shut as patient numbers fall.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56327214</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56327214</guid>
+            <pubDate>Mon, 08 Mar 2021 22:39:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Asylum seekers: Napier Barracks and Penally camp 'filthy and run-down']]></title>
             <description><![CDATA[Inspectors criticised conditions at Napier Barracks in Folkestone and Penally camp in Pembrokeshire.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-56325360</link>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-56323724</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-56323724</guid>
             <pubDate>Mon, 08 Mar 2021 16:19:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Nightingale hospitals to close from April]]></title>
-            <description><![CDATA[The temporary hospitals, which were largely unused, are being shut as patient numbers fall.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56327214</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56327214</guid>
-            <pubDate>Mon, 08 Mar 2021 22:39:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Malala Yousafzai signs production deal with Apple TV+]]></title>
@@ -282,11 +282,11 @@
             <pubDate>Fri, 05 Mar 2021 17:17:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[West Ham 2-0 Leeds United: Hammers maintain top-four push]]></title>
+            <title><![CDATA[West Ham 2-0 Leeds United: Hammers up to fifth in table]]></title>
             <description><![CDATA[West Ham continue their unlikely push for a place in next season's Champions League with a deserved victory over Leeds United at London Stadium.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56234684</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56234684</guid>
-            <pubDate>Mon, 08 Mar 2021 22:43:42 GMT</pubDate>
+            <pubDate>Mon, 08 Mar 2021 22:52:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Derek McInnes: Aberdeen part with manager after eight years]]></title>
