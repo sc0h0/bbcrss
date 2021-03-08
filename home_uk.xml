@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Mar 2021 18:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 18:35:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,20 @@
             <link>https://www.bbc.co.uk/news/uk-56324215</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56324215</guid>
             <pubDate>Mon, 08 Mar 2021 17:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First day back at school has 'gone well', say heads]]></title>
+            <description><![CDATA[Millions have returned to school in England, with face masks and Covid tests for secondary pupils.]]></description>
+            <link>https://www.bbc.co.uk/news/education-56293639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56293639</guid>
+            <pubDate>Mon, 08 Mar 2021 16:58:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: School rapid test cannot be overruled, says minister]]></title>
+            <description><![CDATA[Concerns have been raised that thousands of pupils could be incorrectly told they have the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56321537</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56321537</guid>
+            <pubDate>Mon, 08 Mar 2021 11:30:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fears for 5,000 UK steel jobs as lender collapses]]></title>
@@ -37,25 +51,11 @@
             <pubDate>Mon, 08 Mar 2021 17:32:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: School rapid test cannot be overruled, says minister]]></title>
-            <description><![CDATA[Concerns have been raised that thousands of pupils could be incorrectly told they have the virus.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56321537</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56321537</guid>
-            <pubDate>Mon, 08 Mar 2021 11:30:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BP staff set to work from home two days a week]]></title>
             <description><![CDATA[The oil giant told staff last month that the new model will start for office-based staff this summer.]]></description>
             <link>https://www.bbc.co.uk/news/business-56319623</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56319623</guid>
             <pubDate>Mon, 08 Mar 2021 17:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[George Floyd: Chauvin trial delayed over possible new charge]]></title>
-            <description><![CDATA[A panel is reviewing whether a less-severe murder charge can be added against officer Derek Chauvin.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56325773</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56325773</guid>
-            <pubDate>Mon, 08 Mar 2021 17:16:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Daughter allowed to hold mum's hands in care home]]></title>
@@ -72,13 +72,6 @@
             <pubDate>Mon, 08 Mar 2021 17:54:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[First day back at school has 'gone well', say heads]]></title>
-            <description><![CDATA[Millions have returned to school in England, with face masks and Covid tests for secondary pupils.]]></description>
-            <link>https://www.bbc.co.uk/news/education-56293639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56293639</guid>
-            <pubDate>Mon, 08 Mar 2021 16:58:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Amy-Leanne Stringfellow: Ex-soldier killed by fiancé who was on bail]]></title>
             <description><![CDATA[Amy-Leanne Stringfellow, who died in a "sustained" attack, was unlawfully killed, a coroner rules.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-56323724</link>
@@ -86,18 +79,25 @@
             <pubDate>Mon, 08 Mar 2021 16:19:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rangers' title celebrations: Club accused of 'lack of leadership' over crowds]]></title>
-            <description><![CDATA[Deputy First Minister John Swinney says the club's silence was "deafening" as fans gathered to celebrate title victory.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56321426</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56321426</guid>
-            <pubDate>Mon, 08 Mar 2021 17:50:45 GMT</pubDate>
+            <title><![CDATA[Malala Yousafzai signs production deal with Apple TV+]]></title>
+            <description><![CDATA[The Nobel Prize laureate on why she is hopeful about change and representation on screen.]]></description>
+            <link>https://www.bbc.co.uk/news/world-56316463</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56316463</guid>
+            <pubDate>Mon, 08 Mar 2021 18:09:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Somerset starlings stop man's car in 'impressive' display]]></title>
-            <description><![CDATA[Ecologist Jamie Kingscott took a photograph of thousands of starlings as they surrounded his car.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-56313026</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-56313026</guid>
-            <pubDate>Mon, 08 Mar 2021 06:41:38 GMT</pubDate>
+            <title><![CDATA[Mark & Spencer launches online operations in 46 markets]]></title>
+            <description><![CDATA[The retailer's expansion into 46 markets marks the latest move to grow its digital business.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56327257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56327257</guid>
+            <pubDate>Mon, 08 Mar 2021 18:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emma Hardy MP quits shadow minster role over Covid workload]]></title>
+            <description><![CDATA[The Hull West and Hessle Labour MP says the number of people needing help has "risen dramatically".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-56326939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-56326939</guid>
+            <pubDate>Mon, 08 Mar 2021 18:06:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meghan and Harry interview: Racism claims, duke 'let down' by dad, and duchess on Kate]]></title>
@@ -107,11 +107,25 @@
             <pubDate>Mon, 08 Mar 2021 12:34:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Somerset starlings stop man's car in 'impressive' display]]></title>
+            <description><![CDATA[Ecologist Jamie Kingscott took a photograph of thousands of starlings as they surrounded his car.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-56313026</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-56313026</guid>
+            <pubDate>Mon, 08 Mar 2021 06:41:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meghan and Harry interview: 'Royalty is not a shield from the despair of racism']]></title>
             <description><![CDATA[Black women in the US respond to Meghan Markle's revelations about racism and Britain.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56320101</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56320101</guid>
             <pubDate>Mon, 08 Mar 2021 12:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Video diary shows Nottinghamshire triplets' return to school]]></title>
+            <description><![CDATA[A mum of triplets films a video diary of their return to school.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-56324013</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-56324013</guid>
+            <pubDate>Mon, 08 Mar 2021 14:27:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Banksy to auction Southampton hospital artwork for NHS]]></title>
@@ -182,6 +196,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-56321188</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-56321188</guid>
             <pubDate>Mon, 08 Mar 2021 14:33:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Florence Price: Forgotten work by pioneering composer rediscovered]]></title>
+            <description><![CDATA[Florence Price was the first African-American woman to have a symphony performed by a top orchestra.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56322440</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56322440</guid>
+            <pubDate>Mon, 08 Mar 2021 18:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The woman with HIV helping others have a 'good death']]></title>
@@ -268,11 +289,11 @@
             <pubDate>Mon, 08 Mar 2021 12:00:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man City 0-2 Man Utd: It's not a lack of ability that has cost Manchester United the title - Shearer analysis]]></title>
-            <description><![CDATA[Manchester United had the desire and belief to win at Etihad Stadium on Sunday, says MOTD2 pundit Alan Shearer, but Manchester City have shown them what it takes to win the title.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56314375</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56314375</guid>
-            <pubDate>Mon, 08 Mar 2021 09:57:32 GMT</pubDate>
+            <title><![CDATA[New 36-team Champions League format could be agreed this month]]></title>
+            <description><![CDATA[Plans for a reformed 36-team Champions League which would start in 2024 could be agreed by the end of this month.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56325695</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56325695</guid>
+            <pubDate>Mon, 08 Mar 2021 18:06:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: The goals that won Rangers the title]]></title>
