@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Mar 2021 08:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 08:32:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -192,7 +192,7 @@
         </item>
         <item>
             <title><![CDATA[A year ago, the show did not go on. What happened next?]]></title>
-            <description><![CDATA[From actors to ushers, read the stories of those who worked on a play that was cut short by Covid.]]></description>
+            <description><![CDATA[Read the stories of those who worked on a play in Liverpool that was cut short by Covid.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56153030</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56153030</guid>
             <pubDate>Mon, 08 Mar 2021 00:09:52 GMT</pubDate>
@@ -247,11 +247,11 @@
             <pubDate>Mon, 08 Mar 2021 06:21:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bale and Kane doubles inspire Spurs to comfortable win over Palace]]></title>
-            <description><![CDATA[Gareth Bale and Harry Kane both score twice to inspire Tottenham to a third consecutive Premier League win at the expense of Crystal Palace.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56227459</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56227459</guid>
-            <pubDate>Sun, 07 Mar 2021 22:15:32 GMT</pubDate>
+            <title><![CDATA['Gerrard not yet ready for Liverpool despite stellar success at Rangers']]></title>
+            <description><![CDATA[Former Liverpool player and BBC Sport pundit Mark Lawrenson says Steven Gerrard is still not quite ready to be Liverpool boss, despite his impressive work at Rangers.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56306936</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56306936</guid>
+            <pubDate>Mon, 08 Mar 2021 07:17:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How will testing work in schools?]]></title>
@@ -322,6 +322,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-56080312</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56080312</guid>
             <pubDate>Wed, 24 Feb 2021 00:09:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I've been listening to 300 vinyl records to get me through lockdown']]></title>
+            <description><![CDATA[Listening to all her records took Anna Doble back to her youth - releasing memories and emotions.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56187737</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56187737</guid>
+            <pubDate>Sat, 06 Mar 2021 00:26:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
