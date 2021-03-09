@@ -1,5 +1,5 @@
 
-    1. [Meghan and Harry interview: Tabloid racism 'large part' of why we left UK, says duke](https://www.bbc.co.uk/news/uk-56324215) - Mon, 08 Mar 2021 23:26:47 GMT - In unaired footage, the Duke of Sussex says the "bigoted" UK media created a "toxic environment".
+    1. [Meghan and Harry interview: Tabloid racism 'large part' of why we left UK, says duke](https://www.bbc.co.uk/news/uk-56324215) - Mon, 08 Mar 2021 23:26:47 GMT - The Duke of Sussex says the "bigoted" UK media created a "toxic environment" in newly aired footage.
 1. [Covid-19: Nightingale hospitals to close from April](https://www.bbc.co.uk/news/health-56327214) - Mon, 08 Mar 2021 22:39:17 GMT - The temporary hospitals, which were largely unused, are being shut as patient numbers fall.
 1. [Anne Sacoolas: Harry Dunn suspect 'willing to do community service'](https://www.bbc.co.uk/news/uk-england-northamptonshire-56326406) - Tue, 09 Mar 2021 01:06:37 GMT - The lawyer for Anne Sacoolas also says her client is willing to meet the teenager's family.
 1. [Ministers 'must quickly ban LGBT+ conversion therapy'](https://www.bbc.co.uk/news/uk-politics-56284422) - Mon, 08 Mar 2021 22:56:45 GMT - The government says it is "committed" to ending the practice, but campaigners want action quickly.
