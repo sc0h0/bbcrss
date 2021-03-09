@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Mar 2021 09:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 09:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Pressure grows on Buckingham Palace to respond to the Duke and Duchess of Sussex's Oprah interview.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56329887</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56329887</guid>
-            <pubDate>Tue, 09 Mar 2021 09:29:44 GMT</pubDate>
+            <pubDate>Tue, 09 Mar 2021 09:51:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anne Sacoolas: Harry Dunn suspect 'willing to do community service']]></title>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-56326406</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-56326406</guid>
             <pubDate>Tue, 09 Mar 2021 08:55:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Nightingales to close, and Scottish outdoor rules to be eased]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56330465</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56330465</guid>
-            <pubDate>Tue, 09 Mar 2021 07:18:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['If Covid didn't kill me, nothing ever will']]></title>
@@ -51,6 +44,13 @@
             <pubDate>Mon, 08 Mar 2021 22:56:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Major and Champ: Joe Biden's dogs moved out of White House]]></title>
+            <description><![CDATA[Major and Champ are sent back to Delaware after several instances of aggressive behaviour.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56331268</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56331268</guid>
+            <pubDate>Tue, 09 Mar 2021 09:32:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Nightingale hospitals to close from April]]></title>
             <description><![CDATA[The temporary hospitals, which were largely unused, are being shut as patient numbers fall.]]></description>
             <link>https://www.bbc.co.uk/news/health-56327214</link>
@@ -58,18 +58,18 @@
             <pubDate>Mon, 08 Mar 2021 22:39:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid vaccines: How fast is progress around the world?]]></title>
-            <description><![CDATA[Charts and maps tracking the progress of Covid vaccination programmes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-56237778</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56237778</guid>
-            <pubDate>Tue, 09 Mar 2021 00:04:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bafta Film Awards 2021: Stars await nominations amid diversity push]]></title>
             <description><![CDATA[The organisation has introduced changes after an outcry over its all-white acting line-up last year.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56319617</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56319617</guid>
             <pubDate>Tue, 09 Mar 2021 08:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jess Glynne apologises for using transphobic slur on podcast]]></title>
+            <description><![CDATA[The singer says she's "wholeheartedly sorry" for comments made on comedian Mo Gilligan's podcast.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56329180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56329180</guid>
+            <pubDate>Tue, 09 Mar 2021 07:39:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Restrictions on outdoor meetings to be eased]]></title>
@@ -86,11 +86,18 @@
             <pubDate>Tue, 09 Mar 2021 02:16:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK businesses caught buying five-star Google reviews]]></title>
-            <description><![CDATA[Consumer group Which? staged a sting operation to investigate fake Google reviews in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56321576</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56321576</guid>
-            <pubDate>Tue, 09 Mar 2021 01:03:52 GMT</pubDate>
+            <title><![CDATA[Sainsbury's warns of national shortage of pet food pouches]]></title>
+            <description><![CDATA[The retailer is running low on dog and cat food pouches and says the issue will be "ongoing" in 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56328860</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56328860</guid>
+            <pubDate>Mon, 08 Mar 2021 23:37:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccines: How fast is progress around the world?]]></title>
+            <description><![CDATA[Charts and maps tracking the progress of Covid vaccination programmes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-56237778</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56237778</guid>
+            <pubDate>Tue, 09 Mar 2021 00:04:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The papers: Palace 'reeling' over Meghan and Harry 'bombshell']]></title>
@@ -98,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56328870</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56328870</guid>
             <pubDate>Tue, 09 Mar 2021 05:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Nightingales to close, and Scottish outdoor rules to be eased]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56330465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56330465</guid>
+            <pubDate>Tue, 09 Mar 2021 07:18:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Divers find Philippine reef covered with single-use face masks]]></title>
@@ -128,32 +142,11 @@
             <pubDate>Tue, 09 Mar 2021 06:37:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Somerset starlings stop man's car in 'impressive' display]]></title>
-            <description><![CDATA[Ecologist Jamie Kingscott took a photograph of thousands of starlings as they surrounded his car.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-56313026</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-56313026</guid>
-            <pubDate>Mon, 08 Mar 2021 06:41:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Meghan and Harry interview: 'Royalty is not a shield from the despair of racism']]></title>
             <description><![CDATA[Black women in the US respond to Meghan Markle's revelations about racism and Britain.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56320101</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56320101</guid>
             <pubDate>Mon, 08 Mar 2021 12:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Banksy to auction Southampton hospital artwork for NHS]]></title>
-            <description><![CDATA[The piece depicts a young boy discarding his superhero toys in favour of a model of an NHS nurse.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-56319474</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-56319474</guid>
-            <pubDate>Mon, 08 Mar 2021 09:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK lockdown: 'Bored' landlady makes miniature version of own pub]]></title>
-            <description><![CDATA[Amy Sayers makes a tiny replica of The Swan pub in Addingham as a lockdown project "out of boredom".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-56308002</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-56308002</guid>
-            <pubDate>Mon, 08 Mar 2021 07:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Analysis: Harry and Meghan rattle monarchy's gilded cage]]></title>
