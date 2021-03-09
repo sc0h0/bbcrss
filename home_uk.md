@@ -1,6 +1,6 @@
 
     1. [Meghan and Harry interview: Urgent Palace talks over claims](https://www.bbc.co.uk/news/uk-56329887) - Tue, 09 Mar 2021 11:42:07 GMT - Pressure grows on Buckingham Palace to respond to the Duke and Duchess of Sussex's Oprah interview.
-1. [Pay rise was set to be 2.1% - NHS England chief Simon Stevens](https://www.bbc.co.uk/news/uk-politics-56260038) - Tue, 09 Mar 2021 11:05:53 GMT - The head of NHS England says he supports the government's approach to resolving the pay dispute.
+1. [Pay rise was set to be 2.1% - NHS England chief Simon Stevens](https://www.bbc.co.uk/news/uk-politics-56260038) - Tue, 09 Mar 2021 11:54:32 GMT - The head of NHS England says he supports the government's approach to resolving the pay dispute.
 1. [Anne Sacoolas: Harry Dunn suspect 'willing to do community service'](https://www.bbc.co.uk/news/uk-england-northamptonshire-56326406) - Tue, 09 Mar 2021 10:28:29 GMT - The lawyer for Anne Sacoolas also says her client is willing to meet the teenager's family.
 1. [Covid online symptom checker 'may delay treatment'](https://www.bbc.co.uk/news/health-56323915) - Tue, 09 Mar 2021 10:54:28 GMT - A study suggests the NHS online Covid service tells some seriously-ill people to stay at home.
 1. [Unilever drops word 'normal' from beauty products](https://www.bbc.co.uk/news/business-56331524) - Tue, 09 Mar 2021 11:15:43 GMT - The owner of Dove and Vaseline will remove the word from about 200 products in a push for inclusivity.
