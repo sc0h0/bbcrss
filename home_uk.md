@@ -1,5 +1,5 @@
 
-    1. [Sarah Everard disappearance: House and woods in Kent searched](https://www.bbc.co.uk/news/uk-56342465) - Wed, 10 Mar 2021 13:12:17 GMT - It follows the arrests of a serving Met Police officer and a woman in Kent on Tuesday.
+    1. [Sarah Everard disappearance: House and woods in Kent searched](https://www.bbc.co.uk/news/uk-56342465) - Wed, 10 Mar 2021 13:31:36 GMT - The search follows the arrests of a serving Met Police officer and a woman in Kent on Tuesday.
 1. [Piers Morgan stands by Meghan criticism after Good Morning Britain exit](https://www.bbc.co.uk/news/entertainment-arts-56343768) - Wed, 10 Mar 2021 10:13:03 GMT - The Duchess of Sussex also formally complained to ITV about Morgan's remarks, it is being reported.
 1. [Covid-19: UK hasn't banned export of vaccines, says PM](https://www.bbc.co.uk/news/uk-politics-56347716) - Wed, 10 Mar 2021 13:21:09 GMT - Boris Johnson "corrects" the European Council president over his claims about the government's stance.
 1. [Covid-19: Too early to book a foreign holiday, Grant Shapps says](https://www.bbc.co.uk/news/uk-56346071) - Wed, 10 Mar 2021 11:21:51 GMT - The transport secretary says there are questions about "how safe it will be in June to travel around".
@@ -11,6 +11,7 @@
 1. [Russia targets Twitter speed over 'banned content'](https://www.bbc.co.uk/news/world-europe-56344304) - Wed, 10 Mar 2021 12:54:47 GMT - President Putin has criticised social media companies and Twitter is popular with opposition activists.
 1. [PMQs: Give MPs a vote on NHS pay, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-56338389) - Wed, 10 Mar 2021 13:15:42 GMT - Boris Johnson rejects Labour claims nurses and other NHS staff in England are getting a pay cut.
 1. [Lego 'to hire hundreds' more in UK in digital drive](https://www.bbc.co.uk/news/business-56344283) - Wed, 10 Mar 2021 12:40:01 GMT - The toy giant sees best sales in five years as lockdown spurs growth in Lego sets for families.
+1. [Bata blast: Satellite images show Equatorial Guinea destruction](https://www.bbc.co.uk/news/world-africa-56337856) - Wed, 10 Mar 2021 13:05:52 GMT - Explosions at a munitions depot in the main city Bata led to more than 100 deaths.
 1. [Coronavirus: How airlines stay safe to fly](https://www.bbc.co.uk/news/business-56335125) - Wed, 10 Mar 2021 00:10:32 GMT - Amid Covid-19, airlines are finding ways to keep their aircraft and staff ready to fly again.
 1. [Talking to male investors about bras can be 'awkward'](https://www.bbc.co.uk/news/business-56294680) - Wed, 10 Mar 2021 00:02:53 GMT - The female founder of a lingerie firm explains how she pitches her business to male investors.
 1. [Trader gets painted stones instead of $36m of copper](https://www.bbc.co.uk/news/business-56330378) - Wed, 10 Mar 2021 01:31:19 GMT - The company says it took delivery of six thousand tonnes of spray-painted rocks instead of the metal.
