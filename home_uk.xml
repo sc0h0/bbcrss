@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Mar 2021 07:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 07:38:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Thu, 11 Mar 2021 07:25:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Fears for cancer patients and Northern Ireland schools return discussed]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56357020</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56357020</guid>
+            <pubDate>Thu, 11 Mar 2021 07:27:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[LGBT+ groups' 'deep concern' over minister's approach]]></title>
             <description><![CDATA[Nearly 20 LGBT+ groups have written to the government about lack of action to ban conversion therapy.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56353313</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/business-56346245</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56346245</guid>
             <pubDate>Thu, 11 Mar 2021 00:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biden's $1.9tn Covid relief bill passes US Congress]]></title>
-            <description><![CDATA[The US government has now spent more than $5tn on recovery efforts during the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56350463</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56350463</guid>
-            <pubDate>Wed, 10 Mar 2021 22:11:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christopher Steele: Urgent need for laws to stop foreign influence]]></title>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56355464</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56355464</guid>
             <pubDate>Thu, 11 Mar 2021 05:06:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surrogacy: 'My friend gave birth to the baby that could have killed me']]></title>
+            <description><![CDATA[Sophie Tristram has cystic fibrosis and was told pregnancy in her case could prove life-threatening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56338936</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56338936</guid>
+            <pubDate>Thu, 11 Mar 2021 06:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: The man with 'super antibodies']]></title>
