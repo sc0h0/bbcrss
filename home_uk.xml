@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Mar 2021 14:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 15:21:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,32 @@
             <pubDate>Thu, 11 Mar 2021 14:19:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Four more cases of Brazil variant found in England]]></title>
+            <description><![CDATA[Three cases of the P.1 variant are in South Gloucestershire and the fourth is in Bradford, West Yorkshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56364420</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56364420</guid>
+            <pubDate>Thu, 11 Mar 2021 14:53:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Oxford-AstraZeneca: Denmark suspends vaccine 'as a precaution']]></title>
-            <description><![CDATA[The decision follows a death and reports of blood clots, but the health minister says no link is established.]]></description>
+            <description><![CDATA[The decision comes as a precaution after a Danish death, but officials stress says no link is established.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56357760</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56357760</guid>
-            <pubDate>Thu, 11 Mar 2021 11:32:43 GMT</pubDate>
+            <pubDate>Thu, 11 Mar 2021 15:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 pandemic: France eases travel for UK and six other countries]]></title>
+            <description><![CDATA[A "compelling reason" is no longer needed to travel to and from the non-EU countries, officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56364290</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56364290</guid>
+            <pubDate>Thu, 11 Mar 2021 14:55:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: UK delays border checks on EU goods into Great Britain]]></title>
-            <description><![CDATA[The government says the move will allow firms to prepare and concentrate on recovering from Covid.]]></description>
+            <description><![CDATA[The government says the move will allow firms to prepare and concentrate on recovering from Covid-19.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56361229</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56361229</guid>
-            <pubDate>Thu, 11 Mar 2021 14:22:11 GMT</pubDate>
+            <pubDate>Thu, 11 Mar 2021 15:03:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Equalities minister Kemi Badenoch urged to quit over LGBT+ stance]]></title>
@@ -58,6 +72,13 @@
             <pubDate>Thu, 11 Mar 2021 14:35:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wembley deaths: Teenager denies murdering sisters in park]]></title>
+            <description><![CDATA[Nicole Smallman and Bibaa Henry were found stabbed to death in a park in Wembley last June.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56361782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56361782</guid>
+            <pubDate>Thu, 11 Mar 2021 14:33:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: NHS waits at record high as second wave hits care]]></title>
             <description><![CDATA[Scale of cancelled treatments is revealed with hospitals facing 'dire' backlog after Covid surge.]]></description>
             <link>https://www.bbc.co.uk/news/health-56360645</link>
@@ -65,11 +86,11 @@
             <pubDate>Thu, 11 Mar 2021 10:56:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[John Lewis warns of 'painful' store closures]]></title>
-            <description><![CDATA[The retail giant reports big losses and says it does not expect to reopen all of its shops post-lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56357412</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56357412</guid>
-            <pubDate>Thu, 11 Mar 2021 11:28:02 GMT</pubDate>
+            <title><![CDATA[Myanmar's military accuses Suu Kyi of taking $600,000 and gold]]></title>
+            <description><![CDATA[Myanmar's military alleges the overthrown leader took illegal payments, but gives no evidence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56327764</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56327764</guid>
+            <pubDate>Thu, 11 Mar 2021 15:06:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[English local elections: Starmer targets NHS pay in Labour launch]]></title>
@@ -79,25 +100,18 @@
             <pubDate>Thu, 11 Mar 2021 14:43:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Myanmar's military accuses Suu Kyi of taking $600,000 and gold]]></title>
-            <description><![CDATA[Myanmar's military alleges the overthrown leader took illegal payments, but gives no evidence.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56327764</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56327764</guid>
-            <pubDate>Thu, 11 Mar 2021 12:13:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parkinson's skin-swab test 'in sight']]></title>
-            <description><![CDATA[Checking for tell-tale compounds could help spot the degenerative brain condition, experts say.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56358257</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56358257</guid>
-            <pubDate>Thu, 11 Mar 2021 10:22:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Eurovision 2021: James Newman reveals Embers as UK song]]></title>
             <description><![CDATA[The singer will take 'fun and upbeat' track Embers to the Eurovision Song Contest in Rotterdam.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-56349129</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56349129</guid>
             <pubDate>Thu, 11 Mar 2021 11:16:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sinkholes appearing in Croatian village after earthquake]]></title>
+            <description><![CDATA[They've been appearing in unusually high numbers after an earthquake hit the region in December.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56359244</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56359244</guid>
+            <pubDate>Thu, 11 Mar 2021 14:18:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Hebrides' wild swimming 'real-life' mermaid]]></title>
@@ -107,18 +121,18 @@
             <pubDate>Thu, 11 Mar 2021 11:46:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Surrogacy: 'My friend gave birth to the baby that could have killed me']]></title>
-            <description><![CDATA[Sophie Tristram has cystic fibrosis and was told pregnancy in her case could prove life-threatening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56338936</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56338936</guid>
-            <pubDate>Thu, 11 Mar 2021 06:32:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Roblox: David Baszucki worth $4.6bn as shares soar]]></title>
             <description><![CDATA[First day's trading sees David Baszucki's firm now worth more than some of the biggest gaming firms.]]></description>
             <link>https://www.bbc.co.uk/news/technology-56359211</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56359211</guid>
             <pubDate>Thu, 11 Mar 2021 12:44:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surrogacy: 'My friend gave birth to the baby that could have killed me']]></title>
+            <description><![CDATA[Sophie Tristram has cystic fibrosis and was told pregnancy in her case could prove life-threatening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56338936</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56338936</guid>
+            <pubDate>Thu, 11 Mar 2021 06:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brit Awards: Griff, Pa Salieu and Rina Sawayama nominated for rising star prize]]></title>
@@ -226,6 +240,13 @@
             <pubDate>Wed, 10 Mar 2021 18:20:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Being gay in Ghana: LGBT community is ‘under attack’]]></title>
+            <description><![CDATA[Since the country’s first LGBT safe space was closed down by police, queer Ghanaians are "not safe".]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56325310</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56325310</guid>
+            <pubDate>Thu, 11 Mar 2021 01:12:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['I went from Hollywood glamour to food donations']]></title>
             <description><![CDATA[The Los Angeles awards season workers who have had to find new jobs.]]></description>
             <link>https://www.bbc.co.uk/news/business-56334012</link>
@@ -247,18 +268,18 @@
             <pubDate>Thu, 11 Mar 2021 01:22:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Being gay in Ghana: LGBT community is ‘under attack’]]></title>
-            <description><![CDATA[Since the country’s first LGBT safe space was closed down by police, queer Ghanaians are "not safe".]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-56325310</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56325310</guid>
-            <pubDate>Thu, 11 Mar 2021 01:12:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brexit: Why has UK trade with Germany fallen so dramatically?]]></title>
             <description><![CDATA[Official statistics show a huge drop in trade during the first month of the new EU-UK relationship.]]></description>
             <link>https://www.bbc.co.uk/news/56347096</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56347096</guid>
             <pubDate>Wed, 10 Mar 2021 15:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fiorentina 0-5 Man City (0-8 agg): Gareth Taylor's side sail into Women's Champions League quarter-finals]]></title>
+            <description><![CDATA[Manchester City ease into the Women's Champions League quarter-finals by sweeping aside Fiorentina 5-0 in their last-16 second leg.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56266292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56266292</guid>
+            <pubDate>Thu, 11 Mar 2021 15:03:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Malins to make first start for England against France in Six Nations]]></title>
