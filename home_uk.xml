@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Mar 2021 13:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 14:15:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,15 +37,8 @@
             <pubDate>Thu, 11 Mar 2021 13:34:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[John Lewis warns of 'painful' store closures]]></title>
-            <description><![CDATA[The retail giant reports big losses and says it does not expect to reopen all of its shops post-lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56357412</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56357412</guid>
-            <pubDate>Thu, 11 Mar 2021 11:28:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: NHS waits at record high as second wave hits care]]></title>
-            <description><![CDATA[The scale of cancelled treatments is revealed with hospitals facing 'dire' backlog after Covid surge.]]></description>
+            <description><![CDATA[Scale of cancelled treatments is revealed with hospitals facing 'dire' backlog after Covid surge.]]></description>
             <link>https://www.bbc.co.uk/news/health-56360645</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56360645</guid>
             <pubDate>Thu, 11 Mar 2021 10:56:26 GMT</pubDate>
@@ -58,6 +51,13 @@
             <pubDate>Thu, 11 Mar 2021 11:32:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[John Lewis warns of 'painful' store closures]]></title>
+            <description><![CDATA[The retail giant reports big losses and says it does not expect to reopen all of its shops post-lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56357412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56357412</guid>
+            <pubDate>Thu, 11 Mar 2021 11:28:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[English local elections: Starmer targets NHS pay in Labour launch]]></title>
             <description><![CDATA[Labour urges voters to back it in English local polls to support "a proper pay rise" for nurses.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56359771</link>
@@ -65,18 +65,18 @@
             <pubDate>Thu, 11 Mar 2021 12:27:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Parkinson's skin-swab test 'in sight']]></title>
-            <description><![CDATA[Checking for tell-tale compounds could help spot the degenerative brain condition, experts say.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56358257</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56358257</guid>
-            <pubDate>Thu, 11 Mar 2021 10:22:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Equalities minister Kemi Badenoch urged to quit over LGBT+ stance]]></title>
             <description><![CDATA[Kemi Badenoch is criticised by former adviser amid anger over delays to banning conversion therapy.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56362329</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56362329</guid>
             <pubDate>Thu, 11 Mar 2021 13:44:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parkinson's skin-swab test 'in sight']]></title>
+            <description><![CDATA[Checking for tell-tale compounds could help spot the degenerative brain condition, experts say.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56358257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56358257</guid>
+            <pubDate>Thu, 11 Mar 2021 10:22:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Myanmar's military accuses Suu Kyi of taking $600,000 and gold]]></title>
@@ -175,6 +175,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-somerset-56345521</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-56345521</guid>
             <pubDate>Wed, 10 Mar 2021 11:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Everard: Women react to the danger of walking alone]]></title>
+            <description><![CDATA[Women around the UK have reacted to the disappearance of Sarah Everard by sharing their stories.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56361529</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56361529</guid>
+            <pubDate>Thu, 11 Mar 2021 13:48:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Harry and Meghan: Where do they get their money?]]></title>
