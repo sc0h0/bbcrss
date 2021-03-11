@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Mar 2021 11:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 11:24:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,18 @@
             <pubDate>Thu, 11 Mar 2021 10:13:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cancer patients 'lack same protection' after first jab]]></title>
-            <description><![CDATA[A 12-week gap could leave those having two Pfizer jabs vulnerable to Covid-19, researchers suggest.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56351084</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56351084</guid>
-            <pubDate>Thu, 11 Mar 2021 06:45:17 GMT</pubDate>
+            <title><![CDATA[Covid-19: NHS waits at record high as second wave hits care]]></title>
+            <description><![CDATA[The scale of cancelled treatments is revealed with hospitals facing 'dire' backlog after Covid surge.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56360645</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56360645</guid>
+            <pubDate>Thu, 11 Mar 2021 10:56:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parkinson's skin-swab test 'in sight']]></title>
+            <description><![CDATA[Checking for tell-tale compounds could help spot the degenerative brain condition, experts say.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56358257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56358257</guid>
+            <pubDate>Thu, 11 Mar 2021 10:22:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Act now on LGBT+ conversion therapy, ministers urged]]></title>
@@ -55,7 +62,7 @@
             <description><![CDATA[The country records more than 2,000 Covid-related deaths in a single day for the first time.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-56355861</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56355861</guid>
-            <pubDate>Thu, 11 Mar 2021 08:14:38 GMT</pubDate>
+            <pubDate>Thu, 11 Mar 2021 11:21:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Japan's triple disaster 10 years on: The day ‘tomorrow didn’t come’]]></title>
@@ -72,18 +79,11 @@
             <pubDate>Thu, 11 Mar 2021 10:51:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Parkinson's skin-swab test 'in sight']]></title>
-            <description><![CDATA[Checking for tell-tale compounds could help spot the degenerative brain condition, experts say.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56358257</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56358257</guid>
-            <pubDate>Thu, 11 Mar 2021 10:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brit Awards: Griff, Pa Salieu and Rina Sawayama nominated for rising star prize]]></title>
-            <description><![CDATA[Griff, Pa Salieu and Rina Sawayama have all been nominated for the award, which recognises new talent.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56357609</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56357609</guid>
-            <pubDate>Thu, 11 Mar 2021 08:15:49 GMT</pubDate>
+            <title><![CDATA[Local elections: Labour promises to 'support our nurses']]></title>
+            <description><![CDATA[The party launches its local elections campaign, promising better NHS pay and "new leadership".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56359771</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56359771</guid>
+            <pubDate>Thu, 11 Mar 2021 11:12:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amol Rajan joins Radio 4's Today programme line-up]]></title>
@@ -100,11 +100,11 @@
             <pubDate>Thu, 11 Mar 2021 06:32:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The papers: Sarah Everard case and 'fury' over nurses' pay]]></title>
-            <description><![CDATA[Most of Wednesday's newspaper front pages lead on the latest developments in the Sarah Everard case.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56355464</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56355464</guid>
-            <pubDate>Thu, 11 Mar 2021 05:06:34 GMT</pubDate>
+            <title><![CDATA[Brit Awards: Griff, Pa Salieu and Rina Sawayama nominated for rising star prize]]></title>
+            <description><![CDATA[Griff, Pa Salieu and Rina Sawayama have all been nominated for the award, which recognises new talent.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56357609</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56357609</guid>
+            <pubDate>Thu, 11 Mar 2021 08:15:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wartime love letters discovered under Scarborough hotel floorboards]]></title>
@@ -126,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56324050</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56324050</guid>
             <pubDate>Thu, 11 Mar 2021 00:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The papers: Sarah Everard case and 'fury' over nurses' pay]]></title>
+            <description><![CDATA[Most of Wednesday's newspaper front pages lead on the latest developments in the Sarah Everard case.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56355464</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56355464</guid>
+            <pubDate>Thu, 11 Mar 2021 05:06:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kate Winslet hopeful Banksy art can transform Reading Prison]]></title>
@@ -177,6 +184,13 @@
             <pubDate>Wed, 10 Mar 2021 18:20:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Roblox: How the children's game became a $30bn bet on the Metaverse]]></title>
+            <description><![CDATA[The gaming company, which has just floated on Wall Street, has plans to inhabit a wider world.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56345586</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56345586</guid>
+            <pubDate>Wed, 10 Mar 2021 15:48:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['I went from Hollywood glamour to food donations']]></title>
             <description><![CDATA[The Los Angeles awards season workers who have had to find new jobs.]]></description>
             <link>https://www.bbc.co.uk/news/business-56334012</link>
@@ -205,18 +219,18 @@
             <pubDate>Thu, 11 Mar 2021 01:12:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Roblox: How the children's game became a $30bn bet on the Metaverse]]></title>
-            <description><![CDATA[The gaming company, which has just floated on Wall Street, has plans to inhabit a wider world.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56345586</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56345586</guid>
-            <pubDate>Wed, 10 Mar 2021 15:48:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brexit: Why has UK trade with Germany fallen so dramatically?]]></title>
             <description><![CDATA[Official statistics show a huge drop in trade during the first month of the new EU-UK relationship.]]></description>
             <link>https://www.bbc.co.uk/news/56347096</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56347096</guid>
             <pubDate>Wed, 10 Mar 2021 15:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malins to make first start for England against France in Six Nations]]></title>
+            <description><![CDATA[Max Malins will make his first start for England after being named at full-back for Saturday's Six Nations match with France at Twickenham.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56359986</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56359986</guid>
+            <pubDate>Thu, 11 Mar 2021 11:18:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['One of the best in the world' - why Fabinho's role is game-changer for Liverpool]]></title>
@@ -226,13 +240,6 @@
             <pubDate>Wed, 10 Mar 2021 23:49:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Koeman hopeful Barca's 'great future' persuades Messi to stay after PSG loss]]></title>
-            <description><![CDATA[Paris St-Germain held off a spirited Barcelona side to reach the quarter-finals of the Champions League with a 5-2 win on aggregate.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56335495</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56335495</guid>
-            <pubDate>Wed, 10 Mar 2021 23:57:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dual-code great Williams retires to focus on boxing career]]></title>
             <description><![CDATA[New Zealand's Sonny Bill Williams confirms his retirement from both rugby codes and says he is looking to restart his boxing career.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/56359051</link>
@@ -240,18 +247,18 @@
             <pubDate>Thu, 11 Mar 2021 10:29:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Koeman hopeful Barca's 'great future' persuades Messi to stay after PSG loss]]></title>
+            <description><![CDATA[Paris St-Germain held off a spirited Barcelona side to reach the quarter-finals of the Champions League with a 5-2 win on aggregate.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56335495</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56335495</guid>
+            <pubDate>Wed, 10 Mar 2021 23:57:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Private equity giants CVC completes deal for share in Six Nations]]></title>
             <description><![CDATA[Private equity giants CVC further strengthen their hand in rugby union by completing a £365m deal for a 14% share in the Six Nations.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56359501</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56359501</guid>
             <pubDate>Thu, 11 Mar 2021 10:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The last game before everything changed - through the eyes of the people there]]></title>
-            <description><![CDATA[One year on from Liverpool's loss to Atletico in front of a full house, BBC Sport speaks to those who were inside Anfield to find out what it was like.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56204409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56204409</guid>
-            <pubDate>Thu, 11 Mar 2021 06:12:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
