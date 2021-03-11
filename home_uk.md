@@ -1,7 +1,7 @@
 
     1. [Sarah Everard: Met officer questioned after remains found](https://www.bbc.co.uk/news/uk-england-london-56331950) - Thu, 11 Mar 2021 10:44:20 GMT - Human remains were discovered on Wednesday, a week after the 33-year-old vanished on her way home.
 1. [Sarah Everard vigil planned as women share concerns](https://www.bbc.co.uk/news/uk-56357796) - Thu, 11 Mar 2021 10:37:28 GMT - Organisers say it's wrong the response to violence against women requires them to behave differently.
-1. [John Lewis warns of 'painful' store closures](https://www.bbc.co.uk/news/business-56357412) - Thu, 11 Mar 2021 10:13:55 GMT - The retail giant reports big losses and says it does not expect to reopen all of its shops post-lockdown.
+1. [John Lewis warns of 'painful' store closures](https://www.bbc.co.uk/news/business-56357412) - Thu, 11 Mar 2021 11:28:02 GMT - The retail giant reports big losses and says it does not expect to reopen all of its shops post-lockdown.
 1. [Covid-19: NHS waits at record high as second wave hits care](https://www.bbc.co.uk/news/health-56360645) - Thu, 11 Mar 2021 10:56:26 GMT - The scale of cancelled treatments is revealed with hospitals facing 'dire' backlog after Covid surge.
 1. [Parkinson's skin-swab test 'in sight'](https://www.bbc.co.uk/news/health-56358257) - Thu, 11 Mar 2021 10:22:34 GMT - Checking for tell-tale compounds could help spot the degenerative brain condition, experts say.
 1. [Act now on LGBT+ conversion therapy, ministers urged](https://www.bbc.co.uk/news/uk-politics-56353313) - Thu, 11 Mar 2021 10:41:10 GMT - A string of advisers quit amid concerns ministers are not delivering on a pledge to ban the practice.
