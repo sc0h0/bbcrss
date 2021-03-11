@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Mar 2021 17:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 17:51:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Thu, 11 Mar 2021 15:38:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sarah Everard: Met officer questioned after remains found]]></title>
-            <description><![CDATA[Human remains were discovered on Wednesday, a week after the 33-year-old vanished on her way home.]]></description>
+            <title><![CDATA[Sarah Everard: Met officer held over missing woman taken to hospital]]></title>
+            <description><![CDATA[The Met says he suffered a head injury while in custody but has since returned to a police station.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56331950</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56331950</guid>
-            <pubDate>Thu, 11 Mar 2021 10:44:20 GMT</pubDate>
+            <pubDate>Thu, 11 Mar 2021 17:18:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jess Phillips lists UK women killed in last year]]></title>
@@ -37,11 +37,32 @@
             <pubDate>Thu, 11 Mar 2021 15:00:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Four more cases of Brazil variant in UK, and France eases travel rules]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56363091</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56363091</guid>
+            <pubDate>Thu, 11 Mar 2021 17:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Pointy-elbow' parents emailing teachers to boost grades]]></title>
+            <description><![CDATA[Head teachers warn of parents lobbying for higher grades in replacement exam system.]]></description>
+            <link>https://www.bbc.co.uk/news/education-56366197</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56366197</guid>
+            <pubDate>Thu, 11 Mar 2021 17:26:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Four more cases of Brazil variant found in England]]></title>
             <description><![CDATA[Three cases of the P.1 variant are in South Gloucestershire and the fourth is in Bradford, West Yorkshire.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56364420</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56364420</guid>
-            <pubDate>Thu, 11 Mar 2021 16:42:00 GMT</pubDate>
+            <pubDate>Thu, 11 Mar 2021 17:29:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oxford-AstraZeneca: EU regulator says 'no indication' vaccine linked to blood clots]]></title>
+            <description><![CDATA[The EU's medicines regulator reassures states after several countries suspend use of the vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56357760</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56357760</guid>
+            <pubDate>Thu, 11 Mar 2021 16:52:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 pandemic: France eases travel for UK and six other countries]]></title>
@@ -49,20 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56364290</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56364290</guid>
             <pubDate>Thu, 11 Mar 2021 14:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oxford-AstraZeneca: EU regulator says 'no indication' vaccine linked to blood clots]]></title>
-            <description><![CDATA[The EU's medicines regulator reassures states after several countries suspended use of the vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56357760</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56357760</guid>
-            <pubDate>Thu, 11 Mar 2021 16:52:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: No return to home-schooling for youngest pupils]]></title>
-            <description><![CDATA[A plan for children in primaries one to three to return to remote learning from 22 March is scrapped.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56353463</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56353463</guid>
-            <pubDate>Thu, 11 Mar 2021 16:05:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: UK delays border checks on EU goods into Great Britain]]></title>
@@ -86,18 +93,18 @@
             <pubDate>Thu, 11 Mar 2021 14:33:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Home Office tests web-spying powers with help of UK internet firms]]></title>
-            <description><![CDATA[A Home Office trial with two UK internet providers has logged user activity on websites.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56362170</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56362170</guid>
-            <pubDate>Thu, 11 Mar 2021 14:49:26 GMT</pubDate>
+            <title><![CDATA[Exchange email hack: Hundreds of UK firms compromised]]></title>
+            <description><![CDATA[Hackers linked to China have found footholds inside hundreds of companies after a mass hack.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56365372</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56365372</guid>
+            <pubDate>Thu, 11 Mar 2021 17:06:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[English local elections: Starmer targets NHS pay in Labour launch]]></title>
-            <description><![CDATA[Labour urges voters to back it in English local polls to support "a proper pay rise" for nurses.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56359771</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56359771</guid>
-            <pubDate>Thu, 11 Mar 2021 15:42:07 GMT</pubDate>
+            <title><![CDATA['Puppy scammers left me heartbroken']]></title>
+            <description><![CDATA[More than 6,000 people in the UK have been victims of pet scammers since the first lockdown a year ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56354154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56354154</guid>
+            <pubDate>Thu, 11 Mar 2021 17:17:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The digital artist who just netted a cool £50m]]></title>
@@ -342,7 +349,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Wed, 10 Mar 2021 16:58:58 GMT</pubDate>
+            <pubDate>Thu, 11 Mar 2021 17:17:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: When will pubs, hairdressers and gyms open?]]></title>
@@ -370,7 +377,7 @@
             <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
-            <pubDate>Wed, 10 Mar 2021 10:55:14 GMT</pubDate>
+            <pubDate>Thu, 11 Mar 2021 17:13:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the new rules for testing and hotel quarantine?]]></title>
