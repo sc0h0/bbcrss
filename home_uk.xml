@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Mar 2021 18:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 18:32:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Sarah Everard 'brought joy to our lives', says her family]]></title>
+            <description><![CDATA[A woman arrested on suspicion of assisting an offender has been released on bail, the Met has said.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56367223</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56367223</guid>
+            <pubDate>Thu, 11 Mar 2021 18:23:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meghan and Harry interview: Royal Family 'very much not racist' - William]]></title>
             <description><![CDATA[The Duke of Cambridge says he has yet to speak to his brother Prince Harry following the Oprah interview.]]></description>
@@ -23,18 +30,18 @@
             <pubDate>Thu, 11 Mar 2021 15:38:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Officer held in Sarah Everard case hurt in custody]]></title>
-            <description><![CDATA[The serving Met officer suffered a head injury while in custody but has since returned to a police station.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56331950</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56331950</guid>
-            <pubDate>Thu, 11 Mar 2021 17:57:20 GMT</pubDate>
+            <title><![CDATA[Jess Phillips: Society has 'just accepted' dead women]]></title>
+            <description><![CDATA[Jess Phillips reads a list of all women killed in UK over the past year, in Women's Day debate.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56365827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56365827</guid>
+            <pubDate>Thu, 11 Mar 2021 18:15:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jess Phillips lists UK women killed in last year]]></title>
-            <description><![CDATA[A Labour MP lists all women killed in the UK over the last year where a man has been convicted or charged.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56363752</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56363752</guid>
-            <pubDate>Thu, 11 Mar 2021 15:00:19 GMT</pubDate>
+            <title><![CDATA[Covid: UK Biobank scans aim to reveal health legacy]]></title>
+            <description><![CDATA[A major study by biomedical database UK Biobank will examine the long-term impacts of coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56352138</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56352138</guid>
+            <pubDate>Thu, 11 Mar 2021 17:40:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Four more cases of Brazil variant in UK, and France eases travel rules]]></title>
@@ -44,11 +51,18 @@
             <pubDate>Thu, 11 Mar 2021 17:25:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Pointy-elbow' parents emailing teachers to boost grades]]></title>
+            <title><![CDATA['Pointy-elbow' parents emailing teachers to boost exam grades]]></title>
             <description><![CDATA[Head teachers want protection for teachers from parents demanding higher grades in cancelled exams.]]></description>
             <link>https://www.bbc.co.uk/news/education-56366197</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56366197</guid>
-            <pubDate>Thu, 11 Mar 2021 17:26:58 GMT</pubDate>
+            <pubDate>Thu, 11 Mar 2021 18:29:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: Homeless people to be prioritised]]></title>
+            <description><![CDATA[Experts say the move reflects the heightened risks from coronavirus for people who are homeless.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56364339</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56364339</guid>
+            <pubDate>Thu, 11 Mar 2021 17:42:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Four more cases of Brazil variant found in England]]></title>
@@ -62,7 +76,7 @@
             <description><![CDATA[The EU's medicines regulator reassures states after several countries suspend use of the vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56357760</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56357760</guid>
-            <pubDate>Thu, 11 Mar 2021 18:00:21 GMT</pubDate>
+            <pubDate>Thu, 11 Mar 2021 18:30:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 pandemic: France eases travel for UK and six other countries]]></title>
@@ -72,25 +86,11 @@
             <pubDate>Thu, 11 Mar 2021 14:55:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: UK delays border checks on EU goods into Great Britain]]></title>
-            <description><![CDATA[Ministers say the move will help firms after Covid - but Labour says it "smacks of ill-preparedness".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56361229</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56361229</guid>
-            <pubDate>Thu, 11 Mar 2021 16:38:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Equalities minister Kemi Badenoch urged to quit over LGBT+ stance]]></title>
             <description><![CDATA[Kemi Badenoch is criticised by former adviser amid anger over delays to banning conversion therapy.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56362329</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56362329</guid>
             <pubDate>Thu, 11 Mar 2021 15:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wembley deaths: Teenager denies murdering sisters in park]]></title>
-            <description><![CDATA[Nicole Smallman and Bibaa Henry were found stabbed to death in a park in Wembley last June.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56361782</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56361782</guid>
-            <pubDate>Thu, 11 Mar 2021 14:33:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exchange email hack: Hundreds of UK firms compromised]]></title>
@@ -300,7 +300,7 @@
             <description><![CDATA[Darren Drysdale is free to officiate again after being given a backdated suspension for improper conduct.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56366031</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56366031</guid>
-            <pubDate>Thu, 11 Mar 2021 17:59:52 GMT</pubDate>
+            <pubDate>Thu, 11 Mar 2021 18:15:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Malins to make first start for England against France in Six Nations]]></title>
