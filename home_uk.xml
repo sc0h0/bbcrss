@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Mar 2021 20:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 21:16:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Fri, 12 Mar 2021 20:08:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[University of Manchester students pass vote of no confidence in boss]]></title>
+            <description><![CDATA[Critics say Dame Nancy Rothwell's position at the University of Manchester is "completely untenable".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-56379381</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56379381</guid>
+            <pubDate>Fri, 12 Mar 2021 20:52:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Queen marks British Science Week virtually]]></title>
             <description><![CDATA[During the virtual event the Queen was shown a meteorite that fell to Earth and classroom rockets.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-56380274</link>
@@ -79,25 +86,11 @@
             <pubDate>Fri, 12 Mar 2021 14:37:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boris Johnson visits Northern Ireland amid unionist tension]]></title>
-            <description><![CDATA[Sinn Féin snubs what it calls a "PR exercise" by Boris Johnson, while the DUP raises NI Protocol concerns.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56373901</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56373901</guid>
-            <pubDate>Fri, 12 Mar 2021 19:15:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Microsoft hack: 3,000 UK email servers remain unsecured]]></title>
             <description><![CDATA[The UK's National Cyber Security Centre warns that more than 3,000 servers have not been secured.]]></description>
             <link>https://www.bbc.co.uk/news/technology-56372188</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56372188</guid>
             <pubDate>Fri, 12 Mar 2021 17:53:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus infections levelling off in some of UK]]></title>
-            <description><![CDATA[The UK's latest R number - 0.6 to 0.8 - suggests the outbreak is still shrinking overall.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56374955</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56374955</guid>
-            <pubDate>Fri, 12 Mar 2021 16:16:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scientists unlock mysteries of world's oldest 'computer']]></title>
