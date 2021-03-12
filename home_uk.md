@@ -1,6 +1,6 @@
 
-    1. [Sarah Everard: Met Police officer charged with murder](https://www.bbc.co.uk/news/uk-england-london-56331948) - Fri, 12 Mar 2021 21:27:02 GMT - The 33-year-old marketing executive was last seen walking home alone in south London on 3 March.
-1. [Sarah Everard vigil organisers lose court challenge](https://www.bbc.co.uk/news/uk-56379248) - Fri, 12 Mar 2021 21:26:48 GMT - A High Court judge refuses to intervene in the action against the police ban on the event.
+    1. [Sarah Everard: Met Police officer charged with murder](https://www.bbc.co.uk/news/uk-england-london-56331948) - Fri, 12 Mar 2021 21:39:32 GMT - Wayne Couzens is accused of kidnapping and murdering the 33-year-old who was last seen in south London.
+1. [Sarah Everard vigil organisers lose court challenge](https://www.bbc.co.uk/news/uk-56379248) - Fri, 12 Mar 2021 21:39:14 GMT - A High Court judge refuses to intervene in the action against the police ban on the event.
 1. [Duchess of Sussex has complained to Ofcom over Piers Morgan comments](https://www.bbc.co.uk/news/entertainment-arts-56379830) - Fri, 12 Mar 2021 19:13:38 GMT - The broadcast regulator says she was among the 41,000 complainants about ITV's Good Morning Britain.
 1. [Minneapolis to pay murdered George Floyd family $27m](https://www.bbc.co.uk/news/world-us-canada-56381722) - Fri, 12 Mar 2021 20:39:13 GMT - The settlement comes as jury selection resumes for the murder trial of ex-officer Derek Chauvin
 1. [Shoreham sea deaths: Skipper David Marr jailed over trio's drowning](https://www.bbc.co.uk/news/uk-england-sussex-56377033) - Fri, 12 Mar 2021 18:22:00 GMT - David Marr sent a WhatsApp message a minute before his trawler swamped a boat, causing three deaths.
