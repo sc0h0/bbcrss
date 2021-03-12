@@ -1,6 +1,6 @@
 
     1. [Sarah Everard case: Met police faces watchdog investigation](https://www.bbc.co.uk/news/uk-56368531) - Fri, 12 Mar 2021 03:58:53 GMT - The police watchdog will examine the force's handling of an earlier indecent exposure allegation against the officer suspected of murdering her.
-1. [Lockdown in Wales: Hairdressers to reopen but retail remains closed](https://www.bbc.co.uk/news/uk-wales-56363367) - Fri, 12 Mar 2021 07:16:56 GMT - People will soon be able meet friends in their garden, visit care homes inside and play golf.
+1. [Lockdown in Wales: Hairdressers to reopen but retail remains closed](https://www.bbc.co.uk/news/uk-wales-56363367) - Fri, 12 Mar 2021 07:43:26 GMT - People will soon be able meet friends in their garden, visit care homes inside and play golf.
 1. [Relaxation of rules on outdoor meeting in Scotland](https://www.bbc.co.uk/news/uk-scotland-56364826) - Fri, 12 Mar 2021 06:17:59 GMT - Up to four adults from two different households are now able to meet up outside, including in gardens.
 1. [UK economy shrank 2.9% in January amid lockdown](https://www.bbc.co.uk/news/business-56370690) - Fri, 12 Mar 2021 07:22:50 GMT - Official figures show the UK's gross domestic product is 9% smaller than before the Covid pandemic.
 1. [Nazanin Zaghari-Ratcliffe needs mental health treatment, charity says](https://www.bbc.co.uk/news/uk-56362220) - Thu, 11 Mar 2021 22:19:46 GMT - The British-Iranian woman faces a new court hearing this weekend, following a five-year sentence.
