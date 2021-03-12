@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Mar 2021 11:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 12:22:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The Met is facing questions over its response to an alleged case of indecent exposure involving the 33-year-old's suspected killer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56368531</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56368531</guid>
-            <pubDate>Fri, 12 Mar 2021 11:10:50 GMT</pubDate>
+            <pubDate>Fri, 12 Mar 2021 12:06:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah Everard: Court challenge over Clapham vigil ban]]></title>
@@ -30,11 +30,18 @@
             <pubDate>Fri, 12 Mar 2021 11:47:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leon Briggs: Police and ambulance 'failures' in restraint death]]></title>
+            <description><![CDATA[Leon Briggs died after being restrained in the street by police under the Mental Health Act in 2013.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56339607</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56339607</guid>
+            <pubDate>Fri, 12 Mar 2021 12:19:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lockdown in Wales: Hairdressers to reopen but retail remains closed]]></title>
             <description><![CDATA[People will soon be able meet friends in their garden, visit care homes inside and play golf.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-56363367</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56363367</guid>
-            <pubDate>Fri, 12 Mar 2021 11:51:37 GMT</pubDate>
+            <pubDate>Fri, 12 Mar 2021 12:16:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former Team Sky doctor guilty of ordering testosterone]]></title>
@@ -62,7 +69,7 @@
             <description><![CDATA[Official figures show a sharp drop in trade in goods with the EU as the Brexit transition period ended.]]></description>
             <link>https://www.bbc.co.uk/news/business-56370690</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56370690</guid>
-            <pubDate>Fri, 12 Mar 2021 11:43:46 GMT</pubDate>
+            <pubDate>Fri, 12 Mar 2021 12:12:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cumbria coal mine: Public inquiry after government U-turn]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56364306</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56364306</guid>
             <pubDate>Fri, 12 Mar 2021 11:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nazanin Zaghari-Ratcliffe needs mental health treatment, charity says]]></title>
-            <description><![CDATA[The British-Iranian woman faces a new court hearing this weekend, following a five-year sentence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56362220</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56362220</guid>
-            <pubDate>Thu, 11 Mar 2021 22:19:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Weeknd 'will no longer submit music to Grammy Awards' after snub]]></title>
@@ -191,13 +191,6 @@
             <pubDate>Fri, 12 Mar 2021 06:33:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I play digital music through my 1949 radio']]></title>
-            <description><![CDATA[People share some of their collections of vintage technology and explain why it is still useful.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56252465</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56252465</guid>
-            <pubDate>Fri, 12 Mar 2021 00:00:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Top Gear trio on James Bond, mid-life crises and UK-only trips]]></title>
             <description><![CDATA[The BBC One series is returning with James Bond cars, mid-life crises and all-British locations.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56230566</link>
@@ -210,6 +203,13 @@
             <link>https://www.bbc.co.uk/news/56242358</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56242358</guid>
             <pubDate>Fri, 12 Mar 2021 02:03:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I play digital music through my 1949 radio']]></title>
+            <description><![CDATA[People share some of their collections of vintage technology and explain why it is still useful.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56252465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56252465</guid>
+            <pubDate>Fri, 12 Mar 2021 00:00:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kathleen Folbigg: Could science free Australian jailed for killing babies?]]></title>
@@ -254,7 +254,7 @@
             <pubDate>Fri, 12 Mar 2021 11:55:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chelsea to face Wolfsburg & Man City draw Barcelona in Champions League]]></title>
+            <title><![CDATA[Chelsea to face Wolfsburg & Man City draw Barcelona in Women's Champions League]]></title>
             <description><![CDATA[Chelsea will face Wolfsburg in the last eight of the Women's Champions League while Manchester City will play Barcelona.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56372920</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56372920</guid>
@@ -268,13 +268,6 @@
             <pubDate>Thu, 11 Mar 2021 22:40:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['He does everything' - Kane double sees Spurs put one foot in quarter-finals]]></title>
-            <description><![CDATA[Harry Kane scores twice as Tottenham put one foot in the Europa League quarter-finals with a clinical win against Dinamo Zagreb.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56351374</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56351374</guid>
-            <pubDate>Thu, 11 Mar 2021 22:56:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[France's game-changing nine with the world at his feet]]></title>
             <description><![CDATA[From England centurion Ben Youngs to World Cup winner Aaron Smith, everyone is talking about Antoine Dupont.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56364345</link>
@@ -282,18 +275,18 @@
             <pubDate>Fri, 12 Mar 2021 06:20:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Excitement of T20 series is enough to pause rotation debate']]></title>
-            <description><![CDATA[There are parts of England's rotation policy that are understandable and the action in the T20 series against India will be enough to pause the debate.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/56363463</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56363463</guid>
-            <pubDate>Thu, 11 Mar 2021 18:23:39 GMT</pubDate>
+            <title><![CDATA[Scottish government to decide on Old Firm derby next week]]></title>
+            <description><![CDATA[A final decision over whether the Old Firm match on 21 March will go ahead will take place "early next week", says the justice secretary.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56368144</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56368144</guid>
+            <pubDate>Fri, 12 Mar 2021 09:34:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[England has entered the first stage of its lockdown easing with millions of children back at school.]]></description>
+            <description><![CDATA[Wales and Scotland have announced the easing of restrictions on people meeting]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Thu, 11 Mar 2021 16:31:52 GMT</pubDate>
+            <pubDate>Fri, 12 Mar 2021 12:04:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What happens if I don't get the Covid vaccine?]]></title>
