@@ -1,5 +1,5 @@
 
-    1. [Sarah Everard: Confrontation with police at 'unsafe' vigil](https://www.bbc.co.uk/news/uk-56389824) - Sat, 13 Mar 2021 21:13:54 GMT - Police remove people gathered in Clapham to mourn the 33-year-old as others hold doorstep vigils.
+    1. [Sarah Everard: Police clash with women at Clapham vigil](https://www.bbc.co.uk/news/uk-56389824) - Sat, 13 Mar 2021 21:51:12 GMT - Police remove people gathered in Clapham to mourn the 33-year-old as others hold doorstep vigils.
 1. [Sarah Everard: Wayne Couzens appears in court charged with murder](https://www.bbc.co.uk/news/uk-england-london-56385657) - Sat, 13 Mar 2021 15:33:52 GMT - Wayne Couzens is charged with the kidnap and murder of the 33-year-old who disappeared in south London.
 1. [Murray Walker: Formula 1 broadcasting legend dies at 97](https://www.bbc.co.uk/sport/formula1/56388596) - Sat, 13 Mar 2021 21:09:14 GMT - Former Formula 1 commentator Murray Walker dies at the age of 97.
 1. [Bernardine Evaristo: Husband surprises Booker winner… with a book](https://www.bbc.co.uk/news/uk-56385395) - Sat, 13 Mar 2021 11:41:07 GMT - Author Bernardine Evaristo explains how her husband surprised her with a novel he'd secretly written.
