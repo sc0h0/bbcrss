@@ -1,6 +1,6 @@
 
     1. [Sarah Everard: Met PC Wayne Couzens charged with murder](https://www.bbc.co.uk/news/uk-england-london-56331948) - Sat, 13 Mar 2021 04:06:32 GMT - Wayne Couzens is accused of kidnapping and murdering the 33-year-old who was last seen in south London.
-1. [Sarah Everard vigil in south London cancelled](https://www.bbc.co.uk/news/uk-56384758) - Sat, 13 Mar 2021 07:41:47 GMT - The event had been planned on Clapham Common, near to where the 33-year-old was last seen alive.
+1. [Sarah Everard vigil in south London cancelled](https://www.bbc.co.uk/news/uk-56384758) - Sat, 13 Mar 2021 07:53:24 GMT - The event had been planned on Clapham Common, near to where the 33-year-old was last seen alive.
 1. [Covid-19 pandemic: Italy to shut shops and schools amid infection spike](https://www.bbc.co.uk/news/world-europe-56382608) - Sat, 13 Mar 2021 00:27:59 GMT - Shops, restaurants and schools will be closed across most of the country on Monday.
 1. [Covid-19: UK national day of reflection to be held on 23 March](https://www.bbc.co.uk/news/uk-56379232) - Sat, 13 Mar 2021 01:07:25 GMT - Politicians back a charity's plan to commemorate a year since the first national restrictions began.
 1. [Corinne Masiero: Actress protests naked at 'French Oscars' ceremony](https://www.bbc.co.uk/news/entertainment-arts-56382612) - Sat, 13 Mar 2021 02:31:46 GMT - Corinne Masiero sheds a donkey skin and bloodstained dress at a coronavirus-dominated César Awards.
