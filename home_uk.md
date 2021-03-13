@@ -1,6 +1,6 @@
 
-    1. [Sarah Everard: Wayne Couzens appears in court charged with murder](https://www.bbc.co.uk/news/uk-england-london-56385657) - Sat, 13 Mar 2021 11:17:16 GMT - Wayne Couzens is charged with the kidnap and murder of the 33-year-old who disappeared in south London.
-1. [Sarah Everard: Vigil for 33-year-old in south London cancelled](https://www.bbc.co.uk/news/uk-56384758) - Sat, 13 Mar 2021 10:39:07 GMT - It comes after a judge refused to intervene in a legal challenge over the right to protest during the pandemic.
+    1. [Sarah Everard: Wayne Couzens appears in court charged with murder](https://www.bbc.co.uk/news/uk-england-london-56385657) - Sat, 13 Mar 2021 11:36:13 GMT - Wayne Couzens is charged with the kidnap and murder of the 33-year-old who disappeared in south London.
+1. [Sarah Everard: Clapham event to be replaced with doorstep vigil](https://www.bbc.co.uk/news/uk-56384758) - Sat, 13 Mar 2021 11:40:07 GMT - Organisers urge people to stand on their doorsteps at 21:30 GMT to remember the 33-year-old.
 1. [Covid-19 pandemic: Italy to shut shops and schools amid infection spike](https://www.bbc.co.uk/news/world-europe-56382608) - Sat, 13 Mar 2021 10:56:41 GMT - Shops, restaurants and schools will be closed across most of the country on Monday.
 1. [Covid-19: Italy's 'new wave', and UK day of reflection](https://www.bbc.co.uk/news/uk-56384013) - Sat, 13 Mar 2021 08:05:30 GMT - Five things you need to know about the coronavirus pandemic this Saturday.
 1. [Covid-19: UK national day of reflection to be held on 23 March](https://www.bbc.co.uk/news/uk-56379232) - Sat, 13 Mar 2021 01:07:25 GMT - Politicians back a charity's plan to commemorate a year since the first national restrictions began.
