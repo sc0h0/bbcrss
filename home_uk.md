@@ -1,5 +1,5 @@
 
-    1. [Sarah Everard: Met PC Wayne Couzens charged with murder](https://www.bbc.co.uk/news/uk-england-london-56331948) - Fri, 12 Mar 2021 22:44:23 GMT - Wayne Couzens is accused of kidnapping and murdering the 33-year-old who was last seen in south London.
+    1. [Sarah Everard: Met PC Wayne Couzens charged with murder](https://www.bbc.co.uk/news/uk-england-london-56331948) - Sat, 13 Mar 2021 04:06:32 GMT - Wayne Couzens is accused of kidnapping and murdering the 33-year-old who was last seen in south London.
 1. [Sarah Everard vigil: Talks continue between organisers and police](https://www.bbc.co.uk/news/uk-56383870) - Sat, 13 Mar 2021 03:44:02 GMT - Organisers want to gather later in south London and across the UK to remember the 33-year-old.
 1. [Covid-19 pandemic: Italy to shut shops and schools amid infection spike](https://www.bbc.co.uk/news/world-europe-56382608) - Sat, 13 Mar 2021 00:27:59 GMT - Shops, restaurants and schools will be closed across most of the country on Monday.
 1. [Covid-19: UK national day of reflection to be held on 23 March](https://www.bbc.co.uk/news/uk-56379232) - Sat, 13 Mar 2021 01:07:25 GMT - Politicians back a charity's plan to commemorate a year since the first national restrictions began.
