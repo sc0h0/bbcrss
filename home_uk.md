@@ -1,6 +1,6 @@
 
     1. [Sarah Everard: Wayne Couzens appears in court charged with murder](https://www.bbc.co.uk/news/uk-england-london-56385657) - Sat, 13 Mar 2021 15:33:52 GMT - Wayne Couzens is charged with the kidnap and murder of the 33-year-old who disappeared in south London.
-1. [Sarah Everard: Gatherings across the UK to be replaced with doorstep vigils](https://www.bbc.co.uk/news/uk-56384758) - Sat, 13 Mar 2021 17:33:11 GMT - Organisers urge people to shine a light on their doorsteps at 21:30 GMT to remember the 33-year-old.
+1. [Sarah Everard: Gatherings across the UK to be replaced with doorstep vigils](https://www.bbc.co.uk/news/uk-56384758) - Sat, 13 Mar 2021 17:52:07 GMT - Organisers urge people to shine a light on their doorsteps at 21:30 GMT to remember the 33-year-old.
 1. [Covid-19 pandemic: Italy to shut shops and schools amid infection spike](https://www.bbc.co.uk/news/world-europe-56382608) - Sat, 13 Mar 2021 11:55:11 GMT - Most shops, restaurants and schools will be closed on Monday as Coronavirus infections rise.
 1. ['Mandalay was a massacre': Security forces fire at protests](https://www.bbc.co.uk/news/world-asia-56386348) - Sat, 13 Mar 2021 13:36:39 GMT - Myanmar has "all the hallmarks of a civil war... but only one side is armed", says Jonathan Head.
 1. ['Private remembrance' for Dunblane 25th anniversary](https://www.bbc.co.uk/news/uk-scotland-56386496) - Sat, 13 Mar 2021 14:09:59 GMT - Services in memory of the victims of the 1996 shooting are being held online due to Covid restrictions.
