@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Mar 2021 17:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 18:25:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Sarah Everard: Priti Patel calls for investigation of vigil policing]]></title>
-            <description><![CDATA[London's mayor also wants an independent investigation of police actions at the vigil for Sarah Everard.]]></description>
+            <description><![CDATA[The home secretary wants an independent investigation into the handling of a vigil for Sarah Everard.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56389824</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56389824</guid>
-            <pubDate>Sun, 14 Mar 2021 17:38:51 GMT</pubDate>
+            <pubDate>Sun, 14 Mar 2021 18:18:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nazanin Zaghari-Ratcliffe in Tehran court on new charge]]></title>
@@ -51,11 +51,11 @@
             <pubDate>Sun, 14 Mar 2021 13:41:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Ireland suspends use of Oxford-AstraZeneca vaccine]]></title>
-            <description><![CDATA[The minister for health says it is precautionary after reports of serious blood clotting events in Norway.]]></description>
+            <title><![CDATA[Covid-19: NI to keep using AstraZenica jab despite Irish suspension]]></title>
+            <description><![CDATA[The Republic of Ireland stops using the vaccine after reports of blood clotting in adults in Norway.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56391818</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56391818</guid>
-            <pubDate>Sun, 14 Mar 2021 17:12:09 GMT</pubDate>
+            <pubDate>Sun, 14 Mar 2021 18:21:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland hospitality urges lockdown levels rethink]]></title>
@@ -177,18 +177,11 @@
             <pubDate>Sun, 14 Mar 2021 01:14:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India v England: Virat Kohli & Ishan Kishan shine in second T20]]></title>
+            <title><![CDATA[India cruise to victory over sloppy England in second T20]]></title>
             <description><![CDATA[England suffer a chastening seven-wicket defeat by a resurgent India in the second Twenty20 in Ahmedabad.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/56394537</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56394537</guid>
             <pubDate>Sun, 14 Mar 2021 17:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kerr hat-trick fires Chelsea to League Cup final rout of Bristol City]]></title>
-            <description><![CDATA[Chelsea retain the Women's League Cup with a record-breaking final win over Bristol City at Vicarage Road.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56393876</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56393876</guid>
-            <pubDate>Sun, 14 Mar 2021 17:12:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Late Sexton penalty gives Ireland victory after Scotland fightback]]></title>
@@ -198,11 +191,18 @@
             <pubDate>Sun, 14 Mar 2021 17:10:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Nations 2021: Stuart Hogg and Finn Russell combine for a bizarre try for Scotland]]></title>
-            <description><![CDATA[Watch as Finn Russell edges Scotland into the lead after a try review after Stuart Hogg's charge-down causes havoc in the Irish back line at Murrayfield.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/56393735</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56393735</guid>
-            <pubDate>Sun, 14 Mar 2021 15:58:49 GMT</pubDate>
+            <title><![CDATA[Kerr hat-trick fires Chelsea to League Cup final rout of Bristol City]]></title>
+            <description><![CDATA[Chelsea retain the Women's League Cup with a record-breaking final win over Bristol City at Vicarage Road.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56393876</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56393876</guid>
+            <pubDate>Sun, 14 Mar 2021 18:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leicester City 5-0 Sheffield United: Kelechi Iheanacho scores hat-trick as Blades begin life after Chris Wilder with defeat]]></title>
+            <description><![CDATA[Kelechi Iheanacho scored a superb hat-trick against bottom club Sheffield United as Leicester City maintain their push for a top-four finish in the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56247534</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56247534</guid>
+            <pubDate>Sun, 14 Mar 2021 17:04:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
@@ -210,6 +210,13 @@
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
             <pubDate>Fri, 12 Mar 2021 12:57:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sun, 14 Mar 2021 17:30:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Vaccine passports': Will I need one for going out, work and travel?]]></title>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/news/explainers-52646738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
             <pubDate>Wed, 10 Mar 2021 16:44:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sun, 14 Mar 2021 17:30:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
