@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Mar 2021 04:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 04:52:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Sun, 14 Mar 2021 00:21:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Charities urge vulnerable people to book vaccines]]></title>
+            <description><![CDATA[People with underlying health conditions who have yet to get their jab are being encouraged to do so.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56390764</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56390764</guid>
+            <pubDate>Sun, 14 Mar 2021 04:27:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pandemic impact 'yet to be felt' on high streets]]></title>
             <description><![CDATA[An average of 48 outlets per day closed last year, but there may be worse to come.]]></description>
             <link>https://www.bbc.co.uk/news/business-56378667</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/sport/formula1/56388596</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56388596</guid>
             <pubDate>Sat, 13 Mar 2021 21:09:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Judge rules man with learning difficulties should be vaccinated]]></title>
-            <description><![CDATA[A judge says a man with learning difficulties should be vaccinated despite his family's objections.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-56379383</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56379383</guid>
-            <pubDate>Sat, 13 Mar 2021 19:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saving one of the world’s rarest toads from extinction]]></title>
@@ -184,7 +184,7 @@
             <pubDate>Sat, 13 Mar 2021 21:43:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The algorithm for the perfect biryani]]></title>
+            <title><![CDATA[Is there an algorithm for the perfect biryani?]]></title>
             <description><![CDATA[A new book argues that cooking, at its heart, is chemistry. And algorithms are the key to it.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56066970</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56066970</guid>
