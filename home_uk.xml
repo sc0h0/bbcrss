@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Mar 2021 06:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Mar 2021 06:46:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,6 +219,13 @@
             <pubDate>Sat, 13 Mar 2021 22:18:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Van Dijk and Gomez unlikely to be fit for Euros - Klopp]]></title>
+            <description><![CDATA[Liverpool manager Jurgen Klopp says it is unlikely centre-backs Virgil van Dijk and Joe Gomez will be fit for this summer's European Championship.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56388590</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56388590</guid>
+            <pubDate>Sat, 13 Mar 2021 22:35:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Match of the Day analysis: Why Burnley winger Dwight McNeil impressed Alan Shearer]]></title>
             <description><![CDATA[Alan Shearer analyses Dwight McNeil's performance against Everton and says the Burnley winger "probably won't score many better goals" than his stunning strike.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/56390248</link>
@@ -231,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/av/rugby-union/56389537</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56389537</guid>
             <pubDate>Sat, 13 Mar 2021 19:25:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wilfried Zaha has a right not to take a knee - Roy Hodgson]]></title>
-            <description><![CDATA[Crystal Palace manager Roy Hodgson says Wilfried Zaha has a right not to take a knee, after the forward said in February that he would no longer follow the initiative.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56389709</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56389709</guid>
-            <pubDate>Sat, 13 Mar 2021 20:55:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
@@ -415,8 +415,8 @@
             <pubDate>Fri, 12 Mar 2021 02:07:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Suffolk 'shipwreck find could be 'really rare']]></title>
-            <description><![CDATA[Wooden sections of boats were found at Covehithe, north of Southwold, and on Thorpeness beach.]]></description>
+            <title><![CDATA[Suffolk shipwreck find could be 'really rare']]></title>
+            <description><![CDATA[Wooden sections of boats are found at Covehithe and on Thorpeness beach.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-56199044</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-56199044</guid>
             <pubDate>Sun, 07 Mar 2021 07:59:54 GMT</pubDate>
