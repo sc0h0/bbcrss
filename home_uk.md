@@ -1,6 +1,6 @@
 
     1. [Covid-19: Continue using AstraZeneca vaccine, says WHO](https://www.bbc.co.uk/news/world-europe-56404542) - Mon, 15 Mar 2021 21:21:37 GMT - It says there is no evidence of a link to blood clots, as major EU countries pause use of the vaccine.
-1. [Sarah Everard vigil: Hundreds at central London event despite Priti Patel plea](https://www.bbc.co.uk/news/uk-56406965) - Mon, 15 Mar 2021 21:29:11 GMT - Home Secretary Priti Patel urged people not to take part in protests while Covid rules were in place.
+1. [Sarah Everard vigil: Hundreds at central London event despite Priti Patel plea](https://www.bbc.co.uk/news/uk-56406965) - Mon, 15 Mar 2021 22:02:20 GMT - Home Secretary Priti Patel urged people not to take part in protests while Covid rules were in place.
 1. [Covid-19: Protest warning, and more EU countries halt Oxford jabs](https://www.bbc.co.uk/news/uk-56405694) - Mon, 15 Mar 2021 17:40:34 GMT - Five things you need to know about the coronavirus pandemic this Monday evening.
 1. [Sarah Everard vigil: Woman 'was ignored by police' over exposure report](https://www.bbc.co.uk/news/uk-england-london-56409023) - Mon, 15 Mar 2021 19:05:28 GMT - Georgina Ashby was on her way home from the Sarah Everard vigil when she was confronted by a man.
 1. [Ministers frustrated with PM's 'mistakes' ahead of Covid second wave](https://www.bbc.co.uk/news/uk-politics-56406393) - Mon, 15 Mar 2021 17:00:17 GMT - Senior figures tell the BBC Boris Johnson should have been tougher in the autumn to prevent more deaths.
