@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Mar 2021 07:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 08:14:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Police officers handcuffed women and removed them from the gathering on Clapham Common on Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56396960</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56396960</guid>
-            <pubDate>Mon, 15 Mar 2021 07:04:48 GMT</pubDate>
+            <pubDate>Mon, 15 Mar 2021 07:52:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Australia March 4 Justice: Thousands march against sexual assault]]></title>
@@ -34,7 +34,7 @@
             <description><![CDATA[Police investigating the murder of Sarah Everard cordon off part of Sandwich, Kent.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56399057</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56399057</guid>
-            <pubDate>Mon, 15 Mar 2021 07:13:01 GMT</pubDate>
+            <pubDate>Mon, 15 Mar 2021 08:14:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grammys 2021: Beyoncé and Taylor Swift make history]]></title>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56391994</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56391994</guid>
             <pubDate>Mon, 15 Mar 2021 02:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Oxford-AstraZeneca jab 'not linked to clots' and hairdressers reopen in Wales]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56399097</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56399097</guid>
+            <pubDate>Mon, 15 Mar 2021 07:46:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Netherlands suspends use of AstraZeneca vaccine]]></title>
@@ -72,25 +79,18 @@
             <pubDate>Mon, 15 Mar 2021 00:00:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Oscars 2021: Nominations to be announced for Academy Awards]]></title>
+            <description><![CDATA[Carey Mulligan, Daniel Kaluuya and Frances McDormand are expected to be among the nominated actors.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56363640</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56363640</guid>
+            <pubDate>Mon, 15 Mar 2021 00:45:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Hospitality bosses threaten government with court]]></title>
             <description><![CDATA[They say it is unfair pubs will have to wait five weeks longer than non-essential retail to reopen indoors.]]></description>
             <link>https://www.bbc.co.uk/news/business-56397029</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56397029</guid>
             <pubDate>Mon, 15 Mar 2021 00:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank governor under fire for role in RBS scandal]]></title>
-            <description><![CDATA[Bank of England governor Andrew Bailey is accused of not disclosing a potential conflict of interest.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56395534</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56395534</guid>
-            <pubDate>Mon, 15 Mar 2021 00:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Cuomo: Biden declines to join calls for Cuomo to resign]]></title>
-            <description><![CDATA[The US president is awaiting the outcome of a misconduct probe into NY Governor Andrew Cuomo.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56397156</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56397156</guid>
-            <pubDate>Mon, 15 Mar 2021 01:42:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 pandemic: Trump urged to encourage supporters to get jabs]]></title>
@@ -100,11 +100,11 @@
             <pubDate>Mon, 15 Mar 2021 02:35:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oscars 2021: Nominations to be announced for Academy Awards]]></title>
-            <description><![CDATA[Carey Mulligan, Daniel Kaluuya and Frances McDormand are expected to be among the nominated actors.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56363640</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56363640</guid>
-            <pubDate>Mon, 15 Mar 2021 00:45:28 GMT</pubDate>
+            <title><![CDATA[Bank governor under fire for role in RBS scandal]]></title>
+            <description><![CDATA[Bank of England governor Andrew Bailey is accused of not disclosing a potential conflict of interest.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56395534</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56395534</guid>
+            <pubDate>Mon, 15 Mar 2021 00:08:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Shaming of the Met', and chief 'refuses to quit']]></title>
@@ -219,18 +219,18 @@
             <pubDate>Sun, 14 Mar 2021 23:11:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lions watch - Owens & Sexton shine, while England stars redeem themselves]]></title>
+            <description><![CDATA[England players redeem themselves, while Wales' Ken Owens and Ireland's Johnny Sexton impress as the 2021 British and Irish Lions tour draws closer.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56396029</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56396029</guid>
+            <pubDate>Mon, 15 Mar 2021 08:00:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Own goal helps Man Utd edge past West Ham]]></title>
             <description><![CDATA[Craig Dawson's own goal was the difference as Manchester United beat West Ham to boost their top-four hopes.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56247548</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56247548</guid>
             <pubDate>Sun, 14 Mar 2021 21:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Late Sexton penalty gives Ireland win after Scotland fightback - report & highlights]]></title>
-            <description><![CDATA[Johnny Sexton knocks over a late penalty as Ireland survive a surge from Scotland to eke out a hectic Six Nations victory at Murrayfield.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56366817</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56366817</guid>
-            <pubDate>Sun, 14 Mar 2021 17:10:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India cruise to victory over sloppy England in second T20]]></title>
