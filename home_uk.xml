@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Mar 2021 23:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Mar 2021 00:59:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,32 +23,46 @@
             <pubDate>Sun, 14 Mar 2021 22:30:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Miles of new bus lanes and more services promised]]></title>
+            <description><![CDATA[Ministers say a £3bn plan to upgrade England's bus networks will improve access and air quality.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56395526</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56395526</guid>
+            <pubDate>Mon, 15 Mar 2021 00:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Hospitality bosses threaten government with court]]></title>
+            <description><![CDATA[They say it is unfair pubs will have to wait five-weeks longer than non-essential retail to reopen indoors.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56397029</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56397029</guid>
+            <pubDate>Mon, 15 Mar 2021 00:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Psychedelic therapy could 'reset' depressed brain]]></title>
+            <description><![CDATA[A powerful hallucinogen used in shamanic rituals is being trialled as a potential depression cure.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56373202</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56373202</guid>
+            <pubDate>Mon, 15 Mar 2021 00:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harry Styles and Billie Eilish kick off the Grammys]]></title>
+            <description><![CDATA[The pop stars open up the 2021 ceremony, which is taking place in LA under Covid restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56397324</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56397324</guid>
+            <pubDate>Mon, 15 Mar 2021 00:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bank governor under fire for role in RBS scandal]]></title>
+            <description><![CDATA[Bank of England governor Andrew Bailey is accused of not disclosing a potential conflict of interest.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56395534</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56395534</guid>
+            <pubDate>Mon, 15 Mar 2021 00:08:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Merkel's party slumps to defeat in regional polls]]></title>
             <description><![CDATA[The Christian Democrats got a quarter of the vote in Baden-Württemberg and Rhineland-Palatinate.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56395672</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56395672</guid>
             <pubDate>Sun, 14 Mar 2021 21:24:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nazanin Zaghari-Ratcliffe in Tehran court on new charge]]></title>
-            <description><![CDATA[The British-Iranian woman faces new charges, a week after being freed from a five-year prison term.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56390394</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56390394</guid>
-            <pubDate>Sun, 14 Mar 2021 17:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grammys 2021: Early prizes go to Beyoncé, Lady Gaga and Billie Eilish]]></title>
-            <description><![CDATA[Beyoncé picks up her 26th Grammy, while Billie Eilish wins a prize for her Bond theme.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56397076</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56397076</guid>
-            <pubDate>Sun, 14 Mar 2021 23:28:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Dutch police break up anti-lockdown protest]]></title>
-            <description><![CDATA[Police used water cannon and mounted officers to clear anti-government demonstrators in The Hague.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56393820</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56393820</guid>
-            <pubDate>Sun, 14 Mar 2021 18:25:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Myanmar protests: Demonstrators killed in bloody Yangon crackdown]]></title>
@@ -58,7 +72,7 @@
             <pubDate>Sun, 14 Mar 2021 22:48:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lockdown locks gone as salons in Wales to reopen]]></title>
+            <title><![CDATA[Lockdown locks going as salons in Wales to reopen]]></title>
             <description><![CDATA[One salon owners says some of her clients burst into tears on being told they were reopening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-56379279</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56379279</guid>
@@ -79,18 +93,11 @@
             <pubDate>Sun, 14 Mar 2021 23:43:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Nations 2021: Ireland beat Scotland 27-24 via late Johnny Sexton penalty]]></title>
-            <description><![CDATA[Johnny Sexton knocks over a late penalty as Ireland survive a surge from Scotland to eke out a hectic Six Nations victory at Murrayfield.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56366817</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56366817</guid>
-            <pubDate>Sun, 14 Mar 2021 17:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sixteen in hospital as Isle of Man Covid cases pass 800]]></title>
-            <description><![CDATA[It marks highest number of hospital admissions during the currrent outbreak as new cases rise by 44.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-isle-of-man-56389071</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-isle-of-man-56389071</guid>
-            <pubDate>Sun, 14 Mar 2021 18:25:45 GMT</pubDate>
+            <title><![CDATA[Oscars 2021: Nominations to be announced for Academy Awards]]></title>
+            <description><![CDATA[Carey Mulligan, Daniel Kaluuya and Frances McDormand are expected to be among the nominated actors.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56363640</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56363640</guid>
+            <pubDate>Mon, 15 Mar 2021 00:45:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Shaming of the Met', and chief 'refuses to quit']]></title>
@@ -205,6 +212,13 @@
             <pubDate>Sun, 14 Mar 2021 23:11:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Late Sexton penalty gives Ireland win after Scotland fightback - report & highlights]]></title>
+            <description><![CDATA[Johnny Sexton knocks over a late penalty as Ireland survive a surge from Scotland to eke out a hectic Six Nations victory at Murrayfield.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56366817</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56366817</guid>
+            <pubDate>Sun, 14 Mar 2021 17:10:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[India cruise to victory over sloppy England in second T20]]></title>
             <description><![CDATA[England suffer a chastening seven-wicket defeat by a resurgent India in the second Twenty20 in Ahmedabad.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/56394537</link>
@@ -224,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/56397013</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56397013</guid>
             <pubDate>Sun, 14 Mar 2021 23:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six Nations 2021: Scotland 24-27 Ireland highlights]]></title>
-            <description><![CDATA[Watch highlights of Ireland's win against Scotland as a late Johnny Sexton penalty seals their 27-24 victory at Murrayfield.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/56395460</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56395460</guid>
-            <pubDate>Sun, 14 Mar 2021 17:59:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
