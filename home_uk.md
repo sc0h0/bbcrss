@@ -1,8 +1,8 @@
 
-    1. [Sarah Everard vigil: Women must feel 'properly heard', says PM](https://www.bbc.co.uk/news/uk-56403282) - Mon, 15 Mar 2021 14:23:50 GMT - It is "fundamental" women feel listened to when they report violence or assault, Boris Johnson says.
-1. [Sarah Everard killing: Police search Sandwich town centre](https://www.bbc.co.uk/news/uk-england-london-56399057) - Mon, 15 Mar 2021 14:49:43 GMT - Police investigating the death of the 33-year-old cordon off part of Sandwich, Kent.
+    1. [Sarah Everard vigil: Women must feel 'properly heard', says PM](https://www.bbc.co.uk/news/uk-56403282) - Mon, 15 Mar 2021 15:40:24 GMT - It is "fundamental" women feel listened to when they report violence or assault, Boris Johnson says.
+1. [Sarah Everard killing: Police search Sandwich town centre](https://www.bbc.co.uk/news/uk-england-london-56399057) - Mon, 15 Mar 2021 15:49:30 GMT - Police investigating the death of the 33-year-old cordon off part of Sandwich, Kent.
 1. [Covid-19: 'No evidence' of AstraZeneca jab problems, says WHO](https://www.bbc.co.uk/news/world-europe-56404542) - Mon, 15 Mar 2021 15:11:33 GMT - The world health body says it is vital that vaccination campaigns continue, so lives can be saved.
-1. [Oscars nominations 2021: Brits, diversity and female directors rewarded](https://www.bbc.co.uk/news/entertainment-arts-56363640) - Mon, 15 Mar 2021 14:48:24 GMT - It is also a record year for diversity in the acting nominations and for female directors.
+1. [Oscars nominations 2021: Brits, diversity and female directors rewarded](https://www.bbc.co.uk/news/entertainment-arts-56363640) - Mon, 15 Mar 2021 15:33:10 GMT - It is also a record year for diversity in the acting nominations and for female directors.
 1. [Apocalyptic skies as Beijing hit by worst sandstorm in a decade](https://www.bbc.co.uk/news/world-asia-china-56399267) - Mon, 15 Mar 2021 09:30:12 GMT - Strong winds blowing in from Mongolia have shrouded the Chinese capital in dust.
 1. [Rape prosecutions: Court of Appeal says change to CPS guidance was not unlawful](https://www.bbc.co.uk/news/uk-56402068) - Mon, 15 Mar 2021 14:06:53 GMT - Campaigners had argued changes in approach made by the Crown Prosecution Service were "unlawful".
 1. [Cost of living: Hand gel in, white chocolate out](https://www.bbc.co.uk/news/business-56395533) - Mon, 15 Mar 2021 13:28:09 GMT - Loungewear and smart watches are other commonly bought goods now used to measure changes in the cost of living.
@@ -63,4 +63,5 @@
 1. [Coronavirus: What are the care home visiting rules in England?](https://www.bbc.co.uk/news/explainers-53503712) - Mon, 08 Mar 2021 13:36:44 GMT - New guidance gives hope to relatives wanting to visit care homes.
 1. [How could children make up for lost school time?](https://www.bbc.co.uk/news/explainers-55938837) - Mon, 08 Mar 2021 08:59:21 GMT - A massive task lies ahead for schools as they try to make up for teaching time lost during the pandemic.
 1. [Coronavirus, schools and children - what are the risks?](https://www.bbc.co.uk/news/health-52003804) - Sun, 07 Mar 2021 16:25:05 GMT - How much do children contribute to the spread of Covid?
+1. [The art dealer, the £10m Benin Bronze and the Holocaust](https://www.bbc.co.uk/news/world-africa-56292809) - Sun, 14 Mar 2021 00:59:23 GMT - Western museums are under pressure to return looted treasure, but what of those in private collections?
 
