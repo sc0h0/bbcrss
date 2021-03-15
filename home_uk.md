@@ -1,6 +1,6 @@
 
     1. [Sarah Everard: Boris Johnson 'deeply concerned' by vigil footage](https://www.bbc.co.uk/news/uk-56396960) - Mon, 15 Mar 2021 02:36:14 GMT - Boris Johnson will chair a meeting of the crime and justice taskforce to discuss how to protect women.
-1. [Australia March 4 Justice: Women in nationwide protests against sexual assault](https://www.bbc.co.uk/news/world-australia-56397170) - Mon, 15 Mar 2021 01:27:57 GMT - The marches follow a backlash to the government's response to sexual assault allegations in politics.
+1. [Australia March 4 Justice: Thousands march against sexual assault](https://www.bbc.co.uk/news/world-australia-56397170) - Mon, 15 Mar 2021 03:26:32 GMT - The wave of protests follow a backlash to the government's response to sexual assault allegations.
 1. [Johnson: Defence reforms 'will help make UK match-fit'](https://www.bbc.co.uk/news/uk-politics-56391994) - Mon, 15 Mar 2021 02:16:50 GMT - Boris Johnson promises more investment and jobs ahead of his long-awaited update on the military.
 1. [Covid-19: Hospitality bosses threaten government with court](https://www.bbc.co.uk/news/business-56397029) - Mon, 15 Mar 2021 00:41:27 GMT - They say it is unfair pubs will have to wait five-weeks longer than non-essential retail to reopen indoors.
 1. [Covid-19: Netherlands suspend use of AstraZeneca vaccine](https://www.bbc.co.uk/news/world-europe-56397157) - Mon, 15 Mar 2021 02:48:22 GMT - It is the latest nation to act over reports of blood clotting but the WHO says it is safe.
