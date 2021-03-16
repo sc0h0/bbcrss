@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Mar 2021 17:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 18:00:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Tue, 16 Mar 2021 15:32:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Scotland and Northern Ireland announce timetables out of lockdown]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56417054</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56417054</guid>
+            <pubDate>Tue, 16 Mar 2021 17:18:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AstraZeneca vaccine: EU regulator 'firmly convinced' benefits outweigh risks]]></title>
             <description><![CDATA[The bloc's regulator reiterates its support for the vaccine after some countries suspended its use.]]></description>
             <link>https://www.bbc.co.uk/news/health-56411561</link>
@@ -65,18 +72,18 @@
             <pubDate>Tue, 16 Mar 2021 14:28:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[School attendance back at high levels in England]]></title>
-            <description><![CDATA[First official figures show school return has been "smooth" so far, with pupils back in the classroom.]]></description>
-            <link>https://www.bbc.co.uk/news/education-56417954</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56417954</guid>
-            <pubDate>Tue, 16 Mar 2021 14:57:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Run-down' Penally asylum camp to close on 21 March]]></title>
             <description><![CDATA[Inspectors branded the Pembrokeshire site "unsuitable" and asylum seekers said it was a Covid risk.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-56418361</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-56418361</guid>
             <pubDate>Tue, 16 Mar 2021 16:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: St Patrick's Day 'must be different', warns Foster]]></title>
+            <description><![CDATA[Northern Ireland's first minister issues a plea as she announces key changes to coronavirus restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56404333</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56404333</guid>
+            <pubDate>Tue, 16 Mar 2021 17:42:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Antony Gormley objects to Aldeburgh beach sculptures]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56413896</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56413896</guid>
             <pubDate>Tue, 16 Mar 2021 17:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yaphet Kotto: James Bond villain and Alien actor dies at 81]]></title>
-            <description><![CDATA[The actor played Dr Kananga in Live and Let Die, and was also a crew member in Alien.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56412867</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56412867</guid>
-            <pubDate>Tue, 16 Mar 2021 10:59:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Meghan and Harry interview felt familiar to biracial people]]></title>
@@ -275,11 +275,11 @@
             <pubDate>Tue, 16 Mar 2021 17:17:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Southampton striker Adams in Scotland squad for World Cup qualifiers]]></title>
-            <description><![CDATA[Southampton striker Che Adams is called up to Steve Clarke's Scotland squad for this month's World Cup qualifiers.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56412965</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56412965</guid>
-            <pubDate>Tue, 16 Mar 2021 12:37:46 GMT</pubDate>
+            <title><![CDATA[Injured England goalkeeper Pickford to miss World Cup qualifiers]]></title>
+            <description><![CDATA[Everton goalkeeper Jordan Pickford will miss England's three World Cup qualifiers this month after sustaining an abdominal muscle injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56418650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56418650</guid>
+            <pubDate>Tue, 16 Mar 2021 17:45:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lions & Ireland forward Stander to retire at end of season]]></title>
@@ -391,7 +391,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Tue, 16 Mar 2021 10:34:21 GMT</pubDate>
+            <pubDate>Tue, 16 Mar 2021 17:55:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
@@ -426,7 +426,7 @@
             <description><![CDATA[More cases are being found in the UK, including a variant first seen in Brazil.]]></description>
             <link>https://www.bbc.co.uk/news/health-55659820</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
-            <pubDate>Thu, 11 Mar 2021 14:33:58 GMT</pubDate>
+            <pubDate>Tue, 16 Mar 2021 17:54:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
