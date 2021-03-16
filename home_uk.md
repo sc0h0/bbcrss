@@ -1,5 +1,5 @@
 
-    1. [Prince Philip: Duke of Edinburgh leaves hospital after a month](https://www.bbc.co.uk/news/uk-56413762) - Tue, 16 Mar 2021 11:34:15 GMT - The 99-year-old Duke of Edinburgh returns to Windsor Castle after recovering from a heart procedure.
+    1. [Prince Philip: Duke of Edinburgh leaves hospital after a month](https://www.bbc.co.uk/news/uk-56413762) - Tue, 16 Mar 2021 11:56:45 GMT - The 99-year-old Duke of Edinburgh returns to Windsor Castle following a successful heart procedure.
 1. [Sarah Everard: Met Police officer Wayne Couzens in court](https://www.bbc.co.uk/news/uk-england-london-56404030) - Tue, 16 Mar 2021 11:15:43 GMT - Wayne Couzens appears at the Old Bailey accused of murdering and kidnapping the 33-year-old.
 1. [UK to shift foreign policy focus following review](https://www.bbc.co.uk/news/uk-56410532) - Tue, 16 Mar 2021 09:57:37 GMT - The reassessment of security and defence also paves the way for the UK to increase stocks of nuclear weapons.
 1. [New safety measures after Sarah Everard death](https://www.bbc.co.uk/news/uk-56410943) - Tue, 16 Mar 2021 10:26:53 GMT - Moves include a pilot scheme to put plain-clothes police in clubs and extra funding for lighting.
