@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Mar 2021 18:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 18:48:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-56416538</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56416538</guid>
             <pubDate>Tue, 16 Mar 2021 18:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AstraZeneca vaccine: Europe divided over suspensions as investigation continues]]></title>
+            <description><![CDATA[While some countries seek further clarification on the vaccine's safety, others are pushing ahead.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56412784</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56412784</guid>
+            <pubDate>Tue, 16 Mar 2021 18:35:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: Duke of Edinburgh leaves hospital after a month]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-56417054</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56417054</guid>
             <pubDate>Tue, 16 Mar 2021 18:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AstraZeneca vaccine: Europe divided over suspensions as investigation continues]]></title>
-            <description><![CDATA[While some countries seek further clarification on the vaccine's safety, others are pushing ahead.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56412784</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56412784</guid>
-            <pubDate>Tue, 16 Mar 2021 18:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah Everard: Trial date set for murder accused PC Wayne Couzens]]></title>
@@ -101,7 +101,7 @@
         </item>
         <item>
             <title><![CDATA[Lions at Denver Zoo frolic in the snow after historic blizzard]]></title>
-            <description><![CDATA[These cats enjoyed the record snowfall that hit Colorado over the weekend.]]></description>
+            <description><![CDATA[These cool cats enjoyed the record snowfall that hit Colorado over the weekend.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56420398</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56420398</guid>
             <pubDate>Tue, 16 Mar 2021 18:06:09 GMT</pubDate>
