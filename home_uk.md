@@ -1,5 +1,4 @@
-
-    1. [UK to shift foreign policy focus following review](https://www.bbc.co.uk/news/uk-56410532) - Tue, 16 Mar 2021 09:57:37 GMT - The reassessment of security and defence also paves the way for the UK to increase stocks of nuclear weapons.
+1. [UK to shift foreign policy focus following review](https://www.bbc.co.uk/news/uk-56410532) - Tue, 16 Mar 2021 09:57:37 GMT - The reassessment of security and defence also paves the way for the UK to increase stocks of nuclear weapons.
 1. [New safety measures after Sarah Everard death](https://www.bbc.co.uk/news/uk-56410943) - Tue, 16 Mar 2021 09:48:54 GMT - Moves include a pilot scheme to put plain-clothes police in clubs and extra funding for lighting.
 1. [AstraZeneca vaccine: Safety experts to review jab](https://www.bbc.co.uk/news/health-56411561) - Tue, 16 Mar 2021 09:50:15 GMT - Several European countries have suspended use of the vaccination as a precautionary measure.
 1. [Mozambique insurgency: Militants beheading children, aid agency reports](https://www.bbc.co.uk/news/world-africa-56411157) - Tue, 16 Mar 2021 08:07:08 GMT - Save the Children says Islamist militants in Cabo Delgado have killed children as young as 11.
