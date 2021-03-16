@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Mar 2021 10:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 10:55:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Prince Philip: Duke of Edinburgh leaves hospital after a month]]></title>
+            <description><![CDATA[The 99-year-old Duke of Edinburgh had been recovering after a successful heart procedure on 3 March.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56413762</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56413762</guid>
+            <pubDate>Tue, 16 Mar 2021 10:53:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK to shift foreign policy focus following review]]></title>
             <description><![CDATA[The reassessment of security and defence also paves the way for the UK to increase stocks of nuclear weapons.]]></description>
@@ -23,11 +30,11 @@
             <pubDate>Tue, 16 Mar 2021 09:57:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Philip: Duke of Edinburgh leaves hospital after a month]]></title>
-            <description><![CDATA[The Duke of Edinburgh underwent a successful heart procedure on 3 March.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56413762</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56413762</guid>
-            <pubDate>Tue, 16 Mar 2021 10:43:45 GMT</pubDate>
+            <title><![CDATA[Sarah Everard: Met Police officer Wayne Couzens in court]]></title>
+            <description><![CDATA[Wayne Couzens appears at the Old Bailey accused of murdering and kidnapping the 33-year-old.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56404030</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56404030</guid>
+            <pubDate>Tue, 16 Mar 2021 10:50:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New safety measures after Sarah Everard death]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/uk-56410943</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56410943</guid>
             <pubDate>Tue, 16 Mar 2021 10:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sarah Everard: Met Police officer Wayne Couzens in court]]></title>
-            <description><![CDATA[Wayne Couzens appears at the Old Bailey accused of murdering and kidnapping the 33-year-old.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56404030</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56404030</guid>
-            <pubDate>Tue, 16 Mar 2021 10:41:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AstraZeneca vaccine: Safety experts to review jab]]></title>
@@ -91,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-56401707</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56401707</guid>
             <pubDate>Tue, 16 Mar 2021 06:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Online abuse: 'I found out my husband had indecent images']]></title>
-            <description><![CDATA[People are urged to look out for signs family members are viewing illegal images online.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56404743</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56404743</guid>
-            <pubDate>Tue, 16 Mar 2021 06:08:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Meghan and Harry interview felt familiar to biracial people]]></title>
@@ -296,6 +289,20 @@
             <pubDate>Tue, 16 Mar 2021 07:30:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
+            <description><![CDATA[The Oxford-AstraZeneca vaccines should save many lives, say experts.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55302595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
+            <pubDate>Tue, 16 Mar 2021 10:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the new rules for testing and hotel quarantine?]]></title>
+            <description><![CDATA[Travellers going to and from the UK face a growing number of restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Tue, 16 Mar 2021 10:19:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[When will pubs, gyms and hairdressers open?]]></title>
             <description><![CDATA[Lockdown is being eased in England. When will places like hairdressers, pubs and gyms open?]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53349989</link>
@@ -329,13 +336,6 @@
             <link>https://www.bbc.co.uk/news/explainers-52135342</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
             <pubDate>Wed, 03 Mar 2021 14:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
-            <description><![CDATA[The Oxford-AstraZeneca vaccines should save many lives, say experts.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55302595</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
-            <pubDate>Tue, 16 Mar 2021 10:34:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
@@ -448,13 +448,6 @@
             <link>https://www.bbc.co.uk/news/health-55045639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
             <pubDate>Thu, 04 Mar 2021 09:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the new rules for testing and hotel quarantine?]]></title>
-            <description><![CDATA[Travellers going to and from the UK face a growing number of restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Tue, 16 Mar 2021 10:19:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus testing: How to do a lateral flow test at home]]></title>
