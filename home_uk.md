@@ -4,7 +4,7 @@
 1. [AstraZeneca vaccine: Safety experts to review jab](https://www.bbc.co.uk/news/health-56411561) - Tue, 16 Mar 2021 07:08:57 GMT - Eleven European countries have suspended use of the vaccination over concerns about side effects.
 1. [Mozambique insurgency: Militants beheading children, aid agency reports](https://www.bbc.co.uk/news/world-africa-56411157) - Tue, 16 Mar 2021 08:07:08 GMT - Save the Children says Islamist militants in Cabo Delgado have killed children as young as 11.
 1. [Covid-19: Safety review into AstraZeneca jab and inside No 10's battle with Covid](https://www.bbc.co.uk/news/uk-56412233) - Tue, 16 Mar 2021 07:40:54 GMT - Five things you need to know about the coronavirus pandemic this Tuesday morning.
-1. [Greggs to open shops despite first loss in 36 years ](https://www.bbc.co.uk/news/business-56381137) - Tue, 16 Mar 2021 08:11:15 GMT - The bakery chain is confident of long-term recovery despite sales being hit amid the pandemic
+1. [Greggs to open shops despite first loss in 36 years](https://www.bbc.co.uk/news/business-56381137) - Tue, 16 Mar 2021 09:12:13 GMT - The bakery chain is confident of long-term recovery despite sales being hit amid the pandemic
 1. [Sarah Everard: Met Police officer Wayne Couzens due at Old Bailey](https://www.bbc.co.uk/news/uk-england-london-56404030) - Tue, 16 Mar 2021 06:14:42 GMT - PC Wayne Couzens is to appear at the Old Bailey accused of murdering and kidnapping the 33-year-old.
 1. [New children's commissioner pledges to 'rebuild' childhood](https://www.bbc.co.uk/news/education-56408643) - Tue, 16 Mar 2021 00:04:30 GMT - Dame Rachel de Souza wants help for children after the pandemic to be like post-war reconstruction.
 1. [North Korea: Kim Jong-un's sister warns US not to 'cause a stink'](https://www.bbc.co.uk/news/world-asia-56410625) - Tue, 16 Mar 2021 02:19:30 GMT - Influential figure Kim Yo-jong accuses Washington of trying to "spread the smell of gunpowder".
@@ -66,5 +66,5 @@
 1. [Coronavirus: What are the rules for face masks or face coverings?](https://www.bbc.co.uk/news/health-51205344) - Mon, 08 Mar 2021 17:38:08 GMT - As the UK cautiously unlocks, experts will review the evidence on when and where masks are needed.
 1. [How could children make up for lost school time?](https://www.bbc.co.uk/news/explainers-55938837) - Mon, 08 Mar 2021 08:59:21 GMT - A massive task lies ahead for schools as they try to make up for teaching time lost during the pandemic.
 1. [Coronavirus, schools and children - what are the risks?](https://www.bbc.co.uk/news/health-52003804) - Sun, 07 Mar 2021 16:25:05 GMT - How much do children contribute to the spread of Covid?
-1. [The art dealer, the £10m Benin Bronze and the Holocaust](https://www.bbc.co.uk/news/world-africa-56292809) - Sun, 14 Mar 2021 00:59:23 GMT - Western museums are under pressure to return looted treasure, but what of those in private collections?
+1. [Who truly was the most dishonest president?](https://www.bbc.co.uk/news/world-us-canada-56246507) - Sun, 07 Mar 2021 00:20:22 GMT - Past US presidents have left a legacy of untruths ranging from the bizarre to the horrifying.
 
