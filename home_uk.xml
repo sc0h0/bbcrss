@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Mar 2021 08:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 08:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,11 +58,11 @@
             <pubDate>Tue, 16 Mar 2021 08:11:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[North Korea: Kim Jong-un's sister warns US not to 'cause a stink']]></title>
-            <description><![CDATA[Influential figure Kim Yo-jong accuses Washington of trying to "spread the smell of gunpowder".]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56410625</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56410625</guid>
-            <pubDate>Tue, 16 Mar 2021 02:19:30 GMT</pubDate>
+            <title><![CDATA[Sarah Everard: Met Police officer Wayne Couzens due at Old Bailey]]></title>
+            <description><![CDATA[PC Wayne Couzens is to appear at the Old Bailey accused of murdering and kidnapping the 33-year-old.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56404030</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56404030</guid>
+            <pubDate>Tue, 16 Mar 2021 06:14:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New children's commissioner pledges to 'rebuild' childhood]]></title>
@@ -72,11 +72,11 @@
             <pubDate>Tue, 16 Mar 2021 00:04:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sarah Everard: Met PC removed from duties over 'inappropriate graphic']]></title>
-            <description><![CDATA[The probationary officer had been deployed to Kent in the search operation for Sarah Everard.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56409029</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56409029</guid>
-            <pubDate>Mon, 15 Mar 2021 20:17:05 GMT</pubDate>
+            <title><![CDATA[North Korea: Kim Jong-un's sister warns US not to 'cause a stink']]></title>
+            <description><![CDATA[Influential figure Kim Yo-jong accuses Washington of trying to "spread the smell of gunpowder".]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56410625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56410625</guid>
+            <pubDate>Tue, 16 Mar 2021 02:19:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sturgeon to set out dates for easing Scotland's lockdown rules]]></title>
@@ -289,13 +289,6 @@
             <pubDate>Tue, 16 Mar 2021 07:30:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Does the Oxford vaccine have a blood clot problem? And other questions]]></title>
-            <description><![CDATA[We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
-            <pubDate>Mon, 15 Mar 2021 15:02:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[When will pubs, gyms and hairdressers open?]]></title>
             <description><![CDATA[Lockdown is being eased in England. When will places like hairdressers, pubs and gyms open?]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53349989</link>
@@ -308,6 +301,13 @@
             <link>https://www.bbc.co.uk/news/world-51235105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Mon, 15 Mar 2021 11:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Fri, 12 Mar 2021 12:57:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the care home rules in England?]]></title>
@@ -345,6 +345,13 @@
             <pubDate>Wed, 10 Mar 2021 11:13:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Does the Oxford vaccine have a blood clot problem? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Mon, 15 Mar 2021 15:02:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
@@ -364,13 +371,6 @@
             <link>https://www.bbc.co.uk/news/world-56237778</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56237778</guid>
             <pubDate>Mon, 15 Mar 2021 12:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
-            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-54373904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
-            <pubDate>Fri, 12 Mar 2021 12:57:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How do we know Covid vaccines are safe?]]></title>
