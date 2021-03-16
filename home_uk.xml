@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Mar 2021 10:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Mar 2021 10:45:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Tue, 16 Mar 2021 09:57:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Prince Philip: Duke of Edinburgh leaves hospital after a month]]></title>
+            <description><![CDATA[The Duke of Edinburgh underwent a successful heart procedure on 3 March.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56413762</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56413762</guid>
+            <pubDate>Tue, 16 Mar 2021 10:43:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New safety measures after Sarah Everard death]]></title>
             <description><![CDATA[Moves include a pilot scheme to put plain-clothes police in clubs and extra funding for lighting.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56410943</link>
@@ -30,11 +37,11 @@
             <pubDate>Tue, 16 Mar 2021 10:26:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sarah Everard: Met Police officer Wayne Couzens in Old Bailey]]></title>
-            <description><![CDATA[Wayne Couzens is appearing at the Old Bailey accused of murdering and kidnapping the 33-year-old.]]></description>
+            <title><![CDATA[Sarah Everard: Met Police officer Wayne Couzens in court]]></title>
+            <description><![CDATA[Wayne Couzens appears at the Old Bailey accused of murdering and kidnapping the 33-year-old.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56404030</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56404030</guid>
-            <pubDate>Tue, 16 Mar 2021 10:03:11 GMT</pubDate>
+            <pubDate>Tue, 16 Mar 2021 10:41:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AstraZeneca vaccine: Safety experts to review jab]]></title>
@@ -62,7 +69,7 @@
             <description><![CDATA[All remaining pupils could be back in class by 12 April, under a plan approved by Stormont ministers.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56404333</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56404333</guid>
-            <pubDate>Tue, 16 Mar 2021 10:12:43 GMT</pubDate>
+            <pubDate>Tue, 16 Mar 2021 10:34:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New children's commissioner pledges to 'rebuild' childhood]]></title>
@@ -240,11 +247,18 @@
             <pubDate>Mon, 15 Mar 2021 00:40:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lions & Ireland forward Stander to retire at end of season]]></title>
+            <description><![CDATA[Ireland and Munster back row CJ Stander announces that he will retire from rugby at the end of this season.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56413483</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56413483</guid>
+            <pubDate>Tue, 16 Mar 2021 10:28:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[WXV: 'Landmark' global women's rugby union competition launched]]></title>
             <description><![CDATA[A "landmark" global women's rugby union competition is launched by the sport's international governing body.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56413651</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56413651</guid>
-            <pubDate>Tue, 16 Mar 2021 10:06:46 GMT</pubDate>
+            <pubDate>Tue, 16 Mar 2021 10:37:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jota scores Liverpool winner but Wolves' Patricio carried off]]></title>
@@ -280,13 +294,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/56402525</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56402525</guid>
             <pubDate>Tue, 16 Mar 2021 07:30:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England's remaining three T20s against India to be behind closed doors]]></title>
-            <description><![CDATA[England's remaining three Twenty20 internationals against India in Ahmedabad will be played behind closed doors because of rising coronavirus cases in the state of Gujarat.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/56400859</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56400859</guid>
-            <pubDate>Mon, 15 Mar 2021 17:59:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When will pubs, gyms and hairdressers open?]]></title>
@@ -328,7 +335,7 @@
             <description><![CDATA[The Oxford-AstraZeneca vaccines should save many lives, say experts.]]></description>
             <link>https://www.bbc.co.uk/news/health-55302595</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
-            <pubDate>Mon, 15 Mar 2021 10:27:38 GMT</pubDate>
+            <pubDate>Tue, 16 Mar 2021 10:34:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
@@ -356,7 +363,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 15 Mar 2021 17:47:12 GMT</pubDate>
+            <pubDate>Tue, 16 Mar 2021 10:34:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
@@ -377,7 +384,7 @@
             <description><![CDATA[Busting myths and explaining the facts around vaccines.]]></description>
             <link>https://www.bbc.co.uk/news/health-55056016</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55056016</guid>
-            <pubDate>Mon, 15 Mar 2021 10:03:24 GMT</pubDate>
+            <pubDate>Tue, 16 Mar 2021 10:39:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Vaccine passports': Will I need one for going out, work and travel?]]></title>
