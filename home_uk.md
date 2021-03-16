@@ -1,7 +1,7 @@
 
-    1. [Covid-19: Continue using AstraZeneca vaccine, says WHO](https://www.bbc.co.uk/news/world-europe-56404542) - Mon, 15 Mar 2021 21:21:37 GMT - It says there is no evidence of a link to blood clots, as major EU countries pause use of the vaccine.
+    1. [AstraZeneca vaccine: Safety experts to review jab](https://www.bbc.co.uk/news/health-56411561) - Tue, 16 Mar 2021 05:58:38 GMT - Eleven European countries have suspended use of the vaccination over concerns about side effects.
 1. [Post-Brexit UK to reshape its foreign policy](https://www.bbc.co.uk/news/uk-56410532) - Tue, 16 Mar 2021 02:46:21 GMT - A focus on the Indo-Pacific region and a White House-style situation room are part of the strategy.
-1. [New safety measures in wake of Sarah Everard death](https://www.bbc.co.uk/news/uk-56410943) - Tue, 16 Mar 2021 05:16:40 GMT - Moves include a pilot scheme to put plain-clothes police in clubs and extra funding for lighting.
+1. [New safety measures after Sarah Everard death](https://www.bbc.co.uk/news/uk-56410943) - Tue, 16 Mar 2021 05:16:40 GMT - Moves include a pilot scheme to put plain-clothes police in clubs and extra funding for lighting.
 1. [North Korea: Kim Jong-un's sister warns US not to 'cause a stink'](https://www.bbc.co.uk/news/world-asia-56410625) - Tue, 16 Mar 2021 02:19:30 GMT - Influential figure Kim Yo-jong accuses Washington of trying to "spread the smell of gunpowder".
 1. [Covid: Charities warn cancer death rate could rise](https://www.bbc.co.uk/news/newsbeat-56362264) - Tue, 16 Mar 2021 00:03:46 GMT - Nearly 50 cancer charities send a stark warning about the impact Covid-19 has had on UK cancer care.
 1. [Sarah Everard: Met PC removed from duties over 'inappropriate graphic'](https://www.bbc.co.uk/news/uk-england-london-56409029) - Mon, 15 Mar 2021 20:17:05 GMT - The probationary officer had been deployed to Kent in the search operation for Sarah Everard.
