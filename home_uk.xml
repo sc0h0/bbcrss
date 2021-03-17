@@ -11,13 +11,20 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Mar 2021 13:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 13:27:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
+            <title><![CDATA[Football's child sex abuse scandal: Sheldon review finds 'institutional failings']]></title>
+            <description><![CDATA[A long-awaited report into football's historical child sex abuse scandal finds "institutional failings" at the Football Association between 1995 and 2000 left some children unsafe.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56418652</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56418652</guid>
+            <pubDate>Wed, 17 Mar 2021 13:26:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: People aged 50-54 invited for jab in England]]></title>
-            <description><![CDATA[This is the final group on the priority list, which covers 99% at high risk of dying from Covid-19.]]></description>
+            <description><![CDATA[The England rollout comes as figures show nearly half of UK adults have had one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-56428464</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56428464</guid>
             <pubDate>Wed, 17 Mar 2021 12:47:30 GMT</pubDate>
@@ -58,13 +65,6 @@
             <pubDate>Wed, 17 Mar 2021 10:51:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uber 'willing to change' as drivers get minimum wage, holiday pay and pensions]]></title>
-            <description><![CDATA[It comes after a court ruling on driver status and could have consequences across the gig economy.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56412397</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56412397</guid>
-            <pubDate>Wed, 17 Mar 2021 11:14:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Syria: The scars left by a school bombing]]></title>
             <description><![CDATA[BBC cameraman Darren Conway has returned to Syria to meet survivors of the Iqra school bombing, the aftermath of which he filmed in 2013.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-56407836</link>
@@ -101,7 +101,7 @@
         </item>
         <item>
             <title><![CDATA[Michaela Coel's 'electrifying' I May Destroy You wins at RTS Awards]]></title>
-            <description><![CDATA[Michaela Coel's drama wins three Royal Television Society Programme Awards.]]></description>
+            <description><![CDATA[Michaela Coel's acclaimed drama is among the shows honoured by the Royal Television Society.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56427339</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56427339</guid>
             <pubDate>Wed, 17 Mar 2021 11:52:15 GMT</pubDate>
@@ -247,13 +247,6 @@
             <pubDate>Tue, 16 Mar 2021 00:03:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Child sex abuse report finds FA's 'significant institutional failings' left some children unsafe]]></title>
-            <description><![CDATA[A long-awaited report into football's historical child sex abuse scandal finds "institutional failings" at the Football Association between 1995 and 2000 left some children unsafe.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56418652</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56418652</guid>
-            <pubDate>Wed, 17 Mar 2021 13:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Life after Lewandowski - why Bayern could dominate Europe for years]]></title>
             <description><![CDATA[As Bayern Munich prepare for life without some of their key players, we look at why the European champions are already one step ahead of the game.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56417314</link>
@@ -266,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/golf/56426064</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56426064</guid>
             <pubDate>Wed, 17 Mar 2021 07:16:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rory Best: 'On and off the pitch, CJ Stander has always put team over self']]></title>
+            <description><![CDATA[CJ Stander's retirement will be felt as heavily off the field as it will on it, says his former international captain Rory Best]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56407829</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56407829</guid>
+            <pubDate>Wed, 17 Mar 2021 12:21:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England's Pitman on the 'stigma' of miscarriage]]></title>
