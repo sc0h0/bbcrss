@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Mar 2021 14:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 14:37:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,13 +58,6 @@
             <pubDate>Wed, 17 Mar 2021 14:09:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Weddings on hold again after 'confusion' over rules]]></title>
-            <description><![CDATA[Some events planned for April and May will have to wait after the government clarifies roadmap rules.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56429914</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56429914</guid>
-            <pubDate>Wed, 17 Mar 2021 12:52:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ex-police chief would think 'very carefully' about reporting crime]]></title>
             <description><![CDATA[A former chief constable says women reporting crimes endure "endless repeated humiliation".]]></description>
             <link>https://www.bbc.co.uk/news/uk-56427167</link>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-56407836</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56407836</guid>
             <pubDate>Wed, 17 Mar 2021 00:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nicola Sturgeon 'refutes' MP's claims about Alex Salmond row]]></title>
+            <description><![CDATA[The first minister says claims by David Davis are "the latest instalment in Alex Salmond's conspiracy theory".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56429469</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56429469</guid>
+            <pubDate>Wed, 17 Mar 2021 13:51:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sharon Osbourne 'may not return to US talk show' as race row escalates]]></title>
@@ -177,6 +177,13 @@
             <pubDate>Tue, 16 Mar 2021 00:09:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Europe: Vaccine suspension hits rollout as cases rise]]></title>
+            <description><![CDATA[As several countries pause the AstraZeneca jab, six reporters explain what is happening across Europe.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56415249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56415249</guid>
+            <pubDate>Wed, 17 Mar 2021 13:40:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cheltenham Festival: 'I gambled £50,000 on a horse and lost everything']]></title>
             <description><![CDATA[A former teacher and cricketer is talking about his gambling addiction to help warn others.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-56251835</link>
@@ -254,6 +261,13 @@
             <pubDate>Tue, 16 Mar 2021 00:03:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Curry is a special, special player - he could be another McCaw']]></title>
+            <description><![CDATA[England flanker Tom Curry could develop into a player to match All Black great Richie McCaw, says forwards coach Matt Proudfoot.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56431244</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56431244</guid>
+            <pubDate>Wed, 17 Mar 2021 14:05:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Life after Lewandowski - why Bayern could dominate Europe for years]]></title>
             <description><![CDATA[As Bayern Munich prepare for life without some of their key players, we look at why the European champions are already one step ahead of the game.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56417314</link>
@@ -268,13 +282,6 @@
             <pubDate>Wed, 17 Mar 2021 12:21:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rory Best: 'On and off the pitch, CJ Stander has always put team over self']]></title>
-            <description><![CDATA[CJ Stander's retirement will be felt as heavily off the field as it will on it, says his former international captain Rory Best]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56407829</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56407829</guid>
-            <pubDate>Wed, 17 Mar 2021 12:21:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['I'll work on getting stronger every day' - Woods returns home after crash]]></title>
             <description><![CDATA[Tiger Woods says he will work on "getting stronger every day" as he returns home from hospital after a serious car crash.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/56426064</link>
@@ -282,11 +289,25 @@
             <pubDate>Wed, 17 Mar 2021 07:16:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England's Pitman on the 'stigma' of miscarriage]]></title>
+            <description><![CDATA[England international Chelsea Pitman says it is time to "start a conversation" about miscarriage.]]></description>
+            <link>https://www.bbc.co.uk/sport/netball/56412272</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/netball/56412272</guid>
+            <pubDate>Wed, 17 Mar 2021 06:09:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
             <description><![CDATA[Wales and Scotland have announced the easing of restrictions on people meeting]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
             <pubDate>Tue, 16 Mar 2021 16:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
+            <description><![CDATA[Over 50s are the latest group to be invited to book their Covid vaccine as the rollout continues.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Wed, 17 Mar 2021 11:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will children return to school and what are the rules?]]></title>
@@ -405,7 +426,7 @@
             <description><![CDATA[A growing number of travel companies are insisting that passengers will need to be vaccinated to travel.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Wed, 17 Mar 2021 09:30:41 GMT</pubDate>
+            <pubDate>Wed, 17 Mar 2021 14:12:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the Brazil, South Africa and UK variants and will vaccines work?]]></title>
@@ -441,13 +462,6 @@
             <link>https://www.bbc.co.uk/news/explainers-54872039</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54872039</guid>
             <pubDate>Wed, 10 Mar 2021 17:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
-            <description><![CDATA[Over 50s are the latest group to be invited to book their Covid vaccine as the rollout continues.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55045639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Wed, 17 Mar 2021 11:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus testing: How to do a lateral flow test at home]]></title>
