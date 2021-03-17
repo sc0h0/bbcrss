@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Mar 2021 06:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 06:49:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Wed, 17 Mar 2021 05:52:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Crime: Thieves, robbers and burglars to be fitted with GPS tags]]></title>
+            <description><![CDATA[Police will be able to cross-reference data with crime reports to see if offenders were in the area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56418004</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56418004</guid>
+            <pubDate>Wed, 17 Mar 2021 06:04:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Oxford-AstraZeneca Covid jab safe, insists Hancock]]></title>
             <description><![CDATA[People should "get the jab", the health secretary says, after some countries suspend its use.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56420666</link>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-56407836</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56407836</guid>
             <pubDate>Wed, 17 Mar 2021 00:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crime: Thieves, robbers and burglars to be fitted with GPS tags]]></title>
-            <description><![CDATA[Police will be able to cross-reference data with crime reports to see if offenders were in the area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56418004</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56418004</guid>
-            <pubDate>Wed, 17 Mar 2021 06:04:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Regent honeyeater: Endangered bird 'has forgotten its song']]></title>
@@ -72,11 +72,25 @@
             <pubDate>Wed, 17 Mar 2021 00:15:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Salmond complaints were 'encouraged', claims Tory MP]]></title>
+            <description><![CDATA[Former minister David Davis uses parliamentary privilege to make the allegation during a House of Commons debate.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56422589</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56422589</guid>
+            <pubDate>Tue, 16 Mar 2021 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus exposed 'much larger' rough sleeping issue, says committee]]></title>
             <description><![CDATA[MPs praise the government's Everyone In scheme, but say it "exposed the scale of the task" at hand.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56420687</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56420687</guid>
             <pubDate>Wed, 17 Mar 2021 00:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump tells Republican supporters to get vaccinated]]></title>
+            <description><![CDATA[Many pro-Trump Republicans have expressed reluctance to take up the offer of a Covid-19 jab.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56424614</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56424614</guid>
+            <pubDate>Wed, 17 Mar 2021 02:12:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Catch-up tuition not helping poorest pupils, says NAO]]></title>
@@ -91,20 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56423716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56423716</guid>
             <pubDate>Wed, 17 Mar 2021 01:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Salmond complaints were 'encouraged', claims Tory MP]]></title>
-            <description><![CDATA[Former minister David Davis uses parliamentary privilege to make the allegation during a House of Commons debate.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56422589</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56422589</guid>
-            <pubDate>Tue, 16 Mar 2021 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ATM withdrawals drop by £37bn during year of Covid]]></title>
-            <description><![CDATA[The number of trips to cash machines has fallen by 43%, but the amount withdrawn on each visit has risen.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56413993</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56413993</guid>
-            <pubDate>Wed, 17 Mar 2021 00:16:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: PM attacked on China and Duke leaves hospital]]></title>
@@ -317,18 +317,18 @@
             <pubDate>Tue, 16 Mar 2021 17:32:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lionel Messi leads La Liga top five goals of the week]]></title>
-            <description><![CDATA[Lionel Messi's fabulous finish for Barcelona against Huesca comes in at number one as BBC Sport looks at the top five goals in La Liga this week.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56422947</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56422947</guid>
-            <pubDate>Wed, 17 Mar 2021 06:11:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Council rejects naming street after ex-England coach Lloyd]]></title>
             <description><![CDATA[Accrington Cricket Club wants a new road to be named after former England batsman David Lloyd.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-56408889</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-56408889</guid>
             <pubDate>Tue, 16 Mar 2021 18:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lionel Messi leads La Liga top five goals of the week]]></title>
+            <description><![CDATA[Lionel Messi's fabulous finish for Barcelona against Huesca comes in at number one as BBC Sport looks at the top five goals in La Liga this week.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56422947</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56422947</guid>
+            <pubDate>Wed, 17 Mar 2021 06:11:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
