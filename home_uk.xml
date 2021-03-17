@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Mar 2021 05:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 05:33:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,7 +24,7 @@
         </item>
         <item>
             <title><![CDATA[Atlanta shootings: Asian women among eight killed at three spas]]></title>
-            <description><![CDATA[The attacks around Atlanta, Georgia, come amid a surge in hate crime directed at Asian-Americans.]]></description>
+            <description><![CDATA[The attacks around Atlanta, Georgia, come amid a surge in hate crimes directed at Asian-Americans.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56424616</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56424616</guid>
             <pubDate>Wed, 17 Mar 2021 05:15:00 GMT</pubDate>
@@ -100,11 +100,11 @@
             <pubDate>Tue, 16 Mar 2021 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['More divisive than Brexit' - The battle over LTNs]]></title>
-            <description><![CDATA[The schemes were introduced to tackle increasing traffic on minor roads but some face fierce opposition.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56419277</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56419277</guid>
-            <pubDate>Wed, 17 Mar 2021 00:39:45 GMT</pubDate>
+            <title><![CDATA[ATM withdrawals drop by £37bn during year of Covid]]></title>
+            <description><![CDATA[The number of trips to cash machines has fallen by 43%, but the amount withdrawn on each visit has risen.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56413993</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56413993</guid>
+            <pubDate>Wed, 17 Mar 2021 00:16:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: PM attacked on China and Duke leaves hospital]]></title>
@@ -119,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56420717</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56420717</guid>
             <pubDate>Wed, 17 Mar 2021 00:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['More divisive than Brexit' - The battle over LTNs]]></title>
+            <description><![CDATA[The schemes were introduced to tackle increasing traffic on minor roads but some face fierce opposition.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56419277</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56419277</guid>
+            <pubDate>Wed, 17 Mar 2021 00:39:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['The Gospel Truth?' Covid-19 vaccines and the danger of religious misinformation]]></title>
