@@ -1,5 +1,5 @@
 
-    1. [Uber to pay drivers a minimum wage, holiday pay and pensions](https://www.bbc.co.uk/news/business-56412397) - Wed, 17 Mar 2021 03:00:19 GMT - Taxi app's decision follows court ruling that drivers should be classed as workers, not self-employed.
+    1. [Uber to pay drivers a minimum wage, holiday pay and pensions](https://www.bbc.co.uk/news/business-56412397) - Wed, 17 Mar 2021 03:00:19 GMT - It comes after a court ruling on driver status and could have consequences across the gig economy.
 1. [Russia's Putin authorised pro-Trump 'influence' campaign, US intelligence says](https://www.bbc.co.uk/news/world-us-canada-56423536) - Tue, 16 Mar 2021 22:50:51 GMT - A US intelligence report alleges Russia's president approved efforts to influence the 2020 election.
 1. [Oxford-AstraZeneca Covid jab safe, insists Hancock](https://www.bbc.co.uk/news/uk-56420666) - Wed, 17 Mar 2021 00:37:11 GMT - People should "get the jab", the health secretary says, after some countries suspend its use.
 1. [Syria: The scars left by a school bombing](https://www.bbc.co.uk/news/world-middle-east-56407836) - Wed, 17 Mar 2021 00:00:29 GMT - BBC cameraman Darren Conway has returned to Syria to meet survivors of the Iqra school bombing, the aftermath of which he filmed in 2013.
