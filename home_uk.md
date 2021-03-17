@@ -1,6 +1,6 @@
 
-    1. [Uber to pay drivers a minimum wage, holiday pay and pensions](https://www.bbc.co.uk/news/business-56412397) - Wed, 17 Mar 2021 09:27:36 GMT - It comes after a court ruling on driver status and could have consequences across the gig economy.
-1. [Stuart Lubbock: Murder arrest over death in Michael Barrymore pool](https://www.bbc.co.uk/news/uk-england-essex-56427710) - Wed, 17 Mar 2021 09:47:19 GMT - The man is being held after the death of Stuart Lubbock at the presenter's home in 2001.
+    1. [Stuart Lubbock: Murder arrest over death in Michael Barrymore pool](https://www.bbc.co.uk/news/uk-england-essex-56427710) - Wed, 17 Mar 2021 09:54:57 GMT - The man is being held after the death of Stuart Lubbock at the presenter's home in 2001.
+1. [Uber 'willing to change' as drivers get minimum wage, holiday pay and pensions](https://www.bbc.co.uk/news/business-56412397) - Wed, 17 Mar 2021 09:55:10 GMT - It comes after a court ruling on driver status and could have consequences across the gig economy.
 1. [Atlanta shootings: Asian women among eight killed at three spas](https://www.bbc.co.uk/news/world-us-canada-56424616) - Wed, 17 Mar 2021 07:56:30 GMT - The attacks around Atlanta, Georgia, come amid a surge in hate crimes directed at Asian-Americans.
 1. [Crime: Thieves, robbers and burglars to be fitted with GPS tags](https://www.bbc.co.uk/news/uk-56418004) - Wed, 17 Mar 2021 08:57:36 GMT - Police will be able to cross-reference data with crime reports to see if offenders were in the area.
 1. [Covid-19: Oxford-AstraZeneca jab reassurance, and the scale of rough sleeping exposed](https://www.bbc.co.uk/news/uk-56425346) - Wed, 17 Mar 2021 07:52:44 GMT - Five things you need to know about the coronavirus pandemic this Wednesday morning.
