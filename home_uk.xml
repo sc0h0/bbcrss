@@ -11,37 +11,37 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Mar 2021 10:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 11:26:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Covid vaccine: India shortfall a factor in UK's supply delay]]></title>
-            <description><![CDATA[It is understood a shipment of five million Oxford-AstraZeneca doses has been held up by four weeks.]]></description>
+            <description><![CDATA[It is understood a shipment of five million AstraZeneca doses to the UK has been held up by four weeks.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56438629</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56438629</guid>
-            <pubDate>Thu, 18 Mar 2021 10:48:00 GMT</pubDate>
+            <pubDate>Thu, 18 Mar 2021 11:01:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Concern over 'do not resuscitate' decisions during pandemic]]></title>
-            <description><![CDATA[Some people's human rights may have been breached during the pandemic, the care watchdog for England says.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56435428</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56435428</guid>
-            <pubDate>Thu, 18 Mar 2021 00:12:10 GMT</pubDate>
+            <title><![CDATA[Sarah Everard death: Inquest opened and adjourned]]></title>
+            <description><![CDATA[The 33-year-old vanished as she walked home from a friend's house in Clapham on 3 March.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56442376</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56442376</guid>
+            <pubDate>Thu, 18 Mar 2021 11:10:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BT's Openreach to build full-fibre internet 'like fury' after Ofcom move]]></title>
-            <description><![CDATA[Regulator Ofcom will not cap Openreach's fees for full-fibre connections for at least 10 years.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56435371</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56435371</guid>
-            <pubDate>Thu, 18 Mar 2021 09:19:17 GMT</pubDate>
+            <title><![CDATA[Evha Jannath: Drayton Manor fined £1m after water ride death]]></title>
+            <description><![CDATA[Evha Jannath's death at Drayton Manor was an "utterly tragic waste of a young life", the judge says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-56426318</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-56426318</guid>
+            <pubDate>Thu, 18 Mar 2021 11:15:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: India shortfall hits UK vaccine supply and 'do not resuscitate' decision concerns]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56439509</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56439509</guid>
-            <pubDate>Thu, 18 Mar 2021 07:42:34 GMT</pubDate>
+            <title><![CDATA[Grants to buy electric cars to be cut to £2,500]]></title>
+            <description><![CDATA[A government decision to reduce subsidies 'sends the wrong message', says the motor industry.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56441639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56441639</guid>
+            <pubDate>Thu, 18 Mar 2021 10:35:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cheltenham punter wins at least £250,000 from £5 bet]]></title>
@@ -51,11 +51,18 @@
             <pubDate>Thu, 18 Mar 2021 08:51:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sarah Everard death: Inquest opened and adjourned]]></title>
-            <description><![CDATA[The 33-year-old vanished as she walked home from a friend's house in Clapham on 3 March.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56442376</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56442376</guid>
-            <pubDate>Thu, 18 Mar 2021 10:42:52 GMT</pubDate>
+            <title><![CDATA[BT's Openreach to build full-fibre internet 'like fury' after Ofcom move]]></title>
+            <description><![CDATA[Regulator Ofcom will not cap Openreach's fees for full-fibre connections for at least 10 years.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56435371</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56435371</guid>
+            <pubDate>Thu, 18 Mar 2021 09:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Concern over 'do not resuscitate' decisions during pandemic]]></title>
+            <description><![CDATA[Some people's human rights may have been breached during the pandemic, the care watchdog for England says.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56435428</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56435428</guid>
+            <pubDate>Thu, 18 Mar 2021 00:12:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Games creative head quits over 'Olympig' insult]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/business-56416954</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56416954</guid>
             <pubDate>Thu, 18 Mar 2021 00:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Football 'must learn from child sex abuse scandal']]></title>
-            <description><![CDATA[Survivors of childhood sexual abuse say football must not be complacent after a review into historical abuse in the sport was published.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56437340</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56437340</guid>
-            <pubDate>Thu, 18 Mar 2021 09:01:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Magufuli: Tanzania's president dies aged 61 after Covid rumours]]></title>
@@ -156,6 +156,13 @@
             <pubDate>Thu, 18 Mar 2021 00:26:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[India coronavirus: Can its vaccine producers meet demand?]]></title>
+            <description><![CDATA[India is a big player in vaccine production - but companies are warning of supply problems.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-55571793</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-55571793</guid>
+            <pubDate>Thu, 18 Mar 2021 10:39:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Europe: Vaccine suspension hits rollout as cases rise]]></title>
             <description><![CDATA[As several countries pause the AstraZeneca jab, six reporters explain what is happening across Europe.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56415249</link>
@@ -170,6 +177,13 @@
             <pubDate>Thu, 18 Mar 2021 01:28:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Paris Commune: The revolt dividing France 150 years on]]></title>
+            <description><![CDATA[Passions flare over how to remember the city's brief, much-romanticised experiment in power to the people.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56426710</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56426710</guid>
+            <pubDate>Thu, 18 Mar 2021 01:04:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[When is the census and what is it for?]]></title>
             <description><![CDATA[The once-a-decade survey gives a snapshot of UK life and helps find out what services are needed.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55935409</link>
@@ -177,11 +191,11 @@
             <pubDate>Wed, 17 Mar 2021 15:11:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: How ethnicity and wealth affect US vaccine rollout]]></title>
-            <description><![CDATA[People belonging to ethnic minorities are less likely to have been vaccinated, despite being more likely to develop Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56405199</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56405199</guid>
-            <pubDate>Thu, 18 Mar 2021 00:51:45 GMT</pubDate>
+            <title><![CDATA[Asia's richest man, a bomb scare and a murder in India]]></title>
+            <description><![CDATA[An explosives-laden car is found near Mukesh Ambani's home in Mumbai, and its alleged owner is killed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56425714</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56425714</guid>
+            <pubDate>Thu, 18 Mar 2021 01:00:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['We need to reflect on why women still do most of the childcare']]></title>
@@ -191,11 +205,11 @@
             <pubDate>Thu, 18 Mar 2021 00:04:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Asia's richest man, a bomb scare and a murder in India]]></title>
-            <description><![CDATA[An explosives-laden car is found near Mukesh Ambani's home in Mumbai, and its alleged owner is killed.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56425714</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56425714</guid>
-            <pubDate>Thu, 18 Mar 2021 01:00:27 GMT</pubDate>
+            <title><![CDATA[Covid: How ethnicity and wealth affect US vaccine rollout]]></title>
+            <description><![CDATA[People belonging to ethnic minorities are less likely to have been vaccinated, despite being more likely to develop Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56405199</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56405199</guid>
+            <pubDate>Thu, 18 Mar 2021 00:51:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uber worker benefits 'will make a difference']]></title>
@@ -219,6 +233,27 @@
             <pubDate>Wed, 17 Mar 2021 00:05:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beard back for Wales' Grand Slam trip to France]]></title>
+            <description><![CDATA[Coach Wayne Pivac recalls lock Adam Beard in the only change to his side as Wales aim to complete the Six Nations Grand Slam against France.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56437435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56437435</guid>
+            <pubDate>Thu, 18 Mar 2021 11:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's Daly replaces injured Slade for Ireland game]]></title>
+            <description><![CDATA[England's Elliot Daly will replace the injured Henry Slade against Ireland in Saturday's Six Nations match, making his first international start at outside centre since 2016.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56442784</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56442784</guid>
+            <pubDate>Thu, 18 Mar 2021 11:22:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Football must not be complacent' - survivors respond to child sex abuse report]]></title>
+            <description><![CDATA[Survivors of childhood sexual abuse say football must not be complacent after a review into historical abuse in the sport was published.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56437340</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56437340</guid>
+            <pubDate>Thu, 18 Mar 2021 09:01:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Australia all-rounder Perry joins Birmingham for The Hundred ]]></title>
             <description><![CDATA[Australia all-rounder Ellyse Perry joins Birmingham Phoenix for this summer's Hundred competition.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/56362949</link>
@@ -231,27 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/56434438</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56434438</guid>
             <pubDate>Thu, 18 Mar 2021 06:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Formula 1 Saudi Arabian Grand Prix to be fastest street track]]></title>
-            <description><![CDATA[The inaugural Saudi Arabian Grand Prix will take place on the sport's fastest street circuit, claims Formula 1.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/56420088</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56420088</guid>
-            <pubDate>Thu, 18 Mar 2021 09:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Just a legend' - Tiger Roll claims fifth Cheltenham Festival win]]></title>
-            <description><![CDATA[Tiger Roll claims a fifth Cheltenham Festival win while Put The Kettle On lands the Champion Chase.]]></description>
-            <link>https://www.bbc.co.uk/sport/horse-racing/56428657</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/horse-racing/56428657</guid>
-            <pubDate>Thu, 18 Mar 2021 09:02:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women's Super League highlights: Birmingham grab late equaliser in WSL thriller against West Ham]]></title>
-            <description><![CDATA[Watch highlights of a thrilling Women's Super League game where Birmingham equalise in the 94th minute to earn a 2-2 draw with West Ham at Victoria Road.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56434544</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56434544</guid>
-            <pubDate>Wed, 17 Mar 2021 23:11:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
