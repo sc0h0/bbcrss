@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Mar 2021 04:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 04:50:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Thu, 18 Mar 2021 00:06:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Games creative head quits over 'Olympig' insult]]></title>
+            <description><![CDATA[Hiroshi Sasaki had proposed that plus-size entertainer Naomi Watanabe appear at the opening ceremony as a pig.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56438842</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56438842</guid>
+            <pubDate>Thu, 18 Mar 2021 03:23:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sanaa Seif: Egypt rights activist jailed for 'spreading false news']]></title>
             <description><![CDATA[Sanaa Seif criticised the Egyptian authorities' handling of Covid-19 outbreaks in prisons.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-56436132</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/sport/football/56418652</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56418652</guid>
             <pubDate>Wed, 17 Mar 2021 21:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea reach Champions League last eight]]></title>
-            <description><![CDATA[Chelsea move into the quarter-finals of the Champions League for the first time in seven years with a 3-0 aggregate win over Atletico Madrid.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56419713</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56419713</guid>
-            <pubDate>Wed, 17 Mar 2021 22:49:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: EU will 'grab your jabs' and tough migrant stance]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Wed, 17 Mar 2021 00:05:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chelsea 2-0 Atletico Madrid (3-0 agg): Hosts reach Champions League last eight]]></title>
+            <description><![CDATA[Chelsea move into the quarter-finals of the Champions League for the first time in seven years with a 3-0 aggregate win over Atletico Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56419713</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56419713</guid>
+            <pubDate>Wed, 17 Mar 2021 22:49:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Football must not be complacent' - survivors respond to child sex abuse report]]></title>
             <description><![CDATA[Survivors of childhood sexual abuse say football must not be complacent after a review into historical abuse in the sport was published.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56437340</link>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/football/56342369</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56342369</guid>
             <pubDate>Wed, 17 Mar 2021 21:25:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La Liga: Franco Vazquez scores cheeky backheel goal as Sevilla beat Elche]]></title>
-            <description><![CDATA[Watch highlights as Youssef En-Nesyri's header and a cheeky backheel goal from Franco Vazquez give Sevilla a 2-0 win over Elche and cement their position in the top four of La Liga.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56438483</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56438483</guid>
-            <pubDate>Thu, 18 Mar 2021 00:07:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
