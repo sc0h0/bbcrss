@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Mar 2021 21:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 21:22:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Alex Salmond inquiry says Nicola Sturgeon misled committee]]></title>
+            <description><![CDATA[The first minister says she stands by all of the evidence she gave to the committee earlier this month.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56451170</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56451170</guid>
+            <pubDate>Thu, 18 Mar 2021 21:19:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Oxford-AstraZeneca vaccine safe, says Boris Johnson]]></title>
             <description><![CDATA[Boris Johnson says he will be receiving the vaccine on Friday and urges people to take up their offers.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56448369</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56448369</guid>
-            <pubDate>Thu, 18 Mar 2021 20:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alex Salmond inquiry says Nicola Sturgeon misled committee]]></title>
-            <description><![CDATA[A spokesman for the first minister insisted that Ms Sturgeon told the truth to the Holyrood inquiry.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56451170</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56451170</guid>
-            <pubDate>Thu, 18 Mar 2021 20:24:36 GMT</pubDate>
+            <pubDate>Thu, 18 Mar 2021 21:10:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duchess of Sussex: Private investigator unlawfully accessed private information]]></title>
@@ -44,6 +44,13 @@
             <pubDate>Thu, 18 Mar 2021 18:09:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: EU states to resume AstraZeneca vaccine rollout]]></title>
+            <description><![CDATA[Germany, France, Italy and Spain will restart vaccine programme after regulator's review.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56440139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56440139</guid>
+            <pubDate>Thu, 18 Mar 2021 21:05:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Paris lockdown as France fears 'third wave']]></title>
             <description><![CDATA[The French capital and various other regions will have movement restricted as cases rise.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56450880</link>
@@ -51,11 +58,11 @@
             <pubDate>Thu, 18 Mar 2021 19:43:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: PM says no change to roadmap, and EU agency says vaccine safe]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56444643</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56444643</guid>
-            <pubDate>Thu, 18 Mar 2021 18:21:00 GMT</pubDate>
+            <title><![CDATA[SLS: Successful test for world's most powerful rocket]]></title>
+            <description><![CDATA[Engineers have carried out a major engine test of Nasa's Space Launch System.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56442020</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56442020</guid>
+            <pubDate>Thu, 18 Mar 2021 20:40:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alexi McCammond: Teen Vogue editor quits over 'racist tweets']]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56446635</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56446635</guid>
             <pubDate>Thu, 18 Mar 2021 19:21:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AstraZeneca: UK and EU clot reviews confirm safety of vaccine]]></title>
-            <description><![CDATA[Regulators give reassurance and advice on rare blood clot symptoms, such as headache lasting days.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56447367</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56447367</guid>
-            <pubDate>Thu, 18 Mar 2021 17:32:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Manchester Arena Inquiry: Paramedic 'wrong not to send team to bomb scene']]></title>
@@ -258,7 +258,7 @@
             <description><![CDATA[Tottenham let slip a two-goal first-leg lead as they are knocked out of the Europa League by Mislav Orsic's hat-trick for Dinamo Zagreb.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56433776</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56433776</guid>
-            <pubDate>Thu, 18 Mar 2021 20:30:57 GMT</pubDate>
+            <pubDate>Thu, 18 Mar 2021 21:07:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arsenal lose but progress to Europa League quarter-finals]]></title>
