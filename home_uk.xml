@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Mar 2021 07:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 07:32:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid vaccine: Government facing questions over supply to UK]]></title>
-            <description><![CDATA[It is understood there is a delay to a shipment of millions of doses of the AstraZeneca jab from India.]]></description>
+            <title><![CDATA[Covid vaccine: India shortfall behind UK's supply delay]]></title>
+            <description><![CDATA[It is understood a shipment of five million Oxford-AstraZeneca doses has been held up by four weeks.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56438629</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56438629</guid>
-            <pubDate>Thu, 18 Mar 2021 05:00:38 GMT</pubDate>
+            <pubDate>Thu, 18 Mar 2021 07:09:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Concern over 'do not resuscitate' decisions during pandemic]]></title>
@@ -114,6 +114,13 @@
             <pubDate>Thu, 18 Mar 2021 05:24:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Drag Race UK final: 'I refuse to be a doormat for hate']]></title>
+            <description><![CDATA[Bimini, Tayce, Lawrence and Ellie on what it’s like to be a finalist on Drag Race UK.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56436760</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56436760</guid>
+            <pubDate>Thu, 18 Mar 2021 07:06:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US Border: Risking everything for an American dream]]></title>
             <description><![CDATA[Thousands of migrants from Central America are making an arduous journey to the US border.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56432363</link>
@@ -147,13 +154,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56415778</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56415778</guid>
             <pubDate>Wed, 17 Mar 2021 20:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir David Attenborough answers dinosaur query from Otis, 4]]></title>
-            <description><![CDATA[Four-year-old Otis's mum was stumped, so they wrote to Sir David Attenborough... and he replied.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56429104</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56429104</guid>
-            <pubDate>Wed, 17 Mar 2021 15:22:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: From boom to bust - why lockdown hasn't led to more babies]]></title>
@@ -240,11 +240,25 @@
             <pubDate>Wed, 17 Mar 2021 18:31:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lewandowski scores as Bayern Munich progress easily]]></title>
-            <description><![CDATA[Robert Lewandowski is on the scoresheet again as Bayern Munich cruise into the quarter-finals of the Champions League with victory over Lazio.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56419720</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56419720</guid>
-            <pubDate>Wed, 17 Mar 2021 22:59:05 GMT</pubDate>
+            <title><![CDATA[Chelsea 2-0 Atletico Madrid (3-0 agg): Hosts reach Champions League last eight]]></title>
+            <description><![CDATA[Chelsea move into the quarter-finals of the Champions League for the first time in seven years with a 3-0 aggregate win over Atletico Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56419713</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56419713</guid>
+            <pubDate>Wed, 17 Mar 2021 22:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The AC Milan boss from a family of Inter fans and postmen who is being backed to deliver]]></title>
+            <description><![CDATA[AC Milan are preparing to face Manchester United in the second-leg of their Europa League Round-of-16 tie, but who is manager Stefano Pioli?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56434438</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56434438</guid>
+            <pubDate>Thu, 18 Mar 2021 06:27:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia withdraw from All Englands after Test and Trace contact]]></title>
+            <description><![CDATA[Indonesia's badminton squad withdraw from the All England Open after being contacted by the NHS Test and Trace service.]]></description>
+            <link>https://www.bbc.co.uk/sport/badminton/56440208</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/badminton/56440208</guid>
+            <pubDate>Thu, 18 Mar 2021 07:17:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Rest in peace you wonderful, powerful, hilarious person' - tributes paid to ex-Top Gear presenter Schmitz]]></title>
@@ -252,20 +266,6 @@
             <link>https://www.bbc.co.uk/sport/motorsport/56420308</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/56420308</guid>
             <pubDate>Wed, 17 Mar 2021 11:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dortmund target Liverpool striker Origi - Thursday's gossip]]></title>
-            <description><![CDATA[Borussia Dortmund want Liverpool forward, former England defender to join Inter Miami, Juventus striker offered to Premier League pair, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/56432780</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/56432780</guid>
-            <pubDate>Wed, 17 Mar 2021 23:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea 2-0 Atletico Madrid (3-0 agg): Hosts reach Champions League last eight]]></title>
-            <description><![CDATA[Chelsea move into the quarter-finals of the Champions League for the first time in seven years with a 3-0 aggregate win over Atletico Madrid.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56419713</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56419713</guid>
-            <pubDate>Wed, 17 Mar 2021 22:49:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
