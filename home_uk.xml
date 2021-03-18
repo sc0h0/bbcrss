@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Mar 2021 21:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Mar 2021 21:40:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,25 @@
             <pubDate>Thu, 18 Mar 2021 21:05:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Abortion: UK government to compel Stormont to implement new laws]]></title>
+            <description><![CDATA[In an unprecedented move, the NI secretary will have power to compel Stormont to implement new laws.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56448413</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56448413</guid>
+            <pubDate>Thu, 18 Mar 2021 21:25:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Paris lockdown as France fears 'third wave']]></title>
             <description><![CDATA[The French capital and various other regions will have movement restricted as cases rise.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56450880</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56450880</guid>
             <pubDate>Thu, 18 Mar 2021 19:43:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peloton: Child killed in 'tragic' treadmill accident]]></title>
+            <description><![CDATA[Boss of the hugely-popular home equipment firm warns parents to keep children away from its machines.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56451430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56451430</guid>
+            <pubDate>Thu, 18 Mar 2021 21:13:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SLS: Successful test for world's most powerful rocket]]></title>
@@ -79,25 +93,11 @@
             <pubDate>Thu, 18 Mar 2021 17:06:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BBC to move key jobs and programmes out of London]]></title>
-            <description><![CDATA[The corporation is expanding out of the capital to "ensure every household gets value from the BBC".]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56433109</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56433109</guid>
-            <pubDate>Thu, 18 Mar 2021 13:31:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hendon murder: Drill rapper who blamed identical twin found guilty]]></title>
             <description><![CDATA[Rail worker Asante Campbell was attacked by a group of males on a London estate in 2019.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56449571</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56449571</guid>
             <pubDate>Thu, 18 Mar 2021 17:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Right to challenge government in courts overhauled]]></title>
-            <description><![CDATA[Labour accuses the government of trampling over the public's right to challenge government decisions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56442162</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56442162</guid>
-            <pubDate>Thu, 18 Mar 2021 17:13:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dozens change name to 'salmon' to get sushi deal in Taiwan]]></title>
@@ -258,7 +258,7 @@
             <description><![CDATA[Tottenham let slip a two-goal first-leg lead as they are knocked out of the Europa League by Mislav Orsic's hat-trick for Dinamo Zagreb.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56433776</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56433776</guid>
-            <pubDate>Thu, 18 Mar 2021 21:07:13 GMT</pubDate>
+            <pubDate>Thu, 18 Mar 2021 21:29:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arsenal lose but progress to Europa League quarter-finals]]></title>
