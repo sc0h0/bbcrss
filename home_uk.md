@@ -13,7 +13,7 @@
 
             1. [Claire Parry death: PC Timothy Brehmer has sentence increased](https://www.bbc.co.uk/news/uk-england-dorset-56454792) - Fri, 19 Mar 2021 12:03:45 GMT - Timothy Brehmer strangled Claire Parry after she exposed their secret relationship to his wife.
 
-            1. [Dr Richard Freeman: Ex-British Cycling and Team Sky chief struck off medical register](https://www.bbc.co.uk/sport/cycling/56459664) - Fri, 19 Mar 2021 13:19:52 GMT - Ex-British Cycling and Team Sky chief doctor Richard Freeman is struck off the medical register permanently.
+            1. [Dr Richard Freeman: Ex-British Cycling and Team Sky chief struck off medical register](https://www.bbc.co.uk/sport/cycling/56459664) - Fri, 19 Mar 2021 13:31:39 GMT - Ex-British Cycling and Team Sky chief doctor Richard Freeman is struck off the medical register permanently.
 
             1. [MSPs on Alex Salmond committee say Nicola Sturgeon misled them](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56451170) - Fri, 19 Mar 2021 12:37:54 GMT - The first minister says she stands by all of the evidence she gave to the committee earlier this month.
 
