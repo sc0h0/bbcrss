@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Mar 2021 21:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 21:45:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Fri, 19 Mar 2021 21:08:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Germany's rise in cases and the 21-year-old raising her siblings]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56459864</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56459864</guid>
-            <pubDate>Fri, 19 Mar 2021 18:35:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finland ranked happiest country in the world - again]]></title>
             <description><![CDATA[Denmark is in second place, followed by Switzerland and Iceland in the World Happiness Report.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56457295</link>
@@ -51,11 +44,11 @@
             <pubDate>Fri, 19 Mar 2021 17:03:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Woman made redundant three times lands job after radio show]]></title>
-            <description><![CDATA[Annabelle Smith, who has lost three jobs during the pandemic, is offered a job by a panellist.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-56456392</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-56456392</guid>
-            <pubDate>Fri, 19 Mar 2021 12:47:52 GMT</pubDate>
+            <title><![CDATA[Coronation Street uses real couples as Covid kissing doubles]]></title>
+            <description><![CDATA[As a way around Covid restrictions, the soap has had real-life romantics standing in for actors.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56453954</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56453954</guid>
+            <pubDate>Fri, 19 Mar 2021 21:37:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greek bull figurine unearthed after heavy downpour]]></title>
@@ -65,11 +58,11 @@
             <pubDate>Fri, 19 Mar 2021 15:36:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Care workers lose 'sleep-in shift' court challenge]]></title>
-            <description><![CDATA[One worker who had to sleep at her job argued she should be paid minimum wage for the whole shift.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56451721</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56451721</guid>
-            <pubDate>Fri, 19 Mar 2021 15:34:45 GMT</pubDate>
+            <title><![CDATA[US President Joe Biden ‘doing fine’ after aircraft stumble]]></title>
+            <description><![CDATA[A spokeswoman said the president is "doing 100% fine" after slipping while boarding Air Force One.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56462824</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56462824</guid>
+            <pubDate>Fri, 19 Mar 2021 18:16:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: UK death rate 'no longer Europe's worst' by winter]]></title>
@@ -79,11 +72,18 @@
             <pubDate>Fri, 19 Mar 2021 16:27:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS boss's Twitter accounts hacked by PS5 scammers]]></title>
-            <description><![CDATA[The scammers took over the accounts and used them to pretend to sell PlayStation 5 consoles.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56456002</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56456002</guid>
-            <pubDate>Fri, 19 Mar 2021 16:20:49 GMT</pubDate>
+            <title><![CDATA[Covid: Woman made redundant three times lands job after radio show]]></title>
+            <description><![CDATA[Annabelle Smith, who has lost three jobs during the pandemic, is offered a job by a panellist.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-56456392</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-56456392</guid>
+            <pubDate>Fri, 19 Mar 2021 12:47:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Queen and Duchess of Cornwall thank volunteers for 'wonderful work']]></title>
+            <description><![CDATA[Her Majesty and the Duchess of Cornwall took part in a call with members of the Royal Voluntary Service.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56459882</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56459882</guid>
+            <pubDate>Fri, 19 Mar 2021 18:17:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nicola Sturgeon rejects claims over Alex Salmond inquiry evidence]]></title>
