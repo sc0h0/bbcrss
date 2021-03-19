@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Mar 2021 10:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 11:00:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Fri, 19 Mar 2021 09:18:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jo Whiley: Sister Frances to get first Covid vaccination]]></title>
+            <description><![CDATA[Frances, 53, is due to have the vaccine after the virus left her "fighting for her life" in February.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-56455711</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-56455711</guid>
+            <pubDate>Fri, 19 Mar 2021 10:29:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US and China trade angry words at high-level Alaska talks]]></title>
             <description><![CDATA[The first high-level meeting of the new US administration and Beijing opened with sharp rebukes.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56452471</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56451101</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56451101</guid>
             <pubDate>Thu, 18 Mar 2021 23:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jo Whiley: Sister Frances to get first Covid vaccination]]></title>
-            <description><![CDATA[Frances, 53, is due to have the vaccine after the virus left her "fighting for her life" in February.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-56455711</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-56455711</guid>
-            <pubDate>Fri, 19 Mar 2021 10:29:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Young Goldman Sachs bankers ask for 80-hour week cap]]></title>
@@ -205,13 +205,6 @@
             <pubDate>Fri, 19 Mar 2021 10:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Paul makes a very, very big difference for us' - Pogba edges Man Utd past Milan]]></title>
-            <description><![CDATA[Paul Pogba scores the winner on his Manchester United return as they edge past AC Milan to reach the Europa League quarter-finals.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56433793</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56433793</guid>
-            <pubDate>Thu, 18 Mar 2021 23:52:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How many people have had their vaccine in the UK?]]></title>
             <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 25 million people receive at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833</link>
@@ -223,7 +216,7 @@
             <description><![CDATA[People aged 50 and over are the latest group to be invited to book their Covid vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/health-55045639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Thu, 18 Mar 2021 12:44:24 GMT</pubDate>
+            <pubDate>Fri, 19 Mar 2021 10:53:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Who should be shielding and why?]]></title>
