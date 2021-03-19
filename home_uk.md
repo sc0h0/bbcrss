@@ -1,11 +1,11 @@
 
-            1. [Covid: UK death rate 'no longer Europe's worst' by winter](https://www.bbc.co.uk/news/health-56456312) - Fri, 19 Mar 2021 13:14:56 GMT - Six other countries were worse affected during the second wave of the pandemic, according to ONS figures.
+            1. [Covid: UK death rate 'no longer Europe's worst' by winter](https://www.bbc.co.uk/news/health-56456312) - Fri, 19 Mar 2021 14:19:35 GMT - Six other countries were worse affected during the second wave of the pandemic, according to ONS figures.
 
             1. [Care workers lose 'sleep-in shift' court challenge](https://www.bbc.co.uk/news/uk-56451721) - Fri, 19 Mar 2021 13:12:43 GMT - One worker who had to sleep at her job argued she should be paid minimum wage for the whole shift.
 
             1. [Covid: Paris lockdown as France fears third wave](https://www.bbc.co.uk/news/world-europe-56450880) - Fri, 19 Mar 2021 11:37:57 GMT - The French capital and various other areas will have movement restricted as cases rise.
 
-            1. [Covid vaccine: PM to have AstraZeneca jab as he urges public to do the same](https://www.bbc.co.uk/news/uk-56452412) - Fri, 19 Mar 2021 10:29:58 GMT - Boris Johnson will receive his first dose while European countries resume use of the Oxford vaccine.
+            1. [Dr Richard Freeman: Ex-British Cycling and Team Sky chief struck off medical register](https://www.bbc.co.uk/sport/cycling/56459664) - Fri, 19 Mar 2021 13:31:39 GMT - Ex-British Cycling and Team Sky chief doctor Richard Freeman is struck off the medical register permanently.
 
             1. [Comic Relief 2021: Daniel Craig and Catherine Tate join star-studded Red Nose Day line-up](https://www.bbc.co.uk/news/entertainment-arts-56442606) - Fri, 19 Mar 2021 01:31:19 GMT - Nan meets 007 in one of the sketches to be shown during this year's Comic Relief fundraiser.
 
@@ -13,7 +13,7 @@
 
             1. [Claire Parry death: PC Timothy Brehmer has sentence increased](https://www.bbc.co.uk/news/uk-england-dorset-56454792) - Fri, 19 Mar 2021 12:03:45 GMT - Timothy Brehmer strangled Claire Parry after she exposed their secret relationship to his wife.
 
-            1. [Dr Richard Freeman: Ex-British Cycling and Team Sky chief struck off medical register](https://www.bbc.co.uk/sport/cycling/56459664) - Fri, 19 Mar 2021 13:31:39 GMT - Ex-British Cycling and Team Sky chief doctor Richard Freeman is struck off the medical register permanently.
+            1. [Covid vaccine: PM to have AstraZeneca jab as he urges public to do the same](https://www.bbc.co.uk/news/uk-56452412) - Fri, 19 Mar 2021 10:29:58 GMT - Boris Johnson will receive his first dose while European countries resume use of the Oxford vaccine.
 
             1. [MSPs on Alex Salmond committee say Nicola Sturgeon misled them](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56451170) - Fri, 19 Mar 2021 12:37:54 GMT - The first minister says she stands by all of the evidence she gave to the committee earlier this month.
 
@@ -49,11 +49,13 @@
 
             1. [Covid: From boom to bust - why lockdown hasn't led to more babies](https://www.bbc.co.uk/news/world-56415248) - Thu, 18 Mar 2021 00:26:45 GMT - Research shows that the US and parts of Europe are facing slumps in birth rates.
 
-            1. [Liverpool face Real Madrid in Champions League - full quarter and semi-final draws](https://www.bbc.co.uk/sport/football/56454294) - Fri, 19 Mar 2021 12:38:37 GMT - Liverpool will face Real Madrid in the quarter-finals of the Champions League, while Manchester City will play Borussia Dortmund and Chelsea will face Porto.
+            1. [Liverpool face Real Madrid in Champions League - full quarter and semi-final draws](https://www.bbc.co.uk/sport/football/56454294) - Fri, 19 Mar 2021 14:07:18 GMT - Liverpool will face Real Madrid in the quarter-finals of the Champions League, while Manchester City will play Borussia Dortmund and Chelsea will face Porto.
+
+            1. [Sunday's Old Firm derby to go ahead after call-off warning ](https://www.bbc.co.uk/news/uk-scotland-56456653) - Fri, 19 Mar 2021 13:41:46 GMT - The league match at Celtic Park was at risk of postponement after Rangers fans breached Covid lockdown rules.
 
             1. [Rangers won't let Kamara 'be yet another statistic' as they demand Uefa racism response](https://www.bbc.co.uk/sport/football/56451935) - Fri, 19 Mar 2021 12:09:33 GMT - Rangers want "a robust and unequivocal response" from Uefa over alleged racial abuse of Glen Kamara by Sparta Prague's Ondrej Kudel.
 
-            1. [Man Utd face Granada, Arsenal play Slavia Prague in Europa League](https://www.bbc.co.uk/sport/football/56455054) - Fri, 19 Mar 2021 13:12:37 GMT - Manchester United will play Granada in the Europa League quarter-finals, while Arsenal will face Slavia Prague.
+            1. [Cheltenham Gold Cup preview: Al Boum Photo, A Plus Tard & Champ head line-up](https://www.bbc.co.uk/sport/horse-racing/56447196) - Thu, 18 Mar 2021 22:41:34 GMT - Rachael Blackmore will seek more racing history on A Plus Tard in Friday's Cheltenham Gold Cup, where Al Boum Photo also seeks another landmark.
 
             1. [How many people have had their vaccine in the UK?](https://www.bbc.co.uk/news/health-55274833) - Thu, 18 Mar 2021 18:01:41 GMT - The logistics of vaccinating millions of people across the country, as more than 25 million people receive at least one dose.
 
