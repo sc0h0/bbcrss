@@ -1,35 +1,39 @@
 
-            1. [UK's death rate 7% above normal in 2020](https://www.bbc.co.uk/news/health-56456312) - Fri, 19 Mar 2021 12:15:16 GMT - While it was badly hit in the spring, six other countries were worse affected than the UK in the autumn.
+            1. [Covid: UK death rate 'no longer Europe's worst' by winter](https://www.bbc.co.uk/news/health-56456312) - Fri, 19 Mar 2021 14:19:35 GMT - Six other countries were worse affected during the second wave of the pandemic, according to ONS figures.
 
-            1. [Covid vaccine: PM to have AstraZeneca jab as he urges public to do the same](https://www.bbc.co.uk/news/uk-56452412) - Fri, 19 Mar 2021 10:29:58 GMT - Boris Johnson will receive his first dose while European countries resume use of the Oxford vaccine.
-
-            1. [Gigabit broadband: First areas to benefit announced](https://www.bbc.co.uk/news/technology-56414966) - Fri, 19 Mar 2021 10:38:55 GMT - The government announces first stages of plans to get superfast broadband to the majority of UK homes.
-
-            1. [Comic Relief 2021: Daniel Craig and Catherine Tate join star-studded Red Nose Day line-up](https://www.bbc.co.uk/news/entertainment-arts-56442606) - Fri, 19 Mar 2021 01:31:19 GMT - Nan meets 007 in one of the sketches to be shown during this year's Comic Relief fundraiser.
+            1. [Care workers lose 'sleep-in shift' court challenge](https://www.bbc.co.uk/news/uk-56451721) - Fri, 19 Mar 2021 13:12:43 GMT - One worker who had to sleep at her job argued she should be paid minimum wage for the whole shift.
 
             1. [Covid: Paris lockdown as France fears third wave](https://www.bbc.co.uk/news/world-europe-56450880) - Fri, 19 Mar 2021 11:37:57 GMT - The French capital and various other areas will have movement restricted as cases rise.
 
+            1. [Dr Richard Freeman: Ex-British Cycling and Team Sky chief struck off medical register](https://www.bbc.co.uk/sport/cycling/56459664) - Fri, 19 Mar 2021 13:31:39 GMT - Ex-British Cycling and Team Sky chief doctor Richard Freeman is struck off the medical register permanently.
+
+            1. [Comic Relief 2021: Daniel Craig and Catherine Tate join star-studded Red Nose Day line-up](https://www.bbc.co.uk/news/entertainment-arts-56442606) - Fri, 19 Mar 2021 01:31:19 GMT - Nan meets 007 in one of the sketches to be shown during this year's Comic Relief fundraiser.
+
             1. [Jo Whiley: Sister Frances to get first Covid vaccination](https://www.bbc.co.uk/news/uk-england-northamptonshire-56455711) - Fri, 19 Mar 2021 10:29:11 GMT - Frances, 53, is due to have the vaccine after the virus left her "fighting for her life" in February.
-
-            1. [Care workers lose 'sleep-in shift' court challenge](https://www.bbc.co.uk/news/uk-56451721) - Fri, 19 Mar 2021 11:44:13 GMT - One worker who had to sleep at her job argued she should be paid minimum wage for the whole shift.
-
-            1. [Alex Salmond inquiry says Nicola Sturgeon misled committee](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56451170) - Fri, 19 Mar 2021 08:19:03 GMT - The first minister says she stands by all of the evidence she gave to the committee earlier this month.
-
-            1. [Why Australian women are saying 'enough is enough'](https://www.bbc.co.uk/news/world-australia-56438896) - Thu, 18 Mar 2021 18:03:21 GMT - Australian politics is often called toxic to women - now rape allegations have ignited national fury.
-
-            1. [UK government borrowing hits February record as virus impact continues](https://www.bbc.co.uk/news/business-56453869) - Fri, 19 Mar 2021 11:39:13 GMT - The government borrowed £19.1bn last month, the highest figure for February since records began.
 
             1. [Claire Parry death: PC Timothy Brehmer has sentence increased](https://www.bbc.co.uk/news/uk-england-dorset-56454792) - Fri, 19 Mar 2021 12:03:45 GMT - Timothy Brehmer strangled Claire Parry after she exposed their secret relationship to his wife.
 
-            1. [Young Goldman Sachs bankers ask for 80-hour week cap](https://www.bbc.co.uk/news/business-56452494) - Fri, 19 Mar 2021 03:07:49 GMT - First-year analysts have reported 95-hour working weeks plus poor physical and mental health.
+            1. [Covid vaccine: PM to have AstraZeneca jab as he urges public to do the same](https://www.bbc.co.uk/news/uk-56452412) - Fri, 19 Mar 2021 10:29:58 GMT - Boris Johnson will receive his first dose while European countries resume use of the Oxford vaccine.
+
+            1. [MSPs on Alex Salmond committee say Nicola Sturgeon misled them](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56451170) - Fri, 19 Mar 2021 12:37:54 GMT - The first minister says she stands by all of the evidence she gave to the committee earlier this month.
+
+            1. [Myanmar protests: BBC journalist Aung Thura detained](https://www.bbc.co.uk/news/world-asia-56454261) - Fri, 19 Mar 2021 11:34:48 GMT - Aung Thura was taken away by plainclothes men, as eight more people reported killed by security forces.
+
+            1. [Infections linked to Glasgow child cancer hospital deaths](https://www.bbc.co.uk/news/uk-scotland-56442464) - Fri, 19 Mar 2021 13:01:14 GMT - An infection "probably" linked to a children's hospital was the "primary cause of death" of a cancer patient.
+
+            1. [UK government borrowing hits February record as virus impact continues](https://www.bbc.co.uk/news/business-56453869) - Fri, 19 Mar 2021 11:39:13 GMT - The government borrowed £19.1bn last month, the highest figure for February since records began.
 
             1. [Coronavirus: The student nurses behind the masks](https://www.bbc.co.uk/news/health-56354162) - Fri, 19 Mar 2021 00:02:40 GMT - Nursing students graduating in 2021 have trained in an unprecedented environment: A global pandemic.
 
             1. [Anti-Asian violence: 'He slashed me from cheek-to-cheek'](https://www.bbc.co.uk/news/world-us-canada-56446812) - Fri, 19 Mar 2021 01:23:54 GMT - Asian Americans across the US have faced a surge in hate crimes during the pandemic.
 
-            1. [The Papers: Health chiefs back Covid jab and Sturgeon in peril](https://www.bbc.co.uk/news/blogs-the-papers-56451760) - Fri, 19 Mar 2021 08:57:14 GMT - Regulators backing the Covid jab and MSPs saying Nicola Sturgeon mislead their inquiry lead the papers.
+            1. [Why Australian women are saying 'enough is enough'](https://www.bbc.co.uk/news/world-australia-56438896) - Thu, 18 Mar 2021 18:03:21 GMT - Australian politics is often called toxic to women - now rape allegations have ignited national fury.
+
+            1. [Young Goldman Sachs bankers ask for 80-hour week cap](https://www.bbc.co.uk/news/business-56452494) - Fri, 19 Mar 2021 03:07:49 GMT - First-year analysts have reported 95-hour working weeks plus poor physical and mental health.
 
             1. [Whinlatter Forest trees felled using specialist helicopter](https://www.bbc.co.uk/news/uk-england-cumbria-56449620) - Fri, 19 Mar 2021 06:15:00 GMT - Striking footage shows the trees being "magically" lifted into the air in the Lake District.
+
+            1. [The Papers: Health chiefs back Covid jab and Sturgeon in peril](https://www.bbc.co.uk/news/blogs-the-papers-56451760) - Fri, 19 Mar 2021 08:57:14 GMT - Regulators backing the Covid jab and MSPs saying Nicola Sturgeon mislead their inquiry lead the papers.
 
             1. [Oscars 2021: Nominees told Zoom attendance not an option](https://www.bbc.co.uk/news/world-us-canada-56452473) - Fri, 19 Mar 2021 04:50:08 GMT - Producers say great efforts have been made to make the show safe to attend in person.
 
@@ -45,11 +49,11 @@
 
             1. [Covid: From boom to bust - why lockdown hasn't led to more babies](https://www.bbc.co.uk/news/world-56415248) - Thu, 18 Mar 2021 00:26:45 GMT - Research shows that the US and parts of Europe are facing slumps in birth rates.
 
-            1. [Liverpool face Real Madrid in Champions League quarter-finals](https://www.bbc.co.uk/sport/football/56454294) - Fri, 19 Mar 2021 12:28:49 GMT - Liverpool will face Real Madrid in the quarter-finals of the Champions League, while Manchester City will play Borussia Dortmund and Chelsea will face Porto.
+            1. [Liverpool face Real Madrid in Champions League - full quarter and semi-final draws](https://www.bbc.co.uk/sport/football/56454294) - Fri, 19 Mar 2021 14:07:18 GMT - Liverpool will face Real Madrid in the quarter-finals of the Champions League, while Manchester City will play Borussia Dortmund and Chelsea will face Porto.
 
-            1. [Man Utd face Granada, Arsenal play Slavia Prague in Europa League](https://www.bbc.co.uk/sport/football/56455054) - Fri, 19 Mar 2021 12:23:03 GMT - Manchester United will play Granada in the Europa League quarter-finals, while Arsenal will face Slavia Prague.
+            1. [Sunday's Old Firm derby to go ahead after call-off warning ](https://www.bbc.co.uk/news/uk-scotland-56456653) - Fri, 19 Mar 2021 13:41:46 GMT - The league match at Celtic Park was at risk of postponement after Rangers fans breached Covid lockdown rules.
 
-            1. [Slavia Prague deny 'disgusting accusation' of racial abuse against Rangers' Kamara](https://www.bbc.co.uk/sport/football/56451935) - Fri, 19 Mar 2021 12:09:33 GMT - Rangers want "a robust and unequivocal response" from Uefa over alleged racial abuse of Glen Kamara by Sparta Prague's Ondrej Kudel.
+            1. [Rangers won't let Kamara 'be yet another statistic' as they demand Uefa racism response](https://www.bbc.co.uk/sport/football/56451935) - Fri, 19 Mar 2021 12:09:33 GMT - Rangers want "a robust and unequivocal response" from Uefa over alleged racial abuse of Glen Kamara by Sparta Prague's Ondrej Kudel.
 
             1. [Cheltenham Gold Cup preview: Al Boum Photo, A Plus Tard & Champ head line-up](https://www.bbc.co.uk/sport/horse-racing/56447196) - Thu, 18 Mar 2021 22:41:34 GMT - Rachael Blackmore will seek more racing history on A Plus Tard in Friday's Cheltenham Gold Cup, where Al Boum Photo also seeks another landmark.
 
@@ -93,7 +97,7 @@
 
             1. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Thu, 18 Mar 2021 18:46:47 GMT - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 
-            1. [Covid vaccines: How fast is progress around the world?](https://www.bbc.co.uk/news/world-56237778) - Mon, 15 Mar 2021 12:25:06 GMT - Charts and maps tracking the progress of Covid vaccination programmes.
+            1. [Covid vaccines: How fast is progress around the world?](https://www.bbc.co.uk/news/world-56237778) - Fri, 19 Mar 2021 12:33:00 GMT - Charts and maps tracking the progress of Covid vaccination programmes.
 
             1. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Tue, 16 Mar 2021 10:39:21 GMT - Busting myths and explaining the facts around vaccines.
 
