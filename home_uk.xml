@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Mar 2021 17:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 17:58:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Sat, 20 Mar 2021 17:21:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Anti-lockdown protests as MPs call for law change]]></title>
-            <description><![CDATA[Thousands demonstrate in London as police warn of a "significant operation" with 13 arrests so far.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56469687</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56469687</guid>
-            <pubDate>Sat, 20 Mar 2021 16:51:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: France and Poland increase lockdown measures as infections surge]]></title>
             <description><![CDATA[Some 21 million people in France are affected, while in Poland shops and hotels are shut nationwide.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56466223</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56466223</guid>
             <pubDate>Sat, 20 Mar 2021 14:55:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Anti-lockdown protests as MPs call for law change]]></title>
+            <description><![CDATA[Thousands demonstrate in London as police warn of a "significant operation" with 13 arrests so far.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56469687</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56469687</guid>
+            <pubDate>Sat, 20 Mar 2021 16:51:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man's family 'begged' for hospital visit before he died]]></title>
@@ -56,20 +56,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56468374</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56468374</guid>
             <pubDate>Sat, 20 Mar 2021 10:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leeds United great Peter Lorimer dies]]></title>
-            <description><![CDATA[Leeds United's all-time record goalscorer Peter Lorimer dies aged 74.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56234156</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56234156</guid>
-            <pubDate>Sat, 20 Mar 2021 12:37:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mar-a-Lago: 'Covid outbreak' at Trump's Florida residence]]></title>
-            <description><![CDATA[Parts of the Mar-a-Lago resort, where the former US president lives, have reportedly been closed.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56436927</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56436927</guid>
-            <pubDate>Sat, 20 Mar 2021 10:24:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: No international fans at Olympics and Paralympics]]></title>
@@ -98,6 +84,20 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-56468796</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-56468796</guid>
             <pubDate>Sat, 20 Mar 2021 12:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mystery as 'sonic boom' noise shakes homes in south west]]></title>
+            <description><![CDATA[The Ministry of Defence says the "massive bang" is not thought to be linked to any RAF aircraft.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-56468252</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56468252</guid>
+            <pubDate>Sat, 20 Mar 2021 17:23:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India beat England to win series]]></title>
+            <description><![CDATA[England lose the Twenty20 series decider to an India side that followed a batting masterclass with some wonderful bowling in Ahmedabad.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/56470362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56470362</guid>
+            <pubDate>Sat, 20 Mar 2021 17:34:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICYMI: Roof-trotting goats and Super Mario]]></title>
@@ -282,11 +282,32 @@
             <pubDate>Sat, 20 Mar 2021 14:59:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leeds United great Lorimer dies aged 74]]></title>
+            <description><![CDATA[Leeds United's all-time record goalscorer Peter Lorimer dies aged 74.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56234156</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56234156</guid>
+            <pubDate>Sat, 20 Mar 2021 12:37:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[FA Cup: Nathan Redmond shines as Southampton reach semis]]></title>
             <description><![CDATA[Watch Nathan Redmond shine for Southampton at Bournemouth as he scores twice and sets up another goal to help the Saints march into the FA Cup semi-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/56469115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56469115</guid>
             <pubDate>Sat, 20 Mar 2021 15:57:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Nations 2021: Scotland 52-10 Italy highlights]]></title>
+            <description><![CDATA[Watch highlights as Scotland run in eight tries to punish a poor Italy performance at Murrayfield with a 52-10 victory.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/56470290</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56470290</guid>
+            <pubDate>Sat, 20 Mar 2021 17:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FA Cup: Leicester's Jamie Vardy is 'frightened of no-one' says Brendan Rodgers]]></title>
+            <description><![CDATA[Leicester City manager Brendan Rodgers tells Gary Lineker that Jamie Vardy is "frightened of no-one" before their FA Cup quarter-final against Manchester United on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56464711</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56464711</guid>
+            <pubDate>Sat, 20 Mar 2021 06:14:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
