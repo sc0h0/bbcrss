@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Mar 2021 03:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 03:46:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: France and Poland increase lockdown measures as infections surge]]></title>
+            <description><![CDATA[Some 21 million people in France are affected, while in Poland shops and hotels are shut nationwide.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56466223</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56466223</guid>
+            <pubDate>Sat, 20 Mar 2021 03:21:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Rich states 'block' vaccine plans for developing nations]]></title>
             <description><![CDATA[Vaccine production proposals are being stalled, WHO documents leaked to BBC Newsnight show.]]></description>
             <link>https://www.bbc.co.uk/news/world-56465395</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56465395</guid>
             <pubDate>Sat, 20 Mar 2021 01:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Germany warns of 'exponential' rise in coronavirus cases]]></title>
-            <description><![CDATA[Health Minister Jens Spahn says Europe does not have enough vaccines to prevent a third wave.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56460696</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56460696</guid>
-            <pubDate>Fri, 19 Mar 2021 20:44:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: PM receives AstraZeneca jab as he urges public to do same]]></title>
@@ -196,6 +196,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56446812</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56446812</guid>
             <pubDate>Fri, 19 Mar 2021 01:23:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The forgotten referendum of 2011]]></title>
+            <description><![CDATA[Why the referendum everyone's forgotten shaped the last decade of our lives.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56435341</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56435341</guid>
+            <pubDate>Sat, 20 Mar 2021 03:36:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are some towns struggling to shake off Covid-19?]]></title>
