@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Mar 2021 20:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 20:41:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Record day for UK with 711,156 vaccinations given]]></title>
+            <description><![CDATA[More than 26.8 million first and 2.1 million second doses have now been given in the UK since December.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56469092</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56469092</guid>
+            <pubDate>Sat, 20 Mar 2021 20:26:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Summer holidays abroad 'unlikely', warns government adviser]]></title>
             <description><![CDATA[There is a risk travellers could bring Covid variants back to the UK, a government adviser warns.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56467813</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56467813</guid>
             <pubDate>Sat, 20 Mar 2021 18:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Half of UK adults receive first vaccine dose]]></title>
-            <description><![CDATA[Some 26,853,407 people in the UK were given a first dose between 8 December and 19 March.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56469092</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56469092</guid>
-            <pubDate>Sat, 20 Mar 2021 17:21:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: France and Poland increase lockdown measures as infections surge]]></title>
@@ -58,11 +58,11 @@
             <pubDate>Sat, 20 Mar 2021 19:01:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Icelandic volcano erupts near Reykjavik]]></title>
-            <description><![CDATA[Aerial footage shows lava snaking its way down after the eruption.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56468374</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56468374</guid>
-            <pubDate>Sat, 20 Mar 2021 10:35:01 GMT</pubDate>
+            <title><![CDATA[Iceland volcano: Lava-spewing Fagradalsfjall 'subsiding']]></title>
+            <description><![CDATA[The eruption was the first in the area for about 800 years and followed thousands of earthquakes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56470597</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56470597</guid>
+            <pubDate>Sat, 20 Mar 2021 20:37:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man's family 'begged' for hospital visit before he died]]></title>
@@ -72,7 +72,7 @@
             <pubDate>Sat, 20 Mar 2021 09:05:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo 2020: No international fans at Olympics and Paralympics]]></title>
+            <title><![CDATA[No international fans at Tokyo Olympics]]></title>
             <description><![CDATA[No international fans will be permitted at the delayed 2020 Tokyo Olympics and Paralympics this summer because of the pandemic.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/56461152</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/56461152</guid>
@@ -286,7 +286,7 @@
             <description><![CDATA[Late goals from Ilkay Gundogan and Kevin de Bruyne keep Manchester City on course for a quadruple with an FA Cup quarter-final win at Everton.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56460526</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56460526</guid>
-            <pubDate>Sat, 20 Mar 2021 20:09:52 GMT</pubDate>
+            <pubDate>Sat, 20 Mar 2021 20:23:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland score eight tries to rout sorry Italy - highlights & report]]></title>
@@ -296,11 +296,11 @@
             <pubDate>Sat, 20 Mar 2021 16:28:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six Nations 2021: Ireland 32-18 England highlights]]></title>
-            <description><![CDATA[Watch highlights as Ireland put in a superb performance to beat England 32-18 in Dublin despite Bundee Aki's red card.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/56470294</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56470294</guid>
-            <pubDate>Sat, 20 Mar 2021 19:31:17 GMT</pubDate>
+            <title><![CDATA[Six Nations 2021: Antoine Dupont finishes off a sublime French attack against Wales]]></title>
+            <description><![CDATA[Matthieu Jailbert and Brice Dulin combine beautifully to tee Antoine Dupont up for France's second try after a breathless start to their match against Wales in Paris.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/56472176</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56472176</guid>
+            <pubDate>Sat, 20 Mar 2021 20:37:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FA Cup highlights: Everton 0-2 Manchester City]]></title>
@@ -308,6 +308,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/56469124</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56469124</guid>
             <pubDate>Sat, 20 Mar 2021 20:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Nations 2021: Ireland 32-18 England highlights]]></title>
+            <description><![CDATA[Watch highlights as Ireland put in a superb performance to beat England 32-18 in Dublin despite Bundee Aki's red card.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/56470294</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56470294</guid>
+            <pubDate>Sat, 20 Mar 2021 19:31:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
