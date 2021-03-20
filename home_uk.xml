@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Mar 2021 13:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 13:28:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Sat, 20 Mar 2021 12:52:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Hancock hails UK vaccine success after record day for jabs]]></title>
+            <description><![CDATA[The health secretary announces half of all adults in the UK have now received a first vaccine dose.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56469092</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56469092</guid>
+            <pubDate>Sat, 20 Mar 2021 13:17:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Leeds United great Peter Lorimer dies]]></title>
             <description><![CDATA[Leeds United's all-time record goalscorer Peter Lorimer dies aged 74.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56234156</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56234156</guid>
             <pubDate>Sat, 20 Mar 2021 12:37:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: No international fans at Olympics and Paralympics]]></title>
-            <description><![CDATA[No international fans will be permitted at the delayed 2020 Tokyo Olympics and Paralympics this summer because of the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/56461152</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/56461152</guid>
-            <pubDate>Sat, 20 Mar 2021 12:11:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Icelandic volcano erupts near Reykjavik]]></title>
@@ -51,32 +51,11 @@
             <pubDate>Sat, 20 Mar 2021 10:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: Protests should be allowed during lockdown, say 60 MPs and peers]]></title>
-            <description><![CDATA[Protests are not listed as a "reasonable excuse" for leaving home in current lockdown legislation.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56466291</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56466291</guid>
-            <pubDate>Sat, 20 Mar 2021 05:46:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Plan unveiled to 'spruce up' coastal areas and high streets]]></title>
-            <description><![CDATA[Ministers hope extra money and easing of rules will help areas reopen safely as lockdown eases.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56461675</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56461675</guid>
-            <pubDate>Sat, 20 Mar 2021 08:54:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Six Nations 2021: Wales face France in Paris for Grand Slam in unfamiliar circumstances]]></title>
             <description><![CDATA[Wales seek their fifth Grand Slam of the Six Nations era on Saturday but the experience will be very different from previous years.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56434263</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56434263</guid>
             <pubDate>Sat, 20 Mar 2021 06:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Rich states 'block' vaccine plans for developing nations]]></title>
-            <description><![CDATA[Vaccine production proposals are being stalled, WHO documents leaked to BBC Newsnight show.]]></description>
-            <link>https://www.bbc.co.uk/news/world-56465395</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56465395</guid>
-            <pubDate>Sat, 20 Mar 2021 01:15:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mar-a-Lago: 'Covid outbreak' at Trump's Florida residence]]></title>
@@ -86,6 +65,20 @@
             <pubDate>Sat, 20 Mar 2021 10:24:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Plan unveiled to 'spruce up' coastal areas and high streets]]></title>
+            <description><![CDATA[Ministers hope extra money and easing of rules will help areas reopen safely as lockdown eases.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56461675</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56461675</guid>
+            <pubDate>Sat, 20 Mar 2021 08:54:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Protests should be allowed during lockdown, say 60 MPs and peers]]></title>
+            <description><![CDATA[Protests are not listed as a "reasonable excuse" for leaving home in current lockdown legislation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56466291</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56466291</guid>
+            <pubDate>Sat, 20 Mar 2021 05:46:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Australia warned of 'life-threatening' flash floods]]></title>
             <description><![CDATA[Dozens of people are rescued from floodwaters, as torrential rains batter the country's east coast.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56466310</link>
@@ -93,25 +86,18 @@
             <pubDate>Sat, 20 Mar 2021 04:43:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo 2020: No international fans at Olympics and Paralympics]]></title>
+            <description><![CDATA[No international fans will be permitted at the delayed 2020 Tokyo Olympics and Paralympics this summer because of the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/56461152</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/56461152</guid>
+            <pubDate>Sat, 20 Mar 2021 13:05:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Newtownabbey: Murder investigation launched after three found dead]]></title>
-            <description><![CDATA[Two women and a man were discovered by police at two homes in Newtownabbey on Friday night.]]></description>
+            <description><![CDATA[Police believe a man stabbed his mother and girlfriend at separate properties before killing himself.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56467195</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56467195</guid>
-            <pubDate>Sat, 20 Mar 2021 11:29:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comic Relief 2021: Justin Bieber and Prince William lead Red Nose Day stars]]></title>
-            <description><![CDATA[And the Duke of Cambridge thanks the public for its "compassion and generosity" as over £45m is raised.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56442606</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56442606</guid>
-            <pubDate>Sat, 20 Mar 2021 02:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thorntons closure: 'It was the place to get that Willy Wonka feeling']]></title>
-            <description><![CDATA[After 110 years of trading on the high street Thorntons is closing its remaining 61 shops.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-56426059</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-56426059</guid>
-            <pubDate>Sat, 20 Mar 2021 07:38:25 GMT</pubDate>
+            <pubDate>Sat, 20 Mar 2021 13:22:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Line Of Duty creator Jed Mercurio on the secret of the police drama's success]]></title>
@@ -121,18 +107,18 @@
             <pubDate>Sat, 20 Mar 2021 00:06:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronation Street uses real couples as Covid kissing doubles]]></title>
-            <description><![CDATA[As a way around Covid restrictions, the soap has had real-life romantics standing in for actors.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56453954</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56453954</guid>
-            <pubDate>Fri, 19 Mar 2021 21:37:39 GMT</pubDate>
+            <title><![CDATA[Thorntons closure: 'It was the place to get that Willy Wonka feeling']]></title>
+            <description><![CDATA[After 110 years of trading on the high street Thorntons is closing its remaining 61 shops.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-56426059</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-56426059</guid>
+            <pubDate>Sat, 20 Mar 2021 07:38:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Speeding motorway driver 'went to Wales for haircut']]></title>
-            <description><![CDATA[The motorist was stopped by police for driving at 122 mph on the M5 in Somerset.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-56462975</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-56462975</guid>
-            <pubDate>Fri, 19 Mar 2021 19:11:36 GMT</pubDate>
+            <title><![CDATA[Comic Relief 2021: Justin Bieber and Prince William lead Red Nose Day stars]]></title>
+            <description><![CDATA[And the Duke of Cambridge thanks the public for its "compassion and generosity" as over £45m is raised.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56442606</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56442606</guid>
+            <pubDate>Sat, 20 Mar 2021 02:14:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When is the census and what is it for?]]></title>
@@ -156,11 +142,11 @@
             <pubDate>Fri, 19 Mar 2021 18:16:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: Alarm over Europe's new wave and leaders 'on wanted list']]></title>
-            <description><![CDATA[Boris Johnson is pictured on several front pages getting a first dose of the Oxford-AstraZeneca jab.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56465142</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56465142</guid>
-            <pubDate>Sat, 20 Mar 2021 06:19:18 GMT</pubDate>
+            <title><![CDATA[What happened with the AstraZeneca vaccine?]]></title>
+            <description><![CDATA[Ros Atkins looks at how a vaccine hailed as a ‘game-changer’ has seen its reputation tarnished.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56456022</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56456022</guid>
+            <pubDate>Sat, 20 Mar 2021 00:06:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nathan Evans' sea shanty Wellerman goes to number one in UK chart]]></title>
@@ -170,18 +156,18 @@
             <pubDate>Fri, 19 Mar 2021 17:54:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What happened with the AstraZeneca vaccine?]]></title>
-            <description><![CDATA[Ros Atkins looks at how a vaccine hailed as a ‘game-changer’ has seen its reputation tarnished.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56456022</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56456022</guid>
-            <pubDate>Sat, 20 Mar 2021 00:06:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why is everyone fighting over the South China Sea?]]></title>
             <description><![CDATA[China claims most of it but surrounding countries and the US disagree. The BBC's Zhaoyin Feng explains why.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56459744</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56459744</guid>
             <pubDate>Sat, 20 Mar 2021 00:06:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Alarm over Europe's new wave and leaders 'on wanted list']]></title>
+            <description><![CDATA[Boris Johnson is pictured on several front pages getting a first dose of the Oxford-AstraZeneca jab.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56465142</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56465142</guid>
+            <pubDate>Sat, 20 Mar 2021 06:19:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Viral video exposes inequality in NCAA college basketball]]></title>
@@ -275,13 +261,6 @@
             <pubDate>Sat, 20 Mar 2021 10:23:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kamara says Kudela racism denial a 'complete and utter lie']]></title>
-            <description><![CDATA[Rangers' Glen Kamara insists he was subjected to "vile racist abuse" by Ondrej Kudela and says the Slavia Prague player's denial is "a complete utter lie".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56465292</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56465292</guid>
-            <pubDate>Fri, 19 Mar 2021 22:41:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[World number one Malan backed to come good in T20 decider]]></title>
             <description><![CDATA[Paul Collingwood backs England's Dawid Malan to find the form that led him to be rated as the number one Twenty20 batsman in the world.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/56462008</link>
@@ -289,11 +268,11 @@
             <pubDate>Fri, 19 Mar 2021 16:27:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['You represent yourself, your family, and a nation - a proud nation']]></title>
-            <description><![CDATA[Alun Wyn Jones, Ken Owens, George North and Jonathan Davies tell BBC Sport what it means to play for Wales ahead of their Six Nations Grand Slam decider against France.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/56468474</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56468474</guid>
-            <pubDate>Sat, 20 Mar 2021 11:08:59 GMT</pubDate>
+            <title><![CDATA[Kamara says Kudela racism denial a 'complete and utter lie']]></title>
+            <description><![CDATA[Rangers' Glen Kamara insists he was subjected to "vile racist abuse" by Ondrej Kudela and says the Slavia Prague player's denial is "a complete utter lie".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56465292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56465292</guid>
+            <pubDate>Fri, 19 Mar 2021 22:41:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
