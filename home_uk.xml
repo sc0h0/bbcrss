@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Mar 2021 01:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 02:33:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -62,7 +62,7 @@
             <description><![CDATA[And the Duke of Cambridge thanks the public for its "compassion and generosity" as over £45m is raised.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56442606</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56442606</guid>
-            <pubDate>Fri, 19 Mar 2021 22:18:18 GMT</pubDate>
+            <pubDate>Sat, 20 Mar 2021 02:14:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man jailed for £175,000 Riyad Mahrez bank card spending spree]]></title>
@@ -282,6 +282,41 @@
             <pubDate>Fri, 19 Mar 2021 23:15:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
+            <description><![CDATA[Are European countries relaxing restrictions put in place to control a new wave of infections?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Fri, 19 Mar 2021 16:55:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[Wales and Scotland have announced the easing of restrictions on people meeting]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Wed, 17 Mar 2021 16:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
+            <description><![CDATA[People aged 50 and over are the latest group to be invited to book their Covid vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Fri, 19 Mar 2021 10:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Where does the government borrow billions from?]]></title>
+            <description><![CDATA[How does it work when a government wants to borrow money, and when does it have to pay it back?]]></description>
+            <link>https://www.bbc.co.uk/news/business-50504151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-50504151</guid>
+            <pubDate>Fri, 19 Mar 2021 07:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 26 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Fri, 19 Mar 2021 17:49:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: What’s the problem with the EU vaccine rollout?]]></title>
             <description><![CDATA[The coronavirus vaccine is being rolled out across the EU but there have been delays.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52380823</link>
@@ -296,20 +331,6 @@
             <pubDate>Fri, 19 Mar 2021 14:46:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How many people have had their vaccine in the UK?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 26 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Fri, 19 Mar 2021 17:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
-            <description><![CDATA[People aged 50 and over are the latest group to be invited to book their Covid vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55045639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Fri, 19 Mar 2021 10:53:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[When will pubs, gyms and hairdressers open?]]></title>
             <description><![CDATA[Lockdown is being eased, so when will places like hairdressers, pubs and gyms open?]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53349989</link>
@@ -322,13 +343,6 @@
             <link>https://www.bbc.co.uk/news/health-51997151</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51997151</guid>
             <pubDate>Wed, 17 Mar 2021 18:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[Wales and Scotland have announced the easing of restrictions on people meeting]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Wed, 17 Mar 2021 16:49:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
@@ -413,6 +427,41 @@
             <link>https://www.bbc.co.uk/news/explainers-52135342</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
             <pubDate>Wed, 03 Mar 2021 14:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wildfires: Cambridgeshire archive saves couple's wedding album]]></title>
+            <description><![CDATA[Chris and Lindy Date, who married in the UK in 1963, lost everything in the 2020 US wildfires.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-56401868</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-56401868</guid>
+            <pubDate>Mon, 15 Mar 2021 12:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["We were the only people there to support them"]]></title>
+            <description><![CDATA[At the start of the pandemic Hannah swapped going to college to become a cleaner in a care home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56416118</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56416118</guid>
+            <pubDate>Tue, 16 Mar 2021 11:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Theatres 'ready to fight' after year 'from hell']]></title>
+            <description><![CDATA[One year since UK theatres shut, industry figures discuss the dire financial impact and reopening plans.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56394404</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56394404</guid>
+            <pubDate>Tue, 16 Mar 2021 00:09:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir David Attenborough answers dinosaur query from Otis, 4]]></title>
+            <description><![CDATA[Four-year-old Otis's mum was stumped, so they wrote to Sir David Attenborough... and he replied.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56429104</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56429104</guid>
+            <pubDate>Wed, 17 Mar 2021 15:22:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scientists unlock mysteries of world's oldest 'computer']]></title>
+            <description><![CDATA[The 2,000-year-old mechanism has baffled experts since it was discovered on a shipwreck in 1901.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56377567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56377567</guid>
+            <pubDate>Fri, 12 Mar 2021 17:59:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: The inside story of the government's battle against the virus]]></title>
