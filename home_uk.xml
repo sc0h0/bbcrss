@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Mar 2021 21:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 21:46:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Sat, 20 Mar 2021 19:51:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Walrus spotted in Wales, days after one seen off Ireland]]></title>
+            <description><![CDATA[The RSPCA describe it as "an incredibly rare sighting".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56470235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56470235</guid>
+            <pubDate>Sat, 20 Mar 2021 21:13:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Iceland volcano: Lava-spewing Fagradalsfjall 'subsiding']]></title>
             <description><![CDATA[The eruption was the first in the area for about 800 years and followed thousands of earthquakes.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56470597</link>
@@ -65,25 +72,11 @@
             <pubDate>Sat, 20 Mar 2021 09:05:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dundee University Covid outbreak linked to party]]></title>
-            <description><![CDATA[More than 30 Dundee University students test positive after a gathering at a private residence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-56468796</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-56468796</guid>
-            <pubDate>Sat, 20 Mar 2021 12:53:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mystery as 'sonic boom' noise shakes homes in south west]]></title>
             <description><![CDATA[The Ministry of Defence says the "massive bang" is not thought to be linked to any RAF aircraft.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-56468252</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56468252</guid>
             <pubDate>Sat, 20 Mar 2021 17:23:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sarm Heslop: 'Nine-hour delay' in report of Caribbean disappearance]]></title>
-            <description><![CDATA[Friends of Sarm Heslop, from Southampton, query the length of time it took to inform the coastguard.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-56467517</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-56467517</guid>
-            <pubDate>Sat, 20 Mar 2021 15:22:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uganda: Lions found dead in Queen Elizabeth National Park]]></title>
@@ -93,11 +86,18 @@
             <pubDate>Sat, 20 Mar 2021 15:56:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ireland 32-18 England: Hosts impress as they stun dismal England despite Bundee Aki red card]]></title>
-            <description><![CDATA[Ireland produce an outstanding display to overcome an ill-disciplined England 32-18 in the Six Nations despite Bundee Aki's red card.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56433709</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56433709</guid>
-            <pubDate>Sat, 20 Mar 2021 19:01:38 GMT</pubDate>
+            <title><![CDATA[Late goals take Man City through to FA Cup semi-final]]></title>
+            <description><![CDATA[Late goals from Ilkay Gundogan and Kevin de Bruyne keep Manchester City on course for a quadruple with an FA Cup quarter-final win at Everton.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56460526</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56460526</guid>
+            <pubDate>Sat, 20 Mar 2021 20:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dundee University Covid outbreak linked to party]]></title>
+            <description><![CDATA[More than 30 Dundee University students test positive after a gathering at a private residence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-56468796</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-56468796</guid>
+            <pubDate>Sat, 20 Mar 2021 12:53:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learning Welsh in lockdown... around the world]]></title>
@@ -268,11 +268,11 @@
             <pubDate>Fri, 19 Mar 2021 22:08:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Late goals see Man City past Everton and into semi-finals]]></title>
-            <description><![CDATA[Late goals from Ilkay Gundogan and Kevin de Bruyne keep Manchester City on course for a quadruple with an FA Cup quarter-final win at Everton.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56460526</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56460526</guid>
-            <pubDate>Sat, 20 Mar 2021 20:23:17 GMT</pubDate>
+            <title><![CDATA[14-man Ireland thump dismal England]]></title>
+            <description><![CDATA[Ireland produce an outstanding display to overcome an ill-disciplined England 32-18 in the Six Nations despite Bundee Aki's red card.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56433709</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56433709</guid>
+            <pubDate>Sat, 20 Mar 2021 19:01:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland score eight tries to rout sorry Italy - highlights & report]]></title>
@@ -282,18 +282,11 @@
             <pubDate>Sat, 20 Mar 2021 16:28:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Superb India beat England to win T20 series]]></title>
-            <description><![CDATA[England lose the Twenty20 series decider to an India side that followed a batting masterclass with some wonderful bowling in Ahmedabad.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/56470362</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56470362</guid>
-            <pubDate>Sat, 20 Mar 2021 17:34:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six Nations 2021: Antoine Dupont finishes off a sublime French attack against Wales]]></title>
-            <description><![CDATA[Matthieu Jailbert and Brice Dulin combine beautifully to tee Antoine Dupont up for France's second try after a breathless start to their match against Wales in Paris.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/56472176</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56472176</guid>
-            <pubDate>Sat, 20 Mar 2021 20:37:02 GMT</pubDate>
+            <title><![CDATA[Six Nations 2021: Josh Adams wins the scramble for a loose ball to stretch Wales' lead]]></title>
+            <description><![CDATA[Josh Adams steals in for Wales' third try after Justin Tipuric's kick sends the French defence scrambling in Paris.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/56472179</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56472179</guid>
+            <pubDate>Sat, 20 Mar 2021 21:35:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FA Cup highlights: Everton 0-2 Manchester City]]></title>
