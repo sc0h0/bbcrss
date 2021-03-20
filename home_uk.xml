@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Mar 2021 10:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 11:16:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Sat, 20 Mar 2021 10:39:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leeds United great Peter Lorimer dies]]></title>
+            <description><![CDATA[Leeds United's all-time record goalscorer Peter Lorimer dies aged 74.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56234156</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56234156</guid>
+            <pubDate>Sat, 20 Mar 2021 11:12:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Icelandic volcano erupts near Reykjavik]]></title>
             <description><![CDATA[Aerial footage shows lava snaking its way down after the eruption.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56468374</link>
@@ -37,11 +44,11 @@
             <pubDate>Sat, 20 Mar 2021 10:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Leeds United great Peter Lorimer dies]]></title>
-            <description><![CDATA[Leeds United's record goalscorer Peter Lorimer dies aged 74.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56234156</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56234156</guid>
-            <pubDate>Sat, 20 Mar 2021 10:36:58 GMT</pubDate>
+            <title><![CDATA[Tokyo 2020: No international fans at Olympics and Paralympics]]></title>
+            <description><![CDATA[No international fans will be permitted at the delayed 2020 Tokyo Olympics and Paralympics this summer because of the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/56461152</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/56461152</guid>
+            <pubDate>Sat, 20 Mar 2021 11:04:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: New lockdowns in Europe and kissing doubles on Corrie]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Sat, 20 Mar 2021 09:38:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronation Street uses real couples as Covid kissing doubles]]></title>
-            <description><![CDATA[As a way around Covid restrictions, the soap has had real-life romantics standing in for actors.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56453954</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56453954</guid>
-            <pubDate>Fri, 19 Mar 2021 21:37:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comic Relief 2021: Justin Bieber and Prince William lead Red Nose Day stars]]></title>
             <description><![CDATA[And the Duke of Cambridge thanks the public for its "compassion and generosity" as over £45m is raised.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56442606</link>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56462780</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56462780</guid>
             <pubDate>Sat, 20 Mar 2021 00:06:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronation Street uses real couples as Covid kissing doubles]]></title>
+            <description><![CDATA[As a way around Covid restrictions, the soap has had real-life romantics standing in for actors.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56453954</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56453954</guid>
+            <pubDate>Fri, 19 Mar 2021 21:37:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Alarm over Europe's new wave and leaders 'on wanted list']]></title>
