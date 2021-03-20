@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Mar 2021 00:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 01:54:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Rich states 'block' vaccine plans for developing nations]]></title>
+            <description><![CDATA[Vaccine production proposals are being stalled, WHO documents leaked to BBC Newsnight show.]]></description>
+            <link>https://www.bbc.co.uk/news/world-56465395</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56465395</guid>
+            <pubDate>Sat, 20 Mar 2021 01:15:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Germany warns of 'exponential' rise in coronavirus cases]]></title>
             <description><![CDATA[Health Minister Jens Spahn says Europe does not have enough vaccines to prevent a third wave.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56460696</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56460696</guid>
             <pubDate>Fri, 19 Mar 2021 20:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Volcano erupts near Iceland's capital Reykjavik]]></title>
-            <description><![CDATA[Officials are warning the public of the risk of falling rocks and landslides as Fagradalsfjall erupts.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56465393</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56465393</guid>
-            <pubDate>Fri, 19 Mar 2021 23:34:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: PM receives AstraZeneca jab as he urges public to do same]]></title>
@@ -37,18 +37,18 @@
             <pubDate>Fri, 19 Mar 2021 19:40:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Volcano erupts near Iceland's capital Reykjavik]]></title>
+            <description><![CDATA[Meteorologists say the last known eruption at Fagradalsfjall was about 800 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56465393</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56465393</guid>
+            <pubDate>Sat, 20 Mar 2021 01:23:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[PC's curfew sentence for 'terrifying' attack on woman criticised]]></title>
             <description><![CDATA[Oliver Banfield's victim says she thought he was "fulfilling a violent cop movie fantasy".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-56459217</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-56459217</guid>
             <pubDate>Fri, 19 Mar 2021 21:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finland ranked happiest country in the world - again]]></title>
-            <description><![CDATA[Denmark is in second place, followed by Switzerland and Iceland in the World Happiness Report.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56457295</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56457295</guid>
-            <pubDate>Fri, 19 Mar 2021 17:03:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronation Street uses real couples as Covid kissing doubles]]></title>
@@ -107,11 +107,25 @@
             <pubDate>Fri, 19 Mar 2021 21:07:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Papers: Alarm over Europe's new wave and leaders 'on wanted list']]></title>
+            <description><![CDATA[Boris Johnson is pictured on several front pages getting a first dose of the Oxford-AstraZeneca jab.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56465142</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56465142</guid>
+            <pubDate>Sat, 20 Mar 2021 01:10:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US President Joe Biden ‘doing fine’ after aircraft stumble]]></title>
             <description><![CDATA[A spokeswoman said the president is "doing 100% fine" after slipping while boarding Air Force One.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56462824</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56462824</guid>
             <pubDate>Fri, 19 Mar 2021 18:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finland ranked happiest country in the world - again]]></title>
+            <description><![CDATA[Denmark is in second place, followed by Switzerland and Iceland in the World Happiness Report.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56457295</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56457295</guid>
+            <pubDate>Fri, 19 Mar 2021 17:03:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nathan Evans' sea shanty Wellerman goes to number one in UK chart]]></title>
