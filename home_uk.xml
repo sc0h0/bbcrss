@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Mar 2021 22:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 23:20:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -90,7 +90,7 @@
             <description><![CDATA[Late goals from Ilkay Gundogan and Kevin de Bruyne keep Manchester City on course for a quadruple with an FA Cup quarter-final win at Everton.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56460526</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56460526</guid>
-            <pubDate>Sat, 20 Mar 2021 20:23:17 GMT</pubDate>
+            <pubDate>Sat, 20 Mar 2021 23:18:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Mumbai to roll out compulsory testing in crowded places]]></title>
@@ -303,6 +303,20 @@
             <pubDate>Sat, 20 Mar 2021 20:10:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Six Nations 2021: Ireland 32-18 England highlights]]></title>
+            <description><![CDATA[Watch highlights as Ireland put in a superb performance to beat England 32-18 in Dublin despite Bundee Aki's red card.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/56470294</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56470294</guid>
+            <pubDate>Sat, 20 Mar 2021 19:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
+            <description><![CDATA[How far has the UK's foreign-born population fallen during the coronavirus pandemic?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56435100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56435100</guid>
+            <pubDate>Sat, 20 Mar 2021 23:00:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
@@ -310,11 +324,11 @@
             <pubDate>Sat, 20 Mar 2021 16:57:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
-            <description><![CDATA[Are European countries relaxing restrictions put in place to control a new wave of infections?]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
-            <pubDate>Fri, 19 Mar 2021 16:55:36 GMT</pubDate>
+            <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
+            <description><![CDATA[The Oxford-AstraZeneca vaccines should save many lives, say experts.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55302595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
+            <pubDate>Fri, 19 Mar 2021 16:09:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
@@ -322,6 +336,20 @@
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
             <pubDate>Wed, 17 Mar 2021 16:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When will pubs, hairdressers and gyms open?]]></title>
+            <description><![CDATA[Lockdown is being eased, so when will places like hairdressers, pubs and gyms open?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
+            <pubDate>Tue, 16 Mar 2021 17:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
+            <description><![CDATA[Are European countries relaxing restrictions put in place to control a new wave of infections?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Fri, 19 Mar 2021 16:55:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
@@ -357,13 +385,6 @@
             <link>https://www.bbc.co.uk/news/health-52473523</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52473523</guid>
             <pubDate>Fri, 19 Mar 2021 14:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When will pubs, gyms and hairdressers open?]]></title>
-            <description><![CDATA[Lockdown is being eased, so when will places like hairdressers, pubs and gyms open?]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
-            <pubDate>Tue, 16 Mar 2021 17:03:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Who should be shielding and why?]]></title>
@@ -420,13 +441,6 @@
             <link>https://www.bbc.co.uk/news/education-55591821</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-55591821</guid>
             <pubDate>Tue, 16 Mar 2021 12:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
-            <description><![CDATA[The Oxford-AstraZeneca vaccines should save many lives, say experts.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55302595</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
-            <pubDate>Fri, 19 Mar 2021 16:09:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Data by country]]></title>
