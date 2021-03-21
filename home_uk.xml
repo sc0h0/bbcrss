@@ -11,30 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Mar 2021 21:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 21:28:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Bristol protest: Police attacked as 'Kill the Bill' demo turns violent]]></title>
+            <description><![CDATA[Officers suffered suspected broken bones as angry scenes unfolded in Bristol city centre.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-56477887</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-56477887</guid>
+            <pubDate>Sun, 21 Mar 2021 21:12:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fireworks thrown in 'unprecedented' Bristol violence]]></title>
+            <description><![CDATA["This is the worst violence in Bristol for many, many years," the Police Federation says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56478904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56478904</guid>
+            <pubDate>Sun, 21 Mar 2021 20:47:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Record-breaking day with 844,285 vaccine doses given in UK]]></title>
             <description><![CDATA[Boris Johnson thanks "everyone involved" and calls on people to get the vaccine when they are invited.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56477291</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56477291</guid>
             <pubDate>Sun, 21 Mar 2021 17:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol protest: Demonstrators clash with police]]></title>
-            <description><![CDATA[Officers suffered suspected broken bones as angry scenes unfolded in Bristol city centre.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-56477887</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-56477887</guid>
-            <pubDate>Sun, 21 Mar 2021 20:48:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fireworks thrown as Bristol protest turns violent]]></title>
-            <description><![CDATA["This is the worst violence in Bristol for many, many years," the Police Federation says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56478904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56478904</guid>
-            <pubDate>Sun, 21 Mar 2021 20:47:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Masks and social distancing 'could last years']]></title>
@@ -58,7 +58,7 @@
             <pubDate>Sun, 21 Mar 2021 19:54:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Miami imposes emergency curfew over spring break 'chaos']]></title>
+            <title><![CDATA[Covid-19: Miami Beach imposes emergency curfew over spring break 'chaos']]></title>
             <description><![CDATA[Large crowds on the US city's party strips prompted an emergency overnight curfew.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56476904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56476904</guid>
@@ -317,18 +317,18 @@
             <pubDate>Sun, 21 Mar 2021 19:08:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
-            <description><![CDATA[How far has the UK's foreign-born population fallen during the coronavirus pandemic?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56435100</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56435100</guid>
-            <pubDate>Sat, 20 Mar 2021 23:00:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Sun, 21 Mar 2021 17:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[Wales and Scotland have announced the easing of restrictions on people meeting]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Wed, 17 Mar 2021 16:49:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
@@ -338,11 +338,11 @@
             <pubDate>Fri, 19 Mar 2021 16:09:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[Wales and Scotland have announced the easing of restrictions on people meeting]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Wed, 17 Mar 2021 16:49:04 GMT</pubDate>
+            <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
+            <description><![CDATA[How far has the UK's foreign-born population fallen during the coronavirus pandemic?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56435100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56435100</guid>
+            <pubDate>Sat, 20 Mar 2021 23:00:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: When will pubs, hairdressers and gyms open?]]></title>
