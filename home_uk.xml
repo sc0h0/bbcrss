@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Mar 2021 12:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 13:03:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,14 @@
             <description><![CDATA[Defence Secretary Ben Wallace warns that booking a trip abroad would be "premature".]]></description>
             <link>https://www.bbc.co.uk/news/uk-56475666</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56475666</guid>
-            <pubDate>Sun, 21 Mar 2021 12:08:00 GMT</pubDate>
+            <pubDate>Sun, 21 Mar 2021 12:36:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Masks and social distancing 'could last years']]></title>
+            <description><![CDATA[Measures may remain until jabs roll-out across the world, Public Health England's Dr Mary Ramsay says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56475807</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56475807</guid>
+            <pubDate>Sun, 21 Mar 2021 12:44:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: EU should not 'build walls' around vaccines - Wallace]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-56473115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56473115</guid>
             <pubDate>Sun, 21 Mar 2021 10:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Dying nurse told sister 'follow in my footsteps']]></title>
-            <description><![CDATA[Areema Nasreen was one of the youngest NHS workers to die of Covid-19 at the start of the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56377782</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56377782</guid>
-            <pubDate>Sun, 21 Mar 2021 07:30:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netherlands experiments with Covid music festival]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-56426059</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-56426059</guid>
             <pubDate>Sat, 20 Mar 2021 07:38:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Dying nurse told sister 'follow in my footsteps']]></title>
+            <description><![CDATA[Areema Nasreen was one of the youngest NHS workers to die of Covid-19 at the start of the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56377782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56377782</guid>
+            <pubDate>Sun, 21 Mar 2021 07:30:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[North Korea’s ‘only openly gay defector’ finds love]]></title>
