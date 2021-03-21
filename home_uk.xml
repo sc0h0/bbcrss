@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Mar 2021 17:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 18:21:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,6 +79,13 @@
             <pubDate>Sun, 21 Mar 2021 14:48:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lives lost to violence an 'absolute tragedy']]></title>
+            <description><![CDATA[After two women are killed, the justice minister says early intervention is needed to tackle offending behaviours.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56474195</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56474195</guid>
+            <pubDate>Sun, 21 Mar 2021 17:18:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Miami imposes emergency curfew over spring break 'chaos']]></title>
             <description><![CDATA[Large crowds on the US city's party strips prompted an emergency overnight curfew.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56476904</link>
@@ -93,13 +100,6 @@
             <pubDate>Sun, 21 Mar 2021 15:36:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Sonic boom' in Dorset blamed on 'fireball meteor']]></title>
-            <description><![CDATA[People in parts of south-west England report seeing a "streak of light" hurtling across the sky.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-56475333</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56475333</guid>
-            <pubDate>Sun, 21 Mar 2021 16:08:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['We've changed the narrative': Pandemic positivity on the Alton Estate]]></title>
             <description><![CDATA[The mental, physical and financial impact of lockdown on one of the UK's biggest council estates.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56413821</link>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-56474734</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56474734</guid>
             <pubDate>Sun, 21 Mar 2021 11:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Sonic boom' in Dorset blamed on 'fireball meteor']]></title>
+            <description><![CDATA[People in parts of south-west England report seeing a "streak of light" hurtling across the sky.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-56475333</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56475333</guid>
+            <pubDate>Sun, 21 Mar 2021 16:08:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netherlands experiments with Covid music festival]]></title>
@@ -254,11 +261,18 @@
             <pubDate>Sat, 20 Mar 2021 03:36:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chelsea to face Man City in FA Cup semi-final]]></title>
+            <description><![CDATA[Eight-time winners Chelsea will play quadruple-chasing Manchester City while Southampton face Leicester or Manchester United in the FA Cup semi-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56470617</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56470617</guid>
+            <pubDate>Sun, 21 Mar 2021 18:08:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Arsenal come from 3-0 down to rescue point in thriller with West Ham]]></title>
             <description><![CDATA[Arsenal come from three goals down to rescue a point in a stunning game at London rivals West Ham in the Premier League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56390453</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56390453</guid>
-            <pubDate>Sun, 21 Mar 2021 17:47:41 GMT</pubDate>
+            <pubDate>Sun, 21 Mar 2021 17:56:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chelsea made to battle against Sheff Utd but move into FA Cup semis]]></title>
@@ -294,13 +308,6 @@
             <link>https://www.bbc.co.uk/sport/av/rugby-union/56472762</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56472762</guid>
             <pubDate>Sat, 20 Mar 2021 23:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FA Cup: Kelechi Iheanacho pounces on Fred's calamitous backpass to put Foxes in front]]></title>
-            <description><![CDATA[Kelechi Iheanacho latches on to Fred's wayward backpass as Manchester United concede a calamitous opening goal in their FA Cup quarter-final tie against Leicester City.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56476877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56476877</guid>
-            <pubDate>Sun, 21 Mar 2021 17:44:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
