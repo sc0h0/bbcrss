@@ -20,6 +20,9 @@ jobs:
     - name: Run XSLT
       run: |-
         xsltproc rss.xslt home_uk.xml > home_uk.md
+    - name: Run XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt home_uk.xml > home_uk_nodate.md
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
