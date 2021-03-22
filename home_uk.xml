@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Mar 2021 21:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 21:53:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,13 +72,6 @@
             <pubDate>Mon, 22 Mar 2021 12:57:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kill the Bill Bristol protest: More arrests expected]]></title>
-            <description><![CDATA[Police say more arrests are imminent after Sunday's disorder in Bristol.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-56461796</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-56461796</guid>
-            <pubDate>Mon, 22 Mar 2021 21:22:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Australia: Worst flooding in decades sweeps away homes and animals]]></title>
             <description><![CDATA[Thousands have been evacuated but more heavy rain is set to come, peaking on Tuesday.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56485246</link>
@@ -98,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/technology-56486137</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56486137</guid>
             <pubDate>Mon, 22 Mar 2021 17:17:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huge fire sweeps through Rohingya camp in Bangladesh]]></title>
+            <description><![CDATA[A massive blaze engulfed the camp in Cox's Bazar, killing several people and destroying homes.]]></description>
+            <link>https://www.bbc.co.uk/news/56490348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56490348</guid>
+            <pubDate>Mon, 22 Mar 2021 17:28:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alexander Monson: Kenya police to stand trial over death of British man]]></title>
@@ -254,7 +254,7 @@
             <pubDate>Mon, 22 Mar 2021 13:07:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England players can win T20 World Cup spots in one-day series - Morgan]]></title>
+            <title><![CDATA[England players can win T20 World Cup spots in India one-day series - Morgan]]></title>
             <description><![CDATA[Captain Eoin Morgan says players from outside England's Twenty20 side can use the one-day series against India to push their case to be at the World Cup.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/56472575</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56472575</guid>
