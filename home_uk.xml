@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Mar 2021 08:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 08:58:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,14 @@
             <description><![CDATA[EU leaders will hold a virtual summit on Thursday to discuss the fate of vaccines made on the continent.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56479814</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56479814</guid>
-            <pubDate>Mon, 22 Mar 2021 07:45:50 GMT</pubDate>
+            <pubDate>Mon, 22 Mar 2021 08:46:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: US trial of AstraZeneca jab confirms safety]]></title>
             <description><![CDATA[Regulators in America have been waiting for these results to decide on approval.]]></description>
             <link>https://www.bbc.co.uk/news/health-56479462</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56479462</guid>
-            <pubDate>Mon, 22 Mar 2021 07:06:24 GMT</pubDate>
+            <pubDate>Mon, 22 Mar 2021 08:39:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bristol Kill the Bill protest 'shameful', says Marvin Rees]]></title>
@@ -52,7 +52,7 @@
         </item>
         <item>
             <title><![CDATA[Covid: Supermarket limits lifted as lockdown in Wales eases]]></title>
-            <description><![CDATA[Supermarkets can sell non-essential items and garden centres can open from Monday.]]></description>
+            <description><![CDATA[Shops already open can sell non-essential items and garden centres can open from today.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-56457646</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56457646</guid>
             <pubDate>Mon, 22 Mar 2021 06:05:35 GMT</pubDate>
@@ -63,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-56476998</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56476998</guid>
             <pubDate>Mon, 22 Mar 2021 08:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Donald Trump plans social media comeback, says adviser]]></title>
-            <description><![CDATA[The ex-US president, banned by Twitter and Facebook, will launch "his own platform", an aide says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56479316</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56479316</guid>
-            <pubDate>Mon, 22 Mar 2021 00:35:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK 'heading towards digital skills shortage disaster']]></title>
@@ -86,18 +79,25 @@
             <pubDate>Mon, 22 Mar 2021 06:06:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Bury councillor hit twice by virus 'still not fully recovered']]></title>
-            <description><![CDATA[A year ago, Tamoor Tariq published a distressing video of himself gasping for breath with the virus.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-56358344</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56358344</guid>
-            <pubDate>Mon, 22 Mar 2021 06:09:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kitboga: How AI is helping me waste scammers’ time]]></title>
             <description><![CDATA[Twitch streamer, Kitboga, says he wanted to stop con artists trying to steal from people.]]></description>
             <link>https://www.bbc.co.uk/news/technology-56458267</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56458267</guid>
             <pubDate>Mon, 22 Mar 2021 00:10:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Guernsey leaves second pandemic lockdown]]></title>
+            <description><![CDATA[Nearly all coronavirus restrictions are lifted, with border controls remaining in place.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-guernsey-56457590</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-guernsey-56457590</guid>
+            <pubDate>Mon, 22 Mar 2021 07:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Bury councillor hit twice by virus 'still not fully recovered']]></title>
+            <description><![CDATA[A year ago, Tamoor Tariq published a distressing video of himself gasping for breath with the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-56358344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56358344</guid>
+            <pubDate>Mon, 22 Mar 2021 06:09:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Tussle' over Covid vaccines, and fiery protest pictures]]></title>
@@ -170,11 +170,25 @@
             <pubDate>Mon, 22 Mar 2021 02:08:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: 'Young medics have seen more deaths than some do in a career']]></title>
+            <description><![CDATA[About a third of Ealing Hospital staff are under 30 - how have they coped with a year of Covid-19?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56286593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56286593</guid>
+            <pubDate>Mon, 22 Mar 2021 07:38:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why India is talking about ripped jeans and knees]]></title>
             <description><![CDATA[Thousands of women are sharing their photos in ripped jeans on social media - but why?]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56453929</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56453929</guid>
             <pubDate>Mon, 22 Mar 2021 00:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London elections 2021: What can the mayor of London do?]]></title>
+            <description><![CDATA[Londoners elect a new mayor on 6 May. The role has the largest personal mandate of any politician in the UK, what do they do with it?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56455840</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56455840</guid>
+            <pubDate>Mon, 22 Mar 2021 08:43:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I’ll buy five items and only keep one of them']]></title>
@@ -191,25 +205,18 @@
             <pubDate>Mon, 22 Mar 2021 00:06:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Israel election hopes and fears play out in crater town]]></title>
+            <description><![CDATA[For voters in Mitzpe Ramon, Tuesday's poll means keeping or casting out Israel's PM Benjamin Netanyahu.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56441048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56441048</guid>
+            <pubDate>Mon, 22 Mar 2021 00:04:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus: Dying nurse told sister 'follow in my footsteps']]></title>
             <description><![CDATA[Areema Nasreen was one of the youngest NHS workers to die of Covid-19 at the start of the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-56377782</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56377782</guid>
             <pubDate>Sun, 21 Mar 2021 07:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Egyptian feminist Nawal El Saadawi dies at 89]]></title>
-            <description><![CDATA[Nawal El Saadawi, who has died at 89, drew outrage and admiration in her conservative home country.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-55048245</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-55048245</guid>
-            <pubDate>Sun, 21 Mar 2021 14:26:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea’s ‘only openly gay defector’ finds love]]></title>
-            <description><![CDATA[Jang Yeong-jin fled North Korea to escape a loveless marriage. Now he is engaged to his boyfriend.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56323825</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56323825</guid>
-            <pubDate>Sun, 21 Mar 2021 00:17:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Where are England going wrong - and how can Jones turn things around?]]></title>
@@ -233,7 +240,7 @@
             <pubDate>Mon, 22 Mar 2021 06:01:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Football's Darkest Secrets: Survivors of child abuse in football tell their stories]]></title>
+            <title><![CDATA[Football's Darkest Secret: Survivors of child abuse in football tell their stories]]></title>
             <description><![CDATA[In a new BBC three-part programme, Football's Darkest Secrets, survivors of child sexual abuse in football talk about the impact on their lives and about speaking out.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56378292</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56378292</guid>
@@ -441,6 +448,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-56423211</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56423211</guid>
             <pubDate>Wed, 17 Mar 2021 06:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea’s ‘only openly gay defector’ finds love]]></title>
+            <description><![CDATA[Jang Yeong-jin fled North Korea to escape a loveless marriage. Now he is engaged to his boyfriend.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56323825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56323825</guid>
+            <pubDate>Sun, 21 Mar 2021 00:17:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
