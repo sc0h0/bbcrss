@@ -11,37 +11,37 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Mar 2021 16:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 16:53:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Nicola Sturgeon cleared of breaching ministerial code]]></title>
+            <description><![CDATA[An independent report says the first minister's involvement in the Alex Salmond saga did not break the rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56482878</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56482878</guid>
+            <pubDate>Mon, 22 Mar 2021 16:52:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coronavirus: Third wave will 'wash up on our shores', warns Johnson]]></title>
             <description><![CDATA[Boris Johnson says the UK will "feel effects" of growing case numbers in Europe amid a row over vaccines.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56486067</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56486067</guid>
-            <pubDate>Mon, 22 Mar 2021 15:20:24 GMT</pubDate>
+            <pubDate>Mon, 22 Mar 2021 16:22:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid vaccine: US trial of AstraZeneca jab confirms safety]]></title>
-            <description><![CDATA[Regulators in America have been waiting for these results to decide on approval.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56479462</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56479462</guid>
-            <pubDate>Mon, 22 Mar 2021 08:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol riot: Violent clashes with police 'shameful']]></title>
-            <description><![CDATA[Police, who have arrested seven people so far, say "thuggish citizens" will be brought to justice.]]></description>
+            <title><![CDATA[Kill the Bill Bristol protest 'shameful' Priti Patel says]]></title>
+            <description><![CDATA[Police make seven arrests and say "thuggish citizens" will be brought to justice.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-56461796</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-56461796</guid>
-            <pubDate>Mon, 22 Mar 2021 13:57:20 GMT</pubDate>
+            <pubDate>Mon, 22 Mar 2021 16:24:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defence review: Army 'to be reduced by 10,000 troops']]></title>
             <description><![CDATA[A review of the UK's defence policy sees new investment in cyber warfare, robotics and drones.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56477900</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56477900</guid>
-            <pubDate>Mon, 22 Mar 2021 13:42:44 GMT</pubDate>
+            <pubDate>Mon, 22 Mar 2021 16:50:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish independence: Draft bill for indyref2 published]]></title>
@@ -65,11 +65,18 @@
             <pubDate>Mon, 22 Mar 2021 13:36:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uighurs: EU imposes sanctions on Chinese officials over rights abuses]]></title>
-            <description><![CDATA[For the first time since the Tiananmen Square massacre, the European Union sanctions China over rights abuses.]]></description>
+            <title><![CDATA[YouTuber David Dobrik quits app after rape video claim]]></title>
+            <description><![CDATA[Several high-profile sponsors have also withdrawn their support for the influencer.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56486137</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56486137</guid>
+            <pubDate>Mon, 22 Mar 2021 16:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uighurs: Western countries sanction China over rights abuses]]></title>
+            <description><![CDATA[A coordinated effort by the EU, UK, US and Canada seeks to raise pressure on Beijing.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56487162</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56487162</guid>
-            <pubDate>Mon, 22 Mar 2021 15:28:09 GMT</pubDate>
+            <pubDate>Mon, 22 Mar 2021 16:28:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sandra Oh gives passionate speech at Stop Asian Hate rally]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/56481286</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/56481286</guid>
             <pubDate>Mon, 22 Mar 2021 09:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aretha Franklin's family protest about National Geographic's Genius biopic]]></title>
-            <description><![CDATA[The star's family say they "do not support" the TV series, starring British actress Cynthia Erivo.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56482684</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56482684</guid>
-            <pubDate>Mon, 22 Mar 2021 11:56:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Line of Duty: Series six opener attracts record 9.6m audience]]></title>
@@ -275,6 +275,13 @@
             <pubDate>Fri, 19 Mar 2021 10:53:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
+            <description><![CDATA[The Oxford-AstraZeneca vaccines should save many lives, say experts.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55302595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
+            <pubDate>Mon, 22 Mar 2021 14:26:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Vaccine passports': Will I need one for going out, work and travel?]]></title>
             <description><![CDATA[The culture secretary has said they are looking at "covid certification" for attending large events]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
@@ -308,13 +315,6 @@
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Sun, 21 Mar 2021 17:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
-            <description><![CDATA[The Oxford-AstraZeneca vaccines should save many lives, say experts.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55302595</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
-            <pubDate>Mon, 22 Mar 2021 14:26:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
