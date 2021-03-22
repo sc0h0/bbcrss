@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Mar 2021 10:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 10:50:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[EU leaders will hold a virtual summit on Thursday to discuss the fate of vaccines made on the continent.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56479814</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56479814</guid>
-            <pubDate>Mon, 22 Mar 2021 09:52:29 GMT</pubDate>
+            <pubDate>Mon, 22 Mar 2021 10:43:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: US trial of AstraZeneca jab confirms safety]]></title>
@@ -58,6 +58,13 @@
             <pubDate>Mon, 22 Mar 2021 10:04:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Colin Pitchfork: 'Grave concerns' over double child killer's release]]></title>
+            <description><![CDATA[Colin Pitchfork was jailed in 1988 after DNA linked him to the rape and murder of two 15-year-olds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-56461241</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-56461241</guid>
+            <pubDate>Mon, 22 Mar 2021 10:04:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Australia floods: Thousands evacuated as downpours worsen]]></title>
             <description><![CDATA[A severe warning is extended to the whole New South Wales coast, in the worst flooding in decades.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56476998</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-56462071</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56462071</guid>
             <pubDate>Mon, 22 Mar 2021 06:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colin Pitchfork: 'Grave concerns' over double child killer's release]]></title>
-            <description><![CDATA[Colin Pitchfork was jailed in 1988 after DNA linked him to the rape and murder of two 15-year-olds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-56461241</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-56461241</guid>
-            <pubDate>Mon, 22 Mar 2021 10:04:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Bury councillor hit twice by virus 'still not fully recovered']]></title>
@@ -170,25 +170,11 @@
             <pubDate>Mon, 22 Mar 2021 09:58:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid inequality: 'I struggled with the bills and my health']]></title>
-            <description><![CDATA[People on the financial precipice are disproportionately likely to be unemployed, renting, female, and black.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56359863</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56359863</guid>
-            <pubDate>Mon, 22 Mar 2021 02:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: 'Young medics have seen more deaths than some do in a career']]></title>
-            <description><![CDATA[About a third of Ealing Hospital staff are under 30 - how have they coped with a year of Covid-19?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56286593</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56286593</guid>
-            <pubDate>Mon, 22 Mar 2021 07:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why India is talking about ripped jeans and knees]]></title>
-            <description><![CDATA[Thousands of women are sharing their photos in ripped jeans on social media - but why?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56453929</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56453929</guid>
-            <pubDate>Mon, 22 Mar 2021 00:01:43 GMT</pubDate>
+            <title><![CDATA['I’ll buy five items and only keep one of them']]></title>
+            <description><![CDATA[With online returns soaring during the pandemic, tech firms are helping retailers deal with the rise.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-56103106</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56103106</guid>
+            <pubDate>Mon, 22 Mar 2021 00:08:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[London elections 2021: What can the mayor of London do?]]></title>
@@ -198,11 +184,25 @@
             <pubDate>Mon, 22 Mar 2021 08:43:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I’ll buy five items and only keep one of them']]></title>
-            <description><![CDATA[With online returns soaring during the pandemic, tech firms are helping retailers deal with the rise.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-56103106</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56103106</guid>
-            <pubDate>Mon, 22 Mar 2021 00:08:27 GMT</pubDate>
+            <title><![CDATA[Covid: 'Young medics have seen more deaths than some do in a career']]></title>
+            <description><![CDATA[About a third of Ealing Hospital staff are under 30 - how have they coped with a year of Covid-19?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56286593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56286593</guid>
+            <pubDate>Mon, 22 Mar 2021 07:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid inequality: 'I struggled with the bills and my health']]></title>
+            <description><![CDATA[People on the financial precipice are disproportionately likely to be unemployed, renting, female, and black.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56359863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56359863</guid>
+            <pubDate>Mon, 22 Mar 2021 02:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why India is talking about ripped jeans and knees]]></title>
+            <description><![CDATA[Thousands of women are sharing their photos in ripped jeans on social media - but why?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56453929</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56453929</guid>
+            <pubDate>Mon, 22 Mar 2021 00:01:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Covid nurses' song of hope from Italy]]></title>
@@ -245,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/football/56378292</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56378292</guid>
             <pubDate>Mon, 22 Mar 2021 09:06:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch the best tries from the 2021 Six Nations]]></title>
+            <description><![CDATA[Watch the best tries from the 2021 Six Nations - with starring roles for England's Jonny May, France's Antoine Dupont and Wales wing Louis Rees-Zammit.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/56477940</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56477940</guid>
+            <pubDate>Mon, 22 Mar 2021 06:32:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
