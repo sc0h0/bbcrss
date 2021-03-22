@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Mar 2021 18:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 18:53:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,10 +31,17 @@
         </item>
         <item>
             <title><![CDATA[Defence review: British army to be cut to 72,500 troops by 2025]]></title>
-            <description><![CDATA[A review of the UK's defence policy sees new investment in cyber warfare, robotics and drones.]]></description>
+            <description><![CDATA[A review of the UK's defence policy brings new investment in cyber warfare, robotics and drones.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56477900</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56477900</guid>
-            <pubDate>Mon, 22 Mar 2021 18:15:37 GMT</pubDate>
+            <pubDate>Mon, 22 Mar 2021 18:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: PM's third wave warning, and how to save your houseplants]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56488699</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56488699</guid>
+            <pubDate>Mon, 22 Mar 2021 16:58:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[David Dobrik quits app after associate accused of rape]]></title>
@@ -65,25 +72,18 @@
             <pubDate>Mon, 22 Mar 2021 12:57:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Uighurs: Western countries sanction China over rights abuses]]></title>
+            <description><![CDATA[A coordinated effort by the EU, UK, US and Canada seeks to raise pressure on Beijing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56487162</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56487162</guid>
+            <pubDate>Mon, 22 Mar 2021 18:29:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Clive Myrie to replace John Humphrys as Mastermind host]]></title>
             <description><![CDATA[The BBC journalist will take over from John Humphrys on the long-running quiz show.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-56484185</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56484185</guid>
             <pubDate>Mon, 22 Mar 2021 17:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uighurs: Western countries sanction China over rights abuses]]></title>
-            <description><![CDATA[A coordinated effort by the EU, UK, US and Canada seeks to raise pressure on Beijing.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56487162</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56487162</guid>
-            <pubDate>Mon, 22 Mar 2021 16:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sandra Oh gives passionate speech at Stop Asian Hate rally]]></title>
-            <description><![CDATA[The actress speaks at a Stop Asian Hate rally following last week's Atlanta spa shootings in the US.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56483297</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56483297</guid>
-            <pubDate>Mon, 22 Mar 2021 14:12:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katherine Diaz: Tributes paid to surfer killed by lightning]]></title>
