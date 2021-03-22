@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Mar 2021 14:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 15:09:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Mon, 22 Mar 2021 13:57:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australia floods: Rainfall set to peak as weather systems collide]]></title>
-            <description><![CDATA[Two weather systems collide over inundated New South Wales, with its whole coast now on alert.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-56485246</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56485246</guid>
-            <pubDate>Mon, 22 Mar 2021 13:19:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scottish independence: Draft bill for indyref2 published]]></title>
             <description><![CDATA[The SNP wants to hold an independence referendum in the first half of the next Scottish Parliament session.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56482881</link>
@@ -58,18 +51,18 @@
             <pubDate>Mon, 22 Mar 2021 13:42:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Australia floods: Rainfall set to peak as weather systems collide]]></title>
+            <description><![CDATA[Two weather systems collide over inundated New South Wales, with its whole coast now on alert.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-56485246</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56485246</guid>
+            <pubDate>Mon, 22 Mar 2021 13:19:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meghan's Mail on Sunday statement on hold]]></title>
             <description><![CDATA[A notice about the Duchess of Sussex's copyright win is on hold pending a possible appeal by the newspaper.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56485477</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56485477</guid>
             <pubDate>Mon, 22 Mar 2021 12:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BBC to screen Women's Super League football]]></title>
-            <description><![CDATA[BBC will show live Women's Super League matches on network TV for the first time as part of a multi-million-pound broadcast deal with Sky Sports.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56459754</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56459754</guid>
-            <pubDate>Mon, 22 Mar 2021 12:59:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clive Myrie to replace John Humphrys as Mastermind host]]></title>
@@ -254,6 +247,13 @@
             <pubDate>Mon, 22 Mar 2021 10:55:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BBC to show WSL games on network TV for first time in new 'landmark' deal]]></title>
+            <description><![CDATA[BBC will show live Women's Super League matches on network TV for the first time as part of a multi-million-pound broadcast deal with Sky Sports.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56459754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56459754</guid>
+            <pubDate>Mon, 22 Mar 2021 12:59:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Seven options, three spots - who should start in England's attack with Kane?]]></title>
             <description><![CDATA[England manager Gareth Southgate appears spoilt for choice with attacking options this summer, who do you think he should take?]]></description>
             <link>https://www.bbc.co.uk/sport/football/56330575</link>
@@ -273,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/football/56378292</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56378292</guid>
             <pubDate>Mon, 22 Mar 2021 09:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MOTD 2 analysis: How Arsenal's Martin Odegaard went from 'bang average' to 'sensational' against West Ham]]></title>
-            <description><![CDATA[Match of the Day 2 pundits Alex Scott and Carlton Cole analyse Martin Odegaard "sensational" performance for Arsenal at West Ham after being "bang average" earlier in the season.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56483327</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56483327</guid>
-            <pubDate>Mon, 22 Mar 2021 13:20:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
