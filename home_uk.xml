@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Mar 2021 07:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 07:28:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Mon, 22 Mar 2021 04:19:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Supermarket limits lifted as lockdown in Wales eases]]></title>
+            <description><![CDATA[Supermarkets can sell non-essential items and garden centres can open from Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56457646</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56457646</guid>
+            <pubDate>Mon, 22 Mar 2021 06:05:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Australia floods: Thousands evacuated as downpours worsen]]></title>
             <description><![CDATA[Sydney and other cities are braced for more downpours amid the region's worst flooding in decades.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56476998</link>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56479316</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56479316</guid>
             <pubDate>Mon, 22 Mar 2021 00:35:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Supermarket limits lifted as lockdown in Wales eases]]></title>
-            <description><![CDATA[Supermarkets can sell non-essential items and garden centres can open from Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56457646</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56457646</guid>
-            <pubDate>Mon, 22 Mar 2021 06:05:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid survivor Scott Howell thanks hospital staff for saving his life]]></title>
