@@ -6,7 +6,7 @@
 6. [Factory blaze adds to computer chip supply crisis](https://www.bbc.co.uk/news/technology-56486242) - The Renesas fire is set to make it even more difficult for car-makers to buy the chips they need.
 7. [Yemen conflict: Saudi Arabia puts forward peace plan](https://www.bbc.co.uk/news/world-middle-east-56491503) - The plan aims at ending six brutal years of civil war but rebels said it offered "nothing new".
 8. [Meghan's Mail on Sunday statement on hold](https://www.bbc.co.uk/news/uk-56485477) - A notice about the Duchess of Sussex's copyright win is on hold pending a possible appeal by the newspaper.
-9. [Australia: Worst flooding in decades sweeps away homes and animals](https://www.bbc.co.uk/news/world-australia-56485246) - Thousands have been evacuated but more heavy rain is set to come, peaking on Tuesday.
+9. [Child migrants: First photos emerge of Biden-era migrant detention centres](https://www.bbc.co.uk/news/world-us-canada-56491941) - Images show children huddled together on the floor under foil blankets at a facility in Texas.
 10. [Huge fire sweeps through Rohingya camp in Bangladesh](https://www.bbc.co.uk/news/56490348) - A massive blaze engulfed the camp in Cox's Bazar, killing several people and destroying homes.
 11. [Alexander Monson: Kenya police to stand trial over death of British man](https://www.bbc.co.uk/news/world-africa-56489808) - A judge ruled the trial over the death in police custody of Alexander Monson, 28, should go ahead.
 12. [David Dobrik quits app after associate accused of rape](https://www.bbc.co.uk/news/technology-56486137) - Sponsors have also withdrawn their support for the influencer after his former associate was accused of rape.
