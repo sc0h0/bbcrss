@@ -4,8 +4,8 @@
 4. [Jobless crisis shows signs of easing but under-25s hit hard](https://www.bbc.co.uk/news/business-56493943) - The number of workers on UK company payrolls climbed by 200,000 in the three months to February.
 5. [Coronavirus: Germany imposes Easter lockdown to curb new surge](https://www.bbc.co.uk/news/world-europe-56486732) - Rising infections have put Germany in a "very serious" situation, Chancellor Angela Merkel says.
 6. [Colorado shootings: 'We heard boom, boom, boom'](https://www.bbc.co.uk/news/world-us-canada-56495514) - A gunman has killed 10 people, including a police officer, in the US state of Colorado.
-7. [Covid-19: One year since first lockdown and £5,000 fine for holidays abroad](https://www.bbc.co.uk/news/uk-56494194) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
-8. [Coronavirus: How the common cold can boot out Covid](https://www.bbc.co.uk/news/health-56483445) - It looks like the viruses that cause colds wins in the battle to infect our cells.
+7. [Abortion: Brandon Lewis to take powers over Stormont laws](https://www.bbc.co.uk/news/uk-northern-ireland-56485487) - MPs from across Parliament have written to Stormont ministers in support of the significant move.
+8. [Shrewsbury 24: Court of Appeal clears picketers' convictions](https://www.bbc.co.uk/news/uk-england-shropshire-56494701) - The 14 men, including actor Ricky Tomlinson, were among 24 charged following pickets in Shrewsbury.
 9. [Bobby Brown Jr died of accidental overdose, says coroner](https://www.bbc.co.uk/news/entertainment-arts-56495122) - The son of singer Bobby Brown was found dead in his home last November.
 10. [Machine finds tantalising hints of new physics](https://www.bbc.co.uk/news/science-environment-56491033) - A team working at the Large Hadron Collider finds signs of new physical laws.
 11. [Frank Worthington: Former England striker dies aged 72 following long illness](https://www.bbc.co.uk/sport/football/56495453) - Former England striker Frank Worthington dies aged 72 following a long illness.
