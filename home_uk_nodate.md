@@ -1,16 +1,16 @@
 1. [Covid: UK marks one year since the first lockdown](https://www.bbc.co.uk/news/uk-56491532) - A minute's silence will be held at midday as part of a national day of reflection for 126,000 deaths.
-2. [Covid: Lockdown habits could outlast the pandemic, poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
-3. [Coronavirus: How the common cold can boot out Covid](https://www.bbc.co.uk/news/health-56483445) - It looks like the viruses that causes colds wins in the battle to infect our cells.
-4. [Colorado market shooting: Gunman kills 10 at Boulder grocery store](https://www.bbc.co.uk/news/world-us-canada-56492541) - A police officer was among those killed in the attack in Boulder, for which a suspect has been detained.
-5. [Polish writer Jakub Zulczyk charged for calling President Duda a 'moron'](https://www.bbc.co.uk/news/world-europe-56491949) - Jakub Zulczyk could face up to three years in jail for his Facebook post criticising the president.
+2. [Covid: £5,000 fine for people going on holiday abroad](https://www.bbc.co.uk/news/uk-56493002) - It is due to come into force in England next week as some other lockdown restrictions are eased.
+3. [Covid: Lockdown habits could outlast the pandemic, poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
+4. [Coronavirus: How the common cold can boot out Covid](https://www.bbc.co.uk/news/health-56483445) - It looks like the viruses that causes colds wins in the battle to infect our cells.
+5. [Colorado market shooting: Gunman kills 10 at Boulder grocery store](https://www.bbc.co.uk/news/world-us-canada-56492541) - A police officer was among those killed in the attack in Boulder, for which a suspect has been detained.
 6. [Waitrose ditches magazines with disposable plastic toys](https://www.bbc.co.uk/news/business-56456170) - The retailer will not sell magazines with disposable plastic toys after a campaign by a 10-year-old.
-7. ['Kardashian clones' jibes teacher struck off](https://www.bbc.co.uk/news/uk-wales-56490673) - Alexander Price, 43, made the comments in his anonymous gossip blog about his school in north Wales.
-8. [Child migrants: First photos emerge of Biden-era detention centres](https://www.bbc.co.uk/news/world-us-canada-56491941) - Images show children huddled together on the floor under foil blankets at a facility in Texas.
-9. [Coronavirus: Domestic abuse an 'epidemic beneath a pandemic'](https://www.bbc.co.uk/news/uk-56491643) - Campaigners say a massive increase in appeals for help has exposed the scale of the problem.
-10. [Jack Dorsey's first ever tweet sells for $2.9m](https://www.bbc.co.uk/news/business-56492358) - The Twitter founder will donate the money to charity after it was bought by a Malaysia-based businessman.
-11. [Aide fired after Parliament House 'sex videos' shock Australia](https://www.bbc.co.uk/news/world-australia-56492827) - A video of the act was leaked as a spotlight falls on Australia's 'toxic' political culture.
+7. [Polish writer Jakub Zulczyk charged for calling President Duda a 'moron'](https://www.bbc.co.uk/news/world-europe-56491949) - Jakub Zulczyk could face up to three years in jail for his Facebook post criticising the president.
+8. ['Kardashian clones' jibes teacher struck off](https://www.bbc.co.uk/news/uk-wales-56490673) - Alexander Price, 43, made the comments in his anonymous gossip blog about his school in north Wales.
+9. [Child migrants: First photos emerge of Biden-era detention centres](https://www.bbc.co.uk/news/world-us-canada-56491941) - Images show children huddled together on the floor under foil blankets at a facility in Texas.
+10. [Coronavirus: Domestic abuse an 'epidemic beneath a pandemic'](https://www.bbc.co.uk/news/uk-56491643) - Campaigners say a massive increase in appeals for help has exposed the scale of the problem.
+11. [Jack Dorsey's first ever tweet sells for $2.9m](https://www.bbc.co.uk/news/business-56492358) - The Twitter founder will donate the money to charity after it was bought by a Malaysia-based businessman.
 12. [Uighurs: Western countries sanction China over rights abuses](https://www.bbc.co.uk/news/world-europe-56487162) - A coordinated effort by the EU, UK, US and Canada seeks to raise pressure on Beijing.
-13. [Kill the Bill Bristol protest: More arrests expected](https://www.bbc.co.uk/news/uk-england-bristol-56461796) - Police say more arrests are imminent after Sunday's disorder in Bristol.
+13. [Aide fired after Parliament House 'sex videos' shock Australia](https://www.bbc.co.uk/news/world-australia-56492827) - A video of the act was leaked as a spotlight falls on Australia's 'toxic' political culture.
 14. [The Papers: 'Travel ban extended' and 'a day to reflect' on lockdown](https://www.bbc.co.uk/news/blogs-the-papers-56491971) - Britons facing tighter travel restrictions makes the front of some newspapers on the anniversary of the start of lockdown.
 15. [Covid-19: One year of lockdowns across the UK](https://www.bbc.co.uk/news/uk-56490107) - It's a year to the day since the first UK-wide coronavirus lockdown was announced.
 16. [Lockdown newborns: 'A crazy year to bring a baby into the world'](https://www.bbc.co.uk/news/uk-scotland-56484706) - Four mums share their experiences of having a baby amid coronavirus lockdown restrictions.
@@ -63,9 +63,4 @@
 63. [What are the care home rules in England?](https://www.bbc.co.uk/news/explainers-53503712) - New guidance gives hope to relatives wanting to visit care homes.
 64. [What are the new rules for testing and hotel quarantine?](https://www.bbc.co.uk/news/explainers-52544307) - Travellers going to and from the UK face a growing number of restrictions.
 65. [Am I eligible for the new furlough scheme?](https://www.bbc.co.uk/news/explainers-52135342) - Furlough has been extended until the end of September.
-66. [Phone scammers: 'Give me £1,000 to stop calling you'](https://www.bbc.co.uk/news/technology-56334466) - The rise of scam calls seems relentless - but can anything be done about them?
-67. [So you want a career in building computer games?](https://www.bbc.co.uk/news/business-56320899) - A career in computer games can be rewarding but tough to get into.
-68. [Bedfordshire: Army officer restores WW2 'secret garden' at Chicksands Priory](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56442771) - The garden at Chicksands Priory was used by code-breakers in World War Two but had been neglected.
-69. [Jed Mercurio: Line of Duty 'still in post-production'](https://www.bbc.co.uk/news/entertainment-arts-56408763) - Line of Duty writer Jed Mercurio says the new series is still not ready, despite airing on Sunday.
-70. [Covid: Lack of contraception sees goats boom in Llandudno](https://www.bbc.co.uk/news/uk-wales-56423211) - The Great Orme's goats have not been given their usual contraceptive injection due to the pandemic.
-71. [North Korea’s ‘only openly gay defector’ finds love](https://www.bbc.co.uk/news/world-asia-56323825) - Jang Yeong-jin fled North Korea to escape a loveless marriage. Now he is engaged to his boyfriend.
+66. [North Korea’s ‘only openly gay defector’ finds love](https://www.bbc.co.uk/news/world-asia-56323825) - Jang Yeong-jin fled North Korea to escape a loveless marriage. Now he is engaged to his boyfriend.

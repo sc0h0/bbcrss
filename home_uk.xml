@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Mar 2021 05:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 05:57:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-56491532</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56491532</guid>
             <pubDate>Tue, 23 Mar 2021 04:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: £5,000 fine for people going on holiday abroad]]></title>
+            <description><![CDATA[It is due to come into force in England next week as some other lockdown restrictions are eased.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56493002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56493002</guid>
+            <pubDate>Tue, 23 Mar 2021 05:49:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Lockdown habits could outlast the pandemic, poll suggests]]></title>
@@ -44,18 +51,18 @@
             <pubDate>Tue, 23 Mar 2021 04:45:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Polish writer Jakub Zulczyk charged for calling President Duda a 'moron']]></title>
-            <description><![CDATA[Jakub Zulczyk could face up to three years in jail for his Facebook post criticising the president.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56491949</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56491949</guid>
-            <pubDate>Tue, 23 Mar 2021 03:24:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Waitrose ditches magazines with disposable plastic toys]]></title>
             <description><![CDATA[The retailer will not sell magazines with disposable plastic toys after a campaign by a 10-year-old.]]></description>
             <link>https://www.bbc.co.uk/news/business-56456170</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56456170</guid>
             <pubDate>Tue, 23 Mar 2021 00:40:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polish writer Jakub Zulczyk charged for calling President Duda a 'moron']]></title>
+            <description><![CDATA[Jakub Zulczyk could face up to three years in jail for his Facebook post criticising the president.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56491949</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56491949</guid>
+            <pubDate>Tue, 23 Mar 2021 03:24:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Kardashian clones' jibes teacher struck off]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Tue, 23 Mar 2021 03:34:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aide fired after Parliament House 'sex videos' shock Australia]]></title>
-            <description><![CDATA[A video of the act was leaked as a spotlight falls on Australia's 'toxic' political culture.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-56492827</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56492827</guid>
-            <pubDate>Tue, 23 Mar 2021 04:32:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Uighurs: Western countries sanction China over rights abuses]]></title>
             <description><![CDATA[A coordinated effort by the EU, UK, US and Canada seeks to raise pressure on Beijing.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56487162</link>
@@ -100,11 +100,11 @@
             <pubDate>Mon, 22 Mar 2021 20:12:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kill the Bill Bristol protest: More arrests expected]]></title>
-            <description><![CDATA[Police say more arrests are imminent after Sunday's disorder in Bristol.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-56461796</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-56461796</guid>
-            <pubDate>Mon, 22 Mar 2021 21:22:49 GMT</pubDate>
+            <title><![CDATA[Aide fired after Parliament House 'sex videos' shock Australia]]></title>
+            <description><![CDATA[A video of the act was leaked as a spotlight falls on Australia's 'toxic' political culture.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-56492827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56492827</guid>
+            <pubDate>Tue, 23 Mar 2021 04:32:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Travel ban extended' and 'a day to reflect' on lockdown]]></title>
@@ -469,41 +469,6 @@
             <link>https://www.bbc.co.uk/news/explainers-52135342</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
             <pubDate>Wed, 03 Mar 2021 14:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Phone scammers: 'Give me £1,000 to stop calling you']]></title>
-            <description><![CDATA[The rise of scam calls seems relentless - but can anything be done about them?]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56334466</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56334466</guid>
-            <pubDate>Sun, 14 Mar 2021 01:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[So you want a career in building computer games?]]></title>
-            <description><![CDATA[A career in computer games can be rewarding but tough to get into.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56320899</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56320899</guid>
-            <pubDate>Tue, 16 Mar 2021 00:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bedfordshire: Army officer restores WW2 'secret garden' at Chicksands Priory]]></title>
-            <description><![CDATA[The garden at Chicksands Priory was used by code-breakers in World War Two but had been neglected.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56442771</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56442771</guid>
-            <pubDate>Thu, 18 Mar 2021 16:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jed Mercurio: Line of Duty 'still in post-production']]></title>
-            <description><![CDATA[Line of Duty writer Jed Mercurio says the new series is still not ready, despite airing on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56408763</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56408763</guid>
-            <pubDate>Mon, 15 Mar 2021 17:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Lack of contraception sees goats boom in Llandudno]]></title>
-            <description><![CDATA[The Great Orme's goats have not been given their usual contraceptive injection due to the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56423211</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56423211</guid>
-            <pubDate>Wed, 17 Mar 2021 06:05:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[North Korea’s ‘only openly gay defector’ finds love]]></title>
