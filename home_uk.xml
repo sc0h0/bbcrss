@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Mar 2021 04:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 04:34:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: UK marks one year since the first lockdown]]></title>
+            <description><![CDATA[A minute's silence will be held at midday as part of a national day of reflection for 126,000 deaths.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56491532</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56491532</guid>
+            <pubDate>Tue, 23 Mar 2021 04:27:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coronavirus: How the common cold can boot out Covid]]></title>
             <description><![CDATA[It looks like the viruses that causes colds wins in the battle to infect our cells.]]></description>
@@ -23,18 +30,18 @@
             <pubDate>Tue, 23 Mar 2021 02:59:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Lockdown habits could outlast the pandemic, poll suggests]]></title>
+            <description><![CDATA[We've done more walking and worked more from home this year, according to a BBC commissioned poll.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56490823</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56490823</guid>
+            <pubDate>Tue, 23 Mar 2021 03:58:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gunman kills 10 in Colorado market shooting]]></title>
             <description><![CDATA[A police officer was among those confirmed dead following the Monday attack in Boulder.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56492541</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56492541</guid>
             <pubDate>Tue, 23 Mar 2021 02:47:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Child migrants: First photos emerge of Biden-era detention centres]]></title>
-            <description><![CDATA[Images show children huddled together on the floor under foil blankets at a facility in Texas.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56491941</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56491941</guid>
-            <pubDate>Tue, 23 Mar 2021 01:05:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Polish writer Jakub Zulczyk charged for calling President Duda a 'moron']]></title>
@@ -45,7 +52,7 @@
         </item>
         <item>
             <title><![CDATA[Waitrose ditches magazines with disposable plastic toys]]></title>
-            <description><![CDATA[The retailer will stop selling magazines with disposable plastic toys after a campaign by a 10-year-old.]]></description>
+            <description><![CDATA[The retailer will not sell magazines with disposable plastic toys after a campaign by a 10-year-old.]]></description>
             <link>https://www.bbc.co.uk/news/business-56456170</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56456170</guid>
             <pubDate>Tue, 23 Mar 2021 00:40:45 GMT</pubDate>
@@ -56,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-56490673</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56490673</guid>
             <pubDate>Mon, 22 Mar 2021 21:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Child migrants: First photos emerge of Biden-era detention centres]]></title>
+            <description><![CDATA[Images show children huddled together on the floor under foil blankets at a facility in Texas.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56491941</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56491941</guid>
+            <pubDate>Tue, 23 Mar 2021 01:05:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Domestic abuse an 'epidemic beneath a pandemic']]></title>
@@ -93,20 +107,6 @@
             <pubDate>Mon, 22 Mar 2021 20:24:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Penguins' move from Isle of Man to Northern Ireland 'a miracle']]></title>
-            <description><![CDATA[Covid rules force keepers to move 14 birds across four countries to get to their new home.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-isle-of-man-56489503</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-isle-of-man-56489503</guid>
-            <pubDate>Mon, 22 Mar 2021 17:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alexander Monson: Kenya police to stand trial over death of British man]]></title>
-            <description><![CDATA[A judge ruled the trial over the death in police custody of Alexander Monson, 28, should go ahead.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56489808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56489808</guid>
-            <pubDate>Mon, 22 Mar 2021 19:08:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: 'Travel ban extended' and 'a day to reflect' on lockdown]]></title>
             <description><![CDATA[Britons facing tighter travel restrictions makes the front of some newspapers on the anniversary of the start of lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56491971</link>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-56488749</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56488749</guid>
             <pubDate>Tue, 23 Mar 2021 00:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Penguins' move from Isle of Man to Northern Ireland 'a miracle']]></title>
+            <description><![CDATA[Covid rules force keepers to move 14 birds across four countries to get to their new home.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-isle-of-man-56489503</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-isle-of-man-56489503</guid>
+            <pubDate>Mon, 22 Mar 2021 17:51:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Huge fire sweeps through Rohingya camp in Bangladesh]]></title>
