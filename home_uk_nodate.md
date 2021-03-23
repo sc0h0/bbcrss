@@ -40,34 +40,37 @@
 40. [Chris Froome dropped during first Volta a Catalunya stage](https://www.bbc.co.uk/sport/cycling/56470711) - Chris Froome finishes more than eight minutes behind the peloton on the first stage of the Volta a Catalunya.
 41. [MOTD 2 analysis: How Arsenal's Martin Odegaard went from 'bang average' to 'sensational' against West Ham](https://www.bbc.co.uk/sport/av/football/56483327) - Match of the Day 2 pundits Alex Scott and Carlton Cole analyse Martin Odegaard "sensational" performance for Arsenal at West Ham after being "bang average" earlier in the season.
 42. [Watch the best tries from the 2021 Six Nations](https://www.bbc.co.uk/sport/av/rugby-union/56477940) - Watch the best tries from the 2021 Six Nations - with starring roles for England's Jonny May, France's Antoine Dupont and Wales wing Louis Rees-Zammit.
-43. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are the latest group to be invited to book their Covid vaccine.
-44. [Where is the Oxford-AstraZeneca vaccine made?](https://www.bbc.co.uk/news/56483766) - The EU has warned it could ban exports of vaccines made in the bloc. How would this affect the UK?
-45. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
-46. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Wales and Scotland have announced the easing of restrictions on people meeting
-47. ['Vaccine passports': Will I need one for going out, work and travel?](https://www.bbc.co.uk/news/explainers-55718553) - The culture secretary has said they are looking at "covid certification" for attending large events
-48. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
-49. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.
-50. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-51. [Covid-19: Have a million people left the UK?](https://www.bbc.co.uk/news/uk-56435100) - How far has the UK's foreign-born population fallen during the coronavirus pandemic?
-52. [Coronavirus: When will pubs, hairdressers and gyms open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown is being eased, so when will places like hairdressers, pubs and gyms open?
-53. [Covid: How are European countries tackling the pandemic?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
-54. [Covid: What’s the problem with the EU vaccine rollout?](https://www.bbc.co.uk/news/explainers-52380823) - The coronavirus vaccine is being rolled out across the EU but there have been delays.
-55. [Coronavirus: What is the R number and how is it calculated?](https://www.bbc.co.uk/news/health-52473523) - The R number is a simple but crucial figure at the heart of lockdown decisions across the UK.
-56. [Coronavirus: Who should be shielding and why?](https://www.bbc.co.uk/news/health-51997151) - Shielding in England will end on 31 March.
-57. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
-58. [Covid-19: EU warns UK over vaccine exports](https://www.bbc.co.uk/news/45877605) - The EU threatens to block vaccine exports to the UK unless it "gets its fair share".
-59. [Coronavirus: How are the rules for weddings changing across the UK?](https://www.bbc.co.uk/news/explainers-52811509) - Wedding ceremonies are still restricted across the UK, but there are plans to ease the rules.
-60. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - The government says it may still be too early to book summer holidays abroad.
-61. [EU plans for a 'vaccine passport' to allow travel](https://www.bbc.co.uk/news/world-europe-56436910) - 'Vaccine passport' plans have been proposed by the EU, in order to make travel easier this summer.
-62. [Covid: When will children return to school and what are the rules?](https://www.bbc.co.uk/news/education-51643556) - Children are returning to school across the UK, after months of enforced home-schooling.
-63. [Lockdown Learning: What educational resources are on TV, iPlayer and online?](https://www.bbc.co.uk/news/education-55591821) - As most pupils return to school, the BBC will continue to offer a wealth of educational material.
-64. [Coronavirus: Data by country](https://www.bbc.co.uk/news/world-51235105) - Key maps and charts explaining how the virus has spread around the world.
-65. [What are the care home rules in England?](https://www.bbc.co.uk/news/explainers-53503712) - New guidance gives hope to relatives wanting to visit care homes.
-66. [What are the new rules for testing and hotel quarantine?](https://www.bbc.co.uk/news/explainers-52544307) - Travellers going to and from the UK face a growing number of restrictions.
-67. [Am I eligible for the new furlough scheme?](https://www.bbc.co.uk/news/explainers-52135342) - Furlough has been extended until the end of September.
-68. [Phone scammers: 'Give me £1,000 to stop calling you'](https://www.bbc.co.uk/news/technology-56334466) - The rise of scam calls seems relentless - but can anything be done about them?
-69. [So you want a career in building computer games?](https://www.bbc.co.uk/news/business-56320899) - A career in computer games can be rewarding but tough to get into.
-70. [Bedfordshire: Army officer restores WW2 'secret garden' at Chicksands Priory](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56442771) - The garden at Chicksands Priory was used by code-breakers in World War Two but had been neglected.
-71. [Jed Mercurio: Line of Duty 'still in post-production'](https://www.bbc.co.uk/news/entertainment-arts-56408763) - Line of Duty writer Jed Mercurio says the new series is still not ready, despite airing on Sunday.
-72. [Covid: Lack of contraception sees goats boom in Llandudno](https://www.bbc.co.uk/news/uk-wales-56423211) - The Great Orme's goats have not been given their usual contraceptive injection due to the pandemic.
-73. [North Korea’s ‘only openly gay defector’ finds love](https://www.bbc.co.uk/news/world-asia-56323825) - Jang Yeong-jin fled North Korea to escape a loveless marriage. Now he is engaged to his boyfriend.
+43. [Covid: The inside story of the government's battle against the virus](https://www.bbc.co.uk/news/uk-politics-56361599) - Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.
+44. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Wales and Scotland have announced the easing of restrictions on people meeting
+45. [Covid lockdown: Seven enduring claims fact-checked](https://www.bbc.co.uk/news/55949640) - A year after the first UK lockdown began, there are many who doubt the necessity of such restrictions.
+46. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.
+47. [Coronavirus: Your tributes to those who have died](https://www.bbc.co.uk/news/uk-52676411) - A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.
+48. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are the latest group to be invited to book their Covid vaccine.
+49. [Where is the Oxford-AstraZeneca vaccine made?](https://www.bbc.co.uk/news/56483766) - The EU has warned it could ban exports of vaccines made in the bloc. How would this affect the UK?
+50. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
+51. ['Vaccine passports': Will I need one for going out, work and travel?](https://www.bbc.co.uk/news/explainers-55718553) - The culture secretary has said they are looking at "covid certification" for attending large events
+52. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
+53. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+54. [Covid-19: Have a million people left the UK?](https://www.bbc.co.uk/news/uk-56435100) - How far has the UK's foreign-born population fallen during the coronavirus pandemic?
+55. [Coronavirus: When will pubs, hairdressers and gyms open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown is being eased, so when will places like hairdressers, pubs and gyms open?
+56. [Covid: How are European countries tackling the pandemic?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
+57. [Covid: What’s the problem with the EU vaccine rollout?](https://www.bbc.co.uk/news/explainers-52380823) - The coronavirus vaccine is being rolled out across the EU but there have been delays.
+58. [Coronavirus: What is the R number and how is it calculated?](https://www.bbc.co.uk/news/health-52473523) - The R number is a simple but crucial figure at the heart of lockdown decisions across the UK.
+59. [Coronavirus: Who should be shielding and why?](https://www.bbc.co.uk/news/health-51997151) - Shielding in England will end on 31 March.
+60. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
+61. [Covid-19: EU warns UK over vaccine exports](https://www.bbc.co.uk/news/45877605) - The EU threatens to block vaccine exports to the UK unless it "gets its fair share".
+62. [Coronavirus: How are the rules for weddings changing across the UK?](https://www.bbc.co.uk/news/explainers-52811509) - Wedding ceremonies are still restricted across the UK, but there are plans to ease the rules.
+63. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - The government says it may still be too early to book summer holidays abroad.
+64. [EU plans for a 'vaccine passport' to allow travel](https://www.bbc.co.uk/news/world-europe-56436910) - 'Vaccine passport' plans have been proposed by the EU, in order to make travel easier this summer.
+65. [Covid: When will children return to school and what are the rules?](https://www.bbc.co.uk/news/education-51643556) - Children are returning to school across the UK, after months of enforced home-schooling.
+66. [Lockdown Learning: What educational resources are on TV, iPlayer and online?](https://www.bbc.co.uk/news/education-55591821) - As most pupils return to school, the BBC will continue to offer a wealth of educational material.
+67. [Coronavirus: Data by country](https://www.bbc.co.uk/news/world-51235105) - Key maps and charts explaining how the virus has spread around the world.
+68. [What are the care home rules in England?](https://www.bbc.co.uk/news/explainers-53503712) - New guidance gives hope to relatives wanting to visit care homes.
+69. [What are the new rules for testing and hotel quarantine?](https://www.bbc.co.uk/news/explainers-52544307) - Travellers going to and from the UK face a growing number of restrictions.
+70. [Am I eligible for the new furlough scheme?](https://www.bbc.co.uk/news/explainers-52135342) - Furlough has been extended until the end of September.
+71. [Phone scammers: 'Give me £1,000 to stop calling you'](https://www.bbc.co.uk/news/technology-56334466) - The rise of scam calls seems relentless - but can anything be done about them?
+72. [So you want a career in building computer games?](https://www.bbc.co.uk/news/business-56320899) - A career in computer games can be rewarding but tough to get into.
+73. [Bedfordshire: Army officer restores WW2 'secret garden' at Chicksands Priory](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56442771) - The garden at Chicksands Priory was used by code-breakers in World War Two but had been neglected.
+74. [Jed Mercurio: Line of Duty 'still in post-production'](https://www.bbc.co.uk/news/entertainment-arts-56408763) - Line of Duty writer Jed Mercurio says the new series is still not ready, despite airing on Sunday.
+75. [Covid: Lack of contraception sees goats boom in Llandudno](https://www.bbc.co.uk/news/uk-wales-56423211) - The Great Orme's goats have not been given their usual contraceptive injection due to the pandemic.
+76. [North Korea’s ‘only openly gay defector’ finds love](https://www.bbc.co.uk/news/world-asia-56323825) - Jang Yeong-jin fled North Korea to escape a loveless marriage. Now he is engaged to his boyfriend.
