@@ -1,4 +1,4 @@
-1. [Covid: 'Step by step' progress a year after lockdown - PM](https://www.bbc.co.uk/news/uk-56503948) - The country has been through an "epic of endurance", Boris Johnson says, as the UK reflects on the past 12 months.
+1. [Covid: UK shines a light as it remembers Covid victims](https://www.bbc.co.uk/news/uk-56503948) - The country has been through an "epic of endurance", Boris Johnson says, as the UK lights up in remembrance.
 2. [Covid: £5,000 fine for people going on holiday abroad](https://www.bbc.co.uk/news/uk-56493002) - It is due to come into force in England next week as some other lockdown restrictions are eased.
 3. [Sturgeon survives Holyrood confidence vote over Salmond row](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56494684) - MSPs reject a motion of no confidence in First Minister Nicola Sturgeon by 65 votes to 31.
 4. [Covid-19: Day of reflection, and Banksy's £14m fundraiser](https://www.bbc.co.uk/news/uk-56499595) - Five things you need to know about the coronavirus pandemic this Tuesday evening.
