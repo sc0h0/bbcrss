@@ -8,7 +8,7 @@
 8. [Cineworld to reopen with cinema-first movie deal](https://www.bbc.co.uk/news/business-56496213) - US cinemas will reopen in April followed by the UK in May, with theatres getting exclusivity over streaming.
 9. [Goldman Sachs boss says 'go extra mile' despite 95-hour week](https://www.bbc.co.uk/news/business-56495463) - David Solomon says "it's great" young analysts told bosses of 95-hour weeks and poor treatment.
 10. [Kate Garraway 'fears' leaving GMB to care for husband](https://www.bbc.co.uk/news/entertainment-arts-56495242) - TV host says she may have to leave work to care for her husband who was badly affected by Covid-19.
-11. [Covid: Banksy artwork raises £14.4m for NHS charities](https://www.bbc.co.uk/news/uk-england-hampshire-56497104) - It is believed to be a record price for a canvas by the elusive street artist.
+11. [Covid: Banksy painting raises £14.4m for NHS charities](https://www.bbc.co.uk/news/uk-england-hampshire-56497104) - It is believed to be a record price for a painting by the elusive street artist.
 12. [New Mastermind host Clive Myrie put to the test](https://www.bbc.co.uk/news/entertainment-arts-56495521) - BBC Breakfast has a few questions for the new quiz show host.
 13. [Lockdown newborns: 'A crazy year to bring a baby into the world'](https://www.bbc.co.uk/news/uk-scotland-56484706) - Four mums share their experiences of having a baby amid coronavirus lockdown restrictions.
 14. [Former Scotland player opens up about over-exercising](https://www.bbc.co.uk/news/uk-scotland-56489292) - Tom Philip has spoken about his experience with over-exercising and strict dieting to hide his poor mental health.
