@@ -11,7 +11,7 @@
 11. [National Lottery: Suffolk dinner lady 'won't quit job' after £1m win](https://www.bbc.co.uk/news/uk-england-suffolk-56498672) - Karen Dakin, from Nacton near Ipswich, plans to finally buy a home after renting for years.
 12. [New Mastermind host Clive Myrie put to the test](https://www.bbc.co.uk/news/entertainment-arts-56495521) - BBC Breakfast has a few questions for the new quiz show host.
 13. [Covid lockdown: The comedians who kept us laughing](https://www.bbc.co.uk/news/newsbeat-56499926) - Meggie Foster, Steff Todd and Lucia Keskin made us smile - and grew their online fans this year.
-14. [Covid: Banksy painting raises £16m for NHS charities](https://www.bbc.co.uk/news/uk-england-hampshire-56497104) - It is believed to be a record price for a painting by the elusive street artist.
+14. [Covid: Banksy painting for NHS charities sells for £14.4m](https://www.bbc.co.uk/news/uk-england-hampshire-56497104) - It is believed to be a record price for a painting by the elusive street artist.
 15. [Lockdown newborns: 'A crazy year to bring a baby into the world'](https://www.bbc.co.uk/news/uk-scotland-56484706) - Four mums share their experiences of having a baby amid coronavirus lockdown restrictions.
 16. [Former Scotland player opens up about over-exercising](https://www.bbc.co.uk/news/uk-scotland-56489292) - Tom Philip has spoken about his experience with over-exercising and strict dieting to hide his poor mental health.
 17. [Colorado shootings: 'We heard boom, boom, boom'](https://www.bbc.co.uk/news/world-us-canada-56495514) - A gunman has killed 10 people, including a police officer, in the US state of Colorado.
