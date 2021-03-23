@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Mar 2021 19:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 19:22:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,25 +51,11 @@
             <pubDate>Tue, 23 Mar 2021 12:53:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shrewsbury 24: Court of Appeal clears picketers' convictions]]></title>
-            <description><![CDATA[The 14 men, including actor Ricky Tomlinson, were among 24 charged following pickets in Shrewsbury.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-shropshire-56494701</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-56494701</guid>
-            <pubDate>Tue, 23 Mar 2021 12:11:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Harry to become chief impact officer at US coaching firm BetterUp]]></title>
             <description><![CDATA[The Duke of Sussex is "really excited" to become chief impact officer for coaching firm BetterUp.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56500298</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56500298</guid>
             <pubDate>Tue, 23 Mar 2021 18:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cineworld to reopen with cinema-first movie deal]]></title>
-            <description><![CDATA[US cinemas will reopen in April followed by the UK in May, with theatres getting exclusivity over streaming.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56496213</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56496213</guid>
-            <pubDate>Tue, 23 Mar 2021 11:24:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Goldman Sachs boss says 'go extra mile' despite 95-hour week]]></title>
@@ -86,11 +72,25 @@
             <pubDate>Tue, 23 Mar 2021 17:27:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Royal Mail scam: Fake text led to drama student being defrauded]]></title>
+            <description><![CDATA[Thousands of people have retweeted Emmeline Hartley's story after she shared it to warn others.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56500599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56500599</guid>
+            <pubDate>Tue, 23 Mar 2021 16:30:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[British artist's giant painting raises £45m for children's charities]]></title>
             <description><![CDATA[British artist Sacha Jafri spent eight months creating the work in isolation in a hotel ballroom.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56495039</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56495039</guid>
             <pubDate>Tue, 23 Mar 2021 17:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[National Lottery: Suffolk dinner lady 'won't quit job' after £1m win]]></title>
+            <description><![CDATA[Karen Dakin, from Nacton near Ipswich, plans to finally buy a home after renting for years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-56498672</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-56498672</guid>
+            <pubDate>Tue, 23 Mar 2021 16:57:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Mastermind host Clive Myrie put to the test]]></title>
@@ -182,6 +182,20 @@
             <link>https://www.bbc.co.uk/news/world-europe-56412790</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56412790</guid>
             <pubDate>Tue, 23 Mar 2021 00:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has Nicola Sturgeon emerged from this crisis unscathed?]]></title>
+            <description><![CDATA[The first minister's position is stronger than it has been for weeks - but her government has not escaped criticism.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56503158</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56503158</guid>
+            <pubDate>Tue, 23 Mar 2021 18:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boulder victims: A police officer, a store manager and food shoppers]]></title>
+            <description><![CDATA[A policeman with seven children and a 25-year-old grocery manager are among the 10 victims.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56501686</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56501686</guid>
+            <pubDate>Tue, 23 Mar 2021 18:48:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid lockdown: Seven enduring claims fact-checked]]></title>
