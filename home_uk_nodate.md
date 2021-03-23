@@ -1,6 +1,6 @@
 1. [Covid: UK shines a light as it remembers Covid victims](https://www.bbc.co.uk/news/uk-56503948) - The country has been through an "epic of endurance", Boris Johnson says, as the UK marks a year since the first lockdown.
 2. [UK shines 'beacon of remembrance' ](https://www.bbc.co.uk/news/uk-56505153) - Candlelight vigils were held across the country in remembrance of those who lost their lives in the pandemic.
-3. [Covid: £5,000 fine for people going on holiday abroad](https://www.bbc.co.uk/news/uk-56493002) - It is due to come into force in England next week as some other lockdown restrictions are eased.
+3. [PM says 'greed' and 'capitalism' helped UK's vaccines success](https://www.bbc.co.uk/news/uk-politics-56504546) - But Boris Johnson immediately retracts the comments during a Zoom meeting with Tory MPs.
 4. [Sturgeon survives Holyrood confidence vote over Salmond row](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56494684) - MSPs reject a motion of no confidence in First Minister Nicola Sturgeon by 65 votes to 31.
 5. [Harry to become chief impact officer at US coaching firm BetterUp](https://www.bbc.co.uk/news/world-us-canada-56500298) - The Duke of Sussex is "really excited" to become chief impact officer for coaching firm BetterUp.
 6. [Goldman Sachs boss says 'go extra mile' despite 95-hour week](https://www.bbc.co.uk/news/business-56495463) - The investment bank responds to complaints of a long-hours culture, while rival Citi starts Zoom-free Fridays.
@@ -36,7 +36,7 @@
 36. [What is happening to the size of the Army?](https://www.bbc.co.uk/news/uk-42774738) - Defence spending is going up, but the number of soldiers in the Army is going to fall.
 37. [Making honey without bees and milk without cows](https://www.bbc.co.uk/news/business-56154143) - Firms are using fermentation to produce honey and milk and say they can match the taste of the real thing.
 38. [Dan Gertler - the man at the centre of DR Congo corruption allegations](https://www.bbc.co.uk/news/world-africa-56444576) - Dan Gertler formed a close relationship with DR Congo's ex-leader, even getting a diplomatic passport.
-39. [Brora stun Hearts in one of biggest shocks in Scottish Cup history](https://www.bbc.co.uk/sport/football/55512595) - Brora Rangers secure one of the biggest shocks in Scottish Cup history as the Highland League champions knock out last season's beaten finalists.
+39. [Brora stun Hearts in one of biggest shocks in Scottish Cup history](https://www.bbc.co.uk/sport/football/55512595) - Highland League Brora Rangers knock last season's beaten finalists Hearts out of the Scottish Cup in a huge second-round shock.
 40. [England lose first ODI to India despite Bairstow's brilliant 94](https://www.bbc.co.uk/sport/cricket/56500206) - England squander the chance to win a fluctuating first one-day international against India, losing by 66 runs in Pune.
 41. [Lions plan to tour South Africa after rejecting contingency options](https://www.bbc.co.uk/sport/rugby-union/56501183) - The British and Irish Lions plan to tour South Africa this summer after rejecting contingency options of staging the matches elsewhere
 42. ['My plan is to go back to Real' - Bale says club future 'no distraction'](https://www.bbc.co.uk/sport/football/56496981) - Tottenham's on-loan forward Gareth Bale says he plans to return to Real Madrid next season.
