@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Mar 2021 04:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 04:57:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Tue, 23 Mar 2021 04:27:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Lockdown habits could outlast the pandemic, poll suggests]]></title>
+            <description><![CDATA[We've done more walking and worked more from home this year, according to a BBC-commissioned poll.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56490823</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56490823</guid>
+            <pubDate>Tue, 23 Mar 2021 03:58:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus: How the common cold can boot out Covid]]></title>
             <description><![CDATA[It looks like the viruses that causes colds wins in the battle to infect our cells.]]></description>
             <link>https://www.bbc.co.uk/news/health-56483445</link>
@@ -30,18 +37,11 @@
             <pubDate>Tue, 23 Mar 2021 02:59:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Lockdown habits could outlast the pandemic, poll suggests]]></title>
-            <description><![CDATA[We've done more walking and worked more from home this year, according to a BBC commissioned poll.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56490823</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56490823</guid>
-            <pubDate>Tue, 23 Mar 2021 03:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gunman kills 10 in Colorado market shooting]]></title>
-            <description><![CDATA[A police officer was among those confirmed dead following the Monday attack in Boulder.]]></description>
+            <title><![CDATA[Colorado market shooting: Gunman kills 10 at Boulder grocery store]]></title>
+            <description><![CDATA[A police officer was among those killed in the attack in Boulder, for which a suspect has been detained.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56492541</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56492541</guid>
-            <pubDate>Tue, 23 Mar 2021 02:47:46 GMT</pubDate>
+            <pubDate>Tue, 23 Mar 2021 04:45:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Polish writer Jakub Zulczyk charged for calling President Duda a 'moron']]></title>
@@ -79,6 +79,20 @@
             <pubDate>Tue, 23 Mar 2021 03:46:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jack Dorsey's first ever tweet sells for $2.9m]]></title>
+            <description><![CDATA[The Twitter founder will donate the money to charity after it was bought by a Malaysia-based businessman.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56492358</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56492358</guid>
+            <pubDate>Tue, 23 Mar 2021 03:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aide fired after Parliament House 'sex videos' shock Australia]]></title>
+            <description><![CDATA[A video of the act was leaked as a spotlight falls on Australia's 'toxic' political culture.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-56492827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56492827</guid>
+            <pubDate>Tue, 23 Mar 2021 04:32:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uighurs: Western countries sanction China over rights abuses]]></title>
             <description><![CDATA[A coordinated effort by the EU, UK, US and Canada seeks to raise pressure on Beijing.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56487162</link>
@@ -91,20 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-bristol-56461796</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-56461796</guid>
             <pubDate>Mon, 22 Mar 2021 21:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factory blaze adds to computer chip supply crisis]]></title>
-            <description><![CDATA[The Renesas fire is set to make it even more difficult for car-makers to buy the chips they need.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56486242</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56486242</guid>
-            <pubDate>Mon, 22 Mar 2021 15:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Congo-Brazzaville: Guy-Brice Parfait Kolélas dies from Covid on poll day]]></title>
-            <description><![CDATA[Congo-Brazzaville's main opposition presidential candidate was being sent to France for treatment.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56474855</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56474855</guid>
-            <pubDate>Mon, 22 Mar 2021 20:24:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Travel ban extended' and 'a day to reflect' on lockdown]]></title>
