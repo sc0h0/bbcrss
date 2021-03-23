@@ -8,7 +8,7 @@
 8. [Cineworld to reopen with cinema-first movie deal](https://www.bbc.co.uk/news/business-56496213) - US cinemas will reopen in April followed by the UK in May, with theatres getting exclusivity over streaming.
 9. [Goldman Sachs boss says 'go extra mile' despite 95-hour week](https://www.bbc.co.uk/news/business-56495463) - David Solomon says "it's great" young analysts told bosses of 95-hour weeks and poor treatment.
 10. [Kate Garraway 'fears' leaving GMB to care for husband](https://www.bbc.co.uk/news/entertainment-arts-56495242) - TV host says she may have to leave work to care for her husband who was badly affected by Covid-19.
-11. [Covid: Banksy painting raises £14.4m for NHS charities](https://www.bbc.co.uk/news/uk-england-hampshire-56497104) - It is believed to be a record price for a painting by the elusive street artist.
+11. [Covid: Banksy artwork raises £14.4m for NHS charities](https://www.bbc.co.uk/news/uk-england-hampshire-56497104) - It is believed to be a record price for a canvas by the elusive street artist.
 12. [New Mastermind host Clive Myrie put to the test](https://www.bbc.co.uk/news/entertainment-arts-56495521) - BBC Breakfast has a few questions for the new quiz show host.
 13. [Lockdown newborns: 'A crazy year to bring a baby into the world'](https://www.bbc.co.uk/news/uk-scotland-56484706) - Four mums share their experiences of having a baby amid coronavirus lockdown restrictions.
 14. [Former Scotland player opens up about over-exercising](https://www.bbc.co.uk/news/uk-scotland-56489292) - Tom Philip has spoken about his experience with over-exercising and strict dieting to hide his poor mental health.
@@ -42,7 +42,7 @@
 42. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.
 43. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are the latest group to be invited to book their Covid vaccine.
 44. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
-45. ['Vaccine passports': Will I need one for going out, work and travel?](https://www.bbc.co.uk/news/explainers-55718553) - The culture secretary has said they are looking at "covid certification" for attending large events
+45. [Will I need a vaccine passport and can employers demand workers get vaccinated?](https://www.bbc.co.uk/news/explainers-55718553) - A review is considering whether people will need to be vaccinated to work in care or attend large events.
 46. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
 47. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 48. [Covid-19: Have a million people left the UK?](https://www.bbc.co.uk/news/uk-56435100) - How far has the UK's foreign-born population fallen during the coronavirus pandemic?
@@ -62,4 +62,9 @@
 62. [What are the care home rules in England?](https://www.bbc.co.uk/news/explainers-53503712) - New guidance gives hope to relatives wanting to visit care homes.
 63. [What are the new rules for testing and hotel quarantine?](https://www.bbc.co.uk/news/explainers-52544307) - Travellers going to and from the UK face a growing number of restrictions.
 64. [Am I eligible for the new furlough scheme?](https://www.bbc.co.uk/news/explainers-52135342) - Furlough has been extended until the end of September.
-65. [North Korea’s ‘only openly gay defector’ finds love](https://www.bbc.co.uk/news/world-asia-56323825) - Jang Yeong-jin fled North Korea to escape a loveless marriage. Now he is engaged to his boyfriend.
+65. [Covid-19: The last 'normal' pictures of life before lockdown](https://www.bbc.co.uk/news/uk-england-56484575) - Pub drinks, visiting elderly parents and watching football are among the images you shared with us.
+66. ['A most unusual experience': A year of lockdown in London](https://www.bbc.co.uk/news/uk-england-london-56446181) - In their own words, Londoners explain how 12 months of the "new normal" has affected them.
+67. [Covid: Children talk about their year through a pandemic](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-56417329) - Five young people from North Yorkshire talk about how they have coped with Covid restrictions.
+68. [Covid-19: 'I had to watch dad's funeral on a video stream'](https://www.bbc.co.uk/news/uk-northern-ireland-56240100) - BBC News NI speaks to expats from the island of Ireland about key events they have missed in lockdown.
+69. [Covid: The city that has lived through a year of restrictions](https://www.bbc.co.uk/news/uk-england-leicestershire-56264375) - For residents of Leicester, a non-stop year of restrictions began 12 months ago.
+70. [North Korea’s ‘only openly gay defector’ finds love](https://www.bbc.co.uk/news/world-asia-56323825) - Jang Yeong-jin fled North Korea to escape a loveless marriage. Now he is engaged to his boyfriend.
