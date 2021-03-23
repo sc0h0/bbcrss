@@ -6,7 +6,7 @@
 6. [Abortion: Brandon Lewis to take powers over Stormont laws](https://www.bbc.co.uk/news/uk-northern-ireland-56485487) - The government says it is acting to uphold legal and human rights duties on abortion.
 7. [Shrewsbury 24: Court of Appeal clears picketers' convictions](https://www.bbc.co.uk/news/uk-england-shropshire-56494701) - The 14 men, including actor Ricky Tomlinson, were among 24 charged following pickets in Shrewsbury.
 8. [Cineworld to reopen with cinema-first movie deal](https://www.bbc.co.uk/news/business-56496213) - US cinemas will reopen in April followed by the UK in May, with theatres getting exclusivity over streaming.
-9. [Goldman Sachs boss says 'go extra mile' despite 95-hour week](https://www.bbc.co.uk/news/business-56495463) - David Solomon says "it's great" young analysts told bosses of 95-hour weeks and poor treatment.
+9. [Goldman Sachs boss says 'go extra mile' despite 95-hour week](https://www.bbc.co.uk/news/business-56495463) - Investment bank boss David Solomon responds to complaints of extreme working hours from young analysts.
 10. [Kate Garraway 'fears' leaving GMB to care for husband](https://www.bbc.co.uk/news/entertainment-arts-56495242) - TV host says she may have to leave work to care for her husband who was badly affected by Covid-19.
 11. [Covid: Banksy painting raises £14.4m for NHS charities](https://www.bbc.co.uk/news/uk-england-hampshire-56497104) - It is believed to be a record price for a painting by the elusive street artist.
 12. [New Mastermind host Clive Myrie put to the test](https://www.bbc.co.uk/news/entertainment-arts-56495521) - BBC Breakfast has a few questions for the new quiz show host.
@@ -39,12 +39,12 @@
 39. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Wales and Scotland have announced the easing of restrictions on people meeting
 40. [Covid: More walking and family chats post-lockdown - poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
 41. [Coronavirus: Your tributes to those who have died](https://www.bbc.co.uk/news/uk-52676411) - A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.
-42. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.
+42. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 43. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are the latest group to be invited to book their Covid vaccine.
 44. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
 45. [Will I need a vaccine passport and can employers demand workers get vaccinated?](https://www.bbc.co.uk/news/explainers-55718553) - A review is considering whether people will need to be vaccinated to work in care or attend large events.
 46. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
-47. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+47. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.
 48. [Covid-19: Have a million people left the UK?](https://www.bbc.co.uk/news/uk-56435100) - How far has the UK's foreign-born population fallen during the coronavirus pandemic?
 49. [Coronavirus: When will pubs, hairdressers and gyms open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown is being eased, so when will places like hairdressers, pubs and gyms open?
 50. [Covid: How are European countries tackling the pandemic?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
