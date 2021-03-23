@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Mar 2021 08:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 09:05:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,7 @@
             <description><![CDATA[A committee of MSPs says the female complainers were badly let down by the Scottish government.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56494852</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56494852</guid>
-            <pubDate>Tue, 23 Mar 2021 08:46:08 GMT</pubDate>
+            <pubDate>Tue, 23 Mar 2021 08:54:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: One year since first lockdown and £5,000 fine for holidays abroad]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-56494194</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56494194</guid>
             <pubDate>Tue, 23 Mar 2021 07:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Germany imposes Easter lockdown to curb new surge]]></title>
+            <description><![CDATA[Rising infections have put Germany in a "very serious" situation, Chancellor Angela Merkel says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56486732</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56486732</guid>
+            <pubDate>Tue, 23 Mar 2021 08:14:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boulder shooting: Gunman kills 10 at King Soopers grocery store]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/health-56483445</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56483445</guid>
             <pubDate>Tue, 23 Mar 2021 02:59:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waitrose ditches magazines with disposable plastic toys]]></title>
-            <description><![CDATA[The retailer will not sell magazines with disposable plastic toys after a campaign by a 10-year-old.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56456170</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56456170</guid>
-            <pubDate>Tue, 23 Mar 2021 00:40:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former Scotland player opens up about over-exercising]]></title>
@@ -114,6 +114,13 @@
             <pubDate>Mon, 22 Mar 2021 23:17:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Vaccines and vaccine passports being sold on darknet]]></title>
+            <description><![CDATA[Researchers say criminals are taking advantage of desperate people looking for a way out of lockdown]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56489574</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56489574</guid>
+            <pubDate>Tue, 23 Mar 2021 06:03:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: The women killed for working at a TV station.]]></title>
             <description><![CDATA[A television station in Afghanistan has sent all of its female employees home after four were killed by extremists.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56488749</link>
@@ -121,11 +128,11 @@
             <pubDate>Tue, 23 Mar 2021 00:00:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Vaccines and vaccine passports being sold on darknet]]></title>
-            <description><![CDATA[Researchers say criminals are taking advantage of desperate people looking for a way out of lockdown]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56489574</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56489574</guid>
-            <pubDate>Tue, 23 Mar 2021 06:03:55 GMT</pubDate>
+            <title><![CDATA[Waitrose ditches magazines with disposable plastic toys]]></title>
+            <description><![CDATA[The retailer will not sell magazines with disposable plastic toys after a campaign by a 10-year-old.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56456170</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56456170</guid>
+            <pubDate>Tue, 23 Mar 2021 00:40:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jack Dorsey's first ever tweet sells for $2.9m]]></title>
@@ -192,7 +199,7 @@
         </item>
         <item>
             <title><![CDATA[Covid: The Clacton GP whose death led to 'an outpouring of love']]></title>
-            <description><![CDATA[Dr Mirza, 84, who had Covid, worked up until two weeks before his death.]]></description>
+            <description><![CDATA[The life and death of a doctor in one of the worst-affected areas of the UK for Covid.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-essex-56403512</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-56403512</guid>
             <pubDate>Tue, 23 Mar 2021 07:26:51 GMT</pubDate>
@@ -282,11 +289,11 @@
             <pubDate>Tue, 23 Mar 2021 06:10:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: The inside story of the government's battle against the virus]]></title>
-            <description><![CDATA[Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56361599</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56361599</guid>
-            <pubDate>Mon, 15 Mar 2021 21:52:17 GMT</pubDate>
+            <title><![CDATA[Covid: The countries that nailed it, and what we can learn from them]]></title>
+            <description><![CDATA[A year into the pandemic, we look at countries that have had some success in tackling the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56455030</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56455030</guid>
+            <pubDate>Mon, 22 Mar 2021 00:05:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
@@ -303,11 +310,11 @@
             <pubDate>Tue, 23 Mar 2021 01:44:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Mon, 22 Mar 2021 17:10:52 GMT</pubDate>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Mon, 22 Mar 2021 17:08:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Your tributes to those who have died]]></title>
@@ -345,11 +352,11 @@
             <pubDate>Fri, 19 Mar 2021 07:50:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 22 Mar 2021 17:08:14 GMT</pubDate>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Mon, 22 Mar 2021 17:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
