@@ -3,13 +3,13 @@
 3. [Alex Salmond to take Scottish government to court again](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56513358) - The former first minister is to launch fresh proceedings over the conduct of the country's top civil servant.
 4. [Covid-19: UK and EU work to resolve vaccine row and India finds 'double mutant' variant](https://www.bbc.co.uk/news/uk-56515297) - Five things you need to know about the coronavirus pandemic this Wednesday evening.
 5. [Coronavirus: Germany's Merkel reverses plans for Easter lockdown](https://www.bbc.co.uk/news/world-europe-56513366) - Chancellor Angela Merkel describes the proposed five-day lockdown over Easter as a "mistake".
-6. [Iceland: Close-up drone footage of volcanic eruption](https://www.bbc.co.uk/news/world-56512554) - A drone captures spectacular images as lava spews from Iceland's Fagradalsfjall volcano.
-7. [Priti Patel pledges overhaul of asylum seeker rules](https://www.bbc.co.uk/news/uk-politics-56500680) - Refugees coming to the UK via official schemes will find it easier to stay than those arriving illegally, she says.
+6. [Covid-19: Pubs could require vaccine passports - Boris Johnson](https://www.bbc.co.uk/news/uk-politics-56517486) - But one Conservative MP says "papers for pubs" would lead the country into "a ghastly trap".
+7. [Iceland: Close-up drone footage of volcanic eruption](https://www.bbc.co.uk/news/world-56512554) - A drone captures spectacular images as lava spews from Iceland's Fagradalsfjall volcano.
 8. [Boris Johnson: UK considering tougher measures on France arrivals](https://www.bbc.co.uk/news/uk-politics-56512782) - The PM says hauliers coming from France to the UK could have Covid tests amid concern over variants.
 9. [Intel chief Pat Gelsinger: Too many chips made in Asia](https://www.bbc.co.uk/news/technology-56512430) - The firm now aims to supply others with processors made in factories based in the US and Europe.
-10. [John Lewis to permanently close eight more shops](https://www.bbc.co.uk/news/business-56511374) - The move puts 1,465 jobs at risk and means it has axed a third of its stores in less than a year.
-11. [Government buildings to fly Union flag every day](https://www.bbc.co.uk/news/uk-politics-56514501) - The culture secretary described the flag as "a proud reminder of our history and the ties that bind us".
-12. [Egypt's Suez Canal blocked by huge container ship](https://www.bbc.co.uk/news/world-middle-east-56505413) - A ship the length of four football pitches is wedged across one of the world's busiest trade routes.
+10. [Covid: Intensive-care patients moved hundreds of miles](https://www.bbc.co.uk/news/health-56483444) - More than 2,000 intensive-care patients were moved between hospitals in search of beds from September to March.
+11. [John Lewis to permanently close eight more shops](https://www.bbc.co.uk/news/business-56511374) - The move puts 1,465 jobs at risk and means it has axed a third of its stores in less than a year.
+12. [Government buildings to fly Union flag every day](https://www.bbc.co.uk/news/uk-politics-56514501) - The culture secretary described the flag as "a proud reminder of our history and the ties that bind us".
 13. [Thames seal death: QC 'heartbroken' over attack by her dog](https://www.bbc.co.uk/news/uk-england-london-56497801) - A barrister apologises after her pet attacked a seal, named after Freddie Mercury, which had to be put down.
 14. [Uluru waterfalls: Rain brings 'unique' sight to Australian landmark](https://www.bbc.co.uk/news/world-australia-56506799) - A "unique and extraordinary" sight has come to the sacred rock, after days of heavy rain.
 15. [Bionic lamb walks again with modified dog wheelchair](https://www.bbc.co.uk/news/uk-england-leeds-56507834) - A modified dog wheelchair gets Steven, who lost the use of his back legs, up and running once again.
@@ -23,8 +23,8 @@
 23. [Anti-Asian hate: 'Try to be brave and stand up'](https://www.bbc.co.uk/news/world-us-canada-56501642) - Amid rallies against anti-Asian hate crimes, we ask what it's like to be an Asian woman in the US.
 24. [Russia's Tajik-born Eurovision star on the abuse she's received](https://www.bbc.co.uk/news/world-europe-56501561) - Manizha Sangin has been met with a barrage abuse from nationalist politicians and online commentators.
 25. ['I was working 72 hours a week - it was cult-like'](https://www.bbc.co.uk/news/business-56496883) - As first-year Goldman Sachs analysts ask for a cap on their hours, four BBC News readers share their schedules.
-26. [Migrant crossings: What happens to migrants who reach the UK?](https://www.bbc.co.uk/news/explainers-53734793) - The government wants to cut the number of migrants crossing the Channel.
-27. [Covid: Intensive-care patients moved hundreds of miles](https://www.bbc.co.uk/news/health-56483444) - More than 2,000 intensive-care patients were moved between hospitals in search of beds from September to March.
+26. [Egypt's Suez Canal blocked by huge container ship](https://www.bbc.co.uk/news/world-middle-east-56505413) - A ship the length of four football pitches is wedged across one of the world's busiest trade routes.
+27. [Migrant crossings: What happens to migrants who reach the UK?](https://www.bbc.co.uk/news/explainers-53734793) - The government wants to cut the number of migrants crossing the Channel.
 28. [Loneliness: 'Alone is ok, but being lonely - it hurts'](https://www.bbc.co.uk/news/uk-politics-56498227) - A report by MPs and peers is calling on ministers to reconnect communities and combat loneliness after coronavirus.
 29. [Lockdown job-hunting: ‘I’ve applied for over 300 jobs’](https://www.bbc.co.uk/news/newsbeat-56417334) - If you've spent lockdown looking for jobs, you're not alone... But help is here.
 30. [2021 elections: A really simple guide](https://www.bbc.co.uk/news/uk-politics-56286643) - A bumper crop of elections are being held on 6 May across England, Scotland and Wales.
