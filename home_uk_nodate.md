@@ -3,9 +3,9 @@
 3. [Kill the Bill Bristol protests: Police action at demo](https://www.bbc.co.uk/news/uk-england-bristol-56505553) - Police officers arrest demonstrators protesting in the city centre at the new police bill.
 4. [Egypt's Suez Canal blocked by large container ship](https://www.bbc.co.uk/news/world-middle-east-56505413) - Several tug boats are deployed to shift the vessel, which is causing a build-up of shipping traffic.
 5. [Child abuse: Warning of siblings being groomed online](https://www.bbc.co.uk/news/education-56337505) - The rise of livestreaming platforms is making it easier for paedophiles to target children, experts say.
-6. [Israel election: Netanyahu falls short of majority in exit polls](https://www.bbc.co.uk/news/world-middle-east-56504661) - As votes are counted, forecasts suggest the PM might lack enough support to form a new government.
-7. [North Korea missiles: Biden says launch 'not provocation'](https://www.bbc.co.uk/news/world-asia-56504040) - The short-range missile test is the first to be conducted since the US president took office.
-8. [Covid fraud: £34.5m stolen in pandemic scams](https://www.bbc.co.uk/news/technology-56499886) - More than 400,000 frauds and other cyber-crimes have been reported to police during the pandemic.
+6. [Covid fraud: £34.5m stolen in pandemic scams](https://www.bbc.co.uk/news/technology-56499886) - More than 400,000 frauds and other cyber-crimes have been reported to police during the pandemic.
+7. [Israel election: Netanyahu falls short of majority in exit polls](https://www.bbc.co.uk/news/world-middle-east-56504661) - As votes are counted, forecasts suggest the PM might lack enough support to form a new government.
+8. [North Korea missiles: Biden says launch 'not provocation'](https://www.bbc.co.uk/news/world-asia-56504040) - The short-range missile test is the first to be conducted since the US president took office.
 9. [UK seeks to drill more oil and gas from North Sea](https://www.bbc.co.uk/news/science-environment-56503588) - More oil and gas wells are to be drilled in the North Sea, the UK government announces.
 10. [Australian art festival cancels plan to soak UK flag in indigenous blood](https://www.bbc.co.uk/news/world-australia-56505840) - A plan to soak the UK flag in indigenous people's blood drew anger from Aboriginal Australians.
 11. [UK shines 'beacon of remembrance' ](https://www.bbc.co.uk/news/uk-56505153) - Candlelight vigils were held across the country in remembrance of those who lost their lives in the pandemic.
