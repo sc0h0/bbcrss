@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Mar 2021 21:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 21:41:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,11 @@
             <pubDate>Wed, 24 Mar 2021 18:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alex Salmond to take Scottish government to court again]]></title>
-            <description><![CDATA[The former first minister is to launch fresh proceedings over the conduct of the country's top civil servant.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56513358</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56513358</guid>
-            <pubDate>Wed, 24 Mar 2021 20:41:17 GMT</pubDate>
+            <title><![CDATA[NHS staff in Scotland to be offered 4% pay rise]]></title>
+            <description><![CDATA[The Scottish government says the move is a reward to staff for their response to the Covid pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56518221</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56518221</guid>
+            <pubDate>Wed, 24 Mar 2021 21:36:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Pubs could require vaccine passports - Boris Johnson]]></title>
@@ -65,6 +65,13 @@
             <pubDate>Wed, 24 Mar 2021 15:48:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Alex Salmond to take Scottish government to court again]]></title>
+            <description><![CDATA[The former first minister is to launch fresh proceedings over the conduct of the country's top civil servant.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56513358</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56513358</guid>
+            <pubDate>Wed, 24 Mar 2021 20:41:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Intensive-care patients moved hundreds of miles]]></title>
             <description><![CDATA[More than 2,000 intensive-care patients were moved between hospitals in search of beds from September to March.]]></description>
             <link>https://www.bbc.co.uk/news/health-56483444</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56512782</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56512782</guid>
             <pubDate>Wed, 24 Mar 2021 18:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John Lewis to permanently close eight more shops]]></title>
-            <description><![CDATA[The move puts 1,465 jobs at risk and means it has axed a third of its stores in less than a year.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56511374</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56511374</guid>
-            <pubDate>Wed, 24 Mar 2021 20:01:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Government buildings to fly Union flag every day]]></title>
@@ -198,13 +198,6 @@
             <pubDate>Wed, 24 Mar 2021 17:39:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Migrant crossings: What happens to migrants who reach the UK?]]></title>
-            <description><![CDATA[The government wants to cut the number of migrants crossing the Channel.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-53734793</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53734793</guid>
-            <pubDate>Wed, 24 Mar 2021 13:24:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Loneliness: 'Alone is ok, but being lonely - it hurts']]></title>
             <description><![CDATA[A report by MPs and peers is calling on ministers to reconnect communities and combat loneliness after coronavirus.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56498227</link>
@@ -217,6 +210,13 @@
             <link>https://www.bbc.co.uk/news/newsbeat-56417334</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56417334</guid>
             <pubDate>Wed, 24 Mar 2021 02:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migrant crossings: What happens to migrants who reach the UK?]]></title>
+            <description><![CDATA[The government wants to cut the number of migrants crossing the Channel.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53734793</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53734793</guid>
+            <pubDate>Wed, 24 Mar 2021 13:24:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2021 elections: A really simple guide]]></title>
