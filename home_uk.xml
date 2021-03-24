@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Mar 2021 05:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 05:48:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,20 +30,6 @@
             <pubDate>Tue, 23 Mar 2021 23:50:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israel election: Netanyahu falls short of majority in exit polls]]></title>
-            <description><![CDATA[The PM's Likud party and its allies are projected to win 52 or 53 seats in the 120-seat Knesset.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56504661</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56504661</guid>
-            <pubDate>Wed, 24 Mar 2021 01:19:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Egypt's Suez Canal blocked by large container ship]]></title>
-            <description><![CDATA[Several tug boats are deployed to shift the vessel, which is causing a build-up of shipping traffic.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56505413</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56505413</guid>
-            <pubDate>Wed, 24 Mar 2021 04:52:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kill the Bill Bristol protests: Police action at demo]]></title>
             <description><![CDATA[Police officers arrest demonstrators protesting in the city centre at the new police bill.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-56505553</link>
@@ -51,11 +37,25 @@
             <pubDate>Wed, 24 Mar 2021 03:29:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Egypt's Suez Canal blocked by large container ship]]></title>
+            <description><![CDATA[Several tug boats are deployed to shift the vessel, which is causing a build-up of shipping traffic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56505413</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56505413</guid>
+            <pubDate>Wed, 24 Mar 2021 05:25:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Child abuse: Warning of siblings being groomed online]]></title>
             <description><![CDATA[The rise of livestreaming platforms is making it easier for paedophiles to target children, experts say.]]></description>
             <link>https://www.bbc.co.uk/news/education-56337505</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56337505</guid>
             <pubDate>Wed, 24 Mar 2021 01:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel election: Netanyahu falls short of majority in exit polls]]></title>
+            <description><![CDATA[The PM's Likud party and its allies are projected to win 52 or 53 seats in the 120-seat Knesset.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56504661</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56504661</guid>
+            <pubDate>Wed, 24 Mar 2021 01:19:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[North Korea missiles: Biden says launch 'not provocation']]></title>
@@ -72,6 +72,13 @@
             <pubDate>Wed, 24 Mar 2021 01:16:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Australian art festival cancels plan to soak UK flag in indigenous blood]]></title>
+            <description><![CDATA[A plan to soak the UK flag in indigenous people's blood drew anger from Aboriginal Australians.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-56505840</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56505840</guid>
+            <pubDate>Wed, 24 Mar 2021 05:08:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[UK shines 'beacon of remembrance' ]]></title>
             <description><![CDATA[Candlelight vigils were held across the country in remembrance of those who lost their lives in the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56505153</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-56500971</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56500971</guid>
             <pubDate>Tue, 23 Mar 2021 20:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry to become chief impact officer at US coaching firm BetterUp]]></title>
-            <description><![CDATA[The Duke of Sussex is "really excited" to become chief impact officer for coaching firm BetterUp.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56500298</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56500298</guid>
-            <pubDate>Tue, 23 Mar 2021 18:37:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: PM's Covid 'regrets' and children in line for August jab]]></title>
