@@ -1,7 +1,7 @@
 1. [Coronavirus: EU and UK try to end row with 'win-win' on vaccines](https://www.bbc.co.uk/news/world-europe-56509521) - After weeks of tension over Covid vaccine supplies, the two sides now say they are working together.
-2. [Coronavirus: India temporarily halts Oxford-AstraZeneca vaccine exports](https://www.bbc.co.uk/news/world-asia-india-56513371) - The doses are needed for the country's own rollout amid a rise in cases, officials tell the BBC.
-3. [NHS staff in Scotland to be offered 4% pay rise](https://www.bbc.co.uk/news/uk-scotland-56518221) - The Scottish government praised staff for their "service and dedication" during the Covid pandemic.
-4. [Covid-19: Pubs could require vaccine passports - Boris Johnson](https://www.bbc.co.uk/news/uk-politics-56517486) - But one Conservative MP says "papers for pubs" would lead the country into "a ghastly trap".
+2. [NHS staff in Scotland to be offered 4% pay rise](https://www.bbc.co.uk/news/uk-scotland-56518221) - The Scottish government praised staff for their "service and dedication" during the Covid pandemic.
+3. [Covid-19: Pubs could require vaccine passports - Boris Johnson](https://www.bbc.co.uk/news/uk-politics-56517486) - But one Conservative MP says "papers for pubs" would lead the country into "a ghastly trap".
+4. [Coronavirus: India temporarily halts Oxford-AstraZeneca vaccine exports](https://www.bbc.co.uk/news/world-asia-india-56513371) - The doses are needed for the country's own rollout amid a rise in cases, officials tell the BBC.
 5. [Iceland: Close-up drone footage of volcanic eruption](https://www.bbc.co.uk/news/world-56512554) - A drone captures spectacular images as lava spews from Iceland's Fagradalsfjall volcano.
 6. [Coronavirus: Germany's Merkel reverses plans for Easter lockdown](https://www.bbc.co.uk/news/world-europe-56513366) - Chancellor Angela Merkel describes the proposed five-day lockdown over Easter as a "mistake".
 7. [Big investors shun Deliveroo over workers' rights](https://www.bbc.co.uk/news/business-56515498) - Two of the UK's biggest investors won't invest in the delivery firm over concerns about workers' rights.
