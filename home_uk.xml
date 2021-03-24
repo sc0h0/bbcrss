@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Mar 2021 10:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 10:39:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Wed, 24 Mar 2021 09:57:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kill the Bill Bristol protests: Police action at demo]]></title>
-            <description><![CDATA[Police officers arrest demonstrators protesting in the city centre at the new police bill.]]></description>
+            <title><![CDATA[Bristol protests: Police action at Kill the Bill demo]]></title>
+            <description><![CDATA[Fourteen people are arrested at another demonstration in Bristol over new police bill.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-56505553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-56505553</guid>
-            <pubDate>Wed, 24 Mar 2021 09:07:10 GMT</pubDate>
+            <pubDate>Wed, 24 Mar 2021 10:01:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Egypt's Suez Canal blocked by huge container ship]]></title>
@@ -331,6 +331,13 @@
             <pubDate>Tue, 23 Mar 2021 01:36:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Mon, 22 Mar 2021 17:10:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
             <description><![CDATA[People aged 50 and over are the latest group to be invited to book their Covid vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/health-55045639</link>
@@ -357,13 +364,6 @@
             <link>https://www.bbc.co.uk/news/uk-56490823</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56490823</guid>
             <pubDate>Tue, 23 Mar 2021 03:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Mon, 22 Mar 2021 17:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>

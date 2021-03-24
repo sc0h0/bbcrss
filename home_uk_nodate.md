@@ -1,5 +1,5 @@
 1. [Priti Patel promises overhaul of asylum seeker rules](https://www.bbc.co.uk/news/uk-politics-56500680) - Refugees coming to the UK via official schemes will find it easier to stay than those arriving illegally, she says.
-2. [Kill the Bill Bristol protests: Police action at demo](https://www.bbc.co.uk/news/uk-england-bristol-56505553) - Police officers arrest demonstrators protesting in the city centre at the new police bill.
+2. [Bristol protests: Police action at Kill the Bill demo](https://www.bbc.co.uk/news/uk-england-bristol-56505553) - Fourteen people are arrested at another demonstration in Bristol over new police bill.
 3. [Egypt's Suez Canal blocked by huge container ship](https://www.bbc.co.uk/news/world-middle-east-56505413) - The 400m-long ship is in the path of dozens of vessels on one of the world's busiest trade routes.
 4. [Covid-19: 'Greed' helped UK's vaccines success and fraudsters steal £34.5m in scams](https://www.bbc.co.uk/news/uk-56504732) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
 5. [UK inflation rate falls as clothes prices drop](https://www.bbc.co.uk/news/business-56502286) - A fall in the price of clothing and second-hand cars offset a rise in fuel costs last month.
@@ -43,11 +43,11 @@
 43. [Covid: The countries that nailed it, and what we can learn from them](https://www.bbc.co.uk/news/uk-56455030) - A year into the pandemic, we look at countries that have had some success in tackling the virus.
 44. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 45. [Coronavirus: Your tributes to those who have died](https://www.bbc.co.uk/news/uk-52676411) - A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.
-46. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are the latest group to be invited to book their Covid vaccine.
-47. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
-48. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
-49. [Covid: More walking and family chats post-lockdown - poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
-50. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.
+46. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.
+47. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are the latest group to be invited to book their Covid vaccine.
+48. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
+49. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
+50. [Covid: More walking and family chats post-lockdown - poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
 51. [Covid-19: Have a million people left the UK?](https://www.bbc.co.uk/news/uk-56435100) - How far has the UK's foreign-born population fallen during the coronavirus pandemic?
 52. [Coronavirus: When will pubs, hairdressers and gyms open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown is being eased, so when will places like hairdressers, pubs and gyms open?
 53. [Covid: What’s the problem with the EU vaccine rollout?](https://www.bbc.co.uk/news/explainers-52380823) - The coronavirus vaccine is being rolled out across the EU but there have been delays.
