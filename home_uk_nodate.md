@@ -1,7 +1,7 @@
 1. [Priti Patel promises overhaul of asylum seeker rules](https://www.bbc.co.uk/news/uk-politics-56500680) - Refugees coming to the UK via official schemes will find it easier to stay than those arriving illegally, she says.
 2. [Bristol protests: Police action at Kill the Bill demo](https://www.bbc.co.uk/news/uk-england-bristol-56505553) - Fourteen people are arrested at another demonstration in Bristol over new police bill.
 3. [Egypt's Suez Canal blocked by huge container ship](https://www.bbc.co.uk/news/world-middle-east-56505413) - The 400m-long ship is in the path of dozens of vessels on one of the world's busiest trade routes.
-4. [Covid-19: 'Greed' helped UK's vaccines success and fraudsters steal £34.5m in scams](https://www.bbc.co.uk/news/uk-56504732) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
+4. [Myanmar coup: Seven-year-old shot 'as she ran into father's arms'](https://www.bbc.co.uk/news/world-asia-56501871) - Khin Myo Chit was killed by security forces in her home, becoming the crackdown's youngest victim.
 5. [UK inflation rate falls as clothes prices drop](https://www.bbc.co.uk/news/business-56502286) - A fall in the price of clothing and second-hand cars offset a rise in fuel costs last month.
 6. ['Greed' and 'capitalism' helped UK's vaccines success, says PM](https://www.bbc.co.uk/news/uk-politics-56504546) - But Boris Johnson immediately retracts the comments made during a Zoom meeting with Tory MPs.
 7. [Child abuse: Warning of siblings being groomed online](https://www.bbc.co.uk/news/education-56337505) - The rise of livestreaming platforms is making it easier for paedophiles to target children, experts say.
