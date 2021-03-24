@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Mar 2021 20:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 21:21:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Wed, 24 Mar 2021 18:02:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: Germany's Merkel reverses plans for Easter lockdown]]></title>
-            <description><![CDATA[Chancellor Angela Merkel describes the proposed five-day lockdown over Easter as a "mistake".]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56513366</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56513366</guid>
-            <pubDate>Wed, 24 Mar 2021 15:48:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Iceland: Close-up drone footage of volcanic eruption]]></title>
             <description><![CDATA[A drone captures spectacular images as lava spews from Iceland's Fagradalsfjall volcano.]]></description>
             <link>https://www.bbc.co.uk/news/world-56512554</link>
@@ -65,11 +58,18 @@
             <pubDate>Wed, 24 Mar 2021 14:44:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boris Johnson: UK considering tougher measures on France arrivals]]></title>
-            <description><![CDATA[The PM says hauliers coming from France to the UK could have Covid tests amid concern over variants.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56512782</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56512782</guid>
-            <pubDate>Wed, 24 Mar 2021 18:58:53 GMT</pubDate>
+            <title><![CDATA[Coronavirus: Germany's Merkel reverses plans for Easter lockdown]]></title>
+            <description><![CDATA[Chancellor Angela Merkel describes the proposed five-day lockdown over Easter as a "mistake".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56513366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56513366</guid>
+            <pubDate>Wed, 24 Mar 2021 15:48:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Intensive-care patients moved hundreds of miles]]></title>
+            <description><![CDATA[More than 2,000 intensive-care patients were moved between hospitals in search of beds from September to March.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56483444</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56483444</guid>
+            <pubDate>Wed, 24 Mar 2021 17:03:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Intel chief Pat Gelsinger: Too many chips made in Asia]]></title>
@@ -79,11 +79,11 @@
             <pubDate>Wed, 24 Mar 2021 19:36:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Intensive-care patients moved hundreds of miles]]></title>
-            <description><![CDATA[More than 2,000 intensive-care patients were moved between hospitals in search of beds from September to March.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56483444</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56483444</guid>
-            <pubDate>Wed, 24 Mar 2021 17:03:16 GMT</pubDate>
+            <title><![CDATA[Boris Johnson: UK considering tougher measures on France arrivals]]></title>
+            <description><![CDATA[The PM says hauliers coming from France to the UK could have Covid tests amid concern over variants.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56512782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56512782</guid>
+            <pubDate>Wed, 24 Mar 2021 18:58:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Lewis to permanently close eight more shops]]></title>
@@ -352,13 +352,6 @@
             <pubDate>Tue, 23 Mar 2021 01:36:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Mon, 22 Mar 2021 17:10:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
             <description><![CDATA[People aged 50 and over are the latest group to be invited to book their Covid vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/health-55045639</link>
@@ -385,6 +378,13 @@
             <link>https://www.bbc.co.uk/news/uk-56490823</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56490823</guid>
             <pubDate>Tue, 23 Mar 2021 03:58:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Mon, 22 Mar 2021 17:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
