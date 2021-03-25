@@ -1,4 +1,4 @@
-1. [Coronavirus: EU and UK try to end row with 'win-win' on vaccines](https://www.bbc.co.uk/news/world-europe-56509521) - After weeks of tension over Covid vaccine supplies, the two sides now say they are working together.
+1. [Coronavirus: EU leaders to discuss boosting vaccine supplies](https://www.bbc.co.uk/news/world-europe-56519331) - Leaders will also review plans to curb exports of Covid vaccines, which could affect supply to the UK.
 2. [NHS staff in Scotland to be offered 4% pay rise](https://www.bbc.co.uk/news/uk-scotland-56518221) - The Scottish government praised staff for their "service and dedication" during the Covid pandemic.
 3. [North Korea fires two ballistic missiles into Sea of Japan](https://www.bbc.co.uk/news/world-asia-56518998) - Pyongyang is banned from testing such missiles, which were launched into the Sea of Japan.
 4. [Covid-19: Pubs could require vaccine passports - Boris Johnson](https://www.bbc.co.uk/news/uk-politics-56517486) - But one Conservative MP says "papers for pubs" would lead the country into "a ghastly trap".
