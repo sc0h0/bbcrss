@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Mar 2021 05:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 05:48:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56519331</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56519331</guid>
             <pubDate>Thu, 25 Mar 2021 03:29:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS staff in Scotland to be offered 4% pay rise]]></title>
-            <description><![CDATA[The Scottish government praised staff for their "service and dedication" during the Covid pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-56518221</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56518221</guid>
-            <pubDate>Wed, 24 Mar 2021 23:31:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[North Korea fires two ballistic missiles into Sea of Japan]]></title>
@@ -44,6 +37,13 @@
             <pubDate>Thu, 25 Mar 2021 01:36:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nike, H&M face China fury over Xinjiang cotton 'concerns']]></title>
+            <description><![CDATA[Citizens have threatened to boycott the two companies over statements on forced Uighur labour claims.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-56519411</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56519411</guid>
+            <pubDate>Thu, 25 Mar 2021 05:27:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Middle-aged women 'worst affected by long Covid', studies find]]></title>
             <description><![CDATA[Five months after hospital treatment, 70% of patients studied had still not fully recovered.]]></description>
             <link>https://www.bbc.co.uk/news/health-56509340</link>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/business-56506466</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56506466</guid>
             <pubDate>Thu, 25 Mar 2021 02:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS staff in Scotland to be offered 4% pay rise]]></title>
+            <description><![CDATA[The Scottish government praised staff for their "service and dedication" during the Covid pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56518221</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56518221</guid>
+            <pubDate>Wed, 24 Mar 2021 23:31:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nationwide tells 13,000 staff to 'work anywhere']]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-56512440</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56512440</guid>
             <pubDate>Wed, 24 Mar 2021 22:53:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stalking victims ‘sitting ducks’ in lockdown, say Suzy Lamplugh Trust]]></title>
-            <description><![CDATA[Restrictions on movement and a rise in cyber-stalking fuel a surge of calls to a national helpline.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-56511053</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56511053</guid>
-            <pubDate>Thu, 25 Mar 2021 01:30:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Big investors shun Deliveroo over workers' rights]]></title>
@@ -111,7 +111,7 @@
             <description><![CDATA[Thursday's papers look at the prospect of pub goers needing proof of a Covid vaccination to gain entry.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56518557</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56518557</guid>
-            <pubDate>Wed, 24 Mar 2021 23:45:48 GMT</pubDate>
+            <pubDate>Thu, 25 Mar 2021 05:13:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lord Howe Island: Saving an Australian paradise's 'cloud forest']]></title>
