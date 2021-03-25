@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Mar 2021 17:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 17:52:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[MPs agree to extend Covid powers until September]]></title>
+            <description><![CDATA[The health secretary said 'essential' government powers need to stay but other measures have been scrapped.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56521358</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56521358</guid>
+            <pubDate>Thu, 25 Mar 2021 17:32:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Jab passports possible 'after all offered vaccine']]></title>
             <description><![CDATA[A review on certificates showing jab status is ongoing but no decisions have been made, PM says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56522652</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56522652</guid>
-            <pubDate>Thu, 25 Mar 2021 16:38:02 GMT</pubDate>
+            <pubDate>Thu, 25 Mar 2021 17:36:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: EU urges unity as leaders meet for key vaccine summit]]></title>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56521318</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56521318</guid>
             <pubDate>Thu, 25 Mar 2021 17:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matt Hancock says 'only necessary' Covid powers will be kept]]></title>
-            <description><![CDATA[The health secretary says 'essential' Covid powers will be kept but other measures can be scrapped]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56521358</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56521358</guid>
-            <pubDate>Thu, 25 Mar 2021 16:27:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suez Canal: How are they trying to free the Ever Given?]]></title>
@@ -282,6 +282,13 @@
             <pubDate>Thu, 25 Mar 2021 12:30:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid passports: What are different countries planning?]]></title>
+            <description><![CDATA[How advanced are some countries' plans for vaccine certificates and Covid passports?]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56522408</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56522408</guid>
+            <pubDate>Thu, 25 Mar 2021 17:24:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[India coronavirus: Why have vaccine exports been suspended?]]></title>
             <description><![CDATA[India is a big player in vaccine production - but companies are warning of supply problems.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-55571793</link>
@@ -402,10 +409,10 @@
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.]]></description>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 29 million people receive at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Mon, 22 Mar 2021 17:10:52 GMT</pubDate>
+            <pubDate>Thu, 25 Mar 2021 17:31:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
@@ -413,83 +420,6 @@
             <link>https://www.bbc.co.uk/news/uk-56435100</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56435100</guid>
             <pubDate>Sat, 20 Mar 2021 23:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: When will pubs, hairdressers and gyms open?]]></title>
-            <description><![CDATA[Lockdown is being eased, so when will places like hairdressers, pubs and gyms open?]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
-            <pubDate>Tue, 16 Mar 2021 17:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
-            <description><![CDATA[The R number is a simple but crucial figure at the heart of lockdown decisions across the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/health-52473523</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52473523</guid>
-            <pubDate>Fri, 19 Mar 2021 14:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Who should be shielding and why?]]></title>
-            <description><![CDATA[Shielding in England will end on 31 March.]]></description>
-            <link>https://www.bbc.co.uk/news/health-51997151</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51997151</guid>
-            <pubDate>Wed, 17 Mar 2021 18:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: EU warns UK over vaccine exports]]></title>
-            <description><![CDATA[The EU threatens to block vaccine exports to the UK unless it "gets its fair share".]]></description>
-            <link>https://www.bbc.co.uk/news/45877605</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/45877605</guid>
-            <pubDate>Wed, 17 Mar 2021 17:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: How are the rules for weddings changing across the UK?]]></title>
-            <description><![CDATA[Wedding ceremonies are still restricted across the UK, but there are plans to ease the rules.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52811509</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52811509</guid>
-            <pubDate>Thu, 18 Mar 2021 09:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU plans for a 'vaccine passport' to allow travel]]></title>
-            <description><![CDATA['Vaccine passport' plans have been proposed by the EU, in order to make travel easier this summer.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56436910</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56436910</guid>
-            <pubDate>Wed, 17 Mar 2021 22:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When will children return to school and what are the rules?]]></title>
-            <description><![CDATA[Children are returning to school across the UK, after months of enforced home-schooling.]]></description>
-            <link>https://www.bbc.co.uk/news/education-51643556</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
-            <pubDate>Tue, 16 Mar 2021 13:05:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lockdown Learning: What educational resources are on TV, iPlayer and online?]]></title>
-            <description><![CDATA[As most pupils return to school, the BBC will continue to offer a wealth of educational material.]]></description>
-            <link>https://www.bbc.co.uk/news/education-55591821</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-55591821</guid>
-            <pubDate>Tue, 16 Mar 2021 12:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the care home rules in England?]]></title>
-            <description><![CDATA[New guidance gives hope to relatives wanting to visit care homes.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-53503712</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53503712</guid>
-            <pubDate>Mon, 08 Mar 2021 13:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which countries are on the red list and what are the quarantine rules?]]></title>
-            <description><![CDATA[Many travellers are no longer allowed to enter the UK from countries on the "red list".]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Thu, 25 Mar 2021 14:54:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Am I eligible for the new furlough scheme?]]></title>
-            <description><![CDATA[Furlough has been extended until the end of September.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
-            <pubDate>Wed, 03 Mar 2021 14:54:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
