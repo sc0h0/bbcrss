@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Mar 2021 17:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 18:40:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The health secretary said 'essential' government powers need to stay but other measures have been scrapped.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56521358</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56521358</guid>
-            <pubDate>Thu, 25 Mar 2021 17:32:09 GMT</pubDate>
+            <pubDate>Thu, 25 Mar 2021 18:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Jab passports possible 'after all offered vaccine']]></title>
@@ -30,18 +30,32 @@
             <pubDate>Thu, 25 Mar 2021 17:36:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: EU urges unity as leaders meet for key vaccine summit]]></title>
-            <description><![CDATA[The president of the EU parliament says members must work together, as tensions rise over supplies.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56521318</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56521318</guid>
-            <pubDate>Thu, 25 Mar 2021 17:03:46 GMT</pubDate>
+            <title><![CDATA[Covid: Emergency powers extended and passports 'only when all offered jab']]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56526460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56526460</guid>
+            <pubDate>Thu, 25 Mar 2021 17:51:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suez Canal: How are they trying to free the Ever Given?]]></title>
             <description><![CDATA[Operations are continuing to move a 400 metre long vessel stuck in the Suez Canal since Tuesday.]]></description>
             <link>https://www.bbc.co.uk/news/56523659</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56523659</guid>
-            <pubDate>Thu, 25 Mar 2021 14:47:48 GMT</pubDate>
+            <pubDate>Thu, 25 Mar 2021 18:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Online red books and family hubs to help new parents]]></title>
+            <description><![CDATA[The government unveils plans to boost children's health, but Labour calls them a "smokescreen" for cuts.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56525485</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56525485</guid>
+            <pubDate>Thu, 25 Mar 2021 18:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: EU urges unity as leaders meet for key vaccine summit]]></title>
+            <description><![CDATA[The president of the EU parliament says members must work together, as tensions rise over supplies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56521318</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56521318</guid>
+            <pubDate>Thu, 25 Mar 2021 17:03:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liverpool twins separated at birth 'cuddle and hold hands']]></title>
@@ -55,7 +69,7 @@
             <description><![CDATA[A teacher is suspended from Batley Grammar School after the image is shown to pupils during a lesson.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-56524850</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-56524850</guid>
-            <pubDate>Thu, 25 Mar 2021 16:01:49 GMT</pubDate>
+            <pubDate>Thu, 25 Mar 2021 17:59:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simon McCoy to leave BBC News after 17 years]]></title>
@@ -63,20 +77,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56520791</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56520791</guid>
             <pubDate>Thu, 25 Mar 2021 14:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shrewsbury baby deaths prompt midwife recruitment drive]]></title>
-            <description><![CDATA[The BBC understands as many as 1,000 more midwives and 80 obstetrics consultants will be hired in England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56523989</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56523989</guid>
-            <pubDate>Thu, 25 Mar 2021 15:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cornwall plane crash: Two pilots eject from Royal Navy jet]]></title>
-            <description><![CDATA[Two pilots are taken to hospital after ejecting from the Hawk T1 jet near RNAS Culdrose.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cornwall-56521380</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-56521380</guid>
-            <pubDate>Thu, 25 Mar 2021 16:18:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ford says farewell to 'Mondeo man' as car to be phased out]]></title>
@@ -93,6 +93,20 @@
             <pubDate>Thu, 25 Mar 2021 16:27:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Dig: Lego version of Sutton Hoo treasure 'amazing']]></title>
+            <description><![CDATA[A father and daughter are told their Lego tribute is good enough to be put on display.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-56523779</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-56523779</guid>
+            <pubDate>Thu, 25 Mar 2021 17:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Postman plagued by 'Mr Angry' pheasant on round in Brooke]]></title>
+            <description><![CDATA[The pheasant pecks Kevin Keeler's ankles and knocks letters out of his hands.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-56530133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-56530133</guid>
+            <pubDate>Thu, 25 Mar 2021 17:16:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Facial recognition beats the Covid-mask challenge]]></title>
             <description><![CDATA[As people all over the world mask up, how has the facial-recognition industry coped?]]></description>
             <link>https://www.bbc.co.uk/news/technology-56517033</link>
@@ -107,13 +121,6 @@
             <pubDate>Thu, 25 Mar 2021 15:21:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Juncker: We have to pull back from a Covid vaccine war]]></title>
-            <description><![CDATA[We have to find solutions and not blame each other, the former European Commission president says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56524161</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56524161</guid>
-            <pubDate>Thu, 25 Mar 2021 12:07:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why cutting down trees can be good for the climate]]></title>
             <description><![CDATA[Tree felling is helping to restore an ancient ecosystem which can store even more carbon than trees do.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-56450965</link>
@@ -126,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/business-56503741</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56503741</guid>
             <pubDate>Thu, 25 Mar 2021 12:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Juncker: We have to pull back from a Covid vaccine war]]></title>
+            <description><![CDATA[We have to find solutions and not blame each other, the former European Commission president says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56524161</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56524161</guid>
+            <pubDate>Thu, 25 Mar 2021 12:07:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In pictures: Efforts to dislodge huge ship from Egypt's Suez Canal]]></title>
@@ -247,20 +261,6 @@
             <pubDate>Thu, 25 Mar 2021 15:42:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Celtic captain Brown to join Aberdeen as player-coach]]></title>
-            <description><![CDATA[Celtic captain Scott Brown signs a pre-contract with Premiership rivals Aberdeen, the Pittodrie club confirms.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/55258684</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55258684</guid>
-            <pubDate>Thu, 25 Mar 2021 15:06:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Briton Draper retires on ATP Tour debut after collapsing in Miami heat]]></title>
-            <description><![CDATA[British teenager Jack Draper is forced to retire from his debut on the ATP Tour after struggling with the heat and collapsing on court in the Miami Open.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/56478587</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56478587</guid>
-            <pubDate>Thu, 25 Mar 2021 17:00:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jockey McCarthy regretful after ban for being 1,000 times over cocaine limit]]></title>
             <description><![CDATA[Jockey Adrian McCarthy's licence is withdrawn for six months after a positive drugs test was 1,000 times above the cocaine limit.]]></description>
             <link>https://www.bbc.co.uk/sport/horse-racing/56521788</link>
@@ -268,11 +268,11 @@
             <pubDate>Thu, 25 Mar 2021 15:55:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England v San Marino: How do you improve world's worst national team?]]></title>
-            <description><![CDATA[They are bottom of the Fifa rankings, but San Marino drew their last two Nations League games. This is how the world's worst national team are getting (a bit) better.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56514260</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56514260</guid>
-            <pubDate>Thu, 25 Mar 2021 06:13:45 GMT</pubDate>
+            <title><![CDATA[Celtic captain Brown to join Aberdeen as player-coach]]></title>
+            <description><![CDATA[Celtic captain Scott Brown signs a pre-contract with Premiership rivals Aberdeen, the Pittodrie club confirms.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55258684</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55258684</guid>
+            <pubDate>Thu, 25 Mar 2021 15:06:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will I need a vaccine passport to go to the pub or travel abroad?]]></title>
@@ -286,7 +286,7 @@
             <description><![CDATA[How advanced are some countries' plans for vaccine certificates and Covid passports?]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56522408</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56522408</guid>
-            <pubDate>Thu, 25 Mar 2021 17:24:09 GMT</pubDate>
+            <pubDate>Thu, 25 Mar 2021 18:36:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India coronavirus: Why have vaccine exports been suspended?]]></title>
@@ -377,7 +377,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Wed, 24 Mar 2021 18:19:38 GMT</pubDate>
+            <pubDate>Thu, 25 Mar 2021 18:28:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Your tributes to those who have died]]></title>
@@ -385,6 +385,13 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Tue, 23 Mar 2021 01:36:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 29 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Thu, 25 Mar 2021 18:20:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
@@ -406,13 +413,6 @@
             <link>https://www.bbc.co.uk/news/uk-56490823</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56490823</guid>
             <pubDate>Tue, 23 Mar 2021 03:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 29 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Thu, 25 Mar 2021 17:31:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
