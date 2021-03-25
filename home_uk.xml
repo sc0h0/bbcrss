@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Mar 2021 03:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 04:26:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -352,6 +352,13 @@
             <pubDate>Tue, 23 Mar 2021 01:36:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Mon, 22 Mar 2021 17:10:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
             <description><![CDATA[The Oxford-AstraZeneca vaccines should save many lives, say experts.]]></description>
             <link>https://www.bbc.co.uk/news/health-55302595</link>
@@ -371,13 +378,6 @@
             <link>https://www.bbc.co.uk/news/uk-56490823</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56490823</guid>
             <pubDate>Tue, 23 Mar 2021 03:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Mon, 22 Mar 2021 17:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
