@@ -1,13 +1,13 @@
-1. [Covid-19: Pubs could require vaccine passports - Boris Johnson](https://www.bbc.co.uk/news/uk-politics-56517486) - But one Conservative MP says "papers for pubs" would lead the country into "a ghastly trap".
+1. [Covid: Vaccine passport review due by April, says PM](https://www.bbc.co.uk/news/uk-56522652) - Boris Johnson says certificates showing jab status could only come in when everyone has been vaccinated.
 2. [Covid-19: Merkel defends rollout as vaccine pressure grows](https://www.bbc.co.uk/news/world-europe-56521318) - German Chancellor Angela Merkel defends the EU's decision to procure coronavirus vaccines jointly.
 3. [Covid-19: Over-50s urged to book jabs before vaccine supplies dip](https://www.bbc.co.uk/news/uk-56521415) - The NHS highlights the deadline of 29 March ahead of an expected slowdown in vaccine supplies in April.
 4. [Suez Canal: Owner of cargo ship blocking waterway apologises](https://www.bbc.co.uk/news/world-middle-east-56522178) - Japanese firm Shoei Kisen Kaisha says dislodging the Ever Given is proving "extremely difficult".
 5. [Santander to close more than 100 branches](https://www.bbc.co.uk/news/business-56522428) - The bank says 840 staff will be affected by the decision although it will try to offer them roles elsewhere.
 6. [Johnny Depp refused permission to appeal libel verdict](https://www.bbc.co.uk/news/entertainment-arts-56521759) - A judge rules the US actor's appeal against a High Court ruling has "no real prospect of success".
-7. [Covid vaccine: AstraZeneca updates US vaccine efficacy results](https://www.bbc.co.uk/news/world-us-canada-56521166) - The vaccine-maker slightly amends its efficacy rates as it awaits US regulatory approval.
-8. [New Alan Turing £50 note design is revealed](https://www.bbc.co.uk/news/business-56503741) - The banknote will enter circulation on 23 June - Alan Turing's birthday - and will be made of polymer.
-9. [Cornwall plane crash: Two pilots eject from Royal Navy jet](https://www.bbc.co.uk/news/uk-england-cornwall-56521380) - Two pilots are being checked for injuries after ejecting from the plane near RNAS Culdrose.
-10. [MPs to vote on extending emergency Covid powers to autumn](https://www.bbc.co.uk/news/uk-politics-56521358) - MPs are being asked to extend unprecedented emergency laws brought in a year ago to deal with the virus.
+7. [Cornwall plane crash: Two pilots eject from Royal Navy jet](https://www.bbc.co.uk/news/uk-england-cornwall-56521380) - Two pilots are taken to hospital after ejecting from the Hawk T1 jet near RNAS Culdrose.
+8. [Covid vaccine: AstraZeneca updates US vaccine efficacy results](https://www.bbc.co.uk/news/world-us-canada-56521166) - The vaccine-maker slightly amends its efficacy rates as it awaits US regulatory approval.
+9. [New Alan Turing £50 note design is revealed](https://www.bbc.co.uk/news/business-56503741) - The banknote will enter circulation on 23 June - Alan Turing's birthday - and will be made of polymer.
+10. [MPs to vote on extending emergency Covid-19 powers to autumn](https://www.bbc.co.uk/news/uk-politics-56521358) - MPs are being asked to extend unprecedented emergency laws brought in a year ago to deal with the virus.
 11. [Nationwide tells 13,000 staff to 'work anywhere'](https://www.bbc.co.uk/news/business-56510574) - The UK's biggest building society says it wants to give employees more control over their lives.
 12. [Catalytic converter thefts: Surge in cases reported to Met Police](https://www.bbc.co.uk/news/uk-england-london-56502390) - More than 300 officers took part in raids across east London, Kent and Essex, with three men arrested.
 13. [Why cutting down trees can be good for the climate](https://www.bbc.co.uk/news/science-environment-56450965) - Tree felling is helping to restore an ancient ecosystem which can store even more carbon than trees do.
@@ -48,10 +48,10 @@
 48. [Covid: The countries that nailed it, and what we can learn from them](https://www.bbc.co.uk/news/uk-56455030) - A year into the pandemic, we look at countries that have had some success in tackling the virus.
 49. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 50. [Coronavirus: Your tributes to those who have died](https://www.bbc.co.uk/news/uk-52676411) - A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.
-51. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
-52. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
-53. [Covid: More walking and family chats post-lockdown - poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
-54. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.
+51. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as almost 28 million people receive at least one dose.
+52. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
+53. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
+54. [Covid: More walking and family chats post-lockdown - poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
 55. [Covid-19: Have a million people left the UK?](https://www.bbc.co.uk/news/uk-56435100) - How far has the UK's foreign-born population fallen during the coronavirus pandemic?
 56. [Coronavirus: When will pubs, hairdressers and gyms open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown is being eased, so when will places like hairdressers, pubs and gyms open?
 57. [Coronavirus: What is the R number and how is it calculated?](https://www.bbc.co.uk/news/health-52473523) - The R number is a simple but crucial figure at the heart of lockdown decisions across the UK.
