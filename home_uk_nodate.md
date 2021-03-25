@@ -1,4 +1,4 @@
-1. [Covid: Jab passports possible 'only after all vaccinated'](https://www.bbc.co.uk/news/uk-56522652) - A review on certificates showing jab status is due in April but no decisions have been made, says PM.
+1. [Jab passports possible 'after all offered vaccine'](https://www.bbc.co.uk/news/uk-56522652) - A review on certificates showing jab status is due in April but no decisions have been made, says PM.
 2. [Covid-19: Merkel defends rollout as vaccine pressure grows](https://www.bbc.co.uk/news/world-europe-56521318) - German Chancellor Angela Merkel defends the EU's decision to procure coronavirus vaccines jointly.
 3. [Covid-19: Over-50s urged to book jabs before vaccine supplies dip](https://www.bbc.co.uk/news/uk-56521415) - The NHS highlights the deadline of 29 March ahead of an expected slowdown in vaccine supplies in April.
 4. [Suez Canal: Owner of cargo ship blocking waterway apologises](https://www.bbc.co.uk/news/world-middle-east-56522178) - Japanese firm Shoei Kisen Kaisha says dislodging the Ever Given is proving "extremely difficult".
@@ -7,7 +7,7 @@
 7. [Johnny Depp refused permission to appeal libel verdict](https://www.bbc.co.uk/news/entertainment-arts-56521759) - A judge rules the US actor's appeal against a High Court ruling has "no real prospect of success".
 8. [Covid vaccine: AstraZeneca updates US vaccine efficacy results](https://www.bbc.co.uk/news/world-us-canada-56521166) - The vaccine-maker slightly amends its efficacy rates as it awaits US regulatory approval.
 9. [New Alan Turing £50 note design is revealed](https://www.bbc.co.uk/news/business-56503741) - The banknote will enter circulation on 23 June - Alan Turing's birthday - and will be made of polymer.
-10. [MPs to vote on extending emergency Covid-19 powers to autumn](https://www.bbc.co.uk/news/uk-politics-56521358) - MPs are being asked to extend unprecedented emergency laws brought in a year ago to deal with the virus.
+10. [MPs to vote on extending emergency Covid powers to autumn](https://www.bbc.co.uk/news/uk-politics-56521358) - MPs are being asked to extend unprecedented emergency laws brought in a year ago to deal with the virus.
 11. [Nationwide tells 13,000 staff to 'work anywhere'](https://www.bbc.co.uk/news/business-56510574) - The UK's biggest building society says it wants to give employees more control over their lives.
 12. [Catalytic converter thefts: Surge in cases reported to Met Police](https://www.bbc.co.uk/news/uk-england-london-56502390) - More than 300 officers took part in raids across east London, Kent and Essex, with three men arrested.
 13. [Why cutting down trees can be good for the climate](https://www.bbc.co.uk/news/science-environment-56450965) - Tree felling is helping to restore an ancient ecosystem which can store even more carbon than trees do.
@@ -15,12 +15,12 @@
 15. [Winston Churchill, Kermit and Janet Jackson recordings preserved for posterity](https://www.bbc.co.uk/news/entertainment-arts-56521728) - Their recordings are being added to the US National Recording Registry by the Library of Congress.
 16. [Lord Howe Island: Saving an Australian paradise's 'cloud forest'](https://www.bbc.co.uk/news/world-australia-56452910) - A rare environment on Australia's Lord Howe Island has faced a complex battle for survival.
 17. ['I can't see myself going back to a five-day week'](https://www.bbc.co.uk/news/business-56512169) - We've all got used to working flexibly so employers will need to adapt, say campaigners.
-18. [The Papers: 'No jab no pint' and EU vaccine 'peace deal' with UK](https://www.bbc.co.uk/news/blogs-the-papers-56518557) - Thursday's papers look at the prospect of pub goers needing proof of a Covid vaccination to gain entry.
-19. [Covid: Nursing in pandemic 'like working in a war'](https://www.bbc.co.uk/news/uk-england-lancashire-56518649) - Nurses in one of England's worst-hit areas relive the year-long ordeal of caring for Covid patients.
-20. [KSI: 'I was struggling to sell tickets to gigs in 2019'](https://www.bbc.co.uk/news/newsbeat-56488344) - Newsbeat speaks to one of YouTube's biggest stars about what's next after selling out his 2021 tour.
+18. [Covid: Nursing in pandemic 'like working in a war'](https://www.bbc.co.uk/news/uk-england-lancashire-56518649) - Nurses in one of England's worst-hit areas relive the year-long ordeal of caring for Covid patients.
+19. [KSI: 'I was struggling to sell tickets to gigs in 2019'](https://www.bbc.co.uk/news/newsbeat-56488344) - Newsbeat speaks to one of YouTube's biggest stars about what's next after selling out his 2021 tour.
+20. [The Papers: 'No jab no pint' and EU vaccine 'peace deal' with UK](https://www.bbc.co.uk/news/blogs-the-papers-56518557) - Thursday's papers look at the prospect of pub goers needing proof of a Covid vaccination to gain entry.
 21. [Nagorno-Karabakh: The mystery of the missing church](https://www.bbc.co.uk/news/world-europe-56517835) - The BBC investigates the disappearance of an Armenian church that changed hands in the recent Nagorno-Karabakh war.
 22. [Child migrants and Biden's border challenge explained](https://www.bbc.co.uk/news/world-us-canada-56514320) - An surge in migrants arriving at the US-Mexico border tests the administration's immigration promises.
-23. [In pictures: Container ship blocks Egypt's Suez Canal](https://www.bbc.co.uk/news/world-middle-east-56516151) - One of the world's key shipping routes has been blocked after a huge ship ran aground.
+23. [In pictures: Efforts to dislodge huge ship from Egypt's Suez Canal](https://www.bbc.co.uk/news/world-middle-east-56516151) - Tugboats and diggers are trying to get a container ship stuck in the Suez Canal moving again.
 24. [Covid: The London bus trip that saved maybe a million lives](https://www.bbc.co.uk/news/health-56508369) - A conversation on a bus led to the setting up of the Recovery trial, leading to treatments for Covid.
 25. [Holyrood election 2021: The intense battle for every vote in Scotland](https://www.bbc.co.uk/news/uk-scotland-56512440) - Polling expert Professor John Curtice looks at the issues that will decide the Scottish Parliament election on 6 May.
 26. ['My father, the killer'](https://www.bbc.co.uk/news/stories-51379981) - Some of the children of men who helped to "disappear" thousands of Argentines in the 1970s and 80s are now speaking out - against their fathers.
