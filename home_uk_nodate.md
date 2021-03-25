@@ -1,8 +1,8 @@
 1. [MPs agree to extend Covid powers until September](https://www.bbc.co.uk/news/uk-politics-56521358) - The health secretary said 'essential' government powers need to stay but other measures have been scrapped.
 2. [Biden pressed on child migration at first news conference](https://www.bbc.co.uk/news/world-us-canada-56531187) - More than 17,000 children are being kept in government-run detention centres, according to estimates.
 3. [Covid: Jab passports possible 'after all offered vaccine'](https://www.bbc.co.uk/news/uk-56522652) - A review on certificates showing jab status is ongoing but no decisions have been made, PM says.
-4. [Covid: Emergency powers extended and passports 'only when all offered jab'](https://www.bbc.co.uk/news/uk-56526460) - Five things you need to know about the coronavirus pandemic this Thursday evening.
-5. [Suez Canal: How are they trying to free the Ever Given?](https://www.bbc.co.uk/news/56523659) - Operations are continuing to move a 400 metre long vessel stuck in the Suez Canal since Tuesday.
+4. [Suez Canal: How are they trying to free the Ever Given?](https://www.bbc.co.uk/news/56523659) - Operations are continuing to move a 400 metre long vessel stuck in the Suez Canal since Tuesday.
+5. [Bafta Games Awards 2021: Hades takes Best Game](https://www.bbc.co.uk/news/newsbeat-56528581) - The Ancient Greek action adventure won big on the night with five awards in total.
 6. [Covid-19: Dutch sign up for test holiday on Greek island](https://www.bbc.co.uk/news/world-europe-56528112) - Some 25,000 people compete for 200 places on an eight-day "tourism feasibility" holiday on Rhodes.
 7. [Jessica Walter: Arrested Development star dies aged 80](https://www.bbc.co.uk/news/world-us-canada-56527688) - The US actress played the icy matriarch Lucille Bluth, and starred in films like Play Misty for Me.
 8. [Online red books and 'family hubs' to help new parents](https://www.bbc.co.uk/news/uk-56525485) - The government unveils plans to boost children's health, but Labour calls them a "smokescreen" for cuts.
