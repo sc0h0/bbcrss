@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Mar 2021 23:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 01:28:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Wed, 24 Mar 2021 23:31:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[North Korea fires two ballistic missiles into the Sea of Japan]]></title>
+            <description><![CDATA[Pyongyang is banned from testing such missiles, which were launched into the Sea of Japan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56518998</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56518998</guid>
+            <pubDate>Thu, 25 Mar 2021 00:58:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Pubs could require vaccine passports - Boris Johnson]]></title>
             <description><![CDATA[But one Conservative MP says "papers for pubs" would lead the country into "a ghastly trap".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56517486</link>
@@ -37,18 +44,11 @@
             <pubDate>Wed, 24 Mar 2021 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: India temporarily halts Oxford-AstraZeneca vaccine exports]]></title>
-            <description><![CDATA[The doses are needed for the country's own rollout amid a rise in cases, officials tell the BBC.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56513371</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56513371</guid>
-            <pubDate>Wed, 24 Mar 2021 18:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iceland: Close-up drone footage of volcanic eruption]]></title>
-            <description><![CDATA[A drone captures spectacular images as lava spews from Iceland's Fagradalsfjall volcano.]]></description>
-            <link>https://www.bbc.co.uk/news/world-56512554</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56512554</guid>
-            <pubDate>Wed, 24 Mar 2021 14:44:41 GMT</pubDate>
+            <title><![CDATA[Middle-aged women 'worst affected by long Covid', studies find]]></title>
+            <description><![CDATA[Five months after hospital treatment, 70% of patients studied had still not fully recovered.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56509340</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56509340</guid>
+            <pubDate>Thu, 25 Mar 2021 00:11:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Julie Pomagalski, French former snowboard world champion, dies in Swiss avalanche]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-56518597</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56518597</guid>
             <pubDate>Wed, 24 Mar 2021 21:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: India temporarily halts Oxford-AstraZeneca vaccine exports]]></title>
+            <description><![CDATA[The doses are needed for the country's own rollout amid a rise in cases, officials tell the BBC.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56513371</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56513371</guid>
+            <pubDate>Wed, 24 Mar 2021 18:00:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Germany's Merkel reverses plans for Easter lockdown]]></title>
@@ -72,18 +79,11 @@
             <pubDate>Wed, 24 Mar 2021 22:41:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Intensive-care patients moved hundreds of miles]]></title>
-            <description><![CDATA[More than 2,000 intensive-care patients were moved between hospitals in search of beds from September to March.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56483444</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56483444</guid>
-            <pubDate>Wed, 24 Mar 2021 17:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intel chief Pat Gelsinger: Too many chips made in Asia]]></title>
-            <description><![CDATA[The firm now aims to supply others with processors made in factories based in the US and Europe.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56512430</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56512430</guid>
-            <pubDate>Wed, 24 Mar 2021 19:36:13 GMT</pubDate>
+            <title><![CDATA[Iceland: Close-up drone footage of volcanic eruption]]></title>
+            <description><![CDATA[A drone captures spectacular images as lava spews from Iceland's Fagradalsfjall volcano.]]></description>
+            <link>https://www.bbc.co.uk/news/world-56512554</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56512554</guid>
+            <pubDate>Wed, 24 Mar 2021 14:44:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First southern US state scraps the death penalty]]></title>
