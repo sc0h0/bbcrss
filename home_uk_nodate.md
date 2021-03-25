@@ -4,7 +4,7 @@
 4. [North Korea fires two ballistic missiles into Sea of Japan](https://www.bbc.co.uk/news/world-asia-56518998) - Pyongyang is banned from testing such missiles, which were launched into the Sea of Japan.
 5. [Santander to close more than 100 branches](https://www.bbc.co.uk/news/business-56522428) - The bank says 840 staff will be affected by the decision although it will try to offer them roles elsewhere.
 6. [New Alan Turing £50 note design is revealed](https://www.bbc.co.uk/news/business-56503741) - The banknote will enter circulation on 23 June - Alan Turing's birthday - and will be made of polymer.
-7. [Covid: EU talks to boost jab supplies, and vaccine passports for pub goers?](https://www.bbc.co.uk/news/uk-56518447) - Five things you need to know about the coronavirus pandemic this Thursday morning.
+7. [MPs to vote on extending emergency Covid powers to autumn](https://www.bbc.co.uk/news/uk-politics-56521358) - MPs are being asked to extend unprecedented emergency laws brought in a year ago to deal with the virus.
 8. [NHS staff in Scotland to be offered 4% pay rise](https://www.bbc.co.uk/news/uk-scotland-56518221) - The Scottish government praised staff for their "service and dedication" during the Covid pandemic.
 9. [Nationwide tells 13,000 staff to 'work anywhere'](https://www.bbc.co.uk/news/business-56510574) - The UK's biggest building society says it wants to give employees more control over their lives.
 10. [Holyrood election 2021: The intense battle for every vote in Scotland](https://www.bbc.co.uk/news/uk-scotland-56512440) - Polling expert Professor John Curtice looks at the issues that will decide the Scottish Parliament election on 6 May.
