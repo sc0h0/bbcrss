@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Mar 2021 14:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Mar 2021 14:43:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,13 +79,6 @@
             <pubDate>Thu, 25 Mar 2021 10:25:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Johnny Depp refused permission to appeal libel verdict]]></title>
-            <description><![CDATA[A judge rules the US actor's appeal against a High Court ruling has "no real prospect of success".]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56521759</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56521759</guid>
-            <pubDate>Thu, 25 Mar 2021 11:39:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jay Leno sorry for jokes about Asian-Americans]]></title>
             <description><![CDATA[The US TV host has admitted that racial gags made for more than a decade were "a legitimate wrong".]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56520786</link>
@@ -105,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/technology-56517033</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56517033</guid>
             <pubDate>Thu, 25 Mar 2021 13:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simon McCoy leaves the BBC after 17 years]]></title>
+            <description><![CDATA[BBC News presenter Simon McCoy is known for his dry wit on air. Here are some of his iconic moments.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56527370</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56527370</guid>
+            <pubDate>Thu, 25 Mar 2021 14:28:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why cutting down trees can be good for the climate]]></title>
@@ -266,6 +266,13 @@
             <link>https://www.bbc.co.uk/sport/tennis/56520413</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56520413</guid>
             <pubDate>Thu, 25 Mar 2021 07:56:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['This little flame never lost hope' - Olympic torch relay finally begins]]></title>
+            <description><![CDATA[A year later than planned, an Olympic torch relay with a difference begins in Japan as the build-up for the Tokyo Games gets under way.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/56521548</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/56521548</guid>
+            <pubDate>Thu, 25 Mar 2021 09:23:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will I need a vaccine passport to go to the pub or travel abroad?]]></title>
