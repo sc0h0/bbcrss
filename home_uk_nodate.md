@@ -2,10 +2,10 @@
 2. [Suez Canal: Ships stuck in 'traffic jam' as salvage efforts continue](https://www.bbc.co.uk/news/world-middle-east-56538653) - The queue has grown rapidly since a container vessel became wedged, a sailor says.
 3. [Bristol Kill the Bill protest: Protesters sit in front of blocked road](https://www.bbc.co.uk/news/uk-england-bristol-56542893) - For the third time in less than a week, protesters defy Covid regulations to march.
 4. [Liberty Steel boss asks government for £170m bailout](https://www.bbc.co.uk/news/uk-politics-56545011) - Concerns over Liberty Steel's future have grown after its key backer Greensill Capital went bust.
-5. [Covid: Infections level off and Jackie Weaver wades in](https://www.bbc.co.uk/news/uk-56542378) - Five things you need to know about the coronavirus pandemic this Friday evening.
+5. [Coronavirus: Shops in England can open until 10pm after lockdown - No 10](https://www.bbc.co.uk/news/uk-56544235) - The measures will help businesses to recover and allow customers to shop safely, ministers say.
 6. [Coronavirus: Germany tightens borders amid alarm over pandemic](https://www.bbc.co.uk/news/world-europe-56537389) - France is to be classed a "high-risk" area as Germans are warned of a possible 100,000 infections a day.
 7. [Coronavirus: France accuses UK of 'blackmail' over vaccine exports](https://www.bbc.co.uk/news/world-europe-56540149) - The row over Covid vaccination supplies escalates after France's foreign minister criticises the UK.
-8. [Coronavirus: Shops in England can open until 10pm after lockdown - No 10](https://www.bbc.co.uk/news/uk-56544235) - The measures will help businesses to recover and allow customers to shop safely, ministers say.
+8. [Covid: Infections level off and Jackie Weaver wades in](https://www.bbc.co.uk/news/uk-56542378) - Five things you need to know about the coronavirus pandemic this Friday evening.
 9. [Major general jailed for Dorset school fees fraud](https://www.bbc.co.uk/news/uk-england-dorset-56538334) - Maj Gen Nick Welch claimed to live in London rather than in Dorset near his children's schools.
 10. [Slight Covid uptick in older school children in England](https://www.bbc.co.uk/news/health-56538974) - Latest figures from the ONS hint at an increase in years 7 to 11 in schools in England.
 11. [Uighurs: UK MPs banned by China vow to 'redouble' efforts against human rights abuses](https://www.bbc.co.uk/news/uk-56540279) - Five sanctioned parliamentarians say they will continue to campaign for persecuted groups in China.
