@@ -3,7 +3,7 @@
 3. [Coronavirus: Germany tightens borders amid alarm over pandemic](https://www.bbc.co.uk/news/world-europe-56537389) - There could be 100,000 infections a day if the third Covid wave spreads unchecked, Germans are warned.
 4. [Asda workers win key appeal in equal pay fight](https://www.bbc.co.uk/news/business-56534988) - Supreme Court rules shop workers are free to pursue fight to gain equal pay with warehouse staff.
 5. [Batley Grammar School: Prophet Muhammad cartoon row 'hijacked'](https://www.bbc.co.uk/news/uk-england-leeds-56523179) - Robert Jenrick defends the right of teachers to "appropriately" show images of the Prophet Muhammed.
-6. [Uighurs: China bans UK MPs after abuse sanctions](https://www.bbc.co.uk/news/uk-56532569) - Five MPs are among nine Britons targeted by China after the UK took action over human rights abuses.
+6. [Uighurs: PM 'stands firmly' with MPs and Britons after China abuse sanctions](https://www.bbc.co.uk/news/uk-56540279) - Those targeted by China were "shining a light" on "gross human rights violations", Boris Johnson says.
 7. [Xinjiang cotton: Western clothes brands vanish as backlash grows](https://www.bbc.co.uk/news/world-asia-china-56533560) - Companies including H&M and Nike are targeted for showing concern over Uighur forced labour claims.
 8. [Prince Albert II: Harry and Meghan interview 'did bother me'](https://www.bbc.co.uk/news/world-europe-56535206) - Prince Albert II of Monaco has weighed in on the controversial interview that Prince Harry and Meghan Markle gave to Oprah Winfrey.
 9. [Burglar and victims become friends through rehabilitation scheme](https://www.bbc.co.uk/news/uk-england-birmingham-56536649) - Anne Linton and a man who burgled her swap Christmas gifts and he regularly does her gardening.
