@@ -3,7 +3,7 @@
 3. [Mina Smallman: 'I know what Sarah Everard's parents are experiencing'](https://www.bbc.co.uk/news/uk-56450969) - Nicole Smallman and Bibaa Henry's mother says the loss of her children left her "broken beyond words".
 4. [UK professor shared info with fake Russian agent](https://www.bbc.co.uk/news/uk-56525694) - Paul McKeigue shared information with a man who hinted he was a Russian agent, to discredit an NGO.
 5. [Covid-19: Wales to end 'stay-local' rule and the pride and pressure inside vaccine factory](https://www.bbc.co.uk/news/uk-56531597) - Five things you need to know about the coronavirus pandemic this Friday morning.
-6. [Coronavirus: EU says AstraZeneca must 'catch up' on vaccine deliveries](https://www.bbc.co.uk/news/world-europe-56529868) - The bloc's chief says the vaccine manufacturer must honour its contract before exporting elsewhere.
+6. [Coronavirus: EU stops short of vaccine export ban](https://www.bbc.co.uk/news/world-europe-56529868) - The bloc tells AstraZeneca to honour its EU contracts but backs global supply chains.
 7. [Suez blockage is holding up £7bn of goods a day](https://www.bbc.co.uk/news/business-56533250) - The stranded mega-container ship is delaying $400m (£292m) an hour in goods that can't be moved east or west.
 8. [Lorry drivers 'must expect Covid test to enter UK'](https://www.bbc.co.uk/news/business-56531330) - An industry source says they expect the government to require hauliers entering the UK to be tested.
 9. [Bafta: Diversity scheme recruit 'faced racist comments'](https://www.bbc.co.uk/news/entertainment-arts-56524511) - An actress on Bafta's scheme to improve film and TV diversity claims she was discriminated against.
