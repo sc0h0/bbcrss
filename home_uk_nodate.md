@@ -2,14 +2,14 @@
 2. [Covid: 'Stay-local' rule in Wales to end from Saturday](https://www.bbc.co.uk/news/uk-wales-politics-56522989) - Wales will be the first UK nation to scrap travel restrictions since lockdowns were re-imposed.
 3. [Coronavirus: EU says AstraZeneca must 'catch up' on vaccine deliveries](https://www.bbc.co.uk/news/world-europe-56529868) - The bloc's chief says the vaccine manufacturer must honour its contract before exporting elsewhere.
 4. [Suez blockage is holding up $9.6bn of goods a day](https://www.bbc.co.uk/news/business-56533250) - The stranded mega-container ship is delaying $400m (£292m) an hour in goods that can't be moved east or west.
-5. [UK professor shared info with fake Russian agent](https://www.bbc.co.uk/news/uk-56525694) - Paul McKeigue shared information with a man who hinted he was a Russian agent, to discredit an NGO.
+5. [Bafta: Diversity scheme recruit 'faced racist comments'](https://www.bbc.co.uk/news/entertainment-arts-56524511) - An actress on Bafta's scheme to improve film and TV diversity claims she was discriminated against.
 6. [Hauliers 'must expect Covid test to enter UK'](https://www.bbc.co.uk/news/business-56531330) - An industry source says they expect the government to require hauliers entering the UK to be tested.
-7. [North Korea claims 'new tactical guided' missiles launched](https://www.bbc.co.uk/news/world-asia-56533260) - Pyongyang says the missiles can carry massive payloads, which could include nuclear warheads.
-8. [Rough sleepers: Long-term housing 'varies by area'](https://www.bbc.co.uk/news/uk-56510107) - Some people have been housed after years on the streets, but others still face uncertainty.
-9. [Schools 'must involve police' in rape claims](https://www.bbc.co.uk/news/uk-56529491) - Claims of rape, sexual abuse and misogyny have been made by pupils at several independent schools.
-10. [Domestic abuse: Women 'could die in unregulated refuges'](https://www.bbc.co.uk/news/uk-56526455) - Accommodation provided by groups with no expertise could be dangerous, women's organisations warn.
-11. [Brexit: UK lost 'significant' access to EU policing data under deal, report warns](https://www.bbc.co.uk/news/uk-politics-56529359) - Ppost-Brexit security arrangements are "complex and untested", a House of Lords report warns.
-12. [Covid: BAME doctors 'still waiting for risk checks'](https://www.bbc.co.uk/news/health-56500589) - Many say key risk assessments have either not taken place or have not been acted on.
+7. [UK professor shared info with fake Russian agent](https://www.bbc.co.uk/news/uk-56525694) - Paul McKeigue shared information with a man who hinted he was a Russian agent, to discredit an NGO.
+8. [North Korea claims 'new tactical guided' missiles launched](https://www.bbc.co.uk/news/world-asia-56533260) - Pyongyang says the missiles can carry massive payloads, which could include nuclear warheads.
+9. [Rough sleepers: Long-term housing 'varies by area'](https://www.bbc.co.uk/news/uk-56510107) - Some people have been housed after years on the streets, but others still face uncertainty.
+10. [Schools 'must involve police' in rape claims](https://www.bbc.co.uk/news/uk-56529491) - Claims of rape, sexual abuse and misogyny have been made by pupils at several independent schools.
+11. [Domestic abuse: Women 'could die in unregulated refuges'](https://www.bbc.co.uk/news/uk-56526455) - Accommodation provided by groups with no expertise could be dangerous, women's organisations warn.
+12. [Brexit: UK lost 'significant' access to EU policing data under deal, report warns](https://www.bbc.co.uk/news/uk-politics-56529359) - Ppost-Brexit security arrangements are "complex and untested", a House of Lords report warns.
 13. [The Papers: UK 'plans October booster jab' and pub passport 'fury'](https://www.bbc.co.uk/news/blogs-the-papers-56531927) - People being offered boosters to protect against new Covid strains features on Friday's front pages.
 14. [999 response officers receive extra psychological support](https://www.bbc.co.uk/news/uk-56450962) - Police forces are offering extra psychological support to 999 response officers.
 15. [Winslet's same-sex role 'simply a love story'](https://www.bbc.co.uk/news/entertainment-arts-56526588) - Oscar winning actress Kate Winslet’s latest role sees her as the 19th century fossil hunter Mary Anning.
