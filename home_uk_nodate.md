@@ -1,5 +1,5 @@
 1. [Uighurs: China bans UK MPs after abuse sanctions](https://www.bbc.co.uk/news/uk-56532569) - Five MPs are among nine Britons targeted by China after the UK took action over human rights abuses.
-2. [Asda loses Supreme Court appeal in equal pay fight](https://www.bbc.co.uk/news/business-56534988) - Supreme Court rules Asda shop workers free to pursue fight to gain equal pay with warehouse workers.
+2. [Asda workers win key appeal in equal pay fight](https://www.bbc.co.uk/news/business-56534988) - Supreme Court rules shop workers are free to pursue fight to gain equal pay with warehouse staff.
 3. [Mina Smallman: 'I know what Sarah Everard's parents are experiencing'](https://www.bbc.co.uk/news/uk-56450969) - Nicole Smallman and Bibaa Henry's mother says the loss of her children left her "broken beyond words".
 4. [Batley Grammar School: Prophet Muhammad cartoon row 'hijacked'](https://www.bbc.co.uk/news/uk-england-leeds-56523179) - Protesters gather for a second day at a school where an image of the Prophet Muhammad was shown.
 5. [UK professor shared info with fake Russian agent](https://www.bbc.co.uk/news/uk-56525694) - Paul McKeigue shared information with a man who hinted he was a Russian agent, to discredit an NGO.
