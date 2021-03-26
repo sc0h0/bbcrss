@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Mar 2021 09:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Mar 2021 09:51:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Five MPs are among nine Britons targeted by China after the UK took action over human rights abuses.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56532569</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56532569</guid>
-            <pubDate>Fri, 26 Mar 2021 09:27:03 GMT</pubDate>
+            <pubDate>Fri, 26 Mar 2021 09:49:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: 'Stay-local' rule in Wales to end from Saturday]]></title>
@@ -44,13 +44,6 @@
             <pubDate>Fri, 26 Mar 2021 01:21:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Wales to end 'stay-local' rule and the pride and pressure inside vaccine factory]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56531597</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56531597</guid>
-            <pubDate>Fri, 26 Mar 2021 07:41:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coronavirus: EU stops short of vaccine export ban]]></title>
             <description><![CDATA[The bloc tells AstraZeneca to honour its EU contracts but backs global supply chains.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56529868</link>
@@ -72,11 +65,18 @@
             <pubDate>Fri, 26 Mar 2021 00:28:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bafta: Diversity scheme recruit 'faced racist comments']]></title>
-            <description><![CDATA[An actress on Bafta's scheme to improve film and TV diversity claims she was discriminated against.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56524511</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56524511</guid>
-            <pubDate>Fri, 26 Mar 2021 05:01:49 GMT</pubDate>
+            <title><![CDATA[Prince Albert II: Harry and Meghan interview 'did bother me']]></title>
+            <description><![CDATA[Prince Albert II of Monaco has weighed in on the controversial interview that Prince Harry and Meghan Markle gave to Oprah Winfrey.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56535206</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56535206</guid>
+            <pubDate>Fri, 26 Mar 2021 09:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool City Council gave contract to mayor's son’s company]]></title>
+            <description><![CDATA[The firm run by Joe Anderson's son was not on an approved contractors list, a critical report found.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-56531056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-56531056</guid>
+            <pubDate>Fri, 26 Mar 2021 08:55:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rough sleepers: Long-term housing 'varies by area']]></title>
@@ -406,6 +406,13 @@
             <link>https://www.bbc.co.uk/news/uk-56435100</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56435100</guid>
             <pubDate>Sat, 20 Mar 2021 23:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My father, the killer']]></title>
+            <description><![CDATA[Some of the children of men who helped to "disappear" thousands of Argentines in the 1970s and 80s are now speaking out - against their fathers.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-51379981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-51379981</guid>
+            <pubDate>Thu, 25 Mar 2021 00:04:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

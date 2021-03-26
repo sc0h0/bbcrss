@@ -2,11 +2,11 @@
 2. [Covid: 'Stay-local' rule in Wales to end from Saturday](https://www.bbc.co.uk/news/uk-wales-politics-56522989) - Wales will be the first UK nation to scrap travel restrictions since lockdowns were re-imposed.
 3. [Mina Smallman: 'I know what Sarah Everard's parents are experiencing'](https://www.bbc.co.uk/news/uk-56450969) - Nicole Smallman and Bibaa Henry's mother says the loss of her children left her "broken beyond words".
 4. [UK professor shared info with fake Russian agent](https://www.bbc.co.uk/news/uk-56525694) - Paul McKeigue shared information with a man who hinted he was a Russian agent, to discredit an NGO.
-5. [Covid-19: Wales to end 'stay-local' rule and the pride and pressure inside vaccine factory](https://www.bbc.co.uk/news/uk-56531597) - Five things you need to know about the coronavirus pandemic this Friday morning.
-6. [Coronavirus: EU stops short of vaccine export ban](https://www.bbc.co.uk/news/world-europe-56529868) - The bloc tells AstraZeneca to honour its EU contracts but backs global supply chains.
-7. [Suez blockage is holding up £7bn of goods a day](https://www.bbc.co.uk/news/business-56533250) - The stranded mega-container ship is delaying $400m (£292m) an hour in goods that can't be moved east or west.
-8. [Lorry drivers 'must expect Covid test to enter UK'](https://www.bbc.co.uk/news/business-56531330) - An industry source says they expect the government to require hauliers entering the UK to be tested.
-9. [Bafta: Diversity scheme recruit 'faced racist comments'](https://www.bbc.co.uk/news/entertainment-arts-56524511) - An actress on Bafta's scheme to improve film and TV diversity claims she was discriminated against.
+5. [Coronavirus: EU stops short of vaccine export ban](https://www.bbc.co.uk/news/world-europe-56529868) - The bloc tells AstraZeneca to honour its EU contracts but backs global supply chains.
+6. [Suez blockage is holding up £7bn of goods a day](https://www.bbc.co.uk/news/business-56533250) - The stranded mega-container ship is delaying $400m (£292m) an hour in goods that can't be moved east or west.
+7. [Lorry drivers 'must expect Covid test to enter UK'](https://www.bbc.co.uk/news/business-56531330) - An industry source says they expect the government to require hauliers entering the UK to be tested.
+8. [Prince Albert II: Harry and Meghan interview 'did bother me'](https://www.bbc.co.uk/news/world-europe-56535206) - Prince Albert II of Monaco has weighed in on the controversial interview that Prince Harry and Meghan Markle gave to Oprah Winfrey.
+9. [Liverpool City Council gave contract to mayor's son’s company](https://www.bbc.co.uk/news/uk-england-merseyside-56531056) - The firm run by Joe Anderson's son was not on an approved contractors list, a critical report found.
 10. [Rough sleepers: Long-term housing 'varies by area'](https://www.bbc.co.uk/news/uk-56510107) - Some people have been housed after years on the streets, but others still face uncertainty.
 11. [Louis Thorold: Mother's survival 'miraculous' in baby pram death](https://www.bbc.co.uk/news/uk-england-cambridgeshire-56523274) - Rachael Thorold was hit by a van while walking with her five-month-old son Louis, who died.
 12. [The Papers: UK 'plans October booster jab' and pub passport 'fury'](https://www.bbc.co.uk/news/blogs-the-papers-56531927) - People being offered boosters to protect against new Covid strains features on Friday's front pages.
@@ -54,3 +54,4 @@
 54. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
 55. [Covid: More walking and family chats post-lockdown - poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
 56. [Covid-19: Have a million people left the UK?](https://www.bbc.co.uk/news/uk-56435100) - How far has the UK's foreign-born population fallen during the coronavirus pandemic?
+57. ['My father, the killer'](https://www.bbc.co.uk/news/stories-51379981) - Some of the children of men who helped to "disappear" thousands of Argentines in the 1970s and 80s are now speaking out - against their fathers.
