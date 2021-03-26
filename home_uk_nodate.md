@@ -1,4 +1,4 @@
-1. [Uighurs: China bans UK MPs after Uighur abuse sanctions](https://www.bbc.co.uk/news/uk-56532569) - Five MPs are among nine Britons targeted by China after the UK took action over human rights abuses.
+1. [Uighurs: China bans UK MPs after abuse sanctions](https://www.bbc.co.uk/news/uk-56532569) - Five MPs are among nine Britons targeted by China after the UK took action over human rights abuses.
 2. [Covid: 'Stay-local' rule in Wales to end from Saturday](https://www.bbc.co.uk/news/uk-wales-politics-56522989) - Wales will be the first UK nation to scrap travel restrictions since lockdowns were re-imposed.
 3. [Coronavirus: EU says AstraZeneca must 'catch up' on vaccine deliveries](https://www.bbc.co.uk/news/world-europe-56529868) - The bloc's chief says the vaccine manufacturer must honour its contract before exporting elsewhere.
 4. [Suez blockage is holding up $9.6bn of goods a day](https://www.bbc.co.uk/news/business-56533250) - The stranded mega-container ship is delaying $400m (£292m) an hour in goods that can't be moved east or west.
