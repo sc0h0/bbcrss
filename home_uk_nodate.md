@@ -1,11 +1,11 @@
 1. [Over-70s could get booster Covid jab from September - vaccines minister](https://www.bbc.co.uk/news/uk-56544236) - Nadhim Zahawi said No 10 was hoping to have eight different Covid jabs available by the autumn.
-2. [Biden: Georgia voting restriction law is 'atrocity'](https://www.bbc.co.uk/news/world-us-canada-56546480) - The president decries new state voting restrictions that he likened to past racist laws of the US South.
-3. [Covid: Grassroots sports get ready for lockdown release](https://www.bbc.co.uk/news/uk-56543479) - Millions of people across England are preparing for outdoor grassroots sports being allowed again from Monday.
-4. [Bristol Kill the Bill protest: Riot police disperse protesters](https://www.bbc.co.uk/news/uk-england-bristol-56542893) - Protesters involved in a sit-down demonstration are driven back by police in Bristol.
+2. [Covid: 'Christmas Day' for families as Wales lifts travel ban](https://www.bbc.co.uk/news/uk-wales-56542593) - From Saturday, the "stay local" rule will be scrapped, allowing unlimited travel within Wales.
+3. [Biden: Georgia voting restriction law is 'atrocity'](https://www.bbc.co.uk/news/world-us-canada-56546480) - The president decries new state voting restrictions that he likened to past racist laws of the US South.
+4. [Covid: Grassroots sports get ready for lockdown release](https://www.bbc.co.uk/news/uk-56543479) - Millions of people across England are preparing for outdoor grassroots sports being allowed again from Monday.
 5. ['Ice-cream toothache' mystery explained](https://www.bbc.co.uk/news/health-56536300) - Scientists say they have worked out how teeth become sensitive and hurt with cold food and drinks.
-6. [Everyone's Invited: Met investigates school abuse claims made on website](https://www.bbc.co.uk/news/uk-england-london-56545081) - Allegations of sex attacks at schools in London are being investigated by the Met Police.
-7. [Batley school protests: Identifying prophet row teacher 'unacceptable'](https://www.bbc.co.uk/news/uk-england-leeds-56537585) - Making a teacher fear for their safety is "unacceptable", the equality commission chair says.
-8. [Liberty Steel boss asks government for £170m bailout](https://www.bbc.co.uk/news/uk-politics-56545011) - Concerns over Liberty Steel's future have grown after its key backer Greensill Capital went bust.
+6. [Bristol Kill the Bill protest: Riot police disperse protesters](https://www.bbc.co.uk/news/uk-england-bristol-56542893) - Protesters involved in a sit-down demonstration are driven back by police in Bristol.
+7. [Everyone's Invited: Met investigates school abuse claims made on website](https://www.bbc.co.uk/news/uk-england-london-56545081) - Allegations of sex attacks at schools in London are being investigated by the Met Police.
+8. [Batley school protests: Identifying prophet row teacher 'unacceptable'](https://www.bbc.co.uk/news/uk-england-leeds-56537585) - Making a teacher fear for their safety is "unacceptable", the equality commission chair says.
 9. [Local elections: Tories warn of post-Corbyn Labour 'bounce'](https://www.bbc.co.uk/news/uk-politics-56543868) - The party promises to "build back better" from the pandemic as it launches its English elections push.
 10. [Phone companies 'must do more' to stop fraud calls](https://www.bbc.co.uk/news/business-56521518) - A senior law enforcement officer says the UK needs "a step change" in its response to fraud.
 11. [Six Nations: Wales win title as Scotland beat France in Paris](https://www.bbc.co.uk/sport/rugby-union/56545048) - Wales clinch the Six Nations as 14-man Scotland snatch their first victory in Paris since 1999 to wreck France's title hopes.
@@ -58,5 +58,8 @@
 58. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
 59. [Covid: More walking and family chats post-lockdown - poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
 60. [Covid-19: Have a million people left the UK?](https://www.bbc.co.uk/news/uk-56435100) - How far has the UK's foreign-born population fallen during the coronavirus pandemic?
-61. [Bangladesh at 50: Why climate change could destroy my ancestral home](https://www.bbc.co.uk/news/world-asia-56485667) - As Bangladesh turns 50, a UK-Bangladeshi reflects on how climate change affects his parent's country.
-62. ['My father, the killer'](https://www.bbc.co.uk/news/stories-51379981) - Some of the children of men who helped to "disappear" thousands of Argentines in the 1970s and 80s are now speaking out - against their fathers.
+61. [The 17-year-old blacksmith going viral online](https://www.bbc.co.uk/news/uk-56503921) - Ben Perkins tells BBC News how he became an online sensation.
+62. [Covid loneliness: 'I craved human touch after months of no hugs'](https://www.bbc.co.uk/news/uk-wales-56499588) - Alice Gray was loving life as a single woman in her 20s - then the pandemic hit.
+63. [British artist's giant painting raises £45m for children's charities](https://www.bbc.co.uk/news/entertainment-arts-56495039) - British artist Sacha Jafri spent eight months creating the work in isolation in a hotel ballroom.
+64. [Lockdown hair given to South Shields Covid-19 archive](https://www.bbc.co.uk/news/uk-england-tyne-56500346) - Four people donated the hair they grew through lockdowns to a museum's collection.
+65. [Oasis contract requesting 'sober-speaking' helpers fetches £4,000](https://www.bbc.co.uk/news/uk-england-derbyshire-56496803) - The contract was sold by a woman who worked in the music industry, ahead of her retirement.
