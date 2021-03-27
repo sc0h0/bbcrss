@@ -4,7 +4,7 @@
 4. [Covid: 'Christmas Day' for families as Wales lifts travel ban](https://www.bbc.co.uk/news/uk-wales-56542593) - The 'stay local' rule has been scrapped, allowing unlimited travel within Wales from Saturday.
 5. [Green Homes Grant scheme to insulate houses axed](https://www.bbc.co.uk/news/science-environment-56552484) - Homeowners were invited to apply for grants to insulate houses but the scheme is being suddenly ended.
 6. [Charlie Hughes: Parents of boy with epilepsy drop NICE high court challenge](https://www.bbc.co.uk/news/uk-england-norfolk-56550061) - The family of three-year-old Charlie Hughes had brought a judicial review against NICE guidance.
-7. [Myanmar: Dozens killed as army opens fire on protesters during 'deadliest day'](https://www.bbc.co.uk/news/world-asia-56546920) - Dozens of deaths are reported as anti-coup protesters defy warnings and take to the streets.
+7. [Myanmar coup: Dozens killed as army opens fire on protesters during deadliest day](https://www.bbc.co.uk/news/world-asia-56546920) - Dozens of deaths are reported as anti-coup protesters defy warnings and take to the streets.
 8. [Suez Canal: Fresh effort to refloat wedged container ship](https://www.bbc.co.uk/news/world-middle-east-56550350) - Tugs are taking advantage of a high tide to try to dislodge the ship blocking a key shipping route.
 9. [Covid-19: Arlene Foster gets AstraZeneca vaccine](https://www.bbc.co.uk/news/world-europe-56551924) - The DUP leader praises the "positive community spirit" and "collective effort" vaccination centres.
 10. [Covid: Pub vaccine passports 'risk social division'](https://www.bbc.co.uk/news/uk-56548357) - Forcing pub-goers to prove their jab status could make vaccine hesitancy worse, a scientist says.
