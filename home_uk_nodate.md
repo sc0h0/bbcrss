@@ -6,7 +6,7 @@
 6. [Myanmar: Dozens killed as army opens fire on protesters during 'deadliest day'](https://www.bbc.co.uk/news/world-asia-56546920) - Dozens of deaths are reported as anti-coup protesters defy warnings and take to the streets.
 7. [Suez Canal: Fresh effort to refloat wedged container ship](https://www.bbc.co.uk/news/world-middle-east-56550350) - Tugs are taking advantage of a high tide to try to dislodge the ship blocking a key shipping route.
 8. [Violence at protest 'disgraceful', says PM](https://www.bbc.co.uk/news/uk-england-bristol-56548750) - Ten people are arrested after a third night of protests in Bristol in the past week.
-9. [Petition calls for prophet-row teacher to keep job](https://www.bbc.co.uk/news/uk-england-leeds-56548667) - The petition says the Batley Grammar School teacher "does not deserve such large repercussions".
+9. [Covid-19: Arlene Foster gets AstraZeneca vaccine](https://www.bbc.co.uk/news/world-europe-56551924) - The DUP leader praises the "positive community spirit" and "collective effort" vaccination centres.
 10. [Covid: Pub vaccine passports 'risk social division'](https://www.bbc.co.uk/news/uk-56548357) - Forcing pub-goers to prove their jab status could make vaccine hesitancy worse, a scientist says.
 11. [Facebook freezes Maduro's page over Covid claim](https://www.bbc.co.uk/news/world-latin-america-56551350) - Venezuela's president will not be able to post for 30 days for disinformation over a herbal remedy.
 12. [Apophis asteroid will not hit Earth for 100 years, Nasa says](https://www.bbc.co.uk/news/science-environment-56547727) - The space agency rules out a 2068 threat to Earth from the "poster child for hazardous asteroids".
