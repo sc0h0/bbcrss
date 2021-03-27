@@ -1,4 +1,4 @@
-1. [Covid: England lockdown easing still on course, says PM](https://www.bbc.co.uk/news/uk-56544236) - Sat, 27 Mar 2021 11:42:28 GMT - Boris Johnson says that, as things stand, the "roadmap to freedom" will continue as planned.
+1. [Covid: England lockdown easing still on course, says PM](https://www.bbc.co.uk/news/uk-56544236) - Sat, 27 Mar 2021 11:58:14 GMT - Boris Johnson says that, as things stand, the "roadmap to freedom" will continue as planned.
 2. [Violence at protest 'disgraceful', says PM](https://www.bbc.co.uk/news/uk-england-bristol-56548750) - Sat, 27 Mar 2021 11:45:35 GMT - Ten people are arrested after a third night of protests in Bristol in the past week.
 3. [Covid: 'Christmas Day' for families as Wales lifts travel ban](https://www.bbc.co.uk/news/uk-wales-56542593) - Sat, 27 Mar 2021 10:34:34 GMT - The 'stay local' rule has been scrapped, allowing unlimited travel within Wales from Saturday.
 4. [Covid: Pub vaccine passports 'risk social division'](https://www.bbc.co.uk/news/uk-56548357) - Sat, 27 Mar 2021 10:30:47 GMT - Forcing pub-goers to prove their jab status could make vaccine hesitancy worse, a scientist says.
