@@ -7,7 +7,7 @@
 7. [Everyone's Invited: Met investigates school abuse claims made on website](https://www.bbc.co.uk/news/uk-england-london-56545081) - Allegations of sex attacks at schools in London are being investigated by the Met Police.
 8. [Batley school protests: Identifying prophet row teacher 'unacceptable'](https://www.bbc.co.uk/news/uk-england-leeds-56537585) - Making a teacher fear for their safety is "unacceptable", the equality commission chair says.
 9. [Local elections: Tories warn of post-Corbyn Labour 'bounce'](https://www.bbc.co.uk/news/uk-politics-56543868) - The party promises to "build back better" from the pandemic as it launches its English elections push.
-10. [Phone companies 'must do more' to stop fraud calls](https://www.bbc.co.uk/news/business-56521518) - A senior law enforcement officer says the UK needs "a step change" in its response to fraud.
+10. [Hate crimes on police 'more likely to be charged'](https://www.bbc.co.uk/news/uk-56546490) - Police officers and staff made up a small portion of overall cases but up to half of crimes charged.
 11. [Six Nations: Wales win title as Scotland beat France in Paris](https://www.bbc.co.uk/sport/rugby-union/56545048) - Wales clinch the Six Nations as 14-man Scotland snatch their first victory in Paris since 1999 to wreck France's title hopes.
 12. [The Papers: 'Over-70s autumn booster' and shops 'open till 10'](https://www.bbc.co.uk/news/blogs-the-papers-56546010) - Some of Saturday's papers look ahead to lockdown rules easing for millions in England on Monday.
 13. [The challenge facing Joe Biden at the border](https://www.bbc.co.uk/news/world-56540621) - Can the new president match his words on the campaign trail with action?
