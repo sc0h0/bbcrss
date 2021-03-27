@@ -1,9 +1,9 @@
-1. [Big questions over Salmond's return, says Sturgeon](https://www.bbc.co.uk/news/uk-scotland-56548830) - Nicola Sturgeon's comments come after Alex Salmond confirmed he would stand for the pro-independence Alba Party.
+1. [Big questions over Salmond's return, says Sturgeon](https://www.bbc.co.uk/news/uk-scotland-56548830) - Nicola Sturgeon's comments come after Alex Salmond confirmed he would stand for a new pro-independence party.
 2. [Covid: England lockdown easing still on course, says PM](https://www.bbc.co.uk/news/uk-56544236) - Boris Johnson says the "roadmap to freedom" will continue, even as infections rise across Europe.
 3. [Violence at protest 'disgraceful', says PM](https://www.bbc.co.uk/news/uk-england-bristol-56548750) - Ten people are arrested after a third night of protests in Bristol in the past week.
 4. [Covid: 'Christmas Day' for families as Wales lifts travel ban](https://www.bbc.co.uk/news/uk-wales-56542593) - The 'stay local' rule has been scrapped, allowing unlimited travel within Wales from Saturday.
 5. [Everyone's Invited: Sex abuse claims 'not limited to private schools'](https://www.bbc.co.uk/news/uk-england-london-56549070) - The Met is investigating allegations of abuse published on the Everyone's Invited website.
-6. [Myanmar: 'Dozens die' in protests as coup leaders mark Armed Forces Day](https://www.bbc.co.uk/news/world-asia-56546920) - Anti-coup protesters take to the streets despite warnings and a show of force by the military.
+6. [Myanmar: Dozens die in protests as coup leaders mark Armed Forces Day](https://www.bbc.co.uk/news/world-asia-56546920) - Anti-coup protesters take to the streets despite warnings and a show of force by the military.
 7. [Covid: Pub vaccine passports 'risk social division'](https://www.bbc.co.uk/news/uk-56548357) - Forcing pub-goers to prove their jab status could make vaccine hesitancy worse, a scientist says.
 8. [The Talk: Sharon Osbourne leaves US show after racism row](https://www.bbc.co.uk/news/world-us-canada-56547718) - CBS says her behaviour in an on-air row over the Duchess of Sussex "did not align with our values".
 9. [Suez Canal: Wedged container ship 'could soon be refloated'](https://www.bbc.co.uk/news/world-middle-east-56547201) - The large container vessel became wedged across the canal on Tuesday, causing a traffic jam.
