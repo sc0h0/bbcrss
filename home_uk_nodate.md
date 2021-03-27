@@ -4,7 +4,7 @@
 4. [Covid: Pub vaccine passports 'risk social division'](https://www.bbc.co.uk/news/uk-56548357) - Forcing pub-goers to prove their jab status could make vaccine hesitancy worse, a scientist says.
 5. [The Talk: Sharon Osbourne leaves US show after racism row](https://www.bbc.co.uk/news/world-us-canada-56547718) - CBS says her behaviour in an on-air row over the Duchess of Sussex "did not align with our values".
 6. [Suez Canal: Wedged container ship 'could soon be refloated'](https://www.bbc.co.uk/news/world-middle-east-56547201) - The large container vessel became wedged across the canal on Tuesday, causing a traffic jam.
-7. [Myanmar: Protests erupt again amid a show of force by coup leaders](https://www.bbc.co.uk/news/world-asia-56546920) - Security forces crack down again as coup leader Min Aung Hlaing delivers Armed Forces Day speech.
+7. [Myanmar: Deadly protests erupt as coup leaders mark Armed Forces Day](https://www.bbc.co.uk/news/world-asia-56546920) - Security forces crack down again on Armed Forces Day, with reports of dozens of protesters killed.
 8. [Hate crimes on police 'more likely to be charged'](https://www.bbc.co.uk/news/uk-56546490) - Police officers and staff made up a small portion of overall cases but up to half of crimes charged.
 9. [BBC reporter records phone call with fraudster](https://www.bbc.co.uk/news/business-56543849) - BBC Money Box reporter Dan Whitworth was phoned by a fraudster and managed to record the call.
 10. [Local elections: Tories warn of post-Corbyn Labour 'bounce'](https://www.bbc.co.uk/news/uk-politics-56543868) - The party promises to "build back better" from the pandemic as it launches its English elections push.
