@@ -3,7 +3,7 @@
 3. [Biden: Georgia voting restriction law is 'atrocity'](https://www.bbc.co.uk/news/world-us-canada-56546480) - The president decries new state voting restrictions that he likened to past racist laws of the US South.
 4. [Covid: Grassroots sports get ready for lockdown release](https://www.bbc.co.uk/news/uk-56543479) - Millions of people across England are preparing for outdoor grassroots sports being allowed again from Monday.
 5. [Bristol Kill the Bill protest: Riot police disperse protesters](https://www.bbc.co.uk/news/uk-england-bristol-56542893) - Protesters involved in a sit-down demonstration are driven back by police in Bristol.
-6. [Batley school protests: Identifying prophet row teacher 'unacceptable'](https://www.bbc.co.uk/news/uk-england-leeds-56537585) - Making a teacher fear for their safety is "unacceptable", the equality commission chair says.
+6. [Suez Canal: Wedged container ship 'could soon be refloated'](https://www.bbc.co.uk/news/world-middle-east-56547201) - The large container vessel became wedged across the canal on Tuesday, causing a traffic jam.
 7. [Hate crimes on police 'more likely to be charged'](https://www.bbc.co.uk/news/uk-56546490) - Police officers and staff made up a small portion of overall cases but up to half of crimes charged.
 8. [BBC reporter records phone call with fraudster](https://www.bbc.co.uk/news/business-56543849) - BBC Money Box reporter Dan Whitworth was phoned by a fraudster and managed to record the call.
 9. [Local elections: Tories warn of post-Corbyn Labour 'bounce'](https://www.bbc.co.uk/news/uk-politics-56543868) - The party promises to "build back better" from the pandemic as it launches its English elections push.
