@@ -1,8 +1,8 @@
 1. [Over-70s could get booster Covid jab from September - vaccines minister](https://www.bbc.co.uk/news/uk-56544236) - Nadhim Zahawi said No 10 was hoping to have eight different Covid jabs available by the autumn.
 2. [Covid: 'Christmas Day' for families as Wales lifts travel ban](https://www.bbc.co.uk/news/uk-wales-56542593) - The 'stay local' rule has been scrapped, allowing unlimited travel within Wales from Saturday.
 3. [Covid: Over-70s September booster, and shops open until 10pm](https://www.bbc.co.uk/news/uk-56546413) - Five things you need to know about the coronavirus pandemic this Saturday morning.
-4. [The Talk: Sharon Osbourne leaves US show after racism row](https://www.bbc.co.uk/news/world-us-canada-56547718) - CBS says her behaviour in an on-air row over the Duchess of Sussex "did not align with our values".
-5. [Biden: Georgia voting restriction law is 'atrocity'](https://www.bbc.co.uk/news/world-us-canada-56546480) - The president decries new state voting restrictions that he likened to past racist laws of the US South.
+4. [Kill the Bill: Ten arrests after third Bristol protest](https://www.bbc.co.uk/news/uk-england-bristol-56548067) - A "minority" of protesters "showed hostility" including throwing bottles and bricks, police say.
+5. [The Talk: Sharon Osbourne leaves US show after racism row](https://www.bbc.co.uk/news/world-us-canada-56547718) - CBS says her behaviour in an on-air row over the Duchess of Sussex "did not align with our values".
 6. [Suez Canal: Wedged container ship 'could soon be refloated'](https://www.bbc.co.uk/news/world-middle-east-56547201) - The large container vessel became wedged across the canal on Tuesday, causing a traffic jam.
 7. [Hate crimes on police 'more likely to be charged'](https://www.bbc.co.uk/news/uk-56546490) - Police officers and staff made up a small portion of overall cases but up to half of crimes charged.
 8. [BBC reporter records phone call with fraudster](https://www.bbc.co.uk/news/business-56543849) - BBC Money Box reporter Dan Whitworth was phoned by a fraudster and managed to record the call.
