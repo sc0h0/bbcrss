@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Mar 2021 17:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 18:16:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,14 +34,21 @@
             <description><![CDATA[Boris Johnson says the "roadmap to freedom" will continue, even as infections rise across Europe.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56544236</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56544236</guid>
-            <pubDate>Sat, 27 Mar 2021 17:21:42 GMT</pubDate>
+            <pubDate>Sat, 27 Mar 2021 18:09:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Suez Canal: Fresh effort to refloat wedged container ship]]></title>
-            <description><![CDATA[Tugs are taking advantage of a high tide to try to dislodge the ship blocking a key shipping route.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56550350</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56550350</guid>
-            <pubDate>Sat, 27 Mar 2021 15:57:38 GMT</pubDate>
+            <title><![CDATA[Covid: 'Christmas Day' for families as Wales lifts travel ban]]></title>
+            <description><![CDATA[The 'stay local' rule has been scrapped, allowing unlimited travel within Wales from Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56542593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56542593</guid>
+            <pubDate>Sat, 27 Mar 2021 17:53:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Hughes: Parents of epileptic boy drop NICE high court challenge]]></title>
+            <description><![CDATA[The family of three-year-old Charlie Hughes had brought a judicial review against NICE guidance.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-56550061</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-56550061</guid>
+            <pubDate>Sat, 27 Mar 2021 17:44:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Myanmar: Dozens killed as army opens fire on protesters during 'deadliest day']]></title>
@@ -51,6 +58,13 @@
             <pubDate>Sat, 27 Mar 2021 17:12:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Suez Canal: Fresh effort to refloat wedged container ship]]></title>
+            <description><![CDATA[Tugs are taking advantage of a high tide to try to dislodge the ship blocking a key shipping route.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56550350</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56550350</guid>
+            <pubDate>Sat, 27 Mar 2021 15:57:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Violence at protest 'disgraceful', says PM]]></title>
             <description><![CDATA[Ten people are arrested after a third night of protests in Bristol in the past week.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-56548750</link>
@@ -58,25 +72,11 @@
             <pubDate>Sat, 27 Mar 2021 16:52:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: 'Christmas Day' for families as Wales lifts travel ban]]></title>
-            <description><![CDATA[The 'stay local' rule has been scrapped, allowing unlimited travel within Wales from Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56542593</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56542593</guid>
-            <pubDate>Sat, 27 Mar 2021 17:00:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Petition calls for prophet-row teacher to keep job]]></title>
             <description><![CDATA[The petition says the Batley Grammar School teacher "does not deserve such large repercussions".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-56548667</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-56548667</guid>
-            <pubDate>Sat, 27 Mar 2021 13:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everyone's Invited: Sex abuse claims 'not limited to private schools']]></title>
-            <description><![CDATA[The Met is investigating allegations of abuse published on the Everyone's Invited website.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56549070</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56549070</guid>
-            <pubDate>Sat, 27 Mar 2021 13:35:03 GMT</pubDate>
+            <pubDate>Sat, 27 Mar 2021 17:35:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Pub vaccine passports 'risk social division']]></title>
@@ -98,6 +98,27 @@
             <link>https://www.bbc.co.uk/news/science-environment-56547727</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56547727</guid>
             <pubDate>Sat, 27 Mar 2021 13:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man Utd women win in first match at Old Trafford]]></title>
+            <description><![CDATA[Teenager Lauren James scores as Manchester United beat West Ham in their first Women's Super League match at Old Trafford.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56465997</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56465997</guid>
+            <pubDate>Sat, 27 Mar 2021 15:46:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The visual effects challenge of Snyder’s Justice League]]></title>
+            <description><![CDATA[Two Weta Digital experts explain how they updated the characters' look.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56528052</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56528052</guid>
+            <pubDate>Sat, 27 Mar 2021 17:23:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pembrokeshire walrus seen 'basking in sun' in Tenby]]></title>
+            <description><![CDATA[From North Pole to Pembrokeshire, a walrus seems to be continuing his trip around the Welsh coast.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56550854</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56550854</guid>
+            <pubDate>Sat, 27 Mar 2021 17:42:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baby goat, emu and goose make friends on Wiltshire farm]]></title>
@@ -254,11 +275,11 @@
             <pubDate>Sat, 27 Mar 2021 16:53:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[James scores as Man Utd beat West Ham in historic Old Trafford WSL game]]></title>
-            <description><![CDATA[Teenager Lauren James scores as Manchester United beat West Ham in their first Women's Super League match at Old Trafford.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56465997</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56465997</guid>
-            <pubDate>Sat, 27 Mar 2021 15:46:37 GMT</pubDate>
+            <title><![CDATA[Arsenal sweep aside rivals Tottenham for fourth straight WSL win]]></title>
+            <description><![CDATA[Arsenal comfortably see off north London rivals Tottenham Hotspur to record a fourth successive Women's Super League win.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56465998</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56465998</guid>
+            <pubDate>Sat, 27 Mar 2021 17:35:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England fast bowler Archer to have hand surgery]]></title>
@@ -273,6 +294,13 @@
             <link>https://www.bbc.co.uk/sport/cycling/56550960</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/56550960</guid>
             <pubDate>Sat, 27 Mar 2021 16:45:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sat, 27 Mar 2021 17:44:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
@@ -293,7 +321,7 @@
             <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 29 million people receive at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Fri, 26 Mar 2021 17:00:52 GMT</pubDate>
+            <pubDate>Sat, 27 Mar 2021 17:50:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
@@ -413,13 +441,6 @@
             <link>https://www.bbc.co.uk/news/uk-56455030</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56455030</guid>
             <pubDate>Mon, 22 Mar 2021 00:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Fri, 26 Mar 2021 16:55:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Your tributes to those who have died]]></title>
