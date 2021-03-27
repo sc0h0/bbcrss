@@ -1,4 +1,4 @@
-1. [Over-70s could get booster Covid jab from September - vaccines minister](https://www.bbc.co.uk/news/uk-56544236) - Nadhim Zahawi said No 10 was hoping to have eight different Covid jabs available by the autumn.
+1. [Over-70s could get booster Covid jab from September - vaccines minister](https://www.bbc.co.uk/news/uk-56544236) - Nadhim Zahawi also said No 10 was hoping to have eight different Covid jabs available by the autumn.
 2. [Kill the Bill: Violent protest 'disgraceful', says prime minister](https://www.bbc.co.uk/news/uk-england-bristol-56548750) - Ten people were arrested after a third night of protests in Bristol in the last week.
 3. [Covid: 'Christmas Day' for families as Wales lifts travel ban](https://www.bbc.co.uk/news/uk-wales-56542593) - The 'stay local' rule has been scrapped, allowing unlimited travel within Wales from Saturday.
 4. [Covid: Over-70s September booster, and shops open until 10pm](https://www.bbc.co.uk/news/uk-56546413) - Five things you need to know about the coronavirus pandemic this Saturday morning.
