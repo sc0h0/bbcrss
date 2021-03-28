@@ -37,8 +37,8 @@
 37. [The vaccine misinformation battle raging in France](https://www.bbc.co.uk/news/blogs-trending-56526265) - Online conspiracy theories are exacerbating existing vaccine scepticism.
 38. [India win series despite Curran heroics in deciding ODI](https://www.bbc.co.uk/sport/cricket/56395245) - England are beaten in a thrilling one-day series decider against India, despite Sam Curran's heroic 95 not out.
 39. [Northern Ireland 1-2 USA: Christian Pulisic helps USA past Northern Ireland](https://www.bbc.co.uk/sport/football/56472967) - Northern Ireland's search for a first win during 90 minutes under Ian Baraclough stretches to 10 matches as the USA won a low-key friendly 2-1.
-40. [Watch: The Women's Football Show](https://www.bbc.co.uk/sport/av/football/41447917) - The latest highlights and talking points from the women's game.
-41. [Yates wins Volta a Catalunya as Ineos dominate](https://www.bbc.co.uk/sport/cycling/56556816) - Adam Yates wins the Volta a Catalunya ahead of Geraint Thomas in a race dominated by Ineos Grenadiers.
+40. [Yates wins Volta a Catalunya as Ineos dominate](https://www.bbc.co.uk/sport/cycling/56556816) - Adam Yates wins the Volta a Catalunya ahead of Geraint Thomas in a race dominated by Ineos Grenadiers.
+41. [Women's Super League highlights: Brighton 0-5 Everton](https://www.bbc.co.uk/sport/av/football/56557723) - Hayley Raso scores her first senior hat-trick as Everton thrash Brighton 5-0 in an impressive Women's Super League win.
 42. [Covid: What is the rule of six and what are the social distancing rules?](https://www.bbc.co.uk/news/uk-51506729) - Lockdown rules are being eased further in England and Wales so more people can meet up outside.
 43. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Wales and Scotland are easing restrictions on people meeting, and changes are due in England on Monday.
 44. [Covid passports: What are different countries planning?](https://www.bbc.co.uk/news/world-europe-56522408) - How advanced are some countries' plans for vaccine certificates and Covid passports?
