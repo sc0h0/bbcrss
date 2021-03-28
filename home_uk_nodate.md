@@ -1,9 +1,9 @@
-1. [Myanmar coup: US 'horrified' by deadliest day since military takeover](https://www.bbc.co.uk/news/world-asia-56547381) - International outrage grows over the deadliest day since last month's coup.
-2. [Covid: 'Don't squander gains,' says Prof Stephen Powis](https://www.bbc.co.uk/news/uk-56553128) - Although "enormous progress" has been made, people must remain cautious, warns Prof Stephen Powis.
+1. [Covid: 'Don't squander gains,' says Prof Stephen Powis](https://www.bbc.co.uk/news/uk-56553128) - Although "enormous progress" has been made, people must remain cautious, warns Prof Stephen Powis.
+2. [Myanmar coup: US 'horrified' by deadliest day since military takeover](https://www.bbc.co.uk/news/world-asia-56547381) - International outrage grows over the deadliest day since last month's coup.
 3. [Covid: Boris Johnson urged to share vaccines with poorer nations](https://www.bbc.co.uk/news/uk-56552966) - A group of charities is calling on Boris Johnson to begin donating vaccines through the Covax scheme.
 4. [Meet the Aussie skateboarding 4,000km](https://www.bbc.co.uk/news/world-australia-56438893) - Gordy says he is skating from Melbourne to Cairns but says he "didn't realise how big Australia was".
-5. [Covid: Plea not to 'squander' gains and poorer nations jabs appeal](https://www.bbc.co.uk/news/uk-56553095) - Five things you need to know about the coronavirus pandemic this Sunday morning.
-6. [Hunt for remand prisoner accidently released in London](https://www.bbc.co.uk/news/uk-england-london-56554492) - William Fernandez was being held on remand at HMP Wormwood Scrubs ahead of his trial.
+5. [Hunt for remand prisoner accidentally released in London](https://www.bbc.co.uk/news/uk-england-london-56554492) - William Fernandez was being held on remand at HMP Wormwood Scrubs ahead of his trial.
+6. [Covid: Plea not to 'squander' gains and poorer nations jabs appeal](https://www.bbc.co.uk/news/uk-56553095) - Five things you need to know about the coronavirus pandemic this Sunday morning.
 7. [Covid: Rapid home test kits to be available for workers](https://www.bbc.co.uk/news/uk-56551832) - Firms in England with more than 10 employees that are unable to provide on-site testing can apply.
 8. [Efforts renew to free ship stuck in Suez Canal](https://www.bbc.co.uk/news/world-middle-east-56547383) - Tugboats will renew attempts to dislodge the Ever Given from the canal on Sunday.
 9. [Green Homes Grant scheme to insulate houses axed](https://www.bbc.co.uk/news/science-environment-56552484) - Homeowners were invited to apply for grants to insulate houses but the scheme is being suddenly ended.
@@ -14,7 +14,7 @@
 14. [Project 17: The photograph that united a family](https://www.bbc.co.uk/news/world-africa-56541869) - A photograph of a "burner boy" working on a toxic dump in Ghana helped his family to find him.
 15. [Your pictures on the theme of 'sculpture'](https://www.bbc.co.uk/news/in-pictures-56538913) - A selection of striking images from our readers on this week's theme.
 16. [How the 'world's worst sniffer dog' is helping the NHS](https://www.bbc.co.uk/news/uk-england-london-56375874) - Dexter used to work as a sniffer dog for the Met but he was "too sociable" for the job.
-17. [Keeping Parliament clean in a pandemic](https://www.bbc.co.uk/news/uk-politics-56541374) - The team keeping the Palace of Westminster spick and span describes a year like no other.
+17. [Keeping Parliament clean in a pandemic](https://www.bbc.co.uk/news/uk-politics-56541374) - The team making sure the Palace of Westminster is spick and span describes a year like no other.
 18. [The women of Egypt's Arab Spring](https://www.bbc.co.uk/news/stories-56195248) - Ten years ago, Egyptians took to the streets calling for the overthrow of President Hosni Mubarak
 19. [Jedward shave off their famous quiffs for cancer charity](https://www.bbc.co.uk/news/world-europe-56552055) - The Irish twins removed each other's quiffs live on TV in memory of their late mother.
 20. [The visual effects challenge of Snyder’s Justice League](https://www.bbc.co.uk/news/technology-56528052) - Two Weta Digital experts explain how they updated the characters' look.
