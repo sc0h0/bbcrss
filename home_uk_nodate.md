@@ -1,6 +1,6 @@
 1. [Covid-19: UK 'confident' of second vaccine doses within 12 weeks](https://www.bbc.co.uk/news/uk-56554905) - Asked about concerns over vaccine supply, the culture secretary says the timetable is on track.
 2. [Covid: 'Don't squander gains,' says Prof Stephen Powis](https://www.bbc.co.uk/news/uk-56553128) - Although "enormous progress" has been made, people must remain cautious, warns Prof Stephen Powis.
-3. [Myanmar coup: US 'horrified' by deadliest day since military takeover](https://www.bbc.co.uk/news/world-asia-56547381) - International outrage grows over the deadliest day since last month's coup.
+3. [Myanmar coup: Generals celebrated amid global fury over massacre](https://www.bbc.co.uk/news/world-asia-56547381) - As the US condemned their "reign of terror", the coup leaders held an Armed Forces Day celebration.
 4. [Covid: Boris Johnson urged to share vaccines with poorer nations](https://www.bbc.co.uk/news/uk-56552966) - A group of charities is calling on Boris Johnson to begin donating vaccines through the Covax scheme.
 5. [Neale Hanvey defects from SNP to new Alba Party](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56555096) - Neale Hanvey, MP for Kirkcaldy and Cowdenbeath, follows Kenny MacAskill in joining Alex Salmond's new party.
 6. [Meet the Aussie skateboarding 4,000km](https://www.bbc.co.uk/news/world-australia-56438893) - Gordy says he is skating from Melbourne to Cairns but says he "didn't realise how big Australia was".
