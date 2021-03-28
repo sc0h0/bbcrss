@@ -1,10 +1,10 @@
 1. [Myanmar coup: US 'horrified' by deadliest day since military takeover](https://www.bbc.co.uk/news/world-asia-56547381) - International leaders condemn the military after Saturday's violence - the deadliest since the coup.
-2. [Covid: Boris Johnson urged to share vaccines with poorer nations](https://www.bbc.co.uk/news/uk-56552966) - A group of charities is calling on Boris Johnson to begin donating vaccines through Covax.
+2. [Covid: Boris Johnson urged to share vaccines with poorer nations](https://www.bbc.co.uk/news/uk-56552966) - A group of charities is calling on Boris Johnson to begin donating vaccines through the Covax scheme.
 3. [Covid: 'Don't squander gains,' says Prof Stephen Powis](https://www.bbc.co.uk/news/uk-56553128) - Although "enormous progress" has been made, people must remain cautious, warns Prof Stephen Powis.
 4. [Covid: Rapid home test kits to be available for workers](https://www.bbc.co.uk/news/uk-56551832) - Firms in England with more than 10 employees that are unable to provide on-site testing can apply.
 5. [Meet the Aussie skateboarding 4,000km](https://www.bbc.co.uk/news/world-australia-56438893) - Gordy says he is skating from Melbourne to Cairns but says he "didn't realise how big Australia was".
-6. [Green Homes Grant scheme to insulate houses axed](https://www.bbc.co.uk/news/science-environment-56552484) - Homeowners were invited to apply for grants to insulate houses but the scheme is being suddenly ended.
-7. [Suez Canal: Effort to refloat wedged container ship continues](https://www.bbc.co.uk/news/world-middle-east-56547383) - Tugboats will renew attempts to dislodge the Ever Given from the canal on Sunday.
+6. [Efforts renew to free ship stuck in Suez Canal](https://www.bbc.co.uk/news/world-middle-east-56547383) - Tugboats will renew attempts to dislodge the Ever Given from the canal on Sunday.
+7. [Green Homes Grant scheme to insulate houses axed](https://www.bbc.co.uk/news/science-environment-56552484) - Homeowners were invited to apply for grants to insulate houses but the scheme is being suddenly ended.
 8. [Kill the Bill Manchester protest: 18 arrested after protesters block tram lines](https://www.bbc.co.uk/news/uk-56552440) - But the Kill the Bill protest in Manchester is described as "largely peaceful" by police.
 9. [Covid: 'Heart-breaking' wait for Rhondda couple to travel for IVF](https://www.bbc.co.uk/news/uk-wales-56509669) - Kevin and Nicci Button from Rhondda Cynon Taf have been trying for a child for more than four years.
 10. [Earth Hour: Cities around the world turn lights off](https://www.bbc.co.uk/news/world-56553545) - Famous landmarks around the world have been switching off their lights to raise awareness of environmental issues.
