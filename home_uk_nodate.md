@@ -1,15 +1,15 @@
 1. [Myanmar coup: US 'horrified' by deadliest day since military takeover](https://www.bbc.co.uk/news/world-asia-56547381) - International leaders condemn the military after Saturday's violence - the deadliest since the coup.
-2. [Covid: Rapid home test kits to be available for workers](https://www.bbc.co.uk/news/uk-56551832) - Firms in England with more than 10 employees that are unable to provide on-site testing can apply.
-3. [Green Homes Grant scheme to insulate houses axed](https://www.bbc.co.uk/news/science-environment-56552484) - Homeowners were invited to apply for grants to insulate houses but the scheme is being suddenly ended.
-4. [Meet the Aussie skateboarding 4,000km](https://www.bbc.co.uk/news/world-australia-56438893) - Gordy says he is skating from Melbourne to Cairns but says he "didn't realise how big Australia was".
-5. [Kill the Bill Manchester protest: 18 arrested after protesters block tram lines](https://www.bbc.co.uk/news/uk-56552440) - But the Kill the Bill protest in Manchester is described as "largely peaceful" by police.
+2. [Covid: Boris Johnson urged to share vaccines with poorer nations](https://www.bbc.co.uk/news/uk-56552966) - A group of charities is calling on Boris Johnson to begin donating vaccines through Covax.
+3. [Covid: Rapid home test kits to be available for workers](https://www.bbc.co.uk/news/uk-56551832) - Firms in England with more than 10 employees that are unable to provide on-site testing can apply.
+4. [Green Homes Grant scheme to insulate houses axed](https://www.bbc.co.uk/news/science-environment-56552484) - Homeowners were invited to apply for grants to insulate houses but the scheme is being suddenly ended.
+5. [Meet the Aussie skateboarding 4,000km](https://www.bbc.co.uk/news/world-australia-56438893) - Gordy says he is skating from Melbourne to Cairns but says he "didn't realise how big Australia was".
 6. [Charlie Hughes: Parents of boy with epilepsy drop NICE high court challenge](https://www.bbc.co.uk/news/uk-england-norfolk-56550061) - The family of three-year-old Charlie Hughes had brought a judicial review against NICE guidance.
 7. [Suez Canal: Fresh effort to refloat wedged container ship](https://www.bbc.co.uk/news/world-middle-east-56550350) - Tugs are taking advantage of a high tide to try to dislodge the ship blocking a key shipping route.
 8. [Mozambique insurgency: Islamist militants 'ambush workers fleeing hotel'](https://www.bbc.co.uk/news/world-africa-56550359) - Workers were trapped in a hotel when Islamist militants stormed the town of Palma, reports say.
-9. [Covid: 'Heart-breaking' wait for Rhondda couple to travel for IVF](https://www.bbc.co.uk/news/uk-wales-56509669) - Kevin and Nicci Button from Rhondda Cynon Taf have been trying for a child for more than four years.
-10. [Senedd 2021: Wales' first minister criticised over English-only leaflet](https://www.bbc.co.uk/news/uk-wales-56551696) - Labour say the Senedd election leaflets backing Mark Drakeford were sent by the local party group.
-11. [Union creates hotline for disgruntled Amazon staff](https://www.bbc.co.uk/news/uk-politics-56541213) - Unite urges workers to come forward to voice their complaints about hours, pay, targets and breaks.
-12. [Man Utd women win in first match at Old Trafford](https://www.bbc.co.uk/sport/football/56465997) - Teenager Lauren James scores as Manchester United beat West Ham in their first Women's Super League match at Old Trafford.
+9. [Kill the Bill Manchester protest: 18 arrested after protesters block tram lines](https://www.bbc.co.uk/news/uk-56552440) - But the Kill the Bill protest in Manchester is described as "largely peaceful" by police.
+10. [Covid: 'Heart-breaking' wait for Rhondda couple to travel for IVF](https://www.bbc.co.uk/news/uk-wales-56509669) - Kevin and Nicci Button from Rhondda Cynon Taf have been trying for a child for more than four years.
+11. [Senedd 2021: Wales' first minister criticised over English-only leaflet](https://www.bbc.co.uk/news/uk-wales-56551696) - Labour say the Senedd election leaflets backing Mark Drakeford were sent by the local party group.
+12. [Union creates hotline for disgruntled Amazon staff](https://www.bbc.co.uk/news/uk-politics-56541213) - Unite urges workers to come forward to voice their complaints about hours, pay, targets and breaks.
 13. [Dillian Whyte knocks out Alexander Povetkin in Gibraltar rematch](https://www.bbc.co.uk/sport/boxing/56552671) - Dillian Whyte produces a fine display to stop Alexander Povetkin in their rematch in Gibraltar.
 14. [The Papers: 'Moderna jabs in 3 weeks' and school abuse inquiry](https://www.bbc.co.uk/news/blogs-the-papers-56553014) - Sunday's papers carry reports that a third Covid vaccine will be rolled out in the next three weeks.
 15. [Project 17: The photograph that united a family](https://www.bbc.co.uk/news/world-africa-56541869) - A photograph of a "burner boy" working on a toxic dump in Ghana helped his family to find him.
@@ -41,8 +41,8 @@
 41. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Wales and Scotland are easing restrictions on people meeting, and changes are due in England on Monday.
 42. [Covid passports: What are different countries planning?](https://www.bbc.co.uk/news/world-europe-56522408) - How advanced are some countries' plans for vaccine certificates and Covid passports?
 43. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-44. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are urged to book their Covid vaccine in the next few days.
-45. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 29 million people receive at least one dose.
+44. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 29 million people receive at least one dose.
+45. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are urged to book their Covid vaccine in the next few days.
 46. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - Anyone in England who travels abroad without good reason will soon face a £5000 fine.
 47. [Which countries are on the red list and what are the quarantine rules?](https://www.bbc.co.uk/news/explainers-52544307) - Many travellers are no longer allowed to enter the UK from countries on the "red list".
 48. [Where is the Oxford-AstraZeneca vaccine made?](https://www.bbc.co.uk/news/56483766) - The EU has called on AstraZeneca to "catch up" on its deliveries to the EU.
@@ -64,8 +64,8 @@
 64. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
 65. [Covid: More walking and family chats post-lockdown - poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
 66. [Covid-19: Have a million people left the UK?](https://www.bbc.co.uk/news/uk-56435100) - How far has the UK's foreign-born population fallen during the coronavirus pandemic?
-67. [The 17-year-old blacksmith going viral online](https://www.bbc.co.uk/news/uk-56503921) - Ben Perkins tells BBC News how he became an online sensation.
-68. [Covid loneliness: 'I craved human touch after months of no hugs'](https://www.bbc.co.uk/news/uk-wales-56499588) - Alice Gray was loving life as a single woman in her 20s - then the pandemic hit.
-69. [British artist's giant painting raises £45m for children's charities](https://www.bbc.co.uk/news/entertainment-arts-56495039) - British artist Sacha Jafri spent eight months creating the work in isolation in a hotel ballroom.
-70. [Lockdown hair given to South Shields Covid-19 archive](https://www.bbc.co.uk/news/uk-england-tyne-56500346) - Four people donated the hair they grew through lockdowns to a museum's collection.
-71. [Oasis contract requesting 'sober-speaking' helpers fetches £4,000](https://www.bbc.co.uk/news/uk-england-derbyshire-56496803) - The contract was sold by a woman who worked in the music industry, ahead of her retirement.
+67. [Simon McCoy to leave BBC News after 17 years](https://www.bbc.co.uk/news/entertainment-arts-56520791) - The TV news presenter, known for his funny asides, is to join Andrew Neil's new GB News operation.
+68. [The Dig: Lego version of Sutton Hoo treasure 'amazing'](https://www.bbc.co.uk/news/uk-england-suffolk-56523779) - A father and daughter are told their Lego tribute is good enough to be put on display.
+69. [Bionic lamb walks again thanks to new wheels](https://www.bbc.co.uk/news/uk-england-leeds-56513916) - Steven lost the use of his legs shortly after his birth. Until his owner modified a dog wheelchair.
+70. [Newcastle Racecourse sees more drones used by punters](https://www.bbc.co.uk/news/uk-england-tyne-56502915) - Locals complain Covid travel rules are being broken, but flying drones is not illegal, police say.
+71. [Penzance couple still dancing and playing through pandemic](https://www.bbc.co.uk/news/uk-england-cornwall-56487152) - Sally and Ken Gilmour recently celebrated their 60th wedding anniversary.
