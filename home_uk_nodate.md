@@ -8,8 +8,8 @@
 8. [Covid: Rapid home test kits to be available for workers](https://www.bbc.co.uk/news/uk-56551832) - Firms in England with more than 10 employees that are unable to provide on-site testing can apply.
 9. [Efforts renew to free ship stuck in Suez Canal](https://www.bbc.co.uk/news/world-middle-east-56547383) - Tugboats will renew attempts to dislodge the Ever Given from the canal on Sunday.
 10. [Green Homes Grant scheme to insulate houses axed](https://www.bbc.co.uk/news/science-environment-56552484) - Homeowners were invited to apply for grants to insulate houses but the scheme is being suddenly ended.
-11. [Covid: 'Heart-breaking' wait for Rhondda couple to travel for IVF](https://www.bbc.co.uk/news/uk-wales-56509669) - Kevin and Nicci Button from Rhondda Cynon Taf have been trying for a child for more than four years.
-12. [Earth Hour: Cities around the world turn lights off](https://www.bbc.co.uk/news/world-56553545) - Famous landmarks around the world have been switching off their lights to raise awareness of environmental issues.
+11. [Covid: 'Heart-breaking' wait for Rhondda couple to travel for IVF](https://www.bbc.co.uk/news/uk-wales-56509669) - Kevin and Nicci Button have been trying for a child for more than four years.
+12. [Walsall boy, 6, finds prehistoric fossil in garden](https://www.bbc.co.uk/news/uk-england-birmingham-56554925) - The schoolboy was "digging for worms" when he came across the fossil, which dates back millions of years.
 13. [The Papers: 'Moderna jabs in 3 weeks' and school abuse inquiry](https://www.bbc.co.uk/news/blogs-the-papers-56553014) - Sunday's papers carry reports that a third Covid vaccine will be rolled out in the next three weeks.
 14. [Project 17: The photograph that united a family](https://www.bbc.co.uk/news/world-africa-56541869) - A photograph of a "burner boy" working on a toxic dump in Ghana helped his family to find him.
 15. [Your pictures on the theme of 'sculpture'](https://www.bbc.co.uk/news/in-pictures-56538913) - A selection of striking images from our readers on this week's theme.
