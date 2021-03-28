@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Mar 2021 11:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 11:56:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,18 @@
             <pubDate>Sun, 28 Mar 2021 11:15:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ben Cabango and Rabbi Matondo racially abused on social media after Wales win]]></title>
-            <description><![CDATA[Wales internationals Ben Cabango and Rabbi Matondo are racially abused on social media following Saturday's win over Mexico.]]></description>
+            <title><![CDATA[Ben Cabango and Rabbi Matondo: Police investigate racist abuse on social media]]></title>
+            <description><![CDATA[Police are investigating after Wales players Ben Cabango and Rabbi Matondo are racially abused on social media.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56555396</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56555396</guid>
-            <pubDate>Sun, 28 Mar 2021 10:00:16 GMT</pubDate>
+            <pubDate>Sun, 28 Mar 2021 11:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Lorry drivers arriving in England to be tested]]></title>
+            <description><![CDATA[Hauliers travelling from outside the UK will need to take a Covid test from 6 April.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56555775</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56555775</guid>
+            <pubDate>Sun, 28 Mar 2021 11:44:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hunt for remand prisoner mistakenly released in London]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-56552966</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56552966</guid>
             <pubDate>Sun, 28 Mar 2021 08:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Rapid home test kits to be available for workers]]></title>
-            <description><![CDATA[Firms in England with more than 10 employees that are unable to provide on-site testing can apply.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56551832</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56551832</guid>
-            <pubDate>Sun, 28 Mar 2021 00:02:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Efforts renew to free ship stuck in Suez Canal]]></title>
