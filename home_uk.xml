@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Mar 2021 19:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 19:47:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,11 @@
             <pubDate>Sun, 28 Mar 2021 15:34:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Max Woosey tent camp-out sees 1,000 children take part]]></title>
-            <description><![CDATA[Max Woosey has raised more than £500,000 for charity by sleeping in a tent for a whole year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-56548931</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56548931</guid>
-            <pubDate>Sun, 28 Mar 2021 12:26:05 GMT</pubDate>
+            <title><![CDATA[Mozambique: Dozens dead after militant assault on Palma]]></title>
+            <description><![CDATA[Witnesses say civilians with boats are evacuating survivors of a violent raid on the town of Palma.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56557623</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56557623</guid>
+            <pubDate>Sun, 28 Mar 2021 19:15:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Minister defends David Cameron as 'a man of integrity']]></title>
@@ -114,6 +114,13 @@
             <pubDate>Sun, 28 Mar 2021 10:16:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Max Woosey tent camp-out sees 1,000 children take part]]></title>
+            <description><![CDATA[Max Woosey has raised more than £500,000 for charity by sleeping in a tent for a whole year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-56548931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56548931</guid>
+            <pubDate>Sun, 28 Mar 2021 12:26:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Congolese special effects artist behind Avengers: Endgame and Guardians of the Galaxy]]></title>
             <description><![CDATA[Sidney Kombi Kitombo is an award-winning Congolese special effects artist behind Avengers: Endgame.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-56545250</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-56438893</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56438893</guid>
             <pubDate>Sun, 28 Mar 2021 00:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Max Woosey tent camp-out sees 1,000 children take part]]></title>
-            <description><![CDATA[Max Woosey has raised more than £500,000 for charity by sleeping in a tent for a whole year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-56548931</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56548931</guid>
-            <pubDate>Sun, 28 Mar 2021 12:26:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Project 17: The photograph that united a family]]></title>
@@ -289,11 +289,18 @@
             <pubDate>Sun, 28 Mar 2021 17:59:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Watch: The Women's Football Show]]></title>
+            <description><![CDATA[The latest highlights and talking points from the women's game.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/41447917</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/41447917</guid>
+            <pubDate>Sun, 06 Dec 2020 20:20:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yates wins Volta a Catalunya as Ineos dominate]]></title>
             <description><![CDATA[Adam Yates wins the Volta a Catalunya ahead of Geraint Thomas in a race dominated by Ineos Grenadiers.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/56556816</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/56556816</guid>
-            <pubDate>Sun, 28 Mar 2021 17:21:49 GMT</pubDate>
+            <pubDate>Sun, 28 Mar 2021 19:32:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the rule of six and what are the social distancing rules?]]></title>
@@ -391,7 +398,7 @@
             <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
-            <pubDate>Fri, 26 Mar 2021 12:26:47 GMT</pubDate>
+            <pubDate>Sun, 28 Mar 2021 19:35:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What’s the problem with the EU vaccine rollout?]]></title>
