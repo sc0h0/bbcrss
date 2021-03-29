@@ -2,12 +2,12 @@
 2. [Covid: Outdoor meet-ups and sports resume in England](https://www.bbc.co.uk/news/uk-56559173) - The stay-at-home order has ended, but people are urged to turn down hugs - even if it is "awkward".
 3. [Biden administration threatens tariffs on UK goods in 'tech tax' row](https://www.bbc.co.uk/news/business-56565636) - Ceramics, make-up and furniture could be hit amid a row over a new UK tax on tech firms.
 4. [Covid-19: 'Wedding guest list cut from 180 to 6 - but we're getting married'](https://www.bbc.co.uk/news/uk-56563289) - With weddings back on in England, couples prepare to celebrate with their closest loved ones.
-5. [School abuse: 'Rape culture' warning as 8,000 report incidents](https://www.bbc.co.uk/news/uk-56558487) - Police pledge to investigate the allegations - and blame pornography.
-6. [Galápagos tortoises: 185 babies seized from smugglers](https://www.bbc.co.uk/news/world-latin-america-56564326) - Officials found 185 baby Galápagos tortoises wrapped in plastic and packed into a suitcase.
-7. [Emma-Jayne Magson jailed again after murdering boyfriend in row](https://www.bbc.co.uk/news/uk-england-leicestershire-56564608) - Emma-Jayne Magson alleged she stabbed James Knight while he was strangling her, a court hears.
-8. [Households of adults with weak immune systems to be vaccinated](https://www.bbc.co.uk/news/health-56566892) - The aim is to reduce the risk of infection to those who may not respond well to a vaccine.
-9. [Alabama Shakes drummer Steven Johnson arrested on child abuse charges](https://www.bbc.co.uk/news/entertainment-arts-56563079) - Steven Johnson was arrested in Alabama last Wednesday and indicted on multiple charges.
-10. [Rainsbrook: Government urged to take over private youth jail](https://www.bbc.co.uk/news/uk-england-northamptonshire-56562475) - One MP says promises made by the private jail are "worth less than the paper they are written on".
+5. [Grenfell tenants 'bullied' by council before fire](https://www.bbc.co.uk/news/uk-56566439) - Lawyers for victims of the fire accuse the council of "neglect, indifference and discrimination".
+6. [School abuse: 'Rape culture' warning as 8,000 report incidents](https://www.bbc.co.uk/news/uk-56558487) - Police pledge to investigate the allegations - and blame pornography.
+7. [Galápagos tortoises: 185 babies seized from smugglers](https://www.bbc.co.uk/news/world-latin-america-56564326) - Officials found 185 baby Galápagos tortoises wrapped in plastic and packed into a suitcase.
+8. [Councillor sentenced over TK Maxx upskirt shots](https://www.bbc.co.uk/news/uk-england-gloucestershire-56562211) - His victim says she does not want to go out alone anymore and she hates how it has made her feel.
+9. [Emma-Jayne Magson jailed again after murdering boyfriend in row](https://www.bbc.co.uk/news/uk-england-leicestershire-56564608) - Emma-Jayne Magson alleged she stabbed James Knight while he was strangling her, a court hears.
+10. [Households of adults with weak immune systems to be vaccinated](https://www.bbc.co.uk/news/health-56566892) - The aim is to reduce the risk of infection to those who may not respond well to a vaccine.
 11. [Barack Obama's Kenyan grandmother dies, aged 99](https://www.bbc.co.uk/news/world-africa-56563179) - Affectionately known as Granny Sarah by the former president, she defended him during his election campaign.
 12. [Covid: Beccles Lido reopening is 'such a treat'](https://www.bbc.co.uk/news/uk-england-suffolk-56562788) - Lockdown easing means open air pools can reopen as the stay-at-home order ends.
 13. [Covid: Stay-at-home restrictions end in England](https://www.bbc.co.uk/news/in-pictures-56563119) - People in England enjoy fresh air as outdoor sport facilities reopen in lockdown easing.
@@ -27,7 +27,7 @@
 27. [George Floyd: When does Derek Chauvin's trial start?](https://www.bbc.co.uk/news/world-us-canada-56270334) - A US police officer is accused of killing a black man last year. Here's why the world is watching.
 28. [Shoppers rush to buy Easter trees as lockdown rules ease](https://www.bbc.co.uk/news/business-56541002) - Easter trees and garden furniture are being sought out by shoppers keen to make the most of lockdown easing.
 29. [The Netflix show putting the spotlight on menopause](https://www.bbc.co.uk/news/world-asia-india-56523148) - The new Netflix show Bombay Begums puts the spotlight on menopause, but why aren't we talking about it?
-30. [The cost of the Suez Canal blockage](https://www.bbc.co.uk/news/business-56559073) - The blocking of the canal by the Ever Given has caused much disruption for the global shipping industry.
+30. [The cost of the Suez Canal blockage](https://www.bbc.co.uk/news/business-56559073) - The blocking of the canal by the Ever Given led to major disruption for the global shipping industry.
 31. [Not just the Proms: An unexpected history of the Royal Albert Hall](https://www.bbc.co.uk/news/uk-england-london-56428543) - Rule Britannia has had its place - but so have Bovril, balls, Blackshirts and a bombastic celebration of the Bard.
 32. [Boat Race 2021: Famous duel returns to quiet backwater](https://www.bbc.co.uk/news/uk-england-cambridgeshire-56338056) - The famous duel will take place on the Great Ouse in Cambridgeshire for the first time since 1944.
 33. [Covid: What's happened to crime during the pandemic?](https://www.bbc.co.uk/news/56463680) - From dog theft to drug crime, lockdown has led to some big changes in policing.
