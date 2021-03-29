@@ -1,5 +1,5 @@
 1. [Covid: Outdoor meetings and sports to resume in England](https://www.bbc.co.uk/news/uk-56559173) - People are still being advised to minimise their journeys amid the latest easing of lockdown rules.
-2. [Ever Given: Stranded Suez container ship freed from shoreline](https://www.bbc.co.uk/news/world-middle-east-56559904) - The Ever Given has been blocking one of the world's busiest trade routes for almost a week.
+2. [Suez canal: Ever Given container ship freed from shoreline](https://www.bbc.co.uk/news/world-middle-east-56559904) - The Ever Given has been blocking one of the world's busiest trade routes for almost a week.
 3. [Covid jab: One dose in care homes gives 'substantial' protection](https://www.bbc.co.uk/news/health-56540729) - A study suggests 62% of residents are protected by a single dose of the vaccines used in the UK.
 4. [Coronavirus: England stay-at-home order ends, and retailers see Easter boom](https://www.bbc.co.uk/news/uk-56561010) - Five things you need to know about the coronavirus outbreak this Monday morning.
 5. [Everyone's Invited: School abuse claims could be the 'next national scandal'](https://www.bbc.co.uk/news/uk-56558487) - A police helpline is to be set up for pupils to report complaints, following claims posted on a website.
@@ -65,5 +65,4 @@
 65. [Coronavirus: Where does the government borrow billions from?](https://www.bbc.co.uk/news/business-50504151) - How does it work when a government wants to borrow money, and when does it have to pay it back?
 66. [Covid: More walking and family chats post-lockdown - poll suggests](https://www.bbc.co.uk/news/uk-56490823) - We've done more walking and worked more from home this year, according to a BBC-commissioned poll.
 67. [Covid-19: Have a million people left the UK?](https://www.bbc.co.uk/news/uk-56435100) - How far has the UK's foreign-born population fallen during the coronavirus pandemic?
-68. [Bangladesh at 50: Why climate change could destroy my ancestral home](https://www.bbc.co.uk/news/world-asia-56485667) - As Bangladesh turns 50, a UK-Bangladeshi reflects on how climate change affects his parent's country.
-69. ['My father, the killer'](https://www.bbc.co.uk/news/stories-51379981) - Some of the children of men who helped to "disappear" thousands of Argentines in the 1970s and 80s are now speaking out - against their fathers.
+68. [The vaccine misinformation battle raging in France](https://www.bbc.co.uk/news/blogs-trending-56526265) - Online conspiracy theories are exacerbating existing vaccine scepticism.
