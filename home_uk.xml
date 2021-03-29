@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Mar 2021 08:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 09:10:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -163,6 +163,13 @@
             <pubDate>Sun, 28 Mar 2021 23:33:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The cost of the Suez Canal blockage]]></title>
+            <description><![CDATA[The blocking of the canal by the Ever Given has caused much disruption for the global shipping industry.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56559073</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56559073</guid>
+            <pubDate>Mon, 29 Mar 2021 08:29:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Josh O'Connor: Romeo role 'greatest experience of my career']]></title>
             <description><![CDATA[The Crown star's stage role in Romeo and Juliet fizzled out - but was reborn by making a TV film.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56487343</link>
@@ -198,13 +205,6 @@
             <pubDate>Mon, 29 Mar 2021 03:32:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The cost of the Suez Canal blockage]]></title>
-            <description><![CDATA[The blocking of the canal by the Ever Given has caused much disruption for the global shipping industry.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56559073</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56559073</guid>
-            <pubDate>Mon, 29 Mar 2021 08:29:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Boat Race 2021: Famous duel returns to quiet backwater]]></title>
             <description><![CDATA[The famous duel will take place on the Great Ouse in Cambridgeshire for the first time since 1944.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-56338056</link>
@@ -219,11 +219,11 @@
             <pubDate>Sun, 28 Mar 2021 00:47:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Suez Canal: How are they trying to free the Ever Given?]]></title>
-            <description><![CDATA[Operations are continuing to move a giant container vessel stuck in the Suez Canal since Tuesday.]]></description>
+            <title><![CDATA[Suez Canal: How are they trying to move the Ever Given?]]></title>
+            <description><![CDATA[Significant progress has been made in efforts to free the giant cargo ship stuck in the Suez Canal since last week.]]></description>
             <link>https://www.bbc.co.uk/news/56523659</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56523659</guid>
-            <pubDate>Sun, 28 Mar 2021 15:45:31 GMT</pubDate>
+            <pubDate>Mon, 29 Mar 2021 09:03:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Black Power: A British story of resistance told through music]]></title>
@@ -419,7 +419,7 @@
             <description><![CDATA[Key maps and charts explaining how the virus has spread around the world.]]></description>
             <link>https://www.bbc.co.uk/news/world-51235105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
-            <pubDate>Fri, 26 Mar 2021 12:52:48 GMT</pubDate>
+            <pubDate>Mon, 29 Mar 2021 09:00:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
