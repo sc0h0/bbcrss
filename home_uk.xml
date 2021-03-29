@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Mar 2021 19:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 20:14:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Covid: Strength of defence against new wave unclear, says PM]]></title>
-            <description><![CDATA[Boris Johnson urges people to "proceed with caution" despite the vaccine rollout and easing of rules.]]></description>
+            <description><![CDATA[Boris Johnson urges "caution" despite the Covid vaccine rollout and easing of rules in England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56569838</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56569838</guid>
             <pubDate>Mon, 29 Mar 2021 18:16:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Novavax: Deal agreed to manufacture 60m doses in UK]]></title>
-            <description><![CDATA[A deal is agreed to support the manufacturing of the vaccine in the north-east of England.]]></description>
+            <title><![CDATA[Novavax: Deal agreed to 'fill and finish' 60 million doses in UK]]></title>
+            <description><![CDATA[A deal is agreed to support the manufacturing of 60 million vaccine doses in North-East England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tees-56570168</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-56570168</guid>
-            <pubDate>Mon, 29 Mar 2021 18:01:32 GMT</pubDate>
+            <pubDate>Mon, 29 Mar 2021 20:06:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suez Canal reopens after giant stranded ship is freed]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-56556806</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56556806</guid>
             <pubDate>Mon, 29 Mar 2021 16:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[McCartney's missing holiday blanket 'debt' repaid]]></title>
+            <description><![CDATA[Letter reminding the Beatles star he "owed debt" for missing holiday blanket goes up for sale.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56561667</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56561667</guid>
+            <pubDate>Mon, 29 Mar 2021 15:08:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: PM's warning as England lockdown eases and 180 wedding guests cut to six]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-56559494</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56559494</guid>
             <pubDate>Mon, 29 Mar 2021 17:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Councillor sentenced over TK Maxx upskirt shots]]></title>
-            <description><![CDATA[His victim says she does not want to go out alone any more and she hates how it has made her feel.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-56562211</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-56562211</guid>
-            <pubDate>Mon, 29 Mar 2021 14:01:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Legal challenge over the government using Whatsapp]]></title>
@@ -293,7 +293,7 @@
             <description><![CDATA[Argentine striker Sergio Aguero will leave Manchester City when his contract runs out at the end of the season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56571396</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56571396</guid>
-            <pubDate>Mon, 29 Mar 2021 19:43:38 GMT</pubDate>
+            <pubDate>Mon, 29 Mar 2021 20:14:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One of FA Cup semi-finals to have spectators]]></title>
@@ -301,6 +301,20 @@
             <link>https://www.bbc.co.uk/sport/56566256</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/56566256</guid>
             <pubDate>Mon, 29 Mar 2021 15:42:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time to make a stand against social media racism - Henry]]></title>
+            <description><![CDATA[Former Arsenal and France striker Thierry Henry says that "enough was enough" and he had to make a stand against racism on social media.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56571395</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56571395</guid>
+            <pubDate>Mon, 29 Mar 2021 19:56:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Archive: Sergio Aguero's iconic title-winning goal for Manchester City in 2012]]></title>
+            <description><![CDATA[Sergio Aguero's iconic title-winning goal for Man City in 2012 when he scored in injury time against Queens Park Rangers.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56572102</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56572102</guid>
+            <pubDate>Mon, 29 Mar 2021 19:34:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hal Robson-Kanu, Rabbi Matondo & Tyler Roberts: Wales send trio home for protocol breach]]></title>
@@ -315,20 +329,6 @@
             <link>https://www.bbc.co.uk/sport/football/56561851</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56561851</guid>
             <pubDate>Mon, 29 Mar 2021 10:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England's Itoje backs 'phenomenal' captain Farrell]]></title>
-            <description><![CDATA[Maro Itoje says that England and Saracens team-mate Owen Farrell is a "phenomenal" captain who brings out the best in those around him.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56545040</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56545040</guid>
-            <pubDate>Mon, 29 Mar 2021 05:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Something needs to happen' - Bale would join social media boycott]]></title>
-            <description><![CDATA[Gareth Bale says he would join a boycott of social media if more is not done to combat "toxic" abuse across platforms.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56566811</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56566811</guid>
-            <pubDate>Mon, 29 Mar 2021 12:54:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can I have a day out at the beach? And other questions]]></title>
