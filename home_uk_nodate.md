@@ -5,10 +5,10 @@
 5. [McCartney's missing holiday blanket 'debt' repaid](https://www.bbc.co.uk/news/uk-wales-56561667) - Letter reminding the Beatles star he "owed debt" for missing holiday blanket goes up for sale.
 6. [Coronavirus: PM's warning as England lockdown eases and 180 wedding guests cut to six](https://www.bbc.co.uk/news/uk-56569153) - Five things you need to know about the coronavirus outbreak this Monday evening.
 7. [School abuse: 'Rape culture' allegations are 'shocking', says Williamson](https://www.bbc.co.uk/news/uk-56566442) - The education secretary says he will take 'appropriate action' and urges victims to report abuse.
-8. [Biden administration threatens tariffs on UK goods in 'tech tax' row](https://www.bbc.co.uk/news/business-56565636) - Ceramics, make-up and furniture could be hit amid a row over a new UK tax on tech firms.
-9. [Grenfell residents 'bullied' for raising safety fears before fire](https://www.bbc.co.uk/news/uk-56566439) - Lawyers for fire victims accuse the council and TMO of "neglect, indifference and discrimination".
-10. [Long spaceflights and endurance swimming can 'shrink the heart'](https://www.bbc.co.uk/news/science-environment-56559494) - Spaceflight and endurance swimming can both cause the heart to lose mass, say researchers.
-11. [Legal challenge over the government using Whatsapp](https://www.bbc.co.uk/news/technology-56570650) - The campaigners behind the challenge say deleted messages pose a risk to transparency.
+8. [Grenfell residents 'bullied' for raising safety fears before fire](https://www.bbc.co.uk/news/uk-56566439) - Lawyers for fire victims accuse the council and TMO of "neglect, indifference and discrimination".
+9. [Long spaceflights and endurance swimming can 'shrink the heart'](https://www.bbc.co.uk/news/science-environment-56559494) - Spaceflight and endurance swimming can both cause the heart to lose mass, say researchers.
+10. [Legal challenge over the government using Whatsapp](https://www.bbc.co.uk/news/technology-56570650) - The campaigners behind the challenge say deleted messages pose a risk to transparency.
+11. [Lockdown: Golfers at border course 'can leave or enter Wales'](https://www.bbc.co.uk/news/uk-wales-56570337) - The course includes 15 holes in Wales, two in England and one that crosses the border itself.
 12. [Richard Okorogheye: Fears grow for missing student with sickle cell disease](https://www.bbc.co.uk/news/uk-england-london-56567387) - Richard Okorogheye was last seen leaving his family home in west London a week ago.
 13. [Covid-19: 'Wedding guest list cut from 180 to 6 - but we're getting married'](https://www.bbc.co.uk/news/uk-56563289) - With weddings back on in England, couples prepare to celebrate with their closest loved ones.
 14. [Covid: Beccles Lido reopening is 'such a treat'](https://www.bbc.co.uk/news/uk-england-suffolk-56562788) - Lockdown easing means open air pools can reopen as the stay-at-home order ends.
