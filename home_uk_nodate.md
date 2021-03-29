@@ -1,13 +1,13 @@
 1. [Suez Canal: Ever Given container ship finally freed](https://www.bbc.co.uk/news/world-middle-east-56567985) - A container ship blocking one the world's busiest trade routes is freed after almost a week.
-2. [Covid: Outdoor meet-ups and sports resume in England](https://www.bbc.co.uk/news/uk-56559173) - The stay-at-home order has ended, but people are urged to turn down hugs - even if it is "awkward".
-3. [Biden administration threatens tariffs on UK goods in 'tech tax' row](https://www.bbc.co.uk/news/business-56565636) - Ceramics, make-up and furniture could be hit amid a row over a new UK tax on tech firms.
+2. [Covid: Secret filming exposes contamination risk at test results lab](https://www.bbc.co.uk/news/uk-56556806) - A BBC undercover reporter saw practices that could mean people receiving a wrong test result.
+3. [Covid: Outdoor meet-ups and sports resume in England](https://www.bbc.co.uk/news/uk-56559173) - The stay-at-home order has ended, but people are urged to turn down hugs - even if it is "awkward".
 4. [Covid-19: 'Wedding guest list cut from 180 to 6 - but we're getting married'](https://www.bbc.co.uk/news/uk-56563289) - With weddings back on in England, couples prepare to celebrate with their closest loved ones.
-5. [Grenfell residents 'bullied' for raising safety fears before fire](https://www.bbc.co.uk/news/uk-56566439) - Lawyers for fire victims accuse the council and TMO of "neglect, indifference and discrimination".
-6. [School abuse: 'Rape culture' warning as 8,000 report incidents](https://www.bbc.co.uk/news/uk-56558487) - Police promise a helpline and will investigate the allegations - and blame pornography.
-7. [Galápagos tortoises: 185 babies seized from smugglers](https://www.bbc.co.uk/news/world-latin-america-56564326) - Officials found 185 baby Galápagos tortoises wrapped in plastic and packed into a suitcase.
-8. [Councillor sentenced over TK Maxx upskirt shots](https://www.bbc.co.uk/news/uk-england-gloucestershire-56562211) - His victim says she does not want to go out alone any more and she hates how it has made her feel.
-9. [Richard Okorogheye: Fears grow for missing student with sickle cell disease](https://www.bbc.co.uk/news/uk-england-london-56567387) - Richard Okorogheye was last seen leaving his family home in west London a week ago.
-10. [Households of adults with weak immune systems to be vaccinated](https://www.bbc.co.uk/news/health-56566892) - The aim is to reduce the risk of infection to those who may not respond well to a vaccine.
+5. [Biden administration threatens tariffs on UK goods in 'tech tax' row](https://www.bbc.co.uk/news/business-56565636) - Ceramics, make-up and furniture could be hit amid a row over a new UK tax on tech firms.
+6. [Grenfell residents 'bullied' for raising safety fears before fire](https://www.bbc.co.uk/news/uk-56566439) - Lawyers for fire victims accuse the council and TMO of "neglect, indifference and discrimination".
+7. [School abuse: 'Rape culture' warning as 8,000 report incidents](https://www.bbc.co.uk/news/uk-56558487) - Police promise a helpline and will investigate the allegations - and blame pornography.
+8. [Galápagos tortoises: 185 babies seized from smugglers](https://www.bbc.co.uk/news/world-latin-america-56564326) - Officials found 185 baby Galápagos tortoises wrapped in plastic and packed into a suitcase.
+9. [Councillor sentenced over TK Maxx upskirt shots](https://www.bbc.co.uk/news/uk-england-gloucestershire-56562211) - His victim says she does not want to go out alone any more and she hates how it has made her feel.
+10. [Richard Okorogheye: Fears grow for missing student with sickle cell disease](https://www.bbc.co.uk/news/uk-england-london-56567387) - Richard Okorogheye was last seen leaving his family home in west London a week ago.
 11. [Barack Obama's Kenyan grandmother dies, aged 99](https://www.bbc.co.uk/news/world-africa-56563179) - Affectionately known as Granny Sarah by the former president, she defended him during his election campaign.
 12. [Covid: Beccles Lido reopening is 'such a treat'](https://www.bbc.co.uk/news/uk-england-suffolk-56562788) - Lockdown easing means open air pools can reopen as the stay-at-home order ends.
 13. [Covid: Stay-at-home restrictions end in England](https://www.bbc.co.uk/news/in-pictures-56563119) - People in England enjoy fresh air as outdoor sport facilities reopen in lockdown easing.
@@ -50,7 +50,7 @@
 50. [What are the rules for weddings and when can I hold a reception?](https://www.bbc.co.uk/news/explainers-52811509) - Wedding ceremonies are still restricted across the UK, but there are plans to ease the rules.
 51. [Covid passports: What are different countries planning?](https://www.bbc.co.uk/news/world-europe-56522408) - How advanced are some countries' plans for vaccine certificates and Covid passports?
 52. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-53. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 29 million people receive at least one dose.
+53. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 30 million people receive at least one dose.
 54. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are urged to book their Covid vaccine in the next few days.
 55. [Which countries are on the red list and what are the quarantine rules?](https://www.bbc.co.uk/news/explainers-52544307) - Many travellers are no longer allowed to enter the UK from countries on the "red list".
 56. [Where is the Oxford-AstraZeneca vaccine made?](https://www.bbc.co.uk/news/56483766) - The EU has called on AstraZeneca to "catch up" on its deliveries to the EU.
