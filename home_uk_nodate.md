@@ -1,4 +1,4 @@
-1. [Suez Canal: Ever Given container ship shifted from shoreline](https://www.bbc.co.uk/news/world-middle-east-56559904) - The Ever Given has been blocking one of the world's busiest trade routes for almost a week.
+1. [Suez Canal: Giant ship blocking Suez Canal finally freed](https://www.bbc.co.uk/news/world-middle-east-56567985) - A giant ship blocking the Suez Canal for nearly a week is finally free, the Egyptian authorities say.
 2. [Covid: Outdoor meet-ups and sports resume in England](https://www.bbc.co.uk/news/uk-56559173) - The stay-at-home order has ended, but people are urged to turn down hugs - even if it is "awkward".
 3. [School abuse: 'Rape culture' warning as 8,000 report incidents](https://www.bbc.co.uk/news/uk-56558487) - Police pledge to investigate the allegations - and blame pornography.
 4. [Biden administration threatens tariffs on UK goods in 'tech tax' row](https://www.bbc.co.uk/news/business-56565636) - Ceramics, make-up and furniture could be hit amid a row over a new UK tax on tech firms.
