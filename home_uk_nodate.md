@@ -1,4 +1,4 @@
-1. [Suez Canal: Ever Given container ship finally freed](https://www.bbc.co.uk/news/world-middle-east-56567985) - A container ship blocking one the world's busiest trade routes is freed after almost a week.
+1. [Suez Canal: Ever Given container ship finally freed](https://www.bbc.co.uk/news/world-middle-east-56567985) - A container ship blocking one the world's busiest trade routes is dislodged after almost a week.
 2. [Covid: Secret filming exposes contamination risk at test results lab](https://www.bbc.co.uk/news/uk-56556806) - A BBC undercover reporter saw practices that could mean people receiving a wrong test result.
 3. [Covid: Outdoor meet-ups and sports resume in England](https://www.bbc.co.uk/news/uk-56559173) - The stay-at-home order has ended, but people are urged to turn down hugs - even if it is "awkward".
 4. [Covid-19: 'Wedding guest list cut from 180 to 6 - but we're getting married'](https://www.bbc.co.uk/news/uk-56563289) - With weddings back on in England, couples prepare to celebrate with their closest loved ones.
