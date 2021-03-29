@@ -1,8 +1,8 @@
-1. [Covid: Outdoor meetings and sports to resume in England](https://www.bbc.co.uk/news/uk-56559173) - People are still being advised to minimise their journeys amid the latest easing of lockdown rules.
-2. [Suez canal: Ever Given container ship freed from shoreline](https://www.bbc.co.uk/news/world-middle-east-56559904) - The Ever Given has been blocking one of the world's busiest trade routes for almost a week.
+1. [Suez canal: Ever Given container ship freed from shoreline](https://www.bbc.co.uk/news/world-middle-east-56559904) - The Ever Given has been blocking one of the world's busiest trade routes for almost a week.
+2. [Covid: Outdoor meetings and sports to resume in England](https://www.bbc.co.uk/news/uk-56559173) - England's stay-at-home order ends, but people are urged to turn down hugs - even if it's "awkward".
 3. [Covid jab: One dose in care homes gives 'substantial' protection](https://www.bbc.co.uk/news/health-56540729) - A study suggests 62% of residents are protected by a single dose of the vaccines used in the UK.
 4. [Coronavirus: England stay-at-home order ends, and retailers see Easter boom](https://www.bbc.co.uk/news/uk-56561010) - Five things you need to know about the coronavirus outbreak this Monday morning.
-5. [Everyone's Invited: School abuse claims could be the 'next national scandal'](https://www.bbc.co.uk/news/uk-56558487) - A police helpline is to be set up for pupils to report complaints, following claims posted on a website.
+5. [School abuse claims could be the 'next national scandal'](https://www.bbc.co.uk/news/uk-56558487) - A police helpline is to be set up for pupils to report complaints, following claims posted on a website.
 6. ['It's do or die time for my insurer to pay up'](https://www.bbc.co.uk/news/business-56535583) - Thousands of businesses across the country are feeling the pinch as insurers 'drag their heels' paying Covid claims.
 7. [Indonesia fire: Massive blaze erupts at oil refinery](https://www.bbc.co.uk/news/world-asia-56560826) - Several have been injured and hundreds evacuated to safety from the blaze in West Java province.
 8. [Doctors warn against cuts to youth drug and alcohol treatment](https://www.bbc.co.uk/news/health-56541330) - Young people's lives are being put at risk without help for drugs and alcohol problems, they say.
@@ -25,7 +25,7 @@
 25. [Easter celebrations set to rival Christmas - even down to the tree](https://www.bbc.co.uk/news/business-56541002) - Easter trees and garden furniture are being sought out by shoppers keen to make the most of lockdown easing.
 26. [The Netflix show putting the spotlight on menopause](https://www.bbc.co.uk/news/world-asia-india-56523148) - The new Netflix show Bombay Begums puts the spotlight on menopause, but why aren't we talking about it?
 27. [Not just the Proms: An unexpected history of the Royal Albert Hall](https://www.bbc.co.uk/news/uk-england-london-56428543) - Rule Britannia has had its place - but so have Bovril, balls, Blackshirts and a bombastic celebration of the Bard.
-28. [The Suez Canal blockage explored in numbers](https://www.bbc.co.uk/news/business-56559073) - The costs are mounting as efforts to free the stranded Ever Given ship go into a sixth day.
+28. [The Suez Canal blockage explored in numbers](https://www.bbc.co.uk/news/business-56559073) - The blocking of the canal by the Ever Given has caused much disruption for the global shipping industry.
 29. [Boat Race 2021: Famous duel returns to quiet backwater](https://www.bbc.co.uk/news/uk-england-cambridgeshire-56338056) - The famous duel will take place on the Great Ouse in Cambridgeshire for the first time since 1944.
 30. [Covid: What's happened to crime during the pandemic?](https://www.bbc.co.uk/news/56463680) - From dog theft to drug crime, lockdown has led to some big changes in policing.
 31. [Suez Canal: How are they trying to free the Ever Given?](https://www.bbc.co.uk/news/56523659) - Operations are continuing to move a giant container vessel stuck in the Suez Canal since Tuesday.
@@ -36,7 +36,7 @@
 36. [Fraser strike nets Scotland point in Israel](https://www.bbc.co.uk/sport/football/56472932) - Ryan Fraser's deft finish earns Scotland a point as they fight back in their second World Cup qualifier against Israel in Tel Aviv.
 37. [England's Euro U21 hopes hang by a thread after Portugal loss](https://www.bbc.co.uk/sport/football/56551054) - England chances of reaching the Euro Under-21 Championship quarter-finals hang by a thread following a limp display and defeat to Portugal.
 38. [Robertson beats O'Sullivan to win Tour Championship](https://www.bbc.co.uk/sport/snooker/56552769) - Neil Robertson claims the Tour Championship with a 10-4 win as Ronnie O'Sullivan suffers his fifth ranking final defeat of the season.
-39. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Wales and Scotland are easing restrictions on people meeting, and changes are due in England on Monday.
+39. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - The rules on how many people can meet outdoors are changing, as lockdown is eased.
 40. [Covid: What is the rule of six and what are the social distancing rules?](https://www.bbc.co.uk/news/uk-51506729) - Lockdown rules are being eased further in England and Wales so more people can meet up outside.
 41. [Coronavirus: When will pools, gyms, pubs and hairdressers open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?
 42. [What are the rules for weddings and when can I hold a reception?](https://www.bbc.co.uk/news/explainers-52811509) - Wedding ceremonies are still restricted across the UK, but there are plans to ease the rules.

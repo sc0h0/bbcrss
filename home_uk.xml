@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Mar 2021 07:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 07:38:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Covid: Outdoor meetings and sports to resume in England]]></title>
-            <description><![CDATA[People are still being advised to minimise their journeys amid the latest easing of lockdown rules.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56559173</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56559173</guid>
-            <pubDate>Mon, 29 Mar 2021 07:06:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Suez canal: Ever Given container ship freed from shoreline]]></title>
             <description><![CDATA[The Ever Given has been blocking one of the world's busiest trade routes for almost a week.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-56559904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56559904</guid>
             <pubDate>Mon, 29 Mar 2021 07:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Outdoor meetings and sports to resume in England]]></title>
+            <description><![CDATA[England's stay-at-home order ends, but people are urged to turn down hugs - even if it's "awkward".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56559173</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56559173</guid>
+            <pubDate>Mon, 29 Mar 2021 07:20:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid jab: One dose in care homes gives 'substantial' protection]]></title>
@@ -44,11 +44,11 @@
             <pubDate>Mon, 29 Mar 2021 05:59:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Everyone's Invited: School abuse claims could be the 'next national scandal']]></title>
+            <title><![CDATA[School abuse claims could be the 'next national scandal']]></title>
             <description><![CDATA[A police helpline is to be set up for pupils to report complaints, following claims posted on a website.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56558487</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56558487</guid>
-            <pubDate>Sun, 28 Mar 2021 23:31:55 GMT</pubDate>
+            <pubDate>Mon, 29 Mar 2021 07:27:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['It's do or die time for my insurer to pay up']]></title>
@@ -206,10 +206,10 @@
         </item>
         <item>
             <title><![CDATA[The Suez Canal blockage explored in numbers]]></title>
-            <description><![CDATA[The costs are mounting as efforts to free the stranded Ever Given ship go into a sixth day.]]></description>
+            <description><![CDATA[The blocking of the canal by the Ever Given has caused much disruption for the global shipping industry.]]></description>
             <link>https://www.bbc.co.uk/news/business-56559073</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56559073</guid>
-            <pubDate>Mon, 29 Mar 2021 06:18:10 GMT</pubDate>
+            <pubDate>Mon, 29 Mar 2021 07:19:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boat Race 2021: Famous duel returns to quiet backwater]]></title>
@@ -283,7 +283,7 @@
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[Wales and Scotland are easing restrictions on people meeting, and changes are due in England on Monday.]]></description>
+            <description><![CDATA[The rules on how many people can meet outdoors are changing, as lockdown is eased.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
             <pubDate>Fri, 26 Mar 2021 12:11:54 GMT</pubDate>
