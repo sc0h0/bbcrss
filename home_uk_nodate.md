@@ -7,8 +7,8 @@
 7. [Grenfell residents 'bullied' for raising safety fears before fire](https://www.bbc.co.uk/news/uk-56566439) - Lawyers for fire victims accuse the council and TMO of "neglect, indifference and discrimination".
 8. [Long spaceflights and endurance swimming can 'shrink the heart'](https://www.bbc.co.uk/news/science-environment-56559494) - Spaceflight and endurance swimming can both cause the heart to lose mass, say researchers.
 9. [Councillor sentenced over TK Maxx upskirt shots](https://www.bbc.co.uk/news/uk-england-gloucestershire-56562211) - His victim says she does not want to go out alone any more and she hates how it has made her feel.
-10. [Richard Okorogheye: Fears grow for missing student with sickle cell disease](https://www.bbc.co.uk/news/uk-england-london-56567387) - Richard Okorogheye was last seen leaving his family home in west London a week ago.
-11. [Barack Obama's Kenyan grandmother dies, aged 99](https://www.bbc.co.uk/news/world-africa-56563179) - Affectionately known as Granny Sarah by the former president, she defended him during his election campaign.
+10. [Legal challenge over the government using Whatsapp](https://www.bbc.co.uk/news/technology-56570650) - The campaigners behind the challenge say deleted messages pose a risk to transparency.
+11. [Richard Okorogheye: Fears grow for missing student with sickle cell disease](https://www.bbc.co.uk/news/uk-england-london-56567387) - Richard Okorogheye was last seen leaving his family home in west London a week ago.
 12. [Covid-19: 'Wedding guest list cut from 180 to 6 - but we're getting married'](https://www.bbc.co.uk/news/uk-56563289) - With weddings back on in England, couples prepare to celebrate with their closest loved ones.
 13. [Covid: Beccles Lido reopening is 'such a treat'](https://www.bbc.co.uk/news/uk-england-suffolk-56562788) - Lockdown easing means open air pools can reopen as the stay-at-home order ends.
 14. [Covid: Stay-at-home restrictions end in England](https://www.bbc.co.uk/news/in-pictures-56563119) - People in England enjoy fresh air as outdoor sport facilities reopen in lockdown easing.
