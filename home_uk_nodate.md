@@ -1,7 +1,7 @@
 1. [Covid: Strength of defence against new wave unclear, says PM](https://www.bbc.co.uk/news/uk-56569838) - Boris Johnson urges "caution" despite the Covid vaccine rollout and easing of rules in England.
-2. [Novavax: Deal agreed to 'fill and finish' 60 million doses in UK](https://www.bbc.co.uk/news/uk-england-tees-56570168) - A deal is agreed to support the manufacturing of 60 million vaccine doses in North-East England.
-3. [Suez Canal reopens after giant stranded ship is freed](https://www.bbc.co.uk/news/world-middle-east-56567985) - It took almost a week to dislodge a giant container ship blocking one the world's busiest trade routes.
-4. [Covid: Secret filming exposes contamination risk at test results lab](https://www.bbc.co.uk/news/uk-56556806) - A BBC undercover reporter saw practices that could mean people receiving a wrong test result.
+2. [Suez Canal reopens after giant stranded ship is freed](https://www.bbc.co.uk/news/world-middle-east-56567985) - It took almost a week to dislodge a giant container ship blocking one the world's busiest trade routes.
+3. [Covid: Secret filming exposes contamination risk at test results lab](https://www.bbc.co.uk/news/uk-56556806) - A BBC undercover reporter saw practices that could mean people receiving a wrong test result.
+4. [Novavax: Deal agreed to 'fill and finish' 60 million doses in UK](https://www.bbc.co.uk/news/uk-england-tees-56570168) - A deal is agreed to support the manufacturing of 60 million vaccine doses in north-east England.
 5. [McCartney's missing holiday blanket 'debt' repaid](https://www.bbc.co.uk/news/uk-wales-56561667) - Letter reminding the Beatles star he "owed debt" for missing holiday blanket goes up for sale.
 6. [Coronavirus: PM's warning as England lockdown eases and 180 wedding guests cut to six](https://www.bbc.co.uk/news/uk-56569153) - Five things you need to know about the coronavirus outbreak this Monday evening.
 7. [School abuse: 'Rape culture' allegations are 'shocking', says Williamson](https://www.bbc.co.uk/news/uk-56566442) - The education secretary says he will take 'appropriate action' and urges victims to report abuse.
