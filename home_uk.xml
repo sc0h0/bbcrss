@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Mar 2021 10:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 10:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Police "acted appropriately" at vigil held in memory of Sarah Everard on Clapham Common, report finds.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56574557</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56574557</guid>
-            <pubDate>Tue, 30 Mar 2021 10:41:36 GMT</pubDate>
+            <pubDate>Tue, 30 Mar 2021 10:50:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: World leaders call for international pandemic treaty]]></title>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 30 Mar 2021 08:11:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Derek Chauvin trial: George Floyd 'slowly fading away' during police arrest]]></title>
-            <description><![CDATA[Witness tells of last moments of George Floyd's life at the trial of the officer accused of killing him.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56572472</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56572472</guid>
-            <pubDate>Mon, 29 Mar 2021 23:56:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sir Lenny Henry's open letter urges black Britons to take Covid vaccine]]></title>
             <description><![CDATA[The comedian and actor leads stars in an open letter urging black Britons to have the Covid-19 jab.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56565995</link>
@@ -44,11 +37,25 @@
             <pubDate>Tue, 30 Mar 2021 09:47:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Suez Canal reopens after giant stranded ship is freed]]></title>
-            <description><![CDATA[It took almost a week to dislodge a giant container ship blocking one the world's busiest trade routes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56567985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56567985</guid>
-            <pubDate>Mon, 29 Mar 2021 20:48:33 GMT</pubDate>
+            <title><![CDATA[Derek Chauvin trial: George Floyd 'slowly fading away' during police arrest]]></title>
+            <description><![CDATA[Witness tells of last moments of George Floyd's life at the trial of the officer accused of killing him.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56572472</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56572472</guid>
+            <pubDate>Mon, 29 Mar 2021 23:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Easter egg sales 'soar by almost 50%']]></title>
+            <description><![CDATA[Spending on Easter eggs is up by almost £50m, research suggests, as people prepare for weekend celebrations.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56574794</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56574794</guid>
+            <pubDate>Tue, 30 Mar 2021 10:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suez Canal: Ships begin sailing through cleared waterway]]></title>
+            <description><![CDATA[Authorities hope to clear the backlog of vessels waiting to use the vital trade route within days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56574334</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56574334</guid>
+            <pubDate>Tue, 30 Mar 2021 10:21:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long Covid: 'It's like someone has piled sandbags on top of me']]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/health-56571663</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56571663</guid>
             <pubDate>Mon, 29 Mar 2021 23:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: CDC head warns of 'impending doom' in US]]></title>
-            <description><![CDATA[Cases and deaths are rising as US officials warned the struggle to end the pandemic is not over.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56572452</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56572452</guid>
-            <pubDate>Mon, 29 Mar 2021 22:04:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[School abuse: 'Rape culture' allegations shocking, says Williamson]]></title>
@@ -275,6 +275,13 @@
             <pubDate>Mon, 29 Mar 2021 21:31:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Messing around the supply teacher' - Wales protocol breach 'last thing we need', says Saunders]]></title>
+            <description><![CDATA[Dean Saunders says the disciplining of three Wales players has been an unwanted "distraction" before the World Cup qualifier against the Czech Republic.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56574375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56574375</guid>
+            <pubDate>Tue, 30 Mar 2021 08:06:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shaw 'massively regrets' pulling out of past England camps]]></title>
             <description><![CDATA[Luke Shaw says he regrets "letting down" England boss Gareth Southgate in the past and wants to "focus on the future" after being recalled.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56572009</link>
@@ -287,13 +294,6 @@
             <link>https://www.bbc.co.uk/sport/football/56465195</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56465195</guid>
             <pubDate>Tue, 30 Mar 2021 07:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Messing around the supply teacher' - Wales protocol breach 'last thing we need', says Saunders]]></title>
-            <description><![CDATA[Dean Saunders says the disciplining of three Wales players has been an unwanted "distraction" before the World Cup qualifier against the Czech Republic.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56574375</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56574375</guid>
-            <pubDate>Tue, 30 Mar 2021 08:06:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can I have a day out at the beach? And other questions]]></title>
@@ -328,7 +328,7 @@
             <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 30 million people receive at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Mon, 29 Mar 2021 16:07:12 GMT</pubDate>
+            <pubDate>Tue, 30 Mar 2021 10:45:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the rule of six and what are the social distancing rules?]]></title>
