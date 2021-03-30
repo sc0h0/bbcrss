@@ -1,4 +1,4 @@
-1. [Covid-19: World leaders call for international pandemic treaty](https://www.bbc.co.uk/news/uk-56572775) - Boris Johnson and more than 20 others leaders say another health emergency is a matter of "if not when".
+1. [Covid-19: World leaders call for international pandemic treaty](https://www.bbc.co.uk/news/uk-56572775) - Boris Johnson and more than 20 leaders say another health emergency is a matter of "not if, but when".
 2. [Derek Chauvin trial: George Floyd 'slowly fading away' during police arrest](https://www.bbc.co.uk/news/world-us-canada-56572472) - Witness tells of last moments of George Floyd's life at the trial of the officer accused of killing him.
 3. [Sir Lenny Henry's open letter urges black Britons to take Covid vaccine](https://www.bbc.co.uk/news/entertainment-arts-56565995) - The comic and actor leads stars in an open letter urging black Britons to have the Covid-19 jab.
 4. [Suez Canal reopens after giant stranded ship is freed](https://www.bbc.co.uk/news/world-middle-east-56567985) - It took almost a week to dislodge a giant container ship blocking one the world's busiest trade routes.
