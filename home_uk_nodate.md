@@ -9,7 +9,7 @@
 9. [Novichok attack death inquest ‘will be fearless’](https://www.bbc.co.uk/news/uk-england-wiltshire-56575091) - Dawn Sturgess was poisoned after inadvertently spraying herself with Novichok in a perfume bottle.
 10. [Covid: 'Madness' as hundreds descend on Nottingham park](https://www.bbc.co.uk/news/uk-england-nottinghamshire-56575135) - Footage on social media shows people brawling at Nottingham Arboretum after restrictions were eased.
 11. [Captain Underpants: Children's book withdrawn over 'passive racism'](https://www.bbc.co.uk/news/entertainment-arts-56577725) - Children's author Dav Pilkey is sorry for "harmful racial stereotypes and passively racist imagery".
-12. [In Pictures: UK basks in sunshine as lockdown eases](https://www.bbc.co.uk/news/uk-56579679) - UK records its warmest day of the year as temperatures head towards 23C in parts of England.
+12. [In Pictures: UK basks in sunshine as lockdown eases](https://www.bbc.co.uk/news/uk-56579679) - UK records its warmest March day for 53 years as temperatures head past 24C in parts of England.
 13. [Photographing the "endless diversity" of America by streetlight](https://www.bbc.co.uk/news/in-pictures-56253450) - Photographer Daniel Freeman travelled across the US to capture striking night-time shots.
 14. [Long Covid: 'It's like someone has piled sandbags on top of me'](https://www.bbc.co.uk/news/health-56571663) - A year on since 29-year-old Reece caught coronavirus, what he imagined would be a mild infection changed his life beyond recognition.
 15. [Inauguration poet Amanda Gorman: 'My life changed in six minutes'](https://www.bbc.co.uk/news/world-us-canada-56572495) - Amanda Gorman became the youngest inaugural poet when she recited The Hill We Climb.
