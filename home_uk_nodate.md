@@ -13,9 +13,9 @@
 13. [Ghislaine Maxwell: Fourth alleged victim added to charges](https://www.bbc.co.uk/news/world-us-canada-56572294) - The ex-girlfriend of sex offender Jeffrey Epstein is charged with trafficking a fourth underage girl.
 14. [The Papers: England 'on track' to reopen and pandemic treaty plea](https://www.bbc.co.uk/news/blogs-the-papers-56572442) - The PM's comments that England remains on course to ease further restrictions on 12 April is among the front-page stories.
 15. [Inauguration poet Amanda Gorman: 'My life changed in six minutes'](https://www.bbc.co.uk/news/world-us-canada-56572495) - Amanda Gorman became the youngest inaugural poet when she recited The Hill We Climb.
-16. [Keeping score on UK-EU relations since Brexit](https://www.bbc.co.uk/news/uk-politics-56571662) - Despite promises to work together, it has been far from plain sailing between the UK and the EU since Brexit.
-17. [Abortion in Italy: 'I found a grave with my name on it'](https://www.bbc.co.uk/news/world-europe-56182957) - Women in Italy who had an abortion or miscarriage discovered the fetus had been given a religious burial, in a grave marked with the mother's name, without their consent.
-18. [Photographing the "endless diversity" of America by streetlight](https://www.bbc.co.uk/news/in-pictures-56253450) - Photographer Daniel Freeman travelled across the US to capture striking night-time shots.
+16. [Photographing the "endless diversity" of America by streetlight](https://www.bbc.co.uk/news/in-pictures-56253450) - Photographer Daniel Freeman travelled across the US to capture striking night-time shots.
+17. [Keeping score on UK-EU relations since Brexit](https://www.bbc.co.uk/news/uk-politics-56571662) - Despite promises to work together, it has been far from plain sailing between the UK and the EU since Brexit.
+18. [Abortion in Italy: 'I found a grave with my name on it'](https://www.bbc.co.uk/news/world-europe-56182957) - Women in Italy who had an abortion or miscarriage discovered the fetus had been given a religious burial, in a grave marked with the mother's name, without their consent.
 19. [Is this the future for international business deals?](https://www.bbc.co.uk/news/business-56544071) - A new facility has opened in Singapore where business people hold meetings in glass "bubbles".
 20. ['Finding work feels impossible for my generation'](https://www.bbc.co.uk/news/business-56565635) - Young people could see rising levels of unemployment even as the crisis eases, warns Prince's Trust.
 21. [Covid-19: 'Wedding guest list cut from 180 to 6 - but we're getting married'](https://www.bbc.co.uk/news/uk-56563289) - With weddings back on in England, couples prepare to celebrate with their closest loved ones.
@@ -23,7 +23,7 @@
 23. [Covid: Beccles Lido reopening is 'such a treat'](https://www.bbc.co.uk/news/uk-england-suffolk-56562788) - Lockdown easing means open air pools can reopen as the stay-at-home order ends.
 24. [Covid: Stay-at-home restrictions end in England](https://www.bbc.co.uk/news/in-pictures-56563119) - People in England enjoy fresh air as outdoor sport facilities reopen in lockdown easing.
 25. [The crisis at the Tavistock's child gender clinic](https://www.bbc.co.uk/news/uk-56539466) - A number of reports have raised concerns about the country's only NHS gender clinic for young people.
-26. [Evidence mounts Covid jab protects those around you](https://www.bbc.co.uk/news/health-56514470) - Out-of-date information may be deterring people from being vaccinated.
+26. [Covid jab probably does protect those around you](https://www.bbc.co.uk/news/health-56514470) - Out-of-date information may be deterring people from being vaccinated.
 27. [How bees and drones team up to find landmines](https://www.bbc.co.uk/news/business-56344609) - Drones are being used to track bees that have been trained to sense chemicals in landmines.
 28. ['I catch rats for a living and couldn’t be happier'](https://www.bbc.co.uk/news/business-56346504) - How to work your way to happiness, and break that daily grind.
 29. [Covid: Secret filming exposes contamination risk at test results lab](https://www.bbc.co.uk/news/uk-56556806) - A BBC undercover reporter saw practices that could mean people receiving a wrong test result.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Mar 2021 07:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 07:43:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,7 @@
             <description><![CDATA[The comic and actor leads stars in an open letter urging black Britons to have the Covid-19 jab.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56565995</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56565995</guid>
-            <pubDate>Tue, 30 Mar 2021 04:30:45 GMT</pubDate>
+            <pubDate>Tue, 30 Mar 2021 07:35:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suez Canal reopens after giant stranded ship is freed]]></title>
@@ -121,6 +121,13 @@
             <pubDate>Tue, 30 Mar 2021 05:31:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Photographing the "endless diversity" of America by streetlight]]></title>
+            <description><![CDATA[Photographer Daniel Freeman travelled across the US to capture striking night-time shots.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-56253450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56253450</guid>
+            <pubDate>Tue, 30 Mar 2021 00:22:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Keeping score on UK-EU relations since Brexit]]></title>
             <description><![CDATA[Despite promises to work together, it has been far from plain sailing between the UK and the EU since Brexit.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56571662</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56182957</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56182957</guid>
             <pubDate>Mon, 29 Mar 2021 23:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photographing the "endless diversity" of America by streetlight]]></title>
-            <description><![CDATA[Photographer Daniel Freeman travelled across the US to capture striking night-time shots.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-56253450</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56253450</guid>
-            <pubDate>Tue, 30 Mar 2021 00:22:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is this the future for international business deals?]]></title>
@@ -191,7 +191,7 @@
             <pubDate>Tue, 30 Mar 2021 00:50:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Evidence mounts Covid jab protects those around you]]></title>
+            <title><![CDATA[Covid jab probably does protect those around you]]></title>
             <description><![CDATA[Out-of-date information may be deterring people from being vaccinated.]]></description>
             <link>https://www.bbc.co.uk/news/health-56514470</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56514470</guid>
