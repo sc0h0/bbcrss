@@ -1,4 +1,4 @@
-1. [Covid-19: World leaders call for international pandemic treaty](https://www.bbc.co.uk/news/uk-56572775) - Boris Johnson and more than 20 leaders say another health emergency is a matter of "not if, but when".
+1. [Covid-19: World leaders call for international pandemic treaty](https://www.bbc.co.uk/news/uk-56572775) - Boris Johnson and more than 20 other leaders say another health crisis is a matter of "not if, but when".
 2. [Derek Chauvin trial: George Floyd 'slowly fading away' during police arrest](https://www.bbc.co.uk/news/world-us-canada-56572472) - Witness tells of last moments of George Floyd's life at the trial of the officer accused of killing him.
 3. [Sir Lenny Henry's open letter urges black Britons to take Covid vaccine](https://www.bbc.co.uk/news/entertainment-arts-56565995) - The comic and actor leads stars in an open letter urging black Britons to have the Covid-19 jab.
 4. [Suez Canal reopens after giant stranded ship is freed](https://www.bbc.co.uk/news/world-middle-east-56567985) - It took almost a week to dislodge a giant container ship blocking one the world's busiest trade routes.
@@ -9,7 +9,7 @@
 9. [Greensill Capital: Labour calls for watchdog to probe firm's role](https://www.bbc.co.uk/news/uk-politics-56571872) - The party wants a standards body to look into access granted to the firm under ex-PM David Cameron.
 10. [Lady Gaga dog walker Ryan Fischer 'had to have part of his lung removed'](https://www.bbc.co.uk/news/world-us-canada-56572473) - Ryan Fischer was shot in the chest as he walked the star's three French bulldogs in February.
 11. [Nike sues over 'Satan Shoes' with human blood](https://www.bbc.co.uk/news/business-56572245) - Nike sues an art collective over its 'Satan Shoes', produced in collaboration with rapper Lil Nas X.
-12. [Hong Kong: China to pass 'patriot' electoral reforms](https://www.bbc.co.uk/news/world-asia-china-56560829) - The changes aim to only have "patriots" in office in Hong Kong but critics warn it will stifle dissent.
+12. [Hong Kong: China passes 'patriot' electoral reforms](https://www.bbc.co.uk/news/world-asia-china-56560829) - The changes aim to only have "patriots" in office in Hong Kong but critics warn it will stifle dissent.
 13. [Ghislaine Maxwell: Fourth alleged victim added to charges](https://www.bbc.co.uk/news/world-us-canada-56572294) - The ex-girlfriend of sex offender Jeffrey Epstein is charged with trafficking a fourth underage girl.
 14. [The Papers: England 'on track' to reopen and pandemic treaty plea](https://www.bbc.co.uk/news/blogs-the-papers-56572442) - The PM's comments that England remains on course to ease further restrictions on 12 April is among the front-page stories.
 15. [Keeping score on UK-EU relations since Brexit](https://www.bbc.co.uk/news/uk-politics-56571662) - Despite promises to work together, it has been far from plain sailing between the UK and the EU since Brexit.
