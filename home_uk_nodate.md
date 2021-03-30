@@ -1,5 +1,5 @@
 1. [Police 'acted appropriately' at Sarah Everard vigil](https://www.bbc.co.uk/news/uk-56574557) - A watchdog also says a "chorus" of condemnation over scenes in Clapham harmed confidence in policing.
-2. [Scotland election 2021: Party leaders clash over independence](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56583377) - The leaders of the country's five larger parties went head-to-head in a live BBC Scotland debate.
+2. [Scotland election 2021: Party leaders clash over need for indyref2](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56583377) - The leaders of the country's five larger parties went head-to-head in a live BBC Scotland debate.
 3. [Coronavirus: More work needed to rule out lab leak theory says WHO](https://www.bbc.co.uk/news/world-asia-china-56581246) - All possible causes of the pandemic remain on the table, says the WHO, though lab leak least likely.
 4. [Covid: Germany limits use of AstraZeneca Covid jab for under-60s](https://www.bbc.co.uk/news/world-europe-56580728) - The vaccine maker stresses that regulators find the benefits of its Covid-19 shot outweigh the risks.
 5. [Lex Greensill: Labour questions ex-adviser's No 10 business card](https://www.bbc.co.uk/news/uk-politics-56583149) - The party wants an inquiry into the influence of Lex Greensill under David Cameron's government.
