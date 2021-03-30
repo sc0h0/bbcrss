@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Mar 2021 15:53:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Mar 2021 16:35:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[A watchdog also says a "chorus" of condemnation over scenes in Clapham harmed confidence in policing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56574557</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56574557</guid>
-            <pubDate>Tue, 30 Mar 2021 15:47:02 GMT</pubDate>
+            <pubDate>Tue, 30 Mar 2021 16:20:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Half of UK has antibodies from vaccination or infection]]></title>
@@ -30,6 +30,20 @@
             <pubDate>Tue, 30 Mar 2021 10:31:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coronavirus: More work needed to rule out lab leak theory says WHO]]></title>
+            <description><![CDATA[All possible causes of the pandemic remain on the table, says the WHO, though lab leak least likely.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-56581246</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56581246</guid>
+            <pubDate>Tue, 30 Mar 2021 16:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Coroner calls for pandemic inquiry after Luton nurse's death]]></title>
+            <description><![CDATA[It is "unclear" where the pregnant NHS worker who died contracted the virus, a coroner says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56578237</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56578237</guid>
+            <pubDate>Tue, 30 Mar 2021 15:28:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Scotland: 'Stay at home' rule to end on Friday]]></title>
             <description><![CDATA[People are being told to "stay local" and remain within their local council area for the following three weeks.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56576924</link>
@@ -37,32 +51,18 @@
             <pubDate>Tue, 30 Mar 2021 12:38:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Suez Canal: Ships begin sailing through cleared waterway]]></title>
-            <description><![CDATA[Authorities hope to clear the backlog of vessels waiting to use the vital trade route within days.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56574334</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56574334</guid>
-            <pubDate>Tue, 30 Mar 2021 10:21:53 GMT</pubDate>
+            <title><![CDATA[Richard Okorogheye: Mother calls for more help to find missing son]]></title>
+            <description><![CDATA[Richard Okorogheye, who has sickle cell disease, has not been seen since 22 March.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56577478</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56577478</guid>
+            <pubDate>Tue, 30 Mar 2021 14:55:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Right' for Cameron behaviour to be probed - minister]]></title>
-            <description><![CDATA[MPs or the standards watchdog could look at claims about the ex-PM, the business secretary says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56575409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56575409</guid>
-            <pubDate>Tue, 30 Mar 2021 14:19:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teen who called himself Hitler sentenced for terror offences]]></title>
-            <description><![CDATA[The boy, who called himself Hitler, was ordered to tell authorities of his whereabouts for 10 years.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-56577064</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-56577064</guid>
-            <pubDate>Tue, 30 Mar 2021 10:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Storey funeral: Arlene Foster calls on PSNI chief to resign]]></title>
-            <description><![CDATA[Simon Byrne's role "untenable" after decision not to prosecute over Bobby Storey's funeral, she says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56566468</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56566468</guid>
-            <pubDate>Tue, 30 Mar 2021 15:31:28 GMT</pubDate>
+            <title><![CDATA[Covid: Westminster terror attack hero stranded in Istanbul hospital]]></title>
+            <description><![CDATA[Tony Davis, who tried to save PC Keith Palmer in the Westminster attack, is in hospital in Instanbul.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-56577066</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56577066</guid>
+            <pubDate>Tue, 30 Mar 2021 14:43:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[School abuse: 'Raped schoolgirl ignored by teachers']]></title>
@@ -72,13 +72,6 @@
             <pubDate>Tue, 30 Mar 2021 11:34:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Novichok attack inquest promises Russia scrutiny]]></title>
-            <description><![CDATA[Dawn Sturgess was poisoned after inadvertently spraying herself with Novichok in a perfume bottle.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-56575091</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-56575091</guid>
-            <pubDate>Tue, 30 Mar 2021 13:26:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: 'Madness' as hundreds descend on Nottingham park]]></title>
             <description><![CDATA[Footage on social media shows people brawling at Nottingham Arboretum after restrictions were eased.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-56575135</link>
@@ -86,18 +79,32 @@
             <pubDate>Tue, 30 Mar 2021 13:27:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Captain Underpants: Children's book withdrawn over 'passive racism']]></title>
-            <description><![CDATA[Children's author Dav Pilkey is sorry for "harmful racial stereotypes and passively racist imagery".]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56577725</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56577725</guid>
-            <pubDate>Tue, 30 Mar 2021 12:36:42 GMT</pubDate>
+            <title><![CDATA['Fake' Amazon workers defend company on Twitter]]></title>
+            <description><![CDATA[It comes after Amazon's official accounts hit back at criticism of the company.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56581266</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56581266</guid>
+            <pubDate>Tue, 30 Mar 2021 15:14:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In Pictures: UK basks in sunshine as lockdown eases]]></title>
-            <description><![CDATA[UK records its warmest March day for 53 years as temperatures head past 24C in parts of England.]]></description>
+            <title><![CDATA[Child tweets gibberish from US nuclear-agency account]]></title>
+            <description><![CDATA[The tweet “;l;;gmlxzssaw", posted to US Strategic Command's Twitter account, causes confusion.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56578544</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56578544</guid>
+            <pubDate>Tue, 30 Mar 2021 12:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Pictures: UK March temperature highest for 53 years]]></title>
+            <description><![CDATA[Here's how some enjoyed the sun as the UK recorded its warmest March day in more than five decades.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56579679</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56579679</guid>
-            <pubDate>Tue, 30 Mar 2021 15:02:59 GMT</pubDate>
+            <pubDate>Tue, 30 Mar 2021 16:04:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schoolmates Ollie and Jacob on TikTok fame]]></title>
+            <description><![CDATA[Ollie and his best mate, Jacob, have become the comedy duo everyone's talking about on TikTok.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56582976</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56582976</guid>
+            <pubDate>Tue, 30 Mar 2021 16:20:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photographing the "endless diversity" of America by streetlight]]></title>
@@ -289,11 +296,11 @@
             <pubDate>Tue, 30 Mar 2021 11:26:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Captain Houghton to miss England friendlies]]></title>
-            <description><![CDATA[England will be without captain Steph Houghton and forward Nikita Parris for April's friendlies against France and Canada.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56578077</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56578077</guid>
-            <pubDate>Tue, 30 Mar 2021 15:05:03 GMT</pubDate>
+            <title><![CDATA[New Women's Six Nations format set to be one-off]]></title>
+            <description><![CDATA[The new format of the Women's Six Nations is likely to only be for 2021 organisers have confirmed.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56577265</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56577265</guid>
+            <pubDate>Tue, 30 Mar 2021 15:41:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules on dating now? And other questions]]></title>
