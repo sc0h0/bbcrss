@@ -3,7 +3,7 @@
 3. [Campaigners criticise government race report](https://www.bbc.co.uk/news/uk-56592331) - The government-commissioned report finds UK system is "no longer" rigged against ethnic minorities.
 4. [Derek Chauvin trial: First footage shown of George Floyd inside shop](https://www.bbc.co.uk/news/world-us-canada-56594099) - CCTV provides the first glimpse of Mr Floyd's actions inside a grocery store, shortly before he died.
 5. [Covid: Wales' pubs and restaurants set for 26 April outdoor reopening](https://www.bbc.co.uk/news/uk-wales-politics-56594315) - Outdoor hospitality will be allowed to reopen from that date if Covid rates remain low.
-6. [Richard Okorogheye: Police searches in Essex for missing student](https://www.bbc.co.uk/news/uk-england-london-56597664) - Richard Okorogheye, who has sickle cell disease, has not been seen since last Monday.
+6. [Richard Okorogheye: Police extend search to Loughton](https://www.bbc.co.uk/news/uk-england-london-56597664) - Richard Okorogheye, 19, was last seen leaving his home in west London last Monday.
 7. [Covid: Sunny rule breakers warned, and Glastonbury from home](https://www.bbc.co.uk/news/uk-56588841) - Five things you need to know about the coronavirus outbreak this Wednesday evening.
 8. [Brits 2021: Celeste and Dua Lipa among frontrunners as nominations announced](https://www.bbc.co.uk/news/entertainment-arts-56592501) - The stars both have three nominations, while four women are up for best album for the first time.
 9. [Covid: Children 'well protected by Pfizer vaccine'](https://www.bbc.co.uk/news/health-56591429) - Initial results from trials in 12- to 15-year-olds in the US will be handed to regulators.
@@ -21,9 +21,9 @@
 21. [Speaker Lord Fowler backs calls for National Aids memorial](https://www.bbc.co.uk/news/uk-politics-56578990) - Lord Fowler, the Lord Speaker of the House of Lords, has backed calls for the UK’s first ever National Aids Memorial.
 22. [Capturing every hour of each New Year's Day for 24 years](https://www.bbc.co.uk/news/in-pictures-56524580) - The 18th year of 24 photographers documenting every hour of New Year's Day, each year, for 24 years.
 23. [Myanmar coup: The monks divided over the deadly protests](https://www.bbc.co.uk/news/world-asia-56580788) - Hundreds have been killed in deadly protests since the military took control of the country in February.
-24. [David Cameron and Greensill: What's it all about?](https://www.bbc.co.uk/news/uk-politics-56578838) - Why the former PM is facing calls to be investigated over his links with a controversial financier.
-25. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
-26. [Race report: What are the key points?](https://www.bbc.co.uk/news/uk-56595004) - 'Immigrant optimism' is praised while some anti-racist approaches face criticism by the commission.
+24. [Race report: What are the key points?](https://www.bbc.co.uk/news/uk-56595004) - 'Immigrant optimism' is praised while some anti-racist approaches face criticism by the commission.
+25. [David Cameron and Greensill: What's it all about?](https://www.bbc.co.uk/news/uk-politics-56578838) - Why the former PM is facing calls to be investigated over his links with a controversial financier.
+26. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
 27. [Letterbox contact: ‘Don’t my birth children have a right to know I’m dying?'](https://www.bbc.co.uk/news/stories-56576285) - Diagnosed with a terminal illness, Hanna wanted to tell the twins taken from her at 16 - but had no way of reaching them.
 28. [How tampon tax, hedgerows and sanctions have changed since Brexit](https://www.bbc.co.uk/news/uk-politics-56580419) - Tampon tax, hedgerows and sanctions: what's changed since Brexit?
 29. [CEO Secrets: 'The stress of being a boss made my hair fall out'](https://www.bbc.co.uk/news/business-56491743) - An entrepreneur explains the strategy he devised to protect himself from mental burnout.
