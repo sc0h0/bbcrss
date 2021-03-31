@@ -6,9 +6,9 @@
 6. [Richard Okorogheye: Police extend search to Loughton](https://www.bbc.co.uk/news/uk-england-london-56597664) - Richard Okorogheye, 19, was last seen leaving his home in west London last Monday.
 7. [Covid: Sunny rule breakers warned, and Glastonbury from home](https://www.bbc.co.uk/news/uk-56588841) - Five things you need to know about the coronavirus outbreak this Wednesday evening.
 8. [Brits 2021: Celeste and Dua Lipa among frontrunners as nominations announced](https://www.bbc.co.uk/news/entertainment-arts-56592501) - The stars both have three nominations, while four women are up for best album for the first time.
-9. [Covid: Children 'well protected by Pfizer vaccine'](https://www.bbc.co.uk/news/health-56591429) - Initial results from trials in 12- to 15-year-olds in the US will be handed to regulators.
+9. [Wrong-way driver's car shunted into tree by Birmingham police](https://www.bbc.co.uk/news/uk-england-birmingham-56588847) - Atif Ayub, 25, is jailed for 12 months after driving the wrong way on a dual carriageway.
 10. [France fire: Young heroes climb building to save family in Nantes](https://www.bbc.co.uk/news/world-europe-56576659) - A group of young people scale the outside of a building to rescue a family from a fire in Nantes.
-11. [BBC China correspondent John Sudworth moves to Taiwan after threats](https://www.bbc.co.uk/news/world-asia-china-56586655) - The BBC's Beijing correspondent moves to Taiwan after pressure from the Chinese authorities.
+11. [Rev Richard Coles: Partner's alcoholism like 'a demon'](https://www.bbc.co.uk/news/uk-england-northamptonshire-56591623) - Pop star-turned-vicar Richard Coles on the alcohol addiction that caused his partner's death.
 12. [PwC says start when you like, leave when you like](https://www.bbc.co.uk/news/business-56591189) - Accountancy giant staff can choose the hours they work and mix home and office following pandemic.
 13. [Queen makes first public appearance of 2021](https://www.bbc.co.uk/news/uk-56590793) - She marked the centenary of the Royal Australian Air Force at Runnymede in Surrey.
 14. [Giant chocolate helicopter 'a big challenge'](https://www.bbc.co.uk/news/uk-england-lincolnshire-56589889) - Jan Hansen says the 7ft (2.1m) tall creation was "a bigger challenge than I thought".
