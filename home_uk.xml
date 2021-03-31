@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 31 Mar 2021 05:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 06:04:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,18 +79,18 @@
             <pubDate>Wed, 31 Mar 2021 03:33:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Watergate mastermind G Gordon Liddy dies aged 90]]></title>
+            <description><![CDATA[G Gordon Liddy served nearly five years in jail for his role in the scandal that toppled President Nixon.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56585169</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56585169</guid>
+            <pubDate>Wed, 31 Mar 2021 03:56:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Sobriety ankle tags' rolled out across England]]></title>
             <description><![CDATA[The electronic tags monitor offenders' sweat to see if they are breaching court-ordered drinking bans.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56583153</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56583153</guid>
             <pubDate>Tue, 30 Mar 2021 23:38:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: How to help health workers' mental health]]></title>
-            <description><![CDATA[The BBC's Laura Foster gets tips from NHS staff working in the profession.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56504442</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56504442</guid>
-            <pubDate>Tue, 30 Mar 2021 23:07:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biden's dog Major bites again at White House]]></title>
@@ -114,6 +114,13 @@
             <pubDate>Wed, 31 Mar 2021 04:34:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coronavirus: How to help health workers' mental health]]></title>
+            <description><![CDATA[The BBC's Laura Foster gets tips from NHS staff working in the profession.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56504442</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56504442</guid>
+            <pubDate>Tue, 30 Mar 2021 23:07:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No end in sight for India's protesting farmers]]></title>
             <description><![CDATA[Indian farmers are protesting against three new laws they believe will hurt their income.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56520138</link>
@@ -128,18 +135,18 @@
             <pubDate>Tue, 30 Mar 2021 23:01:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Myanmar coup: The monks divided over the deadly protests]]></title>
-            <description><![CDATA[Hundreds have been killed in deadly protests since the military took control of the country in February.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56580788</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56580788</guid>
-            <pubDate>Tue, 30 Mar 2021 23:04:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Capturing every hour of each New Year's Day for 24 years]]></title>
             <description><![CDATA[The 18th year of 24 photographers documenting every hour of New Year's Day, each year, for 24 years.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-56524580</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56524580</guid>
             <pubDate>Wed, 31 Mar 2021 00:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar coup: The monks divided over the deadly protests]]></title>
+            <description><![CDATA[Hundreds have been killed in deadly protests since the military took control of the country in February.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56580788</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56580788</guid>
+            <pubDate>Tue, 30 Mar 2021 23:04:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Pictures: UK March temperature highest for 53 years]]></title>
