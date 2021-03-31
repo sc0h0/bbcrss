@@ -1,5 +1,5 @@
-1. [Race and racism 'less important in explaining social disparities' - report](https://www.bbc.co.uk/news/uk-56585538) - Different outcomes in the UK have as much to do with social class and family structure, a review into racial inequalities says.
-2. [Covid-19: Shielding coming to an end for millions](https://www.bbc.co.uk/news/uk-56584380) - People seen as clinically extremely vulnerable are still being told to take precautions over Covid.
+1. [Covid-19: Shielding coming to an end for millions](https://www.bbc.co.uk/news/uk-56584380) - Today is the last day millions of the most clinically vulnerable people in England and Wales are told to shield.
+2. [Race and racism 'less important in explaining social disparities' - report](https://www.bbc.co.uk/news/uk-56585538) - Inequalities in the UK have as much to do with social class and family structure, a report says.
 3. [George Floyd: Teenage witness 'stays up apologising for not doing more'](https://www.bbc.co.uk/news/world-us-canada-56585165) - Derek Chauvin's trial hears gripping testimony from young witnesses to George Floyd's death.
 4. [Covid: Germany limits use of AstraZeneca Covid jab for under-60s](https://www.bbc.co.uk/news/world-europe-56580728) - The vaccine maker stresses that regulators find the benefits of its Covid-19 shot outweigh the risks.
 5. [Speaker Lord Fowler backs calls for National Aids memorial](https://www.bbc.co.uk/news/uk-politics-56578990) - Lord Fowler, the Lord Speaker of the House of Lords, has backed calls for the UK’s first ever National Aids Memorial.
