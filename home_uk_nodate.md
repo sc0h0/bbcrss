@@ -7,9 +7,9 @@
 7. [Brazil military chiefs resign in new crisis for Bolsonaro](https://www.bbc.co.uk/news/world-latin-america-56581131) - It comes amid a cabinet reshuffle as Jair Bolsonaro fights to contain a crisis over his leadership.
 8. ['Sobriety ankle tags' rolled out across England](https://www.bbc.co.uk/news/uk-politics-56583153) - The electronic tags monitor offenders' sweat to see if they are breaching court-ordered drinking bans.
 9. [Brexit: UK 'risks falling behind' EU on workers’ rights](https://www.bbc.co.uk/news/business-56582566) - The EU is working to improve conditions but the UK is not keeping pace, says the TUC.
-10. [Coronavirus: How to help health workers' mental health](https://www.bbc.co.uk/news/health-56504442) - The BBC's Laura Foster gets tips from NHS staff working in the profession.
-11. [Outdoor UK attractions fared better during pandemic](https://www.bbc.co.uk/news/entertainment-arts-56565168) - Kew Gardens and RHS Wisley feature in the top 10 most visited attractions for the first time.
-12. [Climate change: China absent from key UK meeting](https://www.bbc.co.uk/news/science-environment-56584575) - Despite an official UK invite, China is not taking part in a key summit on climate and development.
+10. [Biden's dog Major bites again at White House](https://www.bbc.co.uk/news/world-us-canada-56585168) - Major had been sent to Delaware for training after nipping a White House employee earlier this month.
+11. [Coronavirus: How to help health workers' mental health](https://www.bbc.co.uk/news/health-56504442) - The BBC's Laura Foster gets tips from NHS staff working in the profession.
+12. [Outdoor UK attractions fared better during pandemic](https://www.bbc.co.uk/news/entertainment-arts-56565168) - Kew Gardens and RHS Wisley feature in the top 10 most visited attractions for the first time.
 13. [A few frequent flyers 'dominate air travel'](https://www.bbc.co.uk/news/science-environment-56582094) - A small minority of frequent flyers dominates air travel in countries with high aviation emissions.
 14. [The Papers: Diverse UK 'hailed' and 'keep your cool'](https://www.bbc.co.uk/news/blogs-the-papers-56585045) - A government review's finding that the UK is a model on race for other countries is among the front-page stories.
 15. [No end in sight for India's protesting farmers](https://www.bbc.co.uk/news/world-asia-india-56520138) - Indian farmers are protesting against three new laws they believe will hurt their income.
