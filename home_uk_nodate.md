@@ -8,10 +8,10 @@
 8. [Councils filling potholes 'every 19 seconds'](https://www.bbc.co.uk/news/uk-politics-56590518) - The number of repairs has increased to 1.7 million in England and Wales in the past year, a survey says.
 9. [PwC says start when you like, leave when you like](https://www.bbc.co.uk/news/business-56591189) - Accountancy giant staff can choose the hours they work and mix home and office following pandemic.
 10. [Deliveroo shares drop 30% on stock market debut](https://www.bbc.co.uk/news/business-56578445) - Deliveroo shares open well below expected price after big investors' attitude to company soured.
-11. [Real Housewives star Jen Shah charged over 'US-wide' fraud scheme](https://www.bbc.co.uk/news/newsbeat-56588276) - Jennifer Shah and her assistant Stuart Smith are accused of targeting "hundreds of victims".
-12. [Facebook tweaks its news feed with new controls](https://www.bbc.co.uk/news/technology-56589348) - Permission to comment and an easier way to see a chronological feed are both in the works.
+11. [Skull of dinosaur called 'one who causes fear' found in Patagonia](https://www.bbc.co.uk/news/world-latin-america-56590733) - The animal had horns and a large skull making it a fearsome predator around 85 million years ago.
+12. [Real Housewives star Jen Shah charged over 'US-wide' fraud scheme](https://www.bbc.co.uk/news/newsbeat-56588276) - Jennifer Shah and her assistant Stuart Smith are accused of targeting "hundreds of victims".
 13. [Coronavirus: How to help health workers' mental health](https://www.bbc.co.uk/news/health-56504442) - The BBC's Laura Foster gets tips from NHS staff working in the profession.
-14. [Covid: 'Don't blow it' says health secretary as thousands gather in sunshine](https://www.bbc.co.uk/news/uk-england-56588196) - Parks across England were packed as people gathered to enjoy March's hottest day in 50 years.
+14. [Covid: 'Don't blow it' says health secretary as thousands gather in sunshine](https://www.bbc.co.uk/news/uk-england-56588196) - Two parks close as people gather in open spaces in England to enjoy March's hottest day in 50 years.
 15. [The Papers: Diverse UK 'hailed' and 'keep your cool'](https://www.bbc.co.uk/news/blogs-the-papers-56585045) - A government review's finding that the UK is a model on race for other countries is among the front-page stories.
 16. [No end in sight for India's protesting farmers](https://www.bbc.co.uk/news/world-asia-india-56520138) - Indian farmers are protesting against three new laws they believe will hurt their income.
 17. [London house turned into House of Dreams work of art](https://www.bbc.co.uk/news/uk-england-london-56582064) - Artist Stephen Wright has been turning his London house into a work of art since 1998.
