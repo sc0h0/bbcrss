@@ -1,4 +1,4 @@
-1. [Race and racism 'less important in explaining social disparities' - report](https://www.bbc.co.uk/news/uk-56585538) - Inequalities in the UK have as much to do with social class and family structure, a report says.
+1. [Race report: UK a model for other white majority countries](https://www.bbc.co.uk/news/uk-56585538) - But one racial equality organisation says it feels "deeply, massively let down" and the government has lost trust.
 2. [Covid-19: Shielding coming to an end for millions](https://www.bbc.co.uk/news/uk-56584380) - Wednesday is the last day millions of the most clinically vulnerable people in England and Wales are told to shield.
 3. [Covid: Last day of shielding and Germany limits AstraZeneca jab use](https://www.bbc.co.uk/news/uk-56582957) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
 4. [Brazil: Political crisis and Covid surge rock Bolsonaro](https://www.bbc.co.uk/news/world-latin-america-56581131) - President Bolsonaro left reeling after a daily record in deaths and the resignation of military chiefs.
