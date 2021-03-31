@@ -5,9 +5,9 @@
 5. [Covid: Germany limits use of AstraZeneca Covid jab for under-60s](https://www.bbc.co.uk/news/world-europe-56580728) - The vaccine maker stresses that regulators find the benefits of its Covid-19 shot outweigh the risks.
 6. [Speaker Lord Fowler backs calls for National Aids memorial](https://www.bbc.co.uk/news/uk-politics-56578990) - Lord Fowler, the Lord Speaker of the House of Lords, has backed calls for the UK’s first ever National Aids Memorial.
 7. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
-8. [Brazil military chiefs resign in new crisis for Bolsonaro](https://www.bbc.co.uk/news/world-latin-america-56581131) - It comes amid a cabinet reshuffle as Jair Bolsonaro fights to contain a crisis over his leadership.
-9. ['Sobriety ankle tags' rolled out across England](https://www.bbc.co.uk/news/uk-politics-56583153) - The electronic tags monitor offenders' sweat to see if they are breaching court-ordered drinking bans.
-10. [Brexit: UK 'risks falling behind' EU on workers’ rights](https://www.bbc.co.uk/news/business-56582566) - The EU is working to improve conditions but the UK is not keeping pace, says the TUC.
+8. [Google Maps to start showing eco-friendly routes](https://www.bbc.co.uk/news/business-56585877) - The driving app will highlight journeys with lowest emissions based on factors such as traffic.
+9. [Brazil military chiefs resign in new crisis for Bolsonaro](https://www.bbc.co.uk/news/world-latin-america-56581131) - It comes amid a cabinet reshuffle as Jair Bolsonaro fights to contain a crisis over his leadership.
+10. ['Sobriety ankle tags' rolled out across England](https://www.bbc.co.uk/news/uk-politics-56583153) - The electronic tags monitor offenders' sweat to see if they are breaching court-ordered drinking bans.
 11. [Biden's dog Major bites again at White House](https://www.bbc.co.uk/news/world-us-canada-56585168) - Major had been sent to Delaware for training after nipping a White House employee earlier this month.
 12. [Coronavirus: How to help health workers' mental health](https://www.bbc.co.uk/news/health-56504442) - The BBC's Laura Foster gets tips from NHS staff working in the profession.
 13. [Outdoor UK attractions fared better during pandemic](https://www.bbc.co.uk/news/entertainment-arts-56565168) - Kew Gardens and RHS Wisley feature in the top 10 most visited attractions for the first time.
