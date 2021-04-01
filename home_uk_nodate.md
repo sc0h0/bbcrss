@@ -6,8 +6,8 @@
 6. [John le Carré: Spy novelist 'died an Irishman'](https://www.bbc.co.uk/news/world-europe-56596117) - The Tinker, Tailor, Soldier, Spy author became an Irish citizen before his death, his son says.
 7. [Children dropped over US border wall](https://www.bbc.co.uk/news/world-us-canada-56603312) - Footage released by US authorities shows alleged smugglers dangling the children over a 14ft wall.
 8. [Covid: Europe's vaccine rollout 'unacceptably slow' - WHO](https://www.bbc.co.uk/news/world-europe-56600660) - The WHO says the situation in the wider Europe region is more worrying than it has been in several months.
-9. [Million students 'forgotten' in lack of uni return date](https://www.bbc.co.uk/news/education-56602531) - Million students still waiting for a university return date, with calls for it to be April not May.
-10. [Liberty Steel boss: Plants won't shut on my watch](https://www.bbc.co.uk/news/business-56595046) - Metal tycoon Sanjeev Gupta is racing to refinance his business after his financial backer collapsed.
+9. [Jennifer Arcuri: Conservative Party helped PM with inquiry legal bills](https://www.bbc.co.uk/news/uk-politics-56604436) - The Tories gave "support" to Boris Johnson in his battle against claims made about his time as London mayor.
+10. [Million students 'forgotten' in lack of uni return date](https://www.bbc.co.uk/news/education-56602531) - Million students still waiting for a university return date, with calls for it to be April not May.
 11. [Venice bans cruise ships from historic centre](https://www.bbc.co.uk/news/world-europe-56592109) - Critics argue the ships erode the city's foundations and cause flooding and pollution.
 12. [Scottish election 2021: Sturgeon says SNP 'not a divided party'](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56583062) - The nationalist leader rejects Alex Salmond's "super majority" aim and wants to achieve a "simple majority" at May's election.
 13. [April Fools' Day: 10 stories that look like pranks but aren't](https://www.bbc.co.uk/news/uk-56597184) - Our round-up of some of the stranger than fiction tales published this April Fools' Day.
@@ -31,7 +31,7 @@
 31. [Race report: What are the key points?](https://www.bbc.co.uk/news/uk-56595004) - 'Immigrant optimism' is praised while some anti-racist approaches face criticism by the commission.
 32. ['I have put everything into my winery'](https://www.bbc.co.uk/news/business-56574715) - South Africa's winemakers hope for a brighter future after a very tough 12 months.
 33. [Mozambique: Why IS is so hard to defeat in Mozambique](https://www.bbc.co.uk/news/world-africa-56597861) - The jihadists appear to be aiming to create their own self-declared "caliphate".
-34. [Yeovil Town captain Collins dies aged 32](https://www.bbc.co.uk/sport/football/56604703) - Yeovil Town captain Lee Collins dies at the age of 32.
+34. [Yeovil Town captain Collins dies aged 32](https://www.bbc.co.uk/sport/football/56604703) - Yeovil Town captain Lee Collins dies at the age of 32 leading to the club postponing Friday's game against Altrincham.
 35. [How Man City and Pep Guardiola are battling history to land an unprecedented quadruple](https://www.bbc.co.uk/sport/football/56591844) - There have been more than 100 previous attempts by 15 different English clubs to win the quadruple - will Manchester City become the first to do it?
 36. [Real captain Ramos out of Champions League ties against Liverpool](https://www.bbc.co.uk/sport/football/56604417) - Real Madrid captain Sergio Ramos is set to miss the Champions League quarter-final ties against Liverpool after suffering a calf injury.
 37. ['I fought 15 times in one day' - Usman Nurmagomedov hoping to follow in cousin Khabib's footsteps ](https://www.bbc.co.uk/sport/mixed-martial-arts/56584835) - Usman Nurmagomedov says he is hoping to "follow in the footsteps" of his cousin Khabib going into his Bellator debut on Friday, which will be shown live on BBC iPlayer.
