@@ -6,9 +6,9 @@
 6. [Bet365 boss earns £469m in a single year](https://www.bbc.co.uk/news/business-56594988) - Denise Coates earned more than the bosses of every FTSE 100 company combined last year.
 7. [Liberty Steel boss: Plants won't shut on my watch](https://www.bbc.co.uk/news/business-56595046) - Metal tycoon Sanjeev Gupta is racing to refinance his business after his financial backer collapsed.
 8. [Assisted dying inquiry essential, leading brain surgeon says](https://www.bbc.co.uk/news/uk-56597771) - A brain surgeon, left shocked and frightened by his cancer diagnosis, says the law needs changing.
-9. [Scottish election 2021: Sturgeon says SNP 'not a divided party'](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56583062) - The nationalist leader rejects Alex Salmond's "super majority" aim and wants to achieve a "simple majority" at May's election.
-10. [Minimum wage rises for two million workers](https://www.bbc.co.uk/news/business-56594985) - Most low-paid workers will receive a pay rise, but those on furlough will miss out.
-11. [Blue plaques for Princess Diana and five female trailblazers](https://www.bbc.co.uk/news/uk-england-london-56588095) - Six blue plaques for women have been announced by English Heritage to address the gender imbalance.
+9. [Venice bans cruise ships from historic centre](https://www.bbc.co.uk/news/world-europe-56592109) - Critics argue the ships erode the city's foundations and cause flooding and pollution.
+10. [Scottish election 2021: Sturgeon says SNP 'not a divided party'](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56583062) - The nationalist leader rejects Alex Salmond's "super majority" aim and wants to achieve a "simple majority" at May's election.
+11. [Minimum wage rises for two million workers](https://www.bbc.co.uk/news/business-56594985) - Most low-paid workers will receive a pay rise, but those on furlough will miss out.
 12. [Croydon stabbing: Man killed at vigil for knife victim](https://www.bbc.co.uk/news/uk-england-london-56595001) - Two men were arrested on suspicion of murder, though one later fled from a hospital, police say.
 13. [April Fools' Day: 10 stories that look like pranks but aren't](https://www.bbc.co.uk/news/uk-56597184) - Our round-up of some of the stranger than fiction tales published this April Fools' Day.
 14. [Captain Sir Tom Moore: Street artist creates Manchester mural](https://www.bbc.co.uk/news/uk-england-manchester-56601196) - The tribute has been painted in Manchester by Akse P19 in memory of the 100-year-old Army veteran.
