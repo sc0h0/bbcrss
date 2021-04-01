@@ -1,5 +1,5 @@
 1. [Met officer investigated over rape allegations](https://www.bbc.co.uk/news/uk-56581835) - The serving officer was not charged but faces a misconduct hearing over alleged attacks on colleagues.
-2. [PM's ethnic minority adviser Samuel Kasumu quits role](https://www.bbc.co.uk/news/uk-politics-56601166) - Downing Street sources reject suggestions Samuel Kasumu has quit over a report into race in the UK.
+2. [PM's ethnic minority adviser Samuel Kasumu quits role](https://www.bbc.co.uk/news/uk-politics-56601166) - Downing Street denies Samuel Kasumu's departure is linked to a report into race in the UK.
 3. [Long Covid: More than a million affected in February, survey suggests](https://www.bbc.co.uk/news/health-56601911) - Official statistics suggest one in five people experience ongoing symptoms five weeks after infection.
 4. [Covid: Europe's vaccine rollout 'unacceptably slow' - WHO](https://www.bbc.co.uk/news/world-europe-56600660) - The WHO says the situation in the wider Europe region is more worrying than it has been in several months.
 5. [Children dropped over US border wall](https://www.bbc.co.uk/news/world-us-canada-56603312) - Footage released by US authorities shows alleged smugglers dangling the children over a 14ft wall.
@@ -11,7 +11,7 @@
 11. [Blue plaque planned to commemorate Diana, Princess of Wales](https://www.bbc.co.uk/news/uk-england-london-56588095) - Six blue plaques for women have been announced by English Heritage to address the gender imbalance.
 12. [Croydon stabbing: Man killed at vigil for knife victim](https://www.bbc.co.uk/news/uk-england-london-56595001) - Two men were arrested on suspicion of murder, though one later fled from a hospital, police say.
 13. [April Fools' Day: 10 stories that look like pranks but aren't](https://www.bbc.co.uk/news/uk-56597184) - Our round-up of some of the stranger than fiction tales published this April Fools' Day.
-14. [Captain Sir Tom Moore: Street artist creates mural in Manchester](https://www.bbc.co.uk/news/uk-england-manchester-56601196) - The tribute has been painted in Manchester by Akse P19 in memory of the 100-year-old Army veteran.
+14. [Captain Sir Tom Moore: Street artist creates Manchester mural](https://www.bbc.co.uk/news/uk-england-manchester-56601196) - The tribute has been painted in Manchester by Akse P19 in memory of the 100-year-old Army veteran.
 15. [The Papers: Race report 'backlash' and Queen 'gets second jab'](https://www.bbc.co.uk/news/blogs-the-papers-56598201) - Reaction to a government-commissioned report on race and the Queen's vaccine dose are among the front-page stories.
 16. ['You can't tell victims what racism is'](https://www.bbc.co.uk/news/uk-56595883) - What do some young black, Asian and ethnic minority people make of the latest report on race in the UK?
 17. [Tackling sexual abuse in schools through the arts](https://www.bbc.co.uk/news/education-56597853) - The government has set up a helpline and an immediate review into sexual abuse in schools.
