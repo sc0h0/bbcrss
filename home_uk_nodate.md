@@ -1,14 +1,14 @@
-1. [Derek Chauvin trial: New footage shows George Floyd pleading with officers](https://www.bbc.co.uk/news/world-us-canada-56594099) - George Floyd can be heard telling officers, "I'm not a bad guy" in newly revealed bodycam footage.
+1. [Derek Chauvin trial: New footage shows George Floyd pleading with officers](https://www.bbc.co.uk/news/world-us-canada-56594099) - George Floyd can be heard telling officers, "I'm not a bad guy" in newly-revealed bodycam footage.
 2. [Covid-19: Few people with symptoms are self-isolating, study finds](https://www.bbc.co.uk/news/health-56598217) - And fewer than one in five people request a test if they have symptoms, a report on test and trace says.
-3. [Covid: France schools to close under third lockdown](https://www.bbc.co.uk/news/world-europe-56597319) - French schools will close for at least three weeks as part of new national restrictions.
-4. [Assisted dying inquiry essential, leading brain surgeon says](https://www.bbc.co.uk/news/uk-56597771) - A brain surgeon, left shocked and frightened by his cancer diagnosis, says the law needs changing.
+3. [Assisted dying inquiry essential, leading brain surgeon says](https://www.bbc.co.uk/news/uk-56597771) - A brain surgeon, left shocked and frightened by his cancer diagnosis, says the law needs changing.
+4. [Covid: France schools to close under third lockdown](https://www.bbc.co.uk/news/world-europe-56597319) - French schools will close for at least three weeks as part of new national restrictions.
 5. [Crime victims to be told when perpetrators leave prison](https://www.bbc.co.uk/news/uk-56599182) - A new code of rights will also enable victims of rape to choose their police interviewer's gender.
-6. [Vaccine passports against 'British instinct' - Starmer](https://www.bbc.co.uk/news/uk-politics-56598413) - The Labour leader says there could be opposition to vaccine passports if the virus is under control.
+6. [Covid vaccine manufacturers should work with poorer countries, says WTO chief](https://www.bbc.co.uk/news/business-56598612) - WTO head Dr Ngozi Okonjo-Iweala says the AstraZeneca deal with India is a good example.
 7. [Minimum wage rises for two million workers](https://www.bbc.co.uk/news/business-56594985) - Most low-paid workers will receive a pay rise, but those on furlough will miss out.
-8. [Biden unveils 'once in a generation' spending plan](https://www.bbc.co.uk/news/business-56594349) - The $2tn investment plan is aimed at re-igniting US economic growth and fighting climate change.
-9. [Lockdown: Are people losing skills they're not using?](https://www.bbc.co.uk/news/education-56592099) - Psychologists are studying whether people are losing skills because of lockdown.
-10. [Facebook bans 'voice of Trump' from platform](https://www.bbc.co.uk/news/world-us-canada-56598862) - An interview with the ex-president was posted by his daughter-in-law, Lara Trump, on Facebook.
-11. [Schools abuse helpline and safeguarding review launched](https://www.bbc.co.uk/news/education-56588166) - They have been set up by the government in response to thousands of allegations from students.
+8. [Vaccine passports against 'British instinct' - Starmer](https://www.bbc.co.uk/news/uk-politics-56598413) - The Labour leader says there could be opposition to vaccine passports if the virus is under control.
+9. [Biden unveils 'once in a generation' spending plan](https://www.bbc.co.uk/news/business-56594349) - The $2tn investment plan is aimed at re-igniting US economic growth and fighting climate change.
+10. [Lockdown: Are people losing skills they're not using?](https://www.bbc.co.uk/news/education-56592099) - Psychologists are studying whether people are losing skills because of lockdown.
+11. [Facebook bans 'voice of Trump' from platform](https://www.bbc.co.uk/news/world-us-canada-56598862) - An interview with the ex-president was posted by his daughter-in-law, Lara Trump, on Facebook.
 12. [Tiger Woods crash: Los Angeles police determine the cause of golfer's car accident](https://www.bbc.co.uk/sport/golf/56598503) - The details of what caused Tiger Woods' car crash will only be released if the 15-time major winner gives permission for police to share their findings.
 13. [The Papers: Race report 'backlash' and Queen 'gets second jab'](https://www.bbc.co.uk/news/blogs-the-papers-56598201) - Reaction to a government-commissioned report on race and the Queen's vaccine dose are among the front-page stories.
 14. ['You can't tell victims what racism is'](https://www.bbc.co.uk/news/uk-56595883) - What do some young black, Asian and ethnic minority people make of the latest report on race in the UK?
@@ -50,6 +50,7 @@
 50. [Covid: The inside story of the government's battle against the virus](https://www.bbc.co.uk/news/uk-politics-56361599) - Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.
 51. [Covid: The countries that nailed it, and what we can learn from them](https://www.bbc.co.uk/news/uk-56455030) - A year into the pandemic, we look at countries that have had some success in tackling the virus.
 52. [Coronavirus: Your tributes to those who have died](https://www.bbc.co.uk/news/uk-52676411) - A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.
-53. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
-54. [Naga Munchetty: It’s time to talk about race](https://www.bbc.co.uk/news/stories-56253480) - Naga Munchetty travelled across the UK to understand what race and racism means today.
-55. [The vaccine misinformation battle raging in France](https://www.bbc.co.uk/news/blogs-trending-56526265) - Online conspiracy theories are exacerbating existing vaccine scepticism.
+53. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 30 million people receive at least one dose.
+54. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
+55. [Naga Munchetty: It’s time to talk about race](https://www.bbc.co.uk/news/stories-56253480) - Naga Munchetty travelled across the UK to understand what race and racism means today.
+56. [The vaccine misinformation battle raging in France](https://www.bbc.co.uk/news/blogs-trending-56526265) - Online conspiracy theories are exacerbating existing vaccine scepticism.

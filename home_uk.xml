@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Apr 2021 03:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 04:32:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Derek Chauvin trial: New footage shows George Floyd pleading with officers]]></title>
-            <description><![CDATA[George Floyd can be heard telling officers, "I'm not a bad guy" in newly revealed bodycam footage.]]></description>
+            <description><![CDATA[George Floyd can be heard telling officers, "I'm not a bad guy" in newly-revealed bodycam footage.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56594099</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56594099</guid>
-            <pubDate>Wed, 31 Mar 2021 22:23:48 GMT</pubDate>
+            <pubDate>Thu, 01 Apr 2021 04:25:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Few people with symptoms are self-isolating, study finds]]></title>
@@ -30,18 +30,18 @@
             <pubDate>Thu, 01 Apr 2021 01:20:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: France schools to close under third lockdown]]></title>
-            <description><![CDATA[French schools will close for at least three weeks as part of new national restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56597319</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56597319</guid>
-            <pubDate>Wed, 31 Mar 2021 19:52:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Assisted dying inquiry essential, leading brain surgeon says]]></title>
             <description><![CDATA[A brain surgeon, left shocked and frightened by his cancer diagnosis, says the law needs changing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56597771</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56597771</guid>
             <pubDate>Thu, 01 Apr 2021 00:41:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: France schools to close under third lockdown]]></title>
+            <description><![CDATA[French schools will close for at least three weeks as part of new national restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56597319</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56597319</guid>
+            <pubDate>Wed, 31 Mar 2021 19:52:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Crime victims to be told when perpetrators leave prison]]></title>
@@ -51,11 +51,11 @@
             <pubDate>Thu, 01 Apr 2021 03:22:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vaccine passports against 'British instinct' - Starmer]]></title>
-            <description><![CDATA[The Labour leader says there could be opposition to vaccine passports if the virus is under control.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56598413</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56598413</guid>
-            <pubDate>Thu, 01 Apr 2021 00:02:35 GMT</pubDate>
+            <title><![CDATA[Covid vaccine manufacturers should work with poorer countries, says WTO chief]]></title>
+            <description><![CDATA[WTO head Dr Ngozi Okonjo-Iweala says the AstraZeneca deal with India is a good example.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56598612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56598612</guid>
+            <pubDate>Thu, 01 Apr 2021 04:16:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Minimum wage rises for two million workers]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/business-56594985</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56594985</guid>
             <pubDate>Wed, 31 Mar 2021 23:02:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vaccine passports against 'British instinct' - Starmer]]></title>
+            <description><![CDATA[The Labour leader says there could be opposition to vaccine passports if the virus is under control.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56598413</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56598413</guid>
+            <pubDate>Thu, 01 Apr 2021 00:02:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biden unveils 'once in a generation' spending plan]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56598862</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56598862</guid>
             <pubDate>Thu, 01 Apr 2021 01:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schools abuse helpline and safeguarding review launched]]></title>
-            <description><![CDATA[They have been set up by the government in response to thousands of allegations from students.]]></description>
-            <link>https://www.bbc.co.uk/news/education-56588166</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56588166</guid>
-            <pubDate>Wed, 31 Mar 2021 19:44:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tiger Woods crash: Los Angeles police determine the cause of golfer's car accident]]></title>
@@ -378,6 +378,13 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 30 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Tue, 30 Mar 2021 16:34:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
