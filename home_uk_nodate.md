@@ -1,6 +1,6 @@
-1. [Met officer investigated over rape allegations](https://www.bbc.co.uk/news/uk-56581835) - The serving officer was not charged but faces a misconduct hearing over alleged attacks on colleagues.
-2. [PM's ethnic minority adviser Samuel Kasumu quits role](https://www.bbc.co.uk/news/uk-politics-56601166) - Downing Street denies Samuel Kasumu's departure is linked to a report into race in the UK.
-3. [Long Covid: More than a million affected in February, survey suggests](https://www.bbc.co.uk/news/health-56601911) - Official statistics suggest one in five people experience ongoing symptoms five weeks after infection.
+1. [PM's ethnic minority adviser Samuel Kasumu quits role](https://www.bbc.co.uk/news/uk-politics-56601166) - Downing Street denies Samuel Kasumu's departure is linked to a report into race in the UK.
+2. [Long Covid: More than a million affected in February, survey suggests](https://www.bbc.co.uk/news/health-56601911) - Official statistics suggest one in five people experience ongoing symptoms five weeks after infection.
+3. [Met officer investigated over rape allegations](https://www.bbc.co.uk/news/uk-56581835) - The serving officer was not charged but faces a misconduct hearing over alleged attacks on colleagues.
 4. [Covid: Europe's vaccine rollout 'unacceptably slow' - WHO](https://www.bbc.co.uk/news/world-europe-56600660) - The WHO says the situation in the wider Europe region is more worrying than it has been in several months.
 5. [Children dropped over US border wall](https://www.bbc.co.uk/news/world-us-canada-56603312) - Footage released by US authorities shows alleged smugglers dangling the children over a 14ft wall.
 6. [Bet365 boss earns £469m in a single year](https://www.bbc.co.uk/news/business-56594988) - Denise Coates earned more than the bosses of every FTSE 100 company combined last year.
@@ -8,7 +8,7 @@
 8. [Assisted dying inquiry essential, leading brain surgeon says](https://www.bbc.co.uk/news/uk-56597771) - A brain surgeon, left shocked and frightened by his cancer diagnosis, says the law needs changing.
 9. [Scottish election 2021: Sturgeon says SNP 'not a divided party'](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56583062) - The nationalist leader rejects Alex Salmond's "super majority" aim and wants to achieve a "simple majority" at May's election.
 10. [Minimum wage rises for two million workers](https://www.bbc.co.uk/news/business-56594985) - Most low-paid workers will receive a pay rise, but those on furlough will miss out.
-11. [Blue plaque planned to commemorate Diana, Princess of Wales](https://www.bbc.co.uk/news/uk-england-london-56588095) - Six blue plaques for women have been announced by English Heritage to address the gender imbalance.
+11. [Blue plaques for Princess Diana and five female trailblazers](https://www.bbc.co.uk/news/uk-england-london-56588095) - Six blue plaques for women have been announced by English Heritage to address the gender imbalance.
 12. [Croydon stabbing: Man killed at vigil for knife victim](https://www.bbc.co.uk/news/uk-england-london-56595001) - Two men were arrested on suspicion of murder, though one later fled from a hospital, police say.
 13. [April Fools' Day: 10 stories that look like pranks but aren't](https://www.bbc.co.uk/news/uk-56597184) - Our round-up of some of the stranger than fiction tales published this April Fools' Day.
 14. [Captain Sir Tom Moore: Street artist creates Manchester mural](https://www.bbc.co.uk/news/uk-england-manchester-56601196) - The tribute has been painted in Manchester by Akse P19 in memory of the 100-year-old Army veteran.
@@ -55,9 +55,8 @@
 55. [Covid: The inside story of the government's battle against the virus](https://www.bbc.co.uk/news/uk-politics-56361599) - Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.
 56. [Covid: The countries that nailed it, and what we can learn from them](https://www.bbc.co.uk/news/uk-56455030) - A year into the pandemic, we look at countries that have had some success in tackling the virus.
 57. [Coronavirus: Your tributes to those who have died](https://www.bbc.co.uk/news/uk-52676411) - A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.
-58. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 30 million people receive at least one dose.
-59. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
-60. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
-61. [Letterbox contact: ‘Don’t my birth children have a right to know I’m dying?'](https://www.bbc.co.uk/news/stories-56576285) - Diagnosed with a terminal illness, Hanna wanted to tell the twins taken from her at 16 - but had no way of reaching them.
-62. [Naga Munchetty: It’s time to talk about race](https://www.bbc.co.uk/news/stories-56253480) - Naga Munchetty travelled across the UK to understand what race and racism means today.
-63. [The vaccine misinformation battle raging in France](https://www.bbc.co.uk/news/blogs-trending-56526265) - Online conspiracy theories are exacerbating existing vaccine scepticism.
+58. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
+59. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
+60. [Letterbox contact: ‘Don’t my birth children have a right to know I’m dying?'](https://www.bbc.co.uk/news/stories-56576285) - Diagnosed with a terminal illness, Hanna wanted to tell the twins taken from her at 16 - but had no way of reaching them.
+61. [Naga Munchetty: It’s time to talk about race](https://www.bbc.co.uk/news/stories-56253480) - Naga Munchetty travelled across the UK to understand what race and racism means today.
+62. [The vaccine misinformation battle raging in France](https://www.bbc.co.uk/news/blogs-trending-56526265) - Online conspiracy theories are exacerbating existing vaccine scepticism.

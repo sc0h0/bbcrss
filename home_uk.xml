@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Apr 2021 10:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 11:20:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Met officer investigated over rape allegations]]></title>
-            <description><![CDATA[The serving officer was not charged but faces a misconduct hearing over alleged attacks on colleagues.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56581835</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56581835</guid>
-            <pubDate>Thu, 01 Apr 2021 05:04:23 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[PM's ethnic minority adviser Samuel Kasumu quits role]]></title>
             <description><![CDATA[Downing Street denies Samuel Kasumu's departure is linked to a report into race in the UK.]]></description>
@@ -34,7 +27,14 @@
             <description><![CDATA[Official statistics suggest one in five people experience ongoing symptoms five weeks after infection.]]></description>
             <link>https://www.bbc.co.uk/news/health-56601911</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56601911</guid>
-            <pubDate>Thu, 01 Apr 2021 10:38:11 GMT</pubDate>
+            <pubDate>Thu, 01 Apr 2021 11:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Met officer investigated over rape allegations]]></title>
+            <description><![CDATA[The serving officer was not charged but faces a misconduct hearing over alleged attacks on colleagues.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56581835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56581835</guid>
+            <pubDate>Thu, 01 Apr 2021 05:04:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Europe's vaccine rollout 'unacceptably slow' - WHO]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Thu, 01 Apr 2021 10:06:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blue plaque planned to commemorate Diana, Princess of Wales]]></title>
+            <title><![CDATA[Blue plaques for Princess Diana and five female trailblazers]]></title>
             <description><![CDATA[Six blue plaques for women have been announced by English Heritage to address the gender imbalance.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56588095</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56588095</guid>
-            <pubDate>Thu, 01 Apr 2021 05:22:30 GMT</pubDate>
+            <pubDate>Thu, 01 Apr 2021 11:19:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Croydon stabbing: Man killed at vigil for knife victim]]></title>
@@ -104,7 +104,7 @@
             <description><![CDATA[Our round-up of some of the stranger than fiction tales published this April Fools' Day.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56597184</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56597184</guid>
-            <pubDate>Thu, 01 Apr 2021 08:33:46 GMT</pubDate>
+            <pubDate>Thu, 01 Apr 2021 11:17:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Captain Sir Tom Moore: Street artist creates Manchester mural]]></title>
@@ -413,13 +413,6 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 30 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Tue, 30 Mar 2021 16:34:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
