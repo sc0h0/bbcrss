@@ -2,7 +2,7 @@
 2. [Covid-19: Few people with symptoms are self-isolating, study finds](https://www.bbc.co.uk/news/health-56598217) - And fewer than one in five people request a test if they have symptoms, a report on test and trace says.
 3. [Covid: France schools to close under third lockdown](https://www.bbc.co.uk/news/world-europe-56597319) - French schools will close for at least three weeks as part of new national restrictions.
 4. [Assisted dying inquiry essential, leading brain surgeon says](https://www.bbc.co.uk/news/uk-56597771) - A brain surgeon, left shocked and frightened by his cancer diagnosis, says the law needs changing.
-5. [Crime victims to be told when perpetrators leave prison](https://www.bbc.co.uk/news/uk-56599182) - A new code of rights will also enable rape and sexual assault victims to choose their police interviewer's gender.
+5. [Crime victims to be told when perpetrators leave prison](https://www.bbc.co.uk/news/uk-56599182) - A new code of rights will also enable victims of rape to choose their police interviewer's gender.
 6. [Vaccine passports against 'British instinct' - Starmer](https://www.bbc.co.uk/news/uk-politics-56598413) - The Labour leader says there could be opposition to vaccine passports if the virus is under control.
 7. [Minimum wage rises for two million workers](https://www.bbc.co.uk/news/business-56594985) - Most low-paid workers will receive a pay rise, but those on furlough will miss out.
 8. [Biden unveils 'once in a generation' spending plan](https://www.bbc.co.uk/news/business-56594349) - The $2tn investment plan is aimed at re-igniting US economic growth and fighting climate change.
