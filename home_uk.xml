@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Apr 2021 07:51:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 08:14:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Thu, 01 Apr 2021 01:20:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PM's ethnic minority adviser Samuel Kasumu quits role]]></title>
+            <description><![CDATA[Downing Street sources reject suggestions Samuel Kasumu has quit over a report into race in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56601166</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56601166</guid>
+            <pubDate>Thu, 01 Apr 2021 08:06:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Derek Chauvin trial: New footage shows George Floyd pleading with officers]]></title>
             <description><![CDATA[George Floyd can be heard telling officers, "I'm not a bad guy" in newly-revealed bodycam footage.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56594099</link>
@@ -37,18 +44,18 @@
             <pubDate>Thu, 01 Apr 2021 04:25:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Crime victims to be told when perpetrators leave prison]]></title>
-            <description><![CDATA[A new code of rights will also enable victims of rape to choose their police interviewer's gender.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56599182</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56599182</guid>
-            <pubDate>Thu, 01 Apr 2021 03:22:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Blue plaque planned to commemorate Diana, Princess of Wales]]></title>
             <description><![CDATA[Six blue plaques for women have been announced by English Heritage to address the gender imbalance.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56588095</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56588095</guid>
             <pubDate>Thu, 01 Apr 2021 05:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gupta: Liberty Steel plants won't shut on my watch']]></title>
+            <description><![CDATA[Liberty Steel owner Sanjeev Gupta is racing to refinance after his financial backer collapsed.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56595046</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56595046</guid>
+            <pubDate>Thu, 01 Apr 2021 07:59:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Few with symptoms self-isolating, and AstraZeneca vaccine blood clot risks]]></title>
@@ -70,20 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-56595001</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56595001</guid>
             <pubDate>Thu, 01 Apr 2021 07:04:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gupta: Liberty Steel plants won't shut on my watch']]></title>
-            <description><![CDATA[Liberty Steel owner Sanjeev Gupta is racing to refinance after his financial backer collapsed.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56595046</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56595046</guid>
-            <pubDate>Thu, 01 Apr 2021 07:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Runway dining at $540 a meal proving hit in Japan]]></title>
-            <description><![CDATA[Japan's biggest airline is making the most of grounded planes while Australian carriers are cutting prices.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56598932</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56598932</guid>
-            <pubDate>Thu, 01 Apr 2021 03:36:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Facebook bans 'voice of Trump' from platform]]></title>
@@ -112,6 +105,20 @@
             <link>https://www.bbc.co.uk/news/uk-56595883</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56595883</guid>
             <pubDate>Wed, 31 Mar 2021 19:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Runway dining at $540 a meal proving hit in Japan]]></title>
+            <description><![CDATA[Japan's biggest airline is making the most of grounded planes while Australian carriers are cutting prices.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56598932</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56598932</guid>
+            <pubDate>Thu, 01 Apr 2021 03:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown: Are people losing skills they're not using?]]></title>
+            <description><![CDATA[Psychologists are studying whether people are losing skills because of lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/education-56592099</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56592099</guid>
+            <pubDate>Wed, 31 Mar 2021 23:13:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photographer's exhibition inspired by Birmingham prison inmates]]></title>
@@ -147,13 +154,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56581400</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56581400</guid>
             <pubDate>Wed, 31 Mar 2021 23:05:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lockdown: Are people losing skills they're not using?]]></title>
-            <description><![CDATA[Psychologists are studying whether people are losing skills because of lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/education-56592099</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56592099</guid>
-            <pubDate>Wed, 31 Mar 2021 23:13:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid 19: Inside the BioNTech vaccine factory in Germany]]></title>
@@ -268,11 +268,11 @@
             <pubDate>Thu, 01 Apr 2021 05:38:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Northern Ireland need to relax in front of goal' - Baraclough on Bulgaria stalemate]]></title>
-            <description><![CDATA[Northern Ireland manager Ian Baraclough says his players need to relax in front of goal after a 0-0 draw against Bulgaria in World Cup qualifying.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56598282</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56598282</guid>
-            <pubDate>Wed, 31 Mar 2021 21:38:51 GMT</pubDate>
+            <title><![CDATA[NBA: Andre Drummond injured on debut as LA Lakers lose to Milwaukee Bucks]]></title>
+            <description><![CDATA[Andre Drummond is injured on his debut as the Los Angeles Lakers lose to the Milwaukee Bucks, who end a three-game losing run.]]></description>
+            <link>https://www.bbc.co.uk/sport/basketball/56599927</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/basketball/56599927</guid>
+            <pubDate>Thu, 01 Apr 2021 07:22:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
@@ -378,6 +378,13 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 30 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Tue, 30 Mar 2021 16:34:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
