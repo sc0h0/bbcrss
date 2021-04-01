@@ -2,12 +2,12 @@
 2. [PM's ethnic minority adviser Samuel Kasumu quits role](https://www.bbc.co.uk/news/uk-politics-56601166) - Downing Street sources reject suggestions Samuel Kasumu has quit over a report into race in the UK.
 3. [Covid-19: Few people with symptoms are self-isolating, study finds](https://www.bbc.co.uk/news/health-56598217) - And fewer than one in five people request a test if they have symptoms, a report on test-and-trace says.
 4. [Assisted dying inquiry essential, leading brain surgeon says](https://www.bbc.co.uk/news/uk-56597771) - A brain surgeon, left shocked and frightened by his cancer diagnosis, says the law needs changing.
-5. [Blue plaque planned to commemorate Diana, Princess of Wales](https://www.bbc.co.uk/news/uk-england-london-56588095) - Six blue plaques for women have been announced by English Heritage to address the gender imbalance.
+5. [Bet365 boss earns £469m in a single year](https://www.bbc.co.uk/news/business-56594988) - Denise Coates earned more than the bosses of every FTSE 100 company combined last year.
 6. [Gupta: Liberty Steel plants won't shut on my watch'](https://www.bbc.co.uk/news/business-56595046) - Liberty Steel owner Sanjeev Gupta is racing to refinance after his financial backer collapsed.
 7. [Derek Chauvin trial: New footage shows George Floyd pleading with officers](https://www.bbc.co.uk/news/world-us-canada-56594099) - George Floyd can be heard telling officers, "I'm not a bad guy" in newly-revealed bodycam footage.
-8. [Covid: Few with symptoms self-isolating, and AstraZeneca vaccine blood clot risks](https://www.bbc.co.uk/news/uk-56586168) - Five things you need to know about the coronavirus pandemic this Thursday morning.
-9. [Minimum wage rises for two million workers](https://www.bbc.co.uk/news/business-56594985) - Most low-paid workers will receive a pay rise, but those on furlough will miss out.
-10. [Covid: Hundreds gather for Manchester illegal rave](https://www.bbc.co.uk/news/uk-england-manchester-56544387) - People who attended the party at an outdoor arena are "letting Manchester down", a councillor says.
+8. [Blue plaque planned to commemorate Diana, Princess of Wales](https://www.bbc.co.uk/news/uk-england-london-56588095) - Six blue plaques for women have been announced by English Heritage to address the gender imbalance.
+9. [Covid: Few with symptoms self-isolating, and AstraZeneca vaccine blood clot risks](https://www.bbc.co.uk/news/uk-56586168) - Five things you need to know about the coronavirus pandemic this Thursday morning.
+10. [Minimum wage rises for two million workers](https://www.bbc.co.uk/news/business-56594985) - Most low-paid workers will receive a pay rise, but those on furlough will miss out.
 11. [Croydon stabbing: Man killed at vigil for knife victim](https://www.bbc.co.uk/news/uk-england-london-56595001) - Two men were arrested on suspicion of murder, though one later fled from a hospital, police say.
 12. [April Fools' Day: 10 stories that look like pranks but aren't](https://www.bbc.co.uk/news/uk-56597184) - Our round-up of some of the stranger than fiction tales published this April Fools' Day.
 13. [The Papers: Race report 'backlash' and Queen 'gets second jab'](https://www.bbc.co.uk/news/blogs-the-papers-56598201) - Reaction to a government-commissioned report on race and the Queen's vaccine dose are among the front-page stories.
@@ -47,7 +47,7 @@
 47. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are urged to book their Covid vaccine in the next few days.
 48. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 49. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - Anyone in England who travels abroad without good reason will soon face a £5000 fine.
-50. [What are the rules for weddings and when can I hold a reception?](https://www.bbc.co.uk/news/explainers-52811509) - Wedding ceremonies are still restricted across the UK, but there are plans to ease the rules.
+50. [What are the rules for weddings and when can I hold a reception?](https://www.bbc.co.uk/news/explainers-52811509) - Wedding ceremonies are still restricted across the UK, but the rules are easing.
 51. [Unemployment rate: How many people are out of work?](https://www.bbc.co.uk/news/business-52660591) - The unemployment rate is rising as Covid hits different parts of the economy.
 52. [Covid: The inside story of the government's battle against the virus](https://www.bbc.co.uk/news/uk-politics-56361599) - Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.
 53. [Covid: The countries that nailed it, and what we can learn from them](https://www.bbc.co.uk/news/uk-56455030) - A year into the pandemic, we look at countries that have had some success in tackling the virus.
