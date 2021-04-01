@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Apr 2021 20:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 22:48:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Met PC found guilty of neo-Nazi group membership]]></title>
-            <description><![CDATA[Benjamin Hannam is the first British officer to be convicted of a terrorism offence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56604470</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56604470</guid>
-            <pubDate>Thu, 01 Apr 2021 14:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derek Chauvin trial: George Floyd's girlfriend tells of first kiss and addiction]]></title>
-            <description><![CDATA[Courteney Ross gives emotional testimony during the fourth day of Derek Chauvin's murder trial.]]></description>
+            <title><![CDATA[Derek Chauvin trial: Paramedics say Floyd had no pulse when they arrived]]></title>
+            <description><![CDATA[Moving testimony at the trial of ex-policeman Derek Chauvin charged with killing George Floyd.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56606418</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56606418</guid>
-            <pubDate>Thu, 01 Apr 2021 20:10:13 GMT</pubDate>
+            <pubDate>Thu, 01 Apr 2021 22:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evidence suggests Ethiopian military carried out massacre in Tigray]]></title>
+            <description><![CDATA[A BBC Africa Eye investigation suggests the Ethiopian military was behind a massacre in Tigray.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56603022</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56603022</guid>
+            <pubDate>Thu, 01 Apr 2021 21:14:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belgium police break up fake festival started as April Fools' joke]]></title>
@@ -35,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56606420</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56606420</guid>
             <pubDate>Thu, 01 Apr 2021 20:35:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: More than a million 'had long Covid in February', and artist's Captain Tom mural]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56608759</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56608759</guid>
-            <pubDate>Thu, 01 Apr 2021 17:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mozambique: Family of British man missing after Palma attack say body found]]></title>
@@ -58,18 +51,25 @@
             <pubDate>Thu, 01 Apr 2021 19:54:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lorraine Cox: Man followed and murdered woman on night out]]></title>
-            <description><![CDATA[Azam Mangori, 24, is found guilty of Lorraine Cox's "deeply disturbing" murder.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-56569863</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56569863</guid>
-            <pubDate>Thu, 01 Apr 2021 15:47:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pfizer jab 'stopping 91% of cases in first six months']]></title>
             <description><![CDATA[And another study shows even 96-year-olds are producing an impressive immune response.]]></description>
             <link>https://www.bbc.co.uk/news/health-56011982</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56011982</guid>
             <pubDate>Thu, 01 Apr 2021 13:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Met PC found guilty of neo-Nazi group membership]]></title>
+            <description><![CDATA[Benjamin Hannam is the first British officer to be convicted of a terrorism offence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56604470</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56604470</guid>
+            <pubDate>Thu, 01 Apr 2021 14:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lorraine Cox: Man followed and murdered woman on night out]]></title>
+            <description><![CDATA[Azam Mangori, 24, is found guilty of Lorraine Cox's "deeply disturbing" murder.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-56569863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56569863</guid>
+            <pubDate>Thu, 01 Apr 2021 15:47:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[French government condemns reality TV 'virginity test']]></title>
@@ -289,18 +289,18 @@
             <pubDate>Thu, 01 Apr 2021 15:51:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Real captain Ramos out of Champions League ties against Liverpool]]></title>
-            <description><![CDATA[Real Madrid captain Sergio Ramos is set to miss the Champions League quarter-final ties against Liverpool after suffering a calf injury.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56604417</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56604417</guid>
-            <pubDate>Thu, 01 Apr 2021 13:05:36 GMT</pubDate>
+            <title><![CDATA['I don't want to mess about' - Allardyce on future if West Brom are relegated]]></title>
+            <description><![CDATA[West Brom manager Sam Allardyce does not want to "mess about" if the club are relegated from the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56610132</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56610132</guid>
+            <pubDate>Thu, 01 Apr 2021 21:31:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Interest in Women's Six Nations is growing and change is happening']]></title>
-            <description><![CDATA[In her first BBC Sport column of the 2021 Women's Six Nations, England prop Shaunagh Brown talks about the growth of the sport, Grand Slams and jigsaws.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56605580</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56605580</guid>
-            <pubDate>Thu, 01 Apr 2021 15:13:38 GMT</pubDate>
+            <title><![CDATA[Collins to have endometriosis surgery as in 'too much agony']]></title>
+            <description><![CDATA[American world number 40 Danielle Collins will have surgery for endometriosis because it is causing her "too much physical agony".]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/56611116</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56611116</guid>
+            <pubDate>Thu, 01 Apr 2021 21:46:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
