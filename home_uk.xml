@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Apr 2021 06:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 06:39:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,7 +24,7 @@
         </item>
         <item>
             <title><![CDATA[Covid-19: Few people with symptoms are self-isolating, study finds]]></title>
-            <description><![CDATA[And fewer than one in five people request a test if they have symptoms, a report on test and trace says.]]></description>
+            <description><![CDATA[And fewer than one in five people request a test if they have symptoms, a report on test-and-trace says.]]></description>
             <link>https://www.bbc.co.uk/news/health-56598217</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56598217</guid>
             <pubDate>Thu, 01 Apr 2021 01:20:37 GMT</pubDate>
@@ -51,6 +51,13 @@
             <pubDate>Thu, 01 Apr 2021 05:22:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Few with symptoms self-isolating, and AstraZeneca vaccine blood clot risks]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56586168</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56586168</guid>
+            <pubDate>Thu, 01 Apr 2021 06:24:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Assisted dying inquiry essential, leading brain surgeon says]]></title>
             <description><![CDATA[A brain surgeon, left shocked and frightened by his cancer diagnosis, says the law needs changing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56597771</link>
@@ -65,13 +72,6 @@
             <pubDate>Thu, 01 Apr 2021 05:01:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid vaccine manufacturers should work with poorer countries, says WTO chief]]></title>
-            <description><![CDATA[WTO head Dr Ngozi Okonjo-Iweala says the AstraZeneca deal with India is a good example.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56598612</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56598612</guid>
-            <pubDate>Thu, 01 Apr 2021 04:16:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Minimum wage rises for two million workers]]></title>
             <description><![CDATA[Most low-paid workers will receive a pay rise, but those on furlough will miss out.]]></description>
             <link>https://www.bbc.co.uk/news/business-56594985</link>
@@ -79,18 +79,18 @@
             <pubDate>Wed, 31 Mar 2021 23:02:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook bans 'voice of Trump' from platform]]></title>
-            <description><![CDATA[An interview with the ex-president was posted by his daughter-in-law, Lara Trump, on Facebook.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56598862</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56598862</guid>
-            <pubDate>Thu, 01 Apr 2021 01:25:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Runway dining at $540 a meal proving hit in Japan]]></title>
             <description><![CDATA[Japan's biggest airline is making the most of grounded planes while Australian carriers are cutting prices.]]></description>
             <link>https://www.bbc.co.uk/news/business-56598932</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56598932</guid>
             <pubDate>Thu, 01 Apr 2021 03:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook bans 'voice of Trump' from platform]]></title>
+            <description><![CDATA[An interview with the ex-president was posted by his daughter-in-law, Lara Trump, on Facebook.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56598862</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56598862</guid>
+            <pubDate>Thu, 01 Apr 2021 01:25:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tiger Woods crash: Los Angeles police determine the cause of golfer's car accident]]></title>
@@ -314,7 +314,7 @@
             <description><![CDATA[Hospitality venues are set to gradually open up in the spring as lockdown eases across the UK.]]></description>
             <link>https://www.bbc.co.uk/news/business-52977388</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
-            <pubDate>Tue, 30 Mar 2021 13:28:11 GMT</pubDate>
+            <pubDate>Thu, 01 Apr 2021 06:37:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the rule of six and what are the social distancing rules?]]></title>
