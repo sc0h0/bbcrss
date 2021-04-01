@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Apr 2021 13:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 14:14:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,21 @@
             <description><![CDATA[Benjamin Hannam is the first British officer to be convicted of a terrorism offence.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56604470</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56604470</guid>
-            <pubDate>Thu, 01 Apr 2021 13:19:51 GMT</pubDate>
+            <pubDate>Thu, 01 Apr 2021 14:13:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pfizer jab 'stopping 91% of cases in first six months']]></title>
+            <description><![CDATA[And another study shows even 96-year-olds are producing an impressive immune response.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56011982</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56011982</guid>
+            <pubDate>Thu, 01 Apr 2021 13:38:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long Covid: More than a million affected in February, survey suggests]]></title>
             <description><![CDATA[Official statistics suggest one in five people experience ongoing symptoms five weeks after infection.]]></description>
             <link>https://www.bbc.co.uk/news/health-56601911</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56601911</guid>
-            <pubDate>Thu, 01 Apr 2021 13:30:19 GMT</pubDate>
+            <pubDate>Thu, 01 Apr 2021 13:56:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Samuel Kasumu: PM's adviser quits amid row over race report]]></title>
@@ -38,7 +45,7 @@
         </item>
         <item>
             <title><![CDATA[Myanmar coup: More than 40 children killed by military, rights group says]]></title>
-            <description><![CDATA[Save the Children tells of a "nightmare situation", with the youngest victim just seven years old.]]></description>
+            <description><![CDATA[Save the Children tells of a "nightmare situation", with the youngest victim just six years old.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56600292</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56600292</guid>
             <pubDate>Thu, 01 Apr 2021 11:55:44 GMT</pubDate>
@@ -51,25 +58,25 @@
             <pubDate>Thu, 01 Apr 2021 12:47:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[John le Carré: Spy novelist 'died an Irishman']]></title>
-            <description><![CDATA[The Tinker, Tailor, Soldier, Spy author became an Irish citizen before his death, his son says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56596117</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56596117</guid>
-            <pubDate>Thu, 01 Apr 2021 13:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Children dropped over US border wall]]></title>
-            <description><![CDATA[Footage released by US authorities shows alleged smugglers dangling the children over a 14ft wall.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56603312</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56603312</guid>
-            <pubDate>Thu, 01 Apr 2021 10:19:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Europe's vaccine rollout 'unacceptably slow' - WHO]]></title>
             <description><![CDATA[The WHO says the situation in the wider Europe region is more worrying than it has been in several months.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56600660</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56600660</guid>
             <pubDate>Thu, 01 Apr 2021 12:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burgess Hill crash: Car ploughs into house after smashing into lamp-post]]></title>
+            <description><![CDATA[A woman is held on suspicion of drink-driving and criminal damage after the crash in West Sussex.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-56602502</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-56602502</guid>
+            <pubDate>Thu, 01 Apr 2021 10:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John le Carré: Spy novelist 'died an Irishman']]></title>
+            <description><![CDATA[The Tinker, Tailor, Soldier, Spy author became an Irish citizen before his death, his son says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56596117</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56596117</guid>
+            <pubDate>Thu, 01 Apr 2021 13:03:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jennifer Arcuri: Conservative Party helped PM with inquiry legal bills]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Thu, 01 Apr 2021 10:28:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish election 2021: Sturgeon says SNP 'not a divided party']]></title>
-            <description><![CDATA[The nationalist leader rejects Alex Salmond's "super majority" aim and wants to achieve a "simple majority" at May's election.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56583062</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56583062</guid>
-            <pubDate>Thu, 01 Apr 2021 10:23:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[April Fools' Day: 10 stories that look like pranks but aren't]]></title>
             <description><![CDATA[Our round-up of some of the stranger than fiction tales published this April Fools' Day.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56597184</link>
@@ -119,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56604486</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56604486</guid>
             <pubDate>Thu, 01 Apr 2021 12:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Children dropped over US border wall]]></title>
+            <description><![CDATA[Footage released by US authorities shows alleged smugglers dangling the children over a 14ft wall.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56603312</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56603312</guid>
+            <pubDate>Thu, 01 Apr 2021 10:19:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['You can't tell victims what racism is']]></title>
@@ -248,7 +255,7 @@
         </item>
         <item>
             <title><![CDATA[Yeovil Town captain Collins dies aged 32]]></title>
-            <description><![CDATA[Yeovil Town captain Lee Collins dies at the age of 32 leading to the club postponing Friday's game against Altrincham.]]></description>
+            <description><![CDATA[Lee Collins, defender and captain of National League club Yeovil Town, dies at the age of 32.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56604703</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56604703</guid>
             <pubDate>Thu, 01 Apr 2021 13:42:13 GMT</pubDate>
@@ -399,6 +406,13 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 30 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Tue, 30 Mar 2021 16:34:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
