@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Apr 2021 14:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 14:36:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,13 +58,6 @@
             <pubDate>Thu, 01 Apr 2021 12:47:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Europe's vaccine rollout 'unacceptably slow' - WHO]]></title>
-            <description><![CDATA[The WHO says the situation in the wider Europe region is more worrying than it has been in several months.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56600660</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56600660</guid>
-            <pubDate>Thu, 01 Apr 2021 12:10:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Burgess Hill crash: Car ploughs into house after smashing into lamp-post]]></title>
             <description><![CDATA[A woman is held on suspicion of drink-driving and criminal damage after the crash in West Sussex.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-sussex-56602502</link>
@@ -77,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-56596117</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56596117</guid>
             <pubDate>Thu, 01 Apr 2021 13:03:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lorraine Cox: Man followed and murdered woman on night out]]></title>
+            <description><![CDATA[Azam Mangori is found guilty of Lorraine Cox's murder, having admitted preventing a lawful burial.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-56569863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56569863</guid>
+            <pubDate>Thu, 01 Apr 2021 14:29:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jennifer Arcuri: Conservative Party helped PM with inquiry legal bills]]></title>
@@ -198,6 +198,13 @@
             <pubDate>Thu, 01 Apr 2021 00:36:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mr Brightside: The hit that just won't die]]></title>
+            <description><![CDATA[The Killers' pop anthem has now spent five years in the UK chart. How did it happen?]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56601090</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56601090</guid>
+            <pubDate>Thu, 01 Apr 2021 14:08:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dragons' Den: The hits, misses, and why investments fall through]]></title>
             <description><![CDATA[Peter Jones and Sara Davies discuss the mechanics of the BBC One show ahead of its 18th series.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56482374</link>
@@ -275,18 +282,18 @@
             <pubDate>Thu, 01 Apr 2021 13:05:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I fought 15 times in one day' - Usman Nurmagomedov hoping to follow in cousin Khabib's footsteps ]]></title>
-            <description><![CDATA[Usman Nurmagomedov says he is hoping to "follow in the footsteps" of his cousin Khabib going into his Bellator debut on Friday, which will be shown live on BBC iPlayer.]]></description>
-            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/56584835</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/56584835</guid>
-            <pubDate>Thu, 01 Apr 2021 06:59:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rowland starts, Harrison out as England open Women's Six Nations]]></title>
             <description><![CDATA[England's Helena Rowland will start at 10 in Saturday's Women's Six Nations opener against Scotland, while Zoe Harrison drops out of the matchday 23 after breaching coronavirus protocols.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56601707</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56601707</guid>
             <pubDate>Thu, 01 Apr 2021 12:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I fought 15 times in one day' - Usman Nurmagomedov hoping to follow in cousin Khabib's footsteps ]]></title>
+            <description><![CDATA[Usman Nurmagomedov says he is hoping to "follow in the footsteps" of his cousin Khabib going into his Bellator debut on Friday, which will be shown live on BBC iPlayer.]]></description>
+            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/56584835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/56584835</guid>
+            <pubDate>Thu, 01 Apr 2021 06:59:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pat Nevin analysis: Why empty grounds have destroyed home advantage]]></title>
