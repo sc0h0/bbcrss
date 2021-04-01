@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Apr 2021 16:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Apr 2021 17:27:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,10 +24,24 @@
         </item>
         <item>
             <title><![CDATA[Derek Chauvin trial: George Floyd's girlfriend tells of first kiss and addiction]]></title>
-            <description><![CDATA[Courtney Ross gives emotional testimony during the fourth day of Derek Chauvin's murder trial.]]></description>
+            <description><![CDATA[Courteney Ross gives emotional testimony during the fourth day of Derek Chauvin's murder trial.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56606418</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56606418</guid>
-            <pubDate>Thu, 01 Apr 2021 16:21:42 GMT</pubDate>
+            <pubDate>Thu, 01 Apr 2021 17:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: More than a million 'had long Covid in February', and artist's Captain Tom mural]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56608759</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56608759</guid>
+            <pubDate>Thu, 01 Apr 2021 17:18:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lorraine Cox: Man followed and murdered woman on night out]]></title>
+            <description><![CDATA[Azam Mangori, 24, is found guilty of Lorraine Cox's "deeply disturbing" murder.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-56569863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56569863</guid>
+            <pubDate>Thu, 01 Apr 2021 15:47:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pfizer jab 'stopping 91% of cases in first six months']]></title>
@@ -37,18 +51,18 @@
             <pubDate>Thu, 01 Apr 2021 13:38:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Every customer must sign in when pubs reopen]]></title>
+            <description><![CDATA[New rules to help venues reopen outdoors safely this month have sparked anger from industry groups.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56608632</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56608632</guid>
+            <pubDate>Thu, 01 Apr 2021 17:05:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Long Covid: More than a million affected in February, survey suggests]]></title>
             <description><![CDATA[Official statistics suggest one in five people experience ongoing symptoms five weeks after infection.]]></description>
             <link>https://www.bbc.co.uk/news/health-56601911</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56601911</guid>
             <pubDate>Thu, 01 Apr 2021 15:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lorraine Cox: Man followed and murdered woman on night out]]></title>
-            <description><![CDATA[Azam Mangori, 24, is found guilty of Lorraine Cox's "deeply disturbing" murder.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-56569863</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56569863</guid>
-            <pubDate>Thu, 01 Apr 2021 15:47:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid biggest NHS challenge since World War Two, says NHS boss]]></title>
@@ -63,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56601166</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56601166</guid>
             <pubDate>Thu, 01 Apr 2021 16:08:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar coup: More than 40 children killed by military, rights group says]]></title>
-            <description><![CDATA[Save the Children tells of a "nightmare situation", with the youngest victim just six years old.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56600292</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56600292</guid>
-            <pubDate>Thu, 01 Apr 2021 16:00:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jennifer Arcuri: Conservative Party helped PM with inquiry legal bills]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-sussex-56602502</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-56602502</guid>
             <pubDate>Thu, 01 Apr 2021 16:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John le Carré: Spy novelist 'died an Irishman']]></title>
-            <description><![CDATA[The Tinker, Tailor, Soldier, Spy author became an Irish citizen before his death, his son says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56596117</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56596117</guid>
-            <pubDate>Thu, 01 Apr 2021 13:03:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gender balance at festivals: Has it been forgotten in the pandemic?]]></title>
@@ -275,13 +275,6 @@
             <pubDate>Thu, 01 Apr 2021 07:58:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Real captain Ramos out of Champions League ties against Liverpool]]></title>
-            <description><![CDATA[Real Madrid captain Sergio Ramos is set to miss the Champions League quarter-final ties against Liverpool after suffering a calf injury.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56604417</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56604417</guid>
-            <pubDate>Thu, 01 Apr 2021 13:05:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Former British Cycling doctor's UK Anti-Doping request probed]]></title>
             <description><![CDATA[World Anti-Doping Agency examines ex-British Cycling doctor Richard Freeman proposal for athlete biological passport data before Rio Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/56603585</link>
@@ -289,7 +282,21 @@
             <pubDate>Thu, 01 Apr 2021 14:48:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shaunagh Brown column: Women's Six Nations' new calendar brings growing interest]]></title>
+            <title><![CDATA[Nathan Baggaley: Olympian tried to smuggle $150m of cocaine]]></title>
+            <description><![CDATA[Kayaking silver-medallist Nathan Baggaley and his brother were found guilty by an Australian court.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-56607790</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56607790</guid>
+            <pubDate>Thu, 01 Apr 2021 15:51:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real captain Ramos out of Champions League ties against Liverpool]]></title>
+            <description><![CDATA[Real Madrid captain Sergio Ramos is set to miss the Champions League quarter-final ties against Liverpool after suffering a calf injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56604417</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56604417</guid>
+            <pubDate>Thu, 01 Apr 2021 13:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Interest in Women's Six Nations is growing and change is happening']]></title>
             <description><![CDATA[In her first BBC Sport column of the 2021 Women's Six Nations, England prop Shaunagh Brown talks about the growth of the sport, Grand Slams and jigsaws.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56605580</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56605580</guid>
@@ -308,13 +315,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/56607830</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56607830</guid>
             <pubDate>Thu, 01 Apr 2021 14:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nathan Baggaley: Olympian tried to smuggle $150m of cocaine]]></title>
-            <description><![CDATA[Kayaking silver-medallist Nathan Baggaley and his brother were found guilty by an Australian court.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-56607790</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56607790</guid>
-            <pubDate>Thu, 01 Apr 2021 15:51:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
@@ -420,13 +420,6 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Thu, 01 Apr 2021 16:31:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
