@@ -5,7 +5,7 @@
 5. [Boohoo to probe price differences for same clothing](https://www.bbc.co.uk/news/business-56506859) - The same coat sold by Coast is more expensive than Dorothy Perkins despite both being owned by Boohoo.
 6. [Covid: 'Divisive' Covid passports and school funding warning](https://www.bbc.co.uk/news/uk-56611946) - Five things you need to know about the coronavirus pandemic this Friday morning.
 7. [Scotland's stay at home rule to be lifted ](https://www.bbc.co.uk/news/uk-scotland-56609154) - People in Scotland are now being told to remain within their local authority for the next three weeks.
-8. [James Charles: YouTube star admits messaging 16-year-old boys](https://www.bbc.co.uk/news/world-us-canada-56611614) - The 21-year-old posted a video addressing the recent accusations, saying he believed they were 18.
+8. [YouTuber admits messaging with 16-year-olds](https://www.bbc.co.uk/news/world-us-canada-56611614) - The 21-year-old posted a video addressing the recent accusations, saying he believed they were 18.
 9. [Sachin Tendulkar: India cricket legend in hospital with Covid-19](https://www.bbc.co.uk/news/world-asia-india-56613391) - The cricket legend says he is in hospital "as a matter of abundant precaution under medical advice".
 10. [Nike wins lawsuit over 'Satan Shoes' with human blood](https://www.bbc.co.uk/news/business-56609333) - The art collective that sold the customised Nike sneakers has shipped all but one of the 666 pairs.
 11. [Garden centres 'failing to stop peat sales'](https://www.bbc.co.uk/news/science-environment-56598452) - Just one of 20 retailers contacted by The Wildlife Trusts says it will remove peat from its shelves this year.
