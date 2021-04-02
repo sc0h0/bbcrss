@@ -1,6 +1,6 @@
 1. [Coronavirus: Dozens of MPs criticise 'divisive' Covid passports](https://www.bbc.co.uk/news/uk-politics-56605598) - They say demanding proof of a jab or test would be "dangerous" amid reports that trials are planned.
 2. [Taiwan: Dozens killed as train crashes and derails in tunnel](https://www.bbc.co.uk/news/world-asia-56612248) - At least 50 people are dead and scores more injured in the island's worst rail disaster in decades.
-3. [Covid 19: Pakistan among new countries added to England's travel ban list](https://www.bbc.co.uk/news/uk-56614950) - Travel from Pakistan, Bangladesh, Kenya or the Philippines will not be allowed from 9 April.
+3. [Covid 19: Pakistan among new countries added to England's travel ban list](https://www.bbc.co.uk/news/uk-56614950) - Travel from Pakistan, Bangladesh, Kenya and the Philippines will not be allowed from 9 April.
 4. [Evidence suggests Ethiopian military carried out massacre in Tigray](https://www.bbc.co.uk/news/world-africa-56603022) - A BBC Africa Eye investigation uncovers the location of a massacre, and evidence linking it to the military.
 5. [Boohoo to probe price differences for same clothing](https://www.bbc.co.uk/news/business-56506859) - The same coat sold by Coast is more expensive than Dorothy Perkins despite both being owned by Boohoo.
 6. [Queen Elizabeth Hospital: Propped-up roof a 'direct risk to life'](https://www.bbc.co.uk/news/uk-england-norfolk-56603933) - The boss of an ageing hospital with a collapsing roof says it needs "more than short-term fixes".
