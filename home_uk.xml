@@ -11,16 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Apr 2021 17:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 18:13:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US Capitol under lockdown after security threat]]></title>
+            <description><![CDATA[Capitol Police say a suspect is in custody after a vehicle was reportedly rammed into officers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56620113</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56620113</guid>
+            <pubDate>Fri, 02 Apr 2021 18:06:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Boris Johnson warns against mixing indoors as Easter weekend begins]]></title>
             <description><![CDATA[The Easter weekend warning comes as latest figures show the lowest number of daily cases since mid-September.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56617667</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56617667</guid>
             <pubDate>Fri, 02 Apr 2021 16:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Derek Chauvin trial: Homicide chief criticises force used on George Floyd]]></title>
+            <description><![CDATA[The testimony comes on the fifth day of a murder trial against ex-US police officer Derek Chauvin.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56616888</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56616888</guid>
+            <pubDate>Fri, 02 Apr 2021 17:59:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid 19: Pakistan among new countries added to England's travel ban list]]></title>
@@ -70,20 +84,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56614990</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56614990</guid>
             <pubDate>Fri, 02 Apr 2021 15:57:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boohoo to probe price differences for same clothing]]></title>
-            <description><![CDATA[The same coat sold by Coast is more expensive than Dorothy Perkins despite both being owned by Boohoo.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56506859</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56506859</guid>
-            <pubDate>Fri, 02 Apr 2021 13:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland stay at home rule lifted after three months]]></title>
-            <description><![CDATA[People in Scotland are now being told to remain within their local authority for the next three weeks.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-56609154</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56609154</guid>
-            <pubDate>Fri, 02 Apr 2021 15:55:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deliveroo April Fools' joke backfires in France]]></title>
@@ -247,13 +247,6 @@
             <pubDate>Fri, 02 Apr 2021 16:24:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Can you believe it?' Remember Liverpool's famous 4-4 draw against Arsenal in 2009]]></title>
-            <description><![CDATA[BBC Sport takes a look back at Liverpool's famous 4-4 draw against Arsenal in 2009, featuring four goals from Andrey Arshavin, ahead of their Premier League game this weekend.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56539736</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56539736</guid>
-            <pubDate>Fri, 02 Apr 2021 05:27:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coronavirus: What are the rules for places of worship?]]></title>
             <description><![CDATA[Places of worship are open across much of the UK, despite lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53219921</link>
@@ -371,6 +364,13 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Thu, 01 Apr 2021 16:31:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
