@@ -1,9 +1,9 @@
-1. [US Capitol: Police officer dies after car rams Capitol complex](https://www.bbc.co.uk/news/world-us-canada-56620113) - The driver of the vehicle was shot dead by police after lunging at officers with a knife.
+1. [High security at US Capitol after car-ram attack](https://www.bbc.co.uk/news/world-us-canada-56620113) - The driver of the vehicle was shot dead by police after lunging at officers with a knife.
 2. [Covid-19: Boris Johnson warns against mixing indoors as Easter weekend begins](https://www.bbc.co.uk/news/uk-56617667) - The Easter weekend warning comes as latest figures show the lowest number of daily cases since mid-September.
 3. [Derek Chauvin trial: Homicide chief criticises force used on George Floyd](https://www.bbc.co.uk/news/world-us-canada-56616888) - The testimony comes on the fifth day of a murder trial against ex-US police officer Derek Chauvin.
 4. [Covid 19: Pakistan among new countries added to England's travel ban list](https://www.bbc.co.uk/news/uk-56614950) - Travel from Pakistan, Bangladesh, Kenya and the Philippines will not be allowed from 9 April.
 5. [Covid: 30 blood clot cases found in AstraZeneca recipients in the UK](https://www.bbc.co.uk/news/health-56616119) - The cases identified by the medicines regulator were out of more than 18 million doses given.
-6. [Woman killed by two escaped dogs in West Midlands](https://www.bbc.co.uk/news/uk-england-birmingham-56617182) - The animals, who police say were not owned by the woman, got into the garden before attacking her.
+6. [Woman killed by two escaped dogs in West Midlands](https://www.bbc.co.uk/news/uk-england-birmingham-56617182) - The animals, which police say were not owned by the woman, got into her garden before attacking her.
 7. [Taiwan: Dozens killed as train crashes and derails in tunnel](https://www.bbc.co.uk/news/world-asia-56612248) - At least 50 people are dead and scores more injured in the island's worst rail disaster in decades.
 8. [Covid: Crowds gather in Cardiff Bay despite restrictions](https://www.bbc.co.uk/news/uk-wales-56619569) - Social media videos show hundreds of people gathered on the steps outside the Senedd.
 9. [Russian 'troop build-up' near Ukraine alarms Nato](https://www.bbc.co.uk/news/world-europe-56616778) - Thousands of Russian troops have allegedly massed near Ukraine, but Russia does not confirm it.
