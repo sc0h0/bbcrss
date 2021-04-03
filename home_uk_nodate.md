@@ -8,7 +8,7 @@
 8. [Sandy Row: PSNI officers injured in south Belfast riot](https://www.bbc.co.uk/news/uk-northern-ireland-56620702) - Petrol bombs, bricks and bottles were thrown at police as violence flared at Sandy Row.
 9. [EuroMillions: Jackpot of more than £122m won by UK ticket-holder](https://www.bbc.co.uk/news/uk-56620940) - Players are being urged to check their tickets for the fifth biggest ever National Lottery win.
 10. [Woman killed by two escaped dogs in West Midlands](https://www.bbc.co.uk/news/uk-england-birmingham-56617182) - The animals, which police say were not owned by the woman, got into her garden before attacking her.
-11. [Taiwan: Prosecutors seek arrest after train crash which killed 50](https://www.bbc.co.uk/news/world-asia-56622336) - A construction manager's lorry is suspected of sliding on to train tracks, causing the derailment.
+11. [Covid: Clean-up after crowds party in Cardiff Bay despite restrictions](https://www.bbc.co.uk/news/uk-wales-56623504) - People who broke Covid rules to gather should be "deeply ashamed of themselves", says council leader.
 12. [The Papers: Staycation 'stampede' and NHS future blueprint](https://www.bbc.co.uk/news/blogs-the-papers-56620822) - Covid's impact on holidays and the health service are two dominant stories on Saturday's front pages.
 13. [Belgian police 'are supposed to protect us'](https://www.bbc.co.uk/news/world-europe-56606747) - Campaigners in Belgium are calling for urgent reform of the police after a series of high profile deaths in custody.
 14. [World’s largest ocean monitoring system BRUVS launched](https://www.bbc.co.uk/news/science-environment-56606898) - Marine scientist Professor Jessica Meeuwig on her hopes for a new ocean monitoring system.
