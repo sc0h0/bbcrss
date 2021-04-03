@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Apr 2021 03:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 04:31:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,7 +177,7 @@
             <pubDate>Fri, 02 Apr 2021 23:42:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Violence against women: Loss, murder and grieving in public]]></title>
+            <title><![CDATA[Violence against women: Loss, death and grieving in public]]></title>
             <description><![CDATA[A month since Sarah Everard disappeared, two women share what it's like to grieve in the public eye.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56575679</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56575679</guid>
@@ -399,6 +399,13 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Thu, 01 Apr 2021 16:31:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
