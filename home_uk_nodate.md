@@ -8,7 +8,7 @@
 8. [School abuse: Teachers face sexualised insults in class, says union](https://www.bbc.co.uk/news/education-56625920) - A union conference hears staff are subjected to "derogatory sexualised" language and violence.
 9. [Graffiti art defaced by spectators at South Korea gallery](https://www.bbc.co.uk/news/world-asia-56623734) - A couple visiting the South Korean gallery painted over the piece thinking it was participatory art.
 10. [Covid: Good Friday service shut down over 'rules breach'](https://www.bbc.co.uk/news/uk-england-london-56623839) - The Met Police say they found worshippers "not wearing masks" and "clearly not socially distanced".
-11. [Cardiff Bay: Extra police powers to stop crowds after party](https://www.bbc.co.uk/news/uk-wales-56623504) - People "intent" on breaking Covid-19 rules left a "significant" amount of rubbish, says council.
+11. [Kill the Bill protests: Defend right to protest, Corbyn tells marchers](https://www.bbc.co.uk/news/uk-56627642) - Demonstrations are held across the UK against a bill to impose new restrictions on protest.
 12. [Richard Okorogheye: Police appeal to missing student to 'get in touch'](https://www.bbc.co.uk/news/uk-england-london-56623838) - A search of Epping Forest, near where Richard Okorogheye was last seen, enters a third day.
 13. [Belgian police 'are supposed to protect us'](https://www.bbc.co.uk/news/world-europe-56606747) - Campaigners in Belgium call for urgent reform of the police after a series of high profile deaths in custody.
 14. [ICYMI: Volcano volleyball and cool cats](https://www.bbc.co.uk/news/world-europe-56611123) - Cherry blossom, animal Easter egg hunts and some of the other stories you may have missed.
