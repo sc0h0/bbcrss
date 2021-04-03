@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Apr 2021 14:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 15:16:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,20 @@
             <pubDate>Sat, 03 Apr 2021 11:08:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[School abuse: Teachers face sexualised insults in class, says union]]></title>
+            <description><![CDATA[A union conference hears staff are subjected to "derogatory sexualised" language and violence.]]></description>
+            <link>https://www.bbc.co.uk/news/education-56625920</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56625920</guid>
+            <pubDate>Sat, 03 Apr 2021 14:23:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Good Friday service shut down over 'coronavirus breach']]></title>
+            <description><![CDATA[The Met Police say they found worshippers "not wearing masks" and "clearly not socially distanced".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56623839</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56623839</guid>
+            <pubDate>Sat, 03 Apr 2021 14:39:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Richard Okorogheye: Police appeal to missing student to 'get in touch']]></title>
             <description><![CDATA[A search of Epping Forest, near where Richard Okorogheye was last seen, enters a third day.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56623838</link>
@@ -62,7 +76,7 @@
             <description><![CDATA[Matheus Pereira and Callum Robinson score twice as struggling West Brom overwhelm 10-man Chelsea and end the 14-match unbeaten start to Thomas Tuchel's tenure.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56546577</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56546577</guid>
-            <pubDate>Sat, 03 Apr 2021 14:26:38 GMT</pubDate>
+            <pubDate>Sat, 03 Apr 2021 15:14:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cardiff Bay: Extra police powers to stop crowds after party]]></title>
@@ -70,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-56623504</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56623504</guid>
             <pubDate>Sat, 03 Apr 2021 14:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joe Wheeler: New Zealand rugby commentator apologises for mimicking Kazuki Himeno's accent]]></title>
-            <description><![CDATA[New Zealand rugby commentator Joe Wheeler apologises after mimicking a Japanese player's accent following a Super Rugby Aotearoa game.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56623579</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56623579</guid>
-            <pubDate>Sat, 03 Apr 2021 09:39:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Egypt mummies to pass through Cairo in ancient rulers' parade]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/health-56620646</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56620646</guid>
             <pubDate>Sat, 03 Apr 2021 11:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sandy Row riot: Leaders appeal for calm after Belfast riot]]></title>
-            <description><![CDATA[A 13-year-old boy is among eight people arrested after 15 officers are injured in rioting.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56623901</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56623901</guid>
-            <pubDate>Sat, 03 Apr 2021 13:57:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belgian police 'are supposed to protect us']]></title>
@@ -241,10 +241,10 @@
         </item>
         <item>
             <title><![CDATA[Wasps exit Champions Cup after stoppage-time Clermont try]]></title>
-            <description><![CDATA[Wasps exit the Champions Cup after a stoppage-time try gives Clermont Auvergne a dramatic win in the last-16 tie at the Ricoh Arena.]]></description>
+            <description><![CDATA[Wasps exit the Heineken Champions Cup after a stoppage-time try gives Clermont Auvergne a dramatic win in the last-16 tie at the Ricoh Arena.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56625313</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56625313</guid>
-            <pubDate>Sat, 03 Apr 2021 14:09:56 GMT</pubDate>
+            <pubDate>Sat, 03 Apr 2021 15:00:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Huddersfield Town 1-1 Brentford: Mads Sorensen earns point but Bees' promotion hopes take hit]]></title>
@@ -399,13 +399,6 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Thu, 01 Apr 2021 16:31:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
