@@ -11,20 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Apr 2021 21:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 22:19:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: More than 5m people fully vaccinated in UK]]></title>
-            <description><![CDATA[Almost one in ten adults has received their second dose of the vaccine, new figures show.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56626313</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56626313</guid>
-            <pubDate>Sat, 03 Apr 2021 17:30:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid passport trials begin with live comedy night]]></title>
-            <description><![CDATA[The new system could be used in England for mass events, including sports matches and clubbing.]]></description>
+            <description><![CDATA[Ministers also confirm a risk-based "traffic light" system will start when foreign holidays resume.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56625307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56625307</guid>
             <pubDate>Sat, 03 Apr 2021 21:30:31 GMT</pubDate>
@@ -35,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-56626370</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56626370</guid>
             <pubDate>Sat, 03 Apr 2021 21:25:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: More than 5m people fully vaccinated in UK]]></title>
+            <description><![CDATA[Almost one in ten adults has received their second dose of the vaccine, new figures show.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56626313</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56626313</guid>
+            <pubDate>Sat, 03 Apr 2021 17:30:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suez Canal traffic jam caused by stuck ship Ever Given 'cleared']]></title>
@@ -269,10 +269,10 @@
         </item>
         <item>
             <title><![CDATA[Liverpool brush aside Arsenal to boost top-four hopes]]></title>
-            <description><![CDATA[Liverpool thrust themselves right back into the battle for the Premier League's top four as they outclass abject Arsenal at Emirates Stadium.]]></description>
+            <description><![CDATA[Liverpool thrust themselves firmly back into the battle for a place in the Premier League's top four as they outclass abject Arsenal 3-0.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56546582</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56546582</guid>
-            <pubDate>Sat, 03 Apr 2021 21:43:36 GMT</pubDate>
+            <pubDate>Sat, 03 Apr 2021 22:18:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exeter fight back to beat Lyon and set up Leinster tie]]></title>
@@ -287,13 +287,6 @@
             <link>https://www.bbc.co.uk/sport/av/rugby-union/56627505</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56627505</guid>
             <pubDate>Sat, 03 Apr 2021 17:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MLB: Cat stops play at Los Angeles Dodgers - Colorado Rockies game]]></title>
-            <description><![CDATA[A cat temporarily stops play as it runs onto the field at an MLB game between the Los Angeles Dodgers and Colorado Rockies.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/baseball/56625342</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/baseball/56625342</guid>
-            <pubDate>Sat, 03 Apr 2021 12:59:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
@@ -427,6 +420,13 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Thu, 01 Apr 2021 16:31:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
