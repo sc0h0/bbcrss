@@ -5,8 +5,8 @@
 5. [Rowley Regis dog attack: Woman died after 'tragic and horrific' incident](https://www.bbc.co.uk/news/uk-england-birmingham-56624119) - The two dogs got into the woman's garden through a hole in a fence, police say.
 6. [US Capitol: Police officer dies after car rams security barrier](https://www.bbc.co.uk/news/world-us-canada-56620113) - The driver of the vehicle was shot dead by police after lunging at officers with a knife.
 7. [Covid: More visitors at care homes and UK clotting deaths after AstraZeneca jab](https://www.bbc.co.uk/news/uk-56621459) - Five things you need to know about the coronavirus pandemic this Saturday morning.
-8. [Egypt mummies to pass through Cairo in ancient rulers' parade](https://www.bbc.co.uk/news/world-middle-east-56508475) - The Cairo spectacle will see the remains of 18 kings and four queens taken to a new resting place.
-9. [Covid-19: Seven UK blood clot deaths after AstraZeneca vaccine](https://www.bbc.co.uk/news/health-56620646) - The regulator confirms the deaths to the BBC, but says the benefits continue to outweigh any risk.
+8. [Covid-19: Seven UK blood clot deaths after AstraZeneca vaccine](https://www.bbc.co.uk/news/health-56620646) - The regulator confirms the deaths to the BBC, but says the benefits continue to outweigh any risk.
+9. [Egypt mummies to pass through Cairo in ancient rulers' parade](https://www.bbc.co.uk/news/world-middle-east-56508475) - The Cairo spectacle will see the remains of 18 kings and four queens taken to a new resting place.
 10. [Police uncover teenage girl ‘suicide’ Instagram group](https://www.bbc.co.uk/news/uk-56617838) - Twelve UK girls, aged between 12 and 16, were part of a chat group that led to "serious self-harm".
 11. [EuroMillions: Jackpot of more than £122m won by UK ticket-holder](https://www.bbc.co.uk/news/uk-56620940) - Players are being urged to check their tickets for the fifth biggest ever National Lottery win.
 12. [The Papers: Staycation 'stampede' and NHS future blueprint](https://www.bbc.co.uk/news/blogs-the-papers-56620822) - Covid's impact on holidays and the health service are two dominant stories on Saturday's front pages.
