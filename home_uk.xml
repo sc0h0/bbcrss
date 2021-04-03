@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Apr 2021 09:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 10:19:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -174,7 +174,7 @@
             <description><![CDATA[How the government handled the release of a contentious report on racial disparity in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56578839</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56578839</guid>
-            <pubDate>Fri, 02 Apr 2021 23:42:20 GMT</pubDate>
+            <pubDate>Sat, 03 Apr 2021 09:56:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Violence against women: Loss, death and grieving in public]]></title>
@@ -240,18 +240,18 @@
             <pubDate>Fri, 02 Apr 2021 18:59:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Extreme E: Nico Rosberg says sport must have a purpose]]></title>
-            <description><![CDATA[Former Formula 1 world champion Nico Rosberg says sport must embrace purpose, and that F1 needs to do more.]]></description>
-            <link>https://www.bbc.co.uk/sport/motorsport/56597110</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/56597110</guid>
-            <pubDate>Fri, 02 Apr 2021 20:41:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['We just got destroyed' - Warriors blown away in record Raptors win]]></title>
             <description><![CDATA[The Toronto Raptors record the biggest win in their history in a rout of the Golden State Warriors.]]></description>
             <link>https://www.bbc.co.uk/sport/basketball/56623166</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/basketball/56623166</guid>
             <pubDate>Sat, 03 Apr 2021 06:38:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[F1 and football should have more purpose – Rosberg]]></title>
+            <description><![CDATA[Former Formula 1 world champion Nico Rosberg says sport must embrace purpose, and that F1 needs to do more.]]></description>
+            <link>https://www.bbc.co.uk/sport/motorsport/56597110</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/56597110</guid>
+            <pubDate>Fri, 02 Apr 2021 20:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘The comeback to end all comebacks’ - Cleall set for England Six Nations return]]></title>
@@ -266,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/mixed-martial-arts/56623161</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/56623161</guid>
             <pubDate>Sat, 03 Apr 2021 06:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gloucester knocked out of Champions Cup by classy La Rochelle]]></title>
-            <description><![CDATA[Gloucester's Champions Cup campaign comes to an end as La Rochelle squeeze them out of their last-16 tie at Kingsholm.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56604998</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56604998</guid>
-            <pubDate>Fri, 02 Apr 2021 21:23:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
@@ -406,6 +399,13 @@
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Thu, 01 Apr 2021 16:31:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
