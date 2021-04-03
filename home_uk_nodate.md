@@ -2,7 +2,7 @@
 2. [Suez Canal traffic jam caused by stuck ship Ever Given 'cleared'](https://www.bbc.co.uk/news/world-middle-east-56625680) - The last vessels blocked by the Ever Given have now passed through the Suez Canal, authorities say.
 3. [Rowley Regis dog attack: Woman, 85, killed by dogs that got through fence hole](https://www.bbc.co.uk/news/uk-england-birmingham-56624119) - The woman who died is named as Lucille Downer, a great grandmother who was originally from Jamaica.
 4. [Egypt mummies pass through Cairo in ancient rulers' parade](https://www.bbc.co.uk/news/world-middle-east-56508475) - The Cairo spectacle sees the remains of 18 kings and four queens taken to a new resting place.
-5. [Jordan arrests: Official and royal arrested for 'security reasons'](https://www.bbc.co.uk/news/world-middle-east-56626370) - A former minister and a member of the royal family are among those detained, the kingdom says.
+5. [Jordan's Prince Hamzah bin Hussein 'under house arrest'](https://www.bbc.co.uk/news/world-middle-east-56626370) - In a video passed to the BBC, Prince Hamzah accuses Jordan's leaders of corruption and incompetence.
 6. [Bridgerton fans mourn Regé-Jean Page's exit](https://www.bbc.co.uk/news/entertainment-arts-56625683) - Kim Kardashian joins those lamenting the news about the second series of the popular Netflix show.
 7. [Richard Johnson: Leading jump jockey in shock retirement](https://www.bbc.co.uk/sport/horse-racing/56615202) - Four-time champion jump jockey Richard Johnson announces his retirement with immediate effect.
 8. [School abuse: Teachers face sexualised insults in class, says union](https://www.bbc.co.uk/news/education-56625920) - A union conference hears staff are subjected to "derogatory sexualised" language and violence.
