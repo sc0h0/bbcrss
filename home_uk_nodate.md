@@ -54,8 +54,9 @@
 54. [Covid: The inside story of the government's battle against the virus](https://www.bbc.co.uk/news/uk-politics-56361599) - Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.
 55. [Covid: The countries that nailed it, and what we can learn from them](https://www.bbc.co.uk/news/uk-56455030) - A year into the pandemic, we look at countries that have had some success in tackling the virus.
 56. [Coronavirus: Your tributes to those who have died](https://www.bbc.co.uk/news/uk-52676411) - A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.
-57. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
-58. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
-59. [Letterbox contact: ‘Don’t my birth children have a right to know I’m dying?'](https://www.bbc.co.uk/news/stories-56576285) - Diagnosed with a terminal illness, Hanna wanted to tell the twins taken from her at 16 - but had no way of reaching them.
-60. [Naga Munchetty: It’s time to talk about race](https://www.bbc.co.uk/news/stories-56253480) - Naga Munchetty travelled across the UK to understand what race and racism means today.
-61. [The vaccine misinformation battle raging in France](https://www.bbc.co.uk/news/blogs-trending-56526265) - Online conspiracy theories are exacerbating existing vaccine scepticism.
+57. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.
+58. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
+59. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
+60. [Letterbox contact: ‘Don’t my birth children have a right to know I’m dying?'](https://www.bbc.co.uk/news/stories-56576285) - Diagnosed with a terminal illness, Hanna wanted to tell the twins taken from her at 16 - but had no way of reaching them.
+61. [Naga Munchetty: It’s time to talk about race](https://www.bbc.co.uk/news/stories-56253480) - Naga Munchetty travelled across the UK to understand what race and racism means today.
+62. [The vaccine misinformation battle raging in France](https://www.bbc.co.uk/news/blogs-trending-56526265) - Online conspiracy theories are exacerbating existing vaccine scepticism.
