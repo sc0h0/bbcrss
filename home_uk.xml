@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Apr 2021 15:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 15:45:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,11 +58,11 @@
             <pubDate>Sat, 03 Apr 2021 14:23:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Good Friday service shut down over 'coronavirus breach']]></title>
+            <title><![CDATA[Covid: Good Friday service shut down over 'rules breach']]></title>
             <description><![CDATA[The Met Police say they found worshippers "not wearing masks" and "clearly not socially distanced".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56623839</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56623839</guid>
-            <pubDate>Sat, 03 Apr 2021 14:39:32 GMT</pubDate>
+            <pubDate>Sat, 03 Apr 2021 15:40:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Richard Okorogheye: Police appeal to missing student to 'get in touch']]></title>
@@ -86,25 +86,18 @@
             <pubDate>Sat, 03 Apr 2021 14:02:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Egypt mummies to pass through Cairo in ancient rulers' parade]]></title>
-            <description><![CDATA[The Cairo spectacle will see the remains of 18 kings and four queens taken to a new resting place.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56508475</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56508475</guid>
-            <pubDate>Sat, 03 Apr 2021 07:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Seven UK blood clot deaths after AstraZeneca vaccine]]></title>
-            <description><![CDATA[The regulator confirms the deaths to the BBC, but says the benefits continue to outweigh any risk.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56620646</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56620646</guid>
-            <pubDate>Sat, 03 Apr 2021 11:53:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Belgian police 'are supposed to protect us']]></title>
             <description><![CDATA[Campaigners in Belgium call for urgent reform of the police after a series of high profile deaths in custody.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56606747</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56606747</guid>
             <pubDate>Fri, 02 Apr 2021 23:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Egypt mummies to pass through Cairo in ancient rulers' parade]]></title>
+            <description><![CDATA[The Cairo spectacle will see the remains of 18 kings and four queens taken to a new resting place.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56508475</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56508475</guid>
+            <pubDate>Sat, 03 Apr 2021 07:16:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICYMI: Volcano volleyball and cool cats]]></title>
