@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Apr 2021 14:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 15:21:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,21 @@
             <description><![CDATA[Ministers also confirm a risk-based "traffic light" system will start when foreign holidays resume.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56625307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56625307</guid>
-            <pubDate>Sun, 04 Apr 2021 12:19:59 GMT</pubDate>
+            <pubDate>Sun, 04 Apr 2021 14:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kill the Bill protests: More than 100 arrested in London]]></title>
+            <description><![CDATA[More than 100 people are arrested after a demonstration against a bill to impose restrictions on protests.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56632030</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56632030</guid>
+            <pubDate>Sun, 04 Apr 2021 14:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dorstone 'illegal rave': Police set up road blocks]]></title>
+            <description><![CDATA[The community is increasingly concerned about a "large gathering" in Dorstone, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-56631144</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hereford-worcester-56631144</guid>
+            <pubDate>Sun, 04 Apr 2021 14:21:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marwa Elselehdar: 'I was blamed for blocking the Suez Canal']]></title>
@@ -30,28 +44,14 @@
             <pubDate>Sat, 03 Apr 2021 23:01:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boat Race 2021: Universities move from London to Ely]]></title>
-            <description><![CDATA[The traditional showdown between Oxford and Cambridge universities takes place on the Great Ouse this year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56624251</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56624251</guid>
-            <pubDate>Sat, 03 Apr 2021 23:14:22 GMT</pubDate>
+            <title><![CDATA[Jordan accuses Prince Hamzah of plot to destabilise kingdom]]></title>
+            <description><![CDATA[The king's half-brother sought to mobilise tribal leaders against the government, the deputy PM says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56633266</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56633266</guid>
+            <pubDate>Sun, 04 Apr 2021 15:17:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[London Zoo: Learning to be a zookeeper during lockdown]]></title>
-            <description><![CDATA[London Zoo apprentice Joe on how he is learning to be a zookeeper during the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56581934</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56581934</guid>
-            <pubDate>Sun, 04 Apr 2021 06:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newtownabbey: Man arrested after police attacked and cars hijacked]]></title>
-            <description><![CDATA[Thirty petrol bombs were thrown at police and three cars hijacked and set alight.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56631894</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56631894</guid>
-            <pubDate>Sun, 04 Apr 2021 12:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Richard Okorogheye: Divers part of search for missing student]]></title>
+            <title><![CDATA[Richard Okorogheye: Divers help search for missing student]]></title>
             <description><![CDATA[Richard Okorogheye has not been seen by his family since he left his home on 22 March.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56632028</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56632028</guid>
@@ -65,6 +65,13 @@
             <pubDate>Sun, 04 Apr 2021 11:12:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Newtownabbey: Man arrested after police attacked and cars hijacked]]></title>
+            <description><![CDATA[Thirty petrol bombs were thrown at police and three cars hijacked and set alight.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56631894</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56631894</guid>
+            <pubDate>Sun, 04 Apr 2021 12:49:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Easter Sunday: Archbishop of Canterbury calls for a better future]]></title>
             <description><![CDATA[Justin Welby asks for acts of love, charity and international aid to be continued after Covid.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56628947</link>
@@ -72,25 +79,11 @@
             <pubDate>Sun, 04 Apr 2021 11:44:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dorstone 'illegal rave': Police set up road blocks]]></title>
-            <description><![CDATA[The community is increasingly concerned about a "large gathering" in Dorstone, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-56631144</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hereford-worcester-56631144</guid>
-            <pubDate>Sun, 04 Apr 2021 14:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bakewell love locks removal plans leave families 'devastated']]></title>
-            <description><![CDATA[Plans to remove hundreds of love locks from a Bakewell bridge leaves some families "gutted".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-56525456</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-56525456</guid>
-            <pubDate>Sun, 04 Apr 2021 06:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: 'Passport to freedom', and trips abroad 'on track']]></title>
-            <description><![CDATA[Many of Sunday's front pages lead with the Covid certificates trial that is due to begin later this month.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56628275</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56628275</guid>
-            <pubDate>Sun, 04 Apr 2021 04:01:46 GMT</pubDate>
+            <title><![CDATA[London Zoo: Learning to be a zookeeper during lockdown]]></title>
+            <description><![CDATA[London Zoo apprentice Joe on how he is learning to be a zookeeper during the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56581934</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56581934</guid>
+            <pubDate>Sun, 04 Apr 2021 06:58:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long lost pen pals reunited after 70 years]]></title>
@@ -112,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-pacific-56606143</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-pacific-56606143</guid>
             <pubDate>Sat, 03 Apr 2021 23:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bakewell love locks removal plans leave families 'devastated']]></title>
+            <description><![CDATA[Plans to remove hundreds of love locks from a Bakewell bridge leaves some families "gutted".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-56525456</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-56525456</guid>
+            <pubDate>Sun, 04 Apr 2021 06:42:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hidden treasure: Hertford Union Canal gives up its secrets]]></title>
@@ -191,6 +191,13 @@
             <pubDate>Sat, 03 Apr 2021 11:14:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Late Willock goal earns Newcastle draw with Spurs]]></title>
+            <description><![CDATA[Newcastle earned a vital point in their fight for Premier League survival thanks to a late equaliser against Tottenham from on-loan Arsenal midfielder Joe Willock at St James' Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56553197</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56553197</guid>
+            <pubDate>Sun, 04 Apr 2021 15:17:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ings scores on return as Saints seal comeback win over Burnley]]></title>
             <description><![CDATA[Southampton fight back from 2-0 down to beat Burnley and claim a crucial three points in the battle for Premier League survival.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56553199</link>
@@ -209,14 +216,14 @@
             <description><![CDATA[Sam Kerr scores a first-half hat-trick as Women's Super League leaders Chelsea thump Birmingham City.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56553163</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56553163</guid>
-            <pubDate>Sun, 04 Apr 2021 13:40:40 GMT</pubDate>
+            <pubDate>Sun, 04 Apr 2021 15:02:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I was convinced the clock was wrong' - Potter runs second-fastest road 5km ever]]></title>
-            <description><![CDATA[Britain's Beth Potter runs the second-fastest road 5km ever by a female athlete at a race in the Lancashire village of Barrowford.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/56628151</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/56628151</guid>
-            <pubDate>Sun, 04 Apr 2021 09:42:52 GMT</pubDate>
+            <title><![CDATA[WSL: Chelsea 6-0 Birmingham City highlights - Sam Kerr scores first-half hat-trick as Chelsea thrash Birmingham]]></title>
+            <description><![CDATA[Watch highlights as Sam Kerr scores a first-half hat-trick as league leaders Chelsea secure a 6-0 victory against Birmingham City in the Women's Super League.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56633446</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56633446</guid>
+            <pubDate>Sun, 04 Apr 2021 14:06:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What are the rules for places of worship?]]></title>
@@ -357,13 +364,6 @@
             <link>https://www.bbc.co.uk/news/uk-56455030</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56455030</guid>
             <pubDate>Mon, 22 Mar 2021 00:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Thu, 01 Apr 2021 16:31:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
