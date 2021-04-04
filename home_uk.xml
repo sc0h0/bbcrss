@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Apr 2021 05:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 06:12:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -226,6 +226,13 @@
             <pubDate>Sat, 03 Apr 2021 22:18:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England's Hull slips back at ANA Inspiration]]></title>
+            <description><![CDATA[England's Charley Hull is seven shots behind Thai leader Patty Tavatanakit after the ANA Inspiration third round in California]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/56630010</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56630010</guid>
+            <pubDate>Sun, 04 Apr 2021 05:58:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Exeter fight back to beat Lyon and set up Leinster tie]]></title>
             <description><![CDATA[Exeter Chiefs recover from a slow start to score seven tries and set up a Champions Cup quarter-final against Leinster.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56627625</link>
@@ -238,20 +245,6 @@
             <link>https://www.bbc.co.uk/sport/horse-racing/56615202</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/horse-racing/56615202</guid>
             <pubDate>Sat, 03 Apr 2021 17:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: How Alexander-Arnold bounced back from England omission]]></title>
-            <description><![CDATA[Match of the Day's Danny Murphy praises the mental strength shown by Liverpool's Trent Alexander-Arnold in his performance against Arsenal in the wake of his England squad omission]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56628925</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56628925</guid>
-            <pubDate>Sat, 03 Apr 2021 22:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women's Six Nations: 'Brilliant' Jess Breach's solo try as England thrash Scotland 52-10]]></title>
-            <description><![CDATA[Watch Jess Breach's "brilliant" solo effort as England score eight tries to beat Scotland 52-10 in the opening game of the Women's Six Nations.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/56627505</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56627505</guid>
-            <pubDate>Sat, 03 Apr 2021 17:04:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What are the rules for places of worship?]]></title>
@@ -392,6 +385,13 @@
             <link>https://www.bbc.co.uk/news/uk-56455030</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56455030</guid>
             <pubDate>Mon, 22 Mar 2021 00:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Thu, 01 Apr 2021 16:31:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
