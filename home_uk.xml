@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Apr 2021 02:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 03:11:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -114,6 +114,13 @@
             <pubDate>Sat, 03 Apr 2021 23:09:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Boat Race 2021: Universities move from London to Ely]]></title>
+            <description><![CDATA[The traditional showdown between Oxford and Cambridge universities takes place on the Great Ouse this year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56624251</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56624251</guid>
+            <pubDate>Sat, 03 Apr 2021 23:14:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Project 17: Solving Singapore's food waste problem]]></title>
             <description><![CDATA[Shan, 17, wants to find out just how much food gets wasted in his home country of Singapore.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-pacific-56606143</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/in-pictures-56498299</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56498299</guid>
             <pubDate>Sat, 03 Apr 2021 23:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boat Race 2021: Universities move from London to Ely]]></title>
-            <description><![CDATA[The traditional showdown between Oxford and Cambridge universities takes place on the Great Ouse this year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56624251</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56624251</guid>
-            <pubDate>Sat, 03 Apr 2021 23:14:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wally the Walrus: Fears for safety as Tenby tourists get 'too close']]></title>
@@ -385,13 +385,6 @@
             <link>https://www.bbc.co.uk/news/uk-56455030</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56455030</guid>
             <pubDate>Mon, 22 Mar 2021 00:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Thu, 01 Apr 2021 16:31:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
