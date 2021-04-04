@@ -1,4 +1,4 @@
-1. [Covid passport trials to begin this month](https://www.bbc.co.uk/news/uk-56625307) - Ministers also confirm a risk-based "traffic light" system will start when foreign holidays resume.
+1. [Covid passport trials for mass events](https://www.bbc.co.uk/news/uk-56625307) - Ministers also confirm a risk-based "traffic light" system will start when foreign holidays resume.
 2. [Jordan's Prince Hamzah bin Hussein 'under house arrest'](https://www.bbc.co.uk/news/world-middle-east-56626370) - In a video passed to the BBC, Prince Hamzah accuses Jordan's leaders of corruption and incompetence.
 3. [Covid-19: France enters third national lockdown amid ICU surge](https://www.bbc.co.uk/news/world-europe-56622471) - The measures come as Europe battles a third wave of the pandemic and delays in its vaccine rollout.
 4. [Marwa Elselehdar: 'I was blamed for blocking the Suez Canal'](https://www.bbc.co.uk/news/world-middle-east-56615521) - Egypt's pioneering ship captain has been targeted over false rumours about her role in the incident.
