@@ -2,7 +2,7 @@
 2. [Kill the Bill protests: More than 100 arrested in London](https://www.bbc.co.uk/news/uk-england-london-56632030) - More than 100 people are arrested after a demonstration against a bill to impose restrictions on protests.
 3. [Richard Okorogheye: Divers help search for missing student](https://www.bbc.co.uk/news/uk-england-london-56632028) - Richard Okorogheye has not been seen by his family since he left his home on 22 March.
 4. [2021 Boat Race: Cambridge beat Oxford in both men's and women's races](https://www.bbc.co.uk/sport/rowing/56630688) - Cambridge win the 166th Boat Race in a contest moved to Cambridgeshire because of the coronavirus pandemic.
-5. [Covid: Trials to begin for return of England mass events](https://www.bbc.co.uk/news/uk-56625307) - Ministers also confirm a risk-based "traffic light" system will start when foreign holidays resume.
+5. [Covid: Passports showing vaccine status would be 'time-limited', says minister](https://www.bbc.co.uk/news/uk-56634176) - The FA Cup final will be among events to only admit fans who get a negative test or prove immunity.
 6. [Dorstone 'illegal rave': Police set up road blocks](https://www.bbc.co.uk/news/uk-england-hereford-worcester-56631144) - The community is increasingly concerned about a "large gathering" in Dorstone, police say.
 7. [Florida declares state of emergency over toxic wastewater leak](https://www.bbc.co.uk/news/world-us-canada-56629013) - More than 300 homes in the Tampa Bay area have been ordered to be evacuated.
 8. [Lucille Downer: Dogs 'humanely destroyed' after fatal attack in Rowley Regis](https://www.bbc.co.uk/news/uk-england-birmingham-56633104) - Lucille Downer, a great-grandma originally from Jamaica, died after a "sustained" attack, say police.
