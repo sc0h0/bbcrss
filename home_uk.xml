@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Apr 2021 23:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Apr 2021 23:51:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -254,6 +254,41 @@
             <pubDate>Sun, 04 Apr 2021 22:26:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[The rules on how many people can meet outdoors are changing, as lockdown is eased.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Thu, 01 Apr 2021 06:51:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When will pools, gyms, pubs and hairdressers open?]]></title>
+            <description><![CDATA[Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
+            <pubDate>Fri, 02 Apr 2021 07:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Thu, 01 Apr 2021 16:31:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When can pubs and restaurants reopen?]]></title>
+            <description><![CDATA[Hospitality venues are set to gradually open up in the spring as lockdown eases across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Thu, 01 Apr 2021 06:37:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Sun, 04 Apr 2021 19:22:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus: What are the rules for places of worship?]]></title>
             <description><![CDATA[Places of worship are open across much of the UK, despite lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53219921</link>
@@ -282,25 +317,11 @@
             <pubDate>Wed, 31 Mar 2021 10:36:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[The rules on how many people can meet outdoors are changing, as lockdown is eased.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Thu, 01 Apr 2021 06:51:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why is the EU unhappy with AstraZeneca?]]></title>
             <description><![CDATA[The EU has called on AstraZeneca to "catch up" on its deliveries to the EU.]]></description>
             <link>https://www.bbc.co.uk/news/56483766</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56483766</guid>
             <pubDate>Thu, 01 Apr 2021 16:34:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When can pubs and restaurants reopen?]]></title>
-            <description><![CDATA[Hospitality venues are set to gradually open up in the spring as lockdown eases across the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/business-52977388</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
-            <pubDate>Thu, 01 Apr 2021 06:37:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for weddings and when can I hold a reception?]]></title>
@@ -315,20 +336,6 @@
             <link>https://www.bbc.co.uk/news/explainers-52380823</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52380823</guid>
             <pubDate>Thu, 01 Apr 2021 16:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
-            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-54373904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
-            <pubDate>Sun, 04 Apr 2021 19:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: When will pools, gyms, pubs and hairdressers open?]]></title>
-            <description><![CDATA[Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
-            <pubDate>Fri, 02 Apr 2021 07:44:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
