@@ -1,4 +1,4 @@
-1. [Covid passport trials to begin with live comedy night](https://www.bbc.co.uk/news/uk-56625307) - Ministers also confirm a risk-based "traffic light" system will start when foreign holidays resume.
+1. [Covid passport trials to begin this month](https://www.bbc.co.uk/news/uk-56625307) - Ministers also confirm a risk-based "traffic light" system will start when foreign holidays resume.
 2. [Jordan's Prince Hamzah bin Hussein 'under house arrest'](https://www.bbc.co.uk/news/world-middle-east-56626370) - In a video passed to the BBC, Prince Hamzah accuses Jordan's leaders of corruption and incompetence.
 3. [Covid-19: France enters third national lockdown amid ICU surge](https://www.bbc.co.uk/news/world-europe-56622471) - The measures come as Europe battles a third wave of the pandemic and delays in its vaccine rollout.
 4. [Marwa Elselehdar: 'I was blamed for blocking the Suez Canal'](https://www.bbc.co.uk/news/world-middle-east-56615521) - Egypt's pioneering ship captain has been targeted over false rumours about her role in the incident.
@@ -51,9 +51,8 @@
 51. [Unemployment rate: How many people are out of work?](https://www.bbc.co.uk/news/business-52660591) - The unemployment rate is rising as Covid hits different parts of the economy.
 52. [Covid: The inside story of the government's battle against the virus](https://www.bbc.co.uk/news/uk-politics-56361599) - Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.
 53. [Covid: The countries that nailed it, and what we can learn from them](https://www.bbc.co.uk/news/uk-56455030) - A year into the pandemic, we look at countries that have had some success in tackling the virus.
-54. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.
-55. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
-56. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
-57. [Letterbox contact: ‘Don’t my birth children have a right to know I’m dying?'](https://www.bbc.co.uk/news/stories-56576285) - Diagnosed with a terminal illness, Hanna wanted to tell the twins taken from her at 16 - but had no way of reaching them.
-58. [Naga Munchetty: It’s time to talk about race](https://www.bbc.co.uk/news/stories-56253480) - Naga Munchetty travelled across the UK to understand what race and racism means today.
-59. [The vaccine misinformation battle raging in France](https://www.bbc.co.uk/news/blogs-trending-56526265) - Online conspiracy theories are exacerbating existing vaccine scepticism.
+54. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
+55. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
+56. [Letterbox contact: ‘Don’t my birth children have a right to know I’m dying?'](https://www.bbc.co.uk/news/stories-56576285) - Diagnosed with a terminal illness, Hanna wanted to tell the twins taken from her at 16 - but had no way of reaching them.
+57. [Naga Munchetty: It’s time to talk about race](https://www.bbc.co.uk/news/stories-56253480) - Naga Munchetty travelled across the UK to understand what race and racism means today.
+58. [The vaccine misinformation battle raging in France](https://www.bbc.co.uk/news/blogs-trending-56526265) - Online conspiracy theories are exacerbating existing vaccine scepticism.
