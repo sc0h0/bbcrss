@@ -8,7 +8,7 @@
 8. [Taiwan train crash: 'Can you let me hug her again?'](https://www.bbc.co.uk/news/world-asia-56636595) - Survivors of Taiwan's worst rail accident in decades share their heartbreaking stories of loss.
 9. [Jordan's Prince Hamzah vows to defy 'house arrest' orders](https://www.bbc.co.uk/news/world-middle-east-56637430) - Prince Hamzah says he will not stay quiet after he was accused of plotting to destabilise the state.
 10. [Benjamin Netanyahu trial: Israel PM made 'illegitimate use' of power](https://www.bbc.co.uk/news/world-middle-east-56606223) - Benjamin Netanyahu's corruption trial is told he sought improper benefits from media bosses.
-11. [Dubai police arrest group over nude balcony shoot](https://www.bbc.co.uk/news/world-middle-east-56638282) - Eight Russian women are among those detained for public debauchery, the Russian consulate said.
+11. [Dubai police arrest group over nude balcony shoot](https://www.bbc.co.uk/news/world-middle-east-56638282) - Eleven Ukrainian women were among those detained, the Ukrainian consulate told the BBC.
 12. [Durdle Door sea arch base jumpers 'idiotic and irresponsible'](https://www.bbc.co.uk/news/uk-england-dorset-56640415) - Landowner James Weld says base jumpers are putting lives at risk by encouraging others.
 13. [SAG Awards: Screen Actors Guild honour The Trial of the Chicago 7](https://www.bbc.co.uk/news/entertainment-arts-56637214) - People from ethnic minorities win in all four individual film categories for the first time.
 14. [Madden NFL: The England cricketer who is starring in the gaming world](https://www.bbc.co.uk/sport/cricket/56588937) - How England physical disability cricketer Liam O'Brien has become one of the best in the world at the Madden NFL computer game.
