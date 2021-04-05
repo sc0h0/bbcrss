@@ -2,7 +2,7 @@
 2. [Covid in Scotland: Hairdressers and homeware shops reopen](https://www.bbc.co.uk/news/uk-scotland-56633337) - Non-essential click and collect services are also able to resume business as Covid restrictions ease.
 3. [Covid: PM expected to unveil foreign travel traffic light system](https://www.bbc.co.uk/news/uk-56637472) - Boris Johnson is to give details on a series of measures for easing lockdown restrictions later.
 4. [Gundecha Brothers: Famous Indian music gurus accused of sexual assault](https://www.bbc.co.uk/news/world-asia-india-56523999) - The BBC spoke to several women who have accused three famous classical musicians of sexual abuse.
-5. [Covid: Weekly tests for all in England, and cabinet to sign off lockdown easing](https://www.bbc.co.uk/news/uk-56635809) - Five things you need to know about the coronavirus pandemic this Monday morning.
+5. [SAG Awards: Screen Actors Guild honour The Trial of the Chicago 7](https://www.bbc.co.uk/news/entertainment-arts-56637214) - People from ethnic minorities win in all four individual film categories for the first time.
 6. [Brownhills: Two-week-old boy dies after car hits pram](https://www.bbc.co.uk/news/uk-england-birmingham-56635010) - The driver left the scene but a 34-year-old man was later arrested, West Midlands Police say.
 7. [Labour urges tighter rules on lobbyists](https://www.bbc.co.uk/news/uk-politics-56635296) - It comes amid questions over David Cameron's links to collapsed finance firm Greensill Capital.
 8. [Boohoo: Karen Millen skirt had Oasis label covered in pen](https://www.bbc.co.uk/news/business-56630546) - Joanna Sikora said a skirt she bought from Karen Millen had an Oasis label covered in marker pen.
@@ -10,11 +10,11 @@
 10. [Bernard Tapie: French tycoon and wife attacked in home](https://www.bbc.co.uk/news/world-europe-56632958) - The former Adidas owner and his wife were tied up and assaulted by burglars at their estate near Paris.
 11. ['Sinister elements' getting younger people to attack PSNI](https://www.bbc.co.uk/news/uk-northern-ireland-56634052) - Officers came under attack during trouble in Carrickfergus, Newtownabbey and Londonderry on Sunday night.
 12. [Taiwan train crash: Lorry boss offers 'deep remorse'](https://www.bbc.co.uk/news/world-asia-56632955) - At least 50 people died in Friday's crash, which was caused by a vehicle slipping onto the tracks.
-13. [The Papers: PM 'pins hopes' on free weekly Covid tests](https://www.bbc.co.uk/news/blogs-the-papers-56635277) - Monday's front pages are dominated by news that everyone in England can soon get two rapid tests a week.
-14. [Adopting in the age of opioids](https://www.bbc.co.uk/news/world-us-canada-56581394) - At 40, Carrie Brady decided to start a family and open her heart to adopting a child in need.
-15. [Patria y Vida: Cuba's rap battle with dissidents](https://www.bbc.co.uk/news/world-latin-america-56606748) - A viral YouTube rap and reggaeton hit called 'Patria y Vida' - 'Fatherland and Life' - has angered Cuba's communist-run government.
-16. [Covid: Croquet clubs 'inundated' during lockdown](https://www.bbc.co.uk/news/uk-england-sussex-56593488) - The UK croquet season begins as clubs see a spike in membership enquiries.
-17. [Sudden death: Partner's heartache after her fiancé died aged 31](https://www.bbc.co.uk/news/uk-england-lancashire-56590347) - Danielle Riley shares her grief after losing her partner Andy to Sudden Adult Death Syndrome.
+13. [Sudden death: Partner's heartache after her fiancé died aged 31](https://www.bbc.co.uk/news/uk-england-lancashire-56590347) - Danielle Riley shares her grief after losing her partner Andy to Sudden Adult Death Syndrome.
+14. [Patria y Vida: Cuba's rap battle with dissidents](https://www.bbc.co.uk/news/world-latin-america-56606748) - A viral YouTube rap and reggaeton hit called 'Patria y Vida' - 'Fatherland and Life' - has angered Cuba's communist-run government.
+15. [The Papers: PM 'pins hopes' on free weekly Covid tests](https://www.bbc.co.uk/news/blogs-the-papers-56635277) - Monday's front pages are dominated by news that everyone in England can soon get two rapid tests a week.
+16. [Adopting in the age of opioids](https://www.bbc.co.uk/news/world-us-canada-56581394) - At 40, Carrie Brady decided to start a family and open her heart to adopting a child in need.
+17. [Covid: Croquet clubs 'inundated' during lockdown](https://www.bbc.co.uk/news/uk-england-sussex-56593488) - The UK croquet season begins as clubs see a spike in membership enquiries.
 18. [London Zoo: Learning to be a zookeeper during lockdown](https://www.bbc.co.uk/news/uk-england-london-56581934) - London Zoo apprentice Joe on how he is learning to be a zookeeper during the pandemic.
 19. [A55 Easter traffic brought to standstill as horse 'breaks down'](https://www.bbc.co.uk/news/uk-wales-56634445) - The equine brought the A55 in Gwynedd to a standstill when its vehicle broke down.
 20. [Marwa Elselehdar: 'I was blamed for blocking the Suez Canal'](https://www.bbc.co.uk/news/world-middle-east-56615521) - Egypt's pioneering ship captain has been targeted over false rumours about her role in the incident.
