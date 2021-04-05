@@ -1,6 +1,6 @@
 1. [Covid: Tests to be offered twice-weekly to all in England](https://www.bbc.co.uk/news/uk-56632084) - The rapid tests are being made available for free, ahead of the next stage of lockdown easing.
 2. [Covid in Scotland: Hairdressers and homeware shops reopen](https://www.bbc.co.uk/news/uk-scotland-56633337) - Non-essential click and collect services are also able to resume business as Covid restrictions ease.
-3. [Two-week-old boy dies as pram hit by car in Brownhills](https://www.bbc.co.uk/news/uk-england-birmingham-56635010) - The driver fled the scene but a 34-year-old man was arrested soon after, West Midlands Police say.
+3. [Two-week-old boy dies after car hits pram in Brownhills](https://www.bbc.co.uk/news/uk-england-birmingham-56635010) - The driver fled the scene but a 34-year-old man was arrested soon after, West Midlands Police say.
 4. [Gundecha Brothers: Famous Indian music gurus accused of sexual assault](https://www.bbc.co.uk/news/world-asia-india-56523999) - The BBC spoke to several women who have accused three famous classical musicians of sexual abuse.
 5. [Labour urges tighter rules on lobbyists](https://www.bbc.co.uk/news/uk-politics-56635296) - It comes amid questions over David Cameron's links to collapsed finance firm Greensill Capital.
 6. [Boohoo: Karen Millen skirt had Oasis label covered in pen](https://www.bbc.co.uk/news/business-56630546) - Joanna Sikora said a skirt she bought from Karen Millen had an Oasis label covered in marker pen.
