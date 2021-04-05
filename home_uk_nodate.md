@@ -1,5 +1,5 @@
 1. [England's lockdown to ease as planned on 12 April](https://www.bbc.co.uk/news/uk-56641596) - Outdoor hospitality, all shops, gyms and hairdressers can reopen but the PM warns against complacency.
-2. [Police find body in search for Richard Okorogheye](https://www.bbc.co.uk/news/uk-56641583) - The student had not been seen by his family since 22 March, when he left their home in west London.
+2. [Richard Okorogheye: Police find body in search for missing student](https://www.bbc.co.uk/news/uk-56641583) - Richard Okorogheye was last seen by his family on 22 March, when he left their home in west London.
 3. [Harvey Weinstein appeals against conviction for sex crimes](https://www.bbc.co.uk/news/world-us-canada-56642644) - The former film producer was found guilty of two sex crimes in February 2020 and jailed for 23 years.
 4. [Covid in Scotland: Hairdressers and homeware shops reopen](https://www.bbc.co.uk/news/uk-scotland-56633337) - Non-essential click and collect services are also able to resume business as Covid restrictions ease.
 5. [Tory MP Dame Cheryl Gillan dies after long illness](https://www.bbc.co.uk/news/uk-56641597) - PM Boris Johnson pays tribute to the former Welsh secretary, saying she will be "sorely missed".
@@ -33,28 +33,29 @@
 33. [England and West Ham midfielder Rice out for a month](https://www.bbc.co.uk/sport/football/56640577) - West Ham midfielder Declan Rice is expected to be out for four weeks after injuring his knee on international duty with England.
 34. [Watch: Middlesbrough's Millie Bell scores 35-yard screamer in Women's FA Cup](https://www.bbc.co.uk/sport/av/football/56644188) - Watch as Middlesbrough's Mille Bell scores a 35-yard free-kick in her side's 3-1 Women's FA Cup win against Hull.
 35. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - Anyone in England who travels abroad without good reason will soon face a £5000 fine.
-36. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - The rules on how many people can meet outdoors are changing, as lockdown is eased.
-37. [Coronavirus: When will pools, gyms, pubs and hairdressers open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?
-38. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.
-39. [Covid: When can pubs and restaurants reopen?](https://www.bbc.co.uk/news/business-52977388) - Hospitality venues are set to gradually open up in the spring as lockdown eases across the UK.
-40. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
-41. [Coronavirus: What are the rules for places of worship?](https://www.bbc.co.uk/news/explainers-53219921) - Places of worship are open across much of the UK, despite lockdown.
-42. [How many cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-43. [Covid: What is the rule of six and what are the social distancing rules?](https://www.bbc.co.uk/news/uk-51506729) - Lockdown rules are being eased further in England and Wales so more people can meet up outside.
-44. [Coronavirus: Your tributes to those who have died](https://www.bbc.co.uk/news/uk-52676411) - A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.
-45. [Why is the EU unhappy with AstraZeneca?](https://www.bbc.co.uk/news/56483766) - The EU has called on AstraZeneca to "catch up" on its deliveries to the EU.
-46. [What are the rules for weddings and when can I hold a reception?](https://www.bbc.co.uk/news/explainers-52811509) - Wedding ceremonies are still restricted across the UK, but the rules are easing.
-47. [Covid: What’s the problem with the EU vaccine rollout?](https://www.bbc.co.uk/news/explainers-52380823) - The coronavirus vaccine is being rolled out across the EU but there have been delays.
-48. [Covid: How are European countries tackling the pandemic?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
-49. [Coronavirus: What are the rules for face masks or face coverings?](https://www.bbc.co.uk/news/health-51205344) - As the UK cautiously unlocks, experts will review the evidence on when and where masks are needed.
-50. [Covid: What's happened to crime during the pandemic?](https://www.bbc.co.uk/news/56463680) - From dog theft to drug crime, lockdown has led to some big changes in policing.
-51. [What are the rules on dating now? And other questions](https://www.bbc.co.uk/news/world-asia-china-51176409) - We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.
-52. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are urged to book their Covid vaccine in the next few days.
-53. [Unemployment rate: How many people are out of work?](https://www.bbc.co.uk/news/business-52660591) - The unemployment rate is rising as Covid hits different parts of the economy.
-54. [Covid: The inside story of the government's battle against the virus](https://www.bbc.co.uk/news/uk-politics-56361599) - Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.
-55. [Covid: The countries that nailed it, and what we can learn from them](https://www.bbc.co.uk/news/uk-56455030) - A year into the pandemic, we look at countries that have had some success in tackling the virus.
-56. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
-57. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
-58. [Letterbox contact: ‘Don’t my birth children have a right to know I’m dying?'](https://www.bbc.co.uk/news/stories-56576285) - Diagnosed with a terminal illness, Hanna wanted to tell the twins taken from her at 16 - but had no way of reaching them.
-59. ['We found a baby on the subway - now he's our son'](https://www.bbc.co.uk/news/stories-56409764) - Danny Stewart saw something on the floor of an NY subway station - soon he would treasure it more than anything.
-60. [Naga Munchetty: It’s time to talk about race](https://www.bbc.co.uk/news/stories-56253480) - Naga Munchetty travelled across the UK to understand what race and racism means today.
+36. [What are the UK plans for Covid passports?](https://www.bbc.co.uk/news/explainers-55718553) - A government review is considering whether people will need to prove they have been vaccinated.
+37. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - The rules on how many people can meet outdoors are changing, as lockdown is eased.
+38. [Coronavirus: When will pools, gyms, pubs and hairdressers open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?
+39. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.
+40. [Covid: When can pubs and restaurants reopen?](https://www.bbc.co.uk/news/business-52977388) - Hospitality venues are set to gradually open up in the spring as lockdown eases across the UK.
+41. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
+42. [Coronavirus: What are the rules for places of worship?](https://www.bbc.co.uk/news/explainers-53219921) - Places of worship are open across much of the UK, despite lockdown.
+43. [How many cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+44. [Covid: What is the rule of six and what are the social distancing rules?](https://www.bbc.co.uk/news/uk-51506729) - Lockdown rules are being eased further in England and Wales so more people can meet up outside.
+45. [Coronavirus: Your tributes to those who have died](https://www.bbc.co.uk/news/uk-52676411) - A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.
+46. [Why is the EU unhappy with AstraZeneca?](https://www.bbc.co.uk/news/56483766) - The EU has called on AstraZeneca to "catch up" on its deliveries to the EU.
+47. [What are the rules for weddings and when can I hold a reception?](https://www.bbc.co.uk/news/explainers-52811509) - Wedding ceremonies are still restricted across the UK, but the rules are easing.
+48. [Covid: What’s the problem with the EU vaccine rollout?](https://www.bbc.co.uk/news/explainers-52380823) - The coronavirus vaccine is being rolled out across the EU but there have been delays.
+49. [Covid: How are European countries tackling the pandemic?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
+50. [Coronavirus: What are the rules for face masks or face coverings?](https://www.bbc.co.uk/news/health-51205344) - As the UK cautiously unlocks, experts will review the evidence on when and where masks are needed.
+51. [Covid: What's happened to crime during the pandemic?](https://www.bbc.co.uk/news/56463680) - From dog theft to drug crime, lockdown has led to some big changes in policing.
+52. [What are the rules on dating now? And other questions](https://www.bbc.co.uk/news/world-asia-china-51176409) - We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.
+53. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 50 and over are urged to book their Covid vaccine in the next few days.
+54. [Unemployment rate: How many people are out of work?](https://www.bbc.co.uk/news/business-52660591) - The unemployment rate is rising as Covid hits different parts of the economy.
+55. [Covid: The inside story of the government's battle against the virus](https://www.bbc.co.uk/news/uk-politics-56361599) - Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.
+56. [Covid: The countries that nailed it, and what we can learn from them](https://www.bbc.co.uk/news/uk-56455030) - A year into the pandemic, we look at countries that have had some success in tackling the virus.
+57. [Covid: What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - The Oxford-AstraZeneca vaccines should save many lives, say experts.
+58. [The cost of speaking up against China](https://www.bbc.co.uk/news/world-asia-china-56563449) - Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.
+59. [Letterbox contact: ‘Don’t my birth children have a right to know I’m dying?'](https://www.bbc.co.uk/news/stories-56576285) - Diagnosed with a terminal illness, Hanna wanted to tell the twins taken from her at 16 - but had no way of reaching them.
+60. ['We found a baby on the subway - now he's our son'](https://www.bbc.co.uk/news/stories-56409764) - Danny Stewart saw something on the floor of an NY subway station - soon he would treasure it more than anything.
+61. [Naga Munchetty: It’s time to talk about race](https://www.bbc.co.uk/news/stories-56253480) - Naga Munchetty travelled across the UK to understand what race and racism means today.
