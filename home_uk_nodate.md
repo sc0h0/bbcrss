@@ -1,13 +1,13 @@
 1. [England's lockdown to ease as planned on 12 April](https://www.bbc.co.uk/news/uk-56641596) - Outdoor pub and restaurant areas, non-essential shops, gyms and hairdressers will be able to reopen.
 2. [Covid in Scotland: Hairdressers and homeware shops reopen](https://www.bbc.co.uk/news/uk-scotland-56633337) - Non-essential click and collect services are also able to resume business as Covid restrictions ease.
 3. [Tory MP Dame Cheryl Gillan dies after long illness](https://www.bbc.co.uk/news/uk-56641597) - PM Boris Johnson pays tribute to the former Welsh secretary, saying she will be "sorely missed".
-4. [Covid: 'All over-50s in Wales offered vaccine by target date'](https://www.bbc.co.uk/news/uk-wales-56639409) - All over-50s and at-risk adults have been offered a vaccine in Wales, Welsh government says.
-5. [Thandie Newton reverts to original spelling of first name, Thandiwe](https://www.bbc.co.uk/news/entertainment-arts-56638260) - The actress has previously been known an Thandie, an anglicised version of her name.
+4. [Covid: 'All over-50s in Wales offered vaccine by target date'](https://www.bbc.co.uk/news/uk-wales-56639409) - All over-50s and at-risk adults have been offered a vaccine, the Welsh government says.
+5. [Thandie Newton reverts to original spelling of first name, Thandiwe](https://www.bbc.co.uk/news/entertainment-arts-56638260) - The actress has previously been known as Thandie, an anglicised version of her name.
 6. [Covid: Paris police probe 'secret luxury dinner parties'](https://www.bbc.co.uk/news/world-europe-56638088) - French authorities investigate after an undercover video claims to show secret luxury dining.
-7. [Mozambique town Palma 'retaken' from militant Islamists](https://www.bbc.co.uk/news/world-africa-56637573) - The military says it is now fully in control of Palma, which was invaded by militants on 24 March.
-8. [Taiwan train crash: 'Can you let me hug her again?'](https://www.bbc.co.uk/news/world-asia-56636595) - Survivors of Taiwan's worst rail accident in decades share their heartbreaking stories of loss.
-9. [Jordan's Prince Hamzah vows to defy 'house arrest' orders](https://www.bbc.co.uk/news/world-middle-east-56637430) - Prince Hamzah says he will not stay quiet after he was accused of plotting to destabilise the state.
-10. [Netanyahu trial: Editor 'told to drop negative stories about Israel PM'](https://www.bbc.co.uk/news/world-middle-east-56606223) - The Israeli PM's corruption trial is told he sought improper benefits from media bosses.
+7. [Netanyahu trial: Editor 'told to drop negative stories about Israel PM'](https://www.bbc.co.uk/news/world-middle-east-56606223) - The Israeli PM's corruption trial is told he sought improper benefits from media bosses.
+8. [Mozambique town Palma 'retaken' from militant Islamists](https://www.bbc.co.uk/news/world-africa-56637573) - The military says it is now fully in control of Palma, which was invaded by militants on 24 March.
+9. [Taiwan train crash: 'Can you let me hug her again?'](https://www.bbc.co.uk/news/world-asia-56636595) - Survivors of Taiwan's worst rail accident in decades share their heartbreaking stories of loss.
+10. [Jordan's Prince Hamzah vows to defy 'house arrest' orders](https://www.bbc.co.uk/news/world-middle-east-56637430) - Prince Hamzah says he will not stay quiet after he was accused of plotting to destabilise the state.
 11. [Dubai police arrest group over nude balcony shoot](https://www.bbc.co.uk/news/world-middle-east-56638282) - Eleven Ukrainian women were among those detained, the Ukrainian consulate told the BBC.
 12. [Tigray crisis: The Weeknd donates $1m to Ethiopians in conflict](https://www.bbc.co.uk/news/world-africa-56638328) - The Canadian popstar says his "heart breaks for innocent civilians being senselessly murdered".
 13. [SAG Awards: Screen Actors Guild honour The Trial of the Chicago 7](https://www.bbc.co.uk/news/entertainment-arts-56637214) - People from ethnic minorities win in all four individual film categories for the first time.
@@ -16,7 +16,7 @@
 16. [Sudden death: Partner's heartache after her fiancé died aged 31](https://www.bbc.co.uk/news/uk-england-lancashire-56590347) - Danielle Riley shares her grief after losing her partner Andy to Sudden Adult Death Syndrome.
 17. [Boohoo: Karen Millen skirt had Oasis label covered in pen](https://www.bbc.co.uk/news/business-56630546) - Joanna Sikora said a skirt she bought from Karen Millen had an Oasis label covered in marker pen.
 18. [Patria y Vida: Cuba's rap battle with dissidents](https://www.bbc.co.uk/news/world-latin-america-56606748) - A viral YouTube rap and reggaeton hit called 'Patria y Vida' - 'Fatherland and Life' - has angered Cuba's communist-run government.
-19. [Adopting in the age of opioids](https://www.bbc.co.uk/news/world-us-canada-56581394) - At 40, Carrie Brady decided to start a family and open her heart to adopting a child in need.
+19. [Adopting a child with an opioid addiction](https://www.bbc.co.uk/news/world-us-canada-56581394) - Carrie Brady didn’t realise how the decision to adopt would reshape her family’s life forever.
 20. [Covid: Croquet clubs 'inundated' during lockdown](https://www.bbc.co.uk/news/uk-england-sussex-56593488) - The UK croquet season begins as clubs see a spike in membership enquiries.
 21. [A55 Easter traffic brought to standstill as horse 'breaks down'](https://www.bbc.co.uk/news/uk-wales-56634445) - The equine brought the A55 in Gwynedd to a standstill when its vehicle broke down.
 22. [Can celebrities control their image online?](https://www.bbc.co.uk/news/entertainment-arts-56592762) - Meet the stars who have attempted to police their online presence - from Rami Malek to Beyonce.
