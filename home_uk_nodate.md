@@ -1,12 +1,12 @@
 1. [Covid: Tests to be offered twice-weekly to all in England](https://www.bbc.co.uk/news/uk-56632084) - The rapid tests are being made available for free, ahead of the next stage of lockdown easing.
 2. [Covid in Scotland: Hairdressers and homeware shops reopen](https://www.bbc.co.uk/news/uk-scotland-56633337) - Non-essential click and collect services are also able to resume business as Covid restrictions ease.
-3. [Covid-19: PM to unveil foreign travel traffic light system](https://www.bbc.co.uk/news/uk-56637472) - The government is acting "very carefully and cautiously", health minister Edward Argar says.
+3. [Covid-19: PM expected to unveil foreign travel traffic light system](https://www.bbc.co.uk/news/uk-56637472) - The government is acting "very carefully and cautiously", health minister Edward Argar says
 4. [Brownhills: Two-week-old boy dies after car hits pram](https://www.bbc.co.uk/news/uk-england-birmingham-56635010) - The driver left the scene but a 34-year-old man was later arrested, West Midlands Police say.
 5. [Gundecha Brothers: Famous Indian music gurus accused of sexual assault](https://www.bbc.co.uk/news/world-asia-india-56523999) - The BBC spoke to several women who have accused three famous classical musicians of sexual abuse.
 6. [Covid: Weekly tests for all in England, and cabinet to sign off lockdown easing](https://www.bbc.co.uk/news/uk-56635809) - Five things you need to know about the coronavirus pandemic this Monday morning.
 7. [Labour urges tighter rules on lobbyists](https://www.bbc.co.uk/news/uk-politics-56635296) - It comes amid questions over David Cameron's links to collapsed finance firm Greensill Capital.
 8. [Boohoo: Karen Millen skirt had Oasis label covered in pen](https://www.bbc.co.uk/news/business-56630546) - Joanna Sikora said a skirt she bought from Karen Millen had an Oasis label covered in marker pen.
-9. [Flash floods and landslides in Indonesia and East Timor kill 70](https://www.bbc.co.uk/news/world-asia-56635297) - Torrential rain sparked widespread destruction in eastern Indonesia and neighbouring East Timor.
+9. [Floods and landslides in Indonesia and East Timor kill more than 100](https://www.bbc.co.uk/news/world-asia-56635297) - Torrential rain sparked widespread destruction in eastern Indonesia and neighbouring East Timor.
 10. [Bernard Tapie: French tycoon and wife attacked in home](https://www.bbc.co.uk/news/world-europe-56632958) - The former Adidas owner and his wife were tied up and assaulted by burglars at their estate near Paris.
 11. [Taiwan train crash: Lorry boss offers 'deep remorse'](https://www.bbc.co.uk/news/world-asia-56632955) - At least 50 people died in Friday's crash, which was caused by a vehicle slipping onto the tracks.
 12. [Piney Point: Emergency crews try to plug Florida toxic wastewater leak](https://www.bbc.co.uk/news/world-us-canada-56629013) - More than 300 homes in the Tampa Bay area have been ordered to be evacuated.
