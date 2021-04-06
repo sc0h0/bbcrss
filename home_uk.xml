@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Apr 2021 15:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 15:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid passports: Certification is 'one option', vaccines minister says]]></title>
-            <description><![CDATA[Introducing Covid status certificates risks creating a "two-tier Britain", critics say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56645208</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56645208</guid>
-            <pubDate>Tue, 06 Apr 2021 15:11:21 GMT</pubDate>
+            <title><![CDATA[Covid: Trust regulator on AstraZeneca vaccine safety, Boris Johnson says]]></title>
+            <description><![CDATA[Inquiries into whether there is a link between the jab and rare blood clots are ongoing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56654022</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56654022</guid>
+            <pubDate>Tue, 06 Apr 2021 15:51:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Richard Okorogheye: Police find body in search for missing student]]></title>
@@ -44,8 +44,8 @@
             <pubDate>Tue, 06 Apr 2021 14:01:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chris Sutton talks to BBC Breakfast about losing his dad to dementia]]></title>
-            <description><![CDATA[Chris Sutton talks to BBC Breakfast's Sally Nugent about losing his dad to dementia.]]></description>
+            <title><![CDATA[Chris Sutton: 'I believe heading a football killed my dad']]></title>
+            <description><![CDATA[Chris Sutton has opened up about the struggle of watching his dad, footballer Mike Sutton, suffer with dementia.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/56651464</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56651464</guid>
             <pubDate>Tue, 06 Apr 2021 14:16:12 GMT</pubDate>
@@ -58,25 +58,18 @@
             <pubDate>Tue, 06 Apr 2021 12:49:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid passports: Certification is 'one option', vaccines minister says]]></title>
+            <description><![CDATA[Introducing Covid status certificates risks creating a "two-tier Britain", critics say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56645208</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56645208</guid>
+            <pubDate>Tue, 06 Apr 2021 15:11:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[IMF forecasts stronger recovery for world economy]]></title>
             <description><![CDATA[The IMF has upgraded both its UK and global forecasts compared with what it projected in January.]]></description>
             <link>https://www.bbc.co.uk/news/business-56650685</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56650685</guid>
             <pubDate>Tue, 06 Apr 2021 12:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[English local elections: Ed Davey urges local funds for green projects]]></title>
-            <description><![CDATA[The Liberal Democrat leader says local councils should be given a bigger role over climate policies.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56647573</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56647573</guid>
-            <pubDate>Tue, 06 Apr 2021 11:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tool checks phone numbers from Facebook data breach]]></title>
-            <description><![CDATA[A new online tool lets users check their phone numbers against the leaked database.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56650387</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56650387</guid>
-            <pubDate>Tue, 06 Apr 2021 11:42:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man in court after two-week-old baby killed in Brownhills crash]]></title>
@@ -90,7 +83,14 @@
             <description><![CDATA[Ten arrests have been made in recent days, with further violence in Carrickfergus and Londonderry on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56646392</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56646392</guid>
-            <pubDate>Tue, 06 Apr 2021 14:19:44 GMT</pubDate>
+            <pubDate>Tue, 06 Apr 2021 15:27:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E3 2021: Biggest conference in gaming is going online]]></title>
+            <description><![CDATA[The video game conference was cancelled last year because of coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56654159</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56654159</guid>
+            <pubDate>Tue, 06 Apr 2021 15:16:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Warwick team triumph in University Challenge final]]></title>
@@ -184,6 +184,13 @@
             <pubDate>Tue, 06 Apr 2021 12:18:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tool checks phone numbers from Facebook data breach]]></title>
+            <description><![CDATA[A new online tool lets users check their phone numbers against the leaked database.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56650387</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56650387</guid>
+            <pubDate>Tue, 06 Apr 2021 11:42:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Five animals to spot in a post-Covid financial jungle]]></title>
             <description><![CDATA[As the world prepares for an economic reset, several creatures have emerged to help you navigate your way.]]></description>
             <link>https://www.bbc.co.uk/news/business-56484986</link>
@@ -247,18 +254,18 @@
             <pubDate>Tue, 06 Apr 2021 11:32:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Westwood eyes 'special' Nicklaus record at Masters]]></title>
+            <description><![CDATA[Lee Westwood says it would be a "very special" moment to break Jack Nicklaus' record as the oldest player to win the Masters.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/56652753</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56652753</guid>
+            <pubDate>Tue, 06 Apr 2021 15:45:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Manchester City post £126m loss for disrupted 2019-20 season]]></title>
             <description><![CDATA[Premier League leaders Manchester City report a loss of £126m for the 2019-20 season which was disrupted by the coronavirus pandemic.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56653382</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56653382</guid>
             <pubDate>Tue, 06 Apr 2021 15:14:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['He loves trash talking with Michael Jordan' - the making of Masters champion Johnson]]></title>
-            <description><![CDATA[A poker face and single-minded resolve - how Dustin Johnson matured into the Masters champion.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/56487582</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56487582</guid>
-            <pubDate>Tue, 06 Apr 2021 07:20:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I forgot to tell my parents I was England captain']]></title>
@@ -398,7 +405,7 @@
             <description><![CDATA[The coronavirus vaccine is being rolled out across the EU but there have been delays.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52380823</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52380823</guid>
-            <pubDate>Thu, 01 Apr 2021 16:37:08 GMT</pubDate>
+            <pubDate>Tue, 06 Apr 2021 15:33:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
