@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Apr 2021 09:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 09:39:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Introducing Covid status certificates risks creating a "two-tier Britain", critics say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56645208</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56645208</guid>
-            <pubDate>Tue, 06 Apr 2021 08:10:17 GMT</pubDate>
+            <pubDate>Tue, 06 Apr 2021 09:15:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mental health: More help for new and expectant mothers in England]]></title>
@@ -34,7 +34,7 @@
             <description><![CDATA[Richard Okorogheye was last seen by his family on 22 March, when he left their home in west London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56641583</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56641583</guid>
-            <pubDate>Tue, 06 Apr 2021 08:59:50 GMT</pubDate>
+            <pubDate>Tue, 06 Apr 2021 09:31:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EasyJet: Two test travel plan would be too expensive]]></title>
@@ -83,7 +83,7 @@
             <description><![CDATA[People are encouraged to raise money on what would have been the late NHS fundraiser's birthday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56641436</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56641436</guid>
-            <pubDate>Mon, 05 Apr 2021 23:03:46 GMT</pubDate>
+            <pubDate>Tue, 06 Apr 2021 09:15:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jordan's Prince Hamzah pledges allegiance to king after mediation]]></title>
@@ -223,7 +223,14 @@
             <description><![CDATA[Former England wicketkeeper Sarah Taylor is set to play for the first time since 2019 after joining Welsh Fire for this summer's Hundred.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/56554422</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56554422</guid>
-            <pubDate>Tue, 06 Apr 2021 07:01:38 GMT</pubDate>
+            <pubDate>Tue, 06 Apr 2021 09:28:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Champions League quarter-finals - repeats of finals, underdogs and more subplots]]></title>
+            <description><![CDATA[A repeat of two recent finals, three ties with English teams and a close-up scouting mission - the Champions League quarter-finals could prove to be some of the best yet.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56564361</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56564361</guid>
+            <pubDate>Mon, 05 Apr 2021 17:44:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who is playing with a smile on his face and who made me think I was seeing things? Garth Crooks' team of the week]]></title>
@@ -240,13 +247,6 @@
             <pubDate>Mon, 05 Apr 2021 22:21:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['We have nothing to lose' - West Ham eye top-four finish after win over Wolves]]></title>
-            <description><![CDATA[Jesse Lingard scores a brilliant solo goal before West Ham hold off a Wolves fightback to secure a victory that moves them into the Premier League top four.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56560430</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56560430</guid>
-            <pubDate>Mon, 05 Apr 2021 22:29:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[La Liga highlights: Ousmane Dembele scores late winner for Barcelona]]></title>
             <description><![CDATA[Watch highlights as Ousmane Dembele scores a 90th-minute winner for Barcelona while opponents Real Valladolid receive a controversial red card.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/56644951</link>
@@ -254,11 +254,18 @@
             <pubDate>Mon, 05 Apr 2021 22:32:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MLB: Early catch of the year candidate? Tampa Bay Rays' Randy Arozarena makes epic diving catch]]></title>
+            <description><![CDATA[Randy Arozarena of the Tampa Bay Rays makes a terrific diving catch, as the Boston Red Sox score only one run on the play.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/baseball/56647959</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/baseball/56647959</guid>
+            <pubDate>Tue, 06 Apr 2021 08:12:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What are the UK plans for Covid passports?]]></title>
-            <description><![CDATA[A government review is considering whether people will need to prove they have been vaccinated.]]></description>
+            <description><![CDATA[The government is considering how people could prove they are unlikely to transmit Covid.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Tue, 06 Apr 2021 08:02:04 GMT</pubDate>
+            <pubDate>Tue, 06 Apr 2021 09:16:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
