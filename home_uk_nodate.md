@@ -8,7 +8,7 @@
 8. [Man, 34, charged over death of baby hit by car](https://www.bbc.co.uk/news/uk-england-56644335) - Two-week-old Ciaran Leigh Morris died after a car hit his pram in the West Midlands.
 9. [Unions criticise 'miserly' 50p rise in statutory sick pay](https://www.bbc.co.uk/news/business-56639106) - SSP increases from £95.85 to £96.35 a week in April, but unions say it is too little to live on.
 10. [Capt Sir Tom 100: Family unveils NHS fundraiser's 'birthday challenge'](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56641436) - People are encouraged to raise money on what would have been the late NHS fundraiser's birthday.
-11. [Jordan's Prince Hamzah pledges allegiance to king after mediation](https://www.bbc.co.uk/news/world-middle-east-56644578) - Prince Hamzah issues a statement hours after mediation saying he is committed to the constitution.
+11. [Jordan's Prince Hamzah pledges allegiance to king after mediation](https://www.bbc.co.uk/news/world-middle-east-56644578) - Prince Hamzah issues a statement hours after mediation, saying he is committed to the constitution.
 12. [Tokyo Olympics: North Korea to skip Games over Covid-19 fears](https://www.bbc.co.uk/news/world-asia-56645611) - The announcement puts an end to Seoul's hopes of using the Games to engage with Pyongyang.
 13. [The Papers: 'Cheers' at roadmap - but normal 'some way off'](https://www.bbc.co.uk/news/blogs-the-papers-56644717) - Most of Tuesday's newspapers focus on Boris Johnson's press conference about easing lockdown.
 14. [Light pollution: How lockdown has darkened our skies](https://www.bbc.co.uk/news/science-environment-56634629) - One impact of lockdown is that there has been a big reduction in light pollution in some areas.
