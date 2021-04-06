@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Apr 2021 00:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 02:07:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -268,6 +268,41 @@
             <pubDate>Mon, 05 Apr 2021 22:32:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: What is the rule of six and what are the social distancing rules?]]></title>
+            <description><![CDATA[Lockdown rules are being eased further in England and Wales so more people can meet up outside.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Thu, 01 Apr 2021 07:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Can my boss force me to go to work?]]></title>
+            <description><![CDATA[As lockdown restrictions ease ease gradually across the UK, what are the rules about going to work?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Thu, 01 Apr 2021 16:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Mon, 05 Apr 2021 16:36:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccines: How fast is progress around the world?]]></title>
+            <description><![CDATA[Charts and maps tracking the progress of Covid vaccination programmes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-56237778</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56237778</guid>
+            <pubDate>Thu, 01 Apr 2021 16:34:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
+            <description><![CDATA[People aged 50 and over are urged to book their Covid vaccine in the next few days.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Wed, 31 Mar 2021 14:15:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
             <description><![CDATA[Anyone in England who travels abroad without good reason will soon face a £5000 fine.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52646738</link>
@@ -324,20 +359,6 @@
             <pubDate>Wed, 31 Mar 2021 13:19:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How many cases are there in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 05 Apr 2021 16:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What is the rule of six and what are the social distancing rules?]]></title>
-            <description><![CDATA[Lockdown rules are being eased further in England and Wales so more people can meet up outside.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51506729</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
-            <pubDate>Thu, 01 Apr 2021 07:06:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coronavirus: Your tributes to those who have died]]></title>
             <description><![CDATA[A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.]]></description>
             <link>https://www.bbc.co.uk/news/uk-52676411</link>
@@ -392,13 +413,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
             <pubDate>Tue, 30 Mar 2021 13:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
-            <description><![CDATA[People aged 50 and over are urged to book their Covid vaccine in the next few days.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55045639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Wed, 31 Mar 2021 14:15:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unemployment rate: How many people are out of work?]]></title>
