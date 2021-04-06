@@ -1,4 +1,4 @@
-1. [England's lockdown to ease as planned on 12 April](https://www.bbc.co.uk/news/uk-56641596) - Outdoor hospitality, all shops, gyms and hairdressers can reopen but the PM warns against complacency.
+1. [Covid passports: Plans criticised by MPs amid fears of 'two-tier Britain'](https://www.bbc.co.uk/news/uk-56645208) - Certificates are likely to be a feature of life until the Covid threat is over, a government review says.
 2. ['Disappointed' travel chiefs seek clarity from PM](https://www.bbc.co.uk/news/business-56644058) - Leading travel industry figures react with dismay to Boris Johnson's update on the lockdown roadmap.
 3. [George Floyd: Minneapolis police chief says Chauvin violated policy](https://www.bbc.co.uk/news/world-us-canada-56642582) - The city police chief has testified in the trial of the ex-officer accused of killing George Floyd.
 4. [Richard Okorogheye: Police find body in search for missing student](https://www.bbc.co.uk/news/uk-56641583) - Richard Okorogheye was last seen by his family on 22 March, when he left their home in west London.
