@@ -7,9 +7,9 @@
 7. [Jordan's Prince Hamzah pledges allegiance to king after mediation](https://www.bbc.co.uk/news/world-middle-east-56644578) - Prince Hamzah issues a statement hours after mediation saying he is committed to the constitution.
 8. [Man, 34, charged after baby hit by car](https://www.bbc.co.uk/news/uk-england-56644335) - Two-week-old Ciaran Leigh Morris died after a car hit his pram in the West Midlands.
 9. [Capt Sir Tom 100: Family unveils NHS fundraiser's 'birthday challenge'](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56641436) - People are encouraged to raise money on what would have been the late NHS fundraiser's birthday.
-10. [Harvey Weinstein appeals against conviction for sex crimes](https://www.bbc.co.uk/news/world-us-canada-56642644) - The former film producer was found guilty of two sex crimes in February 2020 and jailed for 23 years.
+10. [More than 1,800 prisoners escape in Nigeria](https://www.bbc.co.uk/news/world-africa-56644577) - Six prisoners have reportedly returned while 35 had refused to escape in the attack by gunmen.
 11. [Sir Keir Starmer apologises for visit to church criticised for LGBT stance](https://www.bbc.co.uk/news/uk-politics-56644740) - The Labour leader visited a church on Good Friday but says he was unaware of its beliefs on LGBT+ rights.
-12. [More than 1,800 prisoners escape in Nigeria](https://www.bbc.co.uk/news/world-africa-56644577) - Six prisoners have reportedly returned while 35 had refused to escape in the attack by gunmen.
+12. [Tokyo Olympics: North Korea to skip Games over Covid-19 fears](https://www.bbc.co.uk/news/world-asia-56645611) - The announcement puts an end to Seoul's hopes of using the Games to engage with Pyongyang.
 13. [NI parade involving masked men investigated](https://www.bbc.co.uk/news/uk-northern-ireland-56592378) - Social media footage appears to show a number of masked men taking part in a loyalist band parade.
 14. [The Papers: 'Cheers' at roadmap - but normal 'some way off'](https://www.bbc.co.uk/news/blogs-the-papers-56644717) - Most of Tuesday's newspapers focus on Boris Johnson's press conference about easing lockdown.
 15. [Light pollution: How lockdown has darkened our skies](https://www.bbc.co.uk/news/science-environment-56634629) - One impact of lockdown is that there has been a big reduction in light pollution in some areas.
