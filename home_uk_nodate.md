@@ -43,7 +43,7 @@
 43. [Covid: What is the rule of six and what are the social distancing rules?](https://www.bbc.co.uk/news/uk-51506729) - Lockdown rules are being eased further in England and Wales so more people can meet up outside.
 44. [Covid: Can my boss force me to go to work?](https://www.bbc.co.uk/news/business-52567567) - As lockdown restrictions ease ease gradually across the UK, what are the rules about going to work?
 45. [Covid vaccines: How fast is progress around the world?](https://www.bbc.co.uk/news/world-56237778) - Charts and maps tracking the progress of Covid vaccination programmes.
-46. [Coronavirus: When will pools, gyms, pubs and hairdressers open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?
+46. [Coronavirus: When will pools, gyms and hairdressers open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?
 47. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.
 48. [Covid: When can pubs and restaurants reopen?](https://www.bbc.co.uk/news/business-52977388) - Hospitality venues are set to gradually open up in the spring as lockdown eases across the UK.
 49. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
