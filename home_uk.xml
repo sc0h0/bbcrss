@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Apr 2021 21:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 21:44:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,20 @@
             <pubDate>Tue, 06 Apr 2021 20:44:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Britain's electricity system 'greenest ever' over Easter]]></title>
+            <description><![CDATA[Sunny and windy weather led to a surge in renewable sources of energy, the operator says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56657299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56657299</guid>
+            <pubDate>Tue, 06 Apr 2021 21:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: US rules out vaccine passports]]></title>
+            <description><![CDATA[The White House says no American will be forced by the government to obtain proof of vaccination.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56657194</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56657194</guid>
+            <pubDate>Tue, 06 Apr 2021 21:31:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Richard Okorogheye: Police find body in search for missing student]]></title>
             <description><![CDATA[Richard Okorogheye was last seen by his family on 22 March, when he left their home in west London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56641583</link>
@@ -37,25 +51,18 @@
             <pubDate>Tue, 06 Apr 2021 18:09:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Real Madrid 3-1 Liverpool: Reds outclassed in quarter-final first leg]]></title>
-            <description><![CDATA[Liverpool need to produce another huge European display at Anfield if they are to reach the last four of the Champions League after a crushing quarter-final first-leg loss to Real Madrid.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56641937</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56641937</guid>
-            <pubDate>Tue, 06 Apr 2021 21:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chris Sutton: 'I believe heading a football killed my dad']]></title>
-            <description><![CDATA[Chris Sutton has opened up about the struggle of watching his dad, footballer Mike Sutton, suffer with dementia.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56651464</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56651464</guid>
-            <pubDate>Tue, 06 Apr 2021 14:16:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kim Kardashian West joins billionaire club]]></title>
             <description><![CDATA[Forbes business magazine adds the US reality TV star to its list of the super-rich.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56657188</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56657188</guid>
             <pubDate>Tue, 06 Apr 2021 20:28:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real Madrid 3-1 Liverpool: Reds outclassed in quarter-final first leg]]></title>
+            <description><![CDATA[Liverpool need to produce another huge European display at Anfield if they are to reach the last four of the Champions League after a crushing quarter-final first-leg loss to Real Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56641937</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56641937</guid>
+            <pubDate>Tue, 06 Apr 2021 21:14:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leeds student builds bin bag dispenser to tackle Hyde Park litter]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Tue, 06 Apr 2021 16:33:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Secondary school pupils to keep wearing masks after Easter]]></title>
-            <description><![CDATA[Face masks in classrooms in England will remain at least until May, says education secretary.]]></description>
-            <link>https://www.bbc.co.uk/news/education-56651135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56651135</guid>
-            <pubDate>Tue, 06 Apr 2021 15:56:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Leeds Bradford Airport development plan ruling delayed]]></title>
             <description><![CDATA[The government is to take more time to examine a £150m scheme to redevelop Leeds Bradford Airport.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-56657023</link>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-56656786</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56656786</guid>
             <pubDate>Tue, 06 Apr 2021 20:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chris Sutton: 'I believe heading a football killed my dad']]></title>
+            <description><![CDATA[Chris Sutton has opened up about the struggle of watching his dad, footballer Mike Sutton, suffer with dementia.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56651464</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56651464</guid>
+            <pubDate>Tue, 06 Apr 2021 14:16:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mother-daughter relationship turned upside down by Covid]]></title>
@@ -251,7 +258,7 @@
             <description><![CDATA[Phil Foden scores a late winner as Manchester City beat Borussia Dortmund in the first leg of their Champions League quarter-final tie at the Etihad.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56641944</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56641944</guid>
-            <pubDate>Tue, 06 Apr 2021 21:20:35 GMT</pubDate>
+            <pubDate>Tue, 06 Apr 2021 21:38:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Westwood eyes 'special' Nicklaus record at Masters]]></title>
