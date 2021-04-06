@@ -3,7 +3,7 @@
 3. [Mental health: More help for new and expectant mothers in England](https://www.bbc.co.uk/news/health-56639858) - The 26 clinics, providing treatment for 6,000 new parents, will open by April 2022, NHS England says.
 4. [Richard Okorogheye: Police find body in search for missing student](https://www.bbc.co.uk/news/uk-56641583) - Richard Okorogheye was last seen by his family on 22 March, when he left their home in west London.
 5. [Hunter Biden on addiction: My life is not a tabloid](https://www.bbc.co.uk/news/world-us-canada-56641577) - The US president's son talks to the BBC about addiction, grief and his scrutinised work in Ukraine.
-6. [Australia and New Zealand to start quarantine-free travel](https://www.bbc.co.uk/news/world-australia-56645990) - Both nations have contained Covid outbreaks and sustained very low or near-zero infection rates.
+6. [Australia and New Zealand to start quarantine-free travel](https://www.bbc.co.uk/news/world-australia-56645990) - Both nations have contained Covid outbreaks and maintained very low or near-zero infection rates.
 7. [Man, 34, charged after baby hit by car](https://www.bbc.co.uk/news/uk-england-56644335) - Two-week-old Ciaran Leigh Morris died after a car hit his pram in the West Midlands.
 8. [Unions criticise 'miserly' 50p rise in statutory sick pay](https://www.bbc.co.uk/news/business-56639106) - SSP increases from £95.85 to £96.35 a week in April, but unions say it is too little to live on.
 9. [Capt Sir Tom 100: Family unveils NHS fundraiser's 'birthday challenge'](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56641436) - People are encouraged to raise money on what would have been the late NHS fundraiser's birthday.
