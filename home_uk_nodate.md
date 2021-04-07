@@ -4,12 +4,12 @@
 4. [George Floyd death: Chauvin 'trained to stay away from neck'](https://www.bbc.co.uk/news/world-us-canada-56653065) - Minneapolis Police Department training officers testify on use of force in George Floyd's death.
 5. [China one-child policy: can dropping limits increase birth rates?](https://www.bbc.co.uk/news/world-asia-56608495) - The government is considering dropping birth limits in some parts to offset an ageing population.
 6. [City drivers 'should think twice' before buying SUVs](https://www.bbc.co.uk/news/business-56647128) - The boss of the RAC Foundation says drivers in urban areas should consider which car is most appropriate.
-7. [Schools 'a lifeline to many students' in past year'](https://www.bbc.co.uk/news/education-56652151) - School staff helped families struggling financially during pandemic, says the National Education Union.
-8. [Covid: US rules out federal vaccine passports](https://www.bbc.co.uk/news/world-us-canada-56657194) - No American will be forced by the government to obtain proof of vaccination, the White House says.
-9. [Food poverty: MPs call on government to step up help](https://www.bbc.co.uk/news/business-56654430) - A report calls on the government to create a food security minister to protect the vulnerable.
+7. [Food poverty: MPs call on government to step up help](https://www.bbc.co.uk/news/business-56654430) - A report calls on the government to create a food security minister to protect the vulnerable.
+8. [Schools 'a lifeline to many students' in past year'](https://www.bbc.co.uk/news/education-56652151) - School staff helped families struggling financially during pandemic, says the National Education Union.
+9. [Covid: US rules out federal vaccine passports](https://www.bbc.co.uk/news/world-us-canada-56657194) - No American will be forced by the government to obtain proof of vaccination, the White House says.
 10. [Britain's electricity system 'greenest ever' over Easter](https://www.bbc.co.uk/news/uk-56657299) - Sunny and windy weather led to a surge in renewable sources of energy, the operator says.
-11. [Arkansas bans transgender youth treatment](https://www.bbc.co.uk/news/world-us-canada-56657625) - Arkansas has become the first state to outlaw surgery for transgender people under the age of 18.
-12. ['Our flight refund battle for mum who can barely walk'](https://www.bbc.co.uk/news/business-56649725) - The family was sent a voucher, rather than the refund they wanted - until BBC News followed up the case.
+11. ['Our flight refund battle for mum who can barely walk'](https://www.bbc.co.uk/news/business-56649725) - The family was sent a voucher, rather than the refund they wanted - until BBC News followed up the case.
+12. [Arkansas bans transgender youth treatment](https://www.bbc.co.uk/news/world-us-canada-56657625) - Arkansas has become the first state to outlaw surgery for transgender people under the age of 18.
 13. [Kim Kardashian West joins billionaire club](https://www.bbc.co.uk/news/world-us-canada-56657188) - Forbes business magazine adds the US reality TV star to its list of the super-rich.
 14. [The Papers: 'Pause jabs for young people', and holidays latest](https://www.bbc.co.uk/news/blogs-the-papers-56657519) - Wednesday's newspaper front pages carry a mix of stories although coronavirus continues to dominate.
 15. [Inner Light: The children surviving conflict in DR Congo](https://www.bbc.co.uk/news/in-pictures-56580258) - Hugh Kinsella Cunningham documents the lives of children caught up in conflict in DR Congo.
