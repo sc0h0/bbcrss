@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Apr 2021 07:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 07:49:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,6 +261,13 @@
             <pubDate>Tue, 06 Apr 2021 21:43:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: How does the Oxford-AstraZeneca vaccine work?]]></title>
+            <description><![CDATA[The prime minister has urged people to trust medical regulators about the safety of the vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55302595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
+            <pubDate>Wed, 07 Apr 2021 07:41:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
             <description><![CDATA[The rules on how many people can meet outdoors are changing, as lockdown is eased.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
@@ -282,18 +289,18 @@
             <pubDate>Mon, 05 Apr 2021 16:19:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are the UK plans for Covid passports?]]></title>
-            <description><![CDATA[The government is considering how people could prove they are unlikely to transmit Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Tue, 06 Apr 2021 09:16:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
             <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
             <pubDate>Mon, 05 Apr 2021 17:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the UK plans for Covid passports?]]></title>
+            <description><![CDATA[The government is considering how people could prove they are unlikely to transmit Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
+            <pubDate>Tue, 06 Apr 2021 09:16:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
@@ -434,13 +441,6 @@
             <link>https://www.bbc.co.uk/news/uk-56455030</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56455030</guid>
             <pubDate>Mon, 22 Mar 2021 00:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: How does the Oxford-AstraZeneca vaccine work?]]></title>
-            <description><![CDATA[The prime minister has urged people to trust medical regulators about the safety of the vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55302595</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
-            <pubDate>Tue, 06 Apr 2021 16:58:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Race report: Was controversy part of the plan?]]></title>
