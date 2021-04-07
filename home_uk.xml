@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Apr 2021 01:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 02:24:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,11 @@
             <pubDate>Tue, 06 Apr 2021 23:37:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: US rules out federal vaccine passports]]></title>
-            <description><![CDATA[No American will be forced by the government to obtain proof of vaccination, the White House says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56657194</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56657194</guid>
-            <pubDate>Tue, 06 Apr 2021 22:52:16 GMT</pubDate>
+            <title><![CDATA[Covid: Brazil has more than 4,000 deaths in 24 hours for first time]]></title>
+            <description><![CDATA[Hospitals are overcrowded, with people dying as they wait for treatment, as cases continue to surge.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56657818</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56657818</guid>
+            <pubDate>Wed, 07 Apr 2021 02:02:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Floyd death: Chauvin 'trained to stay away from neck']]></title>
@@ -58,25 +58,25 @@
             <pubDate>Tue, 06 Apr 2021 23:01:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Child jabs halted in trial as adult clot link probed]]></title>
-            <description><![CDATA[The UK's regulator is to investigate the Oxford-AstraZeneca jab over a possible link with blood clots.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56656356</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56656356</guid>
-            <pubDate>Tue, 06 Apr 2021 23:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arkansas bans transgender youth treatment]]></title>
-            <description><![CDATA[Arkansas has become the first state to outlaw surgery for transgender people under the age of 18.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56657625</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56657625</guid>
-            <pubDate>Tue, 06 Apr 2021 22:17:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Schools 'a lifeline to many students' in past year']]></title>
             <description><![CDATA[School staff helped families struggling financially during pandemic, says the National Education Union.]]></description>
             <link>https://www.bbc.co.uk/news/education-56652151</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56652151</guid>
             <pubDate>Wed, 07 Apr 2021 00:11:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: US rules out federal vaccine passports]]></title>
+            <description><![CDATA[No American will be forced by the government to obtain proof of vaccination, the White House says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56657194</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56657194</guid>
+            <pubDate>Tue, 06 Apr 2021 22:52:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Food poverty: MPs call on government to step up help]]></title>
+            <description><![CDATA[A report calls on the government to create a food security minister to protect the vulnerable.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56654430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56654430</guid>
+            <pubDate>Tue, 06 Apr 2021 23:00:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Britain's electricity system 'greenest ever' over Easter]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Wed, 07 Apr 2021 00:00:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Food poverty: MPs call on government to step up help]]></title>
-            <description><![CDATA[A report calls on the government to create a food security minister to protect the vulnerable.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56654430</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56654430</guid>
-            <pubDate>Tue, 06 Apr 2021 23:00:34 GMT</pubDate>
+            <title><![CDATA[Arkansas bans transgender youth treatment]]></title>
+            <description><![CDATA[Arkansas has become the first state to outlaw surgery for transgender people under the age of 18.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56657625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56657625</guid>
+            <pubDate>Tue, 06 Apr 2021 22:17:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Our flight refund battle for mum who can barely walk']]></title>
@@ -175,6 +175,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56654289</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56654289</guid>
             <pubDate>Tue, 06 Apr 2021 23:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India Covid-19: 'No end in sight' as doctors battle second wave]]></title>
+            <description><![CDATA[Indian doctors say they are already feeling overwhelmed as Covid cases rise sharply in the country.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56645701</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56645701</guid>
+            <pubDate>Wed, 07 Apr 2021 02:10:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Huber case: Nazi police chief in Vienna spied for West Germany]]></title>
