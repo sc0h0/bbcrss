@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Apr 2021 19:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 19:22:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/health-56665517</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56665517</guid>
             <pubDate>Wed, 07 Apr 2021 18:39:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU regulator says AZ clots 'very rare' side effect]]></title>
+            <description><![CDATA[The EU's medicines regulator finds the benefits of the Covid-19 vaccine outweigh the risks.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56665150</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56665150</guid>
+            <pubDate>Wed, 07 Apr 2021 17:53:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newcastle driver left student to die in road after crash]]></title>
@@ -58,13 +65,6 @@
             <pubDate>Wed, 07 Apr 2021 15:15:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Vaccine alternative for the under-30s, and bank plans 'significantly' less office space]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56668593</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56668593</guid>
-            <pubDate>Wed, 07 Apr 2021 16:51:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[M25 crash: Lorry suspended from bridge over A2]]></title>
             <description><![CDATA[The M25 and A2 are closed in both directions due to a lorry hanging off the side of a bridge.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-56669974</link>
@@ -84,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-somerset-56668025</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-56668025</guid>
             <pubDate>Wed, 07 Apr 2021 16:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rare Superman comic sells for record $3.25m]]></title>
-            <description><![CDATA[Action Comics #1, which sold for 10 cents in 1938, is the world's most valuable comic book.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56669924</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56669924</guid>
-            <pubDate>Wed, 07 Apr 2021 18:11:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[American bulldogs killed Widnes mother after row with daughter]]></title>
@@ -126,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56661226</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56661226</guid>
             <pubDate>Wed, 07 Apr 2021 15:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rare Superman comic sells for record $3.25m]]></title>
+            <description><![CDATA[Action Comics #1, which sold for 10 cents in 1938, is the world's most valuable comic book.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56669924</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56669924</guid>
+            <pubDate>Wed, 07 Apr 2021 18:11:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Applause for 104-year-old Colombian who beat coronavirus - twice]]></title>
@@ -168,20 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56657399</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56657399</guid>
             <pubDate>Tue, 06 Apr 2021 22:36:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: 'Pause jabs for young people', and holidays latest]]></title>
-            <description><![CDATA[Wednesday's newspaper front pages carry a mix of stories although coronavirus continues to dominate.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56657519</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56657519</guid>
-            <pubDate>Wed, 07 Apr 2021 04:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US restaurants face ketchup packet shortage amid Covid pandemic]]></title>
-            <description><![CDATA[The coronavirus pandemic leads to a surge in demand for single-use packs of the popular condiment.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56657822</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56657822</guid>
-            <pubDate>Wed, 07 Apr 2021 03:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The tech billionaire who is putting women first]]></title>
@@ -247,13 +233,6 @@
             <pubDate>Tue, 06 Apr 2021 19:04:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tool checks phone numbers from Facebook data breach]]></title>
-            <description><![CDATA[A new online tool lets users check their phone numbers against the leaked database.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56650387</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56650387</guid>
-            <pubDate>Tue, 06 Apr 2021 11:42:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Utterly unacceptable' - Liverpool condemn online racist abuse sent to Alexander-Arnold, Keita & Mane]]></title>
             <description><![CDATA[Liverpool say racist abuse on social media "cannot be allowed to continue" after Trent Alexander-Arnold, Naby Keita and Sadio Mane are targeted.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56660496</link>
@@ -294,6 +273,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/56628037</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56628037</guid>
             <pubDate>Wed, 07 Apr 2021 08:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2021 County Championship: What to look out for as competition returns after hiatus in 2020]]></title>
+            <description><![CDATA[With the County Championship making an eagerly anticipated return on Thursday, here's a look at who and what to watch out for.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/56653855</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56653855</guid>
+            <pubDate>Wed, 07 Apr 2021 12:49:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AZ vaccine: How do you weigh up the risks and benefits?]]></title>
