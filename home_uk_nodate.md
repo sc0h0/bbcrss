@@ -4,8 +4,8 @@
 4. [Tiger Woods car crash: Golfing great drove at almost double the speed limit](https://www.bbc.co.uk/sport/golf/56668821) - Tiger Woods was driving close to double the 45mph speed limit when he crashed in February, according to Los Angeles County's sheriff.
 5. [Belfast: Police attacked as trouble flares](https://www.bbc.co.uk/news/uk-northern-ireland-56669508) - A bus is also hijacked and a press photographer assaulted during the disorder.
 6. ['Can you help me?' Boy found alone at US border](https://www.bbc.co.uk/news/world-us-canada-56670094) - A 10-year-old from Nicaragua woke up to find he had been abandoned by his group.
-7. [Betfred: Blackjack player wins £1.7m jackpot after High Court battle](https://www.bbc.co.uk/news/uk-england-lincolnshire-56663830) - A High Court judge rules the gambling firm was wrong not to pay Andy Green his winnings.
-8. [Newcastle driver left student to die in road after crash](https://www.bbc.co.uk/news/uk-england-tyne-56660341) - Emma Guilbert was on a crossing when Mohammed Youssaf crashed into her and drove off.
+7. [Myanmar ambassador to UK 'locked out' of London embassy](https://www.bbc.co.uk/news/world-asia-56670524) - Kyaw Zwar Minn says all staff were asked to leave the building by his country's military attaché.
+8. [Betfred: Blackjack player wins £1.7m jackpot after High Court battle](https://www.bbc.co.uk/news/uk-england-lincolnshire-56663830) - A High Court judge rules the gambling firm was wrong not to pay Andy Green his winnings.
 9. [Muons: 'Strong' evidence found for a new force of nature](https://www.bbc.co.uk/news/56643677) - Physicists may have just made a major breakthrough in our understanding of the Universe.
 10. [M25 crash: Lorry hangs over bridge](https://www.bbc.co.uk/news/uk-england-kent-56669974) - The M25 and A2 are closed in both directions due to a lorry hanging off the side of a bridge.
 11. [Lee Collins: Yeovil Town captain 'found dead in hotel room'](https://www.bbc.co.uk/news/uk-england-somerset-56668025) - An inquest into the death of Yeovil Town captain Lee Collins hears he did not turn up for training.
