@@ -1,4 +1,4 @@
-1. [Covid: Moderna vaccine UK rollout to begin in Wales](https://www.bbc.co.uk/news/uk-wales-56657038) - Patients in Carmarthenshire will be the first in the UK to receive the vaccine on Wednesday.
+1. [Covid: Moderna vaccine UK rollout begins in Wales](https://www.bbc.co.uk/news/uk-wales-56657038) - The vaccine is the third to be used in the UK, with England's rollout due "in the next few days".
 2. [Covid: Brazil has more than 4,000 deaths in 24 hours for first time](https://www.bbc.co.uk/news/world-latin-america-56657818) - Hospitals are overcrowded and the health system is on the brink of collapse in many areas.
 3. [Covid-19: Moderna vaccine rollout to begin and Brazil daily deaths top 4,000](https://www.bbc.co.uk/news/uk-56655868) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
 4. [China one-child policy: can dropping limits increase birth rates?](https://www.bbc.co.uk/news/world-asia-56608495) - The government is considering dropping birth limits in some parts to offset an ageing population.
