@@ -10,7 +10,7 @@
 10. [Britain's electricity system 'greenest ever' over Easter](https://www.bbc.co.uk/news/uk-56657299) - Sunny and windy weather led to a surge in renewable sources of energy, the operator says.
 11. ['Our flight refund battle for mum who can barely walk'](https://www.bbc.co.uk/news/business-56649725) - The family was sent a voucher, rather than the refund they wanted - until BBC News followed up the case.
 12. [Arkansas bans transgender youth treatment](https://www.bbc.co.uk/news/world-us-canada-56657625) - Arkansas has become the first state to outlaw surgery for transgender people under the age of 18.
-13. [Kim Kardashian West joins billionaire club](https://www.bbc.co.uk/news/world-us-canada-56657188) - Forbes business magazine adds the US reality TV star to its list of the super-rich.
+13. [Kim Kardashian West joins billionaires' club](https://www.bbc.co.uk/news/world-us-canada-56657188) - Forbes business magazine adds the US reality TV star to its list of the super-rich.
 14. [The Papers: 'Pause jabs for young people', and holidays latest](https://www.bbc.co.uk/news/blogs-the-papers-56657519) - Wednesday's newspaper front pages carry a mix of stories although coronavirus continues to dominate.
 15. [Inner Light: The children surviving conflict in DR Congo](https://www.bbc.co.uk/news/in-pictures-56580258) - Hugh Kinsella Cunningham documents the lives of children caught up in conflict in DR Congo.
 16. [How one woman discovered her true cultural heritage](https://www.bbc.co.uk/news/world-us-canada-56652064) - Gail Lukasik's life was turned upside down when she discovered her mother was mixed race but had 'passed' as white to escape racial segregation in the US.
