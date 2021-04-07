@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Apr 2021 09:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 09:50:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,18 +72,18 @@
             <pubDate>Tue, 06 Apr 2021 20:44:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Schools 'a lifeline to many students' in past year']]></title>
-            <description><![CDATA[School staff helped families struggling financially during pandemic, says the National Education Union.]]></description>
-            <link>https://www.bbc.co.uk/news/education-56652151</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56652151</guid>
-            <pubDate>Wed, 07 Apr 2021 07:54:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Britain's electricity system 'greenest ever' over Easter]]></title>
             <description><![CDATA[Sunny and windy weather led to a surge in renewable sources of energy, the operator says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56657299</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56657299</guid>
             <pubDate>Wed, 07 Apr 2021 09:18:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TikTok: Teen saves boy after seeing crash on livestream]]></title>
+            <description><![CDATA[The 13-year-old raised the alarm after the boy crashed his quad bike during a live feed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56660702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56660702</guid>
+            <pubDate>Wed, 07 Apr 2021 09:16:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Our flight refund battle for mum who can barely walk']]></title>
@@ -198,7 +198,7 @@
             <pubDate>Tue, 06 Apr 2021 13:47:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jordan Prince Hamzah: How Saudi Arabia fits into the crisis]]></title>
+            <title><![CDATA[Jordan crisis: How Prince Hamzah and Saudi Arabia fit in]]></title>
             <description><![CDATA[Saudi officials categorically deny suggestions their country had any role in an alleged coup attempt.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-56654108</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56654108</guid>
@@ -259,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/56657270</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56657270</guid>
             <pubDate>Tue, 06 Apr 2021 20:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Erling Braut Haaland appears to sign autograph for assistant referee]]></title>
+            <description><![CDATA[Erling Braut Haaland has become such a superstar that even match officials appear to want his autograph.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56657945</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56657945</guid>
+            <pubDate>Tue, 06 Apr 2021 22:48:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How does the Oxford-AstraZeneca vaccine work?]]></title>
