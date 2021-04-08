@@ -3,8 +3,8 @@
 3. [Women could be owed 'lottery-winning' pension sums](https://www.bbc.co.uk/news/business-56654665) - Up to 5,000 women pensioners could be entitled to huge refunds under a little-known-rule, the BBC has learned.
 4. [Covid: UK vaccine rollout 'breaking link' between infections and death](https://www.bbc.co.uk/news/health-56663969) - A decline in cases has stalled but deaths have not followed the same pattern, scientists say.
 5. [Myanmar's UK envoy says military attache has 'occupied' embassy](https://www.bbc.co.uk/news/world-asia-56670524) - Kyaw Zwar Minn spends the night in his car after saying the military attaché "occupied" the embassy.
-6. [Boohoo: Price differences for same clothes 'a genuine mistake'](https://www.bbc.co.uk/news/business-56653060) - Boohoo says it had not realised identical clothing was being sold at different prices across its brands.
-7. [Covid-19: 'Enough vaccines' for under-30s, and the future of work](https://www.bbc.co.uk/news/uk-56669564) - Five things you need to know about the coronavirus pandemic this Thursday morning.
+6. [Covid-19: 'Enough vaccines' for under-30s, and the future of work](https://www.bbc.co.uk/news/uk-56669564) - Five things you need to know about the coronavirus pandemic this Thursday morning.
+7. [Boohoo: Price differences for same clothes 'a genuine mistake'](https://www.bbc.co.uk/news/business-56653060) - Boohoo says it had not realised identical clothing was being sold at different prices across its brands.
 8. [Covid: Unpaid carers 'struggled to get pain relief' for terminally ill](https://www.bbc.co.uk/news/uk-56669015) - Susan Lowe is among the carers who struggled to get pain relief for a loved one during the pandemic.
 9. [Hong Kong citizens to be given 'support' to come to UK](https://www.bbc.co.uk/news/uk-56669016) - The communities secretary says arrivals under a new scheme will be helped to access housing and jobs.
 10. [Oxfam: UK halts funding over new sexual exploitation claims](https://www.bbc.co.uk/news/health-56670162) - It comes as workers were suspended over sexual exploitation, three years after a similar scandal.
