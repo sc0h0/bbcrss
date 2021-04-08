@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Apr 2021 05:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 06:16:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Thu, 08 Apr 2021 03:09:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Belfast: Boris Johnson 'deeply concerned' after police attacked]]></title>
-            <description><![CDATA[Police were attacked, a bus hijacked and a press photographer assaulted during the disorder.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56669508</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56669508</guid>
-            <pubDate>Thu, 08 Apr 2021 03:00:09 GMT</pubDate>
+            <title><![CDATA[Belfast: Emergency Stormont meeting after night of violence]]></title>
+            <description><![CDATA[Prime Minister Boris Johnson says the scenes of disorder in west Belfast "deeply concerned" him.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56664868</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56664868</guid>
+            <pubDate>Thu, 08 Apr 2021 05:59:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women could be owed 'lottery-winning' pension sums]]></title>
@@ -48,7 +48,7 @@
             <description><![CDATA[Kyaw Zwar Minn spends the night in his car after saying the military attaché "occupied" the embassy.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56670524</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56670524</guid>
-            <pubDate>Thu, 08 Apr 2021 05:44:12 GMT</pubDate>
+            <pubDate>Thu, 08 Apr 2021 06:02:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boohoo: Price differences for same clothes 'a genuine mistake']]></title>
@@ -192,7 +192,7 @@
         </item>
         <item>
             <title><![CDATA[Indian Premier League: The risks of hosting the IPL during a pandemic]]></title>
-            <description><![CDATA[The world's richest cricket tournament will see eight teams play 60 games behind closed doors.]]></description>
+            <description><![CDATA[The world's richest cricket tournament will see eight teams play 52 games behind closed doors.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56637098</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56637098</guid>
             <pubDate>Wed, 07 Apr 2021 23:22:08 GMT</pubDate>
@@ -219,18 +219,11 @@
             <pubDate>Wed, 07 Apr 2021 15:54:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chelsea bounce back to beat Porto and take step towards semi-finals]]></title>
-            <description><![CDATA[Chelsea bounce back from a testing few days to secure a crucial first leg quarter-final away win over Porto in the Champions League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56653905</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56653905</guid>
-            <pubDate>Wed, 07 Apr 2021 21:11:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mbappe hits double as PSG win thriller at champions Bayern]]></title>
-            <description><![CDATA[Kylian Mbappe scores twice as Paris St-Germain win at title holders Bayern Munich in a thrilling Champions League quarter-final first leg.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56654042</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56654042</guid>
-            <pubDate>Wed, 07 Apr 2021 22:28:12 GMT</pubDate>
+            <title><![CDATA[Mason Mount: England midfielder scores his first Champions League goal]]></title>
+            <description><![CDATA[Thomas Tuchel says Mason Mount's first Champions League goal is a "big step" for the player as Chelsea establish a commanding quarter-final lead over Porto.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56671015</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56671015</guid>
+            <pubDate>Wed, 07 Apr 2021 22:58:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Woods drove at almost double speed limit in crash - LA County sheriff]]></title>
@@ -238,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/golf/56668821</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56668821</guid>
             <pubDate>Wed, 07 Apr 2021 18:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mbappe hits double as PSG win thriller at champions Bayern]]></title>
+            <description><![CDATA[Kylian Mbappe scores twice as Paris St-Germain win at title holders Bayern Munich in a thrilling Champions League quarter-final first leg.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56654042</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56654042</guid>
+            <pubDate>Wed, 07 Apr 2021 22:28:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yeovil captain Collins 'found dead in hotel room']]></title>
@@ -252,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/football/56667738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56667738</guid>
             <pubDate>Wed, 07 Apr 2021 20:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2021 County Championship: What to look out for as competition returns after hiatus in 2020]]></title>
-            <description><![CDATA[With the County Championship making an eagerly anticipated return on Thursday, here's a look at who and what to watch out for.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/56653855</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56653855</guid>
-            <pubDate>Wed, 07 Apr 2021 12:49:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How does the Oxford-AstraZeneca vaccine work?]]></title>
