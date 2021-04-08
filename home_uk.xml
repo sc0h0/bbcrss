@@ -11,23 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Apr 2021 01:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Apr 2021 02:23:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: Under-30s offered alternative to Oxford-AstraZeneca jab]]></title>
-            <description><![CDATA[A review finds a "plausible" link to rare blood clots, but says the jab remains beneficial for most.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56665517</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56665517</guid>
-            <pubDate>Wed, 07 Apr 2021 20:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oxfam: UK halts funding over new sexual exploitation claims]]></title>
-            <description><![CDATA[It comes as workers were suspended over sexual exploitation, three years after a similar scandal.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56670162</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56670162</guid>
-            <pubDate>Wed, 07 Apr 2021 20:12:59 GMT</pubDate>
+            <title><![CDATA[Covid: UK vaccine rollout 'breaking link' between infections and death]]></title>
+            <description><![CDATA[Experts tracking coronavirus say vaccinations are starting to break the link between Covid cases and deaths.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56663969</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56663969</guid>
+            <pubDate>Thu, 08 Apr 2021 02:15:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belfast: Boris Johnson 'deeply concerned' after police attacked]]></title>
@@ -37,7 +30,14 @@
             <pubDate>Wed, 07 Apr 2021 23:49:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Myanmar ambassador to UK 'locked out' of London embassy]]></title>
+            <title><![CDATA[Oxfam: UK halts funding over new sexual exploitation claims]]></title>
+            <description><![CDATA[It comes as workers were suspended over sexual exploitation, three years after a similar scandal.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56670162</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56670162</guid>
+            <pubDate>Wed, 07 Apr 2021 20:12:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar's UK envoy says military attache has 'occupied' embassy]]></title>
             <description><![CDATA[Kyaw Zwar Minn says all staff were asked to leave the building by his country's military attaché.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56670524</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56670524</guid>
@@ -58,11 +58,11 @@
             <pubDate>Wed, 07 Apr 2021 23:04:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Vaccines 'break link' between infections and death]]></title>
-            <description><![CDATA[A study of 140,000 people in England found one in 500 were infected.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56663969</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56663969</guid>
-            <pubDate>Wed, 07 Apr 2021 23:59:21 GMT</pubDate>
+            <title><![CDATA[Covid: Under-30s offered alternative to Oxford-AstraZeneca jab]]></title>
+            <description><![CDATA[A review finds a "plausible" link to rare blood clots, but says the jab remains beneficial for most.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56665517</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56665517</guid>
+            <pubDate>Wed, 07 Apr 2021 20:13:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hong Kong citizens to be given 'support' to come to UK]]></title>
