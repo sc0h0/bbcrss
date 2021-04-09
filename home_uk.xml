@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Apr 2021 11:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 11:42:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,21 +20,7 @@
             <description><![CDATA[Prince Philip, the Queen's husband of 73 years, had recently spent time in hospital with an infection.]]></description>
             <link>https://www.bbc.co.uk/news/uk-11437314</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-11437314</guid>
-            <pubDate>Fri, 09 Apr 2021 11:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prince Philip: An extraordinary man who led an extraordinary life]]></title>
-            <description><![CDATA[The Duke of Edinburgh's life was filled with contradictions but will be remembered most for his unstinting support of the Queen.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-50589065</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-50589065</guid>
-            <pubDate>Fri, 09 Apr 2021 11:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obituary: HRH The Prince Philip, Duke of Edinburgh]]></title>
-            <description><![CDATA[Prince Philip, Duke of Edinburgh, won widespread respect for his steadfast and constant support of the Queen.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-10224525</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-10224525</guid>
-            <pubDate>Fri, 09 Apr 2021 11:13:38 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 11:38:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: People can start thinking about foreign travel - Shapps]]></title>
@@ -93,25 +79,53 @@
             <pubDate>Fri, 09 Apr 2021 09:37:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US gun violence: Biden takes action on 'international embarrassment']]></title>
-            <description><![CDATA[As the White House announces new measures, Biden calls gun violence an "international embarrassment".]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56672892</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56672892</guid>
-            <pubDate>Thu, 08 Apr 2021 23:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Lost golden city' found in Egypt reveals lives of ancient pharaohs]]></title>
-            <description><![CDATA[The city near Luxor has been hailed as one of the most important finds since Tutankhamun's tomb.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56686448</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56686448</guid>
-            <pubDate>Fri, 09 Apr 2021 09:54:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Amazon holds early lead in historic union election]]></title>
             <description><![CDATA[Workers in Alabama were voting on whether to create the first unionised warehouse in the US.]]></description>
             <link>https://www.bbc.co.uk/news/business-56657595</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56657595</guid>
             <pubDate>Fri, 09 Apr 2021 00:04:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift releases a 'perfect replica' of Fearless]]></title>
+            <description><![CDATA[The star re-records her breakout album in its entirety, after her master tapes were sold.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56687699</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56687699</guid>
+            <pubDate>Fri, 09 Apr 2021 10:48:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: An extraordinary man who led an extraordinary life]]></title>
+            <description><![CDATA[The Duke of Edinburgh's life was filled with contradictions but will be remembered most for his unstinting support of the Queen.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-50589065</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-50589065</guid>
+            <pubDate>Fri, 09 Apr 2021 11:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Queen Elizabeth II and Prince Philip married in 1947]]></title>
+            <description><![CDATA[Princess Elizabeth and the Duke of Edinburgh married in November 1947. Winston Churchill described it as a flash of colour in the grey post-war Britain.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-10648666</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-10648666</guid>
+            <pubDate>Fri, 09 Apr 2021 11:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obituary: HRH The Prince Philip, Duke of Edinburgh]]></title>
+            <description><![CDATA[Prince Philip, Duke of Edinburgh, won widespread respect for his steadfast and constant support of the Queen.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-10224525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-10224525</guid>
+            <pubDate>Fri, 09 Apr 2021 11:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: 99 years, 143 countries and one very famous wife]]></title>
+            <description><![CDATA[He was the man beside Queen Elizabeth II - and arguably the world's most famous husband.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-42651950</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-42651950</guid>
+            <pubDate>Fri, 09 Apr 2021 11:25:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: A life in pictures]]></title>
+            <description><![CDATA[Key photographs, from his early days in the Greek island of Corfu to school days in Scotland and his life alongside the Queen.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-36417297</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-36417297</guid>
+            <pubDate>Fri, 09 Apr 2021 11:18:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why the Chauvin trial ‘exhausts’ black America]]></title>
@@ -128,11 +142,11 @@
             <pubDate>Thu, 08 Apr 2021 19:09:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Taylor Swift releases a 'perfect replica' of Fearless]]></title>
-            <description><![CDATA[The star re-records her breakout album in its entirety, after her master tapes were sold.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56687699</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56687699</guid>
-            <pubDate>Fri, 09 Apr 2021 10:48:13 GMT</pubDate>
+            <title><![CDATA['Lost golden city' found in Egypt reveals lives of ancient pharaohs]]></title>
+            <description><![CDATA[The city near Luxor has been hailed as one of the most important finds since Tutankhamun's tomb.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56686448</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56686448</guid>
+            <pubDate>Fri, 09 Apr 2021 09:54:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown houseplant trend captured by London photographer]]></title>
@@ -147,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-56678978</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56678978</guid>
             <pubDate>Thu, 08 Apr 2021 23:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quiz of the week: Why the fuss over a beauty queen's crown?]]></title>
-            <description><![CDATA[How closely have you been paying attention to what's been going on during the past seven days?]]></description>
-            <link>https://www.bbc.co.uk/news/world-56647324</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56647324</guid>
-            <pubDate>Thu, 08 Apr 2021 17:15:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bird Photographer of the Year 2021 finalists revealed]]></title>
@@ -240,6 +247,13 @@
             <pubDate>Fri, 09 Apr 2021 00:37:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sporting memories of Prince Philip]]></title>
+            <description><![CDATA[BBC Sport takes a photographic look at Prince Philip's life in sport.]]></description>
+            <link>https://www.bbc.co.uk/sport/42430153</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/42430153</guid>
+            <pubDate>Fri, 09 Apr 2021 11:23:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rose storms into Masters lead as McIlroy and Westwood struggle]]></title>
             <description><![CDATA[England's Justin Rose hits a seven-under 65 to open a four-stroke lead on the opening day of the Masters as Rory McIlroy and Lee Westwood struggle.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/56683671</link>
@@ -252,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/56678719</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56678719</guid>
             <pubDate>Fri, 09 Apr 2021 07:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Born with a silver spoon in my mouth? I'll turn it gold' - Benn's message to doubters]]></title>
-            <description><![CDATA[Conor Benn says he has gained the experience needed to continue striving for the same world-title success his father achieved.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/56673514</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56673514</guid>
-            <pubDate>Fri, 09 Apr 2021 05:18:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Youth & a revitalised Messi - why Barcelona go into Clasico a resurgent force]]></title>
@@ -275,18 +282,18 @@
             <pubDate>Fri, 09 Apr 2021 10:31:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I've been thrown under a bus' - GB's Purdue unhappy over Olympics squad omission]]></title>
-            <description><![CDATA[Marathon runner Charlotte Purdue says she feels "thrown under a bus" by UK Athletics over her omission from Great Britain's Tokyo Olympics squad.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/56684285</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/56684285</guid>
-            <pubDate>Fri, 09 Apr 2021 09:34:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Masters 2021: Justin Rose leads after 'extraordinary' seven-under 65]]></title>
             <description><![CDATA[England's Justin Rose picks up an incredible nine shots in 10 holes to go four clear of the field as he cards a seven-under 65 in the opening round of the 2021 Masters.]]></description>
             <link>https://www.bbc.co.uk/sport/av/golf/56681351</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/56681351</guid>
             <pubDate>Thu, 08 Apr 2021 23:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Masters 2021: Tommy Fleetwood 'smashes' hole-in-one on 16th]]></title>
+            <description><![CDATA[England's Tommy Fleetwood "smashes in" a hole-in-one on the par-three 16th to move to two over par in the opening round of the 2021 Masters.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/golf/56684349</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/56684349</guid>
+            <pubDate>Thu, 08 Apr 2021 22:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
@@ -328,7 +335,7 @@
             <description><![CDATA[Are European countries relaxing restrictions put in place to control a new wave of infections?]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53640249</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
-            <pubDate>Thu, 08 Apr 2021 11:11:54 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 11:28:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How does the Oxford-AstraZeneca vaccine work?]]></title>
@@ -391,7 +398,7 @@
             <description><![CDATA[Charts and maps tracking the progress of Covid vaccination programmes.]]></description>
             <link>https://www.bbc.co.uk/news/world-56237778</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56237778</guid>
-            <pubDate>Tue, 06 Apr 2021 10:52:28 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 11:40:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: When will pools, gyms and hairdressers open?]]></title>
