@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Apr 2021 15:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 15:51:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Tributes are paid from around the world to the Queen's "beloved" husband of 73 years, the longest-serving consort in British history.]]></description>
             <link>https://www.bbc.co.uk/news/uk-11437314</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-11437314</guid>
-            <pubDate>Fri, 09 Apr 2021 15:14:20 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 15:38:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: An extraordinary man who led an extraordinary life]]></title>
@@ -37,18 +37,18 @@
             <pubDate>Fri, 09 Apr 2021 15:05:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Saint Vincent volcano: Soufrière erupts amid mass evacuation]]></title>
+            <description><![CDATA[Over 16,000 people were evacuated ahead of the eruption of La Soufrière on Saint Vincent island.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56693406</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56693406</guid>
+            <pubDate>Fri, 09 Apr 2021 14:09:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: People can start thinking about foreign travel - Shapps]]></title>
             <description><![CDATA[The transport secretary says people are no longer being advised against booking holidays abroad.]]></description>
             <link>https://www.bbc.co.uk/news/business-56682226</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56682226</guid>
             <pubDate>Fri, 09 Apr 2021 11:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI riots: Police say 19 officers injured in latest night of violence]]></title>
-            <description><![CDATA[Police used water cannon for the first time in six years on another night of rioting in Belfast.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56684571</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56684571</guid>
-            <pubDate>Fri, 09 Apr 2021 10:06:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus infections 'a sixth of January peak']]></title>
@@ -58,18 +58,18 @@
             <pubDate>Fri, 09 Apr 2021 14:30:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NI riots: Police say 19 officers injured in latest night of violence]]></title>
+            <description><![CDATA[Police used water cannon for the first time in six years on another night of rioting in Belfast.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56684571</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56684571</guid>
+            <pubDate>Fri, 09 Apr 2021 10:06:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[COP26: Greta Thunberg says Glasgow summit should be postponed]]></title>
             <description><![CDATA[The climate campaigner is concerned about the impact of Covid on attendance at the Glasgow summit.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-56686163</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56686163</guid>
             <pubDate>Fri, 09 Apr 2021 10:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saint Vincent volcano: Soufrière erupts amid mass evacuation]]></title>
-            <description><![CDATA[Over 16,000 people were evacuated ahead of the eruption of La Soufrière on Saint Vincent island.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-56693406</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56693406</guid>
-            <pubDate>Fri, 09 Apr 2021 14:09:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eating disorders: 'My BMI wasn't low enough to get help']]></title>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-56680593</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56680593</guid>
             <pubDate>Fri, 09 Apr 2021 09:37:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Lost golden city' found in Egypt reveals lives of ancient pharaohs]]></title>
+            <description><![CDATA[The city near Luxor has been hailed as one of the most important finds since Tutankhamun's tomb.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56686448</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56686448</guid>
+            <pubDate>Fri, 09 Apr 2021 09:54:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: Death of the Duke of Edinburgh announced]]></title>
@@ -163,11 +170,11 @@
             <pubDate>Fri, 09 Apr 2021 10:21:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Lost golden city' found in Egypt reveals lives of ancient pharaohs]]></title>
-            <description><![CDATA[The city near Luxor has been hailed as one of the most important finds since Tutankhamun's tomb.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56686448</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56686448</guid>
-            <pubDate>Fri, 09 Apr 2021 09:54:32 GMT</pubDate>
+            <title><![CDATA[Bird Photographer of the Year 2021 finalists revealed]]></title>
+            <description><![CDATA[Brawling puffins, warbling warblers and swooping swallows - some of this year's shortlisted images.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-56654460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56654460</guid>
+            <pubDate>Thu, 08 Apr 2021 23:11:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown easing: What to watch for when you’re out and about]]></title>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-56678978</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56678978</guid>
             <pubDate>Thu, 08 Apr 2021 23:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bird Photographer of the Year 2021 finalists revealed]]></title>
-            <description><![CDATA[Brawling puffins, warbling warblers and swooping swallows - some of this year's shortlisted images.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-56654460</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56654460</guid>
-            <pubDate>Thu, 08 Apr 2021 23:11:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taylor Swift releases a 'perfect replica' of Fearless]]></title>
@@ -374,10 +374,10 @@
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 31 million people receive at least one dose.]]></description>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as almost 32 million people receive at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Thu, 08 Apr 2021 16:19:03 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 15:49:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the UK plans for Covid passports?]]></title>
@@ -415,11 +415,11 @@
             <pubDate>Tue, 06 Apr 2021 14:25:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: When can pubs and restaurants reopen?]]></title>
-            <description><![CDATA[Hospitality venues are set to gradually open up in the spring as lockdown eases across the UK.]]></description>
+            <title><![CDATA[Covid: When can restaurants and pubs reopen and what are the rules?]]></title>
+            <description><![CDATA[Hospitality venues are set to gradually open up as lockdown eases across the UK.]]></description>
             <link>https://www.bbc.co.uk/news/business-52977388</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
-            <pubDate>Wed, 07 Apr 2021 11:21:07 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 15:39:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
