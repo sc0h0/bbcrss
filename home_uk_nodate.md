@@ -1,4 +1,4 @@
-1. [Prince Philip has died aged 99, Buckingham Palace announces](https://www.bbc.co.uk/news/uk-11437314) - Tributes are paid to the Queen's "beloved" husband of 73 years, who had recently spent a month in hospital.
+1. [Prince Philip has died aged 99, Buckingham Palace announces](https://www.bbc.co.uk/news/uk-11437314) - Tributes are paid from around the world to the Queen's "beloved" husband of 73 years, who had recently spent a month in hospital.
 2. [Prince Philip: An extraordinary man who led an extraordinary life](https://www.bbc.co.uk/news/uk-50589065) - The Duke of Edinburgh's life was filled with contradictions but will be remembered most for his unstinting support of the Queen.
 3. [Prince Philip: World leaders react to the death of the Duke of Edinburgh](https://www.bbc.co.uk/news/world-56687736) - Condolence messages to the Duke of Edinburgh's family pour in from around the world.
 4. [Covid-19: People can start thinking about foreign travel - Shapps](https://www.bbc.co.uk/news/business-56682226) - The transport secretary says people are no longer being advised against booking holidays abroad.
