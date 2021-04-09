@@ -1,7 +1,7 @@
 1. [Covid-19: People can start thinking about foreign travel - Shapps](https://www.bbc.co.uk/news/business-56682226) - The transport secretary says people are no longer being advised against booking holidays abroad.
 2. [NI riots: Police use water cannon during further riots](https://www.bbc.co.uk/news/uk-northern-ireland-56684571) - Police say 19 officers were injured on Thursday, bringing the number hurt in the last week to 74.
 3. [George Floyd died from lack of oxygen, not fentanyl, says expert](https://www.bbc.co.uk/news/world-us-canada-56670912) - The testimony at the trial of Derek Chauvin in Minneapolis contradicts the defence's argument.
-4. [COP26: Greta Thunberg has no plans to attend Glasgow summit](https://www.bbc.co.uk/news/uk-scotland-56686163) - The climate campaigner is concerned about the impact of Covid on attendance at the Glasgow summit.
+4. [COP26: Greta Thunberg believes Glasgow summit should be postponed](https://www.bbc.co.uk/news/uk-scotland-56686163) - The climate campaigner is concerned about the impact of Covid on attendance at the Glasgow summit.
 5. [Eating disorders: 'My BMI wasn't low enough to get help'](https://www.bbc.co.uk/news/uk-politics-56669834) - Using the Body Mass Index to measure health inspires stigma and should be scrapped, MPs say.
 6. [Artist Tracey Emin says her cancer is 'gone'](https://www.bbc.co.uk/news/uk-56684069) - The 57-year-old was diagnosed with a "really rapid, really aggressive" bladder cancer last year.
 7. [Kate Garraway's husband returns home after a year-long battle with Covid-19](https://www.bbc.co.uk/news/entertainment-arts-56686681) - Derek Draper will receive round-the-clock care, the Good Morning Britain presenter said on Friday.
