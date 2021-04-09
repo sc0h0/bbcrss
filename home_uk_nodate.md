@@ -1,5 +1,5 @@
-1. [Covid-19: People can start thinking about foreign travel - Shapps](https://www.bbc.co.uk/news/business-56682226) - People are no longer being advised against booking holidays abroad, the transport secretary says.
-2. [NI riots: Police use water cannon during further riots](https://www.bbc.co.uk/news/uk-northern-ireland-56684571) - Officers deployed water cannon for the first time in six years during another night of violence.
+1. [Covid-19: People can start thinking about foreign travel - Shapps](https://www.bbc.co.uk/news/business-56682226) - The transport secretary says people are no longer being advised against booking holidays abroad.
+2. [NI riots: Police use water cannon during further riots](https://www.bbc.co.uk/news/uk-northern-ireland-56684571) - Police say 19 officers were injured on Thursday, bringing the number hurt in the last week to 74.
 3. [George Floyd died from lack of oxygen, not fentanyl, says expert](https://www.bbc.co.uk/news/world-us-canada-56670912) - The testimony at the trial of Derek Chauvin in Minneapolis contradicts the defence's argument.
 4. [COP26: Greta Thunberg has no plans to attend Glasgow summit](https://www.bbc.co.uk/news/uk-scotland-56686163) - The climate campaigner is concerned about the impact of Covid on attendance at the Glasgow summit.
 5. [Eating disorders: 'My BMI wasn't low enough to get help'](https://www.bbc.co.uk/news/uk-politics-56669834) - Using the Body Mass Index to measure health inspires stigma and should be scrapped, MPs say.
@@ -7,7 +7,7 @@
 7. [Kate Garraway's husband returns home after a year-long battle with Covid-19](https://www.bbc.co.uk/news/entertainment-arts-56686681) - Derek Draper will receive round-the-clock care, the Good Morning Britain presenter said on Friday.
 8. [Some Covid rules to be eased early in Wales](https://www.bbc.co.uk/news/uk-wales-56680593) - Some lockdown restrictions in Wales will be eased earlier than planned due to falling Covid cases.
 9. [US gun violence: Biden takes action on 'international embarrassment'](https://www.bbc.co.uk/news/world-us-canada-56672892) - As the White House announces new measures, Biden calls gun violence an "international embarrassment".
-10. [Kim Jong-un warns of crisis similar to deadly 90s famine](https://www.bbc.co.uk/news/world-asia-56685356) - Human rights groups say the country is facing dire food shortages and economic instability.
+10. [Kim Jong-un warns of North Korea crisis similar to deadly 90s famine](https://www.bbc.co.uk/news/world-asia-56685356) - Human rights groups say North Korea is facing dire food shortages and economic instability.
 11. [Covid vaccine: Fasting during Ramadan 'should not stop Muslims getting jab'](https://www.bbc.co.uk/news/uk-56677766) - Islamic scholars and NHS leaders say Muslims can still get the vaccine during Ramadan.
 12. [Police hunt for twin sisters, 13, missing for six days](https://www.bbc.co.uk/news/uk-england-london-56683274) - Poppy and Lily Myers were last seen near their home in Twickenham on Saturday.
 13. ['Lost golden city' found in Egypt reveals lives of ancient pharaohs](https://www.bbc.co.uk/news/world-middle-east-56686448) - The city near Luxor has been hailed as one of the most important finds since Tutankhamun's tomb.
