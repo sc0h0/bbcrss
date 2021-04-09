@@ -1,9 +1,9 @@
 1. [Covid-19: Tests for all travellers in 'traffic light' plan](https://www.bbc.co.uk/news/business-56682226) - Transport Secretary Grant Shapps says he wants cheaper testing amid criticism from the travel sector.
-2. [Belfast: Police attacked during another night of violence](https://www.bbc.co.uk/news/uk-northern-ireland-56681472) - Petrol bombs and fireworks have been thrown at police near a peaceline in Northern Ireland.
+2. [NI riots: Police use water cannon during further riots](https://www.bbc.co.uk/news/uk-northern-ireland-56684571) - Officers deployed water cannon for the first time in six years during another night of violence.
 3. [Some Covid rules to be eased early in Wales](https://www.bbc.co.uk/news/uk-wales-56680593) - Some lockdown restrictions in Wales will be eased earlier than planned due to falling Covid cases.
 4. [George Floyd died from lack of oxygen, not fentanyl, says expert](https://www.bbc.co.uk/news/world-us-canada-56670912) - The testimony at the trial of Derek Chauvin in Minneapolis contradicts the defence's argument.
-5. [Eating disorders: 'My BMI wasn't low enough to get help'](https://www.bbc.co.uk/news/uk-politics-56669834) - Using the Body Mass Index to measure health inspires stigma and should be scrapped, MPs say.
-6. [Covid-19: Tests for overseas travel and sports back 'vaccine passports'](https://www.bbc.co.uk/news/uk-56686347) - Five things you need to know about the coronavirus pandemic this Friday morning.
+5. [Covid-19: Tests for overseas travel and sports back 'vaccine passports'](https://www.bbc.co.uk/news/uk-56686347) - Five things you need to know about the coronavirus pandemic this Friday morning.
+6. [Eating disorders: 'My BMI wasn't low enough to get help'](https://www.bbc.co.uk/news/uk-politics-56669834) - Using the Body Mass Index to measure health inspires stigma and should be scrapped, MPs say.
 7. [Artist Tracey Emin says her cancer is 'gone'](https://www.bbc.co.uk/news/uk-56684069) - The 57-year-old was diagnosed with a "really rapid, really aggressive" bladder cancer last year.
 8. [UK sport bodies back use of 'vaccine passports' to allow return of capacity crowds](https://www.bbc.co.uk/sport/56683611) - The UK's leading sports bodies are backing the use of 'vaccine passports' and Covid testing as a "credible" means of allowing full capacities at venues.
 9. [Sir Richard Sutton death: Suspect remains in hospital](https://www.bbc.co.uk/news/uk-england-dorset-56686178) - Sir Richard, one of the UK's richest men, was found dead and a woman hurt at his mansion in Dorset.
