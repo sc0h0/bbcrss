@@ -8,9 +8,9 @@
 8. [Overseas health workers to get free UK visa extension, says Home Office](https://www.bbc.co.uk/news/uk-politics-56680286) - The Home Office says it will benefit 14,000 people, but unions ask why care workers are not included.
 9. [Covid vaccine: Fasting during Ramadan 'should not stop Muslims getting jab'](https://www.bbc.co.uk/news/uk-56677766) - Islamic scholars and NHS leaders say Muslims can still get the vaccine during Ramadan.
 10. [Covid patient receives world's first living donor lung transplant](https://www.bbc.co.uk/news/world-asia-56684073) - A woman in Japan becomes the world's first Covid patient to receive a transplant from living donors.
-11. [Ukraine conflict: Moscow could 'defend' Russia-backed rebels](https://www.bbc.co.uk/news/world-europe-56678665) - A senior Kremlin official issues a warning as tensions rise in eastern Ukraine.
-12. ['Satan Shoes' to be recalled as Nike agrees to settle lawsuit](https://www.bbc.co.uk/news/business-56684773) - The art collective that sold the customised sneakers will recall the shoes and offer full refunds.
-13. [US blacklists seven Chinese supercomputer groups](https://www.bbc.co.uk/news/business-56685136) - President Biden's actions continue US moves to make it harder for China to obtain its technology.
+11. [North Korea: Kim Jong-un warns of 'difficult' crisis](https://www.bbc.co.uk/news/world-asia-56685356) - Human rights groups say the country is facing dire food shortages and economic instability.
+12. [US blacklists seven Chinese supercomputer groups](https://www.bbc.co.uk/news/business-56685136) - President Biden's actions continue US moves to make it harder for China to obtain its technology.
+13. ['Satan Shoes' to be recalled as Nike agrees to settle lawsuit](https://www.bbc.co.uk/news/business-56684773) - The art collective that sold the customised sneakers will recall the shoes and offer full refunds.
 14. [The Papers: Travel plan, and Britons 'still trust Oxford jab'](https://www.bbc.co.uk/news/blogs-the-papers-56684353) - A mix of stories lead Friday's front pages, including coverage of the government's plan for foreign holidays.
 15. [Why the Chauvin trial ‘exhausts’ black America](https://www.bbc.co.uk/news/world-us-canada-56644465) - Many say watching George Floyd's final moments is traumatising - and so is the fight for racial justice.
 16. [Lockdown easing: What to watch for when you’re out and about](https://www.bbc.co.uk/news/science-environment-56678978) - The BBC’s David Shukman on how to navigate lockdown easing while keeping yourself and others safe.
