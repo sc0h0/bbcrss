@@ -12,11 +12,11 @@
 12. [Kim Jong-un warns of North Korea crisis similar to deadly 90s famine](https://www.bbc.co.uk/news/world-asia-56685356) - Human rights groups say North Korea is facing dire food shortages and economic instability.
 13. [Kate Garraway's husband returns home after a year-long battle with Covid-19](https://www.bbc.co.uk/news/entertainment-arts-56686681) - Derek Draper will receive round-the-clock care, the Good Morning Britain presenter said on Friday.
 14. ['Lost golden city' found in Egypt reveals lives of ancient pharaohs](https://www.bbc.co.uk/news/world-middle-east-56686448) - The city near Luxor has been hailed as one of the most important finds since Tutankhamun's tomb.
-15. [Prince Philip: Death of the Duke of Edinburgh announced](https://www.bbc.co.uk/news/in-pictures-56692965) - Crowds gathered outside Buckingham Palace and Windsor Castle and people laid floral tributes.
+15. [Philip tributes: 'A rock, a hero and one of a kind'](https://www.bbc.co.uk/news/uk-56695307) - Members of the public gather at Buckingham Palace to lay flowers and show support for the Queen.
 16. [Obituary: HRH The Prince Philip, Duke of Edinburgh](https://www.bbc.co.uk/news/uk-10224525) - Prince Philip, Duke of Edinburgh, won widespread respect for his steadfast and constant support of the Queen.
 17. [Prince Philip: 99 years, 143 countries and one very famous wife](https://www.bbc.co.uk/news/uk-42651950) - He was the man beside Queen Elizabeth II - and arguably the world's most famous husband.
 18. [Prince Philip: A life in pictures](https://www.bbc.co.uk/news/in-pictures-36417297) - Key photographs, from his early days in the Greek island of Corfu to school days in Scotland and his life alongside the Queen.
-19. [PM Boris Johnson pays tribute to Prince Philip](https://www.bbc.co.uk/news/uk-56688242) - Prime Minister Boris Johnson pays tribute to Prince Philip outside 10 Downing Street.
+19. [Prince Philip: The Duke of Edinburgh's Award 'saved me from jail'](https://www.bbc.co.uk/news/uk-56301207) - For pals James and Nathan, the awards are about more than hauling badly-packed rucksacks up hills.
 20. [The announcement of the death of Prince Philip](https://www.bbc.co.uk/news/uk-21927210) - The BBC's announcement as Buckingham Palace confirms the death of Prince Philip, Duke of Edinburgh.
 21. [Why the Chauvin trial ‘exhausts’ black America](https://www.bbc.co.uk/news/world-us-canada-56644465) - Many say watching George Floyd's final moments is traumatising - and so is the fight for racial justice.
 22. [Save our wine! Big freeze spells disaster for French vineyards](https://www.bbc.co.uk/news/world-europe-56688031) - Vineyards in some areas are reporting extensive damage and the government is declaring a disaster.
@@ -38,16 +38,16 @@
 38. [Prince Philip: Sporting world pays tribute to Duke of Edinburgh](https://www.bbc.co.uk/sport/56692293) - A two-minute silence is held at Aintree as the sporting world pays tribute to Prince Philip, who has died aged 99.
 39. [Sporting memories of Prince Philip](https://www.bbc.co.uk/sport/42430153) - BBC Sport takes a photographic look at Prince Philip's life in sport.
 40. [Who takes captaincy? And who plays in goal? Key questions for Lionesses before friendlies](https://www.bbc.co.uk/sport/football/56617239) - As England prepare to take on France and Canada, there are questions still to be answered before the Team GB squad is announced.
-41. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - Anyone in England who travels abroad without good reason will soon face a £5000 fine.
-42. [Rare blood clots - what you need to know](https://www.bbc.co.uk/news/health-56674796) - We take a look at why these unusual clots happen and when they occur.
-43. [How many people can I have a drink with? And other questions](https://www.bbc.co.uk/news/world-asia-china-51176409) - We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.
-44. [Covid: How to get a test for coronavirus](https://www.bbc.co.uk/news/health-51943612) - What are the tests for coronavirus, who are they for, and how do they work?
-45. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - The rules on how many people can meet outdoors are changing, as lockdown is eased.
-46. [Covid: How are European countries tackling the pandemic?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
-47. [Covid: How does the Oxford-AstraZeneca vaccine work?](https://www.bbc.co.uk/news/health-55302595) - People under 30 are being offered an alternative to the AstraZeneca vaccine after a review into rare blood clots.
-48. [AstraZeneca vaccine: How do you weigh up the risks and benefits?](https://www.bbc.co.uk/news/explainers-56665396) - A guide to the risks and benefits of receiving the Oxford-AstraZeneca vaccine.
-49. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Under-30s will be not be offered the AstraZeneca vaccine, after concerns over rare blood clots.
-50. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+41. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+42. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - Anyone in England who travels abroad without good reason will soon face a £5000 fine.
+43. [Rare blood clots - what you need to know](https://www.bbc.co.uk/news/health-56674796) - We take a look at why these unusual clots happen and when they occur.
+44. [How many people can I have a drink with? And other questions](https://www.bbc.co.uk/news/world-asia-china-51176409) - We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.
+45. [Covid: How to get a test for coronavirus](https://www.bbc.co.uk/news/health-51943612) - What are the tests for coronavirus, who are they for, and how do they work?
+46. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - The rules on how many people can meet outdoors are changing, as lockdown is eased.
+47. [Covid: How are European countries tackling the pandemic?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
+48. [Covid: How does the Oxford-AstraZeneca vaccine work?](https://www.bbc.co.uk/news/health-55302595) - People under 30 are being offered an alternative to the AstraZeneca vaccine after a review into rare blood clots.
+49. [AstraZeneca vaccine: How do you weigh up the risks and benefits?](https://www.bbc.co.uk/news/explainers-56665396) - A guide to the risks and benefits of receiving the Oxford-AstraZeneca vaccine.
+50. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Under-30s will be not be offered the AstraZeneca vaccine, after concerns over rare blood clots.
 51. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as almost 32 million people receive at least one dose.
 52. [What are the UK plans for Covid passports?](https://www.bbc.co.uk/news/explainers-55718553) - The government is considering how people could prove they are unlikely to transmit Covid.
 53. [Covid: What is the rule of six and what are the social distancing rules?](https://www.bbc.co.uk/news/uk-51506729) - Lockdown rules are being eased further in England and Wales so more people can meet up outside.
