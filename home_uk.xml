@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Apr 2021 01:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 02:10:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Cost of tests 'is too much for people to travel on holiday']]></title>
+            <description><![CDATA[The government says it cannot yet confirm whether international travel will resume from 17 May.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56682226</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56682226</guid>
+            <pubDate>Fri, 09 Apr 2021 01:31:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Some Covid rules to be eased early in Wales]]></title>
             <description><![CDATA[Some lockdown restrictions in Wales will be eased earlier than planned due to falling Covid cases.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-56680593</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56680593</guid>
             <pubDate>Thu, 08 Apr 2021 22:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Cost of testing 'is too much for people to travel']]></title>
-            <description><![CDATA[The government cannot yet confirm whether international travel could resume in May.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56682226</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56682226</guid>
-            <pubDate>Fri, 09 Apr 2021 00:01:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belfast: Police attacked during another night of violence]]></title>
@@ -45,7 +45,7 @@
         </item>
         <item>
             <title><![CDATA[Eating disorders: 'My BMI wasn't low enough to get help']]></title>
-            <description><![CDATA[Using the Body Mass Index to measure health "inspires weight stigma" and should be scrapped, MPs say.]]></description>
+            <description><![CDATA[Using the Body Mass Index to measure health inspires stigma and should be scrapped, MPs say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56669834</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56669834</guid>
             <pubDate>Thu, 08 Apr 2021 23:06:21 GMT</pubDate>
