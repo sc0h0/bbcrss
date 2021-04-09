@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Apr 2021 12:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 12:48:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Prince Philip, the Queen's husband of 73 years, had recently spent time in hospital with an infection.]]></description>
             <link>https://www.bbc.co.uk/news/uk-11437314</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-11437314</guid>
-            <pubDate>Fri, 09 Apr 2021 12:04:40 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 12:46:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: An extraordinary man who led an extraordinary life]]></title>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-50589065</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-50589065</guid>
             <pubDate>Fri, 09 Apr 2021 11:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: World leaders react to death of the Duke of Edinburgh]]></title>
+            <description><![CDATA[Condolence messages to the Duke of Edinburgh's family pour in from around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-56687736</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56687736</guid>
+            <pubDate>Fri, 09 Apr 2021 12:25:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: People can start thinking about foreign travel - Shapps]]></title>
@@ -93,18 +100,11 @@
             <pubDate>Fri, 09 Apr 2021 00:04:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US blacklists seven Chinese supercomputer groups]]></title>
-            <description><![CDATA[President Biden's actions continue US moves to make it harder for China to obtain its technology.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56685136</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56685136</guid>
-            <pubDate>Fri, 09 Apr 2021 03:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift releases a 'perfect replica' of Fearless]]></title>
-            <description><![CDATA[The star re-records her breakout album in its entirety, after her master tapes were sold.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56687699</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56687699</guid>
-            <pubDate>Fri, 09 Apr 2021 10:48:13 GMT</pubDate>
+            <title><![CDATA[Ukraine conflict: Moscow could 'defend' Russia-backed rebels]]></title>
+            <description><![CDATA[A senior Kremlin official issues a warning as tensions rise in eastern Ukraine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56678665</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56678665</guid>
+            <pubDate>Fri, 09 Apr 2021 09:12:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: Officer, husband, father]]></title>
@@ -112,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/uk-46523383</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-46523383</guid>
             <pubDate>Fri, 09 Apr 2021 11:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM Boris Johnson pays tribute to Prince Philip]]></title>
-            <description><![CDATA[Prime Minister Boris Johnson pays tribute to Prince Philip outside 10 Downing Street.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56688242</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56688242</guid>
-            <pubDate>Fri, 09 Apr 2021 11:46:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Obituary: HRH The Prince Philip, Duke of Edinburgh]]></title>
@@ -142,11 +135,25 @@
             <pubDate>Fri, 09 Apr 2021 11:18:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PM Boris Johnson pays tribute to Prince Philip]]></title>
+            <description><![CDATA[Prime Minister Boris Johnson pays tribute to Prince Philip outside 10 Downing Street.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56688242</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56688242</guid>
+            <pubDate>Fri, 09 Apr 2021 11:46:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why the Chauvin trial ‘exhausts’ black America]]></title>
             <description><![CDATA[Many say watching George Floyd's final moments is traumatising - and so is the fight for racial justice.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56644465</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56644465</guid>
             <pubDate>Fri, 09 Apr 2021 01:52:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift releases a 'perfect replica' of Fearless]]></title>
+            <description><![CDATA[The star re-records her breakout album in its entirety, after her master tapes were sold.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56687699</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56687699</guid>
+            <pubDate>Fri, 09 Apr 2021 10:48:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Richard Okorogheye: Mother does not believe son took his own life]]></title>
@@ -268,25 +275,11 @@
             <pubDate>Fri, 09 Apr 2021 11:23:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Masters 2021: Justin Rose leads as Rory McIlroy, Bryson DeChambeau and Lee Westwood struggle]]></title>
+            <title><![CDATA[Rose moves into Masters lead on day one]]></title>
             <description><![CDATA[England's Justin Rose hits a seven-under 65 to open a four-stroke lead on the opening day of the Masters as Rory McIlroy and Lee Westwood struggle.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/56683671</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56683671</guid>
             <pubDate>Thu, 08 Apr 2021 23:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2022: 'Winning both games is all we think of' - Northern Ireland boss Shiels upbeat for Ukraine play-off]]></title>
-            <description><![CDATA[Northern Ireland are focused only on winning both legs of their Euro 2022 play-off against Ukraine, insists manager Kenny Shiels.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56678719</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56678719</guid>
-            <pubDate>Fri, 09 Apr 2021 07:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Barcelona go into Clasico a resurgent force]]></title>
-            <description><![CDATA[Exciting youth, improved tactics and a revitalised Lionel Messi - how Barcelona have been transformed under Ronald Koeman.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56667425</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56667425</guid>
-            <pubDate>Fri, 09 Apr 2021 05:30:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jack Grealish: Aston Villa captain out for another two weeks after injury setback]]></title>
@@ -296,18 +289,32 @@
             <pubDate>Fri, 09 Apr 2021 10:31:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Masters 2021: Justin Rose leads after 'extraordinary' seven-under 65]]></title>
-            <description><![CDATA[England's Justin Rose picks up an incredible nine shots in 10 holes to go four clear of the field as he cards a seven-under 65 in the opening round of the 2021 Masters.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/golf/56681351</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/56681351</guid>
-            <pubDate>Thu, 08 Apr 2021 23:33:34 GMT</pubDate>
+            <title><![CDATA['Winning both play-off games is all we think of']]></title>
+            <description><![CDATA[Northern Ireland are focused only on winning both legs of their Euro 2022 play-off against Ukraine, insists manager Kenny Shiels.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56678719</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56678719</guid>
+            <pubDate>Fri, 09 Apr 2021 07:16:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Masters 2021: Tommy Fleetwood 'smashes' hole-in-one on 16th]]></title>
-            <description><![CDATA[England's Tommy Fleetwood "smashes in" a hole-in-one on the par-three 16th to move to two over par in the opening round of the 2021 Masters.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/golf/56684349</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/56684349</guid>
-            <pubDate>Thu, 08 Apr 2021 22:27:00 GMT</pubDate>
+            <title><![CDATA[Who takes captaincy? And who plays in goal? Key questions for Lionesses before friendlies]]></title>
+            <description><![CDATA[As England prepare to take on France and Canada, there are questions still to be answered before the Team GB squad is announced.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56617239</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56617239</guid>
+            <pubDate>Thu, 08 Apr 2021 12:52:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Captain Hunter back to lead England in Six Nations]]></title>
+            <description><![CDATA[After a long-term nerve injury and 13 months away from international duty, Sarah Hunter is finally fit and ready to captain England in the Six Nations.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56676267</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56676267</guid>
+            <pubDate>Thu, 08 Apr 2021 15:20:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Masters leader Rose out at 14:36 BST - Friday's round two tee times]]></title>
+            <description><![CDATA[Lee Westwood will play with defending champion and world number one Dustin Johnson in the first two rounds of the 85th Masters at Augusta National.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/56655387</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56655387</guid>
+            <pubDate>Tue, 06 Apr 2021 16:28:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
