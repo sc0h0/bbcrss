@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Apr 2021 08:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 08:52:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid-19: Tests for all travellers in 'traffic light' plan]]></title>
-            <description><![CDATA[Transport Secretary Grant Shapps says he wants cheaper testing amid criticism from the travel sector.]]></description>
+            <title><![CDATA[Covid-19: People can start thinking about foreign travel - Shapps]]></title>
+            <description><![CDATA[The cost of testing needs to come down, the transport secretary says, amid criticism from the travel sector.]]></description>
             <link>https://www.bbc.co.uk/news/business-56682226</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56682226</guid>
-            <pubDate>Fri, 09 Apr 2021 07:27:41 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 08:32:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI riots: Police use water cannon during further riots]]></title>
@@ -69,7 +69,7 @@
             <description><![CDATA[The climate campaigner is concerned about the impact of Covid on attendance at the Glasgow summit.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-56686163</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56686163</guid>
-            <pubDate>Fri, 09 Apr 2021 07:52:50 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 08:43:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kate Garraway's husband returns home after a year-long battle with Covid-19]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-56683274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56683274</guid>
             <pubDate>Fri, 09 Apr 2021 06:35:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Lost golden city' found in Egypt reveals lives of ancient pharaohs]]></title>
+            <description><![CDATA[The city near Luxor has been hailed as one of the most important finds since Tutankhamun's tomb.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56686448</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56686448</guid>
+            <pubDate>Fri, 09 Apr 2021 07:49:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why the Chauvin trial ‘exhausts’ black America]]></title>
@@ -219,13 +226,6 @@
             <pubDate>Thu, 08 Apr 2021 23:52:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glass Animals: How Heat Waves became the ultimate sleeper hit]]></title>
-            <description><![CDATA[From severe injuries to Hollywood A-listers - here's the unlikely story of the ultimate sleeper hit.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56667366</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56667366</guid>
-            <pubDate>Thu, 08 Apr 2021 23:00:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What will self-driving trucks mean for truck drivers?]]></title>
             <description><![CDATA[Trucking is a big employer but autonomous trucks are on the horizon - are they a threat?]]></description>
             <link>https://www.bbc.co.uk/news/business-56332388</link>
@@ -233,18 +233,25 @@
             <pubDate>Thu, 08 Apr 2021 23:26:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Bilston traders 'optimistic' for reopening of shops]]></title>
-            <description><![CDATA[The BBC speaks to small business owners in Bilston as non-essential shops prepare to reopen.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56589661</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56589661</guid>
-            <pubDate>Fri, 09 Apr 2021 00:37:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brixton riots: Has enough changed in 40 years?]]></title>
             <description><![CDATA[Some of those at the heart of the 1981 Brixton riots reflect on the past four decades.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56678926</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56678926</guid>
             <pubDate>Thu, 08 Apr 2021 23:39:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glass Animals: How Heat Waves became the ultimate sleeper hit]]></title>
+            <description><![CDATA[From severe injuries to Hollywood A-listers - here's the unlikely story of the ultimate sleeper hit.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56667366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56667366</guid>
+            <pubDate>Thu, 08 Apr 2021 23:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Bilston traders 'optimistic' for reopening of shops]]></title>
+            <description><![CDATA[The BBC speaks to small business owners in Bilston as non-essential shops prepare to reopen.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56589661</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56589661</guid>
+            <pubDate>Fri, 09 Apr 2021 00:37:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is behind the violence in Northern Ireland?]]></title>
@@ -268,18 +275,18 @@
             <pubDate>Thu, 08 Apr 2021 23:48:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slavia Prague stun Arsenal with stoppage-time equaliser]]></title>
+            <title><![CDATA['Born with a silver spoon in my mouth? I'll turn it gold' - Benn's message to doubters]]></title>
+            <description><![CDATA[Conor Benn says he has gained the experience needed to continue striving for the same world-title success his father achieved.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/56673514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56673514</guid>
+            <pubDate>Fri, 09 Apr 2021 05:18:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It's a disastrous result' - Slavia Prague stun Arsenal with stoppage-time equaliser]]></title>
             <description><![CDATA[Slavia Prague score a dramatic stoppage time equaliser to leave Arsenal's Europa League ambitions hanging in the balance.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56667195</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56667195</guid>
             <pubDate>Thu, 08 Apr 2021 22:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Granada 0-2 Manchester United: Marcus Rashford and Bruno Fernandes on target in first leg]]></title>
-            <description><![CDATA[Manchester United take a big step towards reaching the Europa League semi-finals with an away first-leg win over Granada.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56667352</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56667352</guid>
-            <pubDate>Thu, 08 Apr 2021 22:09:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Masters 2021: Justin Rose leads after 'extraordinary' seven-under 65]]></title>
@@ -289,18 +296,18 @@
             <pubDate>Thu, 08 Apr 2021 23:33:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Winning both games is all we think of' - Northern Ireland set for 'monumental' play-off]]></title>
-            <description><![CDATA[Northern Ireland are focused only on winning both legs of their Euro 2022 play-off against Ukraine, insists manager Kenny Shiels.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56678719</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56678719</guid>
-            <pubDate>Fri, 09 Apr 2021 07:16:45 GMT</pubDate>
+            <title><![CDATA['You can't teach an old dog new tricks' - meet Britain's other teenage skateboarding star]]></title>
+            <description><![CDATA[Fourteen-year-old US-born British skateboarder Bombette Martin hopes to join Sky Brown in the Team GB squad at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/56680960</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/56680960</guid>
+            <pubDate>Fri, 09 Apr 2021 08:00:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Born with a silver spoon in my mouth? I'll turn it gold' - Benn's message to doubters]]></title>
-            <description><![CDATA[Conor Benn says he has gained the experience needed to continue striving for the same world-title success his father achieved.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/56673514</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56673514</guid>
-            <pubDate>Fri, 09 Apr 2021 05:18:38 GMT</pubDate>
+            <title><![CDATA[Granada 0-2 Manchester United: Marcus Rashford and Bruno Fernandes on target in first leg]]></title>
+            <description><![CDATA[Manchester United take a big step towards reaching the Europa League semi-finals with an away first-leg win over Granada.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56667352</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56667352</guid>
+            <pubDate>Thu, 08 Apr 2021 22:09:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rare blood clots - what you need to know]]></title>
@@ -370,7 +377,7 @@
             <description><![CDATA[Anyone in England who travels abroad without good reason will soon face a £5000 fine.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52646738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
-            <pubDate>Mon, 05 Apr 2021 16:19:21 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 08:46:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
@@ -426,7 +433,7 @@
             <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
-            <pubDate>Wed, 07 Apr 2021 18:00:19 GMT</pubDate>
+            <pubDate>Fri, 09 Apr 2021 08:44:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What are the rules for places of worship?]]></title>
