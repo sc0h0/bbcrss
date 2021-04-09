@@ -15,7 +15,7 @@
 15. [Philip tributes: 'A rock, a hero and one of a kind'](https://www.bbc.co.uk/news/uk-56695307) - Members of the public gather at Buckingham Palace to lay flowers and show support for the Queen.
 16. [Obituary: HRH The Prince Philip, Duke of Edinburgh](https://www.bbc.co.uk/news/uk-10224525) - Prince Philip, Duke of Edinburgh, won widespread respect for his steadfast and constant support of the Queen.
 17. [Prince Philip: 99 years, 143 countries and one very famous wife](https://www.bbc.co.uk/news/uk-42651950) - He was the man beside Queen Elizabeth II - and arguably the world's most famous husband.
-18. [Prince Philip: A life in pictures](https://www.bbc.co.uk/news/in-pictures-36417297) - Key photographs, from his early days in the Greek island of Corfu to school days in Scotland and his life alongside the Queen.
+18. [Prince Philip: Death of the Duke of Edinburgh announced](https://www.bbc.co.uk/news/in-pictures-56692965) - Crowds gathered outside Buckingham Palace and Windsor Castle and people laid floral tributes.
 19. [Prince Philip: The Duke of Edinburgh's Award 'saved me from jail'](https://www.bbc.co.uk/news/uk-56301207) - For pals James and Nathan, the awards are about more than hauling badly-packed rucksacks up hills.
 20. [The announcement of the death of Prince Philip](https://www.bbc.co.uk/news/uk-21927210) - The BBC's announcement as Buckingham Palace confirms the death of Prince Philip, Duke of Edinburgh.
 21. [Greta Thunberg not planning on attending COP26 in Glasgow](https://www.bbc.co.uk/news/science-environment-56678977) - She told the BBC she was concerned about the impact of the coronavirus pandemic on attendance at COP26.
@@ -41,7 +41,7 @@
 41. [France 3-1 England: Lionesses beaten in friendly](https://www.bbc.co.uk/sport/football/56677932) - Fran Kirby's penalty is not enough as England are beaten 3-1 by France in an entertaining friendly international.
 42. [Fulham 0-1 Wolves: Adama Traore with stoppage-time winner for visitors](https://www.bbc.co.uk/sport/football/56611890) - Adama Traore strikes an injury-time winner for Wolves as Fulham's hopes of remaining in the Premier League suffer another significant blow.
 43. [NI beat Ukraine in first leg of play-off - report & highlights](https://www.bbc.co.uk/sport/football/56678719) - Northern Ireland score two away goals to beat favourites Ukraine 2-1 in the first leg of the Euro 2022 play-off.
-44. [Watford 2-0 Reading: Ismaila Sarr double gives promotion chasers victory](https://www.bbc.co.uk/sport/football/56611869) - Two goals from Ismaila Sarr see second-placed Watford take another step towards promotion back to the Premier League with a win over Reading at Vicarage Road.
+44. [Will history be made at Grand National as three jockeys vie to become first female winner?](https://www.bbc.co.uk/sport/horse-racing/56688672) - Three women will bid to become the first female jockey to win the Grand National at Aintree on Saturday.
 45. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 46. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - Anyone in England who travels abroad without good reason will soon face a £5000 fine.
 47. [Rare blood clots - what you need to know](https://www.bbc.co.uk/news/health-56674796) - We take a look at why these unusual clots happen and when they occur.
