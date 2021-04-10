@@ -3,7 +3,7 @@
 3. [Prince Philip tributes: Royals reflect on the 'rock in the Queen’s life'](https://www.bbc.co.uk/news/uk-56698618) - The Duke of Edinburgh's children share reflections on his legacy and "astonishing achievement".
 4. [Prince Philip: Every living US president pays respects](https://www.bbc.co.uk/news/world-us-canada-56698311) - The Duke of Edinburgh saw 18 presidents elected in his lifetime and met many of them with the Queen.
 5. [Prince Philip: Family visits Buckingham Palace at 1am to lay flowers](https://www.bbc.co.uk/news/uk-56699776) - Alex and his two children came to lay flowers at 01:00 BST in memory of the Duke of Edinburgh.
-6. [Belfast riots: Police injured during another night of NI violence](https://www.bbc.co.uk/news/uk-northern-ireland-56699716) - Police appeal for calm after more attacks on officers, this time in north Belfast.
+6. [NI riots: Police injured during another night of violence](https://www.bbc.co.uk/news/uk-northern-ireland-56699716) - Officers come under attack from petrol bombs and other missiles in parts of Belfast, and also Coleraine.
 7. [Covid-19: Palace urges crowds not to gather, and infections fall](https://www.bbc.co.uk/news/uk-56699757) - Five things you need to know about the coronavirus pandemic this Saturday morning.
 8. [Coronavirus: WHO chief criticises 'shocking' global vaccine divide](https://www.bbc.co.uk/news/world-56698854) - Supply deals between wealthy nations risk worsening vaccine inequality, the health body says.
 9. [Race report: Boris Johnson urged to withdraw 'whitewashing' inquiry](https://www.bbc.co.uk/news/uk-politics-56687397) - An open letter signed by 20,000 says a report into racial inequality "provoked national indignation".
