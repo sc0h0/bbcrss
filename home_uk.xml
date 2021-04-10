@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Apr 2021 23:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 23:51:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Sat, 10 Apr 2021 19:24:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: UK reports largest number of second jabs in one day]]></title>
-            <description><![CDATA[A total of 450,136 second doses were received on Friday - with 106,878 first doses also given.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56704539</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56704539</guid>
-            <pubDate>Sat, 10 Apr 2021 15:55:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bafta Film Awards 2021: Two-night ceremony announces first winners]]></title>
             <description><![CDATA[The ceremony is split over two days for the first time, with more winners to be revealed on Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56673778</link>
@@ -62,7 +55,14 @@
             <description><![CDATA[An ally of Matt Hancock tells the BBC he "acted in entirely the correct way" after the 2019 meeting.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56706619</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56706619</guid>
-            <pubDate>Sat, 10 Apr 2021 23:25:36 GMT</pubDate>
+            <pubDate>Sat, 10 Apr 2021 23:49:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: UK reports largest number of second jabs in one day]]></title>
+            <description><![CDATA[A total of 450,136 second doses were received on Friday - with 106,878 first doses also given.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56704539</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56704539</guid>
+            <pubDate>Sat, 10 Apr 2021 15:55:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Myanmar coup: 'Dozens killed' in military crackdown in Bago]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Sat, 10 Apr 2021 23:20:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gyms re-opening: 'Everyone's raring to go - but take it slow']]></title>
+            <description><![CDATA[Gyms open in England this week, but people should "take it slow" to get their fitness levels back.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56667710</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56667710</guid>
+            <pubDate>Sat, 10 Apr 2021 23:35:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Prince Philip: What would you say to the Queen today?]]></title>
             <description><![CDATA[People in Windsor tell us their messages for the Queen, as she mourns the loss of her husband, Prince Philip.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56700324</link>
@@ -163,18 +170,32 @@
             <pubDate>Sat, 10 Apr 2021 01:41:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Week in pictures: 3 - 9 April 2021]]></title>
-            <description><![CDATA[A selection of powerful images taken around the world this week.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-56689445</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56689445</guid>
-            <pubDate>Fri, 09 Apr 2021 23:03:30 GMT</pubDate>
+            <title><![CDATA[‘I can’t wait to go shopping again, it's been ages’]]></title>
+            <description><![CDATA[Some are eager to hit the High Street when non-essential shops reopen on Monday - but others remain wary.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56667982</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56667982</guid>
+            <pubDate>Sat, 10 Apr 2021 23:38:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Philip: A turbulent childhood stalked by exile, mental illness and death]]></title>
-            <description><![CDATA[In marrying, Philip was able to regain the "simple pleasures" of family life he had lost at eight.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56690270</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56690270</guid>
-            <pubDate>Sat, 10 Apr 2021 11:08:59 GMT</pubDate>
+            <title><![CDATA[Covid-19: Debunking the latest wave of medical misinformation]]></title>
+            <description><![CDATA[A round-up of the latest false and misleading posts about Covid-19 going viral on social media]]></description>
+            <link>https://www.bbc.co.uk/news/56680399</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56680399</guid>
+            <pubDate>Sat, 10 Apr 2021 23:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moscow's palatial Yeliseyevsky food hall closes after 120 years]]></title>
+            <description><![CDATA[The iconic supermarket on Tverskaya Street in central Moscow first opened its doors 120 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56683249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56683249</guid>
+            <pubDate>Sat, 10 Apr 2021 23:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ghana's farmers eye sweet success from chocolate]]></title>
+            <description><![CDATA[Ghana is the world's second largest cocoa producer but sees little of the profits from chocolate - for now.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56687427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56687427</guid>
+            <pubDate>Sat, 10 Apr 2021 23:25:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bafta Film Awards 2021: The winners and nominees]]></title>
@@ -196,55 +217,6 @@
             <link>https://www.bbc.co.uk/news/uk-56536933</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56536933</guid>
             <pubDate>Fri, 09 Apr 2021 02:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar citizens flee to India to escape violence]]></title>
-            <description><![CDATA[India is the closest refuge for Myanmar nationals fleeing violence following February's military coup.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56685935</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56685935</guid>
-            <pubDate>Fri, 09 Apr 2021 23:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['You look like you've had a heavy Christmas!' When the public met the duke]]></title>
-            <description><![CDATA[From a Christmas morning at Sandringham, to a Canadian hotel, here are some of your Prince Philip stories.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56701890</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56701890</guid>
-            <pubDate>Sat, 10 Apr 2021 12:32:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wedding venues: 'It's costing me £250,000 a month']]></title>
-            <description><![CDATA[Wedding industry professionals rue their loss of income as the economy slowly reopens after lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56689969</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56689969</guid>
-            <pubDate>Fri, 09 Apr 2021 21:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prince Philip: An extraordinary man who led an extraordinary life]]></title>
-            <description><![CDATA[The Duke of Edinburgh's life was filled with contradictions but will be remembered most for his unstinting support of the Queen.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-50589065</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-50589065</guid>
-            <pubDate>Fri, 09 Apr 2021 11:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Lockdown taught us we're more than just a gym']]></title>
-            <description><![CDATA[On Monday, businesses will reopen after months of being closed, but can they adapt to the "new normal"?]]></description>
-            <link>https://www.bbc.co.uk/news/business-56639211</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56639211</guid>
-            <pubDate>Fri, 09 Apr 2021 21:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South African artists struggle with Covid theatre closures]]></title>
-            <description><![CDATA[The permanent closure of a top venue symbolises the struggle many performers are facing.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56651742</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56651742</guid>
-            <pubDate>Fri, 09 Apr 2021 23:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From 'Porky' to goalie: Peru's presidential candidates]]></title>
-            <description><![CDATA[Eighteen presidential candidates are trying to convince Peruvians tired of politics to vote for them.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-56674199</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56674199</guid>
-            <pubDate>Sat, 10 Apr 2021 00:44:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Modest trailblazer' Blackmore says National triumph was 'beyond belief']]></title>
@@ -289,18 +261,11 @@
             <pubDate>Sat, 10 Apr 2021 18:38:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Philip tributes: 'I wanted my grandchildren to remember this day']]></title>
-            <description><![CDATA[People from all generations have come to Windsor to pay tribute to Prince Philip after his death.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56703427</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56703427</guid>
-            <pubDate>Sat, 10 Apr 2021 17:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When the Queen was snapped 'giggling' at Prince Philip]]></title>
-            <description><![CDATA[A royal occasion descended into bewilderment and chuckles after a swarm of bees descended.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-56242398</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56242398</guid>
-            <pubDate>Sat, 10 Apr 2021 09:32:04 GMT</pubDate>
+            <title><![CDATA[Prince Philip: A turbulent childhood stalked by exile, mental illness and death]]></title>
+            <description><![CDATA[In marrying, Philip was able to regain the "simple pleasures" of family life he had lost at eight.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56690270</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56690270</guid>
+            <pubDate>Sat, 10 Apr 2021 11:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip on royal duty: In his own words]]></title>
@@ -315,6 +280,20 @@
             <link>https://www.bbc.co.uk/news/uk-56703415</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56703415</guid>
             <pubDate>Sat, 10 Apr 2021 20:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip tributes: 'I wanted my grandchildren to remember this day']]></title>
+            <description><![CDATA[People from all generations have come to Windsor to pay tribute to Prince Philip after his death.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56703427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56703427</guid>
+            <pubDate>Sat, 10 Apr 2021 17:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When the Queen was snapped 'giggling' at Prince Philip]]></title>
+            <description><![CDATA[A royal occasion descended into bewilderment and chuckles after a swarm of bees descended.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-56242398</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56242398</guid>
+            <pubDate>Sat, 10 Apr 2021 09:32:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: How the Royal Navy shaped the Duke of Edinburgh]]></title>
