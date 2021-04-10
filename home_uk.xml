@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Apr 2021 03:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 04:29:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Sat, 10 Apr 2021 01:41:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coronavirus: WHO chief criticises 'shocking' global vaccine divide]]></title>
+            <description><![CDATA[Supply deals between wealthy nations risk worsening vaccine inequality, the health body says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-56698854</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56698854</guid>
+            <pubDate>Sat, 10 Apr 2021 04:00:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NI riots: Police appeal for calm during more disorder in Belfast]]></title>
             <description><![CDATA[Petrol bombs and bricks have been thrown at police during another night of violence in Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56696889</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-56693406</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56693406</guid>
             <pubDate>Fri, 09 Apr 2021 21:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LS Lowry Beach Scene bought for £162,500 for Berwick-upon-Tweed]]></title>
-            <description><![CDATA[The "matchstick figures" artist, better known for his industrial scenes, used to holiday in Berwick.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-56688402</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-56688402</guid>
-            <pubDate>Sat, 10 Apr 2021 00:06:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Ireland adds 16 countries to hotel quarantine list]]></title>
@@ -184,6 +184,13 @@
             <pubDate>Fri, 09 Apr 2021 23:03:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[LS Lowry Beach Scene bought for £162,500 for Berwick-upon-Tweed]]></title>
+            <description><![CDATA[The "matchstick figures" artist, better known for his industrial scenes, used to holiday in Berwick.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-56688402</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-56688402</guid>
+            <pubDate>Sat, 10 Apr 2021 00:06:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sofagate: Turkey and the story of three presidents and only two chairs]]></title>
             <description><![CDATA[When European Commission President Ursula von der Leyen was left standing because of a lack of chairs in Turkey this week, she reacted with an audible "erm".]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56696618</link>
@@ -217,27 +224,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56688031</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56688031</guid>
             <pubDate>Fri, 09 Apr 2021 14:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lockdown houseplant trend captured by London photographer]]></title>
-            <description><![CDATA[A photographer has been documenting the lockdown efforts of her green-fingered neighbours.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56677607</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56677607</guid>
-            <pubDate>Fri, 09 Apr 2021 10:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bird Photographer of the Year 2021 finalists revealed]]></title>
-            <description><![CDATA[Brawling puffins, warbling warblers and swooping swallows - some of this year's shortlisted images.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-56654460</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56654460</guid>
-            <pubDate>Thu, 08 Apr 2021 23:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lockdown easing: What to watch for when you’re out and about]]></title>
-            <description><![CDATA[The BBC’s David Shukman on how to navigate lockdown easing while keeping yourself and others safe.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-56678978</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56678978</guid>
-            <pubDate>Thu, 08 Apr 2021 23:21:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: An extraordinary man who led an extraordinary life]]></title>
@@ -294,27 +280,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-56674199</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56674199</guid>
             <pubDate>Sat, 10 Apr 2021 00:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Why have deaths soared in Brazil?]]></title>
-            <description><![CDATA[President Bolsonaro has downplayed the pandemic and resisted lockdowns but now faces a major crisis.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-56663217</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56663217</guid>
-            <pubDate>Thu, 08 Apr 2021 23:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obituary: DMX, the record-breaking rapper with bark and bite]]></title>
-            <description><![CDATA[He was one of America's most successful rap stars, but his life was plagued by personal problems.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56647793</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56647793</guid>
-            <pubDate>Fri, 09 Apr 2021 16:41:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis: What is Brexit doing to Northern Ireland?]]></title>
-            <description><![CDATA[Anger over post-Brexit trading rules is a factor in the violence that has erupted, writes Adam Fleming.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56678489</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56678489</guid>
-            <pubDate>Fri, 09 Apr 2021 08:55:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: Sporting world pays tribute to Duke of Edinburgh]]></title>
