@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Apr 2021 10:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 11:23:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Prince Philip: Military prepares for gun salute]]></title>
-            <description><![CDATA[The Duke of Edinburgh's death is being marked with royal gun salutes across the UK and on warships.]]></description>
+            <title><![CDATA[Prince Philip: Military paying tribute to Duke of Edinburgh]]></title>
+            <description><![CDATA[Prince Philip's death is being marked with royal gun salutes across the UK and on warships.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56698794</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56698794</guid>
-            <pubDate>Sat, 10 Apr 2021 10:51:43 GMT</pubDate>
+            <pubDate>Sat, 10 Apr 2021 11:17:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: What are the plans for his funeral?]]></title>
+            <description><![CDATA[What happens next in the days leading up to the ceremonial funeral of the Duke of Edinburgh?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56694327</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56694327</guid>
+            <pubDate>Sat, 10 Apr 2021 09:14:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip tributes: Royals reflect on the 'rock in the Queen’s life']]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56698311</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56698311</guid>
             <pubDate>Sat, 10 Apr 2021 00:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prince Philip: What are the plans for his funeral?]]></title>
-            <description><![CDATA[What happens next in the days leading up to the ceremonial funeral of the Duke of Edinburgh?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56694327</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56694327</guid>
-            <pubDate>Sat, 10 Apr 2021 09:14:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: Family visits Buckingham Palace at 1am to lay flowers]]></title>
@@ -121,13 +121,6 @@
             <pubDate>Fri, 09 Apr 2021 23:13:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In pictures: Tributes continue for the duke]]></title>
-            <description><![CDATA[Tributes are being paid to the Duke of Edinburgh, after his death at the age of 99 at Windsor Castle]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-56700587</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56700587</guid>
-            <pubDate>Sat, 10 Apr 2021 08:12:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Prince Philip: How the Royal Navy shaped the Duke of Edinburgh]]></title>
             <description><![CDATA[From his rescue as a toddler to thwarting wartime sea raids, the duke - and his outlook on life - was shaped by the navy.]]></description>
             <link>https://www.bbc.co.uk/news/uk-10266717</link>
@@ -140,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/in-pictures-56242398</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56242398</guid>
             <pubDate>Sat, 10 Apr 2021 09:32:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Tributes continue for the duke]]></title>
+            <description><![CDATA[Tributes are being paid to the Duke of Edinburgh, after his death at the age of 99 at Windsor Castle]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-56700587</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56700587</guid>
+            <pubDate>Sat, 10 Apr 2021 08:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Philip tributes: 'A rock, a hero and one of a kind']]></title>
@@ -184,18 +184,18 @@
             <pubDate>Fri, 09 Apr 2021 11:35:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: Tributes to 'beloved' duke after a 'life of duty']]></title>
-            <description><![CDATA[The death of the Duke of Edinburgh at the age of 99 dominates all of Saturday's papers.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56698682</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56698682</guid>
-            <pubDate>Sat, 10 Apr 2021 04:46:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Week in pictures: 3 - 9 April 2021]]></title>
             <description><![CDATA[A selection of powerful images taken around the world this week.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-56689445</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56689445</guid>
             <pubDate>Fri, 09 Apr 2021 23:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Tributes to 'beloved' duke after a 'life of duty']]></title>
+            <description><![CDATA[The death of the Duke of Edinburgh at the age of 99 dominates all of Saturday's papers.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56698682</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56698682</guid>
+            <pubDate>Sat, 10 Apr 2021 04:46:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lowry Beach Scene bought for £162k for Berwick-upon-Tweed]]></title>
@@ -240,11 +240,11 @@
             <pubDate>Fri, 09 Apr 2021 14:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Philip: An extraordinary man who led an extraordinary life]]></title>
-            <description><![CDATA[The Duke of Edinburgh's life was filled with contradictions but will be remembered most for his unstinting support of the Queen.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-50589065</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-50589065</guid>
-            <pubDate>Fri, 09 Apr 2021 11:15:29 GMT</pubDate>
+            <title><![CDATA[Prince Philip: A turbulent childhood stalked by exile, mental illness and death]]></title>
+            <description><![CDATA[In marrying, Philip was able to regain the "simple pleasures" of family life he had lost at eight.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56690270</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56690270</guid>
+            <pubDate>Sat, 10 Apr 2021 11:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I went from spreadsheets to proning Covid patients']]></title>
@@ -280,6 +280,13 @@
             <link>https://www.bbc.co.uk/news/business-56689969</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56689969</guid>
             <pubDate>Fri, 09 Apr 2021 21:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: An extraordinary man who led an extraordinary life]]></title>
+            <description><![CDATA[The Duke of Edinburgh's life was filled with contradictions but will be remembered most for his unstinting support of the Queen.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-50589065</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-50589065</guid>
+            <pubDate>Fri, 09 Apr 2021 11:15:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[South African artists struggle with Covid theatre closures]]></title>
