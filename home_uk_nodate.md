@@ -1,7 +1,7 @@
 1. [Prince Philip: Queen 'has been amazing', says Countess of Wessex](https://www.bbc.co.uk/news/uk-56698794) - The monarch's children have been visiting her at Windsor Castle following the death of Prince Philip.
 2. [NI riots: Fourteen more police officers injured in night of violence](https://www.bbc.co.uk/news/uk-northern-ireland-56699716) - Officers come under attack from petrol bombs and other missiles in parts of Belfast, and also Coleraine.
 3. [Prince Philip: What are the plans for his funeral?](https://www.bbc.co.uk/news/uk-56694327) - What happens next in the days leading up to the ceremonial funeral of the Duke of Edinburgh?
-4. [Prince Philip: Sporting fixtures to pay tribute to Duke of Edinburgh](https://www.bbc.co.uk/sport/56700886) - Further tributes will be paid across the sporting weekend to Prince Philip, the Duke of Edinburgh, who died on Friday aged 99.
+4. [Prince Philip: Sporting fixtures pay tribute to Duke of Edinburgh](https://www.bbc.co.uk/sport/56700886) - Further tributes will be paid across the sporting weekend to Prince Philip, the Duke of Edinburgh, who died on Friday aged 99.
 5. [Prince Philip tributes: Royals reflect on the 'rock in the Queen’s life'](https://www.bbc.co.uk/news/uk-56698618) - The Duke of Edinburgh's children share reflections on his legacy and "astonishing achievement".
 6. [Alibaba: Chinese regulator slaps huge fine on tech giant](https://www.bbc.co.uk/news/business-56701765) - The e-commerce company Alibaba Group is fined $2.75bn for violating anti-monopoly rules.
 7. [Coronavirus: WHO chief criticises 'shocking' global vaccine divide](https://www.bbc.co.uk/news/world-56698854) - Supply deals between wealthy nations risk worsening vaccine inequality, the health body says.
