@@ -1,4 +1,4 @@
-1. [Prince Philip: Military paying tribute to Duke of Edinburgh](https://www.bbc.co.uk/news/uk-56698794) - Prince Philip's death is being marked with royal gun salutes across the UK and on warships.
+1. [Prince Philip: Military pays tribute to Duke of Edinburgh](https://www.bbc.co.uk/news/uk-56698794) - Prince Philip's death has been marked with royal gun salutes across the UK and on warships.
 2. [Prince Philip: What are the plans for his funeral?](https://www.bbc.co.uk/news/uk-56694327) - What happens next in the days leading up to the ceremonial funeral of the Duke of Edinburgh?
 3. [Prince Philip tributes: Royals reflect on the 'rock in the Queen’s life'](https://www.bbc.co.uk/news/uk-56698618) - The Duke of Edinburgh's children share reflections on his legacy and "astonishing achievement".
 4. [Prince Philip: Every living US president pays respects](https://www.bbc.co.uk/news/world-us-canada-56698311) - The Duke of Edinburgh saw 18 presidents elected in his lifetime and met many of them with the Queen.
@@ -40,8 +40,8 @@
 40. [South African artists struggle with Covid theatre closures](https://www.bbc.co.uk/news/world-africa-56651742) - The permanent closure of a top venue symbolises the struggle many performers are facing.
 41. [From 'Porky' to goalie: Peru's presidential candidates](https://www.bbc.co.uk/news/world-latin-america-56674199) - Eighteen presidential candidates are trying to convince Peruvians tired of politics to vote for them.
 42. [Prince Philip: Sporting fixtures to pay tribute to Duke of Edinburgh](https://www.bbc.co.uk/sport/56700886) - Further tributes will be paid across the sporting weekend to Prince Philip, the Duke of Edinburgh, who died on Friday aged 99.
-43. [Masters 2021: Justin Rose leads at Augusta National, Rory McIlroy and Dustin Johnson miss cut](https://www.bbc.co.uk/sport/golf/56698246) - Justin Rose holds the lead heading into round three at the Masters but defending champion Dustin Johnson and Northern Ireland's Rory McIlroy miss the cut.
-44. [Sporting memories of Prince Philip](https://www.bbc.co.uk/sport/42430153) - BBC Sport takes a photographic look at Prince Philip's life in sport.
+43. [Sporting memories of Prince Philip](https://www.bbc.co.uk/sport/42430153) - BBC Sport takes a photographic look at Prince Philip's life in sport.
+44. [Masters 2021: Justin Rose leads at Augusta National, Rory McIlroy and Dustin Johnson miss cut](https://www.bbc.co.uk/sport/golf/56698246) - Justin Rose holds the lead heading into round three at the Masters but defending champion Dustin Johnson and Northern Ireland's Rory McIlroy miss the cut.
 45. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - Anyone in England who travels abroad without good reason will soon face a £5000 fine.
 46. [England lockdown: Countdown to freedom](https://www.bbc.co.uk/news/uk-england-56594933) - As coronavirus restrictions are lifted - when can you return to your favourite activities?
 47. [Covid: How are European countries tackling the pandemic?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
