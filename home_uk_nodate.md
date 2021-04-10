@@ -22,7 +22,7 @@
 22. [The announcement of the death of Prince Philip](https://www.bbc.co.uk/news/uk-21927210) - The BBC's announcement as Buckingham Palace confirms the death of Prince Philip, Duke of Edinburgh.
 23. [The Papers: Tributes to 'beloved' duke after a 'life of duty'](https://www.bbc.co.uk/news/blogs-the-papers-56698682) - The death of the Duke of Edinburgh at the age of 99 dominates all of Saturday's papers.
 24. [Week in pictures: 3 - 9 April 2021](https://www.bbc.co.uk/news/in-pictures-56689445) - A selection of powerful images taken around the world this week.
-25. [LS Lowry Beach Scene bought for £162,500 for Berwick-upon-Tweed](https://www.bbc.co.uk/news/uk-england-tyne-56688402) - The "matchstick figures" artist, better known for his industrial scenes, used to holiday in Berwick.
+25. [Lowry Beach Scene bought for £162k for Berwick-upon-Tweed](https://www.bbc.co.uk/news/uk-england-tyne-56688402) - The "matchstick figures" artist, better known for his industrial scenes, used to holiday in Berwick.
 26. [Sofagate: Turkey and the story of three presidents and only two chairs](https://www.bbc.co.uk/news/world-europe-56696618) - When European Commission President Ursula von der Leyen was left standing because of a lack of chairs in Turkey this week, she reacted with an audible "erm".
 27. [La Soufrière: Thousands flee Caribbean volcano](https://www.bbc.co.uk/news/world-latin-america-56698708) - La Soufrière on St Vincent island spews ash 6km into the air as thousands are evacuated.
 28. [Greta Thunberg not planning on attending COP26 in Glasgow](https://www.bbc.co.uk/news/science-environment-56678977) - She told the BBC she was concerned about the impact of the coronavirus pandemic on attendance at COP26.
