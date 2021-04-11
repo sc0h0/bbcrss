@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Apr 2021 21:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 22:28:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,6 +170,13 @@
             <pubDate>Sat, 10 Apr 2021 23:03:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bafta Film Awards 2021: Snobbery, pianos and other takeaways]]></title>
+            <description><![CDATA[Even with social distancing there was plenty of humour, glamour and surprises at the virtual event.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56711121</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56711121</guid>
+            <pubDate>Sun, 11 Apr 2021 21:54:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid and twins: 'Huge' impact of lockdown separation]]></title>
             <description><![CDATA[Three sets of twins reflect on the past year, with research suggesting only 5.5% live together.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-56581156</link>
@@ -231,20 +238,6 @@
             <link>https://www.bbc.co.uk/news/business-56682427</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56682427</guid>
             <pubDate>Sat, 10 Apr 2021 23:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vernon Kay on Game of Talents and why 'autocue ruined T4']]></title>
-            <description><![CDATA[The TV presenter discusses his new ITV game show and why he really, really hates autocue.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56662170</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56662170</guid>
-            <pubDate>Fri, 09 Apr 2021 23:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I went from spreadsheets to proning Covid patients']]></title>
-            <description><![CDATA[Thousands of NHS staff, from dentists to physiotherapists, have been redeployed during the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56536933</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56536933</guid>
-            <pubDate>Fri, 09 Apr 2021 02:44:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tottenham Hotspur 1-3 Man Utd: Edinson Cavani scores as visitors fight back]]></title>
