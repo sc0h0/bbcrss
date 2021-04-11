@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Apr 2021 23:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 01:12:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -55,7 +55,7 @@
             <description><![CDATA[An ally of Matt Hancock tells the BBC he "acted in entirely the correct way" after the 2019 meeting.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56706619</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56706619</guid>
-            <pubDate>Sat, 10 Apr 2021 23:49:15 GMT</pubDate>
+            <pubDate>Sun, 11 Apr 2021 00:49:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: UK reports largest number of second jabs in one day]]></title>
@@ -114,6 +114,13 @@
             <pubDate>Sat, 10 Apr 2021 22:13:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gyms re-opening: 'Everyone's raring to go - but take it slow']]></title>
+            <description><![CDATA[Gyms open in England this week, but people should "take it slow" to get their fitness levels back.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56667710</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56667710</guid>
+            <pubDate>Sat, 10 Apr 2021 23:35:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lockdown eases: How we fit bras at a social distance]]></title>
             <description><![CDATA[Bravissimo's Leanne Cahill explains how her shops will work when they reopen after lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/business-56694617</link>
@@ -121,11 +128,11 @@
             <pubDate>Sat, 10 Apr 2021 23:04:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In pictures: Tributes continue for the duke]]></title>
-            <description><![CDATA[Tributes continue to be paid to the Duke of Edinburgh after his death at the age of 99.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-56700587</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56700587</guid>
-            <pubDate>Sat, 10 Apr 2021 18:13:40 GMT</pubDate>
+            <title><![CDATA[Prince Philip: The Royal Navy years]]></title>
+            <description><![CDATA[Prince Philip's Royal Navy years were a defining experience, and led to him meeting Princess Elizabeth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56695867</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56695867</guid>
+            <pubDate>Sat, 10 Apr 2021 23:03:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saving green turtles... by cooling their eggs]]></title>
@@ -142,13 +149,6 @@
             <pubDate>Sat, 10 Apr 2021 23:20:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gyms re-opening: 'Everyone's raring to go - but take it slow']]></title>
-            <description><![CDATA[Gyms open in England this week, but people should "take it slow" to get their fitness levels back.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-56667710</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56667710</guid>
-            <pubDate>Sat, 10 Apr 2021 23:35:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Prince Philip: What would you say to the Queen today?]]></title>
             <description><![CDATA[People in Windsor tell us their messages for the Queen, as she mourns the loss of her husband, Prince Philip.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56700324</link>
@@ -163,18 +163,11 @@
             <pubDate>Sat, 10 Apr 2021 15:45:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Philip: Family visits Buckingham Palace at 1am to lay flowers]]></title>
-            <description><![CDATA[Alex and his two children came to lay flowers at 01:00 BST in memory of the Duke of Edinburgh.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56699776</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56699776</guid>
-            <pubDate>Sat, 10 Apr 2021 01:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I can’t wait to go shopping again, it's been ages’]]></title>
-            <description><![CDATA[Some are eager to hit the High Street when non-essential shops reopen on Monday - but others remain wary.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56667982</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56667982</guid>
-            <pubDate>Sat, 10 Apr 2021 23:38:24 GMT</pubDate>
+            <title><![CDATA[Moscow's palatial Yeliseyevsky food hall closes after 120 years]]></title>
+            <description><![CDATA[The iconic supermarket on Tverskaya Street in central Moscow first opened its doors 120 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56683249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56683249</guid>
+            <pubDate>Sat, 10 Apr 2021 23:19:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Debunking the latest wave of medical misinformation]]></title>
@@ -184,11 +177,18 @@
             <pubDate>Sat, 10 Apr 2021 23:39:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Moscow's palatial Yeliseyevsky food hall closes after 120 years]]></title>
-            <description><![CDATA[The iconic supermarket on Tverskaya Street in central Moscow first opened its doors 120 years ago.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56683249</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56683249</guid>
-            <pubDate>Sat, 10 Apr 2021 23:19:31 GMT</pubDate>
+            <title><![CDATA[Rachael Blackmore: Historic Grand National triumph for modest trailblazer]]></title>
+            <description><![CDATA[The rise of jockey Rachael Blackmore - the modest trailblazer who made Grand National history]]></description>
+            <link>https://www.bbc.co.uk/sport/horse-racing/56704524</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/horse-racing/56704524</guid>
+            <pubDate>Sat, 10 Apr 2021 23:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘I can’t wait to go shopping again, it's been ages’]]></title>
+            <description><![CDATA[Some are eager to hit the High Street when non-essential shops reopen on Monday - but others remain wary.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56667982</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56667982</guid>
+            <pubDate>Sat, 10 Apr 2021 23:38:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ghana's farmers eye sweet success from chocolate]]></title>
@@ -198,11 +198,32 @@
             <pubDate>Sat, 10 Apr 2021 23:25:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Prince Philip tributes: 'I wanted my grandchildren to remember this day']]></title>
+            <description><![CDATA[People from all generations have come to Windsor to pay tribute to Prince Philip after his death.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56703427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56703427</guid>
+            <pubDate>Sat, 10 Apr 2021 17:36:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bafta Film Awards 2021: The winners and nominees]]></title>
             <description><![CDATA[See the winners so far and all the nominees for this year's British Academy Film Awards.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56323950</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56323950</guid>
             <pubDate>Sat, 10 Apr 2021 21:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['You look like you've had a heavy Christmas!' When the public met the duke]]></title>
+            <description><![CDATA[From a Christmas morning at Sandringham, to a Canadian hotel, here are some of your Prince Philip stories.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56701890</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56701890</guid>
+            <pubDate>Sat, 10 Apr 2021 12:32:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rescheduled Dubai Expo hopes to attract 25 million visits]]></title>
+            <description><![CDATA[Rescheduled Dubai Expo hopes to attract 25 million visits]]></description>
+            <link>https://www.bbc.co.uk/news/business-56682427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56682427</guid>
+            <pubDate>Sat, 10 Apr 2021 23:56:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vernon Kay on Game of Talents and why 'autocue ruined T4']]></title>
@@ -219,11 +240,11 @@
             <pubDate>Fri, 09 Apr 2021 02:44:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Modest trailblazer' Blackmore says National triumph was 'beyond belief']]></title>
-            <description><![CDATA[The rise of jockey Rachael Blackmore - the modest trailblazer who made Grand National history]]></description>
-            <link>https://www.bbc.co.uk/sport/horse-racing/56704524</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/horse-racing/56704524</guid>
-            <pubDate>Sat, 10 Apr 2021 23:07:47 GMT</pubDate>
+            <title><![CDATA[Rose joint second as Matsuyama takes four-shot Masters lead]]></title>
+            <description><![CDATA[Japan's Hideki Matsuyama shoots a 65 on Saturday to take a four-shot lead into the final day of the Masters, with England's Justin Rose tied for second.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/56706536</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56706536</guid>
+            <pubDate>Sun, 11 Apr 2021 00:16:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Alexander-Arnold has nothing to prove' - Klopp wants to focus on 'massive win']]></title>
@@ -254,6 +275,20 @@
             <pubDate>Sat, 10 Apr 2021 19:58:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Prince Philip: Sporting fixtures pay tribute to Duke of Edinburgh]]></title>
+            <description><![CDATA[Further tributes will be paid across the sporting weekend to Prince Philip, the Duke of Edinburgh, who died on Friday aged 99.]]></description>
+            <link>https://www.bbc.co.uk/sport/56700886</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/56700886</guid>
+            <pubDate>Sat, 10 Apr 2021 16:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: Conners hits hole-in-one at Masters]]></title>
+            <description><![CDATA[Canada's Corey Connors scores only the sixth hole-in-one in tournament history at the par three-sixth hole at Augusta National, moving into contention in the third round of The Masters.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/golf/56704880</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/56704880</guid>
+            <pubDate>Sat, 10 Apr 2021 18:58:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Prince Philip: What are the plans for his funeral?]]></title>
             <description><![CDATA[What happens next in the days leading up to the ceremonial funeral for the Duke of Edinburgh?]]></description>
             <link>https://www.bbc.co.uk/news/uk-56694327</link>
@@ -282,18 +317,18 @@
             <pubDate>Sat, 10 Apr 2021 20:15:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Philip tributes: 'I wanted my grandchildren to remember this day']]></title>
-            <description><![CDATA[People from all generations have come to Windsor to pay tribute to Prince Philip after his death.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56703427</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56703427</guid>
-            <pubDate>Sat, 10 Apr 2021 17:36:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[When the Queen was snapped 'giggling' at Prince Philip]]></title>
             <description><![CDATA[A royal occasion descended into bewilderment and chuckles after a swarm of bees descended.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-56242398</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56242398</guid>
             <pubDate>Sat, 10 Apr 2021 09:32:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Charles on Prince Philip: 'My family and I miss my father enormously']]></title>
+            <description><![CDATA[Prince Charles said his father "would have been amazed by... the touching things that have been said".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56704809</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56704809</guid>
+            <pubDate>Sat, 10 Apr 2021 17:00:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: How the Royal Navy shaped the Duke of Edinburgh]]></title>
@@ -366,11 +401,18 @@
             <pubDate>Fri, 09 Apr 2021 11:35:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
-            <description><![CDATA[Anyone in England who travels abroad without good reason will soon face a £5000 fine.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
-            <pubDate>Fri, 09 Apr 2021 10:06:18 GMT</pubDate>
+            <title><![CDATA[Covid: When can restaurants and pubs reopen and what are the rules?]]></title>
+            <description><![CDATA[Hospitality venues are set to gradually open up as lockdown eases across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Fri, 09 Apr 2021 15:39:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[The rules on how many people can meet outdoors are changing, as lockdown is eased.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Fri, 09 Apr 2021 08:52:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England lockdown: Countdown to freedom]]></title>
@@ -378,6 +420,27 @@
             <link>https://www.bbc.co.uk/news/uk-england-56594933</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56594933</guid>
             <pubDate>Thu, 01 Apr 2021 17:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How to get a test for coronavirus]]></title>
+            <description><![CDATA[What are the tests for coronavirus, who are they for, and how do they work?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Fri, 09 Apr 2021 08:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many people can I have a drink with? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Fri, 09 Apr 2021 16:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
+            <description><![CDATA[Anyone in England who travels abroad without good reason will soon face a £5000 fine.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
+            <pubDate>Fri, 09 Apr 2021 10:06:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
@@ -415,20 +478,6 @@
             <pubDate>Thu, 08 Apr 2021 16:07:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How many people can I have a drink with? And other questions]]></title>
-            <description><![CDATA[We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
-            <pubDate>Fri, 09 Apr 2021 16:22:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: How to get a test for coronavirus]]></title>
-            <description><![CDATA[What are the tests for coronavirus, who are they for, and how do they work?]]></description>
-            <link>https://www.bbc.co.uk/news/health-51943612</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
-            <pubDate>Fri, 09 Apr 2021 08:55:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[AstraZeneca vaccine: How do you weigh up the risks and benefits?]]></title>
             <description><![CDATA[A guide to the risks and benefits of receiving the Oxford-AstraZeneca vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-56665396</link>
@@ -441,13 +490,6 @@
             <link>https://www.bbc.co.uk/news/health-55302595</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
             <pubDate>Thu, 08 Apr 2021 10:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[The rules on how many people can meet outdoors are changing, as lockdown is eased.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Fri, 09 Apr 2021 08:52:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the UK plans for Covid passports?]]></title>
@@ -483,13 +525,6 @@
             <link>https://www.bbc.co.uk/news/explainers-53349989</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
             <pubDate>Tue, 06 Apr 2021 14:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When can restaurants and pubs reopen and what are the rules?]]></title>
-            <description><![CDATA[Hospitality venues are set to gradually open up as lockdown eases across the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/business-52977388</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
-            <pubDate>Fri, 09 Apr 2021 15:39:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
