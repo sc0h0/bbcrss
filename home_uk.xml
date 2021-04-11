@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Apr 2021 14:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 14:33:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,25 +107,11 @@
             <pubDate>Sat, 10 Apr 2021 23:35:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: Duke missed 'enormously' as funeral plans released]]></title>
-            <description><![CDATA[Sunday's papers carry Prince Charles's tribute to Prince Philip, who died on Friday at the age of 99.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56706385</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56706385</guid>
-            <pubDate>Sun, 11 Apr 2021 03:45:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lockdown eases: How we fit bras at a social distance]]></title>
             <description><![CDATA[Bravissimo's Leanne Cahill explains how her shops will work when they reopen after lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/business-56694617</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56694617</guid>
             <pubDate>Sat, 10 Apr 2021 23:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prince Philip: The Royal Navy years]]></title>
-            <description><![CDATA[Prince Philip's Royal Navy years were a defining experience, and led to him meeting Princess Elizabeth.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56695867</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56695867</guid>
-            <pubDate>Sat, 10 Apr 2021 23:03:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saving green turtles... by cooling their eggs]]></title>
@@ -156,11 +142,25 @@
             <pubDate>Sat, 10 Apr 2021 14:11:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Papers: Duke missed 'enormously' as funeral plans released]]></title>
+            <description><![CDATA[Sunday's papers carry Prince Charles's tribute to Prince Philip, who died on Friday at the age of 99.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56706385</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56706385</guid>
+            <pubDate>Sun, 11 Apr 2021 03:45:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How Prince Philip's death was reported worldwide]]></title>
             <description><![CDATA[Media outlets around the globe break the news of the Duke of Edinburgh's death, aged 99.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56704745</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56704745</guid>
             <pubDate>Sat, 10 Apr 2021 15:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: The Royal Navy years]]></title>
+            <description><![CDATA[Prince Philip's Royal Navy years were a defining experience, and led to him meeting Princess Elizabeth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56695867</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56695867</guid>
+            <pubDate>Sat, 10 Apr 2021 23:03:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moscow's palatial Yeliseyevsky food hall closes after 120 years]]></title>
@@ -286,7 +286,7 @@
             <description><![CDATA[What happens next in the days leading up to the ceremonial funeral for the Duke of Edinburgh?]]></description>
             <link>https://www.bbc.co.uk/news/uk-56694327</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56694327</guid>
-            <pubDate>Sun, 11 Apr 2021 13:27:36 GMT</pubDate>
+            <pubDate>Sun, 11 Apr 2021 14:24:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: A turbulent childhood stalked by exile, mental illness and death]]></title>
