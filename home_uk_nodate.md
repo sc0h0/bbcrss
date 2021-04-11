@@ -1,4 +1,4 @@
-1. [Prince Philip: Special service to be held at Canterbury Cathedral](https://www.bbc.co.uk/news/uk-56706408) - A remembrance service will be held at Canterbury Cathedral later as the UK observes a period of mourning.
+1. [Prince Philip: Special service to be held at Canterbury Cathedral](https://www.bbc.co.uk/news/uk-56706408) - A remembrance service will be held at Canterbury Cathedral shortly as Sir John Major pays tribute.
 2. [Covid: Shoppers 'must respect staff' when retail reopens](https://www.bbc.co.uk/news/uk-56706798) - People are urged to be considerate when non-essential retail rules ease in England and Wales on Monday.
 3. [Covid-19: Shoppers urged to respect staff, and PM won't attend Philip's funeral](https://www.bbc.co.uk/news/uk-56706989) - Five things you need to know about the coronavirus pandemic this Sunday morning.
 4. [Matt Hancock 'had private drink' with David Cameron and Lex Greensill](https://www.bbc.co.uk/news/uk-56706619) - An ally of Matt Hancock tells the BBC he "acted in entirely the correct way" after the 2019 meeting.
