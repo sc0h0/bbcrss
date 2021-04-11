@@ -6,7 +6,7 @@
 6. [Nikki Grahame's friends 'heartbroken' at Big Brother star's death](https://www.bbc.co.uk/news/entertainment-arts-56708450) - Ex-Emmerdale actress Gemma Oaten posted an emotional video saying: "I wish I could have done more".
 7. [St Vincent volcano: Power cuts after another 'explosive event'](https://www.bbc.co.uk/news/world-latin-america-56707956) - Monitors report another "explosive event" at a volcano on the now ash-covered Caribbean island of St Vincent.
 8. [Covid-19: India vaccination crosses 100 million doses](https://www.bbc.co.uk/news/world-asia-india-56345591) - But despite the huge inoculation drive, India has just registered another record increase in cases.
-9. [Sir Richard Sutton: Man charged with hotelier's murder](https://www.bbc.co.uk/news/uk-england-dorset-56707030) - Thomas Schreiber is charged with murder, attempted murder and dangerous driving.
+9. [Myanmar coup: 'Dozens killed' in military crackdown in Bago](https://www.bbc.co.uk/news/world-asia-56703416) - Activists say more than 80 people were killed in the city of Bago in protests against the military coup.
 10. [Rachael Blackmore: Historic Grand National triumph for modest trailblazer](https://www.bbc.co.uk/sport/horse-racing/56704524) - The rise of jockey Rachael Blackmore - the modest trailblazer who made Grand National history
 11. [China mine rescue: Crews race to free trapped workers in Xinjiang](https://www.bbc.co.uk/news/world-asia-china-56706520) - Twenty-one people are trapped underground after a coal mine flooded in the Xinjiang region.
 12. [Gyms re-opening: 'Everyone's raring to go - but take it slow'](https://www.bbc.co.uk/news/newsbeat-56667710) - Gyms open in England this week, but people should "take it slow" to get their fitness levels back.
