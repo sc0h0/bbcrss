@@ -27,7 +27,7 @@
 27. [Ghana's farmers eye sweet success from chocolate](https://www.bbc.co.uk/news/world-africa-56687427) - Ghana is the world's second largest cocoa producer but sees little of the profits from chocolate - for now.
 28. ['You look like you've had a heavy Christmas!' When the public met the duke](https://www.bbc.co.uk/news/uk-56701890) - From a Christmas morning at Sandringham, to a Canadian hotel, here are some of your Prince Philip stories.
 29. [Bafta Film Awards 2021: The winners and nominees](https://www.bbc.co.uk/news/entertainment-arts-56323950) - See the winners so far and all the nominees for this year's British Academy Film Awards.
-30. [Rescheduled Dubai Expo hopes to attract 25 million visits](https://www.bbc.co.uk/news/business-56682427) - Rescheduled Dubai Expo hopes to attract 25 million visits
+30. [Rescheduled Dubai Expo hopes to attract 25 million visits](https://www.bbc.co.uk/news/business-56682427) - The event sees countries using pavilions to show off the latest in architecture and technology.
 31. [Vernon Kay on Game of Talents and why 'autocue ruined T4'](https://www.bbc.co.uk/news/entertainment-arts-56662170) - The TV presenter discusses his new ITV game show and why he really, really hates autocue.
 32. ['I went from spreadsheets to proning Covid patients'](https://www.bbc.co.uk/news/uk-56536933) - Thousands of NHS staff, from dentists to physiotherapists, have been redeployed during the pandemic.
 33. ['Alexander-Arnold has nothing to prove' - Klopp wants to focus on 'massive win'](https://www.bbc.co.uk/sport/football/56704868) - Trent Alexander-Arnold does not have to "prove anything", said Jurgen Klopp who wants to focus on Liverpool's "massive" 2-1 win over Aston Villa.
