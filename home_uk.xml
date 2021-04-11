@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Apr 2021 07:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 07:40:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,13 +23,6 @@
             <pubDate>Sun, 11 Apr 2021 07:00:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Charles on Prince Philip: 'My family and I miss my father enormously']]></title>
-            <description><![CDATA[Prince Charles said his father "would have been amazed by... the touching things that have been said".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56704809</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56704809</guid>
-            <pubDate>Sat, 10 Apr 2021 17:00:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Shoppers 'must respect staff' when retail reopens]]></title>
             <description><![CDATA[People are urged to be considerate when non-essential retail rules ease in England and Wales on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56706798</link>
@@ -37,11 +30,11 @@
             <pubDate>Sun, 11 Apr 2021 01:25:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bafta Film Awards 2021: Two-night ceremony announces first winners]]></title>
-            <description><![CDATA[The ceremony is split over two days for the first time, with more winners to be revealed on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56673778</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56673778</guid>
-            <pubDate>Sat, 10 Apr 2021 21:14:24 GMT</pubDate>
+            <title><![CDATA[Covid-19: Shoppers urged to respect staff, and PM won't attend Philip's funeral]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Sunday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56706989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56706989</guid>
+            <pubDate>Sun, 11 Apr 2021 06:59:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Matt Hancock 'had private drink' with David Cameron and Lex Greensill]]></title>
@@ -51,8 +44,15 @@
             <pubDate>Sun, 11 Apr 2021 00:49:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bafta Film Awards 2021: Two-night ceremony announces first winners]]></title>
+            <description><![CDATA[The ceremony is split over two days for the first time, with more winners to be revealed on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56673778</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56673778</guid>
+            <pubDate>Sat, 10 Apr 2021 21:14:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Big Brother star Nikki Grahame dies aged 38]]></title>
-            <description><![CDATA[The star, who appeared on the seventh series of Big Brother in 2006, had been fighting anorexia.]]></description>
+            <description><![CDATA[The star, who appeared on the seventh series of Big Brother in 2006, had anorexia.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56705671</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56705671</guid>
             <pubDate>Sat, 10 Apr 2021 19:24:03 GMT</pubDate>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-56702775</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-56702775</guid>
             <pubDate>Sun, 11 Apr 2021 06:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Masters 2021: Hideki Matsuyama leads from Justin Rose, Xander Schauffele at Augusta National]]></title>
-            <description><![CDATA[Japan's Hideki Matsuyama shoots a 65 on Saturday to take a four-shot lead into the final day of the Masters, with England's Justin Rose tied for second.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/56706536</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56706536</guid>
-            <pubDate>Sun, 11 Apr 2021 00:16:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Duke missed 'enormously' as funeral plans released]]></title>
@@ -240,6 +233,13 @@
             <pubDate>Fri, 09 Apr 2021 02:44:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rose joint second as Matsuyama takes four-shot Masters lead]]></title>
+            <description><![CDATA[Japan's Hideki Matsuyama shoots a 65 on Saturday to take a four-shot lead into the final day of the Masters, with England's Justin Rose tied for second.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/56706536</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/56706536</guid>
+            <pubDate>Sun, 11 Apr 2021 00:16:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Alexander-Arnold has nothing to prove' - Klopp wants to focus on 'massive win']]></title>
             <description><![CDATA[Trent Alexander-Arnold does not have to "prove anything", said Jurgen Klopp who wants to focus on Liverpool's "massive" 2-1 win over Aston Villa.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56704868</link>
@@ -268,11 +268,11 @@
             <pubDate>Sat, 10 Apr 2021 16:38:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watch: Conners hits hole-in-one at Masters]]></title>
-            <description><![CDATA[Canada's Corey Connors scores only the sixth hole-in-one in tournament history at the par three-sixth hole at Augusta National, moving into contention in the third round of The Masters.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/golf/56704880</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/56704880</guid>
-            <pubDate>Sat, 10 Apr 2021 18:58:35 GMT</pubDate>
+            <title><![CDATA[Prince Charles on Prince Philip: 'My family and I miss my father enormously']]></title>
+            <description><![CDATA[Prince Charles said his father "would have been amazed by... the touching things that have been said".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56704809</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56704809</guid>
+            <pubDate>Sat, 10 Apr 2021 17:00:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: What are the plans for his funeral?]]></title>
