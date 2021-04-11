@@ -2,7 +2,7 @@
 2. [Greensill: Lessons to be learnt over lobbying - Cameron](https://www.bbc.co.uk/news/uk-politics-56712418) - The ex-PM says he should have used "formal" channels, amid a row over his contacts with ministers.
 3. [Prince Philip: Funeral an 'ideal opportunity' to end royal rifts, says Major](https://www.bbc.co.uk/news/uk-56709087) - Shared grief over Prince Philip's death is an "ideal opportunity" to mend rifts within the Royal Family, Sir John Major says.
 4. [Iran nuclear: 'Terrorist act' at underground Natanz facility](https://www.bbc.co.uk/news/world-middle-east-56708778) - Iran's top nuclear official says an incident at its Natanz site was "nuclear terrorism".
-5. [Bafta Film Awards 2021 pay tribute to Duke of Edinburgh](https://www.bbc.co.uk/news/entertainment-arts-56711344) - The biggest night in the British film calendar is taking place at the Royal Albert Hall.
+5. [Bafta Film Awards 2021: Nomadland and Promising Young Woman win big](https://www.bbc.co.uk/news/entertainment-arts-56711344) - The biggest night in the British film calendar has taken place at the Royal Albert Hall.
 6. [New Christ statue in Brazil's Encantado to be taller than Rio's](https://www.bbc.co.uk/news/world-latin-america-56710354) - A head and outstretched arms have been added to Christ the Protector in the southern city of Encantado.
 7. [Coronavirus: UK sets new record for Covid jab second doses](https://www.bbc.co.uk/news/uk-56709870) - A total of 475,230 second jabs were given on Saturday, along with 111,109 first vaccinations.
 8. [US army officer sues police over violent traffic stop](https://www.bbc.co.uk/news/world-us-canada-56707979) - A black army lieutenant files a lawsuit against two policemen in Virginia after being pepper-sprayed.
