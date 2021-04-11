@@ -1,7 +1,7 @@
 1. [Prince Philip: PM will not attend the duke's funeral, No 10 says](https://www.bbc.co.uk/news/uk-56706408) - Boris Johnson wants to allow "as many family members as possible" to attend amid the 30-guest limit.
 2. [Prince Charles on Prince Philip: 'My family and I miss my father enormously'](https://www.bbc.co.uk/news/uk-56704809) - Prince Charles said his father "would have been amazed by... the touching things that have been said".
-3. [Covid: Shoppers 'must respect staff' when retail reopens](https://www.bbc.co.uk/news/uk-56706798) - People are urged to be considerate when non-essential retail rules ease in England and Wales on Monday.
-4. [Bafta Film Awards 2021: Two-night ceremony announces first winners](https://www.bbc.co.uk/news/entertainment-arts-56673778) - The ceremony is split over two days for the first time, with more winners to be revealed on Sunday.
+3. [Bafta Film Awards 2021: Two-night ceremony announces first winners](https://www.bbc.co.uk/news/entertainment-arts-56673778) - The ceremony is split over two days for the first time, with more winners to be revealed on Sunday.
+4. [Covid: Shoppers 'must respect staff' when retail reopens](https://www.bbc.co.uk/news/uk-56706798) - People are urged to be considerate when non-essential retail rules ease in England and Wales on Monday.
 5. [Matt Hancock 'had private drink' with David Cameron and Lex Greensill](https://www.bbc.co.uk/news/uk-56706619) - An ally of Matt Hancock tells the BBC he "acted in entirely the correct way" after the 2019 meeting.
 6. [Big Brother star Nikki Grahame dies aged 38](https://www.bbc.co.uk/news/entertainment-arts-56705671) - The star, who appeared on the seventh series of Big Brother in 2006, had been fighting anorexia.
 7. [Election campaigns to resume after duke's death](https://www.bbc.co.uk/news/uk-politics-56706265) - Campaigning will resume after tributes to Prince Philip in the Commons, Holyrood and the Senedd.
