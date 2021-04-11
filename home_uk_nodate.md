@@ -9,7 +9,7 @@
 9. [Baby found dead in Bilston supermarket car park](https://www.bbc.co.uk/news/uk-england-birmingham-56710338) - West Midlands Police says it has identified the mother and she is receiving "appropriate care".
 10. [Ilford murder charge over death of 85-year-old woman](https://www.bbc.co.uk/news/uk-england-london-56711044) - Police have named the victim as Loretta Herman, from north east London.
 11. [NI riots: Adult influence in disorder 'amounts to child abuse'](https://www.bbc.co.uk/news/uk-northern-ireland-56708430) - Young people rioting in Northern Ireland are being "exploited", says the children's commissioner.
-12. [Covid: Police 'regret' over halting church Good Friday mass](https://www.bbc.co.uk/news/uk-england-london-56708973) - Video of officers addressing the Good Friday congregation, from the altar, circulated online.
+12. [Covid: Police 'regret' over halting church Good Friday service](https://www.bbc.co.uk/news/uk-england-london-56708973) - Video of officers addressing the Good Friday congregation, from the altar, circulated online.
 13. [Elephant calf rescued from bottom of well in India](https://www.bbc.co.uk/news/world-south-asia-56709546) - An elephant calf has been rescued from the bottom of a dug well in India's Odisha state.
 14. [Bafta Film Awards 2021: Red carpet in pictures](https://www.bbc.co.uk/news/entertainment-arts-56711339) - The biggest night in the British film calendar, the Bafta Awards, is taking place in London.
 15. [Gyms re-opening: 'Everyone's raring to go - but take it slow'](https://www.bbc.co.uk/news/newsbeat-56667710) - Gyms open in England this week, but people should "take it slow" to get their fitness levels back.
@@ -26,7 +26,7 @@
 26. [‘I can’t wait to go shopping again, it's been ages’](https://www.bbc.co.uk/news/business-56667982) - Some are eager to hit the High Street when non-essential shops reopen on Monday - but others remain wary.
 27. [Ghana's farmers eye sweet success from chocolate](https://www.bbc.co.uk/news/world-africa-56687427) - Ghana is the world's second largest cocoa producer but sees little of the profits from chocolate - for now.
 28. ['You look like you've had a heavy Christmas!' When the public met the duke](https://www.bbc.co.uk/news/uk-56701890) - From a Christmas morning at Sandringham, to a Canadian hotel, here are some of your Prince Philip stories.
-29. [Bafta Film Awards 2021: The winners and nominees](https://www.bbc.co.uk/news/entertainment-arts-56323950) - See the winners so far and all the nominees for this year's British Academy Film Awards.
+29. [Bafta Film Awards 2021: The winners and nominees in full](https://www.bbc.co.uk/news/entertainment-arts-56323950) - See all the winners and nominees for this year's British Academy Film Awards.
 30. [Rescheduled Dubai Expo hopes to attract 25 million visits](https://www.bbc.co.uk/news/business-56682427) - The event sees countries using pavilions to show off the latest in architecture and technology.
 31. [Vernon Kay on Game of Talents and why 'autocue ruined T4'](https://www.bbc.co.uk/news/entertainment-arts-56662170) - The TV presenter discusses his new ITV game show and why he really, really hates autocue.
 32. ['I went from spreadsheets to proning Covid patients'](https://www.bbc.co.uk/news/uk-56536933) - Thousands of NHS staff, from dentists to physiotherapists, have been redeployed during the pandemic.
