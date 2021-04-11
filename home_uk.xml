@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Apr 2021 15:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 16:41:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -38,17 +38,10 @@
         </item>
         <item>
             <title><![CDATA[Coronavirus: UK sets new record for Covid jab second doses]]></title>
-            <description><![CDATA[A total of 475,230 second doses of Covid jabs were given on Saturday - and 111,109 first doses.]]></description>
+            <description><![CDATA[A total of 475,230 second jabs were given on Saturday, along with 111,109 first vaccinations.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56709870</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56709870</guid>
-            <pubDate>Sun, 11 Apr 2021 15:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Shoppers 'must respect staff' when retail reopens]]></title>
-            <description><![CDATA[People are urged to be considerate when non-essential retail rules ease in England and Wales on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56706798</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56706798</guid>
-            <pubDate>Sun, 11 Apr 2021 01:25:21 GMT</pubDate>
+            <pubDate>Sun, 11 Apr 2021 16:15:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[St Vincent volcano: Power cuts after another 'explosive event']]></title>
@@ -58,11 +51,18 @@
             <pubDate>Sun, 11 Apr 2021 10:49:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nikki Grahame's friends 'heartbroken' at Big Brother star's death]]></title>
-            <description><![CDATA[Ex-Emmerdale actress Gemma Oaten posted an emotional video saying: "I wish I could have done more".]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56708450</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56708450</guid>
-            <pubDate>Sun, 11 Apr 2021 11:28:59 GMT</pubDate>
+            <title><![CDATA[Covid: Shoppers 'must respect staff' when retail reopens]]></title>
+            <description><![CDATA[People are urged to be considerate when non-essential retail rules ease in England and Wales on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56706798</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56706798</guid>
+            <pubDate>Sun, 11 Apr 2021 01:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran nuclear: 'Terrorist act' at underground Natanz facility]]></title>
+            <description><![CDATA[Iran's top nuclear official says an incident at its Natanz site was "nuclear terrorism".]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56708778</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56708778</guid>
+            <pubDate>Sun, 11 Apr 2021 16:26:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US army officer sues police over violent traffic stop]]></title>
@@ -72,18 +72,25 @@
             <pubDate>Sun, 11 Apr 2021 13:56:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Myanmar coup: 'Dozens killed' in military crackdown in Bago]]></title>
-            <description><![CDATA[Activists say more than 80 people were killed in the city of Bago in protests against the military coup.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56703416</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56703416</guid>
-            <pubDate>Sat, 10 Apr 2021 22:12:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Baby found dead in Bilston supermarket car park]]></title>
             <description><![CDATA[West Midlands Police issue an urgent appeal to the baby's mother to come forward.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-56710338</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56710338</guid>
             <pubDate>Sun, 11 Apr 2021 15:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jordan royal family pictured together following 'royal rift']]></title>
+            <description><![CDATA[They appear in public a week after Prince Hamzah was accused of plotting to destabilise the kingdom.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56676274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56676274</guid>
+            <pubDate>Sun, 11 Apr 2021 13:35:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar coup: 'Dozens killed' in military crackdown in Bago]]></title>
+            <description><![CDATA[Activists say more than 80 people were killed in the city of Bago in protests against the military coup.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56703416</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56703416</guid>
+            <pubDate>Sat, 10 Apr 2021 22:12:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Christ statue in Brazil's Encantado to be taller than Rio's]]></title>
@@ -93,11 +100,11 @@
             <pubDate>Sun, 11 Apr 2021 14:29:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stuart Lubbock: Pool death suspect released under investigation]]></title>
-            <description><![CDATA[A suspect has been released under investigation over the murder of Stuart Lubbock in 2001.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-56708220</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-56708220</guid>
-            <pubDate>Sun, 11 Apr 2021 11:21:56 GMT</pubDate>
+            <title><![CDATA[Bafta Film Awards 2021: Red carpet in pictures]]></title>
+            <description><![CDATA[The biggest night in the British film calendar, the Bafta Awards, is taking place in London.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56711339</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56711339</guid>
+            <pubDate>Sun, 11 Apr 2021 16:08:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gyms re-opening: 'Everyone's raring to go - but take it slow']]></title>
@@ -140,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/uk-56700324</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56700324</guid>
             <pubDate>Sat, 10 Apr 2021 14:11:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: Duke missed 'enormously' as funeral plans released]]></title>
-            <description><![CDATA[Sunday's papers carry Prince Charles's tribute to Prince Philip, who died on Friday at the age of 99.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56706385</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56706385</guid>
-            <pubDate>Sun, 11 Apr 2021 03:45:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Prince Philip's death was reported worldwide]]></title>
@@ -237,7 +237,7 @@
             <description><![CDATA[Jesse Lingard continues his stunning form with West Ham by scoring twice in the first half to set the Hammers on course for a crucial victory over fellow Champions League hopefuls Leicester City.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56629084</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56629084</guid>
-            <pubDate>Sun, 11 Apr 2021 15:33:11 GMT</pubDate>
+            <pubDate>Sun, 11 Apr 2021 16:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leicester's Maddison, Choudhury and Perez dropped for Covid-19 breach]]></title>
@@ -247,11 +247,11 @@
             <pubDate>Sun, 11 Apr 2021 15:51:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Burnley 1-2 Newcastle United: Saint-Maximin inspires Magpies turnaround at Turf Moor]]></title>
-            <description><![CDATA[Allan Saint-Maximin inspires Newcastle to a vital win at Burnley that lifts them six points clear of the relegation zone.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56629083</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56629083</guid>
-            <pubDate>Sun, 11 Apr 2021 14:02:22 GMT</pubDate>
+            <title><![CDATA[Rangers close in on unbeaten season after beating Hibs]]></title>
+            <description><![CDATA[Rangers are just four games from an unbeaten Scottish Premiership campaign after defeating Hibernian at Ibrox.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56563803</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56563803</guid>
+            <pubDate>Sun, 11 Apr 2021 15:52:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ireland v France in Women's Six Nations in doubt amid new quarantine rules]]></title>
@@ -259,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/56709569</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56709569</guid>
             <pubDate>Sun, 11 Apr 2021 14:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnley 1-2 Newcastle United: Saint-Maximin inspires Magpies turnaround at Turf Moor]]></title>
+            <description><![CDATA[Allan Saint-Maximin inspires Newcastle to a vital win at Burnley that lifts them six points clear of the relegation zone.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56629083</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56629083</guid>
+            <pubDate>Sun, 11 Apr 2021 14:02:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glover takes gold with Swann in first event since 2016 - highlights & report]]></title>
@@ -300,7 +307,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sat, 10 Apr 2021 16:07:54 GMT</pubDate>
+            <pubDate>Sun, 11 Apr 2021 16:14:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the UK plans for Covid passports?]]></title>
@@ -469,6 +476,13 @@
             <link>https://www.bbc.co.uk/news/uk-56455030</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56455030</guid>
             <pubDate>Mon, 22 Mar 2021 00:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: How can Prince Harry attend the funeral?]]></title>
+            <description><![CDATA[The Duke of Sussex will return to the UK for the first time since "stepping back" from royal duties.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56709506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56709506</guid>
+            <pubDate>Sun, 11 Apr 2021 16:30:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: A simple, family farewell]]></title>
