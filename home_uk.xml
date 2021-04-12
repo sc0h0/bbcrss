@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Apr 2021 10:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 10:35:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Mon, 12 Apr 2021 09:28:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Philip: The Vanuatu tribes mourning the death of their 'god']]></title>
-            <description><![CDATA[As Britain grieves his death, so do some Pacific tribespeople who revere him as a spiritual figure.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56713953</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56713953</guid>
-            <pubDate>Mon, 12 Apr 2021 05:28:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Minneapolis: Daunte Wright killing by police near city sparks unrest]]></title>
             <description><![CDATA[A curfew is imposed and tear gas fired amid protests over the fatal shooting of Daunte Wright.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56714346</link>
@@ -58,18 +51,18 @@
             <pubDate>Mon, 12 Apr 2021 08:40:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Greensill: Former PMs 'must never lobby government', says Gordon Brown]]></title>
-            <description><![CDATA[The ex-Labour leader says a new law may be needed after the row over David Cameron and Greensill Capital.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56715490</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56715490</guid>
-            <pubDate>Mon, 12 Apr 2021 10:08:45 GMT</pubDate>
+            <title><![CDATA[Sir Richard Sutton: Millionaire-murder accused in court]]></title>
+            <description><![CDATA[Thomas Schreiber is charged with murdering one of UK's richest men, Sir Richard Sutton, in Dorset.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-56715078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-56715078</guid>
+            <pubDate>Mon, 12 Apr 2021 10:10:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Joseph Siravo: The Sopranos and Jersey Boys star dies aged 64]]></title>
-            <description><![CDATA[Tributes have been paid to the actor, who played mobster Tony Soprano's father Johnny.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56716261</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56716261</guid>
-            <pubDate>Mon, 12 Apr 2021 09:33:16 GMT</pubDate>
+            <title><![CDATA[France moves to ban short-haul domestic flights]]></title>
+            <description><![CDATA[MPs vote to stop flights where the journey could be made by train in under 2.5 hours.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56716708</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56716708</guid>
+            <pubDate>Mon, 12 Apr 2021 10:25:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dante Mullings: Four jailed over rival gang murder plot]]></title>
@@ -79,6 +72,13 @@
             <pubDate>Mon, 12 Apr 2021 09:54:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Greensill: Former PMs 'must never lobby government', says Gordon Brown]]></title>
+            <description><![CDATA[The ex-Labour leader says a new law may be needed after the row over David Cameron and Greensill Capital.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56715490</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56715490</guid>
+            <pubDate>Mon, 12 Apr 2021 10:08:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Neighbours star Nicola Charles claims cast members tried to get her deported]]></title>
             <description><![CDATA[British actress Nicola Charles alleges that two co-stars contacted Australia's immigration service.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56716441</link>
@@ -86,18 +86,11 @@
             <pubDate>Mon, 12 Apr 2021 09:50:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alibaba accepts record China fine and vows to change]]></title>
-            <description><![CDATA[China's regulators slapped a $2.8bn fine on the e-commerce giant over monopoly concerns]]></description>
-            <link>https://www.bbc.co.uk/news/business-56713508</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56713508</guid>
-            <pubDate>Mon, 12 Apr 2021 03:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deaf Norfolk sheepdog Peggy learns 'sign language']]></title>
-            <description><![CDATA[She was given up when she could not work, but her latest owners have taught the old dog new tricks.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-56687304</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-56687304</guid>
-            <pubDate>Mon, 12 Apr 2021 00:38:49 GMT</pubDate>
+            <title><![CDATA[Joseph Siravo: The Sopranos and Jersey Boys star dies aged 64]]></title>
+            <description><![CDATA[Tributes have been paid to the actor, who played mobster Tony Soprano's father Johnny.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56716261</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56716261</guid>
+            <pubDate>Mon, 12 Apr 2021 09:33:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pubs reopen in England: Gong marks the occasion]]></title>
@@ -161,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/business-56694617</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56694617</guid>
             <pubDate>Sat, 10 Apr 2021 23:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: The Vanuatu tribes mourning the death of their 'god']]></title>
+            <description><![CDATA[As Britain grieves his death, so do some Pacific tribespeople who revere him as a spiritual figure.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56713953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56713953</guid>
+            <pubDate>Mon, 12 Apr 2021 05:28:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid and twins: 'Huge' impact of lockdown separation]]></title>
