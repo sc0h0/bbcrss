@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Apr 2021 09:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 10:11:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Covid lockdown eases: 'Sense of celebration' as pubs and shops reopen]]></title>
-            <description><![CDATA[Salons offered early morning haircuts and pubs served midnight pints as the rules changed in England.]]></description>
+            <description><![CDATA[Salons offered early-morning haircuts and pubs served midnight pints as the rules changed in England]]></description>
             <link>https://www.bbc.co.uk/news/uk-56710858</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56710858</guid>
-            <pubDate>Mon, 12 Apr 2021 09:32:43 GMT</pubDate>
+            <pubDate>Mon, 12 Apr 2021 09:58:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran vows revenge for 'Israeli' attack on Natanz nuclear site]]></title>
@@ -37,18 +37,18 @@
             <pubDate>Mon, 12 Apr 2021 08:16:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Philip: The Vanuatu tribes mourning the death of their 'god']]></title>
-            <description><![CDATA[As Britain grieves his death, so do some Pacific tribespeople who revere him as a spiritual figure.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56713953</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56713953</guid>
-            <pubDate>Mon, 12 Apr 2021 05:28:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NHS Covid-19 app update blocked for breaking Apple and Google's rules]]></title>
             <description><![CDATA[Apple and Google's rules state that no location data from app users can be shared.]]></description>
             <link>https://www.bbc.co.uk/news/technology-56713017</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56713017</guid>
             <pubDate>Mon, 12 Apr 2021 09:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: The Vanuatu tribes mourning the death of their 'god']]></title>
+            <description><![CDATA[As Britain grieves his death, so do some Pacific tribespeople who revere him as a spiritual figure.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56713953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56713953</guid>
+            <pubDate>Mon, 12 Apr 2021 05:28:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Minneapolis: Daunte Wright killing by police near city sparks unrest]]></title>
@@ -62,7 +62,7 @@
             <description><![CDATA[The ex-Labour leader says a new law may be needed after the row over David Cameron and Greensill Capital.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56715490</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56715490</guid>
-            <pubDate>Mon, 12 Apr 2021 07:56:37 GMT</pubDate>
+            <pubDate>Mon, 12 Apr 2021 10:08:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joseph Siravo: The Sopranos and Jersey Boys star dies aged 64]]></title>
@@ -72,11 +72,18 @@
             <pubDate>Mon, 12 Apr 2021 09:33:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Haridwar: Crowds surging at Kumbh Mela as India overtakes Brazil in Covid cases]]></title>
-            <description><![CDATA[Tens of thousands are participating in Kumbh Mela even as India overtakes Brazil in Covid infections.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56713993</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56713993</guid>
-            <pubDate>Mon, 12 Apr 2021 07:53:41 GMT</pubDate>
+            <title><![CDATA[Dante Mullings: Four jailed over rival gang murder plot]]></title>
+            <description><![CDATA[Four men are handed life terms after the gang killing, arranged in revenge for a serious stabbing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56704315</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56704315</guid>
+            <pubDate>Mon, 12 Apr 2021 09:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neighbours star Nicola Charles claims cast members tried to get her deported]]></title>
+            <description><![CDATA[British actress Nicola Charles alleges that two co-stars contacted Australia's immigration service.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56716441</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56716441</guid>
+            <pubDate>Mon, 12 Apr 2021 09:50:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alibaba accepts record China fine and vows to change]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-56713508</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56713508</guid>
             <pubDate>Mon, 12 Apr 2021 03:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Police 'regret' over halting church Good Friday service]]></title>
-            <description><![CDATA[Video of officers addressing the Good Friday congregation, from the altar, circulated online.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56708973</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56708973</guid>
-            <pubDate>Sun, 11 Apr 2021 19:03:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deaf Norfolk sheepdog Peggy learns 'sign language']]></title>
@@ -247,11 +247,11 @@
             <pubDate>Mon, 12 Apr 2021 07:48:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Tottenham's caution does not suit Kane' - is it time for the striker to quit Spurs?]]></title>
-            <description><![CDATA[As Tottenham lose ground in the race for a Champions League spot, Phil McNulty takes a look at whether Harry Kane will leave Spurs.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56712336</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56712336</guid>
-            <pubDate>Sun, 11 Apr 2021 19:16:28 GMT</pubDate>
+            <title><![CDATA[British Judo conducting investigation into coach arrests]]></title>
+            <description><![CDATA[British Judo is investigating a number of cases in which coaches have been arrested for sexual offences, the BBC has learned.]]></description>
+            <link>https://www.bbc.co.uk/sport/judo/56715427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/judo/56715427</guid>
+            <pubDate>Mon, 12 Apr 2021 10:01:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['We will rise to the occasion in Six Nations final']]></title>
