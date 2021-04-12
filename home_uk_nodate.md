@@ -1,4 +1,4 @@
-1. [Prince Philip: William and Harry pay tribute to grandfather](https://www.bbc.co.uk/news/uk-56721559) - Prince William says the duke was "extraordinary" while Prince Harry says he was "a man of service".
+1. [Prince Philip: William and Harry pay tribute to grandfather](https://www.bbc.co.uk/news/uk-56721559) - Prince William says the duke was "extraordinary" while Prince Harry says he was the "legend of banter".
 2. [Covid lockdown eases: 'Sense of celebration' as pubs and shops reopen](https://www.bbc.co.uk/news/uk-56710858) - Salons offered early-morning haircuts and pubs served midnight pints as England's rules changed.
 3. [Greensill: Government to investigate David Cameron's lobbying](https://www.bbc.co.uk/news/uk-politics-56720141) - The former PM is at the centre of a row over his efforts to influence ministers for a finance firm.
 4. [Baroness Shirley Williams: Former cabinet minister dies aged 90](https://www.bbc.co.uk/news/uk-politics-56720985) - The former Labour cabinet minister was part of the 'Gang of Four' who quit the party to form the SDP.
