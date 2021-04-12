@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Apr 2021 14:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 14:37:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Prince William says the duke was "extraordinary" while Prince Harry says he was "a man of service".]]></description>
             <link>https://www.bbc.co.uk/news/uk-56721559</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56721559</guid>
-            <pubDate>Mon, 12 Apr 2021 14:15:48 GMT</pubDate>
+            <pubDate>Mon, 12 Apr 2021 14:30:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid lockdown eases: 'Sense of celebration' as pubs and shops reopen]]></title>
@@ -37,6 +37,20 @@
             <pubDate>Mon, 12 Apr 2021 13:21:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Baroness Shirley Williams: Former cabinet minister dies aged 90]]></title>
+            <description><![CDATA[The former Labour cabinet minister was part of the 'Gang of Four' who quit the party to form the SDP.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56720985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56720985</guid>
+            <pubDate>Mon, 12 Apr 2021 14:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS Covid-19 app update blocked for breaking Apple and Google's rules]]></title>
+            <description><![CDATA[Apple and Google's rules state that no location data from app users can be shared.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56713017</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56713017</guid>
+            <pubDate>Mon, 12 Apr 2021 09:28:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Iran vows revenge for 'Israeli' attack on Natanz nuclear site]]></title>
             <description><![CDATA[Iran's foreign ministry blames Israel for Sunday's incident at the Natanz uranium enrichment plant.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-56715520</link>
@@ -51,13 +65,6 @@
             <pubDate>Mon, 12 Apr 2021 12:38:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS Covid-19 app update blocked for breaking Apple and Google's rules]]></title>
-            <description><![CDATA[Apple and Google's rules state that no location data from app users can be shared.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56713017</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56713017</guid>
-            <pubDate>Mon, 12 Apr 2021 09:28:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Breastfeeding mother's appeal over jury service in Winchester]]></title>
             <description><![CDATA[Zoe Stacey says she wants to breastfeed her son, William, for longer than a year.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-56716909</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56714346</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56714346</guid>
             <pubDate>Mon, 12 Apr 2021 11:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Richard Sutton: Millionaire-murder accused in court]]></title>
-            <description><![CDATA[Thomas Schreiber is charged with murdering one of UK's richest men, Sir Richard Sutton, in Dorset.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-56715078</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-56715078</guid>
-            <pubDate>Mon, 12 Apr 2021 12:52:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neighbours star Nicola Charles claims cast members tried to get her deported]]></title>
@@ -254,18 +254,18 @@
             <pubDate>Mon, 12 Apr 2021 10:01:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Philip: EFL, Premiership Rugby and horse racing schedules moved to avoid clash with funeral]]></title>
-            <description><![CDATA[The EFL, Premiership Rugby and British Horseracing change schedules next Saturday "as a mark of respect" to avoid clashing with the funeral of Prince Philip.]]></description>
+            <title><![CDATA[Prince Philip funeral: Premier League, EFL, Premiership Rugby, racing schedules moved]]></title>
+            <description><![CDATA[The Premier League, EFL, Premiership Rugby and British Horseracing change schedules on Saturday to avoid clashing with Prince Philip's funeral.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56705816</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56705816</guid>
-            <pubDate>Mon, 12 Apr 2021 13:37:59 GMT</pubDate>
+            <pubDate>Mon, 12 Apr 2021 14:22:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[Pub gardens and non-essential shops can now open in England - as part of the next stage of easing lockdown rules.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 12 Apr 2021 09:12:13 GMT</pubDate>
+            <title><![CDATA[Coronavirus: What's happening with pools, haircuts and gyms?]]></title>
+            <description><![CDATA[Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
+            <pubDate>Mon, 12 Apr 2021 13:16:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Restaurants and pubs have reopened, but what are the rules?]]></title>
@@ -280,6 +280,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
             <pubDate>Fri, 09 Apr 2021 16:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[Pub gardens and non-essential shops can now open in England - as part of the next stage of easing lockdown rules.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Mon, 12 Apr 2021 09:12:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England lockdown: Countdown to freedom]]></title>
@@ -380,18 +387,11 @@
             <pubDate>Fri, 09 Apr 2021 11:40:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: What's happening with pools, haircuts and gyms?]]></title>
-            <description><![CDATA[Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
-            <pubDate>Mon, 12 Apr 2021 13:16:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
             <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
-            <pubDate>Fri, 09 Apr 2021 08:44:49 GMT</pubDate>
+            <pubDate>Mon, 12 Apr 2021 14:37:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What are the rules for places of worship?]]></title>
