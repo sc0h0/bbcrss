@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Apr 2021 22:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 22:57:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Mon, 12 Apr 2021 21:46:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[George Floyd's younger sibling tells court: 'I miss my brother']]></title>
+            <description><![CDATA[George Floyd's younger brother gave evidence as the prosecution ended its case against Derek Chauvin.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56727154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56727154</guid>
+            <pubDate>Mon, 12 Apr 2021 22:48:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Surge testing in Wandsworth and Lambeth after South African variant cluster found]]></title>
             <description><![CDATA[NHS Test and Trace says 44 cases confirmed in Wandsworth and 30 probable is 'significant' number.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56726553</link>
@@ -98,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-56720118</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hereford-worcester-56720118</guid>
             <pubDate>Mon, 12 Apr 2021 16:15:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper headlines: Brothers' tributes and Cameron 'welcomes' inquiry]]></title>
+            <description><![CDATA[The papers cover the princes' gratitude to their grandfather and a probe into the ex-PM's lobbying.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56726863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56726863</guid>
+            <pubDate>Mon, 12 Apr 2021 22:52:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: 'I'm very happy to have my hairdresser back']]></title>
@@ -289,18 +303,18 @@
             <pubDate>Sat, 10 Apr 2021 23:07:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brighton edge towards safety with draw against Everton]]></title>
-            <description><![CDATA[Brighton edge a point closer to Premier League safety with a goalless draw against Everton at Amex Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56635782</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56635782</guid>
-            <pubDate>Mon, 12 Apr 2021 21:55:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Back-to-back wins give West Brom hope and belief' - Allardyce]]></title>
             <description><![CDATA[Sam Allardyce says "people's ears are starting to prick up" after West Brom make it back-to-back Premier League wins for the first time this season with victory over Southampton.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56635783</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56635783</guid>
             <pubDate>Mon, 12 Apr 2021 21:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brighton edge towards safety with draw against Everton]]></title>
+            <description><![CDATA[Brighton edge a point closer to Premier League safety with a goalless draw against Everton at Amex Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56635782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56635782</guid>
+            <pubDate>Mon, 12 Apr 2021 21:55:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who should stop dancing to be taken seriously? - Garth Crooks' team of the week]]></title>
@@ -693,20 +707,6 @@
             <link>https://www.bbc.co.uk/news/stories-56576285</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56576285</guid>
             <pubDate>Tue, 30 Mar 2021 23:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The cost of speaking up against China]]></title>
-            <description><![CDATA[Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-56563449</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56563449</guid>
-            <pubDate>Tue, 30 Mar 2021 23:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The vaccine misinformation battle raging in France]]></title>
-            <description><![CDATA[Online conspiracy theories are exacerbating existing vaccine scepticism.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-trending-56526265</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-56526265</guid>
-            <pubDate>Sat, 27 Mar 2021 01:04:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
