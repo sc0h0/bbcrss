@@ -6,7 +6,7 @@
 6. [Covid-19: Pubs and shops reopen and Covid app update blocked](https://www.bbc.co.uk/news/uk-56723605) - Five things you need to know about the coronavirus pandemic this Monday evening.
 7. [BBC 'receives 100,000 complaints' over Prince Philip coverage](https://www.bbc.co.uk/news/entertainment-arts-56721078) - Thousands of viewers contacted the BBC to say they felt the amount of coverage was excessive.
 8. [Covid: Asthma drug 'speeds up recovery at home'](https://www.bbc.co.uk/news/health-56717486) - GPs can now prescribe it to treat Covid patients on a case-by-case basis, the NHS has announced.
-9. [Drone footage shows fire at historic factory in St Petersburg](https://www.bbc.co.uk/news/world-56724885) - Two firefighters have died and one is seriously hurt after a massive blaze at a factory in St Petersburg.
+9. [Nevskaya Manufaktura: Fire destroys historic factory in St Petersburg](https://www.bbc.co.uk/news/world-56724885) - One firefighter has died and two are seriously hurt after a massive blaze at a historic factory in St Petersburg.
 10. [Water companies illegally dumping sewage in England and Wales' rivers](https://www.bbc.co.uk/news/uk-56721660) - Treatment works are allowed to release sewage into waterways after heavy rain to stop it backing up.
 11. [Will Smith's slavery film Emancipation pulls out of Georgia over voting laws](https://www.bbc.co.uk/news/entertainment-arts-56716449) - Smith says he's "compelled" to move filming elsewhere because of Georgia's "regressive" voting laws.
 12. ['World's biggest rabbit' stolen from owner's garden](https://www.bbc.co.uk/news/uk-england-hereford-worcester-56720118) - A £1,000 reward has been offered after Darius vanished from his home in Worcestershire on Saturday.
