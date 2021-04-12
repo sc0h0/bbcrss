@@ -1,4 +1,4 @@
-1. [Prince Philip: William pays tribute to 'extraordinary' grandfather](https://www.bbc.co.uk/news/uk-56721559) - The duke says “I will miss my Grandpa, but I know he would want us to get on with the job."
+1. [Prince Philip: William and Harry pay tribute to grandfather](https://www.bbc.co.uk/news/uk-56721559) - Prince William describes his grandfather as an "extraordinary man", while Prince Harry says he was "a man of service".
 2. [Covid lockdown eases: 'Sense of celebration' as pubs and shops reopen](https://www.bbc.co.uk/news/uk-56710858) - Salons offered early-morning haircuts and pubs served midnight pints as England's rules changed.
 3. [Greensill: Government to investigate David Cameron's lobbying](https://www.bbc.co.uk/news/uk-politics-56720141) - The former prime minister is at the centre of a row over his work for finance firm Greensill Capital.
 4. [Iran vows revenge for 'Israeli' attack on Natanz nuclear site](https://www.bbc.co.uk/news/world-middle-east-56715520) - Iran's foreign ministry blames Israel for Sunday's incident at the Natanz uranium enrichment plant.
@@ -30,7 +30,7 @@
 30. [Covid-19: Debunking the latest wave of medical misinformation](https://www.bbc.co.uk/news/56680399) - A round-up of the latest false and misleading posts about Covid-19 going viral on social media
 31. [Rachael Blackmore: Historic Grand National triumph for modest trailblazer](https://www.bbc.co.uk/sport/horse-racing/56704524) - The rise of jockey Rachael Blackmore - the modest trailblazer who made Grand National history
 32. [Tottenham to hold review after Son Heung-min suffers racist abuse](https://www.bbc.co.uk/sport/football/56714760) - Tottenham are to "determine the most effective action moving forward" after Son Heung-min suffered "abhorrent" racist abuse on social media.
-33. [Forgotten man to England starter? How Lingard is driving West Ham towards the Champions League](https://www.bbc.co.uk/sport/football/56712085) - Jesse Lingard joined West Ham United on loan in January very much a forgotten man. Could the in-form forward now start for England at the Euros?
+33. [England's Bronze doubtful for Canada friendly](https://www.bbc.co.uk/sport/football/56721633) - England defender Lucy Bronze is an injury doubt for the friendly against Canada in Stoke on Tuesday.
 34. [British Judo conducting investigation into coach arrests](https://www.bbc.co.uk/sport/judo/56715427) - British Judo is investigating a number of cases in which coaches have been arrested for sexual offences, the BBC has learned.
 35. [Prince Philip: EFL, Premiership Rugby and horse racing schedules moved to avoid clash with funeral](https://www.bbc.co.uk/sport/football/56705816) - The EFL, Premiership Rugby and British Horseracing change schedules next Saturday "as a mark of respect" to avoid clashing with the funeral of Prince Philip.
 36. ['I got across how I felt I was managed' - Bess speaks with Root about selection](https://www.bbc.co.uk/sport/cricket/56712917) - Spinner Dom Bess says he has spoken to England Test captain Joe Root about how he was managed during the winter tours of Sri Lanka and India.
@@ -52,7 +52,7 @@
 52. [Covid: What is the rule of six and what are the social distancing rules?](https://www.bbc.co.uk/news/uk-51506729) - Lockdown rules are being eased further in England and Wales so more people can meet up outside.
 53. [Covid: Can my boss force me to go to work?](https://www.bbc.co.uk/news/business-52567567) - As lockdown restrictions ease ease gradually across the UK, what are the rules about going to work?
 54. [Covid vaccines: How fast is progress around the world?](https://www.bbc.co.uk/news/world-56237778) - Charts and maps tracking the progress of Covid vaccination programmes.
-55. [Coronavirus: When will pools, gyms and hairdressers open?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?
+55. [Coronavirus: What's happening with pools, haircuts and gyms?](https://www.bbc.co.uk/news/explainers-53349989) - Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?
 56. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
 57. [Coronavirus: What are the rules for places of worship?](https://www.bbc.co.uk/news/explainers-53219921) - Places of worship are open across much of the UK, despite lockdown.
 58. [Coronavirus: Your tributes to those who have died](https://www.bbc.co.uk/news/uk-52676411) - A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.
