@@ -67,7 +67,7 @@
 67. [Prince Philip: A simple, family farewell](https://www.bbc.co.uk/news/56708741) - A no-nonsense moderniser, the duke's last service to the monarchy may be in the way he departs it, reports the BBC's Jonny Dymond.
 68. [Gyles Brandreth: 'Prince Philip would have been touched by public reaction'](https://www.bbc.co.uk/news/uk-56703415) - Writer and broadcaster Gyles Brandreth, royal biographer and a friend of Prince Philip, reflects on the public response to his death.
 69. [Prince Charles on Prince Philip: 'My family and I miss my father enormously'](https://www.bbc.co.uk/news/uk-56704809) - Prince Charles said his father "would have been amazed by... the touching things that have been said".
-70. [Prince Philip: A turbulent childhood stalked by exile, mental illness and death](https://www.bbc.co.uk/news/uk-56690270) - In marrying, Philip was able to regain the "simple pleasures" of family life he had lost at eight.
+70. [Prince Philip: A turbulent childhood stalked by exile, mental illness and death](https://www.bbc.co.uk/news/uk-56690270) - In marrying, Philip was able to regain the "simple pleasures" of family life he had lost aged eight.
 71. [Prince Philip on royal duty: In his own words](https://www.bbc.co.uk/news/uk-42003216) - For some, the Duke of Edinburgh will be remembered most vividly for his public comments.
 72. [Prince Philip tributes: 'I wanted my grandchildren to remember this day'](https://www.bbc.co.uk/news/uk-56703427) - People from all generations have come to Windsor to pay tribute to Prince Philip after his death.
 73. [When the Queen was snapped 'giggling' at Prince Philip](https://www.bbc.co.uk/news/in-pictures-56242398) - A royal occasion descended into bewilderment and chuckles after a swarm of bees descended.
