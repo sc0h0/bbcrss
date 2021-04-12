@@ -3,7 +3,7 @@
 3. [Greensill: Government to investigate David Cameron's lobbying](https://www.bbc.co.uk/news/uk-politics-56720141) - A probe is expected to be announced into David Cameron’s efforts to lobby for Greensill Capital.
 4. [France moves to ban short-haul domestic flights](https://www.bbc.co.uk/news/world-europe-56716708) - MPs vote to stop flights where the journey could be made by train in under 2.5 hours.
 5. [NHS Covid-19 app update blocked for breaking Apple and Google's rules](https://www.bbc.co.uk/news/technology-56713017) - Apple and Google's rules state that no location data from app users can be shared.
-6. [Breastfeeding mother's appeal over jury service in Winchester](https://www.bbc.co.uk/news/uk-england-hampshire-56716909) - A breastfeeding mother has her request to be excused from jury service declined.
+6. [Breastfeeding mother's appeal over jury service in Winchester](https://www.bbc.co.uk/news/uk-england-hampshire-56716909) - Zoe Stacey says she wants to breastfeed her son, William, for longer than a year.
 7. [Minneapolis: Daunte Wright killing by police near city sparks unrest](https://www.bbc.co.uk/news/world-us-canada-56714346) - Tear gas is fired and an overnight curfew imposed amid anger at the fatal shooting of Daunte Wright.
 8. [Chinese official says local vaccines 'don't have high protection rates'](https://www.bbc.co.uk/news/world-asia-china-56713663) - However he later appeared to backtrack, saying his comments were a "complete misunderstanding".
 9. [Sir Richard Sutton: Millionaire-murder accused in court](https://www.bbc.co.uk/news/uk-england-dorset-56715078) - Thomas Schreiber is charged with murdering one of UK's richest men, Sir Richard Sutton, in Dorset.
