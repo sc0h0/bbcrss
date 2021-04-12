@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Apr 2021 21:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 21:41:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid vaccine: All over-50s and high risk groups offered first dose]]></title>
+            <description><![CDATA[Ministers meet a target of inviting the top nine priority groups to receive the vaccine by 15 April.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56725940</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56725940</guid>
+            <pubDate>Mon, 12 Apr 2021 21:30:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prince Philip: William and Harry pay tribute to grandfather]]></title>
             <description><![CDATA[Prince William says the duke was "extraordinary" while Prince Harry says he was the "legend of banter".]]></description>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56721078</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56721078</guid>
             <pubDate>Mon, 12 Apr 2021 18:55:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Asthma drug 'speeds up recovery at home']]></title>
-            <description><![CDATA[GPs can now prescribe it to treat Covid patients on a case-by-case basis, the NHS has announced.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56717486</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56717486</guid>
-            <pubDate>Mon, 12 Apr 2021 16:10:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Surge testing in Wandsworth and Lambeth after South African variant cluster found]]></title>
@@ -289,7 +289,7 @@
             <pubDate>Sat, 10 Apr 2021 23:07:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[West Brom beat Southampton to keep slim survival hopes alive]]></title>
+            <title><![CDATA[Back-to-back wins give West Brom hope and belief, says Allardyce]]></title>
             <description><![CDATA[Sam Allardyce says "people's ears are starting to prick up" after West Brom make it back-to-back Premier League wins for the first time this season with victory over Southampton.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56635783</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56635783</guid>
@@ -300,7 +300,7 @@
             <description><![CDATA[Brighton edge a point closer to Premier League safety with a goalless draw against Everton at Amex Stadium.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56635782</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56635782</guid>
-            <pubDate>Mon, 12 Apr 2021 21:18:35 GMT</pubDate>
+            <pubDate>Mon, 12 Apr 2021 21:29:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sports move fixtures to avoid clash with Prince Philip funeral]]></title>
