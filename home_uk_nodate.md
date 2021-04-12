@@ -2,7 +2,7 @@
 2. [Covid lockdown eases: Celebrations as pub gardens and shops reopen](https://www.bbc.co.uk/news/uk-56710858) - Shoppers have been rushing back to the High Street, where queues were seen outside some retailers.
 3. [Baroness Shirley Williams: Former cabinet minister dies aged 90](https://www.bbc.co.uk/news/uk-politics-56720985) - The former Labour cabinet minister was part of the "Gang of Four" who quit the party to form the SDP.
 4. [Greensill: Government to investigate Cameron's lobbying](https://www.bbc.co.uk/news/uk-politics-56720141) - The former PM is at the centre of a row over his efforts to influence ministers for a finance firm.
-5. [Minneapolis: Daunte Wright shooting by police 'accidental'](https://www.bbc.co.uk/news/world-us-canada-56724798) - Daunte Wright was fatally shot after an officer mistook her gun for a Taser, the police chief says.
+5. [Daunte Wright shooting by police 'accidental'](https://www.bbc.co.uk/news/world-us-canada-56724798) - Daunte Wright was fatally shot after an officer mistook her gun for a Taser, the police chief says.
 6. [Nevskaya Manufaktura: Fire destroys historic factory in St Petersburg](https://www.bbc.co.uk/news/world-56724885) - One firefighter has died and two are seriously hurt after a massive blaze at a historic factory in St Petersburg.
 7. [BBC 'receives 100,000 complaints' over Prince Philip coverage](https://www.bbc.co.uk/news/entertainment-arts-56721078) - Thousands of viewers contacted the BBC to say they felt the amount of coverage was excessive.
 8. [Covid: Asthma drug 'speeds up recovery at home'](https://www.bbc.co.uk/news/health-56717486) - GPs can now prescribe it to treat Covid patients on a case-by-case basis, the NHS has announced.
