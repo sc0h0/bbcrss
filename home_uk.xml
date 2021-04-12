@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Apr 2021 20:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Apr 2021 20:54:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -76,7 +76,7 @@
             <description><![CDATA[NHS Test and Trace says 44 cases confirmed in Wandsworth and 30 probable is 'significant' number.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56726553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56726553</guid>
-            <pubDate>Mon, 12 Apr 2021 20:18:14 GMT</pubDate>
+            <pubDate>Mon, 12 Apr 2021 20:53:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Water companies illegally dumping sewage in England and Wales' rivers]]></title>
@@ -296,25 +296,11 @@
             <pubDate>Mon, 12 Apr 2021 20:07:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tottenham to hold review after Son Heung-min suffers racist abuse]]></title>
-            <description><![CDATA[Tottenham are to "determine the most effective action moving forward" after Son Heung-min suffered "abhorrent" racist abuse on social media.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56714760</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56714760</guid>
-            <pubDate>Mon, 12 Apr 2021 07:42:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sports move fixtures to avoid clash with Prince Philip funeral]]></title>
             <description><![CDATA[The Premier League, EFL, Premiership Rugby and British Horseracing change schedules on Saturday to avoid clashing with Prince Philip's funeral.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56705816</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56705816</guid>
             <pubDate>Mon, 12 Apr 2021 16:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[McGregor tells Poirier their trilogy fight in July is 'off']]></title>
-            <description><![CDATA[Conor McGregor tells Dustin Poirier their trilogy fight scheduled for 10 July is "off" in an expletive-laden Twitter exchange.]]></description>
-            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/56724525</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/56724525</guid>
-            <pubDate>Mon, 12 Apr 2021 16:15:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Camera position means VAR unable to reverse offside decision on West Brom 'goal']]></title>
@@ -324,11 +310,25 @@
             <pubDate>Mon, 12 Apr 2021 17:56:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[McGregor tells Poirier their trilogy fight in July is 'off']]></title>
+            <description><![CDATA[Conor McGregor tells Dustin Poirier their trilogy fight scheduled for 10 July is "off" in an expletive-laden Twitter exchange.]]></description>
+            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/56724525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/56724525</guid>
+            <pubDate>Mon, 12 Apr 2021 16:15:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['I never get tired of this feeling' - Cavendish earns first win since 2018]]></title>
             <description><![CDATA[Britain's Mark Cavendish wins stage two of the Tour of Turkey, his first victory in a race for three years.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/56716156</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/56716156</guid>
             <pubDate>Mon, 12 Apr 2021 15:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My mates said they'll never pay for beers again' - Morris on becoming IPL's most expensive player]]></title>
+            <description><![CDATA[From his all-round ability on a cricket field to a love of music and Manchester United, BBC Sport speaks to Chris Morris, the most expensive player in Indian Premier League history.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/56588016</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56588016</guid>
+            <pubDate>Mon, 12 Apr 2021 11:32:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What's happening with pools, haircuts and gyms?]]></title>
@@ -359,6 +359,13 @@
             <pubDate>Wed, 07 Apr 2021 20:55:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Mon, 12 Apr 2021 17:02:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
             <description><![CDATA[Anyone in England who travels abroad without good reason will soon face a £5000 fine.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52646738</link>
@@ -378,13 +385,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-56594933</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56594933</guid>
             <pubDate>Thu, 01 Apr 2021 17:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 12 Apr 2021 17:02:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the UK plans for Covid passports?]]></title>
