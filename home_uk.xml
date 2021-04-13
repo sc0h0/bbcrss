@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Apr 2021 07:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 07:27:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Ministers meet a target of inviting the top nine priority groups to receive the vaccine by 15 April.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56725940</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56725940</guid>
-            <pubDate>Tue, 13 Apr 2021 06:45:31 GMT</pubDate>
+            <pubDate>Tue, 13 Apr 2021 07:03:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid lockdown eases: England 'buzzing' after first night out in 97 days]]></title>
@@ -37,11 +37,18 @@
             <pubDate>Tue, 13 Apr 2021 05:03:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK exports to EU rebound after January's slump]]></title>
+            <title><![CDATA[UK exports to EU rebound partially after January's slump]]></title>
             <description><![CDATA[Despite the improvement, exports still remain below 2020 levels, the UK statistics body says.]]></description>
             <link>https://www.bbc.co.uk/news/business-56729631</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56729631</guid>
-            <pubDate>Tue, 13 Apr 2021 06:56:52 GMT</pubDate>
+            <pubDate>Tue, 13 Apr 2021 07:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Vaccination milestone and variant cluster in south London]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56729431</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56729431</guid>
+            <pubDate>Tue, 13 Apr 2021 06:53:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daunte Wright shooting by police in Minnesota 'accidental']]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-56723560</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56723560</guid>
             <pubDate>Tue, 13 Apr 2021 02:49:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fukushima: Japan approves releasing wastewater into ocean]]></title>
-            <description><![CDATA[Most experts say it's a normal and safe practice but environmentalists and locals are not happy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56728068</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56728068</guid>
-            <pubDate>Tue, 13 Apr 2021 06:43:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BBC 'receives 100,000 complaints' over Prince Philip coverage]]></title>
@@ -216,7 +216,7 @@
             <description><![CDATA[Ramadan is one of the most important events in the Islamic calendar, but it's been affected by lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-56695447</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56695447</guid>
-            <pubDate>Mon, 12 Apr 2021 16:38:55 GMT</pubDate>
+            <pubDate>Tue, 13 Apr 2021 07:18:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The exchange project uniting young Americans during the pandemic]]></title>
@@ -310,6 +310,13 @@
             <pubDate>Mon, 12 Apr 2021 21:20:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England to play one-off Test against India & host New Zealand in summer]]></title>
+            <description><![CDATA[England will play a one-off Test against India as part of a summer schedule that also includes a limited-overs series with New Zealand.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/56700877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56700877</guid>
+            <pubDate>Tue, 13 Apr 2021 07:00:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brighton edge towards safety with draw against Everton]]></title>
             <description><![CDATA[Brighton edge a point closer to Premier League safety with a goalless draw against Everton at Amex Stadium.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56635782</link>
@@ -322,13 +329,6 @@
             <link>https://www.bbc.co.uk/sport/football/56722452</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56722452</guid>
             <pubDate>Mon, 12 Apr 2021 22:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sports move fixtures to avoid clash with Prince Philip funeral]]></title>
-            <description><![CDATA[The Premier League, EFL, Premiership Rugby and British Horseracing change schedules on Saturday to avoid clashing with Prince Philip's funeral.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56705816</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56705816</guid>
-            <pubDate>Mon, 12 Apr 2021 16:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Camera position means VAR unable to reverse offside decision on West Brom 'goal']]></title>
