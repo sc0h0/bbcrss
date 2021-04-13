@@ -51,9 +51,9 @@
 51. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 45 or over in England are being offered a Covid vaccine.
 52. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
 53. [What are the rules for weddings and when can I hold a reception?](https://www.bbc.co.uk/news/explainers-52811509) - Wedding ceremonies are still restricted across the UK, but the rules are easing.
-54. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Pub gardens and non-essential shops can now open in England - as part of the next stage of easing lockdown rules.
-55. [What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - People under 30 are being offered an alternative to the AstraZeneca vaccine after a review into rare blood clots.
-56. [Covid: Restaurants and pubs have reopened, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - Pubs, cafes and restaurants in England can now open for customers seated outdoors.
+54. [Covid: Restaurants and pubs have reopened, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - Pubs, cafes and restaurants in England can now open for customers seated outdoors.
+55. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Pub gardens and non-essential shops can now open in England - as part of the next stage of easing lockdown rules.
+56. [What is the Oxford-AstraZeneca vaccine?](https://www.bbc.co.uk/news/health-55302595) - People under 30 are being offered an alternative to the AstraZeneca vaccine after a review into rare blood clots.
 57. [Lockdown easing: What to watch for when you’re out and about](https://www.bbc.co.uk/news/science-environment-56678978) - The BBC’s David Shukman on how to navigate lockdown easing while keeping yourself and others safe.
 58. [AstraZeneca vaccine: How do you weigh up the risks and benefits?](https://www.bbc.co.uk/news/explainers-56665396) - A guide to the risks and benefits of receiving the Oxford-AstraZeneca vaccine.
 59. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
