@@ -1,6 +1,6 @@
 1. [Covid: People 45 or over in England invited to book vaccine](https://www.bbc.co.uk/news/uk-56729897) - It comes after all over-50s and those in high-risk groups in the UK have been offered a first dose.
-2. [Covid-19 in Scotland: Travel ban to be lifted from Friday](https://www.bbc.co.uk/news/uk-scotland-56733608) - People will be allowed to meet in larger groups outdoors and take day trips across Scotland from Friday.
-3. [Covid-19: US agencies call for pause in Johnson & Johnson vaccine](https://www.bbc.co.uk/news/world-us-canada-56733715) - Johnson & Johnson says it will also delay the rollout of its vaccine in Europe.
+2. [Covid-19: US agencies call for pause in Johnson & Johnson vaccine](https://www.bbc.co.uk/news/world-us-canada-56733715) - Johnson & Johnson says it will also delay the rollout of its vaccine in Europe.
+3. [Covid-19 in Scotland: Travel ban to be lifted from Friday](https://www.bbc.co.uk/news/uk-scotland-56733608) - People will be allowed to meet in larger groups outdoors and take day trips across Scotland from Friday.
 4. [Covid: South Africa variant surge due to person travelling from Africa](https://www.bbc.co.uk/news/uk-england-london-56729607) - A "significant" number of confirmed and probable cases have been found in Lambeth and Wandsworth.
 5. [Greensill: Labour urges 'full' probe into Cameron lobbying](https://www.bbc.co.uk/news/uk-politics-56730447) - The PM insists probe into David Cameron's lobbying will get free rein, but Labour says it's a "cover-up".
 6. [Jake Paul accused of sexual assault by Justine Paradise](https://www.bbc.co.uk/news/entertainment-arts-56731279) - The YouTuber has not yet commented on allegations from Paradise, a TikTok star.
