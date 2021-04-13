@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Apr 2021 18:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 19:06:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 13 Apr 2021 17:52:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US troops 'to leave Afghanistan by 11 September']]></title>
-            <description><![CDATA[President Biden is set to announce US troops will leave by mid-September instead of May, officials say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56737563</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56737563</guid>
-            <pubDate>Tue, 13 Apr 2021 18:16:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Students returning to England's universities from 17 May]]></title>
             <description><![CDATA[A million students currently learning online will go back to university campuses next month.]]></description>
             <link>https://www.bbc.co.uk/news/education-56731330</link>
@@ -44,18 +37,25 @@
             <pubDate>Tue, 13 Apr 2021 16:49:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: South Africa variant surge probably due to person travelling from Africa]]></title>
+            <description><![CDATA[A "significant" number of confirmed and probable cases have been found in Lambeth and Wandsworth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56729607</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56729607</guid>
+            <pubDate>Tue, 13 Apr 2021 14:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US says troops to leave Afghanistan by 11 September]]></title>
+            <description><![CDATA[President Biden is to announce on Wednesday US troops will leave by mid-September instead of May.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56737563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56737563</guid>
+            <pubDate>Tue, 13 Apr 2021 18:16:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Over-45s offered jabs and Scotland travel ban lifted]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday evening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56735308</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56735308</guid>
             <pubDate>Tue, 13 Apr 2021 16:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: South Africa variant surge probaby due to person travelling from Africa]]></title>
-            <description><![CDATA[A "significant" number of confirmed and probable cases have been found in Lambeth and Wandsworth.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56729607</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56729607</guid>
-            <pubDate>Tue, 13 Apr 2021 14:20:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greensill: Top civil servant 'joined firm before quitting']]></title>
@@ -72,18 +72,18 @@
             <pubDate>Tue, 13 Apr 2021 15:47:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US police chief resigns over black motorist's death]]></title>
+            <description><![CDATA[The shooting of Daunte Wright in Minneapolis was described by police as accidental but sparked unrest.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56740199</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56740199</guid>
+            <pubDate>Tue, 13 Apr 2021 18:58:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sahayb Abu: Would-be rap star jailed for IS-inspired terror plot]]></title>
             <description><![CDATA[Sahayb Abu will serve a minimum of 19 years after plotting to carry out a terror attack.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56697609</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56697609</guid>
             <pubDate>Tue, 13 Apr 2021 17:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MasterChef: Rescheduled final to air on Wednesday]]></title>
-            <description><![CDATA[The final of the BBC cooking show, delayed after Prince Philip's death, will air on Wednesday night.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56732411</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56732411</guid>
-            <pubDate>Tue, 13 Apr 2021 11:00:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tamara Ecclestone burglary: Italian man admits £26m celebrity raids]]></title>
@@ -226,11 +226,11 @@
             <pubDate>Tue, 13 Apr 2021 05:09:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England all-rounder Stokes out of IPL with broken finger - Royals]]></title>
-            <description><![CDATA[England all-rounder Ben Stokes is out of the Indian Premier League with a broken finger, his Rajasthan Royals team say.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/56734095</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56734095</guid>
-            <pubDate>Tue, 13 Apr 2021 17:47:07 GMT</pubDate>
+            <title><![CDATA[England v Canada: Evelyne Viens puts Canada ahead after Demi Stokes' defensive error]]></title>
+            <description><![CDATA[England left-back Demi Stokes loses the ball in her own area, playing Evelyne Viens in on goal who tucks home a lovely clipped finish.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56740399</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56740399</guid>
+            <pubDate>Tue, 13 Apr 2021 18:41:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Snooker Championship 2021: Louis Heathcote's incredible snooker shot]]></title>
@@ -238,6 +238,13 @@
             <link>https://www.bbc.co.uk/sport/av/snooker/56735917</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/snooker/56735917</guid>
             <pubDate>Tue, 13 Apr 2021 14:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England all-rounder Stokes out of IPL with broken finger - Royals]]></title>
+            <description><![CDATA[England all-rounder Ben Stokes is out of the Indian Premier League with a broken finger, his Rajasthan Royals team say.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/56734095</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56734095</guid>
+            <pubDate>Tue, 13 Apr 2021 19:00:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who is being offered the vaccine now?]]></title>
