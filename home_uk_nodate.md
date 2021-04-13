@@ -6,10 +6,10 @@
 6. [Greensill: Labour urges 'full' probe into Cameron lobbying](https://www.bbc.co.uk/news/uk-politics-56730447) - The PM insists probe into David Cameron's lobbying will get free rein, but Labour says it's a "cover-up".
 7. [Jake Paul accused of sexual assault by Justine Paradise](https://www.bbc.co.uk/news/entertainment-arts-56731279) - The YouTuber has not yet commented on allegations from Paradise, a TikTok star.
 8. [Sahayb Abu: Would-be rap star jailed for IS-inspired terror plot](https://www.bbc.co.uk/news/uk-england-london-56697609) - Sahayb Abu will serve a minimum of 19 years after plotting to carry out a terror attack.
-9. [MasterChef: Rescheduled final to air on Wednesday](https://www.bbc.co.uk/news/entertainment-arts-56732411) - The final of the BBC cooking show, delayed after Prince Philip's death, will air on Wednesday night.
-10. [Government's LGBT advisory panel disbanded](https://www.bbc.co.uk/news/uk-politics-56731460) - Three advisors quit last month in protest at the government's handling of LGBT rights.
-11. [Bridgerton: Netflix commissions third and fourth series](https://www.bbc.co.uk/news/entertainment-arts-56734801) - "We think audiences will continue to swoon for this show," the streaming giant says.
-12. [Nepal rhino numbers rise in 'exciting' milestone](https://www.bbc.co.uk/news/world-asia-56731079) - The greater one-horned rhino came close to extinction, but a new count gives reasons to be cheerful.
+9. [Nepal rhino numbers rise in 'exciting' milestone](https://www.bbc.co.uk/news/world-asia-56731079) - The greater one-horned rhino came close to extinction, but a new count gives reasons to be cheerful.
+10. [MasterChef: Rescheduled final to air on Wednesday](https://www.bbc.co.uk/news/entertainment-arts-56732411) - The final of the BBC cooking show, delayed after Prince Philip's death, will air on Wednesday night.
+11. [Government's LGBT advisory panel disbanded](https://www.bbc.co.uk/news/uk-politics-56731460) - Three advisors quit last month in protest at the government's handling of LGBT rights.
+12. [Bridgerton: Netflix commissions third and fourth series](https://www.bbc.co.uk/news/entertainment-arts-56734801) - "We think audiences will continue to swoon for this show," the streaming giant says.
 13. [Covid: Younger Brazilians fall ill as cases explode](https://www.bbc.co.uk/news/world-latin-america-56723439) - Research suggests more than half of patients being treated in intensive care last month were under 40.
 14. [Estate agent's hi-tech house tour exposes personal data](https://www.bbc.co.uk/news/technology-56718046) - House listing on Rightmove reveals "treasure trove of private data".
 15. [Covid: 'The world through my eyes is different'](https://www.bbc.co.uk/news/uk-england-london-56714960) - Usha Mistry has very limited sight and is worried about moving around London as lockdown eases.
