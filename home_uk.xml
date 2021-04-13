@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Apr 2021 12:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 13:11:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[It comes after all over-50s and those in high-risk groups in the UK have been offered a first dose.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56729897</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56729897</guid>
-            <pubDate>Tue, 13 Apr 2021 12:21:41 GMT</pubDate>
+            <pubDate>Tue, 13 Apr 2021 12:43:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in Scotland: Travel ban to be lifted from Friday]]></title>
@@ -44,13 +44,6 @@
             <pubDate>Tue, 13 Apr 2021 11:57:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK exports to EU rebound partially after January's slump]]></title>
-            <description><![CDATA[Despite the improvement, exports still remain below 2020 levels, the UK statistics body says.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56729631</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56729631</guid>
-            <pubDate>Tue, 13 Apr 2021 09:59:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Greensill: Labour urges 'full' probe into Cameron lobbying]]></title>
             <description><![CDATA[The PM insists probe into David Cameron's lobbying will get free rein, but Labour say it's a "cover-up".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56730447</link>
@@ -72,6 +65,13 @@
             <pubDate>Tue, 13 Apr 2021 09:49:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sahayb Abu: Would-be rap star jailed for IS-inspired terror plot]]></title>
+            <description><![CDATA[Sahayb Abu will serve a minimum of 19 years after plotting to carry out a terror attack.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56697609</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56697609</guid>
+            <pubDate>Tue, 13 Apr 2021 13:03:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MasterChef: Rescheduled final to air on Wednesday]]></title>
             <description><![CDATA[The final of the BBC cooking show, delayed after Prince Philip's death, will air on Wednesday night.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56732411</link>
@@ -83,7 +83,7 @@
             <description><![CDATA[Three advisors quit last month in protest at the government's handling of LGBT rights.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56731460</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56731460</guid>
-            <pubDate>Tue, 13 Apr 2021 12:34:38 GMT</pubDate>
+            <pubDate>Tue, 13 Apr 2021 12:54:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jake Paul accused of sexual assault by Justine Paradise]]></title>
@@ -377,14 +377,14 @@
             <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
-            <pubDate>Tue, 13 Apr 2021 08:53:03 GMT</pubDate>
+            <pubDate>Tue, 13 Apr 2021 12:57:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are the rules for weddings and when can I hold a reception?]]></title>
-            <description><![CDATA[Wedding ceremonies are still restricted across the UK, but the rules are easing.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52811509</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52811509</guid>
-            <pubDate>Tue, 13 Apr 2021 10:36:21 GMT</pubDate>
+            <title><![CDATA[Covid: Which areas are being mass tested for variants?]]></title>
+            <description><![CDATA[People who live, work or travel through two south London boroughs are being urged to take a Covid-19 test.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54872039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54872039</guid>
+            <pubDate>Tue, 13 Apr 2021 12:24:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Restaurants and pubs have reopened, but what are the rules?]]></title>
@@ -427,6 +427,13 @@
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Mon, 12 Apr 2021 17:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the rules for weddings and when can I hold a reception?]]></title>
+            <description><![CDATA[Wedding ceremonies are still restricted across the UK, but the rules are easing.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52811509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52811509</guid>
+            <pubDate>Tue, 13 Apr 2021 10:36:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
@@ -700,13 +707,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56578839</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56578839</guid>
             <pubDate>Sat, 03 Apr 2021 11:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We found a baby on the subway - now he's our son']]></title>
-            <description><![CDATA[Danny Stewart saw something on the floor of an NY subway station - soon he would treasure it more than anything.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-56409764</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56409764</guid>
-            <pubDate>Sat, 03 Apr 2021 23:14:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
