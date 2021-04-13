@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Apr 2021 07:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 07:45:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,13 +93,6 @@
             <pubDate>Mon, 12 Apr 2021 21:46:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uefa Euro 2020: Trafalgar Square earmarked for 12,500-capacity fan park]]></title>
-            <description><![CDATA[Up to nine matches could be shown on giant TV screens in central London if licensing is approved.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56719454</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56719454</guid>
-            <pubDate>Tue, 13 Apr 2021 05:11:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Newspaper headlines: Brothers' tributes and Cameron 'welcomes' inquiry]]></title>
             <description><![CDATA[The papers cover the princes' gratitude to their grandfather and a probe into the ex-PM's lobbying.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56726863</link>
@@ -126,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-56723440</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56723440</guid>
             <pubDate>Mon, 12 Apr 2021 23:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afro wigs: Norfolk hair donor proud of 'historic breakthrough']]></title>
+            <description><![CDATA[Carly Gorton, 11, had challenged a charity which said it could not make wigs using her hair.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-56710206</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-56710206</guid>
+            <pubDate>Tue, 13 Apr 2021 05:20:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: 'I'm very happy to have my hairdresser back']]></title>
@@ -331,11 +331,11 @@
             <pubDate>Mon, 12 Apr 2021 22:02:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Camera position means VAR unable to reverse offside decision on West Brom 'goal']]></title>
-            <description><![CDATA[The video assistant referee is unable to reverse an offside decision that ruled out a West Brom goal because of the positioning of the camera.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56725509</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56725509</guid>
-            <pubDate>Mon, 12 Apr 2021 21:16:58 GMT</pubDate>
+            <title><![CDATA[Curry sets Warriors all-time scoring record]]></title>
+            <description><![CDATA[Stephen Curry breaks the Golden State Warriors' all-time points record as they overcome Denver Nuggets in the NBA.]]></description>
+            <link>https://www.bbc.co.uk/sport/basketball/56729552</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/basketball/56729552</guid>
+            <pubDate>Tue, 13 Apr 2021 07:39:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vote: Who's the greatest player in WSL history?]]></title>
