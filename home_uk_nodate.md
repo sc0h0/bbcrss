@@ -5,7 +5,7 @@
 5. [US says troops to leave Afghanistan by 11 September](https://www.bbc.co.uk/news/world-us-canada-56737563) - President Biden is to announce on Wednesday US troops will leave by mid-September instead of May.
 6. [Covid-19: Over-45s offered jabs and Scotland travel ban lifted](https://www.bbc.co.uk/news/uk-56735308) - Five things you need to know about the coronavirus pandemic this Tuesday evening.
 7. [Greensill: Top civil servant 'joined firm before quitting'](https://www.bbc.co.uk/news/uk-politics-56733465) - Bill Crothers's position was "agreed" to by the Cabinet Office, a letter from a lobbying watchdog reveals.
-8. [Covid-19 in Scotland: Travel ban to be lifted from Friday](https://www.bbc.co.uk/news/uk-scotland-56733608) - People will be allowed to meet in larger groups outdoors and take day trips across Scotland from Friday.
+8. [Covid: Travel ban in Scotland to be eased from Friday](https://www.bbc.co.uk/news/uk-scotland-56733608) - People will be allowed to meet in larger groups outdoors and take day trips across Scotland from Friday.
 9. [US police chief resigns over black motorist's death](https://www.bbc.co.uk/news/world-us-canada-56740199) - The shooting of Daunte Wright in Minneapolis was described by police as accidental but sparked unrest.
 10. [Sahayb Abu: Would-be rap star jailed for IS-inspired terror plot](https://www.bbc.co.uk/news/uk-england-london-56697609) - Sahayb Abu will serve a minimum of 19 years after plotting to carry out a terror attack.
 11. [Tamara Ecclestone burglary: Italian man admits £26m celebrity raids](https://www.bbc.co.uk/news/uk-england-london-56722772) - A series of burglaries targeted the west London homes of multimillionaire celebrities.
