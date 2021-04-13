@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Apr 2021 00:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 01:53:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -231,6 +231,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-56659615</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56659615</guid>
             <pubDate>Mon, 12 Apr 2021 23:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the suspension of campaigning affect the Holyrood election?]]></title>
+            <description><![CDATA[Holyrood election campaigning is to resume but will the suspension have any impact on the election?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56717776</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56717776</guid>
+            <pubDate>Mon, 12 Apr 2021 21:58:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: The Vanuatu tribes mourning the death of their 'god']]></title>
@@ -700,13 +707,6 @@
             <link>https://www.bbc.co.uk/news/stories-56576285</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56576285</guid>
             <pubDate>Tue, 30 Mar 2021 23:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The cost of speaking up against China]]></title>
-            <description><![CDATA[Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-56563449</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56563449</guid>
-            <pubDate>Tue, 30 Mar 2021 23:08:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
