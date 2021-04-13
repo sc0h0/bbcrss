@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Apr 2021 05:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 06:04:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Covid lockdown eases: England 'buzzing' after first night out in 97 days]]></title>
-            <description><![CDATA[As outdoor hospitality reopens, revellers find the atmosphere "celebratory" despite a nip in the air.]]></description>
+            <description><![CDATA[As outdoor hospitality reopens, revellers find the atmosphere "celebratory" despite the cold weather.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56727568</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56727568</guid>
             <pubDate>Tue, 13 Apr 2021 04:46:36 GMT</pubDate>
@@ -198,7 +198,7 @@
             <pubDate>Mon, 12 Apr 2021 23:49:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quick guide to Russia-Ukraine military tensions]]></title>
+            <title><![CDATA[Is Russia going to war with Ukraine and other questions]]></title>
             <description><![CDATA[What you need to know about Russia's troop build-up around eastern Ukraine.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56720589</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56720589</guid>
@@ -343,13 +343,6 @@
             <link>https://www.bbc.co.uk/sport/football/56689295</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56689295</guid>
             <pubDate>Tue, 13 Apr 2021 05:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women's Super League: Gilly Flaherty scores the first WSL goal]]></title>
-            <description><![CDATA[To mark 10 years of the Women's Super League, watch the first goal as Gilly Flaherty scores for Arsenal in a 1-0 win over Chelsea on 13 April 2011.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56682116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56682116</guid>
-            <pubDate>Tue, 13 Apr 2021 05:20:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What's happening with pools, haircuts and gyms?]]></title>
@@ -707,6 +700,13 @@
             <link>https://www.bbc.co.uk/news/stories-56576285</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56576285</guid>
             <pubDate>Tue, 30 Mar 2021 23:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The cost of speaking up against China]]></title>
+            <description><![CDATA[Uyghurs abroad describe a pattern of harassment and intimidation they say is designed to silence them.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-56563449</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56563449</guid>
+            <pubDate>Tue, 30 Mar 2021 23:08:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
