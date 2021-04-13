@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Apr 2021 23:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 23:53:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,11 +65,11 @@
             <pubDate>Tue, 13 Apr 2021 21:49:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Travel ban in Scotland to be eased from Friday]]></title>
-            <description><![CDATA[People will be allowed to meet in larger groups outdoors and take day trips across Scotland from Friday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-56733608</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56733608</guid>
-            <pubDate>Tue, 13 Apr 2021 15:47:59 GMT</pubDate>
+            <title><![CDATA[US seeks China climate agreements ahead of Biden summit]]></title>
+            <description><![CDATA[US envoy John Kerry will hold talks in Shanghai ahead of a climate summit hosted by President Biden.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56739896</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56739896</guid>
+            <pubDate>Tue, 13 Apr 2021 23:41:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US police chief resigns over black motorist's death]]></title>
@@ -303,18 +303,39 @@
             <pubDate>Tue, 13 Apr 2021 20:22:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Who is being offered the vaccine now?]]></title>
+            <title><![CDATA[Coronavirus: What's the risk on transport?]]></title>
+            <description><![CDATA[As UK coronavirus restrictions continue to be relaxed, public transport could become much busier.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51736185</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51736185</guid>
+            <pubDate>Tue, 13 Apr 2021 16:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When can I have a pint inside?]]></title>
+            <description><![CDATA[Pubs, cafes and restaurants in England can now open for customers seated outdoors.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Tue, 13 Apr 2021 10:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Tue, 13 Apr 2021 18:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When will I get my jab?]]></title>
             <description><![CDATA[People 45 or over in England are being offered a Covid vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/health-55045639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
             <pubDate>Tue, 13 Apr 2021 09:26:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Restaurants and pubs have reopened, but what are the rules?]]></title>
-            <description><![CDATA[Pubs, cafes and restaurants in England can now open for customers seated outdoors.]]></description>
-            <link>https://www.bbc.co.uk/news/business-52977388</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
-            <pubDate>Tue, 13 Apr 2021 10:17:41 GMT</pubDate>
+            <title><![CDATA[What are the UK plans for Covid passports?]]></title>
+            <description><![CDATA[The government is considering how people could prove they are unlikely to transmit Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
+            <pubDate>Tue, 06 Apr 2021 09:16:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
@@ -359,13 +380,6 @@
             <pubDate>Wed, 07 Apr 2021 20:55:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Tue, 13 Apr 2021 18:12:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What are the rules for weddings and when can I hold a reception?]]></title>
             <description><![CDATA[Wedding ceremonies are still restricted across the UK, but the rules are easing.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52811509</link>
@@ -378,34 +392,6 @@
             <link>https://www.bbc.co.uk/news/explainers-52646738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
             <pubDate>Tue, 13 Apr 2021 12:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many people can I have a drink with? And other questions]]></title>
-            <description><![CDATA[We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
-            <pubDate>Tue, 13 Apr 2021 08:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England lockdown: Countdown to freedom]]></title>
-            <description><![CDATA[As coronavirus restrictions are lifted - when can you return to your favourite activities?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-56594933</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56594933</guid>
-            <pubDate>Thu, 01 Apr 2021 17:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the UK plans for Covid passports?]]></title>
-            <description><![CDATA[The government is considering how people could prove they are unlikely to transmit Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Tue, 06 Apr 2021 09:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rare blood clots - what you need to know]]></title>
-            <description><![CDATA[We take a look at why these unusual clots happen and when they occur.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56674796</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56674796</guid>
-            <pubDate>Thu, 08 Apr 2021 16:07:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: How can Prince Harry attend the funeral?]]></title>
