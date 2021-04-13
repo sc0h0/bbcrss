@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Apr 2021 14:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 14:34:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[It comes after all over-50s and those in high-risk groups in the UK have been offered a first dose.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56729897</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56729897</guid>
-            <pubDate>Tue, 13 Apr 2021 12:43:51 GMT</pubDate>
+            <pubDate>Tue, 13 Apr 2021 14:30:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in Scotland: Travel ban to be lifted from Friday]]></title>
@@ -37,6 +37,13 @@
             <pubDate>Tue, 13 Apr 2021 14:06:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: South Africa variant surge due to person travelling from Africa]]></title>
+            <description><![CDATA[A "significant" number of confirmed and probable cases have been found in Lambeth and Wandsworth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56729607</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56729607</guid>
+            <pubDate>Tue, 13 Apr 2021 14:20:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Daunte Wright shooting: Dozens arrested in fresh unrest in Minnesota]]></title>
             <description><![CDATA[The clashes come as police say Daunte Wright, 20, died after an officer mistook her gun for a Taser.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56729673</link>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56730447</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56730447</guid>
             <pubDate>Tue, 13 Apr 2021 13:49:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: England gets third jab as Moderna rollout begins]]></title>
-            <description><![CDATA[It offers an alternative to the AstraZeneca jab for under-30s, after very rare blood clot concerns.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56727510</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56727510</guid>
-            <pubDate>Tue, 13 Apr 2021 11:10:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jake Paul accused of sexual assault by Justine Paradise]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56734801</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56734801</guid>
             <pubDate>Tue, 13 Apr 2021 13:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nepal rhino numbers rise in 'exciting' milestone]]></title>
+            <description><![CDATA[The greater one-horned rhino came close to extinction, but a new count gives reasons to be cheerful.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56731079</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56731079</guid>
+            <pubDate>Tue, 13 Apr 2021 11:29:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Younger Brazilians fall ill as cases explode]]></title>
@@ -343,6 +350,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/56719025</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56719025</guid>
             <pubDate>Tue, 13 Apr 2021 08:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Snooker Championship 2021: Louis Heathcote's snooker shot]]></title>
+            <description><![CDATA[Louis Heathcote pulls off an outrageous shot to pot the yellow despite being snookered by Ryan Day during their World Championship qualifier.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/snooker/56735917</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/snooker/56735917</guid>
+            <pubDate>Tue, 13 Apr 2021 14:02:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Online racist abuse out of control, says anti-bullying charity]]></title>
@@ -693,20 +707,6 @@
             <link>https://www.bbc.co.uk/news/uk-21927210</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-21927210</guid>
             <pubDate>Fri, 09 Apr 2021 11:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Race report: Was controversy part of the plan?]]></title>
-            <description><![CDATA[How the government handled the release of a contentious report on racial disparity in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56578839</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56578839</guid>
-            <pubDate>Sat, 03 Apr 2021 11:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We found a baby on the subway - now he's our son']]></title>
-            <description><![CDATA[Danny Stewart saw something on the floor of an NY subway station - soon he would treasure it more than anything.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-56409764</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56409764</guid>
-            <pubDate>Sat, 03 Apr 2021 23:14:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
