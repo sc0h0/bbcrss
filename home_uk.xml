@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Apr 2021 06:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 06:36:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Mon, 12 Apr 2021 23:30:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid lockdown eases: England 'buzzing' after first night out in 97 days]]></title>
+            <description><![CDATA[As outdoor hospitality reopens, revellers find a "celebratory" atmosphere despite the cold weather.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56727568</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56727568</guid>
+            <pubDate>Tue, 13 Apr 2021 04:46:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: England gets third jab as Moderna rollout begins]]></title>
             <description><![CDATA[It offers an alternative to the AstraZeneca jab for under-30s, after very rare blood clot concerns.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56727510</link>
@@ -30,11 +37,11 @@
             <pubDate>Tue, 13 Apr 2021 05:03:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid lockdown eases: England 'buzzing' after first night out in 97 days]]></title>
-            <description><![CDATA[As outdoor hospitality reopens, revellers find the atmosphere "celebratory" despite the cold weather.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56727568</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56727568</guid>
-            <pubDate>Tue, 13 Apr 2021 04:46:36 GMT</pubDate>
+            <title><![CDATA[UK economy grew slightly in February]]></title>
+            <description><![CDATA[The economy "showed some improvement" as it grew 0.4% in February, according to official figures.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56729631</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56729631</guid>
+            <pubDate>Tue, 13 Apr 2021 06:33:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daunte Wright shooting by police in Minnesota 'accidental']]></title>
@@ -55,7 +62,7 @@
             <description><![CDATA[George Floyd's younger brother gave evidence as the prosecution ended its case against Derek Chauvin.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56727154</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56727154</guid>
-            <pubDate>Mon, 12 Apr 2021 22:48:52 GMT</pubDate>
+            <pubDate>Tue, 13 Apr 2021 06:24:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World's wealthiest 'at heart of climate problem']]></title>
@@ -86,18 +93,11 @@
             <pubDate>Tue, 13 Apr 2021 04:09:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gruppe S: German far-right group on trial for 'terror plot']]></title>
-            <description><![CDATA[The 12 men are accused of planning attacks on migrants, Muslims and politicians in Germany.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56716712</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56716712</guid>
-            <pubDate>Tue, 13 Apr 2021 03:34:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uefa Euro 2020: Trafalgar Square earmarked for 12,500-capacity fan park]]></title>
-            <description><![CDATA[Up to nine matches could be shown on giant TV screens in central London if licensing is approved.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56719454</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56719454</guid>
-            <pubDate>Tue, 13 Apr 2021 05:11:13 GMT</pubDate>
+            <title><![CDATA[BBC 'receives 100,000 complaints' over Prince Philip coverage]]></title>
+            <description><![CDATA[Thousands of viewers contacted the BBC to say they felt the amount of coverage was excessive.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56721078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56721078</guid>
+            <pubDate>Mon, 12 Apr 2021 21:46:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: Brothers' tributes and Cameron 'welcomes' inquiry]]></title>
@@ -262,7 +262,7 @@
         </item>
         <item>
             <title><![CDATA[Iran nuclear attack: Mystery surrounds nuclear sabotage at Natanz]]></title>
-            <description><![CDATA[Iran blames Israel, but was this a cyber attack or physical act of sabotage?]]></description>
+            <description><![CDATA[Iran blames Israel, but was this a cyber-attack or physical act of sabotage?]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-56722181</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56722181</guid>
             <pubDate>Mon, 12 Apr 2021 15:49:45 GMT</pubDate>
