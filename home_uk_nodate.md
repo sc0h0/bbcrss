@@ -1,4 +1,4 @@
-1. [Covid vaccine: All over-50s and high risk groups offered first dose](https://www.bbc.co.uk/news/uk-56725940) - Ministers meet a target of inviting the top nine priority groups to receive the vaccine by 15 April.
+1. [Covid: Over-45s invited to book vaccine](https://www.bbc.co.uk/news/uk-56729897) - People over 45 can now book a Covid jab via the NHS website, as the vaccination programme enters a new phase.
 2. [Covid lockdown eases: England 'buzzing' after first night out in 97 days](https://www.bbc.co.uk/news/uk-56727568) - As outdoor hospitality reopens, revellers find a "celebratory" atmosphere despite the cold weather.
 3. [Covid-19: England gets third jab as Moderna rollout begins](https://www.bbc.co.uk/news/uk-56727510) - It offers an alternative to the AstraZeneca jab for under-30s, after very rare blood clot concerns.
 4. [UK exports to EU rebound partially after January's slump](https://www.bbc.co.uk/news/business-56729631) - Despite the improvement, exports still remain below 2020 levels, the UK statistics body says.
