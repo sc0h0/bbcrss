@@ -31,7 +31,7 @@
 31. [Covid: 'Israel may be reaching herd immunity'](https://www.bbc.co.uk/news/health-56722186) - A leading doctor describes it as the "only explanation" for cases falling as restrictions are eased.
 32. [CEO Secrets: 'Taking risks is how we found our edge'](https://www.bbc.co.uk/news/business-56732929) - Public relations firm boss George James thought clients would be put off by his youth but turned his weakness into a strength.
 33. [Why 'stay-at-home parent' is a job title](https://www.bbc.co.uk/news/world-us-canada-56683854) - LinkedIn now gives parents a way to reflect a career gap. Can it help the return-to-work challenge?
-34. [LGBT homelessness: 'I had to put on a straight persona'](https://www.bbc.co.uk/news/uk-56718978) - Lockdown has pushed some young LGBTQ people into homelessness rather than face abuse.
+34. [LGBT homelessness: 'I had to pretend to be straight'](https://www.bbc.co.uk/news/uk-56718978) - Lockdown has pushed some young LGBTQ people into homelessness rather than face abuse.
 35. [Is Russia going to war with Ukraine and other questions](https://www.bbc.co.uk/news/world-europe-56720589) - What you need to know about Russia's troop build-up around eastern Ukraine.
 36. [The anti-vax movement targeting German children](https://www.bbc.co.uk/news/blogs-trending-56675874) - An anti-lockdown, anti-vaccine movement with ties to the far right has recruited hundreds of children.
 37. [Semi-finals a great achievement, says Tuchel - but does he want Liverpool or Real?](https://www.bbc.co.uk/sport/football/56741060) - Chelsea boss Thomas Tuchel says his side reaching the last four of the Champions League is a "great achievement" - but would he rather face Liverpool or Real Madrid?
