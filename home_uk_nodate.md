@@ -5,8 +5,8 @@
 5. [Covid-19: Care home staff in England may have to get jab, and long airport queues](https://www.bbc.co.uk/news/uk-56744272) - Five things you need to know about the coronavirus pandemic this Wednesday evening.
 6. [AstraZeneca vaccine: Denmark stops rollout completely](https://www.bbc.co.uk/news/world-europe-56744474) - It is the first European country to fully withdraw the jab over possible links to rare blood clots.
 7. [Afghanistan: Biden calls for end to 'America's longest war'](https://www.bbc.co.uk/news/world-us-canada-56750439) - "It is time for American troops to come home," says Joe Biden, the fourth president to oversee the war.
-8. [Bernie Madoff: Disgraced financier dies in prison](https://www.bbc.co.uk/news/business-56750103) - Bernie Madoff admitted he had conned investors out of billions of dollars in a Ponzi scheme.
-9. [Heathrow says airport queues are becoming 'untenable'](https://www.bbc.co.uk/news/business-56743571) - The airport says some travellers are facing waits of up to six hours.
+8. [Heathrow says airport queues are becoming 'untenable'](https://www.bbc.co.uk/news/business-56743571) - The airport says some travellers are facing waits of up to six hours.
+9. [Asda to axe 1,200 bakery jobs as shoppers shun loaves](https://www.bbc.co.uk/news/business-56751761) - The supermarket giant says customers have swapped traditional loaves for speciality breads and wraps.
 10. [Covid jab could be required for England care home staff](https://www.bbc.co.uk/news/uk-56750679) - Nearly half of all older adult care homes do not meet recommended vaccine thresholds, the government says.
 11. [Hundreds lose job in British Gas contracts row](https://www.bbc.co.uk/news/business-56746656) - Almost 500 engineers have been let go after they refused to sign new contracts forcing them to work more hours.
 12. [Prince Philip: Rehearsals take place for Duke of Edinburgh's funeral](https://www.bbc.co.uk/news/uk-56746947) - The Duke of Edinburgh's ceremonial funeral will be held on Saturday in line with Covid regulations.
