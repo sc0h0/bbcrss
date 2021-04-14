@@ -1,12 +1,12 @@
 1. ['Mix and match' UK Covid vaccine trial expanded](https://www.bbc.co.uk/news/health-56730526) - Using different shots for the first and second doses might give better protection, say experts.
 2. [The Queen carries out first duty since Prince Philip's death](https://www.bbc.co.uk/news/uk-56740980) - Her Majesty receives the wand and insignia of the Lord Chamberlain in a private ceremony at Windsor.
-3. [Johnson & Johnson vaccine paused over rare blood clots](https://www.bbc.co.uk/news/world-us-canada-56733715) - Following rare blood clots, the US, South Africa and EU have suspended the jab.
+3. [US seeks China climate agreements ahead of Biden summit](https://www.bbc.co.uk/news/science-environment-56739896) - US envoy John Kerry will hold talks in Shanghai ahead of a climate summit hosted by President Biden.
 4. [Black youth unemployment 'hits 35% in pandemic'](https://www.bbc.co.uk/news/business-56737929) - Young black people are three times more likely to be out of work than white peers, research shows.
 5. [UK woodlands 'at crisis point' amid wildlife decline](https://www.bbc.co.uk/news/science-environment-56738428) - A review of the state of Britain's native woods and trees finds only 7% are in good condition.
 6. [Mary Agyapong: Pregnant nurse’s family yet to get GoFundMe money](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56734016) - More than £186,000 was raised on a GoFundMe page set up after Mary Agyapong died with Covid-19.
 7. [US says troops to leave Afghanistan by 11 September](https://www.bbc.co.uk/news/world-us-canada-56737563) - President Biden is to announce on Wednesday US troops will leave by mid-September instead of May.
 8. [Greensill: Top civil servant 'joined firm before quitting'](https://www.bbc.co.uk/news/uk-politics-56733465) - Bill Crothers's position was "agreed" to by the Cabinet Office, a letter from a lobbying watchdog reveals.
-9. [US seeks China climate agreements ahead of Biden summit](https://www.bbc.co.uk/news/science-environment-56739896) - US envoy John Kerry will hold talks in Shanghai ahead of a climate summit hosted by President Biden.
+9. [Johnson & Johnson vaccine paused over rare blood clots](https://www.bbc.co.uk/news/world-us-canada-56733715) - Following rare blood clots, the US, South Africa and EU have suspended the jab.
 10. [US police chief resigns over black motorist's death](https://www.bbc.co.uk/news/world-us-canada-56740199) - The shooting of Daunte Wright in Minneapolis was described by police as accidental but sparked unrest.
 11. [Derek Chauvin trial: Use of force on George Floyd 'justified'](https://www.bbc.co.uk/news/world-us-canada-56741100) - An expert called by the defence says officer Derek Chauvin acted with "objective reasonableness".
 12. [Rare footage captures fight between two wild pandas](https://www.bbc.co.uk/news/world-asia-china-56735149) - Some rare footage of two wild pandas having a fierce fight has been captured by researchers in China.
