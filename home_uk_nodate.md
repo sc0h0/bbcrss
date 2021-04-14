@@ -1,4 +1,4 @@
-1. [Greensill: No 10 rejects calls for parliamentary inquiry](https://www.bbc.co.uk/news/uk-politics-56743426) - Tory MPs will vote against Labour's demand for a probe that could question witnesses in public.
+1. [Greensill: Labour's call to widen lobbying probe rejected by No 10](https://www.bbc.co.uk/news/uk-politics-56743426) - Tory MPs will vote against Labour's demand for an inquiry that could question witnesses in public.
 2. ['Mix and match' UK Covid vaccine trial expanded](https://www.bbc.co.uk/news/health-56730526) - Using different shots for the first and second doses might give better protection, say experts.
 3. [The Queen carries out first duty since Prince Philip's death](https://www.bbc.co.uk/news/uk-56740980) - Her Majesty receives the wand and insignia of the Lord Chamberlain in a private ceremony at Windsor.
 4. [Mary Agyapong: Pregnant nurse’s family yet to get GoFundMe money](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56734016) - More than £186,000 was raised on a GoFundMe page set up after Mary Agyapong died with Covid-19.
@@ -29,9 +29,9 @@
 29. [Afghans face pivotal moment as US prepares to 'close the book'](https://www.bbc.co.uk/news/world-asia-56741106) - Could the US decision to pull its troops from Afghanistan by 11 September lead to civil war?
 30. [Why $30m didn't protect Nigerian pupils after Chibok](https://www.bbc.co.uk/news/world-africa-56732909) - The 2014 student abductions led to a plan backed by the UK but little has come of it seven years on.
 31. [Covid: 'Israel may be reaching herd immunity'](https://www.bbc.co.uk/news/health-56722186) - A leading doctor describes it as the "only explanation" for cases falling as restrictions are eased.
-32. [CEO Secrets: 'Taking risks is how we found our edge'](https://www.bbc.co.uk/news/business-56732929) - Public relations firm boss George James thought clients would be put off by his youth but turned his weakness into a strength.
-33. [Why 'stay-at-home parent' is a job title](https://www.bbc.co.uk/news/world-us-canada-56683854) - LinkedIn now gives parents a way to reflect a career gap. Can it help the return-to-work challenge?
-34. [LGBT homelessness: 'I had to pretend to be straight'](https://www.bbc.co.uk/news/uk-56718978) - Lockdown has pushed some young LGBTQ people into homelessness rather than face abuse.
+32. [LGBT homelessness: 'I had to pretend to be straight'](https://www.bbc.co.uk/news/uk-56718978) - Lockdown has pushed some young LGBTQ people into homelessness rather than face abuse.
+33. [CEO Secrets: 'Taking risks is how we found our edge'](https://www.bbc.co.uk/news/business-56732929) - Public relations firm boss George James thought clients would be put off by his youth but turned his weakness into a strength.
+34. [Why 'stay-at-home parent' is a job title](https://www.bbc.co.uk/news/world-us-canada-56683854) - LinkedIn now gives parents a way to reflect a career gap. Can it help the return-to-work challenge?
 35. [Is Russia going to war with Ukraine and other questions](https://www.bbc.co.uk/news/world-europe-56720589) - What you need to know about Russia's troop build-up around eastern Ukraine.
 36. [The anti-vax movement targeting German children](https://www.bbc.co.uk/news/blogs-trending-56675874) - An anti-lockdown, anti-vaccine movement with ties to the far right has recruited hundreds of children.
 37. [Semi-finals a great achievement, says Tuchel - but does he want Liverpool or Real?](https://www.bbc.co.uk/sport/football/56741060) - Chelsea boss Thomas Tuchel says his side reaching the last four of the Champions League is a "great achievement" - but would he rather face Liverpool or Real Madrid?
