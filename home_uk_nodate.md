@@ -7,8 +7,8 @@
 7. [US says troops to leave Afghanistan by 11 September](https://www.bbc.co.uk/news/world-us-canada-56737563) - President Biden is to announce on Wednesday US troops will leave by mid-September instead of May.
 8. [Greensill: Top civil servant 'joined firm before quitting'](https://www.bbc.co.uk/news/uk-politics-56733465) - Bill Crothers's position was "agreed" to by the Cabinet Office, a letter from a lobbying watchdog reveals.
 9. [Johnson & Johnson vaccine paused over rare blood clots](https://www.bbc.co.uk/news/world-us-canada-56733715) - Following rare blood clots, the US, South Africa and EU have suspended the jab.
-10. [US police chief resigns over black motorist's death](https://www.bbc.co.uk/news/world-us-canada-56740199) - The shooting of Daunte Wright in Minneapolis was described by police as accidental but sparked unrest.
-11. [Derek Chauvin trial: Use of force on George Floyd 'justified'](https://www.bbc.co.uk/news/world-us-canada-56741100) - An expert called by the defence says officer Derek Chauvin acted with "objective reasonableness".
+10. [Derek Chauvin trial: Use of force on George Floyd 'justified'](https://www.bbc.co.uk/news/world-us-canada-56741100) - An expert called by the defence says officer Derek Chauvin acted with "objective reasonableness".
+11. [Neighbours: Actress Sharon Johal also alleges racism on soap](https://www.bbc.co.uk/news/world-australia-56741571) - Sharon Johal says she faced taunts and mockery of her Indian background from other castmates.
 12. [Rare footage captures fight between two wild pandas](https://www.bbc.co.uk/news/world-asia-china-56735149) - Some rare footage of two wild pandas having a fierce fight has been captured by researchers in China.
 13. [Newquay is hottest sellers' market, says Rightmove](https://www.bbc.co.uk/news/business-56734468) - Online property portal names Cornish surfing town as place where properties sell fastest.
 14. [Newspaper headlines: 'Sleazy access' in lobbying row and 'thirst in the queue'](https://www.bbc.co.uk/news/blogs-the-papers-56740790) - The papers cover new revelations over David Cameron's lobbying and the easing of virus restrictions.
