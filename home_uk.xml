@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Apr 2021 08:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Apr 2021 09:28:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Wed, 14 Apr 2021 06:39:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Louisiana ship capsize: Search for survivors from 'lift' vessel]]></title>
+            <description><![CDATA[Rescuers have so far saved six of the commercial ship's reported 18 crew members from the water.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56742996</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56742996</guid>
+            <pubDate>Wed, 14 Apr 2021 08:50:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tesco counts cost of Covid trading as profits drop]]></title>
             <description><![CDATA[The UK's largest supermarket saw full-year sales soar but the pandemic hit its bottom line.]]></description>
             <link>https://www.bbc.co.uk/news/business-56742832</link>
@@ -79,25 +86,18 @@
             <pubDate>Wed, 14 Apr 2021 08:38:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jake Paul: YouTuber denies assaulting TikTok star Justine Paradise]]></title>
+            <description><![CDATA[The YouTuber has been accused of sexually assaulting the TikTok star, but says the claims are false.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56743275</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56743275</guid>
+            <pubDate>Wed, 14 Apr 2021 09:02:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[County lines gang 'recruited teen in 80 minutes via Snapchat']]></title>
             <description><![CDATA[A boy tells how he replied to an advert on Snapchat and was groomed to sell drugs at the age of 14.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-56717403</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-56717403</guid>
             <pubDate>Wed, 14 Apr 2021 05:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chinese man kidnapped and killed in elaborate body swap scheme]]></title>
-            <description><![CDATA[The victim was used as a replacement for another corpse, whose family wanted to avoid a burial ban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-56742156</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56742156</guid>
-            <pubDate>Wed, 14 Apr 2021 07:24:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ludwig Ahgren breaks Twitch subscription record after 31-day stint]]></title>
-            <description><![CDATA[Ludwig Ahgren has more than 282,000 paying subscribers after a month-long Twitch ‘subathon‘.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56741531</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56741531</guid>
-            <pubDate>Wed, 14 Apr 2021 06:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: 'Sleazy access' in lobbying row and 'thirst in the queue']]></title>
@@ -282,6 +282,13 @@
             <pubDate>Wed, 14 Apr 2021 07:29:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fight Talk; Joshua, Fury, Benn, Khan, Shields, Holyfield, Courtney]]></title>
+            <description><![CDATA[Khan responds to Benn, Joshua-Fury is within reach, Holyfield set for ring return and Shields makes her position clear.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/56715230</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56715230</guid>
+            <pubDate>Wed, 14 Apr 2021 09:12:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['People used to punch me, kick me, spit on me' - from fleeing war to Olympic hopeful]]></title>
             <description><![CDATA[Asil Sultani discusses fleeing Afghanistan as a child and how he hopes to represent Team Refugee in karate at the Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/56729309</link>
@@ -289,25 +296,11 @@
             <pubDate>Wed, 14 Apr 2021 07:03:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A landmark moment for Pochettino as PSG beat Bayern - but the end for Flick?]]></title>
-            <description><![CDATA[Wednesday's Champions League result in Paris feels like a launchpad for one manager's tenure, but has all the hallmarks of an ending for the other.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56740991</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56740991</guid>
-            <pubDate>Tue, 13 Apr 2021 23:09:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How prepared are Japan and Team GB? Tokyo Olympics 100-day countdown begins]]></title>
             <description><![CDATA[With 100 days until the Olympic opening ceremony, how prepared are Tokyo and Team GB for the rescheduled Games?]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/56737231</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/56737231</guid>
             <pubDate>Wed, 14 Apr 2021 05:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fulham wonderkid Delano Splatt, 16, takes on our MOTDx challenge]]></title>
-            <description><![CDATA[Fulham wonderkid Delano Splatt, 16, is first to take on our brand new 50 second MOTDx challenge. It will test speed, skill agility and goalscoring.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56740409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56740409</guid>
-            <pubDate>Wed, 14 Apr 2021 05:32:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What's the risk on transport?]]></title>
