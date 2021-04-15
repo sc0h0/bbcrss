@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Apr 2021 05:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 06:30:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,13 +65,6 @@
             <pubDate>Thu, 15 Apr 2021 04:21:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Psilocybin: Magic mushroom compound 'promising' for depression]]></title>
-            <description><![CDATA[A study of 59 people compared the drug with a conventional antidepressant.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56745139</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56745139</guid>
-            <pubDate>Thu, 15 Apr 2021 00:05:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rare condition SMAS left woman in 'excruciating' pain for 16 months]]></title>
             <description><![CDATA[Rebecca Bostock's case went undiagnosed for 16 months before an emergency operation saved her life.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-56748553</link>
@@ -79,11 +72,18 @@
             <pubDate>Thu, 15 Apr 2021 05:21:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Daunte Wright shooting: Ex-officer Kim Potter charged over killing]]></title>
+            <title><![CDATA[Psilocybin: Magic mushroom compound 'promising' for depression]]></title>
+            <description><![CDATA[A study of 59 people compared the drug with a conventional antidepressant.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56745139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56745139</guid>
+            <pubDate>Thu, 15 Apr 2021 00:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Daunte Wright shooting: US ex-officer Kim Potter charged over killing]]></title>
             <description><![CDATA[The former officer who shot Daunte Wright in Minneapolis faces a charge of second-degree manslaughter.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56752821</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56752821</guid>
-            <pubDate>Thu, 15 Apr 2021 03:55:47 GMT</pubDate>
+            <pubDate>Thu, 15 Apr 2021 06:16:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MasterChef winner: Tom Rhodes crowned 17th champion]]></title>
@@ -101,7 +101,7 @@
         </item>
         <item>
             <title><![CDATA[Matchbox cars get green makeover in eco drive]]></title>
-            <description><![CDATA[The toymaker is launching new toy cars based on electric models and making some from recycled materials.]]></description>
+            <description><![CDATA[The toymaker is launching new cars based on electric models and making some from recycled materials.]]></description>
             <link>https://www.bbc.co.uk/news/business-56728387</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56728387</guid>
             <pubDate>Thu, 15 Apr 2021 03:24:55 GMT</pubDate>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56754605</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56754605</guid>
             <pubDate>Thu, 15 Apr 2021 05:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India Covid-19 second wave: ‘A coronavirus tsunami we had never seen before’]]></title>
+            <description><![CDATA[India's cases plummeted earlier this year, but are now on the rise again. What happened?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56747867</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56747867</guid>
+            <pubDate>Wed, 14 Apr 2021 23:01:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: Royals release new photos of the Duke of Edinburgh]]></title>
@@ -219,18 +226,18 @@
             <pubDate>Wed, 14 Apr 2021 23:01:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mahrez and Foden send Man City into last four with win in Dortmund]]></title>
-            <description><![CDATA[Manchester City through to the semi-finals of the Champions League after sealing last-eight victory over Borussia Dortmund courtesy of a comeback win in Germany.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56736853</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56736853</guid>
-            <pubDate>Wed, 14 Apr 2021 21:39:05 GMT</pubDate>
+            <title><![CDATA['Kylian Mbappe are you ready?' - Manchester City are bidding to 'build more history']]></title>
+            <description><![CDATA[BBC Sport picks through the best reaction from players, pundits and more to capture the mood surrounding Manchester City's superb victory in Dortmund.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56754630</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56754630</guid>
+            <pubDate>Wed, 14 Apr 2021 22:30:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Liverpool 0-0 Real Madrid: Liverpool knocked out of Champions League after goalless draw at Anfield]]></title>
-            <description><![CDATA[Real Madrid's three first-leg goals are enough to knock Liverpool out of the Champions League after a goalless draw at Anfield.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56738030</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56738030</guid>
-            <pubDate>Wed, 14 Apr 2021 22:04:19 GMT</pubDate>
+            <title><![CDATA[A minor renewal or a major overhaul? Klopp has some serious questions to ponder at Liverpool]]></title>
+            <description><![CDATA[A minor renewal or a major overhaul? Jurgen Klopp has some serious questions to consider as Liverpool look beyond this injury-disrupted season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56754785</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56754785</guid>
+            <pubDate>Wed, 14 Apr 2021 22:52:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stokes named Wisden's leading cricketer in the world for second year running]]></title>
@@ -254,18 +261,11 @@
             <pubDate>Thu, 15 Apr 2021 05:12:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pidcock and Cavendish both win as two generations of British talent light up cycling]]></title>
-            <description><![CDATA[Britain's Tom Pidcock wins his first race for Ineos Grenadiers, as Mark Cavendish takes his third stage win at the Tour of Turkey.]]></description>
-            <link>https://www.bbc.co.uk/sport/cycling/56735384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/56735384</guid>
-            <pubDate>Wed, 14 Apr 2021 16:55:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A minor renewal or a major overhaul? Klopp has some serious questions to ponder at Liverpool]]></title>
-            <description><![CDATA[A minor renewal or a major overhaul? Jurgen Klopp has some serious questions to consider as Liverpool look beyond this injury-disrupted season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56754785</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56754785</guid>
-            <pubDate>Wed, 14 Apr 2021 22:52:32 GMT</pubDate>
+            <title><![CDATA[FA Cup: Watch all Manchester City's goals from their journey to semi-finals]]></title>
+            <description><![CDATA[Watch all of Manchester City's goals from their journey to the 2020-21 FA Cup semi-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56680530</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56680530</guid>
+            <pubDate>Thu, 15 Apr 2021 05:25:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's happening with universities as lockdown eases?]]></title>
