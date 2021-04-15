@@ -9,10 +9,10 @@
 9. [Instagram fixes ‘mistake’ promoting harmful diet content](https://www.bbc.co.uk/news/technology-56750088) - Some users said they were offered "appetite suppressants" and "fasting" by the search feature.
 10. [Deliveroo sees orders and sales more than double in first quarter](https://www.bbc.co.uk/news/business-56756419) - The food delivery firm says it cannot tell how much the recent growth is due to the impact of lockdown.
 11. [MasterChef winner: Tom Rhodes crowned 17th champion](https://www.bbc.co.uk/news/entertainment-arts-56753806) - The broadcast of the show's final was postponed following the Duke of Edinburgh's death on Friday.
-12. [Charity shops tell donators: 'Think before giving'](https://www.bbc.co.uk/news/business-56746310) - Charity retailers ask givers to book before just turning up with donations as people flock back.
+12. [Charity shops tell donors: 'Think before giving'](https://www.bbc.co.uk/news/business-56746310) - Charity retailers ask givers to book before just turning up with donations as people flock back.
 13. [Newspaper headlines: 'Sleaze is back' and a 'grand line-up' of royals](https://www.bbc.co.uk/news/blogs-the-papers-56754605) - The David Cameron lobbying row and a new image of Prince Philip and family feature in the papers.
 14. [India Covid-19 second wave: ‘A coronavirus tsunami we had never seen before’](https://www.bbc.co.uk/news/world-asia-india-56747867) - India's cases plummeted earlier this year, but are now on the rise again. What happened?
-15. [Prince Philip: Royals release new photos of the Duke of Edinburgh](https://www.bbc.co.uk/news/uk-56753327) - Members of the Royal Family release previously unpublished photographs of the Duke of Edinburgh.
+15. [Covid: 'Getting the vaccine in Ramadan helps others'](https://www.bbc.co.uk/news/uk-england-derbyshire-56715038) - Many Muslims are welcoming pop-up clinics to support the vaccination programme during Ramadan.
 16. [In pictures: 2021 Sony World Photography Awards](https://www.bbc.co.uk/news/in-pictures-56719188) - Craig Easton wins Sony Photographer of the Year award with photos on community representation in Blackburn.
 17. [Matchbox cars get green makeover in eco drive](https://www.bbc.co.uk/news/business-56728387) - The toymaker is launching new cars based on electric models and making some from recycled materials.
 18. [Senegal: The HIV success story that’s failing gay men](https://www.bbc.co.uk/news/world-africa-56751289) - Senegal has successfully reduced HIV but infection remains high among gay men.
