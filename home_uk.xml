@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Apr 2021 14:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 14:41:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,13 +65,6 @@
             <pubDate>Thu, 15 Apr 2021 11:37:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook urged to scrap Instagram for children plans]]></title>
-            <description><![CDATA[A campaign group claims the "image-obsessed" platform is dangerous for children's health and privacy.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56757586</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56757586</guid>
-            <pubDate>Thu, 15 Apr 2021 10:39:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Man admits harassing BBC reporter Sima Kotecha]]></title>
             <description><![CDATA[Sima Kotecha was harassed while preparing for a broadcast in Leicester city centre.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-56750152</link>
@@ -93,11 +86,18 @@
             <pubDate>Thu, 15 Apr 2021 11:17:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mystery tree beast turns out to be croissant]]></title>
-            <description><![CDATA[Polish animal welfare officers responding to a call discover the creature is in fact a pastry.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56757956</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56757956</guid>
-            <pubDate>Thu, 15 Apr 2021 10:22:13 GMT</pubDate>
+            <title><![CDATA[Monte Carlo Masters: Dan Evans shocks world number one Novak Djokovic]]></title>
+            <description><![CDATA[Britain's Dan Evans claims the biggest win of his career by beating world number one Novak Djokovic 6-4 7-5 in Monte Carlo.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/56761294</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56761294</guid>
+            <pubDate>Thu, 15 Apr 2021 13:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canadian politician seen naked in work Zoom call]]></title>
+            <description><![CDATA[Canadian MP William Amos apologises, saying he was changing after going for a jog.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56760714</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56760714</guid>
+            <pubDate>Thu, 15 Apr 2021 13:24:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google Earth time-lapses show a changing planet]]></title>
@@ -254,13 +254,6 @@
             <pubDate>Thu, 15 Apr 2021 09:14:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GB's Evans seals famous win over Djokovic in Monte Carlo]]></title>
-            <description><![CDATA[Britain's Dan Evans claims the biggest win of his career by beating world number one Novak Djokovic 6-4 7-5 in Monte Carlo.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/56761294</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56761294</guid>
-            <pubDate>Thu, 15 Apr 2021 13:49:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A minor renewal or a major overhaul? Klopp has some serious questions to ponder at Liverpool]]></title>
             <description><![CDATA[A minor renewal or a major overhaul? Jurgen Klopp has some serious questions to consider as Liverpool look beyond this injury-disrupted season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56754785</link>
@@ -268,11 +261,25 @@
             <pubDate>Wed, 14 Apr 2021 22:52:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GB face Mexico without fans, Konta or karaoke in Billie Jean King Cup - live on the BBC]]></title>
+            <description><![CDATA[Great Britain take on Mexico in a Billie Jean King Cup play-off with no fans, no Johanna Konta and no karaoke sessions.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/56740660</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56740660</guid>
+            <pubDate>Thu, 15 Apr 2021 13:37:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MOTDx: Arsenal's Bukayo Saka picks his Match of the Day Mix playlist]]></title>
             <description><![CDATA[Arsenal's rising star Bukayo Saka speaks to MOTDx's Josh Denzel about football and music and picks his Match of the Day Mix playlist of his favourite tunes.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/56763439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56763439</guid>
             <pubDate>Thu, 15 Apr 2021 13:43:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NBA: Watch Luka Doncic throw stunning buzzer-beater for Dallas Mavericks]]></title>
+            <description><![CDATA[Watch as Luka Doncic throws a stunning buzzer-beater to secure a dramatic 114-113 victory for the Dallas Mavericks over the Memphis Grizzlies.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/basketball/56758416</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/basketball/56758416</guid>
+            <pubDate>Thu, 15 Apr 2021 09:55:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's happening with universities as lockdown eases?]]></title>
