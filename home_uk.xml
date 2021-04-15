@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Apr 2021 19:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 20:13:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -163,20 +163,6 @@
             <pubDate>Thu, 15 Apr 2021 05:16:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In pictures: 2021 Sony World Photography Awards]]></title>
-            <description><![CDATA[Craig Easton wins Sony Photographer of the Year award with photos on community representation in Blackburn.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-56719188</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56719188</guid>
-            <pubDate>Thu, 15 Apr 2021 05:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senegal: The HIV success story that’s failing gay men]]></title>
-            <description><![CDATA[Senegal has successfully reduced HIV but infection remains high among gay men.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56751289</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56751289</guid>
-            <pubDate>Wed, 14 Apr 2021 23:01:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: 'We have won the war, America has lost', say Taliban]]></title>
             <description><![CDATA[A BBC team meets the Taliban, a group that clearly sees itself as Afghanistan's government-in-waiting.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56747158</link>
@@ -254,11 +240,18 @@
             <pubDate>Thu, 15 Apr 2021 14:43:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Classic battles with Vettel still surpass new Verstappen rivalry - Hamilton]]></title>
-            <description><![CDATA[Lewis Hamilton says his battle with Max Verstappen for this year's drivers' title does not yet live up to his rivalry with Sebastian Vettel.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/56765731</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56765731</guid>
-            <pubDate>Thu, 15 Apr 2021 16:52:03 GMT</pubDate>
+            <title><![CDATA[Renshaw sets new British record at Olympic trials]]></title>
+            <description><![CDATA[Molly Renshaw looks set for a place at Tokyo 2020 after winning gold and setting a new British record in the 200m breaststroke at the Olympic trials.]]></description>
+            <link>https://www.bbc.co.uk/sport/swimming/56767777</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/56767777</guid>
+            <pubDate>Thu, 15 Apr 2021 19:46:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pierre-Emerick Aubameyang: Arsenal forward treated in hospital for malaria]]></title>
+            <description><![CDATA[Arsenal forward Pierre-Emerick Aubameyang has been treated in hospital after he contracted malaria while on international duty with Gabon.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56767566</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56767566</guid>
+            <pubDate>Thu, 15 Apr 2021 19:21:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['We'll gloss over it this time' - Dulux apologises for mocking Tottenham]]></title>
@@ -268,11 +261,11 @@
             <pubDate>Thu, 15 Apr 2021 17:29:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pierre-Emerick Aubameyang: Arsenal forward treated in hospital for malaria]]></title>
-            <description><![CDATA[Arsenal forward Pierre-Emerick Aubameyang has been treated in hospital after he contracted malaria while on international duty with Gabon.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56767566</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56767566</guid>
-            <pubDate>Thu, 15 Apr 2021 19:21:54 GMT</pubDate>
+            <title><![CDATA[Classic battles with Vettel still surpass new Verstappen rivalry - Hamilton]]></title>
+            <description><![CDATA[Lewis Hamilton says his battle with Max Verstappen for this year's drivers' title does not yet live up to his rivalry with Sebastian Vettel.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/56765731</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56765731</guid>
+            <pubDate>Thu, 15 Apr 2021 16:52:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MOTDx: Arsenal's Bukayo Saka picks his Match of the Day Mix playlist]]></title>
