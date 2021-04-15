@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Apr 2021 07:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 08:16:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Wed, 14 Apr 2021 22:29:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ITV Wales presenter's 'bully' ex-husband jailed for three years]]></title>
+            <description><![CDATA[Jonathan Wignall harassed and stalked Ruth Dodsworth over nine years, a court has heard.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56753460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56753460</guid>
+            <pubDate>Thu, 15 Apr 2021 07:49:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Vaccine passports could create 'two-tier society', equality watchdog warns]]></title>
             <description><![CDATA[Vaccine certificates could help to reopen society but risk discrimination, a UK equality body warns.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56755161</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-56756419</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56756419</guid>
             <pubDate>Thu, 15 Apr 2021 06:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MasterChef winner: Tom Rhodes crowned 17th champion]]></title>
-            <description><![CDATA[The broadcast of the show's final was postponed following the Duke of Edinburgh's death on Friday.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56753806</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56753806</guid>
-            <pubDate>Wed, 14 Apr 2021 21:27:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Charity shops tell donors: 'Think before giving']]></title>
@@ -266,6 +266,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/56680530</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56680530</guid>
             <pubDate>Thu, 15 Apr 2021 05:25:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FA Cup: Watch all Chelsea's goals from their journey to semi-finals]]></title>
+            <description><![CDATA[Watch all of Chelsea's goals from their journey to the 2020-21 FA Cup semi-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56691119</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56691119</guid>
+            <pubDate>Thu, 15 Apr 2021 05:31:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's happening with universities as lockdown eases?]]></title>
