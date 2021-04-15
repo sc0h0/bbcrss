@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Apr 2021 04:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 05:25:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Thu, 15 Apr 2021 01:40:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chauvin trial: Floyd's death should be 'undetermined', defence expert says]]></title>
-            <description><![CDATA[An expert called by the defence says drugs and heart problems contributed to George Floyd's death.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56753298</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56753298</guid>
-            <pubDate>Wed, 14 Apr 2021 22:29:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: 82% of positive rapid tests 'were correct']]></title>
             <description><![CDATA[There had been concerns that large numbers would have to self-isolate after a false positive result.]]></description>
             <link>https://www.bbc.co.uk/news/health-56750460</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56750460</guid>
             <pubDate>Wed, 14 Apr 2021 23:50:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chauvin trial: Floyd's death should be 'undetermined', defence expert says]]></title>
+            <description><![CDATA[An expert called by the defence says drugs and heart problems contributed to George Floyd's death.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56753298</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56753298</guid>
+            <pubDate>Wed, 14 Apr 2021 22:29:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: 'We have won the war, America has lost', say Taliban]]></title>
@@ -44,13 +44,6 @@
             <pubDate>Wed, 14 Apr 2021 23:18:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Psilocybin: Magic mushroom compound 'promising' for depression]]></title>
-            <description><![CDATA[A study of 59 people compared the drug with a conventional antidepressant.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56745139</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56745139</guid>
-            <pubDate>Thu, 15 Apr 2021 00:05:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Instagram fixes ‘mistake’ promoting harmful diet content]]></title>
             <description><![CDATA[Some users said they were offered "appetite suppressants" and "fasting" by the search feature.]]></description>
             <link>https://www.bbc.co.uk/news/technology-56750088</link>
@@ -58,11 +51,11 @@
             <pubDate>Thu, 15 Apr 2021 00:07:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Daunte Wright shooting: Ex-officer Kim Potter charged over killing]]></title>
-            <description><![CDATA[The former officer who shot Daunte Wright in Minneapolis faces a charge of second-degree manslaughter.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56752821</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56752821</guid>
-            <pubDate>Thu, 15 Apr 2021 03:55:47 GMT</pubDate>
+            <title><![CDATA[Sir David Attenborough's new doc: 'Humans are intruders']]></title>
+            <description><![CDATA[Sir David Attenborough fronts a new documentary on lockdown's effect on the natural world.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56752541</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56752541</guid>
+            <pubDate>Thu, 15 Apr 2021 05:03:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Vaccine passports could create 'two-tier society', equality watchdog warns]]></title>
@@ -72,11 +65,18 @@
             <pubDate>Thu, 15 Apr 2021 04:21:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Queen appoints new Lord Chamberlain ahead of Prince Philip's funeral]]></title>
-            <description><![CDATA[Lord Parker, a former head of MI5, receives the wand and insignia of office at a ceremony in Windsor.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56752755</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56752755</guid>
-            <pubDate>Wed, 14 Apr 2021 21:09:02 GMT</pubDate>
+            <title><![CDATA[Psilocybin: Magic mushroom compound 'promising' for depression]]></title>
+            <description><![CDATA[A study of 59 people compared the drug with a conventional antidepressant.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56745139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56745139</guid>
+            <pubDate>Thu, 15 Apr 2021 00:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Daunte Wright shooting: Ex-officer Kim Potter charged over killing]]></title>
+            <description><![CDATA[The former officer who shot Daunte Wright in Minneapolis faces a charge of second-degree manslaughter.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56752821</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56752821</guid>
+            <pubDate>Thu, 15 Apr 2021 03:55:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[St Vincent volcano: UN warns humanitarian crisis will last months]]></title>
@@ -84,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-56754885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56754885</guid>
             <pubDate>Thu, 15 Apr 2021 00:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matchbox cars get green makeover in eco drive]]></title>
-            <description><![CDATA[The toymaker is launching new toy cars based on electric models and making some from recycled materials.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56728387</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56728387</guid>
-            <pubDate>Thu, 15 Apr 2021 03:24:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MasterChef winner: Tom Rhodes crowned 17th champion]]></title>
@@ -107,11 +100,18 @@
             <pubDate>Wed, 14 Apr 2021 23:01:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Matchbox cars get green makeover in eco drive]]></title>
+            <description><![CDATA[The toymaker is launching new toy cars based on electric models and making some from recycled materials.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56728387</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56728387</guid>
+            <pubDate>Thu, 15 Apr 2021 03:24:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Newspaper headlines: 'Sleaze is back' and a 'grand line-up' of royals]]></title>
             <description><![CDATA[The David Cameron lobbying row and a new image of Prince Philip and family feature in the papers.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56754605</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56754605</guid>
-            <pubDate>Wed, 14 Apr 2021 23:10:29 GMT</pubDate>
+            <pubDate>Thu, 15 Apr 2021 05:00:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: Royals release new photos of the Duke of Edinburgh]]></title>
@@ -119,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/uk-56753327</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56753327</guid>
             <pubDate>Wed, 14 Apr 2021 18:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: 2021 Sony World Photography Awards]]></title>
+            <description><![CDATA[Craig Easton wins Sony Photographer of the Year award with photos on community representation in Blackburn.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-56719188</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56719188</guid>
+            <pubDate>Thu, 15 Apr 2021 05:01:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senegal: The HIV success story that’s failing gay men]]></title>
@@ -240,18 +247,18 @@
             <pubDate>Wed, 14 Apr 2021 20:45:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bukayo Saka: Why 'mesmeric' teenager could be future Arsenal captain]]></title>
+            <description><![CDATA[A 'mesmeric' talent who could have a big few months ahead with Arsenal and England - we speak to the key figures in Bukayo Saka's development.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56726954</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56726954</guid>
+            <pubDate>Thu, 15 Apr 2021 05:12:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pidcock and Cavendish both win as two generations of British talent light up cycling]]></title>
             <description><![CDATA[Britain's Tom Pidcock wins his first race for Ineos Grenadiers, as Mark Cavendish takes his third stage win at the Tour of Turkey.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/56735384</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/56735384</guid>
             <pubDate>Wed, 14 Apr 2021 16:55:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scott sets new British record at Olympic trials as Peaty impresses again]]></title>
-            <description><![CDATA[Duncan Scott was in ominous form on the opening day of the British Olympic selection trials, winning gold and setting a new British record in the 200m individual medley.]]></description>
-            <link>https://www.bbc.co.uk/sport/swimming/56754244</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/56754244</guid>
-            <pubDate>Wed, 14 Apr 2021 19:59:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A minor renewal or a major overhaul? Klopp has some serious questions to ponder at Liverpool]]></title>
