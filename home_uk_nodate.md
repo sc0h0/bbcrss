@@ -4,7 +4,7 @@
 4. [Afghanistan: 'We have won the war, America has lost', say Taliban](https://www.bbc.co.uk/news/world-asia-56747158) - A BBC team meets the Taliban, a group that clearly sees itself as Afghanistan's government-in-waiting.
 5. [Psilocybin: Magic mushroom compound 'promising' for depression](https://www.bbc.co.uk/news/health-56745139) - A study of 59 people compared the drug with a conventional antidepressant.
 6. [Instagram fixes ‘mistake’ promoting harmful diet content](https://www.bbc.co.uk/news/technology-56750088) - Some users said they were offered "appetite suppressants" and "fasting" by the search feature.
-7. [Daunte Wright shooting: Officer Kim Potter charged over killing](https://www.bbc.co.uk/news/world-us-canada-56752821) - The officer who shot Daunte Wright in Minneapolis faces a charge of second-degree manslaughter.
+7. [Daunte Wright shooting: Ex-officer Kim Potter charged over killing](https://www.bbc.co.uk/news/world-us-canada-56752821) - The former officer who shot Daunte Wright in Minneapolis faces a charge of second-degree manslaughter.
 8. [The Queen appoints new Lord Chamberlain ahead of Prince Philip's funeral](https://www.bbc.co.uk/news/uk-56752755) - Lord Parker, a former head of MI5, receives the wand and insignia of office at a ceremony in Windsor.
 9. [AstraZeneca vaccine: Denmark stops rollout completely](https://www.bbc.co.uk/news/world-europe-56744474) - It is the first European country to fully withdraw the jab over possible links to rare blood clots.
 10. [St Vincent volcano: UN warns humanitarian crisis will last months](https://www.bbc.co.uk/news/world-latin-america-56754885) - Thousands have fled their homes on the island of St Vincent as a volcano continues to erupt.
