@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Apr 2021 21:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 21:38:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Thu, 15 Apr 2021 14:23:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Human cells grown in monkey embryos spark ethical debate]]></title>
+            <description><![CDATA[Scientists confirm they have made "chimera" embryos from long-tailed macaques and humans.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56767517</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56767517</guid>
+            <pubDate>Thu, 15 Apr 2021 19:54:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: NI pubs and cafes to open outdoors from 30 April]]></title>
             <description><![CDATA[Ministers agree non-essential retail to reopen on the same date, with indoor hospitality on 24 May.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56746050</link>
@@ -72,13 +79,6 @@
             <pubDate>Thu, 15 Apr 2021 19:07:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BBC receives 109,741 complaints over Prince Philip coverage]]></title>
-            <description><![CDATA[Thousands of viewers contacted the BBC to say they felt the amount of coverage was excessive.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56756296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56756296</guid>
-            <pubDate>Thu, 15 Apr 2021 15:11:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[M&S begins legal action against Aldi over Colin the Caterpillar cake]]></title>
             <description><![CDATA[A High Court claim by the retailer argues its rival's Cuthbert the Caterpillar infringes its trademark.]]></description>
             <link>https://www.bbc.co.uk/news/business-56756731</link>
@@ -90,7 +90,7 @@
             <description><![CDATA[Arsenal impressively sweep aside Slavia Prague to reach the Europa League semi-finals with a fine away victory in the second leg.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56713057</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56713057</guid>
-            <pubDate>Thu, 15 Apr 2021 21:11:21 GMT</pubDate>
+            <pubDate>Thu, 15 Apr 2021 21:21:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jenners building owner launches probe after signs removed]]></title>
@@ -244,7 +244,7 @@
             <description><![CDATA[Edinson Cavani scores the winner as Manchester United set up a Europa League semi-final against Roma with a comfortable 4-0 aggregate win over Granada.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56713064</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56713064</guid>
-            <pubDate>Thu, 15 Apr 2021 21:12:45 GMT</pubDate>
+            <pubDate>Thu, 15 Apr 2021 21:32:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GB's Evans seals famous win over Djokovic in Monte Carlo]]></title>
@@ -280,6 +280,13 @@
             <link>https://www.bbc.co.uk/sport/formula1/56765731</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56765731</guid>
             <pubDate>Thu, 15 Apr 2021 16:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MOTDx: Arsenal's Bukayo Saka picks his Match of the Day Mix playlist]]></title>
+            <description><![CDATA[Arsenal's rising star Bukayo Saka speaks to MOTDx's Josh Denzel about football and music and picks his Match of the Day Mix playlist of his favourite tunes.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56763439</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56763439</guid>
+            <pubDate>Thu, 15 Apr 2021 13:43:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's happening with universities as lockdown eases?]]></title>
