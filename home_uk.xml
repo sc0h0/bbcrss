@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Apr 2021 06:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 07:22:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/health-56750460</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56750460</guid>
             <pubDate>Wed, 14 Apr 2021 23:50:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chauvin trial: Floyd's death should be 'undetermined', defence expert says]]></title>
-            <description><![CDATA[An expert called by the defence says drugs and heart problems contributed to George Floyd's death.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56753298</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56753298</guid>
-            <pubDate>Wed, 14 Apr 2021 22:29:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: 'We have won the war, America has lost', say Taliban]]></title>
@@ -58,6 +51,13 @@
             <pubDate>Thu, 15 Apr 2021 05:03:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chauvin trial: Floyd's death should be 'undetermined', defence expert says]]></title>
+            <description><![CDATA[An expert called by the defence says drugs and heart problems contributed to George Floyd's death.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56753298</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56753298</guid>
+            <pubDate>Wed, 14 Apr 2021 22:29:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Vaccine passports could create 'two-tier society', equality watchdog warns]]></title>
             <description><![CDATA[Vaccine certificates could help to reopen society but risk discrimination, a UK equality body warns.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56755161</link>
@@ -79,11 +79,11 @@
             <pubDate>Thu, 15 Apr 2021 00:07:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Psilocybin: Magic mushroom compound 'promising' for depression]]></title>
-            <description><![CDATA[A study of 59 people compared the drug with a conventional antidepressant.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56745139</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56745139</guid>
-            <pubDate>Thu, 15 Apr 2021 00:05:44 GMT</pubDate>
+            <title><![CDATA[Deliveroo sees orders and sales more than double in first quarter]]></title>
+            <description><![CDATA[The food delivery firm says it cannot tell how much the recent growth is due to the impact of lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56756419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56756419</guid>
+            <pubDate>Thu, 15 Apr 2021 06:55:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MasterChef winner: Tom Rhodes crowned 17th champion]]></title>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-56746310</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56746310</guid>
             <pubDate>Wed, 14 Apr 2021 23:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matchbox cars get green makeover in eco drive]]></title>
-            <description><![CDATA[The toymaker is launching new cars based on electric models and making some from recycled materials.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56728387</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56728387</guid>
-            <pubDate>Thu, 15 Apr 2021 03:24:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: 'Sleaze is back' and a 'grand line-up' of royals]]></title>
@@ -133,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/in-pictures-56719188</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56719188</guid>
             <pubDate>Thu, 15 Apr 2021 05:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Matchbox cars get green makeover in eco drive]]></title>
+            <description><![CDATA[The toymaker is launching new cars based on electric models and making some from recycled materials.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56728387</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56728387</guid>
+            <pubDate>Thu, 15 Apr 2021 03:24:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senegal: The HIV success story that’s failing gay men]]></title>
@@ -198,7 +198,7 @@
             <pubDate>Thu, 15 Apr 2021 01:23:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Russia may not be planning invasion Ukraine fears]]></title>
+            <title><![CDATA[Why Russia may not be planning the invasion that Ukraine fears]]></title>
             <description><![CDATA[President Biden's proposal for a summit with Russia's leader means the risk of an escalation has faded.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56746144</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56746144</guid>
