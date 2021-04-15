@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Apr 2021 20:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 20:57:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Thu, 15 Apr 2021 14:23:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: NI pubs and cafes to open outdoors from 30 April]]></title>
+            <description><![CDATA[Ministers agree non-essential retail to reopen on the same date, with indoor hospitality on 24 May.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56746050</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56746050</guid>
+            <pubDate>Thu, 15 Apr 2021 18:34:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Greensill: Top civil servant failed to declare another job]]></title>
             <description><![CDATA[Bill Crothers, who is embroiled in a row over working at Greensill, did not seek advice over another role.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56763652</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/business-56756731</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56756731</guid>
             <pubDate>Thu, 15 Apr 2021 12:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brain clots much 'more likely' with Covid than vaccine]]></title>
-            <description><![CDATA[A rapid review of US patients says people being vaccinated should be reassured by the findings.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56760163</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56760163</guid>
-            <pubDate>Thu, 15 Apr 2021 16:11:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jenners building owner launches probe after signs removed]]></title>
@@ -231,6 +231,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56581106</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56581106</guid>
             <pubDate>Wed, 14 Apr 2021 10:37:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slavia Prague 0-4 Arsenal (1-5 on agg): Gunners reach Europa League semi-finals]]></title>
+            <description><![CDATA[Arsenal impressively sweep aside Slavia Prague to reach the Europa League semi-finals with a fine away victory in the second leg.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56713057</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56713057</guid>
+            <pubDate>Thu, 15 Apr 2021 20:51:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GB's Evans seals famous win over Djokovic in Monte Carlo]]></title>
