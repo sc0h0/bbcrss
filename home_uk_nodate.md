@@ -1,4 +1,4 @@
-1. [Peaky Blinders actress Helen McCrory dies aged 52](https://www.bbc.co.uk/news/entertainment-arts-56770593) - The British star, who has died of cancer, was known for her roles in Peaky Blinders and Harry Potter.
+1. [Helen McCrory: Peaky Blinders actress dies aged 52, husband Damian Lewis says](https://www.bbc.co.uk/news/entertainment-arts-56770593) - The British star, who has died of cancer, was known for her roles in Peaky Blinders and Harry Potter.
 2. [Pregnant women should be offered Covid vaccine](https://www.bbc.co.uk/news/health-56778146) - The UK's vaccine advisers encourage them to discuss the risks and benefits with their doctor.
 3. [Covid-19: Pregnant women should be offered jab and UK infections back at September levels](https://www.bbc.co.uk/news/uk-56775377) - Five things you need to know about the coronavirus pandemic this Friday evening.
 4. [Hong Kong: Jimmy Lai sentenced to 14 months for pro-democracy protests](https://www.bbc.co.uk/news/world-asia-56770567) - Jimmy Lai, the owner of Hong Kong’s last opposition newspaper, is a fierce critic of Beijing.
