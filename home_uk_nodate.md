@@ -1,5 +1,5 @@
 1. [Prince Philip: Duke's four children to walk alongside coffin at funeral](https://www.bbc.co.uk/news/uk-56761074) - The names of the 30 guests who will be at Saturday's funeral service are released by Buckingham Palace.
-2. [Adam Toledo: Chicago releases video of police shooting boy](https://www.bbc.co.uk/news/world-us-canada-56768217) - Adam Toledo raises his hands but does not appear to be holding a gun in the moment he was shot.
+2. [Adam Toledo: Chicago police release video of officer shooting boy](https://www.bbc.co.uk/news/world-us-canada-56768217) - Bodycam footage shows an officer shouting "Drop it" before shooting Adam Toledo once in the chest.
 3. [US imposes sanctions on Russia over cyber-attacks](https://www.bbc.co.uk/news/technology-56755484) - Dozens of entities are targeted over attacks including alleged interference in the 2020 elections.
 4. [Who is going to Prince Philip's funeral?](https://www.bbc.co.uk/news/uk-56765468) - Covid restrictions mean only 30 guests will be allowed to attend the funeral of the duke.
 5. [Jimmy Lai: The Hong Kong billionaire risking it all by speaking out](https://www.bbc.co.uk/news/world-asia-china-56767127) - Opposition newspaper owner Jimmy Lai was arrested under Hong Kong's new national security law.
