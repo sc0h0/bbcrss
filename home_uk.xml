@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Apr 2021 22:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 22:43:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,7 +41,7 @@
             <description><![CDATA[His resignation ends his family's six-decade hold on power in Cuba.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-56780903</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56780903</guid>
-            <pubDate>Fri, 16 Apr 2021 20:42:05 GMT</pubDate>
+            <pubDate>Fri, 16 Apr 2021 22:20:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Canada sounds the alarm as cases overtake US]]></title>
@@ -62,7 +62,7 @@
             <description><![CDATA[Harry Kane scores twice to earn a point for Tottenham against fellow top-four chasers Everton at Goodison Park.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56684992</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56684992</guid>
-            <pubDate>Fri, 16 Apr 2021 21:46:46 GMT</pubDate>
+            <pubDate>Fri, 16 Apr 2021 22:34:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Pandemic funeral services not what people 'deserve']]></title>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56770590</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56770590</guid>
             <pubDate>Fri, 16 Apr 2021 12:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Queen bids farewell', and Helen McCrory tributes]]></title>
+            <description><![CDATA[Saturday's front pages are dominated by details of the Duke of Edinburgh's funeral]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56781228</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56781228</guid>
+            <pubDate>Fri, 16 Apr 2021 22:23:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In pictures: Helen McCrory's acting career]]></title>
@@ -156,13 +163,6 @@
             <pubDate>Thu, 15 Apr 2021 23:23:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['No mystery' over removal of Edinburgh's Jenners sign]]></title>
-            <description><![CDATA[The team who removed the Princes Street store's sign say it was taken down over two days.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56773224</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56773224</guid>
-            <pubDate>Fri, 16 Apr 2021 13:17:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Titanic: Searching for the 'missing' Chinese survivors]]></title>
             <description><![CDATA[When the Titanic sank, six Chinese men were rescued - but their ordeal didn't end there.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56755614</link>
@@ -205,27 +205,6 @@
             <pubDate>Thu, 15 Apr 2021 23:37:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How George Floyd's death changed a small Iowa town]]></title>
-            <description><![CDATA[Issues of race were rarely discussed in Decorah, until a death 160 miles away changed everything.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56726028</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56726028</guid>
-            <pubDate>Fri, 16 Apr 2021 14:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lateral-flow tests: What are the risks and benefits?]]></title>
-            <description><![CDATA[What are the risks and benefits from using wide-scale lateral-flow tests?]]></description>
-            <link>https://www.bbc.co.uk/news/56675624</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/56675624</guid>
-            <pubDate>Thu, 15 Apr 2021 23:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smaller and better smartphone cameras are on the way]]></title>
-            <description><![CDATA[Smaller and more powerful lenses promise to bring even better smartphone cameras.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56237991</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56237991</guid>
-            <pubDate>Thu, 15 Apr 2021 23:06:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Watson & Boulter put GB in control - report & highlights]]></title>
             <description><![CDATA[Heather Watson and Katie Boulter put Great Britain 2-0 ahead in their Billie Jean King Cup play-off against Mexico.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/56760606</link>
@@ -254,11 +233,11 @@
             <pubDate>Fri, 16 Apr 2021 17:48:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wales and Lions great Dawes dies, aged 80]]></title>
-            <description><![CDATA[Legendary former Wales and British and Irish Lions captain and coach John Dawes dies at the age of 80.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56776411</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56776411</guid>
-            <pubDate>Fri, 16 Apr 2021 15:16:03 GMT</pubDate>
+            <title><![CDATA[NBA: Miles Bridges' 'filthy' dunk leads plays of the week]]></title>
+            <description><![CDATA[Watch the NBA plays of the week, featuring a "filthy" dunk from Miles Bridges of the Charlotte Hornets.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/basketball/56772216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/basketball/56772216</guid>
+            <pubDate>Fri, 16 Apr 2021 13:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hull KR score record-breaking try after seven seconds in Huddersfield win]]></title>
