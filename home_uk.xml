@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Apr 2021 23:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 23:58:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,46 @@
             <pubDate>Thu, 15 Apr 2021 22:02:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Adam Toledo: Chicago releases video of police shooting boy]]></title>
+            <description><![CDATA[Adam Toledo raises his hands but does not appear to be holding a gun in the moment he was shot.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56768217</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56768217</guid>
+            <pubDate>Thu, 15 Apr 2021 23:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US imposes sanctions on Russia over cyber-attacks]]></title>
+            <description><![CDATA[Dozens of entities are targeted over attacks including alleged interference in the 2020 elections.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56755484</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56755484</guid>
+            <pubDate>Thu, 15 Apr 2021 21:37:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Who is going to Prince Philip's funeral?]]></title>
             <description><![CDATA[Covid restrictions mean only 30 guests will be allowed to attend the funeral of the duke.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56765468</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56765468</guid>
             <pubDate>Thu, 15 Apr 2021 18:44:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jimmy Lai: The Hong Kong billionaire risking it all by speaking out]]></title>
+            <description><![CDATA[Opposition newspaper owner Jimmy Lai was arrested under Hong Kong's new national security law.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-56767127</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56767127</guid>
+            <pubDate>Thu, 15 Apr 2021 23:14:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland eases rules on travel and meeting up]]></title>
+            <description><![CDATA[The Scottish government says the lockdown changes are designed to help reunite families and close friends.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56765188</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56765188</guid>
+            <pubDate>Thu, 15 Apr 2021 23:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Families need cannabis prescriptions support, say MPs and peers]]></title>
+            <description><![CDATA[Politicians complain that only three NHS scripts have been issued since the law changed in 2018.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56763650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56763650</guid>
+            <pubDate>Thu, 15 Apr 2021 23:34:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Floyd death: Ex-officer Chauvin will not take the stand]]></title>
@@ -37,25 +72,11 @@
             <pubDate>Thu, 15 Apr 2021 16:09:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Record numbers on England hospital waiting lists, and beauty brand U-turns]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56763789</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56763789</guid>
-            <pubDate>Thu, 15 Apr 2021 16:54:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[St Vincent volcano: 'We don't know if we can go home']]></title>
-            <description><![CDATA[Volcanic eruptions force residents from their homes and leave much of the island blanketed in ash]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-56726773</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56726773</guid>
-            <pubDate>Thu, 15 Apr 2021 18:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harvey Tyrrell death: Pub owner jailed over boy's electrocution death]]></title>
-            <description><![CDATA[Seven-year-old Harvey Tyrrell was found unresponsive by a friend outside the King Harold pub in 2018.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56758749</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56758749</guid>
-            <pubDate>Thu, 15 Apr 2021 14:23:08 GMT</pubDate>
+            <title><![CDATA[TUI says summer holiday season can be saved]]></title>
+            <description><![CDATA[The boss of Europe's biggest holiday company thinks successful vaccine programmes can prevent another washout.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56768270</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56768270</guid>
+            <pubDate>Thu, 15 Apr 2021 23:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Human cells grown in monkey embryos spark ethical debate]]></title>
@@ -65,13 +86,6 @@
             <pubDate>Thu, 15 Apr 2021 19:54:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI pubs and cafes to open outdoors from 30 April]]></title>
-            <description><![CDATA[Ministers agree non-essential retail to reopen on the same date, with indoor hospitality on 24 May.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56746050</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56746050</guid>
-            <pubDate>Thu, 15 Apr 2021 18:34:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Greensill: Top civil servant failed to declare another job]]></title>
             <description><![CDATA[Bill Crothers, who is embroiled in a row over working at Greensill, did not seek advice over another role.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56763652</link>
@@ -79,11 +93,11 @@
             <pubDate>Thu, 15 Apr 2021 19:07:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[M&S begins legal action against Aldi over Colin the Caterpillar cake]]></title>
-            <description><![CDATA[A High Court claim by the retailer argues its rival's Cuthbert the Caterpillar infringes its trademark.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56756731</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56756731</guid>
-            <pubDate>Thu, 15 Apr 2021 12:26:02 GMT</pubDate>
+            <title><![CDATA[Colin the Caterpillar cake row: Judge Rinder gives his verdict]]></title>
+            <description><![CDATA[Marks & Spencer has begun legal action against Aldi, arguing the retailer's Cuthbert the Caterpillar cake infringes its Colin the Caterpillar trademark.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56768197</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56768197</guid>
+            <pubDate>Thu, 15 Apr 2021 22:07:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slavia Prague 0-4 Arsenal (1-5 on agg): Gunners reach Europa League semi-finals]]></title>
@@ -93,25 +107,32 @@
             <pubDate>Thu, 15 Apr 2021 22:28:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jenners building owner launches probe after signs removed]]></title>
-            <description><![CDATA[The owners of the landmark Edinburgh department store say they are "very surprised" the signs have been removed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56764938</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-56764938</guid>
-            <pubDate>Thu, 15 Apr 2021 16:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canadian politician seen naked in work Zoom call]]></title>
-            <description><![CDATA[Canadian MP William Amos apologises, saying he was changing after going for a jog.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56760714</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56760714</guid>
-            <pubDate>Thu, 15 Apr 2021 13:24:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Newspaper headlines: 'Brothers apart' amid Queen's 'final tribute']]></title>
             <description><![CDATA[The Duke of Edinburgh's funeral plans - and the choreography of the procession - make the front pages.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56768066</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56768066</guid>
             <pubDate>Thu, 15 Apr 2021 23:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Escaping the anti-vax conspiracy rabbit hole]]></title>
+            <description><![CDATA[Catherine was a big believer in anti-vaccine conspiracy theories, but has since stopped believing in them.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56762061</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56762061</guid>
+            <pubDate>Thu, 15 Apr 2021 23:23:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cages around houses: Life at Belfast's peace wall]]></title>
+            <description><![CDATA[There are over 20 miles of peace walls - or peace lines - across Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56765168</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56765168</guid>
+            <pubDate>Thu, 15 Apr 2021 23:18:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish election: How independence could be key to how people vote]]></title>
+            <description><![CDATA[The BBC’s Connor Gillies takes a look at how the upcoming elections in Scotland could affect the likelihood of an indyref2.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56748634</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56748634</guid>
+            <pubDate>Thu, 15 Apr 2021 21:40:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Line of Duty: Who is the Ted Hastings of Westminster?]]></title>
@@ -128,123 +149,46 @@
             <pubDate>Thu, 15 Apr 2021 18:15:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tipping Point: Woman has voice reconstructed thanks to ITV show appearance]]></title>
-            <description><![CDATA[Helen Whitelaw appeared on Tipping Point before Motor Neurone Disease rendered her speechless.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56757605</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56757605</guid>
-            <pubDate>Thu, 15 Apr 2021 15:33:26 GMT</pubDate>
+            <title><![CDATA[Chile sees Covid surge despite vaccination success]]></title>
+            <description><![CDATA[The country's vaccination rollout is one of the fastest in the world, so why are Covid cases surging?]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56731801</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56731801</guid>
+            <pubDate>Thu, 15 Apr 2021 23:23:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google Earth time-lapses show a changing planet]]></title>
-            <description><![CDATA[Satellite images collected over 37 years are combined to show how Earth in a new way.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56762732</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56762732</guid>
-            <pubDate>Thu, 15 Apr 2021 13:00:03 GMT</pubDate>
+            <title><![CDATA[How sex surrogates are helping injured Israeli soldiers]]></title>
+            <description><![CDATA[Therapy with surrogate sexual partners is used in Israel to rehabilitate badly injured soldiers.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56737828</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56737828</guid>
+            <pubDate>Thu, 15 Apr 2021 23:53:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India: ‘A Covid tsunami we had never seen before’]]></title>
-            <description><![CDATA[India's cases plummeted earlier this year, but are now on the rise again. What happened?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56747867</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56747867</guid>
-            <pubDate>Wed, 14 Apr 2021 23:01:42 GMT</pubDate>
+            <title><![CDATA[Health anxiety: The fear of illness making people quit jobs and move home]]></title>
+            <description><![CDATA[For some people, Covid has fuelled a debilitating mental health condition known as health anxiety.]]></description>
+            <link>https://www.bbc.co.uk/news/disability-56591440</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-56591440</guid>
+            <pubDate>Thu, 15 Apr 2021 23:52:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Australia is in hysterics over a 'navy twerking' dance]]></title>
-            <description><![CDATA[Dancers in hotpants at a military event have sparked a heated debate about women, sex and power.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-56754868</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56754868</guid>
-            <pubDate>Thu, 15 Apr 2021 08:39:06 GMT</pubDate>
+            <title><![CDATA[How George Floyd's death changed a small Iowa town]]></title>
+            <description><![CDATA[Issues of race were rarely discussed in Decorah, until a death 160 miles away changed everything.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56726028</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56726028</guid>
+            <pubDate>Thu, 15 Apr 2021 23:50:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gnome shortage: Lockdown and Suez canal blockage blamed]]></title>
-            <description><![CDATA[A garden centre "boom" coupled with supply chain delays are making the ornaments hard to come by.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-56748561</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-56748561</guid>
-            <pubDate>Thu, 15 Apr 2021 12:03:19 GMT</pubDate>
+            <title><![CDATA[Lateral-flow tests: What are the risks and benefits?]]></title>
+            <description><![CDATA[What are the risks and benefits from using wide-scale lateral-flow tests?]]></description>
+            <link>https://www.bbc.co.uk/news/56675624</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56675624</guid>
+            <pubDate>Thu, 15 Apr 2021 23:52:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sir David Attenborough's new doc: 'Humans are intruders']]></title>
-            <description><![CDATA[Sir David Attenborough fronts a new documentary on lockdown's effect on the natural world.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-56752541</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56752541</guid>
-            <pubDate>Thu, 15 Apr 2021 05:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: 'Getting the vaccine in Ramadan helps others']]></title>
-            <description><![CDATA[Many Muslims are welcoming pop-up clinics to support the vaccination programme during Ramadan.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-56715038</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-56715038</guid>
-            <pubDate>Thu, 15 Apr 2021 05:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: 'We have won the war, America has lost', say Taliban]]></title>
-            <description><![CDATA[A BBC team meets the Taliban, a group that clearly sees itself as Afghanistan's government-in-waiting.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56747158</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56747158</guid>
-            <pubDate>Wed, 14 Apr 2021 23:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prince Philip: Coverage of royal death poses quandary for BBC]]></title>
-            <description><![CDATA[The record number of complaints received highlight the difficulties of reflecting the national mood.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56746250</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56746250</guid>
-            <pubDate>Thu, 15 Apr 2021 13:53:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greensill lobbying row: What jobs can ex-ministers do and what are the rules?]]></title>
-            <description><![CDATA[As a row over lobbying continues in Westminster, we look at the rules around life after politics.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56744212</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56744212</guid>
-            <pubDate>Thu, 15 Apr 2021 15:04:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anorexia: 'Difficult' to get proper support in lockdown]]></title>
-            <description><![CDATA[Radio 1 Newsbeat looks at how lockdown has impacted those living with the eating disorder anorexia.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-56689670</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56689670</guid>
-            <pubDate>Thu, 15 Apr 2021 01:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Washington seeks to expose Russian intelligence activity]]></title>
-            <description><![CDATA[The US has published a vast trove of amount of information about Russian intelligence activities.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56765753</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56765753</guid>
-            <pubDate>Thu, 15 Apr 2021 19:17:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A watershed moment: What now for Liverpool?]]></title>
-            <description><![CDATA[Liverpool City Council has been engulfed in accusations of intimidation and bribery. How did we get here?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56679807</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56679807</guid>
-            <pubDate>Thu, 15 Apr 2021 01:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are so many babies dying of Covid-19 in Brazil?]]></title>
-            <description><![CDATA[As the pandemic rages in Brazil, hundreds of babies and young children are dying of Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-56696907</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56696907</guid>
-            <pubDate>Wed, 14 Apr 2021 23:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Circle's Manrika on trolling: 'You're a woman of colour. It makes a difference.']]></title>
-            <description><![CDATA[Manrika Khaira has been trolled and sent death threats since going on the Channel 4 reality show.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-56747017</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56747017</guid>
-            <pubDate>Thu, 15 Apr 2021 09:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Duke of Edinburgh's Award: 'Without DofE there would be no baby']]></title>
-            <description><![CDATA[Six decades of Duke of Edinburgh's Award participants share the impact it has had on their lives.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56734327</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56734327</guid>
-            <pubDate>Thu, 15 Apr 2021 01:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Election 2021: How do I vote?]]></title>
-            <description><![CDATA[About 48 million people will be able to vote in a series of elections on Thursday, 6 May.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56581106</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56581106</guid>
-            <pubDate>Wed, 14 Apr 2021 10:37:37 GMT</pubDate>
+            <title><![CDATA[Smaller and better smartphone cameras are on the way]]></title>
+            <description><![CDATA[Smaller and more powerful lenses promise to bring even better smartphone cameras.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56237991</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56237991</guid>
+            <pubDate>Thu, 15 Apr 2021 23:06:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man Utd to face Roma in Europa League final four after beating Granada]]></title>
