@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Apr 2021 03:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 04:32:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/technology-56755484</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56755484</guid>
             <pubDate>Fri, 16 Apr 2021 02:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hancock and sister own firm given NHS contract]]></title>
+            <description><![CDATA[The health secretary is accused of "cronyism" but the government says he acted "entirely properly".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56768601</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56768601</guid>
+            <pubDate>Fri, 16 Apr 2021 04:15:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland eases rules on travel and meeting up]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-56767127</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56767127</guid>
             <pubDate>Thu, 15 Apr 2021 23:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chile sees Covid surge despite vaccination success]]></title>
-            <description><![CDATA[The country's vaccination rollout is one of the fastest in the world, so why are Covid cases surging?]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-56731801</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56731801</guid>
-            <pubDate>Thu, 15 Apr 2021 23:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Families need cannabis prescriptions support, say MPs and peers]]></title>
@@ -147,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-56761834</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56761834</guid>
             <pubDate>Thu, 15 Apr 2021 18:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chile sees Covid surge despite vaccination success]]></title>
+            <description><![CDATA[The country's vaccination rollout is one of the fastest in the world, so why are Covid cases surging?]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56731801</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56731801</guid>
+            <pubDate>Thu, 15 Apr 2021 23:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How sex surrogates are helping injured Israeli soldiers]]></title>
