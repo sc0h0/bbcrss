@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Apr 2021 07:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 07:35:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Fri, 16 Apr 2021 03:30:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Who is going to Prince Philip's funeral?]]></title>
+            <description><![CDATA[Covid restrictions mean only 30 guests will be allowed to attend the funeral of the duke.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56765468</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56765468</guid>
+            <pubDate>Thu, 15 Apr 2021 18:44:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Matt Hancock and sister own shares in NHS contract firm]]></title>
             <description><![CDATA[The health secretary is accused of "cronyism" but the government says he acted "entirely properly".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56768601</link>
@@ -30,18 +37,11 @@
             <pubDate>Fri, 16 Apr 2021 04:15:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indianapolis mass shooting: Eight dead at FedEx facility]]></title>
-            <description><![CDATA[Many people are injured as a gunman opens fire at a FedEx facility before taking his own life.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56770200</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56770200</guid>
-            <pubDate>Fri, 16 Apr 2021 07:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who is going to Prince Philip's funeral?]]></title>
-            <description><![CDATA[Covid restrictions mean only 30 guests will be allowed to attend the funeral of the duke.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56765468</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56765468</guid>
-            <pubDate>Thu, 15 Apr 2021 18:44:12 GMT</pubDate>
+            <title><![CDATA[Jimmy Lai: The Hong Kong billionaire risking it all by speaking out]]></title>
+            <description><![CDATA[Opposition newspaper owner Jimmy Lai was arrested under Hong Kong's new national security law.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-56767127</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56767127</guid>
+            <pubDate>Thu, 15 Apr 2021 23:14:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Scotland eases restrictions and summer holiday season 'can be saved']]></title>
@@ -51,11 +51,11 @@
             <pubDate>Fri, 16 Apr 2021 06:50:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jimmy Lai: The Hong Kong billionaire risking it all by speaking out]]></title>
-            <description><![CDATA[Opposition newspaper owner Jimmy Lai was arrested under Hong Kong's new national security law.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-56767127</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56767127</guid>
-            <pubDate>Thu, 15 Apr 2021 23:14:30 GMT</pubDate>
+            <title><![CDATA[Indianapolis mass shooting: Eight dead at FedEx facility]]></title>
+            <description><![CDATA[Many people are injured as a gunman opens fire at a FedEx facility before taking his own life.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56770200</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56770200</guid>
+            <pubDate>Fri, 16 Apr 2021 07:14:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland eases rules on travel and meeting up]]></title>

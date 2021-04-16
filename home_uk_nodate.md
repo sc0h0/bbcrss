@@ -1,9 +1,9 @@
 1. [Adam Toledo: Chicago police release video of officer shooting boy](https://www.bbc.co.uk/news/world-us-canada-56768217) - Bodycam footage shows an officer shouting "Drop it" before shooting Adam Toledo once in the chest.
-2. [Matt Hancock and sister own shares in NHS contract firm](https://www.bbc.co.uk/news/uk-politics-56768601) - The health secretary is accused of "cronyism" but the government says he acted "entirely properly".
-3. [Indianapolis mass shooting: Eight dead at FedEx facility](https://www.bbc.co.uk/news/world-us-canada-56770200) - Many people are injured as a gunman opens fire at a FedEx facility before taking his own life.
-4. [Who is going to Prince Philip's funeral?](https://www.bbc.co.uk/news/uk-56765468) - Covid restrictions mean only 30 guests will be allowed to attend the funeral of the duke.
+2. [Who is going to Prince Philip's funeral?](https://www.bbc.co.uk/news/uk-56765468) - Covid restrictions mean only 30 guests will be allowed to attend the funeral of the duke.
+3. [Matt Hancock and sister own shares in NHS contract firm](https://www.bbc.co.uk/news/uk-politics-56768601) - The health secretary is accused of "cronyism" but the government says he acted "entirely properly".
+4. [Jimmy Lai: The Hong Kong billionaire risking it all by speaking out](https://www.bbc.co.uk/news/world-asia-china-56767127) - Opposition newspaper owner Jimmy Lai was arrested under Hong Kong's new national security law.
 5. [Covid-19: Scotland eases restrictions and summer holiday season 'can be saved'](https://www.bbc.co.uk/news/uk-56759957) - Five things you need to know about the coronavirus pandemic this Friday morning.
-6. [Jimmy Lai: The Hong Kong billionaire risking it all by speaking out](https://www.bbc.co.uk/news/world-asia-china-56767127) - Opposition newspaper owner Jimmy Lai was arrested under Hong Kong's new national security law.
+6. [Indianapolis mass shooting: Eight dead at FedEx facility](https://www.bbc.co.uk/news/world-us-canada-56770200) - Many people are injured as a gunman opens fire at a FedEx facility before taking his own life.
 7. [Scotland eases rules on travel and meeting up](https://www.bbc.co.uk/news/uk-scotland-56765188) - The Scottish government says the lockdown changes are designed to help reunite families and close friends.
 8. [China's economy grows 18.3% in post-Covid comeback](https://www.bbc.co.uk/news/business-56768663) - The record figures for the first quarter of the year are skewed due to last year's nationwide lockdown
 9. [TUI says summer holiday season can be saved](https://www.bbc.co.uk/news/business-56768270) - The boss of Europe's biggest holiday company thinks successful vaccine programmes can prevent another washout.
