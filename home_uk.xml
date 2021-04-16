@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Apr 2021 19:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 19:53:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/in-pictures-56760974</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56760974</guid>
             <pubDate>Fri, 16 Apr 2021 19:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Canada sounds the alarm as cases overtake US]]></title>
+            <description><![CDATA[Infections in the largest province could increase sixfold without tougher measures, experts warn.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56779428</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56779428</guid>
+            <pubDate>Fri, 16 Apr 2021 19:39:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Pregnant women should be offered jab and UK infections back at September levels]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-56769860</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56769860</guid>
             <pubDate>Fri, 16 Apr 2021 16:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hong Kong: Jimmy Lai sentenced to 14 months for pro-democracy protests]]></title>
-            <description><![CDATA[Jimmy Lai, the owner of Hong Kong’s last opposition newspaper, is a fierce critic of Beijing.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56770567</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56770567</guid>
-            <pubDate>Fri, 16 Apr 2021 17:01:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Boris Johnson's India visit to go ahead despite rise in cases]]></title>
