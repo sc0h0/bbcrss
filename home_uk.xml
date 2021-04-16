@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Apr 2021 03:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 03:52:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Prince Philip: Duke's four children to walk alongside coffin at funeral]]></title>
-            <description><![CDATA[The names of the 30 guests who will be at Saturday's funeral service are released by Buckingham Palace.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56761074</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56761074</guid>
-            <pubDate>Thu, 15 Apr 2021 22:02:28 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Adam Toledo: Chicago police release video of officer shooting boy]]></title>
             <description><![CDATA[Bodycam footage shows an officer shouting "Drop it" before shooting Adam Toledo once in the chest.]]></description>
@@ -35,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/technology-56755484</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56755484</guid>
             <pubDate>Fri, 16 Apr 2021 02:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland eases rules on travel and meeting up]]></title>
+            <description><![CDATA[The Scottish government says the lockdown changes are designed to help reunite families and close friends.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56765188</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56765188</guid>
+            <pubDate>Thu, 15 Apr 2021 23:32:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who is going to Prince Philip's funeral?]]></title>
@@ -51,11 +51,11 @@
             <pubDate>Thu, 15 Apr 2021 23:14:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland eases rules on travel and meeting up]]></title>
-            <description><![CDATA[The Scottish government says the lockdown changes are designed to help reunite families and close friends.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-56765188</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56765188</guid>
-            <pubDate>Thu, 15 Apr 2021 23:32:07 GMT</pubDate>
+            <title><![CDATA[Chile sees Covid surge despite vaccination success]]></title>
+            <description><![CDATA[The country's vaccination rollout is one of the fastest in the world, so why are Covid cases surging?]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56731801</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56731801</guid>
+            <pubDate>Thu, 15 Apr 2021 23:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Families need cannabis prescriptions support, say MPs and peers]]></title>
@@ -93,18 +93,18 @@
             <pubDate>Thu, 15 Apr 2021 19:07:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Colin the Caterpillar cake row: Judge Rinder gives his verdict]]></title>
-            <description><![CDATA[Marks & Spencer has begun legal action against Aldi, arguing the retailer's Cuthbert the Caterpillar cake infringes its Colin the Caterpillar trademark.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56768197</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56768197</guid>
-            <pubDate>Thu, 15 Apr 2021 22:07:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Slavia Prague 0-4 Arsenal (1-5 on agg): Gunners reach Europa League semi-finals]]></title>
             <description><![CDATA[Arsenal impressively sweep aside Slavia Prague to reach the Europa League semi-finals with a fine away victory in the second leg.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56713057</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56713057</guid>
             <pubDate>Thu, 15 Apr 2021 22:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colin the Caterpillar cake row: Judge Rinder gives his verdict]]></title>
+            <description><![CDATA[Marks & Spencer has begun legal action against Aldi, arguing the retailer's Cuthbert the Caterpillar cake infringes its Colin the Caterpillar trademark.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56768197</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56768197</guid>
+            <pubDate>Thu, 15 Apr 2021 22:07:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: 'Brothers apart' amid Queen's 'final tribute']]></title>
@@ -147,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56761834</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56761834</guid>
             <pubDate>Thu, 15 Apr 2021 18:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chile sees Covid surge despite vaccination success]]></title>
-            <description><![CDATA[The country's vaccination rollout is one of the fastest in the world, so why are Covid cases surging?]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-56731801</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56731801</guid>
-            <pubDate>Thu, 15 Apr 2021 23:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How sex surrogates are helping injured Israeli soldiers]]></title>
@@ -238,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/av/basketball/56758416</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/basketball/56758416</guid>
             <pubDate>Thu, 15 Apr 2021 09:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Philip: Duke's four children to walk alongside coffin at funeral]]></title>
+            <description><![CDATA[The names of the 30 guests who will be at Saturday's funeral service are released by Buckingham Palace.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56761074</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56761074</guid>
+            <pubDate>Thu, 15 Apr 2021 22:02:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip funeral: What are the plans and timings?]]></title>
