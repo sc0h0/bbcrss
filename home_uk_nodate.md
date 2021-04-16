@@ -1,7 +1,7 @@
 1. [Helen McCrory: Peaky Blinders actress dies aged 52, husband Damian Lewis says](https://www.bbc.co.uk/news/entertainment-arts-56770593) - The star, who has died of cancer, was a "beautiful and mighty woman", her husband Damian Lewis said.
 2. [Covid: Canada sounds the alarm as cases overtake US](https://www.bbc.co.uk/news/world-us-canada-56779428) - Infections in the largest province could increase sixfold without tougher measures, experts warn.
-3. [Pregnant women should be offered Covid vaccine](https://www.bbc.co.uk/news/health-56778146) - The UK's vaccine advisers encourage them to discuss the risks and benefits with their doctor.
-4. [In pictures: Raúl Castro's career over six decades](https://www.bbc.co.uk/news/in-pictures-56760974) - Raúl Castro has stepped down as first secretary of Cuba's Communist Party ending a 60-year career.
+3. [Raúl Castro steps down as Cuban Communist Party leader](https://www.bbc.co.uk/news/world-latin-america-56780903) - His resignation ends his family's six-decade hold on power in Cuba.
+4. [Pregnant women should be offered Covid vaccine](https://www.bbc.co.uk/news/health-56778146) - The UK's vaccine advisers encourage them to discuss the risks and benefits with their doctor.
 5. [Covid-19: Pregnant women should be offered jab and UK infections back at September levels](https://www.bbc.co.uk/news/uk-56775377) - Five things you need to know about the coronavirus pandemic this Friday evening.
 6. [Covid-19: Pandemic funeral services not what people 'deserve'](https://www.bbc.co.uk/news/uk-56765962) - Gary Stewart's wife Jude died in January, but the pandemic meant restrictions on the funeral service.
 7. [Leonardo da Vinci: Aidan Turner glad artist's sexuality reflected in series](https://www.bbc.co.uk/news/entertainment-arts-56769845) - Poldark actor Aidan Turner is playing Leonardo da Vinci in a new historical drama.
