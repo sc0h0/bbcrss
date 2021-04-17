@@ -1,9 +1,9 @@
 1. [Prince Philip's funeral to mark his 'unwavering loyalty'](https://www.bbc.co.uk/news/uk-56779068) - The Duke of Edinburgh's link to the Navy and love of the sea will be a focus of the Windsor service.
 2. [Prince Philip: Queen shares one of her favourite photos](https://www.bbc.co.uk/news/uk-56777064) - Released on the eve of the duke's funeral, it shows the couple relaxing in the Scottish countryside.
 3. [Helen McCrory: Peaky Blinders actress dies aged 52, husband Damian Lewis says](https://www.bbc.co.uk/news/entertainment-arts-56770593) - The star, who has died of cancer, was a "beautiful and mighty woman", her husband Damian Lewis said.
-4. [Raúl Castro steps down as Cuban Communist Party leader](https://www.bbc.co.uk/news/world-latin-america-56780903) - His resignation ends his family's six-decade hold on power in Cuba.
+4. [Covid-19: 'Unethical' vaccine passports and staff plea to returning customers](https://www.bbc.co.uk/news/uk-56781687) - Five things you need to know about the coronavirus pandemic this Saturday morning.
 5. [Nasa chooses SpaceX to build Moon lander](https://www.bbc.co.uk/news/science-environment-56781556) - SpaceX will build a lander that the US space agency will use to return humans to the Moon this decade.
-6. [Covid-19: 'Unethical' vaccine passports and staff plea to returning customers](https://www.bbc.co.uk/news/uk-56781687) - Five things you need to know about the coronavirus pandemic this Saturday morning.
+6. [Raúl Castro steps down as Cuban Communist Party leader](https://www.bbc.co.uk/news/world-latin-america-56780903) - His resignation ends his family's six-decade hold on power in Cuba.
 7. [Government 'risks public trust' without probes into ministers](https://www.bbc.co.uk/news/uk-politics-56763651) - Lord Evans says a number of allegations against ministers "haven't been completely investigated".
 8. [Covid-19: Vaccine passports 'unethical', church ministers warn](https://www.bbc.co.uk/news/uk-56781724) - More than 1,200 ministers have written to the PM warning Covid certificates are a "form of coercion".
 9. [On the front line in eastern Ukraine](https://www.bbc.co.uk/news/world-europe-56776463) - The BBC's Jonah Fisher reports from the front line between soldiers and separatists.
