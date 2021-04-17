@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Apr 2021 14:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 14:57:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Prince Philip: Royal Family remember duke's lifetime of service]]></title>
-            <description><![CDATA[The Duke of Edinburgh's children walked behind his coffin as part of the funeral procession.]]></description>
+            <title><![CDATA[Prince Philip: Royal Family mourn as duke laid to rest]]></title>
+            <description><![CDATA[The congregation were socially distanced, with the Queen seated alone, because of Covid restrictions.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56779068</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56779068</guid>
-            <pubDate>Sat, 17 Apr 2021 14:30:04 GMT</pubDate>
+            <pubDate>Sat, 17 Apr 2021 14:53:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 deaths pass three million worldwide]]></title>
             <description><![CDATA[It comes as the World Health Organization warns of deaths and cases increasing at a "worrying rate".]]></description>
             <link>https://www.bbc.co.uk/news/world-56783878</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56783878</guid>
-            <pubDate>Sat, 17 Apr 2021 14:16:20 GMT</pubDate>
+            <pubDate>Sat, 17 Apr 2021 14:52:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Helen McCrory: Stars pay tribute to Peaky Blinders actress]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-56781556</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56781556</guid>
             <pubDate>Fri, 16 Apr 2021 22:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newcastle United 3-2 West Ham United: Hosts win to boost hopes of avoiding relegation]]></title>
+            <description><![CDATA[Newcastle take a big step towards securing their Premier League status with a dramatic win against 10-man West Ham.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56699181</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56699181</guid>
+            <pubDate>Sat, 17 Apr 2021 14:31:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man charged over Buckingham Palace trespass]]></title>
@@ -94,10 +101,10 @@
         </item>
         <item>
             <title><![CDATA[In Pictures: The Queen and nation bid farewell to Prince Philip]]></title>
-            <description><![CDATA[The funeral for the Duke of Edinburgh is being held in the grounds of Windsor Castle.]]></description>
+            <description><![CDATA[The funeral for the Duke of Edinburgh was held in the grounds of Windsor Castle.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-56779000</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56779000</guid>
-            <pubDate>Sat, 17 Apr 2021 14:17:51 GMT</pubDate>
+            <pubDate>Sat, 17 Apr 2021 14:51:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: The Patriarchs - An Elegy]]></title>
@@ -107,11 +114,11 @@
             <pubDate>Sat, 17 Apr 2021 10:52:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Who is going to Prince Philip's funeral?]]></title>
-            <description><![CDATA[Covid restrictions mean only 30 mourners will be allowed to attend the funeral of the duke.]]></description>
+            <title><![CDATA[Who attended Prince Philip's funeral?]]></title>
+            <description><![CDATA[Covid restrictions mean only 30 mourners were allowed to attend the funeral of the duke.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56765468</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56765468</guid>
-            <pubDate>Fri, 16 Apr 2021 08:44:09 GMT</pubDate>
+            <pubDate>Sat, 17 Apr 2021 14:49:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip: A turbulent childhood stalked by exile, mental illness and death]]></title>
@@ -247,13 +254,6 @@
             <pubDate>Fri, 16 Apr 2021 21:01:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Newcastle United 3-2 West Ham United: Hosts win to boost hopes of avoiding relegation]]></title>
-            <description><![CDATA[Newcastle take a big step towards securing their Premier League status with a dramatic win against 10-man West Ham.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56699181</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56699181</guid>
-            <pubDate>Sat, 17 Apr 2021 14:31:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Norwich promoted back to Premier League at first attempt]]></title>
             <description><![CDATA[Norwich City win promotion to the Premier League as they cannot be caught after Brentford and Swansea's failure to win.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56767583</link>
@@ -268,11 +268,11 @@
             <pubDate>Sat, 17 Apr 2021 14:27:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bellator 257: Report, highlights and full replay]]></title>
-            <description><![CDATA[Vadim Nemkov meets Phil Davis at Bellator 257 while Corey Anderson ends his career and Britons Paul Daley and Saul Rogers feature - and you can watch the full event again on iPlayer.]]></description>
-            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/56783293</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/56783293</guid>
-            <pubDate>Sat, 17 Apr 2021 05:54:23 GMT</pubDate>
+            <title><![CDATA[Exeter stay second with seven-try win over Wasps]]></title>
+            <description><![CDATA[Reigning champions Exeter run in seven tries for a bonus-point win as they come from 13-10 down at half-time to beat Wasps.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56761980</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56761980</guid>
+            <pubDate>Sat, 17 Apr 2021 13:51:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FA Cup: Chelsea's Thomas Tuchel says it's 'so nice and so hard' to face Pep Guardiola]]></title>
@@ -287,6 +287,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/56680530</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56680530</guid>
             <pubDate>Thu, 15 Apr 2021 05:25:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FA Cup: Watch all Chelsea's goals from their journey to the semi-finals]]></title>
+            <description><![CDATA[Watch all of Chelsea's goals from their journey to the 2020-21 FA Cup semi-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56691119</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56691119</guid>
+            <pubDate>Thu, 15 Apr 2021 05:31:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
