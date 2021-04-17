@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Apr 2021 22:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 23:23:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Sat, 17 Apr 2021 20:55:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Regulator warns against use of Peloton treadmill]]></title>
+            <description><![CDATA[The US Consumer Product Safety Commission says it is aware of 39 incidents involving the machine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56790070</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56790070</guid>
+            <pubDate>Sat, 17 Apr 2021 22:50:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Iran nuclear: State TV names suspect in Natanz attack]]></title>
             <description><![CDATA[State TV alleges Reza Karimi fled Iran before the blast, which damaged its Natanz nuclear plant.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-56786263</link>
@@ -86,25 +93,11 @@
             <pubDate>Sat, 17 Apr 2021 18:29:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chelsea 1-0 Man City: Thomas Tuchel's side advance to FA Cup final to end City's quadruple hopes]]></title>
-            <description><![CDATA[Chelsea reach the FA Cup final with a narrow victory to end Manchester City's hopes of a historic quadruple.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56725442</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56725442</guid>
-            <pubDate>Sat, 17 Apr 2021 19:20:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Indianapolis FedEx shooting: Who were the eight victims?]]></title>
             <description><![CDATA[Four of the eight who died at a FedEx warehouse were members of the Sikh community.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56789254</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56789254</guid>
             <pubDate>Sat, 17 Apr 2021 21:24:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philippines: Giant clam shells worth $25m seized in raid]]></title>
-            <description><![CDATA[The 200-tonne seizure is one of the largest ever hauls of the endangered species.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56784215</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56784215</guid>
-            <pubDate>Sat, 17 Apr 2021 08:50:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cambridgeshire Police officer sacked over racial slur]]></title>
@@ -282,6 +275,20 @@
             <pubDate>Fri, 16 Apr 2021 21:01:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chelsea reach FA Cup final and end Man City's quadruple hopes - highlights & report]]></title>
+            <description><![CDATA[Chelsea reach the FA Cup final with a narrow victory to end Manchester City's hopes of a historic quadruple.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56725442</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56725442</guid>
+            <pubDate>Sat, 17 Apr 2021 19:20:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another great Hamilton lap & another political row - all is well in F1]]></title>
+            <description><![CDATA[When the car performance isn't as dominant as it once was, the Hamilton factor keeps Mercedes on top.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/56787357</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56787357</guid>
+            <pubDate>Sat, 17 Apr 2021 18:46:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Boulter seals play-off victory for Britain in Billie Jean King Cup]]></title>
             <description><![CDATA[Great Britain move a step closer to the 2022 Billie Jean King Cup Finals after Katie Boulter clinches a play-off win against Mexico.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/56751714</link>
@@ -296,25 +303,25 @@
             <pubDate>Sat, 17 Apr 2021 21:38:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Demetrius Andrade beats Liam Williams to retain WBO world middleweight title]]></title>
+            <description><![CDATA[Demetrius Andrade defends his WBO world middleweight despite a spirited challenge from Liam Williams.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/56771906</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56771906</guid>
+            <pubDate>Sat, 17 Apr 2021 22:43:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘I can’t believe Guardiola didn’t start his best team’ - BBC pundits on end of Man City quadruple bid]]></title>
+            <description><![CDATA[BBC Sport pundits reflect on Chelsea's FA Cup semi-final win against Manchester City and assess whether Pep Guardiola got his tactics wrong.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56789374</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56789374</guid>
+            <pubDate>Sat, 17 Apr 2021 21:34:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Match of the Day: Poor goal 'sums up Sheffield United's season' as Blades relegated]]></title>
             <description><![CDATA[Alex Scott and Leon Osman look at the "poor goal" Sheffield United concede as they are relegated from the Premier League following a 1-0 defeat to Wolves.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/56790121</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56790121</guid>
             <pubDate>Sat, 17 Apr 2021 22:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FA Cup: If MOTD was a reality TV show... Lineker shows Richards the red card]]></title>
-            <description><![CDATA[Gary Lineker spoofs a reality TV show, teasing Ashley Cole and Micah Richards about which of them will be a pundit for the FA Cup Final.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56789612</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56789612</guid>
-            <pubDate>Sat, 17 Apr 2021 20:19:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch the best tries as France thrash Ireland in Women's Six Nations]]></title>
-            <description><![CDATA[Watch the best tries from France's 56-15 win over Ireland which seals their place in the Six Nations final against England next weekend.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/56788403</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56788403</guid>
-            <pubDate>Sat, 17 Apr 2021 16:03:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
