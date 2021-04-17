@@ -1,4 +1,4 @@
-1. [Prince Philip's funeral to mark his 'unwavering loyalty'](https://www.bbc.co.uk/news/uk-56779068) - The Duke of Edinburgh's children are walking behind his coffin as part of the funeral procession.
+1. [Prince Philip: Royal Family remember duke's lifetime of service](https://www.bbc.co.uk/news/uk-56779068) - The Duke of Edinburgh's children walked behind his coffin as part of the funeral procession.
 2. [Covid-19 deaths pass three million worldwide](https://www.bbc.co.uk/news/world-56783878) - It comes as the World Health Organization warns of deaths and cases increasing at a "worrying rate".
 3. [Helen McCrory: Stars pay tribute to Peaky Blinders actress](https://www.bbc.co.uk/news/entertainment-arts-56785283) - Cillian Murphy, JK Rowling and Sir Sam Mendes lead tributes to the "fearless and magnificent" actress.
 4. [On the front line in eastern Ukraine](https://www.bbc.co.uk/news/world-europe-56776463) - The BBC's Jonah Fisher reports from the front line between soldiers and separatists.
@@ -10,13 +10,13 @@
 10. [Cambridgeshire Police officer sacked over racial slur](https://www.bbc.co.uk/news/uk-england-cambridgeshire-56776303) - Chris Tyler used racist language against a colleague at a Christmas party, a hearing finds.
 11. [Plymouth man in his 70s held on suspicion of murder](https://www.bbc.co.uk/news/uk-england-devon-56784690) - A man and a woman are being questioned by police about the death of a man in Plympton, Devon.
 12. [In Pictures: The Queen and nation bid farewell to Prince Philip](https://www.bbc.co.uk/news/in-pictures-56779000) - The funeral for the Duke of Edinburgh is being held in the grounds of Windsor Castle.
-13. [Prince Philip: The State Bentley and five other features of the duke's funeral explained](https://www.bbc.co.uk/news/uk-56762822) - For all but the most seasoned of royal watchers, they need some further explanation.
-14. [What time is the funeral?](https://www.bbc.co.uk/news/uk-56694327) - What time is the funeral for the Duke of Edinburgh and what will happen?
-15. [Who is going to Prince Philip's funeral?](https://www.bbc.co.uk/news/uk-56765468) - Covid restrictions mean only 30 mourners will be allowed to attend the funeral of the duke.
-16. [Prince Philip: How can Prince Harry attend the funeral?](https://www.bbc.co.uk/news/uk-56709506) - The Duke of Sussex has returned to the UK for the first time since "stepping back" from royal duties.
-17. [Prince Philip: A life in pictures](https://www.bbc.co.uk/news/in-pictures-36417297) - Key photographs, from his early days in the Greek island of Corfu to school days in Scotland and his life alongside the Queen.
-18. [The Queen and Prince Philip: An enduring royal romance](https://www.bbc.co.uk/news/uk-56252745) - During their 73-year marriage, he was the Queen's public support and the person who knew her best.
-19. [Prince Philip: A turbulent childhood stalked by exile, mental illness and death](https://www.bbc.co.uk/news/uk-56690270) - In marrying, Philip was able to regain the "simple pleasures" of family life he had lost aged eight.
+13. [Prince Philip: A turbulent childhood stalked by exile, mental illness and death](https://www.bbc.co.uk/news/uk-56690270) - In marrying, Philip was able to regain the "simple pleasures" of family life he had lost aged eight.
+14. [Who is going to Prince Philip's funeral?](https://www.bbc.co.uk/news/uk-56765468) - Covid restrictions mean only 30 mourners will be allowed to attend the funeral of the duke.
+15. [Prince Philip: A life in pictures](https://www.bbc.co.uk/news/in-pictures-36417297) - Key photographs, from his early days in the Greek island of Corfu to school days in Scotland and his life alongside the Queen.
+16. [The Queen and Prince Philip: An enduring royal romance](https://www.bbc.co.uk/news/uk-56252745) - During their 73-year marriage, he was the Queen's public support and the person who knew her best.
+17. [Prince Philip: The State Bentley and five other features of the duke's funeral explained](https://www.bbc.co.uk/news/uk-56762822) - For all but the most seasoned of royal watchers, they need some further explanation.
+18. [Prince Philip: How can Prince Harry attend the funeral?](https://www.bbc.co.uk/news/uk-56709506) - The Duke of Sussex has returned to the UK for the first time since "stepping back" from royal duties.
+19. [What time is the funeral?](https://www.bbc.co.uk/news/uk-56694327) - What time is the funeral for the Duke of Edinburgh and what will happen?
 20. [Prince Philip: An extraordinary man who led an extraordinary life](https://www.bbc.co.uk/news/uk-50589065) - The Duke of Edinburgh's life was filled with contradictions but will be remembered most for his unstinting support of the Queen.
 21. [In Pictures: Helen McCrory's acting career](https://www.bbc.co.uk/news/entertainment-arts-56779389) - A look back at the characters portrayed by the British actress, who has died aged 52.
 22. [Covid-19: Pandemic funeral services not what people 'deserve'](https://www.bbc.co.uk/news/uk-56765962) - Gary Stewart's wife Jude died in January, but the pandemic meant restrictions on the funeral service.
