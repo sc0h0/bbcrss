@@ -4,7 +4,7 @@
 4. [Russia will face 'consequences' if Navalny dies - US](https://www.bbc.co.uk/news/world-europe-56794744) - International concern grows after doctors for the jailed Putin critic say he needs urgent medical help.
 5. [Prince Philip's funeral: 13.6 million watch ceremony in UK](https://www.bbc.co.uk/news/entertainment-arts-56792086) - Millions more around the world watch the service across online channels, including YouTube.
 6. [Leon: Billionaire Issa brothers buy fast food chain](https://www.bbc.co.uk/news/business-56792024) - The Issa brothers have bought the British fast food chain Leon, which has more than 70 sites.
-7. [Table Mountain fire 'burns out of control' in Cape Town](https://www.bbc.co.uk/news/world-africa-56793317) - The blaze, in Cape Town, has burned a university library, forcing the evacuation of students.
+7. [Table Mountain fire: Historic buildings destroyed in Cape Town](https://www.bbc.co.uk/news/world-africa-56793317) - The University of Cape Town's library and a historic windmill are hit as all students are evacuated.
 8. [Nasa's Ingenuity Mars helicopter set for first flight](https://www.bbc.co.uk/news/science-environment-56704481) - The US space agency is ready to attempt the first powered, controlled flight on another planet.
 9. [Indianapolis gunman bought rifles despite earlier gun confiscation](https://www.bbc.co.uk/news/world-us-canada-56791321) - Brandon Hole legally bought two rifles despite having had a gun confiscated by police months before.
 10. [Covid: Indian variant being investigated in UK](https://www.bbc.co.uk/news/uk-56792740) - Some cases of the Indian variant have been found that are not linked to travel, a scientist says.
