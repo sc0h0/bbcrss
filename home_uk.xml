@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Apr 2021 10:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 10:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -59,7 +59,7 @@
         </item>
         <item>
             <title><![CDATA[Peloton safety: US regulators warn against using treadmill near children]]></title>
-            <description><![CDATA[The US Consumer Product Safety Commission says it is aware of 39 incidents involving the machine.]]></description>
+            <description><![CDATA[The US Consumer Product Safety Commission says it is aware of 39 incidents involving the treadmill.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56790070</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56790070</guid>
             <pubDate>Sat, 17 Apr 2021 22:50:38 GMT</pubDate>
@@ -226,13 +226,6 @@
             <pubDate>Fri, 16 Apr 2021 23:39:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sheff Utd relegated from Premier League after defeat at Wolves]]></title>
-            <description><![CDATA[Sheffield United's relegation to the Championship is confirmed with defeat at Wolverhampton Wanderers.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56699182</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56699182</guid>
-            <pubDate>Sat, 17 Apr 2021 22:22:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Miami to hold first F1 Grand Prix in 2022]]></title>
             <description><![CDATA[Miami will hold its first Grand Prix in 2022 after Formula 1 secured a 10-year deal for a race in the Florida city.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/56792549</link>
@@ -245,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/snooker/56789497</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56789497</guid>
             <pubDate>Sun, 18 Apr 2021 05:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eliud Kipchoge wins NN Mission Marathon in final race before Tokyo Olympics]]></title>
-            <description><![CDATA[Eliud Kipchoge wins the NN Mission Marathon in his final race before he defends his title at the postponed Tokyo 2020 Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/56791111</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/56791111</guid>
-            <pubDate>Sun, 18 Apr 2021 09:39:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip funeral: Duke of Edinburgh laid to rest]]></title>
