@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Apr 2021 19:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 19:36:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Sun, 18 Apr 2021 19:03:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nasa's Ingenuity Mars helicopter set for first flight]]></title>
+            <description><![CDATA[The US space agency is ready to attempt the first powered, controlled flight on another planet.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56704481</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56704481</guid>
+            <pubDate>Sun, 18 Apr 2021 19:09:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Helen McCrory was 'meteor in our life' says husband Damian Lewis]]></title>
             <description><![CDATA[The Peaky Blinders star's husband Damian Lewis says she armed her family with "courage to go on".]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56792079</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56792079</guid>
             <pubDate>Sun, 18 Apr 2021 10:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mars helicopter first flight: Nasa to test Ingenuity]]></title>
-            <description><![CDATA[Ingenuity is set to be the first rotorcraft to fly on another planet. This is how it'll work.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-53587718</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-53587718</guid>
-            <pubDate>Sun, 18 Apr 2021 10:40:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indianapolis gunman bought rifles despite earlier gun confiscation]]></title>
@@ -83,7 +83,7 @@
             <description><![CDATA[Elizabeth Mahoney was put to bed in a stranger's house after being discharged from hospital.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-56794652</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56794652</guid>
-            <pubDate>Sun, 18 Apr 2021 17:42:44 GMT</pubDate>
+            <pubDate>Sun, 18 Apr 2021 19:27:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Syrian family home attacked in Newry 'hate crime']]></title>
@@ -233,6 +233,13 @@
             <pubDate>Fri, 16 Apr 2021 23:39:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Iheanacho winner takes Leicester to first FA Cup final since 1969]]></title>
+            <description><![CDATA[Kelechi Iheanacho's goal settles a tight contest as Leicester edge past Southampton at Wembley to reach their first FA Cup final since 1969.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56725449</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56725449</guid>
+            <pubDate>Sun, 18 Apr 2021 19:25:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Greenwood double as Man Utd beat Burnley to close gap on leaders Man City]]></title>
             <description><![CDATA[Mason Greenwood scores twice as Manchester United beat Burnley to close the gap on Premier League leaders Manchester City.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56706888</link>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/56795481</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56795481</guid>
             <pubDate>Sun, 18 Apr 2021 19:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Match of the Day: Poor goal 'sums up Sheffield United's season' as Blades relegated]]></title>
-            <description><![CDATA[Alex Scott and Leon Osman look at the "poor goal" Sheffield United concede as they are relegated from the Premier League following a 1-0 defeat to Wolves.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56790121</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56790121</guid>
-            <pubDate>Sat, 17 Apr 2021 22:46:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip funeral: Duke of Edinburgh laid to rest]]></title>
