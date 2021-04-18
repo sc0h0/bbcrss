@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Apr 2021 17:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 17:44:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[European Super League: Uefa furious at 12 major clubs signing up to breakaway plans]]></title>
+            <description><![CDATA[Senior Uefa figures are furious that 12 major European clubs, including six from England, have signed up to a breakaway European Super League.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56794673</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56794673</guid>
+            <pubDate>Sun, 18 Apr 2021 17:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Salisbury poisoning suspects 'linked to Czech blast']]></title>
             <description><![CDATA[The Czech Republic expels 18 Russian diplomats after linking the operatives to a 2014 explosion.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56790053</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56790053</guid>
             <pubDate>Sun, 18 Apr 2021 12:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[European Super League: Uefa furious at 11 major clubs signing up to breakaway plans]]></title>
-            <description><![CDATA[Senior Uefa figures are furious that 11 major European clubs, including five from England, have signed up to a breakaway European Super League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56794673</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56794673</guid>
-            <pubDate>Sun, 18 Apr 2021 16:26:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip's funeral: 13.6 million watch ceremony in UK]]></title>
@@ -44,6 +44,13 @@
             <pubDate>Sun, 18 Apr 2021 12:40:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Table Mountain fire 'burns out of control' in Cape Town]]></title>
+            <description><![CDATA[The blaze has so far destroyed part of a cafe at the Rhodes Memorial above the city of Cape Town.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56793317</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56793317</guid>
+            <pubDate>Sun, 18 Apr 2021 14:26:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Helen McCrory was 'meteor in our life' says husband Damian Lewis]]></title>
             <description><![CDATA[The Peaky Blinders star's husband Damian Lewis says she armed her family with "courage to go on".]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56792079</link>
@@ -58,18 +65,11 @@
             <pubDate>Sun, 18 Apr 2021 10:40:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Table Mountain fire 'burns out of control' in Cape Town]]></title>
-            <description><![CDATA[The blaze has so far destroyed part of a cafe at the Rhodes Memorial above the city of Cape Town.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56793317</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56793317</guid>
-            <pubDate>Sun, 18 Apr 2021 14:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greensill row: Ministers 'will look at' ideas for new lobbying rules]]></title>
-            <description><![CDATA[Environment Secretary George Eustice says current systems are "quite robust," but might be tweaked.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56790057</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56790057</guid>
-            <pubDate>Sun, 18 Apr 2021 14:45:48 GMT</pubDate>
+            <title><![CDATA[Indianapolis gunman bought rifles despite earlier gun confiscation]]></title>
+            <description><![CDATA[Brandon Hole legally bought two rifles despite having had a gun confiscated by police months before.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56791321</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56791321</guid>
+            <pubDate>Sun, 18 Apr 2021 09:39:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Indian variant being investigated in UK]]></title>
@@ -237,7 +237,7 @@
             <description><![CDATA[Mason Greenwood scores twice as Manchester United beat Burnley to close the gap on Premier League leaders Manchester City.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56706888</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56706888</guid>
-            <pubDate>Sun, 18 Apr 2021 16:53:47 GMT</pubDate>
+            <pubDate>Sun, 18 Apr 2021 17:39:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rangers reach Scottish Cup quarters & condemn Celtic to first trophyless season since 2010]]></title>
@@ -247,7 +247,7 @@
             <pubDate>Sun, 18 Apr 2021 15:52:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Verstappen wins Emilia Romagna GP as Hamilton recovers]]></title>
+            <title><![CDATA[Verstappen wins Imola classic as Hamilton recovers]]></title>
             <description><![CDATA[Red Bull's Max Verstappen took his first win of the year in a chaotic, incident-strewn Emilia Romagna Grand Prix.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/56793486</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56793486</guid>
@@ -265,7 +265,21 @@
             <description><![CDATA[Eddie Nketiah's goal late in stoppage time for Arsenal delivers a major blow to Fulham's already slim Premier League survival hopes.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56706885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56706885</guid>
-            <pubDate>Sun, 18 Apr 2021 15:59:39 GMT</pubDate>
+            <pubDate>Sun, 18 Apr 2021 17:43:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Match of the Day: Poor goal 'sums up Sheffield United's season' as Blades relegated]]></title>
+            <description><![CDATA[Alex Scott and Leon Osman look at the "poor goal" Sheffield United concede as they are relegated from the Premier League following a 1-0 defeat to Wolves.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56790121</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56790121</guid>
+            <pubDate>Sat, 17 Apr 2021 22:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MLB: Los Angeles Dodgers' Mookie Betts makes diving catch to beat San Diego Padres]]></title>
+            <description><![CDATA[Watch LA Dodgers Mookie Betts' spectacular diving catch on Tommy Pham's line drive for the final out of the game which sealed the Dodgers' 2-0 win against the San Diego Padres.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/baseball/56792920</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/baseball/56792920</guid>
+            <pubDate>Sun, 18 Apr 2021 10:31:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip funeral: Duke of Edinburgh laid to rest]]></title>
