@@ -5,7 +5,7 @@
 5. [Mars helicopter first flight: Nasa to test Ingenuity](https://www.bbc.co.uk/news/science-environment-53587718) - Ingenuity is set to be the first rotorcraft to fly on another planet. This is how it'll work.
 6. [Greensill row: Ministers 'will look at' lobbying rules proposals](https://www.bbc.co.uk/news/uk-politics-56790057) - Environment Secretary George Eustice says current systems are "quite robust," but might be tweaked.
 7. [Covid: Indian variant being investigated in UK](https://www.bbc.co.uk/news/uk-56792740) - Some cases of the Indian variant have been found that are not linked to travel, a scientist says.
-8. [Covid in Scotland: 'Mistake' to discharge Covid patients says Sturgeon](https://www.bbc.co.uk/news/uk-scotland-56791600) - Nicola Sturgeon says moving people from hospital to care homes at the start of the pandemic was an error in hindsight.
+8. [Covid in Scotland: 'Mistake' to discharge Covid patients says Sturgeon](https://www.bbc.co.uk/news/uk-scotland-56791600) - Nicola Sturgeon wants a four nations inquiry into the pandemic to start by the end of the year.
 9. [Putin critic Navalny 'will not be allowed to die in prison'](https://www.bbc.co.uk/news/world-europe-56792529) - Russia's ambassador to the UK says opposition leader Alexei Navalny's medical treatment will be "taken care of".
 10. [Covid: Blossoms to headline 'near-normal' gig trial](https://www.bbc.co.uk/news/uk-56789454) - Ticket-holders for the outdoor concert in Liverpool will have to provide a negative test beforehand.
 11. [YouTube star Jake Paul wins with knockout in two minutes](https://www.bbc.co.uk/sport/boxing/56791174) - YouTube star-turned-boxer Jake Paul wins his fight with ex-UFC fighter Ben Askren with a first-round knockout inside two minutes.
