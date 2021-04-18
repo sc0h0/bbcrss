@@ -9,7 +9,7 @@
 9. [Indianapolis gunman bought rifles despite earlier gun confiscation](https://www.bbc.co.uk/news/world-us-canada-56791321) - Brandon Hole legally bought two rifles despite having had a gun confiscated by police months before.
 10. [Covid: Indian variant being investigated in UK](https://www.bbc.co.uk/news/uk-56792740) - Some cases of the Indian variant have been found that are not linked to travel, a scientist says.
 11. [Welsh Ambulance Service crew dropped woman, 89, off at wrong house](https://www.bbc.co.uk/news/uk-wales-56794652) - Elizabeth Mahoney was put to bed in a stranger's house after being discharged from hospital.
-12. [Syrian family home attacked in Newry 'hate crime'](https://www.bbc.co.uk/news/uk-northern-ireland-56794263) - The family, who recently moved to the area, have been forced to flee their home, a councillor says.
+12. [Frank Judd: Former Labour minister and peer dies aged 86](https://www.bbc.co.uk/news/uk-politics-56796449) - Paying tribute, the party's leader says he "fought for peace, human rights and social justice".
 13. [Police officers 'took seized Bentley on Cheshunt drive'](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56792910) - They sped up and down a dual carriageway after seizing it from a driver, a misconduct panel hears.
 14. [Plane ditches in ocean during Florida airshow](https://www.bbc.co.uk/news/world-us-canada-56792530) - The World War Two-era aircraft made an emergency landing in shallow water.
 15. [Surrey cyclist's 5,000-mile challenge inspired by barefoot walk](https://www.bbc.co.uk/news/uk-england-surrey-56784396) - Josh Garman is aiming to cycle around the coastline of Great Britain for charity.
