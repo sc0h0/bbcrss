@@ -10,7 +10,7 @@
 10. [YouTube star wins with knockout inside two minutes](https://www.bbc.co.uk/sport/boxing/56791174) - YouTube star-turned-boxer Jake Paul wins his fight with ex-UFC fighter Ben Askren with a first-round knockout inside two minutes.
 11. [Charles Geschke: Adobe co-founder who helped develop the PDF dies](https://www.bbc.co.uk/news/world-us-canada-56791873) - Charles Geschke set up Adobe in 1982, giving the world the ubiquitous PDF technology.
 12. [Inside the chemist's made entirely out of felt](https://www.bbc.co.uk/news/entertainment-arts-56773534) - After wowing art lovers in the US and China, Lucy Sparrow's latest felt fantasy is her first UK show in five years.
-13. [The Papers: 'The loneliest goodbye' as Queen bids 'farewell'](https://www.bbc.co.uk/news/blogs-the-papers-56790040) - The Duke of Edinburgh's funeral dominates Sunday's papers, with images of the Queen sitting alone.
+13. [Plane ditches in ocean during Florida airshow](https://www.bbc.co.uk/news/world-us-canada-56792530) - The World War Two-era aircraft made an emergency landing in shallow water.
 14. [The Zurich students living cheaply in a luxury hotel](https://www.bbc.co.uk/news/world-europe-56776462) - Students in one of the world's most expensive cities get stunning views of Zurich in a former business hotel.
 15. [These teenage climate activists are pushing for change in Australia](https://www.bbc.co.uk/news/world-australia-56765408) - These teenage climate activists are pushing for change in Australia.
 16. [Indianapolis FedEx shooting: Who were the eight victims?](https://www.bbc.co.uk/news/world-us-canada-56789254) - Four of the eight who died at a FedEx warehouse were members of the Sikh community.
