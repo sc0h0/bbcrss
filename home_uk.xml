@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Apr 2021 05:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 06:29:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Sun, 18 Apr 2021 01:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Queen sits alone at funeral, and three million deaths worldwide]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Sunday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56790414</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56790414</guid>
+            <pubDate>Sun, 18 Apr 2021 06:21:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China and US pledge climate change commitment]]></title>
             <description><![CDATA[The US and China announced actions to tackle climate change following meetings in Shanghai last week.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-56790077</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56790070</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56790070</guid>
             <pubDate>Sat, 17 Apr 2021 22:50:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Helen McCrory: Stars pay tribute to Peaky Blinders actress]]></title>
-            <description><![CDATA[Cillian Murphy, JK Rowling and Sir Sam Mendes lead tributes to the "fearless and magnificent" actress.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56785283</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56785283</guid>
-            <pubDate>Sat, 17 Apr 2021 18:29:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indianapolis FedEx shooting: Who were the eight victims?]]></title>
@@ -212,8 +212,8 @@
             <pubDate>Sat, 17 Apr 2021 18:46:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Andrade beats Williams to retain world middleweight title]]></title>
-            <description><![CDATA[Demetrius Andrade defends his WBO world middleweight despite a spirited challenge from Liam Williams.]]></description>
+            <title><![CDATA[Wales' Williams loses world title challenge to unbeaten Andrade]]></title>
+            <description><![CDATA[Liam Williams loses his WBO world middleweight challenge against Demetrius Andrade by a unanimous points decision in Hollywood.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/56771906</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56771906</guid>
             <pubDate>Sat, 17 Apr 2021 22:43:43 GMT</pubDate>
@@ -238,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/av/snooker/56790151</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/snooker/56790151</guid>
             <pubDate>Sat, 17 Apr 2021 23:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch the best tries as France thrash Ireland in Women's Six Nations]]></title>
-            <description><![CDATA[Watch the best tries from France's 56-15 win over Ireland which seals their place in the Six Nations final against England next weekend.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/56788403</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/56788403</guid>
-            <pubDate>Sat, 17 Apr 2021 16:03:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip funeral: Pictures as Queen and nation bid farewell to the duke]]></title>
