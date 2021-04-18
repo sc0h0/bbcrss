@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Apr 2021 14:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 14:47:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,18 @@
             <pubDate>Sun, 18 Apr 2021 10:40:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Greensill row: Ministers 'will look at' lobbying rules proposals]]></title>
+            <title><![CDATA[Table Mountain fire 'burns out of control' in Cape Town]]></title>
+            <description><![CDATA[The blaze has so far destroyed part of a cafe at the Rhodes Memorial above the city of Cape Town.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56793317</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56793317</guid>
+            <pubDate>Sun, 18 Apr 2021 14:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greensill row: Ministers 'will look at' ideas for new lobbying rules]]></title>
             <description><![CDATA[Environment Secretary George Eustice says current systems are "quite robust," but might be tweaked.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56790057</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56790057</guid>
-            <pubDate>Sun, 18 Apr 2021 12:02:52 GMT</pubDate>
+            <pubDate>Sun, 18 Apr 2021 14:45:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Indian variant being investigated in UK]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-56789454</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56789454</guid>
             <pubDate>Sun, 18 Apr 2021 13:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YouTube star Jake Paul wins with knockout in two minutes]]></title>
-            <description><![CDATA[YouTube star-turned-boxer Jake Paul wins his fight with ex-UFC fighter Ben Askren with a first-round knockout inside two minutes.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/56791174</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56791174</guid>
-            <pubDate>Sun, 18 Apr 2021 07:38:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Charles Geschke: Adobe co-founder who helped develop the PDF dies]]></title>
@@ -217,6 +217,13 @@
             <link>https://www.bbc.co.uk/news/blogs-trending-56772902</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-56772902</guid>
             <pubDate>Fri, 16 Apr 2021 23:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Late Nketiah goal denies Fulham vital win at Arsenal]]></title>
+            <description><![CDATA[Eddie Nketiah's goal late in stoppage time for Arsenal delivers a major blow to Fulham's already slim Premier League survival hopes.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56706885</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56706885</guid>
+            <pubDate>Sun, 18 Apr 2021 14:37:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip funeral: Duke of Edinburgh laid to rest]]></title>
