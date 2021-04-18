@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Apr 2021 15:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 15:51:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -84,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/uk-56789454</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56789454</guid>
             <pubDate>Sun, 18 Apr 2021 15:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brighton beach closed over suspected unexploded mortar shell]]></title>
+            <description><![CDATA[Explosives experts are called in as the area near the Palace Pier is cordoned off by police.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-56794690</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-56794690</guid>
+            <pubDate>Sun, 18 Apr 2021 15:33:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Charles Geschke: Adobe co-founder who helped develop the PDF dies]]></title>
@@ -223,7 +230,14 @@
             <description><![CDATA[Eddie Nketiah's goal late in stoppage time for Arsenal delivers a major blow to Fulham's already slim Premier League survival hopes.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56706885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56706885</guid>
-            <pubDate>Sun, 18 Apr 2021 15:07:42 GMT</pubDate>
+            <pubDate>Sun, 18 Apr 2021 15:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verstappen wins Emilia Romagna GP as Hamilton recovers]]></title>
+            <description><![CDATA[Red Bull's Max Verstappen took his first win of the year in a chaotic, incident-strewn Emilia Romagna Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/56793486</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56793486</guid>
+            <pubDate>Sun, 18 Apr 2021 15:24:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip funeral: Duke of Edinburgh laid to rest]]></title>
