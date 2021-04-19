@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Apr 2021 23:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 23:50:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,11 +107,32 @@
             <pubDate>Mon, 19 Apr 2021 21:19:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Newspaper headlines: 'Great game robbery' and 'red card from Wills']]></title>
+            <description><![CDATA[Opposition and anger towards the European Super League plans dominate Tuesday morning's front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56810441</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56810441</guid>
+            <pubDate>Mon, 19 Apr 2021 23:39:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Are black women getting enough support for mental health?]]></title>
             <description><![CDATA[Black women are more likely than white women to experience common mental health problems.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56765171</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56765171</guid>
             <pubDate>Mon, 19 Apr 2021 23:09:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a bicycle tripled one woman's income]]></title>
+            <description><![CDATA["You realise what a bicycle can do. It's a catalyst for unlocking so much potential."]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56806444</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56806444</guid>
+            <pubDate>Mon, 19 Apr 2021 23:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redonda: The Caribbean island transformed into an eco haven]]></title>
+            <description><![CDATA[After invasive rats and goats were removed from Redonda, the island's wildlife has been thriving.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56740670</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56740670</guid>
+            <pubDate>Mon, 19 Apr 2021 23:20:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handcuffed, blindfolded and beaten on Libya's front line]]></title>
@@ -149,39 +170,11 @@
             <pubDate>Sun, 18 Apr 2021 11:40:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Surrey cyclist's 5,000-mile challenge inspired by barefoot walk]]></title>
-            <description><![CDATA[Josh Garman is aiming to cycle around the coastline of Great Britain for charity.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-surrey-56784396</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-surrey-56784396</guid>
-            <pubDate>Sun, 18 Apr 2021 14:54:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teenage blacksmith Ben Perkins forges social media following]]></title>
-            <description><![CDATA[Ben Perkins built a blacksmith's forge in his back garden and taught himself the traditional craft.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-56733672</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56733672</guid>
-            <pubDate>Sun, 18 Apr 2021 23:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Helen McCrory was 'meteor in our life', says husband Damian Lewis]]></title>
-            <description><![CDATA[The Peaky Blinders star's husband Damian Lewis says she armed her family with "courage to go on".]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56792079</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56792079</guid>
-            <pubDate>Sun, 18 Apr 2021 10:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the chemist's made entirely out of felt]]></title>
-            <description><![CDATA[After wowing art lovers in the US and China, Lucy Sparrow's latest felt fantasy is her first UK show in five years.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56773534</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56773534</guid>
-            <pubDate>Sat, 17 Apr 2021 23:02:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[George Floyd death: Five key moments from the Derek Chauvin trial]]></title>
-            <description><![CDATA[As the jury deliberates a verdict, here are the key elements of a trial that has gripped the US.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56802198</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56802198</guid>
-            <pubDate>Mon, 19 Apr 2021 21:03:50 GMT</pubDate>
+            <title><![CDATA[Oscars 2021: 19 geeky facts from Borat to Boseman]]></title>
+            <description><![CDATA[Everything you need to know ahead of the 93rd Academy Awards on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55325109</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55325109</guid>
+            <pubDate>Mon, 19 Apr 2021 23:13:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Super League: Why are football's biggest clubs starting a new tournament?]]></title>
@@ -189,6 +182,27 @@
             <link>https://www.bbc.co.uk/news/business-56768728</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56768728</guid>
             <pubDate>Mon, 19 Apr 2021 16:57:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could electric tattoos be the next step in body art?]]></title>
+            <description><![CDATA[Researchers are experimenting with thin, flexible circuits that can be transferred to the skin.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56561708</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56561708</guid>
+            <pubDate>Mon, 19 Apr 2021 23:08:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ugandan mum who was once ashamed of her gay son]]></title>
+            <description><![CDATA[A support group in Uganda is helping parents come to terms with their children's sexuality.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56773018</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56773018</guid>
+            <pubDate>Mon, 19 Apr 2021 23:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[George Floyd death: Five key moments from the Derek Chauvin trial]]></title>
+            <description><![CDATA[As the jury deliberates a verdict, here are the key elements of a trial that has gripped the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56802198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56802198</guid>
+            <pubDate>Mon, 19 Apr 2021 21:03:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The GRU: Blast puts spotlight on shadowy Russian force]]></title>
@@ -203,41 +217,6 @@
             <link>https://www.bbc.co.uk/news/56801288</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56801288</guid>
             <pubDate>Mon, 19 Apr 2021 16:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 vaccines: What's happening to unused jabs?]]></title>
-            <description><![CDATA[Surplus vaccine doses are piling up in some countries while others say they are not getting enough.]]></description>
-            <link>https://www.bbc.co.uk/news/world-56763490</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56763490</guid>
-            <pubDate>Sun, 18 Apr 2021 23:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The disabled doctors not believed by their colleagues]]></title>
-            <description><![CDATA[People often feel nervous when they visit a doctor, but what if you are a doctor but your colleagues don't believe you're ill?]]></description>
-            <link>https://www.bbc.co.uk/news/disability-56244376</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-56244376</guid>
-            <pubDate>Sun, 18 Apr 2021 23:04:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abba: Why the UK gave the Swedish band 'nul points' at Eurovision]]></title>
-            <description><![CDATA[Björn Ulvaeus on the Swedish band's song contest win on British soil, and the future of streaming.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56743279</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56743279</guid>
-            <pubDate>Mon, 19 Apr 2021 00:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northern Ireland: Did anyone warn about Brexit border checks?]]></title>
-            <description><![CDATA[Border checks have caused tension in Northern Ireland but were there warnings in the Brexit campaign?]]></description>
-            <link>https://www.bbc.co.uk/news/56763859</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/56763859</guid>
-            <pubDate>Mon, 19 Apr 2021 00:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Time: A love story coloured by incarceration]]></title>
-            <description><![CDATA[Garrett Bradley may become the first black director to win an Oscar for her first feature documentary.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56753968</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56753968</guid>
-            <pubDate>Sun, 18 Apr 2021 23:12:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Cup and Euros ban threat for Super League players]]></title>
@@ -324,11 +303,32 @@
             <pubDate>Mon, 19 Apr 2021 15:08:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[When does the stamp duty holiday in England and Northern Ireland end?]]></title>
+            <description><![CDATA[What is the stamp duty holiday and when will it finish?]]></description>
+            <link>https://www.bbc.co.uk/news/business-53319433</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53319433</guid>
+            <pubDate>Mon, 19 Apr 2021 12:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Mon, 19 Apr 2021 16:14:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Which countries are on the red list and what are the quarantine rules?]]></title>
             <description><![CDATA[Many travellers are no longer allowed to enter the UK from countries on the "red list".]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52544307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
             <pubDate>Mon, 19 Apr 2021 15:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
+            <description><![CDATA[People 45 or over in England are being offered a Covid vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Mon, 19 Apr 2021 15:50:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What's the risk on transport?]]></title>
@@ -350,20 +350,6 @@
             <link>https://www.bbc.co.uk/news/education-51643556</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
             <pubDate>Fri, 16 Apr 2021 16:08:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 19 Apr 2021 16:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
-            <description><![CDATA[People 45 or over in England are being offered a Covid vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55045639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Mon, 19 Apr 2021 15:50:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are so many babies dying of Covid-19 in Brazil?]]></title>
