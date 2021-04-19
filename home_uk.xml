@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Apr 2021 09:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 09:56:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Mon, 19 Apr 2021 05:51:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: UK investigates India variant and job centre staff 'feel unsafe']]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56795389</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56795389</guid>
-            <pubDate>Mon, 19 Apr 2021 07:16:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Clergy speak out over 'racism in Church of England']]></title>
             <description><![CDATA[Staff complaining of racism have been paid off to "buy their silence", the BBC is told.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56779190</link>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-56796324</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56796324</guid>
             <pubDate>Mon, 19 Apr 2021 08:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HSBC boss Noel Quinn scraps executive floor at London HQ]]></title>
+            <description><![CDATA[Bank chief Noel Quinn says the "new reality of life" is people will not be in the office five days a week.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56799720</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56799720</guid>
+            <pubDate>Mon, 19 Apr 2021 08:54:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Priti Patel: Facebook encryption plan ‘must not hamper child protection’]]></title>
@@ -72,6 +72,13 @@
             <pubDate>Sun, 18 Apr 2021 20:44:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mourinho sacked by Tottenham after 17 months in charge]]></title>
+            <description><![CDATA[Jose Mourinho is sacked by Tottenham Hotspur after just 17 months in charge.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56799400</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56799400</guid>
+            <pubDate>Mon, 19 Apr 2021 09:52:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Job centre workers 'feel unsafe returning to work']]></title>
             <description><![CDATA[A union representing job centre staff says three in five feel unsafe interacting with the public.]]></description>
             <link>https://www.bbc.co.uk/news/business-56795862</link>
@@ -86,13 +93,6 @@
             <pubDate>Mon, 19 Apr 2021 03:17:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australia opens travel bubble with New Zealand]]></title>
-            <description><![CDATA[The world's first major travel bubble set up in the Covid pandemic allows quarantine-free visits.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-56796679</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56796679</guid>
-            <pubDate>Mon, 19 Apr 2021 05:58:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: Queen's 'loneliest birthday' and Super League fury]]></title>
             <description><![CDATA[Many papers lead with the aftermath of Prince Philip's funeral and what the Royal Family does next.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56796272</link>
@@ -100,7 +100,7 @@
             <pubDate>Mon, 19 Apr 2021 04:09:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Libya: Ten years on the front line]]></title>
+            <title><![CDATA[Handcuffed, blindfolded and beaten on Libya's front line]]></title>
             <description><![CDATA[Special correspondent Feras Kilani on what it's been like to cover the 10 years since Colonel Gaddafi was deposed and killed.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-56773817</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56773817</guid>
@@ -189,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56753968</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56753968</guid>
             <pubDate>Sun, 18 Apr 2021 23:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mourinho sacked by Tottenham after 17 months in charge]]></title>
-            <description><![CDATA[Jose Mourinho is sacked by Tottenham Hotspur after just 17 months in charge.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56799400</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56799400</guid>
-            <pubDate>Mon, 19 Apr 2021 09:42:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[European Super League a 'grotesque concept', says Villa chief executive Purslow]]></title>
