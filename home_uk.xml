@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Apr 2021 09:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 10:28:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,39 @@
             <pubDate>Mon, 19 Apr 2021 07:43:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: Boris Johnson cancels India trip amid rising cases]]></title>
-            <description><![CDATA[Prime Ministers Boris Johnson and and Narendra Modi "will meet in person later this year".]]></description>
+            <title><![CDATA[Coronavirus: 'Only sensible' to cancel India trip says Johnson]]></title>
+            <description><![CDATA[The PM's visit has been cancelled amid concerns over rising Covid cases in the country.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56800305</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56800305</guid>
-            <pubDate>Mon, 19 Apr 2021 09:21:22 GMT</pubDate>
+            <pubDate>Mon, 19 Apr 2021 09:55:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harry Richford: East Kent NHS Trust pleads guilty over baby death]]></title>
+            <description><![CDATA[The East Kent NHS Trust admits failing a mother and her baby, who died seven days after birth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-56800977</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-56800977</guid>
+            <pubDate>Mon, 19 Apr 2021 10:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AJ Tracey: Gig organisers fined £10k for Covid rule breach in Manchester]]></title>
+            <description><![CDATA[Greater Manchester Police has warned of flouting restrictions after gathering in Platts Field Park.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56799333</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56799333</guid>
+            <pubDate>Mon, 19 Apr 2021 08:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mourinho sacked by Tottenham after 17 months in charge]]></title>
+            <description><![CDATA[Jose Mourinho is sacked by Tottenham Hotspur after just 17 months in charge.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56799400</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56799400</guid>
+            <pubDate>Mon, 19 Apr 2021 10:08:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Young people to be reinfected with Covid for study]]></title>
+            <description><![CDATA[Scientists will see how the immune system copes second time round, by deliberately infecting volunteers.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56799112</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56799112</guid>
+            <pubDate>Mon, 19 Apr 2021 10:06:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Low-deposit mortgage scheme launched]]></title>
@@ -58,34 +86,6 @@
             <pubDate>Mon, 19 Apr 2021 08:54:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Priti Patel: Facebook encryption plan ‘must not hamper child protection’]]></title>
-            <description><![CDATA[The Home Secretary will deliver a speech critical of Facebook's privacy plan for its apps.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56795852</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56795852</guid>
-            <pubDate>Sun, 18 Apr 2021 23:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Table Mountain fire: Historic buildings destroyed in Cape Town]]></title>
-            <description><![CDATA[The University of Cape Town's library and a historic windmill are hit as all students are evacuated.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56793317</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56793317</guid>
-            <pubDate>Sun, 18 Apr 2021 20:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mourinho sacked by Tottenham after 17 months in charge]]></title>
-            <description><![CDATA[Jose Mourinho is sacked by Tottenham Hotspur after just 17 months in charge.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56799400</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56799400</guid>
-            <pubDate>Mon, 19 Apr 2021 09:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Job centre workers 'feel unsafe returning to work']]></title>
-            <description><![CDATA[A union representing job centre staff says three in five feel unsafe interacting with the public.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56795862</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56795862</guid>
-            <pubDate>Sun, 18 Apr 2021 23:16:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Byron Bay: Calls for Netflix boycott over reality show plans]]></title>
             <description><![CDATA[Plans for the reality show featuring "hot Instagrammers" have sparked anger in the coastal community.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56796681</link>
@@ -93,18 +93,18 @@
             <pubDate>Mon, 19 Apr 2021 03:17:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: Queen's 'loneliest birthday' and Super League fury]]></title>
-            <description><![CDATA[Many papers lead with the aftermath of Prince Philip's funeral and what the Royal Family does next.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56796272</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56796272</guid>
-            <pubDate>Mon, 19 Apr 2021 04:09:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Handcuffed, blindfolded and beaten on Libya's front line]]></title>
             <description><![CDATA[Special correspondent Feras Kilani on what it's been like to cover the 10 years since Colonel Gaddafi was deposed and killed.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-56773817</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56773817</guid>
             <pubDate>Sun, 18 Apr 2021 23:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Queen's 'loneliest birthday' and Super League fury]]></title>
+            <description><![CDATA[Many papers lead with the aftermath of Prince Philip's funeral and what the Royal Family does next.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56796272</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56796272</guid>
+            <pubDate>Mon, 19 Apr 2021 04:09:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teenage blacksmith Ben Perkins forges social media following]]></title>
@@ -205,6 +205,13 @@
             <pubDate>Sun, 18 Apr 2021 23:03:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Amateur jockey Brooke dies in hospital after fall at Taunton]]></title>
+            <description><![CDATA[Amateur jockey Lorna Brooke dies in hospital after a fall during a race at Taunton earlier this month.]]></description>
+            <link>https://www.bbc.co.uk/sport/horse-racing/56798062</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/horse-racing/56798062</guid>
+            <pubDate>Mon, 19 Apr 2021 09:56:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['A chance to create history' - Leicester reach first FA Cup final since 1969 - highlights & report]]></title>
             <description><![CDATA[Leicester City boss Brendan Rodgers says his side have "the chance to create history" after reaching their first FA Cup final since 1969 at the expense of Southampton at Wembley.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56725449</link>
@@ -252,6 +259,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-humber-56735787</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-56735787</guid>
             <pubDate>Mon, 19 Apr 2021 00:10:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the Indian, Brazil, South Africa and UK variants?]]></title>
+            <description><![CDATA[Cases are being found in the UK and the changes the virus is undergoing are concerning.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55659820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
+            <pubDate>Mon, 19 Apr 2021 09:50:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What's the risk on transport?]]></title>
