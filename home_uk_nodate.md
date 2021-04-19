@@ -1,4 +1,4 @@
-1. [European Super League: Ministers will do 'whatever it takes' to block breakaway](https://www.bbc.co.uk/news/uk-politics-56807515) - The PM says the government will be working to make sure the competition does not go ahead as proposed.
+1. [European Super League: Ministers say they will work to block breakaway group](https://www.bbc.co.uk/news/uk-politics-56807515) - The PM says the government will be working to make sure the competition does not go ahead as proposed.
 2. [European Super League: Liverpool boss Jurgen Klopp against idea](https://www.bbc.co.uk/sport/football/56809771) - Liverpool manager Jurgen Klopp says he remains opposed to the idea of a European Super League as opposition to the plan mounts.
 3. [Covid-19: India added to coronavirus ‘red list’ for travel](https://www.bbc.co.uk/news/uk-56806103) - It means most travel to the UK from India will be banned from 04:00 BST on Friday, amid Covid concerns.
 4. [Government to speed up UK climate change target](https://www.bbc.co.uk/news/uk-politics-56807520) - Boris Johnson says carbon emissions must fall by 78% by 2035 - 15 years earlier than previously planned.
@@ -14,10 +14,10 @@
 14. [Handcuffed, blindfolded and beaten on Libya's front line](https://www.bbc.co.uk/news/world-africa-56773817) - Special correspondent Feras Kilani on what it's been like to cover the 10 years since Colonel Gaddafi was deposed and killed.
 15. ['Do you know who the West of England mayor is?'](https://www.bbc.co.uk/news/uk-56808466) - The PM was short of answers when asked about the Tory mayor while campaigning in Gloucestershire.
 16. [Australia New Zealand bubble: Emotional families reunite as quarantine-free travel begins](https://www.bbc.co.uk/news/world-australia-56798393) - The first flight, from Sydney to Auckland, carried thrilled travellers to reunite with loved ones.
-17. [Teenage blacksmith Ben Perkins forges social media following](https://www.bbc.co.uk/news/uk-england-56733672) - Ben Perkins built a blacksmith's forge in his back garden and taught himself the traditional craft.
-18. [Star Wars: David Prowse's collection to be auctioned off](https://www.bbc.co.uk/news/uk-england-bristol-56799244) - Items from actor David Prowse, who played villain Darth Vader, are up for sale.
-19. [Plane ditches in ocean during Florida airshow](https://www.bbc.co.uk/news/world-us-canada-56792530) - The World War Two-era aircraft made an emergency landing in shallow water.
-20. [Surrey cyclist's 5,000-mile challenge inspired by barefoot walk](https://www.bbc.co.uk/news/uk-england-surrey-56784396) - Josh Garman is aiming to cycle around the coastline of Great Britain for charity.
+17. [Star Wars: David Prowse's collection to be auctioned off](https://www.bbc.co.uk/news/uk-england-bristol-56799244) - Items from actor David Prowse, who played villain Darth Vader, are up for sale.
+18. [Plane ditches in ocean during Florida airshow](https://www.bbc.co.uk/news/world-us-canada-56792530) - The World War Two-era aircraft made an emergency landing in shallow water.
+19. [Surrey cyclist's 5,000-mile challenge inspired by barefoot walk](https://www.bbc.co.uk/news/uk-england-surrey-56784396) - Josh Garman is aiming to cycle around the coastline of Great Britain for charity.
+20. [Teenage blacksmith Ben Perkins forges social media following](https://www.bbc.co.uk/news/uk-england-56733672) - Ben Perkins built a blacksmith's forge in his back garden and taught himself the traditional craft.
 21. [Helen McCrory was 'meteor in our life', says husband Damian Lewis](https://www.bbc.co.uk/news/entertainment-arts-56792079) - The Peaky Blinders star's husband Damian Lewis says she armed her family with "courage to go on".
 22. [Inside the chemist's made entirely out of felt](https://www.bbc.co.uk/news/entertainment-arts-56773534) - After wowing art lovers in the US and China, Lucy Sparrow's latest felt fantasy is her first UK show in five years.
 23. [George Floyd death: Five key moments from the Derek Chauvin trial](https://www.bbc.co.uk/news/world-us-canada-56802198) - As the jury deliberates a verdict, here are the key elements of a trial that has gripped the US.
