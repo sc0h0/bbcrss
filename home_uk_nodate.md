@@ -4,7 +4,7 @@
 4. [Coronavirus: 'Only sensible' to cancel India trip says Johnson](https://www.bbc.co.uk/news/uk-politics-56800305) - The PM's visit has been cancelled amid concerns over rising Covid cases in the country.
 5. [Fishmongers' Hall inquest: Witness thought terrorist Usman Khan was 'play-fighting'](https://www.bbc.co.uk/news/uk-england-london-56802888) - Marc Conway describes coming face to face with terrorist Usman Khan at Fishmongers' Hall in London.
 6. [AJ Tracey: Gig organisers fined £10k for Covid rule breach in Manchester](https://www.bbc.co.uk/news/newsbeat-56799333) - Greater Manchester Police has warned of flouting restrictions after gathering in Platts Field Park.
-7. [Starmer told to leave pub over Covid lockdown policies](https://www.bbc.co.uk/news/uk-politics-56802020) - The Labour leader is told he has "failed this country" for failing to oppose government lockdown policies.
+7. [Starmer told to leave Bath pub over Covid lockdown policies](https://www.bbc.co.uk/news/uk-politics-56802020) - The Labour leader is told he has "failed this country" for failing to oppose government lockdown policies.
 8. [Mourinho sacked by Tottenham after 17 months in charge](https://www.bbc.co.uk/sport/football/56799400) - Jose Mourinho is sacked by Tottenham Hotspur after just 17 months in charge.
 9. [Two men killed in Tesla car crash 'without driver' in seat](https://www.bbc.co.uk/news/technology-56799749) - One victim was found in the front passenger seat and the other was in the back after the accident in Texas.
 10. [US neo-Nazi group should be banned in UK, home secretary says](https://www.bbc.co.uk/news/uk-56803647) - Atomwaffen Division have been cited as influencing British teenagers convicted of terror offences.
