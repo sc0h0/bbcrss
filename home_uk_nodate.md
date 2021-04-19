@@ -1,4 +1,4 @@
-1. [India added to coronavirus ‘red list’](https://www.bbc.co.uk/news/uk-56806103) - India is added to the “red list” of countries from which most travel to the UK is banned amid Covid concerns.
+1. [Covid-19: India added to coronavirus ‘red list’ for travel](https://www.bbc.co.uk/news/uk-56806103) - It means most travel to the UK from India will be banned from 04:00 BST on Friday, amid Covid concerns.
 2. [European Super League a 'spit in the face of all football lovers', says Uefa president Aleksander Ceferin](https://www.bbc.co.uk/sport/football/56800351) - Uefa president Aleksander Ceferin says the European Super League is a "disgraceful, self-serving" proposal.
 3. [Super League: Why are football's biggest clubs starting a new tournament?](https://www.bbc.co.uk/news/business-56768728) - Europe's biggest teams have suffered during the Covid pandemic and say they want financial stability.
 4. [Nasa successfully flies small helicopter on Mars](https://www.bbc.co.uk/news/science-environment-56799755) - The Ingenuity drone completes the first powered, controlled flight by an aircraft on another world.
