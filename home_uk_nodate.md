@@ -1,4 +1,4 @@
-1. ['Big Six' agree to join European Super League](https://www.bbc.co.uk/sport/football/56795811) - Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham are among 12 clubs who have agreed to join a new European Super League.
+1. ['Big Six' agree to join European Super League](https://www.bbc.co.uk/sport/football/56795811) - Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham are among 12 clubs who agree to join a new European Super League.
 2. [Low-deposit mortgage scheme launched](https://www.bbc.co.uk/news/business-56777436) - First-time buyers will get cheaper deals if they can stretch to a bigger deposit, analysts say.
 3. [Clergy speak out over 'racism in Church of England'](https://www.bbc.co.uk/news/uk-56779190) - Some staff who complained of racism within the Church have been paid off to "buy their silence".
 4. [Russia expels Czech diplomats over explosion row](https://www.bbc.co.uk/news/world-europe-56796324) - The Czech Republic says Russia was involved in a deadly blast at a munitions factory in 2014.
@@ -6,10 +6,10 @@
 6. [Table Mountain fire: Historic buildings destroyed in Cape Town](https://www.bbc.co.uk/news/world-africa-56793317) - The University of Cape Town's library and a historic windmill are hit as all students are evacuated.
 7. [Big Ask: Children in England asked their hopes for post-Covid future](https://www.bbc.co.uk/news/education-56795922) - Millions of children in England will be surveyed in an attempt to tackle "generational problems".
 8. [Job centre workers 'feel unsafe returning to work'](https://www.bbc.co.uk/news/business-56795862) - A union representing job centre staff says three in five feel unsafe interacting with the public.
-9. [Australia opens travel bubble with New Zealand](https://www.bbc.co.uk/news/world-australia-56796679) - The world's first major travel bubble set up in the Covid pandemic allows quarantine-free visits.
-10. [2021 elections: Voters urged to register ahead of polls deadline](https://www.bbc.co.uk/news/uk-politics-56773854) - Up to 9.4 million people have not yet ensured they can cast a ballot in May's elections.
-11. [Russia will face 'consequences' if Navalny dies - US](https://www.bbc.co.uk/news/world-europe-56794744) - International concern grows after doctors for the jailed Putin critic say he needs urgent medical help.
-12. [Nasa's Ingenuity Mars helicopter set for first flight](https://www.bbc.co.uk/news/science-environment-56704481) - The US space agency is ready to attempt the first powered, controlled flight on another planet.
+9. [Byron Bay: Calls for Netflix boycott over reality show plans](https://www.bbc.co.uk/news/world-australia-56796681) - Plans for the reality show featuring "hot Instagrammers" have sparked anger in the coastal community.
+10. [Australia opens travel bubble with New Zealand](https://www.bbc.co.uk/news/world-australia-56796679) - The world's first major travel bubble set up in the Covid pandemic allows quarantine-free visits.
+11. [2021 elections: Voters urged to register ahead of polls deadline](https://www.bbc.co.uk/news/uk-politics-56773854) - Up to 9.4 million people have not yet ensured they can cast a ballot in May's elections.
+12. [Russia will face 'consequences' if Navalny dies - US](https://www.bbc.co.uk/news/world-europe-56794744) - International concern grows after doctors for the jailed Putin critic say he needs urgent medical help.
 13. [Frank Judd: Former Labour minister and peer dies aged 86](https://www.bbc.co.uk/news/uk-politics-56796449) - Paying tribute, the party's leader says he "fought for peace, human rights and social justice".
 14. [The Papers: Queen's 'loneliest birthday' and Super League fury](https://www.bbc.co.uk/news/blogs-the-papers-56796272) - Many papers lead with the aftermath of Prince Philip's funeral and what the Royal Family does next.
 15. [Libya: Ten years on the front line](https://www.bbc.co.uk/news/world-africa-56773817) - Our correspondent on what it's been like to cover the 10 years since Colonel Gaddafi was deposed and killed.

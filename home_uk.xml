@@ -11,13 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Apr 2021 05:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 06:31:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA['Big Six' agree to join European Super League]]></title>
-            <description><![CDATA[Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham are among 12 clubs who have agreed to join a new European Super League.]]></description>
+            <description><![CDATA[Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham are among 12 clubs who agree to join a new European Super League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56795811</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56795811</guid>
             <pubDate>Mon, 19 Apr 2021 00:29:56 GMT</pubDate>
@@ -72,11 +72,18 @@
             <pubDate>Sun, 18 Apr 2021 23:16:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Byron Bay: Calls for Netflix boycott over reality show plans]]></title>
+            <description><![CDATA[Plans for the reality show featuring "hot Instagrammers" have sparked anger in the coastal community.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-56796681</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56796681</guid>
+            <pubDate>Mon, 19 Apr 2021 03:17:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Australia opens travel bubble with New Zealand]]></title>
             <description><![CDATA[The world's first major travel bubble set up in the Covid pandemic allows quarantine-free visits.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56796679</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56796679</guid>
-            <pubDate>Mon, 19 Apr 2021 04:15:42 GMT</pubDate>
+            <pubDate>Mon, 19 Apr 2021 05:58:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2021 elections: Voters urged to register ahead of polls deadline]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56794744</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56794744</guid>
             <pubDate>Sun, 18 Apr 2021 19:47:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nasa's Ingenuity Mars helicopter set for first flight]]></title>
-            <description><![CDATA[The US space agency is ready to attempt the first powered, controlled flight on another planet.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-56704481</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56704481</guid>
-            <pubDate>Sun, 18 Apr 2021 19:09:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frank Judd: Former Labour minister and peer dies aged 86]]></title>
