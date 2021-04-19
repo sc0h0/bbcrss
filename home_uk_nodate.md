@@ -6,7 +6,7 @@
 6. [Mourinho sacked by Tottenham after 17 months in charge](https://www.bbc.co.uk/sport/football/56799400) - Jose Mourinho is sacked by Tottenham Hotspur after just 17 months in charge.
 7. [Two men killed in Tesla car crash 'without driver' in seat](https://www.bbc.co.uk/news/technology-56799749) - One victim was found in the front passenger seat and the other was in the back after the accident in Texas.
 8. [Young people to be reinfected with Covid for study](https://www.bbc.co.uk/news/health-56799112) - Scientists will see how the immune system copes second time round, by deliberately infecting volunteers.
-9. [Low-deposit mortgage scheme launched](https://www.bbc.co.uk/news/business-56777436) - First-time buyers will get cheaper deals if they can stretch to a bigger deposit, analysts say.
+9. [Mortgage scheme launched for 5% deposits](https://www.bbc.co.uk/news/business-56777436) - First-time buyers will get cheaper deals if they can stretch to a bigger deposit, analysts say.
 10. [Couple marry in hospital as son waits for transplant in Southampton](https://www.bbc.co.uk/news/uk-england-hampshire-56775006) - Two-year-old Romeo is unable to leave hospital because of his rare heart condition.
 11. [HSBC boss Noel Quinn scraps executive floor at London HQ](https://www.bbc.co.uk/news/business-56799720) - Bank chief Noel Quinn says the "new reality of life" is people will not be in the office five days a week.
 12. [Handcuffed, blindfolded and beaten on Libya's front line](https://www.bbc.co.uk/news/world-africa-56773817) - Special correspondent Feras Kilani on what it's been like to cover the 10 years since Colonel Gaddafi was deposed and killed.
