@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Apr 2021 18:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Apr 2021 19:15:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[It means most travel to the UK from India will be banned from 04:00 BST on Friday, amid Covid concerns.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56806103</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56806103</guid>
-            <pubDate>Mon, 19 Apr 2021 17:37:06 GMT</pubDate>
+            <pubDate>Mon, 19 Apr 2021 19:04:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Cup and Euros ban threat for Super League players]]></title>
@@ -44,18 +44,18 @@
             <pubDate>Mon, 19 Apr 2021 10:53:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: India to be added to travel 'red list' and AJ Tracey gig organisers fined]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56803137</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56803137</guid>
-            <pubDate>Mon, 19 Apr 2021 16:07:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: More than 10m people fully vaccinated in UK]]></title>
             <description><![CDATA[The health secretary hails the "terrific milestone", urging those eligible to come forward for the jab.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56794047</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56794047</guid>
             <pubDate>Mon, 19 Apr 2021 15:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: India to be added to travel 'red list' and AJ Tracey gig organisers fined]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56803137</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56803137</guid>
+            <pubDate>Mon, 19 Apr 2021 16:07:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Starmer told to leave pub over Covid lockdown policies]]></title>
@@ -79,11 +79,18 @@
             <pubDate>Mon, 19 Apr 2021 10:23:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US neo-Nazi group should be banned in UK, home secretary says]]></title>
-            <description><![CDATA[Atomwaffen Division have been cited as influencing British teenagers convicted of terror offences.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56803647</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56803647</guid>
-            <pubDate>Mon, 19 Apr 2021 13:40:13 GMT</pubDate>
+            <title><![CDATA[Tesco fined £7.56m for selling out-of-date food in Birmingham]]></title>
+            <description><![CDATA[Offending items were found at three stores in Birmingham between 2016 and 2017.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56806641</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56806641</guid>
+            <pubDate>Mon, 19 Apr 2021 18:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dad woken early by son saves seven from Prestatyn house fire]]></title>
+            <description><![CDATA[Ex-Royal Welch Fusilier Aaron Gray rushed to help the family escape minutes before the blaze spread.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56806854</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56806854</guid>
+            <pubDate>Mon, 19 Apr 2021 16:42:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Morrissey's manager attacks 'hurtful and racist' Simpsons parody]]></title>
@@ -198,6 +205,13 @@
             <pubDate>Sun, 18 Apr 2021 23:12:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['People are not happy, I can understand it' - Klopp against Super League]]></title>
+            <description><![CDATA[Liverpool manager Jurgen Klopp says he remains opposed to the idea of a European Super League despite his club agreeing to join it.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56809771</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56809771</guid>
+            <pubDate>Mon, 19 Apr 2021 19:12:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['The bonfire of greed' - how Europe has reacted to Super League]]></title>
             <description><![CDATA['The bonfire of greed' and 'the worst announcement in football history' is just some of the reaction across Europe to the Super League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56801498</link>
@@ -217,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/horse-racing/56798062</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/horse-racing/56798062</guid>
             <pubDate>Mon, 19 Apr 2021 16:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[European Super League: Gary Lineker on Liverpool, Man Utd, Chelsea, Man City, Arsenal & Spurs' plan]]></title>
-            <description><![CDATA[Gary Lineker says "it's a time of great concern" when asked about a new European Super League, adding that it could have "massive ramifications on our game".]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56807114</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56807114</guid>
-            <pubDate>Mon, 19 Apr 2021 15:28:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Election 2021: How do I register to vote?]]></title>
