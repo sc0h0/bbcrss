@@ -1,7 +1,7 @@
 1. ['Big Six' agree to join European Super League](https://www.bbc.co.uk/sport/football/56795811) - Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham are among 12 clubs who have agreed to join a new European Super League.
 2. [Low-deposit mortgage scheme is launched](https://www.bbc.co.uk/news/business-56777436) - First-time buyers will get cheaper deals if they can stretch to a bigger deposit, analysts say.
 3. [Clergy speak out over 'racism in Church of England'](https://www.bbc.co.uk/news/uk-56779190) - Some staff who complained of racism within the Church have been paid off to "buy their silence".
-4. [Russia expels Czech diplomats over explosion row](https://www.bbc.co.uk/news/world-europe-56796324) - The Czech Republic has accused Russia of being involved in a blast at a munitions factory in 2014.
+4. [Russia expels Czech diplomats over explosion row](https://www.bbc.co.uk/news/world-europe-56796324) - The Czech Republic says Russia was involved in a deadly blast at a munitions factory in 2014.
 5. [Big Ask: Children in England asked their hopes for post-Covid future](https://www.bbc.co.uk/news/education-56795922) - Millions of children in England will be surveyed in an attempt to tackle "generational problems".
 6. [Priti Patel: Facebook encryption plan ‘must not hamper child protection’](https://www.bbc.co.uk/news/technology-56795852) - The Home Secretary will deliver a speech critical of Facebook's privacy plan for its apps.
 7. [Job centre workers 'feel unsafe returning to work'](https://www.bbc.co.uk/news/business-56795862) - A union representing job centre staff says three in five feel unsafe interacting with the public.
