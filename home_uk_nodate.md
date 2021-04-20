@@ -25,7 +25,7 @@
 25. [Scottish election 2021: Can independence supporters force another referendum?](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56806107) - In the first of two Scottish election pieces we explore the differences in the pro-independence movement. 
 26. [Green targets: Do governments meet them?](https://www.bbc.co.uk/news/54988317) - As the UK government plans new environmental targets, what about the previous ones?
 27. [Online dating: 'In 2021 everyone is a kind-of catfish'](https://www.bbc.co.uk/news/newsbeat-56773964) - The hit US reality show is getting its own UK version - hosted by Julie Adenuga and Oobah Butler.
-28. [NI 100: Only 40% think NI's formation should be celebrated](https://www.bbc.co.uk/news/uk-northern-ireland-56777985) - The figure comes from a poll commissioned by the BBC's Spotlight programme.
+28. [NI 100: Majority believes NI will leave UK within 25 years](https://www.bbc.co.uk/news/uk-northern-ireland-56777985) - The figure comes from a poll commissioned by the BBC's Spotlight programme.
 29. [The Ugandan mum who was once ashamed of her gay son](https://www.bbc.co.uk/news/world-africa-56773018) - A support group in Uganda is helping parents come to terms with their children's sexuality.
 30. [George Floyd death: Five key moments from the Derek Chauvin trial](https://www.bbc.co.uk/news/world-us-canada-56802198) - As the jury deliberates a verdict, here are the key elements of a trial that has gripped the US.
 31. [The GRU: Blast puts spotlight on shadowy Russian force](https://www.bbc.co.uk/news/world-europe-56798784) - The role of Russia's GRU agency in a fatal 2014 explosion raises questions about its capabilities.
