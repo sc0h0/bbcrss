@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Apr 2021 09:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 09:35:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56808468</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56808468</guid>
             <pubDate>Mon, 19 Apr 2021 23:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Lockdown to ease further in Wales and job market 'remains subdued']]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56810041</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56810041</guid>
-            <pubDate>Tue, 20 Apr 2021 06:47:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Under-35s bearing brunt of jobs crisis]]></title>
@@ -226,6 +219,13 @@
             <pubDate>Tue, 20 Apr 2021 07:53:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Backlash to 'preposterous arrogance' of ESL is deserved - Everton]]></title>
+            <description><![CDATA[Everton criticise the "preposterous arrogance" of clubs in the European Super League and accuse the Premier League teams of betraying fans.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56813819</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56813819</guid>
+            <pubDate>Tue, 20 Apr 2021 09:26:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['People are not happy, I can understand it' - Klopp against Super League]]></title>
             <description><![CDATA[Jurgen Klopp is determined to remain as Liverpool boss and "help sort it" after reiterating his opposition to the European Super League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56809771</link>
@@ -254,39 +254,11 @@
             <pubDate>Mon, 19 Apr 2021 19:03:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Election 2021: How do I register to vote?]]></title>
-            <description><![CDATA[About 48 million people will be able to vote in a series of elections on Thursday 6 May.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56581106</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56581106</guid>
-            <pubDate>Tue, 20 Apr 2021 08:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2021 elections: What elections can I vote in this year?]]></title>
-            <description><![CDATA[National elections in Scotland and Wales and local elections in England are scheduled for 6 May 2021.]]></description>
-            <link>https://www.bbc.co.uk/news/56129210</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/56129210</guid>
-            <pubDate>Wed, 14 Apr 2021 13:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2021 elections: A simple guide to the Scottish, Welsh and local elections]]></title>
-            <description><![CDATA[A bumper crop of elections are being held on 6 May across England, Scotland and Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56286643</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56286643</guid>
-            <pubDate>Fri, 16 Apr 2021 14:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish election 2021: The voters the parties are vying to win over]]></title>
-            <description><![CDATA[We speak to five voters who have yet to make up their minds in the Scottish election.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-56633340</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56633340</guid>
-            <pubDate>Mon, 19 Apr 2021 05:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Election 2021: Why is turnout so low in one Hull ward?]]></title>
-            <description><![CDATA[People in a ward with one of the lowest election turnouts in England give their views on voting.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-humber-56735787</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-56735787</guid>
-            <pubDate>Mon, 19 Apr 2021 00:10:59 GMT</pubDate>
+            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[Rules on everything from meeting friends to going to the pub are being relaxed across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Tue, 20 Apr 2021 08:26:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the Indian, Brazil, South Africa and UK variants?]]></title>
@@ -296,18 +268,18 @@
             <pubDate>Mon, 19 Apr 2021 15:08:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[When does the stamp duty holiday in England and Northern Ireland end?]]></title>
-            <description><![CDATA[What is the stamp duty holiday and when will it finish?]]></description>
-            <link>https://www.bbc.co.uk/news/business-53319433</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53319433</guid>
-            <pubDate>Mon, 19 Apr 2021 12:35:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Why was India not already on the red list?]]></title>
             <description><![CDATA[Why is India being put on the travel ban list two weeks after Pakistan and Bangladesh?]]></description>
             <link>https://www.bbc.co.uk/news/56801288</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56801288</guid>
             <pubDate>Mon, 19 Apr 2021 16:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When does the stamp duty holiday in England and Northern Ireland end?]]></title>
+            <description><![CDATA[What is the stamp duty holiday and when will it finish?]]></description>
+            <link>https://www.bbc.co.uk/news/business-53319433</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53319433</guid>
+            <pubDate>Mon, 19 Apr 2021 12:35:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
@@ -338,18 +310,46 @@
             <pubDate>Tue, 13 Apr 2021 16:40:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[Rules on everything from meeting friends to going to the pub are being relaxed across the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Tue, 20 Apr 2021 08:26:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: When will children return to school and what are the rules?]]></title>
             <description><![CDATA[Children are returning to school across the UK, after months of enforced home-schooling.]]></description>
             <link>https://www.bbc.co.uk/news/education-51643556</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
             <pubDate>Fri, 16 Apr 2021 16:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2021 elections: What elections can I vote in this year?]]></title>
+            <description><![CDATA[National elections in Scotland and Wales and local elections in England are scheduled for 6 May 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/56129210</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56129210</guid>
+            <pubDate>Wed, 14 Apr 2021 13:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2021 elections: A simple guide to the Scottish, Welsh and local elections]]></title>
+            <description><![CDATA[A bumper crop of elections are being held on 6 May across England, Scotland and Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56286643</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56286643</guid>
+            <pubDate>Fri, 16 Apr 2021 14:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish election 2021: The voters the parties are vying to win over]]></title>
+            <description><![CDATA[We speak to five voters who have yet to make up their minds in the Scottish election.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56633340</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56633340</guid>
+            <pubDate>Mon, 19 Apr 2021 05:13:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Election 2021: Why is turnout so low in one Hull ward?]]></title>
+            <description><![CDATA[People in a ward with one of the lowest election turnouts in England give their views on voting.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-56735787</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-56735787</guid>
+            <pubDate>Mon, 19 Apr 2021 00:10:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Election 2021: How do I register to vote?]]></title>
+            <description><![CDATA[About 48 million people will be able to vote in a series of elections on Thursday 6 May.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56581106</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56581106</guid>
+            <pubDate>Tue, 20 Apr 2021 08:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are so many babies dying of Covid-19 in Brazil?]]></title>
