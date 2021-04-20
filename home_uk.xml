@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Apr 2021 23:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 23:48:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Derek Chauvin knelt on the neck of African-American George Floyd for over nine minutes last May.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56818766</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56818766</guid>
-            <pubDate>Tue, 20 Apr 2021 23:12:25 GMT</pubDate>
+            <pubDate>Tue, 20 Apr 2021 23:31:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[European Super League: All six Premier League teams withdraw from competition]]></title>
@@ -52,7 +52,7 @@
         </item>
         <item>
             <title><![CDATA[NI 100: Majority believes NI will leave UK within 25 years]]></title>
-            <description><![CDATA[The figure comes from a poll commissioned by the BBC's Spotlight programme.]]></description>
+            <description><![CDATA[People on both sides of the Irish border were polled for centenary programme.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56777985</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56777985</guid>
             <pubDate>Tue, 20 Apr 2021 21:00:31 GMT</pubDate>
@@ -135,27 +135,6 @@
             <pubDate>Tue, 20 Apr 2021 23:11:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oscars 2021: The lowdown on the international feature nominees]]></title>
-            <description><![CDATA[The five films cover diverse topics from bullying, a drinking experiment, and the horror of war.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56674879</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56674879</guid>
-            <pubDate>Tue, 20 Apr 2021 23:14:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘My sister took her life waiting for abusive ex-partner to face trial’]]></title>
-            <description><![CDATA[Gemma Robinson died just days before she was due to see her ex-partner in court.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56539465</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56539465</guid>
-            <pubDate>Tue, 20 Apr 2021 23:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronapas: The passport helping Denmark open up after Covid]]></title>
-            <description><![CDATA[Football fans, museums and restaurants are opening up, but Danes will have to show a corona passport.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56812293</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56812293</guid>
-            <pubDate>Tue, 20 Apr 2021 23:15:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Deer graze on east London housing estate]]></title>
             <description><![CDATA[Surprised residents wake up to find a herd of deer grazing on their doorstep.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56819018</link>
@@ -191,11 +170,32 @@
             <pubDate>Mon, 19 Apr 2021 23:17:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Uttar Pradesh: Coronavirus overwhelms India's most populous state]]></title>
-            <description><![CDATA[With a population larger than Brazil, an Indian state struggles to cope as Covid-19 sweeps through it.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56799303</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56799303</guid>
-            <pubDate>Tue, 20 Apr 2021 01:47:21 GMT</pubDate>
+            <title><![CDATA[‘My sister took her life waiting for abusive ex-partner to face trial’]]></title>
+            <description><![CDATA[Gemma Robinson died just days before she was due to see her ex-partner in court.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56539465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56539465</guid>
+            <pubDate>Tue, 20 Apr 2021 23:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India Covid-19 second wave: Shortage of oxygen, beds and even cremation slots]]></title>
+            <description><![CDATA[A deadly second wave has overrun hospitals and crematoriums in India.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56811315</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56811315</guid>
+            <pubDate>Tue, 20 Apr 2021 23:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oscars 2021: The lowdown on the international feature nominees]]></title>
+            <description><![CDATA[The five films cover diverse topics from bullying, a drinking experiment, and the horror of war.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56674879</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56674879</guid>
+            <pubDate>Tue, 20 Apr 2021 23:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronapas: The passport helping Denmark open up after Covid]]></title>
+            <description><![CDATA[Football fans, museums and restaurants are opening up, but Danes will have to show a corona passport.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56812293</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56812293</guid>
+            <pubDate>Tue, 20 Apr 2021 23:15:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oscars 2021: 19 geeky facts from Borat to Boseman]]></title>

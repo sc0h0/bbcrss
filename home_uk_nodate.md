@@ -3,7 +3,7 @@
 3. [Downing Street scraps plans for White House-style press briefings](https://www.bbc.co.uk/news/uk-politics-56818750) - After spending £2.6m on the new briefing room, it will now be used by Boris Johnson and officials instead.
 4. [Johnny Mercer: Tory MP resigns as defence minister](https://www.bbc.co.uk/news/uk-politics-56823348) - The Tory MP criticises the scope of a law designed to protect veterans from unfounded prosecutions.
 5. [The beauty ideal fuelling an illicit drugs trade](https://www.bbc.co.uk/news/stories-56819838) - For Altou, a 19-year-old model, having a ‘slim thick’ body is the key to getting more likes and more work.
-6. [NI 100: Majority believes NI will leave UK within 25 years](https://www.bbc.co.uk/news/uk-northern-ireland-56777985) - The figure comes from a poll commissioned by the BBC's Spotlight programme.
+6. [NI 100: Majority believes NI will leave UK within 25 years](https://www.bbc.co.uk/news/uk-northern-ireland-56777985) - People on both sides of the Irish border were polled for centenary programme.
 7. [Grenfell Tower inquiry: We had no escape route, say disabled residents](https://www.bbc.co.uk/news/uk-56824257) - Disabled people tell the inquiry no-one discussed with them how they would escape in a fire.
 8. [Bat Out Of Hell composer Jim Steinman dies](https://www.bbc.co.uk/news/entertainment-arts-56825060) - The writer and producer, who worked with Meat Loaf, Celine Dion and Bonnie Tyler, was 73.
 9. [No new smart motorways without additional safety measures](https://www.bbc.co.uk/news/business-56815522) - Any motorway without a hard shoulder will need to have radar technology to detect stopped vehicles.
@@ -15,15 +15,15 @@
 15. [Surfer reunited with big wave board discovered 2,700km away](https://www.bbc.co.uk/news/world-australia-56798218) - Danny Griffiths was stunned when a surfboard he had lost four years earlier turned up 2,700km away.
 16. [Shanghai Auto Show: Five electric car brands to look out for in China](https://www.bbc.co.uk/news/business-56818957) - Robin Brant talks through five companies showcasing electric vehicles at the Shanghai Auto Show.
 17. [CEO Secrets: 'No money is better than the wrong money'](https://www.bbc.co.uk/news/business-56816561) - CEO Augustin Celier says he was tempted by a €500,000 loan "but it could have ruined our company".
-18. [Oscars 2021: The lowdown on the international feature nominees](https://www.bbc.co.uk/news/entertainment-arts-56674879) - The five films cover diverse topics from bullying, a drinking experiment, and the horror of war.
-19. [‘My sister took her life waiting for abusive ex-partner to face trial’](https://www.bbc.co.uk/news/uk-56539465) - Gemma Robinson died just days before she was due to see her ex-partner in court.
-20. [Coronapas: The passport helping Denmark open up after Covid](https://www.bbc.co.uk/news/world-europe-56812293) - Football fans, museums and restaurants are opening up, but Danes will have to show a corona passport.
-21. [Deer graze on east London housing estate](https://www.bbc.co.uk/news/uk-england-london-56819018) - Surprised residents wake up to find a herd of deer grazing on their doorstep.
-22. ['I would like Russia to be more free'](https://www.bbc.co.uk/news/world-europe-56808468) - The BBC's Steve Rosenberg travels 2,000 miles east of Moscow to gauge the mood of ordinary Russians.
-23. ['Legend' Annie Mac is leaving BBC Radio 1 after 17 years](https://www.bbc.co.uk/news/newsbeat-56814062) - Clara Amfo will take the DJ's Future Sounds slot, while Diplo will also leave the radio station.
-24. ['World's oldest' Humboldt penguin celebrates birthday](https://www.bbc.co.uk/news/uk-england-humber-56814242) - Rosie, now 31, is described as a "grand old lady" by staff at the Yorkshire zoo where she lives.
-25. [How a bicycle tripled one woman's income](https://www.bbc.co.uk/news/stories-56806444) - "You realise what a bicycle can do. It's a catalyst for unlocking so much potential."
-26. [Covid in Uttar Pradesh: Coronavirus overwhelms India's most populous state](https://www.bbc.co.uk/news/world-asia-india-56799303) - With a population larger than Brazil, an Indian state struggles to cope as Covid-19 sweeps through it.
+18. [Deer graze on east London housing estate](https://www.bbc.co.uk/news/uk-england-london-56819018) - Surprised residents wake up to find a herd of deer grazing on their doorstep.
+19. ['I would like Russia to be more free'](https://www.bbc.co.uk/news/world-europe-56808468) - The BBC's Steve Rosenberg travels 2,000 miles east of Moscow to gauge the mood of ordinary Russians.
+20. ['Legend' Annie Mac is leaving BBC Radio 1 after 17 years](https://www.bbc.co.uk/news/newsbeat-56814062) - Clara Amfo will take the DJ's Future Sounds slot, while Diplo will also leave the radio station.
+21. ['World's oldest' Humboldt penguin celebrates birthday](https://www.bbc.co.uk/news/uk-england-humber-56814242) - Rosie, now 31, is described as a "grand old lady" by staff at the Yorkshire zoo where she lives.
+22. [How a bicycle tripled one woman's income](https://www.bbc.co.uk/news/stories-56806444) - "You realise what a bicycle can do. It's a catalyst for unlocking so much potential."
+23. [‘My sister took her life waiting for abusive ex-partner to face trial’](https://www.bbc.co.uk/news/uk-56539465) - Gemma Robinson died just days before she was due to see her ex-partner in court.
+24. [India Covid-19 second wave: Shortage of oxygen, beds and even cremation slots](https://www.bbc.co.uk/news/world-asia-india-56811315) - A deadly second wave has overrun hospitals and crematoriums in India.
+25. [Oscars 2021: The lowdown on the international feature nominees](https://www.bbc.co.uk/news/entertainment-arts-56674879) - The five films cover diverse topics from bullying, a drinking experiment, and the horror of war.
+26. [Coronapas: The passport helping Denmark open up after Covid](https://www.bbc.co.uk/news/world-europe-56812293) - Football fans, museums and restaurants are opening up, but Danes will have to show a corona passport.
 27. [Oscars 2021: 19 geeky facts from Borat to Boseman](https://www.bbc.co.uk/news/entertainment-arts-55325109) - Everything you need to know ahead of the 93rd Academy Awards on Sunday.
 28. [Could electric tattoos be the next step in body art?](https://www.bbc.co.uk/news/business-56561708) - Researchers are experimenting with thin, flexible circuits that can be transferred to the skin.
 29. [Scottish election 2021: Can independence supporters force another referendum?](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56806107) - In the first of two Scottish election pieces we explore the differences in the pro-independence movement. 
