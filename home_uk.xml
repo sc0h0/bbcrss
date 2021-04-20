@@ -11,23 +11,37 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Apr 2021 18:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 18:54:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[European Super League: Chelsea preparing to withdraw from proposed competition]]></title>
-            <description><![CDATA[Chelsea are preparing documentation to request their withdrawal from the European Super League.]]></description>
+            <title><![CDATA[European Super League: Manchester City withdraw and Chelsea prepare to follow]]></title>
+            <description><![CDATA[Manchester City withdraw from the European Super League (ESL) with Chelsea preparing to do so.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56823501</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56823501</guid>
-            <pubDate>Tue, 20 Apr 2021 18:08:24 GMT</pubDate>
+            <pubDate>Tue, 20 Apr 2021 18:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[George Floyd: Biden 'praying for right verdict' in Chauvin trial]]></title>
+            <description><![CDATA[The US president speaks out on the George Floyd case, as jurors consider a verdict for a second day.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56818953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56818953</guid>
+            <pubDate>Tue, 20 Apr 2021 18:42:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No new smart motorways without additional safety measures]]></title>
             <description><![CDATA[Any motorway without a hard shoulder will need to have radar technology to detect stopped vehicles.]]></description>
             <link>https://www.bbc.co.uk/news/business-56815522</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56815522</guid>
-            <pubDate>Tue, 20 Apr 2021 16:30:27 GMT</pubDate>
+            <pubDate>Tue, 20 Apr 2021 18:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Downing Street scraps plans for White House-style press briefings]]></title>
+            <description><![CDATA[A new £2.6m briefing room will be used by Boris Johnson and officials instead.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56818750</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56818750</guid>
+            <pubDate>Tue, 20 Apr 2021 18:32:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Princess Latifa: UN calls for 'concrete' proof of life from UAE]]></title>
@@ -44,18 +58,18 @@
             <pubDate>Tue, 20 Apr 2021 16:46:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Plan for pills to treat virus at home by autumn]]></title>
+            <description><![CDATA[Antiviral medicines could be another tool to fight an anticipated third wave, Boris Johnson says.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56823627</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56823627</guid>
+            <pubDate>Tue, 20 Apr 2021 18:11:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Johnson & Johnson vaccine: EU regulator says blood clot very rare side effect]]></title>
             <description><![CDATA[The EU's drugs regulator says the benefits of the Covid-19 vaccine still outweigh the risks.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56820970</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56820970</guid>
             <pubDate>Tue, 20 Apr 2021 15:59:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chad's President Idriss Déby dies after clashes with rebels]]></title>
-            <description><![CDATA[Idriss Déby dies just hours after provisional election results set him on course for a sixth term.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56815708</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56815708</guid>
-            <pubDate>Tue, 20 Apr 2021 15:13:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dungiven: Fireball bomb bid to kill police officer and daughter]]></title>
@@ -70,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-56818056</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56818056</guid>
             <pubDate>Tue, 20 Apr 2021 12:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hillsborough trial: Statements 'altered to mask police failings']]></title>
-            <description><![CDATA[Two retired police officers and a solicitor are accused of perverting the course of justice.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-56813384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-56813384</guid>
-            <pubDate>Tue, 20 Apr 2021 15:59:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fishmongers' Hall porter 'stabbed Usman Khan with spear']]></title>
@@ -177,13 +184,6 @@
             <pubDate>Mon, 19 Apr 2021 23:13:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Super League: Why are football's biggest clubs starting a new tournament?]]></title>
-            <description><![CDATA[Europe's biggest teams have suffered during the Covid pandemic and say they want financial stability.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56768728</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56768728</guid>
-            <pubDate>Tue, 20 Apr 2021 11:24:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Could electric tattoos be the next step in body art?]]></title>
             <description><![CDATA[Researchers are experimenting with thin, flexible circuits that can be transferred to the skin.]]></description>
             <link>https://www.bbc.co.uk/news/business-56561708</link>
@@ -240,6 +240,13 @@
             <pubDate>Mon, 19 Apr 2021 12:01:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['It's in my heart, my blood' - Mason named Tottenham boss until end of season]]></title>
+            <description><![CDATA[Ryan Mason says he feels "immense pride" after being named head coach at Tottenham until the end of the season following Jose Mourinho's sacking.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56813398</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56813398</guid>
+            <pubDate>Tue, 20 Apr 2021 14:31:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[European Super League: 'No action off the table' over breakaway group - No 10]]></title>
             <description><![CDATA[FA and Premier League officials are told they have the UK government's support to stop the plans.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56810962</link>
@@ -254,18 +261,11 @@
             <pubDate>Tue, 20 Apr 2021 17:50:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['It's in my heart, my blood' - Mason named Tottenham boss until end of season]]></title>
-            <description><![CDATA[Ryan Mason says he feels "immense pride" after being named head coach at Tottenham until the end of the season following Jose Mourinho's sacking.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56813398</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56813398</guid>
-            <pubDate>Tue, 20 Apr 2021 14:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Snooker Championship: Ding Junhui against Stuart Bingham halted with decider to play]]></title>
-            <description><![CDATA[An enthralling World Championship match between Ding Junhui and Stuart Bingham is halted with the scores level at 9-9.]]></description>
-            <link>https://www.bbc.co.uk/sport/snooker/56814796</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56814796</guid>
-            <pubDate>Tue, 20 Apr 2021 17:36:44 GMT</pubDate>
+            <title><![CDATA[Smith's role as England national selector abolished]]></title>
+            <description><![CDATA[Ed Smith's role as England national selector has been abolished, with team selection becoming the responsibility of head coach Chris Silverwood.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/56822502</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56822502</guid>
+            <pubDate>Tue, 20 Apr 2021 18:36:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
