@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Apr 2021 16:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 17:06:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,14 +27,21 @@
             <description><![CDATA[Any motorway without a hard shoulder will need to have radar technology to detect stopped vehicles.]]></description>
             <link>https://www.bbc.co.uk/news/business-56815522</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56815522</guid>
-            <pubDate>Tue, 20 Apr 2021 15:28:05 GMT</pubDate>
+            <pubDate>Tue, 20 Apr 2021 16:30:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Johnson & Johnson vaccine: EU regulator says blood clot 'very rare side effect']]></title>
+            <title><![CDATA[Johnson & Johnson vaccine: EU regulator says blood clot very rare side effect]]></title>
             <description><![CDATA[The EU's drugs regulator says the benefits of the Covid-19 vaccine still outweigh the risks.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56820970</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56820970</guid>
             <pubDate>Tue, 20 Apr 2021 15:59:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Princess Latifa: UN calls for 'concrete' proof of life from UAE]]></title>
+            <description><![CDATA[Human rights experts urge the UAE to provide "evidence" the daughter of Dubai's ruler is still alive.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56820707</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56820707</guid>
+            <pubDate>Tue, 20 Apr 2021 16:08:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chad's President Idriss Déby dies after clashes with rebels]]></title>
@@ -44,25 +51,18 @@
             <pubDate>Tue, 20 Apr 2021 15:13:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dungiven: Fireball bomb bid to kill policewoman and daughter]]></title>
+            <title><![CDATA[Dungiven: Fireball bomb bid to kill police officer and daughter]]></title>
             <description><![CDATA[NI's first and deputy first ministers say the attempted attack in Dungiven is vile and deplorable.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56814575</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56814575</guid>
-            <pubDate>Tue, 20 Apr 2021 14:39:05 GMT</pubDate>
+            <pubDate>Tue, 20 Apr 2021 16:15:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The moment Indian rail worker saves child]]></title>
+            <title><![CDATA[Moment Indian rail worker saves child]]></title>
             <description><![CDATA[Mayur Shelke sprang into action when a six-year-old boy fell on to the tracks.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56818056</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56818056</guid>
             <pubDate>Tue, 20 Apr 2021 12:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: India red list add 'may be too late', Prof Mark Walport says]]></title>
-            <description><![CDATA[There are "good reasons" for keeping the new variant out of the UK, scientist Prof Mark Walport says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56813025</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56813025</guid>
-            <pubDate>Tue, 20 Apr 2021 15:14:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hillsborough trial: Statements 'altered to mask police failings']]></title>
@@ -72,14 +72,14 @@
             <pubDate>Tue, 20 Apr 2021 15:59:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fishmongers' Hall: Kitchen porter 'stabbed terrorist with spear']]></title>
-            <description><![CDATA[A kitchen porter describes how he went "face to face" with the Fishmongers' Hall terrorist.]]></description>
+            <title><![CDATA[Fishmongers' Hall: Kitchen porter 'stabbed Usman Khan with spear']]></title>
+            <description><![CDATA[A kitchen porter describes how he went "face to face" with the Fishmongers' Hall knife attacker.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56815632</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56815632</guid>
             <pubDate>Tue, 20 Apr 2021 16:01:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wythenshawe rape: Woman attacked by group of men in park]]></title>
+            <title><![CDATA[Woman raped by group of men in park]]></title>
             <description><![CDATA[The victim, aged in her 20s, was attacked in a Manchester park shortly after midnight.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-56815612</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56815612</guid>
@@ -261,11 +261,11 @@
             <pubDate>Tue, 20 Apr 2021 14:31:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[European Super League: 'It's not sport if success is guaranteed' says Man City boss Pep Guardiola]]></title>
-            <description><![CDATA[Manchester City boss Pep Guardiola says "it is not a sport if success is guaranteed or if it doesn't matter when you lose" when asked about proposals for a breakaway European Super League.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56819670</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56819670</guid>
-            <pubDate>Tue, 20 Apr 2021 14:23:02 GMT</pubDate>
+            <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
+            <description><![CDATA[A traffic light system ranking foreign countries by coronavirus risk is to be introduced - the rules on UK holidays are also easing.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
+            <pubDate>Tue, 20 Apr 2021 16:08:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
@@ -282,13 +282,6 @@
             <pubDate>Mon, 19 Apr 2021 15:08:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Why was India not already on the red list?]]></title>
-            <description><![CDATA[Why is India being put on the travel ban list two weeks after Pakistan and Bangladesh?]]></description>
-            <link>https://www.bbc.co.uk/news/56801288</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/56801288</guid>
-            <pubDate>Tue, 20 Apr 2021 15:38:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[When does the stamp duty holiday in England and Northern Ireland end?]]></title>
             <description><![CDATA[What is the stamp duty holiday and when will it finish?]]></description>
             <link>https://www.bbc.co.uk/news/business-53319433</link>
@@ -300,7 +293,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 19 Apr 2021 16:14:03 GMT</pubDate>
+            <pubDate>Tue, 20 Apr 2021 16:38:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Which countries are on the red list and what are the quarantine rules?]]></title>
