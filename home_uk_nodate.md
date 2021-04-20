@@ -1,13 +1,13 @@
 1. [European Super League: PM to meet football officials over breakaway group](https://www.bbc.co.uk/news/uk-politics-56810962) - Boris Johnson says the plan is "ludicrous" but Real Madrid's president says it will "save football".
 2. [Climate change: UK to speed up target to cut carbon emissions](https://www.bbc.co.uk/news/uk-politics-56807520) - The PM says carbon emissions must fall by almost 80% by 2035 - 15 years earlier than previously planned.
 3. [George Floyd: US city on edge as jury deliberates Chauvin verdict](https://www.bbc.co.uk/news/world-us-canada-56806961) - Security is ramped up in Minneapolis as jurors retire in the trial into the death of George Floyd.
-4. [George Floyd death: Three Americans assess Derek Chauvin trial](https://www.bbc.co.uk/news/world-us-canada-56810262) - A retired police veteran, a Minnesota resident and a black political hopeful share their thoughts.
-5. [UK jobs market 'remains subdued'](https://www.bbc.co.uk/news/business-56812163) - The unemployment rate fell to 4.9% in the three months to February, official figures show.
-6. ['I would like Russia to be more free'](https://www.bbc.co.uk/news/world-europe-56808468) - The BBC's Steve Rosenberg travels 2,000 miles east of Moscow to gauge the mood of ordinary Russians.
-7. [Covid-19: Lockdown to ease further in Wales and job market 'remains subdued'](https://www.bbc.co.uk/news/uk-56810041) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
-8. [Car insurance sees biggest price drop in six years](https://www.bbc.co.uk/news/business-56808145) - The average cost of car insurance has fallen by £87 in 12 months, according to new data.
+4. [Under-35s bearing brunt of jobs crisis](https://www.bbc.co.uk/news/business-56812163) - Some 635,000 people under 35 came off company payrolls in the year to March, official figures show.
+5. ['I would like Russia to be more free'](https://www.bbc.co.uk/news/world-europe-56808468) - The BBC's Steve Rosenberg travels 2,000 miles east of Moscow to gauge the mood of ordinary Russians.
+6. [Covid-19: Lockdown to ease further in Wales and job market 'remains subdued'](https://www.bbc.co.uk/news/uk-56810041) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
+7. [George Floyd death: Three Americans assess Derek Chauvin trial](https://www.bbc.co.uk/news/world-us-canada-56810262) - A retired police veteran, a Minnesota resident and a black political hopeful share their thoughts.
+8. [Covid contracts: PPE fixer who was Tory donor named in admin error](https://www.bbc.co.uk/news/uk-56667960) - Samir Jassal, who has campaigned with the PM, was a contact in a £100m deal for Covid safety gear.
 9. [Brian Sicknick: US Capitol riot policeman 'died of natural causes'](https://www.bbc.co.uk/news/world-us-canada-56810371) - Officials say Brian Sicknick died after suffering two strokes, a day after being confronted by rioters.
-10. [Covid contracts: PPE fixer who was Tory donor named in admin error](https://www.bbc.co.uk/news/uk-56667960) - Samir Jassal, who has campaigned with the PM, was a contact in a £100m deal for Covid safety gear.
+10. [Climate change: Carbon 'surge' expected in post-Covid energy boom](https://www.bbc.co.uk/news/science-environment-56805255) - This year should see the second-biggest-ever rise in CO2 emissions as economies rebound from Covid.
 11. [Brexit: Boris Johnson promises to end GB-NI trade barriers](https://www.bbc.co.uk/news/uk-northern-ireland-56777985) - The prime minister says he will take steps to end “ludicrous barriers” to trade between NI and GB.
 12. [James Charles: YouTube temporarily demonetises beauty influencer](https://www.bbc.co.uk/news/world-us-canada-56811134) - The YouTuber admitted to messaging with 16-year-old boys earlier this month.
 13. [Newspaper headlines: 'Great game robbery' and 'red card from Wills'](https://www.bbc.co.uk/news/blogs-the-papers-56810441) - Opposition and anger towards the European Super League plans dominate Tuesday morning's front pages.
@@ -33,7 +33,7 @@
 33. [Alan Shearer: Ban European Super League clubs from Premier League](https://www.bbc.co.uk/news/uk-56813206) - Ex-England footballer Alan Shearer says the proposed league is "plain and simply wrong".
 34. [European Super League: Legal challenges and broken trust - what happens next?](https://www.bbc.co.uk/sport/football/56807310) - BBC Sport looks at the seismic impact of the European Super League announcement and what may happen next.
 35. [Women's sport could generate £1bn annual revenue by 2030](https://www.bbc.co.uk/sport/56808855) - Women's sport in the UK has the ability to generate £1bn in revenue by 2030 but needs the visibility to succeed, says a new study.
-36. [Election 2021: How do I register to vote?](https://www.bbc.co.uk/news/uk-politics-56581106) - About 48 million people will be able to vote in a series of elections on Thursday, 6 May.
+36. [Election 2021: How do I register to vote?](https://www.bbc.co.uk/news/uk-politics-56581106) - About 48 million people will be able to vote in a series of elections on Thursday 6 May.
 37. [2021 elections: What elections can I vote in this year?](https://www.bbc.co.uk/news/56129210) - National elections in Scotland and Wales and local elections in England are scheduled for 6 May 2021.
 38. [2021 elections: A simple guide to the Scottish, Welsh and local elections](https://www.bbc.co.uk/news/uk-politics-56286643) - A bumper crop of elections are being held on 6 May across England, Scotland and Wales.
 39. [Scottish election 2021: The voters the parties are vying to win over](https://www.bbc.co.uk/news/uk-scotland-56633340) - We speak to five voters who have yet to make up their minds in the Scottish election.
@@ -45,7 +45,7 @@
 45. [Which countries are on the red list and what are the quarantine rules?](https://www.bbc.co.uk/news/explainers-52544307) - Many travellers are no longer allowed to enter the UK from countries on the "red list".
 46. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 45 or over in England are being offered a Covid vaccine.
 47. [Coronavirus: What's the risk on transport?](https://www.bbc.co.uk/news/health-51736185) - As UK coronavirus restrictions continue to be relaxed, public transport could become much busier.
-48. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Pub gardens and non-essential shops can now open in England - as part of the next stage of easing lockdown rules.
+48. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Rules on everything from meeting friends to going to the pub are being relaxed across the UK.
 49. [Covid: When will children return to school and what are the rules?](https://www.bbc.co.uk/news/education-51643556) - Children are returning to school across the UK, after months of enforced home-schooling.
 50. [Why are so many babies dying of Covid-19 in Brazil?](https://www.bbc.co.uk/news/world-latin-america-56696907) - As the pandemic rages in Brazil, hundreds of babies and young children are dying of Covid.
 51. [The disabled doctors not believed by their colleagues](https://www.bbc.co.uk/news/disability-56244376) - People often feel nervous when they visit a doctor, but what if you are a doctor but your colleagues don't believe you're ill?
