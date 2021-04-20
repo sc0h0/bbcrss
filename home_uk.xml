@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Apr 2021 11:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 11:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[European Super League: 'No action off the table' over breakaway group - No 10]]></title>
-            <description><![CDATA[The government will take "whatever action necessary" to stop the plans, Downing Street says.]]></description>
+            <description><![CDATA[FA and Premier League officials are told they have the UK government's support to stop the plans.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56810962</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56810962</guid>
-            <pubDate>Tue, 20 Apr 2021 11:35:48 GMT</pubDate>
+            <pubDate>Tue, 20 Apr 2021 11:47:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: UK to speed up target to cut carbon emissions]]></title>
@@ -51,6 +51,20 @@
             <pubDate>Tue, 20 Apr 2021 08:56:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Hospitality, gyms and shops to open from Monday]]></title>
+            <description><![CDATA[The first minister confirms that the most significant stage in lockdown easing will go ahead as planned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56807826</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56807826</guid>
+            <pubDate>Tue, 20 Apr 2021 11:29:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Justin Welby tells Church of England to stop using NDAs amid racism claims]]></title>
+            <description><![CDATA[It comes after BBC Panorama revealed they were being used to silence staff complaining of racism.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56817048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56817048</guid>
+            <pubDate>Tue, 20 Apr 2021 11:40:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['I would like Russia to be more free']]></title>
             <description><![CDATA[The BBC's Steve Rosenberg travels 2,000 miles east of Moscow to gauge the mood of ordinary Russians.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56808468</link>
@@ -63,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56806961</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56806961</guid>
             <pubDate>Tue, 20 Apr 2021 01:20:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Primark shopper numbers 'back to pre-Covid levels']]></title>
-            <description><![CDATA[Despite a surge at reopened stores in England and Wales, the chain lost £1.1bn in sales under lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56812441</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56812441</guid>
-            <pubDate>Tue, 20 Apr 2021 08:04:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Asda takeover 'could lead to higher petrol prices']]></title>
@@ -86,13 +93,6 @@
             <pubDate>Tue, 20 Apr 2021 06:50:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aldi brings back Cuthbert the Caterpillar cake for charity]]></title>
-            <description><![CDATA[Aldi's controversial cake is the subject of legal action by M&S, which alleges copyright infringement.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56812445</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56812445</guid>
-            <pubDate>Tue, 20 Apr 2021 10:02:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[George Floyd death: Three Americans assess Derek Chauvin trial]]></title>
             <description><![CDATA[A retired police veteran, a Minnesota resident and a black political hopeful share their thoughts.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56810262</link>
@@ -100,25 +100,18 @@
             <pubDate>Mon, 19 Apr 2021 21:39:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Newspaper headlines: 'Great game robbery' and 'red card from Wills']]></title>
-            <description><![CDATA[Opposition and anger towards the European Super League plans dominate Tuesday morning's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56810441</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56810441</guid>
-            <pubDate>Tue, 20 Apr 2021 04:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: UK town crier championships to be held in silence]]></title>
-            <description><![CDATA[This year's British Town Crier Championships will be judged only on the quality of written entries.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-56766202</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56766202</guid>
-            <pubDate>Tue, 20 Apr 2021 05:32:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Legend' Annie Mac is leaving BBC Radio 1 after 17 years]]></title>
             <description><![CDATA[Clara Amfo will take the DJ's Future Sounds slot, while Diplo will also leave the radio station.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-56814062</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56814062</guid>
             <pubDate>Tue, 20 Apr 2021 11:20:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aldi brings back Cuthbert the Caterpillar cake for charity]]></title>
+            <description><![CDATA[Aldi's controversial cake is the subject of legal action by M&S, which alleges copyright infringement.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56812445</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56812445</guid>
+            <pubDate>Tue, 20 Apr 2021 10:02:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Are black women getting enough support for mental health?]]></title>
@@ -142,18 +135,18 @@
             <pubDate>Mon, 19 Apr 2021 23:20:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Newspaper headlines: 'Great game robbery' and 'red card from Wills']]></title>
+            <description><![CDATA[Opposition and anger towards the European Super League plans dominate Tuesday morning's front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56810441</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56810441</guid>
+            <pubDate>Tue, 20 Apr 2021 04:24:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[All the times the US spent big on infrastructure]]></title>
             <description><![CDATA[Where does President Biden's plan rank among the largest projects in American history?]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56806625</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56806625</guid>
             <pubDate>Tue, 20 Apr 2021 01:13:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Star Wars: David Prowse's collection to be auctioned off]]></title>
-            <description><![CDATA[Items from actor David Prowse, who played villain Darth Vader, are up for sale.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-56799244</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-56799244</guid>
-            <pubDate>Mon, 19 Apr 2021 13:56:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Uttar Pradesh: Coronavirus overwhelms India's most populous state]]></title>
