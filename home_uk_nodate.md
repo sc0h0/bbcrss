@@ -17,7 +17,7 @@
 17. [Are black women getting enough support for mental health?](https://www.bbc.co.uk/news/uk-56765171) - Black women are more likely than white women to experience common mental health problems.
 18. [Redonda: The Caribbean island transformed into an eco haven](https://www.bbc.co.uk/news/world-latin-america-56740670) - After invasive rats and goats were removed from Redonda, the island's wildlife has been thriving.
 19. [Newspaper headlines: 'Great game robbery' and 'red card from Wills'](https://www.bbc.co.uk/news/blogs-the-papers-56810441) - Opposition and anger towards the European Super League plans dominate Tuesday morning's front pages.
-20. [All the times the US spent big on infrastructure](https://www.bbc.co.uk/news/world-us-canada-56806625) - Where does President Biden's plan rank among the largest projects in American history?
+20. [How Biden's $2tn idea ranks in US history](https://www.bbc.co.uk/news/world-us-canada-56806625) - Where does President Biden's infrastructure plan rank among the largest projects in American history?
 21. [Covid in Uttar Pradesh: Coronavirus overwhelms India's most populous state](https://www.bbc.co.uk/news/world-asia-india-56799303) - With a population larger than Brazil, an Indian state struggles to cope as Covid-19 sweeps through it.
 22. [Oscars 2021: 19 geeky facts from Borat to Boseman](https://www.bbc.co.uk/news/entertainment-arts-55325109) - Everything you need to know ahead of the 93rd Academy Awards on Sunday.
 23. [Super League: Why are football's biggest clubs starting a new tournament?](https://www.bbc.co.uk/news/business-56768728) - Europe's biggest teams have suffered during the Covid pandemic and say they want financial stability.
