@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Apr 2021 21:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 21:30:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[George Floyd: Jury finds Derek Chauvin guilty of murder]]></title>
+            <description><![CDATA[Cities were braced for protests ahead of the verdict in Derek Chauvin's trial in Minneapolis.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56818766</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56818766</guid>
+            <pubDate>Tue, 20 Apr 2021 21:17:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[European Super League: Manchester City withdraw and Chelsea prepare to follow]]></title>
             <description><![CDATA[Manchester City withdraw from the European Super League (ESL) with Chelsea preparing to do so.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56823501</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56823501</guid>
-            <pubDate>Tue, 20 Apr 2021 20:37:09 GMT</pubDate>
+            <pubDate>Tue, 20 Apr 2021 21:15:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Downing Street scraps plans for White House-style press briefings]]></title>
@@ -37,6 +44,13 @@
             <pubDate>Tue, 20 Apr 2021 20:47:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Grenfell Tower inquiry: We had no escape route, say disabled residents]]></title>
+            <description><![CDATA[Disabled people tell the inquiry no-one discussed with them how they would escape in a fire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56824257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56824257</guid>
+            <pubDate>Tue, 20 Apr 2021 19:56:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No new smart motorways without additional safety measures]]></title>
             <description><![CDATA[Any motorway without a hard shoulder will need to have radar technology to detect stopped vehicles.]]></description>
             <link>https://www.bbc.co.uk/news/business-56815522</link>
@@ -51,25 +65,11 @@
             <pubDate>Tue, 20 Apr 2021 16:08:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Taskforce for at-home treatments and Scotland to ease lockdown]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56818706</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56818706</guid>
-            <pubDate>Tue, 20 Apr 2021 16:46:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Plan for pills to treat virus at home by autumn]]></title>
             <description><![CDATA[Antiviral medicines could be another tool to fight an anticipated third wave, Boris Johnson says.]]></description>
             <link>https://www.bbc.co.uk/news/health-56823627</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56823627</guid>
             <pubDate>Tue, 20 Apr 2021 18:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Johnson & Johnson vaccine: EU regulator says blood clot very rare side effect]]></title>
-            <description><![CDATA[The EU's drugs regulator says the benefits of the Covid-19 vaccine still outweigh the risks.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56820970</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56820970</guid>
-            <pubDate>Tue, 20 Apr 2021 15:59:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moment Indian rail worker saves child]]></title>
@@ -240,6 +240,13 @@
             <pubDate>Tue, 20 Apr 2021 20:31:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chelsea go fourth in draw with Brighton on dramatic night for European football]]></title>
+            <description><![CDATA[Chelsea draw with Brighton to climb into the Champions League places on a dramatic night for the future of European football.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56728001</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56728001</guid>
+            <pubDate>Tue, 20 Apr 2021 21:27:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['It's in my heart, my blood' - Mason named Tottenham boss until end of season]]></title>
             <description><![CDATA[Ryan Mason says he feels "immense pride" after being named head coach at Tottenham until the end of the season following Jose Mourinho's sacking.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56813398</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/56819670</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56819670</guid>
             <pubDate>Tue, 20 Apr 2021 14:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alan Shearer: Ban European Super League clubs from Premier League]]></title>
-            <description><![CDATA[Ex-England footballer Alan Shearer says the proposed league is "plain and simply wrong".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56813206</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56813206</guid>
-            <pubDate>Tue, 20 Apr 2021 07:18:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
