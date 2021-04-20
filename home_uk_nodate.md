@@ -1,8 +1,8 @@
 1. [European Super League: 'No action off the table' over breakaway group - No 10](https://www.bbc.co.uk/news/uk-politics-56810962) - FA and Premier League officials are told they have the UK government's support to stop the plans.
-2. [Climate change: UK to speed up target to cut carbon emissions](https://www.bbc.co.uk/news/uk-politics-56807520) - The PM says carbon emissions must fall by almost 80% by 2035 - 15 years earlier than previously planned.
-3. [Chad's President Idriss Déby dies after 'clashes with rebels'](https://www.bbc.co.uk/news/world-africa-56815708) - Idriss Déby dies just hours after provisional election results set him on course for a sixth term.
+2. [Chad's President Idriss Déby dies after 'clashes with rebels'](https://www.bbc.co.uk/news/world-africa-56815708) - Idriss Déby dies just hours after provisional election results set him on course for a sixth term.
+3. [Climate change: UK to speed up target to cut carbon emissions](https://www.bbc.co.uk/news/uk-politics-56807520) - The PM says carbon emissions must fall by almost 80% by 2035 - 15 years earlier than previously planned.
 4. [Covid-19: India red list add 'may be too late', Prof Mark Walport says](https://www.bbc.co.uk/news/uk-56813025) - There are "good reasons" for keeping the new variant out of the UK, scientist Prof Mark Walport says.
-5. [The moment Indian rail worker saves child](https://www.bbc.co.uk/news/world-asia-56818056) - Mayur Shelke sprung into action when a 6-year-old boy fell onto the tracks.
+5. [The moment Indian rail worker saves child](https://www.bbc.co.uk/news/world-asia-56818056) - Mayur Shelke sprung into action when a six-year-old boy fell onto the tracks.
 6. [Under-35s bearing brunt of jobs crisis](https://www.bbc.co.uk/news/business-56812163) - Some 635,000 people under 35 came off company payrolls in the year to March, official figures show.
 7. [Covid in Scotland: Hospitality, gyms and shops to open from Monday](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56807826) - The first minister confirms that the most significant stage in lockdown easing will go ahead as planned.
 8. [Justin Welby tells Church of England to stop using NDAs amid racism claims](https://www.bbc.co.uk/news/uk-56817048) - It comes after BBC Panorama revealed they were being used to silence staff complaining of racism.
@@ -10,10 +10,10 @@
 10. [Bomb left at police officer's home near Dungiven](https://www.bbc.co.uk/news/uk-northern-ireland-56814575) - NI's first and deputy first ministers have describe the attempted attack as "vile" and "deplorable".
 11. [Natasha Lewis: Fiancé says he has 'lost the love of his life'](https://www.bbc.co.uk/news/uk-england-somerset-56810312) - Natasha Lewis, of the GB bobsleigh team, was fatally hit by a car while she was on her morning run.
 12. [George Floyd death: Three Americans assess Derek Chauvin trial](https://www.bbc.co.uk/news/world-us-canada-56810262) - A retired police veteran, a Minnesota resident and a black political hopeful share their thoughts.
-13. ['I would like Russia to be more free'](https://www.bbc.co.uk/news/world-europe-56808468) - The BBC's Steve Rosenberg travels 2,000 miles east of Moscow to gauge the mood of ordinary Russians.
-14. ['Legend' Annie Mac is leaving BBC Radio 1 after 17 years](https://www.bbc.co.uk/news/newsbeat-56814062) - Clara Amfo will take the DJ's Future Sounds slot, while Diplo will also leave the radio station.
-15. ['World's oldest' Humboldt penguin celebrates birthday](https://www.bbc.co.uk/news/uk-england-humber-56814242) - Rosie, now 31, is described as a "grand old lady" by staff at the Yorkshire zoo where she lives.
-16. [Aldi brings back Cuthbert the Caterpillar cake for charity](https://www.bbc.co.uk/news/business-56812445) - Aldi's controversial cake is the subject of legal action by M&S, which alleges copyright infringement.
+13. [Deer graze on east London housing estate](https://www.bbc.co.uk/news/uk-england-london-56819018) - Surprised residents wake up to find a herd of deer grazing on their doorstep.
+14. ['I would like Russia to be more free'](https://www.bbc.co.uk/news/world-europe-56808468) - The BBC's Steve Rosenberg travels 2,000 miles east of Moscow to gauge the mood of ordinary Russians.
+15. ['Legend' Annie Mac is leaving BBC Radio 1 after 17 years](https://www.bbc.co.uk/news/newsbeat-56814062) - Clara Amfo will take the DJ's Future Sounds slot, while Diplo will also leave the radio station.
+16. ['World's oldest' Humboldt penguin celebrates birthday](https://www.bbc.co.uk/news/uk-england-humber-56814242) - Rosie, now 31, is described as a "grand old lady" by staff at the Yorkshire zoo where she lives.
 17. [How a bicycle tripled one woman's income](https://www.bbc.co.uk/news/stories-56806444) - "You realise what a bicycle can do. It's a catalyst for unlocking so much potential."
 18. [Are black women getting enough support for mental health?](https://www.bbc.co.uk/news/uk-56765171) - Black women are more likely than white women to experience common mental health problems.
 19. [Redonda: The Caribbean island transformed into an eco haven](https://www.bbc.co.uk/news/world-latin-america-56740670) - After invasive rats and goats were removed from Redonda, the island's wildlife has been thriving.
