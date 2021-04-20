@@ -1,9 +1,9 @@
 1. [European Super League: PM to meet football officials over breakaway group](https://www.bbc.co.uk/news/uk-politics-56810962) - Boris Johnson says the plan is "ludicrous" but Real Madrid's president says it will "save football".
 2. [Climate change: UK to speed up target to cut carbon emissions](https://www.bbc.co.uk/news/uk-politics-56807520) - The PM says carbon emissions must fall by almost 80% by 2035 - 15 years earlier than previously planned.
-3. [George Floyd: US city on edge as jury deliberates Chauvin verdict](https://www.bbc.co.uk/news/world-us-canada-56806961) - Security is ramped up in Minneapolis as jurors retire in the trial into the death of George Floyd.
-4. [Covid-19: India red list add 'may be too late', Prof Mark Walport says](https://www.bbc.co.uk/news/uk-56813025) - There are "good reasons" for keeping the new variant out of the UK, scientist Prof Mark Walport says.
-5. [Under-35s bearing brunt of jobs crisis](https://www.bbc.co.uk/news/business-56812163) - Some 635,000 people under 35 came off company payrolls in the year to March, official figures show.
-6. ['I would like Russia to be more free'](https://www.bbc.co.uk/news/world-europe-56808468) - The BBC's Steve Rosenberg travels 2,000 miles east of Moscow to gauge the mood of ordinary Russians.
+3. [Covid-19: India red list add 'may be too late', Prof Mark Walport says](https://www.bbc.co.uk/news/uk-56813025) - There are "good reasons" for keeping the new variant out of the UK, scientist Prof Mark Walport says.
+4. [Under-35s bearing brunt of jobs crisis](https://www.bbc.co.uk/news/business-56812163) - Some 635,000 people under 35 came off company payrolls in the year to March, official figures show.
+5. ['I would like Russia to be more free'](https://www.bbc.co.uk/news/world-europe-56808468) - The BBC's Steve Rosenberg travels 2,000 miles east of Moscow to gauge the mood of ordinary Russians.
+6. [George Floyd: US city on edge as jury deliberates Chauvin verdict](https://www.bbc.co.uk/news/world-us-canada-56806961) - Security is ramped up in Minneapolis as jurors retire in the trial into the death of George Floyd.
 7. [George Floyd death: Three Americans assess Derek Chauvin trial](https://www.bbc.co.uk/news/world-us-canada-56810262) - A retired police veteran, a Minnesota resident and a black political hopeful share their thoughts.
 8. [Aldi brings back Cuthbert the Caterpillar cake for charity](https://www.bbc.co.uk/news/business-56812445) - Aldi's controversial cake is the subject of legal action by M&S, which alleges copyright infringement.
 9. [Primark shopper numbers 'back to pre-Covid levels'](https://www.bbc.co.uk/news/business-56812441) - Despite a surge at reopened stores in England and Wales, the chain lost £1.1bn in sales under lockdown.

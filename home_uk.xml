@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Apr 2021 10:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 10:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56807520</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56807520</guid>
             <pubDate>Tue, 20 Apr 2021 08:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[George Floyd: US city on edge as jury deliberates Chauvin verdict]]></title>
-            <description><![CDATA[Security is ramped up in Minneapolis as jurors retire in the trial into the death of George Floyd.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56806961</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56806961</guid>
-            <pubDate>Tue, 20 Apr 2021 01:20:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: India red list add 'may be too late', Prof Mark Walport says]]></title>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-56808468</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56808468</guid>
             <pubDate>Mon, 19 Apr 2021 23:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[George Floyd: US city on edge as jury deliberates Chauvin verdict]]></title>
+            <description><![CDATA[Security is ramped up in Minneapolis as jurors retire in the trial into the death of George Floyd.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56806961</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56806961</guid>
+            <pubDate>Tue, 20 Apr 2021 01:20:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Floyd death: Three Americans assess Derek Chauvin trial]]></title>
