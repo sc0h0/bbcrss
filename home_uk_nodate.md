@@ -3,13 +3,13 @@
 3. [Covid-19: 'No apology' from PM in Dyson row and summer surge warning](https://www.bbc.co.uk/news/uk-56835232) - Five things you need to know about the coronavirus pandemic this Wednesday evening.
 4. [Club owners apologise for Super League plan](https://www.bbc.co.uk/sport/football/56828413) - Manchester United and Liverpool owners apologise to supporters for their involvement in a proposed European Super League.
 5. [Heathrow refuses to allow extra flights from India](https://www.bbc.co.uk/news/business-56837107) - The airport tells the BBC that it turned down requests from airlines to operate additional flights.
-6. [Navigating a mini Suez Canal in France](https://www.bbc.co.uk/news/world-europe-56834143) - Mariners in France are being taught how to navigate a mini Suez Canal.
-7. [Son helped Russian billionaire father hide divorce money, judge rules](https://www.bbc.co.uk/news/uk-56834722) - A judge says the Akhmedov family is "one of the unhappiest ever to have appeared in my courtroom".
-8. [Johnny Mercer: Sacked minister attacks 'distrustful' government](https://www.bbc.co.uk/news/uk-politics-56838589) - Johnny Mercer left government on Tuesday over protections for troops who served during the Troubles.
-9. [Italian hospital employee accused of skipping work for 15 years](https://www.bbc.co.uk/news/world-europe-56822571) - The hospital employee in Puglia earned €538,000 while not going into work, Italian media say.
-10. [Covid: Government scientist warns of summer surge in cases](https://www.bbc.co.uk/news/uk-56830398) - The UK is still in a "vulnerable situation", one of the country's vaccine advisers says.
-11. [Tommy Robinson libel trial: Jamal Hijazi 'falsely accused of attacks'](https://www.bbc.co.uk/news/uk-england-leeds-56834322) - The EDL founder is being sued by a Syrian teenager who was filmed being attacked at a school.
-12. [Chanel loses EU court battle over Huawei logo](https://www.bbc.co.uk/news/business-56833244) - The EU General Court ruled that the differences between the firms' logos "are significant".
+6. [Last resident in Birmingham tower block 'isolated'](https://www.bbc.co.uk/news/uk-england-birmingham-56836888) - Ezekiel Hermon's flat is set to be demolished and says the council must do more to find a new home.
+7. [Navigating a mini Suez Canal in France](https://www.bbc.co.uk/news/world-europe-56834143) - Mariners in France are being taught how to navigate a mini Suez Canal.
+8. [Son helped Russian billionaire father hide divorce money, judge rules](https://www.bbc.co.uk/news/uk-56834722) - A judge says the Akhmedov family is "one of the unhappiest ever to have appeared in my courtroom".
+9. [Johnny Mercer: Sacked minister attacks 'distrustful' government](https://www.bbc.co.uk/news/uk-politics-56838589) - Johnny Mercer left government on Tuesday over protections for troops who served during the Troubles.
+10. [Italian hospital employee accused of skipping work for 15 years](https://www.bbc.co.uk/news/world-europe-56822571) - The hospital employee in Puglia earned €538,000 while not going into work, Italian media say.
+11. [Covid: Government scientist warns of summer surge in cases](https://www.bbc.co.uk/news/uk-56830398) - The UK is still in a "vulnerable situation", one of the country's vaccine advisers says.
+12. [Tommy Robinson libel trial: Jamal Hijazi 'falsely accused of attacks'](https://www.bbc.co.uk/news/uk-england-leeds-56834322) - The EDL founder is being sued by a Syrian teenager who was filmed being attacked at a school.
 13. [Lyrid meteor shower: Skywatchers set for sunrise or sunset view on Thursday](https://www.bbc.co.uk/news/uk-56837002) - The best time to view it will be early morning or after sunset on Thursday, astronomers say.
 14. [Jim Steinman: Tributes paid to 'the Wagner of rock'](https://www.bbc.co.uk/news/entertainment-arts-56830626) - Bonnie Tyler, Andrew Lloyd Webber and more fondly remember the late hit-making songwriter.
 15. [Queen's birthday: Public's messages about Philip 'a comfort', she says](https://www.bbc.co.uk/news/uk-56811715) - The monarch's birthday comes four days after the funeral of her husband, Prince Philip.
@@ -34,7 +34,7 @@
 34. [George Floyd death: Five key moments from the Derek Chauvin trial](https://www.bbc.co.uk/news/world-us-canada-56802198) - Here are key elements of a trial that gripped the US.
 35. [Derek Chauvin conviction: 'This is monumental. This is historic'](https://www.bbc.co.uk/news/world-us-canada-56824330) - The conviction of the police officer for the death of George Floyd has been hailed as a watershed.
 36. [Tottenham Hotspur 2-1 Southampton: Bale and Son score as Spurs fight back](https://www.bbc.co.uk/sport/football/56383512) - Son Heung-min's late penalty gives Tottenham victory against Southampton in interim head coach Ryan Mason's first match in charge.
-37. [Chelsea stay top of WSL after Man City draw](https://www.bbc.co.uk/sport/football/56741399) - Leaders Chelsea remain in control of the Women's Super League title race after a thrilling draw at Manchester City.
+37. [Chelsea stay top of WSL after Man City draw - report & highlight](https://www.bbc.co.uk/sport/football/56741399) - Leaders Chelsea remain in control of the Women's Super League title race after a thrilling draw at Manchester City.
 38. [Is the Australia-NZ travel bubble the way ahead?](https://www.bbc.co.uk/news/business-56796943) - Australia and New Zealand have quarantine-free travel, but will other countries follow their lead?
 39. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Pubs and gyms will reopen in Scotland on Monday, as lockdown restrictions ease significantly.
 40. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - A traffic light system ranking foreign countries by coronavirus risk is to be introduced - the rules on UK holidays are also easing.
