@@ -6,10 +6,10 @@
 6. [Navigating a mini Suez Canal in France](https://www.bbc.co.uk/news/world-europe-56834143) - Mariners in France are being taught how to navigate a mini Suez Canal.
 7. [Son helped Russian billionaire father hide divorce money, judge rules](https://www.bbc.co.uk/news/uk-56834722) - A judge says the Akhmedov family is "one of the unhappiest ever to have appeared in my courtroom".
 8. [Johnny Mercer: Sacked minister attacks 'distrustful' government](https://www.bbc.co.uk/news/uk-politics-56838589) - Johnny Mercer left government on Tuesday over protections for troops who served during the Troubles.
-9. [Covid: Government scientist warns of summer surge in cases](https://www.bbc.co.uk/news/uk-56830398) - The UK is still in a "vulnerable situation", one of the country's vaccine advisers says.
-10. [Tommy Robinson libel trial: Jamal Hijazi 'falsely accused of attacks'](https://www.bbc.co.uk/news/uk-england-leeds-56834322) - The EDL founder is being sued by a Syrian teenager who was filmed being attacked at a school.
-11. [Chanel loses EU court battle over Huawei logo](https://www.bbc.co.uk/news/business-56833244) - The EU General Court ruled that the differences between the firms' logos "are significant".
-12. [Ruth Dodsworth's abuse going public 'was best thing'](https://www.bbc.co.uk/news/uk-wales-56831201) - ITV Wales weather presenter Ruth Dodsworth said speaking out about the domestic abuse saved her life.
+9. [Italian hospital employee accused of skipping work for 15 years](https://www.bbc.co.uk/news/world-europe-56822571) - The hospital employee in Puglia earned €538,000 while not going into work, Italian media say.
+10. [Covid: Government scientist warns of summer surge in cases](https://www.bbc.co.uk/news/uk-56830398) - The UK is still in a "vulnerable situation", one of the country's vaccine advisers says.
+11. [Tommy Robinson libel trial: Jamal Hijazi 'falsely accused of attacks'](https://www.bbc.co.uk/news/uk-england-leeds-56834322) - The EDL founder is being sued by a Syrian teenager who was filmed being attacked at a school.
+12. [Chanel loses EU court battle over Huawei logo](https://www.bbc.co.uk/news/business-56833244) - The EU General Court ruled that the differences between the firms' logos "are significant".
 13. [Lyrid meteor shower: Skywatchers set for sunrise or sunset view on Thursday](https://www.bbc.co.uk/news/uk-56837002) - The best time to view it will be early morning or after sunset on Thursday, astronomers say.
 14. [Jim Steinman: Tributes paid to 'the Wagner of rock'](https://www.bbc.co.uk/news/entertainment-arts-56830626) - Bonnie Tyler, Andrew Lloyd Webber and more fondly remember the late hit-making songwriter.
 15. [Queen's birthday: Public's messages about Philip 'a comfort', she says](https://www.bbc.co.uk/news/uk-56811715) - The monarch's birthday comes four days after the funeral of her husband, Prince Philip.
