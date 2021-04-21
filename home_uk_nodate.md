@@ -2,10 +2,10 @@
 2. [George Floyd murder: Minneapolis police to face US federal probe](https://www.bbc.co.uk/news/world-us-canada-56836193) - The justice department announces probe into city police practices after George Floyd murder verdict.
 3. [Covid-19: 'No apology' from PM in Dyson row and summer surge warning](https://www.bbc.co.uk/news/uk-56835232) - Five things you need to know about the coronavirus pandemic this Wednesday evening.
 4. [Club owners apologise for Super League plan](https://www.bbc.co.uk/sport/football/56828413) - Manchester United and Liverpool owners apologise to supporters for their involvement in a proposed European Super League.
-5. [Covid: Government scientist warns of summer surge in cases](https://www.bbc.co.uk/news/uk-56830398) - The UK is still in a "vulnerable situation", one of the country's vaccine advisers says.
+5. [Heathrow refuses to allow extra flights from India](https://www.bbc.co.uk/news/business-56837107) - The airport tells the BBC that it turned down requests from airlines to operate additional flights.
 6. [Jim Steinman: Tributes paid to 'the Wagner of rock'](https://www.bbc.co.uk/news/entertainment-arts-56830626) - Bonnie Tyler, Andrew Lloyd Webber and more fondly remember the late hit-making songwriter.
-7. [Son helped Russian billionaire father hide divorce money, judge rules](https://www.bbc.co.uk/news/uk-56834722) - A judge describes the Akhmedov family as "one of the unhappiest ever to have appeared in my courtroom".
-8. [Heathrow refuses to allow extra flights from India](https://www.bbc.co.uk/news/business-56837107) - The airport tells the BBC that it turned down requests from airlines to operate additional flights.
+7. [Son helped Russian billionaire father hide divorce money, judge rules](https://www.bbc.co.uk/news/uk-56834722) - A judge says the Akhmedov family is "one of the unhappiest ever to have appeared in my courtroom".
+8. [Covid: Government scientist warns of summer surge in cases](https://www.bbc.co.uk/news/uk-56830398) - The UK is still in a "vulnerable situation", one of the country's vaccine advisers says.
 9. [Queen's birthday: Public's messages about Philip 'a comfort', she says](https://www.bbc.co.uk/news/uk-56811715) - The monarch's birthday comes four days after the funeral of her husband, Prince Philip.
 10. [Tommy Robinson libel trial: Jamal Hijazi 'falsely accused of attacks'](https://www.bbc.co.uk/news/uk-england-leeds-56834322) - The EDL founder is being sued by a Syrian teenager who was filmed being attacked at a school.
 11. [Chanel loses EU court battle over Huawei logo](https://www.bbc.co.uk/news/business-56833244) - The EU General Court ruled that the differences between the firms' logos "are significant".
