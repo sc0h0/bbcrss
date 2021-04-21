@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Apr 2021 03:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 03:30:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -163,6 +163,13 @@
             <pubDate>Mon, 19 Apr 2021 23:00:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[George Floyd: The murder that drove America to the brink]]></title>
+            <description><![CDATA[Activists vow their march for racial justice is only just beginning, but not everyone is on board.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56825822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56825822</guid>
+            <pubDate>Wed, 21 Apr 2021 02:57:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘My sister took her life waiting for abusive ex-partner to face trial’]]></title>
             <description><![CDATA[Gemma Robinson died just days before she was due to see her ex-partner in court.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56539465</link>
@@ -170,8 +177,8 @@
             <pubDate>Tue, 20 Apr 2021 23:13:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India Covid-19 second wave: Shortage of oxygen, beds and even cremation slots]]></title>
-            <description><![CDATA[A deadly second wave has overrun hospitals and crematoriums in India.]]></description>
+            <title><![CDATA[Covid-19 in India: Why second coronavirus wave is devastating]]></title>
+            <description><![CDATA[A deadly second wave has overrun hospitals and even crematoriums in India.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56811315</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56811315</guid>
             <pubDate>Tue, 20 Apr 2021 23:16:34 GMT</pubDate>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56812292</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56812292</guid>
             <pubDate>Wed, 21 Apr 2021 00:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the Australia-NZ travel bubble the way ahead?]]></title>
-            <description><![CDATA[Australia and New Zealand have quarantine-free travel, but will other countries follow their lead?]]></description>
-            <link>https://www.bbc.co.uk/news/business-56796943</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56796943</guid>
-            <pubDate>Wed, 21 Apr 2021 00:45:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Floyd death: Five key moments from the Derek Chauvin trial]]></title>
@@ -287,6 +287,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/56825230</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56825230</guid>
             <pubDate>Tue, 20 Apr 2021 21:54:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the Australia-NZ travel bubble the way ahead?]]></title>
+            <description><![CDATA[Australia and New Zealand have quarantine-free travel, but will other countries follow their lead?]]></description>
+            <link>https://www.bbc.co.uk/news/business-56796943</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56796943</guid>
+            <pubDate>Wed, 21 Apr 2021 00:45:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
