@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Apr 2021 00:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 01:42:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 20 Apr 2021 23:57:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Downing Street scraps plans for White House-style press briefings]]></title>
-            <description><![CDATA[After spending £2.6m on the new briefing room, it will now be used by Boris Johnson and officials instead.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56818750</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56818750</guid>
-            <pubDate>Tue, 20 Apr 2021 20:09:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Johnny Mercer: Tory MP resigns as defence minister]]></title>
             <description><![CDATA[The Tory MP criticises the scope of a law designed to protect veterans from unfounded prosecutions.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56823348</link>
@@ -44,11 +37,11 @@
             <pubDate>Tue, 20 Apr 2021 20:47:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The beauty ideal fuelling an illicit drugs trade]]></title>
-            <description><![CDATA[For Altou, a 19-year-old model, having a ‘slim thick’ body is the key to getting more likes and more work.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-56819838</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56819838</guid>
-            <pubDate>Tue, 20 Apr 2021 23:02:43 GMT</pubDate>
+            <title><![CDATA[Downing Street scraps plans for White House-style press briefings]]></title>
+            <description><![CDATA[After spending £2.6m on the new briefing room, it will now be used by Boris Johnson and officials instead.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56818750</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56818750</guid>
+            <pubDate>Tue, 20 Apr 2021 20:09:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Middle East states dominate list of top executioners in 2020 - Amnesty]]></title>
@@ -58,11 +51,25 @@
             <pubDate>Wed, 21 Apr 2021 00:07:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The beauty ideal fuelling an illicit drugs trade]]></title>
+            <description><![CDATA[For Altou, a 19-year-old model, having a ‘slim thick’ body is the key to getting more likes and more work.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56819838</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56819838</guid>
+            <pubDate>Tue, 20 Apr 2021 23:02:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NI 100: Majority believes NI will leave UK within 25 years]]></title>
             <description><![CDATA[People on both sides of the Irish border were polled for centenary programme.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56777985</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56777985</guid>
             <pubDate>Tue, 20 Apr 2021 21:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Growing doubts over 'chip fat' biofuel]]></title>
+            <description><![CDATA[A new study questions the sustainability of used cooking oil imports into Europe to make biodiesel.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56819257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56819257</guid>
+            <pubDate>Wed, 21 Apr 2021 00:22:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grenfell Tower inquiry: We had no escape route, say disabled residents]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-56815632</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56815632</guid>
             <pubDate>Tue, 20 Apr 2021 16:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman raped by group of men in park]]></title>
-            <description><![CDATA[The victim, aged in her 20s, was attacked in a Manchester park shortly after midnight.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-56815612</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56815612</guid>
-            <pubDate>Tue, 20 Apr 2021 10:07:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: Super League 'in tatters' and Chauvin found guilty]]></title>
@@ -191,6 +191,27 @@
             <pubDate>Tue, 20 Apr 2021 23:15:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Navalny's supporters fear Russia's Putin wants him dead]]></title>
+            <description><![CDATA[President Putin's leading critic is on hunger strike and ahead of planned street protests they warn he could die.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56812292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56812292</guid>
+            <pubDate>Wed, 21 Apr 2021 00:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[George Floyd death: Five key moments from the Derek Chauvin trial]]></title>
+            <description><![CDATA[As the jury deliberates a verdict, here are the key elements of a trial that has gripped the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56802198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56802198</guid>
+            <pubDate>Mon, 19 Apr 2021 21:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Derek Chauvin conviction: 'This is monumental. This is historic']]></title>
+            <description><![CDATA[The conviction of the police officer for the death of George Floyd has been hailed as a watershed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56824330</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56824330</guid>
+            <pubDate>Tue, 20 Apr 2021 23:58:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Oscars 2021: 19 geeky facts from Borat to Boseman]]></title>
             <description><![CDATA[Everything you need to know ahead of the 93rd Academy Awards on Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-55325109</link>
@@ -231,13 +252,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-56773018</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56773018</guid>
             <pubDate>Mon, 19 Apr 2021 23:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[George Floyd death: Five key moments from the Derek Chauvin trial]]></title>
-            <description><![CDATA[As the jury deliberates a verdict, here are the key elements of a trial that has gripped the US.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56802198</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56802198</guid>
-            <pubDate>Mon, 19 Apr 2021 21:03:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The GRU: Blast puts spotlight on shadowy Russian force]]></title>
