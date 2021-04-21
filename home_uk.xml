@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Apr 2021 08:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 08:53:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,7 +51,14 @@
             <pubDate>Wed, 21 Apr 2021 08:01:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rising fuel costs drive UK inflation to 0.7 in March]]></title>
+            <title><![CDATA[Daily Mail owner sues Google over search results]]></title>
+            <description><![CDATA[The owner of the MailOnline site alleges the search engine has hidden links to its coverage on certain topics.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56828173</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56828173</guid>
+            <pubDate>Wed, 21 Apr 2021 08:15:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rising fuel costs drive UK inflation to 0.7% in March]]></title>
             <description><![CDATA[The cost of living rose to 0.7% in March, from 0.4% in February, as fuel, transport and clothes prices increased.]]></description>
             <link>https://www.bbc.co.uk/news/business-56827268</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56827268</guid>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/business-56826190</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56826190</guid>
             <pubDate>Wed, 21 Apr 2021 03:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Daily Mail owner sues Google over search results]]></title>
-            <description><![CDATA[The owner of the MailOnline site alleges the search engine has hidden links to its coverage on certain topics.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56828173</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56828173</guid>
-            <pubDate>Wed, 21 Apr 2021 08:15:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen will mark 95th birthday in low-key fashion]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56825470</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56825470</guid>
             <pubDate>Wed, 21 Apr 2021 04:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[George Floyd: Family reacts to Derek Chauvin murder conviction]]></title>
+            <description><![CDATA[George Floyd's family react to the murder conviction of Derek Chauvin who knelt on Floyd's neck.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56829219</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56829219</guid>
+            <pubDate>Wed, 21 Apr 2021 08:22:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The beauty ideal fuelling an illicit drugs trade]]></title>
