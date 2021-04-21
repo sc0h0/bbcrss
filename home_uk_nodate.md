@@ -1,5 +1,5 @@
-1. [Dyson lobbying row: Boris Johnson makes 'no apology' for seeking ventilators](https://www.bbc.co.uk/news/uk-politics-56832486) - Sir Keir Starmer accuses Boris Johnson of being at the centre of government "sleaze" amid a fresh lobbying row.
-2. [George Floyd murder: Minneapolis police to face US federal probe](https://www.bbc.co.uk/news/world-us-canada-56836193) - The justice department announces probe into city police practices after George Floyd murder verdict.
+1. [Climate change: Biden summit to push for 'immediate' action](https://www.bbc.co.uk/news/science-environment-56837927) - Forty world leaders will be urged to increase their carbon-cutting actions at US virtual summit.
+2. [Dyson lobbying row: Labour calls for probe into PM texts](https://www.bbc.co.uk/news/uk-politics-56839459) - The party wants a thorough investigation into Boris Johnson's conduct, amid a row over lobbying.
 3. [Alexei Navalny: Thousands across Russia defy ban on protests](https://www.bbc.co.uk/news/world-europe-56834655) - Arrests are made as protesters demand the release of the opposition leader, who is on hunger strike.
 4. [Club owners apologise for Super League plan](https://www.bbc.co.uk/sport/football/56828413) - Manchester United and Liverpool owners apologise to supporters for their involvement in a proposed European Super League.
 5. [Heathrow refuses to allow extra flights from India](https://www.bbc.co.uk/news/business-56837107) - The airport tells the BBC that it turned down requests from airlines to operate additional flights.
@@ -8,7 +8,7 @@
 8. [Johnny Mercer: Sacked minister attacks 'distrustful' government](https://www.bbc.co.uk/news/uk-politics-56838589) - Johnny Mercer left government on Tuesday over protections for troops who served during the Troubles.
 9. [UK aid budget: Charities say £500m cuts to humanitarian aid a 'tragic blow'](https://www.bbc.co.uk/news/uk-politics-56836430) - The foreign secretary has set out how the UK's reduced aid budget will be spent.
 10. [Italian hospital employee accused of skipping work for 15 years](https://www.bbc.co.uk/news/world-europe-56822571) - The hospital worker in southern Italy earned €538,000 while not going into work, media say.
-11. [Tommy Robinson libel trial: Jamal Hijazi 'falsely accused of attacks'](https://www.bbc.co.uk/news/uk-england-leeds-56834322) - The EDL founder is being sued by a Syrian teenager who was filmed being attacked at a school.
+11. [George Floyd murder: Minneapolis police to face US federal probe](https://www.bbc.co.uk/news/world-us-canada-56836193) - The justice department announces probe into city police practices after George Floyd murder verdict.
 12. [Tracy Hercules: Unlicensed driver jailed over 110mph police pursuit](https://www.bbc.co.uk/news/uk-england-lincolnshire-56830716) - Tracy Hercules, who sped off after mistakenly believing police officers were after him, is jailed.
 13. [Last resident in demolition tower block 'isolated'](https://www.bbc.co.uk/news/uk-england-birmingham-56836888) - Ezekiel Hermon's flat is set to be demolished and says the council must do more to find a new home.
 14. [The Papers: George Floyd's legacy and EU 'to welcome tourists'](https://www.bbc.co.uk/news/blogs-the-papers-56840119) - No one story dominates the papers, but some reflect on racism in US after Derek Chauvin's conviction.
