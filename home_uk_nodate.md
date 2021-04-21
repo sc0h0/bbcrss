@@ -1,5 +1,5 @@
 1. [Dyson lobbying row: Boris Johnson makes 'no apology' for seeking ventilators](https://www.bbc.co.uk/news/uk-politics-56832486) - Sir Keir Starmer accuses Boris Johnson of being at the centre of government "sleaze" amid a fresh lobbying row.
-2. [George Floyd: Chauvin conviction a giant step forward, says Biden](https://www.bbc.co.uk/news/world-us-canada-56827436) - The US president welcomes the conviction in the George Floyd murder case but says more must be done.
+2. [US launches federal probe into Minneapolis police](https://www.bbc.co.uk/news/world-us-canada-56836193) - The justice department announces probe into state police practices after George Floyd murder verdict.
 3. [Super League cannot now proceed - Agnelli ](https://www.bbc.co.uk/sport/football/56830308) - Juventus chairman Andrea Agnelli says the European Super League project cannot proceed as AC Milan, Inter Milan and Atletico Madrid join the six Premier League clubs in withdrawing.
 4. [Covid: Government scientist warns of summer surge in cases](https://www.bbc.co.uk/news/uk-56830398) - The UK is still in a "vulnerable situation", one of the country's vaccine advisers says.
 5. [Queen's birthday: Public's messages about Philip 'a comfort', she says](https://www.bbc.co.uk/news/uk-56811715) - The monarch's birthday comes four days after the funeral of her husband, Prince Philip.
