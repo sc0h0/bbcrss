@@ -10,7 +10,7 @@
 10. [Climate change: Growing doubts over chip fat biofuel](https://www.bbc.co.uk/news/science-environment-56819257) - A new study questions the sustainability of used cooking oil imports into Europe to make biodiesel.
 11. [Mother gives birth in dramatic Uber hospital dash](https://www.bbc.co.uk/news/uk-england-london-56803337) - Victoria White's waters broke as she was being driven to hospital to give birth to her second child.
 12. [John Barnes on ESL: 'This is a power struggle between elite groups'](https://www.bbc.co.uk/news/uk-56829809) - John Barnes says the withdrawal of six English teams from the ESL is not a victory for fans.
-13. [The Papers: Super League 'in tatters' and Chauvin found guilty](https://www.bbc.co.uk/news/blogs-the-papers-56825470) - Wednesday's front pages continue to chart the fate of football's "crumbling" European Super League.
+13. [Cornwall kayaker films basking shark](https://www.bbc.co.uk/news/uk-england-cornwall-56821802) - Kayaker Rupert Kirkwood shares the moment a basking shark swam underneath him.
 14. [George Floyd: Family reacts to Derek Chauvin murder conviction](https://www.bbc.co.uk/news/world-us-canada-56829219) - George Floyd's family react to the murder conviction of Derek Chauvin who knelt on Floyd's neck.
 15. [The beauty ideal fuelling an illicit drugs trade](https://www.bbc.co.uk/news/stories-56819838) - For Altou, a 19-year-old model, having a ‘slim thick’ body is the key to getting more likes and more work.
 16. [London elections: 'I don't feel welcome in this city'](https://www.bbc.co.uk/news/uk-england-london-56815242) - Accessible transport campaigner Katie Pennick says a lack of progress by consecutive London mayors has left her feeling "unwelcome".
