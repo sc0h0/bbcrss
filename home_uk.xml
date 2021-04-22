@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Apr 2021 17:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 18:14:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Thu, 22 Apr 2021 15:04:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: India's cases surge and first in UK to get jab praises rollout]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56844943</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56844943</guid>
-            <pubDate>Thu, 22 Apr 2021 15:59:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Former Bay City Rollers frontman Les McKeown dies aged 65]]></title>
             <description><![CDATA[The Scottish singer, famous for Bye Bye Baby, died suddenly at home aged 65 his family confirm.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56848233</link>
@@ -51,11 +44,18 @@
             <pubDate>Thu, 22 Apr 2021 17:20:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Vaccine uptake among over 50s hits 95% in England]]></title>
+            <title><![CDATA[Covid-19: India's cases surge and jab uptake in England's over-50s at 95%]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56844943</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56844943</guid>
+            <pubDate>Thu, 22 Apr 2021 15:59:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Vaccine uptake among over-50s hits 95% in England]]></title>
             <description><![CDATA[But uptake among care home staff is still around 80% despite attempts to get more to come forward.]]></description>
             <link>https://www.bbc.co.uk/news/health-56849874</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56849874</guid>
-            <pubDate>Thu, 22 Apr 2021 14:48:42 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 17:40:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Manchester Arena Inquiry: Police 'had to wait in 999 queue' after bomb]]></title>
@@ -65,6 +65,13 @@
             <pubDate>Thu, 22 Apr 2021 15:20:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Final India flight before 'red list' travel ban arrives in UK]]></title>
+            <description><![CDATA[It comes as a further 55 cases of the so-called India coronavirus variant are reported in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56848006</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56848006</guid>
+            <pubDate>Thu, 22 Apr 2021 18:08:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Greensill: Emails reveal Cameron's lobbying of Bank of England]]></title>
             <description><![CDATA[More details emerge about the former PM's work for now-failed failed finance firm Greensill Capital.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56843359</link>
@@ -72,18 +79,11 @@
             <pubDate>Thu, 22 Apr 2021 17:18:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Government apologises over failure to commemorate black and Asian troops]]></title>
-            <description><![CDATA[There is "no doubt" prejudice played a part in the failure to commemorate WW1 troops, a minister says.]]></description>
+            <title><![CDATA[Commonwealth war graves: PM 'deeply troubled' over racism]]></title>
+            <description><![CDATA[Boris Johnson apologises over the failure to properly commemorate black and Asian WW1 troops.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56840131</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56840131</guid>
-            <pubDate>Thu, 22 Apr 2021 16:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fishmongers' Hall: Prison chaplain 'conned' by 'remorseful' terrorist]]></title>
-            <description><![CDATA[Usman Khan killed two people a year after being released from prison, an inquest hears.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56844502</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56844502</guid>
-            <pubDate>Thu, 22 Apr 2021 16:22:41 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 18:03:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dyson lobbying row: No 10 announces leak inquiry into Johnson's texts]]></title>
@@ -156,6 +156,13 @@
             <pubDate>Thu, 22 Apr 2021 16:32:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bay City Rollers: The boy band that turned the world tartan]]></title>
+            <description><![CDATA[In September 1975, the Bay City Rollers were the biggest pop band in the UK and about to turn the world tartan.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56847111</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56847111</guid>
+            <pubDate>Thu, 22 Apr 2021 16:13:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What's gone wrong with Australia's vaccine rollout?]]></title>
             <description><![CDATA[The country has been far slower than others including the UK and the US to immunise its population.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56825920</link>
@@ -219,11 +226,11 @@
             <pubDate>Thu, 22 Apr 2021 16:59:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Arsenal owner Kroenke apologises to Arteta over Super League]]></title>
-            <description><![CDATA[Arsenal manager Mikel Arteta says club owner Stan Kroenke has apologised to him after they pulled out of the European Super League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56845861</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56845861</guid>
-            <pubDate>Thu, 22 Apr 2021 14:10:30 GMT</pubDate>
+            <title><![CDATA[Euro 2020: Wembley to be given extra last-16 tie - which could involve England]]></title>
+            <description><![CDATA[Wembley is set to be given an extra Euro 2020 last-16 tie - which could involve England - when Uefa addresses uncertainty around matches in Dublin, Bilbao and Munich on Friday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56852135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56852135</guid>
+            <pubDate>Thu, 22 Apr 2021 18:00:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Snooker Championship: Ronnie O'Sullivan level with Anthony McGill in Crucible second round]]></title>
@@ -231,6 +238,13 @@
             <link>https://www.bbc.co.uk/sport/snooker/56838605</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56838605</guid>
             <pubDate>Thu, 22 Apr 2021 15:23:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's Cleall replaces captain Hunter for Six Nations final]]></title>
+            <description><![CDATA[Poppy Cleall will start at number eight for England's Women's Six Nations final against France on Saturday, pushing captain Sarah Hunter to the bench.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56842952</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56842952</guid>
+            <pubDate>Thu, 22 Apr 2021 12:54:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greta Thunberg warns US lawmakers over climate change]]></title>
