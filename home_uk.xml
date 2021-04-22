@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Apr 2021 18:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 18:54:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-56837927</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56837927</guid>
             <pubDate>Thu, 22 Apr 2021 16:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson: Climate change about jobs not 'bunny hugging']]></title>
-            <description><![CDATA[Speaking at a virtual summit, Boris Johnson urges world leaders to "build back greener".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56843367</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56843367</guid>
-            <pubDate>Thu, 22 Apr 2021 15:44:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: India sees world's highest daily cases amid oxygen shortage]]></title>
@@ -51,11 +44,18 @@
             <pubDate>Thu, 22 Apr 2021 15:59:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Final India flight before 'red list' travel ban arrives in UK]]></title>
+            <description><![CDATA[It comes as a further 55 cases of the so-called India coronavirus variant are reported in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56848006</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56848006</guid>
+            <pubDate>Thu, 22 Apr 2021 18:08:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Vaccine uptake among over-50s hits 95% in England]]></title>
             <description><![CDATA[But uptake among care home staff is still around 80% despite attempts to get more to come forward.]]></description>
             <link>https://www.bbc.co.uk/news/health-56849874</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56849874</guid>
-            <pubDate>Thu, 22 Apr 2021 17:40:39 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 18:52:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Manchester Arena Inquiry: Police 'had to wait in 999 queue' after bomb]]></title>
@@ -63,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-56845557</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-56845557</guid>
             <pubDate>Thu, 22 Apr 2021 15:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Final India flight before 'red list' travel ban arrives in UK]]></title>
-            <description><![CDATA[It comes as a further 55 cases of the so-called India coronavirus variant are reported in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56848006</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56848006</guid>
-            <pubDate>Thu, 22 Apr 2021 18:08:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greensill: Emails reveal Cameron's lobbying of Bank of England]]></title>
@@ -86,11 +79,25 @@
             <pubDate>Thu, 22 Apr 2021 18:03:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dyson lobbying row: No 10 announces leak inquiry into Johnson's texts]]></title>
-            <description><![CDATA[Texts show the PM promised to "fix" a tax issue for Dyson staff working in the UK during the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56843363</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56843363</guid>
-            <pubDate>Thu, 22 Apr 2021 12:51:44 GMT</pubDate>
+            <title><![CDATA[Chad Gordon killing: Tottenham autistic man fatally shot in face 'by mistake']]></title>
+            <description><![CDATA[Chad Gordon was killed as he answered the door to his home during the first lockdown, a court heard.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56846998</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56846998</guid>
+            <pubDate>Thu, 22 Apr 2021 11:59:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: VIP fast-track for PPE contracts back in court]]></title>
+            <description><![CDATA[Campaigners are challenging the government over directly awarding contracts during the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56851877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56851877</guid>
+            <pubDate>Thu, 22 Apr 2021 18:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stranded sailor leaves ship after four years]]></title>
+            <description><![CDATA[Mohammed Aisha had been living on a ship marooned off Egypt's Red Sea coast for four years.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56842506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56842506</guid>
+            <pubDate>Thu, 22 Apr 2021 17:59:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Driving tests: Relief and new-found freedom as post-lockdown tests get back in gear]]></title>
@@ -98,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/newsbeat-56847378</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56847378</guid>
             <pubDate>Thu, 22 Apr 2021 15:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Court case delays left assault victim waiting over a year]]></title>
+            <description><![CDATA[The government has announced emergency funding to help tackle huge delays in court trials.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56765175</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56765175</guid>
+            <pubDate>Thu, 22 Apr 2021 14:35:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[London Grammar: 'Men aren't told what to wear, so why was I?']]></title>
@@ -170,13 +184,6 @@
             <pubDate>Wed, 21 Apr 2021 15:12:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coffee waste: Companies offer up new solutions]]></title>
-            <description><![CDATA[A new crop of coffee companies have solutions to cut waste in their industry.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56582456</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56582456</guid>
-            <pubDate>Wed, 21 Apr 2021 23:13:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scottish election 2021: Can unionists block another independence referendum?]]></title>
             <description><![CDATA[In the second of two Scottish election pieces, we look at the parties opposing another vote on independence.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56835961</link>
@@ -191,13 +198,6 @@
             <pubDate>Thu, 22 Apr 2021 12:45:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Big Dog's Backyard Ultra: The toughest, weirdest race you've never heard of]]></title>
-            <description><![CDATA[The format might be simple - winning this race is anything but. Big Dog's Backyard Ultra is an unusually punishing challenge.]]></description>
-            <link>https://www.bbc.co.uk/sport/56720358</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/56720358</guid>
-            <pubDate>Wed, 21 Apr 2021 23:01:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sir James Dyson: From barrows to billions]]></title>
             <description><![CDATA[One of the most high-profile businessmen in favour of Brexit, Sir James Dyson's biggest idea started with cardboard and sticky tape.]]></description>
             <link>https://www.bbc.co.uk/news/business-46149743</link>
@@ -205,32 +205,18 @@
             <pubDate>Thu, 22 Apr 2021 09:45:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oscars 2021: Why Two Distant Strangers is 'important and necessary']]></title>
-            <description><![CDATA[The Oscar-nominated film tells of a black man forced to relive his killing by a US police officer.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56813176</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56813176</guid>
-            <pubDate>Wed, 21 Apr 2021 23:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Post Office scandal: What the Horizon saga is all about]]></title>
-            <description><![CDATA[The background to the case of sub-postmasters whose convictions were based on evidence from faulty IT.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56718036</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56718036</guid>
-            <pubDate>Wed, 21 Apr 2021 23:08:36 GMT</pubDate>
+            <title><![CDATA[Euro 2020: Wembley to be given extra last-16 tie - which could involve England]]></title>
+            <description><![CDATA[Wembley is set to be given an extra Euro 2020 last-16 tie - which could involve England - when Uefa addresses uncertainty around matches in Dublin, Bilbao and Munich on Friday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56852135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56852135</guid>
+            <pubDate>Thu, 22 Apr 2021 18:00:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['We will continue working' - European Super League 'on standby', says Perez]]></title>
             <description><![CDATA[The European Super League is on "standby" despite nine of the 12 founding teams withdrawing, says Real Madrid president Florentino Perez.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56842442</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56842442</guid>
-            <pubDate>Thu, 22 Apr 2021 16:59:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Wembley to be given extra last-16 tie - which could involve England]]></title>
-            <description><![CDATA[Wembley is set to be given an extra Euro 2020 last-16 tie - which could involve England - when Uefa addresses uncertainty around matches in Dublin, Bilbao and Munich on Friday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56852135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56852135</guid>
-            <pubDate>Thu, 22 Apr 2021 18:00:17 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 18:30:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Snooker Championship: Ronnie O'Sullivan level with Anthony McGill in Crucible second round]]></title>
