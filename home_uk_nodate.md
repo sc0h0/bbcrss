@@ -16,7 +16,7 @@
 16. [Met Office and Microsoft to build climate supercomputer](https://www.bbc.co.uk/news/technology-56840169) - The Met Office will work with Microsoft on a supercomputer which will help model climate change.
 17. [Is it the end of the line for landline phones?](https://www.bbc.co.uk/news/business-56831212) - Four million homes have dropped their fixed line phones since 2000 a trend which may see a post-pandemic boost.
 18. [What's gone wrong with Australia's vaccine rollout?](https://www.bbc.co.uk/news/world-australia-56825920) - The country has been far slower than others including the UK and the US to immunise its population.
-19. [Could this takeaway cup help save the planet?](https://www.bbc.co.uk/news/business-56582456) - A new crop of coffee companies have solutions to cut waste in their industry.
+19. [Why this plastic-free coffee cup isn't a magic bullet](https://www.bbc.co.uk/news/business-56582456) - A new crop of coffee companies have solutions to cut waste in their industry.
 20. [Scottish election 2021: Can unionists block another independence referendum?](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56835961) - In the second of two Scottish election pieces, we look at the parties opposing another vote on independence.
 21. [Oscars 2021: A watershed moment for disability?](https://www.bbc.co.uk/news/entertainment-arts-56825190) - Disability is a key theme of this year's Oscar-nominated films, but what do disabled viewers think?
 22. [Big Dog's Backyard Ultra: The toughest, weirdest race you've never heard of](https://www.bbc.co.uk/sport/56720358) - The format might be simple - winning this race is anything but. Big Dog's Backyard Ultra is an unusually punishing challenge.
