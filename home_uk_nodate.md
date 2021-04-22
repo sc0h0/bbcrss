@@ -1,6 +1,6 @@
 1. [Climate change: US surprises summit with bold emissions target](https://www.bbc.co.uk/news/science-environment-56837927) - The White House confirms that the US will aim to curb carbon emissions by 50-52%, as leaders gather for virtual summit.
 2. [Covid: India sees world's highest daily cases amid oxygen shortage](https://www.bbc.co.uk/news/world-asia-india-56826645) - The country records 314,835 new daily cases as Delhi hospitals fear running out of oxygen in hours.
-3. [Government apologises over failure to commemorate black and Asian troops](https://www.bbc.co.uk/news/uk-56840131) - There is "no doubt" prejudice played a part in the failure to commemorate troops, a minister says.
+3. [Government apologises over failure to commemorate black and Asian troops](https://www.bbc.co.uk/news/uk-56840131) - There is "no doubt" prejudice played a part in the failure to commemorate WW1 troops, a minister says.
 4. [Billionaire Sir James Dyson moves residency back to the UK](https://www.bbc.co.uk/news/business-56840781) - Sir James faced criticism in 2019 over relocating his company's global headquarters to Singapore.
 5. [Marcus Rashford's budget cookery serves up fish finger sandwich](https://www.bbc.co.uk/news/education-56825700) - The footballer and food poverty campaigner is launching a new affordable meals project.
 6. [Jaguar Land Rover to suspend output due to chip shortage](https://www.bbc.co.uk/news/business-56841946) - Britain's biggest carmaker to suspend output at two factories because of global semiconductor shortage.
