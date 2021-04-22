@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Apr 2021 20:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 21:21:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,11 @@
             <pubDate>Thu, 22 Apr 2021 20:01:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Vaccine uptake among over-50s hits 95% in England]]></title>
-            <description><![CDATA[But uptake among care home staff is still around 80% despite attempts to get more to come forward.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56849874</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56849874</guid>
-            <pubDate>Thu, 22 Apr 2021 19:43:06 GMT</pubDate>
+            <title><![CDATA[Covid: Welsh pubs and restaurants to open indoors in May]]></title>
+            <description><![CDATA[Pubs will be able open indoors for the first time since Christmas, under plans to ease lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56844189</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56844189</guid>
+            <pubDate>Thu, 22 Apr 2021 21:00:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greensill: Emails reveal Cameron's lobbying of Bank of England]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Thu, 22 Apr 2021 20:42:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chad Gordon killing: Tottenham autistic man fatally shot in face 'by mistake']]></title>
-            <description><![CDATA[Chad Gordon was killed as he answered the door to his home during the first lockdown, a court heard.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56846998</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56846998</guid>
-            <pubDate>Thu, 22 Apr 2021 11:59:54 GMT</pubDate>
+            <title><![CDATA[Covid: Vaccine uptake among over-50s hits 95% in England]]></title>
+            <description><![CDATA[But uptake among care home staff is still around 80% despite attempts to get more to come forward.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56849874</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56849874</guid>
+            <pubDate>Thu, 22 Apr 2021 19:43:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: VIP fast-track for PPE contracts back in court]]></title>
@@ -86,18 +86,18 @@
             <pubDate>Thu, 22 Apr 2021 19:26:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Commonwealth war graves: PM 'deeply troubled' over racism]]></title>
-            <description><![CDATA[Boris Johnson apologises over the failure to properly commemorate black and Asian WW1 troops.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56840131</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56840131</guid>
-            <pubDate>Thu, 22 Apr 2021 18:03:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Juror in the Derek Chauvin trial speaks out]]></title>
             <description><![CDATA[Lisa Christensen listened to the whole trial, but as an alternate juror did not deliberate on verdict.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56851975</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56851975</guid>
             <pubDate>Thu, 22 Apr 2021 16:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uyghurs: MPs state genocide is taking place in China]]></title>
+            <description><![CDATA[More than a million people are estimated to have been detained at camps in the region of Xinjiang.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56843368</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56843368</guid>
+            <pubDate>Thu, 22 Apr 2021 17:51:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stranded sailor leaves ship after four years]]></title>
@@ -219,6 +219,13 @@
             <pubDate>Thu, 22 Apr 2021 09:45:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leicester 3-0 West Brom: Ruthless Foxes see off West Brom]]></title>
+            <description><![CDATA[Leicester open up a four-point gap to fourth place in the Premier League with victory over relegation-bound West Brom.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56754992</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56754992</guid>
+            <pubDate>Thu, 22 Apr 2021 21:04:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020: Wembley to be given extra last-16 tie - which could involve England]]></title>
             <description><![CDATA[Wembley is set to be given an extra Euro 2020 last-16 tie - which could involve England - when Uefa addresses uncertainty around matches in Dublin, Bilbao and Munich on Friday.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56852135</link>
@@ -238,13 +245,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-league/56816384</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/56816384</guid>
             <pubDate>Thu, 22 Apr 2021 19:13:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On this day: Robin van Persie's 'magnificent' goal against Villa as Man Utd win 2013 title]]></title>
-            <description><![CDATA[Watch Robin van Persie's "magnificent" volley during Manchester United's title-winning match against Aston Villa in April 2013.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56821642</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56821642</guid>
-            <pubDate>Thu, 22 Apr 2021 05:07:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greta Thunberg warns US lawmakers over climate change]]></title>
