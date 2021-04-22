@@ -1,4 +1,4 @@
-1. [‘Pervasive racism’ blamed for failure to commemorate black and Asian troops](https://www.bbc.co.uk/news/uk-56840131) - Thousands of black and Asian British Empire troops were not commemorated properly, says a report.
+1. [‘Pervasive racism’ blamed for failure to commemorate black and Asian troops](https://www.bbc.co.uk/news/uk-56840131) - Thousands of black and Asian British Empire troops were not remembered properly, a report finds.
 2. [Climate change: Biden summit to push for 'immediate' action](https://www.bbc.co.uk/news/science-environment-56837927) - Forty world leaders will be urged to increase their carbon-cutting actions at US virtual summit.
 3. [Dyson lobbying row: Labour calls for probe into PM texts](https://www.bbc.co.uk/news/uk-politics-56839459) - The party wants a "thorough investigation" into Boris Johnson's conduct, amid a row over lobbying.
 4. [Alexei Navalny: Thousands across Russia defy ban on protests](https://www.bbc.co.uk/news/world-europe-56834655) - Arrests are made as protesters demand the release of the opposition leader, who is on hunger strike.
