@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Apr 2021 00:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 01:46:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[‘Pervasive racism’ blamed for failure to commemorate black and Asian troops]]></title>
+            <description><![CDATA[Thousands of black and Asian British Empire troops were not commemorated properly, says a report.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56840131</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56840131</guid>
+            <pubDate>Thu, 22 Apr 2021 01:29:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Climate change: Biden summit to push for 'immediate' action]]></title>
             <description><![CDATA[Forty world leaders will be urged to increase their carbon-cutting actions at US virtual summit.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56839459</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56839459</guid>
             <pubDate>Wed, 21 Apr 2021 23:36:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alexei Navalny: Thousands across Russia defy ban on protests]]></title>
-            <description><![CDATA[Arrests are made as protesters demand the release of the opposition leader, who is on hunger strike.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56834655</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56834655</guid>
-            <pubDate>Wed, 21 Apr 2021 22:53:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heathrow refuses to allow extra flights from India]]></title>
@@ -58,13 +58,6 @@
             <pubDate>Thu, 22 Apr 2021 00:04:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Employment: North and Midlands 'leading jobs recovery]]></title>
-            <description><![CDATA[Several areas now have more job vacancies than before the pandemic, a study finds.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56827272</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56827272</guid>
-            <pubDate>Wed, 21 Apr 2021 23:08:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Navigating a mini Suez Canal in France]]></title>
             <description><![CDATA[Mariners in France are being taught how to navigate a mini Suez Canal.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56834143</link>
@@ -72,11 +65,18 @@
             <pubDate>Wed, 21 Apr 2021 19:06:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Johnny Mercer: Sacked minister attacks 'distrustful' government]]></title>
-            <description><![CDATA[Johnny Mercer left government on Tuesday over protections for troops who served during the Troubles.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56838589</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56838589</guid>
-            <pubDate>Wed, 21 Apr 2021 19:24:48 GMT</pubDate>
+            <title><![CDATA[Alexei Navalny: Thousands across Russia defy ban on protests]]></title>
+            <description><![CDATA[Arrests are made as protesters demand the release of the opposition leader, who is on hunger strike.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56834655</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56834655</guid>
+            <pubDate>Wed, 21 Apr 2021 22:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google and Apple attacked on app store 'monopoly']]></title>
+            <description><![CDATA[Republican and Democrat senators criticise Apple and Google for alleged anti-competitive behaviour.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56840379</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56840379</guid>
+            <pubDate>Thu, 22 Apr 2021 00:37:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK aid budget: Charities say £500m cuts to humanitarian aid a 'tragic blow']]></title>
@@ -86,11 +86,11 @@
             <pubDate>Wed, 21 Apr 2021 20:45:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Italian hospital employee accused of skipping work for 15 years]]></title>
-            <description><![CDATA[The hospital worker in southern Italy earned €538,000 while not going into work, media say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56822571</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56822571</guid>
-            <pubDate>Wed, 21 Apr 2021 19:11:48 GMT</pubDate>
+            <title><![CDATA[Church shortlists for senior posts 'must include ethnic minorities']]></title>
+            <description><![CDATA[Failing to act would have "devastating effects" on the future of the Church of England, a report says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56838739</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56838739</guid>
+            <pubDate>Thu, 22 Apr 2021 00:31:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aston Villa 1-2 Manchester City: Pep Guardiola's side eight points from Premier League title]]></title>
@@ -128,7 +128,7 @@
             <pubDate>Wed, 21 Apr 2021 23:03:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is this the end of line for the landline phone?]]></title>
+            <title><![CDATA[Is it the end of the line for landline phones?]]></title>
             <description><![CDATA[Four million homes have dropped their fixed line phones since 2000 a trend which may see a post-pandemic boost.]]></description>
             <link>https://www.bbc.co.uk/news/business-56831212</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56831212</guid>
