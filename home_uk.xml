@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Apr 2021 19:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Apr 2021 19:41:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,7 @@
             <description><![CDATA[It comes as a further 55 cases of the so-called India coronavirus variant are reported in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56848006</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56848006</guid>
-            <pubDate>Thu, 22 Apr 2021 18:08:25 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 19:22:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former Bay City Rollers frontman Les McKeown dies aged 65]]></title>
@@ -58,20 +58,6 @@
             <pubDate>Thu, 22 Apr 2021 17:18:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Commonwealth war graves: PM 'deeply troubled' over racism]]></title>
-            <description><![CDATA[Boris Johnson apologises over the failure to properly commemorate black and Asian WW1 troops.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56840131</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56840131</guid>
-            <pubDate>Thu, 22 Apr 2021 18:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greta Thunberg warns US lawmakers over climate change]]></title>
-            <description><![CDATA[Climate activist Greta Thunberg urges US lawmakers to end fossil fuel subsidies, or face catastrophe.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56851915</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56851915</guid>
-            <pubDate>Thu, 22 Apr 2021 16:22:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chad Gordon killing: Tottenham autistic man fatally shot in face 'by mistake']]></title>
             <description><![CDATA[Chad Gordon was killed as he answered the door to his home during the first lockdown, a court heard.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-56846998</link>
@@ -90,7 +76,21 @@
             <description><![CDATA[The death of Daunte Wright, who was shot near Minneapolis earlier this month, sparked mass protests.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56852438</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56852438</guid>
-            <pubDate>Thu, 22 Apr 2021 19:19:16 GMT</pubDate>
+            <pubDate>Thu, 22 Apr 2021 19:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Commonwealth war graves: PM 'deeply troubled' over racism]]></title>
+            <description><![CDATA[Boris Johnson apologises over the failure to properly commemorate black and Asian WW1 troops.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56840131</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56840131</guid>
+            <pubDate>Thu, 22 Apr 2021 18:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Akayed Ullah: Times Square subway pipe bomber jailed for life]]></title>
+            <description><![CDATA[Akayed Ullah detonated a bomb in Times Square station during rush hour in December 2017.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56840021</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56840021</guid>
+            <pubDate>Thu, 22 Apr 2021 17:08:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stranded sailor leaves ship after four years]]></title>
@@ -226,7 +226,7 @@
             <pubDate>Thu, 22 Apr 2021 18:30:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Snooker Championship: O'Sullivan level with McGill as Murphy and Selby win]]></title>
+            <title><![CDATA[O'Sullivan level with McGill while former champions Selby and Murphy progress]]></title>
             <description><![CDATA[Anthony McGill reels in reigning champion Ronnie O'Sullivan to leave their World Championship second-round tie level at 4-4.]]></description>
             <link>https://www.bbc.co.uk/sport/snooker/56838605</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56838605</guid>
@@ -238,6 +238,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/56842952</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56842952</guid>
             <pubDate>Thu, 22 Apr 2021 12:54:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greta Thunberg warns US lawmakers over climate change]]></title>
+            <description><![CDATA[Climate activist Greta Thunberg urges US lawmakers to end fossil fuel subsidies, or face catastrophe.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56851915</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56851915</guid>
+            <pubDate>Thu, 22 Apr 2021 16:22:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is climate change? A really simple guide]]></title>
