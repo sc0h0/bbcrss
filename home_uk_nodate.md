@@ -1,8 +1,8 @@
 1. [Covid: India joins UK's 'red list' as travel ban begins](https://www.bbc.co.uk/news/uk-56848006) - Travellers from red list countries will be refused entry to the UK, except for British and Irish nationals.
 2. [Covid pushes UK borrowing to highest since WW2](https://www.bbc.co.uk/news/business-56856195) - The government borrowed £303bn in the year to March, reflecting the cost of measures to support the economy.
 3. [US joins race to find stricken Indonesia submarine](https://www.bbc.co.uk/news/world-asia-56851487) - Indonesia is trying to rescue 53 crew on board a missing submarine before their oxygen runs out.
-4. [Covid-19: India joins 'red list' and human-to-cat transmission cases](https://www.bbc.co.uk/news/uk-56853295) - Five things you need to know about the coronavirus pandemic this Friday morning.
-5. [One Covid vaccine cuts infection risk in all age groups](https://www.bbc.co.uk/news/health-56844220) - Real-world data found the AZ and Pfizer jabs worked equally well in over-75s and younger people.
+4. [One Covid vaccine cuts infection risk in all age groups](https://www.bbc.co.uk/news/health-56844220) - Real-world data found the AZ and Pfizer jabs worked equally well in over-75s and younger people.
+5. [Covid-19: India joins 'red list' and human-to-cat transmission cases](https://www.bbc.co.uk/news/uk-56853295) - Five things you need to know about the coronavirus pandemic this Friday morning.
 6. [Prince Louis: New birthday photograph as he starts nursery](https://www.bbc.co.uk/news/uk-56853207) - The picture of Louis on his bike was taken by the Duchess of Cambridge to mark his third birthday.
 7. [Post Office scandal: Postmasters await Appeal Court ruling](https://www.bbc.co.uk/news/business-56496207) - A group of 42 people hope their convictions for stealing money from the Post Office will be quashed.
 8. [Tesla's Autopilot 'tricked' to operate without driver](https://www.bbc.co.uk/news/technology-56854417) - A Model Y made multiple trips on a test track without a human in the driver's seat, engineers found.
