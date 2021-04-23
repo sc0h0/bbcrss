@@ -43,7 +43,7 @@
 43. [Covid: When can I go on holiday abroad or in the UK?](https://www.bbc.co.uk/news/explainers-52646738) - A traffic light system ranking foreign countries by coronavirus risk is to be introduced - the rules on UK holidays are also easing.
 44. [Covid: Restaurants and pubs have reopened, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - Pubs, cafes and restaurants in England are open for customers seated outdoors.
 45. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
-46. [Which countries are on the red list and what are the quarantine rules?](https://www.bbc.co.uk/news/explainers-52544307) - Many travellers are no longer allowed to enter the UK from countries on the "red list".
+46. [Which countries are on the red list and what are the quarantine rules?](https://www.bbc.co.uk/news/explainers-52544307) - India has now been added to the UK Government's Covid "red list" of countries.
 47. [Covid: When will children return to school and what are the rules?](https://www.bbc.co.uk/news/education-51643556) - Children are returning to school across the UK, after months of enforced home-schooling.
 48. ['My sister took her life, petrified at facing her ex in court'](https://www.bbc.co.uk/news/uk-56539465) - Gemma Robinson died just days before she was due to see her ex-partner in court.
 49. [Covid-19 in India: Why second coronavirus wave is devastating](https://www.bbc.co.uk/news/world-asia-india-56811315) - A deadly second wave has overrun hospitals and even crematoriums in India.
