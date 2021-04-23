@@ -7,7 +7,7 @@
 7. [Walton-on-Thames murder probe after man killed in car park fight](https://www.bbc.co.uk/news/uk-england-surrey-56846688) - A man is being held on suspicion of murder after an altercation in a car park in Walton-on-Thames.
 8. [Greensill: Treasury publishes emails amid lobbying row](https://www.bbc.co.uk/news/uk-politics-56843359) - More details emerge about the former PM's work for now-failed failed finance firm Greensill Capital.
 9. [Australia resists calls for tougher climate targets](https://www.bbc.co.uk/news/world-australia-56854558) - The country remains out of step with other major nations by refusing to commit to deeper emissions cuts.
-10. [Alexei Navalny urged to end hunger strike immediately](https://www.bbc.co.uk/news/world-europe-56854267) - Russia's opposition leader could die, warn the doctors who had treated him before he was jailed.
+10. [Uyghurs: MPs state genocide is taking place in China](https://www.bbc.co.uk/news/uk-politics-56843368) - More than a million people are estimated to have been detained at camps in the region of Xinjiang.
 11. [Chernobyl radiation damage 'not passed to children'](https://www.bbc.co.uk/news/science-environment-56846728) - A study found no mutations associated with a parent's exposure in the 1986 nuclear accident.
 12. ['50+1' ownership considered in football review](https://www.bbc.co.uk/sport/football/56852632) - The UK government's fan-led review into English football will consider how the ownership of clubs is structured.
 13. [The Papers: Cummings accused of leaks and beaming Prince Louis](https://www.bbc.co.uk/news/blogs-the-papers-56854427) - Friday's papers report on No 10 sources accusing ex-aide Dominic Cummings of leaking the PM's texts.
