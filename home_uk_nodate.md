@@ -1,5 +1,5 @@
-1. [Covid-19: Delhi hospitals run out of oxygen supplies](https://www.bbc.co.uk/news/world-asia-india-56851265) - Hospitals are overwhelmed, with more than 99% of intensive care beds occupied.
-2. [Covid: Final India flight before 'red list' travel ban arrives in UK](https://www.bbc.co.uk/news/uk-56848006) - It comes as a further 55 cases of the so-called India coronavirus variant are reported in the UK.
+1. [Covid: India joins UK's 'red list' as travel ban begins](https://www.bbc.co.uk/news/uk-56848006) - It comes as a further 55 cases of the so-called India coronavirus variant are reported in the UK.
+2. [Covid-19: Delhi hospitals run out of oxygen supplies](https://www.bbc.co.uk/news/world-asia-india-56851265) - Hospitals are overwhelmed, with more than 99% of intensive care beds occupied.
 3. [One Covid vaccine cuts infection risk in all age groups](https://www.bbc.co.uk/news/health-56844220) - Real-world data found the AZ and Pfizer jabs worked equally well in over-75s and younger people.
 4. [Post Office scandal: Postmasters await Appeal Court ruling](https://www.bbc.co.uk/news/business-56496207) - A group of 42 people hope their convictions for stealing money from the Post Office will be quashed.
 5. [Tesla's Autopilot 'tricked' to operate without driver](https://www.bbc.co.uk/news/technology-56854417) - A Model Y made multiple trips on a test track without a human in the driver's seat, engineers found.
