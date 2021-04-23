@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Apr 2021 09:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 10:05:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-56858403</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56858403</guid>
             <pubDate>Fri, 23 Apr 2021 09:29:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Convicted Post Office workers have names cleared]]></title>
+            <description><![CDATA[Thirty-nine workers convicted of theft have names cleared after the UK's most widespread miscarriage of justice.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56859357</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56859357</guid>
+            <pubDate>Fri, 23 Apr 2021 10:01:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US joins race to find stricken Indonesia submarine]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/health-56844220</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56844220</guid>
             <pubDate>Thu, 22 Apr 2021 23:52:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla's Autopilot 'tricked' to operate without driver]]></title>
-            <description><![CDATA[A Model Y made multiple trips on a test track without a human in the driver's seat, engineers found.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56854417</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56854417</guid>
-            <pubDate>Fri, 23 Apr 2021 01:16:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[East Jerusalem clashes leave over 100 injured]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-56845662</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56845662</guid>
             <pubDate>Thu, 22 Apr 2021 23:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post Office scandal: What the Horizon saga is all about]]></title>
+            <description><![CDATA[The background to the case of sub-postmasters whose convictions were based on evidence from faulty IT.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56718036</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56718036</guid>
+            <pubDate>Fri, 23 Apr 2021 09:54:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Have things improved since the Taliban?]]></title>
@@ -324,11 +331,11 @@
             <pubDate>Tue, 20 Apr 2021 16:08:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Restaurants and pubs have reopened, but what are the rules?]]></title>
-            <description><![CDATA[Pubs, cafes and restaurants in England are open for customers seated outdoors.]]></description>
+            <title><![CDATA[Covid: Restaurants and pubs are reopening, but what are the rules?]]></title>
+            <description><![CDATA[Pubs, cafes and restaurants will reopen in Wales and Scotland on Monday 26 April.]]></description>
             <link>https://www.bbc.co.uk/news/business-52977388</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
-            <pubDate>Tue, 20 Apr 2021 09:02:09 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 09:51:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How do I get a lateral flow or PCR test?]]></title>
