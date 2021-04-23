@@ -9,7 +9,7 @@
 9. [Putin opponent Navalny ends hunger strike in Russian jail](https://www.bbc.co.uk/news/world-europe-56858865) - Alexei Navalny refused food in a Russian jail for 24 days but his doctors appealed to him to stop.
 10. [Sarah Voss: German gymnast's outfit takes on sexualisation in sport](https://www.bbc.co.uk/news/world-europe-56858863) - Sarah Voss defies convention by ditching the leotard for a full-body suit at the European championship.
 11. [Dungiven: Two men arrested over police officer bomb attempt](https://www.bbc.co.uk/news/uk-northern-ireland-56860873) - The men aged 26 and 36 were detained over an device left at an officer's home in Dungiven.
-12. [Northumberland Longridge Towers School strip club teacher banned](https://www.bbc.co.uk/news/uk-england-tyne-56858188) - Richard Glenn is banned for three years over the visit to the Costa Rica lapdancing venue.
+12. [Tamara Ecclestone burglary: Milan man guilty of £26m celebrity raids](https://www.bbc.co.uk/news/uk-england-london-56847007) - A series of burglaries targeted the west London homes of multimillionaire celebrities.
 13. [Memorial plaque washes up 140 miles away on Somerset beach](https://www.bbc.co.uk/news/uk-england-somerset-56847542) - A memorial plaque lost in Storm Dennis is found in Somerset by a litter picker a year later.
 14. [Greta Thunberg becomes 'bunny hugger' on Twitter](https://www.bbc.co.uk/news/uk-politics-56859751) - Climate activist updates her social media biography following Boris Johnson comments at climate summit.
 15. [Carey Mulligan dedicates Independent Spirit awards win to Helen McCrory](https://www.bbc.co.uk/news/entertainment-arts-56857512) - Accepting an Independent Spirit Award, Mulligan thanked the late star for "everything she gave us".
