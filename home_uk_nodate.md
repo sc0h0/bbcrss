@@ -1,4 +1,4 @@
-1. [Covid: India joins UK's 'red list' as travel ban begins](https://www.bbc.co.uk/news/uk-56848006) - Travellers from red list countries will be refused entry to the UK, except for British and Irish nationals.
+1. [Covid: India joins UK's red list as travel ban begins](https://www.bbc.co.uk/news/uk-56848006) - Travellers from red list countries will be refused entry to the UK, except for British and Irish nationals.
 2. [Covid pushes UK borrowing to highest since WW2](https://www.bbc.co.uk/news/business-56856195) - The government borrowed £303bn in the year to March, reflecting the cost of measures to support the economy.
 3. [US joins race to find stricken Indonesia submarine](https://www.bbc.co.uk/news/world-asia-56851487) - Indonesia is trying to rescue 53 crew on board a missing submarine before their oxygen runs out.
 4. [One Covid vaccine cuts infection risk in all age groups](https://www.bbc.co.uk/news/health-56844220) - Real-world data found the AZ and Pfizer jabs worked equally well in over-75s and younger people.
@@ -30,7 +30,7 @@
 30. [Who was the 'one bright spark amid the madness'? - Garth's team of the week](https://www.bbc.co.uk/sport/football/56849170) - Who is rapidly developing into a fine player and which star played like he hadn't seen the newspapers? It's all in Garth Crooks' team of the week.
 31. [Carabao Cup & Premier League predictions: Lawro v Wolf Alice bassist Theo Ellis](https://www.bbc.co.uk/sport/football/56833320) - Mark Lawrenson takes on Wolf Alice bassist Theo Ellis to make predictions for this weekend's EFL Cup final and Premier League fixtures.
 32. [What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Pubs and gyms will reopen in Scotland on Monday, as lockdown restrictions ease significantly.
-33. [What are the Indian, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - Cases are being found in the UK and the changes the virus is undergoing are concerning.
+33. [Covid map: Coronavirus cases, deaths, vaccinations by country](https://www.bbc.co.uk/news/world-51235105) - Key maps and charts explaining how the virus has spread around the world.
 34. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 45 or over in England are being offered a Covid vaccine.
 35. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 33 million people receive at least one dose.
 36. [Coronavirus: What's the risk on transport?](https://www.bbc.co.uk/news/health-51736185) - As UK coronavirus restrictions continue to be relaxed, public transport could become much busier.
