@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Apr 2021 22:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 23:02:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-56862436</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56862436</guid>
             <pubDate>Fri, 23 Apr 2021 21:31:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US health panel urges restarting Johnson & Johnson vaccines]]></title>
+            <description><![CDATA[The officials said it was important for women be told about that potential risks of the vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56865562</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56865562</guid>
+            <pubDate>Fri, 23 Apr 2021 22:50:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ryan Giggs charged with assaulting two women]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-56864100</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56864100</guid>
             <pubDate>Fri, 23 Apr 2021 21:28:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Science advisers call for better PPE for healthcare workers]]></title>
-            <description><![CDATA[Doctors say it's a "crack of light" after more than a year of campaigning for improved equipment.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56866835</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56866835</guid>
-            <pubDate>Fri, 23 Apr 2021 19:38:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boy stabbed to death in Newham, east London]]></title>
@@ -168,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-56859105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56859105</guid>
             <pubDate>Fri, 23 Apr 2021 14:42:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Science advisers call for better PPE for healthcare workers]]></title>
+            <description><![CDATA[Doctors say it's a "crack of light" after more than a year of campaigning for improved equipment.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56866835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56866835</guid>
+            <pubDate>Fri, 23 Apr 2021 19:38:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Care staff reveal mental impact of pandemic]]></title>
