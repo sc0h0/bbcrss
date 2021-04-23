@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Apr 2021 03:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 03:55:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,10 +24,10 @@
         </item>
         <item>
             <title><![CDATA[Covid-19: Delhi hospitals run out of oxygen supplies]]></title>
-            <description><![CDATA[Hospitals are overwhelmed, with more than 99% of intensive care beds occupied.]]></description>
+            <description><![CDATA[Hospitals are overwhelmed in the Indian capital, with the majority of intensive care beds occupied.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56851265</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56851265</guid>
-            <pubDate>Thu, 22 Apr 2021 20:19:19 GMT</pubDate>
+            <pubDate>Fri, 23 Apr 2021 03:41:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One Covid vaccine cuts infection risk in all age groups]]></title>
@@ -65,6 +65,13 @@
             <pubDate>Thu, 22 Apr 2021 20:01:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dozens injured in East Jerusalem clashes]]></title>
+            <description><![CDATA[Israeli police fire tear gas, trying to keep apart rival groups of Jewish activists and Palestinians.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56854275</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56854275</guid>
+            <pubDate>Fri, 23 Apr 2021 03:42:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Greensill: Treasury publishes emails amid lobbying row]]></title>
             <description><![CDATA[More details emerge about the former PM's work for now-failed failed finance firm Greensill Capital.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56843359</link>
@@ -72,18 +79,11 @@
             <pubDate>Thu, 22 Apr 2021 21:21:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australia resists calls for tougher climate targets]]></title>
-            <description><![CDATA[The country remains out of step with other major nations by refusing to commit to deeper emissions cuts.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-56854558</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56854558</guid>
-            <pubDate>Fri, 23 Apr 2021 01:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uyghurs: MPs state genocide is taking place in China]]></title>
-            <description><![CDATA[More than a million people are estimated to have been detained at camps in the region of Xinjiang.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56843368</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56843368</guid>
-            <pubDate>Fri, 23 Apr 2021 02:51:46 GMT</pubDate>
+            <title><![CDATA[US President Joe Biden to 'propose hiking tax on rich']]></title>
+            <description><![CDATA[The plan would increase US capital gains taxes and the top marginal income tax rate.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56855301</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56855301</guid>
+            <pubDate>Fri, 23 Apr 2021 03:24:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chernobyl radiation damage 'not passed to children']]></title>
