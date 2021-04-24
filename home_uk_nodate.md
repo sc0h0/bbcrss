@@ -6,7 +6,7 @@
 6. [Covid-19: Israel records no daily deaths for the first time in 10 months](https://www.bbc.co.uk/news/world-middle-east-56868383) - The drop in deaths is seen as a promising sign as Israel vaccinates more than 50% of its population.
 7. [Boy stabbed to death in Newham, east London](https://www.bbc.co.uk/news/uk-england-london-56853980) - The teenager was confirmed dead at the scene and officers are trying to find and tell his family.
 8. [Brazil cuts environment budget despite climate summit pledge](https://www.bbc.co.uk/news/world-latin-america-56847958) - At a climate summit, President Bolsonaro had promised to boost spending and tackle deforestation.
-9. [Slieve Donard: 'Major incident' declared as Mourne fires continue](https://www.bbc.co.uk/news/uk-northern-ireland-56870380) - Irish Air Corp helicopters are deployed to assist as firefighters continue to tackle the huge blaze.
+9. [Slieve Donard: 'Major incident' declared as Mourne fires continue](https://www.bbc.co.uk/news/uk-northern-ireland-56870380) - Irish Air Corp helicopters are deployed to assist firefighters as they continue to tackle the blaze.
 10. [Razzies: Singer Sia named worst director for controversial film Music](https://www.bbc.co.uk/news/entertainment-arts-56856540) - The pop star's directorial debut tops the infamous Razzies - the awards for the year's worst movies.
 11. [The real-life nomads of Nomadland](https://www.bbc.co.uk/news/world-us-canada-56859334) - Meet the Americans whose lives on the road inspired the Oscar-nominated film.
 12. ['I walked 5,000 miles to show people are not alone'](https://www.bbc.co.uk/news/uk-northern-ireland-56724554) - Fleming Keery, 69, talks to those he passes, wearing a coat signalling a suicide prevention helpline.
