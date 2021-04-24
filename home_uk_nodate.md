@@ -1,4 +1,4 @@
-1. [Dominic Cummings: No 10 defends PM after former aide's blog post](https://www.bbc.co.uk/news/uk-politics-56870370) - Boris Johnson's former top adviser made a string of explosive allegations about the PM's conduct.
+1. [Dominic Cummings: No 10 defends Boris Johnson after former aide's blog post](https://www.bbc.co.uk/news/uk-politics-56870370) - Boris Johnson's former top adviser made a string of explosive allegations about the PM's conduct.
 2. [India Covid surge: Hospitals send SOS as record deaths registered](https://www.bbc.co.uk/news/world-asia-56870410) - Patients are dying because of a lack of medical oxygen supplies, doctors warn.
 3. [India Covid crisis: Inside the Delhi hospital running low on beds and oxygen](https://www.bbc.co.uk/news/world-asia-india-56864789) - Covid-19 patients who get a hospital bed are being described as the lucky ones in India's deadly second wave.
 4. [Covid-19: Israel records no daily deaths for the first time in 10 months](https://www.bbc.co.uk/news/world-middle-east-56868383) - The drop in deaths is seen as a promising sign as Israel vaccinates more than 50% of its population.
