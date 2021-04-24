@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Apr 2021 20:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 21:20:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,18 +44,18 @@
             <pubDate>Sat, 24 Apr 2021 17:53:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boy, 14, stabbed to death outside Newham pizza restaurant named]]></title>
-            <description><![CDATA[Three boys are arrested after Fares Maatou was attacked with "a large bladed item", police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56864862</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56864862</guid>
-            <pubDate>Sat, 24 Apr 2021 15:13:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Hancock welcomes over half of UK getting first jab]]></title>
             <description><![CDATA[The health secretary hails a 'milestone' as data shows a further 12m people have received both doses.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56875151</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56875151</guid>
             <pubDate>Sat, 24 Apr 2021 19:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 14, stabbed to death outside Newham pizza restaurant named]]></title>
+            <description><![CDATA[Three boys are arrested after Fares Maatou was attacked with "a large bladed item", police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56864862</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56864862</guid>
+            <pubDate>Sat, 24 Apr 2021 15:13:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US Dragon spaceship arrives at International Space Station]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Sat, 24 Apr 2021 13:00:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England 10-6 France: Red Roses win Women's Six Nations for third year in a row]]></title>
-            <description><![CDATA[England win the Women's Six Nations for the third year in a row with a hard-fought final win against France.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56871392</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56871392</guid>
-            <pubDate>Sat, 24 Apr 2021 15:22:46 GMT</pubDate>
+            <title><![CDATA[European Super League: Clubs 'cannot leave', says Real Madrid president Florentino Perez]]></title>
+            <description><![CDATA[The 12 clubs that agreed to join a new European Super League have "binding contracts" and "cannot leave", says Real Madrid president Florentino Perez.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56873448</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56873448</guid>
+            <pubDate>Sat, 24 Apr 2021 14:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Man arrested after infecting 22 people in Majorca]]></title>
@@ -86,11 +86,18 @@
             <pubDate>Sat, 24 Apr 2021 20:03:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[European Super League: Clubs 'cannot leave', says Real Madrid president Florentino Perez]]></title>
-            <description><![CDATA[The 12 clubs that agreed to join a new European Super League have "binding contracts" and "cannot leave", says Real Madrid president Florentino Perez.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56873448</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56873448</guid>
-            <pubDate>Sat, 24 Apr 2021 14:41:01 GMT</pubDate>
+            <title><![CDATA[England 10-6 France: Red Roses win Women's Six Nations for third year in a row]]></title>
+            <description><![CDATA[England win the Women's Six Nations for the third year in a row with a hard-fought final win against France.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56871392</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56871392</guid>
+            <pubDate>Sat, 24 Apr 2021 15:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watford 1-0 Millwall: Hornets seal immediate return to Premier League]]></title>
+            <description><![CDATA[Watford win automatic promotion back to the Premier League after Ismaila Sarr's penalty seals a narrow win over Millwall.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56781828</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56781828</guid>
+            <pubDate>Sat, 24 Apr 2021 17:33:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The real-life nomads of Nomadland]]></title>
@@ -268,6 +275,13 @@
             <pubDate>Sat, 24 Apr 2021 19:45:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Premier League clubs part of English football's four-day social media boycott]]></title>
+            <description><![CDATA[Premier League, EFL and WSL clubs join in a four-day boycott of social media platforms in an effort to combat abuse and discrimination.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56872469</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56872469</guid>
+            <pubDate>Sat, 24 Apr 2021 21:00:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hibernian edge Motherwell in cup shootout]]></title>
             <description><![CDATA[Hibernian reach the Scottish Cup semi-finals for the seventh time in 10 seasons after beating Motherwell in a penalty shootout.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56789586</link>
@@ -275,11 +289,11 @@
             <pubDate>Sat, 24 Apr 2021 18:42:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watford promoted to Premier League after beating Millwall]]></title>
-            <description><![CDATA[Watford win automatic promotion back to the Premier League after Ismaila Sarr's penalty seals a narrow win over Millwall.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56781828</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56781828</guid>
-            <pubDate>Sat, 24 Apr 2021 17:33:24 GMT</pubDate>
+            <title><![CDATA[Blades earn first win under Heckingbottom to keep Brighton in relegation mix]]></title>
+            <description><![CDATA[Sheffield United claim a first Premier League win since the departure of boss Chris Wilder to keep Brighton in the relegation mix.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56782073</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56782073</guid>
+            <pubDate>Sat, 24 Apr 2021 21:12:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Which countries are on the red list and what are the quarantine rules?]]></title>
