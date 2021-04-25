@@ -8,7 +8,7 @@
 8. [TikTok: 'My nan has helped me get millions of views'](https://www.bbc.co.uk/news/uk-wales-56858219) - Lewis Leigh, 19, has attracted 1.2m followers on TikTok - with a little help from his family.
 9. [Covid in Scotland: Free test kits to be available on demand](https://www.bbc.co.uk/news/uk-scotland-56873137) - The lateral flow test kits can be picked up from testing centres or ordered online from Monday.
 10. [M62: Motorcyclist dies after crash with car on motorway](https://www.bbc.co.uk/news/uk-england-merseyside-56878151) - A 23-year-old man dies while a car driver is in a serious condition in hospital.
-11. [Menstrual leave: South Korea airline boss fined for refusing time off](https://www.bbc.co.uk/news/world-asia-56877634) - Under South Korean law, women can ask for a day off each month if they have painful periods.
+11. [Menstrual leave: South Korea airline ex-CEO fined for refusing time off](https://www.bbc.co.uk/news/world-asia-56877634) - Under South Korean law, women can ask for a day off each month if they have painful periods.
 12. [Butetown: Search to find people in photos from Cardiff Docks past](https://www.bbc.co.uk/news/uk-wales-56843429) - Historians are asking for help to identify people in photos taken in the city around 100 years ago.
 13. [How Armel Zola is helping people to 'stay positive' at home](https://www.bbc.co.uk/news/uk-56866032) - The former footballer is teaching dancing in lockdown to young adults with Down's Syndrome.
 14. [The Papers: 'Cummings dossier fear' and No 10 'counter-attack'](https://www.bbc.co.uk/news/blogs-the-papers-56875711) - The front pages focus on the fallout from allegations by former Downing Street adviser Dominic Cummings.
