@@ -1,6 +1,6 @@
-1. [Social media boycott: Premier League clubs join four-day move to tackle abuse](https://www.bbc.co.uk/sport/football/56872469) - Premier League, EFL and WSL clubs join in a four-day boycott of social media platforms in an effort to combat abuse and discrimination.
+1. [India Covid: Patients dying without oxygen amid Delhi surge](https://www.bbc.co.uk/news/56876695) - Delhi hospitals run out of beds and oxygen as families struggle to save their loved ones.
 2. [Dominic Cummings allegations: Labour wants minister to face MPs](https://www.bbc.co.uk/news/uk-politics-56876153) - Party wants a government minister to face questions in the Commons amid claims by former No 10 aide.
-3. [India Covid: Patients dying without oxygen amid Delhi surge](https://www.bbc.co.uk/news/56876695) - Delhi hospitals run out of beds and oxygen as families struggle to save their loved ones.
+3. [Social media boycott: Premier League clubs join four-day move to tackle abuse](https://www.bbc.co.uk/sport/football/56872469) - Premier League, EFL and WSL clubs join in a four-day boycott of social media platforms in an effort to combat abuse and discrimination.
 4. [Covid-19: 'Battle not over' amid jab campaign for under-50s](https://www.bbc.co.uk/news/uk-56873026) - Younger people are being urged to get vaccinated as more than half the population have had one dose.
 5. [Oscars 2021: Stars prepare for in-person ceremony](https://www.bbc.co.uk/news/entertainment-arts-56807445) - The 93rd Academy Awards take place on Sunday night, from multiple locations around the world.
 6. [Covid-19: Under-50s jab campaign and fans return to Wembley](https://www.bbc.co.uk/news/uk-56875724) - Five things you need to know about the coronavirus pandemic this Sunday morning.
@@ -10,7 +10,7 @@
 10. [Covid in Scotland: Free test kits to be available on demand](https://www.bbc.co.uk/news/uk-scotland-56873137) - The lateral flow test kits can be picked up from testing centres or ordered online from Monday.
 11. [Butetown: Search to find people in photos from Cardiff Docks past](https://www.bbc.co.uk/news/uk-wales-56843429) - Historians are asking for help to identify people in photos taken in the city around 100 years ago.
 12. [The Papers: 'Cummings dossier fear' and No 10 'counter-attack'](https://www.bbc.co.uk/news/blogs-the-papers-56875711) - The front pages focus on the fallout from allegations by former Downing Street adviser Dominic Cummings.
-13. [Brazil: Environment police battle for Amazon rainforest](https://www.bbc.co.uk/news/science-environment-56847298) - Riots, policy changes and funding cuts have all threatened the mission to protect the Amazon rainforest from deforestation.
+13. [Brazil: Environment police battle for Amazon rainforest](https://www.bbc.co.uk/news/science-environment-56847298) - Riots, policy changes and funding cuts have all threatened the mission to preserve the rainforest.
 14. [TikTok: 'My nan has helped me get millions of views'](https://www.bbc.co.uk/news/uk-wales-56858219) - Lewis Leigh, 19, has attracted 1.2m followers on TikTok - with a little help from his family.
 15. [Oscars 2021: 'I don't mind being the underdog'](https://www.bbc.co.uk/news/world-europe-56861890) - Irish animation studio Cartoon Saloon's latest film Wolfwalkers is up for an Oscar on Sunday night.
 16. [How Armel Zola is helping people to 'stay positive' at home](https://www.bbc.co.uk/news/uk-56866032) - The former footballer is teaching dancing in lockdown to young adults with Down's Syndrome.
