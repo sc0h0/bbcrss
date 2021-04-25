@@ -1,4 +1,4 @@
-1. [Dominic Cummings allegations: Labour calls for government to face MPs](https://www.bbc.co.uk/news/uk-politics-56876153) - Party wants a government minister to face questions in the Commons amid claims by former No 10 aide.
+1. [Dominic Cummings allegations: Labour wants minister to face MPs](https://www.bbc.co.uk/news/uk-politics-56876153) - Party wants a government minister to face questions in the Commons amid claims by former No 10 aide.
 2. [Social media boycott: Premier League clubs join four-day move to tackle abuse](https://www.bbc.co.uk/sport/football/56872469) - Premier League, EFL and WSL clubs join in a four-day boycott of social media platforms in an effort to combat abuse and discrimination.
 3. [Covid-19: 'Battle not over' amid jab campaign for under-50s](https://www.bbc.co.uk/news/uk-56873026) - Younger people are being urged to get vaccinated as more than half the population have had one dose.
 4. [Iraq Covid hospital fire: At least 23 dead after 'oxygen tank explodes'](https://www.bbc.co.uk/news/world-middle-east-56875804) - Flames across several floors lead to scenes of panic at a hospital in the Iraqi capital.
