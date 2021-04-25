@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Apr 2021 21:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 22:31:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,32 +51,11 @@
             <pubDate>Sun, 25 Apr 2021 19:56:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man jumps through car window to stop dangerous driver in Albania]]></title>
-            <description><![CDATA[A suspect was arrested after breaking through barriers in a pedestrianised zone in the Albanian capital.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56878417</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56878417</guid>
-            <pubDate>Sun, 25 Apr 2021 13:22:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Labour: Ministers must reveal Covid contract links]]></title>
             <description><![CDATA[Emergency measures to speed up government procurement has led to accusations of a "VIP fast track".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56878998</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56878998</guid>
             <pubDate>Sun, 25 Apr 2021 21:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fares Maatou: Boy, 14, charged with murder after Newham stabbing]]></title>
-            <description><![CDATA[A boy is charged with the murder of Fares Maatou, who was stabbed outside a pizza restaurant.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56878836</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56878836</guid>
-            <pubDate>Sun, 25 Apr 2021 11:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oscars 2021: Stars prepare for in-person ceremony]]></title>
-            <description><![CDATA[The 93rd Academy Awards take place on Sunday night, from multiple locations around the world.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56807445</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56807445</guid>
-            <pubDate>Sat, 24 Apr 2021 23:01:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish election 2021: Sturgeon faces questions over 'hard border']]></title>
@@ -93,18 +72,32 @@
             <pubDate>Sun, 25 Apr 2021 14:18:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bomb disposal team called after car stopped on M20]]></title>
-            <description><![CDATA[Army experts were called in over "concerns about the security" of a car, police said.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-56879033</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-56879033</guid>
-            <pubDate>Sun, 25 Apr 2021 17:55:28 GMT</pubDate>
+            <title><![CDATA[Fares Maatou: Boy, 14, charged with murder after Newham stabbing]]></title>
+            <description><![CDATA[A boy is charged with the murder of Fares Maatou, who was stabbed outside a pizza restaurant.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56878836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56878836</guid>
+            <pubDate>Sun, 25 Apr 2021 11:32:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How Armel Zola is helping people to 'stay positive' at home]]></title>
-            <description><![CDATA[The former footballer is teaching dancing in lockdown to young adults with Down's Syndrome.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56866032</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56866032</guid>
-            <pubDate>Sat, 24 Apr 2021 23:06:35 GMT</pubDate>
+            <title><![CDATA[Oscars 2021: Stars prepare for in-person ceremony]]></title>
+            <description><![CDATA[The 93rd Academy Awards take place on Sunday night, from multiple locations around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56807445</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56807445</guid>
+            <pubDate>Sat, 24 Apr 2021 23:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German opera star Christa Ludwig dies at the age of 93]]></title>
+            <description><![CDATA[The singer was closely associated with the Vienna State Opera for most of her long career.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56882250</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56882250</guid>
+            <pubDate>Sun, 25 Apr 2021 20:42:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man jumps through car window to stop dangerous driver in Albania]]></title>
+            <description><![CDATA[A suspect was arrested after breaking through barriers in a pedestrianised zone in the Albanian capital.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56878417</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56878417</guid>
+            <pubDate>Sun, 25 Apr 2021 13:22:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oscars 2021: The railway station now a hosting venue]]></title>
@@ -112,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-56859336</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56859336</guid>
             <pubDate>Sun, 25 Apr 2021 16:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Armel Zola is helping people to 'stay positive' at home]]></title>
+            <description><![CDATA[The former footballer is teaching dancing in lockdown to young adults with Down's Syndrome.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56866032</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56866032</guid>
+            <pubDate>Sat, 24 Apr 2021 23:06:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brazil: Environment police battle for Amazon rainforest]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56878663</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56878663</guid>
             <pubDate>Sun, 25 Apr 2021 14:09:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oscars 2021: The nominations in full]]></title>
+            <description><![CDATA[The films, actors, directors and production talent who are in the running for golden statuettes.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56372153</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56372153</guid>
+            <pubDate>Sun, 25 Apr 2021 07:54:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan War: How can the West fight terrorism after leaving?]]></title>
@@ -216,7 +223,7 @@
             <description><![CDATA[West Brom's faint hopes of avoiding relegation suffer a significant setback after substitute Keinan Davis scored a 92nd minute equaliser for Aston Villa.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56790344</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56790344</guid>
-            <pubDate>Sun, 25 Apr 2021 21:35:40 GMT</pubDate>
+            <pubDate>Sun, 25 Apr 2021 22:04:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carabao Cup: Players and pundits revel in fans' return at Wembley]]></title>
@@ -224,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/football/56880270</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56880270</guid>
             <pubDate>Sun, 25 Apr 2021 18:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Snooker Championship: Judd Trump and Stuart Bingham build commanding second-round leads]]></title>
+            <description><![CDATA[Ex-champions Judd Trump and Stuart Bingham take commanding leads into the final sessions of their respective second-round games.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/56875195</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56875195</guid>
+            <pubDate>Sun, 25 Apr 2021 21:56:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bielsa sees signs of Leeds 'evolution' as stubborn display frustrates Man Utd]]></title>
@@ -238,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/gymnastics/56880753</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/gymnastics/56880753</guid>
             <pubDate>Sun, 25 Apr 2021 14:58:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bayern edge Champions League semi first leg against Chelsea]]></title>
+            <description><![CDATA[Chelsea fall to a narrow defeat at Bayern Munich in the first leg of their Women's Champions League semi-final.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56802438</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56802438</guid>
+            <pubDate>Sun, 25 Apr 2021 17:14:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
@@ -366,46 +387,46 @@
             <pubDate>Fri, 16 Apr 2021 16:08:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ICYMI: Chinese kite festival and a whale in Italy]]></title>
-            <description><![CDATA[Here are a few of the stories you may have missed this week.]]></description>
-            <link>https://www.bbc.co.uk/news/world-56851238</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56851238</guid>
-            <pubDate>Sun, 25 Apr 2021 10:20:33 GMT</pubDate>
+            <title><![CDATA['My sister took her life, petrified at facing her ex in court']]></title>
+            <description><![CDATA[Gemma Robinson died just days before she was due to see her ex-partner in court.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56539465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56539465</guid>
+            <pubDate>Tue, 20 Apr 2021 23:13:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mouse deer born at Bristol Zoo is the height of a pencil]]></title>
-            <description><![CDATA[The tiny fawn is only 20cm (8ins) tall, and when fully grown will only weigh about 1.5kg (3lb).]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-56841632</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-56841632</guid>
-            <pubDate>Thu, 22 Apr 2021 08:12:50 GMT</pubDate>
+            <title><![CDATA[The disabled doctors not believed by their colleagues]]></title>
+            <description><![CDATA[People often feel nervous when they visit a doctor, but what if you are a doctor but your colleagues don't believe you're ill?]]></description>
+            <link>https://www.bbc.co.uk/news/disability-56244376</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-56244376</guid>
+            <pubDate>Sun, 18 Apr 2021 23:04:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Midsomer Murders: The county that hopes a police show will lure back visitors]]></title>
-            <description><![CDATA["I thought it would be nice to find the places it was filmed - I used to go out most weekends."]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56195950</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56195950</guid>
-            <pubDate>Sun, 18 Apr 2021 07:05:35 GMT</pubDate>
+            <title><![CDATA[The homeless drug addict who became a professor]]></title>
+            <description><![CDATA[Jesse Thistle, a high school dropout, overcame addiction and homelessness to pursue an academic career.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-55559382</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55559382</guid>
+            <pubDate>Sun, 24 Jan 2021 00:15:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rare bug spotted for first time in more than 30 years]]></title>
-            <description><![CDATA[The discovery in the Cairngorms is only the eighth time a cow wheat shieldbug has been recorded in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-56814446</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-56814446</guid>
-            <pubDate>Tue, 20 Apr 2021 10:26:54 GMT</pubDate>
+            <title><![CDATA[Nil-by-mouth foodie: The chef who will never eat again]]></title>
+            <description><![CDATA[Loretta Harmes hasn't eaten or tasted food for six years, but she hasn't lost her passion for cooking.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56688582</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56688582</guid>
+            <pubDate>Sat, 17 Apr 2021 23:56:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Crash cyclist Josh Quigley to make Guinness World Record bid]]></title>
-            <description><![CDATA[Josh Quigley is aiming to break Jack Thompson's record of cycling 2,177 miles in a week.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-56802796</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56802796</guid>
-            <pubDate>Tue, 20 Apr 2021 05:16:28 GMT</pubDate>
+            <title><![CDATA[Why are so many babies dying of Covid-19 in Brazil?]]></title>
+            <description><![CDATA[As the pandemic rages in Brazil, hundreds of babies and young children are dying of Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56696907</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56696907</guid>
+            <pubDate>Wed, 14 Apr 2021 23:15:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[European Super League: Fans' outcry encouraging, says Sheen]]></title>
-            <description><![CDATA[The Hollywood actor discusses his new Oxford University bursary and football in a lockdown chat.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56819751</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56819751</guid>
-            <pubDate>Tue, 20 Apr 2021 20:45:34 GMT</pubDate>
+            <title><![CDATA[Prince Philip: A turbulent childhood stalked by exile, mental illness and death]]></title>
+            <description><![CDATA[In marrying, Philip was able to regain the "simple pleasures" of family life he had lost aged eight.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56690270</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56690270</guid>
+            <pubDate>Sat, 10 Apr 2021 11:08:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
