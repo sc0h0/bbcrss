@@ -9,7 +9,7 @@
 9. [Labour: Ministers must reveal Covid contract links](https://www.bbc.co.uk/news/uk-politics-56878998) - Emergency measures to speed up government procurement has led to accusations of a "VIP fast track".
 10. [Older workers 'see biggest jobs fall since 1980s'](https://www.bbc.co.uk/news/business-56862888) - There were 109,000 more jobless older workers between December and February than a year ago, a report says.
 11. [Catalytic converters: Demand for precious metals drives surge in thefts](https://www.bbc.co.uk/news/business-56882495) - There has been a surge in offences as thieves cash in on the precious metals they contain.
-12. [German opera star Christa Ludwig dies at the age of 93](https://www.bbc.co.uk/news/world-europe-56882250) - The singer was closely associated with the Vienna State Opera for most of her long career.
+12. [Turkmenistan celebrates new holiday to honour native dog breed](https://www.bbc.co.uk/news/world-asia-56882558) - The president leads celebrations of the Alabay shepherd dog - a symbol of national cultural pride.
 13. [The Papers: 'PM under pressure' and 'India at breaking point'](https://www.bbc.co.uk/news/blogs-the-papers-56882822) - Several front pages continue to focus on questions facing Boris Johnson over the renovation of his Downing Street flat.
 14. ['We do like a rave!' Inside the UK's last lesbian bars](https://www.bbc.co.uk/news/uk-56866034) - There are only a few fixed lesbian venues left in the UK, and they are having to adapt to keep going.
 15. [Chernobyl nuclear disaster: ‘Three-day evacuation lasted 35 years’](https://www.bbc.co.uk/news/world-europe-56864709) - Lyudmila Honchar was four when she had to leave her home in Pripyat, Ukraine after the Chernobyl nuclear disaster. Now she's going home.
