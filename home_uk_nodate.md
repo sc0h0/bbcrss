@@ -17,10 +17,10 @@
 17. ['Apocalyptic' landscape in aftermath of volcanic eruptions on St Vincent.](https://www.bbc.co.uk/news/world-us-canada-56859335) - The island of St Vincent has been blanketed in ash, impacting infrastructure and agriculture.
 18. [Oscars 2021: The railway station now a hosting venue](https://www.bbc.co.uk/news/world-us-canada-56859336) - Union Station in Los Angeles will be one of the venues for this year's Oscars.
 19. [Chloe Zhao, from 'outsider' to Hollywood history-maker](https://www.bbc.co.uk/news/entertainment-arts-56828748) - Chinese-born, British-educated, US-based Zhao is the first woman of colour to win best director.
-20. [Downing Street flat refurbishment: What is the row all about?](https://www.bbc.co.uk/news/uk-politics-56878663) - Boris Johnson is facing questions over how expensive works on his Downing Street flat were paid for.
-21. [The salmon you buy in the future may be farmed on land](https://www.bbc.co.uk/news/business-56829129) - A giant fish farm in Florida is rearing salmon for the US market in a huge indoor facility.
-22. [Can Western brands recover from consumer backlash in China?](https://www.bbc.co.uk/news/business-56598884) - Some foreign companies are facing a boycott in China - they are not the first and won't be the last.
-23. [Facebook v Apple: The ad tracking row heats up](https://www.bbc.co.uk/news/technology-56831241) - Why is there is a dispute between the two tech giants and does it matter to you?
+20. [Facebook v Apple: The ad tracking row heats up](https://www.bbc.co.uk/news/technology-56831241) - Why is there is a dispute between the two tech giants and does it matter to you?
+21. [Downing Street flat refurbishment: What is the row all about?](https://www.bbc.co.uk/news/uk-politics-56878663) - Boris Johnson is facing questions over how expensive works on his Downing Street flat were paid for.
+22. [The salmon you buy in the future may be farmed on land](https://www.bbc.co.uk/news/business-56829129) - A giant fish farm in Florida is rearing salmon for the US market in a huge indoor facility.
+23. [Can Western brands recover from consumer backlash in China?](https://www.bbc.co.uk/news/business-56598884) - Some foreign companies are facing a boycott in China - they are not the first and won't be the last.
 24. [The Voice: Grace Holden tells of opening up about her grief](https://www.bbc.co.uk/news/uk-england-essex-56608101) - Grace Holden found talking about her mum's death hard - until she opened up about it on The Voice.
 25. ['I will not return to work': Myanmar coup cripples healthcare system](https://www.bbc.co.uk/news/world-asia-56827116) - Myanmar's medical workers are finding themselves torn between their patients and a military government.
 26. [2021 elections: A simple guide to the Scottish, Welsh and local elections](https://www.bbc.co.uk/news/uk-politics-56286643) - A bumper crop of elections are being held on 6 May across England, Scotland and Wales.
@@ -50,8 +50,8 @@
 50. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
 51. [Covid: When will children return to school and what are the rules?](https://www.bbc.co.uk/news/education-51643556) - Children are returning to school across the UK, after months of enforced home-schooling.
 52. [How the Bay of Pigs invasion began - and failed - 60 years on](https://www.bbc.co.uk/news/world-us-canada-56808455) - The story of the attempted overthrow of Castro's regime in Cuba, as told by the men who were there.
-53. ['My sister took her life, petrified at facing her ex in court'](https://www.bbc.co.uk/news/uk-56539465) - Gemma Robinson died just days before she was due to see her ex-partner in court.
+53. [Afghanistan War: How can the West fight terrorism after leaving?](https://www.bbc.co.uk/news/world-asia-56860781) - As Western troops prepare to go, there are concerns over the future of counter-terrorism operations.
 54. [Big Dog's Backyard Ultra: The toughest, weirdest race you've never heard of](https://www.bbc.co.uk/sport/56720358) - The format might be simple - winning this race is anything but. Big Dog's Backyard Ultra is an unusually punishing challenge.
-55. [The disabled doctors not believed by their colleagues](https://www.bbc.co.uk/news/disability-56244376) - People often feel nervous when they visit a doctor, but what if you are a doctor but your colleagues don't believe you're ill?
-56. [The homeless drug addict who became a professor](https://www.bbc.co.uk/news/stories-55559382) - Jesse Thistle, a high school dropout, overcame addiction and homelessness to pursue an academic career.
-57. [Nil-by-mouth foodie: The chef who will never eat again](https://www.bbc.co.uk/news/stories-56688582) - Loretta Harmes hasn't eaten or tasted food for six years, but she hasn't lost her passion for cooking.
+55. ['My sister took her life, petrified at facing her ex in court'](https://www.bbc.co.uk/news/uk-56539465) - Gemma Robinson died just days before she was due to see her ex-partner in court.
+56. [The disabled doctors not believed by their colleagues](https://www.bbc.co.uk/news/disability-56244376) - People often feel nervous when they visit a doctor, but what if you are a doctor but your colleagues don't believe you're ill?
+57. [The homeless drug addict who became a professor](https://www.bbc.co.uk/news/stories-55559382) - Jesse Thistle, a high school dropout, overcame addiction and homelessness to pursue an academic career.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Apr 2021 07:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 08:06:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Nomadland takes three top awards, with wins for British stars Sir Anthony Hopkins and Daniel Kaluuya.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56882958</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56882958</guid>
-            <pubDate>Mon, 26 Apr 2021 05:41:52 GMT</pubDate>
+            <pubDate>Mon, 26 Apr 2021 07:54:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oscars 2021: 13 major red carpet looks from the Academy Awards]]></title>
@@ -149,6 +149,13 @@
             <pubDate>Mon, 26 Apr 2021 02:56:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Facebook v Apple: The ad tracking row heats up]]></title>
+            <description><![CDATA[Why is there is a dispute between the two tech giants and does it matter to you?]]></description>
+            <link>https://www.bbc.co.uk/news/technology-56831241</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56831241</guid>
+            <pubDate>Sun, 25 Apr 2021 23:28:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Downing Street flat refurbishment: What is the row all about?]]></title>
             <description><![CDATA[Boris Johnson is facing questions over how expensive works on his Downing Street flat were paid for.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56878663</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/business-56598884</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56598884</guid>
             <pubDate>Sun, 25 Apr 2021 04:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook v Apple: The ad tracking row heats up]]></title>
-            <description><![CDATA[Why is there is a dispute between the two tech giants and does it matter to you?]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56831241</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56831241</guid>
-            <pubDate>Sun, 25 Apr 2021 23:28:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Voice: Grace Holden tells of opening up about her grief]]></title>
@@ -380,11 +380,11 @@
             <pubDate>Fri, 23 Apr 2021 21:05:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['My sister took her life, petrified at facing her ex in court']]></title>
-            <description><![CDATA[Gemma Robinson died just days before she was due to see her ex-partner in court.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56539465</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56539465</guid>
-            <pubDate>Tue, 20 Apr 2021 23:13:16 GMT</pubDate>
+            <title><![CDATA[Afghanistan War: How can the West fight terrorism after leaving?]]></title>
+            <description><![CDATA[As Western troops prepare to go, there are concerns over the future of counter-terrorism operations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56860781</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56860781</guid>
+            <pubDate>Sat, 24 Apr 2021 23:00:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Big Dog's Backyard Ultra: The toughest, weirdest race you've never heard of]]></title>
@@ -392,6 +392,13 @@
             <link>https://www.bbc.co.uk/sport/56720358</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/56720358</guid>
             <pubDate>Wed, 21 Apr 2021 23:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My sister took her life, petrified at facing her ex in court']]></title>
+            <description><![CDATA[Gemma Robinson died just days before she was due to see her ex-partner in court.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56539465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56539465</guid>
+            <pubDate>Tue, 20 Apr 2021 23:13:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The disabled doctors not believed by their colleagues]]></title>
@@ -406,13 +413,6 @@
             <link>https://www.bbc.co.uk/news/stories-55559382</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55559382</guid>
             <pubDate>Sun, 24 Jan 2021 00:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nil-by-mouth foodie: The chef who will never eat again]]></title>
-            <description><![CDATA[Loretta Harmes hasn't eaten or tasted food for six years, but she hasn't lost her passion for cooking.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-56688582</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56688582</guid>
-            <pubDate>Sat, 17 Apr 2021 23:56:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
