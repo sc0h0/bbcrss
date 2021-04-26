@@ -5,7 +5,7 @@
 5. [Oscars 2021: Nomadland, Anthony Hopkins and Daniel Kaluuya share glory](https://www.bbc.co.uk/news/entertainment-arts-56882958) - Nomadland takes three top awards, with wins for British stars Sir Anthony Hopkins and Daniel Kaluuya.
 6. [Tributes to 'hero' who died in River Thames rescue bid](https://www.bbc.co.uk/news/uk-england-london-56879525) - Folajimi Olubunmi-Adewole's body was found in the water about six hours after he leapt in to help.
 7. [Shops, pubs and pools reopen in Scotland](https://www.bbc.co.uk/news/uk-scotland-56878753) - Travel restrictions are also eased, allowing people to travel between Scotland and other parts of the UK.
-8. [Ex-Serco bosses cleared of fraud over alleged tagging scandal](https://www.bbc.co.uk/news/uk-england-56890662) - Nicholas Woods and Simon Marshall were charged over an alleged scandal involving tagging criminals.
+8. [Ex-Serco bosses cleared after fraud case collapses](https://www.bbc.co.uk/news/uk-england-56890662) - The Serious Fraud Office drops a prosecution over an alleged scandal involving tagging criminals.
 9. [Line of Duty: Penultimate episode achieves record ratings](https://www.bbc.co.uk/news/entertainment-arts-56889021) - An average audience of 11m viewers tune into the sixth instalment in the BBC drama's sixth series.
 10. [Elite rugby players join dementia-prevention study](https://www.bbc.co.uk/news/health-56888248) - England's Ben Kay and Wales' Shane Williams are among those recruited.
 11. [Covid-19: Bereaved families disappointed by government response to inquiry](https://www.bbc.co.uk/news/uk-56886334) - The government says there is "no capacity", but bereaved families say a probe could save lives.
