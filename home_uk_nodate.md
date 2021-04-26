@@ -1,7 +1,7 @@
 1. [Oscars 2021: 13 major red carpet looks from the Academy Awards](https://www.bbc.co.uk/news/entertainment-arts-56864780) - All the suits, sparkles and sequins from Sunday night's Academy Awards.
-2. [Dominic Cummings allegations: Top civil servant to face MPs](https://www.bbc.co.uk/news/uk-politics-56883078) - The cabinet secretary is expected to say an inquiry into the leak of lockdown plans is ongoing.
+2. [Dominic Cummings allegations: Top civil servant to face MPs](https://www.bbc.co.uk/news/uk-politics-56883078) - The cabinet secretary is also expected to be questioned about the row over lobbying in Westminster.
 3. [Covid-19: Vaccine rollout in England extends to 44-year-olds](https://www.bbc.co.uk/news/uk-56880376) - The NHS plans to set out when 40 to 43-year-olds will be invited for the jab "in the coming days".
-4. [India Covid: Patients struggle at home as hospitals choke](https://www.bbc.co.uk/news/world-asia-india-56882167) - India's Covid sick struggle to get treatment at home due to black marketing of oxygen and drugs.
+4. [Covid-19 in India: Patients struggle at home as hospitals choke](https://www.bbc.co.uk/news/world-asia-india-56882167) - India's Covid sick struggle to get treatment at home due to black marketing of oxygen and drugs.
 5. [Ex-Post Office boss quits board role after IT scandal](https://www.bbc.co.uk/news/business-56882496) - Paula Vennells to step down from Dunelm days after 39 postmasters saw their convictions quashed.
 6. [Space junk map tracks 200 ‘ticking time bombs’](https://www.bbc.co.uk/news/science-environment-56845104) - Large defunct rocket bodies have the potential to break into thousands of pieces, threatening functioning satellites that provide vital services like GPS.
 7. [Shops, pubs and pools reopen in Scotland](https://www.bbc.co.uk/news/uk-scotland-56878753) - Travel restrictions are also eased, allowing people to travel between Scotland and other parts of the UK.
