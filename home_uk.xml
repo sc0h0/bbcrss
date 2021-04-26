@@ -11,30 +11,44 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Apr 2021 06:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Apr 2021 06:50:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Oscars 2021: Nomadland, Hopkins and Kaluuya share glory]]></title>
+            <description><![CDATA[Nomadland takes three top awards, with wins for British stars Sir Anthony Hopkins and Daniel Kaluuya.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56882958</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56882958</guid>
+            <pubDate>Mon, 26 Apr 2021 05:41:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Oscars 2021: 13 major red carpet looks from the Academy Awards]]></title>
             <description><![CDATA[All the suits, sparkles and sequins from Sunday night's Academy Awards.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56864780</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56864780</guid>
-            <pubDate>Mon, 26 Apr 2021 02:49:08 GMT</pubDate>
+            <pubDate>Mon, 26 Apr 2021 06:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Post Office boss quits board role after IT scandal]]></title>
+            <description><![CDATA[Paula Vennells steps down from Dunelm and Morrisons after an IT scandal which saw workers wrongfully convicted.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56882496</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56882496</guid>
+            <pubDate>Mon, 26 Apr 2021 06:40:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shops, pubs and pools reopen in Scotland]]></title>
+            <description><![CDATA[Travel restrictions are also eased, allowing people to travel between Scotland and other parts of the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-56878753</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56878753</guid>
+            <pubDate>Sun, 25 Apr 2021 23:21:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dominic Cummings allegations: Top civil servant to face MPs]]></title>
             <description><![CDATA[The cabinet secretary is also expected to be questioned about the row over lobbying in Westminster.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56883078</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56883078</guid>
-            <pubDate>Mon, 26 Apr 2021 03:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Vaccine rollout in England extends to 44-year-olds]]></title>
-            <description><![CDATA[The NHS plans to set out when 40 to 43-year-olds will be invited for the jab "in the coming days".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56880376</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56880376</guid>
-            <pubDate>Sun, 25 Apr 2021 23:01:42 GMT</pubDate>
+            <pubDate>Mon, 26 Apr 2021 06:28:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in India: Patients struggle at home as hospitals choke]]></title>
@@ -44,13 +58,6 @@
             <pubDate>Mon, 26 Apr 2021 04:21:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ex-Post Office boss quits board role after IT scandal]]></title>
-            <description><![CDATA[Paula Vennells to step down from Dunelm days after 39 postmasters saw their convictions quashed.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56882496</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56882496</guid>
-            <pubDate>Sun, 25 Apr 2021 22:50:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Space junk map tracks 200 ‘ticking time bombs’]]></title>
             <description><![CDATA[Large defunct rocket bodies have the potential to break into thousands of pieces, threatening functioning satellites that provide vital services like GPS.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-56845104</link>
@@ -58,11 +65,11 @@
             <pubDate>Sun, 25 Apr 2021 23:09:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shops, pubs and pools reopen in Scotland]]></title>
-            <description><![CDATA[Travel restrictions are also eased, allowing people to travel between Scotland and other parts of the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-56878753</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-56878753</guid>
-            <pubDate>Sun, 25 Apr 2021 23:21:42 GMT</pubDate>
+            <title><![CDATA[Covid-19: Vaccine rollout in England extends to 44-year-olds]]></title>
+            <description><![CDATA[The NHS plans to set out when 40 to 43-year-olds will be invited for the jab "in the coming days".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56880376</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56880376</guid>
+            <pubDate>Sun, 25 Apr 2021 23:01:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Countries send aid to ease India's oxygen emergency]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-56882495</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56882495</guid>
             <pubDate>Mon, 26 Apr 2021 01:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkmenistan celebrates new holiday to honour native dog breed]]></title>
-            <description><![CDATA[The president leads celebrations of the Alabay shepherd dog - a symbol of national cultural pride.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56882558</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56882558</guid>
-            <pubDate>Mon, 26 Apr 2021 01:20:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'PM under pressure' and 'India at breaking point']]></title>
@@ -198,11 +198,11 @@
             <pubDate>Fri, 16 Apr 2021 14:50:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[St Johnstone knock Rangers out of Scottish Cup on penalties]]></title>
-            <description><![CDATA[Zander Clark is St Johnstone's hero as he saves two spot-kicks as the Perth side knock Rangers out of the Scottish Cup on penalties at Ibrox.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56789585</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56789585</guid>
-            <pubDate>Sun, 25 Apr 2021 20:33:33 GMT</pubDate>
+            <title><![CDATA[IPL: Ravichandran Ashwin, Adam Zampa, Kane Richardson & Andrew Tye leave amid Covid-19 concerns]]></title>
+            <description><![CDATA[Australians Adam Zampa, Kane Richardson and Andrew Tye return home from the IPL as India's Ravichandran Ashwin takes a break to support his family.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/56884815</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56884815</guid>
+            <pubDate>Mon, 26 Apr 2021 06:32:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Spurs face 'huge summer' after 'disastrous few months' – Jenas on what next for Tottenham]]></title>
@@ -210,6 +210,13 @@
             <link>https://www.bbc.co.uk/sport/football/56881662</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56881662</guid>
             <pubDate>Sun, 25 Apr 2021 22:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[St Johnstone knock Rangers out of Scottish Cup on penalties]]></title>
+            <description><![CDATA[Zander Clark is St Johnstone's hero as he saves two spot-kicks as the Perth side knock Rangers out of the Scottish Cup on penalties at Ibrox.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56789585</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56789585</guid>
+            <pubDate>Sun, 25 Apr 2021 20:33:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aston Villa 2-2 West Bromwich Albion: Keinan Davis scores 92nd minute equaliser]]></title>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/snooker/56875195</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56875195</guid>
             <pubDate>Sun, 25 Apr 2021 21:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British teenager Gadirova caps brilliant week with European floor gold]]></title>
-            <description><![CDATA[Teenager Jessica Gadirova caps a brilliant week at the European Gymnastics Championships with gold in the floor event.]]></description>
-            <link>https://www.bbc.co.uk/sport/gymnastics/56880753</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/gymnastics/56880753</guid>
-            <pubDate>Sun, 25 Apr 2021 14:58:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What is the rule of six and what are the social distancing rules?]]></title>
