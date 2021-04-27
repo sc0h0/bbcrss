@@ -1,7 +1,7 @@
 1. [Cabinet to meet as pressure builds on Boris Johnson amid leaks](https://www.bbc.co.uk/news/uk-politics-56897213) - The PM will host a cabinet meeting later, after a series of claims about his comments and conduct.
 2. [Lockdowns hurt child speech and language skills - report](https://www.bbc.co.uk/news/education-56889035) - Delays to speech and language skills are a top concern for primary schools, researchers say.
 3. [Lockdown fines: Fixed penalty notices should all be reviewed - MPs](https://www.bbc.co.uk/news/uk-56890540) - Many of the 93,000 fixed penalties issued in England and Wales were discriminatory or unfair, MPs argue.
-4. [India Covid: First UK aid arrives as coronavirus surge continues](https://www.bbc.co.uk/news/world-asia-india-56898654) - Oxygen equipment lands in Delhi but far more is needed to tackle a devastating Covid wave nationwide.
+4. [India Covid: First UK aid arrives as coronavirus deaths mount](https://www.bbc.co.uk/news/world-asia-india-56898654) - Oxygen equipment lands in Delhi but far more is needed to tackle a devastating Covid wave nationwide.
 5. [US police mock dementia sufferer during arrest](https://www.bbc.co.uk/news/world-us-canada-56897186) - The Colorado officers are seen reviewing a clip where the 73-year-old's shoulder goes "pop".
 6. [Covid-19: Pressure mounts on Johnson and MPs demand lockdown fines review](https://www.bbc.co.uk/news/uk-56896666) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
 7. [Glasgow student is youngest Mastermind champion at 24](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56891136) - Jonathan Gibson from Glasgow won the final of the long-running BBC quiz show by four points.
@@ -9,7 +9,7 @@
 9. [Coronavirus: Portugal records no daily deaths for first time since August](https://www.bbc.co.uk/news/world-europe-56891330) - The last time the country recorded no coronavirus-related deaths in a 24-hour period was in August.
 10. [Bafta TV Awards: Diversity's BGT routine up for must-see moment award](https://www.bbc.co.uk/news/entertainment-arts-56893236) - The controversial routine is among the nominees for Bafta's must-see TV moment of the last year.
 11. [Miscarriage rates 'over 40% higher' in black women](https://www.bbc.co.uk/news/health-56889861) - Everyone who has even one miscarriage should be offered tailored help and support, experts say.
-12. [Gavin Newsom: California's governor faces recall election](https://www.bbc.co.uk/news/world-us-canada-56897184) - Gavin Newsom was up for re-election in 2022, but will now probably face a vote this autumn.
+12. [Whitbread: Premier Inn owner braces for strong 'staycation' demand](https://www.bbc.co.uk/news/business-56898843) - Whitbread, which also owns Beefeater, expects a summer bounce as Covid restrictions ease on 17 May.
 13. [Crawley College: Man, 18, arrested after gunshots reported](https://www.bbc.co.uk/news/uk-england-sussex-56892589) - Sussex Police is liaising with counter-terror officers over reports of gunshots at Crawley College.
 14. [The Papers: 'Boris on ropes' and new 'let Covid rip' claim](https://www.bbc.co.uk/news/blogs-the-papers-56896604) - Tuesday's papers report controversy around the prime minister over comments allegedly made last year.
 15. [Covid-19 in India: Visual guide to the crisis](https://www.bbc.co.uk/news/world-asia-india-56891016) - Maps, charts and graphics explaining what is happening and what the authorities are doing about it.
