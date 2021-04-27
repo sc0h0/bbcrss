@@ -5,7 +5,7 @@
 5. [Queen pictured resuming public duties after duke's death](https://www.bbc.co.uk/news/uk-56903877) - The monarch is seen carrying out virtual audiences for the first time since Prince Philip's death.
 6. [Covid-19: Vaccine offered to 42-year-olds and Delhi deaths climb](https://www.bbc.co.uk/news/uk-56903629) - Five things you need to know about the coronavirus pandemic this Tuesday evening.
 7. [Covid-19: Vaccine offered to 42-year-olds in England](https://www.bbc.co.uk/news/uk-56899901) - Those who are due to turn 42 by 1 July can also book their jabs on the NHS website.
-8. [Brexit: Tensions overshadow EU vote on UK trade deal](https://www.bbc.co.uk/news/world-europe-56899831) - Euro MPs are set to back the EU-UK trade deal despite rows over fishing and Northern Ireland.
+8. [Domestic Abuse Bill to become law after stalker register plan defeated](https://www.bbc.co.uk/news/uk-politics-56905883) - The bill was passed in the House of Lords after peers withdrew calls for stalkers to be put on a register.
 9. [High Court to look at PM's Patel 'bullying' decision](https://www.bbc.co.uk/news/uk-politics-56901333) - Boris Johnson kept the home secretary in post, saying she had not broken Whitehall's rules.
 10. [Vax Live: Harry and Meghan to join Covid vaccine concert](https://www.bbc.co.uk/news/world-us-canada-56908144) - The Duke and Duchess of Sussex have been announced as campaign chairs of the star-studded event.
 11. [UK weather: April set to be frostiest in UK for 60 years](https://www.bbc.co.uk/news/uk-56903882) - This month saw 13 days of air frosts in the UK, compared with the previous record of 11 in April 1970.
