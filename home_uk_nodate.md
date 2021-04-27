@@ -1,10 +1,10 @@
-1. [Cabinet to meet as pressure builds on Boris Johnson amid leaks](https://www.bbc.co.uk/news/uk-politics-56897213) - The PM will host a cabinet meeting later, after a series of claims about his comments and conduct.
+1. [Cabinet meets as pressure builds on Boris Johnson amid leaks](https://www.bbc.co.uk/news/uk-politics-56897213) - The PM has hosted a cabinet meeting after a series of claims about his comments and conduct.
 2. [Covid-19: Vaccine offered to 42-year-olds in England](https://www.bbc.co.uk/news/uk-56899901) - Those who are due to turn 42 by 1 July can also book their jabs on the NHS website.
-3. [Lockdown fines: Fixed penalty notices should all be reviewed - MPs](https://www.bbc.co.uk/news/uk-56890540) - Many of the 93,000 fixed penalties issued in England and Wales were discriminatory or unfair, MPs argue.
-4. [India Covid: First UK aid arrives as coronavirus deaths mount](https://www.bbc.co.uk/news/world-asia-india-56898654) - Oxygen equipment lands in Delhi but far more is needed to tackle a devastating Covid wave.
+3. [India Covid: First UK aid arrives as coronavirus deaths mount](https://www.bbc.co.uk/news/world-asia-india-56898654) - Oxygen equipment lands in Delhi but far more is needed to tackle a devastating Covid wave.
+4. [Nazanin Zaghari-Ratcliffe's daughter not yet told mum faces prison again](https://www.bbc.co.uk/news/uk-56900912) - Nazanin Zaghari-Ratcliffe’s husband wants to protect their girl from the "ups and downs” of the case.
 5. [Glasgow student is youngest Mastermind champion at 24](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56891136) - Jonathan Gibson from Glasgow won the final of the long-running BBC quiz show by four points.
 6. [Meth lab found in raid near Redditch](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-56901616) - The large-scale operation was found by police, firefighters and a chemicals expert.
-7. [Nazanin Zaghari-Ratcliffe's daughter not yet told mum faces prison again](https://www.bbc.co.uk/news/uk-56900912) - Nazanin Zaghari-Ratcliffe’s husband wants to protect their girl from the "ups and downs” of the case.
+7. [Lockdown fines: Fixed penalty notices should all be reviewed - MPs](https://www.bbc.co.uk/news/uk-56890540) - Many of the 93,000 fixed penalties issued in England and Wales were discriminatory or unfair, MPs argue.
 8. [Lockdowns hurt child speech and language skills - report](https://www.bbc.co.uk/news/education-56889035) - Delays to speech and language skills are a top concern for primary schools, researchers say.
 9. [Miscarriage rates over 40% higher in black women, study suggests](https://www.bbc.co.uk/news/health-56889861) - Everyone who has even one miscarriage should be offered tailored help and support, experts say.
 10. [French warn UK ahead of vote on Brexit trade deal](https://www.bbc.co.uk/news/world-europe-56899831) - French concern over fishing rights overshadows a key European Parliament vote on EU-UK trade.
