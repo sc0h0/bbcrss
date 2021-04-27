@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Apr 2021 09:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 09:51:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Tue, 27 Apr 2021 08:57:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Pressure mounts on Johnson and MPs demand lockdown fines review]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56896666</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56896666</guid>
-            <pubDate>Tue, 27 Apr 2021 06:45:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US police mock dementia sufferer during arrest]]></title>
             <description><![CDATA[The Colorado officers are seen reviewing a clip where the 73-year-old's shoulder goes "pop".]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56897186</link>
@@ -70,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56891136</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56891136</guid>
             <pubDate>Tue, 27 Apr 2021 07:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French warn UK ahead of vote on Brexit trade deal]]></title>
+            <description><![CDATA[French concern over fishing rights overshadows a key European Parliament vote on EU-UK trade.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56899831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56899831</guid>
+            <pubDate>Tue, 27 Apr 2021 09:21:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AstraZeneca: US to share up to 60m vaccine doses]]></title>
@@ -230,7 +230,7 @@
             <description><![CDATA[Julian Nagelsmann will leave RB Leipzig to become Bayern Munich boss at the end of the season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56889600</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56889600</guid>
-            <pubDate>Tue, 27 Apr 2021 09:18:55 GMT</pubDate>
+            <pubDate>Tue, 27 Apr 2021 09:40:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kelechi Iheanacho: How has Leicester City striker become so prolific?]]></title>
@@ -254,11 +254,25 @@
             <pubDate>Tue, 27 Apr 2021 05:27:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Match of the Day Top 10: Micah Richards reveals another Mario Balotelli fireworks story]]></title>
+            <description><![CDATA[Micah Richards tells Gary Lineker and Alan Shearer about another incident involving Mario Balotelli and fireworks during his time at Manchester City in Match of the Day Top 10.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56868212</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56868212</guid>
+            <pubDate>Tue, 27 Apr 2021 05:15:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Restaurants and pubs are reopening, but what are the rules?]]></title>
             <description><![CDATA[Pubs, cafes and restaurants are now allowed to reopen indoors and outdoors in Scotland - and outdoors in Wales.]]></description>
             <link>https://www.bbc.co.uk/news/business-52977388</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
             <pubDate>Mon, 26 Apr 2021 14:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
+            <description><![CDATA[A new traffic light system will rank foreign countries by Covid risk, as the rules on UK holidays also ease.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
+            <pubDate>Tue, 27 Apr 2021 08:33:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Have lockdowns affected my child's physical and mental health?]]></title>
@@ -315,13 +329,6 @@
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Mon, 26 Apr 2021 16:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
-            <description><![CDATA[A new traffic light system will rank foreign countries by Covid risk, as the rules on UK holidays also ease.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
-            <pubDate>Tue, 27 Apr 2021 08:33:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which areas are being mass tested for variants?]]></title>
