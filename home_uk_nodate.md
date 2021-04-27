@@ -1,8 +1,8 @@
 1. [Cabinet to meet as pressure builds on Boris Johnson amid leaks](https://www.bbc.co.uk/news/uk-politics-56897213) - The PM will host a cabinet meeting later, after a series of claims about his comments and conduct.
 2. [Lockdowns hurt child speech and language skills - report](https://www.bbc.co.uk/news/education-56889035) - Delays to speech and language skills are a top concern for primary schools, researchers say.
 3. [Lockdown fines: Fixed penalty notices should all be reviewed - MPs](https://www.bbc.co.uk/news/uk-56890540) - Many of the 93,000 fixed penalties issued in England and Wales were discriminatory or unfair, MPs argue.
-4. [India Covid: First UK aid arrives as coronavirus deaths mount](https://www.bbc.co.uk/news/world-asia-india-56898654) - Oxygen equipment lands in Delhi but far more is needed to tackle a devastating Covid wave.
-5. [Covid-19: Vaccine offered to 42-year-olds in England](https://www.bbc.co.uk/news/uk-56899901) - Those who are due to turn 42 by 1 July can also book their jabs on the NHS website.
+4. [Covid-19: Vaccine offered to 42-year-olds in England](https://www.bbc.co.uk/news/uk-56899901) - Those who are due to turn 42 by 1 July can also book their jabs on the NHS website.
+5. [India Covid: First UK aid arrives as coronavirus deaths mount](https://www.bbc.co.uk/news/world-asia-india-56898654) - Oxygen equipment lands in Delhi but far more is needed to tackle a devastating Covid wave.
 6. [Covid-19: Pressure mounts on Johnson and MPs demand lockdown fines review](https://www.bbc.co.uk/news/uk-56896666) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
 7. [US police mock dementia sufferer during arrest](https://www.bbc.co.uk/news/world-us-canada-56897186) - The Colorado officers are seen reviewing a clip where the 73-year-old's shoulder goes "pop".
 8. [Glasgow student is youngest Mastermind champion at 24](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56891136) - Jonathan Gibson from Glasgow won the final of the long-running BBC quiz show by four points.
@@ -36,7 +36,7 @@
 36. [Have lockdowns affected my child's physical and mental health?](https://www.bbc.co.uk/news/explainers-55936928) - Should parents of under-fives worry about Covid restrictions harming their child's development?
 37. [Covid: What is the rule of six and what are the social distancing rules?](https://www.bbc.co.uk/news/uk-51506729) - Lockdown rules have been eased further across the UK - more people can meet up outside.
 38. [Lateral-flow tests: What are the risks and benefits?](https://www.bbc.co.uk/news/56675624) - What are the risks and benefits from using wide-scale lateral-flow tests?
-39. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 42 or over in England are now being offered a Covid vaccine.
+39. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 42 or over in England are now being offered a Covid vaccine as the rollout continues.
 40. [Rare blood clots - what you need to know](https://www.bbc.co.uk/news/health-56674796) - We take a look at why these unusual clots happen and when they occur.
 41. [India Covid: Patients dying without oxygen amid Delhi surge](https://www.bbc.co.uk/news/56876695) - Delhi hospitals run out of beds and oxygen as families struggle to save their loved ones.
 42. [Coronavirus: What's the risk on transport?](https://www.bbc.co.uk/news/health-51736185) - As UK coronavirus restrictions continue to be relaxed, public transport could become much busier.
