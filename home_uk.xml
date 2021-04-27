@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Apr 2021 02:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 02:58:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,13 +65,6 @@
             <pubDate>Mon, 26 Apr 2021 18:51:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Charlotte Crosby: Channel 5 pulls 'immoral' plastic surgery documentary]]></title>
-            <description><![CDATA[The channel apologises amid criticism of comments made on Celebrities: What Happened to Your Face?]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56888856</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56888856</guid>
-            <pubDate>Mon, 26 Apr 2021 15:53:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coronavirus: EU sues AstraZeneca over vaccine delivery delays]]></title>
             <description><![CDATA[The pharmaceutical giant says the legal action is "without merit" and vows to defend itself.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56891326</link>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-56891330</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56891330</guid>
             <pubDate>Mon, 26 Apr 2021 21:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miscarriage rates 'over 40% higher' in black women]]></title>
+            <description><![CDATA[Everyone who has even one miscarriage should be offered tailored help and support, experts say.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56889861</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56889861</guid>
+            <pubDate>Tue, 27 Apr 2021 00:17:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Summer holiday demand shifts to autumn amid travel uncertainty]]></title>
@@ -114,11 +114,32 @@
             <pubDate>Mon, 26 Apr 2021 23:00:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19 in India: Visual guide to the crisis]]></title>
+            <description><![CDATA[Maps, charts and graphics explaining what is happening and what the authorities are doing about it.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56891016</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56891016</guid>
+            <pubDate>Mon, 26 Apr 2021 23:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK's first hijabi firefighter: ‘Firefighters don’t look like me’]]></title>
+            <description><![CDATA[Uroosa Arshid says she hopes other young Muslim women may feel inspired to follow in her footsteps.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-56846739</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-56846739</guid>
+            <pubDate>Mon, 26 Apr 2021 23:07:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kanye West's Yeezy trainers sell for record $1.8m]]></title>
             <description><![CDATA[The musician's prototype trainers are the first to fetch more than $1m at auction.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56890758</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56890758</guid>
             <pubDate>Mon, 26 Apr 2021 16:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recovering from lockdown: Five tips to boost your child's vocabulary]]></title>
+            <description><![CDATA[Research shows the lockdown has had an impact on young children's language skills. How can parents help?]]></description>
+            <link>https://www.bbc.co.uk/news/education-56765177</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56765177</guid>
+            <pubDate>Tue, 27 Apr 2021 02:08:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Firefighter who became defining image of mountain gorse fire]]></title>
@@ -135,67 +156,18 @@
             <pubDate>Mon, 26 Apr 2021 20:34:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[British Oscar winners celebrate with parties and sausage rolls]]></title>
-            <description><![CDATA[Sir Anthony Hopkins, Andrew Jackson and Martin Desmond Roe all enjoyed Oscars success.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56886227</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56886227</guid>
-            <pubDate>Mon, 26 Apr 2021 11:45:34 GMT</pubDate>
+            <title><![CDATA[Nigeria: The community that trades by barter instead of money]]></title>
+            <description><![CDATA[This Nigerian community still practices trade by barter, where goods are exchanged instead of money.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56892765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56892765</guid>
+            <pubDate>Mon, 26 Apr 2021 23:09:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Siberian tiger roams around Chinese village]]></title>
-            <description><![CDATA[A rare Siberian tiger strayed into the village of Linhu in Heilongjiang province, China.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-56893327</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56893327</guid>
-            <pubDate>Mon, 26 Apr 2021 16:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Argentina's domain name bought by man for £2]]></title>
-            <description><![CDATA[The web designer said he did not think it was possible, but Google regained control of it very quickly.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56870270</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56870270</guid>
-            <pubDate>Mon, 26 Apr 2021 10:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abrdn: Standard Life Aberdeen vowel-less rebrand mocked]]></title>
-            <description><![CDATA[The firm says the change will make its brand more "dynamic", but some social media users do not agree.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56888611</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56888611</guid>
-            <pubDate>Mon, 26 Apr 2021 11:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man living alone on Italian island to leave after 32 years]]></title>
-            <description><![CDATA[Mauro Morandi, 81, moved to Budelli in 1989 but has faced pressure from the island's owners to leave.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56885716</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56885716</guid>
-            <pubDate>Mon, 26 Apr 2021 10:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syrian refugee faces bankruptcy over cladding on UK flat]]></title>
-            <description><![CDATA[Bassel lost his flat in the war in Syria and is now at risk of losing everything again, as a victim of flammable cladding.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56778869</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56778869</guid>
-            <pubDate>Sun, 25 Apr 2021 23:01:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We do like a rave!' Inside the UK's last lesbian bars]]></title>
-            <description><![CDATA[There are only a few fixed lesbian venues left in the UK, and they are having to adapt to keep going.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56866034</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56866034</guid>
-            <pubDate>Sun, 25 Apr 2021 23:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Space junk map tracks 200 ‘ticking time bombs’]]></title>
-            <description><![CDATA[Large defunct rocket bodies have the potential to break into thousands of pieces, threatening functioning satellites that provide vital services like GPS.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-56845104</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56845104</guid>
-            <pubDate>Sun, 25 Apr 2021 23:09:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chernobyl nuclear disaster: ‘Three-day evacuation lasted 35 years’]]></title>
-            <description><![CDATA[Lyudmila Honchar was four when she had to leave her home in Pripyat, Ukraine after the Chernobyl nuclear disaster. Now she's going home.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56864709</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56864709</guid>
-            <pubDate>Sun, 25 Apr 2021 23:06:35 GMT</pubDate>
+            <title><![CDATA[Charlotte Crosby: Channel 5 pulls 'immoral' plastic surgery documentary]]></title>
+            <description><![CDATA[The channel apologises amid criticism of comments made on Celebrities: What Happened to Your Face?]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56888856</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56888856</guid>
+            <pubDate>Mon, 26 Apr 2021 15:53:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India Covid: The messages deciding between life and death]]></title>
@@ -240,13 +212,6 @@
             <pubDate>Mon, 26 Apr 2021 23:07:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oscars 2021: Audiences turn away as a sluggish ceremony leaves critics cold]]></title>
-            <description><![CDATA[Fewer than 10 million people watched the 2021 Oscars, which critics described as a "trainwreck"]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56885646</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56885646</guid>
-            <pubDate>Mon, 26 Apr 2021 18:47:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Five questions for the PM and why the answers matter]]></title>
             <description><![CDATA[Boris Johnson is under scrutiny over allegations which concern standards in public life.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56888304</link>
@@ -254,67 +219,11 @@
             <pubDate>Mon, 26 Apr 2021 17:28:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook v Apple: The ad tracking row heats up]]></title>
-            <description><![CDATA[Why is there a dispute between the two tech giants and does it affect you?]]></description>
-            <link>https://www.bbc.co.uk/news/technology-56831241</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56831241</guid>
-            <pubDate>Sun, 25 Apr 2021 23:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oscars 2021: 13 major red carpet looks from the Academy Awards]]></title>
-            <description><![CDATA[All the suits, sparkles and sequins from Sunday night's Academy Awards.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56864780</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56864780</guid>
-            <pubDate>Mon, 26 Apr 2021 06:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The salmon you buy in the future may be farmed on land]]></title>
-            <description><![CDATA[A giant fish farm in Florida is rearing salmon for the US market in a huge indoor facility.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56829129</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56829129</guid>
-            <pubDate>Sun, 25 Apr 2021 23:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Western brands recover from consumer backlash in China?]]></title>
-            <description><![CDATA[Some foreign companies are facing a boycott in China - they are not the first and won't be the last.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56598884</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56598884</guid>
-            <pubDate>Sun, 25 Apr 2021 04:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Downing Street refurbishment: What is the row over Boris Johnson's flat?]]></title>
-            <description><![CDATA[Boris Johnson is facing questions over how expensive works on his Downing Street flat were paid for.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56878663</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56878663</guid>
-            <pubDate>Mon, 26 Apr 2021 14:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Voice: Grace Holden tells of opening up about her grief]]></title>
-            <description><![CDATA[Grace Holden found talking about her mum's death hard - until she opened up about it on The Voice.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-56608101</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-56608101</guid>
-            <pubDate>Sat, 24 Apr 2021 23:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chloe Zhao, from 'outsider' to Hollywood history-maker]]></title>
-            <description><![CDATA[Chinese-born, British-educated, US-based Zhao is the first woman of colour to win best director.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56828748</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56828748</guid>
-            <pubDate>Mon, 26 Apr 2021 02:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I will not return to work': Myanmar coup cripples healthcare system]]></title>
-            <description><![CDATA[Myanmar's medical workers are finding themselves torn between their patients and a military government.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56827116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56827116</guid>
-            <pubDate>Sun, 25 Apr 2021 23:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2021 elections: A simple guide to the Scottish, Welsh and local elections]]></title>
-            <description><![CDATA[A bumper crop of elections are being held on 6 May across England, Scotland and Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56286643</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56286643</guid>
-            <pubDate>Fri, 16 Apr 2021 14:50:31 GMT</pubDate>
+            <title><![CDATA[Oscars 2021: Audiences turn away as a sluggish ceremony leaves critics cold]]></title>
+            <description><![CDATA[Fewer than 10 million people watched the 2021 Oscars, which critics described as a "trainwreck"]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56885646</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56885646</guid>
+            <pubDate>Mon, 26 Apr 2021 18:47:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stylish Selby sees off Allen at World Championship]]></title>
