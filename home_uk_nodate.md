@@ -4,11 +4,11 @@
 4. [Tate Modern attack: Jonty Bravery had history of violence, report finds](https://www.bbc.co.uk/news/uk-england-london-56881724) - Jonty Bravery threw a six-year-old boy from a 10th floor viewing platform at London's Tate Modern.
 5. [Queen pictured resuming public duties after duke's death](https://www.bbc.co.uk/news/uk-56903877) - The monarch is seen carrying out virtual audiences for the first time since Prince Philip's death.
 6. [Nazanin Zaghari-Ratcliffe's daughter not yet told mum faces prison again](https://www.bbc.co.uk/news/uk-56900912) - Nazanin Zaghari-Ratcliffe’s husband wants to protect their girl from the "ups and downs” of the case.
-7. [Amphetamine lab found in raid near Redditch](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-56901616) - The large-scale operation was found by police, firefighters and a chemicals expert.
+7. [Arlene Foster: Letter of no confidence sent to DUP MLAs](https://www.bbc.co.uk/news/uk-northern-ireland-56902771) - DUP members of the Northern Ireland Assembly are being asked to sign a letter of no confidence in Arlene Foster.
 8. [French warn UK ahead of vote on Brexit trade deal](https://www.bbc.co.uk/news/world-europe-56899831) - French concern over fishing rights overshadows a key European Parliament vote on EU-UK trade.
 9. [High Court to look at PM's Patel 'bullying' decision](https://www.bbc.co.uk/news/uk-politics-56901333) - Boris Johnson kept the home secretary in post, saying she had not broken Whitehall's rules.
-10. [Crawley College: 'Heroic' staff tackled armed suspect](https://www.bbc.co.uk/news/uk-england-sussex-56898742) - A "quick-thinking" teacher and support worker detained a suspect at Crawley College, police say.
-11. [City of London to convert offices into homes in post-Covid revamp](https://www.bbc.co.uk/news/business-56888615) - The City of London Corporation set out plans on Tuesday to create 1,500 new residential units by 2030.
+10. [City of London to convert offices into homes in post-Covid revamp](https://www.bbc.co.uk/news/business-56888615) - The City of London Corporation set out plans on Tuesday to create 1,500 new residential units by 2030.
+11. [Youngest Mastermind winner: 'It feels like a dream'](https://www.bbc.co.uk/news/uk-56900431) - Jonathan Gibson won the competition by four points and got a perfect score in his specialist subject.
 12. [Crocs sales soar in fashion comeback](https://www.bbc.co.uk/news/business-56901386) - The divisive footwear company's sales reached a record $460m in its first quarter.
 13. [Pink Supermoon seen around the world](https://www.bbc.co.uk/news/in-pictures-56900164) - Stargazers were treated to the fourth full Moon of 2021 on Monday night.
 14. [NHS heroes to feature in Royal Society of Portrait Painters exhibition](https://www.bbc.co.uk/news/entertainment-arts-56900644) - Images of medical staff on the frontline of the Covid-19 battle will be a highlight of the show.
