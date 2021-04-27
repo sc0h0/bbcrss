@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Apr 2021 08:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 08:50:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Tue, 27 Apr 2021 07:22:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Vaccine offered to 42-year-olds in England]]></title>
+            <description><![CDATA[Those who are due to turn 42 by 1 July can also book their jabs on the NHS website.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56899901</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56899901</guid>
+            <pubDate>Tue, 27 Apr 2021 08:36:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Pressure mounts on Johnson and MPs demand lockdown fines review]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56896666</link>
@@ -72,32 +79,25 @@
             <pubDate>Mon, 26 Apr 2021 21:26:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: Portugal records no daily deaths for first time since August]]></title>
-            <description><![CDATA[The last time the country recorded no coronavirus-related deaths in a 24-hour period was in August.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56891330</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56891330</guid>
-            <pubDate>Mon, 26 Apr 2021 21:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whitbread: Premier Inn owner braces for strong 'staycation' demand]]></title>
+            <title><![CDATA[Whitbread: Premier Inn owner braces for UK holiday boom]]></title>
             <description><![CDATA[Whitbread, which also owns Beefeater, expects a summer bounce as Covid restrictions ease on 17 May.]]></description>
             <link>https://www.bbc.co.uk/news/business-56898843</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56898843</guid>
-            <pubDate>Tue, 27 Apr 2021 07:46:40 GMT</pubDate>
+            <pubDate>Tue, 27 Apr 2021 08:45:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Miscarriage rates 'over 40% higher' in black women]]></title>
+            <title><![CDATA[Miscarriage rates over 40% higher in black women, study suggests]]></title>
             <description><![CDATA[Everyone who has even one miscarriage should be offered tailored help and support, experts say.]]></description>
             <link>https://www.bbc.co.uk/news/health-56889861</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56889861</guid>
             <pubDate>Tue, 27 Apr 2021 00:17:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Crawley College: Man, 18, arrested after gunshots reported]]></title>
-            <description><![CDATA[Sussex Police is liaising with counter-terror officers over reports of gunshots at Crawley College.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-56892589</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-56892589</guid>
-            <pubDate>Mon, 26 Apr 2021 21:09:52 GMT</pubDate>
+            <title><![CDATA[Book sales surge in 2020 as UK rediscovers love of reading]]></title>
+            <description><![CDATA[Sales of fiction, non-fiction and audio books all jumped last year, the industry body says.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56893246</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56893246</guid>
+            <pubDate>Mon, 26 Apr 2021 23:02:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Boris on ropes' and new 'let Covid rip' claim]]></title>
@@ -268,6 +268,13 @@
             <pubDate>Mon, 26 Apr 2021 14:39:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Have lockdowns affected my child's physical and mental health?]]></title>
+            <description><![CDATA[Should parents of under-fives worry about Covid restrictions harming their child's development?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55936928</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55936928</guid>
+            <pubDate>Fri, 12 Feb 2021 13:01:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: What is the rule of six and what are the social distancing rules?]]></title>
             <description><![CDATA[Lockdown rules have been eased further across the UK - more people can meet up outside.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51506729</link>
@@ -318,10 +325,10 @@
         </item>
         <item>
             <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
-            <description><![CDATA[A traffic light system ranking foreign countries by coronavirus risk is to be introduced - the rules on UK holidays are also easing.]]></description>
+            <description><![CDATA[A new traffic light system will rank foreign countries by Covid risk, as the rules on UK holidays also ease.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52646738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
-            <pubDate>Tue, 20 Apr 2021 16:08:26 GMT</pubDate>
+            <pubDate>Tue, 27 Apr 2021 08:33:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which areas are being mass tested for variants?]]></title>
@@ -349,7 +356,7 @@
             <description><![CDATA[Key maps and charts explaining how the virus has spread around the world.]]></description>
             <link>https://www.bbc.co.uk/news/world-51235105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
-            <pubDate>Fri, 23 Apr 2021 11:18:34 GMT</pubDate>
+            <pubDate>Tue, 27 Apr 2021 08:40:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A nightmare on repeat - India is running out of oxygen again]]></title>
