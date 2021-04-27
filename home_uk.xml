@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Apr 2021 07:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 07:53:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Tue, 27 Apr 2021 07:22:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US police mock dementia sufferer during arrest]]></title>
-            <description><![CDATA[The Colorado officers are seen reviewing a clip where the 73-year-old's shoulder goes "pop".]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56897186</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56897186</guid>
-            <pubDate>Tue, 27 Apr 2021 03:18:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Pressure mounts on Johnson and MPs demand lockdown fines review]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56896666</link>
@@ -58,11 +51,18 @@
             <pubDate>Tue, 27 Apr 2021 06:45:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US police mock dementia sufferer during arrest]]></title>
+            <description><![CDATA[The Colorado officers are seen reviewing a clip where the 73-year-old's shoulder goes "pop".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56897186</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56897186</guid>
+            <pubDate>Tue, 27 Apr 2021 03:18:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Glasgow student is youngest Mastermind champion at 24]]></title>
             <description><![CDATA[Jonathan Gibson from Glasgow won the final of the long-running BBC quiz show by four points.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56891136</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56891136</guid>
-            <pubDate>Mon, 26 Apr 2021 21:46:45 GMT</pubDate>
+            <pubDate>Tue, 27 Apr 2021 07:46:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AstraZeneca: US to share up to 60m vaccine doses]]></title>
@@ -79,11 +79,11 @@
             <pubDate>Mon, 26 Apr 2021 21:04:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bafta TV Awards: Diversity's BGT routine up for must-see moment award]]></title>
-            <description><![CDATA[The controversial routine is among the nominees for Bafta's must-see TV moment of the last year.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56893236</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56893236</guid>
-            <pubDate>Tue, 27 Apr 2021 03:13:39 GMT</pubDate>
+            <title><![CDATA[Whitbread: Premier Inn owner braces for strong 'staycation' demand]]></title>
+            <description><![CDATA[Whitbread, which also owns Beefeater, expects a summer bounce as Covid restrictions ease on 17 May.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56898843</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56898843</guid>
+            <pubDate>Tue, 27 Apr 2021 07:46:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miscarriage rates 'over 40% higher' in black women]]></title>
@@ -91,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/health-56889861</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56889861</guid>
             <pubDate>Tue, 27 Apr 2021 00:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whitbread: Premier Inn owner braces for strong 'staycation' demand]]></title>
-            <description><![CDATA[Whitbread, which also owns Beefeater, expects a summer bounce as Covid restrictions ease on 17 May.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56898843</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56898843</guid>
-            <pubDate>Tue, 27 Apr 2021 07:04:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Crawley College: Man, 18, arrested after gunshots reported]]></title>
@@ -126,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-56846739</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-56846739</guid>
             <pubDate>Mon, 26 Apr 2021 23:07:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bafta TV Awards: Diversity's BGT routine up for must-see moment award]]></title>
+            <description><![CDATA[The controversial routine is among the nominees for Bafta's must-see TV moment of the last year.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56893236</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56893236</guid>
+            <pubDate>Tue, 27 Apr 2021 03:13:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kanye West's Yeezy trainers sell for record $1.8m]]></title>
