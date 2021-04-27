@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Apr 2021 22:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 22:40:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 27 Apr 2021 21:59:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tate Modern attack: Jonty Bravery had history of violence, report finds]]></title>
-            <description><![CDATA[Jonty Bravery threw a six-year-old boy from a 10th floor viewing platform at London's Tate Modern.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56881724</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56881724</guid>
-            <pubDate>Tue, 27 Apr 2021 17:57:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[India Covid: Delhi builds makeshift funeral pyres as deaths climb]]></title>
             <description><![CDATA[India's capital struggles to find space to cremate its dead during the second wave of the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56897970</link>
@@ -44,11 +37,25 @@
             <pubDate>Tue, 27 Apr 2021 16:13:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tate Modern attack: Jonty Bravery had history of violence, report finds]]></title>
+            <description><![CDATA[Jonty Bravery threw a six-year-old boy from a 10th floor viewing platform at London's Tate Modern.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56881724</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56881724</guid>
+            <pubDate>Tue, 27 Apr 2021 17:57:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Queen pictured resuming public duties after duke's death]]></title>
             <description><![CDATA[The monarch is seen carrying out virtual audiences for the first time since Prince Philip's death.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56903877</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56903877</guid>
             <pubDate>Tue, 27 Apr 2021 13:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK weather: April set to be frostiest in UK for 60 years]]></title>
+            <description><![CDATA[This month saw 13 days of air frosts in the UK, compared with the previous record of 11 in April 1970.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56903882</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56903882</guid>
+            <pubDate>Tue, 27 Apr 2021 17:11:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Vaccine offered to 42-year-olds in England]]></title>
@@ -86,25 +93,18 @@
             <pubDate>Tue, 27 Apr 2021 21:49:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[EastEnders actress Lacey Turner calls for better miscarriage support]]></title>
+            <description><![CDATA[Lacey Turner has has two miscarriages and believes the current system needs reforming.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56904891</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56904891</guid>
+            <pubDate>Tue, 27 Apr 2021 13:37:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Grenfell: Government defeated on fire safety costs bill]]></title>
             <description><![CDATA[The House of Lords vote to shield residents from the cost of fire prevention measures.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56905882</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56905882</guid>
             <pubDate>Tue, 27 Apr 2021 21:23:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Champions League semi-final: Karim Benzema earns Real Madrid draw against Chelsea]]></title>
-            <description><![CDATA[Chelsea produce a composed performance to secure a draw and put themselves in a promising position after their Champions League semi-final first leg against Real Madrid.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56880436</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56880436</guid>
-            <pubDate>Tue, 27 Apr 2021 21:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK weather: April set to be frostiest in UK for 60 years]]></title>
-            <description><![CDATA[This month saw 13 days of air frosts in the UK, compared with the previous record of 11 in April 1970.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56903882</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56903882</guid>
-            <pubDate>Tue, 27 Apr 2021 17:11:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pink Supermoon seen around the world]]></title>
@@ -119,13 +119,6 @@
             <link>https://www.bbc.co.uk/news/uk-56900431</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56900431</guid>
             <pubDate>Tue, 27 Apr 2021 14:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EastEnders actress Lacey Turner calls for better miscarriage support]]></title>
-            <description><![CDATA[Lacey Turner has has two miscarriages and believes the current system needs reforming.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56904891</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56904891</guid>
-            <pubDate>Tue, 27 Apr 2021 13:37:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHS heroes to feature in Royal Society of Portrait Painters exhibition]]></title>
@@ -282,11 +275,25 @@
             <pubDate>Mon, 26 Apr 2021 18:47:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pulisic scores as Chelsea draw Champions League semi-final first leg in Madrid]]></title>
+            <description><![CDATA[Chelsea produce a composed performance to secure a draw and put themselves in a promising position after their Champions League semi-final first leg against Real Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56880436</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56880436</guid>
+            <pubDate>Tue, 27 Apr 2021 21:39:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Arsenal owners remain '100% committed' to club and are 'not selling any stake']]></title>
             <description><![CDATA[Arsenal owners Stan Kroenke and Josh Kroenke say they remain "100% committed" to the Premier League club and "are not selling any stake".]]></description>
             <link>https://www.bbc.co.uk/sport/football/56907756</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56907756</guid>
             <pubDate>Tue, 27 Apr 2021 18:24:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea will need to 'fight for every centimetre' in second leg against Real - Tuchel ]]></title>
+            <description><![CDATA[Chelsea boss Thomas Tuchel says his side will have to 'fight for every centimetre' when they host Real Madrid in their Champions League semi-final second leg next Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56910396</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56910396</guid>
+            <pubDate>Tue, 27 Apr 2021 22:31:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sublime McGill opens up lead against Bingham, Robertson & Wilson level]]></title>
@@ -308,27 +315,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/56904334</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56904334</guid>
             <pubDate>Tue, 27 Apr 2021 15:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['A pairing made to destroy rivals' hope' - why Nagelsmann and Bayern are the perfect fit]]></title>
-            <description><![CDATA[Bayern Munich's move for RB Leipzig coach Julian Nagelsmann is one designed to show dominance and destroy hope, writes Constantin Eckner.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56907090</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56907090</guid>
-            <pubDate>Tue, 27 Apr 2021 16:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Snooker Championship: 'That's special' - did Bingham hit shot of championship?]]></title>
-            <description><![CDATA[Stuart Bingham produces a "special" trick shot in his quarter-final against Anthony McGill at the World Snooker Championship.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/snooker/56909695</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/snooker/56909695</guid>
-            <pubDate>Tue, 27 Apr 2021 19:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Out of this world' - Retiring legend Fara Williams picks her best goals]]></title>
-            <description><![CDATA[WSL and England legend Fara Williams picks her top five Women's Super League goals, including a stunning volley against Liverpool, as she announces her retirement.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/56901770</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56901770</guid>
-            <pubDate>Tue, 27 Apr 2021 11:21:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Restaurants and pubs are reopening, but what are the rules?]]></title>
