@@ -4,10 +4,10 @@
 4. [India Covid: First UK aid arrives as coronavirus deaths mount](https://www.bbc.co.uk/news/world-asia-india-56898654) - Oxygen equipment lands in Delhi but far more is needed to tackle a devastating Covid wave.
 5. [Glasgow student is youngest Mastermind champion at 24](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56891136) - Jonathan Gibson from Glasgow won the final of the long-running BBC quiz show by four points.
 6. [Meth lab found in raid near Redditch](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-56901616) - The large-scale operation was found by police, firefighters and a chemicals expert.
-7. [Lockdowns hurt child speech and language skills - report](https://www.bbc.co.uk/news/education-56889035) - Delays to speech and language skills are a top concern for primary schools, researchers say.
-8. [Miscarriage rates over 40% higher in black women, study suggests](https://www.bbc.co.uk/news/health-56889861) - Everyone who has even one miscarriage should be offered tailored help and support, experts say.
-9. [French warn UK ahead of vote on Brexit trade deal](https://www.bbc.co.uk/news/world-europe-56899831) - French concern over fishing rights overshadows a key European Parliament vote on EU-UK trade.
-10. [Whitbread: Premier Inn owner braces for UK holiday boom](https://www.bbc.co.uk/news/business-56898843) - Whitbread, which also owns Beefeater, expects a summer bounce as Covid restrictions ease on 17 May.
+7. [Nazanin Zaghari-Ratcliffe's daughter not yet told mum faces prison again](https://www.bbc.co.uk/news/uk-56900912) - Nazanin Zaghari-Ratcliffe’s husband wants to protect their girl from the "ups and downs” of the case.
+8. [Lockdowns hurt child speech and language skills - report](https://www.bbc.co.uk/news/education-56889035) - Delays to speech and language skills are a top concern for primary schools, researchers say.
+9. [Miscarriage rates over 40% higher in black women, study suggests](https://www.bbc.co.uk/news/health-56889861) - Everyone who has even one miscarriage should be offered tailored help and support, experts say.
+10. [French warn UK ahead of vote on Brexit trade deal](https://www.bbc.co.uk/news/world-europe-56899831) - French concern over fishing rights overshadows a key European Parliament vote on EU-UK trade.
 11. [Crawley College: Police thank public for tackling gun suspect](https://www.bbc.co.uk/news/uk-england-sussex-56898742) - Crawley College remains closed today after reports of gunshots saw a man arrested on Monday.
 12. [City of London to convert offices into homes in post-Covid revamp](https://www.bbc.co.uk/news/business-56888615) - The City of London Corporation set out plans on Tuesday to create 1,500 new residential units by 2030.
 13. [Covid-19 in India: Cases, deaths and oxygen supply](https://www.bbc.co.uk/news/world-asia-india-56891016) - Maps, charts and graphics explaining what is happening and what the authorities are doing about it.
