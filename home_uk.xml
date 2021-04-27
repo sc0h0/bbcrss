@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Apr 2021 13:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Apr 2021 13:50:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Tue, 27 Apr 2021 13:00:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tate Modern: Jonty Bravery had history of 'malicious and violent' behaviour]]></title>
+            <description><![CDATA[Jonty Bravery threw a six-year-old boy from a 10th floor viewing platform at London's Tate Modern.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56881724</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56881724</guid>
+            <pubDate>Tue, 27 Apr 2021 13:03:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Glasgow student is youngest Mastermind champion at 24]]></title>
             <description><![CDATA[Jonathan Gibson from Glasgow won the final of the long-running BBC quiz show by four points.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-56891136</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/education-56889035</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56889035</guid>
             <pubDate>Tue, 27 Apr 2021 13:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miscarriage rates over 40% higher in black women, study suggests]]></title>
-            <description><![CDATA[Everyone who has even one miscarriage should be offered tailored help and support, experts say.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56889861</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56889861</guid>
-            <pubDate>Tue, 27 Apr 2021 00:17:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[French warn UK ahead of vote on Brexit trade deal]]></title>
@@ -273,6 +273,13 @@
             <link>https://www.bbc.co.uk/sport/football/56903846</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56903846</guid>
             <pubDate>Tue, 27 Apr 2021 13:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It's what makes football wonderful' - Fofana thanks Palace as he breaks fast during brief pause in game]]></title>
+            <description><![CDATA[Leicester City defender Wesley Fofana thanks the Premier League, Crystal Palace and keeper Vicente Guaita for allowing him to break his Ramadan fast during the game against the Eagles.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56902401</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56902401</guid>
+            <pubDate>Tue, 27 Apr 2021 11:48:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Restaurants and pubs are reopening, but what are the rules?]]></title>
