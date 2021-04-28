@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Apr 2021 14:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 15:27:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Arlene Foster announces resignation as DUP leader and NI first minister]]></title>
+            <description><![CDATA[Mrs Foster says she is stepping down as leader on 28 May and as NI first minister at the end of June.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56910045</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56910045</guid>
+            <pubDate>Wed, 28 Apr 2021 15:25:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Electoral Commission to investigate Boris Johnson's Downing Street flat renovations]]></title>
             <description><![CDATA[The Electoral Commission says there are "reasonable grounds to suspect an offence" may have occurred.]]></description>
@@ -30,25 +37,11 @@
             <pubDate>Wed, 28 Apr 2021 13:04:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fishmongers' Hall: Killer's family 'truly sorry' about attack]]></title>
-            <description><![CDATA[The brother of terrorist Usman Khan apologises to the families of Jack Merritt and Saskia Jones.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56890755</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56890755</guid>
-            <pubDate>Wed, 28 Apr 2021 11:53:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ryan Giggs denies assaulting two women]]></title>
             <description><![CDATA[The Wales manager and Salford City FC co-owner denies three offences against two women in November.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-56911812</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56911812</guid>
             <pubDate>Wed, 28 Apr 2021 10:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears asks to address court over conservatorship case]]></title>
-            <description><![CDATA[A judge grants request for the singer to speak in hearing about her long-running guardianship case.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56911822</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56911822</guid>
-            <pubDate>Wed, 28 Apr 2021 08:23:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wembley park deaths: Two Met PCs charged over crime scene photos]]></title>
@@ -58,11 +51,18 @@
             <pubDate>Wed, 28 Apr 2021 13:57:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: European Parliament backs UK trade deal]]></title>
-            <description><![CDATA[Euro MPs back the EU-UK trade deal by 660 votes to 5 despite rows over fishing and Northern Ireland.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56899831</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56899831</guid>
-            <pubDate>Wed, 28 Apr 2021 08:18:38 GMT</pubDate>
+            <title><![CDATA[Fishmongers' Hall: Killer's family 'truly sorry' about attack]]></title>
+            <description><![CDATA[The brother of terrorist Usman Khan apologises to the families of Jack Merritt and Saskia Jones.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56890755</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56890755</guid>
+            <pubDate>Wed, 28 Apr 2021 11:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britney Spears asks to address court over conservatorship case]]></title>
+            <description><![CDATA[A judge grants request for the singer to speak in hearing about her long-running guardianship case.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56911822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56911822</guid>
+            <pubDate>Wed, 28 Apr 2021 08:23:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: One dose of vaccine halves transmission - study]]></title>
@@ -79,11 +79,11 @@
             <pubDate>Wed, 28 Apr 2021 03:36:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sainsbury's: Cost of Covid has been high]]></title>
-            <description><![CDATA[While full-year sales jumped 8% the supermarket giant made a loss due to pandemic and other costs.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56912064</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56912064</guid>
-            <pubDate>Wed, 28 Apr 2021 13:43:37 GMT</pubDate>
+            <title><![CDATA[Brexit: European Parliament backs UK trade deal]]></title>
+            <description><![CDATA[Euro MPs back the EU-UK trade deal by 660 votes to 5 despite rows over fishing and Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56899831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56899831</guid>
+            <pubDate>Wed, 28 Apr 2021 08:18:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reckitt: More sex, fewer colds drive sales at Durex maker]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/in-pictures-56900164</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56900164</guid>
             <pubDate>Tue, 27 Apr 2021 12:03:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arlene Foster: From trailblazing leader to party civil war]]></title>
+            <description><![CDATA[BBC News NI looks back at the career of first minister of Northern Ireland, Arlene Foster.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-38320780</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-38320780</guid>
+            <pubDate>Wed, 28 Apr 2021 15:12:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: UK Indians rally to help during Covid crisis]]></title>
@@ -282,7 +289,7 @@
             <pubDate>Wed, 28 Apr 2021 05:43:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India Covid: 'Sister help us, doctor help us – you’re God']]></title>
+            <title><![CDATA[India Covid: Trying to revive Covid patients in a Delhi hospital]]></title>
             <description><![CDATA[What it's like working in an emergency room in India, as its devastating second Covid wave continues.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56901163</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56901163</guid>
