@@ -1,4 +1,4 @@
-1. [Electoral Commission to investigate Boris Johnson's flat renovations](https://www.bbc.co.uk/news/uk-politics-56915307) - The Electoral Commission says there are "reasonable grounds to suspect an offence".
+1. [Electoral Commission to investigate Boris Johnson's flat renovations](https://www.bbc.co.uk/news/uk-politics-56915307) - The Electoral Commission says there are "reasonable grounds to suspect an offence" may have occurred.
 2. [Covid: Spain hopes for tourists as EU votes on digital passports](https://www.bbc.co.uk/news/world-europe-56912667) - Spain says it hopes to open up to overseas travellers in June with a pilot test next month.
 3. [Brexit: European Parliament backs UK trade deal](https://www.bbc.co.uk/news/world-europe-56899831) - Euro MPs back the EU-UK trade deal by 660 votes to 5 despite rows over fishing and Northern Ireland.
 4. [Ryan Giggs denies assaulting two women](https://www.bbc.co.uk/news/uk-wales-56911812) - The Wales manager and Salford City FC co-owner denies three offences against two women in November.
