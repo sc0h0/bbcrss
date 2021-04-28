@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Apr 2021 08:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 09:03:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Wed, 28 Apr 2021 08:23:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: India surpasses 200,000 deaths and one vaccine dose 'halves transmission']]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56908334</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56908334</guid>
-            <pubDate>Wed, 28 Apr 2021 06:59:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Richard Pusey: Australian jailed for filming dying officers]]></title>
             <description><![CDATA[Richard Pusey is sentenced to 10 months jail for filming dying police officers at a crash scene.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56910687</link>
@@ -69,7 +62,14 @@
             <description><![CDATA[Steve McQueen's series has 15 nominations, with The Crown and I May Destroy You also in the running.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56900631</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56900631</guid>
-            <pubDate>Wed, 28 Apr 2021 08:25:37 GMT</pubDate>
+            <pubDate>Wed, 28 Apr 2021 09:02:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sainsbury's: Cost of Covid has been high]]></title>
+            <description><![CDATA[While full-year sales jumped 8% the supermarket giant made a loss due to pandemic costs.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56912064</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56912064</guid>
+            <pubDate>Wed, 28 Apr 2021 08:19:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arlene Foster: Leadership of DUP hangs in the balance]]></title>
@@ -238,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/football/56906838</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56906838</guid>
             <pubDate>Tue, 27 Apr 2021 16:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sublime McGill opens up lead against Bingham, Robertson & Wilson level]]></title>
-            <description><![CDATA[Anthony McGill produces some sensational snooker to lead Stuart Bingham 9-7 in their Crucible quarter-final while Kyren Wilson draws level with Neil Roberston.]]></description>
-            <link>https://www.bbc.co.uk/sport/snooker/56903358</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56903358</guid>
-            <pubDate>Tue, 27 Apr 2021 21:50:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['It's for gymnasts who don't feel safe' - Voss on full-body suits]]></title>
