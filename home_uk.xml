@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Apr 2021 04:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 04:59:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,25 +58,25 @@
             <pubDate>Wed, 28 Apr 2021 03:36:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wimbledon to scrap middle Sunday from 2022 and hopes for at least 25% fans in 2021]]></title>
-            <description><![CDATA[Wimbledon will abandon its traditional rest day on the middle Sunday of the tournament from 2022.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/56904334</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56904334</guid>
-            <pubDate>Tue, 27 Apr 2021 15:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burkina Faso ambush: Spaniards and Irishman killed after abduction]]></title>
-            <description><![CDATA[Two Spanish journalists, an Irish national and a local soldier were abducted by gunmen on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-56892436</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56892436</guid>
-            <pubDate>Tue, 27 Apr 2021 22:35:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Boris Johnson faces MPs amid questions over Downing Street flat revamp]]></title>
             <description><![CDATA[Boris Johnson is under pressure to give full details of how refurbishments to his home were paid for.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56909735</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56909735</guid>
             <pubDate>Wed, 28 Apr 2021 03:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brit Awards 2021: Double trophy for winners revealed]]></title>
+            <description><![CDATA[An award in two parts means prize-winning stars really can share their achievement with someone else.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56910816</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56910816</guid>
+            <pubDate>Wed, 28 Apr 2021 04:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biden to sell historic spending plans in speech to Congress]]></title>
+            <description><![CDATA[Speaking on the eve of his 100th day in office, the Democrat will propose $4tn (£2.9tn) in spending.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56910884</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56910884</guid>
+            <pubDate>Wed, 28 Apr 2021 04:23:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Business leaders set out plan for Covid recovery]]></title>
@@ -128,6 +128,13 @@
             <pubDate>Tue, 27 Apr 2021 23:00:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wimbledon scraps Sunday rest day, so no more Manic Mondays]]></title>
+            <description><![CDATA[Wimbledon will abandon its traditional rest day on the middle Sunday of the tournament from 2022.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/56904334</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56904334</guid>
+            <pubDate>Tue, 27 Apr 2021 15:05:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[EastEnders actress Lacey Turner calls for better miscarriage support]]></title>
             <description><![CDATA[Lacey Turner has has two miscarriages and believes the current system needs reforming.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56904891</link>
@@ -142,39 +149,18 @@
             <pubDate>Tue, 27 Apr 2021 23:01:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lotus to launch last pure petrol sports car]]></title>
+            <description><![CDATA[The Emira will be the carmaker's last conventionally powered model, as it prepares for an all-electric future.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56906504</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56906504</guid>
+            <pubDate>Tue, 27 Apr 2021 16:17:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pink Supermoon seen around the world]]></title>
             <description><![CDATA[Stargazers were treated to the fourth full Moon of 2021 on Monday night.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-56900164</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56900164</guid>
             <pubDate>Tue, 27 Apr 2021 12:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Youngest Mastermind winner: 'It feels like a dream']]></title>
-            <description><![CDATA[Jonathan Gibson won the competition by four points and got a perfect score in his specialist subject.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56900431</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56900431</guid>
-            <pubDate>Tue, 27 Apr 2021 14:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS heroes to feature in Royal Society of Portrait Painters exhibition]]></title>
-            <description><![CDATA[Images of medical staff on the frontline of the Covid-19 battle will be a highlight of the show.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56900644</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56900644</guid>
-            <pubDate>Tue, 27 Apr 2021 13:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK's first hijabi firefighter: ‘Firefighters don’t look like me’]]></title>
-            <description><![CDATA[Uroosa Arshid says she hopes other young Muslim women may feel inspired to follow in her footsteps.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-56846739</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-56846739</guid>
-            <pubDate>Mon, 26 Apr 2021 23:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recovering from lockdown: Five tips to boost your child's vocabulary]]></title>
-            <description><![CDATA[Research shows the lockdown has had an impact on young children's language skills. How can parents help?]]></description>
-            <link>https://www.bbc.co.uk/news/education-56765177</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56765177</guid>
-            <pubDate>Tue, 27 Apr 2021 02:08:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CEO Secrets: Why crying can help you succeed in business]]></title>
