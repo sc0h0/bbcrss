@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Apr 2021 23:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 00:28:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -133,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56900644</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56900644</guid>
             <pubDate>Tue, 27 Apr 2021 13:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in India: Cases, deaths and oxygen supply]]></title>
-            <description><![CDATA[Maps, charts and graphics explaining what is happening and what the authorities are doing about it.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56891016</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56891016</guid>
-            <pubDate>Mon, 26 Apr 2021 23:01:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK's first hijabi firefighter: ‘Firefighters don’t look like me’]]></title>
@@ -331,11 +324,32 @@
             <pubDate>Tue, 27 Apr 2021 15:05:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Restaurants and pubs are reopening, but what are the rules?]]></title>
-            <description><![CDATA[Pubs, cafes and restaurants are now allowed to reopen indoors and outdoors in Scotland - and outdoors in Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/business-52977388</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
-            <pubDate>Mon, 26 Apr 2021 14:39:57 GMT</pubDate>
+            <title><![CDATA[Why India's Covid crisis matters to the whole world]]></title>
+            <description><![CDATA[The situation in India is a bleak reminder that none of us will be safe until everyone is safe.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56907007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56907007</guid>
+            <pubDate>Tue, 27 Apr 2021 23:44:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India Covid: 'Sister help us, doctor help us – you’re God']]></title>
+            <description><![CDATA[What it's like working in an emergency room in India, as its devastating second Covid wave continues.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56901163</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56901163</guid>
+            <pubDate>Tue, 27 Apr 2021 23:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India coronavirus: Can it make enough vaccines to meet demand?]]></title>
+            <description><![CDATA[India is facing a surge in Covid cases while attempting to ramp up its own vaccine programme.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-55571793</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-55571793</guid>
+            <pubDate>Tue, 27 Apr 2021 15:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in India: Cases, deaths and oxygen supply]]></title>
+            <description><![CDATA[Maps, charts and graphics explaining what is happening and what the authorities are doing about it.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56891016</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56891016</guid>
+            <pubDate>Mon, 26 Apr 2021 23:01:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When, where and how can I go on holiday?]]></title>
@@ -345,11 +359,39 @@
             <pubDate>Tue, 27 Apr 2021 15:18:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coronavirus: What's happening with pools, haircuts and gyms?]]></title>
+            <description><![CDATA[Lockdown has been eased further - but what does it mean for hairdressers, pools and gyms?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
+            <pubDate>Tue, 27 Apr 2021 13:48:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How do I get a lateral flow or PCR test?]]></title>
+            <description><![CDATA[Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Tue, 27 Apr 2021 09:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What's the risk on transport?]]></title>
+            <description><![CDATA[As UK coronavirus restrictions continue to be relaxed, public transport could become much busier.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51736185</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51736185</guid>
+            <pubDate>Thu, 22 Apr 2021 13:17:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
             <description><![CDATA[People 42 or over in England are now being offered a Covid vaccine as the rollout continues.]]></description>
             <link>https://www.bbc.co.uk/news/health-55045639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
             <pubDate>Tue, 27 Apr 2021 18:19:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Restaurants and pubs are reopening, but what are the rules?]]></title>
+            <description><![CDATA[Pubs, cafes and restaurants are now allowed to reopen indoors and outdoors in Scotland - and outdoors in Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Mon, 26 Apr 2021 14:39:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Have lockdowns affected my child's physical and mental health?]]></title>
@@ -385,13 +427,6 @@
             <link>https://www.bbc.co.uk/news/56876695</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56876695</guid>
             <pubDate>Sun, 25 Apr 2021 07:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: What's the risk on transport?]]></title>
-            <description><![CDATA[As UK coronavirus restrictions continue to be relaxed, public transport could become much busier.]]></description>
-            <link>https://www.bbc.co.uk/news/health-51736185</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51736185</guid>
-            <pubDate>Thu, 22 Apr 2021 13:17:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
@@ -478,60 +513,11 @@
             <pubDate>Wed, 21 Apr 2021 00:45:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: How do I get a lateral flow or PCR test?]]></title>
-            <description><![CDATA[Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.]]></description>
-            <link>https://www.bbc.co.uk/news/health-51943612</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
-            <pubDate>Tue, 27 Apr 2021 09:22:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: When will children return to school and what are the rules?]]></title>
             <description><![CDATA[Children are returning to school across the UK, after months of enforced home-schooling.]]></description>
             <link>https://www.bbc.co.uk/news/education-51643556</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
             <pubDate>Fri, 16 Apr 2021 16:08:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Bay of Pigs invasion began - and failed - 60 years on]]></title>
-            <description><![CDATA[The story of the attempted overthrow of Castro's regime in Cuba, as told by the men who were there.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56808455</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56808455</guid>
-            <pubDate>Fri, 23 Apr 2021 21:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan War: How can the West fight terrorism after leaving?]]></title>
-            <description><![CDATA[As Western troops prepare to go, there are concerns over the future of counter-terrorism operations.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-56860781</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56860781</guid>
-            <pubDate>Sat, 24 Apr 2021 23:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Dog's Backyard Ultra: The toughest, weirdest race you've never heard of]]></title>
-            <description><![CDATA[The format might be simple - winning this race is anything but. Big Dog's Backyard Ultra is an unusually punishing challenge.]]></description>
-            <link>https://www.bbc.co.uk/sport/56720358</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/56720358</guid>
-            <pubDate>Wed, 21 Apr 2021 23:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['My sister took her life, petrified at facing her ex in court']]></title>
-            <description><![CDATA[Gemma Robinson died just days before she was due to see her ex-partner in court.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56539465</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56539465</guid>
-            <pubDate>Tue, 20 Apr 2021 23:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The disabled doctors not believed by their colleagues]]></title>
-            <description><![CDATA[People often feel nervous when they visit a doctor, but what if you are a doctor but your colleagues don't believe you're ill?]]></description>
-            <link>https://www.bbc.co.uk/news/disability-56244376</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-56244376</guid>
-            <pubDate>Sun, 18 Apr 2021 23:04:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The homeless drug addict who became a professor]]></title>
-            <description><![CDATA[Jesse Thistle, a high school dropout, overcame addiction and homelessness to pursue an academic career.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-55559382</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55559382</guid>
-            <pubDate>Sun, 24 Jan 2021 00:15:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
