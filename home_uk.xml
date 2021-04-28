@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Apr 2021 09:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 09:33:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-56909285</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56909285</guid>
             <pubDate>Wed, 28 Apr 2021 05:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Spain hopes for tourists as EU votes on digital passports]]></title>
+            <description><![CDATA[The EU plans to open travel to those who are vaccinated, test negative or have recovered from Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56912667</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56912667</guid>
+            <pubDate>Wed, 28 Apr 2021 09:18:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: One dose of vaccine halves transmission - study]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/health-56901356</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56901356</guid>
             <pubDate>Wed, 28 Apr 2021 03:36:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Demand high as cruises gear up for a restart]]></title>
-            <description><![CDATA[Cruises around England can resume in May, and operator Fred Olsen says it's already sold two thirds of its capacity.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56906506</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56906506</guid>
-            <pubDate>Wed, 28 Apr 2021 00:03:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'PM urged to come clean' and 'June olé days']]></title>
@@ -217,6 +217,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-56882037</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56882037</guid>
             <pubDate>Mon, 26 Apr 2021 23:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales back North out of Lions tour with knee injury]]></title>
+            <description><![CDATA[George North has confirmed he is out of the British and Irish Lions tour of South Africa because of a serious knee injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56913566</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56913566</guid>
+            <pubDate>Wed, 28 Apr 2021 09:13:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chelsea will need to 'fight for every centimetre' in second leg against Real - Tuchel ]]></title>
