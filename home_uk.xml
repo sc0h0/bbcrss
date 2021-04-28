@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Apr 2021 07:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 07:45:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,13 @@
             <pubDate>Wed, 28 Apr 2021 05:09:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hartlepool by-election: Old certainties no longer apply]]></title>
+            <description><![CDATA[The traditional political rule about governments losing by-elections do not seem to count for much now.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56859750</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56859750</guid>
+            <pubDate>Wed, 28 Apr 2021 06:33:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Family-meal image wins international food photo contest]]></title>
             <description><![CDATA[A photo of a family preparing a meal in China wins Pink Lady Food Photographer of the Year 2021.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-56820167</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-56883027</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56883027</guid>
             <pubDate>Tue, 27 Apr 2021 23:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wimbledon scraps Sunday rest day, so no more Manic Mondays]]></title>
-            <description><![CDATA[Wimbledon will abandon its traditional rest day on the middle Sunday of the tournament from 2022.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/56904334</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/56904334</guid>
-            <pubDate>Tue, 27 Apr 2021 15:05:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EastEnders actress Lacey Turner calls for better miscarriage support]]></title>
@@ -300,7 +300,7 @@
             <description><![CDATA[Maps, charts and graphics explaining what is happening and what the authorities are doing about it.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56891016</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56891016</guid>
-            <pubDate>Mon, 26 Apr 2021 23:01:57 GMT</pubDate>
+            <pubDate>Wed, 28 Apr 2021 07:25:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When, where and how can I go on holiday?]]></title>
