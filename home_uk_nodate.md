@@ -3,12 +3,12 @@
 3. [Richard Pusey: Australian jailed for filming dying officers](https://www.bbc.co.uk/news/world-australia-56910687) - Richard Pusey is sentenced to 10 months jail for filming dying police officers at a crash scene.
 4. [Covid-19: India surpasses 200,000 deaths and one vaccine dose 'halves transmission'](https://www.bbc.co.uk/news/uk-56908334) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
 5. [Bafta TV Awards: Steve McQueen's Small Axe leads nominations](https://www.bbc.co.uk/news/entertainment-arts-56900631) - Steve McQueen's series has 15 nominations, with The Crown and I May Destroy You also in the running.
-6. [Arlene Foster: Leadership of DUP hangs in the balance](https://www.bbc.co.uk/news/uk-northern-ireland-56910046) - Party MPs, NI Assembly members and councillors have challenged her remaining as party leader.
-7. [UK's aid cuts for clean water projects criticised](https://www.bbc.co.uk/news/uk-56910102) - A leaked memo suggests taxpayers could be critical of the timing - as the world copes with a pandemic.
-8. [Self-driving cars to be allowed on UK roads this year](https://www.bbc.co.uk/news/technology-56906145) - The government previously said it hoped to legalise hands-free driving by spring 2021.
-9. [Covid vaccine: Sore arm and headache most common side effects](https://www.bbc.co.uk/news/health-56901356) - A UK study of more than 600,000 people found reactions to the jabs were "mild and short-lived".
-10. [Boris Johnson faces MPs amid questions over Downing Street flat revamp](https://www.bbc.co.uk/news/uk-politics-56909735) - Boris Johnson is under pressure to give full details of how refurbishments to his home were paid for.
-11. [Biden to sell historic spending plans in speech to Congress](https://www.bbc.co.uk/news/world-us-canada-56910884) - Speaking on the eve of his 100th day in office, the Democrat will propose $4tn (£2.9tn) in spending.
+6. [Brexit: European Parliament backs UK trade deal](https://www.bbc.co.uk/news/world-europe-56899831) - Euro MPs back the EU-UK trade deal by 660 votes to 5 despite rows over fishing and Northern Ireland.
+7. [Arlene Foster: Leadership of DUP hangs in the balance](https://www.bbc.co.uk/news/uk-northern-ireland-56910046) - Party MPs, NI Assembly members and councillors have challenged her remaining as party leader.
+8. [UK's aid cuts for clean water projects criticised](https://www.bbc.co.uk/news/uk-56910102) - A leaked memo suggests taxpayers could be critical of the timing - as the world copes with a pandemic.
+9. [Self-driving cars to be allowed on UK roads this year](https://www.bbc.co.uk/news/technology-56906145) - The government previously said it hoped to legalise hands-free driving by spring 2021.
+10. [Covid vaccine: Sore arm and headache most common side effects](https://www.bbc.co.uk/news/health-56901356) - A UK study of more than 600,000 people found reactions to the jabs were "mild and short-lived".
+11. [Boris Johnson faces MPs amid questions over Downing Street flat revamp](https://www.bbc.co.uk/news/uk-politics-56909735) - Boris Johnson is under pressure to give full details of how refurbishments to his home were paid for.
 12. [Demand high as cruises gear up for a restart](https://www.bbc.co.uk/news/business-56906506) - Cruises around England can resume in May, and operator Fred Olsen says it's already sold two thirds of its capacity.
 13. [The Papers: 'PM urged to come clean' and 'June olé days'](https://www.bbc.co.uk/news/blogs-the-papers-56910085) - The papers report more claims in the Boris Johnson's flat row - and the return of Spanish holidays.
 14. [Hartlepool by-election: Old certainties no longer apply](https://www.bbc.co.uk/news/uk-politics-56859750) - The traditional political rule about governments losing by-elections do not seem to count for much now.
@@ -50,16 +50,3 @@
 50. [Lateral-flow tests: What are the risks and benefits?](https://www.bbc.co.uk/news/56675624) - What are the risks and benefits from using wide-scale lateral-flow tests?
 51. [Rare blood clots - what you need to know](https://www.bbc.co.uk/news/health-56674796) - We take a look at why these unusual clots happen and when they occur.
 52. [India Covid: Patients dying without oxygen amid Delhi surge](https://www.bbc.co.uk/news/56876695) - Delhi hospitals run out of beds and oxygen as families struggle to save their loved ones.
-53. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-54. [Covid: Which areas are being mass tested for variants?](https://www.bbc.co.uk/news/explainers-54872039) - People who live, work or travel through two south London boroughs are being urged to take a Covid-19 test.
-55. [Which countries are on the red list and what are the quarantine rules?](https://www.bbc.co.uk/news/explainers-52544307) - India has now been added to the UK Government's Covid "red list" of countries.
-56. [India Covid crisis: Did election rallies help spread virus?](https://www.bbc.co.uk/news/56858980) - Did campaigning for state elections in India help coronavirus to spread?
-57. [Covid map: Coronavirus cases, deaths, vaccinations by country](https://www.bbc.co.uk/news/world-51235105) - Key maps and charts explaining how the virus has spread around the world.
-58. [A nightmare on repeat - India is running out of oxygen again](https://www.bbc.co.uk/news/uk-56841381) - Facing a rising wave of coronavirus, and record case numbers, India finds itself battling for breath.
-59. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Pubs, cafes and restaurants are reopening in Wales and Scotland - as part of significant easing of lockdown rules.
-60. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 33 million people receive at least one dose.
-61. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
-62. [What is a Covid passport and what are the UK's plans?](https://www.bbc.co.uk/news/explainers-55718553) - The government is considering how people could prove they are unlikely to transmit Covid.
-63. [Coronavirus cure: What progress are we making on treatments?](https://www.bbc.co.uk/news/health-52354520) - Teams around the world are looking into medicines for Covid-19 and scientists are starting to discover what works.
-64. [Is the Australia-NZ travel bubble the way ahead?](https://www.bbc.co.uk/news/business-56796943) - Australia and New Zealand have quarantine-free travel, but will other countries follow their lead?
-65. [Covid: When will children return to school and what are the rules?](https://www.bbc.co.uk/news/education-51643556) - Children are returning to school across the UK, after months of enforced home-schooling.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Apr 2021 07:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 07:54:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -48,14 +48,21 @@
             <description><![CDATA[Steve McQueen's series has 15 nominations, with The Crown and I May Destroy You also in the running.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56900631</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56900631</guid>
-            <pubDate>Wed, 28 Apr 2021 07:24:00 GMT</pubDate>
+            <pubDate>Wed, 28 Apr 2021 07:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: European Parliament backs UK trade deal]]></title>
+            <description><![CDATA[Euro MPs back the EU-UK trade deal by 660 votes to 5 despite rows over fishing and Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56899831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56899831</guid>
+            <pubDate>Wed, 28 Apr 2021 07:47:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arlene Foster: Leadership of DUP hangs in the balance]]></title>
             <description><![CDATA[Party MPs, NI Assembly members and councillors have challenged her remaining as party leader.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56910046</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56910046</guid>
-            <pubDate>Wed, 28 Apr 2021 06:51:04 GMT</pubDate>
+            <pubDate>Wed, 28 Apr 2021 07:49:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK's aid cuts for clean water projects criticised]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56909735</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56909735</guid>
             <pubDate>Wed, 28 Apr 2021 07:04:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biden to sell historic spending plans in speech to Congress]]></title>
-            <description><![CDATA[Speaking on the eve of his 100th day in office, the Democrat will propose $4tn (£2.9tn) in spending.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56910884</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56910884</guid>
-            <pubDate>Wed, 28 Apr 2021 04:23:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Demand high as cruises gear up for a restart]]></title>
@@ -378,97 +378,6 @@
             <link>https://www.bbc.co.uk/news/56876695</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56876695</guid>
             <pubDate>Sun, 25 Apr 2021 07:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Tue, 27 Apr 2021 16:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Which areas are being mass tested for variants?]]></title>
-            <description><![CDATA[People who live, work or travel through two south London boroughs are being urged to take a Covid-19 test.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-54872039</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54872039</guid>
-            <pubDate>Thu, 22 Apr 2021 09:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which countries are on the red list and what are the quarantine rules?]]></title>
-            <description><![CDATA[India has now been added to the UK Government's Covid "red list" of countries.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Fri, 23 Apr 2021 07:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India Covid crisis: Did election rallies help spread virus?]]></title>
-            <description><![CDATA[Did campaigning for state elections in India help coronavirus to spread?]]></description>
-            <link>https://www.bbc.co.uk/news/56858980</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/56858980</guid>
-            <pubDate>Fri, 23 Apr 2021 23:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid map: Coronavirus cases, deaths, vaccinations by country]]></title>
-            <description><![CDATA[Key maps and charts explaining how the virus has spread around the world.]]></description>
-            <link>https://www.bbc.co.uk/news/world-51235105</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
-            <pubDate>Tue, 27 Apr 2021 08:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A nightmare on repeat - India is running out of oxygen again]]></title>
-            <description><![CDATA[Facing a rising wave of coronavirus, and record case numbers, India finds itself battling for breath.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56841381</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56841381</guid>
-            <pubDate>Fri, 23 Apr 2021 12:11:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[Pubs, cafes and restaurants are reopening in Wales and Scotland - as part of significant easing of lockdown rules.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 26 Apr 2021 09:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 33 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Mon, 26 Apr 2021 11:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
-            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-54373904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
-            <pubDate>Mon, 26 Apr 2021 15:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is a Covid passport and what are the UK's plans?]]></title>
-            <description><![CDATA[The government is considering how people could prove they are unlikely to transmit Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Thu, 22 Apr 2021 10:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus cure: What progress are we making on treatments?]]></title>
-            <description><![CDATA[Teams around the world are looking into medicines for Covid-19 and scientists are starting to discover what works.]]></description>
-            <link>https://www.bbc.co.uk/news/health-52354520</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52354520</guid>
-            <pubDate>Wed, 21 Apr 2021 10:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the Australia-NZ travel bubble the way ahead?]]></title>
-            <description><![CDATA[Australia and New Zealand have quarantine-free travel, but will other countries follow their lead?]]></description>
-            <link>https://www.bbc.co.uk/news/business-56796943</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56796943</guid>
-            <pubDate>Wed, 21 Apr 2021 00:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When will children return to school and what are the rules?]]></title>
-            <description><![CDATA[Children are returning to school across the UK, after months of enforced home-schooling.]]></description>
-            <link>https://www.bbc.co.uk/news/education-51643556</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
-            <pubDate>Fri, 16 Apr 2021 16:08:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
