@@ -22,7 +22,7 @@
 22. [CEO Secrets: Why crying can help you succeed in business](https://www.bbc.co.uk/news/business-56683783) - Tina Chen explains how it can be tough starting a business on your own in a new country.
 23. [Downing Street flat: What are the rules about political donations?](https://www.bbc.co.uk/news/uk-politics-56893165) - Boris Johnson is under mounting pressure over the funding of his Downing Street flat renovations.
 24. [Hartlepool by-election: Old certainties no longer apply](https://www.bbc.co.uk/news/uk-politics-56859750) - The traditional political rule about governments losing by-elections do not seem to count for much now.
-25. [The towns finding new ways to save cash](https://www.bbc.co.uk/news/business-56892375) - Eight locations across the UK are testing ideas aimed at ensuring future access to cash for those who need it.
+25. [Saving cash: A customer said we'd changed her life](https://www.bbc.co.uk/news/business-56892375) - Eight locations across the UK are testing ideas aimed at ensuring future access to cash for those who need it.
 26. [Emilia Clarke on the book that helped her to grieve for her dad](https://www.bbc.co.uk/news/entertainment-arts-56843499) - Jenny Diski's writing was "tonic for the soul" for the Game of Thrones star after her father died.
 27. [Dog theft: Simple tips to stop your puppy being pinched](https://www.bbc.co.uk/news/newsbeat-56899774) - With dog thefts on the rise, here are some tips on how you can keep your dog as safe as possible.
 28. [Kenyans bitter over al-Qaeda US embassy compensation snub](https://www.bbc.co.uk/news/world-africa-56759771) - Kenyan victims of 1998 US embassy bombing lament exclusion from $335m compensation deal.
