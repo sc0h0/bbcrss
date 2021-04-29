@@ -1,8 +1,8 @@
 1. [Grenfell: Survivors condemn new fire safety laws](https://www.bbc.co.uk/news/uk-politics-56924131) - Campaigners say "a generation of homeowners" face financial ruin after protections are left out of new laws.
-2. [Gaunt Navalny attacks Putin as network is disbanded](https://www.bbc.co.uk/news/world-europe-56919934) - President Putin's arch-critic appears after a hunger strike, as his team say they are being destroyed.
+2. [Bafta suspends Noel Clarke over harassment claims](https://www.bbc.co.uk/news/entertainment-arts-56937479) - It follows newspaper allegations of sexual harassment, weeks after the actor received a top award.
 3. [Tories attack Sir Keir Starmer's John Lewis wallpaper photo op](https://www.bbc.co.uk/news/uk-politics-56932548) - The Labour leader poses with wallpaper in a dig at the PM over the Downing Street flat revamp row.
-4. [The scam that targets dog owners](https://www.bbc.co.uk/news/uk-56922473) - When Sharon's dog Ronnie went missing, she fell victim to an increasingly common scam.
-5. [Covid-19: NHS England boss to quit and India elections go ahead despite deaths](https://www.bbc.co.uk/news/uk-56934296) - Five things you need to know about the coronavirus pandemic this Thursday evening.
+4. [Gaunt Navalny attacks Putin as network is disbanded](https://www.bbc.co.uk/news/world-europe-56919934) - President Putin's arch-critic appears after a hunger strike, as his team say they are being destroyed.
+5. [The scam that targets dog owners](https://www.bbc.co.uk/news/uk-56922473) - When Sharon's dog Ronnie went missing, she fell victim to an increasingly common scam.
 6. [Gene therapy: 'Now I can see my own face again'](https://www.bbc.co.uk/news/health-56906002) - Jake Ternent was the first UK NHS patient to undergo revolutionary gene therapy to improve his sight.
 7. [Covid: France aims to reopen except nightclubs by July](https://www.bbc.co.uk/news/world-europe-56934746) - Tourists with a "health pass" will be able to visit France from 9 June, President Macron announces.
 8. [NHS England boss Stevens to step down this summer](https://www.bbc.co.uk/news/health-56932988) - After seven years in the job Sir Simon will now become a life peer, the government says.
