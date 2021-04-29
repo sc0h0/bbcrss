@@ -20,7 +20,7 @@
 20. [Back to the office? Science reveals best desks to nab](https://www.bbc.co.uk/news/health-56886313) - Where you sit in an open-plan office can determine how content and productive you feel, researchers find.
 21. [PMQs: Five Boris Johnson claims fact-checked](https://www.bbc.co.uk/news/56915918) - Investigating claims about flat renovations, vaccines and misleading statements.
 22. [2021 elections: A simple guide to the Scottish, Welsh and local elections](https://www.bbc.co.uk/news/uk-politics-56286643) - A bumper crop of elections are being held on 6 May across England, Scotland and Wales.
-23. [Arlene Foster: From trailblazing leader to party civil war](https://www.bbc.co.uk/news/uk-northern-ireland-38320780) - BBC News NI looks back at the career of first minister of Northern Ireland, Arlene Foster.
+23. [DUP: Who are the leadership contenders?](https://www.bbc.co.uk/news/uk-northern-ireland-56915407) - BBC News NI looks at three names being tipped as possible successors to Arlene Foster.
 24. [Line Of Duty: 'My favourite thing is reading the wild fan theories'](https://www.bbc.co.uk/news/newsbeat-56917121) - Martin Compston, who plays DI Steve Arnott, reveals what happens off-screen on the hit drama.
 25. [Housing: 'Trying to buy in this market is painful'](https://www.bbc.co.uk/news/business-56906524) - UK property transactions in March 2021 were at their highest level since records began in 2005, according to the HMRC.
 26. [Zac Easter: He left his brain behind to save others from his fate](https://www.bbc.co.uk/sport/american-football/56894868) - Zac Easter killed himself at the age of 24, having suffered for years from a debilitating disease caused by the sport he loved.
