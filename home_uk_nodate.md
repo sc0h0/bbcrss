@@ -1,7 +1,7 @@
 1. [Bafta suspends Noel Clarke over harassment claims](https://www.bbc.co.uk/news/entertainment-arts-56937479) - It follows allegations published in the Guardian, which the actor and director denies.
 2. [Grenfell: Survivors condemn new fire safety laws](https://www.bbc.co.uk/news/uk-politics-56924131) - Campaigners say "a generation of homeowners" face financial ruin after protections are left out of new laws.
 3. [Tories attack Sir Keir Starmer's John Lewis wallpaper photo op](https://www.bbc.co.uk/news/uk-politics-56932548) - The Labour leader poses with wallpaper in a dig at the PM over the Downing Street flat revamp row.
-4. [PM's personal phone number found to be available online](https://www.bbc.co.uk/news/uk-politics-56937889) - Boris Johnson's contact details were published on a press release from 2006 and not deleted.
+4. [Boris Johnson's personal phone number found to be available online](https://www.bbc.co.uk/news/uk-politics-56937889) - Boris Johnson's contact details were published on a press release from 2006 and not deleted.
 5. [Lady Gaga: Five arrested in dognapping case](https://www.bbc.co.uk/news/world-us-canada-56938268) - Police charge three with attempted murder and robbery and two more as accomplices in the case.
 6. [UK and Norway fail to reach fishing deal](https://www.bbc.co.uk/news/uk-politics-56932551) - Hundreds of crew members will be out of work after losing access to a £32m market, ministers are warned.
 7. [Manchester United 6-2 Roma: United win eight-goal thriller in Europa League semi-final](https://www.bbc.co.uk/sport/football/56892065) - Bruno Fernandes and Edinson Cavani both score twice as Manchester United come from behind to take a major step towards sealing a place in next month's Europa League final.
