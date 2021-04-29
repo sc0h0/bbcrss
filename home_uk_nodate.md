@@ -1,5 +1,5 @@
 1. [Grenfell: Survivors condemn new fire safety laws](https://www.bbc.co.uk/news/uk-politics-56924131) - Campaigners say "a generation of homeowners" face financial ruin after protections are left out of new laws.
-2. [Bafta suspends Noel Clarke over harassment claims](https://www.bbc.co.uk/news/entertainment-arts-56937479) - It follows allegations published in the Guardian, which the actor denies.
+2. [Bafta suspends Noel Clarke over harassment claims](https://www.bbc.co.uk/news/entertainment-arts-56937479) - It follows allegations published in the Guardian, which the actor and director denies.
 3. [Tories attack Sir Keir Starmer's John Lewis wallpaper photo op](https://www.bbc.co.uk/news/uk-politics-56932548) - The Labour leader poses with wallpaper in a dig at the PM over the Downing Street flat revamp row.
 4. [Gaunt Navalny attacks Putin as network is disbanded](https://www.bbc.co.uk/news/world-europe-56919934) - President Putin's arch-critic appears after a hunger strike, as his team say they are being destroyed.
 5. [The scam that targets dog owners](https://www.bbc.co.uk/news/uk-56922473) - When Sharon's dog Ronnie went missing, she fell victim to an increasingly common scam.
@@ -7,12 +7,12 @@
 7. [Gene therapy: 'Now I can see my own face again'](https://www.bbc.co.uk/news/health-56906002) - Jake Ternent was the first UK NHS patient to undergo revolutionary gene therapy to improve his sight.
 8. [Covid: France aims to reopen except nightclubs by July](https://www.bbc.co.uk/news/world-europe-56934746) - Tourists with a "health pass" will be able to visit France from 9 June, President Macron announces.
 9. [Jon Snow to leave Channel 4 News after 32 years](https://www.bbc.co.uk/news/entertainment-arts-56929987) - The long-serving journalist says it is "time to move on" after "three incredible decades".
-10. [William and Kate release video to thank supporters](https://www.bbc.co.uk/news/uk-56928583) - On their tenth wedding anniversary, the Duke and Duchess of Cambridge have thanked people for their support over the years.
-11. [Covid: First baby born after NHS began in 1948 has second jab](https://www.bbc.co.uk/news/uk-wales-56935546) - Aneira Thomas, 72, was nervous about the vaccines having had "severe" reactions to drugs before.
+10. [Huge hailstones land in Texas and Oklahoma](https://www.bbc.co.uk/news/world-us-canada-56936198) - Hailstones as big as 4 inches (10cm) in diameter have been reported.
+11. [William and Kate release video to thank supporters](https://www.bbc.co.uk/news/uk-56928583) - On their tenth wedding anniversary, the Duke and Duchess of Cambridge have thanked people for their support over the years.
 12. [Willow Smith opens up about being polyamorous](https://www.bbc.co.uk/news/newsbeat-56852099) - The 20-year-old tells her mum and grandma on TV that she doesn't want to just 'step into monogamy'.
 13. [Pregnant Egyptian mummy revealed by scientists](https://www.bbc.co.uk/news/world-middle-east-56926005) - Experts believe the woman was aged between 20 and 30 when she died with her unborn child.
 14. [The bus helping increase Covid vaccine uptake](https://www.bbc.co.uk/news/uk-56937019) - This service in Brent, London, is allowing health teams reach areas where jab rates are low.
-15. [Huge hailstones land in Texas and Oklahoma](https://www.bbc.co.uk/news/world-us-canada-56936198) - Hailstones as big as 4 inches (10cm) in diameter have been reported.
+15. [Covid: First baby born after NHS began in 1948 has second jab](https://www.bbc.co.uk/news/uk-wales-56935546) - Aneira Thomas, 72, was nervous about the vaccines having had "severe" reactions to drugs before.
 16. [eBay launches new trainer authentication scheme](https://www.bbc.co.uk/news/business-56922493) - A new authentication scheme is launching in the UK to help spot counterfeit trainers.
 17. [Gold £10,000 coin weighing 22lb produced at Royal Mint in Llantrisant](https://www.bbc.co.uk/news/uk-wales-56920734) - The 8in-wide (20cm) coin took 400 hours to produce - including four days of polishing.
 18. [Ronan Keating and Jermaine Jenas join The One Show permanently](https://www.bbc.co.uk/news/entertainment-arts-56925454) - The pair will join Alex Jones on the BBC programme's sofa, each co-presenting for part of the week.
@@ -31,7 +31,7 @@
 31. [Housing: 'Trying to buy in this market is painful'](https://www.bbc.co.uk/news/business-56906524) - UK property transactions in March 2021 were at their highest level since records began in 2005, according to the HMRC.
 32. [There must be consequences for Premier League big six, says ex-chief exec Scudamore](https://www.bbc.co.uk/sport/football/56937159) - There must be consequences for the six English clubs who tried to join the ill-fated European Super League, says former Premier League chief Richard Scudamore.
 33. ['I plan to be here next year' - Hamilton wants to race in 2022 F1 season](https://www.bbc.co.uk/sport/formula1/56932825) - Lewis Hamilton says he intends to remain in Formula 1 for at least another season after this year.
-34. [Konta starts clay-court campaign with Madrid win](https://www.bbc.co.uk/sport/tennis/56933044) - British number one Johanna Konta begins her clay-court campaign with victory over Yulia Putintseva in the Madrid Open first round.
+34. [Olympic champion Barker back training after being hit by car](https://www.bbc.co.uk/sport/cycling/56937709) - Olympic champion Elinor Barker is "relieved" to have resumed training after she was hit by a car last week.
 35. ['He's as good as people say' - Jason Bell on the NFL draft and rising star Trevor Lawrence](https://www.bbc.co.uk/sport/av/american-football/56931865) - The NFL Show's Jason Bell looks at the big prospects in this year's NFL draft, including quarterback Trevor Lawrence, who is expected to join Jacksonville Jaguars as number one pick.
 36. [Manchester City: Memorable moments from their Premier League-winning seasons](https://www.bbc.co.uk/sport/av/football/56923236) - Watch some of the greatest moments from Manchester City's Premier League title-winning seasons.
 37. [MOTDx: Timbsy plays five-a-side against Neymar](https://www.bbc.co.uk/sport/av/football/56933484) - MOTDx's Michael Timbs travels to Salzburg in Austria to take on one of the world's best footballers, Paris St-Germain and Brazil forward Neymar, in a game of five-a-side.
