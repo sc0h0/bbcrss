@@ -9,8 +9,8 @@
 9. [Rudy Giuliani: US investigators raid former Trump lawyer's home](https://www.bbc.co.uk/news/world-us-canada-56921179) - The former New York mayor and lawyer to Donald Trump is being investigated for dealings with Ukraine.
 10. [Samsung: Handsets push profits to pre-pandemic highs](https://www.bbc.co.uk/news/business-56924158) - Samsung Electronics strong profits were dented by disappointing results for its chips business.
 11. [Foreign aid: UK reduces £154m UN family planning pledge](https://www.bbc.co.uk/news/uk-56924128) - Details of where reductions in the UK's aid spending will be made are beginning to emerge.
-12. [Students want sexual consent test in university](https://www.bbc.co.uk/news/education-56921873) - Most students back an assessment for students to show they "fully understand" consent, says survey.
-13. [NSPCC child abuse helpline has record call numbers in pandemic](https://www.bbc.co.uk/news/education-56917654) - The NSPCC says the figures echo fears that lockdown school closures left children more vulnerable.
+12. [Grenfell: Fire safety bill to become law](https://www.bbc.co.uk/news/uk-politics-56924131) - It comes after rounds of votes over changes that would have ruled out more costs for leaseholders.
+13. [Students want sexual consent test in university](https://www.bbc.co.uk/news/education-56921873) - Most students back an assessment for students to show they "fully understand" consent, says survey.
 14. [The Papers: 'Boris painted into corner' and how to get 'fancy wallpaper'](https://www.bbc.co.uk/news/blogs-the-papers-56923517) - The papers report the Electoral Commission's probe into funding the refurbishment of the PM's flat.
 15. [eBay launches new trainer authentication scheme](https://www.bbc.co.uk/news/business-56922493) - A new authentication scheme is launching in the UK to help spot counterfeit trainers.
 16. [Kate and William's 10 years of marriage in pictures](https://www.bbc.co.uk/news/uk-56900811) - The past decade has seen the duke and duchess travel the world, work with charities and raise a family.
