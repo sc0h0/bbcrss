@@ -1,8 +1,8 @@
-1. [Biden pitches 'once in a generation investment' to Congress](https://www.bbc.co.uk/news/world-us-canada-56923515) - The president lays out jobs, education and social care plans and says "America's on the move again".
+1. [Biden pitches 'once in a generation investment' to Congress](https://www.bbc.co.uk/news/world-us-canada-56923515) - The president lays out jobs, education and social care plans in a televised address to Congress.
 2. [Boris Johnson marking own homework over flat costs - Labour](https://www.bbc.co.uk/news/uk-politics-56922727) - Boris Johnson is coming under pressure to declare when he paid for Downing Street flat redecorations.
 3. [Arlene Foster: DUP leader's removal is a total mess, says party source](https://www.bbc.co.uk/news/uk-northern-ireland-56921825) - There are concerns in the party it could lead to an early election for the Northern Ireland Assembly.
 4. [Covid: Turkey prepares for its first full lockdown](https://www.bbc.co.uk/news/world-europe-56912668) - Turkey was seen as a success story early in the pandemic but now has the highest infection rate in Europe.
-5. [West Bengal: India state elections go ahead as deaths hit record high](https://www.bbc.co.uk/news/world-asia-56924549) - Voters go to the polls for state elections despite the state the country witnessing a second wave.
+5. [West Bengal: India state elections go ahead as deaths hit record high](https://www.bbc.co.uk/news/world-asia-56924549) - Voters go to the polls for state elections despite a devastating surge in coronavirus infections.
 6. [Covid-19: Turkey prepares for first lockdown and record calls to the NSPCC](https://www.bbc.co.uk/news/uk-56922193) - Five things you need to know about the coronavirus pandemic this Thursday morning.
 7. [Call for Snowdon to only be known by Welsh name Yr Wyddfa](https://www.bbc.co.uk/news/uk-wales-56913993) - The highest mountain in Wales, Snowdon - also known as Yr Wyddfa - stands at 3,560ft (1,085m).
 8. [Free e-cigarettes for smokers in A&E trial](https://www.bbc.co.uk/news/health-56918315) - Patients will be selected randomly to measure how successful vaping can be in helping people to quit.
