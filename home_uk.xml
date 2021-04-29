@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Apr 2021 08:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 08:50:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Thu, 29 Apr 2021 06:33:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Grenfell: Bid to shield residents from cladding costs fails]]></title>
+            <description><![CDATA[Campaigners say "a generation of homeowners" face financial ruin after government wins Commons vote.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56924131</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56924131</guid>
+            <pubDate>Thu, 29 Apr 2021 08:41:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[West Bengal: India state elections go ahead as deaths hit record high]]></title>
             <description><![CDATA[Voters go to the polls for state elections despite a devastating surge in coronavirus infections.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56924549</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-56913993</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56913993</guid>
             <pubDate>Wed, 28 Apr 2021 20:18:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free e-cigarettes for smokers in A&E trial]]></title>
-            <description><![CDATA[Patients will be selected randomly to measure how successful vaping can be in helping people to quit.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56918315</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56918315</guid>
-            <pubDate>Thu, 29 Apr 2021 01:22:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heathrow Airport's losses deepen as Covid impact continues]]></title>
@@ -310,8 +310,8 @@
             <pubDate>Mon, 26 Apr 2021 09:06:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foreign holiday guide: The red list, green list and quarantine rules]]></title>
-            <description><![CDATA[An NHS app is being adapted to be used as a Covid passport for people holidaying abroad - Transport Secretary, Grant Shapps, has confirmed.]]></description>
+            <title><![CDATA[International travel: The red list, green list and quarantine rules]]></title>
+            <description><![CDATA[An NHS app is being adapted to be used as a Covid passport for people holidaying abroad.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52544307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
             <pubDate>Wed, 28 Apr 2021 14:25:24 GMT</pubDate>
