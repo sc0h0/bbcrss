@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Apr 2021 15:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 16:48:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Grenfell: Survivors condemn new fire safety laws]]></title>
+            <description><![CDATA[Campaigners say "a generation of homeowners" face financial ruin after protections are left out of laws.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56924131</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56924131</guid>
+            <pubDate>Thu, 29 Apr 2021 16:40:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gaunt Navalny attacks Putin as network is disbanded]]></title>
             <description><![CDATA[President Putin's arch-critic appears after a hunger strike, as his team say they are being destroyed.]]></description>
@@ -23,25 +30,18 @@
             <pubDate>Thu, 29 Apr 2021 13:26:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nothing to see here, says Boris Johnson over flat costs investigation]]></title>
-            <description><![CDATA[Boris Johnson is facing an investigation into how a refurbishment bill was initially covered.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56926180</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56926180</guid>
-            <pubDate>Thu, 29 Apr 2021 14:57:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NHS England boss Stevens to step down this summer]]></title>
             <description><![CDATA[After seven years in the job Sir Simon will now become a life peer, the government says.]]></description>
             <link>https://www.bbc.co.uk/news/health-56932988</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56932988</guid>
-            <pubDate>Thu, 29 Apr 2021 14:41:35 GMT</pubDate>
+            <pubDate>Thu, 29 Apr 2021 16:32:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grenfell: Campaigners vow to fight fire safety bill]]></title>
-            <description><![CDATA[Campaigners say "a generation of homeowners" face financial ruin after government wins Commons vote.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56924131</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56924131</guid>
-            <pubDate>Thu, 29 Apr 2021 11:31:40 GMT</pubDate>
+            <title><![CDATA[Covid-19: NHS England boss to quit and India elections go ahead despite deaths]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56934296</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56934296</guid>
+            <pubDate>Thu, 29 Apr 2021 16:36:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jon Snow to leave Channel 4 News after 32 years]]></title>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-56929987</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56929987</guid>
             <pubDate>Thu, 29 Apr 2021 14:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nothing to see here, says Boris Johnson over flat costs investigation]]></title>
+            <description><![CDATA[Boris Johnson is facing an investigation into how a refurbishment bill was initially covered.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56926180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56926180</guid>
+            <pubDate>Thu, 29 Apr 2021 14:57:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ryanair told to compensate passengers over strike cancellations]]></title>
@@ -76,7 +83,7 @@
             <description><![CDATA[The death of Julia James is being treated as murder after her body was found in woodland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-56925294</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-56925294</guid>
-            <pubDate>Thu, 29 Apr 2021 15:05:25 GMT</pubDate>
+            <pubDate>Thu, 29 Apr 2021 16:07:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Body found in Thames after boy's Tower Bridge fall]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-56925994</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56925994</guid>
             <pubDate>Thu, 29 Apr 2021 15:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ronan Keating and Jermaine Jenas join The One Show permanently]]></title>
-            <description><![CDATA[The pair will join Alex Jones on the BBC programme's sofa, each co-presenting for part of the week.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56925454</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56925454</guid>
-            <pubDate>Thu, 29 Apr 2021 10:22:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[William and Kate release video to thank supporters]]></title>
@@ -119,6 +119,20 @@
             <link>https://www.bbc.co.uk/news/uk-wales-56920734</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56920734</guid>
             <pubDate>Thu, 29 Apr 2021 10:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Willow Smith opens up about being polyamorous]]></title>
+            <description><![CDATA[The 20-year-old tells her mum and grandma on TV that she doesn't want to just 'step into monogamy'.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56852099</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56852099</guid>
+            <pubDate>Thu, 29 Apr 2021 16:23:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ronan Keating and Jermaine Jenas join The One Show permanently]]></title>
+            <description><![CDATA[The pair will join Alex Jones on the BBC programme's sofa, each co-presenting for part of the week.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56925454</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56925454</guid>
+            <pubDate>Thu, 29 Apr 2021 10:22:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The midnight league blending faith and sport]]></title>
