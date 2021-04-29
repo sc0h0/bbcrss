@@ -1,7 +1,7 @@
-1. [Biden pitches 'once in a generation investment' to Congress](https://www.bbc.co.uk/news/world-us-canada-56923515) - The president lays out jobs, education and social care plans in a televised address to Congress.
-2. [Boris Johnson marking own homework over flat costs - Labour](https://www.bbc.co.uk/news/uk-politics-56922727) - Boris Johnson is coming under pressure to declare when he paid for Downing Street flat redecorations.
-3. [Killed community police officer last seen walking dog](https://www.bbc.co.uk/news/uk-england-kent-56925294) - The death of Julia James is being treated as murder after her body was found in woodland.
-4. [Grenfell: Campaigners vow to fight fire safety bill](https://www.bbc.co.uk/news/uk-politics-56924131) - Campaigners say "a generation of homeowners" face financial ruin after government wins Commons vote.
+1. [Boris Johnson says flat costs investigation 'nothing to worry about'](https://www.bbc.co.uk/news/uk-politics-56926180) - Boris Johnson is facing an investigation into how a refurbishment bill was initially covered.
+2. [Killed community police officer last seen walking dog](https://www.bbc.co.uk/news/uk-england-kent-56925294) - The death of Julia James is being treated as murder after her body was found in woodland.
+3. [Grenfell: Campaigners vow to fight fire safety bill](https://www.bbc.co.uk/news/uk-politics-56924131) - Campaigners say "a generation of homeowners" face financial ruin after government wins Commons vote.
+4. [Biden pitches 'once in a generation investment' to Congress](https://www.bbc.co.uk/news/world-us-canada-56923515) - The president lays out jobs, education and social care plans in a televised address to Congress.
 5. [Body found in Thames after boy's Tower Bridge fall](https://www.bbc.co.uk/news/uk-england-london-56925993) - The body was recovered from the River Thames by marine units on Wednesday afternoon.
 6. [Covid: Turkey prepares for its first full lockdown](https://www.bbc.co.uk/news/world-europe-56912668) - Turkey was seen as a success story early in the pandemic but now has the highest infection rate in Europe.
 7. [West Bengal: India state elections go ahead as deaths hit record high](https://www.bbc.co.uk/news/world-asia-56924549) - Voters in the state of West Bengal go to the polls despite a surge in coronavirus infections.
