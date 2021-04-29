@@ -1,6 +1,6 @@
 1. [Gaunt Navalny attacks Putin as network is disbanded](https://www.bbc.co.uk/news/world-europe-56919934) - President Putin's arch-critic appears after a hunger strike, as his team say they are being destroyed.
 2. [Nothing to see here, says Boris Johnson over flat costs investigation](https://www.bbc.co.uk/news/uk-politics-56926180) - Boris Johnson is facing an investigation into how a refurbishment bill was initially covered.
-3. [NHS England boss Stevens to step down this summer](https://www.bbc.co.uk/news/health-56932988) - After seven years in the job Sir Simon now becomes a life peer, the government says.
+3. [NHS England boss Stevens to step down this summer](https://www.bbc.co.uk/news/health-56932988) - After seven years in the job Sir Simon will now become a life peer, the government says.
 4. [Grenfell: Campaigners vow to fight fire safety bill](https://www.bbc.co.uk/news/uk-politics-56924131) - Campaigners say "a generation of homeowners" face financial ruin after government wins Commons vote.
 5. [Jon Snow to leave Channel 4 News after 32 years](https://www.bbc.co.uk/news/entertainment-arts-56929987) - The long-serving journalist says it is "time to move on" after "three incredible decades".
 6. [Ryanair told to compensate passengers over strike cancellations](https://www.bbc.co.uk/news/business-56929313) - The airline had said strike actions were "extraordinary circumstances", so it did not have to pay compensation.
