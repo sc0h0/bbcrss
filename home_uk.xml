@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Apr 2021 21:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Apr 2021 21:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,18 +65,18 @@
             <pubDate>Thu, 29 Apr 2021 18:01:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gene therapy: 'Now I can see my own face again']]></title>
-            <description><![CDATA[Jake Ternent was the first UK NHS patient to undergo revolutionary gene therapy to improve his sight.]]></description>
-            <link>https://www.bbc.co.uk/news/health-56906002</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56906002</guid>
-            <pubDate>Thu, 29 Apr 2021 16:20:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: France aims to reopen except nightclubs by July]]></title>
             <description><![CDATA[Tourists with a "health pass" will be able to visit France from 9 June, President Macron announces.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56934746</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56934746</guid>
             <pubDate>Thu, 29 Apr 2021 18:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Brazil passes 400,000 deaths amid slow vaccination]]></title>
+            <description><![CDATA[The 14-day average of deaths and cases in the country has seen a slight fall but remains high.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56913943</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56913943</guid>
+            <pubDate>Thu, 29 Apr 2021 21:27:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jon Snow to leave Channel 4 News after 32 years]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-56928583</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56928583</guid>
             <pubDate>Thu, 29 Apr 2021 15:41:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gene therapy: 'Now I can see my own face again']]></title>
+            <description><![CDATA[Jake Ternent was the first UK NHS patient to undergo revolutionary gene therapy to improve his sight.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56906002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56906002</guid>
+            <pubDate>Thu, 29 Apr 2021 16:20:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The scam that targets dog owners]]></title>
