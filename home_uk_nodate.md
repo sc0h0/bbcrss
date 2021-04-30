@@ -1,4 +1,4 @@
-1. [Israel crush: Netanyahu promises inquiry as first victims are buried](https://www.bbc.co.uk/news/world-middle-east-56943755) - A crush at an Orthodox Jewish festival kills 45 people in one of the country's worst disasters.
+1. [Israel crush: Netanyahu promises inquiry as first victims are buried](https://www.bbc.co.uk/news/world-middle-east-56943755) - A crush at a Jewish festival kills 45 people in one of the country's worst disasters.
 2. [Actor Noel Clarke says sorry but denies sexual misconduct](https://www.bbc.co.uk/news/entertainment-arts-56948644) - The actor denies wrongdoing but says some of his actions "affected people in ways I did not intend".
 3. [Covid-19: UK infections fall as clubbers return for trial](https://www.bbc.co.uk/news/uk-56946226) - Five things you need to know about the coronavirus pandemic this Friday evening.
 4. [Covid-19 infections in UK back to late summer levels - ONS](https://www.bbc.co.uk/news/health-56945084) - The ONS estimates infections are 20 times lower than at the peak in January with 0.1% infected.
