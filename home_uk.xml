@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Apr 2021 11:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Apr 2021 11:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,18 @@
             <pubDate>Fri, 30 Apr 2021 11:20:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Julia James: Community officer died from significant head injuries]]></title>
+            <title><![CDATA[Julia James: Police community officer died from head injuries]]></title>
             <description><![CDATA[Police say they have no motive or suspects following the death of PCSO Julia James near Dover.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-56940075</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-56940075</guid>
             <pubDate>Fri, 30 Apr 2021 11:35:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Benjamin Hannam: Met PC who was neo-Nazi group member is jailed]]></title>
+            <description><![CDATA[Benjamin Hannam was the first British officer to be convicted of a terrorism offence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56941544</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56941544</guid>
+            <pubDate>Fri, 30 Apr 2021 11:53:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noel Clarke: Sky halts work with actor after harassment allegations]]></title>
@@ -79,11 +86,11 @@
             <pubDate>Fri, 30 Apr 2021 08:52:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Barclays boss predicts biggest economic boom since 1948]]></title>
-            <description><![CDATA[Jes Staley gives his upbeat assessment on the day Barclays reveals profits have more than doubled.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56940141</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56940141</guid>
-            <pubDate>Fri, 30 Apr 2021 08:07:06 GMT</pubDate>
+            <title><![CDATA[Covid: UK clubbers set to return to Liverpool for trial night]]></title>
+            <description><![CDATA[A club in Liverpool opens its dance floor for a trial event with no social distancing or masks.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56943652</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56943652</guid>
+            <pubDate>Fri, 30 Apr 2021 11:50:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: Anger over government's failure to get Norway fishing deal]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Fri, 30 Apr 2021 11:08:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Heartbreaking' return to St Vincent's volcano-hit 'red zone']]></title>
-            <description><![CDATA[A teacher returns to a village in St Vincent's restricted, volcano-damaged 'red zone'.]]></description>
-            <link>https://www.bbc.co.uk/news/world-56934596</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56934596</guid>
-            <pubDate>Thu, 29 Apr 2021 23:02:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[These people aren't real but could help tackle bias in tech]]></title>
             <description><![CDATA[How technology that generates fake faces is helping to tackle bias in facial recognition systems.]]></description>
             <link>https://www.bbc.co.uk/news/stories-56895935</link>
@@ -107,11 +107,11 @@
             <pubDate>Fri, 30 Apr 2021 08:13:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'Strictly want Carrie' and Clarke denies claims]]></title>
-            <description><![CDATA[Friday's papers continue to report the row over the PM's flat - and allegations against actor Noel Clarke.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-56938107</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56938107</guid>
-            <pubDate>Fri, 30 Apr 2021 05:07:33 GMT</pubDate>
+            <title><![CDATA['Heartbreaking' return to St Vincent's volcano-hit 'red zone']]></title>
+            <description><![CDATA[A teacher returns to a village in St Vincent's restricted, volcano-damaged 'red zone'.]]></description>
+            <link>https://www.bbc.co.uk/news/world-56934596</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56934596</guid>
+            <pubDate>Thu, 29 Apr 2021 23:02:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World's longest pedestrian suspension bridge to open in Portugal]]></title>
@@ -126,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/in-pictures-56929622</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56929622</guid>
             <pubDate>Thu, 29 Apr 2021 23:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Strictly want Carrie' and Clarke denies claims]]></title>
+            <description><![CDATA[Friday's papers continue to report the row over the PM's flat - and allegations against actor Noel Clarke.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56938107</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56938107</guid>
+            <pubDate>Fri, 30 Apr 2021 05:07:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bradley to host BBC's new Blankety Blank series]]></title>
