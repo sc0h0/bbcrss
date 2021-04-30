@@ -2,7 +2,7 @@
 2. [Covid: More than 20 million living in areas with zero deaths](https://www.bbc.co.uk/news/health-56923757) - Analysis by the BBC suggests the UK is moving into a new phase of the pandemic.
 3. [Julia James: Community officer died from significant head injuries](https://www.bbc.co.uk/news/uk-england-kent-56940075) - Police say they have no motive or suspects following the death of PCSO Julia James near Dover.
 4. [Noel Clarke: Sky halts work with actor after harassment allegations](https://www.bbc.co.uk/news/entertainment-arts-56940444) - The broadcaster says it has stopped the Bulletproof star's involvement in any future productions.
-5. [Apple charged over 'anti-competitive' app polices](https://www.bbc.co.uk/news/technology-56941173) - The tech giant faces a huge fine and may be forced to make changes to the App Store.
+5. [Apple charged over 'anti-competitive' app policies](https://www.bbc.co.uk/news/technology-56941173) - The tech giant faces a huge fine and may be forced to make changes to the App Store.
 6. [Boris Johnson's personal mobile phone number available online for 15 years](https://www.bbc.co.uk/news/uk-politics-56937889) - Labour warns of security issues after Boris Johnson's digits are discovered in a 2006 press release.
 7. [India Covid: Delhi running out of space for cremations](https://www.bbc.co.uk/news/world-asia-india-56939011) - Police in India's capital ask for more cremation sites as a deadly second wave sweeps the country.
 8. [Queen mourned husband Philip with bravery, says Mike Tindall](https://www.bbc.co.uk/news/uk-56940874) - The ex-England rugby player praises the Queen's stoicism at the "beautifully done" funeral service.
