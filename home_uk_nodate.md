@@ -1,5 +1,5 @@
 1. [Israel crush: Netanyahu vows to investigate 'terrible disaster'](https://www.bbc.co.uk/news/world-middle-east-56943755) - Benjamin Netanyahu visits the scene of a crush at a religious festival that left dozens dead.
-2. [ITV drops Viewpoint drama after Noel Clarke allegations](https://www.bbc.co.uk/news/entertainment-arts-56940444) - The broadcaster says it has "a zero tolerance policy" to harassment as it pulls Viewpoint finale.
+2. [ITV drops Viewpoint drama after Noel Clarke allegations](https://www.bbc.co.uk/news/entertainment-arts-56940444) - The broadcaster says it has "a zero tolerance policy" to harassment as it pulls Viewpoint's finale.
 3. [Covid-19 infections in UK back to late summer levels - ONS](https://www.bbc.co.uk/news/health-56945084) - The ONS estimates infections are 20 times lower than at the peak in January with 0.1% infected.
 4. [Julia James: Police community officer died from head injuries](https://www.bbc.co.uk/news/uk-england-kent-56940075) - Police say they have no motive or suspects following the death of PCSO Julia James near Dover.
 5. [Benjamin Hannam: Former Met PC who was neo-Nazi group member is jailed](https://www.bbc.co.uk/news/uk-england-london-56941544) - Benjamin Hannam was the first British officer to be convicted of a terrorism offence.
