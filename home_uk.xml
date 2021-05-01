@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 May 2021 20:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 20:44:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,20 +58,6 @@
             <pubDate>Sat, 01 May 2021 18:02:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Children will suffer, Unicef warns as UK funding cut by 60%]]></title>
-            <description><![CDATA[The government says the "tough decision" to reduce its contributions by 60% was due to the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56957577</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56957577</guid>
-            <pubDate>Sat, 01 May 2021 14:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel crush: Israel mourns as festival crush victims identified]]></title>
-            <description><![CDATA[Some 32 of those killed in a stampede at a Jewish festival are identified, with funerals to follow.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56955396</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56955396</guid>
-            <pubDate>Sat, 01 May 2021 10:18:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US man detained after private jet lands in Sicily with guns and drugs]]></title>
             <description><![CDATA[A 64-year-old is detained after police discover pistols and bows and arrows on his private jet.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56956600</link>
@@ -79,11 +65,25 @@
             <pubDate>Sat, 01 May 2021 19:06:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Children will suffer, Unicef warns as UK funding cut by 60%]]></title>
+            <description><![CDATA[The government says the "tough decision" to reduce its contributions by 60% was due to the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56957577</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56957577</guid>
+            <pubDate>Sat, 01 May 2021 14:43:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yangtze storm: Violent winds kill 11 in Nantong, China]]></title>
             <description><![CDATA[At least 11 people are dead and scores hurt after a violent storm hit eastern China on Friday evening.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-56954716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56954716</guid>
             <pubDate>Sat, 01 May 2021 09:39:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fintona: Police officer knocked unconscious at bar]]></title>
+            <description><![CDATA[One officer was knocked out and another was also punched at the premises in County Tyrone.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56957767</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56957767</guid>
+            <pubDate>Sat, 01 May 2021 14:55:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PCSO Julia James: Searches as murder probe continues]]></title>
