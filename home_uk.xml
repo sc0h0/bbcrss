@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 May 2021 17:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 18:00:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,18 +65,18 @@
             <pubDate>Sat, 01 May 2021 10:18:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Care home isolation rule axed for low-risk trips in England]]></title>
-            <description><![CDATA[The rules will be relaxed in England - allowing for day trips without 14 days' quarantine afterwards.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56951974</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56951974</guid>
-            <pubDate>Sat, 01 May 2021 09:17:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Clubbers' joy at returning to the dance floor in Liverpool]]></title>
             <description><![CDATA[DJs and dancers share their experiences of the "big energy" at the first club night since lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-56956244</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-56956244</guid>
             <pubDate>Sat, 01 May 2021 10:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Care home isolation rule axed for low-risk trips in England]]></title>
+            <description><![CDATA[The rules will be relaxed in England - allowing for day trips without 14 days' quarantine afterwards.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56951974</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56951974</guid>
+            <pubDate>Sat, 01 May 2021 09:17:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yangtze storm: Violent winds kill 11 in Nantong, China]]></title>
@@ -273,6 +273,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/56949358</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56949358</guid>
             <pubDate>Fri, 30 Apr 2021 15:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crystal Palace 0-2 Man City: Pep Guardiola praises Sergio Aguero after victory]]></title>
+            <description><![CDATA[Pep Guardiola heaps praise on Sergio Aguero after he returns to the team and scores in Manchester City's 2-0 win at Crystal Palace.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/56956050</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/56956050</guid>
+            <pubDate>Sat, 01 May 2021 14:33:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
