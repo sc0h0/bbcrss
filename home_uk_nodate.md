@@ -1,4 +1,4 @@
-1. [Covid: Care home isolation rule axed for low-risk trips in England](https://www.bbc.co.uk/news/uk-56951974) - The rules will be relaxed in England - allowing for trips without 14 days' quarantine afterwards.
+1. [Covid: Care home isolation rule axed for low-risk trips in England](https://www.bbc.co.uk/news/uk-56951974) - The rules will be relaxed in England - allowing for day trips without 14 days' quarantine afterwards.
 2. [South Asians in UK at greater risk from Covid](https://www.bbc.co.uk/news/health-56944739) - People from an Indian, Pakistani or Bangladeshi background suffered more, the Lancet study shows.
 3. [Clubbing returns: 'This is the best day of my life'](https://www.bbc.co.uk/news/newsbeat-56951642) - For the first time since the pandemic began, a nightclub opens its doors.
 4. [Game of Thrones actress sues Marilyn Manson alleging abuse](https://www.bbc.co.uk/news/world-us-canada-56951794) - Game of Thrones actress Esmé Bianco accuses the singer of rape and sexual battery.
