@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 May 2021 07:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 08:09:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,13 +65,6 @@
             <pubDate>Fri, 30 Apr 2021 21:30:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Giant 300-tonne fatberg blocks Birmingham sewer]]></title>
-            <description><![CDATA[Severn Trent says the mass of oil, grease and "unflushable" items could take until June to clear.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56952152</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56952152</guid>
-            <pubDate>Fri, 30 Apr 2021 20:23:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wood burners: Sale of coal and wet wood restricted in England]]></title>
             <description><![CDATA[Owners of wood burners and open fires will need to burn cleaner alternatives as new rules come into force.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-56949426</link>
@@ -100,11 +93,25 @@
             <pubDate>Fri, 30 Apr 2021 23:26:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Met PC sacked for hitting vulnerable teenage girl with baton 34 times]]></title>
+            <description><![CDATA[PC Benjamin Kemp also used CS spray after unsuccessfully trying to handcuff the teenager.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56950484</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56950484</guid>
+            <pubDate>Fri, 30 Apr 2021 17:30:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Papers: 'Holidays from 17 May' and 'care home freedom']]></title>
             <description><![CDATA[Saturday's papers include details of plans to further ease lockdown restrictions in England.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-56952475</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56952475</guid>
             <pubDate>Sat, 01 May 2021 04:43:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Giant 300-tonne fatberg blocks Birmingham sewer]]></title>
+            <description><![CDATA[Severn Trent says the mass of oil, grease and "unflushable" items could take until June to clear.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-56952152</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-56952152</guid>
+            <pubDate>Fri, 30 Apr 2021 20:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is this the 'most instagrammable' bird?]]></title>
