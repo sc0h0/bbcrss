@@ -1,7 +1,7 @@
 1. [Covid: Care home isolation rule axed for low-risk trips in England](https://www.bbc.co.uk/news/uk-56951974) - The rules will be relaxed in England - allowing for day trips without 14 days' quarantine afterwards.
-2. [Covid-19: Scientist urges patience before 17 May lockdown relaxation](https://www.bbc.co.uk/news/uk-56955105) - Government adviser Prof Sir Mark Wolpert says there is "good news" but the virus could "reignite".
+2. [Covid-19: Scientist urges patience before 17 May lockdown relaxation](https://www.bbc.co.uk/news/uk-56955105) - Government adviser Prof Sir Mark Wolport says there is "good news" but the virus could "reignite".
 3. [Israel crush: Israel mourns as festival crush victims identified](https://www.bbc.co.uk/news/world-middle-east-56955396) - Some 32 of those killed in a stampede at a Jewish festival are identified, with funerals to follow.
-4. [Clubbing returns: 'This is the best day of my life'](https://www.bbc.co.uk/news/newsbeat-56951642) - For the first time since the pandemic began, a nightclub opens its doors.
+4. [Clubbers' joy at returning to the dance floor in Liverpool](https://www.bbc.co.uk/news/uk-england-merseyside-56956244) - DJs and dancers share their experiences of the "big energy" at the first club night since lockdown.
 5. [Elliot Page on Oprah Winfrey: Transition surgery 'life-saving'](https://www.bbc.co.uk/news/world-us-canada-56952345) - The actor tells Oprah Winfrey transitioning made him "feel comfortable in my body for the first time".
 6. [South Asians in UK at greater risk from Covid](https://www.bbc.co.uk/news/health-56944739) - People from an Indian, Pakistani or Bangladeshi background suffered more, the Lancet study shows.
 7. [Do you know where plastic waste in the oceans is coming from?](https://www.bbc.co.uk/news/science-environment-56937300) - The Ocean Cleanup suggests plastic pollution comes from more rivers in the world than previously thought.
