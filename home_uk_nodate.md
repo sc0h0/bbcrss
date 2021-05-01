@@ -4,8 +4,8 @@
 4. [Game of Thrones actress sues Marilyn Manson alleging abuse](https://www.bbc.co.uk/news/world-us-canada-56951794) - Game of Thrones actress Esmé Bianco accuses the singer of rape and sexual battery.
 5. [Elliot Page on Oprah Winfrey: Transition surgery 'life-saving'](https://www.bbc.co.uk/news/world-us-canada-56952345) - The actor tells Oprah Winfrey transitioning made him "feel comfortable in my body for the first time".
 6. [Do you know where plastic waste in the oceans is coming from?](https://www.bbc.co.uk/news/science-environment-56937300) - The Ocean Cleanup suggests plastic pollution comes from more rivers in the world than previously thought.
-7. [Israel crush: Netanyahu promises inquiry as first victims are buried](https://www.bbc.co.uk/news/world-middle-east-56943755) - A crush at a Jewish festival kills 45 people in one of the country's worst disasters.
-8. [Giant 300-tonne fatberg blocks Birmingham sewer](https://www.bbc.co.uk/news/uk-england-birmingham-56952152) - Severn Trent says the mass of oil, grease and "unflushable" items could take until June to clear.
+7. [Giant 300-tonne fatberg blocks Birmingham sewer](https://www.bbc.co.uk/news/uk-england-birmingham-56952152) - Severn Trent says the mass of oil, grease and "unflushable" items could take until June to clear.
+8. [Covid: Australians could face jail or fines if they return from India](https://www.bbc.co.uk/news/world-australia-56953052) - Australia makes it temporarily illegal to return from India, which is being ravaged by Covid-19.
 9. [Florida plans to fine social media for banning politicians](https://www.bbc.co.uk/news/technology-56952435) - The Florida bill proposes fines up to $250,000 per day for companies which violate the rules.
 10. [Covid-19: Campaign for St Paul's memorial to virus victims](https://www.bbc.co.uk/news/uk-56951552) - It would see an online book of remembrance installed in a new structure at the cathedral.
 11. [Wood burners: Sale of coal and wet wood restricted in England](https://www.bbc.co.uk/news/science-environment-56949426) - Owners of wood burners and open fires will need to burn cleaner alternatives as new rules come into force.
