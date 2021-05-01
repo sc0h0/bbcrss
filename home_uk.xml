@@ -11,37 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 May 2021 16:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 17:19:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[India coronavirus: Over-18s vaccination drive hit by shortages]]></title>
+            <description><![CDATA[States say they don't have enough doses for people aged 18-45, as new coronavirus cases pass 400,000.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56345591</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56345591</guid>
+            <pubDate>Sat, 01 May 2021 12:43:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Scientist urges patience before 17 May lockdown relaxation]]></title>
             <description><![CDATA[Government adviser Prof Sir Mark Walport says there is "good news" but the virus could "reignite".]]></description>
             <link>https://www.bbc.co.uk/news/uk-56955105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56955105</guid>
-            <pubDate>Sat, 01 May 2021 15:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US and Nato start to formally withdraw troops from Afghanistan]]></title>
-            <description><![CDATA[The move will bring to an end the US' longest war but prompted a new warning from the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56955702</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56955702</guid>
-            <pubDate>Sat, 01 May 2021 13:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Care home isolation rule axed for low-risk trips in England]]></title>
-            <description><![CDATA[The rules will be relaxed in England - allowing for day trips without 14 days' quarantine afterwards.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56951974</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56951974</guid>
-            <pubDate>Sat, 01 May 2021 09:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noel Clarke: Report made to police after allegations against actor]]></title>
-            <description><![CDATA[The actor denies any sexual misconduct or criminal wrongdoing and no police investigation has begun.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56956429</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56956429</guid>
-            <pubDate>Sat, 01 May 2021 13:57:00 GMT</pubDate>
+            <pubDate>Sat, 01 May 2021 16:32:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five arrested in right-wing terror raids across England and Wales]]></title>
@@ -51,18 +37,18 @@
             <pubDate>Sat, 01 May 2021 14:41:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India coronavirus: Over-18s vaccination drive hit by shortages]]></title>
-            <description><![CDATA[States say they don't have enough doses for people aged 18-45, as new coronavirus cases pass 400,000.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56345591</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56345591</guid>
-            <pubDate>Sat, 01 May 2021 12:43:45 GMT</pubDate>
+            <title><![CDATA[US and Nato start to formally withdraw troops from Afghanistan]]></title>
+            <description><![CDATA[The move will bring to an end the US' longest war but prompted a new warning from the Taliban.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56955702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56955702</guid>
+            <pubDate>Sat, 01 May 2021 13:20:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clubbers' joy at returning to the dance floor in Liverpool]]></title>
-            <description><![CDATA[DJs and dancers share their experiences of the "big energy" at the first club night since lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-56956244</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-56956244</guid>
-            <pubDate>Sat, 01 May 2021 10:34:39 GMT</pubDate>
+            <title><![CDATA[Noel Clarke: Report made to police after allegations against actor]]></title>
+            <description><![CDATA[The actor denies any sexual misconduct or criminal wrongdoing and no police investigation has begun.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56956429</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56956429</guid>
+            <pubDate>Sat, 01 May 2021 16:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Children will suffer, Unicef warns as UK funding cut by 60%]]></title>
@@ -77,6 +63,27 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-56955396</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56955396</guid>
             <pubDate>Sat, 01 May 2021 10:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Care home isolation rule axed for low-risk trips in England]]></title>
+            <description><![CDATA[The rules will be relaxed in England - allowing for day trips without 14 days' quarantine afterwards.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56951974</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56951974</guid>
+            <pubDate>Sat, 01 May 2021 09:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clubbers' joy at returning to the dance floor in Liverpool]]></title>
+            <description><![CDATA[DJs and dancers share their experiences of the "big energy" at the first club night since lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-56956244</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-56956244</guid>
+            <pubDate>Sat, 01 May 2021 10:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yangtze storm: Violent winds kill 11 in Nantong, China]]></title>
+            <description><![CDATA[At least 11 people are dead and scores hurt after a violent storm hit eastern China on Friday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-56954716</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56954716</guid>
+            <pubDate>Sat, 01 May 2021 09:39:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PCSO Julia James: Searches as murder probe enters fifth day]]></title>
@@ -241,7 +248,7 @@
         </item>
         <item>
             <title><![CDATA[Bottas beats team-mate Hamilton to Portuguese Grand Prix pole position]]></title>
-            <description><![CDATA[Valtteri Bottas beat Mercedes team-mate Lewis Hamilton to pole position in a bizarre qualifying session at the Portuguese Grand Prix.]]></description>
+            <description><![CDATA[Valtteri Bottas beats Mercedes team-mate Lewis Hamilton to pole position in a bizarre qualifying session at the Portuguese Grand Prix.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/56957669</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/56957669</guid>
             <pubDate>Sat, 01 May 2021 16:24:23 GMT</pubDate>
@@ -251,7 +258,7 @@
             <description><![CDATA[Brighton move closer to securing Premier League safety as victory over Leeds United opens a 10-point gap to the relegation places.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56869466</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56869466</guid>
-            <pubDate>Sat, 01 May 2021 16:08:12 GMT</pubDate>
+            <pubDate>Sat, 01 May 2021 16:57:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Abuse needs to stop' - Ashley Williams & Alex Scott on social media boycott]]></title>
