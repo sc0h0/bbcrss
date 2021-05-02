@@ -2,7 +2,7 @@
 2. [North Korea accuses Joe Biden of pursuing hostile policy over its nuclear programme](https://www.bbc.co.uk/news/world-asia-56960008) - The denouncement comes as the White House prepares to unveil its "calibrated" approach to North Korea.
 3. [Caitlyn Jenner opposes trans girls in women's sports as unfair](https://www.bbc.co.uk/news/world-us-canada-56960011) - The former Olympic athlete, who came out as a trans woman in 2015, is running for California governor.
 4. [The man who lives on one of the UK's remotest islands](https://www.bbc.co.uk/news/uk-northern-ireland-56929674) - As lockdown restrictions began to ease, a conservationist from NI moved to a remote UK island.
-5. [Princess Charlotte celebrates sixth birthday](https://www.bbc.co.uk/news/uk-56957564) - A photo of the fourth in line to the throne, taken by her mother, is released to mark the day.
+5. [Princess Charlotte celebrates her sixth birthday](https://www.bbc.co.uk/news/uk-56957564) - A photo of the fourth in line to the throne, taken by her mother, is released to mark the day.
 6. [Don't trust caller ID on phones, says Ofcom](https://www.bbc.co.uk/news/business-56934517) - The service should not be used as a means of verifying identity in the battle against fraud, Ofcom says.
 7. [Surgery in the womb: 'I've done the best for her'](https://www.bbc.co.uk/news/education-56945821) - Helena Purcell travelled to Belgium for an NHS-funded procedure on her unborn baby's spina bifida.
 8. [Fintona: Police officer knocked unconscious at bar](https://www.bbc.co.uk/news/uk-northern-ireland-56957767) - One officer was knocked out and another was also punched at the premises in County Tyrone.
