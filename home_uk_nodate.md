@@ -15,7 +15,7 @@
 15. [Sweden's IVF programme for single women not 'as good as hoped'](https://www.bbc.co.uk/news/world-europe-56859427) - In 2016, single women in the country were given the same rights as couples to access fertility treatments.
 16. [Ian Wright and Alan Shearer discuss the impact of racist online abuse](https://www.bbc.co.uk/sport/av/football/56949358) - Ian Wright sits down with Alan Shearer to discuss the effect of racist abuse online and shows him an abusive direct message he received that morning.
 17. [The man who lives on one of the UK's remotest islands](https://www.bbc.co.uk/news/uk-northern-ireland-56929674) - As lockdown restrictions began to ease, a conservationist from NI moved to a remote UK island.
-18. [Dirty Vegan star nears end of cross-Atlantic row](https://www.bbc.co.uk/news/uk-wales-56921357) - Celebrity chef Matt Pritchard injures his back rowing the Atlantic for charity in a four-man crew.
+18. [Dirty Vegan star nears end of cross-Atlantic row](https://www.bbc.co.uk/news/uk-wales-56921357) - Celebrity chef Matt Pritchard rows the Atlantic Ocean in a four-man crew's charity challenge.
 19. [Princess Charlotte celebrates her sixth birthday](https://www.bbc.co.uk/news/uk-56957564) - A photo of the fourth in line to the throne, taken by her mother, is released to mark the day.
 20. [Blossoms singer Tom Ogden: The joy of headlining the UK's first post-lockdown gig](https://www.bbc.co.uk/news/newsbeat-56944509) - Stockport band Blossoms will perform for 5,000 people on Sunday, with no masks or social distancing.
 21. [Coronavirus: The impact on the deaf community](https://www.bbc.co.uk/news/uk-56913227) - Fresh calls for change are being made as the deaf community continues to be disproportionately affected by the pandemic.
