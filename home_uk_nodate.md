@@ -6,7 +6,7 @@
 6. [Nazanin Zaghari-Ratcliffe: Iran treatment 'amounts to torture', says Dominic Raab](https://www.bbc.co.uk/news/uk-56963590) - The foreign secretary says Tehran's sentencing of the UK-Iranian national is "abusive" and unlawful.
 7. [Surgery in the womb: 'I've done the best for her'](https://www.bbc.co.uk/news/education-56945821) - Helena Purcell travelled to Belgium for an NHS-funded procedure on her unborn baby's spina bifida.
 8. [Israel crush: Day of mourning after dozens killed at Jewish festival](https://www.bbc.co.uk/news/world-middle-east-56961945) - The country grieves after a crush at a Jewish festival killed 45 men and boys and injured many others.
-9. [Man Utd: Fans protest against owners on Old Trafford pitch](https://www.bbc.co.uk/sport/football/56960091) - Manchester United fans break on to the pitch of Old Trafford to protest against the club's ownership under the Glazer family.
+9. [Man Utd: Fans protest on pitch against owners](https://www.bbc.co.uk/sport/football/56960091) - Manchester United fans break on to the pitch of Old Trafford to protest against the club's ownership under the Glazer family.
 10. [Car park operator NCP seeks rent cuts to survive](https://www.bbc.co.uk/news/business-56962532) - The company says it will become insolvent if landlords do not agree to cut rents on its 500 sites.
 11. [Walton-on-the-Naze: 'People are almost panic buying beach huts'](https://www.bbc.co.uk/news/uk-england-essex-56901720) - Beach huts have never been so in demand in an Essex seaside town - what's all the fuss about?
 12. [Line of Duty: Five unanswered questions for the series six finale](https://www.bbc.co.uk/news/entertainment-arts-56903634) - Ahead of the series six finale, these key questions definately need more than "no comment".
