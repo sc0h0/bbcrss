@@ -7,9 +7,9 @@
 7. [Gyms open and friends hug as rules relax in Wales](https://www.bbc.co.uk/news/uk-wales-56929301) - Some families and friends can hug again as Covid rules continue to be relaxed.
 8. [NI 100: 'Peace in Northern Ireland is credit to people'](https://www.bbc.co.uk/news/uk-northern-ireland-56966270) - Queen Elizabeth marks centenary of Northern Ireland with tribute to people and peace process.
 9. [Apetamin: Instagram criticised over weight gain drug](https://www.bbc.co.uk/news/health-56930654) - NHS England calls for a clamp down on the targeting of the "dangerous" unlicensed drug at young women.
-10. [G7: Rich states want to send 40m more girls to school](https://www.bbc.co.uk/news/uk-56965963) - Foreign ministers at a London summit pledge $15bn (£10.8bn) to help women in developing countries.
-11. [Why can't Google get a grip on rip-off ads?](https://www.bbc.co.uk/news/technology-56886957) - Shyster websites topped the search results every time during a 12-month BBC investigation.
-12. [Rome Colosseum: Italy unveils plan for new floor with gladiator’s view](https://www.bbc.co.uk/news/world-europe-56966365) - Work on a wooden, retractable floor at the Roman landmark is expected to be finished by 2023.
+10. [Vax Live: Prince Harry makes vaccine plea at concert in LA](https://www.bbc.co.uk/news/world-us-canada-56969294) - The Duke of Sussex appears with Jennifer Lopez and President Biden at a star-studded charity show.
+11. [G7: Rich states want to send 40m more girls to school](https://www.bbc.co.uk/news/uk-56965963) - Foreign ministers at a London summit pledge $15bn (£10.8bn) to help women in developing countries.
+12. [Why can't Google get a grip on rip-off ads?](https://www.bbc.co.uk/news/technology-56886957) - Shyster websites topped the search results every time during a 12-month BBC investigation.
 13. [Trees planted by hospital treating Covid patient](https://www.bbc.co.uk/news/science-environment-56944931) - Staff from a Cardiff intensive care unit are offsetting the environmental impact of treating patients.
 14. [The Papers: 'Fever pitch' at Old Trafford](https://www.bbc.co.uk/news/blogs-the-papers-56967159) - Monday's front pages focus on protests at Manchester United's ground, and social distancing rules.
 15. [Shearer and Jenas on Man Utd fans' protest](https://www.bbc.co.uk/sport/av/football/56967078) - Match of the Day 2 pundits Alan Shearer and Jermaine Jenas discuss the protests against the Glazer family which led to the postponement of Manchester United's game against Liverpool.
@@ -37,7 +37,7 @@
 37. [Man Utd v Liverpool off after fans' protest at Old Trafford](https://www.bbc.co.uk/sport/football/56960091) - Manchester United's game against Liverpool is postponed after about 200 fans break into Old Trafford to protest against the Glazers' ownership.
 38. [2021 elections: A simple guide to the Scottish, Welsh and local elections](https://www.bbc.co.uk/news/uk-politics-56286643) - A bumper crop of elections are being held on 6 May across England, Scotland and Wales.
 39. [2021 elections: What elections can I vote in this year?](https://www.bbc.co.uk/news/56129210) - National elections in Scotland and Wales and local elections in England are scheduled for 6 May 2021.
-40. [Scottish election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56510773) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
+40. [Wales election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-wales-politics-56499726) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
 41. [Shaun Bailey: 'Politics isn't scary when you've seen stabbings'](https://www.bbc.co.uk/news/uk-england-london-56913497) - Shaun Bailey says having grown up poor and been homeless in London, politics does not phase him.
 42. [Elections 2021: Why a lack of buses is a key issue for voters](https://www.bbc.co.uk/news/uk-england-56827739) - Infrequent buses and cancelled services - why public transport is a vital topic for young voters.
 43. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
