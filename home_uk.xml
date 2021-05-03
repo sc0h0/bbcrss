@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 May 2021 07:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 07:43:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -59,10 +59,17 @@
         </item>
         <item>
             <title><![CDATA[Gyms open and friends hug as rules relax in Wales]]></title>
-            <description><![CDATA[Some families and friends can hug again from Monday in Wales as Covid rules continue to ease.]]></description>
+            <description><![CDATA[Some families and friends can hug again as Covid rules continue to be relaxed.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-56929301</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56929301</guid>
-            <pubDate>Mon, 03 May 2021 05:07:23 GMT</pubDate>
+            <pubDate>Mon, 03 May 2021 07:36:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NI 100: "Peace in Northern Ireland is credit to people"]]></title>
+            <description><![CDATA[Queen Elizabeth marks centenary of Northern Ireland with tribute to people and peace process.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56966270</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56966270</guid>
+            <pubDate>Mon, 03 May 2021 07:39:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apetamin: Instagram criticised over weight gain drug]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Mon, 03 May 2021 06:36:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India elections: Modi party defeated in West Bengal battleground]]></title>
-            <description><![CDATA[India's PM has been criticised for focusing on the election as the virus grips the country.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-56964703</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56964703</guid>
-            <pubDate>Mon, 03 May 2021 03:27:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why can't Google get a grip on rip-off ads?]]></title>
             <description><![CDATA[Shyster websites topped the search results every time during a 12-month BBC investigation.]]></description>
             <link>https://www.bbc.co.uk/news/technology-56886957</link>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-56966365</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56966365</guid>
             <pubDate>Sun, 02 May 2021 22:07:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspected migrant boat breaks up off San Diego, killing three]]></title>
-            <description><![CDATA[Three people die and some two dozen are injured after the cabin cruiser breaks up close to shore.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56967210</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56967210</guid>
-            <pubDate>Mon, 03 May 2021 03:17:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Fever pitch' at Old Trafford]]></title>
@@ -177,7 +170,7 @@
             <pubDate>Sat, 01 May 2021 23:07:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India Covid: Hospitals plead for help as more patients die]]></title>
+            <title><![CDATA[India Covid: Delhi hospitals plead for oxygen as more patients die]]></title>
             <description><![CDATA[Desperate messages continued on Sunday night as Delhi's oxygen crisis shows no signs of abating.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56940595</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56940595</guid>
