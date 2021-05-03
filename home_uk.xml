@@ -11,30 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 May 2021 10:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 11:19:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Covid-19: No limit on funeral mourners in England from 17 May]]></title>
-            <description><![CDATA[The government is preparing to remove the 30-person legal limit a month earlier than planned.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56966731</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56966731</guid>
-            <pubDate>Mon, 03 May 2021 08:36:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Gyms open and friends hug as rules relax in Wales]]></title>
             <description><![CDATA[Some families and friends can hug again as Covid rules continue to be relaxed.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-56929301</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56929301</guid>
             <pubDate>Mon, 03 May 2021 08:49:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Why some mosques are closed to women during Ramadan]]></title>
-            <description><![CDATA[Ramadan is marked by Muslims worldwide - but some UK mosques aren't letting women in.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56937289</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56937289</guid>
-            <pubDate>Mon, 03 May 2021 00:05:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI 100: 'Peace in Northern Ireland is credit to people']]></title>
@@ -44,6 +30,13 @@
             <pubDate>Mon, 03 May 2021 08:44:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coronavirus: Why some mosques are closed to women during Ramadan]]></title>
+            <description><![CDATA[Ramadan is marked by Muslims worldwide - but some UK mosques aren't letting women in.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56937289</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56937289</guid>
+            <pubDate>Mon, 03 May 2021 11:09:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Line of Duty finale lands record ratings]]></title>
             <description><![CDATA[An average audience of 12.8 million viewers tune into the final episode of the drama's sixth series.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-56945425</link>
@@ -51,18 +44,18 @@
             <pubDate>Mon, 03 May 2021 10:46:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Four held in German-led raid on huge child sexual abuse network]]></title>
-            <description><![CDATA[German police say a dark web club for sharing images of child sex abuse had more than 400,000 users.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56969414</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56969414</guid>
-            <pubDate>Mon, 03 May 2021 10:18:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Apetamin: Instagram criticised over weight gain drug]]></title>
             <description><![CDATA[NHS England calls for a clamp down on the targeting of the "dangerous" unlicensed drug at young women.]]></description>
             <link>https://www.bbc.co.uk/news/health-56930654</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56930654</guid>
             <pubDate>Sun, 02 May 2021 23:49:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four held in German-led raid on huge child sexual abuse network]]></title>
+            <description><![CDATA[German police say a dark web club for sharing images of child sex abuse had more than 400,000 users.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56969414</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56969414</guid>
+            <pubDate>Mon, 03 May 2021 10:18:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Billie Eilish: Sexual misconduct is everywhere]]></title>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/uk-56965963</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56965963</guid>
             <pubDate>Mon, 03 May 2021 08:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: No limit on funeral mourners in England from 17 May]]></title>
+            <description><![CDATA[The government is preparing to remove the 30-person legal limit a month earlier than planned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56966731</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56966731</guid>
+            <pubDate>Mon, 03 May 2021 08:36:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vax Live: Prince Harry makes vaccine plea at concert in LA]]></title>
@@ -247,6 +247,13 @@
             <pubDate>Sat, 01 May 2021 23:56:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How Lukaku's resurgence fired Inter to first Serie A title for 11 years]]></title>
+            <description><![CDATA[BBC Sport looks at Belgium striker Romelu Lukaku's importance in Inter Milan's first Serie A title in 11 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56966749</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56966749</guid>
+            <pubDate>Mon, 03 May 2021 05:36:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[World Snooker Championship: Mark Selby delivers vintage display to lead Shaun Murphy]]></title>
             <description><![CDATA[Mark Selby delivers a vintage display to come from behind to open up a three-frame lead against Shaun Murphy in the World Championship final]]></description>
             <link>https://www.bbc.co.uk/sport/snooker/56964742</link>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/56969403</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56969403</guid>
             <pubDate>Mon, 03 May 2021 09:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Lukaku's resurgence fired Inter to first Serie A title for 11 years]]></title>
-            <description><![CDATA[BBC Sport looks at Belgium striker Romelu Lukaku's importance in Inter Milan's first Serie A title in 11 years.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56966749</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56966749</guid>
-            <pubDate>Mon, 03 May 2021 05:36:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I almost can't let the tears go' - Hayes overwhelmed as Chelsea reach Champions League final]]></title>
@@ -282,11 +282,11 @@
             <pubDate>Sun, 02 May 2021 21:05:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2021 elections: A simple guide to the Scottish, Welsh and local elections]]></title>
-            <description><![CDATA[A bumper crop of elections are being held on 6 May across England, Scotland and Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-56286643</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56286643</guid>
-            <pubDate>Thu, 29 Apr 2021 09:34:29 GMT</pubDate>
+            <title><![CDATA[Scottish election 2021: Has the campaign changed voters' minds?]]></title>
+            <description><![CDATA[Politicians have spent the last six weeks trying to persuade people to vote for them - but has it worked?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56969880</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56969880</guid>
+            <pubDate>Mon, 03 May 2021 10:52:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2021 elections: What elections can I vote in this year?]]></title>
@@ -315,6 +315,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-56827739</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-56827739</guid>
             <pubDate>Fri, 30 Apr 2021 17:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2021 elections: A simple guide to the Scottish, Welsh and local elections]]></title>
+            <description><![CDATA[A bumper crop of elections are being held on 6 May across England, Scotland and Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56286643</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56286643</guid>
+            <pubDate>Thu, 29 Apr 2021 09:34:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK holidays: When and where can I go.... and who with?]]></title>
