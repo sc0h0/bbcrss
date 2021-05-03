@@ -2,7 +2,7 @@
 2. [A £455m debt and the ESL: Man Utd protests explained](https://www.bbc.co.uk/sport/football/56966096) - Protests at Manchester United's Old Trafford ground came just weeks after European Super League plans were thwarted - but emotions have been simmering for 16 years.
 3. [Coronavirus: Why some mosques are closed to women during Ramadan](https://www.bbc.co.uk/news/uk-56937289) - Ramadan is marked by Muslims worldwide - but some UK mosques aren't letting women in.
 4. [Covid-19: Funeral changes, Welsh rules ease, and the return of the gig](https://www.bbc.co.uk/news/uk-56967795) - Five things you need to know about the coronavirus pandemic this Monday morning.
-5. [Line of Duty finale: H was revealed, and the reviews are in](https://www.bbc.co.uk/news/entertainment-arts-56945425) - "Richly satisfying" or an "underwhelming whimper"? The big reveal left the critics divided.
+5. [Line of Duty finale lands record ratings](https://www.bbc.co.uk/news/entertainment-arts-56945425) - An average audience of 12.8 million viewers tune into the final episode of the drama's sixth series.
 6. [Covid: Packed pilot festival brings the good times back - for one night](https://www.bbc.co.uk/news/entertainment-arts-56962231) - Blossoms play to 5,000 fans in Liverpool to help gather research for this summer's festival season.
 7. [Gyms open and friends hug as rules relax in Wales](https://www.bbc.co.uk/news/uk-wales-56929301) - Some families and friends can hug again as Covid rules continue to be relaxed.
 8. [NI 100: 'Peace in Northern Ireland is credit to people'](https://www.bbc.co.uk/news/uk-northern-ireland-56966270) - Queen Elizabeth marks centenary of Northern Ireland with tribute to people and peace process.
