@@ -9,8 +9,8 @@
 9. [Hillary Clinton warns of 'huge consequences' in Afghan US troop withdrawal](https://www.bbc.co.uk/news/world-us-canada-56966473) - The end of the US deployment could play into the Taliban's hands, warns the former secretary of state.
 10. [Manchester United protest: Arrest made over 'hostility' towards police](https://www.bbc.co.uk/news/uk-england-manchester-56971298) - Six officers were injured in the "violent disorder" at Old Trafford on Sunday, police say.
 11. [Asian hate crime in UK increases during pandemic](https://www.bbc.co.uk/news/uk-56937299) - Asians in the UK share the abuse they've faced - from racial slurs to being spat at and punched.
-12. [Child sexual abuse: Four held in German-led raid on huge network](https://www.bbc.co.uk/news/world-europe-56969414) - German police say a dark web club for sharing images of child sex abuse had more than 400,000 users.
-13. [Félix Verdejo: Pro boxer charged with killing pregnant lover](https://www.bbc.co.uk/news/world-us-canada-56972939) - Félix Verdejo, who fought in the 2012 Olympics, turned himself in to Puerto Rican officials.
+12. [Félix Verdejo: Pro boxer charged with killing pregnant lover](https://www.bbc.co.uk/news/world-us-canada-56972939) - Félix Verdejo, who fought in the 2012 Olympics, turned himself in to Puerto Rican officials.
+13. [Iraq bans terror prank TV shows](https://www.bbc.co.uk/news/world-middle-east-56973968) - The two shows sparked outrage after using fake suicide vests and staging kidnappings.
 14. [Trees planted by hospital treating Covid patient](https://www.bbc.co.uk/news/science-environment-56944931) - Staff from a Cardiff intensive care unit are offsetting the environmental impact of treating patients.
 15. [Canadian 'sign war' captivates the internet](https://www.bbc.co.uk/news/world-us-canada-56972907) - For the past week, businesses in a Canadian town have been embroiled in a war of words via signs.
 16. [Covid: Music fans take part in pilot concert with Blossoms](https://www.bbc.co.uk/news/entertainment-arts-56971450) - Five-thousand music fans attend a pilot concert held in a big top in Liverpool.
