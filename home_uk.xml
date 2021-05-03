@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 May 2021 06:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 07:24:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,18 +177,18 @@
             <pubDate>Sat, 01 May 2021 23:07:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sarah Halimi: How killer on drugs escaped French trial for anti-Semitic murder]]></title>
-            <description><![CDATA[The decision not to prosecute a Jewish woman's killer because of his drug use sparks a legal row in France.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56929040</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56929040</guid>
-            <pubDate>Sun, 02 May 2021 23:10:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[India Covid: Hospitals plead for help as more patients die]]></title>
             <description><![CDATA[Desperate messages continued on Sunday night as Delhi's oxygen crisis shows no signs of abating.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56940595</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56940595</guid>
             <pubDate>Sun, 02 May 2021 22:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sarah Halimi: How killer on drugs escaped French trial for anti-Semitic murder]]></title>
+            <description><![CDATA[The decision not to prosecute a Jewish woman's killer because of his drug use sparks a legal row in France.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56929040</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56929040</guid>
+            <pubDate>Sun, 02 May 2021 23:10:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI 100: Tracing the history of the 100-year-old Irish border]]></title>
@@ -227,7 +227,7 @@
         </item>
         <item>
             <title><![CDATA[The young woman trying to adopt her friend]]></title>
-            <description><![CDATA[Arina hopes to formally adopt her friend Nina, whom she looked during the Covid pandemic.]]></description>
+            <description><![CDATA[Arina hopes to formally adopt her friend Nina, whom she looked after during the Covid pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56919234</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56919234</guid>
             <pubDate>Sat, 01 May 2021 23:07:27 GMT</pubDate>
@@ -238,13 +238,6 @@
             <link>https://www.bbc.co.uk/news/uk-56842698</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56842698</guid>
             <pubDate>Sat, 01 May 2021 23:56:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man Utd v Liverpool off after fans' protest at Old Trafford]]></title>
-            <description><![CDATA[Manchester United's game against Liverpool is postponed after about 200 fans break into Old Trafford to protest against the Glazers' ownership.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56960091</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56960091</guid>
-            <pubDate>Sun, 02 May 2021 20:39:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Snooker Championship: Mark Selby delivers vintage display to lead Shaun Murphy]]></title>
@@ -273,6 +266,13 @@
             <link>https://www.bbc.co.uk/sport/athletics/56967133</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/56967133</guid>
             <pubDate>Sun, 02 May 2021 21:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man Utd v Liverpool off after fans' protest at Old Trafford]]></title>
+            <description><![CDATA[Manchester United's game against Liverpool is postponed after about 200 fans break into Old Trafford to protest against the Glazers' ownership.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56960091</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56960091</guid>
+            <pubDate>Sun, 02 May 2021 20:39:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rangers targeted 'weaknesses' in Celtic's defence - Gerrard]]></title>
