@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 May 2021 16:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 17:25:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: Some foreign travel opening on 17 May - Boris Johnson]]></title>
+            <title><![CDATA[Covid: 1m plus rule could end from 21 June, says Johnson]]></title>
+            <description><![CDATA[Any easing of England's social distancing rules will depend on Covid data, the prime minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56973274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56973274</guid>
+            <pubDate>Mon, 03 May 2021 17:07:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Some foreign travel opening up on 17 May - Boris Johnson]]></title>
             <description><![CDATA[More details will come soon about foreign holidays but we have to be cautious, Boris Johnson says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56970260</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56970260</guid>
-            <pubDate>Mon, 03 May 2021 16:20:39 GMT</pubDate>
+            <pubDate>Mon, 03 May 2021 17:03:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EU unveils plans for overseas tourists to return]]></title>
@@ -37,13 +44,6 @@
             <pubDate>Mon, 03 May 2021 16:17:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Asian hate crime in UK increases during pandemic]]></title>
-            <description><![CDATA[Asians in the UK share the abuse they've faced - from racial slurs to being spat at and punched.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56937299</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56937299</guid>
-            <pubDate>Mon, 03 May 2021 12:06:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[European Super League: Premier League brings in new owners' rule to stop repeat]]></title>
             <description><![CDATA[The Premier League is to bring in a new owners' charter to stop future attempts to form a breakaway Super League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56972776</link>
@@ -51,11 +51,11 @@
             <pubDate>Mon, 03 May 2021 15:20:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Line of Duty finale lands record ratings]]></title>
-            <description><![CDATA[An average audience of 12.8 million viewers tune in but reviews of the climax are mixed.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-56945425</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56945425</guid>
-            <pubDate>Mon, 03 May 2021 11:27:17 GMT</pubDate>
+            <title><![CDATA[Asian hate crime in UK increases during pandemic]]></title>
+            <description><![CDATA[Asians in the UK share the abuse they've faced - from racial slurs to being spat at and punched.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56937299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56937299</guid>
+            <pubDate>Mon, 03 May 2021 12:06:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Child sexual abuse: Four held in German-led raid on huge network]]></title>
@@ -63,6 +63,20 @@
             <link>https://www.bbc.co.uk/news/world-europe-56969414</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56969414</guid>
             <pubDate>Mon, 03 May 2021 15:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Germany's Oktoberfest cancelled for the second time]]></title>
+            <description><![CDATA[Around six million revellers would normally attend the annual beer festival in Munich.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56970403</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56970403</guid>
+            <pubDate>Mon, 03 May 2021 15:17:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Line of Duty finale lands record ratings]]></title>
+            <description><![CDATA[An average audience of 12.8 million viewers tune in but reviews of the climax are mixed.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56945425</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56945425</guid>
+            <pubDate>Mon, 03 May 2021 11:27:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Billie Eilish: Sexual misconduct is everywhere]]></title>
@@ -79,25 +93,18 @@
             <pubDate>Mon, 03 May 2021 13:14:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Germany's Oktoberfest cancelled for the second time]]></title>
-            <description><![CDATA[Around six million revellers would normally attend the annual beer festival in Munich.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56970403</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56970403</guid>
-            <pubDate>Mon, 03 May 2021 15:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G7: Rich states want to send 40m more girls to school]]></title>
-            <description><![CDATA[Foreign ministers at a London summit pledge $15bn (£10.8bn) to help women in developing countries.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56965963</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56965963</guid>
-            <pubDate>Mon, 03 May 2021 08:22:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vax Live: Prince Harry makes vaccine plea at concert in LA]]></title>
             <description><![CDATA[The Duke of Sussex appears with Jennifer Lopez and President Biden at a star-studded charity show.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56969294</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56969294</guid>
             <pubDate>Mon, 03 May 2021 10:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ospreys: Llyn Brenig nest platform rebuilt after chainsaw attack]]></title>
+            <description><![CDATA[A replacement platform was built for the breeding pair of rare birds after their nest site was destroyed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-56969855</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56969855</guid>
+            <pubDate>Mon, 03 May 2021 10:38:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trees planted by hospital treating Covid patient]]></title>
@@ -286,7 +293,7 @@
             <description><![CDATA[The Manchester United Supporters' Trust urges co-chairman Joel Glazer to engage with fans to avoid a repeat of Sunday's protests.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56969755</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56969755</guid>
-            <pubDate>Mon, 03 May 2021 14:27:24 GMT</pubDate>
+            <pubDate>Mon, 03 May 2021 17:20:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[British and Irish Lions 2021: Who could be the bolters to tour South Africa?]]></title>
