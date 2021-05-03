@@ -1,4 +1,4 @@
-1. [Covid-19: No limit at funerals in England from 17 May](https://www.bbc.co.uk/news/uk-56966731) - The government is preparing to remove the 30-person legal limit a month earlier than planned.
+1. [Covid-19: No limit at funeral mourners in England from 17 May](https://www.bbc.co.uk/news/uk-56966731) - The government is preparing to remove the 30-person legal limit a month earlier than planned.
 2. [Gyms open and friends hug as rules relax in Wales](https://www.bbc.co.uk/news/uk-wales-56929301) - Some families and friends can hug again from Monday in Wales as Covid rules continue to ease.
 3. [A £455m debt and the ESL: Man Utd protests explained](https://www.bbc.co.uk/sport/football/56966096) - Protests at Manchester United's Old Trafford ground came just weeks after European Super League plans were thwarted - but emotions have been simmering for 16 years, writes Simon Stone.
 4. [Coronavirus: Why some mosques are closed to women during Ramadan](https://www.bbc.co.uk/news/uk-56937289) - Ramadan is marked by Muslims worldwide - but some UK mosques aren't letting women in.
@@ -6,8 +6,8 @@
 6. [Line of Duty finale: H was revealed, and the reviews are in](https://www.bbc.co.uk/news/entertainment-arts-56945425) - "Richly satisfying" or an "underwhelming whimper"? The big reveal left the critics divided.
 7. [Apetamin: Instagram criticised over weight gain drug](https://www.bbc.co.uk/news/health-56930654) - NHS England calls for a clamp down on the targeting of the "dangerous" unlicensed drug at young women.
 8. [Rome Colosseum: Italy unveils plan for new floor with gladiator’s view](https://www.bbc.co.uk/news/world-europe-56966365) - Work on a wooden, retractable floor at the Roman landmark is expected to be finished by 2023.
-9. [G7 agrees new target to school 40m more girls](https://www.bbc.co.uk/news/uk-56965963) - Foreign ministers at a London summit pledge $15bn (£10.8bn) to help women in developing countries.
-10. [Fortnite takes on Apple over App Store charges](https://www.bbc.co.uk/news/technology-56959938) - Epic’s antitrust lawsuit against the tech giant could decide the future of Apple's App Store.
+9. [Fortnite takes on Apple over App Store charges](https://www.bbc.co.uk/news/technology-56959938) - Epic’s antitrust lawsuit against the tech giant could decide the future of Apple's App Store.
+10. [G7 agrees new target to school 40m more girls](https://www.bbc.co.uk/news/uk-56965963) - Foreign ministers at a London summit pledge $15bn (£10.8bn) to help women in developing countries.
 11. [India elections: Modi party defeated in West Bengal battleground](https://www.bbc.co.uk/news/world-asia-india-56964703) - India's PM has been criticised for focusing on the election as the virus grips the country.
 12. [Australia's India ban criticised as 'racist' rights breach](https://www.bbc.co.uk/news/world-australia-56967520) - The threat to jail Australian citizens returning home from India has been widely condemned.
 13. [Suspected migrant boat breaks up off San Diego, killing three](https://www.bbc.co.uk/news/world-us-canada-56967210) - Three people die and some two dozen are injured after the cabin cruiser breaks up close to shore.
@@ -22,7 +22,7 @@
 22. [Walton-on-the-Naze: 'People are almost panic buying beach huts'](https://www.bbc.co.uk/news/uk-england-essex-56901720) - Beach huts have never been so in demand in an Essex seaside town - what's all the fuss about?
 23. [Sweden's IVF programme for single women not 'as good as hoped'](https://www.bbc.co.uk/news/world-europe-56859427) - In 2016, single women in the country were given the same rights as couples to access fertility treatments.
 24. [Sarah Halimi: How killer on drugs escaped French trial for anti-Semitic murder](https://www.bbc.co.uk/news/world-europe-56929040) - The decision not to prosecute a Jewish woman's killer because of his drug use sparks a legal row in France.
-25. [India Covid: Inside Delhi's oxygen crisis](https://www.bbc.co.uk/news/world-asia-india-56940595) - Doctors in India's capital are forced to turn patients away and plead for vital supplies of oxygen.
+25. [India Covid: Hospitals plead for help as more patients die](https://www.bbc.co.uk/news/world-asia-india-56940595) - Desperate messages continued on Sunday night as Delhi's oxygen crisis shows no signs of abating.
 26. [NI 100: Tracing the history of the 100-year-old Irish border](https://www.bbc.co.uk/news/uk-northern-ireland-56806404) - On May 3 1921 Northern Ireland came into being as the partition of Ireland took legal effect.
 27. [My Money: 'It feels like a luxury to shop for non-essential items'](https://www.bbc.co.uk/news/business-56929552) - Social care worker Sarah takes us through her weekly spending as England's national lockdown lifts.
 28. ['I was terrible at crosswords so I built an AI to do them'](https://www.bbc.co.uk/news/technology-56934716) - Dr Fill , a computer program, has just won one of the most prestigious crossword competitions in the US.
