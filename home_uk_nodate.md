@@ -1,5 +1,5 @@
-1. [Dalian Atkinson murder trial: Ex-footballer Tasered and kicked](https://www.bbc.co.uk/news/uk-england-shropshire-56979521) - Dalian Atkinson was Tasered for six times longer than standard by PC Benjamin Monk, a court is told.
-2. [Joe McCann: Trial of two soldiers collapses](https://www.bbc.co.uk/news/uk-northern-ireland-56942056) - Both men have been formally acquitted of killing Official IRA man Joe McCann in Belfast.
+1. [Joe McCann: Trial of two soldiers collapses](https://www.bbc.co.uk/news/uk-northern-ireland-56942056) - Both men have been formally acquitted of killing Official IRA man Joe McCann in Belfast.
+2. [Dalian Atkinson murder trial: Ex-footballer Tasered and kicked](https://www.bbc.co.uk/news/uk-england-shropshire-56979521) - Dalian Atkinson was Tasered for six times longer than standard by PC Benjamin Monk, a court is told.
 3. [Mexico City metro overpass collapse kills 23](https://www.bbc.co.uk/news/world-latin-america-56977129) - Two train carriages plunged to the ground when an elevated metro line collapsed.
 4. [India passes 20 million cases amid oxygen shortage](https://www.bbc.co.uk/news/world-asia-india-56976214) - Officials say infections are slowing, but erratic testing and under-reporting cast doubt on their claims.
 5. [IPL suspended after rise in Covid-19 cases among players](https://www.bbc.co.uk/sport/cricket/56978321) - The Indian Premier League is suspended after an increase in coronavirus cases among players.
