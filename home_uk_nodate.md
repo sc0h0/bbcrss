@@ -1,6 +1,6 @@
 1. [Hospitality bosses lose court battle over indoor opening](https://www.bbc.co.uk/news/business-56974835) - The High Court has ruled in favour of the government in a battle over indoor reopening dates in England.
 2. [£1bn UK-India trade deals will create 6,000 UK jobs, says PM](https://www.bbc.co.uk/news/business-56974831) - New trade deals with India worth about £1bn will create new jobs in the health and tech sectors.
-3. [Covid in Varanasi: Anger rises as coronavirus rages in Modi's constituency](https://www.bbc.co.uk/news/world-asia-india-56969283) - Many in Varanasi are asking where their MP - India's prime minister - is in their hour of need.
+3. [India says infections 'slowing down' as it passes 20 million cases](https://www.bbc.co.uk/news/world-asia-india-56976214) - Officials say infection rates have consistently dropped since 30 April when they saw a record high.
 4. [Joe Biden raises Trump refugee cap after backlash](https://www.bbc.co.uk/news/world-us-canada-56975402) - The president says the record-low refugee limit he originally stuck by did not 'reflect America's values'.
 5. [Bill and Melinda Gates divorce after 27 years of marriage](https://www.bbc.co.uk/news/world-us-canada-56975466) - One of the world's most famous couples announce they no longer believe they can 'grow together'.
 6. [River Thames rescuer joins Folajimi Olubunmi-Adewole bravery award calls](https://www.bbc.co.uk/news/uk-england-london-56973242) - Folajimi Olubunmi-Adewole, who died trying to save a woman, deserves recognition, his fellow rescuer says.
