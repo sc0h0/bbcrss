@@ -1,9 +1,9 @@
 1. [Joe McCann: Trial of two soldiers collapses](https://www.bbc.co.uk/news/uk-northern-ireland-56942056) - Both men have been formally acquitted of killing Official IRA man Joe McCann in Belfast.
 2. [Dalian Atkinson murder trial: Ex-footballer Tasered and 'kicked'](https://www.bbc.co.uk/news/uk-england-shropshire-56979521) - Dalian Atkinson was Tasered for six times longer than standard by PC Benjamin Monk, a court is told.
-3. [India Covid: Calls grow for national lockdown](https://www.bbc.co.uk/news/world-asia-india-56976214) - As infections pass 20 million, the government says cases are "slowing down" and resists lockdown.
+3. [India Covid: Opposition calls for full national lockdown](https://www.bbc.co.uk/news/world-asia-india-56976214) - The prime minister is resisting a nationwide lockdown due to the potential economic impact.
 4. [Abbie Quinnen reveals 'horrible' Instagram abuse over burns](https://www.bbc.co.uk/news/uk-56971201) - Abbie Quinnen says trolls targeted her after she suffered burns when a social media stunt went wrong.
 5. [Covid-19: Care home residents can go outdoors and calls for lockdown in India](https://www.bbc.co.uk/news/uk-56986787) - Five things you need to know about the coronavirus pandemic this Tuesday evening.
-6. [Mexico City metro overpass collapse kills 23](https://www.bbc.co.uk/news/world-latin-america-56977129) - Two train carriages plunged to the ground when an elevated metro line collapsed.
+6. [Mexico City metro: Fears structural failure behind deadly crash](https://www.bbc.co.uk/news/world-latin-america-56985164) - Questions mount over the safety record of a Mexico City metro line after a deadly overpass collapse.
 7. [Noel Clarke: Adam Deacon says he was accused director's victim](https://www.bbc.co.uk/news/entertainment-arts-56983555) - The actor says he stands by the women who have accused his former co-star of sexual harassment.
 8. [Man charged over Manchester United protest at Salford hotel](https://www.bbc.co.uk/news/uk-england-manchester-56985710) - A man is charged with throwing fireworks and using threatening behaviour near the team's hotel.
 9. [G7: Foreign ministers discuss global threats at London summit](https://www.bbc.co.uk/news/uk-56976093) - Foreign ministers hold their first face-to-face talks for two years, amid tight Covid restrictions.
