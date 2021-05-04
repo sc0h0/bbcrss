@@ -1,8 +1,8 @@
 1. [Joe McCann: Trial of two soldiers collapses](https://www.bbc.co.uk/news/uk-northern-ireland-56942056) - Both men have been formally acquitted of killing Official IRA man Joe McCann in Belfast.
 2. [Dalian Atkinson murder trial: Ex-footballer Tasered and kicked](https://www.bbc.co.uk/news/uk-england-shropshire-56979521) - Dalian Atkinson was Tasered for six times longer than standard by PC Benjamin Monk, a court is told.
-3. [Mexico City metro overpass collapse kills 23](https://www.bbc.co.uk/news/world-latin-america-56977129) - Two train carriages plunged to the ground when an elevated metro line collapsed.
-4. [India passes 20 million cases amid oxygen shortage](https://www.bbc.co.uk/news/world-asia-india-56976214) - Officials say infections are slowing, but erratic testing and under-reporting cast doubt on their claims.
-5. [Abbie Quinnen reveals 'horrible' Instagram abuse over burns](https://www.bbc.co.uk/news/uk-56971201) - Abbie Quinnen says trolls targeted her after she suffered burns when a social media stunt went wrong.
+3. [India passes 20 million cases amid oxygen shortage](https://www.bbc.co.uk/news/world-asia-india-56976214) - Officials say infections are slowing, but erratic testing and under-reporting cast doubt on their claims.
+4. [Abbie Quinnen reveals 'horrible' Instagram abuse over burns](https://www.bbc.co.uk/news/uk-56971201) - Abbie Quinnen says trolls targeted her after she suffered burns when a social media stunt went wrong.
+5. [Mexico City metro overpass collapse kills 23](https://www.bbc.co.uk/news/world-latin-america-56977129) - Two train carriages plunged to the ground when an elevated metro line collapsed.
 6. [Seven hurt in Willesborough house explosion](https://www.bbc.co.uk/news/uk-england-kent-56978578) - The front of a property was destroyed in a blast which left residents trapped in a row of houses.
 7. [Noel Clarke: Adam Deacon says he was accused director's 'victim'](https://www.bbc.co.uk/news/entertainment-arts-56983555) - The actor says he stands by the women who have accused his former co-star of sexual harassment.
 8. [Covid-19: Care home residents can go on outdoor trips without isolating](https://www.bbc.co.uk/news/uk-56977779) - People in residential care in England are now allowed low-risk trips outside without isolating afterwards.
