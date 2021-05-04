@@ -4,8 +4,8 @@
 4. [Bill and Melinda Gates divorce after 27 years of marriage](https://www.bbc.co.uk/news/world-us-canada-56975466) - The billionaire couple, who jointly run a charity organisation, say they can no longer "grow together".
 5. [Abbie Quinnen reveals 'horrible' Instagram abuse over burns](https://www.bbc.co.uk/news/uk-56971201) - Abbie Quinnen says trolls targeted her after she suffered burns when a social media stunt went wrong.
 6. [Marriage certificate to include mothers' names in England and Wales](https://www.bbc.co.uk/news/uk-56975357) - Both parents, not just the father, will now be named on marriage certificates in England and Wales.
-7. [G7: Foreign ministers to discuss rising threats at London summit](https://www.bbc.co.uk/news/uk-56976093) - UK Foreign Secretary Dominic Raab will lead the first face-to-face talks in more than two years.
-8. [Gender recognition certificate cost cut to £5](https://www.bbc.co.uk/news/uk-56972195) - Ministers pledged in September to slash the application fee after deciding against wider reforms.
+7. [Stuart Lubbock: CPS to consider charges over Barrymore party death](https://www.bbc.co.uk/news/uk-england-essex-56978413) - A file is being sent to prosecutors as part of the inquiry into the death of Stuart Lubbock in 2001.
+8. [G7: Foreign ministers to discuss rising threats at London summit](https://www.bbc.co.uk/news/uk-56976093) - UK Foreign Secretary Dominic Raab will lead the first face-to-face talks in more than two years.
 9. [PCSO Julia James: Candlelight vigil a week on from her death](https://www.bbc.co.uk/news/uk-england-kent-56977553) - Julia James's daughter has asked people to pay their respects to her from their doorsteps.
 10. [Pandora says laboratory-made diamonds are forever](https://www.bbc.co.uk/news/business-56972562) - The world's biggest jeweller says it will no longer use mined diamonds in a bid to become more sustainable.
 11. [Teens, tech and mental health: Oxford study finds no link](https://www.bbc.co.uk/news/technology-56970368) - The Oxford study used data from more than 430,000 young people, gathered over 28 years.
@@ -22,9 +22,9 @@
 22. [Simon Stevens: How heavy hitter changed the NHS](https://www.bbc.co.uk/news/health-56945830) - Sir Simon Stevens has been called the NHS's most significant figure since its founder, Aneurin Bevan.
 23. [Dove Cameron: Why the former Disney star is one to watch in 2021](https://www.bbc.co.uk/news/entertainment-arts-56943632) - With two TV shows, a movie and a pop career in the making, the former Disney star is one to watch.
 24. [Covid: Lockdown loneliness could leave people 'stuck', charity warns](https://www.bbc.co.uk/news/uk-england-56808885) - Amid a rise in reports of loneliness, some people fear a struggle to re-integrate as lockdown eases.
-25. [Food giants respond to worries over packaging](https://www.bbc.co.uk/news/business-56770732) - The phasing out of single-use plastics gathers pace with big companies adopting alternatives.
-26. [Battle of wits: Antiguans revel in ancient board game](https://www.bbc.co.uk/news/world-latin-america-56814500) - Warri is a board game popular in Antigua which traces its origins back to Africa.
-27. [The rise of India's 'Covid quack'](https://www.bbc.co.uk/news/blogs-trending-56845610) - An anti-vaccine doctor falsely claims to be able to cure coronavirus, diabetes and Aids through diet alone
+25. [The rise of India's 'Covid quack'](https://www.bbc.co.uk/news/blogs-trending-56845610) - An anti-vaccine doctor falsely claims to be able to cure coronavirus, diabetes and Aids through diet alone
+26. [Food giants respond to worries over packaging](https://www.bbc.co.uk/news/business-56770732) - The phasing out of single-use plastics gathers pace with big companies adopting alternatives.
+27. [Battle of wits: Antiguans revel in ancient board game](https://www.bbc.co.uk/news/world-latin-america-56814500) - Warri is a board game popular in Antigua which traces its origins back to Africa.
 28. [Five Eyes: Is the alliance in trouble over China?](https://www.bbc.co.uk/news/world-56970640) - The Five Eyes intelligence alliance has expanded into politics but faces a split in dealing with Beijing.
 29. [India Covid: Delhi hospitals plead for oxygen as more patients die](https://www.bbc.co.uk/news/world-asia-india-56940595) - Desperate messages continued on Sunday night as Delhi's oxygen crisis shows no signs of abating.
 30. [Coronavirus: Why some mosques are closed to women during Ramadan](https://www.bbc.co.uk/news/uk-56937289) - Ramadan is marked by Muslims worldwide - but some UK mosques aren't letting women in.
