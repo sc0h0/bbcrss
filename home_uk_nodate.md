@@ -49,8 +49,12 @@
 49. [Shaun Bailey: 'Politics isn't scary when you've seen stabbings'](https://www.bbc.co.uk/news/uk-england-london-56913497) - Shaun Bailey says having grown up poor and been homeless in London, politics does not phase him.
 50. [Elections 2021: Why a lack of buses is a key issue for voters](https://www.bbc.co.uk/news/uk-england-56827739) - Infrequent buses and cancelled services - why public transport is a vital topic for young voters.
 51. [When can I holiday abroad and where is on the green and red lists?](https://www.bbc.co.uk/news/explainers-52544307) - A so-called "green list" of countries is being drawn up where quarantine won't be required when you return to the UK.
-52. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
-53. [Rare blood clots - what you need to know](https://www.bbc.co.uk/news/health-56674796) - We take a look at why these unusual clots happen and when they occur.
-54. [Covid: Is Europe lifting lockdown restrictions?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
-55. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 40 or over in England are now being offered a Covid vaccine as the rollout continues.
-56. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
+52. [Coronavirus: What's the risk on transport?](https://www.bbc.co.uk/news/health-51736185) - As UK coronavirus restrictions continue to be relaxed, public transport could become much busier.
+53. [Covid: What is the rule of six and what are the social distancing rules?](https://www.bbc.co.uk/news/uk-51506729) - Lockdown rules have been eased further across the UK - more people can meet up outside.
+54. [Covid: Restaurants and pubs are reopening, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - Northern Ireland follows England, Scotland and Wales in allowing venues to reopen outdoors.
+55. [When does the stamp duty holiday in England and Northern Ireland end?](https://www.bbc.co.uk/news/business-53319433) - What is the stamp duty holiday and when will it finish?
+56. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
+57. [Rare blood clots - what you need to know](https://www.bbc.co.uk/news/health-56674796) - We take a look at why these unusual clots happen and when they occur.
+58. [Covid: Is Europe lifting lockdown restrictions?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
+59. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 40 or over in England are now being offered a Covid vaccine as the rollout continues.
+60. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
