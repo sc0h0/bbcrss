@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 May 2021 20:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 20:40:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,18 +44,18 @@
             <pubDate>Tue, 04 May 2021 14:19:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[France threatens to cut power to Jersey amid fishing row]]></title>
+            <description><![CDATA[The threat comes amid an escalating row between France and the UK over post-Brexit fishing rights.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56984886</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56984886</guid>
+            <pubDate>Tue, 04 May 2021 20:37:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mexico City metro: Fears structural failure behind deadly crash]]></title>
             <description><![CDATA[Questions mount over the safety record of a Mexico City metro line after a deadly overpass collapse.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-56985164</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56985164</guid>
             <pubDate>Tue, 04 May 2021 17:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fishing row triggers French threat of Jersey power cut]]></title>
-            <description><![CDATA[The threat comes amid an escalating row between the neighbours over fishing following Brexit.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56984886</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56984886</guid>
-            <pubDate>Tue, 04 May 2021 17:49:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Under-18 marriages 'thriving' in UK and should be banned, say charities]]></title>
@@ -289,6 +289,13 @@
             <pubDate>Sun, 02 May 2021 20:16:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man City v PSG - rate the players in Champions League semi-final second leg.]]></title>
+            <description><![CDATA[Rate the players as Manchester City meet Paris St-Germain in the second leg of their Champions League semi-final.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56988302</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56988302</guid>
+            <pubDate>Tue, 04 May 2021 20:37:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jose Mourinho named Roma boss from start of next season]]></title>
             <description><![CDATA[Jose Mourinho will replace fellow Portuguese Paulo Fonseca as the manager of Roma from the start of the 2021-22 season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56983649</link>
@@ -317,13 +324,6 @@
             <pubDate>Tue, 04 May 2021 19:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Four-time world champion Selby will not chase records of snooker's 'all-time greats']]></title>
-            <description><![CDATA[Mark Selby says he is not preoccupied with records set by the game's "all-time greats" after winning a fourth World Championship on Monday.]]></description>
-            <link>https://www.bbc.co.uk/sport/snooker/56973917</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56973917</guid>
-            <pubDate>Tue, 04 May 2021 09:19:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ex-Republic of Ireland & Portsmouth midfielder McLoughlin dies aged 54]]></title>
             <description><![CDATA[Former Republic of Ireland and Portsmouth midfielder Alan McLoughlin passes away at the age of 54.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56985844</link>
@@ -335,7 +335,7 @@
             <description><![CDATA[Rotherham United's Championship survival hopes are out of their hands after they can only draw at mid-table Luton Town.]]></description>
             <link>https://www.bbc.co.uk/sport/football/55685603</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55685603</guid>
-            <pubDate>Tue, 04 May 2021 20:16:02 GMT</pubDate>
+            <pubDate>Tue, 04 May 2021 20:33:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish election 2021: Does Scotland's future lie in or out of the Union?]]></title>
