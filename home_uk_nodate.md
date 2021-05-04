@@ -1,7 +1,7 @@
 1. [Hospitality bosses lose court battle over indoor opening](https://www.bbc.co.uk/news/business-56974835) - The High Court has ruled in favour of the government in a battle over indoor reopening dates in England.
 2. [£1bn UK-India trade deals will create 6,000 UK jobs, says PM](https://www.bbc.co.uk/news/business-56974831) - New trade deals with India worth about £1bn will create new jobs in the health and tech sectors.
 3. [Covid in Varanasi: Anger rises as coronavirus rages in Modi's constituency](https://www.bbc.co.uk/news/world-asia-india-56969283) - Many in Varanasi are asking where their MP - India's prime minister - is in their hour of need.
-4. [Joe Biden raises Trump refugee cap after outcry](https://www.bbc.co.uk/news/world-us-canada-56975402) - The president says the record-low refugee limit he originally stuck by "did not reflect America's values".
+4. [Joe Biden raises Trump refugee cap after backlash](https://www.bbc.co.uk/news/world-us-canada-56975402) - The president says the record-low refugee limit he originally stuck by did not 'reflect America's values'.
 5. [Bill and Melinda Gates divorce after 27 years of marriage](https://www.bbc.co.uk/news/world-us-canada-56975466) - One of the world's most famous couples announce they no longer believe they can 'grow together'.
 6. [River Thames rescuer joins Folajimi Olubunmi-Adewole bravery award calls](https://www.bbc.co.uk/news/uk-england-london-56973242) - Folajimi Olubunmi-Adewole, who died trying to save a woman, deserves recognition, his fellow rescuer says.
 7. [Covid: 1m plus rule could end from 21 June, says Johnson](https://www.bbc.co.uk/news/uk-56973274) - As well as social distancing, the PM also suggested there could be some relaxation of foreign travel rules on 17 May.
