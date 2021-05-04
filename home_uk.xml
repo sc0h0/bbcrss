@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 May 2021 05:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 06:24:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Mexico City metro overpass collapses, killing 15]]></title>
+            <description><![CDATA[Several train carriages plunged to the ground when an elevated metro line collapsed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56977129</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56977129</guid>
+            <pubDate>Tue, 04 May 2021 06:17:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[India passes 20m cases, says Covid slowing down]]></title>
             <description><![CDATA[Officials say infection rates have consistently dropped since 30 April when they saw a record high.]]></description>
@@ -44,18 +51,18 @@
             <pubDate>Tue, 04 May 2021 03:59:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hospitality bosses lose court battle over indoor opening]]></title>
-            <description><![CDATA[The High Court has ruled in favour of the government in a battle over indoor reopening dates in England.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56974835</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56974835</guid>
-            <pubDate>Mon, 03 May 2021 21:00:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Marriage certificate to include mothers' names in England and Wales]]></title>
             <description><![CDATA[Both parents, not just the father, will now be named on marriage certificates in England and Wales.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56975357</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56975357</guid>
             <pubDate>Tue, 04 May 2021 00:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hospitality bosses lose court battle over indoor opening]]></title>
+            <description><![CDATA[The High Court has ruled in favour of the government in a battle over indoor reopening dates in England.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56974835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56974835</guid>
+            <pubDate>Mon, 03 May 2021 21:00:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mexico apologises to Mayan people for historic abuses]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Mon, 03 May 2021 23:01:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[River Thames rescuer joins Folajimi Olubunmi-Adewole bravery award calls]]></title>
-            <description><![CDATA[Folajimi Olubunmi-Adewole, who died trying to save a woman, deserves recognition, his fellow rescuer says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-56973242</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56973242</guid>
-            <pubDate>Mon, 03 May 2021 16:29:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gender recognition certificate cost cut to £5]]></title>
             <description><![CDATA[Ministers pledged in September to slash the application fee after deciding against wider reforms.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56972195</link>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-56976063</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56976063</guid>
             <pubDate>Tue, 04 May 2021 03:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Selby wins fourth world snooker title]]></title>
-            <description><![CDATA[Mark Selby claims his fourth World Championship title with an 18-15 victory over Shaun Murphy at a sold-out Crucible Theatre.]]></description>
-            <link>https://www.bbc.co.uk/sport/snooker/56972835</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56972835</guid>
-            <pubDate>Mon, 03 May 2021 22:45:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Wish EU were here' and holiday spots 'to reopen']]></title>
@@ -254,6 +247,13 @@
             <pubDate>Sun, 02 May 2021 20:16:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Selby holds off battling Murphy to win fourth world title]]></title>
+            <description><![CDATA[Mark Selby claims his fourth World Championship title with an 18-15 victory over Shaun Murphy at a sold-out Crucible Theatre.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/56972835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56972835</guid>
+            <pubDate>Mon, 03 May 2021 22:45:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['We won't give up on Champions League dream' - Antonio double gives West Ham win at Burnley]]></title>
             <description><![CDATA[Michail Antonio scores twice as West Ham come from behind to defeat Burnley and maintain their pursuit of a top-four finish.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56883236</link>
@@ -282,25 +282,11 @@
             <pubDate>Mon, 03 May 2021 22:44:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[British and Irish Lions 2021: Who could be the bolters to tour South Africa?]]></title>
-            <description><![CDATA[Left-field selections are something of a British and Irish Lions tradition - who could be a surprise pick for the 2021 tour of South Africa?]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56964629</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56964629</guid>
-            <pubDate>Mon, 03 May 2021 19:23:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[World Snooker Championship: Mark Selby beats Shaun Murphy in final - best shots]]></title>
             <description><![CDATA[Watch the best shots as Mark Selby beats Shaun Murphy to win his fourth World Snooker Championship title.]]></description>
             <link>https://www.bbc.co.uk/sport/av/snooker/56975791</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/snooker/56975791</guid>
             <pubDate>Mon, 03 May 2021 22:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fan makes amazing one-handed catch while holding snack at Philadelphia Phillies v New York Mets]]></title>
-            <description><![CDATA[Watch a Philadelphia Phillies fan makes a one-handed catch without a glove from a 97mph foul ball - without dropping his food.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/baseball/56970789</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/baseball/56970789</guid>
-            <pubDate>Mon, 03 May 2021 13:22:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish election 2021: Does Scotland's future lie in or out of the Union?]]></title>
@@ -310,11 +296,11 @@
             <pubDate>Mon, 03 May 2021 21:55:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish election 2021: Who should I vote for? Compare party policies]]></title>
+            <title><![CDATA[Wales election 2021: Who should I vote for? Compare party policies]]></title>
             <description><![CDATA[Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56510773</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56510773</guid>
-            <pubDate>Thu, 22 Apr 2021 14:41:14 GMT</pubDate>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-56499726</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-56499726</guid>
+            <pubDate>Thu, 22 Apr 2021 10:55:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Election 2021: How do I vote and why could results take longer?]]></title>
