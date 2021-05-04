@@ -17,9 +17,9 @@
 17. [Bill and Melinda Gates: A life in pictures](https://www.bbc.co.uk/news/world-us-canada-56974222) - Images of the couple, who set up the Bill and Melinda Gates Foundation in 2000, after they announce their divorce.
 18. [Iraq bans terror prank TV shows](https://www.bbc.co.uk/news/world-middle-east-56973968) - The two shows sparked outrage after using fake suicide vests and staging kidnappings.
 19. [Canadian sign war captivates the internet](https://www.bbc.co.uk/news/world-us-canada-56972907) - For the past week, businesses in a Canadian town have been embroiled in a war of words via signs.
-20. [Trees planted by hospital treating Covid patient](https://www.bbc.co.uk/news/science-environment-56944931) - Staff from a Cardiff intensive care unit are offsetting the environmental impact of treating patients.
+20. [Hospital Covid team plant trees to fight climate change](https://www.bbc.co.uk/news/science-environment-56944931) - Staff from a Cardiff intensive care unit are offsetting the environmental impact of treating patients.
 21. [Covid: Music fans take part in pilot concert with Blossoms](https://www.bbc.co.uk/news/entertainment-arts-56971450) - Five-thousand music fans attend a pilot concert held in a big top in Liverpool.
-22. [Simon Stevens: How heavy hitter changed the NHS](https://www.bbc.co.uk/news/health-56945830) - Sir Simon Stevens has been called the NHS's most significant figure since its founder Aneurin Bevan.
+22. [Simon Stevens: How heavy hitter changed the NHS](https://www.bbc.co.uk/news/health-56945830) - Sir Simon Stevens has been called the NHS's most significant figure since its founder, Aneurin Bevan.
 23. [Dove Cameron: Why the former Disney star is one to watch in 2021](https://www.bbc.co.uk/news/entertainment-arts-56943632) - With two TV shows, a movie and a pop career in the making, the former Disney star is one to watch.
 24. [Covid: Lockdown loneliness could leave people 'stuck', charity warns](https://www.bbc.co.uk/news/uk-england-56808885) - Amid a rise in reports of loneliness, some people fear a struggle to re-integrate as lockdown eases.
 25. [Food giants respond to worries over packaging](https://www.bbc.co.uk/news/business-56770732) - The phasing out of single-use plastics gathers pace with big companies adopting alternatives.
