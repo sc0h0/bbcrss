@@ -1,11 +1,11 @@
-1. [Mexico City metro overpass collapses, killing 15](https://www.bbc.co.uk/news/world-latin-america-56977129) - Several train carriages plunged to the ground when an elevated metro line collapsed.
+1. [Mexico City metro overpass collapses, killing 20](https://www.bbc.co.uk/news/world-latin-america-56977129) - Several train carriages plunged to the ground when an elevated metro line collapsed.
 2. [India passes 20m cases, says Covid slowing down](https://www.bbc.co.uk/news/world-asia-india-56976214) - Officials say infection rates have consistently dropped since 30 April when they saw a record high.
 3. [£1bn UK-India trade deals will create 6,000 UK jobs, says PM](https://www.bbc.co.uk/news/business-56974831) - The deal will create new jobs in the health and tech sectors, Boris Johnson says.
 4. [Bill and Melinda Gates divorce after 27 years of marriage](https://www.bbc.co.uk/news/world-us-canada-56975466) - The billionaire couple, who jointly run a charity organisation, say they can no longer "grow together".
-5. [G7: Foreign ministers to discuss rising threats at London summit](https://www.bbc.co.uk/news/uk-56976093) - UK Foreign Secretary Dominic Raab will lead the first face-to-face talks in more than two years.
-6. [Marriage certificate to include mothers' names in England and Wales](https://www.bbc.co.uk/news/uk-56975357) - Both parents, not just the father, will now be named on marriage certificates in England and Wales.
-7. [Hospitality bosses lose court battle over indoor opening](https://www.bbc.co.uk/news/business-56974835) - The High Court has ruled in favour of the government in a battle over indoor reopening dates in England.
-8. [Mexico apologises to Mayan people for historic abuses](https://www.bbc.co.uk/news/world-latin-america-56975966) - The country's president apologises for abuses committed in the five centuries since Spain's conquest.
+5. [Marriage certificate to include mothers' names in England and Wales](https://www.bbc.co.uk/news/uk-56975357) - Both parents, not just the father, will now be named on marriage certificates in England and Wales.
+6. [Covid-19: No early indoor reopening for pubs and loneliness fears after lockdown](https://www.bbc.co.uk/news/uk-56940500) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
+7. [G7: Foreign ministers to discuss rising threats at London summit](https://www.bbc.co.uk/news/uk-56976093) - UK Foreign Secretary Dominic Raab will lead the first face-to-face talks in more than two years.
+8. [Hospitality bosses lose court battle over indoor opening](https://www.bbc.co.uk/news/business-56974835) - The High Court has ruled in favour of the government in a battle over indoor reopening dates in England.
 9. [Joe Biden raises Trump refugee cap after backlash](https://www.bbc.co.uk/news/world-us-canada-56975402) - The president says the record-low refugee limit he originally stuck by did not 'reflect America's values'.
 10. ['Breathing space' scheme starts for those in problem debt](https://www.bbc.co.uk/news/business-56945218) - The new system means people receiving debt advice can be shielded from interest and charges for 60 days.
 11. [Gender recognition certificate cost cut to £5](https://www.bbc.co.uk/news/uk-56972195) - Ministers pledged in September to slash the application fee after deciding against wider reforms.
@@ -16,11 +16,11 @@
 16. [How rising sea levels are threatening my home](https://www.bbc.co.uk/news/world-asia-56853156) - Hereiti, 17, lives on Rarotonga, the largest of the Cook Islands in the South Pacific Ocean.
 17. [Iraq bans terror prank TV shows](https://www.bbc.co.uk/news/world-middle-east-56973968) - The two shows sparked outrage after using fake suicide vests and staging kidnappings.
 18. [Bill and Melinda Gates: A life in pictures](https://www.bbc.co.uk/news/world-us-canada-56974222) - Images of the couple, who set up the Bill and Melinda Gates Foundation in 2000, after they announce their divorce.
-19. [Canadian 'sign war' captivates the internet](https://www.bbc.co.uk/news/world-us-canada-56972907) - For the past week, businesses in a Canadian town have been embroiled in a war of words via signs.
+19. [Canadian sign war captivates the internet](https://www.bbc.co.uk/news/world-us-canada-56972907) - For the past week, businesses in a Canadian town have been embroiled in a war of words via signs.
 20. [Trees planted by hospital treating Covid patient](https://www.bbc.co.uk/news/science-environment-56944931) - Staff from a Cardiff intensive care unit are offsetting the environmental impact of treating patients.
 21. [Covid: Music fans take part in pilot concert with Blossoms](https://www.bbc.co.uk/news/entertainment-arts-56971450) - Five-thousand music fans attend a pilot concert held in a big top in Liverpool.
 22. [Simon Stevens: How heavy hitter changed the NHS](https://www.bbc.co.uk/news/health-56945830) - Sir Simon Stevens has been called the NHS's most significant figure since its founder Aneurin Bevan.
-23. [Dove Cameron: Why the former Disney star is one to watch in 2021](https://www.bbc.co.uk/news/entertainment-arts-56943632) - With two TV shows, a movie and a pop career in the making, the former Disney star is one-to-watch.
+23. [Dove Cameron: Why the former Disney star is one to watch in 2021](https://www.bbc.co.uk/news/entertainment-arts-56943632) - With two TV shows, a movie and a pop career in the making, the former Disney star is one to watch.
 24. [Covid: Lockdown loneliness could leave people 'stuck', charity warns](https://www.bbc.co.uk/news/uk-england-56808885) - Amid a rise in reports of loneliness, some people fear a struggle to re-integrate as lockdown eases.
 25. [Food giants respond to worries over packaging](https://www.bbc.co.uk/news/business-56770732) - The phasing out of single-use plastics gathers pace with big companies adopting alternatives.
 26. [Battle of wits: Antiguans revel in ancient board game](https://www.bbc.co.uk/news/world-latin-america-56814500) - Warri is a board game popular in Antigua which traces its origins back to Africa.
