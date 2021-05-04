@@ -1,7 +1,7 @@
 1. [India says infections 'slowing down' as it passes 20 million cases](https://www.bbc.co.uk/news/world-asia-india-56976214) - Officials say infection rates have consistently dropped since 30 April when they saw a record high.
-2. [G7: Foreign ministers to discuss rising threats at London summit](https://www.bbc.co.uk/news/uk-56976093) - UK Foreign Secretary Dominic Raab will lead the first face-to-face talks in more than two years.
-3. [£1bn UK-India trade deals will create 6,000 UK jobs, says PM](https://www.bbc.co.uk/news/business-56974831) - New trade deals with India worth about £1bn will create new jobs in the health and tech sectors.
-4. [Bill and Melinda Gates divorce after 27 years of marriage](https://www.bbc.co.uk/news/world-us-canada-56975466) - One of the world's most famous couples announce they no longer believe they can 'grow together'.
+2. [£1bn UK-India trade deals will create 6,000 UK jobs, says PM](https://www.bbc.co.uk/news/business-56974831) - New trade deals with India worth about £1bn will create new jobs in the health and tech sectors.
+3. [Bill and Melinda Gates divorce after 27 years of marriage](https://www.bbc.co.uk/news/world-us-canada-56975466) - One of the world's most famous couples announce they no longer believe they can "grow together".
+4. [G7: Foreign ministers to discuss rising threats at London summit](https://www.bbc.co.uk/news/uk-56976093) - UK Foreign Secretary Dominic Raab will lead the first face-to-face talks in more than two years.
 5. [Hospitality bosses lose court battle over indoor opening](https://www.bbc.co.uk/news/business-56974835) - The High Court has ruled in favour of the government in a battle over indoor reopening dates in England.
 6. [Mexico apologises to Mayan people for historic abuses](https://www.bbc.co.uk/news/world-latin-america-56975966) - The country's president apologises for abuses committed in the five centuries since Spain's conquest.
 7. [Joe Biden raises Trump refugee cap after backlash](https://www.bbc.co.uk/news/world-us-canada-56975402) - The president says the record-low refugee limit he originally stuck by did not 'reflect America's values'.
