@@ -2,9 +2,9 @@
 2. [India passes 20 million cases amid oxygen shortage](https://www.bbc.co.uk/news/world-asia-india-56976214) - Officials say infections are slowing, but erratic testing and under-reporting cast doubt on their claims.
 3. [IPL suspended after rise in Covid-19 cases among players](https://www.bbc.co.uk/sport/cricket/56978321) - The Indian Premier League is suspended after an increase in coronavirus cases among players.
 4. [Abbie Quinnen reveals 'horrible' Instagram abuse over burns](https://www.bbc.co.uk/news/uk-56971201) - Abbie Quinnen says trolls targeted her after she suffered burns when a social media stunt went wrong.
-5. [Covid-19: Care home residents can go on outdoor trips without isolating](https://www.bbc.co.uk/news/uk-56977779) - People in residential care in England are now allowed low-risk trips outside without isolating afterwards.
-6. [Bill and Melinda Gates divorce after 27 years of marriage](https://www.bbc.co.uk/news/world-us-canada-56975466) - The billionaire couple, who jointly run a charity organisation, say they can no longer "grow together".
-7. [Seven hurt in Willesborough house explosion](https://www.bbc.co.uk/news/uk-england-kent-56978578) - The front of a property was destroyed in a blast which left residents trapped in a row of houses.
+5. [Seven hurt in Willesborough house explosion](https://www.bbc.co.uk/news/uk-england-kent-56978578) - The front of a property was destroyed in a blast which left residents trapped in a row of houses.
+6. [Covid-19: Care home residents can go on outdoor trips without isolating](https://www.bbc.co.uk/news/uk-56977779) - People in residential care in England are now allowed low-risk trips outside without isolating afterwards.
+7. [Bill and Melinda Gates divorce after 27 years of marriage](https://www.bbc.co.uk/news/world-us-canada-56975466) - The billionaire couple, who jointly run a charity organisation, say they can no longer "grow together".
 8. [Stuart Lubbock: CPS to consider charges over Barrymore party death](https://www.bbc.co.uk/news/uk-england-essex-56978413) - A file is being sent to prosecutors as part of the inquiry into the death of Stuart Lubbock in 2001.
 9. [G7: Foreign ministers to discuss rising threats at London summit](https://www.bbc.co.uk/news/uk-56976093) - UK Foreign Secretary Dominic Raab will lead the first face-to-face talks in more than two years.
 10. [Marcel Stellman: Countdown creator dies aged 96](https://www.bbc.co.uk/news/entertainment-arts-56978015) - Marcel Stellman, who has died aged 96, was also a record producer and lyricist.
