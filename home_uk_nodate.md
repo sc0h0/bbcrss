@@ -1,5 +1,5 @@
 1. [Mexico City metro overpass collapses, killing 20](https://www.bbc.co.uk/news/world-latin-america-56977129) - Several train carriages plunged to the ground when an elevated metro line collapsed.
-2. [India passes 20m cases, says Covid slowing down](https://www.bbc.co.uk/news/world-asia-india-56976214) - Officials say infections are slowing, but erratic testing and under-reporting cast doubt on their claims.
+2. [India passes 20 million cases amid oxygen shortage](https://www.bbc.co.uk/news/world-asia-india-56976214) - Officials say infections are slowing, but erratic testing and under-reporting cast doubt on their claims.
 3. [£1bn UK-India trade deals will create 6,000 UK jobs, says PM](https://www.bbc.co.uk/news/business-56974831) - The deal will create new jobs in the health and tech sectors, Boris Johnson says.
 4. [Bill and Melinda Gates divorce after 27 years of marriage](https://www.bbc.co.uk/news/world-us-canada-56975466) - The billionaire couple, who jointly run a charity organisation, say they can no longer "grow together".
 5. [Marriage certificate to include mothers' names in England and Wales](https://www.bbc.co.uk/news/uk-56975357) - Both parents, not just the father, will now be named on marriage certificates in England and Wales.
