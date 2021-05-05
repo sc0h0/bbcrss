@@ -1,7 +1,7 @@
 1. [Covid: Indian delegates in UK for G7 talks self-isolate after Covid cases](https://www.bbc.co.uk/news/uk-56993129) - The foreign minister - who met Home Secretary Priti Patel on Tuesday - will carry out meetings virtually.
 2. [Covid: Extra cash to target new variants will future-proof UK - minister](https://www.bbc.co.uk/news/health-56984984) - Almost £30m of government funding will fast-track vaccines that fight new variants of coronavirus.
 3. [George Floyd killer Derek Chauvin asks for new trial](https://www.bbc.co.uk/news/world-us-canada-56989757) - The white former police officer was found guilty of the murder and manslaughter of George Floyd.
-4. [How India descended into Covid-19 chaos](https://www.bbc.co.uk/news/world-asia-india-56977653) - Experts tell the BBC that delays in decision-making worsened the crisis of India's second wave.
+4. [Coronavirus: How India descended into Covid-19 chaos](https://www.bbc.co.uk/news/world-asia-india-56977653) - Experts tell the BBC that delays in decision-making worsened the crisis of India's second wave.
 5. [Covid: Depression rises in young and women during second peak](https://www.bbc.co.uk/news/health-56993575) - Overall, the number of adults who feel depressed has doubled since before the pandemic.
 6. [Malian woman gives birth to nine babies](https://www.bbc.co.uk/news/world-africa-56994408) - Nonuplets are extremely rare - and doctors had thought Halima Cisse was carrying seven babies.
 7. [End of an era for Debenhams as final shops set to close](https://www.bbc.co.uk/news/business-56993816) - The department store will disappear from high streets on 15 May after more than two centuries.
@@ -21,7 +21,7 @@
 21. [Covid and cancer: The young scientists working overtime to combat lockdown disruption](https://www.bbc.co.uk/news/newsbeat-56821532) - Lab staff are working long unpaid hours to reduce the impact Covid is having on cancer research.
 22. [Napoleon's incendiary legacy divides France 200 years on](https://www.bbc.co.uk/news/world-europe-56977769) - Dictatorship and slavery taint the Napoleonic reforms that shaped modern France.
 23. [The company where colleagues decide your salary](https://www.bbc.co.uk/news/business-56915767) - A software firm in Argentina is trying a radical experiment in employee transparency and democracy.
-24. [Welsh election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-wales-politics-56499726) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
+24. [Scottish election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56510773) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
 25. ['I've always thought I was British'](https://www.bbc.co.uk/news/uk-56984268) - BBC Panorama speaks to young people who say their dreams have been crushed due to their immigration status.
 26. [Covid cases at Everest base camp raise fears of serious outbreak](https://www.bbc.co.uk/news/world-asia-56984320) - Climbers say a growing number of people have tested positive, despite government denials.
 27. [Cardiff University team wants to change 'lad culture' perceptions](https://www.bbc.co.uk/news/uk-wales-56933984) - The students stepped forward to help chaperone women home after a hoax rape post on social media.
