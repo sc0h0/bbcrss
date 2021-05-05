@@ -12,8 +12,8 @@
 12. [Jesy Nelson opens up about her decision to leave Little Mix](https://www.bbc.co.uk/news/entertainment-arts-56992706) - The star felt "miserable" being compared to her bandmates and reached "breaking point" last year.
 13. [The newborn calf that crashed our wedding](https://www.bbc.co.uk/news/world-australia-56976291) - Wearing her wedding dress, dairy farmer Jessa Laws waded into knee-deep mud to aid a pregnant cow.
 14. [Stoke Mandeville: HS2 to move 3,000 bodies from medieval churchyard](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-56981338) - A team of archaeologists is set to remove the old St Mary's Church and its burial grounds.
-15. [The Papers: 'Stop veterans witch hunt' and third jab for over-50s](https://www.bbc.co.uk/news/blogs-the-papers-56989031) - Wednesday's papers react to the collapse of a trial of two ex-paratroopers who served in Northern Ireland.
-16. [Apsley House: Napoleon bronze death mask restored](https://www.bbc.co.uk/news/uk-england-london-56984562) - The bronze is a direct impression of the face of Napoleon, who died in exile 200 years ago.
+15. [Apsley House: Napoleon bronze death mask restored](https://www.bbc.co.uk/news/uk-england-london-56984562) - The bronze is a direct impression of the face of Napoleon, who died in exile 200 years ago.
+16. [The Papers: 'Stop veterans witch hunt' and third jab for over-50s](https://www.bbc.co.uk/news/blogs-the-papers-56989031) - Wednesday's papers react to the collapse of a trial of two ex-paratroopers who served in Northern Ireland.
 17. [Elections 2021: 'Parents shouldn't have to fight for child's care'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-56931993) - A mum believes her disabled son is being failed by the social care system.
 18. [Atlantic Ocean voyage ‘the hardest thing I’ve ever done’](https://www.bbc.co.uk/news/uk-northern-ireland-56929679) - Johnny Ward is part of a four-man rowing team that has crossed the Atlantic Ocean in a single boat.
 19. [Biden Carter: What’s going on in this picture?](https://www.bbc.co.uk/news/world-us-canada-56988360) - How the apparent size difference between the Bidens and the Carters came about.
@@ -21,7 +21,7 @@
 21. [Napoleon's incendiary legacy divides France 200 years on](https://www.bbc.co.uk/news/world-europe-56977769) - Dictatorship and slavery taint the Napoleonic reforms that shaped modern France.
 22. [The company where colleagues decide your salary](https://www.bbc.co.uk/news/business-56915767) - A software firm in Argentina is trying a radical experiment in employee transparency and democracy.
 23. [Welsh election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-wales-politics-56499726) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
-24. ['I didn't know I wasn't a British citizen'](https://www.bbc.co.uk/news/uk-56984268) - BBC Panorama speaks to young people who say their dreams have been crushed due to their immigration status.
+24. ['I've always thought I was British'](https://www.bbc.co.uk/news/uk-56984268) - BBC Panorama speaks to young people who say their dreams have been crushed due to their immigration status.
 25. [Covid cases at Everest base camp raise fears of serious outbreak](https://www.bbc.co.uk/news/world-asia-56984320) - Climbers say a growing number of people have tested positive, despite government denials.
 26. [Cardiff University team wants to change 'lad culture' perceptions](https://www.bbc.co.uk/news/uk-wales-56933984) - The students stepped forward to help chaperone women home after a hoax rape post on social media.
 27. [Covid-19: Care home residents can go on outdoor trips without isolating](https://www.bbc.co.uk/news/uk-56977779) - People in residential care in England are now allowed low-risk trips outside without isolating afterwards.
