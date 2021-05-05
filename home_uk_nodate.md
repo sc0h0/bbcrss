@@ -1,9 +1,9 @@
 1. [UK sends Royal Navy to patrol Jersey port amid fishing row](https://www.bbc.co.uk/news/uk-57003069) - Boris Johnson says he supports Jersey as French fishing boats prepare to protest new post-Brexit rules.
 2. [Covid: Britons fly via Turkey to avoid costly quarantine](https://www.bbc.co.uk/news/uk-56984057) - Travellers returning from "red list" countries say they can't afford the UK's quarantine fees.
 3. [Dalian Atkinson: Police officers 'colluded' after ex-footballer's death](https://www.bbc.co.uk/news/uk-england-shropshire-56995413) - The trial hears former Aston Villa star Dalian Atkinson was Tasered, kicked and hit with a baton.
-4. [Swan found with sock on head in 'mindless prank'](https://www.bbc.co.uk/news/uk-england-lincolnshire-56995224) - Police believe the item was placed on the bird's head deliberately and could have proved fatal.
-5. [Facebook's Trump ban upheld by Oversight Board for now](https://www.bbc.co.uk/news/technology-56985583) - Facebook's top "court" says the company has six months to justify its permanent ban of Mr Trump.
-6. [Prince blamed for shooting one of Europe's biggest bears](https://www.bbc.co.uk/news/world-europe-56991543) - Environmental groups suspect a prince from Austria killed the brown bear while hunting in Romania.
+4. [Prince blamed for shooting one of Europe's biggest bears](https://www.bbc.co.uk/news/world-europe-56991543) - Environmental groups suspect a prince from Austria killed the brown bear while hunting in Romania.
+5. [Swan found with sock on head in 'mindless prank'](https://www.bbc.co.uk/news/uk-england-lincolnshire-56995224) - Police believe the item was placed on the bird's head deliberately and could have proved fatal.
+6. [Facebook's Trump ban upheld by Oversight Board for now](https://www.bbc.co.uk/news/technology-56985583) - Facebook's top "court" says the company has six months to justify its permanent ban of Mr Trump.
 7. [Ancient child grave was Africa's earliest funeral](https://www.bbc.co.uk/news/science-environment-56986457) - A young child buried in a cave 78,000 years ago is the earliest known funeral in Africa.
 8. [Nick Kamen: Model and singer dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-56991728) - He appeared in a Levi's advert in 1985 and had a top five hit with Each Time You Break My Heart.
 9. [Peloton recalls treadmills after child's death](https://www.bbc.co.uk/news/business-56993894) - Home fitness equipment firm recalls Tread and Tread+ machines after six-year-old child pulled under treadmill.
