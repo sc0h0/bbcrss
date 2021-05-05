@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 May 2021 01:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 02:08:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/health-56984984</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56984984</guid>
             <pubDate>Wed, 05 May 2021 00:12:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish election 2021: Sturgeon rules out 'wildcat' indyref2 vote]]></title>
-            <description><![CDATA[The SNP leader denies claims she could seek to hold an "illegal" referendum if her party wins a majority.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56988320</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56988320</guid>
-            <pubDate>Tue, 04 May 2021 21:17:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Floyd killer Derek Chauvin asks for new trial]]></title>
@@ -44,39 +37,11 @@
             <pubDate>Tue, 04 May 2021 23:16:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man City 2-0 Paris St-Germain (4-1 on aggregate): City into first Champions League final]]></title>
-            <description><![CDATA[Riyad Mahrez scores twice as Manchester City seal an aggregate win over Paris St-Germain to reach their first European final in 51 years.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56973031</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56973031</guid>
-            <pubDate>Tue, 04 May 2021 23:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another Covid lockdown unlikely, says scientist]]></title>
-            <description><![CDATA[The UK is "likely to be on a steady course now out of this pandemic", Prof Neil Ferguson says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56988070</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56988070</guid>
-            <pubDate>Tue, 04 May 2021 19:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: 'I held my husband as they turned the machines off']]></title>
-            <description><![CDATA[The widow of a father-of-three who died with Covid says she feels "honoured" she could be with him when he died.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-56985530</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-56985530</guid>
-            <pubDate>Tue, 04 May 2021 18:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[D-Day veterans invited to Staffordshire memorial event]]></title>
-            <description><![CDATA[The event will include a broadcast of the opening of the British Normandy Memorial in France.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-56986895</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-56986895</guid>
-            <pubDate>Wed, 05 May 2021 00:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: Biden aims to expand vaccines for adults and children]]></title>
-            <description><![CDATA[The president's new Covid-19 targets would allow teens ages 12-15 to be vaccinated, pending approval.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-56988381</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56988381</guid>
-            <pubDate>Tue, 04 May 2021 23:33:57 GMT</pubDate>
+            <title><![CDATA[Covid: MPs want care home visiting rights put into law]]></title>
+            <description><![CDATA[It is "unacceptable" for some care home providers not to follow government guidance, a new report says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56989049</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56989049</guid>
+            <pubDate>Wed, 05 May 2021 01:36:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ikea starts buy-back scheme with promise to tackle waste]]></title>
@@ -86,18 +51,53 @@
             <pubDate>Tue, 04 May 2021 23:07:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish election 2021: Sturgeon rules out 'wildcat' indyref2 vote]]></title>
+            <description><![CDATA[The SNP leader denies claims she could seek to hold an "illegal" referendum if her party wins a majority.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56988320</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56988320</guid>
+            <pubDate>Tue, 04 May 2021 21:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another Covid lockdown unlikely, says scientist]]></title>
+            <description><![CDATA[The UK is "likely to be on a steady course now out of this pandemic", Prof Neil Ferguson says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56988070</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56988070</guid>
+            <pubDate>Tue, 04 May 2021 19:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[D-Day veterans invited to Staffordshire memorial event]]></title>
+            <description><![CDATA[The event will include a broadcast of the opening of the British Normandy Memorial in France.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-56986895</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-56986895</guid>
+            <pubDate>Wed, 05 May 2021 00:22:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five killed in machete attack at Brazil nursery]]></title>
+            <description><![CDATA[Three small children and two staff members die in the attack in a small town in the southern region.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56983868</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56983868</guid>
+            <pubDate>Tue, 04 May 2021 21:28:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Trump launches new 'communications' platform]]></title>
-            <description><![CDATA[The former president releases new website after social media ban earlier this year.]]></description>
+            <description><![CDATA[The former president releases a new website after his social media ban earlier this year.]]></description>
             <link>https://www.bbc.co.uk/news/technology-56989500</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-56989500</guid>
             <pubDate>Wed, 05 May 2021 00:44:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stuart MacGill: Ex-Australian cricketer kidnapped and released in Sydney]]></title>
-            <description><![CDATA[Former test bowler Stuart MacGill was abducted and released in a kidnapping last month.]]></description>
+            <description><![CDATA[Former test bowler Stuart MacGill was abducted and released in an alleged kidnapping last month.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56989931</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56989931</guid>
             <pubDate>Wed, 05 May 2021 00:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man City 2-0 Paris St-Germain (4-1 on aggregate): City into first Champions League final]]></title>
+            <description><![CDATA[Riyad Mahrez scores twice as Manchester City seal an aggregate win over Paris St-Germain to reach their first European final in 51 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56973031</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56973031</guid>
+            <pubDate>Tue, 04 May 2021 23:09:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Stop veterans witch hunt' and third jab for over-50s]]></title>
@@ -177,11 +177,11 @@
             <pubDate>Tue, 04 May 2021 23:35:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish election 2021: Who should I vote for? Compare party policies]]></title>
+            <title><![CDATA[Wales election 2021: Who should I vote for? Compare party policies]]></title>
             <description><![CDATA[Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56510773</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56510773</guid>
-            <pubDate>Thu, 22 Apr 2021 14:41:14 GMT</pubDate>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-56499726</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-56499726</guid>
+            <pubDate>Thu, 22 Apr 2021 10:55:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I didn't know I wasn't a British citizen']]></title>
