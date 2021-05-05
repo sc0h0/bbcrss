@@ -2,7 +2,7 @@
 2. [George Floyd killer Derek Chauvin asks for new trial](https://www.bbc.co.uk/news/world-us-canada-56989757) - The white former police officer was found guilty of the murder and manslaughter of George Floyd.
 3. [How India descended into Covid-19 chaos](https://www.bbc.co.uk/news/world-asia-india-56977653) - Experts tell the BBC that delays in decision-making worsened the crisis of India's second wave.
 4. [Covid: MPs want care home visiting rights put into law](https://www.bbc.co.uk/news/uk-56989049) - It is "unacceptable" some care home providers are not following government guidance, a new report says.
-5. [UK supermarkets warn Brazil over Amazon land reform](https://www.bbc.co.uk/news/uk-56989711) - Almost 40 companies say proposed legislation could accelerate deforestation in the Amazon region.
+5. [UK supermarkets warn Brazil over Amazon land reform](https://www.bbc.co.uk/news/uk-56989711) - Almost 40 UK companies say proposed laws could accelerate deforestation in the Amazon region.
 6. [Scottish election 2021: Sturgeon rules out 'wildcat' indyref2 vote](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56988320) - The SNP leader denies claims she could seek to hold an "illegal" referendum if her party wins a majority.
 7. [D-Day veterans invited to Staffordshire memorial event](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-56986895) - The event will include a broadcast of the opening of the British Normandy Memorial in France.
 8. [Five killed in machete attack at Brazil nursery](https://www.bbc.co.uk/news/world-latin-america-56983868) - Three small children and two staff members die in the attack in a small town in the southern region.
@@ -39,14 +39,15 @@
 39. [Scottish election 2021: Does Scotland's future lie in or out of the Union?](https://www.bbc.co.uk/news/uk-scotland-56970549) - BBC Scotland's James Cook hears from those both for and against another referendum on independence.
 40. [Election 2021: How do I vote and why could results take longer?](https://www.bbc.co.uk/news/uk-politics-56581106) - About 48 million people will be able to vote in a series of elections on Thursday 6 May.
 41. [Scottish election 2021: Has the campaign changed voters' minds?](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56969880) - Politicians have spent the last six weeks trying to persuade people to vote for them - but has it worked?
-42. [Covid: When and how could social distancing stop?](https://www.bbc.co.uk/news/uk-51506729) - Rules on hugging and social distancing in England are being reviewed.
+42. [How many cases in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 43. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Northern Ireland is the latest part of the UK to lift some of the restrictions designed to stop the spread of Covid-19.
 44. [When can I holiday abroad, and which countries will be on the green list?](https://www.bbc.co.uk/news/explainers-52544307) - A new "traffic light" system for travel will classify countries as green, amber or red.
 45. [Covid: Restaurants and pubs are reopening, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - Northern Ireland follows England, Scotland and Wales in allowing venues to reopen outdoors.
 46. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 40 or over in England are now being offered a Covid vaccine as the rollout continues.
-47. [Coronavirus: What's the risk on transport?](https://www.bbc.co.uk/news/health-51736185) - As UK coronavirus restrictions continue to be relaxed, public transport could become much busier.
-48. [When does the stamp duty holiday in England and Northern Ireland end?](https://www.bbc.co.uk/news/business-53319433) - What is the stamp duty holiday and when will it finish?
-49. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
-50. [Rare blood clots - what you need to know](https://www.bbc.co.uk/news/health-56674796) - We take a look at why these unusual clots happen and when they occur.
-51. [Covid: Is Europe lifting lockdown restrictions?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
-52. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
+47. [Covid: When and how could social distancing stop?](https://www.bbc.co.uk/news/uk-51506729) - Rules on hugging and social distancing in England are being reviewed.
+48. [Coronavirus: What's the risk on transport?](https://www.bbc.co.uk/news/health-51736185) - As UK coronavirus restrictions continue to be relaxed, public transport could become much busier.
+49. [When does the stamp duty holiday in England and Northern Ireland end?](https://www.bbc.co.uk/news/business-53319433) - What is the stamp duty holiday and when will it finish?
+50. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
+51. [Rare blood clots - what you need to know](https://www.bbc.co.uk/news/health-56674796) - We take a look at why these unusual clots happen and when they occur.
+52. [Covid: Is Europe lifting lockdown restrictions?](https://www.bbc.co.uk/news/explainers-53640249) - Are European countries relaxing restrictions put in place to control a new wave of infections?
+53. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.

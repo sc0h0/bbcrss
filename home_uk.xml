@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 May 2021 03:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 03:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -45,7 +45,7 @@
         </item>
         <item>
             <title><![CDATA[UK supermarkets warn Brazil over Amazon land reform]]></title>
-            <description><![CDATA[Almost 40 companies say proposed legislation could accelerate deforestation in the Amazon region.]]></description>
+            <description><![CDATA[Almost 40 UK companies say proposed laws could accelerate deforestation in the Amazon region.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56989711</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56989711</guid>
             <pubDate>Wed, 05 May 2021 03:25:20 GMT</pubDate>
@@ -303,11 +303,11 @@
             <pubDate>Mon, 03 May 2021 10:52:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: When and how could social distancing stop?]]></title>
-            <description><![CDATA[Rules on hugging and social distancing in England are being reviewed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51506729</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
-            <pubDate>Tue, 04 May 2021 13:41:10 GMT</pubDate>
+            <title><![CDATA[How many cases in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Tue, 04 May 2021 15:53:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
@@ -336,6 +336,13 @@
             <link>https://www.bbc.co.uk/news/health-55045639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
             <pubDate>Mon, 03 May 2021 22:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When and how could social distancing stop?]]></title>
+            <description><![CDATA[Rules on hugging and social distancing in England are being reviewed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Tue, 04 May 2021 13:41:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What's the risk on transport?]]></title>
