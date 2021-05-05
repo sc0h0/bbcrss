@@ -2,9 +2,9 @@
 2. [George Floyd killer Derek Chauvin asks for new trial](https://www.bbc.co.uk/news/world-us-canada-56989757) - The white former police officer was found guilty of the murder and manslaughter of George Floyd.
 3. [How India descended into Covid-19 chaos](https://www.bbc.co.uk/news/world-asia-india-56977653) - Experts tell the BBC that delays in decision-making worsened the crisis of India's second wave.
 4. [Covid-19: Extra cash pledge to fight variants and care home visiting rights](https://www.bbc.co.uk/news/uk-56987621) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
-5. [Scottish election 2021: Sturgeon rules out 'wildcat' indyref2 vote](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56988320) - The SNP leader denies claims she could seek to hold an "illegal" referendum if her party wins a majority.
-6. [UK supermarkets warn Brazil over Amazon land bill](https://www.bbc.co.uk/news/uk-56989711) - Almost 40 UK companies say proposed laws could accelerate deforestation in the Amazon region.
-7. [Ikea starts buy-back scheme offering vouchers for old furniture](https://www.bbc.co.uk/news/business-56981636) - The service encourages customers to sell back furniture they no longer need in return for vouchers to spend in-store.
+5. [‘Going out’ gear out and athleisure in for Boohoo](https://www.bbc.co.uk/news/business-56991874) - The online retailer said full-year sales jumped 41% as the pandemic boosted demand for loungewear.
+6. [Scottish election 2021: Sturgeon rules out 'wildcat' indyref2 vote](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56988320) - The SNP leader denies claims she could seek to hold an "illegal" referendum if her party wins a majority.
+7. [UK supermarkets warn Brazil over Amazon land bill](https://www.bbc.co.uk/news/uk-56989711) - Almost 40 UK companies say proposed laws could accelerate deforestation in the Amazon region.
 8. [Trump launches new 'communications' platform](https://www.bbc.co.uk/news/technology-56989500) - The former president releases a new website after his social media ban earlier this year.
 9. [Covid: Reused nose swab scam busted in Indonesia airport](https://www.bbc.co.uk/news/world-asia-56990253) - Up to 9,000 passengers at an Indonesian airport may have been tested with washed and reused swabs.
 10. [Woman loses nearly £113k in dating site romance fraud](https://www.bbc.co.uk/news/uk-england-birmingham-56984844) - Rachel Elwell says she is facing bankruptcy after losing money to a scammer.
