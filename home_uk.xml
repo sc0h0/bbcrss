@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 May 2021 23:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 23:56:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,6 +184,13 @@
             <pubDate>Wed, 05 May 2021 23:17:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Night Fever: How club culture has moved with the times]]></title>
+            <description><![CDATA[A new show looks at the origins of disco culture in the 1960s and how it's developed since.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56916861</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56916861</guid>
+            <pubDate>Wed, 05 May 2021 23:46:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus: How India descended into Covid-19 chaos]]></title>
             <description><![CDATA[Experts tell the BBC that delays in decision-making worsened the crisis of India's second wave.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56977653</link>
@@ -303,25 +310,11 @@
             <pubDate>Tue, 04 May 2021 13:57:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How many cases in my area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Wed, 05 May 2021 16:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the India, Brazil, South Africa and UK variants?]]></title>
-            <description><![CDATA[The world is carefully monitoring Covid for mutations that help it spread better or resist vaccines.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55659820</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
-            <pubDate>Wed, 05 May 2021 15:14:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[Northern Ireland is the latest part of the UK to lift some of the restrictions designed to stop the spread of Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Tue, 04 May 2021 16:14:20 GMT</pubDate>
+            <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
+            <description><![CDATA[As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Wed, 05 May 2021 16:13:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When can I holiday abroad, and which countries will be on the green list?]]></title>
@@ -331,11 +324,11 @@
             <pubDate>Wed, 05 May 2021 14:23:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
-            <description><![CDATA[People 40 or over in England are now being offered a Covid vaccine as the rollout continues.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55045639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Mon, 03 May 2021 22:03:13 GMT</pubDate>
+            <title><![CDATA[Covid: What are my money-back rights for holidays abroad?]]></title>
+            <description><![CDATA[Quarantine-free overseas holidays may soon be possible, but what are my refund and travel insurance rights?]]></description>
+            <link>https://www.bbc.co.uk/news/business-51615412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-51615412</guid>
+            <pubDate>Wed, 05 May 2021 16:08:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What are the social distancing rules and the rule of six?]]></title>
@@ -343,6 +336,34 @@
             <link>https://www.bbc.co.uk/news/uk-51506729</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
             <pubDate>Wed, 05 May 2021 09:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the India, Brazil, South Africa and UK variants?]]></title>
+            <description><![CDATA[The world is carefully monitoring Covid for mutations that help it spread better or resist vaccines.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55659820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
+            <pubDate>Wed, 05 May 2021 15:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many cases in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Wed, 05 May 2021 16:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[Northern Ireland is the latest part of the UK to lift some of the restrictions designed to stop the spread of Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Tue, 04 May 2021 16:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
+            <description><![CDATA[People 40 or over in England are now being offered a Covid vaccine as the rollout continues.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Mon, 03 May 2021 22:03:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What's the risk on transport?]]></title>
