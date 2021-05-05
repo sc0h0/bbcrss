@@ -1,9 +1,9 @@
 1. [Facebook's Trump ban upheld by Oversight Board for now](https://www.bbc.co.uk/news/technology-56985583) - Facebook's top "court" says the company has six months to justify its permanent ban of Mr Trump.
-2. [Covid: Indian delegates in UK for G7 talks self-isolate after Covid cases](https://www.bbc.co.uk/news/uk-56993129) - The foreign minister - who met Home Secretary Priti Patel on Tuesday - will carry out meetings virtually.
-3. [Julia James: New image of murdered PCSO released](https://www.bbc.co.uk/news/uk-england-kent-56999763) - The new picture shows Julia James in the clothes she was wearing on the day she was killed.
+2. [Covid: Give jabs to poorer hotspots before boosters, urges WHO envoy](https://www.bbc.co.uk/news/uk-56999351) - Covid is bigger, fiercer and "causing more distress than ever", warns World Health Organization envoy.
+3. [Julia James: New image of murdered PCSO released](https://www.bbc.co.uk/news/uk-england-kent-56999763) - The picture shows Julia James in the clothes she was wearing on the day she was killed.
 4. [Nick Kamen: Model and singer dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-56991728) - He appeared in a Levi's advert in 1985 and had a top five hit with Each Time You Break My Heart.
-5. [Covid: Depression rises in young and women during second peak](https://www.bbc.co.uk/news/health-56993575) - Overall, the number of adults who feel depressed has doubled since before the pandemic.
-6. [Covid: Extra cash to target new variants will future-proof UK - minister](https://www.bbc.co.uk/news/health-56984984) - Almost £30m of government funding will fast-track vaccines that fight new variants of coronavirus.
+5. [Covid: Indian delegates in UK for G7 talks self-isolate after Covid cases](https://www.bbc.co.uk/news/uk-56993129) - The foreign minister - who met Home Secretary Priti Patel on Tuesday - will carry out meetings virtually.
+6. [Covid: Depression rises in young and women during second peak](https://www.bbc.co.uk/news/health-56993575) - Overall, the number of adults who feel depressed has doubled since before the pandemic.
 7. [Malian woman gives birth to nine babies](https://www.bbc.co.uk/news/world-africa-56994408) - Nonuplets are extremely rare - and doctors had thought Halima Cisse was carrying seven babies.
 8. [Meghan wins remaining copyright claim over father's letter](https://www.bbc.co.uk/news/uk-56999331) - A judge grants the rest of her claim against the Mail on Sunday for printing a letter to her father.
 9. [Olisa Odukwe: Police find body in search for missing student](https://www.bbc.co.uk/news/uk-england-bristol-56991184) - Bristol University student Olisa Odukwe, 20, was last seen leaving his home in the city on Saturday.
