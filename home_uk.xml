@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 May 2021 23:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 23:45:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Wed, 05 May 2021 11:59:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: US backs waiver on vaccine intellectual property]]></title>
+            <description><![CDATA[Supporters say the move would boost vaccine production but the pharmaceutical industry disagrees.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57004302</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57004302</guid>
+            <pubDate>Wed, 05 May 2021 23:34:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Father calls for pornography sites to require proof of age]]></title>
             <description><![CDATA[A father and an Oxford student seek a High Court hearing to require age verification on porn sites.]]></description>
             <link>https://www.bbc.co.uk/news/education-56993735</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56993735</guid>
             <pubDate>Wed, 05 May 2021 21:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US birth rate falls 4% to its lowest point ever]]></title>
-            <description><![CDATA[The rate drops for mothers of every measured race and ethnicity, and in nearly every age group.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57003722</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57003722</guid>
-            <pubDate>Wed, 05 May 2021 23:07:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince blamed for shooting one of Europe's biggest bears]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/business-56972207</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56972207</guid>
             <pubDate>Wed, 05 May 2021 23:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US birth rate falls 4% to its lowest point ever]]></title>
+            <description><![CDATA[The rate drops for mothers of every measured race and ethnicity, and in nearly every age group.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57003722</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57003722</guid>
+            <pubDate>Wed, 05 May 2021 23:07:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Britons fly via Turkey to avoid costly quarantine]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-57001914</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57001914</guid>
             <pubDate>Wed, 05 May 2021 22:41:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zulu Queen: Hundreds of mourners hold parade ahead of funeral]]></title>
-            <description><![CDATA[South Africa's Zulu nation awaits a decision on who will succeed the queen, who died last month.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57001682</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57001682</guid>
-            <pubDate>Wed, 05 May 2021 22:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chelsea 2-0 Real Madrid (agg 3-1): Thomas Tuchel's side set up all-English Champions League final]]></title>
@@ -156,6 +156,34 @@
             <pubDate>Wed, 05 May 2021 13:37:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Black leaders blame lower vaccine take-up on racism]]></title>
+            <description><![CDATA[Mistrust and inequality may explain why vaccine take-up is lower in the black community, say campaigners.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56813982</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56813982</guid>
+            <pubDate>Wed, 05 May 2021 23:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[While She Sleeps: Why I spend big subscribing to my favourite band]]></title>
+            <description><![CDATA[Sheffield band While She Sleeps say they've created 'a sustainable model' for the music industry.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56887239</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56887239</guid>
+            <pubDate>Wed, 05 May 2021 23:33:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zulu Queen: Hundreds of mourners hold parade ahead of funeral]]></title>
+            <description><![CDATA[South Africa's Zulu nation awaits a decision on who will succeed the queen, who died last month.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57001682</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57001682</guid>
+            <pubDate>Wed, 05 May 2021 22:33:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['We are desperate to go travelling again']]></title>
+            <description><![CDATA["Digital nomads" aim to get back to mobile working after Covid, with many countries wooing them.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56981100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56981100</guid>
+            <pubDate>Wed, 05 May 2021 23:17:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus: How India descended into Covid-19 chaos]]></title>
             <description><![CDATA[Experts tell the BBC that delays in decision-making worsened the crisis of India's second wave.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-56977653</link>
@@ -219,6 +247,13 @@
             <pubDate>Wed, 05 May 2021 21:26:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tuchel delight as Chelsea secure Champions League final against 'benchmark' Man City ]]></title>
+            <description><![CDATA[Chelsea boss Thomas Tuchel says Manchester City are the "benchmark" as his side secure a famous win over Real Madrid to secure an all-English Champions League final.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57004535</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57004535</guid>
+            <pubDate>Wed, 05 May 2021 23:27:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kerr double as Chelsea take pole position going into WSL's decisive final day]]></title>
             <description><![CDATA[Sam Kerr scores twice to help Chelsea to a 2-0 win at Tottenham and move the Blues a step closer to retaining the WSL title.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56910717</link>
@@ -231,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/57003222</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57003222</guid>
             <pubDate>Wed, 05 May 2021 18:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women's Super League highlights: Tottenham 0-2 Chelsea]]></title>
-            <description><![CDATA[Watch the highlights as Sam Kerr's double against Tottenham moves Chelsea a step closer to retaining the Women's Super League title.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57003642</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57003642</guid>
-            <pubDate>Wed, 05 May 2021 19:03:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Election 2021: How do I vote and why could results take longer?]]></title>
