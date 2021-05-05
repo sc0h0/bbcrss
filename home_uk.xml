@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 May 2021 02:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 02:49:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -38,7 +38,7 @@
         </item>
         <item>
             <title><![CDATA[Covid: MPs want care home visiting rights put into law]]></title>
-            <description><![CDATA[It is "unacceptable" for some care home providers not to follow government guidance, a new report says.]]></description>
+            <description><![CDATA[It is "unacceptable" some care home providers are not following government guidance, a new report says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-56989049</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56989049</guid>
             <pubDate>Wed, 05 May 2021 01:36:37 GMT</pubDate>
@@ -56,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56988320</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56988320</guid>
             <pubDate>Tue, 04 May 2021 21:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another Covid lockdown unlikely, says scientist]]></title>
-            <description><![CDATA[The UK is "likely to be on a steady course now out of this pandemic", Prof Neil Ferguson says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56988070</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56988070</guid>
-            <pubDate>Tue, 04 May 2021 19:52:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[D-Day veterans invited to Staffordshire memorial event]]></title>
@@ -86,6 +79,13 @@
             <pubDate>Wed, 05 May 2021 00:44:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Israel: Netanyahu deadline to form government expires]]></title>
+            <description><![CDATA[He had been trying to build a coalition after the fourth inconclusive election in two years.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56989751</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56989751</guid>
+            <pubDate>Tue, 04 May 2021 23:00:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Stuart MacGill: Ex-Australian cricketer kidnapped and released in Sydney]]></title>
             <description><![CDATA[Former test bowler Stuart MacGill was abducted and released in an alleged kidnapping last month.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56989931</link>
@@ -107,7 +107,7 @@
             <pubDate>Tue, 04 May 2021 22:53:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australian bride gets muddy for arrival of calf at wedding]]></title>
+            <title><![CDATA[The newborn calf that crashed our wedding]]></title>
             <description><![CDATA[Wearing her wedding dress, dairy farmer Jessa Laws waded into knee-deep mud to aid a pregnant cow.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-56976291</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56976291</guid>
