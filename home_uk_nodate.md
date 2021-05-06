@@ -1,5 +1,5 @@
-1. [Royal Navy ships patrolling Jersey amid fishing row with France](https://www.bbc.co.uk/news/uk-57003069) - Jersey officials are meeting French fishermen to try and resolve the dispute over post-Brexit rights.
-2. [UK economy set to grow at fastest rate since WW2](https://www.bbc.co.uk/news/business-57008220) - Economy expected to grow by 7.25% in 2021 as lockdown restrictions are eased, says Bank of England.
+1. [Jersey officials hold talks with French fishermen over rights dispute](https://www.bbc.co.uk/news/uk-57003069) - Two Royal Navy ships and two French boats are nearby, with the row over post-Brexit rights ongoing.
+2. [UK economy set to grow at fastest rate in more than 70 years](https://www.bbc.co.uk/news/business-57008220) - Economy expected to grow by 7.25% in 2021 as lockdown restrictions are eased, says Bank of England.
 3. [Mayra Zulfiqar shooting: Police had been warned before killing](https://www.bbc.co.uk/news/uk-england-london-57007347) - Mayra Zulfiqar asked for protection in Pakistan less than two weeks before she died, the BBC learns.
 4. [Elections 2021: What can't I do in a polling station?](https://www.bbc.co.uk/news/explainers-56849080) - The rules on everything from whether you can take a selfie to voting while drunk.
 5. [Queen wishes great-grandson Archie happy birthday](https://www.bbc.co.uk/news/uk-57006672) - The son of the Duke and Duchess of Sussex, who live in California, turns two today.
