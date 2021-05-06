@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 May 2021 06:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 07:26:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[UK sends Royal Navy ships to patrol Jersey amid fishing row with France]]></title>
-            <description><![CDATA[The PM says he supports Jersey as French fishing boats prepare to protest against new post-Brexit rules.]]></description>
+            <description><![CDATA[The PM says he supports Jersey as French fishing boats protest against new post-Brexit rules.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57003069</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57003069</guid>
-            <pubDate>Thu, 06 May 2021 06:00:42 GMT</pubDate>
+            <pubDate>Thu, 06 May 2021 07:08:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Millions to vote in bumper set of elections]]></title>
@@ -30,18 +30,18 @@
             <pubDate>Wed, 05 May 2021 23:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elections 2021: What can't I do in a polling station?]]></title>
-            <description><![CDATA[The rules on everything from whether you can take a selfie to voting while drunk.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-56849080</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56849080</guid>
-            <pubDate>Wed, 05 May 2021 11:59:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Antony Blinken: US will respond to reckless Russian acts]]></title>
-            <description><![CDATA[The US would prefer more stable and predictable relations with Russia, Antony Blinken tells the BBC.]]></description>
+            <description><![CDATA[The US would prefer more stable and predictable ties with Russia, Antony Blinken tells the BBC.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57002792</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57002792</guid>
             <pubDate>Thu, 06 May 2021 06:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No full-time return to the office for over a million]]></title>
+            <description><![CDATA[Almost all of 50 big UK firms tell the BBC staff will divide their time between home and office in future.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56972207</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56972207</guid>
+            <pubDate>Thu, 06 May 2021 06:55:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Polls open for elections and US backs waiver on vaccine patents]]></title>
@@ -51,11 +51,11 @@
             <pubDate>Thu, 06 May 2021 06:44:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No full-time return to the office for over a million]]></title>
-            <description><![CDATA[Almost all of 50 big UK firms tell the BBC staff will divide their time between home and office in future.]]></description>
-            <link>https://www.bbc.co.uk/news/business-56972207</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56972207</guid>
-            <pubDate>Thu, 06 May 2021 06:55:44 GMT</pubDate>
+            <title><![CDATA[Elections 2021: What can't I do in a polling station?]]></title>
+            <description><![CDATA[The rules on everything from whether you can take a selfie to voting while drunk.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-56849080</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56849080</guid>
+            <pubDate>Wed, 05 May 2021 11:59:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: US backs waiver on vaccine patents to boost supply]]></title>
@@ -66,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[India Covid: Government says new variant linked to surge]]></title>
-            <description><![CDATA[The current surge of the virus has already overwhelmed India's healthcare system.]]></description>
+            <description><![CDATA[The deadly second wave of the virus has already overwhelmed India's healthcare system.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57004764</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57004764</guid>
             <pubDate>Thu, 06 May 2021 04:38:43 GMT</pubDate>
@@ -261,13 +261,6 @@
             <pubDate>Wed, 05 May 2021 21:26:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['A lot of my anger was pain and unhappiness - we have to break the cycle of abuse']]></title>
-            <description><![CDATA[In a new documentary, former England, Arsenal, Crystal Palace and West Ham striker Ian Wright shares his own story of growing up in a psychologically abusive and violent home.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57000650</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57000650</guid>
-            <pubDate>Thu, 06 May 2021 05:04:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['It's more personal' - Alvarez sends Saunders message in Texas]]></title>
             <description><![CDATA[Saul 'Canelo' Alvarez says Billy Joe Saunders' pursuit of him has made Saturday's Texas fight "more personal".]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/56999903</link>
@@ -275,11 +268,18 @@
             <pubDate>Thu, 06 May 2021 05:23:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['A lot of my anger was pain and unhappiness - we have to break the cycle of abuse']]></title>
+            <description><![CDATA[In a new documentary, former England, Arsenal, Crystal Palace and West Ham striker Ian Wright shares his own story of growing up in a psychologically abusive and violent home.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57000650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57000650</guid>
+            <pubDate>Thu, 06 May 2021 05:04:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man City could move for Rice - Thursday's gossip]]></title>
             <description><![CDATA[Manchester City could make Declan Rice move if Fernandinho leaves, Ibrahima Konate is set to join Liverpool on a five-year deal, Tottenham are in talks with Inter boss Antonio Conte, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/56999252</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/56999252</guid>
-            <pubDate>Thu, 06 May 2021 06:13:32 GMT</pubDate>
+            <pubDate>Thu, 06 May 2021 07:01:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Election 2021: How do I vote and why could results take longer?]]></title>
