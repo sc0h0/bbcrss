@@ -2,7 +2,7 @@
 2. [Millions to vote in bumper set of elections](https://www.bbc.co.uk/news/uk-politics-56998434) - Local and national contests - many delayed by Covid - are taking place in England, Scotland and Wales.
 3. [Elections 2021: What can't I do in a polling station?](https://www.bbc.co.uk/news/explainers-56849080) - The rules on everything from whether you can take a selfie to voting while drunk.
 4. [Covid: US backs waiver on vaccine intellectual property](https://www.bbc.co.uk/news/world-us-canada-57004302) - Supporters say the move would boost vaccine production but the pharmaceutical industry disagrees.
-5. [No full-time return to the office for over a million](https://www.bbc.co.uk/news/business-56972207) - The vast majority of 50 big UK firms say staff will divide their time between home and office, BBC research finds.
+5. [No full-time return to the office for over a million](https://www.bbc.co.uk/news/business-56972207) - Almost all of 50 big UK firms tell the BBC staff will divide their time between home and office in future.
 6. [Father calls for pornography sites to require proof of age](https://www.bbc.co.uk/news/education-56993735) - A father and an Oxford student seek a High Court hearing to require age verification on porn sites.
 7. [US birth rate falls 4% to its lowest point ever](https://www.bbc.co.uk/news/world-us-canada-57003722) - The rate drops for mothers of every measured race and ethnicity, and in nearly every age group.
 8. [Covid: Britons fly via Turkey to avoid costly quarantine](https://www.bbc.co.uk/news/uk-56984057) - Travellers returning from "red list" countries say they can't afford the UK's quarantine fees.
