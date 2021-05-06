@@ -6,9 +6,9 @@
 6. [Elections 2021: What can't I do in a polling station?](https://www.bbc.co.uk/news/explainers-56849080) - The rules on everything from whether you can take a selfie to voting while drunk.
 7. [India Covid: Government says new variant linked to surge](https://www.bbc.co.uk/news/world-asia-india-57004764) - The deadly second wave of the virus has already overwhelmed India's healthcare system.
 8. [Covid: US backs waiver on vaccine patents to boost supply](https://www.bbc.co.uk/news/world-us-canada-57004302) - Supporters say the move would increase vaccine production but the pharmaceutical industry disagrees.
-9. [Father calls for pornography sites to require proof of age](https://www.bbc.co.uk/news/education-56993735) - A father and an Oxford student seek a High Court hearing to require age verification on porn sites.
-10. [Millions at security risk from old routers, Which? warns](https://www.bbc.co.uk/news/technology-56996717) - Research by Which? looked at a selection of older routers still being used by customers.
-11. [Queen wishes great-grandson Archie happy birthday](https://www.bbc.co.uk/news/uk-57006672) - The son of the Duke and Duchess of Sussex, who live in California, turns two today.
+9. [Queen wishes great-grandson Archie happy birthday](https://www.bbc.co.uk/news/uk-57006672) - The son of the Duke and Duchess of Sussex, who live in California, turns two today.
+10. [Father calls for pornography sites to require proof of age](https://www.bbc.co.uk/news/education-56993735) - A father and an Oxford student seek a High Court hearing to require age verification on porn sites.
+11. [Millions at security risk from old routers, Which? warns](https://www.bbc.co.uk/news/technology-56996717) - Research by Which? looked at a selection of older routers still being used by customers.
 12. [The Papers: PM 'sends gunboats to Jersey' and 'Navy to face the French'](https://www.bbc.co.uk/news/blogs-the-papers-57004022) - The UK sending Royal Navy vessels to Jersey amid a row over fishing rights with France features on the front pages.
 13. [Mental health: 'We need to care for patients, but also ourselves'](https://www.bbc.co.uk/news/uk-england-london-56983061) - Following the death of his cousin, Dr Dan Gearon created the charity, You Okay, Doc?
 14. [Drone trucker: Sharing wild Australian landscapes for a cause](https://www.bbc.co.uk/news/world-australia-56990845) - Truck driver Ben Stamatovich uses a drone to capture rugged landscapes on his journeys across Australia.
