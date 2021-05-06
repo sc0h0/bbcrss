@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 May 2021 09:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 09:42:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Thu, 06 May 2021 06:34:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Polls open for elections and US backs waiver on vaccine patents]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57002201</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57002201</guid>
-            <pubDate>Thu, 06 May 2021 06:44:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No full-time return to the office for over a million]]></title>
             <description><![CDATA[Almost all of 50 big UK firms tell the BBC staff will divide their time between home and office in future.]]></description>
             <link>https://www.bbc.co.uk/news/business-56972207</link>
@@ -56,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/explainers-56849080</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56849080</guid>
             <pubDate>Wed, 05 May 2021 11:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India Covid: Government says new variant linked to surge]]></title>
-            <description><![CDATA[The deadly second wave of the virus has already overwhelmed India's healthcare system.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57004764</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57004764</guid>
-            <pubDate>Thu, 06 May 2021 04:38:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: US backs waiver on vaccine patents to boost supply]]></title>
@@ -79,11 +65,18 @@
             <pubDate>Thu, 06 May 2021 07:53:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Father calls for pornography sites to require proof of age]]></title>
-            <description><![CDATA[A father and an Oxford student seek a High Court hearing to require age verification on porn sites.]]></description>
-            <link>https://www.bbc.co.uk/news/education-56993735</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-56993735</guid>
-            <pubDate>Wed, 05 May 2021 21:00:44 GMT</pubDate>
+            <title><![CDATA[India Covid aid: Is emergency relief reaching those in need?]]></title>
+            <description><![CDATA[Emergency relief is flowing into India to help stem its Covid-19 crisis, but concerns are mounting about delays in supply.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56999104</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56999104</guid>
+            <pubDate>Thu, 06 May 2021 09:30:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Byron burger death: No damages payout for Owen Carey's family]]></title>
+            <description><![CDATA[Owen Carey's family officially launch their campaign for a law change following his death in 2017.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57000802</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57000802</guid>
+            <pubDate>Thu, 06 May 2021 08:30:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nick Kamen: Madonna heartbroken by singer and model's death]]></title>
@@ -93,11 +86,11 @@
             <pubDate>Thu, 06 May 2021 08:54:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: PM 'sends gunboats to Jersey' and 'Navy to face the French']]></title>
-            <description><![CDATA[The UK sending Royal Navy vessels to Jersey amid a row over fishing rights with France features on the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57004022</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57004022</guid>
-            <pubDate>Thu, 06 May 2021 03:52:52 GMT</pubDate>
+            <title><![CDATA[Troubles: Anger at proposed 'ban' on prosecutions]]></title>
+            <description><![CDATA[Some political parties have reacted with anger to UK proposals to restrict Troubles-era prosecutions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57006280</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57006280</guid>
+            <pubDate>Thu, 06 May 2021 09:11:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mental health: 'We need to care for patients, but also ourselves']]></title>
@@ -105,6 +98,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-56983061</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56983061</guid>
             <pubDate>Wed, 05 May 2021 23:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: PM 'sends gunboats to Jersey' and 'Navy to face the French']]></title>
+            <description><![CDATA[The UK sending Royal Navy vessels to Jersey amid a row over fishing rights with France features on the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57004022</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57004022</guid>
+            <pubDate>Thu, 06 May 2021 03:52:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: The mental strain of the delayed Olympics]]></title>
+            <description><![CDATA[Two Olympic hopefuls tell the BBC about the mental health impact of the delay to the Tokyo games.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57001404</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57001404</guid>
+            <pubDate>Wed, 05 May 2021 23:03:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drone trucker: Sharing wild Australian landscapes for a cause]]></title>
@@ -119,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/business-56999831</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56999831</guid>
             <pubDate>Wed, 05 May 2021 23:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: The mental strain of the delayed Olympics]]></title>
-            <description><![CDATA[Two Olympic hopefuls tell the BBC about the mental health impact of the delay to the Tokyo games.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57001404</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57001404</guid>
-            <pubDate>Wed, 05 May 2021 23:03:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince blamed for shooting one of Europe's biggest bears]]></title>
