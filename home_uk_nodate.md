@@ -4,9 +4,9 @@
 4. [Alcohol deaths highest for 20 years in England and Wales](https://www.bbc.co.uk/news/health-57008067) - Last year, deaths rose from March onwards and were mostly related to long-term drinking problems.
 5. [Queen wishes great-grandson Archie happy birthday](https://www.bbc.co.uk/news/uk-57006672) - The son of the Duke and Duchess of Sussex, who live in California, turns two today.
 6. [Elections 2021: What can't I do in a polling station?](https://www.bbc.co.uk/news/explainers-56849080) - The rules on everything from whether you can take a selfie to voting while drunk.
-7. [Antony Blinken: US will respond to reckless Russian acts](https://www.bbc.co.uk/news/world-us-canada-57002792) - The US would prefer more stable and predictable ties with Russia, Antony Blinken tells the BBC.
-8. [Byron burger death: No damages payout for Owen Carey's family](https://www.bbc.co.uk/news/uk-57000802) - Owen Carey's family officially launch their campaign for a law change following his death in 2017.
-9. [Covid-19: Complaints after England booking site reveals vaccine status](https://www.bbc.co.uk/news/uk-57010120) - A privacy campaign says it is "shocking" the information can be obtained through NHS England's website.
+7. [Covid-19: Complaints after England booking site reveals vaccine status](https://www.bbc.co.uk/news/uk-57010120) - A privacy campaign says it is "shocking" the information can be obtained through NHS England's website.
+8. [Antony Blinken: US will respond to reckless Russian acts](https://www.bbc.co.uk/news/world-us-canada-57002792) - The US would prefer more stable and predictable ties with Russia, Antony Blinken tells the BBC.
+9. [Byron burger death: No damages payout for Owen Carey's family](https://www.bbc.co.uk/news/uk-57000802) - Owen Carey's family officially launch their campaign for a law change following his death in 2017.
 10. [Malian mother's nonuplets face months in incubators, says clinic](https://www.bbc.co.uk/news/world-africa-57007741) - Halima Cissé, 25, gave birth to nonuplets at a clinic in Morocco in an "extremely rare" case.
 11. [Windrush victim wins court fight over application fees for family](https://www.bbc.co.uk/news/uk-57005769) - It could mean thousands of other people can join Windrush relatives in the UK without the application cost.
 12. [Elections 2021: Dogs at polling stations](https://www.bbc.co.uk/news/in-pictures-57007806) - Voters are heading to the polls in England, Scotland and Wales - and so are their canine companions.
