@@ -38,7 +38,7 @@
 38. [Election 2021: How do I vote and why could results take longer?](https://www.bbc.co.uk/news/uk-politics-56581106) - About 48 million people will be able to vote in a series of elections on Thursday 6 May.
 39. [Elections 2021: How to follow the results on the BBC](https://www.bbc.co.uk/news/uk-politics-56930132) - Find out how to keep up to date with live election results on TV, radio, online and on social media.
 40. [2021 elections: What elections can I vote in this year?](https://www.bbc.co.uk/news/56129210) - National elections in Scotland and Wales and local elections in England are scheduled for 6 May 2021.
-41. [Welsh election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-wales-politics-56499726) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
+41. [Scottish election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56510773) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
 42. [Elections 2021: How the BBC reports polling day](https://www.bbc.co.uk/news/uk-politics-48124106) - The BBC is not allowed to report details of campaigning while the polls are open.
 43. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?
 44. [When can I holiday abroad, and which countries will be on the green list?](https://www.bbc.co.uk/news/explainers-52544307) - A new "traffic light" system for travel will classify countries as green, amber or red.
