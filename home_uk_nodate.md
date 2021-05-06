@@ -1,4 +1,4 @@
-1. [UK sends Royal Navy to patrol Jersey amid fishing row with France](https://www.bbc.co.uk/news/uk-57003069) - PM Boris Johnson says he supports Jersey as French fishing boats protest about new post-Brexit rules.
+1. [UK sends Royal Navy to patrol Jersey amid fishing row with France](https://www.bbc.co.uk/news/uk-57003069) - PM Boris Johnson says he supports Jersey as French fishing boats are set to protest about new post-Brexit rules.
 2. [Millions to vote in bumper set of elections](https://www.bbc.co.uk/news/uk-politics-56998434) - Local and national contests - many delayed by Covid - are taking place in England, Scotland and Wales.
 3. [Elections 2021: What can't I do in a polling station?](https://www.bbc.co.uk/news/explainers-56849080) - The rules on everything from whether you can take a selfie to voting while drunk.
 4. [Covid: US backs waiver on vaccine intellectual property](https://www.bbc.co.uk/news/world-us-canada-57004302) - Supporters say the move would boost vaccine production but the pharmaceutical industry disagrees.
