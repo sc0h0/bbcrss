@@ -1,5 +1,5 @@
-1. [UK Royal Navy ships patrolling Jersey amid fishing row with France](https://www.bbc.co.uk/news/uk-57003069) - About 80 French fishing boats are protesting against new post-Brexit rules at the island's port of St Helier.
-2. [Elections 2021: Millions to vote in bumper set of polls](https://www.bbc.co.uk/news/uk-politics-56998434) - Local and national contests - some delayed by Covid - are taking place in England, Scotland and Wales.
+1. [UK Royal Navy ships patrolling Jersey amid fishing row with France](https://www.bbc.co.uk/news/uk-57003069) - About 60 French and Jersey boats are protesting against new post-Brexit rules at the port of St Helier.
+2. [Elections 2021: Millions voting in bumper set of polls](https://www.bbc.co.uk/news/uk-politics-56998434) - Local and national contests - some delayed by Covid - are taking place in England, Scotland and Wales.
 3. [Antony Blinken: US will respond to reckless Russian acts](https://www.bbc.co.uk/news/world-us-canada-57002792) - The US would prefer more stable and predictable ties with Russia, Antony Blinken tells the BBC.
 4. [Covid-19: Polls open for elections and US backs waiver on vaccine patents](https://www.bbc.co.uk/news/uk-57002201) - Five things you need to know about the coronavirus pandemic this Thursday morning.
 5. [No full-time return to the office for over a million](https://www.bbc.co.uk/news/business-56972207) - Almost all of 50 big UK firms tell the BBC staff will divide their time between home and office in future.
