@@ -5,7 +5,7 @@
 5. [No full-time return to the office for over a million](https://www.bbc.co.uk/news/business-56972207) - Almost all of 50 big UK firms tell the BBC staff will divide their time between home and office in future.
 6. [India Covid: Government says 'double mutant' linked to surge](https://www.bbc.co.uk/news/world-asia-india-57004764) - The current surge of the virus has already overwhelmed India's healthcare system.
 7. [Father calls for pornography sites to require proof of age](https://www.bbc.co.uk/news/education-56993735) - A father and an Oxford student seek a High Court hearing to require age verification on porn sites.
-8. [US birth rate falls 4% to its lowest point ever](https://www.bbc.co.uk/news/world-us-canada-57003722) - The rate drops for mothers of every measured race and ethnicity, and in nearly every age group.
+8. [Hong Kong: Joshua Wong jailed over banned Tiananmen vigil](https://www.bbc.co.uk/news/world-asia-china-57005120) - The Tiananmen vigil commemorated the deaths of up to thousands of pro-democracy protesters in China.
 9. [Millions at security risk from old routers, Which? warns](https://www.bbc.co.uk/news/technology-56996717) - Research by Which? looked at a selection of older routers still being used by customers.
 10. [Broadway tickets to go on sale for September reopening](https://www.bbc.co.uk/news/world-us-canada-57004304) - New York's major theatres have been closed since March 2020 because of the coronavirus pandemic.
 11. [Chelsea 2-0 Real Madrid (agg 3-1): Thomas Tuchel's side set up all-English Champions League final](https://www.bbc.co.uk/sport/football/56985477) - Chelsea defeat Real Madrid to set up an all-English Champions League final against Manchester City on 29 May in Istanbul.
@@ -41,7 +41,7 @@
 41. [Election 2021: How do I vote and why could results take longer?](https://www.bbc.co.uk/news/uk-politics-56581106) - About 48 million people will be able to vote in a series of elections on Thursday 6 May.
 42. [Elections 2021: How to follow the results on the BBC](https://www.bbc.co.uk/news/uk-politics-56930132) - Find out how to keep up to date with live election results on TV, radio, online and on social media.
 43. [2021 elections: What elections can I vote in this year?](https://www.bbc.co.uk/news/56129210) - National elections in Scotland and Wales and local elections in England are scheduled for 6 May 2021.
-44. [Welsh election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-wales-politics-56499726) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
+44. [Scottish election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56510773) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
 45. [Elections 2021: How the BBC reports polling day](https://www.bbc.co.uk/news/uk-politics-48124106) - The BBC is not allowed to report details of campaigning while the polls are open.
 46. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?
 47. [When can I holiday abroad, and which countries will be on the green list?](https://www.bbc.co.uk/news/explainers-52544307) - A new "traffic light" system for travel will classify countries as green, amber or red.
