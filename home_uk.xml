@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 May 2021 13:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 13:30:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Elections 2021: Conservatives hail historic Labour defeat in Hartlepool by-election]]></title>
-            <description><![CDATA[Labour leader Sir Keir Starmer comes under fire after the constituency elects its first Tory MP.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57019456</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57019456</guid>
-            <pubDate>Fri, 07 May 2021 12:33:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Elections results 2021: Conservative gains as first English councils declare]]></title>
             <description><![CDATA[But many of the local election results are still to come, with further results expected throughout the weekend.]]></description>
@@ -65,11 +58,18 @@
             <pubDate>Fri, 07 May 2021 12:11:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Barrymore pool death: Stuart Lubbock's father says 'truth will come out']]></title>
+            <description><![CDATA[The ailing father of Stuart Lubbock, who died in 2001, says he has "done his best" for his son.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-57021795</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57021795</guid>
+            <pubDate>Fri, 07 May 2021 12:46:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Big Chinese rocket segment set to fall to Earth]]></title>
             <description><![CDATA[Tracking radars are following closely the gradual fall to Earth of a large Chinese rocket vehicle.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57013540</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57013540</guid>
-            <pubDate>Fri, 07 May 2021 07:30:28 GMT</pubDate>
+            <pubDate>Fri, 07 May 2021 13:13:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Twitter adds 'tip jar' to pay for good tweeting]]></title>
@@ -282,6 +282,13 @@
             <pubDate>Fri, 07 May 2021 12:41:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Can English fans travel to Champions League and Europa League finals?]]></title>
+            <description><![CDATA[Chelsea men and women, Manchester City and Manchester United are involved in European finals, but what are the travel obstacles for supporters?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57008747</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57008747</guid>
+            <pubDate>Fri, 07 May 2021 12:35:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2021 elections: What are the results in my area?]]></title>
             <description><![CDATA[National elections in Scotland and Wales and local elections in England took place on 6 May 2021.]]></description>
             <link>https://www.bbc.co.uk/news/56129210</link>
@@ -321,7 +328,7 @@
             <description><![CDATA[The Liberal Democrats and SNP both hold onto seats as counting continues across the country.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</guid>
-            <pubDate>Fri, 07 May 2021 12:39:12 GMT</pubDate>
+            <pubDate>Fri, 07 May 2021 13:17:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections 2021: How the BBC reports polling day]]></title>
