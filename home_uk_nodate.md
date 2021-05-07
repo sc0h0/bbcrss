@@ -1,4 +1,4 @@
-1. [Conservatives take Hartlepool seat from Labour](https://www.bbc.co.uk/news/uk-politics-57019456) - Hartlepool elects a Conservative MP for the first time since the constituency's creation, after Jill Mortimer wins by-election.
+1. [Elections 2021: Conservatives take Hartlepool from Labour in by-election](https://www.bbc.co.uk/news/uk-politics-57019456) - Hartlepool elects a Conservative MP for the first time since the constituency's creation, after Jill Mortimer wins by-election.
 2. [Covid: Concern increases over India variant in UK](https://www.bbc.co.uk/news/health-57016110) - Health experts want the version B.1.617.2 to be made a "variant of concern", the BBC has been told.
 3. [Covid-19: Concern over India variant and holiday costs could jump](https://www.bbc.co.uk/news/uk-57019117) - Five things you need to know about the coronavirus pandemic this Friday morning.
 4. [Holiday costs to jump in summer, warns travel boss](https://www.bbc.co.uk/news/business-57016968) - Travel will be more expensive as airlines cannot afford to bring many planes back into service.
@@ -45,13 +45,13 @@
 45. [Elections 2021: Dogs at polling stations](https://www.bbc.co.uk/news/in-pictures-57007806) - Voters are heading to the polls in England, Scotland and Wales - and so are their canine companions.
 46. [Scottish election 2021: Scotland awaits results](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885) - Ballots will be counted over two days with the final result for 129 seats at Holyrood expected on Saturday.
 47. [Elections 2021: How the BBC reports polling day](https://www.bbc.co.uk/news/uk-politics-48124106) - The BBC is not allowed to report details of campaigning while the polls are open.
-48. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
+48. [When can I holiday abroad, and which countries will be on the green list?](https://www.bbc.co.uk/news/explainers-52544307) - A new "traffic light" system for travel will classify countries as green, amber or red.
 49. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
 50. [How many cases in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 51. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Northern Ireland is the latest part of the UK to lift some of the restrictions designed to stop the spread of Covid-19.
 52. [What are the India, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - The world is carefully monitoring Covid for mutations that help it spread better or resist vaccines.
 53. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?
-54. [When can I holiday abroad, and which countries will be on the green list?](https://www.bbc.co.uk/news/explainers-52544307) - A new "traffic light" system for travel will classify countries as green, amber or red.
+54. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
 55. [Covid: What are my money-back rights for holidays abroad?](https://www.bbc.co.uk/news/business-51615412) - Quarantine-free overseas holidays may soon be possible, but what are my refund and travel insurance rights?
 56. [Covid: What are the social distancing rules and the rule of six?](https://www.bbc.co.uk/news/uk-51506729) - Rules on hugging and social distancing in England are being reviewed.
 57. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 40 or over in England are now being offered a Covid vaccine as the rollout continues.
