@@ -1,7 +1,7 @@
-1. [Green list countries for England revealed](https://www.bbc.co.uk/news/uk-57026936) - The transport secretary announces a green list of countries deemed safest for travel from England.
+1. [Green list countries: New rules for England revealed](https://www.bbc.co.uk/news/uk-57026936) - Transport Secretary Grant Shapps announces a green list of countries deemed safe for travel from England.
 2. [Which countries are on the green list for foreign holidays?](https://www.bbc.co.uk/news/explainers-52544307) - A new "traffic light" system for travel classifies countries as green, amber or red.
 3. [Covid-19: Quarantine-free travel list revealed and face mask added to medieval shrine](https://www.bbc.co.uk/news/uk-57028336) - Five things you need to know about the coronavirus pandemic this Friday evening.
-4. [Elections results 2021: Conservative make gains on English councils](https://www.bbc.co.uk/news/uk-politics-57021276) - Labour loses seats to Boris Johnson's party, but leader Sir Keir Starmer promises a fightback.
+4. [Elections results 2021: Conservatives make gains on English councils](https://www.bbc.co.uk/news/uk-politics-57021276) - Labour loses seats to Boris Johnson's party, but leader Sir Keir Starmer promises a fightback.
 5. [Sinopharm: Chinese Covid vaccine gets WHO emergency approval](https://www.bbc.co.uk/news/world-asia-china-56967973) - It says the Sinopharm vaccine, which has been given to millions of people, is safe and effective.
 6. [India's Covid crisis: Rural hospitals unable to cope as virus spreads](https://www.bbc.co.uk/news/world-asia-india-57029452) - We uncover the conditions that patients face in health centres unequipped for a crisis like Covid.
 7. [Under 40s to be offered alternative to AZ vaccine](https://www.bbc.co.uk/news/health-57021738) - Link to rare blood clots leads to shift in vaccination programme for younger age groups.
