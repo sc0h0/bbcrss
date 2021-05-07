@@ -2,7 +2,7 @@
 2. [Elections results 2021: Tory gains as first English councils declare](https://www.bbc.co.uk/news/uk-politics-57021276) - But many of the local election results are still to come, with further results expected throughout the weekend.
 3. [Under 40s to be offered alternative to AZ vaccine](https://www.bbc.co.uk/news/health-57021738) - Link to rare blood clots leads to shift in vaccination programme for younger age groups.
 4. [Julia James: Man's photo issued in PCSO murder hunt](https://www.bbc.co.uk/news/uk-england-kent-57023743) - Police say the man, who was in Aylesham the day after Julia James died, could help the inquiry.
-5. [Poplar fire: Blaze damages middle floors of tower block](https://www.bbc.co.uk/news/uk-england-london-57022678) - Parts of the eighth, ninth and 10th floors of the 19-storey building in east London were ablaze.
+5. [Poplar fire: East London tower block blaze leaves two men in hospital](https://www.bbc.co.uk/news/uk-england-london-57022678) - London Fire Brigade said 38 adults and four children were evacuated from the 19-storey building.
 6. [Japan extends Covid-19 restrictions as Olympics draw nearer](https://www.bbc.co.uk/news/world-asia-57008984) - Officials have extended the state of emergency in several regions until the end of the month.
 7. [Big Chinese rocket segment set to fall to Earth](https://www.bbc.co.uk/news/science-environment-57013540) - Tracking radars are following closely the gradual fall to Earth of a large Chinese rocket vehicle.
 8. [Twitter adds 'tip jar' to pay for good tweeting](https://www.bbc.co.uk/news/technology-57021380) - Twitter launches a new payment feature for good tweets - but it comes with privacy concerns.
