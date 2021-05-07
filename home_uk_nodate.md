@@ -27,7 +27,7 @@
 27. [Jersey fishing: What's the row between UK and France about?](https://www.bbc.co.uk/news/57001584) - French fishing boats protest at the port of St Helier, in dispute over access to waters around the island.
 28. [No full-time return to the office for over a million](https://www.bbc.co.uk/news/business-56972207) - Almost all of 50 big UK firms tell the BBC staff will divide their time between home and office in future.
 29. [Byron burger death: No damages payout for Owen Carey's family](https://www.bbc.co.uk/news/uk-57000802) - Owen Carey's family officially launch their campaign for a law change following his death in 2017.
-30. [India Covid: Is the second wave slowing down?](https://www.bbc.co.uk/news/56987209) - There are signs infections have slowed in some regions - but is India past the worst?
+30. [India Covid: How bad is the second wave?](https://www.bbc.co.uk/news/56987209) - There are signs infections have slowed in some regions - but is India past the worst?
 31. [Covid: Black leaders fear racist past feeds mistrust in vaccine](https://www.bbc.co.uk/news/health-56813982) - Mistrust and inequality may explain why vaccine take-up is lower in the black community, say campaigners.
 32. [Safe Sweden faces up to wave of women's killings](https://www.bbc.co.uk/news/world-europe-56977771) - A spate of deaths reignites a debate about domestic violence in a country praised for gender equality.
 33. [Lelush: How a sulky Russian model became China's slacker icon](https://www.bbc.co.uk/news/world-asia-china-56967923) - Getting trapped in a boy band reality TV contest was just the start of Lelush's unlikely journey.
