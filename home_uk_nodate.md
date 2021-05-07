@@ -2,9 +2,9 @@
 2. [Covid: Concern increases over India variant in UK](https://www.bbc.co.uk/news/health-57016110) - Health experts want the version B.1.617.2 to be made a "variant of concern", the BBC has been told.
 3. [Pregnant women struggling to get Covid vaccine, Stella Creasy says](https://www.bbc.co.uk/news/uk-57007249) - Clinics often cannot guarantee women can get the vaccine type required when booking an appointment.
 4. [Holiday costs to jump in summer, warns travel boss](https://www.bbc.co.uk/news/business-57016968) - Travel will be more expensive as airlines cannot afford to bring many planes back into service.
-5. [Brazil: At least 25 killed in Rio de Janeiro shoot-out](https://www.bbc.co.uk/news/world-latin-america-57013206) - The shoot-out took place during a police operation in a favela in the Brazilian city.
+5. [US sends reinforcements for Afghan withdrawal](https://www.bbc.co.uk/news/world-us-canada-57017782) - Joe Biden has set the withdrawal deadline for 11 September, but it comes amid escalating violence.
 6. [Plastic bag charge to double to 10p in all shops](https://www.bbc.co.uk/news/business-57014762) - The price rise for single-use bags will be extended to all businesses in England from 21 May.
-7. [US sends reinforcements for Afghan withdrawal](https://www.bbc.co.uk/news/world-us-canada-57017782) - Joe Biden has set the withdrawal deadline for 11 September, but it comes amid escalating violence.
+7. [Brazil: At least 25 killed in Rio de Janeiro shoot-out](https://www.bbc.co.uk/news/world-latin-america-57013206) - The shoot-out took place during a police operation in a favela in the Brazilian city.
 8. [Sturgeon calls out 'fascist' candidate in tense confrontation](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57013769) - The SNP leader was confronted by former deputy leader of Britain First Jayda Fransen outside a polling station.
 9. [Covid: Poor pupils fall further behind in maths](https://www.bbc.co.uk/news/education-56996245) - The gap between poor pupils and their classmates is unlikely to narrow without intervention, researchers say.
 10. [Jarryd Hayne: Ex-Rugby League player jailed for 2018 sex assault](https://www.bbc.co.uk/news/world-australia-57007736) - Former Rugby League player Jarryd Hayne is jailed for more than five years for the 2018 attack.
@@ -49,7 +49,7 @@
 49. [Welsh election 2021: Queues as polls close for Welsh Parliament vote](https://www.bbc.co.uk/news/uk-wales-politics-56766948) - Voting has closed for the Welsh Parliamentary elections after queues outside polling stations.
 50. [Elections 2021: How to follow the results on the BBC](https://www.bbc.co.uk/news/uk-politics-56930132) - Find out how to keep up to date with live election results on TV, radio, online and on social media.
 51. [2021 elections: What are the results in my area?](https://www.bbc.co.uk/news/56129210) - National elections in Scotland and Wales and local elections in England took place on 6 May 2021.
-52. [Welsh election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-wales-politics-56499726) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
+52. [Scottish election 2021: Who should I vote for? Compare party policies](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56510773) - Compare where the parties stand on key issues - from Covid-19 and the NHS to education and the environment.
 53. [Elections 2021: How the BBC reports polling day](https://www.bbc.co.uk/news/uk-politics-48124106) - The BBC is not allowed to report details of campaigning while the polls are open.
 54. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
 55. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
