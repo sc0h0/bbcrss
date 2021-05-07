@@ -1,8 +1,8 @@
 1. [Elections 2021: Conservatives take Hartlepool from Labour in by-election](https://www.bbc.co.uk/news/uk-politics-57019456) - Hartlepool elects a Conservative MP for the first time since the constituency's creation, after Jill Mortimer wins by-election.
-2. [Covid: Concern increases over India variant in UK](https://www.bbc.co.uk/news/health-57016110) - Health experts want the version B.1.617.2 to be made a "variant of concern", the BBC has been told.
+2. [Elections 2021: Tory gains as first English councils declare](https://www.bbc.co.uk/news/uk-politics-57021276) - But many of the local election results are still to come, with further results expected throughout the weekend.
 3. [Turner Prize honours art collectives who 'inspire change'](https://www.bbc.co.uk/news/entertainment-arts-57014187) - After a year of closed galleries, the 2021 nominees are all groups who have all "inspired change".
-4. [Holiday costs to jump in summer, warns travel boss](https://www.bbc.co.uk/news/business-57016968) - Travel will be more expensive as airlines cannot afford to bring many planes back into service.
-5. [Pregnant women struggling to get Covid vaccine, Stella Creasy says](https://www.bbc.co.uk/news/uk-57007249) - Clinics often cannot guarantee women can get the vaccine type required when booking an appointment.
+4. [Covid: Concern increases over India variant in UK](https://www.bbc.co.uk/news/health-57016110) - Health experts want the version B.1.617.2 to be made a "variant of concern", the BBC has been told.
+5. [Holiday costs to jump in summer, warns travel boss](https://www.bbc.co.uk/news/business-57016968) - Travel will be more expensive as airlines cannot afford to bring many planes back into service.
 6. [Plastic bag charge to double to 10p in all shops in England](https://www.bbc.co.uk/news/business-57014762) - The price rise for single-use bags will be extended to all businesses in England from 21 May.
 7. [Julia James: Police don't know weapon used to kill PCSO](https://www.bbc.co.uk/news/uk-england-kent-57019607) - Kent's chief constable says police still have no motive or suspect for the murder of Julia James.
 8. [Big Chinese rocket segment set to fall to Earth](https://www.bbc.co.uk/news/science-environment-57013540) - Tracking radars are following closely the gradual fall to Earth of a large Chinese rocket vehicle.
