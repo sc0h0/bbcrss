@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 May 2021 11:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 12:32:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Labour leader Sir Keir Starmer comes under fire after the constituency elects its first Tory MP.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57019456</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57019456</guid>
-            <pubDate>Fri, 07 May 2021 09:59:53 GMT</pubDate>
+            <pubDate>Fri, 07 May 2021 12:14:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections results 2021: Tory gains as first English councils declare]]></title>
@@ -37,6 +37,20 @@
             <pubDate>Fri, 07 May 2021 11:01:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Noel Clarke: BBC 'shocked' by allegations of harassment on Doctor Who set]]></title>
+            <description><![CDATA[The Guardian newspaper reports that five women allege he sexually harassed them on the Doctor Who set.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57021060</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57021060</guid>
+            <pubDate>Fri, 07 May 2021 11:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poplar fire: London tower block blaze leaves two men in hospital]]></title>
+            <description><![CDATA[London Fire Brigade said 38 adults and four children were evacuated from the 19-storey building.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57022678</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57022678</guid>
+            <pubDate>Fri, 07 May 2021 12:31:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Julia James: Man's photo issued in PCSO murder hunt]]></title>
             <description><![CDATA[Police say the man, who was in Aylesham the day after Julia James died, could help the inquiry.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-57023743</link>
@@ -44,18 +58,11 @@
             <pubDate>Fri, 07 May 2021 11:51:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poplar fire: East London tower block blaze leaves two men in hospital]]></title>
-            <description><![CDATA[London Fire Brigade said 38 adults and four children were evacuated from the 19-storey building.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57022678</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57022678</guid>
-            <pubDate>Fri, 07 May 2021 11:49:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan extends Covid-19 restrictions as Olympics draw nearer]]></title>
-            <description><![CDATA[Officials have extended the state of emergency in several regions until the end of the month.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57008984</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57008984</guid>
-            <pubDate>Fri, 07 May 2021 10:41:16 GMT</pubDate>
+            <title><![CDATA[Covid travel rules: 'Green list' countries to be revealed]]></title>
+            <description><![CDATA[England’s list of “green countries”, with fewest restrictions, is expected to be released later.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57021044</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57021044</guid>
+            <pubDate>Fri, 07 May 2021 12:11:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Big Chinese rocket segment set to fall to Earth]]></title>
@@ -72,13 +79,6 @@
             <pubDate>Fri, 07 May 2021 11:17:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turner Prize honours art collectives who 'inspire change']]></title>
-            <description><![CDATA[After a year of closed galleries, the 2021 nominees are all groups who have all "inspired change".]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57014187</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57014187</guid>
-            <pubDate>Fri, 07 May 2021 09:04:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['They have guns but we have people': Inside Myanmar's Spring Revolution]]></title>
             <description><![CDATA[A musician and his sister in Yangon have been filming for the BBC in Myanmar in the aftermath of a coup.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57016528</link>
@@ -86,11 +86,11 @@
             <pubDate>Thu, 06 May 2021 23:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'Smash and crab' and cheap tests for British travellers]]></title>
-            <description><![CDATA[Friday's front pages focus on the protest by French fishermen in Jersey waters over post-Brexit rights.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57017308</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57017308</guid>
-            <pubDate>Fri, 07 May 2021 04:27:27 GMT</pubDate>
+            <title><![CDATA[Turner Prize honours art collectives who 'inspire change']]></title>
+            <description><![CDATA[After a year of closed galleries, the 2021 nominees are all groups who have all "inspired change".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57014187</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57014187</guid>
+            <pubDate>Fri, 07 May 2021 09:04:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid and pregnancy - should you get the vaccine?]]></title>
@@ -108,7 +108,7 @@
         </item>
         <item>
             <title><![CDATA[Coldplay's Chris Martin says lockdown made him confront his ego]]></title>
-            <description><![CDATA[The stars says the lockdown forced him to ask: "Who am I without Wembley Stadium saying, 'you're awesome'?"]]></description>
+            <description><![CDATA[The star says the lockdown forced him to ask: "Who am I without Wembley Stadium saying, 'you're awesome'?"]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57020862</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57020862</guid>
             <pubDate>Fri, 07 May 2021 09:59:17 GMT</pubDate>
@@ -177,7 +177,7 @@
             <pubDate>Thu, 06 May 2021 23:41:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['It hurts to look at home': Heartbroken Indians help from abroad]]></title>
+            <title><![CDATA[India Covid: The agony of watching a catastrophe from afar]]></title>
             <description><![CDATA[Seeing loved ones suffering in India, millions of families are trying to do their best from afar.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-56989131</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56989131</guid>
@@ -324,11 +324,11 @@
             <pubDate>Thu, 06 May 2021 12:37:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish election 2021: Scotland awaits results]]></title>
-            <description><![CDATA[Ballots will be counted over two days with the final result for 129 seats at Holyrood expected on Saturday.]]></description>
+            <title><![CDATA[Scottish election 2021: First result announced as counting continues]]></title>
+            <description><![CDATA[The Liberal Democrats comfortably hold the Orkney seat as counting continues across the country.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</guid>
-            <pubDate>Fri, 07 May 2021 11:43:14 GMT</pubDate>
+            <pubDate>Fri, 07 May 2021 12:26:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections 2021: How the BBC reports polling day]]></title>
