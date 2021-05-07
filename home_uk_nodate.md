@@ -46,7 +46,7 @@
 46. [Elections 2021: How to follow the results on the BBC](https://www.bbc.co.uk/news/uk-politics-56930132) - Find out how to keep up to date with live election results on TV, radio, online and on social media.
 47. [What to expect in Scottish election](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-56972971) - Scots have cast their votes, but they will not be counted until Friday and Saturday - when will the outcome be known?
 48. [Elections 2021: Dogs at polling stations](https://www.bbc.co.uk/news/in-pictures-57007806) - Voters are heading to the polls in England, Scotland and Wales - and so are their canine companions.
-49. [Scottish election 2021: SNP wins three key seats as it seeks majority](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885) - The party gains a seat from Labour and two from the Conservatives as it boosts its hopes of securing a majority.
+49. [Scottish election 2021: SNP hopes of majority remain on a knife edge](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885) - The party gains a seat from Labour and two from the Conservatives but misses out on other key targets.
 50. [Elections 2021: How the BBC reports polling day](https://www.bbc.co.uk/news/uk-politics-48124106) - The BBC is not allowed to report details of campaigning while the polls are open.
 51. [Covid: What refund rights are there for holidays abroad?](https://www.bbc.co.uk/news/business-51615412) - Quarantine-free overseas holidays will be possible after 17 May, but what rights do you have if plans or rules change?
 52. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
