@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 May 2021 21:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 22:28:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Scottish election 2021: SNP hopes of majority remain on a knife edge]]></title>
+            <description><![CDATA[The party gains a seat from Labour and two from the Conservatives but misses out on other key targets.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</guid>
+            <pubDate>Fri, 07 May 2021 18:53:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Green list countries: New rules for England revealed]]></title>
             <description><![CDATA[Transport Secretary Grant Shapps announces a green list of countries deemed safe for travel from England.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/explainers-52544307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
             <pubDate>Fri, 07 May 2021 18:49:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish election 2021: SNP hopes of majority remain on a knife edge]]></title>
-            <description><![CDATA[The party gains a seat from Labour and two from the Conservatives but misses out on other key targets.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</guid>
-            <pubDate>Fri, 07 May 2021 18:53:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brazil violence: Rio police accused by residents of abuses in raid]]></title>
@@ -286,7 +286,7 @@
             <description><![CDATA[Newcastle move to within one point of Premier League safety with an impressive win over Champions League-chasing Leicester City.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56938827</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56938827</guid>
-            <pubDate>Fri, 07 May 2021 21:28:36 GMT</pubDate>
+            <pubDate>Fri, 07 May 2021 22:02:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Premier League 'big six' among nine clubs to accept Uefa sanctions for ESL involvement]]></title>
@@ -296,6 +296,13 @@
             <pubDate>Fri, 07 May 2021 18:49:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Murray to practise with Djokovic and hopes to be fit for French Open ]]></title>
+            <description><![CDATA[Andy Murray will practise with Novak Djokovic in Rome on Sunday and hopes to return to action in 10 days' time.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57032348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57032348</guid>
+            <pubDate>Fri, 07 May 2021 21:31:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fans should not travel to Turkey for Champions League final, says UK government]]></title>
             <description><![CDATA[Chelsea and Manchester City fans should not travel to Turkey for the Champions League, the UK government has said.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57029583</link>
@@ -303,18 +310,18 @@
             <pubDate>Fri, 07 May 2021 20:03:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Not my problem' if Champions League race is distorted - Solskjaer faces 'impossible' squad decisions]]></title>
-            <description><![CDATA[Manchester United manager Ole Gunnar Solskjaer says it is "not my problem" if he distorts the battle for Champions League places by fielding under-strength teams.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57025657</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57025657</guid>
-            <pubDate>Fri, 07 May 2021 12:36:15 GMT</pubDate>
+            <title><![CDATA[MacGinty kicks in-form Sale to victory against Leicester]]></title>
+            <description><![CDATA[AJ MacGinty kicks 16 points as Sale Sharks hold off Leicester Tigers for a fifth victory in a row.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56992660</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56992660</guid>
+            <pubDate>Fri, 07 May 2021 21:17:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Murray to practise with Djokovic and hopes to be fit for French Open ]]></title>
-            <description><![CDATA[Andy Murray will practise with Novak Djokovic in Rome on Sunday and hopes to return to action in 10 days' time.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57032348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57032348</guid>
-            <pubDate>Fri, 07 May 2021 21:31:29 GMT</pubDate>
+            <title><![CDATA[Hamilton leads Mercedes one-two in second practice for Spanish GP]]></title>
+            <description><![CDATA[Lewis Hamilton leads a Mercedes one-two in second practice at the Spanish Grand Prix as Max Verstappen fails to set a representative lap time.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57024096</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57024096</guid>
+            <pubDate>Fri, 07 May 2021 14:12:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections 2021: Labour insiders on Starmer, what went wrong and how to fix it]]></title>
