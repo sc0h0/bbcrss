@@ -3,9 +3,9 @@
 3. [Under 40s to be offered alternative to AZ vaccine](https://www.bbc.co.uk/news/health-57021738) - Link to rare blood clots leads to shift in vaccination programme for younger age groups.
 4. [Julia James: Man's photo issued in PCSO murder hunt](https://www.bbc.co.uk/news/uk-england-kent-57023743) - Police say the man, who was in Aylesham the day after Julia James died, could help the inquiry.
 5. [Poplar fire: Blaze damages middle floors of tower block](https://www.bbc.co.uk/news/uk-england-london-57022678) - Parts of the eighth, ninth and 10th floors of the 19-storey building in east London were ablaze.
-6. [Plastic bag charge to double to 10p in all shops in England](https://www.bbc.co.uk/news/business-57014762) - The price rise for single-use bags will be extended to all businesses in England from 21 May.
-7. [Japan extends Covid-19 restrictions as Olympics draw nearer](https://www.bbc.co.uk/news/world-asia-57008984) - Officials have extended the state of emergency in several regions until the end of the month.
-8. [Big Chinese rocket segment set to fall to Earth](https://www.bbc.co.uk/news/science-environment-57013540) - Tracking radars are following closely the gradual fall to Earth of a large Chinese rocket vehicle.
+6. [Japan extends Covid-19 restrictions as Olympics draw nearer](https://www.bbc.co.uk/news/world-asia-57008984) - Officials have extended the state of emergency in several regions until the end of the month.
+7. [Big Chinese rocket segment set to fall to Earth](https://www.bbc.co.uk/news/science-environment-57013540) - Tracking radars are following closely the gradual fall to Earth of a large Chinese rocket vehicle.
+8. [Twitter adds 'tip jar' to pay for good tweeting](https://www.bbc.co.uk/news/technology-57021380) - Twitter launches a new payment feature for good tweets - but it comes with privacy concerns.
 9. [Turner Prize honours art collectives who 'inspire change'](https://www.bbc.co.uk/news/entertainment-arts-57014187) - After a year of closed galleries, the 2021 nominees are all groups who have all "inspired change".
 10. ['They have guns but we have people': Inside Myanmar's Spring Revolution](https://www.bbc.co.uk/news/world-asia-57016528) - A musician and his sister in Yangon have been filming for the BBC in Myanmar in the aftermath of a coup.
 11. [The Papers: 'Smash and crab' and cheap tests for British travellers](https://www.bbc.co.uk/news/blogs-the-papers-57017308) - Friday's front pages focus on the protest by French fishermen in Jersey waters over post-Brexit rights.
