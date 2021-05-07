@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 May 2021 13:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 14:20:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Fri, 07 May 2021 11:51:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[India's Covid pandemic: Girl, 5, separated from family by Australia restrictions]]></title>
+            <description><![CDATA[Drisya and Dilin have not seen their daughter for 17 months due to Australia's Covid border closures.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57019857</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57019857</guid>
+            <pubDate>Fri, 07 May 2021 13:51:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid travel rules: 'Green list' countries to be revealed]]></title>
             <description><![CDATA[England’s list of “green countries”, with fewest restrictions, is expected to be released later.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57021044</link>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-essex-57021795</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57021795</guid>
             <pubDate>Fri, 07 May 2021 12:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Chinese rocket segment set to fall to Earth]]></title>
-            <description><![CDATA[Tracking radars are following closely the gradual fall to Earth of a large Chinese rocket vehicle.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57013540</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57013540</guid>
-            <pubDate>Fri, 07 May 2021 13:13:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Twitter adds 'tip jar' to pay for good tweeting]]></title>
@@ -268,6 +268,13 @@
             <pubDate>Wed, 05 May 2021 23:55:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hamilton leads Mercedes one-two in second practice for Spanish GP]]></title>
+            <description><![CDATA[Lewis Hamilton leads a Mercedes one-two in second practice at the Spanish Grand Prix as Max Verstappen fails to set a representative lap time.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57024096</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57024096</guid>
+            <pubDate>Fri, 07 May 2021 14:12:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Not my problem' if Champions League race is distorted - Solskjaer faces 'impossible' squad decisions]]></title>
             <description><![CDATA[Manchester United manager Ole Gunnar Solskjaer says it is "not my problem" if he distorts the battle for Champions League places by fielding under-strength teams.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57025657</link>
@@ -289,6 +296,13 @@
             <pubDate>Fri, 07 May 2021 07:11:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Elections 2021: Labour insiders on Starmer, what went wrong and how to fix it]]></title>
+            <description><![CDATA[Sir Keir Starmer took charge of Labour a year ago and has faced his first challenge at the polls.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57024995</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57024995</guid>
+            <pubDate>Fri, 07 May 2021 13:42:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2021 elections: What are the results in my area?]]></title>
             <description><![CDATA[National elections in Scotland and Wales and local elections in England took place on 6 May 2021.]]></description>
             <link>https://www.bbc.co.uk/news/56129210</link>
@@ -301,13 +315,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-56581106</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56581106</guid>
             <pubDate>Fri, 07 May 2021 07:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elections 2021: As Starmer confronts losses, what went wrong and can it be fixed?]]></title>
-            <description><![CDATA[Our politics writers speak to MPs and activists on what went wrong in Sir Keir's first electoral test.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57024995</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57024995</guid>
-            <pubDate>Fri, 07 May 2021 13:42:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections 2021: How to follow the results on the BBC]]></title>
@@ -331,8 +338,8 @@
             <pubDate>Thu, 06 May 2021 12:37:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish election 2021: First result announced as counting continues]]></title>
-            <description><![CDATA[The Liberal Democrats and SNP both hold onto seats as counting continues across the country.]]></description>
+            <title><![CDATA[Scottish election 2021: SNP holds seats as early results declared]]></title>
+            <description><![CDATA[The party's share of the vote falls in some areas but rises in others as the first results come through.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</guid>
             <pubDate>Fri, 07 May 2021 13:17:46 GMT</pubDate>
