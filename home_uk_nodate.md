@@ -1,6 +1,6 @@
 1. [Elections results 2021: Britain awaits results of bumper election day](https://www.bbc.co.uk/news/uk-politics-57011184) - Winners will be announced in the coming hours and days after 48 million people were able to vote.
-2. [Covid: Concern increases over India variant in UK](https://www.bbc.co.uk/news/health-57016110) - Public health experts want the version B.1.617.2 to be made a "variant of concern", the BBC has been told.
-3. [Pregnant women struggling to get Covid vaccine, Stella Creasy says](https://www.bbc.co.uk/news/uk-57007249) - Clinics often cannot guarantee women can get the type of vaccine required when they book an appointment.
+2. [Covid: Concern increases over India variant in UK](https://www.bbc.co.uk/news/health-57016110) - Health experts want the version B.1.617.2 to be made a "variant of concern", the BBC has been told.
+3. [Pregnant women struggling to get Covid vaccine, Stella Creasy says](https://www.bbc.co.uk/news/uk-57007249) - Clinics often cannot guarantee women can get the vaccine type required when they book an appointment.
 4. [Holiday costs to jump this summer, warns travel boss](https://www.bbc.co.uk/news/business-57016968) - Travel will be more expensive as airlines can't afford to bring many planes back into service.
 5. [Brazil: At least 25 killed in Rio de Janeiro shoot-out](https://www.bbc.co.uk/news/world-latin-america-57013206) - The shoot-out took place during a police operation in a favela in the Brazilian city.
 6. [Plastic bag charge to double to 10p in all shops](https://www.bbc.co.uk/news/business-57014762) - The price rise for single-use bags will be extended to all businesses in England from 21 May.
