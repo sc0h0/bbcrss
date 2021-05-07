@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 May 2021 20:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 21:13:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,20 @@
             <link>https://www.bbc.co.uk/news/explainers-52544307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
             <pubDate>Fri, 07 May 2021 18:49:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish election 2021: SNP hopes of majority remain on a knife edge]]></title>
+            <description><![CDATA[The party gains a seat from Labour and two from the Conservatives but misses out on other key targets.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</guid>
+            <pubDate>Fri, 07 May 2021 18:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brazil violence: Rio police accused by residents of abuses in raid]]></title>
+            <description><![CDATA[Residents of a Rio de Janeiro slum accuse police of violence and abuses in a raid that left 25 dead.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57000382</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57000382</guid>
+            <pubDate>Fri, 07 May 2021 14:33:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Quarantine-free travel list revealed and face mask added to medieval shrine]]></title>
@@ -56,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-57029452</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57029452</guid>
             <pubDate>Fri, 07 May 2021 17:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Under 40s to be offered alternative to AZ vaccine]]></title>
-            <description><![CDATA[Link to rare blood clots leads to shift in vaccination programme for younger age groups.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57021738</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57021738</guid>
-            <pubDate>Fri, 07 May 2021 15:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noel Clarke: BBC shocked by allegations of harassment on Doctor Who set]]></title>
@@ -275,6 +282,13 @@
             <pubDate>Wed, 05 May 2021 23:55:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leicester City 2-4 Newcastle United: Callum Wilson double in Magpies win]]></title>
+            <description><![CDATA[Newcastle move to within one point of Premier League safety with an impressive win over Champions League-chasing Leicester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56938827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56938827</guid>
+            <pubDate>Fri, 07 May 2021 20:55:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Premier League 'big six' among nine clubs to accept Uefa sanctions for ESL involvement]]></title>
             <description><![CDATA[Nine of the original European Super League clubs are fined by Uefa over last month's proposed breakaway.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57031372</link>
@@ -294,20 +308,6 @@
             <link>https://www.bbc.co.uk/sport/football/57025657</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57025657</guid>
             <pubDate>Fri, 07 May 2021 12:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hamilton leads Mercedes one-two in second practice for Spanish GP]]></title>
-            <description><![CDATA[Lewis Hamilton leads a Mercedes one-two in second practice at the Spanish Grand Prix as Max Verstappen fails to set a representative lap time.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57024096</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57024096</guid>
-            <pubDate>Fri, 07 May 2021 14:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zverev beats Nadal on clay for first time to reach Madrid Open semi-finals]]></title>
-            <description><![CDATA[Germany's Alexander Zverev beats Rafael Nadal for the first time on clay to reach the Madrid Open semi-finals.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57029434</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57029434</guid>
-            <pubDate>Fri, 07 May 2021 16:34:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections 2021: Labour insiders on Starmer, what went wrong and how to fix it]]></title>
@@ -350,13 +350,6 @@
             <link>https://www.bbc.co.uk/news/in-pictures-57007806</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57007806</guid>
             <pubDate>Thu, 06 May 2021 12:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish election 2021: SNP hopes of majority remain on a knife edge]]></title>
-            <description><![CDATA[The party gains a seat from Labour and two from the Conservatives but misses out on other key targets.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</guid>
-            <pubDate>Fri, 07 May 2021 18:53:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections 2021: How the BBC reports polling day]]></title>
