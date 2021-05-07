@@ -1,8 +1,8 @@
 1. [Elections 2021: Conservatives hail historic Labour defeat in Hartlepool by-election](https://www.bbc.co.uk/news/uk-politics-57019456) - Labour leader Sir Keir Starmer comes under fire after the constituency elects its first Tory MP.
 2. [Elections results 2021: Tory gains as first English councils declare](https://www.bbc.co.uk/news/uk-politics-57021276) - But many of the local election results are still to come, with further results expected throughout the weekend.
-3. [Poplar fire: Middle blocks of tower block ablaze](https://www.bbc.co.uk/news/uk-england-london-57022678) - Parts of the eighth, ninth and 10th floors of the 19-storey building in east London are on fire.
-4. [Covid: Concern increases over India variant in UK](https://www.bbc.co.uk/news/health-57016110) - Health experts want the version B.1.617.2 to be made a "variant of concern", the BBC has been told.
-5. [Holiday costs to jump in summer, warns travel boss](https://www.bbc.co.uk/news/business-57016968) - Travel will be more expensive as airlines cannot afford to bring many planes back into service.
+3. [Under 40s to be offered alternative to AZ vaccine](https://www.bbc.co.uk/news/health-57021738) - Link to rare blood clots leads to shift in vaccination programme for younger age groups.
+4. [Julia James: Image issued in PCSO murder case](https://www.bbc.co.uk/news/uk-england-kent-57023743) - Police have released a photo of a man who was in Aylesham the day after Julia James was killed.
+5. [Poplar fire: Middle blocks of tower block ablaze](https://www.bbc.co.uk/news/uk-england-london-57022678) - Parts of the eighth, ninth and 10th floors of the 19-storey building in east London are on fire.
 6. [Plastic bag charge to double to 10p in all shops in England](https://www.bbc.co.uk/news/business-57014762) - The price rise for single-use bags will be extended to all businesses in England from 21 May.
 7. [Julia James: Police don't know weapon used to kill PCSO](https://www.bbc.co.uk/news/uk-england-kent-57019607) - Kent's chief constable says police still have no motive or suspect for the murder of Julia James.
 8. [Big Chinese rocket segment set to fall to Earth](https://www.bbc.co.uk/news/science-environment-57013540) - Tracking radars are following closely the gradual fall to Earth of a large Chinese rocket vehicle.
