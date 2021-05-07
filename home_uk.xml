@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 May 2021 23:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 23:33:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</guid>
             <pubDate>Fri, 07 May 2021 18:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welsh election results 2021: Labour set to stay in power]]></title>
+            <description><![CDATA[The party has matched its best ever Senedd result, winning exactly half of the 60 seats.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-57009547</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57009547</guid>
+            <pubDate>Fri, 07 May 2021 23:18:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Green list countries: New rules for England revealed]]></title>
@@ -37,18 +44,25 @@
             <pubDate>Fri, 07 May 2021 18:49:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brazil violence: Rio police accused by residents of abuses in raid]]></title>
-            <description><![CDATA[Residents of a Rio de Janeiro slum accuse police of violence and abuses in a raid that left 25 dead.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57000382</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57000382</guid>
-            <pubDate>Fri, 07 May 2021 14:33:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Elections results 2021: Conservatives make gains on English councils]]></title>
             <description><![CDATA[Labour loses seats to Boris Johnson's party, but leader Sir Keir Starmer promises a fightback.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57021276</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57021276</guid>
             <pubDate>Fri, 07 May 2021 21:29:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Philippines Covid surge throws country into disarray]]></title>
+            <description><![CDATA[A second Covid surge is putting renewed pressure on the country's healthcare and economy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57004926</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57004926</guid>
+            <pubDate>Fri, 07 May 2021 23:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brazil violence: Rio police accused by residents of abuses in raid]]></title>
+            <description><![CDATA[Residents of a Rio de Janeiro slum accuse police of violence and abuses in a raid that left 25 dead.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57000382</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57000382</guid>
+            <pubDate>Fri, 07 May 2021 14:33:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sinopharm: Chinese Covid vaccine gets WHO emergency approval]]></title>
@@ -72,13 +86,6 @@
             <pubDate>Fri, 07 May 2021 21:24:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India's Covid crisis: Rural hospitals unable to cope as virus spreads]]></title>
-            <description><![CDATA[We uncover the conditions that patients face in health centres unequipped for a crisis like Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57029452</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57029452</guid>
-            <pubDate>Fri, 07 May 2021 17:38:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Noel Clarke: BBC shocked by allegations of harassment on Doctor Who set]]></title>
             <description><![CDATA[The Guardian newspaper reports that five women allege he sexually harassed them on the Doctor Who set.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57021060</link>
@@ -98,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57033837</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57033837</guid>
             <pubDate>Fri, 07 May 2021 22:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India's Covid crisis: Rural hospitals unable to cope as virus spreads]]></title>
+            <description><![CDATA[We uncover the conditions that patients face in health centres unequipped for a crisis like Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57029452</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57029452</guid>
+            <pubDate>Fri, 07 May 2021 17:38:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: St Albans cathedral's new carving features facemask]]></title>
