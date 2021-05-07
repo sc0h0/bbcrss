@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 May 2021 14:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 May 2021 14:49:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Fri, 07 May 2021 13:51:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Knife crime: St John Ambulance to teach teens to help stab victims]]></title>
+            <description><![CDATA[In a new scheme, St John Ambulance will teach children as young as 14 how to treat a stab wound.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57022837</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57022837</guid>
+            <pubDate>Fri, 07 May 2021 14:24:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid travel rules: 'Green list' countries to be revealed]]></title>
             <description><![CDATA[England’s list of “green countries”, with fewest restrictions, is expected to be released later.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57021044</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-essex-57021795</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57021795</guid>
             <pubDate>Fri, 07 May 2021 12:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twitter adds 'tip jar' to pay for good tweeting]]></title>
-            <description><![CDATA[Twitter launches a new payment feature for good tweets - but it comes with privacy concerns.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57021380</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57021380</guid>
-            <pubDate>Fri, 07 May 2021 11:17:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['They have guns but we have people': Inside Myanmar's Spring Revolution]]></title>
@@ -349,7 +349,7 @@
             <description><![CDATA[The party's share of the vote falls in some areas but rises in others as the first results come through.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885</guid>
-            <pubDate>Fri, 07 May 2021 13:17:46 GMT</pubDate>
+            <pubDate>Fri, 07 May 2021 14:46:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections 2021: How the BBC reports polling day]]></title>
