@@ -11,13 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 May 2021 19:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 20:23:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Scottish election 2021: Nicola Sturgeon celebrates 'historic' SNP election win]]></title>
-            <description><![CDATA[The SNP wins 64 seats in the Scottish Parliament - one more than last time but one short of a maj]]></description>
+            <description><![CDATA[The SNP wins 64 seats in the Scottish Parliament - one more than last time but one short of a majority.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57038039</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57038039</guid>
             <pubDate>Sat, 08 May 2021 19:28:16 GMT</pubDate>
@@ -44,6 +44,13 @@
             <pubDate>Sat, 08 May 2021 17:34:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[More rail disruption on Sunday after train cracks found]]></title>
+            <description><![CDATA[Two railway operators say disruption will continue into Sunday after cracks were found in some trains.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57042384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57042384</guid>
+            <pubDate>Sat, 08 May 2021 19:56:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Julia James: Man held over murder of Kent PCSO]]></title>
             <description><![CDATA[Police looking for the killer of community support officer Julia James arrest a man in his twenties.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-57036831</link>
@@ -65,18 +72,18 @@
             <pubDate>Sat, 08 May 2021 16:49:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[High-speed rail services cancelled after cracks found in trains]]></title>
-            <description><![CDATA[The rail minister warns of "prolonged" disruption as Hitachi apologises to affected passengers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57036247</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57036247</guid>
-            <pubDate>Sat, 08 May 2021 17:26:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Welsh election results 2021: Mark Drakeford set to stay as first minister]]></title>
             <description><![CDATA[Mark Drakeford is set to stay as first minister after Labour won the most Senedd election seats.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57031725</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57031725</guid>
             <pubDate>Sat, 08 May 2021 19:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manchester City 1-2 Chelsea: Aguero misses penalty as Chelsea make City wait for Premier League title]]></title>
+            <description><![CDATA[Sergio Aguero misses penalty as Chelsea ensure Manchester City must wait to wrap up the Premier League title by fighting back to win at Etihad Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56953530</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56953530</guid>
+            <pubDate>Sat, 08 May 2021 19:36:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Macron calls on US to drop vaccine export bans]]></title>
@@ -198,13 +205,6 @@
             <pubDate>Thu, 06 May 2021 18:24:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aguero misses penalty as Chelsea's late win makes Man City wait for title]]></title>
-            <description><![CDATA[Sergio Aguero misses penalty as Chelsea ensure Manchester City must wait to wrap up the Premier League title by fighting back to win at Etihad Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56953530</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56953530</guid>
-            <pubDate>Sat, 08 May 2021 19:36:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lewis Hamilton takes 100th career pole at Spanish Grand Prix]]></title>
             <description><![CDATA[Lewis Hamilton takes a 100th career pole position by edging out Red Bull's Max Verstappen in qualifying at the Spanish Grand Prix.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/57039915</link>
@@ -219,7 +219,7 @@
             <pubDate>Sat, 08 May 2021 16:52:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rooney's Derby battle back to survive and send Sheff Wed down]]></title>
+            <title><![CDATA[Rooney's Derby battle back to survive and send Sheff Wed down in dramatic finale]]></title>
             <description><![CDATA[Martyn Waghorn is the hero as Derby County battle back to get the point they need to stay in the Championship and consign Sheffield Wednesday to relegation to League One.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56953366</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56953366</guid>
@@ -231,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/football/56953532</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56953532</guid>
             <pubDate>Sat, 08 May 2021 15:49:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premiership leaders Bristol beat rivals Bath to secure play-off spot]]></title>
+            <description><![CDATA[Bristol overcome a 15-point first-half deficit to beat local rivals Bath 40-20 and secure a Premiership play-off spot.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/56996683</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56996683</guid>
+            <pubDate>Sat, 08 May 2021 18:14:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2021 elections: What are the results in my area?]]></title>
