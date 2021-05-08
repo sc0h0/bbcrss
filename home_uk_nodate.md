@@ -1,6 +1,6 @@
-1. [High-speed rail services cancelled after cracks found in trains](https://www.bbc.co.uk/news/uk-57036247) - High-speed rail services are cancelled across parts of the UK after cracks are found in Hitachi 800 trains.
+1. [High-speed rail services cancelled after cracks found in trains](https://www.bbc.co.uk/news/uk-57036247) - Hitachi apologises after cracks found in some of its trains lead to services being cancelled.
 2. [Covid-19: Travel firms' green list concerns, and Chinese vaccine approved](https://www.bbc.co.uk/news/uk-57034558) - Five things you need to know about the coronavirus pandemic this Saturday.
-3. [Election results 2021: Counts continue across England](https://www.bbc.co.uk/news/uk-politics-57033273) - Counting continues, with the results of dozens of council and mayoral contests still expected.
+3. [Election results 2021: More local and mayoral results due in England](https://www.bbc.co.uk/news/uk-politics-57033273) - The Conservatives look to consolidate gains on Friday, whilst Labour vows an overhaul after defeats.
 4. [Al-Aqsa mosque: Dozens hurt in Jerusalem clashes](https://www.bbc.co.uk/news/world-middle-east-57034237) - At least 163 Palestinians and six Israeli police are injured as rising tensions erupt into violence.
 5. [Philippines Covid surge throws country into disarray](https://www.bbc.co.uk/news/world-asia-57004926) - A second Covid surge is putting renewed pressure on the country's healthcare and economy.
 6. [Post Office scandal: Former staff contacted over prosecutions](https://www.bbc.co.uk/news/business-57035924) - It is contacting former workers potentially caught up in the UK's most widespread miscarriage of justice.
@@ -27,7 +27,7 @@
 27. [Football Focus: Harry Kane aiming for top four with Spurs under 'best mate' Ryan Mason](https://www.bbc.co.uk/sport/av/football/57026222) - Tottenham striker Harry Kane tells Football Focus that Spurs can still achieve a top four finish in the Premier League under his "best mate" and caretaker boss Ryan Mason.
 28. [2021 elections: What are the results in my area?](https://www.bbc.co.uk/news/56129210) - National elections in Scotland and Wales and local elections in England took place on 6 May 2021.
 29. [Elections 2021: Labour insiders on Starmer, what went wrong and how to fix it](https://www.bbc.co.uk/news/uk-politics-57024995) - Sir Keir Starmer took charge of Labour a year ago and has faced his first challenge at the polls.
-30. [Election 2021: When will we find out the results?](https://www.bbc.co.uk/news/uk-politics-56581106) - Millions of people have marked their ballots, but there could be a long wait this year.
+30. [Election results 2021: When will we know who has won?](https://www.bbc.co.uk/news/uk-politics-56581106) - There could be a long wait for some results this year.
 31. [Scottish election results: The story so far](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57033767) - The key results and moments from the first day of counting in the Holyrood election.
 32. [Welsh election results 2021: Key maps and charts so far](https://www.bbc.co.uk/news/uk-wales-politics-57026094) - A summary of the Welsh election story so far.
 33. [Elections 2021: How to follow the results on the BBC](https://www.bbc.co.uk/news/uk-politics-56930132) - Find out how to keep up to date with live election results on TV, radio, online and on social media.
