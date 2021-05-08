@@ -1,6 +1,6 @@
 1. [Scottish election 2021: SNP hopes of majority remain on a knife edge](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57014885) - The party gains a seat from Labour and two from the Conservatives but misses out on other key targets.
 2. [Welsh election results 2021: Labour set to stay in power](https://www.bbc.co.uk/news/uk-wales-politics-57009547) - The party has matched its best ever Senedd result, winning exactly half of the 60 seats.
-3. [Election results 2021: Counts continue across England](https://www.bbc.co.uk/news/uk-politics-57033273) - Counting continues, with the winners of dozens of council and mayoral contests set to be announced.
+3. [Election results 2021: Counts continue across England](https://www.bbc.co.uk/news/uk-politics-57033273) - Counting continues, with the results of dozens of council and mayoral contests still expected.
 4. [Al-Aqsa mosque: Dozens hurt in Jerusalem clashes](https://www.bbc.co.uk/news/world-middle-east-57034237) - At least 163 Palestinians and six Israeli police are injured in protests over evictions in Jerusalem.
 5. [Philippines Covid surge throws country into disarray](https://www.bbc.co.uk/news/world-asia-57004926) - A second Covid surge is putting renewed pressure on the country's healthcare and economy.
 6. [Covid: Travel firms reject 'overly cautious' green list](https://www.bbc.co.uk/news/business-57027418) - The UK will be 'left behind' if other countries open up travel more quickly, the industry says.
