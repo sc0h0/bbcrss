@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 May 2021 16:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 17:00:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Elections results 2021: Andy Burnham re-elected as Greater Manchester mayor]]></title>
-            <description><![CDATA[The Greater Manchester Mayor is the bookmakers' favourite to become the next Labour leader.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57037359</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57037359</guid>
-            <pubDate>Sat, 08 May 2021 15:57:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Sir John Curtice: What the 2021 election results mean for the parties]]></title>
             <description><![CDATA[Prof Sir John Curtice says the ruling parties appear to have done well in Thursday's bumper crop of elections.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57040175</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57040175</guid>
             <pubDate>Sat, 08 May 2021 15:53:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elections 2021: Andy Street stays as West Midlands mayor]]></title>
+            <description><![CDATA[The Tory incumbent beats Labour's Liam Byrne to retain the position he has held for four years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57038203</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57038203</guid>
+            <pubDate>Sat, 08 May 2021 16:56:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Julia James: Man held over murder of Kent PCSO]]></title>
@@ -37,25 +37,39 @@
             <pubDate>Sat, 08 May 2021 12:55:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kabul attack: Blast near school leaves at least 25 dead]]></title>
+            <title><![CDATA[Kabul attack: Blast near school leaves at least 30 dead]]></title>
             <description><![CDATA[The attack took place as the students - thought to be mainly girls - were leaving the Kabul school.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57040713</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57040713</guid>
-            <pubDate>Sat, 08 May 2021 15:36:02 GMT</pubDate>
+            <pubDate>Sat, 08 May 2021 16:49:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[High-speed rail services cancelled after cracks found in trains]]></title>
             <description><![CDATA[The rail minister warns of "prolonged" disruption as Hitachi apologises to affected passengers.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57036247</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57036247</guid>
-            <pubDate>Sat, 08 May 2021 15:58:43 GMT</pubDate>
+            <pubDate>Sat, 08 May 2021 16:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish election 2021: Kaukab Stewart is first woman of colour elected to Holyrood]]></title>
+            <description><![CDATA[Kaukab Stewart of the SNP is the Scottish Parliament's first elected woman of colour in its 22-year history.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57038919</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57038919</guid>
+            <pubDate>Sat, 08 May 2021 16:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welsh election results 2021: Mark Drakeford set to stay as first minister]]></title>
+            <description><![CDATA[Mark Drakeford is set to stay as first minister after Labour won the most Senedd election seats.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57031725</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57031725</guid>
+            <pubDate>Sat, 08 May 2021 16:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections 2021: Labour plans changes after election defeats in England]]></title>
             <description><![CDATA[A policy overhaul and frontbench reshuffle are expected in response to a series of election setbacks.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57037839</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57037839</guid>
-            <pubDate>Sat, 08 May 2021 13:31:19 GMT</pubDate>
+            <pubDate>Sat, 08 May 2021 16:56:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Macron calls on US to drop vaccine export bans]]></title>
@@ -63,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57039362</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57039362</guid>
             <pubDate>Sat, 08 May 2021 15:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lewis Hamilton takes 100th career pole at Spanish Grand Prix]]></title>
-            <description><![CDATA[Lewis Hamilton takes a 100th career pole position by edging out Red Bull's Max Verstappen in qualifying at the Spanish Grand Prix.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57039915</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57039915</guid>
-            <pubDate>Sat, 08 May 2021 15:44:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Post Office scandal: Former staff contacted over prosecutions]]></title>
@@ -184,6 +191,13 @@
             <pubDate>Thu, 06 May 2021 18:24:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lewis Hamilton takes 100th career pole at Spanish Grand Prix]]></title>
+            <description><![CDATA[Lewis Hamilton takes a 100th career pole position by edging out Red Bull's Max Verstappen in qualifying at the Spanish Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57039915</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57039915</guid>
+            <pubDate>Sat, 08 May 2021 15:44:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rooney's Derby battle back to survive and send Sheff Wed down]]></title>
             <description><![CDATA[Martyn Waghorn is the hero as Wayne Rooney's Derby battle back to get the point they need to stay in the Championship and consign Sheffield Wednesday to relegation to League One.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56953366</link>
@@ -198,11 +212,11 @@
             <pubDate>Sat, 08 May 2021 15:49:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Palace win at Sheffield United to secure Premier League status]]></title>
-            <description><![CDATA[Crystal Palace secure their Premier League status for another season with a comfortable victory at a Sheffield United side which has already been relegated.]]></description>
+            <title><![CDATA[Sheffield United 0-2 Crystal Palace: Eze helps Eagles secure Premier League safety]]></title>
+            <description><![CDATA[Crystal Palace secure their Premier League status for another season with a comfortable victory at relegated Sheffield United.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56953533</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56953533</guid>
-            <pubDate>Sat, 08 May 2021 16:03:42 GMT</pubDate>
+            <pubDate>Sat, 08 May 2021 16:58:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2021 elections: What are the results in my area?]]></title>
@@ -307,7 +321,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Fri, 07 May 2021 15:50:00 GMT</pubDate>
+            <pubDate>Sat, 08 May 2021 16:21:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
