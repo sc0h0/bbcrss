@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 May 2021 02:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 02:57:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,11 @@
             <pubDate>Fri, 07 May 2021 23:18:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elections results 2021: Conservatives make gains on English councils]]></title>
-            <description><![CDATA[Labour loses seats to Boris Johnson's party, but leader Sir Keir Starmer promises a fightback.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57021276</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57021276</guid>
-            <pubDate>Fri, 07 May 2021 21:29:47 GMT</pubDate>
+            <title><![CDATA[Election results 2021: Counts continue across England]]></title>
+            <description><![CDATA[Counting continues, with the winners of dozens of council and mayoral contests set to be announced.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57033273</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57033273</guid>
+            <pubDate>Sat, 08 May 2021 02:50:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Al-Aqsa mosque: Dozens hurt in Jerusalem clashes]]></title>
@@ -72,13 +72,6 @@
             <pubDate>Fri, 07 May 2021 19:46:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stormy Daniels: US election officials drop Trump hush money probe]]></title>
-            <description><![CDATA[The former president faced investigation over a payment made to adult film star Stormy Daniels.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57029342</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57029342</guid>
-            <pubDate>Fri, 07 May 2021 17:27:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scottish election 2021: Liberal Party member suspended over Yousaf confrontation]]></title>
             <description><![CDATA[The man had been questioning SNP MSP Humza Yousaf about events in Pakistan at a count.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57025065</link>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57034638</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57034638</guid>
             <pubDate>Fri, 07 May 2021 23:18:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stormy Daniels: US election officials drop Trump hush money probe]]></title>
+            <description><![CDATA[The former president faced investigation over a payment made to adult film star Stormy Daniels.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57029342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57029342</guid>
+            <pubDate>Fri, 07 May 2021 17:27:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Labour in turmoil' as PM 'eyes decade in power']]></title>
@@ -254,7 +254,7 @@
             <pubDate>Fri, 07 May 2021 18:56:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish election results 2021: The story so far]]></title>
+            <title><![CDATA[Scottish election results: The story so far]]></title>
             <description><![CDATA[The key results and moments from the first day of counting in the Holyrood election.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57033767</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57033767</guid>
