@@ -1,6 +1,6 @@
-1. [Julia James: Man held over murder of PCSO Julia James](https://www.bbc.co.uk/news/uk-england-57036831) - Police looking for killer of community support officer Julia James arrest a man in his twenties.
+1. [Julia James: Man held over murder of Kent PCSO](https://www.bbc.co.uk/news/uk-england-57036831) - Police looking for killer of community support officer Julia James arrest a man in his twenties.
 2. [High-speed rail services cancelled after cracks found in trains](https://www.bbc.co.uk/news/uk-57036247) - Hitachi apologises after cracks found in some of its trains lead to services being cancelled.
-3. [Steve Aiken to resign as UUP leader, BBC understands](https://www.bbc.co.uk/news/uk-northern-ireland-57038269) - It is understood frustration with his leadership has been growing across all levels of the party.
+3. [Steve Aiken to resign as Ulster Unionist leader](https://www.bbc.co.uk/news/uk-northern-ireland-57038269) - It is understood frustration with his leadership has been growing across all levels of the party.
 4. [Election results 2021: More local and mayoral results due in England](https://www.bbc.co.uk/news/uk-politics-57033273) - The Conservatives look to consolidate gains on Friday, whilst Labour vows an overhaul after defeats.
 5. [Post Office scandal: Former staff contacted over prosecutions](https://www.bbc.co.uk/news/business-57035924) - It is contacting former workers potentially caught up in the UK's most widespread miscarriage of justice.
 6. [Mexico City metro: Hundreds protest at scene of deadly rail collapse](https://www.bbc.co.uk/news/world-latin-america-57036597) - Demonstrators from around Mexico City demand justice after 26 people died when an overpass collapsed.
