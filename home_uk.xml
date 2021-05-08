@@ -11,16 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 May 2021 18:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 18:35:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Scottish election 2021: Nicola Sturgeon celebrates 'historic' SNP election win]]></title>
+            <description><![CDATA[The SNP is predicted to win 63 seats in the Scottish Parliament - two short of an overall majority.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57038039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57038039</guid>
+            <pubDate>Sat, 08 May 2021 17:57:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sir John Curtice: What the 2021 election results mean for the parties]]></title>
             <description><![CDATA[Prof Sir John Curtice says the ruling parties appear to have done well in Thursday's bumper crop of elections.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57040175</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57040175</guid>
             <pubDate>Sat, 08 May 2021 15:53:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elections 2021: Labour plans changes after election defeats in England]]></title>
+            <description><![CDATA[Labour removes deputy leader Angela Rayner from her roles as party chair and campaign coordinator.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57037839</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57037839</guid>
+            <pubDate>Sat, 08 May 2021 18:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections 2021: Andy Street stays as West Midlands mayor]]></title>
@@ -62,28 +76,14 @@
             <description><![CDATA[Mark Drakeford is set to stay as first minister after Labour won the most Senedd election seats.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57031725</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57031725</guid>
-            <pubDate>Sat, 08 May 2021 17:10:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elections 2021: Labour plans changes after election defeats in England]]></title>
-            <description><![CDATA[A policy overhaul and frontbench reshuffle are expected in response to a series of election setbacks.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57037839</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57037839</guid>
-            <pubDate>Sat, 08 May 2021 16:56:01 GMT</pubDate>
+            <pubDate>Sat, 08 May 2021 18:29:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Macron calls on US to drop vaccine export bans]]></title>
             <description><![CDATA[The French president spoke out after the US backed a proposal to waive patents on Covid-19 vaccines.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57039362</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57039362</guid>
-            <pubDate>Sat, 08 May 2021 15:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Post Office scandal: Former staff contacted over prosecutions]]></title>
-            <description><![CDATA[It is contacting former workers potentially caught up in the UK's most widespread miscarriage of justice.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57035924</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57035924</guid>
-            <pubDate>Sat, 08 May 2021 09:35:25 GMT</pubDate>
+            <pubDate>Sat, 08 May 2021 18:22:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Our first day of freedom on American soil']]></title>
@@ -206,7 +206,7 @@
         </item>
         <item>
             <title><![CDATA[Rooney's Derby battle back to survive and send Sheff Wed down]]></title>
-            <description><![CDATA[Martyn Waghorn is the hero as Wayne Rooney's Derby battle back to get the point they need to stay in the Championship and consign Sheffield Wednesday to relegation to League One.]]></description>
+            <description><![CDATA[Martyn Waghorn is the hero as Derby County battle back to get the point they need to stay in the Championship and consign Sheffield Wednesday to relegation to League One.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56953366</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56953366</guid>
             <pubDate>Sat, 08 May 2021 14:17:19 GMT</pubDate>
@@ -223,7 +223,7 @@
             <description><![CDATA[Bristol overcome a 15-point first-half deficit to beat local rivals Bath 40-20 and secure a Premiership play-off spot.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/56996683</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56996683</guid>
-            <pubDate>Sat, 08 May 2021 17:53:01 GMT</pubDate>
+            <pubDate>Sat, 08 May 2021 18:14:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2021 elections: What are the results in my area?]]></title>
