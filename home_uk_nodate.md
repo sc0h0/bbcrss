@@ -1,10 +1,10 @@
 1. [Welsh election results 2021: Labour set to stay in power](https://www.bbc.co.uk/news/uk-wales-politics-57009547) - The party has matched its best ever Senedd result, winning exactly half of the 60 seats.
 2. [Covid-19: Travel firms' green list concerns, and Chinese vaccine approved](https://www.bbc.co.uk/news/uk-57034558) - Five things you need to know about the coronavirus pandemic this Saturday.
 3. [Election results 2021: Counts continue across England](https://www.bbc.co.uk/news/uk-politics-57033273) - Counting continues, with the results of dozens of council and mayoral contests still expected.
-4. [Al-Aqsa mosque: Dozens hurt in Jerusalem clashes](https://www.bbc.co.uk/news/world-middle-east-57034237) - At least 163 Palestinians and six Israeli police are injured as rising tensions erupt into violence.
-5. [Philippines Covid surge throws country into disarray](https://www.bbc.co.uk/news/world-asia-57004926) - A second Covid surge is putting renewed pressure on the country's healthcare and economy.
-6. [Covid: Travel firms reject 'overly cautious' green list](https://www.bbc.co.uk/news/business-57027418) - The UK will be 'left behind' if other countries open up travel more quickly, the industry says.
-7. [Brazil violence: Rio police accused by residents of abuses in raid](https://www.bbc.co.uk/news/world-latin-america-57000382) - Residents of a Rio de Janeiro slum accuse police of violence and abuses in a raid that left 28 dead.
+4. [High-speed rail services cancelled after cracks found in trains](https://www.bbc.co.uk/news/uk-57036247) - High-speed rail services are cancelled across parts of the UK after cracks are found in Hitachi 800 trains.
+5. [Al-Aqsa mosque: Dozens hurt in Jerusalem clashes](https://www.bbc.co.uk/news/world-middle-east-57034237) - At least 163 Palestinians and six Israeli police are injured as rising tensions erupt into violence.
+6. [Philippines Covid surge throws country into disarray](https://www.bbc.co.uk/news/world-asia-57004926) - A second Covid surge is putting renewed pressure on the country's healthcare and economy.
+7. [Covid: Travel firms reject 'overly cautious' green list](https://www.bbc.co.uk/news/business-57027418) - The UK will be 'left behind' if other countries open up travel more quickly, the industry says.
 8. [Prince Misizulu named next Zulu king amid family feud](https://www.bbc.co.uk/news/world-africa-57035157) - Prince Misizulu is now expected to lead the Zulu nation of about 11 million people in South Africa.
 9. [Michelle Obama: Black parents have 'fear in our hearts'](https://www.bbc.co.uk/news/world-us-canada-57034638) - The former US first lady says she is worried her daughters could be racially profiled.
 10. [The Papers: 'Labour in turmoil' as PM 'eyes decade in power'](https://www.bbc.co.uk/news/blogs-the-papers-57033837) - Saturday's papers are dominated by the election results, as counting continues across the country.
