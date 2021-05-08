@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 May 2021 22:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 22:38:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57037839</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57037839</guid>
             <pubDate>Sat, 08 May 2021 19:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir John Curtice: What the 2021 election results mean for the parties]]></title>
-            <description><![CDATA[Prof Sir John Curtice says the ruling parties appear to have done well in Thursday's bumper crop of elections.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57040175</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57040175</guid>
-            <pubDate>Sat, 08 May 2021 15:53:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections 2021: Andy Street stays as West Midlands mayor]]></title>
@@ -79,18 +72,25 @@
             <pubDate>Sat, 08 May 2021 21:01:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Obamas' dog Bo dies: 'We said goodbye to our best friend']]></title>
+            <description><![CDATA[Bo, a Portuguese water dog who arrived in the White House shortly after the Obamas, died on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57043456</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57043456</guid>
+            <pubDate>Sat, 08 May 2021 21:49:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complementary medicines for weight loss not justified, study suggests]]></title>
+            <description><![CDATA[Some complementary medicines result in marginal weight loss but do not benefit health, study suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57039848</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57039848</guid>
+            <pubDate>Sat, 08 May 2021 22:13:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Welsh election results 2021: Mark Drakeford set to stay as first minister]]></title>
             <description><![CDATA[Mark Drakeford is set to stay as first minister after Labour won the most Senedd election seats.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57031725</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57031725</guid>
             <pubDate>Sat, 08 May 2021 21:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Macron calls on US to drop vaccine export bans]]></title>
-            <description><![CDATA[The French president spoke out after the US backed a proposal to waive patents on Covid-19 vaccines.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57039362</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57039362</guid>
-            <pubDate>Sat, 08 May 2021 18:22:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Son wins father's Bradford council seat after Covid death]]></title>
@@ -212,18 +212,18 @@
             <pubDate>Sat, 08 May 2021 19:36:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lewis Hamilton takes 100th career pole at Spanish Grand Prix]]></title>
-            <description><![CDATA[Lewis Hamilton takes a 100th career pole position by edging out Red Bull's Max Verstappen in qualifying at the Spanish Grand Prix.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57039915</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57039915</guid>
-            <pubDate>Sat, 08 May 2021 15:44:29 GMT</pubDate>
+            <title><![CDATA['Hamilton's 100th pole is more than just a number']]></title>
+            <description><![CDATA[Lewis Hamilton's 100th pole position is "hard to compute", but the real emotion resonated from the account of an old friend.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57041848</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57041848</guid>
+            <pubDate>Sat, 08 May 2021 20:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liverpool beat Saints to boost Champions League hopes]]></title>
             <description><![CDATA[Liverpool boosted their hopes of Champions League qualification by beating Southampton 2-0 to put pressure on fourth-placed Leicester City.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56953531</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56953531</guid>
-            <pubDate>Sat, 08 May 2021 21:32:17 GMT</pubDate>
+            <pubDate>Sat, 08 May 2021 22:27:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nisbet & Doidge send Hibs into Scottish Cup final]]></title>
@@ -240,11 +240,25 @@
             <pubDate>Fri, 07 May 2021 07:11:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rooney's Derby battle back to survive and send Sheff Wed down in dramatic finale]]></title>
+            <description><![CDATA[Martyn Waghorn is the hero as Derby County battle back to get the point they need to stay in the Championship and consign Sheffield Wednesday to relegation to League One.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56953366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56953366</guid>
+            <pubDate>Sat, 08 May 2021 19:49:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2021 elections: What are the results in my area?]]></title>
             <description><![CDATA[National elections in Scotland and Wales and local elections in England took place on 6 May 2021.]]></description>
             <link>https://www.bbc.co.uk/news/56129210</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56129210</guid>
             <pubDate>Thu, 06 May 2021 21:06:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir John Curtice: What the 2021 election results mean for the parties]]></title>
+            <description><![CDATA[Prof Sir John Curtice says the ruling parties appear to have done well in Thursday's bumper crop of elections.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57040175</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57040175</guid>
+            <pubDate>Sat, 08 May 2021 15:53:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elections results 2021: Andy Burnham re-elected as Greater Manchester mayor]]></title>
