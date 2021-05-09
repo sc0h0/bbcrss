@@ -1,4 +1,4 @@
-1. [Election results 2021: PM calls devolution summit after SNP victory](https://www.bbc.co.uk/news/uk-57043758) - Boris Johnson tells leaders of the devolved nations people are "best served when we work together".
+1. [Election results 2021: PM calls Covid recovery summit after SNP victory](https://www.bbc.co.uk/news/uk-57043758) - Boris Johnson tells leaders of the devolved nations people are "best served when we work together".
 2. [London elections: Sadiq Khan wins second term as mayor](https://www.bbc.co.uk/news/uk-england-london-56997137) - The former MP will serve for another three years after beating Conservative rival Shaun Bailey.
 3. [Jerusalem: Many injured on second night of clashes](https://www.bbc.co.uk/news/world-middle-east-57044000) - Some 90 Palestinians and at least one Israeli police officer are hurt in a second night of violence.
 4. [Elections 2021: Labour's deputy leader Angela Rayner sacked as party chair](https://www.bbc.co.uk/news/uk-politics-57037839) - Angela Rayner has also been removed as campaign coordinator following Labour's poor election results.
@@ -26,7 +26,7 @@
 26. [The misinformation bubble threatening Brazil's indigenous people](https://www.bbc.co.uk/news/blogs-trending-56919424) - Health workers report resistance because of fake content spread over WhatsApp.
 27. [Spy row revs up Czech-Russian tensions](https://www.bbc.co.uk/news/world-europe-57008363) - The Czechs and Russians, ex-communist bloc allies, are in a new diplomatic Cold War.
 28. [India's Covid crisis delivers a blow to brand Modi](https://www.bbc.co.uk/news/world-asia-india-56970569) - Narendra Modi's carefully crafted image has taken a hit as India reels from a punishing Covid wave.
-29. [Saul 'Canelo' Alvarez v Billy Joe Saunders: Mexican wins with eighth-round stoppage](https://www.bbc.co.uk/sport/boxing/57037558) - Saul 'Canelo' Alvarez stops Billy Joe Saunders in the eighth round in Texas to unify the super-middleweight titles.
+29. [Superb Alvarez stops Saunders to unify super-middleweight titles](https://www.bbc.co.uk/sport/boxing/57037558) - Saul 'Canelo' Alvarez stops Billy Joe Saunders in the eighth round in Texas to unify the super-middleweight titles.
 30. [Aguero misses penalty as Chelsea's late win makes Man City wait for title](https://www.bbc.co.uk/sport/football/56953530) - Sergio Aguero misses penalty as Chelsea ensure Manchester City must wait to wrap up the Premier League title by fighting back to win at Etihad Stadium.
 31. ['Hamilton's 100th pole is more than just a number'](https://www.bbc.co.uk/sport/formula1/57041848) - Lewis Hamilton's 100th pole position is "hard to compute", but the real emotion resonated from the account of an old friend.
 32. [Liverpool beat Saints to boost Champions League hopes](https://www.bbc.co.uk/sport/football/56953531) - Liverpool boosted their hopes of Champions League qualification by beating Southampton 2-0 to put pressure on fourth-placed Leicester City.
