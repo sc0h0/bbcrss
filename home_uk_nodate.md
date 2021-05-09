@@ -1,6 +1,6 @@
 1. [Election results 2021: PM calls devolution summit after SNP victory](https://www.bbc.co.uk/news/uk-57043758) - Boris Johnson tells leaders of the devolved nations people are "best served when we work together".
 2. [London elections: Sadiq Khan wins second term as mayor](https://www.bbc.co.uk/news/uk-england-london-56997137) - The former MP will serve for another three years after beating Conservative rival Shaun Bailey.
-3. [Jerusalem: Many injured on second night of clashes](https://www.bbc.co.uk/news/world-middle-east-57044000) - More than 80 Palestinians and at least one Israeli police officer are hurt in a second night of violence.
+3. [Jerusalem: Many injured on second night of clashes](https://www.bbc.co.uk/news/world-middle-east-57044000) - Some 90 Palestinians and at least one Israeli police officer are hurt in a second night of violence.
 4. [Elections 2021: Labour's deputy leader Angela Rayner sacked as party chair](https://www.bbc.co.uk/news/uk-politics-57037839) - Angela Rayner has also been removed as campaign coordinator following Labour's poor election results.
 5. [More rail disruption on Sunday after train cracks found](https://www.bbc.co.uk/news/uk-57042384) - Two rail operators warn passengers not to travel after cracks were found in some high-speed trains.
 6. [Kabul attack: Blasts near school leave at least 30 dead](https://www.bbc.co.uk/news/world-asia-57040713) - The attack took place as the students - thought to be mainly girls - were leaving the Kabul school.
