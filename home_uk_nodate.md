@@ -5,7 +5,7 @@
 5. [Elon Musk reveals he has Asperger's on Saturday Night Live](https://www.bbc.co.uk/news/world-us-canada-57045770) - The 49-year-old Tesla CEO appeared as a guest host on the US comedy series Saturday Night Live.
 6. [Nicola Sturgeon says referendum row 'unlikely to end up in court'](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57046408) - Nicola Sturgeon says she could introduce legislation for an independence referendum in the spring.
 7. [Rail disruption set to continue into next week after train cracks found](https://www.bbc.co.uk/news/uk-57042384) - Rail firms GWR and LNER warn passengers not to travel on Sunday after cracks were found on some trains.
-8. [Chinese rocket debris crashes into Indian Ocean - state media](https://www.bbc.co.uk/news/science-environment-57045058) - Most of the Chinese Long March-5b rocket reportedly disintegrated as it re-entered the atmosphere.
+8. [Kabul attack: Families bury schoolchildren of blast that killed dozens](https://www.bbc.co.uk/news/world-asia-57046527) - Most of the victims of Saturday's blasts which killed more than 60 near a Kabul school were girls.
 9. [Wales election 2021: Labour set to form new Welsh government alone](https://www.bbc.co.uk/news/uk-wales-57042797) - Election result allows them to work with parties on a "case-by-case basis", a minister says.
 10. [Selfridges: Eight arrested after man stabbed inside Oxford Street store](https://www.bbc.co.uk/news/uk-england-london-57031623) - Footage shows a man wielding a knife in front of shoppers inside the famous department store.
 11. [Your pictures on the theme of 'outdoor art'](https://www.bbc.co.uk/news/in-pictures-57023047) - A selection of striking images from our readers on this week's theme.
