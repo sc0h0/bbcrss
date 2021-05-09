@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 May 2021 06:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 07:21:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,25 @@
             <pubDate>Sun, 09 May 2021 06:06:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jerusalem: Many injured on second night of clashes]]></title>
-            <description><![CDATA[Some 90 Palestinians and at least one Israeli police officer are hurt in a further night of violence.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57044000</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57044000</guid>
-            <pubDate>Sun, 09 May 2021 03:37:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[China rocket debris 'disintegrates over Indian Ocean' - Chinese media]]></title>
             <description><![CDATA[Much of the rocket was destroyed as it fell, but some debris landed west of the Maldives, China says.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57045058</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57045058</guid>
             <pubDate>Sun, 09 May 2021 04:25:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: 'Team UK' post-pandemic recovery summit, and India's junior doctors]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57044490</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57044490</guid>
+            <pubDate>Sun, 09 May 2021 06:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jerusalem: Many injured on second night of clashes]]></title>
+            <description><![CDATA[Some 90 Palestinians and at least one Israeli police officer are hurt in a further night of violence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57044000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57044000</guid>
+            <pubDate>Sun, 09 May 2021 03:37:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More rail disruption on Sunday after train cracks found]]></title>
@@ -62,7 +69,7 @@
             <description><![CDATA[Angela Rayner has also been removed as campaign coordinator following Labour's poor election results.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57037839</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57037839</guid>
-            <pubDate>Sat, 08 May 2021 19:08:13 GMT</pubDate>
+            <pubDate>Sun, 09 May 2021 07:04:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish election 2021: Nicola Sturgeon celebrates 'historic' SNP election win]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57029724</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57029724</guid>
             <pubDate>Sat, 08 May 2021 23:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Complementary medicines for weight loss not justified, study suggests]]></title>
-            <description><![CDATA[Some complementary medicines result in marginal weight loss but do not benefit health, study suggests.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57039848</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57039848</guid>
-            <pubDate>Sat, 08 May 2021 22:13:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neanderthal remains unearthed in Italian cave]]></title>
@@ -226,11 +226,18 @@
             <pubDate>Sat, 08 May 2021 20:23:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Liverpool beat Saints to boost Champions League hopes]]></title>
+            <title><![CDATA['We are fighting for a small miracle' - Thiago on top-four hopes after Liverpool beat Saints]]></title>
             <description><![CDATA[Liverpool boosted their hopes of Champions League qualification by beating Southampton 2-0 to put pressure on fourth-placed Leicester City.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56953531</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56953531</guid>
             <pubDate>Sat, 08 May 2021 22:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Walker Cup: US hold slim Walker Cup lead over Great Britain and Ireland at Seminole]]></title>
+            <description><![CDATA[The United States take a 7-5 lead over Great Britain and Ireland into Sunday's final day of the 48th Walker Cup after an intriguing opening day at Seminole Golf Club in Florida.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/57043888</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57043888</guid>
+            <pubDate>Sun, 09 May 2021 06:44:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nisbet & Doidge send Hibs into Scottish Cup final]]></title>
@@ -238,20 +245,6 @@
             <link>https://www.bbc.co.uk/sport/football/56953558</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56953558</guid>
             <pubDate>Sat, 08 May 2021 16:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Premiership leaders Bristol beat rivals Bath to secure play-off spot]]></title>
-            <description><![CDATA[Bristol overcome a 15-point first-half deficit to beat local rivals Bath 40-20 and secure a Premiership play-off spot.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/56996683</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/56996683</guid>
-            <pubDate>Sat, 08 May 2021 22:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DeChambeau makes 2,000-mile round-trip after Quail Hollow cut mistake]]></title>
-            <description><![CDATA[Bryson DeChambeau rushed to get to the tee for Saturday's third round of the Wells Fargo Championship, having flown home to Dallas thinking he had missed the cut.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/57043608</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57043608</guid>
-            <pubDate>Sat, 08 May 2021 21:03:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2021 elections: What are the results in my area?]]></title>
@@ -265,7 +258,7 @@
             <description><![CDATA[Prof Sir John Curtice says the ruling parties appear to have done well in Thursday's bumper crop of elections.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57040175</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57040175</guid>
-            <pubDate>Sat, 08 May 2021 15:53:12 GMT</pubDate>
+            <pubDate>Sun, 09 May 2021 07:11:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish election 2021: Results in maps and charts]]></title>
