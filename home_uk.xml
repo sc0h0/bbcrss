@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 May 2021 17:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 18:34:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,7 @@
             <description><![CDATA[The PM says people should use their judgement of the risks as he confirms England's lockdown easing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57059988</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57059988</guid>
-            <pubDate>Mon, 10 May 2021 17:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zero Covid deaths for England, Scotland and NI]]></title>
-            <description><![CDATA[Wales announces four fatalities as UK chief medical officers lower the Covid alert level.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57055340</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57055340</guid>
-            <pubDate>Mon, 10 May 2021 16:36:35 GMT</pubDate>
+            <pubDate>Mon, 10 May 2021 18:28:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Some quarantine-free foreign travel to be allowed]]></title>
@@ -44,11 +37,25 @@
             <pubDate>Mon, 10 May 2021 12:27:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[River Thames whale: Stranded baby minke is put down]]></title>
+            <description><![CDATA[The juvenile minke whale had become stuck against a river wall in south-west London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57056008</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57056008</guid>
+            <pubDate>Mon, 10 May 2021 18:28:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Hugging to be allowed in England as UK alert level drops]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57059196</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57059196</guid>
             <pubDate>Mon, 10 May 2021 16:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jerusalem violence: Deadly air strikes hit Gaza after rocket attacks]]></title>
+            <description><![CDATA[Up to nine people are killed as Israel's military responds to rocket fire towards Jerusalem.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57053074</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57053074</guid>
+            <pubDate>Mon, 10 May 2021 18:28:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson facing probe over funding of 2019 holiday]]></title>
@@ -58,6 +65,13 @@
             <pubDate>Mon, 10 May 2021 13:33:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[India Covid: Dozens of bodies wash up on banks of Ganges river]]></title>
+            <description><![CDATA[It is not clear where the bodies came from, but local media suggest they may be Covid-19 victims.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57061452</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57061452</guid>
+            <pubDate>Mon, 10 May 2021 15:47:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Face masks no longer required in England's classrooms]]></title>
             <description><![CDATA[Face coverings will not be needed in England's secondary classrooms from 17 May, says the prime minister.]]></description>
             <link>https://www.bbc.co.uk/news/education-57059407</link>
@@ -65,25 +79,11 @@
             <pubDate>Mon, 10 May 2021 16:38:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[River Thames: Stranded baby minke whale to be euthanised]]></title>
-            <description><![CDATA[The juvenile minke whale has become stuck against a river wall in south-west London.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57056008</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57056008</guid>
-            <pubDate>Mon, 10 May 2021 17:07:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BBC Panorama: Following the police taking on UK drug gangs]]></title>
             <description><![CDATA[Panorama filmed officers trying to disrupt networks of dealers transporting drugs worth millions of pounds.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57058635</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57058635</guid>
             <pubDate>Mon, 10 May 2021 12:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerusalem violence: Rockets fired from Gaza after major clashes]]></title>
-            <description><![CDATA[Hamas militants had threatened to attack after hundreds of Palestinians were wounded.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57053074</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57053074</guid>
-            <pubDate>Mon, 10 May 2021 17:32:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HSBC to pilot Zoom-free Friday afternoons]]></title>
@@ -230,7 +230,7 @@
             <description><![CDATA[Prime Minister Boris Johnson confirms up to 10,000 fans will be permitted at outdoor sports venues from 17 May.]]></description>
             <link>https://www.bbc.co.uk/sport/57062288</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/57062288</guid>
-            <pubDate>Mon, 10 May 2021 16:54:11 GMT</pubDate>
+            <pubDate>Mon, 10 May 2021 18:01:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Japan's Osaka 'not sure' Olympics should happen]]></title>
@@ -252,6 +252,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-57055578</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57055578</guid>
             <pubDate>Mon, 10 May 2021 17:47:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I have developed a great affection for the club' - Cavani extends Man Utd stay]]></title>
+            <description><![CDATA[Edinson Cavani has signed a contract extension at Manchester United, keeping the Uruguay striker at the club until June 2022.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57060511</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57060511</guid>
+            <pubDate>Mon, 10 May 2021 16:24:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
