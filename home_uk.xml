@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 May 2021 11:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 11:34:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-57050860</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57050860</guid>
             <pubDate>Mon, 10 May 2021 10:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid alert level reduced as lockdown set to ease]]></title>
+            <description><![CDATA[Experts say all of the data is looking good, although the virus is still in general circulation.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57055340</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57055340</guid>
+            <pubDate>Mon, 10 May 2021 11:32:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson facing probe over funding of 2019 holiday]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-57021128</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57021128</guid>
             <pubDate>Mon, 10 May 2021 02:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerusalem violence: More clashes ahead of nationalist march]]></title>
-            <description><![CDATA[Hundreds of Palestinians are injured as tensions soar, with the planned march through Muslim areas.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57053074</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57053074</guid>
-            <pubDate>Mon, 10 May 2021 10:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[River Thames: Rescuers try to save stranded whale for second time]]></title>

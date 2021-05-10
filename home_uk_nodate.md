@@ -1,9 +1,9 @@
 1. [Indoor pints and visiting people at home set to return](https://www.bbc.co.uk/news/uk-57050860) - Hugging is also on the cards, as the PM is due to confirm a relaxation of restrictions in England from 17 May.
-2. [Boris Johnson facing probe over funding of 2019 holiday](https://www.bbc.co.uk/news/uk-politics-57055882) - The MPs' standards watchdog is looking into whether costs of the trip have been correctly declared.
-3. [Deaths of people on benefits prompt inquiry call](https://www.bbc.co.uk/news/uk-56819727) - The Department for Work and Pensions has reviewed 150 cases where people died or came to serious harm.
-4. [Covid: 'Miracle' baby born to Newport mum in coma](https://www.bbc.co.uk/news/uk-wales-57047998) - Doctors were not sure Marriam Ahmad and her unborn daughter would survive after she was ventilated.
-5. [Thousands recruited to front UK firms in 'tax dodge'](https://www.bbc.co.uk/news/uk-57021128) - Tens of thousands of companies are being set up with Filipino directors to benefit from UK tax relief.
-6. [Jerusalem violence: More clashes ahead of nationalist march](https://www.bbc.co.uk/news/world-middle-east-57053074) - Hundreds of Palestinians are injured as tensions soar, with the planned march through Muslim areas.
+2. [Covid alert level reduced as lockdown set to ease](https://www.bbc.co.uk/news/health-57055340) - Experts say all of the data is looking good, although the virus is still in general circulation.
+3. [Boris Johnson facing probe over funding of 2019 holiday](https://www.bbc.co.uk/news/uk-politics-57055882) - The MPs' standards watchdog is looking into whether costs of the trip have been correctly declared.
+4. [Deaths of people on benefits prompt inquiry call](https://www.bbc.co.uk/news/uk-56819727) - The Department for Work and Pensions has reviewed 150 cases where people died or came to serious harm.
+5. [Covid: 'Miracle' baby born to Newport mum in coma](https://www.bbc.co.uk/news/uk-wales-57047998) - Doctors were not sure Marriam Ahmad and her unborn daughter would survive after she was ventilated.
+6. [Thousands recruited to front UK firms in 'tax dodge'](https://www.bbc.co.uk/news/uk-57021128) - Tens of thousands of companies are being set up with Filipino directors to benefit from UK tax relief.
 7. [River Thames: Rescuers try to save stranded whale for second time](https://www.bbc.co.uk/news/uk-england-london-57056008) - The baby whale escaped an inflatable cushion that was guiding it from the River Thames to safety.
 8. [Martin Lewis and Sir Richard Branson's names most used by scammers](https://www.bbc.co.uk/news/technology-57051546) - The pair are the celebrities whose faces appear in more fake endorsement scams than anyone else, cyber agency says.
 9. ['Fear of missing out' fuels record house prices in April](https://www.bbc.co.uk/news/business-57055314) - Average house prices have climbed almost £20,000 in the last year, hitting a record high in April.
