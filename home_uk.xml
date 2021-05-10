@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 May 2021 03:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 04:34:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,39 +23,18 @@
             <pubDate>Sun, 09 May 2021 23:03:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US passes emergency waiver over fuel pipeline cyber-attack]]></title>
-            <description><![CDATA[The US acts to keep fuel flowing after its largest pipeline was hit by a ransomware cyber-attack.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57050690</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57050690</guid>
-            <pubDate>Mon, 10 May 2021 02:22:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lockdown: Boris Johnson to announce 17 May changes for England]]></title>
-            <description><![CDATA[Hugs and indoor gatherings could return from 17 May as Boris Johnson confirms the next stage of unlocking.]]></description>
+            <description><![CDATA[Hugging is also on the cards, as the PM is due to confirm a relaxation of restrictions in England from 17 May.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57050860</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57050860</guid>
             <pubDate>Mon, 10 May 2021 03:22:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gunman shoots dead six people at Colorado Springs birthday party]]></title>
-            <description><![CDATA[The suspect opened fire in a mobile home before taking his own life, police in the US city say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57052452</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57052452</guid>
-            <pubDate>Sun, 09 May 2021 23:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerusalem protests: Netanyahu defends Israeli action after clashes with Palestinians]]></title>
-            <description><![CDATA[The prime minister spoke after two nights of clashes between Palestinian protesters and police.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57049126</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57049126</guid>
-            <pubDate>Sun, 09 May 2021 15:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rail disruption set to continue into next week after train cracks found]]></title>
-            <description><![CDATA[Rail firms GWR and LNER warn passengers not to travel on Sunday after cracks were found on some trains.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57042384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57042384</guid>
-            <pubDate>Sun, 09 May 2021 19:03:43 GMT</pubDate>
+            <title><![CDATA[Social care needs fixing now, council leaders tell chancellor]]></title>
+            <description><![CDATA[Tuesday's Queens Speech is the time to act on social care reform, says cross-party group.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57025195</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57025195</guid>
+            <pubDate>Mon, 10 May 2021 04:11:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sir David Attenborough: Problems that await greater than the epidemic]]></title>
@@ -65,6 +44,13 @@
             <pubDate>Sun, 09 May 2021 23:27:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US passes emergency waiver over fuel pipeline cyber-attack]]></title>
+            <description><![CDATA[The US acts to keep fuel flowing after its largest pipeline was hit by a ransomware cyber-attack.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57050690</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57050690</guid>
+            <pubDate>Mon, 10 May 2021 02:22:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mini umbrella firms costing UK taxpayer millions]]></title>
             <description><![CDATA[Tens of thousands of companies are being set up with Filipino directors to benefit from UK tax relief.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57021128</link>
@@ -72,11 +58,18 @@
             <pubDate>Mon, 10 May 2021 02:20:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rescue operation to help whale stranded in Thames]]></title>
-            <description><![CDATA[Crowds gathered at Richmond Lock as the RNLI worked to free what's thought to be a small Minke whale.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57052331</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57052331</guid>
-            <pubDate>Mon, 10 May 2021 01:15:18 GMT</pubDate>
+            <title><![CDATA[Jerusalem protests: Netanyahu defends Israeli action after clashes with Palestinians]]></title>
+            <description><![CDATA[The prime minister spoke after two nights of clashes between Palestinian protesters and police.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57049126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57049126</guid>
+            <pubDate>Sun, 09 May 2021 15:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gunman shoots dead six people at Colorado Springs birthday party]]></title>
+            <description><![CDATA[The suspect opened fire in a mobile home before taking his own life, police in the US city say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57052452</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57052452</guid>
+            <pubDate>Sun, 09 May 2021 23:30:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: 'Miracle' baby born to Newport mum in coma]]></title>
@@ -86,11 +79,18 @@
             <pubDate>Sun, 09 May 2021 21:28:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kabul attack: Families bury schoolchildren of blast that killed dozens]]></title>
-            <description><![CDATA[Most of the victims of Saturday's blasts which killed more than 60 near a Kabul school were girls.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57046527</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57046527</guid>
-            <pubDate>Sun, 09 May 2021 17:53:15 GMT</pubDate>
+            <title><![CDATA[Rail disruption set to continue after train cracks found]]></title>
+            <description><![CDATA[Rail firms GWR and LNER warn of issues on long-distance routes after cracks were found on some trains.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57042384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57042384</guid>
+            <pubDate>Sun, 09 May 2021 19:03:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rescue operation to help whale stranded in Thames]]></title>
+            <description><![CDATA[Crowds gathered at Richmond Lock as the RNLI worked to free what's thought to be a small Minke whale.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57052331</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57052331</guid>
+            <pubDate>Mon, 10 May 2021 01:15:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Golden Globes controversy: Scarlett Johansson joins criticism]]></title>
