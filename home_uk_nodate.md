@@ -3,8 +3,8 @@
 3. [Covid: 'Miracle' baby born to Newport mum in coma](https://www.bbc.co.uk/news/uk-wales-57047998) - Doctors were not sure Marriam Ahmad and her unborn daughter would survive after she was ventilated.
 4. [Thousands recruited to front UK firms in 'tax dodge'](https://www.bbc.co.uk/news/uk-57021128) - Tens of thousands of companies are being set up with Filipino directors to benefit from UK tax relief.
 5. [Jerusalem violence: More clashes ahead of nationalist march](https://www.bbc.co.uk/news/world-middle-east-57053074) - Hundreds of Palestinians are injured as tensions soar, with the planned march through Muslim areas.
-6. [Social care needs fixing now, council leaders tell chancellor](https://www.bbc.co.uk/news/uk-57025195) - Tuesday's Queens Speech is the time to act on social care reform, says cross-party group.
-7. [US passes emergency waiver over fuel pipeline cyber-attack](https://www.bbc.co.uk/news/business-57050690) - The US acts to keep fuel flowing after its largest pipeline was hit by a ransomware cyber-attack.
+6. [River Thames: Rescuers try to save stranded whale for second time](https://www.bbc.co.uk/news/uk-england-london-57056008) - The baby whale escaped an inflatable cushion that was guiding it from the River Thames to safety.
+7. [Social care needs fixing now, council leaders tell chancellor](https://www.bbc.co.uk/news/uk-57025195) - Tuesday's Queens Speech is the time to act on social care reform, says cross-party group.
 8. ['Fear of missing out' fuels record house prices in April](https://www.bbc.co.uk/news/business-57055314) - Average house prices have climbed almost £20,000 in the last year, hitting a record high in April.
 9. [Former Gogglebox star Scarlett Moffatt on the 'hope' offered by Samaritans](https://www.bbc.co.uk/news/uk-57030285) - The former Gogglebox star told BBC Breakfast about "horrific trolling" that led to her reaching out for help.
 10. [The Papers: 'Starmer swings axe', and 'darling hugs of May'](https://www.bbc.co.uk/news/blogs-the-papers-57052281) - Many of Monday's papers lead with Labour's reshuffle after the party's election losses in England.
