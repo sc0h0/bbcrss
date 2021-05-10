@@ -11,30 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 May 2021 16:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 May 2021 17:13:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: PM urges people to live responsibly with Covid as England's lockdown eases]]></title>
+            <description><![CDATA[The PM says people should use their judgement of the risks as he confirms England's lockdown easing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57059988</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57059988</guid>
+            <pubDate>Mon, 10 May 2021 16:53:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zero Covid deaths for England, Scotland and NI]]></title>
             <description><![CDATA[Wales announces four fatalities as UK chief medical officers lower the Covid alert level.]]></description>
             <link>https://www.bbc.co.uk/news/health-57055340</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57055340</guid>
-            <pubDate>Mon, 10 May 2021 15:29:55 GMT</pubDate>
+            <pubDate>Mon, 10 May 2021 16:36:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Some foreign travel without quarantine to be allowed]]></title>
+            <title><![CDATA[Covid in Scotland: Some quarantine-free foreign travel to be allowed]]></title>
             <description><![CDATA[A traffic lights system allowing travel to some countries is set to be introduced, the BBC understands.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57059379</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57059379</guid>
-            <pubDate>Mon, 10 May 2021 15:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson facing probe over funding of 2019 holiday]]></title>
-            <description><![CDATA[The MPs' standards watchdog is looking into whether costs of the trip have been correctly declared.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57055882</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57055882</guid>
-            <pubDate>Mon, 10 May 2021 13:33:47 GMT</pubDate>
+            <pubDate>Mon, 10 May 2021 16:15:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen recalls effort behind junior lifeguard award]]></title>
@@ -44,18 +44,32 @@
             <pubDate>Mon, 10 May 2021 12:27:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Masks expected to be no longer required in England's classroom]]></title>
-            <description><![CDATA[Ministers expected to confirm face masks not needed in England's secondary classrooms from 17 May.]]></description>
-            <link>https://www.bbc.co.uk/news/education-57059407</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57059407</guid>
-            <pubDate>Mon, 10 May 2021 12:54:11 GMT</pubDate>
+            <title><![CDATA[Covid-19: Hugging to be allowed in England as UK alert level drops]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57059196</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57059196</guid>
+            <pubDate>Mon, 10 May 2021 16:46:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[River Thames: Rescuers try to save stranded whale for second time]]></title>
-            <description><![CDATA[The baby whale escaped an inflatable cushion that was guiding it from the River Thames to safety.]]></description>
+            <title><![CDATA[Boris Johnson facing probe over funding of 2019 holiday]]></title>
+            <description><![CDATA[The MPs' standards watchdog is looking into whether costs of the trip have been correctly declared.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57055882</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57055882</guid>
+            <pubDate>Mon, 10 May 2021 13:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Face masks no longer required in England's classrooms]]></title>
+            <description><![CDATA[Face coverings will not be needed in England's secondary classrooms from 17 May, says the prime minister.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57059407</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57059407</guid>
+            <pubDate>Mon, 10 May 2021 16:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[River Thames: Stranded baby minke whale to be euthanised]]></title>
+            <description><![CDATA[The juvenile minke whale has become stuck against a river wall in south-west London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57056008</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57056008</guid>
-            <pubDate>Mon, 10 May 2021 14:02:47 GMT</pubDate>
+            <pubDate>Mon, 10 May 2021 17:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BBC Panorama: Following the police taking on UK drug gangs]]></title>
@@ -70,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57053074</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57053074</guid>
             <pubDate>Mon, 10 May 2021 15:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deaths of people on benefits prompt inquiry call]]></title>
-            <description><![CDATA[The Department for Work and Pensions has reviewed 150 cases where people died or came to serious harm.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56819727</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56819727</guid>
-            <pubDate>Mon, 10 May 2021 06:05:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Labour reshuffle: Anneliese Dodds out in Starmer's post-election reshuffle]]></title>
@@ -156,6 +163,13 @@
             <pubDate>Fri, 07 May 2021 23:18:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mental health: Can you tell if someone is struggling?]]></title>
+            <description><![CDATA[Coronavirus has affected many people in different ways - how would you react if someone needed support?]]></description>
+            <link>https://www.bbc.co.uk/news/health-57013126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57013126</guid>
+            <pubDate>Mon, 10 May 2021 00:44:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[India Covid: Kumbh Mela pilgrims turn into super-spreaders]]></title>
             <description><![CDATA[When millions turned up for the Hindu festival amid a coronavirus surge, many feared the worst.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57005563</link>
@@ -212,6 +226,13 @@
             <pubDate>Mon, 10 May 2021 00:39:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fans to return to sport in England from 17 May]]></title>
+            <description><![CDATA[Prime Minister Boris Johnson confirms up to 10,000 fans will be permitted at outdoor sports venues from 17 May.]]></description>
+            <link>https://www.bbc.co.uk/sport/57062288</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/57062288</guid>
+            <pubDate>Mon, 10 May 2021 16:54:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Japan's Osaka 'not sure' Olympics should happen]]></title>
             <description><![CDATA[Naomi Osaka says she is "not really sure" the Olympics should go ahead this summer amid rising Covid-19 cases in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57062008</link>
@@ -226,39 +247,25 @@
             <pubDate>Mon, 10 May 2021 08:49:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Missing ex-footballer, 35, found dead]]></title>
+            <title><![CDATA[James Dean: Missing 'goal machine' footballer found dead]]></title>
             <description><![CDATA[James Dean, who played for Chorley, FC Halifax Town and Stalybridge Celtic, went missing on Wednesday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-57055578</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57055578</guid>
             <pubDate>Mon, 10 May 2021 14:53:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['I have developed a great affection for the club' - Cavani extends Man Utd stay]]></title>
+            <description><![CDATA[Edinson Cavani has signed a contract extension at Manchester United, keeping the Uruguay striker at the club until June 2022.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57060511</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57060511</guid>
+            <pubDate>Mon, 10 May 2021 16:24:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NFL wide receiver Metcalf runs 10.37secs for 100m at Golden Games]]></title>
             <description><![CDATA[Seattle Seahawks wide receiver DK Metcalf runs 10.37 seconds in the 100m at the Golden Games but fails to make the final.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/57054874</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57054874</guid>
-            <pubDate>Mon, 10 May 2021 09:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheff Utd investigate video appearing to show McBurnie in altercation]]></title>
-            <description><![CDATA[Sheffield United are investigating after a video emerged on social media appearing to show striker Oli McBurnie in an altercation with a group of young men.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57057832</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57057832</guid>
-            <pubDate>Mon, 10 May 2021 13:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fight Talk: 'The greatest of a generation' - who's next for Saul 'Canelo' Alvarez?]]></title>
-            <description><![CDATA[Who's next for Mexican superstar Saul 'Canelo' Alvarez? Plus Chris Eubank Jr takes aim at Billy Joe Saunders and more in this week's Fight Talk.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/57058476</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57058476</guid>
-            <pubDate>Mon, 10 May 2021 13:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: How do I get a lateral flow or PCR test?]]></title>
-            <description><![CDATA[Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.]]></description>
-            <link>https://www.bbc.co.uk/news/health-51943612</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
-            <pubDate>Thu, 29 Apr 2021 09:52:50 GMT</pubDate>
+            <pubDate>Mon, 10 May 2021 16:20:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
@@ -268,13 +275,6 @@
             <pubDate>Mon, 10 May 2021 16:04:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
-            <description><![CDATA[As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?]]></description>
-            <link>https://www.bbc.co.uk/news/business-52567567</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
-            <pubDate>Wed, 05 May 2021 16:13:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: What are the social distancing rules and the rule of six?]]></title>
             <description><![CDATA[Hugs between friends and family who don't live together will be allowed in England from 17 May.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51506729</link>
@@ -282,11 +282,18 @@
             <pubDate>Mon, 10 May 2021 16:02:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Which countries are on the green list for foreign holidays?]]></title>
-            <description><![CDATA[A new "traffic light" system for travel classifies countries as green, amber or red.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Fri, 07 May 2021 18:49:19 GMT</pubDate>
+            <title><![CDATA[Restaurants and pubs are reopening inside, but what are the rules?]]></title>
+            <description><![CDATA[People in England, Scotland and Wales will soon be able to drink inside a pub.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Mon, 10 May 2021 16:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK holidays: When and where can I go.... and who with?]]></title>
+            <description><![CDATA[The rules on having a holiday in the UK have been relaxed - but restrictions remain.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
+            <pubDate>Mon, 10 May 2021 16:55:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: How does the Covid-19 alert level system work?]]></title>
@@ -294,6 +301,27 @@
             <link>https://www.bbc.co.uk/news/explainers-52634739</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52634739</guid>
             <pubDate>Mon, 10 May 2021 11:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How do I get a lateral flow or PCR test?]]></title>
+            <description><![CDATA[Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Thu, 29 Apr 2021 09:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
+            <description><![CDATA[As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Wed, 05 May 2021 16:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which countries are on the green list for foreign holidays?]]></title>
+            <description><![CDATA[A new "traffic light" system for travel classifies countries as green, amber or red.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Fri, 07 May 2021 18:49:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
@@ -307,7 +335,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sun, 09 May 2021 15:59:21 GMT</pubDate>
+            <pubDate>Mon, 10 May 2021 16:22:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
@@ -315,13 +343,6 @@
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
             <pubDate>Fri, 07 May 2021 17:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK holidays: When and where can I go.... and who with?]]></title>
-            <description><![CDATA[The rules on having a holiday in the UK have been relaxed - but restrictions remain.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
-            <pubDate>Fri, 30 Apr 2021 11:24:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is a Covid passport and what are the plans for the NHS app?]]></title>
