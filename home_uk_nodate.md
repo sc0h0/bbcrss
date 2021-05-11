@@ -8,7 +8,7 @@
 8. [Fred West police search Gloucester cafe for Mary Bastholm](https://www.bbc.co.uk/news/uk-england-gloucestershire-57070279) - Police looking for suspected murder victim Mary Bastholm are deciding how much of the site to dig up.
 9. [Covid inquiry to take place within this Parliament, says PM](https://www.bbc.co.uk/news/uk-57074536) - It is the first time Boris Johnson has put a timeframe on when an inquiry into the pandemic will be held.
 10. [Groups of six can meet in pubs from Monday in Wales](https://www.bbc.co.uk/news/uk-wales-57078238) - The Welsh government announces extra funding for hospitality businesses still affected.
-11. [Brit Awards: Stars come together for in-person award ceremony](https://www.bbc.co.uk/news/entertainment-arts-57059652) - The 4,000-strong live audience at London's O2 Arena do not require social distancing or face masks.
+11. [Brit Awards: Dua Lipa demands pay rise for nurses as she wins](https://www.bbc.co.uk/news/entertainment-arts-57059652) - UK singer Dua Lipa won two awards and gave a message to PM Boris Johnson, at the in-person event.
 12. [Julia James: Police reconstruct murdered PCSO's last movements](https://www.bbc.co.uk/news/uk-england-kent-57068647) - Callum Wheeler, 21, from Aylesham, has appeared in court charged with Julia James's murder.
 13. [St Michael's Mount in Cornwall seeks live-in castle officer](https://www.bbc.co.uk/news/uk-england-cornwall-57076163) - A love of Cornwall is a must for this job and people who suffer from sea sickness need not apply.
 14. [Bob Marley: 40th anniversary of the music pioneer's death](https://www.bbc.co.uk/news/in-pictures-57022757) - The reggae music legend died of cancer in 1981 aged just 36.
