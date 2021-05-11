@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 May 2021 22:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 22:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,13 +58,6 @@
             <pubDate>Tue, 11 May 2021 21:30:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Yat-Sen Chang: Ballet dancer found guilty of sex assaults]]></title>
-            <description><![CDATA[Yat-Sen Chang attacked female students while working in London between 2009 and 2016.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57073643</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57073643</guid>
-            <pubDate>Tue, 11 May 2021 15:57:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fred West police search Gloucester cafe for Mary Bastholm]]></title>
             <description><![CDATA[Police looking for suspected murder victim Mary Bastholm are deciding how much of the site to dig up.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57070279</link>
@@ -86,6 +79,13 @@
             <pubDate>Tue, 11 May 2021 21:19:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Yat-Sen Chang: Ballet dancer found guilty of sex assaults]]></title>
+            <description><![CDATA[Yat-Sen Chang attacked female students while working in London between 2009 and 2016.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57073643</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57073643</guid>
+            <pubDate>Tue, 11 May 2021 15:57:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brit Awards: Dua Lipa demands pay rise for nurses as she wins]]></title>
             <description><![CDATA[UK singer Dua Lipa won two awards and gave a message to PM Boris Johnson, at the in-person event.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57059652</link>
@@ -93,11 +93,11 @@
             <pubDate>Tue, 11 May 2021 22:26:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Julia James: Police reconstruct murdered PCSO's last movements]]></title>
-            <description><![CDATA[Callum Wheeler, 21, from Aylesham, has appeared in court charged with Julia James's murder.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-57068647</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57068647</guid>
-            <pubDate>Tue, 11 May 2021 17:31:20 GMT</pubDate>
+            <title><![CDATA[Jonathon Seed: Police investigate PCC election win]]></title>
+            <description><![CDATA[Jonathan Seed was elected as Swindon and Wiltshire PCC, but he was ineligible to stand for the role.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57075596</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57075596</guid>
+            <pubDate>Tue, 11 May 2021 20:11:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[St Michael's Mount in Cornwall seeks live-in castle officer]]></title>
