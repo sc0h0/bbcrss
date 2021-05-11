@@ -2,7 +2,7 @@
 2. [Queen's Speech: Government unveils post-Covid recovery plan](https://www.bbc.co.uk/news/uk-politics-57071636) - Boosting jobs and skills are key Queen's Speech priorities - but social care funding is not included.
 3. [Russia school shooting: Children and teacher killed in Kazan](https://www.bbc.co.uk/news/world-europe-57069589) - Seven children and two adults have been killed in a shooting in the city of Kazan, officials say.
 4. [Covid in Scotland: Hugging and indoor visits to resume from Monday](https://www.bbc.co.uk/news/uk-scotland-57070970) - First Minister Nicola Sturgeon says the changes will come into effect in most of the country from Monday.
-5. [Fred West police search Gloucester café for Mary Bastholm](https://www.bbc.co.uk/news/uk-england-gloucestershire-57070279) - Police looking for suspected murder victim Mary Bastholm are assessing whether to excavate the site.
+5. [Fred West police search Gloucester cafe for Mary Bastholm](https://www.bbc.co.uk/news/uk-england-gloucestershire-57070279) - Police looking for suspected murder victim Mary Bastholm are assessing whether to excavate the site.
 6. [Julia James: Police reconstruct murdered PCSO's last movements](https://www.bbc.co.uk/news/uk-england-kent-57068647) - Callum Wheeler, 21, from Aylesham, has appeared in court charged with Julia James's murder.
 7. [Newly-released texts reveal extent of David Cameron's Greensill lobbying](https://www.bbc.co.uk/news/uk-politics-57074690) - David Cameron and his staff sent ministers and officials 45 messages in less than four months.
 8. [Death toll mounts as Israel-Gaza violence escalates](https://www.bbc.co.uk/news/world-middle-east-57066275) - Rocket attacks from Gaza and Israeli air strikes follow days of soaring tensions in Jerusalem.
