@@ -38,28 +38,27 @@
 38. [Kirby in but no Kerr? Data analysts make their WSL team of the year](https://www.bbc.co.uk/sport/football/57066581) - Chelsea forward Fran Kirby was the best player in this season's Women's Super League - according to statistics from Carteret Analytics.
 39. [Manchester City: Memorable moments from their Premier League-winning seasons](https://www.bbc.co.uk/sport/av/football/56923236) - Watch some of the greatest moments from Manchester City's Premier League title-winning seasons.
 40. [Queen's Speech 2021: Key points at-a-glance](https://www.bbc.co.uk/news/uk-politics-56987630) - New laws on housing, animal welfare and elections feature in the government's plans for next year.
-41. [Queen carries out first major royal duty since Philip's death](https://www.bbc.co.uk/news/uk-57068042) - The monarch attended the State Opening of Parliament, a month after the death of her husband.
+41. [Queen's Speech 2021: Pomp and pageantry pared back](https://www.bbc.co.uk/news/in-pictures-57070912) - Instead of the normal pomp and pageantry, this year saw ceremonial aspects pared back due to coronavirus.
 42. [The Queen's Speech - what you need to know in two minutes](https://www.bbc.co.uk/news/uk-57077605) - Didn't catch Her Majesty outlining the government's plans for the year? Don't worry, we got you.
 43. [Queen's Speech: How this year broke with traditions](https://www.bbc.co.uk/news/uk-politics-57079117) - There were some notable breaks with tradition this year as the Queen formally opened Parliament.
 44. [Conversion therapy ban: Campaigners dismayed over delay](https://www.bbc.co.uk/news/health-57059459) - Campaigners are dismayed as the government announces a consultation before the practice is banned.
 45. [Queen's Speech: Government makes pledges on animal welfare](https://www.bbc.co.uk/news/uk-politics-57072922) - All creatures great and small will be protected in the new proposals, according to the Queen's Speech.
-46. [What is conversion therapy and when will it be banned?](https://www.bbc.co.uk/news/explainers-56496423) - "Abhorrent" practices aimed at changing sexual orientation or gender identity will be banned, but not until further consultation.
-47. [Freeports: What are they and where will they be?](https://www.bbc.co.uk/news/uk-politics-55819489) - Further details about England's new freeports were announced in the Queen's Speech.
-48. [The Queen's Speech in full](https://www.bbc.co.uk/news/uk-politics-57071775) - Queen Elizabeth ll opens Parliament, setting out the government's plans.
-49. [What is levelling up and how is it going?](https://www.bbc.co.uk/news/56238260) - The government is promising to take more action on levelling up this year.
-50. [Queen's Speech commits to Troubles legislation](https://www.bbc.co.uk/news/uk-northern-ireland-57069455) - New legislation to deal with the Troubles legacy will be set out in the coming weeks.
-51. [Queen's Speech: What is it and why is it important?](https://www.bbc.co.uk/news/uk-politics-32816450) - The Queen's Speech is on Tuesday.
-52. [Voting: Could ID checks affect who participates in elections?](https://www.bbc.co.uk/news/uk-politics-50044539) - The government says it will pass a law requiring identification to vote.
-53. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown restrictions will ease significantly in England and Scotland from Monday 17 May.
-54. [Covid: What are the social distancing rules and the rule of six?](https://www.bbc.co.uk/news/uk-51506729) - Hugs between friends and family who don't live together will be allowed under guidance in England from 17 May.
-55. [Restaurants and pubs are reopening inside, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - People in England, Scotland and Wales will soon be able to drink inside a pub.
-56. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
-57. [Coronavirus: How does the Covid-19 alert level system work?](https://www.bbc.co.uk/news/explainers-52634739) - The threat of Covid-19 in England is ranked through a five-level, colour-coded alert system.
-58. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-59. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
-60. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?
-61. [Which countries are on the green list for foreign holidays?](https://www.bbc.co.uk/news/explainers-52544307) - Scotland is to adopt the same "traffic light" system for foreign travel as England.
-62. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 40 or over in England are now being offered a Covid vaccine as the rollout continues.
-63. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 35 million people receive at least one dose.
-64. [What is a Covid passport and what are the plans for the NHS app?](https://www.bbc.co.uk/news/explainers-55718553) - The government is considering how people could prove they are unlikely to transmit Covid.
-65. [Covid: What refund rights are there for holidays abroad?](https://www.bbc.co.uk/news/business-51615412) - Quarantine-free overseas holidays will be possible after 17 May, but what rights do you have if plans or rules change?
+46. [Freeports: What are they and where will they be?](https://www.bbc.co.uk/news/uk-politics-55819489) - Further details about England's new freeports were announced in the Queen's Speech.
+47. [The Queen's Speech in full](https://www.bbc.co.uk/news/uk-politics-57071775) - Queen Elizabeth ll opens Parliament, setting out the government's plans.
+48. [What is levelling up and how is it going?](https://www.bbc.co.uk/news/56238260) - The government is promising to take more action on levelling up this year.
+49. [Queen's Speech commits to Troubles legislation](https://www.bbc.co.uk/news/uk-northern-ireland-57069455) - New legislation to deal with the Troubles legacy will be set out in the coming weeks.
+50. [Queen's Speech: What is it and why is it important?](https://www.bbc.co.uk/news/uk-politics-32816450) - The Queen's Speech is on Tuesday.
+51. [Voting: Could ID checks affect who participates in elections?](https://www.bbc.co.uk/news/uk-politics-50044539) - The government says it will pass a law requiring identification to vote.
+52. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown restrictions will ease significantly in England and Scotland from Monday 17 May.
+53. [Covid: What are the social distancing rules and the rule of six?](https://www.bbc.co.uk/news/uk-51506729) - Hugs between friends and family who don't live together will be allowed under guidance in England from 17 May.
+54. [Restaurants and pubs are reopening inside, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - People in England, Scotland and Wales will soon be able to drink inside a pub.
+55. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
+56. [Coronavirus: How does the Covid-19 alert level system work?](https://www.bbc.co.uk/news/explainers-52634739) - The threat of Covid-19 in England is ranked through a five-level, colour-coded alert system.
+57. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+58. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
+59. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?
+60. [Which countries are on the green list for foreign holidays?](https://www.bbc.co.uk/news/explainers-52544307) - Scotland is to adopt the same "traffic light" system for foreign travel as England.
+61. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 40 or over in England are now being offered a Covid vaccine as the rollout continues.
+62. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 35 million people receive at least one dose.
+63. [What is a Covid passport and what are the plans for the NHS app?](https://www.bbc.co.uk/news/explainers-55718553) - The government is considering how people could prove they are unlikely to transmit Covid.
+64. [Covid: What refund rights are there for holidays abroad?](https://www.bbc.co.uk/news/business-51615412) - Quarantine-free overseas holidays will be possible after 17 May, but what rights do you have if plans or rules change?
