@@ -1,11 +1,11 @@
 1. [Queen's Speech: Boris Johnson promises post-Covid skills overhaul](https://www.bbc.co.uk/news/uk-politics-57060588) - Adults will be offered "lifelong" training loans under measures to be announced in the Queen's Speech.
 2. [Queen to carry out first major royal duty since Philip's death](https://www.bbc.co.uk/news/uk-57068042) - The monarch will attend the State Opening of Parliament, a month after the death of her husband.
 3. [Conversion therapy: Public to be consulted before ban](https://www.bbc.co.uk/news/health-57059459) - The proposed ban in England and Wales will be announced in the Queen's Speech on Tuesday.
-4. [Nine dead after shooting at Russian school](https://www.bbc.co.uk/news/world-europe-57069589) - Eight children and a teacher died in a school shooting in Russian city of Kazan, Russian media say.
+4. [Eleven dead in shooting at Russian school](https://www.bbc.co.uk/news/world-europe-57069589) - Children and a teacher have been killed in a shooting in the Russian city of Kazan, officials say.
 5. [Jerusalem crisis: Pleas for calm as violence escalates](https://www.bbc.co.uk/news/world-middle-east-57066275) - Rocket attacks from Gaza and Israeli air strikes follow days of soaring tensions in Jerusalem.
 6. [Julia James: Man charged with murder of PCSO](https://www.bbc.co.uk/news/uk-england-kent-57066360) - A 21-year-old man is due in court charged with the murder of the police community support officer.
 7. [Covid-19: Boris Johnson pledges skills overhaul and Scotland expected to ease rules](https://www.bbc.co.uk/news/uk-57063336) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
-8. [Brit Awards: Stars descend on London for in-person awards](https://www.bbc.co.uk/news/entertainment-arts-57059652) - The musicians and 4,000-strong live audience will not need social distancing or face masks.
+8. [Brit Awards: Stars descend on London for in-person awards](https://www.bbc.co.uk/news/entertainment-arts-57059652) - The 4,000-strong live audience will not need social distancing or face masks.
 9. [WHO says India Covid variant of 'global concern'](https://www.bbc.co.uk/news/world-asia-india-57067190) - The WHO says the B.1.617 mutation spreads more easily than other variants and requires further study.
 10. [Apple's UK users deserve app price compensation, claim says](https://www.bbc.co.uk/news/technology-57062139) - Legal action in the UK seeks compensation from Apple for high prices from a lack of competition.
 11. [Car insurance: 170,000 claims linked to 'crash for cash' gangs](https://www.bbc.co.uk/news/business-57058755) - Villagers are advised to be vigilant about Bradford and Birmingham, where scam hotspots are located.
