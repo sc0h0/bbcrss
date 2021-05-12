@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 May 2021 21:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 May 2021 21:49:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,6 +184,13 @@
             <pubDate>Tue, 11 May 2021 23:00:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Police expand use of overdose life-saver drug Naloxone]]></title>
+            <description><![CDATA[But officers' representatives are concerned the roles of police and paramedics are becoming blurred.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57094536</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57094536</guid>
+            <pubDate>Wed, 12 May 2021 21:26:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Israel-Gaza violence: The strength and limitations of Hamas' arsenal]]></title>
             <description><![CDATA[The militant group possesses thousands of missiles of varying ranges that it can fire towards Israel.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57092245</link>
@@ -254,11 +261,18 @@
             <pubDate>Tue, 11 May 2021 12:58:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Watch: Sportscene - Scottish Premiership highlights]]></title>
+            <description><![CDATA[Watch highlights of all of Wednesday's Scottish Premiership action on Sportscene.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57094465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57094465</guid>
+            <pubDate>Wed, 12 May 2021 21:41:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Smith Rowe benefits from Jorginho error as Arsenal win at Chelsea]]></title>
             <description><![CDATA[Chelsea miss the opportunity to strengthen their place in the top four as Emile Smith Rowe's second Premier League goal in as many games gives Arsenal victory.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56990160</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56990160</guid>
-            <pubDate>Wed, 12 May 2021 21:29:38 GMT</pubDate>
+            <pubDate>Wed, 12 May 2021 21:40:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Champions Rangers one game away from unbeaten campaign with Livingston win]]></title>
@@ -280,13 +294,6 @@
             <link>https://www.bbc.co.uk/sport/formula1/57086036</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57086036</guid>
             <pubDate>Wed, 12 May 2021 09:25:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[European Aquatics Championships: Great Britain's Jack Laugher wins 1m springboard silver]]></title>
-            <description><![CDATA[Great Britain's Jack Laugher pips Italy's Giovanni Tocci with his final dive to take silver in the men's 1m springboard final at the European Aquatics Championships.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/diving/57094875</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/diving/57094875</guid>
-            <pubDate>Wed, 12 May 2021 21:12:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid inquiry: What is it and how will it work?]]></title>
