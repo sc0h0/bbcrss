@@ -4,8 +4,8 @@
 4. [Covid: Serious failures in WHO and global response, report finds](https://www.bbc.co.uk/news/world-57085505) - An independent review calls the international response to the pandemic a "toxic cocktail".
 5. [Adoption: 'Our sons' birth family turned them against us'](https://www.bbc.co.uk/news/uk-57084243) - There are calls for more support for adoptees - as social media searches for birth families rise.
 6. [Coronavirus public inquiry to be held in spring 2022](https://www.bbc.co.uk/news/uk-57088314) - "We are fully committed to learning the lessons at every stage of this crisis," Boris Johnson says.
-7. [County court judgment against Boris Johnson, record shows](https://www.bbc.co.uk/news/uk-politics-57087274) - Downing Street is "looking into" reports the PM is facing court action over an unpaid debt of £535.
-8. [UK economy picks up as lockdown restrictions ease](https://www.bbc.co.uk/news/business-57083394) - The UK economy shrank by 1.5% in the first three months of 2021, but picked up speed in March.
+7. [Covid jabs offer to 38 and 39-year-olds in England](https://www.bbc.co.uk/news/health-57088018) - Pregnant women will be directed to centres offering Pfizer and Moderna vaccines when booking.
+8. [County court judgment against Boris Johnson, record shows](https://www.bbc.co.uk/news/uk-politics-57087274) - Downing Street is "looking into" reports the PM is facing court action over an unpaid debt of £535.
 9. [Covid: Bolton Indian variant surge leaves hospitality nervous](https://www.bbc.co.uk/news/uk-england-manchester-57075618) - Pub and cafe owners in Bolton are apprehensive about reopening amid a rise in the Indian variant.
 10. [Victim feels sick at jailed rapist's release](https://www.bbc.co.uk/news/uk-england-south-yorkshire-57078867) - Benjamin Recio-Nugent is due to be released soon after serving half his sentence for raping a woman.
 11. [No sofa, bed, table - people who have to live without furniture](https://www.bbc.co.uk/news/uk-57076659) - In the UK more than two million people experience furniture poverty yet it’s rarely spoken about.
