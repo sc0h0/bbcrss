@@ -1,18 +1,18 @@
 1. [Israel declares emergency in Lod as unrest spreads](https://www.bbc.co.uk/news/world-middle-east-57081848) - Riots sweep Lod as unrest grows after days of fighting between Israel and Palestinian militants.
-2. [UK economy showing resilience](https://www.bbc.co.uk/news/business-57083394) - The UK economy shrank by 1.5% in the first quarter of 2021, but grew 2.1% in March.
-3. [Government lays out plans to protect users online](https://www.bbc.co.uk/news/technology-57071977) - The Online Safety Bill threatens media giants with big fines - but aims to protect political debate.
+2. [Israel-Gaza: How locals are reacting to the latest violence](https://www.bbc.co.uk/news/world-middle-east-57076399) - Locals in Israel and Gaza terrified amid the worst flare-up in the conflict for years.
+3. [UK economy picks up as lockdown restrictions ease](https://www.bbc.co.uk/news/business-57083394) - The UK economy shrank by 1.5% in the first three months of 2021, but picked up speed in March.
 4. [The Brits 2021: Great show, shame about the videos](https://www.bbc.co.uk/news/entertainment-arts-57082190) - Fans say they loved seeing live music again, but weren't so keen on the pre-taped performances.
-5. [Covid-19: Indoor pints for Wales, and will vaccines work?](https://www.bbc.co.uk/news/uk-57079078) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
-6. [Blackpool lightning strike: Tributes paid to killed boy](https://www.bbc.co.uk/news/uk-england-lancashire-57083921) - The boy was taking part in a football coaching session when a thunderstorm hit Blackpool.
+5. [Blackpool lightning strike: Tributes paid to killed boy](https://www.bbc.co.uk/news/uk-england-lancashire-57083921) - The boy was taking part in a football coaching session when a thunderstorm hit Blackpool.
+6. [Covid-19: Indoor pints for Wales, and will vaccines work?](https://www.bbc.co.uk/news/uk-57079078) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
 7. [Animal welfare plan unveiled by government](https://www.bbc.co.uk/news/science-environment-57068182) - The UK government introduces a wide-ranging plan to improve the welfare of some animals.
-8. [Angela Rayner: People didn't know what Keir Starmer stood for](https://www.bbc.co.uk/news/uk-politics-57079985) - Labour's deputy leader says she believes in the party leader "100%" after being moved to a new role.
+8. [Government lays out plans to protect users online](https://www.bbc.co.uk/news/technology-57071977) - The Online Safety Bill threatens media giants with big fines - but aims to protect political debate.
 9. [Liverpool City Council: Staff at council feared speaking out](https://www.bbc.co.uk/news/uk-england-merseyside-57014772) - Government inspector Max Caller says staff at Liverpool City Council felt intimidated to speak out.
-10. [India coronavirus: 'My city is under siege from Covid'](https://www.bbc.co.uk/news/world-asia-india-57067462) - The BBC's Vikas Pandey has called Delhi home for more than a decade - but Covid has changed everything.
+10. [Coronavirus in India: 'My city is under siege from Covid-19'](https://www.bbc.co.uk/news/world-asia-india-57067462) - The BBC's Vikas Pandey has called Delhi home for more than a decade - but Covid has changed everything.
 11. [Brits 2021 winners: Dua Lipa, Little Mix, Taylor Swift win on a big night for female acts](https://www.bbc.co.uk/news/entertainment-arts-56988483) - Big winner Dua Lipa joined other stars including Little Mix and Arlo Parks for the in-person ceremony.
 12. [The papers: Queen's Speech 'backlash' and Fred West cops dig](https://www.bbc.co.uk/news/blogs-the-papers-57081224) - Many papers react to the Queen's Speech as some report on a search for possible victim of Fred West.
 13. [Female football fans share experiences of abuse](https://www.bbc.co.uk/news/technology-56988482) - Meliza and Kendall are dedicated football fans but say they experience abuse because of their gender.
 14. [Covid: Medic memorial statue unveiled ahead of final finish](https://www.bbc.co.uk/news/uk-57079844) - The BBC is given a view of the first figure on the planned national emergency services memorial.
-15. [Furniture Poverty: millions living without essential items](https://www.bbc.co.uk/news/uk-57076659) - In the UK more than two million people experience furniture povert yet it’s rarely spoken about.
+15. [Furniture poverty: Millions living without essential items](https://www.bbc.co.uk/news/uk-57076659) - In the UK more than two million people experience furniture povert yet it’s rarely spoken about.
 16. [Freemasons: Young people 'on waiting lists' to join notoriously secretive society](https://www.bbc.co.uk/news/uk-england-hampshire-57059148) - The first report by Freemasons in 300 years shows it is popular with young people.
 17. [Bob Marley: 40th anniversary of the music pioneer's death](https://www.bbc.co.uk/news/in-pictures-57022757) - The reggae music legend died of cancer in 1981 aged just 36.
 18. [Vesuvius ancient eruption rescuer identified at Herculaneum, says expert](https://www.bbc.co.uk/news/world-europe-57055163) - A body found at Herculaneum may have been part of Pliny the Elder's team sent to rescue residents.
@@ -38,13 +38,13 @@
 38. [Queen's Speech 2021: Pomp and pageantry pared back](https://www.bbc.co.uk/news/in-pictures-57070912) - Instead of the normal pomp and pageantry, this year saw ceremonial aspects pared back due to coronavirus.
 39. [Freeports: What are they and where will they be?](https://www.bbc.co.uk/news/uk-politics-55819489) - Further details about England's new freeports were announced in the Queen's Speech.
 40. [The Queen's Speech in full](https://www.bbc.co.uk/news/uk-politics-57071775) - Queen Elizabeth ll opens Parliament, setting out the government's plans.
-41. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown restrictions will ease in England, Scotland and Wales from Monday 17 May.
-42. [Which countries are on the green list for foreign holidays?](https://www.bbc.co.uk/news/explainers-52544307) - Scotland is to adopt the same "traffic light" system for foreign travel as England.
-43. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 40 or over in England are now being offered a Covid vaccine as the rollout continues.
-44. [Coronavirus: What are the rules for face masks or face coverings?](https://www.bbc.co.uk/news/health-51205344) - Secondary school pupils in England will no longer be required to wear them in class from next week.
-45. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-46. [Covid: What are the social distancing rules and the rule of six?](https://www.bbc.co.uk/news/uk-51506729) - Guidance on hugging close friends and family is being relaxed in England and Scotland from 17 May.
-47. [Restaurants and pubs are reopening inside, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - People in England, Scotland and Wales will soon be able to drink inside a pub.
+41. [Restaurants and pubs are reopening inside, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - People in England, Scotland and Wales will soon be able to drink inside a pub.
+42. [Covid: What are the social distancing rules and the rule of six?](https://www.bbc.co.uk/news/uk-51506729) - Guidance on hugging close friends and family is being relaxed in England and Scotland from 17 May.
+43. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown restrictions will ease in England, Scotland and Wales from Monday 17 May.
+44. [Which countries are on the green list for foreign holidays?](https://www.bbc.co.uk/news/explainers-52544307) - Scotland is to adopt the same "traffic light" system for foreign travel as England.
+45. [Coronavirus: What are the rules for face masks or face coverings?](https://www.bbc.co.uk/news/health-51205344) - Secondary school pupils in England will no longer be required to wear them in class from next week.
+46. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People 40 or over in England are now being offered a Covid vaccine as the rollout continues.
+47. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 48. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
 49. [Coronavirus: How does the Covid-19 alert level system work?](https://www.bbc.co.uk/news/explainers-52634739) - The threat of Covid-19 in England is ranked through a five-level, colour-coded alert system.
 50. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
