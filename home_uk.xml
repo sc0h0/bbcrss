@@ -11,37 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 May 2021 23:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 May 2021 01:18:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Ten shot after NI Army operation were innocent - coroner]]></title>
-            <description><![CDATA[A priest and a mother of eight were among 10 people killed in Belfast after an Army operation in 1971.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56986784</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56986784</guid>
-            <pubDate>Tue, 11 May 2021 21:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manchester City win Premier League title after Manchester United lose to Leicester]]></title>
-            <description><![CDATA[Manchester City win a third Premier League title in four years after closest challengers Manchester United lose to Leicester City.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/56964843</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56964843</guid>
-            <pubDate>Tue, 11 May 2021 22:23:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Queen's Speech: PM sets out plans to take UK forward after Covid]]></title>
-            <description><![CDATA[Boosting jobs and skills are key Queen's Speech priorities - but social care funding is not included.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57071636</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57071636</guid>
-            <pubDate>Tue, 11 May 2021 16:59:18 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Rockets target Tel Aviv after Gaza tower destroyed]]></title>
             <description><![CDATA[Militants attack the Israeli city after an air strike brings down a tower block in Gaza.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57066275</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57066275</guid>
             <pubDate>Tue, 11 May 2021 21:45:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ten shot after NI Army operation were innocent - coroner]]></title>
+            <description><![CDATA[A priest and a mother of eight were among 10 people killed in Belfast after an Army operation in 1971.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-56986784</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56986784</guid>
+            <pubDate>Tue, 11 May 2021 21:27:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blackpool boy, 9, killed in lightning strike on playing field]]></title>
@@ -58,32 +44,11 @@
             <pubDate>Tue, 11 May 2021 21:30:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fred West police search Gloucester cafe for Mary Bastholm]]></title>
-            <description><![CDATA[Police looking for suspected murder victim Mary Bastholm are deciding how much of the site to dig up.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57070279</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-57070279</guid>
-            <pubDate>Tue, 11 May 2021 15:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid inquiry to take place within this Parliament, says PM]]></title>
-            <description><![CDATA[It is the first time Boris Johnson has put a timeframe on when an inquiry into the pandemic will be held.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57074536</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57074536</guid>
-            <pubDate>Tue, 11 May 2021 17:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Groups of six can meet in pubs from Monday in Wales]]></title>
-            <description><![CDATA[The Welsh government announces extra funding for hospitality businesses still affected.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57078238</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57078238</guid>
-            <pubDate>Tue, 11 May 2021 21:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yat-Sen Chang: Ballet dancer found guilty of sex assaults]]></title>
-            <description><![CDATA[Yat-Sen Chang attacked female students while working in London between 2009 and 2016.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57073643</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57073643</guid>
-            <pubDate>Tue, 11 May 2021 15:57:59 GMT</pubDate>
+            <title><![CDATA[Queen's Speech: PM sets out plans to take UK forward after Covid]]></title>
+            <description><![CDATA[Boosting jobs and skills are key Queen's Speech priorities - but social care funding is not included.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57071636</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57071636</guid>
+            <pubDate>Tue, 11 May 2021 16:59:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brit Awards: Dua Lipa demands pay rise for nurses as she wins]]></title>
@@ -93,6 +58,41 @@
             <pubDate>Tue, 11 May 2021 23:12:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Liverpool City Council: Staff at council feared speaking out]]></title>
+            <description><![CDATA[Government inspector Max Caller says staff at Liverpool City Council felt intimidated to speak out.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-57014772</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57014772</guid>
+            <pubDate>Wed, 12 May 2021 00:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Violent crime falls sharply during Covid lockdown - study]]></title>
+            <description><![CDATA[Researchers gathered data on violence-related injuries from 133 NHS centres in England and Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57070883</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57070883</guid>
+            <pubDate>Wed, 12 May 2021 00:57:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Universities could face fines over free speech breaches]]></title>
+            <description><![CDATA[Universities in England could face fines if they fail to protect free speech on campus under new legislation.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57076093</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57076093</guid>
+            <pubDate>Wed, 12 May 2021 00:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fred West police search Gloucester cafe for Mary Bastholm]]></title>
+            <description><![CDATA[Police looking for suspected murder victim Mary Bastholm are deciding how much of the site to dig up.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57070279</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-57070279</guid>
+            <pubDate>Tue, 11 May 2021 15:27:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Groups of six can meet in pubs from Monday in Wales]]></title>
+            <description><![CDATA[The Welsh government announces extra funding for hospitality businesses still affected.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57078238</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57078238</guid>
+            <pubDate>Tue, 11 May 2021 21:19:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jonathon Seed: Police investigate PCC election win]]></title>
             <description><![CDATA[Jonathan Seed was elected as Swindon and Wiltshire PCC, but he was ineligible to stand for the role.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57075596</link>
@@ -100,11 +100,11 @@
             <pubDate>Tue, 11 May 2021 20:11:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[St Michael's Mount in Cornwall seeks live-in castle officer]]></title>
-            <description><![CDATA[A love of Cornwall is a must for this job and people who suffer from sea sickness need not apply.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cornwall-57076163</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-57076163</guid>
-            <pubDate>Tue, 11 May 2021 15:56:34 GMT</pubDate>
+            <title><![CDATA[Manchester City win Premier League title after Manchester United lose to Leicester]]></title>
+            <description><![CDATA[Manchester City win a third Premier League title in four years after closest challengers Manchester United lose to Leicester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56964843</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56964843</guid>
+            <pubDate>Tue, 11 May 2021 22:23:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The papers: Queen's Speech 'backlash' and Fred West cops dig]]></title>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57081224</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57081224</guid>
             <pubDate>Tue, 11 May 2021 23:17:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Medic memorial statue unveiled ahead of final finish]]></title>
+            <description><![CDATA[The BBC is given a view of the first figure on the planned national emergency services memorial.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57079844</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57079844</guid>
+            <pubDate>Wed, 12 May 2021 01:02:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bob Marley: 40th anniversary of the music pioneer's death]]></title>
