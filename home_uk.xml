@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 May 2021 06:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 07:00:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Wed, 12 May 2021 22:29:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HS2 high-speed rail project begins underground tunnel]]></title>
-            <description><![CDATA[At 170m long, "Florence" is the largest ever tunnelling machine to be used on a UK rail project.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57093884</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57093884</guid>
-            <pubDate>Wed, 12 May 2021 23:10:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tesla will no longer accept Bitcoin over climate concerns, says Musk]]></title>
             <description><![CDATA[The initial decision made by Tesla in March to accept Bitcoin caused an outcry from environmentalists.]]></description>
             <link>https://www.bbc.co.uk/news/business-57096305</link>
@@ -58,11 +51,25 @@
             <pubDate>Thu, 13 May 2021 02:35:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Covid's lasting impact on NHS and mix-and-match vaccine effects]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57094225</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57094225</guid>
+            <pubDate>Thu, 13 May 2021 06:41:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid vaccines: Mixing increases reports of mild side-effects]]></title>
             <description><![CDATA[Researchers are still analysing whether injecting two different vaccines leads to better protection.]]></description>
             <link>https://www.bbc.co.uk/news/health-57075503</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57075503</guid>
             <pubDate>Wed, 12 May 2021 23:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HS2 high-speed rail project begins underground tunnel]]></title>
+            <description><![CDATA[At 170m long, "Florence" is the largest ever tunnelling machine to be used on a UK rail project.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57093884</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57093884</guid>
+            <pubDate>Wed, 12 May 2021 23:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uyghur imams targeted in China's Xinjiang crackdown]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Thu, 13 May 2021 00:37:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blackpool lightning strike: Family tribute to Jordan Banks]]></title>
-            <description><![CDATA[Nine-year-old Jordan Banks was "the brightest star" and "our everything", his family says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57093289</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57093289</guid>
-            <pubDate>Wed, 12 May 2021 20:29:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Courts could punish paedophiles on intent not harm]]></title>
             <description><![CDATA[Under the plans judges could treat offenders caught in stings the same as those who harm real children.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57095465</link>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57096198</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57096198</guid>
             <pubDate>Thu, 13 May 2021 01:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[St Paul's Cathedral could close without tourism cash]]></title>
+            <description><![CDATA[The world-famous cathedral has seen its finances devastated by the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56997142</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56997142</guid>
+            <pubDate>Thu, 13 May 2021 05:27:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The papers: Fears of 'all-out war' and concerns over variant]]></title>
