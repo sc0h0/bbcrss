@@ -10,7 +10,7 @@
 10. [Trains reintroduced after safety checks prompted by cracks](https://www.bbc.co.uk/news/uk-57100278) - There has been disruption since Saturday after the issue was found on some Hitachi Class 800s.
 11. [HS2 high-speed rail project begins underground tunnel](https://www.bbc.co.uk/news/uk-57093884) - At 170m long, "Florence" is the largest ever tunnelling machine to be used on a UK rail project.
 12. [Chrissy Teigen sorry for bullying Courtney Stodden on Twitter](https://www.bbc.co.uk/news/entertainment-arts-57098705) - TV personality Courtney Stodden accepts her apology but questions its sincerity.
-13. [Covid: The race to vaccinate the world](https://www.bbc.co.uk/news/world-us-canada-57091041) - What happens when vaccines are slow to arrive - and what it means for ending lockdowns.
+13. [Covid: The race against the variants](https://www.bbc.co.uk/news/world-us-canada-57091041) - What happens when vaccines are slow to arrive - and what it means for ending the pandemic.
 14. [How viral pianist with dementia is helping others](https://www.bbc.co.uk/news/uk-57094576) - When Paul Harvey's piano playing went viral, it inspired a donation of £1 million to charity.
 15. [Falkland Islands: Veterans reunite after almost 40 years](https://www.bbc.co.uk/news/stories-57075711) - Navy veteran David reaches out to other survivors of an event that killed 12 crew members.
 16. [The plasterer redecorating domestic violence survivors' homes](https://www.bbc.co.uk/news/uk-england-derbyshire-57087787) - Naima-Ben Moussa, who offers her services for free, believes more needs to be done to support victims.
