@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 May 2021 09:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 09:36:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,13 +23,6 @@
             <pubDate>Thu, 13 May 2021 06:27:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is going on between Israel and the Palestinians?]]></title>
-            <description><![CDATA[The BBC's Ros Atkins looks at the reasons behind the increased hostilities in the region.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57094575</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57094575</guid>
-            <pubDate>Wed, 12 May 2021 23:21:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The NHS Covid legacy - long waits and lives at risk]]></title>
             <description><![CDATA[One in four hospitals sees long waits balloon, as NHS warned backlog will take years to tackle.]]></description>
             <link>https://www.bbc.co.uk/news/health-57092797</link>
@@ -37,32 +30,25 @@
             <pubDate>Thu, 13 May 2021 03:58:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tesla will no longer accept Bitcoin over climate concerns, says Musk]]></title>
-            <description><![CDATA[The initial decision made by Tesla in March to accept Bitcoin caused an outcry from environmentalists.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57096305</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57096305</guid>
-            <pubDate>Thu, 13 May 2021 08:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Covid's lasting impact on NHS and mix-and-match vaccine effects]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57094225</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57094225</guid>
-            <pubDate>Thu, 13 May 2021 06:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ovarian cancer: Setback as major screening trial fails to save lives]]></title>
-            <description><![CDATA[Hugely disappointing results mean ovarian-cancer screening remains more than a decade away.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57087477</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57087477</guid>
-            <pubDate>Wed, 12 May 2021 22:29:48 GMT</pubDate>
+            <title><![CDATA[Crime drops by 8% during year of lockdowns, says ONS]]></title>
+            <description><![CDATA[A 26% fall in theft offences drove a reduction in crime recorded by police in England and Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57098807</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57098807</guid>
+            <pubDate>Thu, 13 May 2021 09:34:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Travel firms warned over summer holiday refunds]]></title>
             <description><![CDATA[Companies will be breaking the law if they delay or refuse refunds, warns the competition watchdog.]]></description>
             <link>https://www.bbc.co.uk/news/business-57097568</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57097568</guid>
-            <pubDate>Thu, 13 May 2021 08:37:40 GMT</pubDate>
+            <pubDate>Thu, 13 May 2021 09:31:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Universal credit fraud and error at new high]]></title>
+            <description><![CDATA[Figures from the Department for Work and Pensions show £8.4bn was lost in 2020-21.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57091551</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57091551</guid>
+            <pubDate>Thu, 13 May 2021 09:35:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Premier League TV rights: Broadcasters agree to roll over existing deal]]></title>
@@ -72,18 +58,25 @@
             <pubDate>Thu, 13 May 2021 08:01:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ovarian cancer: Setback as major screening trial fails to save lives]]></title>
+            <description><![CDATA[Hugely disappointing results mean ovarian-cancer screening remains more than a decade away.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57087477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57087477</guid>
+            <pubDate>Wed, 12 May 2021 22:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla will no longer accept Bitcoin over climate concerns, says Musk]]></title>
+            <description><![CDATA[The initial decision made by Tesla in March to accept Bitcoin caused an outcry from environmentalists.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57096305</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57096305</guid>
+            <pubDate>Thu, 13 May 2021 08:56:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uyghur imams targeted in China's Xinjiang crackdown]]></title>
             <description><![CDATA[China has targeted Muslim religious leaders, according to a new report, charging many with extremism.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-56986057</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-56986057</guid>
             <pubDate>Wed, 12 May 2021 23:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Courts could punish paedophiles on intent not harm]]></title>
-            <description><![CDATA[Under the plans judges could treat offenders caught in stings the same as those who harm real children.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57095465</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57095465</guid>
-            <pubDate>Wed, 12 May 2021 23:44:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MDMA could help trauma survivors face painful memories]]></title>
