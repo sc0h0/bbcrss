@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 May 2021 21:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 21:53:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Thu, 13 May 2021 20:59:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: US relaxes mask guidance for fully vaccinated Americans]]></title>
+            <description><![CDATA[US health officials say masks and physical distancing are no longer needed for vaccinated Americans.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57109039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57109039</guid>
+            <pubDate>Thu, 13 May 2021 21:14:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sir Alex Ferguson grateful for extra years]]></title>
             <description><![CDATA[Sir Alex Ferguson says he is "grateful for the three years extra" he feels he has had after surviving a brain haemorrhage in 2018.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57098656</link>
@@ -72,25 +79,11 @@
             <pubDate>Thu, 13 May 2021 16:51:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Manchester United v Liverpool: Hundreds of fans in anti-Glazer protest at Old Trafford]]></title>
-            <description><![CDATA[Hundreds of Manchester United fans protest against the club's owners while the team and Liverpool arrive at Old Trafford for a Premier League fixture.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57106079</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57106079</guid>
-            <pubDate>Thu, 13 May 2021 19:11:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Police release men from immigration van blocking Glasgow street]]></title>
             <description><![CDATA[Ch Supt Mark Sutherland says the pair had to be let go to protect safety and public health.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259</guid>
             <pubDate>Thu, 13 May 2021 19:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Friends reunion premiere date and celebrity guests announced]]></title>
-            <description><![CDATA[The much-anticipated special will see the original cast and celebrities reflect on the series.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57109563</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57109563</guid>
-            <pubDate>Thu, 13 May 2021 21:15:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Portugal: No decision yet on UK holiday travel]]></title>
@@ -105,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-57108649</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57108649</guid>
             <pubDate>Thu, 13 May 2021 20:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Friends reunion premiere date and celebrity guests announced]]></title>
+            <description><![CDATA[The much-anticipated special will see the original cast and celebrities reflect on the series.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57109563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57109563</guid>
+            <pubDate>Thu, 13 May 2021 21:15:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: The cloud gardener who has an 18th floor balcony oasis]]></title>
@@ -268,6 +268,13 @@
             <pubDate>Thu, 13 May 2021 21:43:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hundreds of fans in anti-Glazer protest at Old Trafford]]></title>
+            <description><![CDATA[Hundreds of Manchester United fans protest against the club's owners while the team and Liverpool arrive at Old Trafford for a Premier League fixture.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57106079</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57106079</guid>
+            <pubDate>Thu, 13 May 2021 19:11:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Aston Villa 0-0 Everton: Drab stalemate dents visitors' European hopes]]></title>
             <description><![CDATA[Everton's hopes of finishing in the European places suffer a blow as they play out a goalless Premier League draw at Aston Villa.]]></description>
             <link>https://www.bbc.co.uk/sport/football/55598709</link>
@@ -287,13 +294,6 @@
             <link>https://www.bbc.co.uk/sport/football/57106803</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57106803</guid>
             <pubDate>Thu, 13 May 2021 16:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Murray & Liam Broady lose in Italian Open doubles second round]]></title>
-            <description><![CDATA[Britain's Andy Murray and Liam Broady are beaten in the second round of the Italian Open men's doubles.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57103275</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57103275</guid>
-            <pubDate>Thu, 13 May 2021 16:54:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: Period changes could be a short-term side effect]]></title>
