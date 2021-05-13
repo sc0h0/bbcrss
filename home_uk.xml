@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 May 2021 15:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 15:52:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Thu, 13 May 2021 11:13:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Champions League final moved to Porto and 12,000 Chelsea and Manchester City fans can attend]]></title>
-            <description><![CDATA[The Champions League final between Chelsea and Manchester City on 29 May is switched to Portugal from Turkey.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57071221</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57071221</guid>
-            <pubDate>Thu, 13 May 2021 12:32:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Travel firms warned over summer holiday refunds]]></title>
             <description><![CDATA[Companies will be breaking the law if they delay or refuse refunds, warns the competition watchdog.]]></description>
             <link>https://www.bbc.co.uk/news/business-57097568</link>
@@ -44,11 +37,25 @@
             <pubDate>Thu, 13 May 2021 09:52:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Universal credit fraud and error at new high]]></title>
-            <description><![CDATA[Figures from the Department for Work and Pensions show £8.4bn was lost in 2020-21.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57091551</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57091551</guid>
-            <pubDate>Thu, 13 May 2021 09:59:45 GMT</pubDate>
+            <title><![CDATA[County court order against Boris Johnson struck out, says No 10]]></title>
+            <description><![CDATA[Downing Street succeeds in getting a court judgement over an alleged debt cancelled, the BBC understands.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57099607</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57099607</guid>
+            <pubDate>Thu, 13 May 2021 15:29:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Champions League final moved to Porto and 12,000 Chelsea and Manchester City fans can attend]]></title>
+            <description><![CDATA[The Champions League final between Chelsea and Manchester City on 29 May is switched to Portugal from Turkey.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57071221</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57071221</guid>
+            <pubDate>Thu, 13 May 2021 12:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over-18s in Blackburn area to get vaccine amid variant spike]]></title>
+            <description><![CDATA[The change will be introduced in the Blackburn area following concerns about a rise in infections.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57103167</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57103167</guid>
+            <pubDate>Thu, 13 May 2021 13:01:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fred West police begin cellar search for Mary Bastholm]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259</guid>
             <pubDate>Thu, 13 May 2021 15:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson's lawyers confident of cancelling court judgement]]></title>
-            <description><![CDATA[A county-court order against the PM for a debt of £535 was over a claim of defamation, it has emerged.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57098002</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57098002</guid>
-            <pubDate>Thu, 13 May 2021 11:59:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gal Gadot: Wonder Woman actress receives backlash over Middle East tweet]]></title>
@@ -114,6 +114,13 @@
             <pubDate>Thu, 13 May 2021 04:54:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Film studio sorry for dubbing Laverne Cox's voice with a man]]></title>
+            <description><![CDATA[Laverne Cox's character in Oscar-winning film Promising Young Woman was dubbed by a man in Italy.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57099395</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57099395</guid>
+            <pubDate>Thu, 13 May 2021 13:08:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Falkland Islands: Veterans reunite after almost 40 years]]></title>
             <description><![CDATA[Navy veteran David reaches out to other survivors of an event that killed 12 crew members.]]></description>
             <link>https://www.bbc.co.uk/news/stories-57075711</link>
@@ -133,34 +140,6 @@
             <link>https://www.bbc.co.uk/news/uk-57095396</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57095396</guid>
             <pubDate>Wed, 12 May 2021 21:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook moderator: ‘Every day was a nightmare’]]></title>
-            <description><![CDATA[This is the first time a social media moderator has testified to a parliamentary committee.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57088382</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57088382</guid>
-            <pubDate>Wed, 12 May 2021 13:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gemma Arterton: Screen and stage star excited at theatres reopening]]></title>
-            <description><![CDATA[The actress will soon be back on stage in London as theatres reopen with lockdown restrictions easing.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57093277</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57093277</guid>
-            <pubDate>Wed, 12 May 2021 18:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ellen DeGeneres to end talk show after 19 years]]></title>
-            <description><![CDATA["As great as this show is, and as fun as it is, it's just not a challenge any more," she explains.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57091501</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57091501</guid>
-            <pubDate>Wed, 12 May 2021 15:35:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arthur Beale: Sailing goods business closes shop after 500 years]]></title>
-            <description><![CDATA[The Arthur Beale store, which sells specialist marine supplies, says the pandemic has forced its closure.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57085944</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57085944</guid>
-            <pubDate>Wed, 12 May 2021 17:40:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In pictures: Commons marks 80 years since WW2 bombing]]></title>
@@ -398,7 +377,7 @@
             <description><![CDATA[Quarantine-free overseas holidays will be possible after 17 May, but what rights do you have if plans or rules change?]]></description>
             <link>https://www.bbc.co.uk/news/business-51615412</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-51615412</guid>
-            <pubDate>Fri, 07 May 2021 17:08:59 GMT</pubDate>
+            <pubDate>Thu, 13 May 2021 15:33:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Talk to me': A train driver asking men to open up]]></title>
