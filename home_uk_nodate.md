@@ -4,7 +4,7 @@
 4. [Sir Alex Ferguson grateful for extra years](https://www.bbc.co.uk/sport/football/57098656) - Sir Alex Ferguson says he is "grateful for the three years extra" he feels he has had after surviving a brain haemorrhage in 2018.
 5. [Police officer who stole drug dealers' cash jailed](https://www.bbc.co.uk/news/uk-57100058) - Kashif Mahmood seized hundreds of thousands of pounds for a crime gang controlled from Dubai.
 6. [Police release men from immigration van blocking Glasgow street](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259) - Ch Supt Mark Sutherland says the pair had to be let go to protect safety and public health.
-7. [Portugal: No decision yet on UK holidaymakers](https://www.bbc.co.uk/news/business-57107154) - The country has yet to decide whether it will allow holiday visits as it extends state of calamity.
+7. [Portugal: No decision yet on UK holiday travel](https://www.bbc.co.uk/news/business-57107154) - The country has yet to decide whether it will allow holiday visits as it extends state of calamity.
 8. [Kings Norton abandoned baby: E-fit to find George's mum](https://www.bbc.co.uk/news/uk-england-birmingham-57104028) - Baby George was only a few hours old when he was found wrapped in a blanket at a park in April.
 9. [County court order against Boris Johnson struck out](https://www.bbc.co.uk/news/uk-politics-57099607) - Downing Street succeeds in striking out a claim for a £535 debt it described as being "without merit".
 10. [Fishmongers' Hall: MI5 did not see Usman Khan as threat](https://www.bbc.co.uk/news/uk-england-london-57105524) - MI5 was considering winding down its investigation into Usman Khan days before he killed two people, an inquest hears.
