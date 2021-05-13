@@ -11,12 +11,12 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 May 2021 21:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 21:45:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Israel shores up Gaza border as conflict rages on]]></title>
+            <title><![CDATA[Israel reinforces Gaza border as conflict rages on]]></title>
             <description><![CDATA[The country deploys additional tanks and troops as it mulls whether to launch a ground operation.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57097475</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57097475</guid>
@@ -31,10 +31,10 @@
         </item>
         <item>
             <title><![CDATA[Indian variant: Government 'concern' at speed of growth]]></title>
-            <description><![CDATA[Measures to tackle the variant could include bringing forward second vaccine doses for some people.]]></description>
+            <description><![CDATA[Local and regional restrictions to tackle the Indian variant cannot be ruled out, ministers say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57109660</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57109660</guid>
-            <pubDate>Thu, 13 May 2021 21:10:58 GMT</pubDate>
+            <pubDate>Thu, 13 May 2021 21:42:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[David Cameron: I was paid far more at Greensill than as PM]]></title>
@@ -65,27 +65,6 @@
             <pubDate>Thu, 13 May 2021 16:57:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Police release men from immigration van blocking Glasgow street]]></title>
-            <description><![CDATA[Ch Supt Mark Sutherland says the pair had to be let go to protect safety and public health.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259</guid>
-            <pubDate>Thu, 13 May 2021 19:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portugal: No decision yet on UK holiday travel]]></title>
-            <description><![CDATA[The country has yet to decide whether it will allow holiday visits as it extends state of calamity.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57107154</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57107154</guid>
-            <pubDate>Thu, 13 May 2021 19:44:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kings Norton abandoned baby: E-fit to find George's mum]]></title>
-            <description><![CDATA[Baby George was only a few hours old when he was found wrapped in a blanket at a park in April.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57104028</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57104028</guid>
-            <pubDate>Thu, 13 May 2021 15:26:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[County court order against Boris Johnson struck out]]></title>
             <description><![CDATA[Downing Street succeeds in striking out a claim for a £535 debt it described as being "without merit".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57099607</link>
@@ -98,6 +77,27 @@
             <link>https://www.bbc.co.uk/sport/football/57106079</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57106079</guid>
             <pubDate>Thu, 13 May 2021 19:11:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police release men from immigration van blocking Glasgow street]]></title>
+            <description><![CDATA[Ch Supt Mark Sutherland says the pair had to be let go to protect safety and public health.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259</guid>
+            <pubDate>Thu, 13 May 2021 19:19:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Friends reunion premiere date and celebrity guests announced]]></title>
+            <description><![CDATA[The much-anticipated special will see the original cast and celebrities reflect on the series.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57109563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57109563</guid>
+            <pubDate>Thu, 13 May 2021 21:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portugal: No decision yet on UK holiday travel]]></title>
+            <description><![CDATA[The country has yet to decide whether it will allow holiday visits as it extends state of calamity.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57107154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57107154</guid>
+            <pubDate>Thu, 13 May 2021 19:44:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Agoraphobic mum-to-be can be forced to hospital for birth, court rules]]></title>
@@ -265,7 +265,7 @@
             <description><![CDATA[Roberto Firmino scores twice as Liverpool boost their hopes of a finishing in the top four of the Premier League by beating Manchester United at Old Trafford.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56876294</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56876294</guid>
-            <pubDate>Thu, 13 May 2021 21:09:32 GMT</pubDate>
+            <pubDate>Thu, 13 May 2021 21:43:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aston Villa 0-0 Everton: Drab stalemate dents visitors' European hopes]]></title>
