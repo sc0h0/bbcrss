@@ -7,8 +7,8 @@
 7. [Portugal: No decision yet on UK holiday travel](https://www.bbc.co.uk/news/business-57107154) - The country has yet to decide whether it will allow holiday visits as it extends state of calamity.
 8. [Kings Norton abandoned baby: E-fit to find George's mum](https://www.bbc.co.uk/news/uk-england-birmingham-57104028) - Baby George was only a few hours old when he was found wrapped in a blanket at a park in April.
 9. [County court order against Boris Johnson struck out](https://www.bbc.co.uk/news/uk-politics-57099607) - Downing Street succeeds in striking out a claim for a £535 debt it described as being "without merit".
-10. [Fishmongers' Hall: MI5 did not see Usman Khan as threat](https://www.bbc.co.uk/news/uk-england-london-57105524) - MI5 was considering winding down its investigation into Usman Khan days before he killed two people, an inquest hears.
-11. [Dragons' Den confirms youngest-ever Dragon](https://www.bbc.co.uk/news/entertainment-arts-57103198) - Entrepreneur and author Steven Bartlett, 28, is to join the BBC business investment show.
+10. [Dragons' Den confirms youngest-ever Dragon](https://www.bbc.co.uk/news/entertainment-arts-57103198) - Entrepreneur and author Steven Bartlett, 28, is to join the BBC business investment show.
+11. [Agoraphobic mum-to-be can be forced to hospital for birth, court rules](https://www.bbc.co.uk/news/uk-57108649) - The 21-year-old has an "overwhelming" fear of going out and wanted a home birth, the court heard.
 12. [Covid: The cloud gardener who has an 18th floor balcony oasis](https://www.bbc.co.uk/news/uk-england-manchester-57106688) - Jason Williams turned to gardening to help with anxiety and depression during lockdown.
 13. [St Helens couple become foster parents to honour son's wish](https://www.bbc.co.uk/news/uk-england-merseyside-57093938) - Harrison Ledsham asked his parents to foster when his sister was dying and when he got cancer.
 14. [Russia picks team for film shot on International Space Station](https://www.bbc.co.uk/news/world-europe-57106618) - An actress and director will blast off in October - but Tom Cruise also plans to visit the ISS.
