@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 May 2021 14:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 May 2021 14:50:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Israel-Gaza: Deaths mount as Israel-Gaza violence worsens]]></title>
-            <description><![CDATA[Civilians tell of their terror as rocket fire and airstrikes rain down in Gaza and Israel.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57097475</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57097475</guid>
-            <pubDate>Thu, 13 May 2021 14:34:57 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Covid: Surge vaccinations could be used to tackle Indian variant]]></title>
             <description><![CDATA[The PM says he is "anxious" about the Covid variant and the government is considering all options.]]></description>
@@ -65,18 +58,25 @@
             <pubDate>Thu, 13 May 2021 13:33:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Police officer who stole drug dealers' cash jailed]]></title>
+            <description><![CDATA[Kashif Mahmood seized hundreds of thousands of pounds for a crime gang controlled from Dubai.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57100058</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57100058</guid>
+            <pubDate>Thu, 13 May 2021 14:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protesters block immigration van from leaving Glasgow street]]></title>
+            <description><![CDATA[Protesters are surrounding a Home Office immigration enforcement vehicle in Glasgow's Pollokshields area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57100259</guid>
+            <pubDate>Thu, 13 May 2021 14:30:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Boris Johnson's lawyers confident of cancelling court judgement]]></title>
             <description><![CDATA[A county-court order against the PM for a debt of £535 was over a claim of defamation, it has emerged.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57098002</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57098002</guid>
             <pubDate>Thu, 13 May 2021 11:59:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Julia James: Callum Wheeler in court over PCSO murder]]></title>
-            <description><![CDATA[Callum Wheeler, 21, from Aylesham, is accused of murdering community support officer Julia James.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-57097457</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57097457</guid>
-            <pubDate>Thu, 13 May 2021 10:45:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trains reintroduced after safety checks prompted by cracks]]></title>
@@ -280,6 +280,13 @@
             <link>https://www.bbc.co.uk/news/health-56901353</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56901353</guid>
             <pubDate>Wed, 12 May 2021 23:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the India, Brazil, South Africa and UK variants?]]></title>
+            <description><![CDATA[Concern is growing over a rise in UK coronavirus cases linked to a variant from India.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55659820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
+            <pubDate>Thu, 13 May 2021 13:51:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
