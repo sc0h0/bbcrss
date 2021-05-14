@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 May 2021 15:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 16:01:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,25 @@
             <pubDate>Fri, 14 May 2021 15:09:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Glasgow and Moray to remain under level 3 restrictions]]></title>
+            <description><![CDATA[First Minister Nicola Sturgeon made the announcement as cases continued to increase in Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57115876</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57115876</guid>
+            <pubDate>Fri, 14 May 2021 15:50:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Edwin Poots is elected DUP leader]]></title>
+            <description><![CDATA[Northern Ireland Agriculture Minister Edwin Poots elected leader of the Democratic Unionist Party.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57121825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57121825</guid>
+            <pubDate>Fri, 14 May 2021 15:53:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Portugal to allow UK tourists from Monday]]></title>
             <description><![CDATA[The government in Lisbon says anyone arriving will need to take a negative PCR test before departure.]]></description>
             <link>https://www.bbc.co.uk/news/business-57117918</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57117918</guid>
             <pubDate>Fri, 14 May 2021 15:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Glasgow and Moray to remain under level 3 restrictions]]></title>
-            <description><![CDATA[First Minister Nicola Sturgeon made the announcement as cases continued to increase in Glasgow.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57115876</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57115876</guid>
-            <pubDate>Fri, 14 May 2021 15:41:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Martin Bashir: BBC religion editor leaves the corporation]]></title>
@@ -58,18 +65,11 @@
             <pubDate>Fri, 14 May 2021 11:41:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DUP leadership: Counting of votes begins after voting ends]]></title>
-            <description><![CDATA[NI Agriculture Minister Edwin Poots and MP Sir Jeffrey Donaldson are bidding to succeed Arlene Foster.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57100078</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57100078</guid>
-            <pubDate>Fri, 14 May 2021 15:11:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Elise Stefanik: Trump loyalist wins Republican leadership post]]></title>
-            <description><![CDATA[Elise Stefanik, a four-term congresswoman from upstate New York, is now the third-ranking Republican.]]></description>
+            <description><![CDATA[Elise Stefanik's win is seen as a sign that former President Trump's grip on the party remains strong.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57121629</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57121629</guid>
-            <pubDate>Fri, 14 May 2021 15:28:56 GMT</pubDate>
+            <pubDate>Fri, 14 May 2021 15:47:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Harry: I want to break cycle of pain for my children]]></title>
@@ -163,6 +163,13 @@
             <pubDate>Fri, 14 May 2021 13:58:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Edwin Poots: Who is the new leader of the DUP?]]></title>
+            <description><![CDATA[The NI Assembly member for Lagan Valley has become the fourth leader of the party in its 50-year history.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57115975</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57115975</guid>
+            <pubDate>Fri, 14 May 2021 15:49:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[All the investigations facing the government, explained]]></title>
             <description><![CDATA[From the Greensill affair to renovations of Boris Johnson's flat, lots of questions are being asked.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-56926219</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57079327</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57079327</guid>
             <pubDate>Thu, 13 May 2021 23:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DUP chooses new leader amid debate over unionism's future]]></title>
-            <description><![CDATA[As the party prepares to select a new leader, Chris Page says the party has detected worrying signs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57108419</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57108419</guid>
-            <pubDate>Fri, 14 May 2021 00:52:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Face masks in labour: 'I feared I would vomit']]></title>
