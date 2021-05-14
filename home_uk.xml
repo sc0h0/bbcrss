@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 May 2021 07:58:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 08:39:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,14 @@
             <description><![CDATA[More than 100 people have been killed in Gaza and seven have died in Israel since Monday.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57110368</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57110368</guid>
-            <pubDate>Fri, 14 May 2021 07:17:37 GMT</pubDate>
+            <pubDate>Fri, 14 May 2021 08:03:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon set to hire 10,000 UK workers]]></title>
+            <description><![CDATA[The tech giant is tightening its grip on retail as the coronavirus pandemic continues]]></description>
+            <link>https://www.bbc.co.uk/news/business-57109282</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57109282</guid>
+            <pubDate>Fri, 14 May 2021 08:01:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: India variant concerns and Wales advises only 'essential' overseas travel]]></title>
@@ -44,11 +51,11 @@
             <pubDate>Fri, 14 May 2021 06:53:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: People in Wales asked to delay holidays abroad]]></title>
-            <description><![CDATA[People should only go abroad if "essential" for at least three more weeks, the first minister says.]]></description>
+            <title><![CDATA[Covid: People in Wales asked not to travel abroad in 2021]]></title>
+            <description><![CDATA[Go abroad only if its "essential" but preferably go on holiday in Wales, the first minister says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57102249</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57102249</guid>
-            <pubDate>Fri, 14 May 2021 07:42:13 GMT</pubDate>
+            <pubDate>Fri, 14 May 2021 08:25:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Harry: I want to break cycle of pain for my children]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57109007</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57109007</guid>
             <pubDate>Thu, 13 May 2021 23:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parents seek second inquest into baby's hospital death]]></title>
-            <description><![CDATA[The original inquest found Hayden Nguyen died of natural causes, despite the hospital admitting errors.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56905845</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56905845</guid>
-            <pubDate>Fri, 14 May 2021 04:33:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mary Beard's retirement present to fund students]]></title>
@@ -135,7 +135,7 @@
             <pubDate>Thu, 13 May 2021 23:46:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DUP leadership: The twin challenges of unionism and the union]]></title>
+            <title><![CDATA[DUP chooses new leader amid debate over unionism's future]]></title>
             <description><![CDATA[As the party prepares to select a new leader, Chris Page says the party has detected worrying signs.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57108419</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57108419</guid>
@@ -212,13 +212,6 @@
             <pubDate>Thu, 13 May 2021 17:00:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fans could travel to 14 August Joshua v Fury bout - Hearn]]></title>
-            <description><![CDATA[Saudi authorities hope to host overseas fans on if plans to stage Anthony Joshua v Tyson Fury on 14 August are finalised.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/57106074</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57106074</guid>
-            <pubDate>Thu, 13 May 2021 15:55:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Liverpool boost top-four hopes with win at Man Utd]]></title>
             <description><![CDATA[Roberto Firmino scores twice as Liverpool boost their hopes of a finishing in the top four of the Premier League by beating Manchester United at Old Trafford.]]></description>
             <link>https://www.bbc.co.uk/sport/football/56876294</link>
@@ -240,6 +233,13 @@
             <pubDate>Thu, 13 May 2021 23:57:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['My biggest fear was losing my memory']]></title>
+            <description><![CDATA[Sir Alex Ferguson and his son Jason talk to Dan Roan before the release of a new film about the former Manchester United manager.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57106328</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57106328</guid>
+            <pubDate>Thu, 13 May 2021 17:00:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Five ways to make hugging safer, from the experts]]></title>
             <description><![CDATA[Millions of people will be able to hug loved ones again from Monday. But can you minimise the risk?]]></description>
             <link>https://www.bbc.co.uk/news/uk-57083571</link>
@@ -258,7 +258,7 @@
             <description><![CDATA[Concern is growing over a rise in UK coronavirus cases linked to a variant from India.]]></description>
             <link>https://www.bbc.co.uk/news/health-55659820</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
-            <pubDate>Thu, 13 May 2021 13:51:37 GMT</pubDate>
+            <pubDate>Fri, 14 May 2021 08:13:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
