@@ -7,7 +7,7 @@
 7. [Covid: Biden hails 'great day' as he sheds mask in Oval Office](https://www.bbc.co.uk/news/world-us-canada-57109039) - The president removes his mask in the Oval Office as the new health guidance is announced.
 8. [MPs urge Boris Johnson to deliver on social care reform vow](https://www.bbc.co.uk/news/uk-57105539) - It comes after the Queen's Speech failed to give detailed proposals for the new system.
 9. [SNP holds Airdrie and Shotts seat in by-election](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57087381) - Anum Qaisar-Javed wins the by-election for the SNP after holding off a challenge from Scottish Labour.
-10. [Friends reunion premiere date and celebrity guests announced](https://www.bbc.co.uk/news/entertainment-arts-57109563) - The much-anticipated special will see the original cast and celebrities reflect on the series.
+10. [Parents seek second inquest into baby's hospital death](https://www.bbc.co.uk/news/uk-56905845) - The original inquest found Hayden Nguyen died of natural causes, despite the hospital admitting errors.
 11. [Mary Beard's 'retirement present' to fund students](https://www.bbc.co.uk/news/education-57102489) - Historian and TV presenter is paying for scholarships to widen access to classics beyond "posh" people.
 12. [The papers: Cameron's grilling and race to stop India variant](https://www.bbc.co.uk/news/blogs-the-papers-57109533) - The former prime minister facing questions over the his lobbying features on several front pages.
 13. [Covid crisis grips crowded Kolkata](https://www.bbc.co.uk/news/world-asia-india-57106648) - Kolkata, one of the most densely-populated cities in India, hasn't escaped the Covid-19 surge.
