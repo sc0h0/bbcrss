@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 May 2021 15:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 15:44:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,21 @@
             <description><![CDATA[The government in Lisbon says anyone arriving will need to take a negative PCR test before departure.]]></description>
             <link>https://www.bbc.co.uk/news/business-57117918</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57117918</guid>
-            <pubDate>Fri, 14 May 2021 14:38:36 GMT</pubDate>
+            <pubDate>Fri, 14 May 2021 15:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Glasgow and Moray to remain under level 3 restrictions]]></title>
+            <description><![CDATA[First Minister Nicola Sturgeon made the announcement as cases continued to increase in Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57115876</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57115876</guid>
+            <pubDate>Fri, 14 May 2021 15:41:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Martin Bashir: BBC religion editor leaves the corporation]]></title>
+            <description><![CDATA[The corporation said he was leaving his post due to ongoing health issues.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57120603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57120603</guid>
+            <pubDate>Fri, 14 May 2021 15:24:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reality TV's Stephen Bear charged with sharing sexual images]]></title>
@@ -51,6 +65,13 @@
             <pubDate>Fri, 14 May 2021 15:11:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Elise Stefanik: Trump loyalist wins Republican leadership post]]></title>
+            <description><![CDATA[Elise Stefanik, a four-term congresswoman from upstate New York, is now the third-ranking Republican.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57121629</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57121629</guid>
+            <pubDate>Fri, 14 May 2021 15:28:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Prince Harry: I want to break cycle of pain for my children]]></title>
             <description><![CDATA[The Duke of Sussex compares his life to a mixture of the film the Truman Show and being in a zoo.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57110267</link>
@@ -63,27 +84,6 @@
             <link>https://www.bbc.co.uk/news/business-57114850</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57114850</guid>
             <pubDate>Fri, 14 May 2021 11:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour MP Wes Streeting diagnosed with kidney cancer]]></title>
-            <description><![CDATA[The 38-year-old MP said the news came as "an enormous shock", but his prognosis was "very good".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57113389</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57113389</guid>
-            <pubDate>Fri, 14 May 2021 11:12:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: People in Wales asked not to travel abroad]]></title>
-            <description><![CDATA[International travel to be allowed in Wales from Monday, but first minister says it's "best avoided".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57102249</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57102249</guid>
-            <pubDate>Fri, 14 May 2021 14:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Formula 1: Turkish Grand Prix cancelled and replaced by second Austrian race]]></title>
-            <description><![CDATA[The Turkish Grand Prix is cancelled just two weeks after it was put on the Formula 1 calendar and replaced by a second race in Austria.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57115403</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57115403</guid>
-            <pubDate>Fri, 14 May 2021 14:15:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid lockdown easing: Why am I exhausted after socialising?]]></title>
@@ -212,6 +212,13 @@
             <pubDate>Thu, 13 May 2021 11:13:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Turkish GP cancelled and replaced by second race in Austria]]></title>
+            <description><![CDATA[The Turkish Grand Prix is cancelled just two weeks after it was put on the Formula 1 calendar and replaced by a second race in Austria.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57115403</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57115403</guid>
+            <pubDate>Fri, 14 May 2021 14:15:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Liverpool suddenly have top-four finish in their own hands]]></title>
             <description><![CDATA[After Liverpool's significant victory at Manchester United, BBC Sport analyses the race to qualify for the Champions League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57049608</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/57110107</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57110107</guid>
             <pubDate>Thu, 13 May 2021 23:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La Liga highlights: Granada 1-4 Real Madrid]]></title>
-            <description><![CDATA[Real Madrid win 4-1 away at Granada to move within two points of city rivals Atletico with two games to go in La Liga.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57110324</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57110324</guid>
-            <pubDate>Thu, 13 May 2021 23:57:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Which countries are on the green list for foreign holidays?]]></title>
