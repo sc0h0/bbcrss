@@ -1,4 +1,4 @@
-1. [Indian variant: Second jabs could be brought forward to tackle rise](https://www.bbc.co.uk/news/uk-57109660) - Fri, 14 May 2021 07:18:27 GMT - Local restrictions have also not been ruled out in areas worst affected by the Indian variant.
+1. [Indian variant: Second jabs could be brought forward to tackle rise](https://www.bbc.co.uk/news/uk-57109660) - Fri, 14 May 2021 08:40:32 GMT - Local restrictions have also not been ruled out in areas worst affected by the Indian variant.
 2. [Indian variant: What's causing the spike in Bolton?](https://www.bbc.co.uk/news/health-57094274) - Fri, 14 May 2021 00:08:55 GMT - The town has seen a sharp spike in Covid cases - driven by the emergence of the Indian variant.
 3. [Israel intensifies attacks in Gaza as conflict enters fifth day](https://www.bbc.co.uk/news/world-middle-east-57110368) - Fri, 14 May 2021 08:03:17 GMT - More than 100 people have been killed in Gaza and seven have died in Israel since Monday.
 4. [Amazon set to hire 10,000 UK workers](https://www.bbc.co.uk/news/business-57109282) - Fri, 14 May 2021 08:01:47 GMT - The tech giant is tightening its grip on retail as the coronavirus pandemic continues
