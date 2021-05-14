@@ -37,7 +37,7 @@
 37. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?
 38. [Covid inquiry: What is it and how will it work?](https://www.bbc.co.uk/news/explainers-57085964) - An independent public inquiry has been announced, but how will it work?
 39. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown restrictions will ease in England, Scotland and Wales from Monday 17 May.
-40. [Covid: What refund rights are there for holidays abroad?](https://www.bbc.co.uk/news/business-51615412) - Quarantine-free overseas holidays will be possible after 17 May, but what rights do you have if plans or rules change?
+40. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as nearly 36 million people receive at least one dose.
 41. [What are the India, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - Concern is growing over a rise in UK coronavirus cases linked to a variant from India.
 42. [Covid vaccine: Period changes could be a short-term side effect](https://www.bbc.co.uk/news/health-56901353) - Stories of genuine experiences shared online have been followed by a wave of anti-vaccine disinformation.
 43. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
@@ -45,13 +45,13 @@
 45. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 38 and 39 in England are now being offered a Covid vaccine as the rollout continues.
 46. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
 47. [Restaurants and pubs are reopening inside, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - People in England, Scotland and Wales will soon be able to drink inside a pub.
-48. [Covid: What are the social distancing rules and the rule of six?](https://www.bbc.co.uk/news/uk-51506729) - Guidance on hugging close friends and family is being relaxed in England and Scotland from 17 May.
-49. [Which countries are on the green list for foreign holidays?](https://www.bbc.co.uk/news/explainers-52544307) - Scotland is to adopt the same "traffic light" system for foreign travel as England.
-50. [Coronavirus: What are the rules for face masks or face coverings?](https://www.bbc.co.uk/news/health-51205344) - Secondary school pupils in England will no longer be required to wear them in class from next week.
-51. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-52. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
-53. [Coronavirus: How does the Covid-19 alert level system work?](https://www.bbc.co.uk/news/explainers-52634739) - The threat of Covid-19 in England is ranked through a five-level, colour-coded alert system.
-54. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as nearly 36 million people receive at least one dose.
+48. [Covid: What refund rights are there for holidays abroad?](https://www.bbc.co.uk/news/business-51615412) - Quarantine-free overseas holidays will be possible after 17 May, but what rights do you have if plans or rules change?
+49. [Covid: What are the social distancing rules and the rule of six?](https://www.bbc.co.uk/news/uk-51506729) - Guidance on hugging close friends and family is being relaxed in England and Scotland from 17 May.
+50. [Which countries are on the green list for foreign holidays?](https://www.bbc.co.uk/news/explainers-52544307) - Scotland is to adopt the same "traffic light" system for foreign travel as England.
+51. [Coronavirus: What are the rules for face masks or face coverings?](https://www.bbc.co.uk/news/health-51205344) - Secondary school pupils in England will no longer be required to wear them in class from next week.
+52. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+53. [UK holidays: When and where can I go.... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - The rules on having a holiday in the UK have been relaxed - but restrictions remain.
+54. [Coronavirus: How does the Covid-19 alert level system work?](https://www.bbc.co.uk/news/explainers-52634739) - The threat of Covid-19 in England is ranked through a five-level, colour-coded alert system.
 55. ['Talk to me': A train driver asking men to open up](https://www.bbc.co.uk/news/stories-57060971) - A tragedy inspired Scotland's only woman freight train driver to get men talking about mental health.
 56. [Chinese dreams on Native American land: A tale of cannabis boom and bust](https://www.bbc.co.uk/news/world-us-canada-56835897) - How the pandemic cannabis boom led to chaos on the Navajo Nation, pitting two minorities against each other.
 57. [The 'smart and cheeky' Aboriginal boy teaching Australia a lesson](https://www.bbc.co.uk/news/stories-56544429) - A film about an Aboriginal boy's experience of school shines a light on Australia's failure to give all children a fair start.
