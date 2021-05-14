@@ -5,12 +5,12 @@
 5. [Prince Harry: I want to break cycle of pain for my children](https://www.bbc.co.uk/news/uk-57110267) - The Duke of Sussex says he does not want to pass on the "suffering" of his parents to his children.
 6. [Gupta empire facing UK fraud probe over Greensill](https://www.bbc.co.uk/news/business-57114850) - The group run by Liberty Steel owner Sanjeev Gupta is under investigation by the Serious Fraud Office.
 7. [Amazon set to hire 10,000 UK workers](https://www.bbc.co.uk/news/business-57109282) - The tech giant is tightening its grip on retail as the coronavirus pandemic continues.
-8. [Covid: People in Wales asked not to travel abroad in 2021](https://www.bbc.co.uk/news/uk-wales-57102249) - Go abroad only if it is "essential" but preferably go on holiday in Wales, the first minister says.
-9. [Woman Sitting Near a Window: Pablo Picasso work sells for $100m](https://www.bbc.co.uk/news/entertainment-arts-57113452) - Woman Sitting Near a Window (Marie-Therese) sold for $103.4m (£73.5m) on Thursday in New York.
-10. [Dartmouth: WW1 submarine wreck given protection](https://www.bbc.co.uk/news/uk-england-devon-57091381) - Historic England says the contents of a submarine used in World War One must remain in place.
-11. [Covid lockdown easing: Why am I exhausted after socialising?](https://www.bbc.co.uk/news/newsbeat-57100378) - As our social lives go from 0 to 100, here's why some are feeling burned out after meeting friends.
-12. [Covid: Town crier champion retains title in silent contest](https://www.bbc.co.uk/news/uk-england-dorset-57113747) - The British Town Crier Championships have been held in silence for the first time.
-13. [Friends reunion premiere date and celebrity guests announced](https://www.bbc.co.uk/news/entertainment-arts-57109563) - The much-anticipated special will see the original cast and celebrities reflect on the series.
+8. [Reality TV's Stephen Bear charged with sharing sexual images](https://www.bbc.co.uk/news/uk-england-essex-57113872) - The 31-year-old, who won Celebrity Big Brother in 2016, is due in court in July.
+9. [Dartmouth: WW1 submarine wreck given protection](https://www.bbc.co.uk/news/uk-england-devon-57091381) - Historic England says the contents of a submarine used in World War One must remain in place.
+10. [Covid lockdown easing: Why am I exhausted after socialising?](https://www.bbc.co.uk/news/newsbeat-57100378) - As our social lives go from 0 to 100, here's why some are feeling burned out after meeting friends.
+11. [The most plastic-polluted riverbed in the UK](https://www.bbc.co.uk/news/science-environment-57113470) - Part of the River Tame in Greater Manchester is the most plastic-polluted riverbed in the UK, scientists say.
+12. [Friends reunion premiere date and celebrity guests announced](https://www.bbc.co.uk/news/entertainment-arts-57109563) - The much-anticipated special will see the original cast and celebrities reflect on the series.
+13. [Covid: Town crier champion retains title in silent contest](https://www.bbc.co.uk/news/uk-england-dorset-57113747) - The British Town Crier Championships have been held in silence for the first time.
 14. [Covid crisis grips crowded Kolkata](https://www.bbc.co.uk/news/world-asia-india-57106648) - Kolkata, one of the most densely-populated cities in India, hasn't escaped the Covid-19 surge.
 15. [WCMX: The backflipping wheelchair star helping others](https://www.bbc.co.uk/news/world-australia-57096337) - The first Australian to land a wheelchair backflip shares his skills to help others overcome obstacles.
 16. ['We cannot sleep': Mothers caught in the Israel-Gaza conflict](https://www.bbc.co.uk/news/world-middle-east-57105473) - Mothers in Israel and Gaza tell the BBC they are terrified for their families as fighting escalates.
@@ -41,7 +41,7 @@
 41. [Restaurants and pubs are reopening inside, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - People in England, Scotland and Wales will soon be able to drink inside a pub.
 42. [Covid: What refund rights are there for holidays abroad?](https://www.bbc.co.uk/news/business-51615412) - Quarantine-free overseas holidays will be possible after 17 May, but what rights do you have if plans or rules change?
 43. [Covid: What are the social distancing rules and the rule of six?](https://www.bbc.co.uk/news/uk-51506729) - Guidance on hugging close friends and family is being relaxed in England and Scotland from 17 May.
-44. [Which countries are on the green list for foreign holidays?](https://www.bbc.co.uk/news/explainers-52544307) - Scotland is to adopt the same "traffic light" system for foreign travel as England.
+44. [Which countries are on the green list for foreign holidays?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are possible from 17 May, but there are still rules in place.
 45. [Coronavirus: What are the rules for face masks or face coverings?](https://www.bbc.co.uk/news/health-51205344) - Secondary school pupils in England will no longer be required to wear them in class from next week.
 46. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 47. ['Talk to me': A train driver asking men to open up](https://www.bbc.co.uk/news/stories-57060971) - A tragedy inspired Scotland's only woman freight train driver to get men talking about mental health.
