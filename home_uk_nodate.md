@@ -1,6 +1,6 @@
 1. [Indian variant: Next steps considered amid India variant concern](https://www.bbc.co.uk/news/uk-57109660) - Local and regional restrictions to tackle the Indian variant cannot be ruled out, ministers say.
 2. [Covid in Bolton: What's causing the spike?](https://www.bbc.co.uk/news/health-57094274) - The town has seen a sharp spike in Covid cases - driven by the emergence of the Indian variant.
-3. [Israel reinforces Gaza border as conflict rages on](https://www.bbc.co.uk/news/world-middle-east-57097475) - The country deploys additional tanks and troops as it mulls whether to launch a ground operation.
+3. [Israel intensifies attacks in Gaza as conflict enters fifth day](https://www.bbc.co.uk/news/world-middle-east-57110368) - More than 100 people have been killed in Gaza and seven have died in Israel since Monday.
 4. [Covid: Wales residents urged to hold off foreign holidays](https://www.bbc.co.uk/news/uk-wales-57102249) - People should only go abroad if "essential" for at least three more weeks, Welsh ministers say.
 5. [Howard Beckett: Labour suspends union official after Patel tweet](https://www.bbc.co.uk/news/uk-politics-57109007) - Howard Beckett had apologised for posting that Home Secretary Priti Patel "should be deported".
 6. [Covid: £13.5bn needed to help pupils catch up, report says](https://www.bbc.co.uk/news/uk-england-57091191) - The Education Policy Institute also calls for a longer school day and summer activities.
