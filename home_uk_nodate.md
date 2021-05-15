@@ -14,7 +14,7 @@
 14. [Israel-Gaza: Strike collapses building during live BBC report](https://www.bbc.co.uk/news/world-middle-east-57114168) - BBC producer Adnan Elbursh was broadcasting live from Gaza City when a building behind him was hit.
 15. [Experts warn extreme weather could cause 'climate trauma' pandemic](https://www.bbc.co.uk/news/science-environment-57105070) - Mitzi says she has "climate trauma" because of the typhoons that have repeatedly flooded her home.
 16. [Liz Cheney: Why her sacking by the Republican Party matters](https://www.bbc.co.uk/news/world-us-canada-57118304) - The BBC's Ros Atkins explains the decision to dismiss the congresswoman from her party leadership role.
-17. [Eurovision 2021: From child refugee to Swedish pop star](https://www.bbc.co.uk/news/newsbeat-57105240) - "It's a huge honour for me... It's like the biggest thank you I can give."
+17. [Eurovision 2021: Tusse - from child refugee to Swedish pop star](https://www.bbc.co.uk/news/newsbeat-57105240) - "It's a huge honour for me... It's like the biggest thank you I can give," says Sweden's act Tusse.
 18. [Cat jumps five storeys to safety from burning building](https://www.bbc.co.uk/news/world-us-canada-57124736) - The daring feline leapt from a burning building in Chicago, Illinois, and landed on grass.
 19. [Week in pictures: 8 - 14 May 2021](https://www.bbc.co.uk/news/in-pictures-57114920) - A selection of powerful images taken around the world this week.
 20. [Covid lockdown easing: Why am I exhausted after socialising?](https://www.bbc.co.uk/news/newsbeat-57100378) - As our social lives go from 0 to 100, here's why some are feeling burned out after meeting friends.
