@@ -1,8 +1,8 @@
 1. [Israel Gaza violence: US envoy arrives for de-escalation talks](https://www.bbc.co.uk/news/world-middle-east-57125479) - Appeals to Israeli and Palestinian leaders for calm have so far failed to produce a ceasefire agreement.
 2. [Covid: Indian variant could disrupt 21 June easing, PM says](https://www.bbc.co.uk/news/uk-57122817) - Second jabs for the over-50s and clinically vulnerable will be given sooner to ease concerns, PM says.
 3. [China lands its Zhurong rover on Mars](https://www.bbc.co.uk/news/science-environment-57122914) - The six-wheeled robot has made the hazardous descent to the surface of the Red Planet, China announces.
-4. [Last Debenhams stores close their doors](https://www.bbc.co.uk/news/business-57119489) - After 240 years of trading, Debenhams's remaining stores are welcoming customers for the last time.
-5. [Teen girl found in boat drifting for three weeks at sea](https://www.bbc.co.uk/news/world-europe-57089249) - Aicha, 17, was making the journey from Ivory Coast to Europe for the "chance of a better life".
+4. [Teen girl found in boat drifting for three weeks at sea](https://www.bbc.co.uk/news/world-europe-57089249) - Aicha, 17, was making the journey from Ivory Coast to Europe for the "chance of a better life".
+5. [Last Debenhams stores close their doors](https://www.bbc.co.uk/news/business-57119489) - After 240 years of trading, Debenhams's remaining stores are welcoming customers for the last time.
 6. [UK troops seize IS weapons in Mali operation](https://www.bbc.co.uk/news/uk-57123896) - A UK task force arrived in the West African country last year as part of a UN peacekeeping mission.
 7. [China uses Uyghur forced labour to make solar panels, says report](https://www.bbc.co.uk/news/world-asia-china-57124636) - A report says 45% of the world's supply of a key panel component is obtained by a system of coercion.
 8. [Pokémon card sales at major US retailer halted over security fears](https://www.bbc.co.uk/news/world-us-canada-57124256) - A major US chain acts after a customer pulled a gun in a fight over the collectible trading cards.
