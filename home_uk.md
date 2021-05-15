@@ -1,4 +1,4 @@
-1. [Israel-Gaza conflict rages as US envoy visits](https://www.bbc.co.uk/news/world-middle-east-57125479) - Sat, 15 May 2021 13:47:49 GMT - Children killed in a strike on a Gaza refugee camp, and a man has died in a rocket attack in Israel.
+1. [Israel-Gaza conflict rages as US envoy visits](https://www.bbc.co.uk/news/world-middle-east-57125479) - Sat, 15 May 2021 13:47:49 GMT - Strike on a Gaza refugee camp kills children, and a man dies in a rocket attack in Israel.
 2. [Covid: Plea to get the jab in variant hotspot areas](https://www.bbc.co.uk/news/uk-57126318) - Sat, 15 May 2021 11:11:33 GMT - Eligible people in areas where the Indian virus variant is spreading are urged to get vaccinated.
 3. [Santander customers unable to access accounts](https://www.bbc.co.uk/news/uk-57127774) - Sat, 15 May 2021 13:45:30 GMT - The bank says it does not have a timescale for when issues with many of its services will be resolved.
 4. [Teenage girl found in boat drifting for 22 days at sea](https://www.bbc.co.uk/news/world-europe-57089249) - Fri, 14 May 2021 23:10:15 GMT - Aicha, 17, was one of only three people to survive out of 59 passengers in the boat.
