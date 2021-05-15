@@ -1,6 +1,6 @@
 1. [Israel-Gaza conflict rages as US envoy visits](https://www.bbc.co.uk/news/world-middle-east-57125479) - Strike on a Gaza refugee camp kills children, and a man dies in a rocket attack in Israel.
 2. [Covid: Plea to get the jab in variant hotspot areas](https://www.bbc.co.uk/news/uk-57126318) - Eligible people in areas where the Indian virus variant is spreading are urged to get vaccinated.
-3. [Santander customers unable to access accounts](https://www.bbc.co.uk/news/uk-57127774) - The bank says it does not have a timescale for when issues with many of its services will be resolved.
+3. [Santander customers unable to access accounts](https://www.bbc.co.uk/news/uk-57127774) - "It's an absolute nightmare," says one customer, as the bank says it is working to fix the problems.
 4. [Teenage girl found in boat drifting for 22 days at sea](https://www.bbc.co.uk/news/world-europe-57089249) - Aicha, 17, was one of only three people to survive out of 59 passengers in the boat.
 5. [Universal basic income to be tested in Wales](https://www.bbc.co.uk/news/uk-wales-politics-57120354) - It means adults regardless of income, will be given money to cover essential living costs.
 6. [Four injured and 17 held after London Luton Airport fight](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57127034) - London Luton Airport says it is shocked by the incident in the main departure lounge.
