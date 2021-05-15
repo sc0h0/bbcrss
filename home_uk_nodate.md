@@ -1,5 +1,5 @@
 1. [Covid: Plea to get the jab in variant hotspot areas](https://www.bbc.co.uk/news/uk-57126318) - Eligible people in areas where the Indian virus variant is spreading are urged to get vaccinated.
-2. [Israel-Gaza violence: US envoy arrives for de-escalation talks](https://www.bbc.co.uk/news/world-middle-east-57125479) - Israeli and Palestinian leaders are urged to stop firing as civilian casualties mount.
+2. [Israel-Gaza conflict rages as US envoy visits](https://www.bbc.co.uk/news/world-middle-east-57125479) - Israeli and Palestinian leaders are urged to stop firing as civilian casualties mount.
 3. [Teenage girl found in boat drifting for 22 days at sea](https://www.bbc.co.uk/news/world-europe-57089249) - Aicha, 17, was one of only three people to survive out of 59 passengers in the boat.
 4. [Universal basic income to be tested in Wales](https://www.bbc.co.uk/news/uk-wales-politics-57120354) - It means adults regardless of income, will be given money to cover essential living costs.
 5. [Covid in Scotland: Police urge large Rangers crowds to disperse](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57127094) - Hundreds of supporters gathered outside Ibrox Stadium to celebrate their club's Scottish Premiership title triumph.
