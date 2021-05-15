@@ -1,12 +1,12 @@
 1. [Covid: Plea to get the jab in variant hotspot areas](https://www.bbc.co.uk/news/uk-57126318) - Eligible people in areas where the Indian virus variant is spreading are urged to get vaccinated.
-2. [Santander customers report being unable to access app](https://www.bbc.co.uk/news/uk-57127774) - The bank says it is working to resolve problems with its services, but it does not have a timescale.
+2. [Santander customers unable to access online accounts](https://www.bbc.co.uk/news/uk-57127774) - The bank says it is working to resolve problems with its services, but it does not have a timescale.
 3. [Israel-Gaza conflict rages as US envoy visits](https://www.bbc.co.uk/news/world-middle-east-57125479) - Israeli and Palestinian leaders are urged to stop firing as civilian casualties mount.
 4. [Teenage girl found in boat drifting for 22 days at sea](https://www.bbc.co.uk/news/world-europe-57089249) - Aicha, 17, was one of only three people to survive out of 59 passengers in the boat.
 5. [Universal basic income to be tested in Wales](https://www.bbc.co.uk/news/uk-wales-politics-57120354) - It means adults regardless of income, will be given money to cover essential living costs.
 6. [Covid in Scotland: Police urge large Rangers crowds to disperse](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57127094) - Hundreds of supporters gathered outside Ibrox Stadium to celebrate their club's Scottish Premiership title triumph.
 7. [China lands its Zhurong rover on Mars](https://www.bbc.co.uk/news/science-environment-57122914) - The six-wheeled robot has made the hazardous descent to the surface of the Red Planet, China announces.
 8. [Covid: First Australian repatriation flight from India lands in Darwin](https://www.bbc.co.uk/news/world-australia-57126041) - Many of the intended passengers on the repatriation flight were barred after positive Covid tests.
-9. [Royal British Legion: Wreath-laying marks centenary](https://www.bbc.co.uk/news/uk-57125430) - Ceremony at the Cenotaph marks exact moment the charity was formed a century ago at 09:00 BST.
+9. [Alex Scott named BBC's Football Focus host](https://www.bbc.co.uk/sport/football/57096067) - Alex Scott describes her pride and excitement at taking over as the new presenter of Football Focus.
 10. [Israel's Iron Dome missile shield](https://www.bbc.co.uk/news/world-middle-east-20385306) - The Israeli military says the Iron Dome is intercepting about 90% of the rockets fired from Gaza.
 11. [Saving my teeth damaged by years of domestic abuse](https://www.bbc.co.uk/news/uk-57124200) - A domestic abuse charity is matching dentists who want to help survivors needing urgent dental work.
 12. [Cat jumps five storeys to safety from burning building](https://www.bbc.co.uk/news/world-us-canada-57124736) - The daring feline leapt from a burning building in Chicago, Illinois, and landed on grass.
