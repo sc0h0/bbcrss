@@ -5,7 +5,7 @@
 5. [Covid in Scotland: Police urge large Rangers crowds to disperse](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57127094) - Hundreds of supporters gathered outside Ibrox Stadium to celebrate their club's Scottish Premiership title triumph.
 6. [China lands its Zhurong rover on Mars](https://www.bbc.co.uk/news/science-environment-57122914) - The six-wheeled robot has made the hazardous descent to the surface of the Red Planet, China announces.
 7. [Covid: First Australian repatriation flight from India lands in Darwin](https://www.bbc.co.uk/news/world-australia-57126041) - Many of the intended passengers on the repatriation flight were barred after positive Covid tests.
-8. [Pokémon card sales at major US retailer halted over security fears](https://www.bbc.co.uk/news/world-us-canada-57124256) - A major US chain acts after a customer pulled a gun in a fight over the collectible trading cards.
+8. [Royal British Legion: Wreath-laying marks centenary](https://www.bbc.co.uk/news/uk-57125430) - Ceremony at the Cenotaph marks exact moment the charity was formed a century ago at 09:00 BST.
 9. [Cat jumps five storeys to safety from burning building](https://www.bbc.co.uk/news/world-us-canada-57124736) - The daring feline leapt from a burning building in Chicago, Illinois, and landed on grass.
 10. [Israel's Iron Dome missile shield](https://www.bbc.co.uk/news/world-middle-east-20385306) - The Israeli military says the Iron Dome is intercepting about 90% of the rockets fired from Gaza.
 11. [Saving my teeth damaged by years of domestic abuse](https://www.bbc.co.uk/news/uk-57124200) - A domestic abuse charity is matching dentists who want to help survivors needing urgent dental work.
