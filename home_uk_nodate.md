@@ -1,7 +1,7 @@
 1. [Covid: Get the jab plea as Army deployed in hotspots](https://www.bbc.co.uk/news/uk-57126318) - Eligible people in areas where the Indian virus variant is circulating are urged to get vaccinated.
-2. [Israel-Gaza violence: US envoy arrives for de-escalation talks](https://www.bbc.co.uk/news/world-middle-east-57125479) - Appeals to Israeli and Palestinian leaders for calm have so far failed to produce a ceasefire agreement.
+2. [Israel-Gaza violence: US envoy arrives for de-escalation talks](https://www.bbc.co.uk/news/world-middle-east-57125479) - Israeli and Palestinian leaders are urged to stop firing as civilian casualties mount.
 3. [Covid-19: Rate of Indian variant spread, and the future of the Tokyo Olympics](https://www.bbc.co.uk/news/uk-57125002) - Five things you need to know about the coronavirus pandemic this Saturday morning.
-4. [Teenage girl found in boat drifting for 22 days at sea](https://www.bbc.co.uk/news/world-europe-57089249) - Aicha, 17, was making the journey from Ivory Coast to Europe for the "chance of a better life".
+4. [Teenage girl found in boat drifting for 22 days at sea](https://www.bbc.co.uk/news/world-europe-57089249) - Aicha, 17, was one of only three people to survive out of 59 passengers in the boat.
 5. [China lands its Zhurong rover on Mars](https://www.bbc.co.uk/news/science-environment-57122914) - The six-wheeled robot has made the hazardous descent to the surface of the Red Planet, China announces.
 6. [Last Debenhams stores close their doors](https://www.bbc.co.uk/news/business-57119489) - After 240 years of trading, Debenhams's remaining stores are welcoming customers for the last time.
 7. [UK troops seize IS weapons in Mali operation](https://www.bbc.co.uk/news/uk-57123896) - A UK task force arrived in the West African country last year as part of a UN peacekeeping mission.
