@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 May 2021 21:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 21:34:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: Increasing confidence jabs work against Indian variant]]></title>
-            <description><![CDATA[There is "increasing confidence" Covid vaccines are effective against the variant, Matt Hancock says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57134181</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57134181</guid>
-            <pubDate>Sun, 16 May 2021 15:58:46 GMT</pubDate>
+            <title><![CDATA[Covid-19: Boris Johnson urges caution as lockdown eases for millions]]></title>
+            <description><![CDATA[As the rules change in England, Wales and most of Scotland, Boris Johnson urges people to remain cautious.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57136140</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57136140</guid>
+            <pubDate>Sun, 16 May 2021 21:30:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heysham explosion: Child dies and four adults injured in Lancashire blast]]></title>
@@ -58,13 +58,6 @@
             <pubDate>Sun, 16 May 2021 11:40:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[John Kerry: US climate envoy criticised for optimism on clean tech]]></title>
-            <description><![CDATA[John Kerry told the BBC technologies that don't yet exist will play a huge role in stabilising the climate.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57135506</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57135506</guid>
-            <pubDate>Sun, 16 May 2021 13:06:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Frankie Morris: Search for missing Anglesey teen continues]]></title>
             <description><![CDATA[Three people were arrested on Saturday in connection with Frankie Morris's disappearance on 2 May.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57136812</link>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/sport/boxing/56754526</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/56754526</guid>
             <pubDate>Sun, 16 May 2021 18:46:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concussion: Rugby 'should follow NFL' to reduce brain injury risk]]></title>
+            <description><![CDATA[Ex-professionals say the sport has been too slow to react to concerns about concussion.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57099164</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57099164</guid>
+            <pubDate>Sun, 16 May 2021 21:02:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Princess Diana: BBC postpones Panorama film on interview with Martin Bashir]]></title>
@@ -216,7 +216,7 @@
             <description><![CDATA[Chelsea concede four goals in the first 36 minutes as Barcelona blow them away to win the Women's Champions League final.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57102472</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57102472</guid>
-            <pubDate>Sun, 16 May 2021 21:08:42 GMT</pubDate>
+            <pubDate>Sun, 16 May 2021 21:32:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tottenham boost European hopes with win over Wolves]]></title>
@@ -241,7 +241,7 @@
         </item>
         <item>
             <title><![CDATA[La Liga highlights: Late Luis Suarez winner keeps Atletico Madrid top of the table]]></title>
-            <description><![CDATA[Luis Suarez scores a dramatic winning goal in the 88th minute as La Liga leaders Atletico Madrid come from behind against Osasuna to stay top of the table with one round of matches to play.]]></description>
+            <description><![CDATA[Luis Suarez scores a dramatic winning goal as Atletico Madrid come from one down to beat Osasuna 2-1 and stay top of La Liga with one round of matches to play.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57138624</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57138624</guid>
             <pubDate>Sun, 16 May 2021 21:00:45 GMT</pubDate>
