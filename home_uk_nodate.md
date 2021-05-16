@@ -1,4 +1,4 @@
-1. [Covid-19: Boris Johnson urges caution as lockdown eases for millions](https://www.bbc.co.uk/news/uk-57136140) - As the rules change in England, Wales and most of Scotland, Boris Johnson urges people to remain cautious.
+1. [Covid-19: Boris Johnson urges caution as lockdown eases for millions](https://www.bbc.co.uk/news/uk-57136140) - As rules change in England, Wales and most of Scotland, Boris Johnson urges people to remain cautious.
 2. [Heysham explosion: Child dies and four adults injured in Lancashire blast](https://www.bbc.co.uk/news/uk-england-lancashire-57132505) - Two-year-old George Hinds died in the explosion, which happened in the early hours of Sunday.
 3. [Israel Gaza conflict: Netanyahu says strikes to 'continue at full force'](https://www.bbc.co.uk/news/world-middle-east-57131272) - The Israeli PM's comments come as the UN Security Council is meeting to try to broker a ceasefire.
 4. [Two killed as seats collapse at synagogue in West Bank](https://www.bbc.co.uk/news/world-middle-east-57138151) - The structure at a partially built synagogue near Jerusalem had been packed for a religious festival.
