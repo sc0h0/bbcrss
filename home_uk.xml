@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 May 2021 06:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 06:57:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[As surge testing for the Indian Covid variant continues, the government rejects claims it was slow to act.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57131410</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57131410</guid>
-            <pubDate>Sun, 16 May 2021 03:43:04 GMT</pubDate>
+            <pubDate>Sun, 16 May 2021 06:42:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel Gaza conflict: Netanyahu vows to continue strikes]]></title>
@@ -37,18 +37,18 @@
             <pubDate>Sat, 15 May 2021 23:32:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: India travel ban defended, and virus experts on Monday's reopening]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Sunday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57131975</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57131975</guid>
+            <pubDate>Sun, 16 May 2021 06:30:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No alternative to vaccine passports, says Dubai airport boss]]></title>
             <description><![CDATA[Dubai is the world's busiest airport and its boss says vaccine passports will get us flying again.]]></description>
             <link>https://www.bbc.co.uk/news/business-57108969</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57108969</guid>
             <pubDate>Sat, 15 May 2021 23:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Santander banking services working again after day of technical problems]]></title>
-            <description><![CDATA[The bank says all of its services are now working as normal and promises "no one will be out of pocket".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57131476</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57131476</guid>
-            <pubDate>Sat, 15 May 2021 21:32:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Major incident declared in Lancashire after suspected gas explosion]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Sat, 15 May 2021 21:35:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Santander banking services working again after day of technical problems]]></title>
+            <description><![CDATA[The bank says all of its services are now working as normal and promises "no one will be out of pocket".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57131476</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57131476</guid>
+            <pubDate>Sat, 15 May 2021 21:32:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chelsea 0-1 Leicester: Foxes lift FA Cup for first time after Youri Tielemans stunner]]></title>
             <description><![CDATA[Leicester City lift the FA Cup for the first time as Youri Tielemans' stunning long-range goal earns victory over Chelsea at Wembley.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57055571</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57055571</guid>
             <pubDate>Sat, 15 May 2021 20:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid contracts: Priti Patel accused of lobbying for face mask firm]]></title>
-            <description><![CDATA[Labour calls for an investigation into a letter from Priti Patel, saying she did "a favour to her friend".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57129745</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57129745</guid>
-            <pubDate>Sat, 15 May 2021 17:37:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Property in Wales: Buying a home 'unachievable' for many]]></title>
@@ -122,7 +122,7 @@
         </item>
         <item>
             <title><![CDATA[Fostering: ‘I have fostered more than 60 children]]></title>
-            <description><![CDATA[Patricia Gray always wanted to help other children - but there's a warning less people are fostering.]]></description>
+            <description><![CDATA[Patricia Gray always wanted to help other children - but there's a warning fewer people are fostering.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56987695</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-56987695</guid>
             <pubDate>Sat, 15 May 2021 23:00:53 GMT</pubDate>
@@ -252,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57132929</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/57132929</guid>
             <pubDate>Sun, 16 May 2021 05:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FA Cup final: Kasper Schmeichel's 'awesome' saves as Leicester beat Chelsea at Wembley]]></title>
-            <description><![CDATA[Leicester captain Kasper Schmeichel says that winning the FA Cup with Leicester is "what dreams are made of" after the goalkeeper produces two incredible saves to help his side lift the trophy for the first time in their history.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57131762</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57131762</guid>
-            <pubDate>Sat, 15 May 2021 22:03:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
