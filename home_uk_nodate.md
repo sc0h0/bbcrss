@@ -6,8 +6,8 @@
 6. [India's Covid crisis hits Covax vaccine-sharing scheme](https://www.bbc.co.uk/news/world-57135368) - The largest single supplier to the international Covax scheme has made no shipments since March.
 7. [Campaign launched to mark Queen's Platinum Jubilee](https://www.bbc.co.uk/news/uk-57137057) - People across the UK are encouraged to "plant a tree for the Jubilee" to mark the Queen's 70-year reign.
 8. [Brexit: UK proposes new Irish Sea food checks from October](https://www.bbc.co.uk/news/uk-northern-ireland-57133682) - The details are contained in a roadmap shared with the EU, which has been seen by the BBC.
-9. [Firms call for more help after 'haemorrhaging cash'](https://www.bbc.co.uk/news/business-57133899) - Despite lockdown easing, businesses say they need more support to manage the impact of the last year.
-10. [Four men arrested in anti-Semitism video investigation](https://www.bbc.co.uk/news/uk-57137151) - Police arrest four men in connection with a video appearing to show anti-Semitic abuse shouted from a car.
+9. [Report anti-Semitism to police, Sadiq Khan urges](https://www.bbc.co.uk/news/uk-57145232) - It comes after four men were arrested in connection with a video appearing to show anti-Semitic abuse.
+10. [Firms call for more help after 'haemorrhaging cash'](https://www.bbc.co.uk/news/business-57133899) - Despite lockdown easing, businesses say they need more support to manage the impact of the last year.
 11. [Train derails and explodes into flames](https://www.bbc.co.uk/news/world-us-canada-57145192) - The freight train was carrying highly flammable fertiliser and nearby residents have been evacuated.
 12. [The cost of calling out a 'rape joke'](https://www.bbc.co.uk/news/world-asia-57086480) - One Malaysian teenager has braved a backlash for her principled stand.
 13. [In pictures: Lockdown eases in parts of the UK](https://www.bbc.co.uk/news/in-pictures-57141035) - Images from the day, as coronavirus rules are eased in England, Scotland and Wales.
@@ -37,7 +37,7 @@
 37. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown restrictions have eased in England, Scotland and Wales
 38. [What are the India, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - In some parts of the UK coronavirus cases are rising due to a variant from India that spreads more easily.
 39. [Covid: How should I protect myself now?](https://www.bbc.co.uk/news/health-57087517) - What are the actions we can take to reduce our risk of catching the virus?
-40. [Which countries are on the green list for foreign holidays?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are possible from 17 May, but there are still rules in place.
+40. [Which countries are on the green list for travel?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are possible from 17 May, but there are still rules in place.
 41. [Covid-19: Five ways to make hugging safer, from the experts](https://www.bbc.co.uk/news/uk-57083571) - Millions of people will be able to hug loved ones again from Monday. But can you minimise the risk?
 42. [Restaurants and pubs are reopening inside, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - People in England, Scotland and Wales will soon be able to drink inside a pub.
 43. [India variant: Why was India not put on the red list sooner?](https://www.bbc.co.uk/news/56801288) - India was put on the travel ban list two weeks after Pakistan and Bangladesh.
