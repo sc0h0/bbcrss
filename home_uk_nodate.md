@@ -2,13 +2,13 @@
 2. [Thousands head off for overseas holidays](https://www.bbc.co.uk/news/business-57138371) - Holidaymakers from England, Scotland and Wales are now able to jet off for some early summer sun.
 3. [Israel Gaza conflict: Homes and buildings destroyed in Sderot and Gaza City](https://www.bbc.co.uk/news/world-middle-east-57138838) - Rocket attacks on Israel and air strikes on Gaza have continued, turning homes on both sides to rubble.
 4. [Covid-19: PM's caution as lockdown rules ease and foreign holidays return](https://www.bbc.co.uk/news/uk-57138062) - Five things you need to know about the coronavirus pandemic this Monday morning.
-5. [India's Covid crisis hits Covax vaccine-sharing scheme](https://www.bbc.co.uk/news/world-57135368) - The largest single supplier to the international Covax scheme has made no shipments since March.
-6. [Campaign launched to mark Queen's Platinum Jubilee](https://www.bbc.co.uk/news/uk-57137057) - People across the UK are encouraged to "plant a tree for the Jubilee" to mark the Queen's 70-year reign.
-7. [Brexit: UK proposes new Irish Sea food checks from October](https://www.bbc.co.uk/news/uk-northern-ireland-57133682) - The details are contained in a roadmap shared with the EU, which has been seen by the BBC.
-8. [Four men arrested in anti-Semitism video investigation](https://www.bbc.co.uk/news/uk-57137151) - Police arrest four men in connection with a video appearing to show anti-Semitic abuse shouted from a car.
-9. [Long working hours killing 745,000 people a year, study finds](https://www.bbc.co.uk/news/business-57139434) - The World Health Organization says the trend may worsen due to the coronavirus pandemic.
-10. [Frankie Morris: Search for missing Anglesey teen continues](https://www.bbc.co.uk/news/uk-wales-57136812) - Three people were arrested on Saturday in connection with Frankie Morris's disappearance on 2 May.
-11. [UK plastic waste being dumped and burned in Turkey, says Greenpeace](https://www.bbc.co.uk/news/uk-57139474) - Greenpeace says it found plastic waste from UK supermarkets dumped and burned at numerous sites.
+5. [Covid: Thousands vaccinated in Indian variant-hit Bolton](https://www.bbc.co.uk/news/uk-england-manchester-57140919) - More than 6,200 people got jabs in Bolton over the weekend as the town battles the Indian variant.
+6. [India's Covid crisis hits Covax vaccine-sharing scheme](https://www.bbc.co.uk/news/world-57135368) - The largest single supplier to the international Covax scheme has made no shipments since March.
+7. [Campaign launched to mark Queen's Platinum Jubilee](https://www.bbc.co.uk/news/uk-57137057) - People across the UK are encouraged to "plant a tree for the Jubilee" to mark the Queen's 70-year reign.
+8. [Brexit: UK proposes new Irish Sea food checks from October](https://www.bbc.co.uk/news/uk-northern-ireland-57133682) - The details are contained in a roadmap shared with the EU, which has been seen by the BBC.
+9. [Four men arrested in anti-Semitism video investigation](https://www.bbc.co.uk/news/uk-57137151) - Police arrest four men in connection with a video appearing to show anti-Semitic abuse shouted from a car.
+10. [Long working hours killing 745,000 people a year, study finds](https://www.bbc.co.uk/news/business-57139434) - The World Health Organization says the trend may worsen due to the coronavirus pandemic.
+11. [Frankie Morris: Search for missing Anglesey teen continues](https://www.bbc.co.uk/news/uk-wales-57136812) - Three people were arrested on Saturday in connection with Frankie Morris's disappearance on 2 May.
 12. [The Papers: 'Don't blow it, Britain' as nations 'open up'](https://www.bbc.co.uk/news/blogs-the-papers-57138778) - The relaxation of lockdown rules, plus the warnings to remain "cautious", dominate Monday's papers.
 13. [The cost of calling out a 'rape joke'](https://www.bbc.co.uk/news/world-asia-57086480) - One Malaysian teenager has braved a backlash for her principled stand.
 14. [Lebanon in free-fall: 'For me, the country now is a large jail'](https://www.bbc.co.uk/news/world-middle-east-57118303) - With the local currency losing 85% of its value, Lebanon's economy is disintegrating.
