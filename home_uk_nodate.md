@@ -1,4 +1,4 @@
-1. [Covid-19: Lockdowns ease in England, Wales and most of Scotland](https://www.bbc.co.uk/news/uk-57136140) - People must remain cautious, the PM says, as lockdowns ease in England, Wales and most of Scotland.
+1. [Covid-19: Lockdowns ease in England, Wales and most of Scotland](https://www.bbc.co.uk/news/uk-57136140) - Rules on socialising indoors and foreign travel are lifted in England, Wales and most of Scotland.
 2. [Thousands set for overseas travel as rules change](https://www.bbc.co.uk/news/business-57138371) - Holidaymakers from England, Scotland and Wales are now able to jet off for some early summer sun.
 3. [Israel launches new strikes on Gaza as calls for ceasefire grow](https://www.bbc.co.uk/news/world-middle-east-57138996) - The pre-dawn Israeli air raids followed rocket attacks by Palestinian militants on southern Israel.
 4. [Israel Gaza conflict: Homes and buildings destroyed in Sderot and Gaza City](https://www.bbc.co.uk/news/world-middle-east-57138838) - Rocket attacks on Israel and air strikes on Gaza have continued, turning homes on both sides to rubble.
