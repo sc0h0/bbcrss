@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 May 2021 13:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 May 2021 13:54:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid-19: Lockdowns ease in England, Wales and most of Scotland]]></title>
-            <description><![CDATA[Rules on socialising indoors and foreign travel are lifted in England, Wales and most of Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57136140</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57136140</guid>
-            <pubDate>Mon, 17 May 2021 10:38:29 GMT</pubDate>
+            <title><![CDATA[Covid-19: Variant fears could delay England's social distancing review]]></title>
+            <description><![CDATA[Ministers are hoping to update businesses this month ahead of the planned lifting of all rules in June.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57146632</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57146632</guid>
+            <pubDate>Mon, 17 May 2021 13:47:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thousands head off for overseas holidays]]></title>
@@ -44,13 +44,6 @@
             <pubDate>Mon, 17 May 2021 13:21:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Long working hours killing 745,000 people a year, study finds]]></title>
-            <description><![CDATA[The World Health Organization says the trend may worsen due to the coronavirus pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57139434</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57139434</guid>
-            <pubDate>Mon, 17 May 2021 12:17:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Campaign launched to mark Queen's Platinum Jubilee]]></title>
             <description><![CDATA[People across the UK are encouraged to "plant a tree for the Jubilee" to mark the Queen's 70-year reign.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57137057</link>
@@ -72,11 +65,25 @@
             <pubDate>Mon, 17 May 2021 13:23:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Babes in the Wood: Killer's ex-girlfriend guilty of perjury]]></title>
+            <description><![CDATA[Jennifer Johnson is convicted after lying over key evidence in Russell Bishop's 1987 trial.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-57086650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57086650</guid>
+            <pubDate>Mon, 17 May 2021 13:02:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sarah Everard: Met Police officers investigated over case file access]]></title>
             <description><![CDATA[Officers who access records without a legitimate reason could be breaking the law, the Met says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57146622</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57146622</guid>
             <pubDate>Mon, 17 May 2021 12:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New emergency text alerts to be trialled]]></title>
+            <description><![CDATA[A warning system will tested to advise people in areas affected by floods, fires, terror attacks or industrial incidents.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57145675</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57145675</guid>
+            <pubDate>Mon, 17 May 2021 13:52:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Train derails and explodes into flames]]></title>
@@ -254,6 +261,13 @@
             <pubDate>Sun, 16 May 2021 23:30:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man Utd players affected by protests - Solskjaer]]></title>
+            <description><![CDATA[Manchester United players have been affected by the fan protests about the club's ownership, according to manager Ole Gunnar Solskjaer.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57143621</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57143621</guid>
+            <pubDate>Mon, 17 May 2021 12:31:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Emotional Alisson pays tribute to father after keeper's dramatic winner for Liverpool]]></title>
             <description><![CDATA[Alisson says he is "too emotional" as the goalkeeper scores a dramatic winner against West Brom to boost Liverpool's Champions League hopes.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57137796</link>
@@ -261,11 +275,11 @@
             <pubDate>Sun, 16 May 2021 19:56:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man Utd players affected by protests - Solskjaer]]></title>
-            <description><![CDATA[Manchester United players have been affected by the fan protests about the club's ownership, according to manager Ole Gunnar Solskjaer.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57143621</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57143621</guid>
-            <pubDate>Mon, 17 May 2021 12:31:07 GMT</pubDate>
+            <title><![CDATA[Cricket Australia contacts Bancroft to see if he has 'new information' about sandpaper scandal]]></title>
+            <description><![CDATA[Cricket Australia has reached out to Cameron Bancroft to see if he has "new information" about the sandpaper scandal after newspaper comments.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57147766</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57147766</guid>
+            <pubDate>Mon, 17 May 2021 13:34:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
