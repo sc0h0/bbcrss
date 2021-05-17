@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 May 2021 00:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 May 2021 02:00:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid-19: Lockdowns ease for millions in England, Wales and most of Scotland]]></title>
+            <title><![CDATA[Covid-19: Lockdowns ease in England, Wales and most of Scotland]]></title>
             <description><![CDATA[People must remain cautious, the PM says, as lockdowns ease in England, Wales and most of Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57136140</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57136140</guid>
-            <pubDate>Mon, 17 May 2021 00:32:39 GMT</pubDate>
+            <pubDate>Mon, 17 May 2021 00:51:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thousands set for overseas travel as rules change]]></title>
@@ -34,7 +34,7 @@
             <description><![CDATA[Gazan officials say 42 were killed, as the UN head calls for an end to "utterly appalling" violence.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57138996</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57138996</guid>
-            <pubDate>Mon, 17 May 2021 00:01:38 GMT</pubDate>
+            <pubDate>Mon, 17 May 2021 01:00:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel Gaza conflict: Homes and buildings destroyed in Sderot and Gaza City]]></title>
@@ -58,13 +58,6 @@
             <pubDate>Sun, 16 May 2021 20:43:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Heysham explosion: Child dies and four adults injured in Lancashire blast]]></title>
-            <description><![CDATA[Two-year-old George Hinds died in the explosion, which happened in the early hours of Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57132505</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57132505</guid>
-            <pubDate>Sun, 16 May 2021 16:01:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Campaign launched to mark Queen's Platinum Jubilee]]></title>
             <description><![CDATA[People across the UK are encouraged to "plant a tree for the Jubilee" to mark the Queen's 70-year reign.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57137057</link>
@@ -79,11 +72,25 @@
             <pubDate>Sun, 16 May 2021 22:31:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Heysham explosion: Child dies and four adults injured in Lancashire blast]]></title>
+            <description><![CDATA[Two-year-old George Hinds died in the explosion, which happened in the early hours of Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57132505</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57132505</guid>
+            <pubDate>Sun, 16 May 2021 16:01:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Frankie Morris: Search for missing Anglesey teen continues]]></title>
             <description><![CDATA[Three people were arrested on Saturday in connection with Frankie Morris's disappearance on 2 May.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57136812</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57136812</guid>
             <pubDate>Sun, 16 May 2021 18:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IPL: Australian cricketers caught by India ban fly home]]></title>
+            <description><![CDATA[It comes as the government faces fresh criticism for failing to support Australians stranded in India.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57139279</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57139279</guid>
+            <pubDate>Mon, 17 May 2021 01:16:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Concussion: Rugby 'should follow NFL' to reduce brain injury risk]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57138151</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57138151</guid>
             <pubDate>Sun, 16 May 2021 19:56:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Princess Diana: BBC postpones Panorama film on interview with Martin Bashir]]></title>
-            <description><![CDATA[The investigative film has been delayed over a “significant duty of care issue”, the broadcaster says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57135567</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57135567</guid>
-            <pubDate>Sun, 16 May 2021 15:18:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Don't blow it, Britain' as nations 'open up']]></title>
