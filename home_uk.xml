@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 May 2021 21:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 May 2021 21:54:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,25 @@
             <pubDate>Mon, 17 May 2021 15:53:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mary Bastholm: Excavation work to begin at Fred West cafe]]></title>
+            <description><![CDATA[Police say there is enough evidence to look for human remains in the search for Mary Bastholm, 15.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57152485</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-57152485</guid>
+            <pubDate>Mon, 17 May 2021 21:36:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Israel-Gaza violence: Calls to protect civilians as conflict endures]]></title>
             <description><![CDATA[The UN, US and UK are among those making calls for people caught in continuing, intense violence.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57148097</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57148097</guid>
             <pubDate>Mon, 17 May 2021 20:59:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holidaying Brits touch down in Portugal: 'It feels unreal']]></title>
+            <description><![CDATA[Leisure travel from England, Scotland and Wales, to a select number of countries, is now allowed.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57150141</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57150141</guid>
+            <pubDate>Mon, 17 May 2021 18:20:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: More than 6,000 vaccinated in Bolton over variant]]></title>
@@ -79,20 +93,6 @@
             <pubDate>Mon, 17 May 2021 13:52:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Holidaying Brits touch down in Portugal: 'It feels unreal']]></title>
-            <description><![CDATA[Leisure travel from England, Scotland and Wales, to a select number of countries, is now allowed.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57150141</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57150141</guid>
-            <pubDate>Mon, 17 May 2021 18:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pembrokeshire school bus crash: Car driver dies and 17 children hurt]]></title>
-            <description><![CDATA[Two of the 17 children hurt in Monday morning's school bus crash were taken to hospital.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57142836</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57142836</guid>
-            <pubDate>Mon, 17 May 2021 19:45:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[School protests force U-turn after sick pupil banned from wearing cap]]></title>
             <description><![CDATA[Pupils wearing caps and hoodies gather outside a school in support of Ella Goodwin on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-derbyshire-57124276</link>
@@ -104,7 +104,14 @@
             <description><![CDATA[Images from the day, as coronavirus rules are eased in England, Scotland and Wales.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-57141035</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57141035</guid>
-            <pubDate>Mon, 17 May 2021 14:14:43 GMT</pubDate>
+            <pubDate>Mon, 17 May 2021 21:46:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The day a mother can finally hug her daughter]]></title>
+            <description><![CDATA[Front line worker Viv Hudson from Southampton hasn't hugged her daughter for over a year – until now.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57150385</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57150385</guid>
+            <pubDate>Mon, 17 May 2021 21:38:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Bingo is 'biggest thing I've missed in lockdown']]></title>
@@ -303,6 +310,20 @@
             <pubDate>Mon, 17 May 2021 20:53:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Danjuma gives Bournemouth first-leg win over Brentford]]></title>
+            <description><![CDATA[Bournemouth take a 1-0 lead over Brentford from their Championship play-off semi-final first leg thanks to Arnaut Danjuma's goal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57052707</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57052707</guid>
+            <pubDate>Mon, 17 May 2021 20:22:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ayew gives Swansea narrow lead over Barnsley in Championship play-offs ]]></title>
+            <description><![CDATA[Swansea will take a narrow advantage back to south Wales for the second leg of their Championship play-off semi-final with Barnsley.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57052708</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57052708</guid>
+            <pubDate>Mon, 17 May 2021 21:38:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Premiership leaders Bristol brush aside 14-man Gloucester]]></title>
             <description><![CDATA[Premiership leaders Bristol Bears comfortably beat 14-man Gloucester 39-7, despite having eight tries ruled out.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57088695</link>
@@ -314,21 +335,7 @@
             <description><![CDATA[St Helens mark the return of fans to the Totally Wicked Stadium with five tries to beat Salford and keep up their winning run.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/57128265</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/57128265</guid>
-            <pubDate>Mon, 17 May 2021 21:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tears, fury & broken bones: that'll be the Giro d'Italia's first week done, then]]></title>
-            <description><![CDATA[BBC Sport takes a look at the biggest talking points from the opening stages of the Giro d'Italia.]]></description>
-            <link>https://www.bbc.co.uk/sport/cycling/57121771</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57121771</guid>
-            <pubDate>Mon, 17 May 2021 15:40:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Only the seventh time since 1988 - why Taylor's fight against Ramirez is 'the rarest of occasions']]></title>
-            <description><![CDATA[Scotland's Josh Taylor will fight for all four world titles on Saturday - only the seventh time that has happened since 1988.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/57149228</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57149228</guid>
-            <pubDate>Mon, 17 May 2021 18:51:26 GMT</pubDate>
+            <pubDate>Mon, 17 May 2021 21:47:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
