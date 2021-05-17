@@ -2,7 +2,7 @@
 2. [Thousands head off for overseas holidays](https://www.bbc.co.uk/news/business-57138371) - Holidaymakers from England, Scotland and Wales are now able to jet off for some early summer sun.
 3. [Israel Gaza conflict: Homes and buildings destroyed in Sderot and Gaza City](https://www.bbc.co.uk/news/world-middle-east-57138838) - Rocket attacks on Israel and air strikes on Gaza have continued, turning homes on both sides to rubble.
 4. [Covid-19: PM's caution as lockdown rules ease and foreign holidays return](https://www.bbc.co.uk/news/uk-57138062) - Five things you need to know about the coronavirus pandemic this Monday morning.
-5. [Covid: Thousands vaccinated in Indian variant-hit Bolton](https://www.bbc.co.uk/news/uk-england-manchester-57140919) - More than 6,200 people got jabs in Bolton over the weekend as the town battles the Indian variant.
+5. [Covid: More than 6,000 vaccinated in Bolton over variant](https://www.bbc.co.uk/news/uk-england-manchester-57140919) - Thousands of people got jabs in Bolton over the weekend as the town battles the Indian variant.
 6. [India's Covid crisis hits Covax vaccine-sharing scheme](https://www.bbc.co.uk/news/world-57135368) - The largest single supplier to the international Covax scheme has made no shipments since March.
 7. [Campaign launched to mark Queen's Platinum Jubilee](https://www.bbc.co.uk/news/uk-57137057) - People across the UK are encouraged to "plant a tree for the Jubilee" to mark the Queen's 70-year reign.
 8. [Brexit: UK proposes new Irish Sea food checks from October](https://www.bbc.co.uk/news/uk-northern-ireland-57133682) - The details are contained in a roadmap shared with the EU, which has been seen by the BBC.
