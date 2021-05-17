@@ -1,6 +1,6 @@
 1. [Covid: Indian variant cases in 86 council areas - Hancock](https://www.bbc.co.uk/news/uk-57150131) - It's not just Bolton and Blackburn, says the health secretary, as he urges people to get vaccinated.
 2. [Thousands head off for overseas holidays](https://www.bbc.co.uk/news/business-57138371) - Holidaymakers from England, Scotland and Wales are now able to jet off for some early summer sun.
-3. [Israel-Gaza violence: Calls to protect civilians as conflict endures](https://www.bbc.co.uk/news/world-middle-east-57148097) - The UN, US and UK are among those making pleas for people caught in continuing, intense violence.
+3. [Israel-Gaza violence: Calls to protect civilians as conflict endures](https://www.bbc.co.uk/news/world-middle-east-57148097) - The UN, US and UK are among those making calls for people caught in continuing, intense violence.
 4. [Covid: More than 6,000 vaccinated in Bolton over variant](https://www.bbc.co.uk/news/uk-england-manchester-57140919) - Thousands of people got jabs in Bolton over the weekend as the town battles the Indian variant.
 5. [Covid-19: Indian variant cases up by 1,000, as surge vaccination picks up pace](https://www.bbc.co.uk/news/uk-57146180) - Five things you need to know about the coronavirus pandemic this Monday evening.
 6. [Babes in the Wood: Killer's ex-girlfriend guilty of perjury](https://www.bbc.co.uk/news/uk-england-sussex-57086650) - Jennifer Johnson faces jail after being convicted of lying in Russell Bishop's 1987 trial.
