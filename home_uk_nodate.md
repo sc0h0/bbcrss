@@ -4,7 +4,7 @@
 4. [Covid: Nurse who cared for PM resigns from NHS](https://www.bbc.co.uk/news/uk-57162428) - Jenny McGee says NHS workers are not getting the pay or respect they deserve from the government.
 5. [Covid-19: PM says nothing conclusive on changing roadmap and holiday firms refuse refunds](https://www.bbc.co.uk/news/uk-57162577) - Five things you need to know about the coronavirus pandemic this Tuesday evening.
 6. [Ceuta: Spain sends troops as 8,000 migrants enter enclave](https://www.bbc.co.uk/news/world-europe-57156320) - PM Pedro Sánchez vows to restore order as migrants wade and swim into Ceuta from Morocco.
-7. [Climate change: Ban all gas boilers from 2025 to reach net-zero](https://www.bbc.co.uk/news/science-environment-57149059) - A ban on new gas boilers from 2025 is one step to reach net-zero emissions by 2050, say energy experts.
+7. [Climate change: Ban new gas boilers from 2025 to reach net-zero](https://www.bbc.co.uk/news/science-environment-57149059) - A ban on new gas boilers from 2025 is one step to reach net-zero emissions by 2050, say energy experts.
 8. [UK farmers sound alarm over Australia trade talks](https://www.bbc.co.uk/news/business-57157094) - Labour accuse the government of a "sell-out" amid reports of a Cabinet rift over free trade deal.
 9. [Covid: Dominic Cummings accuses government of secrecy](https://www.bbc.co.uk/news/uk-politics-57160291) - The PM's ex-adviser posts tweets calling the handling of the pandemic "part disaster, part non-existent".
 10. [Met officer who shouted 'free Palestine' at demo under investigation](https://www.bbc.co.uk/news/uk-england-london-57159166) - The uniformed police officer was filmed at a Palestine solidarity demonstration on Saturday.
