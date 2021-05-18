@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 May 2021 05:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 06:33:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,10 +24,17 @@
         </item>
         <item>
             <title><![CDATA[Israel-Gaza violence: Joe Biden calls for ceasefire]]></title>
-            <description><![CDATA[The US president spoke with Israeli PM Benjamin Netanyahu as violence continues.]]></description>
+            <description><![CDATA[The US president spoke with Israeli Prime Minister Benjamin Netanyahu as violence continues.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57152723</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57152723</guid>
-            <pubDate>Tue, 18 May 2021 04:43:00 GMT</pubDate>
+            <pubDate>Tue, 18 May 2021 06:26:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK jobless rate falls slightly to 4.8% in March]]></title>
+            <description><![CDATA[The unemployment rate was 4.8% in the three months to March, compared with 4.9% last time.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57154345</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57154345</guid>
+            <pubDate>Tue, 18 May 2021 06:30:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Ban all gas boilers from 2025 to reach net-zero]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57152169</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57152169</guid>
             <pubDate>Tue, 18 May 2021 00:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thousands head off for overseas holidays]]></title>
-            <description><![CDATA[Holidaymakers from England, Scotland and Wales are now able to jet off for some early summer sun.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57138371</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57138371</guid>
-            <pubDate>Mon, 17 May 2021 15:53:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: Fears over variant spread as millions reunited]]></title>
@@ -251,7 +251,7 @@
             <description><![CDATA[Harry Kane reiterates his desire to leave Tottenham, while Manchester City face competition from Manchester United for Nuno Mendes, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/57147843</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/57147843</guid>
-            <pubDate>Mon, 17 May 2021 22:25:28 GMT</pubDate>
+            <pubDate>Tue, 18 May 2021 05:55:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Returning fans were our 12th man' - sport reopens its doors to spectators]]></title>
