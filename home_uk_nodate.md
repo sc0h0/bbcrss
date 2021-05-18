@@ -1,4 +1,4 @@
-1. [Covid-19: Nothing conclusive on changing roadmap, says PM](https://www.bbc.co.uk/news/uk-57159286) - Boris Johnson says "we’ll know a lot more in a few days time", amid concern over the Indian variant.
+1. [Covid-19: Too soon to decide on roadmap changes, PM says](https://www.bbc.co.uk/news/uk-57159286) - Boris Johnson says "we’ll know a lot more in a few days time", amid concern over the Indian variant.
 2. [Climate change: Ban all gas boilers from 2025 to reach net-zero](https://www.bbc.co.uk/news/science-environment-57149059) - A ban on new gas boilers from 2025 is one step to reach net-zero emissions by 2050, say energy experts.
 3. [Kiyan Prince to become virtual Fifa player](https://www.bbc.co.uk/sport/football/57155354) - Former QPR youth player Kiyan Prince is added to Fifa 21 to mark the 15th anniversary of his death.
 4. [Zoe Ball leaves Strictly: It Takes Two](https://www.bbc.co.uk/news/entertainment-arts-57020858) - The presenter has hosted BBC Two's Strictly Come Dancing spin-off since 2011.
