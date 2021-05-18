@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 May 2021 02:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 02:46:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: Ministers to step up vaccine take up calls amid variant fears]]></title>
+            <description><![CDATA[Matt Hancock is urging anyone who is unsure about having a Covid jab to "look at the situation in Bolton".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57152901</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57152901</guid>
+            <pubDate>Tue, 18 May 2021 02:09:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel-Gaza violence: Joe Biden calls for ceasefire]]></title>
             <description><![CDATA[The US president spoke with Israeli PM Benjamin Netanyahu as violence continues.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57152723</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57152723</guid>
             <pubDate>Tue, 18 May 2021 01:04:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Indian variant cases in 86 council areas - Hancock]]></title>
-            <description><![CDATA[It's not just Bolton and Blackburn, says the health secretary, as he urges people to get vaccinated.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57150131</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57150131</guid>
-            <pubDate>Mon, 17 May 2021 20:22:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thousands head off for overseas holidays]]></title>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-57144297</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57144297</guid>
             <pubDate>Mon, 17 May 2021 23:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pfizer vaccine can now be stored in fridge for longer, EU drug regulator says]]></title>
+            <description><![CDATA[The European Medicines Agency ruling could help the EU's Covid vaccine rollout.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57152719</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57152719</guid>
+            <pubDate>Tue, 18 May 2021 01:36:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mary Bastholm: Excavation work to begin at Fred West cafe]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57152169</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57152169</guid>
             <pubDate>Tue, 18 May 2021 00:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: More than 6,000 vaccinated in Bolton over variant]]></title>
-            <description><![CDATA[Thousands of people got jabs in Bolton over the weekend as the town battles the Indian variant.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57140919</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57140919</guid>
-            <pubDate>Mon, 17 May 2021 13:21:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Babes in the Wood: Killer's ex-girlfriend guilty of perjury]]></title>
@@ -170,7 +170,7 @@
             <pubDate>Mon, 17 May 2021 23:32:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in India: Tracing a family’s fight to save a father]]></title>
+            <title><![CDATA[Covid in India: Tracing a family’s journey to save a life]]></title>
             <description><![CDATA[Covid has overrun India's hospitals, leaving many fighting to find treatment for sick relatives.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57111161</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57111161</guid>
