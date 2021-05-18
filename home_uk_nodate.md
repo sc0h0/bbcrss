@@ -3,7 +3,7 @@
 3. [Kiyan Prince to become virtual Fifa player](https://www.bbc.co.uk/sport/football/57155354) - Former QPR youth player Kiyan Prince is added to Fifa 21 to mark the 15th anniversary of his death.
 4. [Zoe Ball leaves Strictly: It Takes Two](https://www.bbc.co.uk/news/entertainment-arts-57020858) - The presenter has hosted BBC Two's Strictly Come Dancing spin-off since 2011.
 5. [Fred West: Police to excavate cafe toilet in missing girl search](https://www.bbc.co.uk/news/uk-england-gloucestershire-57154839) - Police searching for Mary Bastholm will examine six areas of a Gloucester cafe she worked at.
-6. [Over a million needed hospital care for obesity](https://www.bbc.co.uk/news/health-57144922) - The record number provides the clearest indication yet of the scale of the problem in 2020.
+6. [Over a million hospital admissions for obesity](https://www.bbc.co.uk/news/health-57144922) - The record number provides the clearest indication yet of the scale of the problem in 2020.
 7. [UK job vacancies highest for a year as lockdown eases](https://www.bbc.co.uk/news/business-57154345) - The jobs market is showing "early signs of recovery" as unemployment rate falls, official figures show.
 8. [Just 20 firms behind more than half of single-use plastic waste - study](https://www.bbc.co.uk/news/science-environment-57149741) - The study looked at approximately 1,000 factories that make the raw materials for single-use products.
 9. [Four men bailed in anti-Semitism video investigation](https://www.bbc.co.uk/news/uk-57156047) - Police arrested four men in connection with a video appearing to show anti-Semitic abuse shouted from a car.
