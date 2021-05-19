@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 May 2021 15:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 15:55:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Boris Johnson says data gives hope vaccines protect against the Indian variant, as cases near 3,000.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57172139</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57172139</guid>
-            <pubDate>Wed, 19 May 2021 15:25:45 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 15:53:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EU envoys back entry for non-essential travel]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Wed, 19 May 2021 10:22:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Malawi burns thousands of expired AstraZeneca Covid-19 vaccine doses]]></title>
-            <description><![CDATA[Health officials hope the event will increase public confidence in getting the vaccination.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57168841</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57168841</guid>
-            <pubDate>Wed, 19 May 2021 14:49:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Princess Beatrice expecting baby in autumn]]></title>
             <description><![CDATA[Buckingham Palace says the Royal Family is "delighted" with the news, following her wedding in 2020.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57167879</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57167879</guid>
             <pubDate>Wed, 19 May 2021 10:20:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glastonbury secures licence for one-day September festival]]></title>
+            <description><![CDATA[Organisers hope to stage a one-day event, after cancelling this summer's main festival.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57174475</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57174475</guid>
+            <pubDate>Wed, 19 May 2021 14:03:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eurovision: Iceland out of live shows due to Covid]]></title>
@@ -112,6 +112,20 @@
             <link>https://www.bbc.co.uk/news/business-57155307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57155307</guid>
             <pubDate>Tue, 18 May 2021 23:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccines: Malawi incinerates thousands of expired doses]]></title>
+            <description><![CDATA[Health authorities burned thousands of expired AstraZeneca doses, hoping to boost public confidence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57173348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57173348</guid>
+            <pubDate>Wed, 19 May 2021 15:19:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why we want older farmers to hang up their wellies]]></title>
+            <description><![CDATA[Young farmers welcome a government grant to encourage older generations to retire early.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57172065</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57172065</guid>
+            <pubDate>Wed, 19 May 2021 15:20:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lake District mystery as elaborate stone artworks appear]]></title>
@@ -149,34 +163,6 @@
             <pubDate>Wed, 19 May 2021 11:15:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[People pay to watch me play chess]]></title>
-            <description><![CDATA[With chess surging in popularity, a group of young, charismatic players have built huge audiences online.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57159727</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57159727</guid>
-            <pubDate>Tue, 18 May 2021 23:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Women are perfectionists - it can hold us back']]></title>
-            <description><![CDATA[Anna Brailsford from Code First Girls on the personality trait she thinks holds women back at work.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57071925</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57071925</guid>
-            <pubDate>Tue, 18 May 2021 23:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robot artist Ai-Da self-portraits go on display]]></title>
-            <description><![CDATA[Self-portraits by Ai-Da, an artist android, go on display at the Design Museum in London.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57093887</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57093887</guid>
-            <pubDate>Tue, 18 May 2021 23:21:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why has May been so wet?]]></title>
-            <description><![CDATA[Many parts of the UK have already seen rainfall totals exceeding the monthly average - so why has it been such a soggy month?]]></description>
-            <link>https://www.bbc.co.uk/weather/features/57156159</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/weather/features/57156159</guid>
-            <pubDate>Tue, 18 May 2021 13:32:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Israel-Gaza violence: The children who have died in the conflict]]></title>
             <description><![CDATA[Dozens of children have been killed in Gaza, and two have been killed in Israel. Here's what we know.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57142627</link>
@@ -191,11 +177,11 @@
             <pubDate>Wed, 19 May 2021 11:43:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid Indian variant: Where is it, how does it spread and is it more infectious?]]></title>
-            <description><![CDATA[B.1.617.2 is dominant in some parts of the country - but it doesn't have to be cause for panic yet.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57157496</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57157496</guid>
-            <pubDate>Wed, 19 May 2021 00:05:21 GMT</pubDate>
+            <title><![CDATA[Checking Matt Hancock's claim about Covid cases from India]]></title>
+            <description><![CDATA[Were arrivals from Pakistan and Bangladesh three times more likely to have Covid than those from India?]]></description>
+            <link>https://www.bbc.co.uk/news/57172793</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/57172793</guid>
+            <pubDate>Wed, 19 May 2021 15:44:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India's holiest river Ganges is swollen with Covid victims]]></title>
@@ -301,6 +287,13 @@
             <link>https://www.bbc.co.uk/news/explainers-52544307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
             <pubDate>Wed, 19 May 2021 14:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid Indian variant: Where is it, how does it spread and is it more infectious?]]></title>
+            <description><![CDATA[B.1.617.2 is dominant in some parts of the country - but it doesn't have to be cause for panic yet.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57157496</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57157496</guid>
+            <pubDate>Wed, 19 May 2021 00:05:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown easing: Virus experts tell us what they will (and won't) be doing]]></title>
