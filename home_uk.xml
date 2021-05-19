@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 May 2021 05:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 05:37:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,7 +23,7 @@
             <pubDate>Wed, 19 May 2021 04:45:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Daniel Morgan: Delay to axe murder report 'kick in teeth']]></title>
+            <title><![CDATA[Daniel Morgan: Delay to report on axe murder 'kick in teeth']]></title>
             <description><![CDATA[Publication of the report into Daniel Morgan's unsolved murder is held up by a Home Office review.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57165909</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57165909</guid>
@@ -35,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57160297</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57160297</guid>
             <pubDate>Tue, 18 May 2021 23:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pelosi calls for China Winter Olympics boycott]]></title>
-            <description><![CDATA[The Speaker of the House said heads of state should not attend the Games due to human rights abuses.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57166964</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57166964</guid>
-            <pubDate>Wed, 19 May 2021 03:40:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel-Gaza: Netanyahu says militants 'set back by years']]></title>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/business-57158372</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57158372</guid>
             <pubDate>Wed, 19 May 2021 04:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK government to pay older farmers to retire]]></title>
+            <description><![CDATA[Older farmers will be paid to retire under a UK government scheme to bring new blood into the trade.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57149744</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57149744</guid>
+            <pubDate>Tue, 18 May 2021 23:09:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unpublished hospital patient safety reports exposed]]></title>
@@ -79,6 +79,13 @@
             <pubDate>Wed, 19 May 2021 00:16:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pelosi calls for China Winter Olympics boycott]]></title>
+            <description><![CDATA[The Speaker of the House said heads of state should not attend the Games due to human rights abuses.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57166964</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57166964</guid>
+            <pubDate>Wed, 19 May 2021 03:40:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Somerton man: Body exhumed in bid to solve Australian mystery]]></title>
             <description><![CDATA[Investigators hope DNA advances will uncover clues as to the identity of the body found in the 1940s.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-57166662</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57156320</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57156320</guid>
             <pubDate>Tue, 18 May 2021 21:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK government to pay older farmers to retire]]></title>
-            <description><![CDATA[Older farmers will be paid to retire under a UK government scheme to bring new blood into the trade.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57149744</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57149744</guid>
-            <pubDate>Tue, 18 May 2021 23:09:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: Holiday rules 'chaos' and PM Covid nurse quits NHS]]></title>
@@ -177,7 +177,7 @@
             <pubDate>Wed, 19 May 2021 00:05:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India's holiest river is swollen with Covid victims]]></title>
+            <title><![CDATA[India's holiest river Ganges is swollen with Covid victims]]></title>
             <description><![CDATA[Hundreds of corpses have been found floating in the Ganges or buried in the sand of its banks.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57154564</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57154564</guid>
@@ -212,11 +212,11 @@
             <pubDate>Tue, 18 May 2021 23:02:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chelsea beat Leicester to boost hopes of Champions League qualification]]></title>
-            <description><![CDATA[Chelsea beat Leicester City to boost their Champions League hopes - and leave the Foxes in danger of missing out.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57066729</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57066729</guid>
-            <pubDate>Tue, 18 May 2021 21:38:36 GMT</pubDate>
+            <title><![CDATA[Champions League top-four race: Chelsea take control as Leicester lose grip]]></title>
+            <description><![CDATA[Chelsea manager Thomas Tuchel warns his side "the job is not done yet" - but is this deja vu for Leicester City?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57166348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57166348</guid>
+            <pubDate>Tue, 18 May 2021 22:26:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guardiola's Champions League final warning after Man City lose thriller at Brighton]]></title>
@@ -230,14 +230,7 @@
             <description><![CDATA[Should Harry Kane stay and cement his status as a Tottenham legend or leave to chase trophies elsewhere? BBC Sport weighs up the England captain's options.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57156888</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57156888</guid>
-            <pubDate>Tue, 18 May 2021 15:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Champions League top-four race: Chelsea take control as Leicester lose grip]]></title>
-            <description><![CDATA[Chelsea manager Thomas Tuchel warns his side "the job is not done yet" - but is this deja vu for Leicester City?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57166348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57166348</guid>
-            <pubDate>Tue, 18 May 2021 22:26:10 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 05:34:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tyson Fury: 'Deontay Wilder wants $20m to let Anthony Joshua fight happen']]></title>
@@ -247,11 +240,18 @@
             <pubDate>Tue, 18 May 2021 21:30:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Cantona-esque' - but should Edinson Cavani's sublime chip for Man Utd against Fulham have stood?]]></title>
-            <description><![CDATA[Match of the Day pundits Ashley Williams and Dion Dublin discuss Edinson Cavani's classy finish for Manchester United against Fulham, before questioning whether it should have been ruled out for offside.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57166652</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57166652</guid>
-            <pubDate>Tue, 18 May 2021 23:14:11 GMT</pubDate>
+            <title><![CDATA[Kiawah Island victory will be no advantage this week - McIlroy]]></title>
+            <description><![CDATA[Rory McIlroy says his US PGA Championship victory at Kiawah Island in 2012 will not give him an advantage on his return.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/57165606</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57165606</guid>
+            <pubDate>Tue, 18 May 2021 21:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea beat Leicester to boost hopes of Champions League qualification]]></title>
+            <description><![CDATA[Chelsea beat Leicester City to boost their Champions League hopes - and leave the Foxes in danger of missing out.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57066729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57066729</guid>
+            <pubDate>Tue, 18 May 2021 21:38:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can two households travel in one car? And other questions]]></title>
