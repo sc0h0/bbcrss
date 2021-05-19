@@ -1,10 +1,10 @@
 1. [Daniel Morgan: Delay to report on axe murder 'kick in teeth'](https://www.bbc.co.uk/news/uk-england-london-57165909) - Publication of the report into Daniel Morgan's unsolved murder is held up by a Home Office review.
 2. [New York prosecutor says Trump inquiry now criminal](https://www.bbc.co.uk/news/world-us-canada-57166735) - A spokesman for the state's top prosecutor says the inquiry is "no longer purely civil".
-3. [Israel-Gaza: Hamas chiefs targeted as truce efforts stall](https://www.bbc.co.uk/news/world-middle-east-57168051) - Rocket fire and air strikes continue overnight as the Israel-Gaza conflict enters a 10th day.
+3. [Israel-Gaza: Hamas chiefs targeted as truce efforts stall](https://www.bbc.co.uk/news/world-middle-east-57168051) - Rocket fire and air strikes continue as the Israel-Gaza conflict enters a 10th day.
 4. [Demi Lovato is non-binary and is changing pronouns to they/them, singer announces](https://www.bbc.co.uk/news/newsbeat-57169541) - "Today is a day I'm so happy to share more of my life with you all," the US singer tells fans.
 5. [Princess Beatrice expecting baby in autumn](https://www.bbc.co.uk/news/uk-57167879) - Buckingham Palace says the Royal Family is "delighted" with the news, following her wedding in 2020.
-6. [Eurovision: Ireland and Australia eliminated in first semi-final](https://www.bbc.co.uk/news/entertainment-arts-57168731) - They are among six nations whose participation in the contest ended in Tuesday's first semi-final.
-7. [Unpublished hospital patient safety reports exposed](https://www.bbc.co.uk/news/health-57144923) - BBC Panorama finds dozens of reports into concerns over hospital services have not been made public.
+6. [Malawi burns thousands of Covid-19 vaccine doses](https://www.bbc.co.uk/news/world-africa-57168841) - Health officials hope the event will increase public confidence in getting the vaccination.
+7. [Eurovision: Ireland and Australia eliminated in first semi-final](https://www.bbc.co.uk/news/entertainment-arts-57168731) - They are among six nations whose participation in the contest ended in Tuesday's first semi-final.
 8. [UK inflation rate more than doubles in April](https://www.bbc.co.uk/news/business-57165266) - Inflation in the UK rose by 1.5% in the year to April, compared with 0.7% in March.
 9. [UK government to pay older farmers to retire](https://www.bbc.co.uk/news/science-environment-57149744) - Older farmers in England will be paid to retire under a government scheme.
 10. [Rape victims: Calls for pre-recorded evidence to be used in trials](https://www.bbc.co.uk/news/uk-57148705) - Seeing defendants face-to-face in court causes unnecessary stress, the victims' commissioner says.
