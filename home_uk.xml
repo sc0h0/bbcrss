@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 May 2021 13:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 14:20:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Boris Johnson says new data gives hope Covid-19 vaccines are effective against the Indian variant.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57172139</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57172139</guid>
-            <pubDate>Wed, 19 May 2021 13:13:53 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 14:00:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EU envoys back entry for non-essential travel]]></title>
@@ -51,11 +51,18 @@
             <pubDate>Wed, 19 May 2021 13:17:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bitcoin falls further as China cracks down on crypto currencies]]></title>
+            <description><![CDATA[The price of Bitcoin fell below $34,000 for the first time in three months after China imposed fresh curbs.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57169726</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57169726</guid>
+            <pubDate>Wed, 19 May 2021 13:43:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brexit: Boris Johnson prepared to throw farmers under bus, says SNP]]></title>
             <description><![CDATA[Ian Blackford attacks a proposed Australian trade deal, but the PM says it is a "massive opportunity".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57169471</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57169471</guid>
-            <pubDate>Wed, 19 May 2021 12:28:39 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 14:08:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Demi Lovato is non-binary and is changing pronouns to they/them, singer announces]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Wed, 19 May 2021 10:20:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin falls further as China cracks down on crypto currencies]]></title>
-            <description><![CDATA[The price of Bitcoin fell below $34,000 for the first time in three months after China imposed fresh curbs.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57169726</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57169726</guid>
-            <pubDate>Wed, 19 May 2021 13:43:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Eurovision: Iceland out of live shows due to Covid]]></title>
             <description><![CDATA[A pre-recorded performance will be used instead after a member of Daði og Gagnamagnið tests positive.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57171712</link>
@@ -100,6 +100,13 @@
             <pubDate>Wed, 19 May 2021 11:12:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Friends stars discuss what their characters would be doing now]]></title>
+            <description><![CDATA[Joey would be running a sandwich shop while Rachel would have a clothing line, the show's stars say.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57174331</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57174331</guid>
+            <pubDate>Wed, 19 May 2021 13:51:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['We've booked two summer holidays for the same time']]></title>
             <description><![CDATA[UK holidaymakers are reportedly double-booking breaks this summer to make sure they don't miss out.]]></description>
             <link>https://www.bbc.co.uk/news/business-57155307</link>
@@ -112,13 +119,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-57169995</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-57169995</guid>
             <pubDate>Wed, 19 May 2021 12:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Quiet Place Part II: Critics praise delayed sequel to 2018 horror hit]]></title>
-            <description><![CDATA[A Quiet Place Part II is coming out more than a year later than planned because of the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57168737</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57168737</guid>
-            <pubDate>Wed, 19 May 2021 11:15:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK weather: Why is it so bad at the moment?]]></title>
@@ -140,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-57163173</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57163173</guid>
             <pubDate>Tue, 18 May 2021 23:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Quiet Place Part II: Critics praise delayed sequel to 2018 horror hit]]></title>
+            <description><![CDATA[A Quiet Place Part II is coming out more than a year later than planned because of the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57168737</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57168737</guid>
+            <pubDate>Wed, 19 May 2021 11:15:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[People pay to watch me play chess]]></title>
@@ -191,18 +198,18 @@
             <pubDate>Wed, 19 May 2021 00:06:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Grayson Perry: Bloated bits of art world could go down the pan... maybe that includes me]]></title>
+            <description><![CDATA[The Turner Prize winner says art fairs and other "money-drenched" bits of the market may not return.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57157879</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57157879</guid>
+            <pubDate>Tue, 18 May 2021 23:07:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Under deadly attack French police demand better protection]]></title>
             <description><![CDATA[Officers call for a tougher response to the violence they face after two were killed within a month.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57156837</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57156837</guid>
             <pubDate>Wed, 19 May 2021 00:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ezinma: How Beyoncé's violinist is tearing up the classical rulebook]]></title>
-            <description><![CDATA[The musician is pushing classical music forward with her fusion of orchestral music and trap beats.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57120365</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57120365</guid>
-            <pubDate>Wed, 19 May 2021 00:06:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Schalke's Bundesliga agony: Champions for four minutes & 38 seconds]]></title>
@@ -219,11 +226,25 @@
             <pubDate>Wed, 19 May 2021 00:33:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ezinma: How Beyoncé's violinist is tearing up the classical rulebook]]></title>
+            <description><![CDATA[The musician is pushing classical music forward with her fusion of orchestral music and trap beats.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57120365</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57120365</guid>
+            <pubDate>Wed, 19 May 2021 00:06:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uncapped Gilmour, Turnbull and Patterson get Scotland call for Euros]]></title>
             <description><![CDATA[Steve Clarke springs a surprise by including uncapped trio Billy Gilmour, Nathan Patterson and David Turnbull in Scotland's 26-man squad for Euro 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57171330</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57171330</guid>
             <pubDate>Wed, 19 May 2021 11:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spurs 'lost sight of priorities' as stadium was built - Levy]]></title>
+            <description><![CDATA[Tottenham chairman Daniel Levy says the club "lost sight of some key priorities" during construction of their new stadium and the Covid-19 pandemic.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57173204</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57173204</guid>
+            <pubDate>Wed, 19 May 2021 13:34:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tyson Fury: 'Deontay Wilder wants $20m to let Anthony Joshua fight happen']]></title>
@@ -238,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/56972369</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/56972369</guid>
             <pubDate>Sun, 16 May 2021 23:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spurs 'lost sight of priorities' as stadium was built - Levy]]></title>
-            <description><![CDATA[Tottenham chairman Daniel Levy says the club "lost sight of some key priorities" during construction of their new stadium and the Covid-19 pandemic.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57173204</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57173204</guid>
-            <pubDate>Wed, 19 May 2021 13:34:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[British and Irish Lions set for 16,500 fans at Murrayfield]]></title>
@@ -265,7 +279,7 @@
             <description><![CDATA[People in their late 30s are now being offered a Covid vaccine as the UK rollout continues.]]></description>
             <link>https://www.bbc.co.uk/news/health-55045639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Tue, 18 May 2021 15:35:14 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 14:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 vaccines: Why some African states can't use their vaccines]]></title>
@@ -275,11 +289,11 @@
             <pubDate>Wed, 19 May 2021 11:56:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Which countries are on the green list for travel?]]></title>
-            <description><![CDATA[Foreign holidays are possible from 17 May, but there are still rules in place.]]></description>
+            <title><![CDATA[What are the rules for travelling to an amber-list country?]]></title>
+            <description><![CDATA[Foreign holidays are now possible, but there are still rules in place.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52544307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Mon, 17 May 2021 14:31:46 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 14:04:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown easing: Virus experts tell us what they will (and won't) be doing]]></title>
@@ -398,14 +412,14 @@
             <description><![CDATA[People travelling abroad from England can use the NHS app to prove their Covid vaccination status.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Wed, 19 May 2021 12:18:30 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 13:58:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How do I get a lateral flow or PCR test?]]></title>
             <description><![CDATA[Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.]]></description>
             <link>https://www.bbc.co.uk/news/health-51943612</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
-            <pubDate>Thu, 29 Apr 2021 09:52:50 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 14:06:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What are the social distancing rules and the rule of six?]]></title>
