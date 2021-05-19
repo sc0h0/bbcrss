@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 May 2021 23:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 23:57:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,11 @@
             <pubDate>Wed, 19 May 2021 21:31:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sam Allardyce to leave West Brom ]]></title>
-            <description><![CDATA[Manager Sam Allardyce will leave West Brom at the end of the season, the club confirm.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57180362</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57180362</guid>
-            <pubDate>Wed, 19 May 2021 23:08:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Billy Porter: Pose actor says he's been living with HIV for 14 years]]></title>
-            <description><![CDATA[The award-winning actor says he was ashamed to make the condition public, but now "it's time".]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57172945</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57172945</guid>
-            <pubDate>Wed, 19 May 2021 16:05:09 GMT</pubDate>
+            <title><![CDATA[Breast implant scandal compensation ruling due]]></title>
+            <description><![CDATA[Thousands of women given substandard implants should finally find out if they will receive compensation.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57179180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57179180</guid>
+            <pubDate>Wed, 19 May 2021 23:49:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bitcoin falls further as China cracks down on crypto-currencies]]></title>
@@ -72,18 +65,25 @@
             <pubDate>Wed, 19 May 2021 18:33:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Croydon tram crash inquest: Driver may have had micro-sleep]]></title>
-            <description><![CDATA[Survivors of the crash described it as "like being inside a washing machine", an inquest hears.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57164860</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57164860</guid>
-            <pubDate>Wed, 19 May 2021 17:56:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US pipeline boss confirms hackers got $4.4m ransom]]></title>
             <description><![CDATA[Joseph Blount told the Wall Street Journal that he authorised the payment following the cyber-attack.]]></description>
             <link>https://www.bbc.co.uk/news/business-57178503</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57178503</guid>
             <pubDate>Wed, 19 May 2021 16:49:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teachers' grades biased to more 'agreeable' pupils]]></title>
+            <description><![CDATA[Psychologists warn teachers' grades will be influenced by students' personality rather than ability.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57178473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57178473</guid>
+            <pubDate>Wed, 19 May 2021 23:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Latin jokes: How the civil service is posher than in the 1960s]]></title>
+            <description><![CDATA[A behavioural code makes it harder for working-class mandarins to reach the top, report says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57172634</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57172634</guid>
+            <pubDate>Wed, 19 May 2021 23:52:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peter Lawwell: Celtic chief executive fire suspect caught on CCTV]]></title>
@@ -100,11 +100,18 @@
             <pubDate>Wed, 19 May 2021 19:40:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glastonbury secures licence for one-day September concert]]></title>
-            <description><![CDATA[Organisers hope to stage a one-day event, after cancelling this summer's main festival.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57174475</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57174475</guid>
-            <pubDate>Wed, 19 May 2021 14:03:47 GMT</pubDate>
+            <title><![CDATA[Sam Allardyce to leave West Brom ]]></title>
+            <description><![CDATA[Manager Sam Allardyce will leave West Brom at the end of the season, the club confirm.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57180362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57180362</guid>
+            <pubDate>Wed, 19 May 2021 23:08:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Holiday 'police' to visit homes amid travel 'chaos']]></title>
+            <description><![CDATA[Some papers report fears over travel, while others look at the status of plans to end lockdown in June.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57180384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57180384</guid>
+            <pubDate>Wed, 19 May 2021 23:42:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Friends stars discuss what their characters would be doing now]]></title>
