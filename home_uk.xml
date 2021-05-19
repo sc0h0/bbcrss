@@ -11,37 +11,44 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 May 2021 16:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 May 2021 17:47:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: More variant hotspots to get surge tests and jabs]]></title>
+            <description><![CDATA[The emergence of the Indian variant makes vaccinations "even more important", Matt Hancock says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57172139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57172139</guid>
+            <pubDate>Wed, 19 May 2021 17:32:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Third dose of Covid jab to be trialled in UK]]></title>
             <description><![CDATA[The findings will help scientific advisers decide if re-vaccinating people in the autumn is necessary.]]></description>
             <link>https://www.bbc.co.uk/news/health-57174733</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57174733</guid>
-            <pubDate>Wed, 19 May 2021 16:11:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Indian variant surge testing and jabs expanded]]></title>
-            <description><![CDATA[New techniques including waste water analysis have identified six areas of concern, Matt Hancock says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57172139</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57172139</guid>
-            <pubDate>Wed, 19 May 2021 16:52:52 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 17:26:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel-Gaza: Biden tells Netanyahu he wants 'path to ceasefire']]></title>
             <description><![CDATA[The US president tells Benjamin Netanyahu he wants a "significant" move towards a ceasefire.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57168051</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57168051</guid>
-            <pubDate>Wed, 19 May 2021 16:06:57 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 17:18:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Billy Porter: Pose actor says he's been living with HIV for 14 years]]></title>
-            <description><![CDATA[The award-winning actor says he was "ashamed" to make the condition public, but now "it's time".]]></description>
+            <description><![CDATA[The award-winning actor says he was ashamed to make the condition public, but now "it's time".]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57172945</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57172945</guid>
             <pubDate>Wed, 19 May 2021 16:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Surge testing and jabs expanded, as EU looks to open up]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57176770</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57176770</guid>
+            <pubDate>Wed, 19 May 2021 17:06:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Croydon tram crash inquest: Driver may have had micro-sleep]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/business-57169726</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57169726</guid>
             <pubDate>Wed, 19 May 2021 13:43:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit: Boris Johnson prepared to throw farmers under bus, says SNP]]></title>
-            <description><![CDATA[Ian Blackford attacks a proposed Australian trade deal, but the PM says it is a "massive opportunity".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57169471</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57169471</guid>
-            <pubDate>Wed, 19 May 2021 15:58:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Goop's UK operations threatened with shutdown]]></title>
@@ -426,7 +426,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Tue, 18 May 2021 17:20:56 GMT</pubDate>
+            <pubDate>Wed, 19 May 2021 17:08:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why we are doing this]]></title>
