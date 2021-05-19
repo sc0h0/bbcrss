@@ -3,7 +3,7 @@
 3. [Israel-Gaza: Biden tells Netanyahu he wants 'path to ceasefire'](https://www.bbc.co.uk/news/world-middle-east-57168051) - The US president tells Benjamin Netanyahu he wants a "significant" move towards a ceasefire.
 4. ['When red alert comes, you only have three seconds'](https://www.bbc.co.uk/news/world-middle-east-57178112) - A Thai man describes what it is like working in southern Israel when militants in Gaza fire rockets.
 5. [Rail services to come under unified state control](https://www.bbc.co.uk/news/business-57176858) - A new public body, Great British Railways, will lead the biggest rail shake-up since privatisation.
-6. [Sam Allardyce to leave West Brom ](https://www.bbc.co.uk/sport/football/57180362) - Manager Sam Allardyce will leave West Brom at the end of the season, the club confirms.
+6. [Sam Allardyce to leave West Brom ](https://www.bbc.co.uk/sport/football/57180362) - Manager Sam Allardyce will leave West Brom at the end of the season, the club confirm.
 7. [Billy Porter: Pose actor says he's been living with HIV for 14 years](https://www.bbc.co.uk/news/entertainment-arts-57172945) - The award-winning actor says he was ashamed to make the condition public, but now "it's time".
 8. [Bitcoin falls further as China cracks down on crypto-currencies](https://www.bbc.co.uk/news/business-57169726) - The price of Bitcoin fell below $34,000 for the first time in three months after China imposed fresh curbs.
 9. [Croydon tram crash inquest: Driver may have had micro-sleep](https://www.bbc.co.uk/news/uk-england-57164860) - Survivors of the crash described it as "like being inside a washing machine", an inquest hears.
