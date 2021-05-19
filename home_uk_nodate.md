@@ -1,16 +1,16 @@
 1. [New York prosecutor says Trump inquiry now 'criminal'](https://www.bbc.co.uk/news/world-us-canada-57166735) - A spokesman for the state's top prosecutor says the inquiry is "no longer purely civil".
 2. [Daniel Morgan: Delay to report on axe murder 'kick in teeth'](https://www.bbc.co.uk/news/uk-england-london-57165909) - Publication of the report into Daniel Morgan's unsolved murder is held up by a Home Office review.
 3. [Covid: Government criticised over pre-pandemic planning](https://www.bbc.co.uk/news/uk-politics-57160297) - Ministers failed to prepare for a threat on the scale of the pandemic, the spending watchdog says.
-4. [Israel-Gaza: Netanyahu says militants 'set back by years'](https://www.bbc.co.uk/news/world-middle-east-57161333) - The Israeli PM vows to continue hitting Hamas in Gaza, despite international pleas for a ceasefire.
-5. [Don't holiday in amber list countries - Boris Johnson](https://www.bbc.co.uk/news/business-57158372) - Boris Johnson says not to go but some travel firms are refusing refunds for those destinations.
-6. [UK government to pay older farmers to retire](https://www.bbc.co.uk/news/science-environment-57149744) - Older farmers will be paid to retire under a UK government scheme to bring new blood into the trade.
-7. [UK inflation rate jumps in April](https://www.bbc.co.uk/news/business-57165266) - Inflation in the UK rose by 1.5% in the year to April, according to official figures.
-8. [Unpublished hospital patient safety reports exposed](https://www.bbc.co.uk/news/health-57144923) - BBC Panorama finds dozens of reports into concerns over hospital services have not been made public.
-9. [Covid: Nurse who cared for PM resigns from NHS](https://www.bbc.co.uk/news/uk-57162428) - Jenny McGee says NHS workers are not getting the pay or respect they deserve from the government.
-10. [Rape victims: Calls for pre-recorded evidence to be used in trials](https://www.bbc.co.uk/news/uk-57148705) - Seeing defendants face-to-face in court causes unnecessary stress, the victims' commissioner says.
-11. [Somerton man: Body exhumed in bid to solve Australian mystery](https://www.bbc.co.uk/news/world-australia-57166662) - Investigators hope DNA advances will uncover clues about the identity of the body found in the 1940s.
-12. [UK must do better over electric cars - MPs](https://www.bbc.co.uk/news/uk-politics-57160298) - They're still too expensive and there are not enough charging points, a report warns.
-13. [Ceuta: Spain sends troops as 8,000 migrants enter enclave](https://www.bbc.co.uk/news/world-europe-57156320) - PM Pedro Sánchez vows to restore order as migrants wade and swim into Ceuta from Morocco.
+4. [UK inflation rate more than doubles in April](https://www.bbc.co.uk/news/business-57165266) - Inflation in the UK rose by 1.5% in the year to April, compared with 0.7% in March.
+5. [Covid-19: Government's pandemic plans criticised and double-booking holidays](https://www.bbc.co.uk/news/uk-57162770) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
+6. [Israel-Gaza: Netanyahu says militants 'set back by years'](https://www.bbc.co.uk/news/world-middle-east-57161333) - The Israeli PM vows to continue hitting Hamas in Gaza, despite international pleas for a ceasefire.
+7. [Don't holiday in amber list countries - Boris Johnson](https://www.bbc.co.uk/news/business-57158372) - Boris Johnson says not to go but some travel firms are refusing refunds for those destinations.
+8. [UK government to pay older farmers to retire](https://www.bbc.co.uk/news/science-environment-57149744) - Older farmers will be paid to retire under a UK government scheme to bring new blood into the trade.
+9. [Unpublished hospital patient safety reports exposed](https://www.bbc.co.uk/news/health-57144923) - BBC Panorama finds dozens of reports into concerns over hospital services have not been made public.
+10. [Covid: Nurse who cared for PM resigns from NHS](https://www.bbc.co.uk/news/uk-57162428) - Jenny McGee says NHS workers are not getting the pay or respect they deserve from the government.
+11. [Rape victims: Calls for pre-recorded evidence to be used in trials](https://www.bbc.co.uk/news/uk-57148705) - Seeing defendants face-to-face in court causes unnecessary stress, the victims' commissioner says.
+12. [Somerton man: Body exhumed in bid to solve Australian mystery](https://www.bbc.co.uk/news/world-australia-57166662) - Investigators hope DNA advances will uncover clues about the identity of the body found in the 1940s.
+13. [UK must do better over electric cars - MPs](https://www.bbc.co.uk/news/uk-politics-57160298) - They're still too expensive and there are not enough charging points, a report warns.
 14. [Newspaper headlines: Holiday rules 'chaos' and PM Covid nurse quits NHS](https://www.bbc.co.uk/news/blogs-the-papers-57165901) - Many front pages report on confusion surrounding the government's advice on international travel.
 15. ['We've booked two summer holidays for the same time'](https://www.bbc.co.uk/news/business-57155307) - UK holidaymakers are reportedly double-booking breaks this summer to make sure they don't miss out.
 16. [George Floyd one year on: Reflections from the UK](https://www.bbc.co.uk/news/uk-57093888) - The BBC's Adina Campbell speaks to people in Coventry about the legacy of George Floyd's death.
