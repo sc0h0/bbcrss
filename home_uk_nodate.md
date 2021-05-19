@@ -1,12 +1,12 @@
-1. [Daniel Morgan: Delay to report on axe murder 'kick in teeth'](https://www.bbc.co.uk/news/uk-england-london-57165909) - Publication of the report into Daniel Morgan's unsolved murder is held up by a Home Office review.
-2. [New York prosecutor says Trump inquiry now criminal](https://www.bbc.co.uk/news/world-us-canada-57166735) - A spokesman for the state's top prosecutor says the inquiry is "no longer purely civil".
-3. [Malawi burns thousands of Covid-19 vaccine doses](https://www.bbc.co.uk/news/world-africa-57168841) - Health officials hope the event will increase public confidence in getting the vaccination.
+1. [EU envoys back entry for non-essential travel](https://www.bbc.co.uk/news/world-europe-57168578) - They recommend reopening borders for countries with low Covid rates - a list will be agreed this week.
+2. [Malawi burns thousands of Covid-19 vaccine doses](https://www.bbc.co.uk/news/world-africa-57168841) - Health officials hope the event will increase public confidence in getting the vaccination.
+3. [Israel-Gaza: Hamas chiefs targeted as truce efforts stall](https://www.bbc.co.uk/news/world-middle-east-57168051) - Rocket fire and air strikes continue as the Israel-Gaza conflict enters a 10th day.
 4. [Demi Lovato is non-binary and is changing pronouns to they/them, singer announces](https://www.bbc.co.uk/news/newsbeat-57169541) - "Today is a day I'm so happy to share more of my life with you all," the US singer tells fans.
-5. [Israel-Gaza: Hamas chiefs targeted as truce efforts stall](https://www.bbc.co.uk/news/world-middle-east-57168051) - Rocket fire and air strikes continue as the Israel-Gaza conflict enters a 10th day.
-6. [Princess Beatrice expecting baby in autumn](https://www.bbc.co.uk/news/uk-57167879) - Buckingham Palace says the Royal Family is "delighted" with the news, following her wedding in 2020.
-7. [Eurovision: Ireland and Australia eliminated in first semi-final](https://www.bbc.co.uk/news/entertainment-arts-57168731) - They are among six nations whose participation in the contest ended in Tuesday's first semi-final.
-8. [UK inflation rate more than doubles in April](https://www.bbc.co.uk/news/business-57165266) - Inflation in the UK rose by 1.5% in the year to April, compared with 0.7% in March.
-9. [UK government to pay older farmers to retire](https://www.bbc.co.uk/news/science-environment-57149744) - Older farmers in England will be paid to retire under a government scheme.
+5. [Daniel Morgan: Delay to report on axe murder 'kick in teeth'](https://www.bbc.co.uk/news/uk-england-london-57165909) - Publication of the report into Daniel Morgan's unsolved murder is held up by a Home Office review.
+6. [New York prosecutor says Trump inquiry now criminal](https://www.bbc.co.uk/news/world-us-canada-57166735) - A spokesman for the state's top prosecutor says the inquiry is "no longer purely civil".
+7. [Princess Beatrice expecting baby in autumn](https://www.bbc.co.uk/news/uk-57167879) - Buckingham Palace says the Royal Family is "delighted" with the news, following her wedding in 2020.
+8. [Eurovision: Ireland and Australia eliminated in first semi-final](https://www.bbc.co.uk/news/entertainment-arts-57168731) - They are among six nations whose participation in the contest ended in Tuesday's first semi-final.
+9. [UK inflation rate more than doubles in April](https://www.bbc.co.uk/news/business-57165266) - Inflation in the UK rose by 1.5% in the year to April, compared with 0.7% in March.
 10. [Rape victims: Calls for pre-recorded evidence to be used in trials](https://www.bbc.co.uk/news/uk-57148705) - Seeing defendants face-to-face in court causes unnecessary stress, the victims' commissioner says.
 11. ['We've booked two summer holidays for the same time'](https://www.bbc.co.uk/news/business-57155307) - UK holidaymakers are reportedly double-booking breaks this summer to make sure they don't miss out.
 12. [UK weather: Why is it so bad at the moment?](https://www.bbc.co.uk/news/newsbeat-57164307) - BBC weatherman Owain Wyn Evans explains what's going on.
@@ -28,10 +28,10 @@
 28. [Champions League top-four race: Chelsea take control as Leicester lose grip](https://www.bbc.co.uk/sport/football/57166348) - Chelsea manager Thomas Tuchel warns his side "the job is not done yet" - but is this deja vu for Leicester City?
 29. [Tyson Fury: 'Deontay Wilder wants $20m to let Anthony Joshua fight happen'](https://www.bbc.co.uk/sport/boxing/57165286) - Tyson Fury claims Deontay Wilder wants $20m to step aside and let him fight Anthony Joshua.
 30. [British and Irish Lions set for 16,500 fans at Murrayfield](https://www.bbc.co.uk/sport/rugby-union/57170632) - A crowd of 16,500 is set to watch the British and Irish Lions' warm-up match against Japan at Murrayfield.
-31. [Tottenham: Harry Kane - should he stay or should he go?](https://www.bbc.co.uk/sport/football/57156888) - Should Harry Kane stay and cement his status as a Tottenham legend or leave to chase trophies elsewhere? BBC Sport weighs up the England captain's options.
-32. [Sport 2050: Snowless snow sport? How climate change could impact winter sports](https://www.bbc.co.uk/sport/56972369) - Climate scientists suggest the future of winter sports is at risk, so can anything be done?
+31. [Sport 2050: Snowless snow sport? How climate change could impact winter sports](https://www.bbc.co.uk/sport/56972369) - Climate scientists suggest the future of winter sports is at risk, so can anything be done?
+32. [Chelsea boss Hayes set to sign new deal](https://www.bbc.co.uk/sport/football/57172376) - Chelsea boss Emma Hayes is set to sign a new deal with the Women's Super League champions.
 33. [Can two households travel in one car? And other questions](https://www.bbc.co.uk/news/world-asia-china-51176409) - We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.
-34. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People aged 38 and 39 in England are now being offered a Covid vaccine as the rollout continues.
+34. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People in their late 30s are now being offered a Covid vaccine as the UK rollout continues.
 35. [Covid: Which areas are being mass tested for variants?](https://www.bbc.co.uk/news/explainers-54872039) - People who live, work or travel in various parts of the UK are being urged to get a Covid test.
 36. [Which countries are on the green list for travel?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are possible from 17 May, but there are still rules in place.
 37. [Lockdown easing: Virus experts tell us what they will (and won't) be doing](https://www.bbc.co.uk/news/uk-57069293) - How will scientists use their new-found freedoms when Covid restrictions are eased on Monday?
