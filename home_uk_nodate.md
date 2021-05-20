@@ -1,14 +1,14 @@
 1. [Rail services to come under unified state control](https://www.bbc.co.uk/news/business-57176858) - A new public body, Great British Railways, will lead the biggest rail shake-up since privatisation.
-2. [Covid-19: More variant hotspots to get surge tests and jabs](https://www.bbc.co.uk/news/uk-57172139) - The emergence of the Indian variant makes vaccinations "even more important", Matt Hancock says.
-3. [Israel-Gaza: Biden tells Netanyahu he wants 'path to ceasefire'](https://www.bbc.co.uk/news/world-middle-east-57168051) - The US president tells Benjamin Netanyahu he wants a "significant" move towards a ceasefire.
+2. [Republicans defy Trump to back Capitol riot probe](https://www.bbc.co.uk/news/world-us-canada-57180679) - Thirty-five Republicans sided with Democrats in the House of Representatives to set up a commission.
+3. [Israel-Gaza: Hamas official predicts ceasefire 'within a day or two'](https://www.bbc.co.uk/news/world-middle-east-57180718) - A Hamas official talks of a ceasefire "within a day or two", but firing from both sides continue.
 4. [The Venezuelans fleeing to Colombia to avoid fighting](https://www.bbc.co.uk/news/world-latin-america-57178193) - Thousands have fled intense armed clashes which involve Venezuela’s army and Colombia’s rebel groups.
 5. [NI Covid-19 vaccine booking opens for 25-29 group](https://www.bbc.co.uk/news/uk-northern-ireland-57175903) - People aged from 25 to 29 years are now eligible for a Covid-19 vaccine from Thursday.
 6. [Breast implant scandal compensation ruling due](https://www.bbc.co.uk/news/health-57179180) - Thousands of women given substandard implants should finally find out if they will receive compensation.
-7. [Third dose of Covid jab to be trialled in UK](https://www.bbc.co.uk/news/health-57174733) - The findings will help scientific advisers decide if re-vaccinating people in the autumn is necessary.
-8. ['When red alert comes, you only have three seconds'](https://www.bbc.co.uk/news/world-middle-east-57178112) - A Thai man describes what it is like working in southern Israel when militants in Gaza fire rockets.
-9. [296 people donate organs in first year of new consent law](https://www.bbc.co.uk/news/uk-politics-57163433) - Max and Keira's Law presumes all adults in England as potential organ donors unless they opt out.
-10. ['Levelling up' must be more targeted, say peers](https://www.bbc.co.uk/news/uk-politics-57175982) - Lords warn Boris Johnson's pledge will leave deprived areas "short-changed" if not focused correctly.
-11. [Teachers' grades biased to more 'agreeable' pupils](https://www.bbc.co.uk/news/education-57178473) - Psychologists warn teachers' grades will be influenced by students' personality rather than ability.
+7. [Covid-19: More variant hotspots to get surge tests and jabs](https://www.bbc.co.uk/news/uk-57172139) - The emergence of the Indian variant makes vaccinations "even more important", Matt Hancock says.
+8. [296 people donate organs in first year of new consent law](https://www.bbc.co.uk/news/uk-politics-57163433) - Max and Keira's Law presumes all adults in England as potential organ donors unless they opt out.
+9. ['Levelling up' must be more targeted, say peers](https://www.bbc.co.uk/news/uk-politics-57175982) - Lords warn Boris Johnson's pledge will leave deprived areas "short-changed" if not focused correctly.
+10. [Teachers' grades biased to more 'agreeable' pupils](https://www.bbc.co.uk/news/education-57178473) - Psychologists warn teachers' grades will be influenced by students' personality rather than ability.
+11. [Nord Stream 2: Biden waives US sanctions on Russian pipeline](https://www.bbc.co.uk/news/world-us-canada-57180674) - The US also waives sanctions on a Putin ally who leads the firm behind the Nord Stream 2 project.
 12. [Latin jokes: How the civil service is posher than in the 1960s](https://www.bbc.co.uk/news/uk-57172634) - A behavioural code makes it harder for working-class mandarins to reach the top, report says.
 13. [Sam Allardyce to leave West Brom ](https://www.bbc.co.uk/sport/football/57180362) - Manager Sam Allardyce will leave West Brom at the end of the season, the club confirm.
 14. [The Papers: Holiday 'police' to visit homes amid travel 'chaos'](https://www.bbc.co.uk/news/blogs-the-papers-57180384) - Some papers report fears over travel, while others look at the status of plans to end lockdown in June.
@@ -22,8 +22,8 @@
 22. [China on Mars: Zhurong rover returns first pictures](https://www.bbc.co.uk/news/science-environment-57172346) - Imagery comes back from the six-wheeled robot that landed successfully at the weekend.
 23. ['We've booked two summer holidays for the same time'](https://www.bbc.co.uk/news/business-57155307) - UK holidaymakers are reportedly double-booking breaks this summer to make sure they don't miss out.
 24. [Subnormal: The scandal of black children sent to 'special' schools](https://www.bbc.co.uk/news/uk-57099654) - In 1960s and 70s Britain, hundreds of black children were wrongly sent to ESN schools for the "educationally subnormal".
-25. ['His death is a catastrophe': Gaza doctors mourn specialist killed in air strike](https://www.bbc.co.uk/news/world-middle-east-57148580) - Dr Ayman Abu al-Ouf and 12 members of his family were killed in an Israeli raid on Sunday.
-26. [Princess Diana: What is BBC Panorama interview row all about?](https://www.bbc.co.uk/news/explainers-57163815) - Lord Dyson's report is expected to be published in a matter of days.
+25. [Princess Diana: What is BBC Panorama interview row all about?](https://www.bbc.co.uk/news/explainers-57163815) - Lord Dyson's report is expected to be published in a matter of days.
+26. ['His death is a catastrophe': Gaza doctors mourn specialist killed in air strike](https://www.bbc.co.uk/news/world-middle-east-57148580) - Dr Ayman Abu al-Ouf and 12 members of his family were killed in an Israeli raid on Sunday.
 27. [Pete & Bas: The grandfathers of UK drill](https://www.bbc.co.uk/news/entertainment-arts-57148204) - Pete & Bas, two grandfathers in their 70s, have become two unlikely stars in UK drill.
 28. [Covid-19: What went wrong in Singapore and Taiwan?](https://www.bbc.co.uk/news/world-asia-57153195) - They were once hailed as success stories, but both places are now seeing a steep rise in virus cases.
 29. [Ransomware: Should paying hacker ransoms be illegal?](https://www.bbc.co.uk/news/technology-57173096) - As cyber-attacks intensify around the world, two experts argue for or against a ban on payments
