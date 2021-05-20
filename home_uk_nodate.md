@@ -1,13 +1,13 @@
 1. [PIP implant victims 'elated' by compensation win](https://www.bbc.co.uk/news/health-57179180) - Women who had the breast implants say they are delighted by the "victory" after 10 years fighting for justice.
 2. [Better rail services promised in huge shake-up](https://www.bbc.co.uk/news/business-57176858) - Transport Secretary says there is no "hidden agenda" to raise fares but there could be no guarantees.
-3. [Covid: Use common sense on overseas travel, says Shapps](https://www.bbc.co.uk/news/uk-57183259) - The transport secretary says people should only go to amber countries in "exceptional circumstances".
+3. [Covid: Test and Trace failure helped Indian variant spread, report says](https://www.bbc.co.uk/news/uk-politics-57186059) - Several councils did not have access to all the latest data for almost three weeks, the BBC learns.
 4. [Prince William receives first Covid vaccine dose](https://www.bbc.co.uk/news/uk-57185584) - The 38-year-old pays tribute to those involved in the rollout after getting his jab on Tuesday.
 5. [Cecil Rhodes statue will not be removed by Oxford College](https://www.bbc.co.uk/news/uk-england-oxfordshire-57175057) - Oriel College initially backed the removal but has backtracked blaming costs and other issues.
-6. [Baby death raises questions over maternity care](https://www.bbc.co.uk/news/health-57147451) - Parents Beth and Dan Wankiewicz are looking for answers over the death of their son Clay last year.
-7. [Sexual assault claims 'mishandled' by universities](https://www.bbc.co.uk/news/uk-wales-57174251) - A letter signed by women from 15 universities calls for a compulsory policy for sex assault claims.
-8. [Former Hartlepool MP Mike Hill breached sexual misconduct policy](https://www.bbc.co.uk/news/uk-england-tees-57186982) - An expert panel rules ex-Hartlepool MP Mike Hill would have faced sanctions if he had not quit.
-9. [Ministers discuss Australia trade deal concerns](https://www.bbc.co.uk/news/uk-politics-57183329) - UK sheep and beef farmers are concerned they could be undercut by rivals with far larger herds.
-10. [How the civil service is posher than in the 1960s](https://www.bbc.co.uk/news/uk-57172634) - A behavioural code makes it harder for working-class mandarins to reach the top, report says.
+6. [Covid: Use common sense on overseas travel, says Shapps](https://www.bbc.co.uk/news/uk-57183259) - The transport secretary says people should only go to amber countries in "exceptional circumstances".
+7. [Former Hartlepool MP Mike Hill breached sexual misconduct policy](https://www.bbc.co.uk/news/uk-england-tees-57186982) - An expert panel rules ex-Hartlepool MP Mike Hill would have faced sanctions if he had not quit.
+8. [Sexual assault claims 'mishandled' by universities](https://www.bbc.co.uk/news/uk-wales-57174251) - A letter signed by women from 15 universities calls for a compulsory policy for sex assault claims.
+9. [Elon Musk UK visit drives Tesla factory rumours](https://www.bbc.co.uk/news/technology-57185806) - A two-day stop in the UK has ignited speculation that the tech mogul is looking for factory sites.
+10. [Baby death raises questions over maternity care](https://www.bbc.co.uk/news/health-57147451) - Parents Beth and Dan Wankiewicz are looking for answers over the death of their son Clay last year.
 11. [Worcestershire detectorist finds stolen treasures on first hunt](https://www.bbc.co.uk/news/uk-england-57170608) - Charles Cartwright dug up a hoard of Roman and Viking jewellery taken in a burglary four years ago.
 12. [The Papers: Holiday 'police' to visit homes amid travel 'chaos'](https://www.bbc.co.uk/news/blogs-the-papers-57180384) - Some papers report fears over travel, while others look at the status of plans to end lockdown in June.
 13. [How safe are breast implants?](https://www.bbc.co.uk/news/health-51137859) - It's a question that's surprisingly difficult to answer.
@@ -45,7 +45,7 @@
 45. [What are the rules for weddings and can I hold a reception?](https://www.bbc.co.uk/news/explainers-52811509) - Restrictions on weddings have been eased across the UK - so how can you now celebrate?
 46. [Covid inquiry: What is it and how will it work?](https://www.bbc.co.uk/news/explainers-57085964) - An independent public inquiry has been announced, but how will it work?
 47. [Can two households travel in one car? And other questions](https://www.bbc.co.uk/news/world-asia-china-51176409) - We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.
-48. [What are the rules for travelling to an amber-list country?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are now possible, but there are still rules in place.
+48. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are now possible, but travellers must follow strict rules on their return.
 49. [Covid-19 in the UK: How many coronavirus cases are there in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 50. [Covid-19 vaccines: Why some African states can't use their vaccines](https://www.bbc.co.uk/news/56940657) - African countries have struggled to get vaccines, but some now plan to throw away thousands of doses.
 51. [Covid Indian variant: Where is it, how does it spread and is it more infectious?](https://www.bbc.co.uk/news/health-57157496) - B.1.617.2 is dominant in some parts of the country - but it doesn't have to be cause for panic yet.
