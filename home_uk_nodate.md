@@ -1,4 +1,4 @@
-1. [Martin Bashir: BBC covered up failings over Diana interview, report finds](https://www.bbc.co.uk/news/uk-57189371) - The BBC covered up the tactics journalist Martin Bashir used to secure his 1995 interview, an inquiry finds.
+1. [Martin Bashir: BBC fell short over Diana interview, report finds](https://www.bbc.co.uk/news/uk-57189371) - Journalist Martin Bashir used "deceitful" tactics to secure the famous 1995 interview, an inquiry finds.
 2. [PIP implant victims 'elated' by compensation win](https://www.bbc.co.uk/news/health-57179180) - Women who had the breast implants say they are delighted by the "victory" after 10 years fighting for justice.
 3. [Covid: Test and Trace failure helped Indian variant spread, report says](https://www.bbc.co.uk/news/uk-politics-57186059) - Several councils did not have access to all the latest data for almost three weeks, the BBC learns.
 4. [Better rail services promised in huge shake-up](https://www.bbc.co.uk/news/business-57176858) - Transport Secretary says there is no "hidden agenda" to raise fares but there could be no guarantees.
@@ -6,8 +6,8 @@
 6. [Southampton boat crash: Emily Lewis died after 'high-speed manoeuvres'](https://www.bbc.co.uk/news/uk-england-hampshire-57185836) - Emily Lewis was on a sightseeing trip in the Solent when the boat crashed, an accident report says.
 7. [Covid: Use common sense on overseas travel, says Shapps](https://www.bbc.co.uk/news/uk-57183259) - The transport secretary says people should only go to amber countries in "exceptional circumstances".
 8. [Prince William receives first Covid vaccine dose](https://www.bbc.co.uk/news/uk-57185584) - The 38-year-old pays tribute to those involved in the rollout after getting his jab on Tuesday.
-9. [Elon Musk UK visit drives Tesla factory rumours](https://www.bbc.co.uk/news/technology-57185806) - A two-day stop in the UK has ignited speculation that the tech mogul is looking for factory sites.
-10. [Cecil Rhodes statue will not be removed by Oxford College](https://www.bbc.co.uk/news/uk-england-oxfordshire-57175057) - Oriel College initially backed the removal but has backtracked blaming costs and other issues.
+9. [Dalian Atkinson: Murder-accused PC 'was absolutely petrified'](https://www.bbc.co.uk/news/uk-england-shropshire-57189805) - PC Benjamin Monk said he was "absolutely petrified" when he discharged a Taser at Dalian Atkinson.
+10. [Elon Musk UK visit drives Tesla factory rumours](https://www.bbc.co.uk/news/technology-57185806) - A two-day stop in the UK has ignited speculation that the tech mogul is looking for factory sites.
 11. [Berserk manga creator Kentaro Miura dies aged 54](https://www.bbc.co.uk/news/newsbeat-57183034) - He was best-known for his popular dark fantasy creation Berserk, which debuted as a series in 1989.
 12. [Worcestershire detectorist finds stolen treasures on first hunt](https://www.bbc.co.uk/news/uk-england-57170608) - Charles Cartwright dug up a hoard of Roman and Viking jewellery taken in a burglary four years ago.
 13. [Friends: 7 things the trailer reveals about the reunion](https://www.bbc.co.uk/news/world-us-canada-57182743) - Including guest stars, emotional moments, set visits, table reads and Phoebe's singing.
@@ -31,7 +31,7 @@
 31. [Israel-Gaza violence: The children who have died in the conflict](https://www.bbc.co.uk/news/world-middle-east-57142627) - Dozens of children have been killed in Gaza, and two have been killed in Israel. Here's what we know.
 32. [Having a baby at 50: Most of my friends are grandparents](https://www.bbc.co.uk/news/57174993) - After Naomi Campbell announced she had become a mother, women talk about having babies later in life.
 33. [Kane wants 'honest' talk with Spurs chairman Levy about future](https://www.bbc.co.uk/sport/football/57188042) - Tottenham striker Harry Kane says he hopes to have an "honest conversation" with chairman Daniel Levy on his future.
-34. [Sport 2050: How climate change could leave golf with a less than green future](https://www.bbc.co.uk/sport/56972370) - Wild ricochets and concrete landscape - how urban golf might become the radical alternative to lush greens due to climate change.
+34. [Jofra Archer: England bowler to have surgery on elbow injury](https://www.bbc.co.uk/sport/cricket/57190558) - England fast bowler Jofra Archer will have surgery on his troublesome right elbow on Friday - with a timeframe on his recovery yet to be given.
 35. [Home nations openers to be shown live on BBC - how to follow Euro 2020 ](https://www.bbc.co.uk/sport/football/57188305) - The BBC will give audiences 24/7 access to all of the action, analysis, insight and entertainment from this summer's European Championship.
 36. [Man City defender Dias wins Football Writers' award](https://www.bbc.co.uk/sport/football/57183550) - Manchester City defender Ruben Dias is named men's footballer of the year by the Football Writers' Association.
 37. [Lockdown easing: Virus experts tell us what they will (and won't) be doing](https://www.bbc.co.uk/news/uk-57069293) - How will scientists use their new-found freedoms when Covid restrictions are eased on Monday?
