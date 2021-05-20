@@ -3,7 +3,7 @@
 3. [Israel-Gaza: Hamas official predicts ceasefire 'within a day or two'](https://www.bbc.co.uk/news/world-middle-east-57180718) - A Hamas official talks of a ceasefire "within a day or two", but firing from both sides continue.
 4. [The Venezuelans fleeing to Colombia to avoid fighting](https://www.bbc.co.uk/news/world-latin-america-57178193) - Thousands have fled intense armed clashes which involve Venezuela’s army and Colombia’s rebel groups.
 5. [NI Covid-19 vaccine booking opens for 25-29 group](https://www.bbc.co.uk/news/uk-northern-ireland-57175903) - People aged from 25 to 29 years are now eligible for a Covid-19 vaccine from Thursday.
-6. [Breast implant scandal compensation ruling due](https://www.bbc.co.uk/news/health-57179180) - Thousands of women given substandard implants should finally find out if they will receive compensation.
+6. [Breast implant scandal compensation ruling due](https://www.bbc.co.uk/news/health-57179180) - Thousands of women given substandard implants should finally find out if they will get compensation.
 7. [Covid-19: More variant hotspots to get surge tests and jabs](https://www.bbc.co.uk/news/uk-57172139) - The emergence of the Indian variant makes vaccinations "even more important", Matt Hancock says.
 8. [296 people donate organs in first year of new consent law](https://www.bbc.co.uk/news/uk-politics-57163433) - Max and Keira's Law presumes all adults in England as potential organ donors unless they opt out.
 9. ['Levelling up' must be more targeted, say peers](https://www.bbc.co.uk/news/uk-politics-57175982) - Lords warn Boris Johnson's pledge will leave deprived areas "short-changed" if not focused correctly.
