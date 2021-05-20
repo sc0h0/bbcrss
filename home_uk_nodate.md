@@ -1,10 +1,10 @@
 1. [Rail services to come under unified state control](https://www.bbc.co.uk/news/business-57176858) - A new public body, Great British Railways, will lead the biggest rail shake-up since privatisation.
 2. [Israel-Gaza: Hamas official predicts ceasefire 'within a day or two'](https://www.bbc.co.uk/news/world-middle-east-57180718) - A Hamas official talks of a ceasefire "within a day or two", but firing from both sides continues.
 3. [Baby death raises questions over maternity care](https://www.bbc.co.uk/news/health-57147451) - Parents Beth and Dan Wankiewicz are looking for answers over the death of their son Clay last year.
-4. [The Venezuelans fleeing to Colombia to avoid fighting](https://www.bbc.co.uk/news/world-latin-america-57178193) - Thousands have fled intense armed clashes which involve Venezuela’s army and Colombia’s rebel groups.
+4. [Covid-19: Bid to tackle NHS Wales backlog and teachers' grades bias](https://www.bbc.co.uk/news/uk-57177409) - Five things you need to know about the coronavirus pandemic this Thursday morning.
 5. [Republicans defy Trump to back Capitol riot probe](https://www.bbc.co.uk/news/world-us-canada-57180679) - Thirty-five Republicans sided with Democrats in the House of Representatives to set up a commission.
 6. [Breast implant scandal compensation ruling due](https://www.bbc.co.uk/news/health-57179180) - Thousands of women given substandard implants should finally find out if they will get compensation.
-7. [Covid-19: More variant hotspots to get surge tests and jabs](https://www.bbc.co.uk/news/uk-57172139) - The emergence of the Indian variant makes vaccinations "even more important", Matt Hancock says.
+7. [The Venezuelans fleeing to Colombia to avoid fighting](https://www.bbc.co.uk/news/world-latin-america-57178193) - Thousands have fled intense armed clashes which involve Venezuela’s army and Colombia’s rebel groups.
 8. [296 people donate organs in first year of new consent law](https://www.bbc.co.uk/news/uk-politics-57163433) - Max and Keira's Law presumes all adults in England as potential organ donors unless they opt out.
 9. ['Levelling up' must be more targeted, say peers](https://www.bbc.co.uk/news/uk-politics-57175982) - Lords warn Boris Johnson's pledge will leave deprived areas "short-changed" if not focused correctly.
 10. [NI Covid-19 vaccine booking opens for 25-29 group](https://www.bbc.co.uk/news/uk-northern-ireland-57175903) - People aged from 25 to 29 years are now eligible for a Covid-19 vaccine from Thursday.
@@ -12,7 +12,7 @@
 12. [Latin jokes: How the civil service is posher than in the 1960s](https://www.bbc.co.uk/news/uk-57172634) - A behavioural code makes it harder for working-class mandarins to reach the top, report says.
 13. [Four beheaded in Guatemala prison riot, police say](https://www.bbc.co.uk/news/world-latin-america-57181767) - At least four prisoners are beheaded during a fight between rival gangs at a jail in Quetzaltenango.
 14. [The Papers: Holiday 'police' to visit homes amid travel 'chaos'](https://www.bbc.co.uk/news/blogs-the-papers-57180384) - Some papers report fears over travel, while others look at the status of plans to end lockdown in June.
-15. [Meet the YouTubers who stood for Mayor of London](https://www.bbc.co.uk/news/uk-england-london-57177138) - Niko Omilana and Max Fosh are two prominent YouTubers who stood for London mayor at the election.
+15. [Meet the YouTubers who stood for mayor of London](https://www.bbc.co.uk/news/uk-england-london-57177138) - Niko Omilana and Max Fosh are two prominent YouTubers who stood for London mayor at the election.
 16. [Butlin's resorts back open for business](https://www.bbc.co.uk/news/uk-57165170) - Butlin's holiday resort in Skegness, Lincolnshire, welcomed back visitors and staff this week.
 17. [Sixteen-year-olds try to break into China's livestream market](https://www.bbc.co.uk/news/world-asia-china-57170843) - Xiao Yu is hoping for a career in livestream selling, an industry expected to grow to a value of £200bn in 2021.
 18. [Eurovision 2021: Covid upsets Iceland's live shows](https://www.bbc.co.uk/news/newsbeat-57178182) - Iceland's entrant Daði og Gagnamagnið will no longer be performing live at Eurovision.
@@ -62,13 +62,7 @@
 62. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?
 63. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 36 million people receive at least one dose.
 64. [Covid: What are the social distancing rules and the rule of six?](https://www.bbc.co.uk/news/uk-51506729) - Guidance on hugging close friends and family is being relaxed in England and Scotland from 17 May.
-65. [Why we are doing this](https://www.bbc.co.uk/sport/56972366) - The experts behind our project explain why the BBC is looking at the impact of climate change on sport.
-66. [A World Cup like no other?](https://www.bbc.co.uk/sport/56972365) - Games lasting an hour and fans around the world watching in virtual reality? BBC Sport imagines what a 2050 World Cup in China might look like in the face of climate change.
-67. [Quiz: How are sports battling climate change?](https://www.bbc.co.uk/sport/57068988) - See how much you know about the environmental "good guys" of sport.
-68. [A weather forecast from the future](https://www.bbc.co.uk/sport/56972367) - What do conditions look like in 2050 for major sporting venues? BBC weather forecaster Simon King explains...
-69. [Cricket beneath the dome](https://www.bbc.co.uk/sport/56972368) - Is a bio-dome the saviour of summer cricket? BBC Sport imagines a new world of indoor cricket - and how players and fans might react.
-70. [Uyghur imams targeted in China's Xinjiang crackdown](https://www.bbc.co.uk/news/world-asia-china-56986057) - China has targeted Muslim religious leaders, according to a new report, charging many with extremism.
-71. ['Talk to me': A train driver asking men to open up](https://www.bbc.co.uk/news/stories-57060971) - A tragedy inspired Scotland's only woman freight train driver to get men talking about mental health.
-72. [Chinese dreams on Native American land: A tale of cannabis boom and bust](https://www.bbc.co.uk/news/world-us-canada-56835897) - How the pandemic cannabis boom led to chaos on the Navajo Nation, pitting two minorities against each other.
-73. [The 'smart and cheeky' Aboriginal boy teaching Australia a lesson](https://www.bbc.co.uk/news/stories-56544429) - A film about an Aboriginal boy's experience of school shines a light on Australia's failure to give all children a fair start.
-74. [Joe Ligon: America's 'longest juvenile lifer' on 68 years in prison](https://www.bbc.co.uk/news/world-us-canada-57022924) - After waiting seven decades for freedom, Joe Ligon tells the BBC how he intends to spend the rest of his days.
+65. [Uyghur imams targeted in China's Xinjiang crackdown](https://www.bbc.co.uk/news/world-asia-china-56986057) - China has targeted Muslim religious leaders, according to a new report, charging many with extremism.
+66. ['Talk to me': A train driver asking men to open up](https://www.bbc.co.uk/news/stories-57060971) - A tragedy inspired Scotland's only woman freight train driver to get men talking about mental health.
+67. [Chinese dreams on Native American land: A tale of cannabis boom and bust](https://www.bbc.co.uk/news/world-us-canada-56835897) - How the pandemic cannabis boom led to chaos on the Navajo Nation, pitting two minorities against each other.
+68. [The 'smart and cheeky' Aboriginal boy teaching Australia a lesson](https://www.bbc.co.uk/news/stories-56544429) - A film about an Aboriginal boy's experience of school shines a light on Australia's failure to give all children a fair start.
