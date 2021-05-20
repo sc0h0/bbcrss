@@ -9,7 +9,7 @@
 9. [Dalian Atkinson: Murder-accused PC 'was absolutely petrified'](https://www.bbc.co.uk/news/uk-england-shropshire-57189805) - PC Benjamin Monk said he "thought we had had it" when he discharged a Taser at Dalian Atkinson.
 10. [Archbishop of Canterbury issues 'personal apology' over charity abuse](https://www.bbc.co.uk/news/uk-57187132) - Former barrister John Smyth violently beat boys who attended Christian summer camps in the 1970s and 80s.
 11. [Australia trade deal: Ministers discuss British farmers' concerns](https://www.bbc.co.uk/news/uk-politics-57183329) - UK sheep and beef farmers are worried they could be undercut in a trade agreement by rivals with larger herds.
-12. [Elon Musk UK visit drives Tesla factory rumours](https://www.bbc.co.uk/news/technology-57185806) - A two-day stop in the UK has ignited speculation that the tech mogul is looking for factory sites.
+12. [Conwy man saved by defibrillator he helped raise money for](https://www.bbc.co.uk/news/uk-wales-57190998) - David Pryde, 78, became unwell at his home but was saved by a community first responder and his kit.
 13. [Worcestershire detectorist finds stolen treasures on first hunt](https://www.bbc.co.uk/news/uk-england-57170608) - Charles Cartwright dug up a hoard of Roman and Viking jewellery taken in a burglary four years ago.
 14. [Friends: 7 things the trailer reveals about the reunion](https://www.bbc.co.uk/news/world-us-canada-57182743) - Including guest stars, emotional moments, set visits, table reads and Phoebe's singing.
 15. [St Ives: 'Unluckiest' swan becomes a mum after raft rescue](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57156761) - A boatyard worker was determined the swan's eggs would hatch after watching them fail for 10 years.
