@@ -1,12 +1,12 @@
 1. [Martin Bashir: Inquiry criticises BBC over 'deceitful' Diana interview](https://www.bbc.co.uk/news/uk-57189371) - Martin Bashir's 1995 interview was obtained using fake documents and then not properly investigated, an inquiry finds.
 2. [PIP implant victims 'elated' by compensation win](https://www.bbc.co.uk/news/health-57179180) - Women who had the breast implants say they are delighted by the "victory" after 10 years fighting for justice.
 3. [Covid: Test and Trace failure helped Indian variant spread, report says](https://www.bbc.co.uk/news/uk-politics-57186059) - Several councils did not receive data on the Indian variant for almost three weeks, the BBC learns.
-4. [Better rail services promised in huge shake-up](https://www.bbc.co.uk/news/business-57176858) - Transport Secretary says there is no "hidden agenda" to raise fares but there could be no guarantees.
-5. [Cecil Rhodes: Refusal to remove Oxford statue a 'slap in the face'](https://www.bbc.co.uk/news/uk-england-oxfordshire-57189928) - Campaigners say Cecil Rhodes represented white supremacy and was steeped in colonialism and racism.
-6. [Dalian Atkinson: Murder-accused PC 'was absolutely petrified'](https://www.bbc.co.uk/news/uk-england-shropshire-57189805) - PC Benjamin Monk said he "thought we had had it" when he discharged a Taser at Dalian Atkinson.
-7. [Archbishop of Canterbury issues 'personal apology' over charity abuse](https://www.bbc.co.uk/news/uk-57187132) - Former barrister John Smyth violently beat boys who attended Christian summer camps in the 1970s and 80s.
-8. [Prince William receives first Covid vaccine dose](https://www.bbc.co.uk/news/uk-57185584) - The 38-year-old pays tribute to those involved in the rollout after getting his jab on Tuesday.
-9. [Southampton boat crash: Emily Lewis died after 'high-speed manoeuvres'](https://www.bbc.co.uk/news/uk-england-hampshire-57185836) - Emily Lewis was on a sightseeing trip in the Solent when the boat crashed, an accident report says.
+4. [Former Great Ormond Street porter abused boys over 35-year period](https://www.bbc.co.uk/news/uk-england-london-57189790) - The true number of offences committed by Paul Farrell is probably "in the thousands", a court hears.
+5. [Better rail services promised in huge shake-up](https://www.bbc.co.uk/news/business-57176858) - Transport Secretary says there is no "hidden agenda" to raise fares but there could be no guarantees.
+6. [Cecil Rhodes: Refusal to remove Oxford statue a 'slap in the face'](https://www.bbc.co.uk/news/uk-england-oxfordshire-57189928) - Campaigners say Cecil Rhodes represented white supremacy and was steeped in colonialism and racism.
+7. [Dalian Atkinson: Murder-accused PC 'was absolutely petrified'](https://www.bbc.co.uk/news/uk-england-shropshire-57189805) - PC Benjamin Monk said he "thought we had had it" when he discharged a Taser at Dalian Atkinson.
+8. [Archbishop of Canterbury issues 'personal apology' over charity abuse](https://www.bbc.co.uk/news/uk-57187132) - Former barrister John Smyth violently beat boys who attended Christian summer camps in the 1970s and 80s.
+9. [Prince William receives first Covid vaccine dose](https://www.bbc.co.uk/news/uk-57185584) - The 38-year-old pays tribute to those involved in the rollout after getting his jab on Tuesday.
 10. [Australia trade deal: Ministers discuss British farmers' concerns](https://www.bbc.co.uk/news/uk-politics-57183329) - UK sheep and beef farmers are worried they could be undercut by rivals with far larger herds.
 11. [Elon Musk UK visit drives Tesla factory rumours](https://www.bbc.co.uk/news/technology-57185806) - A two-day stop in the UK has ignited speculation that the tech mogul is looking for factory sites.
 12. [Worcestershire detectorist finds stolen treasures on first hunt](https://www.bbc.co.uk/news/uk-england-57170608) - Charles Cartwright dug up a hoard of Roman and Viking jewellery taken in a burglary four years ago.
@@ -20,7 +20,7 @@
 20. [Butlin's resorts back open for business](https://www.bbc.co.uk/news/uk-57165170) - Butlin's holiday resort in Skegness, Lincolnshire, welcomed back visitors and staff this week.
 21. [Sixteen-year-olds try to break into China's livestream market](https://www.bbc.co.uk/news/world-asia-china-57170843) - Xiao Yu is hoping for a career in livestream selling, an industry expected to grow to a value of £200bn in 2021.
 22. [Wedding joy for Warwickshire couple amid cancer treatment](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57170307) - Owen Murray and Laura Dear tied the knot in front of 30 guests at a ceremony.
-23. [Rail reform: What does the shake-up mean for you?](https://www.bbc.co.uk/news/business-57187882) - Seven key points on how the planned revamp of the UK's rail network affects passengers and fares.
+23. [Rail reform: What does the shake-up mean for you?](https://www.bbc.co.uk/news/business-57187882) - How will a government promise to simplify the UK's "complicated" rail network impact passengers and fares.
 24. [Princess Diana: What is the Martin Bashir interview row all about?](https://www.bbc.co.uk/news/explainers-57163815) - The BBC covered up Diana interview failings, a report into the 1995 Panorama interview finds.
 25. [Dragons' Den: Why new Dragon Steven Bartlett won’t be wearing a suit](https://www.bbc.co.uk/news/newsbeat-57179015) - Steven Bartlett is joining Dragons' Den but wants to do things his own way.
 26. [UK-Australia trade deal: What are the arguments for and against?](https://www.bbc.co.uk/news/57173498) - The government wants to finalise negotiations by early June.
@@ -49,7 +49,7 @@
 49. [Covid: Which areas are being mass tested for variants?](https://www.bbc.co.uk/news/explainers-54872039) - People who live, work or travel in various parts of the UK are being urged to get a Covid test.
 50. [What are the India, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - In some parts of the UK coronavirus cases are rising due to a variant from India that spreads more easily.
 51. [Covid: What refund rights are there for holidays abroad?](https://www.bbc.co.uk/news/business-51615412) - Quarantine-free overseas holidays will be possible after 17 May, but what rights do you have if plans or rules change?
-52. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown restrictions have eased in England, Scotland and Wales
+52. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown restrictions will ease in Northern Ireland, following rule changes in England, Scotland and Wales
 53. [Covid: How should I protect myself now?](https://www.bbc.co.uk/news/health-57087517) - What are the actions we can take to reduce our risk of catching the virus?
 54. [Covid-19: Five ways to make hugging safer, from the experts](https://www.bbc.co.uk/news/uk-57083571) - Millions of people will be able to hug loved ones again from Monday. But can you minimise the risk?
 55. [Restaurants and pubs are reopening inside, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - People in England, Scotland and Wales will soon be able to drink inside a pub.
