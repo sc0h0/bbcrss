@@ -2,9 +2,9 @@
 2. [Better rail services promised in huge shake-up](https://www.bbc.co.uk/news/business-57176858) - A new public body, Great British Railways, will lead the biggest rail shake-up since privatisation.
 3. [Covid: Use common sense on overseas travel, says Shapps](https://www.bbc.co.uk/news/uk-57183259) - The transport secretary says people should only go to amber countries in "exceptional circumstances".
 4. [Baby death raises questions over maternity care](https://www.bbc.co.uk/news/health-57147451) - Parents Beth and Dan Wankiewicz are looking for answers over the death of their son Clay last year.
-5. [Removal of Oxford's Cecil Rhodes statue on hold over costs](https://www.bbc.co.uk/news/uk-england-oxfordshire-57175057) - An independent commission says a statue of Cecil Rhodes in Oxford's High Street should be removed.
+5. [Cecil Rhodes statue will not be removed by Oxford College](https://www.bbc.co.uk/news/uk-england-oxfordshire-57175057) - Oriel College initially backed the removal but has backtracked blaming costs and other issues.
 6. [Sexual assault claims 'mishandled' by universities](https://www.bbc.co.uk/news/uk-wales-57174251) - A letter signed by women from 15 universities calls for a compulsory policy for sex assault claims.
-7. [Covid-19: 'Common sense' call over foreign travel, and cash for NHS Wales backlog](https://www.bbc.co.uk/news/uk-57177409) - Five things you need to know about the coronavirus pandemic this Thursday morning.
+7. [Prince William receives first Covid vaccine dose](https://www.bbc.co.uk/news/uk-57185584) - The 38-year-old pays tribute to those involved in the rollout after getting his jab on Tuesday.
 8. [Ministers discuss Australia trade deal concerns](https://www.bbc.co.uk/news/uk-politics-57183329) - UK sheep and beef farmers are concerned they could be undercut by rivals with far larger herds.
 9. [Guatemala prison: Inmates beheaded in deadly gang fight](https://www.bbc.co.uk/news/world-latin-america-57181767) - An inmate reportedly orders the attack on rival gang members in retaliation for his wife's murder.
 10. [How the civil service is posher than in the 1960s](https://www.bbc.co.uk/news/uk-57172634) - A behavioural code makes it harder for working-class mandarins to reach the top, report says.
