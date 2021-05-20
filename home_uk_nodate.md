@@ -1,4 +1,4 @@
-1. [Martin Bashir: Inquiry criticises BBC over 'deceitful' Diana interview](https://www.bbc.co.uk/news/uk-57189371) - Martin Bashir's 1995 interview was obtained using fake documents and then not properly investigated, an inquiry finds.
+1. [BBC's deceit over Diana interview worsened my parents' relationship - William](https://www.bbc.co.uk/news/uk-57195046) - The prince speaks of "indescribable sadness" caused by his mother's interview with Martin Bashir.
 2. [Earl Spencer: ‘I think Diana did lose trust in key people’](https://www.bbc.co.uk/news/uk-57192618) - Earl Spencer says he "draws a line" between meeting Martin Bashir and his sister's death two years later.
 3. [Covid: Test and Trace failure helped Indian variant spread, report says](https://www.bbc.co.uk/news/uk-politics-57186059) - Several councils did not receive up-to-date Covid data for almost three weeks, the BBC learns.
 4. [PIP implant victims 'elated' by compensation win](https://www.bbc.co.uk/news/health-57179180) - Women who had the breast implants say they are delighted by the "victory" after 10 years fighting for justice.
