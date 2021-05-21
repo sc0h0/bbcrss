@@ -2,7 +2,7 @@
 2. [BBC's deceit over Diana interview worsened my parents' relationship - William](https://www.bbc.co.uk/news/uk-57195046) - The prince speaks of "indescribable sadness" caused by his mother's interview with Martin Bashir.
 3. ['BBC failures contributed to paranoia and isolation'](https://www.bbc.co.uk/news/uk-57192909) - Princess Diana was failed not just by Martin Bashir but also by leaders at the BBC, says Prince William.
 4. [Covid: Stillbirth and prematurity risks may be higher](https://www.bbc.co.uk/news/health-57193361) - A study suggests that while the overall risks remain low, coronavirus may increase stillbirths.
-5. [Cars set on fire in Swansea disorder](https://www.bbc.co.uk/news/uk-wales-57195717) - Gangs are seen rolling cars down a hill in Swansea as "disturbing" footage circulates on social media.
+5. [Cars set on fire in Swansea disorder](https://www.bbc.co.uk/news/uk-wales-57195717) - Gangs were seen rolling cars down a hill in Swansea and police warned local people to stay indoors.
 6. [Prince Harry says heavy drinking masked pain of mum Diana's death](https://www.bbc.co.uk/news/uk-57187138) - Prince Harry also says he was willing to turn to drugs to cope with grief, and had panic attacks.
 7. [Contaminated blood inquiry: Matt Hancock to give evidence](https://www.bbc.co.uk/news/health-57190095) - The health secretary will face questions about compensation for victims of contaminated blood on Friday.
 8. [Newborn baby found dead in Willenhall canal](https://www.bbc.co.uk/news/uk-england-birmingham-57193153) - An investigation is launched after the child was found by a passer-by in a nature reserve.
