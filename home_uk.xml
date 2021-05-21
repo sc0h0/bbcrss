@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 May 2021 18:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 May 2021 19:19:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Fri, 21 May 2021 15:30:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Heathrow Airport to open terminal for 'red list' arrivals]]></title>
-            <description><![CDATA[The airport faced criticism after arrivals from countries with a high Covid risk were made to queue with other passengers.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57206018</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57206018</guid>
-            <pubDate>Fri, 21 May 2021 16:08:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jeremy Paxman receiving treatment for Parkinson's disease]]></title>
             <description><![CDATA[The former Newsnight presenter says his symptoms are mild and that he plans to continue working.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57206289</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57206289</guid>
             <pubDate>Fri, 21 May 2021 15:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whipsnade Zoo: Brown bears shot dead after enclosure escape]]></title>
+            <description><![CDATA[The two animals made their way into a neighbouring enclosure across a tree that fell in high winds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57207961</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57207961</guid>
+            <pubDate>Fri, 21 May 2021 19:15:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK makes free-trade offer to Australia despite farmers' fears]]></title>
@@ -51,6 +51,13 @@
             <pubDate>Fri, 21 May 2021 18:13:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Heathrow Airport to open terminal for 'red list' arrivals]]></title>
+            <description><![CDATA[The airport faced criticism after arrivals from countries with a high Covid risk were made to queue with other passengers.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57206018</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57206018</guid>
+            <pubDate>Fri, 21 May 2021 16:08:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Potential rise in England infections and Spain to welcome UK tourists]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57162303</link>
@@ -58,25 +65,18 @@
             <pubDate>Fri, 21 May 2021 16:28:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mayhill: Swansea rioters injure seven police officers]]></title>
-            <description><![CDATA[One man spoke of how a "mob" turned on him, throwing bricks at his family and their home in Swansea.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57197466</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57197466</guid>
-            <pubDate>Fri, 21 May 2021 18:38:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Glasgow to be only Scottish area in level three]]></title>
-            <description><![CDATA[Moray will be downgraded from level three to level two - with everywhere else remaining in their current levels.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57200946</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57200946</guid>
-            <pubDate>Fri, 21 May 2021 13:38:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Bolton battles with India variant and vaccine hesitancy]]></title>
             <description><![CDATA[There's been a huge drive to vaccinate Bolton residents as Covid cases linked to the India variant continue to rise there.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57191667</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57191667</guid>
             <pubDate>Fri, 21 May 2021 15:43:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mayhill: Swansea rioters injure seven police officers]]></title>
+            <description><![CDATA[One man spoke of how a "mob" turned on him, throwing bricks at his family and their home in Swansea.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57197466</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57197466</guid>
+            <pubDate>Fri, 21 May 2021 18:38:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple v Epic: Tim Cook takes the stand in Epic legal row]]></title>
@@ -247,11 +247,11 @@
             <pubDate>Fri, 21 May 2021 16:47:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Premier League final-day predictions: Lawro v Noel Gallagher]]></title>
-            <description><![CDATA[Mark Lawrenson takes on Noel Gallagher to make predictions for Sunday's final round of Premier League fixtures.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57186372</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57186372</guid>
-            <pubDate>Fri, 21 May 2021 14:40:53 GMT</pubDate>
+            <title><![CDATA[Britain's Dawson wins European gold twice in same race on controversial night]]></title>
+            <description><![CDATA[Britain's Kathleen Dawson claims a sensational European 100m backstroke title despite having to swim the final twice during a controversial evening of swimming in Budapest.]]></description>
+            <link>https://www.bbc.co.uk/sport/swimming/57207977</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/57207977</guid>
+            <pubDate>Fri, 21 May 2021 19:09:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wolves: Nuno Espirito Santo to leave after four years as manager]]></title>
