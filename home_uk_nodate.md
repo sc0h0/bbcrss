@@ -4,10 +4,10 @@
 4. [Prince Harry says heavy drinking masked pain of mum Diana's death](https://www.bbc.co.uk/news/uk-57187138) - Prince Harry also says he was willing to turn to drugs to cope with grief, and had panic attacks.
 5. [Covid: Stillbirth and prematurity risks may be higher](https://www.bbc.co.uk/news/health-57193361) - A study suggests that while the overall risks remain low, coronavirus may increase stillbirths.
 6. [Mayhill: Swansea rioters face robust action, police vow](https://www.bbc.co.uk/news/uk-wales-57197466) - One man spoke of how a "mob" turned on him, throwing bricks at his family and their home in Swansea.
-7. [Contaminated blood inquiry: Matt Hancock to give evidence](https://www.bbc.co.uk/news/health-57190095) - The health secretary will face questions about compensation for victims of contaminated blood on Friday.
-8. [Schools set to lose £118m funding for poor pupils](https://www.bbc.co.uk/news/education-57188815) - Pupils who became eligible between October 2020 and January 2021 will not now be counted until October 2021.
-9. [Retail sales soar in April as shops reopen](https://www.bbc.co.uk/news/business-57187731) - There was a big jump in clothing sales last month as shoppers returned to the High Street.
-10. [Author Hilary Mantel says UK needs written constitution](https://www.bbc.co.uk/news/entertainment-arts-57157878) - The Wolf Hall writer bases her views on Boris Johnson's 2019 attempt to suspend Parliament.
+7. [Retail sales soar in April as shops reopen](https://www.bbc.co.uk/news/business-57187731) - Retail sales jump 9.2% in April as people returning to work and going out "update their wardrobes".
+8. [Contaminated blood inquiry: Matt Hancock to give evidence](https://www.bbc.co.uk/news/health-57190095) - The health secretary will face questions about compensation for victims of contaminated blood on Friday.
+9. [Author Hilary Mantel says UK needs written constitution](https://www.bbc.co.uk/news/entertainment-arts-57157878) - The Wolf Hall writer bases her views on Boris Johnson's 2019 attempt to suspend Parliament.
+10. [Parkrun resumption delayed after fewer than half of venues approved return](https://www.bbc.co.uk/sport/athletics/57197660) - Parkrun will not resume on 5 June after fewer than half of its venues approve the return of the 5km runs.
 11. [The Papers: Princes' 'rage and sadness' at BBC 'lies' to Diana](https://www.bbc.co.uk/news/blogs-the-papers-57195636) - The findings of an inquiry into a BBC interview with Princess Diana dominates Friday's front pages.
 12. [George Nkencho killing: 'The door closed and then I heard the shots'](https://www.bbc.co.uk/news/world-europe-57194011) - George Nkencho was shot dead by police officers outside his Dublin home in December 2020.
 13. [Quiz of the week: Eurovision, Ariana Grande and the 99](https://www.bbc.co.uk/news/world-57183679) - How closely have you been paying attention to what's been going on during the past seven days?
@@ -42,7 +42,7 @@
 42. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown restrictions will ease in Northern Ireland, following rule changes in England, Scotland and Wales
 43. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are now possible, but travellers must follow strict rules on their return.
 44. [Covid: How should I protect myself now?](https://www.bbc.co.uk/news/health-57087517) - What are the actions we can take to reduce our risk of catching the virus?
-45. [Restaurants and pubs are reopening inside, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - People in England, Scotland and Wales will soon be able to drink inside a pub.
+45. [Restaurants and pubs are reopening inside, but what are the rules?](https://www.bbc.co.uk/news/business-52977388) - Pubs have reopened inside, but there are still Covid rules for customers to follow.
 46. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 37 million people receive at least one dose.
 47. [Lockdown easing: Virus experts tell us what they will (and won't) be doing](https://www.bbc.co.uk/news/uk-57069293) - How will scientists use their new-found freedoms when Covid restrictions are eased on Monday?
 48. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - People in their 20s and 30s are now being offered a Covid vaccine as the UK rollout continues.
