@@ -5,11 +5,11 @@
 5. [Cars set on fire in Swansea disorder](https://www.bbc.co.uk/news/uk-wales-57195717) - Gangs were seen rolling cars down a hill in Swansea and police warned local people to stay indoors.
 6. [Prince Harry says heavy drinking masked pain of mum Diana's death](https://www.bbc.co.uk/news/uk-57187138) - Prince Harry also says he was willing to turn to drugs to cope with grief, and had panic attacks.
 7. [Contaminated blood inquiry: Matt Hancock to give evidence](https://www.bbc.co.uk/news/health-57190095) - The health secretary will face questions about compensation for victims of contaminated blood on Friday.
-8. [Newborn baby found dead in Willenhall canal](https://www.bbc.co.uk/news/uk-england-birmingham-57193153) - An investigation is launched after the child was found by a passer-by in a nature reserve.
-9. [Schools set to lose £118m funding for poor pupils](https://www.bbc.co.uk/news/education-57188815) - Pupils who became eligible between October 2020 and January 2021 will not now be counted until October 2021.
+8. [Schools set to lose £118m funding for poor pupils](https://www.bbc.co.uk/news/education-57188815) - Pupils who became eligible between October 2020 and January 2021 will not now be counted until October 2021.
+9. [Windrush victims still waiting for compensation - watchdog](https://www.bbc.co.uk/news/uk-57196605) - Campaigners have raised concerns about the low number of compensation payments to victims.
 10. [Higher plastic bag charge comes into force in England](https://www.bbc.co.uk/news/business-57193108) - Single-use plastic carrier bags in English shops now cost 10p, twice the previous price.
 11. [Author Hilary Mantel says UK needs written constitution](https://www.bbc.co.uk/news/entertainment-arts-57157878) - The Wolf Hall writer bases her views on Boris Johnson's 2019 attempt to suspend Parliament.
-12. [Big cats seized from zoo in Netflix's Tiger King](https://www.bbc.co.uk/news/world-us-canada-57194700) - Officials seized 68 tigers, lions, hybrids and a jaguar from the Oklahoma zoo shown in the TV series.
+12. [School Strike 4 Climate: Thousands join Australia protest](https://www.bbc.co.uk/news/world-australia-57181034) - Thousands of students attend rallies across the country to demand more action on climate change.
 13. [The Papers: Princes' 'rage and sadness' at BBC 'lies' to Diana](https://www.bbc.co.uk/news/blogs-the-papers-57195636) - The findings of an inquiry into a BBC interview with Princess Diana dominates Friday's front pages.
 14. [George Nkencho killing: 'The door closed and then I heard the shots'](https://www.bbc.co.uk/news/world-europe-57194011) - George Nkencho was shot dead by police officers outside his Dublin home in December 2020.
 15. [Quiz of the week: Eurovision, Ariana Grande and the 99](https://www.bbc.co.uk/news/world-57183679) - How closely have you been paying attention to what's been going on during the past seven days?
