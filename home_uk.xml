@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 May 2021 08:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 May 2021 09:29:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The prince speaks of "indescribable sadness" caused by his mother's interview with Martin Bashir.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57195046</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57195046</guid>
-            <pubDate>Fri, 21 May 2021 08:48:56 GMT</pubDate>
+            <pubDate>Fri, 21 May 2021 09:07:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['BBC failures contributed to paranoia and isolation']]></title>
@@ -44,18 +44,25 @@
             <pubDate>Fri, 21 May 2021 02:28:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Diana interview: Whistleblower wants apology from BBC bosses]]></title>
+            <description><![CDATA[Martin Wiessler accuses the BBC of "arrogance" over the deceit surrounding the 1995 Panorama interview.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57199164</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57199164</guid>
+            <pubDate>Fri, 21 May 2021 09:05:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mayhill: Swansea rioters face robust action, police vow]]></title>
             <description><![CDATA[One man spoke of how a "mob" turned on him, throwing bricks at his family and their home in Swansea.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57197466</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57197466</guid>
-            <pubDate>Fri, 21 May 2021 07:50:40 GMT</pubDate>
+            <pubDate>Fri, 21 May 2021 09:07:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spain to lift restrictions for UK and Japanese travellers]]></title>
-            <description><![CDATA[Its government says that from Monday it will not require UK tourists to have a Covid PCR test.]]></description>
+            <title><![CDATA[Coronavirus: Spain to lift restrictions for UK and Japanese travellers]]></title>
+            <description><![CDATA[UK tourists will be free to enter the country without a negative Covid-19 PCR test from Monday.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57199791</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57199791</guid>
-            <pubDate>Fri, 21 May 2021 08:48:00 GMT</pubDate>
+            <pubDate>Fri, 21 May 2021 09:10:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Stillbirth and prematurity risks may be higher in pregnancy]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/business-57187731</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57187731</guid>
             <pubDate>Fri, 21 May 2021 08:34:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Author Hilary Mantel says UK needs written constitution]]></title>
-            <description><![CDATA[The Wolf Hall writer bases her views on Boris Johnson's 2019 attempt to suspend Parliament.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57157878</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57157878</guid>
-            <pubDate>Thu, 20 May 2021 23:03:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parkrun resumption delayed after fewer than half of venues approved return]]></title>
@@ -226,14 +226,14 @@
             <pubDate>Thu, 20 May 2021 23:47:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Eurovision: TIX, Tourettes and mental health]]></title>
+            <title><![CDATA[Eurovision: 'The muscles in my face go bananas']]></title>
             <description><![CDATA[Norway's Eurovision entry has come to this years competition with more than music on the agenda.]]></description>
             <link>https://www.bbc.co.uk/news/disability-57187712</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-57187712</guid>
             <pubDate>Thu, 20 May 2021 23:48:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Teaching artificial intelligence to control navy submarines]]></title>
+            <title><![CDATA[The Navy sub commanded by artificial intelligence]]></title>
             <description><![CDATA[Submarines controlled by artificial intelligence are being designed to take on military missions.]]></description>
             <link>https://www.bbc.co.uk/news/business-56993035</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56993035</guid>
@@ -296,11 +296,11 @@
             <pubDate>Fri, 21 May 2021 05:22:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anthony Joshua v Tyson Fury: Deontay Wilder won't step aside from Tyson Fury fight - Bob Arum]]></title>
-            <description><![CDATA[Deontay Wilder will not step aside to allow Tyson Fury to fight Anthony Joshua in August, Fury's promoter Bob Arum says.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/57195122</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57195122</guid>
-            <pubDate>Thu, 20 May 2021 21:28:10 GMT</pubDate>
+            <title><![CDATA[What's left to be decided on the final day of the Premier League season?]]></title>
+            <description><![CDATA[Qualification for the Champions League, Europa League and Europa Conference will be decided on the final day of the Premier League season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57162779</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57162779</guid>
+            <pubDate>Fri, 21 May 2021 09:02:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
