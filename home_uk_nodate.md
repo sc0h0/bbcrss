@@ -5,7 +5,7 @@
 5. [Diana interview: Whistleblower wants apology from BBC bosses](https://www.bbc.co.uk/news/uk-57199164) - Martin Wiessler accuses the BBC of "arrogance" over the deceit surrounding the 1995 Panorama interview.
 6. [Mayhill: Swansea rioters face robust action, police vow](https://www.bbc.co.uk/news/uk-wales-57197466) - One man spoke of how a "mob" turned on him, throwing bricks at his family and their home in Swansea.
 7. [UK to offer Australia tariff-free trade deal despite farmers' fears](https://www.bbc.co.uk/news/uk-politics-57198607) - Boris Johnson pushes for an end to import taxes, but farmers say their livelihoods are under threat.
-8. [UK billionaires see jump in wealth during pandemic](https://www.bbc.co.uk/news/business-57199171) - Sir Leonard Blavatnik topples Sir James Dyson as the UK's richest person, according to the Sunday Times Rich List.
+8. [Leonard Blavatnik named UK's richest person with £23bn fortune](https://www.bbc.co.uk/news/business-57199171) - Sir Leonard Blavatnik topples Sir James Dyson as the UK's richest person, according to the Sunday Times Rich List.
 9. [Lady Gaga had a 'psychotic break' after sexual assault left her pregnant](https://www.bbc.co.uk/news/entertainment-arts-57199018) - The star says she had a "psychotic break" after being attacked by a male record producer.
 10. [The Papers: Princes' 'rage and sadness' at BBC 'lies' to Diana](https://www.bbc.co.uk/news/blogs-the-papers-57195636) - The findings of an inquiry into a BBC interview with Princess Diana dominates Friday's front pages.
 11. [George Nkencho killing: 'The door closed and then I heard the shots'](https://www.bbc.co.uk/news/world-europe-57194011) - George Nkencho was shot dead by police officers outside his Dublin home in December 2020.
