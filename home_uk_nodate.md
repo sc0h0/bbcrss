@@ -1,4 +1,4 @@
-1. [Diana interview: Lord Hall resigns from National Gallery](https://www.bbc.co.uk/news/uk-57212959) - Ex-BBC director general says continuing as chairman would be a "distraction" after Diana interview inquiry.
+1. [Diana interview: Lord Hall resigns from National Gallery](https://www.bbc.co.uk/news/uk-57212959) - The ex-BBC director general says continuing as National Gallery chairman would be a "distraction".
 2. [Princess Latifa: Dubai photo appears to show missing woman](https://www.bbc.co.uk/news/world-middle-east-57204775) - The Emirati princess has been imprisoned in Dubai since she tried to escape in 2018.
 3. [Covid-19: More than 50m vaccine doses given in England](https://www.bbc.co.uk/news/uk-57212470) - The health secretary hails the milestone as 32 and 33-year-olds are offered the jab.
 4. [Israel-Gaza: How children on both sides experienced the conflict](https://www.bbc.co.uk/news/world-middle-east-57203350) - The BBC talks to children on both sides of the Israel-Gaza conflict about their experiences.
@@ -30,7 +30,7 @@
 30. [Severely ill - and still made to quarantine in a hotel](https://www.bbc.co.uk/news/stories-57162187) - The law says some severely ill are exempt from hotel quarantine - but they don't always get a choice.
 31. [Olivia Rodrigo has become pop's brightest new star - here's how](https://www.bbc.co.uk/news/entertainment-arts-57174471) - She seemingly arrived from nowhere, but the Drivers License singer has been preparing for this all her life.
 32. [St Johnstone beat Hibernian to complete cup double](https://www.bbc.co.uk/sport/football/57125203) - St Johnstone edge Hibernian to lift the Scottish Cup for a second time and complete a domestic cup double in the greatest season in the club's history.
-33. [Monaco Grand Prix: Charles Leclerc on pole position despite crash](https://www.bbc.co.uk/sport/formula1/57212855) - Charles Leclerc took a surprise pole position for Ferrari at the Monaco Grand Prix despite crashing on his last run of qualifying.
+33. [Leclerc on Monaco pole despite crash, Hamilton seventh](https://www.bbc.co.uk/sport/formula1/57212855) - Charles Leclerc took a surprise pole position for Ferrari at the Monaco Grand Prix despite crashing on his last run of qualifying.
 34. [Brentford come from behind to beat 10-man Bournemouth and reach play-off final](https://www.bbc.co.uk/sport/football/57125183) - Brentford come from behind to beat 10-man Bournemouth 3-2 on aggregate in the Championship play-off semi-final.
 35. [What are the rules for weddings and can I hold a reception?](https://www.bbc.co.uk/news/explainers-52811509) - Restrictions on weddings have been eased across the UK - so how can you now celebrate?
 36. [Covid: How should I protect myself from Covid now?](https://www.bbc.co.uk/news/health-57087517) - What are the actions we can take to reduce our risk of catching the virus?
