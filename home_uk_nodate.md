@@ -1,7 +1,7 @@
 1. [Diana interview: Lord Hall resigns from National Gallery](https://www.bbc.co.uk/news/uk-57212959) - The ex-BBC director general says continuing as National Gallery chairman would be a "distraction".
 2. [Covid-19: More than 50m vaccine doses given in England](https://www.bbc.co.uk/news/uk-57212470) - The health secretary hails the milestone as 32 and 33-year-olds are offered the jab.
 3. [Israel-Palestinian conflict: Eyes on peace options as Gaza truce holds](https://www.bbc.co.uk/news/world-middle-east-57213054) - Mediators try to cement the truce, as Israel and Palestinian militants take stock of an 11-day conflict.
-4. [Technical issues derail Glastonbury livestream](https://www.bbc.co.uk/news/entertainment-arts-57215629) - Hundreds of ticketholders are unable to watch the show, with one MP calling the event a "shambles".
+4. [Technical issues derail Glastonbury live-stream](https://www.bbc.co.uk/news/entertainment-arts-57215629) - Hundreds of ticketholders are unable to watch the show, with one MP calling the event a "shambles".
 5. [Virgin Galactic rocket plane flies to edge of space](https://www.bbc.co.uk/news/science-environment-57214988) - Sir Richard Branson's spaceplane completes the first of three key test flights above New Mexico.
 6. [Princess Latifa: Dubai photo appears to show missing woman](https://www.bbc.co.uk/news/world-middle-east-57204775) - The Emirati princess has been imprisoned in Dubai since she tried to escape in 2018.
 7. [Prince William: Scotland holds my happiest and saddest memories](https://www.bbc.co.uk/news/uk-57213025) - The Duke of Cambridge says his connection with the country "will forever run deep" in a speech.
