@@ -2,8 +2,8 @@
 2. [Covid vaccine: 32 and 33-year-olds in England now invited to book](https://www.bbc.co.uk/news/uk-57209444) - One million more people will get text messages inviting them to book the first dose of their vaccine.
 3. [Israel-Palestinian conflict: Aid arrives in Gaza as ceasefire holds](https://www.bbc.co.uk/news/world-middle-east-57208911) - Humanitarian convoys arrive as Gazans take stock of the damage from 11 days of intense fighting.
 4. [Israel-Gaza: How children on both sides experienced the conflict](https://www.bbc.co.uk/news/world-middle-east-57203350) - The BBC talks to children on both sides of the Israel-Gaza conflict about their experiences.
-5. [Nigerian army chief Ibrahim Attahiru killed in air crash](https://www.bbc.co.uk/news/world-africa-57208951) - The incident happened as the plane was trying to land in bad weather in Kaduna state, the military says.
-6. [Covid-19: Sewage testing ramped up in England](https://www.bbc.co.uk/news/science-environment-57205126) - Programme to test wastewater for the virus that causes Covid now covers two-thirds of England's population.
+5. [Covid-19: Sewage testing ramped up in England](https://www.bbc.co.uk/news/science-environment-57205126) - Programme to test wastewater for the virus that causes Covid now covers two-thirds of England's population.
+6. [Nigerian army chief Ibrahim Attahiru killed in air crash](https://www.bbc.co.uk/news/world-africa-57208951) - The incident happened as the plane was trying to land in bad weather in Kaduna state, the military says.
 7. [Prison guards spared jail time in Epstein suicide plea deal](https://www.bbc.co.uk/news/world-us-canada-57209515) - The two prison workers fabricated log entries to make it seem like they checked on Epstein.
 8. [Eurovision: United Kingdom's hopes rest on James Newman](https://www.bbc.co.uk/news/entertainment-arts-57198762) - Can the Settle-born singer take home the coveted glass microphone trophy from Rotterdam?
 9. [Behind the scenes of Glastonbury's live-stream concert](https://www.bbc.co.uk/news/entertainment-arts-57204585) - The five-hour show stars Jorja Smith, Coldplay and Haim - all playing to a deserted Worthy Farm.
