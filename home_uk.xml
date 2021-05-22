@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 May 2021 21:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 May 2021 21:52:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Diana interview: Lord Hall resigns from National Gallery]]></title>
-            <description><![CDATA[The ex-BBC director general says continuing as National Gallery chairman would be a "distraction".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57212959</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57212959</guid>
-            <pubDate>Sat, 22 May 2021 14:45:35 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Covid: Pfizer and AstraZeneca jabs effective against Indian variant - study]]></title>
             <description><![CDATA[They are effective against symptomatic disease but protection is low after only one dose, a study says.]]></description>
@@ -37,18 +30,25 @@
             <pubDate>Sat, 22 May 2021 20:31:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Diana interview: Lord Hall resigns from National Gallery]]></title>
+            <description><![CDATA[The ex-BBC director general says continuing as National Gallery chairman would be a "distraction".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57212959</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57212959</guid>
+            <pubDate>Sat, 22 May 2021 14:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel-Palestinian conflict: Eyes on peace options as Gaza truce holds]]></title>
+            <description><![CDATA[Mediators try to cement the truce, as Israel and Palestinian militants take stock of an 11-day conflict.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57213054</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57213054</guid>
+            <pubDate>Sat, 22 May 2021 19:08:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mount Nyiragongo: DR Congo plans to evacuate city as volcano erupts]]></title>
             <description><![CDATA[Residents of Goma flee to safety as nearby Mount Nyiragongo throws huge lava fountains into the air.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57215690</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57215690</guid>
             <pubDate>Sat, 22 May 2021 21:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virgin Galactic rocket plane flies to edge of space]]></title>
-            <description><![CDATA[Sir Richard Branson's spaceplane completes the first of three key test flights above New Mexico.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57214988</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57214988</guid>
-            <pubDate>Sat, 22 May 2021 16:54:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Princess Latifa: Dubai photo appears to show missing woman]]></title>
@@ -58,11 +58,11 @@
             <pubDate>Sat, 22 May 2021 20:30:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israel-Palestinian conflict: Eyes on peace options as Gaza truce holds]]></title>
-            <description><![CDATA[Mediators try to cement the truce, as Israel and Palestinian militants take stock of an 11-day conflict.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57213054</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57213054</guid>
-            <pubDate>Sat, 22 May 2021 19:08:16 GMT</pubDate>
+            <title><![CDATA[Virgin Galactic rocket plane flies to edge of space]]></title>
+            <description><![CDATA[Sir Richard Branson's spaceplane completes the first of three key test flights above New Mexico.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57214988</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57214988</guid>
+            <pubDate>Sat, 22 May 2021 16:54:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince William: Scotland holds my happiest and saddest memories]]></title>
