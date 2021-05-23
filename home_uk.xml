@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 May 2021 13:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 May 2021 14:12:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Italy cable car fall: Eight dead after accident near Lake Maggiore]]></title>
+            <title><![CDATA[Italy cable car fall: Nine dead after accident near Lake Maggiore]]></title>
             <description><![CDATA[The accident happened on the Stresa-Alpine-Mottarone cable car near Lake Maggiore in northern Italy.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57219737</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57219737</guid>
-            <pubDate>Sun, 23 May 2021 13:34:02 GMT</pubDate>
+            <pubDate>Sun, 23 May 2021 14:00:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Pfizer and AstraZeneca jabs effective against Indian variant - study]]></title>
@@ -41,7 +41,7 @@
             <description><![CDATA[The report into the Diana interview is a "significant moment" for the corporation, home secretary says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57217853</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57217853</guid>
-            <pubDate>Sun, 23 May 2021 12:13:42 GMT</pubDate>
+            <pubDate>Sun, 23 May 2021 14:02:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lisa Shaw: BBC Radio Newcastle presenter dies aged 44]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-57217598</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57217598</guid>
             <pubDate>Sun, 23 May 2021 08:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eiffel Tower art and a new plane fuel - stories you may have missed]]></title>
+            <description><![CDATA[From Eiffel Tower art to cooking-oil plane fuel, here are some stories you might have missed this week.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57192619</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57192619</guid>
+            <pubDate>Sun, 23 May 2021 13:41:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Did weak wi-fi password lead the police to our door?']]></title>
@@ -226,13 +233,6 @@
             <pubDate>Sat, 22 May 2021 23:55:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[History-making Taylor wants USA superstar Crawford next after unifying light-welterweight division]]></title>
-            <description><![CDATA[Josh Taylor says he wants a fight with American superstar Terence Crawford next after he beats Jose Ramirez to unify the light-welterweight division.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/57216405</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57216405</guid>
-            <pubDate>Sun, 23 May 2021 04:47:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fury signs Wilder contract as fight agreed for 24 July]]></title>
             <description><![CDATA[British world heavyweight champion Tyson Fury signs his contract to face Deontay Wilder for a third time on 24 July.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/57216611</link>
@@ -240,18 +240,25 @@
             <pubDate>Sun, 23 May 2021 05:39:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[History-chasing Mickelson takes one-shot lead into US PGA's final round]]></title>
-            <description><![CDATA[Phil Mickelson takes a one-shot lead into the final round of the US PGA Championship as he bids to become the oldest major winner.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/57216265</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57216265</guid>
-            <pubDate>Sun, 23 May 2021 00:02:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ron Hill: Former European and Commonwealth marathon champion dies aged 82]]></title>
             <description><![CDATA[Former European and Commonwealth marathon champion Ron Hill, a two-time Olympian, dies aged 82.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/57220289</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57220289</guid>
             <pubDate>Sun, 23 May 2021 13:37:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[History-making Taylor wants USA superstar Crawford next after unifying light-welterweight division]]></title>
+            <description><![CDATA[Josh Taylor says he wants a fight with American superstar Terence Crawford next after he beats Jose Ramirez to unify the light-welterweight division.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/57216405</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57216405</guid>
+            <pubDate>Sun, 23 May 2021 04:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What a dive! Cup-winning manager Davidson bellyflops across the dressing room]]></title>
+            <description><![CDATA[After his side avoided a Scottish Cup final slip-up, St Johnstone manager Callum Davidson takes a celebratory dive across the dressing-room in a moment shared on social media by striker Stevie May.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57215420</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57215420</guid>
+            <pubDate>Sat, 22 May 2021 17:58:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can two households travel in one car? And other questions]]></title>
