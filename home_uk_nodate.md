@@ -1,5 +1,5 @@
 1. [Covid: Pfizer and AstraZeneca jabs effective against Indian variant - study](https://www.bbc.co.uk/news/uk-57214596) - They are effective against symptomatic disease but protection is low after only one dose, a study says.
-2. [Mount Nyiragongo: DR Congo plans to evacuate city as volcano erupts](https://www.bbc.co.uk/news/world-africa-57215690) - Thousands flee the city of Goma as nearby Mount Nyiragongo throws huge lava fountains into the air.
+2. [Mount Nyiragongo: DR Congo residents flee as volcano erupts](https://www.bbc.co.uk/news/world-africa-57215690) - Thousands flee the city of Goma as nearby Mount Nyiragongo throws huge lava fountains into the air.
 3. [Eurovision: Italy wins while UK's James Newman gets nil points](https://www.bbc.co.uk/news/entertainment-arts-57198762) - The favourite, Måneskin, come first with their rock song Zitti e Buoni but the UK got nil points.
 4. [Martin Bashir: I never wanted to harm Diana and don't believe we did](https://www.bbc.co.uk/news/uk-57215498) - The journalist says he is "deeply sorry" to Princes William and Harry over the 1995 Panorama interview.
 5. [Glastonbury: Emily Eavis says she is 'so sorry' after technical issues derail live-stream](https://www.bbc.co.uk/news/entertainment-arts-57215629) - After thousands are locked out of the virtual concert, organisers make it freely available online.
