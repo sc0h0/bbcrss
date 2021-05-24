@@ -1,4 +1,4 @@
-1. [Ryanair plane: Western powers voice outrage at plane 'hijacking'](https://www.bbc.co.uk/news/world-europe-57224452) - The EU and the US consider sanctions after Belarus forced a plane carrying a journalist to land.
+1. [Western powers voice outrage as Belarus accused of hijacking plane](https://www.bbc.co.uk/news/world-europe-57224452) - The EU and the US consider sanctions after Belarus forced a plane carrying a journalist to land.
 2. [Covid: Parts of England to trial self-isolation support](https://www.bbc.co.uk/news/uk-57221740) - People in overcrowded homes will be offered alternative accommodation in a bid to improve compliance.
 3. [Sasha Johnson: Black Lives Matter activist critical after shooting, her political party says](https://www.bbc.co.uk/news/uk-england-57223755) - Sasha Johnson is being treated in intensive care after being shot in the head, her political party says.
 4. [India records 300,000 Covid deaths as pandemic rages](https://www.bbc.co.uk/news/world-asia-57224565) - India took less than a month to record its last 100,000 deaths but experts warn the toll is much higher.
