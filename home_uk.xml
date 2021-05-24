@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 May 2021 20:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 21:26:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Mon, 24 May 2021 18:05:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Shops see 30% fewer customers and three-year waits for an NHS dentist]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57231623</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57231623</guid>
-            <pubDate>Mon, 24 May 2021 16:29:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Damiano David: Eurovision winner cleared of drug use by broadcaster]]></title>
             <description><![CDATA[A test clears Måneskin's lead singer of drug use during the competition's grand final.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57234821</link>
@@ -69,7 +62,14 @@
             <description><![CDATA[Sasha Johnson has been described as a "powerful voice" who has always campaigned for black people.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-57223755</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57223755</guid>
-            <pubDate>Mon, 24 May 2021 17:06:15 GMT</pubDate>
+            <pubDate>Mon, 24 May 2021 21:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: People in surge areas warned 'stay local']]></title>
+            <description><![CDATA[People are asked not to go into or out of places hardest hit by the so-called Indian variant.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57232728</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57232728</guid>
+            <pubDate>Mon, 24 May 2021 21:00:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BBC to review editorial policies and Martin Bashir hiring]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Mon, 24 May 2021 11:00:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indian couple holds mid-air wedding 'to escape Covid restrictions']]></title>
-            <description><![CDATA[The nuptials reportedly took place at the same time as India's official death toll passed 300,000.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57227244</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57227244</guid>
-            <pubDate>Mon, 24 May 2021 13:57:21 GMT</pubDate>
+            <title><![CDATA[Florida high school alters 80 'immodest' yearbook photos of students]]></title>
+            <description><![CDATA[Eighty students had yearbook photos edited without their consent to hide their chests and shoulders.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57232694</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57232694</guid>
+            <pubDate>Mon, 24 May 2021 20:04:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pollution: ‘We can smell and taste the traffic at school']]></title>
@@ -212,6 +212,13 @@
             <pubDate>Mon, 24 May 2021 07:10:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Southgate to name extended Euro 2020 squad ]]></title>
+            <description><![CDATA[England manager Gareth Southgate will name a provisional extended squad for Euro 2020 on Tuesday, rather than the final 26 players as originally planned.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57235630</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57235630</guid>
+            <pubDate>Mon, 24 May 2021 21:04:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Guardiola 'could not care less' Lahoz will referee Champions League final]]></title>
             <description><![CDATA[Pep Guardiola has not thought about Antonio Mateu Lahoz refereeing the Champions League final despite his history with the official.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57233786</link>
@@ -226,18 +233,18 @@
             <pubDate>Mon, 24 May 2021 19:08:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dundee promoted to Premiership as Kilmarnock's 28-year stay in top flight ends]]></title>
+            <description><![CDATA[Dundee are back in the Scottish Premiership after two years as Kilmarnock's 28-year stay in the top flight ends.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57139366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57139366</guid>
+            <pubDate>Mon, 24 May 2021 20:35:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NFL to investigate claim Chung told he was 'not the right minority' ]]></title>
             <description><![CDATA[The NFL will launch an investigation after assistant coach Eugene Chung said he was told he was "not the right minority" during a job interview with a team.]]></description>
             <link>https://www.bbc.co.uk/sport/american-football/57235844</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/american-football/57235844</guid>
             <pubDate>Mon, 24 May 2021 20:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mercedes could protest over flex-wings in Baku]]></title>
-            <description><![CDATA[Mercedes refuse to rule out lodging a protest if rival teams run flexible rear wings at the forthcoming Azerbaijan Grand Prix.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57223893</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57223893</guid>
-            <pubDate>Mon, 24 May 2021 13:03:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['No risky singles, Mum!' - Mother & son share century stand in club match]]></title>
@@ -247,11 +254,11 @@
             <pubDate>Mon, 24 May 2021 15:12:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dundee promoted to Premiership as Kilmarnock's 28-year stay in top flight ends]]></title>
-            <description><![CDATA[Dundee are back in the Scottish Premiership after two years as Kilmarnock's 28-year stay in the top flight ends.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57139366</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57139366</guid>
-            <pubDate>Mon, 24 May 2021 20:35:45 GMT</pubDate>
+            <title><![CDATA[Who would you pick in your England Euro 2020 squad?]]></title>
+            <description><![CDATA[Foden, Grealish, Maddison or Mount? Alexander-Arnold or James? Who would you pick in your England squad for the Euros?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56541263</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56541263</guid>
+            <pubDate>Mon, 24 May 2021 06:11:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
