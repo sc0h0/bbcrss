@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 May 2021 06:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 07:07:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Mon, 24 May 2021 06:16:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Self-isolation support trial and India records 300,000 deaths]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57221387</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57221387</guid>
+            <pubDate>Mon, 24 May 2021 06:45:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US PGA Championship: Phil Mickelson becomes oldest major winner with sixth title]]></title>
             <description><![CDATA[Phil Mickelson becomes the oldest man to win a major as he claims the US PGA Championship to win a sixth major title.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/57224082</link>
@@ -62,7 +69,14 @@
             <description><![CDATA[India took less than a month to record its last 100,000 deaths but experts warn the toll is much higher.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57224565</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57224565</guid>
-            <pubDate>Mon, 24 May 2021 02:54:58 GMT</pubDate>
+            <pubDate>Mon, 24 May 2021 06:46:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Sniffer dogs could bolster screening at airports]]></title>
+            <description><![CDATA[Trials suggest dogs could contribute to efforts to prevent the spread of Covid at mass gatherings.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57200863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57200863</guid>
+            <pubDate>Sun, 23 May 2021 23:37:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mount Nyiragongo: Volcanic eruption in DR Congo leaves people homeless]]></title>
@@ -79,25 +93,11 @@
             <pubDate>Sun, 23 May 2021 21:19:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bury Brexit hatchet and seize new opportunities, says CBI]]></title>
-            <description><![CDATA[The CBI says burying the Brexit hatchet and focusing on new opportunities will benefit everyone.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57221957</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57221957</guid>
-            <pubDate>Sun, 23 May 2021 23:01:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Indoor hospitality and household visits resume in NI]]></title>
             <description><![CDATA[A Covid-19 traffic light system for foreign travel will also come into effect on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57190342</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57190342</guid>
             <pubDate>Mon, 24 May 2021 06:35:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Sniffer dogs could bolster screening at airports]]></title>
-            <description><![CDATA[Trials suggest dogs could contribute to efforts to prevent the spread of Covid at mass gatherings.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57200863</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57200863</guid>
-            <pubDate>Sun, 23 May 2021 23:37:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pollution: ‘We can smell and taste the traffic at school']]></title>
@@ -219,11 +219,11 @@
             <pubDate>Sun, 23 May 2021 20:10:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dina Asher-Smith beats Sha'Carri Richardson and Shelly-Ann Fraser-Pryce to win 100m]]></title>
-            <description><![CDATA[GB's Dina Asher-Smith beats Sha'Carri Richardson and Shelly-Ann Fraser-Pryce to win the 100m in 11:35 seconds at the Diamond League meeting in Gateshead.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/athletics/57223227</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/athletics/57223227</guid>
-            <pubDate>Sun, 23 May 2021 19:55:02 GMT</pubDate>
+            <title><![CDATA[Match of the Day analysis: How Liverpool sealed Champions League qualification]]></title>
+            <description><![CDATA[Gary Lineker, Alan Shearer and Ian Wright look at Liverpool's "magnificent" form in their last 10 Premier League games that sealed Champions League qualification.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57223985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57223985</guid>
+            <pubDate>Sun, 23 May 2021 23:03:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: What's the risk of Covid on public transport?]]></title>
