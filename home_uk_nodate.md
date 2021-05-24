@@ -1,7 +1,7 @@
 1. [Western powers voice outrage as Belarus accused of hijacking plane](https://www.bbc.co.uk/news/world-europe-57224452) - The EU considers sanctions after Belarus forced a plane carrying a dissident journalist to land.
 2. [BBC to review editorial policies and Martin Bashir hiring](https://www.bbc.co.uk/news/uk-57229049) - A review is announced after the inquiry into the 1995 BBC interview with Diana, Princess of Wales.
 3. [Sasha Johnson: Black Lives Matter activist shot in London](https://www.bbc.co.uk/news/uk-england-57223755) - Sasha Johnson has been described as a "powerful voice" who has always campaigned for black people.
-4. [Max Mosley: Former motorsport boss Max Mosley dies at 81](https://www.bbc.co.uk/news/uk-57232681) - The ex-racing driver went on to run the FIA governing body and was a prominent privacy campaigner.
+4. [Max Mosley: Privacy campaigner and ex-motorsport boss dies at 81](https://www.bbc.co.uk/news/uk-57232681) - The ex-racing driver went on to run the FIA governing body and was a prominent privacy campaigner.
 5. [Eight arrests in Royal Mail text scam investigation](https://www.bbc.co.uk/news/uk-england-57226704) - One man is charged following dawn raids in London, Coventry, Birmingham and Essex.
 6. [Samoa's first female PM locked out of parliament by losing opponent](https://www.bbc.co.uk/news/world-asia-57227240) - Fiame Naomi Mata'afa holds makeshift swearing-in ceremony in a tent after opponent locks the doors.
 7. [Arundel Castle: Mary Queen of Scots beads stolen in raid](https://www.bbc.co.uk/news/uk-57224777) - More than £1m of gold and silver historical artefacts were taken in the burglary on Friday night.
