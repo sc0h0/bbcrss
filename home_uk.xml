@@ -11,30 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 May 2021 23:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 01:23:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Italy cable car fall: 14 dead after accident near Lake Maggiore]]></title>
-            <description><![CDATA[The dead include a child who was earlier airlifted from the Stresa-Alpine-Mottarone crash scene.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57219737</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57219737</guid>
-            <pubDate>Sun, 23 May 2021 21:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: UK passes 60m jabs milestone after 762,000 in a day]]></title>
-            <description><![CDATA[Health chief urges people to get their second jab, as more than 760,000 doses are given in a day.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57221506</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57221506</guid>
-            <pubDate>Sun, 23 May 2021 19:06:54 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Belarus 'diverts Ryanair flight to arrest journalist', opposition says]]></title>
             <description><![CDATA[Nations demand the dissident's release, after a MiG-29 escorts the Greece-Lithuania flight to Minsk.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57219860</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57219860</guid>
             <pubDate>Sun, 23 May 2021 22:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Parts of England to trial self-isolation support]]></title>
+            <description><![CDATA[People in overcrowded homes will be offered alternative accommodation in a bid to improve compliance.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57221740</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57221740</guid>
+            <pubDate>Mon, 24 May 2021 00:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Italy cable car fall: 14 dead after accident near Lake Maggiore]]></title>
+            <description><![CDATA[The dead include a child who was earlier airlifted from the Stresa-Alpine-Mottarone crash scene.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57219737</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57219737</guid>
+            <pubDate>Sun, 23 May 2021 21:19:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sasha Johnson: Black Lives Matter activist critical after shooting, her political party says]]></title>
@@ -51,6 +51,20 @@
             <pubDate>Sun, 23 May 2021 23:27:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US PGA Championship: Phil Mickelson becomes oldest major winner with sixth title]]></title>
+            <description><![CDATA[Phil Mickelson becomes the oldest man to win a major as he claims the US PGA Championship to win a sixth major title.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/57224082</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57224082</guid>
+            <pubDate>Mon, 24 May 2021 01:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Children speak of neglect in US asylum camps]]></title>
+            <description><![CDATA[The BBC has uncovered allegations of cold temperatures, sickness, neglect, lice and filth, through a series of interviews with children and staff at US detention camps for children.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57149721</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57149721</guid>
+            <pubDate>Sun, 23 May 2021 23:03:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bury Brexit hatchet and seize new opportunities, says CBI]]></title>
             <description><![CDATA[The CBI says burying the Brexit hatchet and focusing on new opportunities will benefit everyone.]]></description>
             <link>https://www.bbc.co.uk/news/business-57221957</link>
@@ -58,18 +72,18 @@
             <pubDate>Sun, 23 May 2021 23:01:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US PGA Championship: Phil Mickelson becomes oldest major winner with sixth title]]></title>
-            <description><![CDATA[Phil Mickelson becomes the oldest man to win a major as he claims the US PGA Championship to win a sixth major title.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/57224082</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57224082</guid>
-            <pubDate>Sun, 23 May 2021 23:50:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Sniffer dogs could bolster screening at airports]]></title>
             <description><![CDATA[Trials suggest dogs could contribute to efforts to prevent the spread of Covid at mass gatherings.]]></description>
             <link>https://www.bbc.co.uk/news/health-57200863</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57200863</guid>
             <pubDate>Sun, 23 May 2021 23:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pollution: ‘We can smell and taste the traffic at school']]></title>
+            <description><![CDATA[A primary school in Manchester sits on one of Europe's busiest roads where particle pollution levels exceed WHO limits.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57203122</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57203122</guid>
+            <pubDate>Sun, 23 May 2021 23:12:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jo Cox: MP's sister Kim Leadbeater is Labour's Batley candidate]]></title>
@@ -86,20 +100,6 @@
             <pubDate>Sun, 23 May 2021 17:16:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Restaurants get creative in bid to plug staff shortage]]></title>
-            <description><![CDATA[Gift cards and bonuses are being used to fill vacancies as the hospitality sector emerges from lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57218978</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57218978</guid>
-            <pubDate>Sun, 23 May 2021 14:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Damiano David: Eurovision winner denies taking drugs during event]]></title>
-            <description><![CDATA[The lead singer of the winning Italian band Måneskin dismisses online speculation about cocaine use.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57217600</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57217600</guid>
-            <pubDate>Sun, 23 May 2021 13:44:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Human rights body leaves Stonewall diversity scheme]]></title>
             <description><![CDATA[The Equality and Human Rights Commission says the LGTB group's scheme is not "best value for money".]]></description>
             <link>https://www.bbc.co.uk/news/uk-57219989</link>
@@ -114,95 +114,39 @@
             <pubDate>Sun, 23 May 2021 22:51:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bob Dylan: 80 things you may not know about him on his 80th birthday]]></title>
+            <description><![CDATA[A look back at the life and career of the influential and now-octogenarian singer-songwriter.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56716269</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56716269</guid>
+            <pubDate>Sun, 23 May 2021 23:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[George Floyd death: How do I talk to my son about race?]]></title>
+            <description><![CDATA[A year on from the death of George Floyd, BBC presenter Eddie Nestor examines his role as a father.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57205016</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57205016</guid>
+            <pubDate>Sun, 23 May 2021 23:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former miner: Why I’m giving up my coal fire]]></title>
+            <description><![CDATA[Stan Renton and his wife Audrey, have been heating their home with coal for their entire married lives.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57204325</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57204325</guid>
+            <pubDate>Sun, 23 May 2021 23:08:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The couple who met on YouTube]]></title>
+            <description><![CDATA[Australian Anitha Kannan and Ian Chalmers, from the UK, met over YouTube and bonded over social anxiety in lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57204695</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57204695</guid>
+            <pubDate>Sun, 23 May 2021 23:12:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[In pictures: DR Congo's Mount Nyiragongo erupts, sparking mass evacuation]]></title>
             <description><![CDATA[Thousands flee their homes in the Democratic Republic of Congo after a volcano erupts near Goma city.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57217598</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57217598</guid>
             <pubDate>Sun, 23 May 2021 08:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kate Garraway: 'My husband is devastated by Covid']]></title>
-            <description><![CDATA[The TV presenter says Derek Draper still "can't really move" after coming home from hospital.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57218737</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57218737</guid>
-            <pubDate>Sun, 23 May 2021 10:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eiffel Tower art and a new plane fuel - stories you may have missed]]></title>
-            <description><![CDATA[From Eiffel Tower art to cooking-oil plane fuel, here are some stories you might have missed this week.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57192619</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57192619</guid>
-            <pubDate>Sun, 23 May 2021 13:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ultra marathon record-breaker shares secrets of Pennine Way success]]></title>
-            <description><![CDATA[Ultra-marathoner John Kelly, who ran the Pennine Way in under 60 hours, shares his secrets of success.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57155473</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57155473</guid>
-            <pubDate>Sun, 23 May 2021 06:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Did weak wi-fi password lead the police to our door?']]></title>
-            <description><![CDATA[A young family had their computers and phones seized after, it seems, their router was hacked.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57156799</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57156799</guid>
-            <pubDate>Sat, 22 May 2021 23:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glastonbury: Emily Eavis says she is 'so sorry' after technical issues derail live-stream]]></title>
-            <description><![CDATA[Organisers made Saturday's live-stream freely available after thousands were locked out of the virtual concert.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57215629</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57215629</guid>
-            <pubDate>Sat, 22 May 2021 20:31:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glastonbury live-stream delivers a rush of nostalgia in the face of failure]]></title>
-            <description><![CDATA[The concert brought back fond memories, despite technical problems disrupting the live-stream.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57216005</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57216005</guid>
-            <pubDate>Sun, 23 May 2021 02:15:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Italy wins Eurovision: 'Rock and roll never dies']]></title>
-            <description><![CDATA[Italy's Måneskin have won the Eurovision Song Contest 2021 with their entry, Zitti e Buoni.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57214475</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57214475</guid>
-            <pubDate>Sun, 23 May 2021 00:04:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guatemala disappeared: Reuniting families with the remains of loved ones]]></title>
-            <description><![CDATA[Thousands are still searching for their loved ones 25 years after Guatemala's armed conflict ended.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57133013</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57133013</guid>
-            <pubDate>Sat, 22 May 2021 23:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Postcards: Londoners' lockdown secrets revealed]]></title>
-            <description><![CDATA[Eleanor Tattersfield sent out postcards asking people to divulge their lockdown secrets.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57189555</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57189555</guid>
-            <pubDate>Sat, 22 May 2021 23:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your pictures on the theme of 'woodland walk']]></title>
-            <description><![CDATA[A selection of striking images from our readers around the world.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-57200062</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57200062</guid>
-            <pubDate>Sat, 22 May 2021 23:38:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I have dementia, but I’m still here, I’m still me’]]></title>
-            <description><![CDATA[Chris Higgins was diagnosed with dementia in lockdown after his wife noticed a change in his behaviour.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57200391</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57200391</guid>
-            <pubDate>Sun, 23 May 2021 05:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Russia's Trefoil military base in the Arctic]]></title>
-            <description><![CDATA[BBC Moscow correspondent Sarah Rainsford gets rare access to the Russian military base, known as Arctic Trefoil.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57206208</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57206208</guid>
-            <pubDate>Sat, 22 May 2021 23:03:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eurovision 2021 in pictures: The best of the ceremony]]></title>
@@ -280,6 +224,13 @@
             <link>https://www.bbc.co.uk/sport/football/57200784</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57200784</guid>
             <pubDate>Sun, 23 May 2021 19:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peaty helps Britain to more relay gold at Europeans]]></title>
+            <description><![CDATA[Britain's Adam Peaty completes the 'quadruple-quadruple' by claiming his fourth title of the week at his fourth consecutive European Championships.]]></description>
+            <link>https://www.bbc.co.uk/sport/swimming/57222492</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/57222492</guid>
+            <pubDate>Sun, 23 May 2021 18:56:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can two households travel in one car? And other questions]]></title>
