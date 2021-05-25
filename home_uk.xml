@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 May 2021 18:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 19:05:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: No local lockdowns in Indian variant areas, say local leaders]]></title>
-            <description><![CDATA[Eight councils say it is confirmed there are no restrictions on travel after confusion over advice.]]></description>
+            <title><![CDATA[Covid: Advice to areas worst-hit by Indian variant will be updated - No 10]]></title>
+            <description><![CDATA["We are not imposing local restrictions," says the government after confusion over new guidance.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57246973</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57246973</guid>
-            <pubDate>Tue, 25 May 2021 17:49:52 GMT</pubDate>
+            <pubDate>Tue, 25 May 2021 18:56:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Royal Bolton hospital taking 'urgent action' over virus]]></title>
@@ -44,20 +44,6 @@
             <pubDate>Tue, 25 May 2021 16:55:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Belarus flights redirected after Roman Protasevich's arrest]]></title>
-            <description><![CDATA[EU leaders promise more sanctions after a dissident journalist was arrested on a diverted flight.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57239162</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57239162</guid>
-            <pubDate>Tue, 25 May 2021 17:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sri Lanka navy rescue crew following chemical fire on cargo ship]]></title>
-            <description><![CDATA[All 23 members of the Singaporean X-Press Pearl's crew were evacuated.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57244173</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57244173</guid>
-            <pubDate>Tue, 25 May 2021 12:56:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mothers demand apology over forced adoptions]]></title>
             <description><![CDATA[Some of the 250,000 unmarried women forced to give up babies say it led to a lifetime of grief.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57231621</link>
@@ -72,21 +58,35 @@
             <pubDate>Tue, 25 May 2021 15:46:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sasha Johnson: Black Lives Matter activist shot by group of men]]></title>
-            <description><![CDATA[The Met Police says there was "nothing to suggest" that Sasha Johnson had been "targeted".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57238301</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57238301</guid>
-            <pubDate>Tue, 25 May 2021 12:46:02 GMT</pubDate>
+            <title><![CDATA[Manchester Arena Inquiry: Paramedic tells of bomb scene]]></title>
+            <description><![CDATA[A paramedic at the Manchester attack had to take a step back to gain an "overall grip" of the incident.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57244695</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57244695</guid>
+            <pubDate>Tue, 25 May 2021 17:13:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rob Roberts: Conservative MP told staffer to be 'less alluring']]></title>
-            <description><![CDATA[Tory MP faces six-week suspension from Parliament after panel found he sexually harassed an employee.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-politics-56757772</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-56757772</guid>
-            <pubDate>Tue, 25 May 2021 17:17:16 GMT</pubDate>
+            <title><![CDATA[Regeni murder: Italy orders four Egyptians to stand trial]]></title>
+            <description><![CDATA[Five years after Giulio Regeni's body was found in Cairo, a judge says four Egyptians should be tried.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57238620</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57238620</guid>
+            <pubDate>Tue, 25 May 2021 17:58:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[First man to get Covid jab William Shakespeare dies of unrelated illness]]></title>
+            <title><![CDATA[Sri Lanka navy rescue crew following chemical fire on cargo ship]]></title>
+            <description><![CDATA[All 23 members of the Singaporean X-Press Pearl's crew were evacuated.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57244173</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57244173</guid>
+            <pubDate>Tue, 25 May 2021 12:56:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belarus flights redirected after Roman Protasevich's arrest]]></title>
+            <description><![CDATA[EU leaders promise more sanctions after a dissident journalist was arrested on a diverted flight.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57239162</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57239162</guid>
+            <pubDate>Tue, 25 May 2021 17:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: First man to get jab William Shakespeare dies of unrelated illness]]></title>
             <description><![CDATA[Bill Shakespeare's death was unrelated to the jab and his friend urges others to get vaccinated.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57234741</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57234741</guid>
@@ -184,6 +184,13 @@
             <pubDate>Tue, 25 May 2021 11:32:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Euro 2020: What are the key squad issues facing England manager Gareth Southgate?]]></title>
+            <description><![CDATA[The key issues still to be settled after England manager Gareth Southgate announced his provisional squad for Euro 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57244587</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57244587</guid>
+            <pubDate>Tue, 25 May 2021 17:39:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Belarus plane: What we know and what we don't]]></title>
             <description><![CDATA[As more details emerge of why flight FR4978 was forced to land in Belarus, some questions remain unanswered.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57239521</link>
@@ -240,25 +247,11 @@
             <pubDate>Tue, 25 May 2021 09:23:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The key squad issues facing England manager Southgate]]></title>
-            <description><![CDATA[The key issues still to be settled after England manager Gareth Southgate announced his provisional squad for Euro 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57244587</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57244587</guid>
-            <pubDate>Tue, 25 May 2021 17:39:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[White & Godfrey among uncapped quartet in 33-man provisional England squad]]></title>
             <description><![CDATA[Uncapped Ben White, Ben Godfrey, Sam Johnstone and Aaron Ramsdale are named in England's 33-man provisional Euro 2020 squad.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57239842</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57239842</guid>
             <pubDate>Tue, 25 May 2021 13:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Giro d'Italia: Can anyone deny Egan Bernal in the final stages?]]></title>
-            <description><![CDATA[Back in form after a 2020 ruined by injury, can anyone deny 2019 Tour de France champion Egan Bernal victory in the final week at the Giro d'Italia?]]></description>
-            <link>https://www.bbc.co.uk/sport/cycling/57189490</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57189490</guid>
-            <pubDate>Tue, 25 May 2021 14:28:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Solskjaer eyes Europa League win to herald bright future for Man Utd]]></title>
@@ -275,11 +268,25 @@
             <pubDate>Tue, 25 May 2021 06:01:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bernal prepares for intense final week at Giro after fans chase him with chainsaws]]></title>
+            <description><![CDATA[Back in form after a 2020 ruined by injury, can anyone deny 2019 Tour de France champion Egan Bernal victory in the final week at the Giro d'Italia?]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/57189490</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57189490</guid>
+            <pubDate>Tue, 25 May 2021 19:02:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Germany pull out of Track Euros in Minsk over political situation in Belarus]]></title>
             <description><![CDATA[Germany withdraw from cycling's European Track Championships in Minsk next month because of the actions of Belarus.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/57244826</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57244826</guid>
             <pubDate>Tue, 25 May 2021 14:33:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fight Talk: Who's next for Scotland's undisputed champion Josh Taylor?]]></title>
+            <description><![CDATA[Who should Josh Taylor fight next? And should we now move on from Tyson Fury and Anthony Joshua? Plus more in this week's Fight Talk.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/57230770</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57230770</guid>
+            <pubDate>Tue, 25 May 2021 09:00:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
