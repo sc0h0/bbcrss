@@ -1,5 +1,5 @@
 1. [Covid: Advice to areas worst-hit by Indian variant will be updated - No 10](https://www.bbc.co.uk/news/uk-57246973) - "We are not imposing local restrictions," says the government after confusion over new guidance.
-2. [Covid: Royal Bolton hospital taking 'urgent action' over virus](https://www.bbc.co.uk/news/uk-england-manchester-57242368) - Royal Bolton Hospital says it has experienced one of its busiest ever days amid a surge in patients.
+2. [Covid: Royal Bolton Hospital taking 'urgent action' over virus](https://www.bbc.co.uk/news/uk-england-manchester-57242368) - Royal Bolton Hospital says it has experienced one of its busiest ever days amid a surge in patients.
 3. [PM's burka comments gave impression of insensitivity - report](https://www.bbc.co.uk/news/uk-politics-57239483) - Boris Johnson launched a report in 2019 following complaints of Islamophobia in the party.
 4. [Carey Mulligan criticises government delay to charity aid](https://www.bbc.co.uk/news/uk-57247477) - The government had agreed to pay to pay War Child £500,000 but has since delayed the funding.
 5. [Mothers demand apology over forced adoptions](https://www.bbc.co.uk/news/uk-57231621) - Some of the 250,000 unmarried women forced to give up babies say it led to a lifetime of grief.
