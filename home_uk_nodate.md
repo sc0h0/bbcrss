@@ -7,7 +7,7 @@
 7. [US issues Japan travel warning weeks before Olympics](https://www.bbc.co.uk/news/world-asia-57236769) - It comes amid heightened scrutiny and pressure to call off the Tokyo Olympics due to be held soon.
 8. [Government borrowing fell in April as UK reopened](https://www.bbc.co.uk/news/business-57237574) - Despite the fall, borrowing was still the second highest on record for April as Covid spending continues.
 9. [Former Royal Marine makes a stand against anti-social behaviour](https://www.bbc.co.uk/news/uk-england-tees-57233796) - Sean Ivey fought back at youths plaguing his village but then saw his home burnt down.
-10. [Conservative MP Rob Roberts faces six-week suspension for sexual misconduct](https://www.bbc.co.uk/news/uk-wales-politics-56757772) - Delyn MP Rob Roberts found by independent panel to have breached Parliament's sexual misconduct policy.
+10. [Conservative MP Rob Roberts told staffer to be 'less alluring'](https://www.bbc.co.uk/news/uk-wales-politics-56757772) - Tory MP faces six-week suspension from Parliament after panel found he sexually harassed an employee.
 11. [Rocco Morabito: Italian fugitive arrested in Brazil](https://www.bbc.co.uk/news/world-europe-57239520) - Rocco Morabito, who has been wanted since the 1990s, escaped from a prison in Uruguay in 2019.
 12. [Texas to allow unlicensed carrying of handguns](https://www.bbc.co.uk/news/world-us-canada-57239610) - A bill which further eases some of the loosest gun laws in the US is set to be approved.
 13. [The Papers: Brits flock to Spain as EU leaders condemn Belarus](https://www.bbc.co.uk/news/blogs-the-papers-57236358) - Tuesday's front pages look back at Covid deaths in hospitals and ahead to further lockdown easing.
