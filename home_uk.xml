@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 May 2021 08:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 09:14:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,11 @@
             <pubDate>Tue, 25 May 2021 03:37:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Government borrowing fell in April as UK reopened]]></title>
-            <description><![CDATA[Despite the fall, borrowing was still the second highest on record for April as Covid spending continues.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57237574</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57237574</guid>
-            <pubDate>Tue, 25 May 2021 08:06:27 GMT</pubDate>
+            <title><![CDATA[BBC to publish report on Bashir rehiring next week]]></title>
+            <description><![CDATA[The director general says there is "no doubt" rehiring journalist Martin Bashir was a "big mistake".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57238874</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57238874</guid>
+            <pubDate>Tue, 25 May 2021 09:10:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sasha Johnson: Black Lives Matter activist shot by group of men]]></title>
@@ -51,18 +51,18 @@
             <pubDate>Tue, 25 May 2021 08:43:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: 'Stay local' advice over variant and tourism takes a hit]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57237553</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57237553</guid>
-            <pubDate>Tue, 25 May 2021 06:33:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No alternative to 'full implementation' of NI Protocol, says EC chief]]></title>
             <description><![CDATA[Ursula von der Leyen says the protocol ensures stability in NI and protects the EU single market.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57238226</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57238226</guid>
             <pubDate>Tue, 25 May 2021 06:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: 'Stay local' advice over variant and tourism takes a hit]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57237553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57237553</guid>
+            <pubDate>Tue, 25 May 2021 06:33:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tata Steel to continue salaries for Covid victims' families in India]]></title>
@@ -72,11 +72,11 @@
             <pubDate>Tue, 25 May 2021 03:08:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK tourism spending 'worth just half of pre-pandemic level']]></title>
-            <description><![CDATA[The sector is set for a slow recovery from the pandemic, with foreign visitors still staying away.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57230018</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57230018</guid>
-            <pubDate>Mon, 24 May 2021 23:05:16 GMT</pubDate>
+            <title><![CDATA[Government borrowing fell in April as UK reopened]]></title>
+            <description><![CDATA[Despite the fall, borrowing was still the second highest on record for April as Covid spending continues.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57237574</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57237574</guid>
+            <pubDate>Tue, 25 May 2021 08:06:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former Royal Marine makes a stand against anti-social behaviour]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Mon, 24 May 2021 23:00:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Street's power turned off for dramatic cat rescue]]></title>
+            <description><![CDATA[The mischievous moggy spent hours stuck at the top of a 10m electricity pole in Stow-on-the-Wold.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57232141</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-57232141</guid>
+            <pubDate>Tue, 25 May 2021 08:13:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[George Floyd death: How do I talk to my son about race?]]></title>
             <description><![CDATA[A year on from the death of George Floyd, BBC presenter Eddie Nestor examines his role as a father.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57205016</link>
@@ -147,13 +154,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-57227332</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57227332</guid>
             <pubDate>Mon, 24 May 2021 11:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Billboard Music Awards: Drake's son joins him to accept artist of the decade]]></title>
-            <description><![CDATA[The star brings his tearful three-year-old on stage as he accepts a prize for artist of the decade.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57226309</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57226309</guid>
-            <pubDate>Mon, 24 May 2021 11:26:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tech giants fight 'cloud wars' deep in the ocean]]></title>
@@ -233,11 +233,11 @@
             <pubDate>Tue, 25 May 2021 05:04:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Match of the Day Top 10 team rank their Premier League champions]]></title>
-            <description><![CDATA[Premier League title winners are ranked by Gary Lineker, Alan Shearer and Micah Richards in the Match of The Day: Top 10 podcast.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57145394</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57145394</guid>
-            <pubDate>Tue, 25 May 2021 06:09:19 GMT</pubDate>
+            <title><![CDATA[Fight Talk: Who's next for Scotland's undisputed champion Josh Taylor?]]></title>
+            <description><![CDATA[Who should Josh Taylor fight next? And should we now move on from Tyson Fury and Anthony Joshua? Plus more in this week's Fight Talk.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/57230770</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57230770</guid>
+            <pubDate>Tue, 25 May 2021 09:00:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[As Southgate prepares to name provisional squad, who made your England Euros squad?]]></title>
@@ -304,10 +304,10 @@
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[Lockdown restrictions will ease in Northern Ireland, following rule changes in England, Scotland and Wales]]></description>
+            <description><![CDATA[People are being told to avoid travelling to eight areas of England where Covid is spreading fast.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 24 May 2021 07:58:10 GMT</pubDate>
+            <pubDate>Tue, 25 May 2021 08:55:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Athlete and father - the man behind the mural]]></title>
