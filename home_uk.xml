@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 May 2021 21:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 22:28:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,11 @@
             <pubDate>Tue, 25 May 2021 21:42:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Royal Bolton Hospital taking 'urgent action' over virus]]></title>
-            <description><![CDATA[Royal Bolton Hospital says it has experienced one of its busiest ever days amid a surge in patients.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57242368</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57242368</guid>
-            <pubDate>Tue, 25 May 2021 19:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM's burka comments gave impression of insensitivity - report]]></title>
-            <description><![CDATA[Boris Johnson launched a report in 2019 following complaints of Islamophobia in the party.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57239483</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57239483</guid>
-            <pubDate>Tue, 25 May 2021 15:31:11 GMT</pubDate>
+            <title><![CDATA[George Floyd: US marks anniversary of the killing]]></title>
+            <description><![CDATA[It is one year since the 46-year-old black man was murdered by a police officer in Minneapolis.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57245837</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57245837</guid>
+            <pubDate>Tue, 25 May 2021 21:14:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carey Mulligan criticises government delay to charity aid]]></title>
@@ -42,6 +35,20 @@
             <link>https://www.bbc.co.uk/news/uk-57247477</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57247477</guid>
             <pubDate>Tue, 25 May 2021 20:24:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dead children washed up on Libyan beach, says charity]]></title>
+            <description><![CDATA[The photos reportedly show the bodies of people who tried to cross the Mediterranean to Europe.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57245831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57245831</guid>
+            <pubDate>Tue, 25 May 2021 22:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Murder probe in Corby after boy, 16, dies in stabbing]]></title>
+            <description><![CDATA[The teenager died at the scene despite the best efforts of paramedics, say police.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-57249741</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-57249741</guid>
+            <pubDate>Tue, 25 May 2021 21:39:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tasmanian devils born on Australian mainland after 3,000 years]]></title>
@@ -72,18 +79,18 @@
             <pubDate>Tue, 25 May 2021 17:13:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PM's burka comments gave impression of insensitivity - report]]></title>
+            <description><![CDATA[Boris Johnson launched a report in 2019 following complaints of Islamophobia in the party.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57239483</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57239483</guid>
+            <pubDate>Tue, 25 May 2021 15:31:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Regeni murder: Italy orders four Egyptians to stand trial]]></title>
             <description><![CDATA[Five years after Giulio Regeni's body was found in Cairo, a judge says four Egyptians should be tried.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57238620</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57238620</guid>
             <pubDate>Tue, 25 May 2021 17:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Murder probe in Corby after boy, 16, dies in stabbing]]></title>
-            <description><![CDATA[The teenager died at the scene despite the best efforts of paramedics, say police.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-57249741</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-57249741</guid>
-            <pubDate>Tue, 25 May 2021 21:39:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: First man to get jab William Shakespeare dies of unrelated illness]]></title>
@@ -275,20 +282,6 @@
             <pubDate>Tue, 25 May 2021 20:42:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Solskjaer eyes Europa League win to herald bright future for Man Utd]]></title>
-            <description><![CDATA[Ole Gunnar Solskjaer says a Manchester United win over Villarreal in the Europa League final could be a "stepping stone for a big future".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57224112</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57224112</guid>
-            <pubDate>Tue, 25 May 2021 17:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White & Godfrey among uncapped quartet in 33-man provisional England squad]]></title>
-            <description><![CDATA[Uncapped Ben White, Ben Godfrey, Sam Johnstone and Aaron Ramsdale are named in England's 33-man provisional Euro 2020 squad.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57239842</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57239842</guid>
-            <pubDate>Tue, 25 May 2021 13:07:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bernal prepares for intense final week at Giro after fans chase him with chainsaws]]></title>
             <description><![CDATA[Back in form after a 2020 ruined by injury, can anyone deny 2019 Tour de France champion Egan Bernal victory in the final week at the Giro d'Italia?]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/57189490</link>
@@ -296,11 +289,32 @@
             <pubDate>Tue, 25 May 2021 19:02:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lawrence Okoye on NFL and return to discus: 'Physically I am superior now - American football aided me']]></title>
-            <description><![CDATA[After nine years, seven American football teams and a lockdown spent throwing in a Hull park, London 2012 poster boy Lawrence Okoye is back in the circle and aiming for the world's elite.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/57186877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57186877</guid>
-            <pubDate>Tue, 25 May 2021 06:01:50 GMT</pubDate>
+            <title><![CDATA[Lawro's predictions: Villarreal v Man Utd - Europa League final special with Tom Grennan]]></title>
+            <description><![CDATA[BBC football expert Mark Lawrenson takes on singer Tom Grennan to predict whether Manchester United or Villarreal will win the Europa League final.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57229575</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57229575</guid>
+            <pubDate>Tue, 25 May 2021 15:22:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Galtier leaves French champions Lille two days after winning title]]></title>
+            <description><![CDATA[Head coach Christophe Galtier steps down from Lille just two days after they won the French league title.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57248572</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57248572</guid>
+            <pubDate>Tue, 25 May 2021 21:49:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solskjaer eyes Europa League win to herald bright future for Man Utd]]></title>
+            <description><![CDATA[Ole Gunnar Solskjaer says a Manchester United win over Villarreal in the Europa League final could be a "stepping stone for a big future".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57224112</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57224112</guid>
+            <pubDate>Tue, 25 May 2021 17:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Race for Zaha and Pochettino considers Spurs return - Wednesday's gossip]]></title>
+            <description><![CDATA[Tottenham and Everton want to sign £40m Zaha, Spurs in talks with Belgium boss Martinez, Wolves set to sell £35m Neves, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/57241513</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/57241513</guid>
+            <pubDate>Tue, 25 May 2021 21:59:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
