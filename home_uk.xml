@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 May 2021 21:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 May 2021 21:41:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,6 +93,13 @@
             <pubDate>Wed, 26 May 2021 16:29:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Friends reunion: 10 of the best moments]]></title>
+            <description><![CDATA[The six stars have reunited for a new televised special, 17 years after Friends drew to a close.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57120599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57120599</guid>
+            <pubDate>Wed, 26 May 2021 21:02:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dominic Cummings: The seven most explosive claims]]></title>
             <description><![CDATA[The PM's former chief aide makes a series of allegations about the government's Covid response.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57254915</link>
@@ -114,18 +121,18 @@
             <pubDate>Wed, 26 May 2021 15:11:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Galápagos tortoise found alive is from species thought extinct]]></title>
-            <description><![CDATA[Tests carried out on a giant tortoise found in 2019 confirm it belongs to a species believed extinct.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57253471</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57253471</guid>
-            <pubDate>Wed, 26 May 2021 11:01:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Driving lessons and Covid: 'I've been turned away by 50 instructors']]></title>
             <description><![CDATA[Learners are on waiting lists for lessons as instructors struggle to meet the post-lockdown demand.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57242628</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57242628</guid>
             <pubDate>Wed, 26 May 2021 11:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Galápagos tortoise found alive is from species thought extinct]]></title>
+            <description><![CDATA[Tests carried out on a giant tortoise found in 2019 confirm it belongs to a species believed extinct.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57253471</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57253471</guid>
+            <pubDate>Wed, 26 May 2021 11:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nick Knowles to return to DIY SOS role despite Shreddies advert]]></title>
@@ -147,13 +154,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-57225142</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57225142</guid>
             <pubDate>Tue, 25 May 2021 23:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dominic Cummings: His views on Covid and why it matters]]></title>
-            <description><![CDATA[Boris Johnson's former chief adviser has been a critic of the government since leaving his role.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57240020</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57240020</guid>
-            <pubDate>Tue, 25 May 2021 23:01:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cummings' claims fact-checked ]]></title>
