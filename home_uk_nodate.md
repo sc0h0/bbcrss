@@ -9,7 +9,7 @@
 9. [Carey Mulligan criticises government delay to charity aid](https://www.bbc.co.uk/news/uk-57247477) - The government had agreed to pay to pay War Child £500,000 but has since delayed the funding.
 10. [Housing: Shelter calls for 90,000 social homes to be built](https://www.bbc.co.uk/news/uk-57249022) - The housing charity says around a third of British adults do not have safe or secure accommodation.
 11. [George Floyd sister says Biden broke promise on bill](https://www.bbc.co.uk/news/world-us-canada-57245837) - The murdered Minneapolis man's family express hope and frustration over stalled police reform legislation.
-12. [Dead children washed up on Libyan beach, says charity](https://www.bbc.co.uk/news/world-africa-57245831) - Photos reportedly show the bodies of people who tried to cross the Mediterranean to Europe.
+12. [Families in anguish over pair held in Belarus](https://www.bbc.co.uk/news/world-europe-57247332) - Roman Protasevich and his girlfriend Sofia Sapega were detained after a plane was diverted to Minsk.
 13. [Elliot Page: Actor wins praise for sharing swimming shorts image after top surgery](https://www.bbc.co.uk/news/entertainment-arts-57239448) - The trans actor previously described top surgery, where breast tissue is removed, as "life-saving".
 14. [The Papers: Lockdown 'farce' as vaccines 'hit new high'](https://www.bbc.co.uk/news/blogs-the-papers-57249894) - The front pages look at updated travel advice for parts of England worst-hit by the Indian variant.
 15. [From protests to 'patriots': Why China is crushing Hong Kong dissent](https://www.bbc.co.uk/news/world-asia-57225142) - After clamping down on protests it has reformed elections - what does this mean for Hong Kong's future?
