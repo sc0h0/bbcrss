@@ -7,8 +7,8 @@
 7. [San Jose shooting: Eight killed in California rail yard shooting](https://www.bbc.co.uk/news/world-us-canada-57260869) - The shooting took place at a regional rail yard in San Jose, California early on Wednesday.
 8. [Villarreal beat Man Utd to win Europa League](https://www.bbc.co.uk/sport/football/57224112) - Goalkeeper David de Gea sees a penalty saved in an epic shootout as Villarreal beat Manchester United to win the Europa League.
 9. [Swiss abandon years of EU talks and reject treaty](https://www.bbc.co.uk/news/world-europe-57251681) - Switzerland's decision to halt efforts on reaching an over-arching treaty could harm ties with the EU.
-10. [Cummings: Care home protective shield was 'nonsense'](https://www.bbc.co.uk/news/health-57259671) - Former Downing Street adviser Dominic Cummings says care homes lacked tests and protection.
-11. [Batley school protests: Teacher allowed back in Prophet Muhammad image row](https://www.bbc.co.uk/news/uk-england-leeds-57261147) - The teacher can return to the school after showing pupils a caricature of the Prophet Muhammad.
+10. [Brad Pitt awarded joint custody of children with Angelina Jolie](https://www.bbc.co.uk/news/entertainment-arts-57259969) - The actor has been granted joint custody of his children with Angelina Jolie after a court battle.
+11. [Cummings: Care home protective shield was 'nonsense'](https://www.bbc.co.uk/news/health-57259671) - Former Downing Street adviser Dominic Cummings says care homes lacked tests and protection.
 12. [Mayhill riot: 'I have two children inside, please come'](https://www.bbc.co.uk/news/uk-wales-57258272) - Adam Romain pleads with police as a mob in Swansea targets his house with his young family inside.
 13. [Friends reunion: 10 of the best moments](https://www.bbc.co.uk/news/entertainment-arts-57120599) - The six stars have reunited for a new televised special, 17 years after Friends drew to a close.
 14. [Dominic Cummings: The seven most explosive claims](https://www.bbc.co.uk/news/uk-politics-57254915) - The PM's former chief aide makes a series of allegations about the government's Covid response.
