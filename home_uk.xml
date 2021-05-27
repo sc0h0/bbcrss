@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 May 2021 20:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 21:04:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,18 +79,18 @@
             <pubDate>Thu, 27 May 2021 15:59:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[San Jose shooting: Victims named after rail employee kills nine]]></title>
+            <description><![CDATA[The death toll has risen to nine after the shooting in the Californian city of San Jose.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57260869</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57260869</guid>
+            <pubDate>Thu, 27 May 2021 18:16:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[County lines: The search for vulnerable children]]></title>
             <description><![CDATA[The BBC's Angus Crawford joins police as they look for vulnerable young people involved in county lines.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57271269</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57271269</guid>
             <pubDate>Thu, 27 May 2021 16:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: China hits back as US revisits Wuhan lab-leak theory]]></title>
-            <description><![CDATA[China accuses the US of "political manipulation" over investigations into the origins of the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57267729</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57267729</guid>
-            <pubDate>Thu, 27 May 2021 17:29:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Airbnb extends worldwide party ban until end of summer]]></title>
@@ -175,6 +175,13 @@
             <link>https://www.bbc.co.uk/news/57268471</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/57268471</guid>
             <pubDate>Thu, 27 May 2021 15:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid origin: Why the Wuhan lab-leak theory is being taken seriously]]></title>
+            <description><![CDATA[The claim Covid-19 may have leaked from a Chinese laboratory is gaining traction. Here's what we know.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57268111</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57268111</guid>
+            <pubDate>Thu, 27 May 2021 17:21:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will tennis star Naomi Osaka's media silence prompt change?]]></title>
@@ -275,7 +282,7 @@
             <pubDate>Thu, 27 May 2021 15:42:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Picking Olympic GB squad 'the hardest decision I ever made' - Riise]]></title>
+            <title><![CDATA[Picking GB Olympic squad 'the hardest decision I ever made' - Riise]]></title>
             <description><![CDATA[Head coach Hege Riise says selecting the players to represent Great Britain at this summer's Olympic Games was "the hardest decision I ever made".]]></description>
             <link>https://www.bbc.co.uk/sport/football/57275615</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57275615</guid>
