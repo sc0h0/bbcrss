@@ -1,7 +1,7 @@
 1. [Covid: Matt Hancock to face questions after Dominic Cummings attack](https://www.bbc.co.uk/news/uk-politics-57262790) - The PM's ex-aide said the health secretary was "incapable" - claims rejected by Matt Hancock's team.
 2. [County lines: 1,100 people arrested in UK crackdown](https://www.bbc.co.uk/news/uk-57262070) - Eighty drug dealing phone lines were identified and 292 weapons seized across the UK in a week.
 3. [Covid: Biden orders intelligence report on virus origin](https://www.bbc.co.uk/news/world-us-canada-57260009) - The US president gives intelligence agencies 90 days to report amid controversy over its origin.
-4. [Rising patient numbers threaten to overwhelm GPs](https://www.bbc.co.uk/news/health-57229848) - Patients struggling to get appointments as GPs report surge in appointments being booked.
+4. [Rising patient numbers threaten to overwhelm GPs](https://www.bbc.co.uk/news/health-57229848) - Patients are struggling to get appointments as GPs report a surge in appointments being booked.
 5. [Climate: World at risk of hitting temperature limit soon](https://www.bbc.co.uk/news/science-environment-57261670) - It's increasingly likely that a key temperature limit will be reached in one of the next five years.
 6. [Eric Carle: Very Hungry Caterpillar author dies aged 91](https://www.bbc.co.uk/news/world-us-canada-57263822) - The US author of the best-selling children's classic passed away last Sunday, his family said.
 7. [Covid: France imposes quarantine on UK travellers](https://www.bbc.co.uk/news/world-europe-57256859) - France joins Austria and Germany in introducing restrictions due to the spread of the Indian variant.
