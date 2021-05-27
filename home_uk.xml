@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 May 2021 06:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 May 2021 07:08:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,11 @@
             <pubDate>Wed, 26 May 2021 23:02:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Biden orders intelligence report on virus origin]]></title>
-            <description><![CDATA[The US president gives intelligence agencies 90 days to report amid controversy over its origin.]]></description>
+            <title><![CDATA[Covid: Biden orders investigation into virus origin as lab leak theory debated]]></title>
+            <description><![CDATA[US intelligence agencies are split on whether it came from a Chinese lab or animal-to-human contact.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57260009</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57260009</guid>
-            <pubDate>Thu, 27 May 2021 02:13:40 GMT</pubDate>
+            <pubDate>Thu, 27 May 2021 07:02:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rising patient numbers threaten to overwhelm GPs]]></title>
@@ -205,13 +205,6 @@
             <pubDate>Thu, 27 May 2021 00:02:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Villarreal beat Man Utd to win Europa League as De Gea misses in epic shootout]]></title>
-            <description><![CDATA[Goalkeeper David de Gea sees a penalty saved in an epic shootout as Villarreal beat Manchester United to win the Europa League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57224112</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57224112</guid>
-            <pubDate>Wed, 26 May 2021 22:50:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Season without a trophy not a success - Solskjaer]]></title>
             <description><![CDATA[Ole Gunnar Solskjaer accepts this season has not been a success for Manchester United but believes his squad has the right characters to do better next term.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57263786</link>
@@ -226,25 +219,32 @@
             <pubDate>Thu, 27 May 2021 06:00:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New players? And what about Pogba? The major decisions facing Solskjaer]]></title>
+            <description><![CDATA[Manchester United boss Ole Gunnar Solskjaer has ambitions beyond a Europa League final, but has numerous issues to solve first.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57263747</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57263747</guid>
+            <pubDate>Thu, 27 May 2021 05:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Novak Djokovic: Boris Becker, Goran Ivanisevic & Nikola Pilic on making of a champion]]></title>
+            <description><![CDATA[Novak Djokovic has "two sides" and can be a "24-hour stress" to coach - Boris Becker, Goran Ivanisevic and Nikola Pilic on what makes him a champion.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57257290</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57257290</guid>
+            <pubDate>Thu, 27 May 2021 06:30:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Inter's new direction & Conte were incompatible despite title win]]></title>
+            <description><![CDATA[Why cost-cutting and a different view of how the future should look saw Antonio Conte leave Inter Milan after winning the title.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57263429</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57263429</guid>
+            <pubDate>Thu, 27 May 2021 06:05:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[French Open: Naomi Osaka says she will not take questions at tournament]]></title>
             <description><![CDATA[Naomi Osaka will not take questions during the French Open due to the impact it can have on the mental health of players.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57263774</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57263774</guid>
             <pubDate>Wed, 26 May 2021 23:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['They are a million miles away' - how pundits reacted to Man Utd's Europa League final defeat]]></title>
-            <description><![CDATA[Manchester United are still "a million miles away" after their Europa League final defeat to Villarreal says Neil Lennon.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57263642</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57263642</guid>
-            <pubDate>Wed, 26 May 2021 23:48:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rashford receives 'at least 70 racial slurs' on social media]]></title>
-            <description><![CDATA[Manchester United forward Marcus Rashford says he has received "at least 70 racial slurs" on social media following the Europa League final loss to Villarreal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57263805</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57263805</guid>
-            <pubDate>Wed, 26 May 2021 23:53:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which areas are being surge tested for variants?]]></title>
