@@ -1,5 +1,5 @@
 1. [Covid-19: Up to 75% of new UK cases could be Indian variant - Matt Hancock](https://www.bbc.co.uk/news/uk-57275276) - Health Secretary Matt Hancock says it is "critical" to monitor the link between cases and hospitalisations.
-2. [Covid: Johnson and Hancock reject Cummings' criticism](https://www.bbc.co.uk/news/uk-politics-57262790) - The ex-chief adviser accused the government of causing tens of thousands of unnecessary deaths.
+2. [Covid-19: Matt Hancock defends care home action after Cummings' claims](https://www.bbc.co.uk/news/uk-politics-57276006) - He is accused of lying about ensuring testing for those discharged from hospitals to care homes.
 3. [Covid: Live music events to return in Wales](https://www.bbc.co.uk/news/uk-wales-57274118) - Venues will need to limit groups to a maximum of six people from six households.
 4. [Covid-19: Indian variant cases rise and cough-detecting phone app](https://www.bbc.co.uk/news/uk-57272736) - Five things you need to know about the coronavirus pandemic this Thursday evening.
 5. [Eastbourne fire: Three men guilty over house fire murders of mum and son](https://www.bbc.co.uk/news/uk-england-sussex-57199083) - Gina Ingles and four-year-old Milo Ingles-Bailey died in a fire after a row over drugs debts.
@@ -33,7 +33,7 @@
 33. ['Fortress Australia': Why calls to open up borders are meeting resistance](https://www.bbc.co.uk/news/world-australia-57224635) - Many Australians are loath to relax border controls despite experts warning of the harms of isolation.
 34. [Tottenham make contact with former boss Pochettino](https://www.bbc.co.uk/sport/football/57268046) - Tottenham contact Mauricio Pochettino, who managed them from 2014 to 2019, about a return to the club.
 35. [Nadal, Djokovic & Federer in same half of French Open draw](https://www.bbc.co.uk/sport/tennis/57273187) - Defending champion Rafael Nadal could meet Novak Djokovic in the French Open semi-finals after the pair land in the same half of the men's draw.
-36. [Houghton, Weir and Ingle in GB squad for Olympics](https://www.bbc.co.uk/sport/football/57255330) - England captain Steph Houghton is among those selected for the Team GB squad at this summer's Olympic Games.
+36. [Picking Olympic GB squad 'the hardest decision I ever made' - Riise](https://www.bbc.co.uk/sport/football/57275615) - Head coach Hege Riise says selecting the players to represent Great Britain at this summer's Olympic Games was "the hardest decision I ever made".
 37. [England kick off against Fiji - 2021 Rugby World Cup fixtures schedule released](https://www.bbc.co.uk/sport/rugby-union/57273290) - England will open their Rugby World Cup campaign next year against debutants Fiji at Eden Park in New Zealand.
 38. [Hameed has 'come back strong' to earn England recall - Giles](https://www.bbc.co.uk/sport/cricket/57274052) - Batsman Haseeb Hameed has "come back strong" to earn an England recall, according to Ashley Giles.
 39. [Double Commonwealth and European champions Adcocks retire from badminton](https://www.bbc.co.uk/sport/badminton/57271125) - England's double Commonwealth and European champions Chris and Gabby Adcock retire from badminton.
