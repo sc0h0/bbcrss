@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 May 2021 10:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 11:04:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Fri, 28 May 2021 05:26:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Decision due on Glasgow restrictions]]></title>
+            <description><![CDATA[Nicola Sturgeon is to announce whether Glasgow will remain in level three of Covid-19 restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57267385</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57267385</guid>
+            <pubDate>Fri, 28 May 2021 08:58:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: 21 June lockdown easing date not guaranteed - Kwasi Kwarteng]]></title>
             <description><![CDATA[Some scientists suggest the reopening date should be delayed until more people are fully vaccinated.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57278879</link>
@@ -69,21 +76,14 @@
             <description><![CDATA[Foreign Minister Heiko Maas asks for forgiveness for atrocities and announces financial aid package.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57279008</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57279008</guid>
-            <pubDate>Fri, 28 May 2021 09:57:12 GMT</pubDate>
+            <pubDate>Fri, 28 May 2021 10:51:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: PM backs Matt Hancock over Dominic Cummings' care home claims]]></title>
             <description><![CDATA[The health secretary denies claims he misled the PM at the start of the pandemic about testing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57276006</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57276006</guid>
-            <pubDate>Fri, 28 May 2021 08:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ryan Giggs appears at crown court accused of coercive control]]></title>
-            <description><![CDATA[Ryan Giggs is accused of deliberately headbutting ex-girlfriend Kate Greville and controlling her.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57280487</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57280487</guid>
-            <pubDate>Fri, 28 May 2021 09:34:49 GMT</pubDate>
+            <pubDate>Fri, 28 May 2021 10:14:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Barack Obama praises Marcus Rashford in Zoom meeting]]></title>
@@ -209,7 +209,14 @@
             <description><![CDATA[Juventus sack Andrea Pirlo as manager after he spent just one season in charge of the Italian club.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57268050</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57268050</guid>
-            <pubDate>Fri, 28 May 2021 09:57:15 GMT</pubDate>
+            <pubDate>Fri, 28 May 2021 10:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Giggs to go on trial for allegedly headbutting ex-girlfriend]]></title>
+            <description><![CDATA[Ryan Giggs is accused of deliberately headbutting ex-girlfriend Kate Greville and controlling her.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57280487</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57280487</guid>
+            <pubDate>Fri, 28 May 2021 09:34:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A 'phenomenal mistake' or will Osaka's decision to not speak to media prompt change?]]></title>
@@ -231,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/av/baseball/57281368</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/baseball/57281368</guid>
             <pubDate>Fri, 28 May 2021 09:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We've earned it' - Noel Gallagher on Man City's Champions League chances and Guardiola friendship]]></title>
-            <description><![CDATA[Famous Manchester City fan Noel Gallagher tells BBC Sport about promises from City's owners, conversations with Pep Guardiola - and City's chances in the Champions League final.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57275565</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57275565</guid>
-            <pubDate>Fri, 28 May 2021 05:52:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
