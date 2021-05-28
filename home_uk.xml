@@ -11,23 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 May 2021 12:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 May 2021 12:59:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Fishmongers' Hall: Graduates were unlawfully killed by terrorist]]></title>
+            <description><![CDATA[Saskia Jones and Jack Merritt were stabbed by Usman Khan less than a year after he left prison.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57260509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57260509</guid>
+            <pubDate>Fri, 28 May 2021 12:57:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Janssen single-dose Covid vaccine approved by UK]]></title>
             <description><![CDATA[Twenty million doses have been ordered for the UK and will arrive later this year.]]></description>
             <link>https://www.bbc.co.uk/news/health-57283837</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57283837</guid>
-            <pubDate>Fri, 28 May 2021 11:42:56 GMT</pubDate>
+            <pubDate>Fri, 28 May 2021 12:40:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Glasgow to remain in level three lockdown]]></title>
-            <description><![CDATA[The city will continue to be the only part of Scotland still under the country's level three restrictions.]]></description>
+            <description><![CDATA[The city will continue to be the only part of Scotland still under tougher Covid restrictions.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57282902</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57282902</guid>
-            <pubDate>Fri, 28 May 2021 11:51:04 GMT</pubDate>
+            <pubDate>Fri, 28 May 2021 12:08:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daniel Morgan: Report into murder to be released on 15 June]]></title>
@@ -41,7 +48,7 @@
             <description><![CDATA[Russia condemns a decision to avoid Belarusian airspace over the arrest of a dissident journalist.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57279482</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57279482</guid>
-            <pubDate>Fri, 28 May 2021 10:57:55 GMT</pubDate>
+            <pubDate>Fri, 28 May 2021 12:26:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Insurers must not penalise loyal customers, says FCA]]></title>
@@ -49,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/business-57270415</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57270415</guid>
             <pubDate>Fri, 28 May 2021 08:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British exports worth billions have faced EU tariffs since Brexit]]></title>
+            <description><![CDATA[Despite the tariff-free deal agreed with the EU, a study finds up to £3.5bn of exports have had taxes applied.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57282379</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57282379</guid>
+            <pubDate>Fri, 28 May 2021 12:00:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nike says it split with Neymar over sexual assault investigation]]></title>
@@ -79,20 +93,6 @@
             <pubDate>Fri, 28 May 2021 10:51:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Surgery waiting times could be cut with specialist hubs, say surgeons]]></title>
-            <description><![CDATA[Surgeons in England want specialist sites for non-urgent operations delayed because of the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57277793</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57277793</guid>
-            <pubDate>Fri, 28 May 2021 02:42:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: PM backs Matt Hancock over Dominic Cummings' care home claims]]></title>
-            <description><![CDATA[The health secretary denies claims he misled the PM at the start of the pandemic about testing.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57276006</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57276006</guid>
-            <pubDate>Fri, 28 May 2021 10:14:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sandwell Bitcoin mine found stealing electricity]]></title>
             <description><![CDATA[Police say they raided the building thinking they were going to find a cannabis farm.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-57280115</link>
@@ -101,7 +101,7 @@
         </item>
         <item>
             <title><![CDATA[Super-rare orange lobsters rescued from Leicester shop display]]></title>
-            <description><![CDATA[A shopper spotted the bright pair, thought to be as rare as one in 30 million, in Makro Leicester.]]></description>
+            <description><![CDATA[A shopper spotted the bright pair, thought to be as rare as one in 30 million, at Makro in Leicester.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-57283428</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-57283428</guid>
             <pubDate>Fri, 28 May 2021 11:39:51 GMT</pubDate>
@@ -121,18 +121,25 @@
             <pubDate>Thu, 27 May 2021 23:00:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brighton artist turns coma hallucinations into graphic novel]]></title>
-            <description><![CDATA[Zara Slattery had vivid hallucinations during a medical coma while fighting a flesh-eating bug.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-57206923</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57206923</guid>
-            <pubDate>Thu, 27 May 2021 23:00:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Harambe: Gorilla photo to be sold as an NFT five years after he was shot dead]]></title>
             <description><![CDATA[Memes and vigils were sparked worldwide when the western lowland gorilla was shot dead five years ago.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57279486</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57279486</guid>
             <pubDate>Fri, 28 May 2021 09:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cruella: Disney's live-action origin story gets mixed reviews]]></title>
+            <description><![CDATA["Extremely entertaining" or "messy, flabby and confused"? The critics weigh in on the new film.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57280085</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57280085</guid>
+            <pubDate>Fri, 28 May 2021 11:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brighton artist turns coma hallucinations into graphic novel]]></title>
+            <description><![CDATA[Zara Slattery had vivid hallucinations during a medical coma while fighting a flesh-eating bug.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-57206923</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57206923</guid>
+            <pubDate>Thu, 27 May 2021 23:00:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The teenagers fighting India's deadly Covid crisis]]></title>
@@ -163,13 +170,6 @@
             <pubDate>Fri, 28 May 2021 00:01:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glasgow: The city that has been locked down for nine months]]></title>
-            <description><![CDATA[People in Glasgow have been enduring some of the strictest restrictions in the country since last autumn.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57272876</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57272876</guid>
-            <pubDate>Fri, 28 May 2021 11:39:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The looming battle over abortion in the US]]></title>
             <description><![CDATA[Pro-choice groups say many restrictions have been introduced in states across the US this year.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57208053</link>
@@ -184,18 +184,18 @@
             <pubDate>Fri, 28 May 2021 04:39:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Does the UK have highest Covid death toll in Europe?]]></title>
-            <description><![CDATA[The total is the largest but for deaths per 100,000 people the UK is no longer top.]]></description>
-            <link>https://www.bbc.co.uk/news/57268471</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57268471</guid>
-            <pubDate>Thu, 27 May 2021 15:02:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Drones and live-streams: How tech is changing conservation]]></title>
             <description><![CDATA[Around the world, animal conservation has evolved so it's not just humans monitoring wildlife.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57234398</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57234398</guid>
             <pubDate>Fri, 28 May 2021 00:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the UK have highest Covid death toll in Europe?]]></title>
+            <description><![CDATA[The total is the largest but for deaths per 100,000 people the UK is no longer top.]]></description>
+            <link>https://www.bbc.co.uk/news/57268471</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/57268471</guid>
+            <pubDate>Thu, 27 May 2021 15:02:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Fortress Australia': Why calls to open up borders are meeting resistance]]></title>
@@ -210,6 +210,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57280487</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57280487</guid>
             <pubDate>Fri, 28 May 2021 11:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool agree £35m deal for French defender Konate]]></title>
+            <description><![CDATA[Liverpool agree to sign French central defender Ibrahima Konate from RB Leipzig for £35m on a long-term deal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57242659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57242659</guid>
+            <pubDate>Fri, 28 May 2021 12:37:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PSG not letting Pochettino go amid Tottenham interest - Balague]]></title>
@@ -231,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/av/motorsport/57253503</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/motorsport/57253503</guid>
             <pubDate>Fri, 28 May 2021 05:09:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MLB: Chicago Cubs steal a run in bizarre fashion against Pittsburgh Pirates]]></title>
-            <description><![CDATA[Watch Pittsburgh Pirates' Javier Báez get into a mess between home and first, allowing Willson Contreras to come home and steal a run for the Chicago Cubs much to his teammates' amusement.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/baseball/57281368</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/baseball/57281368</guid>
-            <pubDate>Fri, 28 May 2021 09:21:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
