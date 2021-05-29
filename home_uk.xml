@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 May 2021 14:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 14:57:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Charlie Hanson: Bafta suspends producer over sexual misconduct allegations]]></title>
+            <description><![CDATA[Charlie Hanson has been accused by "a number of women" of historical sexual allegations.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57291604</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57291604</guid>
+            <pubDate>Sat, 29 May 2021 14:53:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sasha Johnson: Man, 18, appears in court over activist's shooting]]></title>
             <description><![CDATA[Cameron Deriggs, 18, is charged with conspiracy to murder the black equal rights activist.]]></description>
@@ -44,20 +51,6 @@
             <pubDate>Sat, 29 May 2021 13:26:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Comedy of errors in Argentine TV Shakespeare mix-up]]></title>
-            <description><![CDATA[An Argentine TV presenter confuses the Immortal Bard with a British namesake who died this week.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57287764</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57287764</guid>
-            <pubDate>Fri, 28 May 2021 21:49:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CCTV shows Khan before he carried out the attack]]></title>
-            <description><![CDATA[CCTV and other footage shown at the inquest shows Usman Khan before he carried out the attack.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57283303</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57283303</guid>
-            <pubDate>Fri, 28 May 2021 23:09:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stonewall boss defends new strategy amid criticism]]></title>
             <description><![CDATA[Nancy Kelley says she is excited about its path despite claims it is taking an "extremist stance".]]></description>
             <link>https://www.bbc.co.uk/news/uk-57281448</link>
@@ -79,6 +72,13 @@
             <pubDate>Sat, 29 May 2021 11:40:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ex-US airline pilot admits lewd act in cockpit mid-flight]]></title>
+            <description><![CDATA[Michael Haak exposed himself to his female co-pilot and watched porn on a laptop, a court is told.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57294412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57294412</guid>
+            <pubDate>Sat, 29 May 2021 14:23:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Windermere engagement ring find freediver 'a brilliant man']]></title>
             <description><![CDATA[A couple pay tribute to Angus Hosking, who located their ring after it fell into Windermere.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-57282000</link>
@@ -91,6 +91,20 @@
             <link>https://www.bbc.co.uk/news/world-asia-57292558</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57292558</guid>
             <pubDate>Sat, 29 May 2021 13:56:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CCTV shows Khan before he carried out the attack]]></title>
+            <description><![CDATA[CCTV and other footage shown at the inquest shows Usman Khan before he carried out the attack.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57283303</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57283303</guid>
+            <pubDate>Fri, 28 May 2021 23:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comedy of errors in Argentine TV Shakespeare mix-up]]></title>
+            <description><![CDATA[An Argentine TV presenter confuses the Immortal Bard with a British namesake who died this week.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57287764</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57287764</guid>
+            <pubDate>Fri, 28 May 2021 21:49:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Emmys 2021: The binge-worthy TV shows in this year's race]]></title>
