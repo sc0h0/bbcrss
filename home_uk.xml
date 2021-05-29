@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 May 2021 08:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 09:26:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,18 +100,18 @@
             <pubDate>Fri, 28 May 2021 18:03:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Newspaper headlines: 'Keep face masks' plan and PM's child jabs decision]]></title>
-            <description><![CDATA[The papers lead on possible responses to the surge in cases of the Indian coronavirus variant.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57290569</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57290569</guid>
-            <pubDate>Sat, 29 May 2021 04:46:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emmys 2021: The binge-worthy TV shows in this year's race]]></title>
             <description><![CDATA[Ted Lasso, The Queen’s Gambit, The Flight Attendant and I May Destroy You could all be nominated.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57061121</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57061121</guid>
             <pubDate>Fri, 28 May 2021 23:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper headlines: 'Keep face masks' plan and PM's child jabs decision]]></title>
+            <description><![CDATA[The papers lead on possible responses to the surge in cases of the Indian coronavirus variant.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57290569</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57290569</guid>
+            <pubDate>Sat, 29 May 2021 04:46:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Venezuela's paradise beach resort turns into violent nightmare]]></title>
@@ -167,10 +167,10 @@
             <description><![CDATA[Steven Webb was paralysed as a teenager and 30 years later has become mayor of his home city.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-57203714</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-57203714</guid>
-            <pubDate>Fri, 28 May 2021 23:59:07 GMT</pubDate>
+            <pubDate>Sat, 29 May 2021 09:18:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tubes of mud, extracted like a cork from a bottle, reveal Earth’s secrets]]></title>
+            <title><![CDATA[Mud cylinders reveal humans' impact on Earth began earlier than we thought]]></title>
             <description><![CDATA[Scientists have tracked 4,000 years of human influence on the planet - all from long tubes of mud.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57273664</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57273664</guid>
@@ -191,7 +191,7 @@
             <pubDate>Fri, 28 May 2021 23:59:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brentford and Swansea set for £160m Championship play-off final]]></title>
+            <title><![CDATA[Brentford and Swansea set for £178m Championship play-off final]]></title>
             <description><![CDATA[Brentford, aiming to end a 74-year exile from the top flight, face Swansea City in Saturday's Championship play-off final.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57215919</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57215919</guid>
@@ -212,13 +212,6 @@
             <pubDate>Fri, 28 May 2021 21:04:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['We've earned it' - Noel Gallagher on Man City's Champions League chances and Guardiola friendship]]></title>
-            <description><![CDATA[Famous Manchester City fan Noel Gallagher tells BBC Sport about promises from City's owners, conversations with Pep Guardiola - and City's chances in the Champions League final.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57275565</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57275565</guid>
-            <pubDate>Fri, 28 May 2021 05:52:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fraser-Pryce surges to 100m win at Diamond League in Doha - highlights & report]]></title>
             <description><![CDATA[Jamaica's two-time Olympic champion Shelly-Ann Fraser-Pryce underlines her credentials for the 100m crown in Tokyo with an impressive win in Doha.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/57284488</link>
@@ -226,18 +219,25 @@
             <pubDate>Fri, 28 May 2021 18:38:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Indian Premier League 2021: Tournament to resume in United Arab Emirates in September]]></title>
+            <description><![CDATA[The remainder of the 2021 Indian Premier League season will take place in the United Arab Emirates in September and October.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57291879</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57291879</guid>
+            <pubDate>Sat, 29 May 2021 08:30:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['We've earned it' - Noel Gallagher on Man City's Champions League chances and Guardiola friendship]]></title>
+            <description><![CDATA[Famous Manchester City fan Noel Gallagher tells BBC Sport about promises from City's owners, conversations with Pep Guardiola - and City's chances in the Champions League final.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57275565</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57275565</guid>
+            <pubDate>Fri, 28 May 2021 05:52:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wales' Clayton takes Premier League Darts crown at first attempt]]></title>
             <description><![CDATA[Wales' Jonny Clayton beats Jose de Sousa 11-5 in the final to become Premier League Darts champion for the first time.]]></description>
             <link>https://www.bbc.co.uk/sport/darts/57270163</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/darts/57270163</guid>
             <pubDate>Fri, 28 May 2021 21:45:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea will face 'completely different Man City beast' to the side they beat twice]]></title>
-            <description><![CDATA[Manchester City will be a "completely different beast" to the side beaten twice this season by Chelsea when they meet in the Champions League final, says Jermaine Jenas.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57289428</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57289428</guid>
-            <pubDate>Fri, 28 May 2021 20:33:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Your guide to Spain, Portugal and other holiday hotspots]]></title>
