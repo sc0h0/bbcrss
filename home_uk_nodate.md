@@ -1,9 +1,9 @@
 1. [Covid-19: 'Very few' Covid hospital patients had two jabs, NHS boss says](https://www.bbc.co.uk/news/uk-57294438) - NHS boss Chris Hopson adds it's "incredibly striking" how busy hospitals are with non-Covid patients.
 2. [Boris Johnson marries Carrie Symonds at Westminster Cathedral](https://www.bbc.co.uk/news/uk-57296472) - Downing Street says the wedding took place on Saturday afternoon "in a small ceremony".
-3. [Holding on to hope during India’s Covid disaster](https://www.bbc.co.uk/news/world-asia-india-57286411) - The BBC's Nikita Mandhani reflects on her personal experience of the second wave in India.
-4. [Travis Perkins warns of price rises amid shortage of raw materials](https://www.bbc.co.uk/news/business-57299350) - Industry-wide shortages mean the builders' merchant will charge more for cement, chipboard and paint.
-5. [Afghan refugee found by motorway becomes architect](https://www.bbc.co.uk/news/uk-england-leicestershire-57284728) - Salman Khan hopes to return to Afghanistan to help build schools.
-6. [Israel politics: Lapid nears coalition after Netanyahu fell short](https://www.bbc.co.uk/news/world-latin-america-57298509) - Israel's opposition parties are close to a coalition agreement to form a "government of change".
+3. [Israel politics: Lapid nears coalition after Netanyahu fell short](https://www.bbc.co.uk/news/world-latin-america-57298509) - Israel's opposition parties are close to a coalition agreement to form a "government of change".
+4. [Holding on to hope during India’s Covid disaster](https://www.bbc.co.uk/news/world-asia-india-57286411) - The BBC's Nikita Mandhani reflects on her personal experience of the second wave in India.
+5. [Travis Perkins warns of price rises amid shortage of raw materials](https://www.bbc.co.uk/news/business-57299350) - Industry-wide shortages mean the builders' merchant will charge more for cement, chipboard and paint.
+6. [Afghan refugee found by motorway completes architecture degree](https://www.bbc.co.uk/news/uk-england-leicestershire-57284728) - Salman Khan hopes to return to Afghanistan to help build schools.
 7. [Poots: European Union treating NI as a political plaything](https://www.bbc.co.uk/news/uk-northern-ireland-57299360) - The new DUP leader Edwin Poots has accused the European Union of damaging the NI peace process.
 8. [Partner of Tory peer's son held over Belize death](https://www.bbc.co.uk/news/world-latin-america-57298507) - Jasmine Hartin, the partner of Lord Ashcroft's son, was discovered near the body of a police officer.
 9. [Plans for new national flagship to promote 'best of British'](https://www.bbc.co.uk/news/uk-57293882) - The government plans to build a successor to Britannia in the UK, at a reported cost of about £200m.
