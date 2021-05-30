@@ -1,15 +1,15 @@
 1. [Covid-19: 'Very few' Covid hospital patients had two jabs, NHS boss says](https://www.bbc.co.uk/news/uk-57294438) - NHS boss Chris Hopson adds it's "incredibly striking" how busy hospitals are with non-Covid patients.
-2. [Boris Johnson marries fiancee in secret ceremony - reports](https://www.bbc.co.uk/news/uk-57296472) - Close friends and family attended the wedding at Westminster Cathedral, according to newspaper reports.
+2. [Boris Johnson marries Carrie Symonds at Westminster Cathedral](https://www.bbc.co.uk/news/uk-57296472) - Downing Street says the wedding took place on Saturday afternoon "in a small ceremony".
 3. [Plans for new national flagship to promote 'best of British'](https://www.bbc.co.uk/news/uk-57293882) - The government plans to build a successor to Britannia in the UK, at a reported cost of about £200m.
 4. [Covid-19: 'Very few' patients are fully vaccinated, and bars struggle for staff](https://www.bbc.co.uk/news/uk-57297319) - Five things you need to know about the coronavirus pandemic this Sunday morning.
 5. [Finding hope as Covid sweeps India](https://www.bbc.co.uk/news/world-asia-india-57286411) - The BBC's Nikita Mandhani reflects on her personal experience of the second wave in India.
 6. [Belarus: Hundreds join global solidarity protests](https://www.bbc.co.uk/news/world-europe-57294442) - Crowds call for the release of an activist who was arrested when his flight was grounded in Minsk.
-7. [Senior MP demands answers for leaseholders](https://www.bbc.co.uk/news/business-57240060) - Clive Betts asks why guidance for leaseholders selling or remortgaging flats is not being followed.
-8. [Charlie Hanson: Bafta suspends producer over sexual misconduct allegations](https://www.bbc.co.uk/news/uk-57291604) - Charlie Hanson has been accused by "a number of women" of historical sexual allegations.
+7. [South Western Ambulance Service declares 'critical incident'](https://www.bbc.co.uk/news/uk-england-57298467) - South Western Ambulance Service blames "extreme pressures" for extended wait times for patients.
+8. [Senior MP demands answers for leaseholders](https://www.bbc.co.uk/news/business-57240060) - Clive Betts asks why guidance for leaseholders selling or remortgaging flats is not being followed.
 9. [Brazil: Protesters blame Bolsonaro for Covid crisis](https://www.bbc.co.uk/news/world-latin-america-57294415) - Thousands of people angry at the slow rollout of vaccines took to the streets in cities across Brazil.
 10. [North Korea says orphan children volunteering on mines and farms](https://www.bbc.co.uk/news/world-asia-57293167) - State news reports the children want "to repay even just a millionth of the love the party showed".
-11. [Newspaper headlines: PM 'weds in secret' and Wuhan lab leak 'feasible'](https://www.bbc.co.uk/news/blogs-the-papers-57296743) - The front pages are dominated by the 30-guest wedding of Boris Johnson and Carrie Symonds.
-12. [How opera helped me come out as trans](https://www.bbc.co.uk/news/uk-57275103) - Adrian Angelico is one of the few trans male opera singers in the world.
+11. [How opera helped me come out as trans](https://www.bbc.co.uk/news/uk-57275103) - Adrian Angelico is one of the few trans male opera singers in the world.
+12. [Newspaper headlines: PM 'weds in secret' and Wuhan lab leak 'feasible'](https://www.bbc.co.uk/news/blogs-the-papers-57296743) - The front pages are dominated by the 30-guest wedding of Boris Johnson and Carrie Symonds.
 13. [Dogs rehomed: ‘She went from a defeated dog, to a great pet’](https://www.bbc.co.uk/news/uk-northern-ireland-57200393) - For dogs like June, a new home is a lifesaver - but more animals may need new homes post-lockdown.
 14. [Covid: Teaching post-Covid patients to breathe again](https://www.bbc.co.uk/news/uk-england-derbyshire-57185704) - A tai chi teacher found he was contacted by patients during the pandemic.
 15. [CCTV shows Khan before he carried out the attack](https://www.bbc.co.uk/news/uk-57283303) - CCTV and other footage shown at the inquest shows Usman Khan before he carried out the attack.
