@@ -1,7 +1,7 @@
 1. [Israel coalition government a threat to security, warns Netanyahu](https://www.bbc.co.uk/news/world-middle-east-57302814) - The prime minister urges right-wing politicians not to join a proposed new unity government.
 2. [NSA spying row: Denmark helped US gather data on European officials, says report](https://www.bbc.co.uk/news/world-europe-57302806) - Denmark's secret service is accused of helping the US target politicians such as Germany's Angela Merkel.
 3. [Hundreds more Afghans and their families to be allowed to settle in UK](https://www.bbc.co.uk/news/uk-57301065) - Hundreds more who worked for the British military and government will be allowed to settle in the UK.
-4. [Eviction ban end puts thousands in fear of losing their homes](https://www.bbc.co.uk/news/education-57262181) - Renters are twice as likely as homeowners to worry about housing costs, a charity's research suggests.
+4. [Eviction ban: A million are in fear of losing their homes, charity says](https://www.bbc.co.uk/news/education-57262181) - The Joseph Rowntree Foundation says it is worried about a "wave of homelessness".
 5. [Whiplash: New rules to crackdown on fraudulent insurance claims](https://www.bbc.co.uk/news/business-57302790) - The reforms will save millions of motorists £35 a year in reduced premiums, the government says.
 6. [French Open 2021: Naomi Osaka faces default from Grand Slam for refusing to speak to media](https://www.bbc.co.uk/sport/tennis/57301475) - World number two Naomi Osaka faces expulsion from the French Open if she continues to refuse to speak to the media.
 7. [Nigeria school abduction: Gunmen kidnap students in Niger state](https://www.bbc.co.uk/news/world-africa-57300643) - At least 150 students are reported missing after armed men stormed a school in Niger state.
@@ -19,7 +19,7 @@
 19. [Tulsa Race Massacre: What happened in 1921?](https://www.bbc.co.uk/news/newsbeat-53108682) - Exactly 100 years ago the city in Oklahoma saw one of the biggest race massacres in US history.
 20. [Seal with bin bag wrapped round neck freed into wild](https://www.bbc.co.uk/news/uk-england-norfolk-57287575) - The seal was found at Walton-on-the-Naze in Essex with an "horrific" injury.
 21. [Metal, money, mystery: How Sanjeev Gupta built his empire](https://www.bbc.co.uk/news/business-57176329) - The UK helped metals tycoon Sanjeev Gupta save the country's last smelter. It was a lucrative deal.
-22. [The Indian children orphaned by Covid-19](https://www.bbc.co.uk/news/world-asia-india-57264629) - Officially, hundreds of children have lost both their parents. Experts say the number may be much higher.
+22. [Coronavirus: The Indian children orphaned by Covid-19](https://www.bbc.co.uk/news/world-asia-india-57264629) - Officially, hundreds of children have lost both their parents. Experts say the number may be much higher.
 23. [The Motherload: How pandemic anger almost destroyed a mums' support group](https://www.bbc.co.uk/news/stories-57285368) - Abusive messages from angry mums during lockdown almost caused the founder of The Motherload to close it down.
 24. [Are businesses really tackling racial inequality?](https://www.bbc.co.uk/news/business-57287362) - Are businesses doing enough to tackle racial inequalities in the boardroom and workplace?
 25. [Noisy appliances: How loud is your house?](https://www.bbc.co.uk/news/technology-57200584) - Environmental consultancy Quiet Mark is on a mission to ensure technology is seen but barely heard.
