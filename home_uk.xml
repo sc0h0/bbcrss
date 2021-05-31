@@ -11,30 +11,44 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 May 2021 10:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 May 2021 11:35:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Warning UK could be entering early stages of third wave]]></title>
-            <description><![CDATA[A government scientist says there has been exponential growth in the number of new cases.]]></description>
+            <description><![CDATA[A scientist advising the government says there has been exponential growth in the number of new cases.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57304515</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57304515</guid>
-            <pubDate>Mon, 31 May 2021 09:54:39 GMT</pubDate>
+            <pubDate>Mon, 31 May 2021 10:56:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China allows couples to have three children]]></title>
-            <description><![CDATA[The move comes after census results showed China's population grew at its slowest pace in decades.]]></description>
+            <description><![CDATA[Census results show China's population grew at its slowest pace in decades last year.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57303592</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57303592</guid>
-            <pubDate>Mon, 31 May 2021 09:53:26 GMT</pubDate>
+            <pubDate>Mon, 31 May 2021 10:55:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NSA spying row: Denmark helped US gather data on European officials, says report]]></title>
+            <title><![CDATA[UK set for stronger post-Covid recovery, says OECD]]></title>
+            <description><![CDATA[The UK economy's post-pandemic performance will outpace other large rich nations, a new forecast says.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57306596</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57306596</guid>
+            <pubDate>Mon, 31 May 2021 10:51:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France police 'neutralise' armed ex-soldier after Dordogne manhunt]]></title>
+            <description><![CDATA[The 29-year-old man was injured in a shoot-out with police after a 24-hour manhunt, reports say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57304907</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57304907</guid>
+            <pubDate>Mon, 31 May 2021 11:19:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSA spying row: Denmark accused of helping US spy on European officials]]></title>
             <description><![CDATA[Denmark's secret service is accused of helping the US target politicians such as Germany's Angela Merkel.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57302806</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57302806</guid>
-            <pubDate>Mon, 31 May 2021 04:38:43 GMT</pubDate>
+            <pubDate>Mon, 31 May 2021 10:41:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Vietnam starts mass testing as new variant emerges]]></title>
@@ -72,14 +86,7 @@
             <pubDate>Mon, 31 May 2021 05:42:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hong Kong offers top bank executives quarantine exemptions]]></title>
-            <description><![CDATA[Senior executives who are fully vaccinated can apply to be exempted from a 21-day hotel quarantine.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57303416</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57303416</guid>
-            <pubDate>Mon, 31 May 2021 05:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dog buried alive under rocks in 'one of worst abuse cases']]></title>
+            <title><![CDATA[Dog buried alive and left for dead]]></title>
             <description><![CDATA[Passing hillwalkers heard the collie's cries and found Jake had been deliberately buried under a pile of rocks.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57267473</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57267473</guid>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57281632</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57281632</guid>
             <pubDate>Mon, 31 May 2021 09:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gender stereotypes: Primary schools urged to tackle issue]]></title>
-            <description><![CDATA[Campaigners say tackling stereotypes at a young age could help prevent gender-based violence.]]></description>
-            <link>https://www.bbc.co.uk/news/education-57256075</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57256075</guid>
-            <pubDate>Mon, 31 May 2021 07:44:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: Jabs 'ramped up' and Covid passport 'scrapped']]></title>
@@ -226,11 +226,11 @@
             <pubDate>Mon, 31 May 2021 05:46:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dupasquier, 19, dies after Moto3 crash]]></title>
-            <description><![CDATA[Swiss Moto3 rider Jason Dupasquier dies in hospital from injuries he sustained in a crash during Saturday's qualifying session in Italy.]]></description>
-            <link>https://www.bbc.co.uk/sport/motorsport/57299713</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/57299713</guid>
-            <pubDate>Sun, 30 May 2021 15:22:17 GMT</pubDate>
+            <title><![CDATA[Lockyer added to Wales squad as Lawrence ruled out 24 hours after being included]]></title>
+            <description><![CDATA[Tom Lockyer is called into Wales' Euro 2020 squad after fellow defender James Lawrence is ruled out with injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57306951</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57306951</guid>
+            <pubDate>Mon, 31 May 2021 11:00:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NBA: LeBron James' no-look assist as LA Lakers lose to Phoenix Suns]]></title>
