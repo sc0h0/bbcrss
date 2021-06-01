@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Jun 2021 12:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jun 2021 14:04:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Much of Scotland's central belt to remain in level two]]></title>
+            <description><![CDATA[Thirteen council areas across Scotland's central belt are to remain in level two in a "slight slowing down" of easing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57315436</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57315436</guid>
+            <pubDate>Tue, 01 Jun 2021 13:33:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Job not done despite vaccination success, scientist warns]]></title>
             <description><![CDATA[Calls to delay ending Covid restrictions in England on 21 June have come amid warnings of a third wave.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57313399</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57313399</guid>
-            <pubDate>Tue, 01 Jun 2021 12:19:03 GMT</pubDate>
+            <pubDate>Tue, 01 Jun 2021 13:40:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah Everard died from compression of the neck]]></title>
@@ -31,17 +38,10 @@
         </item>
         <item>
             <title><![CDATA[Daniel Boulton: Murder suspect arrested over Louth deaths]]></title>
-            <description><![CDATA[Daniel Boulton, 29, is arrested in connection with the murder of a mother, 26, and her son.]]></description>
+            <description><![CDATA[Daniel Boulton, 29, is arrested in connection with the murder of a mother and her nine-year-old son.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-57318698</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lincolnshire-57318698</guid>
-            <pubDate>Tue, 01 Jun 2021 12:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Gene therapy is a game changer for our son']]></title>
-            <description><![CDATA[A five-month-old becomes the first person in England to get a drug with a list price of £1.79m.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57309613</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57309613</guid>
-            <pubDate>Mon, 31 May 2021 23:04:28 GMT</pubDate>
+            <pubDate>Tue, 01 Jun 2021 13:27:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Drone crashes into erupting Icelandic volcano]]></title>
@@ -49,6 +49,20 @@
             <link>https://www.bbc.co.uk/news/world-europe-57314928</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57314928</guid>
             <pubDate>Tue, 01 Jun 2021 11:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sicilian Mafia: Anger as 'people slayer' Giovanni Brusca freed]]></title>
+            <description><![CDATA[Dubbed the "people slayer", Giovanni Brusca has confessed to his role in more than 100 killings.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57317220</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57317220</guid>
+            <pubDate>Tue, 01 Jun 2021 12:38:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Gene therapy is a game changer for our son']]></title>
+            <description><![CDATA[A five-month-old becomes the first person in England to get a drug with a list price of £1.79m.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57309613</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57309613</guid>
+            <pubDate>Mon, 31 May 2021 23:04:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fishmongers' Hall: Terrorist shot at 20 times on London Bridge]]></title>
@@ -65,13 +79,6 @@
             <pubDate>Tue, 01 Jun 2021 11:41:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Peru more than doubles death toll after review]]></title>
-            <description><![CDATA[Peru now has the highest number of deaths in the world in relation to the size of its population.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57307861</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57307861</guid>
-            <pubDate>Tue, 01 Jun 2021 08:53:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Amigo faces collapse after failed bid to cap payouts]]></title>
             <description><![CDATA[Compensation payments to customers remain halted while the sub-prime lender considers its options.]]></description>
             <link>https://www.bbc.co.uk/news/business-57314517</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57309939</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57309939</guid>
             <pubDate>Mon, 31 May 2021 23:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Government agrees £1bn Transport for London bailout package]]></title>
-            <description><![CDATA[Transport for London will get £1.08bn in government funding until 11 December.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57315385</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57315385</guid>
-            <pubDate>Tue, 01 Jun 2021 11:16:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Whitehead Presbyterian Minister to leave over same-sex couples rule]]></title>
@@ -317,11 +317,11 @@
             <pubDate>Mon, 31 May 2021 18:17:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pride Month: Reasons to be proud of the progress made in sport]]></title>
-            <description><![CDATA[To mark the start of Pride Month, the BBC's LGBT Sport Podcast presenter Jack Murley suggests that there has never been a better time to be LGBTQ+ in sport.]]></description>
-            <link>https://www.bbc.co.uk/sport/57284004</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/57284004</guid>
-            <pubDate>Tue, 01 Jun 2021 05:15:52 GMT</pubDate>
+            <title><![CDATA[Blair picks 17 uncapped players in Scotland squad for summer Tests]]></title>
+            <description><![CDATA[Scotland include 17 uncapped players in a 37-man squad for Test matches against England A, Romania and Georgia this summer.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57318490</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57318490</guid>
+            <pubDate>Tue, 01 Jun 2021 12:30:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
