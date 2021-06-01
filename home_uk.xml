@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Jun 2021 15:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jun 2021 16:00:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Zero daily deaths announced in UK for first time]]></title>
+            <description><![CDATA[The latest figures come amid concern over a recent small rise in cases linked to the Indian variant.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57320320</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57320320</guid>
+            <pubDate>Tue, 01 Jun 2021 15:49:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lockdown easing in Scotland paused for millions]]></title>
             <description><![CDATA[Restrictions will be relaxed in Glasgow from Saturday - but 13 other areas will remain under current rules.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57315436</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57315436</guid>
             <pubDate>Tue, 01 Jun 2021 14:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Job not done despite vaccination success, scientist warns]]></title>
-            <description><![CDATA[Calls to delay ending Covid restrictions in England on 21 June have come amid warnings of a third wave.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57313399</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57313399</guid>
-            <pubDate>Tue, 01 Jun 2021 13:40:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah Everard died from compression of the neck]]></title>
@@ -41,7 +41,7 @@
             <description><![CDATA[Daniel Boulton, 29, is arrested in connection with the murder of a mother and her nine-year-old son.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-57318698</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lincolnshire-57318698</guid>
-            <pubDate>Tue, 01 Jun 2021 13:27:57 GMT</pubDate>
+            <pubDate>Tue, 01 Jun 2021 15:05:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Drone crashes into erupting Icelandic volcano]]></title>
@@ -62,7 +62,7 @@
             <description><![CDATA[Usman Khan fatally stabbed two Cambridge graduates and injured two others before being shot by police.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57286980</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57286980</guid>
-            <pubDate>Tue, 01 Jun 2021 11:56:25 GMT</pubDate>
+            <pubDate>Tue, 01 Jun 2021 15:28:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Birmingham defers Clean Air Zone payments]]></title>
@@ -73,7 +73,7 @@
         </item>
         <item>
             <title><![CDATA[Anthony Sootheran murder: Woman who starved millionaire to death jailed]]></title>
-            <description><![CDATA[Lynda Rickard murdered Anthony Sootheran in an attempt to steal part of his £3.5m estate.]]></description>
+            <description><![CDATA[Lynda Rickard is jailed for 28 years for killing Anthony Sootheran to steal from his £3.5m estate.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-57316940</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-oxfordshire-57316940</guid>
             <pubDate>Tue, 01 Jun 2021 14:51:53 GMT</pubDate>
@@ -86,11 +86,11 @@
             <pubDate>Tue, 01 Jun 2021 08:53:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whitehead Presbyterian Minister to leave over same-sex couples rule]]></title>
-            <description><![CDATA[Rev Ian Carton, of Whitehead Presbyterian, says the church is "excluding people we'd like to welcome".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57311211</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57311211</guid>
-            <pubDate>Tue, 01 Jun 2021 05:43:39 GMT</pubDate>
+            <title><![CDATA[Boris Johnson and wife Carrie take two-day mini honeymoon]]></title>
+            <description><![CDATA[No 10 would not reveal where the prime minister and his wife went, but said he is now back at work.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57321078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57321078</guid>
+            <pubDate>Tue, 01 Jun 2021 15:01:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mars: Nasa's Perseverance rover's first 100 days in pictures]]></title>
@@ -168,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57281615</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57281615</guid>
             <pubDate>Tue, 01 Jun 2021 07:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How significant is a day without Covid deaths?]]></title>
+            <description><![CDATA[There have been no coronavirus deaths announced today - is this a moment for celebration?]]></description>
+            <link>https://www.bbc.co.uk/news/health-56604632</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56604632</guid>
+            <pubDate>Tue, 01 Jun 2021 15:36:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is the fallout from Osaka's withdrawal?]]></title>
@@ -254,6 +261,13 @@
             <pubDate>Tue, 01 Jun 2021 00:07:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Everton boss Ancelotti in talks over Real Madrid return]]></title>
+            <description><![CDATA[Real Madrid are in talks with Everton's Carlo Ancelotti, who looks set for a second spell in charge of the Spanish giants.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57319559</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57319559</guid>
+            <pubDate>Tue, 01 Jun 2021 15:06:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Greenwood pulls out of England squad while Lingard set to miss out]]></title>
             <description><![CDATA[Mason Greenwood withdraws from England's provisional squad for Euro 2020, as Manchester United team-mate Jesse Lingard looks set to miss out.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57314442</link>
@@ -275,18 +289,11 @@
             <pubDate>Tue, 01 Jun 2021 11:20:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blair picks 17 uncapped players in Scotland squad for summer Tests]]></title>
-            <description><![CDATA[Scotland include 17 uncapped players in a 37-man squad for Test matches against England A, Romania and Georgia this summer.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57318490</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57318490</guid>
-            <pubDate>Tue, 01 Jun 2021 12:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Relive England's best moments from last summer's Tests]]></title>
-            <description><![CDATA[Relive England's best moments from last summer's Test matches, including James Anderson's 600th Test wicket, Stuart Broad's stunning return to the team and Ben Stokes' heroics with bat and ball.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57151875</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57151875</guid>
-            <pubDate>Tue, 01 Jun 2021 05:24:21 GMT</pubDate>
+            <title><![CDATA[Kvitova pulls out of French Open with freak injury sustained during media duties]]></title>
+            <description><![CDATA[Two-time Grand Slam champion Petra Kvitova withdraws from the French Open after suffering a freak ankle injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57319108</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57319108</guid>
+            <pubDate>Tue, 01 Jun 2021 15:06:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
@@ -307,7 +314,7 @@
             <description><![CDATA[Scotland's Covid-19 rules are changing at the weekend - with much of the country seeing an easing of restrictions.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Tue, 01 Jun 2021 14:23:53 GMT</pubDate>
+            <pubDate>Tue, 01 Jun 2021 15:52:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
