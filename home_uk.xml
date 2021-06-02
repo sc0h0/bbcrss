@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Jun 2021 00:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jun 2021 04:12:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Covid: Zero daily deaths announced in UK for first time]]></title>
-            <description><![CDATA[The latest figures come amid concern over a recent small rise in cases linked to the Indian variant.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57320320</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57320320</guid>
-            <pubDate>Tue, 01 Jun 2021 18:07:27 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Covid-19: Tutoring sessions in £1.4bn catch-up school plan]]></title>
             <description><![CDATA[The funding will help pupils disrupted by the pandemic - but heads call it a "damp squib".]]></description>
             <link>https://www.bbc.co.uk/news/education-57320450</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57320450</guid>
             <pubDate>Tue, 01 Jun 2021 23:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alaska: Biden to suspend Trump Arctic drilling leases]]></title>
+            <description><![CDATA[The president will suspend oil and gas leases in Alaska's Arctic National Wildlife Refuge.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57322511</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57322511</guid>
+            <pubDate>Wed, 02 Jun 2021 04:11:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bodycams for ambulance staff after rise in attacks]]></title>
@@ -37,11 +37,11 @@
             <pubDate>Tue, 01 Jun 2021 23:12:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tulsa Race Massacre: President Biden commemorates 100-year anniversary]]></title>
-            <description><![CDATA[The 1921 massacre in Oklahoma remains one of the worst incidents of racial violence in US history.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57323200</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57323200</guid>
-            <pubDate>Tue, 01 Jun 2021 22:06:18 GMT</pubDate>
+            <title><![CDATA[Two children, a decade of war in Syria]]></title>
+            <description><![CDATA[BBC correspondent Caroline Hawley revisits two refugee children who symbolise the suffering inflicted by Syria's war.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57288266</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57288266</guid>
+            <pubDate>Tue, 01 Jun 2021 23:17:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sir Keir Starmer: Five things we learned from Piers Morgan interview]]></title>
@@ -51,39 +51,53 @@
             <pubDate>Tue, 01 Jun 2021 21:30:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two children, a decade of war in Syria]]></title>
-            <description><![CDATA[BBC correspondent Caroline Hawley revisits two refugee children who symbolise the suffering inflicted by Syria's war.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57288266</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57288266</guid>
-            <pubDate>Tue, 01 Jun 2021 23:17:07 GMT</pubDate>
+            <title><![CDATA[JBS: World's largest meat supplier hit by cyber-attack]]></title>
+            <description><![CDATA[The ransomware attack may mean delays for some customers in the US, Canada and Australia, the firm says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57318965</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57318965</guid>
+            <pubDate>Wed, 02 Jun 2021 02:25:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blackpool Pleasure Beach: Grand National rollercoaster riders rescued]]></title>
-            <description><![CDATA[Riders are escorted back down the track after Blackpool Pleasure Beach's Grand National breaks down.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57322562</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57322562</guid>
-            <pubDate>Tue, 01 Jun 2021 17:18:20 GMT</pubDate>
+            <title><![CDATA[Labour urges probe into two donations to Tories]]></title>
+            <description><![CDATA[The £16,000 was allegedly given to the Conservative Party by firms which had ceased to exist.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57325474</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57325474</guid>
+            <pubDate>Wed, 02 Jun 2021 01:02:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Scotland 'at the start' of a third wave]]></title>
-            <description><![CDATA[Scotland's national clinical director says more cases are inevitable as society gradually opens up again.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57323037</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57323037</guid>
-            <pubDate>Tue, 01 Jun 2021 21:47:18 GMT</pubDate>
+            <title><![CDATA[Covid Victoria: State extends lockdown to curb outbreak]]></title>
+            <description><![CDATA[A "highly contagious" outbreak forces millions of Melbourne residents into a second week of isolation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57325513</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57325513</guid>
+            <pubDate>Wed, 02 Jun 2021 03:21:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New China three-child policy sparks tales of 'trauma']]></title>
-            <description><![CDATA[Some online are calling for compensation for people who wanted more children in the past.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57312741</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57312741</guid>
-            <pubDate>Tue, 01 Jun 2021 07:45:33 GMT</pubDate>
+            <title><![CDATA[Tulsa Race Massacre: President Biden commemorates 100-year anniversary]]></title>
+            <description><![CDATA[The 1921 massacre in Oklahoma remains one of the worst incidents of racial violence in US history.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57323200</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57323200</guid>
+            <pubDate>Tue, 01 Jun 2021 22:06:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alaska: Biden to suspend Trump Arctic drilling leases]]></title>
-            <description><![CDATA[The president will suspend oil and gas leases in Alaska's Arctic National Wildlife Refuge.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57322511</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57322511</guid>
-            <pubDate>Tue, 01 Jun 2021 21:28:11 GMT</pubDate>
+            <title><![CDATA[Retail prices set to rise this autumn, says BRC]]></title>
+            <description><![CDATA[Consumers face rising bills in the autumn as costs climb and Brexit red tape increases]]></description>
+            <link>https://www.bbc.co.uk/news/business-57314680</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57314680</guid>
+            <pubDate>Tue, 01 Jun 2021 23:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Zero daily deaths announced in UK for first time]]></title>
+            <description><![CDATA[The latest figures come amid concern over a recent small rise in cases linked to the Indian variant.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57320320</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57320320</guid>
+            <pubDate>Tue, 01 Jun 2021 18:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kingstanding stabbing: Murder arrests after boy, 14, killed in attack]]></title>
+            <description><![CDATA[Two teenagers aged 13 and 14 are among six held following the stabbing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57323546</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57323546</guid>
+            <pubDate>Tue, 01 Jun 2021 20:36:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grand Slams pledge better support for players ]]></title>
@@ -91,20 +105,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/57323649</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57323649</guid>
             <pubDate>Tue, 01 Jun 2021 20:58:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson and wife Carrie take two-day mini honeymoon]]></title>
-            <description><![CDATA[No 10 would not reveal where the prime minister and his wife went, but said he is now back at work.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57321078</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57321078</guid>
-            <pubDate>Tue, 01 Jun 2021 19:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Trent Alexander-Arnold named in England's 26-man squad]]></title>
-            <description><![CDATA[Liverpool full-back Trent Alexander-Arnold has been named in England's 26-man squad for this summer's European Championship.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57321188</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57321188</guid>
-            <pubDate>Tue, 01 Jun 2021 16:45:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Hope' after zero deaths and pupil catch-up plan]]></title>
@@ -240,6 +240,13 @@
             <pubDate>Tue, 01 Jun 2021 14:35:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Alexander-Arnold in England squad for Euro 2020]]></title>
+            <description><![CDATA[Liverpool full-back Trent Alexander-Arnold has been named in England's 26-man squad for this summer's European Championship.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57321188</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57321188</guid>
+            <pubDate>Tue, 01 Jun 2021 16:45:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[French Open 2021: Rafael Nadal & Novak Djokovic win, Andrey Rublev out at Roland Garros]]></title>
             <description><![CDATA[Rafael Nadal begins his bid for a record-extending 14th French Open title with a win, while top seed Novak Djokovic is also through in straight sets.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57321629</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/57266507</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57266507</guid>
             <pubDate>Tue, 01 Jun 2021 17:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French Open 2021: Serena Williams says she wants to hug Naomi Osaka after withdrawal]]></title>
-            <description><![CDATA[Three-time French Open champion Serena Williams says she wants to give Naomi Osaka a hug after the world number two withdrew from the tournament on refusing to speak to the media.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/tennis/57318204</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57318204</guid>
-            <pubDate>Tue, 01 Jun 2021 11:43:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
