@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Jun 2021 10:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jun 2021 11:49:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,21 @@
             <description><![CDATA[Tutoring sessions promised in £1.4bn recovery plan for pupils in England disrupted by the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/education-57320450</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57320450</guid>
-            <pubDate>Wed, 02 Jun 2021 08:49:01 GMT</pubDate>
+            <pubDate>Wed, 02 Jun 2021 11:43:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: UK's data encouraging, says government adviser]]></title>
-            <description><![CDATA[Sir John Bell says balance is needed in the discussion over when to end lockdown restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57328138</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57328138</guid>
-            <pubDate>Wed, 02 Jun 2021 09:37:56 GMT</pubDate>
+            <title><![CDATA[Fears as chemical-laden ship sinking off Sri Lanka]]></title>
+            <description><![CDATA[Hundreds of tonnes of engine oil could leak into the sea with devastating impact on marine life.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57327300</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57327300</guid>
+            <pubDate>Wed, 02 Jun 2021 11:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Queen's Platinum Jubilee plans unveiled by Buckingham Palace]]></title>
+            <description><![CDATA[A concert at Buckingham Palace will be among the celebrations to mark the Queen's 70-year reign.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57329680</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57329680</guid>
+            <pubDate>Wed, 02 Jun 2021 11:27:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two children, a decade of war in Syria]]></title>
@@ -37,11 +44,53 @@
             <pubDate>Tue, 01 Jun 2021 23:17:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Holby City: BBC medical drama to end in 2022]]></title>
+            <description><![CDATA[The BBC show, which began life as a Casualty spin-off, has been running since 1999.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57330559</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57330559</guid>
+            <pubDate>Wed, 02 Jun 2021 11:28:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: UK's data encouraging, says government adviser]]></title>
+            <description><![CDATA[Sir John Bell says balance is needed in the discussion over when to end lockdown restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57328138</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57328138</guid>
+            <pubDate>Wed, 02 Jun 2021 10:58:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Neal Maupay: Man guilty of Brighton & Hove Albion striker threats]]></title>
             <description><![CDATA[The conviction over threats to Brighton's Neal Maupay is the first of its kind outside the UK.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-sussex-57326901</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57326901</guid>
-            <pubDate>Wed, 02 Jun 2021 08:07:49 GMT</pubDate>
+            <pubDate>Wed, 02 Jun 2021 10:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wetherspoons boss denies facing shortage of EU workers]]></title>
+            <description><![CDATA[Pro-Leave boss Tim Martin says reports he wants a more "liberal" visa scheme for EU workers taken out of context.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57314682</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57314682</guid>
+            <pubDate>Wed, 02 Jun 2021 10:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hyde Park stabbing: Teenager stabbed in mass brawl]]></title>
+            <description><![CDATA[The 17-year-old was attacked in front of people who were out enjoying the evening sun.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57327792</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57327792</guid>
+            <pubDate>Wed, 02 Jun 2021 10:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delay removing dangerous cladding ‘soul destroying’]]></title>
+            <description><![CDATA[The government will miss a June deadline to complete applications for £5bn of funding to remove cladding.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57314681</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57314681</guid>
+            <pubDate>Tue, 01 Jun 2021 23:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Ticketless Scotland fans asked to stay away from London]]></title>
+            <description><![CDATA[There will be nowhere for fans to gather when Scotland play England at Wembley, Sadiq Khan warns.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57327652</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57327652</guid>
+            <pubDate>Wed, 02 Jun 2021 10:30:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sir Keir Starmer: Five things we learned from Piers Morgan interview]]></title>
@@ -49,48 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57321990</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57321990</guid>
             <pubDate>Tue, 01 Jun 2021 21:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bodycams for ambulance staff after rise in attacks]]></title>
-            <description><![CDATA[Paramedic Gary Watson was assaulted by a drunk patient and received serious injuries to his face.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57318424</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57318424</guid>
-            <pubDate>Wed, 02 Jun 2021 08:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid Victoria: State extends lockdown to curb outbreak]]></title>
-            <description><![CDATA[A "highly contagious" outbreak forces millions of Melbourne residents into a second week of isolation.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57325513</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57325513</guid>
-            <pubDate>Wed, 02 Jun 2021 03:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JBS: Cyber-attack hits world's largest meat supplier]]></title>
-            <description><![CDATA[The ransomware attack may mean delays for some customers in the US, Canada and Australia, the firm says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57318965</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57318965</guid>
-            <pubDate>Wed, 02 Jun 2021 08:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fears as chemical-laden ship sinking off Sri Lanka]]></title>
-            <description><![CDATA[Hundreds of tonnes of engine oil could leak into the sea with devastating impact on marine life.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57327300</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57327300</guid>
-            <pubDate>Wed, 02 Jun 2021 07:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hyde Park stabbing: Teenager stabbed in mass brawl]]></title>
-            <description><![CDATA[The 17-year-old was attacked in front of people who were out enjoying the evening sun.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57327792</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57327792</guid>
-            <pubDate>Wed, 02 Jun 2021 10:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour demands probe into donations to Tories from defunct firms]]></title>
-            <description><![CDATA[The £16,000 was allegedly given to the Conservative Party by firms which had ceased to exist.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57325474</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57325474</guid>
-            <pubDate>Wed, 02 Jun 2021 01:02:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is it harder to diagnose disorders on non-white skin?]]></title>
@@ -121,18 +128,18 @@
             <pubDate>Wed, 02 Jun 2021 00:08:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[California teen girl fights off a bear to protect her dogs]]></title>
+            <description><![CDATA[Footage shows the moment a teenage girl in California gets the better of a bear fighting with her pets.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57325483</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57325483</guid>
+            <pubDate>Tue, 01 Jun 2021 22:41:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why students in South Africa are turning to food banks]]></title>
             <description><![CDATA[South African students like Bianca Nonhlanhla Skhosana are increasingly using food banks to survive.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57315213</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57315213</guid>
             <pubDate>Tue, 01 Jun 2021 23:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California teen girl fights off a bear attacking her dogs]]></title>
-            <description><![CDATA[Footage shows the moment a teenage girl in California gets the better of a bear attacking her pets.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57325483</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57325483</guid>
-            <pubDate>Tue, 01 Jun 2021 22:41:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sky Pool: World's first 'floating' pool between tower blocks]]></title>
@@ -205,11 +212,11 @@
             <pubDate>Tue, 01 Jun 2021 08:24:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Daley selected for Tokyo Games as he targets first Olympic gold]]></title>
-            <description><![CDATA[Tom Daley will look to finally complete his set of major diving medals with an Olympic gold this summer after being selected for the Tokyo Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57327160</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57327160</guid>
-            <pubDate>Wed, 02 Jun 2021 10:00:17 GMT</pubDate>
+            <title><![CDATA[Kasatkina knocks out 10th seed Bencic on day four of French Open]]></title>
+            <description><![CDATA[Daria Kasatkina delivers an early surprise on day four of the French Open as she knocks out 10th seed Belinda Bencic.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57331210</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57331210</guid>
+            <pubDate>Wed, 02 Jun 2021 11:09:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Match of the Day Top 10: Gary Lineker reveals why he loved penalty shootouts]]></title>
@@ -219,18 +226,18 @@
             <pubDate>Wed, 02 Jun 2021 06:25:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watch: Meet the NBA's unofficial wine society]]></title>
-            <description><![CDATA[New Orleans Pelicans guard Josh Hart explains how LeBron James helped him on his wine journey and how the NBA is making the wine industry more accessible.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/57287021</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/57287021</guid>
-            <pubDate>Wed, 02 Jun 2021 08:03:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[MOTDx Wonderkids Challenge: Scotland and Manchester City's Liam Smith]]></title>
             <description><![CDATA[Scotland and Manchester City winger Liam Smith takes on our Euros edition of the MOTDx Wonderkids Challenge.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57324862</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57324862</guid>
             <pubDate>Wed, 02 Jun 2021 06:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England win Cricket World Cup 2019 final - watch highlights]]></title>
+            <description><![CDATA[Watch the closing stages of an incredible World Cup final in 2019 as England beat New Zealand to win the men's trophy for the first time.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/48985209</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/48985209</guid>
+            <pubDate>Mon, 24 May 2021 09:43:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
@@ -279,7 +286,7 @@
             <description><![CDATA[Scotland's Covid-19 rules are changing at the weekend - with much of the country seeing an easing of restrictions.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Tue, 01 Jun 2021 16:00:02 GMT</pubDate>
+            <pubDate>Wed, 02 Jun 2021 11:24:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
@@ -324,6 +331,13 @@
             <pubDate>Fri, 28 May 2021 16:17:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Motherload: How pandemic anger almost destroyed a mums' support group]]></title>
+            <description><![CDATA[Abusive messages from angry mums during lockdown almost caused the founder of The Motherload to close it down.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-57285368</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57285368</guid>
+            <pubDate>Sun, 30 May 2021 23:05:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The children selling explicit videos on OnlyFans]]></title>
             <description><![CDATA[British subscription site OnlyFans is failing to prevent underage users from selling and appearing in explicit videos, a BBC investigation has found.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57255983</link>
@@ -350,13 +364,6 @@
             <link>https://www.bbc.co.uk/news/uk-57281398</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57281398</guid>
             <pubDate>Fri, 28 May 2021 23:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piccadilly 1965: How six Indian friends found their feet in the UK]]></title>
-            <description><![CDATA[One day in 1965 Praful Patel heard five men talking Gujarati in London's Central YMCA - they quickly became close friends.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-57285369</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57285369</guid>
-            <pubDate>Sat, 29 May 2021 23:02:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
