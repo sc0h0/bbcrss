@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Jun 2021 02:59:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jun 2021 04:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Thu, 03 Jun 2021 21:43:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Afghan policewoman facing abuse at work]]></title>
-            <description><![CDATA[Momena waived her anonymity to talk to the BBC about allegations of abuse in the Afghan Police Force.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57343435</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57343435</guid>
-            <pubDate>Thu, 03 Jun 2021 23:02:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Groups of 30 to be able to meet outdoors in Wales]]></title>
             <description><![CDATA[A third home will be able to join an extended household but there will be no change to indoor rules.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57346925</link>
@@ -51,11 +44,18 @@
             <pubDate>Thu, 03 Jun 2021 21:48:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hearings in London aim to assess allegations of genocide in China]]></title>
-            <description><![CDATA[Expert witnesses are called to give evidence on claim China is committing genocide against Uyghurs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57318564</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57318564</guid>
-            <pubDate>Thu, 03 Jun 2021 23:09:56 GMT</pubDate>
+            <title><![CDATA[Tiananmen: Hong Kong vigil organiser arrested on 32nd anniversary]]></title>
+            <description><![CDATA[It comes as Hong Kong has banned the vigil for the second year running, citing virus restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57353803</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57353803</guid>
+            <pubDate>Fri, 04 Jun 2021 03:11:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Afghan policewoman facing abuse at work]]></title>
+            <description><![CDATA[Momena waived her anonymity to talk to the BBC about allegations of abuse in the Afghan Police Force.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57343435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57343435</guid>
+            <pubDate>Thu, 03 Jun 2021 23:02:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Job vacancies soar as skills shortage bites - KPMG]]></title>
@@ -65,13 +65,6 @@
             <pubDate>Thu, 03 Jun 2021 23:05:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Biden expands US investment ban on Chinese firms]]></title>
-            <description><![CDATA[President Biden bars 59 firms with alleged China military ties from US investment.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57334265</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57334265</guid>
-            <pubDate>Thu, 03 Jun 2021 20:41:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Labour demands further probe into Boris Johnson's flat revamp]]></title>
             <description><![CDATA[The party wants the standards watchdog for MPs to look at whether Boris Johnson failed to register a donation.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57346640</link>
@@ -79,11 +72,25 @@
             <pubDate>Thu, 03 Jun 2021 21:31:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tiananmen: Hong Kong vigil organiser arrested on 32nd anniversary]]></title>
-            <description><![CDATA[It comes as Hong Kong has banned the vigil for the second year running, citing virus restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57353803</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57353803</guid>
-            <pubDate>Fri, 04 Jun 2021 02:33:09 GMT</pubDate>
+            <title><![CDATA[UN: Cost of food rises at fastest pace in over a decade]]></title>
+            <description><![CDATA[Soaring food prices are likely to fuel concerns about the threat of inflation after the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57353624</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57353624</guid>
+            <pubDate>Fri, 04 Jun 2021 03:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hearings in London aim to assess allegations of genocide in China]]></title>
+            <description><![CDATA[Expert witnesses are called to give evidence on claim China is committing genocide against Uyghurs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57318564</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57318564</guid>
+            <pubDate>Thu, 03 Jun 2021 23:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India places advance order for new Covid vaccine]]></title>
+            <description><![CDATA[The vaccine, currently in Phase 3 trials, is being developed by Indian firm Biological E.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57354069</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57354069</guid>
+            <pubDate>Fri, 04 Jun 2021 04:19:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[White House defends Dr Fauci over lab leak emails]]></title>
@@ -93,25 +100,18 @@
             <pubDate>Fri, 04 Jun 2021 00:05:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Birmingham stabbing: Two more charged with murder of Dea-John Reid]]></title>
-            <description><![CDATA[A man and a teenager are charged following the death of Dea-John Reid.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57348713</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57348713</guid>
-            <pubDate>Thu, 03 Jun 2021 20:09:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frankie Morris: Police searching for missing teen find body]]></title>
-            <description><![CDATA[The body has not been identified but the 18-year-old's family have been informed, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57352965</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57352965</guid>
-            <pubDate>Thu, 03 Jun 2021 21:11:27 GMT</pubDate>
+            <title><![CDATA[Edward Colston statue to go on display in Bristol exhibition]]></title>
+            <description><![CDATA[The statue will be on display alongside placards from Bristol's Black Lives Matter protest.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-57350650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-57350650</guid>
+            <pubDate>Thu, 03 Jun 2021 19:48:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Holiday 'chaos' and 'alarm' over new variants]]></title>
             <description><![CDATA[Friday's headlines focus on the removal of Portugal from the green list and continuing concern over the Indian variant.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57353032</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57353032</guid>
-            <pubDate>Thu, 03 Jun 2021 22:11:50 GMT</pubDate>
+            <pubDate>Fri, 04 Jun 2021 04:40:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Portugal travel list: 'Let us go on holiday and live our lives']]></title>
