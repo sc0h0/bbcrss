@@ -11,37 +11,37 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Jun 2021 16:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jun 2021 18:34:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid infections rise by two-thirds in UK - ONS]]></title>
+            <description><![CDATA[Increasing numbers of infections are likely to be caused by the so-called Indian, or Delta, variant.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57362508</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57362508</guid>
+            <pubDate>Fri, 04 Jun 2021 16:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook suspends Trump accounts for two years]]></title>
+            <description><![CDATA[Facebook's oversight board previously criticised the firm's decision to ban Donald Trump indefinitely.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57365628</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57365628</guid>
+            <pubDate>Fri, 04 Jun 2021 18:32:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Airlines add capacity ahead of Portugal change]]></title>
+            <description><![CDATA[The country will be removed from the UK's travel green list on Tuesday, prompting a race for return flights.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57353048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57353048</guid>
+            <pubDate>Fri, 04 Jun 2021 16:43:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK approves Pfizer jab for 12 to 15-year-olds]]></title>
             <description><![CDATA[The UK regulator says the vaccine is safe and effective and the benefits outweigh risks in this age group.]]></description>
             <link>https://www.bbc.co.uk/news/health-57358446</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57358446</guid>
-            <pubDate>Fri, 04 Jun 2021 14:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Airlines add capacity ahead of Portugal change]]></title>
-            <description><![CDATA[BA is putting on extra flights, while Tui and EasyJet are increasing the size of their planes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57353048</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57353048</guid>
-            <pubDate>Fri, 04 Jun 2021 16:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit: UK announces trade deal with Norway, Iceland and Liechtenstein]]></title>
-            <description><![CDATA[Liechtenstein - another non-EU country - is also included in the post-Brexit deal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57347874</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57347874</guid>
-            <pubDate>Fri, 04 Jun 2021 13:36:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drug dealers caught after undertaking police on M6 hard shoulder]]></title>
-            <description><![CDATA[Cocaine with a street value of £500,000 was found in a car which sped past on a hard shoulder.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57358040</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57358040</guid>
-            <pubDate>Fri, 04 Jun 2021 14:37:33 GMT</pubDate>
+            <pubDate>Fri, 04 Jun 2021 16:38:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nepalese PM calls on UK to provide vaccines as cases surge]]></title>
@@ -51,11 +51,39 @@
             <pubDate>Fri, 04 Jun 2021 15:07:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: UK infections rise by two-thirds and Nepal's plea for UK help]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57362485</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57362485</guid>
+            <pubDate>Fri, 04 Jun 2021 16:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drug dealers caught after undertaking police on M6 hard shoulder]]></title>
+            <description><![CDATA[Cocaine with a street value of £500,000 was found in a car which sped past on a hard shoulder.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57358040</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57358040</guid>
+            <pubDate>Fri, 04 Jun 2021 14:37:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Pupils fell behind again in second lockdown]]></title>
+            <description><![CDATA[Primary pupils in England fell months behind in maths and reading losing progress made in the autumn.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57357663</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57357663</guid>
+            <pubDate>Fri, 04 Jun 2021 16:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: UK announces trade deal with Norway, Iceland and Liechtenstein]]></title>
+            <description><![CDATA[Liechtenstein - another non-EU country - is also included in the post-Brexit deal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57347874</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57347874</guid>
+            <pubDate>Fri, 04 Jun 2021 13:36:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hillsborough: Police forces agree cover-up compensation for victims]]></title>
             <description><![CDATA[Two forces agree to pay more than 600 people over a cover-up after the 1989 Hillsborough disaster.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-57356486</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57356486</guid>
-            <pubDate>Fri, 04 Jun 2021 15:11:44 GMT</pubDate>
+            <pubDate>Fri, 04 Jun 2021 16:29:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fishmongers' Hall: Firearms officer was surprised Usman Khan survived first shots]]></title>
@@ -65,13 +93,6 @@
             <pubDate>Fri, 04 Jun 2021 15:33:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tiananmen commemorations muted in Hong Kong]]></title>
-            <description><![CDATA[Hong Kong authorities again ban a vigil for the anniversary of the 1989 Beijing massacre.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57356140</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57356140</guid>
-            <pubDate>Fri, 04 Jun 2021 14:22:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: G7 vaccine decisions will 'define 21st Century']]></title>
             <description><![CDATA[The UK and other rich nations are urged to show "historic leadership" in sharing vaccines globally.]]></description>
             <link>https://www.bbc.co.uk/news/health-57362796</link>
@@ -79,25 +100,11 @@
             <pubDate>Fri, 04 Jun 2021 15:33:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ed Miliband: I'm still recovering from time as Labour leader]]></title>
-            <description><![CDATA[Ed Miliband says his time at the top of Labour was "traumatic" and defeat in 2015 knocked his confidence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57359112</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57359112</guid>
-            <pubDate>Fri, 04 Jun 2021 15:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OJ Simpson's lawyer F Lee Bailey dies aged 87]]></title>
-            <description><![CDATA[His flair for courtroom drama was crucial in securing the acquittals of controversial clients.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57362229</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57362229</guid>
-            <pubDate>Fri, 04 Jun 2021 15:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rapper Nines charged with four drug-related offences]]></title>
-            <description><![CDATA[The chart-topping rapper appears in court today on four charges.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57364446</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57364446</guid>
-            <pubDate>Fri, 04 Jun 2021 16:14:26 GMT</pubDate>
+            <title><![CDATA['Unseaworthy' Noah's Ark replica detained at Ipswich Waterfront]]></title>
+            <description><![CDATA[The 70m-long (230ft) floating museum features sculptures depicting stories from the Bible.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57363750</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57363750</guid>
+            <pubDate>Fri, 04 Jun 2021 16:34:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['It's not all about holidays, I miss my family abroad']]></title>
@@ -119,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-57314397</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57314397</guid>
             <pubDate>Thu, 03 Jun 2021 23:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blackpool's deckchairs set for promenade comeback]]></title>
+            <description><![CDATA[The council has earmarked a new pitch for the chairs on the promenade near Central Pier.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57351615</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57351615</guid>
+            <pubDate>Fri, 04 Jun 2021 16:43:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why UFO existence is still up in the air...]]></title>
@@ -230,21 +244,14 @@
             <description><![CDATA[Serena Williams remains the highest seed in her half of the French Open draw after overcoming Danielle Collins in the third round.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57357513</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57357513</guid>
-            <pubDate>Fri, 04 Jun 2021 16:22:20 GMT</pubDate>
+            <pubDate>Fri, 04 Jun 2021 18:33:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six Man City players in PFA Premier League Team of the Year]]></title>
             <description><![CDATA[Manchester United's Luke Shaw and Tottenham's Son Heung-min are in the 2020-21 PFA Team of the Year, which is dominated by Manchester City players.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57356719</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57356719</guid>
-            <pubDate>Fri, 04 Jun 2021 16:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Singapore Grand Prix cancelled as Formula 1 bosses assess replacement options]]></title>
-            <description><![CDATA[The Singapore Grand Prix is called off this year and Formula 1 is assessing its options to replace the race, BBC Sport can reveal.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57360662</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57360662</guid>
-            <pubDate>Fri, 04 Jun 2021 16:23:22 GMT</pubDate>
+            <pubDate>Fri, 04 Jun 2021 16:37:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v New Zealand: Rain wipes out third day of first Test at Lord's]]></title>
@@ -252,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/cricket/57357901</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57357901</guid>
             <pubDate>Fri, 04 Jun 2021 15:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Grand Prix cancelled as Formula 1 bosses assess replacement options]]></title>
+            <description><![CDATA[The Singapore Grand Prix is called off this year and Formula 1 is assessing its options to replace the race, BBC Sport can reveal.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57360662</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57360662</guid>
+            <pubDate>Fri, 04 Jun 2021 16:23:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Azerbaijan Grand Prix: Sergio Perez fastest in second practice as Mercedes struggle]]></title>
@@ -279,14 +293,14 @@
             <description><![CDATA[Covid-19 rules in Wales are changing - but for many in Scotland the lifting of lockdown has been "paused".]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Fri, 04 Jun 2021 09:03:14 GMT</pubDate>
+            <pubDate>Fri, 04 Jun 2021 16:41:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
             <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 38 million people receive at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Wed, 02 Jun 2021 16:35:20 GMT</pubDate>
+            <pubDate>Fri, 04 Jun 2021 17:10:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
@@ -307,7 +321,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Thu, 03 Jun 2021 18:43:10 GMT</pubDate>
+            <pubDate>Fri, 04 Jun 2021 16:27:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
