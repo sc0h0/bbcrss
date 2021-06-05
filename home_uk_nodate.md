@@ -6,7 +6,7 @@
 6. [Kayakers save pair of eagles drowning in Danube river](https://www.bbc.co.uk/news/world-europe-57358082) - The two birds were found clasped together, likely after a fight, on the Danube river.
 7. [US gun laws: Judge overturns California assault weapons ban](https://www.bbc.co.uk/news/world-us-canada-57368211) - The judge ruled that the law undermined constitutional gun ownership rights.
 8. [Dozens killed in Burkina Faso attack](https://www.bbc.co.uk/news/world-africa-57368536) - Security forces are struggling to contain Islamist violence that has spread across the region.
-9. [Coventry celebrates start of UK City of Culture year](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57369328) - There are musical performances and cavalcades to celebrate the city's manufacturing heritage.
+9. [Coventry celebrates start of UK City of Culture year](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57369328) - There were musical performances and cavalcades to celebrate the city's manufacturing heritage.
 10. [Nigeria's Twitter ban: Government orders prosecution of violators](https://www.bbc.co.uk/news/world-africa-57368535) - Users are trying to skirt the government's block on the social network, which began on Friday.
 11. [Sardinian sand theft leaves dozens facing fines of up to €3,000](https://www.bbc.co.uk/news/world-europe-57370740) - People caught removing sand and shells from the Italian island face fines of up to €3,000.
 12. [French Open 2021: Rafael Nadal beats Cameron Norrie, Novak Djokovic also through](https://www.bbc.co.uk/sport/tennis/57353333) - Cameron Norrie becomes the final British player to fall in the French Open singles as he is unable to shock Rafael Nadal.
