@@ -4,8 +4,8 @@
 4. [Dea-John Reid: Teens arrested over boy's stab death](https://www.bbc.co.uk/news/uk-england-birmingham-57369451) - Boys aged 14 and 16 are held on suspicion of the murder of Dea-John Reid.
 5. [Kayakers save pair of eagles drowning in Danube river](https://www.bbc.co.uk/news/world-europe-57358082) - The two birds were found clasped together, likely after a fight, on the Danube river.
 6. [Mo Farah misses Tokyo 10,000m qualification](https://www.bbc.co.uk/sport/athletics/57372151) - Four-time Olympic champion Mo Farah's hopes of representing Great Britain in Tokyo seem to be over after he fell well short of the qualifying mark in European 10,000m Cup in Birmingham.
-7. [US gun laws: Judge overturns California assault weapons ban](https://www.bbc.co.uk/news/world-us-canada-57368211) - The judge ruled that the law undermined constitutional gun ownership rights.
-8. [Dozens killed in Burkina Faso attack](https://www.bbc.co.uk/news/world-africa-57368536) - Security forces are struggling to contain Islamist violence that has spread across the region.
+7. [US to stop seizing reporters' records in leak investigations](https://www.bbc.co.uk/news/world-us-canada-57371402) - President Biden rejects a long-held practise of secretly obtaining journalists' phone and email records.
+8. [Burkina Faso attack: More than 130 killed in village raid](https://www.bbc.co.uk/news/world-africa-57368536) - Security forces are struggling to contain Islamist violence that has spread across the region.
 9. [Coventry celebrates start of UK City of Culture year](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57369328) - There were musical performances and cavalcades to celebrate the city's manufacturing heritage.
 10. [Nigeria's Twitter ban: Government orders prosecution of violators](https://www.bbc.co.uk/news/world-africa-57368535) - Users are trying to skirt the government's block on the social network, which began on Friday.
 11. [Sardinian sand theft leaves dozens facing fines of up to €3,000](https://www.bbc.co.uk/news/world-europe-57370740) - People caught removing sand and shells from the Italian island face fines of up to €3,000.
