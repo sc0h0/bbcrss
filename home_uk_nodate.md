@@ -1,5 +1,5 @@
 1. [G7: Rich nations back deal to tax multinationals](https://www.bbc.co.uk/news/world-57368247) - G7 finance ministers have agreed to work together to create a "level playing field" on global taxation.
-2. [Covid in Scotland: Restriction levels ease for millions of Scots](https://www.bbc.co.uk/news/uk-scotland-57361513) - Many areas of the country go from level two to level one but there are no changes for much of the central belt.
+2. [Covid in Scotland: Restriction levels ease for millions of Scots](https://www.bbc.co.uk/news/uk-scotland-57361513) - In Glasgow people are allowed to meet in each other's homes for the first time in nine months.
 3. [EuroMillions: Jackpot of more than £111m won by UK ticket holder](https://www.bbc.co.uk/news/uk-57367049) - Players are being asked to check to see if they have won the prize - the ninth biggest in lottery history.
 4. [Covid: People in hospital with Indian variant not increasing significantly - NHS boss](https://www.bbc.co.uk/news/uk-57367849) - Chris Hopson says vaccines seem to have "broken the chain" between infection and serious illness.
 5. [Kayakers save pair of eagles drowning in Danube river](https://www.bbc.co.uk/news/world-europe-57358082) - Klaudia Kis and Richard Varga made the chance encounter while kayaking up the Danube river.
@@ -22,8 +22,8 @@
 22. [Ceuta and Melilla: Spain's enclaves in North Africa](https://www.bbc.co.uk/news/world-africa-57305882) - Moroccans accuse Spain of colonialism by retaining control of Ceuta and Melilla.
 23. [Mexico mid-terms marred by threats, attacks and killings](https://www.bbc.co.uk/news/world-latin-america-57359252) - Observers say it has been one of the most violent campaigns, with at least 90 election-related killings.
 24. [Is it the end of an era for LeBron James?](https://www.bbc.co.uk/sport/basketball/57361225) - After LeBron James and the Los Angeles Lakers are knocked out in the first round of this season's NBA play-offs, BBC Sport asks: Is this the end of an era?
-25. [US Women's Open: Mel Reid falls to sixth at halfway, having led after round one](https://www.bbc.co.uk/sport/golf/57367882) - England's Mel Reid loses her opening round lead at the US Women's Open after carding a two-over 73 on day two.
-26. [Euro 2020: Wales await Red Wall's emotional return for Albania friendly](https://www.bbc.co.uk/sport/football/57335288) - Wales' fans, known as the Red Wall, will return for the first time since 2019 for Saturday's friendly with Albania.
+25. [Svitolina out as seed exodus continues at French Open](https://www.bbc.co.uk/sport/tennis/57369013) - Elina Svitolina becomes the seventh women's top-10 seed to exit the French Open's opening week as she falls to Barbora Krejcikova.
+26. [St Helens cruise past York to win Women's Challenge Cup for first time](https://www.bbc.co.uk/sport/rugby-league/57346514) - St Helens run in seven tries at Leigh Sports Village to beat York City Knights and win the Women's Challenge Cup.
 27. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The vaccine rollout is now reaching younger adults. What do they need to know about getting jabbed?
 28. [Covid: What refund rights are there for holidays abroad?](https://www.bbc.co.uk/news/business-51615412) - What rights do you have if your holidays plans or rules change?
 29. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
