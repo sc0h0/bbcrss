@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Jun 2021 03:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Jun 2021 05:02:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,11 @@
             <pubDate>Sat, 05 Jun 2021 00:25:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FBI sought info on who read USA Today news article for case]]></title>
-            <description><![CDATA[The USA Today newspaper is resisting an FBI demand to hand over data on readers of its story.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57367093</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57367093</guid>
-            <pubDate>Sat, 05 Jun 2021 02:08:15 GMT</pubDate>
+            <title><![CDATA[Microsoft says error caused 'Tank Man' Bing censorship]]></title>
+            <description><![CDATA[Microsoft's Bing search engine showed no image results for the famous Tiananmen Square protester.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57367100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57367100</guid>
+            <pubDate>Sat, 05 Jun 2021 04:59:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[United plans supersonic passenger flights by 2029]]></title>
@@ -51,11 +51,25 @@
             <pubDate>Fri, 04 Jun 2021 23:41:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EuroMillions: Jackpot of more than £111m won by UK ticket-holder]]></title>
-            <description><![CDATA[Players are being asked to check their tickets to see if they have won the prize.]]></description>
+            <title><![CDATA[EuroMillions: Jackpot of more than £111m won by UK ticket holder]]></title>
+            <description><![CDATA[Players are being asked to check to see if they have won the prize - the ninth biggest in lottery history.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57367049</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57367049</guid>
             <pubDate>Sat, 05 Jun 2021 00:09:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FBI sought info on who read USA Today news article for case]]></title>
+            <description><![CDATA[The USA Today newspaper is resisting an FBI demand to hand over data on readers of its story.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57367093</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57367093</guid>
+            <pubDate>Sat, 05 Jun 2021 02:08:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook suspends Trump accounts for two years]]></title>
+            <description><![CDATA[Former US President Donald Trump called the platform's decree "abuse" and "an insult" to his voters.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57365628</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57365628</guid>
+            <pubDate>Sat, 05 Jun 2021 04:21:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Airlines add capacity ahead of Portugal change]]></title>
@@ -65,25 +79,11 @@
             <pubDate>Fri, 04 Jun 2021 20:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid infections rise by two-thirds in UK - ONS]]></title>
-            <description><![CDATA[Increasing numbers of infections are likely to be caused by the so-called Indian, or Delta, variant.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57362508</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57362508</guid>
-            <pubDate>Fri, 04 Jun 2021 16:29:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Elections watchdog admits errors in reporting Tory donations]]></title>
             <description><![CDATA[The Electoral Commission says it wrongly disclosed the party received money from a defunct firm.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57365728</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57365728</guid>
             <pubDate>Fri, 04 Jun 2021 22:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's free school meal pledge extended]]></title>
-            <description><![CDATA[All pupils in P4 will be entitled to a school meal from August, while P5s will be offered lunches by January.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57359072</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57359072</guid>
-            <pubDate>Fri, 04 Jun 2021 23:21:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Putin sees 'double standard' in US Capitol riot prosecutions]]></title>
@@ -111,7 +111,7 @@
             <description><![CDATA[Saturday's papers react to a rise in the number of people infected with Covid in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57366709</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57366709</guid>
-            <pubDate>Fri, 04 Jun 2021 23:06:51 GMT</pubDate>
+            <pubDate>Sat, 05 Jun 2021 04:24:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Nepal: Families forced to say goodbye through crematorium gates]]></title>
