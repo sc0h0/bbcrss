@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Jun 2021 03:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Jun 2021 05:26:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: PM to push for world vaccination by end of 2022]]></title>
+            <description><![CDATA[Boris Johnson will raise the target at a summit of the G7 group of advanced economies on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57373120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57373120</guid>
+            <pubDate>Sun, 06 Jun 2021 03:57:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Foreign aid: Charities criticise 'devastating' cuts ahead of G7]]></title>
             <description><![CDATA[They say there is no “economic need" for the £4bn foreign aid cuts which undermine the UK's credibility.]]></description>
@@ -37,25 +44,18 @@
             <pubDate>Sun, 06 Jun 2021 02:34:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bafta TV Awards: Stars both real and virtual expected at ceremony]]></title>
-            <description><![CDATA[Richard Ayoade will host the event, which will open with a performance from singer Olly Alexander.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57331430</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57331430</guid>
-            <pubDate>Sun, 06 Jun 2021 02:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mo Farah misses Tokyo 10,000m qualification]]></title>
+            <title><![CDATA[Mo Farah misses Tokyo 10,000m qualification time]]></title>
             <description><![CDATA[Four-time Olympic champion Mo Farah's hopes of representing Great Britain in Tokyo seem to be over after he fell well short of the qualifying mark in European 10,000m Cup in Birmingham.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/57372151</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57372151</guid>
             <pubDate>Sat, 05 Jun 2021 22:27:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turkey president Erdogan vows to solve 'sea snot' outbreak]]></title>
-            <description><![CDATA[A thick, slimy layer of mucus-like matter is spreading along Turkey's coast near the capital.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57372677</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57372677</guid>
-            <pubDate>Sun, 06 Jun 2021 00:14:17 GMT</pubDate>
+            <title><![CDATA[Bafta TV Awards: Stars both real and virtual expected at ceremony]]></title>
+            <description><![CDATA[Richard Ayoade will host the event, which will open with a performance from singer Olly Alexander.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57331430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57331430</guid>
+            <pubDate>Sun, 06 Jun 2021 02:32:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Pupils urged to take tests after half-term]]></title>
@@ -79,7 +79,7 @@
             <pubDate>Sat, 05 Jun 2021 21:56:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Golfer Jon Rahm withdraws from Memorial with Covid]]></title>
+            <title><![CDATA[Golfer Rahm withdraws from tournament with Covid]]></title>
             <description><![CDATA[World number three Jon Rahm withdraws from USPGA Memorial Tournament while leading after positive Covid test.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/57372883</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57372883</guid>
@@ -100,18 +100,18 @@
             <pubDate>Sat, 05 Jun 2021 23:51:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sardinian sand theft leaves dozens facing fines of up to €3,000]]></title>
-            <description><![CDATA[People caught removing sand and shells from the Italian island face fines of up to €3,000.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57370740</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57370740</guid>
-            <pubDate>Sat, 05 Jun 2021 17:31:20 GMT</pubDate>
+            <title><![CDATA[Turkey president Erdogan vows to solve 'sea snot' outbreak]]></title>
+            <description><![CDATA[A thick, slimy layer of mucus-like matter is spreading along Turkey's coast near Istanbul.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57372677</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57372677</guid>
+            <pubDate>Sun, 06 Jun 2021 00:14:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: UK 'steps up' with plans to 'jab the globe']]></title>
             <description><![CDATA[Sunday's front pages look at the G7's tax deal and calls to share vaccine supplies around the world.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57372626</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57372626</guid>
-            <pubDate>Sat, 05 Jun 2021 22:53:42 GMT</pubDate>
+            <pubDate>Sun, 06 Jun 2021 04:50:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inside a Muslim ballet school for girls]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Sat, 05 Jun 2021 22:00:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Euro 2020: Every Georginio Wijnaldum qualifying goal for the Netherlands]]></title>
+            <description><![CDATA[Watch every goal scored by Georginio Wijnaldum from the Netherlands' Euro 2020 qualifying campaign.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57324182</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57324182</guid>
+            <pubDate>Sun, 06 Jun 2021 05:13:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England v New Zealand: Ollie Robinson hits the top of Devon Conway's stumps]]></title>
             <description><![CDATA[England's Ollie Robinson bowls Devon Conway for 23 for his fifth wicket of the match on day four of the first Test at Lord's.]]></description>
             <link>https://www.bbc.co.uk/sport/av/cricket/57370874</link>
@@ -233,18 +240,11 @@
             <pubDate>Sat, 05 Jun 2021 17:31:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Challenge Cup: Theo Fages scores St Helens try as Hull's Josh Griffin goes down injured]]></title>
-            <description><![CDATA[Watch the moment Hull's Josh Griffin suffers a painful injury and drops the ball, allowing Theo Fages to gather and score a try for St Helens during their Challenge Cup semi-final.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-league/57371553</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-league/57371553</guid>
-            <pubDate>Sat, 05 Jun 2021 15:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women's Challenge Cup final highlights: St Helens beat York to win their first title]]></title>
-            <description><![CDATA[Watch highlights as St Helens thrash York City Knights 34-6 to win the Women's Challenge Cup for the first time at Leigh Sports Village.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-league/57369108</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-league/57369108</guid>
-            <pubDate>Sat, 05 Jun 2021 13:59:56 GMT</pubDate>
+            <title><![CDATA[Euro 2020: Scotland's dramatic Euro 2020 play-off qualifying match against Serbia]]></title>
+            <description><![CDATA[BBC Sport looks back at Scotland's dramatic route to the Euro 2020 tournament, when they met Serbia in the qualifying play-offs.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57266507</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57266507</guid>
+            <pubDate>Tue, 01 Jun 2021 17:08:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
