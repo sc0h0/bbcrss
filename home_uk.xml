@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Jun 2021 15:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Jun 2021 16:04:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Prince Harry and Meghan announce birth of baby girl]]></title>
+            <description><![CDATA[The Duke and Duchess of Sussex say their daughter, Lilibet, was born on Friday and is "settling in at home".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57378117</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57378117</guid>
+            <pubDate>Sun, 06 Jun 2021 16:03:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Government 'open' to delaying 21 June England lockdown end date]]></title>
             <description><![CDATA[Matt Hancock says 21 June is a "not before" date for ending England's remaining restrictions.]]></description>
@@ -34,7 +41,7 @@
             <description><![CDATA[Kent County Council begins legal action against Priti Patel as child migrants overwhelm services.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-57369175</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57369175</guid>
-            <pubDate>Sun, 06 Jun 2021 14:15:12 GMT</pubDate>
+            <pubDate>Sun, 06 Jun 2021 15:57:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rugeley Power Station cooling towers demolished]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57374241</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57374241</guid>
             <pubDate>Sun, 06 Jun 2021 12:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monkey found at Cambuslang railway station reunited with family]]></title>
-            <description><![CDATA[ScotRail put out an appeal after the small primate was discovered at Cambuslang station near Glasgow.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57374984</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57374984</guid>
-            <pubDate>Sun, 06 Jun 2021 09:04:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bafta TV Awards 2021 red carpet in pictures]]></title>
@@ -219,13 +219,6 @@
             <pubDate>Sun, 06 Jun 2021 15:10:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: Every Georginio Wijnaldum qualifying goal for the Netherlands]]></title>
-            <description><![CDATA[Watch every goal scored by Georginio Wijnaldum from the Netherlands' Euro 2020 qualifying campaign.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57324182</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57324182</guid>
-            <pubDate>Sun, 06 Jun 2021 05:13:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
             <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
@@ -279,7 +272,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sat, 05 Jun 2021 16:08:02 GMT</pubDate>
+            <pubDate>Sun, 06 Jun 2021 15:41:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Nepal variant': What's the mutation stopping green list trips to Portugal?]]></title>
