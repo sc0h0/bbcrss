@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Jun 2021 14:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jun 2021 15:22:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid vaccine: 25 to 29-year-olds in England invited]]></title>
+            <description><![CDATA[Rollout continues, with all over 25s able to book a Covid vaccine in England from tomorrow.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57384099</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57384099</guid>
+            <pubDate>Mon, 07 Jun 2021 15:15:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colin Pitchfork: Double schoolgirl murderer can be released]]></title>
             <description><![CDATA[The first person to be convicted of murder using DNA evidence can be freed, the Parole Board confirms.]]></description>
@@ -44,18 +51,18 @@
             <pubDate>Mon, 07 Jun 2021 12:40:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Foreign aid: Rebel Tories blocked in attempt to reverse cuts]]></title>
+            <description><![CDATA[The Commons Speaker did not allow the attempt - but said MPs should be able to vote on the issue in future.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57389289</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57389289</guid>
+            <pubDate>Mon, 07 Jun 2021 14:57:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jeff Bezos and brother to fly to space in Blue Origin flight]]></title>
             <description><![CDATA[The Amazon founder will take the first human flight launched by his space company, Blue Origin.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57386049</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57386049</guid>
             <pubDate>Mon, 07 Jun 2021 12:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Foreign aid: Aid cuts could see lives lost, warns senior Tory]]></title>
-            <description><![CDATA[Senior Tory MPs want the commitment to spend 0.7% of national income on overseas development restored.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57379699</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57379699</guid>
-            <pubDate>Mon, 07 Jun 2021 12:15:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stay-at-home holidaymakers warned of summer products shortage]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-57383862</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57383862</guid>
             <pubDate>Mon, 07 Jun 2021 09:36:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bafta TV Awards honour multi-talented Michaela Coel for I May Destroy You]]></title>
-            <description><![CDATA[She adds a best actress prize to awards for writing and directing her drama I May Destroy You.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57331430</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57331430</guid>
-            <pubDate>Sun, 06 Jun 2021 19:52:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[E-scooters: Public nuisance or climate-friendly travel?]]></title>
@@ -160,7 +160,7 @@
             <description><![CDATA[A shirt showing Russian-annexed Crimea is denounced as a "political provocation".]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57379875</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57379875</guid>
-            <pubDate>Mon, 07 Jun 2021 09:13:51 GMT</pubDate>
+            <pubDate>Mon, 07 Jun 2021 15:20:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kenya's Thandiwe Muriu: Standing out in camouflage]]></title>
@@ -233,7 +233,7 @@
             <pubDate>Sun, 06 Jun 2021 23:11:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: Ben White called up as replacement for Trent Alexander-Arnold in England squad]]></title>
+            <title><![CDATA[Brighton defender White called up to England's Euros squad]]></title>
             <description><![CDATA[Brighton's Ben White is called up to England's Euro 2020 squad in place of the injured Trent Alexander-Arnold.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57381758</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57381758</guid>
@@ -247,25 +247,32 @@
             <pubDate>Mon, 07 Jun 2021 13:38:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fight Talk: Floyd Mayweather, Logan Paul, Saul 'Canelo' Alvarez, Daniel Dubois, Tommy Fury, Ryan Garcia]]></title>
-            <description><![CDATA[The boxing world reacts to Floyd Mayweather and Logan Paul's clash, Daniel Dubois is "back stronger", Devin Haney and Ryan Garcia exchange words, plus more in this week's Fight Talk.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/57375296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57375296</guid>
-            <pubDate>Mon, 07 Jun 2021 12:46:02 GMT</pubDate>
+            <title><![CDATA[Djokovic survives huge scare against teenager Musetti in Paris]]></title>
+            <description><![CDATA[Novak Djokovic avoids a shock fourth-round exit at the French Open after fighting back from two sets down against teenager Lorenzo Musetti.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57384825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57384825</guid>
+            <pubDate>Mon, 07 Jun 2021 15:12:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aaron Ramsey: Wales' great enigma aims to rekindle 2016 magic at Euro 2020]]></title>
-            <description><![CDATA[Aaron Ramsey is a Wales great but, after an injury-hit few years, can the 2016 hero rediscover his magic at Euro 2020?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57364456</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57364456</guid>
-            <pubDate>Mon, 07 Jun 2021 07:14:14 GMT</pubDate>
+            <title><![CDATA[GB's Becky Downie misses out on Tokyo Olympics spot]]></title>
+            <description><![CDATA[World uneven bars silver medallist Becky Downie has not been chosen on the British Olympic team for Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/gymnastics/57382929</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/gymnastics/57382929</guid>
+            <pubDate>Mon, 07 Jun 2021 14:15:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hewett wins French Open wheelchair singles]]></title>
+            <description><![CDATA[Britain's Alfie Hewett retains his French Open wheelchair singles title with a straight-set win over top seed Shingo Kunieda.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57387090</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57387090</guid>
+            <pubDate>Mon, 07 Jun 2021 14:44:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
             <description><![CDATA[The vaccine rollout is now reaching younger adults. What do they need to know about getting jabbed?]]></description>
             <link>https://www.bbc.co.uk/news/health-57273875</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
-            <pubDate>Fri, 04 Jun 2021 11:17:53 GMT</pubDate>
+            <pubDate>Mon, 07 Jun 2021 14:48:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK holidays: When and where can I go... and who with?]]></title>
