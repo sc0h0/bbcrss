@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Jun 2021 09:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jun 2021 10:39:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Cricketer's suspension over the top - Dowden]]></title>
+            <description><![CDATA[Culture Secretary Oliver Dowden says the England and Wales Cricket Board "has gone over the top" in suspending bowler Ollie Robinson for historical racist and sexist tweets.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57383097</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57383097</guid>
+            <pubDate>Mon, 07 Jun 2021 09:44:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Foreign aid: Aid cuts could see lives lost, warns senior Tory]]></title>
             <description><![CDATA[Senior Tory MPs want the commitment to spend 0.7% of national income on overseas development restored.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57379699</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57379699</guid>
-            <pubDate>Mon, 07 Jun 2021 08:09:13 GMT</pubDate>
+            <pubDate>Mon, 07 Jun 2021 10:19:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pakistan train accident: 36 killed in Sindh collision]]></title>
@@ -37,25 +44,18 @@
             <pubDate>Mon, 07 Jun 2021 05:04:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Queen 'delighted' after Harry and Meghan announce birth of baby girl]]></title>
-            <description><![CDATA[Buckingham Palace says the Queen is "delighted" by news of the birth of the couple's second child.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57380133</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57380133</guid>
-            <pubDate>Mon, 07 Jun 2021 08:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Government aid cuts opposed and vaccine badges for UK online daters]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57378094</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57378094</guid>
-            <pubDate>Mon, 07 Jun 2021 06:43:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bafta TV Awards honour multi-talented Michaela Coel for I May Destroy You]]></title>
             <description><![CDATA[She adds a best actress prize to awards for writing and directing her drama I May Destroy You.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57331430</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57331430</guid>
             <pubDate>Sun, 06 Jun 2021 19:52:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Queen 'delighted' after Harry and Meghan announce birth of baby girl]]></title>
+            <description><![CDATA[Buckingham Palace says the Queen is "delighted" by news of the birth of the couple's second child.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57380133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57380133</guid>
+            <pubDate>Mon, 07 Jun 2021 08:03:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stay-at-home holidaymakers warned of summer products shortage]]></title>
@@ -65,20 +65,6 @@
             <pubDate>Mon, 07 Jun 2021 07:41:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Qantas 'disturbed' by claims of gang infiltration]]></title>
-            <description><![CDATA[The airline responds to reports some staff may have been involved in organised crime.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57379984</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57379984</guid>
-            <pubDate>Mon, 07 Jun 2021 03:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Dushman, last surviving Auschwitz liberator, dies aged 98]]></title>
-            <description><![CDATA[As a 21-year-old Red Army soldier, David Dushman used his tank to mow down the camp's electric fence.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57379704</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57379704</guid>
-            <pubDate>Sun, 06 Jun 2021 23:20:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Logan Paul v Floyd Mayweather: YouTuber goes distance in exhibition fight with former champion]]></title>
             <description><![CDATA[YouTube personality Logan Paul goes the distance in his eight-round exhibition fight with unbeaten former world champion Floyd Mayweather.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/57381402</link>
@@ -86,11 +72,25 @@
             <pubDate>Mon, 07 Jun 2021 06:42:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Qantas 'disturbed' by claims of gang infiltration]]></title>
+            <description><![CDATA[The airline responds to reports some staff may have been involved in organised crime.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57379984</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57379984</guid>
+            <pubDate>Mon, 07 Jun 2021 03:14:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid vaccine stickers come to dating apps in UK]]></title>
             <description><![CDATA[The optional badges will be displayable on dating profiles as part of a government collaboration.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57379034</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57379034</guid>
             <pubDate>Sun, 06 Jun 2021 23:07:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kay Burley returns to Sky News after six-month Covid breach absence]]></title>
+            <description><![CDATA[The presenter stepped back from her presenting role following a row about her 60th birthday party.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57356515</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57356515</guid>
+            <pubDate>Mon, 07 Jun 2021 07:28:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bafta TV Awards 2021 red carpet in pictures]]></title>
@@ -114,11 +114,11 @@
             <pubDate>Sun, 06 Jun 2021 23:16:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kay Burley returns to Sky News after six-month Covid breach absence]]></title>
-            <description><![CDATA[The presenter stepped back from her presenting role following a row about her 60th birthday party.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57356515</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57356515</guid>
-            <pubDate>Mon, 07 Jun 2021 07:28:35 GMT</pubDate>
+            <title><![CDATA[Greek islands aim to go 'Covid-free' to welcome back tourists]]></title>
+            <description><![CDATA[Milos is among those aiming to become "Covid-free" by vaccinating all residents and workers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57363386</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57363386</guid>
+            <pubDate>Sun, 06 Jun 2021 23:34:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bristol 'tornado': Video shows funnel cloud over the city]]></title>
@@ -133,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57379684</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57379684</guid>
             <pubDate>Mon, 07 Jun 2021 04:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greek islands aim to go 'Covid-free' to welcome back tourists]]></title>
-            <description><![CDATA[Milos is among those aiming to become "Covid-free" by vaccinating all residents and workers.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57363386</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57363386</guid>
-            <pubDate>Sun, 06 Jun 2021 23:34:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ukraine's Euro 2020 football kit provokes outrage in Russia]]></title>
@@ -177,7 +170,14 @@
             <pubDate>Sun, 06 Jun 2021 23:34:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bafta TV Awards: 8 backstage bites from the ceremony]]></title>
+            <title><![CDATA[I May Destroy You: How Ita O'Brien choreographed TV's most talked-about sex]]></title>
+            <description><![CDATA[I May Destroy You creator Michaela Coel dedicated her best actress Bafta to the show's intimacy co-ordinator.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53350245</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53350245</guid>
+            <pubDate>Mon, 07 Jun 2021 08:56:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 backstage bites from the TV Baftas]]></title>
             <description><![CDATA[From a panicked Paul Mescal to Romesh being rumbled, here are the best quotes from the winners' room.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57376765</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57376765</guid>
@@ -212,18 +212,25 @@
             <pubDate>Sun, 06 Jun 2021 23:11:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ECB decision to suspend Robinson 'over the top', says Culture Secretary]]></title>
-            <description><![CDATA[Culture Secretary Oliver Dowden says the England and Wales Cricket Board "has gone over the top" in suspending bowler Ollie Robinson for historical racist and sexist tweets.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57383097</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57383097</guid>
-            <pubDate>Mon, 07 Jun 2021 09:35:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Euro 2020: Ben White called up as replacement for Trent Alexander-Arnold in England squad]]></title>
             <description><![CDATA[Brighton's Ben White is called up to England's Euro 2020 squad in place of the injured Trent Alexander-Arnold.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57381758</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57381758</guid>
             <pubDate>Mon, 07 Jun 2021 08:11:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aaron Ramsey: Wales' great enigma aims to rekindle 2016 magic at Euro 2020]]></title>
+            <description><![CDATA[Aaron Ramsey is a Wales great but, after an injury-hit few years, can the 2016 hero rediscover his magic at Euro 2020?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57364456</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57364456</guid>
+            <pubDate>Mon, 07 Jun 2021 07:14:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Logan Paul's whole goal was to survive - Floyd Mayweather]]></title>
+            <description><![CDATA[Unbeaten former five-weight world champion Floyd Mayweather says YouTuber Logan Paul's 'whole goal was to survive' their Exhibition fight at Miami's Hard Rock stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/boxing/57384655</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/boxing/57384655</guid>
+            <pubDate>Mon, 07 Jun 2021 10:08:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England and New Zealand settle for draw]]></title>
@@ -286,7 +293,7 @@
             <description><![CDATA[A third Covid wave hit much of Europe hard but now gradually lockdowns are being eased.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53640249</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
-            <pubDate>Fri, 04 Jun 2021 13:52:42 GMT</pubDate>
+            <pubDate>Mon, 07 Jun 2021 10:12:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
