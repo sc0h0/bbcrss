@@ -15,7 +15,7 @@
 15. [Jimi Olubunmi-Adewole: Call for Thames hero to be honoured](https://www.bbc.co.uk/news/uk-57392794) - Jimi Olubunmi-Adewole drowned in the Thames while trying to save a woman's life earlier this year.
 16. [Scientists say new dinosaur species is largest found in Australia](https://www.bbc.co.uk/news/world-australia-57394830) - The Australotitan grew up to 30m (96ft) long and is among the largest dinosaurs found worldwide.
 17. [Coronavirus: The 'missing' Covid-19 deaths in rural India](https://www.bbc.co.uk/news/world-asia-india-57383131) - Experts say the number of deaths is higher than what official data says in rural parts of India.
-18. [Why former US president Bill Clinton wants to rule the literary world](https://www.bbc.co.uk/news/entertainment-arts-57386306) - The former US president is releasing his second novel, written with author James Patterson.
+18. [Bill Clinton on Covid, the Capitol and his new career](https://www.bbc.co.uk/news/entertainment-arts-57386306) - The former US president is releasing his second novel, written with author James Patterson.
 19. [England taking the knee: Why some fans say they are booing players](https://www.bbc.co.uk/news/newsbeat-57382945) - Some supporters have booed and jeered as the team has made the gesture in warm-up games.
 20. [Giant tortoise picked up by police](https://www.bbc.co.uk/news/uk-england-suffolk-57382810) - It takes three police officers to lift the giant tortoise - named Titan - into a van.
 21. [E-scooters: Public nuisance or climate-friendly travel?](https://www.bbc.co.uk/news/uk-57385757) - Electric rental scooters are being introduced to six London boroughs today - but not everyone's pleased.
