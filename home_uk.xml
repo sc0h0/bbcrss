@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Jun 2021 11:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jun 2021 12:40:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,10 +24,10 @@
         </item>
         <item>
             <title><![CDATA[Websites begin to work again after major breakage]]></title>
-            <description><![CDATA[Cloud computing provider Fastly, which was behind the problems,said it was implementing a fix.]]></description>
+            <description><![CDATA[Cloud computing provider Fastly, which was behind the problems, said it was implementing a fix.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57399628</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57399628</guid>
-            <pubDate>Tue, 08 Jun 2021 11:44:38 GMT</pubDate>
+            <pubDate>Tue, 08 Jun 2021 12:32:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brit saves twin sister by punching crocodile in the face]]></title>
@@ -37,11 +37,18 @@
             <pubDate>Tue, 08 Jun 2021 10:51:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ANOM: Hundreds arrested in massive global crime sting using messaging app]]></title>
-            <description><![CDATA[Hundreds are arrested worldwide after using the ANOM app, where their messages were monitored.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57394831</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57394831</guid>
-            <pubDate>Tue, 08 Jun 2021 10:40:29 GMT</pubDate>
+            <title><![CDATA[Covid: Greater Manchester and Lancashire to get extra help]]></title>
+            <description><![CDATA[Matt Hancock announces a range of new measures to tackle rising Covid infections in the region.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57400378</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57400378</guid>
+            <pubDate>Tue, 08 Jun 2021 12:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paul Givan announced as new NI first minister]]></title>
+            <description><![CDATA[The Lagan Valley assembly member will replace Arlene Foster, who was ousted as DUP leader in April.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57399375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57399375</guid>
+            <pubDate>Tue, 08 Jun 2021 12:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Increase in terrific female roles, says Winslet]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57397502</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57397502</guid>
             <pubDate>Tue, 08 Jun 2021 10:19:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Greater Manchester and Lancashire to get extra help]]></title>
-            <description><![CDATA[Matt Hancock announces a range of new measures to tackle rising Covid infections in the region.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57400378</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57400378</guid>
-            <pubDate>Tue, 08 Jun 2021 11:48:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Five-day office week will become the norm again']]></title>
@@ -79,7 +79,14 @@
             <pubDate>Tue, 08 Jun 2021 09:52:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Home movers dominate mortgage borrowing]]></title>
+            <title><![CDATA[ANOM: Hundreds arrested in massive global crime sting using messaging app]]></title>
+            <description><![CDATA[Hundreds are arrested worldwide after using the ANOM app, where their messages were monitored.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57394831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57394831</guid>
+            <pubDate>Tue, 08 Jun 2021 10:40:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People moving home drive mortgage borrowing surge]]></title>
             <description><![CDATA[A record proportion of mortgage lending was made to home movers during a surge in the UK housing market.]]></description>
             <link>https://www.bbc.co.uk/news/business-57400359</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57400359</guid>
@@ -259,20 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/57396152</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57396152</guid>
             <pubDate>Tue, 08 Jun 2021 06:51:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Forget Euro 2016 - this fearless Wales side can write their own success story’]]></title>
-            <description><![CDATA[Former Wales captain and BBC Sport columnist Ashley Williams explains his belief that a fearless Wales side can write their own Euros success story at this summer's tournament.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57351398</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57351398</guid>
-            <pubDate>Tue, 08 Jun 2021 05:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Behind the scenes at Scotland's last major men's finals]]></title>
-            <description><![CDATA[Former Scotland manager Craig Brown recollects taking the national team to their last World Cup in France 23 years ago.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/53109887</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53109887</guid>
-            <pubDate>Tue, 08 Jun 2021 08:02:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What do under-30s need to know about the vaccine?]]></title>
