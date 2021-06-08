@@ -40,7 +40,7 @@
 40. [Covid Indian variant: Where is it, how does it spread and is it more infectious?](https://www.bbc.co.uk/news/health-57157496) - The Indian variant is spreading in some parts of the country - how serious is it?
 41. [Covid-19: Could a third wave change 21 June plans in England?](https://www.bbc.co.uk/news/health-57328469) - Rising coronavirus cases have called the planned 21 June relaxing of rules in England into question.
 42. [UK holidays: When and where can I go... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - Going abroad has got trickier and people are opting to stay in the UK for their holidays
-43. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are now possible, but travellers must follow strict rules on their return.
+43. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are possible, but travellers must follow strict rules on their return.
 44. [Lockdown muscle loss: Five ways to get back in shape](https://www.bbc.co.uk/news/uk-56887390) - Lockdown inactivity may have left people with weaker muscles - there are simple solutions.
 45. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - The vaccine is being offered to over-18s in Wales and Northern Ireland, over-25s in England and over-30s in Scotland.
 46. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
