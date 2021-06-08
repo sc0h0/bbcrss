@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Jun 2021 21:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jun 2021 21:38:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,25 @@
             <pubDate>Tue, 08 Jun 2021 16:39:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Websites begin to work again after major breakage]]></title>
-            <description><![CDATA[Cloud computing provider Fastly, which was behind the problems, said it was implementing a fix.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57399628</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57399628</guid>
-            <pubDate>Tue, 08 Jun 2021 12:32:53 GMT</pubDate>
+            <title><![CDATA[Brexit: UK and EU urge compromises over Irish Sea border checks]]></title>
+            <description><![CDATA[British ministers are warned not to delay border checks, as the two sides meet for talks in London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57403258</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57403258</guid>
+            <pubDate>Tue, 08 Jun 2021 21:30:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Srebrenica massacre: UN court rejects Mladic genocide appeal]]></title>
-            <description><![CDATA[UN judges turn down the Bosnian Serb ex-general's appeal against his genocide conviction.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57346523</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57346523</guid>
-            <pubDate>Tue, 08 Jun 2021 21:05:26 GMT</pubDate>
+            <title><![CDATA[Travel: US eases travel rules for 61 countries - but not UK]]></title>
+            <description><![CDATA[The US public health agency has lowered 61 countries to Level 3, including Japan and France.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57403216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57403216</guid>
+            <pubDate>Tue, 08 Jun 2021 20:34:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Cruise ship not allowed to dock in Greenock]]></title>
+            <description><![CDATA[Passengers on board the MSC Virtuosa cannot embark or disembark in Greenock because of Covid travel restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57406705</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57406705</guid>
+            <pubDate>Tue, 08 Jun 2021 20:51:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[France President Emmanuel Macron slapped in the face]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57402753</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57402753</guid>
             <pubDate>Tue, 08 Jun 2021 17:48:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: More help for north-west England and pub uncertainty]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57405525</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57405525</guid>
-            <pubDate>Tue, 08 Jun 2021 16:17:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paul Givan nominated by Edwin Poots as NI's new first minister]]></title>
@@ -93,11 +93,11 @@
             <pubDate>Tue, 08 Jun 2021 17:10:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Cruise ship not allowed to dock in Greenock]]></title>
-            <description><![CDATA[Passengers on board the MSC Virtuosa cannot embark or disembark in Greenock because of Covid travel restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57406705</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57406705</guid>
-            <pubDate>Tue, 08 Jun 2021 20:51:48 GMT</pubDate>
+            <title><![CDATA[Tax details of US super-rich allegedly leaked]]></title>
+            <description><![CDATA[US authorities probe leak claiming to show how billionaires including Jeff Bezos and Elon Musk pay minimal or no income tax.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57383869</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57383869</guid>
+            <pubDate>Tue, 08 Jun 2021 21:10:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chris Harrison: The Bachelor host leaves for good over racism row]]></title>
@@ -353,10 +353,10 @@
         </item>
         <item>
             <title><![CDATA['Just being there doesn't satisfy me' - Zverev through to French Open semis]]></title>
-            <description><![CDATA[German sixth seed Alexander Zverev reaches the French Open semi-finals for the first time by beating Spain's Alejandro Davidovich Fokina.]]></description>
+            <description><![CDATA[Greek fifth seed Stefanos Tsitsipas beats Russia's Daniil Medvedev to set up a French Open semi-final against Germany's Alexander Zverev.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57373108</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57373108</guid>
-            <pubDate>Tue, 08 Jun 2021 18:05:05 GMT</pubDate>
+            <pubDate>Tue, 08 Jun 2021 21:35:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Young goalkeepers impress for Republic against Hungary]]></title>
