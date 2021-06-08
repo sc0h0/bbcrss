@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Jun 2021 14:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jun 2021 15:27:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,25 @@
             <pubDate>Tue, 08 Jun 2021 12:32:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Srebrenica massacre: UN court rejects Mladic genocide appeal]]></title>
+            <description><![CDATA[UN judges turn down the Bosnian Serb ex-general's appeal against his genocide conviction.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57346523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57346523</guid>
+            <pubDate>Tue, 08 Jun 2021 14:45:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brit saves twin sister by punching crocodile in the face]]></title>
             <description><![CDATA[Melissa Laurie was unconscious in a Mexico lagoon, when her sister Georgia fought off the reptile.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57399864</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57399864</guid>
             <pubDate>Tue, 08 Jun 2021 10:51:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France President Emmanuel Macron slapped in the face]]></title>
+            <description><![CDATA[Two people are reportedly arrested after Emmanuel Macron was slapped as he tours France.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57402753</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57402753</guid>
+            <pubDate>Tue, 08 Jun 2021 15:10:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Greater Manchester and Lancashire to get extra help]]></title>
@@ -44,32 +58,18 @@
             <pubDate>Tue, 08 Jun 2021 14:18:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[France President Emmanuel Macron slapped in the face]]></title>
-            <description><![CDATA[Two people are reportedly arrested after Emmanuel Macron was slapped as he tours France.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57402753</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57402753</guid>
-            <pubDate>Tue, 08 Jun 2021 14:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Srebrenica massacre: UN court rejects Mladic genocide appeal]]></title>
-            <description><![CDATA[UN judges turn down the Bosnian Serb ex-general's appeal against his genocide conviction.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57346523</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57346523</guid>
-            <pubDate>Tue, 08 Jun 2021 14:45:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Paul Givan announced as new NI first minister]]></title>
             <description><![CDATA[The Lagan Valley assembly member will replace Arlene Foster, who was ousted as DUP leader in April.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57399375</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57399375</guid>
-            <pubDate>Tue, 08 Jun 2021 14:32:05 GMT</pubDate>
+            <pubDate>Tue, 08 Jun 2021 15:02:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Vaccine passports to be used at Wembley group fixtures]]></title>
             <description><![CDATA[England's Euro 2020 group games at Wembley Stadium will be the first sporting event at which vaccine passports will be used in the UK.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57404223</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57404223</guid>
-            <pubDate>Tue, 08 Jun 2021 14:52:38 GMT</pubDate>
+            <pubDate>Tue, 08 Jun 2021 15:23:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Less than a quarter of pubs confident of surviving three months]]></title>
@@ -107,6 +107,13 @@
             <pubDate>Tue, 08 Jun 2021 05:30:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Australia whales: ‘Unbelievable’ super-group caught on film]]></title>
+            <description><![CDATA[A massive whale pod has been seen "bubble-net" feeding for the first time off Australia’s coast.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57396055</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57396055</guid>
+            <pubDate>Tue, 08 Jun 2021 15:01:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Daughters say NHS worker mum is their 'hero']]></title>
             <description><![CDATA[Two girls say their former NHS worker mum is their "hero" and want to follow in her footsteps.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-57358672</link>
@@ -121,11 +128,11 @@
             <pubDate>Tue, 08 Jun 2021 02:22:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Louise Minchin to leave BBC Breakfast after 20 years]]></title>
-            <description><![CDATA[The morning host says she's loved being on the show for almost 20 years.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57397820</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57397820</guid>
-            <pubDate>Tue, 08 Jun 2021 09:52:42 GMT</pubDate>
+            <title><![CDATA[Isle of Man puffins: Birds return to island after three decades]]></title>
+            <description><![CDATA[The birds are returning thanks to a special project using model "decoy" puffins to help lure them back.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-isle-of-man-57392543</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-isle-of-man-57392543</guid>
+            <pubDate>Tue, 08 Jun 2021 14:47:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are famous politicians' favourite TV shows and why do they tell us?]]></title>
@@ -154,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57394251</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57394251</guid>
             <pubDate>Tue, 08 Jun 2021 04:42:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Louise Minchin to leave BBC Breakfast after 20 years]]></title>
+            <description><![CDATA[The morning host says she's loved being on the show for almost 20 years.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57397820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57397820</guid>
+            <pubDate>Tue, 08 Jun 2021 09:52:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scientists say new dinosaur species is largest found in Australia]]></title>
@@ -296,18 +310,11 @@
             <pubDate>Sun, 06 Jun 2021 21:13:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Zidansek reaches maiden Grand Slam semi-final at French Open]]></title>
-            <description><![CDATA[Slovenian Tamara Zidansek reaches her maiden Grand Slam semi-final with a hard-fought victory over Spain's Paula Badosa at the French Open.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57400290</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57400290</guid>
-            <pubDate>Tue, 08 Jun 2021 12:56:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debbie Hewitt to become first female chair of the Football Association]]></title>
-            <description><![CDATA[Debbie Hewitt is set to become the first female chair of the Football Association after being nominated to replace Greg Clarke.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57396152</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57396152</guid>
-            <pubDate>Tue, 08 Jun 2021 06:51:59 GMT</pubDate>
+            <title><![CDATA[Johanna Konta beats Lesley Pattinama Kerkhove in Nottingham opener.]]></title>
+            <description><![CDATA[Top seed and British number one Johanna Konta cruises through Nottingham opener with a straight-sets win over the Netherlands' Lesley Pattinama Kerkhove.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57404088</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57404088</guid>
+            <pubDate>Tue, 08 Jun 2021 14:39:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I didn't think I was good enough' - Anderson set to break Cook's England Test caps record]]></title>
@@ -315,6 +322,13 @@
             <link>https://www.bbc.co.uk/sport/cricket/57375800</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57375800</guid>
             <pubDate>Tue, 08 Jun 2021 12:05:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Match of the Day Top 10: What is Phil Foden's best position?]]></title>
+            <description><![CDATA[Gary Lineker and Micah Richards discuss Manchester City star Phil Foden in the latest Match of the Day Top 10 podcast.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57290891</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57290891</guid>
+            <pubDate>Tue, 08 Jun 2021 05:14:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What do under-30s need to know about the vaccine?]]></title>
