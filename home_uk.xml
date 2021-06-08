@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Jun 2021 06:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jun 2021 07:13:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -45,10 +45,17 @@
         </item>
         <item>
             <title><![CDATA[ANOM: Hundreds arrested in massive global crime sting]]></title>
-            <description><![CDATA[Criminals were lured into using the FBI-designed ANOM app, where their messages were monitored.]]></description>
+            <description><![CDATA[Criminals were lured into using the FBI-run ANOM app, where their messages were monitored.]]></description>
             <link>https://www.bbc.co.uk/news/world-57394831</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57394831</guid>
-            <pubDate>Tue, 08 Jun 2021 05:32:10 GMT</pubDate>
+            <pubDate>Tue, 08 Jun 2021 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Holidaymakers race back from Portugal and G7 pressed over vaccine donations]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57393731</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57393731</guid>
+            <pubDate>Tue, 08 Jun 2021 06:46:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazon-dwellers lived sustainably for 5,000 years]]></title>
@@ -62,7 +69,7 @@
             <description><![CDATA[The functioning of health services in the future is at risk because staff are burned out, MPs are warning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57395232</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57395232</guid>
-            <pubDate>Tue, 08 Jun 2021 03:43:46 GMT</pubDate>
+            <pubDate>Tue, 08 Jun 2021 07:06:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ECB looks into historical 'offensive' social media post from second England player]]></title>
@@ -90,7 +97,7 @@
             <description><![CDATA[Wales and Scotland lose out and details of a major revamp of England's constituencies is unveiled.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57384795</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57384795</guid>
-            <pubDate>Tue, 08 Jun 2021 01:08:48 GMT</pubDate>
+            <pubDate>Tue, 08 Jun 2021 07:06:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Daughters say NHS worker mum is their 'hero']]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-57358672</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-57358672</guid>
             <pubDate>Tue, 08 Jun 2021 02:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scientists say new dinosaur species is largest found in Australia]]></title>
-            <description><![CDATA[The Australotitan grew up to 30m (96ft) long and is among the largest dinosaurs found worldwide.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57394830</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57394830</guid>
-            <pubDate>Tue, 08 Jun 2021 02:10:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: 21 June lockdown easing date 'to be delayed']]></title>
@@ -126,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/uk-57392794</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57392794</guid>
             <pubDate>Tue, 08 Jun 2021 02:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scientists say new dinosaur species is largest found in Australia]]></title>
+            <description><![CDATA[The Australotitan grew up to 30m (96ft) long and is among the largest dinosaurs found worldwide.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57394830</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57394830</guid>
+            <pubDate>Tue, 08 Jun 2021 02:10:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: The 'missing' Covid-19 deaths in rural India]]></title>
@@ -247,6 +254,13 @@
             <pubDate>Sun, 06 Jun 2021 21:13:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Debbie Hewitt to become first female chair of the Football Association]]></title>
+            <description><![CDATA[Debbie Hewitt is set to become the first female chair of the Football Association after being nominated to replace Greg Clarke.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57396152</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57396152</guid>
+            <pubDate>Tue, 08 Jun 2021 06:51:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘Forget Euro 2016 - this fearless Wales side can write their own success story’]]></title>
             <description><![CDATA[Former Wales captain and BBC Sport columnist Ashley Williams explains his belief that a fearless Wales side can write their own Euros success story at this summer's tournament.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57351398</link>
@@ -266,13 +280,6 @@
             <link>https://www.bbc.co.uk/sport/football/57000071</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57000071</guid>
             <pubDate>Tue, 08 Jun 2021 05:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Match of the Day Top 10: What is Phil Foden's best position?]]></title>
-            <description><![CDATA[Gary Lineker and Micah Richards discuss Manchester City star Phil Foden in the latest Match of the Day Top 10 podcast.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57290891</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57290891</guid>
-            <pubDate>Tue, 08 Jun 2021 05:14:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What do under-30s need to know about the vaccine?]]></title>
