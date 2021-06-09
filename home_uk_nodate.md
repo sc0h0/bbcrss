@@ -1,4 +1,4 @@
-1. [US to buy 500 million Covid vaccine doses for the world - reports](https://www.bbc.co.uk/news/world-us-canada-57416519) - Joe Biden's administration is reportedly going to provide the Pfizer doses to about 100 countries.
+1. [US to buy 500 million Covid vaccine doses for the world - reports](https://www.bbc.co.uk/news/world-us-canada-57416519) - The plans to provide doses for about 100 countries come as Joe Biden arrives in the UK for a summit.
 2. [Covid hospital cases rise above 1,000 in UK](https://www.bbc.co.uk/news/health-57417802) - Scientists say they are still uncertain about the size of a third wave, but vaccination will be key.
 3. [Brexit: EU says patience wearing thin with UK in talks to avoid trade war](https://www.bbc.co.uk/news/uk-politics-57403258) - Boris Johnson says a solution to the dispute over Northern Ireland border checks is "easily doable".
 4. [Covid-19: Highest daily cases since February and 'Glastonbury style' rush for jabs](https://www.bbc.co.uk/news/uk-57353165) - Five things you need to know about the coronavirus pandemic this Wednesday evening.
