@@ -18,8 +18,8 @@
 18. ['My Paralympic dreams dashed by 1.5mm'](https://www.bbc.co.uk/news/uk-57404811) - Swimmer Levana Hanson had her sights on a medal – that all changed when she was told one stump too long for her classification.
 19. [Why Covid has made it harder for young women to get jobs](https://www.bbc.co.uk/news/world-57400216) - More than 600 million people aged 15-24 are thought to be unemployed, with women most affected.
 20. [Queen's portrait removed after vote by Oxford University students](https://www.bbc.co.uk/news/uk-england-oxfordshire-57409743) - Oxford University students vote to remove the image as it is deemed a symbol of "colonial history".
-21. [Lockdown easing: Four numbers to look for ahead of the 21 June decision](https://www.bbc.co.uk/news/57403888) - The key numbers that offer clues as to whether "freedom day" will proceed as planned on 21 June.
-22. [Covid: As Matt Hancock faces grilling, what are key questions for him?](https://www.bbc.co.uk/news/uk-politics-57284470) - The health secretary will be quizzed by a panel of MPs about his handling of the coronavirus pandemic.
+21. [Covid: As Matt Hancock faces grilling, what are key questions for him?](https://www.bbc.co.uk/news/uk-politics-57284470) - The health secretary will be quizzed by a panel of MPs about his handling of the coronavirus pandemic.
+22. [Lockdown easing: Four numbers to look for ahead of the 21 June decision](https://www.bbc.co.uk/news/57403888) - The key numbers that offer clues as to whether "freedom day" will proceed as planned on 21 June.
 23. [The Brazilian doctor offering bogus Covid remedies for social media likes](https://www.bbc.co.uk/news/blogs-trending-57276286) - Albert Dickson, an elected politician, says he is 'above all a doctor' and defends medical autonomy.
 24. [Covid: What do we know about global youth unemployment?](https://www.bbc.co.uk/news/57406236) - Young people have suffered from the economic consequences of Covid.
 25. [Italy's plummeting birth rate worsened by pandemic](https://www.bbc.co.uk/news/world-europe-57396969) - Italy's birth rate is at its lowest since 1861 and Covid-19 has made it harder to start a family.
