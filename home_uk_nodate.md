@@ -2,7 +2,7 @@
 2. [Lockdown lifting: Four numbers to look for this week](https://www.bbc.co.uk/news/57403888) - The key numbers that offer clues as to whether "freedom day" will proceed as planned on 21 June.
 3. [Government acted unlawfully over firm's £560,000 Covid contract](https://www.bbc.co.uk/news/uk-politics-57413115) - A High Court judge criticises awarding a contract to a company run by Dominic Cummings's friends.
 4. [G7: 'Mount Recyclemore' of leaders made from electronic waste in Cornwall](https://www.bbc.co.uk/news/uk-england-cornwall-57406136) - The sculptor says his work highlights the need to make electronic devices more reusable.
-5. [One Fastly customer 'triggered internet meltdown'](https://www.bbc.co.uk/news/technology-57413224) - The bug was discovered when a customer changed their settings, the company says, promising a "post-mortem".
+5. [One Fastly customer triggered internet meltdown](https://www.bbc.co.uk/news/technology-57413224) - The unnamed customer was not to blame but changing settings triggered a software bug, Fastly says.
 6. [Halo Trust: Afghanistan mine clearance workers shot dead 'in cold blood'](https://www.bbc.co.uk/news/world-asia-57410265) - Officials blamed the Taliban, but the Halo Trust says the local Taliban group came to their aid.
 7. [Crocodile attack: British family's fears as saved twin gets sepsis](https://www.bbc.co.uk/news/newsbeat-57412496) - The British twins' older sister says Melissa is in a "really serious" condition in hospital in Mexico.
 8. [Halogen lightbulb sales to be banned in UK under climate change plans](https://www.bbc.co.uk/news/uk-57407233) - September's ban will cut carbon emissions and save consumers money, the government says.
