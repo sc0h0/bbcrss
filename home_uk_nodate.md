@@ -1,7 +1,7 @@
-1. [G7 summit: Biden to warn PM not to risk NI peace over Brexit](https://www.bbc.co.uk/news/uk-politics-57411135) - The US President and Boris Johnson will have their first face-to-face meeting on the eve of the G7.
-2. [Maya Forstater: Woman wins tribunal appeal over transgender tweet](https://www.bbc.co.uk/news/uk-57426579) - Maya Forstater lost her job at a think tank over tweets saying people cannot change their biological sex.
-3. ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219) - Infecting the mosquitoes with a different bug slams the brakes on dengue fever, trial finds.
-4. [Girls asked for nudes by up to 11 boys a night, Ofsted finds](https://www.bbc.co.uk/news/education-57411363) - Sexual harassment has become "normalised" among school-age children, England's schools watchdog finds.
+1. [Maya Forstater: Woman wins tribunal appeal over transgender tweet](https://www.bbc.co.uk/news/uk-57426579) - Maya Forstater lost her job at a think tank over tweets saying people cannot change their biological sex.
+2. [G7 summit: Biden to warn PM not to risk NI peace over Brexit](https://www.bbc.co.uk/news/uk-politics-57411135) - The US President and Boris Johnson will have their first face-to-face meeting on the eve of the G7.
+3. [Girls asked for nudes by up to 11 boys a night, Ofsted finds](https://www.bbc.co.uk/news/education-57411363) - Sexual harassment has become "normalised" among school-age children, England's schools watchdog finds.
+4. ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219) - Infecting the mosquitoes with a different bug slams the brakes on dengue fever, trial finds.
 5. [Solar eclipse 2021: ‘Ring of fire’ to sweep across the Earth](https://www.bbc.co.uk/news/science-environment-57420056) - A large swathe of the Northern Hemisphere is about to enjoy a so-called annular solar eclipse.
 6. [Hospital waiting list tops 5m in England](https://www.bbc.co.uk/news/health-57419504) - But number of people waiting over a year drops for first time since pandemic began.
 7. [Cecil Rhodes: Oxford lecturers boycott Oriel College over statue decision](https://www.bbc.co.uk/news/uk-57422751) - Academics refuse to tutor students of Oriel College, which chose to keep the controversial statue.
