@@ -1,8 +1,8 @@
 1. [G7: UK and US in complete harmony over Northern Ireland - Boris Johnson](https://www.bbc.co.uk/news/uk-politics-57433296) - Boris Johnson meets US President Joe Biden ahead of the G7 summit in Cornwall.
 2. [UK to donate more than 100m surplus vaccine doses, says PM](https://www.bbc.co.uk/news/uk-57436535) - Boris Johnson says the donations to countries in need will begin within weeks.
-3. [Covid: Matt Hancock defends timing of first lockdown](https://www.bbc.co.uk/news/uk-politics-57425830) - The health secretary hits back at Dominic Cummings's attacks on his handling of the pandemic.
-4. [Fishmongers' Hall: Usman Khan was lawfully killed by police](https://www.bbc.co.uk/news/uk-england-london-57424420) - Convicted terrorist Usman Khan was shot by police after he had fatally stabbed two people.
-5. [Ethiopia's Tigray crisis: UN aid chief says there is famine](https://www.bbc.co.uk/news/world-africa-57432280) - More than 350,000 people are living in "severe crisis" after months of conflict in the Tigray region.
+3. [Ethiopia's Tigray crisis: UN aid chief says there is famine](https://www.bbc.co.uk/news/world-africa-57432280) - More than 350,000 people are living in "severe crisis" after months of conflict in the Tigray region.
+4. [Covid: Matt Hancock defends timing of first lockdown](https://www.bbc.co.uk/news/uk-politics-57425830) - The health secretary hits back at Dominic Cummings's attacks on his handling of the pandemic.
+5. [Fishmongers' Hall: Usman Khan was lawfully killed by police](https://www.bbc.co.uk/news/uk-england-london-57424420) - Convicted terrorist Usman Khan was shot by police after he had fatally stabbed two people.
 6. [Covid-19: Delta variant makes up 91% of new UK cases as US overtakes as hardest hit](https://www.bbc.co.uk/news/uk-57430420) - Five things you need to know about the coronavirus pandemic this Thursday evening.
 7. [Ex-Brewdog staff allege culture of fear at brewer](https://www.bbc.co.uk/news/business-57428258) - Former employees allege "cult of personality" in firm and claim "toxic attitude" to junior staff.
 8. [Maya Forstater: Woman wins tribunal appeal over transgender tweets](https://www.bbc.co.uk/news/uk-57426579) - Maya Forstater lost her job at a think tank over tweets saying people cannot change their biological sex.
@@ -10,7 +10,7 @@
 10. [Napier Barracks: Opposition MPs call for Priti Patel to resign](https://www.bbc.co.uk/news/uk-england-kent-57432760) - A memo casts doubt over the home secretary's claim that asylum housing was based on health advice.
 11. [Monkeypox: Two cases identified in north Wales](https://www.bbc.co.uk/news/uk-wales-57431322) - Two people were admitted to a hospital in England, but one has since been discharged.
 12. [Sir Elton John warns musicians face EU tour 'catastrophe'](https://www.bbc.co.uk/news/entertainment-arts-57434123) - The star warns MPs the UK is in danger of losing "a generation of talent" due to visa constraints.
-13. [EA hacked and source code stolen](https://www.bbc.co.uk/news/technology-57431987) - Game data and source code were both stolen by hackers, but no player data, EA said in a statement
+13. [EA: Gaming giant hacked and source code stolen](https://www.bbc.co.uk/news/technology-57431987) - Game data and source code were both stolen by hackers, but no player data, EA said in a statement
 14. [Solar eclipse 2021: Eclipse lights up sky](https://www.bbc.co.uk/news/world-57430146) - Some early risers in the northern hemisphere may have spotted the eclipse in the sky on Thursday morning.
 15. [Covid: Burnley man, 82, returns to lollipop job after surviving virus](https://www.bbc.co.uk/news/uk-england-lancashire-57430961) - A lollipop man of 22 years returns to work after he became seriously ill with Covid in December.
 16. [Prince Edward congratulates Harry and Meghan on new baby](https://www.bbc.co.uk/news/uk-57422627) - The Earl of Wessex spoke exclusively to the BBC on what would have been his father's 100th birthday.
