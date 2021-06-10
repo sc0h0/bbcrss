@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jun 2021 04:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jun 2021 05:19:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Wed, 09 Jun 2021 23:07:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Prince Edward congratulates Harry and Meghan on new baby]]></title>
+            <description><![CDATA[The Earl of Wessex spoke exclusively to the BBC on what would have been his father's 100th birthday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57422627</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57422627</guid>
+            <pubDate>Thu, 10 Jun 2021 05:09:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sexual harassment 'normalised' among children, warns Ofsted]]></title>
             <description><![CDATA[Children often don't see the point of reporting abuse and teachers underestimate the problem, says Ofsted.]]></description>
             <link>https://www.bbc.co.uk/news/education-57411363</link>
@@ -51,14 +58,7 @@
             <pubDate>Thu, 10 Jun 2021 00:15:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Everyone can see hospitalisations going up, says PM]]></title>
-            <description><![CDATA[Boris Johnson says vaccine protection is key to unlocking, as number in hospital with Covid hits 1,000.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57417802</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57417802</guid>
-            <pubDate>Wed, 09 Jun 2021 20:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[X-Press Pearl: The ''toxic ship' that caused an environmental disaster]]></title>
+            <title><![CDATA[X-Press Pearl: The 'toxic ship' that caused an environmental disaster]]></title>
             <description><![CDATA[The X-Press Pearl, off Sri Lanka, could be a threat to marine life and the fishing industry.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57395693</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57395693</guid>
@@ -104,7 +104,7 @@
             <description><![CDATA[The prospect that lockdown easing could be delayed and the latest on the Brexit row lead the front pages.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57422046</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57422046</guid>
-            <pubDate>Wed, 09 Jun 2021 22:46:46 GMT</pubDate>
+            <pubDate>Thu, 10 Jun 2021 04:42:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[G7: What it's all about in 60 seconds]]></title>

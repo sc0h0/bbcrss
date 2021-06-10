@@ -2,9 +2,9 @@
 2. [Alexei Navalny: Moscow court outlaws 'extremist' organisations](https://www.bbc.co.uk/news/world-europe-57422346) - A court classifies them as extremists, meaning activists risk jail if they continue their work.
 3. [Coronavirus: Industry dismisses US-UK moves to reopen travel](https://www.bbc.co.uk/news/business-57390246) - President Joe Biden and Prime Minister Boris Johnson agree to set up a taskforce to ease restrictions.
 4. ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219) - Infecting the mosquitoes with a different bug slams the breaks on dengue fever, trial finds.
-5. [Sexual harassment 'normalised' among children, warns Ofsted](https://www.bbc.co.uk/news/education-57411363) - Children often don't see the point of reporting abuse and teachers underestimate the problem, says Ofsted.
-6. [Covid: Everyone can see hospitalisations going up, says PM](https://www.bbc.co.uk/news/health-57417802) - Boris Johnson says vaccine protection is key to unlocking, as number in hospital with Covid hits 1,000.
-7. [X-Press Pearl: The ''toxic ship' that caused an environmental disaster](https://www.bbc.co.uk/news/world-asia-57395693) - The X-Press Pearl, off Sri Lanka, could be a threat to marine life and the fishing industry.
+5. [Prince Edward congratulates Harry and Meghan on new baby](https://www.bbc.co.uk/news/uk-57422627) - The Earl of Wessex spoke exclusively to the BBC on what would have been his father's 100th birthday.
+6. [Sexual harassment 'normalised' among children, warns Ofsted](https://www.bbc.co.uk/news/education-57411363) - Children often don't see the point of reporting abuse and teachers underestimate the problem, says Ofsted.
+7. [X-Press Pearl: The 'toxic ship' that caused an environmental disaster](https://www.bbc.co.uk/news/world-asia-57395693) - The X-Press Pearl, off Sri Lanka, could be a threat to marine life and the fishing industry.
 8. [Number of migrants at US border hits new record high](https://www.bbc.co.uk/news/world-us-canada-57422618) - US border agents encounter more than 180,000 immigrants, the largest monthly total since 2000.
 9. [Travellers at mercy of rogue testing firms, says Which?](https://www.bbc.co.uk/news/business-57415972) - Consumer group Which? says private testing firms are quoting misleading prices and lack regulatory oversight.
 10. [More swearing but parents want children protected](https://www.bbc.co.uk/news/education-57419263) - People are swearing more often, says film ratings body. But parents want to keep on-screen limits.
