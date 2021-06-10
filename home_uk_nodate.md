@@ -1,10 +1,10 @@
-1. [Covid: Matt Hancock defends timing of first lockdown](https://www.bbc.co.uk/news/uk-politics-57425830) - The health secretary says earlier restrictions would have gone against scientific advice at the time.
+1. [Covid: Matt Hancock defends timing of first lockdown](https://www.bbc.co.uk/news/uk-politics-57425830) - Ministers found it difficult to defy scientific advice as the pandemic began, says the health secretary.
 2. [Maya Forstater: Woman wins tribunal appeal over transgender tweets](https://www.bbc.co.uk/news/uk-57426579) - Maya Forstater lost her job at a think tank over tweets saying people cannot change their biological sex.
 3. [Girls asked for nudes by up to 11 boys a night, Ofsted finds](https://www.bbc.co.uk/news/education-57411363) - Sexual harassment is being "normalised" among school-age children, England's schools watchdog finds.
-4. [US overtakes UK as hardest hit by Covid deaths in G7](https://www.bbc.co.uk/news/business-57421886) - UK pandemic deaths are the second worst of the seven big Western economies, an analysis for the BBC says.
-5. [Ex-Brewdog staff allege culture of fear at brewer](https://www.bbc.co.uk/news/business-57428258) - Former employees allege "cult of personality" in firm and claim "toxic attitude" to junior staff.
-6. [Hospital waiting list tops 5m in England](https://www.bbc.co.uk/news/health-57419504) - But number of people waiting over a year drops for first time since pandemic began.
-7. [Crocodile attack: Twin Melissa Laurie is out of her coma](https://www.bbc.co.uk/news/newsbeat-57430431) - Melissa Laurie's twin says she is still in hospital after the attack in Mexico but is "much better".
+4. [Ex-Brewdog staff allege culture of fear at brewer](https://www.bbc.co.uk/news/business-57428258) - Former employees allege "cult of personality" in firm and claim "toxic attitude" to junior staff.
+5. [Hospital waiting list tops 5m in England](https://www.bbc.co.uk/news/health-57419504) - But number of people waiting over a year drops for first time since pandemic began.
+6. [Crocodile attack: Twin Melissa Laurie is out of her coma](https://www.bbc.co.uk/news/newsbeat-57430431) - Melissa Laurie's twin says she is still in hospital after the attack in Mexico but is "much better".
+7. [US overtakes UK as hardest hit by Covid deaths in G7](https://www.bbc.co.uk/news/business-57421886) - UK pandemic deaths are the second worst of the seven big Western economies, an analysis for the BBC says.
 8. ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219) - Infecting the mosquitoes with a different bug slams the brakes on dengue fever, trial finds.
 9. [BBC radio presenter Dom Busby dies after illness](https://www.bbc.co.uk/sport/57428376) - BBC radio presenter Dom Busby dies at the age of 53 after a short illness.
 10. [A40 crash: Family died when car swerved head-on into lorry](https://www.bbc.co.uk/news/uk-england-oxfordshire-57427577) - A coroner hears fatigue or distraction may have caused Zoe Powell to swerve the family's car.
@@ -34,19 +34,19 @@
 34. [France to struggle & Foden to shine? - BBC pundits make Euro 2020 predictions](https://www.bbc.co.uk/sport/football/57413544) - Who will win, and how will England, Scotland and Wales do? BBC pundits predict what will happen at Euro 2020
 35. [England v New Zealand: Dom Sibley, Zak Crawley & Joe Root lose wickets in quick succession](https://www.bbc.co.uk/sport/av/cricket/57427897) - Captain Joe Root is caught behind for four, following quickly after the wickets of Dom Sibley and Zak Crawley as England are reduced to 85-3 by New Zealand in the second Test at Edgbaston.
 36. [When could social distancing end?](https://www.bbc.co.uk/news/uk-51506729) - Will we still need to be socially distanced through the summer? A social distancing review is advising the government.
-37. [Covid: How should I protect myself from Covid now?](https://www.bbc.co.uk/news/health-57087517) - What are the actions we can take to reduce our risk of catching the virus?
-38. [Covax: How many Covid vaccines have the US and the other G7 countries pledged?](https://www.bbc.co.uk/news/world-55795297) - The US is set to confirm it will give 500m doses of the Pfizer vaccine to the international Covax scheme.
-39. [UK holidays: When and where can I go... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - Going abroad is not straightforward, so many people are opting to stay in the UK for their holidays.
-40. [Covid: What do we know about global youth unemployment?](https://www.bbc.co.uk/news/57406236) - Young people have suffered from the economic consequences of Covid.
-41. [Euro 2020 and Covid: How can I watch with my friends?](https://www.bbc.co.uk/news/uk-57386719) - Covid rules are making things a bit different for Euro 2020 spectators.
-42. [Covid: How is Europe lifting lockdown restrictions?](https://www.bbc.co.uk/news/explainers-53640249) - A third Covid wave hit much of Europe hard but now gradually lockdowns are being eased.
-43. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-44. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The vaccine rollout is now reaching younger adults. What do they need to know about getting jabbed?
-45. [Covid: Which areas are being surge tested for variants?](https://www.bbc.co.uk/news/explainers-54872039) - People who live, work or travel in various parts of the UK are being urged to get a Covid test.
-46. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - The government is yet to decide whether to lift the remaining restrictions on 21 June
-47. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are possible, but travellers must follow strict rules on their return.
-48. [Travel guide to Spain, Portugal, France and more holiday hotspots](https://www.bbc.co.uk/news/explainers-56997931) - What you need to know about travelling abroad to Portugal, Spain, Greece, France, Italy and Turkey.
-49. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - The vaccine is being offered to over-18s in Wales and Northern Ireland, over-25s in England and over-30s in Scotland.
+37. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - The vaccine is being offered to over-18s in Wales and Northern Ireland, over-25s in England and over-30s in Scotland.
+38. [Covid: How should I protect myself from Covid now?](https://www.bbc.co.uk/news/health-57087517) - What are the actions we can take to reduce our risk of catching the virus?
+39. [Covax: How many Covid vaccines have the US and the other G7 countries pledged?](https://www.bbc.co.uk/news/world-55795297) - The US is set to confirm it will give 500m doses of the Pfizer vaccine to the international Covax scheme.
+40. [UK holidays: When and where can I go... and who with?](https://www.bbc.co.uk/news/explainers-52646738) - Going abroad is not straightforward, so many people are opting to stay in the UK for their holidays.
+41. [Covid: What do we know about global youth unemployment?](https://www.bbc.co.uk/news/57406236) - Young people have suffered from the economic consequences of Covid.
+42. [Euro 2020 and Covid: How can I watch with my friends?](https://www.bbc.co.uk/news/uk-57386719) - Covid rules are making things a bit different for Euro 2020 spectators.
+43. [Covid: How is Europe lifting lockdown restrictions?](https://www.bbc.co.uk/news/explainers-53640249) - A third Covid wave hit much of Europe hard but now gradually lockdowns are being eased.
+44. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+45. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The vaccine rollout is now reaching younger adults. What do they need to know about getting jabbed?
+46. [Covid: Which areas are being surge tested for variants?](https://www.bbc.co.uk/news/explainers-54872039) - People who live, work or travel in various parts of the UK are being urged to get a Covid test.
+47. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - The government is yet to decide whether to lift the remaining restrictions on 21 June
+48. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - Foreign holidays are possible, but travellers must follow strict rules on their return.
+49. [Travel guide to Spain, Portugal, France and more holiday hotspots](https://www.bbc.co.uk/news/explainers-56997931) - What you need to know about travelling abroad to Portugal, Spain, Greece, France, Italy and Turkey.
 50. [Covid Indian variant: Where is it, how does it spread and is it more infectious?](https://www.bbc.co.uk/news/health-57157496) - The Indian variant is spreading in some parts of the country - how serious is it?
 51. [Covid-19: Could a third wave change 21 June plans in England?](https://www.bbc.co.uk/news/health-57328469) - Rising coronavirus cases have called the planned 21 June relaxing of rules in England into question.
 52. [Lockdown muscle loss: Five ways to get back in shape](https://www.bbc.co.uk/news/uk-56887390) - Lockdown inactivity may have left people with weaker muscles - there are simple solutions.
