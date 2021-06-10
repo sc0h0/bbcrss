@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jun 2021 05:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jun 2021 05:47:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,25 +23,18 @@
             <pubDate>Thu, 10 Jun 2021 04:13:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alexei Navalny: Moscow court outlaws 'extremist' organisations]]></title>
-            <description><![CDATA[A court classifies them as extremists, meaning activists risk jail if they continue their work.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57422346</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57422346</guid>
-            <pubDate>Wed, 09 Jun 2021 23:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Industry dismisses US-UK moves to reopen travel]]></title>
-            <description><![CDATA[President Joe Biden and Prime Minister Boris Johnson agree to set up a taskforce to ease restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57390246</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57390246</guid>
-            <pubDate>Wed, 09 Jun 2021 21:33:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Miraculous' mosquito hack cuts dengue by 77%]]></title>
             <description><![CDATA[Infecting the mosquitoes with a different bug slams the breaks on dengue fever, trial finds.]]></description>
             <link>https://www.bbc.co.uk/news/health-57417219</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57417219</guid>
             <pubDate>Wed, 09 Jun 2021 23:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Ring of fire' eclipse to sweep across Earth]]></title>
+            <description><![CDATA[A large swathe of the Northern Hemisphere is about to enjoy a so-called annular solar eclipse.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57420056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57420056</guid>
+            <pubDate>Thu, 10 Jun 2021 00:20:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Edward congratulates Harry and Meghan on new baby]]></title>
@@ -51,11 +44,25 @@
             <pubDate>Thu, 10 Jun 2021 05:09:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coronavirus: Industry dismisses US-UK moves to reopen travel]]></title>
+            <description><![CDATA[President Joe Biden and Prime Minister Boris Johnson agree to set up a taskforce to ease restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57390246</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57390246</guid>
+            <pubDate>Wed, 09 Jun 2021 21:33:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sexual harassment 'normalised' among children, warns Ofsted]]></title>
             <description><![CDATA[Children often don't see the point of reporting abuse and teachers underestimate the problem, says Ofsted.]]></description>
             <link>https://www.bbc.co.uk/news/education-57411363</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57411363</guid>
             <pubDate>Thu, 10 Jun 2021 00:15:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexei Navalny: Moscow court outlaws 'extremist' organisations]]></title>
+            <description><![CDATA[A court classifies them as extremists, meaning activists risk jail if they continue their work.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57422346</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57422346</guid>
+            <pubDate>Wed, 09 Jun 2021 23:10:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[X-Press Pearl: The 'toxic ship' that caused an environmental disaster]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/education-57419263</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57419263</guid>
             <pubDate>Wed, 09 Jun 2021 23:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Ring of fire' eclipse to sweep across Earth]]></title>
-            <description><![CDATA[A large swathe of the Northern Hemisphere is about to enjoy a so-called annular solar eclipse.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57420056</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57420056</guid>
-            <pubDate>Thu, 10 Jun 2021 00:20:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen marks what would have been Philip's 100th birthday with new rose]]></title>
@@ -240,11 +240,11 @@
             <pubDate>Wed, 09 Jun 2021 16:02:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watch: Parachute pitch invader halts Polish league match]]></title>
-            <description><![CDATA[Watch as an unexpected pitch invader on a parachute halts a Polish league match between Olimpia Elblag and PISA Primavera Barczewo.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57412486</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57412486</guid>
-            <pubDate>Wed, 09 Jun 2021 09:04:23 GMT</pubDate>
+            <title><![CDATA[Euros On This Day - 10 June: Zlatan Ibrahimovic stunner, perfect Dimitri Payet and vintage David Villa]]></title>
+            <description><![CDATA[BBC Sport rounds up the best archive action from 10 June in European Championship history.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/52973224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/52973224</guid>
+            <pubDate>Wed, 10 Jun 2020 07:05:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When could social distancing end?]]></title>
