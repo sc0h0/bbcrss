@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jun 2021 09:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jun 2021 09:36:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,25 @@
             <pubDate>Wed, 09 Jun 2021 23:07:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Girls asked for nudes by up to 11 boys a night, Ofsted finds]]></title>
+            <description><![CDATA[Sexual harassment has become "normalised" among school-age children, England's schools watchdog finds.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57411363</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57411363</guid>
+            <pubDate>Thu, 10 Jun 2021 09:19:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Solar eclipse 2021: ‘Ring of fire’ to sweep across the Earth]]></title>
             <description><![CDATA[A large swathe of the Northern Hemisphere is about to enjoy a so-called annular solar eclipse.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57420056</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57420056</guid>
             <pubDate>Thu, 10 Jun 2021 00:20:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hospital waiting list tops 5m in England]]></title>
+            <description><![CDATA[But number of people waiting over a year drops for first time since pandemic began.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57419504</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57419504</guid>
+            <pubDate>Thu, 10 Jun 2021 09:21:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Moves to reopen UK-US travel and Hancock to address MPs on pandemic handling]]></title>
@@ -58,20 +72,6 @@
             <pubDate>Thu, 10 Jun 2021 05:09:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sexual harassment normalised among children, warns Ofsted]]></title>
-            <description><![CDATA[Children often don't see the point of reporting abuse and teachers underestimate the problem, says Ofsted.]]></description>
-            <link>https://www.bbc.co.uk/news/education-57411363</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57411363</guid>
-            <pubDate>Thu, 10 Jun 2021 07:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Industry dismisses US-UK moves to reopen travel]]></title>
-            <description><![CDATA[President Joe Biden and Prime Minister Boris Johnson agree to set up a taskforce to ease restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57390246</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57390246</guid>
-            <pubDate>Wed, 09 Jun 2021 21:33:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[More swearing but parents want children protected]]></title>
             <description><![CDATA[People are swearing more often, says film ratings body. But parents want to keep on-screen limits.]]></description>
             <link>https://www.bbc.co.uk/news/education-57419263</link>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-57422065</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57422065</guid>
             <pubDate>Thu, 10 Jun 2021 01:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My beautician saved my life from deadly skin cancer]]></title>
+            <description><![CDATA[Seonag was unaware she had a "mark" on the back of her thigh when she went for a Mother's Day massage.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57402450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57402450</guid>
+            <pubDate>Thu, 10 Jun 2021 05:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: PM 'downbeat' about 21 June date, and Biden on NI]]></title>
@@ -212,18 +219,11 @@
             <pubDate>Thu, 10 Jun 2021 05:27:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: Does history tell us who will win?]]></title>
-            <description><![CDATA[BBC Sport looks at trends, statistics and patterns from tournaments past to select a potential winner of Euro 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/55497050</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55497050</guid>
-            <pubDate>Thu, 10 Jun 2021 05:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England have faced 'ugly truths' over offensive historical tweets - Root]]></title>
-            <description><![CDATA[Captain Joe Root says his side have faced up some "ugly truths" after a number of offensive historical tweets from England players were revealed.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57415232</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57415232</guid>
-            <pubDate>Wed, 09 Jun 2021 13:46:07 GMT</pubDate>
+            <title><![CDATA[James Anderson becomes most capped England Test cricketer]]></title>
+            <description><![CDATA[Fast bowler James Anderson becomes England's most capped Test player, surpassing Alastair Cook's record of 161.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57422286</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57422286</guid>
+            <pubDate>Thu, 10 Jun 2021 09:31:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: France to struggle & Phil Foden to star? - BBC Sport's pundits make Euros predictions]]></title>
