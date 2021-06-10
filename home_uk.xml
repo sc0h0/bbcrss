@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jun 2021 14:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jun 2021 15:25:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Fishmongers' Hall: Usman Khan was lawfully killed by police]]></title>
+            <description><![CDATA[Convicted terrorist Usman Khan was shot by police after he had fatally stabbed two people.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57424420</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57424420</guid>
+            <pubDate>Thu, 10 Jun 2021 15:24:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Matt Hancock defends timing of first lockdown]]></title>
             <description><![CDATA[Ministers found it difficult to defy scientific advice as the pandemic began, says the health secretary.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57425830</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57425830</guid>
-            <pubDate>Thu, 10 Jun 2021 14:45:12 GMT</pubDate>
+            <pubDate>Thu, 10 Jun 2021 15:12:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maya Forstater: Woman wins tribunal appeal over transgender tweets]]></title>
@@ -48,14 +55,7 @@
             <description><![CDATA[Melissa Laurie's twin says she is still in hospital after the attack in Mexico but is "much better".]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57430431</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57430431</guid>
-            <pubDate>Thu, 10 Jun 2021 12:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US overtakes UK as hardest hit by Covid deaths in G7]]></title>
-            <description><![CDATA[UK pandemic deaths are the second worst of the seven big Western economies, an analysis for the BBC says.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57421886</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57421886</guid>
-            <pubDate>Thu, 10 Jun 2021 11:04:37 GMT</pubDate>
+            <pubDate>Thu, 10 Jun 2021 15:01:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Miraculous' mosquito hack cuts dengue by 77%]]></title>
@@ -65,18 +65,11 @@
             <pubDate>Wed, 09 Jun 2021 23:07:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hospital waiting list tops 5m in England]]></title>
-            <description><![CDATA[But number of people waiting over a year drops for first time since pandemic began.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57419504</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57419504</guid>
-            <pubDate>Thu, 10 Jun 2021 09:21:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BBC radio presenter Dom Busby dies after illness]]></title>
             <description><![CDATA[BBC radio presenter Dom Busby dies at the age of 53 after a short illness.]]></description>
             <link>https://www.bbc.co.uk/sport/57428376</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/57428376</guid>
-            <pubDate>Thu, 10 Jun 2021 11:40:17 GMT</pubDate>
+            <pubDate>Thu, 10 Jun 2021 15:19:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A40 crash: Family died when car swerved head-on into lorry]]></title>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-57425960</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57425960</guid>
             <pubDate>Thu, 10 Jun 2021 11:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oatly sues UK oat milk maker over trademark]]></title>
+            <description><![CDATA[Oatly takes Cambridgeshire's Glebe Family Farm to court in a bid to stop it selling the PureOaty drink.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57425162</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57425162</guid>
+            <pubDate>Thu, 10 Jun 2021 14:56:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In pictures: Solar eclipse as seen from the UK]]></title>
@@ -149,7 +149,7 @@
             <pubDate>Wed, 09 Jun 2021 23:29:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why classical musicians are performing among tombstones]]></title>
+            <title><![CDATA['We play for the living and the dead']]></title>
             <description><![CDATA[The New York Philharmonic is back, playing to a live - and not-so-live - audience.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57422026</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57422026</guid>
@@ -170,7 +170,7 @@
             <pubDate>Thu, 10 Jun 2021 05:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Things are looking up for Bolton, eye of the variant storm]]></title>
+            <title><![CDATA[Covid: Things are looking up in Bolton, eye of the variant storm]]></title>
             <description><![CDATA[Bolton had been "ground zero" for the new variant, but now cases have started to fall.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-57425730</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57425730</guid>
@@ -240,6 +240,13 @@
             <pubDate>Thu, 10 Jun 2021 07:58:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pavlyuchenkova makes first Grand Slam final]]></title>
+            <description><![CDATA[Russian 31st seed Anastasia Pavlyuchenkova reaches a first Grand Slam final, beating Slovenia's Tamara Zidansek in the French Open last four.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57430542</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57430542</guid>
+            <pubDate>Thu, 10 Jun 2021 15:04:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Groves quits Australian Olympic trials, citing 'misogynistic perverts' in sport]]></title>
             <description><![CDATA[Australian swimmer Madeline Groves withdraws from Olympic trials, citing "misogynistic perverts" in the sport.]]></description>
             <link>https://www.bbc.co.uk/sport/swimming/57424208</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/football/57413544</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57413544</guid>
             <pubDate>Thu, 10 Jun 2021 05:27:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v New Zealand: Dom Sibley, Zak Crawley & Joe Root lose wickets in quick succession]]></title>
-            <description><![CDATA[Captain Joe Root is caught behind for four, following quickly after the wickets of Dom Sibley and Zak Crawley as England are reduced to 85-3 by New Zealand in the second Test at Edgbaston.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57427897</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57427897</guid>
-            <pubDate>Thu, 10 Jun 2021 13:45:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When could social distancing end?]]></title>
