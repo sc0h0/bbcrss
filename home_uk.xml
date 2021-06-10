@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jun 2021 06:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jun 2021 06:57:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,7 +24,7 @@
         </item>
         <item>
             <title><![CDATA['Miraculous' mosquito hack cuts dengue by 77%]]></title>
-            <description><![CDATA[Infecting the mosquitoes with a different bug slams the breaks on dengue fever, trial finds.]]></description>
+            <description><![CDATA[Infecting the mosquitoes with a different bug slams the brakes on dengue fever, trial finds.]]></description>
             <link>https://www.bbc.co.uk/news/health-57417219</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57417219</guid>
             <pubDate>Wed, 09 Jun 2021 23:07:32 GMT</pubDate>
@@ -37,6 +37,13 @@
             <pubDate>Thu, 10 Jun 2021 00:20:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Moves to reopen UK-US travel and Hancock to address MPs on pandemic handling]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57421176</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57421176</guid>
+            <pubDate>Thu, 10 Jun 2021 06:51:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Prince Edward congratulates Harry and Meghan on new baby]]></title>
             <description><![CDATA[The Earl of Wessex spoke exclusively to the BBC on what would have been his father's 100th birthday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57422627</link>
@@ -44,7 +51,7 @@
             <pubDate>Thu, 10 Jun 2021 05:09:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sexual harassment 'normalised' among children, warns Ofsted]]></title>
+            <title><![CDATA[Sexual harassment normalised among children, warns Ofsted]]></title>
             <description><![CDATA[Children often don't see the point of reporting abuse and teachers underestimate the problem, says Ofsted.]]></description>
             <link>https://www.bbc.co.uk/news/education-57411363</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57411363</guid>
@@ -72,25 +79,18 @@
             <pubDate>Thu, 10 Jun 2021 03:23:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Number of migrants at US border hits new record high]]></title>
-            <description><![CDATA[US border agents encounter more than 180,000 immigrants, the largest monthly total since 2000.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57422618</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57422618</guid>
-            <pubDate>Thu, 10 Jun 2021 01:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Travellers at mercy of rogue testing firms, says Which?]]></title>
-            <description><![CDATA[Consumer group Which? says private testing firms are quoting misleading prices and lack regulatory oversight.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57415972</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57415972</guid>
-            <pubDate>Wed, 09 Jun 2021 23:05:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[More swearing but parents want children protected]]></title>
             <description><![CDATA[People are swearing more often, says film ratings body. But parents want to keep on-screen limits.]]></description>
             <link>https://www.bbc.co.uk/news/education-57419263</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57419263</guid>
             <pubDate>Wed, 09 Jun 2021 23:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hospitality workers priced out of UK tourism hotspots]]></title>
+            <description><![CDATA[Workers are finding accommodation scarce as landlords cash in on the UK holiday boom.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57403083</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57403083</guid>
+            <pubDate>Wed, 09 Jun 2021 23:04:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen marks what would have been Philip's 100th birthday with new rose]]></title>
