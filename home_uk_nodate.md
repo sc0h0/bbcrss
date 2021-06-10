@@ -3,8 +3,8 @@
 3. [Ethiopia's Tigray crisis: UN aid chief says there is famine](https://www.bbc.co.uk/news/world-africa-57432280) - More than 350,000 people are living in "severe crisis" after months of conflict in the Tigray region.
 4. [Covid: Matt Hancock defends timing of first lockdown](https://www.bbc.co.uk/news/uk-politics-57425830) - The health secretary hits back at Dominic Cummings's attacks on his handling of the pandemic.
 5. [Deepcut: Fifth Army recruit died at barracks](https://www.bbc.co.uk/news/uk-57428716) - Private Anthony Bartlett was found dead after a suspected overdose in July 2001, it has emerged.
-6. [Fishmongers' Hall: Usman Khan was lawfully killed by police](https://www.bbc.co.uk/news/uk-england-london-57424420) - Convicted terrorist Usman Khan was shot by police after he had fatally stabbed two people.
-7. [Ex-Brewdog staff allege culture of fear at brewer](https://www.bbc.co.uk/news/business-57428258) - Former employees allege "cult of personality" in firm and claim "toxic attitude" to junior staff.
+6. [Brewdog boss vows to learn after 'toxic culture' criticism](https://www.bbc.co.uk/news/business-57434978) - James Watt tells the BBC he will use "culture of fear" criticism to become a better boss of the beer company.
+7. [Fishmongers' Hall: Usman Khan was lawfully killed by police](https://www.bbc.co.uk/news/uk-england-london-57424420) - Convicted terrorist Usman Khan was shot by police after he had fatally stabbed two people.
 8. [Maya Forstater: Woman wins tribunal appeal over transgender tweets](https://www.bbc.co.uk/news/uk-57426579) - Maya Forstater lost her job at a think tank over tweets saying people cannot change their biological sex.
 9. [A40 crash: Family died when car swerved head-on into lorry](https://www.bbc.co.uk/news/uk-england-oxfordshire-57427577) - A coroner hears fatigue or distraction may have caused Zoe Powell to swerve the family's car.
 10. [Napier Barracks: Opposition MPs call for Priti Patel to resign](https://www.bbc.co.uk/news/uk-england-kent-57432760) - A memo casts doubt over the home secretary's claim that asylum housing was based on health advice.
