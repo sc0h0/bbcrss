@@ -4,7 +4,7 @@
 4. ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219) - Infecting the mosquitoes with a different bug slams the breaks on dengue fever, trial finds.
 5. [Sexual harassment 'normalised' among children, warns Ofsted](https://www.bbc.co.uk/news/education-57411363) - Children often don't see the point of reporting abuse and teachers underestimate the problem, says Ofsted.
 6. [Covid: Everyone can see hospitalisations going up, says PM](https://www.bbc.co.uk/news/health-57417802) - Boris Johnson says vaccine protection is key to unlocking, as number in hospital with Covid hits 1,000.
-7. [Brexit: EU says patience wearing thin with UK in talks to avoid trade war](https://www.bbc.co.uk/news/uk-politics-57403258) - Boris Johnson says a solution to the dispute over Northern Ireland border checks is "easily doable".
+7. [X-Press Pearl: The ''toxic ship' that caused an environmental disaster](https://www.bbc.co.uk/news/world-asia-57395693) - The X-Press Pearl, off Sri Lanka, could be a threat to marine life and the fishing industry.
 8. [Number of migrants at US border hits new record high](https://www.bbc.co.uk/news/world-us-canada-57422618) - US border agents encounter more than 180,000 immigrants, the largest monthly total since 2000.
 9. [Travellers at mercy of rogue testing firms, says Which?](https://www.bbc.co.uk/news/business-57415972) - Consumer group Which? says private testing firms are quoting misleading prices and lack regulatory oversight.
 10. [More swearing but parents want children protected](https://www.bbc.co.uk/news/education-57419263) - People are swearing more often, says film ratings body. But parents want to keep on-screen limits.
