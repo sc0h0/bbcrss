@@ -7,7 +7,7 @@
 7. ['Miraculous' mosquito hack cuts dengue by 77%](https://www.bbc.co.uk/news/health-57417219) - Infecting the mosquitoes with a different bug slams the brakes on dengue fever, trial finds.
 8. [BBC radio presenter Dom Busby dies after illness](https://www.bbc.co.uk/sport/57428376) - BBC radio presenter Dom Busby dies at the age of 53 after a short illness.
 9. [A40 crash: Family died when car swerved head-on into lorry](https://www.bbc.co.uk/news/uk-england-oxfordshire-57427577) - A coroner hears fatigue or distraction may have caused Zoe Powell to swerve the family's car.
-10. [Italian woman wakes up after 10 months in coma](https://www.bbc.co.uk/news/world-europe-57425960) - Cristina Rosi, 37, was seven months pregnant when she suffered a heart attack in July last year.
+10. [Prince Philip funeral: Woman fined for topless protest](https://www.bbc.co.uk/news/uk-england-berkshire-57431122) - Marissa Scott is fined for exposing herself during Prince Philip's funeral in Windsor in April.
 11. [Oatly sues UK oat milk maker over trademark](https://www.bbc.co.uk/news/business-57425162) - Oatly takes Cambridgeshire's Glebe Family Farm to court in a bid to stop it selling the PureOaty drink.
 12. [In pictures: Solar eclipse as seen from the UK](https://www.bbc.co.uk/news/uk-scotland-57426005) - Some parts of the world have seen the annular eclipse, but from the UK there has been a partial solar eclipse.
 13. [The Beast: How Biden's getting around on his first overseas trip](https://www.bbc.co.uk/news/world-us-canada-57424507) - Planes, helicopters and armoured cars - how President Biden will travel on his first official trip.
