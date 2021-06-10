@@ -1,5 +1,5 @@
 1. [G7: UK and US in complete harmony over Northern Ireland - Boris Johnson](https://www.bbc.co.uk/news/uk-politics-57433296) - Boris Johnson meets US President Joe Biden ahead of the G7 summit in Cornwall.
-2. [Coronavirus vaccines: Will half a billion jabs for poorer countries make a difference?](https://www.bbc.co.uk/news/57427877) - The US is to give away 500 million Covid vaccines - but how much will it help other countries?
+2. [UK to donate more than 100m surplus vaccine doses, says PM](https://www.bbc.co.uk/news/uk-57436535) - Boris Johnson says the donations to countries in need will begin within weeks.
 3. [Covid: Matt Hancock defends timing of first lockdown](https://www.bbc.co.uk/news/uk-politics-57425830) - The health secretary hits back at Dominic Cummings's attacks on his handling of the pandemic.
 4. [Fishmongers' Hall: Usman Khan was lawfully killed by police](https://www.bbc.co.uk/news/uk-england-london-57424420) - Convicted terrorist Usman Khan was shot by police after he had fatally stabbed two people.
 5. [Ethiopia's Tigray crisis: UN aid chief says there is famine](https://www.bbc.co.uk/news/world-africa-57432280) - More than 350,000 people are living in "severe crisis" after months of conflict in the Tigray region.
@@ -37,7 +37,7 @@
 37. [Krejcikova reaches French Open final with dramatic win](https://www.bbc.co.uk/sport/tennis/57430542) - Czech Barbora Krejcikova shows incredible sprit to beat Maria Sakkari in a classic French Open semi-final and reach her first Grand Slam final.
 38. [Asher-Smith powers to 200m victory in Diamond League](https://www.bbc.co.uk/sport/athletics/57435447) - Dina Asher-Smith wins the 200m in a season's-best time of 22.06 seconds at the Diamond League meeting in Florence.
 39. [Man Utd have £67m Sancho bid rejected by Dortmund](https://www.bbc.co.uk/sport/football/57433323) - Manchester United have a £67m bid for England winger Jadon Sancho turned down by Borussia Dortmund.
-40. [Weir penalty sees Scotland beat Northern Ireland](https://www.bbc.co.uk/sport/football/57386316) - Caroline Weir scores the only goal of the game as Scotland beat Northern Ireland 1-0 in a keenly contested friendly at Seaview.
+40. [Weir penalty sees Scotland beat Northern Ireland - report & highlights](https://www.bbc.co.uk/sport/football/57386316) - Caroline Weir scores the only goal of the game as Scotland beat Northern Ireland 1-0 in a keenly contested friendly at Seaview.
 41. [Groves quits Australian Olympic trials, citing 'misogynistic perverts' in sport](https://www.bbc.co.uk/sport/swimming/57424208) - Australian swimmer Madeline Groves withdraws from Olympic trials, citing "misogynistic perverts" in the sport.
 42. [France to struggle & Foden to shine? - BBC pundits make Euro 2020 predictions](https://www.bbc.co.uk/sport/football/57413544) - Who will win, and how will England, Scotland and Wales do? BBC pundits predict what will happen at Euro 2020
 43. [When could social distancing end?](https://www.bbc.co.uk/news/uk-51506729) - Will we still need to be socially distanced through the summer? A social distancing review is advising the government.
