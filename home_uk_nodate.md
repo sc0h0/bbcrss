@@ -2,10 +2,10 @@
 2. [Harry Dunn death: Biden sympathetic over case, says PM](https://www.bbc.co.uk/news/uk-57435843) - Mr Dunn's mother says she "couldn't be more grateful" the PM raised the case with Joe Biden.
 3. [Assisted dying campaigner dies ](https://www.bbc.co.uk/news/uk-england-shropshire-57441095) - Noel Conway's wife says her husband had a "painless and dignified death" at home.
 4. [Motor neurone disease: Intense exercise increases risk, say scientists](https://www.bbc.co.uk/news/health-57431412) - Regular and strenuous exercise can increase the risk of MND in people who are vulnerable, scientists say.
-5. [UK to donate more than 100m surplus vaccine doses, says PM](https://www.bbc.co.uk/news/uk-57436535) - Boris Johnson says the donations to countries in need will begin within weeks.
-6. [UK economy grows in April as shops reopen](https://www.bbc.co.uk/news/business-57438437) - GDP rose 2.3% in April as coronavirus restrictions eased.
+5. [UK economy grows in April as shops reopen](https://www.bbc.co.uk/news/business-57438437) - GDP rose 2.3% in April as shoppers headed to the High Street and hospitality venues.
+6. [Euro 2020: Johnson must back Rashford taking the knee - Gordon Brown](https://www.bbc.co.uk/news/uk-politics-57439088) - Ex-PM tells BBC the England team are "bringing together the whole country", despite recent booing.
 7. [OnlyFans must do more to protect children, watchdog says](https://www.bbc.co.uk/news/uk-57429900) - England's children's commissioner writes to the firm to express her "shock" after a BBC investigation.
-8. [Euro 2020: Johnson must back Rashford taking the knee - Gordon Brown](https://www.bbc.co.uk/news/uk-politics-57439088) - Ex-PM tells BBC the England team are "bringing together the whole country", despite recent booing.
+8. [Jail for rapist who faked his death at 'Mortuary Beach'](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57430215) - Kim Avis tried to evade justice by fleeing Scotland then faking his death at one of California's most dangerous beaches.
 9. [Crocodile attack twin: 'You have to fight for the people you love'](https://www.bbc.co.uk/news/newsbeat-57437135) - Georgia Laurie tells us about saving her twin, Melissa, from the attack in a lagoon in Mexico.
 10. [In Pictures: G7 leaders attend a summit in Cornwall](https://www.bbc.co.uk/news/uk-57438878) - World leaders are arriving in Cornwall for three days of talks and the occasional trip to the beach.
 11. [The Papers: Johnson and Biden's 'love-in' and PM mulls 21 June delay](https://www.bbc.co.uk/news/blogs-the-papers-57436753) - Johnson and Biden's first meeting and a possible delay to ending England lockdown are in the papers.
