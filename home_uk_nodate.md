@@ -6,13 +6,13 @@
 6. [China has created a dystopian hellscape in Xinjiang, Amnesty report says](https://www.bbc.co.uk/news/world-asia-china-57386625) - In a new report, Amnesty International says China is committing crimes against humanity in Xinjiang.
 7. [Backlash against 'frightening' tests on whales](https://www.bbc.co.uk/news/science-environment-57432290) - An international group of scientists has called on Norway to halt plans for acoustic experiments on minke whales.
 8. [Fashion labels falling short on use of recycled materials - report](https://www.bbc.co.uk/news/business-57433221) - Boohoo, Missguided and Asos named in critical report on the use of polyester, acrylic, nylon in clothing.
-9. ['You have to fight for the people you love'](https://www.bbc.co.uk/news/newsbeat-57437135) - A woman who fought off a crocodile attacking her twin sister tells the BBC about their ordeal.
+9. [Crocodile attack twin describes rescue attempt](https://www.bbc.co.uk/news/newsbeat-57437135) - A woman who fought off a crocodile attacking her twin sister tells the BBC about their ordeal.
 10. [OnlyFans: ‘More needs to be done’ to protect children](https://www.bbc.co.uk/news/uk-57429900) - The Children's Commissioner for England says she is "shocked" by the findings of a BBC investigation.
 11. [Deepcut: Fifth Army recruit died at barracks](https://www.bbc.co.uk/news/uk-57428716) - Private Anthony Bartlett was found dead after a suspected overdose in July 2001, it has emerged.
 12. [A40 crash: Family died when car swerved head-on into lorry](https://www.bbc.co.uk/news/uk-england-oxfordshire-57427577) - A coroner hears fatigue or distraction may have caused Zoe Powell to swerve the family's car.
 13. [The Papers: Johnson and Biden's 'love-in' and PM mulls 21 June delay](https://www.bbc.co.uk/news/blogs-the-papers-57436753) - Johnson and Biden's first meeting and a possible delay to ending England lockdown are in the papers.
 14. [The mystery of the UK's missing workers](https://www.bbc.co.uk/news/business-57400560) - Why are many firms reporting staff shortages when so many people are still unemployed?
-15. [LGBTQ: The podcast telling Singapore's hidden gay stories](https://www.bbc.co.uk/news/world-asia-57424596) - The SG Boys is one of the first LGBTQ podcasts in Singapore - where gay sex is still illegal.
+15. [LGBTQ: The podcast telling Singapore's hidden gay stories](https://www.bbc.co.uk/news/world-asia-57424596) - The SG Boys is the first LGBTQ podcast in Singapore - a country where gay sex is still illegal.
 16. [What is Trooping the Colour?](https://www.bbc.co.uk/news/uk-57433611) - Garrison Sergeant Major Andrew Stokes, who is overseeing the delivery of the parade, explains how it works.
 17. [Quiz of the week: What's royal baby Lilibet's effect on succession?](https://www.bbc.co.uk/news/world-57421255) - How closely have you been paying attention to what's been going on during the past seven days?
 18. [Taller or shorter with Peter Crouch](https://www.bbc.co.uk/news/newsbeat-57431175) - Peter Crouch joins Newsbeat presenter Ben Mundy for a game of Taller or shorter.
