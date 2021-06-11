@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Jun 2021 09:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jun 2021 10:14:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Boris Johnson tells the BBC he has coined a new term for the so-called special relationship.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57436035</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57436035</guid>
-            <pubDate>Fri, 11 Jun 2021 06:13:47 GMT</pubDate>
+            <pubDate>Fri, 11 Jun 2021 10:00:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harry Dunn death: Biden sympathetic over case, says PM]]></title>
@@ -34,7 +34,14 @@
             <description><![CDATA[Noel Conway's wife says her husband had a "painless and dignified death" at home.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-57441095</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-57441095</guid>
-            <pubDate>Fri, 11 Jun 2021 09:40:46 GMT</pubDate>
+            <pubDate>Fri, 11 Jun 2021 10:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delay 21 June lockdown lifting, urge local health leaders]]></title>
+            <description><![CDATA[The government is warned that unlocking in England on 21 June risks the country "going backwards".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57438745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57438745</guid>
+            <pubDate>Fri, 11 Jun 2021 09:46:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Motor neurone disease: Intense exercise increases risk, say scientists]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57430215</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57430215</guid>
             <pubDate>Fri, 11 Jun 2021 09:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crocodile attack twin: 'You have to fight for the people you love']]></title>
-            <description><![CDATA[Georgia Laurie tells us about saving her twin, Melissa, from the attack in a lagoon in Mexico.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57437135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57437135</guid>
-            <pubDate>Fri, 11 Jun 2021 01:29:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Pictures: G7 leaders attend a summit in Cornwall]]></title>
@@ -129,7 +129,7 @@
         </item>
         <item>
             <title><![CDATA[Peter Crouch plays Euros quiz Taller or shorter]]></title>
-            <description><![CDATA[Peter Crouch joins Newsbeat presenter Ben Mundy for a game of Taller or shorter.]]></description>
+            <description><![CDATA[The 6ft7in former pro joins Newsbeat presenter Ben Mundy for a must-see Euros game.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57431175</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57431175</guid>
             <pubDate>Fri, 11 Jun 2021 00:33:56 GMT</pubDate>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/uk-57386719</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57386719</guid>
             <pubDate>Wed, 09 Jun 2021 06:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crocodile attack twin: 'You have to fight for the people you love']]></title>
+            <description><![CDATA[Georgia Laurie tells us about saving her twin, Melissa, from the attack in a lagoon in Mexico.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57437135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57437135</guid>
+            <pubDate>Fri, 11 Jun 2021 01:29:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fact-checking Matt Hancock's Covid claims]]></title>
@@ -212,13 +219,6 @@
             <pubDate>Thu, 10 Jun 2021 18:23:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quiz: How well do you know the Euros? Take our bumper quiz]]></title>
-            <description><![CDATA[Ten rounds, 125 possible answers - take on our quiz and test your Euros knowledge.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57188304</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57188304</guid>
-            <pubDate>Fri, 11 Jun 2021 05:17:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Claressa Shields: Double Olympic boxing champion wins on MMA debut]]></title>
             <description><![CDATA[Two-time Olympic boxing champion Claressa Shields wins on her professional mixed martial arts debut.]]></description>
             <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57438148</link>
@@ -226,11 +226,11 @@
             <pubDate>Fri, 11 Jun 2021 06:44:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo 2020: Team GB will not set medal targets for delayed summer Olympics]]></title>
-            <description><![CDATA[Team GB will not be set medal targets for the Tokyo Olympics, says the British Olympic Association.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57438149</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57438149</guid>
-            <pubDate>Fri, 11 Jun 2021 07:37:37 GMT</pubDate>
+            <title><![CDATA[Quiz: How well do you know the Euros? Take our bumper quiz]]></title>
+            <description><![CDATA[Ten rounds, 125 possible answers - take on our quiz and test your Euros knowledge.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57188304</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57188304</guid>
+            <pubDate>Fri, 11 Jun 2021 05:17:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euros On This Day - 11 June: Gareth Bale stars for Wales, Thierry Henry's pace & Euro icons go head-to-head]]></title>
