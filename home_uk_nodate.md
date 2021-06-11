@@ -4,8 +4,8 @@
 4. [Covid-19: UK's vaccine pledge and volunteers join booster jab trial](https://www.bbc.co.uk/news/uk-57421263) - Five things you need to know about the coronavirus pandemic this Friday morning.
 5. [Motor neurone disease: Intense exercise increases risk, say scientists](https://www.bbc.co.uk/news/health-57431412) - Regular and strenuous exercise can increase the risk of MND in people who are vulnerable, scientists say.
 6. [UK economy grows in April as shops reopen](https://www.bbc.co.uk/news/business-57438437) - GDP rose 2.3% in April as coronavirus restrictions eased.
-7. [OnlyFans must do more to protect children, watchdog says](https://www.bbc.co.uk/news/uk-57429900) - The children's commissioner for England says she is "shocked" by the findings of a BBC investigation.
-8. [China has created a dystopian hellscape in Xinjiang, Amnesty report says](https://www.bbc.co.uk/news/world-asia-china-57386625) - In a new report, Amnesty International says China is committing crimes against humanity in Xinjiang.
+7. [OnlyFans must do more to protect children, watchdog says](https://www.bbc.co.uk/news/uk-57429900) - England's children's commissioner writes to the firm to express her "shock" after a BBC investigation.
+8. [Euro 2020: Johnson must back Rashford taking the knee - Gordon Brown](https://www.bbc.co.uk/news/uk-politics-57439088) - Ex-PM tells BBC the England team are "bringing together the whole country", despite recent booing.
 9. [Crocodile attack twin: 'You have to fight for the people you love'](https://www.bbc.co.uk/news/newsbeat-57437135) - Georgia Laurie tells us about saving her twin, Melissa, from the attack in a lagoon in Mexico.
 10. [In Pictures: G7 leaders attend a summit in Cornwall](https://www.bbc.co.uk/news/uk-57438878) - World leaders are arriving in Cornwall for three days of talks and the occasional trip to the beach.
 11. [The Papers: Johnson and Biden's 'love-in' and PM mulls 21 June delay](https://www.bbc.co.uk/news/blogs-the-papers-57436753) - Johnson and Biden's first meeting and a possible delay to ending England lockdown are in the papers.
