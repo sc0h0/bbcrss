@@ -1,11 +1,11 @@
 1. [G7: Boris Johnson kicks off summit with plea to tackle inequality](https://www.bbc.co.uk/news/uk-politics-57445184) - The UK's PM urges leaders to "build back better" after Covid, as the Queen joins them for a dinner.
-2. [Duchess of Cambridge: I can't wait to meet Lilibet Diana](https://www.bbc.co.uk/news/uk-57445083) - The Duchess of Cambridge says she wishes Prince Harry and Meghan's new daughter "all the very best".
-3. [Covid-19: Calls to delay lockdown lifting, and Delta variant more spreadable](https://www.bbc.co.uk/news/uk-57445645) - Five things you need to know about the coronavirus pandemic this Friday evening.
-4. [Sony Music writes off artists' decades-old debts](https://www.bbc.co.uk/news/entertainment-arts-57445303) - Thousands of artists will finally be able to start earning money from their music.
-5. [Stop toxic Muslim characters says Riz Ahmed](https://www.bbc.co.uk/news/entertainment-arts-57438750) - The Oscar-nominated British actor launches a fund to try to provide better portrayals on screen.
-6. [Delay 21 June lockdown lifting, urge health leaders](https://www.bbc.co.uk/news/uk-57438745) - The government is warned that unlocking in England on 21 June risks the country "going backwards".
-7. [Kent to turn away lone child migrants from Monday due to "extreme pressure"](https://www.bbc.co.uk/news/uk-england-kent-57440907) - Kent County Council has reached "the limit of safe capacity" 10 months after taking similar action.
-8. [Covid: Unvaccinated most at risk from Delta variant](https://www.bbc.co.uk/news/health-57441677) - There have been nearly 30,000 new cases of the variant in the UK in the past week.
+2. [The Queen: ‘Are you supposed to be looking as if you’re enjoying yourself?’](https://www.bbc.co.uk/news/uk-57447066) - The Queen isn't afraid to lighten the mood at the G7 'family photo'
+3. [Duchess of Cambridge: I can't wait to meet Lilibet Diana](https://www.bbc.co.uk/news/uk-57445083) - The Duchess of Cambridge says she wishes Prince Harry and Meghan's new daughter "all the very best".
+4. [Covid-19: Calls to delay lockdown lifting, and Delta variant more spreadable](https://www.bbc.co.uk/news/uk-57445645) - Five things you need to know about the coronavirus pandemic this Friday evening.
+5. [Sony Music writes off artists' decades-old debts](https://www.bbc.co.uk/news/entertainment-arts-57445303) - Thousands of artists will finally be able to start earning money from their music.
+6. [Stop toxic Muslim characters says Riz Ahmed](https://www.bbc.co.uk/news/entertainment-arts-57438750) - The Oscar-nominated British actor launches a fund to try to provide better portrayals on screen.
+7. [Delay 21 June lockdown lifting, urge health leaders](https://www.bbc.co.uk/news/uk-57438745) - The government is warned that unlocking in England on 21 June risks the country "going backwards".
+8. [Kent to turn away lone child migrants from Monday due to "extreme pressure"](https://www.bbc.co.uk/news/uk-england-kent-57440907) - Kent County Council has reached "the limit of safe capacity" 10 months after taking similar action.
 9. [G7 summit: Officer staying on ferry tests positive for Covid](https://www.bbc.co.uk/news/uk-england-cornwall-57445893) - Twelve police officers are self isolating after one provided a positive lateral flow test.
 10. [Kim Kardashian reveals second law exam fail in TV show finale](https://www.bbc.co.uk/news/uk-57439616) - The reality TV star was seen getting her result in the last episode of her family's reality TV show.
 11. [Shaun Keaveny to leave BBC 6 Music after 14 years](https://www.bbc.co.uk/news/entertainment-arts-57447434) - The DJ thanks fans for their support as he announces "it's time for a change".
