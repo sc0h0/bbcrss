@@ -2,8 +2,8 @@
 2. [Delay 21 June lockdown lifting, urge local health leaders](https://www.bbc.co.uk/news/uk-57438745) - The government is warned that unlocking in England on 21 June risks the country "going backwards".
 3. [Assisted dying campaigner dies ](https://www.bbc.co.uk/news/uk-england-shropshire-57441095) - Noel Conway's wife says her husband had a "painless and dignified death" at home.
 4. [Harry Dunn death: Biden sympathetic over case, says PM](https://www.bbc.co.uk/news/uk-57435843) - Mr Dunn's mother says she "couldn't be more grateful" the PM raised the case with Joe Biden.
-5. [Motor neurone disease: Intense exercise increases risk, say scientists](https://www.bbc.co.uk/news/health-57431412) - Regular and strenuous exercise can increase the risk of MND in people who are vulnerable, scientists say.
-6. [UK economy grows in April as shops reopen](https://www.bbc.co.uk/news/business-57438437) - GDP rose 2.3% in April as shoppers headed to the High Street and hospitality venues.
+5. [Covid: Unvaccinated most at risk from Delta variant](https://www.bbc.co.uk/news/health-57441677) - There have been nearly 30,000 new cases of the variant in the UK in the past week.
+6. [Motor neurone disease: Intense exercise increases risk, say scientists](https://www.bbc.co.uk/news/health-57431412) - Regular and strenuous exercise can increase the risk of MND in people who are vulnerable, scientists say.
 7. [Euro 2020: Johnson must back Rashford taking the knee - Gordon Brown](https://www.bbc.co.uk/news/uk-politics-57439088) - Ex-PM tells BBC the England team are "bringing together the whole country", despite recent booing.
 8. [OnlyFans must do more to protect children, watchdog says](https://www.bbc.co.uk/news/uk-57429900) - England's children's commissioner writes to the firm to express her "shock" after a BBC investigation.
 9. [Jail for rapist who faked his death at 'Mortuary Beach'](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57430215) - Kim Avis tried to evade justice by fleeing Scotland then faking his death at one of California's most dangerous beaches.
@@ -32,9 +32,9 @@
 32. [Euros On This Day - 11 June: Gareth Bale stars for Wales, Thierry Henry's pace & Euro icons go head-to-head](https://www.bbc.co.uk/sport/av/football/53000364) - BBC Sport rounds up the best archive action from 11 June in European Championship history.
 33. [Euro 2020: Why England, Wales & Scotland fans should be excited](https://www.bbc.co.uk/sport/av/football/57436183) - BBC Sport's Gary Lineker, Rio Ferdinand, Ashley Williams and Micah Richards assess the chances of England, Scotland and Wales ahead of Euro 2020.
 34. [G7 summit: What is it and why is it in Cornwall?](https://www.bbc.co.uk/news/world-49434667) - World leaders will descend on the Cornish coast for face-to-face meetings on Friday 11 June.
-35. [G7 summit: A cycling tour of Cornwall's G7 village](https://www.bbc.co.uk/news/uk-57433610) - Reporter Nomia Iqbal explores the Cornish village that's hosting the G7 summit.
-36. [G7 tax deal: What is it and are Amazon and Facebook included?](https://www.bbc.co.uk/news/business-57384352) - A deal has been agreed by the world's richest nations to tax global companies more.
-37. [G7: Carrie Johnson prepares to entertain spouses in Cornwall](https://www.bbc.co.uk/news/uk-politics-57384801) - Boris and Carrie Johnson make their debut as a married couple at the G7 summit in Cornwall.
+35. [G7: Carrie Johnson prepares to entertain spouses in Cornwall](https://www.bbc.co.uk/news/uk-politics-57384801) - Boris and Carrie Johnson make their debut as a married couple at the G7 summit in Cornwall.
+36. [G7 summit: A cycling tour of Cornwall's G7 village](https://www.bbc.co.uk/news/uk-57433610) - Reporter Nomia Iqbal explores the Cornish village that's hosting the G7 summit.
+37. [G7 tax deal: What is it and are Amazon and Facebook included?](https://www.bbc.co.uk/news/business-57384352) - A deal has been agreed by the world's richest nations to tax global companies more.
 38. [Coronavirus: Can countries pay back pandemic debt?](https://www.bbc.co.uk/news/57432260) - Countries around the world have borrowed staggering amounts to deal with the pandemic. But where does a government borrow that money from - and can it ever be paid back?
 39. [How did Bolton deal with the Delta variant?](https://www.bbc.co.uk/news/uk-england-57425730) - Bolton had been "ground zero" for the new variant, but now cases have started to fall.
 40. [Covax: How many Covid vaccines have the US and the other G7 countries pledged?](https://www.bbc.co.uk/news/world-55795297) - The US is set to confirm it will give 500m doses of the Pfizer vaccine to the international Covax scheme.
