@@ -1,7 +1,7 @@
 1. [G7: UK and US have an 'indestructible relationship', PM says](https://www.bbc.co.uk/news/uk-politics-57436035) - Boris Johnson tells the BBC he has coined a new term for the so-called special relationship.
-2. [Harry Dunn death: Biden sympathetic over case, says PM](https://www.bbc.co.uk/news/uk-57435843) - Mr Dunn's mother says she "couldn't be more grateful" the PM raised the case with Joe Biden.
+2. [Delay 21 June lockdown lifting, urge local health leaders](https://www.bbc.co.uk/news/uk-57438745) - The government is warned that unlocking in England on 21 June risks the country "going backwards".
 3. [Assisted dying campaigner dies ](https://www.bbc.co.uk/news/uk-england-shropshire-57441095) - Noel Conway's wife says her husband had a "painless and dignified death" at home.
-4. [Delay 21 June lockdown lifting, urge local health leaders](https://www.bbc.co.uk/news/uk-57438745) - The government is warned that unlocking in England on 21 June risks the country "going backwards".
+4. [Harry Dunn death: Biden sympathetic over case, says PM](https://www.bbc.co.uk/news/uk-57435843) - Mr Dunn's mother says she "couldn't be more grateful" the PM raised the case with Joe Biden.
 5. [Motor neurone disease: Intense exercise increases risk, say scientists](https://www.bbc.co.uk/news/health-57431412) - Regular and strenuous exercise can increase the risk of MND in people who are vulnerable, scientists say.
 6. [UK economy grows in April as shops reopen](https://www.bbc.co.uk/news/business-57438437) - GDP rose 2.3% in April as shoppers headed to the High Street and hospitality venues.
 7. [Euro 2020: Johnson must back Rashford taking the knee - Gordon Brown](https://www.bbc.co.uk/news/uk-politics-57439088) - Ex-PM tells BBC the England team are "bringing together the whole country", despite recent booing.
