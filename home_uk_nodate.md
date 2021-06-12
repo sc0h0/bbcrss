@@ -7,8 +7,8 @@
 7. [Harry Dunn death: Path clear for virtual trial, says foreign secretary](https://www.bbc.co.uk/news/uk-england-northamptonshire-57449680) - Dominic Raab says the UK can approach Anne Sacoolas's lawyers about holding some form of virtual trial.
 8. [Coronavirus: Vaccine passports considered for use at big events](https://www.bbc.co.uk/news/uk-57450600) - Covid passports could be used at events such as sports matches and concerts, the BBC understands.
 9. [MI6 'body-in-bag': Gareth Williams forensic evidence to be re-examined](https://www.bbc.co.uk/news/uk-wales-57448396) - MI6 officer Gareth Williams was found dead inside a zipped holdall at his flat in 2010.
-10. [Hong Kong activist Agnes Chow released from prison](https://www.bbc.co.uk/news/world-asia-china-57450592) - Agnes Chow and other activists were jailed last year for their role in pro-democracy rallies in 2019.
-11. [Humpback whale gulps and spits out Cape Cod lobsterman](https://www.bbc.co.uk/news/world-us-canada-57450685) - Michael Packard ended up in the marine giant's mouth for about half a minute off Massachusetts.
+10. [Humpback whale gulps and spits out Cape Cod lobsterman](https://www.bbc.co.uk/news/world-us-canada-57450685) - Michael Packard ended up in the marine giant's mouth for about half a minute off Massachusetts.
+11. [Hong Kong activist Agnes Chow released from prison](https://www.bbc.co.uk/news/world-asia-china-57450592) - Agnes Chow and other activists were jailed last year for their role in pro-democracy rallies in 2019.
 12. [The Papers: 'Summer freedom on hold' and EU trade war threat](https://www.bbc.co.uk/news/blogs-the-papers-57449963) - Reports of a delay to the planned 21 June date for ending Covid restrictions in England are among the front-page stories.
 13. ['I could be with people and still feel alone'](https://www.bbc.co.uk/news/world-us-canada-57434784) - It's been a difficult year for US college students. This is Ana Carmona's story.
 14. [Vaccinating children against Covid-19](https://www.bbc.co.uk/news/uk-57441662) - Ros Atkins on the debate about giving Pfizer vaccine to children aged 12-15.
