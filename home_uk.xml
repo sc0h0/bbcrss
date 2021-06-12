@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Jun 2021 14:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 15:05:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,32 @@
             <pubDate>Sat, 12 Jun 2021 12:00:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Euro 2020: Kieffer Moore rescues Wales against Switzerland in 1-1 Euro opener]]></title>
+            <description><![CDATA[Kieffer Moore replies to cancel out Breel Embolo's opener as Wales come from behind to draw 1-1 with Switzerland in their opening match of Euro 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51197446</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51197446</guid>
+            <pubDate>Sat, 12 Jun 2021 14:58:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sasha Johnson: Second man charged over activist's shooting]]></title>
             <description><![CDATA[An 18-year-old man is due to appear in court charged with conspiracy to murder.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57454280</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57454280</guid>
             <pubDate>Sat, 12 Jun 2021 12:36:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G7 adopts spending plan to rival China's influence]]></title>
+            <description><![CDATA[G7 leaders commit to investment in developing countries to counter China's growing global power.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57452158</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57452158</guid>
+            <pubDate>Sat, 12 Jun 2021 13:36:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G7 in Cornwall: Thousands on streets and in sea for protests]]></title>
+            <description><![CDATA[Campaigners on land and sea deliver wide-ranging messages to the G7 summit in Cornwall.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-57454319</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-57454319</guid>
+            <pubDate>Sat, 12 Jun 2021 14:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Birthday Honours 2021: Covid vaccine heroes recognised by Queen]]></title>
@@ -63,27 +84,6 @@
             <link>https://www.bbc.co.uk/news/health-57431420</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57431420</guid>
             <pubDate>Fri, 11 Jun 2021 23:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G7 summit: Infrastructure plan to rival China adopted]]></title>
-            <description><![CDATA[G7 leaders say they will support poorer countries in a "values-driven" and transparent partnership.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57452158</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57452158</guid>
-            <pubDate>Sat, 12 Jun 2021 13:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four teenage boys arrested on suspicion of murder in Telford]]></title>
-            <description><![CDATA[Two adults have also been arrested after a man, found seriously injured on a footpath, later died.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-shropshire-57453332</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-57453332</guid>
-            <pubDate>Sat, 12 Jun 2021 11:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS in Wales: 'Culture of bullying' among staff]]></title>
-            <description><![CDATA[Five whistleblowers working in or with the Welsh NHS share their experiences of bullying and harassment.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57413875</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57413875</guid>
-            <pubDate>Sat, 12 Jun 2021 13:53:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From garden chairs to boxes: Five items in short supply]]></title>
@@ -289,25 +289,18 @@
             <pubDate>Sat, 12 Jun 2021 14:28:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Euro 2020: 'Wonderful' Kieffer Moore header gives Wales an equaliser]]></title>
+            <description><![CDATA[Kieffer Moore gives Wales the equaliser and their first goal of Euro 2020 with a glancing header from a Joe Morrell cross against Switzerland at the Olympic Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57454830</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57454830</guid>
+            <pubDate>Sat, 12 Jun 2021 14:54:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020: Breel Embolo opens the scoring for Switzerland against Wales with header]]></title>
             <description><![CDATA[Breel Embolo opens the scoring for Switzerland, beating Wales' Danny Ward with powerful header from a Xherdan Shaqiri corner at the Olympic Stadium during Euro 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57454829</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57454829</guid>
             <pubDate>Sat, 12 Jun 2021 14:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Spectacular Sommer save denies Wales' Kieffer Moore an opening goal]]></title>
-            <description><![CDATA[Switzerland's Yann Sommer denies a header from Wales' Kieffer Moore with a spectacular diving save at the Olympic Stadium during Euro 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57454828</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57454828</guid>
-            <pubDate>Sat, 12 Jun 2021 13:35:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v New Zealand: Rory Burns caught for second-ball duck off Matt Henry]]></title>
-            <description><![CDATA[In-form England opener Rory Burns edges Matt Henry to Tom Latham at second slip for a duck as England slump to 0-1, 84 runs behind New Zealand at the start of their second innings.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57454554</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57454554</guid>
-            <pubDate>Sat, 12 Jun 2021 14:45:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[G7 summit: 'It's stolen a week of holiday season']]></title>
@@ -321,7 +314,7 @@
             <description><![CDATA[World leaders are by the seaside for three days of talks - and the occasional trip to the beach...]]></description>
             <link>https://www.bbc.co.uk/news/uk-57438878</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57438878</guid>
-            <pubDate>Sat, 12 Jun 2021 14:44:05 GMT</pubDate>
+            <pubDate>Sat, 12 Jun 2021 14:59:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joe Biden: Unearthing the president's unsung English roots]]></title>
