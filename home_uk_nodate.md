@@ -2,8 +2,8 @@
 2. [Birthday Honours 2021: Covid vaccine heroes recognised by Queen](https://www.bbc.co.uk/news/uk-57427788) - The Queen's Birthday Honours also recognise Prue Leith, Arlene Phillips and Jonathan Pryce.
 3. [G7: Leaders to unveil global anti-pandemic action plan](https://www.bbc.co.uk/news/uk-57450585) - They will pledge all their resources to ensure a global pandemic like Covid-19 is never repeated.
 4. [The Queen: ‘Are you supposed to be looking as if you’re enjoying yourself?’](https://www.bbc.co.uk/news/uk-57447066) - The Queen was not afraid to lighten the mood at the G7 'family photo' taken at the Cornwall summit.
-5. [Covid: Is there a limit to how much worse variants can get?](https://www.bbc.co.uk/news/health-57431420) - The coronavirus has changed and changed again, getting more transmissible each time.
-6. [Covid-19: June unlocking delay considered and honours for vaccine heroes](https://www.bbc.co.uk/news/uk-57450935) - Five things you need to know about the coronavirus pandemic this Saturday morning.
+5. [Covid-19: June unlocking delay considered and honours for vaccine heroes](https://www.bbc.co.uk/news/uk-57450935) - Five things you need to know about the coronavirus pandemic this Saturday morning.
+6. [Covid: Is there a limit to how much worse variants can get?](https://www.bbc.co.uk/news/health-57431420) - The coronavirus has changed and changed again, getting more transmissible each time.
 7. [Harry Dunn death: Path clear for virtual trial, says foreign secretary](https://www.bbc.co.uk/news/uk-england-northamptonshire-57449680) - Dominic Raab says the UK can approach Anne Sacoolas's lawyers about holding some form of virtual trial.
 8. [Coronavirus: Vaccine passports considered for use at big events](https://www.bbc.co.uk/news/uk-57450600) - Covid passports could be used at events such as sports matches and concerts, the BBC understands.
 9. [MI6 'body-in-bag': Gareth Williams forensic evidence to be re-examined](https://www.bbc.co.uk/news/uk-wales-57448396) - MI6 officer Gareth Williams was found dead inside a zipped holdall at his flat in 2010.
