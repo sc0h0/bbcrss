@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Jun 2021 23:56:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 01:02:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,11 +65,18 @@
             <pubDate>Fri, 11 Jun 2021 23:04:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sony Music writes off artists' decades-old debts]]></title>
-            <description><![CDATA[Thousands of artists will finally be able to start earning money from their music.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57445303</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57445303</guid>
-            <pubDate>Fri, 11 Jun 2021 15:47:29 GMT</pubDate>
+            <title><![CDATA[US lawmakers introduce bills targeting Big Tech]]></title>
+            <description><![CDATA[The bills target Amazon, Apple, Facebook and Google and some of the anti-trust actions they stand accused of.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57450345</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57450345</guid>
+            <pubDate>Sat, 12 Jun 2021 00:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MI6 'body-in-bag': Gareth Williams forensic evidence to be re-examined]]></title>
+            <description><![CDATA[MI6 officer Gareth Williams was found dead inside a zipped holdall at his flat in 2010.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57448396</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57448396</guid>
+            <pubDate>Fri, 11 Jun 2021 19:36:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[French Open 2021: Novak Djokovic beats Rafael Nadal & faces Stefanos Tsitsipas in final]]></title>
@@ -93,18 +100,11 @@
             <pubDate>Fri, 11 Jun 2021 10:49:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Duchess of Cambridge: I can't wait to meet Lilibet Diana]]></title>
-            <description><![CDATA[The Duchess of Cambridge says she wishes Prince Harry and Meghan's new daughter "all the very best".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57445083</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57445083</guid>
-            <pubDate>Fri, 11 Jun 2021 18:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G7 summit: Officer staying on ferry tests positive for Covid]]></title>
-            <description><![CDATA[Twelve police officers are self isolating after one provided a positive lateral flow test.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cornwall-57445893</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-57445893</guid>
-            <pubDate>Fri, 11 Jun 2021 15:05:40 GMT</pubDate>
+            <title><![CDATA[Humpback whale gulps and spits out Cape Cod lobsterman]]></title>
+            <description><![CDATA[Michael Packard ended up in the marine giant's mouth for about half a minute off Massachusetts.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57450685</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57450685</guid>
+            <pubDate>Sat, 12 Jun 2021 00:47:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Summer freedom on hold' and EU trade war threat]]></title>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57449963</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57449963</guid>
             <pubDate>Fri, 11 Jun 2021 22:34:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I could be with people and still feel alone']]></title>
+            <description><![CDATA[It's been a difficult year for US college students. This is Ana Carmona's story.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57434784</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57434784</guid>
+            <pubDate>Fri, 11 Jun 2021 23:37:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harry Dunn and the complex world of diplomatic immunity]]></title>
@@ -135,13 +142,6 @@
             <pubDate>Fri, 11 Jun 2021 23:02:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Record-breaking hiker's agony at 16-mile walk for bus home]]></title>
-            <description><![CDATA[Matt Girvan hiked a trail which runs the length of Scotland - then had to walk even further when his ferry was cancelled.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57429027</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57429027</guid>
-            <pubDate>Fri, 11 Jun 2021 21:48:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Week in pictures: 5 - 11 June 2021]]></title>
             <description><![CDATA[A selection of powerful images taken around the world this week.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-57415615</link>
@@ -149,74 +149,11 @@
             <pubDate>Fri, 11 Jun 2021 23:40:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: A football-hater's guide to surviving the tournament]]></title>
-            <description><![CDATA[Millions of people will be glued to the Euros, but spare a thought for those who can't stand sport.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57443234</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57443234</guid>
-            <pubDate>Fri, 11 Jun 2021 14:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Pictures: G7 leaders meet at the seaside]]></title>
-            <description><![CDATA[World leaders are in Cornwall for three days of talks - and the occasional trip to the beach...]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57438878</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57438878</guid>
-            <pubDate>Fri, 11 Jun 2021 18:50:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Boaters have a close call with a Texas dam]]></title>
             <description><![CDATA[The four passengers were rescued after their boat got stuck at the top of the dam.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57448375</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57448375</guid>
             <pubDate>Fri, 11 Jun 2021 16:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Cooking for G7 leaders is the high point of my career']]></title>
-            <description><![CDATA[The G7 head chef Adam Handling on the food he is preparing for world leaders during the summit.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57446266</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57446266</guid>
-            <pubDate>Fri, 11 Jun 2021 14:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Van Morrison: Ian Paisley defends joining anti-Swann chant]]></title>
-            <description><![CDATA[Ian Paisley and the singer chanted about the NI health minister after cancellation of Belfast gigs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57443478</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57443478</guid>
-            <pubDate>Fri, 11 Jun 2021 17:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google buys photographer's shot of seagull eating a chip]]></title>
-            <description><![CDATA[The action shot of a greedy gull guzzling a chip on Bridlington harbour was taken back in 2011.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-humber-57442449</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57442449</guid>
-            <pubDate>Fri, 11 Jun 2021 13:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Medieval pointy-toed shoes led to Cambridge bunion surge]]></title>
-            <description><![CDATA[About 27% of 14th and 15th Century skeletons found in Cambridge digs had bunions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-57427365</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-57427365</guid>
-            <pubDate>Fri, 11 Jun 2021 05:11:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LGBTQ: The podcast telling Singapore's hidden gay stories]]></title>
-            <description><![CDATA[The SG Boys is one of the first LGBTQ podcasts in Singapore - where gay sex is still illegal.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57424596</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57424596</guid>
-            <pubDate>Fri, 11 Jun 2021 02:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where have all the UK workers gone?]]></title>
-            <description><![CDATA[Why are many firms reporting staff shortages when so many people are still unemployed?]]></description>
-            <link>https://www.bbc.co.uk/news/business-57400560</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57400560</guid>
-            <pubDate>Thu, 10 Jun 2021 23:04:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crowded House's Neil Finn: The most debauched we got was water fights]]></title>
-            <description><![CDATA[Neil Finn on touring with Crowded House, playing with Fleetwood Mac and ruining hotel rooms.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57419383</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57419383</guid>
-            <pubDate>Fri, 11 Jun 2021 00:25:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MH17 plane crash: Horror and hope for families as trial starts]]></title>
@@ -233,6 +170,20 @@
             <pubDate>Fri, 11 Jun 2021 23:48:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Download: 'We've got tickets to a post-Covid festival']]></title>
+            <description><![CDATA[As the UK's post-Covid festival scene restarts, fans explain why Download will be especially upbeat.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-57387810</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-57387810</guid>
+            <pubDate>Sat, 12 Jun 2021 00:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Why people are afraid to show support for the Games]]></title>
+            <description><![CDATA[Some Japanese - including athletes - are afraid to come forward and show support for the Olympics.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57395010</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57395010</guid>
+            <pubDate>Fri, 11 Jun 2021 23:06:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Andrew Dymock: The neo-Nazi exposed by the BBC]]></title>
             <description><![CDATA[Raised in a privileged academic background, Andrew Dymock led two banned neo-Nazi terror groups.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57406673</link>
@@ -240,18 +191,18 @@
             <pubDate>Fri, 11 Jun 2021 14:35:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Record-breaking hiker's agony at 16-mile walk for bus home]]></title>
+            <description><![CDATA[Matt Girvan hiked a trail which runs the length of Scotland - then had to walk even further when his ferry was cancelled.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57429027</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57429027</guid>
+            <pubDate>Fri, 11 Jun 2021 21:48:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Huntington's disease won't stop me having a baby']]></title>
             <description><![CDATA[Heather and her husband are going to have a baby, even though Heather's time with the child will be limited.]]></description>
             <link>https://www.bbc.co.uk/news/stories-57430859</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57430859</guid>
             <pubDate>Fri, 11 Jun 2021 00:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020 and Covid: How can I watch with my friends?]]></title>
-            <description><![CDATA[Covid rules are making things a bit different for Euro 2020 spectators.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57386719</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57386719</guid>
-            <pubDate>Wed, 09 Jun 2021 06:50:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Crocodile attack twin: 'You have to fight for the people you love']]></title>
@@ -352,6 +303,34 @@
             <pubDate>Fri, 11 Jun 2021 18:48:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[In Pictures: G7 leaders meet at the seaside]]></title>
+            <description><![CDATA[World leaders are in Cornwall for three days of talks - and the occasional trip to the beach...]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57438878</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57438878</guid>
+            <pubDate>Fri, 11 Jun 2021 18:50:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covax: How many Covid vaccines have the US and the other G7 countries pledged?]]></title>
+            <description><![CDATA[The US is set to confirm it will give 500m doses of the Pfizer vaccine to the international Covax scheme.]]></description>
+            <link>https://www.bbc.co.uk/news/world-55795297</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55795297</guid>
+            <pubDate>Fri, 11 Jun 2021 09:39:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G7: Climate protesters target Cornish summit]]></title>
+            <description><![CDATA[At least 500 people joined a parade in St Ives, chanting "act now" and "sound the alarm".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-57445814</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-57445814</guid>
+            <pubDate>Fri, 11 Jun 2021 15:17:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What's the Northern Ireland Protocol and why is President Biden concerned?]]></title>
+            <description><![CDATA[Why are there now some border checks between Great Britain and Northern Ireland?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53724381</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53724381</guid>
+            <pubDate>Fri, 11 Jun 2021 09:21:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[G7 summit: What is it and why is it in Cornwall?]]></title>
             <description><![CDATA[World leaders will descend on the Cornish coast for face-to-face meetings on Friday 11 June.]]></description>
             <link>https://www.bbc.co.uk/news/world-49434667</link>
@@ -394,39 +373,39 @@
             <pubDate>Thu, 10 Jun 2021 23:10:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How did Bolton deal with the Delta variant?]]></title>
-            <description><![CDATA[Bolton had been "ground zero" for the new variant, but now cases have started to fall.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57425730</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57425730</guid>
-            <pubDate>Thu, 10 Jun 2021 11:38:25 GMT</pubDate>
+            <title><![CDATA[Euros: Fans' plans to make the most of it despite Covid]]></title>
+            <description><![CDATA[The beach, a sing-song and a family party - here's how some people are enjoying the tournament.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57383693</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57383693</guid>
+            <pubDate>Sat, 12 Jun 2021 00:06:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covax: How many Covid vaccines have the US and the other G7 countries pledged?]]></title>
-            <description><![CDATA[The US is set to confirm it will give 500m doses of the Pfizer vaccine to the international Covax scheme.]]></description>
-            <link>https://www.bbc.co.uk/news/world-55795297</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55795297</guid>
-            <pubDate>Fri, 11 Jun 2021 09:39:10 GMT</pubDate>
+            <title><![CDATA[Euro 2020 and Covid: How can I watch with my friends?]]></title>
+            <description><![CDATA[Covid rules are making things a bit different for Euro 2020 spectators.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57386719</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57386719</guid>
+            <pubDate>Wed, 09 Jun 2021 06:50:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[The government is yet to decide whether to lift the remaining restrictions on 21 June]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Fri, 11 Jun 2021 13:36:38 GMT</pubDate>
+            <title><![CDATA[What is taking the knee and why is it an issue at Euro 2020?]]></title>
+            <description><![CDATA[Taking the knee has spread across the world as a statement against racism.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53098516</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53098516</guid>
+            <pubDate>Fri, 11 Jun 2021 14:11:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lockdown easing: Four numbers to look for ahead of the 21 June decision]]></title>
-            <description><![CDATA[The key numbers that offer clues as to whether "freedom day" will proceed as planned on 21 June.]]></description>
-            <link>https://www.bbc.co.uk/news/57403888</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57403888</guid>
-            <pubDate>Tue, 08 Jun 2021 23:00:52 GMT</pubDate>
+            <title><![CDATA[Euro 2020: A football-hater's guide to surviving the tournament]]></title>
+            <description><![CDATA[Millions of people will be glued to the Euros, but spare a thought for those who can't stand sport.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57443234</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57443234</guid>
+            <pubDate>Fri, 11 Jun 2021 14:57:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 41 million people receive at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Fri, 11 Jun 2021 16:14:05 GMT</pubDate>
+            <title><![CDATA[Quiz: How well do you know the Euros? Take our bumper quiz]]></title>
+            <description><![CDATA[Ten rounds, 125 possible answers - take on our quiz and test your Euros knowledge.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57188304</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57188304</guid>
+            <pubDate>Fri, 11 Jun 2021 05:17:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
