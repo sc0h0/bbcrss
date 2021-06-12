@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Jun 2021 09:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jun 2021 09:52:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,20 +37,6 @@
             <pubDate>Fri, 11 Jun 2021 20:30:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trooping the Colour: Scaled back celebration for Queen's official birthday]]></title>
-            <description><![CDATA[The event will be held at Windsor Castle for the second year running due to the Covid-19 pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57451808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57451808</guid>
-            <pubDate>Sat, 12 Jun 2021 08:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: June unlocking delay considered and honours for vaccine heroes]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Saturday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57450935</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57450935</guid>
-            <pubDate>Sat, 12 Jun 2021 06:00:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Is there a limit to how much worse variants can get?]]></title>
             <description><![CDATA[The coronavirus has changed and changed again, getting more transmissible each time.]]></description>
             <link>https://www.bbc.co.uk/news/health-57431420</link>
@@ -58,18 +44,11 @@
             <pubDate>Fri, 11 Jun 2021 23:16:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[G7: Leaders to unveil global anti-pandemic action plan]]></title>
-            <description><![CDATA[They will pledge all their resources to ensure a global pandemic like Covid-19 is never repeated.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57450585</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57450585</guid>
-            <pubDate>Sat, 12 Jun 2021 01:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G7 summit: Biden to urge West to form alliance against China]]></title>
-            <description><![CDATA[The US president will use the G7 summit in Britain to call on allies to combat Beijing's influence.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57452158</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57452158</guid>
-            <pubDate>Sat, 12 Jun 2021 08:41:56 GMT</pubDate>
+            <title><![CDATA[Trooping the Colour: Scaled back celebration for Queen's official birthday]]></title>
+            <description><![CDATA[A parade will be held at Windsor Castle for the second year running due to the Covid-19 pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57451808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57451808</guid>
+            <pubDate>Sat, 12 Jun 2021 09:48:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stobart Air: Aer Lingus stops most Belfast City Airport flights]]></title>
@@ -79,11 +58,32 @@
             <pubDate>Sat, 12 Jun 2021 09:32:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[G7 summit: Biden to urge West to form alliance against China]]></title>
+            <description><![CDATA[The US president will use the G7 summit in Britain to call on allies to combat Beijing's influence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57452158</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57452158</guid>
+            <pubDate>Sat, 12 Jun 2021 08:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[G7: Leaders to unveil global anti-pandemic action plan]]></title>
+            <description><![CDATA[They will pledge all their resources to ensure a global pandemic like Covid-19 is never repeated.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57450585</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57450585</guid>
+            <pubDate>Sat, 12 Jun 2021 01:42:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Harry Dunn death: Path clear for virtual trial, says foreign secretary]]></title>
             <description><![CDATA[Dominic Raab says the UK can approach Anne Sacoolas's lawyers about holding some form of virtual trial.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-57449680</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-57449680</guid>
             <pubDate>Sat, 12 Jun 2021 09:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS in Wales: 'Culture of bullying' among staff]]></title>
+            <description><![CDATA[Five whistleblowers working in or with the Welsh NHS share their experiences of bullying and harassment.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57413875</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57413875</guid>
+            <pubDate>Sat, 12 Jun 2021 06:06:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Humpback whale gulps and spits out Cape Cod lobsterman]]></title>
@@ -294,13 +294,6 @@
             <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57451419</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/57451419</guid>
             <pubDate>Sat, 12 Jun 2021 08:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opera singer Andrea Bocelli provides the perfect soundtrack to Italy's win over Turkey]]></title>
-            <description><![CDATA[Opera singer Andrea Bocelli provides the perfect soundtrack to Italy's 3-0 win over Turkey in the opening game of Euro 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57450605</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57450605</guid>
-            <pubDate>Fri, 11 Jun 2021 23:19:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joe Biden: Unearthing the president's unsung English roots]]></title>
