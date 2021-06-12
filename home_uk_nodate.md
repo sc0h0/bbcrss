@@ -1,4 +1,4 @@
-1. [21 June: End of England's Covid lockdown could be delayed by one month](https://www.bbc.co.uk/news/uk-57447632) - It comes amid growing concern over increasing cases and the transmissibility of the Delta variant.
+1. [21 June: End of England's Covid lockdown could be delayed by one month](https://www.bbc.co.uk/news/uk-57447632) - It comes amid concern over rising cases and the transmissibility of the Delta variant in England.
 2. [Birthday Honours 2021: Covid vaccine heroes recognised by Queen](https://www.bbc.co.uk/news/uk-57427788) - The Queen's Birthday Honours also recognise Prue Leith, Arlene Phillips and Jonathan Pryce.
 3. [G7: Leaders to unveil global anti-pandemic action plan](https://www.bbc.co.uk/news/uk-57450585) - They will pledge all their resources to ensure a global pandemic like Covid-19 is never repeated.
 4. [The Queen: ‘Are you supposed to be looking as if you’re enjoying yourself?’](https://www.bbc.co.uk/news/uk-57447066) - The Queen was not afraid to lighten the mood at the G7 'family photo' taken at the Cornwall summit.
