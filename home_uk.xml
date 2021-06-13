@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Jun 2021 07:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 07:44:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,7 +37,7 @@
             <pubDate>Sun, 13 Jun 2021 01:05:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Government cautious about unlocking and shipping disruption to continue]]></title>
+            <title><![CDATA[Covid-19: Over-40s urged to get second jab sooner and weddings await 21 June announcement]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Sunday morning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57457861</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57457861</guid>
@@ -84,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/technology-57457248</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57457248</guid>
             <pubDate>Sat, 12 Jun 2021 21:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lobbying: Call for greater transparency around access to ministers]]></title>
-            <description><![CDATA[The rules for ministers taking up business roles after leaving office must be improved, Lord Evans says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57457852</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57457852</guid>
-            <pubDate>Sun, 13 Jun 2021 05:02:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SLS: First view of Nasa's assembled 'megarocket']]></title>
@@ -163,6 +156,13 @@
             <pubDate>Sat, 12 Jun 2021 16:12:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[In Pictures: Global talks take place in Cornwall]]></title>
+            <description><![CDATA[World leaders are by the seaside for three days of talks - and the occasional trip to the beach...]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57438878</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57438878</guid>
+            <pubDate>Sun, 13 Jun 2021 07:35:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sunrise social: 'It's great for your mental health']]></title>
             <description><![CDATA[A group of young people are combating loneliness by getting together to watch the sun rise.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57435053</link>
@@ -196,6 +196,13 @@
             <link>https://www.bbc.co.uk/news/disability-50478524</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-50478524</guid>
             <pubDate>Sat, 12 Jun 2021 23:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Why England may take a cautious approach against Croatia - Jermaine Jenas]]></title>
+            <description><![CDATA[Former England midfielder and BBC Sport columnist Jermaine Jenas explains why Three Lions boss Gareth Southgate will wait to let his side off the leash.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57436330</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57436330</guid>
+            <pubDate>Sat, 12 Jun 2021 23:05:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Firms delving into sport stars' social media past]]></title>
@@ -247,13 +254,6 @@
             <pubDate>Sat, 12 Jun 2021 00:22:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: Why England may take a cautious approach against Croatia - Jermaine Jenas]]></title>
-            <description><![CDATA[Former England midfielder and BBC Sport columnist Jermaine Jenas explains why Three Lions boss Gareth Southgate will wait to let his side off the leash.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57436330</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57436330</guid>
-            <pubDate>Sat, 12 Jun 2021 23:05:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fragile England will have no chance in Ashes - Vaughan]]></title>
             <description><![CDATA[England "can't arrive in Australia with a batting line-up this fragile", says former captain Michael Vaughan.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57456435</link>
@@ -268,25 +268,39 @@
             <pubDate>Sun, 13 Jun 2021 05:46:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Respect England players' wishes to take a knee, says FA]]></title>
-            <description><![CDATA[The Football Association asks fans to not boo England players when they take a knee before their Euro 2020 opener against Croatia on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57457120</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57457120</guid>
-            <pubDate>Sat, 12 Jun 2021 23:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UFC 263: Israel Adesanya beats Marvin Vettori to retain middleweight title]]></title>
-            <description><![CDATA[Israel Adesanya beats Marvin Vettori to retain his middleweight title at UFC 263 as England's Leon Edwards and Scotland's Paul Craig also win.]]></description>
-            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57458542</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/57458542</guid>
-            <pubDate>Sun, 13 Jun 2021 06:20:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['She was looking after me from up there' - Krejcikova's tribute to Novotna after French Open win]]></title>
             <description><![CDATA[Unseeded Czech Barbora Krejcikova seals her rapid rise in the singles game by claiming a first Grand Slam title at the French Open.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57455312</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57455312</guid>
             <pubDate>Sat, 12 Jun 2021 19:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Danish and Finnish fans spontaneously chant for Christian Eriksen]]></title>
+            <description><![CDATA[After Denmark's Christian Eriksen collapsed during his team's match against Finland, Danish and Finnish fans spontaneously chanted Eriksen's name.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57456984</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57456984</guid>
+            <pubDate>Sat, 12 Jun 2021 20:35:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Romelu Lukaku pays tribute to Christian Eriksen after scoring against Russia]]></title>
+            <description><![CDATA[Romelu Lukaku pays tribute to Christian Eriksen after scoring against Russia, to give Belgium their first goal of the night at Euro 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57457262</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57457262</guid>
+            <pubDate>Sat, 12 Jun 2021 21:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Highlights: New Zealand dominate dire England on day three of second Test]]></title>
+            <description><![CDATA[Watch highlights as another insipid batting performance on the third day of the second Test leaves England facing defeat against New Zealand.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/57456878</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57456878</guid>
+            <pubDate>Sat, 12 Jun 2021 18:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It's time for me to go for my chances' - Tsitsipas takes on Djokovic in Paris final]]></title>
+            <description><![CDATA[Novak Djokovic goes for his 19th Grand Slam title in Sunday's French Open final, where Greek opponent Stefanos Tsitsipas bids for his first.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57448994</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57448994</guid>
+            <pubDate>Sat, 12 Jun 2021 19:10:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When could social distancing end?]]></title>
@@ -385,13 +399,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57441825</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57441825</guid>
             <pubDate>Fri, 11 Jun 2021 15:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Pictures: Global talks take place in Cornwall]]></title>
-            <description><![CDATA[World leaders are by the seaside for three days of talks - and the occasional trip to the beach...]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57438878</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57438878</guid>
-            <pubDate>Sat, 12 Jun 2021 15:48:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Can countries pay back pandemic debt?]]></title>
