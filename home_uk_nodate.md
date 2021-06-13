@@ -1,4 +1,4 @@
-1. [ Big step towards vaccinating world, says PM](https://www.bbc.co.uk/news/uk-57461640) - The prime minister says it is a "big step towards vaccinating the world" by the end of 2022.
+1. [ Big step towards vaccinating world, says PM](https://www.bbc.co.uk/news/uk-57461640) - PM Boris Johnson rejects criticism the donation is not enough, saying "we are going flat out".
 2. [G7 summit: Dominic Raab says Emmanuel Macron's attitude to Northern Ireland is 'offensive'](https://www.bbc.co.uk/news/uk-politics-57460077) - The French president allegedly said Northern Ireland was not part of the UK during a G7 meeting.
 3. [Christian Eriksen: Denmark midfielder suffered cardiac arrest, says team doctor](https://www.bbc.co.uk/sport/football/57458630) - Christian Eriksen suffered a cardiac arrest when he collapsed in Denmark's Euro 2020 match against Finland, says Danish team doctor Morten Boesen.
 4. [Queen to meet Joe Biden at Windsor Castle](https://www.bbc.co.uk/news/uk-57461257) - The visit will include a Guard of Honour and tea at the monarch's Berkshire residence.
