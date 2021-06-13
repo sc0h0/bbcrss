@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Jun 2021 18:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 18:54:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,7 +41,7 @@
             <description><![CDATA[Benjamin Netanyahu loses his 12-year hold on power as a new Israeli government is approved.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57462470</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57462470</guid>
-            <pubDate>Sun, 13 Jun 2021 18:27:56 GMT</pubDate>
+            <pubDate>Sun, 13 Jun 2021 18:38:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: England 1-0 Croatia - Raheem Sterling helps Three Lions begin with victory]]></title>
@@ -55,7 +55,7 @@
             <description><![CDATA[Novak Djokovic wins his 19th Grand Slam title after fighting back from two sets down to beat Stefanos Tsitsipas in the French Open final.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57461952</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57461952</guid>
-            <pubDate>Sun, 13 Jun 2021 18:15:41 GMT</pubDate>
+            <pubDate>Sun, 13 Jun 2021 18:49:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[G7 summit: Northern Ireland part of one great indivisible UK, says PM]]></title>
@@ -84,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57462047</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57462047</guid>
             <pubDate>Sun, 13 Jun 2021 16:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christian Eriksen: Denmark midfielder suffered cardiac arrest, says team doctor]]></title>
-            <description><![CDATA[Christian Eriksen suffered a cardiac arrest when he collapsed in Denmark's Euro 2020 match against Finland, says Danish team doctor Morten Boesen.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57458630</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57458630</guid>
-            <pubDate>Sun, 13 Jun 2021 14:33:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Swiss voters reject key climate change measures]]></title>
@@ -156,6 +149,13 @@
             <pubDate>Sat, 12 Jun 2021 19:44:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Netanyahu: A shrewd leader who reshaped Israel]]></title>
+            <description><![CDATA[Loved and loathed, Israel's ousted long-term PM made his mark on the country at home and abroad.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57306615</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57306615</guid>
+            <pubDate>Sun, 13 Jun 2021 18:21:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['The 80s song that brought my lost memory back after 10 years']]></title>
             <description><![CDATA[A car crash erased Thomas's memory - 10 years later, a 1980s pop song triggered six flashbacks.]]></description>
             <link>https://www.bbc.co.uk/news/disability-50478524</link>
@@ -191,25 +191,11 @@
             <pubDate>Fri, 11 Jun 2021 23:16:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MH17 plane crash: Horror and hope for families as trial starts]]></title>
-            <description><![CDATA[Four people are on trial for shooting down flight MH17 over eastern Ukraine, but none are in court.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57443467</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57443467</guid>
-            <pubDate>Fri, 11 Jun 2021 23:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Dymock: The neo-Nazi exposed by the BBC]]></title>
-            <description><![CDATA[Raised in a privileged academic background, Andrew Dymock led two banned neo-Nazi terror groups.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57406673</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57406673</guid>
-            <pubDate>Fri, 11 Jun 2021 14:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Download: 'We've got tickets to a post-Covid festival']]></title>
-            <description><![CDATA[As the UK's post-Covid festival scene restarts, fans explain why Download will be especially upbeat.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-57387810</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-57387810</guid>
-            <pubDate>Sat, 12 Jun 2021 00:22:05 GMT</pubDate>
+            <title><![CDATA[Denmark midfielder Eriksen suffered cardiac arrest - doctor]]></title>
+            <description><![CDATA[Christian Eriksen suffered a cardiac arrest when he collapsed in Denmark's Euro 2020 match against Finland, says Danish team doctor Morten Boesen.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57458630</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57458630</guid>
+            <pubDate>Sun, 13 Jun 2021 14:33:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Konta wins Nottingham Open for first title in four years]]></title>
@@ -226,18 +212,18 @@
             <pubDate>Sun, 13 Jun 2021 18:21:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England's opening team: 'Southgate got big calls exactly right']]></title>
-            <description><![CDATA[England boss Gareth Southgate's opening team selection of Euro 2020 offered up plenty of debating points - but he got it right, says Phil McNulty.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57462001</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57462001</guid>
-            <pubDate>Sun, 13 Jun 2021 16:59:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Euro 2020 England 1-0 Croatia: Raheem Sterling goal seals opening-game win for England]]></title>
             <description><![CDATA[Raheem Sterling's first major tournament goal helps England to victory in their opening game of Euro 2020 campaign, winning 1-0 against Croatia at Wembley.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57461626</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57461626</guid>
             <pubDate>Sun, 13 Jun 2021 15:12:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's opening team: 'Southgate got big calls exactly right']]></title>
+            <description><![CDATA[England boss Gareth Southgate's opening team selection of Euro 2020 offered up plenty of debating points - but he got it right, says Phil McNulty.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57462001</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57462001</guid>
+            <pubDate>Sun, 13 Jun 2021 16:59:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 - England 1-0 Croatia: 'It doesn't get much better - England win as fans celebrate in the sun]]></title>
