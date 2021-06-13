@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Jun 2021 11:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 12:21:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The foreign secretary says the EU characterises Northern Ireland "as somehow a separate country".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57460077</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57460077</guid>
-            <pubDate>Sun, 13 Jun 2021 11:32:56 GMT</pubDate>
+            <pubDate>Sun, 13 Jun 2021 12:01:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[G7 to agree tough measures on burning coal to tackle climate change]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/sport/football/57458630</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57458630</guid>
             <pubDate>Sun, 13 Jun 2021 10:21:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Excitement builds as England face Croatia in opening game]]></title>
+            <description><![CDATA[Some 22,500 fans will be at Wembley Stadium, with an official fan zone at London's Trafalgar Square.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57460595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57460595</guid>
+            <pubDate>Sun, 13 Jun 2021 12:05:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Couples may lose thousands if wedding rules don't change]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Sun, 13 Jun 2021 06:25:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Disruption to shipping could delay Christmas orders]]></title>
-            <description><![CDATA[Global transport of goods has suffered blockages, delays and bottlenecks and won't be resolved quickly.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57446437</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57446437</guid>
-            <pubDate>Sun, 13 Jun 2021 00:52:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[In Pictures: World leaders bask in Cornwall sun at G7 summit]]></title>
             <description><![CDATA[World leaders are by the seaside for three days of talks - and the occasional trip to the beach...]]></description>
             <link>https://www.bbc.co.uk/news/uk-57438878</link>
@@ -121,25 +121,11 @@
             <pubDate>Sun, 13 Jun 2021 06:18:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'Miracle on the turf' and six-week window to open up]]></title>
-            <description><![CDATA[Denmark midfielder Christian Eriksen collapsing during a Euro 2020 match is among the front-page stories.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57457288</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57457288</guid>
-            <pubDate>Sun, 13 Jun 2021 04:25:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['I miss airline meals so much I make them at home']]></title>
             <description><![CDATA[Aviation geek Nik Sennhauser recreates the inflight meals he misses so much - even though he hates cooking.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57411754</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57411754</guid>
             <pubDate>Sun, 13 Jun 2021 06:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belgium 3-0 Russia: Romelu Lukaku pays tribute to Inter Milan team-mate Christian Eriksen]]></title>
-            <description><![CDATA[Romelu Lukaku pays tribute to Inter Milan team-mate Christian Eriksen, who suffered a collapse, after scoring against Russia to help Belgium start Euro 2020 with a win.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/51197540</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51197540</guid>
-            <pubDate>Sat, 12 Jun 2021 22:25:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why 'tiny forests' can make a big difference]]></title>
@@ -149,6 +135,13 @@
             <pubDate>Sat, 12 Jun 2021 23:03:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Belgium 3-0 Russia: Romelu Lukaku pays tribute to Inter Milan team-mate Christian Eriksen]]></title>
+            <description><![CDATA[Romelu Lukaku pays tribute to Inter Milan team-mate Christian Eriksen, who suffered a collapse, after scoring against Russia to help Belgium start Euro 2020 with a win.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51197540</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51197540</guid>
+            <pubDate>Sat, 12 Jun 2021 22:25:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SLS: First view of Nasa's assembled 'megarocket']]></title>
             <description><![CDATA[Nasa has assembled the key elements of its powerful SLS rocket.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57446686</link>
@@ -156,39 +149,11 @@
             <pubDate>Sat, 12 Jun 2021 19:44:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Children perform for G7 leaders' partners at Minack Theatre]]></title>
-            <description><![CDATA[The G7 leaders' partners watched a special performance about plastic pollution by schoolchildren.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cornwall-57454326</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-57454326</guid>
-            <pubDate>Sat, 12 Jun 2021 17:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From garden chairs to boxes: Five items in short supply]]></title>
-            <description><![CDATA[A combination of Covid, Brexit and the Suez Canal delays threaten to disrupt supplies this summer.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57433224</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57433224</guid>
-            <pubDate>Fri, 11 Jun 2021 21:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Wales v Switzerland draw 'a pretty decent result']]></title>
-            <description><![CDATA[More than 3,000 miles away from the action in Baku, fans in Wales react to the result.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57453705</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57453705</guid>
-            <pubDate>Sat, 12 Jun 2021 16:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunrise social: 'It's great for your mental health']]></title>
-            <description><![CDATA[A group of young people are combating loneliness by getting together to watch the sun rise.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57435053</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57435053</guid>
-            <pubDate>Sat, 12 Jun 2021 06:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I could be with people and still feel alone']]></title>
-            <description><![CDATA[It's been a difficult year for US college students. This is Ana Carmona's story.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57434784</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57434784</guid>
-            <pubDate>Fri, 11 Jun 2021 23:37:21 GMT</pubDate>
+            <title><![CDATA[The Papers: 'Miracle on the turf' and six-week window to open up]]></title>
+            <description><![CDATA[Denmark midfielder Christian Eriksen collapsing during a Euro 2020 match is among the front-page stories.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57457288</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57457288</guid>
+            <pubDate>Sun, 13 Jun 2021 04:25:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harry Dunn and the complex world of diplomatic immunity]]></title>
@@ -196,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/uk-57436513</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57436513</guid>
             <pubDate>Fri, 11 Jun 2021 05:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Humpback whale gulps and spits out Cape Cod lobsterman]]></title>
-            <description><![CDATA[Michael Packard ended up in the marine giant's mouth for about half a minute off Massachusetts.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57450685</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57450685</guid>
-            <pubDate>Sat, 12 Jun 2021 00:47:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six flashbacks that unlocked a man's memory, and the 80s song that helped]]></title>
@@ -275,25 +233,11 @@
             <pubDate>Sun, 13 Jun 2021 11:07:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[From Gazza to Euro 2020 - England's highs and lows]]></title>
-            <description><![CDATA[BBC Sport takes a look back through time at England in major tournaments. From Gascoigne's goal against Scotland in Euro 96 all the way through to the present day.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57460842</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57460842</guid>
-            <pubDate>Sun, 13 Jun 2021 11:19:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['It's time for me to go for my chances' - Tsitsipas takes on Djokovic in Paris final]]></title>
-            <description><![CDATA[Novak Djokovic goes for his 19th Grand Slam title in Sunday's French Open final, where Greek opponent Stefanos Tsitsipas bids for his first.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57448994</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57448994</guid>
-            <pubDate>Sat, 12 Jun 2021 19:10:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Tension watching Wales' game with Switzerland was unbearable']]></title>
-            <description><![CDATA[Former Wales captain and BBC Sport columnist Ashley Williams says watching his team as a fan and pundit was just as tough as being on the pitch.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57435706</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57435706</guid>
-            <pubDate>Sun, 13 Jun 2021 05:46:24 GMT</pubDate>
+            <title><![CDATA[French Open champion Krejcikova completes rare double]]></title>
+            <description><![CDATA[Barbora Krejcikova completes a rare feat at the French Open by adding the women's doubles title to her singles success.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57460937</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57460937</guid>
+            <pubDate>Sun, 13 Jun 2021 12:02:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v New Zealand: Tourists round off eight-wicket victory to seal series win]]></title>
@@ -308,6 +252,20 @@
             <link>https://www.bbc.co.uk/sport/av/football/57456984</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57456984</guid>
             <pubDate>Sat, 12 Jun 2021 20:35:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Romelu Lukaku pays tribute to Christian Eriksen after scoring against Russia]]></title>
+            <description><![CDATA[Romelu Lukaku pays tribute to Christian Eriksen after scoring against Russia, to give Belgium their first goal of the night at Euro 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57457262</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57457262</guid>
+            <pubDate>Sat, 12 Jun 2021 21:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It's time for me to go for my chances' - Tsitsipas takes on Djokovic in Paris final]]></title>
+            <description><![CDATA[Novak Djokovic goes for his 19th Grand Slam title in Sunday's French Open final, where Greek opponent Stefanos Tsitsipas bids for his first.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57448994</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57448994</guid>
+            <pubDate>Sat, 12 Jun 2021 19:10:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When could social distancing end?]]></title>
