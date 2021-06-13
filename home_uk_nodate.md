@@ -7,7 +7,7 @@
 7. [Disruption to shipping could delay Christmas orders](https://www.bbc.co.uk/news/business-57446437) - Global transport of goods has suffered blockages, delays and bottlenecks and won't be resolved quickly.
 8. [Covid: PM promises caution over 21 June lockdown end](https://www.bbc.co.uk/news/uk-politics-57454258) - Boris Johnson says it is vital any changes are "irreversible", amid rising Delta variant cases.
 9. [G7: PM pledges to protect UK integrity amid EU row](https://www.bbc.co.uk/news/uk-politics-57453004) - Boris Johnson calls for "pragmatic solutions" to the need for checks on goods going to Northern Ireland.
-10. ['We'll lose thousands if wedding rules don't change'](https://www.bbc.co.uk/news/business-57443284) - Rules on weddings were to be relaxed on 21 June, but a rise in Covid cases could ruin 'the big day'.
+10. [Couples may lose thousands if wedding rules don't change](https://www.bbc.co.uk/news/business-57443284) - Rules on weddings were to be relaxed on 21 June, but a rise in Covid cases could ruin 'the big day'.
 11. [Swiss to vote in pesticide ban referendum](https://www.bbc.co.uk/news/world-europe-57457384) - Supporters say pesticides damage the environment, but farmers warn they could lose their livelihoods.
 12. [E3 2021: Ubisoft kicks off event with Avatar and Mario + Rabbids reveals](https://www.bbc.co.uk/news/technology-57457248) - A new game based in James Cameron's movie, a Mario + Rabbids sequel, and Rainbow Six started off E3.
 13. [SLS: First view of Nasa's assembled 'megarocket'](https://www.bbc.co.uk/news/science-environment-57446686) - Nasa has assembled the key elements of its powerful SLS rocket.
