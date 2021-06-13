@@ -11,30 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Jun 2021 22:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 23:19:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Boris Johnson to announce whether 21 June easing to go ahead]]></title>
+            <description><![CDATA[Many scientists have said it should be delayed amid rising cases but businesses say this would cost jobs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57464097</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57464097</guid>
+            <pubDate>Sun, 13 Jun 2021 23:02:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[G7: World leaders promise one billion Covid vaccine doses for poorer nations]]></title>
             <description><![CDATA[PM Boris Johnson rejects criticism the donation is not enough, saying "we are going flat out".]]></description>
             <link>https://www.bbc.co.uk/news/uk-57461640</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57461640</guid>
             <pubDate>Sun, 13 Jun 2021 17:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Final decision on 21 June easing not taken yet, Boris Johnson says]]></title>
-            <description><![CDATA[Ministers are still looking at the data ahead of an announcement on Monday, Boris Johnson says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57459373</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57459373</guid>
-            <pubDate>Sun, 13 Jun 2021 17:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Queen meets Joe Biden at Windsor Castle]]></title>
-            <description><![CDATA[The US president's visit included a Guard of Honour and afternoon tea with the monarch.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57461257</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57461257</guid>
-            <pubDate>Sun, 13 Jun 2021 18:25:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu out as new Israeli government approved]]></title>
@@ -44,18 +37,25 @@
             <pubDate>Sun, 13 Jun 2021 21:11:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jess Phillips: Ditch HPV stigma to avoid the shame I felt]]></title>
+            <description><![CDATA[With more women being told they have the virus, Jess Phillips says there needs to be more discussion.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57438881</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57438881</guid>
+            <pubDate>Sun, 13 Jun 2021 23:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blood donation: Gay couple 'thrilled' after rules change]]></title>
+            <description><![CDATA[Until now men who have sex with men had to wait three months before donating.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57445053</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57445053</guid>
+            <pubDate>Sun, 13 Jun 2021 20:58:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020: England's opening win relieves tension, says Gareth Southgate]]></title>
             <description><![CDATA[Gareth Southgate says the pressure would have "ramped up" if England had not won their opening Euro 2020 game against Croatia.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57462180</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57462180</guid>
             <pubDate>Sun, 13 Jun 2021 16:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netherlands 3-2 Ukraine: Denzel Dumfries heads winner to settle thriller]]></title>
-            <description><![CDATA[Denzel Dumfries heads a dramatic late winner to earn the Netherlands victory after Ukraine come back from 2-0 down in a Group C thriller in Amsterdam.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/51197759</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51197759</guid>
-            <pubDate>Sun, 13 Jun 2021 22:48:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[G7 summit: Northern Ireland part of one great indivisible UK, says PM]]></title>
@@ -72,6 +72,13 @@
             <pubDate>Sun, 13 Jun 2021 18:09:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Queen meets Joe Biden at Windsor Castle]]></title>
+            <description><![CDATA[The US president's visit included a Guard of Honour and afternoon tea with the monarch.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57461257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57461257</guid>
+            <pubDate>Sun, 13 Jun 2021 18:25:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[G7 summit: Biden says America is back at the table]]></title>
             <description><![CDATA[The US president praises the three-day summit and seeks to distance himself from his predecessor.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57462047</link>
@@ -79,11 +86,11 @@
             <pubDate>Sun, 13 Jun 2021 16:49:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Swiss voters reject key climate change measures]]></title>
-            <description><![CDATA[In a shock result, voters narrowly reject a tax on flights and a fuel levy among other policies.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57457384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57457384</guid>
-            <pubDate>Sun, 13 Jun 2021 17:24:45 GMT</pubDate>
+            <title><![CDATA[Netherlands 3-2 Ukraine: Denzel Dumfries heads winner to settle thriller]]></title>
+            <description><![CDATA[Denzel Dumfries heads a dramatic late winner to earn the Netherlands victory after Ukraine come back from 2-0 down in a Group C thriller in Amsterdam.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51197759</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51197759</guid>
+            <pubDate>Sun, 13 Jun 2021 22:48:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JD Sports faces investor backlash over boss's bonus]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57463708</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57463708</guid>
             <pubDate>Sun, 13 Jun 2021 20:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French Open 2021: Novak Djokovic outlasts Stefanos Tsitsipas for 19th Grand Slam title]]></title>
-            <description><![CDATA[Novak Djokovic wins his 19th Grand Slam title after fighting back from two sets down to beat Stefanos Tsitsipas in the French Open final.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57461952</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57461952</guid>
-            <pubDate>Sun, 13 Jun 2021 18:49:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: One last heave to freedom and magic boots of England]]></title>
@@ -184,6 +184,27 @@
             <pubDate>Sat, 12 Jun 2021 23:29:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Southgate got the big calls exactly right against Croatia']]></title>
+            <description><![CDATA[England boss Gareth Southgate's opening team selection of Euro 2020 offered up plenty of debating points - but he got it right, says Phil McNulty.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57462001</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57462001</guid>
+            <pubDate>Sun, 13 Jun 2021 16:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Goals, glory and late drama - Netherlands-Ukraine a match to savour after harrowing 36 hours]]></title>
+            <description><![CDATA[After a harrowing 36 hours for European football following Christian Eriksen's collapse, the Netherland and Ukraine served up a Euro 2020 classic.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57464514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57464514</guid>
+            <pubDate>Sun, 13 Jun 2021 23:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Everything is possible' - Djokovic targets 'golden' Grand Slam after Paris win]]></title>
+            <description><![CDATA[Novak Djokovic says "everything is possible" as he targets a 'golden' Grand Slam in 2021 after winning the French Open for the second time.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57461959</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57461959</guid>
+            <pubDate>Sun, 13 Jun 2021 21:25:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Denmark midfielder Eriksen suffered cardiac arrest - doctor]]></title>
             <description><![CDATA[Christian Eriksen suffered a cardiac arrest when he collapsed in Denmark's Euro 2020 match against Finland, says Danish team doctor Morten Boesen.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57458630</link>
@@ -198,25 +219,11 @@
             <pubDate>Sun, 13 Jun 2021 18:09:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Konta wins Nottingham Open for first title in four years]]></title>
-            <description><![CDATA[Britain's Johanna Konta wins her first title in four years by beating China's Shuai Zhang to clinch the Nottingham Open.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57457123</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57457123</guid>
-            <pubDate>Sun, 13 Jun 2021 13:54:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robertson tells Scotland to believe they belong after '23 long years of waiting']]></title>
-            <description><![CDATA[Captain Andy Robertson has urged Scotland to believe they belong on the big stage as they prepare to end "23 long years of waiting".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/51197776</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51197776</guid>
-            <pubDate>Sun, 13 Jun 2021 19:49:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020 England 1-0 Croatia: Raheem Sterling goal seals opening-game win for England]]></title>
-            <description><![CDATA[Raheem Sterling's first major tournament goal helps England to victory in their opening game of Euro 2020 campaign, winning 1-0 against Croatia at Wembley.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57461626</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57461626</guid>
-            <pubDate>Sun, 13 Jun 2021 15:12:47 GMT</pubDate>
+            <title><![CDATA[Neymar stars as hosts Brazil win Copa America opener]]></title>
+            <description><![CDATA[Hosts Brazil begin their Copa America title defence with victory over a Covid-affected Venezuela in the tournament's opening match.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57464117</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57464117</guid>
+            <pubDate>Sun, 13 Jun 2021 23:08:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When could social distancing end?]]></title>
