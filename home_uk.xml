@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Jun 2021 23:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 23:56:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Sun, 13 Jun 2021 23:02:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[G7: World leaders promise one billion Covid vaccine doses for poorer nations]]></title>
-            <description><![CDATA[PM Boris Johnson rejects criticism the donation is not enough, saying "we are going flat out".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57461640</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57461640</guid>
-            <pubDate>Sun, 13 Jun 2021 17:54:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Netanyahu out as new Israeli government approved]]></title>
             <description><![CDATA[Benjamin Netanyahu loses his 12-year hold on power as a new Israeli government is approved.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57462470</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57462470</guid>
             <pubDate>Sun, 13 Jun 2021 21:11:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopian migrants face robbery, extortion and starvation]]></title>
+            <description><![CDATA[Every year thousands of migrants risk it all on the perilous journey from Ethiopia to Saudi Arabia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57447744</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57447744</guid>
+            <pubDate>Sun, 13 Jun 2021 23:06:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jess Phillips: Ditch HPV stigma to avoid the shame I felt]]></title>
@@ -58,11 +58,18 @@
             <pubDate>Sun, 13 Jun 2021 16:28:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[G7 summit: Northern Ireland part of one great indivisible UK, says PM]]></title>
-            <description><![CDATA[The comments come after the French president allegedly said Northern Ireland was not part of the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57460077</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57460077</guid>
-            <pubDate>Sun, 13 Jun 2021 15:57:02 GMT</pubDate>
+            <title><![CDATA[G7: World leaders promise one billion Covid vaccine doses for poorer nations]]></title>
+            <description><![CDATA[PM Boris Johnson rejects criticism the donation is not enough, saying "we are going flat out".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57461640</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57461640</guid>
+            <pubDate>Sun, 13 Jun 2021 17:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sinn Féin accuses the DUP of acting in bad faith over Irish language]]></title>
+            <description><![CDATA[The party does not believe the DUP will deliver on Irish language legislation, a source says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57460586</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57460586</guid>
+            <pubDate>Sun, 13 Jun 2021 14:22:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Fan in serious condition after falling at Wembley]]></title>
@@ -86,18 +93,11 @@
             <pubDate>Sun, 13 Jun 2021 16:49:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Netherlands 3-2 Ukraine: Denzel Dumfries heads winner to settle thriller]]></title>
-            <description><![CDATA[Denzel Dumfries heads a dramatic late winner to earn the Netherlands victory after Ukraine come back from 2-0 down in a Group C thriller in Amsterdam.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/51197759</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51197759</guid>
-            <pubDate>Sun, 13 Jun 2021 22:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JD Sports faces investor backlash over boss's bonus]]></title>
-            <description><![CDATA[Peter Cowgill was awarded £4.3m despite the retailer accepting Covid support from the government.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57459381</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57459381</guid>
-            <pubDate>Sun, 13 Jun 2021 15:40:50 GMT</pubDate>
+            <title><![CDATA[Renting now cheaper than buying a home, Hamptons says]]></title>
+            <description><![CDATA[There are only four regions in the UK where it is cheaper to buy a home than to rent a property.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57464534</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57464534</guid>
+            <pubDate>Sun, 13 Jun 2021 23:45:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Madrid protests: Thousands rally against Catalan pardons]]></title>
@@ -112,6 +112,20 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57464374</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57464374</guid>
             <pubDate>Sun, 13 Jun 2021 22:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ASMR: Former farmer, 84, is accidental YouTube star]]></title>
+            <description><![CDATA[John Butler's videos have been watched by millions after he became popular with the ASMR community.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-57402080</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-57402080</guid>
+            <pubDate>Sun, 13 Jun 2021 23:02:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Really, really rare’ seahorse spotted off UK coast]]></title>
+            <description><![CDATA[A marine biologist says it’s the first time he’s ever seen a long-snouted seahorse in the wild.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57448237</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57448237</guid>
+            <pubDate>Sun, 13 Jun 2021 23:04:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[E3 2021: Microsoft shows off Halo Infinite, Starfield and Forza Horizon 5]]></title>
@@ -142,11 +156,11 @@
             <pubDate>Sun, 13 Jun 2021 06:18:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Couples may lose thousands if wedding rules don't change]]></title>
-            <description><![CDATA[Rules on weddings were to be relaxed on 21 June, but a rise in Covid cases could ruin 'the big day'.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57443284</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57443284</guid>
-            <pubDate>Sat, 12 Jun 2021 23:05:35 GMT</pubDate>
+            <title><![CDATA['We want another homeless hotel - and we can make it work']]></title>
+            <description><![CDATA[The Holiday Inn in Gorton, Manchester, housed homeless people throughout the pandemic, until the end of May.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-57448625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57448625</guid>
+            <pubDate>Sun, 13 Jun 2021 23:50:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu: A shrewd leader who reshaped Israel]]></title>
@@ -217,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/football/57458630</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57458630</guid>
             <pubDate>Sun, 13 Jun 2021 14:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neymar stars as hosts Brazil win Copa America opener]]></title>
-            <description><![CDATA[Hosts Brazil begin their Copa America title defence with victory over a Covid-affected Venezuela in the tournament's opening match.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57464117</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57464117</guid>
-            <pubDate>Sun, 13 Jun 2021 23:08:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When could social distancing end?]]></title>
