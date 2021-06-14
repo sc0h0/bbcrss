@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Jun 2021 08:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jun 2021 08:54:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -198,13 +198,6 @@
             <pubDate>Sun, 13 Jun 2021 23:10:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: England put a smile on our faces against Croatia - Alan Shearer]]></title>
-            <description><![CDATA[Former England captain and BBC Sport columnist Alan Shearer says Sunday's win over Croatia was a reminder of how England can benefit from playing at Wembley.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57436324</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57436324</guid>
-            <pubDate>Mon, 14 Jun 2021 05:58:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why Scotland can surprise everyone at Euro 2020]]></title>
             <description><![CDATA[BBC Sport Scotland columnist James McFadden sets the scene for Scotland's Euro 2020 opener versus the Czech Republic.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57461842</link>
@@ -245,6 +238,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/57461974</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57461974</guid>
             <pubDate>Sun, 13 Jun 2021 23:37:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Biffy Clyro chart Scotland's long wait for a major men's tournament]]></title>
+            <description><![CDATA[Rock band Biffy Clyro chart Scotland's long and painful wait to play at a major international men's football tournament with a special performance of 'Now I'm Everyone'.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57456338</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57456338</guid>
+            <pubDate>Mon, 14 Jun 2021 06:57:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Is there a limit to how much worse variants can get?]]></title>
@@ -338,18 +338,18 @@
             <pubDate>Sun, 13 Jun 2021 15:16:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Euro 2020: England put a smile on our faces against Croatia - Alan Shearer]]></title>
+            <description><![CDATA[Former England captain and BBC Sport columnist Alan Shearer says Sunday's win over Croatia was a reminder of how England can benefit from playing at Wembley.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57436324</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57436324</guid>
+            <pubDate>Mon, 14 Jun 2021 05:58:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020 England 1-0 Croatia: Raheem Sterling was brightest spark - Rio Ferdinand]]></title>
             <description><![CDATA[BBC Sport pundit Rio Ferdinand says Raheem Sterling "was the brightest spark" in England's opening game against Croatia.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57462922</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57462922</guid>
             <pubDate>Sun, 13 Jun 2021 15:47:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain v Sweden]]></title>
-            <description><![CDATA[Preview followed by live coverage of Monday's European Championship game between Spain and Sweden.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/51197790</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51197790</guid>
-            <pubDate>Sun, 13 Jun 2021 12:59:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
