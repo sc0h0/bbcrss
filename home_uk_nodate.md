@@ -39,7 +39,7 @@
 39. [Covid symptoms: Is it a cold or coronavirus?](https://www.bbc.co.uk/news/health-54145299) - With similar symptoms, deciding whether or not you need to get tested for coronavirus can be tricky.
 40. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - As lockdown restrictions ease gradually across the UK, what are the rules about returning to work?
 41. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-42. [When could social distancing end?](https://www.bbc.co.uk/news/uk-51506729) - Will we still need to be socially distanced through the summer? A social distancing review is advising the government.
+42. [What are the social distancing rules and when could they end?](https://www.bbc.co.uk/news/uk-51506729) - Will we still need to be socially distanced through the summer? A social distancing review is advising the government.
 43. [Covid map: Coronavirus cases, deaths, vaccinations by country](https://www.bbc.co.uk/news/world-51235105) - Key maps and charts explaining how the virus has spread around the world.
 44. [Covid: How should I protect myself from Covid now?](https://www.bbc.co.uk/news/health-57087517) - What are the actions we can take to reduce our risk of catching the virus?
 45. [Lockdown easing: Four numbers to look for ahead of the 21 June decision](https://www.bbc.co.uk/news/57403888) - The key numbers that offer clues as to whether "freedom day" will proceed as planned on 21 June.
