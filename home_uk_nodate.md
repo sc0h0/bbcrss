@@ -1,4 +1,4 @@
-1. [Covid: Lockdown easing in England to be delayed by four weeks](https://www.bbc.co.uk/news/uk-57464097) - Most current Covid restrictions will remain for four weeks after 21 June, government sources say.
+1. [Covid: Lockdown easing in England to be delayed by four weeks](https://www.bbc.co.uk/news/uk-57464097) - Most current Covid rules will remain for four more weeks after 21 June, government sources say.
 2. [Israel's new PM Naftali Bennett promises to unite nation](https://www.bbc.co.uk/news/world-middle-east-57464794) - His pledge comes as his government is voted in, ending Benjamin Netanyahu's 12-year hold on power.
 3. [Ethiopian migrants face robbery, extortion and starvation](https://www.bbc.co.uk/news/world-africa-57447744) - Every year thousands of migrants risk it all on the perilous journey from Ethiopia to Saudi Arabia.
 4. [Jess Phillips: Ditch HPV stigma to avoid the shame I felt](https://www.bbc.co.uk/news/uk-57438881) - With more women being told they have the virus, Jess Phillips says there needs to be more discussion.
