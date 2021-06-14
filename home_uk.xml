@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Jun 2021 11:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jun 2021 11:41:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -212,13 +212,6 @@
             <pubDate>Sun, 13 Jun 2021 19:49:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘None of the options were good’ after Eriksen collapse – playing match was ‘least bad']]></title>
-            <description><![CDATA[Denmark forward Martin Braithwaite says the decision to resume Denmark's Euro 2020 opener against Finland following Christian Eriksen's cardiac arrest was the "least bad one".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57468439</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57468439</guid>
-            <pubDate>Mon, 14 Jun 2021 11:08:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Our time is here. This is Scotland's moment']]></title>
             <description><![CDATA[BBC Sport Scotland columnist James McFadden sets the scene for Scotland's Euro 2020 opener versus the Czech Republic.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57461842</link>
@@ -238,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/57461974</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57461974</guid>
             <pubDate>Sun, 13 Jun 2021 23:37:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Biffy Clyro chart Scotland's long wait for a major men's tournament]]></title>
+            <description><![CDATA[Rock band Biffy Clyro chart Scotland's long and painful wait to play at a major international men's football tournament with a special performance of 'Now I'm Everyone'.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57456338</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57456338</guid>
+            <pubDate>Mon, 14 Jun 2021 06:57:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
@@ -331,11 +331,11 @@
             <pubDate>Sun, 13 Jun 2021 16:59:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Christian Eriksen collapse: Denmark coach regrets restart v Finland]]></title>
-            <description><![CDATA[The Euro 2020 match against Finland should not have restarted after midfielder Christian Eriksen collapsed, says Denmark coach Kasper Hjulmand.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57458978</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57458978</guid>
-            <pubDate>Sun, 13 Jun 2021 15:16:28 GMT</pubDate>
+            <title><![CDATA[Christian Eriksen: Resuming Denmark-Finland match was 'least bad decision', says Martin Braithwaite]]></title>
+            <description><![CDATA[Denmark forward Martin Braithwaite says the decision to resume Denmark's Euro 2020 opener against Finland following Christian Eriksen's cardiac arrest was the "least bad one".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57468439</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57468439</guid>
+            <pubDate>Mon, 14 Jun 2021 11:08:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: England put a smile on our faces against Croatia - Alan Shearer]]></title>
