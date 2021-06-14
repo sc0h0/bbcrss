@@ -4,7 +4,7 @@
 4. [Jess Phillips: Ditch HPV stigma to avoid the shame I felt](https://www.bbc.co.uk/news/uk-57438881) - With more women being told they have the virus, Jess Phillips says there needs to be more discussion.
 5. [Covid-19: Lifting lockdown delay, and renting now cheaper than buying](https://www.bbc.co.uk/news/uk-57462782) - Five things you need to know about the coronavirus pandemic this Monday morning.
 6. [Blood donation: Gay couple 'thrilled' after rules change](https://www.bbc.co.uk/news/uk-wales-57445053) - Until now men who have sex with men had to wait three months before donating.
-7. [Buxted FC: Vandals smash defibrillator kit after Eriksen collapse](https://www.bbc.co.uk/news/uk-england-sussex-57466276) - The "heartbreaking" attack came hours after Christian Eriksen suffered a cardiac arrest in a game.
+7. [Buxted FC: Vandals smash defibrillator kit after Eriksen collapse](https://www.bbc.co.uk/news/uk-england-sussex-57466276) - A 17-year-old boy is being held on suspicion of causing criminal damage after Sunday's attack.
 8. [WhatsApp launches privacy campaign after backlash](https://www.bbc.co.uk/news/technology-57440405) - The head of WhatsApp says governments should "demand more security" as encryption comes under fire.
 9. [G7: World leaders promise one billion Covid vaccine doses for poorer nations](https://www.bbc.co.uk/news/uk-57461640) - PM Boris Johnson rejects criticism the donation is not enough, saying "we are going flat out".
 10. [Arlene Foster due to quit as Northern Ireland first minister](https://www.bbc.co.uk/news/uk-northern-ireland-57464224) - Doubts emerge about whether Sinn Féin will support the DUP's Paul Givan as Mrs Foster's successor.
