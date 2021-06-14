@@ -5,7 +5,7 @@
 5. [Blood donation: Gay couple 'thrilled' after rules change](https://www.bbc.co.uk/news/uk-wales-57445053) - Until now men who have sex with men had to wait three months before donating.
 6. [Euro 2020: England's opening win relieves tension, says Gareth Southgate](https://www.bbc.co.uk/sport/football/57462180) - Gareth Southgate says the pressure would have "ramped up" if England had not won their opening Euro 2020 game against Croatia.
 7. [G7: World leaders promise one billion Covid vaccine doses for poorer nations](https://www.bbc.co.uk/news/uk-57461640) - PM Boris Johnson rejects criticism the donation is not enough, saying "we are going flat out".
-8. [Sinn Féin accuses the DUP of acting in bad faith over Irish language](https://www.bbc.co.uk/news/uk-northern-ireland-57460586) - The party does not believe the DUP will deliver on Irish language legislation, a source says.
+8. [Arlene Foster due to quit as Northern Ireland first minister](https://www.bbc.co.uk/news/uk-northern-ireland-57464224) - Doubts emerge about whether Sinn Féin will support the DUP's Paul Givan as Mrs Foster's successor.
 9. [Euro 2020: Fan in serious condition after falling at Wembley](https://www.bbc.co.uk/news/uk-england-london-57461747) - The England supporter was injured just after kick-off in England's match at Wembley against Croatia.
 10. [WhatsApp launches privacy campaign after backlash](https://www.bbc.co.uk/news/technology-57440405) - The head of WhatsApp says governments should "demand more security" as encryption comes under fire.
 11. [Renting now cheaper than buying a home, Hamptons says](https://www.bbc.co.uk/news/business-57464534) - There are only four regions in the UK where it is cheaper to buy a home than to rent a property.
