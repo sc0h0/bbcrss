@@ -1,4 +1,4 @@
-1. [Covid: Lockdown easing in England delayed to 19 July](https://www.bbc.co.uk/news/uk-57476776) - Most remaining curbs on social contact will continue - but the cap on wedding guests will be lifted.
+1. [Covid: Matt Hancock doesn't expect further delay to lifting restrictions](https://www.bbc.co.uk/news/uk-57478760) - Covid restrictions will remain in England until 19 July, but some Tory MPs fear it could be longer.
 2. [UK and Australia agree broad terms of trade deal](https://www.bbc.co.uk/news/business-57478412) - Broad terms of UK-Australia trade deal agreed, BBC understands, with formal announcement expected on Tuesday
 3. [Secrets of tiny diving mammals revealed](https://www.bbc.co.uk/news/science-environment-57470976) - Biologists have uncovered the genetic secrets of water shrews, the world's smallest diving mammals.
 4. [US model Chrissy Teigen apologises for online 'trolling'](https://www.bbc.co.uk/news/entertainment-arts-57478066) - It comes a month after Teigen apologised to TV personality Courtney Stodden for online bullying.
