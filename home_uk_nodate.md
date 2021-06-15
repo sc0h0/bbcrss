@@ -1,4 +1,4 @@
-1. [Daniel Morgan: Met Police accused of corruption in report](https://www.bbc.co.uk/news/uk-57484219) - Daniel Morgan, a private investigator, was found dead in a pub car park with an axe in his head.
+1. [Daniel Morgan: Met Police accused of corruption in report](https://www.bbc.co.uk/news/uk-57484219) - Daniel Morgan's family are owed an apology over the way the Met handled his murder, a report finds.
 2. [Covid: PM insists July unlocking will go ahead in England](https://www.bbc.co.uk/news/uk-57478760) - But scientists warn a rise in deaths could derail the plan, and some MPs fear a further delay.
 3. [UK and Australia in first post-Brexit trade deal](https://www.bbc.co.uk/news/business-57478412) - The pact - the first built from scratch since leaving the EU - includes Scotch whisky and biscuits.
 4. [Christian Eriksen 'fine under circumstances' after cardiac arrest at Euro 2020](https://www.bbc.co.uk/sport/football/57480130) - Denmark midfielder Christian Eriksen says he is "fine under the circumstances" as he continues his recovery from a cardiac arrest.
@@ -7,7 +7,7 @@
 7. [Ex-BBC boss Tony Hall: Wrong not to sack Bashir after Diana interview](https://www.bbc.co.uk/news/entertainment-arts-57481098) - Former director general Tony Hall says of Martin Bashir: "We trusted him, and we... shouldn't have."
 8. [Apple and Google investigated by UK competition body](https://www.bbc.co.uk/news/technology-57484720) - The UK competition authority says it has launched an investigation into the mobile phone market.
 9. [In The Heights: Lin-Manuel Miranda sorry for lack of Afro-Latinos](https://www.bbc.co.uk/news/entertainment-arts-57481316) - In The Heights creator Lin-Manuel Miranda says his film "fell short" in the diversity of its cast.
-10. [South Africa: Unidentified stones spark 'diamond rush'](https://www.bbc.co.uk/news/world-africa-57483877) - Many of those digging in KwaHlathi village in South Africa believe the stones are precious jewels.
+10. [South Africa: Unidentified stones spark hopes of a diamond rush](https://www.bbc.co.uk/news/world-africa-57483877) - Many of those digging in KwaHlathi village in South Africa believe the stones are precious jewels.
 11. [Web founder Berners-Lee to auction source code as NFT](https://www.bbc.co.uk/news/technology-57474504) - Sir Tim Berners-Lee, creator of the web, is auctioning off a digital certificate for his code.
 12. [Pangolin: How do you save the 'world’s most trafficked mammal'?](https://www.bbc.co.uk/news/science-environment-57477560) - Thai has dedicated his life to educating the Vietnamese public about pangolin conservation.
 13. [Wedding can go ahead despite lockdown easing delay](https://www.bbc.co.uk/news/uk-57478526) - Watch the moment a young couple find out they can have a full-scale wedding next week.
