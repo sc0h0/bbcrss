@@ -1,5 +1,5 @@
 1. [Daniel Morgan: Met Police accused of 'form of corruption' in report](https://www.bbc.co.uk/news/uk-57484219) - Daniel Morgan's family are owed an apology over the way the Met handled his murder, a report finds.
-2. [Scottish lockdown easing to be delayed until July](https://www.bbc.co.uk/news/uk-scotland-57487533) - The whole country had originally been due to move to the lowest level zero restrictions on 28 June.
+2. [Scottish lockdown easing to be delayed until July](https://www.bbc.co.uk/news/uk-scotland-57487533) - The whole country had been due to move to the lowest level zero restrictions on 28 June.
 3. [Australia trade deal will not hit UK farmers, says Liz Truss](https://www.bbc.co.uk/news/business-57478412) - The trade secretary denies Australian beef imports will flood the UK and says export markets will grow.
 4. [Christian Eriksen 'fine under circumstances' after cardiac arrest at Euro 2020](https://www.bbc.co.uk/sport/football/57480130) - Denmark midfielder Christian Eriksen says he is "fine under the circumstances" as he continues his recovery from a cardiac arrest.
 5. [Boris Johnson condemns 'disgraceful hounding' of BBC journalist](https://www.bbc.co.uk/news/uk-politics-57486222) - A clip shared on social media shows Newsnight's Nick Watt being harassed by anti-lockdown protesters.
