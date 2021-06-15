@@ -1,5 +1,5 @@
 1. [Daniel Morgan: Met Police accused of 'form of corruption' in report](https://www.bbc.co.uk/news/uk-57484219) - The Met's top officer Dame Cressida Dick has apologised to the Morgan family in the wake of the report.
-2. [Covid jab 'compulsory' for England care home staff](https://www.bbc.co.uk/news/uk-57492264) - The government will announce the measure in the next few days, the BBC understands.
+2. [Covid jab to be required for England care home staff](https://www.bbc.co.uk/news/uk-57492264) - Workers will be given 16 weeks to have the jab - or risk losing their job, the BBC understands.
 3. [Scottish lockdown easing to be delayed until July](https://www.bbc.co.uk/news/uk-scotland-57487533) - The whole country had been due to move to the lowest level zero restrictions on 28 June.
 4. [Boris Johnson condemns 'disgraceful hounding' of BBC journalist](https://www.bbc.co.uk/news/uk-politics-57486222) - A clip shared on social media shows Newsnight's Nick Watt being harassed by anti-lockdown protesters.
 5. [Illinois chemical plant fire being left to burn out to stop spillage into river](https://www.bbc.co.uk/news/world-us-canada-57487041) - Fire crews in Illinois are managing the blaze to avoid water laced with chemicals running into the nearby river.
