@@ -1,4 +1,4 @@
-1. [Daniel Morgan: Met Police accused of 'form of corruption' in report](https://www.bbc.co.uk/news/uk-57484219) - Daniel Morgan, a private investigator, was found dead in a pub car park with an axe in his head.
+1. [Daniel Morgan: Met Police accused of corruption in report](https://www.bbc.co.uk/news/uk-57484219) - Daniel Morgan, a private investigator, was found dead in a pub car park with an axe in his head.
 2. [Covid: PM insists July unlocking will go ahead in England](https://www.bbc.co.uk/news/uk-57478760) - But scientists warn a rise in deaths could derail the plan, and some MPs fear a further delay.
 3. [UK and Australia in first post-Brexit trade deal](https://www.bbc.co.uk/news/business-57478412) - The pact - the first built from scratch since leaving the EU - includes Scotch whisky and biscuits.
 4. [Christian Eriksen 'fine under circumstances' after cardiac arrest at Euro 2020](https://www.bbc.co.uk/sport/football/57480130) - Denmark midfielder Christian Eriksen says he is "fine under the circumstances" as he continues his recovery from a cardiac arrest.
@@ -19,7 +19,7 @@
 19. [‘Really, really rare’ seahorse spotted off UK coast](https://www.bbc.co.uk/news/science-environment-57448237) - A marine biologist says it’s the first time he’s ever seen a long-snouted seahorse in the wild.
 20. [Christian Eriksen: What can cause a cardiac arrest?](https://www.bbc.co.uk/news/health-57469627) - Athletes can be more at risk because of stress on their hearts, but they can happen to anyone at any time.
 21. [Maisie Peters: Meet the singer who's been snapped up by Ed Sheeran](https://www.bbc.co.uk/news/entertainment-arts-57468169) - Get to know the 21-year-old whose debut album will be coming out on Ed Sheeran's record label.
-22. [Brexit: What trade deals has the UK done so far?](https://www.bbc.co.uk/news/uk-47213842) - The UK has reached an agreement with Australia - but what other deals have already been made?
+22. [UK-Australia trade deal: What are the arguments for and against?](https://www.bbc.co.uk/news/57173498) - The government has agreed the broad terms of a trade deal with Australia.
 23. [Gigafactories: Europe tools up against US and Asia as a car battery force](https://www.bbc.co.uk/news/business-57382472) - As demand for electric cars grows, giant battery factories are being built across Europe.
 24. [Euro 2020: Scotland 0-2 Czech Republic - 'Painfully familiar, as Scots suffer again'](https://www.bbc.co.uk/sport/football/57471795) - How Scotland's historic day of vibrant pageantry and football fever turned nightmarish at Hampden.
 25. [Nato and climate change: How big is the problem?](https://www.bbc.co.uk/news/world-57476349) - Allied members have agreed to "significantly reduce greenhouse gas emissions from military activities".
@@ -32,7 +32,7 @@
 32. [From teenage tears to European champion: How Cristiano Ronaldo became a Euros legend](https://www.bbc.co.uk/sport/av/football/57449011) - BBC Sport looks at Cristiano Ronaldo's journey at the European Championship, from teenage tears in 2004 against Greece, all the way through to winning the tournament as Portugal's captain at Euro 2016.
 33. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - The government has said some restrictions will stay in place in England after 21 June.
 34. [What are the rules for weddings and can I hold a reception?](https://www.bbc.co.uk/news/explainers-52811509) - Restrictions on weddings have been eased across the UK - so how can you now celebrate?
-35. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - The vaccine is being offered to over-18s in Wales and Northern Ireland, over-25s in England and over-30s in Scotland.
+35. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Over 40s in England and Scotland can have their second dose after eight weeks instead of 12.
 36. [What are the rules for pubs, restaurants, festivals and gigs?](https://www.bbc.co.uk/news/business-52977388) - The lifting of restrictions in England has been delayed, which could affect planned events
 37. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The logistics of vaccinating millions of people across the country, as more than 41 million people receive at least one dose.
 38. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
