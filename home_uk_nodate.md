@@ -1,5 +1,5 @@
 1. [Covid jab to be required for England care home staff](https://www.bbc.co.uk/news/uk-57492264) - Workers are expected be given 16 weeks to have the jab - or risk losing their job, the BBC understands.
-2. [Israel strikes in Gaza after incendiary balloons](https://www.bbc.co.uk/news/world-middle-east-57492745) - It is the first major flare-up since the ceasefire between Israel and Hamas in May.
+2. [Israel strikes in Gaza after arson attacks](https://www.bbc.co.uk/news/world-middle-east-57492745) - It is the first major flare-up since the ceasefire between Israel and Hamas in May.
 3. [Daniel Morgan: Met Police accused of 'form of corruption' in report](https://www.bbc.co.uk/news/uk-57484219) - The Met's top officer Dame Cressida Dick has apologised to the Morgan family in the wake of the report.
 4. [Scottish lockdown easing to be delayed until July](https://www.bbc.co.uk/news/uk-scotland-57487533) - The whole country had been due to move to the lowest level zero restrictions on 28 June.
 5. [Boris Johnson condemns 'disgraceful hounding' of BBC journalist](https://www.bbc.co.uk/news/uk-politics-57486222) - A clip shared on social media shows Newsnight's Nick Watt being harassed by anti-lockdown protesters.
