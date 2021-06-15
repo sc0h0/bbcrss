@@ -1,4 +1,4 @@
-1. [Covid: PM determined restrictions will end on 19 July](https://www.bbc.co.uk/news/uk-57478760) - Current Covid measures will remain in England until then, but some Tory MPs fear it could be longer.
+1. [Covid: PM insists July unlocking will go ahead in England](https://www.bbc.co.uk/news/uk-57478760) - But scientists warn a rise in deaths could derail the plan, and some MPs fear a further delay.
 2. [UK and Australia announce new trade deal](https://www.bbc.co.uk/news/business-57478412) - Downing Street says the pact means UK Scotch whisky and biscuits will be cheaper to sell to Australia.
 3. [UK jobs market 'showing signs of recovery'](https://www.bbc.co.uk/news/business-57480167) - The unemployment rate falls again while the number of job vacancies is rising, official figures show.
 4. [Christian Eriksen 'fine under circumstances' after cardiac arrest at Euro 2020](https://www.bbc.co.uk/sport/football/57480130) - Denmark midfielder Christian Eriksen says he is "fine under the circumstances" as he continues his recovery from a cardiac arrest.
