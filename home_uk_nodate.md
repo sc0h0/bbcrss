@@ -1,9 +1,9 @@
 1. [Covid jab to be required for England care home staff](https://www.bbc.co.uk/news/uk-57492264) - Workers are expected be given 16 weeks to have the jab - or risk losing their job, the BBC understands.
 2. [MPs to vote on delaying England's lockdown easing by four weeks](https://www.bbc.co.uk/news/uk-politics-57486224) - MPs will debate the government's plans to keep restrictions in place until 19 July rather than 21 June.
 3. [Another life-saving Covid treatment found](https://www.bbc.co.uk/news/health-57488150) - Monoclonal antibody therapy, given by drip, can save some of the sickest hospital patients.
-4. [Israel strikes in Gaza after arson balloons launched](https://www.bbc.co.uk/news/world-middle-east-57492745) - It is the first major flare-up since the ceasefire between Israel and Hamas in May.
-5. [UK warned it is unprepared for climate chaos](https://www.bbc.co.uk/news/science-environment-57487943) - Homes need to be more resilient and the government is in a worse position than five years ago, report says.
-6. [Duke's death left giant-sized hole in our lives - Sophie](https://www.bbc.co.uk/news/uk-57489426) - In an interview, the Countess of Wessex says the Covid pandemic made it harder to support the Queen.
+4. [Duke's death left giant-sized hole in our lives - Sophie](https://www.bbc.co.uk/news/uk-57489426) - In an interview, the Countess of Wessex says the Covid pandemic made it harder to support the Queen.
+5. [Israel strikes in Gaza after fire balloons launched](https://www.bbc.co.uk/news/world-middle-east-57492745) - It is the first major flare-up since the ceasefire between Israel and Hamas in May.
+6. [UK warned it is unprepared for climate chaos](https://www.bbc.co.uk/news/science-environment-57487943) - Homes need to be more resilient and the government is in a worse position than five years ago, report says.
 7. [Euro 2020: Wales aim to silence Turkey's 'home' crowd in Baku](https://www.bbc.co.uk/sport/football/51197554) - Wales will aim to "silence" what will effectively be a home crowd for Turkey when they meet in Baku for their second match of Euro 2020.
 8. [Airbnb reportedly pays tourist $7m after rape](https://www.bbc.co.uk/news/business-57487970) - According to reports in Bloomberg, the company paid an Australian traveller after a 2016 attack.
 9. [UK could be left behind in the electric car race, warns report](https://www.bbc.co.uk/news/business-57490100) - The UK might soon be reliant on electric vehicles imported from abroad, warns an influential group.
