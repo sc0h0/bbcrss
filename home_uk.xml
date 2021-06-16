@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Jun 2021 04:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jun 2021 05:23:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Wed, 16 Jun 2021 04:35:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Another life-saving Covid treatment found]]></title>
+            <description><![CDATA[Monoclonal antibody therapy, given by drip, can save some of the sickest hospital patients.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57488150</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57488150</guid>
+            <pubDate>Wed, 16 Jun 2021 05:15:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Israel strikes in Gaza after arson balloons launched]]></title>
             <description><![CDATA[It is the first major flare-up since the ceasefire between Israel and Hamas in May.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57492745</link>
@@ -38,17 +45,17 @@
         </item>
         <item>
             <title><![CDATA[UK warned it is unprepared for climate chaos]]></title>
-            <description><![CDATA[Homes must be made more resilient and the government is in a worse position than five years ago, report says.]]></description>
+            <description><![CDATA[Homes need to be more resilient and the government is in a worse position than five years ago, report says.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57487943</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57487943</guid>
             <pubDate>Wed, 16 Jun 2021 04:16:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tenerife: Protests against violence as search for baby's body continues]]></title>
-            <description><![CDATA[The body of a child is found in the sea off Tenerife, but her sister remains missing, feared murdered.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57489499</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57489499</guid>
-            <pubDate>Tue, 15 Jun 2021 21:19:30 GMT</pubDate>
+            <title><![CDATA[Duke's death left giant-sized hole in our lives - Sophie]]></title>
+            <description><![CDATA[In an interview, the Countess of Wessex says the Covid pandemic made it harder to support the Queen.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57489426</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57489426</guid>
+            <pubDate>Wed, 16 Jun 2021 05:02:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Wales aim to silence Turkey's 'home' crowd in Baku]]></title>
@@ -72,13 +79,6 @@
             <pubDate>Tue, 15 Jun 2021 23:27:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: 'Lost summer' warning as lockdown easing paused]]></title>
-            <description><![CDATA[The hospitality industry's warning came after Nicola Sturgeon said a move to level zero was likely to be delayed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57490729</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57490729</guid>
-            <pubDate>Tue, 15 Jun 2021 21:50:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Unvaccinated passengers from GB to Ireland face 10 day isolation]]></title>
             <description><![CDATA[Arrivals into the Republic of Ireland from GB face 10 days of isolation if they have not been jabbed.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57481167</link>
@@ -86,11 +86,11 @@
             <pubDate>Tue, 15 Jun 2021 16:44:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mustafa al-Darwish: Saudi man executed for crimes committed as a minor]]></title>
-            <description><![CDATA[Rights groups had called for a halt to the execution, saying that he was tortured into a confession.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57492219</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57492219</guid>
-            <pubDate>Tue, 15 Jun 2021 21:53:50 GMT</pubDate>
+            <title><![CDATA[Tenerife: Protests against violence as search for baby's body continues]]></title>
+            <description><![CDATA[The body of a child is found in the sea off Tenerife, but her sister remains missing, feared murdered.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57489499</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57489499</guid>
+            <pubDate>Tue, 15 Jun 2021 21:19:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[British music exports reach a record high]]></title>
@@ -275,11 +275,11 @@
             <pubDate>Tue, 15 Jun 2021 21:06:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020 France 1-0 Germany: Hummels own goal gives France narrow victory]]></title>
-            <description><![CDATA[Watch highlights as a costly Mats Hummels own goal gives France the narrow 1-0 victory against Germany, at the Allianz Arena in Munich during Euro 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57492351</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57492351</guid>
-            <pubDate>Tue, 15 Jun 2021 22:12:48 GMT</pubDate>
+            <title><![CDATA[Euros On This Day - 16 June: NI's GAWA power, Suker's chip & England's late late show]]></title>
+            <description><![CDATA[BBC Sport rounds up the best archive action from 16 June in European Championship history.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/53055737</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/53055737</guid>
+            <pubDate>Wed, 16 Jun 2021 04:59:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US-Russia relations: Adversary or potential partner?]]></title>
