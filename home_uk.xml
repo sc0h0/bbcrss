@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Jun 2021 04:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jun 2021 04:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Wed, 16 Jun 2021 00:40:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MPs to vote on delaying England's lockdown easing by four weeks]]></title>
+            <description><![CDATA[MPs will debate the government's plans to keep restrictions in place until 19 July rather than 21 June.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57486224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57486224</guid>
+            <pubDate>Wed, 16 Jun 2021 04:35:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Israel strikes in Gaza after arson balloons launched]]></title>
             <description><![CDATA[It is the first major flare-up since the ceasefire between Israel and Hamas in May.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57492745</link>
@@ -30,11 +37,11 @@
             <pubDate>Wed, 16 Jun 2021 01:45:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Daniel Morgan: Met Police accused of 'form of corruption' in report]]></title>
-            <description><![CDATA[The Met's top officer Dame Cressida Dick has apologised to the Morgan family in the wake of the report.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57484219</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57484219</guid>
-            <pubDate>Tue, 15 Jun 2021 19:26:36 GMT</pubDate>
+            <title><![CDATA[UK warned it is unprepared for climate chaos]]></title>
+            <description><![CDATA[Homes must be made more resilient and the government is in a worse position than five years ago, report says.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57487943</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57487943</guid>
+            <pubDate>Wed, 16 Jun 2021 04:16:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tenerife: Protests against violence as search for baby's body continues]]></title>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57489499</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57489499</guid>
             <pubDate>Tue, 15 Jun 2021 21:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK could be left behind in the electric car race, warns report]]></title>
-            <description><![CDATA[The UK might soon be reliant on electric vehicles imported from abroad, warns an influential group.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57490100</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57490100</guid>
-            <pubDate>Tue, 15 Jun 2021 23:27:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Wales aim to silence Turkey's 'home' crowd in Baku]]></title>
@@ -65,6 +65,13 @@
             <pubDate>Wed, 16 Jun 2021 02:26:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UK could be left behind in the electric car race, warns report]]></title>
+            <description><![CDATA[The UK might soon be reliant on electric vehicles imported from abroad, warns an influential group.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57490100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57490100</guid>
+            <pubDate>Tue, 15 Jun 2021 23:27:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Scotland: 'Lost summer' warning as lockdown easing paused]]></title>
             <description><![CDATA[The hospitality industry's warning came after Nicola Sturgeon said a move to level zero was likely to be delayed.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57490729</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57481167</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57481167</guid>
             <pubDate>Tue, 15 Jun 2021 16:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: US death toll passes 600,000 as vaccination rate slows]]></title>
-            <description><![CDATA[Amid falling vaccination rates, the US maintains global records for both total cases and deaths.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57473436</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57473436</guid>
-            <pubDate>Tue, 15 Jun 2021 20:09:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mustafa al-Darwish: Saudi man executed for crimes committed as a minor]]></title>
@@ -100,18 +100,18 @@
             <pubDate>Wed, 16 Jun 2021 03:21:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boris Johnson condemns 'disgraceful hounding' of BBC journalist]]></title>
-            <description><![CDATA[A clip shared on social media shows Newsnight's Nick Watt being harassed by anti-lockdown protesters.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57486222</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57486222</guid>
-            <pubDate>Tue, 15 Jun 2021 17:24:55 GMT</pubDate>
+            <title><![CDATA[Barbara Windsor's Carry on Camping bikini sells for £9,500]]></title>
+            <description><![CDATA[The swimsuit, worn by the late actress in a famous Carry on Camping scene, raises money for charity.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57492872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57492872</guid>
+            <pubDate>Wed, 16 Jun 2021 04:49:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'No green light to jab kids' and Met police 'rotten']]></title>
             <description><![CDATA[Delays to vaccinations for children and mandatory jabs for care home staff feature on the front pages.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57492239</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57492239</guid>
-            <pubDate>Tue, 15 Jun 2021 23:15:25 GMT</pubDate>
+            <pubDate>Wed, 16 Jun 2021 04:53:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Scotland fan visits streets named after every player]]></title>
