@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Jun 2021 01:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jun 2021 02:15:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Wed, 16 Jun 2021 00:40:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israel strikes in Gaza after arson attacks]]></title>
+            <title><![CDATA[Israel strikes in Gaza after arson balloons launched]]></title>
             <description><![CDATA[It is the first major flare-up since the ceasefire between Israel and Hamas in May.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57492745</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57492745</guid>
-            <pubDate>Wed, 16 Jun 2021 00:21:54 GMT</pubDate>
+            <pubDate>Wed, 16 Jun 2021 01:45:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daniel Morgan: Met Police accused of 'form of corruption' in report]]></title>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57492239</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57492239</guid>
             <pubDate>Tue, 15 Jun 2021 23:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Scotland fan visits streets named after every player]]></title>
+            <description><![CDATA[20-year-old David visits 26 streets around the UK that share a name with a Scotland footballer.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57485487</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57485487</guid>
+            <pubDate>Wed, 16 Jun 2021 01:54:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Isles of Scilly: Egyptian vulture seen in UK for first time in 150 years]]></title>
@@ -296,6 +303,41 @@
             <pubDate>Tue, 15 Jun 2021 22:12:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US-Russia relations: Adversary or potential partner?]]></title>
+            <description><![CDATA[Three young Americans and three young Russians spoke to the BBC about the other country.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57421275</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57421275</guid>
+            <pubDate>Tue, 15 Jun 2021 14:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three things to watch as Joe Biden meets Vladimir Putin]]></title>
+            <description><![CDATA[The US president is set to talk to the Russian leader in Geneva, Switzerland, on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57427057</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57427057</guid>
+            <pubDate>Mon, 14 Jun 2021 23:31:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Putin really wants from Biden]]></title>
+            <description><![CDATA[The Geneva summit on 16 June between the Russian and US presidents will not be a friendly encounter.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57427055</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57427055</guid>
+            <pubDate>Mon, 14 Jun 2021 01:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I would like Russia to be more free']]></title>
+            <description><![CDATA[The BBC's Steve Rosenberg travels 2,000 miles east of Moscow to gauge the mood of ordinary Russians.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56808468</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56808468</guid>
+            <pubDate>Mon, 19 Apr 2021 23:00:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Beast: How Biden's getting around on his first overseas trip]]></title>
+            <description><![CDATA[Planes, helicopters and armoured cars - how President Biden will travel on his first official trip.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57424507</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57424507</guid>
+            <pubDate>Thu, 10 Jun 2021 21:03:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
             <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.]]></description>
             <link>https://www.bbc.co.uk/news/health-51048366</link>
@@ -420,41 +462,6 @@
             <link>https://www.bbc.co.uk/news/57403888</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/57403888</guid>
             <pubDate>Tue, 08 Jun 2021 23:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We want another homeless hotel - and we can make it work']]></title>
-            <description><![CDATA[The Holiday Inn in Gorton, Manchester, housed homeless people throughout the pandemic, until the end of May.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-57448625</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57448625</guid>
-            <pubDate>Sun, 13 Jun 2021 23:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Huntington's disease won't stop me having a baby']]></title>
-            <description><![CDATA[Heather and her husband are going to have a baby, even though Heather's time with the child will be limited.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-57430859</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57430859</guid>
-            <pubDate>Fri, 11 Jun 2021 00:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The 80s song that brought my lost memory back after 10 years']]></title>
-            <description><![CDATA[A car crash erased Thomas's memory - 10 years later, a 1980s pop song triggered six flashbacks.]]></description>
-            <link>https://www.bbc.co.uk/news/disability-50478524</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-50478524</guid>
-            <pubDate>Sat, 12 Jun 2021 23:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar: The mysterious deaths of the NLD party officials]]></title>
-            <description><![CDATA[The deaths of officials from Aung San Suu Kyi's party have raised scrutiny of the military's actions.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57380237</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57380237</guid>
-            <pubDate>Tue, 08 Jun 2021 01:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Freddie Figgers: The millionaire tech inventor who was 'thrown away' as a baby]]></title>
-            <description><![CDATA[Entrepreneur Freddie Figgers says life has taught him that the important thing is people, not profits.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-57081087</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57081087</guid>
-            <pubDate>Sat, 05 Jun 2021 23:33:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
