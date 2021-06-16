@@ -2,7 +2,7 @@
 2. [MPs to vote on delaying England's lockdown easing by four weeks](https://www.bbc.co.uk/news/uk-politics-57486224) - MPs will debate the government's plans to keep restrictions in place until 19 July rather than 21 June.
 3. [Another life-saving Covid treatment found](https://www.bbc.co.uk/news/health-57488150) - Monoclonal antibody therapy, given by drip, can save some of the sickest hospital patients.
 4. [Duke's death left giant-sized hole in our lives - Sophie](https://www.bbc.co.uk/news/uk-57489426) - In an interview, the Countess of Wessex says the Covid pandemic made it harder to support the Queen.
-5. [UK inflation jumps to 2.1% in May](https://www.bbc.co.uk/news/business-57490101) - The rising cost of clothes, fuel and eating out pushes consumer prices above the Bank of England's 2% target.
+5. [UK inflation jumps to 2.1% in May as clothes and fuel prices rise](https://www.bbc.co.uk/news/business-57490101) - The rising cost of clothes, fuel and eating out pushes consumer prices above the Bank of England's 2% target.
 6. [UK warned it is unprepared for climate chaos](https://www.bbc.co.uk/news/science-environment-57487943) - Homes need to be more resilient and the government is in a worse position than five years ago, report says.
 7. [Israel strikes in Gaza after fire balloons launched](https://www.bbc.co.uk/news/world-middle-east-57492745) - It is the first major flare-up since the ceasefire between Israel and Hamas in May.
 8. [Euro 2020: Wales aim to silence Turkey's 'home' crowd in Baku](https://www.bbc.co.uk/sport/football/51197554) - Wales will aim to "silence" what will effectively be a home crowd for Turkey when they meet in Baku for their second match of Euro 2020.
