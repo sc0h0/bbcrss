@@ -7,7 +7,7 @@
 7. [Covid: Ryanair and Manchester Airports Group take legal action over travel traffic light system](https://www.bbc.co.uk/news/business-57505736) - There is anger in the travel sector over how the government has made decisions over the green list.
 8. [UK aid cuts risk millions of lives, warns World Health Organization](https://www.bbc.co.uk/news/uk-57506479) - Move leaves millions of the world’s poorest at risk from “neglected tropical diseases”, says agency.
 9. [Robyn Williams: Sacked Met officer wins appeal against dismissal](https://www.bbc.co.uk/news/uk-england-london-57501764) - Robyn Williams was sacked after a 36-year career for having a child abuse video on her phone.
-10. [Apple Daily: Hong Kong police arrest editor, four other executives](https://www.bbc.co.uk/news/world-asia-china-57507256) - Apple Daily is often critical of Hong Kong and the mainland Chinese leadership.
+10. [Apple Daily: Hong Kong police arrest editor after raid on paper](https://www.bbc.co.uk/news/world-asia-china-57507256) - Apple Daily is often critical of Hong Kong and the mainland Chinese leadership.
 11. [MPs vote for a four-week delay to England's lockdown easing](https://www.bbc.co.uk/news/uk-politics-57486224) - Lockdown restrictions can stay in place until 19 July rather than 21 June, despite a Tory rebellion.
 12. [Thousandth dormouse brought back to the wild](https://www.bbc.co.uk/news/science-environment-57499125) - The captive-bred hazel dormouse is now settling into its new woodland home in Lancashire.
 13. [The Papers: 'Nuclear Dom' and return of holidays for vaccinated](https://www.bbc.co.uk/news/blogs-the-papers-57506466) - The latest twist in the war of words between Dominic Cummings and Matt Hancock features on the front pages.
