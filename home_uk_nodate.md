@@ -2,7 +2,7 @@
 2. [Covid: Epidemic growing across England, says study](https://www.bbc.co.uk/news/health-57504172) - The rollout of jabs to younger people is key to reducing further spread, researchers say.
 3. [NI first and deputy first minister nominations expected](https://www.bbc.co.uk/news/uk-northern-ireland-57507176) - The DUP and Sinn Féin are expected to make the move as a stalemate over Irish language laws is resolved.
 4. [Covid: Ryanair and Manchester Airports Group take legal action over travel traffic light system](https://www.bbc.co.uk/news/business-57505736) - There is anger in the travel sector over how the government has made decisions over the green list.
-5. [UK aid cuts risk millions of lives, warns World Health Organization](https://www.bbc.co.uk/news/uk-57506479) - Move leaves millions of the world’s poorest at risk from “neglected tropical diseases”, says agency.
+5. [UK aid cuts risk millions of lives, warns World Health Organization](https://www.bbc.co.uk/news/uk-57506479) - It leaves millions of the world’s poorest at risk from “neglected tropical diseases”, says agency.
 6. [Shenzhou-12: China launches first crew to new space station](https://www.bbc.co.uk/news/science-environment-57504052) - Three astronauts successfully take off for China's longest ever human spaceflight mission.
 7. [Robyn Williams: Sacked Met officer wins appeal against dismissal](https://www.bbc.co.uk/news/uk-england-london-57501764) - Robyn Williams was sacked after a 36-year career for having a child abuse video on her phone.
 8. [Kim Jong-un admits to 'tense' food situation in North Korea](https://www.bbc.co.uk/news/world-asia-57507456) - He told the ruling party that the coronavirus pandemic and a series of storms had led to bad harvests.
