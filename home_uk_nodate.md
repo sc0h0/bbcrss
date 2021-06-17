@@ -7,7 +7,7 @@
 7. [Robyn Williams: Sacked Met officer wins appeal against dismissal](https://www.bbc.co.uk/news/uk-england-london-57501764) - Robyn Williams was sacked after a 36-year career for having a child abuse video on her phone.
 8. [Kim Jong-un admits to 'tense' food situation in North Korea](https://www.bbc.co.uk/news/world-asia-57507456) - He told the ruling party that the coronavirus pandemic and a series of storms had led to bad harvests.
 9. [Biden and Putin praise Geneva summit talks but discord remains](https://www.bbc.co.uk/news/world-europe-57504755) - The US and Russia agree to nuclear arms control talks but progress at the Geneva summit is limited.
-10. [Apple Daily: Hong Kong police arrest editor after raid on paper](https://www.bbc.co.uk/news/world-asia-china-57507256) - Apple Daily is often critical of Hong Kong and the mainland Chinese leadership.
+10. [Apple Daily: Hong Kong sends 500 officers in pro-democracy paper raid](https://www.bbc.co.uk/news/world-asia-china-57507256) - The editor-in-chief and four other executives of the paper were also arrested on Thursday morning.
 11. [MPs vote for a four-week delay to England's lockdown easing](https://www.bbc.co.uk/news/uk-politics-57486224) - Lockdown restrictions can stay in place until 19 July rather than 21 June, despite a Tory rebellion.
 12. [Thousandth dormouse brought back to the wild](https://www.bbc.co.uk/news/science-environment-57499125) - The captive-bred hazel dormouse is now settling into its new woodland home in Lancashire.
 13. [The Papers: 'Nuclear Dom' and return of holidays for vaccinated](https://www.bbc.co.uk/news/blogs-the-papers-57506466) - The latest twist in the war of words between Dominic Cummings and Matt Hancock features on the front pages.
