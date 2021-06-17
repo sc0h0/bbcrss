@@ -1,7 +1,7 @@
 1. [Covid: Epidemic growing across England, says study](https://www.bbc.co.uk/news/health-57504172) - The rollout of jabs to younger people is key to reducing further spread, researchers say.
 2. [Care services investigating too many families - review](https://www.bbc.co.uk/news/health-57502390) - Child protection services in England are not providing enough early support, a report says.
 3. [Covid: Ryanair and Manchester Airports Group take legal action over travel traffic light system](https://www.bbc.co.uk/news/business-57505736) - There is anger in the travel sector over how the government has made decisions over the green list.
-4. [NI ministerial nominations due as Stormont stand-off ends](https://www.bbc.co.uk/news/uk-northern-ireland-57507176) - The DUP and Sinn Féin are expected to make the move as a stalemate over Irish language laws is resolved.
+4. [NI ministerial nominations due as Stormont stand-off ends](https://www.bbc.co.uk/news/uk-northern-ireland-57507176) - The DUP has named Paul Givan as its pick, while Sinn Féin says Ms O'Neill will resume her post.
 5. [Covid-19: Growing epidemic and legal challenge over travel](https://www.bbc.co.uk/news/uk-57504403) - Five things you need to know about the coronavirus pandemic this Thursday morning.
 6. [UK aid cuts risk millions of lives, warns World Health Organization](https://www.bbc.co.uk/news/uk-57506479) - It leaves millions of the world’s poorest at risk from “neglected tropical diseases”, says agency.
 7. [Shenzhou-12: China launches first crew to new space station](https://www.bbc.co.uk/news/science-environment-57504052) - Three astronauts successfully take off for China's longest ever human spaceflight mission.
