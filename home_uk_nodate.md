@@ -1,4 +1,4 @@
-1. [Euro 2020: Thousands of Scotland fans gather in central London](https://www.bbc.co.uk/news/uk-scotland-57516928) - Large crowds of Tartan Army supporters have congregated ahead of the Euro 2020 match with England.
+1. [Euro 2020: Thousands of Scotland fans gather in central London](https://www.bbc.co.uk/news/uk-scotland-57516928) - Large crowds of Tartan Army supporters congregate ahead of the Euro 2020 match with England.
 2. [Coronavirus: Setback for EU in legal fight with AstraZeneca](https://www.bbc.co.uk/news/world-europe-57531064) - But the drug-maker faces hefty fines if it fails to supply doses of Covid-19 vaccine over the summer.
 3. [UK Covid infections rise as Delta variant dominates](https://www.bbc.co.uk/news/health-57525891) - There is some regional variation in infection rates and some good news on vaccine efficacy.
 4. [Imran Ahmad Khan: Wakefield MP charged with sex assault on boy](https://www.bbc.co.uk/news/uk-england-leeds-57531904) - The MP denies the offence, which is alleged to have happened in 2008.
