@@ -11,7 +11,7 @@
 11. [Christian Eriksen: Denmark midfielder discharged from hospital](https://www.bbc.co.uk/sport/football/57533239) - Christian Eriksen is discharged from hospital after a "successful" operation to fit a heart-starting device.
 12. [Andrew Lloyd Webber rejects PM's offer for Cinderella to be Covid pilot](https://www.bbc.co.uk/news/entertainment-arts-57530408) - The impresario had said he'd be willing to be arrested if Cinderella couldn't open to a full house.
 13. [Euro 2020: Christian Eriksen portrait made with Rubik's cubes](https://www.bbc.co.uk/news/uk-england-leeds-57532207) - David Wright uses 500 of the colourful 3D puzzlers to create a likeness of the Danish footballer.
-14. [Octopuses feel pain and need legal protection, say MPs](https://www.bbc.co.uk/news/newsbeat-57528249) - A report by a group of MPs says invertebrates are intelligent and should be added to welfare bill.
+14. [Covid vaccine: Why did EU take AstraZeneca to court?](https://www.bbc.co.uk/news/56483766) - The EU has lost a legal battle over its attempt to force AstraZeneca to deliver more vaccines to the bloc.
 15. [Chesham and Amersham by-election: Constituents react to result](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57524463) - Chesham and Amersham constituents share their thoughts on the Lib Dem victory.
 16. [Foo Fighters to release disco album as the Dee Gees](https://www.bbc.co.uk/news/entertainment-arts-57524428) - Dave Grohl's band rename themselves the Dee Gees and cover five 1970s hits by the Gibb brothers.
 17. ['Ollerton 11' escapee pig family saved from slaughter](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57518634) - The sow, named Matilda, escaped from a farm and gave birth in woodland.
