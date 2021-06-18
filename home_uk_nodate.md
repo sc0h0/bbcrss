@@ -4,7 +4,7 @@
 4. [Edwin Poots resigns as DUP leader after 21 days in the job](https://www.bbc.co.uk/news/uk-england-essex-57521158) - His resignation comes following a meeting of party officers at the DUP headquarters in east Belfast.
 5. [Duchess of Cambridge launches 'landmark' centre for childhood](https://www.bbc.co.uk/news/uk-57511122) - The centre will shape the Duchess of Cambridge's future focus as a senior royal, an aide says.
 6. [England and Scotland set for key Euros meeting](https://www.bbc.co.uk/sport/football/51197603) - England and Scotland meet in a major tournament for the first time in 25 years at Wembley on Friday in a match with huge implications for both teams' Euro 2020 hopes.
-7. [Food and drink exports to EU 'almost halve' in first quarter](https://www.bbc.co.uk/news/business-57518910) - The pandemic and Brexit hit exports in the first three months of the year, says the Food and Drink Federation.
+7. [UK food and drink exports to the EU 'almost halve' in first quarter](https://www.bbc.co.uk/news/business-57518910) - The pandemic and Brexit hit exports in the first three months of the year, says the Food and Drink Federation.
 8. [Iranians vote in presidential election marred by disqualification row](https://www.bbc.co.uk/news/world-middle-east-57510763) - All but one of the four candidates to succeed Hassan Rouhani are regarded as hardliners.
 9. [Kim Jong-un prepares for 'dialogue and confrontation' with the US](https://www.bbc.co.uk/news/world-asia-57522278) - North Korea had earlier snubbed efforts by the Biden's administration to establish diplomatic talks.
 10. [Covid: Disruption to surgery 'will affect millions'](https://www.bbc.co.uk/news/health-57515472) - There were 1.5 million fewer procedures in 2020 than expected, a study in England and Wales suggests.
@@ -22,8 +22,8 @@
 22. [Are Asia's Covid 'winners' entering shaky new territory?](https://www.bbc.co.uk/news/world-asia-57492961) - The places that were best at keeping Covid at bay are now struggling with their exit strategies.
 23. [In The Heights: What to know about the Lin-Manuel Miranda film](https://www.bbc.co.uk/news/entertainment-arts-57356251) - Lin-Manuel Miranda's movie musical has enjoyed positive reviews but also sparked a colourism row.
 24. [Ethiopia election: A sham or democratic rebirth?](https://www.bbc.co.uk/news/world-africa-57467645) - Why the stakes are so high in the nation's first attempt at free and fair elections.
-25. [Alarming Covid surge cools Russia’s football fever](https://www.bbc.co.uk/news/world-europe-57511355) - Despite being one of the first countries to develop a jab, Covid cases are sharply rising in Russia.
-26. [Manchester attack: Who were the victims?](https://www.bbc.co.uk/news/uk-40012738) - Schoolgirls, parents waiting to pick up children, and an off-duty police officer are among the dead.
+25. [Kenneth Kaunda: Zambia's independence hero](https://www.bbc.co.uk/news/world-africa-16039411) - The first president of an independent Zambia, who became one of Africa's elder statesmen, dies at 97.
+26. [Alarming Covid surge cools Russia’s football fever](https://www.bbc.co.uk/news/world-europe-57511355) - Despite being one of the first countries to develop a jab, Covid cases are sharply rising in Russia.
 27. [Netherlands 2-0 Austria: Dutch seal place in last 16 at Euro 2020](https://www.bbc.co.uk/sport/football/51197582) - The Netherlands book their spot in last 16 at Euro 2020 as they see off Austria in Amsterdam to win Group C with a game to spare.
 28. ['Class from De Bruyne' - Belgium's X factor makes the difference](https://www.bbc.co.uk/sport/football/57520900) - Belgium look nowhere near their best against Denmark - but Roberto Martinez's 'X factor' substitutions change the game.
 29. [How Dunkley came of age in thrilling England-India Test](https://www.bbc.co.uk/sport/cricket/57516260) - Sophia Dunkley makes leap from "prospect to real deal" as England take control of Test against India.
