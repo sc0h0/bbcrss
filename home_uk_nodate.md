@@ -1,6 +1,6 @@
 1. [Justice Secretary Robert Buckland 'sorry' for failing rape victims](https://www.bbc.co.uk/news/uk-politics-57511425) - "We've got to do a lot better," says Robert Buckland, as he sets out plans to tackle low conviction rates.
 2. [Edwin Poots resigns as DUP leader after 21 days in the job](https://www.bbc.co.uk/news/uk-england-essex-57521158) - His resignation comes following a meeting of party officers at the DUP headquarters in east Belfast.
-3. [Chesham and Amersham by-election won by Lib Dems](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57472032) - The Liberal Democrats overturn the 16,000-strong majority won by Dame Cheryl Gillan in 2019.
+3. [Chesham and Amersham by-election won by Lib Dems](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57472032) - The party leader says overturning a 16,000 majority sends a "shockwave through British politics".
 4. [Covid: All adults able to book coronavirus vaccination in England](https://www.bbc.co.uk/news/uk-57517992) - People aged 18 and over will be invited to make an appointment for their first vaccination.
 5. [Duchess of Cambridge launches 'landmark' centre for childhood](https://www.bbc.co.uk/news/uk-57511122) - The centre will shape the Duchess of Cambridge's future focus as a senior royal, an aide says.
 6. [England and Scotland set for key Euros meeting](https://www.bbc.co.uk/sport/football/51197603) - England and Scotland meet in a major tournament for the first time in 25 years at Wembley on Friday in a match with huge implications for both teams' Euro 2020 hopes.
