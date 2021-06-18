@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Jun 2021 03:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jun 2021 04:24:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,11 @@
             <pubDate>Thu, 17 Jun 2021 21:56:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Edwin Poots resigns as DUP leader after 21 days in the job]]></title>
-            <description><![CDATA[His resignation comes following a meeting of party officers at the DUP headquarters in east Belfast.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-57521158</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57521158</guid>
-            <pubDate>Thu, 17 Jun 2021 22:41:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chesham and Amersham by-election won by Lib Dems]]></title>
             <description><![CDATA[The party leader says overturning a 16,000 majority sends a "shockwave through British politics".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57472032</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57472032</guid>
-            <pubDate>Fri, 18 Jun 2021 02:42:45 GMT</pubDate>
+            <pubDate>Fri, 18 Jun 2021 04:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: All adults able to book coronavirus vaccination in England]]></title>
@@ -42,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-57517992</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57517992</guid>
             <pubDate>Thu, 17 Jun 2021 23:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Edwin Poots resigns as DUP leader after 21 days in the job]]></title>
+            <description><![CDATA[His resignation comes following a meeting of party officers at the DUP headquarters in east Belfast.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-57521158</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57521158</guid>
+            <pubDate>Thu, 17 Jun 2021 22:41:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duchess of Cambridge launches 'landmark' centre for childhood]]></title>
@@ -76,14 +76,14 @@
             <description><![CDATA[All but one of the four candidates to succeed Hassan Rouhani are regarded as hardliners.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57510763</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57510763</guid>
-            <pubDate>Fri, 18 Jun 2021 03:00:28 GMT</pubDate>
+            <pubDate>Fri, 18 Jun 2021 04:07:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kim Jong-un prepares for 'dialogue and confrontation' with the US]]></title>
             <description><![CDATA[North Korea had earlier snubbed efforts by the Biden's administration to establish diplomatic talks.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57522278</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57522278</guid>
-            <pubDate>Fri, 18 Jun 2021 03:37:31 GMT</pubDate>
+            <pubDate>Fri, 18 Jun 2021 04:23:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US couple who pointed guns at BLM protesters plead guilty]]></title>
@@ -227,7 +227,7 @@
         </item>
         <item>
             <title><![CDATA[Koepka shines as McIlroy challenges at fog-delayed US Open]]></title>
-            <description><![CDATA[Two-time winner Brooks Koepka shines as defending champion Bryson DeChambeau falters in a US Open first round that was left uncompleted because of fog.]]></description>
+            <description><![CDATA[Two-time winner Brooks Koepka shines as defending champion Bryson DeChambeau falters in a US Open first round that is left uncompleted because of early fog.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/57501497</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57501497</guid>
             <pubDate>Fri, 18 Jun 2021 03:44:36 GMT</pubDate>
