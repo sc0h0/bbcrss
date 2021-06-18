@@ -2,7 +2,7 @@
 2. [Euro 2020: Crowds celebrate Scotland's 0-0 draw with England](https://www.bbc.co.uk/news/uk-scotland-57535302) - There was a large police presence in London's Leicester Square and George Square in Glasgow.
 3. [Coronavirus: Setback for EU in legal fight with AstraZeneca](https://www.bbc.co.uk/news/world-europe-57531064) - But the drug-maker faces hefty fines if it fails to supply doses of Covid-19 vaccine over the summer.
 4. [UK Covid infections rise as Delta variant dominates](https://www.bbc.co.uk/news/health-57525891) - There is some regional variation in infection rates and some good news on vaccine efficacy.
-5. [Daniel Morgan: 'My dad had an axe embedded in his skull'](https://www.bbc.co.uk/news/uk-57533387) - The son of Daniel Morgan speaks out following an inquiry into the Met's handling of his father's unsolved murder.
+5. [Daniel Morgan: 'My dad had an axe embedded in his skull'](https://www.bbc.co.uk/news/uk-57533387) - The son of Daniel Morgan speaks out after an inquiry into the Met's handling of his father's unsolved murder.
 6. [Give people the right to switch off after work - Labour](https://www.bbc.co.uk/news/uk-politics-57529702) - The party also says people should have the right to flexible practices, such as working from home.
 7. [Imran Ahmad Khan: Wakefield MP charged with sex assault on boy](https://www.bbc.co.uk/news/uk-england-leeds-57531904) - The MP denies the offence, which is alleged to have happened in 2008.
 8. [Some furloughed workers do not want to return, Andrea Leadsom says](https://www.bbc.co.uk/news/uk-57531637) - But the ex-business secretary says there is also a mental health issue, with some fearful of returning.
