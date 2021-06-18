@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Jun 2021 17:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jun 2021 17:45:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[UK Covid infections rise as Delta variant dominates]]></title>
-            <description><![CDATA[There is some regional variation in infection rates and some good news on vaccine efficacy.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57525891</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57525891</guid>
-            <pubDate>Fri, 18 Jun 2021 15:09:57 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Euro 2020: Thousands of Scotland fans gather in central London]]></title>
             <description><![CDATA[Large crowds of Tartan Army supporters have congregated ahead of the Euro 2020 match with England.]]></description>
@@ -35,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-57531064</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57531064</guid>
             <pubDate>Fri, 18 Jun 2021 16:40:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK Covid infections rise as Delta variant dominates]]></title>
+            <description><![CDATA[There is some regional variation in infection rates and some good news on vaccine efficacy.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57525891</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57525891</guid>
+            <pubDate>Fri, 18 Jun 2021 15:09:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chesham and Amersham: Lib Dems overturn big Tory majority in by-election upset]]></title>
@@ -51,7 +51,7 @@
             <pubDate>Fri, 18 Jun 2021 16:12:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wakefield MP Imran Ahmad Khan charged with sexually assaulting boy]]></title>
+            <title><![CDATA[Imran Ahmad Khan: Wakefield MP charged with sex assault on boy]]></title>
             <description><![CDATA[The MP denies the offence, which is alleged to have happened in 2008.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-57531904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57531904</guid>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57530408</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57530408</guid>
             <pubDate>Fri, 18 Jun 2021 16:37:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eurovision winners Måneskin enter UK top 10]]></title>
-            <description><![CDATA[The Italian glam-rockers are the first Eurovision victors to have a top 10 hit for almost a decade.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57530407</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57530407</guid>
-            <pubDate>Fri, 18 Jun 2021 17:09:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Christian Eriksen portrait made with Rubik's cubes]]></title>
@@ -233,6 +226,20 @@
             <pubDate>Thu, 17 Jun 2021 14:57:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Can Clarke's Scotland match cheekiness of Baxter mocking Moore at Wembley?]]></title>
+            <description><![CDATA[Scotland need new derby heroes brimming with bravado if they are to upset the odds against England in their Euro 2020 finals group, writes Tom English.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57523616</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57523616</guid>
+            <pubDate>Fri, 18 Jun 2021 06:43:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: The last time England and Scotland met at the Euros]]></title>
+            <description><![CDATA[BBC Sport looks back to Euro 96 when England and Scotland last played each other at a major tournament, with the hosts winning 2-0 thanks to a famous goal from Paul Gascoigne.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57462521</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57462521</guid>
+            <pubDate>Fri, 18 Jun 2021 05:23:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England on top against India in one-off Test despite rain]]></title>
             <description><![CDATA[England put themselves in a strong position in the one-off Test against India despite much of the afternoon session being wiped out by rain.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57527475</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/formula1/57531397</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57531397</guid>
             <pubDate>Fri, 18 Jun 2021 14:55:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sweden take huge step towards last 16 with win over Slovakia]]></title>
-            <description><![CDATA[Emil Forsberg's second-half penalty ensures Sweden take a huge step towards qualifying for the last 16 at Euro 2020 with victory against Slovakia in St Petersburg.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/51197589</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51197589</guid>
-            <pubDate>Fri, 18 Jun 2021 15:16:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v Scotland: The fans who lost their Euro 2020 tickets]]></title>
