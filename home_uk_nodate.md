@@ -1,9 +1,9 @@
 1. [Euro 2020: Thousands of Scotland fans gather in central London](https://www.bbc.co.uk/news/uk-scotland-57516928) - Large crowds of Tartan Army supporters have congregated ahead of the Euro 2020 match with England.
 2. [Coronavirus: Setback for EU in legal fight with AstraZeneca](https://www.bbc.co.uk/news/world-europe-57531064) - But the drug-maker faces hefty fines if it fails to supply doses of Covid-19 vaccine over the summer.
 3. [UK Covid infections rise as Delta variant dominates](https://www.bbc.co.uk/news/health-57525891) - There is some regional variation in infection rates and some good news on vaccine efficacy.
-4. [Chesham and Amersham: Lib Dems overturn big Tory majority in by-election upset](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57472032) - Leader Ed Davey says his party is now the main threat to Tory "blue wall" constituencies across the UK.
+4. [Imran Ahmad Khan: Wakefield MP charged with sex assault on boy](https://www.bbc.co.uk/news/uk-england-leeds-57531904) - The MP denies the offence, which is alleged to have happened in 2008.
 5. [Covid: UK cases continue to rise and Lloyd Webber rejects PM's offer](https://www.bbc.co.uk/news/uk-57531726) - Five things you need to know about the coronavirus pandemic this Friday evening.
-6. [Imran Ahmad Khan: Wakefield MP charged with sex assault on boy](https://www.bbc.co.uk/news/uk-england-leeds-57531904) - The MP denies the offence, which is alleged to have happened in 2008.
+6. [Chesham and Amersham: Lib Dems overturn big Tory majority in by-election upset](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57472032) - Leader Ed Davey says his party is now the main threat to Tory "blue wall" constituencies across the UK.
 7. ['I was told I didn’t look like somebody who'd been raped'](https://www.bbc.co.uk/news/uk-57522348) - One woman speaks to the BBC about her experience of reporting sexual assault.
 8. [Greece killing: Husband confesses to Caroline Crouch death](https://www.bbc.co.uk/news/world-europe-57523469) - Police say a Greek pilot has admitted suffocating his wife in a crime that shocked the country.
 9. [Crocodile attack: 'I was beating on its snout'](https://www.bbc.co.uk/news/world-57524164) - Georgia Laurie speaks to the BBC about how she fought off the crocodile attacking her twin sister.
