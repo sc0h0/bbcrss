@@ -3,7 +3,7 @@
 3. [Euro 2020: London hosts growing Tartan Army ahead of match](https://www.bbc.co.uk/news/uk-scotland-57516928) - Thousands of Scotland fans are enjoying the atmosphere in London ahead of the game against England.
 4. [Greece killing: Husband confesses to Caroline Crouch death](https://www.bbc.co.uk/news/world-europe-57523469) - Police say a Greek pilot has admitted suffocating his wife in a crime that shocked the country.
 5. [Paul Lamb: Assisted suicide campaigner dies aged 65](https://www.bbc.co.uk/news/uk-england-leeds-57516431) - Paul Lamb leaves a "fierce legacy" of fighting for patients and the right to die, supporters say.
-6. [Covid: Wales at start of third coronavirus wave, warns first minister](https://www.bbc.co.uk/news/uk-wales-politics-57526273) - First minister says Wales' rates maybe a few weeks behind England as he delays lockdown easing.
+6. [Covid: Wales at start of third coronavirus wave, warns first minister](https://www.bbc.co.uk/news/uk-wales-politics-57526273) - First minister says Wales' rates maybe a few weeks behind England as he delays easing lockdown.
 7. [Apple Daily: Hong Kong police raid sparks rush on newspapers](https://www.bbc.co.uk/news/world-asia-china-57523209) - The pro-democracy newspaper printed a bumper 500,000 copies after police arrested five senior staff.
 8. [Howard Beckett drops out of Unite leadership contest](https://www.bbc.co.uk/news/uk-politics-57527531) - The union's assistant general secretary backs fellow left-winger in the race to succeed Len McCluskey.
 9. [Northampton Town: Seven people charged in missing loan probe](https://www.bbc.co.uk/news/uk-england-northamptonshire-57525981) - Police have been investigating what happened to £10.25m loaned to a football club.
