@@ -7,7 +7,7 @@
 7. [Food and drink exports to EU 'almost halve' in first quarter](https://www.bbc.co.uk/news/business-57518910) - The pandemic and Brexit hit exports in the first three months of the year, says the Food and Drink Federation.
 8. [Music fans still holding tickets to thousands of postponed shows](https://www.bbc.co.uk/news/business-57514862) - The latest four-week delay to unlocking restrictions has pushed an additional 5,000 gigs into doubt.
 9. [Iranians vote in presidential election marred by disqualification row](https://www.bbc.co.uk/news/world-middle-east-57510763) - All but one of the four candidates to succeed Hassan Rouhani are regarded as hardliners.
-10. [Kim Jong-un prepares for 'dialogue and confrontation' with the US](https://www.bbc.co.uk/news/world-asia-57522278) - Mr Kim's comments are one of the first signs that North Korea could be open to talks with the US.
+10. [Kim Jong-un prepares for 'dialogue and confrontation' with the US](https://www.bbc.co.uk/news/world-asia-57522278) - North Korea had earlier snubbed efforts by the Biden's administration to establish diplomatic talks.
 11. [US couple who pointed guns at BLM protesters plead guilty](https://www.bbc.co.uk/news/world-us-canada-57521756) - "I'd do it again," vows Mark McCloskey outside court as he and his wife walk free with a fine.
 12. [Covid: Disruption to surgery 'will affect millions'](https://www.bbc.co.uk/news/health-57515472) - There were 1.5 million fewer procedures in 2020 than expected, a study in England and Wales suggests.
 13. [Police to crack down on drones flown dangerously](https://www.bbc.co.uk/news/technology-57512513) - Anyone flouting the rules faces having their drone confiscated, being fined or even imprisonment.
