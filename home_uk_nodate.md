@@ -9,7 +9,7 @@
 9. [Some furloughed workers do not want to return, Andrea Leadsom says](https://www.bbc.co.uk/news/uk-57531637) - But the ex-business secretary says there is also a mental health issue, with some fearful of returning.
 10. [Shanghai gallery removes artwork ranking women by looks](https://www.bbc.co.uk/news/world-asia-china-57532264) - The gallery in Shanghai pulls the video piece "Uglier and Uglier" after a backlash.
 11. [Portland riots: Police crowd-control team resigns after officer indicted](https://www.bbc.co.uk/news/world-us-canada-57532258) - The officer in the Portland crowd-control team faces an assault charge after last year's race riots.
-12. [Andrew Lloyd Webber rejects PM's offer for Cinderella to be Covid pilot](https://www.bbc.co.uk/news/entertainment-arts-57530408) - The impresario had said he'd be willing to be arrested if Cinderella couldn't open to a full house.
+12. [Milkha Singh: India's 'Flying Sikh' dies from Covid](https://www.bbc.co.uk/news/world-asia-india-57523457) - The country's most famous athlete ran for his life as a child and then ran to win medals.
 13. [The papers: 'Flopscotch' at the Euros and blue wall 'at risk'](https://www.bbc.co.uk/news/blogs-the-papers-57535081) - The front pages focus on the England v Scotland stalemate at Wembley and the Lib Dem by-election win.
 14. [Fashion: Suffolk influencers promote self-love with mid-size trends](https://www.bbc.co.uk/news/uk-england-suffolk-57489688) - Two midsize fashion influencers speak out about the importance of body positivity on social media.
 15. [Week in pictures: 12 - 18 June 2021](https://www.bbc.co.uk/news/in-pictures-57513084) - A selection of powerful images taken around the world this week.
