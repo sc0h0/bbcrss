@@ -1,5 +1,5 @@
 1. [Daniel Morgan case: 'I don't accept Met apology over my dad's murder'](https://www.bbc.co.uk/news/uk-57533387) - Daniel Morgan's son speaks of his anger, after a report labels the Met "institutionally corrupt".
-2. [Iran election: Hardliner Raisi set to win in first round](https://www.bbc.co.uk/news/world-middle-east-57537027) - Vote-counting shows Ebrahim Raisi - Iran's top judge - has so far received 62% of the vote.
+2. [Iran election: Hardliner Raisi set to become president](https://www.bbc.co.uk/news/world-middle-east-57537027) - Cleric Ebrahim Raisi - Iran's top judge - has received most of the votes counted so far.
 3. [Mosh pits and no masks at Download Festival pilot](https://www.bbc.co.uk/news/entertainment-arts-57537108) - This weekend's Download Festival is part of a live event trial to see if large-scale gatherings are possible.
 4. [Covid: Setback for EU in AstraZeneca legal fight and Download Festival resumes](https://www.bbc.co.uk/news/uk-57535113) - Five things you need to know about the coronavirus pandemic this Saturday morning.
 5. [Chesham and Amersham by-election defeat a warning shot, says Tory co-chairman](https://www.bbc.co.uk/news/uk-politics-57535928) - Planning reforms for England and HS2 rail had dominated campaigning in Chesham and Amersham.
