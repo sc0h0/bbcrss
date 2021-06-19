@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Jun 2021 16:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 17:31:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,21 +20,35 @@
             <description><![CDATA[It comes as a scientist advising the government warns the Delta variant is fuelling a third wave.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57540820</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57540820</guid>
-            <pubDate>Sat, 19 Jun 2021 16:21:07 GMT</pubDate>
+            <pubDate>Sat, 19 Jun 2021 17:15:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US private equity firm considers bid for Morrisons]]></title>
             <description><![CDATA[Clayton, Dubilier & Rice has 28 days to formally bid for the UK's fourth-largest supermarket group.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57541617</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57541617</guid>
-            <pubDate>Sat, 19 Jun 2021 16:51:50 GMT</pubDate>
+            <pubDate>Sat, 19 Jun 2021 17:03:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland fans clean up London after Euro celebrations]]></title>
             <description><![CDATA[Fans took part in a clean-up of Leicester Square which was covered in litter during celebrations.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57538350</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57538350</guid>
-            <pubDate>Sat, 19 Jun 2021 13:23:23 GMT</pubDate>
+            <pubDate>Sat, 19 Jun 2021 17:23:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe and Jill Biden announce death of 'beloved' dog Champ]]></title>
+            <description><![CDATA[Champ, a German Shepherd, had been with the couple for 13 years and lived at the White House.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57541044</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57541044</guid>
+            <pubDate>Sat, 19 Jun 2021 17:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man looking for Mayfair 'guardian angel' who saved his life]]></title>
+            <description><![CDATA[A woman helped Mathew O'Toole while he was suffering from a stroke in Wigmore Street, Mayfair.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57527492</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57527492</guid>
+            <pubDate>Sat, 19 Jun 2021 12:46:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paul Givan told he must resign as NI first minister]]></title>
@@ -59,24 +73,10 @@
         </item>
         <item>
             <title><![CDATA[Iran election: Hardliner Raisi will become president]]></title>
-            <description><![CDATA[Cleric Ebrahim Raisi, Iran's top judge, wins victory in election seen as engineered to help him win.]]></description>
+            <description><![CDATA[Cleric Ebrahim Raisi, Iran's top judge, wins in an election seen as engineered to help him win.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57537027</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57537027</guid>
             <pubDate>Sat, 19 Jun 2021 15:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chesham and Amersham by-election defeat a warning shot, says Tory co-chairman]]></title>
-            <description><![CDATA[Planning reforms for England and HS2 rail had dominated campaigning in Chesham and Amersham.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57535928</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57535928</guid>
-            <pubDate>Sat, 19 Jun 2021 08:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man looking for Mayfair 'guardian angel' who saved his life]]></title>
-            <description><![CDATA[A woman helped Mathew O'Toole while he was suffering from a stroke in Wigmore Street, Mayfair.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57527492</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57527492</guid>
-            <pubDate>Sat, 19 Jun 2021 12:46:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robert Schuman: Pope puts father of modern Europe on sainthood path]]></title>
@@ -100,6 +100,13 @@
             <pubDate>Fri, 18 Jun 2021 21:29:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Juneteenth: After decades, Opal Lee finally gets her day off]]></title>
+            <description><![CDATA[Opal Lee campaigned for years for a national holiday to commemorate the end of slavery in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57536944</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57536944</guid>
+            <pubDate>Sat, 19 Jun 2021 12:22:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fashion: Suffolk influencers promote self-love with mid-size trends]]></title>
             <description><![CDATA[Two midsize fashion influencers speak out about the importance of body positivity on social media.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-57489688</link>
@@ -119,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-57523916</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57523916</guid>
             <pubDate>Fri, 18 Jun 2021 23:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Juneteenth: After decades, Opal Lee finally gets her day off]]></title>
-            <description><![CDATA[Opal Lee campaigned for years for a national holiday to commemorate the end of slavery in the US.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57536944</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57536944</guid>
-            <pubDate>Sat, 19 Jun 2021 12:22:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Squirrel's sinking feeling as Ipswich gardener thwarts food theft]]></title>
@@ -198,6 +198,13 @@
             <pubDate>Fri, 18 Jun 2021 23:09:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[India captain Kohli blunts New Zealand in World Test Championship final]]></title>
+            <description><![CDATA[India captain Virat Kohli keeps New Zealand at bay but more bad weather blights the second day of the World Test Championship final in Southampton.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57538253</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57538253</guid>
+            <pubDate>Sat, 19 Jun 2021 17:30:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Griezmann saves France but Hungary earn famous point in raucous Budapest]]></title>
             <description><![CDATA[Antoine Griezmann rescues a point for France and denies Hungary one of the big Euros shocks in front of a raucous 60,000 crowd in Budapest.]]></description>
             <link>https://www.bbc.co.uk/sport/football/51197610</link>
@@ -212,25 +219,11 @@
             <pubDate>Sat, 19 Jun 2021 16:42:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: Attila Fiola scores shock Hungary opener against France and celebrates wildly]]></title>
-            <description><![CDATA[Defender Attila Fiola opens the scoring against the run of play, sliding a shot past Hugo Lloris to put Hungary 1-0 ahead against World Champions France.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57539791</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57539791</guid>
-            <pubDate>Sat, 19 Jun 2021 14:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Antoine Griezmann equalises against Hungary after good work from Kylian Mbappe]]></title>
-            <description><![CDATA[Forward Antoine Griezmann equalises against Hungary from a Kylian Mbappe cross to give France a much-needed goal.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57539795</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57539795</guid>
-            <pubDate>Sat, 19 Jun 2021 14:42:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[James McFadden: Scotland now have belief to finish off job against Croatia]]></title>
-            <description><![CDATA[BBC Sport Scotland columnist James McFadden on Steve Clarke's side's heroic draw at Wembley]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57539607</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57539607</guid>
-            <pubDate>Sat, 19 Jun 2021 13:49:06 GMT</pubDate>
+            <title><![CDATA[Euro 2020: Scotland fans return home from England game]]></title>
+            <description><![CDATA[The Tartan Army is returning home with some even helping to clean up London's Leicester Square.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57541883</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57541883</guid>
+            <pubDate>Sat, 19 Jun 2021 17:21:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England 0-0 Scotland: 'Real hope for Scotland but a wake-up call for England']]></title>
@@ -238,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/football/57534430</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57534430</guid>
             <pubDate>Fri, 18 Jun 2021 22:48:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[James McFadden: Scotland now have belief to finish off job against Croatia]]></title>
+            <description><![CDATA[BBC Sport Scotland columnist James McFadden on Steve Clarke's side's heroic draw at Wembley]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57539607</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57539607</guid>
+            <pubDate>Sat, 19 Jun 2021 13:49:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland hold England to earn deserved draw]]></title>
