@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Jun 2021 05:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 05:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Sat, 19 Jun 2021 02:39:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chesham and Amersham by-election defeat a warning shot, says Tory co-chairman]]></title>
-            <description><![CDATA[Planning reforms for England and HS2 rail had dominated campaigning in Chesham and Amersham.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57535928</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57535928</guid>
-            <pubDate>Sat, 19 Jun 2021 02:27:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Daniel Morgan: 'My dad had an axe embedded in his skull']]></title>
             <description><![CDATA[The son of Daniel Morgan speaks out after an inquiry into the Met's handling of his father's unsolved murder.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57533387</link>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-57535113</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57535113</guid>
             <pubDate>Sat, 19 Jun 2021 04:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chesham and Amersham by-election defeat a warning shot, says Tory co-chairman]]></title>
+            <description><![CDATA[Planning reforms for England and HS2 rail had dominated campaigning in Chesham and Amersham.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57535928</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57535928</guid>
+            <pubDate>Sat, 19 Jun 2021 02:27:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Give people the right to switch off after work - Labour]]></title>
@@ -241,7 +241,7 @@
         </item>
         <item>
             <title><![CDATA[England's Bland shares unexpected halfway lead at US Open]]></title>
-            <description><![CDATA[England's Richard Bland shares an unexpected US Open lead after a dream second round at Torrey Pines on Friday.]]></description>
+            <description><![CDATA[England's Richard Bland shares an unexpected lead in the US Open after a second-round 67 at Torrey Pines.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/57534516</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57534516</guid>
             <pubDate>Sat, 19 Jun 2021 02:26:42 GMT</pubDate>
