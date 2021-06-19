@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Jun 2021 12:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 13:05:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Paul Givan told he must resign as NI first minister]]></title>
+            <description><![CDATA[Days after he got the role, the Democratic Unionist Party MLA is told he will have to resign when a new leader takes over.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57538844</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57538844</guid>
+            <pubDate>Sat, 19 Jun 2021 12:59:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Daniel Morgan case: I don't accept Met's apology - son says]]></title>
             <description><![CDATA[He tells of his anger after a report calls the force "institutionally corrupt" in its handling of Morgan's murder.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57533387</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57533387</guid>
             <pubDate>Sat, 19 Jun 2021 09:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paul Givan told he must resign as NI first minister]]></title>
-            <description><![CDATA[Days after he got the role, the Democratic Unionist Party MLA is told he will have to resign when a new leader takes over.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57538844</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57538844</guid>
-            <pubDate>Sat, 19 Jun 2021 11:20:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mosh pits and no masks at Download Festival pilot]]></title>
@@ -37,11 +37,11 @@
             <pubDate>Sat, 19 Jun 2021 07:17:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iran election: Hardliner Raisi set to become president]]></title>
-            <description><![CDATA[Cleric Ebrahim Raisi - Iran's top judge - has received most of the votes counted so far.]]></description>
+            <title><![CDATA[Iran election: Hardliner Raisi will become president]]></title>
+            <description><![CDATA[Cleric Ebrahim Raisi - Iran's top judge - wins landslide victory in election many say favoured him.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57537027</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57537027</guid>
-            <pubDate>Sat, 19 Jun 2021 11:14:23 GMT</pubDate>
+            <pubDate>Sat, 19 Jun 2021 12:48:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chesham and Amersham by-election defeat a warning shot, says Tory co-chairman]]></title>
@@ -58,13 +58,6 @@
             <pubDate>Fri, 18 Jun 2021 21:32:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Myanmar coup: UN calls for arms embargo against military]]></title>
-            <description><![CDATA[In a rare move, the UN condemns the overthrowing of Aung San Suu Kyi and calls for an arms embargo.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57536032</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57536032</guid>
-            <pubDate>Sat, 19 Jun 2021 01:34:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Some furloughed workers do not want to return, Andrea Leadsom says]]></title>
             <description><![CDATA[But the ex-business secretary says there is also a mental health issue, with some fearful of returning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57531637</link>
@@ -72,11 +65,11 @@
             <pubDate>Fri, 18 Jun 2021 21:25:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Milkha Singh: India's 'Flying Sikh' dies from Covid]]></title>
-            <description><![CDATA[The country's most famous athlete ran for his life as a child and then ran to win medals.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57523457</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57523457</guid>
-            <pubDate>Sat, 19 Jun 2021 03:31:25 GMT</pubDate>
+            <title><![CDATA[Man looking for Mayfair 'guardian angel' who saved his life]]></title>
+            <description><![CDATA[A woman helped Mathew O'Toole while he was suffering from a stroke in Wigmore Street, Mayfair.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57527492</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57527492</guid>
+            <pubDate>Sat, 19 Jun 2021 12:46:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fears Liverpool may lose World Heritage status]]></title>
@@ -86,18 +79,25 @@
             <pubDate>Sat, 19 Jun 2021 10:49:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Myanmar coup: UN calls for arms embargo against military]]></title>
+            <description><![CDATA[In a rare move, the UN condemns the overthrowing of Aung San Suu Kyi and calls for an arms embargo.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57536032</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57536032</guid>
+            <pubDate>Sat, 19 Jun 2021 01:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fake ads on Facebook spoil real life fairy story]]></title>
+            <description><![CDATA[A firm making wire fairy sculptures has been hit by scammers using adverts on the social media network.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57487193</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57487193</guid>
+            <pubDate>Fri, 18 Jun 2021 21:29:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fashion: Suffolk influencers promote self-love with mid-size trends]]></title>
             <description><![CDATA[Two midsize fashion influencers speak out about the importance of body positivity on social media.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-57489688</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57489688</guid>
             <pubDate>Fri, 18 Jun 2021 23:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The papers: 'Flopscotch' at the Euros and blue wall 'at risk']]></title>
-            <description><![CDATA[The front pages focus on the England v Scotland stalemate at Wembley and the Lib Dem by-election win.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57535081</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57535081</guid>
-            <pubDate>Sat, 19 Jun 2021 04:47:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Week in pictures: 12 - 18 June 2021]]></title>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-57523916</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57523916</guid>
             <pubDate>Fri, 18 Jun 2021 23:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Juneteenth: After decades, Opal Lee finally gets her day off]]></title>
+            <description><![CDATA[Opal Lee campaigned for years for a national holiday to commemorate the end of slavery in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57536944</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57536944</guid>
+            <pubDate>Sat, 19 Jun 2021 12:22:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Squirrel's sinking feeling as Ipswich gardener thwarts food theft]]></title>
@@ -135,13 +142,6 @@
             <pubDate>Fri, 18 Jun 2021 15:01:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[France's Le Pen on track for regional power with an eye on presidency]]></title>
-            <description><![CDATA[France's far-right National Rally party looks set to top Sunday's first round regional vote.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57523467</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57523467</guid>
-            <pubDate>Fri, 18 Jun 2021 23:07:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[North Korea: Why doesn't it have enough food this year?]]></title>
             <description><![CDATA[The country's leader Kim Jong-un has warned of shortages - what do we know about the food situation?]]></description>
             <link>https://www.bbc.co.uk/news/57524614</link>
@@ -149,11 +149,11 @@
             <pubDate>Fri, 18 Jun 2021 23:08:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can old traditions and tech help Singapore reach zero waste?]]></title>
-            <description><![CDATA[Singapore sees its traditional rag and bone collectors as key to its sustainability plans.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57484499</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57484499</guid>
-            <pubDate>Fri, 18 Jun 2021 23:09:40 GMT</pubDate>
+            <title><![CDATA['My window visit helped save my son’s life after kidney failure']]></title>
+            <description><![CDATA[Luke Horne was self-isolating because he thought he had Covid - but his dad spotted something else was wrong.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57525784</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57525784</guid>
+            <pubDate>Fri, 18 Jun 2021 23:16:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I trained for a 1,000-mile cycle on chemotherapy']]></title>
@@ -163,6 +163,13 @@
             <pubDate>Sat, 19 Jun 2021 06:26:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ipswich: 'It's surprising we have the lowest Covid rate']]></title>
+            <description><![CDATA[Why does Ipswich have the lowest coronavirus figures in England?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57510280</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57510280</guid>
+            <pubDate>Sat, 19 Jun 2021 06:56:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Timothy Spall: 'I was crying, swearing and chucking paint']]></title>
             <description><![CDATA[He's played Lowry and Turner, and now the actor explains how he came to be holding his own art show.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57484401</link>
@@ -170,11 +177,18 @@
             <pubDate>Fri, 18 Jun 2021 23:41:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Armenia's war defeat prompts bitter vote on rebuilding country]]></title>
-            <description><![CDATA[After a fierce campaign, the election will decide the country's post-war future.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57511357</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57511357</guid>
-            <pubDate>Fri, 18 Jun 2021 23:11:23 GMT</pubDate>
+            <title><![CDATA[France's Le Pen on track for regional power with an eye on presidency]]></title>
+            <description><![CDATA[France's far-right National Rally party looks set to top Sunday's first round regional vote.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57523467</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57523467</guid>
+            <pubDate>Fri, 18 Jun 2021 23:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can old traditions and tech help Singapore reach zero waste?]]></title>
+            <description><![CDATA[Singapore sees its traditional rag and bone collectors as key to its sustainability plans.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57484499</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57484499</guid>
+            <pubDate>Fri, 18 Jun 2021 23:09:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England fast bowler Stone out for season with back injury]]></title>
