@@ -4,7 +4,7 @@
 4. [Covid: Brazil hits 500,000 deaths amid 'critical' situation](https://www.bbc.co.uk/news/world-latin-america-57541794) - Experts warn the outbreak could worsen amid a slow vaccination programme and the start of winter.
 5. [McDonald's to hire 20,000 staff and open 50 outlets](https://www.bbc.co.uk/news/business-57544235) - The burger giant's UK and Ireland boss tells the Sunday Telegraph it is becoming "harder to recruit".
 6. [Tokyo Olympics: Inside the athletes' village](https://www.bbc.co.uk/news/world-asia-57546256) - Rupert Wingfield-Hayes takes a look at how the athletes' village hopes to mitigate the risk of Covid.
-7. [Mayfair 'guardian angel' who saved man's life after stroke found](https://www.bbc.co.uk/news/uk-england-london-57539824) - Mathew O'Toole's plea to find the woman who saved him was seen by one of her friends on Saturday.
+7. [France election: Macron and Le Pen fail to make ground - exit poll](https://www.bbc.co.uk/news/world-europe-57546011) - Early results indicate Emmanuel Macron and Marine Le Pen's parties have failed to make ground.
 8. [Max Verstappen wins intense French Grand Prix battle with Lewis Hamilton](https://www.bbc.co.uk/sport/formula1/57545961) - Max Verstappen fights back to pass Lewis Hamilton and take a brilliant win in the French Grand Prix to extend his championship lead.
 9. [Tokyo Olympics: Ugandan tests positive for Covid in Japan](https://www.bbc.co.uk/news/world-africa-57544173) - The Ugandan was part of a nine-member squad who were fully vaccinated, reports say.
 10. [Colin Pitchfork: Minister may intervene in murderer release](https://www.bbc.co.uk/news/uk-england-leicestershire-57544939) - Robert Buckland said he was taking advice and considering the matter "very carefully".
