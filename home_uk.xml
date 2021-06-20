@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Jun 2021 16:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jun 2021 16:58:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,32 +58,11 @@
             <pubDate>Sun, 20 Jun 2021 15:24:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stoke-on-Trent crash: Girl, 6, killed and father hurt]]></title>
-            <description><![CDATA[The girl was walking with her father when the pair were reportedly hit by a car, police said.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57544083</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57544083</guid>
-            <pubDate>Sun, 20 Jun 2021 14:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conservative councillor's house set on fire in third attack]]></title>
-            <description><![CDATA[Police are treating the blaze at Graeme Campbell's property in Fortrose Gardens, Strathaven as suspicious.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57545325</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57545325</guid>
-            <pubDate>Sun, 20 Jun 2021 11:53:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Ugandan tests positive for Covid in Japan]]></title>
             <description><![CDATA[The Ugandan was part of a nine-member squad who were fully vaccinated, reports say.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57544173</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57544173</guid>
             <pubDate>Sun, 20 Jun 2021 14:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran nuclear deal: Israel attacks Iran as talks progress]]></title>
-            <description><![CDATA[Israel attacks Iran as world powers continue talks on reviving a landmark nuclear deal with Iran.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57546290</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57546290</guid>
-            <pubDate>Sun, 20 Jun 2021 16:00:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colin Pitchfork: Minister may intervene in murderer release]]></title>
@@ -93,11 +72,39 @@
             <pubDate>Sun, 20 Jun 2021 13:41:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Girl, 13, dies after falling from roof of Largs building]]></title>
+            <description><![CDATA[Police said there were no suspicious circumstances surrounding the girl's death in Largs on Saturday night.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57546342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57546342</guid>
+            <pubDate>Sun, 20 Jun 2021 16:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conservative councillor's house set on fire in third attack]]></title>
+            <description><![CDATA[Police are treating the blaze at Graeme Campbell's property in Fortrose Gardens, Strathaven as suspicious.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57545325</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57545325</guid>
+            <pubDate>Sun, 20 Jun 2021 11:53:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran nuclear deal: Israel attacks Iran as talks progress]]></title>
+            <description><![CDATA[Israel attacks Iran as world powers continue talks on reviving a landmark nuclear deal with Iran.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57546290</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57546290</guid>
+            <pubDate>Sun, 20 Jun 2021 16:00:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thelma & Louise stars recall male backlash to film 30 years on]]></title>
             <description><![CDATA[Geena Davis and Susan Sarandon reflect on the role of women in film at an anniversary screening.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57543891</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57543891</guid>
             <pubDate>Sun, 20 Jun 2021 12:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dál Riata Channel: First all-female relay team swim 'perilous' waterway]]></title>
+            <description><![CDATA[The group swam from Scotland to NI in just over eight hours, after abandoning a first attempt.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57543609</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57543609</guid>
+            <pubDate>Sun, 20 Jun 2021 16:11:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Finally having a wig puts the smile on your face']]></title>
@@ -237,7 +244,14 @@
             <description><![CDATA[Cameron Norrie's hopes of winning his first ATP Tour title are ended as he loses to top seed Matteo Berrettini at Queen's Club.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57545917</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57545917</guid>
-            <pubDate>Sun, 20 Jun 2021 15:14:19 GMT</pubDate>
+            <pubDate>Sun, 20 Jun 2021 16:22:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hartlepool promoted to Football League after beating Torquay on penalties]]></title>
+            <description><![CDATA[Hartlepool United return to the English Football League as they beat Torquay United 5-4 on penalties, despite Gulls goalkeeper Lucas Covolan scoring a stoppage time equaliser.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57457835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57457835</guid>
+            <pubDate>Sun, 20 Jun 2021 16:56:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICC World Test Championship final: New Zealand's Kyle Jamieson takes back-to-back India wickets]]></title>
