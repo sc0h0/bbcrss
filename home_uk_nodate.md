@@ -1,5 +1,5 @@
 1. [Covid: Brazil hits 500,000 deaths amid 'critical' situation](https://www.bbc.co.uk/news/world-latin-america-57541794) - Experts warn the outbreak could worsen amid a slow vaccination programme and the start of winter.
-2. [Andy Burnham's anger at Manchester-Scotland travel ban](https://www.bbc.co.uk/news/uk-england-manchester-57544665) - Greater Manchester mayor Andy Burnham says Nicola Sturgeon's announcement came "out of the blue".
+2. [Andy Burnham's anger at Manchester-Scotland travel ban](https://www.bbc.co.uk/news/uk-england-manchester-57544665) - Andy Burnham says he will ask the Scottish government for compensation for affected individuals.
 3. [Mayfair 'guardian angel' who saved man's life after stroke found](https://www.bbc.co.uk/news/uk-england-london-57539824) - Mathew O'Toole's plea to find the woman who saved him was seen by one of her friends on Saturday.
 4. [Tokyo Olympics: Inside the athletes' village](https://www.bbc.co.uk/news/world-asia-57546256) - Rupert Wingfield-Hayes takes a look at how the athletes' village hopes to mitigate the risk of Covid.
 5. [Max Verstappen wins intense French Grand Prix battle with Lewis Hamilton](https://www.bbc.co.uk/sport/formula1/57545961) - Max Verstappen fights back to pass Lewis Hamilton and take a brilliant win in the French Grand Prix to extend his championship lead.
