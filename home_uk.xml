@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Jun 2021 11:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jun 2021 11:24:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -63,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57542194</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57542194</guid>
             <pubDate>Sun, 20 Jun 2021 09:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran election: Israel PM warns world of Ebrahim Raisi]]></title>
-            <description><![CDATA[Prime Minister Naftali Bennett attacks Iran as a "regime of brutal hangmen" at a cabinet meeting.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57541346</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57541346</guid>
-            <pubDate>Sun, 20 Jun 2021 11:10:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DUP leadership: Donaldson favourite as nominations open]]></title>
@@ -261,13 +254,6 @@
             <pubDate>Sat, 19 Jun 2021 19:47:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are the rules for weddings and can I hold a reception?]]></title>
-            <description><![CDATA[Restrictions on weddings have been eased across the UK - so how can you now celebrate?]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52811509</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52811509</guid>
-            <pubDate>Fri, 18 Jun 2021 14:09:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
             <description><![CDATA[Over 40s in England and Scotland can have their second dose after eight weeks instead of 12.]]></description>
             <link>https://www.bbc.co.uk/news/health-55045639</link>
@@ -301,6 +287,13 @@
             <link>https://www.bbc.co.uk/news/health-57532764</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57532764</guid>
             <pubDate>Fri, 18 Jun 2021 23:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the rules for weddings and can I hold a reception?]]></title>
+            <description><![CDATA[Restrictions on weddings have been eased across the UK - so how can you now celebrate?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52811509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52811509</guid>
+            <pubDate>Fri, 18 Jun 2021 14:09:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What are the care home visiting rules?]]></title>
