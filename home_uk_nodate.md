@@ -4,7 +4,7 @@
 4. [Tokyo Olympics: Inside the athletes' village](https://www.bbc.co.uk/news/world-asia-57546256) - Rupert Wingfield-Hayes takes a look at how the athletes' village hopes to mitigate the risk of Covid.
 5. [Former Speaker and Conservative MP John Bercow joins Labour](https://www.bbc.co.uk/news/uk-politics-57541836) - He says he shares Labour values and the "reactionary" Conservative government needs to be replaced.
 6. [Stoke-on-Trent crash: Girl, 6, killed and father hurt](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57544083) - The girl was walking with her father when the pair were reportedly hit by a car, police said.
-7. [Conservative councillor's house set on fire in third attack](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57545325) - Police are treating the blaze at Graeme Campbell's property in Fortrose Gardens, Motherwell as suspicious.
+7. [Conservative councillor's house set on fire in third attack](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57545325) - Police are treating the blaze at Graeme Campbell's property in Fortrose Gardens, Strathaven as suspicious.
 8. [Outdoor civil weddings and partnerships get the go ahead](https://www.bbc.co.uk/news/uk-57542818) - Non-religious weddings in England and Wales have had to take place indoors until now.
 9. [Colin Pitchfork: Minister may intervene in murderer release](https://www.bbc.co.uk/news/uk-england-leicestershire-57544939) - Robert Buckland said he was taking advice and considering the matter "very carefully".
 10. [Tokyo Olympics: Ugandan tests positive for Covid in Japan](https://www.bbc.co.uk/news/world-africa-57544173) - The Ugandan was part of a nine-member squad who were fully vaccinated, reports say.
