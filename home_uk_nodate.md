@@ -2,7 +2,7 @@
 2. [Iran election: Israel voices 'grave concern' over Ebrahim Raisi](https://www.bbc.co.uk/news/world-middle-east-57541346) - Israel says Ebrahim Raisi has nuclear ambitions and is Iran's most extremist president yet.
 3. [Covid: Brazil hits 500,000 deaths and outdoor civil weddings](https://www.bbc.co.uk/news/uk-57542755) - Five things you need to know about the coronavirus pandemic this Sunday morning.
 4. [Former Speaker and Conservative MP John Bercow joins Labour](https://www.bbc.co.uk/news/uk-politics-57541836) - He says he shares Labour's values and that the government "needs to be replaced".
-5. [Outdoor civil weddings and partnerships get the go ahead](https://www.bbc.co.uk/news/uk-57542818) - The law change next month will allow ceremonies to take place in the open air in England and Wales.
+5. [Outdoor civil weddings and partnerships get the go ahead](https://www.bbc.co.uk/news/uk-57542818) - Until now, non-religious weddings in England and Wales had to take place indoors.
 6. [Euro 2020: Wales travel to Italy's Roman fortress for final group game](https://www.bbc.co.uk/sport/football/51197631) - Wales are within touching distance of the Euro 2020 knockout stage as they visit Rome for their final group game against an Italy side in ominous form.
 7. [Sort rape convictions or go, Labour tells Buckland](https://www.bbc.co.uk/news/uk-politics-57542194) - Labour says the justice secretary must resign if he cannot reverse low rape convictions in a year.
 8. [Arizona police shoot driver who crashed into charity bike ride](https://www.bbc.co.uk/news/world-us-canada-57542454) - Six cyclists and the suspect are critically injured after the incident at a charity bike ride.
