@@ -6,9 +6,9 @@
 6. [Former Speaker and Conservative MP John Bercow joins Labour](https://www.bbc.co.uk/news/uk-politics-57541836) - He says he shares Labour values and the "reactionary" Conservative government needs to be replaced.
 7. [Stoke-on-Trent crash: Girl, 6, killed and father hurt](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57544083) - The girl was walking with her father when the pair were reportedly hit by a car, police said.
 8. [Conservative councillor's house set on fire in third attack](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57545325) - Police are treating the blaze at Graeme Campbell's property in Fortrose Gardens, Motherwell as suspicious.
-9. [Outdoor civil weddings and partnerships get the go ahead](https://www.bbc.co.uk/news/uk-57542818) - Non-religious weddings in England and Wales have had to take place indoors until now.
-10. [Sort rape convictions or go, Labour tells Buckland](https://www.bbc.co.uk/news/uk-politics-57542194) - Labour says the justice secretary must resign if he cannot reverse low rape convictions in a year.
-11. [DUP leadership: Donaldson favourite as nominations open](https://www.bbc.co.uk/news/uk-northern-ireland-57542596) - Sir Jeffrey Donaldson has made it clear he intends to lead the party from Stormont as first minister.
+9. [Tokyo Olympics: Ugandan tests positive for Covid in Japan](https://www.bbc.co.uk/news/world-africa-57544173) - The Ugandan was part of a nine-member squad which were fully vaccinated, reports say.
+10. [Outdoor civil weddings and partnerships get the go ahead](https://www.bbc.co.uk/news/uk-57542818) - Non-religious weddings in England and Wales have had to take place indoors until now.
+11. [Sort rape convictions or go, Labour tells Buckland](https://www.bbc.co.uk/news/uk-politics-57542194) - Labour says the justice secretary must resign if he cannot reverse low rape convictions in a year.
 12. [Gold coins lost in Black Death confusion found in Reepham](https://www.bbc.co.uk/news/uk-england-norfolk-57520248) - Hardly any of the leopard coins from 1344 have survived, an expert says.
 13. ['Finally having a wig puts the smile on your face'](https://www.bbc.co.uk/news/uk-england-leicestershire-57512139) - A girl, 15, who donated her hair to a cancer charity finds out a year later she has cancer herself.
 14. [ICYMI: Birds, planes and automobiles](https://www.bbc.co.uk/news/world-57532638) - Brooklyn ducks, a Brittany bird-man, and a race with a difference - some of the stories you might have missed this week.
