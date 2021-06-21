@@ -4,7 +4,7 @@
 4. [Laurel Hubbard: First transgender athlete to compete at Olympics](https://www.bbc.co.uk/news/world-asia-57549653) - NZ weightlifter Laurel Hubbard is headed for Tokyo but critics say she has an unfair advantage.
 5. [US Navy uses 40,000lb explosive to test warship in 'Full Ship Shock Trial'](https://www.bbc.co.uk/news/world-us-canada-57547885) - The US Navy conducted a 'Full Ship Shock Trial' against its aircraft carrier, the USS Gerald R. Ford.
 6. [Usain Bolt welcomes newborn twin sons Thunder and Saint Leo](https://www.bbc.co.uk/news/world-latin-america-57549202) - The Olympic champion and his girlfriend Kasi Bennett announced the births on Instagram.
-7. [PM's research budget to make UK 'science superpower'](https://www.bbc.co.uk/news/science-environment-57548531) - Boris Johnson says the country will be able to "breathe life into more breakthroughs that transform lives".
+7. [PM's research plan to make UK 'science superpower'](https://www.bbc.co.uk/news/science-environment-57548531) - Boris Johnson says the country will be able to "breathe life into more breakthroughs that transform lives".
 8. [Contaminated blood inquiry: The school where dozens of pupils died](https://www.bbc.co.uk/news/uk-57547366) - Ex-pupils caught up in the infected blood scandal decades ago will give evidence at an inquiry.
 9. [Covid: Music and comedy venue changes in Wales lockdown easing](https://www.bbc.co.uk/news/uk-wales-57530864) - Capacity rules in gig and comedy venues relaxed in a slight lifting on Welsh lockdown restrictions.
 10. [Apple Daily: HK pro-democracy paper could 'shut within days', says adviser](https://www.bbc.co.uk/news/business-57549542) - It comes after 500 officers raided the paper and froze HK$18m worth of assets linked to the company.
