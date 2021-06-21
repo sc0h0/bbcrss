@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Jun 2021 07:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jun 2021 07:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,14 +27,7 @@
             <description><![CDATA[Health leaders say planning for an autumn rollout must start now as it will involve bigger challenges.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57548796</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57548796</guid>
-            <pubDate>Mon, 21 Jun 2021 06:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France regional election: Macron and Le Pen fail to make ground - exit poll]]></title>
-            <description><![CDATA[Early results indicate both parties have failed to make ground in France's regional elections.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57546011</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57546011</guid>
-            <pubDate>Mon, 21 Jun 2021 05:51:09 GMT</pubDate>
+            <pubDate>Mon, 21 Jun 2021 07:15:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Laurel Hubbard: First transgender athlete to compete at Olympics]]></title>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-57547712</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57547712</guid>
             <pubDate>Mon, 21 Jun 2021 06:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France regional election: Macron and Le Pen fail to make ground - exit poll]]></title>
+            <description><![CDATA[Early results indicate both parties have failed to make ground in France's regional elections.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57546011</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57546011</guid>
+            <pubDate>Mon, 21 Jun 2021 05:51:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Usain Bolt welcomes newborn twin sons Thunder and Saint Leo]]></title>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-57548406</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57548406</guid>
             <pubDate>Sun, 20 Jun 2021 19:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Open: Jon Rahm finishes with back-to-back birdies to claim first major title]]></title>
-            <description><![CDATA[Spain's Jon Rahm claims an incredible first major title as he finishes with back-to-back birdies on a breathless US Open final day at Torrey Pines.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/57548561</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57548561</guid>
-            <pubDate>Mon, 21 Jun 2021 01:51:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The papers: Jab hope to save travel and pensions tax threat]]></title>
@@ -247,6 +240,13 @@
             <pubDate>Sat, 19 Jun 2021 23:28:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['The stars aligned' - Rahm wins first major at US Open]]></title>
+            <description><![CDATA[Spain's Jon Rahm claims an incredible first major title as he finishes with back-to-back birdies on a breathless US Open final day at Torrey Pines.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/57548561</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57548561</guid>
+            <pubDate>Mon, 21 Jun 2021 01:51:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Felix qualifies for fifth Olympics - three years after life-threatening childbirth complications]]></title>
             <description><![CDATA[Allyson Felix qualifies for her fifth Olympic Games - and her first as a mother.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/57550808</link>
@@ -273,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/av/golf/57549374</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/57549374</guid>
             <pubDate>Sun, 20 Jun 2021 23:58:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Shake that tree' - Mackenzie Hughes' ball gets stuck in branches at US Open]]></title>
-            <description><![CDATA[Mackenzie Hughes' ball gets stuck in a tree at US Open scuppering the Canadian's chances on he final day.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/golf/57549372</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/57549372</guid>
-            <pubDate>Sun, 20 Jun 2021 23:31:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
@@ -345,11 +338,11 @@
             <pubDate>Fri, 18 Jun 2021 23:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are the rules for weddings and can I hold a reception?]]></title>
+            <title><![CDATA[What are the rules for weddings and receptions?]]></title>
             <description><![CDATA[Restrictions on weddings have been eased across the UK - so how can you now celebrate?]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52811509</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52811509</guid>
-            <pubDate>Fri, 18 Jun 2021 14:09:30 GMT</pubDate>
+            <pubDate>Mon, 21 Jun 2021 07:29:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What are the care home visiting rules?]]></title>
@@ -457,11 +450,25 @@
             <pubDate>Tue, 08 Jun 2021 23:00:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Troubled US teens left traumatised by tough love camps]]></title>
+            <description><![CDATA[Paris Hilton is among thousands who allege abuse at programmes aimed at reforming US teenagers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57442175</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57442175</guid>
+            <pubDate>Fri, 18 Jun 2021 23:00:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Living with obesity: The people who are hard-wired to store fat]]></title>
             <description><![CDATA[Specialist health professionals say obesity should be regarded as a complex illness, and people with the condition shouldn't be blamed for it.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57419041</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57419041</guid>
             <pubDate>Thu, 17 Jun 2021 00:24:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Once the future, US now captive to its past]]></title>
+            <description><![CDATA[History is inescapable to Americans and visitors alike but now it's become more contested than ever.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57517781</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57517781</guid>
+            <pubDate>Thu, 17 Jun 2021 22:47:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘I got PTSD after witnessing my daughter’s birth’]]></title>
@@ -476,20 +483,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-57493020</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57493020</guid>
             <pubDate>Wed, 16 Jun 2021 02:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Huntington's disease won't stop me having a baby']]></title>
-            <description><![CDATA[Heather and her husband are going to have a baby, even though Heather's time with the child will be limited.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-57430859</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57430859</guid>
-            <pubDate>Fri, 11 Jun 2021 00:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The 80s song that brought my lost memory back after 10 years']]></title>
-            <description><![CDATA[A car crash erased Thomas's memory - 10 years later, a 1980s pop song triggered six flashbacks.]]></description>
-            <link>https://www.bbc.co.uk/news/disability-50478524</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-50478524</guid>
-            <pubDate>Sat, 12 Jun 2021 23:17:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
