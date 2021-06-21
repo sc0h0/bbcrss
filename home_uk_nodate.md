@@ -5,7 +5,7 @@
 5. [Tom Stoltman: Scot lifts World's Strongest Man title](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57553017) - Tom Stoltman - the first Scot to win the competition - took up weightlifting in his late teens.
 6. [Social care: Ministers urged to 'act now' on funding reform](https://www.bbc.co.uk/news/uk-politics-57552287) - Seven organisations representing the sector in England say a plan must be published within a month.
 7. [US Navy uses 40,000lb explosive to test warship in 'Full Ship Shock Trial'](https://www.bbc.co.uk/news/world-us-canada-57547885) - The US Navy conducted a 'Full Ship Shock Trial' against its aircraft carrier, the USS Gerald R. Ford.
-8. [Covid booster vaccine plan to come in a few weeks - Matt Hancock](https://www.bbc.co.uk/news/uk-57548796) - NHS leaders say planning for an autumn rollout must start now as it will involve bigger challenges.
+8. [Covid-19: Matt Hancock hopes to scrap isolation for double-jabbed contacts](https://www.bbc.co.uk/news/uk-57552793) - Daily testing will replace 10-day isolation if a pilot is effective, the health secretary says.
 9. [Laurel Hubbard: First transgender athlete to compete at Olympics](https://www.bbc.co.uk/news/world-asia-57549653) - NZ weightlifter Laurel Hubbard is headed for Tokyo but critics say she has an unfair advantage.
 10. [Hotel Chocolat pays £4 for beauty firm Rabot 1745](https://www.bbc.co.uk/news/business-57552277) - The confectioner pays less than its cheapest box of chocolates for full control of the joint venture.
 11. [Up to 10,000 Japanese fans at Tokyo 2020 events](https://www.bbc.co.uk/sport/57550621) - Up to 10,000 Japanese fans - or 50% capacity - will be permitted at venues at the Tokyo 2020 Olympics, despite warnings from health bosses.
