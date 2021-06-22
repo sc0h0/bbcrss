@@ -1,4 +1,4 @@
-1. [Poorer white pupils neglected for decades, say MPs](https://www.bbc.co.uk/news/education-57558746) - White pupils from low income families are falling behind "every step of the way", a committee of MPs says.
+1. [Poorer white pupils let down and neglected - MPs](https://www.bbc.co.uk/news/education-57558746) - White pupils from low income families are falling behind "every step of the way", an education committee says.
 2. [Who could England face in Euro 2020 last 16? What do Scotland need to qualify?](https://www.bbc.co.uk/sport/football/57546466) - England have secured a spot in the last 16, but what do Scotland need in the final group game and who might await them in the Euro 2020 knockout stages?
 3. [Covid in Scotland: Sturgeon to confirm delay to lockdown easing](https://www.bbc.co.uk/news/uk-scotland-57560391) - The first minister is expected to say a move to level zero in Scotland will be pushed back until mid-July.
 4. [Daniel Morgan case: Ex-suspect denies corruption hindered police investigation](https://www.bbc.co.uk/news/uk-57538375) - Jonathan Rees, acquitted in 2011, drank with police while a suspect in the murder of Daniel Morgan.
@@ -19,7 +19,7 @@
 19. [Covid vaccine: Margaret Keenan reflects receiving world's first jab](https://www.bbc.co.uk/news/health-57532766) - Since receiving the world's first Covid-19 vaccine, Ms Keenan has stayed in contact with the nurse who administered it.
 20. [US Navy uses 40,000lb explosive to test warship in 'Full Ship Shock Trial'](https://www.bbc.co.uk/news/world-us-canada-57547885) - The US Navy conducted a 'Full Ship Shock Trial' against its aircraft carrier, the USS Gerald R. Ford.
 21. [Usain Bolt welcomes newborn twin sons Thunder and Saint Leo](https://www.bbc.co.uk/news/world-latin-america-57549202) - The Olympic champion and his girlfriend Kasi Bennett announced the births on Instagram.
-22. [A fake wedding, and a $250,000 scam - 'I was such an idiot'](https://www.bbc.co.uk/news/world-europe-57358241) - How a British man's dreams of a future with his Ukrainian fiancee ended in financial disaster.
+22. [A fake wedding, and a $250,000 scam](https://www.bbc.co.uk/news/world-europe-57358241) - How a British man's dreams of a future with his Ukrainian fiancee ended in financial disaster.
 23. [Eva Schloss: 'Why I took Austrian citizenship aged 92'](https://www.bbc.co.uk/news/uk-england-london-57518071) - Eva Schloss has accepted Austrian citizenship, more than 80 years after she fled the country. Why?
 24. [Instagram model Demi Rose on why she joined OnlyFans](https://www.bbc.co.uk/news/newsbeat-57491149) - The model and influencer says she created an OnlyFans account to give her more career control.
 25. [India economy: Seven years of Modi in seven charts](https://www.bbc.co.uk/news/world-asia-india-57437944) - Covid battered an already sluggish economy, weakened by poor growth, job losses and stagnant exports.
