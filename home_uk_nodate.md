@@ -1,4 +1,4 @@
-1. [Poorer white pupils neglected for decades, say MPs](https://www.bbc.co.uk/news/education-57558746) - Divisive terms like "white privilege" do not help and promote disharmony, the committee chairman says.
+1. [Poorer white pupils neglected for decades, say MPs](https://www.bbc.co.uk/news/education-57558746) - White pupils from low income families are falling behind "every step of the way", a committee of MPs says.
 2. [Who could England face in Euro 2020 last 16? What do Scotland need to qualify?](https://www.bbc.co.uk/sport/football/57546466) - England have secured a spot in the last 16, but what do Scotland need in the final group game and who might await them in the Euro 2020 knockout stages?
 3. [Covid in Scotland: Sturgeon to confirm delay to lockdown easing](https://www.bbc.co.uk/news/uk-scotland-57560391) - The first minister is expected to say a move to level zero in Scotland will be pushed back until mid-July.
 4. [NFL: Carl Nassib becomes first active player to come out as gay](https://www.bbc.co.uk/sport/american-football/57562545) - Las Vegas Raiders defensive end Carl Nassib becomes the first active NFL player to come out as gay.
