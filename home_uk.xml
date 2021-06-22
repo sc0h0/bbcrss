@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Jun 2021 15:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 16:40:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Tue, 22 Jun 2021 15:13:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dominic Cummings tried to bypass rules over £530k grant, emails suggest]]></title>
+            <description><![CDATA[The PM's ex-top aide told officials to "immediately" issue a £530,000 grant with "no procurement".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57531636</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57531636</guid>
+            <pubDate>Tue, 22 Jun 2021 16:00:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Aim for double-jabbed arrivals to avoid quarantine - Hancock]]></title>
             <description><![CDATA[Ministers are "working on" plans for quarantine-free travel from amber list countries if vaccinated.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57570088</link>
@@ -37,18 +44,18 @@
             <pubDate>Tue, 22 Jun 2021 15:47:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Delay to Scotland easing, and Wembley to admit 60,000 fans]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57571435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57571435</guid>
+            <pubDate>Tue, 22 Jun 2021 16:17:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tinder boss says Covid changed how we swipe right]]></title>
             <description><![CDATA["They want to slow things down and get to know people first a lot more before they decide to match."]]></description>
             <link>https://www.bbc.co.uk/news/technology-57557180</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57557180</guid>
             <pubDate>Tue, 22 Jun 2021 14:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mason Mount and Ben Chilwell out of England's Euro 2020 match with Czech Republic]]></title>
-            <description><![CDATA[England's Mason Mount and Ben Chilwell are out of Tuesday's game with the Czech Republic as they self-isolate because of a risk of Covid-19 exposure.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57564682</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57564682</guid>
-            <pubDate>Tue, 22 Jun 2021 13:58:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turkmenistan's capital tops list of most expensive cities for expats]]></title>
@@ -66,10 +73,17 @@
         </item>
         <item>
             <title><![CDATA[DUP leadership: Sir Jeffrey Donaldson is only candidate]]></title>
-            <description><![CDATA[The Lagan Valley MP is the only candidate and his name will now to go the party's electoral college.]]></description>
+            <description><![CDATA[He would be the party's third leader in weeks, during a crisis that has raised questions about devolution.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57560163</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57560163</guid>
-            <pubDate>Tue, 22 Jun 2021 13:52:15 GMT</pubDate>
+            <pubDate>Tue, 22 Jun 2021 16:36:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angela Merkel receives Moderna as second jab after AstraZeneca shot]]></title>
+            <description><![CDATA[Experts believe mixed dosing of Covid vaccines could be a good idea but it's too early to say for sure.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57571791</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57571791</guid>
+            <pubDate>Tue, 22 Jun 2021 15:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cardboard 'in people's garages causing shortage']]></title>
@@ -79,18 +93,11 @@
             <pubDate>Tue, 22 Jun 2021 15:43:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Manchester Arena Inquiry: 'Nightmare journey' delayed fire chief]]></title>
-            <description><![CDATA[Andy Berry got lost on the way to a meeting point he had suggested after the Manchester Arena attack.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57568254</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57568254</guid>
-            <pubDate>Tue, 22 Jun 2021 14:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Billie Eilish sorry for mouthing anti-Asian slur in resurfaced video]]></title>
-            <description><![CDATA[The singer said she's "appalled" by a clip which has been shared recently on TikTok.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57564878</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57564878</guid>
-            <pubDate>Tue, 22 Jun 2021 08:58:21 GMT</pubDate>
+            <title><![CDATA[Zoom meetings ban sees Middlewich Town Council convene in car park]]></title>
+            <description><![CDATA[Middlewich Town Council could not legally meet online and its usual venue is being used for vaccinations.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-57565782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57565782</guid>
+            <pubDate>Tue, 22 Jun 2021 12:53:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Windrush Day: 'Windrush is the big thing in the black community']]></title>
@@ -105,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-essex-57561709</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57561709</guid>
             <pubDate>Tue, 22 Jun 2021 05:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wally the Walrus' adventures continue on Isles of Scilly]]></title>
+            <description><![CDATA[The walrus has taken to a local fishing boat for a spot of sunbathing in the Isles of Scilly.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-57572045</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-57572045</guid>
+            <pubDate>Tue, 22 Jun 2021 15:55:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Michelin-star restaurant stops serving lunch due to lack of staff]]></title>
@@ -163,6 +177,13 @@
             <pubDate>Mon, 21 Jun 2021 23:06:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GP data sharing: What is it and can I opt out?]]></title>
+            <description><![CDATA[A scheme to centralise GP patient records in England has been delayed after concerns about a lack of publicity.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57555013</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57555013</guid>
+            <pubDate>Tue, 22 Jun 2021 15:56:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is white privilege?]]></title>
             <description><![CDATA[A new education report by a group of MPs has caused debate because of references to white privilege.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57567647</link>
@@ -219,6 +240,13 @@
             <pubDate>Tue, 22 Jun 2021 04:59:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England duo Mount & Chilwell out of Czech game and could also miss last-16 tie]]></title>
+            <description><![CDATA[England's Mason Mount and Ben Chilwell are out of Tuesday's game with the Czech Republic as they self-isolate because of a risk of Covid-19 exposure.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57564682</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57564682</guid>
+            <pubDate>Tue, 22 Jun 2021 13:58:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Why it’s time for Henderson to return for England']]></title>
             <description><![CDATA[Former England midfielder and BBC Sport columnist Danny Murphy says the Three Lions' final game in Group D against the Czech Republic is the perfect time to bring Jordan Henderson back into midfield.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57554697</link>
@@ -240,11 +268,11 @@
             <pubDate>Tue, 22 Jun 2021 12:18:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro2020: 'Football at its absolute best' - Incredible goals & scenes from Denmark epic]]></title>
-            <description><![CDATA[Watch all the goals, celebrations and reaction from Denmark's emotional 4-1 victory over Russia on a frantic night in Copenhagen.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57560871</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57560871</guid>
-            <pubDate>Tue, 22 Jun 2021 01:25:02 GMT</pubDate>
+            <title><![CDATA[Why are England players self-isolating but Scotland's not?]]></title>
+            <description><![CDATA[Two England players are self-isolating after a Scotland player tested positive for Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-57568450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57568450</guid>
+            <pubDate>Tue, 22 Jun 2021 16:02:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: How do Scotland defeat Croatia?]]></title>
@@ -391,7 +419,7 @@
             <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 42 million people receive at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Mon, 21 Jun 2021 16:36:35 GMT</pubDate>
+            <pubDate>Tue, 22 Jun 2021 16:20:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
