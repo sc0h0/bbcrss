@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Jun 2021 23:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 23:48:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -114,11 +114,32 @@
             <pubDate>Tue, 22 Jun 2021 22:25:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What is different about the new £50 bank note?]]></title>
+            <description><![CDATA[A behind-the-scenes look inside a high-security banknote printing plant.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57570867</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57570867</guid>
+            <pubDate>Tue, 22 Jun 2021 23:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Education interrupted: Kashmir students climb mountain to cross digital divide]]></title>
+            <description><![CDATA[Students in a remote village in the Himalayas struggle to access the internet in order to take classes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57568521</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57568521</guid>
+            <pubDate>Tue, 22 Jun 2021 23:21:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sonic the Hedgehog: 'I'd never seen anything like it in a video game']]></title>
             <description><![CDATA[Tam Kalinkse, one of the men responsible for gaming's most loveable hedgehog, speaks to Newsbeat.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57566746</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57566746</guid>
             <pubDate>Tue, 22 Jun 2021 23:35:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wind turbines: How UK wants to become 'Saudi Arabia of wind']]></title>
+            <description><![CDATA[With Britain's offshore wind power capacity growing at speed, we see how huge turbines are installed.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57519392</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57519392</guid>
+            <pubDate>Tue, 22 Jun 2021 23:20:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Windrush Day: 'Windrush is the big thing in the black community']]></title>
@@ -149,25 +170,25 @@
             <pubDate>Tue, 22 Jun 2021 16:50:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Michelin-star restaurant stops serving lunch due to lack of staff]]></title>
-            <description><![CDATA[The founder of a Michelin-star restaurant says he had to reduce opening hours to manage shortages.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57555608</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57555608</guid>
-            <pubDate>Mon, 21 Jun 2021 23:16:45 GMT</pubDate>
+            <title><![CDATA[How many more EU nationals in UK than previously thought?]]></title>
+            <description><![CDATA[Five years on from referendum, it turns out there were far more EU nationals in the UK than was thought.]]></description>
+            <link>https://www.bbc.co.uk/news/56846637</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56846637</guid>
+            <pubDate>Tue, 22 Jun 2021 23:39:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid sweeps India's Buddhist monasteries]]></title>
-            <description><![CDATA[Monasteries in India's Himalayan state of Sikkim have been especially vulnerable to Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57523051</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57523051</guid>
-            <pubDate>Mon, 21 Jun 2021 23:00:34 GMT</pubDate>
+            <title><![CDATA[Time: How realistic is the BBC prison drama?]]></title>
+            <description><![CDATA[From blackmail to bullying, those with experience of the inside unpick the hard-hitting BBC drama.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57554537</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57554537</guid>
+            <pubDate>Tue, 22 Jun 2021 23:42:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A fake wedding, and a $250,000 scam]]></title>
-            <description><![CDATA[How a British man's dreams of a future with his Ukrainian fiancee ended in financial disaster.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57358241</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57358241</guid>
-            <pubDate>Mon, 21 Jun 2021 23:06:36 GMT</pubDate>
+            <title><![CDATA[Elephants' 500km-trek across China baffles scientists]]></title>
+            <description><![CDATA[Scientists are surprised by how far they've gone and say they're displaying other unusual behaviours.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57565514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57565514</guid>
+            <pubDate>Tue, 22 Jun 2021 23:04:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GP data sharing: What is it and can I opt out?]]></title>
@@ -175,6 +196,13 @@
             <link>https://www.bbc.co.uk/news/technology-57555013</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57555013</guid>
             <pubDate>Tue, 22 Jun 2021 15:56:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A fake wedding, and a $250,000 scam]]></title>
+            <description><![CDATA[How a British man's dreams of a future with his Ukrainian fiancee ended in financial disaster.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57358241</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57358241</guid>
+            <pubDate>Mon, 21 Jun 2021 23:06:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is white privilege?]]></title>
@@ -203,34 +231,6 @@
             <link>https://www.bbc.co.uk/news/newsbeat-57491149</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57491149</guid>
             <pubDate>Mon, 21 Jun 2021 23:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India economy: Seven years of Modi in seven charts]]></title>
-            <description><![CDATA[Covid battered an already sluggish economy, weakened by poor growth, job losses and stagnant exports.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57437944</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57437944</guid>
-            <pubDate>Mon, 21 Jun 2021 23:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: Does Japan have Covid under control?]]></title>
-            <description><![CDATA[With the Olympics starting in July, Covid cases are coming down from a peak in May.]]></description>
-            <link>https://www.bbc.co.uk/news/57556978</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57556978</guid>
-            <pubDate>Mon, 21 Jun 2021 23:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How farmers and scientists are engineering your food]]></title>
-            <description><![CDATA[By manipulating genes scientists say they can create better-tasting produce, but is it necessary?]]></description>
-            <link>https://www.bbc.co.uk/news/business-57332484</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57332484</guid>
-            <pubDate>Mon, 21 Jun 2021 23:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: Why are Australians cancelling AstraZeneca jabs?]]></title>
-            <description><![CDATA[More people are shunning the world's most widely used Covid vaccine over its perceived risk.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57549796</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57549796</guid>
-            <pubDate>Tue, 22 Jun 2021 04:59:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Test Championship final on knife-edge for sixth day]]></title>
