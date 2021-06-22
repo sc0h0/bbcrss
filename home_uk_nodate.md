@@ -8,7 +8,7 @@
 8. [New tool for under-18s to report nude photos of themselves online](https://www.bbc.co.uk/news/uk-57562152) - Children who are worried a nude picture of them has been shared online can flag it to be removed.
 9. [Michelin-star restaurant stops serving lunch due to lack of staff](https://www.bbc.co.uk/news/business-57555608) - The founder of a Michelin-star restaurant says he had to reduce opening hours to manage shortages.
 10. [Drop 'disproportionate' plan to ban noisy protests, government told](https://www.bbc.co.uk/news/uk-politics-57556947) - The right to free expression is in danger of being undermined, a parliamentary committee warns.
-11. [Unesco: Great Barrier Reef should be listed as 'in danger'](https://www.bbc.co.uk/news/world-australia-57562685) - The Australian government says it is "stunned" by the UN body's recommendation and will oppose it.
+11. [Unesco: Great Barrier Reef should be listed as in danger](https://www.bbc.co.uk/news/world-australia-57562685) - The Australian government says it is "stunned" by the UN body's recommendation and will oppose it.
 12. [Wimbledon: Fans frustrated as Ticketmaster cancels tickets](https://www.bbc.co.uk/news/business-57558686) - Customers say they've lost out on tickets to the finals because the rules on credit cards weren't made clear.
 13. [The Papers: Covid chaos at Euros, and blow to foreign holidays](https://www.bbc.co.uk/news/blogs-the-papers-57562130) - The news that Scotland footballer Billy Gilmour has tested positive for Covid features on many front pages.
 14. [Covid sweeps India's Buddhist monasteries](https://www.bbc.co.uk/news/world-asia-india-57523051) - Monasteries in India's Himalayan state of Sikkim have been especially vulnerable to the virus.
