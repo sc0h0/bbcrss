@@ -11,13 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Jun 2021 21:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 21:31:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Euro 2020: Croatia 3-1 Scotland]]></title>
-            <description><![CDATA[Scotland's dream of making history by progressing at Euro 2020 came to a sobering end with a heart-breaking defeat to Croatia at Hampden.]]></description>
+            <title><![CDATA[Euro 2020: Croatia 3-1 Scotland - Steve Clarke's side undone at Hampden]]></title>
+            <description><![CDATA[Scotland's dream of making history by progressing at Euro 2020 came to a sobering end with a heartbreaking defeat to Croatia at Hampden.]]></description>
             <link>https://www.bbc.co.uk/sport/football/51198439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198439</guid>
             <pubDate>Tue, 22 Jun 2021 20:57:04 GMT</pubDate>
@@ -27,7 +27,7 @@
             <description><![CDATA[Raheem Sterling's second goal of Euro 2020 sees England beat the Czech Republic to win Group D and set up a last-16 tie against France, Germany, Portugal or Hungary at Wembley.]]></description>
             <link>https://www.bbc.co.uk/sport/football/51198446</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198446</guid>
-            <pubDate>Tue, 22 Jun 2021 21:03:57 GMT</pubDate>
+            <pubDate>Tue, 22 Jun 2021 21:21:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland aiming to lift all Covid restrictions by 9 August]]></title>
@@ -65,13 +65,6 @@
             <pubDate>Tue, 22 Jun 2021 15:13:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DUP leadership: Sir Jeffrey Donaldson is only candidate]]></title>
-            <description><![CDATA[He would be the party's third leader in weeks, during a crisis that has raised questions about devolution.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57560163</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57560163</guid>
-            <pubDate>Tue, 22 Jun 2021 16:36:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Angela Merkel receives Moderna as second jab after AstraZeneca shot]]></title>
             <description><![CDATA[Experts believe mixed dosing of Covid vaccines could be a good idea but it's too early to say for sure.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57571791</link>
@@ -98,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-57564902</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57564902</guid>
             <pubDate>Tue, 22 Jun 2021 16:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nicholas Watt: Second man charged after BBC reporter chased]]></title>
+            <description><![CDATA[Footage showed Newsnight political editor Nicholas Watt being taunted near Downing Street.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57556198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57556198</guid>
+            <pubDate>Tue, 22 Jun 2021 18:52:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cardboard 'in people's garages causing shortage']]></title>
@@ -254,18 +254,18 @@
             <pubDate>Tue, 22 Jun 2021 04:59:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wembley to be allowed at least 60,000 fans for Euro 2020 semis and final]]></title>
-            <description><![CDATA[The crowd capacity at Wembley will be increased to more than 60,000 for the semi-finals and final of Euro 2020, says the UK government.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57546042</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57546042</guid>
-            <pubDate>Tue, 22 Jun 2021 16:48:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[World Test Championship final on knife-edge for sixth day]]></title>
             <description><![CDATA[All results are possible in the final of the World Test Championship after an engrossing penultimate day between India and New Zealand.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57568641</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57568641</guid>
             <pubDate>Tue, 22 Jun 2021 19:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wembley to be allowed at least 60,000 fans for Euro 2020 semis and final]]></title>
+            <description><![CDATA[The crowd capacity at Wembley will be increased to more than 60,000 for the semi-finals and final of Euro 2020, says the UK government.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57546042</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57546042</guid>
+            <pubDate>Tue, 22 Jun 2021 16:48:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mount and Chilwell absence 'bizarre', says England boss Southgate]]></title>
@@ -282,11 +282,11 @@
             <pubDate>Tue, 22 Jun 2021 21:03:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: Luka Modric's 'sensational' finish puts Croatia in front]]></title>
-            <description><![CDATA[A sublime strike from Luka Modric, curling a shot with the outside of his foot from 20-yards out gives Croatia the lead for a second time against Scotland.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57575818</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57575818</guid>
-            <pubDate>Tue, 22 Jun 2021 20:52:39 GMT</pubDate>
+            <title><![CDATA[Euro 2020: Scotland knocked out of Euros after Croatia defeat in Glasgow]]></title>
+            <description><![CDATA[Watch highlights as Luka Modric's superb strike ends Scotland's dream of making history by progressing at Euro 2020, with a heart-breaking 3-1 defeat by Croatia at Hampden.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57575822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57575822</guid>
+            <pubDate>Tue, 22 Jun 2021 21:24:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are England players self-isolating but Scotland's not?]]></title>
