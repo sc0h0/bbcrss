@@ -6,8 +6,8 @@
 6. [Bumble closes to give 'burnt-out' staff a week's break](https://www.bbc.co.uk/news/business-57562230) - A senior employee wrote on Twitter that the extra holiday was to deal with "collective burnout".
 7. [US could slow Afghanistan withdrawal amid Taliban gains](https://www.bbc.co.uk/news/world-asia-57564716) - The Pentagon says September is still its withdrawal target as the Taliban seizes land and weapons.
 8. [New tool for under-18s to report nude photos of themselves online](https://www.bbc.co.uk/news/uk-57562152) - Children who are worried a nude picture of them has been shared online can flag it to be removed.
-9. [Government borrowing eases in May](https://www.bbc.co.uk/news/business-57564315) - Despite a fall, borrowing was still the second-highest on record for May as Covid spending continues.
-10. [British and Irish Lions: Eight debutants to face Japan](https://www.bbc.co.uk/sport/rugby-union/57567198) - Alun Wyn Jones leads a British and Irish Lions side including eight debutants against Japan on Saturday.
+9. [British and Irish Lions: Eight debutants to face Japan](https://www.bbc.co.uk/sport/rugby-union/57567198) - The British and Irish Lions will have eight debutants in their team to face Japan on Saturday.
+10. [Billie Eilish sorry for mouthing anti-Asian slur in resurfaced video](https://www.bbc.co.uk/news/newsbeat-57564878) - The singer said she's "appalled" by a clip which has been shared recently on TikTok.
 11. [Windrush Day: 'Windrush is the big thing in the black community'](https://www.bbc.co.uk/news/uk-england-london-57554265) - Avril Nanton and Jody Burton have released a book looking at London's black history.
 12. [Bobby Zamora scores spectacular goal for friend's team in Colchester](https://www.bbc.co.uk/news/uk-england-essex-57561709) - The ex-Premier League player was spotted playing for a friend's team in Colchester
 13. [Michelin-star restaurant stops serving lunch due to lack of staff](https://www.bbc.co.uk/news/business-57555608) - The founder of a Michelin-star restaurant says he had to reduce opening hours to manage shortages.
