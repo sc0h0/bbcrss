@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Jun 2021 22:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 23:11:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Tue, 22 Jun 2021 19:26:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Millions become millionaires in Covid pandemic]]></title>
+            <description><![CDATA[Soaring stock markets and property prices help boost the wealth of the wealthy, research suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57575077</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57575077</guid>
+            <pubDate>Tue, 22 Jun 2021 23:02:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Aim for double-jabbed arrivals to avoid quarantine - Hancock]]></title>
             <description><![CDATA[Ministers are "working on" plans for quarantine-free travel from amber list countries if vaccinated.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57570088</link>
@@ -58,6 +65,20 @@
             <pubDate>Tue, 22 Jun 2021 14:35:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Foreign aid watchdog criticises government over handling of spending cuts]]></title>
+            <description><![CDATA[The Foreign Office is accused of lacking transparency and openness on spending reductions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57576187</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57576187</guid>
+            <pubDate>Tue, 22 Jun 2021 23:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senate Republicans block Democrats' election bill]]></title>
+            <description><![CDATA[The legislation - which sought to make it easier for Americans to vote by post - fails in the Senate.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57570587</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57570587</guid>
+            <pubDate>Tue, 22 Jun 2021 22:52:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Angela Merkel receives Moderna as second jab after AstraZeneca shot]]></title>
             <description><![CDATA[Experts believe mixed dosing of Covid vaccines could be a good idea but it's too early to say for sure.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57571791</link>
@@ -65,25 +86,11 @@
             <pubDate>Tue, 22 Jun 2021 15:38:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Higher ethnic minority maternity risk examined]]></title>
-            <description><![CDATA[Maternity services are failing women belonging to ethnic minorities, the charity investigating says.]]></description>
-            <link>https://www.bbc.co.uk/news/education-57565364</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57565364</guid>
-            <pubDate>Tue, 22 Jun 2021 20:31:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cricketer hits huge six through his own car window]]></title>
             <description><![CDATA[Asif Ali smashed the boundary - and his car's back window - during a cup match.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-57572844</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57572844</guid>
             <pubDate>Tue, 22 Jun 2021 15:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkmenistan's capital tops list of most expensive cities for expats]]></title>
-            <description><![CDATA[The annual report ranks 209 cities based on the cost of expenses such as housing, transport and food.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57564902</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57564902</guid>
-            <pubDate>Tue, 22 Jun 2021 16:44:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sex abuse victim's shock at seeing attacker back in community]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-57556198</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57556198</guid>
             <pubDate>Tue, 22 Jun 2021 18:52:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardboard 'in people's garages causing shortage']]></title>
-            <description><![CDATA[Packaging firm DS Smith is working with local councils to increase the amount of cardboard for recycling.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57568239</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57568239</guid>
-            <pubDate>Tue, 22 Jun 2021 15:43:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Foreign travel hope, and 'no Indyref2 before 2024']]></title>
@@ -268,18 +268,18 @@
             <pubDate>Tue, 22 Jun 2021 19:50:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wembley to be allowed at least 60,000 fans for Euro 2020 semis and final]]></title>
-            <description><![CDATA[The crowd capacity at Wembley will be increased to more than 60,000 for the semi-finals and final of Euro 2020, says the UK government.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57546042</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57546042</guid>
-            <pubDate>Tue, 22 Jun 2021 16:48:20 GMT</pubDate>
+            <title><![CDATA['We want this to be the start' - McGinn says Scots did not do themselves justice]]></title>
+            <description><![CDATA[Reaching Euro 2020 must "be the start" for Scotland at major tournaments, after they "didn't do ourselves justice" at the finals, says midfielder John McGinn.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57576176</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57576176</guid>
+            <pubDate>Tue, 22 Jun 2021 21:33:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mount and Chilwell absence 'bizarre', says England boss Southgate]]></title>
-            <description><![CDATA[England boss Gareth Southgate says the absence of Mason Mount and Ben Chilwell for the Euro 2020 game against the Czech Republic is a "bizarre situation full of contradictions".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57564682</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57564682</guid>
-            <pubDate>Tue, 22 Jun 2021 21:30:37 GMT</pubDate>
+            <title><![CDATA[England aspire to 'champagne football', says Southgate]]></title>
+            <description><![CDATA[Manager Gareth Southgate says England aspire to play "champagne football" but that he has been pleased with the defensive solidity they have shown to qualify top of Euro 2020 Group D.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57575896</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57575896</guid>
+            <pubDate>Tue, 22 Jun 2021 22:52:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Raheem Sterling strike secures top spot for England]]></title>
@@ -303,11 +303,11 @@
             <pubDate>Tue, 22 Jun 2021 20:52:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uefa declines Munich's rainbow lights request for Germany v Hungary match]]></title>
-            <description><![CDATA[Uefa declines a request to light up the Allianz Arena in rainbow colours before Germany's Euro 2020 match against Hungary on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57566224</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57566224</guid>
-            <pubDate>Tue, 22 Jun 2021 17:44:05 GMT</pubDate>
+            <title><![CDATA[Mount and Chilwell absence 'bizarre', says England boss Southgate]]></title>
+            <description><![CDATA[England boss Gareth Southgate says the absence of Mason Mount and Ben Chilwell for the Euro 2020 game against the Czech Republic is a "bizarre situation full of contradictions".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57564682</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57564682</guid>
+            <pubDate>Tue, 22 Jun 2021 21:30:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are England players self-isolating but Scotland's not?]]></title>
