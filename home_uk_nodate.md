@@ -1,4 +1,4 @@
-1. [Scotland aiming to lift Covid restrictions by 9 August](https://www.bbc.co.uk/news/uk-scotland-57570939) - The current rules will remain in place until 19 July - with the aim of lifting remaining restrictions in August.
+1. [Scotland aiming to lift all Covid restrictions by 9 August](https://www.bbc.co.uk/news/uk-scotland-57570939) - The current rules will remain in place until 19 July - with the aim of lifting remaining restrictions in August.
 2. [Wembley to be allowed at least 60,000 fans for Euro 2020 semi-finals and final](https://www.bbc.co.uk/sport/football/57546042) - The crowd capacity at Wembley will be increased to more than 60,000 for the semi-finals and final of Euro 2020, says the UK government.
 3. [Covid-19: Aim for double-jabbed arrivals to avoid quarantine - Hancock](https://www.bbc.co.uk/news/uk-57570088) - Ministers are "working on" plans for quarantine-free travel from amber list countries if vaccinated.
 4. [Tinder boss says Covid changed how we swipe right](https://www.bbc.co.uk/news/technology-57557180) - "They want to slow things down and get to know people first a lot more before they decide to match."
