@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Jun 2021 22:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 22:32:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,13 +58,6 @@
             <pubDate>Tue, 22 Jun 2021 14:35:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Having coil fitted should not hurt, say experts]]></title>
-            <description><![CDATA[But they say pain relief should be part of the discussion when fitting this type of contraceptive.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57557296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57557296</guid>
-            <pubDate>Tue, 22 Jun 2021 15:13:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Angela Merkel receives Moderna as second jab after AstraZeneca shot]]></title>
             <description><![CDATA[Experts believe mixed dosing of Covid vaccines could be a good idea but it's too early to say for sure.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57571791</link>
@@ -93,6 +86,13 @@
             <pubDate>Tue, 22 Jun 2021 16:44:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sex abuse victim's shock at seeing attacker back in community]]></title>
+            <description><![CDATA[Leah Walker says she was "devastated" when her abuser was allowed back to the area where she lives.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57555759</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57555759</guid>
+            <pubDate>Tue, 22 Jun 2021 21:48:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nicholas Watt: Second man charged after BBC reporter chased]]></title>
             <description><![CDATA[Footage showed Newsnight political editor Nicholas Watt being taunted near Downing Street.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57556198</link>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/business-57568239</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57568239</guid>
             <pubDate>Tue, 22 Jun 2021 15:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Foreign travel hope, and 'no Indyref2 before 2024']]></title>
+            <description><![CDATA[A mix of stories lead Wednesday's front pages, including fresh hopes for changes to travel quarantine rules.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57575836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57575836</guid>
+            <pubDate>Tue, 22 Jun 2021 22:25:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Windrush Day: 'Windrush is the big thing in the black community']]></title>
@@ -276,7 +283,7 @@
         </item>
         <item>
             <title><![CDATA[Euro 2020: Raheem Sterling strike secures top spot for England]]></title>
-            <description><![CDATA[Watch highlights as a Raheem Sterling strike secures the top spot in Group D for England with a 1-0 win against the Czech Republic.]]></description>
+            <description><![CDATA[Watch highlights as a Raheem Sterling strike secures the top spot in Group D for England, with a 1-0 win against the Czech Republic.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57575294</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57575294</guid>
             <pubDate>Tue, 22 Jun 2021 21:03:55 GMT</pubDate>
@@ -289,11 +296,39 @@
             <pubDate>Tue, 22 Jun 2021 21:24:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Euro 2020: Luka Modric's 'sensational' finish puts Croatia in front]]></title>
+            <description><![CDATA[A sublime strike from Luka Modric, curling a shot with the outside of his foot from 20-yards out gives Croatia the lead for a second time against Scotland.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57575818</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57575818</guid>
+            <pubDate>Tue, 22 Jun 2021 20:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uefa declines Munich's rainbow lights request for Germany v Hungary match]]></title>
+            <description><![CDATA[Uefa declines a request to light up the Allianz Arena in rainbow colours before Germany's Euro 2020 match against Hungary on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57566224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57566224</guid>
+            <pubDate>Tue, 22 Jun 2021 17:44:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why are England players self-isolating but Scotland's not?]]></title>
             <description><![CDATA[Two England players are self-isolating after a Scotland player tested positive for Covid.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-57568450</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57568450</guid>
-            <pubDate>Tue, 22 Jun 2021 21:07:03 GMT</pubDate>
+            <pubDate>Tue, 22 Jun 2021 22:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Tartan Army's rollercoaster ride ]]></title>
+            <description><![CDATA[Scotland fans endure joyous highs and familiar lows as the Euros campaign ends in defeat by Croatia.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57575476</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57575476</guid>
+            <pubDate>Tue, 22 Jun 2021 22:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Tartan Army rally to cheer Scotland despite defeat]]></title>
+            <description><![CDATA[The Glasgow fanzone rises to applaud Scotland as their Euro 2020 journey has come to an end.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57576166</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57576166</guid>
+            <pubDate>Tue, 22 Jun 2021 21:38:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Rate the players - Croatia v Scotland]]></title>
@@ -303,11 +338,11 @@
             <pubDate>Tue, 22 Jun 2021 20:05:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: Rate the players - Czech Republic v England]]></title>
-            <description><![CDATA[Rate the players in the Euro 2020 Group D match between Czech Republic and England.]]></description>
+            <title><![CDATA[Euro 2020: Czech Republic 0-1 England - Bukayo Saka is your highest-rated player]]></title>
+            <description><![CDATA[Bukayo Saka is your highest-rated player as England beat the Czech Republic to finish top of Group D at Euro 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/football/51198936</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198936</guid>
-            <pubDate>Tue, 22 Jun 2021 20:04:12 GMT</pubDate>
+            <pubDate>Tue, 22 Jun 2021 22:18:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yes Sir, I Can Boogie: Why disco hit is now Scotland's unofficial anthem]]></title>
@@ -328,7 +363,7 @@
             <description><![CDATA[All you need to know from Euro 2020 with standings, results, remaining group fixtures and who awaits who in the last 16.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57516261</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57516261</guid>
-            <pubDate>Mon, 21 Jun 2021 22:11:09 GMT</pubDate>
+            <pubDate>Tue, 22 Jun 2021 22:20:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 and Covid: How can I watch with my friends?]]></title>
