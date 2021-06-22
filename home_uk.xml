@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Jun 2021 23:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jun 2021 23:38:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Tue, 22 Jun 2021 21:21:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Millions become millionaires in Covid pandemic]]></title>
+            <description><![CDATA[Soaring stock markets and property prices help boost the wealth of the wealthy, research suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57575077</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57575077</guid>
+            <pubDate>Tue, 22 Jun 2021 23:02:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scotland aiming to lift all Covid restrictions by 9 August]]></title>
             <description><![CDATA[The current rules will remain in place until 19 July - with the aim of lifting remaining restrictions in August.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57570939</link>
@@ -44,13 +51,6 @@
             <pubDate>Tue, 22 Jun 2021 19:26:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Millions become millionaires in Covid pandemic]]></title>
-            <description><![CDATA[Soaring stock markets and property prices help boost the wealth of the wealthy, research suggests.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57575077</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57575077</guid>
-            <pubDate>Tue, 22 Jun 2021 23:02:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Aim for double-jabbed arrivals to avoid quarantine - Hancock]]></title>
             <description><![CDATA[Ministers are "working on" plans for quarantine-free travel from amber list countries if vaccinated.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57570088</link>
@@ -58,11 +58,18 @@
             <pubDate>Tue, 22 Jun 2021 19:59:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tinder boss says Covid changed how we swipe right]]></title>
-            <description><![CDATA["They want to slow things down and get to know people first a lot more before they decide to match."]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57557180</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57557180</guid>
-            <pubDate>Tue, 22 Jun 2021 14:35:36 GMT</pubDate>
+            <title><![CDATA[Keira Bell: NHS trust appeals against puberty blockers ruling]]></title>
+            <description><![CDATA[The appeal centres around whether under-16s can consent to using puberty blockers.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57573428</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57573428</guid>
+            <pubDate>Tue, 22 Jun 2021 23:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Ivermectin to be studied as possible treatment in UK]]></title>
+            <description><![CDATA[Scientists begin to give the drug to over-50s with symptoms to see if it can keep them out of hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57570377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57570377</guid>
+            <pubDate>Tue, 22 Jun 2021 23:29:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foreign aid watchdog criticises government over handling of spending cuts]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Tue, 22 Jun 2021 15:38:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cricketer hits huge six through his own car window]]></title>
-            <description><![CDATA[Asif Ali smashed the boundary - and his car's back window - during a cup match.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-57572844</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57572844</guid>
-            <pubDate>Tue, 22 Jun 2021 15:25:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sex abuse victim's shock at seeing attacker back in community]]></title>
             <description><![CDATA[Leah Walker says she was "devastated" when her abuser was allowed back to the area where she lives.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57555759</link>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57575836</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57575836</guid>
             <pubDate>Tue, 22 Jun 2021 22:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sonic the Hedgehog: 'I'd never seen anything like it in a video game']]></title>
+            <description><![CDATA[Tam Kalinkse, one of the men responsible for gaming's most loveable hedgehog, speaks to Newsbeat.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57566746</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57566746</guid>
+            <pubDate>Tue, 22 Jun 2021 23:35:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Windrush Day: 'Windrush is the big thing in the black community']]></title>
@@ -154,41 +161,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-57523051</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57523051</guid>
             <pubDate>Mon, 21 Jun 2021 23:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New York mayoral election: What voters want from a new mayor]]></title>
-            <description><![CDATA[Learn what's at stake as voters head to the polls to choose a new leader for New York City.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57560500</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57560500</guid>
-            <pubDate>Tue, 22 Jun 2021 01:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Love Island 2021: ITV announces cast with first disabled contestant]]></title>
-            <description><![CDATA[ITV’s biggest reality show returns for a seventh series with a brand-new cast of singletons.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57556175</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57556175</guid>
-            <pubDate>Mon, 21 Jun 2021 14:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teachers' The Greatest Showman student TikTok dance goes viral]]></title>
-            <description><![CDATA[Their version of From Now On from the musical is watched more than 900,000 times in three weeks.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57559573</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57559573</guid>
-            <pubDate>Mon, 21 Jun 2021 16:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: Covid chaos at Euros, and blow to foreign holidays]]></title>
-            <description><![CDATA[The news that Scotland footballer Billy Gilmour has tested positive for Covid features on many front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57562130</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57562130</guid>
-            <pubDate>Tue, 22 Jun 2021 04:34:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer solstice: Hundreds attend Stonehenge despite advice]]></title>
-            <description><![CDATA[Some scaled fences to enter the site in Wiltshire, with a live feed pulled amid safety concerns.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57550606</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57550606</guid>
-            <pubDate>Mon, 21 Jun 2021 12:25:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A fake wedding, and a $250,000 scam]]></title>
