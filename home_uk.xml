@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jun 2021 22:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 22:46:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Wed, 23 Jun 2021 22:01:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sir Keir Starmer picks ex-Tony Blair aide as interim communications chief]]></title>
+            <description><![CDATA[Matthew Doyle's appointment comes amid a shake-up of the Labour leader's backroom team.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57590128</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57590128</guid>
+            <pubDate>Wed, 23 Jun 2021 22:26:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid gender gap widens as cases surge in Scotland]]></title>
             <description><![CDATA[One expert suggests younger men meeting up to watch the Euro 2020 football tournament is behind the increase.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57580118</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/sport/football/57589476</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57589476</guid>
             <pubDate>Wed, 23 Jun 2021 20:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Heartless’ Queensland bars US couple from seeing dying father]]></title>
-            <description><![CDATA[A US couple make a desperate plea after being denied quarantine exemption in Queensland.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57563852</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57563852</guid>
-            <pubDate>Tue, 22 Jun 2021 23:54:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Drama aboard HMS Defender, and manslaughter PC]]></title>
@@ -254,18 +254,18 @@
             <pubDate>Wed, 23 Jun 2021 21:24:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Euro 2020: So Jurgen it's England v Germany, will there be penalties...?]]></title>
+            <description><![CDATA[Jurgen Klinsmann and Danny Murphy give their thoughts on the upcoming last 16 fixture, between England and Germany on Tuesday 29th June. Could it really end in another penalty shootout?]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57590457</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57590457</guid>
+            <pubDate>Wed, 23 Jun 2021 22:33:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020: 'They've found a way through!' Leon Goretzka equalises for Germany against Hungary]]></title>
             <description><![CDATA[Leon Goretzka scores a crucial goal for Germany, beating goalkeeper Peter Gulacsi to equalise against Hungary and prevent his country from being knocked out of Euro 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57590176</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57590176</guid>
             <pubDate>Wed, 23 Jun 2021 21:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Ronaldo & Benzema doubles see both France & Portugal through to last 16]]></title>
-            <description><![CDATA[Cristiano Ronaldo equalled the all-time international goalscoring record as defending champions Portugal drew with France.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57590331</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57590331</guid>
-            <pubDate>Wed, 23 Jun 2021 21:12:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine passports: How can I prove I've had both my Covid jabs?]]></title>
