@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jun 2021 08:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 09:18:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Leasehold campaigners hail 'landmark' changes]]></title>
+            <title><![CDATA[Leasehold campaigners welcome new changes]]></title>
             <description><![CDATA[Persimmon and Aviva commit to change in light of competition watchdog inquiry into sector.]]></description>
             <link>https://www.bbc.co.uk/news/business-57578060</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57578060</guid>
-            <pubDate>Wed, 23 Jun 2021 08:38:22 GMT</pubDate>
+            <pubDate>Wed, 23 Jun 2021 08:59:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: EU citizens given 28-day deadline to apply to stay in UK]]></title>
@@ -37,7 +37,7 @@
             <pubDate>Wed, 23 Jun 2021 08:17:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Apple Daily: Hong Kong pro-democracy paper announces closure]]></title>
+            <title><![CDATA[Hong Kong pro-democracy paper to shut from tonight]]></title>
             <description><![CDATA[The paper's closure - days after its assets were frozen - is a blow to media freedom in Hong Kong.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57578926</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57578926</guid>
@@ -49,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-57571902</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57571902</guid>
             <pubDate>Wed, 23 Jun 2021 06:59:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Millions become millionaires during Covid pandemic]]></title>
-            <description><![CDATA[Soaring stock markets and property prices help boost the wealth of the wealthy, research suggests.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57575077</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57575077</guid>
-            <pubDate>Tue, 22 Jun 2021 23:02:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Firms reassured over post-Covid debts]]></title>
@@ -72,11 +65,18 @@
             <pubDate>Tue, 22 Jun 2021 23:21:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trust in news has grown in the UK during pandemic, research shows]]></title>
+            <title><![CDATA[Trust in news has grown in the UK during pandemic, research suggests]]></title>
             <description><![CDATA[Appetite for reliable reporting has increased but trust still below pre-Brexit levels, report says.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57564335</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57564335</guid>
             <pubDate>Wed, 23 Jun 2021 00:07:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Giant panda gives birth to twins at Tokyo's Ueno Zoo]]></title>
+            <description><![CDATA[The cubs, which have not yet been named, are the first ever twins to be born at the zoo in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57578691</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57578691</guid>
+            <pubDate>Wed, 23 Jun 2021 08:10:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Sydney faces new restrictions as cluster grows]]></title>
@@ -261,13 +261,6 @@
             <pubDate>Tue, 22 Jun 2021 23:05:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Test Championship final on knife-edge for sixth day]]></title>
-            <description><![CDATA[All results are possible in the final of the World Test Championship after an engrossing penultimate day between India and New Zealand.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57568641</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57568641</guid>
-            <pubDate>Tue, 22 Jun 2021 19:50:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wimbledon quiz: What do you remember about the 2019 championships?]]></title>
             <description><![CDATA[An epic men's final, a blockbuster mixed doubles pairing and a US teen sensation - what can you remember about Wimbledon in 2019?]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57456948</link>
@@ -303,7 +296,7 @@
             <pubDate>Tue, 22 Jun 2021 23:29:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid at Euro 2020: Why are England players self-isolating but Scotland players not?]]></title>
+            <title><![CDATA[Covid at Euro 2020: Why are England players self-isolating?]]></title>
             <description><![CDATA[Two England players are self-isolating after a Scotland player tested positive for Covid.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-57568450</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57568450</guid>
