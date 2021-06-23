@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jun 2021 14:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 14:32:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Wed, 23 Jun 2021 13:49:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK denies Russia fired warning shots near British warship]]></title>
-            <description><![CDATA[The Ministry of Defence says no shots were directed at HMS Defender and no bombs dropped in her path.]]></description>
+            <title><![CDATA[Russian jets and ships target British warship]]></title>
+            <description><![CDATA[More than 20 Russian aircraft and two coastguard ships shadow a British warship as it sails near the coast of Crimea.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57583363</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57583363</guid>
-            <pubDate>Wed, 23 Jun 2021 13:52:21 GMT</pubDate>
+            <pubDate>Wed, 23 Jun 2021 14:28:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cuts not to blame for failures in rape prosecutions - Boris Johnson]]></title>
@@ -79,6 +79,13 @@
             <pubDate>Wed, 23 Jun 2021 13:30:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gary Allen: Killer jailed for murdering two women 21 years apart]]></title>
+            <description><![CDATA[Gary Allen, who killed Samantha Class in 1997 and Alena Grlakova in 2018, must serve at least 37 years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57552189</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57552189</guid>
+            <pubDate>Wed, 23 Jun 2021 14:23:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Should schoolchildren still have to self-isolate?]]></title>
             <description><![CDATA[More than a quarter of a million children are absent from school in the UK because of coronavirus.]]></description>
             <link>https://www.bbc.co.uk/news/health-57528279</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-57575991</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57575991</guid>
             <pubDate>Wed, 23 Jun 2021 12:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Somerset Noah's Ark Zoo elephant M'Changa dies in attack]]></title>
-            <description><![CDATA[The 12-year-old elephant called M'Changa died in an attack involving another bull elephant.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-57578702</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57578702</guid>
-            <pubDate>Wed, 23 Jun 2021 09:22:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Giant panda gives birth to twins at Tokyo's Ueno Zoo]]></title>
@@ -282,18 +282,18 @@
             <pubDate>Wed, 23 Jun 2021 13:56:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US Open champion Thiem doubtful for Wimbledon with wrist injury]]></title>
-            <description><![CDATA[US Open champion Dominic Thiem is a doubt for Wimbledon with a wrist injury sustained during a match in Mallorca.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57582561</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57582561</guid>
-            <pubDate>Wed, 23 Jun 2021 12:15:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Why I don't want this to be the end for brilliant & humble Low']]></title>
             <description><![CDATA[Former Germany manager Jurgen Klinsmann hopes Wednesday's Euro 2020 match with Hungary is not Joachim Low's last as national boss.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57554417</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57554417</guid>
             <pubDate>Wed, 23 Jun 2021 05:27:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India v New Zealand: Ayjinka Rahane clips Trent Boult to BJ Watling]]></title>
+            <description><![CDATA[India lose their fifth wicket as Ayjinkya Rahane is caught behind by BJ Watling off Trent Boult as New Zealand continue to press for victory in the World Test Championship final.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/57581765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57581765</guid>
+            <pubDate>Wed, 23 Jun 2021 11:37:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine passports: How can I prove I've had both my Covid jabs?]]></title>
@@ -468,7 +468,7 @@
             <description><![CDATA[Going abroad is not straightforward, so many people are opting to stay in the UK for their holidays.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52646738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
-            <pubDate>Tue, 15 Jun 2021 14:41:03 GMT</pubDate>
+            <pubDate>Wed, 23 Jun 2021 14:31:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: When can we stop wearing face masks or face coverings?]]></title>
