@@ -1,13 +1,13 @@
 1. [Brexit: EU citizens given 28-day deadline to apply to stay in UK](https://www.bbc.co.uk/news/uk-politics-57562285) - The Home Office says people with a reasonable excuse for a delay can complete their forms later.
 2. [Streaming TV giants face tighter UK regulation](https://www.bbc.co.uk/news/entertainment-arts-57552012) - The government says there's an "inconsistent, ad-hoc and potentially harmful gap in regulation".
-3. [Apple Daily: Hong Kong pro-democracy paper announces closure](https://www.bbc.co.uk/news/world-asia-china-57578926) - It comes days after the publication's offices were raided and company-linked assets frozen.
+3. [Apple Daily: Hong Kong pro-democracy paper announces closure](https://www.bbc.co.uk/news/world-asia-china-57578926) - The paper's closure - days after its assets were frozen - is a blow to media freedom in Hong Kong.
 4. [Covid-19: Travel industry demands rules easing and new drug trialled for treatment](https://www.bbc.co.uk/news/uk-57571902) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
-5. [Millions become millionaires during Covid pandemic](https://www.bbc.co.uk/news/business-57575077) - Soaring stock markets and property prices help boost the wealth of the wealthy, research suggests.
-6. [Leasehold firms agree changes after watchdog investigation](https://www.bbc.co.uk/news/business-57578060) - Persimmon and Aviva commit to change in light of competition watchdog inquiry into sector.
+5. [Leasehold firms agree changes after watchdog investigation](https://www.bbc.co.uk/news/business-57578060) - Persimmon and Aviva commit to change in light of competition watchdog inquiry into sector.
+6. [Millions become millionaires during Covid pandemic](https://www.bbc.co.uk/news/business-57575077) - Soaring stock markets and property prices help boost the wealth of the wealthy, research suggests.
 7. [Covid: Ivermectin to be studied as possible treatment in UK](https://www.bbc.co.uk/news/health-57570377) - Scientists begin to give the drug to over-50s with symptoms to see if it can keep them out of hospital.
-8. [New Alan Turing £50 note enters circulation](https://www.bbc.co.uk/news/business-57554102) - The old £50 and £20 banknotes will be withdrawn by October next year, the Bank of England says.
-9. [Covid: Sydney faces new restrictions as cluster grows](https://www.bbc.co.uk/news/world-australia-57576979) - Australia's largest city sees its worst outbreak this year as a cluster infected with the Delta strain grows.
-10. [Festivals face devastating consequences without insurance scheme, MPs warn](https://www.bbc.co.uk/news/entertainment-arts-57559774) - MPs on the Public Accounts Committee call on the government to provide cancellation insurance.
+8. [Firms reassured over post-Covid debts](https://www.bbc.co.uk/news/business-57578227) - The government says it will take a "cautious approach" to firms that owe it money after the pandemic.
+9. [New Alan Turing £50 note enters circulation](https://www.bbc.co.uk/news/business-57554102) - The old £50 and £20 banknotes will be withdrawn by October next year, the Bank of England says.
+10. [Covid: Sydney faces new restrictions as cluster grows](https://www.bbc.co.uk/news/world-australia-57576979) - Australia's largest city sees its worst outbreak this year as a cluster infected with the Delta strain grows.
 11. [Keira Bell: NHS trust appeals against puberty blockers ruling](https://www.bbc.co.uk/news/health-57573428) - The appeal centres around whether under-16s can consent to using puberty blockers.
 12. [Sex abuse victim's shock at seeing attacker back in community](https://www.bbc.co.uk/news/uk-wales-57555759) - Leah Walker says she was "devastated" when her abuser was allowed back to the area where she lives.
 13. [The Papers: Foreign travel hope, and 'no Indyref2 before 2024'](https://www.bbc.co.uk/news/blogs-the-papers-57575836) - A mix of stories lead Wednesday's front pages, including fresh hopes for changes to travel rules.
@@ -24,7 +24,7 @@
 24. ['Heartbreaking' conditions in US migrant child camp](https://www.bbc.co.uk/news/world-us-canada-57561760) - An investigation by the BBC has uncovered alarming conditions at a child migrant camp in Texas.
 25. [Time: How realistic is the BBC prison drama?](https://www.bbc.co.uk/news/newsbeat-57554537) - From blackmail to bullying, those with experience of the inside unpick the hard-hitting BBC drama.
 26. [Pentagon UFO report: Here's what we know](https://www.bbc.co.uk/news/world-us-canada-57559179) - A new report is expected to reveal what the US military knows about unexplained flying objects.
-27. [How many more EU nationals in UK than previously thought?](https://www.bbc.co.uk/news/56846637) - Five years on from referendum, it turns out there were far more EU nationals in the UK than was thought.
+27. [Brexit: How many more EU nationals in UK than previously thought?](https://www.bbc.co.uk/news/56846637) - Five years on from referendum, it turns out there were far more EU nationals in the UK than was thought.
 28. [Elephants' 500km-trek across China baffles scientists](https://www.bbc.co.uk/news/world-asia-china-57565514) - Scientists are surprised by how far they've gone and say they're displaying other unusual behaviours.
 29. [Hungary's anti-gay law threatens programming of TV favourites](https://www.bbc.co.uk/news/world-europe-57566696) - International condemnation grows towards a Hungarian law banning depiction of homosexuality to under-18s.
 30. [CEO Secrets: 'My billion-pound company has no office'](https://www.bbc.co.uk/news/business-57517669) - How Britain's youngest billionaire works differently - setting his firm up to thrive in lockdown.
