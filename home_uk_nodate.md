@@ -3,7 +3,7 @@
 3. [Apple Daily: Hong Kong pro-democracy paper announces closure](https://www.bbc.co.uk/news/world-asia-china-57578926) - It comes days after the publication's offices were raided and company-linked assets frozen.
 4. [Covid-19: Travel industry demands rules easing and new drug trialled for treatment](https://www.bbc.co.uk/news/uk-57571902) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
 5. [Millions become millionaires during Covid pandemic](https://www.bbc.co.uk/news/business-57575077) - Soaring stock markets and property prices help boost the wealth of the wealthy, research suggests.
-6. [Leasehold firms agree changes after watchdog investigation](https://www.bbc.co.uk/news/business-57578060) - Persimmon and Aviva commit to change in light of competition watchdog investigation into leaseholds.
+6. [Leasehold firms agree changes after watchdog investigation](https://www.bbc.co.uk/news/business-57578060) - Persimmon and Aviva commit to change in light of competition watchdog inquiry into sector.
 7. [Covid: Ivermectin to be studied as possible treatment in UK](https://www.bbc.co.uk/news/health-57570377) - Scientists begin to give the drug to over-50s with symptoms to see if it can keep them out of hospital.
 8. [New Alan Turing £50 note enters circulation](https://www.bbc.co.uk/news/business-57554102) - The old £50 and £20 banknotes will be withdrawn by October next year, the Bank of England says.
 9. [Covid: Sydney faces new restrictions as cluster grows](https://www.bbc.co.uk/news/world-australia-57576979) - Australia's largest city sees its worst outbreak this year as a cluster infected with the Delta strain grows.
