@@ -1,4 +1,4 @@
-1. [Dalian Atkinson: PC guilty of former footballer's manslaughter](https://www.bbc.co.uk/news/uk-england-shropshire-57495426) - Dalian Atkinson's family say they are "hugely relieved the whole country now knows the truth".
+1. [Dalian Atkinson: PC guilty of former footballer's manslaughter](https://www.bbc.co.uk/news/uk-england-shropshire-57495426) - Dalian Atkinson's family says "the whole country now knows the truth".
 2. [Russian jets and ships target British warship](https://www.bbc.co.uk/news/world-europe-57583363) - More than 20 Russian aircraft and two coastguard ships shadow a British warship as it sails near the coast of Crimea.
 3. [Boris Johnson dismisses rape concerns as jabber, says Labour](https://www.bbc.co.uk/news/uk-politics-57582462) - No 10 insists Boris Johnson was accusing Labour of talking rather than taking action, at PMQs.
 4. [Exams altered next year after pandemic disruption](https://www.bbc.co.uk/news/education-57579211) - Gavin Williamson says 2022 A-levels and GCSEs in England are likely to be modified for lost lessons.
