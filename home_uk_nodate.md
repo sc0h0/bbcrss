@@ -40,7 +40,7 @@
 40. [Covid: Ivermectin to be studied as possible treatment in UK](https://www.bbc.co.uk/news/health-57570377) - Scientists begin to give the drug to over-50s with symptoms to see if it can keep them out of hospital.
 41. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Coronavirus restrictions are staying in place because of concerns about the Delta variant.
 42. [Vaccine passports: How can I prove I've had both my Covid jabs?](https://www.bbc.co.uk/news/explainers-55718553) - People who've had both Covid jabs may soon be able to avoid quarantine after travel.
-43. [Covid at Euro 2020: Why are England players self-isolating?](https://www.bbc.co.uk/news/explainers-57568450) - Two England players are self-isolating after a Scotland player tested positive for Covid.
+43. [Euro 2020: Why are England players self-isolating?](https://www.bbc.co.uk/news/explainers-57568450) - Two England players are self-isolating after a Scotland player tested positive for Covid.
 44. [How much is Covid costing the UK and how will we pay?](https://www.bbc.co.uk/news/business-52663523) - The pandemic is costing the government hundreds of billions of pounds but where will it all come from?
 45. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 46. [Euro 2020 and Covid: How can I watch with my friends?](https://www.bbc.co.uk/news/uk-57386719) - Covid rules are making things a bit different for Euro 2020 spectators.
