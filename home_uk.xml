@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jun 2021 01:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 01:58:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Wed, 23 Jun 2021 00:04:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Ivermectin to be studied as possible treatment in UK]]></title>
-            <description><![CDATA[Scientists begin to give the drug to over-50s with symptoms to see if it can keep them out of hospital.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57570377</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57570377</guid>
-            <pubDate>Tue, 22 Jun 2021 23:29:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[New Alan Turing £50 note enters circulation]]></title>
             <description><![CDATA[The old £50 and £20 banknotes will be withdrawn by October next year, the Bank of England says.]]></description>
             <link>https://www.bbc.co.uk/news/business-57554102</link>
@@ -65,11 +58,11 @@
             <pubDate>Tue, 22 Jun 2021 23:16:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dominic Cummings tried to bypass rules over £530k grant, emails suggest]]></title>
-            <description><![CDATA[The PM's ex-top aide told officials to "immediately" issue a £530,000 grant with "no procurement".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57531636</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57531636</guid>
-            <pubDate>Tue, 22 Jun 2021 19:26:28 GMT</pubDate>
+            <title><![CDATA[Covid: Ivermectin to be studied as possible treatment in UK]]></title>
+            <description><![CDATA[Scientists begin to give the drug to over-50s with symptoms to see if it can keep them out of hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57570377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57570377</guid>
+            <pubDate>Tue, 22 Jun 2021 23:29:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Festivals face devastating consequences without insurance scheme, MPs warn]]></title>
@@ -79,13 +72,6 @@
             <pubDate>Wed, 23 Jun 2021 00:31:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trust in news has grown in the UK during pandemic, research shows]]></title>
-            <description><![CDATA[Appetite for reliable reporting has increased but trust still below pre-Brexit levels, report says.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57564335</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57564335</guid>
-            <pubDate>Wed, 23 Jun 2021 00:07:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Keira Bell: NHS trust appeals against puberty blockers ruling]]></title>
             <description><![CDATA[The appeal centres around whether under-16s can consent to using puberty blockers.]]></description>
             <link>https://www.bbc.co.uk/news/health-57573428</link>
@@ -93,11 +79,25 @@
             <pubDate>Tue, 22 Jun 2021 23:27:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Senate Republicans block Democrats' election bill]]></title>
+            <description><![CDATA[The legislation - which sought to make it easier for Americans to vote - fails in the Senate.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57570587</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57570587</guid>
+            <pubDate>Wed, 23 Jun 2021 00:31:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sex abuse victim's shock at seeing attacker back in community]]></title>
             <description><![CDATA[Leah Walker says she was "devastated" when her abuser was allowed back to the area where she lives.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57555759</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57555759</guid>
             <pubDate>Tue, 22 Jun 2021 21:48:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trust in news has grown in the UK during pandemic, research shows]]></title>
+            <description><![CDATA[Appetite for reliable reporting has increased but trust still below pre-Brexit levels, report says.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57564335</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57564335</guid>
+            <pubDate>Wed, 23 Jun 2021 00:07:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Foreign travel hope, and 'no Indyref2 before 2024']]></title>
@@ -182,6 +182,13 @@
             <link>https://www.bbc.co.uk/news/56846637</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/56846637</guid>
             <pubDate>Tue, 22 Jun 2021 23:39:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pentagon UFO report: Here's what we know]]></title>
+            <description><![CDATA[A new report is expected to reveal what the US military knows about unexplained flying objects.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57559179</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57559179</guid>
+            <pubDate>Wed, 23 Jun 2021 01:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hungary's anti-gay law threatens programming of TV favourites]]></title>
@@ -289,13 +296,6 @@
             <pubDate>Tue, 22 Jun 2021 21:30:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid at Euro 2020: Why are England players self-isolating but Scotland players not?]]></title>
-            <description><![CDATA[Two England players are self-isolating after a Scotland player tested positive for Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-57568450</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57568450</guid>
-            <pubDate>Tue, 22 Jun 2021 22:26:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
             <description><![CDATA[Coronavirus restrictions are staying in place because of concerns about the Delta variant.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
@@ -303,11 +303,11 @@
             <pubDate>Mon, 21 Jun 2021 09:49:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How much is Covid costing the UK and how will we pay?]]></title>
-            <description><![CDATA[The pandemic is costing the government hundreds of billions of pounds but where will it all come from?]]></description>
-            <link>https://www.bbc.co.uk/news/business-52663523</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52663523</guid>
-            <pubDate>Tue, 22 Jun 2021 17:57:36 GMT</pubDate>
+            <title><![CDATA[Covid at Euro 2020: Why are England players self-isolating but Scotland players not?]]></title>
+            <description><![CDATA[Two England players are self-isolating after a Scotland player tested positive for Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-57568450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57568450</guid>
+            <pubDate>Tue, 22 Jun 2021 22:26:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine passports: How can I prove I've had both my Covid jabs?]]></title>
@@ -315,6 +315,13 @@
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
             <pubDate>Tue, 22 Jun 2021 13:40:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How much is Covid costing the UK and how will we pay?]]></title>
+            <description><![CDATA[The pandemic is costing the government hundreds of billions of pounds but where will it all come from?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52663523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52663523</guid>
+            <pubDate>Tue, 22 Jun 2021 17:57:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
