@@ -1,8 +1,8 @@
 1. [Brexit: EU citizens given 28-day deadline to apply to stay in UK](https://www.bbc.co.uk/news/uk-politics-57562285) - The Home Office says people with a reasonable excuse for a delay can complete their forms later.
 2. [Streaming TV giants face tighter UK regulation](https://www.bbc.co.uk/news/entertainment-arts-57552012) - The government says there's an "inconsistent, ad-hoc and potentially harmful gap in regulation".
 3. [Apple Daily: Hong Kong pro-democracy paper announces closure](https://www.bbc.co.uk/news/world-asia-china-57578926) - It comes days after the publication's offices were raided and company-linked assets frozen.
-4. [Millions become millionaires during Covid pandemic](https://www.bbc.co.uk/news/business-57575077) - Soaring stock markets and property prices help boost the wealth of the wealthy, research suggests.
-5. [Covid-19: Travel industry demands rules easing and new drug trialled for treatment](https://www.bbc.co.uk/news/uk-57571902) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
+4. [Covid-19: Travel industry demands rules easing and new drug trialled for treatment](https://www.bbc.co.uk/news/uk-57571902) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
+5. [Millions become millionaires during Covid pandemic](https://www.bbc.co.uk/news/business-57575077) - Soaring stock markets and property prices help boost the wealth of the wealthy, research suggests.
 6. [Leasehold firms agree changes after watchdog investigation](https://www.bbc.co.uk/news/business-57578060) - Persimmon and Aviva commit to change in light of competition watchdog investigation into leaseholds.
 7. [Covid: Ivermectin to be studied as possible treatment in UK](https://www.bbc.co.uk/news/health-57570377) - Scientists begin to give the drug to over-50s with symptoms to see if it can keep them out of hospital.
 8. [New Alan Turing £50 note enters circulation](https://www.bbc.co.uk/news/business-57554102) - The old £50 and £20 banknotes will be withdrawn by October next year, the Bank of England says.
