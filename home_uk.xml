@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jun 2021 23:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 23:26:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,7 +30,7 @@
             <pubDate>Wed, 23 Jun 2021 17:20:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Britney Spears speaks out against conservatorship at hearing]]></title>
+            <title><![CDATA[Britney Spears speaks out against 'abusive' conservatorship at hearing]]></title>
             <description><![CDATA["I just want my life back," the US pop star says in a rare public testimony.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57586405</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57586405</guid>
@@ -42,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57589822</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57589822</guid>
             <pubDate>Wed, 23 Jun 2021 21:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Push to close gap in vaccine uptake]]></title>
-            <description><![CDATA[More walk-in slots will be available as the UK reports 16,135 daily cases, a rise of nearly 5,000.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57587023</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57587023</guid>
-            <pubDate>Wed, 23 Jun 2021 19:03:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen describes Matt Hancock as 'poor man' at meeting with PM]]></title>
@@ -65,6 +58,20 @@
             <pubDate>Wed, 23 Jun 2021 23:05:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Push to close gap in vaccine uptake]]></title>
+            <description><![CDATA[More walk-in slots will be available as the UK reports 16,135 daily cases, a rise of nearly 5,000.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57587023</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57587023</guid>
+            <pubDate>Wed, 23 Jun 2021 19:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South African 10 babies story not true, inquiry finds]]></title>
+            <description><![CDATA[Gosiame Sithole was not recently pregnant and is receiving psychological support, officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57581054</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57581054</guid>
+            <pubDate>Wed, 23 Jun 2021 17:35:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Germany 2-2 Hungary: Germany to face England in the last 16 at Euro 2020]]></title>
             <description><![CDATA[Germany will face England in the last 16 of Euro 2020 after twice coming from behind to knock battling Hungary out of Euro 20202.]]></description>
             <link>https://www.bbc.co.uk/sport/football/51198467</link>
@@ -72,11 +79,11 @@
             <pubDate>Wed, 23 Jun 2021 21:20:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Biden unveils strategy to combat US crime wave]]></title>
-            <description><![CDATA[Mr Biden's plan comes as gun sales and homicides have spiked around the country this year.]]></description>
+            <title><![CDATA[Biden backs funding more police to fight crime wave]]></title>
+            <description><![CDATA[Amid claims his party is soft on crime, the president backs hiring more police beyond pre-pandemic levels.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57589416</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57589416</guid>
-            <pubDate>Wed, 23 Jun 2021 22:01:59 GMT</pubDate>
+            <pubDate>Wed, 23 Jun 2021 23:12:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sir Keir Starmer picks ex-Tony Blair aide as interim communications chief]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57580118</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57580118</guid>
             <pubDate>Wed, 23 Jun 2021 17:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rembrandt's The Night Watch painting restored by AI]]></title>
-            <description><![CDATA[The canvas was trimmed in 1715 to fit between two doors in Amsterdam’s city hall.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57588270</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57588270</guid>
-            <pubDate>Wed, 23 Jun 2021 18:02:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Germany v Hungary: Fans wear rainbow colours at Allianz Arena before Group F game]]></title>
@@ -226,18 +226,18 @@
             <pubDate>Tue, 22 Jun 2021 23:04:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Penalty misses, 'ghost goals' & tears - it's Germany again for England]]></title>
+            <description><![CDATA[As England get ready to host Germany at Wembley in the last 16 at Euro 2020 next Tuesday, BBC Sport sets the scene for what could be another fascinating encounter.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57590519</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57590519</guid>
+            <pubDate>Wed, 23 Jun 2021 23:14:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[France top group as Portugal go through with draw]]></title>
             <description><![CDATA[Cristiano Ronaldo equals the all-time men's international goalscoring record as defending champions Portugal draw with France.]]></description>
             <link>https://www.bbc.co.uk/sport/football/51198474</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198474</guid>
             <pubDate>Wed, 23 Jun 2021 21:26:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England get Germany - full Euro 2020 last-16 line-up]]></title>
-            <description><![CDATA[All you need to know from Euro 2020, who faces who in the last 16 and when and where to watch the games.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57516261</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57516261</guid>
-            <pubDate>Wed, 23 Jun 2021 21:12:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v Sri Lanka: Jos Buttler leads hosts to eight-wicket win in first T20]]></title>
@@ -252,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/football/57590218</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57590218</guid>
             <pubDate>Wed, 23 Jun 2021 21:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England get Germany - full Euro 2020 last-16 line-up]]></title>
+            <description><![CDATA[All you need to know from Euro 2020, who faces who in the last 16 and when and where to watch the games.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57516261</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57516261</guid>
+            <pubDate>Wed, 23 Jun 2021 21:12:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: So Jurgen it's England v Germany, will there be penalties...?]]></title>
