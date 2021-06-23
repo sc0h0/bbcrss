@@ -1,8 +1,8 @@
 1. [Dalian Atkinson: PC guilty of former footballer's manslaughter](https://www.bbc.co.uk/news/uk-england-shropshire-57495426) - Dalian Atkinson's family say they are "hugely relieved the whole country now knows the truth".
 2. [UK denies Russia fired warning shots near British warship](https://www.bbc.co.uk/news/world-europe-57583363) - The Ministry of Defence says no shots were directed at HMS Defender and no bombs dropped in her path.
 3. [Cuts not to blame for failures in rape prosecutions - Boris Johnson](https://www.bbc.co.uk/news/uk-politics-57582462) - The PM appears to contradict his justice secretary, as he vows to improve prosecution rates.
-4. [Covid: Wembley VIP fans will face restrictions - minister](https://www.bbc.co.uk/news/uk-57580088) - Talks are ongoing over a possible quarantine exemption for some people attending the Euro 2020 final.
-5. [Exams altered next year after pandemic disruption](https://www.bbc.co.uk/news/education-57579211) - Gavin Williamson says A-levels and GCSEs in 2022 in England likely to be modified for lost lessons.
+4. [Exams altered next year after pandemic disruption](https://www.bbc.co.uk/news/education-57579211) - Gavin Williamson says A-levels and GCSEs in 2022 in England likely to be modified for lost lessons.
+5. [Covid: Wembley VIP fans will face restrictions - minister](https://www.bbc.co.uk/news/uk-57580088) - Talks are ongoing over a possible quarantine exemption for some people attending the Euro 2020 final.
 6. [Leasehold campaigners welcome new changes](https://www.bbc.co.uk/news/business-57578060) - Persimmon and Aviva commit to change in light of competition watchdog inquiry into sector.
 7. [Brexit: EU citizens given 28-day deadline to apply to stay in UK](https://www.bbc.co.uk/news/uk-politics-57562285) - The Home Office says people with a reasonable excuse for a delay can complete their forms later.
 8. [Lloyds to close another 44 bank branches](https://www.bbc.co.uk/news/business-57582259) - The latest announcement means 100 Lloyds and Halifax branches will close this year.
