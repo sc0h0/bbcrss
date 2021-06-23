@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jun 2021 21:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 21:51:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Wed, 23 Jun 2021 21:20:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Biden unveils strategy to combat US crime wave]]></title>
+            <description><![CDATA[Mr Biden's plan comes as gun sales and homicides have spiked around the country this year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57589416</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57589416</guid>
+            <pubDate>Wed, 23 Jun 2021 21:43:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid gender gap widens as cases surge in Scotland]]></title>
             <description><![CDATA[One expert suggests younger men meeting up to watch the Euro 2020 football tournament is behind the increase.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57580118</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57576306</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57576306</guid>
             <pubDate>Wed, 23 Jun 2021 01:17:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exams altered next year after pandemic disruption]]></title>
-            <description><![CDATA[Gavin Williamson says 2022 A-levels and GCSEs in England are likely to be modified for lost lessons.]]></description>
-            <link>https://www.bbc.co.uk/news/education-57579211</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57579211</guid>
-            <pubDate>Wed, 23 Jun 2021 13:18:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harrison Ford injures shoulder on Indiana Jones 5 film set]]></title>
