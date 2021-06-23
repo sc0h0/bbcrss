@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jun 2021 06:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 07:16:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Tue, 22 Jun 2021 20:57:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Travel industry demands rules easing and new drug trialled for treatment]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57571902</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57571902</guid>
+            <pubDate>Wed, 23 Jun 2021 06:59:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Leasehold firms agree changes after watchdog investigation]]></title>
             <description><![CDATA[Persimmon and Aviva commit to change in light of competition watchdog investigation into leaseholds.]]></description>
             <link>https://www.bbc.co.uk/news/business-57578060</link>
@@ -62,7 +69,7 @@
             <description><![CDATA[The old £50 and £20 banknotes will be withdrawn by October next year, the Bank of England says.]]></description>
             <link>https://www.bbc.co.uk/news/business-57554102</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57554102</guid>
-            <pubDate>Tue, 22 Jun 2021 23:16:25 GMT</pubDate>
+            <pubDate>Wed, 23 Jun 2021 07:02:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Sydney faces new restrictions as cluster grows]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-57576979</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57576979</guid>
             <pubDate>Wed, 23 Jun 2021 06:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indyref2: Scottish independence referendum unlikely before 2024 - Gove]]></title>
-            <description><![CDATA[It is "foolish" to talk about Indyref2 when the UK is recovering from Covid, Michael Gove says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57575862</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57575862</guid>
-            <pubDate>Wed, 23 Jun 2021 02:14:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Festivals face devastating consequences without insurance scheme, MPs warn]]></title>
@@ -114,7 +114,7 @@
             <pubDate>Tue, 22 Jun 2021 22:14:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is different about the new £50 bank note?]]></title>
+            <title><![CDATA[What is different about the new £50 banknote?]]></title>
             <description><![CDATA[A behind-the-scenes look inside a high-security banknote printing plant.]]></description>
             <link>https://www.bbc.co.uk/news/business-57570867</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57570867</guid>
