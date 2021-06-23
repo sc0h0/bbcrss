@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jun 2021 09:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 09:37:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Streaming TV giants face tighter UK regulation]]></title>
-            <description><![CDATA[The government says there's an "inconsistent, ad-hoc and potentially harmful gap in regulation".]]></description>
+            <description><![CDATA[The government also confirms a consultation into whether to privatise Channel 4.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57552012</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57552012</guid>
             <pubDate>Wed, 23 Jun 2021 08:17:34 GMT</pubDate>
@@ -41,7 +41,7 @@
             <description><![CDATA[The paper's closure - days after its assets were frozen - is a blow to media freedom in Hong Kong.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57578926</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57578926</guid>
-            <pubDate>Wed, 23 Jun 2021 08:35:59 GMT</pubDate>
+            <pubDate>Wed, 23 Jun 2021 09:18:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Travel industry demands rules easing and new drug trialled for treatment]]></title>
@@ -282,11 +282,11 @@
             <pubDate>Tue, 22 Jun 2021 21:24:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[Coronavirus restrictions are staying in place because of concerns about the Delta variant.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 21 Jun 2021 09:49:13 GMT</pubDate>
+            <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
+            <description><![CDATA[The government is considering allowing double vaccinated adults to avoid quarantine after travel.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Wed, 23 Jun 2021 09:25:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Ivermectin to be studied as possible treatment in UK]]></title>
@@ -296,11 +296,11 @@
             <pubDate>Tue, 22 Jun 2021 23:29:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid at Euro 2020: Why are England players self-isolating?]]></title>
-            <description><![CDATA[Two England players are self-isolating after a Scotland player tested positive for Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-57568450</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57568450</guid>
-            <pubDate>Wed, 23 Jun 2021 08:12:26 GMT</pubDate>
+            <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[Coronavirus restrictions are staying in place because of concerns about the Delta variant.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Mon, 21 Jun 2021 09:49:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine passports: How can I prove I've had both my Covid jabs?]]></title>
@@ -308,6 +308,13 @@
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
             <pubDate>Tue, 22 Jun 2021 13:40:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid at Euro 2020: Why are England players self-isolating?]]></title>
+            <description><![CDATA[Two England players are self-isolating after a Scotland player tested positive for Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-57568450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57568450</guid>
+            <pubDate>Wed, 23 Jun 2021 08:12:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How much is Covid costing the UK and how will we pay?]]></title>
@@ -413,13 +420,6 @@
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
             <pubDate>Tue, 22 Jun 2021 16:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
-            <description><![CDATA[Foreign holidays are possible, but travellers must follow strict rules on their return.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Thu, 17 Jun 2021 09:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What do over-18s need to know about the vaccine?]]></title>
