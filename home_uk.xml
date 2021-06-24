@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Jun 2021 10:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 11:13:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,25 @@
             <pubDate>Wed, 23 Jun 2021 23:00:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bank of England shrugs off inflation fears]]></title>
+            <description><![CDATA[Bank policymakers keep rates steady despite concerns of an inflation surge in the wake of the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57596298</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57596298</guid>
+            <pubDate>Thu, 24 Jun 2021 11:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ministers 'should urge public to eat less meat']]></title>
+            <description><![CDATA[The UK public should be urged by the government to eat less meat and dairy produce, advisers say.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57580254</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57580254</guid>
+            <pubDate>Thu, 24 Jun 2021 11:01:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Miami building collapse: rescuers search rubble for survivors]]></title>
             <description><![CDATA[At least one person is killed and there are fears that others may be trapped in the rubble.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57592827</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57592827</guid>
-            <pubDate>Thu, 24 Jun 2021 10:37:33 GMT</pubDate>
+            <pubDate>Thu, 24 Jun 2021 11:00:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Britney Spears speaks out against 'abusive' conservatorship in court]]></title>
@@ -72,25 +86,11 @@
             <pubDate>Thu, 24 Jun 2021 10:13:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: The man who tested positive for Covid 43 times]]></title>
-            <description><![CDATA[Dave Smith, 72, from Bristol, was sent to hospital seven times over the last 10 months.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57586965</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57586965</guid>
-            <pubDate>Thu, 24 Jun 2021 05:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM not delivering on climate promises - advisers]]></title>
-            <description><![CDATA[The Climate Change Committee says the PM's climate leadership is undermined by inadequate policies.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57580254</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57580254</guid>
-            <pubDate>Thu, 24 Jun 2021 00:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John McAfee: Anti-virus creator found dead in prison cell]]></title>
-            <description><![CDATA[The software mogul is found dead hours after a Spanish court allowed his extradition to the US on tax charges.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57589822</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57589822</guid>
-            <pubDate>Wed, 23 Jun 2021 21:09:00 GMT</pubDate>
+            <title><![CDATA[George Osborne: Former chancellor named British Museum chairman]]></title>
+            <description><![CDATA[The former chancellor said he was "absolutely thrilled" to be joining the institution.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57596043</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57596043</guid>
+            <pubDate>Thu, 24 Jun 2021 10:38:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blink-182 star Mark Hoppus reveals cancer diagnosis]]></title>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-57586884</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57586884</guid>
             <pubDate>Wed, 23 Jun 2021 23:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The man who tested positive for Covid 43 times]]></title>
+            <description><![CDATA[Dave Smith, 72, from Bristol, was sent to hospital seven times over the last 10 months.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57586965</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57586965</guid>
+            <pubDate>Thu, 24 Jun 2021 05:00:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russian jets and ships shadow British warship]]></title>
@@ -168,6 +175,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-57555498</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-57555498</guid>
             <pubDate>Thu, 24 Jun 2021 09:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The final years of John McAfee's controversial life]]></title>
+            <description><![CDATA[Anti-virus entrepreneur John McAfee has been found dead in Spain.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57591682</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57591682</guid>
+            <pubDate>Thu, 24 Jun 2021 10:52:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HMS Defender: What will be the fallout from Black Sea incident?]]></title>
