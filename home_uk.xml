@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jun 2021 23:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 00:57:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Wed, 23 Jun 2021 17:50:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HMS Defender: Russian jets and ships shadow British warship]]></title>
-            <description><![CDATA[More than 20 jets and two coastguard ships shadow HMS Defender as it sails near Crimea's coast.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57583363</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57583363</guid>
-            <pubDate>Wed, 23 Jun 2021 17:20:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Britney Spears speaks out against 'abusive' conservatorship at hearing]]></title>
             <description><![CDATA["I just want my life back," the US pop star says in a rare public testimony.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57586405</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57586405</guid>
-            <pubDate>Wed, 23 Jun 2021 23:38:44 GMT</pubDate>
+            <pubDate>Thu, 24 Jun 2021 00:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long Covid: More than two million in England may have suffered, study suggests]]></title>
+            <description><![CDATA[Symptoms such as fatigue and shortness of breath can persist for months.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57584295</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57584295</guid>
+            <pubDate>Thu, 24 Jun 2021 00:22:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John McAfee: Anti-virus creator found dead in prison cell]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-57589822</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57589822</guid>
             <pubDate>Wed, 23 Jun 2021 21:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HMS Defender: Russian jets and ships shadow British warship]]></title>
+            <description><![CDATA[More than 20 jets and two coastguard ships shadow HMS Defender as it sails near Crimea's coast.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57583363</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57583363</guid>
+            <pubDate>Wed, 23 Jun 2021 17:20:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen describes Matt Hancock as 'poor man' at meeting with PM]]></title>
@@ -65,11 +72,25 @@
             <pubDate>Wed, 23 Jun 2021 19:03:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[South African 10 babies story not true, inquiry finds]]></title>
-            <description><![CDATA[Gosiame Sithole was not recently pregnant and is receiving psychological support, officials say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57581054</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57581054</guid>
-            <pubDate>Wed, 23 Jun 2021 17:35:25 GMT</pubDate>
+            <title><![CDATA[Gulf between PM's promises and action on climate change, advisory group warns]]></title>
+            <description><![CDATA[There's a gulf between Boris Johnson's words and deeds on climate change, an advisory group warns.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57580254</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57580254</guid>
+            <pubDate>Thu, 24 Jun 2021 00:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Outdated hospital oxygen systems ‘risk to patients’, review warns]]></title>
+            <description><![CDATA[Systems could not always cope with surges in demand during the winter wave in England, a review says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57583734</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57583734</guid>
+            <pubDate>Thu, 24 Jun 2021 00:25:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Only 27% of students think university 'good value' during pandemic - survey]]></title>
+            <description><![CDATA[Students found the experience of university in the pandemic not worth the cost, says survey.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57586742</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57586742</guid>
+            <pubDate>Thu, 24 Jun 2021 00:47:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Forced adoption: 'This is where my baby was taken from me']]></title>
@@ -84,27 +105,6 @@
             <link>https://www.bbc.co.uk/sport/football/51198467</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198467</guid>
             <pubDate>Wed, 23 Jun 2021 21:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biden backs funding more police to fight crime wave]]></title>
-            <description><![CDATA[Amid claims his party is soft on crime, the president backs hiring more police beyond pre-pandemic levels.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57589416</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57589416</guid>
-            <pubDate>Wed, 23 Jun 2021 23:12:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Keir Starmer picks ex-Tony Blair aide as interim communications chief]]></title>
-            <description><![CDATA[Matthew Doyle's appointment comes amid a shake-up of the Labour leader's backroom team.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57590128</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57590128</guid>
-            <pubDate>Wed, 23 Jun 2021 22:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid gender gap widens as cases surge in Scotland]]></title>
-            <description><![CDATA[One expert suggests younger men meeting up to watch the Euro 2020 football tournament is behind the increase.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57580118</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57580118</guid>
-            <pubDate>Wed, 23 Jun 2021 17:26:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Drama aboard HMS Defender, and manslaughter PC]]></title>
@@ -177,13 +177,6 @@
             <pubDate>Wed, 23 Jun 2021 19:09:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gold rush fuels armed violence in Brazilian Amazon]]></title>
-            <description><![CDATA[Illegal miners are accused of targeting indigenous communities, as violence in the rainforest rises.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57157017</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57157017</guid>
-            <pubDate>Wed, 23 Jun 2021 23:35:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Royal finances: Where does the Queen get her money?]]></title>
             <description><![CDATA[The Royal Family will open its books on Thursday to show how the Queen spent her money last year.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-57559653</link>
@@ -196,6 +189,13 @@
             <link>https://www.bbc.co.uk/news/blogs-trending-57532368</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-57532368</guid>
             <pubDate>Wed, 23 Jun 2021 23:41:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gold rush fuels armed violence in Brazilian Amazon]]></title>
+            <description><![CDATA[Illegal miners are accused of targeting indigenous communities, as violence in the rainforest rises.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57157017</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57157017</guid>
+            <pubDate>Wed, 23 Jun 2021 23:35:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[James Bond's French haunts give licence to thrill]]></title>
@@ -216,7 +216,7 @@
             <description><![CDATA[The ongoing arrangement has sparked a public backlash from fans who support the #FreeBritney movement.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-53494405</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53494405</guid>
-            <pubDate>Wed, 23 Jun 2021 08:46:42 GMT</pubDate>
+            <pubDate>Thu, 24 Jun 2021 00:18:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How fashion designers flipped to athleisure during Covid]]></title>
@@ -259,6 +259,41 @@
             <link>https://www.bbc.co.uk/sport/football/57516261</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57516261</guid>
             <pubDate>Wed, 23 Jun 2021 21:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel guide to Spain, Portugal, France and other holiday hotspots]]></title>
+            <description><![CDATA[What you need to know about travelling abroad to Portugal, Spain, Greece, France, Italy and Turkey.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-56997931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56997931</guid>
+            <pubDate>Wed, 23 Jun 2021 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Wed, 23 Jun 2021 14:23:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus cure: What progress are we making on treatments?]]></title>
+            <description><![CDATA[Medical teams around the world are learning which medicines work best against Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52354520</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52354520</guid>
+            <pubDate>Wed, 23 Jun 2021 14:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
+            <description><![CDATA[Over 40s in England and Scotland can have their second dose after eight weeks instead of 12.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Fri, 18 Jun 2021 09:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How is Europe lifting lockdown restrictions?]]></title>
+            <description><![CDATA[Europe is gradually easing lockdown measures ahead of the tourist season.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Wed, 23 Jun 2021 10:41:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine passports: How can I prove I've had both my Covid jabs?]]></title>
@@ -315,13 +350,6 @@
             <link>https://www.bbc.co.uk/news/uk-57386719</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57386719</guid>
             <pubDate>Mon, 21 Jun 2021 12:26:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
-            <description><![CDATA[Over 40s in England and Scotland can have their second dose after eight weeks instead of 12.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55045639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Fri, 18 Jun 2021 09:24:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Where does the government borrow billions from?]]></title>
