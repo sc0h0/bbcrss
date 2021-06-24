@@ -1,6 +1,6 @@
-1. [Covid: Balearics and Malta added to NI and Scotland's green lists](https://www.bbc.co.uk/news/uk-57599477) - Travellers entering Northern Ireland and Scotland from 16 places will not have to quarantine from 30 June.
+1. [Covid: Balearics and Malta added to UK's green travel list](https://www.bbc.co.uk/news/uk-57599477) - Travellers entering the UK from 16 places will not have to quarantine from 04:00 BST on 30 June.
 2. [Woman dies after Scottish cancer screening error](https://www.bbc.co.uk/news/uk-scotland-57596250) - About 430 women have been incorrectly excluded from Scotland's cervical screening programme.
-3. [Covid-19: Islands added to green lists and Europe on thin ice](https://www.bbc.co.uk/news/uk-57597299) - Five things you need to know about the coronavirus pandemic this Thursday evening.
+3. [Covid-19: Islands added to green list and Europe on thin ice](https://www.bbc.co.uk/news/uk-57597299) - Five things you need to know about the coronavirus pandemic this Thursday evening.
 4. [Miami building collapse: 51 people unaccounted for](https://www.bbc.co.uk/news/world-us-canada-57592827) - At least one person has died after a 12-storey residential complex in Florida collapsed overnight.
 5. [UK deaths outnumber births for first time in 40 years](https://www.bbc.co.uk/news/uk-57600757) - Coronavirus led to a sharp rise in deaths last year in the UK, but birth rates have been falling for the last decade.
 6. [Sarah Buick: Body found in search for missing Ben Nevis walker](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57601807) - A search has been taking place for Sarah Buick, who was last seen in a selfie she took at the summit of the mountain.
