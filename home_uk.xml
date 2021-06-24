@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Jun 2021 07:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 07:38:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Thu, 24 Jun 2021 06:45:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[John McAfee: Anti-virus creator found dead in prison cell]]></title>
-            <description><![CDATA[The software mogul is found dead hours after a Spanish court allowed his extradition to the US on tax charges.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57589822</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57589822</guid>
-            <pubDate>Wed, 23 Jun 2021 21:09:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Russian jets and ships shadow British warship]]></title>
             <description><![CDATA[BBC defence correspondent Jonathan Beale reports from the deck of HMS Defender in the Black Sea as it was harassed by Russia's military.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57587777</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57587777</guid>
             <pubDate>Wed, 23 Jun 2021 21:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John McAfee: Anti-virus creator found dead in prison cell]]></title>
+            <description><![CDATA[The software mogul is found dead hours after a Spanish court allowed his extradition to the US on tax charges.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57589822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57589822</guid>
+            <pubDate>Wed, 23 Jun 2021 21:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long Covid: More than two million in England may have suffered, study suggests]]></title>
@@ -72,13 +72,6 @@
             <pubDate>Thu, 24 Jun 2021 03:21:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sir Keir Starmer picks ex-Tony Blair aide as interim communications chief]]></title>
-            <description><![CDATA[Matthew Doyle's appointment comes amid a shake-up of the Labour leader's backroom team.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57590128</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57590128</guid>
-            <pubDate>Wed, 23 Jun 2021 22:26:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Biden backs funding more police to fight crime wave]]></title>
             <description><![CDATA[Amid claims his party is soft on crime, the president backs hiring more police beyond pre-pandemic levels.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57589416</link>
@@ -86,7 +79,7 @@
             <pubDate>Thu, 24 Jun 2021 00:58:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gulf between PM's promises and action on climate change, advisory group warns]]></title>
+            <title><![CDATA[PM not delivering on climate promises - advisers]]></title>
             <description><![CDATA[The Climate Change Committee says the PM's climate leadership is undermined by inadequate policies.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57580254</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57580254</guid>
@@ -100,7 +93,7 @@
             <pubDate>Thu, 24 Jun 2021 05:29:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Students say uni poor value for money this year]]></title>
+            <title><![CDATA[Students: ‘Uni definitely not good value this year’]]></title>
             <description><![CDATA[Students found the experience of university in the pandemic not worth the cost, says survey.]]></description>
             <link>https://www.bbc.co.uk/news/education-57586742</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57586742</guid>
