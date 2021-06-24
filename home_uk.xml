@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Jun 2021 09:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 09:58:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,14 @@
             <description><![CDATA[Travel bosses want more countries on the green list, as the government carries out its three-week review.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57590119</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57590119</guid>
-            <pubDate>Thu, 24 Jun 2021 09:10:52 GMT</pubDate>
+            <pubDate>Thu, 24 Jun 2021 09:52:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Charles financially supported Sussexes until summer of 2020 - Clarence House]]></title>
             <description><![CDATA[Prince Charles supported the couple after they stepped down as senior royals, Clarence House says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57589216</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57589216</guid>
-            <pubDate>Thu, 24 Jun 2021 06:07:17 GMT</pubDate>
+            <pubDate>Thu, 24 Jun 2021 09:48:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anti-obesity drive: Junk food TV adverts to be banned before 9pm]]></title>
@@ -45,10 +45,17 @@
         </item>
         <item>
             <title><![CDATA[Forced adoption: 'This is where my baby was taken from me']]></title>
-            <description><![CDATA[Elspeth Ross in among the thousands of Scottish women who were forced to give up their babies.]]></description>
+            <description><![CDATA[Elspeth Ross is among thousands of Scottish women who were forced to give up their babies.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57586966</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57586966</guid>
             <pubDate>Wed, 23 Jun 2021 23:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miami building collapse: rescuers search rubble for survivors]]></title>
+            <description><![CDATA[At least one person is killed and there are fears that others may be trapped in the rubble.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57592827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57592827</guid>
+            <pubDate>Thu, 24 Jun 2021 09:46:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Britney Spears speaks out against 'abusive' conservatorship at hearing]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57592465</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57592465</guid>
             <pubDate>Thu, 24 Jun 2021 09:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dog tidies Leeds park by collecting plastic bottles]]></title>
-            <description><![CDATA[Harley the Labrador picks up discarded bottles on his morning walk to be binned by his owner.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-57586094</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57586094</guid>
-            <pubDate>Thu, 24 Jun 2021 05:29:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Students: ‘Uni definitely not good value this year’]]></title>
@@ -212,6 +212,13 @@
             <pubDate>Thu, 24 Jun 2021 00:18:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo 2020: Andy Murray selected for Great Britain's tennis team]]></title>
+            <description><![CDATA[Two-time defending champion Andy Murray is selected for Great Britain's tennis team at this summer's Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57592216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57592216</guid>
+            <pubDate>Thu, 24 Jun 2021 09:54:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Penalty misses, 'ghost goals' & tears - it's Germany again for England]]></title>
             <description><![CDATA[As England get ready to host Germany at Wembley in the last 16 at Euro 2020 next Tuesday, BBC Sport sets the scene for what could be another fascinating encounter.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57590519</link>
@@ -226,25 +233,18 @@
             <pubDate>Thu, 24 Jun 2021 09:25:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Who do your team play and when? Full EFL fixtures released]]></title>
-            <description><![CDATA[Relegated Premier League side West Brom will start their 2021-22 Championship season at Bournemouth.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57581552</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57581552</guid>
-            <pubDate>Thu, 24 Jun 2021 08:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Name all the group-stage goalscorers]]></title>
-            <description><![CDATA[Can you name all the group-stage goalscorers from the European Championship?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57548611</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57548611</guid>
-            <pubDate>Thu, 24 Jun 2021 06:22:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BBC TV to show England v Sri Lanka T20 live on Thursday]]></title>
             <description><![CDATA[Four England Twenty20 matches will be shown on BBC TV as live cricket returns to UK screens.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/56971323</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56971323</guid>
             <pubDate>Thu, 24 Jun 2021 08:50:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Goals galore! - All 18 goals in 90 seconds from a record-breaking day at Euro 2020]]></title>
+            <description><![CDATA[Watch every goal from the final day of the group stages at Euro 2020, with a record-breaking 18 goals across four matches.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57590949</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57590949</guid>
+            <pubDate>Thu, 24 Jun 2021 00:45:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Travel guide to Spain, Portugal, France and other holiday hotspots]]></title>
