@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Jun 2021 04:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 05:09:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Wed, 23 Jun 2021 23:00:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Scientists study 290 day positive Covid recovery]]></title>
+            <description><![CDATA[Dave Smith, 72, from Bristol, was sent to hospital seven times over the last 10 months.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57586965</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57586965</guid>
+            <pubDate>Thu, 24 Jun 2021 05:00:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why has the Hoover Dam hit an historically low water level?]]></title>
             <description><![CDATA[The largest US reservoir fell to its lowest level in history, threatening water and power supplies.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57535203</link>
@@ -135,18 +142,18 @@
             <pubDate>Wed, 23 Jun 2021 23:01:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ros Atkins looks at the closure of Hong Kong's pro-democracy newspaper Apple Daily]]></title>
-            <description><![CDATA[Ros Atkins looks at the events that led to the closure of Hong Kong's pro-democracy newspaper Apple Daily.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57586964</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57586964</guid>
-            <pubDate>Wed, 23 Jun 2021 23:01:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nigeria child abduction: Kidnappers demand millions for a child's life]]></title>
             <description><![CDATA[Kidnappers have seized more than 1,000 students and staff in raids on schools in northern Nigeria since December.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57586884</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57586884</guid>
             <pubDate>Wed, 23 Jun 2021 23:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins looks at the closure of Hong Kong's pro-democracy newspaper Apple Daily]]></title>
+            <description><![CDATA[Ros Atkins looks at the events that led to the closure of Hong Kong's pro-democracy newspaper Apple Daily.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57586964</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57586964</guid>
+            <pubDate>Wed, 23 Jun 2021 23:01:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HMS Defender: What will be the fallout from Black Sea incident?]]></title>
