@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Jun 2021 07:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 08:19:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Thu, 24 Jun 2021 06:07:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England to play Germany in Euro 2020 knockout]]></title>
-            <description><![CDATA[As England get ready to host Germany at Wembley in the last 16 at Euro 2020 next Tuesday, BBC Sport sets the scene for what could be another fascinating encounter.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57590519</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57590519</guid>
-            <pubDate>Wed, 23 Jun 2021 23:14:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Britney Spears speaks out against 'abusive' conservatorship at hearing]]></title>
             <description><![CDATA["I just want my life back," the US pop star says in a highly anticipated public testimony.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57586405</link>
@@ -44,11 +37,11 @@
             <pubDate>Thu, 24 Jun 2021 07:03:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Travellers await rules review and millions may have long-lasting Covid]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57587196</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57587196</guid>
-            <pubDate>Thu, 24 Jun 2021 06:45:45 GMT</pubDate>
+            <title><![CDATA[Covid: Scientists study 290 day positive Covid recovery]]></title>
+            <description><![CDATA[Dave Smith, 72, from Bristol, was sent to hospital seven times over the last 10 months.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57586965</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57586965</guid>
+            <pubDate>Thu, 24 Jun 2021 05:00:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russian jets and ships shadow British warship]]></title>
@@ -56,6 +49,20 @@
             <link>https://www.bbc.co.uk/news/world-europe-57587777</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57587777</guid>
             <pubDate>Wed, 23 Jun 2021 21:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England to play Germany in Euro 2020 knockout]]></title>
+            <description><![CDATA[As England get ready to host Germany at Wembley in the last 16 at Euro 2020 next Tuesday, BBC Sport sets the scene for what could be another fascinating encounter.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57590519</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57590519</guid>
+            <pubDate>Wed, 23 Jun 2021 23:14:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Travellers await rules review and millions may have long-lasting Covid]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57587196</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57587196</guid>
+            <pubDate>Thu, 24 Jun 2021 06:45:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John McAfee: Anti-virus creator found dead in prison cell]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57580254</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57580254</guid>
             <pubDate>Thu, 24 Jun 2021 00:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long Covid: More than two million in England may have suffered, study suggests]]></title>
-            <description><![CDATA[Symptoms such as fatigue and shortness of breath can persist for months.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57584295</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57584295</guid>
-            <pubDate>Thu, 24 Jun 2021 03:21:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biden backs funding more police to fight crime wave]]></title>
@@ -112,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57586966</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57586966</guid>
             <pubDate>Wed, 23 Jun 2021 23:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Scientists study 290 day positive Covid recovery]]></title>
-            <description><![CDATA[Dave Smith, 72, from Bristol, was sent to hospital seven times over the last 10 months.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57586965</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57586965</guid>
-            <pubDate>Thu, 24 Jun 2021 05:00:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why has the Hoover Dam hit an historically low water level?]]></title>
@@ -219,18 +212,18 @@
             <pubDate>Thu, 24 Jun 2021 05:15:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Relegated West Brom begin Championship season at Bournemouth]]></title>
+            <description><![CDATA[Relegated Premier League side West Brom will start their 2021-22 Championship season at Bournemouth.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57581552</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57581552</guid>
+            <pubDate>Thu, 24 Jun 2021 08:00:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020: Goals galore! - All 18 goals in 90 seconds from a record-breaking day at Euro 2020]]></title>
             <description><![CDATA[Watch every goal from the final day of the group stages at Euro 2020, with a record-breaking 18 goals across four matches.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57590949</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57590949</guid>
             <pubDate>Thu, 24 Jun 2021 00:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Ronaldo, De Bruyne, Modric, Schick - The best group stage goals]]></title>
-            <description><![CDATA[Watch seven of the best goals scored in the Euro 2020 group stage, including strikes from Patrick Schick, Kevin de Bruyne, Cristiano Ronaldo, Andreas Christensen and Luka Modric.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57588494</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57588494</guid>
-            <pubDate>Thu, 24 Jun 2021 05:34:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Travel guide to Spain, Portugal, France and other holiday hotspots]]></title>
