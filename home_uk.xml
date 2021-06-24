@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Jun 2021 21:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 22:08:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Thu, 24 Jun 2021 21:25:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK deaths outnumber births for first time in 40 years]]></title>
-            <description><![CDATA[Coronavirus led to a sharp rise in deaths last year in the UK, but birth rates have been falling for the last decade.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57600757</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57600757</guid>
-            <pubDate>Thu, 24 Jun 2021 17:08:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sarah Buick: Body found in search for missing Ben Nevis walker]]></title>
             <description><![CDATA[A search has been taking place for Sarah Buick, who was last seen in a selfie she took at the summit of the mountain.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57601807</link>
@@ -44,11 +37,11 @@
             <pubDate>Thu, 24 Jun 2021 17:44:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canada: 751 unmarked graves found at residential school]]></title>
-            <description><![CDATA[It is the most significant such discovery to date, a First Nation group in Saskatchewan says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57592243</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57592243</guid>
-            <pubDate>Thu, 24 Jun 2021 18:55:35 GMT</pubDate>
+            <title><![CDATA[UK deaths outnumber births for first time in 40 years]]></title>
+            <description><![CDATA[Coronavirus led to a sharp rise in deaths last year in the UK, but birth rates have been falling for the last decade.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57600757</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57600757</guid>
+            <pubDate>Thu, 24 Jun 2021 17:08:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Henriett and Mihrican: The missed chances to identify a killer]]></title>
@@ -72,11 +65,11 @@
             <pubDate>Thu, 24 Jun 2021 15:21:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Capitol riot: Democrats set up committee to probe 6 January attack]]></title>
-            <description><![CDATA[House Speaker Nancy Pelosi says the body will aim to "establish the truth" of what happened.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57594033</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57594033</guid>
-            <pubDate>Thu, 24 Jun 2021 18:31:48 GMT</pubDate>
+            <title><![CDATA[Canada: 751 unmarked graves found at residential school]]></title>
+            <description><![CDATA[It is the most significant such discovery to date, a First Nation group in Saskatchewan says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57592243</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57592243</guid>
+            <pubDate>Thu, 24 Jun 2021 18:55:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Doncaster delivery driver dragged along road after van theft]]></title>
@@ -100,18 +93,11 @@
             <pubDate>Thu, 24 Jun 2021 15:12:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England v Sri Lanka: Hosts wrap up T20 series with five-wicket win]]></title>
-            <description><![CDATA[England recover from 36-4 to beat Sri Lanka by five wickets and win the series with a game to spare in a rain-affected second Twenty20 in Cardiff.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57605253</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57605253</guid>
-            <pubDate>Thu, 24 Jun 2021 21:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Astronomers work out when the first stars shone]]></title>
-            <description><![CDATA[Called the "cosmic dawn", this period happened between 250 and 350 million years after the Big Bang.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57515422</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57515422</guid>
-            <pubDate>Thu, 24 Jun 2021 12:59:57 GMT</pubDate>
+            <title><![CDATA[Capitol riot: Democrats set up committee to probe 6 January attack]]></title>
+            <description><![CDATA[House Speaker Nancy Pelosi says the body will aim to "establish the truth" of what happened.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57594033</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57594033</guid>
+            <pubDate>Thu, 24 Jun 2021 18:31:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tree cut in half in neighbour row over driveway pigeon poo]]></title>
@@ -119,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-57598101</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-57598101</guid>
             <pubDate>Thu, 24 Jun 2021 14:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Astronomers work out when the first stars shone]]></title>
+            <description><![CDATA[Called the "cosmic dawn", this period happened between 250 and 350 million years after the Big Bang.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57515422</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57515422</guid>
+            <pubDate>Thu, 24 Jun 2021 12:59:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: The man who tested positive for Covid 43 times]]></title>
@@ -254,6 +247,13 @@
             <pubDate>Thu, 24 Jun 2021 00:18:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England recover from collapse to seal T20 series against Sri Lanka]]></title>
+            <description><![CDATA[England recover from 36-4 to beat Sri Lanka by five wickets at Cardiff and win the Twenty20 series with a game to spare.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57605253</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57605253</guid>
+            <pubDate>Thu, 24 Jun 2021 21:34:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nuno leading contender for Tottenham manager's job]]></title>
             <description><![CDATA[Former Wolves boss Nuno Espirito Santo is the leading contender to become the new Spurs manager.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57604428</link>
@@ -287,13 +287,6 @@
             <link>https://www.bbc.co.uk/sport/disability-sport/57601599</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/disability-sport/57601599</guid>
             <pubDate>Thu, 24 Jun 2021 18:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v Sri Lanka: Sam Curran kicks ball on to stumps to run out Danushka Gunathilaka]]></title>
-            <description><![CDATA[England's Sam Curran kicks the ball on to the stumps to run out Danushka Gunathilaka to reduce Sri Lanka to 6-1 in Cardiff in the second T20 international of the three-match series]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57603750</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57603750</guid>
-            <pubDate>Thu, 24 Jun 2021 18:06:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
