@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Jun 2021 12:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jun 2021 13:24:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -38,7 +38,7 @@
         </item>
         <item>
             <title><![CDATA[EE to reintroduce Europe roaming charges in January]]></title>
-            <description><![CDATA[The mobile operator EE is to charge new customers to use their phones in Europe.]]></description>
+            <description><![CDATA[The mobile operator EE is to charge new UK customers to use their phones in Europe.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57595913</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57595913</guid>
             <pubDate>Thu, 24 Jun 2021 12:07:26 GMT</pubDate>
@@ -65,20 +65,6 @@
             <pubDate>Thu, 24 Jun 2021 11:36:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ministers 'should urge public to eat less meat']]></title>
-            <description><![CDATA[The UK public should be urged by the government to eat less meat and dairy produce, advisers say.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57580254</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57580254</guid>
-            <pubDate>Thu, 24 Jun 2021 11:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank of England shrugs off inflation fears]]></title>
-            <description><![CDATA[Bank policymakers keep rates steady despite concerns of an inflation surge in the wake of the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57596298</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57596298</guid>
-            <pubDate>Thu, 24 Jun 2021 11:50:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Miami building collapse: Rescuers search rubble for survivors]]></title>
             <description><![CDATA[At least one person is killed and there are fears that others may be trapped in the rubble.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57592827</link>
@@ -86,11 +72,25 @@
             <pubDate>Thu, 24 Jun 2021 12:08:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Britney Spears speaks out against 'abusive' conservatorship in court]]></title>
-            <description><![CDATA["I just want my life back," the US pop star says in a highly anticipated public testimony.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57586405</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57586405</guid>
-            <pubDate>Thu, 24 Jun 2021 10:48:14 GMT</pubDate>
+            <title><![CDATA[Ministers 'should urge public to eat less meat']]></title>
+            <description><![CDATA[The UK public should be urged by the government to eat less meat and dairy produce, advisers say.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57580254</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57580254</guid>
+            <pubDate>Thu, 24 Jun 2021 11:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Citi bank boss says staff work better in the office]]></title>
+            <description><![CDATA[James Bardrick says most UK staff at bank Citi will work from the office three days a week.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57594694</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57594694</guid>
+            <pubDate>Thu, 24 Jun 2021 11:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Astronomers work out when the first stars shone]]></title>
+            <description><![CDATA[Called the "cosmic dawn", this period happened between 250 and 350 million years after the Big Bang.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57515422</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57515422</guid>
+            <pubDate>Thu, 24 Jun 2021 12:59:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blink-182 star Mark Hoppus reveals cancer diagnosis]]></title>
@@ -279,7 +279,7 @@
             <description><![CDATA[What you need to know about travelling abroad to Portugal, Spain, Greece, France, Italy and Turkey.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-56997931</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56997931</guid>
-            <pubDate>Thu, 24 Jun 2021 09:02:48 GMT</pubDate>
+            <pubDate>Thu, 24 Jun 2021 12:58:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
@@ -294,6 +294,13 @@
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
             <pubDate>Tue, 22 Jun 2021 13:40:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Can we stop worrying about high case numbers?]]></title>
+            <description><![CDATA[As vaccination reduces serious illness from Covid-19, the Scottish government is changing its strategy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57581952</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57581952</guid>
+            <pubDate>Thu, 24 Jun 2021 05:02:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
@@ -454,7 +461,7 @@
             <description><![CDATA[The Tokyo Summer Olympics are due to start in July, despite a surge in Covid cases in Japan.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57240044</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57240044</guid>
-            <pubDate>Wed, 16 Jun 2021 10:36:57 GMT</pubDate>
+            <pubDate>Thu, 24 Jun 2021 13:06:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
