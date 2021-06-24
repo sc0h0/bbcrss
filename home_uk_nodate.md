@@ -5,7 +5,7 @@
 5. [Buckingham Palace reveals 8.5% ethnic minority staff](https://www.bbc.co.uk/news/uk-57589589) - Royal accounts show 8.5% of household staff are of ethnic minority - its target for 2022 is 10%.
 6. [Forced adoption: 'This is where my baby was taken from me'](https://www.bbc.co.uk/news/uk-scotland-57586966) - Elspeth Ross in among the thousands of Scottish women who were forced to give up their babies.
 7. [Biden backs funding more police to fight crime wave](https://www.bbc.co.uk/news/world-us-canada-57589416) - Amid claims his party is soft on crime, the president backs hiring more police beyond pre-pandemic levels.
-8. [Outdated hospital oxygen systems ‘risk to patients’, review warns](https://www.bbc.co.uk/news/uk-57583734) - Systems could not always cope with surges in demand during the winter wave in England, a review says.
+8. [Outdated hospital oxygen systems a ‘risk to patients’, review warns](https://www.bbc.co.uk/news/uk-57583734) - Systems could not always cope with surges in demand during the winter wave in England, a review says.
 9. [HMS Defender: Russian jets and ships shadow British warship](https://www.bbc.co.uk/news/world-europe-57583363) - More than 20 jets and two coastguard ships shadow HMS Defender as it sails near Crimea's coast.
 10. [Sir Keir Starmer picks ex-Tony Blair aide as interim communications chief](https://www.bbc.co.uk/news/uk-politics-57590128) - Matthew Doyle's appointment comes amid a shake-up of the Labour leader's backroom team.
 11. [Queen describes Matt Hancock as 'poor man' at meeting with PM](https://www.bbc.co.uk/news/uk-politics-57584417) - The monarch made the remarks at her first in-person weekly meeting with the PM since lockdown began.
