@@ -1,4 +1,4 @@
-1. [Health Secretary Matt Hancock admits breaking social distance rules with aide](https://www.bbc.co.uk/news/uk-politics-57612441) - Health Secretary Matt Hancock admits breaking social distancing rules with close aide and apologises for letting people down
+1. [Health Secretary Matt Hancock admits breaking social distance rules with aide](https://www.bbc.co.uk/news/uk-politics-57612441) - Labour says the health secretary should be sacked over an affair with a colleague he appointed.
 2. [Covid: Green list expansion not enough, say travel bosses](https://www.bbc.co.uk/news/uk-57606348) - Sixteen places - including Ibiza - will join the green list from Wednesday, but industry leaders want more.
 3. [Miami building collapse: Rescuers listen for signs of life in rubble](https://www.bbc.co.uk/news/world-us-canada-57606232) - Rescuers search for survivors with 99 unaccounted for after the collapse of the 12-storey complex.
 4. [Coronavirus: Israel reimposes masks amid new virus fears](https://www.bbc.co.uk/news/world-middle-east-57594155) - It comes just days after the last restriction was lifted, as concerns grow over a spate of cases.
