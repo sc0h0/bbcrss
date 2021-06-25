@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Jun 2021 10:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 11:11:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Fri, 25 Jun 2021 00:14:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sasha Johnson shooting: Four men indicate not guilty pleas]]></title>
+            <description><![CDATA[Lawyers for four men accused of conspiracy to murder indicated their clients are to deny the charge.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57610694</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57610694</guid>
+            <pubDate>Fri, 25 Jun 2021 10:12:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The online scammers renting out other people's homes]]></title>
             <description><![CDATA[Fraudsters copy adverts from legitimate websites before taking deposits and fees from their victims.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-dorset-57599056</link>
@@ -72,25 +79,11 @@
             <pubDate>Fri, 25 Jun 2021 09:15:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Sydney city centre and Bondi beach to enter lockdown]]></title>
-            <description><![CDATA[More than one million people will go through a week-long lockdown to contain a rise in cases.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57590969</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57590969</guid>
-            <pubDate>Fri, 25 Jun 2021 05:29:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mumford & Sons' Winston Marshall quits to avoid 'self-censorship']]></title>
             <description><![CDATA[Winston Marshall says a "viral mob" caused the whole band distress over a tweet he wrote.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57608397</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57608397</guid>
             <pubDate>Fri, 25 Jun 2021 09:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Latitude Festival 2021 to be government test event]]></title>
-            <description><![CDATA[The festival will go ahead at full capacity as part of the government's series of test events.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57609922</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57609922</guid>
-            <pubDate>Fri, 25 Jun 2021 09:31:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wimbledon 2021: Andy Murray faces Nikoloz Basilashvili, Jack Draper plays Novak Djokovic]]></title>
@@ -114,7 +107,7 @@
             <pubDate>Fri, 25 Jun 2021 10:01:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ringo Starr drops legal fight over Ring O sex toys]]></title>
+            <title><![CDATA[Ringo Starr drops trademark fight over Ring O sex toys]]></title>
             <description><![CDATA[The Beatles drummer had challenged the trademark, saying it's too similar to his name.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57600967</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57600967</guid>
@@ -268,11 +261,11 @@
             <pubDate>Fri, 25 Jun 2021 09:03:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: How is furlough changing and when will it end?]]></title>
-            <description><![CDATA[Furlough has been extended until the end of September]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
-            <pubDate>Thu, 24 Jun 2021 10:21:42 GMT</pubDate>
+            <title><![CDATA[Travel guide to Spain, Portugal, Malta and other holiday hotspots]]></title>
+            <description><![CDATA[What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-56997931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56997931</guid>
+            <pubDate>Fri, 25 Jun 2021 10:49:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: When can we stop wearing face masks or coverings?]]></title>
@@ -287,6 +280,13 @@
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Thu, 24 Jun 2021 16:06:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How is furlough changing and when will it end?]]></title>
+            <description><![CDATA[Furlough has been extended until the end of September]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
+            <pubDate>Thu, 24 Jun 2021 10:21:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
