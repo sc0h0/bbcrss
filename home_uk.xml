@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Jun 2021 14:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 15:04:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,13 +65,6 @@
             <pubDate>Fri, 25 Jun 2021 10:12:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: Israel reimposes masks amid new virus fears]]></title>
-            <description><![CDATA[It comes just days after the last restriction was lifted, as concerns grow over a spate of cases.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57594155</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57594155</guid>
-            <pubDate>Fri, 25 Jun 2021 08:59:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Valérie Bacot: French woman who killed abuser husband should go free, says prosecutor]]></title>
             <description><![CDATA[Valérie Bacot should be shown clemency and allowed to leave jail, a French court is told.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57609494</link>
@@ -79,11 +72,18 @@
             <pubDate>Fri, 25 Jun 2021 14:22:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The online scammers renting out other people's homes]]></title>
-            <description><![CDATA[Fraudsters copy adverts from legitimate websites before taking deposits and fees from their victims.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-57599056</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-57599056</guid>
-            <pubDate>Thu, 24 Jun 2021 23:00:37 GMT</pubDate>
+            <title><![CDATA[Coronavirus: Israel reimposes masks amid new virus fears]]></title>
+            <description><![CDATA[It comes just days after the last restriction was lifted, as concerns grow over a spate of cases.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57594155</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57594155</guid>
+            <pubDate>Fri, 25 Jun 2021 08:59:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Infected Blood Inquiry: Hampshire school pupils' 'rage' over HIV diagnoses]]></title>
+            <description><![CDATA[A school tried to help pupils who were infected with HIV through blood products, an inquiry hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-57613087</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-57613087</guid>
+            <pubDate>Fri, 25 Jun 2021 14:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Roman Protasevich: House arrest for man seized in Ryanair Belarus jet drama]]></title>
@@ -107,18 +107,18 @@
             <pubDate>Fri, 25 Jun 2021 12:44:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Crown: Trainspotting's Jonny Lee Miller to play Sir John Major]]></title>
-            <description><![CDATA[Jonny Lee Miller swaps Trainspotting's Sick Boy for portraying the 1990s prime minister in The Crown.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57610233</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57610233</guid>
-            <pubDate>Fri, 25 Jun 2021 12:58:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why has the sea off Scotland turned turquoise?]]></title>
             <description><![CDATA[The vivid turquoise colour of the sea off the west coast looks like holiday snaps from the Mediterranean.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57609040</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57609040</guid>
             <pubDate>Fri, 25 Jun 2021 13:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Crown: Trainspotting's Jonny Lee Miller to play Sir John Major]]></title>
+            <description><![CDATA[Jonny Lee Miller swaps Trainspotting's Sick Boy for portraying the 1990s prime minister in The Crown.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57610233</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57610233</guid>
+            <pubDate>Fri, 25 Jun 2021 12:58:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The police rape interview that shocked 1980s Britain]]></title>
@@ -300,7 +300,7 @@
             <description><![CDATA[What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-56997931</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56997931</guid>
-            <pubDate>Fri, 25 Jun 2021 10:49:02 GMT</pubDate>
+            <pubDate>Fri, 25 Jun 2021 15:02:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine passports: How can I prove I've had both my Covid jabs?]]></title>
