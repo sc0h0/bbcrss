@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Jun 2021 21:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 21:38:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,20 +58,6 @@
             <pubDate>Fri, 25 Jun 2021 15:14:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid cases return to early April levels]]></title>
-            <description><![CDATA[The Delta variant has become even more dominant, but vaccines are making a difference.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57610999</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57610999</guid>
-            <pubDate>Fri, 25 Jun 2021 13:19:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Valérie Bacot: Freedom for abused French woman who killed husband]]></title>
-            <description><![CDATA[Valérie Bacot's story of abuse shocked France, but she still served a year in jail.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57609494</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57609494</guid>
-            <pubDate>Fri, 25 Jun 2021 19:42:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Germany passes new citizenship law for descendants of Nazi victims]]></title>
             <description><![CDATA[The move closes loopholes that denied citizenship to some whose ancestors had fled persecution.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57618755</link>
@@ -86,11 +72,32 @@
             <pubDate>Fri, 25 Jun 2021 14:09:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Glasgow MP moved to police safe house after death threat]]></title>
+            <description><![CDATA[Carol Monaghan wants better protection for public figures after online abuse turned into a "credible" death threat.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57614736</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57614736</guid>
+            <pubDate>Fri, 25 Jun 2021 21:27:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UFO report: US 'has no explanation' for sightings]]></title>
+            <description><![CDATA[A Pentagon report says it can only explain one of 144 sightings made by the US military since 2004.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57619755</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57619755</guid>
+            <pubDate>Fri, 25 Jun 2021 21:28:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dartmoor: Wistman's Wood visitors asked to stay out to protect woodland]]></title>
             <description><![CDATA[Natural England says visitors to Wistman's Wood should allow it to "remain a special place".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-57602915</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-57602915</guid>
             <pubDate>Fri, 25 Jun 2021 17:59:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mo Farah falls short in Tokyo Olympics qualification bid at British Championships]]></title>
+            <description><![CDATA[Four-time Olympic champion Mo Farah will not defend his 10,000m title in Tokyo after he fell short in a last-gasp attempt to secure the qualifying time.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/57610421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57610421</guid>
+            <pubDate>Fri, 25 Jun 2021 21:31:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami building collapse: What happened, and how quickly?]]></title>
@@ -100,11 +107,18 @@
             <pubDate>Fri, 25 Jun 2021 12:44:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Hancock admits breaching guidelines, and travel bookings surge]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57611971</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57611971</guid>
-            <pubDate>Fri, 25 Jun 2021 16:19:51 GMT</pubDate>
+            <title><![CDATA[Katty Kay: How 100 days turned into five years of fun]]></title>
+            <description><![CDATA[Katty Kay leaves the BBC after nearly three decades of service, including five years on Beyond 100 Days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57598135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57598135</guid>
+            <pubDate>Fri, 25 Jun 2021 16:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Czech Republic: Tornado fells trees then smashes eyewitness's window]]></title>
+            <description><![CDATA[Video shows the tornado tearing through part of the Czech Republic and the devastation left behind.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57619807</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57619807</guid>
+            <pubDate>Fri, 25 Jun 2021 21:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why has the sea off Scotland turned turquoise?]]></title>
@@ -114,18 +128,18 @@
             <pubDate>Fri, 25 Jun 2021 13:46:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Katty Kay: How 100 days turned into five years of fun]]></title>
-            <description><![CDATA[Katty Kay leaves the BBC after nearly three decades of service, including five years on Beyond 100 Days.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57598135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57598135</guid>
-            <pubDate>Fri, 25 Jun 2021 16:04:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nico Ali Walsh: Muhammad Ali's grandson signs pro deal with Bob Arum]]></title>
             <description><![CDATA[The grandson of Muhammad Ali will make his professional debut on 14 August after signing with promoter Bob Arum.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/57615386</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57615386</guid>
             <pubDate>Fri, 25 Jun 2021 17:29:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Hancock admits breaching guidelines, and travel bookings surge]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57611971</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57611971</guid>
+            <pubDate>Fri, 25 Jun 2021 16:19:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christmas returns to Penkhull pub after Covid-hit festivities]]></title>
@@ -247,6 +261,20 @@
             <pubDate>Wed, 23 Jun 2021 23:35:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['We are ready for a battle ... the gloves are off' - Wales face Denmark in last 16 ]]></title>
+            <description><![CDATA[The "gloves are off" for Wales as they prepare to face Denmark in their Euro 2020 last-16 tie in Amsterdam on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51197369</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51197369</guid>
+            <pubDate>Fri, 25 Jun 2021 20:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wane's first game in charge of England ends in defeat]]></title>
+            <description><![CDATA[Shaun Wane's tenure as England boss begins in disappointment with a 26-24 defeat by the Combined All Stars.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/57618533</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/57618533</guid>
+            <pubDate>Fri, 25 Jun 2021 21:27:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mercedes' Bottas receives grid penalty for pit lane spin]]></title>
             <description><![CDATA[Mercedes driver Valtteri Bottas is handed a three-place grid penalty at the Styrian Grand Prix for spinning in the pit lane in practice.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/57615056</link>
@@ -273,13 +301,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/57618135</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57618135</guid>
             <pubDate>Fri, 25 Jun 2021 18:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Phil Foden explains England's preparations for penalties]]></title>
-            <description><![CDATA[England's Phil Foden explains how the players are preparing for the possibility of a penalty shootout with Germany in the last 16 of Euro 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57614102</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57614102</guid>
-            <pubDate>Fri, 25 Jun 2021 12:41:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Travel guide to Spain, Portugal, Malta and other holiday hotspots]]></title>
