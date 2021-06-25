@@ -6,7 +6,7 @@
 6. [The online scammers renting out other people's homes](https://www.bbc.co.uk/news/uk-england-dorset-57599056) - Fraudsters copy adverts from legitimate websites before taking deposits and fees from their victims.
 7. [Roman Protasevich: Belarus jet drama dissident moved to house arrest](https://www.bbc.co.uk/news/world-europe-57607580) - Opposition journalist Roman Protasevich was seized from a Ryanair plane with his girlfriend.
 8. [Covid: Sydney city centre and Bondi beach to enter lockdown](https://www.bbc.co.uk/news/world-australia-57590969) - More than one million people will go through a week-long lockdown to contain a rise in cases.
-9. [Amazon and Google investigated over fake reviews](https://www.bbc.co.uk/news/business-57608138) - UK competition watchdog begins formal probe into whether the internet giants have broken consumer law.
+9. [Amazon and Google probed over efforts to stop fake reviews](https://www.bbc.co.uk/news/business-57608138) - UK competition watchdog begins formal probe into whether the internet giants have broken consumer law.
 10. [Covid-19: NHS Test and Trace weaknesses remain, says watchdog](https://www.bbc.co.uk/news/health-57601097) - National Audit Office says winter test results took too long in England and too many consultants are used.
 11. [Tokyo 2020: Some GB Olympic athletes 'don't want vaccine' - BOA chief Andy Anson](https://www.bbc.co.uk/sport/olympics/57604425) - The head of the British Olympic Association (BOA) says some members of Team GB refuse to have the Covid-19 vaccine
 12. [Brighton Palace Pier: Hundreds overcharged £2,100 for rides](https://www.bbc.co.uk/news/uk-england-sussex-57600702) - A payment error meant the date was entered as the transaction amount, Brighton Palace Pier says.
