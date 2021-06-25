@@ -15,7 +15,7 @@
 15. [The Crown: Trainspotting's Jonny Lee Miller to play Sir John Major](https://www.bbc.co.uk/news/entertainment-arts-57610233) - Jonny Lee Miller swaps Trainspotting's Sick Boy for portraying the 1990s prime minister in The Crown.
 16. [The police rape interview that shocked 1980s Britain](https://www.bbc.co.uk/news/stories-57485617) - A BBC film showing police aggressively questioning a woman caused uproar in Britain in 1982.
 17. [Is Windows 11 the beginning of the end for Skype?](https://www.bbc.co.uk/news/technology-57597352) - Windows 11 will not have Skype installed by default - favouring Microsoft Teams instead.
-18. [Covid: Prof Jonathan Van Tam vaccinates Boston United players](https://www.bbc.co.uk/news/uk-england-lincolnshire-57601722) - The deputy chief medical officer meets his heroes as he jabs players from his beloved Boston United.
+18. [Covid: Prof Jonathan Van-Tam vaccinates Boston United players](https://www.bbc.co.uk/news/uk-england-lincolnshire-57601722) - The deputy chief medical officer meets his heroes as he jabs players from his beloved Boston United.
 19. [In pictures: Strawberry Moon rises](https://www.bbc.co.uk/news/in-pictures-57609690) - The final supermoon of 2021 was captured by photographers around the world.
 20. [Fast and Furious actor enjoys 'destroying' Edinburgh](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57609630) - F9 and wrestling star John Cena tells the BBC the "beautiful" city "worked really well" as a location for the franchise.
 21. [Ringo Starr drops trademark fight over Ring O sex toys](https://www.bbc.co.uk/news/entertainment-arts-57600967) - The Beatles drummer had challenged the trademark, saying it's too similar to his name.
