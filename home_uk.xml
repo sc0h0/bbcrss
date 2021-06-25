@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Jun 2021 09:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 09:57:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Covid: Green list expansion not enough, say travel bosses]]></title>
-            <description><![CDATA[Sixteen places - including Ibiza - will join the green list from Wednesday, but industry leaders want more.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57606348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57606348</guid>
-            <pubDate>Fri, 25 Jun 2021 09:22:31 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Matt Hancock not commenting on affair with aide claims]]></title>
             <description><![CDATA[The government says the health secretary did not break rules by giving Gina Coladangelo an official job.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57608716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57608716</guid>
             <pubDate>Fri, 25 Jun 2021 09:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Green list expansion not enough, say travel bosses]]></title>
+            <description><![CDATA[Sixteen places - including Ibiza - will join the green list from Wednesday, but industry leaders want more.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57606348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57606348</guid>
+            <pubDate>Fri, 25 Jun 2021 09:22:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami building collapse: Rescuers listen for signs of life in rubble]]></title>
@@ -79,11 +79,11 @@
             <pubDate>Fri, 25 Jun 2021 05:29:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mumford & Sons' Winston Marshall quits after backlash over tweet]]></title>
+            <title><![CDATA[Mumford & Sons' Winston Marshall quits to avoid 'self-censorship']]></title>
             <description><![CDATA[Winston Marshall says a "viral mob" caused the whole band distress over a tweet he wrote.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57608397</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57608397</guid>
-            <pubDate>Fri, 25 Jun 2021 09:10:45 GMT</pubDate>
+            <pubDate>Fri, 25 Jun 2021 09:51:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latitude Festival 2021 to be government test event]]></title>
@@ -93,11 +93,11 @@
             <pubDate>Fri, 25 Jun 2021 09:31:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brighton Palace Pier: Hundreds overcharged £2,100 for rides]]></title>
-            <description><![CDATA[A payment error meant the date was entered as the transaction amount, Brighton Palace Pier says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-57600702</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57600702</guid>
-            <pubDate>Thu, 24 Jun 2021 20:44:24 GMT</pubDate>
+            <title><![CDATA[Wimbledon 2021: Andy Murray faces Nikoloz Basilashvili, Jack Draper plays Novak Djokovic]]></title>
+            <description><![CDATA[Two-time champion Andy Murray plays Georgia's Nikoloz Basilashvili when he returns to the Wimbledon singles next week after a four-year absence.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57609184</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57609184</guid>
+            <pubDate>Fri, 25 Jun 2021 09:50:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ed Sheeran: Fatherhood made me change my bad habits]]></title>
@@ -212,18 +212,11 @@
             <pubDate>Wed, 23 Jun 2021 23:35:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Murray drawn against Georgia's Basilashvili for return to Wimbledon singles]]></title>
-            <description><![CDATA[Two-time champion Andy Murray plays Georgia's Nikoloz Basilashvili when he returns to the Wimbledon singles next week after a four-year absence.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57609184</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57609184</guid>
-            <pubDate>Fri, 25 Jun 2021 09:36:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Injured defending champion Halep pulls out of Wimbledon]]></title>
             <description><![CDATA[Defending women's champion Simona Halep pulls out of Wimbledon because of a calf injury.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57609992</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57609992</guid>
-            <pubDate>Fri, 25 Jun 2021 09:13:20 GMT</pubDate>
+            <pubDate>Fri, 25 Jun 2021 09:42:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turkey back on F1 calendar as it replaces cancelled Singapore race]]></title>
@@ -245,6 +238,13 @@
             <link>https://www.bbc.co.uk/sport/cycling/57552417</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57552417</guid>
             <pubDate>Fri, 25 Jun 2021 05:29:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former Dortmund boss Favre out of running for Palace job ]]></title>
+            <description><![CDATA[Former Borussia Dortmund boss Lucien Favre tells Crystal Palace he wants a longer break from football, days after positive talks with the club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57607981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57607981</guid>
+            <pubDate>Fri, 25 Jun 2021 06:56:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
@@ -457,11 +457,11 @@
             <pubDate>Thu, 24 Jun 2021 09:34:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: When can we stop wearing face masks or face coverings?]]></title>
+            <title><![CDATA[Coronavirus: When can we stop wearing face masks or coverings?]]></title>
             <description><![CDATA[Wearing a face covering is currently a legal requirement in many places, but could the rules change as lockdown eases further?]]></description>
             <link>https://www.bbc.co.uk/news/health-51205344</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
-            <pubDate>Tue, 15 Jun 2021 13:13:37 GMT</pubDate>
+            <pubDate>Fri, 25 Jun 2021 09:54:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A fake wedding, and a $250,000 scam]]></title>
