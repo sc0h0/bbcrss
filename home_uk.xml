@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Jun 2021 17:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 18:29:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,13 +72,6 @@
             <pubDate>Fri, 25 Jun 2021 14:22:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Britney Spears wants her conservatorship to end: What happens next?]]></title>
-            <description><![CDATA[As lawyers analyse the latest developments, the singer apologises for keeping fans in the dark.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57608147</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57608147</guid>
-            <pubDate>Fri, 25 Jun 2021 07:47:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No major outbreaks found at government mass pilot events]]></title>
             <description><![CDATA[However, virus levels were low at the time and about a third of people returned tests afterwards.]]></description>
             <link>https://www.bbc.co.uk/news/health-57615547</link>
@@ -100,6 +93,13 @@
             <pubDate>Fri, 25 Jun 2021 14:09:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dartmoor: Wistman's Wood visitors asked to stay out to protect woodland]]></title>
+            <description><![CDATA[Natural England says visitors to Wistman's Wood should allow it to "remain a special place".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-57602915</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-57602915</guid>
+            <pubDate>Fri, 25 Jun 2021 17:59:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Miami building collapse: What happened, and how quickly?]]></title>
             <description><![CDATA[Maps, images and graphics of what we know about a 12-storey residential building's collapse north of Miami.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57609620</link>
@@ -114,11 +114,18 @@
             <pubDate>Fri, 25 Jun 2021 13:46:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nine-year-old Flora Rider scoops world marmalade title]]></title>
-            <description><![CDATA[Flora is crowned Best in Show for her preserve, which she describes as a "little pot of sunshine".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-57581729</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-57581729</guid>
-            <pubDate>Fri, 25 Jun 2021 16:05:28 GMT</pubDate>
+            <title><![CDATA[Katty Kay: How 100 days turned into five years of fun]]></title>
+            <description><![CDATA[Katty Kay leaves the BBC after nearly three decades of service, including five years on Beyond 100 Days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57598135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57598135</guid>
+            <pubDate>Fri, 25 Jun 2021 16:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nico Ali Walsh: Muhammad Ali's grandson signs pro deal with Bob Arum]]></title>
+            <description><![CDATA[The grandson of Muhammad Ali will make his professional debut on 14 August after signing with promoter Bob Arum.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/57615386</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57615386</guid>
+            <pubDate>Fri, 25 Jun 2021 17:29:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christmas returns to Penkhull pub after Covid-hit festivities]]></title>
@@ -128,11 +135,11 @@
             <pubDate>Fri, 25 Jun 2021 15:58:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Katty Kay: How 100 days turned into five years of fun]]></title>
-            <description><![CDATA[Katty Kay leaves the BBC after nearly three decades of service, including five years on Beyond 100 Days.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57598135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57598135</guid>
-            <pubDate>Fri, 25 Jun 2021 16:04:30 GMT</pubDate>
+            <title><![CDATA[Nine-year-old Flora Rider scoops world marmalade title]]></title>
+            <description><![CDATA[Flora is crowned Best in Show for her preserve, which she describes as a "little pot of sunshine".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-57581729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-57581729</guid>
+            <pubDate>Fri, 25 Jun 2021 16:05:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is Windows 11 the beginning of the end for Skype?]]></title>
@@ -161,34 +168,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-57601722</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lincolnshire-57601722</guid>
             <pubDate>Fri, 25 Jun 2021 14:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In pictures: Strawberry Moon rises]]></title>
-            <description><![CDATA[The final supermoon of 2021 was captured by photographers around the world.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-57609690</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57609690</guid>
-            <pubDate>Fri, 25 Jun 2021 10:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fast and Furious actor enjoys 'destroying' Edinburgh]]></title>
-            <description><![CDATA[F9 and wrestling star John Cena tells the BBC the "beautiful" city "worked really well" as a location for the franchise.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57609630</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57609630</guid>
-            <pubDate>Fri, 25 Jun 2021 11:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ringo Starr drops trademark fight over Ring O sex toys]]></title>
-            <description><![CDATA[The Beatles drummer had challenged the trademark, saying it's too similar to his name.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57600967</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57600967</guid>
-            <pubDate>Fri, 25 Jun 2021 10:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why New York Pride parade has barred uniformed police officers]]></title>
-            <description><![CDATA[Pride organisers have barred uniformed police officers from participating until 2025.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57601209</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57601209</guid>
-            <pubDate>Thu, 24 Jun 2021 23:09:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Love Island: What I wish I’d known before entering the villa]]></title>
@@ -268,6 +247,13 @@
             <pubDate>Fri, 25 Jun 2021 16:51:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Farah to book Olympic spot on Friday? Muir to double up? Six British Championship events to watch]]></title>
+            <description><![CDATA[Former world champion Steve Cram picks out the events to watch as Britain's best athletes try to tie up Olympic qualification at the British Championships in Manchester.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/57567207</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57567207</guid>
+            <pubDate>Thu, 24 Jun 2021 05:15:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uefa investigating 'potentially discriminatory incidents' in Hungary-Germany game]]></title>
             <description><![CDATA[Uefa is investigating "potentially discriminatory incidents" in Germany's 2-2 draw with Hungary at Euro 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57611395</link>
@@ -280,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/57610746</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57610746</guid>
             <pubDate>Fri, 25 Jun 2021 12:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tour de France stage-by-stage guide - where race will be won and lost]]></title>
-            <description><![CDATA[BBC Sport analyses the 21 stages that make up the Tour de France, with pointers to where the race will be won and lost.]]></description>
-            <link>https://www.bbc.co.uk/sport/cycling/57552417</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57552417</guid>
-            <pubDate>Fri, 25 Jun 2021 05:29:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Travel guide to Spain, Portugal, Malta and other holiday hotspots]]></title>
