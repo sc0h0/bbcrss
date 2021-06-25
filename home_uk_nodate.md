@@ -1,4 +1,4 @@
-1. [Covid: Green list expansion 'not enough', say travel bosses](https://www.bbc.co.uk/news/uk-57606348) - Sixteen places - including Ibiza - have been added to the green list, but industry leaders want more.
+1. [Covid: Green list expansion 'not enough', say travel bosses](https://www.bbc.co.uk/news/uk-57606348) - Sixteen places - including Ibiza - will join the green list from Monday, but industry leaders want more.
 2. [Miami building collapse leaves 99 people unaccounted for](https://www.bbc.co.uk/news/world-us-canada-57592827) - Rescuers search for survivors with 99 unaccounted for after the collapse of the 12-storey complex.
 3. [A&Es 'overwhelmed' by children with mild winter viruses, doctors warn](https://www.bbc.co.uk/news/health-57583733) - Winter viruses are flourishing as more people mix, and a doctor's chief says A&Es are struggling to cope.
 4. [Henriett and Mihrican: The missed chances to identify a killer](https://www.bbc.co.uk/news/uk-57597749) - A BBC investigation reveals police failings before Henriett Szucs and Mihrican Mustafa were killed.
@@ -6,8 +6,8 @@
 6. [Biden backs bumper economic stimulus bill - with big caveat](https://www.bbc.co.uk/news/world-us-canada-57604121) - The president says he will only sign it if Democrats can pass a separate, far bigger budget bill.
 7. [Inaccurate gas and electricity bills criticised](https://www.bbc.co.uk/news/business-57600767) - The problem puts an extra strain on finances already affected by the pandemic, Citizens Advice says.
 8. [Gibraltar votes to ease tough abortion laws](https://www.bbc.co.uk/news/world-europe-57606228) - Referendum results show support for lifting the rules, which are some of the harshest in Europe.
-9. [Brighton Palace Pier: Hundreds overcharged £2,100 for rides](https://www.bbc.co.uk/news/uk-england-sussex-57600702) - A payment error meant the date was entered as the transaction amount, Brighton Palace Pier says.
-10. [Covid-19: NHS Test and Trace weaknesses remain, says watchdog](https://www.bbc.co.uk/news/health-57601097) - National Audit Office says winter test results took too long in England and too many consultants are used.
+9. [Covid-19: NHS Test and Trace weaknesses remain, says watchdog](https://www.bbc.co.uk/news/health-57601097) - National Audit Office says winter test results took too long in England and too many consultants are used.
+10. [Brighton Palace Pier: Hundreds overcharged £2,100 for rides](https://www.bbc.co.uk/news/uk-england-sussex-57600702) - A payment error meant the date was entered as the transaction amount, Brighton Palace Pier says.
 11. [Crackonosh: How hackers are using gamers to become crypto-rich](https://www.bbc.co.uk/news/technology-57601631) - Crackonosh malware, which mines for cryptocurrency, is being hidden in free versions of popular games.
 12. [New type of ancient human discovered in Israel](https://www.bbc.co.uk/news/science-environment-57586315) - Researchers working in Israel have identified a previously unknown type of ancient human.
 13. [BBC appeals to UN over Iran's harassment of Persian service staff](https://www.bbc.co.uk/news/world-middle-east-57599746) - Iran has previously denied intimidating staff at the Persian service, an outlet it has banned.
