@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Jun 2021 20:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jun 2021 20:45:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[George Floyd murder: Derek Chauvin sentenced to over 22 years]]></title>
+            <description><![CDATA[Derek Chauvin was convicted last month of killing Mr Floyd, whose death sparked global protests.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57618356</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57618356</guid>
+            <pubDate>Fri, 25 Jun 2021 20:39:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Matt Hancock affair: Health secretary apologises for breaking social distancing guidelines]]></title>
             <description><![CDATA[Boris Johnson stands by the health secretary after calls for him to be sacked over affair with colleague.]]></description>
@@ -37,13 +44,6 @@
             <pubDate>Fri, 25 Jun 2021 17:31:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Green list change prompts holiday pricing chaos]]></title>
-            <description><![CDATA[Prices for some destinations doubled overnight but others are falling as demand and supply fluctuates.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57610736</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57610736</guid>
-            <pubDate>Fri, 25 Jun 2021 15:14:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scientists hail stunning 'Dragon Man' discovery]]></title>
             <description><![CDATA[Chinese researchers unveil an ancient skull that could belong to a completely new species of human.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57432104</link>
@@ -51,7 +51,14 @@
             <pubDate>Fri, 25 Jun 2021 16:24:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid cases return to early-April levels]]></title>
+            <title><![CDATA[Green list change prompts holiday pricing chaos]]></title>
+            <description><![CDATA[Prices for some destinations doubled overnight but others are falling as demand and supply fluctuates.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57610736</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57610736</guid>
+            <pubDate>Fri, 25 Jun 2021 15:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid cases return to early April levels]]></title>
             <description><![CDATA[The Delta variant has become even more dominant, but vaccines are making a difference.]]></description>
             <link>https://www.bbc.co.uk/news/health-57610999</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57610999</guid>
@@ -63,20 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57609494</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57609494</guid>
             <pubDate>Fri, 25 Jun 2021 19:42:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No major outbreaks found at government mass pilot events]]></title>
-            <description><![CDATA[However, virus levels were low at the time and about a third of people returned tests afterwards.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57615547</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57615547</guid>
-            <pubDate>Fri, 25 Jun 2021 15:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bishop's 'heartfelt' apology over Catholic college abuse]]></title>
-            <description><![CDATA[The Bishop of Leeds apologises to men sexually abused as boys at a Catholic seminary in Yorkshire.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-57583880</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57583880</guid>
-            <pubDate>Fri, 25 Jun 2021 16:29:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Germany passes new citizenship law for descendants of Nazi victims]]></title>
@@ -273,6 +266,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-league/57618524</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/57618524</guid>
             <pubDate>Fri, 25 Jun 2021 18:57:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch: We've always had the same gameplan - Rice]]></title>
+            <description><![CDATA[Declan Rice talks England's gameplan as they prepare to face Germany, missing his 'bestie' Mason Mount and Twitter interactions with Toni Kroos.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57618135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57618135</guid>
+            <pubDate>Fri, 25 Jun 2021 18:05:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Travel guide to Spain, Portugal, Malta and other holiday hotspots]]></title>
