@@ -1,4 +1,4 @@
-1. [Covid: Green list expansion 'not enough', say travel bosses](https://www.bbc.co.uk/news/uk-57606348) - Sixteen places - including Ibiza - will join the green list from Wednesday, but industry leaders want more.
+1. [Covid: Green list expansion not enough, say travel bosses](https://www.bbc.co.uk/news/uk-57606348) - Sixteen places - including Ibiza - will join the green list from Wednesday, but industry leaders want more.
 2. [Miami building collapse: Rescuers listen for signs of life in rubble](https://www.bbc.co.uk/news/world-us-canada-57606232) - Rescuers search for survivors with 99 unaccounted for after the collapse of the 12-storey complex.
 3. [A&Es 'overwhelmed' by children with mild winter viruses, doctors warn](https://www.bbc.co.uk/news/health-57583733) - Winter viruses are flourishing as more people mix, and a doctor's chief says A&Es are struggling to cope.
 4. [Henriett and Mihrican: The missed chances to identify a killer](https://www.bbc.co.uk/news/uk-57597749) - A BBC investigation reveals police failings before Henriett Szucs and Mihrican Mustafa were killed.
