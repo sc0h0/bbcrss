@@ -8,8 +8,8 @@
 8. [Gibraltar votes to ease tough abortion laws](https://www.bbc.co.uk/news/world-europe-57606228) - Referendum results show support for lifting the rules, which are some of the harshest in Europe.
 9. [Covid-19: NHS Test and Trace weaknesses remain, says watchdog](https://www.bbc.co.uk/news/health-57601097) - National Audit Office says winter test results took too long in England and too many consultants are used.
 10. [Brighton Palace Pier: Hundreds overcharged £2,100 for rides](https://www.bbc.co.uk/news/uk-england-sussex-57600702) - A payment error meant the date was entered as the transaction amount, Brighton Palace Pier says.
-11. [Crackonosh: How hackers are using gamers to become crypto-rich](https://www.bbc.co.uk/news/technology-57601631) - Crackonosh malware, which mines for cryptocurrency, is being hidden in free versions of popular games.
-12. [New type of ancient human discovered in Israel](https://www.bbc.co.uk/news/science-environment-57586315) - Researchers working in Israel have identified a previously unknown type of ancient human.
+11. [New type of ancient human discovered in Israel](https://www.bbc.co.uk/news/science-environment-57586315) - Researchers working in Israel have identified a previously unknown type of ancient human.
+12. [Crackonosh: How hackers are using gamers to become crypto-rich](https://www.bbc.co.uk/news/technology-57601631) - Crackonosh malware, which mines for cryptocurrency, is being hidden in free versions of popular games.
 13. [BBC appeals to UN over Iran's harassment of Persian service staff](https://www.bbc.co.uk/news/world-middle-east-57599746) - Iran has previously denied intimidating staff at the Persian service, an outlet it has banned.
 14. [The Papers: Green list holiday 'joy' and 'confusion'](https://www.bbc.co.uk/news/blogs-the-papers-57605601) - Friday's papers react to the news that more countries are being added to the UK's green travel list.
 15. [The police rape interview that shocked 1980s Britain](https://www.bbc.co.uk/news/stories-57485617) - A BBC film showing police aggressively questioning a woman caused uproar in Britain in 1982.
