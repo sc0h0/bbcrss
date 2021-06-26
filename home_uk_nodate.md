@@ -6,10 +6,10 @@
 6. [London protests: Police arrest 12 ahead of weekend demonstrations](https://www.bbc.co.uk/news/uk-england-london-57623110) - Protests are taking place across London including anti-lockdown and climate change demonstrations.
 7. [Glasgow MP moved to safe house after death threat](https://www.bbc.co.uk/news/uk-scotland-57614736) - Carol Monaghan wants better protection for public figures after online abuse became a real threat.
 8. [Covid-19: 'Grab a jab' for all over-18s opens in England](https://www.bbc.co.uk/news/uk-57620771) - Any adult will be able to get a vaccine without an appointment this weekend at hundreds of walk-in sites.
-9. [George Floyd murder: Derek Chauvin sentenced to over 22 years](https://www.bbc.co.uk/news/world-us-canada-57618356) - Derek Chauvin was convicted last month of killing Mr Floyd, whose death sparked global protests.
-10. ['We got justice, but not enough justice'](https://www.bbc.co.uk/news/world-us-canada-57619602) - People in Minneapolis reacted to the sentencing of Derek Chauvin on Friday.
-11. [Covid vaccine: Novavax trial volunteer's holiday in jeopardy](https://www.bbc.co.uk/news/uk-wales-57566837) - Tom Williams says he has been refused an approved jab after taking part in the Novavax vaccine.
-12. [Sydenham stabbing: Murder probe into 19-year-old's death](https://www.bbc.co.uk/news/uk-england-london-57622450) - The victim's mother has visited the scene in south-east London where her son was killed, police say.
+9. [Sydenham stabbing: Murder probe into 19-year-old's death](https://www.bbc.co.uk/news/uk-england-london-57622450) - The victim's mother has visited the scene in south-east London where her son was killed, police say.
+10. [George Floyd murder: Derek Chauvin sentenced to over 22 years](https://www.bbc.co.uk/news/world-us-canada-57618356) - Derek Chauvin was convicted last month of killing Mr Floyd, whose death sparked global protests.
+11. ['We got justice, but not enough justice'](https://www.bbc.co.uk/news/world-us-canada-57619602) - People in Minneapolis reacted to the sentencing of Derek Chauvin on Friday.
+12. [Covid vaccine: Novavax trial volunteer's holiday in jeopardy](https://www.bbc.co.uk/news/uk-wales-57566837) - Tom Williams says he has been refused an approved jab after taking part in the Novavax vaccine.
 13. [Sir Jeffrey Donaldson endorsed as DUP leader](https://www.bbc.co.uk/news/uk-northern-ireland-57609680) - Sir Jeffrey Donaldson is the only candidate to put his name forward for the party leadership.
 14. [How a patient treated 280 miles from home died on the M11 hard shoulder](https://www.bbc.co.uk/news/uk-england-norfolk-57575298) - Peggy Copeman, 81, was neglected by a private ambulance service, a coroner concludes.
 15. [ICYMI: Spider-Man meets the Pope](https://www.bbc.co.uk/news/world-57589858) - A nuisance bear, overheated otters and a special guest for the Pope, some of the stories you may have missed this week.

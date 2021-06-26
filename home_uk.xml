@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Jun 2021 13:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 13:51:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Sat, 26 Jun 2021 05:56:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sydenham stabbing: Murder probe into 19-year-old's death]]></title>
+            <description><![CDATA[The victim's mother has visited the scene in south-east London where her son was killed, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57622450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57622450</guid>
+            <pubDate>Sat, 26 Jun 2021 13:26:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[George Floyd murder: Derek Chauvin sentenced to over 22 years]]></title>
             <description><![CDATA[Derek Chauvin was convicted last month of killing Mr Floyd, whose death sparked global protests.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57618356</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57566837</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57566837</guid>
             <pubDate>Sat, 26 Jun 2021 12:51:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sydenham stabbing: Murder probe into 19-year-old's death]]></title>
-            <description><![CDATA[The victim's mother has visited the scene in south-east London where her son was killed, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57622450</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57622450</guid>
-            <pubDate>Sat, 26 Jun 2021 13:26:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sir Jeffrey Donaldson endorsed as DUP leader]]></title>
