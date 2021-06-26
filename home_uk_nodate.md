@@ -1,4 +1,4 @@
-1. [Hancock quits as health secretary after breaching Covid guidance](https://www.bbc.co.uk/news/uk-57625508) - Matt Hancock resigns as health secretary after breaking social distancing guidance by kissing a colleague.
+1. [Hancock quits as health secretary after breaching Covid guidance](https://www.bbc.co.uk/news/uk-57625508) - He says "those of us who make these rules have got to stick by them and that's why I have got to resign".
 2. [Florida building collapse: Report from 2018 warned of 'major damage'](https://www.bbc.co.uk/news/world-us-canada-57621774) - A survey flagged "major structural damage" at the complex which collapsed on Thursday near Miami.
 3. [Covid: Sydney lockdown extended as Delta outbreak grows](https://www.bbc.co.uk/news/world-australia-57621552) - Australia's biggest city and surrounding areas enter a two-week lockdown following a jump in cases.
 4. [Covid-19: Crowds flee Dhaka ahead of strict Bangladesh lockdown](https://www.bbc.co.uk/news/world-asia-57624557) - Cases of Covid-19 in Bangladesh have surged since May, largely because of the Delta variant.
