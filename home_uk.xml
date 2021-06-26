@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Jun 2021 05:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 06:19:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,10 +24,17 @@
         </item>
         <item>
             <title><![CDATA[Matt Hancock kiss: Covid families warn it could undermine efforts against virus]]></title>
-            <description><![CDATA[People may ignore Covid guidelines as they have seen the health secretary doing so, campaigners warn.]]></description>
+            <description><![CDATA[The health secretary's actions may lead to people breaking Covid rules, campaigners warn.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57619721</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57619721</guid>
             <pubDate>Sat, 26 Jun 2021 04:30:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: 'Grab a jab' for all over-18s opens in England]]></title>
+            <description><![CDATA[Any adult will be able to get a vaccine without an appointment this weekend at hundreds of walk-in sites.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57620771</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57620771</guid>
+            <pubDate>Sat, 26 Jun 2021 05:56:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Floyd murder: Derek Chauvin sentenced to over 22 years]]></title>
@@ -83,7 +90,7 @@
             <description><![CDATA[Tom Williams says he has been refused an approved jab after taking part in the Novavax vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57566837</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57566837</guid>
-            <pubDate>Fri, 25 Jun 2021 21:49:41 GMT</pubDate>
+            <pubDate>Sat, 26 Jun 2021 06:04:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Armed Forces Day: Coin honouring Prince Philip unveiled]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57619755</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57619755</guid>
             <pubDate>Fri, 25 Jun 2021 21:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Muhammad Ali's grandson signs deal to make pro boxing debut]]></title>
-            <description><![CDATA[The grandson of Muhammad Ali will make his professional debut on 14 August after signing with promoter Bob Arum.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/57615386</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57615386</guid>
-            <pubDate>Fri, 25 Jun 2021 17:29:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Hancock hangs on - but will it be 'Barnard Castle moment?']]></title>
@@ -268,11 +268,11 @@
             <pubDate>Fri, 25 Jun 2021 18:20:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Women's international: England 60-0 Wales - 10 different try-scorers for hosts]]></title>
-            <description><![CDATA[England's women's side warm up for this year's World Cup with a 60-0 thrashing of Wales, who were competing in their first international Test.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/57618524</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/57618524</guid>
-            <pubDate>Fri, 25 Jun 2021 18:57:24 GMT</pubDate>
+            <title><![CDATA[Ali's grandson to make pro boxing debut]]></title>
+            <description><![CDATA[The grandson of Muhammad Ali will make his professional debut on 14 August after signing with promoter Bob Arum.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/57615386</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57615386</guid>
+            <pubDate>Fri, 25 Jun 2021 17:29:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wimbledon 2021: Great Britain's Katie Swan beats Australia's Arina Rodionova in qualifier]]></title>
@@ -287,13 +287,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/53173398</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/53173398</guid>
             <pubDate>Fri, 26 Jun 2020 06:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Danish commentators go wild for Andreas Christensen rocket]]></title>
-            <description><![CDATA[The Danish commentary team go wild for Andreas Christensen's incredible strike during Denmark's 4-1 win over Russia which sent them through to the last 16 of the Euros.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57603246</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57603246</guid>
-            <pubDate>Sat, 26 Jun 2021 05:48:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Wales to be ruthless against neutrals' favourites Denmark]]></title>
