@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Jun 2021 09:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 09:26:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,11 +65,18 @@
             <pubDate>Fri, 25 Jun 2021 20:57:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['We got justice, but not enough justice']]></title>
+            <description><![CDATA[People in Minneapolis reacted to the sentencing of Derek Chauvin on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57619602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57619602</guid>
+            <pubDate>Sat, 26 Jun 2021 01:01:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid vaccine: Novavax trial volunteer's holiday in jeopardy]]></title>
             <description><![CDATA[Tom Williams says he has been refused an approved jab after taking part in the Novavax vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57566837</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57566837</guid>
-            <pubDate>Sat, 26 Jun 2021 08:14:15 GMT</pubDate>
+            <pubDate>Sat, 26 Jun 2021 09:22:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mo Farah falls short in Tokyo Olympics qualification bid at British Championships]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/sport/athletics/57610421</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57610421</guid>
             <pubDate>Fri, 25 Jun 2021 22:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Czech Republic: 'Apocalyptic' scenes after tornado]]></title>
-            <description><![CDATA[Footage shows the tornado tearing through part of the Czech Republic and the devastation left behind.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57619807</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57619807</guid>
-            <pubDate>Fri, 25 Jun 2021 21:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Armed Forces Day: Coin honouring Prince Philip unveiled]]></title>
@@ -168,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-57598135</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57598135</guid>
             <pubDate>Fri, 25 Jun 2021 16:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scientists hail stunning 'Dragon Man' discovery]]></title>
-            <description><![CDATA[Chinese researchers unveil an ancient skull that could belong to a completely new species of human.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57432104</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57432104</guid>
-            <pubDate>Fri, 25 Jun 2021 16:24:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Infected blood: Parents and pupils reveal they were kept in dark at stricken school]]></title>
