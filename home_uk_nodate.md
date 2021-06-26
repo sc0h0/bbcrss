@@ -1,5 +1,5 @@
-1. [Covid quarantine hotels: Women say they were sexually harassed by guards](https://www.bbc.co.uk/news/stories-57609164) - One woman tells the BBC a security guard employed by G4S mimed sex while they were alone in a lift.
-2. [Matt Hancock kiss: Covid families warn it could undermine efforts against virus](https://www.bbc.co.uk/news/uk-57619721) - The health secretary's actions may lead to people breaking Covid rules, campaigners say.
+1. [Matt Hancock kiss: Covid families warn it could undermine efforts against virus](https://www.bbc.co.uk/news/uk-57619721) - The health secretary's actions may lead to people breaking Covid rules, campaigners say.
+2. [Covid quarantine hotels: Women say they were sexually harassed by guards](https://www.bbc.co.uk/news/stories-57609164) - One woman tells the BBC a security guard employed by G4S mimed sex while they were alone in a lift.
 3. [Covid-19: 'Grab a jab' for all over-18s opens in England](https://www.bbc.co.uk/news/uk-57620771) - Any adult will be able to get a vaccine without an appointment this weekend at hundreds of walk-in sites.
 4. [Covid-19: 'Grab a jab' under way and Covid families' anger at Hancock](https://www.bbc.co.uk/news/uk-57621002) - Five things you need to know about the coronavirus pandemic this Saturday morning.
 5. [Glasgow MP moved to police safe house after death threat](https://www.bbc.co.uk/news/uk-scotland-57614736) - Carol Monaghan wants better protection for public figures after online abuse turned into a "credible" death threat.
