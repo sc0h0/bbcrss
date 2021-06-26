@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Jun 2021 20:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 20:54:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Sat, 26 Jun 2021 19:00:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hot air balloon crash kills four in Albuquerque, New Mexico]]></title>
+            <description><![CDATA[The balloon is reported to have hit a power line, before the basket detached and fell to the ground.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57624698</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57624698</guid>
+            <pubDate>Sat, 26 Jun 2021 17:52:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Sydney lockdown extended as Delta outbreak grows]]></title>
             <description><![CDATA[Australia's biggest city and surrounding areas enter a two-week lockdown following a jump in cases.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-57621552</link>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-57621856</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57621856</guid>
             <pubDate>Sat, 26 Jun 2021 11:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London protests: Thousands march through capital in day of protest]]></title>
-            <description><![CDATA[Protests take place across London, including anti-lockdown and climate change demonstrations.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57623110</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57623110</guid>
-            <pubDate>Sat, 26 Jun 2021 16:15:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LAX: Man jumps from plane after trying to access cockpit]]></title>
