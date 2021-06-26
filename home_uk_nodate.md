@@ -23,7 +23,7 @@
 23. [Infected blood: Parents and pupils reveal they were kept in dark at stricken school](https://www.bbc.co.uk/news/uk-57600229) - In a week of harrowing testimony, ex-pupils described how 72 friends died of Aids and hepatitis.
 24. [E10 petrol: What is it and can my car run it?](https://www.bbc.co.uk/news/business-57585105) - A more eco-friendly petrol is coming to filling stations in the UK - but it's not suitable for all cars.
 25. ['Working from home has helped me keep a full-time job'](https://www.bbc.co.uk/news/disability-57578287) - People reveal how technology has helped or hindered them during the pandemic, using #MyAccessiblePandemic.
-26. [Matt Hancock: How did ex-health secretary break Covid restrictions?](https://www.bbc.co.uk/news/57611369) - Matt Hancock resigns for breaching social distancing guidelines after photos emerged of him and a colleague embracing.
+26. [Matt Hancock: Did ex-health secretary break the law?](https://www.bbc.co.uk/news/57611369) - Matt Hancock resigns for breaching social distancing guidelines after photos emerged of him and a colleague embracing.
 27. [William Blake: Biography offers glimpse into artist and poet's visionary mind](https://www.bbc.co.uk/news/entertainment-arts-57419544) - A new book, and fresh medical studies, seem to re-frame the artist and poet's famous visions.
 28. [The students calling out China on Australia's campuses](https://www.bbc.co.uk/news/world-australia-56478621) - Students in Australia speaking out against the Chinese state are facing threats and intimidation.
 29. [The builders with the secret to work-life balance](https://www.bbc.co.uk/news/business-57486111) - A forklift driver can't work from home, but there are other ways the industry can offer more flexibility.
