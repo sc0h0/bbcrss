@@ -1,7 +1,7 @@
 1. [Matt Hancock: Calls for health secretary to quit after kissing colleague](https://www.bbc.co.uk/news/uk-57622868) - The first fellow Tory MP says he should go after being pictured in a clinch with Gina Coladangelo.
 2. [Covid quarantine hotels: Women say they were sexually harassed by guards](https://www.bbc.co.uk/news/stories-57609164) - One woman tells the BBC a security guard employed by G4S mimed sex while they were alone in a lift.
 3. [Miami building collapse: Demands for answers grow](https://www.bbc.co.uk/news/world-us-canada-57619934) - Governor Ron DeSantis says families "have a right to know" how a 12-storey building collapsed.
-4. [Covid: Australia extends Sydney lockdown as Delta outbreak grows](https://www.bbc.co.uk/news/world-australia-57621552) - Australia's biggest city and surrounding areas enter a two-week lockdown following a jump in cases.
+4. [Covid: Sydney lockdown extended as Delta outbreak grows](https://www.bbc.co.uk/news/world-australia-57621552) - Australia's biggest city and surrounding areas enter a two-week lockdown following a jump in cases.
 5. [Hairdressers fear staff crisis after apprentice shortage](https://www.bbc.co.uk/news/uk-57621856) - The pandemic caused the already decreasing number of apprentices to fall further, hairdressers say.
 6. [London protests: Police arrest 12 as weekend demonstrations begin](https://www.bbc.co.uk/news/uk-england-london-57623110) - Protests are taking place across London including anti-lockdown and climate change demonstrations.
 7. [Glasgow MP moved to safe house after death threat](https://www.bbc.co.uk/news/uk-scotland-57614736) - Carol Monaghan wants better protection for public figures after online abuse became a real threat.
