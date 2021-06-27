@@ -6,9 +6,9 @@
 6. [More churches burn down on Canada indigenous land](https://www.bbc.co.uk/news/world-us-canada-57626410) - In total four Catholic churches have burned down in western Canada over the past week.
 7. [Bermondsey stabbing: Man killed at illegal rave](https://www.bbc.co.uk/news/uk-england-london-57628294) - A 16-year-old boy found at the scene with head injuries is arrested in connection with the rave.
 8. [Ready to party? Ibiza's dance experiment](https://www.bbc.co.uk/news/world-europe-57614377) - Key workers were able to dance in Ibiza's nightclubs this weekend, to test if they can reopen safely.
-9. [The Dig: Netflix film helps boost Sutton Hoo visitor numbers](https://www.bbc.co.uk/news/uk-england-suffolk-57439371) - The movie about ancient treasures found at Sutton Hoo features Carey Mulligan and Ralph Fiennes.
-10. [BT and OneWeb sign rural broadband deal](https://www.bbc.co.uk/news/business-57629016) - The telecoms firm and satellite company explore ways of providing rural broadband in remote areas.
-11. [Wales defender calls Euro 2020 format 'a joke'](https://www.bbc.co.uk/sport/football/57629385) - Defender Chris Gunter criticises the "joke set-up" of Euro 2020 after Wales' last-16 exit against Denmark.
+9. [Wales defender calls Euro 2020 format 'a joke'](https://www.bbc.co.uk/sport/football/57629385) - Defender Chris Gunter criticises the "joke set-up" of Euro 2020 after Wales' last-16 exit against Denmark.
+10. [The Dig: Netflix film helps boost Sutton Hoo visitor numbers](https://www.bbc.co.uk/news/uk-england-suffolk-57439371) - The movie about ancient treasures found at Sutton Hoo features Carey Mulligan and Ralph Fiennes.
+11. [BT and OneWeb sign rural broadband deal](https://www.bbc.co.uk/news/business-57629016) - The telecoms firm and satellite company explore ways of providing rural broadband in remote areas.
 12. [Aimee Fuller: Olympian tests 'flying surfboard' on Thames](https://www.bbc.co.uk/news/uk-england-london-57610362) - Olympic snowboarder Aimee Fuller takes an electric surfboard for a spin on the River Thames.
 13. [Appeal to identify 'La Botaniste' who slipped from history](https://www.bbc.co.uk/news/science-environment-57601841) - Who was the mysterious Isabella Allen and what was her contribution to 19th Century botanical science?
 14. ['Was I just unlucky to get Covid after double vaccine?' asks Marr](https://www.bbc.co.uk/news/uk-57628287) - The BBC's Andrew Marr fell ill with coronavirus, despite being vaccinated twice.
