@@ -8,9 +8,9 @@
 8. [Bermondsey stabbing: Man killed at illegal rave](https://www.bbc.co.uk/news/uk-england-london-57628294) - A 16-year-old boy found at the scene with head injuries is arrested in connection with the rave.
 9. [Ready to party? Ibiza's dance experiment](https://www.bbc.co.uk/news/world-europe-57614377) - Key workers were able to dance in Ibiza's nightclubs this weekend, to test if they can reopen safely.
 10. [Wales defender calls Euro 2020 format 'a joke'](https://www.bbc.co.uk/sport/football/57629385) - Defender Chris Gunter criticises the "joke set-up" of Euro 2020 after Wales' last-16 exit against Denmark.
-11. [Somerset Glastonbury Festival fans recreate site at home](https://www.bbc.co.uk/news/uk-england-somerset-57628893) - The Facebook event Glasthomebury was organised by festival fans to raise money for charity.
+11. [Father and son clean Spanish Civil War memorial graffiti](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57631372) - Police are hunting vandals who targeted the commemorative stone in Motherwell, Lanarkshire.
 12. [Worcestershire twins celebrate delayed 100th birthdays](https://www.bbc.co.uk/news/uk-england-hereford-worcester-57631022) - Edith Dumbleton and Dorcas Tobin were unable to celebrate with family in 2020 because of Covid-19.
-13. [Appeal to identify 'La Botaniste' who slipped from history](https://www.bbc.co.uk/news/science-environment-57601841) - Who was the mysterious Isabella Allen and what was her contribution to 19th Century botanical science?
+13. [Somerset Glastonbury Festival fans recreate site at home](https://www.bbc.co.uk/news/uk-england-somerset-57628893) - The Facebook event Glasthomebury was organised by festival fans to raise money for charity.
 14. ['Was I just unlucky to get Covid after double vaccine?' asks Marr](https://www.bbc.co.uk/news/uk-57628287) - The BBC's Andrew Marr fell ill with coronavirus, despite being vaccinated twice.
 15. [The Mudlarking couple who search for hidden treasures](https://www.bbc.co.uk/news/uk-scotland-57583068) - Craig and Nicole Lind took their first date beach memento and turned it into a full-time business.
 16. [China's changes through one man's lens](https://www.bbc.co.uk/news/world-asia-china-57603023) - Yan Zhigang has spent four decades photographing the streets, and the people, of China.
