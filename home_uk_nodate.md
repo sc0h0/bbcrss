@@ -1,4 +1,4 @@
-1. [Matt Hancock quits as health secretary after breaking social distance guidance](https://www.bbc.co.uk/news/uk-57625508) - He says "those of us who make these rules have got to stick by them and that's why I have got to resign".
+1. [Matt Hancock quits as health secretary after breaking social distance guidance](https://www.bbc.co.uk/news/uk-57625508) - His successor Sajid Javid says he is "honoured" to take on the role at a critical time in the pandemic.
 2. [Sajid Javid: Who is the new health secretary?](https://www.bbc.co.uk/news/uk-politics-43947008) - The second-generation immigrant son of a bus driver previously served Boris Johnson as chancellor.
 3. [Florida building collapse: Fifth body found in survivor hunt](https://www.bbc.co.uk/news/world-us-canada-57626978) - It comes after a 2018 report highlighting a "major error" in the building's design was made public.
 4. [Milton Keynes: Police find seriously injured child and dead man](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57627055) - The shooting incident in Milton Keynes has prompted a mandatory referral to the policing watchdog.
