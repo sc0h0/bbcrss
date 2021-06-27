@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Jun 2021 20:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 21:15:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -198,6 +198,13 @@
             <pubDate>Sun, 27 Jun 2021 11:57:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Appeal to identify 'La Botaniste' who slipped from history]]></title>
+            <description><![CDATA[Who was the mysterious Isabella Allen and what was her contribution to 19th Century botanical science?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57601841</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57601841</guid>
+            <pubDate>Sun, 27 Jun 2021 06:48:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['I spent £70,000 on pilot training but can't get a job']]></title>
             <description><![CDATA[Newly qualified pilots are indebted and jobless as airlines reel from the pandemic, says the industry.]]></description>
             <link>https://www.bbc.co.uk/news/business-57449833</link>
@@ -247,6 +254,13 @@
             <pubDate>Sun, 27 Jun 2021 15:54:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Belgium set up Italy quarter-final after edging past Portugal]]></title>
+            <description><![CDATA[Belgium edge out Portugal in Seville as Thorgan Hazard's smart strike proves enough to reach the quarter-finals of Euro 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51198525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198525</guid>
+            <pubDate>Sun, 27 Jun 2021 20:55:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Beaumont & Sciver star as England cruise to win over India - highlights & report]]></title>
             <description><![CDATA[Tammy Beaumont and Nat Sciver help England cruise to an eight-wicket win over India in the first one-day international in Bristol.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57629552</link>
@@ -268,18 +282,11 @@
             <pubDate>Sun, 27 Jun 2021 15:34:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Teenager Hodgkinson beats Muir & Reekie to claim Olympic spot]]></title>
-            <description><![CDATA[Teenage sensation Keely Hodgkinson will compete at the Olympics after upsetting Jemma Reekie and Laura Muir in the 800m at the British trials.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/57630226</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57630226</guid>
-            <pubDate>Sun, 27 Jun 2021 16:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Czech Republic beat Netherlands to reach quarter-finals]]></title>
-            <description><![CDATA[Watch the Czech Republic reach the Euro 2020 quarter-finals as Tomáš Holeš and Patrik Schick score in a 2-0 win over the Netherlands, who had Matthijs de Ligt sent off.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57632085</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57632085</guid>
-            <pubDate>Sun, 27 Jun 2021 18:10:04 GMT</pubDate>
+            <title><![CDATA[Euro 2020: Superb Thorgan Hazard strike breaks deadlock for Belgium against Portugal]]></title>
+            <description><![CDATA[Thorgan Hazard breaks the deadlock in the first-half with a swerving long-range shot to give Belgium a 1-0 win over Portugal in their last-16 Euro 2020 tie.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57632531</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57632531</guid>
+            <pubDate>Sun, 27 Jun 2021 20:54:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine passports: How can I prove I've had both my Covid jabs?]]></title>
