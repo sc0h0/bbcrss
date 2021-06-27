@@ -4,7 +4,7 @@
 4. [Covid-19: Crowds flee Dhaka ahead of strict Bangladesh lockdown](https://www.bbc.co.uk/news/world-asia-57624557) - Cases of Covid-19 in Bangladesh have surged since May, largely because of the Delta variant.
 5. [Wales out of Euro 2020 after 4-0 thrashing](https://www.bbc.co.uk/sport/football/51197369) - Wales are knocked out of Euro 2020 in the second round by Denmark, whose inspiring journey at the tournament continues to the quarter-finals.
 6. [Hot air balloon crash kills four in Albuquerque, New Mexico](https://www.bbc.co.uk/news/world-us-canada-57624698) - The balloon is reported to have hit a power line, before the basket detached and fell to the ground.
-7. [Covid: Sydney lockdown extended as Delta outbreak grows](https://www.bbc.co.uk/news/world-australia-57621552) - Australia's biggest city and surrounding areas enter a two-week lockdown following a jump in cases.
+7. [Covid: NSW sees 30 new Covid cases as Sydney locks down](https://www.bbc.co.uk/news/world-australia-57621552) - New South Wales reports 30 new cases on the second day of Greater Sydney's two-week lockdown.
 8. [LAX: Man jumps from plane after trying to access cockpit](https://www.bbc.co.uk/news/world-us-canada-57623741) - The man, who fled via the emergency slide, was detained on the taxiway at Los Angeles Airport.
 9. [Hairdressers fear staff crisis after apprentice shortage](https://www.bbc.co.uk/news/uk-57621856) - The pandemic caused the already decreasing number of apprentices to fall further, hairdressers say.
 10. [Colombia offers reward after presidential helicopter shooting](https://www.bbc.co.uk/news/world-latin-america-57626402) - President Iván Duque's helicopter was shot at as he flew near the Venezuelan border on Friday.
