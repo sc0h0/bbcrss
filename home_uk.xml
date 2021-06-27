@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Jun 2021 03:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 03:46:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-43947008</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-43947008</guid>
             <pubDate>Sat, 26 Jun 2021 19:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milton Keynes: Police find seriously injured child and dead man]]></title>
+            <description><![CDATA[The shooting incident in Milton Keynes has prompted a mandatory referral to the policing watchdog.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57627055</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57627055</guid>
+            <pubDate>Sun, 27 Jun 2021 03:30:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: NSW sees 30 new Covid cases as Sydney locks down]]></title>
@@ -65,25 +72,18 @@
             <pubDate>Sat, 26 Jun 2021 17:52:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LAX: Man jumps from plane after trying to access cockpit]]></title>
-            <description><![CDATA[The man, who fled via the emergency slide, was detained on the taxiway at Los Angeles Airport.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57623741</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57623741</guid>
-            <pubDate>Sat, 26 Jun 2021 14:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hairdressers fear staff crisis after apprentice shortage]]></title>
-            <description><![CDATA[The pandemic caused the already decreasing number of apprentices to fall further, hairdressers say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57621856</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57621856</guid>
-            <pubDate>Sat, 26 Jun 2021 11:40:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Colombia offers reward after presidential helicopter shooting]]></title>
             <description><![CDATA[President Iván Duque's helicopter was shot at as he flew near the Venezuelan border on Friday.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57626402</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57626402</guid>
             <pubDate>Sat, 26 Jun 2021 21:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LAX: Man jumps from plane after trying to access cockpit]]></title>
+            <description><![CDATA[The man, who fled via the emergency slide, was detained on the taxiway at Los Angeles Airport.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57623741</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57623741</guid>
+            <pubDate>Sat, 26 Jun 2021 14:35:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Germany knife attack: Three killed were all women]]></title>
