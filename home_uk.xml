@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Jun 2021 02:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 03:09:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-43947008</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-43947008</guid>
             <pubDate>Sat, 26 Jun 2021 19:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: NSW sees 30 new Covid cases as Sydney locks down]]></title>
+            <description><![CDATA[New South Wales reports 30 new cases on the second day of Greater Sydney's two-week lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57621552</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57621552</guid>
+            <pubDate>Sun, 27 Jun 2021 02:22:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Florida building collapse: Report from 2018 warned of 'major damage']]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57624698</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57624698</guid>
             <pubDate>Sat, 26 Jun 2021 17:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: NSW sees 30 new Covid cases as Sydney locks down]]></title>
-            <description><![CDATA[New South Wales reports 30 new cases on the second day of Greater Sydney's two-week lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57621552</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57621552</guid>
-            <pubDate>Sun, 27 Jun 2021 02:22:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LAX: Man jumps from plane after trying to access cockpit]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Sat, 26 Jun 2021 23:01:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pride month: Five stories from around the world]]></title>
+            <description><![CDATA[From Canada to Uganda, people are celebrating Pride, both as a protest for LGBT rights and as a party.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57604310</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57604310</guid>
+            <pubDate>Sun, 27 Jun 2021 00:01:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘It all could have all ended for me that day']]></title>
             <description><![CDATA[Sean O'Hare suffered a double stroke, but 10 months on he regularly hikes in the Mourne Mountains.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57586924</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/world-57589858</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57589858</guid>
             <pubDate>Sat, 26 Jun 2021 13:24:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia's Euro 2020 Covid dilemma]]></title>
-            <description><![CDATA[Russia is hosting Euro 2020 matches but the alarm is being sounded about a new wave of coronavirus.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57614376</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57614376</guid>
-            <pubDate>Fri, 25 Jun 2021 23:01:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long Covid: 'I've blood clots, a braced leg and damaged heart... but I'm home']]></title>
@@ -205,18 +205,18 @@
             <pubDate>Sat, 26 Jun 2021 23:17:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pride month: Five stories from around the world]]></title>
-            <description><![CDATA[From Canada to Uganda, people are celebrating Pride, both as a protest for LGBT rights and as a party.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57604310</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57604310</guid>
-            <pubDate>Sun, 27 Jun 2021 00:01:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Matt Hancock: Did ex-health secretary break the law?]]></title>
             <description><![CDATA[Matt Hancock resigns for breaching social distancing guidelines after photos emerged of him and a colleague embracing.]]></description>
             <link>https://www.bbc.co.uk/news/57611369</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/57611369</guid>
             <pubDate>Sat, 26 Jun 2021 18:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miami building collapse: Fearful relatives hunt news of missing]]></title>
+            <description><![CDATA[Details emerge of the scores unaccounted for in the Florida building collapse.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57609104</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57609104</guid>
+            <pubDate>Sat, 26 Jun 2021 14:42:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Khurshedben Naoroji: The singer who preached nonviolence to bandits]]></title>
