@@ -5,8 +5,8 @@
 5. [Florida building collapse: Fifth body found in survivor hunt](https://www.bbc.co.uk/news/world-us-canada-57626978) - It comes after a 2018 report highlighting a "major error" in the building's design was made public.
 6. [Covid: NSW sees 30 new Covid cases as Sydney locks down](https://www.bbc.co.uk/news/world-australia-57621552) - New South Wales reports 30 new cases on the second day of Greater Sydney's two-week lockdown.
 7. [Covid-19: Crowds flee Dhaka ahead of strict Bangladesh lockdown](https://www.bbc.co.uk/news/world-asia-57624557) - Cases of Covid-19 in Bangladesh have surged since May, largely because of the Delta variant.
-8. [Wales out of Euro 2020 after 4-0 thrashing](https://www.bbc.co.uk/sport/football/51197369) - Wales are knocked out of Euro 2020 in the second round by Denmark, whose inspiring journey at the tournament continues to the quarter-finals.
-9. [Hot air balloon crash kills five in Albuquerque, New Mexico](https://www.bbc.co.uk/news/world-us-canada-57624698) - The balloon is reported to have hit a power line, before the basket detached and fell to the ground.
+8. [Hot air balloon crash kills five in Albuquerque, New Mexico](https://www.bbc.co.uk/news/world-us-canada-57624698) - The balloon is reported to have hit a power line, before the basket detached and fell to the ground.
+9. [The Dig: Netflix film helps boost Sutton Hoo visitor numbers](https://www.bbc.co.uk/news/uk-england-suffolk-57439371) - The movie about ancient treasures found at Sutton Hoo features Carey Mulligan and Ralph Fiennes.
 10. [Colombia offers reward after presidential helicopter shooting](https://www.bbc.co.uk/news/world-latin-america-57626402) - President Iván Duque's helicopter was shot at as he flew near the Venezuelan border on Friday.
 11. [LAX: Man jumps from plane after trying to access cockpit](https://www.bbc.co.uk/news/world-us-canada-57623741) - The man, who fled via the emergency slide, was detained on the taxiway at Los Angeles Airport.
 12. [The Papers: 'Matt finished' as 'humiliated' Hancock quits](https://www.bbc.co.uk/news/blogs-the-papers-57626422) - The former health secretary's departure after kissing senior aide dominates Sunday's papers.
@@ -15,7 +15,7 @@
 15. [Henry VIII: Uncovering the Mary Rose's ethnically diverse crew](https://www.bbc.co.uk/news/uk-wales-57601942) - Archaeologists believe bone samples offer the first evidence a black sailor was among the crew.
 16. [Aimee Fuller: Olympian tests 'flying surfboard' on Thames](https://www.bbc.co.uk/news/uk-england-london-57610362) - Olympic snowboarder Aimee Fuller takes an electric surfboard for a spin on the River Thames.
 17. [Pride month: Five stories from around the world](https://www.bbc.co.uk/news/world-57604310) - From Canada to Uganda, people are celebrating Pride, both as a protest for LGBT rights and as a party.
-18. [‘It all could have all ended for me that day'](https://www.bbc.co.uk/news/uk-northern-ireland-57586924) - Sean O'Hare suffered a double stroke, but 10 months on he regularly hikes in the Mournes.
+18. [‘It all could have ended for me that day'](https://www.bbc.co.uk/news/uk-northern-ireland-57586924) - Sean O'Hare suffered a double stroke, but 10 months on he regularly hikes in the Mournes.
 19. [How a patient treated 280 miles from home died on the M11 hard shoulder](https://www.bbc.co.uk/news/uk-england-norfolk-57575298) - Peggy Copeman, 81, was neglected by a private ambulance service, a coroner concludes.
 20. [ICYMI: Spider-Man meets the Pope](https://www.bbc.co.uk/news/world-57589858) - A nuisance bear, overheated otters and a special guest for the Pope, some of the stories you may have missed this week.
 21. [Long Covid: 'I've blood clots, a braced leg and damaged heart... but I'm home'](https://www.bbc.co.uk/news/uk-57569540) - For three months, Bill Wilson lived a nightmare, trapped behind a plastic facemask fighting Covid.
