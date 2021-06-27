@@ -1,5 +1,5 @@
 1. [Classified Ministry of Defence documents found at bus stop](https://www.bbc.co.uk/news/uk-57624942) - The papers contain details about UK warship HMS Defender and the British military.
-2. [Sajid Javid replaces Hancock as health secretary](https://www.bbc.co.uk/news/uk-57627708) - The former chancellor replaces Matt Hancock, who quit after breaching Covid rules by kissing a colleague.
+2. [Sajid Javid replaces Matt Hancock as health secretary](https://www.bbc.co.uk/news/uk-57627708) - The former chancellor replaces Matt Hancock, who quit after breaching Covid rules by kissing a colleague.
 3. [Milton Keynes: Police shoot man dead after finding injured child](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57627055) - Another man was also found dead in the property in Milton Keynes on Saturday morning.
 4. [Covid-19: Matt Hancock resigns, and homeless eviction ban](https://www.bbc.co.uk/news/uk-57626904) - Five things you need to know about the coronavirus pandemic this Sunday morning.
 5. [More churches burn down on Canada indigenous land](https://www.bbc.co.uk/news/world-us-canada-57626410) - In total four Catholic churches have burned down in western Canada over the past week.
