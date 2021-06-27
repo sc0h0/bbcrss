@@ -2,7 +2,7 @@
 2. [Matt Hancock video leak will be investigated - Brandon Lewis](https://www.bbc.co.uk/news/uk-politics-57628523) - How images of the former health secretary in his private office emerged has sparked security concerns.
 3. [Classified Ministry of Defence documents found at bus stop](https://www.bbc.co.uk/news/uk-57624942) - The papers contain details about UK warship HMS Defender and the British military.
 4. [Florida building collapse: More than 150 missing, nine dead](https://www.bbc.co.uk/news/world-us-canada-57631698) - Days into the search for survivors in Florida, 150 people remain missing, with nine confirmed dead.
-5. [France elections: Far-right National Rally loses key battleground states - poll](https://www.bbc.co.uk/news/world-europe-57631418) - Marine Le Pen's National Rally had hoped to win a regional powerbase ahead of next year's election.
+5. [France elections: Far-right National Rally loses key battleground states](https://www.bbc.co.uk/news/world-europe-57631418) - Marine Le Pen's National Rally had hoped to win a regional powerbase ahead of next year's election.
 6. [Johanna Konta out of Wimbledon](https://www.bbc.co.uk/sport/tennis/57632878) - British number one Johanna Konta is out of Wimbledon because one of her team has tested positive for Covid.
 7. [Milton Keynes: Police shoot man dead after finding injured child](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57627055) - Another man was also found dead at the block of flats in Milton Keynes on Saturday morning.
 8. [US and Canada heatwave: Pacific Northwest sees record temperatures](https://www.bbc.co.uk/news/world-us-canada-57626173) - The National Weather Service has issued heat warnings for Washington, Oregon, California and Idaho.
