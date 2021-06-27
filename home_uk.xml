@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Jun 2021 06:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 07:17:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Classified Ministry of Defence documents found at bus stop]]></title>
+            <description><![CDATA[The papers contain details about UK warship HMS Defender and the British military.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57624942</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57624942</guid>
+            <pubDate>Sun, 27 Jun 2021 07:00:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Matt Hancock quits as health secretary after breaking social distance guidance]]></title>
             <description><![CDATA[His successor Sajid Javid says he is "honoured" to take on the role at a critical time in the pandemic.]]></description>
@@ -30,18 +37,18 @@
             <pubDate>Sun, 27 Jun 2021 05:58:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Florida building collapse: Fifth body found in survivor hunt]]></title>
-            <description><![CDATA[It comes after a 2018 report highlighting a "major error" in the building's design was made public.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57626978</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57626978</guid>
-            <pubDate>Sun, 27 Jun 2021 04:13:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Milton Keynes: Police shoot man dead after finding injured child]]></title>
             <description><![CDATA[Another man was also found dead in the property in Milton Keynes on Saturday morning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57627055</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57627055</guid>
             <pubDate>Sun, 27 Jun 2021 06:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Florida building collapse: Fifth body found in survivor hunt]]></title>
+            <description><![CDATA[It comes after a 2018 report highlighting a "major error" in the building's design was made public.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57626978</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57626978</guid>
+            <pubDate>Sun, 27 Jun 2021 04:13:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: NSW sees 30 new Covid cases as Sydney locks down]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57623741</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57623741</guid>
             <pubDate>Sat, 26 Jun 2021 14:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany knife attack: Three killed were all women]]></title>
-            <description><![CDATA[The suspect has been charged with three counts of murder and five counts of grievous bodily harm.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57624115</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57624115</guid>
-            <pubDate>Sat, 26 Jun 2021 19:32:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Matt finished' as 'humiliated' Hancock quits]]></title>
