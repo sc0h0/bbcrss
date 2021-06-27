@@ -6,8 +6,8 @@
 6. [More churches burn down on Canada indigenous land](https://www.bbc.co.uk/news/world-us-canada-57626410) - In total four Catholic churches have burned down in western Canada over the past week.
 7. [Bermondsey stabbing: Man killed at illegal rave](https://www.bbc.co.uk/news/uk-england-london-57628294) - A 16-year-old boy found at the scene with head injuries is arrested in connection with the rave.
 8. [Ready to party? Ibiza's dance experiment](https://www.bbc.co.uk/news/world-europe-57614377) - Key workers were able to dance in Ibiza's nightclubs this weekend, to test if they can reopen safely.
-9. [Florida building collapse: Fifth body found in survivor hunt](https://www.bbc.co.uk/news/world-us-canada-57626978) - It comes after a 2018 report highlighting a "major error" in the building's design was made public.
-10. [The Dig: Netflix film helps boost Sutton Hoo visitor numbers](https://www.bbc.co.uk/news/uk-england-suffolk-57439371) - The movie about ancient treasures found at Sutton Hoo features Carey Mulligan and Ralph Fiennes.
+9. [The Dig: Netflix film helps boost Sutton Hoo visitor numbers](https://www.bbc.co.uk/news/uk-england-suffolk-57439371) - The movie about ancient treasures found at Sutton Hoo features Carey Mulligan and Ralph Fiennes.
+10. [BT and OneWeb sign rural broadband deal](https://www.bbc.co.uk/news/business-57629016) - The telecoms firm and satellite company explore ways of providing rural broadband in remote areas.
 11. [Aimee Fuller: Olympian tests 'flying surfboard' on Thames](https://www.bbc.co.uk/news/uk-england-london-57610362) - Olympic snowboarder Aimee Fuller takes an electric surfboard for a spin on the River Thames.
 12. ['Was I just unlucky to get Covid after double vaccine?' asks Marr](https://www.bbc.co.uk/news/uk-57628287) - The BBC's Andrew Marr fell ill with coronavirus, despite being vaccinated twice.
 13. [The Papers: 'Matt finished' as 'humiliated' Hancock quits](https://www.bbc.co.uk/news/blogs-the-papers-57626422) - The former health secretary's departure after kissing senior aide dominates Sunday's papers.
@@ -27,7 +27,7 @@
 27. [A billion new trees might not turn Ukraine green](https://www.bbc.co.uk/news/world-europe-57566701) - The country's ambitious target to improve the environment could actually harm biodiversity.
 28. [Matt Hancock: Did ex-health secretary break the law?](https://www.bbc.co.uk/news/57611369) - Matt Hancock resigns for breaching social distancing guidelines after photos emerged of him and a colleague embracing.
 29. [Miami building collapse: Fearful relatives hunt news of missing](https://www.bbc.co.uk/news/world-us-canada-57609104) - Details emerge of the scores unaccounted for in the Florida building collapse.
-30. [Williams confirms she will not be at Tokyo Olympics ](https://www.bbc.co.uk/sport/tennis/57629964) - Four-time gold medallist Serena Williams confirms she will not be playing in this summer's delayed Tokyo Olympics Games.
+30. [Williams confirms she will not be at Tokyo Olympics ](https://www.bbc.co.uk/sport/tennis/57629964) - Four-time gold medallist Serena Williams confirms she will not be playing in this summer's delayed Tokyo Olympics.
 31. [Euro 2020 format a 'joke', says Wales defender Gunter](https://www.bbc.co.uk/sport/football/57629385) - Defender Chris Gunter criticises the "joke set-up" of Euro 2020 after Wales' last-16 exit against Denmark.
 32. [Tour de France 2021: 'Sore' Chris Froome hopes to 'get through' second stage after crash](https://www.bbc.co.uk/sport/cycling/57628441) - Chris Froome says he will "try to get through" the second stage of the Tour de France on Sunday after being injured in a major crash on the opening day.
 33. [Vaccine passports: How can I prove I've had both my Covid jabs?](https://www.bbc.co.uk/news/explainers-55718553) - People who've had both Covid jabs may soon be able to avoid quarantine after travel.
