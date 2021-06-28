@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Jun 2021 13:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jun 2021 13:38:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,10 +24,10 @@
         </item>
         <item>
             <title><![CDATA[Matt Hancock resignation: Boris Johnson defends his actions]]></title>
-            <description><![CDATA[The PM says Hancock stepped down at "the right pace" but on Friday No 10 said he considered the matter closed.]]></description>
+            <description><![CDATA[The PM says Hancock stepped down at "the right pace" but Labour says he is "trying to rewrite history".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57641097</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57641097</guid>
-            <pubDate>Mon, 28 Jun 2021 13:04:32 GMT</pubDate>
+            <pubDate>Mon, 28 Jun 2021 13:34:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canada weather: Heatwave hits record 46.6C as US north-west also frazzles]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/business-57634932</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57634932</guid>
             <pubDate>Mon, 28 Jun 2021 12:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: New cases pass 3,000 to reach new record high]]></title>
+            <description><![CDATA[A further 3,285 cases of the virus have been recorded in Scotland, with 12.6% of tests positive.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57638936</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57638936</guid>
+            <pubDate>Mon, 28 Jun 2021 13:29:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Birmingham stabbings: Man admits Jacob Billington killing]]></title>
@@ -65,18 +72,11 @@
             <pubDate>Mon, 28 Jun 2021 10:48:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cardi B reveals pregnancy at BET Awards]]></title>
-            <description><![CDATA[The star announced she was expecting her second child as she picked up two awards for rap anthem WAP.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57635316</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57635316</guid>
-            <pubDate>Mon, 28 Jun 2021 08:22:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nissan to create thousands of UK jobs in battery investment]]></title>
             <description><![CDATA[The carmaker is set to announce a major expansion of battery production in Sunderland.]]></description>
             <link>https://www.bbc.co.uk/news/business-57640001</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57640001</guid>
-            <pubDate>Mon, 28 Jun 2021 12:14:14 GMT</pubDate>
+            <pubDate>Mon, 28 Jun 2021 13:26:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Louis Thorold: Mum adored 'perfect' baby killed when van hit pram]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-57614838</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57614838</guid>
             <pubDate>Sun, 27 Jun 2021 23:03:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cardi B reveals pregnancy at BET Awards]]></title>
+            <description><![CDATA[The star announced she was expecting her second child as she picked up two awards for rap anthem WAP.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57635316</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57635316</guid>
+            <pubDate>Mon, 28 Jun 2021 08:22:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The cat cafe helping homeless felines]]></title>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57579114</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57579114</guid>
             <pubDate>Mon, 28 Jun 2021 01:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: PM faces Hancock questions and Javid starts new job]]></title>
-            <description><![CDATA[Events surrounding Matt Hancock's departure as health secretary still feature prominently in the papers.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57633366</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57633366</guid>
-            <pubDate>Mon, 28 Jun 2021 05:17:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Your questions about vaccines and periods answered]]></title>
@@ -219,11 +219,11 @@
             <pubDate>Sat, 26 Jun 2021 23:08:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sri Lanka trio sent home from England tour after Covid breach]]></title>
-            <description><![CDATA[Three Sri Lanka players are sent home from their tour of England for breaching bio-secure protocols.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57637591</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57637591</guid>
-            <pubDate>Mon, 28 Jun 2021 11:12:23 GMT</pubDate>
+            <title><![CDATA[Sabalenka eases into round two at Wimbledon]]></title>
+            <description><![CDATA[World-number four Aryna Sabalenka eases past Monica Niculescu and into round two of the women's singles draw at Wimbledon.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57641557</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57641557</guid>
+            <pubDate>Mon, 28 Jun 2021 13:30:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On this day: When Balotelli knocked out Germany]]></title>
