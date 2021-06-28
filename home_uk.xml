@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Jun 2021 04:57:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jun 2021 05:15:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -80,7 +80,7 @@
         </item>
         <item>
             <title><![CDATA['Black rainstorm' warning delays Hong Kong trading]]></title>
-            <description><![CDATA[It was the city's first 'black rainstorm' warning of 2021 with at least 70mm of rain forecast.]]></description>
+            <description><![CDATA[It was the city's first "black rainstorm" warning of 2021 with at least 70mm of rain forecast.]]></description>
             <link>https://www.bbc.co.uk/news/business-57633696</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57633696</guid>
             <pubDate>Mon, 28 Jun 2021 04:15:02 GMT</pubDate>

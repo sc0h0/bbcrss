@@ -7,7 +7,7 @@
 7. [Outbreaks emerge across Australia in 'new phase' of pandemic](https://www.bbc.co.uk/news/world-australia-57633457) - For the first time in a year, Australia is battling outbreaks in different parts of the country.
 8. [Heads of the Valleys: 50mph limit plan causes 'frustration'](https://www.bbc.co.uk/news/uk-wales-57615167) - After seven years changing a busy five-mile stretch into a dual carriageway, its speed limit could stay
 9. [FCA bans world's largest crypto-currency exchange Binance](https://www.bbc.co.uk/news/business-57632831) - The financial watchdog has ruled that Binance cannot conduct any regulated activity in the UK.
-10. ['Black rainstorm' warning delays Hong Kong trading](https://www.bbc.co.uk/news/business-57633696) - It was the city's first 'black rainstorm' warning of 2021 with at least 70mm of rain forecast.
+10. ['Black rainstorm' warning delays Hong Kong trading](https://www.bbc.co.uk/news/business-57633696) - It was the city's first "black rainstorm" warning of 2021 with at least 70mm of rain forecast.
 11. [US and Canada heatwave: Pacific Northwest sees record temperatures](https://www.bbc.co.uk/news/world-us-canada-57626173) - The National Weather Service has issued heat warnings for Washington, Oregon, California and Idaho.
 12. [Covid: Loneliness a 'bigger health risk than smoking or obesity'](https://www.bbc.co.uk/news/uk-wales-57622710) - Activities such as dance classes being prescribed by the NHS are vital, isolation sufferers say.
 13. [Love Island: ITV2 dating show returns after 18-month break](https://www.bbc.co.uk/news/entertainment-arts-57579114) - After a pandemic-enforced gap, the ITV2 dating show returns on Monday with 11 new islanders.
