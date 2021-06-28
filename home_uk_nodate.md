@@ -5,7 +5,7 @@
 5. [Murray back as Wimbledon returns, but Konta misses out](https://www.bbc.co.uk/sport/tennis/57518478) - Two-time champion Andy Murray makes a welcome comeback in the Wimbledon singles as one of the sporting highlights of the British summer returns.
 6. [Mother's plea after daughter dies swallowing battery](https://www.bbc.co.uk/news/uk-57614838) - Harper-Lee Fanthorpe died in hospital in Stoke-on-Trent in May after swallowing a battery from a remote control.
 7. [Outbreaks emerge across Australia in 'new phase' of pandemic](https://www.bbc.co.uk/news/world-australia-57633457) - For the first time in a year, Australia is battling outbreaks in different parts of the country.
-8. [Heads of the Valleys: 50mph limit plan causes 'frustration'](https://www.bbc.co.uk/news/uk-wales-57615167) - After seven years changing a busy five-mile stretch to a dual carriageway, its speed limit could stay
+8. [Heads of the Valleys: 50mph limit plan causes 'frustration'](https://www.bbc.co.uk/news/uk-wales-57615167) - After seven years changing a busy five-mile stretch into a dual carriageway, its speed limit could stay
 9. [FCA bans world's largest crypto-currency exchange Binance](https://www.bbc.co.uk/news/business-57632831) - The financial watchdog has ruled that Binance cannot conduct any regulated activity in the UK.
 10. ['Black rainstorm' warning delays Hong Kong trading](https://www.bbc.co.uk/news/business-57633696) - It was the city's first 'black rainstorm' warning of 2021 with at least 70mm of rain forecast.
 11. [US and Canada heatwave: Pacific Northwest sees record temperatures](https://www.bbc.co.uk/news/world-us-canada-57626173) - The National Weather Service has issued heat warnings for Washington, Oregon, California and Idaho.
