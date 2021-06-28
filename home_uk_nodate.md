@@ -1,6 +1,6 @@
 1. [Covid: Sajid Javid to give update on lifting measures in England](https://www.bbc.co.uk/news/uk-57630553) - Sajid Javid, who replaced Matt Hancock, will address MPs on when restrictions will be lifted in England.
 2. [Small businesses urgently call for more Covid support](https://www.bbc.co.uk/news/business-57630349) - Payments on VAT and loans kick in from next week but many companies cannot operate until 19 July.
-3. [Matt Hancock: Labour calls for investigation into private emails](https://www.bbc.co.uk/news/uk-57631547) - It follows a newspaper report that Matt Hancock used his personal email account for government business.
+3. [Matt Hancock still facing questions after resignation](https://www.bbc.co.uk/news/uk-57631547) - The ex-health secretary's use of private email and potential severance pay are coming under scrutiny.
 4. [Covid-19: Defence secretary and military heads self-isolate](https://www.bbc.co.uk/news/uk-57633381) - Ben Wallace and senior commanders quarantine after armed forces boss tests positive for coronavirus.
 5. [Murray back as Wimbledon returns, but Konta misses out](https://www.bbc.co.uk/sport/tennis/57518478) - Two-time champion Andy Murray makes a welcome comeback in the Wimbledon singles as one of the sporting highlights of the British summer returns.
 6. [Covid-19: Javid's lockdown update and small firms' support gap warning](https://www.bbc.co.uk/news/uk-57631979) - Five things you need to know about the coronavirus pandemic this Monday morning.
