@@ -1,4 +1,4 @@
-1. [Sajid Javid wants return to normal 'as soon as possible'](https://www.bbc.co.uk/news/uk-57627708) - The new health secretary returns to the cabinet 16 months after his shock resignation as chancellor.
+1. [Small businesses urgently call for more Covid support](https://www.bbc.co.uk/news/business-57630349) - Payments on VAT and loans kick in from next week but many companies cannot operate until 19 July.
 2. [Matt Hancock video leak will be investigated - Brandon Lewis](https://www.bbc.co.uk/news/uk-politics-57628523) - How images of the former health secretary in his private office emerged has sparked security concerns.
 3. [Outbreaks emerge across Australia in 'new phase' of pandemic](https://www.bbc.co.uk/news/world-australia-57633457) - For the first time in a year, Australia is battling outbreaks in different parts of the country.
 4. [France elections: Far-right National Rally loses key battleground states](https://www.bbc.co.uk/news/world-europe-57631418) - Marine Le Pen's National Rally had hoped to win a regional powerbase ahead of next year's election.
