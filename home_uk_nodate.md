@@ -1,5 +1,5 @@
 1. [Covid: Easing measures on 19 July very likely, says Boris Johnson](https://www.bbc.co.uk/news/uk-57630553) - New Health Secretary Sajid Javid will update MPs later on when restrictions in England will be eased.
-2. [Matt Hancock resignation: Questions remain for PM](https://www.bbc.co.uk/news/uk-57631547) - The government is coming under scrutiny over the ex-health secretary's relationship with his aide.
+2. [Matt Hancock resignation: Boris Johnson defends his actions](https://www.bbc.co.uk/news/uk-politics-57641097) - The PM says Hancock stepped down at "the right pace" but on Friday No 10 said he considered the matter closed.
 3. [Canada weather: Heatwave hits record 46.6C as US north-west also frazzles](https://www.bbc.co.uk/news/world-us-canada-57634700) - Lytton in British Columbia breaks an 84-year-old record, as the US Pacific north-west also sizzles.
 4. [Portugal makes unvaccinated UK people quarantine](https://www.bbc.co.uk/news/business-57634932) - UK travellers will have to quarantine for 14 days while Germany wants EU to step up restrictions.
 5. [Birmingham stabbings: Man admits Jacob Billington killing](https://www.bbc.co.uk/news/uk-england-birmingham-57635636) - Intern Jacob Billington, 23, died and seven others were hurt during a stab spree in Birmingham.
