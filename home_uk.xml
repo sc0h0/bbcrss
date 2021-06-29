@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Jun 2021 09:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 09:52:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Tue, 29 Jun 2021 00:16:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: School isolation reviewed and 40,000 fans at England match]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57608272</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57608272</guid>
-            <pubDate>Tue, 29 Jun 2021 06:31:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Parents 'were treated like criminals' as their son lay dying]]></title>
             <description><![CDATA[Ollie Bibby's parents are "livid" that Matt Hancock broke rules that they were forced to observe.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-essex-57503382</link>
@@ -58,6 +51,13 @@
             <pubDate>Tue, 29 Jun 2021 08:30:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[South Africa's top court sentences ex-President Jacob Zuma]]></title>
+            <description><![CDATA[Jacob Zuma had defied a court order to appear at an inquiry into corruption while he was president.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57650517</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57650517</guid>
+            <pubDate>Tue, 29 Jun 2021 08:59:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mobile phone ban plan to improve school behaviour]]></title>
             <description><![CDATA[Phone bans and other ways to create "calm classrooms" are considered in a consultation on discipline.]]></description>
             <link>https://www.bbc.co.uk/news/education-57643697</link>
@@ -65,7 +65,7 @@
             <pubDate>Tue, 29 Jun 2021 00:20:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Teach pelvic floor exercises in school, says health watchdog]]></title>
+            <title><![CDATA[Teach pelvic floor exercises in school, say draft guidelines]]></title>
             <description><![CDATA[They should form part of the curriculum for girls aged 12 to 17, suggests health watchdog.]]></description>
             <link>https://www.bbc.co.uk/news/health-57640558</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57640558</guid>
@@ -233,18 +233,11 @@
             <pubDate>Mon, 28 Jun 2021 22:19:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Murray survives wobble on Wimbledon return - highlights & report]]></title>
-            <description><![CDATA[Andy Murray holds his nerve to ensure his Wimbledon singles return ends with a dramatic four-set victory over 24th seed Nikoloz Basilashvili.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57646303</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57646303</guid>
-            <pubDate>Mon, 28 Jun 2021 21:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mbappe & France's fall from top of world after losing to Switzerland on penalties]]></title>
-            <description><![CDATA['Fallen from so high' - why Kylian Mbappe and France are heading home early from the European Championship?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57647313</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57647313</guid>
-            <pubDate>Mon, 28 Jun 2021 23:20:55 GMT</pubDate>
+            <title><![CDATA[Mercedes will 'make our car faster' this year]]></title>
+            <description><![CDATA[Mercedes say they do have performance upgrades for their car as they seek to keep up with Red Bull in the world championship fight.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57651115</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57651115</guid>
+            <pubDate>Tue, 29 Jun 2021 09:33:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: England - a look back through major tournament highs and lows]]></title>
@@ -266,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/57646514</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57646514</guid>
             <pubDate>Mon, 28 Jun 2021 19:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Big shocks, problem drinks & a strong suit - best moments as Wimbledon returns]]></title>
+            <description><![CDATA[Watch some of the best moments from day one at Wimbledon, including big shocks in the men's and women's tournaments and the return of Andy Murray.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/57642765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57642765</guid>
+            <pubDate>Mon, 28 Jun 2021 19:13:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two games, 14 goals, one giant-killing: The best day in Euros history?]]></title>
