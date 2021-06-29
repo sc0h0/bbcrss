@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Jun 2021 21:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 21:38:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Tue, 29 Jun 2021 12:30:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Record numbers missing school, and amber list quarantine exemptions]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57653721</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57653721</guid>
-            <pubDate>Tue, 29 Jun 2021 16:05:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wimbledon 2021: Serena Williams retires injured against Aliaksandra Sasnovich]]></title>
             <description><![CDATA[American great Serena Williams breaks down in tears as her latest attempt for an elusive record-equalling 24th Grand Slam title is cruelly ended by injury.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57656647</link>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/business-57644437</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57644437</guid>
             <pubDate>Tue, 29 Jun 2021 15:44:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portugal's top art collector Joe Berardo arrested over fraud allegations]]></title>
+            <description><![CDATA[Millionaire Joe Berardo is accused of accumulating nearly €1bn in debts to three banks.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57659923</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57659923</guid>
+            <pubDate>Tue, 29 Jun 2021 21:28:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5,000-year-old man was 'oldest plague victim']]></title>
@@ -247,13 +247,6 @@
             <pubDate>Tue, 29 Jun 2021 18:10:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Teams know we are dangerous but we can't stop here' - Kane upbeat after Germany win]]></title>
-            <description><![CDATA[Harry Kane says England's players have a vision of where they want to go after reaching the Euro 2020 quarter-finals by beating Germany 2-0.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57658629</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57658629</guid>
-            <pubDate>Tue, 29 Jun 2021 21:00:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Euro 2020: 'The stuff of dreams' - BBC pundits celebrate wildly as England score against Germany]]></title>
             <description><![CDATA[The pundits launch into a frenzy after England score against Germany, with Rio Ferdinand claiming that the 2-0 England victory is "the stuff of dreams".]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57659702</link>
@@ -268,11 +261,25 @@
             <pubDate>Tue, 29 Jun 2021 19:19:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Euro 2020 Sweden v Ukraine: Oleksandr Zinchenko's super strike gives Ukraine the lead]]></title>
+            <description><![CDATA[Oleksandr Zinchenko converts a low drive after an incredible pass by Andriy Yarmolenko to give Ukraine a 1-0 lead against Sweden.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57660120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57660120</guid>
+            <pubDate>Tue, 29 Jun 2021 19:55:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England 2-0 Germany: Who stands between Three Lions and Euro 2020 final?]]></title>
             <description><![CDATA[England are now favourites to reach the final of the Euros. Here's who they could face along the way.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57638163</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57638163</guid>
             <pubDate>Tue, 29 Jun 2021 18:39:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: England beat Germany - Harry Kane targets return to Wembley final]]></title>
+            <description><![CDATA[Harry Kane says England's players have a vision of where they want to go after reaching the Euro 2020 quarter-finals by beating Germany 2-0.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57658629</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57658629</guid>
+            <pubDate>Tue, 29 Jun 2021 21:00:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How you rated England's players in win over Germany]]></title>
@@ -287,13 +294,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/57659206</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57659206</guid>
             <pubDate>Tue, 29 Jun 2021 17:57:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: 'Make this your ringtone, England 2-0 Germany!' - Scenes & reaction after famous win]]></title>
-            <description><![CDATA[Pundits Rio Ferdinand, Gary Lineker, Alan Shearer & Jurgen Klinsmann say 'This is England's moment' whilst praising performances from the squad and manager Gareth Southgate.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57659697</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57659697</guid>
-            <pubDate>Tue, 29 Jun 2021 19:32:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 England v Germany: How Three Lions became the definitive England song]]></title>
