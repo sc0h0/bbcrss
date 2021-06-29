@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Jun 2021 22:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 23:21:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Tue, 29 Jun 2021 17:42:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PC who killed ex-footballer jailed for eight years]]></title>
-            <description><![CDATA[He is the first to be convicted of manslaughter as a result of police contact in more than 30 years.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-shropshire-57603091</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-57603091</guid>
-            <pubDate>Tue, 29 Jun 2021 16:13:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brewdog: Watchdog urged to probe solid gold can prize claim]]></title>
             <description><![CDATA[The brewery company could be in hot water as winners dispute the value of the "solid gold" beer cans.]]></description>
             <link>https://www.bbc.co.uk/news/business-57650685</link>
@@ -66,10 +59,17 @@
         </item>
         <item>
             <title><![CDATA[Canada weather: Dozens dead as heatwave shatters records]]></title>
-            <description><![CDATA[The temperature in Lytton, British Columbia, soared to 47.9C on Monday.]]></description>
+            <description><![CDATA[The temperature in Lytton, British Columbia, has soared to 47.9C (118.2F).]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57654133</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57654133</guid>
             <pubDate>Tue, 29 Jun 2021 21:59:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid death rate 25% higher in Greater Manchester - report]]></title>
+            <description><![CDATA[Life expectancy declined more in the North West in 2020 than in England overall, a report finds.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57658479</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57658479</guid>
+            <pubDate>Tue, 29 Jun 2021 23:10:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Portugal exempts under-18s from quarantine]]></title>
@@ -77,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/business-57656808</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57656808</guid>
             <pubDate>Tue, 29 Jun 2021 19:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portugal's top art collector Joe Berardo arrested over fraud allegations]]></title>
-            <description><![CDATA[Millionaire Joe Berardo is accused of accumulating nearly €1bn in debts to three banks.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57659923</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57659923</guid>
-            <pubDate>Tue, 29 Jun 2021 21:28:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trials of Army's new armoured vehicles halted again]]></title>
@@ -100,11 +93,25 @@
             <pubDate>Tue, 29 Jun 2021 21:19:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5,000-year-old man was 'oldest plague victim']]></title>
-            <description><![CDATA[Scientists piece together clues from "patient zero", who likely caught the plague from a rodent.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57658859</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57658859</guid>
-            <pubDate>Tue, 29 Jun 2021 18:51:01 GMT</pubDate>
+            <title><![CDATA[Miami building collapse: Letter in April warned of worsening damage]]></title>
+            <description><![CDATA[Residents of an apartment block that collapsed last week were warned of worsening structural damage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57659311</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57659311</guid>
+            <pubDate>Tue, 29 Jun 2021 22:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: EU to postpone ban on British meat sales in NI]]></title>
+            <description><![CDATA[It comes as a judgement is due in a court challenge to the lawfulness of the NI Protocol.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57644497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57644497</guid>
+            <pubDate>Tue, 29 Jun 2021 23:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Three Lions Thump Old Enemy' and 'Time to Dream']]></title>
+            <description><![CDATA[Wednesday's papers mark England reaching the Euro 2020 quarter-finals after a knockout win over Germany.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57660473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57660473</guid>
+            <pubDate>Tue, 29 Jun 2021 23:00:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish teen hero on holiday rescues sinking dog]]></title>
@@ -268,18 +275,18 @@
             <pubDate>Tue, 29 Jun 2021 22:08:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Federer avoids Wimbledon upset as Mannarino retires injured]]></title>
+            <description><![CDATA[Eight-time champion Roger Federer avoids a huge Wimbledon upset as injury robs France's Adrian Mannarino of the chance to earn a memorable win.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57647106</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57647106</guid>
+            <pubDate>Tue, 29 Jun 2021 20:45:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Root guides England to win in first ODI against Sri Lanka]]></title>
             <description><![CDATA[Joe Root's 79 not out guides England to a five-wicket win over Sri Lanka in the first one-day international at Emirates Riverside.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57651883</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57651883</guid>
             <pubDate>Tue, 29 Jun 2021 16:53:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everton set to appoint Rafael Benitez as manager after he agrees three-year deal]]></title>
-            <description><![CDATA[Everton are set to appoint former Liverpool manager Rafael Benitez as Carlo Ancelotti's successor after he agrees a three-year deal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57658102</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57658102</guid>
-            <pubDate>Tue, 29 Jun 2021 20:06:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England 2-0 Germany: Who stands between Three Lions and Euro 2020 final?]]></title>
