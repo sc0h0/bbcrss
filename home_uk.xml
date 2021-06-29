@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Jun 2021 21:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 21:53:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,20 +65,6 @@
             <pubDate>Tue, 29 Jun 2021 19:34:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rare black hole and neutron star collisions sighted twice in 10 days]]></title>
-            <description><![CDATA[Separate collisions of a neutron star and a black hole are detected in a short space of time.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57639520</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57639520</guid>
-            <pubDate>Tue, 29 Jun 2021 13:30:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More pupils sent home as Covid disruption soars]]></title>
-            <description><![CDATA[Rapid increase in pupils out of school in England as changes expected for self-isolation rules.]]></description>
-            <link>https://www.bbc.co.uk/news/education-57640397</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57640397</guid>
-            <pubDate>Tue, 29 Jun 2021 15:43:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Smaller firms express anger at quarantine exemption plans for big business]]></title>
             <description><![CDATA[Executives visiting England from amber-list countries will not need to isolate if trip is a big economic benefit.]]></description>
             <link>https://www.bbc.co.uk/news/business-57644437</link>
@@ -91,6 +77,20 @@
             <link>https://www.bbc.co.uk/news/world-europe-57659923</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57659923</guid>
             <pubDate>Tue, 29 Jun 2021 21:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trials of Army's new armoured vehicles halted again]]></title>
+            <description><![CDATA[Testing was previously halted after complaints crews had temporary hearing loss and aching joints.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57659847</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57659847</guid>
+            <pubDate>Tue, 29 Jun 2021 21:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's public health minister tests positive for Covid]]></title>
+            <description><![CDATA[SNP MSP Maree Todd is self-isolating after a positive test but says she has no symptoms.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57660054</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57660054</guid>
+            <pubDate>Tue, 29 Jun 2021 21:19:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5,000-year-old man was 'oldest plague victim']]></title>
@@ -262,17 +262,24 @@
         </item>
         <item>
             <title><![CDATA[Euro 2020 Sweden v Ukraine: Oleksandr Zinchenko's super strike gives Ukraine the lead]]></title>
-            <description><![CDATA[Oleksandr Zinchenko converts a low drive after an incredible pass by Andriy Yarmolenko to give Ukraine a 1-0 lead against Sweden.]]></description>
+            <description><![CDATA[Oleksandr Zinchenko converts a low drive after an incredible pass by Andriy Yarmolenko to give Ukraine a 1-0 lead against Sweden in their last-16 Euro 2020 fixture in Glasgow.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57660120</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57660120</guid>
             <pubDate>Tue, 29 Jun 2021 19:55:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Root guides England to win in first ODI against Sri Lanka]]></title>
+            <description><![CDATA[Joe Root's 79 not out guides England to a five-wicket win over Sri Lanka in the first one-day international at Emirates Riverside.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57651883</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57651883</guid>
+            <pubDate>Tue, 29 Jun 2021 16:53:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England 2-0 Germany: Who stands between Three Lions and Euro 2020 final?]]></title>
             <description><![CDATA[England are now favourites to reach the final of the Euros. Here's who they could face along the way.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57638163</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57638163</guid>
-            <pubDate>Tue, 29 Jun 2021 18:39:56 GMT</pubDate>
+            <pubDate>Tue, 29 Jun 2021 21:50:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: England beat Germany - Harry Kane targets return to Wembley final]]></title>
