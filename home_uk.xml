@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Jun 2021 22:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 22:32:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Tue, 29 Jun 2021 17:42:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canada weather: Dozens dead as heatwave shatters records]]></title>
-            <description><![CDATA[The temperature in Lytton, British Columbia, soared to 47.9C on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57654133</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57654133</guid>
-            <pubDate>Tue, 29 Jun 2021 21:59:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PC who killed ex-footballer jailed for eight years]]></title>
             <description><![CDATA[He is the first to be convicted of manslaughter as a result of police contact in more than 30 years.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-57603091</link>
@@ -69,7 +62,14 @@
             <description><![CDATA[American great Serena Williams breaks down in tears as her latest attempt for an elusive record-equalling 24th Grand Slam title is cruelly ended by injury.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57656647</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57656647</guid>
-            <pubDate>Tue, 29 Jun 2021 19:43:53 GMT</pubDate>
+            <pubDate>Tue, 29 Jun 2021 22:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada weather: Dozens dead as heatwave shatters records]]></title>
+            <description><![CDATA[The temperature in Lytton, British Columbia, soared to 47.9C on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57654133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57654133</guid>
+            <pubDate>Tue, 29 Jun 2021 21:59:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Portugal exempts under-18s from quarantine]]></title>
@@ -240,13 +240,6 @@
             <pubDate>Tue, 29 Jun 2021 05:37:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Everton set to appoint Rafael Benitez as manager after he agrees three-year deal]]></title>
-            <description><![CDATA[Everton are set to appoint former Liverpool manager Rafael Benitez as Carlo Ancelotti's successor after he agrees a three-year deal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57658102</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57658102</guid>
-            <pubDate>Tue, 29 Jun 2021 20:06:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Euro 2020 England v Germany: Harry Kane & Raheem Sterling goals see England through to quarter-finals]]></title>
             <description><![CDATA[Watch highlights from Wembley as goals from Raheem Sterling and Harry Kane see England beat Germany 2-0.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57659210</link>
@@ -280,6 +273,13 @@
             <link>https://www.bbc.co.uk/sport/cricket/57651883</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57651883</guid>
             <pubDate>Tue, 29 Jun 2021 16:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everton set to appoint Rafael Benitez as manager after he agrees three-year deal]]></title>
+            <description><![CDATA[Everton are set to appoint former Liverpool manager Rafael Benitez as Carlo Ancelotti's successor after he agrees a three-year deal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57658102</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57658102</guid>
+            <pubDate>Tue, 29 Jun 2021 20:06:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England 2-0 Germany: Who stands between Three Lions and Euro 2020 final?]]></title>
