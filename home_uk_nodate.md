@@ -5,8 +5,8 @@
 5. [Foreign business leaders may get quarantine exemption](https://www.bbc.co.uk/news/business-57644437) - Executives visiting England from amber-list countries will not need to isolate if trip is a big economic benefit.
 6. [Scottish government lifts Manchester travel ban](https://www.bbc.co.uk/news/uk-scotland-57652436) - The ban had sparked a row between First Minister Nicola Sturgeon and Greater Manchester Mayor Andy Burnham.
 7. [Elvis Costello defends Olivia Rodrigo over Brutal plagiarism claim](https://www.bbc.co.uk/news/entertainment-arts-57650176) - Elvis Costello gives a relaxed response after pop star Olivia Rodrigo is accused of copying his music.
-8. [Covid-19: Republic of Ireland to use indoor hospitality vaccine pass](https://www.bbc.co.uk/news/world-europe-57649546) - The Irish government is to delay the return of some indoor activities scheduled for 5 July.
-9. [Queen's Platinum Jubilee: Reign to be marked at street pageant](https://www.bbc.co.uk/news/uk-57653812) - Marching bands, troops and street theatre will feature in a spectacular parade in central London.
+8. [Queen's Platinum Jubilee: Reign to be marked at street pageant](https://www.bbc.co.uk/news/uk-57653812) - Marching bands, troops and street theatre will feature in a spectacular parade in central London.
+9. [BBC over-75s free TV licence transition period to end in July](https://www.bbc.co.uk/news/entertainment-arts-57649657) - The "transition period" for older people who now need a TV licence will finish on 31 July.
 10. [Jamie Lynn Spears: I'm so proud of Britney for using her voice](https://www.bbc.co.uk/news/entertainment-arts-57649648) - Britney Spears' younger sister backs the singer after her powerful appearance in court last week.
 11. [Brewdog: Watchdog urged to probe solid gold can prize claim](https://www.bbc.co.uk/news/business-57650685) - The brewery company could be in hot water as winners dispute the value of the "solid gold" beer cans.
 12. [Self-isolating students in end-of-tenancy 'nightmare'](https://www.bbc.co.uk/news/newsbeat-57644652) - What happens if a housemate tests positive for Covid just as you were about to move out?
