@@ -10,7 +10,7 @@
 10. [More pupils sent home as Covid disruption soars](https://www.bbc.co.uk/news/education-57640397) - Rapid increase in pupils out of school in England as changes expected for self-isolation rules.
 11. [Smaller firms express anger at quarantine exemption plans for big business](https://www.bbc.co.uk/news/business-57644437) - Executives visiting England from amber-list countries will not need to isolate if trip is a big economic benefit.
 12. [5,000-year-old man was 'oldest plague victim'](https://www.bbc.co.uk/news/science-environment-57658859) - Scientists piece together clues from "patient zero", who likely caught the plague from a rodent.
-13. [Scottish teen hero on holiday rescues sinking dog](https://www.bbc.co.uk/news/uk-wales-57653931) - Charlie the shih tzu was sinking in a lake when rescuer Connor Telford jumped in to save him.
+13. [Scottish teen hero on holiday rescues sinking dog](https://www.bbc.co.uk/news/uk-wales-57653931) - Charlie the shih tzu was sinking in a lake when rescuer Connor Telfer jumped in to save him.
 14. [Self-isolating students in end-of-tenancy 'nightmare'](https://www.bbc.co.uk/news/newsbeat-57644652) - What happens if a housemate tests positive for Covid just as you were about to move out?
 15. [Love Island: Megan Barton-Hanson wants a more diverse cast](https://www.bbc.co.uk/news/entertainment-arts-57649495) - Former Love Island contestant Megan Barton-Hanson says she wants to see more diversity in this year's show.
 16. [Canada heatwave: Bears take a dip in record breaking temperatures](https://www.bbc.co.uk/news/world-us-canada-57651894) - Three mischievous bears have a pool day as Canada reaches record breaking temperatures in British Columbia.
