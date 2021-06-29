@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Jun 2021 17:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jun 2021 18:01:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Sgt Matt Ratana shooting: Man charged with murdering police officer]]></title>
+            <description><![CDATA[The man accused of murdering Sgt Matt Ratana can now be charged after spending months in hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57655083</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57655083</guid>
+            <pubDate>Tue, 29 Jun 2021 17:42:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[More pupils sent home as Covid disruption soars]]></title>
             <description><![CDATA[Rapid increase in pupils out of school in England as changes expected for self-isolation rules.]]></description>
@@ -23,18 +30,11 @@
             <pubDate>Tue, 29 Jun 2021 15:43:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dalian Atkinson: PC Benjamin Monk jailed for ex-footballer's death]]></title>
+            <title><![CDATA[PC who killed ex-footballer jailed for eight years]]></title>
             <description><![CDATA[He is the first to be convicted of manslaughter as a result of police contact in more than 30 years.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-57603091</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-57603091</guid>
             <pubDate>Tue, 29 Jun 2021 16:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police investigating after Chris Whitty accosted in park]]></title>
-            <description><![CDATA[Boris Johnson says he is "shocked" by the "despicable harassment" of England's chief medical officer.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57648608</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57648608</guid>
-            <pubDate>Tue, 29 Jun 2021 13:08:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brewdog: Watchdog urged to probe solid gold can prize claim]]></title>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-57653721</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57653721</guid>
             <pubDate>Tue, 29 Jun 2021 16:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police investigating after Chris Whitty accosted in park]]></title>
+            <description><![CDATA[Boris Johnson says he is "shocked" by the "despicable harassment" of England's chief medical officer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57648608</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57648608</guid>
+            <pubDate>Tue, 29 Jun 2021 13:08:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rare black hole and neutron star collisions sighted twice in 10 days]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57652436</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57652436</guid>
             <pubDate>Tue, 29 Jun 2021 13:41:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elvis Costello defends Olivia Rodrigo over Brutal plagiarism claim]]></title>
-            <description><![CDATA[Elvis Costello gives a relaxed response after pop star Olivia Rodrigo is accused of copying his music.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57650176</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57650176</guid>
-            <pubDate>Tue, 29 Jun 2021 09:27:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen's Platinum Jubilee: Reign to be marked at street pageant]]></title>
@@ -226,6 +226,20 @@
             <pubDate>Tue, 29 Jun 2021 05:37:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England 2-0 Germany: England end 55-year wait for knockout win over Germany]]></title>
+            <description><![CDATA[England end a 55-year wait for a knockout tie victory over Germany to reach the quarter-finals of the European Championship.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51198606</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198606</guid>
+            <pubDate>Tue, 29 Jun 2021 17:53:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raheem Sterling slides it past Manuel Neuer to score for England against Germany]]></title>
+            <description><![CDATA[Raheem Sterling opens the scoring from a Luke Shaw cross to slide it past goalkeeper Manuel Neuer to give England a 1-0 lead against Germany in their last-16 Euro 2020 fixture at Wembley.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57657917</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57657917</guid>
+            <pubDate>Tue, 29 Jun 2021 17:41:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cavendish wins first Tour de France stage in five years]]></title>
             <description><![CDATA[Britain's Mark Cavendish wins his first stage at the Tour de France for five years in a thrilling sprint finish on stage four in Fougeres.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/57655487</link>
@@ -245,20 +259,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/57652367</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57652367</guid>
             <pubDate>Tue, 29 Jun 2021 16:20:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020 - England v Germany: Kai Havertz's shot stopped by sensational Jordan Pickford save]]></title>
-            <description><![CDATA[Germany's Kai Havertz's first time shot is stopped by a sensational Jordan Pickford save to keep the game 0-0 against England in their last-16 Euro 2020 fixture in Wembley.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57657914</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57657914</guid>
-            <pubDate>Tue, 29 Jun 2021 17:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020 England v Germany: Harry Kane comes close to opening the scoring against Germany]]></title>
-            <description><![CDATA[Captain Harry Kane comes agonisingly close to opening the scoring against Germany in their last-16 Euro 2020 fixture in Wembley.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57657910</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57657910</guid>
-            <pubDate>Tue, 29 Jun 2021 17:10:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 England v Germany: How Three Lions became the definitive England song]]></title>
