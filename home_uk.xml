@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Jun 2021 14:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jun 2021 14:37:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,20 @@
             <pubDate>Wed, 30 Jun 2021 13:27:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Everton appoint Rafael Benitez as manager]]></title>
+            <description><![CDATA[Everton appoint former Liverpool manager Rafael Benitez as Carlo Ancelotti's successor.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57660542</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57660542</guid>
+            <pubDate>Wed, 30 Jun 2021 14:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: EU postpones ban on British meat sales in NI]]></title>
+            <description><![CDATA[The proposed ban on items like fresh sausages was a consequence of the Northern Ireland Protocol.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57644497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57644497</guid>
+            <pubDate>Wed, 30 Jun 2021 14:25:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[HMS Defender: Russia's Putin accuses UK and US of military provocation]]></title>
             <description><![CDATA[The Russian president says last week's naval incident off Crimea was co-ordinated to test Moscow.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57662956</link>
@@ -72,25 +86,11 @@
             <pubDate>Wed, 30 Jun 2021 10:11:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tucker Carlson: NSA hits back at allegations it spied on Fox News host]]></title>
-            <description><![CDATA[Carlson accused the US security agency of planning to force him off air, citing a whistle-blower.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57663136</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57663136</guid>
-            <pubDate>Wed, 30 Jun 2021 13:24:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gracie Spinks death: Stalking victim died from stab wound to neck]]></title>
             <description><![CDATA[Inquests are opened into the deaths of Gracie Spinks and the man thought to have killed her.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-derbyshire-57664993</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-57664993</guid>
             <pubDate>Wed, 30 Jun 2021 10:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Checkatrade boss warns of shortage of skilled trade workers]]></title>
-            <description><![CDATA[Richard Harpin says it should be made easier for EU bathroom fitters and kitchen installers to come to the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57663112</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57663112</guid>
-            <pubDate>Wed, 30 Jun 2021 12:31:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Autistic teen struggles with changes during pandemic]]></title>
@@ -212,13 +212,6 @@
             <pubDate>Wed, 30 Jun 2021 00:16:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Everton appoint ex-Liverpool boss Benitez as Ancelotti's successor]]></title>
-            <description><![CDATA[Everton appoint former Liverpool manager Rafael Benitez as Carlo Ancelotti's successor.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57660542</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57660542</guid>
-            <pubDate>Wed, 30 Jun 2021 14:21:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nearly 2,000 Scotland Covid cases linked to people watching Euro 2020]]></title>
             <description><![CDATA[Most of the 1,991 cases were people who travelled to London for Scotland's game with England on 18 June.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57667163</link>
@@ -245,6 +238,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/57659210</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57659210</guid>
             <pubDate>Tue, 29 Jun 2021 18:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wimbledon 2021: Nick Kyrgios says Wimbledon grass courts are "a joke"]]></title>
+            <description><![CDATA[Australia's Nick Kyrgios uses a change of ends during his first round match with Ugo Humbert to tell viewers the Wimbledon grass courts are "a joke" and playing too slow.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/57666235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57666235</guid>
+            <pubDate>Wed, 30 Jun 2021 10:37:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 and Covid: How can I watch with my friends?]]></title>
