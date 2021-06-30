@@ -1,6 +1,6 @@
 1. [England 2-0 Germany: England end 55-year wait for knockout win over Germany](https://www.bbc.co.uk/sport/football/51198606) - England end a 55-year wait for a knockout tie victory over Germany to reach the quarter-finals of the European Championship.
 2. [Miami building collapse: Letter in April warned of worsening damage](https://www.bbc.co.uk/news/world-us-canada-57659311) - Residents of an apartment block that collapsed last week were warned of worsening structural damage.
-3. [Canada weather: Dozens dead as heatwave shatters records](https://www.bbc.co.uk/news/world-us-canada-57654133) - The temperature in Lytton, British Columbia, has hit 49.5C (121F) - setting a sizzling new record.
+3. [Canada weather: Dozens dead as heatwave shatters records](https://www.bbc.co.uk/news/world-us-canada-57654133) - The country has recorded its highest ever temperature - 49.5C (121F) - for the third day in a row.
 4. [Thomas Gainsborough's Blue Boy to return to the UK after 100 years](https://www.bbc.co.uk/news/entertainment-arts-57649531) - One of British art's most famous paintings is to go on show in London 100 years after it left.
 5. [Flying car completes test flight between airports](https://www.bbc.co.uk/news/technology-57651843) - The vehicle runs on regular fuel and can travel up to 1,000km while airborne, its creator says.
 6. [Settled status: EU citizens urged apply to stay in UK now or lose rights](https://www.bbc.co.uk/news/uk-politics-57657520) - Labour is calling for the deadline to be extended amid fears that thousands could lose UK residency.
