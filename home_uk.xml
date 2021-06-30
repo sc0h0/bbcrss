@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Jun 2021 06:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jun 2021 06:38:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -163,13 +163,6 @@
             <pubDate>Tue, 29 Jun 2021 10:02:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Batley and Spen by-election: What's at stake for the main political parties?]]></title>
-            <description><![CDATA[The constituency will be electing a new MP on Thursday, but the parties contesting the seat have a lot riding on the result.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57639970</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57639970</guid>
-            <pubDate>Wed, 30 Jun 2021 00:29:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hong Kong: How life has changed under China's national security law]]></title>
             <description><![CDATA[Seven city residents tell the BBC how the national security law fundamentally changed their lives.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57649442</link>
@@ -177,7 +170,14 @@
             <pubDate>Wed, 30 Jun 2021 00:12:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lady Boss documentary film "recasts Jackie Collins as feminist icon]]></title>
+            <title><![CDATA[Batley and Spen by-election: What's at stake for the main political parties?]]></title>
+            <description><![CDATA[The constituency will be electing a new MP on Thursday, but the parties contesting the seat have a lot riding on the result.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57639970</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57639970</guid>
+            <pubDate>Wed, 30 Jun 2021 00:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lady Boss documentary film recasts Jackie Collins as feminist icon]]></title>
             <description><![CDATA[Filmmaker Laura Fairrie wants to celebrate Collins' books about female sexual desire and freedom.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57640590</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57640590</guid>
@@ -261,18 +261,18 @@
             <pubDate>Wed, 30 Jun 2021 05:00:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: 'The stuff of dreams' - BBC pundits celebrate wildly as England score against Germany]]></title>
-            <description><![CDATA[The pundits launch into a frenzy after England score against Germany, with Rio Ferdinand claiming that the 2-0 England victory is "the stuff of dreams".]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57659702</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57659702</guid>
-            <pubDate>Tue, 29 Jun 2021 19:21:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[England 2-0 Germany: Who stands between Three Lions and Euro 2020 final?]]></title>
             <description><![CDATA[England are now favourites to reach the final of the Euros. Here's who they could face along the way.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57638163</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57638163</guid>
             <pubDate>Tue, 29 Jun 2021 21:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: 'The stuff of dreams' - BBC pundits celebrate wildly as England score against Germany]]></title>
+            <description><![CDATA[The pundits launch into a frenzy after England score against Germany, with Rio Ferdinand claiming that the 2-0 England victory is "the stuff of dreams".]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57659702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57659702</guid>
+            <pubDate>Tue, 29 Jun 2021 19:21:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 quarter-final fixtures, TV guide & route to the final]]></title>
