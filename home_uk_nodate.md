@@ -3,7 +3,7 @@
 3. [Gap to close all 81 stores in UK and Ireland](https://www.bbc.co.uk/news/business-57670737) - The fashion chain says it will be online-only from the end of September.
 4. [Ex-US defence secretary Donald Rumsfeld dead at 88](https://www.bbc.co.uk/news/world-us-canada-57674117) - Former US defence secretary Donald Rumsfeld, one of the main architects of the Iraq war, dies at 88
 5. [Prince Harry pays surprise visit to children's charity awards ceremony](https://www.bbc.co.uk/news/uk-57672359) - The duke spoke to some "inspiring" children and young people with serious health conditions.
-6. [Jadon Sancho: Man Utd agree £73m fee for Borussia Dortmund and England winger](https://www.bbc.co.uk/sport/football/57673463) - Manchester United agree a fee in principle of 85m euros (£73m) with Borussia Dortmund for England winger Jadon Sancho.
+6. [Jadon Sancho: Man Utd agree £73m fee with Borussia Dortmund for England winger](https://www.bbc.co.uk/sport/football/57673463) - Manchester United agree a fee in principle of 85m euros (£73m) with Borussia Dortmund for England winger Jadon Sancho.
 7. [Euro 2020: Europe-based England fans offered Ukraine tickets](https://www.bbc.co.uk/news/uk-57670139) - Fans in England are being told not to travel to the game in Italy because of strict quarantine rules.
 8. [Tim Berners-Lee sells web source code NFT for $5.4m](https://www.bbc.co.uk/news/technology-57666335) - The sale came with a bundle of assets, including an animated video and a letter from Sir Tim.
 9. [Canada weather: Dozens dead as heatwave shatters records](https://www.bbc.co.uk/news/world-us-canada-57654133) - The country has recorded its highest ever temperature - 49.6C (121.3F) - for the third day in a row.
