@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Jun 2021 17:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jun 2021 17:34:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Bill Cosby's sex assault conviction overturned]]></title>
+            <description><![CDATA[The decision by Pennsylvania's Supreme Court paves the way for the former comedian's release.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57671012</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57671012</guid>
+            <pubDate>Wed, 30 Jun 2021 17:22:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: NHS plans booster jab for those 50 and over before winter]]></title>
             <description><![CDATA[The UK's vaccine committee says winter could see spikes in flu and Covid, putting pressure on the NHS.]]></description>
@@ -27,14 +34,7 @@
             <description><![CDATA[Fans in England are being told not to travel to the game in Italy because of strict quarantine rules.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57670139</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57670139</guid>
-            <pubDate>Wed, 30 Jun 2021 17:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada weather: Dozens dead as heatwave shatters records]]></title>
-            <description><![CDATA[The country has recorded its highest ever temperature - 49.6C (121.3F) - for the third day in a row.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57654133</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57654133</guid>
-            <pubDate>Wed, 30 Jun 2021 15:29:07 GMT</pubDate>
+            <pubDate>Wed, 30 Jun 2021 17:12:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tour de France spectator arrested over sign crash]]></title>
@@ -44,11 +44,18 @@
             <pubDate>Wed, 30 Jun 2021 14:42:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Tickets for England fans in Italy, and scrapping school bubbles]]></title>
+            <title><![CDATA[Covid-19: Tickets for England fans in Italy, and booster jab for over-50s]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday evening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57666520</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57666520</guid>
-            <pubDate>Wed, 30 Jun 2021 17:01:08 GMT</pubDate>
+            <pubDate>Wed, 30 Jun 2021 17:30:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada weather: Dozens dead as heatwave shatters records]]></title>
+            <description><![CDATA[The country has recorded its highest ever temperature - 49.6C (121.3F) - for the third day in a row.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57654133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57654133</guid>
+            <pubDate>Wed, 30 Jun 2021 15:29:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Williamson wants to stop sending school bubbles home ]]></title>
@@ -65,18 +72,11 @@
             <pubDate>Wed, 30 Jun 2021 14:11:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: EU postpones ban on British meat sales in NI]]></title>
-            <description><![CDATA[The proposed ban on items like fresh sausages was a consequence of the Northern Ireland Protocol.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57644497</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57644497</guid>
-            <pubDate>Wed, 30 Jun 2021 16:59:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Trump Organization expected to be charged over tax]]></title>
             <description><![CDATA[The firm and its chief financial officer are set to be charged with tax-related crimes, reports say.]]></description>
             <link>https://www.bbc.co.uk/news/business-57669976</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57669976</guid>
-            <pubDate>Wed, 30 Jun 2021 16:24:41 GMT</pubDate>
+            <pubDate>Wed, 30 Jun 2021 17:16:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ollie Bibby: Mother feels dismissed by Boris Johnson over dead son]]></title>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/newsbeat-57670955</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57670955</guid>
             <pubDate>Wed, 30 Jun 2021 16:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal photographer: 'Diana broke the mould']]></title>
+            <description><![CDATA[The Duke of Cambridge and the Duke of Sussex are set to unveil a statue in memory of Diana, Princess of Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57668926</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57668926</guid>
+            <pubDate>Wed, 30 Jun 2021 17:02:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Autistic teen struggles with changes during pandemic]]></title>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57667163</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57667163</guid>
             <pubDate>Wed, 30 Jun 2021 16:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tottenham close to appointing Nuno as manager]]></title>
-            <description><![CDATA[Tottenham are closing in on the appointment of Nuno Espirito Santo as their new manager.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57667403</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57667403</guid>
-            <pubDate>Wed, 30 Jun 2021 12:12:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Not bad for a part-time player' - Kyrgios wins epic match 9-7 in fifth set]]></title>
