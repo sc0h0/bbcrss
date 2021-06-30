@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Jun 2021 03:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jun 2021 04:24:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,14 @@
             <description><![CDATA[A victory in Rome on Saturday would see England reach the Euro semi-finals for first time in 25 years.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57660584</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57660584</guid>
-            <pubDate>Wed, 30 Jun 2021 02:25:25 GMT</pubDate>
+            <pubDate>Wed, 30 Jun 2021 04:12:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canada weather: Dozens dead as heatwave shatters records]]></title>
             <description><![CDATA[The country has recorded its highest ever temperature - 49.5C (121F) - for the third day in a row.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57654133</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57654133</guid>
-            <pubDate>Wed, 30 Jun 2021 00:28:57 GMT</pubDate>
+            <pubDate>Wed, 30 Jun 2021 04:06:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami building collapse: Letter in April warned of worsening damage]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57657520</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57657520</guid>
             <pubDate>Wed, 30 Jun 2021 00:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Malta, Madeira and Balearics on green travel list]]></title>
+            <description><![CDATA[Holidaymakers will no longer have to self-isolate on their return to the UK from these areas.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57661648</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57661648</guid>
+            <pubDate>Wed, 30 Jun 2021 04:19:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thomas Gainsborough's Blue Boy to return to the UK after 100 years]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/sport/football/51198613</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198613</guid>
             <pubDate>Tue, 29 Jun 2021 21:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: US commander warns of possible civil war after withdrawal]]></title>
-            <description><![CDATA[The country could face "very hard times" after American troops withdraw, General Scott Miller says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57659927</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57659927</guid>
-            <pubDate>Tue, 29 Jun 2021 23:22:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Three Lions Thump Old Enemy' and 'Time to Dream']]></title>
@@ -205,8 +205,8 @@
             <pubDate>Tue, 29 Jun 2021 15:27:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pinjra Tod: Women's rights activists finally free in India]]></title>
-            <description><![CDATA[Natasha Narwal and Devangana Kalita spent a year in prison, accused of 'masterminding' Delhi riots.]]></description>
+            <title><![CDATA[Pinjra Tod: Freed India activists talk about hope and despair in jail]]></title>
+            <description><![CDATA[Natasha Narwal and Devangana Kalita, freed Indian activists, talk about hope and despair in jail.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57648106</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57648106</guid>
             <pubDate>Wed, 30 Jun 2021 00:16:17 GMT</pubDate>
