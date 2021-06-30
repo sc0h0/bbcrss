@@ -3,7 +3,7 @@
 3. [Gap to close all 81 stores in UK and Ireland](https://www.bbc.co.uk/news/business-57670737) - The fashion chain says it will be online-only from the end of September.
 4. [Donald Rumsfeld: Ex-US defence secretary dies aged 88](https://www.bbc.co.uk/news/world-us-canada-57674117) - Serving under George W Bush, he was one of the main architects of the Iraq war.
 5. [Wimbledon 2021: Andy Murray beats Oscar Otte in second-round thriller](https://www.bbc.co.uk/sport/tennis/57670727) - Andy Murray reaches the Wimbledon third round after beating German qualifier Oscar Otte in another thriller finishing under the lights.
-6. [Prince Harry pays surprise visit to children's charity awards ceremony](https://www.bbc.co.uk/news/uk-57672359) - The duke spoke to some "inspiring" children and young people with serious health conditions.
+6. [William and Harry to unveil Diana statue at Kensington Palace](https://www.bbc.co.uk/news/uk-57671175) - It will be unveiled at Diana's former home, Kensington Palace, on what would have been her 60th birthday.
 7. [Jadon Sancho: Man Utd agree £73m fee with Borussia Dortmund for England winger](https://www.bbc.co.uk/sport/football/57673463) - Manchester United agree a fee in principle of 85m euros (£73m) with Borussia Dortmund for England winger Jadon Sancho.
 8. [Euro 2020: Europe-based England fans offered Ukraine tickets](https://www.bbc.co.uk/news/uk-57670139) - Fans in England are being told not to travel to the game in Italy because of strict quarantine rules.
 9. [Tim Berners-Lee sells web source code NFT for $5.4m](https://www.bbc.co.uk/news/technology-57666335) - The sale came with a bundle of assets, including an animated video and a letter from Sir Tim.
