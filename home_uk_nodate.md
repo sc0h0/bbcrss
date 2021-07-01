@@ -3,7 +3,7 @@
 3. [Britney Spears: Judge denies request to remove father from conservatorship](https://www.bbc.co.uk/news/entertainment-arts-57676545) - A judge denies the star's request to remove her father from his role overseeing her conservatorship.
 4. [Nissan announces major UK electric car expansion](https://www.bbc.co.uk/news/business-57666008) - The carmaker will build its new all-electric model in Sunderland, alongside a massive electric battery plant.
 5. [Man apologises for accosting Prof Chris Whitty in park](https://www.bbc.co.uk/news/uk-57675176) - Police are investigating a video which shows two men grabbing hold of England's chief medical officer.
-6. [Miami building collapse: 'People went to sleep, and then they died'](https://www.bbc.co.uk/news/world-us-canada-57674422) - Pablo Rodríguez's mother and grandmother were in a Miami apartment building when it collapsed.
+6. [Miami building collapse: 'People went to sleep, and then they died'](https://www.bbc.co.uk/news/world-us-canada-57674422) - Both the mother and grandmother of Pablo Rodríguez were in the building when it fell. Now, he wants answers.
 7. [Covid common in cats and dogs, study finds](https://www.bbc.co.uk/news/health-57666245) - Pet owners with Covid could infect about 20% of cats and dogs, although most symptoms are mild.
 8. [CCP 100: Xi warns China will not be 'oppressed' in anniversary speech](https://www.bbc.co.uk/news/world-asia-china-57648236) - The Chinese leader was speaking at an event marking the centenary of the ruling Communist Party.
 9. [William and Harry to unveil Diana statue at Kensington Palace](https://www.bbc.co.uk/news/uk-57671175) - It will be unveiled at Diana's former home, Kensington Palace, on what would have been her 60th birthday.
