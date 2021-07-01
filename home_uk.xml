@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Jul 2021 12:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jul 2021 13:09:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,18 @@
             <pubDate>Thu, 01 Jul 2021 09:53:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: UK's furlough scheme starts to wind down]]></title>
-            <description><![CDATA[Employers will start paying part of workers' furlough wages as the job support scheme is withdrawn.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57665735</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57665735</guid>
-            <pubDate>Thu, 01 Jul 2021 11:41:42 GMT</pubDate>
+            <title><![CDATA[William and Harry to unveil Diana statue at Kensington Palace]]></title>
+            <description><![CDATA[It will be unveiled at Diana's former home, Kensington Palace, on what would have been her 60th birthday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57671175</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57671175</guid>
+            <pubDate>Thu, 01 Jul 2021 10:44:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ollie Bibby: Hospital apologises to mum unable to visit dying son]]></title>
+            <description><![CDATA[Ollie Bibby's family say they are happy that visiting restrictions will be reviewed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-57681038</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57681038</guid>
+            <pubDate>Thu, 01 Jul 2021 12:21:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Britney Spears: Judge denies request to remove father from conservatorship]]></title>
@@ -44,13 +51,6 @@
             <pubDate>Thu, 01 Jul 2021 10:48:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nissan announces major UK electric car expansion]]></title>
-            <description><![CDATA[The carmaker will build its new all-electric model in Sunderland, alongside a massive electric battery plant.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57666008</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57666008</guid>
-            <pubDate>Thu, 01 Jul 2021 12:17:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Man apologises for accosting Prof Chris Whitty in park]]></title>
             <description><![CDATA[Police are investigating a video which shows two men grabbing hold of England's chief medical officer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57675176</link>
@@ -58,11 +58,18 @@
             <pubDate>Thu, 01 Jul 2021 08:18:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Miami building collapse: 'People went to sleep, and then they died']]></title>
-            <description><![CDATA[Both the mother and grandmother of Pablo Rodríguez were in the building when it fell. Now, he wants answers.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57674422</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57674422</guid>
-            <pubDate>Wed, 30 Jun 2021 23:34:38 GMT</pubDate>
+            <title><![CDATA[Nissan announces major UK electric car expansion]]></title>
+            <description><![CDATA[The carmaker will build its new all-electric model in Sunderland, alongside a massive electric battery plant.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57666008</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57666008</guid>
+            <pubDate>Thu, 01 Jul 2021 12:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: UK's furlough scheme starts to wind down]]></title>
+            <description><![CDATA[Employers will start paying part of workers' furlough wages as the job support scheme is withdrawn.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57665735</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57665735</guid>
+            <pubDate>Thu, 01 Jul 2021 11:41:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump Organization indicted in tax probe, US media report]]></title>
@@ -72,13 +79,6 @@
             <pubDate>Thu, 01 Jul 2021 11:11:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[William and Harry to unveil Diana statue at Kensington Palace]]></title>
-            <description><![CDATA[It will be unveiled at Diana's former home, Kensington Palace, on what would have been her 60th birthday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57671175</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57671175</guid>
-            <pubDate>Thu, 01 Jul 2021 10:44:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[High-profile women want action to stop online abuse]]></title>
             <description><![CDATA[More than 200 women, including former Australia prime minister Julia Gillard, write to social media chiefs.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57668916</link>
@@ -86,18 +86,18 @@
             <pubDate>Thu, 01 Jul 2021 09:50:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Number of positive isolating pupils unknown in England]]></title>
-            <description><![CDATA[The government cannot say how many Covid infections in England are being prevented by sending pupils home.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57671735</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57671735</guid>
-            <pubDate>Thu, 01 Jul 2021 09:10:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rare white puffin spotted on Scottish island]]></title>
             <description><![CDATA[The young puffin, spotted on Handa Island, has a lack of pigmentation caused by a genetic condition called leucism.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57678621</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57678621</guid>
             <pubDate>Thu, 01 Jul 2021 08:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miami building collapse: 'People went to sleep, and then they died']]></title>
+            <description><![CDATA[Both the mother and grandmother of Pablo Rodríguez were in the building when it fell. Now, he wants answers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57674422</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57674422</guid>
+            <pubDate>Wed, 30 Jun 2021 23:34:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid common in cats and dogs, study finds]]></title>
@@ -259,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/tennis/57681187</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57681187</guid>
             <pubDate>Thu, 01 Jul 2021 12:07:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wimbledon 2021: Novak Djokovic, Aryna Sabalenka and Venus Williams in day three highlights]]></title>
+            <description><![CDATA[Watch some of the best moments from day three at Wimbledon including Katie Boulter's brilliant performance against Aryna Sabalenka and a ball boy's woes.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/57672090</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57672090</guid>
+            <pubDate>Wed, 30 Jun 2021 19:17:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The EU’s vaccine passport and what it means for travel]]></title>
