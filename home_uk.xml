@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Jul 2021 21:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jul 2021 21:25:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Thu, 01 Jul 2021 21:01:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Batley and Spen by-election: Nail-biter for Labour as count gets under way]]></title>
+            <description><![CDATA[Leader Sir Keir Starmer is desperate not to suffer another by-election defeat by the Conservatives.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57686817</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57686817</guid>
+            <pubDate>Thu, 01 Jul 2021 21:08:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Global tax overhaul backed by 130 countries]]></title>
             <description><![CDATA[The OECD, which led the talks, announces that many have backed plans for a 15% minimum corporate tax.]]></description>
             <link>https://www.bbc.co.uk/news/business-57573380</link>
@@ -72,8 +79,8 @@
             <pubDate>Thu, 01 Jul 2021 19:09:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oxford Circus stabbing: Man in critical condition]]></title>
-            <description><![CDATA[Two men are in hospital following a stabbing in central London on Thursday evening.]]></description>
+            <title><![CDATA[Oxford Circus stabbing: Victim in critical condition]]></title>
+            <description><![CDATA[A man is in critical condition after the attack in Central London, the Metropolitan Police say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57690047</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57690047</guid>
             <pubDate>Thu, 01 Jul 2021 20:52:29 GMT</pubDate>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57677178</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57677178</guid>
             <pubDate>Thu, 01 Jul 2021 17:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Scientists call for expanded list of symptoms]]></title>
-            <description><![CDATA[Leading scientists say the official list needs to be expanded to make sure cases are not missed.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57681869</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57681869</guid>
-            <pubDate>Thu, 01 Jul 2021 13:54:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami building collapse: 'People went to sleep, and then they died']]></title>
@@ -237,7 +237,7 @@
             <description><![CDATA[Norway's Karsten Warholm runs 46.70 to set a new world record in the 400m hurdles in front of his home crowd at the Diamond League meeting in Oslo.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/57689153</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57689153</guid>
-            <pubDate>Thu, 01 Jul 2021 20:24:52 GMT</pubDate>
+            <pubDate>Thu, 01 Jul 2021 21:12:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wimbledon 2021: Roger Federer, Coco Gauff and Daniil Medvedev in day four best bits]]></title>
@@ -254,11 +254,18 @@
             <pubDate>Thu, 01 Jul 2021 18:49:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Diamond League: Norway’s ‘superhero’ Warholm breaks 400m hurdles world record]]></title>
-            <description><![CDATA[Norway's Karsten Warholm runs 46.70 to set a new world record in the 400m hurdles in front of his home crowd at the Diamond League meeting in Oslo.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/athletics/57690155</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/athletics/57690155</guid>
-            <pubDate>Thu, 01 Jul 2021 20:47:52 GMT</pubDate>
+            <title><![CDATA[Federer sets up Wimbledon encounter with Britain's Norrie]]></title>
+            <description><![CDATA[Roger Federer continues his dominance over France's Richard Gasquet to set up a Wimbledon third-round meeting with Britain's Cameron Norrie.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57674964</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57674964</guid>
+            <pubDate>Thu, 01 Jul 2021 18:46:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hogg to captain Lions in South Africa tour opener]]></title>
+            <description><![CDATA[Stuart Hogg says he will "be his own man" when he leads a new-look British and Irish Lions XV against the Emirates Lions in Johannesburg on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57678981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57678981</guid>
+            <pubDate>Thu, 01 Jul 2021 13:39:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The EU’s 'vaccine passport' and what it means for travel]]></title>
