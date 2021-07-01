@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Jul 2021 08:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jul 2021 08:33:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,14 +41,14 @@
             <description><![CDATA[A judge denies the star's request to remove her father from his role overseeing her conservatorship.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57676545</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57676545</guid>
-            <pubDate>Thu, 01 Jul 2021 07:54:29 GMT</pubDate>
+            <pubDate>Thu, 01 Jul 2021 08:21:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man apologises over Prof Chris Whitty park footage]]></title>
-            <description><![CDATA[Police are investigating the video which appears to show England's chief medical officer being accosted.]]></description>
+            <title><![CDATA[Man apologises for accosting Prof Chris Whitty in park]]></title>
+            <description><![CDATA[Police are investigating a video which shows two men grabbing hold of England's chief medical officer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57675176</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57675176</guid>
-            <pubDate>Thu, 01 Jul 2021 05:33:02 GMT</pubDate>
+            <pubDate>Thu, 01 Jul 2021 08:18:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CCP 100: Xi warns China will not be 'oppressed' in anniversary speech]]></title>
@@ -192,7 +192,7 @@
         </item>
         <item>
             <title><![CDATA[The Easter Island pianist playing for her home's future]]></title>
-            <description><![CDATA[Mahani Teave returned to the world's most remote inhabited island to help preserve its culture.]]></description>
+            <description><![CDATA[Mahani Teave returned to one of the world's most remote inhabited island to help preserve its culture.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57472134</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57472134</guid>
             <pubDate>Thu, 01 Jul 2021 00:10:28 GMT</pubDate>
@@ -282,6 +282,13 @@
             <pubDate>Wed, 30 Jun 2021 17:08:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stamp duty holiday: How much do I have to pay now?]]></title>
+            <description><![CDATA[Stamp duty rules are changing in England and Northern Ireland from 1 July.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53319433</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53319433</guid>
+            <pubDate>Thu, 01 Jul 2021 08:06:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: How is furlough changing and when will it end?]]></title>
             <description><![CDATA[Furlough has been extended until the end of September]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52135342</link>
@@ -289,18 +296,18 @@
             <pubDate>Wed, 30 Jun 2021 09:09:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are the rules about self-isolating, testing and masks in schools?]]></title>
-            <description><![CDATA[The government wants to change the rules which mean entire classes must self-isolate after a positive case.]]></description>
-            <link>https://www.bbc.co.uk/news/education-51643556</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
-            <pubDate>Wed, 30 Jun 2021 13:52:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How many cases are in your area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Wed, 30 Jun 2021 16:19:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the rules about self-isolating, testing and masks in schools?]]></title>
+            <description><![CDATA[The government wants to change the rules which mean entire classes must self-isolate after a positive case.]]></description>
+            <link>https://www.bbc.co.uk/news/education-51643556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
+            <pubDate>Wed, 30 Jun 2021 13:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
