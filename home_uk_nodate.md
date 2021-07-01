@@ -5,7 +5,7 @@
 5. ['My heart was ripped from my chest'](https://www.bbc.co.uk/news/world-us-canada-57674422) - Pablo Rodríguez's mother and grandmother were in a Miami apartment building when it collapsed.
 6. ['Right to Repair' law will extend lifespan of products, government says](https://www.bbc.co.uk/news/business-57665593) - Appliances will be cheaper to run, the government says, under plans that will extend the lifespan of household goods.
 7. [UK's furlough scheme starts to wind down](https://www.bbc.co.uk/news/business-57665735) - Employers will start paying part of workers' furlough wages as the job support scheme is withdrawn.
-8. [China celebrates Communist Party's 100th anniversary](https://www.bbc.co.uk/news/world-asia-china-57648236) - In a speech marking the event, President Xi Jinping warned against anyone oppressing China.
+8. [CCP 100: Xi warns China will not be 'oppressed' in anniversary speech](https://www.bbc.co.uk/news/world-asia-china-57648236) - In a speech marking the event, President Xi Jinping warned against anyone oppressing China.
 9. [Wimbledon 2021: Andy Murray beats Oscar Otte in second-round thriller](https://www.bbc.co.uk/sport/tennis/57670727) - Andy Murray reaches the Wimbledon third round after beating German qualifier Oscar Otte in another thriller finishing under the lights.
 10. [Donald Rumsfeld: Ex-US defence secretary dies aged 88](https://www.bbc.co.uk/news/world-us-canada-57674117) - Serving under George W Bush, he was one of the main architects of the Iraq war.
 11. [Trump Organization expected to be charged with tax crimes](https://www.bbc.co.uk/news/business-57669976) - The former president himself is not expected to be implicated personally in the New York case.
@@ -19,7 +19,7 @@
 19. [Royal Mail delivers letter addressed to 'woman in Cornwall shed'](https://www.bbc.co.uk/news/uk-england-cornwall-57670098) - The note to an author "near a village 21 miles from Land's End" finds its intended recipient.
 20. [Nick Grimshaw to leave Radio 1 after 14 years](https://www.bbc.co.uk/news/newsbeat-57670955) - The drivetime host says working on the station has been a "childhood dream come true".
 21. [Royal photographer: 'Diana broke the mould'](https://www.bbc.co.uk/news/uk-57668926) - The Duke of Cambridge and the Duke of Sussex are set to unveil a statue in memory of Diana, Princess of Wales.
-22. [Theatrics or threat: How to handle China's Communist party at 100](https://www.bbc.co.uk/news/world-asia-china-57666650) - There is much debate about how to deal with China's authoritarian politics, reports the BBC's John Sudworth.
+22. [Theatrics or threat: How to handle China's Communist party at 100](https://www.bbc.co.uk/news/world-asia-china-57666650) - There is much debate about how to deal with the country's authoritarian politics, reports the BBC's John Sudworth.
 23. [Covid: Misleading stat claims more vaccinated people die](https://www.bbc.co.uk/news/health-57610998) - Vaccines reduce the risk of death but do not eliminate it completely.
 24. [King's Lynn: The community shop with a chair for those who 'are not OK'](https://www.bbc.co.uk/news/uk-england-norfolk-57496557) - A community tells how its local shop has helped it cope during the pandemic and lockdowns.
 25. [The Easter Island pianist playing for her home's future](https://www.bbc.co.uk/news/world-latin-america-57472134) - Mahani Teave returned to the world's most remote inhabited island to help preserve its culture.
