@@ -10,9 +10,9 @@
 10. [High-profile women want action to stop online abuse](https://www.bbc.co.uk/news/technology-57668916) - More than 200 women, including former Australia prime minister Julia Gillard, write to social media chiefs.
 11. [Covid: Number of positive isolating pupils unknown in England](https://www.bbc.co.uk/news/health-57671735) - The government cannot say how many Covid infections in England are being prevented by sending pupils home.
 12. [Rare white puffin spotted on Scottish island](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57678621) - The young puffin, spotted on Handa Island, has a lack of pigmentation caused by a genetic condition called leucism.
-13. [The Papers: 'Jab in each arm' plans, and 'mass events fear'](https://www.bbc.co.uk/news/blogs-the-papers-57674522) - Thursday's papers include vaccine booster plans, fears over big events and England's Euro 2020 quarter-final.
-14. [How a US teen developed an app to help his sister talk](https://www.bbc.co.uk/news/disability-57515272) - Sixteen-year-old Archer Calder developed an app to help his nonverbal sister Della communicate.
-15. [US-Canada heatwave: Visual guide to the causes](https://www.bbc.co.uk/news/world-us-canada-57665715) - Maps, graphics and charts explaining the Canada and north-west US heatwave, with temperatures at nearly 50C.
+13. [The teen who created an app to help his sister talk](https://www.bbc.co.uk/news/disability-57515272) - Sixteen-year-old Archer Calder developed an app to help his nonverbal sister Della communicate.
+14. [US-Canada heatwave: Visual guide to the causes](https://www.bbc.co.uk/news/world-us-canada-57665715) - Maps, graphics and charts explaining the Canada and north-west US heatwave, with temperatures at nearly 50C.
+15. [The Papers: 'Jab in each arm' plans, and 'mass events fear'](https://www.bbc.co.uk/news/blogs-the-papers-57674522) - Thursday's papers include vaccine booster plans, fears over big events and England's Euro 2020 quarter-final.
 16. [Covid-19 furlough scheme starts to be scaled back](https://www.bbc.co.uk/news/business-57669489) - As financial support reduces, we hear from a worker who has been on and off furlough for 15 months.
 17. [Mozambique attack: Timeline of terror](https://www.bbc.co.uk/news/world-africa-57672606) - Some of those caught up in the attack on the northern city of Palma by Islamist militants share their stories.
 18. [100-year-old celebrates birthday by climbing O2 in wheelchair](https://www.bbc.co.uk/news/uk-england-london-57672876) - Harry White, a veteran from east London, climbs the O2 to celebrate his 100th birthday.
@@ -36,7 +36,7 @@
 36. [Wimbledon 2021: Novak Djokovic, Aryna Sabalenka and Venus Williams in day three highlights](https://www.bbc.co.uk/sport/av/tennis/57672090) - Watch some of the best moments from day three at Wimbledon including Katie Boulter's brilliant performance against Aryna Sabalenka and a ball boy's woes.
 37. [The EU’s vaccine passport and what it means for travel](https://www.bbc.co.uk/news/explainers-57665765) - The EU's vaccine passport - its Digital Covid Certificate - is being rolled out across all 27 nations.
 38. [Stamp duty holiday: How much do I have to pay now?](https://www.bbc.co.uk/news/business-53319433) - Stamp duty rules are changing in England and Northern Ireland from 1 July.
-39. [Covid: How is furlough changing and when will it end?](https://www.bbc.co.uk/news/explainers-52135342) - Furlough has been extended until the end of September
+39. [Covid: How is furlough changing and when will it end?](https://www.bbc.co.uk/news/explainers-52135342) - Employers now have to contribute to the cost of keeping their staff furloughed.
 40. [How many cases are in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 41. [What are the rules about self-isolating, testing and masks in schools?](https://www.bbc.co.uk/news/education-51643556) - The government wants to change the rules which mean entire classes must self-isolate after a positive case.
 42. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Millions of people most vulnerable to Covid-19 may be offered a third vaccination in September.
