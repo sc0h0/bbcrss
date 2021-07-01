@@ -8,8 +8,8 @@
 8. [China celebrates Communist Party's 100th anniversary](https://www.bbc.co.uk/news/world-asia-china-57648236) - In a speech marking the event, President Xi Jinping warned against anyone oppressing China.
 9. [Wimbledon 2021: Andy Murray beats Oscar Otte in second-round thriller](https://www.bbc.co.uk/sport/tennis/57670727) - Andy Murray reaches the Wimbledon third round after beating German qualifier Oscar Otte in another thriller finishing under the lights.
 10. [Donald Rumsfeld: Ex-US defence secretary dies aged 88](https://www.bbc.co.uk/news/world-us-canada-57674117) - Serving under George W Bush, he was one of the main architects of the Iraq war.
-11. [Covid: NHS plans booster jab for those 50 and over before winter](https://www.bbc.co.uk/news/health-57667987) - The UK's vaccine committee says winter could see spikes in flu and Covid, putting pressure on the NHS.
-12. [Trump Organization expected to be charged with tax crimes](https://www.bbc.co.uk/news/business-57669976) - The former president himself is not expected to be implicated personally in the New York case.
+11. [Trump Organization expected to be charged with tax crimes](https://www.bbc.co.uk/news/business-57669976) - The former president himself is not expected to be implicated personally in the New York case.
+12. [Covid: NHS plans booster jab for those 50 and over before winter](https://www.bbc.co.uk/news/health-57667987) - The UK's vaccine committee says winter could see spikes in flu and Covid, putting pressure on the NHS.
 13. [Gap to close all 81 stores in UK and Ireland](https://www.bbc.co.uk/news/business-57670737) - The fashion chain says it will be online-only from the end of September.
 14. [The Papers: 'Jab in each arm' plans, and 'mass events fear'](https://www.bbc.co.uk/news/blogs-the-papers-57674522) - Thursday's papers include vaccine booster plans, fears over big events and England's Euro 2020 quarter-final.
 15. [How a US teen developed an app to help his sister talk](https://www.bbc.co.uk/news/disability-57515272) - Sixteen-year-old Archer Calder developed an app to help his nonverbal sister Della communicate.
