@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Jul 2021 16:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jul 2021 17:01:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,14 +27,7 @@
             <description><![CDATA[The brothers appear relaxed and at ease as they pay tribute to their mother's "strength and character".]]></description>
             <link>https://www.bbc.co.uk/news/uk-57684597</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57684597</guid>
-            <pubDate>Thu, 01 Jul 2021 16:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Team GB select 12-year-old skateboarder]]></title>
-            <description><![CDATA[Twelve-year-old Sky Brown is set to become the youngest British summer Olympian of all time after being named in the Team GB skateboarding squad.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57669299</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57669299</guid>
-            <pubDate>Thu, 01 Jul 2021 15:25:37 GMT</pubDate>
+            <pubDate>Thu, 01 Jul 2021 16:48:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: PM to set out rules easing and a different Fringe festival]]></title>
@@ -44,11 +37,11 @@
             <pubDate>Thu, 01 Jul 2021 16:03:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ollie Bibby: Hospital apologises to mum unable to visit dying son]]></title>
-            <description><![CDATA[Ollie Bibby's family say they are happy that visiting restrictions will be reviewed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-57681038</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57681038</guid>
-            <pubDate>Thu, 01 Jul 2021 12:21:57 GMT</pubDate>
+            <title><![CDATA[Team GB select 12-year-old skateboarder]]></title>
+            <description><![CDATA[Twelve-year-old Sky Brown is set to become the youngest British summer Olympian of all time after being named in the Team GB skateboarding squad.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57669299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57669299</guid>
+            <pubDate>Thu, 01 Jul 2021 15:25:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Twitter 'troll' to pay Stephen Nolan six-figure sum in damages]]></title>
@@ -56,6 +49,20 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57684497</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57684497</guid>
             <pubDate>Thu, 01 Jul 2021 14:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Scientists call for expanded list of symptoms]]></title>
+            <description><![CDATA[Leading scientists say the official list needs to be expanded to make sure cases are not missed.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57681869</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57681869</guid>
+            <pubDate>Thu, 01 Jul 2021 13:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ollie Bibby: Hospital apologises to mum unable to visit dying son]]></title>
+            <description><![CDATA[Ollie Bibby's family say they are happy that visiting restrictions will be reviewed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-57681038</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57681038</guid>
+            <pubDate>Thu, 01 Jul 2021 12:21:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man apologises for accosting Prof Chris Whitty in park]]></title>
@@ -66,7 +73,7 @@
         </item>
         <item>
             <title><![CDATA[Canada Lytton: Wildfire forces hottest place in heatwave to evacuate]]></title>
-            <description><![CDATA["The whole town is on fire," the mayor of Lytton said while signing the evacuation order.]]></description>
+            <description><![CDATA["The whole town is on fire", the mayor of Lytton said while signing the evacuation order.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57678054</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57678054</guid>
             <pubDate>Thu, 01 Jul 2021 14:40:41 GMT</pubDate>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57683828</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57683828</guid>
             <pubDate>Thu, 01 Jul 2021 15:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Latitude festival-goers 'can jump, dance and hug in safety']]></title>
-            <description><![CDATA[Latitude's organiser says preventative measures will let people enjoy themselves with confidence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57678190</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57678190</guid>
-            <pubDate>Thu, 01 Jul 2021 15:39:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami building collapse: 'People went to sleep, and then they died']]></title>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57682375</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57682375</guid>
             <pubDate>Thu, 01 Jul 2021 11:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Latitude festival-goers 'can jump, dance and hug in safety']]></title>
+            <description><![CDATA[Latitude's organiser says preventative measures will let people enjoy themselves with confidence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57678190</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57678190</guid>
+            <pubDate>Thu, 01 Jul 2021 15:39:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rare white puffin spotted on Scottish island]]></title>
@@ -205,34 +212,6 @@
             <pubDate>Thu, 01 Jul 2021 00:10:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Diana statue: What next for William and Harry's relationship?]]></title>
-            <description><![CDATA[Sources say communications have been minimal - with deep upset and mistrust on both sides.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57669199</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57669199</guid>
-            <pubDate>Wed, 30 Jun 2021 16:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bill Cosby: The rise, fall and release of 'America's Dad']]></title>
-            <description><![CDATA[Once a national treasure, the comedian was jailed for sexual assault but that conviction has now been overturned.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-30194819</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-30194819</guid>
-            <pubDate>Wed, 30 Jun 2021 22:31:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jadon Sancho - A hybrid of the modern age]]></title>
-            <description><![CDATA[What can Manchester United fans expect from Jadon Sancho, as he returns to England four years after joining Borussia Dortmund?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57674033</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57674033</guid>
-            <pubDate>Wed, 30 Jun 2021 21:17:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Black Widow: Scarlett Johansson's 'rousing' Marvel film impresses most critics]]></title>
-            <description><![CDATA[But some reviewers take issue with how the Marvel superhero film handles the exploitation of women.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57663436</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57663436</guid>
-            <pubDate>Wed, 30 Jun 2021 10:44:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cavendish wins 32nd Tour de France stage to close within two of Merckx's all-time record]]></title>
             <description><![CDATA[Mark Cavendish wins his 32nd Tour de France stage victory to move within two stages of the all-time record held by Belgian legend Eddy Merckx.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/57686066</link>
@@ -258,7 +237,14 @@
             <description><![CDATA[Ashleigh Barty beats Anna Blinkova as the Wimbledon draw opens up further for her with the exit of third seed Elina Svitolina.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57682852</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57682852</guid>
-            <pubDate>Thu, 01 Jul 2021 16:10:28 GMT</pubDate>
+            <pubDate>Thu, 01 Jul 2021 16:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Talented trailblazer, reluctant star, hybrid of modern era' - what £73m Sancho brings to Man Utd]]></title>
+            <description><![CDATA[What can Manchester United fans expect from Jadon Sancho, as he returns to England four years after joining Borussia Dortmund?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57674033</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57674033</guid>
+            <pubDate>Wed, 30 Jun 2021 21:17:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wimbledon 2021: Dominant Norrie beats Bolt in straight sets - best shots]]></title>
@@ -266,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/av/tennis/57686489</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57686489</guid>
             <pubDate>Thu, 01 Jul 2021 15:24:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wimbledon 2021: Poland's Magda Linette earns victory over Elina Svitolina of Ukraine to reach third round - best shots]]></title>
-            <description><![CDATA[Watch the best shots as Poland's Magda Linette defeats third seed Elina Svitolina of Ukraine to reach the third round at Wimbledon.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/tennis/57686491</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57686491</guid>
-            <pubDate>Thu, 01 Jul 2021 15:53:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The EU’s 'vaccine passport' and what it means for travel]]></title>
@@ -300,7 +279,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Wed, 30 Jun 2021 16:19:46 GMT</pubDate>
+            <pubDate>Thu, 01 Jul 2021 16:32:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules about self-isolating, testing and masks in schools?]]></title>
@@ -343,13 +322,6 @@
             <link>https://www.bbc.co.uk/news/stories-57520169</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57520169</guid>
             <pubDate>Sun, 20 Jun 2021 23:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gary Allen: The killer who nearly got away with murder]]></title>
-            <description><![CDATA[Gary Allen's conviction for the murders of two women brings a 20-year quest for justice to an end.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57331321</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57331321</guid>
-            <pubDate>Thu, 17 Jun 2021 10:28:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
