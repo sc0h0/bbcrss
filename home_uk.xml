@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Jul 2021 15:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 16:33:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,7 +41,21 @@
             <description><![CDATA[Two Army veterans had faced murder charges over deaths in Londonderry in 1972, including on Bloody Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57694417</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57694417</guid>
-            <pubDate>Fri, 02 Jul 2021 15:01:17 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 16:25:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Germany hopes to welcome double-jabbed Brits and UK infections rising]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57698518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57698518</guid>
+            <pubDate>Fri, 02 Jul 2021 16:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael Gove and Sarah Vine separating and 'finalising divorce']]></title>
+            <description><![CDATA[The cabinet minister and his wife have "drifted apart" and "no-one else is involved", friends say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57699096</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57699096</guid>
+            <pubDate>Fri, 02 Jul 2021 16:19:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen Victoria and Elizabeth II's statues toppled]]></title>
@@ -55,7 +69,14 @@
             <description><![CDATA[The US Coast Guard reportedly rescues the two pilots of the plane, which crashed near Honolulu.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57697835</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57697835</guid>
-            <pubDate>Fri, 02 Jul 2021 15:47:18 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 16:02:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Gomoh stabbing: NHS worker killed at random by gang, Old Bailey told]]></title>
+            <description><![CDATA[David Gomoh died because he had the misfortune to live in an area frequented by gangs, a jury hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57698248</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57698248</guid>
+            <pubDate>Fri, 02 Jul 2021 15:49:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man charged with common assault after Chris Whitty incident]]></title>
@@ -63,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-57695301</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57695301</guid>
             <pubDate>Fri, 02 Jul 2021 10:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Love Island: ITV condemns death threats sent to contestant Chloe Burrows]]></title>
-            <description><![CDATA[Messages sent to contestant Chloe Burrows online were "wholly unacceptable", the broadcaster says.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57687190</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57687190</guid>
-            <pubDate>Fri, 02 Jul 2021 08:33:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Murder probe after Oxford Circus stab victim dies]]></title>
@@ -83,21 +97,7 @@
             <description><![CDATA[Hospital admissions are not rising at the same rate as infections across the UK, health officials say.]]></description>
             <link>https://www.bbc.co.uk/news/health-57694918</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57694918</guid>
-            <pubDate>Fri, 02 Jul 2021 12:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: US sprinter Sha'Carri Richardson set to miss Olympic Games after positive cannabis test]]></title>
-            <description><![CDATA[US sprinter Sha'Carri Richardson receives a one-month ban after testing positive for marijuana - and is set to miss the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/57692193</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57692193</guid>
-            <pubDate>Fri, 02 Jul 2021 13:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BBC Bitesize edits page to remove list of climate change 'benefits']]></title>
-            <description><![CDATA[The education site had listed "healthier outdoor lifestyles" as one plus of warmer temperatures.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57697875</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57697875</guid>
-            <pubDate>Fri, 02 Jul 2021 14:10:49 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 16:24:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kim Leadbeater: Sister of Jo Cox is new Batley and Spen MP]]></title>
@@ -121,18 +121,18 @@
             <pubDate>Fri, 02 Jul 2021 10:37:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Strolling crocodile sparks panic in India village]]></title>
-            <description><![CDATA[Wildlife officials caught the animal and released it into a nearby river.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57691731</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57691731</guid>
-            <pubDate>Fri, 02 Jul 2021 04:53:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vaccine hesitancy: Your job or the jab?]]></title>
             <description><![CDATA[Health workers once on the frontline of the pandemic are now embroiled in a row over vaccine mandates.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57686717</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57686717</guid>
             <pubDate>Thu, 01 Jul 2021 22:52:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strolling crocodile sparks panic in India village]]></title>
+            <description><![CDATA[Wildlife officials caught the animal and released it into a nearby river.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57691731</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57691731</guid>
+            <pubDate>Fri, 02 Jul 2021 04:53:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lebanon’s ‘suffocating’ energy crisis]]></title>
@@ -168,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/technology-57680173</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57680173</guid>
             <pubDate>Thu, 01 Jul 2021 23:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Batley and Spen: How Labour held on - and what it means for Sir Keir Starmer]]></title>
-            <description><![CDATA[Holding Batley and Spen will feel like a by-election gain for Labour - so how did they do it?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57692953</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57692953</guid>
-            <pubDate>Fri, 02 Jul 2021 10:18:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Batley and Spen: Fraught by-election concludes in dramatic fashion]]></title>
@@ -219,6 +212,13 @@
             <pubDate>Thu, 01 Jul 2021 23:00:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Don't judge me, I am human' - US sprint star Richardson banned for marijuana use]]></title>
+            <description><![CDATA[US sprinter Sha'Carri Richardson receives a one-month ban after testing positive for marijuana - and is set to miss the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/57692193</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57692193</guid>
+            <pubDate>Fri, 02 Jul 2021 13:26:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Austrian Grand Prix: Mercedes' Lewis Hamilton fastest in second practice]]></title>
             <description><![CDATA[Lewis Hamilton sets the pace in second practice at the Austrian Grand Prix to give Mercedes hope of clawing back some lost ground to Red Bull.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/57698809</link>
@@ -226,11 +226,11 @@
             <pubDate>Fri, 02 Jul 2021 15:18:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tour de France 2021: Matej Mohoric wins stage seven]]></title>
-            <description><![CDATA[Slovenian rider Matej Mohoric earned his first Tour de France victory with a fine breakaway win on stage seven.]]></description>
+            <title><![CDATA[Tour de France 2021: Matej Mohoric wins stage seven as Mathieu van der Poel extends overall lead]]></title>
+            <description><![CDATA[Slovenia's Matej Mohoric takes a fine solo victory on stage seven of the Tour de France as Mathieu van der Poel extends his lead in the yellow jersey.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/57700070</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57700070</guid>
-            <pubDate>Fri, 02 Jul 2021 15:14:02 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 16:02:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jones expects 'Trump-like confidence' from USA, with fly-half Smith set for England debut]]></title>
@@ -245,20 +245,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/57696939</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57696939</guid>
             <pubDate>Fri, 02 Jul 2021 12:28:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euros archive: Life before goalline technology - England v Ukraine in 2012]]></title>
-            <description><![CDATA[Relive the last time England faced Ukraine at the European Championship in 2012.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57695914</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57695914</guid>
-            <pubDate>Fri, 02 Jul 2021 10:19:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wimbledon 2021: Aryna Sabalenka eases past Maria Camila Osorio Serrano in third round]]></title>
-            <description><![CDATA[Watch the best shots as Belarus' Aryna Sabalenka progresses into round four at Wimbledon beating Colombia's Maria Camila Osorio Serrano in straight sets.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/tennis/57698280</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57698280</guid>
-            <pubDate>Fri, 02 Jul 2021 15:28:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AstraZeneca: Could you have had a jab from the Covishield batch?]]></title>
@@ -293,7 +279,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Fri, 02 Jul 2021 10:48:42 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 16:16:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[British Jews' fear and defiance amid record monthly anti-Semitism reports]]></title>
