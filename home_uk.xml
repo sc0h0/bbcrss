@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Jul 2021 16:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 17:01:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Fri, 02 Jul 2021 15:34:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: PM confident of no problem over India jab travel]]></title>
-            <description><![CDATA[The UK regulator has shared data on the Covishield jab with its European counterpart, No 10 says.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57695835</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57695835</guid>
-            <pubDate>Fri, 02 Jul 2021 15:17:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Prosecutors drop Troubles cases against ex-soldiers]]></title>
             <description><![CDATA[Two Army veterans had faced murder charges over deaths in Londonderry in 1972, including on Bloody Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57694417</link>
@@ -51,11 +44,18 @@
             <pubDate>Fri, 02 Jul 2021 16:13:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[David Gomoh stabbing: NHS worker killed at random by gang, Old Bailey told]]></title>
+            <description><![CDATA[David Gomoh died because he had the misfortune to live in an area frequented by gangs, a jury hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57698248</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57698248</guid>
+            <pubDate>Fri, 02 Jul 2021 15:49:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Michael Gove and Sarah Vine separating and 'finalising divorce']]></title>
             <description><![CDATA[The cabinet minister and his wife have "drifted apart" and "no-one else is involved", friends say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57699096</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57699096</guid>
-            <pubDate>Fri, 02 Jul 2021 16:19:57 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 16:44:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen Victoria and Elizabeth II's statues toppled]]></title>
@@ -65,18 +65,18 @@
             <pubDate>Fri, 02 Jul 2021 12:22:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: PM confident of no problem over India jab travel]]></title>
+            <description><![CDATA[The UK regulator has shared data on the Covishield jab with its European counterpart, No 10 says.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57695835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57695835</guid>
+            <pubDate>Fri, 02 Jul 2021 15:17:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Boeing 737 cargo jet crashes into sea off Honolulu, Hawaii]]></title>
             <description><![CDATA[The US Coast Guard reportedly rescues the two pilots of the plane, which crashed near Honolulu.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57697835</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57697835</guid>
-            <pubDate>Fri, 02 Jul 2021 16:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Gomoh stabbing: NHS worker killed at random by gang, Old Bailey told]]></title>
-            <description><![CDATA[David Gomoh died because he had the misfortune to live in an area frequented by gangs, a jury hears.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57698248</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57698248</guid>
-            <pubDate>Fri, 02 Jul 2021 15:49:34 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 16:48:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man charged with common assault after Chris Whitty incident]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Fri, 02 Jul 2021 10:44:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Murder probe after Oxford Circus stab victim dies]]></title>
-            <description><![CDATA[Officers want to speak to two young skateboarders who helped detain a suspect at the scene.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57697282</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57697282</guid>
-            <pubDate>Fri, 02 Jul 2021 12:56:13 GMT</pubDate>
+            <title><![CDATA[Vauxhall set to announce Ellesmere Port electric van]]></title>
+            <description><![CDATA[The news, which could be confirmed as early as next week, will safeguard more than 1,000 jobs at the at-risk plant.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57700749</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57700749</guid>
+            <pubDate>Fri, 02 Jul 2021 16:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Infections rising, but vaccines saving lives]]></title>
@@ -112,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/newsbeat-57688380</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57688380</guid>
             <pubDate>Fri, 02 Jul 2021 14:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft’s Windows 11 blue screen of death to become black]]></title>
-            <description><![CDATA[The new colour in the Windows 11 operating system matches the new black logon and shutdown screens.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57695586</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57695586</guid>
-            <pubDate>Fri, 02 Jul 2021 10:37:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine hesitancy: Your job or the jab?]]></title>
@@ -147,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57685213</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57685213</guid>
             <pubDate>Thu, 01 Jul 2021 14:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft’s Windows 11 blue screen of death to become black]]></title>
+            <description><![CDATA[The new colour in the Windows 11 operating system matches the new black logon and shutdown screens.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57695586</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57695586</guid>
+            <pubDate>Fri, 02 Jul 2021 10:37:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Personal Independence Payments: 'Have I less than six months to live?']]></title>
@@ -233,18 +233,18 @@
             <pubDate>Fri, 02 Jul 2021 16:02:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Derby County to play in Championship after EFL decide not to appeal against fine]]></title>
+            <description><![CDATA[Derby avoid relegation after the EFL choose not to appeal against a decision to just fine them for their accounting policies.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57701348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57701348</guid>
+            <pubDate>Fri, 02 Jul 2021 16:54:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jones expects 'Trump-like confidence' from USA, with fly-half Smith set for England debut]]></title>
             <description><![CDATA[Harlequins fly-half Marcus Smith makes his eagerly awaited England debut, with Gloucester's Lewis Ludlow captain against the United States on Sunday.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57695008</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57695008</guid>
             <pubDate>Fri, 02 Jul 2021 13:49:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Murray & Soares reach doubles second round at Wimbledon]]></title>
-            <description><![CDATA[Britain's Jamie Murray and Brazilian partner Bruno Soares are into the second round of the men's doubles at Wimbledon.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57696939</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57696939</guid>
-            <pubDate>Fri, 02 Jul 2021 12:28:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AstraZeneca: Could you have had a jab from the Covishield batch?]]></title>
