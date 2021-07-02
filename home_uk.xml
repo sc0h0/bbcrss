@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Jul 2021 15:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 15:37:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[Quarantine may be eased for fully vaccinated visitors to Germany from the UK, Angela Merkel says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57699000</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57699000</guid>
-            <pubDate>Fri, 02 Jul 2021 14:59:29 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 15:34:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: PM confident of no problem over India jab travel]]></title>
@@ -44,11 +44,11 @@
             <pubDate>Fri, 02 Jul 2021 15:01:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man charged with common assault after Chris Whitty incident]]></title>
-            <description><![CDATA[A group of men were seen accosting England's chief medical officer in a park on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57695301</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57695301</guid>
-            <pubDate>Fri, 02 Jul 2021 10:44:58 GMT</pubDate>
+            <title><![CDATA[Queen Victoria and Elizabeth II's statues toppled]]></title>
+            <description><![CDATA[Monuments are torn down in Manitoba at a protest over the deaths of indigenous Canadian children.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57693683</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57693683</guid>
+            <pubDate>Fri, 02 Jul 2021 12:22:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boeing 737 cargo jet crashes into sea off Honolulu, Hawaii]]></title>
@@ -58,18 +58,18 @@
             <pubDate>Fri, 02 Jul 2021 15:15:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man charged with common assault after Chris Whitty incident]]></title>
+            <description><![CDATA[A group of men were seen accosting England's chief medical officer in a park on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57695301</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57695301</guid>
+            <pubDate>Fri, 02 Jul 2021 10:44:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Love Island: ITV condemns death threats sent to contestant Chloe Burrows]]></title>
             <description><![CDATA[Messages sent to contestant Chloe Burrows online were "wholly unacceptable", the broadcaster says.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57687190</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57687190</guid>
             <pubDate>Fri, 02 Jul 2021 08:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Queen Victoria and Elizabeth II's statues toppled]]></title>
-            <description><![CDATA[Monuments are torn down in Manitoba at a protest over the deaths of indigenous Canadian children.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57693683</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57693683</guid>
-            <pubDate>Fri, 02 Jul 2021 12:22:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Murder probe after Oxford Circus stab victim dies]]></title>
@@ -107,6 +107,13 @@
             <pubDate>Fri, 02 Jul 2021 09:56:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Soul Cap: Afro swim cap Olympic rejection 'heartbreaking' for black swimmers]]></title>
+            <description><![CDATA[The governing body says Soul Caps are unsuitable as they don't follow "the natural form of the head".]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57688380</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57688380</guid>
+            <pubDate>Fri, 02 Jul 2021 14:27:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Microsoft’s Windows 11 blue screen of death to become black]]></title>
             <description><![CDATA[The new colour in the Windows 11 operating system matches the new black logon and shutdown screens.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57695586</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57686717</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57686717</guid>
             <pubDate>Thu, 01 Jul 2021 22:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soul Cap: Afro swim cap Olympic rejection 'heartbreaking' for black swimmers]]></title>
-            <description><![CDATA[The governing body says Soul Caps are unsuitable as they don't follow "the natural form of the head".]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57688380</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57688380</guid>
-            <pubDate>Fri, 02 Jul 2021 14:27:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lebanon’s ‘suffocating’ energy crisis]]></title>
@@ -223,7 +223,14 @@
             <description><![CDATA[Lewis Hamilton sets the pace in second practice at the Austrian Grand Prix to give Mercedes hope of clawing back some lost ground to Red Bull.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/57698809</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57698809</guid>
-            <pubDate>Fri, 02 Jul 2021 14:09:49 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 15:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tour de France 2021: Matej Mohoric wins stage seven]]></title>
+            <description><![CDATA[Slovenian rider Matej Mohoric earned his first Tour de France victory with a fine breakaway win on stage seven.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/57700070</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57700070</guid>
+            <pubDate>Fri, 02 Jul 2021 15:14:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jones expects 'Trump-like confidence' from USA, with fly-half Smith set for England debut]]></title>
@@ -245,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/57695914</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57695914</guid>
             <pubDate>Fri, 02 Jul 2021 10:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wimbledon 2021: Aryna Sabalenka eases past Maria Camila Osorio Serrano in third round]]></title>
+            <description><![CDATA[Watch the best shots as Belarus' Aryna Sabalenka progresses into round four at Wimbledon beating Colombia's Maria Camila Osorio Serrano in straight sets.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/57698280</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57698280</guid>
+            <pubDate>Fri, 02 Jul 2021 15:28:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AstraZeneca: Could you have had a jab from the Covishield batch?]]></title>
