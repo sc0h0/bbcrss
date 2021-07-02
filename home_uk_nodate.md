@@ -1,4 +1,4 @@
-1. [Batley and Spen by-election: Nail-biter for Labour as count gets under way](https://www.bbc.co.uk/news/uk-politics-57686817) - Leader Sir Keir Starmer is desperate not to suffer another by-election defeat by the Conservatives.
+1. [Labour hold Batley and Spen seat in by-election](https://www.bbc.co.uk/news/uk-politics-57691543) - Labour narrowly hold Batley and Spen after closely-fought by-election, seeing off challenge from Conservatives
 2. [NHS pay: England senior doctors could strike over 1% rise](https://www.bbc.co.uk/news/health-57690068) - Consultants will be consulted on industrial action if the 1% pay rise offer is not improved, says union.
 3. [Britney Spears: Financial firm asks to withdraw from conservatorship](https://www.bbc.co.uk/news/entertainment-arts-57687675) - The Bessemer Trust cites the pop star's testimony as the reason for leaving the arrangement.
 4. [Lorry driver shortage threatens Haribo sweets](https://www.bbc.co.uk/news/business-57690505) - The German confectionery giant is struggling to get supplies of Goldbears and Tangfastics to UK shops.
