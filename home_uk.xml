@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Jul 2021 17:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 18:26:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -77,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57697835</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57697835</guid>
             <pubDate>Fri, 02 Jul 2021 16:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man charged with common assault after Chris Whitty incident]]></title>
-            <description><![CDATA[A group of men were seen accosting England's chief medical officer in a park on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57695301</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57695301</guid>
-            <pubDate>Fri, 02 Jul 2021 10:44:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vauxhall set to announce Ellesmere Port electric van]]></title>
@@ -219,6 +212,13 @@
             <pubDate>Fri, 02 Jul 2021 13:26:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wimbledon 2021: Dan Evans loses to Sebastian Korda in third round]]></title>
+            <description><![CDATA[British number one Dan Evans sees his bid to reach the Wimbledon last 16 for the first time ended by American prodigy Sebastian Korda.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57702056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57702056</guid>
+            <pubDate>Fri, 02 Jul 2021 18:19:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Austrian Grand Prix: Mercedes' Lewis Hamilton fastest in second practice]]></title>
             <description><![CDATA[Lewis Hamilton sets the pace in second practice at the Austrian Grand Prix to give Mercedes hope of clawing back some lost ground to Red Bull.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/57698809</link>
@@ -226,25 +226,18 @@
             <pubDate>Fri, 02 Jul 2021 15:18:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tour de France 2021: Matej Mohoric wins stage seven as Mathieu van der Poel extends overall lead]]></title>
-            <description><![CDATA[Slovenia's Matej Mohoric takes a fine solo victory on stage seven of the Tour de France as Mathieu van der Poel extends his lead in the yellow jersey.]]></description>
-            <link>https://www.bbc.co.uk/sport/cycling/57700070</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57700070</guid>
-            <pubDate>Fri, 02 Jul 2021 16:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wimbledon 2021: Dan Evans loses to Sebastian Korda in third round]]></title>
-            <description><![CDATA[British number one Dan Evans sees his bid to reach the Wimbledon last 16 for the first time ended by American prodigy Sebastian Korda.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57702056</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57702056</guid>
-            <pubDate>Fri, 02 Jul 2021 17:48:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wimbledon 2021: Tunisia's Ons Jabeur knocks out Garbine Muguruza in third round]]></title>
             <description><![CDATA[Watch the highlights as Tunisia's Ons Jabeur defeats Spain's Gabine Muguruza by two sets to one in the third round at Wimbledon.]]></description>
             <link>https://www.bbc.co.uk/sport/av/tennis/57698285</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57698285</guid>
             <pubDate>Fri, 02 Jul 2021 16:43:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euros archive: Life before goalline technology - England v Ukraine in 2012]]></title>
+            <description><![CDATA[Relive the last time England faced Ukraine at the European Championship in 2012.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57695914</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57695914</guid>
+            <pubDate>Fri, 02 Jul 2021 10:19:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AstraZeneca: Could you have had a jab from the Covishield batch?]]></title>
