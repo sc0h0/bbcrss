@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Jul 2021 12:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 12:49:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Prosecutors drop Troubles cases against ex-soldiers]]></title>
-            <description><![CDATA[Two Army veterans had faced murder charges over deaths in Londonderry in 1972, including on Bloody Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57694417</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57694417</guid>
-            <pubDate>Fri, 02 Jul 2021 11:45:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Batley and Spen: Labour is back after by-election win, says Starmer]]></title>
             <description><![CDATA[Sir Keir Starmer hails Kim Leadbeater's victory in Batley and Spen as "just the start" for his party.]]></description>
@@ -30,18 +23,18 @@
             <pubDate>Fri, 02 Jul 2021 11:48:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Prosecutors drop Troubles cases against ex-soldiers]]></title>
+            <description><![CDATA[Two Army veterans had faced murder charges over deaths in Londonderry in 1972, including on Bloody Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57694417</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57694417</guid>
+            <pubDate>Fri, 02 Jul 2021 12:36:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man charged with common assault after Chris Whitty incident]]></title>
             <description><![CDATA[A group of men were seen accosting England's chief medical officer in a park on Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57695301</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57695301</guid>
             <pubDate>Fri, 02 Jul 2021 10:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saskia Jones: Family say event organisers should stand down]]></title>
-            <description><![CDATA[They say organisers of an event, where a convicted terrorist killed two people, should step down.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57671575</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57671575</guid>
-            <pubDate>Fri, 02 Jul 2021 05:00:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Love Island: ITV condemns death threats sent to contestant Chloe Burrows]]></title>
@@ -58,11 +51,18 @@
             <pubDate>Fri, 02 Jul 2021 12:03:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Asda to allow permanent hybrid working for offices]]></title>
-            <description><![CDATA[The supermarket says most of its 4,000 head office staff can choose to work at home or other locations.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57693065</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57693065</guid>
-            <pubDate>Fri, 02 Jul 2021 10:08:23 GMT</pubDate>
+            <title><![CDATA[Saskia Jones: Family say event organisers should stand down]]></title>
+            <description><![CDATA[They say organisers of an event, where a convicted terrorist killed two people, should step down.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57671575</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57671575</guid>
+            <pubDate>Fri, 02 Jul 2021 05:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Queen Victoria and Elizabeth II's statues toppled]]></title>
+            <description><![CDATA[Monuments are torn down in Manitoba at a protest over the deaths of indigenous Canadian children.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57693683</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57693683</guid>
+            <pubDate>Fri, 02 Jul 2021 12:22:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bagram: Last US and Nato forces leave key Afghanistan base]]></title>
@@ -70,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-57692303</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57692303</guid>
             <pubDate>Fri, 02 Jul 2021 11:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asda to allow permanent hybrid working for offices]]></title>
+            <description><![CDATA[The supermarket says most of its 4,000 head office staff can choose to work at home or other locations.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57693065</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57693065</guid>
+            <pubDate>Fri, 02 Jul 2021 10:08:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microsoft’s Windows 11 blue screen of death to become black]]></title>
@@ -84,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-leeds-57693843</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57693843</guid>
             <pubDate>Fri, 02 Jul 2021 09:56:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strolling crocodile sparks panic in India village]]></title>
+            <description><![CDATA[Wildlife officials caught the animal and released it into a nearby river.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57691731</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57691731</guid>
+            <pubDate>Fri, 02 Jul 2021 04:53:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine hesitancy: Your job or the jab?]]></title>
@@ -119,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57690055</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57690055</guid>
             <pubDate>Fri, 02 Jul 2021 05:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: The England fan who invited Stormzy round after the Germany game]]></title>
-            <description><![CDATA[Conal O'Leary was watching the football with his mates when Stormzy turned up.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57684981</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57684981</guid>
-            <pubDate>Thu, 01 Jul 2021 15:20:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami building collapse: 'People went to sleep, and then they died']]></title>
@@ -219,11 +226,11 @@
             <pubDate>Fri, 02 Jul 2021 10:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Norwich sign Chelsea and Scotland midfielder Gilmour on loan]]></title>
-            <description><![CDATA[Norwich City sign Scotland midfielder Billy Gilmour on a season-long from Chelsea.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57692813</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57692813</guid>
-            <pubDate>Fri, 02 Jul 2021 10:02:39 GMT</pubDate>
+            <title><![CDATA[Three police officers face misconduct hearings over Williams stop and search]]></title>
+            <description><![CDATA[Athlete Bianca Williams and her partner were handcuffed and searched outside her London home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57679756</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57679756</guid>
+            <pubDate>Fri, 02 Jul 2021 11:48:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wimbledon 2021: Roger Federer, Coco Gauff and Daniil Medvedev in day four best bits]]></title>
@@ -247,11 +254,11 @@
             <pubDate>Thu, 01 Jul 2021 20:47:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wimbledon 2021: Emma Raducanu beats Marketa Vondrousova - best shots]]></title>
-            <description><![CDATA[Watch the best shots as 18-year-old British wildcard Emma Raducanu beats Marketa Vondrousova to reach the third round of Wimbledon.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/tennis/57690135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57690135</guid>
-            <pubDate>Thu, 01 Jul 2021 20:29:41 GMT</pubDate>
+            <title><![CDATA[AstraZeneca: Could you have had a jab from the Covishield batch?]]></title>
+            <description><![CDATA[If you received an Indian-made version of the AstraZeneca vaccine, could it affect your ability to go abroad?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-57665765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57665765</guid>
+            <pubDate>Fri, 02 Jul 2021 11:17:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 and Covid: How can I watch with my friends?]]></title>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/news/uk-57386719</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57386719</guid>
             <pubDate>Thu, 01 Jul 2021 14:56:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AstraZeneca: Could you have had a jab from the Covishield batch?]]></title>
-            <description><![CDATA[If you received an Indian-made version of the AstraZeneca vaccine, could it affect your ability to go abroad?]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-57665765</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57665765</guid>
-            <pubDate>Fri, 02 Jul 2021 11:17:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the social distancing rules and when could they end?]]></title>
