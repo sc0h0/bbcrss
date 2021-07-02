@@ -1,7 +1,7 @@
 1. [Batley and Spen: Labour is back after by-election win, says Starmer](https://www.bbc.co.uk/news/uk-politics-57696431) - Sir Keir Starmer hails Kim Leadbeater's victory in Batley and Spen as "just the start" for his party.
 2. [Angela Merkel hopes to open up travel for double-jabbed visitors to Germany](https://www.bbc.co.uk/news/uk-57699000) - Quarantine may be eased for fully vaccinated visitors to Germany from the UK, Angela Merkel says.
 3. [Italy edge Belgium to set up Spain semi-final](https://www.bbc.co.uk/sport/football/51198657) - Italy set up a Euro 2020 semi-final match with Spain after edging an exhilarating tie with Belgium in Munich.
-4. [Boeing 737 cargo jet crashes into sea off Honolulu, Hawaii](https://www.bbc.co.uk/news/world-us-canada-57697835) - The US Coast Guard reportedly rescues the two pilots of the plane, which crashed near Honolulu.
+4. [Boeing 737 cargo jet ditches into sea off Honolulu, Hawaii](https://www.bbc.co.uk/news/world-us-canada-57697835) - The US Coast Guard rescues the two pilots of the plane, which went into the water near Honolulu.
 5. [Andy Murray out of Wimbledon in third round](https://www.bbc.co.uk/sport/tennis/57702056) - Andy Murray's Wimbledon run comes to an end after losing to Canadian 10th seed Denis Shapovalov, while Dan Evans is also out.
 6. [David Gomoh stabbing: NHS worker killed at random by gang, Old Bailey told](https://www.bbc.co.uk/news/uk-england-london-57698248) - David Gomoh died because he had the misfortune to live in an area frequented by gangs, a jury hears.
 7. [Michael Gove and Sarah Vine separating and 'finalising divorce'](https://www.bbc.co.uk/news/uk-politics-57699096) - The cabinet minister and his wife have "drifted apart" and "no-one else is involved", friends say.
