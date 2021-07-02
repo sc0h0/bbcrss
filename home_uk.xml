@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Jul 2021 20:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 20:46:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-57698518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57698518</guid>
             <pubDate>Fri, 02 Jul 2021 16:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Murray out of Wimbledon in third round]]></title>
+            <description><![CDATA[Andy Murray's inspiring Wimbledon run comes to an end after losing to Canadian 10th seed Denis Shapovalov, while Dan Evans is also out.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57702056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57702056</guid>
+            <pubDate>Fri, 02 Jul 2021 20:39:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[David Gomoh stabbing: NHS worker killed at random by gang, Old Bailey told]]></title>
@@ -224,20 +231,6 @@
             <link>https://www.bbc.co.uk/sport/athletics/57692193</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57692193</guid>
             <pubDate>Fri, 02 Jul 2021 13:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wimbledon 2021: Dan Evans loses to Sebastian Korda in third round]]></title>
-            <description><![CDATA[British number one Dan Evans sees his bid to reach the Wimbledon last 16 for the first time ended by American prodigy Sebastian Korda.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57702056</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57702056</guid>
-            <pubDate>Fri, 02 Jul 2021 18:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Austrian Grand Prix: Mercedes' Lewis Hamilton fastest in second practice]]></title>
-            <description><![CDATA[Lewis Hamilton sets the pace in second practice at the Austrian Grand Prix to give Mercedes hope of clawing back some lost ground to Red Bull.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57698809</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57698809</guid>
-            <pubDate>Fri, 02 Jul 2021 15:18:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Spain beat 10-man Switzerland on penalties to reach semi-finals]]></title>
