@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Jul 2021 13:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 14:09:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,18 @@
             <pubDate>Fri, 02 Jul 2021 10:44:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: UK shares India jab data with EU amid travel fears]]></title>
-            <description><![CDATA[Boris Johnson is confident there will "not be a problem" with EU travel for those given Covishield jabs.]]></description>
+            <title><![CDATA[Angela Merkel hopes to open up travel for double-jabbed visitors to Germany]]></title>
+            <description><![CDATA[Quarantine may be eased for fully vaccinated visitors to Germany from the UK, Angela Merkel says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57699000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57699000</guid>
+            <pubDate>Fri, 02 Jul 2021 14:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: PM confident of no problem over India jab travel]]></title>
+            <description><![CDATA[The UK regulator has shared data on the Covishield jab with its European counterpart, No 10 says.]]></description>
             <link>https://www.bbc.co.uk/news/health-57695835</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57695835</guid>
-            <pubDate>Fri, 02 Jul 2021 13:52:45 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 14:06:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Love Island: ITV condemns death threats sent to contestant Chloe Burrows]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57693683</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57693683</guid>
             <pubDate>Fri, 02 Jul 2021 12:22:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson discusses travel curbs with Angela Merkel on final UK visit]]></title>
-            <description><![CDATA[The German chancellor has previously suggested all UK travellers to Europe should have to quarantine.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57686826</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57686826</guid>
-            <pubDate>Fri, 02 Jul 2021 12:44:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Murder probe after Oxford Circus stab victim dies]]></title>
@@ -114,6 +114,13 @@
             <pubDate>Thu, 01 Jul 2021 22:52:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Soul Cap: Afro swim cap Olympic rejection 'heartbreaking' for black swimmers]]></title>
+            <description><![CDATA[The governing body says Soul Caps are unsuitable as they don't follow "the natural form of the head".]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57688380</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57688380</guid>
+            <pubDate>Fri, 02 Jul 2021 13:51:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lebanon’s ‘suffocating’ energy crisis]]></title>
             <description><![CDATA[Six-year-old Sedra is one of the people whose lives have been put at risk by the country's energy crisis.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57685203</link>
@@ -135,18 +142,11 @@
             <pubDate>Thu, 01 Jul 2021 23:01:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Miami building collapse: 'People went to sleep, and then they died']]></title>
-            <description><![CDATA[Both the mother and grandmother of Pablo Rodríguez were in the building when it fell. Now, he wants answers.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57674422</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57674422</guid>
-            <pubDate>Wed, 30 Jun 2021 23:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Los Angeles fireworks explosion: Truck goes up in flames as police seize fireworks]]></title>
-            <description><![CDATA[A truck filled with 2,000kg of fireworks goes up in flames, injuring at least 17 people in Los Angeles.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57682375</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57682375</guid>
-            <pubDate>Thu, 01 Jul 2021 11:43:00 GMT</pubDate>
+            <title><![CDATA[Euro 2020: The fans who will be at the England v Ukraine match]]></title>
+            <description><![CDATA[England fans with tickets for Saturday's quarter-final tell us how they've managed to get there.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57652630</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57652630</guid>
+            <pubDate>Fri, 02 Jul 2021 12:25:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parents of children called Alexa challenge Amazon]]></title>
@@ -154,13 +154,6 @@
             <link>https://www.bbc.co.uk/news/technology-57680173</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57680173</guid>
             <pubDate>Thu, 01 Jul 2021 23:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: The fans who will be at the England v Ukraine match]]></title>
-            <description><![CDATA[England fans with tickets for Saturday's quarter-final tell us how they've managed to get there.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57652630</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57652630</guid>
-            <pubDate>Fri, 02 Jul 2021 12:25:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Batley and Spen: How Labour held on - and what it means for Sir Keir Starmer]]></title>
@@ -212,13 +205,6 @@
             <pubDate>Thu, 01 Jul 2021 23:00:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fear Street and Goosebumps author RL Stine: 'I find horror very funny']]></title>
-            <description><![CDATA[He says it was a "shock" seeing Fear Street being adapted for a grown-up audience on Netflix.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57663046</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57663046</guid>
-            <pubDate>Thu, 01 Jul 2021 23:40:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Austrian Grand Prix: Red Bull's Max Verstappen fastest in first practice]]></title>
             <description><![CDATA[Red Bull's Max Verstappen sets the pace in first practice at the Austrian Grand Prix, with title rival Lewis Hamilton's Mercedes down in seventh.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/57695313</link>
@@ -226,7 +212,7 @@
             <pubDate>Fri, 02 Jul 2021 10:44:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Harlequins fly-half Smith to make England debut against USA]]></title>
+            <title><![CDATA[Jones expects 'Trump-like confidence' from USA, with fly-half Smith set for England debut]]></title>
             <description><![CDATA[Harlequins fly-half Marcus Smith makes his eagerly awaited England debut, with Gloucester's Lewis Ludlow captain against the United States on Sunday.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57695008</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57695008</guid>
