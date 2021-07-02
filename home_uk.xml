@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Jul 2021 14:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jul 2021 14:37:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,20 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57696431</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57696431</guid>
             <pubDate>Fri, 02 Jul 2021 13:36:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angela Merkel hopes to open up travel for double-jabbed visitors to Germany]]></title>
+            <description><![CDATA[Quarantine may be eased for fully vaccinated visitors to Germany from the UK, Angela Merkel says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57699000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57699000</guid>
+            <pubDate>Fri, 02 Jul 2021 14:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: PM confident of no problem over India jab travel]]></title>
+            <description><![CDATA[The UK regulator has shared data on the Covishield jab with its European counterpart, No 10 says.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57695835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57695835</guid>
+            <pubDate>Fri, 02 Jul 2021 14:30:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prosecutors drop Troubles cases against ex-soldiers]]></title>
@@ -35,20 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-57695301</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57695301</guid>
             <pubDate>Fri, 02 Jul 2021 10:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angela Merkel hopes to open up travel for double-jabbed visitors to Germany]]></title>
-            <description><![CDATA[Quarantine may be eased for fully vaccinated visitors to Germany from the UK, Angela Merkel says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57699000</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57699000</guid>
-            <pubDate>Fri, 02 Jul 2021 14:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: PM confident of no problem over India jab travel]]></title>
-            <description><![CDATA[The UK regulator has shared data on the Covishield jab with its European counterpart, No 10 says.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57695835</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57695835</guid>
-            <pubDate>Fri, 02 Jul 2021 14:06:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Love Island: ITV condemns death threats sent to contestant Chloe Burrows]]></title>
@@ -87,7 +87,7 @@
         </item>
         <item>
             <title><![CDATA[BBC Bitesize edits page to remove list of climate change 'benefits']]></title>
-            <description><![CDATA[The education site had listed "healthier outdoor lifestyles" as one pluses of warmer temperatures.]]></description>
+            <description><![CDATA[The education site had listed "healthier outdoor lifestyles" as one plus of warmer temperatures.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57697875</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57697875</guid>
             <pubDate>Fri, 02 Jul 2021 14:10:49 GMT</pubDate>
@@ -125,7 +125,7 @@
             <description><![CDATA[The governing body says Soul Caps are unsuitable as they don't follow "the natural form of the head".]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57688380</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57688380</guid>
-            <pubDate>Fri, 02 Jul 2021 13:51:12 GMT</pubDate>
+            <pubDate>Fri, 02 Jul 2021 14:27:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lebanon’s ‘suffocating’ energy crisis]]></title>
@@ -233,13 +233,6 @@
             <pubDate>Fri, 02 Jul 2021 12:28:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wimbledon 2021: Roger Federer, Coco Gauff and Daniil Medvedev in day four best bits]]></title>
-            <description><![CDATA[Watch some of the best bits from day four at Wimbledon including an incredible shot by Coco Gauff and a pocket mishap on court two.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/tennis/57686362</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57686362</guid>
-            <pubDate>Thu, 01 Jul 2021 19:22:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Euros archive: Life before goalline technology - England v Ukraine in 2012]]></title>
             <description><![CDATA[Relive the last time England faced Ukraine at the European Championship in 2012.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57695914</link>
@@ -252,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/av/tennis/57698276</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57698276</guid>
             <pubDate>Fri, 02 Jul 2021 12:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wimbledon 2021: Roger Federer, Coco Gauff and Daniil Medvedev in day four best bits]]></title>
+            <description><![CDATA[Watch some of the best bits from day four at Wimbledon including an incredible shot by Coco Gauff and a pocket mishap on court two.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/57686362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57686362</guid>
+            <pubDate>Thu, 01 Jul 2021 19:22:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AstraZeneca: Could you have had a jab from the Covishield batch?]]></title>
