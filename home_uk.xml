@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jul 2021 04:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 04:48:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/sport/football/51198691</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198691</guid>
             <pubDate>Fri, 02 Jul 2021 21:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Keep some restrictions after 19 July, BMA doctors say]]></title>
+            <description><![CDATA[An "alarming" rise in cases means some restrictions in England should remain, the British Medical Association says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57703959</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57703959</guid>
+            <pubDate>Sat, 03 Jul 2021 04:22:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canada heatwave: Lightning strikes fuel wildfires in British Columbia]]></title>
@@ -72,13 +79,6 @@
             <pubDate>Sat, 03 Jul 2021 03:27:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Angela Merkel hopes to open up travel for double-jabbed visitors to Germany]]></title>
-            <description><![CDATA[Quarantine may be eased for fully vaccinated visitors to Germany from the UK, Angela Merkel says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57699000</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57699000</guid>
-            <pubDate>Fri, 02 Jul 2021 15:34:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Belarus closes border to Ukraine over coup claim]]></title>
             <description><![CDATA[President Alexander Lukashenko claims he has uncovered a foreign plot to overthrow his regime.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57702516</link>
@@ -111,7 +111,7 @@
             <description><![CDATA[Saturday's papers feature reports about what life could look like for those given two Covid vaccines.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57703809</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57703809</guid>
-            <pubDate>Fri, 02 Jul 2021 23:12:34 GMT</pubDate>
+            <pubDate>Sat, 03 Jul 2021 04:39:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I used drugs every day in lockdown, but now I'm drug-free']]></title>
