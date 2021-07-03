@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jul 2021 22:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 23:19:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,20 @@
             <link>https://www.bbc.co.uk/sport/football/51198691</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198691</guid>
             <pubDate>Sat, 03 Jul 2021 21:38:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England into Euro 2020 semi-final: 'England fans transported to unfamiliar world']]></title>
+            <description><![CDATA[Watching England is not meant to be like this, but Gareth Southgate has got fans believing, writes Phil McNulty.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57709659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57709659</guid>
+            <pubDate>Sat, 03 Jul 2021 22:52:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Charles reveals favourite songs in radio show to thank volunteers]]></title>
+            <description><![CDATA[The future king highlights one 1970s pop hit which gave him "an irresistible urge to dance".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57709443</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57709443</guid>
+            <pubDate>Sat, 03 Jul 2021 22:08:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami building collapse: Demolition date brought forward]]></title>
@@ -37,25 +51,11 @@
             <pubDate>Sat, 03 Jul 2021 14:51:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Charles reveals favourite songs in radio show to thank volunteers]]></title>
-            <description><![CDATA[The future king highlights one 1970s pop hit which gave him "an irresistible urge to dance".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57709443</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57709443</guid>
-            <pubDate>Sat, 03 Jul 2021 22:08:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Caution needed over double-jab exemption - expert]]></title>
             <description><![CDATA[A psychologist warns ending isolation orders for fully vaccinated people could lead to resentment.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57708588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57708588</guid>
             <pubDate>Sat, 03 Jul 2021 17:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europe migrant crisis: Boat sinks off Tunisia drowning 43]]></title>
-            <description><![CDATA[Another 84 migrants were rescued after their boat capsized in a bid to sail from Libya to Europe.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57708064</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57708064</guid>
-            <pubDate>Sat, 03 Jul 2021 15:04:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Czech Republic 1-2 Denmark: Impressive Danes reach semi-finals]]></title>
@@ -79,6 +79,13 @@
             <pubDate>Sat, 03 Jul 2021 16:36:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Critically endangered antelope saiga makes comeback]]></title>
+            <description><![CDATA[The population of the rare saiga has more than doubled since 2019, reversing a slide towards extinction.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57688320</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57688320</guid>
+            <pubDate>Sat, 03 Jul 2021 23:08:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Swedish Coop supermarkets shut due to US ransomware cyber-attack]]></title>
             <description><![CDATA[Some 500 stores are forced to close due to the ripple effects of a major cyber attack in the US.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57707530</link>
@@ -100,11 +107,18 @@
             <pubDate>Sat, 03 Jul 2021 17:51:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Papers: Mask laws 'to be axed', and 'Lions roar in Rome']]></title>
+            <description><![CDATA[Sunday's papers look ahead to lockdown lifting in England on 19 July, and celebrate the football win.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57710107</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57710107</guid>
+            <pubDate>Sat, 03 Jul 2021 22:55:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ukraine v England pictures: Fans jubilant as Three Lions soar in Rome]]></title>
             <description><![CDATA[Fans celebrate as England head for the Euro 2020 semi-finals after beating Ukraine.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57707677</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57707677</guid>
-            <pubDate>Sat, 03 Jul 2021 21:49:31 GMT</pubDate>
+            <pubDate>Sat, 03 Jul 2021 23:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Norfolk seal inscription mystery solved by US man on Twitter]]></title>
@@ -279,7 +293,7 @@
             <description><![CDATA[England are not settling for a semi-final spot at Euro 2020 after they reach the last four by thrashing Ukraine, says Gareth Southgate.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57707754</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57707754</guid>
-            <pubDate>Sat, 03 Jul 2021 22:24:53 GMT</pubDate>
+            <pubDate>Sat, 03 Jul 2021 23:04:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Highlights: England thrash Ukraine to reach semi-finals]]></title>
@@ -287,6 +301,20 @@
             <link>https://www.bbc.co.uk/sport/av/football/57709899</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57709899</guid>
             <pubDate>Sat, 03 Jul 2021 21:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England at Euro 2020: 'Something special is happening']]></title>
+            <description><![CDATA[Former England captain Alan Shearer believes "something special is happening" as Gareth Southgate's side reach the Euro 2020 semi-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57710205</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57710205</guid>
+            <pubDate>Sat, 03 Jul 2021 22:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England beat Ukraine: how social media reacted]]></title>
+            <description><![CDATA[England strolled into the semi-finals of Euro 2020 with a 4-0 win over Ukraine. Here's how it unfolded on social media.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57709903</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57709903</guid>
+            <pubDate>Sat, 03 Jul 2021 22:08:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Ukraine v England - how you rated the players]]></title>
