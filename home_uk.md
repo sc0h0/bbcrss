@@ -1,4 +1,4 @@
-1. [Morrisons: Supermarket agrees £6.3bn takeover](https://www.bbc.co.uk/news/business-57705253) - Sat, 03 Jul 2021 13:23:36 GMT - The UK's fourth largest supermarket accepts an offer from the US owner of Majestic Wine.
+1. [Morrisons: Supermarket agrees £6.3bn takeover](https://www.bbc.co.uk/news/business-57705253) - Sat, 03 Jul 2021 13:36:34 GMT - The UK's fourth largest supermarket accepts an offer from the US owner of Majestic Wine.
 2. [Covid: Doctors want to keep some measures after 19 July](https://www.bbc.co.uk/news/uk-57703959) - Sat, 03 Jul 2021 11:19:13 GMT - Ministers are considering allowing fully vaccinated people to avoid isolation if exposed to Covid.
 3. [Japan landslide: 20 missing in Atami city](https://www.bbc.co.uk/news/world-asia-57704967) - Sat, 03 Jul 2021 13:08:50 GMT - The government is dispatching an emergency task force to the area around Atami, which has seen heavy rain.
 4. [Vatican embezzlement trial: Cardinal Angelo Becciu among 10 charged](https://www.bbc.co.uk/news/world-europe-57706618) - Sat, 03 Jul 2021 12:44:13 GMT - Angelo Becciu, a former aide to the Pope, is among 10 people a Vatican judge says must stand trial.
