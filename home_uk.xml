@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jul 2021 10:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 11:14:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Ukraine v England: Three Lions travel to Rome for Euro 2020 quarter-final]]></title>
-            <description><![CDATA[England will attempt to qualify for their first European Championship semi-final for 25 years when they face Ukraine at Euro 2020 on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/51198691</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198691</guid>
-            <pubDate>Fri, 02 Jul 2021 21:10:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Covid: Doctors want to keep some measures after 19 July]]></title>
             <description><![CDATA[Ministers are considering allowing fully vaccinated people to avoid isolation if exposed to Covid.]]></description>
@@ -72,6 +65,13 @@
             <pubDate>Sat, 03 Jul 2021 10:36:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Contact tracers to prioritise 'high risk' cases]]></title>
+            <description><![CDATA[Staff will only call the most urgent cases, while text messages will be used for those deemed low risk.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57705375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57705375</guid>
+            <pubDate>Sat, 03 Jul 2021 10:07:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Miami building collapse: Firefighter's 7-year-old daughter found dead]]></title>
             <description><![CDATA[The girl's father used his jacket to cover her body, placed a small US flag over her and carried her away.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57699656</link>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-57702498</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57702498</guid>
             <pubDate>Sat, 03 Jul 2021 09:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belfast murals: Dan Kitchener street graffiti inspired by Japanese art]]></title>
+            <description><![CDATA[A renowned street artist explains the Japanese-inspired mural he's created in Belfast.]]></description>
+            <link>https://www.bbc.co.uk/news/57663446</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/57663446</guid>
+            <pubDate>Sat, 03 Jul 2021 06:19:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pilot remarkably calm as his Boeing 737 plunges into sea]]></title>
@@ -219,11 +226,11 @@
             <pubDate>Thu, 01 Jul 2021 23:34:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['A signal Italy are here to win Euro 2020' - but agony for 'irreplaceable' Spinazzola]]></title>
-            <description><![CDATA[There has been no better team than Italy at Euro 2020 and they are now two games from glory after dumping out Belgium - so how far can they go?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57703580</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57703580</guid>
-            <pubDate>Fri, 02 Jul 2021 22:35:58 GMT</pubDate>
+            <title><![CDATA[Ukraine stand in way of England and a first Euro semi-final in 25 years]]></title>
+            <description><![CDATA[England will attempt to qualify for their first European Championship semi-final for 25 years when they face Ukraine at Euro 2020 on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51198691</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198691</guid>
+            <pubDate>Fri, 02 Jul 2021 21:10:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wimbledon 2021: Britain's Andy Murray loses in straight sets to Canada's Denis Shapovalov]]></title>
@@ -245,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/57703629</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57703629</guid>
             <pubDate>Fri, 02 Jul 2021 22:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['A signal Italy are here to win Euro 2020' - but agony for 'irreplaceable' Spinazzola]]></title>
+            <description><![CDATA[There has been no better team than Italy at Euro 2020 and they are now two games from glory after dumping out Belgium - so how far can they go?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57703580</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57703580</guid>
+            <pubDate>Fri, 02 Jul 2021 22:35:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Exciting' midfield duo to start first Tour match as Lions hope Jones can return for Tests]]></title>
