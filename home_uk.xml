@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jul 2021 10:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 10:53:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,25 +37,18 @@
             <pubDate>Sat, 03 Jul 2021 10:00:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US companies hit by 'colossal' cyber-attack]]></title>
-            <description><![CDATA[A cyber-security firm says it believes the Russia-linked REvil ransomware gang is responsible.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57703836</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57703836</guid>
-            <pubDate>Sat, 03 Jul 2021 07:37:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Doctors urge PM to keep measures after 19 July, and celebrities in jab campaign film]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Saturday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57703822</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57703822</guid>
-            <pubDate>Sat, 03 Jul 2021 08:23:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Japan landslide: 20 missing in Atami city]]></title>
             <description><![CDATA[The government is dispatching an emergency task force to the area around Atami, which has seen heavy rain.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57704967</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57704967</guid>
             <pubDate>Sat, 03 Jul 2021 09:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US companies hit by 'colossal' cyber-attack]]></title>
+            <description><![CDATA[A cyber-security firm says it believes the Russia-linked REvil ransomware gang is responsible.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57703836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57703836</guid>
+            <pubDate>Sat, 03 Jul 2021 07:37:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lewis Hamilton: Mercedes driver signs new two-year deal]]></title>
@@ -65,18 +58,11 @@
             <pubDate>Sat, 03 Jul 2021 08:55:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pilot remarkably calm as his Boeing 737 plunges into sea]]></title>
-            <description><![CDATA[Two pilots are in a stable condition after coast guards rescued them off the coast of Hawaii.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57704138</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57704138</guid>
-            <pubDate>Sat, 03 Jul 2021 00:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miami building collapse: Firefighter's 7-year-old daughter found dead]]></title>
-            <description><![CDATA[The girl's father used his jacket to cover her body, placed a small US flag over her and carried her away.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57699656</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57699656</guid>
-            <pubDate>Sat, 03 Jul 2021 03:27:05 GMT</pubDate>
+            <title><![CDATA[Canada heatwave: Lightning triggers wildfires in British Columbia]]></title>
+            <description><![CDATA[Military aircraft are mobilised as fires burn across British Columbia following a record-breaking heatwave.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57703853</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57703853</guid>
+            <pubDate>Sat, 03 Jul 2021 03:59:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oxford Circus stabbing: Man charged with murder]]></title>
@@ -84,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-57705785</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57705785</guid>
             <pubDate>Sat, 03 Jul 2021 10:36:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miami building collapse: Firefighter's 7-year-old daughter found dead]]></title>
+            <description><![CDATA[The girl's father used his jacket to cover her body, placed a small US flag over her and carried her away.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57699656</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57699656</guid>
+            <pubDate>Sat, 03 Jul 2021 03:27:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England bowler Ollie Robinson suspended for eight matches for past racist and sexist tweets]]></title>
@@ -107,18 +100,18 @@
             <pubDate>Sat, 03 Jul 2021 09:04:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pilot remarkably calm as his Boeing 737 plunges into sea]]></title>
+            <description><![CDATA[Two pilots are in a stable condition after coast guards rescued them off the coast of Hawaii.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57704138</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57704138</guid>
+            <pubDate>Sat, 03 Jul 2021 00:29:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The cat with more than 50,000 social media followers]]></title>
             <description><![CDATA[Pet influencers have become the latest social media stars with the pandemic fuelling content demand.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57678337</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57678337</guid>
             <pubDate>Fri, 02 Jul 2021 23:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: Quarantine 'to end' for fully jabbed, and 'Yes we Kane']]></title>
-            <description><![CDATA[Saturday's papers feature reports about what life could look like for those given two Covid vaccines.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57703809</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57703809</guid>
-            <pubDate>Sat, 03 Jul 2021 04:39:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I used drugs every day in lockdown, but now I'm drug-free']]></title>
@@ -149,6 +142,13 @@
             <pubDate>Sat, 03 Jul 2021 00:13:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Papers: Quarantine 'to end' for fully jabbed, and 'Yes we Kane']]></title>
+            <description><![CDATA[Saturday's papers feature reports about what life could look like for those given two Covid vaccines.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57703809</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57703809</guid>
+            <pubDate>Sat, 03 Jul 2021 04:39:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vaccine hesitancy: Your job or the jab?]]></title>
             <description><![CDATA[Health workers once on the frontline of the pandemic are now embroiled in a row over vaccine mandates.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57686717</link>
@@ -161,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57690165</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57690165</guid>
             <pubDate>Fri, 02 Jul 2021 23:17:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wimbledon 2021: Andy Murray on losing to Denis Shapovalov]]></title>
+            <description><![CDATA[Andy Murray says he needs to weigh up "if all the hard work is worth it" after an encouraging run at Wimbledon is ended by Canada's Denis Shapovalov.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57703444</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57703444</guid>
+            <pubDate>Fri, 02 Jul 2021 22:34:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Then and now: Arctic sea-ice feeling the heat]]></title>
@@ -212,11 +219,11 @@
             <pubDate>Thu, 01 Jul 2021 23:34:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Is the hard work worth it?' - Murray questions future after Wimbledon exit]]></title>
-            <description><![CDATA[Andy Murray says he needs to weigh up "if all the hard work is worth it" after an encouraging run at Wimbledon is ended by Canada's Denis Shapovalov.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57703444</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57703444</guid>
-            <pubDate>Fri, 02 Jul 2021 22:34:23 GMT</pubDate>
+            <title><![CDATA['A signal Italy are here to win Euro 2020' - but agony for 'irreplaceable' Spinazzola]]></title>
+            <description><![CDATA[There has been no better team than Italy at Euro 2020 and they are now two games from glory after dumping out Belgium - so how far can they go?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57703580</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57703580</guid>
+            <pubDate>Fri, 02 Jul 2021 22:35:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wimbledon 2021: Britain's Andy Murray loses in straight sets to Canada's Denis Shapovalov]]></title>
@@ -238,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/57703629</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57703629</guid>
             <pubDate>Fri, 02 Jul 2021 22:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Exciting' midfield duo to start first Tour match as Lions hope Jones can return for Tests]]></title>
+            <description><![CDATA[Alun Wyn Jones has the credentials to defy the odds and return for the British and Irish Lions Test series against South Africa, kicking coach Neil Jenkins says.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57689876</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57689876</guid>
+            <pubDate>Fri, 02 Jul 2021 16:59:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When in Rome... The England fans who will be at the match]]></title>
