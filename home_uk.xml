@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jul 2021 01:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 02:01:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Sat, 03 Jul 2021 00:29:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Andy Murray out of Wimbledon in third round]]></title>
-            <description><![CDATA[Andy Murray's Wimbledon run comes to an end after losing to Canadian 10th seed Denis Shapovalov, while Dan Evans is also out.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57702056</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57702056</guid>
-            <pubDate>Fri, 02 Jul 2021 21:15:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Broadbent and Walliams in Covid jab campaign film]]></title>
             <description><![CDATA[The video, set to the tune The Rhythm Of Life from Sweet Charity, encourages people to get their jabs.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57702498</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57702498</guid>
             <pubDate>Fri, 02 Jul 2021 23:50:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Murray out of Wimbledon in third round]]></title>
+            <description><![CDATA[Andy Murray's Wimbledon run comes to an end after losing to Canadian 10th seed Denis Shapovalov, while Dan Evans is also out.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57702056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57702056</guid>
+            <pubDate>Fri, 02 Jul 2021 21:15:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Angela Merkel hopes to open up travel for double-jabbed visitors to Germany]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Fri, 02 Jul 2021 15:34:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Italy edge Belgium to set up Spain semi-final]]></title>
-            <description><![CDATA[Italy set up a Euro 2020 semi-final match with Spain after edging an exhilarating tie with Belgium in Munich.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/51198657</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198657</guid>
-            <pubDate>Fri, 02 Jul 2021 21:32:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Belarus closes border to Ukraine over coup claim]]></title>
             <description><![CDATA[President Alexander Lukashenko claims he has uncovered a foreign plot to overthrow his regime.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57702516</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57702516</guid>
             <pubDate>Fri, 02 Jul 2021 22:28:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael Gove and Sarah Vine separating and 'finalising divorce']]></title>
+            <description><![CDATA[The cabinet minister and his wife have "drifted apart" and "no-one else is involved", friends say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57699096</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57699096</guid>
+            <pubDate>Fri, 02 Jul 2021 17:31:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Croydon stabbing: Teen arrested after 16-year-old killed]]></title>
@@ -93,11 +93,11 @@
             <pubDate>Fri, 02 Jul 2021 20:55:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Michael Gove and Sarah Vine separating and 'finalising divorce']]></title>
-            <description><![CDATA[The cabinet minister and his wife have "drifted apart" and "no-one else is involved", friends say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57699096</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57699096</guid>
-            <pubDate>Fri, 02 Jul 2021 17:31:05 GMT</pubDate>
+            <title><![CDATA[Italy edge Belgium to set up Spain semi-final]]></title>
+            <description><![CDATA[Italy set up a Euro 2020 semi-final match with Spain after edging an exhilarating tie with Belgium in Munich.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51198657</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198657</guid>
+            <pubDate>Fri, 02 Jul 2021 21:32:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Music fans' confusion over insurance cover]]></title>
@@ -273,6 +273,20 @@
             <link>https://www.bbc.co.uk/sport/av/football/57702966</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57702966</guid>
             <pubDate>Fri, 02 Jul 2021 21:25:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Exciting' midfield duo to start first Tour match as Lions hope Jones can return for Tests]]></title>
+            <description><![CDATA[Alun Wyn Jones has the credentials to defy the odds and return for the British and Irish Lions Test series against South Africa, kicking coach Neil Jenkins says.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57689876</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57689876</guid>
+            <pubDate>Fri, 02 Jul 2021 16:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['A signal Italy are here to win Euro 2020' - but agony for 'irreplaceable' Spinazzola]]></title>
+            <description><![CDATA[There has been no better team than Italy at Euro 2020 and they are now two games from glory after dumping out Belgium - so how far can they go?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57703580</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57703580</guid>
+            <pubDate>Fri, 02 Jul 2021 22:35:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When in Rome... The England fans who will be at the match]]></title>
