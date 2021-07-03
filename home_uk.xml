@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jul 2021 19:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 19:16:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,11 +93,18 @@
             <pubDate>Sat, 03 Jul 2021 11:09:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Federer beats UK's Norrie to reach last 16]]></title>
+            <description><![CDATA[Eight-time champion Roger Federer needs all of his quality and resilience to dash Briton Cameron Norrie's hopes of causing a big upset at Wimbledon.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57708228</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57708228</guid>
+            <pubDate>Sat, 03 Jul 2021 17:51:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[In pictures: Excited fans prepare for England v Ukraine in Rome]]></title>
             <description><![CDATA[It's a big day for England as they face Ukraine in the quarter-final and excitement is building.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57707677</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57707677</guid>
-            <pubDate>Sat, 03 Jul 2021 17:44:57 GMT</pubDate>
+            <pubDate>Sat, 03 Jul 2021 19:05:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Norfolk seal inscription mystery solved by US man on Twitter]]></title>
@@ -233,13 +240,6 @@
             <pubDate>Sat, 03 Jul 2021 18:40:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Federer beats Britain's Norrie to reach last 16]]></title>
-            <description><![CDATA[Eight-time champion Roger Federer needs all of his quality and resilience to dash Briton Cameron Norrie's hopes of causing a big upset at Wimbledon.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57708228</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57708228</guid>
-            <pubDate>Sat, 03 Jul 2021 17:51:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Adams scores four tries as Lions start tour with impressive win]]></title>
             <description><![CDATA[Josh Adams scores four tries as the British and Irish Lions see off the Sigma Lions in impressive style in their tour opener in Johannesburg.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57708519</link>
@@ -266,6 +266,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/57709008</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57709008</guid>
             <pubDate>Sat, 03 Jul 2021 17:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teuns wins stage as Pogacar takes control of Tour on first day in Alps]]></title>
+            <description><![CDATA[Defending champion Tadej Pogacar produces a devastating solo attack to take the yellow jersey on stage eight of the Tour de France.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/57690613</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57690613</guid>
+            <pubDate>Sat, 03 Jul 2021 16:56:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Should we raucously celebrate a football win in a pandemic?]]></title>
