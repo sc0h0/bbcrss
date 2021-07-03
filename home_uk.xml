@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jul 2021 09:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 09:49:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Sat, 03 Jul 2021 07:19:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US companies hit by 'colossal' cyber-attack]]></title>
-            <description><![CDATA[A cyber-security firm says it believes the Russia-linked REvil ransomware gang is responsible.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57703836</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57703836</guid>
-            <pubDate>Sat, 03 Jul 2021 07:37:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Morrisons: Supermarket agrees £6.3bn takeover]]></title>
             <description><![CDATA[The UK's fourth largest supermarket accepts an offer from a US investment group.]]></description>
             <link>https://www.bbc.co.uk/news/business-57705253</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57705253</guid>
             <pubDate>Sat, 03 Jul 2021 09:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US companies hit by 'colossal' cyber-attack]]></title>
+            <description><![CDATA[A cyber-security firm says it believes the Russia-linked REvil ransomware gang is responsible.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57703836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57703836</guid>
+            <pubDate>Sat, 03 Jul 2021 07:37:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Doctors urge PM to keep measures after 19 July, and celebrities in jab campaign film]]></title>
@@ -63,13 +63,6 @@
             <link>https://www.bbc.co.uk/sport/formula1/57680700</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57680700</guid>
             <pubDate>Sat, 03 Jul 2021 08:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Stars perform musical song in latest vaccine push]]></title>
-            <description><![CDATA[Film, TV and stage actors appear in a campaign video urging people to get their Covid jab.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57702498</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57702498</guid>
-            <pubDate>Sat, 03 Jul 2021 09:04:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pilot remarkably calm as his Boeing 737 plunges into sea]]></title>
@@ -97,14 +90,21 @@
             <description><![CDATA[England fast bowler Ollie Robinson is banned for eight matches - five of them suspended for two years - for historical racist and sexist tweets but is free to play again.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57697159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57697159</guid>
-            <pubDate>Sat, 03 Jul 2021 09:17:56 GMT</pubDate>
+            <pubDate>Sat, 03 Jul 2021 09:37:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: Quarantine 'to end' for fully jabbed, and 'Yes we Kane']]></title>
-            <description><![CDATA[Saturday's papers feature reports about what life could look like for those given two Covid vaccines.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57703809</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57703809</guid>
-            <pubDate>Sat, 03 Jul 2021 04:39:12 GMT</pubDate>
+            <title><![CDATA[Tough Mudder Scotland in Dalkeith cancelled night before event]]></title>
+            <description><![CDATA[Midlothian Council withdrew the event's licence less than 15 hours before it was due to start.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57703084</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57703084</guid>
+            <pubDate>Sat, 03 Jul 2021 08:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Stars perform musical song in latest vaccine push]]></title>
+            <description><![CDATA[Film, TV and stage actors appear in a campaign video urging people to get their Covid jab.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57702498</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57702498</guid>
+            <pubDate>Sat, 03 Jul 2021 09:04:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The cat with more than 50,000 social media followers]]></title>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-57678337</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57678337</guid>
             <pubDate>Fri, 02 Jul 2021 23:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Quarantine 'to end' for fully jabbed, and 'Yes we Kane']]></title>
+            <description><![CDATA[Saturday's papers feature reports about what life could look like for those given two Covid vaccines.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57703809</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57703809</guid>
+            <pubDate>Sat, 03 Jul 2021 04:39:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I used drugs every day in lockdown, but now I'm drug-free']]></title>
@@ -142,39 +149,11 @@
             <pubDate>Sat, 03 Jul 2021 00:13:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Soul Cap: Afro swim cap Olympic rejection 'heartbreaking' for black swimmers]]></title>
-            <description><![CDATA[The governing body says Soul Caps are unsuitable as they don't follow "the natural form of the head".]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57688380</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57688380</guid>
-            <pubDate>Fri, 02 Jul 2021 14:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kim Leadbeater: Sister of Jo Cox is new Batley and Spen MP]]></title>
-            <description><![CDATA[Kim Leadbeater says a key part of her by-election success was being "born and bred" in the area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-57693843</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57693843</guid>
-            <pubDate>Fri, 02 Jul 2021 09:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comedian Joe Lycett says he staged TV walkout as a plastics protest]]></title>
-            <description><![CDATA[The comedian appeared to storm off Steph's Packed Lunch on Channel 4 on Thursday.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57699955</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57699955</guid>
-            <pubDate>Fri, 02 Jul 2021 17:29:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vaccine hesitancy: Your job or the jab?]]></title>
             <description><![CDATA[Health workers once on the frontline of the pandemic are now embroiled in a row over vaccine mandates.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57686717</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57686717</guid>
             <pubDate>Thu, 01 Jul 2021 22:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strolling crocodile sparks panic in India village]]></title>
-            <description><![CDATA[Wildlife officials caught the animal and released it into a nearby river.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57691731</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57691731</guid>
-            <pubDate>Fri, 02 Jul 2021 04:53:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami condo collapse: A boom, then the ground shook]]></title>
