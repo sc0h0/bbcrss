@@ -1,7 +1,7 @@
 1. [Ukraine v England: Three Lions travel to Rome for Euro 2020 quarter-final](https://www.bbc.co.uk/sport/football/51198691) - England will attempt to qualify for their first European Championship semi-final for 25 years when they face Ukraine at Euro 2020 on Saturday.
 2. [Ethiopia Tigray conflict: Famine hits 400,000, UN warns](https://www.bbc.co.uk/news/world-africa-57703538) - Millions more are at risk of starvation due to the conflict in Tigray, the organisation says.
 3. [US companies hit by 'colossal' cyber-attack](https://www.bbc.co.uk/news/world-us-canada-57703836) - A cyber-security firm says it believes the Russia-linked REvil ransomware gang is responsible.
-4. [Miami building collapse: Firefighter's 7-year-old daughter found dead](https://www.bbc.co.uk/news/world-us-canada-57699656) - She is the third child to be recovered from the site of the collapsed 12-storey block.
+4. [Miami building collapse: Firefighter's 7-year-old daughter found dead](https://www.bbc.co.uk/news/world-us-canada-57699656) - The girl's father used his jacket to cover her body, placed a small US flag over her and carried her away.
 5. [Pilot remarkably calm as his Boeing 737 plunges into sea](https://www.bbc.co.uk/news/world-us-canada-57704138) - Two pilots are in a stable condition after coast guards rescued them off the coast of Hawaii.
 6. [Covid: Broadbent and Walliams in Covid jab campaign film](https://www.bbc.co.uk/news/uk-57702498) - The video, set to the tune The Rhythm Of Life from Sweet Charity, encourages people to get their jabs.
 7. [Andy Murray out of Wimbledon in third round](https://www.bbc.co.uk/sport/tennis/57702056) - Andy Murray's Wimbledon run comes to an end after losing to Canadian 10th seed Denis Shapovalov, while Dan Evans is also out.
