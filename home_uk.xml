@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jul 2021 17:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 18:26:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57707533</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57707533</guid>
             <pubDate>Sat, 03 Jul 2021 17:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Czech Republic 1-2 Denmark: Impressive Danes reach semi-finals]]></title>
+            <description><![CDATA[Denmark's impressive and emotional Euro 2020 campaign continues as they march on to the semi-finals courtesy of a victory over the Czech Republic in Baku.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51198684</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198684</guid>
+            <pubDate>Sat, 03 Jul 2021 18:07:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wimbledon 2021: Emma Raducanu, 18, defeats Sorana Cirstea in straight sets to reach fourth round]]></title>
@@ -223,14 +230,7 @@
             <description><![CDATA[Josh Adams scores four tries as the British and Irish Lions see off the Sigma Lions in impressive style in their tour opener in Johannesburg.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57708519</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57708519</guid>
-            <pubDate>Sat, 03 Jul 2021 17:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teuns wins stage as Pogacar takes control of Tour on first day in Alps]]></title>
-            <description><![CDATA[Defending champion Tadej Pogacar produces a devastating solo attack to take the yellow jersey on stage eight of the Tour de France.]]></description>
-            <link>https://www.bbc.co.uk/sport/cycling/57690613</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57690613</guid>
-            <pubDate>Sat, 03 Jul 2021 16:56:41 GMT</pubDate>
+            <pubDate>Sat, 03 Jul 2021 18:17:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: 'Super delivery, fine finish' - Dolberg doubles Denmark's lead]]></title>
@@ -254,11 +254,11 @@
             <pubDate>Sat, 03 Jul 2021 05:18:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Verstappen on pole with Norris second in Austria]]></title>
-            <description><![CDATA[Red Bull's Max Verstappen takes pole position at the Austrian Grand Prix with McLaren's Lando Norris in a stunning second place.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57707904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57707904</guid>
-            <pubDate>Sat, 03 Jul 2021 14:12:01 GMT</pubDate>
+            <title><![CDATA[Teuns wins stage as Pogacar takes control of Tour on first day in Alps]]></title>
+            <description><![CDATA[Defending champion Tadej Pogacar produces a devastating solo attack to take the yellow jersey on stage eight of the Tour de France.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/57690613</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57690613</guid>
+            <pubDate>Sat, 03 Jul 2021 16:56:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Should we raucously celebrate a football win in a pandemic?]]></title>
@@ -317,6 +317,13 @@
             <pubDate>Fri, 02 Jul 2021 10:21:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sat, 03 Jul 2021 16:42:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020 and Covid: How can I watch with my friends?]]></title>
             <description><![CDATA[Wembley will host 60,00 fans next week, but millions will be watching on TV at home and in pubs.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57386719</link>
@@ -350,13 +357,6 @@
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
             <pubDate>Thu, 01 Jul 2021 16:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many cases are in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sat, 03 Jul 2021 16:42:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
