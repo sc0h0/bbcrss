@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jul 2021 16:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jul 2021 16:47:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -233,18 +233,32 @@
             <pubDate>Sat, 03 Jul 2021 15:52:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Verstappen on pole with Norris second in Austria]]></title>
-            <description><![CDATA[Red Bull's Max Verstappen takes pole position at the Austrian Grand Prix with McLaren's Lando Norris in a stunning second place.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57707904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57707904</guid>
-            <pubDate>Sat, 03 Jul 2021 14:12:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wimbledon 2021: Britain's Emma Raducanu defeats Romania's Sorana Cirstea to advance into fourth round - best shots]]></title>
             <description><![CDATA[Watch the best shots as British teenager Emma Raducanu's dream debut run at Wimbledon continues into the fourth round with victory over Romania's world number 45 Sorana Cirstea.]]></description>
             <link>https://www.bbc.co.uk/sport/av/tennis/57708436</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57708436</guid>
             <pubDate>Sat, 03 Jul 2021 14:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Gareth Southgate's 25-year quest for redemption with England]]></title>
+            <description><![CDATA[BBC Sport looks back at Gareth Southgate's 25-year quest for redemption with England, both as a player and a manager, in his own words.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57695367</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57695367</guid>
+            <pubDate>Sat, 03 Jul 2021 05:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England Women v India Women: Mandhana removes Sciver with diving catch]]></title>
+            <description><![CDATA[Nat Sciver falls for 49 to a sensational diving catch by Smriti Mandhana in the third ODI between England and India.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/57708426</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57708426</guid>
+            <pubDate>Sat, 03 Jul 2021 14:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verstappen on pole with Norris second in Austria]]></title>
+            <description><![CDATA[Red Bull's Max Verstappen takes pole position at the Austrian Grand Prix with McLaren's Lando Norris in a stunning second place.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57707904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57707904</guid>
+            <pubDate>Sat, 03 Jul 2021 14:12:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Should we raucously celebrate football win in pandemic?]]></title>
@@ -342,7 +356,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Fri, 02 Jul 2021 16:16:21 GMT</pubDate>
+            <pubDate>Sat, 03 Jul 2021 16:42:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
