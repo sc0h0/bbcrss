@@ -26,7 +26,7 @@
 26. ['Hiking as a black person in the US can be nerve-racking'](https://www.bbc.co.uk/news/world-us-canada-57686681) - Mardi is part of Outdoor Afro, an organisation which encourages black nature lovers into the outdoors.
 27. [Can esports be more inclusive and accessible for people with disabilities?](https://www.bbc.co.uk/news/newsbeat-57696675) - A pilot event has taken place to work out how competitive gaming can include more people.
 28. [Archaeologists dig in over planning reforms row](https://www.bbc.co.uk/news/uk-57334928) - Experts warn history and heritage could be lost if they are excluded from the government's new plans.
-29. [Pandemic investing: 'Using my part-time pay to invest in stocks](https://www.bbc.co.uk/news/uk-wales-57499560) - Interest in investing and trading grew during the Covid pandemic, but experts warn of the risks.
+29. [Pandemic investing: 'Using my part-time pay to invest in stocks'](https://www.bbc.co.uk/news/uk-wales-57499560) - Interest in investing and trading grew during the Covid pandemic, but experts warn of the risks.
 30. [Nnamdi Kanu's arrest leaves Nigeria's Ipob separatists in disarray](https://www.bbc.co.uk/news/world-africa-57693863) - Igbo separatist leader Nnamdi Kanu was largely ignored until his movement became an armed struggle.
 31. [Miami condo collapse: A boom, then the ground shook](https://www.bbc.co.uk/news/world-us-canada-57690165) - Witnesses recount the terrifying night of the Champlain Tower collapse and the week that shook Miami.
 32. ['Coercion and rape': Investigating my yoga school](https://www.bbc.co.uk/news/world-asia-india-57400014) - Ishleen Kaur was passionate about yoga movement Sivananda, until she found allegations of sexual abuse.
