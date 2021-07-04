@@ -57,3 +57,4 @@
 57. [Euro 2020 and Covid: How can I watch with my friends?](https://www.bbc.co.uk/news/uk-57386719) - Wembley will host 60,00 fans next week, but millions will be watching on TV at home and in pubs.
 58. [The EU vaccine 'passport' and what it means for travel](https://www.bbc.co.uk/news/explainers-57665765) - The government says it's confident an Indian-made AZ vaccine used in the UK won't affect people's ability to travel abroad.
 59. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The progress made in vaccinating the country's adult population, as almost 45 million people have received at least one dose.
+60. ['Coercion and rape': Investigating my yoga school](https://www.bbc.co.uk/news/world-asia-india-57400014) - Ishleen Kaur was passionate about yoga movement Sivananda, until she found allegations of sexual abuse.
