@@ -3,7 +3,7 @@
 3. [Pope admitted to Rome hospital for 'scheduled' colon surgery](https://www.bbc.co.uk/news/world-europe-57714250) - The scheduled operation will deal with an issue in the 84-year-old Pope's colon, the Vatican says.
 4. [John Lewis plans to build 10,000 rental homes](https://www.bbc.co.uk/news/business-57712618) - The department store chain says it wants to address the UK's housing shortage and support communities.
 5. [Japan landslide: Elderly couple among survivors pulled from buried homes](https://www.bbc.co.uk/news/world-asia-57712884) - Dozens of homes in the coastal city of Atami were buried as heavy rain triggered a torrent of mud.
-6. [Euro 2020: England fans celebrate as Three Lions advance to semi-finals](https://www.bbc.co.uk/news/uk-57710515) - Fans react as England beat Ukraine 4-0 to reach Euro 2020 semi-final.
+6. [Jacob Zuma: Supporters form 'human shield' to stop ex-president's arrest](https://www.bbc.co.uk/news/world-africa-57706099) - South Africa's ex-president challenges his conviction for failing to appear at a corruption probe.
 7. [London Underground: Police investigating Tube anti-Semitic chants](https://www.bbc.co.uk/news/uk-england-london-57705786) - Some of those filmed were wearing England shirts while others had St George's flags around them.
 8. [Miami building collapse: Search efforts suspended ahead of demolition](https://www.bbc.co.uk/news/world-us-canada-57710766) - Teams could raze the standing portion of a collapsed apartment building late on Sunday.
 9. [Strabane: Large fire has broken out at coffin makers](https://www.bbc.co.uk/news/uk-northern-ireland-57714057) - People are asked to avoid Railway Street in Strabane as emergency services bring fire under control.
