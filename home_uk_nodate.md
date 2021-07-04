@@ -5,7 +5,7 @@
 5. [Miami building collapse: Search efforts suspended ahead of demolition](https://www.bbc.co.uk/news/world-us-canada-57710766) - Teams are preparing to raze the standing portion of an apartment building that collapsed last week.
 6. [Philippines military plane crash kills at least 29 but dozens survive](https://www.bbc.co.uk/news/world-asia-57711597) - Dozens of those on board are pulled from the burning wreckage on the southern island of Jolo.
 7. [John Lewis plans to build 10,000 rental homes](https://www.bbc.co.uk/news/business-57712618) - The department store chain says it wants to address the UK's housing shortage and support communities.
-8. [Cyprus appeals for help as deadly wildfire rips through forest](https://www.bbc.co.uk/news/world-europe-57710048) - Four missing people are confirmed dead as a huge blaze forces the evacuation of several villages.
+8. [Cyprus: Nations send help for worst wildfire in decades](https://www.bbc.co.uk/news/world-europe-57710048) - Four missing people are confirmed dead as a huge blaze forces the evacuation of several villages.
 9. [Firms urge PM to back returning to the office](https://www.bbc.co.uk/news/business-57712614) - Working from home should no longer be the default after 19 July, say more than 50 business leaders.
 10. [Canada heatwave: Military on standby as lightning triggers more wildfires](https://www.bbc.co.uk/news/world-us-canada-57711581) - Lightning strikes following a huge heatwave have triggered more than 170 fires in British Columbia.
 11. [Patrick Vieira takes over as Crystal Palace manager](https://www.bbc.co.uk/sport/football/57707859) - Crystal Palace appoint Patrick Vieira to succeed Roy Hodgson as the Premier League club's manager.
