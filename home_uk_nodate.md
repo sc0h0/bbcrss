@@ -6,7 +6,7 @@
 6. [Jacob Zuma: Supporters form 'human shield' to stop ex-president's arrest](https://www.bbc.co.uk/news/world-africa-57706099) - South Africa's ex-president challenges his conviction for failing to appear at a corruption probe.
 7. [London Underground: Police investigating Tube anti-Semitic chants](https://www.bbc.co.uk/news/uk-england-london-57705786) - Some of those filmed were wearing England shirts while others had St George's flags around them.
 8. [Miami building collapse: Search efforts suspended ahead of demolition](https://www.bbc.co.uk/news/world-us-canada-57710766) - Teams could raze the standing portion of a collapsed apartment building late on Sunday.
-9. [Strabane: Large fire has broken out at coffin makers](https://www.bbc.co.uk/news/uk-northern-ireland-57714057) - People are asked to avoid Railway Street in Strabane as emergency services bring fire under control.
+9. [Strabane: Large fire has broken out at coffin makers](https://www.bbc.co.uk/news/uk-northern-ireland-57714057) - Eighty firefighters and 14 appliances tackled the fire at Railway Street in Strabane.
 10. [Thank You Day: Community events to thank Covid heroes](https://www.bbc.co.uk/news/uk-england-57713004) - Interfaith services and roses are used to celebrate people for their work during the pandemic.
 11. [Homeowners to get 15 years to sue for 'shoddy' workmanship - minister](https://www.bbc.co.uk/news/uk-politics-57645976) - The announcement comes amid concerns leaseholders are bearing the cost of fire safety works.
 12. [Cyprus: Nations send help to tackle worst wildfire in decades](https://www.bbc.co.uk/news/world-europe-57710048) - Four missing people are confirmed dead as a huge blaze forces the evacuation of several villages.
