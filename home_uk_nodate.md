@@ -4,7 +4,7 @@
 4. [Philippines military plane crash kills at least 17 but many survive](https://www.bbc.co.uk/news/world-asia-57711597) - Some 40 of those on board are pulled from the burning wreckage on the southern island of Jolo.
 5. [Miami building collapse: Search efforts suspended ahead of demolition](https://www.bbc.co.uk/news/world-us-canada-57710766) - Teams are preparing to raze the standing portion of an apartment building that collapsed last week.
 6. [Prince Charles reveals favourite songs in radio show to thank volunteers](https://www.bbc.co.uk/news/uk-57709443) - The future king highlights one 1970s pop hit which gave him "an irresistible urge to dance".
-7. [Cyprus appeals for help as huge wildfire rips through forest](https://www.bbc.co.uk/news/world-europe-57710048) - A blaze described as the worst in the country's history forces the evacuation of several villages.
+7. [Cyprus appeals for help as deadly wildfire rips through forest](https://www.bbc.co.uk/news/world-europe-57710048) - Four missing people are confirmed dead as a huge blaze forces the evacuation of several villages.
 8. [Don't allow shop abuse to worsen, retail bosses urge PM](https://www.bbc.co.uk/news/uk-57709588) - Retailers say the situation got worse during the pandemic and they want better legal protection for workers.
 9. [Critically endangered antelope saiga makes comeback](https://www.bbc.co.uk/news/science-environment-57688320) - The population of the rare saiga has more than doubled since 2019, reversing a slide towards extinction.
 10. [How cattle are helping rare butterflies to thrive at Mabie Forest](https://www.bbc.co.uk/news/uk-scotland-south-scotland-57636202) - Pearl-bordered fritillary numbers are rising at one site - with some unusual assistance.
