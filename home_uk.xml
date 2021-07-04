@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Jul 2021 08:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 08:41:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Euro 2020: England focus turns to Denmark - but how many will be at Wembley?]]></title>
-            <description><![CDATA[England will face Denmark in the Euro 2020 semi-finals on Wednesday, but what is the latest with tickets and how many will be able to watch at Wembley?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57707965</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57707965</guid>
-            <pubDate>Sun, 04 Jul 2021 04:49:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Euro 2020: England fans celebrate as Three Lions advance to semi-finals]]></title>
             <description><![CDATA[Fans react as England beat Ukraine 4-0 to reach Euro 2020 semi-final.]]></description>
@@ -42,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-57710888</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57710888</guid>
             <pubDate>Sun, 04 Jul 2021 07:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Philippines military plane crash kills at least 17 but many survive]]></title>
+            <description><![CDATA[Some 40 of those on board are pulled from the burning wreckage on the southern island of Jolo.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57711597</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57711597</guid>
+            <pubDate>Sun, 04 Jul 2021 08:34:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami building collapse: Search efforts suspended ahead of demolition]]></title>
@@ -65,13 +65,6 @@
             <pubDate>Sat, 03 Jul 2021 23:19:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Philippines military plane crashes with 92 on board]]></title>
-            <description><![CDATA[The aircraft crashed in flames but around half of the people on board are reported to have been rescued.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57711597</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57711597</guid>
-            <pubDate>Sun, 04 Jul 2021 07:45:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don't allow shop abuse to worsen, retail bosses urge PM]]></title>
             <description><![CDATA[Retailers say the situation got worse during the pandemic and they want better legal protection for workers.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57709588</link>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57636202</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57636202</guid>
             <pubDate>Sat, 03 Jul 2021 22:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Memorial for Sgt Matiu Ratana: Rugby club's unsung hero]]></title>
+            <description><![CDATA[Sgt Matiu Ratana, head coach at East Grinstead Rugby Club, was "a role model, mentor and friend".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-57706867</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57706867</guid>
+            <pubDate>Sun, 04 Jul 2021 07:06:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Mask laws 'to be axed', and 'Lions roar in Rome']]></title>
@@ -282,6 +282,13 @@
             <pubDate>Thu, 01 Jul 2021 23:34:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England focus turns to Denmark semi-final after thrashing Ukraine]]></title>
+            <description><![CDATA[England will face Denmark in the Euro 2020 semi-finals on Wednesday, but what is the latest with tickets and how many will be able to watch at Wembley?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57707965</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57707965</guid>
+            <pubDate>Sun, 04 Jul 2021 04:49:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘I’m going to have to do some laundry tonight’ – British teenager Raducanu into Wimbledon last 16 ]]></title>
             <description><![CDATA[Emma Raducanu's dream debut run at Wimbledon continues into the fourth round with victory over Romania's world number 45 Sorana Cirstea.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57706687</link>
@@ -322,13 +329,6 @@
             <link>https://www.bbc.co.uk/sport/av/tennis/57702884</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57702884</guid>
             <pubDate>Sat, 03 Jul 2021 18:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England into Euro 2020 semi-final: 'England fans transported to unfamiliar world']]></title>
-            <description><![CDATA[Watching England is not meant to be like this, but Gareth Southgate has got fans believing, writes Phil McNulty.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57709659</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57709659</guid>
-            <pubDate>Sat, 03 Jul 2021 22:52:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ukraine v England pictures: Fans jubilant as Three Lions soar in Rome]]></title>
