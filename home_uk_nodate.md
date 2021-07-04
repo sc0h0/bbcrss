@@ -1,4 +1,4 @@
-1. [Covid-19: Masks will become personal choice, says Robert Jenrick](https://www.bbc.co.uk/news/uk-57710527) - Robert Jenrick says mask laws in England could go but Scotland says there will be an "ongoing need".
+1. [Boris Johnson to set out England's final Covid lockdown easing](https://www.bbc.co.uk/news/uk-57715496) - Boris Johnson will use a press conference on Monday to confirm the next steps on social distancing and masks.
 2. [Afghanistan: All foreign troops must leave by deadline - Taliban](https://www.bbc.co.uk/news/world-asia-57714808) - The group's stance comes amid reports US forces will stay to protect embassies and an airport.
 3. [Euro 2020: England win over Ukraine most-watched live TV event of the year with 20.9m peak](https://www.bbc.co.uk/sport/football/57709147) - England's 4-0 victory over Ukraine at Euro 2020 attracts a peak TV audience of 20.9m, making it the most-watched live TV event of the year with 81.8% audience share.
 4. [Pope admitted to Rome hospital for 'scheduled' colon surgery](https://www.bbc.co.uk/news/world-europe-57714250) - The scheduled operation will deal with an issue in the 84-year-old Pope's colon, the Vatican says.
