@@ -3,7 +3,7 @@
 3. [Euro 2020: England fans celebrate as Three Lions advance to semi-finals](https://www.bbc.co.uk/news/uk-57710515) - Fans react as England beat Ukraine 4-0 to reach Euro 2020 semi-final.
 4. [John Lewis plans to build 10,000 rental homes](https://www.bbc.co.uk/news/business-57712618) - The department store chain says it wants to address the UK's housing shortage and support communities.
 5. [Miami building collapse: Search efforts suspended ahead of demolition](https://www.bbc.co.uk/news/world-us-canada-57710766) - Teams are preparing to raze the standing portion of an apartment building that collapsed last week.
-6. [Covid: Wales moving to increasing normality, says minister](https://www.bbc.co.uk/news/uk-wales-politics-57707992) - More of Wales' Covid rules could change from legal requirements to government advice, says minister.
+6. [Covid: Wales moving to increasing normality, says minister](https://www.bbc.co.uk/news/uk-wales-politics-57707992) - More Covid rules could change from legal requirements to government advice, a minister says.
 7. [Homeowners to get 15 years to sue for 'shoddy' workmanship - minister](https://www.bbc.co.uk/news/uk-politics-57645976) - The announcement comes amid concerns leaseholders are bearing the cost of fire safety works.
 8. [Cyprus: Nations send help for worst wildfire in decades](https://www.bbc.co.uk/news/world-europe-57710048) - Four missing people are confirmed dead as a huge blaze forces the evacuation of several villages.
 9. [Philippines military plane crash kills at least 45 but dozens survive](https://www.bbc.co.uk/news/world-asia-57711597) - Dozens of those on board are pulled from the burning wreckage on the southern island of Jolo.
