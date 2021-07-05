@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jul 2021 18:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 19:03:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,20 +51,6 @@
             <pubDate>Mon, 05 Jul 2021 18:08:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Captain Sir Tom laid to rest in hometown of Keighley]]></title>
-            <description><![CDATA[The NHS fundraiser and WW2 veteran died aged 100 in February after testing positive for Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-57725373</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57725373</guid>
-            <pubDate>Mon, 05 Jul 2021 14:42:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Soldiers flee to Tajikistan after Taliban clashes]]></title>
-            <description><![CDATA[More than 1,000 soldiers retreat to Tajikistan as fighting with the militants intensifies.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57720103</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57720103</guid>
-            <pubDate>Mon, 05 Jul 2021 17:00:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ice hockey player dies in 4 July firework accident]]></title>
             <description><![CDATA[Columbus Blue Jackets goaltender Matiss Kivlenieks dies after a "fireworks malfunction" at a Fourth of July party.]]></description>
             <link>https://www.bbc.co.uk/sport/ice-hockey/57725848</link>
@@ -77,6 +63,20 @@
             <link>https://www.bbc.co.uk/news/business-57724779</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57724779</guid>
             <pubDate>Mon, 05 Jul 2021 18:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Captain Sir Tom laid to rest in hometown of Keighley]]></title>
+            <description><![CDATA[The NHS fundraiser and WW2 veteran died aged 100 in February after testing positive for Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-57725373</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57725373</guid>
+            <pubDate>Mon, 05 Jul 2021 18:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Soldiers flee to Tajikistan after Taliban clashes]]></title>
+            <description><![CDATA[More than 1,000 soldiers retreat to Tajikistan as fighting with the militants intensifies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57720103</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57720103</guid>
+            <pubDate>Mon, 05 Jul 2021 17:00:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duchess of Cambridge forced to self-isolate due to Covid contact]]></title>
@@ -303,11 +303,11 @@
             <pubDate>Mon, 05 Jul 2021 16:51:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
-            <description><![CDATA[The PM says every adult should have had the chance to be doubled jabbed by mid-September.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55045639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Mon, 05 Jul 2021 17:00:41 GMT</pubDate>
+            <title><![CDATA[Covid: Why is social distancing coming to an end?]]></title>
+            <description><![CDATA[The prime minister has announced the next steps for social distancing in England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Mon, 05 Jul 2021 18:40:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
@@ -315,6 +315,13 @@
             <link>https://www.bbc.co.uk/news/business-52567567</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
             <pubDate>Mon, 05 Jul 2021 18:25:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
+            <description><![CDATA[The PM says every adult should have had the chance to be doubled jabbed by mid-September.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Mon, 05 Jul 2021 17:00:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Will free school meals continue over summer holidays?]]></title>
@@ -329,13 +336,6 @@
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
             <pubDate>Fri, 02 Jul 2021 15:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Why is social distancing coming to an end?]]></title>
-            <description><![CDATA[The prime minister has announced the next steps for social distancing in England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51506729</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
-            <pubDate>Mon, 05 Jul 2021 18:40:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>

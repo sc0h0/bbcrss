@@ -3,10 +3,10 @@
 3. [Roberts Buncis: Boy, 15, convicted of knife murder of friend](https://www.bbc.co.uk/news/uk-england-lincolnshire-57724953) - Roberts Buncis was stabbed more than 70 times in the attack just two days before his 13th birthday.
 4. [Boris Johnson admits it's ludicrous he's PM, says Cummings](https://www.bbc.co.uk/news/uk-politics-57722457) - The former aide launches another attack on the PM, but also defends his decision to work for him.
 5. [Georgia: Tbilisi Pride cancelled as far-right protesters burn rainbow flags](https://www.bbc.co.uk/news/world-europe-57727887) - LGBT activists cancel a Pride event after violent far-right protests in Georgia's capital Tbilisi.
-6. [Captain Sir Tom laid to rest in hometown of Keighley](https://www.bbc.co.uk/news/uk-england-leeds-57725373) - The NHS fundraiser and WW2 veteran died aged 100 in February after testing positive for Covid-19.
-7. [Afghanistan: Soldiers flee to Tajikistan after Taliban clashes](https://www.bbc.co.uk/news/world-asia-57720103) - More than 1,000 soldiers retreat to Tajikistan as fighting with the militants intensifies.
-8. [Ice hockey player dies in 4 July firework accident](https://www.bbc.co.uk/sport/ice-hockey/57725848) - Columbus Blue Jackets goaltender Matiss Kivlenieks dies after a "fireworks malfunction" at a Fourth of July party.
-9. [Four day week 'an overwhelming success' in Iceland](https://www.bbc.co.uk/news/business-57724779) - The majority of workers in Iceland now look set to move to shorter hours for the same pay.
+6. [Ice hockey player dies in 4 July firework accident](https://www.bbc.co.uk/sport/ice-hockey/57725848) - Columbus Blue Jackets goaltender Matiss Kivlenieks dies after a "fireworks malfunction" at a Fourth of July party.
+7. [Four day week 'an overwhelming success' in Iceland](https://www.bbc.co.uk/news/business-57724779) - The majority of workers in Iceland now look set to move to shorter hours for the same pay.
+8. [Captain Sir Tom laid to rest in hometown of Keighley](https://www.bbc.co.uk/news/uk-england-leeds-57725373) - The NHS fundraiser and WW2 veteran died aged 100 in February after testing positive for Covid-19.
+9. [Afghanistan: Soldiers flee to Tajikistan after Taliban clashes](https://www.bbc.co.uk/news/world-asia-57720103) - More than 1,000 soldiers retreat to Tajikistan as fighting with the militants intensifies.
 10. [Duchess of Cambridge forced to self-isolate due to Covid contact](https://www.bbc.co.uk/news/uk-57721140) - Kensington Palace says the Duchess of Cambridge is not experiencing any coronavirus symptoms.
 11. [Ever Given: Egypt agrees deal to release ship that blocked Suez Canal](https://www.bbc.co.uk/news/world-middle-east-57719551) - Egypt agrees a compensation deal with the impounded Ever Given's owners and insurers.
 12. [Hairspray: West End musical cancels performances after Covid case](https://www.bbc.co.uk/news/entertainment-arts-57725704) - The West End hit is suspended until 14 July after a member of its crew tests positive for Covid-19.
@@ -39,11 +39,11 @@
 39. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Boris Johnson has set out government plans for lifting the remaining Covid restrictions in England.
 40. [Coronavirus: When can we stop wearing face masks or coverings?](https://www.bbc.co.uk/news/health-51205344) - Wearing a face covering is currently a legal requirement in many places, but rules are changing in England.
 41. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-42. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - The PM says every adult should have had the chance to be doubled jabbed by mid-September.
+42. [Covid: Why is social distancing coming to an end?](https://www.bbc.co.uk/news/uk-51506729) - The prime minister has announced the next steps for social distancing in England.
 43. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - The working from home advice in England is set to change on 19 July.
-44. [Covid: Will free school meals continue over summer holidays?](https://www.bbc.co.uk/news/explainers-53053337) - A year on from Marcus Rashford's successful campaign, what is the current situation?
-45. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
-46. [Covid: Why is social distancing coming to an end?](https://www.bbc.co.uk/news/uk-51506729) - The prime minister has announced the next steps for social distancing in England.
+44. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - The PM says every adult should have had the chance to be doubled jabbed by mid-September.
+45. [Covid: Will free school meals continue over summer holidays?](https://www.bbc.co.uk/news/explainers-53053337) - A year on from Marcus Rashford's successful campaign, what is the current situation?
+46. [Lockdown rules: What are the restrictions in your area?](https://www.bbc.co.uk/news/uk-54373904) - Use our search tool to find out about coronavirus rules and restrictions where you live.
 47. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - The government is considering allowing double vaccinated adults to avoid quarantine after travel.
 48. [Covid map: Coronavirus cases, deaths, vaccinations by country](https://www.bbc.co.uk/news/world-51235105) - Key maps and charts explaining how the virus has spread around the world.
 49. ['Coercion and rape': Investigating my yoga school](https://www.bbc.co.uk/news/world-asia-india-57400014) - Ishleen Kaur was passionate about yoga movement Sivananda, until she found allegations of sexual abuse.
