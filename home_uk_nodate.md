@@ -1,6 +1,6 @@
 1. [Boris Johnson to set out England's final Covid lockdown easing](https://www.bbc.co.uk/news/uk-57715496) - Boris Johnson says he wants to "restore freedoms", as he unveils plans on social distancing and masks.
-2. [Miami collapse: Remaining structure demolished over safety fears](https://www.bbc.co.uk/news/world-us-canada-57716934) - The remaining section of the collapsed building is brought down as teams prepare to resume searches.
-3. [Queen gives George Cross to NHS for staff's 'courage and dedication'](https://www.bbc.co.uk/news/uk-57714088) - It comes as the health service marks its 73rd anniversary on Monday with events across the UK.
+2. [Queen gives George Cross to NHS for staff's 'courage and dedication'](https://www.bbc.co.uk/news/uk-57714088) - It comes as the health service marks its 73rd anniversary on Monday with events across the UK.
+3. [Miami collapse: Remaining structure demolished over safety fears](https://www.bbc.co.uk/news/world-us-canada-57716934) - The remaining section of the collapsed building is brought down as teams prepare to resume searches.
 4. [Afghanistan: All foreign troops must leave by deadline - Taliban](https://www.bbc.co.uk/news/world-asia-57714808) - The group's stance comes amid reports US forces will stay to protect embassies and an airport.
 5. [After Lod violence, Israeli city's residents fear for the future](https://www.bbc.co.uk/news/world-middle-east-57698950) - Both Jewish and Arab Israelis feel unprotected after intercommunal violence in the Israeli city.
 6. [Pope 'responds well' to colon surgery at Rome hospital](https://www.bbc.co.uk/news/world-europe-57714250) - The 84-year-old underwent an operation to deal with an issue with his colon, the Vatican says.
