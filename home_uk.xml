@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jul 2021 18:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 18:49:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Mon, 05 Jul 2021 16:04:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: England lockdown easing plans, and Kate self-isolates]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57722687</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57722687</guid>
-            <pubDate>Mon, 05 Jul 2021 16:30:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Georgia: Tbilisi Pride cancelled as far-right protesters burn rainbow flags]]></title>
             <description><![CDATA[LGBT activists cancel a Pride event after violent far-right protests in Georgia's capital Tbilisi.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57727887</link>
@@ -70,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-57720103</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57720103</guid>
             <pubDate>Mon, 05 Jul 2021 17:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ice hockey player dies in 4 July firework accident]]></title>
+            <description><![CDATA[Columbus Blue Jackets goaltender Matiss Kivlenieks dies after a "fireworks malfunction" at a Fourth of July party.]]></description>
+            <link>https://www.bbc.co.uk/sport/ice-hockey/57725848</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/ice-hockey/57725848</guid>
+            <pubDate>Mon, 05 Jul 2021 18:24:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Four day week 'an overwhelming success' in Iceland]]></title>
@@ -248,10 +248,10 @@
         </item>
         <item>
             <title><![CDATA[Anderson takes 1,000th first-class wicket]]></title>
-            <description><![CDATA[England's James Anderson takes 7-19 - including his 1,000th first-class wicket - to help Lancashire reduce skittle Kent inside a session for just 74.]]></description>
+            <description><![CDATA[James Anderson takes 7-19, including his 1,000th first-class wicket, as Lancashire skittle Kent inside a session for just 74, before wobbling on 108-5.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57716431</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57716431</guid>
-            <pubDate>Mon, 05 Jul 2021 17:16:50 GMT</pubDate>
+            <pubDate>Mon, 05 Jul 2021 18:39:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[On the verge of greatness - can Cavendish break Tour stage win record?]]></title>
@@ -261,18 +261,25 @@
             <pubDate>Mon, 05 Jul 2021 15:33:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHL goaltender Kivlenieks dies after party fall ]]></title>
-            <description><![CDATA[Columbus Blue Jackets goaltender Matiss Kivlenieks dies after a "fireworks malfunction" at a Fourth of July party.]]></description>
-            <link>https://www.bbc.co.uk/sport/ice-hockey/57725848</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/ice-hockey/57725848</guid>
-            <pubDate>Mon, 05 Jul 2021 18:24:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[World number one Barty into first Wimbledon quarter-finals]]></title>
             <description><![CDATA[World number one Ashleigh Barty reaches the Wimbledon quarter-finals for the first time with a 7-5 6-3 victory over Barbora Krejcikova.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57724076</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57724076</guid>
             <pubDate>Mon, 05 Jul 2021 14:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: 'It's not been an easy road with the national team' - Raheem Sterling]]></title>
+            <description><![CDATA[England's Raheem Sterling talks about growing up next to Wembley Stadium, answering his critics, and why family is so important to him.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57725514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57725514</guid>
+            <pubDate>Mon, 05 Jul 2021 13:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wimbledon 2021: Novak Djokovic dominates against Cristian Garin - best shots]]></title>
+            <description><![CDATA[Watch Novak Djokovic's best shots as he makes it through to his 12th Wimbledon quarter-final after beating Cristian Garin 6-2 6-4 6-2 on Centre court.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/57724536</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57724536</guid>
+            <pubDate>Mon, 05 Jul 2021 15:07:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
@@ -303,6 +310,13 @@
             <pubDate>Mon, 05 Jul 2021 17:00:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
+            <description><![CDATA[The working from home advice in England is set to change on 19 July.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Mon, 05 Jul 2021 18:25:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Will free school meals continue over summer holidays?]]></title>
             <description><![CDATA[A year on from Marcus Rashford's successful campaign, what is the current situation?]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53053337</link>
@@ -317,11 +331,11 @@
             <pubDate>Fri, 02 Jul 2021 15:52:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are the social distancing rules and when could they end?]]></title>
-            <description><![CDATA[The prime minister is due to announce the next steps for social distancing rules in England.]]></description>
+            <title><![CDATA[Covid: Why is social distancing coming to an end?]]></title>
+            <description><![CDATA[The prime minister has announced the next steps for social distancing in England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51506729</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
-            <pubDate>Mon, 05 Jul 2021 09:58:45 GMT</pubDate>
+            <pubDate>Mon, 05 Jul 2021 18:40:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
