@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jul 2021 20:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 20:55:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-57724953</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lincolnshire-57724953</guid>
             <pubDate>Mon, 05 Jul 2021 17:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wildcard Raducanu retires injured at Wimbledon]]></title>
+            <description><![CDATA[British wildcard Emma Raducanu retires from her Wimbledon fourth-round match for medical reasons, ending her fairytale Wimbledon debut.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57724076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57724076</guid>
+            <pubDate>Mon, 05 Jul 2021 20:39:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ice hockey player dies in 4 July firework accident]]></title>
@@ -107,8 +114,8 @@
             <pubDate>Mon, 05 Jul 2021 16:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: The double-edged sword hanging over tourist town Southwold]]></title>
-            <description><![CDATA[What does a tourism-dependent town with a large elderly population make of the restriction easing plan?]]></description>
+            <title><![CDATA[Covid: The restrictions-easing dilemma facing Southwold]]></title>
+            <description><![CDATA[People in Southwold, a popular tourist destination, react to the restriction-easing measures.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-57725734</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57725734</guid>
             <pubDate>Mon, 05 Jul 2021 20:17:26 GMT</pubDate>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/football/57725655</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57725655</guid>
             <pubDate>Mon, 05 Jul 2021 17:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British teenager Raducanu retires from last-16 match]]></title>
-            <description><![CDATA[British wildcard Emma Raducanu retires from her Wimbledon fourth-round match for medical reasons, ending her fairytale Wimbledon debut.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57724076</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57724076</guid>
-            <pubDate>Mon, 05 Jul 2021 20:39:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anderson takes 1,000th first-class wicket]]></title>
