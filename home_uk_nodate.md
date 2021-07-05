@@ -5,7 +5,7 @@
 5. [Pope 'responds well' to colon surgery at Rome hospital](https://www.bbc.co.uk/news/world-europe-57714250) - The 84-year-old underwent an operation to deal with an issue with his colon, the Vatican says.
 6. [After Lod violence, Israeli city's residents fear for the future](https://www.bbc.co.uk/news/world-middle-east-57698950) - Both Jewish and Arab Israelis feel unprotected after intercommunal violence in the Israeli city.
 7. [Covid: Train bosses say social distancing not always possible](https://www.bbc.co.uk/news/uk-wales-57680023) - Wales' train operator says it is not always possible to enforce Covid rules during busy times.
-8. [Miami building collapse: Search efforts suspended ahead of demolition](https://www.bbc.co.uk/news/world-us-canada-57710766) - Teams could raze the standing portion of a collapsed apartment building late on Sunday.
+8. [Miami collapse: Crews prepare for demolition as storm nears](https://www.bbc.co.uk/news/world-us-canada-57710766) - A standing portion of the collapsed building will be brought down before search efforts can resume.
 9. [Britain's Raducanu to headline Court One ](https://www.bbc.co.uk/sport/tennis/57712820) - British wildcard Emma Raducanu headlines a mouth-watering day of fourth-round singles action on the show courts on day seven of Wimbledon.
 10. [Strabane: Large fire has broken out at coffin makers](https://www.bbc.co.uk/news/uk-northern-ireland-57714057) - Eighty firefighters and 14 appliances tackled the fire at Railway Street in Strabane.
 11. [Cyprus: Nations send help to tackle worst wildfire in decades](https://www.bbc.co.uk/news/world-europe-57710048) - Four missing people are confirmed dead as a huge blaze forces the evacuation of several villages.
