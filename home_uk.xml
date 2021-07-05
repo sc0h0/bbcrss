@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jul 2021 13:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 13:40:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,25 +23,11 @@
             <pubDate>Mon, 05 Jul 2021 13:13:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Royals celebrate NHS anniversary with George Cross and tea party]]></title>
-            <description><![CDATA[The Queen awards the NHS the George Cross while Prince William attends a thanksgiving service.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57714088</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57714088</guid>
-            <pubDate>Mon, 05 Jul 2021 13:19:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Duchess of Cambridge forced to self-isolate due to Covid contact]]></title>
             <description><![CDATA[Kensington Palace says the Duchess of Cambridge is not experiencing any coronavirus symptoms.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57721140</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57721140</guid>
             <pubDate>Mon, 05 Jul 2021 10:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miami collapse: Remaining structure demolished over safety fears]]></title>
-            <description><![CDATA[The remaining section of the collapsed building is brought down as teams resume the search for victims.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57716934</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57716934</guid>
-            <pubDate>Mon, 05 Jul 2021 08:01:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[After Lod violence, Israeli city's residents fear for the future]]></title>
@@ -58,11 +44,25 @@
             <pubDate>Mon, 05 Jul 2021 10:22:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: All foreign troops must leave by deadline - Taliban]]></title>
-            <description><![CDATA[The group's stance comes amid reports US forces will stay to protect embassies and an airport.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57714808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57714808</guid>
-            <pubDate>Mon, 05 Jul 2021 06:10:53 GMT</pubDate>
+            <title><![CDATA[Boris Johnson admits it's ludicrous he's PM, says Cummings]]></title>
+            <description><![CDATA[The former aide launches another attack on the PM, but also defends his decision to work for him.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57722457</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57722457</guid>
+            <pubDate>Mon, 05 Jul 2021 13:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Soldiers flee to Tajikistan after militant clashes]]></title>
+            <description><![CDATA[More than 1,000 soldiers retreat to Tajikistan as fighting with the militants intensifies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57720103</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57720103</guid>
+            <pubDate>Mon, 05 Jul 2021 12:22:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royals celebrate NHS anniversary with George Cross and tea party]]></title>
+            <description><![CDATA[The Queen awards the NHS the George Cross while Prince William attends a thanksgiving service.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57714088</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57714088</guid>
+            <pubDate>Mon, 05 Jul 2021 13:19:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soul Cap: Afro swimming cap Olympic rejection could be reconsidered after backlash]]></title>
@@ -72,13 +72,6 @@
             <pubDate>Mon, 05 Jul 2021 08:44:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Morrisons: Bidding war looms for supermarket as rivals circle]]></title>
-            <description><![CDATA[Apollo Global says it is considering a bid, days after the UK supermarket agreed to a £6.3bn takeover.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57718738</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57718738</guid>
-            <pubDate>Mon, 05 Jul 2021 09:33:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jewish man abused twice in an hour on London transport network]]></title>
             <description><![CDATA[The abusers were willing to target the man even though they knew they were on CCTV, his brother says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57705786</link>
@@ -86,11 +79,25 @@
             <pubDate>Mon, 05 Jul 2021 09:36:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Morrisons: Bidding war looms for supermarket as rivals circle]]></title>
+            <description><![CDATA[Apollo Global says it is considering a bid, days after the UK supermarket agreed to a £6.3bn takeover.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57718738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57718738</guid>
+            <pubDate>Mon, 05 Jul 2021 09:33:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ex-Hollyoaks star in hospital with 'horrific' Covid]]></title>
             <description><![CDATA[Stephanie Davis, 28, who appeared in Hollyoaks from 2010-19, says she's "sick of being in pain".]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57719445</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57719445</guid>
             <pubDate>Mon, 05 Jul 2021 11:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plaque in Micheldever marks first UK car journey]]></title>
+            <description><![CDATA[A plaque commemorates the first recorded UK car journey by Evelyn Ellis in Hampshire in1895.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-57698243</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-57698243</guid>
+            <pubDate>Mon, 05 Jul 2021 12:53:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trafalgar Square Fourth Plinth: Winning artworks announced]]></title>
