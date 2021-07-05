@@ -11,23 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jul 2021 03:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 04:31:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Boris Johnson to set out England's final Covid lockdown easing]]></title>
-            <description><![CDATA[Boris Johnson will reveal plans for social distancing and masks, and will ask people to use their "judgement".]]></description>
+            <description><![CDATA[Boris Johnson says he wants to "restore freedoms", as he unveils plans on social distancing and masks.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57715496</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57715496</guid>
             <pubDate>Sun, 04 Jul 2021 21:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Queen gives George Cross to NHS for staff's 'courage and dedication']]></title>
-            <description><![CDATA[It comes as the health service marks its 73rd anniversary on Monday with events across the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57714088</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57714088</guid>
-            <pubDate>Sun, 04 Jul 2021 23:04:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami collapse: Remaining structure demolished over safety fears]]></title>
@@ -37,6 +30,13 @@
             <pubDate>Mon, 05 Jul 2021 03:04:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Queen gives George Cross to NHS for staff's 'courage and dedication']]></title>
+            <description><![CDATA[It comes as the health service marks its 73rd anniversary on Monday with events across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57714088</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57714088</guid>
+            <pubDate>Sun, 04 Jul 2021 23:04:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: All foreign troops must leave by deadline - Taliban]]></title>
             <description><![CDATA[The group's stance comes amid reports US forces will stay to protect embassies and an airport.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57714808</link>
@@ -44,11 +44,11 @@
             <pubDate>Sun, 04 Jul 2021 21:12:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grenfell prompts creation of building safety regulator]]></title>
-            <description><![CDATA[The new watchdog will be able to prosecute rule-breaking developers and take their properties off the market.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57716130</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57716130</guid>
-            <pubDate>Sun, 04 Jul 2021 23:00:06 GMT</pubDate>
+            <title><![CDATA[After Lod violence, Israeli city's residents fear for the future]]></title>
+            <description><![CDATA[Both Jewish and Arab Israelis feel unprotected after intercommunal violence in the Israeli city.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57698950</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57698950</guid>
+            <pubDate>Sun, 04 Jul 2021 23:01:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pope 'responds well' to colon surgery at Rome hospital]]></title>
@@ -58,11 +58,18 @@
             <pubDate>Sun, 04 Jul 2021 22:24:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[After Lod violence, Israeli city's residents fear for the future]]></title>
-            <description><![CDATA[Both Jewish and Arab Israelis feel unprotected after intercommunal violence in the Israeli city.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57698950</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57698950</guid>
-            <pubDate>Sun, 04 Jul 2021 23:01:30 GMT</pubDate>
+            <title><![CDATA[Indonesia faces oxygen crisis amid worsening Covid surge]]></title>
+            <description><![CDATA[The government asks producers to prioritise medical oxygen as hospitals struggle to cope.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57717144</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57717144</guid>
+            <pubDate>Mon, 05 Jul 2021 03:58:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grenfell prompts creation of building safety regulator]]></title>
+            <description><![CDATA[The new watchdog will be able to prosecute rule-breaking developers and take their properties off the market.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57716130</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57716130</guid>
+            <pubDate>Sun, 04 Jul 2021 23:00:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dozens killed in Philippine military plane crash]]></title>
@@ -100,18 +107,11 @@
             <pubDate>Sun, 04 Jul 2021 20:47:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cyprus: Nations send help to tackle worst wildfire in decades]]></title>
-            <description><![CDATA[Four missing people are confirmed dead as a huge blaze forces the evacuation of several villages.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57710048</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57710048</guid>
-            <pubDate>Sun, 04 Jul 2021 18:43:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: PM to unveil unlocking plans, and 'George Cross for NHS']]></title>
             <description><![CDATA[Monday's papers lead with details of which measures are expected to be lifted in England after 19 July.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57716634</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57716634</guid>
-            <pubDate>Sun, 04 Jul 2021 23:02:48 GMT</pubDate>
+            <pubDate>Mon, 05 Jul 2021 04:09:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Where is the anti-lockdown movement headed?]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Sun, 04 Jul 2021 23:42:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Protests, pet thefts and sex crimes: MPs want changes to the policing bill]]></title>
+            <description><![CDATA[The controversial Policing, Crime, Sentencing and Courts bill is back in the Commons on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57680917</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57680917</guid>
+            <pubDate>Sun, 04 Jul 2021 17:21:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The philosophy behind Jeff Bezos' Amazon success]]></title>
             <description><![CDATA[As Bezos leaves his role as CEO, those who have worked with him ponder the lessons learned.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57704479</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/news/uk-57334928</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57334928</guid>
             <pubDate>Sun, 04 Jul 2021 00:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protests, pet thefts and sex crimes: MPs want changes to the policing bill]]></title>
-            <description><![CDATA[The controversial Policing, Crime, Sentencing and Courts bill is back in the Commons on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57680917</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57680917</guid>
-            <pubDate>Sun, 04 Jul 2021 17:21:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nnamdi Kanu's arrest leaves Nigeria's Ipob separatists in disarray]]></title>
