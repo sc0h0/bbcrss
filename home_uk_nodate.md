@@ -1,5 +1,5 @@
 1. [Boris Johnson to set out England's final Covid lockdown easing](https://www.bbc.co.uk/news/uk-57715496) - Boris Johnson says he wants to "restore freedoms", as he unveils plans on social distancing and masks.
-2. [Miami collapse: Remaining structure demolished over safety fears](https://www.bbc.co.uk/news/world-us-canada-57716934) - The remaining section of a collapsed building is razed as teams prepare to resume search efforts.
+2. [Miami collapse: Remaining structure demolished over safety fears](https://www.bbc.co.uk/news/world-us-canada-57716934) - The remaining section of the collapsed building is brought down as teams prepare to resume searches.
 3. [Queen gives George Cross to NHS for staff's 'courage and dedication'](https://www.bbc.co.uk/news/uk-57714088) - It comes as the health service marks its 73rd anniversary on Monday with events across the UK.
 4. [Afghanistan: All foreign troops must leave by deadline - Taliban](https://www.bbc.co.uk/news/world-asia-57714808) - The group's stance comes amid reports US forces will stay to protect embassies and an airport.
 5. [After Lod violence, Israeli city's residents fear for the future](https://www.bbc.co.uk/news/world-middle-east-57698950) - Both Jewish and Arab Israelis feel unprotected after intercommunal violence in the Israeli city.
@@ -29,7 +29,7 @@
 29. [Is the use of jetpacks finally about to take off?](https://www.bbc.co.uk/news/business-57652297) - Members of the public can now pay to fly through the air like a superhero.
 30. [Letter from Africa: Lamenting the Algeria-Morocco border closure](https://www.bbc.co.uk/news/world-africa-57467644) - The Morocco-Algeria border has been closed for decades, despite close ties between the people.
 31. [Protests, pet thefts and sex crimes: MPs want changes to the policing bill](https://www.bbc.co.uk/news/uk-politics-57680917) - The controversial Policing, Crime, Sentencing and Courts bill is back in the Commons on Monday.
-32. [The philosophy behind Jeff Bezos' Amazon success](https://www.bbc.co.uk/news/technology-57704479) - As Bezos leaves his role as CEO, those who have worked with him ponder the lessons learned.
+32. [Jeff Bezos steps down as Amazon CEO](https://www.bbc.co.uk/news/technology-57704479) - As Bezos leaves his role as CEO, those who have worked with him ponder the lessons learned.
 33. [Pandemic investing: 'Using my part-time pay to invest in stocks'](https://www.bbc.co.uk/news/uk-wales-57499560) - Interest in investing and trading grew during the Covid pandemic, but experts warn of the risks.
 34. [Archaeologists dig in over planning reforms row](https://www.bbc.co.uk/news/uk-57334928) - Experts warn history and heritage could be lost if they are excluded from the government's new plans.
 35. [Nnamdi Kanu's arrest leaves Nigeria's Ipob separatists in disarray](https://www.bbc.co.uk/news/world-africa-57693863) - Igbo separatist leader Nnamdi Kanu was largely ignored until his movement became an armed struggle.
