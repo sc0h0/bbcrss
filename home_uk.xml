@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jul 2021 10:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 10:43:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,17 +24,17 @@
         </item>
         <item>
             <title><![CDATA[Queen gives George Cross to NHS for staff's 'courage and dedication']]></title>
-            <description><![CDATA[It comes as the health service marks its 73rd anniversary on Monday with events across the UK.]]></description>
+            <description><![CDATA[It comes as the health service is marking its 73rd anniversary with events across the UK.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57714088</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57714088</guid>
-            <pubDate>Mon, 05 Jul 2021 10:00:32 GMT</pubDate>
+            <pubDate>Mon, 05 Jul 2021 10:30:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duchess of Cambridge forced to self-isolate due to Covid contact]]></title>
             <description><![CDATA[Kensington Palace says the Duchess of Cambridge is not experiencing any coronavirus symptoms.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57721140</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57721140</guid>
-            <pubDate>Mon, 05 Jul 2021 10:17:54 GMT</pubDate>
+            <pubDate>Mon, 05 Jul 2021 10:35:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miami collapse: Remaining structure demolished over safety fears]]></title>
@@ -51,25 +51,18 @@
             <pubDate>Sun, 04 Jul 2021 23:01:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ever Given: Egypt agrees deal to release ship that blocked Suez Canal]]></title>
+            <description><![CDATA[Egypt's Suez Canal Authority agrees a compensation deal with the Ever Given's owners and insurers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57719551</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57719551</guid>
+            <pubDate>Mon, 05 Jul 2021 10:22:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: All foreign troops must leave by deadline - Taliban]]></title>
             <description><![CDATA[The group's stance comes amid reports US forces will stay to protect embassies and an airport.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57714808</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57714808</guid>
             <pubDate>Mon, 05 Jul 2021 06:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grenfell prompts creation of building safety regulator]]></title>
-            <description><![CDATA[The new watchdog will be able to prosecute rule-breaking developers and take their properties off the market.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57716130</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57716130</guid>
-            <pubDate>Sun, 04 Jul 2021 23:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain's Raducanu to headline Court One ]]></title>
-            <description><![CDATA[British wildcard Emma Raducanu headlines a mouth-watering day of fourth-round singles action on the show courts on day seven of Wimbledon.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57712820</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57712820</guid>
-            <pubDate>Sun, 04 Jul 2021 14:53:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soul Cap: Afro swimming cap Olympic rejection could be reconsidered after backlash]]></title>
@@ -80,7 +73,7 @@
         </item>
         <item>
             <title><![CDATA[Morrisons: Bidding war looms for supermarket as rivals circle]]></title>
-            <description><![CDATA[Apollo Global says it is considering an offer, days after the UK supermarket agreed to a £6.3bn takeover.]]></description>
+            <description><![CDATA[Apollo Global says it is considering a bid, days after the UK supermarket agreed to a £6.3bn takeover.]]></description>
             <link>https://www.bbc.co.uk/news/business-57718738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57718738</guid>
             <pubDate>Mon, 05 Jul 2021 09:33:35 GMT</pubDate>
@@ -268,6 +261,13 @@
             <pubDate>Thu, 01 Jul 2021 23:34:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wildcard Raducanu to headline Court One on day seven of Wimbledon]]></title>
+            <description><![CDATA[British wildcard Emma Raducanu headlines a mouth-watering day of fourth-round singles action on the show courts on day seven of Wimbledon.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57712820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57712820</guid>
+            <pubDate>Sun, 04 Jul 2021 14:53:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man Utd: Are Glazers making amends with Red Devils fans?]]></title>
             <description><![CDATA[The Glazer ownership spoke directly to fans for the first time in their 16-year reign, but are fans convinced the relationship between them and the club will change?]]></description>
             <link>https://www.bbc.co.uk/sport/football/57686531</link>
@@ -311,10 +311,10 @@
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[There is 'no reason' for England's final Covid restrictions to last beyond 19 July, the government says.]]></description>
+            <description><![CDATA[Boris Johnson is to set out plans for lifting the remaining Covid restrictions in England and restoring "people's freedoms".]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Fri, 02 Jul 2021 09:27:31 GMT</pubDate>
+            <pubDate>Mon, 05 Jul 2021 10:32:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
