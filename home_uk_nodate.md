@@ -3,7 +3,7 @@
 3. [Duchess of Cambridge forced to self-isolate due to Covid contact](https://www.bbc.co.uk/news/uk-57721140) - Kensington Palace says the Duchess of Cambridge is not experiencing any coronavirus symptoms.
 4. [Miami collapse: Remaining structure demolished over safety fears](https://www.bbc.co.uk/news/world-us-canada-57716934) - The remaining section of the collapsed building is brought down as teams resume the search for victims.
 5. [After Lod violence, Israeli city's residents fear for the future](https://www.bbc.co.uk/news/world-middle-east-57698950) - Both Jewish and Arab Israelis feel unprotected after intercommunal violence in the Israeli city.
-6. [Ever Given: Egypt agrees deal to release ship that blocked Suez Canal](https://www.bbc.co.uk/news/world-middle-east-57719551) - Egypt's Suez Canal Authority agrees a compensation deal with the Ever Given's owners and insurers.
+6. [Ever Given: Egypt agrees deal to release ship that blocked Suez Canal](https://www.bbc.co.uk/news/world-middle-east-57719551) - Egypt agrees a compensation deal with the impounded Ever Given's owners and insurers.
 7. [Afghanistan: All foreign troops must leave by deadline - Taliban](https://www.bbc.co.uk/news/world-asia-57714808) - The group's stance comes amid reports US forces will stay to protect embassies and an airport.
 8. [Soul Cap: Afro swimming cap Olympic rejection could be reconsidered after backlash](https://www.bbc.co.uk/news/newsbeat-57687096) - The governing body had told Soul Cap their hats don't follow "the natural form of the head".
 9. [Morrisons: Bidding war looms for supermarket as rivals circle](https://www.bbc.co.uk/news/business-57718738) - Apollo Global says it is considering a bid, days after the UK supermarket agreed to a £6.3bn takeover.
