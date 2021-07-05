@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jul 2021 15:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jul 2021 16:29:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: Mask law and one metre rule set to end in England]]></title>
-            <description><![CDATA[Boris Johnson is ready to announce most remaining Covid restrictions can be eased from 19 July.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57715496</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57715496</guid>
-            <pubDate>Mon, 05 Jul 2021 15:28:17 GMT</pubDate>
+            <title><![CDATA[Covid: Most rules set to end in England, says PM]]></title>
+            <description><![CDATA[Boris Johnson says distancing rules and mask law will be scrapped as England's lockdown roadmap ends.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57725523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57725523</guid>
+            <pubDate>Mon, 05 Jul 2021 16:20:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roberts Buncis: Boy, 15, convicted of knife murder of friend]]></title>
+            <description><![CDATA[Teenager convicted of killing friend Roberts Buncis in Boston, Lincolnshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-57724953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lincolnshire-57724953</guid>
+            <pubDate>Mon, 05 Jul 2021 16:07:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duchess of Cambridge forced to self-isolate due to Covid contact]]></title>
@@ -30,18 +37,11 @@
             <pubDate>Mon, 05 Jul 2021 13:58:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[After Lod violence, Israeli city's residents fear for the future]]></title>
-            <description><![CDATA[Both Jewish and Arab Israelis feel unprotected after intercommunal violence in the Israeli city.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57698950</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57698950</guid>
-            <pubDate>Sun, 04 Jul 2021 23:01:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Boris Johnson admits it's ludicrous he's PM, says Cummings]]></title>
             <description><![CDATA[The former aide launches another attack on the PM, but also defends his decision to work for him.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57722457</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57722457</guid>
-            <pubDate>Mon, 05 Jul 2021 13:36:07 GMT</pubDate>
+            <pubDate>Mon, 05 Jul 2021 16:04:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Captain Sir Tom laid to rest in hometown of Keighley]]></title>
@@ -93,6 +93,13 @@
             <pubDate>Mon, 05 Jul 2021 11:46:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My 'lovely' calves: Irish 10-year-old swaps cash prize for herd]]></title>
+            <description><![CDATA[Irish 10-year-old William Woods has been cow-unting his blessings after buying calves with the winnings from a prize draw.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57723463</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57723463</guid>
+            <pubDate>Mon, 05 Jul 2021 16:26:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NHS Covid thanksgiving service: 'They did what they could to save my life']]></title>
             <description><![CDATA[A doctor, a patient and a volunteer reflect on Covid-19, as a thanksgiving service is held at St Paul's.]]></description>
             <link>https://www.bbc.co.uk/news/57724439</link>
@@ -100,11 +107,11 @@
             <pubDate>Mon, 05 Jul 2021 13:46:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My 'lovely' calves: Irish 10-year-old swaps cash prize for herd]]></title>
-            <description><![CDATA[Have you herd about the 10-year-old who's creating his own field of dreams after winning €1,000?]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57722196</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57722196</guid>
-            <pubDate>Mon, 05 Jul 2021 15:34:40 GMT</pubDate>
+            <title><![CDATA[After Lod violence, Israeli city's residents fear for the future]]></title>
+            <description><![CDATA[Both Jewish and Arab Israelis feel unprotected after intercommunal violence in the Israeli city.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57698950</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57698950</guid>
+            <pubDate>Sun, 04 Jul 2021 23:01:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trafalgar Square Fourth Plinth: Winning design a 'litmus test' for society]]></title>
@@ -219,6 +226,20 @@
             <pubDate>Mon, 05 Jul 2021 15:28:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Harry Maguire: England defender wants no repeat of World Cup semi-final defeat]]></title>
+            <description><![CDATA[England "need to make sure" there is no repeat of their World Cup semi-final defeat against Croatia three years ago when they face Denmark at Wembley in the last four of Euro 2020 on Wednesday, says defender Harry Maguire.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57725655</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57725655</guid>
+            <pubDate>Mon, 05 Jul 2021 15:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the verge of greatness - can Cavendish break Tour stage win record?]]></title>
+            <description><![CDATA[After an eventful week at the Tour de France, it's all falling Mark Cavendish's way, so what does he have to do to break Eddy Merckx's record?]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/57716629</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57716629</guid>
+            <pubDate>Mon, 05 Jul 2021 15:33:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wimbledon 2021: Novak Djokovic beats Cristian Garin in last 16]]></title>
             <description><![CDATA[Novak Djokovic continues his bid for a record-equalling 20th men's Grand Slam title with a routine last-16 win against Chile's Cristian Garin.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57726016</link>
@@ -233,18 +254,11 @@
             <pubDate>Mon, 05 Jul 2021 14:30:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[South Africa isolating for second time in eight days after positive test]]></title>
-            <description><![CDATA[South Africa are isolating for the second time in eight days after a positive coronavirus test in the squad.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57724192</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57724192</guid>
-            <pubDate>Mon, 05 Jul 2021 13:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Curry set for Lions debut and Henderson named captain against Sharks]]></title>
-            <description><![CDATA[England flanker Tom Curry will make his British and Irish Lions debut and Ireland's Iain Henderson will captain the side against the Sharks on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57720212</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57720212</guid>
-            <pubDate>Mon, 05 Jul 2021 12:36:26 GMT</pubDate>
+            <title><![CDATA[Coronavirus: When can we stop wearing face masks or coverings?]]></title>
+            <description><![CDATA[Wearing a face covering is currently a legal requirement in many places, but rules are changing in England.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Mon, 05 Jul 2021 16:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
@@ -266,13 +280,6 @@
             <link>https://www.bbc.co.uk/news/explainers-53053337</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53053337</guid>
             <pubDate>Fri, 02 Jul 2021 16:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: When can we stop wearing face masks or coverings?]]></title>
-            <description><![CDATA[Wearing a face covering is currently a legal requirement in many places, but rules are under review.]]></description>
-            <link>https://www.bbc.co.uk/news/health-51205344</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
-            <pubDate>Mon, 05 Jul 2021 08:23:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
