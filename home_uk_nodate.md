@@ -8,7 +8,7 @@
 8. [Grenfell prompts creation of building safety regulator](https://www.bbc.co.uk/news/business-57716130) - The new watchdog will be able to prosecute rule-breaking developers and take their properties off the market.
 9. [Britain's Raducanu to headline Court One ](https://www.bbc.co.uk/sport/tennis/57712820) - British wildcard Emma Raducanu headlines a mouth-watering day of fourth-round singles action on the show courts on day seven of Wimbledon.
 10. [Dozens killed in Philippine military plane crash](https://www.bbc.co.uk/news/world-asia-57711597) - The aircraft was carrying 96 people, mostly troops, when it overshot a runway on Sunday.
-11. [Morrisons could see counter offer days after agreeing £6.3bn takeover](https://www.bbc.co.uk/news/business-57718738) - Apollo Global says it is considering a bid, days after the UK supermarket agreed to a £6.3bn takeover.
+11. [Morrisons could see rival offer days after agreeing £6.3bn takeover](https://www.bbc.co.uk/news/business-57718738) - Apollo Global says it is considering a bid, days after the UK supermarket agreed to a £6.3bn takeover.
 12. [Covid: Parents' relief as hospital visit rules change](https://www.bbc.co.uk/news/uk-wales-57696170) - New guidance would allow any visitors if they have a negative Covid test.
 13. [Significant Edward Lear poems discovered](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57699393) - A PhD student discovered the pages written by the nonsense poet to a woman he befriended in Italy.
 14. [The Papers: PM to unveil unlocking plans, and 'George Cross for NHS'](https://www.bbc.co.uk/news/blogs-the-papers-57716634) - Monday's papers lead with details of which measures are expected to be lifted in England after 19 July.
