@@ -7,9 +7,9 @@
 7. [Boris Johnson admits it's ludicrous he's PM, says Cummings](https://www.bbc.co.uk/news/uk-politics-57722457) - The former aide launches another attack on the PM, but also defends his decision to work for him.
 8. [Four-day week 'an overwhelming success' in Iceland](https://www.bbc.co.uk/news/business-57724779) - The majority of workers in Iceland now look set to move to shorter hours for the same pay.
 9. [Captain Sir Tom laid to rest in hometown of Keighley](https://www.bbc.co.uk/news/uk-england-leeds-57725373) - The NHS fundraiser and WW2 veteran died aged 100 in February after testing positive for Covid-19.
-10. [Afghanistan: Soldiers flee to Tajikistan after Taliban clashes](https://www.bbc.co.uk/news/world-asia-57720103) - More than 1,000 soldiers retreat to Tajikistan as fighting with the militants intensifies.
-11. [Duchess of Cambridge forced to self-isolate due to Covid contact](https://www.bbc.co.uk/news/uk-57721140) - Kensington Palace says the Duchess of Cambridge is not experiencing any coronavirus symptoms.
-12. [Ever Given: Egypt agrees deal to release ship that blocked Suez Canal](https://www.bbc.co.uk/news/world-middle-east-57719551) - Egypt agrees a compensation deal with the impounded Ever Given's owners and insurers.
+10. [Manchester Arena Inquiry: Ex-GMP officer investigated over evidence](https://www.bbc.co.uk/news/uk-england-manchester-57720019) - Ch Insp Dale Sexton is being investigated over his evidence at the Manchester Arena attack inquiry.
+11. [Afghanistan: Soldiers flee to Tajikistan after Taliban clashes](https://www.bbc.co.uk/news/world-asia-57720103) - More than 1,000 soldiers retreat to Tajikistan as fighting with the militants intensifies.
+12. [Duchess of Cambridge forced to self-isolate due to Covid contact](https://www.bbc.co.uk/news/uk-57721140) - Kensington Palace says the Duchess of Cambridge is not experiencing any coronavirus symptoms.
 13. [Hairspray: West End musical cancels performances after Covid case](https://www.bbc.co.uk/news/entertainment-arts-57725704) - The West End hit is suspended until 14 July after a member of its crew tests positive for Covid-19.
 14. [Boris Johnson: 'If we can't reopen in next few weeks, when will we?'](https://www.bbc.co.uk/news/uk-57728217) - Prime Minister Boris Johnson speaks about the final step of England's roadmap out of lockdown.
 15. [Covid: The restrictions-easing dilemma facing Southwold](https://www.bbc.co.uk/news/uk-england-suffolk-57725734) - People in Southwold, a popular tourist destination, react to the restriction-easing measures.
