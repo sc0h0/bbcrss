@@ -1,5 +1,5 @@
 1. [Boris Johnson to set out England's final Covid lockdown easing](https://www.bbc.co.uk/news/uk-57715496) - Boris Johnson says he wants to "restore freedoms", as he unveils plans on social distancing and masks.
-2. [Royals celebrate NHS anniversary with George Cross and tea party](https://www.bbc.co.uk/news/uk-57714088) - The Queen awards the George Cross to the health service for its "courage, compassion and dedication".
+2. [Royals celebrate NHS anniversary with George Cross and tea party](https://www.bbc.co.uk/news/uk-57714088) - The Queen awards the NHS the George Cross while the Duke of Cambridge attends a thanksgiving service.
 3. [Duchess of Cambridge forced to self-isolate due to Covid contact](https://www.bbc.co.uk/news/uk-57721140) - Kensington Palace says the Duchess of Cambridge is not experiencing any coronavirus symptoms.
 4. [Miami collapse: Remaining structure demolished over safety fears](https://www.bbc.co.uk/news/world-us-canada-57716934) - The remaining section of the collapsed building is brought down as teams resume the search for victims.
 5. [After Lod violence, Israeli city's residents fear for the future](https://www.bbc.co.uk/news/world-middle-east-57698950) - Both Jewish and Arab Israelis feel unprotected after intercommunal violence in the Israeli city.
