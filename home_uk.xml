@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jul 2021 20:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 20:26:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/uk-57733276</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57733276</guid>
             <pubDate>Tue, 06 Jul 2021 18:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[School bubbles to be axed in England]]></title>
-            <description><![CDATA[Restrictions in England's schools are axed, as 641,000 pupils miss school due to Covid regulations.]]></description>
-            <link>https://www.bbc.co.uk/news/education-57736739</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57736739</guid>
-            <pubDate>Tue, 06 Jul 2021 15:16:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wembley park stabbings: Danyal Hussein guilty of murdering sisters]]></title>
@@ -44,6 +37,13 @@
             <pubDate>Tue, 06 Jul 2021 19:10:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[School bubbles to be axed in England]]></title>
+            <description><![CDATA[Restrictions in England's schools are axed, as 641,000 pupils miss school due to Covid regulations.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57736739</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57736739</guid>
+            <pubDate>Tue, 06 Jul 2021 15:16:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Raducanu feeling better after Wimbledon retirement]]></title>
             <description><![CDATA[Emma Raducanu says the "whole experience" of her run to the Wimbledon fourth round "caught up" with her but is now "feeling better" after her mid-match retirement.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57737252</link>
@@ -55,7 +55,7 @@
             <description><![CDATA[Peter R de Vries was attacked in Amsterdam after appearing on a TV show.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57743233</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57743233</guid>
-            <pubDate>Tue, 06 Jul 2021 19:55:37 GMT</pubDate>
+            <pubDate>Tue, 06 Jul 2021 20:21:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rape victims still face police phone trawl, says commissioner]]></title>
@@ -121,13 +121,6 @@
             <pubDate>Tue, 06 Jul 2021 14:59:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: The craft brewery using algae to cut emissions]]></title>
-            <description><![CDATA[An Australian craft brewery is using microalgae to turn their carbon emissions into oxygen.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57675513</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57675513</guid>
-            <pubDate>Mon, 05 Jul 2021 23:01:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Influencers react to Norway photo edit law: 'Welcome honesty' or a 'shortcut'?]]></title>
             <description><![CDATA[The rule on clearly labelling posts is part of an effort to "reduce body pressure" on young people.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57721080</link>
@@ -140,6 +133,13 @@
             <link>https://www.bbc.co.uk/sport/av/tennis/57739072</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57739072</guid>
             <pubDate>Tue, 06 Jul 2021 13:24:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: The craft brewery using algae to cut emissions]]></title>
+            <description><![CDATA[An Australian craft brewery is using microalgae to turn their carbon emissions into oxygen.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57675513</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57675513</guid>
+            <pubDate>Mon, 05 Jul 2021 23:01:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is busking on TikTok the future?]]></title>
@@ -261,7 +261,7 @@
             <pubDate>Tue, 06 Jul 2021 15:39:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: Emerson Palmieri Emerson rattles the woodwork against Spain]]></title>
+            <title><![CDATA[Euro 2020: Emerson Palmieri rattles the woodwork against Spain]]></title>
             <description><![CDATA[Emerson Palmieri almost puts Italy in front as his shot rattles against the woodwork against Spain in their semi-final tie at Wembley during Euro 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57743588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57743588</guid>
