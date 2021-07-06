@@ -1,4 +1,4 @@
-1. [Covid: Most rules set to end in England, says PM](https://www.bbc.co.uk/news/uk-57725523) - Boris Johnson says the success of the vaccine means England can begin to look beyond restrictions.
+1. [Covid-19: New rules for schools in England to be set out](https://www.bbc.co.uk/news/uk-57730189) - It is expected that testing of pupils will replace the need to send entire class "bubbles" home.
 2. [PM, Whitty, and Vallance on when they'll wear masks](https://www.bbc.co.uk/news/uk-57728218) - Prof Chris Whitty and Sir Patrick Vallance explain the situations in which they'll still use face coverings.
 3. [Covid-19: Germany lifts ban on tourists from UK and Portugal](https://www.bbc.co.uk/news/world-europe-57730092) - People who are fully vaccinated will also not be required to quarantine when they arrive.
 4. [Roberts Buncis: Boy, 15, convicted of knife murder of friend](https://www.bbc.co.uk/news/uk-england-lincolnshire-57724953) - Roberts Buncis was stabbed more than 70 times in the attack just two days before his 13th birthday.
