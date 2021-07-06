@@ -9,7 +9,7 @@
 9. [Euro 2020: Pubs to stay open later for final on Sunday](https://www.bbc.co.uk/news/uk-politics-57736417) - Premises will be able to stay open until 11.15pm, in case the game goes to extra time and penalties.
 10. [State pension predicted to rise by 8%](https://www.bbc.co.uk/news/business-57734805) - The latest forecasts mean the debate about the triple lock guarantee will heat up.
 11. [US left Bagram Airbase at night with no notice, Afghan commander says](https://www.bbc.co.uk/news/world-asia-57682290) - American troops quietly withdrew from the key airbase in the early hours, new base commander says.
-12. [Stockwell Six: Three men have 1972 convictions quashed by Court of Appeal](https://www.bbc.co.uk/news/uk-england-london-57735027) - The men, jailed for allegedly attempting to rob a policeman nearly 50 years ago, feel 'vindicated'.
+12. [US military cancels $10bn cloud computing contract](https://www.bbc.co.uk/news/business-57739636) - The US defence department is scrapping a cloud computing contract, which sparked a row between Amazon and Microsoft.
 13. [Covid in India: Tackling lack of online learning in Delhi's slums](https://www.bbc.co.uk/news/newsbeat-57671944) - Devanshi, 21, helps children who are at risk of losing school forever - particularly girls.
 14. [France in a fizz over Russia's champagne label law](https://www.bbc.co.uk/news/world-europe-57733684) - A law forcing French fizz makers to label their bottles as sparkling wine has left them bubbling.
 15. [Nintendo Switch OLED Model gets an upgraded screen](https://www.bbc.co.uk/news/technology-57734949) - A larger OLED screen is the main feature, with a host of other small improvements to the device.
