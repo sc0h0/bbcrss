@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jul 2021 04:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 04:32:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,20 @@
             <pubDate>Mon, 05 Jul 2021 23:28:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Julia Banks: Ex-Australia MP alleges inappropriate touching by minister]]></title>
+            <description><![CDATA[Former government MP Julia Banks quit the ruling party in 2018 over its treatment of women.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57730824</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57730824</guid>
+            <pubDate>Tue, 06 Jul 2021 02:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tropical Storm Elsa: Cuba reels as storm moves towards Florida]]></title>
+            <description><![CDATA[The storm is moving north towards Florida, but it threatens to dump more rain on Cuba as it leaves.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57720222</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57720222</guid>
+            <pubDate>Tue, 06 Jul 2021 03:22:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vauxhall to build electric vans at Ellesmere Port]]></title>
             <description><![CDATA[The car manufacturer is expected to confirm plans to make electric vans.]]></description>
             <link>https://www.bbc.co.uk/news/business-57726818</link>
@@ -65,25 +79,11 @@
             <pubDate>Mon, 05 Jul 2021 23:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Georgia: Tbilisi Pride cancelled as far-right protesters burn rainbow flags]]></title>
-            <description><![CDATA[LGBT activists cancel a Pride event after violent far-right protests in Georgia's capital Tbilisi.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57727887</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57727887</guid>
-            <pubDate>Mon, 05 Jul 2021 18:08:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ice hockey player dies in 4 July firework accident]]></title>
             <description><![CDATA[Columbus Blue Jackets goaltender Matiss Kivlenieks dies after a "fireworks malfunction" at a Fourth of July party.]]></description>
             <link>https://www.bbc.co.uk/sport/ice-hockey/57725848</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/ice-hockey/57725848</guid>
             <pubDate>Mon, 05 Jul 2021 18:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson admits it's ludicrous he's PM, says Cummings]]></title>
-            <description><![CDATA[The former aide launches another attack on the PM, but also defends his decision to work for him.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57722457</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57722457</guid>
-            <pubDate>Mon, 05 Jul 2021 16:04:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Four-day week 'an overwhelming success' in Iceland]]></title>
