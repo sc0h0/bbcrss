@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jul 2021 10:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 10:51:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Tue, 06 Jul 2021 10:21:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vauxhall to build electric vans at Ellesmere Port]]></title>
+            <description><![CDATA[The carmaker announces a £100m investment, safeguarding more than 1,000 jobs at the plant.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57726818</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57726818</guid>
+            <pubDate>Tue, 06 Jul 2021 10:34:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Germany lifts ban on tourists from UK and Portugal]]></title>
             <description><![CDATA[People who are fully vaccinated will also not be required to quarantine when they arrive.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57730092</link>
@@ -62,7 +69,7 @@
             <description><![CDATA[The majority of workers in Iceland now look set to move to shorter hours for the same pay.]]></description>
             <link>https://www.bbc.co.uk/news/business-57724779</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57724779</guid>
-            <pubDate>Mon, 05 Jul 2021 18:02:50 GMT</pubDate>
+            <pubDate>Tue, 06 Jul 2021 10:41:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shopping getting back to normal, say Sainsbury's and Ocado]]></title>
@@ -72,18 +79,11 @@
             <pubDate>Tue, 06 Jul 2021 08:34:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Roberts Buncis: Boy, 15, convicted of knife murder of friend]]></title>
-            <description><![CDATA[Roberts Buncis was stabbed more than 70 times in the attack just two days before his 13th birthday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-57724953</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lincolnshire-57724953</guid>
-            <pubDate>Mon, 05 Jul 2021 17:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manchester Arena Inquiry: Ex-GMP officer investigated over evidence]]></title>
-            <description><![CDATA[Ch Insp Dale Sexton is being investigated over his evidence at the Manchester Arena attack inquiry.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57720019</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57720019</guid>
-            <pubDate>Mon, 05 Jul 2021 20:49:38 GMT</pubDate>
+            <title><![CDATA[Doctor denies attempting to murder fellow plastic surgeon]]></title>
+            <description><![CDATA[Jonathan Brooks was arrested after Graeme Perks was stabbed at his home in Nottinghamshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57732882</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57732882</guid>
+            <pubDate>Tue, 06 Jul 2021 10:26:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: Now or never, says PM, after lockdown ending 'gamble']]></title>
@@ -272,7 +272,7 @@
             <description><![CDATA[Boris Johnson has set out government plans for lifting the remaining Covid restrictions in England.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 05 Jul 2021 17:48:19 GMT</pubDate>
+            <pubDate>Tue, 06 Jul 2021 10:37:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
