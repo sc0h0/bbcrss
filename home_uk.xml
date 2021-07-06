@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jul 2021 16:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 17:26:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Tue, 06 Jul 2021 15:59:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rape victims still face police phone trawl, says commissioner]]></title>
+            <description><![CDATA[Government proposals are a backward step for rape victims, says Dame Vera Baird.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57738550</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57738550</guid>
+            <pubDate>Tue, 06 Jul 2021 17:01:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Raducanu feeling better after Wimbledon retirement]]></title>
             <description><![CDATA[Emma Raducanu says the "whole experience" of her run to the Wimbledon fourth round "caught up" with her but is now "feeling better" after her mid-match retirement.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57737252</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57737252</guid>
             <pubDate>Tue, 06 Jul 2021 16:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Pubs to stay open later for final on Sunday]]></title>
-            <description><![CDATA[Premises will be able to stay open until 11.15pm, in case the game goes to extra time and penalties.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57736417</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57736417</guid>
-            <pubDate>Tue, 06 Jul 2021 13:19:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Self-isolation to end for double-jabbed, and school bubbles scrapped in England]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57722068</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57722068</guid>
             <pubDate>Tue, 06 Jul 2021 12:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Pubs to stay open later for final on Sunday]]></title>
+            <description><![CDATA[Premises will be able to stay open until 11.15pm, in case the game goes to extra time and penalties.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57736417</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57736417</guid>
+            <pubDate>Tue, 06 Jul 2021 13:19:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tour de France 2021: Mark Cavendish wins 33rd stage to move within one of all-time record]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/business-57727567</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57727567</guid>
             <pubDate>Tue, 06 Jul 2021 13:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vauxhall UK plant safe with electric vehicle plan]]></title>
-            <description><![CDATA[The Ellesmere Port factory will get a £100m investment to build electric vehicles and protect 1,000 jobs.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57726818</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57726818</guid>
-            <pubDate>Tue, 06 Jul 2021 16:14:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in India: Tackling lack of online learning in Delhi's slums]]></title>
@@ -240,18 +240,25 @@
             <pubDate>Mon, 05 Jul 2021 21:06:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lions tour game on Saturday off after Covid cases in opposition camp]]></title>
+            <description><![CDATA[Saturday's British and Irish Lions game against Vodacom Bulls is postponed because of Covid-19 cases in the hosts' camp.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57741576</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57741576</guid>
+            <pubDate>Tue, 06 Jul 2021 17:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barty cruises into Wimbledon semi-finals for first time]]></title>
+            <description><![CDATA[World number one Ashleigh Barty crushes fellow Australian Ajla Tomljanovic to reach the Wimbledon semi-finals for the first time.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57737313</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57737313</guid>
+            <pubDate>Tue, 06 Jul 2021 17:24:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wimbledon 2021: 'It's been the best week of my life' - Emma Raducanu]]></title>
             <description><![CDATA[Emma Raducanu tells Sue Barker about her whirlwind first Wimbledon experience, her plans for the future, and her score prediction for England v Denmark in the Euros.]]></description>
             <link>https://www.bbc.co.uk/sport/av/tennis/57739078</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57739078</guid>
             <pubDate>Tue, 06 Jul 2021 15:39:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Copa America: Neymar sets up Paqueta for only goal in semi-final]]></title>
-            <description><![CDATA[Neymar's trickery sets up Lucas Paqueta to score the winner for Brazil in their Copa America semi-final win over Peru.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57734225</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57734225</guid>
-            <pubDate>Tue, 06 Jul 2021 08:41:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Who has to self-isolate and what if I'm fully vaccinated?]]></title>
@@ -265,7 +272,7 @@
             <description><![CDATA[Some customers will still be asked to wear face masks even after it becomes a "personal choice" on 19 July.]]></description>
             <link>https://www.bbc.co.uk/news/business-57677159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57677159</guid>
-            <pubDate>Tue, 06 Jul 2021 15:24:43 GMT</pubDate>
+            <pubDate>Tue, 06 Jul 2021 17:16:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules about self-isolating, testing and masks in schools?]]></title>
