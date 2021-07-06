@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jul 2021 20:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 21:15:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Tue, 06 Jul 2021 20:49:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New York governor declares gun violence a health emergency]]></title>
+            <description><![CDATA[The order directs nearly $140m to prevention programmes to combat a rise in gun violence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57743694</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57743694</guid>
+            <pubDate>Tue, 06 Jul 2021 21:01:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rape victims still face police phone trawl, says commissioner]]></title>
             <description><![CDATA[Government proposals are a backward step for rape victims, says Dame Vera Baird.]]></description>
             <link>https://www.bbc.co.uk/news/education-57738550</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57722068</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57722068</guid>
             <pubDate>Tue, 06 Jul 2021 12:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Pubs to stay open later for final on Sunday]]></title>
-            <description><![CDATA[Premises will be able to stay open until 11.15pm, in case the game goes to extra time and penalties.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57736417</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57736417</guid>
-            <pubDate>Tue, 06 Jul 2021 13:19:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[State pension predicted to rise by 8%]]></title>
@@ -254,18 +254,18 @@
             <pubDate>Tue, 06 Jul 2021 17:40:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Euro 2020: Alvaro Morata brings Spain level against Italy]]></title>
+            <description><![CDATA[Substitute Alvaro Morata scores a vital goal to put Spain level in their semi-final tie against Italy at Wembley during Euro 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57744055</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57744055</guid>
+            <pubDate>Tue, 06 Jul 2021 20:51:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wimbledon 2021: Selfies, umbrella bunkers & quarter-final showdowns - day eight best bits]]></title>
             <description><![CDATA[Watch the best bits from day eight of Wimbledon including the women's quarter-finals, some cracking selfies and celebrity spotting on Centre Court.]]></description>
             <link>https://www.bbc.co.uk/sport/av/tennis/57742552</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57742552</guid>
             <pubDate>Tue, 06 Jul 2021 18:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wimbledon 2021: 'It's been the best week of my life' - Emma Raducanu]]></title>
-            <description><![CDATA[Emma Raducanu tells Sue Barker about her whirlwind first Wimbledon experience, her plans for the future, and her score prediction for England v Denmark in the Euros.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/tennis/57739078</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57739078</guid>
-            <pubDate>Tue, 06 Jul 2021 15:39:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Who has to self-isolate and what if I'm fully vaccinated?]]></title>
