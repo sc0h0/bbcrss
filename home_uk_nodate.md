@@ -1,6 +1,6 @@
 1. [Covid: Self-isolation to be scrapped for double-jabbed and children in England](https://www.bbc.co.uk/news/uk-57733276) - Under-18s in England also won't have to self-isolate if a close contact tests positive from 16 August.
-2. [Vauxhall UK plant safe with electric vehicle plan](https://www.bbc.co.uk/news/business-57726818) - The Ellesmere Port factory will get a £100m investment to build electric vehicles and protect 1,000 jobs.
-3. [Huge surge in number of pupils sent home due to Covid](https://www.bbc.co.uk/news/education-57723916) - More than 640,000 pupils in England were not in school last week due to Covid - up from 375,000 the week before.
+2. [School bubbles to be axed in England's schools](https://www.bbc.co.uk/news/education-57736739) - The education secretary sets out how school Covid restrictions will be eased.
+3. [Vauxhall UK plant safe with electric vehicle plan](https://www.bbc.co.uk/news/business-57726818) - The Ellesmere Port factory will get a £100m investment to build electric vehicles and protect 1,000 jobs.
 4. [BBC star salaries: Gary Lineker still BBC's top earner despite pay cut](https://www.bbc.co.uk/news/entertainment-arts-57722068) - He agreed to a wage cut last year while Zoe Ball, second on the list, asked for a pay reduction.
 5. [Euro 2020: Pubs to stay open later for final on Sunday](https://www.bbc.co.uk/news/uk-politics-57736417) - Premises will be able to stay open until 11.15pm, in case the game goes to extra time and penalties.
 6. [US left Bagram Airbase at night with no notice, Afghan commander says](https://www.bbc.co.uk/news/world-asia-57682290) - American troops quietly withdrew from the key airbase in the early hours, new base commander says.
