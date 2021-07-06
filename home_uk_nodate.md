@@ -25,7 +25,7 @@
 25. [Riot of cherry blossom reveals new Damien Hirst post-lockdown](https://www.bbc.co.uk/news/world-europe-57720365) - Giant cherry blossom paintings by Damien Hirst contrast with his previous dead animal art.
 26. [India's Covid doctors demand action after attacks](https://www.bbc.co.uk/news/world-asia-india-57648320) - Doctors are seeking a stringent law to protect them from attacks by angry and frustrated relatives.
 27. [How to get a lucrative job in cybersecurity](https://www.bbc.co.uk/news/business-57663096) - There's a serious shortage of IT security workers, so recruiters are fishing in a bigger pool.
-28. ['Prison is the safest place for my mum'](https://www.bbc.co.uk/news/uk-wales-57720484) - Ex-offenders, experts and support services all want better rehabilitation services in Wales.
+28. [Rehab in Wales: 'Prison is the safest place for my mum'](https://www.bbc.co.uk/news/uk-wales-57720484) - Ex-offenders, experts and support services all want better rehabilitation services in Wales.
 29. [Benefits and disability: 'I'll never cohabit again, to protect myself'](https://www.bbc.co.uk/news/disability-57482418) - Some disabled people have been left uncomfortably reliant on partners after benefits were removed.
 30. [Is the use of jetpacks finally about to take off?](https://www.bbc.co.uk/news/business-57652297) - Members of the public can now pay to fly through the air like a superhero.
 31. [Letter from Africa: Lamenting the Algeria-Morocco border closure](https://www.bbc.co.uk/news/world-africa-57467644) - The Morocco-Algeria border has been closed for decades, despite close ties between the people.
