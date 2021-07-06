@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jul 2021 22:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 23:21:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/sport/football/51198738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51198738</guid>
             <pubDate>Tue, 06 Jul 2021 22:26:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: England face Denmark as they eye first major final for 55 years]]></title>
+            <description><![CDATA[England are preparing to face Denmark in the semi-finals of Euro 2020 at Wembley on Wednesday, knowing victory will secure them a place in the final for the first time.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57735477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57735477</guid>
+            <pubDate>Tue, 06 Jul 2021 22:24:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wembley park stabbings: Danyal Hussein guilty of murdering sisters]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/business-57734805</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57734805</guid>
             <pubDate>Tue, 06 Jul 2021 12:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US military cancels $10bn cloud computing contract]]></title>
-            <description><![CDATA[The US defence department is scrapping a cloud computing contract, which sparked a row between Amazon and Microsoft.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57739636</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57739636</guid>
-            <pubDate>Tue, 06 Jul 2021 19:45:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in India: Tackling lack of online learning in Delhi's slums]]></title>
@@ -224,13 +224,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57720484</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57720484</guid>
             <pubDate>Tue, 06 Jul 2021 05:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We are ready' - England eye victory over Denmark and first major final since 1966]]></title>
-            <description><![CDATA[England are preparing to face Denmark in the semi-finals of Euro 2020 at Wembley on Wednesday, knowing victory will secure them a place in the final for the first time.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57735477</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57735477</guid>
-            <pubDate>Tue, 06 Jul 2021 22:24:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cavendish wins 33rd Tour stage to close within one of Merckx record ]]></title>
