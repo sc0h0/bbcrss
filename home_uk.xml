@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jul 2021 23:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 23:35:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,11 +107,25 @@
             <pubDate>Tue, 06 Jul 2021 12:23:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Newspaper headlines: 'Isolation insanity' and 'Beer we go' as England awaits]]></title>
+            <description><![CDATA[The papers consider the risks of extending isolation rules for the fully vaccinated as Euros fever builds.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57744001</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57744001</guid>
+            <pubDate>Tue, 06 Jul 2021 23:32:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in India: Tackling lack of online learning in Delhi's slums]]></title>
             <description><![CDATA[Devanshi, 21, helps children who are at risk of losing school forever - particularly girls.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57671944</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57671944</guid>
             <pubDate>Tue, 06 Jul 2021 11:17:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Probation officers are the forgotten part of the criminal justice system']]></title>
+            <description><![CDATA[The BBC spends the day with Sam Gildersleeve, a probation officer in Chelmsford, Essex.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57688735</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57688735</guid>
+            <pubDate>Tue, 06 Jul 2021 23:04:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[France in a fizz over Russia's champagne label law]]></title>
@@ -161,20 +175,6 @@
             <link>https://www.bbc.co.uk/news/in-pictures-56986767</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-56986767</guid>
             <pubDate>Mon, 05 Jul 2021 23:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bafta-nominated young game designers take on real-world issues]]></title>
-            <description><![CDATA[Bafta's nominees for Young Game Designer of the year tackle important issues for a new generation.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-57688109</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-57688109</guid>
-            <pubDate>Mon, 05 Jul 2021 23:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson: 'If we can't reopen in next few weeks, when will we?']]></title>
-            <description><![CDATA[Prime Minister Boris Johnson speaks about the final step of England's roadmap out of lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57728217</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57728217</guid>
-            <pubDate>Mon, 05 Jul 2021 16:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: 'For us it's not freedom day, is it?']]></title>
