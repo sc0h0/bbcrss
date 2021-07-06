@@ -46,5 +46,5 @@
 46. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - The government is considering allowing double vaccinated adults to avoid quarantine after travel.
 47. [Covid map: Coronavirus cases, deaths, vaccinations by country](https://www.bbc.co.uk/news/world-51235105) - Key maps and charts explaining how the virus has spread around the world.
 48. ['Coercion and rape': Investigating my yoga school](https://www.bbc.co.uk/news/world-asia-india-57400014) - Ishleen Kaur was passionate about yoga movement Sivananda, until she found allegations of sexual abuse.
-49. [British Jews' fear and defiance amid record monthly anti-Semitism reports](https://www.bbc.co.uk/news/uk-57339266) - Some 460 anti-Semitic incidents were reported to the Community Security Trust from 8 May to 7 June.
-50. [A fake wedding, and a $250,000 scam](https://www.bbc.co.uk/news/world-europe-57358241) - How a British man's dreams of a future with his Ukrainian fiancee ended in financial disaster.
+49. [A fake wedding, and a $250,000 scam](https://www.bbc.co.uk/news/world-europe-57358241) - How a British man's dreams of a future with his Ukrainian fiancee ended in financial disaster.
+50. [Covid quarantine hotels: Women say they were sexually harassed by guards](https://www.bbc.co.uk/news/stories-57609164) - One woman tells the BBC a security guard employed by G4S mimed sex while they were alone in a lift.

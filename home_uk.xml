@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jul 2021 07:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 07:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -352,18 +352,18 @@
             <pubDate>Thu, 01 Jul 2021 23:28:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[British Jews' fear and defiance amid record monthly anti-Semitism reports]]></title>
-            <description><![CDATA[Some 460 anti-Semitic incidents were reported to the Community Security Trust from 8 May to 7 June.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57339266</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57339266</guid>
-            <pubDate>Tue, 29 Jun 2021 07:58:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A fake wedding, and a $250,000 scam]]></title>
             <description><![CDATA[How a British man's dreams of a future with his Ukrainian fiancee ended in financial disaster.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57358241</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57358241</guid>
             <pubDate>Mon, 21 Jun 2021 23:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid quarantine hotels: Women say they were sexually harassed by guards]]></title>
+            <description><![CDATA[One woman tells the BBC a security guard employed by G4S mimed sex while they were alone in a lift.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-57609164</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57609164</guid>
+            <pubDate>Sat, 26 Jun 2021 03:23:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
