@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Jul 2021 02:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 03:13:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Wed, 07 Jul 2021 01:52:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wembley park stabbings: Danyal Hussein guilty of murdering sisters]]></title>
-            <description><![CDATA[Danyal Hussein murdered Nicole Smallman and Bibaa Henry in a "demonic deal", his trial heard.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57721663</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57721663</guid>
-            <pubDate>Tue, 06 Jul 2021 15:59:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Peter R de Vries: Dutch crime journalist wounded in Amsterdam shooting]]></title>
             <description><![CDATA[Peter R de Vries is fighting for his life after being shot in an Amsterdam street.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57743233</link>
@@ -65,11 +58,25 @@
             <pubDate>Tue, 06 Jul 2021 23:33:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Big stars to play small shows as live music returns]]></title>
+            <description><![CDATA[Sir Tom Jones, Rag 'n' Bone Man and Sam Fender will all play grassroots venues over the summer.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57734078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57734078</guid>
+            <pubDate>Wed, 07 Jul 2021 02:59:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fishmongers' Hall: Steven Gallant to be freed from prison]]></title>
             <description><![CDATA[Convicted murderer Steven Gallant was on day release when he helped stop a knifeman's rampage.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57742691</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57742691</guid>
             <pubDate>Tue, 06 Jul 2021 19:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wembley park stabbings: Danyal Hussein guilty of murdering sisters]]></title>
+            <description><![CDATA[Danyal Hussein murdered Nicole Smallman and Bibaa Henry in a "demonic deal", his trial heard.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57721663</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57721663</guid>
+            <pubDate>Tue, 06 Jul 2021 15:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New York governor declares gun violence a health emergency]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57722068</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57722068</guid>
             <pubDate>Tue, 06 Jul 2021 12:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[State pension predicted to rise by 8%]]></title>
-            <description><![CDATA[The latest forecasts mean the debate about the triple lock guarantee will heat up.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57734805</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57734805</guid>
-            <pubDate>Tue, 06 Jul 2021 12:23:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newspaper headlines: 'Isolation insanity' and 'Beer we go' as England awaits]]></title>
@@ -280,6 +280,13 @@
             <link>https://www.bbc.co.uk/news/uk-57386719</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57386719</guid>
             <pubDate>Tue, 06 Jul 2021 15:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Government must clearly communicate Covid rule changes, say psychologists]]></title>
+            <description><![CDATA[Using nuanced language, acknowledging uncertainty and being empathetic are vital, a study suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57739832</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57739832</guid>
+            <pubDate>Wed, 07 Jul 2021 02:56:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Who has to self-isolate and what if I'm fully vaccinated?]]></title>
