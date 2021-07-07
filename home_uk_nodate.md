@@ -1,4 +1,4 @@
-1. [Haitian president killed in attack at home](https://www.bbc.co.uk/news/world-latin-america-57750358) - Haitian President Jovenel Moise has been killed during attack on his residence in Port-au-Prince, PM Claude Joseph says.
+1. [Haiti President Jovenel Moïse killed in attack at home](https://www.bbc.co.uk/news/world-latin-america-57750358) - Jovenel Moïse has been fatally shot and the first lady injured in Port-au-Prince, PM Claude Joseph says.
 2. [Record June temperatures point to more 'extraordinary' extremes](https://www.bbc.co.uk/news/science-environment-57742482) - North America experienced its warmest June on record and experts say the figures are frightening.
 3. [Wembley park stabbings: Nicole and Bibaa's mother 'has no peace' after murder conviction](https://www.bbc.co.uk/news/uk-57688736) - Mina Smallman says the man who murdered her daughters, Nicole and Bibaa, has "no power in our lives".
 4. [Dilip Kumar: Legendary Indian actor dies at 98](https://www.bbc.co.uk/news/world-asia-india-57383702) - The veteran actor was admitted to hospital after he complained of breathlessness.
