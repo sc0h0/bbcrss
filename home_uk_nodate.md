@@ -1,11 +1,11 @@
 1. [Covid: Heathrow to trial fast-tracking vaccinated arrivals](https://www.bbc.co.uk/news/business-57743038) - British Airways and Virgin Atlantic have teamed up with the UK's biggest airport for the pilot scheme.
-2. [Peter R de Vries: Dutch crime journalist wounded in Amsterdam shooting](https://www.bbc.co.uk/news/world-europe-57743233) - Peter R de Vries is fighting for his life after being shot in an Amsterdam street.
-3. [Record June temperatures point to more 'extraordinary' extremes](https://www.bbc.co.uk/news/science-environment-57742482) - North America experienced its warmest June on record and experts say the figures are frightening.
+2. [Record June temperatures point to more 'extraordinary' extremes](https://www.bbc.co.uk/news/science-environment-57742482) - North America experienced its warmest June on record and experts say the figures are frightening.
+3. [Peter R de Vries: Dutch crime journalist wounded in Amsterdam shooting](https://www.bbc.co.uk/news/world-europe-57743233) - Peter R de Vries is fighting for his life after being shot in an Amsterdam street.
 4. [Wembley park stabbings: Nicole and Bibaa's mother 'has no peace' after murder conviction](https://www.bbc.co.uk/news/uk-57688736) - Mina Smallman says the man who murdered her daughters, Nicole and Bibaa, has "no power in our lives".
 5. [Covid-19: Fast-tracking fully vaccinated arrivals and fed up with bad service](https://www.bbc.co.uk/news/uk-57741533) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
 6. [Customers fed up with Covid excuse for bad service](https://www.bbc.co.uk/news/business-57734808) - Complaints about poor customer service have risen to their highest level for 12 years, a survey says.
 7. [Covid: Sydney lockdown extended as Delta outbreak spreads](https://www.bbc.co.uk/news/world-australia-57744902) - A stay-at-home order is extended by one week as officials battle to contain a Covid outbreak.
-8. [House prices dip as stamp duty holiday ends](https://www.bbc.co.uk/news/business-57746662) - The start of phasing out of the stamp duty holiday led to house prices dipping 0.5% in June
+8. [House prices dip as stamp duty holiday ends](https://www.bbc.co.uk/news/business-57746662) - The start of phasing out of the stamp duty holiday led to house prices dipping 0.5% in June.
 9. [Brewdog Instagram ad banned for misleading health claims](https://www.bbc.co.uk/news/business-57732529) - The brewery company made general health claims that are not allowed for alcoholic drink promotions.
 10. [Close Hong Kong visa scheme loophole, MPs urge](https://www.bbc.co.uk/news/uk-57744847) - Young people who took part in pro-democracy demonstrations cannot apply for the right to come to the UK.
 11. [Dilip Kumar: Legendary Indian actor dies at 98](https://www.bbc.co.uk/news/world-asia-india-57383702) - The veteran actor was admitted to hospital after he complained of breathlessness.
