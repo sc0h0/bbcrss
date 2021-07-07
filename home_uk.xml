@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Jul 2021 10:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 10:41:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Haitian president killed in attack at home]]></title>
+            <description><![CDATA[Haitian President Jovenel Moise has been killed during attack on his residence in Port-au-Prince, PM Claude Joseph says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57750358</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57750358</guid>
+            <pubDate>Wed, 07 Jul 2021 10:39:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Record June temperatures point to more 'extraordinary' extremes]]></title>
             <description><![CDATA[North America experienced its warmest June on record and experts say the figures are frightening.]]></description>
@@ -34,7 +41,7 @@
             <description><![CDATA[The veteran actor was admitted to hospital after he complained of breathlessness.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57383702</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57383702</guid>
-            <pubDate>Wed, 07 Jul 2021 02:47:28 GMT</pubDate>
+            <pubDate>Wed, 07 Jul 2021 10:35:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ever Given: Ship that blocked Suez Canal sets sail after deal signed]]></title>
@@ -44,18 +51,18 @@
             <pubDate>Wed, 07 Jul 2021 09:52:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lady Lavinia Nourse: Ex-High Court judge widow in 'anonymity until charge' call]]></title>
+            <description><![CDATA[Lady Lavinia Nourse calls her two-week historical child sex abuse trial an "absolute nightmare".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57747099</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57747099</guid>
+            <pubDate>Wed, 07 Jul 2021 09:51:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Peter R de Vries: Dutch crime journalist wounded in Amsterdam shooting]]></title>
             <description><![CDATA[Peter R de Vries is fighting for his life after being shot in an Amsterdam street.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57743233</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57743233</guid>
             <pubDate>Wed, 07 Jul 2021 09:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Sydney lockdown extended as Delta outbreak spreads]]></title>
-            <description><![CDATA[A stay-at-home order is extended by one week as officials battle to contain a Covid outbreak.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57744902</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57744902</guid>
-            <pubDate>Wed, 07 Jul 2021 08:33:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[House prices dip as stamp duty holiday ends]]></title>
@@ -65,18 +72,11 @@
             <pubDate>Wed, 07 Jul 2021 07:06:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lady Lavinia Nourse: Ex-High Court judge widow in 'anonymity until charge' call]]></title>
-            <description><![CDATA[Lady Lavinia Nourse calls her two-week historical child sex abuse trial an "absolute nightmare".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57747099</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57747099</guid>
-            <pubDate>Wed, 07 Jul 2021 09:51:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Universal credit £20 top up to be phased out]]></title>
             <description><![CDATA[The £20-a-week boost - brought in to help with Covid - will be adjusted from this autumn, a minister says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57748815</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57748815</guid>
-            <pubDate>Wed, 07 Jul 2021 10:17:51 GMT</pubDate>
+            <pubDate>Wed, 07 Jul 2021 10:31:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Britney Spears' court-appointed lawyer offers to resign]]></title>
@@ -219,6 +219,13 @@
             <pubDate>Tue, 06 Jul 2021 22:24:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Who are the players in England's new 18-man ODI squad?]]></title>
+            <description><![CDATA[The potential debutants, the familiar faces, the big opportunities. Who are the 18 players in England's new squad to face Pakistan?]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57747391</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57747391</guid>
+            <pubDate>Wed, 07 Jul 2021 10:30:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020: England manager Gareth Southgate says he is only focused on semi-final against Denmark]]></title>
             <description><![CDATA[England manager Gareth Southgate tells BBC Radio 5 Live's Emma Saunders he is solely focused on the semi-final against Denmark.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57742510</link>
@@ -238,13 +245,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/57737252</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57737252</guid>
             <pubDate>Tue, 06 Jul 2021 16:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lions Test team selection 'wide open' - Warburton]]></title>
-            <description><![CDATA[Test selection for this summer's British and Irish Lions series against South Africa is "wide open", says two-time captain Sam Warburton.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57725206</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57725206</guid>
-            <pubDate>Wed, 07 Jul 2021 06:09:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euros 2020: What all of us can learn from Gareth Southgate]]></title>
@@ -272,7 +272,7 @@
             <description><![CDATA[What is it like playing in a semi-final of a major tournament for England? Former players give their advice.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57732771</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57732771</guid>
-            <pubDate>Wed, 07 Jul 2021 05:19:41 GMT</pubDate>
+            <pubDate>Wed, 07 Jul 2021 10:37:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v Denmark: Who made your England XI for semi-final against Denmark?]]></title>
