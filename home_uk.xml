@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Jul 2021 15:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 16:33:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,20 +51,6 @@
             <pubDate>Wed, 07 Jul 2021 14:42:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lorry drivers able to work longer hours to address shortage]]></title>
-            <description><![CDATA[Grant Shapps says the move will ease a driver shortage, but the industry calls it a sticking plaster.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57753277</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57753277</guid>
-            <pubDate>Wed, 07 Jul 2021 15:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rebekah Vardy gets partial win in Coleen Rooney libel battle]]></title>
-            <description><![CDATA[A judge throws out some of Coleen Rooney's defence in the latest stage of the libel battle.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57728818</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57728818</guid>
-            <pubDate>Wed, 07 Jul 2021 11:20:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Security minister resigns to focus on cancer recovery]]></title>
             <description><![CDATA[James Brokenshire stands down as security minister as lung cancer treatment takes "longer than expected".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57752534</link>
@@ -72,11 +58,25 @@
             <pubDate>Wed, 07 Jul 2021 15:52:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Intruder removed from TV's Love Island villa]]></title>
-            <description><![CDATA[An uninvited guest found his way on to the ITV reality show's Majorca set, but was swiftly removed.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57750001</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57750001</guid>
-            <pubDate>Wed, 07 Jul 2021 13:13:07 GMT</pubDate>
+            <title><![CDATA[Backlash against longer hours to ease lorry driver shortage]]></title>
+            <description><![CDATA[Grant Shapps says the move will ease a driver shortage, but the industry calls it a sticking plaster.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57753277</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57753277</guid>
+            <pubDate>Wed, 07 Jul 2021 16:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump sues Twitter, Google and Facebook alleging 'censorship']]></title>
+            <description><![CDATA[The former president's accounts were suspended over safety concerns after the Capitol riots.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57754435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57754435</guid>
+            <pubDate>Wed, 07 Jul 2021 16:29:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rebekah Vardy gets partial win in Coleen Rooney libel battle]]></title>
+            <description><![CDATA[A judge throws out some of Coleen Rooney's defence in the latest stage of the libel battle.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57728818</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57728818</guid>
+            <pubDate>Wed, 07 Jul 2021 11:20:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England's excitement ahead of Euro 2020 semi-final]]></title>
@@ -191,11 +191,18 @@
             <pubDate>Wed, 07 Jul 2021 12:57:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Top seed Djokovic into Wimbledon semi-finals]]></title>
+            <title><![CDATA[Top seed Djokovic to face Shapovalov in Wimbledon semi-finals]]></title>
             <description><![CDATA[Defending champion Novak Djokovic has too much quality for Hungary's Marton Fucsovics as he reaches the Wimbledon semi-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57743188</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57743188</guid>
-            <pubDate>Wed, 07 Jul 2021 15:38:28 GMT</pubDate>
+            <pubDate>Wed, 07 Jul 2021 15:58:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Van Aert claims spectacular stage 11 win as Pogacar shows slight vulnerability]]></title>
+            <description><![CDATA[Belgium's Wout van Aert secures a superb solo win on stage 11 of the Tour de France as Tadej Pogacar retains the yellow jersey.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/57754578</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57754578</guid>
+            <pubDate>Wed, 07 Jul 2021 16:26:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Raheem Sterling, Harry Kane, Harry Maguire & Jordan Henderson - watch every England Euro 2020 goal so far]]></title>
@@ -205,7 +212,7 @@
             <pubDate>Wed, 07 Jul 2021 01:41:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: Italy beat Spain on penalties after Morata miss]]></title>
+            <title><![CDATA[Euro 2020: Giorgio Chiellini, Gianluigi Donnarumma,, Unai Simon & Alvaro Morata - Italy beat Spain on penalties]]></title>
             <description><![CDATA[Watch the dramatic penalty shootout which saw Italy beat Spain 4-2 after their high-quality semi-final finished 1-1 in the semi-finals of the European Championship at Wembley.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57744892</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57744892</guid>
@@ -314,7 +321,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Tue, 06 Jul 2021 16:15:43 GMT</pubDate>
+            <pubDate>Wed, 07 Jul 2021 16:01:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Some firms to insist customers and staff still wear face masks]]></title>
