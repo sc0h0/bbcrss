@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Jul 2021 12:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 12:50:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,14 @@
             <description><![CDATA[The exemption will apply to vaccinated UK residents and under-18s arriving in England from 19 July.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57763173</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57763173</guid>
-            <pubDate>Thu, 08 Jul 2021 11:58:05 GMT</pubDate>
+            <pubDate>Thu, 08 Jul 2021 12:13:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: England charged by Uefa after 'laser' penalty incident]]></title>
             <description><![CDATA[Uefa charges England after a laser pointer is directed at Denmark goalkeeper Kasper Schmeichel during Wednesday's Euro 2020 semi-final.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57763001</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57763001</guid>
-            <pubDate>Thu, 08 Jul 2021 11:21:33 GMT</pubDate>
+            <pubDate>Thu, 08 Jul 2021 12:32:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson criticised over Mustique trip explanation]]></title>
@@ -41,21 +41,21 @@
             <description><![CDATA[Her Majesty meets cast and crew at the television studios of Britain's longest running soap opera.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57764192</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57764192</guid>
-            <pubDate>Thu, 08 Jul 2021 11:35:06 GMT</pubDate>
+            <pubDate>Thu, 08 Jul 2021 12:35:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chancellor Rishi Sunak hints at ruling out 8% pension rise]]></title>
             <description><![CDATA[Rishi Sunak says a decision on the future of the triple lock promise will be "based on fairness".]]></description>
             <link>https://www.bbc.co.uk/news/business-57762787</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57762787</guid>
-            <pubDate>Thu, 08 Jul 2021 11:09:51 GMT</pubDate>
+            <pubDate>Thu, 08 Jul 2021 12:35:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympic Games: State of emergency announced as Covid cases rise]]></title>
             <description><![CDATA[Organisers are also considering barring fans from almost all Olympic events, as Covid-19 cases surge.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57760883</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57760883</guid>
-            <pubDate>Thu, 08 Jul 2021 11:34:41 GMT</pubDate>
+            <pubDate>Thu, 08 Jul 2021 12:24:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: US-Canada heatwave 'virtually impossible' without warming]]></title>
@@ -65,18 +65,18 @@
             <pubDate>Thu, 08 Jul 2021 00:51:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Call to cancel operations to reduce NHS pressure]]></title>
-            <description><![CDATA[A senior public health official said "difficult decisions" must be made amid staff absences and rising admissions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57761409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57761409</guid>
-            <pubDate>Thu, 08 Jul 2021 09:52:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Apprentice: Claude Littner to miss next series after accident]]></title>
             <description><![CDATA[Tim Campbell will take his place beside Lord Sugar as he recovers from a serious bike accident.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57761478</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57761478</guid>
             <pubDate>Thu, 08 Jul 2021 10:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Man missed England win to donate stem cells]]></title>
+            <description><![CDATA[Sam Astley's partner won the tickets but says there was "no way" he was going to delay the donation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57763362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57763362</guid>
+            <pubDate>Thu, 08 Jul 2021 12:26:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Fans euphoric as England beat Denmark to reach final]]></title>
@@ -219,11 +219,25 @@
             <pubDate>Wed, 07 Jul 2021 13:04:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alex Dombrandt to make England Test debut against Canada]]></title>
-            <description><![CDATA[Harlequins' Premiership-winning number eight Alex Dombrandt will make his Test debut for England against Canada on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57763962</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57763962</guid>
-            <pubDate>Thu, 08 Jul 2021 11:05:51 GMT</pubDate>
+            <title><![CDATA[England v Pakistan: Saqib Mahmood dismisses Imam first ball of the game]]></title>
+            <description><![CDATA[Saqib Mahmood makes the perfect start with the wicket of Imam-ul-Haq with the very first ball of the match as England face India in the first ODI of the series at Sophia Gardens, Cardiff.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/57766527</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57766527</guid>
+            <pubDate>Thu, 08 Jul 2021 12:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wimbledon 2021: Alfie Hewett loses to Joachim Gerard]]></title>
+            <description><![CDATA[British second seed Alfie Hewett loses to Belgian Joachim Gerard in the quarter-finals of the men's wheelchair event at Wimbledon.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57764211</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57764211</guid>
+            <pubDate>Thu, 08 Jul 2021 12:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: England victory over Denmark watched by 23.86m]]></title>
+            <description><![CDATA[The Euro 2020 tie was the most watched non-news event since the nation's World Cup exit in 2018.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57763355</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57763355</guid>
+            <pubDate>Thu, 08 Jul 2021 11:41:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 England 2-1 Denmark: Ecstatic Gareth Southgate leads England celebrations at raucous Wembley]]></title>
@@ -238,20 +252,6 @@
             <link>https://www.bbc.co.uk/sport/av/tennis/57757770</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57757770</guid>
             <pubDate>Wed, 07 Jul 2021 19:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Lineker, Shearer & Jenas discuss the Raheem Sterling penalty incident]]></title>
-            <description><![CDATA[Match of the Day pundits Gary Lineker, Jermaine Jenas & Alan Shearer discuss the penalty that resulted in Harry Kane converting the winning goal against Denmark, with Shearer calling the penalty 'soft'.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57758657</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57758657</guid>
-            <pubDate>Wed, 07 Jul 2021 23:56:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sergio Ramos: Former Real Madrid defender joins Paris St-Germain on two-year deal]]></title>
-            <description><![CDATA[Paris St-Germain sign Sergio Ramos following the defender's departure from Real Madrid.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57685960</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57685960</guid>
-            <pubDate>Thu, 08 Jul 2021 09:57:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: England fans celebrate as Three Lions make final]]></title>
@@ -349,7 +349,7 @@
             <description><![CDATA[The government is considering allowing double vaccinated adults to avoid quarantine after travel.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52544307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Thu, 08 Jul 2021 11:16:06 GMT</pubDate>
+            <pubDate>Thu, 08 Jul 2021 12:12:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine passports: How can I prove I've had both my Covid jabs?]]></title>
