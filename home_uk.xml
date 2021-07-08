@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Jul 2021 18:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jul 2021 19:13:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-57760883</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57760883</guid>
             <pubDate>Thu, 08 Jul 2021 16:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biden defends decision to end Afghan military operation]]></title>
+            <description><![CDATA["The status quo was not an option," the fourth president to oversee the war said as violence flares.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57770436</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57770436</guid>
+            <pubDate>Thu, 08 Jul 2021 18:56:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Travel rules eased for double-jabbed and no spectators at Olympics]]></title>
@@ -79,25 +86,11 @@
             <pubDate>Thu, 08 Jul 2021 16:39:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wimbledon 2021: Ashleigh Barty to face Karolina Pliskova in final]]></title>
-            <description><![CDATA[World number one Ashleigh Barty will play Czech eighth seed Karolina Pliskova in the Wimbledon final on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57766276</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57766276</guid>
-            <pubDate>Thu, 08 Jul 2021 17:00:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US woman killed by bear that dragged her from tent in Montana]]></title>
             <description><![CDATA[Wildlife officials are searching for the bear and say they plan to kill it as it remains a threat.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57763443</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57763443</guid>
             <pubDate>Thu, 08 Jul 2021 16:18:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Most British troops have left - PM]]></title>
-            <description><![CDATA[There could "never be a perfect moment" to withdraw from the country, Boris Johnson tells MPs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57746335</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57746335</guid>
-            <pubDate>Thu, 08 Jul 2021 14:34:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contraceptive mini pill can be sold over the counter in UK]]></title>
@@ -107,11 +100,25 @@
             <pubDate>Thu, 08 Jul 2021 14:38:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Neptune' appears in the waves during storm in Newhaven]]></title>
+            <description><![CDATA[The image resembling the Roman god of water was captured as waves crashed over a harbour wall.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-57770547</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57770547</guid>
+            <pubDate>Thu, 08 Jul 2021 17:17:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020: How Neil Diamond's Sweet Caroline became an accidental football anthem]]></title>
             <description><![CDATA[A song written by Neil Diamond 52 years ago has become the England team's unofficial Euro 2020 song.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57761227</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57761227</guid>
             <pubDate>Thu, 08 Jul 2021 13:04:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK in Afghanistan: 'We have to live with our losses for the rest of our lives']]></title>
+            <description><![CDATA[The BBC’s Jonathan Beale spoke to one bereaved mother, as the UK removes troops from Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57768079</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57768079</guid>
+            <pubDate>Thu, 08 Jul 2021 16:56:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queen visits Coronation Street set to mark 60 years of soap]]></title>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57761478</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57761478</guid>
             <pubDate>Thu, 08 Jul 2021 10:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Neptune' appears in the waves during storm in Newhaven]]></title>
-            <description><![CDATA[The image resembling the Roman god of water was captured as waves crashed over a harbour wall.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-57770547</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57770547</guid>
-            <pubDate>Thu, 08 Jul 2021 17:17:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World's tallest sandcastle built in Denmark]]></title>
@@ -254,6 +254,13 @@
             <pubDate>Thu, 08 Jul 2021 17:15:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[World number one Barty to face Pliskova in Wimbledon final]]></title>
+            <description><![CDATA[World number one Ashleigh Barty will play Czech eighth seed Karolina Pliskova in the Wimbledon final on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57766276</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57766276</guid>
+            <pubDate>Thu, 08 Jul 2021 17:00:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid case in Fury's camp but Wilder fight expected to go ahead]]></title>
             <description><![CDATA[The 24 July trilogy bout between Tyson Fury and Deontay Wilder is still going ahead despite a Covid-19 case in the Briton's camp.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/57770810</link>
@@ -275,18 +282,11 @@
             <pubDate>Thu, 08 Jul 2021 18:13:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wimbledon 2021: Australia's Ashleigh Barty beats Germany's Angelique Kerber to reach final - highlights]]></title>
-            <description><![CDATA[Watch highlights as Australia's Ashleigh Barty seals her place in the final at Wimbledon after beating Germany's Angelique Kerber in straight sets.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/tennis/57770266</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57770266</guid>
-            <pubDate>Thu, 08 Jul 2021 15:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mourinho defends Premier League record over Spurs sacking]]></title>
-            <description><![CDATA[Jose Mourinho defends his recent record in the Premier League saying what is considered "a disaster for me" other coaches "never achieve".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57768228</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57768228</guid>
-            <pubDate>Thu, 08 Jul 2021 14:44:22 GMT</pubDate>
+            <title><![CDATA[Wimbledon 2021: Barty party, Sweet Karolina and dapper gents - day 10 best bits]]></title>
+            <description><![CDATA[Watch the best bits from day 10 of Wimbledon including the women's semi-final victories for Ashleigh Barty and Karolina Pliskova, plus some dapper gents on centre court.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/57772008</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57772008</guid>
+            <pubDate>Thu, 08 Jul 2021 18:53:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: England fans celebrate as Three Lions make final]]></title>
