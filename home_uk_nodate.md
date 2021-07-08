@@ -38,7 +38,7 @@
 38. [Australia mice plague: How farmers are fighting back](https://www.bbc.co.uk/news/world-australia-57698822) - There's a debate in Australia about how to deal with a huge plague of mice in the east of the country.
 39. [How de-cluttering grew Facebook Marketplace to 1bn users](https://www.bbc.co.uk/news/business-57733724) - As Covid shut charity shops thrifty second-hand traders shifted online to bag a bargain, in droves.
 40. [The growing Gulf rivalry that's pushing up oil prices](https://www.bbc.co.uk/news/world-middle-east-57753667) - A public rift between Saudi Arabia and the UAE caused talks between oil exporters to be abandoned.
-41. [Ethiopia's River Nile dam: How it will be filled](https://www.bbc.co.uk/news/world-africa-53432948) - It is not like a bath with a tap that can be turned on and off at will.
+41. [River Nile dam: Why Ethiopia can't stop it being filled](https://www.bbc.co.uk/news/world-africa-53432948) - The massive hydroelectric plant is not like a bath with a tap that can be turned on and off at will.
 42. [Peter R de Vries: The Dutch crime reporter who defied death threats](https://www.bbc.co.uk/news/world-europe-57753547) - Hailed as a national hero, Peter R de Vries spent decades investigating the criminal underworld.
 43. [Why North America's killer heat scares me](https://www.bbc.co.uk/news/world-us-canada-57729502) - It's not the new record temperatures that concern the BBC's Roger Harrabin - it's the way they were smashed.
 44. [Dying too young: Maps show little has changed in 170 years](https://www.bbc.co.uk/news/health-57730353) - Why do areas with high Covid death rates match places with the worst health in Victorian times?
