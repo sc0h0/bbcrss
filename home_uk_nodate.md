@@ -1,11 +1,11 @@
 1. [Sarah Everard murder: Met PC Wayne Couzens pleads guilty](https://www.bbc.co.uk/news/uk-england-london-57774597) - Met Police chief Cressida Dick says "everyone in policing" feels betrayed by Sarah Everard's killer.
-2. [Coronavirus: Keep using NHS Covid app people urged](https://www.bbc.co.uk/news/uk-57781115) - No 10 says the contact tracing app is an "important tool" in reducing coronavirus transmission.
-3. [Marked increase in Covid infections across UK](https://www.bbc.co.uk/news/health-57776814) - New infections continue to rise, as England prepares to lift further restrictions.
+2. [Marked increase in Covid infections across UK](https://www.bbc.co.uk/news/health-57776814) - New infections continue to rise, as England prepares to lift further restrictions.
+3. [Covid: How many people are deleting the contact tracing app?](https://www.bbc.co.uk/news/57779371) - Are people using the government's Covid app or are they deleting it?
 4. [Mason Mount fan Belle 'won't wash or sell' midfielder's shirt](https://www.bbc.co.uk/news/uk-england-london-57774591) - Football fan Belle McNally went viral after footage of the player handing her his shirt was shared online.
 5. [Alice Hodgkinson: Body of English teacher missing in Japan found](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57782093) - The Foreign and Commonwealth Office said it is "in contact with local authorities in Japan".
 6. [Southern Water fined record £90m for dumping raw sewage](https://www.bbc.co.uk/news/uk-england-kent-57777935) - The company admits 6,971 illegal spills at 17 treatment works in Kent, Hampshire and West Sussex.
-7. [Covid vaccines do work well in clinically vulnerable](https://www.bbc.co.uk/news/health-57781073) - A study of more than a million people shows those with other conditions get high protection from two doses.
-8. [Covid: Travellers returning to England warned of six-hour airport queues](https://www.bbc.co.uk/news/uk-politics-57775800) - Border Force staff will struggle to deal with a surge in passengers over the summer, a union says.
+7. [Coronavirus: Keep using NHS Covid app people urged](https://www.bbc.co.uk/news/uk-57781115) - No 10 says the contact tracing app is an "important tool" in reducing coronavirus transmission.
+8. [Covid vaccines do work well in clinically vulnerable](https://www.bbc.co.uk/news/health-57781073) - A study of more than a million people shows those with other conditions get high protection from two doses.
 9. [Calls grow for extra bank holiday if England win](https://www.bbc.co.uk/news/business-57774782) - Firms are also being asked to be flexible by allowing staff to start work later on Monday if possible.
 10. [Skydiving plane crash leaves nine dead in Sweden](https://www.bbc.co.uk/news/world-europe-57774490) - Eight skydivers and a pilot die in a plane crash close to the runway at Orebro airport.
 11. [Quadriplegic driver makes Goodwood Festival racing debut](https://www.bbc.co.uk/news/uk-57768915) - Former IndyCar driver Sam Schmidt was paralysed from the shoulders down in a racing accident in 2000.
