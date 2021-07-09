@@ -3,10 +3,10 @@
 3. [Marked increase in Covid infections across UK](https://www.bbc.co.uk/news/health-57776814) - New infections continue to rise, as England prepares to lift further restrictions.
 4. [Mason Mount fan Belle 'won't wash or sell' midfielder's shirt](https://www.bbc.co.uk/news/uk-england-london-57774591) - Football fan Belle McNally went viral after footage of the player handing her his shirt was shared online.
 5. [Alice Hodgkinson: Body of English teacher missing in Japan found](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57782093) - The Foreign and Commonwealth Office said it is "in contact with local authorities in Japan".
-6. [Covid vaccines do work well in clinically vulnerable](https://www.bbc.co.uk/news/health-57781073) - A study of more than a million people shows those with other conditions get high protection from two doses.
-7. [Covid: Travellers returning to England warned of six-hour airport queues](https://www.bbc.co.uk/news/uk-politics-57775800) - Border Force staff will struggle to deal with a surge in passengers over the summer, a union says.
-8. [Calls grow for extra bank holiday if England win](https://www.bbc.co.uk/news/business-57774782) - Firms are also being asked to be flexible by allowing staff to start work later on Monday if possible.
-9. [UK military not defeated in Afghanistan, says head of British armed forces](https://www.bbc.co.uk/news/uk-57774012) - General Sir Nick Carter responds to a mother questioning what her soldier son died for in Afghanistan.
+6. [Southern Water fined record £90m for dumping raw sewage](https://www.bbc.co.uk/news/uk-england-kent-57777935) - The company admits 6,971 illegal spills at 17 treatment works in Kent, Hampshire and West Sussex.
+7. [Covid vaccines do work well in clinically vulnerable](https://www.bbc.co.uk/news/health-57781073) - A study of more than a million people shows those with other conditions get high protection from two doses.
+8. [Covid: Travellers returning to England warned of six-hour airport queues](https://www.bbc.co.uk/news/uk-politics-57775800) - Border Force staff will struggle to deal with a surge in passengers over the summer, a union says.
+9. [Calls grow for extra bank holiday if England win](https://www.bbc.co.uk/news/business-57774782) - Firms are also being asked to be flexible by allowing staff to start work later on Monday if possible.
 10. [Skydiving plane crash leaves nine dead in Sweden](https://www.bbc.co.uk/news/world-europe-57774490) - Eight skydivers and a pilot die in a plane crash close to the runway at Orebro airport.
 11. [Quadriplegic driver makes Goodwood Festival racing debut](https://www.bbc.co.uk/news/uk-57768915) - Former IndyCar driver Sam Schmidt was paralysed from the shoulders down in a racing accident in 2000.
 12. [Isles of Scilly: Boat runs aground and balances on rocks](https://www.bbc.co.uk/news/uk-england-cornwall-57768179) - The two people on board abandoned their boat, which is undamaged.
