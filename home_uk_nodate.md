@@ -4,7 +4,7 @@
 4. [RIBA Architects say building demolitions cause of carbon emissions](https://www.bbc.co.uk/news/uk-57756991) - There are more carbon friendly options than replacing old buildings with new ones, architects say.
 5. [Covid leaves UK councils with £3bn financial black hole](https://www.bbc.co.uk/news/uk-57720900) - Ministers say they will decide on a timetable for funding reform over the coming months.
 6. [Covid: Children's extremely low risk confirmed by study](https://www.bbc.co.uk/news/health-57766717) - The overall risk of death is around two in a million children, scientists looking at England's data estimate.
-7. [Jovenel Moïse: Haiti seeks masterminds after 'assassins' detained](https://www.bbc.co.uk/news/world-latin-america-57766749) - The gunmen suspected of shooting President Jovenel Moïse have been killed or detained, police say.
+7. [Jovenel Moïse: Foreign hit squad killed Haiti's president, police say](https://www.bbc.co.uk/news/world-latin-america-57766749) - A group of 26 Colombians and two Americans shot President Jovenel Moïse in his home, police say.
 8. [Legal challenge over ministers' private email use](https://www.bbc.co.uk/news/uk-politics-57772428) - Current official guidance on the use of email and messaging leaves an "accountability gap", campaigners say.
 9. [Manchester Arena Inquiry: Police chief apologises for bomb response failings](https://www.bbc.co.uk/news/uk-england-manchester-57768100) - Deputy Chief Constable Ian Pilling says the response to the Manchester Arena attack was "unacceptable".
 10. [Teenagers killed in London street stabbings named by police](https://www.bbc.co.uk/news/uk-england-london-57767060) - Tamim Ian Habimana, 15, and Keane Flynn-Harling, 16, were killed in separate attacks in London.
