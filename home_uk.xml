@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jul 2021 20:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 20:47:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Fri, 09 Jul 2021 15:34:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Infections up by 50% and airport queue warning]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57781567</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57781567</guid>
-            <pubDate>Fri, 09 Jul 2021 16:17:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Heart inflammation link to Pfizer and Moderna jabs]]></title>
             <description><![CDATA[But European regulators say the benefits of Covid vaccines continue to far outweigh the risks.]]></description>
             <link>https://www.bbc.co.uk/news/health-57781637</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57781637</guid>
             <pubDate>Fri, 09 Jul 2021 15:18:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haiti president's assassination: What we know so far]]></title>
+            <description><![CDATA[Armed men stormed the private residence of Haitian President Jovenel Moïse and shot him dead.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57762246</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57762246</guid>
+            <pubDate>Fri, 09 Jul 2021 17:51:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Djokovic to meet Berrettini in Wimbledon final]]></title>
@@ -58,18 +58,18 @@
             <pubDate>Fri, 09 Jul 2021 20:09:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: England captain Harry Kane on Italy, childhood dreams and Bobby Moore]]></title>
-            <description><![CDATA[England captain Harry Kane hopes to fulfil a childhood dream, while John Stones is full of praise for Raheem Sterling.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57782463</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57782463</guid>
-            <pubDate>Fri, 09 Jul 2021 17:10:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NHS Covid app settings changing to send fewer alerts]]></title>
             <description><![CDATA[Alterations to take place amid fears that millions would be asked to isolate as people mixed more.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57786032</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57786032</guid>
             <pubDate>Fri, 09 Jul 2021 20:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: England captain Harry Kane on Italy, childhood dreams and Bobby Moore]]></title>
+            <description><![CDATA[England captain Harry Kane hopes to fulfil a childhood dream, while John Stones is full of praise for Raheem Sterling.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57782463</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57782463</guid>
+            <pubDate>Fri, 09 Jul 2021 17:10:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish politician reported over 'rot in hell' tweet]]></title>
@@ -247,6 +247,13 @@
             <pubDate>Fri, 09 Jul 2021 17:10:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Poirier v McGregor 3: 'UFC 264 loss could signal beginning of the end for McGregor']]></title>
+            <description><![CDATA[BBC's Radio 5 Live team for UFC 264 discuss Conor McGregor's trilogy fight with Dustin Poirier and what it could mean for the Irish superstar's career.]]></description>
+            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57779225</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/57779225</guid>
+            <pubDate>Fri, 09 Jul 2021 20:45:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England v India: Harleen Deol makes stunning catch to dismiss Amy Jones]]></title>
             <description><![CDATA[Watch as Harleen Deol takes a stunning juggling catch on the boundary to dismiss England's Amy Jones.]]></description>
             <link>https://www.bbc.co.uk/sport/av/cricket/57785924</link>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/av/tennis/57786055</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57786055</guid>
             <pubDate>Fri, 09 Jul 2021 19:38:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wimbledon 2021: Novak Djokovic overcomes Denis Shapovalov in straight sets to reach final]]></title>
-            <description><![CDATA[Watch highlights as Serbia's Novak Djokovic books his place in the final at Wimbledon after beating Canada's Denis Shapovalov in straight sets.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/tennis/57786052</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57786052</guid>
-            <pubDate>Fri, 09 Jul 2021 19:20:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: How does the NHS test-and-trace system and app work?]]></title>
