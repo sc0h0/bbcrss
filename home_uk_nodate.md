@@ -1,6 +1,6 @@
 1. [NHS Covid-19 app sensitivity to be reviewed](https://www.bbc.co.uk/news/uk-57772515) - There has been a huge increase in the number of people being "pinged" by the app in England and Wales.
-2. [Jovenel Moïse: Foreign hit squad killed Haiti's president, police say](https://www.bbc.co.uk/news/world-latin-america-57766749) - A group of 26 Colombians and two Americans shot President Jovenel Moïse in his home, police say.
-3. [Bookings surge after Covid quarantine rules relaxed](https://www.bbc.co.uk/news/business-57770236) - Airlines say bookings increase after the government removed quarantine rules on amber-list countries.
+2. [Bookings surge after Covid quarantine rules relaxed](https://www.bbc.co.uk/news/business-57770236) - Airlines say bookings increase after the government removed quarantine rules on amber-list countries.
+3. [Jovenel Moïse: Foreign hit squad killed Haiti's president, police say](https://www.bbc.co.uk/news/world-latin-america-57766749) - A group of 26 Colombians and two Americans shot President Jovenel Moïse in his home, police say.
 4. [RIBA Architects say building demolitions cause of carbon emissions](https://www.bbc.co.uk/news/uk-57756991) - There are more carbon friendly options than replacing old buildings with new ones, architects say.
 5. [Zaila Avant-garde: Teenager makes history at US spelling bee](https://www.bbc.co.uk/news/world-us-canada-57773502) - Zaila Avant-garde, 14, becomes the first African American to win the high-profile competition.
 6. [Giant pandas no longer endangered but still vulnerable, says China](https://www.bbc.co.uk/news/world-asia-china-57773472) - Their classification was downgraded as the number in the wild has reached 1,800, officials said.
@@ -9,7 +9,7 @@
 9. [Covid leaves UK councils with £3bn financial black hole](https://www.bbc.co.uk/news/uk-57720900) - Ministers say they will decide on a timetable for funding reform over the coming months.
 10. [Legal challenge over ministers' private email use](https://www.bbc.co.uk/news/uk-politics-57772428) - Current official guidance on the use of email and messaging leaves an "accountability gap", campaigners say.
 11. [Manchester Arena Inquiry: Police chief apologises for bomb response failings](https://www.bbc.co.uk/news/uk-england-manchester-57768100) - Deputy Chief Constable Ian Pilling says the response to the Manchester Arena attack was "unacceptable".
-12. [Teenagers killed in London street stabbings named by police](https://www.bbc.co.uk/news/uk-england-london-57767060) - Tamim Ian Habimana, 15, and Keane Flynn-Harling, 16, were killed in separate attacks in London.
+12. [Social care workers lose out on £7,000 in pay each year, charity says](https://www.bbc.co.uk/news/uk-57752914) - Social care workers have similar skills to others but are paid thousands less, a charity says.
 13. [Sainsbury's stops selling CDs and DVDs](https://www.bbc.co.uk/news/business-57763301) - The supermarket giant says its customers increasingly go online for their entertainment.
 14. [Newspaper headlines: 'Three lie-ins' and 'thousands spared isolation'](https://www.bbc.co.uk/news/blogs-the-papers-57772488) - Friday's papers say the NHS Covid app will be "tweaked" to reduce the numbers told to isolate.
 15. [UK in Afghanistan: 'We have to live with our losses for the rest of our lives'](https://www.bbc.co.uk/news/uk-57768079) - The BBC’s Jonathan Beale spoke to one bereaved mother, as the UK removes troops from Afghanistan.
