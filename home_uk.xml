@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jul 2021 05:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 05:34:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Fri, 09 Jul 2021 04:23:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Children's extremely low risk confirmed by study]]></title>
+            <description><![CDATA[The overall risk of death is around two in a million children, scientists looking at England's data estimate.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57766717</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57766717</guid>
+            <pubDate>Fri, 09 Jul 2021 00:13:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Biden defends decision to end Afghan military operation]]></title>
             <description><![CDATA["The status quo was not an option," the fourth president to oversee the war said as violence flares.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57770436</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-57720900</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57720900</guid>
             <pubDate>Fri, 09 Jul 2021 00:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Children's extremely low risk confirmed by study]]></title>
-            <description><![CDATA[The overall risk of death is around two in a million children, scientists looking at England's data estimate.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57766717</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57766717</guid>
-            <pubDate>Fri, 09 Jul 2021 00:13:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Legal challenge over ministers' private email use]]></title>
