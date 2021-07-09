@@ -1,6 +1,6 @@
-1. [Sarah Everard: Met PC Wayne Couzens pleads guilty to murder](https://www.bbc.co.uk/news/uk-england-london-57774597) - The 33-year-old was abducted by Wayne Couzens while walking home in south London in March.
+1. [Sarah Everard murder: Met PC Wayne Couzens pleads guilty](https://www.bbc.co.uk/news/uk-england-london-57774597) - The 33-year-old was abducted by Wayne Couzens while walking home in south London in March.
 2. [NHS Covid app may change as rules change, Grant Shapps says](https://www.bbc.co.uk/news/uk-57772515) - The transport secretary says the app's sensitivity may need to be reduced as restrictions change.
-3. [Covid: Travellers returning to England warned of longer airport queues](https://www.bbc.co.uk/news/uk-politics-57775800) - The need to check more documents could make border checks three to four times slower, a union says.
+3. [Covid: Travellers returning to England warned of six-hour airport queues](https://www.bbc.co.uk/news/uk-politics-57775800) - Border Force staff will struggle to deal with a surge in passengers over the summer, a union says.
 4. [Mason Mount fan Belle 'won't wash or sell' midfielder's shirt](https://www.bbc.co.uk/news/uk-england-london-57774591) - Football fan Belle McNally went viral after footage of the player handing her his shirt was shared online.
 5. [UK economic growth slows in May](https://www.bbc.co.uk/news/business-57769712) - Despite a boost from pubs and restaurants serving indoors, growth was below expectations.
 6. [Jovenel Moïse: Foreign hit squad killed Haiti's president, police say](https://www.bbc.co.uk/news/world-latin-america-57766749) - A group of 26 Colombians and two Americans shot President Jovenel Moïse in his home, police say.
