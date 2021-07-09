@@ -9,7 +9,7 @@
 9. [Giant pandas no longer endangered but still vulnerable, says China](https://www.bbc.co.uk/news/world-asia-china-57773472) - Their classification was downgraded as the number in the wild has reached 1,800, officials said.
 10. [Sainsbury's stops selling CDs and DVDs](https://www.bbc.co.uk/news/business-57763301) - The supermarket giant says its customers increasingly go online for their entertainment.
 11. [Covid leaves UK councils with £3bn financial black hole](https://www.bbc.co.uk/news/uk-57720900) - Ministers say they will decide on a timetable for funding reform over the coming months.
-12. [Social care workers lose out on £7,000 in pay each year, charity says](https://www.bbc.co.uk/news/uk-57752914) - Social care workers have similar skills to others but are paid thousands less, a charity says.
+12. [Euro 2020: Sedgley stem cell donor given final tickets](https://www.bbc.co.uk/news/uk-england-birmingham-57763362) - Sam Astley, who missed the semi-final to donate stem cells, will now see England v Italy at Wembley.
 13. [Newspaper headlines: 'Three lie-ins' and 'thousands spared isolation'](https://www.bbc.co.uk/news/blogs-the-papers-57772488) - Friday's papers say the NHS Covid app will be "tweaked" to reduce the numbers told to isolate.
 14. [Zaila Avant-garde: Teenager makes history at US spelling bee](https://www.bbc.co.uk/news/world-us-canada-57773502) - Zaila Avant-garde, 14, becomes the first African American to win the high-profile competition.
 15. [UK in Afghanistan: 'We have to live with our losses for the rest of our lives'](https://www.bbc.co.uk/news/uk-57768079) - The BBC’s Jonathan Beale spoke to one bereaved mother, as the UK removes troops from Afghanistan.
