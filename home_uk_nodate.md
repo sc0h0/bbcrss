@@ -1,6 +1,6 @@
 1. [Sarah Everard murder: Met PC Wayne Couzens pleads guilty](https://www.bbc.co.uk/news/uk-england-london-57774597) - Met Police chief Cressida Dick says "everyone in policing" feels betrayed by Sarah Everard's killer.
 2. [Marked increase in Covid infections across UK](https://www.bbc.co.uk/news/health-57776814) - New infections continue to rise, as England prepares to lift further restrictions.
-3. [Covid: How many people are deleting the contact tracing app?](https://www.bbc.co.uk/news/57779371) - Are people using the government's Covid app or are they deleting it?
+3. [Are lots of people deleting the NHS Covid app?](https://www.bbc.co.uk/news/57779371) - Are people using the government's Covid app or are they deleting it?
 4. [Heart inflammation link to Pfizer and Moderna jabs](https://www.bbc.co.uk/news/health-57781637) - But European regulators say the benefits of Covid vaccines continue to far outweigh the risks.
 5. [Mason Mount fan Belle 'won't wash or sell' midfielder's shirt](https://www.bbc.co.uk/news/uk-england-london-57774591) - Football fan Belle McNally went viral after footage of the player handing her his shirt was shared online.
 6. [Alice Hodgkinson: Body of English teacher missing in Japan found](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57782093) - The Foreign and Commonwealth Office said it is "in contact with local authorities in Japan".
@@ -33,7 +33,7 @@
 33. [Coronavirus: How does the NHS test-and-trace system and app work?](https://www.bbc.co.uk/news/explainers-52442754) - The contact tracing app could be changed to make it less sensitive, so it sends fewer alerts.
 34. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - The government is considering allowing double vaccinated adults to avoid quarantine after travel.
 35. [Vaccine passports: How can I prove I've had both my Covid jabs?](https://www.bbc.co.uk/news/explainers-55718553) - Fully-vaccinated people in England will be able to avoid self-isolation after travel or contact with a positive case.
-36. [Euro 2020 and Covid: How can I watch with my friends?](https://www.bbc.co.uk/news/uk-57386719) - Wembley will host 60,000 fans at the final, but millions will be watching on TV at home and in pubs.
+36. [Euro 2020 and Covid: How can I watch the final?](https://www.bbc.co.uk/news/uk-57386719) - Wembley will host 60,000 fans at the final, but millions will be watching on TV at home and in pubs.
 37. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The progress made in vaccinating the country's adult population, as more than 45 million people have received at least one dose.
 38. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 39. [Euro 2020: My dream finish to England's story - Alan Shearer](https://www.bbc.co.uk/sport/football/57752510) - Former England captain and BBC Sport columnist Alan Shearer says Gareth Southgate and his side are on the verge of greatness after an amazing month, and reveals his dream finish to Euro 2020.
