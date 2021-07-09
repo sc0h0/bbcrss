@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jul 2021 20:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 20:57:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,11 +58,18 @@
             <pubDate>Fri, 09 Jul 2021 20:09:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish politician reported over 'rot in hell' tweet]]></title>
+            <description><![CDATA[The SNP's James Dornan was reportedly replying to the Conservative MP's post about the Nationality and Borders Bill.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57785825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57785825</guid>
+            <pubDate>Fri, 09 Jul 2021 18:49:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NHS Covid app settings changing to send fewer alerts]]></title>
             <description><![CDATA[Alterations to take place amid fears that millions would be asked to isolate as people mixed more.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57786032</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57786032</guid>
-            <pubDate>Fri, 09 Jul 2021 20:29:42 GMT</pubDate>
+            <pubDate>Fri, 09 Jul 2021 20:55:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: England captain Harry Kane on Italy, childhood dreams and Bobby Moore]]></title>
@@ -72,11 +79,11 @@
             <pubDate>Fri, 09 Jul 2021 17:10:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish politician reported over 'rot in hell' tweet]]></title>
-            <description><![CDATA[The SNP's James Dornan was reportedly replying to the Conservative MP's post about the Nationality and Borders Bill.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57785825</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57785825</guid>
-            <pubDate>Fri, 09 Jul 2021 18:49:44 GMT</pubDate>
+            <title><![CDATA[Lebanon struck by power cut as major plants shut down]]></title>
+            <description><![CDATA[Many in Lebanon are receiving just two hours of energy a day, as it grapples with an economic crisis.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57780940</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57780940</guid>
+            <pubDate>Fri, 09 Jul 2021 19:12:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flooded subways and submerged cars in New York]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57782093</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57782093</guid>
             <pubDate>Fri, 09 Jul 2021 17:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Southern Water fined record £90m for dumping raw sewage]]></title>
-            <description><![CDATA[The company admits 6,971 illegal spills at 17 treatment works in Kent, Hampshire and West Sussex.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-57777935</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57777935</guid>
-            <pubDate>Fri, 09 Jul 2021 15:44:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Three Lions single roars back into UK top 10]]></title>
@@ -252,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57779225</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/57779225</guid>
             <pubDate>Fri, 09 Jul 2021 20:45:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A world-class catch & Sciver's dazzling batting - what you need to know after England beat India]]></title>
+            <description><![CDATA[A world-class catch and Nat Sciver's dazzling batting - everything you need to know about England's victory over India.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57785220</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57785220</guid>
+            <pubDate>Fri, 09 Jul 2021 20:40:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v India: Harleen Deol makes stunning catch to dismiss Amy Jones]]></title>
