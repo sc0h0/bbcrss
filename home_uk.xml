@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jul 2021 13:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 14:12:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Fri, 09 Jul 2021 12:56:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Travellers returning to England warned of six-hour airport queues]]></title>
-            <description><![CDATA[Border Force staff will struggle to deal with a surge in passengers over the summer, a union says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57775800</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57775800</guid>
-            <pubDate>Fri, 09 Jul 2021 10:52:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mason Mount fan Belle 'won't wash or sell' midfielder's shirt]]></title>
             <description><![CDATA[Football fan Belle McNally went viral after footage of the player handing her his shirt was shared online.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57774591</link>
@@ -51,11 +44,25 @@
             <pubDate>Fri, 09 Jul 2021 08:02:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Travellers returning to England warned of six-hour airport queues]]></title>
+            <description><![CDATA[Border Force staff will struggle to deal with a surge in passengers over the summer, a union says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57775800</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57775800</guid>
+            <pubDate>Fri, 09 Jul 2021 10:52:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Calls grow for extra bank holiday if England win]]></title>
             <description><![CDATA[Firms are also being asked to be flexible by allowing staff to start work later on Monday if possible.]]></description>
             <link>https://www.bbc.co.uk/news/business-57774782</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57774782</guid>
-            <pubDate>Fri, 09 Jul 2021 13:18:54 GMT</pubDate>
+            <pubDate>Fri, 09 Jul 2021 14:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alice Hodgkinson: Body of English teacher missing in Japan found]]></title>
+            <description><![CDATA[The Foreign and Commonwealth Office said it is "in contact with local authorities in Japan".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57782093</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57782093</guid>
+            <pubDate>Fri, 09 Jul 2021 13:57:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK military not defeated in Afghanistan, says head of British armed forces]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-57774012</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57774012</guid>
             <pubDate>Fri, 09 Jul 2021 10:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Children's extremely low risk confirmed by study]]></title>
-            <description><![CDATA[The overall risk of death is around two in a million children, scientists looking at England's data estimate.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57766717</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57766717</guid>
-            <pubDate>Fri, 09 Jul 2021 06:58:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skydiving plane crash leaves nine dead in Sweden]]></title>
@@ -84,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57775670</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57775670</guid>
             <pubDate>Fri, 09 Jul 2021 09:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fury v Wilder III: Fight off following Covid-19 case in Briton's camp]]></title>
-            <description><![CDATA[The 24 July trilogy bout between Tyson Fury and Deontay Wilder is postponed following a Covid-19 case in the Briton's camp.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/57770810</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57770810</guid>
-            <pubDate>Fri, 09 Jul 2021 09:29:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quadriplegic driver makes Goodwood Festival racing debut]]></title>
@@ -198,6 +191,13 @@
             <pubDate>Fri, 09 Jul 2021 00:16:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fury-Wilder postponed after Briton tests positive for Covid-19]]></title>
+            <description><![CDATA[The 24 July trilogy bout between Tyson Fury and Deontay Wilder is postponed following a Covid-19 case in the Briton's camp.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/57770810</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57770810</guid>
+            <pubDate>Fri, 09 Jul 2021 09:29:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020: Best of Micah Richards - Steven Gerrard's borrowed boots feature in pundit's best bits]]></title>
             <description><![CDATA[BBC pundit Micah Richards tells stories of borrowing Steven Gerrard's boots, his bullet header against Finland and shows off his vocals.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/57673019</link>
@@ -244,7 +244,7 @@
             <description><![CDATA[Fully-vaccinated people in England will be able to avoid self-isolation after travel or contact with a positive case.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Thu, 08 Jul 2021 11:30:11 GMT</pubDate>
+            <pubDate>Fri, 09 Jul 2021 13:56:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 and Covid: How can I watch with my friends?]]></title>
