@@ -6,9 +6,9 @@
 6. [Covid: Woman aged 90 died with double variant infection](https://www.bbc.co.uk/news/health-57761343) - Simultaneous infections are rare but can happen, particularly in people yet to be vaccinated, warn experts.
 7. [Esther Bejarano: Auschwitz orchestra member dies](https://www.bbc.co.uk/news/world-europe-57791259) - Esther Bejarano survived in Auschwitz by playing in the death camp's orchestra.
 8. [Jovenel Moïse: President's widow speaks for first time](https://www.bbc.co.uk/news/world-latin-america-57791618) - Martine Moïse, who was injured in the attack which killed her husband, speaks for the first time.
-9. [US heatwave: California and Nevada brace for record-breaking temperatures](https://www.bbc.co.uk/news/world-us-canada-57788118) - California's Death Valley matches what may be the highest temperature ever reliably recorded.
-10. [G20 finance ministers back deal to tax companies](https://www.bbc.co.uk/news/world-57791617) - The plan aims to make companies pay their "fair share" by setting a minimum global tax rate.
-11. [Covid in Wales: Face masks to stay but no decision on shops](https://www.bbc.co.uk/news/uk-wales-57790607) - Face coverings will still be mandatory on public transport and in health and social care settings.
+9. [Covid in Wales: Face masks to stay but no decision on shops](https://www.bbc.co.uk/news/uk-wales-57790607) - Face coverings will still be mandatory on public transport and in health and social care settings.
+10. [US heatwave: California and Nevada brace for record-breaking temperatures](https://www.bbc.co.uk/news/world-us-canada-57788118) - California's Death Valley matches what may be the highest temperature ever reliably recorded.
+11. [G20 finance ministers back deal to tax companies](https://www.bbc.co.uk/news/world-57791617) - The plan aims to make companies pay their "fair share" by setting a minimum global tax rate.
 12. [Euro 2020: England and Villa fan conned out of £2k for final tickets](https://www.bbc.co.uk/news/uk-england-birmingham-57790171) - Ben Moore says he was "sceptical" about the offer but messages on Twitter looked "so genuine".
 13. [Jonathan Coleman: Tributes paid to radio and TV presenter](https://www.bbc.co.uk/news/uk-england-london-57788328) - Tributes are paid to the "giant of radio" who passed away on Friday.
 14. [The Papers: 'We Kane be heroes' and 'jab gap to be cut'](https://www.bbc.co.uk/news/blogs-the-papers-57792852) - Sunday's papers report a "heartfelt message" from the Queen ahead of England's Euro final against Italy.
