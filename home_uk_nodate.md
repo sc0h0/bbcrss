@@ -1,6 +1,6 @@
 1. [Covid: Fully jabbed NHS staff may not have to isolate](https://www.bbc.co.uk/news/uk-57786794) - Health leaders urge the government to change quarantine rules to avoid severe staff shortages.
-2. [Marked increase in Covid infections across UK](https://www.bbc.co.uk/news/health-57776814) - New infections continue to rise, as England prepares to lift further restrictions.
-3. [Covid to get worse before it gets better, doctors warn](https://www.bbc.co.uk/news/uk-57786002) - Medical leaders urge people to act with care including continuing to wear face masks in indoor areas.
+2. [Covid to get worse before it gets better, doctors warn](https://www.bbc.co.uk/news/uk-57786002) - Medical leaders urge people to act with care including continuing to wear face masks in indoor areas.
+3. [Marked increase in Covid infections across UK](https://www.bbc.co.uk/news/health-57776814) - New infections continue to rise, as England prepares to lift further restrictions.
 4. [Chris Eubank's son Sebastian dies in Dubai](https://www.bbc.co.uk/news/uk-57786230) - The former British boxer says his son was "loved and respected by all who knew him".
 5. [Heart inflammation link to Pfizer and Moderna jabs](https://www.bbc.co.uk/news/health-57781637) - But European regulators say the benefits of Covid vaccines continue to far outweigh the risks.
 6. [Jovenel Moïse: Haiti requests foreign troops after president's assassination](https://www.bbc.co.uk/news/world-latin-america-57786862) - Haitian officials want US and UN forces to protect key infrastructure in the country in turmoil.
