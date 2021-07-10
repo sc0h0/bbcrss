@@ -1,4 +1,4 @@
-1. [Covid: Fully jabbed NHS staff may not have to isolate](https://www.bbc.co.uk/news/uk-57786794) - Sat, 10 Jul 2021 07:59:08 GMT - Health leaders urge the government to change quarantine rules to avoid severe staff shortages.
+1. [Covid: Fully jabbed NHS staff may not have to isolate](https://www.bbc.co.uk/news/uk-57786794) - Sat, 10 Jul 2021 10:44:16 GMT - Health leaders urge the government to change quarantine rules to avoid severe staff shortages.
 2. [Covid to get worse before it gets better, doctors warn](https://www.bbc.co.uk/news/uk-57786002) - Sat, 10 Jul 2021 10:08:36 GMT - Medical leaders urge people to act with care including continuing to wear face masks in indoor areas.
 3. [Chris Eubank's son Sebastian dies in Dubai](https://www.bbc.co.uk/news/uk-57786230) - Sat, 10 Jul 2021 09:46:10 GMT - The former British boxer says his son was "loved and respected by all who knew him".
 4. [Colchester parents 'ecstatic' after baby approved for £1.7m drug](https://www.bbc.co.uk/news/uk-england-essex-57776754) - Sat, 10 Jul 2021 07:30:13 GMT - Ten-month-old Edward will receive the world's most expensive drug after a campaign by his parents.
