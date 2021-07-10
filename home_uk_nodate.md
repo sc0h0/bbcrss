@@ -3,8 +3,8 @@
 3. [US heatwave: California and Nevada brace for record-breaking temperatures](https://www.bbc.co.uk/news/world-us-canada-57788118) - California's Death Valley matches what may be the highest temperature ever reliably recorded.
 4. [G20 finance ministers back deal to tax companies](https://www.bbc.co.uk/news/world-57791617) - The plan aims to make companies pay their "fair share" by setting a minimum global tax rate.
 5. [Esther Bejarano: Auschwitz orchestra member dies](https://www.bbc.co.uk/news/world-europe-57791259) - Esther Bejarano survived in Auschwitz by playing in the death camp's orchestra.
-6. [Euro 2020: England and Villa fan conned out of £2k for final tickets](https://www.bbc.co.uk/news/uk-england-birmingham-57790171) - Ben Moore says he was "sceptical" about the offer but messages on Twitter looked "so genuine".
-7. [Covid: Fully jabbed NHS staff may not have to isolate](https://www.bbc.co.uk/news/uk-57786794) - Health leaders urge the government to change quarantine rules to avoid severe staff shortages.
+6. [Jovenel Moïse: President's widow speaks for first time](https://www.bbc.co.uk/news/world-latin-america-57791618) - Martine Moïse, who was injured in the attack which killed her husband, speaks for the first time.
+7. [Euro 2020: England and Villa fan conned out of £2k for final tickets](https://www.bbc.co.uk/news/uk-england-birmingham-57790171) - Ben Moore says he was "sceptical" about the offer but messages on Twitter looked "so genuine".
 8. [Wimbledon 2021: Ashleigh Barty beats Karolina Pliskova to win title](https://www.bbc.co.uk/sport/tennis/57783918) - World number one Ashleigh Barty wins her maiden Wimbledon title as she beats Karolina Pliskova in a nervy final.
 9. [Covid to get worse before it gets better, doctors warn](https://www.bbc.co.uk/news/uk-57786002) - Medical leaders urge people to act with care including continuing to wear face masks in indoor areas.
 10. [Jonathan Coleman: Tributes paid to radio and TV presenter](https://www.bbc.co.uk/news/uk-england-london-57788328) - Tributes are paid to the "giant of radio" who passed away on Friday.
