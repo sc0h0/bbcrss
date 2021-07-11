@@ -17,7 +17,7 @@
 17. [Ros Atkins on… England’s Covid gamble](https://www.bbc.co.uk/news/uk-57777428) - Ros Atkins looks at the UK government’s plan to lift Covid restrictions in England.
 18. [The schoolkids who said they saw 'aliens'](https://www.bbc.co.uk/news/stories-57749238) - In 1994, 60 children at a Zimbabwe school said they'd seen a "UFO" - a BBC crew was first on the scene.
 19. [Mystery North Norfolk treasure 'could be sword-related'](https://www.bbc.co.uk/news/uk-england-norfolk-57681725) - Experts say they don't know what the early Anglo-Saxon object is, but it could be part of a sword.
-20. ['I help Indian parents talk about sex'](https://www.bbc.co.uk/news/stories-56838660) - An Indian sex coach says parents turn to her for advice as sex education is not available in schools.
+20. ['Indians don't talk about sex - so I help them'](https://www.bbc.co.uk/news/stories-56838660) - An Indian sex coach says parents turn to her for advice as sex education is not available in schools.
 21. [The foreigners in China’s disinformation drive](https://www.bbc.co.uk/news/world-asia-china-57780023) - Foreigners are increasingly appearing on YouTube promoting China's narrative on issues like Xinjiang.
 22. [How did my phone number end up for sale on a US database?](https://www.bbc.co.uk/news/technology-57443597) - A journey of discovery into the somewhat opaque, if lucrative, world of contact selling
 23. [From living in a tent to financial independence](https://www.bbc.co.uk/news/business-57666610) - Schemes helping homeless people lacking IDs to get bank accounts are transforming hundreds of lives.
