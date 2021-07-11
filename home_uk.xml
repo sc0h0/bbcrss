@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Jul 2021 06:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 07:17:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Sat, 10 Jul 2021 23:04:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: NHS backlog in England could reach 13 million, says Sajid Javid]]></title>
+            <description><![CDATA[Sajid Javid says waiting list projections "shocked me the most" in his first days as health secretary.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57793122</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57793122</guid>
+            <pubDate>Sun, 11 Jul 2021 06:39:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bernard Mongan: Failings by Army over soldier's death, report says]]></title>
             <description><![CDATA[The body of L/Cpl Bernard Mongan was discovered in his barracks three weeks after he went missing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57791039</link>
@@ -44,11 +51,11 @@
             <pubDate>Sat, 10 Jul 2021 23:04:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: NHS backlog in England could reach 13 million, says Sajid Javid]]></title>
-            <description><![CDATA[Sajid Javid says waiting list projections "shocked me the most" in his first days as health secretary.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57793122</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57793122</guid>
-            <pubDate>Sun, 11 Jul 2021 06:39:47 GMT</pubDate>
+            <title><![CDATA[Euro 2020: The pride of England stars' hometowns]]></title>
+            <description><![CDATA[We meet those in the England stars' hometowns who hope the boys can bring football home - literally.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57791089</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57791089</guid>
+            <pubDate>Sat, 10 Jul 2021 16:42:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foreign aid: Gates and others to partially cover UK aid cuts]]></title>
@@ -79,18 +86,11 @@
             <pubDate>Sat, 10 Jul 2021 20:58:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Wales: Face masks to stay but no decision on shops]]></title>
-            <description><![CDATA[Face coverings will still be mandatory on public transport and in health and social care settings.]]></description>
+            <title><![CDATA[Covid: Face masks to stay in Wales but no decision on shops]]></title>
+            <description><![CDATA[Coverings will be needed on public transport and in health settings as law in shops is "discussed".]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57790607</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57790607</guid>
-            <pubDate>Sun, 11 Jul 2021 06:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lionel Messi wins first Copa America as Argentina beat Brazil in final]]></title>
-            <description><![CDATA[Lionel Messi ends his wait for a first major international title as Argentina beat Brazil in the Copa America final.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57776158</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57776158</guid>
-            <pubDate>Sun, 11 Jul 2021 02:48:51 GMT</pubDate>
+            <pubDate>Sun, 11 Jul 2021 07:17:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dustin Poirier beats Conor McGregor after Irishman breaks leg in the first round at UFC 264]]></title>
@@ -107,11 +107,11 @@
             <pubDate>Sun, 11 Jul 2021 04:44:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: The pride of England stars' hometowns]]></title>
-            <description><![CDATA[We meet those in the England stars' hometowns who hope the boys can bring football home - literally.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57791089</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57791089</guid>
-            <pubDate>Sat, 10 Jul 2021 16:42:00 GMT</pubDate>
+            <title><![CDATA[ICYMI: A nail-biting tight rope walk and a tiny cow]]></title>
+            <description><![CDATA[Here's a summary of this week's news you might have missed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57771740</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57771740</guid>
+            <pubDate>Sat, 10 Jul 2021 23:00:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: Ex-SAS Atlantic rower relying on text updates for final]]></title>
@@ -191,6 +191,13 @@
             <pubDate>Fri, 09 Jul 2021 23:08:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Messi wins first major trophy with Argentina as Brazil beaten in Copa America final]]></title>
+            <description><![CDATA[Lionel Messi ends his wait for a first major international title as Argentina beat Brazil in the Copa America final.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57776158</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57776158</guid>
+            <pubDate>Sun, 11 Jul 2021 02:48:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wimbledon 2021: Novak Djokovic and Matteo Berrettini set for men's final]]></title>
             <description><![CDATA[Novak Djokovic aims to win a sixth Wimbledon - and record-equalling 20th Grand Slam men's title - when he plays Italy's Matteo Berrettini on Sunday.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57786213</link>
@@ -226,13 +233,6 @@
             <pubDate>Sat, 10 Jul 2021 21:24:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Superb England beat Pakistan by 52 runs to secure ODI series win]]></title>
-            <description><![CDATA[England complete another impressive victory over Pakistan in the second one-day international to clinch the series with a game to spare.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57789288</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57789288</guid>
-            <pubDate>Sat, 10 Jul 2021 19:06:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[England v Italy: 'Inspirational England help heal national sporting psyche before historic final']]></title>
             <description><![CDATA[An England team that became sadly symbolic with failure has now helped inspire and heal a national sporting psyche. How did they reach this point?]]></description>
             <link>https://www.bbc.co.uk/sport/football/57791681</link>
@@ -247,7 +247,7 @@
             <pubDate>Sat, 10 Jul 2021 06:41:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meet the Italians standing between England and Euro glory]]></title>
+            <title><![CDATA[Meet the Italians standing between England and glory]]></title>
             <description><![CDATA[Everything you need to know about the Italians who stand in the way of England and the European Championship trophy]]></description>
             <link>https://www.bbc.co.uk/sport/football/57768655</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57768655</guid>
