@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Jul 2021 11:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 11:40:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Sun, 11 Jul 2021 09:54:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jovenel Moïse: President's widow speaks for first time]]></title>
-            <description><![CDATA[Martine Moïse, who was injured in the attack which killed her husband, speaks for the first time.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57791618</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57791618</guid>
-            <pubDate>Sat, 10 Jul 2021 20:58:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Woman aged 90 died with double variant infection]]></title>
             <description><![CDATA[Simultaneous infections are rare but can happen, particularly in people yet to be vaccinated, warn experts.]]></description>
             <link>https://www.bbc.co.uk/news/health-57761343</link>
@@ -86,11 +79,18 @@
             <pubDate>Sun, 11 Jul 2021 11:13:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Drugs: One man dies amid 12 drug overdoses in Swansea]]></title>
+            <title><![CDATA[One man dies amid 12 drug overdoses in Swansea]]></title>
             <description><![CDATA[The health board in Swansea warned fake anti-anxiety drugs may be linked to a spate of overdoses.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57790900</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57790900</guid>
             <pubDate>Sun, 11 Jul 2021 11:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hot air balloon crashes in Nottinghamshire town centre]]></title>
+            <description><![CDATA[Pilot Andrew Davidson said he has never had such a landing in more than 30 years of ballooning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57795523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57795523</guid>
+            <pubDate>Sun, 11 Jul 2021 11:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Offa's Dyke: Monument damaged by 'centuries of benign neglect']]></title>
@@ -226,13 +226,6 @@
             <pubDate>Sun, 11 Jul 2021 07:40:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[South Africa captain Kolisi tests positive for Covid-19 two weeks before Lions series]]></title>
-            <description><![CDATA[South Africa captain Siya Kolisi tests positive for coronavirus as his side build up to the series against the British and Irish Lions.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57794891</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57794891</guid>
-            <pubDate>Sun, 11 Jul 2021 09:26:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wimbledon 2021: Novak Djokovic and Matteo Berrettini set for men's final]]></title>
             <description><![CDATA[Novak Djokovic aims to win a sixth Wimbledon - and record-equalling 20th Grand Slam men's title - when he plays Italy's Matteo Berrettini on Sunday.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57786213</link>
@@ -245,6 +238,13 @@
             <link>https://www.bbc.co.uk/sport/av/tennis/57791966</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57791966</guid>
             <pubDate>Sat, 10 Jul 2021 16:42:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Euro 2020: Gareth Southgate says he wants England to 'bring the trophy home']]></title>
+            <description><![CDATA[England manager Gareth Southgate says he wants his England side to "bring the trophy home" when they face Italy in the Euro 2020 final at Wembley on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/57792612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57792612</guid>
+            <pubDate>Sat, 10 Jul 2021 19:22:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v Italy: 'Inspirational England help heal national sporting psyche before historic final']]></title>
