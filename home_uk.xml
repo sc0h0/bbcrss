@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Jul 2021 11:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 11:27:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,11 @@
             <pubDate>Sun, 11 Jul 2021 09:02:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bernard Mongan: Failings by Army over soldier's death, report says]]></title>
-            <description><![CDATA[The body of L/Cpl Bernard Mongan was discovered in his barracks three weeks after he went missing.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57791039</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57791039</guid>
-            <pubDate>Sat, 10 Jul 2021 23:04:56 GMT</pubDate>
+            <title><![CDATA[US heatwave: Wildfires rage in western states as temperatures soar]]></title>
+            <description><![CDATA[Tributes are paid to two firefighters who died in a plane crash while responding to a blaze in Arizona.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57794263</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57794263</guid>
+            <pubDate>Sun, 11 Jul 2021 10:46:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sir Richard Branson: Space flight will be 'extraordinary']]></title>
@@ -65,6 +65,13 @@
             <pubDate>Sat, 10 Jul 2021 23:11:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bernard Mongan: Failings by Army over soldier's death, report says]]></title>
+            <description><![CDATA[The body of L/Cpl Bernard Mongan was discovered in his barracks three weeks after he went missing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57791039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57791039</guid>
+            <pubDate>Sat, 10 Jul 2021 23:04:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Australia: New South Wales confirms first Covid-related death in 10 months]]></title>
             <description><![CDATA[A woman in her 90s died in Sydney, as state officials warn of a surge in new infections.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-57793539</link>
@@ -72,11 +79,11 @@
             <pubDate>Sun, 11 Jul 2021 03:30:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US heatwave: Wildfires rage in western states as temperatures soar]]></title>
-            <description><![CDATA[Tributes are paid to two firefighters who died in a plane crash while responding to a blaze in Arizona.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57794263</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57794263</guid>
-            <pubDate>Sun, 11 Jul 2021 10:46:43 GMT</pubDate>
+            <title><![CDATA[Pope Francis leads prayers from hospital balcony after colon surgery]]></title>
+            <description><![CDATA[Francis thanks well-wishers from his hospital balcony following treatment for a colon problem.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57796309</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57796309</guid>
+            <pubDate>Sun, 11 Jul 2021 11:13:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drugs: One man dies amid 12 drug overdoses in Swansea]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57790900</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57790900</guid>
             <pubDate>Sun, 11 Jul 2021 11:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dustin Poirier beats Conor McGregor after Irishman breaks leg in the first round at UFC 264]]></title>
-            <description><![CDATA[Dustin Poirier beats Conor McGregor in the first round of their trilogy fight at UFC 264 in Las Vegas.]]></description>
-            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57793781</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/57793781</guid>
-            <pubDate>Sun, 11 Jul 2021 06:24:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Offa's Dyke: Monument damaged by 'centuries of benign neglect']]></title>
@@ -212,6 +212,13 @@
             <pubDate>Fri, 09 Jul 2021 23:08:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[McGregor breaks leg in first-round defeat by Poirier at UFC 264]]></title>
+            <description><![CDATA[Dustin Poirier beats Conor McGregor in the first round of their trilogy fight at UFC 264 in Las Vegas.]]></description>
+            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57793781</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/57793781</guid>
+            <pubDate>Sun, 11 Jul 2021 06:24:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Messi wins first major trophy with Argentina as Brazil beaten in Copa America final]]></title>
             <description><![CDATA[Lionel Messi ends his wait for a first major international title as Argentina beat Brazil in the Copa America final.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57776158</link>
@@ -238,13 +245,6 @@
             <link>https://www.bbc.co.uk/sport/av/tennis/57791966</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/tennis/57791966</guid>
             <pubDate>Sat, 10 Jul 2021 16:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Gareth Southgate says he wants England to 'bring the trophy home']]></title>
-            <description><![CDATA[England manager Gareth Southgate says he wants his England side to "bring the trophy home" when they face Italy in the Euro 2020 final at Wembley on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57792612</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57792612</guid>
-            <pubDate>Sat, 10 Jul 2021 19:22:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v Italy: 'Inspirational England help heal national sporting psyche before historic final']]></title>
