@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Jul 2021 07:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 07:49:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Sat, 10 Jul 2021 20:33:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Football-mad Italians gear up for big night]]></title>
-            <description><![CDATA[Italy's success in the Euro competition has lifted spirits after the pandemic, Mark Lowen reports.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57783267</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57783267</guid>
-            <pubDate>Sat, 10 Jul 2021 23:04:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: NHS backlog in England could reach 13 million, says Sajid Javid]]></title>
             <description><![CDATA[Sajid Javid says waiting list projections "shocked me the most" in his first days as health secretary.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57793122</link>
@@ -51,18 +44,18 @@
             <pubDate>Sat, 10 Jul 2021 23:04:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foreign aid: Gates and others to partially cover UK aid cuts]]></title>
-            <description><![CDATA[The group says the funding will help save "critical projects" and ensure progress is not "wasted".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57791538</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57791538</guid>
-            <pubDate>Sat, 10 Jul 2021 23:06:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: NHS backlog warning and face masks still needed in Wales]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57793129</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57793129</guid>
             <pubDate>Sun, 11 Jul 2021 07:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foreign aid: Gates and others to partially cover UK aid cuts]]></title>
+            <description><![CDATA[The group says the funding will help save "critical projects" and ensure progress is not "wasted".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57791538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57791538</guid>
+            <pubDate>Sat, 10 Jul 2021 23:06:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Woman aged 90 died with double variant infection]]></title>
@@ -202,7 +195,7 @@
             <description><![CDATA[Lionel Messi ends his wait for a first major international title as Argentina beat Brazil in the Copa America final.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57776158</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57776158</guid>
-            <pubDate>Sun, 11 Jul 2021 02:48:51 GMT</pubDate>
+            <pubDate>Sun, 11 Jul 2021 07:40:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wimbledon 2021: Novak Djokovic and Matteo Berrettini set for men's final]]></title>
@@ -259,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/football/57768655</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57768655</guid>
             <pubDate>Sun, 11 Jul 2021 05:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Football-mad Italians gear up for big night]]></title>
+            <description><![CDATA[Italy's success in the Euro competition has lifted spirits after the pandemic, Mark Lowen reports.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57783267</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57783267</guid>
+            <pubDate>Sat, 10 Jul 2021 23:04:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 final: How to watch and follow Italy v England on the BBC]]></title>
