@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Jul 2021 06:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 06:38:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,13 +72,6 @@
             <pubDate>Sun, 11 Jul 2021 03:20:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Esther Bejarano: Auschwitz orchestra member dies]]></title>
-            <description><![CDATA[Esther Bejarano survived in Auschwitz by playing in the death camp's orchestra.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57791259</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57791259</guid>
-            <pubDate>Sat, 10 Jul 2021 17:02:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jovenel Moïse: President's widow speaks for first time]]></title>
             <description><![CDATA[Martine Moïse, who was injured in the attack which killed her husband, speaks for the first time.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57791618</link>
@@ -90,14 +83,7 @@
             <description><![CDATA[Face coverings will still be mandatory on public transport and in health and social care settings.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57790607</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57790607</guid>
-            <pubDate>Sun, 11 Jul 2021 06:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US heatwave: California and Nevada brace for record-breaking temperatures]]></title>
-            <description><![CDATA[California's Death Valley matches what may be the highest temperature ever reliably recorded.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57788118</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57788118</guid>
-            <pubDate>Sat, 10 Jul 2021 17:44:34 GMT</pubDate>
+            <pubDate>Sun, 11 Jul 2021 06:29:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lionel Messi wins first Copa America as Argentina beat Brazil in final]]></title>
@@ -105,6 +91,13 @@
             <link>https://www.bbc.co.uk/sport/football/57776158</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57776158</guid>
             <pubDate>Sun, 11 Jul 2021 02:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dustin Poirier beats Conor McGregor after Irishman breaks leg in the first round at UFC 264]]></title>
+            <description><![CDATA[Dustin Poirier beats Conor McGregor in the first round of their trilogy fight at UFC 264 in Las Vegas.]]></description>
+            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57793781</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/57793781</guid>
+            <pubDate>Sun, 11 Jul 2021 06:24:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'We Kane be heroes' and 'jab gap to be cut']]></title>
@@ -198,13 +191,6 @@
             <pubDate>Fri, 09 Jul 2021 23:08:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[McGregor breaks leg in first-round defeat by Poirier at UFC 264]]></title>
-            <description><![CDATA[Dustin Poirier beats Conor McGregor in the first round of their trilogy fight at UFC 264 in Las Vegas.]]></description>
-            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57793781</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/mixed-martial-arts/57793781</guid>
-            <pubDate>Sun, 11 Jul 2021 05:36:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wimbledon 2021: Novak Djokovic and Matteo Berrettini set for men's final]]></title>
             <description><![CDATA[Novak Djokovic aims to win a sixth Wimbledon - and record-equalling 20th Grand Slam men's title - when he plays Italy's Matteo Berrettini on Sunday.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57786213</link>
@@ -231,6 +217,20 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/57792572</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57792572</guid>
             <pubDate>Sat, 10 Jul 2021 19:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russell's Lions tour may be over - Gatland]]></title>
+            <description><![CDATA[Scotland fly-half Finn Russell may be forced home from the British and Irish Lions tour of South Africa with an Achilles tear admits head coach Warren Gatland.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57792507</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57792507</guid>
+            <pubDate>Sat, 10 Jul 2021 21:24:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Superb England beat Pakistan by 52 runs to secure ODI series win]]></title>
+            <description><![CDATA[England complete another impressive victory over Pakistan in the second one-day international to clinch the series with a game to spare.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57789288</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57789288</guid>
+            <pubDate>Sat, 10 Jul 2021 19:06:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v Italy: 'Inspirational England help heal national sporting psyche before historic final']]></title>
