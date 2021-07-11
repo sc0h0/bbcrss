@@ -10,7 +10,7 @@
 10. [Dustin Poirier beats Conor McGregor after Irishman breaks leg in the first round at UFC 264](https://www.bbc.co.uk/sport/mixed-martial-arts/57793781) - Dustin Poirier beats Conor McGregor in the first round of their trilogy fight at UFC 264 in Las Vegas.
 11. [The Papers: 'We Kane be heroes' and 'jab gap to be cut'](https://www.bbc.co.uk/news/blogs-the-papers-57792852) - Sunday's papers report a "heartfelt message" from the Queen ahead of England's Euro final against Italy.
 12. [Euro 2020: The pride of England stars' hometowns](https://www.bbc.co.uk/news/uk-england-57791089) - We meet those in the England stars' hometowns who hope the boys can bring football home - literally.
-13. [ICYMI: A nail-biting tight rope walk and a tiny cow](https://www.bbc.co.uk/news/world-57771740) - Here's a summary of this week's news you might have missed.
+13. [ICYMI: A big cat 3D billboard and a tiny celebrity cow](https://www.bbc.co.uk/news/world-57771740) - Watch our round-up of the week's more paw-sitive stories that you miaow have missed.
 14. [Thousands of fish dropped from plane to restock Utah lakes](https://www.bbc.co.uk/news/world-us-canada-57793082) - Wildlife authorities in Utah do this to restock lakes that aren't accessible to other forms of transport.
 15. [Euro 2020: Ex-SAS Atlantic rower relying on text updates for final](https://www.bbc.co.uk/news/uk-england-hereford-worcester-57788407) - Ex-SAS soldier Ian Rivers has no way of seeing or hearing Sunday's England v Italy match.
 16. [Ros Atkins on… England’s Covid gamble](https://www.bbc.co.uk/news/uk-57777428) - Ros Atkins looks at the UK government’s plan to lift Covid restrictions in England.
