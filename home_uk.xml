@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Jul 2021 21:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 21:34:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-57799271</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57799271</guid>
             <pubDate>Sun, 11 Jul 2021 19:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: PM urges caution as 19 July unlocking set to go ahead]]></title>
+            <description><![CDATA[Boris Johnson warns that Covid cases, currently at 30,000 a day, will rise as restrictions end.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57797657</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57797657</guid>
+            <pubDate>Sun, 11 Jul 2021 21:30:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: All eyes on Wembley as fans watch England in final]]></title>
@@ -37,13 +44,6 @@
             <pubDate>Sun, 11 Jul 2021 14:43:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wimbledon 2021: Novak Djokovic beats Matteo Berrettini for 20th Grand Slam title]]></title>
-            <description><![CDATA[Novak Djokovic wins his sixth Wimbledon title and record-equalling 20th men's Grand Slam by fighting back to beat Italy's Matteo Berrettini.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/57792226</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57792226</guid>
-            <pubDate>Sun, 11 Jul 2021 18:08:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Virgin Galactic: Sir Richard Branson rockets to the edge of space]]></title>
             <description><![CDATA[The UK businessman realises a lifetime's ambition by riding a rocket plane high into the sky.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57797297</link>
@@ -51,18 +51,18 @@
             <pubDate>Sun, 11 Jul 2021 16:54:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wimbledon 2021: Novak Djokovic beats Matteo Berrettini for 20th Grand Slam title]]></title>
+            <description><![CDATA[Novak Djokovic wins his sixth Wimbledon title and record-equalling 20th men's Grand Slam by fighting back to beat Italy's Matteo Berrettini.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/57792226</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57792226</guid>
+            <pubDate>Sun, 11 Jul 2021 18:08:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Georgia: Cameraman dies after attack at anti-Pride march]]></title>
             <description><![CDATA[Lekso Lashkarava, who was badly injured, was found dead in the Georgian capital Tbilisi on Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57797467</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57797467</guid>
             <pubDate>Sun, 11 Jul 2021 15:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Masks still expected to be worn indoors after 19 July - Zahawi]]></title>
-            <description><![CDATA[England is moving from "you must" wear a mask to "you are expected to", the vaccines minister says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57795409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57795409</guid>
-            <pubDate>Sun, 11 Jul 2021 11:55:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ex-England star finishes Tour de France for charity]]></title>
