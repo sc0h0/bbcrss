@@ -1,7 +1,7 @@
 1. [Racist abuse of England players condemned ](https://www.bbc.co.uk/sport/football/57800431) - Prime Minister Boris Johnson and the FA condemn racist abuse aimed at England players Marcus Rashford, Jadon Sancho and Bukayo Saka.
-2. [Euro 2020: Fans' despair as England lose to Italy in final](https://www.bbc.co.uk/news/uk-57800036) - Around 60,000 fans were at Wembley, while millions watched in pubs, fan zones and at home.
-3. [Covid-19: Lockdown set to lift and long Covid testing hopes](https://www.bbc.co.uk/news/uk-57798637) - Five things you need to know about the coronavirus pandemic this Monday morning.
-4. [Euro 2020 Final: Small number of fans broke into Wembley, say police](https://www.bbc.co.uk/news/uk-57799271) - The FA condemns those involved in the incident as "an embarrassment to the England team".
+2. [Euro 2020 Final: FA review after fans break into Wembley](https://www.bbc.co.uk/news/uk-57803366) - The FA chief executive Mark Bullingham apologises to legitimate fans whose experience was affected.
+3. [Euro 2020: Fans' despair as England lose to Italy in final](https://www.bbc.co.uk/news/uk-57800036) - Around 60,000 fans were at Wembley, while millions watched in pubs, fan zones and at home.
+4. [Covid-19: Lockdown set to lift and long Covid testing hopes](https://www.bbc.co.uk/news/uk-57798637) - Five things you need to know about the coronavirus pandemic this Monday morning.
 5. [Covid-19: PM urges caution as 19 July unlocking set to go ahead](https://www.bbc.co.uk/news/uk-57797657) - Boris Johnson warns that Covid cases, currently at 30,000 a day, will rise as restrictions end.
 6. [Jaipur: Lightning strike kills 11 taking selfies in India](https://www.bbc.co.uk/news/world-asia-india-57801398) - The incident happened when tourists were at a popular fort in the northern city of Jaipur.
 7. [Long Covid: Early findings bring hope for diagnostic tests](https://www.bbc.co.uk/news/health-57776010) - Scientists say early research findings could lead to a diagnostic test for those with long-term symptoms.
