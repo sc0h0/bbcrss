@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Jul 2021 14:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jul 2021 15:21:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: England lockdown rules to end on 19 July, Sajid Javid says]]></title>
+            <description><![CDATA[It means almost all legal restrictions on social contact in England will be removed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57809691</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57809691</guid>
+            <pubDate>Mon, 12 Jul 2021 15:14:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Racist abuse of players 'unforgiveable' says Southgate]]></title>
             <description><![CDATA[England manager Gareth Southgate says online racist abuse of Marcus Rashford, Jadon Sancho and Bukayo Saka is "unforgivable", after Prime Minister Boris Johnson and the FA condemn the social media posts.]]></description>
@@ -23,11 +30,11 @@
             <pubDate>Mon, 12 Jul 2021 14:23:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FA review after fans break into Wembley for final]]></title>
-            <description><![CDATA[The FA chief executive Mark Bullingham apologises to legitimate fans whose experience was affected.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57803366</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57803366</guid>
-            <pubDate>Mon, 12 Jul 2021 13:19:18 GMT</pubDate>
+            <title><![CDATA[Heathrow's long queues blamed on self-isolating staff]]></title>
+            <description><![CDATA[Terminal 5 sees long queues at security because staff were told to self-isolate by the NHS app.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57804447</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57804447</guid>
+            <pubDate>Mon, 12 Jul 2021 14:17:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro champions land in Rome to scenes of jubilation]]></title>
@@ -72,18 +79,11 @@
             <pubDate>Mon, 12 Jul 2021 12:25:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: PM urges caution as 19 July unlocking set to go ahead]]></title>
-            <description><![CDATA[Boris Johnson warns that Covid cases, currently at 30,000 a day, will rise as restrictions end.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57797657</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57797657</guid>
-            <pubDate>Mon, 12 Jul 2021 10:54:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Daily Mail: Rothermere family considers bid to take news group private]]></title>
-            <description><![CDATA[The family, which owns 28% of the group, is looking to buy the rest of the news organisation.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57795105</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57795105</guid>
-            <pubDate>Mon, 12 Jul 2021 09:11:47 GMT</pubDate>
+            <title><![CDATA[FA review after fans break into Wembley for final]]></title>
+            <description><![CDATA[The FA chief executive Mark Bullingham apologises to legitimate fans whose experience was affected.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57803366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57803366</guid>
+            <pubDate>Mon, 12 Jul 2021 13:19:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK bans fifth neo-Nazi group under terror laws]]></title>
@@ -212,7 +212,7 @@
             <pubDate>Mon, 12 Jul 2021 09:46:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Murray leads Lions for first time against South Africa A]]></title>
+            <title><![CDATA['It is almost a fourth Test' - Murray to lead Lions against strong South Africa A side]]></title>
             <description><![CDATA[Tour captain Conor Murray leads the British and Irish Lions for the first time against a strong South Africa A team in Cape Town on Wednesday.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57803880</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57803880</guid>
@@ -304,10 +304,10 @@
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
-            <description><![CDATA[Boris Johnson has set out government plans for lifting the remaining Covid restrictions in England.]]></description>
+            <description><![CDATA[Health Secretary Sajid Javid has confirmed government plans for lifting the remaining Covid restrictions in England.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Fri, 09 Jul 2021 09:43:29 GMT</pubDate>
+            <pubDate>Mon, 12 Jul 2021 15:13:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Should I still wear a face mask or covering and what are the rules?]]></title>
