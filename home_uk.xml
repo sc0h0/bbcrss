@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Jul 2021 22:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jul 2021 22:34:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,7 +24,7 @@
         </item>
         <item>
             <title><![CDATA[England's Tyrone Mings attacks Patel over racism response]]></title>
-            <description><![CDATA[It comes as Labour says the PM "failed the test of leadership" by failing to condemn booing fans.]]></description>
+            <description><![CDATA[It comes as Labour says the PM "failed the test of leadership" by not condemning booing fans.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57778668</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57778668</guid>
             <pubDate>Mon, 12 Jul 2021 22:15:05 GMT</pubDate>
@@ -58,11 +58,25 @@
             <pubDate>Mon, 12 Jul 2021 21:00:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Sturgeon to announce decision on restrictions]]></title>
+            <description><![CDATA[The First Minister will confirm whether Scotland's levels will be changed on 19 July as planned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</guid>
+            <pubDate>Mon, 12 Jul 2021 22:05:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cuba: Rare protests see thousands on streets]]></title>
             <description><![CDATA[Protesters say they are angry about the government’s handling of both coronavirus and the economy.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57803481</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57803481</guid>
             <pubDate>Mon, 12 Jul 2021 13:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla: Elon Musk ‘rather hates’ being company boss]]></title>
+            <description><![CDATA[Speaking in court on Monday, the entrepreneur said he prefers spending time on design and engineering.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57813938</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57813938</guid>
+            <pubDate>Mon, 12 Jul 2021 21:01:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Dutch PM Rutte 'sorry for easing restrictions too soon']]></title>
@@ -72,18 +86,11 @@
             <pubDate>Mon, 12 Jul 2021 16:13:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: England's July 19 reopening confirmed and Covid passports recommended]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57809399</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57809399</guid>
-            <pubDate>Mon, 12 Jul 2021 16:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heathrow's long queues blamed on self-isolating staff]]></title>
-            <description><![CDATA[Terminal 5 sees long queues at security because staff were told to self-isolate by the NHS app.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57804447</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57804447</guid>
-            <pubDate>Mon, 12 Jul 2021 14:17:06 GMT</pubDate>
+            <title><![CDATA[Texas Democrats flee state to block Republican voting law]]></title>
+            <description><![CDATA[Republicans in the state are proposing some of the most restrictive voting laws in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57814213</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57814213</guid>
+            <pubDate>Mon, 12 Jul 2021 22:04:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Virgin Galactic may sell $500m of shares after space success]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-57810029</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57810029</guid>
             <pubDate>Mon, 12 Jul 2021 20:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish mesh patients can have corrective surgery in US and England]]></title>
-            <description><![CDATA[The Scottish government will pay for the operations and travel to clinics in Missouri and Bristol in south west England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57806904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57806904</guid>
-            <pubDate>Mon, 12 Jul 2021 15:41:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two arrested after boy, 16, fatally stabbed in Croydon]]></title>
