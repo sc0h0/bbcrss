@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Jul 2021 22:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jul 2021 23:08:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,7 +24,7 @@
         </item>
         <item>
             <title><![CDATA[England's Tyrone Mings attacks Patel over racism response]]></title>
-            <description><![CDATA[It comes as Labour says the PM "failed the test of leadership" by not condemning booing fans.]]></description>
+            <description><![CDATA[The defender accuses the home secretary of pretending to be disgusted after players were racially abused.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57778668</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57778668</guid>
             <pubDate>Mon, 12 Jul 2021 22:15:05 GMT</pubDate>
@@ -37,25 +37,32 @@
             <pubDate>Mon, 12 Jul 2021 20:42:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nightclubs and large events advised to ask for Covid passes]]></title>
-            <description><![CDATA[Those attending clubs and other large events should be asked for proof they have had their jabs, says health secretary.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57811067</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57811067</guid>
-            <pubDate>Mon, 12 Jul 2021 19:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flash floods cause travel chaos in parts of London]]></title>
-            <description><![CDATA[Cars are submerged in water in some areas while train services have also been cancelled.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57805391</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57805391</guid>
-            <pubDate>Mon, 12 Jul 2021 18:15:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Defaced Marcus Rashford mural covered in supportive notes]]></title>
             <description><![CDATA[Marcus Rashford says he was "on the verge of tears" after hearts were put on his vandalised mural.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57806142</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57806142</guid>
             <pubDate>Mon, 12 Jul 2021 21:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flash floods in parts of London leaves cars submerged as roads fill with water]]></title>
+            <description><![CDATA[Heavy rain has caused flash floods in parts of London, leaving cars submerged and roads filled with water.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57811613</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57811613</guid>
+            <pubDate>Mon, 12 Jul 2021 22:52:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Technology boosts efforts to curb tree loss in Amazon]]></title>
+            <description><![CDATA[Smartphones and satellite data help indigenous people in the Peruvian Amazon to limit deforestation.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57807544</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57807544</guid>
+            <pubDate>Mon, 12 Jul 2021 23:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Springtime bounceback lifts High Streets to record growth]]></title>
+            <description><![CDATA[High Street sales from April to June grew at the fastest pace on record, industry figures indicate.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57804446</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57804446</guid>
+            <pubDate>Mon, 12 Jul 2021 23:01:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Sturgeon to announce decision on restrictions]]></title>
@@ -79,11 +86,11 @@
             <pubDate>Mon, 12 Jul 2021 21:01:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Dutch PM Rutte 'sorry for easing restrictions too soon']]></title>
-            <description><![CDATA[Infection levels surged to their highest this year after most curbs were lifted three weeks ago.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57811538</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57811538</guid>
-            <pubDate>Mon, 12 Jul 2021 16:13:08 GMT</pubDate>
+            <title><![CDATA[Nightclubs and large events advised to ask for Covid passes]]></title>
+            <description><![CDATA[Those attending clubs and other large events should be asked for proof they have had their jabs, says health secretary.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57811067</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57811067</guid>
+            <pubDate>Mon, 12 Jul 2021 19:47:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Texas Democrats flee state to block Republican voting law]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57814213</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57814213</guid>
             <pubDate>Mon, 12 Jul 2021 22:04:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virgin Galactic may sell $500m of shares after space success]]></title>
-            <description><![CDATA[The company filed to sell up to $500m (£360m) in stock the day after its founder reached the edge of space.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57810029</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57810029</guid>
-            <pubDate>Mon, 12 Jul 2021 20:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two arrested after boy, 16, fatally stabbed in Croydon]]></title>
