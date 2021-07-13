@@ -8,7 +8,7 @@
 8. [Social media influencers face relentless abuse, MPs are told](https://www.bbc.co.uk/news/entertainment-arts-57823716) - Em Sheldon says people are "so angry" at her for using her online platforms for commercial gain.
 9. [Firms don't plan to rush back to offices on Monday](https://www.bbc.co.uk/news/business-57820706) - Businesses to keep a cautious approach to bringing staff back as Covid restrictions are lifted in England.
 10. [Bloody Sunday: Colum Eastwood names Soldier F in parliament](https://www.bbc.co.uk/news/uk-northern-ireland-57825284) - The identity of a former paratrooper, accused of two murders on Bloody Sunday, had been kept anonymous.
-11. [Marcus Rashford: Hundreds gather at mural for anti-racism demo](https://www.bbc.co.uk/news/uk-england-manchester-57824639) - About 700 people take part in a demonstration at a mural of Marcus Rashford, which had been defaced.
+11. [Marcus Rashford: Hundreds gather at mural for anti-racism demo](https://www.bbc.co.uk/news/uk-england-manchester-57824639) - England star Marcus Rashford says an anti-racism demonstration at a mural of him left him "lost for words".
 12. [Spanish TikTok star Darrechi angers many with condom remarks](https://www.bbc.co.uk/news/world-europe-57819721) - Naim Darrechi, who has millions of fans, suggested he had deceived women to have unprotected sex.
 13. [Sebastian Eubank died after 'massive heart attack', widow says](https://www.bbc.co.uk/news/uk-57828270) - Salma Abdelati says she is grateful her husband spent a few "happy weeks with his son" before his death.
 14. [South Africa riots: What's happening and why?](https://www.bbc.co.uk/news/world-africa-57828581) - The military are helping police quell unrest following the jailing of former President Jacob Zuma.
