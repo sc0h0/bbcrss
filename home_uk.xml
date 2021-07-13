@@ -11,13 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jul 2021 12:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 12:49:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[England's Tyrone Mings criticises Patel over racism response]]></title>
-            <description><![CDATA[England's Tyrone Mings accuses the home secretary of "pretending" to be disgusted about racist abuse.]]></description>
+            <description><![CDATA[England's Tyrone Mings accuses the home secretary of "pretending" to be disgusted by racist abuse.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57778668</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57778668</guid>
             <pubDate>Tue, 13 Jul 2021 11:42:51 GMT</pubDate>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 13 Jul 2021 12:02:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Colin Pitchfork: Double child killer's release confirmed]]></title>
-            <description><![CDATA[A judge-led review upholds a decision by the Parole Board to deem Colin Pitchfork safe for release.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-57737050</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-57737050</guid>
-            <pubDate>Tue, 13 Jul 2021 11:42:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: Sturgeon to announce decision on restrictions]]></title>
             <description><![CDATA[The First Minister will confirm whether Scotland's levels will be changed on 19 July as planned.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</link>
@@ -44,11 +37,18 @@
             <pubDate>Tue, 13 Jul 2021 07:56:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Bus and train firms must decide whether to require masks]]></title>
-            <description><![CDATA[Masks will not be legally required on public transport when Covid restrictions are eased in England.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57813402</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57813402</guid>
-            <pubDate>Tue, 13 Jul 2021 08:17:14 GMT</pubDate>
+            <title><![CDATA[Colin Pitchfork: Double child killer's release confirmed]]></title>
+            <description><![CDATA[A judge-led review upholds a decision by the Parole Board to release double child killer Colin Pitchfork.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-57737050</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-57737050</guid>
+            <pubDate>Tue, 13 Jul 2021 11:42:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foreign aid: Covid costs mean we have to cut payments, says PM]]></title>
+            <description><![CDATA[Boris Johnson says an "economic hurricane" has forced the reduction, as MPs prepare to vote on it.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57815034</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57815034</guid>
+            <pubDate>Tue, 13 Jul 2021 12:39:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The EU countries 'pushing back' asylum seekers at sea]]></title>
@@ -62,14 +62,14 @@
             <description><![CDATA[At least 30 people have died following days of unrest sparked by the jailing of a former president.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57818215</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57818215</guid>
-            <pubDate>Tue, 13 Jul 2021 10:14:41 GMT</pubDate>
+            <pubDate>Tue, 13 Jul 2021 12:21:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foreign aid: MPs to vote on cut to UK budget]]></title>
-            <description><![CDATA[They will choose between restoring spending to previous levels or tying it to government borrowing.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57815034</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57815034</guid>
-            <pubDate>Tue, 13 Jul 2021 11:41:28 GMT</pubDate>
+            <title><![CDATA[Confusion for nightclubs over Covid pass policy]]></title>
+            <description><![CDATA[The government is being disingenuous by saying its guidance is voluntary, says an industry spokesman.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57819679</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57819679</guid>
+            <pubDate>Tue, 13 Jul 2021 12:14:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[F1 driver Norris mugged after Euro 2020 final]]></title>
@@ -100,7 +100,7 @@
             <pubDate>Tue, 13 Jul 2021 11:39:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England football racism row: Black and Asian fans 'so proud' of Southgate's team]]></title>
+            <title><![CDATA[England football racism: Black and Asian fans 'so proud' of Southgate's team]]></title>
             <description><![CDATA[Binta Williams, 22, is one of many new fans loving the diversity of the Euro 2020 England squad.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57803412</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57803412</guid>
@@ -111,7 +111,7 @@
             <description><![CDATA[Travel firms and others are setting out their own safety rules for when legal bindings lift.]]></description>
             <link>https://www.bbc.co.uk/news/business-57677159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57677159</guid>
-            <pubDate>Tue, 13 Jul 2021 11:18:21 GMT</pubDate>
+            <pubDate>Tue, 13 Jul 2021 12:19:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bank scammer threatens BBC reporter over the phone]]></title>
