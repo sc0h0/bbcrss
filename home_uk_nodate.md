@@ -29,7 +29,7 @@
 29. [Euro 2020: Phillips' 83km, Ronaldo's records and Pedri's passes - the best stats from the summer](https://www.bbc.co.uk/sport/football/57805875) - As the dust begins to settle on Euro 2020, BBC Sport looks at some of the standout stats from this summer's tournament.
 30. [Tokyo 2020: Ovie Soko presents Olympic basketball greats](https://www.bbc.co.uk/sport/av/olympics/57769206) - Ovie Soko presents a rundown of basketball legends to have won medals at the Olympic Games.
 31. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Health Secretary Sajid Javid has confirmed government plans for lifting the remaining Covid restrictions in England.
-32. [Should I still wear a face mask or covering and what are the rules?](https://www.bbc.co.uk/news/health-51205344) - People will be expected to wear masks in crowded indoor spaces after 19 July.
+32. [What's the new guidance on face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - People in England will still be expected to wear masks in crowded indoor spaces after 19 July.
 33. [Vaccine passports: How can the NHS Covid Pass prove I've had both my Covid jabs?](https://www.bbc.co.uk/news/explainers-55718553) - Double-vaccinated people in England may be able to avoid self-isolation and attend large-scale events.
 34. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - The working from home advice in England is set to change on 19 July.
 35. [How many cases are in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
