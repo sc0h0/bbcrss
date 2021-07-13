@@ -2,7 +2,7 @@
 2. [England's Tyrone Mings attacks Patel over racism response](https://www.bbc.co.uk/news/uk-politics-57778668) - The defender accuses the home secretary of "pretending" to be disgusted after players were racially abused.
 3. [Covid: Bus and train firms must decide whether to mandate masks](https://www.bbc.co.uk/news/business-57813402) - Masks will not be legally required on public transport when Covid restrictions are eased in England.
 4. [MPs to vote on cut to UK foreign aid budget](https://www.bbc.co.uk/news/uk-57815034) - They will choose between restoring spending to previous levels or tying it to government borrowing.
-5. [Iraq: Hospital fire in Covid ward kills dozens](https://www.bbc.co.uk/news/world-middle-east-57814954) - The fire broke out in a Covid isolation ward - reportedly after an oxygen cylinder exploded.
+5. [Iraq: Hospital fire in Covid ward kills dozens](https://www.bbc.co.uk/news/world-middle-east-57814954) - More than 50 patients died in the fire at a Covid isolation ward, triggering protests by relatives.
 6. [The EU countries 'pushing back' asylum seekers at sea](https://www.bbc.co.uk/news/world-europe-57809909) - Greece is accused of sending thousands back to Turkey without allowing them to apply for asylum.
 7. [Covid in Scotland: Sturgeon to announce decision on restrictions](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095) - The First Minister will confirm whether Scotland's levels will be changed on 19 July as planned.
 8. [Hamilton report aims to boost motorsport diversity](https://www.bbc.co.uk/sport/formula1/57783786) - Lewis Hamilton says that helping motorsport become more diverse will be "the most valuable" thing he has achieved in his career.
