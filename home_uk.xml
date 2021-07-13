@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jul 2021 10:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 10:49:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 13 Jul 2021 10:31:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The EU countries 'pushing back' asylum seekers at sea]]></title>
-            <description><![CDATA[Greece is accused of sending thousands back to Turkey without allowing them to apply for asylum.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57809909</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57809909</guid>
-            <pubDate>Mon, 12 Jul 2021 23:01:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: Sturgeon to announce decision on restrictions]]></title>
             <description><![CDATA[The First Minister will confirm whether Scotland's levels will be changed on 19 July as planned.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</link>
@@ -44,18 +37,18 @@
             <pubDate>Tue, 13 Jul 2021 07:56:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Transport companies to decide on masks and Scotland rules review]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57774725</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57774725</guid>
-            <pubDate>Tue, 13 Jul 2021 06:58:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Bus and train firms must decide whether to require masks]]></title>
             <description><![CDATA[Masks will not be legally required on public transport when Covid restrictions are eased in England.]]></description>
             <link>https://www.bbc.co.uk/news/business-57813402</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57813402</guid>
             <pubDate>Tue, 13 Jul 2021 08:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The EU countries 'pushing back' asylum seekers at sea]]></title>
+            <description><![CDATA[Greece is accused of sending thousands back to Turkey without allowing them to apply for asylum.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57809909</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57809909</guid>
+            <pubDate>Mon, 12 Jul 2021 23:01:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foreign aid: MPs to vote on cut to UK budget]]></title>
@@ -72,6 +65,13 @@
             <pubDate>Tue, 13 Jul 2021 07:58:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[F1 driver Norris mugged after Euro 2020 final]]></title>
+            <description><![CDATA[Formula 1 driver Lando Norris was mugged and his team-issued watch stolen after the Euro 2020 final at Wembley on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57818938</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57818938</guid>
+            <pubDate>Tue, 13 Jul 2021 09:07:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Flash floods: Parts of London receive a month of rain in one day]]></title>
             <description><![CDATA[Cars are submerged in water in some areas while train services have also been cancelled.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57816647</link>
@@ -83,7 +83,7 @@
             <description><![CDATA[One mum says "it's something we've got to do" because her children are looking forward to a holiday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57809611</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57809611</guid>
-            <pubDate>Tue, 13 Jul 2021 09:05:19 GMT</pubDate>
+            <pubDate>Tue, 13 Jul 2021 10:40:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Met Police seize record £180m of cryptocurrency in London]]></title>
@@ -93,18 +93,18 @@
             <pubDate>Tue, 13 Jul 2021 06:47:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'Ugly face of football' and 'freedom day' in England]]></title>
-            <description><![CDATA[Tuesday's papers react to three England players being subjected to racist abuse.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57814894</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57814894</guid>
-            <pubDate>Tue, 13 Jul 2021 04:30:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bank scammer threatens BBC reporter over the phone]]></title>
             <description><![CDATA[A fraudster threatens a BBC reporter during a call supposedly from his bank after a text scam.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-57809349</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-57809349</guid>
             <pubDate>Mon, 12 Jul 2021 23:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Ugly face of football' and 'freedom day' in England]]></title>
+            <description><![CDATA[Tuesday's papers react to three England players being subjected to racist abuse.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57814894</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57814894</guid>
+            <pubDate>Tue, 13 Jul 2021 04:30:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flash floods in parts of London leaves cars submerged as roads fill with water]]></title>
