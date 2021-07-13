@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jul 2021 01:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 02:21:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Mon, 12 Jul 2021 23:01:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Sturgeon to announce decision on restrictions]]></title>
+            <description><![CDATA[The First Minister will confirm whether Scotland's levels will be changed on 19 July as planned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</guid>
+            <pubDate>Mon, 12 Jul 2021 22:05:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hamilton report aims to boost motorsport diversity]]></title>
             <description><![CDATA[Lewis Hamilton says that helping motorsport become more diverse will be "the most valuable" thing he has achieved in his career.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/57783786</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/business-57804446</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57804446</guid>
             <pubDate>Mon, 12 Jul 2021 23:01:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Sturgeon to announce decision on restrictions]]></title>
-            <description><![CDATA[The First Minister will confirm whether Scotland's levels will be changed on 19 July as planned.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</guid>
-            <pubDate>Mon, 12 Jul 2021 22:05:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tesla: Elon Musk ‘rather hates’ being company boss]]></title>
