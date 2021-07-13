@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jul 2021 07:30:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 07:40:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -268,6 +268,13 @@
             <pubDate>Mon, 12 Jul 2021 16:44:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Indians don't talk about sex - so I help them']]></title>
+            <description><![CDATA[An Indian sex coach says parents turn to her for advice as sex education is not available in schools.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56838660</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56838660</guid>
+            <pubDate>Sat, 10 Jul 2021 23:08:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fire lookouts: The US Forest Service lookouts watching for fires]]></title>
             <description><![CDATA[In remote towers, US Forest Service lookouts act as an early warning system for forest fires.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57626403</link>
@@ -294,13 +301,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57646170</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57646170</guid>
             <pubDate>Sat, 10 Jul 2021 23:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miami condo collapse: A boom, then the ground shook]]></title>
-            <description><![CDATA[Witnesses recount the terrifying night of the Champlain Tower collapse and the week that shook Miami.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57690165</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57690165</guid>
-            <pubDate>Tue, 06 Jul 2021 20:12:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
