@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jul 2021 07:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 08:17:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Tue, 13 Jul 2021 07:49:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Marcus Rashford: Hundreds of messages left on mural]]></title>
+            <description><![CDATA[The artwork was vandalised following England's defeat to Italy in the Euro 2020 final.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57816588</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57816588</guid>
+            <pubDate>Tue, 13 Jul 2021 07:20:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Bus and train firms must decide whether to require masks]]></title>
             <description><![CDATA[Masks will not be legally required on public transport when Covid restrictions are eased in England.]]></description>
             <link>https://www.bbc.co.uk/news/business-57813402</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57813402</guid>
             <pubDate>Tue, 13 Jul 2021 05:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Foreign aid: MPs to vote on cut to UK budget]]></title>
-            <description><![CDATA[They will choose between restoring spending to previous levels or tying it to government borrowing.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57815034</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57815034</guid>
-            <pubDate>Tue, 13 Jul 2021 07:08:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The EU countries 'pushing back' asylum seekers at sea]]></title>
@@ -48,7 +48,7 @@
             <description><![CDATA[The First Minister will confirm whether Scotland's levels will be changed on 19 July as planned.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</guid>
-            <pubDate>Mon, 12 Jul 2021 22:05:19 GMT</pubDate>
+            <pubDate>Tue, 13 Jul 2021 07:56:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Transport companies to decide on masks and Scotland rules review]]></title>
@@ -58,11 +58,18 @@
             <pubDate>Tue, 13 Jul 2021 06:58:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iraq hospital fire: Protests as Covid ward blaze kills 50]]></title>
+            <title><![CDATA[Foreign aid: MPs to vote on cut to UK budget]]></title>
+            <description><![CDATA[They will choose between restoring spending to previous levels or tying it to government borrowing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57815034</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57815034</guid>
+            <pubDate>Tue, 13 Jul 2021 07:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iraq hospital fire: Protests as Covid ward blaze kills more than 60]]></title>
             <description><![CDATA[Angry relatives of the victims have been protesting outside the now devastated Covid isolation ward.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57814954</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57814954</guid>
-            <pubDate>Tue, 13 Jul 2021 06:10:41 GMT</pubDate>
+            <pubDate>Tue, 13 Jul 2021 07:58:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hamilton report aims to boost motorsport diversity]]></title>
@@ -72,25 +79,18 @@
             <pubDate>Mon, 12 Jul 2021 23:04:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tesla: Elon Musk ‘rather hates’ being company boss]]></title>
-            <description><![CDATA[Speaking in court on Monday, the entrepreneur said he prefers spending time on design and engineering.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57813938</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57813938</guid>
-            <pubDate>Mon, 12 Jul 2021 21:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM must level up the North at pace, say Tory MPs]]></title>
-            <description><![CDATA[The Northern Research Group say ministers must start delivering on promises to rebuild after the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57813975</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57813975</guid>
-            <pubDate>Mon, 12 Jul 2021 23:35:47 GMT</pubDate>
+            <title><![CDATA[Flash floods: Parts of London receive a month of rain in one day]]></title>
+            <description><![CDATA[Cars are submerged in water in some areas while train services have also been cancelled.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57816647</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57816647</guid>
+            <pubDate>Tue, 13 Jul 2021 07:45:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Texas Democrats flee state to block Republican voting law]]></title>
             <description><![CDATA[Republicans in the state are proposing some of the most restrictive voting laws in the US.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57814213</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57814213</guid>
-            <pubDate>Tue, 13 Jul 2021 03:10:42 GMT</pubDate>
+            <pubDate>Tue, 13 Jul 2021 07:58:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Met Police seize record £180m of cryptocurrency in London]]></title>
