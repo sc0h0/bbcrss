@@ -20,7 +20,7 @@
 20. [What's taking the knee and why was it an issue at Euro 2020?](https://www.bbc.co.uk/news/explainers-53098516) - Taking the knee has spread across the world as a statement against racism.
 21. [US heatwave: Could US and Canada see the worst wildfires yet?](https://www.bbc.co.uk/news/57770728) - The annual fire season has barely started - and there are claims that 2021 might be the worst year yet.
 22. [Plastic surgery booming in China despite the dangers](https://www.bbc.co.uk/news/world-asia-china-57691525) - Young people are using social media apps to plan cosmetic procedures which don't always meet expectations.
-23. [The myth of India's population explosion](https://www.bbc.co.uk/news/world-asia-india-57801764) - India's most populous state has a contentious plan for curbing population growth. But is it necessary?
+23. [Uttar Pradesh bill: The myth of India's population explosion](https://www.bbc.co.uk/news/world-asia-india-57801764) - India's most populous state has a contentious plan for curbing population growth. But is it necessary?
 24. [England 'must be let off the leash'](https://www.bbc.co.uk/sport/football/57807877) - After losing the Euro 2020 final on penalties to Italy, BBC Sport's Phil McNulty looks at how manager Gareth Southgate can take England to the next step.
 25. [Capitol riots: What we have learned six months on](https://www.bbc.co.uk/news/world-us-canada-57753708) - Arrests and probes continue as some conservatives seek to cast 6 January in a different light.
 26. [I will never apologise for who I am - Rashford](https://www.bbc.co.uk/sport/football/57814154) - England and Manchester United forward Marcus Rashford says he "will never apologise for who I am" after receiving racist abuse following England's Euro 2020 final loss to Italy.
@@ -30,7 +30,7 @@
 30. [Tokyo 2020: Ovie Soko presents Olympic basketball greats](https://www.bbc.co.uk/sport/av/olympics/57769206) - Ovie Soko presents a rundown of basketball legends to have won medals at the Olympic Games.
 31. [Covid: What's the roadmap for lifting lockdown?](https://www.bbc.co.uk/news/explainers-52530518) - Health Secretary Sajid Javid has confirmed government plans for lifting the remaining Covid restrictions in England.
 32. [Should I still wear a face mask or covering and what are the rules?](https://www.bbc.co.uk/news/health-51205344) - People will be expected to wear masks in crowded indoor spaces after 19 July.
-33. [Vaccine passports: How can the NHS Covid Pass prove I've had both my Covid jabs?](https://www.bbc.co.uk/news/explainers-55718553) - Proof of vacciniation will be used to avoid certain Covid requirements, such as having to self-isolate in some circumstances.
+33. [Vaccine passports: How can the NHS Covid Pass prove I've had both my Covid jabs?](https://www.bbc.co.uk/news/explainers-55718553) - Double-vaccinated people in England may be able to avoid self-isolation and attend large-scale events.
 34. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - The working from home advice in England is set to change on 19 July.
 35. [How many cases are in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 36. ['Indians don't talk about sex - so I help them'](https://www.bbc.co.uk/news/stories-56838660) - An Indian sex coach says parents turn to her for advice as sex education is not available in schools.
