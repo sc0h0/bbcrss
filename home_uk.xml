@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jul 2021 09:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 09:43:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,7 +24,7 @@
         </item>
         <item>
             <title><![CDATA[Marcus Rashford: Hundreds of messages left on mural]]></title>
-            <description><![CDATA[The artwork was vandalised following England's defeat to Italy in the Euro 2020 final.]]></description>
+            <description><![CDATA[The artwork was vandalised following England's defeat by Italy in the Euro 2020 final.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57816588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57816588</guid>
             <pubDate>Tue, 13 Jul 2021 09:20:17 GMT</pubDate>
@@ -149,6 +149,13 @@
             <pubDate>Mon, 12 Jul 2021 23:02:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What's taking the knee and why was it an issue at Euro 2020?]]></title>
+            <description><![CDATA[Taking the knee has spread across the world as a statement against racism.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53098516</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53098516</guid>
+            <pubDate>Tue, 13 Jul 2021 09:30:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US heatwave: Could US and Canada see the worst wildfires yet?]]></title>
             <description><![CDATA[The annual fire season has barely started - and there are claims that 2021 might be the worst year yet.]]></description>
             <link>https://www.bbc.co.uk/news/57770728</link>
@@ -205,18 +212,18 @@
             <pubDate>Tue, 13 Jul 2021 05:15:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fight Talk: Tyson Fury, Anthony Joshua, Deontay Wilder, Dillian Whyte, Saul 'Canelo' Alvarez, Jake Paul]]></title>
+            <description><![CDATA[What does Tyson Fury v Deontay Wilder postponement mean for an undisputed Anthony Joshua-Fury clash? Plus Dillian Whyte calls out Wilder and Jake Paul trolls Conor McGregor. It's Fight Talk.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/57789751</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57789751</guid>
+            <pubDate>Tue, 13 Jul 2021 09:33:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro 2020: Phillips' 83km, Ronaldo's records and Pedri's passes - the best stats from the summer]]></title>
             <description><![CDATA[As the dust begins to settle on Euro 2020, BBC Sport looks at some of the standout stats from this summer's tournament.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57805875</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57805875</guid>
             <pubDate>Tue, 13 Jul 2021 05:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I had to learn to walk again' - the surfer who overcame a traumatic brain injury to reach Olympics]]></title>
-            <description><![CDATA[Australian surfer Owen Wright suffered a traumatic brain injury in 2015. Now he's heading to the Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57521694</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57521694</guid>
-            <pubDate>Tue, 13 Jul 2021 05:17:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Ovie Soko presents Olympic basketball greats]]></title>
