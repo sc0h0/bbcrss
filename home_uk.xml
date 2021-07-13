@@ -11,37 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jul 2021 02:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 03:23:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Marcus Rashford: England striker 'won't apologise' for who he is after receiving racist abuse]]></title>
-            <description><![CDATA[England and Manchester United forward Marcus Rashford says he "will never apologise for who I am" after receiving racist abuse following England's Euro 2020 final loss to Italy.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57814154</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57814154</guid>
-            <pubDate>Mon, 12 Jul 2021 21:46:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England's Tyrone Mings attacks Patel over racism response]]></title>
-            <description><![CDATA[The defender accuses the home secretary of "pretending" to be disgusted after players were racially abused.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57778668</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57778668</guid>
-            <pubDate>Mon, 12 Jul 2021 22:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Bus and train firms must decide whether to mandate masks]]></title>
+            <title><![CDATA[Covid: Bus and train firms must decide whether to require masks]]></title>
             <description><![CDATA[Masks will not be legally required on public transport when Covid restrictions are eased in England.]]></description>
             <link>https://www.bbc.co.uk/news/business-57813402</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57813402</guid>
-            <pubDate>Mon, 12 Jul 2021 23:28:52 GMT</pubDate>
+            <pubDate>Tue, 13 Jul 2021 03:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's Tyrone Mings attacks Patel over racism response]]></title>
+            <description><![CDATA[Tyrone Mings accuses the home secretary of "pretending" to be disgusted after players were racially abused.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57778668</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57778668</guid>
+            <pubDate>Mon, 12 Jul 2021 22:15:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MPs to vote on cut to UK foreign aid budget]]></title>
             <description><![CDATA[They will choose between restoring spending to previous levels or tying it to government borrowing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57815034</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57815034</guid>
-            <pubDate>Tue, 13 Jul 2021 01:12:07 GMT</pubDate>
+            <pubDate>Tue, 13 Jul 2021 03:22:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iraq: Hospital fire in Covid ward kills dozens]]></title>
@@ -63,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57806095</guid>
             <pubDate>Mon, 12 Jul 2021 22:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuba protests: Arrests after thousands rally against government]]></title>
+            <description><![CDATA[Thousands rallied on Sunday, angry at the country's economic crisis and curbs on civil liberties.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57813704</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57813704</guid>
+            <pubDate>Tue, 13 Jul 2021 03:15:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hamilton report aims to boost motorsport diversity]]></title>
@@ -97,7 +97,7 @@
             <description><![CDATA[Republicans in the state are proposing some of the most restrictive voting laws in the US.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57814213</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57814213</guid>
-            <pubDate>Mon, 12 Jul 2021 22:04:48 GMT</pubDate>
+            <pubDate>Tue, 13 Jul 2021 03:10:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Technology boosts efforts to curb tree loss in Amazon]]></title>
@@ -191,6 +191,13 @@
             <pubDate>Mon, 12 Jul 2021 17:28:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I will never apologise for who I am - Rashford]]></title>
+            <description><![CDATA[England and Manchester United forward Marcus Rashford says he "will never apologise for who I am" after receiving racist abuse following England's Euro 2020 final loss to Italy.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57814154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57814154</guid>
+            <pubDate>Mon, 12 Jul 2021 21:46:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['You're not England fans and we don't want you' - captain Kane on racist abuse]]></title>
             <description><![CDATA[England captain Harry Kane says those behind the online racist abuse of Marcus Rashford, Jadon Sancho and Bukayo Saka are "not England fans and we don't want you".]]></description>
             <link>https://www.bbc.co.uk/sport/football/57813679</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/football/57808570</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57808570</guid>
             <pubDate>Mon, 12 Jul 2021 17:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: From Ronaldo to Schick, watch the tournament's best moments]]></title>
-            <description><![CDATA[Watch the best moments at Euro 2020 from Andrea Bocelli's performance of Nessun Dorma to Cristiano Ronaldo's record-breaking penalty.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/57806953</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/57806953</guid>
-            <pubDate>Mon, 12 Jul 2021 16:06:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the roadmap for lifting lockdown?]]></title>
