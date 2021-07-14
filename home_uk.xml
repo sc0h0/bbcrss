@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jul 2021 22:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 23:13:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,25 +58,11 @@
             <pubDate>Wed, 14 Jul 2021 22:33:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hate will never win, says Jadon Sancho]]></title>
-            <description><![CDATA[England forward Jadon Sancho says "hate will never win" after he received racist abuse following the Euro 2020 final defeat by Italy on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57840951</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57840951</guid>
-            <pubDate>Wed, 14 Jul 2021 17:10:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Euro 2020: Met denies Wembley police operation failed]]></title>
             <description><![CDATA[A senior officer says had it not been for police action, the final could have been abandoned.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57841689</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57841689</guid>
             <pubDate>Wed, 14 Jul 2021 19:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Racism fuelling far-right threat in UK - MI5's Ken McCallum warns]]></title>
-            <description><![CDATA[Teenagers are a growing part of the problem, with children as young as 13 drawn into extremism online.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57829261</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57829261</guid>
-            <pubDate>Wed, 14 Jul 2021 19:01:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Spain's top court rules lockdown unconstitutional]]></title>
@@ -91,6 +77,20 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57844084</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57844084</guid>
             <pubDate>Wed, 14 Jul 2021 21:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mortgages refused for self-employed who took Covid grants]]></title>
+            <description><![CDATA[Mortgage brokers say self employed and furloughed workers are being turned down by some high street lenders.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57843756</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57843756</guid>
+            <pubDate>Wed, 14 Jul 2021 23:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Insurers plan green replacements for car and property write-offs]]></title>
+            <description><![CDATA[Written off or stolen petrol cars could be replaced with electric vehicles, as part of a wide-ranging eco-plan.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57834049</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57834049</guid>
+            <pubDate>Wed, 14 Jul 2021 23:01:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cuba: US calls for release of all protesters after unrest]]></title>
@@ -240,6 +240,13 @@
             <pubDate>Wed, 14 Jul 2021 21:00:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Olympic Games: 'Gang life nearly killed me - sprinting was my way out']]></title>
+            <description><![CDATA[As Darren Campbell emerged as a talented teenage sprinter, he was leading a double life as a gang member. A twist of fate broke him free.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/57656659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57656659</guid>
+            <pubDate>Wed, 14 Jul 2021 23:01:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pogacar wins stage 17 to extend Tour de France lead]]></title>
             <description><![CDATA[Defending champion Tadej Pogacar takes a sublime victory atop the Col du Portet on stage 17 of the Tour de France to extend his lead in the yellow jersey.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/57840945</link>
@@ -254,6 +261,13 @@
             <pubDate>Wed, 14 Jul 2021 16:32:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Hate will never win' - England's Sancho responds to racist abuse]]></title>
+            <description><![CDATA[England forward Jadon Sancho says "hate will never win" after he received racist abuse following the Euro 2020 final defeat by Italy on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57840951</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57840951</guid>
+            <pubDate>Wed, 14 Jul 2021 17:10:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rafael Benitez says he will 'fight for Everton' and vows to win over fans]]></title>
             <description><![CDATA[New Everton boss Rafael Benitez says success will win over fans who criticised his appointment.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57835276</link>
@@ -266,20 +280,6 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/57843920</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57843920</guid>
             <pubDate>Wed, 14 Jul 2021 22:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Adam Peaty challenges Reece Parkinson to impromptu race]]></title>
-            <description><![CDATA[Adam Peaty challenges interviewer Reece Parkinson to an impromptu swimming race over 25 metres.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57441930</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57441930</guid>
-            <pubDate>Wed, 14 Jul 2021 05:22:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Open 2021: Bryson DeChambeau & Brooks Koepka discuss ongoing feud]]></title>
-            <description><![CDATA[Bryson DeChambeau and Brooks Koepka discuss their ongoing feud, and their potential pairing in September's Ryder Cup, before The Open at Royal St George's starts on Thursday.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/golf/57842562</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/57842562</guid>
-            <pubDate>Wed, 14 Jul 2021 17:13:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
