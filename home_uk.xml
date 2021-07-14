@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jul 2021 13:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 13:32:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,7 @@
             <description><![CDATA[Boris Johnson says proposals to address past will allow people to "draw a line under the Troubles".]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57829037</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57829037</guid>
-            <pubDate>Wed, 14 Jul 2021 13:07:14 GMT</pubDate>
+            <pubDate>Wed, 14 Jul 2021 13:18:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ex-Nissan boss Carlos Ghosn: How I escaped Japan in a box]]></title>
@@ -48,7 +48,14 @@
             <description><![CDATA[John Lewis and Waitrose want to make the cuts as part of a shake-up of store management.]]></description>
             <link>https://www.bbc.co.uk/news/business-57837864</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57837864</guid>
-            <pubDate>Wed, 14 Jul 2021 13:03:03 GMT</pubDate>
+            <pubDate>Wed, 14 Jul 2021 13:16:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU unveils sweeping climate change plan]]></title>
+            <description><![CDATA[It proposes taxing jet fuel and effectively banning the sale of petrol cars within 20 years.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57833807</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57833807</guid>
+            <pubDate>Wed, 14 Jul 2021 13:13:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Price rises speed up again as economy unlocks]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-57826331</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57826331</guid>
             <pubDate>Wed, 14 Jul 2021 09:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU unveils sweeping climate change plan]]></title>
-            <description><![CDATA[It proposes taxing jet fuel and effectively banning the sale of petrol cars within 20 years.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57833807</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57833807</guid>
-            <pubDate>Wed, 14 Jul 2021 12:58:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Waterstones to encourage shoppers to wear masks in stores]]></title>
@@ -163,6 +163,13 @@
             <pubDate>Tue, 13 Jul 2021 23:48:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NHS Covid app: Should it stay or should it go?]]></title>
+            <description><![CDATA[There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57836325</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57836325</guid>
+            <pubDate>Wed, 14 Jul 2021 12:57:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How the Met Police deals with London's missing person reports]]></title>
             <description><![CDATA[The missing persons specialists at the Met Police deal with thousands of cases a year. How do they prioritise them?]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57762720</link>
@@ -177,18 +184,18 @@
             <pubDate>Tue, 13 Jul 2021 23:01:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What more can be done to stop racist abuse online?]]></title>
-            <description><![CDATA[Abuse directed at England footballers has prompted calls for more action to tackle hate online.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57820048</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57820048</guid>
-            <pubDate>Wed, 14 Jul 2021 08:28:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How serious is the shortage of HGV drivers?]]></title>
             <description><![CDATA[The industry says there's a shortage of 100,000 drivers but why is that and what is the likely impact?]]></description>
             <link>https://www.bbc.co.uk/news/57810729</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/57810729</guid>
             <pubDate>Wed, 14 Jul 2021 00:07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What more can be done to stop racist abuse online?]]></title>
+            <description><![CDATA[Abuse directed at England footballers has prompted calls for more action to tackle hate online.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57820048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57820048</guid>
+            <pubDate>Wed, 14 Jul 2021 08:28:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Khashoggi murder: US softens towards Saudi leader]]></title>
