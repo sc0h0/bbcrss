@@ -1,10 +1,10 @@
 1. [Online racists to be banned from matches, says PM](https://www.bbc.co.uk/news/uk-politics-57837003) - The PM vows to change football banning orders - but Sir Keir Starmer says his promise "rings hollow".
 2. [Most Covid rules set to be lifted in Wales on 7 August](https://www.bbc.co.uk/news/uk-wales-57823021) - Most Covid rules will be scrapped if coronavirus rates allow - but face mask laws will stay.
 3. [Plan to end all NI Troubles prosecutions confirmed](https://www.bbc.co.uk/news/uk-northern-ireland-57829037) - Boris Johnson says proposals to address past will allow people to "draw a line under the Troubles".
-4. [Ex-Nissan boss Carlos Ghosn: How I escaped Japan in a box](https://www.bbc.co.uk/news/business-57760993) - The former boss of Nissan and Renault reveals how he evaded house arrest to flee to Lebanon.
-5. [EU unveils sweeping climate change plan](https://www.bbc.co.uk/news/world-europe-57833807) - It proposes taxing jet fuel and effectively banning the sale of petrol cars within 20 years.
-6. [John Lewis and Waitrose plan to cut 1,000 jobs](https://www.bbc.co.uk/news/business-57837864) - John Lewis and Waitrose want to make the cuts as part of a shake-up of store management.
-7. [Price rises speed up again as economy unlocks](https://www.bbc.co.uk/news/business-57826826) - The inflation rate hit 2.5% in June, exceeding the Bank of England's target for a second month.
+4. [EU unveils sweeping climate change plan](https://www.bbc.co.uk/news/world-europe-57833807) - It proposes taxing jet fuel and effectively banning the sale of petrol cars within 20 years.
+5. [John Lewis and Waitrose plan to cut 1,000 jobs](https://www.bbc.co.uk/news/business-57837864) - John Lewis and Waitrose want to make the cuts as part of a shake-up of store management.
+6. [Price rises speed up again as economy unlocks](https://www.bbc.co.uk/news/business-57826826) - The inflation rate hit 2.5% in June, exceeding the Bank of England's target for a second month.
+7. [Ex-Nissan boss Carlos Ghosn: How I escaped Japan in a box](https://www.bbc.co.uk/news/business-57760993) - The former boss of Nissan and Renault reveals how he evaded house arrest to flee to Lebanon.
 8. [Covid: Masks to remain compulsory on London transport](https://www.bbc.co.uk/news/uk-england-london-57826331) - Face coverings must be worn despite restrictions easing in England on 19 July, London's mayor says.
 9. [Waterstones to encourage shoppers to wear masks in stores](https://www.bbc.co.uk/news/business-57832560) - Bookseller is one of the first major chains to state policy for shops, but its stance attracts a mixed response.
 10. [Euro 2020 final: Harry Maguire's father suffered two suspected broken ribs](https://www.bbc.co.uk/sport/football/57818943) - Harry Maguire's father Alan suffered two suspected broken ribs before England's Euro 2020 final defeat by Italy, says the England defender.
