@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jul 2021 09:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 10:23:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Tue, 13 Jul 2021 21:00:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Face coverings on London transport and price rises speed up]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57827239</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57827239</guid>
-            <pubDate>Wed, 14 Jul 2021 07:00:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[UK public at risk from hostile state threats - MI5]]></title>
             <description><![CDATA[The MI5 chief says people need to be as vigilant about covert state action as about terrorism.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57829261</link>
@@ -77,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57829037</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57829037</guid>
             <pubDate>Wed, 14 Jul 2021 09:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Plans to be revealed for fewer rules in Wales]]></title>
+            <description><![CDATA[It is not expected all rules will go, or that Wales will move as quickly as England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-57822816</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57822816</guid>
+            <pubDate>Wed, 14 Jul 2021 07:59:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Charles' warning over survival of small farms]]></title>
@@ -198,13 +198,6 @@
             <pubDate>Tue, 13 Jul 2021 22:09:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I don't know when my next chance will come - watch highlights as Vince reflects on 'greatest moment' of career]]></title>
-            <description><![CDATA[James Vince says his first England century in victory over Pakistan in the third one-day international is the "best moment" of his career.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57830331</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57830331</guid>
-            <pubDate>Tue, 13 Jul 2021 22:47:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Irons off the tee and 32,000 daily fans - what to expect as The Open returns]]></title>
             <description><![CDATA[The Open Championship is back after a two-year wait but what can we expect from the field at Royal St George's?]]></description>
             <link>https://www.bbc.co.uk/sport/golf/57822490</link>
@@ -219,18 +212,11 @@
             <pubDate>Wed, 14 Jul 2021 09:11:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No Ronaldo, Pogba or Kane - but who did make your team of Euro 2020?]]></title>
-            <description><![CDATA[No Cristiano Ronaldo, no Paul Pogba, no Harry Kane, but which players did make your team of Euro 2020?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57785782</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57785782</guid>
-            <pubDate>Wed, 14 Jul 2021 07:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From broken back to Olympic medal favourite - meet GB shooter Coward-Holley]]></title>
-            <description><![CDATA[From a broken back to Team GB Olympic medal favourite, meet shooter Matthew Coward-Holley.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57823634</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57823634</guid>
-            <pubDate>Wed, 14 Jul 2021 05:07:09 GMT</pubDate>
+            <title><![CDATA[I don't know when my next chance will come - watch highlights as Vince reflects on 'greatest moment' of career]]></title>
+            <description><![CDATA[James Vince says his first England century in victory over Pakistan in the third one-day international is the "best moment" of his career.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57830331</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57830331</guid>
+            <pubDate>Tue, 13 Jul 2021 22:47:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: Is lockdown ending on 19 July?]]></title>
