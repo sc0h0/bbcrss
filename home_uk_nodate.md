@@ -5,9 +5,9 @@
 5. [Euro 2020: Met denies Wembley police operation failed](https://www.bbc.co.uk/news/uk-england-london-57841689) - A senior officer says had it not been for police action, the final could have been abandoned.
 6. [Covid: Medical staff 'distressed' by third wave](https://www.bbc.co.uk/news/health-57836137) - Hospitals in the north-east of England are facing a new surge of cases.
 7. [Racism fuelling far-right threat in UK - MI5's Ken McCallum warns](https://www.bbc.co.uk/news/uk-57829261) - Teenagers are a growing part of the problem, with children as young as 13 drawn into extremism online.
-8. [Online racists to be banned from matches, says PM](https://www.bbc.co.uk/news/uk-politics-57837003) - The PM vows action after abuse of England footballers - but Sir Keir Starmer says his words ring hollow.
-9. [South Africa Zuma riots: Queues form in Durban due to shortages](https://www.bbc.co.uk/news/world-africa-57834840) - Some South Africans are clearing up as protests continue over the arrest of ex-President Jacob Zuma.
-10. [Plan to end all NI Troubles prosecutions confirmed](https://www.bbc.co.uk/news/uk-northern-ireland-57829037) - Boris Johnson says proposals to address past will allow people to "draw a line under the Troubles".
+8. [Covid: Spain's top court rules lockdown unconstitutional](https://www.bbc.co.uk/news/world-europe-57838615) - People fined for breaking lockdown rules will now be able to reclaim their money, the court says.
+9. [Online racists to be banned from matches, says PM](https://www.bbc.co.uk/news/uk-politics-57837003) - The PM vows action after abuse of England footballers - but Sir Keir Starmer says his words ring hollow.
+10. [South Africa Zuma riots: Queues form in Durban due to shortages](https://www.bbc.co.uk/news/world-africa-57834840) - Some South Africans are clearing up as protests continue over the arrest of ex-President Jacob Zuma.
 11. [EU unveils sweeping climate change plan](https://www.bbc.co.uk/news/world-europe-57833807) - It proposes taxing jet fuel and effectively banning the sale of petrol cars within 20 years.
 12. [John Lewis and Waitrose plan to cut 1,000 jobs](https://www.bbc.co.uk/news/business-57837864) - John Lewis and Waitrose want to make the cuts as part of a shake-up of store management.
 13. [Euro 2020: Man arrested over racist abuse of England players](https://www.bbc.co.uk/news/uk-england-manchester-57833872) - Players including Marcus Rashford were targeted online after England lost the Euro 2020 final.
