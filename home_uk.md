@@ -1,4 +1,4 @@
-1. [Ibiza, Majorca and Menorca moved to amber list](https://www.bbc.co.uk/news/uk-57839184) - Wed, 14 Jul 2021 17:04:47 GMT - It means those who are not double-jabbed or under 18 will have to quarantine on their return.
+1. [Ibiza, Majorca and Menorca moved to amber list](https://www.bbc.co.uk/news/uk-57839184) - Wed, 14 Jul 2021 17:39:51 GMT - It means those who are not double-jabbed or under 18 will have to quarantine on their return.
 2. [Hate will never win, says Jadon Sancho](https://www.bbc.co.uk/sport/football/57840951) - Wed, 14 Jul 2021 17:10:20 GMT - England forward Jadon Sancho says "hate will never win" after he received racist abuse following the Euro 2020 final defeat by Italy on Sunday.
 3. [Euro 2020: Met denies Wembley police operation failed](https://www.bbc.co.uk/news/uk-england-london-57841689) - Wed, 14 Jul 2021 16:33:43 GMT - A senior officer says had it not been for police action, the final could have been abandoned.
 4. [Covid: Medical staff 'distressed' by third wave](https://www.bbc.co.uk/news/health-57836137) - Wed, 14 Jul 2021 15:07:14 GMT - Hospitals in the north-east of England are facing a new surge of cases.
