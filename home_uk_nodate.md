@@ -2,8 +2,8 @@
 2. [Most Covid rules set to be lifted in Wales on 7 August](https://www.bbc.co.uk/news/uk-wales-57823021) - Most Covid rules will be scrapped if coronavirus rates allow - but face mask laws will stay.
 3. [Plan to end all NI Troubles prosecutions confirmed](https://www.bbc.co.uk/news/uk-northern-ireland-57829037) - Boris Johnson says proposals to address past will allow people to "draw a line under the Troubles".
 4. [Ex-Nissan boss Carlos Ghosn: How I escaped Japan in a box](https://www.bbc.co.uk/news/business-57760993) - The former boss of Nissan and Renault reveals how he evaded house arrest to flee to Lebanon.
-5. [John Lewis and Waitrose plan to cut 1,000 jobs](https://www.bbc.co.uk/news/business-57837864) - John Lewis and Waitrose want to make the cuts as part of a shake-up of store management.
-6. [EU unveils sweeping climate change plan](https://www.bbc.co.uk/news/world-europe-57833807) - It proposes taxing jet fuel and effectively banning the sale of petrol cars within 20 years.
+5. [EU unveils sweeping climate change plan](https://www.bbc.co.uk/news/world-europe-57833807) - It proposes taxing jet fuel and effectively banning the sale of petrol cars within 20 years.
+6. [John Lewis and Waitrose plan to cut 1,000 jobs](https://www.bbc.co.uk/news/business-57837864) - John Lewis and Waitrose want to make the cuts as part of a shake-up of store management.
 7. [Price rises speed up again as economy unlocks](https://www.bbc.co.uk/news/business-57826826) - The inflation rate hit 2.5% in June, exceeding the Bank of England's target for a second month.
 8. [Covid: Masks to remain compulsory on London transport](https://www.bbc.co.uk/news/uk-england-london-57826331) - Face coverings must be worn despite restrictions easing in England on 19 July, London's mayor says.
 9. [Waterstones to encourage shoppers to wear masks in stores](https://www.bbc.co.uk/news/business-57832560) - Bookseller is one of the first major chains to state policy for shops, but its stance attracts a mixed response.
@@ -30,9 +30,9 @@
 30. [Irons off the tee and 32,000 daily fans - what to expect as The Open returns](https://www.bbc.co.uk/sport/golf/57822490) - The Open Championship is back after a two-year wait but what can we expect from the field at Royal St George's?
 31. ['Watching England at Wembley was unbelievable - I can't wait to see what Silverstone will be like'](https://www.bbc.co.uk/sport/motorsport/57808351) - W Series driver and BBC Sport columnist Jamie Chadwick has been gorging on sport this summer - now it's her turn to shine.
 32. [Racist abuse: Portsmouth to investigate claims academy players racially abused England stars](https://www.bbc.co.uk/sport/football/57833838) - Portsmouth begin an investigation after some of their academy players allegedly use racially abusive language in the wake of England's Euro 2020 final loss.
-33. [Covid rules: Is lockdown ending on 19 July?](https://www.bbc.co.uk/news/explainers-52530518) - Covid restrictions will ease again in both England and Scotland on 19 July.
+33. [Covid rules: Is lockdown ending on 19 July?](https://www.bbc.co.uk/news/explainers-52530518) - Wales is the latest UK nation to announce more relaxation of Covid restrictions.
 34. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
-35. [What's the new guidance on face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - Face coverings are to remain in Scotland, while people in England won't have wear them after 19 July.
+35. [What's the new guidance on face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - Masks will no longer be compulsory in England from 19 July, but will remain necessary in Scotland and Wales.
 36. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 37. [Vaccine passports: How can the NHS Covid Pass prove I've had both jabs?](https://www.bbc.co.uk/news/explainers-55718553) - Clubbers and people attending mass events in England could have to prove they've had both Covid jabs.
 38. [Covid: Should I be working from home or going back to the office?](https://www.bbc.co.uk/news/business-52567567) - The working from home advice in England is set to change on 19 July.
