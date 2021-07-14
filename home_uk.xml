@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jul 2021 03:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 04:27:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Wed, 14 Jul 2021 00:23:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Iranians 'plotted to kidnap US, Canada and UK targets']]></title>
+            <description><![CDATA[New York-based Iranian-born journalist Masih Alinejad says she was targeted for abduction.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57830677</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57830677</guid>
+            <pubDate>Wed, 14 Jul 2021 04:02:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[HMS Queen Elizabeth: Covid outbreak on Navy flagship]]></title>
             <description><![CDATA[There have been around 100 cases on HMS Queen Elizabeth, the BBC has been told.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57830617</link>
@@ -93,13 +100,6 @@
             <pubDate>Tue, 13 Jul 2021 22:25:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Compulsory vaccinations for care home staff in England backed by MPs]]></title>
-            <description><![CDATA[But Conservative MPs criticise the government for not publishing an impact assessment before the vote.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57829135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57829135</guid>
-            <pubDate>Tue, 13 Jul 2021 20:23:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cuba: Man confirmed killed in anti-government unrest]]></title>
             <description><![CDATA[A man died in the unrest that began on Sunday, but witnesses deny official accounts of the incident.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57830160</link>
@@ -111,7 +111,7 @@
             <description><![CDATA[Wednesday's papers report on the fallout after three England players were subjected to racist abuse.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57829949</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57829949</guid>
-            <pubDate>Tue, 13 Jul 2021 23:06:24 GMT</pubDate>
+            <pubDate>Wed, 14 Jul 2021 04:23:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stalking incidents increase during pandemic]]></title>
