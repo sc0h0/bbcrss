@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jul 2021 14:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 15:21:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,14 +27,21 @@
             <description><![CDATA[Most Covid rules will be scrapped if coronavirus rates allow - but face mask laws will stay.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57823021</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57823021</guid>
-            <pubDate>Wed, 14 Jul 2021 14:51:56 GMT</pubDate>
+            <pubDate>Wed, 14 Jul 2021 15:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Medical staff 'distressed' at third wave]]></title>
+            <description><![CDATA[Hospitals in the north-east of England are facing a new surge of cases.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57836137</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57836137</guid>
+            <pubDate>Wed, 14 Jul 2021 15:07:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plan to end all NI Troubles prosecutions confirmed]]></title>
             <description><![CDATA[Boris Johnson says proposals to address past will allow people to "draw a line under the Troubles".]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57829037</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57829037</guid>
-            <pubDate>Wed, 14 Jul 2021 14:48:18 GMT</pubDate>
+            <pubDate>Wed, 14 Jul 2021 15:21:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EU unveils sweeping climate change plan]]></title>
@@ -51,25 +58,18 @@
             <pubDate>Wed, 14 Jul 2021 14:22:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Euro 2020: Man arrested over racist abuse of England players]]></title>
+            <description><![CDATA[Players including Marcus Rashford were targeted online after England lost the Euro 2020 final.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57833872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57833872</guid>
+            <pubDate>Wed, 14 Jul 2021 15:10:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[South Africa Zuma riots: Queues form in Durban due to shortages]]></title>
             <description><![CDATA[Some South Africans are clearing up as protests continue over the arrest of ex-President Jacob Zuma.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57834840</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57834840</guid>
             <pubDate>Wed, 14 Jul 2021 11:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Price rises speed up again as economy unlocks]]></title>
-            <description><![CDATA[The inflation rate hit 2.5% in June, exceeding the Bank of England's target for a second month.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57826826</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57826826</guid>
-            <pubDate>Wed, 14 Jul 2021 10:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Nissan boss Carlos Ghosn: How I escaped Japan in a box]]></title>
-            <description><![CDATA[The former boss of Nissan and Renault reveals how he evaded house arrest to flee to Lebanon.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57760993</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57760993</guid>
-            <pubDate>Tue, 13 Jul 2021 21:00:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Waterstones to encourage shoppers to wear masks in stores]]></title>
@@ -175,6 +175,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57825309</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57825309</guid>
             <pubDate>Tue, 13 Jul 2021 23:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Nissan boss Carlos Ghosn: How I escaped Japan in a box]]></title>
+            <description><![CDATA[The former boss of Nissan and Renault reveals how he evaded house arrest to flee to Lebanon.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57760993</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57760993</guid>
+            <pubDate>Tue, 13 Jul 2021 21:00:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How serious is the shortage of HGV drivers?]]></title>
