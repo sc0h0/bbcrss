@@ -6,10 +6,10 @@
 6. [Covid: Medical staff 'distressed' by third wave](https://www.bbc.co.uk/news/health-57836137) - Hospitals in the north-east of England are facing a new surge of cases.
 7. [Racism fuelling far-right threat in UK - MI5's Ken McCallum warns](https://www.bbc.co.uk/news/uk-57829261) - Teenagers are a growing part of the problem, with children as young as 13 drawn into extremism online.
 8. [Covid: Spain's top court rules lockdown unconstitutional](https://www.bbc.co.uk/news/world-europe-57838615) - People fined for breaking lockdown rules will now be able to reclaim their money, the top court says.
-9. [South Africa mother: Why I threw baby to strangers](https://www.bbc.co.uk/news/world-africa-57843685) - The building was allegedly set on fire by looters amid an eruption of riots across South Africa.
-10. [EU unveils sweeping climate change plan](https://www.bbc.co.uk/news/world-europe-57833807) - It proposes taxing jet fuel and effectively banning the sale of petrol cars within 20 years.
-11. [Brazil's Bolsonaro in hospital amid concern over chronic hiccups](https://www.bbc.co.uk/news/world-latin-america-57839717) - The Brazilian president is put under medical observation after reports of abdominal pains.
-12. [John Lewis and Waitrose plan to cut 1,000 jobs](https://www.bbc.co.uk/news/business-57837864) - John Lewis and Waitrose want to make the cuts as part of a shake-up of store management.
+9. [Online racists face football ban of up to 10 years, vows Boris Johnson](https://www.bbc.co.uk/news/uk-politics-57837003) - Social media giants will also face large fines for allowing "vile behaviour", the PM promises.
+10. [South Africa mother: Why I threw baby to strangers](https://www.bbc.co.uk/news/world-africa-57843685) - The building was allegedly set on fire by looters amid an eruption of riots across South Africa.
+11. [EU unveils sweeping climate change plan](https://www.bbc.co.uk/news/world-europe-57833807) - It proposes taxing jet fuel and effectively banning the sale of petrol cars within 20 years.
+12. [Brazil's Bolsonaro in hospital amid concern over chronic hiccups](https://www.bbc.co.uk/news/world-latin-america-57839717) - The Brazilian president is undergoing tests and may need emergency surgery in Sao Paolo.
 13. [Euro 2020: Man arrested over racist abuse of England players](https://www.bbc.co.uk/news/uk-england-manchester-57833872) - Players including Marcus Rashford were targeted online after England lost the Euro 2020 final.
 14. [Islamic State children in Syria face a lifetime in prison](https://www.bbc.co.uk/news/world-middle-east-57829441) - A BBC investigation found that children, whose parents supported IS, are caught in a conveyor belt of incarceration.
 15. [Gun resembling Lego toy sparks backlash in US](https://www.bbc.co.uk/news/world-us-canada-57832053) - A US company is told to stop producing a customised firearm covered in what looks like Lego.
