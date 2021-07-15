@@ -1,5 +1,5 @@
 1. [National Food Strategy: Tax sugar and salt and prescribe veg, report says](https://www.bbc.co.uk/news/uk-57838103) - Historic reforms of the food system are needed to protect the NHS and the environment, a review finds.
-2. [Germany floods: Six dead and dozens missing after heavy rain](https://www.bbc.co.uk/news/world-europe-57846200) - The head of the worst-hit state says the flooding is a "catastrophe" and many people are in danger.
+2. [Germany floods: At least 19 dead and dozens missing after record rain](https://www.bbc.co.uk/news/world-europe-57846200) - Dozens more are missing after some of the worst flooding in years struck the west of the country.
 3. [UK job vacancies climb past pre-pandemic levels](https://www.bbc.co.uk/news/business-57846381) - New figures show the number of vacancies is 77,500 higher compared to the beginning of last year.
 4. [Afghanistan: Reporting streets away from the Taliban in Kunduz province](https://www.bbc.co.uk/news/world-asia-57841719) - The BBC's Yogita Limaye travels to Afghanistan's Kunduz province, most of which has fallen to the Taliban.
 5. [Euro 2020: Four people arrested over racist abuse of England players](https://www.bbc.co.uk/news/uk-57848761) - Players who missed penalties were targeted online after the team lost the Euro 2020 final.
