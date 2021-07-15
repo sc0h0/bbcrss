@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jul 2021 00:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 02:02:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[National Food Strategy: Prescribe vegetables, tax sugar and salt, says report]]></title>
+            <description><![CDATA[Food entrepreneur Henry Dimbleby calls on England to "seize the moment" to build a better food system.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57838103</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57838103</guid>
+            <pubDate>Thu, 15 Jul 2021 01:57:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Medics fear surge in winter viruses plus Covid]]></title>
             <description><![CDATA[A potential triple whammy of viruses prompts calls for more testing to reduce spread this autumn.]]></description>
             <link>https://www.bbc.co.uk/news/health-57837192</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57837192</guid>
             <pubDate>Wed, 14 Jul 2021 23:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Ibiza, Majorca and Menorca moved to amber travel list]]></title>
-            <description><![CDATA[It means those who are not double-jabbed or under-18 will have to quarantine on their return.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57839184</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57839184</guid>
-            <pubDate>Wed, 14 Jul 2021 21:19:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid unlocking a ‘perfect storm’ for pregnant women]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Wed, 14 Jul 2021 19:04:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Medical staff 'distressed' by third wave]]></title>
-            <description><![CDATA[Hospitals in the north-east of England are facing a new surge of cases.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57836137</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57836137</guid>
-            <pubDate>Wed, 14 Jul 2021 15:07:14 GMT</pubDate>
+            <title><![CDATA[Covid-19: Ibiza, Majorca and Menorca moved to amber travel list]]></title>
+            <description><![CDATA[It means those who are not double-jabbed or under-18 will have to quarantine on their return.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57839184</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57839184</guid>
+            <pubDate>Wed, 14 Jul 2021 21:19:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mortgages refused for self-employed who took Covid grants]]></title>
