@@ -2,7 +2,7 @@
 2. [Afghanistan: Reporting streets away from the Taliban in Kunduz province](https://www.bbc.co.uk/news/world-asia-57841719) - The BBC's Yogita Limaye travels to Afghanistan's Kunduz province, most of which has fallen to the Taliban.
 3. [Dutch crime reporter de Vries dies from shooting](https://www.bbc.co.uk/news/world-europe-57853004) - Peter R de Vries, shot in Amsterdam, was famous for exposing criminal underworld bosses.
 4. [Levelling up: Boris Johnson promises more powers for local leaders](https://www.bbc.co.uk/news/uk-politics-57844084) - Boris Johnson promises more power for local leaders, but Labour says his speech was "gibberish".
-5. [Data-breach inquiry into leaked Matt Hancock CCTV images](https://www.bbc.co.uk/news/uk-politics-57853164) - CCTV images showed the former health secretary kissing an aide in his government office.
+5. [Homes raided in inquiry into Matt Hancock CCTV leak](https://www.bbc.co.uk/news/uk-politics-57853164) - Investigators want to know who obtained images of the ex-minister kissing an aide in his office.
 6. [Instagram admits moderation mistake over racist comments](https://www.bbc.co.uk/news/technology-57848106) - The social-media platform said its technology had been erroneously identifying the comments as benign.
 7. [Euro 2020: Five people arrested over racist abuse of England players](https://www.bbc.co.uk/news/uk-57848761) - Players who missed penalties were targeted online after the team lost the Euro 2020 final.
 8. [Sainsbury's and Tesco to encourage mask-wearing from Monday](https://www.bbc.co.uk/news/business-57839990) - The supermarkets will ask shoppers to keep the Covid measure even after the legal mandate is dropped.
