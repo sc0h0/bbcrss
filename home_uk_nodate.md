@@ -1,7 +1,7 @@
 1. [Germany floods: At least 20 dead and dozens missing after record rain](https://www.bbc.co.uk/news/world-europe-57846200) - Dozens more are missing after some of the worst flooding in years struck the west of the country.
 2. [National Food Strategy: Tax sugar and salt and prescribe veg, report says](https://www.bbc.co.uk/news/uk-57838103) - Boris Johnson says he will consider the proposal, but finds the idea of extra taxes on people unattractive.
 3. [Afghanistan: Reporting streets away from the Taliban in Kunduz province](https://www.bbc.co.uk/news/world-asia-57841719) - The BBC's Yogita Limaye travels to Afghanistan's Kunduz province, most of which has fallen to the Taliban.
-4. [Levelling up won't make rich areas poorer, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-57844084) - Boris Johnson insists increasing investment in deprived areas will be a "win-win" for the whole UK.
+4. [Levelling up: Boris Johnson promises more powers for local leaders](https://www.bbc.co.uk/news/uk-politics-57844084) - Boris Johnson promises more power for local leaders, but Labour says his speech was "gibberish".
 5. [Instagram admits moderation mistake over racist comments](https://www.bbc.co.uk/news/technology-57848106) - The social-media platform said its technology had been erroneously identifying the comments as benign.
 6. [Euro 2020: Four people arrested over racist abuse of England players](https://www.bbc.co.uk/news/uk-57848761) - Players who missed penalties were targeted online after the team lost the Euro 2020 final.
 7. [UK job vacancies climb past pre-pandemic levels](https://www.bbc.co.uk/news/business-57846381) - New figures show the number of vacancies is 77,500 higher compared to the beginning of last year.
@@ -15,7 +15,7 @@
 15. [Clippy returns - as an emoji](https://www.bbc.co.uk/news/technology-57849880) - Microsoft changes its paperclip emoji to look like its early virtual assistant, the object of much affection and frustration.
 16. [Menopause: Swansea MP calls for change on 'the change'](https://www.bbc.co.uk/news/uk-wales-57838624) - Campaigners want women to talk about the menopause and call for more training for GPs.
 17. [Czech women seek compensation for coerced sterilisations](https://www.bbc.co.uk/news/world-europe-57843624) - Thousands of women were sterilised without their consent in former Czechoslovakia in the 1970s and 1980s.
-18. [How isolating children are taking part in this end of year school play](https://www.bbc.co.uk/news/uk-57837434) - This Cheshire primary school's end-of-year play was in jeopardy after a child in Year 6 tested positive for Covid-19.
+18. [Covid: Isolating children miss the last week of primary school](https://www.bbc.co.uk/news/uk-57837434) - This Cheshire school's end-of-year play has gone ahead despite a child testing positive for Covid-19.
 19. [Covid: Bereaved Carmarthenshire survivor questions lockdown easing](https://www.bbc.co.uk/news/uk-wales-57838628) - Gwyn Tovey's wife Rita died just weeks after he caught the virus, which led to Long Covid.
 20. [South Africa mother: Why I threw baby to strangers](https://www.bbc.co.uk/news/world-africa-57843685) - The building was allegedly set on fire by looters amid an eruption of riots across South Africa.
 21. [PMQs: What did Boris Johnson say about the booing of England players?](https://www.bbc.co.uk/news/57837572) - Labour challenged the prime minister over his position on those who booed England when they "took the knee".
@@ -29,7 +29,7 @@
 29. [Tokyo 2020: Five reasons why the women's 100m will light up Olympics](https://www.bbc.co.uk/sport/olympics/57830148) - Five reasons why the women's 100m will be one of the standout events at the Tokyo Olympics.
 30. [Team GB football squad to take knee at Tokyo 2020](https://www.bbc.co.uk/sport/olympics/57846090) - The Great Britain women's football squad will take the knee at the Tokyo 2020 Olympic Games.
 31. [Tour de France 2021: Bahrain-Victorious have team hotel searched by police](https://www.bbc.co.uk/sport/cycling/57850494) - French police search the team hotel of Bahrain-Victorious after stage 17 of the Tour de France on Wednesday.
-32. [Tokyo Olympics: Max Whitlock v Liv Cooke in balance, speed & skill test - who wins?](https://www.bbc.co.uk/sport/av/olympics/57441926) - Olympic and world champion gymnast Max Whitlock takes on football freestyle world champion Liv Cooke in our Olympian versus series.
+32. [The Open 2021: Former champion Jordan Spieth hits four birdies in a row at Royal St George's](https://www.bbc.co.uk/sport/av/golf/57851952) - USA's Jordan Spieth starts strong with four birdies in a row on the first day of The Open in Kent.
 33. [Covid rules: Is lockdown ending on 19 July?](https://www.bbc.co.uk/news/explainers-52530518) - Wales is the latest UK nation to announce more relaxation of Covid restrictions.
 34. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - Fully jabbed adults in Scotland, England and Wales won't have to quarantine on return from amber-list countries from 19 July.
 35. [Covid-19: Five ways to avoid catching the virus indoors](https://www.bbc.co.uk/news/explainers-53917432) - As social distancing restrictions end in England and ease in Scotland, good ventilation remains vital.
