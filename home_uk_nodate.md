@@ -1,6 +1,6 @@
-1. [National Food Strategy: Tax sugar and salt and prescribe veg, report says](https://www.bbc.co.uk/news/uk-57838103) - A review led by Henry Dimbleby calls on England to "seize the moment" to build a better food system.
-2. [Medics fear surge in winter viruses plus Covid](https://www.bbc.co.uk/news/health-57837192) - A potential triple whammy of viruses prompts calls for more testing to reduce spread this autumn.
-3. [Covid unlocking a ‘perfect storm’ for pregnant women](https://www.bbc.co.uk/news/health-57840159) - Doctors and midwives warn Covid poses a greater risk to women in the later stages of pregnancy.
+1. [National Food Strategy: Tax sugar and salt and prescribe veg, report says](https://www.bbc.co.uk/news/uk-57838103) - Historic reforms of the food system are needed to protect the NHS and the environment, a review finds.
+2. [Medics fear surge in winter viruses alongside Covid](https://www.bbc.co.uk/news/health-57837192) - A potential triple whammy of viruses prompts calls for more testing to reduce spread this autumn.
+3. [Covid unlocking risk for pregnant women, say doctors](https://www.bbc.co.uk/news/health-57840159) - Doctors and midwives warn Covid poses a greater risk to women in the later stages of pregnancy.
 4. [MPs call for complete reset of music streaming to ensure fair pay for artists](https://www.bbc.co.uk/news/entertainment-arts-57838473) - The music industry is weighted against artists, who see "pitiful returns" from streaming, MPs say.
 5. [Britney Spears can hire own lawyer in conservatorship case, judge rules](https://www.bbc.co.uk/news/world-us-canada-57839526) - The decision comes as the pop star addresses a US court for the second time in less than a month.
 6. [Fleeing bombs and bullets in Afghanistan’s Kunduz province](https://www.bbc.co.uk/news/world-asia-57841719) - Yogita Limaye reports from Afghanistan's strategic Kunduz province, mainly now in Taliban hands.
