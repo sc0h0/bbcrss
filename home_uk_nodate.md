@@ -1,4 +1,4 @@
-1. [National Food Strategy: Prescribe vegetables, tax sugar and salt, says report](https://www.bbc.co.uk/news/uk-57838103) - Food entrepreneur Henry Dimbleby calls on England to "seize the moment" to build a better food system.
+1. [National Food Strategy: Prescribe vegetables, tax sugar and salt, says report](https://www.bbc.co.uk/news/uk-57838103) - A review led by Henry Dimbleby calls on England to "seize the moment" to build a better food system.
 2. [Medics fear surge in winter viruses plus Covid](https://www.bbc.co.uk/news/health-57837192) - A potential triple whammy of viruses prompts calls for more testing to reduce spread this autumn.
 3. [Covid unlocking a ‘perfect storm’ for pregnant women](https://www.bbc.co.uk/news/health-57840159) - Doctors and midwives warn Covid poses a greater risk to women in the later stages of pregnancy.
 4. [MPs call for 'complete reset' of music streaming to ensure fair pay for artists](https://www.bbc.co.uk/news/entertainment-arts-57838473) - The music industry is weighted against artists, who see "pitiful returns" from streaming, MPs say.
