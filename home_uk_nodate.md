@@ -1,6 +1,6 @@
 1. [National Food Strategy: Tax sugar and salt and prescribe veg, report says](https://www.bbc.co.uk/news/uk-57838103) - Historic reforms of the food system are needed to protect the NHS and the environment, a review finds.
 2. [UK job vacancies climb past pre-pandemic levels](https://www.bbc.co.uk/news/business-57846381) - New figures show the number of vacancies is 77,500 higher compared to the beginning of last year.
-3. [Germany floods: Six dead and dozens stranded after heavy rain](https://www.bbc.co.uk/news/world-europe-57846200) - Dozens of people are reported missing and others have been left stranded in the west of the country.
+3. [Germany floods: Six dead and dozens missing after heavy rain](https://www.bbc.co.uk/news/world-europe-57846200) - The head of the worst-hit state says the flooding is a "catastrophe" and many people are in danger.
 4. [Fleeing bombs and bullets in Afghanistan’s Kunduz province](https://www.bbc.co.uk/news/world-asia-57841719) - Yogita Limaye reports from Afghanistan's strategic Kunduz province, mainly now in Taliban hands.
 5. [Team GB football squad to take knee at Olympics](https://www.bbc.co.uk/sport/olympics/57846090) - The Great Britain women's football squad will take the knee at the Tokyo 2020 Olympic Games.
 6. [Covid-19: Tax salt and sugar, and fears over winter viruses and coronavirus](https://www.bbc.co.uk/news/uk-57842193) - Five things you need to know about the coronavirus pandemic this Thursday morning.
@@ -8,7 +8,7 @@
 8. [MPs call for complete reset of music streaming to ensure fair pay for artists](https://www.bbc.co.uk/news/entertainment-arts-57838473) - The music industry is weighted against artists, who see "pitiful returns" from streaming, MPs say.
 9. [Levelling up won't make rich areas poorer, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-57844084) - Boris Johnson insists increasing investment in deprived areas will be a "win-win" for the whole UK.
 10. [Covid unlocking risk for pregnant women, say doctors](https://www.bbc.co.uk/news/health-57840159) - Doctors and midwives warn Covid can pose a greater risk to women in the later stages of pregnancy.
-11. [Korindo: Korean palm oil giant stripped of sustainability status](https://www.bbc.co.uk/news/world-asia-57845156) - A BBC investigation found Korindo been buying up and burning swathes of Asia's largest rainforests.
+11. [Korindo: Korean palm oil giant stripped of sustainability status](https://www.bbc.co.uk/news/world-asia-57845156) - A BBC investigation found Korindo had been buying and burning swathes of Asia's largest rainforests.
 12. [Plans submitted for electric battery 'gigafactory' in Coventry](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57842375) - The plant at Coventry Airport could create 6,000 new jobs, those behind the plans say.
 13. [Sixth-form students use art to explore fake news](https://www.bbc.co.uk/news/in-pictures-57812031) - Sixth-formers from 58 colleges show their creative work in an online exhibition.
 14. [The Papers: 'Mask chaos' and UK set to 'sizzle' in heatwave](https://www.bbc.co.uk/news/blogs-the-papers-57844734) - Thursday's papers lead on everything from Covid and face coverings to healthy eating and heatwaves.
