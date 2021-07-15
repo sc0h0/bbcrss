@@ -1,4 +1,4 @@
-1. [Germany floods: At least 42 dead and dozens missing after record rain](https://www.bbc.co.uk/news/world-europe-57846200) - Dozens more are missing after some of the worst flooding in years struck the west of the country.
+1. [At least 42 killed and dozens missing after record rain in Western Europe](https://www.bbc.co.uk/news/world-europe-57846200) - Dozens more are missing after some of the worst flooding in years struck the west of the country.
 2. [National Food Strategy: New tax on sugar and salt unattractive, says PM](https://www.bbc.co.uk/news/uk-57852513) - Boris Johnson says he will consider the proposal as the food industry warns it could lead to price rises.
 3. [Afghanistan: Reporting streets away from the Taliban in Kunduz province](https://www.bbc.co.uk/news/world-asia-57841719) - The BBC's Yogita Limaye travels to Afghanistan's Kunduz province, most of which has fallen to the Taliban.
 4. [Dutch crime reporter de Vries dies from shooting](https://www.bbc.co.uk/news/world-europe-57853004) - Peter R de Vries, shot in Amsterdam, was famous for exposing criminal underworld bosses.
