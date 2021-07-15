@@ -1,10 +1,10 @@
 1. [National Food Strategy: Tax sugar and salt and prescribe veg, report says](https://www.bbc.co.uk/news/uk-57838103) - Historic reforms of the food system are needed to protect the NHS and the environment, a review finds.
 2. [UK job vacancies climb past pre-pandemic levels](https://www.bbc.co.uk/news/business-57846381) - New figures show the number of vacancies is 77,500 higher compared to the beginning of last year.
-3. [Medics fear surge in winter viruses alongside Covid](https://www.bbc.co.uk/news/health-57837192) - A potential triple whammy of viruses prompts calls for more testing to reduce spread this autumn.
+3. [Germany floods: Six dead and dozens stranded after heavy rain](https://www.bbc.co.uk/news/world-europe-57846200) - Dozens of people are reported missing and others have been left stranded in the west of the country.
 4. [Fleeing bombs and bullets in Afghanistan’s Kunduz province](https://www.bbc.co.uk/news/world-asia-57841719) - Yogita Limaye reports from Afghanistan's strategic Kunduz province, mainly now in Taliban hands.
-5. [Covid-19: Tax salt and sugar, and fears over winter viruses and coronavirus](https://www.bbc.co.uk/news/uk-57842193) - Five things you need to know about the coronavirus pandemic this Thursday morning.
-6. [Germany floods: Four dead and dozens stranded after heavy rain](https://www.bbc.co.uk/news/world-europe-57846200) - Dozens of people are reported missing and others have been left stranded in the west of the country.
-7. [Team GB: Women's football team to take the knee at Tokyo 2020](https://www.bbc.co.uk/sport/olympics/57846090) - The Great Britain women's football squad will take the knee at the Tokyo 2020 Olympic Games.
+5. [Team GB football squad to take knee at Olympics](https://www.bbc.co.uk/sport/olympics/57846090) - The Great Britain women's football squad will take the knee at the Tokyo 2020 Olympic Games.
+6. [Covid-19: Tax salt and sugar, and fears over winter viruses and coronavirus](https://www.bbc.co.uk/news/uk-57842193) - Five things you need to know about the coronavirus pandemic this Thursday morning.
+7. [Medics fear surge in winter viruses alongside Covid](https://www.bbc.co.uk/news/health-57837192) - A potential triple whammy of viruses prompts calls for more testing to reduce spread this autumn.
 8. [MPs call for complete reset of music streaming to ensure fair pay for artists](https://www.bbc.co.uk/news/entertainment-arts-57838473) - The music industry is weighted against artists, who see "pitiful returns" from streaming, MPs say.
 9. [Levelling up won't make rich areas poorer, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-57844084) - Boris Johnson insists increasing investment in deprived areas will be a "win-win" for the whole UK.
 10. [Covid unlocking risk for pregnant women, say doctors](https://www.bbc.co.uk/news/health-57840159) - Doctors and midwives warn Covid can pose a greater risk to women in the later stages of pregnancy.
