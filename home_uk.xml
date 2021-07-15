@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jul 2021 13:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 13:44:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,25 @@
             <pubDate>Wed, 14 Jul 2021 23:01:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dutch crime reporter de Vries dies from shooting]]></title>
+            <description><![CDATA[Peter R de Vries, shot in Amsterdam, was famous for exposing criminal underworld bosses.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57853004</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57853004</guid>
+            <pubDate>Thu, 15 Jul 2021 13:19:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Levelling up: Boris Johnson promises more powers for local leaders]]></title>
             <description><![CDATA[Boris Johnson promises more power for local leaders, but Labour says his speech was "gibberish".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57844084</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57844084</guid>
-            <pubDate>Thu, 15 Jul 2021 11:58:40 GMT</pubDate>
+            <pubDate>Thu, 15 Jul 2021 13:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Data-breach inquiry into leaked Matt Hancock CCTV images]]></title>
+            <description><![CDATA[CCTV images showed the former health secretary kissing an aide in his government office.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57853164</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57853164</guid>
+            <pubDate>Thu, 15 Jul 2021 13:28:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Instagram admits moderation mistake over racist comments]]></title>
@@ -58,18 +72,11 @@
             <pubDate>Thu, 15 Jul 2021 12:48:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK job vacancies climb past pre-pandemic levels]]></title>
-            <description><![CDATA[New figures show the number of vacancies is 77,500 higher compared to the beginning of last year.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57846381</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57846381</guid>
-            <pubDate>Thu, 15 Jul 2021 10:29:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sainsbury's and Tesco to encourage mask-wearing from Monday]]></title>
             <description><![CDATA[The supermarkets will ask shoppers to keep the Covid measure even after the legal mandate is dropped.]]></description>
             <link>https://www.bbc.co.uk/news/business-57839990</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57839990</guid>
-            <pubDate>Thu, 15 Jul 2021 12:29:46 GMT</pubDate>
+            <pubDate>Thu, 15 Jul 2021 13:42:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nissan and Rolls-Royce hit as staff forced to isolate]]></title>
@@ -79,25 +86,18 @@
             <pubDate>Thu, 15 Jul 2021 13:03:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MPs call for complete reset of music streaming to ensure fair pay for artists]]></title>
-            <description><![CDATA[The music industry is weighted against artists, who see "pitiful returns" from streaming, MPs say.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57838473</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57838473</guid>
-            <pubDate>Wed, 14 Jul 2021 23:42:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Korindo: Korean palm oil giant stripped of sustainability status]]></title>
-            <description><![CDATA[A BBC investigation found Korindo had been buying and burning swathes of Asia's largest rainforests.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57845156</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57845156</guid>
-            <pubDate>Thu, 15 Jul 2021 02:14:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Britney Spears wants to press charges against father over 'conservatorship abuse']]></title>
-            <description><![CDATA[The pop star tells a US court "I'm angry", as a US judge rules she can now hire her own lawyer.]]></description>
+            <description><![CDATA[The pop star tells a US court "I'm angry", as a judge rules she can now hire her own lawyer.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57839526</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57839526</guid>
             <pubDate>Thu, 15 Jul 2021 10:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Organ donation: Parents proud daughter's death saved three lives]]></title>
+            <description><![CDATA[The family of Claudia-Rose Moor say her legacy is giving three people their lives.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-57837993</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57837993</guid>
+            <pubDate>Thu, 15 Jul 2021 05:51:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sixth-form students use art to explore fake news]]></title>
@@ -205,18 +205,18 @@
             <pubDate>Thu, 15 Jul 2021 00:13:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lions players 'bullish' about Test series despite first defeat - is it false-confidence?]]></title>
-            <description><![CDATA[British and Irish Lions head coach Warren Gatland says his players are in "bullish" mood, but is it false confidence?]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57844708</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57844708</guid>
-            <pubDate>Wed, 14 Jul 2021 22:21:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Team GB football squad to take knee at Tokyo 2020]]></title>
             <description><![CDATA[The Great Britain women's football squad will take the knee at the Tokyo 2020 Olympic Games.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57846090</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57846090</guid>
             <pubDate>Thu, 15 Jul 2021 09:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British and Irish Lions: Robbie Henshaw & Marcus Smith start in Lions warm-up]]></title>
+            <description><![CDATA[Ireland's Robbie Henshaw returns from injury, debut for Marcus Smith and Wales captain Alun Wyn Jones is on the bench for the British and Irish Lions' match with the Stormers]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57848768</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57848768</guid>
+            <pubDate>Thu, 15 Jul 2021 12:01:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Open 2021: Former champion Jordan Spieth hits four birdies in a row at Royal St George's]]></title>
