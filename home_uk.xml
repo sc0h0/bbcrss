@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jul 2021 16:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 17:03:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: More than 500,000 app pings in a single week]]></title>
+            <description><![CDATA[Alerts asking people in England and Wales to isolate for 10 days are causing concern among businesses.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57854999</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57854999</guid>
+            <pubDate>Thu, 15 Jul 2021 16:30:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[National Food Strategy: New tax on sugar and salt unattractive, says PM]]></title>
             <description><![CDATA[Boris Johnson says he will consider the proposal as the food industry warns it could lead to price rises.]]></description>
@@ -35,6 +42,13 @@
             <link>https://www.bbc.co.uk/sport/football/57855251</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57855251</guid>
             <pubDate>Thu, 15 Jul 2021 16:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: 500,000 app pings in a week and supermarkets to encourage mask wearing]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57852683</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57852683</guid>
+            <pubDate>Thu, 15 Jul 2021 16:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peter R de Vries: Dutch crime reporter dies after shooting]]></title>
@@ -76,7 +90,7 @@
             <description><![CDATA[Video footage shows what one eyewitness described as "like a scene from Grand Theft Auto".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57849890</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57849890</guid>
-            <pubDate>Thu, 15 Jul 2021 16:02:37 GMT</pubDate>
+            <pubDate>Thu, 15 Jul 2021 16:50:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ruth Madeley: Actress says taxi driver took her wheelchair away]]></title>
@@ -84,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57838553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57838553</guid>
             <pubDate>Thu, 15 Jul 2021 15:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears wants to press charges against father over 'conservatorship abuse']]></title>
-            <description><![CDATA[The pop star tells a US court "I'm angry", as a judge rules she can now hire her own lawyer.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57839526</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57839526</guid>
-            <pubDate>Thu, 15 Jul 2021 10:00:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In pictures: Deadly floods hit Germany and Belgium]]></title>
@@ -216,28 +223,21 @@
             <description><![CDATA[Tyson Fury's third world heavyweight title fight against Deontay Wilder is rescheduled for 9 October.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/57856232</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57856232</guid>
-            <pubDate>Thu, 15 Jul 2021 16:21:02 GMT</pubDate>
+            <pubDate>Thu, 15 Jul 2021 16:42:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tour de France: Tadej Pogacar holds on to yellow after stage 18 win]]></title>
-            <description><![CDATA[Slovenia's Tadej Pogacar remains in the leaders' yellow jersey of the Tour de France after victory on stage 18.]]></description>
+            <description><![CDATA[Slovenia's Tadej Pogacar claims back-to-back Tour de France stage wins to underline his dominance in the leader's yellow jersey.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/57855533</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57855533</guid>
-            <pubDate>Thu, 15 Jul 2021 15:40:40 GMT</pubDate>
+            <pubDate>Thu, 15 Jul 2021 16:38:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro 2020: Five people arrested over racist abuse of England players]]></title>
-            <description><![CDATA[Players who missed penalties were targeted online after the team lost the Euro 2020 final.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57848761</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57848761</guid>
-            <pubDate>Thu, 15 Jul 2021 12:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Team GB football squad to take knee at Tokyo 2020]]></title>
-            <description><![CDATA[Demi Stokes says the Team GB women's football squad "feel strongly" about their decision to take the knee before games at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57846090</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57846090</guid>
-            <pubDate>Thu, 15 Jul 2021 14:15:15 GMT</pubDate>
+            <title><![CDATA[British Grand Prix: Lewis Hamilton admits it will be 'tall order' to win 2021 title]]></title>
+            <description><![CDATA[Lewis Hamilton says winning an eighth Formula 1 world drivers' title this year will be a "tall order".]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57856947</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57856947</guid>
+            <pubDate>Thu, 15 Jul 2021 16:42:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Open 2021: Brandt Snedeker almost gets a hole-in-one at the 16th and then hits an eagle on 17th]]></title>
@@ -252,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/57441926</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57441926</guid>
             <pubDate>Thu, 15 Jul 2021 05:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: The Making of Laura Kenny: Gold medals, severe injuries & becoming a mum]]></title>
+            <description><![CDATA[Four-time Olympic champion Laura Kenny looks back on the key moments that have shaped her journey to become Great Britain's most successful Olympic female competitor.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57839204</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57839204</guid>
+            <pubDate>Thu, 15 Jul 2021 08:38:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What's changing when restrictions end on 19 July?]]></title>
