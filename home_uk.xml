@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jul 2021 06:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jul 2021 06:36:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,10 +31,24 @@
         </item>
         <item>
             <title><![CDATA[Covid unlocking risk for pregnant women, say doctors]]></title>
-            <description><![CDATA[Doctors and midwives warn Covid poses a greater risk to women in the later stages of pregnancy.]]></description>
+            <description><![CDATA[Doctors and midwives warn Covid can pose a greater risk to women in the later stages of pregnancy.]]></description>
             <link>https://www.bbc.co.uk/news/health-57840159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57840159</guid>
             <pubDate>Wed, 14 Jul 2021 23:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK job vacancies climb past pre-pandemic levels]]></title>
+            <description><![CDATA[New figures show the number of vacancies is 77,500 higher compared to the beginning of last year.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57846381</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57846381</guid>
+            <pubDate>Thu, 15 Jul 2021 06:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fleeing bombs and bullets in Afghanistan’s Kunduz province]]></title>
+            <description><![CDATA[Yogita Limaye reports from Afghanistan's strategic Kunduz province, mainly now in Taliban hands.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57841719</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57841719</guid>
+            <pubDate>Wed, 14 Jul 2021 23:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MPs call for complete reset of music streaming to ensure fair pay for artists]]></title>
@@ -51,32 +65,11 @@
             <pubDate>Thu, 15 Jul 2021 03:22:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fleeing bombs and bullets in Afghanistan’s Kunduz province]]></title>
-            <description><![CDATA[Yogita Limaye reports from Afghanistan's strategic Kunduz province, mainly now in Taliban hands.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57841719</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57841719</guid>
-            <pubDate>Wed, 14 Jul 2021 23:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FBI failed to investigate USA Gymnastics abuser, watchdog finds]]></title>
-            <description><![CDATA[While agents dragged their feet, the report found, Larry Nassar continued to prey on gymnasts.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57844784</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57844784</guid>
-            <pubDate>Thu, 15 Jul 2021 03:17:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Levelling up won't make rich areas poorer, says Boris Johnson]]></title>
             <description><![CDATA[Boris Johnson promises increasing investment in deprived areas will be a "win-win" for the whole UK.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57844084</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57844084</guid>
             <pubDate>Wed, 14 Jul 2021 21:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Ibiza, Majorca and Menorca moved to amber travel list]]></title>
-            <description><![CDATA[It means those who are not double-jabbed or under-18 will have to quarantine on their return.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57839184</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57839184</guid>
-            <pubDate>Wed, 14 Jul 2021 21:19:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Korindo: Korean palm oil giant stripped of sustainability status]]></title>
@@ -238,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/57843920</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57843920</guid>
             <pubDate>Wed, 14 Jul 2021 22:43:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Max Whitlock v Liv Cooke in balance, speed & skill test - who wins?]]></title>
+            <description><![CDATA[Olympic and world champion gymnast Max Whitlock takes on football freestyle world champion Liv Cooke in our Olympian versus series.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57441926</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57441926</guid>
+            <pubDate>Thu, 15 Jul 2021 05:12:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: Is lockdown ending on 19 July?]]></title>
