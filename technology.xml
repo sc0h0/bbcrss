@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Technology]]></title>
+        <description><![CDATA[BBC News - Technology]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Technology</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 16 Jul 2021 19:15:04 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[AI narration of chef Anthony Bourdain's voice sparks row]]></title>
+            <description><![CDATA[A recreation of the late celebrity cook's voice is used in a film about his life.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57842514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57842514</guid>
+            <pubDate>Fri, 16 Jul 2021 13:33:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valve reveals handheld Steam Deck PC games console]]></title>
+            <description><![CDATA[Gaming giant Valve has produced a handheld console that can play popular PC games.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57862944</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57862944</guid>
+            <pubDate>Fri, 16 Jul 2021 12:24:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding 'Grace': Murder, DNA and ancestry]]></title>
+            <description><![CDATA[How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57801794</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57801794</guid>
+            <pubDate>Fri, 16 Jul 2021 00:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clippy returns - as an emoji]]></title>
+            <description><![CDATA[Microsoft changes its paperclip emoji to look like its early virtual assistant, the object of much affection and frustration.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57849880</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57849880</guid>
+            <pubDate>Thu, 15 Jul 2021 11:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instagram admits moderation mistake over racist comments]]></title>
+            <description><![CDATA[The social-media platform said its technology had been erroneously identifying the comments as benign.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57848106</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57848106</guid>
+            <pubDate>Thu, 15 Jul 2021 16:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WhatsApp to let users message without their phones]]></title>
+            <description><![CDATA[For the first time, billions of people will be able to use the service even if their phone has no battery.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57849883</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57849883</guid>
+            <pubDate>Thu, 15 Jul 2021 15:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cambridge data shows Bitcoin mining on the move]]></title>
+            <description><![CDATA[New analysis shows crypto-mining moving away from China, while Kazakhstan boomed.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57811959</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57811959</guid>
+            <pubDate>Thu, 15 Jul 2021 07:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plans submitted for electric battery 'gigafactory' in Coventry]]></title>
+            <description><![CDATA[The plant at Coventry Airport could create 6,000 new jobs, those behind the plans say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57842375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57842375</guid>
+            <pubDate>Thu, 15 Jul 2021 05:16:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MPs call for complete reset of music streaming to ensure fair pay for artists]]></title>
+            <description><![CDATA[The music industry is weighted against artists, who see "pitiful returns" from streaming, MPs say.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57838473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57838473</guid>
+            <pubDate>Wed, 14 Jul 2021 23:42:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS Covid app: Should it stay or should it go?]]></title>
+            <description><![CDATA[There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57836325</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57836325</guid>
+            <pubDate>Wed, 14 Jul 2021 12:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft announces Windows 365, a subscription cloud PC]]></title>
+            <description><![CDATA[Microsoft has announced a new cloud PC technology where users stream their PC to any device.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57836326</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57836326</guid>
+            <pubDate>Wed, 14 Jul 2021 17:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robot helps people get dressed and other tech news]]></title>
+            <description><![CDATA[Romana Kreider looks at some of the best technology news stories of the week.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57862434</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57862434</guid>
+            <pubDate>Fri, 16 Jul 2021 11:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Duran Duran’s Invisible: 'Thrilled' with AI collaboration]]></title>
+            <description><![CDATA[Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57737384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57737384</guid>
+            <pubDate>Wed, 14 Jul 2021 09:31:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How MetaHuman Creator helped me create ‘Dana’]]></title>
+            <description><![CDATA[Realistic digital humans can be produced rapidly with the new software, Epic Games says.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57569224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57569224</guid>
+            <pubDate>Tue, 13 Jul 2021 09:41:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google boss Sundar Pichai on tax and his personal tech habits]]></title>
+            <description><![CDATA[Google boss Sundar Pichai defends company record on tax – and explains his personal tech habits.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57777638</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57777638</guid>
+            <pubDate>Sun, 11 Jul 2021 23:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quadriplegic driver makes Goodwood Festival racing debut]]></title>
+            <description><![CDATA[Former IndyCar driver Sam Schmidt was paralysed from the shoulders down in a racing accident in 2000.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57768915</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57768915</guid>
+            <pubDate>Thu, 08 Jul 2021 23:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How your personal data is being scraped from social media]]></title>
+            <description><![CDATA[As hackers scoop up data from social media sites, should firms be taking better care of your data?]]></description>
+            <link>https://www.bbc.co.uk/news/business-57841239</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57841239</guid>
+            <pubDate>Thu, 15 Jul 2021 23:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should we trust big tech with our health data?]]></title>
+            <description><![CDATA[Our medical records are in demand by tech firms who want to use the data to help tackle illnesses.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57817804</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57817804</guid>
+            <pubDate>Wed, 14 Jul 2021 23:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How your driving might reveal early signs of Alzheimer's]]></title>
+            <description><![CDATA[Research shows how small changes in the way you drive could expose preclinical signs of disease.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57670006</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57670006</guid>
+            <pubDate>Mon, 12 Jul 2021 23:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voice cloning of growing interest to actors and cybercriminals]]></title>
+            <description><![CDATA[Why voice cloning is not just a threat to actors but could benefit cybercriminals too.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57761873</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57761873</guid>
+            <pubDate>Sun, 11 Jul 2021 23:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How did my phone number end up for sale on a US database?]]></title>
+            <description><![CDATA[A journey of discovery into the somewhat opaque, if lucrative, world of contact selling]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57443597</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57443597</guid>
+            <pubDate>Sat, 10 Jul 2021 23:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tired of working from home? Put the office on wheels]]></title>
+            <description><![CDATA[How digital nomads get state-of-the-art connectivity while working on the road]]></description>
+            <link>https://www.bbc.co.uk/news/business-57649618</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57649618</guid>
+            <pubDate>Thu, 08 Jul 2021 23:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How de-cluttering grew Facebook Marketplace to 1bn users]]></title>
+            <description><![CDATA[As Covid shut charity shops thrifty second-hand traders shifted online to bag a bargain, in droves.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57733724</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57733724</guid>
+            <pubDate>Wed, 07 Jul 2021 23:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are Chinese tech brands flocking to Euro 2020?]]></title>
+            <description><![CDATA[Four big Chinese firms have signed up to sponsor the European football tournament this year.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57697509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57697509</guid>
+            <pubDate>Fri, 02 Jul 2021 23:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get a lucrative job in cybersecurity]]></title>
+            <description><![CDATA[There's a serious shortage of IT security workers, so recruiters are fishing in a bigger pool.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57663096</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57663096</guid>
+            <pubDate>Mon, 05 Jul 2021 23:11:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
