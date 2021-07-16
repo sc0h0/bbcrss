@@ -1,4 +1,4 @@
-1. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - Double-vaccinated travellers returning to England from France will still have to quarantine for 10 days from Monday
+1. [Covid: Fully jabbed UK arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of rules will not apply due to cases of the Beta variant, the government says.
 2. [Covid: UK daily cases pass 50,000 for first time since January](https://www.bbc.co.uk/news/uk-57867990) - It comes after England's chief medical officer warned hospitalisations could hit "scary numbers".
 3. [Europe floods: At least 120 dead and hundreds unaccounted for](https://www.bbc.co.uk/news/world-europe-57858829) - As many as 1,300 people are still unaccounted for after the worst flooding in decades.
 4. [Sarah Everard murder: Met Police sacks Wayne Couzens](https://www.bbc.co.uk/news/uk-england-london-57869528) - The disciplinary process for Wayne Couzens was held as soon as possible, the Met Police says.
