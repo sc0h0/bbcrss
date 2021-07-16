@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jul 2021 11:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 11:37:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Fri, 16 Jul 2021 11:22:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Younger adults still at risk of serious organ damage - study]]></title>
-            <description><![CDATA[Adults below the age of 50 are almost as likely to suffer from medical complications as the over-50s.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57840825</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57840825</guid>
-            <pubDate>Thu, 15 Jul 2021 23:01:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Church of England criticised over suicide of falsely accused priest]]></title>
             <description><![CDATA[Alan Griffin took his own life having spent a year under investigation over baseless allegations.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57780729</link>
@@ -51,6 +44,13 @@
             <pubDate>Fri, 16 Jul 2021 02:02:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid hospital numbers could get scary - Prof Chris Whitty]]></title>
+            <description><![CDATA[It comes as the UK recorded almost 50,000 new cases on Thursday - the highest number since January.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57858864</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57858864</guid>
+            <pubDate>Fri, 16 Jul 2021 11:16:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Durham A1 crash: Motorway to stay closed as police fear deaths]]></title>
             <description><![CDATA[People are feared dead after a lorry caught fire and cars crashed in County Durham on Thursday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tyne-57860919</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-57857993</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57857993</guid>
             <pubDate>Fri, 16 Jul 2021 05:42:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colum Eastwood: MP reveals death threats after naming Soldier F]]></title>
+            <description><![CDATA[Colum Eastwood named the former paratrooper, accused of two Bloody Sunday murders, in Parliament.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57863054</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57863054</guid>
+            <pubDate>Fri, 16 Jul 2021 10:42:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marcus Rashford mural graffiti 'not racial', say police]]></title>
@@ -198,7 +205,7 @@
             <pubDate>Fri, 16 Jul 2021 08:54:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How are England shaping up for the 2022 World Cup in Qatar?]]></title>
+            <title><![CDATA[How are England shaping up for 2022 World Cup in Qatar?]]></title>
             <description><![CDATA[Euro 2020 ended in disappointment for England, but another shot at major tournament success is just 16 months away.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57820088</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57820088</guid>
