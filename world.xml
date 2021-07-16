@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jul 2021 23:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 23:32:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,20 @@
             <pubDate>Fri, 16 Jul 2021 23:00:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Week in pictures: 10 - 16 July 2021]]></title>
+            <description><![CDATA[A selection of powerful images taken around the world this week.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-57853779</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57853779</guid>
+            <pubDate>Fri, 16 Jul 2021 23:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins on… the North America heat waves]]></title>
+            <description><![CDATA[Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57868135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57868135</guid>
+            <pubDate>Fri, 16 Jul 2021 23:00:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dying alone in Indonesia's grim battle with Covid-19]]></title>
             <description><![CDATA[Firefighters haul bodies from homes as hospitals scramble for oxygen in Asia's new Covid epicentre.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57830770</link>
@@ -135,20 +149,6 @@
             <pubDate>Thu, 15 Jul 2021 23:25:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Africa's week in pictures: 9-15 July 2021]]></title>
-            <description><![CDATA[A selection of the week's best photos from across the continent and beyond.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57850243</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57850243</guid>
-            <pubDate>Thu, 15 Jul 2021 23:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How your personal data is being scraped from social media]]></title>
-            <description><![CDATA[As hackers scoop up data from social media sites, should firms be taking better care of your data?]]></description>
-            <link>https://www.bbc.co.uk/news/business-57841239</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57841239</guid>
-            <pubDate>Thu, 15 Jul 2021 23:05:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Europe floods: Drone footage shows mudslides in western Germany]]></title>
             <description><![CDATA[Houses have collapsed in the town of Erfstadt-Blessem following record rainfall.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57860249</link>
@@ -163,13 +163,6 @@
             <pubDate>Fri, 16 Jul 2021 08:37:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ros Atkins on… the North America heat waves]]></title>
-            <description><![CDATA[Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57868135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57868135</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo 2020: The gymnasts 'building bridges between cultures']]></title>
             <description><![CDATA[The town of Murayama in northern Japan is preparing to welcome a team of Bulgarian Olympians.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57839224</link>
@@ -182,6 +175,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57827931</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57827931</guid>
             <pubDate>Thu, 15 Jul 2021 23:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa riots: The community standing up to looters]]></title>
+            <description><![CDATA[The government has said it will deploy 25,000 troops, but some residents are already taking action.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57857690</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57857690</guid>
+            <pubDate>Thu, 15 Jul 2021 22:04:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Germany floods: Where are the worst-hit areas?]]></title>

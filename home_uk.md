@@ -1,4 +1,4 @@
-1. [Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - Fri, 16 Jul 2021 21:53:10 GMT - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
+1. [Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - Fri, 16 Jul 2021 23:35:54 GMT - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
 2. [Covid: UK daily cases pass 50,000 for first time since January](https://www.bbc.co.uk/news/uk-57867990) - Fri, 16 Jul 2021 19:14:40 GMT - It comes after England's chief medical officer warned hospitalisations could hit "scary numbers".
 3. [Europe floods: At least 120 dead and hundreds unaccounted for](https://www.bbc.co.uk/news/world-europe-57858829) - Fri, 16 Jul 2021 15:20:15 GMT - As many as 1,300 people are still unaccounted for after the worst flooding in decades.
 4. [US wants giant radar in UK to track space objects](https://www.bbc.co.uk/news/uk-57866734) - Fri, 16 Jul 2021 21:08:52 GMT - It comes amid growing concern about congestion, competition and even an arms race in space.
