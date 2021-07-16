@@ -7,10 +7,10 @@
 7. [Durham A1 motorway crash: Police report fatalities](https://www.bbc.co.uk/news/uk-england-tyne-57857358) - People are believed to have died after two lorries and several cars crashed on the A1 (M), police say.
 8. [Covid patient’s own blood cells could treat lung scarring](https://www.bbc.co.uk/news/uk-57837432) - A therapy made from a patient’s white blood cells is being trialled by doctors in London.
 9. [Small shops face £1.7bn debt mountain, says report](https://www.bbc.co.uk/news/business-57855682) - The warning is in the latest report on the future of High Streets by former retail chief Bill Grimsey.
-10. [Covid: Al fresco dining to become a High Street fixture in England](https://www.bbc.co.uk/news/business-57855683) - Pavement licences are to be extended and takeaway pints will continue for another year to help the sector.
-11. [Goldman Sachs to require staff to wear masks from Monday](https://www.bbc.co.uk/news/business-57855681) - The banking giant hopes 70% of UK staff will return to its London office in the coming weeks.
-12. [Heat-health alert issued in England for weekend](https://www.bbc.co.uk/news/uk-57858950) - Public Heath England wants people to look out for those who may be at risk in warmer weather.
-13. [Entire whisky distillery ships out to China](https://www.bbc.co.uk/news/uk-scotland-scotland-business-57825081) - More than 35 tonnes of production equipment is leaving Scotland for the port of Tianjin under a £3m deal.
+10. [Goldman Sachs to require staff to wear masks from Monday](https://www.bbc.co.uk/news/business-57855681) - The banking giant hopes 70% of UK staff will return to its London office in the coming weeks.
+11. [Heat-health alert issued in England for weekend](https://www.bbc.co.uk/news/uk-57858950) - Public Heath England wants people to look out for those who may be at risk in warmer weather.
+12. [Covid: Al fresco dining to become a High Street fixture in England](https://www.bbc.co.uk/news/business-57855683) - Pavement licences are to be extended and takeaway pints will continue for another year to help the sector.
+13. [Public urged to count butterflies after year of bad weather](https://www.bbc.co.uk/news/uk-57859345) - TV naturalist Chris Packham said the count could reveal the impact of climate change on wildlife.
 14. [The Papers: Britain's 'pingdemic paralysis' amid record alerts](https://www.bbc.co.uk/news/blogs-the-papers-57858393) - Many papers react to the news that the NHS Covid app sent more than half a million alerts in a week.
 15. [In pictures: Floods kill dozens in Germany and Belgium](https://www.bbc.co.uk/news/world-europe-57858826) - Record rainfall caused rivers to burst their banks, leaving at least 70 dead in Germany and Belgium.
 16. [Cbeebies bedtime stories and why Hollywood stars are lining up](https://www.bbc.co.uk/news/entertainment-arts-57827931) - Other stars to have taken part include Tom Hardy, Dolly Parton and Sir Elton John.

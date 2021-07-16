@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jul 2021 03:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 04:04:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,13 +79,6 @@
             <pubDate>Thu, 15 Jul 2021 23:00:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Al fresco dining to become a High Street fixture in England]]></title>
-            <description><![CDATA[Pavement licences are to be extended and takeaway pints will continue for another year to help the sector.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57855683</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57855683</guid>
-            <pubDate>Thu, 15 Jul 2021 23:00:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Goldman Sachs to require staff to wear masks from Monday]]></title>
             <description><![CDATA[The banking giant hopes 70% of UK staff will return to its London office in the coming weeks.]]></description>
             <link>https://www.bbc.co.uk/news/business-57855681</link>
@@ -100,11 +93,18 @@
             <pubDate>Fri, 16 Jul 2021 02:02:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Entire whisky distillery ships out to China]]></title>
-            <description><![CDATA[More than 35 tonnes of production equipment is leaving Scotland for the port of Tianjin under a £3m deal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-57825081</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-57825081</guid>
-            <pubDate>Thu, 15 Jul 2021 21:49:55 GMT</pubDate>
+            <title><![CDATA[Covid: Al fresco dining to become a High Street fixture in England]]></title>
+            <description><![CDATA[Pavement licences are to be extended and takeaway pints will continue for another year to help the sector.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57855683</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57855683</guid>
+            <pubDate>Thu, 15 Jul 2021 23:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Public urged to count butterflies after year of bad weather]]></title>
+            <description><![CDATA[TV naturalist Chris Packham said the count could reveal the impact of climate change on wildlife.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57859345</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57859345</guid>
+            <pubDate>Fri, 16 Jul 2021 03:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Britain's 'pingdemic paralysis' amid record alerts]]></title>
