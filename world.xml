@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 16 Jul 2021 18:09:18 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Europe floods: At least 120 dead and hundreds unaccounted for]]></title>
+            <description><![CDATA[As many as 1,300 people are still unaccounted for after the worst flooding in decades.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57858829</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57858829</guid>
+            <pubDate>Fri, 16 Jul 2021 15:20:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa riots over Zuma jailing pre-planned - Cyril Ramaphosa]]></title>
+            <description><![CDATA[At least 212 people are now known to have died in unrest sparked by the jailing of Jacob Zuma.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57863558</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57863558</guid>
+            <pubDate>Fri, 16 Jul 2021 17:10:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pulitzer-winning journalist killed in Afghanistan]]></title>
+            <description><![CDATA[Danish Siddiqui, a photographer with Reuters, is killed on assignment, reportedly in an ambush.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57859652</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57859652</guid>
+            <pubDate>Fri, 16 Jul 2021 08:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biden and Merkel 'united against Russia aggression']]></title>
+            <description><![CDATA["Good friends can disagree," Mr Biden says of their dispute over a Russia-to-Germany pipeline.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57854625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57854625</guid>
+            <pubDate>Thu, 15 Jul 2021 23:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Navy: First woman passes elite training scheme]]></title>
+            <description><![CDATA[The gruelling military training programme ends with a 72-hour event called the Tour.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57865913</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57865913</guid>
+            <pubDate>Fri, 16 Jul 2021 15:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WhatsApp blocks two million Indian accounts]]></title>
+            <description><![CDATA[The messaging platform said most of these users violated the bulk messaging rules.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57831201</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57831201</guid>
+            <pubDate>Fri, 16 Jul 2021 06:06:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Floridians rally in support of Cuban protesters]]></title>
+            <description><![CDATA[Across Florida, Cuban-Americans have been rallying to show their support for protests in Cuba.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57869119</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57869119</guid>
+            <pubDate>Fri, 16 Jul 2021 16:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia's Tigray crisis: Fleeing for fear of new ethnic conflict]]></title>
+            <description><![CDATA["War is inevitable - it is ethnic cleansing," says an Ethiopian doctor who has escaped to Sudan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57818673</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57818673</guid>
+            <pubDate>Thu, 15 Jul 2021 23:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lil Durk: Grammy-nominated US rapper in shootout with intruders]]></title>
+            <description><![CDATA[The Grammy-nominated star, who recently topped the US album chart, was not injured in the incident.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57862712</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57862712</guid>
+            <pubDate>Fri, 16 Jul 2021 16:05:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia Covid: Melbourne's snap lockdown sparks protest]]></title>
+            <description><![CDATA[Anti-lockdown demonstrators take to the streets as the country's Delta outbreak spreads.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57859526</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57859526</guid>
+            <pubDate>Fri, 16 Jul 2021 04:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada: More unmarked graves likely at former residential school site]]></title>
+            <description><![CDATA[An indigenous group said in May it had found the probable remains of 215 children in unmarked graves.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57855952</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57855952</guid>
+            <pubDate>Thu, 15 Jul 2021 18:33:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: WHO urges China to co-operate better in virus origin probe]]></title>
+            <description><![CDATA[The head of the WHO called for more transparency in the investigation into the origins of Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57855653</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57855653</guid>
+            <pubDate>Thu, 15 Jul 2021 19:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dying alone in Indonesia's grim battle with Covid-19]]></title>
+            <description><![CDATA[Firefighters haul bodies from homes as hospitals scramble for oxygen in Asia's new Covid epicentre.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57830770</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57830770</guid>
+            <pubDate>Thu, 15 Jul 2021 23:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viewpoint: Why Sikhs celebrate kindness]]></title>
+            <description><![CDATA[A new book asks why Sikhs have made it a tradition to help strangers in their darkest moments.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57817615</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57817615</guid>
+            <pubDate>Thu, 15 Jul 2021 23:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa Zuma riots: Fact-checking claims about the protests]]></title>
+            <description><![CDATA[We've looked at some examples of misleading images and videos, claiming to be from the current protests.]]></description>
+            <link>https://www.bbc.co.uk/news/57834755</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/57834755</guid>
+            <pubDate>Thu, 15 Jul 2021 23:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada residential schools: 'Six years old, I was imprisoned here']]></title>
+            <description><![CDATA[As searches for unmarked graves continue, survivors reflect on a dark legacy of residential schools.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57840797</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57840797</guid>
+            <pubDate>Thu, 15 Jul 2021 23:25:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Africa's week in pictures: 9-15 July 2021]]></title>
+            <description><![CDATA[A selection of the week's best photos from across the continent and beyond.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57850243</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57850243</guid>
+            <pubDate>Thu, 15 Jul 2021 23:13:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How your personal data is being scraped from social media]]></title>
+            <description><![CDATA[As hackers scoop up data from social media sites, should firms be taking better care of your data?]]></description>
+            <link>https://www.bbc.co.uk/news/business-57841239</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57841239</guid>
+            <pubDate>Thu, 15 Jul 2021 23:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe floods: Drone footage shows mudslides in western Germany]]></title>
+            <description><![CDATA[Houses have collapsed in the town of Erfstadt-Blessem following record rainfall.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57860249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57860249</guid>
+            <pubDate>Fri, 16 Jul 2021 12:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe floods: Neighbourhoods clear up after record rainfall]]></title>
+            <description><![CDATA[BBC Netherlands correspondent Anna Holligan is in Valkenburg, where some residents have been forced to leave their homes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57861384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57861384</guid>
+            <pubDate>Fri, 16 Jul 2021 08:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: The gymnasts 'building bridges between cultures']]></title>
+            <description><![CDATA[The town of Murayama in northern Japan is preparing to welcome a team of Bulgarian Olympians.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57839224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57839224</guid>
+            <pubDate>Thu, 15 Jul 2021 23:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CBeebies Bedtime Stories: Why Hollywood stars like Ryan Reynolds are lining up]]></title>
+            <description><![CDATA[Other stars to have taken part include Tom Hardy, Dolly Parton and Sir Elton John. Here's why.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57827931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57827931</guid>
+            <pubDate>Thu, 15 Jul 2021 23:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa riots: The community standing up to looters]]></title>
+            <description><![CDATA[The government has said it will deploy 25,000 troops, but some residents are already taking action.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57857690</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57857690</guid>
+            <pubDate>Thu, 15 Jul 2021 22:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany floods: Where are the worst-hit areas?]]></title>
+            <description><![CDATA[Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57862894</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57862894</guid>
+            <pubDate>Fri, 16 Jul 2021 16:11:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany floods: 'My city looks like a battlefield']]></title>
+            <description><![CDATA[Witnesses voice their grief and horror at the deadly floods in western Germany.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57862570</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57862570</guid>
+            <pubDate>Fri, 16 Jul 2021 13:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany floods: How a country was taken by surprise]]></title>
+            <description><![CDATA[Amid the despair and mounting death toll, people are questioning how this could have happened.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57867773</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57867773</guid>
+            <pubDate>Fri, 16 Jul 2021 16:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Chaos and destruction around Europe]]></title>
+            <description><![CDATA[Record rainfall caused rivers to burst their banks, leaving at least 122 dead in Germany and Belgium.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57858826</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57858826</guid>
+            <pubDate>Fri, 16 Jul 2021 12:56:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Science failed to predict extreme weather]]></title>
+            <description><![CDATA[Scientists want a super-computer powerful enough to accurately project the most damaging extremes.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57863205</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57863205</guid>
+            <pubDate>Fri, 16 Jul 2021 11:36:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
