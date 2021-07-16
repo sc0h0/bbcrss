@@ -1,5 +1,5 @@
 1. [Uber will continue to require riders to wear masks](https://www.bbc.co.uk/news/business-57865707) - The ride-hailing firm says passengers will still need to wear a face covering after rules relax on Monday.
-2. [Covid: Fully jabbed UK arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of rules on Monday will not apply due to cases of the Beta variant, the government says.
+2. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
 3. [Warnings grow about staff forced to self-isolate](https://www.bbc.co.uk/news/business-57820537) - Alarm mounts over fears of a "surge" in workers and medical staff forced to quarantine after being "pinged".
 4. [Petrol prices at eight-year high, says AA](https://www.bbc.co.uk/news/business-57861690) - Prices hit the highest since October 2013 amid forecasts of a very busy summer on UK roads.
 5. [Drugs giant GSK's plan to create up to 5,000 jobs in new UK hub](https://www.bbc.co.uk/news/business-57861684) - GSK aims to expand its Stevenage facility to create one of the largest life sciences sites in Europe.
