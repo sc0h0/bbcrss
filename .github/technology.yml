@@ -1,0 +1,33 @@
+name: Scrape latest technology RSS
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '* * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install xsltproc
+      run: sudo apt-get install xsltproc
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest technology RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/technology/rss.xml > technology.xml
+    - name: Run XSLT
+      run: |-
+        xsltproc rss.xslt technology.xml > technology.md
+    - name: Run XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt technology.xml > technology_nodate.md
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest technology RSS: ${timestamp}" || exit 0
+        git push
