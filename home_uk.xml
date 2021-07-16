@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jul 2021 23:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 23:45:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/uk-57869880</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57869880</guid>
             <pubDate>Fri, 16 Jul 2021 23:35:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: UK daily cases pass 50,000 for first time since January]]></title>
-            <description><![CDATA[It comes after England's chief medical officer warned hospitalisations could hit "scary numbers".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57867990</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57867990</guid>
-            <pubDate>Fri, 16 Jul 2021 19:14:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Europe floods: At least 120 dead and hundreds unaccounted for]]></title>
@@ -44,11 +37,11 @@
             <pubDate>Fri, 16 Jul 2021 21:08:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Six people can meet in homes as Welsh lockdown rules ease]]></title>
-            <description><![CDATA[Lockdown relaxed as law restricting the number people meeting outside is scrapped in Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57866006</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57866006</guid>
-            <pubDate>Fri, 16 Jul 2021 21:56:43 GMT</pubDate>
+            <title><![CDATA[UK plans biggest flu vaccine rollout this winter]]></title>
+            <description><![CDATA[Free vaccines will be offered to more than 35 million people, including more teenagers than ever before.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57867955</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57867955</guid>
+            <pubDate>Fri, 16 Jul 2021 23:18:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mystery 19th Century botanist tracked down following appeal]]></title>
@@ -58,18 +51,32 @@
             <pubDate>Fri, 16 Jul 2021 23:16:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The migrants hunger-striking for legal status in Belgium]]></title>
+            <description><![CDATA[More than 400 go without food demanding a clear path to residency in Belgium.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57867823</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57867823</guid>
+            <pubDate>Fri, 16 Jul 2021 23:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Six people can meet in homes as Welsh lockdown rules ease]]></title>
+            <description><![CDATA[Lockdown relaxed as law restricting the number people meeting outside is scrapped in Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57866006</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57866006</guid>
+            <pubDate>Fri, 16 Jul 2021 21:56:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: UK daily cases pass 50,000 for first time since January]]></title>
+            <description><![CDATA[It comes after England's chief medical officer warned hospitalisations could hit "scary numbers".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57867990</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57867990</guid>
+            <pubDate>Fri, 16 Jul 2021 19:14:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bianca Devins: Family sue NY officials over video footage of murdered teen]]></title>
             <description><![CDATA[Bianca Devins' family claim video of her having sex and also her murder were shared with the media.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57867813</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57867813</guid>
             <pubDate>Fri, 16 Jul 2021 19:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inhaler: Bono's son and his band top UK chart with debut album]]></title>
-            <description><![CDATA[Elijah Hewson's rock group knock Olivia Rodrigo off the top spot with their debut album.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57864034</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57864034</guid>
-            <pubDate>Fri, 16 Jul 2021 16:54:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uber will continue to require riders to wear masks]]></title>
@@ -79,27 +86,6 @@
             <pubDate>Fri, 16 Jul 2021 16:48:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Winter vomiting virus warning for England]]></title>
-            <description><![CDATA[Cases of norovirus are going up with a number of outbreaks caused by the vomiting bug in recent weeks, say officials.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57865112</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57865112</guid>
-            <pubDate>Fri, 16 Jul 2021 14:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sarah Everard murder: Met Police sacks Wayne Couzens]]></title>
-            <description><![CDATA[The disciplinary process for Wayne Couzens was held as soon as possible, the Met Police says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57869528</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57869528</guid>
-            <pubDate>Fri, 16 Jul 2021 17:59:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stone man charged with racially abusing Rio Ferdinand]]></title>
-            <description><![CDATA[He is accused of using racist words and gestures against the ex-footballer at Molineux.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57868535</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57868535</guid>
-            <pubDate>Fri, 16 Jul 2021 17:29:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Alan Bircher: Former medallist among swimming coaches suspended]]></title>
             <description><![CDATA[It follows a review sparked by concerns raised by parents of swimmers at Ellesmere College Titans.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-57869892</link>
@@ -107,11 +93,53 @@
             <pubDate>Fri, 16 Jul 2021 20:47:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Inhaler: Bono's son and his band top UK chart with debut album]]></title>
+            <description><![CDATA[Elijah Hewson's rock group knock Olivia Rodrigo off the top spot with their debut album.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57864034</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57864034</guid>
+            <pubDate>Fri, 16 Jul 2021 16:54:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Papers: 'French holiday chaos', and 'world watching' PM]]></title>
             <description><![CDATA[Several of Saturday's papers lead with the last-minute changes to quarantine advice for travellers.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57870838</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57870838</guid>
             <pubDate>Fri, 16 Jul 2021 22:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How are young people responding to the jab?]]></title>
+            <description><![CDATA[The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57845115</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57845115</guid>
+            <pubDate>Fri, 16 Jul 2021 23:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins on… the North America heat waves]]></title>
+            <description><![CDATA[Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57868135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57868135</guid>
+            <pubDate>Fri, 16 Jul 2021 23:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Coping with opening-up anxiety]]></title>
+            <description><![CDATA[Lauren and Angelica-Jane fear the end of restrictions will be challenging for their mental health.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57869257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57869257</guid>
+            <pubDate>Fri, 16 Jul 2021 23:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Week in pictures: 10 - 16 July 2021]]></title>
+            <description><![CDATA[A selection of powerful images taken around the world this week.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-57853779</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57853779</guid>
+            <pubDate>Fri, 16 Jul 2021 23:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amputee's win for prosthetics funding in Wales shows 'people power']]></title>
+            <description><![CDATA[David Bradley said amputees in Wales had been disadvantaged compared to the rest of the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57866765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57866765</guid>
+            <pubDate>Fri, 16 Jul 2021 21:58:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cannes Film Festival 2021 highlights: Sun, stars and saliva]]></title>
@@ -133,48 +161,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57862894</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57862894</guid>
             <pubDate>Fri, 16 Jul 2021 16:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer quizzed by former Labour voters in Blackpool]]></title>
-            <description><![CDATA[The Labour leader speaks to an audience in Blackpool about three of his policy priorities.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57849730</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57849730</guid>
-            <pubDate>Fri, 16 Jul 2021 09:33:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBeebies Bedtime Stories: Why Hollywood stars like Ryan Reynolds are lining up]]></title>
-            <description><![CDATA[Other stars to have taken part include Tom Hardy, Dolly Parton and Sir Elton John. Here's why.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57827931</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57827931</guid>
-            <pubDate>Thu, 15 Jul 2021 23:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Racism in sport: Mo Farah says abuse towards black athletes is getting worse]]></title>
-            <description><![CDATA[Sir Mo says online trolls should be held to account and tech companies should take more action.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57857993</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57857993</guid>
-            <pubDate>Fri, 16 Jul 2021 05:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse documentary 10 years on from death shows 'more rounded image']]></title>
-            <description><![CDATA[The late singer's father says he hopes a new documentary will show a "more rounded image" of Amy.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57850132</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57850132</guid>
-            <pubDate>Thu, 15 Jul 2021 23:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: The gymnasts 'building bridges between cultures']]></title>
-            <description><![CDATA[The town of Murayama in northern Japan is preparing to welcome a team of Bulgarian Olympians.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57839224</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57839224</guid>
-            <pubDate>Thu, 15 Jul 2021 23:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Llandudno goats sent to Bristol and Bournemouth to control numbers]]></title>
-            <description><![CDATA[Thirty Great Orme goats are moving to Bristol and Bournemouth after numbers boomed in lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57849393</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57849393</guid>
-            <pubDate>Thu, 15 Jul 2021 21:15:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Germany floods: How a country was taken by surprise]]></title>

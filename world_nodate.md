@@ -11,11 +11,11 @@
 11. [WhatsApp blocks two million Indian accounts](https://www.bbc.co.uk/news/world-asia-india-57831201) - The messaging platform said most of these users violated the bulk messaging rules.
 12. [Canada: More unmarked graves likely at former residential school site](https://www.bbc.co.uk/news/world-us-canada-57855952) - An indigenous group said in May it had found the probable remains of 215 children in unmarked graves.
 13. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
-14. [Week in pictures: 10 - 16 July 2021](https://www.bbc.co.uk/news/in-pictures-57853779) - A selection of powerful images taken around the world this week.
+14. [South Africa Zuma riots: What's behind the violence and looting?](https://www.bbc.co.uk/news/world-africa-57860998) - Some analysts say the violence wasn't spontaneous anger but a deliberate strategy of sabotage.
 15. [Ros Atkins on… the North America heat waves](https://www.bbc.co.uk/news/world-57868135) - Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.
-16. [Dying alone in Indonesia's grim battle with Covid-19](https://www.bbc.co.uk/news/world-asia-57830770) - Firefighters haul bodies from homes as hospitals scramble for oxygen in Asia's new Covid epicentre.
-17. [Viewpoint: Why Sikhs celebrate kindness](https://www.bbc.co.uk/news/world-asia-india-57817615) - A new book asks why Sikhs have made it a tradition to help strangers in their darkest moments.
-18. [South Africa Zuma riots: Fact-checking claims about the protests](https://www.bbc.co.uk/news/57834755) - We've looked at some examples of misleading images and videos, claiming to be from the current protests.
+16. [Week in pictures: 10 - 16 July 2021](https://www.bbc.co.uk/news/in-pictures-57853779) - A selection of powerful images taken around the world this week.
+17. [Covid-19: Second doses run dry in Brazil's scramble to vaccinate](https://www.bbc.co.uk/news/world-latin-america-57819263) - Many are struggling to source their second dose of the Covid-19 jab in one of the worst-hit countries.
+18. [Under the skin of OnlyFans](https://www.bbc.co.uk/news/uk-57269939) - A BBC investigation reveals concerns about how the site, known for porn, is structured and moderated.
 19. [Canada residential schools: 'Six years old, I was imprisoned here'](https://www.bbc.co.uk/news/world-us-canada-57840797) - As searches for unmarked graves continue, survivors reflect on a dark legacy of residential schools.
 20. [Europe floods: Drone footage shows mudslides in western Germany](https://www.bbc.co.uk/news/world-europe-57860249) - Houses have collapsed in the town of Erfstadt-Blessem following record rainfall.
 21. [Europe floods: Neighbourhoods clear up after record rainfall](https://www.bbc.co.uk/news/world-europe-57861384) - BBC Netherlands correspondent Anna Holligan is in Valkenburg, where some residents have been forced to leave their homes.
