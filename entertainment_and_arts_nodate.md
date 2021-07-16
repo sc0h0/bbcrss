@@ -6,7 +6,7 @@
 6. [Lil Durk: Grammy-nominated US rapper in shootout with intruders](https://www.bbc.co.uk/news/entertainment-arts-57862712) - The Grammy-nominated star, who recently topped the US album chart, was not injured in the incident.
 7. [Surekha Sikri: 'Force of nature' Indian actress dies at 75](https://www.bbc.co.uk/news/entertainment-arts-57860017) - Tributes are paid by Bollywood stars to film, TV and theatre veteran Surekha Sikri.
 8. [AI narration of chef Anthony Bourdain's voice sparks row](https://www.bbc.co.uk/news/technology-57842514) - A recreation of the late celebrity cook's voice is used in a film about his life.
-9. [Pulitzer-winning photojournalist killed in Afghanistan  ](https://www.bbc.co.uk/news/world-asia-india-57859652) - Danish Siddiqui, a photographer with Reuters, is killed on assignment, reportedly in an ambush.
+9. [Pulitzer-winning photojournalist killed in Afghanistan  ](https://www.bbc.co.uk/news/world-asia-india-57859652) - Danish Siddiqui, an award-winning photographer with Reuters news agency, is killed on assignment.
 10. [James Norton: Why making Nowhere Special made me sob and want children](https://www.bbc.co.uk/news/entertainment-arts-57769056) - The Grantchester actor on the emotional toll of playing a dying father and why he doesn't mind fame.
 11. [Debbie Harry on Blondie's 'monumental' Cuba trip and her reunion demands](https://www.bbc.co.uk/news/entertainment-arts-57808649) - The star recalls two historic concerts in Havana, and reveals her demand before reforming Blondie.
 12. [Why black TikTok creators have gone on strike](https://www.bbc.co.uk/news/world-us-canada-57841055) - Backlash for "cultural appropriation" on the video-making app may mean no viral dances for a while.

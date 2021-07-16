@@ -1,9 +1,9 @@
 1. [Europe floods: At least 120 dead and hundreds unaccounted for](https://www.bbc.co.uk/news/world-europe-57858829) - As many as 1,300 people are still unaccounted for after the worst flooding in decades.
-2. [South Africa riots over Zuma jailing pre-planned - Cyril Ramaphosa](https://www.bbc.co.uk/news/world-africa-57863558) - At least 212 people are now known to have died in unrest sparked by the jailing of Jacob Zuma.
+2. [South African says riots over Zuma jailing pre-planned - Cyril Ramaphosa](https://www.bbc.co.uk/news/world-africa-57863558) - At least 212 people are now known to have died in unrest sparked by the jailing of Jacob Zuma.
 3. [US Navy: First woman passes elite training scheme](https://www.bbc.co.uk/news/world-us-canada-57865913) - The gruelling military training programme ends with a 72-hour event called the Tour.
 4. [Bianca Devins: Family sue NY officials over video footage of murdered teen](https://www.bbc.co.uk/news/world-us-canada-57867813) - Bianca Devins' family claim video of her having sex and also her murder were shared with the media.
 5. [WhatsApp blocks two million Indian accounts](https://www.bbc.co.uk/news/world-asia-india-57831201) - The messaging platform said most of these users violated the bulk messaging rules.
-6. [Pulitzer-winning journalist killed in Afghanistan](https://www.bbc.co.uk/news/world-asia-india-57859652) - Danish Siddiqui, a photographer with Reuters, is killed on assignment, reportedly in an ambush.
+6. [Pulitzer-winning journalist killed in Afghanistan](https://www.bbc.co.uk/news/world-asia-india-57859652) - Danish Siddiqui, an award-winning photographer with Reuters news agency, is killed on assignment.
 7. [Floridians rally in support of Cuban protesters](https://www.bbc.co.uk/news/world-us-canada-57869119) - Across Florida, Cuban-Americans have been rallying to show their support for protests in Cuba.
 8. [Australia Covid: Melbourne's snap lockdown sparks protest](https://www.bbc.co.uk/news/world-australia-57859526) - Anti-lockdown demonstrators take to the streets as the country's Delta outbreak spreads.
 9. [Lil Durk: Grammy-nominated US rapper in shootout with intruders](https://www.bbc.co.uk/news/entertainment-arts-57862712) - The Grammy-nominated star, who recently topped the US album chart, was not injured in the incident.
