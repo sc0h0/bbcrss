@@ -3,11 +3,11 @@
 3. [US Navy: First woman passes elite training scheme](https://www.bbc.co.uk/news/world-us-canada-57865913) - The gruelling military training programme ends with a 72-hour event called the Tour.
 4. [Bianca Devins: Family sue NY officials over video footage of murdered teen](https://www.bbc.co.uk/news/world-us-canada-57867813) - Bianca Devins' family claim video of her having sex and also her murder were shared with the media.
 5. [Belgium takes back mothers and children from Syria jihadist camps](https://www.bbc.co.uk/news/world-europe-57870808) - It is the biggest repatriation of suspected Islamic State members since its fall in 2019.
-6. [Pulitzer-winning journalist killed in Afghanistan](https://www.bbc.co.uk/news/world-asia-india-57859652) - Danish Siddiqui, an award-winning photographer with Reuters news agency, is killed on assignment.
+6. [Covid misinformation on Facebook is killing people - Biden](https://www.bbc.co.uk/news/world-us-canada-57870778) - The US president said a spike in Covid deaths among the unvaccinated was down to social media.
 7. [Floridians rally in support of Cuban protesters](https://www.bbc.co.uk/news/world-us-canada-57869119) - Across Florida, Cuban-Americans have been rallying to show their support for protests in Cuba.
-8. [Australia Covid: Melbourne's snap lockdown sparks protest](https://www.bbc.co.uk/news/world-australia-57859526) - Anti-lockdown demonstrators take to the streets as the country's Delta outbreak spreads.
-9. [Lil Durk: Grammy-nominated US rapper in shootout with intruders](https://www.bbc.co.uk/news/entertainment-arts-57862712) - The Grammy-nominated star, who recently topped the US album chart, was not injured in the incident.
-10. [Biden and Merkel 'united against Russia aggression'](https://www.bbc.co.uk/news/world-us-canada-57854625) - "Good friends can disagree," Mr Biden says of their dispute over a Russia-to-Germany pipeline.
+8. [Pulitzer-winning journalist killed in Afghanistan](https://www.bbc.co.uk/news/world-asia-india-57859652) - Danish Siddiqui, an award-winning photographer with Reuters news agency, is killed on assignment.
+9. [Australia Covid: Melbourne's snap lockdown sparks protest](https://www.bbc.co.uk/news/world-australia-57859526) - Anti-lockdown demonstrators take to the streets as the country's Delta outbreak spreads.
+10. [Lil Durk: Grammy-nominated US rapper in shootout with intruders](https://www.bbc.co.uk/news/entertainment-arts-57862712) - The Grammy-nominated star, who recently topped the US album chart, was not injured in the incident.
 11. [WhatsApp blocks two million Indian accounts](https://www.bbc.co.uk/news/world-asia-india-57831201) - The messaging platform said most of these users violated the bulk messaging rules.
 12. [Canada: More unmarked graves likely at former residential school site](https://www.bbc.co.uk/news/world-us-canada-57855952) - An indigenous group said in May it had found the probable remains of 215 children in unmarked graves.
 13. [Dying alone in Indonesia's grim battle with Covid-19](https://www.bbc.co.uk/news/world-asia-57830770) - Firefighters haul bodies from homes as hospitals scramble for oxygen in Asia's new Covid epicentre.
@@ -18,9 +18,9 @@
 18. [How your personal data is being scraped from social media](https://www.bbc.co.uk/news/business-57841239) - As hackers scoop up data from social media sites, should firms be taking better care of your data?
 19. [Europe floods: Drone footage shows mudslides in western Germany](https://www.bbc.co.uk/news/world-europe-57860249) - Houses have collapsed in the town of Erfstadt-Blessem following record rainfall.
 20. [Europe floods: Neighbourhoods clear up after record rainfall](https://www.bbc.co.uk/news/world-europe-57861384) - BBC Netherlands correspondent Anna Holligan is in Valkenburg, where some residents have been forced to leave their homes.
-21. [Tokyo 2020: The gymnasts 'building bridges between cultures'](https://www.bbc.co.uk/news/world-asia-57839224) - The town of Murayama in northern Japan is preparing to welcome a team of Bulgarian Olympians.
-22. [CBeebies Bedtime Stories: Why Hollywood stars like Ryan Reynolds are lining up](https://www.bbc.co.uk/news/entertainment-arts-57827931) - Other stars to have taken part include Tom Hardy, Dolly Parton and Sir Elton John. Here's why.
-23. [South Africa riots: The community standing up to looters](https://www.bbc.co.uk/news/world-africa-57857690) - The government has said it will deploy 25,000 troops, but some residents are already taking action.
+21. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
+22. [Ros Atkins on… the North America heat waves](https://www.bbc.co.uk/news/world-57868135) - Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.
+23. [Tokyo 2020: The gymnasts 'building bridges between cultures'](https://www.bbc.co.uk/news/world-asia-57839224) - The town of Murayama in northern Japan is preparing to welcome a team of Bulgarian Olympians.
 24. [Germany floods: Where are the worst-hit areas?](https://www.bbc.co.uk/news/world-europe-57862894) - Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.
 25. [Germany floods: 'My city looks like a battlefield'](https://www.bbc.co.uk/news/world-europe-57862570) - Witnesses voice their grief and horror at the deadly floods in western Germany.
 26. [Germany floods: How a country was taken by surprise](https://www.bbc.co.uk/news/world-europe-57867773) - Amid the despair and mounting death toll, people are questioning how this could have happened.
