@@ -1,0 +1,122 @@
+name: Scrape latest RSS
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '* * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install xsltproc
+      run: sudo apt-get install xsltproc
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    
+
+    # Fetch RSS
+    - name: Fetch latest UK RSS
+      run: |-
+        curl https://feeds.bbci.co.uk/news/rss.xml?edition=uk > home_uk.xml
+    - name: Fetch latest business RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/business/rss.xml > business.xml
+    - name: Fetch latest education RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/education/rss.xml > education.xml
+    - name: Fetch latest entertainment_and_arts RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml > entertainment_and_arts.xml
+    - name: Fetch latest health RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/health/rss.xml > health.xml
+    - name: Fetch latest politics RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/politics/rss.xml > politics.xml
+    - name: Fetch latest science_and_environment RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/science_and_environment/rss.xml > science_and_environment.xml
+    - name: Fetch latest technology RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/technology/rss.xml > technology.xml
+    - name: Fetch latest world RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/world/rss.xml > world.xml
+
+
+    # Transform
+    - name: Run home UK XSLT
+      run: |-
+        xsltproc rss.xslt home_uk.xml > home_uk.md
+    - name: Run home UK XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt home_uk.xml > home_uk_nodate.md
+
+    - name: Run business XSLT
+      run: |-
+        xsltproc rss.xslt business.xml > business.md
+    - name: Run business XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt business.xml > business_nodate.md
+
+    - name: Run education XSLT
+      run: |-
+        xsltproc rss.xslt education.xml > education.md
+    - name: Run education XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt education.xml > education_nodate.md
+
+    - name: Run entertainment_and_arts XSLT
+      run: |-
+        xsltproc rss.xslt entertainment_and_arts.xml > entertainment_and_arts.md
+    - name: Run entertainment_and_arts XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt entertainment_and_arts.xml > entertainment_and_arts_nodate.md      
+
+    - name: Run health XSLT
+      run: |-
+        xsltproc rss.xslt health.xml > health.md
+    - name: Run entertainment_and_arts XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt health.xml > health_nodate.md     
+
+    - name: Run politics XSLT
+      run: |-
+        xsltproc rss.xslt politics.xml > politics.md
+    - name: Run politics XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt politics.xml > politics_nodate.md   
+
+    - name: Run science_and_environment XSLT
+      run: |-
+        xsltproc rss.xslt science_and_environment.xml > science_and_environment.md
+    - name: Run science_and_environment XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt science_and_environment.xml > science_and_environment_nodate.md   
+
+    - name: Run technology XSLT
+      run: |-
+        xsltproc rss.xslt technology.xml > technology.md
+    - name: Run technology XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt technology.xml > technology_nodate.md   
+
+    - name: Run world XSLT
+      run: |-
+        xsltproc rss.xslt world.xml > world.md
+    - name: Run world XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt world.xml > world_nodate.md   
+
+
+
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest RSS: ${timestamp}" || exit 0
+        git push
