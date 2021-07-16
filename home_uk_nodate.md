@@ -3,12 +3,12 @@
 3. [I will sweat blood to win voters' respect, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57848266) - The Labour leader tells the BBC his party has a "trust issue", after talking to some of its ex-voters.
 4. [Covid: Be cautious as England lockdown ends, urges Whitty](https://www.bbc.co.uk/news/uk-57858864) - It comes as the UK recorded nearly 50,000 new cases on Thursday - the highest number since January.
 5. [Covid staff shortage could shut meat production lines](https://www.bbc.co.uk/news/business-57856566) - The industry has warned of shortages as one in 10 staff are told to isolate by the NHS Covid app
-6. [Police and CPS in rape case blame game - report](https://www.bbc.co.uk/news/uk-57856719) - An urgent shift in the way rape cases are investigated and prosecuted is needed, say watchdogs.
+6. [Heat-health alert issued in England for weekend](https://www.bbc.co.uk/news/uk-57858950) - Public Heath England wants people to look out for those who may be at risk in warmer weather.
 7. [Biden and Merkel 'united against Russia aggression'](https://www.bbc.co.uk/news/world-us-canada-57854625) - "Good friends can disagree," Mr Biden says of their dispute over a Russia-to-Germany pipeline.
 8. [Durham A1 motorway crash: Police report fatalities](https://www.bbc.co.uk/news/uk-england-tyne-57857358) - People are believed to have died after two lorries and several cars crashed on the A1 (M), police say.
 9. [Small shops face £1.7bn debt mountain, says report](https://www.bbc.co.uk/news/business-57855682) - The warning is in the latest report on the future of High Streets by former retail chief Bill Grimsey.
 10. [Goldman Sachs to require staff to wear masks from Monday](https://www.bbc.co.uk/news/business-57855681) - The banking giant hopes 70% of UK staff will return to its London office in the coming weeks.
-11. [Heat-health alert issued in England for weekend](https://www.bbc.co.uk/news/uk-57858950) - Public Heath England wants people to look out for those who may be at risk in warmer weather.
+11. [Police and CPS in rape case blame game - report](https://www.bbc.co.uk/news/uk-57856719) - An urgent shift in the way rape cases are investigated and prosecuted is needed, say watchdogs.
 12. [Covid: Al fresco dining to become a High Street fixture in England](https://www.bbc.co.uk/news/business-57855683) - Pavement licences are to be extended and takeaway pints will continue for another year to help the sector.
 13. [Public urged to count butterflies after year of bad weather](https://www.bbc.co.uk/news/uk-57859345) - TV naturalist Chris Packham said the count could reveal the impact of climate change on wildlife.
 14. [The Papers: Britain's 'pingdemic paralysis' amid record alerts](https://www.bbc.co.uk/news/blogs-the-papers-57858393) - Many papers react to the news that the NHS Covid app sent more than half a million alerts in a week.
