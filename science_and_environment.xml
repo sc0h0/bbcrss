@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Science & Environment]]></title>
+        <description><![CDATA[BBC News - Science & Environment]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Science &amp; Environment</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 16 Jul 2021 19:05:49 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Climate change: Science failed to predict flood and heat intensity]]></title>
+            <description><![CDATA[Scientists want a super-computer powerful enough to accurately project the most damaging extremes.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57863205</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57863205</guid>
+            <pubDate>Fri, 16 Jul 2021 11:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Formula 1 boss Ross Brawn says hydrogen could be future fuel]]></title>
+            <description><![CDATA[Hydrogen-powered cars could be the future of Formula 1 according to Ross Brawn, the F1 managing director for motorsports.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57842205</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57842205</guid>
+            <pubDate>Thu, 15 Jul 2021 23:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[National Food Strategy: Tax sugar and salt and prescribe veg, report says]]></title>
+            <description><![CDATA[Boris Johnson says he will consider the proposal, but finds the idea of extra taxes on people unattractive.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57838103</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57838103</guid>
+            <pubDate>Thu, 15 Jul 2021 13:17:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: 'No more excuses' at COP26 climate summit - poor nations]]></title>
+            <description><![CDATA[More than 100 developing countries set out key demands ahead of the climate summit in Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57839368</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57839368</guid>
+            <pubDate>Thu, 15 Jul 2021 07:41:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blue Origin: Teenager to fly into space with Jeff Bezos]]></title>
+            <description><![CDATA[Oliver Daemen, 18, will become the youngest person to fly to space with the Blue Origin venture.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57855650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57855650</guid>
+            <pubDate>Thu, 15 Jul 2021 16:33:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nasa set for attempt to fix Hubble's trouble]]></title>
+            <description><![CDATA[A possible cause is identified for the Hubble telescope's worst glitch in years.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57844454</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57844454</guid>
+            <pubDate>Wed, 14 Jul 2021 21:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Amazon regions emit more carbon than they absorb]]></title>
+            <description><![CDATA[Rising heat and deforestation cause eastern parts of the Amazon to become carbon sources, not sinks.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57839364</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57839364</guid>
+            <pubDate>Wed, 14 Jul 2021 15:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carry on flying, says government green plan]]></title>
+            <description><![CDATA[The policy has been ridiculed by environmentalists who say the government is putting too much faith in innovation.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57830168</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57830168</guid>
+            <pubDate>Wed, 14 Jul 2021 11:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU unveils sweeping climate change plan]]></title>
+            <description><![CDATA[It proposes taxing jet fuel and effectively banning the sale of petrol cars within 20 years.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57833807</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57833807</guid>
+            <pubDate>Wed, 14 Jul 2021 18:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate crisis rallies young people]]></title>
+            <description><![CDATA[Thousands of young people are joining a mission to help solve the environmental crisis facing their generation.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57827178</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57827178</guid>
+            <pubDate>Wed, 14 Jul 2021 08:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Charles' warning over survival of small farms]]></title>
+            <description><![CDATA[If they go out of business it will "rip the heart out of the British countryside", he says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57826560</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57826560</guid>
+            <pubDate>Wed, 14 Jul 2021 05:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Benjamin Jesty: The unsung hero of vaccination]]></title>
+            <description><![CDATA[Edward Jenner is credited with inventing the vaccine but his method was pioneered by a Dorset farmer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-57460445</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-57460445</guid>
+            <pubDate>Wed, 14 Jul 2021 05:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Giant goldfish problem in US lake prompts warning to pet owners]]></title>
+            <description><![CDATA[Goldfish released into the wild can grow much bigger and cause major disruption to ecosystems.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57816922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57816922</guid>
+            <pubDate>Tue, 13 Jul 2021 09:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fire lookouts: The US Forest Service lookouts watching for fires]]></title>
+            <description><![CDATA[In remote towers, US Forest Service lookouts act as an early warning system for forest fires.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57626403</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57626403</guid>
+            <pubDate>Fri, 09 Jul 2021 23:08:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Technology boosts efforts to curb tree loss in Amazon]]></title>
+            <description><![CDATA[Smartphones and satellite data help indigenous people in the Peruvian Amazon to limit deforestation.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57807544</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57807544</guid>
+            <pubDate>Mon, 12 Jul 2021 23:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US heatwave: Could US and Canada see the worst wildfires yet?]]></title>
+            <description><![CDATA[The annual fire season has barely started - and there are claims that 2021 might be the worst year yet.]]></description>
+            <link>https://www.bbc.co.uk/news/57770728</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/57770728</guid>
+            <pubDate>Tue, 13 Jul 2021 14:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: US-Canada heatwave 'virtually impossible' without warming]]></title>
+            <description><![CDATA[Without global warming, the searing heat seen in the western US and Canada "just doesn't occur," say scientists.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57751918</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57751918</guid>
+            <pubDate>Thu, 08 Jul 2021 00:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Record June temperatures point to more 'extraordinary' extremes]]></title>
+            <description><![CDATA[North America experienced its warmest June on record and experts say the figures are frightening.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57742482</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57742482</guid>
+            <pubDate>Wed, 07 Jul 2021 07:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Florida breaks manatee death record in first six months of 2021]]></title>
+            <description><![CDATA[Wildlife authorities say the unprecedented number of deaths was primarily caused by starvation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57802165</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57802165</guid>
+            <pubDate>Mon, 12 Jul 2021 08:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why North America's killer heat scares me]]></title>
+            <description><![CDATA[It's not the new record temperatures that concern the BBC's Roger Harrabin - it's the way they were smashed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57729502</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57729502</guid>
+            <pubDate>Fri, 09 Jul 2021 18:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Planting extra trees will boost rainfall across Europe]]></title>
+            <description><![CDATA[Converting agricultural land to forestry would boost summer rains by 7.6% on average, a study finds.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57722879</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57722879</guid>
+            <pubDate>Mon, 05 Jul 2021 15:10:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Virgin Galactic: Richard Branson's long, winding path to space]]></title>
+            <description><![CDATA[The BBC tracks the long, winding road to Sir Richard Branson's flight to the edge of space.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57798167</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57798167</guid>
+            <pubDate>Sun, 11 Jul 2021 16:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Virgin Galactic: Sir Richard Branson rockets to the edge of space]]></title>
+            <description><![CDATA[The UK businessman realises a lifetime's ambition by riding a rocket plane high into the sky.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57797297</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57797297</guid>
+            <pubDate>Sun, 11 Jul 2021 16:54:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blue Origin flight: Wally Funk, 82, to join Jeff Bezos space flight]]></title>
+            <description><![CDATA[The historic journey will see her become the oldest person to ever fly to space.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57686654</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57686654</guid>
+            <pubDate>Thu, 01 Jul 2021 18:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Virgin Galactic's Beth Moses: 'No camera can capture the magic']]></title>
+            <description><![CDATA[Virgin Galactic's chief astronaut instructor, Beth Moses, describes the experience of spaceflight.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57788517</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57788517</guid>
+            <pubDate>Sat, 10 Jul 2021 08:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid origins: Scientists weigh up evidence over virus's origins]]></title>
+            <description><![CDATA[Researchers aim to "set the record straight" on how the virus transferred from bats into humans.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57782955</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57782955</guid>
+            <pubDate>Fri, 09 Jul 2021 23:20:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Appeal to identify 'La Botaniste' who slipped from history]]></title>
+            <description><![CDATA[Who was the mysterious Isabella Allen and what was her contribution to 19th Century botanical science?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57601841</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57601841</guid>
+            <pubDate>Sun, 27 Jun 2021 06:48:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: How can you make your home eco-friendly?]]></title>
+            <description><![CDATA[There are many ways to reduce a property's environmental impact, says the Energy Saving Trust.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57226425</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57226425</guid>
+            <pubDate>Sun, 20 Jun 2021 06:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Astronomy Photographer of the Year 2021: Shortlist revealed]]></title>
+            <description><![CDATA[The competition has received more than 4,500 entries from people in 75 countries.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-57653901</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57653901</guid>
+            <pubDate>Tue, 29 Jun 2021 23:42:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
