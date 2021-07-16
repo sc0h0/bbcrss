@@ -1,5 +1,5 @@
-1. [Germany floods: Dozens killed after record rain in Germany and Belgium](https://www.bbc.co.uk/news/world-europe-57846200) - The two countries and the Netherlands experience widespread devastation after record rainfall.
-2. [Covid: Younger adults still at risk of serious organ damage - study](https://www.bbc.co.uk/news/health-57840825) - Adults below the age of 50 are almost as likely to suffer from medical complications as those over 50.
+1. [Germany floods: Merkel pledges support for victims](https://www.bbc.co.uk/news/world-europe-57858829) - Angela Merkel says the "full extent" of the German floods will only be seen in the coming days.
+2. [Covid: Younger adults still at risk of serious organ damage - study](https://www.bbc.co.uk/news/health-57840825) - Adults below the age of 50 are almost as likely to suffer from medical complications as the over-50s.
 3. [Biden and Merkel 'united against Russia aggression'](https://www.bbc.co.uk/news/world-us-canada-57854625) - "Good friends can disagree," Mr Biden says of their dispute over a Russia-to-Germany pipeline.
 4. [Covid: Be cautious as England lockdown ends, urges Whitty](https://www.bbc.co.uk/news/uk-57858864) - It comes as the UK recorded nearly 50,000 new cases on Thursday - the highest number since January.
 5. [Covid staff shortage could shut meat production lines](https://www.bbc.co.uk/news/business-57856566) - The industry has warned of shortages as one in 10 staff are told to isolate by the NHS Covid app
