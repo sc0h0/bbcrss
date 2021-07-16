@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Jul 2021 23:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jul 2021 00:29:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Thu, 15 Jul 2021 23:29:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Be cautious as England lockdown ends, urges Whitty]]></title>
+            <description><![CDATA[It comes as the UK recorded nearly 50,000 new cases on Thursday - the highest number since January.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57858864</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57858864</guid>
+            <pubDate>Thu, 15 Jul 2021 23:47:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid staff shortage could shut meat production lines]]></title>
             <description><![CDATA[The industry has warned of shortages as one in 10 staff are told to isolate by the NHS Covid app]]></description>
             <link>https://www.bbc.co.uk/news/business-57856566</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57856566</guid>
             <pubDate>Thu, 15 Jul 2021 23:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goldman Sachs to require staff to wear masks from Monday]]></title>
-            <description><![CDATA[The banking giant hopes 70% of UK staff will return to its London office in the coming weeks.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57855681</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57855681</guid>
-            <pubDate>Thu, 15 Jul 2021 23:01:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Durham A1 motorway crash: Police report fatalities]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Thu, 15 Jul 2021 23:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: More than 500,000 app pings in a single week]]></title>
-            <description><![CDATA[Alerts asking people in England and Wales to isolate for 10 days are causing concern among businesses.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57854999</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57854999</guid>
-            <pubDate>Thu, 15 Jul 2021 19:09:39 GMT</pubDate>
+            <title><![CDATA[Goldman Sachs to require staff to wear masks from Monday]]></title>
+            <description><![CDATA[The banking giant hopes 70% of UK staff will return to its London office in the coming weeks.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57855681</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57855681</guid>
+            <pubDate>Thu, 15 Jul 2021 23:01:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Car driven on railway tracks at Cheshunt to escape police]]></title>
@@ -114,11 +114,25 @@
             <pubDate>Thu, 15 Jul 2021 22:25:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Germany floods: Collapsed buildings and submerged cars]]></title>
-            <description><![CDATA[Heavy rain has caused flooding in western Germany, leading to collapsed buildings and submerged cars.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57849078</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57849078</guid>
-            <pubDate>Thu, 15 Jul 2021 09:23:20 GMT</pubDate>
+            <title><![CDATA[Cbeebies bedtime stories and why Hollywood stars are lining up]]></title>
+            <description><![CDATA[Other stars to have taken part include Tom Hardy, Dolly Parton and Sir Elton John.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57827931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57827931</guid>
+            <pubDate>Thu, 15 Jul 2021 23:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the tenth anniversary of her death a new film about Amy Winehouse is being released]]></title>
+            <description><![CDATA[A new Amy Winehouse film, narrated by her mum, is being released on the tenth anniversary of her death.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57850132</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57850132</guid>
+            <pubDate>Thu, 15 Jul 2021 23:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: The gymnasts 'building bridges between cultures']]></title>
+            <description><![CDATA[The town of Murayama in northern Japan is preparing to welcome a team of Bulgarian Olympians.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57839224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57839224</guid>
+            <pubDate>Thu, 15 Jul 2021 23:03:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Llandudno goats sent to Bristol and Bournemouth to control numbers]]></title>
@@ -128,102 +142,53 @@
             <pubDate>Thu, 15 Jul 2021 21:15:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Face masks: Will people living in a low Covid area still wear them?]]></title>
-            <description><![CDATA[Will people who live in an area that has one of England's lowest Covid rates continue to wear masks?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-57848687</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-57848687</guid>
-            <pubDate>Thu, 15 Jul 2021 12:40:14 GMT</pubDate>
+            <title><![CDATA[Germany floods: Collapsed buildings and submerged cars]]></title>
+            <description><![CDATA[Heavy rain has caused flooding in western Germany, leading to collapsed buildings and submerged cars.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57849078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57849078</guid>
+            <pubDate>Thu, 15 Jul 2021 09:23:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revolut becomes most valuable UK start-up after £24bn valuation]]></title>
-            <description><![CDATA[Revolut's latest valuation has made its Russia-born boss Nik Storonsky a multibillionaire.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57854969</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57854969</guid>
-            <pubDate>Thu, 15 Jul 2021 16:19:52 GMT</pubDate>
+            <title><![CDATA[Finding 'Grace': Murder, DNA and ancestry]]></title>
+            <description><![CDATA[How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57801794</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57801794</guid>
+            <pubDate>Fri, 16 Jul 2021 00:05:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sixth-form students use art to explore fake news]]></title>
-            <description><![CDATA[Sixth-formers from 58 colleges show their creative work in an online exhibition.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-57812031</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57812031</guid>
-            <pubDate>Thu, 15 Jul 2021 06:16:43 GMT</pubDate>
+            <title><![CDATA[Esther Dingley: Partner vows to keep searching for missing hiker]]></title>
+            <description><![CDATA[The partner of missing hiker Esther Dingley explains why he won't give up searching for her.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-57818035</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-57818035</guid>
+            <pubDate>Fri, 16 Jul 2021 00:05:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Government purchase of wine increases by £26,000]]></title>
-            <description><![CDATA[The "self-funding" collection of fine wines was topped up during the pandemic, figures reveal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57848267</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57848267</guid>
-            <pubDate>Thu, 15 Jul 2021 13:11:57 GMT</pubDate>
+            <title><![CDATA[Formula 1 boss Ross Brawn says hydrogen could be future fuel]]></title>
+            <description><![CDATA[Hydrogen-powered cars could be the future of Formula 1 according to Ross Brawn, the F1 managing director for motorsports.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57842205</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57842205</guid>
+            <pubDate>Thu, 15 Jul 2021 23:01:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clippy returns - as an emoji]]></title>
-            <description><![CDATA[Microsoft changes its paperclip emoji to look like its early virtual assistant, the object of much affection and frustration.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57849880</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57849880</guid>
-            <pubDate>Thu, 15 Jul 2021 11:29:19 GMT</pubDate>
+            <title><![CDATA[Dying alone in Indonesia's grim battle with Covid-19]]></title>
+            <description><![CDATA[Firefighters haul bodies from homes as hospitals scramble for oxygen in Asia's new Covid epicentre.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57830770</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57830770</guid>
+            <pubDate>Thu, 15 Jul 2021 23:01:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Menopause: Swansea MP calls for change on 'the change']]></title>
-            <description><![CDATA[Campaigners want women to talk about the menopause and call for more training for GPs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57838624</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57838624</guid>
-            <pubDate>Thu, 15 Jul 2021 05:06:49 GMT</pubDate>
+            <title><![CDATA[James Norton: 'Making Nowhere Special made me sob and want children']]></title>
+            <description><![CDATA[The Grantchester actor on the emotional toll of playing a dying father and why he doesn't mind fame.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57769056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57769056</guid>
+            <pubDate>Fri, 16 Jul 2021 00:05:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Isolating children miss the last week of primary school]]></title>
-            <description><![CDATA[This Cheshire school's end-of-year play has gone ahead despite a child testing positive for Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57837434</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57837434</guid>
-            <pubDate>Wed, 14 Jul 2021 23:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Bereaved Carmarthenshire survivor questions lockdown easing]]></title>
-            <description><![CDATA[Gwyn Tovey's wife Rita died just weeks after he caught the virus, which led to Long Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57838628</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57838628</guid>
-            <pubDate>Thu, 15 Jul 2021 05:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PMQs: What did Boris Johnson say about the booing of England players?]]></title>
-            <description><![CDATA[Labour challenged the prime minister over his position on those who booed England when they "took the knee".]]></description>
-            <link>https://www.bbc.co.uk/news/57837572</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57837572</guid>
-            <pubDate>Wed, 14 Jul 2021 17:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['My husband was an angel - then he raped me']]></title>
-            <description><![CDATA[Marital rape has long been a taboo issue in Egypt, but now victims are beginning to speak out.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57694110</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57694110</guid>
-            <pubDate>Wed, 14 Jul 2021 23:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should we trust big tech with our health data?]]></title>
-            <description><![CDATA[Our medical records are in demand by tech firms who want to use the data to help tackle illnesses.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57817804</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57817804</guid>
-            <pubDate>Wed, 14 Jul 2021 23:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Olympic Games: 'Gang life nearly killed me - sprinting was my way out']]></title>
-            <description><![CDATA[As Darren Campbell emerged as a talented teenage sprinter, he was leading a double life as a gang member. A twist of fate broke him free.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/57656659</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57656659</guid>
-            <pubDate>Wed, 14 Jul 2021 23:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What will mask makers do now?]]></title>
-            <description><![CDATA[People around the country have made and sold masks during the pandemic. Here's what they'll do next.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57737666</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57737666</guid>
-            <pubDate>Thu, 15 Jul 2021 00:06:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why black TikTok creators have gone on strike]]></title>
-            <description><![CDATA[Backlash for "cultural appropriation" on the video-making app may mean no viral dances for a while.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57841055</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57841055</guid>
-            <pubDate>Thu, 15 Jul 2021 00:13:49 GMT</pubDate>
+            <title><![CDATA[How your personal data is being scraped from social media]]></title>
+            <description><![CDATA[As hackers scoop up data from social media sites, should firms be taking better care of your data?]]></description>
+            <link>https://www.bbc.co.uk/news/business-57841239</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57841239</guid>
+            <pubDate>Thu, 15 Jul 2021 23:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oosthuizen leads Open after round one - highlights & report]]></title>
@@ -254,13 +219,6 @@
             <pubDate>Thu, 15 Jul 2021 23:13:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[F1 boss says hydrogen could be the future for the sport]]></title>
-            <description><![CDATA[Hydrogen-powered cars could be the future of Formula 1 according to Ross Brawn, the F1 managing director for motorsports.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57842205</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57842205</guid>
-            <pubDate>Thu, 15 Jul 2021 23:01:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[McGregor 'had multiple stress fractures in shin' going into Poirier fight ]]></title>
             <description><![CDATA[Conor McGregor says he was already injured before suffering a broken leg in the fight with Dustin Poirier in Las Vegas at UFC 264.]]></description>
             <link>https://www.bbc.co.uk/sport/mixed-martial-arts/57856435</link>
@@ -275,6 +233,13 @@
             <pubDate>Thu, 15 Jul 2021 19:47:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: The Making of Laura Kenny: Gold medals, severe injuries & becoming a mum]]></title>
+            <description><![CDATA[Four-time Olympic champion Laura Kenny looks back on the key moments that have shaped her journey to become Great Britain's most successful Olympic female competitor.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57839204</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57839204</guid>
+            <pubDate>Thu, 15 Jul 2021 08:38:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid rules: What's changing when restrictions end on 19 July?]]></title>
             <description><![CDATA[Major changes to lockdown rules take effect in England and Scotland, but some restrictions remain.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
@@ -282,32 +247,25 @@
             <pubDate>Thu, 15 Jul 2021 15:46:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
-            <description><![CDATA[Fully jabbed adults in Scotland, England and Wales won't have to quarantine on return from amber-list countries from 19 July.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Wed, 14 Jul 2021 17:43:44 GMT</pubDate>
+            <title><![CDATA[The EU vaccine 'passport' and what it means for travel]]></title>
+            <description><![CDATA[An EU vaccine "passport" is being introduced, enabling holders to prove they have been jabbed.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-57665765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57665765</guid>
+            <pubDate>Tue, 13 Jul 2021 16:50:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Five ways to avoid catching the virus indoors]]></title>
-            <description><![CDATA[As social distancing restrictions end in England and ease in Scotland, good ventilation remains vital.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-53917432</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53917432</guid>
-            <pubDate>Wed, 14 Jul 2021 09:36:07 GMT</pubDate>
+            <title><![CDATA[What are the rules and guidance for face masks and coverings from 19 July?]]></title>
+            <description><![CDATA[Masks will no longer be compulsory in England from 19 July, but will remain necessary in Scotland and Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Thu, 15 Jul 2021 13:53:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are the rules for pubs, restaurants, festivals and gigs?]]></title>
-            <description><![CDATA[Near-normal service should resume in pubs and restaurants in England and Scotland from 19 July.]]></description>
-            <link>https://www.bbc.co.uk/news/business-52977388</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
-            <pubDate>Wed, 14 Jul 2021 15:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid rules: How can the clinically vulnerable stay safe?]]></title>
-            <description><![CDATA[As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?]]></description>
-            <link>https://www.bbc.co.uk/news/health-51997151</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51997151</guid>
-            <pubDate>Tue, 13 Jul 2021 15:02:33 GMT</pubDate>
+            <title><![CDATA[Coronavirus cure: What progress are we making on treatments?]]></title>
+            <description><![CDATA[Medical teams around the world are learning which medicines work best against Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52354520</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52354520</guid>
+            <pubDate>Wed, 23 Jun 2021 14:28:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
