@@ -1,5 +1,5 @@
-1. [Covid: UK daily cases pass 50,000 for first time since January](https://www.bbc.co.uk/news/uk-57867990) - It comes after England's chief medical officer warned hospitalisations could hit "scary numbers".
-2. [Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - Double-vaccinated travellers returning to England from France will still have to quarantine for 10 days from Monday
+1. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - Double-vaccinated travellers returning to England from France will still have to quarantine for 10 days from Monday
+2. [Covid: UK daily cases pass 50,000 for first time since January](https://www.bbc.co.uk/news/uk-57867990) - It comes after England's chief medical officer warned hospitalisations could hit "scary numbers".
 3. [Europe floods: At least 120 dead and hundreds unaccounted for](https://www.bbc.co.uk/news/world-europe-57858829) - As many as 1,300 people are still unaccounted for after the worst flooding in decades.
 4. [Sarah Everard murder: Met Police sacks Wayne Couzens](https://www.bbc.co.uk/news/uk-england-london-57869528) - The disciplinary process for Wayne Couzens was held as soon as possible, the Met Police says.
 5. [Winter vomiting virus warning for England](https://www.bbc.co.uk/news/health-57865112) - Cases of norovirus are going up with a number of outbreaks caused by the vomiting bug in recent weeks, say officials.
