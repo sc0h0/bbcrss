@@ -1,7 +1,7 @@
 1. [Craft beer industry accused of being 'sexist boys' club'](https://www.bbc.co.uk/news/business-57719831) - Independent beer makers have promised reform following allegations of discrimination and harassment.
 2. [Why the Scouts are launching a money badge after Covid](https://www.bbc.co.uk/news/business-57863156) - Why Scouts are lending a hand on tackling financial literacy in the wake of the pandemic.
 3. [Uber will continue to require riders to wear masks](https://www.bbc.co.uk/news/business-57865707) - The ride-hailing firm says passengers will still need to wear a face covering after rules relax on Monday.
-4. [Covid: Travel firms angry over France quarantine rule](https://www.bbc.co.uk/news/uk-57874167) - The continued need for travellers to quarantine on arrival in England and Wales undermines confidence, tourism groups say.
+4. [Covid: Travel firms angry over France quarantine rule](https://www.bbc.co.uk/news/uk-57874167) - The continued need for travellers to quarantine on arrival in England and Wales is criticised.
 5. [Warnings grow about staff forced to self-isolate](https://www.bbc.co.uk/news/business-57820537) - Alarm mounts over fears of a "surge" in workers and medical staff forced to quarantine after being "pinged".
 6. [Petrol prices at eight-year high, says AA](https://www.bbc.co.uk/news/business-57861690) - Prices hit the highest since October 2013 amid forecasts of a very busy summer on UK roads.
 7. [Drugs giant GSK's plan to create up to 5,000 jobs in new UK hub](https://www.bbc.co.uk/news/business-57861684) - GSK aims to expand its Stevenage facility to create one of the largest life sciences sites in Europe.
