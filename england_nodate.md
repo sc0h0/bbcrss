@@ -1,7 +1,7 @@
 1. [Covid vaccine: Tate Modern and The Oval open pop-up clinics](https://www.bbc.co.uk/news/uk-england-57873024) - Pop-up vaccination clinics are opening across England this weekend including at The Open golf tournament.
 2. [Kingskerwell: Man dies after being hit by ambulance on 999 call](https://www.bbc.co.uk/news/uk-england-devon-57873346) - The pedestrian died in hospital after being hit by an ambulance "en route to an emergency", police say.
 3. [McDonald's blockade: Arrests as Animal Rebellion protest continues](https://www.bbc.co.uk/news/uk-england-humber-57860942) - Four people are arrested as a burger factory protest enters its third day.
-4. [Stansted Airport: Delays on M11 after lorry overturns](https://www.bbc.co.uk/news/uk-england-essex-57874122) - The southbound carriageway of the M11 is closed and emergency services are at the scene.
+4. [Stansted Airport: Man dies after vehicle overturns on M11](https://www.bbc.co.uk/news/uk-england-essex-57874122) - Police hand out bottled water to drivers stuck on the M11 in hot weather for "several hours".
 5. [Bereaved sister's call for breast cancer taskforce](https://www.bbc.co.uk/news/uk-england-birmingham-57855412) - Inspired by the Covid vaccine, a woman is calling for a similar focus on a breast cancer cure.
 6. [UK weather: Heat-health alert issued in England for weekend](https://www.bbc.co.uk/news/uk-57858950) - Public Heath England wants people to look out for those who may be at risk in warmer weather.
 7. [Blackpool councillor 'fat shamed' by MP over critical tweet](https://www.bbc.co.uk/news/uk-england-lancashire-57873811) - A Blackpool councillor claims a comment one of the town's MPs made in reply to his tweet was "nasty".
