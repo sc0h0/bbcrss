@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 19:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 19:48:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -268,18 +268,18 @@
             <pubDate>Sat, 17 Jul 2021 18:37:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish League Cup: Livingston suffer shock Alloa loss as Dundee United all but qualify]]></title>
-            <description><![CDATA[Top-flight Livingston lose to League 1 Alloa Athletic in the Scottish League Cup as Dundee United all but ensure progress to the knock-out stage.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57875782</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57875782</guid>
-            <pubDate>Sat, 17 Jul 2021 16:15:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Andrew Butchart: GB runner cleared for Tokyo 2020 after suspended ban]]></title>
             <description><![CDATA[British 5,000m runner Andrew Butchart will compete at Tokyo 2020 after being handed a suspended ban for saying he faked a Covid-19 test result.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/57872734</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57872734</guid>
             <pubDate>Sat, 17 Jul 2021 07:46:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish League Cup: Livingston suffer shock Alloa loss as Dundee United all but qualify]]></title>
+            <description><![CDATA[Top-flight Livingston lose to League 1 Alloa Athletic in the Scottish League Cup as Dundee United all but ensure progress to the knock-out stage.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57875782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57875782</guid>
+            <pubDate>Sat, 17 Jul 2021 16:15:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
