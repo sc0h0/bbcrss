@@ -1,4 +1,4 @@
-1. [Covid: Six people can meet in homes as Welsh lockdown rules ease](https://www.bbc.co.uk/news/uk-wales-57866006) - Lockdown relaxed as law restricting the number people meeting outside is scrapped in Wales.
+1. [Covid rules in Wales: No outdoor limits and six can meet at home](https://www.bbc.co.uk/news/uk-wales-57866006) - Covid rules are relaxed and the law restricting the number people meeting outside is scrapped.
 2. [Child sunburn cases at Swansea's Welsh burns hospital prompts warning](https://www.bbc.co.uk/news/uk-wales-57866642) - Parents warned to apply sun cream 'liberally' on children as hot temperatures set to soar.
 3. [Fire fund 'too little, too late' for high-rise](https://www.bbc.co.uk/news/uk-wales-57866470) - Campaigners say plans to pay for fire safety surveys in high-rise flats do not go far enough.
 4. [Amputee wins better prosthetics funding access in Wales](https://www.bbc.co.uk/news/uk-wales-54840455) - David Bradley argued patients in Wales were not getting fair access to better artificial limbs.

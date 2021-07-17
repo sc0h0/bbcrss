@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 14:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 14:26:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Sat, 17 Jul 2021 10:56:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Belfast flats evacuated due to underground cable fire]]></title>
+            <description><![CDATA[People are asked to leave the building on Castlereagh street in east Belfast "as a precaution".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57874461</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57874461</guid>
+            <pubDate>Sat, 17 Jul 2021 14:16:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Egyptian vulture spotted in Ireland for the first time]]></title>
             <description><![CDATA[The endangered Egyptian vulture paid a flying visit to the village of Dunfanaghy in County Donegal.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57860608</link>
@@ -45,13 +52,13 @@
         </item>
         <item>
             <title><![CDATA[McIlroy climbs Open leaderboard after five birdies]]></title>
-            <description><![CDATA[Northern Ireland's Rory McIlroy climbs up the leader board after hitting five birdies on the front nine at day three of the Open at Royal St George's.]]></description>
+            <description><![CDATA[Northern Ireland's Rory McIlroy climbs the leaderboard after hitting five birdies on the front nine at day three of The Open at Royal St George's.]]></description>
             <link>https://www.bbc.co.uk/sport/av/golf/57874842</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/57874842</guid>
             <pubDate>Sat, 17 Jul 2021 13:13:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: GAA stadium gets mobile vaccine pop-up clinic]]></title>
+            <title><![CDATA[Covid-19: Walk-in vaccine clinic open across NI this weekend]]></title>
             <description><![CDATA[Anyone aged 18 or over can get a first Pfizer dose on Saturday at Páirc Esler in Newry.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57863840</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57863840</guid>
@@ -139,7 +146,7 @@
             <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
-            <pubDate>Fri, 16 Jul 2021 13:50:57 GMT</pubDate>
+            <pubDate>Sat, 17 Jul 2021 14:13:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI Troubles: Reaction to government plans to deal with the past]]></title>
