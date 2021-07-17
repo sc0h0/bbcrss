@@ -1,9 +1,9 @@
 1. [Brendan Óg Duffy: Monaghan GAA U20s captain dies in car crash](https://www.bbc.co.uk/news/world-europe-57873315) - Brendan Óg Duffy lost his life just hours after captaining his county team to a semi-final win.
 2. [Covid-19: Two more Covid-linked deaths and 1,402 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-57874453) - Stormont's Department of Health says the latest deaths have been reported in the past 24 hours.
-3. [Covid-19: GAA stadium gets mobile vaccine pop-up](https://www.bbc.co.uk/news/uk-northern-ireland-57863840) - Anyone aged 18 or over can get a first Pfizer dose at Saturday's pop-up clinic.
-4. [Pastor James McConnell dies aged 84 after long illness](https://www.bbc.co.uk/news/uk-northern-ireland-57873316) - The Belfast preacher's death is announced by Whitewell Tabernacle, the church which he founded.
-5. [Egyptian vulture spotted in Ireland for the first time](https://www.bbc.co.uk/news/world-europe-57860608) - The endangered Egyptian vulture paid a flying visit to the village of Dunfanaghy in County Donegal.
-6. [Badger cull considered in attempt to tackle bovine TB](https://www.bbc.co.uk/news/uk-northern-ireland-57841200) - It is one of a number of proposals put forward to deal with the illness in cattle.
+3. [Pastor James McConnell dies aged 84 after long illness](https://www.bbc.co.uk/news/uk-northern-ireland-57873316) - The Belfast preacher's death is announced by Whitewell Tabernacle, the church which he founded.
+4. [Egyptian vulture spotted in Ireland for the first time](https://www.bbc.co.uk/news/world-europe-57860608) - The endangered Egyptian vulture paid a flying visit to the village of Dunfanaghy in County Donegal.
+5. [Covid-19: GAA stadium gets mobile vaccine pop-up clinic](https://www.bbc.co.uk/news/uk-northern-ireland-57863840) - Anyone aged 18 or over can get a first Pfizer dose on Saturday at Páirc Esler in Newry.
+6. [Badger cull considered in attempt to tackle bovine TB](https://www.bbc.co.uk/news/uk-northern-ireland-57841200) - It is one of a number of proposals by a Stormont department to deal with the illness in cattle.
 7. [In pictures: People enjoy Northern Ireland's hottest day of the year](https://www.bbc.co.uk/news/uk-northern-ireland-57865089) - Thermometers hit 27.6C in Killowen, County Down, on Friday - the highest temperature in NI since 2018.
 8. [Colum Eastwood: MP reveals death threats after naming Soldier F](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57863054) - Colum Eastwood named the former paratrooper, accused of two Bloody Sunday murders, in Parliament.
 9. [NI Troubles: 'Robust conversation' as parties meet Lewis over legacy](https://www.bbc.co.uk/news/uk-northern-ireland-57858073) - The UK proposals have been widely rejected by the executive parties, Irish government and victims.
@@ -14,7 +14,7 @@
 14. [Coronavirus: Hospitality Ulster calls for NI recovery strategy](https://www.bbc.co.uk/news/uk-northern-ireland-57857496) - Industry representatives say businesses are struggling after lockdown and need help from Stormont.
 15. [Coronavirus: Robin Swann concerned by rise in Covid-19 cases](https://www.bbc.co.uk/news/uk-northern-ireland-57854088) - More than 1,000 new cases of Covid-19 were recorded in Northern Ireland on Thursday.
 16. [Covid-19: NI eases travel rules from amber list countries](https://www.bbc.co.uk/news/uk-northern-ireland-57844884) - Fully vaccinated passengers from amber countries will no longer have to self-isolate from 19 July.
-17. [James Norton: Why making Nowhere Special made me sob and want children](https://www.bbc.co.uk/news/entertainment-arts-57769056) - The Grantchester actor on the emotional toll of playing a dying father and why he doesn't mind fame.
+17. [James Norton: Film role as NI dad made me sob and want children](https://www.bbc.co.uk/news/entertainment-arts-57769056) - The Grantchester actor on the emotional toll of playing a dying father and why he doesn't mind fame.
 18. [Latest Northern Ireland weather forecast](https://www.bbc.co.uk/news/uk-northern-ireland-26018439) - The weather forecast in Northern Ireland.
 19. [NI Troubles: Reaction to government plans to deal with the past](https://www.bbc.co.uk/news/uk-northern-ireland-57853957) - People who lost loved ones during the Troubles have criticised government plans to deal with the past.
 20. [Covid-19: 'I've waited two years to meet my baby daughter'](https://www.bbc.co.uk/news/uk-northern-ireland-57841199) - Vance McElhinney's partner and baby daughter flew from Vietnam to NI to reunite after the pandemic.
