@@ -5,7 +5,7 @@
 5. [Bereaved sister's call for breast cancer taskforce](https://www.bbc.co.uk/news/uk-england-birmingham-57855412) - Inspired by the Covid vaccine, a woman is calling for a similar focus on a breast cancer cure.
 6. [UK weather: Heat-health alert issued in England for weekend](https://www.bbc.co.uk/news/uk-57858950) - Public Heath England wants people to look out for those who may be at risk in warmer weather.
 7. [Blackpool councillor 'fat shamed' by MP over critical tweet](https://www.bbc.co.uk/news/uk-england-lancashire-57873811) - A Blackpool councillor claims a comment one of the town's MPs made in reply to his tweet was "nasty".
-8. [Covid: London's Metropolitan Line closed after staff pinged by NHS app](https://www.bbc.co.uk/news/uk-england-london-57874404) - Control room staff on the Metropolitan Line are isolating after being sent isolation alerts.
+8. [Covid: London's Metropolitan Line closed after staff pinged by NHS app](https://www.bbc.co.uk/news/uk-england-london-57874404) - Control room staff on the Metropolitan Line are isolating after being sent alerts by the NHS app.
 9. [RNLI lifeguards braced for 'busiest ever summer' on UK beaches](https://www.bbc.co.uk/news/uk-england-kent-57810409) - A Margate lifeguard says she has received extra training to manage crowds of staycation visitors.
 10. [Covid vaccine: How are young people responding to the jab?](https://www.bbc.co.uk/news/uk-england-london-57845115) - The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?
 11. [Brick Dinos: Lego dinosaurs go on display in Norwich](https://www.bbc.co.uk/news/uk-england-norfolk-57863230) - The worlds of dinosaurs and Lego collide as thousands of bricks recreate a land that time forgot.
