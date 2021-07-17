@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 01:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 01:59:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,25 @@
             <pubDate>Fri, 16 Jul 2021 15:20:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US wants giant radar in UK to track space objects]]></title>
-            <description><![CDATA[It comes amid growing concern about congestion, competition and even an arms race in space.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57866734</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57866734</guid>
-            <pubDate>Fri, 16 Jul 2021 21:08:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[UK plans biggest flu vaccine rollout this winter]]></title>
             <description><![CDATA[Free vaccines will be offered to more than 35 million people, including more teenagers than ever before.]]></description>
             <link>https://www.bbc.co.uk/news/health-57867955</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57867955</guid>
             <pubDate>Fri, 16 Jul 2021 23:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Six people can meet in homes as Welsh lockdown rules ease]]></title>
+            <description><![CDATA[Lockdown relaxed as law restricting the number people meeting outside is scrapped in Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57866006</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57866006</guid>
+            <pubDate>Fri, 16 Jul 2021 21:56:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid misinformation on Facebook is killing people - Biden]]></title>
+            <description><![CDATA[The US president said a spike in Covid deaths among the unvaccinated was down to social media.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57870778</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57870778</guid>
+            <pubDate>Sat, 17 Jul 2021 01:48:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mystery 19th Century botanist tracked down following appeal]]></title>
@@ -58,18 +65,11 @@
             <pubDate>Fri, 16 Jul 2021 23:00:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Six people can meet in homes as Welsh lockdown rules ease]]></title>
-            <description><![CDATA[Lockdown relaxed as law restricting the number people meeting outside is scrapped in Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57866006</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57866006</guid>
-            <pubDate>Fri, 16 Jul 2021 21:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid misinformation on Facebook is killing people - Biden]]></title>
-            <description><![CDATA[The US president said a spike in Covid deaths among the unvaccinated was down to social media.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57870778</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57870778</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:51 GMT</pubDate>
+            <title><![CDATA[US wants giant radar in UK to track space objects]]></title>
+            <description><![CDATA[It comes amid growing concern about congestion, competition and even an arms race in space.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57866734</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57866734</guid>
+            <pubDate>Fri, 16 Jul 2021 21:08:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bianca Devins: Family sue NY officials over video footage of murdered teen]]></title>
