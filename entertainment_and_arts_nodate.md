@@ -1,4 +1,4 @@
-1. [Stephen Fretwell: 'Gavin and Stacey song was as good as a part-time job'](https://www.bbc.co.uk/news/entertainment-arts-57812272) - Stephen Fretwell on his hit TV show theme tune and why his 13-year music hiatus has come to an end.
+1. [Stephen Fretwell: 'Gavin and Stacey song equated to a part-time job'](https://www.bbc.co.uk/news/entertainment-arts-57812272) - Stephen Fretwell on his hit TV show theme tune and why his 13-year music hiatus has come to an end.
 2. [Cannes Film Festival 2021 highlights: Sun, stars and saliva](https://www.bbc.co.uk/news/entertainment-arts-57864015) - A-listers flocked to the Cannes Film Festival's red carpet, despite the pandemic.
 3. [Inhaler: Bono's son and his band top UK chart with debut album](https://www.bbc.co.uk/news/entertainment-arts-57864034) - Elijah Hewson's rock group knock Olivia Rodrigo off the top spot with their debut album.
 4. [Row brewing in Scotland over prospect of privatising Channel 4](https://www.bbc.co.uk/news/uk-scotland-scotland-business-57864641) - Some production companies fear a privatised channel would spend less money and support fewer jobs in Scotland.
