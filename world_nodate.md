@@ -1,4 +1,4 @@
-1. [Europe floods: At least 120 dead and hundreds unaccounted for](https://www.bbc.co.uk/news/world-europe-57858829) - As many as 1,300 people are still unaccounted for after the worst flooding in decades.
+1. [Europe floods: Rescuers race to find survivors as hundreds remain missing](https://www.bbc.co.uk/news/world-europe-57871308) - Crews scramble to reach victims of deadly floods in Germany and Belgium, where hundreds are missing.
 2. [Covid misinformation on Facebook is killing people - Biden](https://www.bbc.co.uk/news/world-us-canada-57870778) - The US president said a spike in Covid deaths among the unvaccinated was down to social media.
 3. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
 4. [South African says riots over Zuma jailing pre-planned - Cyril Ramaphosa](https://www.bbc.co.uk/news/world-africa-57863558) - At least 212 people are now known to have died in unrest sparked by the jailing of Jacob Zuma.
