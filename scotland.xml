@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 10:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 10:36:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -275,13 +275,6 @@
             <pubDate>Tue, 13 Jul 2021 15:09:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rangers: John Fleck backs John Lundstram to thrive after taking 'incredible chance' at Ibrox]]></title>
-            <description><![CDATA[John Fleck told former Sheffield United team-mate John Lundstram "you need to give it a go" before his fellow midfielder joined Rangers.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57852626</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57852626</guid>
-            <pubDate>Sat, 17 Jul 2021 08:03:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Andrew Butchart: GB runner cleared for Tokyo 2020 after suspended ban]]></title>
             <description><![CDATA[British 5,000m runner Andrew Butchart will compete at Tokyo 2020 after being handed a suspended ban for saying he faked a Covid-19 test result.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/57872734</link>
@@ -289,18 +282,18 @@
             <pubDate>Sat, 17 Jul 2021 07:46:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rangers: John Fleck backs John Lundstram to thrive after taking 'incredible chance' at Ibrox]]></title>
+            <description><![CDATA[John Fleck told former Sheffield United team-mate John Lundstram "you need to give it a go" before his fellow midfielder joined Rangers.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57852626</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57852626</guid>
+            <pubDate>Sat, 17 Jul 2021 08:03:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Gossip: Rangers, Celtic, St Johnstone, Aberdeen, St Mirren, Morelos, Ferhat]]></title>
             <description><![CDATA[Former Celtic boss Neil Lennon questions whether his successor Ange Postecoglou knows what he's getting into at Parkhead.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57871052</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57871052</guid>
             <pubDate>Sat, 17 Jul 2021 07:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kyogo Furuhashi: Celtic sign Japan forward from Vissel Kobe]]></title>
-            <description><![CDATA[Celtic announce a four-year deal for Kyogo Furuhashi, with the Japan forward arriving from Vissel Kobe.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57860716</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57860716</guid>
-            <pubDate>Fri, 16 Jul 2021 07:35:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
