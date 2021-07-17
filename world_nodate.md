@@ -6,10 +6,10 @@
 6. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
 7. [Egypt's Al Ahly win African Champions League title](https://www.bbc.co.uk/sport/africa/57833344) - Egyptian heavyweights Al Ahly win a tenth African Champions League on Saturday after beating Kaizer Chiefs 3-0 in Morocco.
 8. [Iran protests: One killed in water crisis demonstration](https://www.bbc.co.uk/news/world-middle-east-57873405) - Iran is facing a severe drought, and there is growing public anger over water and power shortages.
-9. [Covid misinformation on Facebook is killing people - Biden](https://www.bbc.co.uk/news/world-us-canada-57870778) - The US president said a spike in Covid deaths among the unvaccinated was down to social media.
-10. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
-11. ['Hollywood Ripper' Michael Gargiulo sentenced to death for murders](https://www.bbc.co.uk/news/world-us-canada-57871320) - Ashley Ellerin, 22, and Maria Bruno, 32, were both stabbed to death in their California homes.
-12. [Daca: Obama programme for child migrants ruled illegal](https://www.bbc.co.uk/news/world-us-canada-57871370) - A Texas judge says new applicants cannot be enrolled in Deferred Action for Childhood Arrivals.
+9. [Daughter of Afghan envoy kidnapped and injured in Pakistan](https://www.bbc.co.uk/news/world-asia-57877239) - Afghan officials urge Pakistan to keep diplomats safe, amid tensions between the two neighbours.
+10. [Covid misinformation on Facebook is killing people - Biden](https://www.bbc.co.uk/news/world-us-canada-57870778) - The US president said a spike in Covid deaths among the unvaccinated was down to social media.
+11. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
+12. ['Hollywood Ripper' Michael Gargiulo sentenced to death for murders](https://www.bbc.co.uk/news/world-us-canada-57871320) - Ashley Ellerin, 22, and Maria Bruno, 32, were both stabbed to death in their California homes.
 13. [Under the skin of OnlyFans](https://www.bbc.co.uk/news/uk-57269939) - A BBC investigation reveals concerns about how the site, known for porn, is structured and moderated.
 14. [Ros Atkins on… the North America heat waves](https://www.bbc.co.uk/news/world-57868135) - Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.
 15. [Cannes Film Festival 2021 highlights: Sun, stars and saliva](https://www.bbc.co.uk/news/entertainment-arts-57864015) - A-listers flocked to the Cannes Film Festival's red carpet, despite the pandemic.

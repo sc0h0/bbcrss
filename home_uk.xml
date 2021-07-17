@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 23:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 23:34:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,18 +149,46 @@
             <pubDate>Sat, 17 Jul 2021 13:08:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Broadway dancer whose lockdown business bloomed]]></title>
+            <description><![CDATA[When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-57840115</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57840115</guid>
+            <pubDate>Sat, 17 Jul 2021 23:22:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Working in Mum's care home brought us closer']]></title>
+            <description><![CDATA[Lydia Loader, whose mother Sally has dementia, heard her speak for the first time in 18 months.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-57809429</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-57809429</guid>
+            <pubDate>Sat, 17 Jul 2021 23:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why was my tweet about football labelled abusive?]]></title>
+            <description><![CDATA[A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57836409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57836409</guid>
+            <pubDate>Sat, 17 Jul 2021 23:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coventry City of Culture: The women who helped shape a 'city of justice']]></title>
+            <description><![CDATA[Coventry women have always been at the heart of the struggle for social justice, a historian says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57555779</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57555779</guid>
+            <pubDate>Sat, 17 Jul 2021 23:23:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British Grand Prix: 'F1 breaks new ground but jury still out on sprint qualifying']]></title>
+            <description><![CDATA[F1 broke new ground with the advent of sprint qualifying but uncertainty remains over whether the exercise was a success, writes Andrew Benson.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57876348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57876348</guid>
+            <pubDate>Sat, 17 Jul 2021 18:58:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[In pictures: Masks and social distancing at downsized Hajj]]></title>
             <description><![CDATA[Only about 60,000 pilgrims living in Saudi Arabia were eligible to take part this year.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57875572</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57875572</guid>
             <pubDate>Sat, 17 Jul 2021 16:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Under the skin of OnlyFans]]></title>
-            <description><![CDATA[A BBC investigation reveals concerns about how the site, known for porn, is structured and moderated.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57269939</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57269939</guid>
-            <pubDate>Fri, 16 Jul 2021 23:36:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[South Africa Zuma riots: What's behind the violence and looting?]]></title>
@@ -170,60 +198,11 @@
             <pubDate>Fri, 16 Jul 2021 23:32:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Craft beer industry accused of being 'sexist boys' club']]></title>
-            <description><![CDATA[Independent beer makers have promised reform following allegations of discrimination and harassment.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57719831</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57719831</guid>
-            <pubDate>Fri, 16 Jul 2021 21:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus doctor's diary: Unvaccinated patients with many regrets]]></title>
-            <description><![CDATA[The number of Covid patients in Bradford Royal Infirmary is rising sharply - and half are unvaccinated.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-57866661</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57866661</guid>
-            <pubDate>Fri, 16 Jul 2021 23:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Second doses run dry in Brazil's scramble to vaccinate]]></title>
-            <description><![CDATA[Many are struggling to source their second dose of the Covid-19 jab in one of the worst-hit countries.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57819263</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57819263</guid>
-            <pubDate>Fri, 16 Jul 2021 23:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Travelling fairground life prepared me to be A&E doctor']]></title>
-            <description><![CDATA[Doctor John Castle says his nomadic childhood helped prepare him for the pressures of the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-57643707</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57643707</guid>
-            <pubDate>Fri, 16 Jul 2021 23:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the Scouts are launching a money badge after Covid]]></title>
-            <description><![CDATA[Why Scouts are lending a hand on tackling financial literacy in the wake of the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57863156</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57863156</guid>
-            <pubDate>Fri, 16 Jul 2021 23:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stephen Fretwell: 'Gavin and Stacey song equated to a part-time job']]></title>
-            <description><![CDATA[Stephen Fretwell on his hit TV show theme tune and why his 13-year music hiatus has come to an end.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57812272</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57812272</guid>
-            <pubDate>Fri, 16 Jul 2021 23:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany floods: How a country was taken by surprise]]></title>
-            <description><![CDATA[Amid the despair and mounting death toll, people are questioning how this could have happened.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57867773</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57867773</guid>
-            <pubDate>Fri, 16 Jul 2021 16:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British Grand Prix: 'F1 breaks new ground but jury still out on sprint qualifying']]></title>
-            <description><![CDATA[F1 broke new ground with the advent of sprint qualifying but uncertainty remains over whether the exercise was a success, writes Andrew Benson.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57876348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57876348</guid>
-            <pubDate>Sat, 17 Jul 2021 18:58:49 GMT</pubDate>
+            <title><![CDATA[Under the skin of OnlyFans]]></title>
+            <description><![CDATA[A BBC investigation reveals concerns about how the site, known for porn, is structured and moderated.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57269939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57269939</guid>
+            <pubDate>Fri, 16 Jul 2021 23:36:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lions boss Gatland expects 'robust' selection debate for first Test with South Africa]]></title>
@@ -266,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/av/rugby-league/57874342</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-league/57874342</guid>
             <pubDate>Sat, 17 Jul 2021 18:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Open 2021: Jazz Janewattananond hits creative bunker shot]]></title>
+            <description><![CDATA[Thailand's Jazz Janewattananond hits a creative bunker shot on his knees on the third day at The Open 2021 at Royal St. George's.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/golf/57875412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/57875412</guid>
+            <pubDate>Sat, 17 Jul 2021 14:52:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
