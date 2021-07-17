@@ -40,4 +40,3 @@
 40. [Covid: What do over-18s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The vaccine rollout is now available for younger adults. What do they need to know about getting jabbed?
 41. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 42. [Arsenal to sign Brighton's Ben White in £50m deal](https://www.bbc.co.uk/sport/football/57873034) - Arsenal agree a deal in principle for the £50m transfer of Brighton and England defender Ben White.
-43. [England v Pakistan: Liam Livingstone hundred not enough in first T20](https://www.bbc.co.uk/sport/cricket/57870059) - Liam Livingstone's spectacular 42-ball hundred cannot prevent England from being beaten by Pakistan in a riotous first Twenty20 at Trent Bridge.
