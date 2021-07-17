@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 13:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 13:34:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-57873315</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57873315</guid>
             <pubDate>Sat, 17 Jul 2021 12:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Two more Covid-linked deaths and 1,402 new cases]]></title>
+            <description><![CDATA[Stormont's Department of Health says the latest deaths have been reported in the past 24 hours.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57874453</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57874453</guid>
+            <pubDate>Sat, 17 Jul 2021 13:20:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: GAA stadium gets mobile vaccine pop-up]]></title>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57860608</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57860608</guid>
             <pubDate>Sat, 17 Jul 2021 05:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Southern Trust suspends hospital visits as cases spike]]></title>
-            <description><![CDATA[The decision was taken as NI recorded its highest daily number of coronavirus cases since January.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57867718</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57867718</guid>
-            <pubDate>Fri, 16 Jul 2021 20:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Badger cull considered in attempt to tackle bovine TB]]></title>
@@ -93,18 +93,18 @@
             <pubDate>Fri, 16 Jul 2021 13:19:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Southern Trust suspends hospital visits as cases spike]]></title>
+            <description><![CDATA[The decision was taken as NI recorded its highest daily number of coronavirus cases since January.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57867718</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57867718</guid>
+            <pubDate>Fri, 16 Jul 2021 20:10:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Interim Covid vaccine certificates to be launched for NI travellers]]></title>
             <description><![CDATA[Anyone travelling from Northern Ireland after the 25 July should wait to use a new app.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57868779</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57868779</guid>
             <pubDate>Fri, 16 Jul 2021 19:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI records 1,380 new Covid-19 cases but no deaths]]></title>
-            <description><![CDATA[There have been 1,380 cases of Covid-19, but no further deaths recorded in the past 24 hours.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57861991</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57861991</guid>
-            <pubDate>Fri, 16 Jul 2021 16:59:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Hospitality Ulster calls for NI recovery strategy]]></title>
