@@ -1,4 +1,4 @@
-1. [Health Secretary Javid tests positive for Covid](https://www.bbc.co.uk/news/uk-57874744) - Sajid Javid says he has had two jabs and his symptoms are "very mild".
+1. [Health Secretary Sajid Javid tests positive for Covid](https://www.bbc.co.uk/news/uk-57874744) - He says he has had two jabs and so far his symptoms are "very mild" after feeling "groggy" on Friday.
 2. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
 3. [UK looks to extend ivory ban to hippos and other animals](https://www.bbc.co.uk/news/uk-politics-57867935) - Ministers say elephants are not the only animals at risk from hunters, as they launch consultation.
 4. [I will sweat blood to win voters' respect, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57848266) - The Labour leader tells the BBC his party has a "trust issue", after talking to some of its ex-voters.
