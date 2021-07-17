@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 16:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 16:57:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -38,17 +38,24 @@
         </item>
         <item>
             <title><![CDATA[Hottest NI day ever as temperatures soar above 30C]]></title>
-            <description><![CDATA[Ballywatticock near Newtownards records 31.2 degrees, breaking a record set nearly 40 years ago.]]></description>
+            <description><![CDATA[Ballywatticock near Newtownards records 31.2 degrees, breaking a record set 45 years ago.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57875732</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57875732</guid>
-            <pubDate>Sat, 17 Jul 2021 15:46:10 GMT</pubDate>
+            <pubDate>Sat, 17 Jul 2021 16:28:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Havana syndrome'-like mystery illness affects Vienna US diplomats]]></title>
-            <description><![CDATA[The Biden administration is investigating mysterious illnesses among US officials in the Austrian capital.]]></description>
+            <description><![CDATA[The Biden administration is investigating cases of so-called "Havana syndrome" among US officials.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57875322</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57875322</guid>
             <pubDate>Sat, 17 Jul 2021 15:42:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farne Islands: Puffins see visitors return after 18 months]]></title>
+            <description><![CDATA[Tourists haven't been able to go to the Farne Islands for 18 months and it's changed the birds' behaviour.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57873055</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57873055</guid>
+            <pubDate>Sat, 17 Jul 2021 13:08:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: London's Metropolitan Line closed after staff pinged by NHS app]]></title>
@@ -80,10 +87,10 @@
         </item>
         <item>
             <title><![CDATA[Trains cancelled as firefighters tackle Troon station blaze]]></title>
-            <description><![CDATA[Three fire engines and an aerial appliance are tackling the fire at Troon station]]></description>
+            <description><![CDATA[Lines through Troon will remain closed until Monday, according to ScotRail.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57874972</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57874972</guid>
-            <pubDate>Sat, 17 Jul 2021 15:54:13 GMT</pubDate>
+            <pubDate>Sat, 17 Jul 2021 16:41:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First Covid case reported in Tokyo Olympic village]]></title>
@@ -93,11 +100,11 @@
             <pubDate>Sat, 17 Jul 2021 09:54:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Farne Islands: Puffins see visitors return after 18 months]]></title>
-            <description><![CDATA[Tourists haven't been able to go to the Farne Islands for 18 months and it's changed the birds' behaviour.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57873055</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57873055</guid>
-            <pubDate>Sat, 17 Jul 2021 13:08:31 GMT</pubDate>
+            <title><![CDATA[British Grand Prix: Max Verstappen wins sprint qualifying to claim pole position for race]]></title>
+            <description><![CDATA[Red Bull's Max Verstappen will start the British Grand Prix from pole position after winning Formula 1's new trial sprint race.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57875745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57875745</guid>
+            <pubDate>Sat, 17 Jul 2021 16:08:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How are young people responding to the jab?]]></title>
@@ -219,18 +226,32 @@
             <pubDate>Fri, 16 Jul 2021 16:04:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Verstappen wins first ever F1 sprint to take pole for British GP]]></title>
-            <description><![CDATA[Red Bull's Max Verstappen will start the British Grand Prix from pole position after winning Formula 1's new trial sprint race.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57875745</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57875745</guid>
-            <pubDate>Sat, 17 Jul 2021 16:08:24 GMT</pubDate>
+            <title><![CDATA[St Helens beat Castleford to win Challenge Cup for first time in 13 years]]></title>
+            <description><![CDATA[St Helens come from behind to beat Castleford at Wembley and win the Challenge Cup for the first time in 13 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/57828390</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/57828390</guid>
+            <pubDate>Sat, 17 Jul 2021 16:32:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Arsenal agree £50m deal for Brighton defender White]]></title>
-            <description><![CDATA[Arsenal agree a deal in principle for the £50m transfer of Brighton and England defender Ben White.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57873034</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57873034</guid>
-            <pubDate>Sat, 17 Jul 2021 09:03:56 GMT</pubDate>
+            <title><![CDATA[Van Aert wins penultimate stage as Pogacar set for Tour de France victory]]></title>
+            <description><![CDATA[Tadej Pogacar is set to win the Tour de France after finishing seventh in the time trial on the penultimate stage, which was win by Wout van Aert.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/57855539</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57855539</guid>
+            <pubDate>Sat, 17 Jul 2021 16:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Classy Argentina outclass depleted Wales to win series]]></title>
+            <description><![CDATA[Wales end their season with a 33-11 defeat against an impressive Argentina side in the second Test in Cardiff.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57861293</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57861293</guid>
+            <pubDate>Sat, 17 Jul 2021 15:53:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Open 2021: Jazz Janewattananond hits creative bunker shot]]></title>
+            <description><![CDATA[Thailand's Jazz Janewattananond hits a creative bunker shot on his knees on the third day at The Open 2021 at Royal St. George's.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/golf/57875412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/57875412</guid>
+            <pubDate>Sat, 17 Jul 2021 14:52:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
@@ -265,7 +286,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Fri, 16 Jul 2021 16:07:46 GMT</pubDate>
+            <pubDate>Sat, 17 Jul 2021 16:24:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What's changing when restrictions end on 19 July?]]></title>

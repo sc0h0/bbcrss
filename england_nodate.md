@@ -39,4 +39,6 @@
 39. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks will no longer be compulsory in England from 19 July, but will remain necessary in Scotland and Wales.
 40. [Covid: What do over-18s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The vaccine rollout is now available for younger adults. What do they need to know about getting jabbed?
 41. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-42. [Arsenal to sign Brighton's Ben White in £50m deal](https://www.bbc.co.uk/sport/football/57873034) - Arsenal agree a deal in principle for the £50m transfer of Brighton and England defender Ben White.
+42. [St Helens beat Castleford to win Challenge Cup for first time in 13 years](https://www.bbc.co.uk/sport/rugby-league/57828390) - St Helens come from behind to beat Castleford at Wembley and win the Challenge Cup for the first time in 13 years.
+43. [British Grand Prix: Max Verstappen wins sprint qualifying to claim pole position for race](https://www.bbc.co.uk/sport/formula1/57875745) - Red Bull's Max Verstappen will start the British Grand Prix from pole position after winning Formula 1's new trial sprint race.
+44. [Arsenal to sign Brighton's Ben White in £50m deal](https://www.bbc.co.uk/sport/football/57873034) - Arsenal agree a deal in principle for the £50m transfer of Brighton and England defender Ben White.

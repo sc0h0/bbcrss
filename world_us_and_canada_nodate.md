@@ -1,6 +1,6 @@
 1. [Daca: Obama programme for child migrants ruled illegal](https://www.bbc.co.uk/news/world-us-canada-57871370) - A Texas judge says new applicants cannot be enrolled in Deferred Action for Childhood Arrivals.
 2. [Covid misinformation on Facebook is killing people - Biden](https://www.bbc.co.uk/news/world-us-canada-57870778) - The US president said a spike in Covid deaths among the unvaccinated was down to social media.
-3. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating mysterious illnesses among US officials in the Austrian capital.
+3. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of so-called "Havana syndrome" among US officials.
 4. ['Hollywood Ripper' Michael Gargiulo sentenced to death for murders](https://www.bbc.co.uk/news/world-us-canada-57871320) - Ashley Ellerin, 22, and Maria Bruno, 32, were both stabbed to death in their California homes.
 5. [Bianca Devins: Family sue NY officials over video footage of murdered teen](https://www.bbc.co.uk/news/world-us-canada-57867813) - Bianca Devins' family claim video of her having sex and also her murder were shared with the media.
 6. [US Navy: First woman passes elite training scheme](https://www.bbc.co.uk/news/world-us-canada-57865913) - The gruelling military training programme ends with a 72-hour event called the Tour.

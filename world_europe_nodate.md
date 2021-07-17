@@ -1,6 +1,6 @@
 1. [Europe floods: Rescuers race to find survivors as hundreds remain missing](https://www.bbc.co.uk/news/world-europe-57871308) - Crews scramble to reach victims of deadly floods in Germany and Belgium, where hundreds are missing.
 2. [Germany floods: Where are the worst-hit areas?](https://www.bbc.co.uk/news/world-europe-57862894) - Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.
-3. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating mysterious illnesses among US officials in the Austrian capital.
+3. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of so-called "Havana syndrome" among US officials.
 4. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
 5. [Climate change: Science failed to predict flood and heat intensity](https://www.bbc.co.uk/news/science-environment-57863205) - Scientists want a super-computer powerful enough to accurately project the most damaging extremes.
 6. [Belgium takes back mothers and children from Syria jihadist camps](https://www.bbc.co.uk/news/world-europe-57870808) - It is the biggest repatriation of suspected Islamic State members since its fall in 2019.
