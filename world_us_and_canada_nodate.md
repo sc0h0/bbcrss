@@ -1,7 +1,7 @@
 1. [Canada's vaccination rate overtakes US](https://www.bbc.co.uk/news/world-us-canada-57869947) - Canada had a slow start on vaccinations compared to its neighbour but has now caught up to the US.
 2. [Daca: Obama programme for child migrants ruled illegal](https://www.bbc.co.uk/news/world-us-canada-57871370) - A Texas judge says new applicants cannot be enrolled in Deferred Action for Childhood Arrivals.
 3. [Covid misinformation on Facebook is killing people - Biden](https://www.bbc.co.uk/news/world-us-canada-57870778) - The US president said a spike in Covid deaths among the unvaccinated was down to social media.
-4. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of so-called "Havana syndrome" among US officials.
+4. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of "Havana syndrome" among US officials.
 5. ['Hollywood Ripper' Michael Gargiulo sentenced to death for murders](https://www.bbc.co.uk/news/world-us-canada-57871320) - Ashley Ellerin, 22, and Maria Bruno, 32, were both stabbed to death in their California homes.
 6. [Bianca Devins: Family sue NY officials over video footage of murdered teen](https://www.bbc.co.uk/news/world-us-canada-57867813) - Bianca Devins' family claim video of her having sex and also her murder were shared with the media.
 7. [US Navy: First woman passes elite training scheme](https://www.bbc.co.uk/news/world-us-canada-57865913) - The gruelling military training programme ends with a 72-hour event called the Tour.

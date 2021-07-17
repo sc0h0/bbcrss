@@ -1,7 +1,7 @@
-1. [Health Secretary Sajid Javid tests positive for Covid](https://www.bbc.co.uk/news/uk-57874744) - He says he has had two jabs and so far his symptoms are "very mild" after he felt "groggy" on Friday.
+1. [Health secretary Sajid Javid tests positive for Covid](https://www.bbc.co.uk/news/uk-57874744) - Sajid Javid, who has had two jabs, says PCR test confirmed result but his symptoms are "very mild".
 2. [Covid: Travel firms angry over France quarantine rule](https://www.bbc.co.uk/news/uk-57874167) - The continued need for travellers to quarantine on arrival in England, Scotland and Wales is criticised.
 3. [Europe floods: Rescuers race to find survivors as hundreds remain missing](https://www.bbc.co.uk/news/world-europe-57871308) - A senior German politician has been criticised for laughing during a visit to affected areas.
-4. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of so-called "Havana syndrome" among US officials.
+4. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of "Havana syndrome" among US officials.
 5. [Hottest NI day ever as temperatures soar above 30C](https://www.bbc.co.uk/news/uk-northern-ireland-57875732) - Ballywatticock near Newtownards records 31.2 degrees, breaking a record set 45 years ago.
 6. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
 7. [Covid in Scotland: 'Heartless' quarantine decision to be re-examined](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57875096) - Laura Soutar is stuck in hotel isolation in Majorca while her father Iain, from Milngavie, has just days to live.
