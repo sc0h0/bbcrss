@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 23:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 23:21:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,11 +44,11 @@
             <pubDate>Sat, 17 Jul 2021 15:42:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hottest NI day ever as temperatures soar above 30C]]></title>
-            <description><![CDATA[Ballywatticock near Newtownards records 31.2 degrees, breaking a record set 45 years ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57875732</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57875732</guid>
-            <pubDate>Sat, 17 Jul 2021 16:28:56 GMT</pubDate>
+            <title><![CDATA[Long Covid funding to unearth new treatments]]></title>
+            <description><![CDATA[Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57869427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57869427</guid>
+            <pubDate>Sat, 17 Jul 2021 23:01:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cannes Film Festival: Titane wins top Palme d'Or prize]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57875578</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57875578</guid>
             <pubDate>Sat, 17 Jul 2021 21:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hottest NI day ever as temperatures soar above 30C]]></title>
+            <description><![CDATA[Ballywatticock near Newtownards records 31.2 degrees, breaking a record set 45 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57875732</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57875732</guid>
+            <pubDate>Sat, 17 Jul 2021 16:28:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: 'Heartless' quarantine decision to be re-examined]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57869947</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57869947</guid>
             <pubDate>Sat, 17 Jul 2021 16:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Sunshine in Wales puts indoor meet-ups on hold]]></title>
-            <description><![CDATA[Groups of six are now allowed to meet in homes - but not many want to be indoors.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57875082</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57875082</guid>
-            <pubDate>Sat, 17 Jul 2021 20:47:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blackpool councillor 'fat shamed' by MP over critical tweet]]></title>
@@ -114,6 +114,34 @@
             <pubDate>Sat, 17 Jul 2021 22:40:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19 tests while you wait in Israeli airport]]></title>
+            <description><![CDATA[Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57869807</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57869807</guid>
+            <pubDate>Sat, 17 Jul 2021 23:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joshi is swapping life in captivity for a new start in the jungle]]></title>
+            <description><![CDATA[After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57854071</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57854071</guid>
+            <pubDate>Sat, 17 Jul 2021 23:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TikTok: Dog training tips from 'small-town Essex boy']]></title>
+            <description><![CDATA[Adam's videos on looking after dogs have attracted more than a million followers during lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-57841659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-57841659</guid>
+            <pubDate>Sat, 17 Jul 2021 23:06:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'under the stars']]></title>
+            <description><![CDATA[A selection of striking images from our readers around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-57864019</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57864019</guid>
+            <pubDate>Sat, 17 Jul 2021 23:08:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Farne Islands: Puffins see visitors return after 18 months]]></title>
             <description><![CDATA[Tourists haven't been able to go to the Farne Islands for 18 months and it's changed the birds' behaviour.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57873055</link>
@@ -126,55 +154,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57875572</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57875572</guid>
             <pubDate>Sat, 17 Jul 2021 16:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How are young people responding to the jab?]]></title>
-            <description><![CDATA[The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57845115</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57845115</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The migrants hunger-striking for legal status in Belgium]]></title>
-            <description><![CDATA[More than 400 go without food demanding a clear path to residency in Belgium.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57867823</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57867823</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ros Atkins on… the North America heat waves]]></title>
-            <description><![CDATA[Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57868135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57868135</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Coping with opening-up anxiety]]></title>
-            <description><![CDATA[Lauren and Angelica-Jane fear the end of restrictions will be challenging for their mental health.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57869257</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57869257</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Week in pictures: 10 - 16 July 2021]]></title>
-            <description><![CDATA[A selection of powerful images taken around the world this week.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-57853779</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57853779</guid>
-            <pubDate>Fri, 16 Jul 2021 23:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amputee's win for prosthetics funding in Wales shows 'people power']]></title>
-            <description><![CDATA[David Bradley said amputees in Wales had been disadvantaged compared to the rest of the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57866765</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57866765</guid>
-            <pubDate>Fri, 16 Jul 2021 21:58:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cannes Film Festival 2021 highlights: Sun, stars and saliva]]></title>
-            <description><![CDATA[A-listers flocked to the Cannes Film Festival's red carpet, despite the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57864015</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57864015</guid>
-            <pubDate>Fri, 16 Jul 2021 18:07:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Under the skin of OnlyFans]]></title>
@@ -296,6 +275,34 @@
             <pubDate>Fri, 16 Jul 2021 15:22:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Why is social distancing coming to an end?]]></title>
+            <description><![CDATA[Social distancing rules are changing across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Fri, 16 Jul 2021 08:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid map: Coronavirus cases, deaths, vaccinations by country]]></title>
+            <description><![CDATA[Key maps and charts explaining how the virus has spread around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51235105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Fri, 16 Jul 2021 10:08:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What do over-18s need to know about the vaccine?]]></title>
+            <description><![CDATA[The vaccine rollout is now available for younger adults. What do they need to know about getting jabbed?]]></description>
+            <link>https://www.bbc.co.uk/news/health-57273875</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
+            <pubDate>Fri, 16 Jul 2021 16:28:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sat, 17 Jul 2021 16:24:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Covid passports': How can the NHS Covid Pass prove I've had both jabs?]]></title>
             <description><![CDATA[Clubbers and people attending mass events in England could have to prove they've had both Covid jabs.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
@@ -308,20 +315,6 @@
             <link>https://www.bbc.co.uk/news/explainers-53917432</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53917432</guid>
             <pubDate>Wed, 14 Jul 2021 09:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid map: Coronavirus cases, deaths, vaccinations by country]]></title>
-            <description><![CDATA[Key maps and charts explaining how the virus has spread around the world.]]></description>
-            <link>https://www.bbc.co.uk/news/world-51235105</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
-            <pubDate>Fri, 16 Jul 2021 10:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sat, 17 Jul 2021 16:24:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What's changing when restrictions end on 19 July?]]></title>
@@ -359,39 +352,39 @@
             <pubDate>Wed, 23 Jun 2021 14:28:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Molesey Lock: Lightning-strike selfie lands siblings in hospital]]></title>
-            <description><![CDATA[Rachel, Isobel and Andrew Jobson were injured as they took the photo during a thunderstorm.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57825759</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57825759</guid>
-            <pubDate>Tue, 13 Jul 2021 16:51:08 GMT</pubDate>
+            <title><![CDATA[Amber list: 'I'm going to Ibiza by any means necessary']]></title>
+            <description><![CDATA[The Balearic Islands joining the amber travel list for England is causing a dilemma for some holiday makers.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57856616</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57856616</guid>
+            <pubDate>Fri, 16 Jul 2021 09:06:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How your driving might reveal early signs of Alzheimer's]]></title>
-            <description><![CDATA[Research shows how small changes in the way you drive could expose preclinical signs of disease.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57670006</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57670006</guid>
-            <pubDate>Mon, 12 Jul 2021 23:02:27 GMT</pubDate>
+            <title><![CDATA[Covid: What will mask makers do now?]]></title>
+            <description><![CDATA[People around the country have made and sold masks during the pandemic. Here's what they'll do next.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57737666</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57737666</guid>
+            <pubDate>Thu, 15 Jul 2021 00:06:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Neptune' appears in the waves during storm in Newhaven]]></title>
-            <description><![CDATA[The image resembling the Roman god of water was captured as waves crashed over a harbour wall.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-57770547</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57770547</guid>
-            <pubDate>Thu, 08 Jul 2021 17:17:52 GMT</pubDate>
+            <title><![CDATA[Snail mail: Postcard sent in 1989 finally delivered]]></title>
+            <description><![CDATA[Andrew Leslie's message to his dad, sent from Michigan in 1989, finally reaches his Grimsby home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-57837144</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57837144</guid>
+            <pubDate>Thu, 15 Jul 2021 12:02:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Couple to participate in every Olympic sport]]></title>
-            <description><![CDATA[The sporting challenge is in memory of Stuart Bates' brother, who died of motor neurone disease.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-57698186</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-57698186</guid>
-            <pubDate>Mon, 12 Jul 2021 08:16:39 GMT</pubDate>
+            <title><![CDATA[Virgin Galactic: Richard Branson's long, winding path to space]]></title>
+            <description><![CDATA[The BBC tracks the long, winding road to Sir Richard Branson's flight to the edge of space.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57798167</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57798167</guid>
+            <pubDate>Sun, 11 Jul 2021 16:47:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Super Mario 64 game sells for record-breaking $1.5m at auction]]></title>
-            <description><![CDATA[An original Zelda cartridge and a Mario game set successive records at auction within days.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57804089</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57804089</guid>
-            <pubDate>Mon, 12 Jul 2021 10:33:10 GMT</pubDate>
+            <title><![CDATA[CBeebies Bedtime Stories: Why Hollywood stars like Ryan Reynolds are lining up]]></title>
+            <description><![CDATA[Other stars to have taken part include Tom Hardy, Dolly Parton and Sir Elton John. Here's why.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57827931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57827931</guid>
+            <pubDate>Thu, 15 Jul 2021 23:07:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
