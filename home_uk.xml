@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 17:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 17:38:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,10 +31,10 @@
         </item>
         <item>
             <title><![CDATA[Europe floods: Rescuers race to find survivors as hundreds remain missing]]></title>
-            <description><![CDATA[Crews scramble to reach victims of deadly floods in Germany and Belgium, where hundreds are missing.]]></description>
+            <description><![CDATA[Crews scramble to reach flood victims in Germany and Belgium, with the death toll still expected to rise.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57871308</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57871308</guid>
-            <pubDate>Sat, 17 Jul 2021 11:16:40 GMT</pubDate>
+            <pubDate>Sat, 17 Jul 2021 17:20:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hottest NI day ever as temperatures soar above 30C]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Sat, 17 Jul 2021 15:09:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google Maps updates 'dangerous' Ben Nevis route]]></title>
-            <description><![CDATA[The firm insists its map service did not direct walkers to a "potentially fatal" trail - but makes changes to avoid confusion.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</guid>
-            <pubDate>Sat, 17 Jul 2021 11:11:09 GMT</pubDate>
+            <title><![CDATA[Canada's vaccination rate overtakes US]]></title>
+            <description><![CDATA[Canada had a slow start on vaccinations compared to its neighbour but has now caught up to the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57869947</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57869947</guid>
+            <pubDate>Sat, 17 Jul 2021 16:48:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Sunshine in Wales puts indoor meet-ups on hold]]></title>
@@ -100,11 +100,11 @@
             <pubDate>Sat, 17 Jul 2021 09:54:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[British Grand Prix: Max Verstappen wins sprint qualifying to claim pole position for race]]></title>
-            <description><![CDATA[Red Bull's Max Verstappen will start the British Grand Prix from pole position after winning Formula 1's new trial sprint race.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57875745</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57875745</guid>
-            <pubDate>Sat, 17 Jul 2021 16:08:24 GMT</pubDate>
+            <title><![CDATA[Google Maps updates 'dangerous' Ben Nevis route]]></title>
+            <description><![CDATA[The firm insists its map service did not direct walkers to a "potentially fatal" trail - but makes changes to avoid confusion.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</guid>
+            <pubDate>Sat, 17 Jul 2021 11:11:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How are young people responding to the jab?]]></title>
@@ -133,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/health-57869257</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57869257</guid>
             <pubDate>Fri, 16 Jul 2021 23:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: 'French holiday chaos', and 'world watching' PM]]></title>
-            <description><![CDATA[Several of Saturday's papers lead with the last-minute changes to quarantine advice for travellers.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57870838</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57870838</guid>
-            <pubDate>Sat, 17 Jul 2021 04:47:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Week in pictures: 10 - 16 July 2021]]></title>
@@ -226,6 +219,13 @@
             <pubDate>Fri, 16 Jul 2021 16:04:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Verstappen wins first ever F1 sprint to take pole for British GP]]></title>
+            <description><![CDATA[Red Bull's Max Verstappen will start the British Grand Prix from pole position after winning Formula 1's new trial sprint race.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57875745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57875745</guid>
+            <pubDate>Sat, 17 Jul 2021 16:08:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[St Helens beat Castleford to win Challenge Cup for first time in 13 years]]></title>
             <description><![CDATA[St Helens come from behind to beat Castleford at Wembley and win the Challenge Cup for the first time in 13 years.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/57828390</link>
@@ -234,24 +234,17 @@
         </item>
         <item>
             <title><![CDATA[Van Aert wins penultimate stage as Pogacar set for Tour de France victory]]></title>
-            <description><![CDATA[Tadej Pogacar is set to win the Tour de France after finishing seventh in the time trial on the penultimate stage, which was win by Wout van Aert.]]></description>
+            <description><![CDATA[Tadej Pogacar is set to win the Tour de France after finishing seventh in the time trial on a penultimate stage won by Wout van Aert.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/57855539</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/57855539</guid>
-            <pubDate>Sat, 17 Jul 2021 17:05:08 GMT</pubDate>
+            <pubDate>Sat, 17 Jul 2021 17:24:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Classy Argentina outclass depleted Wales to win series]]></title>
-            <description><![CDATA[Wales end their season with a 33-11 defeat against an impressive Argentina side in the second Test in Cardiff.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57861293</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57861293</guid>
-            <pubDate>Sat, 17 Jul 2021 15:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Open 2021: Jazz Janewattananond hits creative bunker shot]]></title>
-            <description><![CDATA[Thailand's Jazz Janewattananond hits a creative bunker shot on his knees on the third day at The Open 2021 at Royal St. George's.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/golf/57875412</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/57875412</guid>
-            <pubDate>Sat, 17 Jul 2021 14:52:59 GMT</pubDate>
+            <title><![CDATA[Jimenez makes long-awaited return and Vieira's Palace win - pre-season round-up]]></title>
+            <description><![CDATA[Raul Jimenez made his long-awaited return from injury as Wolves lost at Crewe, while Palace and Chelsea enjoyed friendly wins]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57869739</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57869739</guid>
+            <pubDate>Sat, 17 Jul 2021 17:19:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
