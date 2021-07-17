@@ -8,7 +8,7 @@
 8. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
 9. [US wants giant radar in UK to track space objects](https://www.bbc.co.uk/news/uk-57866734) - It comes amid growing concern about congestion, competition and even an arms race in space.
 10. [UK looks to extend ivory ban to hippos and other animals](https://www.bbc.co.uk/news/uk-politics-57867935) - Ministers say elephants are not the only animals at risk from hunters, as they launch consultation.
-11. ['Hollywood Ripper' Michael Gargiulo sentenced to death for murders](https://www.bbc.co.uk/news/world-us-canada-57871320) - The case drew attention as one of the victims was about to go on a date with actor Ashton Kutcher.
+11. ['Hollywood Ripper' Michael Gargiulo sentenced to death for murders](https://www.bbc.co.uk/news/world-us-canada-57871320) - Ashley Ellerin, 22, and Maria Bruno, 32, were both stabbed to death in their California homes.
 12. [Bianca Devins: Family sue NY officials over video footage of murdered teen](https://www.bbc.co.uk/news/world-us-canada-57867813) - Bianca Devins' family claim video of her having sex and also her murder were shared with the media.
 13. [The Papers: 'French holiday chaos', and 'world watching' PM](https://www.bbc.co.uk/news/blogs-the-papers-57870838) - Several of Saturday's papers lead with the last-minute changes to quarantine advice for travellers.
 14. [Covid vaccine: How are young people responding to the jab?](https://www.bbc.co.uk/news/uk-england-london-57845115) - The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?
@@ -20,7 +20,7 @@
 20. [South Africa Zuma riots: What's behind the violence and looting?](https://www.bbc.co.uk/news/world-africa-57860998) - Some analysts say the violence wasn't spontaneous anger but a deliberate strategy of sabotage.
 21. [Coronavirus doctor's diary: 'Not having the vaccine is the biggest mistake of my life’](https://www.bbc.co.uk/news/stories-57866661) - The number of Covid patients in Bradford Royal Infirmary is rising sharply - and half are unvaccinated.
 22. [Covid-19: Second doses run dry in Brazil's scramble to vaccinate](https://www.bbc.co.uk/news/world-latin-america-57819263) - Many are struggling to source their second dose of the Covid-19 jab in one of the worst-hit countries.
-23. ['Travelling fairground prepared me to be A&E doctor'](https://www.bbc.co.uk/news/uk-england-sussex-57643707) - Doctor John Castle says his nomadic childhood helped prepare him for the pressures of the pandemic.
+23. ['Travelling fairground life prepared me to be A&E doctor'](https://www.bbc.co.uk/news/uk-england-sussex-57643707) - Doctor John Castle says his nomadic childhood helped prepare him for the pressures of the pandemic.
 24. [Why the Scouts are launching a money badge after Covid](https://www.bbc.co.uk/news/business-57863156) - Why Scouts are lending a hand on tackling financial literacy in the wake of the pandemic.
 25. [Stephen Fretwell: 'Gavin and Stacey song was as good as a part-time job'](https://www.bbc.co.uk/news/entertainment-arts-57812272) - Stephen Fretwell on his hit TV show theme tune and why his 13-year music hiatus has come to an end.
 26. [Germany floods: How a country was taken by surprise](https://www.bbc.co.uk/news/world-europe-57867773) - Amid the despair and mounting death toll, people are questioning how this could have happened.

@@ -3,7 +3,7 @@
 3. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
 4. [South African says riots over Zuma jailing pre-planned - Cyril Ramaphosa](https://www.bbc.co.uk/news/world-africa-57863558) - At least 212 people are now known to have died in unrest sparked by the jailing of Jacob Zuma.
 5. [Belgium takes back mothers and children from Syria jihadist camps](https://www.bbc.co.uk/news/world-europe-57870808) - It is the biggest repatriation of suspected Islamic State members since its fall in 2019.
-6. ['Hollywood Ripper' Michael Gargiulo sentenced to death for murders](https://www.bbc.co.uk/news/world-us-canada-57871320) - The case drew attention as one of the victims was about to go on a date with actor Ashton Kutcher.
+6. ['Hollywood Ripper' Michael Gargiulo sentenced to death for murders](https://www.bbc.co.uk/news/world-us-canada-57871320) - Ashley Ellerin, 22, and Maria Bruno, 32, were both stabbed to death in their California homes.
 7. [Bianca Devins: Family sue NY officials over video footage of murdered teen](https://www.bbc.co.uk/news/world-us-canada-57867813) - Bianca Devins' family claim video of her having sex and also her murder were shared with the media.
 8. [Cannes Film Festival 2021 highlights: Sun, stars and saliva](https://www.bbc.co.uk/news/entertainment-arts-57864015) - A-listers flocked to the Cannes Film Festival's red carpet, despite the pandemic.
 9. [US Navy: First woman passes elite training scheme](https://www.bbc.co.uk/news/world-us-canada-57865913) - The gruelling military training programme ends with a 72-hour event called the Tour.
