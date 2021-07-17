@@ -1,12 +1,12 @@
 1. [Covid rules in Wales: No outdoor limits and six can meet at home](https://www.bbc.co.uk/news/uk-wales-57866006) - Covid rules are relaxed and the law restricting the number people meeting outside is scrapped.
-2. [Child sunburn cases at Swansea's Welsh burns hospital prompts warning](https://www.bbc.co.uk/news/uk-wales-57866642) - Parents warned to apply sun cream 'liberally' on children as hot temperatures set to soar.
+2. [Covid: Sunshine in Wales puts indoor meet-ups on hold](https://www.bbc.co.uk/news/uk-wales-57875082) - Groups of six are now allowed to meet in homes - but not many want to be indoors.
 3. [Fire fund 'too little, too late' for high-rise](https://www.bbc.co.uk/news/uk-wales-57866470) - Campaigners say plans to pay for fire safety surveys in high-rise flats do not go far enough.
 4. [Amputee wins better prosthetics funding access in Wales](https://www.bbc.co.uk/news/uk-wales-54840455) - David Bradley argued patients in Wales were not getting fair access to better artificial limbs.
 5. [Cardiff's Jewish history brought to life by virtual trail](https://www.bbc.co.uk/news/uk-wales-57826282) - The history of the city's Jewish community has been brought to life by a virtual trail.
-6. [Cardiff police arrest man, 19, after Bute Park sex assault](https://www.bbc.co.uk/news/uk-wales-57866641) - The alleged attack happened in the early hours in one of the biggest parks in Cardiff.
-7. [Llandudno anti-lockdown protest organiser fined £5K](https://www.bbc.co.uk/news/uk-wales-57867482) - Protester fined more than £5,000 for organising rally against lockdown and breaching Covid laws.
-8. [Ironman Wales cancelled for 2021 over Covid-19 concerns](https://www.bbc.co.uk/sport/triathlon/57864496) - The Ironman Wales triathlon event due to be held in Pembrokeshire is cancelled for the second successive year because of Covid-19.
-9. [GB News says presenter Guto Harri breached standards by taking the knee](https://www.bbc.co.uk/news/entertainment-arts-57862332) - Guto Harri is not expected to appear for the rest of the summer after making the gesture on air.
+6. [Child sunburn cases at Swansea's Welsh burns hospital prompts warning](https://www.bbc.co.uk/news/uk-wales-57866642) - Parents warned to apply sun cream 'liberally' on children as hot temperatures set to soar.
+7. [Cardiff police arrest man, 19, after Bute Park sex assault](https://www.bbc.co.uk/news/uk-wales-57866641) - The alleged attack happened in the early hours in one of the biggest parks in Cardiff.
+8. [Llandudno anti-lockdown protest organiser fined £5K](https://www.bbc.co.uk/news/uk-wales-57867482) - Protester fined more than £5,000 for organising rally against lockdown and breaching Covid laws.
+9. [Ironman Wales cancelled for 2021 over Covid-19 concerns](https://www.bbc.co.uk/sport/triathlon/57864496) - The Ironman Wales triathlon event due to be held in Pembrokeshire is cancelled for the second successive year because of Covid-19.
 10. [One in 360 estimated to have Covid in Wales](https://www.bbc.co.uk/news/uk-wales-57867323) - There is an uncertain trend for Covid infections in Wales, as it rises elsewhere in the UK.
 11. [Amputee's win for prosthetics funding in Wales shows 'people power'](https://www.bbc.co.uk/news/uk-wales-57866765) - David Bradley said amputees in Wales had been disadvantaged compared to the rest of the UK.
 12. [Covid: Why rinks opening in Wales is on ice](https://www.bbc.co.uk/news/uk-wales-57866643) - Although ice rinks can re-open from Saturday, Ice Arena Wales will be ready from 1 August.
@@ -20,6 +20,6 @@
 20. [Tokyo 2020: Athletes 'probably very worried' after positive Covid test in village](https://www.bbc.co.uk/sport/olympics/57872739) - The chief of the Tokyo Olympics accepts athletes are "probably very worried", after a Games-related organiser became the first person to test positive for Covid-19 in the athletes' village.
 21. [The Hundred: Pick a competition-winning women's Hundred XI](https://www.bbc.co.uk/sport/cricket/57839022) - Before the inaugural women's Hundred competition, pick a world-class XI from our list of stars.
 22. [Rheolau Covid Cymru yn llacio eto ddydd Sadwrn](https://www.bbc.co.uk/newyddion/57852767) - Bydd cyfyngiadau coronafeirws yn dechrau lleddfu wrth i'r wlad symud yn swyddogol i lefel rhybudd 1.
-23. [Cynllun tân fflatiau yn 'rhy ychydig, rhy hwyr'](https://www.bbc.co.uk/newyddion/57852765) - Ymgyrchwyr yn beirniadu cynllun y llywodraeth i ariannu arolygon diogelwch tân mewn blociau o fflatiau.
-24. [Oes aur newydd i draethau’r gogledd?](https://www.bbc.co.uk/newyddion/57862924) - Gobaith bod rhai o'r trefi glan môr a fu'n hynod boblogaidd yn y gorffennol ar fin codi 'nôl ar eu traed.
+23. [Gwyliau'r haf yn dechrau gyda thywydd tanbaid yng Nghymru](https://www.bbc.co.uk/newyddion/57873798) - Cymru fydd un o'r llefydd poethaf yn y DU dros y penwythnos, gyda disgwyl iddi gyrraedd 33C yn y de.
+24. [Cynllun tân fflatiau yn 'rhy ychydig, rhy hwyr'](https://www.bbc.co.uk/newyddion/57852765) - Ymgyrchwyr yn beirniadu cynllun y llywodraeth i ariannu arolygon diogelwch tân mewn blociau o fflatiau.
 25. [Gwlad yr Haf yn rhoi cweir i Forgannwg yn y T20](https://www.bbc.co.uk/newyddion/57872904) - Y Cymry'n colli o 74 rhediad yng Nghaerdydd, gan ddod â thymor siomedig Morgannwg yn y T20 i ben.

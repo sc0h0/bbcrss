@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 14:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 14:51:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Sat, 17 Jul 2021 13:25:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Child sunburn cases at Swansea's Welsh burns hospital prompts warning]]></title>
-            <description><![CDATA[Parents warned to apply sun cream 'liberally' on children as hot temperatures set to soar.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57866642</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57866642</guid>
-            <pubDate>Fri, 16 Jul 2021 21:46:56 GMT</pubDate>
+            <title><![CDATA[Covid: Sunshine in Wales puts indoor meet-ups on hold]]></title>
+            <description><![CDATA[Groups of six are now allowed to meet in homes - but not many want to be indoors.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57875082</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57875082</guid>
+            <pubDate>Sat, 17 Jul 2021 14:41:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fire fund 'too little, too late' for high-rise]]></title>
@@ -51,6 +51,13 @@
             <pubDate>Sat, 17 Jul 2021 12:35:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Child sunburn cases at Swansea's Welsh burns hospital prompts warning]]></title>
+            <description><![CDATA[Parents warned to apply sun cream 'liberally' on children as hot temperatures set to soar.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57866642</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57866642</guid>
+            <pubDate>Fri, 16 Jul 2021 21:46:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cardiff police arrest man, 19, after Bute Park sex assault]]></title>
             <description><![CDATA[The alleged attack happened in the early hours in one of the biggest parks in Cardiff.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57866641</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/sport/triathlon/57864496</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/triathlon/57864496</guid>
             <pubDate>Fri, 16 Jul 2021 16:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GB News says presenter Guto Harri breached standards by taking the knee]]></title>
-            <description><![CDATA[Guto Harri is not expected to appear for the rest of the summer after making the gesture on air.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57862332</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57862332</guid>
-            <pubDate>Fri, 16 Jul 2021 17:11:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One in 360 estimated to have Covid in Wales]]></title>
@@ -170,18 +170,18 @@
             <pubDate>Sat, 17 Jul 2021 07:05:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gwyliau'r haf yn dechrau gyda thywydd tanbaid yng Nghymru]]></title>
+            <description><![CDATA[Cymru fydd un o'r llefydd poethaf yn y DU dros y penwythnos, gyda disgwyl iddi gyrraedd 33C yn y de.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57873798</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57873798</guid>
+            <pubDate>Sat, 17 Jul 2021 14:42:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cynllun tân fflatiau yn 'rhy ychydig, rhy hwyr']]></title>
             <description><![CDATA[Ymgyrchwyr yn beirniadu cynllun y llywodraeth i ariannu arolygon diogelwch tân mewn blociau o fflatiau.]]></description>
             <link>https://www.bbc.co.uk/newyddion/57852765</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57852765</guid>
             <pubDate>Sat, 17 Jul 2021 07:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oes aur newydd i draethau’r gogledd?]]></title>
-            <description><![CDATA[Gobaith bod rhai o'r trefi glan môr a fu'n hynod boblogaidd yn y gorffennol ar fin codi 'nôl ar eu traed.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57862924</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57862924</guid>
-            <pubDate>Sat, 17 Jul 2021 07:41:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gwlad yr Haf yn rhoi cweir i Forgannwg yn y T20]]></title>

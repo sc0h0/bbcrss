@@ -1,4 +1,4 @@
-1. [Brendan Óg Duffy: Monaghan GAA U20s captain dies in car crash](https://www.bbc.co.uk/news/world-europe-57873315) - Brendan Óg Duffy lost his life just hours after captaining his county team to a semi-final win.
+1. [Brendan Óg Duffy: Monaghan GAA U20s captain dies in car crash](https://www.bbc.co.uk/news/world-europe-57873315) - Brendan Óg Duffy lost his life just hours after captaining the Monaghan team to a semi-final win.
 2. [Covid-19: Two more Covid-linked deaths and 1,402 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-57874453) - Stormont's Department of Health says the latest deaths have been reported in the past 24 hours.
 3. [Pastor James McConnell dies aged 84 after long illness](https://www.bbc.co.uk/news/uk-northern-ireland-57873316) - The Belfast preacher's death is announced by Whitewell Tabernacle, the church which he founded.
 4. [Belfast flats evacuated due to underground cable fire](https://www.bbc.co.uk/news/uk-northern-ireland-57874461) - People are asked to leave the building on Castlereagh street in east Belfast "as a precaution".

@@ -1,4 +1,4 @@
-1. [Health Secretary Sajid Javid tests positive for Covid](https://www.bbc.co.uk/news/uk-57874744) - He says he has had two jabs and so far his symptoms are "very mild" after feeling "groggy" on Friday.
+1. [Health Secretary Sajid Javid tests positive for Covid](https://www.bbc.co.uk/news/uk-57874744) - He says he has had two jabs and so far his symptoms are "very mild" after he felt "groggy" on Friday.
 2. [Covid: Travel firms angry over France quarantine rule](https://www.bbc.co.uk/news/uk-57874167) - The continued need for travellers to quarantine on arrival in England and Wales undermines confidence, tourism groups say.
 3. [Europe floods: Rescuers race to find survivors as hundreds remain missing](https://www.bbc.co.uk/news/world-europe-57871308) - Crews scramble to reach victims of deadly floods in Germany and Belgium, where hundreds are missing.
 4. [England plans biggest winter flu vaccine rollout](https://www.bbc.co.uk/news/health-57867955) - Free jabs will be offered to more than 35 million people, including more teenagers than ever before.
