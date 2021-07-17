@@ -1,4 +1,4 @@
-1. [Brendan Óg Ó Dufaigh: Monaghan U-20s GAA captain dies in crash](https://www.bbc.co.uk/news/world-europe-57873315) - Brendan Óg Ó Dufaigh lost his life just hours after he captained his county to a semi-final win.
+1. [Brendan Óg Duffy: Monaghan GAA U20s captain dies in car crash](https://www.bbc.co.uk/news/world-europe-57873315) - Brendan Óg Duffy lost his life just hours after captaining his county team to a semi-final win.
 2. [Covid-19: GAA stadium gets mobile vaccine pop-up](https://www.bbc.co.uk/news/uk-northern-ireland-57863840) - Anyone aged 18 or over can get a first Pfizer dose at Saturday's pop-up clinic.
 3. [Pastor James McConnell dies aged 84 after long illness](https://www.bbc.co.uk/news/uk-northern-ireland-57873316) - The Belfast preacher's death is announced by Whitewell Tabernacle, the church which he founded.
 4. [Egyptian vulture spotted in Ireland for the first time](https://www.bbc.co.uk/news/world-europe-57860608) - The endangered Egyptian vulture paid a flying visit to the village of Dunfanaghy in County Donegal.
