@@ -44,6 +44,36 @@ jobs:
     - name: Fetch latest world RSS
       run: |-
         curl http://feeds.bbci.co.uk/news/world/rss.xml > world.xml
+    - name: Fetch latest world/africa RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/world/africa/rss.xml > world_africa.xml
+    - name: Fetch latest world/asia RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/world/asia/rss.xml > world_asia.xml
+    - name: Fetch latest world/europe RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/world/europe/rss.xml > world_europe.xml
+    - name: Fetch latest world/latin_america RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/world/latin_america/rss.xml > world_latin_america.xml
+    - name: Fetch latest world/middle_east RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/world/middle_east/rss.xml > world_middle_east.xml
+    - name: Fetch latest world/us_and_canada RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml > world_us_and_canada.xml
+    - name: Fetch latest england RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/england/rss.xml > england.xml
+    - name: Fetch latest northern_ireland RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/northern_ireland/rss.xml > northern_ireland.xml
+    - name: Fetch latest scotland RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/scotland/rss.xml > scotland.xml
+    - name: Fetch latest wales RSS
+      run: |-
+        curl http://feeds.bbci.co.uk/news/wales/rss.xml > wales.xml
 
 
     # Transform
@@ -109,6 +139,76 @@ jobs:
     - name: Run world XSLT (no date)
       run: |-
         xsltproc rss_nodate.xslt world.xml > world_nodate.md   
+
+    - name: Run world/africa XSLT
+      run: |-
+        xsltproc rss.xslt world_africa.xml > world_africa.md
+    - name: Run world/africa XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt world_africa.xml > world_africa_nodate.md   
+
+    - name: Run world/asia XSLT
+      run: |-
+        xsltproc rss.xslt world_asia.xml > world_asia.md
+    - name: Run world/asia XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt world_asia.xml > world_asia_nodate.md   
+
+    - name: Run world/europe XSLT
+      run: |-
+        xsltproc rss.xslt world_europe.xml > world_europe.md
+    - name: Run world/europe XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt world_europe.xml > world_europe_nodate.md
+
+    - name: Run world/latin_america XSLT
+      run: |-
+        xsltproc rss.xslt world_latin_america.xml > world_latin_america.md
+    - name: Run world/latin_america XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt world_latin_america.xml > world_latin_america_nodate.md   
+
+    - name: Run world/middle_east XSLT
+      run: |-
+        xsltproc rss.xslt world_middle_east.xml > world_middle_east.md
+    - name: Run world/middle_east XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt world_middle_east.xml > world_middle_east_nodate.md   
+
+    - name: Run world/us_and_canada XSLT
+      run: |-
+        xsltproc rss.xslt world_us_and_canada.xml > world_us_and_canada.md
+    - name: Run world/us_and_canada XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt world_us_and_canada.xml > world_us_and_canada_nodate.md   
+
+    - name: Run england XSLT
+      run: |-
+        xsltproc rss.xslt england.xml > england.md
+    - name: Run england XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt england.xml > england_nodate.md   
+
+    - name: Run northern_ireland XSLT
+      run: |-
+        xsltproc rss.xslt northern_ireland.xml > northern_ireland.md
+    - name: Run northern_ireland XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt northern_ireland.xml > northern_ireland_nodate.md  
+
+    - name: Run scotland XSLT
+      run: |-
+        xsltproc rss.xslt scotland.xml > scotland.md
+    - name: Run scotland XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt scotland.xml > scotland_nodate.md  
+
+    - name: Run wales XSLT
+      run: |-
+        xsltproc rss.xslt wales.xml > wales.md
+    - name: Run wales XSLT (no date)
+      run: |-
+        xsltproc rss_nodate.xslt wales.xml > wales_nodate.md  
 
 
 
