@@ -1,5 +1,5 @@
 1. [Health secretary Sajid Javid tests positive for Covid](https://www.bbc.co.uk/news/uk-57874744) - Sajid Javid, who has had two jabs, says PCR test confirmed result but his symptoms are "very mild".
-2. [Covid: Travel firms angry over France quarantine rule](https://www.bbc.co.uk/news/uk-57874167) - The continued need for travellers to quarantine on arrival in England, Scotland and Wales is criticised.
+2. [Covid: Vaccine offered to all UK adults, says government](https://www.bbc.co.uk/news/uk-57876608) - More than two-thirds of people have had both doses as England prepares for rules to ease on Monday.
 3. [Europe floods: Rescuers race to find survivors as hundreds remain missing](https://www.bbc.co.uk/news/world-europe-57871308) - A senior German politician has been criticised for laughing during a visit to affected areas.
 4. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of "Havana syndrome" among US officials.
 5. [Hottest NI day ever as temperatures soar above 30C](https://www.bbc.co.uk/news/uk-northern-ireland-57875732) - Ballywatticock near Newtownards records 31.2 degrees, breaking a record set 45 years ago.
@@ -9,7 +9,7 @@
 9. [Canada's vaccination rate overtakes US](https://www.bbc.co.uk/news/world-us-canada-57869947) - Canada had a slow start on vaccinations compared to its neighbour but has now caught up to the US.
 10. [Covid: Sunshine in Wales puts indoor meet-ups on hold](https://www.bbc.co.uk/news/uk-wales-57875082) - Groups of six are now allowed to meet in homes - but not many want to be indoors.
 11. [Blackpool councillor 'fat shamed' by MP over critical tweet](https://www.bbc.co.uk/news/uk-england-lancashire-57873811) - A Blackpool councillor claims a comment one of the town's MPs made in reply to his tweet was "nasty".
-12. [First Covid case reported in Tokyo Olympic village](https://www.bbc.co.uk/sport/olympics/57872739) - The chief of the Tokyo Olympics accepts athletes are "probably very worried", after a Games-related organiser became the first person to test positive for Covid-19 in the athletes' village.
+12. [Covid: Travel firms angry over France quarantine rule](https://www.bbc.co.uk/news/uk-57874167) - The continued need for travellers to quarantine on arrival in England, Scotland and Wales is criticised.
 13. [The Open 2021: Louis Oosthuizen takes one-stroke lead into final day](https://www.bbc.co.uk/sport/golf/57876628) - Louis Oosthuizen takes a one-stroke lead into the final day of The Open at Royal St George's after holding off Collin Morikawa.
 14. [The Papers: 'Freedumb day' and 'No 10 pingdemic'](https://www.bbc.co.uk/news/blogs-the-papers-57877279) - The front pages focus on the growing criticism facing the government over Monday's easing of Covid rules in England.
 15. [Farne Islands: Puffins see visitors return after 18 months](https://www.bbc.co.uk/news/uk-57873055) - Tourists haven't been able to go to the Farne Islands for 18 months and it's changed the birds' behaviour.
