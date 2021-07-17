@@ -1,5 +1,5 @@
-1. [Why the Scouts are launching a money badge after Covid](https://www.bbc.co.uk/news/business-57863156) - Why Scouts are lending a hand on tackling financial literacy in the wake of the pandemic.
-2. [Craft beer industry accused of being 'sexist boys' club'](https://www.bbc.co.uk/news/business-57719831) - Independent beer makers have promised reform following allegations of discrimination and harassment.
+1. [Craft beer industry accused of being 'sexist boys' club'](https://www.bbc.co.uk/news/business-57719831) - Independent beer makers have promised reform following allegations of discrimination and harassment.
+2. [Why the Scouts are launching a money badge after Covid](https://www.bbc.co.uk/news/business-57863156) - Why Scouts are lending a hand on tackling financial literacy in the wake of the pandemic.
 3. [Uber will continue to require riders to wear masks](https://www.bbc.co.uk/news/business-57865707) - The ride-hailing firm says passengers will still need to wear a face covering after rules relax on Monday.
 4. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
 5. [Warnings grow about staff forced to self-isolate](https://www.bbc.co.uk/news/business-57820537) - Alarm mounts over fears of a "surge" in workers and medical staff forced to quarantine after being "pinged".

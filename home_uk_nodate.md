@@ -1,6 +1,6 @@
 1. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
 2. [Europe floods: Rescuers race to find survivors as hundreds remain missing](https://www.bbc.co.uk/news/world-europe-57871308) - Crews scramble to reach victims of deadly floods in Germany and Belgium, where hundreds are missing.
-3. [UK plans biggest flu vaccine rollout this winter](https://www.bbc.co.uk/news/health-57867955) - Free vaccines will be offered to more than 35 million people, including more teenagers than ever before.
+3. [England plans biggest winter flu vaccine rollout](https://www.bbc.co.uk/news/health-57867955) - Free jabs will be offered to more than 35 million people, including more teenagers than ever before.
 4. [Covid: Six people can meet in homes as Welsh lockdown rules ease](https://www.bbc.co.uk/news/uk-wales-57866006) - Lockdown relaxed as law restricting the number people meeting outside is scrapped in Wales.
 5. [Covid-19: France quarantine changes and opening-up anxiety](https://www.bbc.co.uk/news/uk-57871413) - Five things you need to know about the coronavirus pandemic this Saturday morning.
 6. [Covid misinformation on Facebook is killing people - Biden](https://www.bbc.co.uk/news/world-us-canada-57870778) - The US president said a spike in Covid deaths among the unvaccinated was down to social media.

@@ -1,4 +1,4 @@
-1. [UK plans biggest flu vaccine rollout this winter](https://www.bbc.co.uk/news/health-57867955) - Free vaccines will be offered to more than 35 million people, including more teenagers than ever before.
+1. [England plans biggest winter flu vaccine rollout](https://www.bbc.co.uk/news/health-57867955) - Free jabs will be offered to more than 35 million people, including more teenagers than ever before.
 2. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
 3. [Coronavirus doctor's diary: 'Not having the vaccine is the biggest mistake of my life’](https://www.bbc.co.uk/news/stories-57866661) - The number of Covid patients in Bradford Royal Infirmary is rising sharply - and half are unvaccinated.
 4. [Covid: UK daily cases pass 50,000 for first time since January](https://www.bbc.co.uk/news/uk-57867990) - It comes after England's chief medical officer warned hospitalisations could hit "scary numbers".
