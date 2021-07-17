@@ -7,9 +7,9 @@
 7. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
 8. [US wants giant radar in UK to track space objects](https://www.bbc.co.uk/news/uk-57866734) - It comes amid growing concern about congestion, competition and even an arms race in space.
 9. [UK looks to extend ivory ban to hippos and other animals](https://www.bbc.co.uk/news/uk-politics-57867935) - Ministers say elephants are not the only animals at risk from hunters, as they launch consultation.
-10. [Bianca Devins: Family sue NY officials over video footage of murdered teen](https://www.bbc.co.uk/news/world-us-canada-57867813) - Bianca Devins' family claim video of her having sex and also her murder were shared with the media.
-11. [Covid: UK daily cases pass 50,000 for first time since January](https://www.bbc.co.uk/news/uk-57867990) - It comes after England's chief medical officer warned hospitalisations could hit "scary numbers".
-12. [Inhaler: Bono's son and his band top UK chart with debut album](https://www.bbc.co.uk/news/entertainment-arts-57864034) - Elijah Hewson's rock group knock Olivia Rodrigo off the top spot with their debut album.
+10. ['Hollywood Ripper' Michael Gargiulo sentenced to death for murders](https://www.bbc.co.uk/news/world-us-canada-57871320) - The case drew attention as one of the victims was about to go on a date with actor Ashton Kutcher.
+11. [Bianca Devins: Family sue NY officials over video footage of murdered teen](https://www.bbc.co.uk/news/world-us-canada-57867813) - Bianca Devins' family claim video of her having sex and also her murder were shared with the media.
+12. [Covid: UK daily cases pass 50,000 for first time since January](https://www.bbc.co.uk/news/uk-57867990) - It comes after England's chief medical officer warned hospitalisations could hit "scary numbers".
 13. [The Papers: 'French holiday chaos', and 'world watching' PM](https://www.bbc.co.uk/news/blogs-the-papers-57870838) - Several of Saturday's papers lead with the last-minute changes to quarantine advice for travellers.
 14. [Covid vaccine: How are young people responding to the jab?](https://www.bbc.co.uk/news/uk-england-london-57845115) - The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?
 15. [Ros Atkins on… the North America heat waves](https://www.bbc.co.uk/news/world-57868135) - Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.
