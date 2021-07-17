@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 04:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 05:04:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Fri, 16 Jul 2021 20:55:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bianca Devins: Family sue NY officials over video footage of murdered teen]]></title>
-            <description><![CDATA[Bianca Devins' family claim video of her having sex and also her murder were shared with the media.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57867813</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57867813</guid>
-            <pubDate>Fri, 16 Jul 2021 19:47:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Belgium takes back mothers and children from Syria jihadist camps]]></title>
             <description><![CDATA[It is the biggest repatriation of suspected Islamic State members since its fall in 2019.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57870808</link>
@@ -58,18 +51,25 @@
             <pubDate>Fri, 16 Jul 2021 22:19:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cannes Film Festival 2021 highlights: Sun, stars and saliva]]></title>
-            <description><![CDATA[A-listers flocked to the Cannes Film Festival's red carpet, despite the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57864015</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57864015</guid>
-            <pubDate>Fri, 16 Jul 2021 18:07:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Hollywood Ripper' Michael Gargiulo sentenced to death for murders]]></title>
             <description><![CDATA[The case drew attention as one of the victims was about to go on a date with actor Ashton Kutcher.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57871320</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57871320</guid>
             <pubDate>Sat, 17 Jul 2021 04:43:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bianca Devins: Family sue NY officials over video footage of murdered teen]]></title>
+            <description><![CDATA[Bianca Devins' family claim video of her having sex and also her murder were shared with the media.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57867813</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57867813</guid>
+            <pubDate>Fri, 16 Jul 2021 19:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cannes Film Festival 2021 highlights: Sun, stars and saliva]]></title>
+            <description><![CDATA[A-listers flocked to the Cannes Film Festival's red carpet, despite the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57864015</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57864015</guid>
+            <pubDate>Fri, 16 Jul 2021 18:07:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US Navy: First woman passes elite training scheme]]></title>
