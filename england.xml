@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 10:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jul 2021 10:42:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid vaccine: Tate Modern and The Oval open pop-up clinics]]></title>
+            <description><![CDATA[Pop-up vaccination clinics are opening across England this weekend including at The Open golf tournament.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57873024</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57873024</guid>
+            <pubDate>Sat, 17 Jul 2021 10:39:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bereaved sister's call for breast cancer taskforce]]></title>
             <description><![CDATA[Inspired by the Covid vaccine, a woman is calling for a similar focus on a breast cancer cure.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-57855412</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57855412</guid>
             <pubDate>Sat, 17 Jul 2021 06:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How are young people responding to the jab?]]></title>
-            <description><![CDATA[The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57845115</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57845115</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK weather: Heat-health alert issued in England for weekend]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-sussex-57643707</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57643707</guid>
             <pubDate>Fri, 16 Jul 2021 23:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How are young people responding to the jab?]]></title>
+            <description><![CDATA[The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57845115</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57845115</guid>
+            <pubDate>Fri, 16 Jul 2021 23:00:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RNLI lifeguards braced for 'busiest ever summer' on UK beaches]]></title>
