@@ -14,7 +14,7 @@
 14. [Homes raided in inquiry into Matt Hancock CCTV leak](https://www.bbc.co.uk/news/uk-politics-57853164) - Investigators want to know who obtained images of the ex-minister kissing an aide in his office.
 15. [Colum Eastwood: MP reveals death threats after naming Soldier F](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57863054) - Colum Eastwood named the former paratrooper, accused of two Bloody Sunday murders, in Parliament.
 16. [NI Troubles: 'Robust conversation' as parties meet Lewis over legacy](https://www.bbc.co.uk/news/uk-northern-ireland-57858073) - The UK proposals have been widely rejected by the executive parties, Irish government and victims.
-17. [Covid-19: People in York react to self-isolation U-turn](https://www.bbc.co.uk/news/uk-57882942) - The PM and chancellor are self-isolating but No 10 had said they'd take part in a daily Covid-testing trial instead.
+17. [Covid-19: People in York react to self-isolation U-turn](https://www.bbc.co.uk/news/uk-57882942) - The PM and chancellor are self-isolating but it's after No 10 said they'd take part in a daily Covid-testing trial instead.
 18. [Social care tax: Labour calls for money to be ring-fenced](https://www.bbc.co.uk/news/uk-politics-57878580) - The shadow health secretary says Labour is not opposed to a tax for social care, if conditions are met.
 19. [Keir Starmer quizzed by former Labour voters in Blackpool](https://www.bbc.co.uk/news/uk-politics-57849730) - The Labour leader speaks to an audience in Blackpool about three of his policy priorities.
 20. [Boris Johnson sets out plan to 'level up' UK economy](https://www.bbc.co.uk/news/uk-politics-57849487) - Boris Johnson delivers speech in Coventry on plans to improve prospects in deprived areas of the UK.
