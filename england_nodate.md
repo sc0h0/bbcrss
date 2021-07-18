@@ -1,5 +1,5 @@
 1. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Ten men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
-2. [Covid: PM and chancellor not isolating after Javid test](https://www.bbc.co.uk/news/uk-57877373) - They will take daily tests so they can continue to work, after the health secretary tested positive.
+2. [Covid: PM and chancellor not isolating after Javid test](https://www.bbc.co.uk/news/uk-57877373) - Labour questions the "VIP testing" regime allowing them to work after Sajid Javid tested positive.
 3. ['Working in Mum's care home brought us closer'](https://www.bbc.co.uk/news/uk-england-bristol-57809429) - Lydia Loader, whose mother Sally has dementia, heard her speak for the first time in 18 months.
 4. [Covid 19: More than one third of Londoners unvaccinated](https://www.bbc.co.uk/news/uk-england-london-57874402) - Although the city has administered nine million jabs, its young population means many are unvaccinated.
 5. [Covid: Pioneering opera director Sir Graham Vick dies](https://www.bbc.co.uk/news/uk-england-birmingham-57879207) - Sir Graham, who founded Birmingham Opera Company, died of Covid "complications", it is announced.

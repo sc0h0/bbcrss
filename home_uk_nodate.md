@@ -1,4 +1,4 @@
-1. [Covid: PM and chancellor not isolating after Javid test](https://www.bbc.co.uk/news/uk-57877373) - They will take daily tests so they can continue to work, after the health secretary tested positive.
+1. [Covid: PM and chancellor not isolating after Javid test](https://www.bbc.co.uk/news/uk-57877373) - Labour questions the "VIP testing" regime allowing them to work after Sajid Javid tested positive.
 2. [Covid: Vaccine offered to all UK adults, says government](https://www.bbc.co.uk/news/uk-57876608) - More than two-thirds of people have had both doses as England prepares for rules to ease on Monday.
 3. [Tokyo Olympics: First athletes have Covid at athletes village](https://www.bbc.co.uk/sport/olympics/57844406) - Two athletes become the first to test positive for coronavirus at the Tokyo Olympic athletes' village - five days before the start of the Games.
 4. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.
@@ -8,9 +8,9 @@
 8. [Daughter of Afghan envoy kidnapped and injured in Pakistan](https://www.bbc.co.uk/news/world-asia-57877239) - Afghan officials urge Pakistan to keep diplomats safe, amid tensions between the two neighbours.
 9. [Europe floods: Victims face massive clean-up as waters recede](https://www.bbc.co.uk/news/world-europe-57876982) - Residents of the worst-affected areas struggle to recover from the devastation as flood waters recede.
 10. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
-11. [Covid: London's Metropolitan Line reopens after staff pinged by NHS app](https://www.bbc.co.uk/news/uk-england-london-57878908) - The Metropolitan Line was closed on Saturday as control room staff were pinged by the NHS app.
-12. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Ten men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
-13. [Covid in Scotland: 'Heartless' quarantine decision to be re-examined](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57875096) - Laura Soutar is stuck in hotel isolation in Majorca while her father Iain, from Milngavie, has just days to live.
+11. [Britney Spears says she will not perform while father controls career](https://www.bbc.co.uk/news/entertainment-arts-57873410) - The singer says the arrangement controlling her personal and financial affairs has "killed my dreams".
+12. [Covid: London's Metropolitan Line reopens after staff pinged by NHS app](https://www.bbc.co.uk/news/uk-england-london-57878908) - The Metropolitan Line was closed on Saturday as control room staff were pinged by the NHS app.
+13. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Ten men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
 14. [The Papers: 'Freedumb day' and 'No 10 pingdemic'](https://www.bbc.co.uk/news/blogs-the-papers-57877279) - The front pages focus on the growing criticism facing the government over Monday's easing of Covid rules in England.
 15. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
 16. [Joshi is swapping life in captivity for a new start in the jungle](https://www.bbc.co.uk/news/world-africa-57854071) - After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.

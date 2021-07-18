@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 09:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 09:41:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Brexit: Supermarkets warn of rising costs due to NI Protocol]]></title>
+            <description><![CDATA[Supermarket chains say retailers may be forced to switch from British suppliers to EU suppliers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57879007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57879007</guid>
+            <pubDate>Sun, 18 Jul 2021 09:38:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brendan Óg Duffy: Monaghan GAA U20s captain dies in car crash]]></title>
             <description><![CDATA[Brendan Óg Duffy lost his life just hours after captaining the Monaghan team to a semi-final win.]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57860608</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57860608</guid>
             <pubDate>Sat, 17 Jul 2021 05:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[McIlroy's Open bid fades after five early birdies]]></title>
-            <description><![CDATA[Northern Ireland's Rory McIlroy climbs the leaderboard after hitting five birdies on the front nine at day three of The Open at Royal St George's.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/golf/57874842</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/57874842</guid>
-            <pubDate>Sat, 17 Jul 2021 13:13:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Walk-in vaccine clinic open across NI this weekend]]></title>
