@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 07:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 07:18:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,6 +170,20 @@
             <pubDate>Sat, 17 Jul 2021 19:49:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[YesCymru yn galw am 'barchu pawb' wedi ffraeo chwyrn]]></title>
+            <description><![CDATA["Rydyn ni'n gwybod bod angen newidiadau" yn ôl y cadeirydd dros dro, yn dilyn cecru ymysg aelodau.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57870187</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57870187</guid>
+            <pubDate>Sun, 18 Jul 2021 07:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pistyll Rheadr: Cynllun i atal 'anrhefn' traffig y llynedd]]></title>
+            <description><![CDATA[Mae'r cyngor wedi cyflwyno newidiadau i geisio osgoi'r anrhefn a welwyd ger Pistyll Rhaeadr llynedd.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57862930</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57862930</guid>
+            <pubDate>Sun, 18 Jul 2021 07:14:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rheolau Covid Cymru yn llacio eto ddydd Sadwrn]]></title>
             <description><![CDATA[Bydd cyfyngiadau coronafeirws yn dechrau lleddfu wrth i'r wlad symud yn swyddogol i lefel rhybudd 1.]]></description>
             <link>https://www.bbc.co.uk/newyddion/57852767</link>
@@ -177,11 +191,11 @@
             <pubDate>Sat, 17 Jul 2021 15:10:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gwyliau'r haf yn dechrau gyda thywydd tanbaid yng Nghymru]]></title>
-            <description><![CDATA[Cymru fydd un o'r llefydd poethaf yn y DU dros y penwythnos, gyda disgwyl iddi gyrraedd 33C yn y de.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57873798</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57873798</guid>
-            <pubDate>Sat, 17 Jul 2021 16:28:11 GMT</pubDate>
+            <title><![CDATA[Jade Jones: 'Unrhyw beth heblaw aur yn fethiant']]></title>
+            <description><![CDATA[Y Pencampwr Olympaidd o'r Fflint sy'n rhoi cipolwg ar ei bywyd o gasglu sgrap i ennill yr aur]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57835165</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57835165</guid>
+            <pubDate>Fri, 16 Jul 2021 12:08:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cyfres yr Haf: Cymru 11-33 Ariannin]]></title>
@@ -189,13 +203,6 @@
             <link>https://www.bbc.co.uk/newyddion/57873794</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57873794</guid>
             <pubDate>Sat, 17 Jul 2021 15:53:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gwlad yr Haf yn rhoi cweir i Forgannwg yn y T20]]></title>
-            <description><![CDATA[Y Cymry'n colli o 74 rhediad yng Nghaerdydd, gan ddod â thymor siomedig Morgannwg yn y T20 i ben.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57872904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57872904</guid>
-            <pubDate>Sat, 17 Jul 2021 07:40:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,4 +1,4 @@
-1. [Covid: Ministers wait to hear if they face self-isolation after Javid tests positive](https://www.bbc.co.uk/news/uk-57877373) - Health Secretary Sajid Javid, who has tested positive for Covid, is isolating and working from home.
+1. [Covid: PM and chancellor not isolating after Javid test](https://www.bbc.co.uk/news/uk-57877373) - They will take daily tests as part of a pilot scheme, after the health secretary tested positive.
 2. [Covid: Vaccine offered to all UK adults, says government](https://www.bbc.co.uk/news/uk-57876608) - More than two-thirds of people have had both doses as England prepares for rules to ease on Monday.
 3. [Europe floods: Victims face massive clean-up as waters recede](https://www.bbc.co.uk/news/world-europe-57876982) - Residents of the worst-affected areas struggle to recover from the devastation as flood waters recede.
 4. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.
@@ -8,8 +8,8 @@
 8. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
 9. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of "Havana syndrome" among US officials.
 10. [Daughter of Afghan envoy kidnapped and injured in Pakistan](https://www.bbc.co.uk/news/world-asia-57877239) - Afghan officials urge Pakistan to keep diplomats safe, amid tensions between the two neighbours.
-11. [Canada's vaccination rate overtakes US](https://www.bbc.co.uk/news/world-us-canada-57869947) - Canada had a slow start on vaccinations compared to its neighbour but has now caught up to the US.
-12. [Covid: London's Metropolitan Line closed after staff pinged by NHS app](https://www.bbc.co.uk/news/uk-england-london-57874404) - Control room staff on the Metropolitan Line are isolating after being sent alerts by the NHS app.
+11. [Covid: London's Metropolitan Line closed after staff pinged by NHS app](https://www.bbc.co.uk/news/uk-england-london-57874404) - Control room staff on the Metropolitan Line are isolating after being sent alerts by the NHS app.
+12. [Euros 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Ten men are wanted in connection with disorder at the Euros 2020 final at Wembley, police say.
 13. [Covid in Scotland: 'Heartless' quarantine decision to be re-examined](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57875096) - Laura Soutar is stuck in hotel isolation in Majorca while her father Iain, from Milngavie, has just days to live.
 14. [The Papers: 'Freedumb day' and 'No 10 pingdemic'](https://www.bbc.co.uk/news/blogs-the-papers-57877279) - The front pages focus on the growing criticism facing the government over Monday's easing of Covid rules in England.
 15. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.

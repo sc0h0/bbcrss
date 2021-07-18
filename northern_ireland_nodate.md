@@ -1,7 +1,7 @@
 1. [Brendan Óg Duffy: Monaghan GAA U20s captain dies in car crash](https://www.bbc.co.uk/news/world-europe-57873315) - Brendan Óg Duffy lost his life just hours after captaining the Monaghan team to a semi-final win.
 2. [Ann Murray, the illegal poteen distiller who lived in a cave](https://www.bbc.co.uk/news/uk-northern-ireland-57852184) - Ann Murray spent 50 years living and producing her own alcohol in County Antrim's Red Bay Caves.
 3. [Mary Ann McCracken letters shed new light on last years](https://www.bbc.co.uk/news/uk-northern-ireland-57808883) - The anti-slavery campaigner was active in Belfast well into her 90s, new letters reveal.
-4. [Hottest NI day ever as temperatures soar above 30C](https://www.bbc.co.uk/news/uk-northern-ireland-57875732) - Ballywatticock near Newtownards records 31.2 degrees, breaking a record set 45 years ago.
+4. [Hottest NI day ever as temperatures soar above 30C](https://www.bbc.co.uk/news/uk-northern-ireland-57875732) - Ballywatticock near Newtownards records 31.2C on Saturday, breaking a record set 45 years ago.
 5. [Eleventh Night: What is the law on bonfires in Northern Ireland?](https://www.bbc.co.uk/news/uk-northern-ireland-57837232) - Some politicians are calling for new regulations, while others want existing rules enforced.
 6. [Open set for Royal Portrush return - Paisley](https://www.bbc.co.uk/sport/northern-ireland/57875443) - The vice chair of the All Parliamentary group for golf at Westminster says The Open will be back at Royal Portrush in four years.
 7. [Pastor James McConnell dies aged 84 after long illness](https://www.bbc.co.uk/news/uk-northern-ireland-57873316) - The Belfast preacher's death is announced by Whitewell Tabernacle, the church which he founded.
