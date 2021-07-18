@@ -1,4 +1,4 @@
-1. [Covid-19: PM and chancellor to self-isolate in U-turn](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
+1. [Covid-19: PM and chancellor self-isolate after rapid U-turn](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
 2. [Labour: Why would we oppose a social care tax?](https://www.bbc.co.uk/news/uk-politics-57879629) - But the shadow health secretary says he would want a guarantee the money would be used for care.
 3. [Covid:-19 Decision on vaccinations for under-18s 'within days'](https://www.bbc.co.uk/news/uk-57876608) - It comes as every adult in the UK has now been offered a vaccine, the government says.
 4. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
