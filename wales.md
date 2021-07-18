@@ -1,4 +1,4 @@
-1. [Defibrillator calls after Barry cricketer dies](https://www.bbc.co.uk/news/uk-wales-57880399) - Sun, 18 Jul 2021 15:07:42 GMT - Father-of-three Maqsood Anwar, 44, was playing cricket when he collapsed.
+1. [Defibrillator calls after Barry cricketer dies](https://www.bbc.co.uk/news/uk-wales-57880399) - Sun, 18 Jul 2021 15:37:54 GMT - Father-of-three Maqsood Anwar, 44, was playing cricket when he collapsed.
 2. [Covid rules being lifted sparks waterfall traffic fears](https://www.bbc.co.uk/news/uk-wales-57866005) - Sun, 18 Jul 2021 06:21:12 GMT - Residents say they do not want a repeat of last year's parking problems and traffic jams.
 3. [Covid in Wales: Self-isolation rethink over child contacts](https://www.bbc.co.uk/news/uk-wales-57880143) - Sun, 18 Jul 2021 12:55:09 GMT - Ministers consider whether children should not have to isolate if a close contact tests positive.
 4. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Sun, 18 Jul 2021 13:25:24 GMT - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
