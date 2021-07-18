@@ -22,6 +22,6 @@
 22. [Wales 11-33 Argentina: Clinical Pumas outclass Wales in Cardiff](https://www.bbc.co.uk/sport/rugby-union/57861293) - Wales end their season with a 33-11 defeat against an impressive Argentina side in the second Test in Cardiff.
 23. [Plaid yn galw am beidio llacio os ydy achosion ar gynnydd](https://www.bbc.co.uk/newyddion/57872905) - Plaid Cymru'n dweud bod angen i'r llywodraeth fod yn barod i "gymryd cam yn ôl" os nad ydy achosion yn gostwng.
 24. [YesCymru yn galw am 'barchu pawb' wedi ffraeo chwyrn](https://www.bbc.co.uk/newyddion/57870187) - "Rydyn ni'n gwybod bod angen newidiadau" yn ôl y cadeirydd dros dro, yn dilyn cecru ymysg aelodau.
-25. [Pistyll Rheadr: Cynllun i atal 'anrhefn' traffig y llynedd](https://www.bbc.co.uk/newyddion/57862930) - Mae'r cyngor wedi cyflwyno newidiadau i geisio osgoi'r anrhefn a welwyd ger Pistyll Rhaeadr llynedd.
+25. [Covid-19: Cofnodi tair marwolaeth arall yng Nghymru](https://www.bbc.co.uk/newyddion/57807655) - Cafodd 1,112 yn rhagor o achosion eu cofnodi hefyd, ac mae'r raddfa heintio bellach yn 161.1.
 26. [Jade Jones: 'Unrhyw beth heblaw aur yn fethiant'](https://www.bbc.co.uk/newyddion/57835165) - Y Pencampwr Olympaidd o'r Fflint sy'n rhoi cipolwg ar ei bywyd o gasglu sgrap i ennill yr aur
 27. [Cyfres yr Haf: Cymru 11-33 Ariannin](https://www.bbc.co.uk/newyddion/57873794) - Diweddglo siomedig i Gymru yng Nghyfres yr Haf wrth iddyn nhw gael eu trechu yn Stadiwm Principality.
