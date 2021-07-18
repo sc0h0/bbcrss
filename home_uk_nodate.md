@@ -2,7 +2,7 @@
 2. [Covid: Vaccine offered to all UK adults, says government](https://www.bbc.co.uk/news/uk-57876608) - More than two-thirds of people have had both doses as England prepares for rules to ease on Monday.
 3. [Europe floods: Victims face massive clean-up as waters recede](https://www.bbc.co.uk/news/world-europe-57876982) - Residents of the worst-affected areas struggle to recover from the devastation as flood waters recede.
 4. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.
-5. [Haiti: Wife of assassinated President Jovenel Moïse returns after surviving attack](https://www.bbc.co.uk/news/world-latin-america-57877241) - Wearing a bulletproof vest, Martine Moïse flew back from the US after being wounded in the attack.
+5. [Haiti: Wife of assassinated President Jovenel Moïse returns after surviving attack](https://www.bbc.co.uk/news/world-latin-america-57877241) - Wearing a bulletproof vest, Martine Moïse arrives home after receiving treatment in the US.
 6. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
 7. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
 8. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of "Havana syndrome" among US officials.

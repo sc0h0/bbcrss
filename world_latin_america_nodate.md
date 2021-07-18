@@ -1,4 +1,4 @@
-1. [Haiti: Wife of assassinated President Jovenel Moïse returns after surviving attack](https://www.bbc.co.uk/news/world-latin-america-57877241) - Wearing a bulletproof vest, Martine Moïse flew back from the US after being wounded in the attack.
+1. [Haiti: Wife of assassinated President Jovenel Moïse returns after surviving attack](https://www.bbc.co.uk/news/world-latin-america-57877241) - Wearing a bulletproof vest, Martine Moïse arrives home after receiving treatment in the US.
 2. [Covid-19: Second doses run dry in Brazil's scramble to vaccinate](https://www.bbc.co.uk/news/world-latin-america-57819263) - Many are struggling to source their second dose of the Covid-19 jab in one of the worst-hit countries.
 3. [Latin American Foto Festival: Strength and resistance](https://www.bbc.co.uk/news/in-pictures-57819892) - Caribbean and Latin American photography features in the fourth Annual Latin American Foto Festival.
 4. [Jovenel Moïse: Colombia ex-soldiers 'in on plot to kill Haiti president'](https://www.bbc.co.uk/news/world-latin-america-57834681) - Some of the suspects in the murder of Haiti's leader were duped, but others allegedly knew of the plan.

@@ -2,7 +2,7 @@
 2. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of "Havana syndrome" among US officials.
 3. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
 4. [In pictures: Masks and social distancing at downsized Hajj](https://www.bbc.co.uk/news/world-middle-east-57875572) - Only about 60,000 pilgrims living in Saudi Arabia were eligible to take part this year.
-5. [Haiti: Wife of assassinated President Jovenel Moïse returns after surviving attack](https://www.bbc.co.uk/news/world-latin-america-57877241) - Wearing a bulletproof vest, Martine Moïse flew back from the US after being wounded in the attack.
+5. [Haiti: Wife of assassinated President Jovenel Moïse returns after surviving attack](https://www.bbc.co.uk/news/world-latin-america-57877241) - Wearing a bulletproof vest, Martine Moïse arrives home after receiving treatment in the US.
 6. [Daughter of Afghan envoy kidnapped and injured in Pakistan](https://www.bbc.co.uk/news/world-asia-57877239) - Afghan officials urge Pakistan to keep diplomats safe, amid tensions between the two neighbours.
 7. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
 8. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.

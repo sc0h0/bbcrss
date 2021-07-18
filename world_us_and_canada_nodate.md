@@ -1,6 +1,6 @@
 1. [Canada's vaccination rate overtakes US](https://www.bbc.co.uk/news/world-us-canada-57869947) - Canada had a slow start on vaccinations compared to its neighbour but has now caught up to the US.
 2. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
-3. [Haiti: Wife of assassinated President Jovenel Moïse returns after surviving attack](https://www.bbc.co.uk/news/world-latin-america-57877241) - Wearing a bulletproof vest, Martine Moïse flew back from the US after being wounded in the attack.
+3. [Haiti: Wife of assassinated President Jovenel Moïse returns after surviving attack](https://www.bbc.co.uk/news/world-latin-america-57877241) - Wearing a bulletproof vest, Martine Moïse arrives home after receiving treatment in the US.
 4. [Daca: Obama programme for child migrants ruled illegal](https://www.bbc.co.uk/news/world-us-canada-57871370) - A Texas judge says new applicants cannot be enrolled in Deferred Action for Childhood Arrivals.
 5. [Covid misinformation on Facebook is killing people - Biden](https://www.bbc.co.uk/news/world-us-canada-57870778) - The US president said a spike in Covid deaths among the unvaccinated was down to social media.
 6. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of "Havana syndrome" among US officials.
