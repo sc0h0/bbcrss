@@ -1,6 +1,6 @@
-1. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
+1. [Britney Spears says she will not perform while father controls career](https://www.bbc.co.uk/news/entertainment-arts-57873410) - The singer says the arrangement controlling her personal and financial affairs has "killed my dreams".
 2. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
-3. [Britney Spears says she will not perform while father controls career](https://www.bbc.co.uk/news/entertainment-arts-57873410) - The singer says the arrangement controlling her personal and financial affairs has "killed my dreams".
+3. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
 4. [Covid: Pioneering opera director Sir Graham Vick dies](https://www.bbc.co.uk/news/uk-england-birmingham-57879207) - Sir Graham, who founded Birmingham Opera Company, died of Covid "complications", it is announced.
 5. [Elizabeth Gaskell: The Victorian author feeling the Bridgerton effect](https://www.bbc.co.uk/news/uk-england-manchester-57580580) - Experts say the success of period dramas online has brought Elizabeth Gaskell a new audience.
 6. [Cannes Film Festival 2021 highlights: Sun, stars and saliva](https://www.bbc.co.uk/news/entertainment-arts-57864015) - A-listers flocked to the Cannes Film Festival's red carpet, despite the pandemic.

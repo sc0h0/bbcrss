@@ -1,4 +1,4 @@
-1. [19 July: England Covid restrictions ease, but PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - Sun, 18 Jul 2021 21:30:50 GMT - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
+1. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - Sun, 18 Jul 2021 21:30:50 GMT - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
 2. [Covid: UK faces a difficult summer, says leading scientist](https://www.bbc.co.uk/news/uk-57877033) - Sun, 18 Jul 2021 12:10:10 GMT - Prof Neil Ferguson says there could be as many as 200,000 cases a day as restrictions ease.
 3. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Sat, 17 Jul 2021 23:01:19 GMT - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.
 4. [Covid:-19 Decision on vaccinations for under-18s 'within days'](https://www.bbc.co.uk/news/uk-57876608) - Sun, 18 Jul 2021 10:17:09 GMT - It comes as every adult in the UK has now been offered a vaccine, the government says.
