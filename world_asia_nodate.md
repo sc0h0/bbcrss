@@ -1,5 +1,5 @@
 1. [Daughter of Afghan envoy kidnapped and injured in Pakistan](https://www.bbc.co.uk/news/world-asia-57877239) - Afghan officials urge Pakistan to keep diplomats safe, amid tensions between the two neighbours.
-2. [Tokyo Olympics: First athletes have Covid at athletes village](https://www.bbc.co.uk/sport/olympics/57844406) - Two athletes become the first to test positive for coronavirus at the Tokyo Olympic athletes' village - five days before the start of the Games.
+2. [Tokyo Olympics: First competitors have Covid at athletes village](https://www.bbc.co.uk/sport/olympics/57844406) - Two South African footballers become the first competitors to test positive for coronavirus in the Tokyo Olympic athletes' village.
 3. [Danish Siddiqui: Indian photojournalist killed in Afghanistan](https://www.bbc.co.uk/news/world-asia-india-57859652) - Danish Siddiqui, an award-winning photographer with Reuters news agency, is killed on assignment.
 4. [WhatsApp blocks two million Indian accounts](https://www.bbc.co.uk/news/world-asia-india-57831201) - The messaging platform said most of these users violated the bulk messaging rules.
 5. [Dying alone in Indonesia's grim battle with Covid-19](https://www.bbc.co.uk/news/world-asia-57830770) - Firefighters haul bodies from homes as hospitals scramble for oxygen in Asia's new Covid epicentre.

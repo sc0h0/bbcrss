@@ -1,4 +1,4 @@
-1. [Covid: PM and chancellor not isolating after Javid test](https://www.bbc.co.uk/news/uk-57877373) - Labour questions the "VIP testing" regime allowing them to work after Sajid Javid tested positive.
+1. [PM and chancellor to self-isolate after criticism](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
 2. [Covid: Vaccine offered to all UK adults, says government](https://www.bbc.co.uk/news/uk-57876608) - More than two-thirds of people have had both doses as England prepares for rules to ease on Monday.
 3. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
 4. [Blackpool councillor 'fat shamed' by MP over critical tweet](https://www.bbc.co.uk/news/uk-england-lancashire-57873811) - A Blackpool councillor claims a comment one of the town's MPs made in reply to his tweet was "nasty".
