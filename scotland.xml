@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 07:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 07:26:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid in Scotland: Nearly a third of young adults still unvaccinated]]></title>
+            <description><![CDATA[All over-18s are offered a vaccine appointment but more than 260,000 younger adults have yet to have a first dose.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57875256</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57875256</guid>
+            <pubDate>Sun, 18 Jul 2021 07:16:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Haggart: The killer whose story inspired a Hollywood legend]]></title>
+            <description><![CDATA[How a man executed for a murder in a south of Scotland town ended up immortalised in a movie.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57650595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57650595</guid>
+            <pubDate>Sun, 18 Jul 2021 07:23:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trains cancelled as firefighters tackle Troon station blaze]]></title>
             <description><![CDATA[Lines through Troon will remain closed until Monday, according to ScotRail.]]></description>
@@ -35,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57873556</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57873556</guid>
             <pubDate>Sat, 17 Jul 2021 12:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Sat, 17 Jul 2021 14:09:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mass testing as Covid outbreak hits Perth Prison]]></title>
@@ -98,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57861959</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57861959</guid>
             <pubDate>Fri, 16 Jul 2021 16:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Sat, 17 Jul 2021 14:09:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Do I need a vaccine certificate to travel?]]></title>
