@@ -1,4 +1,4 @@
-1. [Covid: PM and chancellor not isolating after Javid test](https://www.bbc.co.uk/news/uk-57877373) - They will take daily tests as part of a pilot scheme, after the health secretary tested positive.
+1. [Covid: PM and chancellor not isolating after Javid test](https://www.bbc.co.uk/news/uk-57877373) - They will take daily tests so they can continue to work, after the health secretary tested positive.
 2. [Covid: Vaccine offered to all UK adults, says government](https://www.bbc.co.uk/news/uk-57876608) - More than two-thirds of people have had both doses as England prepares for rules to ease on Monday.
 3. [Europe floods: Victims face massive clean-up as waters recede](https://www.bbc.co.uk/news/world-europe-57876982) - Residents of the worst-affected areas struggle to recover from the devastation as flood waters recede.
 4. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.
@@ -10,7 +10,7 @@
 10. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of "Havana syndrome" among US officials.
 11. [Daughter of Afghan envoy kidnapped and injured in Pakistan](https://www.bbc.co.uk/news/world-asia-57877239) - Afghan officials urge Pakistan to keep diplomats safe, amid tensions between the two neighbours.
 12. [Covid: London's Metropolitan Line closed after staff pinged by NHS app](https://www.bbc.co.uk/news/uk-england-london-57874404) - Control room staff on the Metropolitan Line are isolating after being sent alerts by the NHS app.
-13. [Euros 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Ten men are wanted in connection with disorder at the Euros 2020 final at Wembley, police say.
+13. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Ten men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
 14. [The Papers: 'Freedumb day' and 'No 10 pingdemic'](https://www.bbc.co.uk/news/blogs-the-papers-57877279) - The front pages focus on the growing criticism facing the government over Monday's easing of Covid rules in England.
 15. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
 16. [Joshi is swapping life in captivity for a new start in the jungle](https://www.bbc.co.uk/news/world-africa-57854071) - After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.
