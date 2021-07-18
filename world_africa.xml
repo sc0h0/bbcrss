@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 23:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 23:53:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Nigeria's security crises - five different threats]]></title>
+            <description><![CDATA[Almost every part of Nigeria is facing a security crisis - from kidnapping to extremist insurgencies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57860993</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57860993</guid>
+            <pubDate>Sun, 18 Jul 2021 23:46:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[South Africa looting: Clean-up to mark Nelson Mandela Day]]></title>
             <description><![CDATA[People were urged to honour the anti-apartheid hero's legacy by rebuilding after riots left 212 dead.]]></description>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57882069</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57882069</guid>
             <pubDate>Sun, 18 Jul 2021 17:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joshi is swapping life in captivity for a new start in the jungle]]></title>
-            <description><![CDATA[After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57854071</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57854071</guid>
-            <pubDate>Sat, 17 Jul 2021 23:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Egypt's Al Ahly win African Champions League title]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-57860998</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57860998</guid>
             <pubDate>Fri, 16 Jul 2021 23:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joshi is swapping life in captivity for a new start in the jungle]]></title>
+            <description><![CDATA[After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57854071</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57854071</guid>
+            <pubDate>Sat, 17 Jul 2021 23:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020 Olympics: Kenya's Taekwondo star and environmental activist]]></title>

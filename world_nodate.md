@@ -10,13 +10,13 @@
 10. [Britney Spears says she will not perform while father controls career](https://www.bbc.co.uk/news/entertainment-arts-57873410) - The singer says the arrangement controlling her personal and financial affairs has "killed my dreams".
 11. [Kenyan fuel tanker explodes killing at least 13](https://www.bbc.co.uk/news/world-africa-57879278) - People rushed to the scene of the crash to siphon petrol when the explosion occurred.
 12. [Covid-19: Ireland's top medical officers targeted by abusive calls](https://www.bbc.co.uk/news/world-europe-57879013) - Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.
-13. [In pictures: Masks and social distancing at downsized Hajj](https://www.bbc.co.uk/news/world-middle-east-57875572) - Only about 60,000 pilgrims living in Saudi Arabia were eligible to take part this year.
-14. [The Broadway dancer whose lockdown business bloomed](https://www.bbc.co.uk/news/stories-57840115) - When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.
-15. [Joshi is swapping life in captivity for a new start in the jungle](https://www.bbc.co.uk/news/world-africa-57854071) - After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.
-16. [Latin American Foto Festival: Strength and resistance](https://www.bbc.co.uk/news/in-pictures-57819892) - Caribbean and Latin American photography features in the fourth Annual Latin American Foto Festival.
-17. [Abir Moussi: The Tunisian MP who was slapped but not beaten](https://www.bbc.co.uk/news/world-africa-57835759) - Abir Moussi uses a megaphone in parliament and gets death threats but many say her voice is crucial.
-18. [Your pictures on the theme of 'under the stars'](https://www.bbc.co.uk/news/in-pictures-57864019) - A selection of striking images from our readers around the world.
-19. [Under the skin of OnlyFans](https://www.bbc.co.uk/news/uk-57269939) - A BBC investigation reveals concerns about how the site, known for porn, is structured and moderated.
+13. [Olympics: Defying threats, Iranian athletes speak out to back ban](https://www.bbc.co.uk/news/world-middle-east-57839521) - Olympics organisers are being urged to investigate allegations of threats, discrimination and abuse.
+14. [Covid: Is China's vaccine success waning in Asia?](https://www.bbc.co.uk/news/world-asia-57845644) - Thailand and Indonesia's switch to other Covid jabs has raised questions about Chinese vaccines.
+15. [Nigeria's security crises - five different threats](https://www.bbc.co.uk/news/world-africa-57860993) - Almost every part of Nigeria is facing a security crisis - from kidnapping to extremist insurgencies.
+16. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
+17. [The Broadway dancer whose lockdown business bloomed](https://www.bbc.co.uk/news/stories-57840115) - When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.
+18. [In pictures: Masks and social distancing at downsized Hajj](https://www.bbc.co.uk/news/world-middle-east-57875572) - Only about 60,000 pilgrims living in Saudi Arabia were eligible to take part this year.
+19. [Joshi is swapping life in captivity for a new start in the jungle](https://www.bbc.co.uk/news/world-africa-57854071) - After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.
 20. [Lex Gillette: Record-breaking blind long jumper](https://www.bbc.co.uk/news/disability-57851104) - With the support of his sighted guide, the four-time Paralympic medallist hopes to win gold in Tokyo.
 21. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
 22. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
