@@ -4,8 +4,8 @@
 4. [Covid: 'Pingdemic' threatens shop openings say supermarkets](https://www.bbc.co.uk/news/business-57878345) - M&S says it may have to reduce opening hours if more workers are forced to self-isolate.
 5. [Olympics: Eight self-isolating from Team GB ](https://www.bbc.co.uk/sport/olympics/57844406) - Two South Africa footballers test positive for Covid-19 in Olympic village, while eight Team GB athletes and staff isolating as close contacts.
 6. [Europe floods: Merkel shocked by 'surreal' devastation](https://www.bbc.co.uk/news/world-europe-57880729) - The chancellor vows to fast-track aid after visiting some of the worst-hit areas in western Germany.
-7. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
-8. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
+7. [Thousand of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
+8. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
 9. [Brazil's Bolsonaro leaves hospital after treatment for blocked intestine](https://www.bbc.co.uk/news/world-latin-america-57881111) - The Brazilian president was treated for continuing complications after a near-fatal 2018 stabbing.
 10. [Oil producing nations agree deal to control prices](https://www.bbc.co.uk/news/business-57882449) - The Opec cartel and Russia will boost supply which should see petrol prices at the pumps come down.
 11. [Labour: Why would we oppose a social care tax?](https://www.bbc.co.uk/news/uk-politics-57879629) - But the shadow health secretary says he would want a guarantee the money would be used for care.
