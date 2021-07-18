@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 10:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 10:33:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,11 +58,25 @@
             <pubDate>Sun, 18 Jul 2021 10:08:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[McDonald's blockade: Animal Rebellion three-day protest ends]]></title>
+            <description><![CDATA[Police arrested seven people during the three-day protest and 11 more were reported for summons.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-57879294</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57879294</guid>
+            <pubDate>Sun, 18 Jul 2021 10:29:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fire safety rules put Newcastle couple's lives 'on hold']]></title>
             <description><![CDATA[The pair fear they face a potentially massive bill for the removal of combustible insulation.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tyne-57865005</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-57865005</guid>
             <pubDate>Sun, 18 Jul 2021 07:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Durham A1 crash: One victim named as Paul Mullen]]></title>
+            <description><![CDATA[Three people died in the motorway collision involving two lorries and four cars near Bowburn.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-57879118</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-57879118</guid>
+            <pubDate>Sun, 18 Jul 2021 09:09:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Arm band calls for those with weak immune systems]]></title>
@@ -77,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-somerset-57866990</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57866990</guid>
             <pubDate>Sun, 18 Jul 2021 06:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Medieval coin brooch found in Norfolk 'was not worn by peasant']]></title>
-            <description><![CDATA[Experts say the find confirms a medieval fashion between the 11th and 14th Centuries.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-57664935</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-57664935</guid>
-            <pubDate>Sun, 18 Jul 2021 07:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social distancing one-way system scrapped at York's city walls]]></title>
-            <description><![CDATA[Visitors will be able to walk in both directions as wider Covid restrictions are lifted.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57874680</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57874680</guid>
-            <pubDate>Sun, 18 Jul 2021 07:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Knife crime: Mum tells teenagers about her son’s murder]]></title>
@@ -140,6 +140,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-57862078</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57862078</guid>
             <pubDate>Sun, 18 Jul 2021 07:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Medieval coin brooch found in Norfolk 'was not worn by peasant']]></title>
+            <description><![CDATA[Experts say the find confirms a medieval fashion between the 11th and 14th Centuries.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-57664935</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-57664935</guid>
+            <pubDate>Sun, 18 Jul 2021 07:25:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social distancing one-way system scrapped at York's city walls]]></title>
+            <description><![CDATA[Visitors will be able to walk in both directions as wider Covid restrictions are lifted.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57874680</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57874680</guid>
+            <pubDate>Sun, 18 Jul 2021 07:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: Tate Modern and The Oval open pop-up clinics]]></title>
