@@ -1,6 +1,6 @@
 1. [Covid-19: PM and chancellor to self-isolate in U-turn](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
 2. [Covid: 'Pingdemic' threatens shop openings say supermarkets](https://www.bbc.co.uk/news/business-57878345) - M&S says it may have to reduce opening hours if more workers are forced to self-isolate.
-3. [Tokyo Olympics: First Covid cases in athletes village and Team GB have eight self-isolating](https://www.bbc.co.uk/sport/olympics/57844406) - Two South Africa footballers become the first competitors to test positive for coronavirus in the Tokyo Olympic athletes' village, while the British Olympic Association confirms eight close contacts from flight.
+3. [Tokyo Olympics: First Covid cases in athletes' village and Team GB have eight self-isolating](https://www.bbc.co.uk/sport/olympics/57844406) - Two South Africa footballers test positive for Covid-19 in athletes' village, while Team GB have eight self-isolating as close contacts.
 4. [Covid:-19 Decision on vaccinations for under-18s 'within days'](https://www.bbc.co.uk/news/uk-57876608) - It comes as every adult in the UK has now been offered a vaccine, the government says.
 5. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
 6. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
@@ -9,7 +9,7 @@
 9. [Covid: UK faces a difficult summer, says leading scientist](https://www.bbc.co.uk/news/uk-57877033) - Prof Neil Ferguson says there could be as many as 200,000 cases a day as restrictions ease.
 10. [Covid-19: Ireland's top medical officers targeted by abusive calls](https://www.bbc.co.uk/news/world-europe-57879013) - Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.
 11. [Anjem Choudary: Radical preacher's public speaking ban lifted](https://www.bbc.co.uk/news/uk-england-london-57878910) - The strict licence conditions Anjem Choudary was subjected to after leaving prison come to an end.
-12. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Seven men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
+12. ['Exhausted' deer rescued by lifeboat from Solent](https://www.bbc.co.uk/news/uk-england-hampshire-57880039) - The young animal had apparently been carried three miles out by the tide, the lifeboat crew says.
 13. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
 14. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
 15. [The Papers: 'Freedumb day' and 'No 10 pingdemic'](https://www.bbc.co.uk/news/blogs-the-papers-57877279) - The front pages focus on the growing criticism facing the government over Monday's easing of Covid rules in England.
