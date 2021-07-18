@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 11:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 11:32:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57879730</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57879730</guid>
-            <pubDate>Sun, 18 Jul 2021 11:09:49 GMT</pubDate>
+            <pubDate>Sun, 18 Jul 2021 11:30:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Working in Mum's care home brought us closer']]></title>
@@ -254,6 +254,13 @@
             <pubDate>Sat, 17 Jul 2021 19:25:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[George Curtis: Former Coventry City captain and manager dies, aged 82]]></title>
+            <description><![CDATA[Former Coventry City captain and joint-manager George Curtis dies aged 82.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57880067</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57880067</guid>
+            <pubDate>Sun, 18 Jul 2021 11:23:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Roses win over Yorkshire puts Lancashire into T20 Blast quarter-finals]]></title>
             <description><![CDATA[Wood shines as Lancashire put aside batting wobble to beat Roses rivals Yorkshire and seal T20 Blast quarter-final spot.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57876558</link>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/formula1/57875745</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57875745</guid>
             <pubDate>Sat, 17 Jul 2021 16:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jimenez returns in Wolves defeat - pre-season round-up]]></title>
-            <description><![CDATA[Raul Jimenez made his long-awaited return from injury as Wolves lost at Crewe, while Palace and Chelsea enjoyed friendly wins]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57869739</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57869739</guid>
-            <pubDate>Sat, 17 Jul 2021 18:50:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
