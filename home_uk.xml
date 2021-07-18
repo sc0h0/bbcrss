@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 15:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 16:20:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,7 +30,14 @@
             <pubDate>Sun, 18 Jul 2021 12:35:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: First Covid cases in athletes' village and Team GB have eight self-isolating]]></title>
+            <title><![CDATA[British Grand Prix: Lewis Hamilton overcomes time penalty to claim famous win]]></title>
+            <description><![CDATA[Lewis Hamilton fights back from a 10-second penalty for a crash with title rival Max Verstappen to pass Ferrari's Charles Leclerc for a dramatic victory in the British Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57880871</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57880871</guid>
+            <pubDate>Sun, 18 Jul 2021 16:16:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olympics: Eight self-isolating from Team GB ]]></title>
             <description><![CDATA[Two South Africa footballers test positive for Covid-19 in Olympic village, while eight Team GB athletes and staff isolating as close contacts.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57844406</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57844406</guid>
@@ -205,18 +212,11 @@
             <pubDate>Sat, 17 Jul 2021 16:13:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fit-again Jones and 'rough diamond' Simmonds to start? Dawson picks his Lions Test XV, vote for yours]]></title>
-            <description><![CDATA[Former British and Irish Lion Matt Dawson picks his starting XV for the first Test against South Africa on 24 July.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57875384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57875384</guid>
-            <pubDate>Sun, 18 Jul 2021 06:43:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['It's about getting the ball to our danger players' - Vieira's impact at Palace]]></title>
-            <description><![CDATA[Patrick Vieira's reign at Crystal Palace got off to a winning start and the Eagles will hope history doesn't repeat itself under the France World Cup winner.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57879602</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57879602</guid>
-            <pubDate>Sun, 18 Jul 2021 12:34:53 GMT</pubDate>
+            <title><![CDATA[Verstappen taken to hospital after opening-lap crash at Silverstone]]></title>
+            <description><![CDATA[Max Verstappen taken to hospital for "precautionary tests" after first-lap accident at the British Grand Prix as Hamilton accused of "dirty driving".]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57881919</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57881919</guid>
+            <pubDate>Sun, 18 Jul 2021 16:02:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v Pakistan T20: Liam Livingstone smashes six out of Headingley - twice!]]></title>
@@ -226,11 +226,11 @@
             <pubDate>Sun, 18 Jul 2021 15:24:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Bianca Walkden v MattDoesFitness in speed, strength & power test - who wins?]]></title>
-            <description><![CDATA[Bianca Walkden takes on MattDoesFitness in speed, strength & power test in our Olympian versus series.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57441924</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57441924</guid>
-            <pubDate>Sun, 18 Jul 2021 05:15:26 GMT</pubDate>
+            <title><![CDATA[The Open 2021: 'He's back in it!' Jordan Spieth eagles to stay in Open hunt]]></title>
+            <description><![CDATA[Jordan Spieth recovers from a shaky start to his final round at The Open with an eagle on the seventh.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/golf/57882139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/57882139</guid>
+            <pubDate>Sun, 18 Jul 2021 15:51:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What's changing when restrictions end on 19 July?]]></title>
@@ -272,7 +272,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sat, 17 Jul 2021 16:24:41 GMT</pubDate>
+            <pubDate>Sun, 18 Jul 2021 16:02:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Covid passports': How can the NHS Covid Pass prove I've had both jabs?]]></title>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 15:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 16:22:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,7 @@
             <description><![CDATA[It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57879730</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57879730</guid>
-            <pubDate>Sun, 18 Jul 2021 15:21:50 GMT</pubDate>
+            <pubDate>Sun, 18 Jul 2021 16:18:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comedian Tom O'Connor dies aged 81]]></title>
@@ -258,7 +258,14 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sat, 17 Jul 2021 16:24:41 GMT</pubDate>
+            <pubDate>Sun, 18 Jul 2021 16:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British Grand Prix: Lewis Hamilton overcomes time penalty to claim famous win]]></title>
+            <description><![CDATA[Lewis Hamilton fights back from a 10-second penalty for a crash with title rival Max Verstappen to pass Ferrari's Charles Leclerc for a dramatic victory in the British Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57880871</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57880871</guid>
+            <pubDate>Sun, 18 Jul 2021 16:16:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[St Helens beat Castleford to win Challenge Cup for first time in 13 years]]></title>
@@ -280,13 +287,6 @@
             <link>https://www.bbc.co.uk/sport/football/57879602</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57879602</guid>
             <pubDate>Sun, 18 Jul 2021 12:34:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roses win over Yorkshire puts Lancashire into T20 Blast quarter-finals]]></title>
-            <description><![CDATA[Wood shines as Lancashire put aside batting wobble to beat Roses rivals Yorkshire and seal T20 Blast quarter-final spot.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57876558</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57876558</guid>
-            <pubDate>Sat, 17 Jul 2021 19:30:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

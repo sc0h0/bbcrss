@@ -25,4 +25,4 @@
 25. [YesCymru yn galw am 'barchu pawb' wedi ffraeo chwyrn](https://www.bbc.co.uk/newyddion/57870187) - "Rydyn ni'n gwybod bod angen newidiadau" yn ôl y cadeirydd dros dro, yn dilyn cecru ymysg aelodau.
 26. [Covid-19: Cofnodi tair marwolaeth arall yng Nghymru](https://www.bbc.co.uk/newyddion/57807655) - Cafodd 1,112 yn rhagor o achosion eu cofnodi hefyd, ac mae'r raddfa heintio bellach yn 161.1.
 27. [Jade Jones: 'Unrhyw beth heblaw aur yn fethiant'](https://www.bbc.co.uk/newyddion/57835165) - Y Pencampwr Olympaidd o'r Fflint sy'n rhoi cipolwg ar ei bywyd o gasglu sgrap i ennill yr aur
-28. [Cyfres yr Haf: Cymru 11-33 Ariannin](https://www.bbc.co.uk/newyddion/57873794) - Diweddglo siomedig i Gymru yng Nghyfres yr Haf wrth iddyn nhw gael eu trechu yn Stadiwm Principality.
+28. [Hampshire yn trechu Morgannwg yn y T20 yn Southampton](https://www.bbc.co.uk/newyddion/57881250) - Tymor T20 Morgannwg i ben gyda cholled arall, y tro hwn yn erbyn Hampshire yn Southampton.
