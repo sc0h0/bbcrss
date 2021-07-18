@@ -1,4 +1,4 @@
-1. [Health secretary Sajid Javid tests positive for Covid](https://www.bbc.co.uk/news/uk-57874744) - Sajid Javid, who has had two jabs, says PCR test confirmed result but his symptoms are "very mild".
+1. [Covid: Ministers wait to hear if they face quarantine after Javid tests positive](https://www.bbc.co.uk/news/uk-57877373) - Health Secretary Sajid Javid, who has tested positive for Covid, is isolating and working from home.
 2. [Covid: Vaccine offered to all UK adults, says government](https://www.bbc.co.uk/news/uk-57876608) - More than two-thirds of people have had both doses as England prepares for rules to ease on Monday.
 3. [Europe floods: Victims face massive clean-up as waters recede](https://www.bbc.co.uk/news/world-europe-57876982) - Residents of the worst-affected areas struggle to recover from the devastation as flood waters recede.
 4. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Jul 2021 23:59:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 02:05:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,20 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57869947</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57869947</guid>
             <pubDate>Sat, 17 Jul 2021 16:48:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moment New York mum saves five-year-old from kidnap]]></title>
+            <description><![CDATA[The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57877269</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57877269</guid>
+            <pubDate>Sun, 18 Jul 2021 00:19:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haiti: Wife of assassinated president returns from US after surviving attack]]></title>
+            <description><![CDATA[Wearing a bulletproof vest, Martine Moïse flew back from the US after being wounded in the attack.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57877241</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57877241</guid>
+            <pubDate>Sun, 18 Jul 2021 02:01:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daca: Obama programme for child migrants ruled illegal]]></title>
@@ -154,34 +168,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57841649</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57841649</guid>
             <pubDate>Thu, 15 Jul 2021 03:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Texas Democrats defy arrest threats after fleeing to block voting law]]></title>
-            <description><![CDATA[Democrats say they fled in an effort to stop Republicans from passing a law to tighten voting rules.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57831860</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57831860</guid>
-            <pubDate>Wed, 14 Jul 2021 08:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gun resembling Lego toy sparks backlash in US]]></title>
-            <description><![CDATA[A US company is told to stop producing a customised firearm covered in what looks like Lego.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57832053</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57832053</guid>
-            <pubDate>Wed, 14 Jul 2021 08:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Masih Alinejad: Iranians 'plotted to kidnap US, Canada and UK targets']]></title>
-            <description><![CDATA[New York-based Iranian-born journalist Masih Alinejad says she was targeted for abduction.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57830677</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57830677</guid>
-            <pubDate>Wed, 14 Jul 2021 20:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sacha Baron Cohen: US politician Roy Moore loses bid to sue over TV stunt]]></title>
-            <description><![CDATA[Roy Moore loses his attempt to sue comedian Sacha Baron Cohen, who duped him on his TV show.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57833093</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57833093</guid>
-            <pubDate>Wed, 14 Jul 2021 11:32:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Broadway dancer whose lockdown business bloomed]]></title>
@@ -707,6 +693,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-55249770</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55249770</guid>
             <pubDate>Thu, 10 Dec 2020 01:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Brunswick outbreak: How a smalltown doctor became a Covid pariah]]></title>
+            <description><![CDATA[After being labelled "patient zero", a small-town physician in Canada was shunned.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54686672</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54686672</guid>
+            <pubDate>Wed, 25 Nov 2020 01:23:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
