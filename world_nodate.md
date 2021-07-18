@@ -8,7 +8,7 @@
 8. [Brazil's Bolsonaro leaves hospital after treatment for blocked intestine](https://www.bbc.co.uk/news/world-latin-america-57881111) - The Brazilian president was treated for continuing complications after a near-fatal 2018 stabbing.
 9. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
 10. [Britney Spears says she will not perform while father controls career](https://www.bbc.co.uk/news/entertainment-arts-57873410) - The singer says the arrangement controlling her personal and financial affairs has "killed my dreams".
-11. [Kenya fuel tanker explosion kills 13 in Siaya County](https://www.bbc.co.uk/news/world-africa-57879278) - People rushed to the scene of the crash to siphon petrol when the explosion occurred.
+11. [Kenyan fuel tanker explodes killing at least 13](https://www.bbc.co.uk/news/world-africa-57879278) - People rushed to the scene of the crash to siphon petrol when the explosion occurred.
 12. [Covid-19: Ireland's top medical officers targeted by abusive calls](https://www.bbc.co.uk/news/world-europe-57879013) - Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.
 13. [In pictures: Masks and social distancing at downsized Hajj](https://www.bbc.co.uk/news/world-middle-east-57875572) - Only about 60,000 pilgrims living in Saudi Arabia were eligible to take part this year.
 14. [The Broadway dancer whose lockdown business bloomed](https://www.bbc.co.uk/news/stories-57840115) - When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.

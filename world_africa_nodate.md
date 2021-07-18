@@ -1,5 +1,5 @@
 1. [South Africa looting: Clean-up to mark Nelson Mandela Day](https://www.bbc.co.uk/news/world-africa-57879286) - People were urged to honour the anti-apartheid hero's legacy by rebuilding after riots left 212 dead.
-2. [Kenya fuel tanker explosion kills 13 in Siaya County](https://www.bbc.co.uk/news/world-africa-57879278) - People rushed to the scene of the crash to siphon petrol when the explosion occurred.
+2. [Kenyan fuel tanker explodes killing at least 13](https://www.bbc.co.uk/news/world-africa-57879278) - People rushed to the scene of the crash to siphon petrol when the explosion occurred.
 3. [SA athletes first to have Covid at Olympic village](https://www.bbc.co.uk/sport/olympics/57844406) - Two South Africa footballers test positive for Covid-19 in Olympic village, while eight Team GB athletes and staff isolating as close contacts.
 4. [Esraa Abdel Fattah: Egyptian activist released from prison](https://www.bbc.co.uk/news/world-middle-east-57882069) - Esraa Abdel Fattah earned the moniker "Facebook Girl" for her role in the 2011 revolution.
 5. [Joshi is swapping life in captivity for a new start in the jungle](https://www.bbc.co.uk/news/world-africa-57854071) - After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.
