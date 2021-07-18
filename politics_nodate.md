@@ -1,5 +1,5 @@
-1. [PM and chancellor to self-isolate after criticism](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
-2. [Covid: Vaccine offered to all UK adults, says government](https://www.bbc.co.uk/news/uk-57876608) - More than two-thirds of people have had both doses as England prepares for rules to ease on Monday.
+1. [Covid-19: PM and chancellor to self-isolate in U-turn](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
+2. [Covid:-19 Decision on vaccinations for under-18s 'within days'](https://www.bbc.co.uk/news/uk-57876608) - It comes as every adult in the UK has now been offered a vaccine, the government says.
 3. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
 4. [Blackpool councillor 'fat shamed' by MP over critical tweet](https://www.bbc.co.uk/news/uk-england-lancashire-57873811) - A Blackpool councillor claims a comment one of the town's MPs made in reply to his tweet was "nasty".
 5. [UK looks to extend ivory ban to hippos and other animals](https://www.bbc.co.uk/news/uk-politics-57867935) - Ministers say elephants are not the only animals at risk from hunters, as they launch consultation.

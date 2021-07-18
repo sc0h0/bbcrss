@@ -1,5 +1,5 @@
 1. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.
-2. [Covid: Vaccine offered to all UK adults, says government](https://www.bbc.co.uk/news/uk-57876608) - More than two-thirds of people have had both doses as England prepares for rules to ease on Monday.
+2. [Covid:-19 Decision on vaccinations for under-18s 'within days'](https://www.bbc.co.uk/news/uk-57876608) - It comes as every adult in the UK has now been offered a vaccine, the government says.
 3. ['Working in Mum's care home brought us closer'](https://www.bbc.co.uk/news/uk-england-bristol-57809429) - Lydia Loader, whose mother Sally has dementia, heard her speak for the first time in 18 months.
 4. [England plans biggest winter flu vaccine rollout](https://www.bbc.co.uk/news/health-57867955) - Free jabs will be offered to more than 35 million people, including more teenagers than ever before.
 5. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
