@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 14:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 15:19:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -301,6 +301,13 @@
             <link>https://www.bbc.co.uk/sport/swimming/57871266</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/57871266</guid>
             <pubDate>Sun, 18 Jul 2021 08:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Gossip: Celtic, Forster, Southampton, Soppy, Ross County, Dundee Utd, Chalmers]]></title>
+            <description><![CDATA[Celtic are keen to bring Southampton goalkeeper Fraser Forster in on loan for a fourth spell at the club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57878607</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57878607</guid>
+            <pubDate>Sun, 18 Jul 2021 07:39:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
