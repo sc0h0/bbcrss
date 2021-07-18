@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 12:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 12:55:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Covid in Scotland: Nearly a third of young adults still unvaccinated]]></title>
-            <description><![CDATA[All over-18s are offered a vaccine appointment but more than 260,000 younger adults have yet to have a first dose.]]></description>
+            <description><![CDATA[All over-18s in Scotland are offered an appointment but more than 260,000 younger adults have not yet had a first dose.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57875256</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57875256</guid>
             <pubDate>Sun, 18 Jul 2021 10:35:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Peterhead FC's team effort on Covid jab]]></title>
+            <description><![CDATA[Eight players from Peterhead FC were vaccinated together in the hope they can act as role models.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57880064</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57880064</guid>
+            <pubDate>Sun, 18 Jul 2021 12:24:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: France arrivals must quarantine despite rule change]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</guid>
             <pubDate>Sat, 17 Jul 2021 11:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Open 2021: Robert MacIntyre boosts Ryder Cup hopes with strong third round]]></title>
-            <description><![CDATA[Robert MacIntyre says he has "a lot to gain" as a third-round 65 catapults him up the leaderboard at The Open to boost his Ryder Cup hopes.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/57874667</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57874667</guid>
-            <pubDate>Sat, 17 Jul 2021 16:18:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Row brewing in Scotland over prospect of privatising Channel 4]]></title>
