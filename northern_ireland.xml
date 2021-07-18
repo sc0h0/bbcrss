@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 08:51:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 09:09:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Sat, 17 Jul 2021 14:45:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Belfast flats evacuated due to underground cable fire]]></title>
+            <description><![CDATA[The fire service said about 15 people were evacuated while they worked to find the cause of the fire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57874461</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57874461</guid>
+            <pubDate>Sat, 17 Jul 2021 20:45:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pastor James McConnell dies aged 84 after long illness]]></title>
             <description><![CDATA[The Belfast preacher's death is announced by Whitewell Tabernacle, the church which he founded.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57873316</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/sport/av/golf/57874842</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/57874842</guid>
             <pubDate>Sat, 17 Jul 2021 13:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belfast flats evacuated due to underground cable fire]]></title>
-            <description><![CDATA[The fire service said about 15 people were evacuated while they worked to find the cause of the fire.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57874461</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57874461</guid>
-            <pubDate>Sat, 17 Jul 2021 20:45:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Walk-in vaccine clinic open across NI this weekend]]></title>
