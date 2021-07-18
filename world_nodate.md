@@ -17,9 +17,9 @@
 17. [Abir Moussi: The Tunisian MP who was slapped but not beaten](https://www.bbc.co.uk/news/world-africa-57835759) - Abir Moussi uses a megaphone in parliament and gets death threats but many say her voice is crucial.
 18. [Your pictures on the theme of 'under the stars'](https://www.bbc.co.uk/news/in-pictures-57864019) - A selection of striking images from our readers around the world.
 19. [Under the skin of OnlyFans](https://www.bbc.co.uk/news/uk-57269939) - A BBC investigation reveals concerns about how the site, known for porn, is structured and moderated.
-20. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
-21. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
-22. [ICYMI: Dead flamingos and a helicopter crash landing](https://www.bbc.co.uk/news/world-57858463) - Here are some stories you may have missed this week.
+20. [Lex Gillette: Record-breaking blind long jumper](https://www.bbc.co.uk/news/disability-57851104) - With the support of his sighted guide, the four-time Paralympic medallist hopes to win gold in Tokyo.
+21. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
+22. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
 23. [Europe floods: Drone footage shows mudslides in western Germany](https://www.bbc.co.uk/news/world-europe-57860249) - Houses have collapsed in the town of Erfstadt-Blessem following record rainfall.
 24. [Europe floods: Neighbourhoods clear up after record rainfall](https://www.bbc.co.uk/news/world-europe-57861384) - BBC Netherlands correspondent Anna Holligan is in Valkenburg, where some residents have been forced to leave their homes.
 25. [Germany floods: Where are the worst-hit areas?](https://www.bbc.co.uk/news/world-europe-57862894) - Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.
