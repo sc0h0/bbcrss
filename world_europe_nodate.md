@@ -21,7 +21,7 @@
 21. [Severe flooding in western Europe](https://www.bbc.co.uk/weather/features/57862526) - Tomasz Schafernaker has the latest update on the deadly flooding in Germany and Belgium after days of heavy rain.
 22. [Europe floods: Neighbourhoods clear up after record rainfall](https://www.bbc.co.uk/news/world-europe-57861384) - BBC Netherlands correspondent Anna Holligan is in Valkenburg, where some residents have been forced to leave their homes.
 23. [In pictures: Floods kill dozens](https://www.bbc.co.uk/news/world-europe-57858826) - Record rainfall caused rivers to burst their banks, leaving at least 122 dead in Germany and Belgium.
-24. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed..
+24. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
 25. [Drone footage shows flood damage in Germany and Belgium](https://www.bbc.co.uk/news/world-europe-57869617) - At least 120 people have died and hundreds more are unaccounted for in western Europe.
 26. [Germany floods: Helicopter rescues residents from rooftops](https://www.bbc.co.uk/news/world-europe-57849206) - Dozens of people have died and many more are missing after severe floods in Germany.
 27. [Tokyo 2020: The gymnasts 'building bridges between cultures'](https://www.bbc.co.uk/news/world-asia-57839224) - The town of Murayama in northern Japan is preparing to welcome a team of Bulgarian Olympians.

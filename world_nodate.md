@@ -17,7 +17,7 @@
 17. [Abir Moussi: The Tunisian MP who was slapped but not beaten](https://www.bbc.co.uk/news/world-africa-57835759) - Abir Moussi uses a megaphone in parliament and gets death threats but many say her voice is crucial.
 18. [Your pictures on the theme of 'under the stars'](https://www.bbc.co.uk/news/in-pictures-57864019) - A selection of striking images from our readers around the world.
 19. [Under the skin of OnlyFans](https://www.bbc.co.uk/news/uk-57269939) - A BBC investigation reveals concerns about how the site, known for porn, is structured and moderated.
-20. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed..
+20. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
 21. [Europe floods: Drone footage shows mudslides in western Germany](https://www.bbc.co.uk/news/world-europe-57860249) - Houses have collapsed in the town of Erfstadt-Blessem following record rainfall.
 22. [Europe floods: Neighbourhoods clear up after record rainfall](https://www.bbc.co.uk/news/world-europe-57861384) - BBC Netherlands correspondent Anna Holligan is in Valkenburg, where some residents have been forced to leave their homes.
 23. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
