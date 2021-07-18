@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 11:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 12:24:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Sun, 18 Jul 2021 08:13:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[£500k grant offered to restore fire-ravaged Troon railway station]]></title>
+            <description><![CDATA[The Victorian Troon Station was devastated by a blaze on Saturday afternoon.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57878742</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57878742</guid>
+            <pubDate>Sun, 18 Jul 2021 11:59:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man's body recovered after Threipmuir reservoir search]]></title>
             <description><![CDATA[The family of a man who fell from an inflatable boat at Threipmuir in Edinburgh on Wednesday have been informed.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57879140</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57879140</guid>
             <pubDate>Sun, 18 Jul 2021 08:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: Long Covid 'agony' and vaccine rollout milestone]]></title>
-            <description><![CDATA[A number of front pages feature stories about long Covid, and consider the vaccine rollout.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57876206</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57876206</guid>
-            <pubDate>Sun, 18 Jul 2021 09:33:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two motorcyclists die in weekend crashes]]></title>
@@ -58,11 +58,18 @@
             <pubDate>Sun, 18 Jul 2021 07:23:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trains cancelled as firefighters tackle Troon station blaze]]></title>
-            <description><![CDATA[Lines through Troon will remain closed until Monday, according to ScotRail.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57874972</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57874972</guid>
-            <pubDate>Sat, 17 Jul 2021 16:41:56 GMT</pubDate>
+            <title><![CDATA[Scotland's papers: Long Covid 'agony' and vaccine rollout milestone]]></title>
+            <description><![CDATA[A number of front pages feature stories about long Covid, and consider the vaccine rollout.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57876206</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57876206</guid>
+            <pubDate>Sun, 18 Jul 2021 09:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long Covid funding to unearth new treatments]]></title>
+            <description><![CDATA[Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57869427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57869427</guid>
+            <pubDate>Sat, 17 Jul 2021 23:01:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: 'Heartless' quarantine decision to be re-examined]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</guid>
             <pubDate>Sat, 17 Jul 2021 11:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Calls to keep Glasgow's Hydro vaccination hub open]]></title>
-            <description><![CDATA[Opposition politicians want a rethink on the planned closure of the vaccination centre at the Hydro in Glasgow.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57873556</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57873556</guid>
-            <pubDate>Sat, 17 Jul 2021 12:22:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Open 2021: Robert MacIntyre boosts Ryder Cup hopes with strong third round]]></title>
@@ -105,20 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-57873846</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-57873846</guid>
             <pubDate>Sat, 17 Jul 2021 11:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First cruise ship since Covid set to visit Scotland]]></title>
-            <description><![CDATA[The MS Island Sky will berth in Lerwick harbour in Shetland on Monday with 66 passengers on board.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57862638</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57862638</guid>
-            <pubDate>Fri, 16 Jul 2021 13:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hawick pensioner convicted of rapes and sex attacks]]></title>
-            <description><![CDATA[A court is told Edward Swan from Hawick subjected four young girls to abuse over an 18-year period.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57861959</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57861959</guid>
-            <pubDate>Fri, 16 Jul 2021 16:00:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -303,25 +289,11 @@
             <pubDate>Sat, 17 Jul 2021 18:37:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish Gossip: Celtic, Forster, Southampton, Soppy, Ross County, Dundee Utd, Chalmers]]></title>
-            <description><![CDATA[Celtic are keen to bring Southampton goalkeeper Fraser Forster in on loan for a fourth spell at the club.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57878607</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57878607</guid>
-            <pubDate>Sun, 18 Jul 2021 07:39:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo 2020: Duncan Scott has 'no negative thoughts' as he eyes medals at Covid-hit Olympics]]></title>
             <description><![CDATA[Scottish swimmer Duncan Scott says he has "nothing to lose" at the upcoming Olympics and feels unaffected by the event's year-long delay.]]></description>
             <link>https://www.bbc.co.uk/sport/swimming/57871266</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/57871266</guid>
             <pubDate>Sun, 18 Jul 2021 08:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celtic 'not able to get people in quick enough', manager Ange Postecoglou complains]]></title>
-            <description><![CDATA[Ange Postecoglou says Celtic "need to bring some players in" but adds "we're not able to get people in quick enough" ahead of their Champions League start.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57875790</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57875790</guid>
-            <pubDate>Sat, 17 Jul 2021 20:43:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
