@@ -6,9 +6,9 @@
 6. [Daughter of Afghan envoy kidnapped and injured in Pakistan](https://www.bbc.co.uk/news/world-asia-57877239) - Afghan officials urge Pakistan to keep diplomats safe, amid tensions between the two neighbours.
 7. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
 8. [Britney Spears says she will not perform while father controls career](https://www.bbc.co.uk/news/entertainment-arts-57873410) - The singer says the arrangement controlling her personal and financial affairs has "killed my dreams".
-9. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
-10. [Kenya fuel tanker explosion kills 13 in Siaya County](https://www.bbc.co.uk/news/world-africa-57879278) - People rushed to the scene of the crash to siphon petrol when the explosion occurred.
-11. [Canada's vaccination rate overtakes US](https://www.bbc.co.uk/news/world-us-canada-57869947) - Canada had a slow start on vaccinations compared to its neighbour but has now caught up to the US.
+9. [Kenya fuel tanker explosion kills 13 in Siaya County](https://www.bbc.co.uk/news/world-africa-57879278) - People rushed to the scene of the crash to siphon petrol when the explosion occurred.
+10. [Covid-19: Ireland's top medical officers targeted by abusive calls](https://www.bbc.co.uk/news/world-europe-57879013) - Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.
+11. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
 12. [Egypt's Al Ahly win African Champions League title](https://www.bbc.co.uk/sport/africa/57833344) - Egyptian heavyweights Al Ahly win a tenth African Champions League on Saturday after beating Kaizer Chiefs 3-0 in Morocco.
 13. [In pictures: Masks and social distancing at downsized Hajj](https://www.bbc.co.uk/news/world-middle-east-57875572) - Only about 60,000 pilgrims living in Saudi Arabia were eligible to take part this year.
 14. [The Broadway dancer whose lockdown business bloomed](https://www.bbc.co.uk/news/stories-57840115) - When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.
