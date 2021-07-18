@@ -8,7 +8,7 @@
 8. [Britney Spears says she will not perform while father controls career](https://www.bbc.co.uk/news/entertainment-arts-57873410) - The singer says the arrangement controlling her personal and financial affairs has "killed my dreams".
 9. [Covid: UK faces a difficult summer, says leading scientist](https://www.bbc.co.uk/news/uk-57877033) - Prof Neil Ferguson says there could be as many as 200,000 cases a day as restrictions ease.
 10. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
-11. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.
+11. [Covid-19: Ireland's top medical officers targeted by abusive calls](https://www.bbc.co.uk/news/world-europe-57879013) - Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.
 12. [Anjem Choudary: Radical preacher's public speaking ban lifted](https://www.bbc.co.uk/news/uk-england-london-57878910) - The strict licence conditions Anjem Choudary was subjected to after leaving prison come to an end.
 13. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Ten men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
 14. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
@@ -43,7 +43,7 @@
 43. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks will no longer be compulsory in England from 19 July, but will remain necessary in Scotland and Wales.
 44. [Coronavirus cure: What progress are we making on treatments?](https://www.bbc.co.uk/news/health-52354520) - Medical teams around the world are learning which medicines work best against Covid.
 45. [Amber list: 'I'm going to Ibiza by any means necessary'](https://www.bbc.co.uk/news/newsbeat-57856616) - The Balearic Islands joining the amber travel list for England is causing a dilemma for some holiday makers.
-46. [Covid: What will mask makers do now?](https://www.bbc.co.uk/news/newsbeat-57737666) - People around the country have made and sold masks during the pandemic. Here's what they'll do next.
-47. [Snail mail: Postcard sent in 1989 finally delivered](https://www.bbc.co.uk/news/uk-england-humber-57837144) - Andrew Leslie's message to his dad, sent from Michigan in 1989, finally reaches his Grimsby home.
-48. [Virgin Galactic: Richard Branson's long, winding path to space](https://www.bbc.co.uk/news/science-environment-57798167) - The BBC tracks the long, winding road to Sir Richard Branson's flight to the edge of space.
+46. [Snail mail: Postcard sent in 1989 finally delivered](https://www.bbc.co.uk/news/uk-england-humber-57837144) - Andrew Leslie's message to his dad, sent from Michigan in 1989, finally reaches his Grimsby home.
+47. [Virgin Galactic: Richard Branson's long, winding path to space](https://www.bbc.co.uk/news/science-environment-57798167) - The BBC tracks the long, winding road to Sir Richard Branson's flight to the edge of space.
+48. [England football racism: Black and Asian fans 'so proud' of Southgate's team](https://www.bbc.co.uk/news/newsbeat-57803412) - Binta Williams, 22, is one of many new fans loving the diversity of the Euro 2020 England squad.
 49. [CBeebies Bedtime Stories: Why Hollywood stars like Ryan Reynolds are lining up](https://www.bbc.co.uk/news/entertainment-arts-57827931) - Other stars to have taken part include Tom Hardy, Dolly Parton and Sir Elton John. Here's why.
