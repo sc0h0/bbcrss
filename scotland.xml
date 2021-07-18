@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 13:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 13:31:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57875256</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57875256</guid>
             <pubDate>Sun, 18 Jul 2021 10:35:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruth Davidson to join House of Lords on Tuesday]]></title>
+            <description><![CDATA[The former Scottish Conservative leader will take the title Baroness Davidson of Lundin Links.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57880791</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57880791</guid>
+            <pubDate>Sun, 18 Jul 2021 13:17:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Peterhead FC's team effort on Covid jab]]></title>
@@ -65,13 +72,6 @@
             <pubDate>Sun, 18 Jul 2021 07:23:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Long Covid 'agony' and vaccine rollout milestone]]></title>
-            <description><![CDATA[A number of front pages feature stories about long Covid, and consider the vaccine rollout.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57876206</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57876206</guid>
-            <pubDate>Sun, 18 Jul 2021 09:33:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Long Covid funding to unearth new treatments]]></title>
             <description><![CDATA[Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.]]></description>
             <link>https://www.bbc.co.uk/news/health-57869427</link>
@@ -79,11 +79,11 @@
             <pubDate>Sat, 17 Jul 2021 23:01:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: 'Heartless' quarantine decision to be re-examined]]></title>
-            <description><![CDATA[Laura Soutar is stuck in hotel isolation in Majorca while her father Iain, from Milngavie, has just days to live.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57875096</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57875096</guid>
-            <pubDate>Sat, 17 Jul 2021 17:01:46 GMT</pubDate>
+            <title><![CDATA[Scotland's papers: Long Covid 'agony' and vaccine rollout milestone]]></title>
+            <description><![CDATA[A number of front pages feature stories about long Covid, and consider the vaccine rollout.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57876206</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57876206</guid>
+            <pubDate>Sun, 18 Jul 2021 09:33:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google Maps updates 'dangerous' Ben Nevis route]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</guid>
             <pubDate>Sat, 17 Jul 2021 11:11:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: 'Heartless' quarantine decision to be re-examined]]></title>
+            <description><![CDATA[Laura Soutar is stuck in hotel isolation in Majorca while her father Iain, from Milngavie, has just days to live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57875096</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57875096</guid>
+            <pubDate>Sat, 17 Jul 2021 17:01:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Row brewing in Scotland over prospect of privatising Channel 4]]></title>

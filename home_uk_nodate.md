@@ -1,6 +1,6 @@
 1. [Covid-19: PM and chancellor to self-isolate in U-turn](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
 2. [Covid: 'Pingdemic' threatens shop openings say supermarkets](https://www.bbc.co.uk/news/business-57878345) - M&S says it may have to reduce opening hours if more workers are forced to self-isolate.
-3. [Tokyo Olympics: First competitors have Covid at athletes village](https://www.bbc.co.uk/sport/olympics/57844406) - Two South Africa footballers become the first competitors to test positive for coronavirus in the Tokyo Olympic athletes' village.
+3. [Tokyo Olympics: First competitors have Covid in athletes village](https://www.bbc.co.uk/sport/olympics/57844406) - Two South Africa footballers become the first competitors to test positive for coronavirus in the Tokyo Olympic athletes' village.
 4. [Covid:-19 Decision on vaccinations for under-18s 'within days'](https://www.bbc.co.uk/news/uk-57876608) - It comes as every adult in the UK has now been offered a vaccine, the government says.
 5. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
 6. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
@@ -10,7 +10,7 @@
 10. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
 11. [Covid-19: Ireland's top medical officers targeted by abusive calls](https://www.bbc.co.uk/news/world-europe-57879013) - Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.
 12. [Anjem Choudary: Radical preacher's public speaking ban lifted](https://www.bbc.co.uk/news/uk-england-london-57878910) - The strict licence conditions Anjem Choudary was subjected to after leaving prison come to an end.
-13. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Ten men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
+13. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Seven men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
 14. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
 15. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
 16. [The Papers: 'Freedumb day' and 'No 10 pingdemic'](https://www.bbc.co.uk/news/blogs-the-papers-57877279) - The front pages focus on the growing criticism facing the government over Monday's easing of Covid rules in England.
