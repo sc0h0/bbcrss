@@ -8,7 +8,7 @@
 8. [Daughter of Afghan envoy kidnapped and injured in Pakistan](https://www.bbc.co.uk/news/world-asia-57877239) - Afghan officials urge Pakistan to keep diplomats safe, amid tensions between the two neighbours.
 9. [Europe floods: Victims face massive clean-up as waters recede](https://www.bbc.co.uk/news/world-europe-57876982) - Residents of the worst-affected areas struggle to recover from the devastation as flood waters recede.
 10. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
-11. [Covid: London's Metropolitan Line closed after staff pinged by NHS app](https://www.bbc.co.uk/news/uk-england-london-57874404) - Control room staff on the Metropolitan Line are isolating after being sent alerts by the NHS app.
+11. [Covid: London's Metropolitan Line reopens after staff pinged by NHS app](https://www.bbc.co.uk/news/uk-england-london-57878908) - The Metropolitan Line was closed on Saturday as control room staff were pinged by the NHS app.
 12. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Ten men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
 13. [The Papers: 'Freedumb day' and 'No 10 pingdemic'](https://www.bbc.co.uk/news/blogs-the-papers-57877279) - The front pages focus on the growing criticism facing the government over Monday's easing of Covid rules in England.
 14. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 08:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 08:26:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57875256</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57875256</guid>
             <pubDate>Sun, 18 Jul 2021 07:16:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: France arrivals must quarantine despite rule change]]></title>
+            <description><![CDATA[A planned relaxation of Scotland's rules on Monday will not apply to travellers coming from France.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57878737</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57878737</guid>
+            <pubDate>Sun, 18 Jul 2021 08:13:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[David Haggart: The killer whose story inspired a Hollywood legend]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Sat, 17 Jul 2021 12:22:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mass testing as Covid outbreak hits Perth Prison]]></title>
-            <description><![CDATA[Nearly 100 inmates at Perth Prison are self-isolating after testing positive, with no access to family or lawyers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-57873846</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-57873846</guid>
-            <pubDate>Sat, 17 Jul 2021 11:55:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Google Maps updates 'dangerous' Ben Nevis route]]></title>
             <description><![CDATA[The firm insists its map service did not direct walkers to a "potentially fatal" trail - but makes changes to avoid confusion.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57873330</link>
@@ -79,18 +79,18 @@
             <pubDate>Sat, 17 Jul 2021 16:18:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mass testing as Covid outbreak hits Perth Prison]]></title>
+            <description><![CDATA[Nearly 100 inmates at Perth Prison are self-isolating after testing positive, with no access to family or lawyers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-57873846</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-57873846</guid>
+            <pubDate>Sat, 17 Jul 2021 11:55:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Row brewing in Scotland over prospect of privatising Channel 4]]></title>
             <description><![CDATA[Some production companies fear a privatised channel would spend less money and support fewer jobs in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-57864641</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-57864641</guid>
             <pubDate>Sat, 17 Jul 2021 08:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: One in 90 people in Scotland have virus, experts estimate]]></title>
-            <description><![CDATA[The Office for National Statistics finds Covid infections have risen again across much of the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57865803</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57865803</guid>
-            <pubDate>Fri, 16 Jul 2021 13:51:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First cruise ship since Covid set to visit Scotland]]></title>
