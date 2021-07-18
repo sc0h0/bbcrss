@@ -1,14 +1,14 @@
 1. [Defibrillator calls after Barry cricketer dies](https://www.bbc.co.uk/news/uk-wales-57880399) - Father-of-three Maqsood Anwar, 44, was playing cricket when he collapsed.
 2. [Covid in Wales: Self-isolation rethink over child contacts](https://www.bbc.co.uk/news/uk-wales-57880143) - Ministers consider whether children should not have to isolate if a close contact tests positive.
 3. [Tenby: Toddler found safe after coastguard search](https://www.bbc.co.uk/news/uk-wales-57881961) - Two swimmers who got into difficulty were also rescued by lifeboat crews on Sunday.
-4. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
-5. [Covid rules being lifted sparks waterfall traffic fears](https://www.bbc.co.uk/news/uk-wales-57866005) - Residents say they do not want a repeat of last year's parking problems and traffic jams.
+4. [Football cap from 1905 returns to Wales from Australia](https://www.bbc.co.uk/news/uk-wales-57863668) - Walter Watkins' cap for his seventh appearance for Wales has been down under for decades.
+5. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
 6. [Covid: Plaid urge caution over easing rules in August](https://www.bbc.co.uk/news/uk-wales-57873174) - Wales should not get rid of most rules in early August if cases are rising, according to Plaid Cymru.
-7. [Man's 'unexplained' death in Llantwit Major prompts police probe](https://www.bbc.co.uk/news/uk-wales-57880140) - Police erect a cordon after officers are called to a property after a 50-year-old man's body was found.
-8. [Cardiff police charge man, 19, after Bute Park sex attack](https://www.bbc.co.uk/news/uk-wales-57873343) - He has been remanded in custody and is due to appear before Cardiff magistrates on Monday.
+7. [Covid rules being lifted sparks waterfall traffic fears](https://www.bbc.co.uk/news/uk-wales-57866005) - Residents say they do not want a repeat of last year's parking problems and traffic jams.
+8. [Man's 'unexplained' death in Llantwit Major prompts police probe](https://www.bbc.co.uk/news/uk-wales-57880140) - Police erect a cordon after officers are called to a property after a 50-year-old man's body was found.
 9. [Respect all members, says independence group leader](https://www.bbc.co.uk/news/uk-wales-politics-57873337) - The YesCymru pro-independence group needs structural changes, its new interim chair says.
-10. [Pontypool: The town looking for a fresh start](https://www.bbc.co.uk/news/uk-wales-57809563) - The once prosperous town of Pontypool is trying to reinvent itself in the wake of the pandemic.
-11. [Covid: Sunshine in Wales puts indoor meet-ups on hold](https://www.bbc.co.uk/news/uk-wales-57875082) - Groups of six are now allowed to meet in homes - but not many want to be indoors.
+10. [Cardiff police charge man, 19, after Bute Park sex attack](https://www.bbc.co.uk/news/uk-wales-57873343) - He has been remanded in custody and is due to appear before Cardiff magistrates on Monday.
+11. [Pontypool: The town looking for a fresh start](https://www.bbc.co.uk/news/uk-wales-57809563) - The once prosperous town of Pontypool is trying to reinvent itself in the wake of the pandemic.
 12. [Cardiff's Jewish history brought to life by virtual trail](https://www.bbc.co.uk/news/uk-wales-57826282) - The history of the city's Jewish community has been brought to life by a virtual trail.
 13. [Covid: Pontypool shoppers want to 'revive' town centre](https://www.bbc.co.uk/news/uk-wales-57870128) - Once a major city centre, Pontypool town like many other places has seen shops close due to Covid.
 14. [Amputee's win for prosthetics funding in Wales shows 'people power'](https://www.bbc.co.uk/news/uk-wales-57866765) - David Bradley said amputees in Wales had been disadvantaged compared to the rest of the UK.
