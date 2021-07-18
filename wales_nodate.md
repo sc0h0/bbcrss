@@ -1,14 +1,14 @@
 1. [Covid rules being lifted sparks waterfall traffic fears](https://www.bbc.co.uk/news/uk-wales-57866005) - Residents say they don't want a repeat of last year's parking problems and traffic jams.
 2. [Covid: Plaid urge caution over easing rules in August](https://www.bbc.co.uk/news/uk-wales-57873174) - Wales should not get rid of most rules in early August if cases are rising, according to Plaid Cymru.
-3. [Cardiff police charge man, 19, after Bute Park sex attack](https://www.bbc.co.uk/news/uk-wales-57873343) - He has been remanded in custody and is due to appear before Cardiff magistrates on Monday.
-4. [Covid: Sunshine in Wales puts indoor meet-ups on hold](https://www.bbc.co.uk/news/uk-wales-57875082) - Groups of six are now allowed to meet in homes - but not many want to be indoors.
-5. [Respect all members, says independence group leader](https://www.bbc.co.uk/news/uk-wales-politics-57873337) - The YesCymru pro-independence group needs structural changes, its new interim chair says.
-6. [Pontypool: The town looking for a fresh start](https://www.bbc.co.uk/news/uk-wales-57809563) - The once prosperous town of Pontypool is trying to reinvent itself in the wake of the pandemic.
-7. [Cardiff's Jewish history brought to life by virtual trail](https://www.bbc.co.uk/news/uk-wales-57826282) - The history of the city's Jewish community has been brought to life by a virtual trail.
-8. [Covid rules in Wales: No outdoor limits and six can meet at home](https://www.bbc.co.uk/news/uk-wales-57866006) - Covid rules are relaxed and the law restricting the number people meeting outside is scrapped.
-9. [Fire fund 'too little, too late' for high-rise](https://www.bbc.co.uk/news/uk-wales-57866470) - Campaigners say plans to pay for fire safety surveys in high-rise flats do not go far enough.
-10. [Amputee wins better prosthetics funding access in Wales](https://www.bbc.co.uk/news/uk-wales-54840455) - David Bradley argued patients in Wales were not getting fair access to better artificial limbs.
-11. [Child sunburn cases at Swansea's Welsh burns hospital prompts warning](https://www.bbc.co.uk/news/uk-wales-57866642) - Parents warned to apply sun cream 'liberally' on children as hot temperatures set to soar.
+3. [Man's 'unexplained' death in Llantwit Major prompts police probe](https://www.bbc.co.uk/news/uk-wales-57880140) - Police erect a cordon after officers are called to a property after a 50-year-old man's body was found.
+4. [Cardiff police charge man, 19, after Bute Park sex attack](https://www.bbc.co.uk/news/uk-wales-57873343) - He has been remanded in custody and is due to appear before Cardiff magistrates on Monday.
+5. [Covid: Sunshine in Wales puts indoor meet-ups on hold](https://www.bbc.co.uk/news/uk-wales-57875082) - Groups of six are now allowed to meet in homes - but not many want to be indoors.
+6. [Respect all members, says independence group leader](https://www.bbc.co.uk/news/uk-wales-politics-57873337) - The YesCymru pro-independence group needs structural changes, its new interim chair says.
+7. [Pontypool: The town looking for a fresh start](https://www.bbc.co.uk/news/uk-wales-57809563) - The once prosperous town of Pontypool is trying to reinvent itself in the wake of the pandemic.
+8. [Cardiff's Jewish history brought to life by virtual trail](https://www.bbc.co.uk/news/uk-wales-57826282) - The history of the city's Jewish community has been brought to life by a virtual trail.
+9. [Covid rules in Wales: No outdoor limits and six can meet at home](https://www.bbc.co.uk/news/uk-wales-57866006) - Covid rules are relaxed and the law restricting the number people meeting outside is scrapped.
+10. [Fire fund 'too little, too late' for high-rise](https://www.bbc.co.uk/news/uk-wales-57866470) - Campaigners say plans to pay for fire safety surveys in high-rise flats do not go far enough.
+11. [Amputee wins better prosthetics funding access in Wales](https://www.bbc.co.uk/news/uk-wales-54840455) - David Bradley argued patients in Wales were not getting fair access to better artificial limbs.
 12. [Covid: Pontypool shoppers want to 'revive' town centre](https://www.bbc.co.uk/news/uk-wales-57870128) - Once a major city centre, Pontypool town like many other places has seen shops close due to Covid.
 13. [Amputee's win for prosthetics funding in Wales shows 'people power'](https://www.bbc.co.uk/news/uk-wales-57866765) - David Bradley said amputees in Wales had been disadvantaged compared to the rest of the UK.
 14. [Covid: Why rinks opening in Wales is on ice](https://www.bbc.co.uk/news/uk-wales-57866643) - Although ice rinks can re-open from Saturday, Ice Arena Wales will be ready from 1 August.
