@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jul 2021 16:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 16:39:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,7 @@
             <description><![CDATA[It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57879730</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57879730</guid>
-            <pubDate>Sun, 18 Jul 2021 16:18:45 GMT</pubDate>
+            <pubDate>Sun, 18 Jul 2021 16:27:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comedian Tom O'Connor dies aged 81]]></title>
@@ -268,6 +268,13 @@
             <pubDate>Sun, 18 Jul 2021 16:16:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[T20 Blast round-up: Birmingham Bears and Hampshire Hawks keep quarter-final hopes alive]]></title>
+            <description><![CDATA[Birmingham Bears and Hampshire Hawks both win to keep their hopes of reaching the T20 Blast quarter-finals alive.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57881661</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57881661</guid>
+            <pubDate>Sun, 18 Jul 2021 16:36:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[St Helens beat Castleford to win Challenge Cup for first time in 13 years]]></title>
             <description><![CDATA[St Helens come from behind to beat Castleford at Wembley and win the Challenge Cup for the first time in 13 years.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/57828390</link>
@@ -280,13 +287,6 @@
             <link>https://www.bbc.co.uk/sport/football/57880067</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57880067</guid>
             <pubDate>Sun, 18 Jul 2021 11:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crystal Palace: Patrick Vieira will do things his way as new Eagles head coach]]></title>
-            <description><![CDATA[Patrick Vieira's reign at Crystal Palace got off to a winning start and the Eagles will hope history doesn't repeat itself under the France World Cup winner.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57879602</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57879602</guid>
-            <pubDate>Sun, 18 Jul 2021 12:34:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
