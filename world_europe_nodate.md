@@ -1,4 +1,4 @@
-1. [Europe floods: Rescuers race to find survivors as hundreds remain missing](https://www.bbc.co.uk/news/world-europe-57871308) - A senior German politician has been criticised for laughing during a visit to affected areas.
+1. [Europe floods: Victims face massive clean-up as waters recede](https://www.bbc.co.uk/news/world-europe-57876982) - Residents of the worst-affected areas struggle to recover from the devastation as flood waters recede.
 2. [Germany floods: Where are the worst-hit areas?](https://www.bbc.co.uk/news/world-europe-57862894) - Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.
 3. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
 4. ['Havana syndrome'-like mystery illness affects Vienna US diplomats](https://www.bbc.co.uk/news/world-europe-57875322) - The Biden administration is investigating cases of "Havana syndrome" among US officials.
