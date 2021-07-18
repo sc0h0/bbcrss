@@ -1,5 +1,5 @@
-1. [Kenya fuel tanker explosion kills 13 in Siaya County](https://www.bbc.co.uk/news/world-africa-57879278) - People rushed to the scene of the crash to siphon petrol when the explosion occurred.
-2. [SA athletes first to have Covid at Olympic village](https://www.bbc.co.uk/sport/olympics/57844406) - Two South Africa footballers become the first competitors to test positive for coronavirus in the Tokyo Olympic athletes' village.
+1. [SA athletes first to have Covid at Olympic village](https://www.bbc.co.uk/sport/olympics/57844406) - Two South Africa footballers become the first competitors to test positive for coronavirus in the Tokyo Olympic athletes' village.
+2. [Kenya fuel tanker explosion kills 13 in Siaya County](https://www.bbc.co.uk/news/world-africa-57879278) - People rushed to the scene of the crash to siphon petrol when the explosion occurred.
 3. [Egypt's Al Ahly win African Champions League title](https://www.bbc.co.uk/sport/africa/57833344) - Egyptian heavyweights Al Ahly win a tenth African Champions League on Saturday after beating Kaizer Chiefs 3-0 in Morocco.
 4. [Joshi is swapping life in captivity for a new start in the jungle](https://www.bbc.co.uk/news/world-africa-57854071) - After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.
 5. [South African says riots over Zuma jailing pre-planned - Cyril Ramaphosa](https://www.bbc.co.uk/news/world-africa-57863558) - At least 212 people are now known to have died in unrest sparked by the jailing of Jacob Zuma.
