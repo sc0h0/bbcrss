@@ -1,10 +1,10 @@
 1. [Two jabs needed to enter nightclubs from September](https://www.bbc.co.uk/news/business-57893788) - People will need to be fully vaccinated to enter venues where large crowds gather, the government says.
 2. [Covid-19: Critical staff to avoid isolation and some under-18s to get jab](https://www.bbc.co.uk/news/uk-57891847) - Five things you need to know about the coronavirus pandemic this Monday evening.
-3. [Covid: Hundreds of thousands of under-18s to get vaccine](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says children at high risk from Covid will be offered the jab.
-4. [Covid: Critical workers to avoid close contact isolation](https://www.bbc.co.uk/news/uk-57894392) - People performing "critical" tasks including air traffic controllers will be exempt under new rules.
-5. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.
-6. [Covid patients urge caution: 'It's just the worst experience'](https://www.bbc.co.uk/news/uk-57894916) - As most coronavrirus restrictions in England are lifted, Covid patients urge the public to take care.
-7. [Global shares slide amid Covid economic recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stock markets in the UK, the US and Europe fall on concerns that rising cases may impede a recovery.
+3. [Covid: Critical workers to avoid close contact isolation](https://www.bbc.co.uk/news/uk-57894392) - People performing "critical" tasks including air traffic controllers will be exempt under new rules.
+4. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.
+5. [Prince Harry promises to share 'highs and lows' in memoir](https://www.bbc.co.uk/news/uk-57896088) - The book is due to be published next year and will be "accurate and wholly truthful", the prince says.
+6. [Covid: Hundreds of thousands of under-18s to get vaccine](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says children at high risk from Covid will be offered the jab.
+7. [Covid patients urge caution: 'It's just the worst experience'](https://www.bbc.co.uk/news/uk-57894916) - As most coronavrirus restrictions in England are lifted, Covid patients urge the public to take care.
 8. [Zoom bets billions on home working continuing in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
 9. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
 10. [Paralympian told to wear more appropriate shorts](https://www.bbc.co.uk/sport/disability-sport/57887715) - Double world champion para-athlete Olivia Breen said she was left angry and speechless after being told to wear 'more appropriate' shorts.
