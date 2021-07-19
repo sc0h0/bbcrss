@@ -25,4 +25,4 @@
 25. [Mayhill: Adolygiad i ganfod y rhesymau am anhrefn Abertawe](https://www.bbc.co.uk/newyddion/57890692) - Mon, 19 Jul 2021 16:19:43 GMT - Roedd yna olygfeydd treisgar wedi i bobl ddod at ei gilydd i dalu teyrnged wedi marwolaeth dyn ifanc.
 26. [Rhybudd oren cyntaf am wres eithafol i rannau o Gymru](https://www.bbc.co.uk/newyddion/57889724) - Mon, 19 Jul 2021 16:33:15 GMT - Swyddfa Dywydd wedi cyhoeddi rhybudd am wres eithafol am y tro cyntaf yn y DU, a fydd yn effeithio ar Gymru.
 27. [Lluniau o'r archif: Y Sioe Fawr dros y blynyddoedd](https://www.bbc.co.uk/newyddion/57837159) - Mon, 19 Jul 2021 13:28:04 GMT - Gan fod Sioe Frenhinol 2021 wedi ei chanslo, beth am gipolwg ar rai o sioeau'r gorffennol?
-28. [Penodi Prif Weithredwr newydd Cymdeithas Bêl-droed Cymru](https://www.bbc.co.uk/newyddion/57887782) - Mon, 19 Jul 2021 12:36:08 GMT - Noel Mooney i olynu Jonathan Ford fel Prif Weithredwr Cymdeithas Bêl-droed Cymru
+28. [Prif hyfforddwyr yn gadael Tîm Rygbi Merched Cymru](https://www.bbc.co.uk/newyddion/57892737) - Mon, 19 Jul 2021 19:25:46 GMT - Mae Warren Abrahams yn gadael ei swydd lai na naw mis ar ôl cael ei benodi.
