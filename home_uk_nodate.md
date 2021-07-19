@@ -1,4 +1,4 @@
-1. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says experts think vulnerable children and those close to 18 should be jabbed.
+1. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says he will announce the final decision in Parliament on Monday afternoon.
 2. [Johnson urges caution as Covid rules ease in England](https://www.bbc.co.uk/news/uk-57882029) - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
 3. [Horse racing: Thousands of racehorses killed in slaughterhouses](https://www.bbc.co.uk/news/uk-57881979) - Some horses once trained by some of racing’s top names are being slaughtered, BBC Panorama finds.
 4. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.

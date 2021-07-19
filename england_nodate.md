@@ -1,6 +1,6 @@
 1. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
 2. [Covid 19: More than one third of Londoners unvaccinated](https://www.bbc.co.uk/news/uk-england-london-57874402) - Although the city has administered nine million jabs, its young population means many are unvaccinated.
-3. [Body pulled from river in York and two lakes searched](https://www.bbc.co.uk/news/uk-england-57884739) - Police across Yorkshire are searching lakes after reports of two people getting into difficulty.
+3. [Two found dead in York river and Sheffield lake](https://www.bbc.co.uk/news/uk-england-57884739) - The bodies were found by emergency crews in the River Ouse in York and at a lake in Sheffield.
 4. [Teenage girl dies after being found in Ducklington Lake](https://www.bbc.co.uk/news/uk-england-oxfordshire-57884995) - The girl was pulled from the water and taken to hospital but later died.
 5. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
 6. [Whipsnade Zoo to survey trees after escaped bears shot dead](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57868029) - The bears used a fallen tree to climb out of their enclosure and attack a boar.
@@ -44,4 +44,4 @@
 44. [Andy Carroll: Striker needs to 'go and play somewhere', says Newcastle boss Bruce](https://www.bbc.co.uk/sport/football/57884925) - Former England striker Andy Carroll is looking for a new club after leaving Newcastle, boss Steve Bruce says.
 45. [The Open 2021: Collin Morikawa says Royal St George's victory 'hard to grasp'](https://www.bbc.co.uk/sport/golf/57882257) - American Collin Morikawa says he "wants more" after winning The Open to claim his second major title by the age of 24.
 46. [T20 Blast round-up: Bears, Hawks and Sharks reach quarter-finals](https://www.bbc.co.uk/sport/cricket/57881661) - Birmingham Bears, Hampshire Hawks and Sussex Sharks seal quarter-final spots with big wins in the T20 Blast
-47. [Mark Cavendish: How Cavendish rolled back the years to cement his status as Tour de France great](https://www.bbc.co.uk/sport/cycling/57716296) - How Mark Cavendish rode into Tour de France history to share the stage win record with Eddy Merckx and to win the green jersey.
+47. [Mark Cavendish: How cyclist rolled back the years to cement his status as Tour de France great](https://www.bbc.co.uk/sport/cycling/57716296) - How Mark Cavendish rode into Tour de France history to share the stage win record with Eddy Merckx and to win the green jersey.
