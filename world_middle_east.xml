@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 06:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 06:54:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57882069</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57882069</guid>
             <pubDate>Sun, 18 Jul 2021 17:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oil producing nations agree deal to control prices]]></title>
+            <description><![CDATA[The Opec cartel and Russia will boost supply which should see petrol prices at the pumps come down.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57882449</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57882449</guid>
+            <pubDate>Sun, 18 Jul 2021 18:03:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In pictures: Masks and social distancing at downsized Hajj]]></title>
@@ -163,6 +170,13 @@
             <pubDate>Fri, 25 Jun 2021 23:21:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19 tests while you wait in Israeli airport]]></title>
+            <description><![CDATA[Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57869807</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57869807</guid>
+            <pubDate>Sat, 17 Jul 2021 23:05:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Iraqi firefighters tackle blaze in Covid ward]]></title>
             <description><![CDATA[More than 50 people have died after a fire broke out in a coronavirus isolation ward at a hospital in Iraq.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57815621</link>
@@ -189,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57686396</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57686396</guid>
             <pubDate>Thu, 01 Jul 2021 15:06:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Palestinian protests: Crowds clash with police after death of activist]]></title>
-            <description><![CDATA[Protests took place in Ramallah after the death of an activist and critic of the Palestinian Authority.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57632508</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57632508</guid>
-            <pubDate>Sun, 27 Jun 2021 19:01:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
