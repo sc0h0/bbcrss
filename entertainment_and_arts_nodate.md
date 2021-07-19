@@ -6,7 +6,7 @@
 6. [Britney Spears says she will not perform while father controls career](https://www.bbc.co.uk/news/entertainment-arts-57873410) - The singer says the arrangement controlling her personal and financial affairs has "killed my dreams".
 7. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
 8. [Cannes Film Festival: Titane wins top Palme d'Or prize](https://www.bbc.co.uk/news/entertainment-arts-57875578) - The outlandish Titane wins after jury president Spike Lee reveals the award in a ceremony slip-up.
-9. [Covid: Pioneering opera director Sir Graham Vick dies](https://www.bbc.co.uk/news/uk-england-birmingham-57879207) - Sir Graham, who founded Birmingham Opera Company, died of Covid "complications", it is announced.
+9. [Covid: Pioneering opera director Sir Graham Vick dies](https://www.bbc.co.uk/news/uk-england-birmingham-57879207) - Sir Graham, who founded Birmingham Opera Company, died of Covid complications, it is announced.
 10. [Inhaler: Bono's son and his band top UK chart with debut album](https://www.bbc.co.uk/news/entertainment-arts-57864034) - Elijah Hewson's rock group knock Olivia Rodrigo off the top spot with their debut album.
 11. [Cannes Film Festival 2021 highlights: Sun, stars and saliva](https://www.bbc.co.uk/news/entertainment-arts-57864015) - A-listers flocked to the Cannes Film Festival's red carpet, despite the pandemic.
 12. [Stephen Fretwell: 'Gavin and Stacey song equated to a part-time job'](https://www.bbc.co.uk/news/entertainment-arts-57812272) - Stephen Fretwell on his hit TV show theme tune and why his 13-year music hiatus has come to an end.

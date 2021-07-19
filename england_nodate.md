@@ -3,7 +3,7 @@
 3. [19 July: The station where masks are mandatory - and not](https://www.bbc.co.uk/news/uk-england-london-57886933) - Commuters at Farringdon station react to the varying face-covering rules now in place in London.
 4. [Lakota nightclub reopens to sell-out crowd in Bristol](https://www.bbc.co.uk/news/uk-england-bristol-57889592) - People lined the streets as Lakota in Bristol opened its doors for the first time in 16 months.
 5. [Covid-19: Vauxhall's Luton plant reduces shifts due to staff isolating](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57887164) - The vehicle manufacturer says it cannot operate at full capacity due to the number of staff "pinged".
-6. [Two found dead in York river and Sheffield lake](https://www.bbc.co.uk/news/uk-england-57884739) - The bodies were found by emergency crews in the River Ouse in York and at a lake in Sheffield.
+6. [Heatwave swimming warning after six die in England](https://www.bbc.co.uk/news/uk-england-57884739) - Swimmers are urged to take care after six die in lakes and rivers in England amid the weekend heat.
 7. [Police officer Denim Wade dismissed for avoiding self-isolation](https://www.bbc.co.uk/news/uk-england-berkshire-57889731) - The constable helped detain a suspect who later tested positive for coronavirus.
 8. [Man dies in fall from rocks on Jurassic Coast in Dorset](https://www.bbc.co.uk/news/uk-england-dorset-57889137) - The man was pronounced dead at the scene on the Dorset coast.
 9. [Post Office Horizon scandal: More subpostmasters cleared](https://www.bbc.co.uk/news/business-57888146) - The Court of Appeal clears 12 more former subpostmasters who were wrongly convicted.
