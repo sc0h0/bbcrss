@@ -2,12 +2,12 @@
 2. [Covid 19: More than one third of Londoners unvaccinated](https://www.bbc.co.uk/news/uk-england-london-57874402) - Although the city has administered nine million jabs, its young population means many are unvaccinated.
 3. [Body pulled from river in York and two lakes searched](https://www.bbc.co.uk/news/uk-england-57884739) - Police across Yorkshire are searching lakes after reports of two people getting into difficulty.
 4. [Teenage girl dies after being found in Ducklington Lake](https://www.bbc.co.uk/news/uk-england-oxfordshire-57884995) - The girl was pulled from the water and taken to hospital but later died.
-5. [Whipsnade Zoo to survey trees after escaped bears shot dead](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57868029) - The bears used a fallen tree to climb out of their enclosure and attack a boar.
-6. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Seven men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
-7. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
-8. [Euros 2020: Locals repaint footballer mural daubed with racist graffiti](https://www.bbc.co.uk/news/uk-england-tees-57879131) - A community fixes a mural supporting England players within hours of it being daubed with racist graffiti.
-9. ['Working in Mum's care home brought us closer'](https://www.bbc.co.uk/news/uk-england-bristol-57809429) - Lydia Loader, whose mother Sally has dementia, heard her speak for the first time in 18 months.
-10. [Covid: Pioneering opera director Sir Graham Vick dies](https://www.bbc.co.uk/news/uk-england-birmingham-57879207) - Sir Graham, who founded Birmingham Opera Company, died of Covid "complications", it is announced.
+5. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
+6. [Whipsnade Zoo to survey trees after escaped bears shot dead](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57868029) - The bears used a fallen tree to climb out of their enclosure and attack a boar.
+7. [Water safety warning after man, 19, dies in Salford Quays](https://www.bbc.co.uk/news/uk-england-manchester-57884759) - The teenager died when he got into difficulty in an area of water in Salford Quays.
+8. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
+9. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Seven men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
+10. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
 11. ['Exhausted' deer rescued by lifeboat from Solent](https://www.bbc.co.uk/news/uk-england-hampshire-57880039) - The young animal had apparently been carried three miles out by the tide, the lifeboat crew says.
 12. [Nightclubs reopen but Covid challenge remains](https://www.bbc.co.uk/news/newsbeat-57867865) - Figures given to Radio 1 Newsbeat show a quarter of clubs have closed in the past six years.
 13. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
