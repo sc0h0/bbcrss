@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 05:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 05:59:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57866764</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57866764</guid>
             <pubDate>Mon, 19 Jul 2021 05:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS: Tredegar building to tell story of Aneurin Bevan's inspiration]]></title>
+            <description><![CDATA[Tredegar Medical Aid Society was used as a blueprint by NHS founder Aneurin Bevan.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57802514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57802514</guid>
+            <pubDate>Mon, 19 Jul 2021 05:54:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defibrillator calls after Barry cricketer dies]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-politics-57873337</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57873337</guid>
             <pubDate>Sun, 18 Jul 2021 07:19:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardiff police charge man, 19, after Bute Park sex attack]]></title>
-            <description><![CDATA[He has been remanded in custody and is due to appear before Cardiff magistrates on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57873343</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57873343</guid>
-            <pubDate>Sun, 18 Jul 2021 08:47:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Pontypool shoppers want to 'revive' town centre]]></title>
@@ -164,10 +164,10 @@
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: First Covid cases in athletes' village and Team GB have eight self-isolating]]></title>
-            <description><![CDATA[Two South Africa footballers test positive for Covid-19 in Olympic village, while eight Team GB athletes and staff isolating as close contacts.]]></description>
+            <description><![CDATA[Two South Africa footballers test positive for Covid-19 in the Olympic village, while eight Team GB athletes and staff isolating as close contacts.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57844406</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57844406</guid>
-            <pubDate>Sun, 18 Jul 2021 23:22:46 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 05:47:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jake Hyde joins Wrexham on two-year deal from FC Halifax Town]]></title>
@@ -189,6 +189,13 @@
             <link>https://www.bbc.co.uk/newyddion/57858748</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57858748</guid>
             <pubDate>Mon, 19 Jul 2021 05:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Diffyg gwybodaeth' am fynediad anabl i atyniadau Cymru]]></title>
+            <description><![CDATA[Dywedodd y grŵp ymgyrchu eu bod eisiau gwell gwybodaeth ar-lein "ar flaenau ein bysedd".]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57881028</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57881028</guid>
+            <pubDate>Mon, 19 Jul 2021 05:53:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jade Jones: 'Unrhyw beth heblaw aur yn fethiant']]></title>
