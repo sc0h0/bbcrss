@@ -1,6 +1,6 @@
 1. [Covid: Restrictions ease as Scotland moves to level zero](https://www.bbc.co.uk/news/uk-scotland-57878745) - The whole of Scotland has now moved to the lowest level of Covid regulations.
 2. [Covid in Scotland: Nearly a third of young adults still unvaccinated](https://www.bbc.co.uk/news/uk-scotland-57875256) - All over-18s in Scotland are offered an appointment but more than 260,000 younger adults have not yet had a first dose.
-3. [Scotland's papers: Freedom Day idea 'not sensible' as restrictions ease](https://www.bbc.co.uk/news/uk-scotland-57884960) - Nicola Sturgeon warning that Scotland is not yet ready to return to normality features on several front pages.
+3. [Scotland's papers: Freedom Day idea 'not sensible' as restrictions ease](https://www.bbc.co.uk/news/uk-scotland-57884960) - Nicola Sturgeon's warning that Scotland is not yet ready to return to normality is on several front pages.
 4. [Three motorcyclists die in weekend crashes](https://www.bbc.co.uk/news/uk-scotland-57879353) - A 47-year-old man died in Aberdeenshire, a 56-year-old man died in Fort William and another died in Ayrshire.
 5. [Firefighters tackle blaze at Fife Zoo](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57881910) - A fire broke out in a roof space, the second such incident at the attraction near Cupar in just over a year.
 6. [Ruth Davidson to join House of Lords on Tuesday](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57880791) - The former Scottish Conservative leader will take the title Baroness Davidson of Lundin Links.
