@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 21:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 21:22:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-57890650</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57890650</guid>
             <pubDate>Mon, 19 Jul 2021 15:22:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK PM 'resisted lockdown as only over-80s dying']]></title>
+            <description><![CDATA[Boris Johnson also questioned whether the NHS would be overwhelmed, his former aide tells the BBC.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57854811</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57854811</guid>
+            <pubDate>Mon, 19 Jul 2021 21:00:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pegasus: Spyware sold to governments 'targets activists']]></title>
@@ -170,6 +177,13 @@
             <pubDate>Fri, 16 Jul 2021 12:56:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Horse racing: Inside the abattoir slaughtering racehorses]]></title>
+            <description><![CDATA[Campaign group Animal Aid set up covert cameras in one of the few slaughterhouses licensed to kill horses.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57896848</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57896848</guid>
+            <pubDate>Mon, 19 Jul 2021 20:55:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Europe floods: Residents return home to see damage inflicted]]></title>
             <description><![CDATA[Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57878577</link>
@@ -196,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-57839224</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57839224</guid>
             <pubDate>Thu, 15 Jul 2021 23:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Czech women seek compensation for coerced sterilisations]]></title>
-            <description><![CDATA[Thousands of women were sterilised without their consent in former Czechoslovakia in the 1970s and 1980s.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57843624</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57843624</guid>
-            <pubDate>Wed, 14 Jul 2021 23:01:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
