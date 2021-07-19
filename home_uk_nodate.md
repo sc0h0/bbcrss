@@ -1,10 +1,10 @@
 1. [Johnson urges caution as Covid rules ease in England](https://www.bbc.co.uk/news/uk-57882029) - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
 2. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
-3. [Horse racing: Thousands of racehorses killed in slaughterhouses](https://www.bbc.co.uk/news/uk-57881979) - Some horses once trained by some of racing’s top names are being slaughtered, BBC Panorama finds.
-4. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
-5. [Covid: Global healthcare workers missing out on jabs](https://www.bbc.co.uk/news/health-57820346) - Campaigners say millions have not had even one vaccine dose, raising concerns for their communities.
+3. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
+4. [Horse racing: Thousands of racehorses killed in slaughterhouses](https://www.bbc.co.uk/news/uk-57881979) - Some horses once trained by some of racing’s top names are being slaughtered, BBC Panorama finds.
+5. [Covid: Double-jabbed NHS staff could avoid isolation if service under pressure](https://www.bbc.co.uk/news/uk-57883260) - Fully-vaccinated health workers in England could skip quarantine if services come under pressure.
 6. [Olympics: Eight self-isolating from Team GB ](https://www.bbc.co.uk/sport/olympics/57844406) - Two South Africa footballers test positive for Covid-19 in Olympic village, while eight Team GB athletes and staff isolating as close contacts.
-7. [Covid: Double-jabbed NHS staff could avoid isolation if service under pressure](https://www.bbc.co.uk/news/uk-57883260) - Fully-vaccinated health workers in England could skip quarantine if services come under pressure.
+7. [Covid: Global healthcare workers missing out on jabs](https://www.bbc.co.uk/news/health-57820346) - Campaigners say millions have not had even one vaccine dose, raising concerns for their communities.
 8. [Covid: Restrictions ease as Scotland moves to level zero](https://www.bbc.co.uk/news/uk-scotland-57878745) - The whole of Scotland has now moved to the lowest level of Covid regulations.
 9. [Kurt Westergaard, Danish cartoonist behind Muhammad cartoon, dies at 86](https://www.bbc.co.uk/news/world-europe-57883392) - His 2005 drawing of the Prophet Muhammad sparked protests across the Muslim world.
 10. [Europe floods: Merkel shocked by 'surreal' devastation](https://www.bbc.co.uk/news/world-europe-57880729) - The chancellor vows to fast-track aid after visiting some of the worst-hit areas in western Germany.

@@ -3,7 +3,7 @@
 3. [Olympics: Defying threats, Iranian athletes speak out to back ban](https://www.bbc.co.uk/news/world-middle-east-57839521) - Olympics organisers are being urged to investigate allegations of threats, discrimination and abuse.
 4. [Europe floods: Merkel shocked by 'surreal' devastation](https://www.bbc.co.uk/news/world-europe-57880729) - The chancellor vows to fast-track aid after visiting some of the worst-hit areas in western Germany.
 5. [Katie Hopkins to be deported from Australia over quarantine rules](https://www.bbc.co.uk/news/world-australia-57883692) - Katie Hopkins - a right-wing British commentator - bragged about plans to break isolation rules.
-6. [Covid: Vaccination centres targeted by vandals in France](https://www.bbc.co.uk/news/world-europe-57883397) - The incidents came on a weekend of mass protests against the French government's new Covid rules.
+6. [Covid vaccination centres vandalised in France](https://www.bbc.co.uk/news/world-europe-57883397) - The incidents came on a weekend of mass protests against the French government's new Covid rules.
 7. [Covid: Global healthcare workers missing out on jabs](https://www.bbc.co.uk/news/health-57820346) - Campaigners say millions have not had even one vaccine dose, raising concerns for their communities.
 8. [Esraa Abdel Fattah: Egyptian activist released from prison](https://www.bbc.co.uk/news/world-middle-east-57882069) - Esraa Abdel Fattah earned the moniker "Facebook Girl" for her role in the 2011 revolution.
 9. [Kenyan fuel tanker explodes killing at least 13](https://www.bbc.co.uk/news/world-africa-57879278) - People rushed to the scene of the crash to siphon petrol when the explosion occurred.
