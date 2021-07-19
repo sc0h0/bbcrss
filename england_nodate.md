@@ -8,7 +8,7 @@
 8. [Man dies in fall from rocks on Jurassic Coast in Dorset](https://www.bbc.co.uk/news/uk-england-dorset-57889137) - The man was pronounced dead at the scene on the Dorset coast.
 9. [Post Office Horizon scandal: More subpostmasters cleared](https://www.bbc.co.uk/news/business-57888146) - The Court of Appeal clears 12 more former subpostmasters who were wrongly convicted.
 10. [Bridgnorth toddler starts treatment after bone marrow donor match](https://www.bbc.co.uk/news/uk-england-shropshire-57873586) - A match for one-year-old Gunner, from Bridgnorth, is tracked down in Germany after a global search.
-11. [Covid: Newquay businesses mixed on lifting restrictions](https://www.bbc.co.uk/news/uk-england-cornwall-57823465) - Businesses, locals and holidaymakers react to Covid restrictions being lifted.
+11. [Covid: Newquay businesses mixed on lifting restrictions](https://www.bbc.co.uk/news/uk-england-cornwall-57823465) - Businesses, locals and holidaymakers react to most Covid restrictions being lifted.
 12. [Covid: Businesses reflect on 2021 as restrictions ease](https://www.bbc.co.uk/news/uk-england-tyne-57850394) - A number of bosses tell the BBC what it was like to operate this year during the pandemic.
 13. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
 14. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.

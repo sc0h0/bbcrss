@@ -23,6 +23,6 @@
 23. [Jonathan Davies: Wales centre has no plans to 'fade away'](https://www.bbc.co.uk/sport/rugby-union/57876536) - Centre Jonathan Davies plans to continue at the top level following the end of another Wales international season.
 24. [Galw ar ymwelwyr i barchu ardaloedd poblogaidd Cymru](https://www.bbc.co.uk/newyddion/57879089) - Cyfoeth Naturiol Cymru'n annog pobl i barchu cymunedau y maen nhw'n ymweld â nhw dros wyliau'r haf.
 25. [Sioe Frenhinol yn 'obeithiol' am £500,000 o gymhorthdal](https://www.bbc.co.uk/newyddion/57873789) - Mae'r Sioe eisoes wedi derbyn £700,000, ond mae'r trefnwyr yn gobeithio cael rhagor i gefnogi'r digwyddiad.
-26. [Carcharu dyn am 18 mlynedd am lofruddiaeth yn Wrecsam](https://www.bbc.co.uk/newyddion/57887779) - Bydd Barry Bagnall o Wrecsam yn treulio o leiaf 18 mlynedd yn y carchar am lofruddio dyn 60 oed y llynedd.
+26. [Diddymu euogfarn cyn-bostfeistr: 'Wnes i ddim o'i le'](https://www.bbc.co.uk/newyddion/57890331) - Mae Tim Brentnall yn un o dros 700 o gyn-weithwyr Swyddfa'r Post a gafodd eu herlyn ar gam oherwydd system Horizon.
 27. [Lluniau o'r archif: Y Sioe Fawr dros y blynyddoedd](https://www.bbc.co.uk/newyddion/57837159) - Gan fod Sioe Frenhinol 2021 wedi ei chanslo, beth am gipolwg ar rai o sioeau'r gorffennol?
 28. [Penodi Prif Weithredwr newydd Cymdeithas Bêl-droed Cymru](https://www.bbc.co.uk/newyddion/57887782) - Noel Mooney i olynu Jonathan Ford fel Prif Weithredwr Cymdeithas Bêl-droed Cymru
