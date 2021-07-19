@@ -1,7 +1,7 @@
 1. [Guto Harri quits GB News over taking the knee row](https://www.bbc.co.uk/news/entertainment-arts-57885955) - The journalist was suspended for a gesture made during a chat about the abuse of black footballers.
 2. [Strictly Come Dancing: Greatest Dancer winner joins professional dancer line-up](https://www.bbc.co.uk/news/entertainment-arts-57887945) - Poland's Jowita Przystal is one of four new additions to the BBC One's team of professional dancers.
 3. [Sir Kenneth Branagh: The Browning Version cancelled due to Covid-enforced absences](https://www.bbc.co.uk/news/entertainment-arts-57885100) - The Browning Version was due to open in west London next month, with proceeds going to Rada.
-4. [Nightclubs reopen but Covid challenge remains](https://www.bbc.co.uk/news/newsbeat-57867865) - Figures given to Radio 1 Newsbeat show a quarter of clubs have closed in the past six years.
+4. [Nightclubs reopen but fears remain for the industry's future](https://www.bbc.co.uk/news/newsbeat-57867865) - Figures given to Radio 1 Newsbeat show a quarter of clubs have closed in the past six years.
 5. [Katie Hopkins to be deported from Australia over quarantine rules](https://www.bbc.co.uk/news/world-australia-57883692) - Katie Hopkins - a right-wing British commentator - bragged about plans to break isolation rules.
 6. [Britney Spears says she will not perform while father controls career](https://www.bbc.co.uk/news/entertainment-arts-57873410) - The singer says the arrangement controlling her personal and financial affairs has "killed my dreams".
 7. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
