@@ -1,4 +1,4 @@
-1. [Nigeria fighter plane shot down by bandits - military](https://www.bbc.co.uk/news/world-africa-57893662) - The pilot survived by ejecting himself and hiding with local residents, says Nigeria's Air Force.
+1. [Nigeria fighter plane shot down by bandits - military](https://www.bbc.co.uk/news/world-africa-57893662) - The pilot survives by ejecting and hiding with local residents, before rejoining his comrades.
 2. [Nigeria's security crises - five different threats](https://www.bbc.co.uk/news/world-africa-57860993) - Almost every part of Nigeria is facing a security crisis - from kidnapping to extremist insurgencies.
 3. [Tokyo Olympics: Zambia's Copper Queens out to shine despite dented preparations](https://www.bbc.co.uk/sport/africa/57888257) - Zambia's Copper Queens are aiming to continue defying the odds as they represent Africa in women's football at the Tokyo Olympics.
 4. [Morocco and Rwanda used Israeli spyware - leaks](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
