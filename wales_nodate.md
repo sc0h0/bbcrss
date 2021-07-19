@@ -1,5 +1,5 @@
-1. [Covid in Wales: Calls to respect beauty spots as rules eased](https://www.bbc.co.uk/news/uk-wales-57870127) - Natural Resources Wales says, as sites get busier, people should respect the countryside.
-2. [Mayhill: Review to examine reasons behind Swansea riots](https://www.bbc.co.uk/news/uk-wales-57890220) - Violence and rioting broke out at a vigil to remember a local man who died.
+1. [Mayhill: Review to examine reasons behind Swansea riots](https://www.bbc.co.uk/news/uk-wales-57890220) - Violence and rioting broke out at a vigil to remember a local man who died.
+2. [Covid in Wales: Calls to respect beauty spots as rules eased](https://www.bbc.co.uk/news/uk-wales-57870127) - Natural Resources Wales says, as sites get busier, people should respect the countryside.
 3. [Post Office scandal: Postmaster Tim Brentnall cleared](https://www.bbc.co.uk/news/uk-wales-57885408) - Tim Brentnall says it has taken 16 years to clear his name after being accused of stealing.
 4. [Paralympian 'told to wear more appropriate shorts'](https://www.bbc.co.uk/sport/disability-sport/57887715) - Double world champion para-athlete Olivia Breen said she was left angry and speechless after being told to wear 'more appropriate' shorts.
 5. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says he will announce the final decision in Parliament on Monday afternoon.

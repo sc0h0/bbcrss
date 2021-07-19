@@ -1,5 +1,5 @@
-1. [Covid vaccination centres vandalised in France](https://www.bbc.co.uk/news/world-europe-57883397) - The incidents came on a weekend of mass protests against the French government's new Covid rules.
-2. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
+1. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
+2. [Covid vaccination centres vandalised in France](https://www.bbc.co.uk/news/world-europe-57883397) - The incidents came on a weekend of mass protests against the French government's new Covid rules.
 3. [Europe floods: Merkel shocked by 'surreal' devastation](https://www.bbc.co.uk/news/world-europe-57880729) - The chancellor vows to fast-track aid after visiting some of the worst-hit areas in western Germany.
 4. [Kurt Westergaard, Danish cartoonist behind Muhammad cartoon, dies at 86](https://www.bbc.co.uk/news/world-europe-57883392) - His 2005 drawing of the Prophet Muhammad sparked protests across the Muslim world.
 5. [Coronavirus: Ireland eases international travel restrictions](https://www.bbc.co.uk/news/world-europe-57886435) - People who have "valid proof" of full vaccination no longer have to self-isolate on arrival.

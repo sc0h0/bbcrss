@@ -1,4 +1,4 @@
-1. [Heatwave swimming warning after six die in England](https://www.bbc.co.uk/news/uk-england-57884739) - Swimmers are urged to take care after six die in lakes and rivers in England amid the weekend heat.
+1. [Heatwave swimming warning after six die in England](https://www.bbc.co.uk/news/uk-england-57884739) - Rescuers say that lakes and rivers can be a silent summer killer after deaths around England.
 2. [Colin Pitchfork: Double killer will not be on sex offenders register](https://www.bbc.co.uk/news/uk-england-leicestershire-57889182) - The government says Colin Pitchfork, who raped and murdered two girls, will be subject to other "strict" conditions.
 3. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - There is no limit on how many people can meet, nightclubs can reopen and large events can resume.
 4. [19 July: The station where masks are mandatory - and not](https://www.bbc.co.uk/news/uk-england-london-57886933) - Commuters at Farringdon station react to the varying face-covering rules now in place in London.

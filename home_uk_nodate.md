@@ -1,7 +1,7 @@
 1. [Covid: Lifting all restrictions at once is reckless, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57886976) - Boris Johnson has urged caution as most legal rules on social contact are lifted in England.
 2. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says he will announce the final decision in Parliament on Monday afternoon.
-3. [Iceland and Greene King shut sites amid 'pingdemic'](https://www.bbc.co.uk/news/business-57885175) - The firms have had to shut shops and pubs due to staff shortages caused by people self-isolating.
-4. [Heatwave swimming warning after six die in England](https://www.bbc.co.uk/news/uk-england-57884739) - Swimmers are urged to take care after six die in lakes and rivers in England amid the weekend heat.
+3. [Global shares slide amid Covid economic recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stock markets in the UK, the US and Europe fall on concerns that rising cases may impede a recovery.
+4. [Heatwave swimming warning after six die in England](https://www.bbc.co.uk/news/uk-england-57884739) - Rescuers say that lakes and rivers can be a silent summer killer after deaths around England.
 5. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
 6. [Post Office Horizon scandal: More subpostmasters cleared](https://www.bbc.co.uk/news/business-57888146) - The Court of Appeal clears 12 more former subpostmasters who were wrongly convicted.
 7. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
@@ -11,7 +11,7 @@
 11. [NYPD officer uses crisp packet to save stabbing victim](https://www.bbc.co.uk/news/world-us-canada-57885400) - The police officer in New York has been praised for his decisive actions.
 12. [Colin Pitchfork: Double killer will not be on sex offenders register](https://www.bbc.co.uk/news/uk-england-leicestershire-57889182) - The government says Colin Pitchfork, who raped and murdered two girls, will be subject to other "strict" conditions.
 13. [In pictures: UK soaks up sun as heatwave set to continue](https://www.bbc.co.uk/news/uk-57886265) - Sunseekers have been flocking to beaches as all four UK nations record the hottest day of the year.
-14. [What easing restrictions mean to people in a Witham estate](https://www.bbc.co.uk/news/uk-england-essex-57861593) - What does the lifting of restrictions in England mean to those living in a housing estate?
+14. [Covid: What easing restrictions mean to people in a Witham estate](https://www.bbc.co.uk/news/uk-england-essex-57861593) - What does the lifting of restrictions in England mean to those living in a housing estate?
 15. [Tips for staying cool by people from hot countries](https://www.bbc.co.uk/news/uk-40345702) - BBC colleagues from Nigeria, Tanzania, Yemen and Brazil give us their advice for coping with hot weather.
 16. [19 July: The station where masks are mandatory - and not](https://www.bbc.co.uk/news/uk-england-london-57886933) - Commuters at Farringdon station react to the varying face-covering rules now in place in London.
 17. [Fears of workers on the face masks frontline](https://www.bbc.co.uk/news/business-57862362) - It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.
