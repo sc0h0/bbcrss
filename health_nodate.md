@@ -9,34 +9,35 @@
 9. [Covid:-19 Decision on vaccinations for under-18s 'within days'](https://www.bbc.co.uk/news/uk-57876608) - It comes as every adult in the UK has now been offered a vaccine, the government says.
 10. ['Working in Mum's care home brought us closer'](https://www.bbc.co.uk/news/uk-england-bristol-57809429) - Lydia Loader, whose mother Sally has dementia, heard her speak for the first time in 18 months.
 11. [England plans biggest winter flu vaccine rollout](https://www.bbc.co.uk/news/health-57867955) - Free jabs will be offered to more than 35 million people, including more teenagers than ever before.
-12. [Covid-19 rules: How six countries fared after easing Covid rules](https://www.bbc.co.uk/news/world-57796133) - As England approaches an end to social contact laws, how have other countries managed?
-13. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
-14. [Dying too young: Maps show little has changed in 170 years](https://www.bbc.co.uk/news/health-57730353) - Why do areas with high Covid death rates match places with the worst health in Victorian times?
-15. [Covid-19: 'For us it's not freedom day, is it?'](https://www.bbc.co.uk/news/uk-57643063) - Their medical conditions mean they are considered vulnerable to Covid. How are they feeling now?
-16. ['Holiday food poisoning left me paralysed'](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57598624) - Malcolm Brown developed a rare autoimmune disease after suffering food poisoning while on a self-catering trip.
-17. [Marr on catching Covid after being double vaccinated](https://www.bbc.co.uk/news/health-57640550) - The BBC's Andrew Marr fell ill with Covid-19, despite being vaccinated twice.
-18. [Your questions about vaccines and periods answered](https://www.bbc.co.uk/news/newsbeat-57616063) - Find out what experts believe the short and long term effects of a covid jab will be on your period.
-19. [Long Covid: 'I've blood clots, a braced leg and damaged heart... but I'm home'](https://www.bbc.co.uk/news/uk-57569540) - For three months, Bill Wilson lived a nightmare, trapped behind a plastic facemask fighting Covid.
-20. [Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
-21. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
-22. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
-23. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
-24. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-25. [Covid: What do over-18s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The vaccine rollout is now available for younger adults. What do they need to know about getting jabbed?
-26. [What are the India, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
-27. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
-28. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Experts think a limited group of children should be offered Covid jabs ahead of winter - says Vaccines Minister Nadhim Zahawi.
-29. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Busting myths and explaining the facts around vaccines.
-30. [South Africa coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - Why experts are concerned about the emergence of this particular new version of coronavirus.
-31. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864) - What is it like to have the coronavirus, how will it affect you and how is it treated?
-32. [Support bubbles: How do they work and who is in yours?](https://www.bbc.co.uk/news/health-52637354) - Some people across the UK have been able to form "support bubbles" or "extended households".
-33. [How to get a Covid test](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
-34. [All you need to know on the coronavirus](https://www.bbc.co.uk/news/health-51048366) - A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.
-35. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
-36. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
-37. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-38. [Nadhim Zahawi: At-risk children aged 12-17 to be offered vaccine](https://www.bbc.co.uk/news/uk-57894636) - The vaccines minister says children with health conditions will be offered the Pfizer-BioNTech vaccine
-39. [Covid vaccine: How are young people responding to the jab?](https://www.bbc.co.uk/news/uk-england-london-57845115) - The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?
-40. [Covid: Coping with opening-up anxiety](https://www.bbc.co.uk/news/health-57869257) - Lauren and Angelica-Jane fear the end of restrictions will be challenging for their mental health.
-41. [Lisa Shaw death: 'Give people choice over type of Covid jab'](https://www.bbc.co.uk/news/health-57853285) - Gareth Eve’s wife, BBC Newcastle presenter Lisa Shaw, died in hospital after a bleed on the brain.
-42. [Covid patient’s own blood cells could treat lung scarring](https://www.bbc.co.uk/news/uk-57837432) - A therapy made from a patient’s white blood cells is being trialled by doctors in London.
+12. [Heatwaves and the human body](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
+13. [Covid-19 rules: How six countries fared after easing Covid rules](https://www.bbc.co.uk/news/world-57796133) - As England approaches an end to social contact laws, how have other countries managed?
+14. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
+15. [Dying too young: Maps show little has changed in 170 years](https://www.bbc.co.uk/news/health-57730353) - Why do areas with high Covid death rates match places with the worst health in Victorian times?
+16. [Covid-19: 'For us it's not freedom day, is it?'](https://www.bbc.co.uk/news/uk-57643063) - Their medical conditions mean they are considered vulnerable to Covid. How are they feeling now?
+17. ['Holiday food poisoning left me paralysed'](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57598624) - Malcolm Brown developed a rare autoimmune disease after suffering food poisoning while on a self-catering trip.
+18. [Marr on catching Covid after being double vaccinated](https://www.bbc.co.uk/news/health-57640550) - The BBC's Andrew Marr fell ill with Covid-19, despite being vaccinated twice.
+19. [Your questions about vaccines and periods answered](https://www.bbc.co.uk/news/newsbeat-57616063) - Find out what experts believe the short and long term effects of a covid jab will be on your period.
+20. [Long Covid: 'I've blood clots, a braced leg and damaged heart... but I'm home'](https://www.bbc.co.uk/news/uk-57569540) - For three months, Bill Wilson lived a nightmare, trapped behind a plastic facemask fighting Covid.
+21. [Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
+22. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
+23. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
+24. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
+25. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+26. [Covid: What do over-18s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The vaccine rollout is now available for younger adults. What do they need to know about getting jabbed?
+27. [What are the India, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
+28. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
+29. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Experts think a limited group of children should be offered Covid jabs ahead of winter - says Vaccines Minister Nadhim Zahawi.
+30. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Busting myths and explaining the facts around vaccines.
+31. [South Africa coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - Why experts are concerned about the emergence of this particular new version of coronavirus.
+32. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864) - What is it like to have the coronavirus, how will it affect you and how is it treated?
+33. [Support bubbles: How do they work and who is in yours?](https://www.bbc.co.uk/news/health-52637354) - Some people across the UK have been able to form "support bubbles" or "extended households".
+34. [How to get a Covid test](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
+35. [All you need to know on the coronavirus](https://www.bbc.co.uk/news/health-51048366) - A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.
+36. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
+37. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
+38. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
+39. [Nadhim Zahawi: At-risk children aged 12-17 to be offered vaccine](https://www.bbc.co.uk/news/uk-57894636) - The vaccines minister says children with health conditions will be offered the Pfizer-BioNTech vaccine
+40. [Covid vaccine: How are young people responding to the jab?](https://www.bbc.co.uk/news/uk-england-london-57845115) - The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?
+41. [Covid: Coping with opening-up anxiety](https://www.bbc.co.uk/news/health-57869257) - Lauren and Angelica-Jane fear the end of restrictions will be challenging for their mental health.
+42. [Lisa Shaw death: 'Give people choice over type of Covid jab'](https://www.bbc.co.uk/news/health-57853285) - Gareth Eve’s wife, BBC Newcastle presenter Lisa Shaw, died in hospital after a bleed on the brain.
+43. [Covid patient’s own blood cells could treat lung scarring](https://www.bbc.co.uk/news/uk-57837432) - A therapy made from a patient’s white blood cells is being trialled by doctors in London.
