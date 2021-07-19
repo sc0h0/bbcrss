@@ -9,9 +9,9 @@
 9. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Seven men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
 10. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
 11. ['Exhausted' deer rescued by lifeboat from Solent](https://www.bbc.co.uk/news/uk-england-hampshire-57880039) - The young animal had apparently been carried three miles out by the tide, the lifeboat crew says.
-12. [Covid: Face mask rules relax but what do workers think?](https://www.bbc.co.uk/news/business-57862362) - It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.
-13. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
-14. [Nightclubs reopen but Covid challenge remains](https://www.bbc.co.uk/news/newsbeat-57867865) - Figures given to Radio 1 Newsbeat show a quarter of clubs have closed in the past six years.
+12. [Covid: Businesses reflect on 2021 as restrictions ease](https://www.bbc.co.uk/news/uk-england-tyne-57850394) - A number of bosses tell the BBC what it was like to operate this year during the pandemic.
+13. [Covid: Face mask rules relax but what do workers think?](https://www.bbc.co.uk/news/business-57862362) - It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.
+14. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
 15. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
 16. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
 17. [Knife crime: Mum tells teenagers about her son’s murder](https://www.bbc.co.uk/news/uk-england-london-57863749) - Jean Foster has been talking to young people about the consequences of carrying a knife.
