@@ -13,7 +13,7 @@
 13. [In pictures: UK soaks up sun as heatwave set to continue](https://www.bbc.co.uk/news/uk-57886265) - Sunseekers have been flocking to beaches as all four UK nations record the hottest day of the year.
 14. [Tips for staying cool by people from hot countries](https://www.bbc.co.uk/news/uk-40345702) - BBC colleagues from Nigeria, Tanzania, Yemen and Brazil give us their advice for coping with hot weather.
 15. [19 July: The station where masks are mandatory - and not](https://www.bbc.co.uk/news/uk-england-london-57886933) - Commuters at Farringdon station react to the varying face-covering rules now in place in London.
-16. [Covid: Face mask rules relax but what do workers think?](https://www.bbc.co.uk/news/business-57862362) - It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.
+16. [Fears of workers on the face masks frontline](https://www.bbc.co.uk/news/business-57862362) - It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.
 17. [Why I've hosted more than 30 refugees in my house](https://www.bbc.co.uk/news/uk-57867521) - Karina Litvack has housed dozens of refugees in London since her daughters moved out.
 18. [The Papers: 'Freedom day farce' and PM's isolation 'flip flopping'](https://www.bbc.co.uk/news/blogs-the-papers-57883242) - Monday's papers are dominated by the news the PM and chancellor are self-isolating ahead of the lifting of Covid rules in England.
 19. [Lex Gillette: Record-breaking blind long jumper](https://www.bbc.co.uk/news/disability-57851104) - With the support of his sighted guide, the four-time Paralympic medallist hopes to win gold in Tokyo.

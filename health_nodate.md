@@ -23,7 +23,7 @@
 23. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 24. [What are the India, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
 25. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
-26. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - The PM says every adult should have had the chance to be doubled jabbed by mid-September.
+26. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Experts think a limited group of children should be offered Covid jabs ahead of winter - says Vaccines Minister Nadhim Zahawi.
 27. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Busting myths and explaining the facts around vaccines.
 28. [South Africa coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - Why experts are concerned about the emergence of this particular new version of coronavirus.
 29. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864) - What is it like to have the coronavirus, how will it affect you and how is it treated?

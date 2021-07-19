@@ -16,11 +16,11 @@
 16. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
 17. [The Broadway dancer whose lockdown business bloomed](https://www.bbc.co.uk/news/stories-57840115) - When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.
 18. [Joshi is swapping life in captivity for a new start in the jungle](https://www.bbc.co.uk/news/world-africa-57854071) - After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.
-19. [India farmers' protest: Living on a highway in protest](https://www.bbc.co.uk/news/world-asia-india-57863658) - Seven months on, farmers are still striking against contentious new laws outside the national capital.
-20. [Lex Gillette: Record-breaking blind long jumper](https://www.bbc.co.uk/news/disability-57851104) - With the support of his sighted guide, the four-time Paralympic medallist hopes to win gold in Tokyo.
-21. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
-22. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
-23. [Why I've hosted more than 30 refugees in my house](https://www.bbc.co.uk/news/uk-57867521) - Karina Litvack has housed dozens of refugees in London since her daughters moved out.
+19. [NYPD officer uses crisp packet to save stabbing victim](https://www.bbc.co.uk/news/world-us-canada-57885400) - The police officer in New York has been praised for his decisive actions.
+20. [India farmers' protest: Living on a highway in protest](https://www.bbc.co.uk/news/world-asia-india-57863658) - Seven months on, farmers are still striking against contentious new laws outside the national capital.
+21. [Lex Gillette: Record-breaking blind long jumper](https://www.bbc.co.uk/news/disability-57851104) - With the support of his sighted guide, the four-time Paralympic medallist hopes to win gold in Tokyo.
+22. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
+23. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
 24. [Germany floods: Where are the worst-hit areas?](https://www.bbc.co.uk/news/world-europe-57862894) - Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.
 25. [Germany floods: 'My city looks like a battlefield'](https://www.bbc.co.uk/news/world-europe-57862570) - Witnesses voice their grief and horror at the deadly floods in western Germany.
 26. [Germany floods: How a country was taken by surprise](https://www.bbc.co.uk/news/world-europe-57867773) - Amid the despair and mounting death toll, people are questioning how this could have happened.

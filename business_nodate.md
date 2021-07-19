@@ -1,6 +1,6 @@
 1. [Post Office Horizon scandal: More subpostmasters cleared](https://www.bbc.co.uk/news/business-57888146) - The Court of Appeal clears 12 more former subpostmasters who were wrongly convicted.
 2. [Iceland and Greene King shut sites amid 'pingdemic'](https://www.bbc.co.uk/news/business-57885175) - The firms have had to shut shops and pubs due to staff shortages caused by people self-isolating.
-3. [Covid: Face mask rules relax but what do workers think?](https://www.bbc.co.uk/news/business-57862362) - It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.
+3. [Fears of workers on the face masks frontline](https://www.bbc.co.uk/news/business-57862362) - It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.
 4. [Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape](https://www.bbc.co.uk/news/business-57883892) - Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.
 5. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
 6. [Oil producing nations agree deal to control prices](https://www.bbc.co.uk/news/business-57882449) - The Opec cartel and Russia will boost supply which should see petrol prices at the pumps come down.
