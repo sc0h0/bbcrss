@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 10:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 10:27:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-57886435</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57886435</guid>
             <pubDate>Mon, 19 Jul 2021 10:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NI heatwave: Police run out of parking fines in Ballintoy Harbour]]></title>
+            <description><![CDATA[As temperatures soared on Sunday, police issued 30 fixed penalty notices for parking offences.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57885076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57885076</guid>
+            <pubDate>Mon, 19 Jul 2021 10:14:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[East Belfast: Man charged with attempted murder]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57880233</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57880233</guid>
             <pubDate>Sun, 18 Jul 2021 15:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Belfast: Boy punched in sectarian assault]]></title>
-            <description><![CDATA[Police say they are treating an attack on a 12-year-old boy as a sectarian hate crime.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57880232</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57880232</guid>
-            <pubDate>Sun, 18 Jul 2021 16:30:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI records another death, 537 new cases]]></title>
