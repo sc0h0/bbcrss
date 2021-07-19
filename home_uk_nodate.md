@@ -4,7 +4,7 @@
 4. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
 5. [Covid: Global healthcare workers missing out on jabs](https://www.bbc.co.uk/news/health-57820346) - Campaigners say millions have not had even one vaccine dose, raising concerns for their communities.
 6. [Olympics: Eight self-isolating from Team GB ](https://www.bbc.co.uk/sport/olympics/57844406) - Two South Africa footballers test positive for Covid-19 in Olympic village, while eight Team GB athletes and staff isolating as close contacts.
-7. [Covid: Double-jabbed NHS staff could avoid isolation if service under pressure](https://www.bbc.co.uk/news/uk-57883260) - Quarantine could end for fully-vaccinated health workers in England if services are under pressure.
+7. [Covid: Double-jabbed NHS staff could avoid isolation if service under pressure](https://www.bbc.co.uk/news/uk-57883260) - Fully-vaccinated health workers in England could skip quarantine if services come under pressure.
 8. [Covid: Restrictions ease as Scotland moves to level zero](https://www.bbc.co.uk/news/uk-scotland-57878745) - The whole of Scotland has now moved to the lowest level of Covid regulations.
 9. [Europe floods: Merkel shocked by 'surreal' devastation](https://www.bbc.co.uk/news/world-europe-57880729) - The chancellor vows to fast-track aid after visiting some of the worst-hit areas in western Germany.
 10. [Kurt Westergaard, Danish cartoonist behind Muhammad cartoon, dies at 86](https://www.bbc.co.uk/news/world-europe-57883392) - His 2005 drawing of the Prophet Muhammad sparked protests across the Muslim world.

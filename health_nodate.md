@@ -1,6 +1,6 @@
 1. [Covid: Global healthcare workers missing out on jabs](https://www.bbc.co.uk/news/health-57820346) - Campaigners say millions have not had even one vaccine dose, raising concerns for their communities.
 2. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
-3. [Covid: Double-jabbed NHS staff could avoid isolation if service under pressure](https://www.bbc.co.uk/news/uk-57883260) - Quarantine could end for fully-vaccinated health workers in England if services are under pressure.
+3. [Covid: Double-jabbed NHS staff could avoid isolation if service under pressure](https://www.bbc.co.uk/news/uk-57883260) - Fully-vaccinated health workers in England could skip quarantine if services come under pressure.
 4. [Covid: UK faces a difficult summer, says leading scientist](https://www.bbc.co.uk/news/uk-57877033) - Prof Neil Ferguson says there could be as many as 200,000 cases a day as restrictions ease.
 5. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.
 6. [Covid:-19 Decision on vaccinations for under-18s 'within days'](https://www.bbc.co.uk/news/uk-57876608) - It comes as every adult in the UK has now been offered a vaccine, the government says.
