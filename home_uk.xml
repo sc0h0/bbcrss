@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 00:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 01:59:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,18 @@
             <pubDate>Sun, 18 Jul 2021 23:59:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Europe floods: Merkel shocked by 'surreal' devastation]]></title>
-            <description><![CDATA[The chancellor vows to fast-track aid after visiting some of the worst-hit areas in western Germany.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57880729</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57880729</guid>
-            <pubDate>Sun, 18 Jul 2021 14:00:54 GMT</pubDate>
+            <title><![CDATA[Olympics: Eight self-isolating from Team GB ]]></title>
+            <description><![CDATA[Two South Africa footballers test positive for Covid-19 in Olympic village, while eight Team GB athletes and staff isolating as close contacts.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57844406</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57844406</guid>
+            <pubDate>Sun, 18 Jul 2021 23:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Double-jabbed NHS staff could avoid isolation if service under pressure]]></title>
+            <description><![CDATA[Quarantine could end for fully-vaccinated health workers in England if services are under pressure.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57883260</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57883260</guid>
+            <pubDate>Mon, 19 Jul 2021 01:22:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Restrictions ease as Scotland moves to level zero]]></title>
@@ -65,18 +72,11 @@
             <pubDate>Sun, 18 Jul 2021 23:08:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Olympics: Eight self-isolating from Team GB ]]></title>
-            <description><![CDATA[Two South Africa footballers test positive for Covid-19 in Olympic village, while eight Team GB athletes and staff isolating as close contacts.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57844406</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57844406</guid>
-            <pubDate>Sun, 18 Jul 2021 23:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thousands of orders cancelled after Ocado robot fire]]></title>
-            <description><![CDATA[The online grocer says the blaze was caused by a collision between robots at one of its warehouses.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57883332</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57883332</guid>
-            <pubDate>Sun, 18 Jul 2021 22:33:21 GMT</pubDate>
+            <title><![CDATA[Europe floods: Merkel shocked by 'surreal' devastation]]></title>
+            <description><![CDATA[The chancellor vows to fast-track aid after visiting some of the worst-hit areas in western Germany.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57880729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57880729</guid>
+            <pubDate>Sun, 18 Jul 2021 14:00:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kurt Westergaard, Danish cartoonist behind Muhammad cartoon, dies at 86]]></title>
@@ -93,18 +93,18 @@
             <pubDate>Sun, 18 Jul 2021 17:30:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Thousands of orders cancelled after Ocado robot fire]]></title>
+            <description><![CDATA[The online grocer says the blaze was caused by a collision between robots at one of its warehouses.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57883332</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57883332</guid>
+            <pubDate>Sun, 18 Jul 2021 22:33:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Oil producing nations agree deal to control prices]]></title>
             <description><![CDATA[The Opec cartel and Russia will boost supply which should see petrol prices at the pumps come down.]]></description>
             <link>https://www.bbc.co.uk/news/business-57882449</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57882449</guid>
             <pubDate>Sun, 18 Jul 2021 18:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hamilton accused of disrespect after Grand Prix win]]></title>
-            <description><![CDATA[Max Verstappen accuses Lewis Hamilton of being "disrespectful" and "unsportsmanlike" following their crash in the British Grand Prix.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57882235</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57882235</guid>
-            <pubDate>Sun, 18 Jul 2021 21:40:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Freedom day farce' and PM's isolation 'flip flopping']]></title>
@@ -191,6 +191,13 @@
             <pubDate>Sun, 18 Jul 2021 07:15:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Verstappen brands Hamilton 'disrespectful' after British GP crash]]></title>
+            <description><![CDATA[Max Verstappen accuses Lewis Hamilton of being "disrespectful" and "unsportsmanlike" following their crash in the British Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/57882235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57882235</guid>
+            <pubDate>Sun, 18 Jul 2021 21:40:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Morikawa holds off Spieth to win Claret Jug on Open debut - report & highlights]]></title>
             <description><![CDATA[Collin Morikawa shoots a scintillating bogey-free final round to win the 149th Open Championship by two shots from Jordan Spieth at Royal St George's.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/57882249</link>
@@ -231,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/57880891</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57880891</guid>
             <pubDate>Sun, 18 Jul 2021 15:24:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v Pakistan T20: Rizwan caught and bowled by Rashid]]></title>
-            <description><![CDATA[Adil Rashid dives to his left to take a superb one-handed catch of his own bowling during England's second T20 match of the series against Pakistan.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57881811</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57881811</guid>
-            <pubDate>Sun, 18 Jul 2021 17:49:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What's changing when restrictions end on 19 July?]]></title>
