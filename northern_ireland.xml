@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 15:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 15:37:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Sun, 18 Jul 2021 05:54:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
+            <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
+            <pubDate>Mon, 19 Jul 2021 07:20:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mary Ann McCracken letters shed new light on last years]]></title>
             <description><![CDATA[The anti-slavery campaigner was active in Belfast well into her 90s, new letters reveal.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57808883</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57860608</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57860608</guid>
             <pubDate>Sat, 17 Jul 2021 05:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
-            <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
-            <pubDate>Mon, 19 Jul 2021 07:20:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eleventh Night: What is the law on bonfires in Northern Ireland?]]></title>
