@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 18:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 19:14:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[County Down: Teenager dies after entering water at Canal Court]]></title>
+            <description><![CDATA[The incident happened in the village of Scarva at about 15:30 on Monday afternoon.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57896019</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57896019</guid>
+            <pubDate>Mon, 19 Jul 2021 19:05:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Some NI children over 12 to be offered vaccine]]></title>
             <description><![CDATA[Children with specific underlying health conditions can now receive the Pfizer/BioNtech vaccine.]]></description>
@@ -51,18 +58,18 @@
             <pubDate>Mon, 19 Jul 2021 16:52:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Fresh hope' for family of IRA murder victim]]></title>
-            <description><![CDATA[New DNA evidence is recovered as part of the investigation into Tom Oliver's death in 1991.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57880231</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57880231</guid>
-            <pubDate>Mon, 19 Jul 2021 05:14:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[River Blackwater: Silt blockage 'damaging fishermen and tourism']]></title>
             <description><![CDATA[A build up of silt has blocked a section of the River Blackwater near Lough Neagh for 15 years.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57841201</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57841201</guid>
             <pubDate>Mon, 19 Jul 2021 17:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Fresh hope' for family of IRA murder victim]]></title>
+            <description><![CDATA[New DNA evidence is recovered as part of the investigation into Tom Oliver's death in 1991.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57880231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57880231</guid>
+            <pubDate>Mon, 19 Jul 2021 05:14:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: DUP leader calls for renegotiation of Brexit deal]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57882472</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57882472</guid>
             <pubDate>Mon, 19 Jul 2021 05:11:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Horse racing: Thousands of racehorses killed in slaughterhouses]]></title>
-            <description><![CDATA[Some horses once trained by some of racing’s top names are being slaughtered, BBC Panorama finds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57881979</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57881979</guid>
-            <pubDate>Sun, 18 Jul 2021 23:08:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Ireland eases international travel restrictions]]></title>
