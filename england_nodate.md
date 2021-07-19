@@ -9,7 +9,7 @@
 9. ['Working in Mum's care home brought us closer'](https://www.bbc.co.uk/news/uk-england-bristol-57809429) - Lydia Loader, whose mother Sally has dementia, heard her speak for the first time in 18 months.
 10. [Covid: Pioneering opera director Sir Graham Vick dies](https://www.bbc.co.uk/news/uk-england-birmingham-57879207) - Sir Graham, who founded Birmingham Opera Company, died of Covid "complications", it is announced.
 11. ['Exhausted' deer rescued by lifeboat from Solent](https://www.bbc.co.uk/news/uk-england-hampshire-57880039) - The young animal had apparently been carried three miles out by the tide, the lifeboat crew says.
-12. [Nightclubs reopening: The problems the industry faces because of Covid](https://www.bbc.co.uk/news/newsbeat-57867865) - Figures given to Radio 1 Newsbeat show a quarter of clubs have closed in the past six years.
+12. [Nightclubs reopen but Covid challenge remains](https://www.bbc.co.uk/news/newsbeat-57867865) - Figures given to Radio 1 Newsbeat show a quarter of clubs have closed in the past six years.
 13. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
 14. [Knife crime: Mum tells teenagers about her son’s murder](https://www.bbc.co.uk/news/uk-england-london-57863749) - Jean Foster has been talking to young people about the consequences of carrying a knife.
 15. [TikTok: Dog training tips from 'small-town Essex boy'](https://www.bbc.co.uk/news/uk-england-essex-57841659) - Adam's videos on looking after dogs have attracted more than a million followers during lockdown.

@@ -1,4 +1,4 @@
-1. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - Mon, 19 Jul 2021 06:20:40 GMT - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
+1. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - Mon, 19 Jul 2021 07:16:37 GMT - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
 2. [Covid-19: PM and chancellor self-isolate after rapid U-turn](https://www.bbc.co.uk/news/uk-57879730) - Sun, 18 Jul 2021 17:27:23 GMT - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
 3. [Labour: Why would we oppose a social care tax?](https://www.bbc.co.uk/news/uk-politics-57879629) - Sun, 18 Jul 2021 15:09:44 GMT - But the shadow health secretary says he would want a guarantee the money would be used for care.
 4. [Covid:-19 Decision on vaccinations for under-18s 'within days'](https://www.bbc.co.uk/news/uk-57876608) - Sun, 18 Jul 2021 10:17:09 GMT - It comes as every adult in the UK has now been offered a vaccine, the government says.

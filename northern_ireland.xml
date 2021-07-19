@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 07:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 07:20:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA['Fresh hope' for family of IRA murder victim]]></title>
+            <description><![CDATA[New DNA evidence is recovered as part of the investigation into Tom Oliver's death in 1991.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57880231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57880231</guid>
+            <pubDate>Mon, 19 Jul 2021 05:14:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Government set to lay out plans for abortion in NI]]></title>
             <description><![CDATA[The commissioning of abortion services in Northern Ireland has stalled at the executive level.]]></description>
@@ -37,6 +44,20 @@
             <pubDate>Mon, 19 Jul 2021 05:28:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[East Belfast: Man charged with attempted murder]]></title>
+            <description><![CDATA[A 49-year-old is due in court following an assault at the junction of Pearl Street and My Lady's Road.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57885595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57885595</guid>
+            <pubDate>Mon, 19 Jul 2021 07:06:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: DUP leader reiterates opposition to NI Protocol]]></title>
+            <description><![CDATA[Sir Jeffrey Donaldson will speak to the European Commission vice president on Monday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57885367</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57885367</guid>
+            <pubDate>Mon, 19 Jul 2021 06:52:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Horse racing: Thousands of racehorses killed in slaughterhouses]]></title>
             <description><![CDATA[Some horses once trained by some of racing’s top names are being slaughtered, BBC Panorama finds.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57881979</link>
@@ -44,25 +65,11 @@
             <pubDate>Sun, 18 Jul 2021 23:08:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Fresh hope' for family of IRA murder victim]]></title>
-            <description><![CDATA[New DNA evidence is recovered as part of the investigation into Tom Oliver's death in 1991.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57880231</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57880231</guid>
-            <pubDate>Mon, 19 Jul 2021 05:14:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: No EU vaccine certificate for Irish passport holders in NI]]></title>
             <description><![CDATA[The EU Digital Covid Certificate will come into effect in the Republic of Ireland on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57880228</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57880228</guid>
             <pubDate>Sun, 18 Jul 2021 12:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: NI records another death, 537 new cases]]></title>
-            <description><![CDATA[The number of new positive tests is down from 1,402 on Saturday, health department figures show.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57880230</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57880230</guid>
-            <pubDate>Sun, 18 Jul 2021 16:08:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From Game of Thrones to working in A&E]]></title>
@@ -107,6 +114,13 @@
             <pubDate>Sun, 18 Jul 2021 14:36:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: NI records another death, 537 new cases]]></title>
+            <description><![CDATA[The number of new positive tests is down from 1,402 on Saturday, health department figures show.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57880230</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57880230</guid>
+            <pubDate>Sun, 18 Jul 2021 16:08:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Walk-in vaccine clinics open across NI]]></title>
             <description><![CDATA[Anyone aged 18 can now get a Covid-19 at walk-in centres across Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57863840</link>
@@ -133,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57857496</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57857496</guid>
             <pubDate>Fri, 16 Jul 2021 05:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Robin Swann concerned by rise in Covid-19 cases]]></title>
-            <description><![CDATA[More than 1,000 new cases of Covid-19 were recorded in Northern Ireland on Thursday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57854088</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57854088</guid>
-            <pubDate>Thu, 15 Jul 2021 19:03:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ann Murray, the illegal poteen distiller who lived in a cave]]></title>
@@ -174,7 +181,7 @@
             <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
-            <pubDate>Sat, 17 Jul 2021 14:13:30 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 07:20:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eleventh Night: What is the law on bonfires in Northern Ireland?]]></title>
