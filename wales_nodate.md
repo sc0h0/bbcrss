@@ -20,7 +20,7 @@
 20. [Mesake Doge: Dragons sign Fiji international prop](https://www.bbc.co.uk/sport/rugby-union/57894715) - Dragons sign Fiji tight-head prop Mesake Doge from French Top 14 side Brive for 2021-22.
 21. [Glamorgan Cricket: Coach Harrison to miss three games](https://www.bbc.co.uk/sport/cricket/57889701) - Glamorgan's One-Day Cup coach David Harrison will have to miss three games under Covid contact isolation rules.
 22. [Cazoo Open: Gareth Bale's support a 'boost' for Welsh golf, says Oliver Farr](https://www.bbc.co.uk/sport/golf/57864489) - Welsh golfer Oliver Farr says Gareth Bale's involvement in the Cazoo Open will be a "great boost" for the sport in Wales.
-23. [Galw ar ymwelwyr i barchu ardaloedd poblogaidd Cymru](https://www.bbc.co.uk/newyddion/57879089) - Cyfoeth Naturiol Cymru'n annog pobl i barchu cymunedau y maen nhw'n ymweld â nhw dros wyliau'r haf.
+23. [Rhai plant dros 12 oed i gael cynnig brechlyn Covid](https://www.bbc.co.uk/newyddion/57892802) - Llywodraeth Cymru i gynnig brechlyn i rai pobl ifanc dros 12 oed yn dilyn cyngor newydd.
 24. [Mayhill: Adolygiad i ganfod y rhesymau am anhrefn Abertawe](https://www.bbc.co.uk/newyddion/57890692) - Roedd yna olygfeydd treisgar wedi i bobl ddod at ei gilydd i dalu teyrnged wedi marwolaeth dyn ifanc.
 25. [Rhybudd oren cyntaf am wres eithafol i rannau o Gymru](https://www.bbc.co.uk/newyddion/57889724) - Swyddfa Dywydd wedi cyhoeddi rhybudd am wres eithafol am y tro cyntaf yn y DU, a fydd yn effeithio ar Gymru.
 26. [Lluniau o'r archif: Y Sioe Fawr dros y blynyddoedd](https://www.bbc.co.uk/newyddion/57837159) - Gan fod Sioe Frenhinol 2021 wedi ei chanslo, beth am gipolwg ar rai o sioeau'r gorffennol?

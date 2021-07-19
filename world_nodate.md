@@ -1,6 +1,6 @@
 1. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
 2. [Global shares slide amid Covid economic recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stock markets in the UK, the US and Europe fall on concerns that rising cases may impede a recovery.
-3. [First Capitol rioter sentenced to prison time](https://www.bbc.co.uk/news/world-us-canada-57890937) - Paul Allard Hodgkins is the first of hundreds of Capitol rioters sentenced for a felony.
+3. [January 6: First Capitol rioter sentenced to prison time](https://www.bbc.co.uk/news/world-us-canada-57890937) - Paul Allard Hodgkins is the first of hundreds of Capitol rioters sentenced for a felony.
 4. [Oregon Bootleg Fire: Evacuations as largest US fire burns 300,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The Bootleg Fire has burned an area larger than New York City and forced thousands to evacuate.
 5. [Nigeria fighter plane shot down by bandits - military](https://www.bbc.co.uk/news/world-africa-57893662) - The pilot survived by ejecting himself and hiding with local residents, says Nigeria's Air Force.
 6. [Germany floods: Government rejects criticism over flood warnings](https://www.bbc.co.uk/news/world-europe-57890650) - As the flood risks ease, questions are raised whether the high death toll could have been avoided.
