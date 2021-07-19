@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 12:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 13:01:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -143,7 +143,7 @@
         </item>
         <item>
             <title><![CDATA[Football Association of Wales: Noel Mooney succeeds Jonathan Ford as chief executive]]></title>
-            <description><![CDATA[Former League of Ireland goalkeeper Noel Mooney has been named new chief executive of the Football Association of Wales]]></description>
+            <description><![CDATA[Former League of Ireland goalkeeper Noel Mooney is named the new chief executive of the Football Association of Wales.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57890781</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57890781</guid>
             <pubDate>Mon, 19 Jul 2021 12:18:10 GMT</pubDate>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/57888115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57888115</guid>
             <pubDate>Mon, 19 Jul 2021 10:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cazoo Open: Gareth Bale's support a 'boost' for Welsh golf, says Oliver Farr]]></title>
+            <description><![CDATA[Welsh golfer Oliver Farr says Gareth Bale's involvement in the Cazoo Open will be a "great boost" for the sport in Wales.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/57864489</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57864489</guid>
+            <pubDate>Mon, 19 Jul 2021 12:32:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jonathan Davies: Wales centre has no plans to 'fade away']]></title>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/57863282</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57863282</guid>
             <pubDate>Mon, 19 Jul 2021 09:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wayne Pivac: Wales head coach takes stock after longest season]]></title>
-            <description><![CDATA[Wales finish their season with a defeat against Argentina and now look ahead to New Zealand as opening opponents of the next campaign.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57867391</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57867391</guid>
-            <pubDate>Sun, 18 Jul 2021 13:05:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Galw ar ymwelwyr i barchu ardaloedd poblogaidd Cymru]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Mon, 19 Jul 2021 08:18:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hampshire yn trechu Morgannwg yn y T20 yn Southampton]]></title>
-            <description><![CDATA[Tymor T20 Morgannwg i ben gyda cholled arall, y tro hwn yn erbyn Hampshire yn Southampton.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57881250</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57881250</guid>
-            <pubDate>Sun, 18 Jul 2021 16:00:08 GMT</pubDate>
+            <title><![CDATA[Penodi Prif Weithredwr newydd Cymdeithas Bêl-droed Cymru]]></title>
+            <description><![CDATA[Noel Mooney i olynu Jonathan Ford fel Prif Weithredwr Cymdeithas Bêl-droed Cymru]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57887782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57887782</guid>
+            <pubDate>Mon, 19 Jul 2021 12:36:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
