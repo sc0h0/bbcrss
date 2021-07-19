@@ -1,6 +1,6 @@
 1. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says he will announce the final decision in Parliament on Monday afternoon.
 2. [Covid: Global healthcare workers missing out on jabs](https://www.bbc.co.uk/news/health-57820346) - Campaigners say millions have not had even one vaccine dose, raising concerns for their communities.
-3. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
+3. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - There is no limit on how many people can meet, nightclubs can reopen and large events can resume.
 4. [Covid: Double-jabbed NHS staff could avoid isolation if service under pressure](https://www.bbc.co.uk/news/uk-57883260) - Fully-vaccinated health workers in England could skip quarantine if services come under pressure.
 5. [Covid: UK faces a difficult summer, says leading scientist](https://www.bbc.co.uk/news/uk-57877033) - Prof Neil Ferguson says there could be as many as 200,000 cases a day as restrictions ease.
 6. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.

@@ -9,7 +9,7 @@
 9. [Guto Harri quits GB News over taking the knee row](https://www.bbc.co.uk/news/entertainment-arts-57885955) - The journalist was suspended for a gesture made during a chat about the abuse of black footballers.
 10. [Katie Hopkins to be deported from Australia over quarantine rules](https://www.bbc.co.uk/news/world-australia-57883692) - Katie Hopkins - a right-wing British commentator - bragged about plans to break isolation rules.
 11. [Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape](https://www.bbc.co.uk/news/business-57883892) - Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.
-12. [Covid: Double-jabbed NHS staff could avoid isolation if service under pressure](https://www.bbc.co.uk/news/uk-57883260) - Fully-vaccinated health workers in England could skip quarantine if services come under pressure.
+12. [Kurt Westergaard, Danish cartoonist behind Muhammad cartoon, dies at 86](https://www.bbc.co.uk/news/world-europe-57883392) - His 2005 drawing of the Prophet Muhammad sparked protests across the Muslim world.
 13. [In pictures: UK soaks up sun as heatwave set to continue](https://www.bbc.co.uk/news/uk-57886265) - Sunseekers have been flocking to beaches as all four UK nations record the hottest day of the year.
 14. [Tips for staying cool by people from hot countries](https://www.bbc.co.uk/news/uk-40345702) - BBC colleagues from Nigeria, Tanzania, Yemen and Brazil give us their advice for coping with hot weather.
 15. [19 July: The station where masks are mandatory - and not](https://www.bbc.co.uk/news/uk-england-london-57886933) - Commuters at Farringdon station react to the varying face-covering rules now in place in London.
