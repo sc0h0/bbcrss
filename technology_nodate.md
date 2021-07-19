@@ -1,22 +1,23 @@
 1. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
 2. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
-3. [Royal Navy tests drones above and below waves](https://www.bbc.co.uk/news/technology-57890066) - A broad exercise saw the navy test scouts, resupply, and underwater reconnaissance drones.
-4. [Zoom bets billions on home working continuing in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
-5. [How to cool your home in a warming world](https://www.bbc.co.uk/news/technology-57467776) - Low-energy designs and technologies can keep homes comfortable, come rain or shine.
-6. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
-7. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
-8. [AI narration of chef Anthony Bourdain's voice sparks row](https://www.bbc.co.uk/news/technology-57842514) - A recreation of the late celebrity cook's voice is used in a film about his life.
-9. [Valve reveals handheld Steam Deck PC games console](https://www.bbc.co.uk/news/technology-57862944) - Gaming giant Valve has produced a handheld console that can play popular PC games.
-10. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
-11. [Clippy returns - as an emoji](https://www.bbc.co.uk/news/technology-57849880) - Microsoft changes its paperclip emoji to look like its early virtual assistant, the object of much affection and frustration.
-12. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
-13. [Robot helps people get dressed and other tech news](https://www.bbc.co.uk/news/technology-57862434) - Romana Kreider looks at some of the best technology news stories of the week.
-14. [Duran Duran’s Invisible: 'Thrilled' with AI collaboration](https://www.bbc.co.uk/news/technology-57737384) - Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.
-15. [How MetaHuman Creator helped me create ‘Dana’](https://www.bbc.co.uk/news/technology-57569224) - Realistic digital humans can be produced rapidly with the new software, Epic Games says.
-16. [Google boss Sundar Pichai on tax and his personal tech habits](https://www.bbc.co.uk/news/technology-57777638) - Google boss Sundar Pichai defends company record on tax – and explains his personal tech habits.
-17. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
-18. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
-19. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
-20. [How your personal data is being scraped from social media](https://www.bbc.co.uk/news/business-57841239) - As hackers scoop up data from social media sites, should firms be taking better care of your data?
-21. [Should we trust big tech with our health data?](https://www.bbc.co.uk/news/business-57817804) - Our medical records are in demand by tech firms who want to use the data to help tackle illnesses.
-22. [How your driving might reveal early signs of Alzheimer's](https://www.bbc.co.uk/news/business-57670006) - Research shows how small changes in the way you drive could expose preclinical signs of disease.
+3. [Writing fake online reviews could be made illegal](https://www.bbc.co.uk/news/business-57887035) - The government is proposing law changes to stop people being exploited by businesses online.
+4. [Royal Navy tests drones above and below waves](https://www.bbc.co.uk/news/technology-57890066) - A broad exercise saw the navy test scouts, resupply, and underwater reconnaissance drones.
+5. [Zoom bets billions on home working continuing in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
+6. [How to cool your home in a warming world](https://www.bbc.co.uk/news/technology-57467776) - Low-energy designs and technologies can keep homes comfortable, come rain or shine.
+7. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
+8. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
+9. [AI narration of chef Anthony Bourdain's voice sparks row](https://www.bbc.co.uk/news/technology-57842514) - A recreation of the late celebrity cook's voice is used in a film about his life.
+10. [Valve reveals handheld Steam Deck PC games console](https://www.bbc.co.uk/news/technology-57862944) - Gaming giant Valve has produced a handheld console that can play popular PC games.
+11. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
+12. [Clippy returns - as an emoji](https://www.bbc.co.uk/news/technology-57849880) - Microsoft changes its paperclip emoji to look like its early virtual assistant, the object of much affection and frustration.
+13. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
+14. [Robot helps people get dressed and other tech news](https://www.bbc.co.uk/news/technology-57862434) - Romana Kreider looks at some of the best technology news stories of the week.
+15. [Duran Duran’s Invisible: 'Thrilled' with AI collaboration](https://www.bbc.co.uk/news/technology-57737384) - Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.
+16. [How MetaHuman Creator helped me create ‘Dana’](https://www.bbc.co.uk/news/technology-57569224) - Realistic digital humans can be produced rapidly with the new software, Epic Games says.
+17. [Google boss Sundar Pichai on tax and his personal tech habits](https://www.bbc.co.uk/news/technology-57777638) - Google boss Sundar Pichai defends company record on tax – and explains his personal tech habits.
+18. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
+19. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
+20. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
+21. [How your personal data is being scraped from social media](https://www.bbc.co.uk/news/business-57841239) - As hackers scoop up data from social media sites, should firms be taking better care of your data?
+22. [Should we trust big tech with our health data?](https://www.bbc.co.uk/news/business-57817804) - Our medical records are in demand by tech firms who want to use the data to help tackle illnesses.
+23. [How your driving might reveal early signs of Alzheimer's](https://www.bbc.co.uk/news/business-57670006) - Research shows how small changes in the way you drive could expose preclinical signs of disease.
