@@ -4,9 +4,9 @@
 4. [Covid-19: Vauxhall's Luton plant reduces shifts due to staff isolating](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57887164) - The vehicle manufacturer says it cannot operate at full capacity due to the number of staff "pinged".
 5. [Two found dead in York river and Sheffield lake](https://www.bbc.co.uk/news/uk-england-57884739) - The bodies were found by emergency crews in the River Ouse in York and at a lake in Sheffield.
 6. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
-7. [Salford Quays: Water safety warning after man, 19, dies in canal](https://www.bbc.co.uk/news/uk-england-manchester-57884759) - The teenager died when he got into difficulty in an area of water in Salford Quays.
-8. [Teenage girl dies after being found in Ducklington Lake](https://www.bbc.co.uk/news/uk-england-oxfordshire-57884995) - The girl was pulled from the water and taken to hospital but later died.
-9. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
+7. [Police officer Denim Wade dismissed for avoiding self-isolation](https://www.bbc.co.uk/news/uk-england-berkshire-57889731) - The constable helped detain a suspect who later tested positive for coronavirus.
+8. [Man dies after falling from rocks on Jurassic Coast in Dorset](https://www.bbc.co.uk/news/uk-england-dorset-57889137) - The man was pronounced dead at the scene on the Dorset coast.
+9. [Post Office Horizon scandal: More subpostmasters cleared](https://www.bbc.co.uk/news/business-57888146) - The Court of Appeal clears 12 more former subpostmasters who were wrongly convicted.
 10. [Bridgnorth toddler starts treatment after bone marrow donor match](https://www.bbc.co.uk/news/uk-england-shropshire-57873586) - A match for one-year-old Gunner, from Bridgnorth, is tracked down in Germany after a global search.
 11. [Whipsnade Zoo to survey trees after escaped bears shot dead](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57868029) - The bears used a fallen tree to climb out of their enclosure and attack a boar.
 12. [Covid: Businesses reflect on 2021 as restrictions ease](https://www.bbc.co.uk/news/uk-england-tyne-57850394) - A number of bosses tell the BBC what it was like to operate this year during the pandemic.
