@@ -1,6 +1,6 @@
 1. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
 2. [Kurt Westergaard, Danish cartoonist behind Muhammad cartoon, dies at 86](https://www.bbc.co.uk/news/world-europe-57883392) - His 2005 drawing of the Prophet Muhammad sparked protests across the Muslim world.
-3. [Katie Hopkins to be deported from Australia over quarantine rules](https://www.bbc.co.uk/news/world-australia-57883692) - Katie Hopkins - a right-wing British commentator - bragged about plans to break isolation rules.
+3. [Katie Hopkins deported from Australia over quarantine rules](https://www.bbc.co.uk/news/world-australia-57883692) - Katie Hopkins - a far-right British commentator - bragged about plans to break isolation rules.
 4. [Covid vaccination centres vandalised in France](https://www.bbc.co.uk/news/world-europe-57883397) - The incidents came on a weekend of mass protests against the French government's new Covid rules.
 5. [Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape](https://www.bbc.co.uk/news/business-57883892) - Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.
 6. [Kris Wu: Brands drop China star over teen sex allegations](https://www.bbc.co.uk/news/world-asia-china-57884438) - Singer-actor Kris Wu has denied the accusations and said he was filing a defamation suit.
