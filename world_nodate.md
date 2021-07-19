@@ -1,7 +1,7 @@
 1. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
 2. [Global shares slide amid Covid economic recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stock markets in the UK, the US and Europe fall on concerns that rising cases may impede a recovery.
 3. [Iraq attack: Bombing at Baghdad market kills Eid shoppers](https://www.bbc.co.uk/news/world-middle-east-57895957) - At least 25 people are killed in an attack on a busy market in Iraq's capital, security sources say.
-4. [Police chief 'sick and tired' after child killed in shooting](https://www.bbc.co.uk/news/world-us-canada-57896637) - The police chief in Washington DC made an emotional appeal after the shooting of a 6-year-old girl.
+4. [Jeff Bezos to blast into space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - Billionaire Jeff Bezos will launch into space in the first crewed flight of his rocket ship.
 5. [January 6: First Capitol rioter sentenced to prison time](https://www.bbc.co.uk/news/world-us-canada-57890937) - Paul Allard Hodgkins is the first of hundreds of Capitol rioters sentenced for a felony.
 6. [Canada to open border to fully vaccinated Americans in August](https://www.bbc.co.uk/news/world-us-canada-57896430) - The loosening of restrictions comes amid significant progress in the country's vaccine rates.
 7. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
@@ -16,8 +16,8 @@
 16. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
 17. [The Broadway dancer whose lockdown business bloomed](https://www.bbc.co.uk/news/stories-57840115) - When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.
 18. [Joshi is swapping life in captivity for a new start in the jungle](https://www.bbc.co.uk/news/world-africa-57854071) - After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.
-19. [NYPD officer uses crisp packet to save stabbing victim](https://www.bbc.co.uk/news/world-us-canada-57885400) - The police officer in New York has been praised for his decisive actions.
-20. [India farmers' protest: Living on a highway in protest](https://www.bbc.co.uk/news/world-asia-india-57863658) - Seven months on, farmers are still striking against contentious new laws outside the national capital.
-21. [Lex Gillette: Record-breaking blind long jumper](https://www.bbc.co.uk/news/disability-57851104) - With the support of his sighted guide, the four-time Paralympic medallist hopes to win gold in Tokyo.
-22. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
-23. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
+19. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
+20. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
+21. [NYPD officer uses crisp packet to save stabbing victim](https://www.bbc.co.uk/news/world-us-canada-57885400) - The police officer in New York has been praised for his decisive actions.
+22. [India farmers' protest: Living on a highway in protest](https://www.bbc.co.uk/news/world-asia-india-57863658) - Seven months on, farmers are still striking against contentious new laws outside the national capital.
+23. [Lex Gillette: Record-breaking blind long jumper](https://www.bbc.co.uk/news/disability-57851104) - With the support of his sighted guide, the four-time Paralympic medallist hopes to win gold in Tokyo.
