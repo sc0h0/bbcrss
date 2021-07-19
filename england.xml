@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 15:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 15:50:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[Boris Johnson has urged caution as most legal rules on social contact are lifted in England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57886976</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57886976</guid>
-            <pubDate>Mon, 19 Jul 2021 15:30:32 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 15:42:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colin Pitchfork: Double killer will not be on sex offenders register]]></title>
@@ -156,6 +156,13 @@
             <pubDate>Sat, 17 Jul 2021 06:24:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Which children are being vaccinated and why?]]></title>
+            <description><![CDATA[Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57888429</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57888429</guid>
+            <pubDate>Mon, 19 Jul 2021 15:47:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why you shouldn't get a second Covid jab too early]]></title>
             <description><![CDATA[A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-57682233</link>
@@ -170,13 +177,6 @@
             <pubDate>Tue, 13 Jul 2021 15:02:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: What do over-18s need to know about the vaccine?]]></title>
-            <description><![CDATA[The vaccine rollout is now available for younger adults. What do they need to know about getting jabbed?]]></description>
-            <link>https://www.bbc.co.uk/news/health-57273875</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
-            <pubDate>Fri, 16 Jul 2021 16:28:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How many cases in your area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
@@ -184,11 +184,11 @@
             <pubDate>Sun, 18 Jul 2021 16:02:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are the India, Brazil, South Africa and UK variants?]]></title>
-            <description><![CDATA[UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55659820</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
-            <pubDate>Sun, 06 Jun 2021 14:16:13 GMT</pubDate>
+            <title><![CDATA[Covid: What do over-18s need to know about the vaccine?]]></title>
+            <description><![CDATA[The vaccine rollout is now available for younger adults. What do they need to know about getting jabbed?]]></description>
+            <link>https://www.bbc.co.uk/news/health-57273875</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
+            <pubDate>Fri, 16 Jul 2021 16:28:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020 final: FA announces independent review into Wembley security breaches]]></title>

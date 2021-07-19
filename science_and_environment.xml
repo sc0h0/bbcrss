@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 15:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 15:49:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Jeff Bezos to blast into space aboard New Shepard rocket ship]]></title>
+            <description><![CDATA[Billionaire Jeff Bezos is about to launch into space in the first crewed flight of his rocket ship.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57849364</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57849364</guid>
+            <pubDate>Mon, 19 Jul 2021 15:48:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hubble space telescope's function is restored]]></title>
             <description><![CDATA[Engineers restore the Hubble Space Telescope to full operations, after a computer glitch in June.]]></description>

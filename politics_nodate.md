@@ -1,6 +1,6 @@
 1. [Covid: Lifting all restrictions at once is reckless, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57886976) - Boris Johnson has urged caution as most legal rules on social contact are lifted in England.
 2. [Covid-19: PM and chancellor self-isolate after rapid U-turn](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
-3. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says he will announce the final decision in Parliament on Monday afternoon.
+3. [Covid: Hundreds of thousands of under-18s to get vaccine](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says children at high risk from Covid will be offered the jab.
 4. [Brexit: DUP leader calls for renegotiation of Brexit deal](https://www.bbc.co.uk/news/uk-northern-ireland-57885367) - Sir Jeffrey Donaldson was speaking after meeting the European Commission vice president on Monday.
 5. [Labour: Why would we oppose a social care tax?](https://www.bbc.co.uk/news/uk-politics-57879629) - But the shadow health secretary says he would want a guarantee the money would be used for care.
 6. [Government set to lay out plans for abortion in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57882472) - The commissioning of abortion services in Northern Ireland has stalled at the executive level.

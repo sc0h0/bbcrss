@@ -1,7 +1,7 @@
-1. [Covid: Lifting all restrictions at once is reckless, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57886976) - Boris Johnson has urged caution as most legal rules on social contact are lifted in England.
-2. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says he will announce the final decision in Parliament on Monday afternoon.
-3. [Global shares slide amid Covid economic recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stock markets in the UK, the US and Europe fall on concerns that rising cases may impede a recovery.
-4. [Heatwave swimming warning after six die in England](https://www.bbc.co.uk/news/uk-england-57884739) - Rescuers say that lakes and rivers can be a silent summer killer after deaths around England.
+1. [Covid: Hundreds of thousands of under-18s to get vaccine](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says children at high risk from Covid will be offered the jab.
+2. [Covid: Lifting all restrictions at once is reckless, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57886976) - Boris Johnson has urged caution as most legal rules on social contact are lifted in England.
+3. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers large parts of Wales and south-west England as the UK experiences a prolonged hot spell.
+4. [Global shares slide amid Covid economic recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stock markets in the UK, the US and Europe fall on concerns that rising cases may impede a recovery.
 5. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
 6. [Post Office Horizon scandal: More subpostmasters cleared](https://www.bbc.co.uk/news/business-57888146) - The Court of Appeal clears 12 more former subpostmasters who were wrongly convicted.
 7. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.

@@ -1,14 +1,14 @@
 1. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
 2. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
-3. [How to cool your home in a warming world](https://www.bbc.co.uk/news/technology-57467776) - Low-energy designs and technologies can keep homes comfortable, come rain or shine.
-4. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
-5. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
-6. [AI narration of chef Anthony Bourdain's voice sparks row](https://www.bbc.co.uk/news/technology-57842514) - A recreation of the late celebrity cook's voice is used in a film about his life.
-7. [Valve reveals handheld Steam Deck PC games console](https://www.bbc.co.uk/news/technology-57862944) - Gaming giant Valve has produced a handheld console that can play popular PC games.
-8. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
-9. [Clippy returns - as an emoji](https://www.bbc.co.uk/news/technology-57849880) - Microsoft changes its paperclip emoji to look like its early virtual assistant, the object of much affection and frustration.
-10. [Instagram admits moderation mistake over racist comments](https://www.bbc.co.uk/news/technology-57848106) - The social-media platform said its technology had been erroneously identifying the comments as benign.
-11. [WhatsApp to let users message without their phones](https://www.bbc.co.uk/news/technology-57849883) - For the first time, billions of people will be able to use the service even if their phone has no battery.
+3. [Zoom bets billions on hybrid working in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
+4. [How to cool your home in a warming world](https://www.bbc.co.uk/news/technology-57467776) - Low-energy designs and technologies can keep homes comfortable, come rain or shine.
+5. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
+6. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
+7. [AI narration of chef Anthony Bourdain's voice sparks row](https://www.bbc.co.uk/news/technology-57842514) - A recreation of the late celebrity cook's voice is used in a film about his life.
+8. [Valve reveals handheld Steam Deck PC games console](https://www.bbc.co.uk/news/technology-57862944) - Gaming giant Valve has produced a handheld console that can play popular PC games.
+9. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
+10. [Clippy returns - as an emoji](https://www.bbc.co.uk/news/technology-57849880) - Microsoft changes its paperclip emoji to look like its early virtual assistant, the object of much affection and frustration.
+11. [Instagram admits moderation mistake over racist comments](https://www.bbc.co.uk/news/technology-57848106) - The social-media platform said its technology had been erroneously identifying the comments as benign.
 12. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
 13. [Robot helps people get dressed and other tech news](https://www.bbc.co.uk/news/technology-57862434) - Romana Kreider looks at some of the best technology news stories of the week.
 14. [Duran Duran’s Invisible: 'Thrilled' with AI collaboration](https://www.bbc.co.uk/news/technology-57737384) - Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.
