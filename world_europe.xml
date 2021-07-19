@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 23:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 23:21:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,6 +177,13 @@
             <pubDate>Fri, 16 Jul 2021 12:56:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[First space tourist Dennis Tito: 'I was euphoric']]></title>
+            <description><![CDATA[Dennis Tito paid $20 million to travel to the International Space Station in 2001.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57891867</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57891867</guid>
+            <pubDate>Mon, 19 Jul 2021 23:02:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Horse racing: Inside the abattoir slaughtering racehorses]]></title>
             <description><![CDATA[Campaign group Animal Aid set up covert cameras in one of the few slaughterhouses licensed to kill horses.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57896848</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57849206</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57849206</guid>
             <pubDate>Thu, 15 Jul 2021 17:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: The gymnasts 'building bridges between cultures']]></title>
-            <description><![CDATA[The town of Murayama in northern Japan is preparing to welcome a team of Bulgarian Olympians.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57839224</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57839224</guid>
-            <pubDate>Thu, 15 Jul 2021 23:03:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

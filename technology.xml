@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 23:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 23:21:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Will easing change England's new tech habits?]]></title>
+            <description><![CDATA[The pandemic brought about big changes in the way people use tech - the question is will they last?]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57890005</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57890005</guid>
+            <pubDate>Mon, 19 Jul 2021 23:12:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[China accused of cyber-attack on Microsoft Exchange servers]]></title>
             <description><![CDATA[The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.]]></description>
@@ -58,18 +65,18 @@
             <pubDate>Sun, 18 Jul 2021 23:51:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Thousands of orders cancelled after Ocado robot fire]]></title>
-            <description><![CDATA[The online grocer says the blaze was caused by a collision between robots at one of its warehouses.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57883332</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57883332</guid>
-            <pubDate>Mon, 19 Jul 2021 07:47:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why was my tweet about football labelled abusive?]]></title>
             <description><![CDATA[A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57836409</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57836409</guid>
             <pubDate>Sat, 17 Jul 2021 23:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of orders cancelled after Ocado robot fire]]></title>
+            <description><![CDATA[The online grocer says the blaze was caused by a collision between robots at one of its warehouses.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57883332</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57883332</guid>
+            <pubDate>Mon, 19 Jul 2021 07:47:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI narration of chef Anthony Bourdain's voice sparks row]]></title>

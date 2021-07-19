@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 23:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 23:20:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -282,6 +282,13 @@
             <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Which children can have the vaccine in the UK?]]></title>
+            <description><![CDATA[Hundreds of thousands of under-18s will now be offered the jab in the UK - but not all. Here's why.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57892100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57892100</guid>
+            <pubDate>Mon, 19 Jul 2021 23:02:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shielders 'feeling abandoned' as coronavirus restrictions lifted]]></title>
             <description><![CDATA[Three people who were told to shield during lockdown share their concerns as rules are eased in England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57894885</link>
@@ -308,13 +315,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-57845115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57845115</guid>
             <pubDate>Fri, 16 Jul 2021 23:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Coping with opening-up anxiety]]></title>
-            <description><![CDATA[Lauren and Angelica-Jane fear the end of restrictions will be challenging for their mental health.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57869257</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57869257</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

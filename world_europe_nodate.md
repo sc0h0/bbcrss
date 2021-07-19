@@ -21,8 +21,8 @@
 21. [Flood disaster in maps and charts](https://www.bbc.co.uk/news/world-europe-57862894) - Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.
 22. [Europe floods: Neighbourhoods clear up after record rainfall](https://www.bbc.co.uk/news/world-europe-57861384) - BBC Netherlands correspondent Anna Holligan is in Valkenburg, where some residents have been forced to leave their homes.
 23. [In pictures: Floods kill dozens](https://www.bbc.co.uk/news/world-europe-57858826) - Record rainfall caused rivers to burst their banks, leaving at least 122 dead in Germany and Belgium.
-24. [Horse racing: Inside the abattoir slaughtering racehorses](https://www.bbc.co.uk/news/uk-57896848) - Campaign group Animal Aid set up covert cameras in one of the few slaughterhouses licensed to kill horses.
-25. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
-26. [Drone footage shows flood damage in Germany and Belgium](https://www.bbc.co.uk/news/world-europe-57869617) - At least 120 people have died and hundreds more are unaccounted for in western Europe.
-27. [Germany floods: Helicopter rescues residents from rooftops](https://www.bbc.co.uk/news/world-europe-57849206) - Dozens of people have died and many more are missing after severe floods in Germany.
-28. [Tokyo 2020: The gymnasts 'building bridges between cultures'](https://www.bbc.co.uk/news/world-asia-57839224) - The town of Murayama in northern Japan is preparing to welcome a team of Bulgarian Olympians.
+24. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
+25. [Horse racing: Inside the abattoir slaughtering racehorses](https://www.bbc.co.uk/news/uk-57896848) - Campaign group Animal Aid set up covert cameras in one of the few slaughterhouses licensed to kill horses.
+26. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
+27. [Drone footage shows flood damage in Germany and Belgium](https://www.bbc.co.uk/news/world-europe-57869617) - At least 120 people have died and hundreds more are unaccounted for in western Europe.
+28. [Germany floods: Helicopter rescues residents from rooftops](https://www.bbc.co.uk/news/world-europe-57849206) - Dozens of people have died and many more are missing after severe floods in Germany.
