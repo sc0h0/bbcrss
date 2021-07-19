@@ -1,15 +1,15 @@
 1. [Covid in Wales: Calls to respect beauty spots as rules eased](https://www.bbc.co.uk/news/uk-wales-57870127) - Natural Resources Wales says, as sites get busier, people should respect the countryside.
-2. [Post Office scandal: Postmaster Tim Brentnall cleared](https://www.bbc.co.uk/news/uk-wales-57885408) - Tim Brentnall says it has taken 16 years to clear his name after being accused of stealing.
-3. [Paralympian 'told to wear more appropriate shorts'](https://www.bbc.co.uk/sport/disability-sport/57887715) - Double world champion para-athlete Olivia Breen said she was left angry and speechless after being told to wear 'more appropriate' shorts.
-4. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says he will announce the final decision in Parliament on Monday afternoon.
-5. [Barry Bagnall jailed for Wrexham hammer murder](https://www.bbc.co.uk/news/uk-wales-57880625) - Barry Bagnall hit Terence Edwards over the head twice during a "cold-blooded" murder, a court hears.
-6. [Guto Harri quits GB News over taking the knee row](https://www.bbc.co.uk/news/entertainment-arts-57885955) - The journalist was suspended for a gesture made during a chat about the abuse of black footballers.
-7. [Disabled access at Wales' tourist spots 'limit freedom'](https://www.bbc.co.uk/news/uk-wales-57866764) - Campaigners say the problem "destroys the experience and knocks people's confidence".
-8. [NHS: Tredegar building to tell story of Aneurin Bevan's inspiration](https://www.bbc.co.uk/news/uk-wales-57802514) - Tredegar Medical Aid Society was used as a blueprint by NHS founder Aneurin Bevan.
-9. [Defibrillator calls after Barry cricketer dies](https://www.bbc.co.uk/news/uk-wales-57880399) - Father-of-three Maqsood Anwar, 44, was playing cricket when he collapsed.
-10. [Football cap from 1905 returns to Wales from Australia](https://www.bbc.co.uk/news/uk-wales-57863668) - Walter Watkins' cap for his seventh appearance for Wales has been down under for decades.
-11. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
-12. [Covid in Wales: Self-isolation rethink over child contacts](https://www.bbc.co.uk/news/uk-wales-57880143) - Ministers consider whether children should not have to isolate if a close contact tests positive.
+2. [Mayhill: Review to examine reasons behind Swansea riots](https://www.bbc.co.uk/news/uk-wales-57890220) - Violence and rioting broke out at a vigil to remember a local man who died.
+3. [Post Office scandal: Postmaster Tim Brentnall cleared](https://www.bbc.co.uk/news/uk-wales-57885408) - Tim Brentnall says it has taken 16 years to clear his name after being accused of stealing.
+4. [Paralympian 'told to wear more appropriate shorts'](https://www.bbc.co.uk/sport/disability-sport/57887715) - Double world champion para-athlete Olivia Breen said she was left angry and speechless after being told to wear 'more appropriate' shorts.
+5. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says he will announce the final decision in Parliament on Monday afternoon.
+6. [Barry Bagnall jailed for Wrexham hammer murder](https://www.bbc.co.uk/news/uk-wales-57880625) - Barry Bagnall hit Terence Edwards over the head twice during a "cold-blooded" murder, a court hears.
+7. [Guto Harri quits GB News over taking the knee row](https://www.bbc.co.uk/news/entertainment-arts-57885955) - The journalist was suspended for a gesture made during a chat about the abuse of black footballers.
+8. [Disabled access at Wales' tourist spots 'limit freedom'](https://www.bbc.co.uk/news/uk-wales-57866764) - Campaigners say the problem "destroys the experience and knocks people's confidence".
+9. [NHS: Tredegar building to tell story of Aneurin Bevan's inspiration](https://www.bbc.co.uk/news/uk-wales-57802514) - Tredegar Medical Aid Society was used as a blueprint by NHS founder Aneurin Bevan.
+10. [Defibrillator calls after Barry cricketer dies](https://www.bbc.co.uk/news/uk-wales-57880399) - Father-of-three Maqsood Anwar, 44, was playing cricket when he collapsed.
+11. [Football cap from 1905 returns to Wales from Australia](https://www.bbc.co.uk/news/uk-wales-57863668) - Walter Watkins' cap for his seventh appearance for Wales has been down under for decades.
+12. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
 13. [Covid: Pontypool shoppers want to 'revive' town centre](https://www.bbc.co.uk/news/uk-wales-57870128) - Once a major city centre, Pontypool town like many other places has seen shops close due to Covid.
 14. [Amputee's win for prosthetics funding in Wales shows 'people power'](https://www.bbc.co.uk/news/uk-wales-57866765) - David Bradley said amputees in Wales had been disadvantaged compared to the rest of the UK.
 15. [Covid: Why rinks opening in Wales is on ice](https://www.bbc.co.uk/news/uk-wales-57866643) - Although ice rinks can re-open from Saturday, Ice Arena Wales will be ready from 1 August.

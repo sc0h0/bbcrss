@@ -5,7 +5,7 @@
 5. [Water shortage warning in Northern Ireland as demand outstrips supply](https://www.bbc.co.uk/news/uk-northern-ireland-57882470) - NI Water tankers are moving water 24 hours a day to keep reservoirs topped up.
 6. [Coronavirus: 'Breakdown in relationships' with health watchdog](https://www.bbc.co.uk/news/uk-northern-ireland-57885604) - Health minister Robin Swann publishes report into resignations at regulatory body in 2020.
 7. [Coronavirus: Ireland eases international travel restrictions](https://www.bbc.co.uk/news/world-europe-57886435) - People who have "valid proof" of full vaccination no longer have to self-isolate on arrival.
-8. [East Belfast: Man charged with attempted murder](https://www.bbc.co.uk/news/uk-northern-ireland-57885595) - A 49-year-old is due in court following an assault at the junction of Pearl Street and My Lady's Road.
+8. [East Belfast: Man stabbed during pre-arranged fight, court told](https://www.bbc.co.uk/news/uk-northern-ireland-57885595) - A 49-year-old man is accused of attempted murder over the incident on Pearl Street on Sunday.
 9. [Government set to lay out plans for abortion in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57882472) - The commissioning of abortion services in Northern Ireland has stalled at the executive level.
 10. [Horse racing: Thousands of racehorses killed in slaughterhouses](https://www.bbc.co.uk/news/uk-57881979) - Some horses once trained by some of racing’s top names are being slaughtered, BBC Panorama finds.
 11. [From Game of Thrones to working in A&E](https://www.bbc.co.uk/sport/av/olympics/57865473) - Irish rower Philip Doyle tells BBC Sport NI about his role in Game of Thrones, working for the NHS as a trainee doctor during the Covid-19 pandemic and his Olympic hopes
