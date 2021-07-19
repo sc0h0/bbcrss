@@ -9,11 +9,11 @@
 9. [Instagram admits moderation mistake over racist comments](https://www.bbc.co.uk/news/technology-57848106) - The social-media platform said its technology had been erroneously identifying the comments as benign.
 10. [WhatsApp to let users message without their phones](https://www.bbc.co.uk/news/technology-57849883) - For the first time, billions of people will be able to use the service even if their phone has no battery.
 11. [Cambridge data shows Bitcoin mining on the move](https://www.bbc.co.uk/news/technology-57811959) - New analysis shows crypto-mining moving away from China, while Kazakhstan boomed.
-12. [Robot helps people get dressed and other tech news](https://www.bbc.co.uk/news/technology-57862434) - Romana Kreider looks at some of the best technology news stories of the week.
-13. [Duran Duran’s Invisible: 'Thrilled' with AI collaboration](https://www.bbc.co.uk/news/technology-57737384) - Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.
-14. [How MetaHuman Creator helped me create ‘Dana’](https://www.bbc.co.uk/news/technology-57569224) - Realistic digital humans can be produced rapidly with the new software, Epic Games says.
-15. [Google boss Sundar Pichai on tax and his personal tech habits](https://www.bbc.co.uk/news/technology-57777638) - Google boss Sundar Pichai defends company record on tax – and explains his personal tech habits.
-16. [Quadriplegic driver makes Goodwood Festival racing debut](https://www.bbc.co.uk/news/uk-57768915) - Former IndyCar driver Sam Schmidt was paralysed from the shoulders down in a racing accident in 2000.
+12. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
+13. [Robot helps people get dressed and other tech news](https://www.bbc.co.uk/news/technology-57862434) - Romana Kreider looks at some of the best technology news stories of the week.
+14. [Duran Duran’s Invisible: 'Thrilled' with AI collaboration](https://www.bbc.co.uk/news/technology-57737384) - Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.
+15. [How MetaHuman Creator helped me create ‘Dana’](https://www.bbc.co.uk/news/technology-57569224) - Realistic digital humans can be produced rapidly with the new software, Epic Games says.
+16. [Google boss Sundar Pichai on tax and his personal tech habits](https://www.bbc.co.uk/news/technology-57777638) - Google boss Sundar Pichai defends company record on tax – and explains his personal tech habits.
 17. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
 18. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
 19. [How your personal data is being scraped from social media](https://www.bbc.co.uk/news/business-57841239) - As hackers scoop up data from social media sites, should firms be taking better care of your data?

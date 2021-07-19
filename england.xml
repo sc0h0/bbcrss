@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 10:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 10:43:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[19 July: England Covid restrictions ease as PM urges caution]]></title>
-            <description><![CDATA[There will be no limit on how many people can meet, nightclubs can reopen and large events resume.]]></description>
+            <description><![CDATA[There is no limit on how many people can meet, nightclubs can reopen and large events can resume.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57882029</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57882029</guid>
-            <pubDate>Mon, 19 Jul 2021 09:31:06 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 10:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[19 July: The station where masks are mandatory - and not]]></title>
+            <description><![CDATA[Commuters at Farringdon station react to the varying face-covering rules now in place in London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57886933</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57886933</guid>
+            <pubDate>Mon, 19 Jul 2021 10:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two found dead in York river and Sheffield lake]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Mon, 19 Jul 2021 07:47:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whipsnade Zoo to survey trees after escaped bears shot dead]]></title>
-            <description><![CDATA[The bears used a fallen tree to climb out of their enclosure and attack a boar.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57868029</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57868029</guid>
-            <pubDate>Mon, 19 Jul 2021 05:52:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Salford Quays: Water safety warning after man, 19, dies in canal]]></title>
             <description><![CDATA[The teenager died when he got into difficulty in an area of water in Salford Quays.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57884759</link>
@@ -72,13 +72,6 @@
             <pubDate>Sun, 18 Jul 2021 23:13:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid 19: More than one third of Londoners unvaccinated]]></title>
-            <description><![CDATA[Although the city has administered nine million jabs, its young population means many are unvaccinated.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57874402</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57874402</guid>
-            <pubDate>Sun, 18 Jul 2021 08:40:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comedian Tom O'Connor dies aged 81]]></title>
             <description><![CDATA[The presenter and comic had had Parkinson's for many years, his family says.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57879765</link>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-57880039</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-57880039</guid>
             <pubDate>Sun, 18 Jul 2021 11:56:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whipsnade Zoo to survey trees after escaped bears shot dead]]></title>
+            <description><![CDATA[The bears used a fallen tree to climb out of their enclosure and attack a boar.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57868029</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57868029</guid>
+            <pubDate>Mon, 19 Jul 2021 05:52:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Businesses reflect on 2021 as restrictions ease]]></title>
