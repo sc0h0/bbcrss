@@ -1,6 +1,6 @@
 1. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
 2. [Covid-19: PM and chancellor self-isolate after rapid U-turn](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
-3. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says experts think vulnerable children and those close to 18 should be jabbed.
+3. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says he will announce the final decision in Parliament on Monday afternoon.
 4. [Labour: Why would we oppose a social care tax?](https://www.bbc.co.uk/news/uk-politics-57879629) - But the shadow health secretary says he would want a guarantee the money would be used for care.
 5. [Government set to lay out plans for abortion in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57882472) - The commissioning of abortion services in Northern Ireland has stalled at the executive level.
 6. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.
@@ -16,11 +16,11 @@
 16. [Homes raided in inquiry into Matt Hancock CCTV leak](https://www.bbc.co.uk/news/uk-politics-57853164) - Investigators want to know who obtained images of the ex-minister kissing an aide in his office.
 17. [Colum Eastwood: MP reveals death threats after naming Soldier F](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57863054) - Colum Eastwood named the former paratrooper, accused of two Bloody Sunday murders, in Parliament.
 18. [NI Troubles: 'Robust conversation' as parties meet Lewis over legacy](https://www.bbc.co.uk/news/uk-northern-ireland-57858073) - The UK proposals have been widely rejected by the executive parties, Irish government and victims.
-19. [Covid-19: People in York react to self-isolation U-turn](https://www.bbc.co.uk/news/uk-57882942) - The PM and chancellor are self-isolating but it's after No 10 said they'd take part in a daily Covid-testing trial instead.
-20. [Social care tax: Labour calls for money to be ring-fenced](https://www.bbc.co.uk/news/uk-politics-57878580) - The shadow health secretary says Labour is not opposed to a tax for social care, if conditions are met.
-21. [Keir Starmer quizzed by former Labour voters in Blackpool](https://www.bbc.co.uk/news/uk-politics-57849730) - The Labour leader speaks to an audience in Blackpool about three of his policy priorities.
-22. [Boris Johnson sets out plan to 'level up' UK economy](https://www.bbc.co.uk/news/uk-politics-57849487) - Boris Johnson delivers speech in Coventry on plans to improve prospects in deprived areas of the UK.
-23. [Keir Starmer on Boris Johnson 'levelling up' speech](https://www.bbc.co.uk/news/uk-politics-57849489) - The prime minister “promises jam tomorrow” but fails to deliver says the Labour leader.
+19. [Zahawi: There is no perfect time to ease lockdown](https://www.bbc.co.uk/news/uk-england-57885399) - There are now no limits on how many people can meet or attend events across the country.
+20. [Covid-19: People in York react to self-isolation U-turn](https://www.bbc.co.uk/news/uk-57882942) - The PM and chancellor are self-isolating but it's after No 10 said they'd take part in a daily Covid-testing trial instead.
+21. [Social care tax: Labour calls for money to be ring-fenced](https://www.bbc.co.uk/news/uk-politics-57878580) - The shadow health secretary says Labour is not opposed to a tax for social care, if conditions are met.
+22. [Keir Starmer quizzed by former Labour voters in Blackpool](https://www.bbc.co.uk/news/uk-politics-57849730) - The Labour leader speaks to an audience in Blackpool about three of his policy priorities.
+23. [Boris Johnson sets out plan to 'level up' UK economy](https://www.bbc.co.uk/news/uk-politics-57849487) - Boris Johnson delivers speech in Coventry on plans to improve prospects in deprived areas of the UK.
 24. [Coventry City of Culture: The women who helped shape a 'city of justice'](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57555779) - Coventry women have always been at the heart of the struggle for social justice, a historian says.
 25. [PMQs: What did Boris Johnson say about the booing of England players?](https://www.bbc.co.uk/news/57837572) - Labour challenged the prime minister over his position on those who booed England when they "took the knee".
 26. [Foreign aid: Who will be hit by the UK government cuts?](https://www.bbc.co.uk/news/57362816) - The UK government is reducing its spending this year on foreign aid - with major consequences for some recipients.

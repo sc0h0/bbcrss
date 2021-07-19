@@ -11,28 +11,24 @@
 11. [Covid: Travel firms angry over France quarantine rule](https://www.bbc.co.uk/news/uk-57874167) - The continued need for travellers to quarantine on arrival in England, Scotland and Wales is criticised.
 12. [Warnings grow about staff forced to self-isolate](https://www.bbc.co.uk/news/business-57820537) - Alarm mounts over fears of a "surge" in workers and medical staff forced to quarantine after being "pinged".
 13. [Petrol prices at eight-year high, says AA](https://www.bbc.co.uk/news/business-57861690) - Prices hit the highest since October 2013 amid forecasts of a very busy summer on UK roads.
-14. [Drugs giant GSK's plan to create up to 5,000 jobs in new UK hub](https://www.bbc.co.uk/news/business-57861684) - GSK aims to expand its Stevenage facility to create one of the largest life sciences sites in Europe.
-15. [Hong Kong: US issues warning on business risks](https://www.bbc.co.uk/news/business-57865985) - The US has issued an advisory for businesses after China imposed a national security law there last year.
-16. [Covid staff shortage could shut meat production lines](https://www.bbc.co.uk/news/business-57856566) - The industry has warned of shortages as one in 10 staff are told to isolate by the NHS Covid app
-17. [Covid: Al fresco dining to become a High Street fixture in England](https://www.bbc.co.uk/news/business-57855683) - Pavement licences are to be extended and takeaway pints will continue for another year to help the sector.
-18. [CEO Secrets: 'Don't sell your technology too early'](https://www.bbc.co.uk/news/business-57805207) - The CEO of an eco-friendly textiles firm advises holding out for the biggest customer you can find
-19. [Five ways for firms to reach customers with disabilities](https://www.bbc.co.uk/news/business-57808089) - Five ways to rethink how businesses can reach customers with disabilities.
-20. [Should we trust big tech with our health data?](https://www.bbc.co.uk/news/business-57817804) - Our medical records are in demand by tech firms who want to use the data to help tackle illnesses.
-21. [How your driving might reveal early signs of Alzheimer's](https://www.bbc.co.uk/news/business-57670006) - Research shows how small changes in the way you drive could expose preclinical signs of disease.
-22. [Voice cloning of growing interest to actors and cybercriminals](https://www.bbc.co.uk/news/business-57761873) - Why voice cloning is not just a threat to actors but could benefit cybercriminals too.
-23. ['My music is always there when I need it'](https://www.bbc.co.uk/news/business-57780853) - Music fans explain why they wouldn't part with their vinyl and CDs, despite the rise of streaming.
-24. [How de-cluttering grew Facebook Marketplace to 1bn users](https://www.bbc.co.uk/news/business-57733724) - As Covid shut charity shops thrifty second-hand traders shifted online to bag a bargain, in droves.
-25. [CEO Secrets: CitizenLab founder shares her business advice](https://www.bbc.co.uk/news/business-57729691) - Aline Muylaert, co-founder of e-democracy platform CitizenLab, shares her business advice.
-26. [How to get a lucrative job in cybersecurity](https://www.bbc.co.uk/news/business-57663096) - There's a serious shortage of IT security workers, so recruiters are fishing in a bigger pool.
-27. [Is the use of jetpacks finally about to take off?](https://www.bbc.co.uk/news/business-57652297) - Members of the public can now pay to fly through the air like a superhero.
-28. [The codes helping visually-impaired people shop](https://www.bbc.co.uk/news/business-57679943) - New technology that allows phones to read out labelling is about to make supermarkets much more accessible.
-29. [The Amazon sellers who sold up and became millionaires](https://www.bbc.co.uk/news/business-57433960) - Small e-commerce entrepreneurs have thrived in lockdown - now big money wants to buy them out.
-30. [Covid: What impact has the furlough scheme had?](https://www.bbc.co.uk/news/business-54601117) - As the furlough scheme starts to draw to a close, how much did it cost and did it achieve its aims?
-31. [Covid-19 furlough scheme starts to be scaled back](https://www.bbc.co.uk/news/business-57669489) - As financial support reduces, we hear from a worker who has been on and off furlough for 15 months.
-32. [CEO Secrets: How to keep your staff in a crisis](https://www.bbc.co.uk/news/business-57611220) - A medical-tech boss describes her strategy for keeping her team together in a crisis.
-33. [Why small investors are piling into share-trading apps](https://www.bbc.co.uk/news/business-57466918) - A boom in cheaper trading is tempting some inexperienced investors to take big risks, warn experts.
-34. [The tech helping parents look after their babies](https://www.bbc.co.uk/news/business-57581501) - A growing number of technology firms are aiming to help reduce the anxiety of new mums and dads.
-35. [E10 petrol: What is it and can my car run it?](https://www.bbc.co.uk/news/business-57585105) - A more eco-friendly petrol is coming to filling stations in the UK - but it's not suitable for all cars.
-36. [How fashion designers flipped to athleisure during Covid](https://www.bbc.co.uk/news/business-57557725) - Couture fashion houses had to rethink their clothes to survive the pandemic but the switch may last.
-37. [CEO Secrets: 'My billion-pound company has no office'](https://www.bbc.co.uk/news/business-57517669) - How Britain's youngest billionaire works differently - setting his firm up to thrive in lockdown.
-38. [What is different about the new £50 banknote?](https://www.bbc.co.uk/news/business-57570867) - A behind-the-scenes look inside a high-security banknote printing plant.
+14. [CEO Secrets: 'Don't sell your technology too early'](https://www.bbc.co.uk/news/business-57805207) - The CEO of an eco-friendly textiles firm advises holding out for the biggest customer you can find
+15. [Five ways for firms to reach customers with disabilities](https://www.bbc.co.uk/news/business-57808089) - Five ways to rethink how businesses can reach customers with disabilities.
+16. [Should we trust big tech with our health data?](https://www.bbc.co.uk/news/business-57817804) - Our medical records are in demand by tech firms who want to use the data to help tackle illnesses.
+17. [How your driving might reveal early signs of Alzheimer's](https://www.bbc.co.uk/news/business-57670006) - Research shows how small changes in the way you drive could expose preclinical signs of disease.
+18. [Voice cloning of growing interest to actors and cybercriminals](https://www.bbc.co.uk/news/business-57761873) - Why voice cloning is not just a threat to actors but could benefit cybercriminals too.
+19. ['My music is always there when I need it'](https://www.bbc.co.uk/news/business-57780853) - Music fans explain why they wouldn't part with their vinyl and CDs, despite the rise of streaming.
+20. [How de-cluttering grew Facebook Marketplace to 1bn users](https://www.bbc.co.uk/news/business-57733724) - As Covid shut charity shops thrifty second-hand traders shifted online to bag a bargain, in droves.
+21. [CEO Secrets: CitizenLab founder shares her business advice](https://www.bbc.co.uk/news/business-57729691) - Aline Muylaert, co-founder of e-democracy platform CitizenLab, shares her business advice.
+22. [How to get a lucrative job in cybersecurity](https://www.bbc.co.uk/news/business-57663096) - There's a serious shortage of IT security workers, so recruiters are fishing in a bigger pool.
+23. [Is the use of jetpacks finally about to take off?](https://www.bbc.co.uk/news/business-57652297) - Members of the public can now pay to fly through the air like a superhero.
+24. [The codes helping visually-impaired people shop](https://www.bbc.co.uk/news/business-57679943) - New technology that allows phones to read out labelling is about to make supermarkets much more accessible.
+25. [The Amazon sellers who sold up and became millionaires](https://www.bbc.co.uk/news/business-57433960) - Small e-commerce entrepreneurs have thrived in lockdown - now big money wants to buy them out.
+26. [Covid: What impact has the furlough scheme had?](https://www.bbc.co.uk/news/business-54601117) - As the furlough scheme starts to draw to a close, how much did it cost and did it achieve its aims?
+27. [Covid-19 furlough scheme starts to be scaled back](https://www.bbc.co.uk/news/business-57669489) - As financial support reduces, we hear from a worker who has been on and off furlough for 15 months.
+28. [CEO Secrets: How to keep your staff in a crisis](https://www.bbc.co.uk/news/business-57611220) - A medical-tech boss describes her strategy for keeping her team together in a crisis.
+29. [Why small investors are piling into share-trading apps](https://www.bbc.co.uk/news/business-57466918) - A boom in cheaper trading is tempting some inexperienced investors to take big risks, warn experts.
+30. [The tech helping parents look after their babies](https://www.bbc.co.uk/news/business-57581501) - A growing number of technology firms are aiming to help reduce the anxiety of new mums and dads.
+31. [E10 petrol: What is it and can my car run it?](https://www.bbc.co.uk/news/business-57585105) - A more eco-friendly petrol is coming to filling stations in the UK - but it's not suitable for all cars.
+32. [How fashion designers flipped to athleisure during Covid](https://www.bbc.co.uk/news/business-57557725) - Couture fashion houses had to rethink their clothes to survive the pandemic but the switch may last.
+33. [CEO Secrets: 'My billion-pound company has no office'](https://www.bbc.co.uk/news/business-57517669) - How Britain's youngest billionaire works differently - setting his firm up to thrive in lockdown.
+34. [What is different about the new £50 banknote?](https://www.bbc.co.uk/news/business-57570867) - A behind-the-scenes look inside a high-security banknote printing plant.

@@ -1,11 +1,11 @@
 1. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
-2. [Covid 19: More than one third of Londoners unvaccinated](https://www.bbc.co.uk/news/uk-england-london-57874402) - Although the city has administered nine million jabs, its young population means many are unvaccinated.
-3. [Two found dead in York river and Sheffield lake](https://www.bbc.co.uk/news/uk-england-57884739) - The bodies were found by emergency crews in the River Ouse in York and at a lake in Sheffield.
-4. [Teenage girl dies after being found in Ducklington Lake](https://www.bbc.co.uk/news/uk-england-oxfordshire-57884995) - The girl was pulled from the water and taken to hospital but later died.
-5. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
+2. [Two found dead in York river and Sheffield lake](https://www.bbc.co.uk/news/uk-england-57884739) - The bodies were found by emergency crews in the River Ouse in York and at a lake in Sheffield.
+3. [Teenage girl dies after being found in Ducklington Lake](https://www.bbc.co.uk/news/uk-england-oxfordshire-57884995) - The girl was pulled from the water and taken to hospital but later died.
+4. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
+5. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
 6. [Whipsnade Zoo to survey trees after escaped bears shot dead](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57868029) - The bears used a fallen tree to climb out of their enclosure and attack a boar.
 7. [Water safety warning after man, 19, dies in Salford Quays](https://www.bbc.co.uk/news/uk-england-manchester-57884759) - The teenager died when he got into difficulty in an area of water in Salford Quays.
-8. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
+8. [Covid 19: More than one third of Londoners unvaccinated](https://www.bbc.co.uk/news/uk-england-london-57874402) - Although the city has administered nine million jabs, its young population means many are unvaccinated.
 9. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Seven men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
 10. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
 11. ['Exhausted' deer rescued by lifeboat from Solent](https://www.bbc.co.uk/news/uk-england-hampshire-57880039) - The young animal had apparently been carried three miles out by the tide, the lifeboat crew says.

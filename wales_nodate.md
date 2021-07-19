@@ -1,15 +1,15 @@
 1. [Covid in Wales: Calls to respect beauty spots as rules eased](https://www.bbc.co.uk/news/uk-wales-57870127) - Natural Resources Wales says, as sites get busier, people should respect the countryside.
-2. [Disabled access at Wales' tourist spots 'limit freedom'](https://www.bbc.co.uk/news/uk-wales-57866764) - Campaigners say the problem "destroys the experience and knocks people's confidence".
-3. [NHS: Tredegar building to tell story of Aneurin Bevan's inspiration](https://www.bbc.co.uk/news/uk-wales-57802514) - Tredegar Medical Aid Society was used as a blueprint by NHS founder Aneurin Bevan.
-4. [Defibrillator calls after Barry cricketer dies](https://www.bbc.co.uk/news/uk-wales-57880399) - Father-of-three Maqsood Anwar, 44, was playing cricket when he collapsed.
-5. [Football cap from 1905 returns to Wales from Australia](https://www.bbc.co.uk/news/uk-wales-57863668) - Walter Watkins' cap for his seventh appearance for Wales has been down under for decades.
-6. [Tenby: Toddler found safe after coastguard search](https://www.bbc.co.uk/news/uk-wales-57881961) - Two swimmers who got into difficulty were also rescued by lifeboat crews on Sunday.
-7. [Covid in Wales: Self-isolation rethink over child contacts](https://www.bbc.co.uk/news/uk-wales-57880143) - Ministers consider whether children should not have to isolate if a close contact tests positive.
-8. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
-9. [Covid: Plaid urge caution over easing rules in August](https://www.bbc.co.uk/news/uk-wales-57873174) - Wales should not get rid of most rules in early August if cases are rising, according to Plaid Cymru.
-10. [Man's 'unexplained' death in Llantwit Major prompts police probe](https://www.bbc.co.uk/news/uk-wales-57880140) - Police erect a cordon after officers are called to a property after a 50-year-old man's body was found.
-11. [Covid rules being lifted sparks waterfall traffic fears](https://www.bbc.co.uk/news/uk-wales-57866005) - Residents say they do not want a repeat of last year's parking problems and traffic jams.
-12. [Respect all members, says independence group leader](https://www.bbc.co.uk/news/uk-wales-politics-57873337) - The YesCymru pro-independence group needs structural changes, its new interim chair says.
+2. [Experts recommend Covid jabs for some under-18s in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says he will announce the final decision in Parliament on Monday afternoon.
+3. [Disabled access at Wales' tourist spots 'limit freedom'](https://www.bbc.co.uk/news/uk-wales-57866764) - Campaigners say the problem "destroys the experience and knocks people's confidence".
+4. [NHS: Tredegar building to tell story of Aneurin Bevan's inspiration](https://www.bbc.co.uk/news/uk-wales-57802514) - Tredegar Medical Aid Society was used as a blueprint by NHS founder Aneurin Bevan.
+5. [Defibrillator calls after Barry cricketer dies](https://www.bbc.co.uk/news/uk-wales-57880399) - Father-of-three Maqsood Anwar, 44, was playing cricket when he collapsed.
+6. [Football cap from 1905 returns to Wales from Australia](https://www.bbc.co.uk/news/uk-wales-57863668) - Walter Watkins' cap for his seventh appearance for Wales has been down under for decades.
+7. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
+8. [Tenby: Toddler found safe after coastguard search](https://www.bbc.co.uk/news/uk-wales-57881961) - Two swimmers who got into difficulty were also rescued by lifeboat crews on Sunday.
+9. [Covid in Wales: Self-isolation rethink over child contacts](https://www.bbc.co.uk/news/uk-wales-57880143) - Ministers consider whether children should not have to isolate if a close contact tests positive.
+10. [Covid: Plaid urge caution over easing rules in August](https://www.bbc.co.uk/news/uk-wales-57873174) - Wales should not get rid of most rules in early August if cases are rising, according to Plaid Cymru.
+11. [Man's 'unexplained' death in Llantwit Major prompts police probe](https://www.bbc.co.uk/news/uk-wales-57880140) - Police erect a cordon after officers are called to a property after a 50-year-old man's body was found.
+12. [Covid rules being lifted sparks waterfall traffic fears](https://www.bbc.co.uk/news/uk-wales-57866005) - Residents say they do not want a repeat of last year's parking problems and traffic jams.
 13. [Covid: Pontypool shoppers want to 'revive' town centre](https://www.bbc.co.uk/news/uk-wales-57870128) - Once a major city centre, Pontypool town like many other places has seen shops close due to Covid.
 14. [Amputee's win for prosthetics funding in Wales shows 'people power'](https://www.bbc.co.uk/news/uk-wales-57866765) - David Bradley said amputees in Wales had been disadvantaged compared to the rest of the UK.
 15. [Covid: Why rinks opening in Wales is on ice](https://www.bbc.co.uk/news/uk-wales-57866643) - Although ice rinks can re-open from Saturday, Ice Arena Wales will be ready from 1 August.

@@ -2,7 +2,7 @@
 2. [Johnson urges caution as Covid rules ease in England](https://www.bbc.co.uk/news/uk-57882029) - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
 3. [Horse racing: Thousands of racehorses killed in slaughterhouses](https://www.bbc.co.uk/news/uk-57881979) - Some horses once trained by some of racing’s top names are being slaughtered, BBC Panorama finds.
 4. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
-5. [Covid-19: Nightclubs reopen as restrictions ease and Katie Hopkins deported](https://www.bbc.co.uk/news/uk-57882339) - Five things you need to know about the coronavirus pandemic this Monday morning.
+5. [Iceland and Greene King shut sites amid 'pingdemic'](https://www.bbc.co.uk/news/business-57885175) - The firms have had to shut shops and pubs due to staff shortages caused by people self-isolating.
 6. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
 7. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
 8. [Covid: Double-jabbed NHS staff could avoid isolation if service under pressure](https://www.bbc.co.uk/news/uk-57883260) - Fully-vaccinated health workers in England could skip quarantine if services come under pressure.
@@ -15,7 +15,7 @@
 15. [Why I've hosted more than 30 refugees in my house](https://www.bbc.co.uk/news/uk-57867521) - Karina Litvack has housed dozens of refugees in London since her daughters moved out.
 16. [Lex Gillette: Record-breaking blind long jumper](https://www.bbc.co.uk/news/disability-57851104) - With the support of his sighted guide, the four-time Paralympic medallist hopes to win gold in Tokyo.
 17. [Covid: 'The shift to online has been life-changing'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57672036) - Jase Puddicombe, 27, says the rise of digital services has improved access for disabled people.
-18. [Singhu border: Living on a highway in protest](https://www.bbc.co.uk/news/world-asia-india-57863658) - Seven months on, farmers are still striking against contentious new laws outside the national capital.
+18. [Farmers' protest: Living on a highway in protest](https://www.bbc.co.uk/news/world-asia-india-57863658) - Seven months on, farmers are still striking against contentious new laws outside the national capital.
 19. [Covid: Face mask rules relax but what do workers think?](https://www.bbc.co.uk/news/business-57862362) - It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.
 20. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
 21. [Olympics: Defying threats, Iranian athletes speak out to back ban](https://www.bbc.co.uk/news/world-middle-east-57839521) - Olympics organisers are being urged to investigate allegations of threats, discrimination and abuse.
