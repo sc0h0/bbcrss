@@ -1,6 +1,6 @@
 1. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - There will be no limit on how many people can meet, nightclubs can reopen and large events resume.
 2. [Covid-19: PM and chancellor self-isolate after rapid U-turn](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.
-3. [Covid jabs for some under-18s to be recommended in UK](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister tells BBC Breakfast he has received expert advice on which children might benefit.
+3. [Experts make limited recommendation for Covid jabs for children](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says experts think vulnerable children and those close to 18 should be jabbed.
 4. [Labour: Why would we oppose a social care tax?](https://www.bbc.co.uk/news/uk-politics-57879629) - But the shadow health secretary says he would want a guarantee the money would be used for care.
 5. [Government set to lay out plans for abortion in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57882472) - The commissioning of abortion services in Northern Ireland has stalled at the executive level.
 6. [Covid: Fully jabbed arrivals from France must still quarantine](https://www.bbc.co.uk/news/uk-57869880) - A planned relaxation of England's rules from Monday will not apply due to cases of the Beta variant.

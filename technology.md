@@ -1,4 +1,4 @@
-1. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Sun, 18 Jul 2021 23:29:17 GMT - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
+1. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Mon, 19 Jul 2021 08:13:22 GMT - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
 2. [How to cool your home in a warming world](https://www.bbc.co.uk/news/technology-57467776) - Sun, 18 Jul 2021 23:51:02 GMT - Low-energy designs and technologies can keep homes comfortable, come rain or shine.
 3. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - Sat, 17 Jul 2021 23:22:07 GMT - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
 4. [AI narration of chef Anthony Bourdain's voice sparks row](https://www.bbc.co.uk/news/technology-57842514) - Fri, 16 Jul 2021 13:33:33 GMT - A recreation of the late celebrity cook's voice is used in a film about his life.

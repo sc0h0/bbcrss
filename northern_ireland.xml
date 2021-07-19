@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 07:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 08:22:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,7 +41,7 @@
             <description><![CDATA[The Joint Committee on Vaccinations and Immunisation is expected to make an announcement this week.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57883192</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57883192</guid>
-            <pubDate>Mon, 19 Jul 2021 05:28:11 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 08:21:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[East Belfast: Man charged with attempted murder]]></title>
@@ -55,7 +55,7 @@
             <description><![CDATA[Sir Jeffrey Donaldson will speak to the European Commission vice president on Monday morning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57885367</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57885367</guid>
-            <pubDate>Mon, 19 Jul 2021 06:52:50 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 08:15:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Horse racing: Thousands of racehorses killed in slaughterhouses]]></title>
@@ -65,13 +65,6 @@
             <pubDate>Sun, 18 Jul 2021 23:08:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: No EU vaccine certificate for Irish passport holders in NI]]></title>
-            <description><![CDATA[The EU Digital Covid Certificate will come into effect in the Republic of Ireland on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57880228</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57880228</guid>
-            <pubDate>Sun, 18 Jul 2021 12:30:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[From Game of Thrones to working in A&E]]></title>
             <description><![CDATA[Irish rower Philip Doyle tells BBC Sport NI about his role in Game of Thrones, working for the NHS as a trainee doctor during the Covid-19 pandemic and his Olympic hopes]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57865473</link>
@@ -79,11 +72,11 @@
             <pubDate>Mon, 19 Jul 2021 06:47:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Ireland's top medical officers targeted by abusive calls]]></title>
-            <description><![CDATA[Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57879013</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57879013</guid>
-            <pubDate>Sun, 18 Jul 2021 12:47:26 GMT</pubDate>
+            <title><![CDATA[Covid-19: No EU vaccine certificate for Irish passport holders in NI]]></title>
+            <description><![CDATA[The EU Digital Covid Certificate will come into effect in the Republic of Ireland on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57880228</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57880228</guid>
+            <pubDate>Sun, 18 Jul 2021 12:30:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Rory McIlroy says he is 'not very patriotic' and playing Games is 'the right thing to do']]></title>
@@ -247,6 +240,13 @@
             <pubDate>Thu, 15 Jul 2021 12:05:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Ireland's top medical officers targeted by abusive calls]]></title>
+            <description><![CDATA[Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57879013</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57879013</guid>
+            <pubDate>Sun, 18 Jul 2021 12:47:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brendan Óg Duffy: Monaghan GAA U20s captain dies in car crash]]></title>
             <description><![CDATA[Brendan Óg Duffy lost his life just hours after captaining the Monaghan team to a semi-final win.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57873315</link>
@@ -273,20 +273,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57869601</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57869601</guid>
             <pubDate>Fri, 16 Jul 2021 22:11:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Champions League: Istanbul to host 2023 Champions League final after 2021 switch]]></title>
-            <description><![CDATA[Istanbul is to host the 2023 Champions League final while Dublin will stage the following year's Europa League final.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57867929</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57867929</guid>
-            <pubDate>Fri, 16 Jul 2021 18:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Irish government passes indoor hospitality legislation]]></title>
-            <description><![CDATA[New legislation will allow people fully vaccinated against Covid-19 to eat and drink in indoor venues.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57844854</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57844854</guid>
-            <pubDate>Wed, 14 Jul 2021 22:47:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
