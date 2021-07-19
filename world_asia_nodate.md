@@ -1,4 +1,4 @@
-1. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK and the EU have accused China in connection with a major cyber-attack on Microsoft servers.
+1. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China in connection with a major cyber-attack on Microsoft servers.
 2. [Covid: Is China's vaccine success waning in Asia?](https://www.bbc.co.uk/news/world-asia-57845644) - Thailand and Indonesia's switch to other Covid jabs has raised questions about Chinese vaccines.
 3. [Katie Hopkins deported from Australia over quarantine rules](https://www.bbc.co.uk/news/world-australia-57883692) - Katie Hopkins - a far-right British commentator - bragged about plans to break isolation rules.
 4. [Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape](https://www.bbc.co.uk/news/business-57883892) - Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.
