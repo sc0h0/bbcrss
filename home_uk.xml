@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 11:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 11:23:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Sun, 18 Jul 2021 23:08:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Iceland and Greene King shut sites amid 'pingdemic']]></title>
+            <description><![CDATA[The firms have had to shut shops and pubs due to staff shortages caused by people self-isolating.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57885175</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57885175</guid>
+            <pubDate>Mon, 19 Jul 2021 09:39:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England nightclubs reopen: Cheers and celebrations as clubbers return for first night out]]></title>
             <description><![CDATA[For some revellers in Leeds, this was the first time they'd ever been to a nightclub.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57869258</link>
@@ -44,11 +51,18 @@
             <pubDate>Mon, 19 Jul 2021 06:29:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iceland and Greene King shut sites amid 'pingdemic']]></title>
-            <description><![CDATA[The firms have had to shut shops and pubs due to staff shortages caused by people self-isolating.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57885175</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57885175</guid>
-            <pubDate>Mon, 19 Jul 2021 09:39:50 GMT</pubDate>
+            <title><![CDATA[Post Office Horizon scandal: More subpostmasters cleared]]></title>
+            <description><![CDATA[The Court of Appeal clears 12 more former subpostmasters who were wrongly convicted.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57888146</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57888146</guid>
+            <pubDate>Mon, 19 Jul 2021 11:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid restrictions ease as Scotland moves to level zero]]></title>
+            <description><![CDATA[The whole of Scotland has now moved to the lowest level of Covid regulations.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57878745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57878745</guid>
+            <pubDate>Mon, 19 Jul 2021 07:57:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pegasus: Spyware sold to governments 'targets activists']]></title>
@@ -58,18 +72,11 @@
             <pubDate>Mon, 19 Jul 2021 10:49:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Home-education numbers rise by 75%]]></title>
-            <description><![CDATA["Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.]]></description>
-            <link>https://www.bbc.co.uk/news/education-57255380</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57255380</guid>
-            <pubDate>Sun, 18 Jul 2021 23:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid restrictions ease as Scotland moves to level zero]]></title>
-            <description><![CDATA[The whole of Scotland has now moved to the lowest level of Covid regulations.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57878745</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57878745</guid>
-            <pubDate>Mon, 19 Jul 2021 07:57:23 GMT</pubDate>
+            <title><![CDATA[Strictly Come Dancing: Greatest Dancer winner joins professional dancer line-up]]></title>
+            <description><![CDATA[Poland's Jowita Przystal is one of four new additions to the BBC One's team of professional dancers.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57887945</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57887945</guid>
+            <pubDate>Mon, 19 Jul 2021 11:02:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guto Harri quits GB News over taking the knee row]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-57883692</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57883692</guid>
             <pubDate>Mon, 19 Jul 2021 02:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape]]></title>
-            <description><![CDATA[Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57883892</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57883892</guid>
-            <pubDate>Mon, 19 Jul 2021 04:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kurt Westergaard, Danish cartoonist behind Muhammad cartoon, dies at 86]]></title>
@@ -119,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-57886933</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57886933</guid>
             <pubDate>Mon, 19 Jul 2021 10:38:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Face mask rules relax but what do workers think?]]></title>
+            <description><![CDATA[It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57862362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57862362</guid>
+            <pubDate>Sun, 18 Jul 2021 23:04:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why I've hosted more than 30 refugees in my house]]></title>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-57863658</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57863658</guid>
             <pubDate>Sun, 18 Jul 2021 23:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Face mask rules relax but what do workers think?]]></title>
-            <description><![CDATA[It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57862362</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57862362</guid>
-            <pubDate>Sun, 18 Jul 2021 23:04:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Europe floods: Residents return home to see damage inflicted]]></title>
