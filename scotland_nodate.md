@@ -1,4 +1,4 @@
-1. [Covid in Scotland: One metre rule not enforced on cross-border trains](https://www.bbc.co.uk/news/uk-scotland-57893582) - Transport Scotland says it is discussing the issue with train firm LNER "as a matter of urgency".
+1. [Covid in Scotland: Review after row over 1m rule on cross-border trains](https://www.bbc.co.uk/news/uk-scotland-57893582) - LNER told customers it would not enforce distancing rules when trains cross the Scottish border.
 2. [Covid in Scotland: Where are the latest cases?](https://www.bbc.co.uk/news/uk-scotland-53511877) - A daily update on the number and location of coronavirus cases in Scotland.
 3. [Covid in Scotland: Children at higher risk of Covid to be vaccinated](https://www.bbc.co.uk/news/uk-scotland-57887850) - Children over 12 who are at higher risk of falling ill from the virus Covid will be offered the jab.
 4. [Covid restrictions ease as Scotland moves to level zero](https://www.bbc.co.uk/news/uk-scotland-57878745) - The whole of Scotland has now moved to the lowest level of Covid regulations.

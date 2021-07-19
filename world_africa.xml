@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 17:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 17:40:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Nigeria fighter plane shot down by bandits - military]]></title>
+            <description><![CDATA[The pilot survived by ejecting himself and hiding with local residents, says Nigeria's Air Force.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57893662</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57893662</guid>
+            <pubDate>Mon, 19 Jul 2021 17:21:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nigeria's security crises - five different threats]]></title>
             <description><![CDATA[Almost every part of Nigeria is facing a security crisis - from kidnapping to extremist insurgencies.]]></description>
@@ -23,18 +30,18 @@
             <pubDate>Sun, 18 Jul 2021 23:46:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Morocco and Rwanda used Israeli spyware - leaks]]></title>
-            <description><![CDATA[Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57881364</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57881364</guid>
-            <pubDate>Mon, 19 Jul 2021 13:14:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Zambia's Copper Queens out to shine despite dented preparations]]></title>
             <description><![CDATA[Zambia's Copper Queens are aiming to continue defying the odds as they represent Africa in women's football at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/africa/57888257</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/africa/57888257</guid>
             <pubDate>Mon, 19 Jul 2021 11:48:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Morocco and Rwanda used Israeli spyware - leaks]]></title>
+            <description><![CDATA[Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57881364</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57881364</guid>
+            <pubDate>Mon, 19 Jul 2021 13:14:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SA athletes first to have Covid at Olympic village]]></title>

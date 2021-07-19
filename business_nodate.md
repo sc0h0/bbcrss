@@ -1,4 +1,4 @@
-1. [Two jabs needed to enter nightclubs from September](https://www.bbc.co.uk/news/business-57893788) - People will need to be fully vaccinated to enter venues where large crowds gather from September.
+1. [Two jabs needed to enter nightclubs from September](https://www.bbc.co.uk/news/business-57893788) - People will need to be fully vaccinated to enter venues where large crowds gather, the government says.
 2. [Global shares slide amid Covid economic recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stock markets in the UK, the US and Europe fall on concerns that rising cases may impede a recovery.
 3. [Zoom bets billions on home working continuing in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
 4. [Post Office Horizon scandal: More subpostmasters cleared](https://www.bbc.co.uk/news/business-57888146) - The Court of Appeal clears 12 more former subpostmasters who were wrongly convicted.
