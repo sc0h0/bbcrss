@@ -18,11 +18,11 @@
 18. [Long Covid: 'I've blood clots, a braced leg and damaged heart... but I'm home'](https://www.bbc.co.uk/news/uk-57569540) - For three months, Bill Wilson lived a nightmare, trapped behind a plastic facemask fighting Covid.
 19. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
 20. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
-21. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks will no longer be compulsory in England from 19 July, but will remain necessary in Scotland and Wales.
+21. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
 22. [Covid: What do over-18s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The vaccine rollout is now available for younger adults. What do they need to know about getting jabbed?
 23. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 24. [What are the India, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
-25. [Covid rules: What's changing when restrictions end on 19 July?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules take effect in England and Scotland, but some restrictions remain.
+25. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
 26. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - The PM says every adult should have had the chance to be doubled jabbed by mid-September.
 27. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Busting myths and explaining the facts around vaccines.
 28. [South Africa coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - Why experts are concerned about the emergence of this particular new version of coronavirus.

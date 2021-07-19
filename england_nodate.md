@@ -4,7 +4,7 @@
 4. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
 5. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
 6. [Whipsnade Zoo to survey trees after escaped bears shot dead](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57868029) - The bears used a fallen tree to climb out of their enclosure and attack a boar.
-7. [Water safety warning after man, 19, dies in Salford Quays](https://www.bbc.co.uk/news/uk-england-manchester-57884759) - The teenager died when he got into difficulty in an area of water in Salford Quays.
+7. [Salford Quays: Water safety warning after man, 19, dies in canal](https://www.bbc.co.uk/news/uk-england-manchester-57884759) - The teenager died when he got into difficulty in an area of water in Salford Quays.
 8. [Covid 19: More than one third of Londoners unvaccinated](https://www.bbc.co.uk/news/uk-england-london-57874402) - Although the city has administered nine million jabs, its young population means many are unvaccinated.
 9. [Euro 2020: Men sought over Wembley final disorder](https://www.bbc.co.uk/news/uk-england-london-57878364) - Seven men are wanted in connection with disorder at the Euro 2020 final at Wembley, police say.
 10. [Comedian Tom O'Connor dies aged 81](https://www.bbc.co.uk/news/entertainment-arts-57879765) - The presenter and comic had had Parkinson's for many years, his family says.
@@ -12,8 +12,8 @@
 12. [Covid: Face mask rules relax but what do workers think?](https://www.bbc.co.uk/news/business-57862362) - It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.
 13. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
 14. [Nightclubs reopen but Covid challenge remains](https://www.bbc.co.uk/news/newsbeat-57867865) - Figures given to Radio 1 Newsbeat show a quarter of clubs have closed in the past six years.
-15. [Covid rules: What's changing when restrictions end on 19 July?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules take effect in England and Scotland, but some restrictions remain.
-16. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks will no longer be compulsory in England from 19 July, but will remain necessary in Scotland and Wales.
+15. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
+16. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
 17. [Knife crime: Mum tells teenagers about her son’s murder](https://www.bbc.co.uk/news/uk-england-london-57863749) - Jean Foster has been talking to young people about the consequences of carrying a knife.
 18. [TikTok: Dog training tips from 'small-town Essex boy'](https://www.bbc.co.uk/news/uk-england-essex-57841659) - Adam's videos on looking after dogs have attracted more than a million followers during lockdown.
 19. [Covid vaccine: How are young people responding to the jab?](https://www.bbc.co.uk/news/uk-england-london-57845115) - The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?

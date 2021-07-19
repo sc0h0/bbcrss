@@ -1,7 +1,7 @@
 1. ['Fresh hope' for family of IRA murder victim](https://www.bbc.co.uk/news/uk-northern-ireland-57880231) - New DNA evidence is recovered as part of the investigation into Tom Oliver's death in 1991.
 2. [Government set to lay out plans for abortion in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57882472) - The commissioning of abortion services in Northern Ireland has stalled at the executive level.
 3. [Water shortage warning in Northern Ireland as demand outstrips supply](https://www.bbc.co.uk/news/uk-northern-ireland-57882470) - NI Water tankers are moving water 24 hours a day to keep reservoirs topped up.
-4. [Covid-19: Northern Ireland awaits decision on giving under-18s jab](https://www.bbc.co.uk/news/uk-northern-ireland-57883192) - The Joint Committee on Vaccinations and Immunisation is expected to make an announcement this week.
+4. [Covid-19: Digital vaccine certificate app 'ready from 26 July'](https://www.bbc.co.uk/news/uk-northern-ireland-57883192) - Currently anyone travelling from Northern Ireland can access a downloadable certificate and QR code.
 5. [East Belfast: Man charged with attempted murder](https://www.bbc.co.uk/news/uk-northern-ireland-57885595) - A 49-year-old is due in court following an assault at the junction of Pearl Street and My Lady's Road.
 6. [Brexit: DUP leader reiterates opposition to NI Protocol](https://www.bbc.co.uk/news/uk-northern-ireland-57885367) - Sir Jeffrey Donaldson will speak to the European Commission vice president on Monday morning.
 7. [Horse racing: Thousands of racehorses killed in slaughterhouses](https://www.bbc.co.uk/news/uk-57881979) - Some horses once trained by some of racing’s top names are being slaughtered, BBC Panorama finds.
