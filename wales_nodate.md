@@ -1,4 +1,4 @@
-1. [Mayhill: 'Authorities knew stolen car danger before riot'](https://www.bbc.co.uk/news/uk-wales-57895356) - Local resident says he warned that stolen cars were being freewheeled down hill months before riot.
+1. [Mayhill: Claim authorities 'knew of stolen car danger before riot'](https://www.bbc.co.uk/news/uk-wales-57895356) - Local resident says he warned that stolen cars were being freewheeled down hill months before riot.
 2. [Covid: Will different Wales mask rules confuse tourists?](https://www.bbc.co.uk/news/uk-wales-57894111) - As the sun beams down and tourists flock to Welsh resorts, are people ready for differing rules?
 3. [Covid: More cases but fewer deaths in third wave](https://www.bbc.co.uk/news/uk-wales-57896047) - Three more people die with coronavirus in Wales, bringing the total number of deaths to 5,589.
 4. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.

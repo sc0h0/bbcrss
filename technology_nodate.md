@@ -1,6 +1,6 @@
 1. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
 2. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
-3. [Writing fake online reviews could be made illegal](https://www.bbc.co.uk/news/business-57887035) - The government is proposing law changes to stop people being exploited by businesses online.
+3. [Writing fake online reviews could be made illegal](https://www.bbc.co.uk/news/business-57887035) - New laws will help stop people being exploited by businesses online, the government says.
 4. [Royal Navy tests drones above and below waves](https://www.bbc.co.uk/news/technology-57890066) - A broad exercise saw the navy test scouts, resupply, and underwater reconnaissance drones.
 5. [Zoom bets billions on home working continuing in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
 6. [How to cool your home in a warming world](https://www.bbc.co.uk/news/technology-57467776) - Low-energy designs and technologies can keep homes comfortable, come rain or shine.
