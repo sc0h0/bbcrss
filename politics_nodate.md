@@ -18,7 +18,7 @@
 18. [Colum Eastwood: MP reveals death threats after naming Soldier F](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57863054) - Colum Eastwood named the former paratrooper, accused of two Bloody Sunday murders, in Parliament.
 19. [NI Troubles: 'Robust conversation' as parties meet Lewis over legacy](https://www.bbc.co.uk/news/uk-northern-ireland-57858073) - The UK proposals have been widely rejected by the executive parties, Irish government and victims.
 20. [Johnson and Sunak tried to dodge isolation - Starmer](https://www.bbc.co.uk/news/uk-politics-57890640) - The Labour leader accuses the pair of claiming to have been "miraculously selected" for a testing scheme.
-21. [Zahawi: There is no perfect time to ease lockdown](https://www.bbc.co.uk/news/uk-england-57885399) - There are now no limits on how many people can meet or attend events across the country.
+21. [Nadhim Zahawi: At-risk children aged 12-17 to be offered vaccine](https://www.bbc.co.uk/news/uk-57894636) - The vaccines minister says children with health conditions will be offered the Pfizer-BioNTech vaccine
 22. [Covid-19: People in York react to self-isolation U-turn](https://www.bbc.co.uk/news/uk-57882942) - The PM and chancellor are self-isolating but it's after No 10 said they'd take part in a daily Covid-testing trial instead.
 23. [Social care tax: Labour calls for money to be ring-fenced](https://www.bbc.co.uk/news/uk-politics-57878580) - The shadow health secretary says Labour is not opposed to a tax for social care, if conditions are met.
 24. [Keir Starmer quizzed by former Labour voters in Blackpool](https://www.bbc.co.uk/news/uk-politics-57849730) - The Labour leader speaks to an audience in Blackpool about three of his policy priorities.

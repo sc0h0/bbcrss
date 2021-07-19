@@ -1,14 +1,14 @@
 1. [Mayhill: Review to examine reasons behind Swansea riots](https://www.bbc.co.uk/news/uk-wales-57890220) - Violence and rioting broke out at a vigil to remember a local man who died.
-2. [Covid: Hundreds of thousands of under-18s to get vaccine](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says children at high risk from Covid will be offered the jab.
-3. [Paralympian 'told to wear more appropriate shorts'](https://www.bbc.co.uk/sport/disability-sport/57887715) - Double world champion para-athlete Olivia Breen said she was left angry and speechless after being told to wear 'more appropriate' shorts.
-4. [Guto Harri quits GB News over taking the knee row](https://www.bbc.co.uk/news/entertainment-arts-57885955) - The journalist was suspended for a gesture made during a chat about the abuse of black footballers.
-5. [Wales and women's coach Warren Abrahams part company](https://www.bbc.co.uk/sport/rugby-union/57892272) - Wales women's coach Warren Abrahams is leaving his role less than nine months after being appointed.
-6. [Covid in Wales: Calls to respect beauty spots as rules eased](https://www.bbc.co.uk/news/uk-wales-57870127) - Natural Resources Wales says, as sites get busier, people should respect the countryside.
-7. [Barry Bagnall jailed for Wrexham hammer murder](https://www.bbc.co.uk/news/uk-wales-57880625) - Barry Bagnall hit Terence Edwards over the head twice during a "cold-blooded" murder, a court hears.
-8. [Post Office scandal: Postmaster Tim Brentnall cleared](https://www.bbc.co.uk/news/uk-wales-57885408) - Tim Brentnall says it has taken 16 years to clear his name after being accused of stealing.
-9. [Disabled access at Wales' tourist spots 'limit freedom'](https://www.bbc.co.uk/news/uk-wales-57866764) - Campaigners say the problem "destroys the experience and knocks people's confidence".
-10. [NHS: Tredegar building to tell story of Aneurin Bevan's inspiration](https://www.bbc.co.uk/news/uk-wales-57802514) - Tredegar Medical Aid Society was used as a blueprint by NHS founder Aneurin Bevan.
-11. [Defibrillator calls after Barry cricketer dies](https://www.bbc.co.uk/news/uk-wales-57880399) - Father-of-three Maqsood Anwar, 44, was playing cricket when he collapsed.
+2. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.
+3. [Covid: Hundreds of thousands of under-18s to get vaccine](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says children at high risk from Covid will be offered the jab.
+4. [A40 Carmarthenshire crash: Family pay tribute to victim](https://www.bbc.co.uk/news/uk-wales-57892924) - Arwel Davies died in an accident on the A40 between a flatbed lorry and Ford Transit tipper.
+5. [Paralympian 'told to wear more appropriate shorts'](https://www.bbc.co.uk/sport/disability-sport/57887715) - Double world champion para-athlete Olivia Breen said she was left angry and speechless after being told to wear 'more appropriate' shorts.
+6. [Guto Harri quits GB News over taking the knee row](https://www.bbc.co.uk/news/entertainment-arts-57885955) - The journalist was suspended for a gesture made during a chat about the abuse of black footballers.
+7. [Wales and women's coach Warren Abrahams part company](https://www.bbc.co.uk/sport/rugby-union/57892272) - Wales women's coach Warren Abrahams is leaving his role - less than nine months after being appointed.
+8. [Covid in Wales: Calls to respect beauty spots as rules eased](https://www.bbc.co.uk/news/uk-wales-57870127) - Natural Resources Wales says, as sites get busier, people should respect the countryside.
+9. [Barry Bagnall jailed for Wrexham hammer murder](https://www.bbc.co.uk/news/uk-wales-57880625) - Barry Bagnall hit Terence Edwards over the head twice during a "cold-blooded" murder, a court hears.
+10. [Post Office scandal: Postmaster Tim Brentnall cleared](https://www.bbc.co.uk/news/uk-wales-57885408) - Tim Brentnall says it has taken 16 years to clear his name after being accused of stealing.
+11. [Disabled access at Wales' tourist spots 'limit freedom'](https://www.bbc.co.uk/news/uk-wales-57866764) - Campaigners say the problem "destroys the experience and knocks people's confidence".
 12. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
 13. [Covid: Pontypool shoppers want to 'revive' town centre](https://www.bbc.co.uk/news/uk-wales-57870128) - Once a major city centre, Pontypool town like many other places has seen shops close due to Covid.
 14. [Amputee's win for prosthetics funding in Wales shows 'people power'](https://www.bbc.co.uk/news/uk-wales-57866765) - David Bradley said amputees in Wales had been disadvantaged compared to the rest of the UK.

@@ -14,9 +14,9 @@
 14. [Duran Duran’s Invisible: 'Thrilled' with AI collaboration](https://www.bbc.co.uk/news/technology-57737384) - Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.
 15. [How MetaHuman Creator helped me create ‘Dana’](https://www.bbc.co.uk/news/technology-57569224) - Realistic digital humans can be produced rapidly with the new software, Epic Games says.
 16. [Google boss Sundar Pichai on tax and his personal tech habits](https://www.bbc.co.uk/news/technology-57777638) - Google boss Sundar Pichai defends company record on tax – and explains his personal tech habits.
-17. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
-18. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
-19. [How your personal data is being scraped from social media](https://www.bbc.co.uk/news/business-57841239) - As hackers scoop up data from social media sites, should firms be taking better care of your data?
-20. [Should we trust big tech with our health data?](https://www.bbc.co.uk/news/business-57817804) - Our medical records are in demand by tech firms who want to use the data to help tackle illnesses.
-21. [How your driving might reveal early signs of Alzheimer's](https://www.bbc.co.uk/news/business-57670006) - Research shows how small changes in the way you drive could expose preclinical signs of disease.
-22. [Voice cloning of growing interest to actors and cybercriminals](https://www.bbc.co.uk/news/business-57761873) - Why voice cloning is not just a threat to actors but could benefit cybercriminals too.
+17. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
+18. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
+19. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
+20. [How your personal data is being scraped from social media](https://www.bbc.co.uk/news/business-57841239) - As hackers scoop up data from social media sites, should firms be taking better care of your data?
+21. [Should we trust big tech with our health data?](https://www.bbc.co.uk/news/business-57817804) - Our medical records are in demand by tech firms who want to use the data to help tackle illnesses.
+22. [How your driving might reveal early signs of Alzheimer's](https://www.bbc.co.uk/news/business-57670006) - Research shows how small changes in the way you drive could expose preclinical signs of disease.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 15:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 16:20:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Mon, 19 Jul 2021 15:42:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Lifting all restrictions at once is reckless, says Sir Keir Starmer]]></title>
-            <description><![CDATA[Boris Johnson has urged caution as most legal rules on social contact are lifted in England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57886976</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57886976</guid>
-            <pubDate>Mon, 19 Jul 2021 15:42:27 GMT</pubDate>
+            <title><![CDATA[Covid: Critical workers to avoid close contact isolation]]></title>
+            <description><![CDATA[People performing "critical" tasks including air traffic controllers will be exempt under new rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57894392</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894392</guid>
+            <pubDate>Mon, 19 Jul 2021 16:18:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Met Office issues first UK extreme heat warning]]></title>
-            <description><![CDATA[It covers large parts of Wales and south-west England as the UK experiences a prolonged hot spell.]]></description>
+            <description><![CDATA[It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57893385</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57893385</guid>
-            <pubDate>Mon, 19 Jul 2021 15:51:24 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 16:11:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Global shares slide amid Covid economic recovery fears]]></title>
@@ -58,6 +58,13 @@
             <pubDate>Mon, 19 Jul 2021 15:11:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Lifting all restrictions at once is reckless, says Sir Keir Starmer]]></title>
+            <description><![CDATA[Boris Johnson has urged caution as most legal rules on social contact are lifted in England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57886976</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57886976</guid>
+            <pubDate>Mon, 19 Jul 2021 16:11:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China accused of cyber-attack on Microsoft Exchange servers]]></title>
             <description><![CDATA[The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57889981</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57887945</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57887945</guid>
             <pubDate>Mon, 19 Jul 2021 11:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guto Harri quits GB News over taking the knee row]]></title>
-            <description><![CDATA[The journalist was suspended for a gesture made during a chat about the abuse of black footballers.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57885955</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57885955</guid>
-            <pubDate>Mon, 19 Jul 2021 10:08:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NYPD officer uses crisp packet to save stabbing victim]]></title>
@@ -237,7 +237,7 @@
             <description><![CDATA[Lewis Hamilton is the target of racist abuse on social media after his victory in Sunday's British Grand Prix.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/57885011</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57885011</guid>
-            <pubDate>Mon, 19 Jul 2021 09:19:12 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 16:14:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Disgraceful scenes must never be repeated' - FA announces review into Wembley security breaches]]></title>
@@ -275,6 +275,13 @@
             <pubDate>Mon, 19 Jul 2021 11:52:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Which children are being vaccinated and why?]]></title>
+            <description><![CDATA[Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57888429</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57888429</guid>
+            <pubDate>Mon, 19 Jul 2021 15:47:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid rules from 19 July: What has changed?]]></title>
             <description><![CDATA[Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
@@ -307,7 +314,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sun, 18 Jul 2021 16:02:06 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 16:16:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>

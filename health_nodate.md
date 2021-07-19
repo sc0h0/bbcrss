@@ -34,8 +34,8 @@
 34. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 35. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 36. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-37. [Covid vaccine: How are young people responding to the jab?](https://www.bbc.co.uk/news/uk-england-london-57845115) - The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?
-38. [Covid: Coping with opening-up anxiety](https://www.bbc.co.uk/news/health-57869257) - Lauren and Angelica-Jane fear the end of restrictions will be challenging for their mental health.
-39. [Lisa Shaw death: 'Give people choice over type of Covid jab'](https://www.bbc.co.uk/news/health-57853285) - Gareth Eve’s wife, BBC Newcastle presenter Lisa Shaw, died in hospital after a bleed on the brain.
-40. [Covid patient’s own blood cells could treat lung scarring](https://www.bbc.co.uk/news/uk-57837432) - A therapy made from a patient’s white blood cells is being trialled by doctors in London.
-41. [Menopause: Swansea MP calls for change on 'the change'](https://www.bbc.co.uk/news/uk-wales-57838624) - Campaigners want women to talk about the menopause and call for more training for GPs.
+37. [Nadhim Zahawi: At-risk children aged 12-17 to be offered vaccine](https://www.bbc.co.uk/news/uk-57894636) - The vaccines minister says children with health conditions will be offered the Pfizer-BioNTech vaccine
+38. [Covid vaccine: How are young people responding to the jab?](https://www.bbc.co.uk/news/uk-england-london-57845115) - The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?
+39. [Covid: Coping with opening-up anxiety](https://www.bbc.co.uk/news/health-57869257) - Lauren and Angelica-Jane fear the end of restrictions will be challenging for their mental health.
+40. [Lisa Shaw death: 'Give people choice over type of Covid jab'](https://www.bbc.co.uk/news/health-57853285) - Gareth Eve’s wife, BBC Newcastle presenter Lisa Shaw, died in hospital after a bleed on the brain.
+41. [Covid patient’s own blood cells could treat lung scarring](https://www.bbc.co.uk/news/uk-57837432) - A therapy made from a patient’s white blood cells is being trialled by doctors in London.
