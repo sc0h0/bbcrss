@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 21:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 22:05:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,25 +23,11 @@
             <pubDate>Mon, 19 Jul 2021 17:36:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Mon, 19 Jul 2021 14:18:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: Children at higher risk of Covid to be vaccinated]]></title>
             <description><![CDATA[Children over 12 who are at higher risk of falling ill from the virus Covid will be offered the jab.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57887850</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57887850</guid>
             <pubDate>Mon, 19 Jul 2021 21:31:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid restrictions ease as Scotland moves to level zero]]></title>
-            <description><![CDATA[The whole of Scotland has now moved to the lowest level of Covid regulations.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57878745</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57878745</guid>
-            <pubDate>Mon, 19 Jul 2021 07:57:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CCTV images released over councillor fire attack]]></title>
@@ -56,6 +42,20 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57885648</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57885648</guid>
             <pubDate>Mon, 19 Jul 2021 13:59:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: What are the rules at level zero?]]></title>
+            <description><![CDATA[The whole of Scotland has now moved to level zero, but what does that actually mean people can do?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53166816</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53166816</guid>
+            <pubDate>Mon, 19 Jul 2021 10:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid restrictions ease as Scotland moves to level zero]]></title>
+            <description><![CDATA[The whole of Scotland has now moved to the lowest level of Covid regulations.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57878745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57878745</guid>
+            <pubDate>Mon, 19 Jul 2021 07:57:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Three motorcyclists die in weekend crashes]]></title>
@@ -100,11 +100,11 @@
             <pubDate>Sun, 18 Jul 2021 16:21:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: What are the rules at level zero?]]></title>
-            <description><![CDATA[The whole of Scotland has now moved to level zero, but what does that actually mean people can do?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53166816</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53166816</guid>
-            <pubDate>Mon, 19 Jul 2021 10:11:39 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Mon, 19 Jul 2021 14:18:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules and guidance for face masks and coverings from 19 July?]]></title>
