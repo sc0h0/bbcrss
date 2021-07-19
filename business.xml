@@ -11,23 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 16:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 16:53:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Two jabs needed to enter nightclubs from September]]></title>
+            <description><![CDATA[People will need to be fully vaccinated to enter venues where large crowds gather from September.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57893788</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57893788</guid>
+            <pubDate>Mon, 19 Jul 2021 16:38:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Global shares slide amid Covid economic recovery fears]]></title>
             <description><![CDATA[Stock markets in the UK, the US and Europe fall on concerns that rising cases may impede a recovery.]]></description>
             <link>https://www.bbc.co.uk/news/business-57885183</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57885183</guid>
-            <pubDate>Mon, 19 Jul 2021 14:57:55 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 16:26:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Zoom bets billions on hybrid working in Five9 deal]]></title>
+            <title><![CDATA[Zoom bets billions on home working continuing in Five9 deal]]></title>
             <description><![CDATA[The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.]]></description>
             <link>https://www.bbc.co.uk/news/business-57893155</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57893155</guid>
-            <pubDate>Mon, 19 Jul 2021 15:21:53 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 16:44:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Post Office Horizon scandal: More subpostmasters cleared]]></title>
@@ -44,7 +51,7 @@
             <pubDate>Mon, 19 Jul 2021 15:10:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fears of workers on the face masks frontline]]></title>
+            <title><![CDATA[Frontline workers fearful as face mask rules ease]]></title>
             <description><![CDATA[It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.]]></description>
             <link>https://www.bbc.co.uk/news/business-57862362</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57862362</guid>
