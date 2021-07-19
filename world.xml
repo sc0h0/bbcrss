@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 14:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 14:51:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[Keigo Oyamada resigned after it came out that he bullied disabled classmates and boasted about it.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57891364</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57891364</guid>
-            <pubDate>Mon, 19 Jul 2021 14:09:50 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 14:47:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katie Hopkins deported from Australia over quarantine rules]]></title>
@@ -44,6 +44,13 @@
             <pubDate>Mon, 19 Jul 2021 02:13:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[London man in court over plot to kill Pakistani activist in Netherlands]]></title>
+            <description><![CDATA[The suspect is charged with conspiring to kill an exiled Pakistani activist in the Netherlands.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57891074</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57891074</guid>
+            <pubDate>Mon, 19 Jul 2021 13:39:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid vaccination centres vandalised in France]]></title>
             <description><![CDATA[The incidents came on a weekend of mass protests against the French government's new Covid rules.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57883397</link>
@@ -51,18 +58,18 @@
             <pubDate>Mon, 19 Jul 2021 04:16:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape]]></title>
-            <description><![CDATA[Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57883892</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57883892</guid>
-            <pubDate>Mon, 19 Jul 2021 04:56:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kurt Westergaard, Danish cartoonist behind Muhammad cartoon, dies at 86]]></title>
             <description><![CDATA[His 2005 drawing of the Prophet Muhammad sparked protests across the Muslim world.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57883392</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57883392</guid>
             <pubDate>Mon, 19 Jul 2021 00:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape]]></title>
+            <description><![CDATA[Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57883892</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57883892</guid>
+            <pubDate>Mon, 19 Jul 2021 04:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Europe floods: Merkel shocked by 'surreal' devastation]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/health-57820346</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57820346</guid>
             <pubDate>Sun, 18 Jul 2021 23:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Esraa Abdel Fattah: Egyptian activist released from prison]]></title>
-            <description><![CDATA[Esraa Abdel Fattah earned the moniker "Facebook Girl" for her role in the 2011 revolution.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57882069</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57882069</guid>
-            <pubDate>Sun, 18 Jul 2021 17:30:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympics: Defying threats, Iranian athletes speak out to back ban]]></title>
@@ -168,41 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57878577</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57878577</guid>
             <pubDate>Sun, 18 Jul 2021 07:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany floods: Where are the worst-hit areas?]]></title>
-            <description><![CDATA[Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57862894</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57862894</guid>
-            <pubDate>Fri, 16 Jul 2021 16:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany floods: 'My city looks like a battlefield']]></title>
-            <description><![CDATA[Witnesses voice their grief and horror at the deadly floods in western Germany.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57862570</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57862570</guid>
-            <pubDate>Fri, 16 Jul 2021 13:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany floods: How a country was taken by surprise]]></title>
-            <description><![CDATA[Amid the despair and mounting death toll, people are questioning how this could have happened.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57867773</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57867773</guid>
-            <pubDate>Fri, 16 Jul 2021 16:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In pictures: Chaos and destruction around Europe]]></title>
-            <description><![CDATA[Record rainfall caused rivers to burst their banks, leaving at least 122 dead in Germany and Belgium.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57858826</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57858826</guid>
-            <pubDate>Fri, 16 Jul 2021 12:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Science failed to predict extreme weather]]></title>
-            <description><![CDATA[Scientists want a super-computer powerful enough to accurately project the most damaging extremes.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57863205</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57863205</guid>
-            <pubDate>Fri, 16 Jul 2021 11:36:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

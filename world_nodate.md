@@ -2,13 +2,13 @@
 2. [Tokyo Olympics: Composer Keigo Oyamada resigns over bullying at school](https://www.bbc.co.uk/news/world-asia-57891364) - Keigo Oyamada resigned after it came out that he bullied disabled classmates and boasted about it.
 3. [Katie Hopkins deported from Australia over quarantine rules](https://www.bbc.co.uk/news/world-australia-57883692) - Katie Hopkins - a far-right British commentator - bragged about plans to break isolation rules.
 4. ['Plague of oysters' threatens key Olympic venue](https://www.bbc.co.uk/news/world-asia-57883922) - More than $1m has been spent to keep tonnes of rogue shellfish at bay in Tokyo's Sea Forest Waterway.
-5. [Covid vaccination centres vandalised in France](https://www.bbc.co.uk/news/world-europe-57883397) - The incidents came on a weekend of mass protests against the French government's new Covid rules.
-6. [Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape](https://www.bbc.co.uk/news/business-57883892) - Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.
+5. [London man in court over plot to kill Pakistani activist in Netherlands](https://www.bbc.co.uk/news/world-asia-57891074) - The suspect is charged with conspiring to kill an exiled Pakistani activist in the Netherlands.
+6. [Covid vaccination centres vandalised in France](https://www.bbc.co.uk/news/world-europe-57883397) - The incidents came on a weekend of mass protests against the French government's new Covid rules.
 7. [Kurt Westergaard, Danish cartoonist behind Muhammad cartoon, dies at 86](https://www.bbc.co.uk/news/world-europe-57883392) - His 2005 drawing of the Prophet Muhammad sparked protests across the Muslim world.
-8. [Europe floods: Merkel shocked by 'surreal' devastation](https://www.bbc.co.uk/news/world-europe-57880729) - The chancellor vows to fast-track aid after visiting some of the worst-hit areas in western Germany.
-9. [Kris Wu: Brands drop China star over teen sex allegations](https://www.bbc.co.uk/news/world-asia-china-57884438) - Singer-actor Kris Wu has denied the accusations and said he was filing a defamation suit.
-10. [Covid: Global healthcare workers missing out on jabs](https://www.bbc.co.uk/news/health-57820346) - Campaigners say millions have not had even one vaccine dose, raising concerns for their communities.
-11. [Esraa Abdel Fattah: Egyptian activist released from prison](https://www.bbc.co.uk/news/world-middle-east-57882069) - Esraa Abdel Fattah earned the moniker "Facebook Girl" for her role in the 2011 revolution.
+8. [Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape](https://www.bbc.co.uk/news/business-57883892) - Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.
+9. [Europe floods: Merkel shocked by 'surreal' devastation](https://www.bbc.co.uk/news/world-europe-57880729) - The chancellor vows to fast-track aid after visiting some of the worst-hit areas in western Germany.
+10. [Kris Wu: Brands drop China star over teen sex allegations](https://www.bbc.co.uk/news/world-asia-china-57884438) - Singer-actor Kris Wu has denied the accusations and said he was filing a defamation suit.
+11. [Covid: Global healthcare workers missing out on jabs](https://www.bbc.co.uk/news/health-57820346) - Campaigners say millions have not had even one vaccine dose, raising concerns for their communities.
 12. [Olympics: Defying threats, Iranian athletes speak out to back ban](https://www.bbc.co.uk/news/world-middle-east-57839521) - Olympics organisers are being urged to investigate allegations of threats, discrimination and abuse.
 13. [Covid: Is China's vaccine success waning in Asia?](https://www.bbc.co.uk/news/world-asia-57845644) - Thailand and Indonesia's switch to other Covid jabs has raised questions about Chinese vaccines.
 14. [Nigeria's security crises - five different threats](https://www.bbc.co.uk/news/world-africa-57860993) - Almost every part of Nigeria is facing a security crisis - from kidnapping to extremist insurgencies.
@@ -20,8 +20,3 @@
 20. [Lex Gillette: Record-breaking blind long jumper](https://www.bbc.co.uk/news/disability-57851104) - With the support of his sighted guide, the four-time Paralympic medallist hopes to win gold in Tokyo.
 21. [Moment New York mum saves five-year-old from kidnap](https://www.bbc.co.uk/news/world-us-canada-57877269) - The mother pulled her son from a car after he was taken from her in broad daylight in the New York City.
 22. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
-23. [Germany floods: Where are the worst-hit areas?](https://www.bbc.co.uk/news/world-europe-57862894) - Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.
-24. [Germany floods: 'My city looks like a battlefield'](https://www.bbc.co.uk/news/world-europe-57862570) - Witnesses voice their grief and horror at the deadly floods in western Germany.
-25. [Germany floods: How a country was taken by surprise](https://www.bbc.co.uk/news/world-europe-57867773) - Amid the despair and mounting death toll, people are questioning how this could have happened.
-26. [In pictures: Chaos and destruction around Europe](https://www.bbc.co.uk/news/world-europe-57858826) - Record rainfall caused rivers to burst their banks, leaving at least 122 dead in Germany and Belgium.
-27. [Science failed to predict extreme weather](https://www.bbc.co.uk/news/science-environment-57863205) - Scientists want a super-computer powerful enough to accurately project the most damaging extremes.
