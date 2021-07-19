@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 10:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 11:13:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Mon, 19 Jul 2021 05:14:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Government set to lay out plans for abortion in NI]]></title>
-            <description><![CDATA[The commissioning of abortion services in Northern Ireland has stalled at the executive level.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57882472</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57882472</guid>
-            <pubDate>Mon, 19 Jul 2021 05:11:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Water shortage warning in Northern Ireland as demand outstrips supply]]></title>
             <description><![CDATA[NI Water tankers are moving water 24 hours a day to keep reservoirs topped up.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57882470</link>
@@ -44,18 +37,25 @@
             <pubDate>Sun, 18 Jul 2021 19:40:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: Ireland eases international travel restrictions]]></title>
-            <description><![CDATA[People who have "valid proof" of full vaccination no longer have to self-isolate on arrival.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57886435</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57886435</guid>
-            <pubDate>Mon, 19 Jul 2021 10:03:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NI heatwave: Police run out of parking tickets at Ballintoy Harbour]]></title>
             <description><![CDATA[As temperatures soared on Sunday, police issued 30 fixed penalty notices for parking offences.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57885076</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57885076</guid>
             <pubDate>Mon, 19 Jul 2021 10:14:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Government set to lay out plans for abortion in NI]]></title>
+            <description><![CDATA[The commissioning of abortion services in Northern Ireland has stalled at the executive level.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57882472</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57882472</guid>
+            <pubDate>Mon, 19 Jul 2021 05:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Ireland eases international travel restrictions]]></title>
+            <description><![CDATA[People who have "valid proof" of full vaccination no longer have to self-isolate on arrival.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57886435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57886435</guid>
+            <pubDate>Mon, 19 Jul 2021 10:03:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[East Belfast: Man charged with attempted murder]]></title>

@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 10:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 11:09:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Nightclubs reopen but Covid challenge remains]]></title>
-            <description><![CDATA[Figures given to Radio 1 Newsbeat show a quarter of clubs have closed in the past six years.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57867865</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57867865</guid>
-            <pubDate>Mon, 19 Jul 2021 03:44:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Guto Harri quits GB News over taking the knee row]]></title>
             <description><![CDATA[The journalist was suspended for a gesture made during a chat about the abuse of black footballers.]]></description>
@@ -30,11 +23,25 @@
             <pubDate>Mon, 19 Jul 2021 10:08:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Strictly Come Dancing: Greatest Dancer winner joins professional dancer line-up]]></title>
+            <description><![CDATA[Poland's Jowita Przystal is one of four new additions to the BBC One's team of professional dancers.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57887945</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57887945</guid>
+            <pubDate>Mon, 19 Jul 2021 11:02:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sir Kenneth Branagh: The Browning Version cancelled due to Covid-enforced absences]]></title>
             <description><![CDATA[The Browning Version was due to open in west London next month, with proceeds going to Rada.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57885100</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57885100</guid>
             <pubDate>Mon, 19 Jul 2021 07:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nightclubs reopen but Covid challenge remains]]></title>
+            <description><![CDATA[Figures given to Radio 1 Newsbeat show a quarter of clubs have closed in the past six years.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57867865</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57867865</guid>
+            <pubDate>Mon, 19 Jul 2021 03:44:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katie Hopkins to be deported from Australia over quarantine rules]]></title>
