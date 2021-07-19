@@ -1,4 +1,4 @@
-1. [Two jabs needed to enter nightclubs from September](https://www.bbc.co.uk/news/business-57893788) - People will need to be fully vaccinated to enter venues where large crowds gather, the government says.
+1. [Covid: Two jabs needed to enter nightclubs from September](https://www.bbc.co.uk/news/business-57893788) - People will need to be fully vaccinated to enter venues where large crowds gather, the government says.
 2. [Covid: Isolation rules loosened for critical workers](https://www.bbc.co.uk/news/uk-57894392) - People performing "critical" tasks including air traffic controllers will still be able to work under new rules.
 3. [Covid-19: Critical staff to avoid isolation and some under-18s to get jab](https://www.bbc.co.uk/news/uk-57891847) - Five things you need to know about the coronavirus pandemic this Monday evening.
 4. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.
