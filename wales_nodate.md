@@ -1,5 +1,5 @@
 1. [Covid in Wales: Calls to respect beauty spots as rules eased](https://www.bbc.co.uk/news/uk-wales-57870127) - Natural Resources Wales says, as sites get busier, people should respect the countryside.
-2. [Disabled access at Wales' tourist hotspots 'limit freedom'](https://www.bbc.co.uk/news/uk-wales-57866764) - Campaigners say the problem "destroys the experience and knocks people's confidence".
+2. [Disabled access at Wales' tourist spots 'limit freedom'](https://www.bbc.co.uk/news/uk-wales-57866764) - Campaigners say the problem "destroys the experience and knocks people's confidence".
 3. [NHS: Tredegar building to tell story of Aneurin Bevan's inspiration](https://www.bbc.co.uk/news/uk-wales-57802514) - Tredegar Medical Aid Society was used as a blueprint by NHS founder Aneurin Bevan.
 4. [Defibrillator calls after Barry cricketer dies](https://www.bbc.co.uk/news/uk-wales-57880399) - Father-of-three Maqsood Anwar, 44, was playing cricket when he collapsed.
 5. [Football cap from 1905 returns to Wales from Australia](https://www.bbc.co.uk/news/uk-wales-57863668) - Walter Watkins' cap for his seventh appearance for Wales has been down under for decades.
@@ -24,5 +24,5 @@
 24. [Galw ar ymwelwyr i barchu ardaloedd poblogaidd Cymru](https://www.bbc.co.uk/newyddion/57879089) - Cyfoeth Naturiol Cymru'n annog pobl i barchu cymunedau y maen nhw'n ymweld â nhw dros wyliau'r haf.
 25. [Sioe Frenhinol yn 'obeithiol' am £500,000 o gymhorthdal](https://www.bbc.co.uk/newyddion/57873789) - Mae'r Sioe eisoes wedi derbyn £700,000, ond mae'r trefnwyr yn gobeithio cael rhagor i gefnogi'r digwyddiad.
 26. [Ailagor orielau Llyfrgell Genedlaethol Cymru](https://www.bbc.co.uk/newyddion/57858748) - Arddangosfeydd y Llyfrgell Gen yn ailagor am y tro cyntaf wedi'r pandemig, ond bydd rhaid archebu lle.
-27. [Jade Jones: 'Unrhyw beth heblaw aur yn fethiant'](https://www.bbc.co.uk/newyddion/57835165) - Y Pencampwr Olympaidd o'r Fflint sy'n rhoi cipolwg ar ei bywyd o gasglu sgrap i ennill yr aur
+27. [Ateb y Galw: Y gantores Ffion Emyr](https://www.bbc.co.uk/newyddion/57819578) - Y gantores a'r cyflwynydd Ffion Emyr sy'n cael ei holi yr wythnos yma
 28. [Hampshire yn trechu Morgannwg yn y T20 yn Southampton](https://www.bbc.co.uk/newyddion/57881250) - Tymor T20 Morgannwg i ben gyda cholled arall, y tro hwn yn erbyn Hampshire yn Southampton.

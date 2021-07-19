@@ -3,7 +3,7 @@
 3. [Katie Hopkins to be deported from Australia over quarantine rules](https://www.bbc.co.uk/news/world-australia-57883692) - Katie Hopkins - a right-wing British commentator - bragged about plans to break isolation rules.
 4. [Covid vaccination centres vandalised in France](https://www.bbc.co.uk/news/world-europe-57883397) - The incidents came on a weekend of mass protests against the French government's new Covid rules.
 5. [Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape](https://www.bbc.co.uk/news/business-57883892) - Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.
-6. [Kris Wu: Brands drop Chinese star over teen sex allegations](https://www.bbc.co.uk/news/world-asia-china-57884438) - Singer-actor Kris Wu has denied the accusations and said he was filing a defamation suit.
+6. [Kris Wu: Brands drop China star over teen sex allegations](https://www.bbc.co.uk/news/world-asia-china-57884438) - Singer-actor Kris Wu has denied the accusations and said he was filing a defamation suit.
 7. [Tokyo Olympics: 'Plague of oysters' threaten key venue](https://www.bbc.co.uk/news/world-asia-57883922) - More than $1m has been spent to keep tonnes of rogue shellfish at bay in Tokyo's Sea Forest Waterway.
 8. [Europe floods: Merkel shocked by 'surreal' devastation](https://www.bbc.co.uk/news/world-europe-57880729) - The chancellor vows to fast-track aid after visiting some of the worst-hit areas in western Germany.
 9. [Covid: Global healthcare workers missing out on jabs](https://www.bbc.co.uk/news/health-57820346) - Campaigners say millions have not had even one vaccine dose, raising concerns for their communities.
