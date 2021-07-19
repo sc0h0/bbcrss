@@ -1,5 +1,5 @@
 1. [Covid: Hundreds of thousands of under-18s to get vaccine](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says children at high risk from Covid will be offered the jab.
-2. [Covid: Critical workers to avoid close contact isolation](https://www.bbc.co.uk/news/uk-57894392) - People performing "critical" tasks including air traffic controllers will be exempt under new rules.
+2. [Covid: Isolation rules loosened for critical workers](https://www.bbc.co.uk/news/uk-57894392) - People performing "critical" tasks including air traffic controllers will still be able to work under new rules.
 3. [Covid: Lifting all restrictions at once is reckless, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57886976) - Boris Johnson has urged caution as most legal rules on social contact are lifted in England.
 4. [Covid: Global healthcare workers missing out on jabs](https://www.bbc.co.uk/news/health-57820346) - Campaigners say millions have not had even one vaccine dose, raising concerns for their communities.
 5. [19 July: England Covid restrictions ease as PM urges caution](https://www.bbc.co.uk/news/uk-57882029) - There is no limit on how many people can meet, nightclubs can reopen and large events can resume.
@@ -36,8 +36,8 @@
 36. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 37. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 38. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-39. [Covid patients urge public to 'be careful' as restrictions ease](https://www.bbc.co.uk/news/uk-57894916) - As most coronavrirus restrictions in England are lifted, Covid patients urge the public to take care.
+39. [Shielders 'feeling abandoned' as coronavirus restrictions lifted](https://www.bbc.co.uk/news/uk-57894885) - Three people who were told to shield during lockdown share their concerns as rules are eased in England.
 40. [Nadhim Zahawi: At-risk children aged 12-17 to be offered vaccine](https://www.bbc.co.uk/news/uk-57894636) - The vaccines minister says children with health conditions will be offered the Pfizer-BioNTech vaccine
-41. [Covid vaccine: How are young people responding to the jab?](https://www.bbc.co.uk/news/uk-england-london-57845115) - The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?
-42. [Covid: Coping with opening-up anxiety](https://www.bbc.co.uk/news/health-57869257) - Lauren and Angelica-Jane fear the end of restrictions will be challenging for their mental health.
-43. [Lisa Shaw death: 'Give people choice over type of Covid jab'](https://www.bbc.co.uk/news/health-57853285) - Gareth Eve’s wife, BBC Newcastle presenter Lisa Shaw, died in hospital after a bleed on the brain.
+41. [Covid patients urge public to 'be careful' as restrictions ease](https://www.bbc.co.uk/news/uk-57894916) - As most coronavrirus restrictions in England are lifted, Covid patients urge the public to take care.
+42. [Covid vaccine: How are young people responding to the jab?](https://www.bbc.co.uk/news/uk-england-london-57845115) - The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?
+43. [Covid: Coping with opening-up anxiety](https://www.bbc.co.uk/news/health-57869257) - Lauren and Angelica-Jane fear the end of restrictions will be challenging for their mental health.

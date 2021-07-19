@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jul 2021 18:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 18:39:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Mon, 19 Jul 2021 15:42:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Critical workers to avoid close contact isolation]]></title>
-            <description><![CDATA[People performing "critical" tasks including air traffic controllers will be exempt under new rules.]]></description>
+            <title><![CDATA[Covid: Isolation rules loosened for critical workers]]></title>
+            <description><![CDATA[People performing "critical" tasks including air traffic controllers will still be able to work under new rules.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57894392</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894392</guid>
-            <pubDate>Mon, 19 Jul 2021 17:23:24 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 18:22:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Lifting all restrictions at once is reckless, says Sir Keir Starmer]]></title>
@@ -282,11 +282,11 @@
             <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid patients urge public to 'be careful' as restrictions ease]]></title>
-            <description><![CDATA[As most coronavrirus restrictions in England are lifted, Covid patients urge the public to take care.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57894916</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894916</guid>
-            <pubDate>Mon, 19 Jul 2021 17:06:43 GMT</pubDate>
+            <title><![CDATA[Shielders 'feeling abandoned' as coronavirus restrictions lifted]]></title>
+            <description><![CDATA[Three people who were told to shield during lockdown share their concerns as rules are eased in England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57894885</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894885</guid>
+            <pubDate>Mon, 19 Jul 2021 18:33:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nadhim Zahawi: At-risk children aged 12-17 to be offered vaccine]]></title>
@@ -294,6 +294,13 @@
             <link>https://www.bbc.co.uk/news/uk-57894636</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894636</guid>
             <pubDate>Mon, 19 Jul 2021 16:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid patients urge public to 'be careful' as restrictions ease]]></title>
+            <description><![CDATA[As most coronavrirus restrictions in England are lifted, Covid patients urge the public to take care.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57894916</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894916</guid>
+            <pubDate>Mon, 19 Jul 2021 17:06:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: How are young people responding to the jab?]]></title>
@@ -308,13 +315,6 @@
             <link>https://www.bbc.co.uk/news/health-57869257</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57869257</guid>
             <pubDate>Fri, 16 Jul 2021 23:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisa Shaw death: 'Give people choice over type of Covid jab']]></title>
-            <description><![CDATA[Gareth Eve’s wife, BBC Newcastle presenter Lisa Shaw, died in hospital after a bleed on the brain.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57853285</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57853285</guid>
-            <pubDate>Thu, 15 Jul 2021 17:58:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
