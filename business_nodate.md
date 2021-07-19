@@ -1,4 +1,4 @@
-1. [Greene King closes 33 pubs amid 'pingdemic'](https://www.bbc.co.uk/news/business-57885175) - The company warns staff shortages could get worst as more people are forced to self-isolate.
+1. [Iceland and Greene King shut sites amid 'pingdemic'](https://www.bbc.co.uk/news/business-57885175) - The firms have had to shut shops and pubs due to staff shortages caused by people self-isolating.
 2. [Covid: Face mask rules relax but what do workers think?](https://www.bbc.co.uk/news/business-57862362) - It is no longer a legal requirement to wear a face covering in England, but some employees are nervous.
 3. [Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape](https://www.bbc.co.uk/news/business-57883892) - Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.
 4. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
