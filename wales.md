@@ -1,4 +1,4 @@
-1. [Covid in Wales: Calls to respect beauty spots as rules eased](https://www.bbc.co.uk/news/uk-wales-57870127) - Sun, 18 Jul 2021 20:54:36 GMT - Natural Resources Wales says, as sites get busier, people should respect the countryside.
+1. [Covid in Wales: Calls to respect beauty spots as rules eased](https://www.bbc.co.uk/news/uk-wales-57870127) - Mon, 19 Jul 2021 05:16:16 GMT - Natural Resources Wales says, as sites get busier, people should respect the countryside.
 2. [Disabled access at Wales' tourist hotpots 'limit freedom'](https://www.bbc.co.uk/news/uk-wales-57866764) - Sun, 18 Jul 2021 20:54:23 GMT - Some places are seen as no go areas for wheelchair users and people with mobility issues, campaigners say.
 3. [Defibrillator calls after Barry cricketer dies](https://www.bbc.co.uk/news/uk-wales-57880399) - Sun, 18 Jul 2021 15:37:54 GMT - Father-of-three Maqsood Anwar, 44, was playing cricket when he collapsed.
 4. [Football cap from 1905 returns to Wales from Australia](https://www.bbc.co.uk/news/uk-wales-57863668) - Sun, 18 Jul 2021 18:58:32 GMT - Walter Watkins' cap for his seventh appearance for Wales has been down under for decades.
