@@ -1,5 +1,5 @@
 1. [Covid: Two jabs needed to enter nightclubs from September](https://www.bbc.co.uk/news/business-57893788) - People will need to be fully vaccinated to enter venues where large crowds gather, the government says.
-2. [Plans to crack down on online rip-offs unveiled](https://www.bbc.co.uk/news/business-57887035) - The government promises law changes to stop people being exploited by businesses online.
+2. [Writing fake reviews could be made illegal, says government](https://www.bbc.co.uk/news/business-57887035) - The government is proposing law changes to stop people being exploited by businesses online.
 3. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
 4. [Global shares slide amid Covid economic recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stock markets in the UK, the US and Europe fall on concerns that rising cases may impede a recovery.
 5. [Zoom bets billions on home working continuing in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
