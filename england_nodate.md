@@ -10,8 +10,8 @@
 10. [Mia Wort: Family pay tribute to Bursledon crash victim](https://www.bbc.co.uk/news/uk-england-hampshire-57892620) - Mother Mia Wort, 18, died in hospital following a head-on crash on the A27 in Hampshire.
 11. [Bridgnorth toddler starts treatment after bone marrow donor match](https://www.bbc.co.uk/news/uk-england-shropshire-57873586) - A match for one-year-old Gunner, from Bridgnorth, is tracked down in Germany after a global search.
 12. [Bridlington 'cautiously' welcomes lockdown lifting](https://www.bbc.co.uk/news/uk-england-humber-57893185) - People visiting and working in Bridlington give their views on the lifting of England's lockdown restrictions.
-13. [Covid: Businesses reflect on 2021 as restrictions ease](https://www.bbc.co.uk/news/uk-england-tyne-57850394) - A number of bosses tell the BBC what it was like to operate this year during the pandemic.
-14. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
+13. [England nightclubs reopen: Cheers and celebrations as clubbers return for first night out](https://www.bbc.co.uk/news/uk-57869258) - For some revellers in Leeds, this was the first time they'd ever been to a nightclub.
+14. [Clinically vulnerable woman urges people to be careful](https://www.bbc.co.uk/news/uk-england-leeds-57896787) - Jacqui Drake is clinically vulnerable and urges people to be careful as restrictions end.
 15. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
 16. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
 17. [Knife crime: Mum tells teenagers about her son’s murder](https://www.bbc.co.uk/news/uk-england-london-57863749) - Jean Foster has been talking to young people about the consequences of carrying a knife.
