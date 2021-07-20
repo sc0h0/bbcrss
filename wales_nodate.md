@@ -1,9 +1,9 @@
-1. [Mayhill: Claim authorities 'knew of stolen car danger before riot'](https://www.bbc.co.uk/news/uk-wales-57895356) - Local resident says he warned that stolen cars were being freewheeled down hill months before riot.
-2. [Covid in Wales: NHS pay petition gathers almost 800,000 names](https://www.bbc.co.uk/news/uk-wales-57899287) - Staff hailed as "heroes" during the pandemic deserve to be rewarded, says nurse who set up petition.
-3. [Covid in Wales: Three deaths registered in latest week](https://www.bbc.co.uk/news/uk-wales-57900599) - Deaths from all causes were 15% above normal levels but those involving Covid remained the same.
-4. [Farming in Wales: Deaths on farms more than double in a year](https://www.bbc.co.uk/news/uk-wales-57895357) - The Health and Safety Executive says its recent report was 'disappointing' and 'unacceptable'.
-5. [Cardiff: Part of Bute Park closed after report of assault](https://www.bbc.co.uk/news/uk-wales-57900310) - A person has been taken to hospital following reports of an assault in the early hours.
-6. [UK to bake in 33C amid extreme heat warning](https://www.bbc.co.uk/news/uk-57898718) - Parts of Wales and southern and central England could be hotter than Tenerife and Marbella later.
+1. [Hot weather: Welsh outlets shut due to 'unbearable' temperatures](https://www.bbc.co.uk/news/uk-wales-57899296) - A seaside resort restaurant and a village pub temporarily close in the extreme heat warning.
+2. [Cardiff: Bute Park attack leaves man with life-threatening injuries](https://www.bbc.co.uk/news/uk-wales-57900310) - "To subject another person to violence in this way is intolerable," says senior police officer.
+3. [Mayhill: Claim authorities 'knew of stolen car danger before riot'](https://www.bbc.co.uk/news/uk-wales-57895356) - Local resident says he warned that stolen cars were being freewheeled down hill months before riot.
+4. [Covid in Wales: NHS pay petition gathers almost 800,000 names](https://www.bbc.co.uk/news/uk-wales-57899287) - Staff hailed as "heroes" during the pandemic deserve to be rewarded, says nurse who set up petition.
+5. [Covid in Wales: Three deaths registered in latest week](https://www.bbc.co.uk/news/uk-wales-57900599) - Deaths from all causes were 15% above normal levels but those involving Covid remained the same.
+6. [Farming in Wales: Deaths on farms more than double in a year](https://www.bbc.co.uk/news/uk-wales-57895357) - The Health and Safety Executive says its recent report was 'disappointing' and 'unacceptable'.
 7. [Home Office advised against Queen opening Welsh Assembly](https://www.bbc.co.uk/news/uk-wales-politics-57889463) - An official said in 1997 it would not be appropriate for the monarch to open Wales' new institution.
 8. [Duke of Cambridge meets Welsh boxer Lauren Price](https://www.bbc.co.uk/sport/av/olympics/57876234) - The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.
 9. [Covid: Will different Wales mask rules confuse tourists?](https://www.bbc.co.uk/news/uk-wales-57894111) - As the sun beams down and tourists flock to Welsh resorts, are people ready for differing rules?

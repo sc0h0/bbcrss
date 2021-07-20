@@ -1,5 +1,5 @@
 1. [Covid-19: Top scientist says 18% of adults still unvaccinated](https://www.bbc.co.uk/news/uk-northern-ireland-57895246) - Prof Ian Young says he is worried about the rise in cases and hospital admissions in Northern Ireland.
-2. [Scarva: Teenager dies after entering lake in County Down village](https://www.bbc.co.uk/news/uk-northern-ireland-57896019) - The incident happened in the village of Scarva at about 15:30 on Monday afternoon.
+2. [Scarva: Jay Moffett named as boy who died at County Down lake](https://www.bbc.co.uk/news/uk-northern-ireland-57904812) - The 13-year-old died after entering the lake in Scarva, County Down, on Monday afternoon.
 3. [NI Assembly debates Troubles legacy proposals](https://www.bbc.co.uk/news/uk-northern-ireland-57892882) - The assembly recall follows UK government plans to end prosecutions for Troubles-related offences.
 4. [Belfast boxer to carry Irish flag at Olympics](https://www.bbc.co.uk/sport/olympics/57898847) - Belfast boxer Brendan Irvine and team-mate Kellie Harrington will carry the Irish flag at the Tokyo Olympics opening ceremony on Friday.
 5. [Croke Park: Eid celebrated by 500 Muslims at GAA HQ](https://www.bbc.co.uk/news/world-europe-57901923) - It is the biggest gathering of Muslims in Ireland since the start of the Covid-19 pandemic.

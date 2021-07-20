@@ -1,4 +1,4 @@
-1. [Covid: Food industry calls for isolation rules exemption](https://www.bbc.co.uk/news/business-57901500) - Several industries are lobbying the government for their staff to be classed as critical workers.
+1. [Firms must apply for isolation exemption for 'pinged' staff](https://www.bbc.co.uk/news/business-57901500) - The government says exemptions will be "considered on a case by case basis".
 2. [Women's state pension: Compensation closer for Waspi campaigners](https://www.bbc.co.uk/news/business-57900320) - The government was too slow to tell women they would be directly affected by the rising state pension age.
 3. [HMV backs High Street with plans for 10 new stores](https://www.bbc.co.uk/news/business-57899065) - The music chain's owner says people love shopping and want to touch goods before buying.
 4. [Prospect of Morrisons bidding war recedes](https://www.bbc.co.uk/news/business-57899237) - US investment firm Apollo, which was considering making an offer, has now changed its mind.
