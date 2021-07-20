@@ -3,7 +3,7 @@
 3. [Pedro Castillo declared president-elect of Peru](https://www.bbc.co.uk/news/world-latin-america-57897402) - The leftist candidate won the popular vote but had been accused of fraud by rival Keiko Fujimori.
 4. [Jeff Bezos to blast into space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - Billionaire Jeff Bezos will launch into space in the first crewed flight of his rocket ship.
 5. [Twitter suspends Marjorie Taylor Greene over 'misleadling' Covid posts](https://www.bbc.co.uk/news/world-us-canada-57897401) - Georgia Republican Marjorie Taylor Greene has been a vocal critic of vaccines and the use of masks.
-6. [Killing of boy, 13, at school shocks Singapore](https://www.bbc.co.uk/news/world-asia-57897762) - Police officers found the body of a 13-year-old in a school bathroom, and an axe has been seized.
+6. [Singapore shocked by killing of boy, 13, at school](https://www.bbc.co.uk/news/world-asia-57897762) - A 16-year-old student is charged with murder after a body is found in a bathroom and an axe seized.
 7. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
 8. [Iraq attack: Bombing at Baghdad market kills Eid shoppers](https://www.bbc.co.uk/news/world-middle-east-57895957) - At least 25 people are killed in an attack on a busy market in Iraq's capital, security sources say.
 9. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.

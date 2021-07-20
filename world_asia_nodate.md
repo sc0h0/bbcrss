@@ -1,6 +1,6 @@
-1. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
+1. [Microsoft: Chinese authorities slam 'groundless' hacking claims](https://www.bbc.co.uk/news/world-asia-china-57898147) - A group of Western countries had accused China of carrying out a major cyber-attack on the tech giant.
 2. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia, the US, the UK and Europe fall on concerns that rising cases may slow a recovery.
-3. [Singapore murder: Schoolboy charged over death of student](https://www.bbc.co.uk/news/world-asia-57897762) - Police officers found the body of a 13-year-old in a school bathroom, and an axe has been seized.
+3. [Singapore shocked by killing of boy, 13, at school](https://www.bbc.co.uk/news/world-asia-57897762) - A 16-year-old student is charged with murder after a body is found in a bathroom and an axe seized.
 4. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
 5. [Tokyo Olympics: Composer Keigo Oyamada resigns over bullying at school](https://www.bbc.co.uk/news/world-asia-57891364) - Keigo Oyamada resigned after it came out that he bullied disabled classmates and boasted about it.
 6. [Kris Wu: Brands drop China star over teen sex allegations](https://www.bbc.co.uk/news/world-asia-china-57884438) - Singer-actor Kris Wu has denied the accusations and said he was filing a defamation suit.

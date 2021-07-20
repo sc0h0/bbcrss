@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 06:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 06:36:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,11 @@
             <pubDate>Tue, 20 Jul 2021 05:24:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[National Archive: Tony Blair did not approve Irish Famine statement, files show]]></title>
-            <description><![CDATA[Files show the former PM's private secretary wrote the message and could not reach him for approval.]]></description>
+            <title><![CDATA[Tony Blair's Irish Famine message not signed off by him, archive papers show]]></title>
+            <description><![CDATA[Files show the former PM's private secretary wrote the statement but could not reach him for approval.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57894210</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894210</guid>
-            <pubDate>Tue, 20 Jul 2021 05:38:28 GMT</pubDate>
+            <pubDate>Tue, 20 Jul 2021 06:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI Assembly to debate Troubles legacy proposals]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57892882</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57892882</guid>
             <pubDate>Tue, 20 Jul 2021 05:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Group meets over Northern Ireland dental services]]></title>
+            <description><![CDATA[Many NI dentists are considering pulling out of providing NHS dental care, it has been warned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57869603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57869603</guid>
+            <pubDate>Tue, 20 Jul 2021 06:15:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Some NI children over 12 to be offered vaccine]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Mon, 19 Jul 2021 16:52:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[River Blackwater: Silt blockage 'damaging fishermen and tourism']]></title>
-            <description><![CDATA[A build up of silt has blocked a section of the River Blackwater near Lough Neagh for 15 years.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57841201</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57841201</guid>
-            <pubDate>Mon, 19 Jul 2021 17:09:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coronavirus: Ireland eases international travel restrictions]]></title>
             <description><![CDATA[People who have "valid proof" of full vaccination no longer have to self-isolate on arrival.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57886435</link>
@@ -135,6 +135,13 @@
             <pubDate>Fri, 16 Jul 2021 05:36:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[River Blackwater: Silt blockage 'damaging fishermen and tourism']]></title>
+            <description><![CDATA[A build up of silt has blocked a section of the River Blackwater near Lough Neagh for 15 years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57841201</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57841201</guid>
+            <pubDate>Mon, 19 Jul 2021 17:09:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ann Murray, the illegal poteen distiller who lived in a cave]]></title>
             <description><![CDATA[Ann Murray spent 50 years living and producing her own alcohol in County Antrim's Red Bay Caves.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57852184</link>
@@ -163,18 +170,11 @@
             <pubDate>Sat, 17 Jul 2021 16:28:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Egyptian vulture spotted in Ireland for the first time]]></title>
-            <description><![CDATA[The endangered Egyptian vulture paid a flying visit to the village of Dunfanaghy in County Donegal.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57860608</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57860608</guid>
-            <pubDate>Sat, 17 Jul 2021 05:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eleventh Night: What is the law on bonfires in Northern Ireland?]]></title>
-            <description><![CDATA[Some politicians are calling for new regulations, while others want existing rules enforced.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57837232</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57837232</guid>
-            <pubDate>Sun, 18 Jul 2021 06:07:00 GMT</pubDate>
+            <title><![CDATA[Dentists in Northern Ireland 'considering pulling NHS services']]></title>
+            <description><![CDATA[Dentists say they are considering pulling NHS services because of the effect of Covid-19 restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57889605</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57889605</guid>
+            <pubDate>Tue, 20 Jul 2021 06:32:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[River Blackwater: 'We last got through safely in 2006']]></title>
@@ -196,13 +196,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57892139</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57892139</guid>
             <pubDate>Mon, 19 Jul 2021 13:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Our semi-final victory is for Brendan Og']]></title>
-            <description><![CDATA[Monaghan captain Ryan Wylie says the Ulster semi-final win over Armagh was for Brendan Og Duffy, the U20 captain who died in a car accident on Friday night.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/gaelic-games/57876543</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/gaelic-games/57876543</guid>
-            <pubDate>Sat, 17 Jul 2021 18:50:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[All-Ireland MFC: Derry’s future ‘looks bright’ after Tullamore triumph]]></title>
