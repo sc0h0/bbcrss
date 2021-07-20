@@ -5,7 +5,7 @@
 5. [Tony Blair's Irish Famine message not signed off by him, archive papers show](https://www.bbc.co.uk/news/uk-57894210) - Files show the former PM's private secretary wrote the statement but could not reach him for approval.
 6. [Covid: Isolation rules loosened for critical workers](https://www.bbc.co.uk/news/uk-57894392) - People performing "critical" tasks including air traffic controllers will still be able to work under new rules.
 7. [China says Microsoft hacking accusations fabricated by US and allies](https://www.bbc.co.uk/news/world-asia-china-57898147) - China calls accusations from Western countries including the US and UK "groundless and irresponsible".
-8. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
+8. [Women's state pension: Compensation closer for Waspi campaigners](https://www.bbc.co.uk/news/business-57900320) - The government was too slow to tell women they would be directly affected by the rising state pension age.
 9. [Jeff Bezos to blast into space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - Billionaire Jeff Bezos will launch into space in the first crewed flight of his rocket ship.
 10. [Ben & Jerry's to stop sales in occupied West Bank](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker says it is “inconsistent with our values” to sell products in the region.
 11. [Plans to modernise power of attorney system](https://www.bbc.co.uk/news/uk-57897609) - People can put someone in charge of their affairs but the process is criticised for being slow to enact.
