@@ -1,7 +1,7 @@
 1. [Covid: Will lockdown change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
 2. [Jeff Bezos to blast into space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - Billionaire Jeff Bezos will launch into space in the first crewed flight of his rocket ship.
 3. [Council algorithms mass profile millions, campaigners say](https://www.bbc.co.uk/news/uk-57869647) - Most of the software is "secret, unevidenced, invasive and likely discriminatory", Big Brother Watch says.
-4. [Microsoft: Chinese authorities slam 'groundless' hacking claims](https://www.bbc.co.uk/news/world-asia-china-57898147) - A group of Western countries had accused China of carrying out a major cyber-attack on the tech giant.
+4. [China says Microsoft hacking accusations fabricated by US and allies](https://www.bbc.co.uk/news/world-asia-china-57898147) - China calls accusations from Western countries including the US and UK "groundless and irresponsible".
 5. [Twitter suspends Marjorie Taylor Greene over 'misleading' Covid posts](https://www.bbc.co.uk/news/world-us-canada-57897401) - Georgia Republican Marjorie Taylor Greene has been a vocal critic of vaccines and the use of masks.
 6. [Bitcoin mining machines steamrolled by Malaysia police](https://www.bbc.co.uk/news/business-57897444) - Officers had seized more than 1,000 Bitcoin mining units allegedly powered by stolen electricity.
 7. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
