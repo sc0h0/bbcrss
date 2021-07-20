@@ -8,7 +8,7 @@
 8. [Microsoft: Chinese authorities slam 'groundless' hacking claims](https://www.bbc.co.uk/news/world-asia-china-57898147) - A group of Western countries had accused China of carrying out a major cyber-attack on the tech giant.
 9. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
 10. [Jeff Bezos to blast into space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - Billionaire Jeff Bezos will launch into space in the first crewed flight of his rocket ship.
-11. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
+11. [Ben & Jerry's to stop sales in occupied West Bank](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker says it is “inconsistent with our values” to sell products in the region.
 12. [The Papers: 'Free cheers' and the 'price of freedom'](https://www.bbc.co.uk/news/blogs-the-papers-57896797) - As nightclubs reopen, the papers react to the news that vaccine passports will be required from autumn.
 13. [Covid: Vaccine passport plan for nightclubs 'concerning'](https://www.bbc.co.uk/news/uk-england-manchester-57890847) - Manchester's night-time economy advisor brands the government's certification plan "discriminatory".
 14. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.

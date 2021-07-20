@@ -4,7 +4,7 @@
 4. [David Cameron lacked judgement over Greensill, MPs' report says](https://www.bbc.co.uk/news/business-57889549) - David Cameron showed a lack of judgement when he informally lobbied on behalf of Greensill Capital, MPs say.
 5. [Covid: Two jabs needed to enter nightclubs from September](https://www.bbc.co.uk/news/business-57893788) - People will need to be fully vaccinated to enter venues where large crowds gather, the government says.
 6. [Covid: Isolation rules loosened for critical workers](https://www.bbc.co.uk/news/uk-57894392) - People performing "critical" tasks including air traffic controllers will still be able to work under new rules.
-7. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
+7. [Ben & Jerry's to stop sales in occupied West Bank](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker says it is “inconsistent with our values” to sell products in the region.
 8. [Zoom bets billions on home working continuing in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
 9. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
 10. [Northern's ticket machines hit by ransomware cyber attack](https://www.bbc.co.uk/news/uk-england-57892711) - Northern rail's new self-service machines were installed at 420 stations two months ago.

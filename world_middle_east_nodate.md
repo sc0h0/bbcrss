@@ -1,6 +1,6 @@
 1. [Iraq attack: Bombing at Baghdad market kills Eid shoppers](https://www.bbc.co.uk/news/world-middle-east-57895957) - At least 30 people are killed in an attack on a busy market in Iraq's capital, security sources say.
-2. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
-3. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
+2. [Ben & Jerry's to stop sales in occupied West Bank](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker says it is “inconsistent with our values” to sell products in the region.
+3. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
 4. [Esraa Abdel Fattah: Egyptian activist released from prison](https://www.bbc.co.uk/news/world-middle-east-57882069) - Esraa Abdel Fattah earned the moniker "Facebook Girl" for her role in the 2011 revolution.
 5. [Oil producing nations agree deal to control prices](https://www.bbc.co.uk/news/business-57882449) - The Opec cartel and Russia will boost supply which should see petrol prices at the pumps come down.
 6. [In pictures: Masks and social distancing at downsized Hajj](https://www.bbc.co.uk/news/world-middle-east-57875572) - Only about 60,000 pilgrims living in Saudi Arabia were eligible to take part this year.

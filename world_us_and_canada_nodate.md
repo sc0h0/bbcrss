@@ -4,7 +4,7 @@
 4. [January 6: First Capitol rioter given prison sentence](https://www.bbc.co.uk/news/world-us-canada-57890937) - Paul Allard Hodgkins is the first of hundreds of Capitol rioters sentenced for a felony.
 5. [Jeff Bezos to blast into space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - Billionaire Jeff Bezos will launch into space in the first crewed flight of his rocket ship.
 6. [Canada to open border to fully vaccinated Americans in August](https://www.bbc.co.uk/news/world-us-canada-57896430) - The loosening of restrictions comes amid significant progress in the country's vaccine rates.
-7. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
+7. [Ben & Jerry's to stop sales in occupied West Bank](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker says it is “inconsistent with our values” to sell products in the region.
 8. [Britney Spears says she will not perform while father controls career](https://www.bbc.co.uk/news/entertainment-arts-57873410) - The singer says the arrangement controlling her personal and financial affairs has "killed my dreams".
 9. [Golfer Morikawa wins British Open on debut](https://www.bbc.co.uk/sport/golf/57882249) - Collin Morikawa shoots a scintillating bogey-free final round to win the 149th Open Championship by two shots from Jordan Spieth at Royal St George's.
 10. [Canada's vaccination rate overtakes US](https://www.bbc.co.uk/news/world-us-canada-57869947) - Canada had a slow start on vaccinations compared to its neighbour but has now caught up to the US.

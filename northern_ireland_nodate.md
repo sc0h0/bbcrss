@@ -4,7 +4,7 @@
 4. [NI Assembly to debate Troubles legacy proposals](https://www.bbc.co.uk/news/uk-northern-ireland-57892882) - The assembly recall follows government plans to end prosecutions for Troubles-related offences.
 5. [Jordanstown: Motorcyclist dies after Shore Road crash](https://www.bbc.co.uk/news/uk-northern-ireland-57899521) - No other vehicle was involved in the crash on the Shore Road on Monday night, police say.
 6. [Belfast boxer to carry Irish flag at Olympics](https://www.bbc.co.uk/sport/olympics/57898847) - Belfast boxer Brendan Irvine and team-mate Kellie Harrington will carry the Irish flag at the Tokyo Olympics opening ceremony on Friday.
-7. [Covid-19: Some NI children over 12 to be offered vaccine](https://www.bbc.co.uk/news/uk-northern-ireland-57883192) - Children with specific underlying health conditions can now receive the Pfizer/BioNtech vaccine.
+7. [Coronavirus: NI businesses losing trade during 'pingdemic'](https://www.bbc.co.uk/news/uk-northern-ireland-57899897) - Businesses call for changes to the StopCovidNI app as they lose trade due to self-isolation rules.
 8. [Coronavirus: Group meets over Northern Ireland dental services](https://www.bbc.co.uk/news/uk-northern-ireland-57869603) - Many NI dentists are considering pulling out of providing NHS dental care, it has been warned.
 9. [NI's new record temperature could be exceeded this week, says Met Office](https://www.bbc.co.uk/news/uk-northern-ireland-57886511) - After the thermometer hit 31.2C on Saturday, even more hot weather is due, says the Met Office.
 10. [NI water warns 'significant number' risk losing supply](https://www.bbc.co.uk/news/uk-northern-ireland-57894664) - Areas under greatest pressure include Cookstown, Magherafelt, Newry and Dungannon, NI Water says.
