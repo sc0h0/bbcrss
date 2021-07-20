@@ -4,9 +4,9 @@
 4. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - France will double the number of police patrolling beaches, as record numbers cross the Channel.
 5. [China floods: Thousands evacuated as rail stations and roads submerged](https://www.bbc.co.uk/news/world-asia-china-57861067) - Record rainfall has left more than 12 dead and flooded stations and roads in Zhengzhou city.
 6. [Covid: Officers told not to check green and amber arrivals, union says](https://www.bbc.co.uk/news/uk-57909022) - Passenger locator forms and mandatory tests will not be routinely reviewed in England, a union confirms.
-7. [Storms hit Essex and Cambridgeshire after hot spell](https://www.bbc.co.uk/news/uk-england-essex-57909228) - The Met Office has issued an amber warning for thunderstorms.
-8. [Pegasus: French President Macron identified as spyware target](https://www.bbc.co.uk/news/world-europe-57907258) - The president's phone number was found on a list of numbers that were potential phone hacking targets.
-9. [Violence against women: Top police role to be announced](https://www.bbc.co.uk/news/uk-57909118) - A new strategy for England and Wales comes amid concern about rape convictions and abuse in schools.
+7. [Pegasus: French President Macron identified as spyware target](https://www.bbc.co.uk/news/world-europe-57907258) - The president's phone number was found on a list of numbers that were potential phone hacking targets.
+8. [Violence against women: Top police role to be announced](https://www.bbc.co.uk/news/uk-57909118) - A new strategy for England and Wales comes amid concern about rape convictions and abuse in schools.
+9. [Storms hit Essex and Cambridgeshire after hot spell](https://www.bbc.co.uk/news/uk-england-essex-57909228) - The Met Office has issued an amber warning for thunderstorms.
 10. [UK clashes with EU over Gibraltar's post-Brexit status](https://www.bbc.co.uk/news/uk-politics-57908376) - Foreign Secretary Dominic Raab says a draft EU mandate undermines UK sovereignty over the territory.
 11. [Climate change: US pushes China to make faster carbon cuts](https://www.bbc.co.uk/news/science-environment-57904042) - US climate envoy John Kerry says help from China is needed to avoid a dangerous rise in heat.
 12. [Welsh bar and restaurant shut due to 'unbearable' heat](https://www.bbc.co.uk/news/uk-wales-57899296) - A seaside resort restaurant and a village pub temporarily close in the extreme heat warning.
