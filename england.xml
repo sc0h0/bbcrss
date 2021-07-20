@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 14:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 15:05:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,21 @@
             <description><![CDATA[Emergency services had been scouring the River Weaver near Frodsham in Cheshire since Monday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-57900068</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57900068</guid>
-            <pubDate>Tue, 20 Jul 2021 14:39:12 GMT</pubDate>
+            <pubDate>Tue, 20 Jul 2021 14:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diamonds swapped for pebbles in London gem heist]]></title>
+            <description><![CDATA[Gems worth £4.2 million were allegedly swapped for pebbles at a Mayfair jewellers, a court hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57906031</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57906031</guid>
+            <pubDate>Tue, 20 Jul 2021 14:12:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Support for councils facing rise in cases limited to five weeks]]></title>
+            <description><![CDATA[Extra support for councils across UK tackling rise in Covid-19 cases could be limited to five weeks.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57902834</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57902834</guid>
+            <pubDate>Tue, 20 Jul 2021 13:45:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Self-isolation 'crippling' Cleveland Police]]></title>
@@ -44,11 +58,11 @@
             <pubDate>Tue, 20 Jul 2021 12:02:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Royal Blackburn Hospital facing huge pressures]]></title>
-            <description><![CDATA[Royal Blackburn Hospital staff say they are feeling the pressure due to a rise in Covid cases.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57900021</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57900021</guid>
-            <pubDate>Tue, 20 Jul 2021 12:48:53 GMT</pubDate>
+            <title><![CDATA[Man stuck in M4 jam plays football on carriageway]]></title>
+            <description><![CDATA[There was a three-hour tailback on the M4 in Wiltshire after a lorry caught fire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57900658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57900658</guid>
+            <pubDate>Tue, 20 Jul 2021 09:48:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fleetwood sea death: Body of missing man found on beach]]></title>
@@ -56,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-57901973</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57901973</guid>
             <pubDate>Tue, 20 Jul 2021 11:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man stuck in M4 jam plays football on carriageway]]></title>
-            <description><![CDATA[There was a three-hour tailback on the M4 in Wiltshire after a lorry caught fire.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57900658</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57900658</guid>
-            <pubDate>Tue, 20 Jul 2021 09:48:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Record 430 migrants cross English Channel in single day]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57900063</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57900063</guid>
             <pubDate>Tue, 20 Jul 2021 10:48:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Six the Musical at Hull New Theatre cancelled]]></title>
-            <description><![CDATA[Hull New Theatre announces that its run of Six the Musical is off after a cast member got the virus.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-humber-57900778</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57900778</guid>
-            <pubDate>Tue, 20 Jul 2021 11:03:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paddleboarders rescue newborn calf from Somerset river]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Mon, 19 Jul 2021 09:34:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Royal Blackburn Hospital facing huge pressures]]></title>
+            <description><![CDATA[Royal Blackburn Hospital staff say they are feeling the pressure due to a rise in Covid cases.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57900021</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57900021</guid>
+            <pubDate>Tue, 20 Jul 2021 12:48:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Derbyshire lorry driver builds kestrel nest boxes in spare time]]></title>
             <description><![CDATA[Nature-loving lorry driver builds nest boxes for kestrels in his spare time.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-derbyshire-57824187</link>
@@ -163,13 +170,6 @@
             <pubDate>Fri, 16 Jul 2021 23:00:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Acrobatic rat climbs washing line for food]]></title>
-            <description><![CDATA[The tightrope-walking rodent was caught on camera trying to reach some bird feeders.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-57826515</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-57826515</guid>
-            <pubDate>Sun, 18 Jul 2021 09:07:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Manchester attack: Council backs 'Martyn's Law' rules for venues]]></title>
             <description><![CDATA[The law would require nightclubs and other public venues to introduce stricter security measures.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57887578</link>
@@ -196,6 +196,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57893076</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57893076</guid>
             <pubDate>Tue, 20 Jul 2021 08:46:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Six the Musical at Hull New Theatre cancelled]]></title>
+            <description><![CDATA[Hull New Theatre announces that its run of Six the Musical is off after a cast member got the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-57900778</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57900778</guid>
+            <pubDate>Tue, 20 Jul 2021 11:03:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Luton fight: Arrests made as five people taken to hospital]]></title>
@@ -268,18 +275,18 @@
             <pubDate>Tue, 20 Jul 2021 14:19:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Swindon Town takeover: Chairman Lee Power transfers shares as deal nears completion]]></title>
+            <description><![CDATA[Swindon Town chairman Lee Power transfers his shares in the League Two club as a takeover nears completion.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57903056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57903056</guid>
+            <pubDate>Tue, 20 Jul 2021 15:02:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England to face Tonga first in autumn internationals]]></title>
             <description><![CDATA[Tonga will be England's first opponents of the autumn internationals at Twickenham, with matches against Australia and South Africa to follow.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57881061</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57881061</guid>
             <pubDate>Tue, 20 Jul 2021 11:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Natasha Dowie: Reading striker 'needed' WSL return after five years abroad]]></title>
-            <description><![CDATA[Reading striker Natasha Dowie says she had "a need to come back" to the Women's Super League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57890340</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57890340</guid>
-            <pubDate>Tue, 20 Jul 2021 13:36:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
