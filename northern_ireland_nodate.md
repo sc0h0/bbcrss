@@ -1,4 +1,4 @@
-1. [Covid-19: Vaccination centres ending first doses on 31 July](https://www.bbc.co.uk/news/uk-northern-ireland-57895246) - Prof Ian Young says he is worried about the rise in cases and hospital admissions in Northern Ireland.
+1. [Covid-19: Top scientist says 18% of adults still unvaccinated](https://www.bbc.co.uk/news/uk-northern-ireland-57895246) - Prof Ian Young says he is worried about the rise in cases and hospital admissions in Northern Ireland.
 2. [Scarva: Teenager dies after entering lake in County Down village](https://www.bbc.co.uk/news/uk-northern-ireland-57896019) - The incident happened in the village of Scarva at about 15:30 on Monday afternoon.
 3. [NI Assembly to debate Troubles legacy proposals](https://www.bbc.co.uk/news/uk-northern-ireland-57892882) - The assembly recall follows government plans to end prosecutions for Troubles-related offences.
 4. [Jordanstown: Motorcyclist dies after Shore Road crash](https://www.bbc.co.uk/news/uk-northern-ireland-57899521) - No other vehicle was involved in the crash on the Shore Road on Monday night, police say.

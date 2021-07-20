@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 10:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 10:33:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Scotland's hot weather spikes water demand by 200 million litres a day]]></title>
+            <description><![CDATA[Hot weather, hosepipe use and increased tourist numbers are contributing to demand, Scottish Water says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57900538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57900538</guid>
+            <pubDate>Tue, 20 Jul 2021 10:19:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid in Scotland: Review after row over 1m rule on cross-border trains]]></title>
             <description><![CDATA[LNER told customers it would not enforce distancing rules when trains cross the Scottish border.]]></description>
@@ -30,6 +37,13 @@
             <pubDate>Mon, 19 Jul 2021 21:31:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cross-border City of Culture bid is launched]]></title>
+            <description><![CDATA[Five council areas in southern Scotland and northern England team up to seek the UK title in 2025.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57901216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57901216</guid>
+            <pubDate>Tue, 20 Jul 2021 10:04:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scotland's papers: Train guidelines row and vaccine rollout fears]]></title>
             <description><![CDATA[Social-distancing rules on cross-border trains and concerns over the number of vaccinated young people make the front pages.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57897134</link>
@@ -42,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57896099</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57896099</guid>
             <pubDate>Mon, 19 Jul 2021 19:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross-border City of Culture bid is launched]]></title>
-            <description><![CDATA[Five council areas in southern Scotland and northern England team up to seek the UK title in 2025.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57901216</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57901216</guid>
-            <pubDate>Tue, 20 Jul 2021 10:04:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NorthLink ferry diverted to help capsized catamaran crew]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57886203</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57886203</guid>
             <pubDate>Mon, 19 Jul 2021 09:43:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Vaccination plea from Borders' longest patient]]></title>
-            <description><![CDATA[Scott Drummond, who has been in hospital in the Borders for 181 days, urged people to get jabbed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57888409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57888409</guid>
-            <pubDate>Mon, 19 Jul 2021 10:41:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
