@@ -1,12 +1,12 @@
 1. [Covid-19: Crucial for pinged people to self-isolate - No 10](https://www.bbc.co.uk/news/uk-57902213) - Downing Street tries to clear up confusion after a minister says people can make an "informed decision".
 2. [Premier League player held over child sex allegations](https://www.bbc.co.uk/news/uk-england-57899127) - The Premier League player has since been bailed and suspended by his club while inquiries continue.
 3. [River Weaver: Body found in search for 16-year-old boy](https://www.bbc.co.uk/news/uk-england-merseyside-57900068) - Emergency services had been scouring the River Weaver near Frodsham in Cheshire since Monday.
-4. [Diamonds swapped for pebbles in London gem heist](https://www.bbc.co.uk/news/uk-england-london-57906031) - Gems worth £4.2 million were allegedly swapped for pebbles at a Mayfair jewellers, a court hears.
+4. [Diamonds swapped for pebbles in London gem heist](https://www.bbc.co.uk/news/uk-england-london-57906031) - Gems worth £4.2m were allegedly swapped for pebbles at a Mayfair jewellers, a court hears.
 5. [Covid: Support for councils facing rise in cases limited to five weeks](https://www.bbc.co.uk/news/uk-england-57902834) - Extra support for councils across UK tackling rise in Covid-19 cases could be limited to five weeks.
-6. [Covid: Self-isolation 'crippling' Cleveland Police](https://www.bbc.co.uk/news/uk-england-tees-57899923) - Cleveland Police is close to minimum levels of staff, the area's police federation chairman says.
+6. [Oldham murder: Man jailed for killing ex-wife over house sale](https://www.bbc.co.uk/news/uk-england-manchester-57904396) - Susan Booth was attacked with an axe after her husband was told the family home would be sold.
 7. [Man stuck in M4 jam plays football on carriageway](https://www.bbc.co.uk/news/uk-england-wiltshire-57900658) - There was a three-hour tailback on the M4 in Wiltshire after a lorry caught fire.
-8. [Fleetwood sea death: Body of missing man found on beach](https://www.bbc.co.uk/news/uk-england-lancashire-57901973) - The body was found about six hours after a man was seen entering the sea in Fleetwood.
-9. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Some 50 people, including women and young children, were seen landing on a Kent beach in a dinghy.
+8. [Covid: Self-isolation 'crippling' Cleveland Police](https://www.bbc.co.uk/news/uk-england-tees-57899923) - Cleveland Police is close to minimum levels of staff, the area's police federation chairman says.
+9. [Fleetwood sea death: Body of missing man found on beach](https://www.bbc.co.uk/news/uk-england-lancashire-57901973) - The body was found about six hours after a man was seen entering the sea in Fleetwood.
 10. [Daniel Hay: Ex-patient calls for under-review surgeon to be struck off](https://www.bbc.co.uk/news/uk-england-derbyshire-57900739) - Stephanie Blood says complications from a hysterectomy had long-lasting consequences.
 11. [Stockport couple stole £580k in solicitor timeshare scam](https://www.bbc.co.uk/news/uk-england-manchester-57900063) - Caroline Preston and Sean Thompson are jailed for conning vulnerable and elderly people.
 12. [Paddleboarders rescue newborn calf from Somerset river](https://www.bbc.co.uk/news/uk-england-somerset-57900708) - The bull has been named Splash and is back with his mother on dry land.

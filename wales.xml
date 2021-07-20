@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 15:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 15:31:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,11 @@
             <pubDate>Tue, 20 Jul 2021 13:52:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man admits manslaughter of David Jones in Holyhead]]></title>
-            <description><![CDATA[David Jones died in hospital after he was assaulted on Anglesey in November.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57899295</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57899295</guid>
-            <pubDate>Tue, 20 Jul 2021 14:50:50 GMT</pubDate>
+            <title><![CDATA[Cardiff man jumped from car after argument, inquest told]]></title>
+            <description><![CDATA[James Davies argued with his girlfriend before his death, a coroner's court hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57906114</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57906114</guid>
+            <pubDate>Tue, 20 Jul 2021 15:16:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mayhill: Claim authorities 'knew of stolen car danger before riot']]></title>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57895356</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57895356</guid>
             <pubDate>Tue, 20 Jul 2021 11:24:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man admits manslaughter of David Jones in Holyhead]]></title>
+            <description><![CDATA[David Jones died in hospital after he was assaulted on Anglesey in November.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57899295</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57899295</guid>
+            <pubDate>Tue, 20 Jul 2021 14:50:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Wales: Three deaths registered in latest week]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57894111</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57894111</guid>
             <pubDate>Mon, 19 Jul 2021 17:55:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: More cases but fewer deaths in third wave]]></title>
-            <description><![CDATA[Three more people die with coronavirus in Wales, bringing the total number of deaths to 5,589.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57896047</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57896047</guid>
-            <pubDate>Mon, 19 Jul 2021 22:06:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Barry cricket death: 'My friend was literally just dying there']]></title>
@@ -156,6 +156,13 @@
             <pubDate>Tue, 20 Jul 2021 13:39:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[South Africa v British and Irish Lions: All three Tests set for Cape Town]]></title>
+            <description><![CDATA[All three Tests between South Africa and the British and Irish Lions will now be staged in Cape Town because of the Covid-19 pandemic.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57905260</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57905260</guid>
+            <pubDate>Tue, 20 Jul 2021 15:22:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wayne Hennessey: Burnley sign Wales goalkeeper on two-year deal]]></title>
             <description><![CDATA[Burnley sign Wales goalkeeper Wayne Hennessey on a two-year contract after his Crystal Palace exit.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57902083</link>
@@ -170,13 +177,6 @@
             <pubDate>Tue, 20 Jul 2021 03:35:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dan Biggar: Grieving British and Irish Lions fly-half eyes Test start in South Africa]]></title>
-            <description><![CDATA[Dan Biggar targets an "emotional" first British and Irish Lions Test start against South Africa after the recent death of his mother.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57888359</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57888359</guid>
-            <pubDate>Mon, 19 Jul 2021 21:00:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Anafiadau difrifol wedi ymosodiad ym Mharc Bute, Caerdydd]]></title>
             <description><![CDATA[Mae dyn yn cael triniaeth am anafiadau difrifol iawn wedi'r ymosodiad yn oriau mân fore Mawrth.]]></description>
             <link>https://www.bbc.co.uk/newyddion/57899874</link>
@@ -184,18 +184,18 @@
             <pubDate>Tue, 20 Jul 2021 12:14:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nifer damweiniau fferm angheuol wedi dyblu y llynedd]]></title>
-            <description><![CDATA[Mae'r Gweithgor Iechyd a Diogelwch yn dweud fod y cynnydd yn "siomedig" ac "annerbyniol".]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57892734</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57892734</guid>
-            <pubDate>Tue, 20 Jul 2021 05:10:26 GMT</pubDate>
+            <title><![CDATA[Rhybudd oren cyntaf am wres eithafol i rannau o Gymru]]></title>
+            <description><![CDATA[Swyddfa Dywydd wedi cyhoeddi rhybudd am wres eithafol am y tro cyntaf yn y DU, a fydd yn effeithio ar Gymru.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57889724</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57889724</guid>
+            <pubDate>Tue, 20 Jul 2021 10:42:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Fyddai'n amhriodol i'r Frenhines agor y Cynulliad']]></title>
-            <description><![CDATA[Dogfennau'n datgelu cyngor yn 1997 na fyddai'n addas i'r Frenhines agor y sefydliad newydd.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57892732</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57892732</guid>
-            <pubDate>Tue, 20 Jul 2021 07:52:00 GMT</pubDate>
+            <title><![CDATA[Pryder am effaith 'ddinistriol' gwersylla gwyllt ar natur]]></title>
+            <description><![CDATA[Mae gwersylla gwyllt yn peryglu ecosystemau bregus Cymru, yn ôl yr Ymddiriedolaeth Genedlaethol.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57905016</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57905016</guid>
+            <pubDate>Tue, 20 Jul 2021 15:12:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Y sialens o bortreadu Grav ar y sgrîn]]></title>
