@@ -1,4 +1,4 @@
-1. [In pictures: Germany grapples with flood havoc](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
+1. [In pictures: Germany grapples with flood aftermath](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
 2. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
 3. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Some 50 people, including women and young children, were seen landing on a Kent beach in a dinghy.
 4. [UK PM 'resisted lockdown as only over-80s dying'](https://www.bbc.co.uk/news/uk-politics-57854811) - Boris Johnson also questioned whether the NHS would be overwhelmed, his former aide tells the BBC.
