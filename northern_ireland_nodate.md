@@ -2,7 +2,7 @@
 2. [Extreme heat: Amber weather warning issued for Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-57903564) - The amber warning for heat will be in place from Wednesday until the end of Friday.
 3. [Western Trust: Families reject care home abuse apology](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57899386) - The Western Trust issues an apology after a carer is convicted of four counts of ill-treating patients.
 4. [MLAs back motion to oppose Troubles legacy plans](https://www.bbc.co.uk/news/uk-northern-ireland-57892882) - The assembly was recalled to debate UK government proposals to end prosecutions for Troubles-related offences.
-5. [Horse-racing bosses condemn abattoir footage](https://www.bbc.co.uk/news/uk-57902663) - British and Irish authorities respond to allegations in a Panorama film about slaughtered racehorses.
+5. [Horse-racing bosses condemn abattoir practices](https://www.bbc.co.uk/news/uk-57902663) - British and Irish authorities respond to allegations in a Panorama film about slaughtered racehorses.
 6. [Jordanstown crash: Motorcyclist killed was Andrew Nesbitt](https://www.bbc.co.uk/news/uk-northern-ireland-57899521) - Andrew Nesbitt, from Carrickfergus, was killed in the crash on the Shore Road on Monday night.
 7. [Covid-19: One further death and 1,138 positive cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57905606) - There are currently 118 patients with Covid-19 in NI hospitals, six of whom are in intensive care.
 8. [Belfast boxer to carry Irish flag at Olympics](https://www.bbc.co.uk/sport/olympics/57898847) - Belfast boxer Brendan Irvine and team-mate Kellie Harrington will carry the Irish flag at the Tokyo Olympics opening ceremony on Friday.

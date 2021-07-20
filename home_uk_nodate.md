@@ -8,7 +8,7 @@
 8. [Vaccine proof plans considered for some sports events](https://www.bbc.co.uk/sport/57905459) - Fans may be required to show proof of full vaccination to attend sports venues with capacities of about 20,000 or more by the end of September.
 9. [Climate change: US pushes China to make faster carbon cuts](https://www.bbc.co.uk/news/science-environment-57904042) - US climate envoy John Kerry says help from China is needed to avoid a dangerous rise in heat.
 10. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - France will double the number of police patrolling beaches, as record numbers cross the Channel.
-11. [Horse-racing bosses condemn abattoir footage](https://www.bbc.co.uk/news/uk-57902663) - British and Irish authorities respond to allegations in a Panorama film about slaughtered racehorses.
+11. [Horse-racing bosses condemn abattoir practices](https://www.bbc.co.uk/news/uk-57902663) - British and Irish authorities respond to allegations in a Panorama film about slaughtered racehorses.
 12. [Welsh bar and restaurant shut due to 'unbearable' heat](https://www.bbc.co.uk/news/uk-wales-57899296) - A seaside resort restaurant and a village pub temporarily close in the extreme heat warning.
 13. [Keep your router out of the sun, Virgin Media warns](https://www.bbc.co.uk/news/technology-57901108) - The company is alerting customers to the risk of overheating.
 14. [Ballywatticock's moment in the sun](https://www.bbc.co.uk/news/uk-northern-ireland-politics-57909358) - On Saturday, Northern Ireland hit record-breaking heights as thermometers soared above 30C.
