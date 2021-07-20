@@ -1,5 +1,5 @@
 1. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
-2. [Keep your router out of the Sun, Virgin Media warns](https://www.bbc.co.uk/news/technology-57901108) - The company is alerting customers to the risk of overheating.
+2. [Keep your router out of the sun, Virgin Media warns](https://www.bbc.co.uk/news/technology-57901108) - The company is alerting customers to the risk of overheating.
 3. [Biden rows back on Facebook 'killing people' comment](https://www.bbc.co.uk/news/technology-57901710) - The US president says he was referring to a dozen people spreading misinformation on the platform.
 4. [Northern's ticket machines hit by ransomware cyber attack](https://www.bbc.co.uk/news/uk-england-57892711) - Northern rail's new self-service machines were installed at 420 stations two months ago.
 5. [Apple delays return to office as Covid cases rise](https://www.bbc.co.uk/news/technology-57891289) - A three-day-a-week return to the office is reportedly postponed until October.
