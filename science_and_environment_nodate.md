@@ -19,7 +19,7 @@
 19. [Blue Origin: Teenager to fly into space with Jeff Bezos](https://www.bbc.co.uk/news/world-us-canada-57855650) - Oliver Daemen, 18, will become the youngest person to fly to space with the Blue Origin venture.
 20. [Virgin Galactic: Richard Branson's long, winding path to space](https://www.bbc.co.uk/news/science-environment-57798167) - The BBC tracks the long, winding road to Sir Richard Branson's flight to the edge of space.
 21. [Virgin Galactic: Sir Richard Branson rockets to the edge of space](https://www.bbc.co.uk/news/science-environment-57797297) - The UK businessman realises a lifetime's ambition by riding a rocket plane high into the sky.
-22. [Blue Origin flight: Wally Funk, 82, to join Jeff Bezos space flight](https://www.bbc.co.uk/news/world-us-canada-57686654) - The historic journey will see her become the oldest person to ever fly to space.
+22. [Wally Funk: The 82-year-old on Jeff Bezos's Blue Origin flight](https://www.bbc.co.uk/news/world-us-canada-57686654) - Wally Funk was overlooked for space flight in the 60s but got a second chance with Jeff Bezos.
 23. [Benjamin Jesty: The unsung hero of vaccination](https://www.bbc.co.uk/news/uk-england-dorset-57460445) - Edward Jenner is credited with inventing the vaccine but his method was pioneered by a Dorset farmer.
 24. [Climate crisis rallies young people](https://www.bbc.co.uk/news/science-environment-57827178) - Thousands of young people are joining a mission to help solve the environmental crisis facing their generation.
 25. [Covid origins: Scientists weigh up evidence over virus's origins](https://www.bbc.co.uk/news/science-environment-57782955) - Researchers aim to "set the record straight" on how the virus transferred from bats into humans.

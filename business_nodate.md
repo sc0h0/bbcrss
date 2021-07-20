@@ -1,4 +1,4 @@
-1. [Firms must apply for isolation exemption for 'pinged' staff](https://www.bbc.co.uk/news/business-57901500) - Exemptions will be "considered on a case-by-case basis", but firms warn time is not on their side.
+1. [Backlash as 'pinged' staff rules called unworkable](https://www.bbc.co.uk/news/business-57901500) - Exemptions will be "considered on a case-by-case basis", but firms warn time is not on their side.
 2. [Women's state pension: Compensation closer for Waspi campaigners](https://www.bbc.co.uk/news/business-57900320) - The government was too slow to tell women they would be directly affected by the rising state pension age.
 3. [Travel firms lose court bid on traffic light list](https://www.bbc.co.uk/news/business-57903979) - Decisions taken by the government on the traffic light travel list were not unlawful, judges rule.
 4. [Nike trainer output at key factory hit by Covid outbreak](https://www.bbc.co.uk/news/business-57902093) - Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.
