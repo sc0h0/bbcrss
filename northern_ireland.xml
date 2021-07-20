@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 11:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 11:26:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Tue, 20 Jul 2021 11:06:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jordanstown: Motorcyclist dies after Shore Road crash]]></title>
-            <description><![CDATA[No other vehicle was involved in the crash on the Shore Road on Monday night, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57899521</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57899521</guid>
-            <pubDate>Tue, 20 Jul 2021 07:52:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Belfast boxer to carry Irish flag at Olympics]]></title>
             <description><![CDATA[Belfast boxer Brendan Irvine and team-mate Kellie Harrington will carry the Irish flag at the Tokyo Olympics opening ceremony on Friday.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57898847</link>
@@ -51,11 +44,25 @@
             <pubDate>Tue, 20 Jul 2021 06:40:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Croke Park: Eid celebrated by 500 Muslims at GAA HQ]]></title>
+            <description><![CDATA[It is the biggest gathering of Muslims in Ireland since the start of the Covid-19 pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57901923</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57901923</guid>
+            <pubDate>Tue, 20 Jul 2021 11:14:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus: NI businesses hit by app 'pingdemic']]></title>
             <description><![CDATA[Businesses call for changes to the StopCovidNI app as they lose trade due to self-isolation rules.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57899897</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57899897</guid>
             <pubDate>Tue, 20 Jul 2021 10:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jordanstown: Motorcyclist dies after Shore Road crash]]></title>
+            <description><![CDATA[No other vehicle was involved in the crash on the Shore Road on Monday night, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57899521</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57899521</guid>
+            <pubDate>Tue, 20 Jul 2021 07:52:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tony Blair's Irish Famine message not signed off by him, archive papers show]]></title>
@@ -84,27 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57894664</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57894664</guid>
             <pubDate>Mon, 19 Jul 2021 19:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['It's golf with guns' - Kirsty Hegarty's Tokyo journey ]]></title>
-            <description><![CDATA[Trap shooter Kirsty Hegarty tells BBC Sport NI all about trap shooting and a surprising addition to her Team GB kit which got her rather excited.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57865476</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57865476</guid>
-            <pubDate>Tue, 20 Jul 2021 06:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI heatwave: Police run out of parking tickets at Ballintoy Harbour]]></title>
-            <description><![CDATA[As temperatures soared on Sunday, police issued 30 fixed penalty notices for parking offences.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57885076</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57885076</guid>
-            <pubDate>Mon, 19 Jul 2021 15:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ulster SFC final: Croke Park to stage Monaghan v Tyrone decider]]></title>
-            <description><![CDATA[Croke Park is confirmed as the venue for the Ulster Senior Football Championship final between Monaghan and Tyrone.]]></description>
-            <link>https://www.bbc.co.uk/sport/gaelic-games/57892038</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/gaelic-games/57892038</guid>
-            <pubDate>Mon, 19 Jul 2021 17:20:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: One further death and 1,776 positive cases in NI]]></title>
@@ -140,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57857496</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57857496</guid>
             <pubDate>Fri, 16 Jul 2021 05:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It's golf with guns' - Kirsty Hegarty's Tokyo journey ]]></title>
+            <description><![CDATA[Trap shooter Kirsty Hegarty tells BBC Sport NI all about trap shooting and a surprising addition to her Team GB kit which got her rather excited.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57865476</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57865476</guid>
+            <pubDate>Tue, 20 Jul 2021 06:11:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[River Blackwater: Silt blockage 'damaging fishermen and tourism']]></title>

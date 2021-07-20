@@ -1,4 +1,4 @@
-1. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Around 50 people were seen landing on a beach in Kent in a single dinghy.
+1. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Around 50 people, including women and young children, were seen landing on a Kent beach in a single dinghy.
 2. [European Beach Handball Championships: Norway hit with 1,500 euros bikini fine](https://www.bbc.co.uk/sport/handball/57890430) - Norway are fined 1,500 euros (£1,295) for wearing shorts instead of bikini bottoms at the European Beach Handball Championships.
 3. [UK PM 'resisted lockdown as only over-80s dying'](https://www.bbc.co.uk/news/uk-politics-57854811) - Boris Johnson also questioned whether the NHS would be overwhelmed, his former aide tells the BBC.
 4. [Tokyo Olympics: Poland send six swimmers home after selecting too many by mistake](https://www.bbc.co.uk/sport/olympics/57898489) - Poland send six swimmers home from the Tokyo Olympics after selecting too many by mistake.
