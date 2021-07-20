@@ -5,8 +5,8 @@
 5. [Women's state pension: Compensation closer for Waspi campaigners](https://www.bbc.co.uk/news/business-57900320) - The government was too slow to tell women they would be directly affected by the rising state pension age.
 6. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers appeared frightened and unsure what to do when they heard multiple explosions.
 7. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Some 50 people, including women and young children, were seen landing on a Kent beach in a dinghy.
-8. [Premier League footballer held over child sex allegations](https://www.bbc.co.uk/news/uk-england-57899127) - The Premier League player has since been bailed and suspended by his club while inquiries continue.
-9. [Covid: Boris Johnson resisted autumn lockdown as only over-80s dying - Dominic Cummings](https://www.bbc.co.uk/news/uk-politics-57854811) - Boris Johnson also questioned whether the NHS would be overwhelmed, his former aide tells the BBC.
+8. [Nike halts footwear production due to Covid outbreak](https://www.bbc.co.uk/news/business-57902093) - Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.
+9. [Premier League footballer held over child sex allegations](https://www.bbc.co.uk/news/uk-england-57899127) - The Premier League player has since been bailed and suspended by his club while inquiries continue.
 10. [HMV backs High Street with plans for 10 new stores](https://www.bbc.co.uk/news/business-57899065) - The music chain's owner says people love shopping and want to touch goods before buying.
 11. [Man stuck in M4 jam plays football on carriageway](https://www.bbc.co.uk/news/uk-england-wiltshire-57900658) - There was a three-hour tailback on the M4 in Wiltshire after a lorry caught fire.
 12. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.

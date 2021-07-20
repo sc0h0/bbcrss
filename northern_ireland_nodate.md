@@ -1,7 +1,7 @@
 1. [Extreme heat: Amber weather warning issued for Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-57903564) - The amber warning for heat will be in place from Wednesday until the end of Friday.
 2. [Scarva: Jay Moffett named as boy who died at County Down lake](https://www.bbc.co.uk/news/uk-northern-ireland-57904812) - The 13-year-old died after entering the lake in Scarva, County Down, on Monday afternoon.
-3. [Covid-19: Top scientist says 18% of adults still unvaccinated](https://www.bbc.co.uk/news/uk-northern-ireland-57895246) - Prof Ian Young says he is worried about the rise in cases and hospital admissions in Northern Ireland.
-4. [NI Assembly debates Troubles legacy proposals](https://www.bbc.co.uk/news/uk-northern-ireland-57892882) - The assembly recall follows UK government plans to end prosecutions for Troubles-related offences.
+3. [MLAs back motion to oppose Troubles legacy plans](https://www.bbc.co.uk/news/uk-northern-ireland-57892882) - The assembly was recalled to debate UK government proposals to end prosecutions for Troubles-related offences.
+4. [Covid-19: Top scientist says 18% of adults still unvaccinated](https://www.bbc.co.uk/news/uk-northern-ireland-57895246) - Prof Ian Young says he is worried about the rise in cases and hospital admissions in Northern Ireland.
 5. [Belfast boxer to carry Irish flag at Olympics](https://www.bbc.co.uk/sport/olympics/57898847) - Belfast boxer Brendan Irvine and team-mate Kellie Harrington will carry the Irish flag at the Tokyo Olympics opening ceremony on Friday.
 6. [Croke Park: Eid celebrated by 500 Muslims at GAA HQ](https://www.bbc.co.uk/news/world-europe-57901923) - It is the biggest gathering of Muslims in Ireland since the start of the Covid-19 pandemic.
 7. [Coronavirus: NI businesses hit by app 'pingdemic'](https://www.bbc.co.uk/news/uk-northern-ireland-57899897) - Businesses call for changes to the StopCovidNI app as they lose trade due to self-isolation rules.
