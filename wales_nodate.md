@@ -8,7 +8,7 @@
 8. [Man admits manslaughter of David Jones in Holyhead](https://www.bbc.co.uk/news/uk-wales-57899295) - David Jones died in hospital after he was assaulted on Anglesey in November.
 9. [Covid in Wales: Three deaths registered in latest week](https://www.bbc.co.uk/news/uk-wales-57900599) - Deaths from all causes were 15% above normal levels but those involving Covid remained the same.
 10. [Rape: Handling of cases must change, says Wales' CPS boss](https://www.bbc.co.uk/news/uk-wales-57903909) - Wales' new chief crown prosecutor says work has started to improve the experience for victims.
-11. [Tory MP Rob Roberts recall petition move wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - The MPs complaints watchdog says it is "seriously concerned" about the move.
+11. [Recall petition for MP Rob Roberts would be wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - The MPs complaints watchdog says it is "seriously concerned" about the proposal.
 12. [Farming in Wales: Deaths on farms more than double in a year](https://www.bbc.co.uk/news/uk-wales-57895357) - The Health and Safety Executive says its recent report was 'disappointing' and 'unacceptable'.
 13. [Barry cricket death: 'My friend was literally just dying there'](https://www.bbc.co.uk/news/uk-wales-57892928) - Tributes to 44-year-old father-of-three who died playing for his local cricket club.
 14. [Tokyo Olympics: Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price](https://www.bbc.co.uk/sport/av/olympics/57876234) - The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.

@@ -3,7 +3,7 @@
 3. [Covid-19: Crucial for pinged people to self-isolate - No 10](https://www.bbc.co.uk/news/uk-57902213) - Downing Street tries to clear up confusion after a minister says people can make an "informed decision".
 4. [Cummings: Eight takeaways from his interview](https://www.bbc.co.uk/news/uk-politics-57882892) - The PM's former chief adviser on lockdowns, Downing Street rows, Brexit and coup discussions.
 5. [Tony Blair's Irish Famine message not signed off by him, archive papers show](https://www.bbc.co.uk/news/uk-57894210) - Files show the former PM's private secretary wrote the statement but could not reach him for approval.
-6. [Tory MP Rob Roberts recall petition move wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - The MPs complaints watchdog says it is "seriously concerned" about the move.
+6. [Recall petition for MP Rob Roberts would be wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - The MPs complaints watchdog says it is "seriously concerned" about the proposal.
 7. [Homelessness: MPs urge more cash for rapid-housing scheme](https://www.bbc.co.uk/news/uk-politics-57899758) - The programme to quickly house long-term homeless people in England has been trialled since 2018.
 8. [Women's state pension: Compensation closer for Waspi campaigners](https://www.bbc.co.uk/news/business-57900320) - The government was too slow to tell women they would be directly affected by the rising state pension age.
 9. [Council algorithms mass profile millions, campaigners say](https://www.bbc.co.uk/news/uk-57869647) - Most of the software is "secret, unevidenced, invasive and likely discriminatory", Big Brother Watch says.
