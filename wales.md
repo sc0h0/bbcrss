@@ -1,4 +1,4 @@
-1. [Hot weather: Welsh outlets shut due to 'unbearable' temperatures](https://www.bbc.co.uk/news/uk-wales-57899296) - Tue, 20 Jul 2021 12:40:02 GMT - A seaside resort restaurant and a village pub temporarily close in the extreme heat warning.
+1. [Hot weather: Welsh outlets shut due to 'unbearable' temperatures](https://www.bbc.co.uk/news/uk-wales-57899296) - Tue, 20 Jul 2021 14:15:52 GMT - A seaside resort restaurant and a village pub temporarily close in the extreme heat warning.
 2. [Cardiff: Bute Park attack leaves man with life-threatening injuries](https://www.bbc.co.uk/news/uk-wales-57900310) - Tue, 20 Jul 2021 12:38:10 GMT - "To subject another person to violence in this way is intolerable," says senior police officer.
 3. [Part of M4 near Cardiff shut after lorry crash](https://www.bbc.co.uk/news/uk-wales-57903438) - Tue, 20 Jul 2021 13:52:05 GMT - One person is taken to hospital after a motorway crash in Cardiff.
 4. [Man admits manslaughter of David Jones in Holyhead](https://www.bbc.co.uk/news/uk-wales-57899295) - Tue, 20 Jul 2021 12:57:16 GMT - David Jones died in hospital after he was assaulted on Anglesey in November.

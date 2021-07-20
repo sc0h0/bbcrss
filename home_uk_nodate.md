@@ -1,5 +1,5 @@
 1. [Covid-19: Crucial for pinged people to self-isolate - No 10](https://www.bbc.co.uk/news/uk-57902213) - Downing Street tries to clear up confusion after a minister says people can make an "informed decision".
-2. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - Billionaire Jeff Bezos has launched into space in the first crewed flight of his rocket ship.
+2. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just 11 minutes after take-off.
 3. [Extreme heat warnings for UK to last until Friday](https://www.bbc.co.uk/news/uk-57898718) - Parts of Wales and southern and central England could be hotter than Tenerife and Marbella later.
 4. [Tokyo Olympics: Rescheduling Games 'caused sleepless nights', says IOC president Thomas Bach](https://www.bbc.co.uk/sport/olympics/57899915) - Rescheduling the Tokyo Olympics "caused sleepless nights" but must go ahead "to give hope" for the future, says IOC president Thomas Bach.
 5. [Nike halts footwear production due to Covid outbreak](https://www.bbc.co.uk/news/business-57902093) - Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.
