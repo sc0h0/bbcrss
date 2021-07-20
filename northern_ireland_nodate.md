@@ -30,6 +30,6 @@
 30. [Colum Eastwood: MP reveals death threats after naming Soldier F](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57863054) - Colum Eastwood named the former paratrooper, accused of two Bloody Sunday murders, in Parliament.
 31. [Coronavirus: Ireland eases international travel restrictions](https://www.bbc.co.uk/news/world-europe-57886435) - People who have "valid proof" of full vaccination no longer have to self-isolate on arrival.
 32. [Covid-19: Ireland's top medical officers targeted by abusive calls](https://www.bbc.co.uk/news/world-europe-57879013) - Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.
-33. [Brendan Óg Ó Duffy: Monaghan GAA U20s captain dies in car crash](https://www.bbc.co.uk/news/world-europe-57873315) - Brendan Óg Ó Duffy lost his life just hours after captaining the Monaghan team to a semi-final win.
+33. [Brendan Óg Ó Dufaigh: Monaghan GAA U20s captain dies in car crash](https://www.bbc.co.uk/news/world-europe-57873315) - Brendan Óg Ó Dufaigh lost his life just hours after captaining the Monaghan team to a semi-final win.
 34. [Brexit: UK urged to match 'generosity of spirit' over protocol](https://www.bbc.co.uk/news/world-europe-57863846) - European Commission president Ursula von der Leyen says the protocol is "the only solution".
 35. [Inhaler: Bono's son and his band top UK chart with debut album](https://www.bbc.co.uk/news/entertainment-arts-57864034) - Elijah Hewson's rock group knock Olivia Rodrigo off the top spot with their debut album.
