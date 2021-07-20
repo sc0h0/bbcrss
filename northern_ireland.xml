@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 06:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 07:16:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[The health minister says the current vaccination programme will not be available indefinitely.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57895246</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57895246</guid>
-            <pubDate>Tue, 20 Jul 2021 05:24:58 GMT</pubDate>
+            <pubDate>Tue, 20 Jul 2021 07:09:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tony Blair's Irish Famine message not signed off by him, archive papers show]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57883192</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57883192</guid>
             <pubDate>Mon, 19 Jul 2021 17:58:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belfast boxer to carry Irish flag at Olympics]]></title>
+            <description><![CDATA[Belfast boxer Brendan Irvine and team-mate Kellie Harrington will carry the Irish flag at the Tokyo Olympics opening ceremony on Friday.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57898847</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57898847</guid>
+            <pubDate>Tue, 20 Jul 2021 06:40:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI's new record temperature could be exceeded this week, says Met Office]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57886443</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57886443</guid>
             <pubDate>Mon, 19 Jul 2021 16:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Ireland eases international travel restrictions]]></title>
-            <description><![CDATA[People who have "valid proof" of full vaccination no longer have to self-isolate on arrival.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57886435</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57886435</guid>
-            <pubDate>Mon, 19 Jul 2021 12:37:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Walk-in vaccine clinics open across NI]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Fri, 16 Jul 2021 16:38:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coronavirus: Ireland eases international travel restrictions]]></title>
+            <description><![CDATA[People who have "valid proof" of full vaccination no longer have to self-isolate on arrival.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57886435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57886435</guid>
+            <pubDate>Mon, 19 Jul 2021 12:37:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Ireland's top medical officers targeted by abusive calls]]></title>
             <description><![CDATA[Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57879013</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57864034</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57864034</guid>
             <pubDate>Fri, 16 Jul 2021 16:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Irish senate passes indoor hospitality legislation]]></title>
-            <description><![CDATA[Fully vaccinated people and those who have recovered from Covid-19 will be able to eat and drink indoors.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57869601</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57869601</guid>
-            <pubDate>Fri, 16 Jul 2021 22:11:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

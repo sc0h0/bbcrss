@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 05:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 07:15:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Record 430 migrants cross English Channel in single day]]></title>
+            <description><![CDATA[Around 50 people were seen landing on a beach in Kent in a single dinghy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57897601</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57897601</guid>
+            <pubDate>Tue, 20 Jul 2021 04:23:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Heatwave swimming warning after six die in England]]></title>
             <description><![CDATA[Rescuers say that lakes and rivers can be a silent summer killer after deaths around England.]]></description>
@@ -23,18 +30,11 @@
             <pubDate>Mon, 19 Jul 2021 19:56:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Channel crossings: Fifty people land on Kent beach in single dinghy]]></title>
-            <description><![CDATA[A further eight boats carrying 241 migrants reached the UK on Sunday, the Home Office says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-57888389</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57888389</guid>
-            <pubDate>Mon, 19 Jul 2021 19:02:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Two jabs needed to enter nightclubs from September]]></title>
-            <description><![CDATA[People will need to be fully vaccinated to enter venues where large crowds gather, the government says.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57893788</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57893788</guid>
-            <pubDate>Mon, 19 Jul 2021 21:07:02 GMT</pubDate>
+            <title><![CDATA[Covid: Vaccine passport plan for nightclubs 'concerning']]></title>
+            <description><![CDATA[Manchester's night-time economy advisor brands the government's certification plan "discriminatory".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57890847</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57890847</guid>
+            <pubDate>Mon, 19 Jul 2021 17:58:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beachgoers rescued from sinking mud in Weston-super-Mare]]></title>

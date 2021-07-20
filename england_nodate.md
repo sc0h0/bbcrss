@@ -1,6 +1,6 @@
-1. [Heatwave swimming warning after six die in England](https://www.bbc.co.uk/news/uk-england-57884739) - Rescuers say that lakes and rivers can be a silent summer killer after deaths around England.
-2. [Channel crossings: Fifty people land on Kent beach in single dinghy](https://www.bbc.co.uk/news/uk-england-kent-57888389) - A further eight boats carrying 241 migrants reached the UK on Sunday, the Home Office says.
-3. [Covid: Two jabs needed to enter nightclubs from September](https://www.bbc.co.uk/news/business-57893788) - People will need to be fully vaccinated to enter venues where large crowds gather, the government says.
+1. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Around 50 people were seen landing on a beach in Kent in a single dinghy.
+2. [Heatwave swimming warning after six die in England](https://www.bbc.co.uk/news/uk-england-57884739) - Rescuers say that lakes and rivers can be a silent summer killer after deaths around England.
+3. [Covid: Vaccine passport plan for nightclubs 'concerning'](https://www.bbc.co.uk/news/uk-england-manchester-57890847) - Manchester's night-time economy advisor brands the government's certification plan "discriminatory".
 4. [Beachgoers rescued from sinking mud in Weston-super-Mare](https://www.bbc.co.uk/news/uk-england-somerset-57887044) - More than 50 people were stranded after a high tide left a "dangerous" mud residue behind in Weston.
 5. [Manchester Arena bomb hero Darron Coster dies in crash](https://www.bbc.co.uk/news/uk-england-lancashire-57889441) - Darron Coster, who was hailed a hero for helping Manchester Arena bomb victims, dies in a road crash.
 6. [Ripon's hornblowers return to city after 16 months](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57889231) - Ripon's hornblowers will be performing their nightly duties on the streets after 16 months at home.

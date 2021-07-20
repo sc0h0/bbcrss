@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 06:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 07:10:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57890935</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57890935</guid>
-            <pubDate>Tue, 20 Jul 2021 05:40:52 GMT</pubDate>
+            <pubDate>Tue, 20 Jul 2021 07:08:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microsoft: Chinese authorities slam 'groundless' hacking claims]]></title>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-57898147</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57898147</guid>
             <pubDate>Tue, 20 Jul 2021 06:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Asia follows global shares slide amid recovery fears]]></title>
-            <description><![CDATA[Stocks in Asia, the US, the UK and Europe fall on concerns that rising cases may slow a recovery.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57885183</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57885183</guid>
-            <pubDate>Tue, 20 Jul 2021 04:21:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pedro Castillo declared president-elect of Peru]]></title>
@@ -65,27 +58,6 @@
             <pubDate>Tue, 20 Jul 2021 04:48:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Athletes find new ways to train in lockdown]]></title>
-            <description><![CDATA[Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57887074</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57887074</guid>
-            <pubDate>Mon, 19 Jul 2021 23:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iraq attack: Bombing at Baghdad market kills Eid shoppers]]></title>
-            <description><![CDATA[At least 25 people are killed in an attack on a busy market in Iraq's capital, security sources say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57895957</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57895957</guid>
-            <pubDate>Mon, 19 Jul 2021 22:14:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China accused of cyber-attack on Microsoft Exchange servers]]></title>
-            <description><![CDATA[The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57889981</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57889981</guid>
-            <pubDate>Mon, 19 Jul 2021 17:28:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Canada to open border to fully vaccinated Americans in August]]></title>
             <description><![CDATA[The loosening of restrictions comes amid significant progress in the country's vaccine rates.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57896430</link>
@@ -98,6 +70,27 @@
             <link>https://www.bbc.co.uk/news/business-57893161</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57893161</guid>
             <pubDate>Mon, 19 Jul 2021 20:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Asia follows global shares slide amid recovery fears]]></title>
+            <description><![CDATA[Stocks in Asia, the US, the UK and Europe fall on concerns that rising cases may slow a recovery.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57885183</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57885183</guid>
+            <pubDate>Tue, 20 Jul 2021 04:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iraq attack: Bombing at Baghdad market kills Eid shoppers]]></title>
+            <description><![CDATA[At least 25 people are killed in an attack on a busy market in Iraq's capital, security sources say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57895957</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57895957</guid>
+            <pubDate>Mon, 19 Jul 2021 22:14:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Athletes find new ways to train in lockdown]]></title>
+            <description><![CDATA[Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57887074</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57887074</guid>
+            <pubDate>Mon, 19 Jul 2021 23:02:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A weekend in America: Shootings in Washington spotlight growing problem]]></title>
