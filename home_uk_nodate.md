@@ -4,7 +4,7 @@
 4. [David Cameron lacked judgement over Greensill, MPs' report says](https://www.bbc.co.uk/news/business-57889549) - David Cameron showed a lack of judgement when he informally lobbied on behalf of Greensill Capital, MPs say.
 5. [Prince Harry promises to share 'highs and lows' in memoir](https://www.bbc.co.uk/news/uk-57896088) - The book is due to be published next year and will be "accurate and wholly truthful", the prince says.
 6. [Oregon Bootleg Fire: Evacuations as largest US fire burns 300,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The Bootleg Fire has burned an area larger than Los Angeles and forced thousands to evacuate.
-7. [January 6: First Capitol rioter sentenced to prison time](https://www.bbc.co.uk/news/world-us-canada-57890937) - Paul Allard Hodgkins is the first of hundreds of Capitol rioters sentenced for a felony.
+7. [January 6: First Capitol rioter given prison sentence](https://www.bbc.co.uk/news/world-us-canada-57890937) - Paul Allard Hodgkins is the first of hundreds of Capitol rioters sentenced for a felony.
 8. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
 9. [Writing fake online reviews could be made illegal](https://www.bbc.co.uk/news/business-57887035) - A plan to crack down on online rip-offs has been outlined by the government.
 10. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.

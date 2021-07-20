@@ -3,7 +3,7 @@
 3. [Pedro Castillo declared president-elect of Peru](https://www.bbc.co.uk/news/world-latin-america-57897402) - The leftist candidate won the popular vote but had been accused of fraud by rival Keiko Fujimori.
 4. [Iraq attack: Bombing at Baghdad market kills Eid shoppers](https://www.bbc.co.uk/news/world-middle-east-57895957) - At least 25 people are killed in an attack on a busy market in Iraq's capital, security sources say.
 5. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
-6. [January 6: First Capitol rioter sentenced to prison time](https://www.bbc.co.uk/news/world-us-canada-57890937) - Paul Allard Hodgkins is the first of hundreds of Capitol rioters sentenced for a felony.
+6. [January 6: First Capitol rioter given prison sentence](https://www.bbc.co.uk/news/world-us-canada-57890937) - Paul Allard Hodgkins is the first of hundreds of Capitol rioters sentenced for a felony.
 7. [Jeff Bezos to blast into space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - Billionaire Jeff Bezos will launch into space in the first crewed flight of his rocket ship.
 8. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
 9. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
