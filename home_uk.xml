@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 20:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 21:14:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Tue, 20 Jul 2021 16:11:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[China floods: Thousands evacuated as rail stations and roads submerged]]></title>
+            <description><![CDATA[Record rainfall has left more than 12 dead and flooded stations and roads in Zhengzhou city.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57861067</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57861067</guid>
+            <pubDate>Tue, 20 Jul 2021 20:51:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[UK and France agree deal to tackle rise in Channel crossings]]></title>
             <description><![CDATA[France will double the number of police patrolling beaches, as record numbers cross the Channel.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57909188</link>
@@ -58,11 +65,11 @@
             <pubDate>Tue, 20 Jul 2021 17:14:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Backlash as pinged staff rules called unworkable]]></title>
-            <description><![CDATA[Exemptions will be "considered on a case-by-case basis", but firms warn time is not on their side.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57901500</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57901500</guid>
-            <pubDate>Tue, 20 Jul 2021 19:12:05 GMT</pubDate>
+            <title><![CDATA[Pegasus: French President Macron identified as spyware target]]></title>
+            <description><![CDATA[The president's phone number was found on a list of numbers that were potential phone hacking targets.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57907258</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907258</guid>
+            <pubDate>Tue, 20 Jul 2021 19:55:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK clashes with EU over Gibraltar's post-Brexit status]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57908376</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57908376</guid>
             <pubDate>Tue, 20 Jul 2021 18:29:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vaccine proof plans considered for some sports events]]></title>
-            <description><![CDATA[Fans may be required to show proof of full vaccination to attend sports venues with capacities of about 20,000 or more by the end of September.]]></description>
-            <link>https://www.bbc.co.uk/sport/57905459</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/57905459</guid>
-            <pubDate>Tue, 20 Jul 2021 16:48:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: US pushes China to make faster carbon cuts]]></title>
@@ -275,6 +275,13 @@
             <pubDate>Tue, 20 Jul 2021 16:02:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England win pulsating series decider against Pakistan]]></title>
+            <description><![CDATA[England overcome an almighty wobble to defeat Pakistan in a pulsating final Twenty20 at Old Trafford and win the series 2-1.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57882585</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57882585</guid>
+            <pubDate>Tue, 20 Jul 2021 21:11:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celtic held in Champions League qualifier as Postecoglou era begins]]></title>
             <description><![CDATA[Ange Postecoglou's Celtic tenure begins with a breathless draw with Midtjylland in a Champions League qualifier that sees both sides reduced to 10 men.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57855563</link>
@@ -282,25 +289,18 @@
             <pubDate>Tue, 20 Jul 2021 20:41:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vaccination proof may be required to attend sports events of 20,000 capacity or more]]></title>
+            <description><![CDATA[Fans may be required to show proof of full vaccination to attend sports venues with capacities of about 20,000 or more by the end of September.]]></description>
+            <link>https://www.bbc.co.uk/sport/57905459</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/57905459</guid>
+            <pubDate>Tue, 20 Jul 2021 16:48:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[All three Lions Tests to now be played in Cape Town]]></title>
             <description><![CDATA[All three Tests between South Africa and the British and Irish Lions will now be staged in Cape Town because of the Covid-19 pandemic.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57905260</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57905260</guid>
             <pubDate>Tue, 20 Jul 2021 15:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v Pakistan T20: 'He's on fire!' - Watch the best shots as Jason Roy hits 64]]></title>
-            <description><![CDATA[Watch some of the best shots as Jason Roy hits 64 from 36 balls during the third T20 between England and Pakistan at Old Trafford.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57908908</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57908908</guid>
-            <pubDate>Tue, 20 Jul 2021 20:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Premier League player arrested over child sex allegations]]></title>
-            <description><![CDATA[The Premier League player has since been bailed and suspended by his club while inquiries continue.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57899127</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57899127</guid>
-            <pubDate>Tue, 20 Jul 2021 08:11:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Which children are being vaccinated and why?]]></title>

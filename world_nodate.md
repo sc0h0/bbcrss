@@ -15,8 +15,8 @@
 15. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
 16. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
 17. [Covid: Ivermectin, milk among Indonesia's unproven cures](https://www.bbc.co.uk/news/world-asia-pacific-57838033) - As Indonesia sees a surge fuelled by the Delta variant, misleading health claims are spreading.
-18. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
-19. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
-20. [Channel crossings migrants: 'We need a safe place'](https://www.bbc.co.uk/news/uk-57899177) - A BBC team encounters some of the migrants trying to make the dangerous journey to England.
-21. [NYPD officer uses crisp packet to save stabbing victim](https://www.bbc.co.uk/news/world-us-canada-57885400) - The police officer in New York has been praised for his decisive actions.
-22. [India farmers' protest: Living on a highway in protest](https://www.bbc.co.uk/news/world-asia-india-57863658) - Seven months on, farmers are still striking against contentious new laws outside the national capital.
+18. [Jeff Bezos and crew launch into space on New Shepard](https://www.bbc.co.uk/news/world-57900620) - Billionaire Jeff Bezos has launched into space, in the first crewed flight of his rocket ship, New Shepard.
+19. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
+20. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
+21. [Channel crossings migrants: 'We need a safe place'](https://www.bbc.co.uk/news/uk-57899177) - A BBC team encounters some of the migrants trying to make the dangerous journey to England.
+22. [NYPD officer uses crisp packet to save stabbing victim](https://www.bbc.co.uk/news/world-us-canada-57885400) - The police officer in New York has been praised for his decisive actions.
