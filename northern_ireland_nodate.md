@@ -1,5 +1,5 @@
-1. [County Down: Teenager dies after entering water at Canal Court](https://www.bbc.co.uk/news/uk-northern-ireland-57896019) - The incident happened in the village of Scarva at about 15:30 on Monday afternoon.
-2. [Covid-19: Vaccination centres ending first doses on 31 July](https://www.bbc.co.uk/news/uk-northern-ireland-57895246) - NI's chief scientific officer says about 18% of adults have not come forward for their first dose.
+1. [Covid-19: Vaccination centres ending first doses on 31 July](https://www.bbc.co.uk/news/uk-northern-ireland-57895246) - NI's chief scientific officer says about 18% of adults have not come forward for their first dose.
+2. [County Down: Teenager dies after entering water at Canal Court](https://www.bbc.co.uk/news/uk-northern-ireland-57896019) - The incident happened in the village of Scarva at about 15:30 on Monday afternoon.
 3. [Tony Blair's Irish Famine message not signed off by him, archive papers show](https://www.bbc.co.uk/news/uk-57894210) - Files show the former PM's private secretary wrote the statement but could not reach him for approval.
 4. [NI Assembly to debate Troubles legacy proposals](https://www.bbc.co.uk/news/uk-northern-ireland-57892882) - The assembly recall follows government plans to end prosecutions for Troubles-related offences.
 5. [Jordanstown: Motorcyclist dies after Shore Road crash](https://www.bbc.co.uk/news/uk-northern-ireland-57899521) - No other vehicle was involved in the crash on the Shore Road on Monday night, police say.
@@ -31,6 +31,6 @@
 31. [Colum Eastwood: MP reveals death threats after naming Soldier F](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57863054) - Colum Eastwood named the former paratrooper, accused of two Bloody Sunday murders, in Parliament.
 32. [Coronavirus: Ireland eases international travel restrictions](https://www.bbc.co.uk/news/world-europe-57886435) - People who have "valid proof" of full vaccination no longer have to self-isolate on arrival.
 33. [Covid-19: Ireland's top medical officers targeted by abusive calls](https://www.bbc.co.uk/news/world-europe-57879013) - Gardaí are investigating reports of abusive calls to Ireland's chief medical officer and his deputy.
-34. [Brendan Óg Duffy: Monaghan GAA U20s captain dies in car crash](https://www.bbc.co.uk/news/world-europe-57873315) - Brendan Óg Duffy lost his life just hours after captaining the Monaghan team to a semi-final win.
+34. [Brendan Óg Ó Duffy: Monaghan GAA U20s captain dies in car crash](https://www.bbc.co.uk/news/world-europe-57873315) - Brendan Óg Ó Duffy lost his life just hours after captaining the Monaghan team to a semi-final win.
 35. [Brexit: UK urged to match 'generosity of spirit' over protocol](https://www.bbc.co.uk/news/world-europe-57863846) - European Commission president Ursula von der Leyen says the protocol is "the only solution".
 36. [Inhaler: Bono's son and his band top UK chart with debut album](https://www.bbc.co.uk/news/entertainment-arts-57864034) - Elijah Hewson's rock group knock Olivia Rodrigo off the top spot with their debut album.

@@ -8,7 +8,7 @@
 8. [Canada to open border to fully vaccinated Americans in August](https://www.bbc.co.uk/news/world-us-canada-57896430) - The loosening of restrictions comes amid significant progress in the country's vaccine rates.
 9. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
 10. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
-11. [Iraq attack: Bombing at Baghdad market kills Eid shoppers](https://www.bbc.co.uk/news/world-middle-east-57895957) - At least 25 people are killed in an attack on a busy market in Iraq's capital, security sources say.
+11. [Iraq attack: Bombing at Baghdad market kills Eid shoppers](https://www.bbc.co.uk/news/world-middle-east-57895957) - At least 30 people are killed in an attack on a busy market in Iraq's capital, security sources say.
 12. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
 13. [A weekend in America: Shootings in Washington spotlight growing problem](https://www.bbc.co.uk/news/world-us-canada-57840801) - A stadium was sent into panic and a six-year-old was killed in two of the weekend's worst shootings.
 14. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
