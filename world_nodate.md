@@ -3,7 +3,7 @@
 3. [Germany grapples with flood havoc](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
 4. [Climate change: US pushes China to make faster carbon cuts](https://www.bbc.co.uk/news/science-environment-57904042) - US climate envoy John Kerry says help from China is needed to avoid a dangerous rise in heat.
 5. [Israel PM warns Ben & Jerry's owner Unilever of consequences over sales ban](https://www.bbc.co.uk/news/world-middle-east-57902243) - The ice cream maker's parent company Unilever is told "strong action" will be taken against boycotts.
-6. [China floods: Passengers stuck in waist-high water on train](https://www.bbc.co.uk/news/world-asia-china-57861067) - Henan province has been hit hard by heavy rain in recent days resulting in flash flooding.
+6. [China floods: Thousands evacuated as rail stations and roads submerged](https://www.bbc.co.uk/news/world-asia-china-57861067) - Record rainfall leaves subway stations and roads submerged, and more than a dozen cities affected.
 7. [Severe floods hit China's Henan province](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
 8. [Norway fined for wearing shorts not bikini bottoms](https://www.bbc.co.uk/sport/handball/57890430) - Norway are fined 1,500 euros (£1,295) for wearing shorts instead of bikini bottoms at the European Beach Handball Championships.
 9. [Oregon Bootleg Fire: Evacuations as largest US fire burns 364,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.
