@@ -1,5 +1,5 @@
 1. [UK to bake in 33C amid extreme heat warning](https://www.bbc.co.uk/news/uk-57898718) - Parts of Wales and southern and central England could be hotter than Tenerife and Marbella later.
-2. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Around 50 people, including women and young children, were seen landing on a Kent beach in a single dinghy.
+2. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Some 50 people, including women and young children, were seen landing on a Kent beach in a dinghy.
 3. [Covid: Boris Johnson resisted autumn lockdown as only over-80s dying - Dominic Cummings](https://www.bbc.co.uk/news/uk-politics-57854811) - Boris Johnson also questioned whether the NHS would be overwhelmed, his former aide tells the BBC.
 4. [Women's state pension: Compensation closer for Waspi campaigners](https://www.bbc.co.uk/news/business-57900320) - The government was too slow to tell women they would be directly affected by the rising state pension age.
 5. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers appeared frightened and unsure what to do when they heard multiple explosions.

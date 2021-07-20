@@ -1,5 +1,5 @@
 1. [Premier League player held over child sex allegations](https://www.bbc.co.uk/news/uk-england-57899127) - The Premier League player has since been bailed and suspended by his club while inquiries continue.
-2. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Around 50 people, including women and young children, were seen landing on a Kent beach in a single dinghy.
+2. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Some 50 people, including women and young children, were seen landing on a Kent beach in a dinghy.
 3. [Wakefield Pugneys lake search: Man's body recovered](https://www.bbc.co.uk/news/uk-england-leeds-57899228) - The find comes after emergency crews were called to Pugneys Country Park in Wakefield on Sunday.
 4. [River Weaver search resumes for missing boy, 16](https://www.bbc.co.uk/news/uk-england-merseyside-57900068) - Police, fire and ambulance teams are scouring the River Weaver near Frodsham in Cheshire.
 5. [Gary Mavin: Hospital suicide patient 'feared being sent home'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57893076) - Gary Mavin died after learning he could be discharged from a mental health unit, an inquest hears.
