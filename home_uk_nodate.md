@@ -5,7 +5,7 @@
 5. [Writing fake online reviews could be made illegal](https://www.bbc.co.uk/news/business-57887035) - A plan to crack down on online rip-offs has been outlined by the government.
 6. [David Cameron lacked judgement over Greensill, MPs' report says](https://www.bbc.co.uk/news/business-57889549) - David Cameron showed a lack of judgement when he informally lobbied on behalf of Greensill Capital, MPs say.
 7. [National Archive: Tony Blair did not approve Irish Famine statement, files show](https://www.bbc.co.uk/news/uk-57894210) - Files show the former PM's private secretary wrote the message and could not reach him for approval.
-8. [Oregon Bootleg Fire: Evacuations as largest US fire burns 300,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The Bootleg Fire has burned an area larger than Los Angeles and forced thousands to evacuate.
+8. [Oregon Bootleg Fire: Evacuations as largest US fire burns 300,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.
 9. [Plans to modernise power of attorney system](https://www.bbc.co.uk/news/uk-57897609) - People can put someone in charge of their affairs but the process is criticised for being slow to enact.
 10. [Pedro Castillo declared president-elect of Peru](https://www.bbc.co.uk/news/world-latin-america-57897402) - The leftist candidate won the popular vote but had been accused of fraud by rival Keiko Fujimori.
 11. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
