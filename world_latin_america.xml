@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 23:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 23:23:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Thu, 15 Jul 2021 10:20:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: The Mexican villages refusing to vaccinate]]></title>
+            <description><![CDATA[Take-up of the vaccine among indigenous towns in Chiapas state is as low as 2% in some areas.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57893466</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57893466</guid>
+            <pubDate>Tue, 20 Jul 2021 23:07:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Colombia bets on privately funded Covid vaccinations]]></title>
             <description><![CDATA[The private-sector scheme allows companies to vaccinate their Colombian staff, regardless of need.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57819261</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57807544</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57807544</guid>
             <pubDate>Mon, 12 Jul 2021 23:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Haiti president's assassination: What we know so far]]></title>
-            <description><![CDATA[Haitian President Jovenel Moïse was shot dead in his private residence in the capital, Port-au-Prince.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57762246</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57762246</guid>
-            <pubDate>Mon, 12 Jul 2021 13:30:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Debbie Harry on Blondie's 'monumental' Cuba trip and her reunion demands]]></title>

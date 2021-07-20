@@ -10,11 +10,11 @@
 10. [Twitter suspends Marjorie Taylor Greene over 'misleading' Covid posts](https://www.bbc.co.uk/news/world-us-canada-57897401) - Georgia Republican Marjorie Taylor Greene has been a vocal critic of vaccines and the use of masks.
 11. [Bitcoin mining machines steamrolled by Malaysia police](https://www.bbc.co.uk/news/business-57897444) - Officers had seized more than 1,000 Bitcoin mining units allegedly powered by stolen electricity.
 12. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
-13. [Spyware: The software that watches you](https://www.bbc.co.uk/news/technology-57894917) - BBC’s cyber reporter, Joe Tidy, agreed to be spied on to understand the spyware experience further.
-14. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
-15. [Robot helps people get dressed and other tech news](https://www.bbc.co.uk/news/technology-57862434) - Romana Kreider looks at some of the best technology news stories of the week.
-16. [Duran Duran’s Invisible: 'Thrilled' with AI collaboration](https://www.bbc.co.uk/news/technology-57737384) - Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.
-17. [How MetaHuman Creator helped me create ‘Dana’](https://www.bbc.co.uk/news/technology-57569224) - Realistic digital humans can be produced rapidly with the new software, Epic Games says.
+13. [Cyber-flashing: 'I get explicit messages every day'](https://www.bbc.co.uk/news/uk-57902816) - Influencer Elle Edwards lets us inside her DMs to show the extent of sexual abuse faced by women online.
+14. [Spyware: The software that watches you](https://www.bbc.co.uk/news/technology-57894917) - BBC’s cyber reporter, Joe Tidy, agreed to be spied on to understand the spyware experience further.
+15. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
+16. [Robot helps people get dressed and other tech news](https://www.bbc.co.uk/news/technology-57862434) - Romana Kreider looks at some of the best technology news stories of the week.
+17. [Duran Duran’s Invisible: 'Thrilled' with AI collaboration](https://www.bbc.co.uk/news/technology-57737384) - Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.
 18. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
 19. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
 20. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
