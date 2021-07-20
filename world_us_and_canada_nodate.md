@@ -1,6 +1,6 @@
 1. [A weekend in America: Shootings in Washington spotlight growing problem](https://www.bbc.co.uk/news/world-us-canada-57840801) - A stadium was sent into panic and a six-year-old was killed in two of the weekend's worst shootings.
 2. [Oregon Bootleg Fire: Evacuations as largest US fire burns 300,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.
-3. [Twitter suspends Marjorie Taylor Greene over 'misleadling' Covid posts](https://www.bbc.co.uk/news/world-us-canada-57897401) - Georgia Republican Marjorie Taylor Greene has been a vocal critic of vaccines and the use of masks.
+3. [Twitter suspends Marjorie Taylor Greene over 'misleading' Covid posts](https://www.bbc.co.uk/news/world-us-canada-57897401) - Georgia Republican Marjorie Taylor Greene has been a vocal critic of vaccines and the use of masks.
 4. [January 6: First Capitol rioter given prison sentence](https://www.bbc.co.uk/news/world-us-canada-57890937) - Paul Allard Hodgkins is the first of hundreds of Capitol rioters sentenced for a felony.
 5. [Jeff Bezos to blast into space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - Billionaire Jeff Bezos will launch into space in the first crewed flight of his rocket ship.
 6. [Canada to open border to fully vaccinated Americans in August](https://www.bbc.co.uk/news/world-us-canada-57896430) - The loosening of restrictions comes amid significant progress in the country's vaccine rates.
