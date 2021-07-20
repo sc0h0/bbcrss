@@ -1,15 +1,15 @@
 1. [Mayhill: Claim authorities 'knew of stolen car danger before riot'](https://www.bbc.co.uk/news/uk-wales-57895356) - Local resident says he warned that stolen cars were being freewheeled down hill months before riot.
-2. [Home Office advised against Queen opening Welsh Assembly](https://www.bbc.co.uk/news/uk-wales-politics-57889463) - An official said in 1997 it would not be appropriate for the monarch to open Wales' new institution.
-3. [Duke of Cambridge meets Welsh boxer Lauren Price](https://www.bbc.co.uk/sport/av/olympics/57876234) - The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.
-4. [Covid: Will different Wales mask rules confuse tourists?](https://www.bbc.co.uk/news/uk-wales-57894111) - As the sun beams down and tourists flock to Welsh resorts, are people ready for differing rules?
-5. [Covid: More cases but fewer deaths in third wave](https://www.bbc.co.uk/news/uk-wales-57896047) - Three more people die with coronavirus in Wales, bringing the total number of deaths to 5,589.
-6. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.
-7. [Biggar's 'emotional' Lions bid after mum's death](https://www.bbc.co.uk/sport/rugby-union/57888359) - Dan Biggar targets an "emotional" first British and Irish Lions Test start against South Africa after the recent death of his mother.
-8. [A40 Carmarthenshire crash: Family pay tribute to victim](https://www.bbc.co.uk/news/uk-wales-57892924) - Arwel Davies died in an accident on the A40 between a flatbed lorry and Ford Transit tipper.
-9. [Barry cricket death: 'My friend was literally just dying there'](https://www.bbc.co.uk/news/uk-wales-57892928) - Tributes to 44-year-old father-of-three who died playing for his local cricket club.
-10. [Electrocuted apprentice 'should not have been alone'](https://www.bbc.co.uk/news/uk-wales-57893766) - Tom Owen's supervisor tells an inquest he "should have been there throughout".
-11. [Paralympian 'told to wear more appropriate shorts'](https://www.bbc.co.uk/sport/disability-sport/57887715) - Double world champion para-athlete Olivia Breen said she was left angry and speechless after being told to wear 'more appropriate' shorts.
-12. [Barry Bagnall jailed for Wrexham hammer murder](https://www.bbc.co.uk/news/uk-wales-57880625) - Barry Bagnall hit Terence Edwards over the head twice during a "cold-blooded" murder, a court hears.
+2. [Farming in Wales: Deaths on farms more than double in a year](https://www.bbc.co.uk/news/uk-wales-57895357) - The Health and Safety Executive says its recent report was 'disappointing' and 'unacceptable'.
+3. [Home Office advised against Queen opening Welsh Assembly](https://www.bbc.co.uk/news/uk-wales-politics-57889463) - An official said in 1997 it would not be appropriate for the monarch to open Wales' new institution.
+4. [Duke of Cambridge meets Welsh boxer Lauren Price](https://www.bbc.co.uk/sport/av/olympics/57876234) - The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.
+5. [Covid: Will different Wales mask rules confuse tourists?](https://www.bbc.co.uk/news/uk-wales-57894111) - As the sun beams down and tourists flock to Welsh resorts, are people ready for differing rules?
+6. [Covid: More cases but fewer deaths in third wave](https://www.bbc.co.uk/news/uk-wales-57896047) - Three more people die with coronavirus in Wales, bringing the total number of deaths to 5,589.
+7. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.
+8. [Biggar's 'emotional' Lions bid after mum's death](https://www.bbc.co.uk/sport/rugby-union/57888359) - Dan Biggar targets an "emotional" first British and Irish Lions Test start against South Africa after the recent death of his mother.
+9. [A40 Carmarthenshire crash: Family pay tribute to victim](https://www.bbc.co.uk/news/uk-wales-57892924) - Arwel Davies died in an accident on the A40 between a flatbed lorry and Ford Transit tipper.
+10. [Barry cricket death: 'My friend was literally just dying there'](https://www.bbc.co.uk/news/uk-wales-57892928) - Tributes to 44-year-old father-of-three who died playing for his local cricket club.
+11. [Electrocuted apprentice 'should not have been alone'](https://www.bbc.co.uk/news/uk-wales-57893766) - Tom Owen's supervisor tells an inquest he "should have been there throughout".
+12. [Paralympian 'told to wear more appropriate shorts'](https://www.bbc.co.uk/sport/disability-sport/57887715) - Double world champion para-athlete Olivia Breen said she was left angry and speechless after being told to wear 'more appropriate' shorts.
 13. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
 14. [Covid: Pontypool shoppers want to 'revive' town centre](https://www.bbc.co.uk/news/uk-wales-57870128) - Once a major city centre, Pontypool town like many other places has seen shops close due to Covid.
 15. [Amputee's win for prosthetics funding in Wales shows 'people power'](https://www.bbc.co.uk/news/uk-wales-57866765) - David Bradley said amputees in Wales had been disadvantaged compared to the rest of the UK.
@@ -24,5 +24,5 @@
 24. [Nifer damweiniau fferm angheuol wedi dyblu y llynedd](https://www.bbc.co.uk/newyddion/57892734) - Mae'r Gweithgor Iechyd a Diogelwch yn dweud fod y cynnydd yn "siomedig" ac "annerbyniol".
 25. ['Fyddai'n amhriodol i'r Frenhines agor y Cynulliad'](https://www.bbc.co.uk/newyddion/57892732) - Dogfennau'n datgelu cyngor yn 1997 na fyddai'n addas i'r Frenhines agor y sefydliad newydd.
 26. [Mayhill: 'Dim gweithredu' i daclo troseddu cyn yr anhrefn](https://www.bbc.co.uk/newyddion/57890698) - Un o'r trigolion gafodd ei dargedu yn anhrefn ardal Mayhill Abertawe fis Mai yn feirniadol o ddiffyg gweithredu.
-27. [Lluniau o'r archif: Y Sioe Fawr dros y blynyddoedd](https://www.bbc.co.uk/newyddion/57837159) - Gan fod Sioe Frenhinol 2021 wedi ei chanslo, beth am gipolwg ar rai o sioeau'r gorffennol?
+27. [Y sialens o bortreadu Grav ar y sgrîn](https://www.bbc.co.uk/newyddion/57869157) - Yr actor Gareth John Bale sy'n sôn am y sialens o bortreadu Ray Gravell ar gyfer y sgrîn
 28. [Prif hyfforddwyr yn gadael Tîm Rygbi Merched Cymru](https://www.bbc.co.uk/newyddion/57892737) - Mae Warren Abrahams yn gadael ei swydd lai na naw mis ar ôl cael ei benodi.

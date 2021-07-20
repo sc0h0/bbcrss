@@ -6,7 +6,7 @@
 6. [Ben & Jerry's to stop sales in Palestinian territories](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker said it was “inconsistent with our values” to continue selling products in the region.
 7. [Zoom bets billions on home working continuing in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
 8. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
-9. [Northern's self-service ticket machines hit by ransomware cyber attack](https://www.bbc.co.uk/news/uk-england-57892711) - Northern rail's new self-service machines were installed at 420 stations two months ago.
+9. [Northern's ticket machines hit by ransomware cyber attack](https://www.bbc.co.uk/news/uk-england-57892711) - Northern rail's new self-service machines were installed at 420 stations two months ago.
 10. [China accused of cyber-attack on Microsoft Exchange servers](https://www.bbc.co.uk/news/world-asia-china-57889981) - The UK, US and EU have accused China of carrying out an attack on Microsoft Exchange email servers.
 11. [Post Office Horizon scandal: More subpostmasters cleared](https://www.bbc.co.uk/news/business-57888146) - The Court of Appeal clears 12 more former subpostmasters who were wrongly convicted.
 12. [Iceland and Greene King shut sites amid 'pingdemic'](https://www.bbc.co.uk/news/business-57885175) - The firms have had to shut shops and pubs due to staff shortages caused by people self-isolating.
