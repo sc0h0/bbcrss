@@ -11,13 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 17:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 17:38:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Jeff Bezos launches to space aboard New Shepard rocket ship]]></title>
-            <description><![CDATA[The world's richest man and three other passengers return safely just 11 minutes after take-off.]]></description>
+            <description><![CDATA[The world's richest man and three other passengers return safely just over 10 minutes after launch.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57849364</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57849364</guid>
             <pubDate>Tue, 20 Jul 2021 16:11:11 GMT</pubDate>
@@ -51,6 +51,13 @@
             <pubDate>Tue, 20 Jul 2021 17:08:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Severe floods hit China's Henan province]]></title>
+            <description><![CDATA[Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57908888</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57908888</guid>
+            <pubDate>Tue, 20 Jul 2021 17:25:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kim Hong-bin: South Korean climber missing after fall in Pakistan]]></title>
             <description><![CDATA[Kim Hong-bin, who has no fingers, is thought to have fallen into a crevasse on a descent in Pakistan.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57898987</link>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/sport/handball/57890430</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/handball/57890430</guid>
             <pubDate>Tue, 20 Jul 2021 12:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eid al-Adha prayers continue as rockets fired in Afghanistan]]></title>
-            <description><![CDATA[Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57900618</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57900618</guid>
-            <pubDate>Tue, 20 Jul 2021 10:32:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oregon Bootleg Fire: Evacuations as largest US fire burns 364,000 acres]]></title>
@@ -128,6 +128,13 @@
             <pubDate>Mon, 19 Jul 2021 23:14:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Eid al-Adha prayers continue as rockets fired in Afghanistan]]></title>
+            <description><![CDATA[Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57900618</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57900618</guid>
+            <pubDate>Tue, 20 Jul 2021 10:32:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Athletes find new ways to train in lockdown]]></title>
             <description><![CDATA[Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57887074</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-57863658</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57863658</guid>
             <pubDate>Sun, 18 Jul 2021 23:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lex Gillette: Record-breaking blind long jumper]]></title>
-            <description><![CDATA[With the support of his sighted guide, the four-time Paralympic medallist hopes to win gold in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/news/disability-57851104</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-57851104</guid>
-            <pubDate>Sun, 18 Jul 2021 23:02:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

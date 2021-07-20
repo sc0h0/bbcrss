@@ -1,4 +1,4 @@
-1. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just 11 minutes after take-off.
+1. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just over 10 minutes after launch.
 2. [Oregon Bootleg Fire: Evacuations as largest US fire burns 364,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.
 3. [US judge upholds Indiana University vaccine requirement](https://www.bbc.co.uk/news/world-us-canada-57905068) - The students suing Indiana University claim requiring Covid-19 vaccines infringes on their rights.
 4. [Biden rows back on Facebook 'killing people' comment](https://www.bbc.co.uk/news/technology-57901710) - The US president says he was referring to a dozen people spreading misinformation on the platform.

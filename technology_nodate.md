@@ -3,7 +3,7 @@
 3. [Northern's ticket machines hit by ransomware cyber attack](https://www.bbc.co.uk/news/uk-england-57892711) - Northern rail's new self-service machines were installed at 420 stations two months ago.
 4. [Apple delays return to office as Covid cases rise](https://www.bbc.co.uk/news/technology-57891289) - A three-day-a-week return to the office is reportedly postponed until October.
 5. [Covid: Will lockdown change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
-6. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just 11 minutes after take-off.
+6. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just over 10 minutes after launch.
 7. [Council algorithms mass profile millions, campaigners say](https://www.bbc.co.uk/news/uk-57869647) - Most of the software is "secret, unevidenced, invasive and likely discriminatory", Big Brother Watch says.
 8. [China says Microsoft hacking accusations fabricated by US and allies](https://www.bbc.co.uk/news/world-asia-china-57898147) - There are concerns that the attack on the tech giant suggests China's cyber-behaviour is escalating.
 9. [Twitter suspends Marjorie Taylor Greene over 'misleading' Covid posts](https://www.bbc.co.uk/news/world-us-canada-57897401) - Georgia Republican Marjorie Taylor Greene has been a vocal critic of vaccines and the use of masks.

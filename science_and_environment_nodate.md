@@ -1,4 +1,4 @@
-1. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just 11 minutes after take-off.
+1. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just over 10 minutes after launch.
 2. [Climate change: US pushes China to make faster carbon cuts](https://www.bbc.co.uk/news/science-environment-57904042) - US climate envoy John Kerry says help from China is needed to avoid a dangerous rise in heat.
 3. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.
 4. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.

@@ -8,7 +8,7 @@
 8. [Covid: Double-jabbed NHS staff could avoid isolation if service under pressure](https://www.bbc.co.uk/news/uk-57883260) - Fully-vaccinated health workers in England could skip quarantine if services come under pressure.
 9. [Covid: UK faces a difficult summer, says leading scientist](https://www.bbc.co.uk/news/uk-57877033) - Prof Neil Ferguson says there could be as many as 200,000 cases a day as restrictions ease.
 10. [Long Covid funding to unearth new treatments](https://www.bbc.co.uk/news/health-57869427) - Researchers from across the UK will investigate everything from brain fog to ongoing breathlessness.
-11. [Heatwaves and the human body](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
+11. [Heatwaves: What do they do to the body and who is at risk?](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
 12. [Covid-19 rules: How six countries fared after easing Covid rules](https://www.bbc.co.uk/news/world-57796133) - As England approaches an end to social contact laws, how have other countries managed?
 13. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
 14. [Dying too young: Maps show little has changed in 170 years](https://www.bbc.co.uk/news/health-57730353) - Why do areas with high Covid death rates match places with the worst health in Victorian times?
