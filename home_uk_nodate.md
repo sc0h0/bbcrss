@@ -2,7 +2,7 @@
 2. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just 11 minutes after take-off.
 3. [Extreme heat warnings for UK to last until Friday](https://www.bbc.co.uk/news/uk-57898718) - Parts of Wales and southern and central England could be hotter than Tenerife and Marbella later.
 4. [Tokyo Olympics: Rescheduling Games 'caused sleepless nights', says IOC president Thomas Bach](https://www.bbc.co.uk/sport/olympics/57899915) - Rescheduling the Tokyo Olympics "caused sleepless nights" but must go ahead "to give hope" for the future, says IOC president Thomas Bach.
-5. [Nike halts footwear production due to Covid outbreak](https://www.bbc.co.uk/news/business-57902093) - Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.
+5. [Nike trainer output at key factory hit by Covid outbreak](https://www.bbc.co.uk/news/business-57902093) - Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.
 6. [Women's state pension: Compensation closer for Waspi campaigners](https://www.bbc.co.uk/news/business-57900320) - The government was too slow to tell women they would be directly affected by the rising state pension age.
 7. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers appeared frightened and unsure what to do when they heard multiple explosions.
 8. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Some 50 people, including women and young children, were seen landing on a Kent beach in a dinghy.
