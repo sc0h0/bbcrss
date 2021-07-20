@@ -1,24 +1,24 @@
 1. [Covid: Will lockdown change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
 2. [Microsoft: Chinese authorities slam 'groundless' hacking claims](https://www.bbc.co.uk/news/world-asia-china-57898147) - A group of Western countries had accused China of carrying out a major cyber-attack on the tech giant.
-3. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
-4. [Writing fake online reviews could be made illegal](https://www.bbc.co.uk/news/business-57887035) - A plan to crack down on online rip-offs has been outlined by the government.
-5. [Royal Navy tests drones above and below waves](https://www.bbc.co.uk/news/technology-57890066) - A broad exercise saw the navy test scouts, resupply, and underwater reconnaissance drones.
-6. [Zoom bets billions on home working continuing in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
-7. [How to cool your home in a warming world](https://www.bbc.co.uk/news/technology-57467776) - Low-energy designs and technologies can keep homes comfortable, come rain or shine.
-8. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
-9. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
-10. [AI narration of chef Anthony Bourdain's voice sparks row](https://www.bbc.co.uk/news/technology-57842514) - A recreation of the late celebrity cook's voice is used in a film about his life.
-11. [Valve reveals handheld Steam Deck PC games console](https://www.bbc.co.uk/news/technology-57862944) - Gaming giant Valve has produced a handheld console that can play popular PC games.
-12. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
-13. [Clippy returns - as an emoji](https://www.bbc.co.uk/news/technology-57849880) - Microsoft changes its paperclip emoji to look like its early virtual assistant, the object of much affection and frustration.
+3. [Twitter suspends Marjorie Taylor Greene over 'misleading' Covid posts](https://www.bbc.co.uk/news/world-us-canada-57897401) - Georgia Republican Marjorie Taylor Greene has been a vocal critic of vaccines and the use of masks.
+4. [Bitcoin mining machines steamrolled by Malaysia police](https://www.bbc.co.uk/news/business-57897444) - Officers had seized more than 1,000 Bitcoin mining units allegedly powered by stolen electricity.
+5. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
+6. [Writing fake online reviews could be made illegal](https://www.bbc.co.uk/news/business-57887035) - A plan to crack down on online rip-offs has been outlined by the government.
+7. [Royal Navy tests drones above and below waves](https://www.bbc.co.uk/news/technology-57890066) - A broad exercise saw the navy test scouts, resupply, and underwater reconnaissance drones.
+8. [Zoom bets billions on home working continuing in Five9 deal](https://www.bbc.co.uk/news/business-57893155) - The firm announces a $14.7bn (£10.7bn) deal to buy Five9, a cloud-based call centre operator.
+9. [How to cool your home in a warming world](https://www.bbc.co.uk/news/technology-57467776) - Low-energy designs and technologies can keep homes comfortable, come rain or shine.
+10. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
+11. [Thousands of orders cancelled after Ocado robot fire](https://www.bbc.co.uk/news/business-57883332) - The online grocer says the blaze was caused by a collision between robots at one of its warehouses.
+12. [AI narration of chef Anthony Bourdain's voice sparks row](https://www.bbc.co.uk/news/technology-57842514) - A recreation of the late celebrity cook's voice is used in a film about his life.
+13. [Valve reveals handheld Steam Deck PC games console](https://www.bbc.co.uk/news/technology-57862944) - Gaming giant Valve has produced a handheld console that can play popular PC games.
 14. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
 15. [Robot helps people get dressed and other tech news](https://www.bbc.co.uk/news/technology-57862434) - Romana Kreider looks at some of the best technology news stories of the week.
 16. [Duran Duran’s Invisible: 'Thrilled' with AI collaboration](https://www.bbc.co.uk/news/technology-57737384) - Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.
 17. [How MetaHuman Creator helped me create ‘Dana’](https://www.bbc.co.uk/news/technology-57569224) - Realistic digital humans can be produced rapidly with the new software, Epic Games says.
 18. [Google boss Sundar Pichai on tax and his personal tech habits](https://www.bbc.co.uk/news/technology-57777638) - Google boss Sundar Pichai defends company record on tax – and explains his personal tech habits.
-19. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
-20. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
-21. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
-22. [How your personal data is being scraped from social media](https://www.bbc.co.uk/news/business-57841239) - As hackers scoop up data from social media sites, should firms be taking better care of your data?
-23. [Should we trust big tech with our health data?](https://www.bbc.co.uk/news/business-57817804) - Our medical records are in demand by tech firms who want to use the data to help tackle illnesses.
-24. [How your driving might reveal early signs of Alzheimer's](https://www.bbc.co.uk/news/business-57670006) - Research shows how small changes in the way you drive could expose preclinical signs of disease.
+19. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
+20. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
+21. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
+22. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
+23. [How your personal data is being scraped from social media](https://www.bbc.co.uk/news/business-57841239) - As hackers scoop up data from social media sites, should firms be taking better care of your data?
+24. [Should we trust big tech with our health data?](https://www.bbc.co.uk/news/business-57817804) - Our medical records are in demand by tech firms who want to use the data to help tackle illnesses.

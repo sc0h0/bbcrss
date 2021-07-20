@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 07:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 07:54:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Premier League footballer held over child sex allegations]]></title>
+            <description><![CDATA[The Premier League player has since been bailed and suspended by his club while inquiries continue.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57899127</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57899127</guid>
+            <pubDate>Tue, 20 Jul 2021 07:49:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Record 430 migrants cross English Channel in single day]]></title>
             <description><![CDATA[Around 50 people were seen landing on a beach in Kent in a single dinghy.]]></description>
@@ -51,13 +58,6 @@
             <pubDate>Mon, 19 Jul 2021 15:41:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ripon's hornblowers return to city after 16 months]]></title>
-            <description><![CDATA[Ripon's hornblowers will be performing their nightly duties on the streets after 16 months at home.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57889231</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57889231</guid>
-            <pubDate>Mon, 19 Jul 2021 17:21:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Northern's self-service ticket machines hit by ransomware cyber attack]]></title>
             <description><![CDATA[Northern rail's new self-service machines were installed at 420 stations two months ago.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-57892711</link>
@@ -72,13 +72,6 @@
             <pubDate>Mon, 19 Jul 2021 18:21:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ex-West Yorkshire PC Andrew Bell posted indecent images on swinger site]]></title>
-            <description><![CDATA[Andrew Bell says he is "ashamed, embarrassed and disgusted" by his behaviour.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-57892652</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57892652</guid>
-            <pubDate>Mon, 19 Jul 2021 17:01:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mia Wort: Family pay tribute to Bursledon crash victim]]></title>
             <description><![CDATA[Mother Mia Wort, 18, died in hospital following a head-on crash on the A27 in Hampshire.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-57892620</link>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-57873586</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-57873586</guid>
             <pubDate>Mon, 19 Jul 2021 09:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ripon's hornblowers return to city after 16 months]]></title>
+            <description><![CDATA[Ripon's hornblowers will be performing their nightly duties on the streets after 16 months at home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57889231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57889231</guid>
+            <pubDate>Mon, 19 Jul 2021 17:21:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What easing restrictions mean to people in a Witham estate]]></title>

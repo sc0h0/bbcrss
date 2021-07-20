@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 07:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 08:05:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,20 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-57898147</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57898147</guid>
             <pubDate>Tue, 20 Jul 2021 06:30:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twitter suspends Marjorie Taylor Greene over 'misleading' Covid posts]]></title>
+            <description><![CDATA[Georgia Republican Marjorie Taylor Greene has been a vocal critic of vaccines and the use of masks.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57897401</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57897401</guid>
+            <pubDate>Tue, 20 Jul 2021 04:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin mining machines steamrolled by Malaysia police]]></title>
+            <description><![CDATA[Officers had seized more than 1,000 Bitcoin mining units allegedly powered by stolen electricity.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57897444</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57897444</guid>
+            <pubDate>Tue, 20 Jul 2021 07:03:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pegasus: Spyware sold to governments 'targets activists']]></title>
@@ -93,20 +107,6 @@
             <pubDate>Fri, 16 Jul 2021 12:24:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Finding 'Grace': Murder, DNA and ancestry]]></title>
-            <description><![CDATA[How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57801794</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57801794</guid>
-            <pubDate>Fri, 16 Jul 2021 00:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clippy returns - as an emoji]]></title>
-            <description><![CDATA[Microsoft changes its paperclip emoji to look like its early virtual assistant, the object of much affection and frustration.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57849880</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57849880</guid>
-            <pubDate>Thu, 15 Jul 2021 11:29:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Custom glasses: Will 3D-printing change our eyewear?]]></title>
             <description><![CDATA[Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57817901</link>
@@ -142,6 +142,13 @@
             <pubDate>Sun, 11 Jul 2021 23:03:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Finding 'Grace': Murder, DNA and ancestry]]></title>
+            <description><![CDATA[How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57801794</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57801794</guid>
+            <pubDate>Fri, 16 Jul 2021 00:05:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pegasus: Who are the alleged victims of spyware targeting?]]></title>
             <description><![CDATA[Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.]]></description>
             <link>https://www.bbc.co.uk/news/world-57891506</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/business-57817804</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57817804</guid>
             <pubDate>Wed, 14 Jul 2021 23:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How your driving might reveal early signs of Alzheimer's]]></title>
-            <description><![CDATA[Research shows how small changes in the way you drive could expose preclinical signs of disease.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57670006</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57670006</guid>
-            <pubDate>Mon, 12 Jul 2021 23:02:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
