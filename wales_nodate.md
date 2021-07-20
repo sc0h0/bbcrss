@@ -22,7 +22,7 @@
 22. [Wales and women's coach Warren Abrahams part company](https://www.bbc.co.uk/sport/rugby-union/57892272) - Wales women's coach Warren Abrahams is leaving his role - less than nine months after being appointed.
 23. [Tokyo Olympics: Projected medal table, Team GB medallists and international stars to watch](https://www.bbc.co.uk/sport/olympics/57888185) - Data company Gracenote forecasts the Tokyo 2020 medal table, Team GB medallists and the international stars to watch.
 24. [Nifer damweiniau fferm angheuol wedi dyblu y llynedd](https://www.bbc.co.uk/newyddion/57892734) - Mae'r Gweithgor Iechyd a Diogelwch yn dweud fod y cynnydd yn "siomedig" ac "annerbyniol".
-25. [Heddlu'n ymchwilio i y'mosodiad' ym Mharc Bute, Caerdydd](https://www.bbc.co.uk/newyddion/57899874) - Cafodd yr heddlu eu galw i Barc Bute yn oriau man y bore ar ôl adroddiadau o ymosodiad yn y parc.
+25. [Heddlu'n ymchwilio i 'ymosodiad' ym Mharc Bute, Caerdydd](https://www.bbc.co.uk/newyddion/57899874) - Cafodd yr heddlu eu galw i Barc Bute yn oriau man y bore ar ôl adroddiadau o ymosodiad yn y parc.
 26. ['Fyddai'n amhriodol i'r Frenhines agor y Cynulliad'](https://www.bbc.co.uk/newyddion/57892732) - Dogfennau'n datgelu cyngor yn 1997 na fyddai'n addas i'r Frenhines agor y sefydliad newydd.
 27. [Y sialens o bortreadu Grav ar y sgrîn](https://www.bbc.co.uk/newyddion/57869157) - Yr actor Gareth John Bale sy'n sôn am y sialens o bortreadu Ray Gravell ar gyfer y sgrîn
 28. [Prif hyfforddwyr yn gadael Tîm Rygbi Merched Cymru](https://www.bbc.co.uk/newyddion/57892737) - Mae Warren Abrahams yn gadael ei swydd lai na naw mis ar ôl cael ei benodi.

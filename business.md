@@ -1,4 +1,4 @@
-1. [HMV backs High Street with plans for 10 new stores](https://www.bbc.co.uk/news/business-57899065) - Tue, 20 Jul 2021 08:33:29 GMT - The music chain's owner says people love shopping and want to touch goods before buying.
+1. [HMV backs High Street with plans for 10 new stores](https://www.bbc.co.uk/news/business-57899065) - Tue, 20 Jul 2021 09:44:44 GMT - The music chain's owner says people love shopping and want to touch goods before buying.
 2. [Prospect of Morrisons bidding war recedes](https://www.bbc.co.uk/news/business-57899237) - Tue, 20 Jul 2021 07:15:18 GMT - US investment firm Apollo, which was considering making an offer, has now changed its mind.
 3. [Writing fake online reviews could be made illegal](https://www.bbc.co.uk/news/business-57887035) - Mon, 19 Jul 2021 21:22:00 GMT - A plan to crack down on online rip-offs has been outlined by the government.
 4. [David Cameron lacked judgement over Greensill, MPs' report says](https://www.bbc.co.uk/news/business-57889549) - Mon, 19 Jul 2021 23:09:55 GMT - David Cameron showed a lack of judgement when he informally lobbied on behalf of Greensill Capital, MPs say.
