@@ -44,7 +44,7 @@
 44. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
 45. [What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?](https://www.bbc.co.uk/news/explainers-56997931) - What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.
 46. [Covid: Why is social distancing coming to an end?](https://www.bbc.co.uk/news/uk-51506729) - Social distancing rules are changing across the UK.
-47. [Covid: What do over-18s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The vaccine rollout is now available for younger adults. What do they need to know about getting jabbed?
+47. [Covid: What do over-18s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - All over-18s can now get the Covid jab, but Boris Johnson has criticised the take-up among young people.
 48. [Covid-19: Five ways to avoid catching the virus indoors](https://www.bbc.co.uk/news/explainers-53917432) - As social distancing restrictions end in England and ease in Scotland, good ventilation remains vital.
 49. [The EU vaccine 'passport' and what it means for travel](https://www.bbc.co.uk/news/explainers-57665765) - An EU vaccine "passport" is being introduced, enabling holders to prove they have been jabbed.
 50. [Coronavirus cure: What progress are we making on treatments?](https://www.bbc.co.uk/news/health-52354520) - Medical teams around the world are learning which medicines work best against Covid.

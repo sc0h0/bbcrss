@@ -1,9 +1,9 @@
 1. [Covid-19: Crucial for pinged people to self-isolate - No 10](https://www.bbc.co.uk/news/uk-57902213) - Downing Street tries to clear up confusion after a minister says people can make an "informed decision".
 2. [Premier League player held over child sex allegations](https://www.bbc.co.uk/news/uk-england-57899127) - The Premier League player has since been bailed and suspended by his club while inquiries continue.
-3. [Covid: Self-isolation 'crippling' Cleveland Police](https://www.bbc.co.uk/news/uk-england-tees-57899923) - Cleveland Police is close to minimum levels of staff, the area's police federation chairman says.
-4. [Covid: Royal Blackburn Hospital facing huge pressures](https://www.bbc.co.uk/news/uk-england-lancashire-57900021) - Royal Blackburn Hospital staff say they are feeling the pressure due to a rise in Covid cases.
-5. [Fleetwood sea death: Body of missing man found on beach](https://www.bbc.co.uk/news/uk-england-lancashire-57901973) - The body was found about six hours after a man was seen entering the sea in Fleetwood.
-6. [River Weaver search resumes for missing boy, 16](https://www.bbc.co.uk/news/uk-england-merseyside-57900068) - Police, fire and ambulance teams are scouring the River Weaver near Frodsham in Cheshire.
+3. [River Weaver: Body found in search for 16-year-old boy](https://www.bbc.co.uk/news/uk-england-merseyside-57900068) - Emergency services had been scouring the River Weaver near Frodsham in Cheshire since Monday.
+4. [Covid: Self-isolation 'crippling' Cleveland Police](https://www.bbc.co.uk/news/uk-england-tees-57899923) - Cleveland Police is close to minimum levels of staff, the area's police federation chairman says.
+5. [Covid: Royal Blackburn Hospital facing huge pressures](https://www.bbc.co.uk/news/uk-england-lancashire-57900021) - Royal Blackburn Hospital staff say they are feeling the pressure due to a rise in Covid cases.
+6. [Fleetwood sea death: Body of missing man found on beach](https://www.bbc.co.uk/news/uk-england-lancashire-57901973) - The body was found about six hours after a man was seen entering the sea in Fleetwood.
 7. [Man stuck in M4 jam plays football on carriageway](https://www.bbc.co.uk/news/uk-england-wiltshire-57900658) - There was a three-hour tailback on the M4 in Wiltshire after a lorry caught fire.
 8. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Some 50 people, including women and young children, were seen landing on a Kent beach in a dinghy.
 9. [Daniel Hay: Ex-patient calls for under-review surgeon to be struck off](https://www.bbc.co.uk/news/uk-england-derbyshire-57900739) - Stephanie Blood says complications from a hysterectomy had long-lasting consequences.

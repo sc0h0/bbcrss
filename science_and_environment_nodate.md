@@ -2,7 +2,7 @@
 2. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.
 3. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
 4. [Hubble space telescope's function is restored](https://www.bbc.co.uk/news/science-environment-57885865) - Engineers restore the Hubble Space Telescope to full operations, after a computer glitch in June.
-5. [Oregon Bootleg Fire: Evacuations as largest US fire burns 300,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.
+5. [Oregon Bootleg Fire: Evacuations as largest US fire burns 364,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.
 6. [Ros Atkins on… the North America heat waves](https://www.bbc.co.uk/news/world-57868135) - Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.
 7. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
 8. [US wants giant radar in UK to track space objects](https://www.bbc.co.uk/news/uk-57866734) - It comes amid growing concern about congestion, competition and even an arms race in space.
