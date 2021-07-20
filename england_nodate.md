@@ -1,6 +1,6 @@
-1. [Premier League footballer held over child sex allegations](https://www.bbc.co.uk/news/uk-england-57899127) - The Premier League player has since been bailed and suspended by his club while inquiries continue.
+1. [Premier League player held over child sex allegations](https://www.bbc.co.uk/news/uk-england-57899127) - The Premier League player has since been bailed and suspended by his club while inquiries continue.
 2. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Around 50 people were seen landing on a beach in Kent in a single dinghy.
-3. [Heatwave swimming warning after six die in England](https://www.bbc.co.uk/news/uk-england-57884739) - Rescuers say that lakes and rivers can be a silent summer killer after deaths around England.
+3. [Wakefield Pugneys lake search: Man's body recovered](https://www.bbc.co.uk/news/uk-england-leeds-57899228) - The find comes after emergency crews were called to Pugneys Country Park in Wakefield on Sunday.
 4. [Covid: Vaccine passport plan for nightclubs 'concerning'](https://www.bbc.co.uk/news/uk-england-manchester-57890847) - Manchester's night-time economy advisor brands the government's certification plan "discriminatory".
 5. [Beachgoers rescued from sinking mud in Weston-super-Mare](https://www.bbc.co.uk/news/uk-england-somerset-57887044) - More than 50 people were stranded after a high tide left a "dangerous" mud residue behind in Weston.
 6. [Manchester Arena bomb hero Darron Coster dies in crash](https://www.bbc.co.uk/news/uk-england-lancashire-57889441) - Darron Coster, who was hailed a hero for helping Manchester Arena bomb victims, dies in a road crash.

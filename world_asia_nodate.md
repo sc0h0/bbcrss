@@ -1,5 +1,5 @@
 1. [Microsoft: Chinese authorities slam 'groundless' hacking claims](https://www.bbc.co.uk/news/world-asia-china-57898147) - A group of Western countries had accused China of carrying out a major cyber-attack on the tech giant.
-2. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia, the US, the UK and Europe fall on concerns that rising cases may slow a recovery.
+2. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
 3. [Singapore shocked by killing of boy, 13, at school](https://www.bbc.co.uk/news/world-asia-57897762) - A 16-year-old student is charged with murder after a body is found in a bathroom and an axe seized.
 4. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
 5. [Bitcoin mining machines steamrolled by Malaysia police](https://www.bbc.co.uk/news/business-57897444) - Officers had seized more than 1,000 Bitcoin mining units allegedly powered by stolen electricity.

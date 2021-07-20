@@ -1,5 +1,5 @@
 1. [County Down: Teenager dies after entering water at Canal Court](https://www.bbc.co.uk/news/uk-northern-ireland-57896019) - The incident happened in the village of Scarva at about 15:30 on Monday afternoon.
-2. [Covid-19: Vaccination centres ending first doses on 31 July](https://www.bbc.co.uk/news/uk-northern-ireland-57895246) - The health minister says the current vaccination programme will not be available indefinitely.
+2. [Covid-19: Vaccination centres ending first doses on 31 July](https://www.bbc.co.uk/news/uk-northern-ireland-57895246) - NI's chief scientific officer says about 18% of adults have not come forward for their first dose.
 3. [Tony Blair's Irish Famine message not signed off by him, archive papers show](https://www.bbc.co.uk/news/uk-57894210) - Files show the former PM's private secretary wrote the statement but could not reach him for approval.
 4. [NI Assembly to debate Troubles legacy proposals](https://www.bbc.co.uk/news/uk-northern-ireland-57892882) - The assembly recall follows government plans to end prosecutions for Troubles-related offences.
 5. [Jordanstown: Motorcyclist dies after Shore Road crash](https://www.bbc.co.uk/news/uk-northern-ireland-57899521) - No other vehicle was involved in the crash on the Shore Road on Monday night, police say.
