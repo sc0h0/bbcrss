@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 09:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 10:19:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57896099</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57896099</guid>
             <pubDate>Mon, 19 Jul 2021 19:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross-border City of Culture bid is launched]]></title>
+            <description><![CDATA[Five council areas in southern Scotland and northern England team up to seek the UK title in 2025.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57901216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57901216</guid>
+            <pubDate>Tue, 20 Jul 2021 10:04:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NorthLink ferry diverted to help capsized catamaran crew]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57888409</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57888409</guid>
             <pubDate>Mon, 19 Jul 2021 10:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Nearly a third of young adults still unvaccinated]]></title>
-            <description><![CDATA[All over-18s in Scotland are offered an appointment but more than 260,000 younger adults have not yet had a first dose.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57875256</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57875256</guid>
-            <pubDate>Sun, 18 Jul 2021 16:21:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -317,7 +317,7 @@
             <pubDate>Tue, 20 Jul 2021 06:20:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pedro Martinez Losa: Scotland close to appointing Bordeaux]]></title>
+            <title><![CDATA[Pedro Martinez Losa: Scotland close to appointing Bordeaux manager]]></title>
             <description><![CDATA[Pedro Martinez Losa is close to being appointed as Scotland Women head coach, BBC Scotland has learned.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57901052</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57901052</guid>

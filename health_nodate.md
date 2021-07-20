@@ -36,7 +36,7 @@
 36. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 37. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 38. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-39. [Covid: Which children can have the vaccine in the UK?](https://www.bbc.co.uk/news/health-57892100) - Hundreds of thousands of under-18s will now be offered the jab in the UK - but not all. Here's why.
+39. [Covid: Can children have the Covid vaccine in the UK?](https://www.bbc.co.uk/news/health-57892100) - Hundreds of thousands of under-18s will now be offered the jab in the UK - but not all. Here's why.
 40. [Shielders 'feeling abandoned' as coronavirus restrictions lifted](https://www.bbc.co.uk/news/uk-57894885) - Three people who were told to shield during lockdown share their concerns as rules are eased in England.
 41. [Nadhim Zahawi: At-risk children aged 12-17 to be offered vaccine](https://www.bbc.co.uk/news/uk-57894636) - The vaccines minister says children with health conditions will be offered the Pfizer-BioNTech vaccine
 42. [Covid patients urge public to 'be careful' as restrictions ease](https://www.bbc.co.uk/news/uk-57894916) - As most coronavrirus restrictions in England are lifted, Covid patients urge the public to take care.
