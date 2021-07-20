@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 10:56:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 11:10:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -91,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57887600</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57887600</guid>
             <pubDate>Mon, 19 Jul 2021 14:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bike carriages rolled out on West Highland rail line]]></title>
-            <description><![CDATA[The specialist Highland Explorer train carriages have designated spaces for up to 20 bicycles.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57884961</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57884961</guid>
-            <pubDate>Mon, 19 Jul 2021 08:56:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Mountain bothies remain closed at level zero]]></title>
@@ -324,11 +317,11 @@
             <pubDate>Tue, 20 Jul 2021 06:20:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish Gossip: Celtic, Griffiths, St Johnstone, Rooney, Rangers, Hearts]]></title>
-            <description><![CDATA[New Celtic captain warns striker Leigh Griffiths as Rotherham make renewed attempt to sign Shaun Rooney.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57891060</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57891060</guid>
-            <pubDate>Tue, 20 Jul 2021 07:02:55 GMT</pubDate>
+            <title><![CDATA[SWPL: Glasgow City host Motherwell on opening day, Celtic away to Aberdeen]]></title>
+            <description><![CDATA[Glasgow City will begin their 14th successive top-flight title defence at home to Motherwell on 5 September.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57891057</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57891057</guid>
+            <pubDate>Tue, 20 Jul 2021 11:06:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

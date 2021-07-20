@@ -1,6 +1,6 @@
 1. [Covid-19: Top scientist says 18% of adults still unvaccinated](https://www.bbc.co.uk/news/uk-northern-ireland-57895246) - Prof Ian Young says he is worried about the rise in cases and hospital admissions in Northern Ireland.
 2. [Scarva: Teenager dies after entering lake in County Down village](https://www.bbc.co.uk/news/uk-northern-ireland-57896019) - The incident happened in the village of Scarva at about 15:30 on Monday afternoon.
-3. [NI Assembly to debate Troubles legacy proposals](https://www.bbc.co.uk/news/uk-northern-ireland-57892882) - The assembly recall follows government plans to end prosecutions for Troubles-related offences.
+3. [NI Assembly debates Troubles legacy proposals](https://www.bbc.co.uk/news/uk-northern-ireland-57892882) - The assembly recall follows UK government plans to end prosecutions for Troubles-related offences.
 4. [Jordanstown: Motorcyclist dies after Shore Road crash](https://www.bbc.co.uk/news/uk-northern-ireland-57899521) - No other vehicle was involved in the crash on the Shore Road on Monday night, police say.
 5. [Belfast boxer to carry Irish flag at Olympics](https://www.bbc.co.uk/sport/olympics/57898847) - Belfast boxer Brendan Irvine and team-mate Kellie Harrington will carry the Irish flag at the Tokyo Olympics opening ceremony on Friday.
 6. [Coronavirus: NI businesses hit by app 'pingdemic'](https://www.bbc.co.uk/news/uk-northern-ireland-57899897) - Businesses call for changes to the StopCovidNI app as they lose trade due to self-isolation rules.

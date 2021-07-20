@@ -1,4 +1,4 @@
-1. [China says Microsoft hacking accusations fabricated by US and allies](https://www.bbc.co.uk/news/world-asia-china-57898147) - China calls accusations from Western countries including the US and UK "groundless and irresponsible".
+1. [China says Microsoft hacking accusations fabricated by US and allies](https://www.bbc.co.uk/news/world-asia-china-57898147) - There are concerns that the attack on the tech giant suggests China's cyber-behaviour is escalating.
 2. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
 3. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers appeared frightened and unsure what to do when they heard multiple explosions.
 4. [Singapore shocked by killing of boy, 13, at school](https://www.bbc.co.uk/news/world-asia-57897762) - A 16-year-old student is charged with murder after a body is found in a bathroom and an axe seized.
