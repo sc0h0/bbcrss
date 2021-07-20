@@ -1,6 +1,6 @@
 1. [Covid: Boris Johnson resisted autumn lockdown as only over-80s dying - Dominic Cummings](https://www.bbc.co.uk/news/uk-politics-57854811) - Boris Johnson also questioned whether the NHS would be overwhelmed, his former aide tells the BBC.
 2. [David Cameron lacked judgement over Greensill, MPs' report says](https://www.bbc.co.uk/news/business-57889549) - David Cameron showed a lack of judgement when he informally lobbied on behalf of Greensill Capital, MPs say.
-3. [National Archive: Tony Blair did not approve Irish Famine statement, files show](https://www.bbc.co.uk/news/uk-57894210) - Files show the former PM's private secretary wrote the message and could not reach him for approval.
+3. [Tony Blair's Irish Famine message not signed off by him, archive papers show](https://www.bbc.co.uk/news/uk-57894210) - Files show the former PM's private secretary wrote the statement but could not reach him for approval.
 4. [Plans to modernise power of attorney system](https://www.bbc.co.uk/news/uk-57897609) - People can put someone in charge of their affairs but the process is criticised for being slow to enact.
 5. [Covid: Lifting all restrictions at once is reckless, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57886976) - Boris Johnson has urged caution as most legal rules on social contact are lifted in England.
 6. [Covid-19: PM and chancellor self-isolate after rapid U-turn](https://www.bbc.co.uk/news/uk-57879730) - It comes after anger over "VIP testing" allowing them to work following Sajid Javid's positive test.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 05:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 06:10:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,18 @@
             <pubDate>Tue, 20 Jul 2021 05:46:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[National Archives: Home Office advised against Queen opening Welsh Assembly]]></title>
+            <title><![CDATA[Home Office advised against Queen opening Welsh Assembly]]></title>
             <description><![CDATA[An official said in 1997 it would not be appropriate for the monarch to open Wales' new institution.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-57889463</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57889463</guid>
             <pubDate>Tue, 20 Jul 2021 05:00:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Duke of Cambridge meets Welsh boxer Lauren Price]]></title>
+            <description><![CDATA[The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57876234</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57876234</guid>
+            <pubDate>Tue, 20 Jul 2021 05:06:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Will different Wales mask rules confuse tourists?]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Mon, 19 Jul 2021 12:20:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wales and women's coach Warren Abrahams part company]]></title>
-            <description><![CDATA[Wales women's coach Warren Abrahams is leaving his role - less than nine months after being appointed.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57892272</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57892272</guid>
-            <pubDate>Mon, 19 Jul 2021 15:45:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rescuers find lost dog Ollie after swim off Porthcawl]]></title>
             <description><![CDATA[Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57880619</link>
@@ -142,13 +142,6 @@
             <pubDate>Thu, 15 Jul 2021 18:18:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price]]></title>
-            <description><![CDATA[The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57876234</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57876234</guid>
-            <pubDate>Tue, 20 Jul 2021 05:06:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Australia Cricket: Labuschagne targets T20 World Cup after Glamorgan stint]]></title>
             <description><![CDATA[Australia batsman Marnus Labuschagne hopes he has done enough to earn a place in the T20 World Cup during his Glamorgan stint.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57892149</link>
@@ -161,6 +154,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/57888115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57888115</guid>
             <pubDate>Mon, 19 Jul 2021 14:23:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales and women's coach Warren Abrahams part company]]></title>
+            <description><![CDATA[Wales women's coach Warren Abrahams is leaving his role - less than nine months after being appointed.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57892272</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57892272</guid>
+            <pubDate>Mon, 19 Jul 2021 15:45:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Football Association of Wales: Noel Mooney succeeds Jonathan Ford as chief executive]]></title>

@@ -1,5 +1,5 @@
-1. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia, the US, the UK and Europe fall on concerns that rising cases may slow a recovery.
-2. [Oregon Bootleg Fire: Evacuations as largest US fire burns 300,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.
+1. [Oregon Bootleg Fire: Evacuations as largest US fire burns 300,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.
+2. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia, the US, the UK and Europe fall on concerns that rising cases may slow a recovery.
 3. [Pedro Castillo declared president-elect of Peru](https://www.bbc.co.uk/news/world-latin-america-57897402) - The leftist candidate won the popular vote but had been accused of fraud by rival Keiko Fujimori.
 4. [Jeff Bezos to blast into space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - Billionaire Jeff Bezos will launch into space in the first crewed flight of his rocket ship.
 5. [Twitter suspends Marjorie Taylor Greene over 'misleadling' Covid posts](https://www.bbc.co.uk/news/world-us-canada-57897401) - Georgia Republican Marjorie Taylor Greene has been a vocal critic of vaccines and the use of masks.
