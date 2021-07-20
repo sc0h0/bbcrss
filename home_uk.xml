@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 19:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 19:24:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,13 +58,6 @@
             <pubDate>Tue, 20 Jul 2021 15:51:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Extreme heat warnings for UK to last until Friday]]></title>
-            <description><![CDATA[People have been warned about sunburn and heat exhaustion, with a high of 32.1C recorded at Heathrow.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57898718</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57898718</guid>
-            <pubDate>Tue, 20 Jul 2021 16:09:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[UK clashes with EU over Gibraltar's post-Brexit status]]></title>
             <description><![CDATA[Foreign Secretary Dominic Raab says a draft EU mandate undermines UK sovereignty over the territory.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57908376</link>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-57904042</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57904042</guid>
             <pubDate>Tue, 20 Jul 2021 15:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK and France agree deal to tackle rise in Channel crossings]]></title>
+            <description><![CDATA[France will double the number of police patrolling beaches, as record numbers cross the Channel.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57909188</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57909188</guid>
+            <pubDate>Tue, 20 Jul 2021 19:14:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Storms hit Essex and Cambridgeshire after hot spell]]></title>
@@ -121,7 +121,7 @@
             <pubDate>Mon, 19 Jul 2021 23:02:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo 2020: The hijabi referee making Olympic history]]></title>
+            <title><![CDATA[Tokyo 2020: The female referee making Olympic history]]></title>
             <description><![CDATA[The first Arab and African woman to referee 3x3 basketball at the Olympics shares how her Muslim faith has guided her career.]]></description>
             <link>https://www.bbc.co.uk/sport/africa/57899407</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/africa/57899407</guid>

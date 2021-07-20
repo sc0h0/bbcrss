@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 19:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 19:22:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Pegasus: French President Macron identified as spyware target]]></title>
+            <description><![CDATA[The president's phone number was found on a list of numbers that were potential phone hacking targets.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57907258</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907258</guid>
+            <pubDate>Tue, 20 Jul 2021 19:09:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In pictures: Germany grapples with flood aftermath]]></title>
             <description><![CDATA[A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.]]></description>
@@ -58,13 +65,6 @@
             <pubDate>Tue, 20 Jul 2021 07:01:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tony Blair's Irish Famine message not signed off by him, archive papers show]]></title>
-            <description><![CDATA[Files show the former PM's private secretary wrote the statement but could not reach him for approval.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57894210</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894210</guid>
-            <pubDate>Tue, 20 Jul 2021 06:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Anthony Joshua v Oleksandr Usyk confirmed for Tottenham on 25 September]]></title>
             <description><![CDATA[Anthony Joshua will defend his world heavyweight titles against Oleksandr Usyk at Tottenham Hotspur Stadium on 25 September.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/57907669</link>
@@ -86,11 +86,11 @@
             <pubDate>Mon, 19 Jul 2021 15:14:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pegasus: Spyware sold to governments 'targets activists']]></title>
-            <description><![CDATA[Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57881364</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57881364</guid>
-            <pubDate>Mon, 19 Jul 2021 13:14:44 GMT</pubDate>
+            <title><![CDATA[Tony Blair's Irish Famine message not signed off by him, archive papers show]]></title>
+            <description><![CDATA[Files show the former PM's private secretary wrote the statement but could not reach him for approval.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57894210</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894210</guid>
+            <pubDate>Tue, 20 Jul 2021 06:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beta coronavirus variant: What is the risk?]]></title>
