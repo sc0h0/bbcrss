@@ -9,7 +9,7 @@
 9. [Jonathan Taylor: Oil whistleblower arrives home from Croatia](https://www.bbc.co.uk/news/uk-england-hampshire-57886223) - Jonathan Taylor was stuck in Croatia for almost a year over bribery and corruption allegations.
 10. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
 11. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
-12. [Heatwaves and the human body](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
+12. [Heatwaves: What do they do to the body and who is at risk?](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
 13. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
 14. [Benjamin Jesty: The unsung hero of vaccination](https://www.bbc.co.uk/news/uk-england-dorset-57460445) - Edward Jenner is credited with inventing the vaccine but his method was pioneered by a Dorset farmer.
 15. [What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?](https://www.bbc.co.uk/news/explainers-56997931) - What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.

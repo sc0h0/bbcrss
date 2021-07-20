@@ -6,10 +6,10 @@
 6. [Mayhill: Claim authorities 'knew of stolen car danger before riot'](https://www.bbc.co.uk/news/uk-wales-57895356) - Local resident says he warned that stolen cars were being freewheeled down hill months before riot.
 7. [Man admits manslaughter of David Jones in Holyhead](https://www.bbc.co.uk/news/uk-wales-57899295) - David Jones died in hospital after he was assaulted on Anglesey in November.
 8. [Covid in Wales: Three deaths registered in latest week](https://www.bbc.co.uk/news/uk-wales-57900599) - Deaths from all causes were 15% above normal levels but those involving Covid remained the same.
-9. [Tory MP Rob Roberts recall petition move wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - MPs complaints watchdog "seriously concerned" out at move to subject disgraced MP to recall petition.
-10. [Farming in Wales: Deaths on farms more than double in a year](https://www.bbc.co.uk/news/uk-wales-57895357) - The Health and Safety Executive says its recent report was 'disappointing' and 'unacceptable'.
-11. [Covid in Wales: NHS pay petition gathers almost 800,000 names](https://www.bbc.co.uk/news/uk-wales-57899287) - Staff hailed as "heroes" during the pandemic deserve to be rewarded, says nurse who set up petition.
-12. [Home Office advised against Queen opening Welsh Assembly](https://www.bbc.co.uk/news/uk-wales-politics-57889463) - An official said in 1997 it would not be appropriate for the monarch to open Wales' new institution.
+9. [Rape: Handling of cases must change, says Wales' CPS boss](https://www.bbc.co.uk/news/uk-wales-57903909) - Wales' new chief crown prosecutor says work has started to improve the experience for victims.
+10. [Tory MP Rob Roberts recall petition move wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - MPs complaints watchdog "seriously concerned" out at move to subject disgraced MP to recall petition.
+11. [Farming in Wales: Deaths on farms more than double in a year](https://www.bbc.co.uk/news/uk-wales-57895357) - The Health and Safety Executive says its recent report was 'disappointing' and 'unacceptable'.
+12. [Covid in Wales: NHS pay petition gathers almost 800,000 names](https://www.bbc.co.uk/news/uk-wales-57899287) - Staff hailed as "heroes" during the pandemic deserve to be rewarded, says nurse who set up petition.
 13. [Barry cricket death: 'My friend was literally just dying there'](https://www.bbc.co.uk/news/uk-wales-57892928) - Tributes to 44-year-old father-of-three who died playing for his local cricket club.
 14. [Tokyo Olympics: Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price](https://www.bbc.co.uk/sport/av/olympics/57876234) - The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.
 15. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
@@ -23,6 +23,6 @@
 23. [Olivia Breen: World champion para-athlete left angry after official said her shorts were 'too revealing'](https://www.bbc.co.uk/sport/disability-sport/57887715) - Double world champion para-athlete Olivia Breen said she was left angry and speechless after being told to wear 'more appropriate' shorts.
 24. ['Gwres yn cynyddu'r straen' ar wasanaethau iechyd](https://www.bbc.co.uk/newyddion/57902996) - Mae rheolwyr yn apelio ar bobl i osgoi rhoi mwy o bwysau ar y gwasanaeth ambiwlans ac adrannau brys.
 25. [Pryder am effaith 'ddinistriol' gwersylla gwyllt ar natur](https://www.bbc.co.uk/newyddion/57905016) - Mae gwersylla gwyllt yn peryglu ecosystemau bregus Cymru, yn ôl yr Ymddiriedolaeth Genedlaethol.
-26. [Ymchwilio i ddefnydd o rym gan heddwas yn ystod arestiad](https://www.bbc.co.uk/newyddion/57906839) - Corff annibynnol yn ymchwilio i'r defnydd o rym gan heddwas yn ystod arestiad dyn yng Nghasnewydd.
+26. [Anafiadau difrifol wedi ymosodiad ym Mharc Bute, Caerdydd](https://www.bbc.co.uk/newyddion/57899874) - Cyngor Caerdydd yn ailddechrau cloi mynedfeydd i'r parc yn sgil dau ddigwyddiad "difrifol iawn".
 27. [Gareth Bonello yn plethu lleisiau Cymru ac India](https://www.bbc.co.uk/newyddion/57902854) - Khasi-Cymru Collective yw prosiect newydd y cerddor, sy'n cynnwys artistiaid o India
 28. [Prif hyfforddwyr yn gadael tîm rygbi Merched Cymru](https://www.bbc.co.uk/newyddion/57892737) - Warren Abrahams yn gadael ei swydd lai na naw mis ar ôl cael ei benodi.

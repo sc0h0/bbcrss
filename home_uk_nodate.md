@@ -7,8 +7,8 @@
 7. [Extreme heat warnings for UK to last until Friday](https://www.bbc.co.uk/news/uk-57898718) - People have been warned about sunburn and heat exhaustion, with a high of 32.1C recorded at Heathrow.
 8. [Nike trainer output at key factory hit by Covid outbreak](https://www.bbc.co.uk/news/business-57902093) - Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.
 9. [Women's state pension: Compensation closer for Waspi campaigners](https://www.bbc.co.uk/news/business-57900320) - The government was too slow to tell women they would be directly affected by the rising state pension age.
-10. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
-11. [British Horseracing Authority holds talks after slaughterhouse investigation](https://www.bbc.co.uk/news/uk-57902663) - The British Horseracing Authority meets welfare experts after a BBC film about slaughtered racehorses.
+10. [British Horseracing Authority holds talks after slaughterhouse investigation](https://www.bbc.co.uk/news/uk-57902663) - The British Horseracing Authority meets welfare experts after a BBC film about slaughtered racehorses.
+11. [Storms hit Essex and Cambridgeshire after hot spell](https://www.bbc.co.uk/news/uk-england-essex-57909228) - The Met Office has issued an amber warning for thunderstorms.
 12. [Vue cinema chain fined £750,000 over seat crush death](https://www.bbc.co.uk/news/uk-england-birmingham-57908134) - Ateeq Rafiq died after getting his head stuck under a motorised footrest while searching for keys.
 13. [Almost a quarter of England's pupils out of school](https://www.bbc.co.uk/news/education-57901993) - The "pingdemic" continues to affect schools and families with nearly 25% absent as the term ends.
 14. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
