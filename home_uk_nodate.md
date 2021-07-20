@@ -1,12 +1,12 @@
 1. [Covid-19: Crucial for pinged people to self-isolate - No 10](https://www.bbc.co.uk/news/uk-57902213) - Downing Street tries to clear up confusion after a minister says people can make an "informed decision".
 2. [Dominic Cummings: I discussed ousting PM after 2019 election landslide](https://www.bbc.co.uk/news/uk-politics-57880118) - Boris Johnson's former aide says Downing Street rifts developed within days of a landslide victory.
 3. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just over 10 minutes after launch.
-4. [Backlash as 'pinged' staff rules called unworkable](https://www.bbc.co.uk/news/business-57901500) - Exemptions will be "considered on a case-by-case basis", but firms warn time is not on their side.
+4. [Backlash as pinged staff rules called unworkable](https://www.bbc.co.uk/news/business-57901500) - Exemptions will be "considered on a case-by-case basis", but firms warn time is not on their side.
 5. [Vaccine proof plans considered for some sports events](https://www.bbc.co.uk/sport/57905459) - Fans may be required to show proof of full vaccination to attend sports venues with capacities of about 20,000 or more by the end of September.
 6. [Covid-19: 'Crucial' to self-isolate and Olympics cancellation 'was never an option'](https://www.bbc.co.uk/news/uk-57903798) - Five things you need to know about the coronavirus pandemic this Tuesday evening.
 7. [Extreme heat warnings for UK to last until Friday](https://www.bbc.co.uk/news/uk-57898718) - People have been warned about sunburn and heat exhaustion, with a high of 32.1C recorded at Heathrow.
 8. [UK clashes with EU over Gibraltar's post-Brexit status](https://www.bbc.co.uk/news/uk-politics-57908376) - Foreign Secretary Dominic Raab says a draft EU mandate undermines UK sovereignty over the territory.
-9. [British Horseracing Authority holds talks after slaughterhouse investigation](https://www.bbc.co.uk/news/uk-57902663) - The British Horseracing Authority meets welfare experts after a BBC film about slaughtered racehorses.
+9. [Horse-racing bosses condemn abattoir footage](https://www.bbc.co.uk/news/uk-57902663) - British and Irish authorities respond to allegations in a Panorama film about slaughtered racehorses.
 10. [Climate change: US pushes China to make faster carbon cuts](https://www.bbc.co.uk/news/science-environment-57904042) - US climate envoy John Kerry says help from China is needed to avoid a dangerous rise in heat.
 11. [Storms hit Essex and Cambridgeshire after hot spell](https://www.bbc.co.uk/news/uk-england-essex-57909228) - The Met Office has issued an amber warning for thunderstorms.
 12. [Welsh bar and restaurant shut due to 'unbearable' heat](https://www.bbc.co.uk/news/uk-wales-57899296) - A seaside resort restaurant and a village pub temporarily close in the extreme heat warning.
