@@ -26,7 +26,7 @@
 26. [Covid: What do over-18s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The vaccine rollout is now available for younger adults. What do they need to know about getting jabbed?
 27. [What are the India, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
 28. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
-29. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Experts think a limited group of children should be offered Covid jabs ahead of winter - says Vaccines Minister Nadhim Zahawi.
+29. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Experts think a limited group of children should be offered Covid jabs ahead of winter.
 30. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Busting myths and explaining the facts around vaccines.
 31. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864) - What is it like to have the coronavirus, how will it affect you and how is it treated?
 32. [Support bubbles: How do they work and who is in yours?](https://www.bbc.co.uk/news/health-52637354) - Some people across the UK have been able to form "support bubbles" or "extended households".

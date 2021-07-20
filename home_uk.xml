@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 13:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 14:01:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Tue, 20 Jul 2021 11:02:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nike halts footwear production due to Covid outbreak]]></title>
+            <description><![CDATA[Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57902093</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57902093</guid>
+            <pubDate>Tue, 20 Jul 2021 13:11:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Women's state pension: Compensation closer for Waspi campaigners]]></title>
             <description><![CDATA[The government was too slow to tell women they would be directly affected by the rising state pension age.]]></description>
             <link>https://www.bbc.co.uk/news/business-57900320</link>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-57897601</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57897601</guid>
             <pubDate>Tue, 20 Jul 2021 12:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nike halts footwear production due to Covid outbreak]]></title>
-            <description><![CDATA[Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57902093</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57902093</guid>
-            <pubDate>Tue, 20 Jul 2021 13:11:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Premier League footballer held over child sex allegations]]></title>
@@ -213,7 +213,7 @@
         </item>
         <item>
             <title><![CDATA[Covid: Ivermectin, milk among Indonesia's unproven cures]]></title>
-            <description><![CDATA[As Indonesia sees a surge fueled by the Delta variant, misleading health claims are spreading.]]></description>
+            <description><![CDATA[As Indonesia sees a surge fuelled by the Delta variant, misleading health claims are spreading.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-pacific-57838033</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-pacific-57838033</guid>
             <pubDate>Mon, 19 Jul 2021 23:14:48 GMT</pubDate>

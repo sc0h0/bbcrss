@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 13:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 13:52:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,20 @@
             <pubDate>Tue, 20 Jul 2021 08:11:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Self-isolation 'crippling' Cleveland Police]]></title>
+            <description><![CDATA[Cleveland Police is close to minimum levels of staff, the area's police federation chairman says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-57899923</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-57899923</guid>
+            <pubDate>Tue, 20 Jul 2021 12:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Royal Blackburn Hospital facing huge pressures]]></title>
+            <description><![CDATA[Royal Blackburn Hospital staff say they are feeling the pressure due to a rise in Covid cases.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57900021</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57900021</guid>
+            <pubDate>Tue, 20 Jul 2021 12:48:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fleetwood sea death: Body of missing man found on beach]]></title>
             <description><![CDATA[The body was found about six hours after a man was seen entering the sea in Fleetwood.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-57901973</link>
@@ -44,32 +58,18 @@
             <pubDate>Tue, 20 Jul 2021 09:19:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Record 430 migrants cross English Channel in single day]]></title>
-            <description><![CDATA[Some 50 people, including women and young children, were seen landing on a Kent beach in a dinghy.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57897601</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57897601</guid>
-            <pubDate>Tue, 20 Jul 2021 12:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Royal Blackburn Hospital facing huge pressures]]></title>
-            <description><![CDATA[Royal Blackburn Hospital staff say they are feeling the pressure due to a rise in Covid cases.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57900021</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57900021</guid>
-            <pubDate>Tue, 20 Jul 2021 12:48:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paddleboarders rescue newborn calf from Somerset river]]></title>
-            <description><![CDATA[The bull has been named Splash and is back with his mother on dry land.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-57900708</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57900708</guid>
-            <pubDate>Tue, 20 Jul 2021 12:00:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Man stuck in M4 jam plays football on carriageway]]></title>
             <description><![CDATA[There was a three-hour tailback on the M4 in Wiltshire after a lorry caught fire.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57900658</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57900658</guid>
             <pubDate>Tue, 20 Jul 2021 09:48:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Record 430 migrants cross English Channel in single day]]></title>
+            <description><![CDATA[Some 50 people, including women and young children, were seen landing on a Kent beach in a dinghy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57897601</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57897601</guid>
+            <pubDate>Tue, 20 Jul 2021 12:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daniel Hay: Ex-patient calls for under-review surgeon to be struck off]]></title>
@@ -93,11 +93,11 @@
             <pubDate>Tue, 20 Jul 2021 11:03:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Queen's Royal Swan Uppers take to the Thames]]></title>
-            <description><![CDATA[The annual census of the swan population on the River Thames is under way.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-berkshire-57898625</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-berkshire-57898625</guid>
-            <pubDate>Tue, 20 Jul 2021 10:48:19 GMT</pubDate>
+            <title><![CDATA[Paddleboarders rescue newborn calf from Somerset river]]></title>
+            <description><![CDATA[The bull has been named Splash and is back with his mother on dry land.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-57900708</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57900708</guid>
+            <pubDate>Tue, 20 Jul 2021 12:00:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What easing restrictions mean to people in a Witham estate]]></title>
@@ -203,6 +203,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57900900</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57900900</guid>
             <pubDate>Tue, 20 Jul 2021 12:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Queen's Royal Swan Uppers take to the Thames]]></title>
+            <description><![CDATA[The annual census of the swan population on the River Thames is under way.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-berkshire-57898625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-berkshire-57898625</guid>
+            <pubDate>Tue, 20 Jul 2021 10:48:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Which children are being vaccinated and why?]]></title>
