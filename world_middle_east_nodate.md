@@ -1,5 +1,5 @@
-1. [Iraq attack: Bombing at Baghdad market kills Eid shoppers](https://www.bbc.co.uk/news/world-middle-east-57895957) - At least 30 people are killed in an attack on a busy market in Iraq's capital, security sources say.
-2. [Ben & Jerry's to stop sales in occupied West Bank](https://www.bbc.co.uk/news/business-57893161) - The ice-cream maker says it is “inconsistent with our values” to sell products in the region.
+1. [Israel PM warns Ben & Jerry's owner Unilever of consequences over sales ban](https://www.bbc.co.uk/news/world-middle-east-57902243) - The ice cream maker's parent company Unilever is told "strong action" will be taken against boycotts.
+2. [Iraq attack: Bombing at Baghdad market kills Eid shoppers](https://www.bbc.co.uk/news/world-middle-east-57895957) - At least 30 people are killed in an attack on a busy market in Iraq's capital, security sources say.
 3. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
 4. [Esraa Abdel Fattah: Egyptian activist released from prison](https://www.bbc.co.uk/news/world-middle-east-57882069) - Esraa Abdel Fattah earned the moniker "Facebook Girl" for her role in the 2011 revolution.
 5. [Oil producing nations agree deal to control prices](https://www.bbc.co.uk/news/business-57882449) - The Opec cartel and Russia will boost supply which should see petrol prices at the pumps come down.

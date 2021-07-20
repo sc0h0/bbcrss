@@ -1,4 +1,4 @@
-1. [Almost a quarter of England's pupils out of school](https://www.bbc.co.uk/news/education-57901993) - Tue, 20 Jul 2021 12:20:24 GMT - The "pingdemic" continues to affect schools and families with nearly 25% absent as the term ends.
+1. [Almost a quarter of England's pupils out of school](https://www.bbc.co.uk/news/education-57901993) - Tue, 20 Jul 2021 13:02:22 GMT - The "pingdemic" continues to affect schools and families with nearly 25% absent as the term ends.
 2. [Covid: Home-education numbers rise by 75%](https://www.bbc.co.uk/news/education-57255380) - Sun, 18 Jul 2021 23:13:13 GMT - "Covid anxiety" is among the explanations for the increasing popularity of out-of-school teaching.
 3. [Covid: Hundreds of thousands of under-18s to get vaccine](https://www.bbc.co.uk/news/health-57885845) - Mon, 19 Jul 2021 15:42:08 GMT - The vaccines minister says children at high risk from Covid will be offered the jab.
 4. [Student watchdog concerned about mental health help](https://www.bbc.co.uk/news/education-57848786) - Thu, 15 Jul 2021 15:30:05 GMT - A survey finds more than half of UK students feel universities and colleges have not supported them enough.
