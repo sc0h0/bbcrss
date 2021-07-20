@@ -1,15 +1,15 @@
-1. [Hot weather: Welsh outlets shut due to 'unbearable' temperatures](https://www.bbc.co.uk/news/uk-wales-57899296) - A seaside resort restaurant and a village pub temporarily close in the extreme heat warning.
+1. [Heatwave: Wales' temperatures could peak as holiday getaway begins](https://www.bbc.co.uk/news/uk-wales-57892927) - About 11% of people planning a UK holiday intend to do so in Wales, one survey suggests.
 2. [Heatwave: People 'walking into A&E with life-threatening conditions'](https://www.bbc.co.uk/news/uk-wales-57907214) - One hospital boss says people with life-threatening conditions are walking into A&E.
 3. [Watchdog to probe Gwent Police officer's 'use of force' in video](https://www.bbc.co.uk/news/uk-wales-57896406) - The video was shared by Black Lives Matter groups, who claim the officer used excessive force.
-4. [Cardiff man jumped from car after argument, inquest told](https://www.bbc.co.uk/news/uk-wales-57906114) - James Davies argued with his girlfriend before his death, a coroner's court hears.
-5. [Cardiff: Bute Park attack leaves man with life-threatening injuries](https://www.bbc.co.uk/news/uk-wales-57900310) - "To subject another person to violence in this way is intolerable," says senior police officer.
-6. [Part of M4 near Cardiff shut after lorry crash](https://www.bbc.co.uk/news/uk-wales-57903438) - One person is taken to hospital after a motorway crash in Cardiff.
-7. [Mayhill: Claim authorities 'knew of stolen car danger before riot'](https://www.bbc.co.uk/news/uk-wales-57895356) - Local resident says he warned that stolen cars were being freewheeled down hill months before riot.
-8. [Man admits manslaughter of David Jones in Holyhead](https://www.bbc.co.uk/news/uk-wales-57899295) - David Jones died in hospital after he was assaulted on Anglesey in November.
-9. [Covid in Wales: Three deaths registered in latest week](https://www.bbc.co.uk/news/uk-wales-57900599) - Deaths from all causes were 15% above normal levels but those involving Covid remained the same.
-10. [Rape: Handling of cases must change, says Wales' CPS boss](https://www.bbc.co.uk/news/uk-wales-57903909) - Wales' new chief crown prosecutor says work has started to improve the experience for victims.
-11. [Recall petition for MP Rob Roberts would be wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - The MPs complaints watchdog says it is "seriously concerned" about the proposal.
-12. [Farming in Wales: Deaths on farms more than double in a year](https://www.bbc.co.uk/news/uk-wales-57895357) - The Health and Safety Executive says its recent report was 'disappointing' and 'unacceptable'.
+4. [Hot weather: Welsh outlets shut due to 'unbearable' temperatures](https://www.bbc.co.uk/news/uk-wales-57899296) - A seaside resort restaurant and a village pub temporarily close in the extreme heat warning.
+5. [Cardiff man jumped from car after argument, inquest told](https://www.bbc.co.uk/news/uk-wales-57906114) - James Davies argued with his girlfriend before his death, a coroner's court hears.
+6. [Cardiff: Bute Park attack leaves man with life-threatening injuries](https://www.bbc.co.uk/news/uk-wales-57900310) - "To subject another person to violence in this way is intolerable," says senior police officer.
+7. [Part of M4 near Cardiff shut after lorry crash](https://www.bbc.co.uk/news/uk-wales-57903438) - One person is taken to hospital after a motorway crash in Cardiff.
+8. [Mayhill: Claim authorities 'knew of stolen car danger before riot'](https://www.bbc.co.uk/news/uk-wales-57895356) - Local resident says he warned that stolen cars were being freewheeled down hill months before riot.
+9. [Man admits manslaughter of David Jones in Holyhead](https://www.bbc.co.uk/news/uk-wales-57899295) - David Jones died in hospital after he was assaulted on Anglesey in November.
+10. [Covid in Wales: Three deaths registered in latest week](https://www.bbc.co.uk/news/uk-wales-57900599) - Deaths from all causes were 15% above normal levels but those involving Covid remained the same.
+11. [Rape: Handling of cases must change, says Wales' CPS boss](https://www.bbc.co.uk/news/uk-wales-57903909) - Wales' new chief crown prosecutor says work has started to improve the experience for victims.
+12. [Recall petition for MP Rob Roberts would be wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - The MPs complaints watchdog says it is "seriously concerned" about the proposal.
 13. [Heatwave: Hot weather closes Pontyclun pub](https://www.bbc.co.uk/news/uk-wales-57908735) - Landlord Simon Cole temporarily shuts the Pipeworks Bar after the mercury hit 30.9C.
 14. [Barry cricket death: 'My friend was literally just dying there'](https://www.bbc.co.uk/news/uk-wales-57892928) - Tributes to 44-year-old father-of-three who died playing for his local cricket club.
 15. [Tokyo Olympics: Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price](https://www.bbc.co.uk/sport/av/olympics/57876234) - The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.
