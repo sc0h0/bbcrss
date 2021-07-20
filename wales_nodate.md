@@ -5,7 +5,7 @@
 5. [Mayhill: Claim authorities 'knew of stolen car danger before riot'](https://www.bbc.co.uk/news/uk-wales-57895356) - Local resident says he warned that stolen cars were being freewheeled down hill months before riot.
 6. [Man admits manslaughter of David Jones in Holyhead](https://www.bbc.co.uk/news/uk-wales-57899295) - David Jones died in hospital after he was assaulted on Anglesey in November.
 7. [Covid in Wales: Three deaths registered in latest week](https://www.bbc.co.uk/news/uk-wales-57900599) - Deaths from all causes were 15% above normal levels but those involving Covid remained the same.
-8. [Tory MP Rob Roberts recall move wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - MPs complaints watchdog "seriously concerned" out at move to subject disgraced MP to recall petition.
+8. [Tory MP Rob Roberts recall petition move wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - MPs complaints watchdog "seriously concerned" out at move to subject disgraced MP to recall petition.
 9. [Farming in Wales: Deaths on farms more than double in a year](https://www.bbc.co.uk/news/uk-wales-57895357) - The Health and Safety Executive says its recent report was 'disappointing' and 'unacceptable'.
 10. [Covid in Wales: NHS pay petition gathers almost 800,000 names](https://www.bbc.co.uk/news/uk-wales-57899287) - Staff hailed as "heroes" during the pandemic deserve to be rewarded, says nurse who set up petition.
 11. [Home Office advised against Queen opening Welsh Assembly](https://www.bbc.co.uk/news/uk-wales-politics-57889463) - An official said in 1997 it would not be appropriate for the monarch to open Wales' new institution.

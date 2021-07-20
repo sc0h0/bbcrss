@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 15:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 15:59:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-57902213</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57902213</guid>
             <pubDate>Tue, 20 Jul 2021 15:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vue cinema chain fined £750,000 over seat crush death]]></title>
+            <description><![CDATA[Ateeq Rafiq died after getting his head stuck under a motorised footrest while searching for keys.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57908134</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57908134</guid>
+            <pubDate>Tue, 20 Jul 2021 15:53:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Premier League player held over child sex allegations]]></title>
@@ -58,13 +65,6 @@
             <pubDate>Tue, 20 Jul 2021 14:12:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man stuck in M4 jam plays football on carriageway]]></title>
-            <description><![CDATA[There was a three-hour tailback on the M4 in Wiltshire after a lorry caught fire.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57900658</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57900658</guid>
-            <pubDate>Tue, 20 Jul 2021 09:48:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Self-isolation 'crippling' Cleveland Police]]></title>
             <description><![CDATA[Cleveland Police is close to minimum levels of staff, the area's police federation chairman says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tees-57899923</link>
@@ -93,11 +93,11 @@
             <pubDate>Tue, 20 Jul 2021 10:48:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paddleboarders rescue newborn calf from Somerset river]]></title>
-            <description><![CDATA[The bull has been named Splash and is back with his mother on dry land.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-57900708</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57900708</guid>
-            <pubDate>Tue, 20 Jul 2021 12:00:14 GMT</pubDate>
+            <title><![CDATA[Man stuck in M4 jam plays football on carriageway]]></title>
+            <description><![CDATA[There was a three-hour tailback on the M4 in Wiltshire after a lorry caught fire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57900658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57900658</guid>
+            <pubDate>Tue, 20 Jul 2021 09:48:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What easing restrictions mean to people in a Witham estate]]></title>
@@ -196,6 +196,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57893076</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57893076</guid>
             <pubDate>Tue, 20 Jul 2021 08:46:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paddleboarders rescue newborn calf from Somerset river]]></title>
+            <description><![CDATA[The bull has been named Splash and is back with his mother on dry land.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-57900708</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57900708</guid>
+            <pubDate>Tue, 20 Jul 2021 12:00:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Six the Musical at Hull New Theatre cancelled]]></title>

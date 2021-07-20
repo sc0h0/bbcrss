@@ -2,7 +2,7 @@
 2. [Nike trainer output at key factory hit by Covid outbreak](https://www.bbc.co.uk/news/business-57902093) - Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.
 3. [Kim Hong-bin: South Korean climber missing after fall in Pakistan](https://www.bbc.co.uk/news/world-asia-57898987) - Kim Hong-bin, who has no fingers, is thought to have fallen into a crevasse on a descent in Pakistan.
 4. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
-5. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers appeared frightened and unsure what to do when they heard multiple explosions.
+5. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
 6. [Singapore shocked by killing of boy, 13, at school](https://www.bbc.co.uk/news/world-asia-57897762) - A 16-year-old student is charged with murder after a body is found in a bathroom and an axe seized.
 7. [Bitcoin mining machines steamrolled by Malaysia police](https://www.bbc.co.uk/news/business-57897444) - Officers had seized more than 1,000 Bitcoin mining units allegedly powered by stolen electricity.
 8. [Tokyo Olympics: Composer Keigo Oyamada resigns over bullying at school](https://www.bbc.co.uk/news/world-asia-57891364) - Keigo Oyamada resigned after it came out that he bullied disabled classmates and boasted about it.
