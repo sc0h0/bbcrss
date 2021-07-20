@@ -1,4 +1,4 @@
-1. [Cinderella: Andrew Lloyd Webber says theatre is on its knees due to Covid rules](https://www.bbc.co.uk/news/entertainment-arts-57885964) - The first two nights of the West End show are cancelled due to Covid-19 self-isolation measures.
+1. [Cinderella: Andrew Lloyd Webber says theatre is on its knees due to Covid rules](https://www.bbc.co.uk/news/entertainment-arts-57885964) - The first two nights of his new West End show are cancelled due to Covid-19 self-isolation measures.
 2. [Space Jam: LeBron James sequel slam dunks Black Widow at box office](https://www.bbc.co.uk/news/entertainment-arts-57886661) - LeBron James' basketball sequel wins out as Marvel's blockbuster falters amid streaming tensions.
 3. [Ed Sheeran to give free concert to 700 fans in Coventry](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57893959) - The gig in August marks the "grand opening" of the HMV Empire which moved to a new site in Coventry.
 4. [Guto Harri quits GB News over taking the knee row](https://www.bbc.co.uk/news/entertainment-arts-57885955) - The journalist was suspended for a gesture made during a chat about the abuse of black footballers.
