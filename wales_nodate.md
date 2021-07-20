@@ -5,11 +5,11 @@
 5. [Mayhill: Claim authorities 'knew of stolen car danger before riot'](https://www.bbc.co.uk/news/uk-wales-57895356) - Local resident says he warned that stolen cars were being freewheeled down hill months before riot.
 6. [Man admits manslaughter of David Jones in Holyhead](https://www.bbc.co.uk/news/uk-wales-57899295) - David Jones died in hospital after he was assaulted on Anglesey in November.
 7. [Covid in Wales: Three deaths registered in latest week](https://www.bbc.co.uk/news/uk-wales-57900599) - Deaths from all causes were 15% above normal levels but those involving Covid remained the same.
-8. [Farming in Wales: Deaths on farms more than double in a year](https://www.bbc.co.uk/news/uk-wales-57895357) - The Health and Safety Executive says its recent report was 'disappointing' and 'unacceptable'.
-9. [Covid in Wales: NHS pay petition gathers almost 800,000 names](https://www.bbc.co.uk/news/uk-wales-57899287) - Staff hailed as "heroes" during the pandemic deserve to be rewarded, says nurse who set up petition.
-10. [Home Office advised against Queen opening Welsh Assembly](https://www.bbc.co.uk/news/uk-wales-politics-57889463) - An official said in 1997 it would not be appropriate for the monarch to open Wales' new institution.
-11. [Duke of Cambridge meets Welsh boxer Lauren Price](https://www.bbc.co.uk/sport/av/olympics/57876234) - The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.
-12. [Covid: Will different Wales mask rules confuse tourists?](https://www.bbc.co.uk/news/uk-wales-57894111) - As the sun beams down and tourists flock to Welsh resorts, are people ready for differing rules?
+8. [Tory MP Rob Roberts recall move wrong, says watchdog](https://www.bbc.co.uk/news/uk-wales-politics-57900798) - MPs complaints watchdog "seriously concerned" out at move to subject disgraced MP to recall petition.
+9. [Farming in Wales: Deaths on farms more than double in a year](https://www.bbc.co.uk/news/uk-wales-57895357) - The Health and Safety Executive says its recent report was 'disappointing' and 'unacceptable'.
+10. [Covid in Wales: NHS pay petition gathers almost 800,000 names](https://www.bbc.co.uk/news/uk-wales-57899287) - Staff hailed as "heroes" during the pandemic deserve to be rewarded, says nurse who set up petition.
+11. [Home Office advised against Queen opening Welsh Assembly](https://www.bbc.co.uk/news/uk-wales-politics-57889463) - An official said in 1997 it would not be appropriate for the monarch to open Wales' new institution.
+12. [Duke of Cambridge meets Welsh boxer Lauren Price](https://www.bbc.co.uk/sport/av/olympics/57876234) - The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.
 13. [Barry cricket death: 'My friend was literally just dying there'](https://www.bbc.co.uk/news/uk-wales-57892928) - Tributes to 44-year-old father-of-three who died playing for his local cricket club.
 14. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
 15. [Covid: Pontypool shoppers want to 'revive' town centre](https://www.bbc.co.uk/news/uk-wales-57870128) - Once a major city centre, Pontypool town like many other places has seen shops close due to Covid.
@@ -21,8 +21,8 @@
 21. [South Africa v British and Irish Lions: All three Tests set for Cape Town](https://www.bbc.co.uk/sport/rugby-union/57905260) - All three Tests between South Africa and the British and Irish Lions will now be staged in Cape Town because of the Covid-19 pandemic.
 22. [Wayne Hennessey: Burnley sign Wales goalkeeper on two-year deal](https://www.bbc.co.uk/sport/football/57902083) - Burnley sign Wales goalkeeper Wayne Hennessey on a two-year contract after his Crystal Palace exit.
 23. [Olivia Breen: World champion para-athlete left angry after official said her shorts were 'too revealing'](https://www.bbc.co.uk/sport/disability-sport/57887715) - Double world champion para-athlete Olivia Breen said she was left angry and speechless after being told to wear 'more appropriate' shorts.
-24. [Anafiadau difrifol wedi ymosodiad ym Mharc Bute, Caerdydd](https://www.bbc.co.uk/newyddion/57899874) - Mae dyn yn cael triniaeth am anafiadau difrifol iawn wedi'r ymosodiad yn oriau mân fore Mawrth.
+24. [Pryder am effaith 'ddinistriol' gwersylla gwyllt ar natur](https://www.bbc.co.uk/newyddion/57905016) - Mae gwersylla gwyllt yn peryglu ecosystemau bregus Cymru, yn ôl yr Ymddiriedolaeth Genedlaethol.
 25. [Rhybudd oren cyntaf am wres eithafol i rannau o Gymru](https://www.bbc.co.uk/newyddion/57889724) - Swyddfa Dywydd wedi cyhoeddi rhybudd am wres eithafol am y tro cyntaf yn y DU, a fydd yn effeithio ar Gymru.
-26. [Pryder am effaith 'ddinistriol' gwersylla gwyllt ar natur](https://www.bbc.co.uk/newyddion/57905016) - Mae gwersylla gwyllt yn peryglu ecosystemau bregus Cymru, yn ôl yr Ymddiriedolaeth Genedlaethol.
-27. [Y sialens o bortreadu Grav ar y sgrîn](https://www.bbc.co.uk/newyddion/57869157) - Yr actor Gareth John Bale sy'n sôn am y sialens o bortreadu Ray Gravell ar gyfer y sgrîn
+26. [Anafiadau difrifol wedi ymosodiad ym Mharc Bute, Caerdydd](https://www.bbc.co.uk/newyddion/57899874) - Mae dyn yn cael triniaeth am anafiadau difrifol iawn wedi'r ymosodiad yn oriau mân fore Mawrth.
+27. [Gareth Bonello yn plethu lleisiau Cymru ac India](https://www.bbc.co.uk/newyddion/57902854) - Khasi-Cymru Collective yw prosiect newydd y cerddor, sy'n cynnwys artistiaid o India
 28. [Prif hyfforddwyr yn gadael tîm rygbi Merched Cymru](https://www.bbc.co.uk/newyddion/57892737) - Warren Abrahams yn gadael ei swydd lai na naw mis ar ôl cael ei benodi.
