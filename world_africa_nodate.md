@@ -1,6 +1,6 @@
 1. [Nigeria fighter plane shot down by bandits - military](https://www.bbc.co.uk/news/world-africa-57893662) - The pilot survives by ejecting and hiding with local residents, before rejoining his comrades.
-2. [Tokyo Olympics: Zambia's Copper Queens out to shine despite dented preparations](https://www.bbc.co.uk/sport/africa/57888257) - Zambia's Copper Queens are aiming to continue defying the odds as they represent Africa in women's football at the Tokyo Olympics.
-3. [Gay rugby player will not be deported to Kenya](https://www.bbc.co.uk/news/uk-england-bristol-57894380) - Ken Macharia feared for his safety in Kenya, where homosexuality is illegal.
+2. [Gay rugby player will not be deported to Kenya](https://www.bbc.co.uk/news/uk-england-bristol-57894380) - Ken Macharia feared for his safety in Kenya, where homosexuality is illegal.
+3. [Tokyo Olympics: Zambia's Copper Queens out to shine despite dented preparations](https://www.bbc.co.uk/sport/africa/57888257) - Zambia's Copper Queens are aiming to continue defying the odds as they represent Africa in women's football at the Tokyo Olympics.
 4. [Morocco and Rwanda used Israeli spyware - leaks](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
 5. [Nigeria's security crises - five different threats](https://www.bbc.co.uk/news/world-africa-57860993) - Almost every part of Nigeria is facing a security crisis - from kidnapping to extremist insurgencies.
 6. [South Africa Zuma riots: What's behind the violence and looting?](https://www.bbc.co.uk/news/world-africa-57860998) - Some analysts say the violence wasn't spontaneous anger but a deliberate strategy of sabotage.

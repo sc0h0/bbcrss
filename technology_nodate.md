@@ -1,4 +1,4 @@
-1. [Covid: Will lockdowm change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
+1. [Covid: Will lockdown change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
 2. [Microsoft: Chinese authorities slam 'groundless' hacking claims](https://www.bbc.co.uk/news/world-asia-china-57898147) - A group of Western countries had accused China of carrying out a major cyber-attack on the tech giant.
 3. [Pegasus: Spyware sold to governments 'targets activists'](https://www.bbc.co.uk/news/technology-57881364) - Israeli tech firm NSO denies media reports that its software has been sold to authoritarian regimes.
 4. [Writing fake online reviews could be made illegal](https://www.bbc.co.uk/news/business-57887035) - A plan to crack down on online rip-offs has been outlined by the government.
