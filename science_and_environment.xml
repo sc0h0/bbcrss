@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 11:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jul 2021 11:53:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-57893385</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57893385</guid>
             <pubDate>Mon, 19 Jul 2021 16:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First space tourist Dennis Tito: 'I was euphoric']]></title>
+            <description><![CDATA[Dennis Tito paid $20 million to travel to the International Space Station in 2001.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57891867</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57891867</guid>
+            <pubDate>Mon, 19 Jul 2021 23:02:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hubble space telescope's function is restored]]></title>
@@ -79,6 +86,13 @@
             <pubDate>Sat, 17 Jul 2021 00:25:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[National Food Strategy: Tax sugar and salt and prescribe veg, report says]]></title>
+            <description><![CDATA[Boris Johnson says he will consider the proposal, but finds the idea of extra taxes on people unattractive.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57838103</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57838103</guid>
+            <pubDate>Thu, 15 Jul 2021 13:17:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate change: Science failed to predict flood and heat intensity]]></title>
             <description><![CDATA[Scientists want a super-computer powerful enough to accurately project the most damaging extremes.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57863205</link>
@@ -93,11 +107,11 @@
             <pubDate>Thu, 15 Jul 2021 23:01:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[National Food Strategy: Tax sugar and salt and prescribe veg, report says]]></title>
-            <description><![CDATA[Boris Johnson says he will consider the proposal, but finds the idea of extra taxes on people unattractive.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57838103</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57838103</guid>
-            <pubDate>Thu, 15 Jul 2021 13:17:46 GMT</pubDate>
+            <title><![CDATA[Climate change: Amazon regions emit more carbon than they absorb]]></title>
+            <description><![CDATA[Rising heat and deforestation cause eastern parts of the Amazon to become carbon sources, not sinks.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57839364</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57839364</guid>
+            <pubDate>Wed, 14 Jul 2021 15:04:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: 'No more excuses' at COP26 climate summit - poor nations]]></title>
@@ -105,13 +119,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57839368</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57839368</guid>
             <pubDate>Thu, 15 Jul 2021 07:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Amazon regions emit more carbon than they absorb]]></title>
-            <description><![CDATA[Rising heat and deforestation cause eastern parts of the Amazon to become carbon sources, not sinks.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57839364</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57839364</guid>
-            <pubDate>Wed, 14 Jul 2021 15:04:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carry on flying, says government green plan]]></title>
@@ -126,41 +133,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57833807</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57833807</guid>
             <pubDate>Wed, 14 Jul 2021 18:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire lookouts: The US Forest Service lookouts watching for fires]]></title>
-            <description><![CDATA[In remote towers, US Forest Service lookouts act as an early warning system for forest fires.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57626403</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57626403</guid>
-            <pubDate>Fri, 09 Jul 2021 23:08:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Technology boosts efforts to curb tree loss in Amazon]]></title>
-            <description><![CDATA[Smartphones and satellite data help indigenous people in the Peruvian Amazon to limit deforestation.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57807544</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57807544</guid>
-            <pubDate>Mon, 12 Jul 2021 23:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US heatwave: Could US and Canada see the worst wildfires yet?]]></title>
-            <description><![CDATA[The annual fire season has barely started - and there are claims that 2021 might be the worst year yet.]]></description>
-            <link>https://www.bbc.co.uk/news/57770728</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57770728</guid>
-            <pubDate>Tue, 13 Jul 2021 14:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: US-Canada heatwave 'virtually impossible' without warming]]></title>
-            <description><![CDATA[Without global warming, the searing heat seen in the western US and Canada "just doesn't occur," say scientists.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57751918</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57751918</guid>
-            <pubDate>Thu, 08 Jul 2021 00:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Record June temperatures point to more 'extraordinary' extremes]]></title>
-            <description><![CDATA[North America experienced its warmest June on record and experts say the figures are frightening.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57742482</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57742482</guid>
-            <pubDate>Wed, 07 Jul 2021 07:07:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blue Origin: Teenager to fly into space with Jeff Bezos]]></title>
