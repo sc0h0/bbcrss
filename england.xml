@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 11:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 11:49:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,7 +44,7 @@
             <pubDate>Wed, 21 Jul 2021 06:40:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TikTok: Police urge public not to investigate influencer family house arson]]></title>
+            <title><![CDATA[The Smithy Family: Police urge public not to investigate TikTok house arson]]></title>
             <description><![CDATA[Nick Smith said his family could have been killed when their house caught fire in a suspected arson.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57915749</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57915749</guid>
@@ -52,7 +52,7 @@
         </item>
         <item>
             <title><![CDATA[Teenager found dead in Knottingley canal in hot weather]]></title>
-            <description><![CDATA[The boy's death is the fourth nvolving water in Yorkshire over the past few days.]]></description>
+            <description><![CDATA[The boy's death is the fourth involving water in Yorkshire over the past few days.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-57911897</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57911897</guid>
             <pubDate>Wed, 21 Jul 2021 11:02:44 GMT</pubDate>
@@ -79,6 +79,13 @@
             <pubDate>Wed, 21 Jul 2021 11:18:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rapist Michael Connors jailed decades after fleeing country]]></title>
+            <description><![CDATA[Michael Connors fled to the Republic of Ireland in 1990 after he attacked two teenage girls.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cumbria-57914544</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-57914544</guid>
+            <pubDate>Wed, 21 Jul 2021 11:35:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Marcus Rashford mural notes to come down as heavy rain forecast]]></title>
             <description><![CDATA[The heartfelt messages will be removed for safekeeping amid plans to create a permanent display.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57914160</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57909295</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57909295</guid>
             <pubDate>Wed, 21 Jul 2021 06:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E-scooter crash leaves girl, 3, seriously injured]]></title>
-            <description><![CDATA[A three-year-old is left with "life-changing" injuries from a collision with an e-scooter.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57908240</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57908240</guid>
-            <pubDate>Tue, 20 Jul 2021 19:21:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peterborough Lido: What has the easing of restrictions meant for visitors?]]></title>
@@ -168,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57902379</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57902379</guid>
             <pubDate>Tue, 20 Jul 2021 12:21:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E-scooter crash leaves girl, 3, seriously injured]]></title>
+            <description><![CDATA[A three-year-old is left with "life-changing" injuries from a collision with an e-scooter.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57908240</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57908240</guid>
+            <pubDate>Tue, 20 Jul 2021 19:21:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five Tory MPs found to have breached code of conduct]]></title>
