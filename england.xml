@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 07:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 07:21:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57912240</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57912240</guid>
             <pubDate>Wed, 21 Jul 2021 07:05:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seaside poor health overlooked, warns Whitty]]></title>
+            <description><![CDATA[Bad housing and deprivation are a toxic mix for health, says England's chief medical officer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57908387</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57908387</guid>
+            <pubDate>Wed, 21 Jul 2021 03:29:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England heatwave: Giant hail in Leicestershire damages cars]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-57906031</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57906031</guid>
             <pubDate>Tue, 20 Jul 2021 14:12:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Premier League player held over child sex allegations]]></title>
-            <description><![CDATA[The Premier League player has since been bailed and suspended by his club while inquiries continue.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57899127</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57899127</guid>
-            <pubDate>Tue, 20 Jul 2021 08:11:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Student murdered in watch robbery attempt near Harrods, court hears]]></title>
@@ -168,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/uk-57869258</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57869258</guid>
             <pubDate>Mon, 19 Jul 2021 06:29:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premier League player held over child sex allegations]]></title>
+            <description><![CDATA[The Premier League player has since been bailed and suspended by his club while inquiries continue.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57899127</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57899127</guid>
+            <pubDate>Tue, 20 Jul 2021 08:11:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joe Anderson: Ex-mayor investigated for intimidating chief exec]]></title>
@@ -268,6 +275,20 @@
             <pubDate>Tue, 20 Jul 2021 16:40:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Florida Cup: Arsenal withdraw due to 'small number' testing positive for Covid-19]]></title>
+            <description><![CDATA[Arsenal withdraw from the Florida Cup and cancel their pre-season trip to the US after a "small number" of their touring party test positive for Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57912257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57912257</guid>
+            <pubDate>Wed, 21 Jul 2021 06:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England v Pakistan: Hosts win thrilling T20 series decider at Old Trafford]]></title>
+            <description><![CDATA[England overcome an almighty wobble to defeat Pakistan in a pulsating final Twenty20 at Old Trafford and win the series 2-1.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57882585</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57882585</guid>
+            <pubDate>Tue, 20 Jul 2021 21:16:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Hundred: Cricket set for new fast-paced, opinion-splitting tournament]]></title>
             <description><![CDATA[Everything you need to know about The Hundred - cricket's new fast-paced tournament - which begins on Wednesday, live on BBC Two.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57899712</link>
@@ -275,32 +296,11 @@
             <pubDate>Wed, 21 Jul 2021 05:10:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vaccination proof may be required to attend sports events of about 20,000 or more capacity]]></title>
-            <description><![CDATA[Fans may be required to show proof of full vaccination to attend sports venues with capacities of about 20,000 or more by the end of September.]]></description>
-            <link>https://www.bbc.co.uk/sport/57905459</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/57905459</guid>
-            <pubDate>Tue, 20 Jul 2021 16:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthony Joshua v Oleksandr Usyk confirmed for Tottenham on 25 September]]></title>
-            <description><![CDATA[Anthony Joshua will defend his world heavyweight titles against Oleksandr Usyk at Tottenham Hotspur Stadium on 25 September.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/57907669</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57907669</guid>
-            <pubDate>Tue, 20 Jul 2021 16:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Projected medal table, Team GB medallists and international stars to watch]]></title>
-            <description><![CDATA[Data company Gracenote forecasts the Tokyo 2020 medal table, Team GB medallists and the international stars to watch.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57888185</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57888185</guid>
-            <pubDate>Tue, 20 Jul 2021 07:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: England men's Test players free for first two games]]></title>
-            <description><![CDATA[England men's Test players will be available for the first two rounds of The Hundred before the squad convenes for the series against India.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57899721</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57899721</guid>
-            <pubDate>Tue, 20 Jul 2021 14:10:05 GMT</pubDate>
+            <title><![CDATA[Everton sign Andros Townsend and Asmir Begovic]]></title>
+            <description><![CDATA[Everton sign former England winger Andros Townsend and experienced goalkeeper Asmir Begovic.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57908968</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57908968</guid>
+            <pubDate>Tue, 20 Jul 2021 18:39:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
