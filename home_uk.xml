@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 16:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 17:14:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[NHS workers in England offered 3% pay rise]]></title>
+            <description><![CDATA[Nurses and other NHS workers in England offered 3% pay rise by government 'in recognition of unique impact of pandemic' on staff]]></description>
+            <link>https://www.bbc.co.uk/news/health-57922712</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57922712</guid>
+            <pubDate>Wed, 21 Jul 2021 17:06:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brexit: UK wants to redraw Northern Ireland Protocol]]></title>
             <description><![CDATA[Lord Frost says the Northern Ireland Protocol is tearing the UK's "fabric" - but the EU won't renegotiate.]]></description>
@@ -34,7 +41,7 @@
             <description><![CDATA[The oil firm says the "vast majority" of shortages were being "resolved within a day".]]></description>
             <link>https://www.bbc.co.uk/news/business-57912922</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57912922</guid>
-            <pubDate>Wed, 21 Jul 2021 16:44:38 GMT</pubDate>
+            <pubDate>Wed, 21 Jul 2021 16:49:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China floods: 12 dead in Zhengzhou train and thousands evacuated in Henan]]></title>
@@ -69,7 +76,7 @@
             <description><![CDATA[The city is deleted from the much-coveted Unesco list because of developments on the waterfront.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-57879475</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57879475</guid>
-            <pubDate>Wed, 21 Jul 2021 16:30:15 GMT</pubDate>
+            <pubDate>Wed, 21 Jul 2021 17:01:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Priti Patel defends deal to stop rising numbers crossing Channel]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Wed, 21 Jul 2021 15:22:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: Worst affected care homes revealed by watchdog]]></title>
-            <description><![CDATA[Figures from Care Quality Commission lay out the pandemic's 'devastating impact' on care homes in England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57905821</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57905821</guid>
-            <pubDate>Wed, 21 Jul 2021 16:26:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PMQs: Boris Johnson urged to apologise for 'over 80s' Covid comment]]></title>
             <description><![CDATA[Boris Johnson comes under fire at Prime Minister's Questions over a text leaked by Dominic Cummings.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57917172</link>
@@ -93,11 +93,11 @@
             <pubDate>Wed, 21 Jul 2021 13:54:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vue Cinemas apologise over Birmingham seat crush death]]></title>
-            <description><![CDATA[The chain was fined £750,000 after Ateeq Rafiq died after getting trapped at Star City.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57917470</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57917470</guid>
-            <pubDate>Wed, 21 Jul 2021 13:08:35 GMT</pubDate>
+            <title><![CDATA['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils]]></title>
+            <description><![CDATA[Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57853537</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57853537</guid>
+            <pubDate>Wed, 21 Jul 2021 05:12:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Giant hail damages cars and windows in heatwave storm]]></title>
@@ -205,13 +205,6 @@
             <pubDate>Tue, 20 Jul 2021 22:58:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils]]></title>
-            <description><![CDATA[Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57853537</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57853537</guid>
-            <pubDate>Wed, 21 Jul 2021 05:12:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lee Child: Why Forsyth's Day Of The Jackal was a game-changer for thrillers]]></title>
             <description><![CDATA[The Jack Reacher novelist explains the huge influence of Frederick Forsyth's first thriller.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57856646</link>
@@ -247,11 +240,11 @@
             <pubDate>Tue, 20 Jul 2021 23:01:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jones to captain Lions in first Test against South Africa]]></title>
-            <description><![CDATA[Alun Wyn Jones returns to captain the British and Irish Lions against South Africa on Saturday, in a side including three Scottish players for the first time since 1997.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57914574</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57914574</guid>
-            <pubDate>Wed, 21 Jul 2021 13:51:49 GMT</pubDate>
+            <title><![CDATA['For two days, that was my tour done' - 'Miracle man' Jones on 'surreal' Lions return ]]></title>
+            <description><![CDATA[British and Irish Lions captain Alun Wyn Jones reflects on completing a remarkable recovery to lead the tourists against South Africa.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57913078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57913078</guid>
+            <pubDate>Wed, 21 Jul 2021 14:44:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Excitement for Hundred 'through the roof' - Morgan]]></title>

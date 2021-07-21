@@ -1,5 +1,5 @@
 1. [Heatwave: Wales' temperatures could peak as holiday getaway begins](https://www.bbc.co.uk/news/uk-wales-57892927) - An extreme heat weather warning is in place as temperatures could hit 32C (90F) on Wednesday.
-2. [Man arrested on murder charge after Cardigan death](https://www.bbc.co.uk/news/uk-wales-57918439) - A 37-year-old man died in the town, leading to the arrest of a 22-year-old on Wednesday.
+2. [Cardigan murder investigation: Tributes after man's death](https://www.bbc.co.uk/news/uk-wales-57918439) - A 22-year-old man is arrested on suspicion of murder after John Bell, 37, was found dead.
 3. [Dinosaurs: 'Spectacular' fossil footprint find by four-year-old goes on display](https://www.bbc.co.uk/news/uk-wales-57910510) - A 200-million-year-old fossilised footprint could help scientists understand how dinosaurs walked.
 4. [A55 Anglesey: Man crushed by lorry as he crawled from crash](https://www.bbc.co.uk/news/uk-wales-57920041) - Ciaran Michael Murray was seen crawling on the road before being struck by a lorry, inquest hears.
 5. [Neo-Nazi Andrew Dymock jailed for terror and hate crimes](https://www.bbc.co.uk/news/uk-england-somerset-57920928) - Andrew Dymock promoted a "distorted and wicked cause" and chose a path of "hatred and bigotry".
@@ -22,7 +22,7 @@
 22. [British and Irish Lions 2021: Captain Alun Wyn Jones reflects on 'surreal' return](https://www.bbc.co.uk/sport/rugby-union/57913078) - British and Irish Lions captain Alun Wyn Jones reflects on completing a remarkable recovery to lead the tourists against South Africa.
 23. [Welsh Fire will 'adjust' after Johnny Bairstow's England recall, says Gary Kirsten](https://www.bbc.co.uk/sport/cricket/57919795) - Welsh Fire can cope without captain Jonny Bairstow following his recall by England, says head coach Gary Kirsten.
 24. [Arestio un wedi marwolaeth dyn yng Ngheredigion](https://www.bbc.co.uk/newyddion/57914202) - Mae teulu John Bell, 37, wedi talu teyrnged gan ddweud y bydd "colled enfawr ar ei ôl".
-25. [Rheolau ail dai yn 'annheg' ac 'afresymol' i berchnogion](https://www.bbc.co.uk/newyddion/57904467) - Yn ôl rhai perchnogion ail gartrefi, mae'r pwnc yn "llawer mwy cymhleth" nag y mae'n ymddangos.
-26. [Arestio dau yn dilyn ymosodiad ym Mharc Bute](https://www.bbc.co.uk/newyddion/57912450) - Mae dyn wedi ei arestio ar amheuaeth o geisio llofruddio yn dilyn digwyddiad yn y parc fore Mawrth.
+25. [Pennaeth S4C yn cadarnhau ei fod yn gadael y sianel](https://www.bbc.co.uk/newyddion/57916085) - Wrth i S4C ddweud bod mwy o bobl wedi gwylio drwy'r pandemig, mae'r prif weithredwr yn gadael.
+26. [Rheolau ail dai yn 'annheg' ac 'afresymol' i berchnogion](https://www.bbc.co.uk/newyddion/57904467) - Yn ôl rhai perchnogion ail gartrefi, mae'r pwnc yn "llawer mwy cymhleth" nag y mae'n ymddangos.
 27. [Sut mae ymdopi mewn gwres llethol?](https://www.bbc.co.uk/newyddion/57916351) - Rodolfo Piskorski sy'n cynnig 'chydig o gyngor ar sut i ddelio â'r haul
-28. [Disgwyl i Steve Cooper adael fel rheolwr Abertawe](https://www.bbc.co.uk/newyddion/57916088) - Y gred yw fod y rheolwr yn rhwystredig nad yw wedi gallu cryfhau'r garfan dros yr haf.
+28. [Steve Cooper yn gadael ei swydd fel rheolwr Abertawe](https://www.bbc.co.uk/newyddion/57916088) - Y gred yw fod y rheolwr wedi bod yn rhwystredig nad oedd wedi gallu cryfhau'r garfan dros yr haf.
