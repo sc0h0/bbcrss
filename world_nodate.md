@@ -6,7 +6,7 @@
 6. [Covid: France rolls out health pass as cases soar](https://www.bbc.co.uk/news/world-europe-57907678) - From Wednesday people will need proof of vaccination or a negative test to access some public places.
 7. [Olympics: Tokyo 2020 chief does not rule out cancelling Games](https://www.bbc.co.uk/news/world-asia-57911122) - Just days before the Games' opening ceremony, more athletes have tested positive for Covid.
 8. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just over 10 minutes after launch.
-9. [ICMR sero survey says two-thirds of Indians exposed to Covid](https://www.bbc.co.uk/news/world-asia-india-57885663) - The latest survey shows that 67% Indians, aged six and above, have been exposed to coronavirus.
+9. [Covid-19: India outrage over no oxygen shortage death data](https://www.bbc.co.uk/news/world-asia-india-57911638) - A minister's claim that no Covid deaths were reported from a lack of oxygen has sparked anger.
 10. [JP Morgan: US banking giant gives boss 'special award'](https://www.bbc.co.uk/news/business-57911203) - The award to Jamie Dimon is to persuade him to lead the company for a "significant number of years".
 11. [Pegasus: French President Macron identified as spyware target](https://www.bbc.co.uk/news/world-europe-57907258) - The president's phone number was found on a list of numbers that were potential phone hacking targets.
 12. [Climate change: US pushes China to make faster carbon cuts](https://www.bbc.co.uk/news/science-environment-57904042) - US climate envoy John Kerry says help from China is needed to avoid a dangerous rise in heat.

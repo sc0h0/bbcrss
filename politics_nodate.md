@@ -1,4 +1,4 @@
-1. [Brexit: UK to warn it could override Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The Brexit minister says the implementation of the Northern Ireland Protocol is unsustainable.
+1. [Brexit: UK to outline how it wants to overhaul Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The government calls a deal, which could see sausage exports from Britain to NI banned, unsustainable.
 2. [Judicial review: Plan to reform scrutiny by courts revealed](https://www.bbc.co.uk/news/uk-57909168) - Ministers say they want to save courts time and money, but campaigners say the move will curb scrutiny.
 3. [UK parliaments back continued universal credit boost](https://www.bbc.co.uk/news/uk-politics-57909480) - Their call comes as the BBC learns the work and pensions secretary wanted to keep the £20 a week top up.
 4. [UK clashes with EU over Gibraltar's post-Brexit status](https://www.bbc.co.uk/news/uk-politics-57908376) - Foreign Secretary Dominic Raab says a draft EU mandate undermines UK sovereignty over the territory.

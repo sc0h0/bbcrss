@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 07:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 07:52:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -282,6 +282,13 @@
             <pubDate>Wed, 21 Jul 2021 06:24:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tang Jiali: Tottenham sign China striker on season-loan from Shanghai Shengli]]></title>
+            <description><![CDATA[Tottenham Hotspur sign China forward Tang Jiali on loan for the 2021-22 Women's Super League season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57913198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57913198</guid>
+            <pubDate>Wed, 21 Jul 2021 07:49:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England v Pakistan: Hosts win thrilling T20 series decider at Old Trafford]]></title>
             <description><![CDATA[England overcome an almighty wobble to defeat Pakistan in a pulsating final Twenty20 at Old Trafford and win the series 2-1.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57882585</link>
@@ -294,13 +301,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/57899712</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57899712</guid>
             <pubDate>Wed, 21 Jul 2021 05:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everton sign Andros Townsend and Asmir Begovic]]></title>
-            <description><![CDATA[Everton sign former England winger Andros Townsend and experienced goalkeeper Asmir Begovic.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57908968</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57908968</guid>
-            <pubDate>Tue, 20 Jul 2021 18:39:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

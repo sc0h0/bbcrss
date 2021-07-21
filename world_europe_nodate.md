@@ -1,6 +1,6 @@
 1. [Covid: France rolls out health pass as cases soar](https://www.bbc.co.uk/news/world-europe-57907678) - From Wednesday people will need proof of vaccination or a negative test to access some public places.
 2. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - There have now been more migrants crossing the Channel this year than in the whole of 2020.
-3. [Brexit: UK to warn it could override Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The Brexit minister says the implementation of the Northern Ireland Protocol is unsustainable.
+3. [Brexit: UK to outline how it wants to overhaul Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The government calls a deal, which could see sausage exports from Britain to NI banned, unsustainable.
 4. [In pictures: Germany grapples with flood aftermath](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
 5. [UK clashes with EU over Gibraltar's post-Brexit status](https://www.bbc.co.uk/news/uk-politics-57908376) - Foreign Secretary Dominic Raab says a draft EU mandate undermines UK sovereignty over the territory.
 6. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
