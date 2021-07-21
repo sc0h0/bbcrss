@@ -11,7 +11,7 @@
 11. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
 12. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
 13. [Mandira Bedi: What Hindu scriptures say about women at cremations](https://www.bbc.co.uk/news/world-asia-india-57894855) - Indian actress Mandira Bedi made news for doing her husband's last rites, generally a male preserve.
-14. [Tokyo 2020: Does Japan have Covid under control?](https://www.bbc.co.uk/news/57556978) - With the Olympics starting this week, Covid cases in Tokyo are still going up.
+14. [Tokyo 2020: Does Japan have Covid under control?](https://www.bbc.co.uk/news/57556978) - With the Olympics starting this on Friday, more and more Covid cases are being reported.
 15. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
 16. [Covid: Ivermectin, milk among Indonesia's unproven 'cures'](https://www.bbc.co.uk/news/world-asia-pacific-57838033) - As Indonesia sees a surge fuelled by the Delta variant, misleading health claims are spreading.
 17. [India farmers' protest: Living on a highway in protest](https://www.bbc.co.uk/news/world-asia-india-57863658) - Seven months on, farmers are still striking against contentious new laws outside the national capital.

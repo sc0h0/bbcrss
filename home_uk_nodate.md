@@ -1,10 +1,10 @@
 1. [Liverpool stripped of Unesco World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475) - The city is deleted from the much-coveted Unesco list because of developments on the waterfront.
 2. [Brexit: UK to outline how it wants to overhaul Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The government calls a deal, which could see sausage exports from Britain to NI banned, unsustainable.
-3. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - There have now been more migrants crossing the Channel this year than in the whole of 2020.
-4. [GB women's footballers take knee ahead of first win](https://www.bbc.co.uk/sport/olympics/57913424) - Great Britain's women's football squad take the knee before their opening 2-0 win over Chile at Tokyo 2020.
-5. [Dr Michael Heath: Families feared they cremated the wrong person](https://www.bbc.co.uk/news/uk-england-57888136) - Families say Dr Michael Heath made multiple errors investigating the deaths of their loved ones.
-6. [Seaside poor health overlooked, warns Whitty](https://www.bbc.co.uk/news/uk-57908387) - Bad housing and deprivation are a toxic mix for health, says England's chief medical officer.
-7. [Commuters trapped on trains as China floods rise](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
+3. [Henan floods: 12 dead in Zhengzhou train and thousands evacuated in China](https://www.bbc.co.uk/news/world-asia-china-57861067) - Commuters describe how they climbed onto chairs to keep their heads above the floodwaters.
+4. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - There have now been more migrants crossing the Channel this year than in the whole of 2020.
+5. [GB women's footballers take knee ahead of first win](https://www.bbc.co.uk/sport/olympics/57913424) - Great Britain's women's football squad take the knee before their opening 2-0 win over Chile at Tokyo 2020.
+6. [Dr Michael Heath: Families feared they cremated the wrong person](https://www.bbc.co.uk/news/uk-england-57888136) - Families say Dr Michael Heath made multiple errors investigating the deaths of their loved ones.
+7. [Seaside poor health overlooked, warns Whitty](https://www.bbc.co.uk/news/uk-57908387) - Bad housing and deprivation are a toxic mix for health, says England's chief medical officer.
 8. [Giant hail damages cars and windows in heatwave storm](https://www.bbc.co.uk/news/uk-england-leicestershire-57909700) - Golf ball-sized hail comes "thundering down" as the extreme heat warning for England continues.
 9. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
 10. [Marcus Rashford defends charity deals over profit claims](https://www.bbc.co.uk/news/uk-england-manchester-57912240) - The England striker asks why footballers "can't just do the right thing" for charity.
