@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 19:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 19:38:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,18 +72,25 @@
             <pubDate>Wed, 21 Jul 2021 16:36:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['British values undermined' by Islamic school's anti-gay book]]></title>
+            <description><![CDATA[A library book at Dewsbury's Islamic Institute of Education called for gay people to be killed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-57923023</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57923023</guid>
+            <pubDate>Wed, 21 Jul 2021 19:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seaforth Docks: Worker dies in freight container incident]]></title>
+            <description><![CDATA[The 67-year-old man died at the scene of the incident during cargo operations.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-57922061</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57922061</guid>
+            <pubDate>Wed, 21 Jul 2021 19:09:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Police investigate rape of girl at Bournemouth beach]]></title>
             <description><![CDATA[The victim said she was pulled into the sea and raped by a teenage boy, police say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-dorset-57922141</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-57922141</guid>
             <pubDate>Wed, 21 Jul 2021 18:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Judith Fox: Daughter seen buying knives before nurse's killing]]></title>
-            <description><![CDATA[Lucy Fox is on trial after her mum Judith disappeared from her Shropshire home last summer.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-shropshire-57920250</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-57920250</guid>
-            <pubDate>Wed, 21 Jul 2021 16:10:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Couple warned over sunbathing close to Mundesley cliff edge]]></title>
@@ -98,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-devon-57917703</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-57917703</guid>
             <pubDate>Wed, 21 Jul 2021 15:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Judith Fox: Daughter seen buying knives before nurse's killing]]></title>
+            <description><![CDATA[Lucy Fox is on trial after her mum Judith disappeared from her Shropshire home last summer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-shropshire-57920250</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-57920250</guid>
+            <pubDate>Wed, 21 Jul 2021 16:10:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peterborough Lido: What has the easing of restrictions meant for visitors?]]></title>
