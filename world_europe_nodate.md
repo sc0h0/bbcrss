@@ -1,8 +1,8 @@
 1. [Covid: France rolls out health pass as cases soar](https://www.bbc.co.uk/news/world-europe-57907678) - From Wednesday people will need proof of vaccination or a negative test to access some public places.
-2. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - There have now been more migrants crossing the Channel this year than in the whole of 2020.
-3. [Brexit: UK to outline how it wants to overhaul Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The government calls a deal, which could see sausage exports from Britain to NI banned, unsustainable.
-4. [Pegasus: French President Macron identified as spyware target](https://www.bbc.co.uk/news/world-europe-57907258) - The president's phone number was found on a list of numbers that were potential phone hacking targets.
-5. [In pictures: Germany grapples with flood aftermath](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
+2. [Gold toilet found in Russian police bribery probe](https://www.bbc.co.uk/news/world-europe-57914270) - Investigators show video of a palatial villa, accusing traffic police of a mafia-style racket.
+3. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - There have now been more migrants crossing the Channel this year than in the whole of 2020.
+4. [Brexit: UK to outline how it wants to overhaul Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The government calls a deal, which could see sausage exports from Britain to NI banned, unsustainable.
+5. [Pegasus: French President Macron identified as spyware target](https://www.bbc.co.uk/news/world-europe-57907258) - The president's phone number was found on a list of numbers that were potential phone hacking targets.
 6. [UK clashes with EU over Gibraltar's post-Brexit status](https://www.bbc.co.uk/news/uk-politics-57908376) - Foreign Secretary Dominic Raab says a draft EU mandate undermines UK sovereignty over the territory.
 7. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
 8. [European Beach Handball Championships: Norway hit with 1,500 euros bikini fine](https://www.bbc.co.uk/sport/handball/57890430) - Norway are fined 1,500 euros (£1,295) for wearing shorts instead of bikini bottoms at the European Beach Handball Championships.
@@ -10,14 +10,14 @@
 10. [Tokyo Olympics: Poland send six swimmers home after selecting too many by mistake](https://www.bbc.co.uk/sport/olympics/57898489) - Poland send six swimmers home from the Tokyo Olympics after selecting too many by mistake.
 11. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
 12. [Tony Blair's Irish Famine message not signed off by him, archive papers show](https://www.bbc.co.uk/news/uk-57894210) - Files show the former PM's private secretary wrote the statement but could not reach him for approval.
-13. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
-14. ['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils](https://www.bbc.co.uk/news/science-environment-57853537) - Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.
-15. [Heatwaves: What do they do to the body and who is at risk?](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
-16. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
-17. [What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?](https://www.bbc.co.uk/news/explainers-56997931) - What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.
-18. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
+13. [In pictures: Germany grapples with flood aftermath](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
+14. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
+15. ['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils](https://www.bbc.co.uk/news/science-environment-57853537) - Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.
+16. [Heatwaves: What do they do to the body and who is at risk?](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
+17. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
+18. [What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?](https://www.bbc.co.uk/news/explainers-56997931) - What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.
 19. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
 20. [Horse racing: Inside the abattoir slaughtering racehorses](https://www.bbc.co.uk/news/uk-57896848) - Campaign group Animal Aid set up covert cameras in one of the few slaughterhouses licensed to kill horses.
 21. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
 22. [Drone footage shows flood damage in Germany and Belgium](https://www.bbc.co.uk/news/world-europe-57869617) - At least 120 people have died and hundreds more are unaccounted for in western Europe.
-23. [Germany floods: Helicopter rescues residents from rooftops](https://www.bbc.co.uk/news/world-europe-57849206) - Dozens of people have died and many more are missing after severe floods in Germany.
+23. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.

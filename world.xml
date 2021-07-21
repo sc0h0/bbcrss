@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 09:35:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 09:55:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Tue, 20 Jul 2021 17:25:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Henan floods: Woman swept down street by extreme flood waters]]></title>
+            <description><![CDATA[Bystanders managed to rescue the woman from the flood waters, which followed record-breaking rainfall.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57912150</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57912150</guid>
+            <pubDate>Wed, 21 Jul 2021 09:54:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jeff Bezos and crew launch into space on New Shepard]]></title>
             <description><![CDATA[Billionaire Jeff Bezos has launched into space, in the first crewed flight of his rocket ship, New Shepard.]]></description>
             <link>https://www.bbc.co.uk/news/world-57900620</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/business-57891867</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57891867</guid>
             <pubDate>Mon, 19 Jul 2021 23:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Athletes find new ways to train in lockdown]]></title>
-            <description><![CDATA[Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57887074</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57887074</guid>
-            <pubDate>Mon, 19 Jul 2021 23:02:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

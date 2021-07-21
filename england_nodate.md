@@ -1,4 +1,4 @@
-1. [Liverpool stripped of Unesco World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475) - The city is the third site to lose its World Heritage status since the Unesco list began in 1978.
+1. [Liverpool stripped of Unesco World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475) - The city is deleted from the much-coveted Unesco list because of developments on the waterfront.
 2. [Dr Michael Heath: Families feared they cremated the wrong person](https://www.bbc.co.uk/news/uk-england-57888136) - Families say Dr Michael Heath made multiple errors investigating the deaths of their loved ones.
 3. [Marcus Rashford defends charity deals over profit claims](https://www.bbc.co.uk/news/uk-england-manchester-57912240) - The England striker asks why footballers "can't just do the right thing" for charity.
 4. [Cow wanders on to M6 in Staffordshire after 'idiots force gate'](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57911929) - Part of the M6 was closed while the cow was moved to safety.
