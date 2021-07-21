@@ -4,7 +4,7 @@
 4. [Premier League player held over child sex allegations](https://www.bbc.co.uk/news/uk-england-57899127) - The Premier League player has since been bailed and suspended by his club while inquiries continue.
 5. [Diamonds swapped for pebbles in London gem heist](https://www.bbc.co.uk/news/uk-england-london-57906031) - Gems worth £4.2m were allegedly swapped for pebbles at a Mayfair jewellers, a court hears.
 6. [River Weaver: Body found in search for 16-year-old boy](https://www.bbc.co.uk/news/uk-england-merseyside-57900068) - Emergency services had been scouring the River Weaver near Frodsham in Cheshire since Monday.
-7. [E-scooter crash leaves girl, 3, 'seriously' hurt](https://www.bbc.co.uk/news/uk-england-london-57908240) - A three-year-old is left with "life-changing" injuries from a collision with an e-scooter.
+7. [E-scooter crash leaves girl, 3, seriously injured](https://www.bbc.co.uk/news/uk-england-london-57908240) - A three-year-old is left with "life-changing" injuries from a collision with an e-scooter.
 8. [Joe Anderson: Ex-mayor investigated for intimidating chief exec](https://www.bbc.co.uk/news/uk-england-merseyside-57908536) - Joe Anderson is being investigated for alleged witness intimidation of a council chief, a court hears.
 9. [Covid: Sutton Coldfield restaurant 'lost £100k' due to isolating staff](https://www.bbc.co.uk/news/uk-england-birmingham-57907661) - Owner Claire Brough said it should have been the "perfect time" for them when Covid rules relaxed.
 10. [Student murdered in watch robbery attempt near Harrods, court hears](https://www.bbc.co.uk/news/uk-england-london-57898473) - The student was stabbed in the chest and collapsed and died near the Harrods Christmas tree.

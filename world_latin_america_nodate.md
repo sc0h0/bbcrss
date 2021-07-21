@@ -1,5 +1,5 @@
-1. [Pedro Castillo declared president-elect of Peru](https://www.bbc.co.uk/news/world-latin-america-57897402) - The leftist candidate won the popular vote but had been accused of fraud by rival Keiko Fujimori.
-2. [Haiti: Wife of assassinated President Jovenel Moïse returns after surviving attack](https://www.bbc.co.uk/news/world-latin-america-57877241) - Wearing a bulletproof vest, Martine Moïse arrives home after receiving treatment in the US.
+1. [Strife-torn Haiti gets new prime minister](https://www.bbc.co.uk/news/world-latin-america-57910829) - Ariel Henry's appointment comes nearly two weeks after President Jovenel Moïse was assassinated.
+2. [Pedro Castillo declared president-elect of Peru](https://www.bbc.co.uk/news/world-latin-america-57897402) - The leftist candidate won the popular vote but had been accused of fraud by rival Keiko Fujimori.
 3. [Brazil's Bolsonaro leaves hospital after treatment for blocked intestine](https://www.bbc.co.uk/news/world-latin-america-57881111) - The Brazilian president was treated for continuing complications after a near-fatal 2018 stabbing.
 4. [Covid-19: Second doses run dry in Brazil's scramble to vaccinate](https://www.bbc.co.uk/news/world-latin-america-57819263) - Many are struggling to source their second dose of the Covid-19 jab in one of the worst-hit countries.
 5. [Latin American Foto Festival: Strength and resistance](https://www.bbc.co.uk/news/in-pictures-57819892) - Caribbean and Latin American photography features in the fourth Annual Latin American Foto Festival.

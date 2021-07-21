@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jul 2021 23:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 01:06:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,18 @@
             <pubDate>Tue, 20 Jul 2021 16:11:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pegasus: French President Macron identified as spyware target]]></title>
-            <description><![CDATA[The president's phone number was found on a list of numbers that were potential phone hacking targets.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57907258</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907258</guid>
-            <pubDate>Tue, 20 Jul 2021 19:55:59 GMT</pubDate>
+            <title><![CDATA[Covid: France rolls out health pass as cases soar]]></title>
+            <description><![CDATA[From Wednesday people will need proof of vaccination or a negative test to access some public places.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57907678</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907678</guid>
+            <pubDate>Wed, 21 Jul 2021 01:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strife-torn Haiti gets new prime minister]]></title>
+            <description><![CDATA[Ariel Henry's appointment comes nearly two weeks after President Jovenel Moïse was assassinated.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57910829</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57910829</guid>
+            <pubDate>Wed, 21 Jul 2021 00:09:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thomas Barrack: Top Trump aide accused of working as foreign agent]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Tue, 20 Jul 2021 23:02:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Germany grapples with flood havoc]]></title>
-            <description><![CDATA[A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57902024</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57902024</guid>
-            <pubDate>Tue, 20 Jul 2021 15:28:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Climate change: US pushes China to make faster carbon cuts]]></title>
             <description><![CDATA[US climate envoy John Kerry says help from China is needed to avoid a dangerous rise in heat.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57904042</link>
@@ -65,11 +65,11 @@
             <pubDate>Tue, 20 Jul 2021 15:28:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Norway fined for wearing shorts not bikini bottoms]]></title>
-            <description><![CDATA[Norway are fined 1,500 euros (£1,295) for wearing shorts instead of bikini bottoms at the European Beach Handball Championships.]]></description>
-            <link>https://www.bbc.co.uk/sport/handball/57890430</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/handball/57890430</guid>
-            <pubDate>Tue, 20 Jul 2021 12:16:31 GMT</pubDate>
+            <title><![CDATA[Pegasus: French President Macron identified as spyware target]]></title>
+            <description><![CDATA[The president's phone number was found on a list of numbers that were potential phone hacking targets.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57907258</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907258</guid>
+            <pubDate>Tue, 20 Jul 2021 19:55:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel PM warns Ben & Jerry's owner Unilever of consequences over sales ban]]></title>
@@ -128,18 +128,18 @@
             <pubDate>Tue, 20 Jul 2021 23:01:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Germany grapples with flood havoc]]></title>
+            <description><![CDATA[A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57902024</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57902024</guid>
+            <pubDate>Tue, 20 Jul 2021 15:28:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A weekend in America: Shootings in Washington spotlight growing problem]]></title>
             <description><![CDATA[A stadium was sent into panic and a six-year-old was killed in two of the weekend's worst shootings.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57840801</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57840801</guid>
             <pubDate>Mon, 19 Jul 2021 21:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pegasus: Who are the alleged victims of spyware targeting?]]></title>
-            <description><![CDATA[Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57891506</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57891506</guid>
-            <pubDate>Mon, 19 Jul 2021 15:54:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jeff Bezos and crew launch into space on New Shepard]]></title>
