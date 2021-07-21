@@ -11,23 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 21:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 21:50:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
-            <description><![CDATA[Concerns have been raised about vaccine uptake among younger adults, but are they less likely to want a jab? Here, we examine the statistics.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57915106</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57915106</guid>
-            <pubDate>Wed, 21 Jul 2021 14:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Wed, 21 Jul 2021 14:52:15 GMT</pubDate>
+            <title><![CDATA[Why are Scotland's emergency departments so busy?]]></title>
+            <description><![CDATA[Emergency department admissions this year are almost 40% higher than pre-pandemic levels, figures show.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57903066</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57903066</guid>
+            <pubDate>Wed, 21 Jul 2021 21:45:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Troon station: Line to reopen following devastating fire]]></title>
@@ -38,10 +31,17 @@
         </item>
         <item>
             <title><![CDATA[Serious motorway crash brings traffic to standstill]]></title>
-            <description><![CDATA[Emergency services including an air ambulance are at the scene on the A74(M) in Dumfries and Galloway.]]></description>
+            <description><![CDATA[Emergency services including an air ambulance have been at the scene on the A74(M) in Dumfries and Galloway.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57923753</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57923753</guid>
-            <pubDate>Wed, 21 Jul 2021 20:25:09 GMT</pubDate>
+            <pubDate>Wed, 21 Jul 2021 21:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
+            <description><![CDATA[Concerns have been raised about vaccine uptake among younger adults, but are they less likely to want a jab? Here, we examine the statistics.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57915106</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57915106</guid>
+            <pubDate>Wed, 21 Jul 2021 14:17:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Weekly rise in virus death numbers]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-57840694</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-57840694</guid>
             <pubDate>Wed, 21 Jul 2021 15:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Wed, 21 Jul 2021 14:52:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What are the rules at level zero?]]></title>
