@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 23:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 23:27:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,25 @@
             <pubDate>Wed, 21 Jul 2021 21:37:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['I survived Norway's worst terror attack']]></title>
+            <description><![CDATA[Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in a summer camp for young activists on Utøya island on 22 July 2011.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-57920682</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57920682</guid>
+            <pubDate>Wed, 21 Jul 2021 23:09:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soldier statue reignites Spanish row over fascism]]></title>
+            <description><![CDATA[Spain's legionnaires symbolised fascism, but Madrid may soon have a statue honouring them.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57902023</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57902023</guid>
+            <pubDate>Wed, 21 Jul 2021 23:22:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[British man arrested in Spain over Twitter hack]]></title>
             <description><![CDATA[The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57916521</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57916521</guid>
             <pubDate>Wed, 21 Jul 2021 16:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: France rolls out health pass as cases soar]]></title>
-            <description><![CDATA[From Wednesday people will need proof of vaccination or a negative test to access some public places.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57907678</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907678</guid>
-            <pubDate>Wed, 21 Jul 2021 01:05:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gold toilet found in Russian police bribery probe]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Wed, 21 Jul 2021 15:22:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Russia sends long-delayed module to space station]]></title>
-            <description><![CDATA[The 13m-long, 20-tonne Nauka laboratory is finally going into orbit after a delay of 14 years.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57921439</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57921439</guid>
-            <pubDate>Wed, 21 Jul 2021 15:55:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Liverpool stripped of Unesco World Heritage status]]></title>
             <description><![CDATA[The city is deleted from the much-coveted Unesco list because of developments on the waterfront.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-57879475</link>
@@ -72,6 +72,13 @@
             <pubDate>Wed, 21 Jul 2021 15:09:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Russia sends long-delayed module to space station]]></title>
+            <description><![CDATA[The 13m-long, 20-tonne Nauka laboratory is finally going into orbit after a delay of 14 years.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57921439</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57921439</guid>
+            <pubDate>Wed, 21 Jul 2021 15:55:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Sweden stun USA in women's football opener]]></title>
             <description><![CDATA[Sweden's women's football team stun world champions the United States in their opening match at the Olympic Games in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57912250</link>
@@ -79,11 +86,11 @@
             <pubDate>Wed, 21 Jul 2021 13:22:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pegasus: French President Macron identified as spyware target]]></title>
-            <description><![CDATA[The president's phone number was found on a list of numbers that were potential phone hacking targets.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57907258</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907258</guid>
-            <pubDate>Tue, 20 Jul 2021 19:55:59 GMT</pubDate>
+            <title><![CDATA[Covid: France rolls out health pass as cases soar]]></title>
+            <description><![CDATA[From Wednesday people will need proof of vaccination or a negative test to access some public places.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57907678</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907678</guid>
+            <pubDate>Wed, 21 Jul 2021 01:05:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK clashes with EU over Gibraltar's post-Brexit status]]></title>
@@ -93,11 +100,11 @@
             <pubDate>Tue, 20 Jul 2021 18:29:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EU plans to make Bitcoin transfers more traceable]]></title>
-            <description><![CDATA[Companies handling crypto-assets would have to collect customer details.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57901113</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57901113</guid>
-            <pubDate>Tue, 20 Jul 2021 17:43:40 GMT</pubDate>
+            <title><![CDATA[Pegasus: French President Macron identified as spyware target]]></title>
+            <description><![CDATA[The president's phone number was found on a list of numbers that were potential phone hacking targets.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57907258</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907258</guid>
+            <pubDate>Tue, 20 Jul 2021 19:55:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In pictures: Germany grapples with flood aftermath]]></title>

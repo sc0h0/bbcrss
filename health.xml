@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 23:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 23:23:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -317,6 +317,20 @@
             <pubDate>Mon, 19 Jul 2021 23:02:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['She just wouldn't eat']]></title>
+            <description><![CDATA[NHS data shows a 50% increase in eating disorder admissions in 2020-21 among under-19s compared to the year before.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57923838</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57923838</guid>
+            <pubDate>Wed, 21 Jul 2021 23:08:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The jungle-trekking Covid vaccinators helping to protect remote Indian villages.]]></title>
+            <description><![CDATA[Latgam Singpu and his team of Covid vaccinators use rope bridges, school buses and incentives to reach remote villages in India's Arunachal Pradesh state.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57917673</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57917673</guid>
+            <pubDate>Wed, 21 Jul 2021 23:05:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shielders 'feeling abandoned' as coronavirus restrictions lifted]]></title>
             <description><![CDATA[Three people who were told to shield during lockdown share their concerns as rules are eased in England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57894885</link>
@@ -329,20 +343,6 @@
             <link>https://www.bbc.co.uk/news/uk-57894636</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894636</guid>
             <pubDate>Mon, 19 Jul 2021 16:10:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid patients urge public to 'be careful' as restrictions ease]]></title>
-            <description><![CDATA[As most coronavrirus restrictions in England are lifted, Covid patients urge the public to take care.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57894916</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894916</guid>
-            <pubDate>Mon, 19 Jul 2021 17:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: How are young people responding to the jab?]]></title>
-            <description><![CDATA[The Covid vaccine is now being offered to all over 18s. So what has uptake been like for young people?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57845115</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57845115</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
