@@ -10,7 +10,7 @@
 10. [JP Morgan: US banking giant gives boss 'special award'](https://www.bbc.co.uk/news/business-57911203) - The award to Jamie Dimon is to persuade him to lead the company for a "significant number of years".
 11. [Pegasus: French President Macron identified as spyware target](https://www.bbc.co.uk/news/world-europe-57907258) - The president's phone number was found on a list of numbers that were potential phone hacking targets.
 12. [Climate change: US pushes China to make faster carbon cuts](https://www.bbc.co.uk/news/science-environment-57904042) - US climate envoy John Kerry says help from China is needed to avoid a dangerous rise in heat.
-13. [Darfur conflict's latest surge in violence displaces thousands](https://www.bbc.co.uk/news/world-africa-57899843) - "I have cried so much, my eyes can barely see," one mother tells the BBC after seeing her brother die.
+13. [Sudan's Darfur conflict's latest surge in violence displaces thousands](https://www.bbc.co.uk/news/world-africa-57899843) - "I have cried so much, my eyes can barely see," one mother tells the BBC after seeing her brother die.
 14. [Pegasus scandal: Are we all becoming unknowing spies?](https://www.bbc.co.uk/news/technology-57910355) - We may be stepping into a world in which we are all spies - and at the same time are all spied on.
 15. [Covid: The Mexican villages refusing to vaccinate](https://www.bbc.co.uk/news/world-latin-america-57893466) - Take-up of the vaccine among indigenous towns in Chiapas state is as low as 2% in some areas.
 16. [Wally Funk: The 82-year-old on Jeff Bezos's Blue Origin flight](https://www.bbc.co.uk/news/world-us-canada-57686654) - Wally Funk was overlooked for space flight in the 60s but got a second chance with Jeff Bezos.

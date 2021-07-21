@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 06:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 06:32:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: The Mexican villages refusing to vaccinate]]></title>
+            <description><![CDATA[Take-up of the vaccine among indigenous towns in Chiapas state is as low as 2% in some areas.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57893466</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57893466</guid>
+            <pubDate>Tue, 20 Jul 2021 23:07:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Strife-torn Haiti gets new prime minister]]></title>
             <description><![CDATA[Ariel Henry's appointment comes nearly two weeks after President Jovenel Moïse was assassinated.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Fri, 16 Jul 2021 23:41:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Latin American Foto Festival: Strength and resistance]]></title>
-            <description><![CDATA[Caribbean and Latin American photography features in the fourth Annual Latin American Foto Festival.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-57819892</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57819892</guid>
-            <pubDate>Sat, 17 Jul 2021 23:46:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jovenel Moïse: Colombia ex-soldiers 'in on plot to kill Haiti president']]></title>
             <description><![CDATA[Some of the suspects in the murder of Haiti's leader were duped, but others allegedly knew of the plan.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57834681</link>
@@ -65,11 +65,11 @@
             <pubDate>Thu, 15 Jul 2021 10:20:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: The Mexican villages refusing to vaccinate]]></title>
-            <description><![CDATA[Take-up of the vaccine among indigenous towns in Chiapas state is as low as 2% in some areas.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57893466</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57893466</guid>
-            <pubDate>Tue, 20 Jul 2021 23:07:51 GMT</pubDate>
+            <title><![CDATA[Latin American Foto Festival: Strength and resistance]]></title>
+            <description><![CDATA[Caribbean and Latin American photography features in the fourth Annual Latin American Foto Festival.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-57819892</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57819892</guid>
+            <pubDate>Sat, 17 Jul 2021 23:46:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colombia bets on privately funded Covid vaccinations]]></title>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-57807544</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57807544</guid>
             <pubDate>Mon, 12 Jul 2021 23:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Floridians rally in support of Cuban protesters]]></title>
+            <description><![CDATA[Across Florida, Cuban-Americans have been rallying to show their support for protests in Cuba.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57869119</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57869119</guid>
+            <pubDate>Fri, 16 Jul 2021 16:32:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Debbie Harry on Blondie's 'monumental' Cuba trip and her reunion demands]]></title>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 06:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 06:36:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,25 @@
             <pubDate>Tue, 20 Jul 2021 20:13:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Brexit: UK to warn it could override Northern Ireland Protocol]]></title>
+            <description><![CDATA[The Brexit minister says the implementation of the Northern Ireland Protocol is unsustainable.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57911148</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57911148</guid>
+            <pubDate>Wed, 21 Jul 2021 06:17:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[In pictures: Germany grapples with flood aftermath]]></title>
             <description><![CDATA[A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57902024</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57902024</guid>
             <pubDate>Tue, 20 Jul 2021 15:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK clashes with EU over Gibraltar's post-Brexit status]]></title>
+            <description><![CDATA[Foreign Secretary Dominic Raab says a draft EU mandate undermines UK sovereignty over the territory.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57908376</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57908376</guid>
+            <pubDate>Tue, 20 Jul 2021 18:29:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EU plans to make Bitcoin transfers more traceable]]></title>
@@ -58,13 +72,6 @@
             <pubDate>Tue, 20 Jul 2021 12:16:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Poland send six swimmers home after selecting too many by mistake]]></title>
-            <description><![CDATA[Poland send six swimmers home from the Tokyo Olympics after selecting too many by mistake.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57898489</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57898489</guid>
-            <pubDate>Tue, 20 Jul 2021 07:01:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Anthony Joshua v Oleksandr Usyk confirmed for Tottenham on 25 September]]></title>
             <description><![CDATA[Anthony Joshua will defend his world heavyweight titles against Oleksandr Usyk at Tottenham Hotspur Stadium on 25 September.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/57907669</link>
@@ -72,18 +79,18 @@
             <pubDate>Tue, 20 Jul 2021 16:02:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Poland send six swimmers home after selecting too many by mistake]]></title>
+            <description><![CDATA[Poland send six swimmers home from the Tokyo Olympics after selecting too many by mistake.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57898489</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57898489</guid>
+            <pubDate>Tue, 20 Jul 2021 07:01:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Asia follows global shares slide amid recovery fears]]></title>
             <description><![CDATA[Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.]]></description>
             <link>https://www.bbc.co.uk/news/business-57885183</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57885183</guid>
             <pubDate>Tue, 20 Jul 2021 08:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jonathan Taylor: Oil whistleblower arrives home from Croatia]]></title>
-            <description><![CDATA[Jonathan Taylor was stuck in Croatia for almost a year over bribery and corruption allegations.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-57886223</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-57886223</guid>
-            <pubDate>Mon, 19 Jul 2021 15:14:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tony Blair's Irish Famine message not signed off by him, archive papers show]]></title>
@@ -100,6 +107,13 @@
             <pubDate>Tue, 20 Jul 2021 12:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Squiggly wiggly' fossils rise from a Jurassic sea]]></title>
+            <description><![CDATA[Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57853537</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57853537</guid>
+            <pubDate>Wed, 21 Jul 2021 05:12:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Heatwaves: What do they do to the body and who is at risk?]]></title>
             <description><![CDATA[What impact do high temperatures have on our bodies?]]></description>
             <link>https://www.bbc.co.uk/news/health-49112807</link>
@@ -112,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/world-57891506</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57891506</guid>
             <pubDate>Mon, 19 Jul 2021 15:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benjamin Jesty: The unsung hero of vaccination]]></title>
-            <description><![CDATA[Edward Jenner is credited with inventing the vaccine but his method was pioneered by a Dorset farmer.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-57460445</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-57460445</guid>
-            <pubDate>Wed, 14 Jul 2021 05:57:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
