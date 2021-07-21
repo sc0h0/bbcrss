@@ -2,7 +2,7 @@
 2. [The Smithy Family: Police urge public not to investigate TikTok house arson](https://www.bbc.co.uk/news/uk-england-london-57915749) - Nick Smith said his family could have been killed when their house caught fire in a suspected arson.
 3. [Marcus Rashford defends charity deals over profit claims](https://www.bbc.co.uk/news/uk-england-manchester-57912240) - The England striker asks why footballers "can't just do the right thing" for charity.
 4. [Marcus Rashford mural notes to come down as heavy rain forecast](https://www.bbc.co.uk/news/uk-england-manchester-57914160) - The heartfelt messages will be removed for safekeeping amid plans to create a permanent display.
-5. [Police officers stabbed at West Bromwich shopping centre](https://www.bbc.co.uk/news/uk-england-birmingham-57918379) - The policemen, who are not badly injured, are taken to hospital for treatment.
+5. [Police officers stabbed at West Bromwich shopping centre](https://www.bbc.co.uk/news/uk-england-birmingham-57918379) - The officers receive "slash injuries" in the attack at the New Square centre, in West Bromwich.
 6. [Teenager found dead in Knottingley canal in hot weather](https://www.bbc.co.uk/news/uk-england-leeds-57911897) - The boy's death is the fourth involving water in Yorkshire over the past few days.
 7. [Euros 2020: Pair charged with helping fans break into Wembley](https://www.bbc.co.uk/news/uk-england-london-57914715) - Two 18-year-olds are accused of stealing items which would allow people into the Euros final.
 8. [Dr Michael Heath: Families feared they cremated the wrong person](https://www.bbc.co.uk/news/uk-england-57888136) - Families say Dr Michael Heath made multiple errors investigating the deaths of their loved ones.
