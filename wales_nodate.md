@@ -1,4 +1,4 @@
-1. [NHS workers in Wales to get 3% pay rise](https://www.bbc.co.uk/news/uk-wales-politics-57915990) - Nurses, doctors and dentists will be offered a 3% pay rise by the Welsh government.
+1. [NHS workers in Wales to get 3% pay rise](https://www.bbc.co.uk/news/uk-wales-politics-57915990) - One union describes the offer as "bitterly disappointing" compared to the 12.5% it had demanded.
 2. [Heatwave: Wales' temperatures soar as holiday getaway begins](https://www.bbc.co.uk/news/uk-wales-57892927) - An extreme heat weather warning is in place as temperatures could hit 32C (90F) on Wednesday.
 3. [Cardigan murder investigation: Tributes after man's death](https://www.bbc.co.uk/news/uk-wales-57918439) - A 22-year-old man is arrested on suspicion of murder after John Bell, 37, was found dead.
 4. [Dinosaurs: Fossil footprint found by four-year-old goes on show](https://www.bbc.co.uk/news/uk-wales-57910510) - A 200-million-year-old fossilised footprint could help scientists understand how dinosaurs walked.

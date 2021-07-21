@@ -6,7 +6,7 @@
 6. [Police officers stabbed at West Bromwich shopping centre](https://www.bbc.co.uk/news/uk-england-birmingham-57918379) - The officers receive "slash injuries" in the attack at the New Square centre, in West Bromwich.
 7. [Seal gets into back garden in Lincolnshire](https://www.bbc.co.uk/news/uk-england-lincolnshire-57916679) - The amphibious mammal, known as Dandy, is returned to the water after her dry land diversion.
 8. [Self-isolation hits bin collections across country](https://www.bbc.co.uk/news/uk-england-57908171) - Campaigners are worried fly-tipping will increase as people struggle to get rid of waste.
-9. [Marcus Rashford defends charity deals over profit claims](https://www.bbc.co.uk/news/uk-england-manchester-57912240) - The England striker asks why footballers "can't just do the right thing" for charity.
+9. [Police investigate rape of girl at Bournemouth beach](https://www.bbc.co.uk/news/uk-england-dorset-57922141) - The victim said she was pulled into the sea and raped by a teenage boy, police say.
 10. [Judith Fox: Daughter seen buying knives before nurse's killing](https://www.bbc.co.uk/news/uk-england-shropshire-57920250) - Lucy Fox is on trial after her mum Judith disappeared from her Shropshire home last summer.
 11. [Couple warned over sunbathing close to Mundesley cliff edge](https://www.bbc.co.uk/news/uk-england-norfolk-57919192) - A coastguard team advises the pair to "find a more suitable place" to enjoy the weather.
 12. [Medals of Princess Margaret's fiance Peter Townsend sell for £260,000](https://www.bbc.co.uk/news/uk-england-devon-57917703) - Gp Cptn Peter Townsend's medals received "much interest", auctioneers say.
