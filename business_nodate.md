@@ -1,7 +1,7 @@
 1. [BP: Lorry driver shortages closing some sites temporarily](https://www.bbc.co.uk/news/business-57912922) - The oil firm says the "vast majority" of shortages were being "resolved within a day".
 2. [Fewer flat buyers to face pre-mortgage cladding checks, says Robert Jenrick](https://www.bbc.co.uk/news/uk-politics-57918265) - Lenders agree to change applications for loans involving buildings below 18m high, the government says.
 3. ['Catastrophic' backlog at driving licence body, warns union](https://www.bbc.co.uk/news/business-57916619) - MPs are told bad decisions by DVLA managers resulted in a "catastrophic" processing backlog of 1.4 million cases.
-4. [NHS workers in England offered 3% pay rise](https://www.bbc.co.uk/news/health-57922712) - Nurses and other NHS workers will get the award "in recognition of the unique impact of pandemic" on staff.
+4. [NHS workers in England offered 3% pay rise](https://www.bbc.co.uk/news/health-57922712) - The offer is 2% more than was proposed in March, "in recognition of the unique impact of pandemic".
 5. [UK property sales at new record as boom peaks](https://www.bbc.co.uk/news/business-57914323) - Sales surged during June but analysts say the property boom has peaked as stamp duty holidays are withdrawn.
 6. [M&S to cut Christmas products in Northern Ireland](https://www.bbc.co.uk/news/business-57899239) - Chairman Archie Norman says customs checks will mean higher prices and less choice for customers.
 7. [Next shoppers splurge on summer clothes as weather heats up](https://www.bbc.co.uk/news/business-57913534) - The retailer upgrades profits forecast and repays some business rates relief after seeing a summer sales surge.
