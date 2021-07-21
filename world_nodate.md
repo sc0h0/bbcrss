@@ -2,9 +2,9 @@
 2. [Pegasus: Princess Latifa and Princess Haya numbers 'among leaks'](https://www.bbc.co.uk/news/world-middle-east-57922543) - Numbers used by Princesses Latifa and Haya are reportedly found in a database at the heart of the leaks.
 3. [Former informant 'White Boy Rick' sues FBI for $100m](https://www.bbc.co.uk/news/world-us-canada-57918115) - The one-time teenage FBI informant says his work with the agency amounts to 'child abuse'
 4. [Monkeypox: More than 200 contacts tracked in US for rare disease](https://www.bbc.co.uk/news/world-us-canada-57919573) - No instances of the rare disease had been recorded in the US since 2003.
-5. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.
-6. [Gender reveal party couple face jail over deadly California wildfire](https://www.bbc.co.uk/news/world-us-canada-57898993) - A California couple are charged over an event last year blamed for sparking a deadly blaze.
-7. [Wildfires: Firefighters battle blaze from top of moving train](https://www.bbc.co.uk/news/world-us-canada-57922181) - Officials in California are pulling out all the stops to contain the state's largest wildfire.
+5. [Gender reveal party couple face jail over deadly California wildfire](https://www.bbc.co.uk/news/world-us-canada-57898993) - A California couple are charged over an event last year blamed for sparking a deadly blaze.
+6. [Wildfires: Firefighters battle blaze from top of moving train](https://www.bbc.co.uk/news/world-us-canada-57922181) - Officials in California are pulling out all the stops to contain the state's largest wildfire.
+7. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.
 8. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
 9. [Mucormycosis: India records more than 4,300 'black fungus' deaths](https://www.bbc.co.uk/news/world-asia-india-57897682) - The normally rare infection has a 50% mortality rate and is hitting recovering Covid-19 patients.
 10. [Gold toilet found in Russian police bribery probe](https://www.bbc.co.uk/news/world-europe-57914270) - Investigators show video of a palatial villa, accusing traffic police of a mafia-style racket.
