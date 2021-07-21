@@ -6,8 +6,8 @@
 6. [Priti Patel defends deal to stop rising numbers crossing Channel](https://www.bbc.co.uk/news/uk-57916659) - The government is paying France £54m in a bid to stem the number of migrants travelling to the UK.
 7. [Care home Covid deaths topped 39,000, watchdog data shows](https://www.bbc.co.uk/news/uk-politics-57905821) - Figures from Care Quality Commission lay out the pandemic's 'devastating impact' on care homes in England.
 8. [PMQs: Boris Johnson urged to apologise for 'over 80s' Covid comment](https://www.bbc.co.uk/news/uk-politics-57917172) - Boris Johnson comes under fire at Prime Minister's Questions over a text leaked by Dominic Cummings.
-9. [Dr Michael Heath: Families feared they cremated the wrong person](https://www.bbc.co.uk/news/uk-england-57888136) - Families say Dr Michael Heath made multiple errors investigating the deaths of their loved ones.
-10. ['Catastrophic' backlog at driving licence body, warns union](https://www.bbc.co.uk/news/business-57916619) - MPs are told bad decisions by DVLA managers resulted in a "catastrophic" processing backlog of 1.4 million cases.
+9. [Neo-Nazi Andrew Dymock jailed for terror offences](https://www.bbc.co.uk/news/uk-england-somerset-57920928) - A judge tells Andrew Dymock, 24, he had promoted a "distorted and wicked cause".
+10. [Dr Michael Heath: Families feared they cremated the wrong person](https://www.bbc.co.uk/news/uk-england-57888136) - Families say Dr Michael Heath made multiple errors investigating the deaths of their loved ones.
 11. [Vue Cinemas apologise over Birmingham seat crush death](https://www.bbc.co.uk/news/uk-england-birmingham-57917470) - The chain was fined £750,000 after Ateeq Rafiq died after getting trapped at Star City.
 12. [Marcus Rashford mural notes to come down as heavy rain forecast](https://www.bbc.co.uk/news/uk-england-manchester-57914160) - The heartfelt messages will be removed for safekeeping amid plans to create a permanent display.
 13. [Giant hail damages cars and windows in heatwave storm](https://www.bbc.co.uk/news/uk-england-leicestershire-57909700) - Golf ball-sized hail comes "thundering down" as the extreme heat warning for England continues.
@@ -46,7 +46,7 @@
 46. [Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
 47. [Long Covid: What is it and what are the symptoms?](https://www.bbc.co.uk/news/health-57833394) - New research links as many as 200 different symptoms to the condition.
 48. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
-49. [Covid: Who has to self-isolate and what if I'm fully vaccinated?](https://www.bbc.co.uk/news/explainers-54239922) - Rules on self-isolation are being eased in England for children and fully vaccinated adults.
+49. [Covid: Who has to self-isolate and what if I'm fully vaccinated?](https://www.bbc.co.uk/news/explainers-54239922) - There has been confusion about who needs to self-isolate and which workers might be able to avoid it.
 50. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
 51. [What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?](https://www.bbc.co.uk/news/explainers-56997931) - What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.
 52. [Covid: Why is social distancing coming to an end?](https://www.bbc.co.uk/news/uk-51506729) - Social distancing rules are changing across the UK.

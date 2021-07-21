@@ -1,6 +1,6 @@
 1. [Brexit: UK wants to redraw Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - Lord Frost says the Northern Ireland Protocol is tearing the UK's "fabric" - but the EU won't renegotiate.
 2. [PMQs: Boris Johnson urged to apologise for 'over 80s' Covid comment](https://www.bbc.co.uk/news/uk-politics-57917172) - Boris Johnson comes under fire at Prime Minister's Questions over a text leaked by Dominic Cummings.
-3. [Keir Starmer to isolate after child gets Covid](https://www.bbc.co.uk/news/uk-politics-57918823) - Labour leader Sir Keir Starmer is self-isolating after one of his children tests positive for Covid.
+3. [Keir Starmer to isolate after his child tests positive for Covid](https://www.bbc.co.uk/news/uk-politics-57918823) - The Labour leader was at PMQs earlier but had tested negative this morning, his spokesman says.
 4. [Left-wing anger over expulsions from Labour Party](https://www.bbc.co.uk/news/uk-politics-57909481) - Labour's ruling NEC has expelled four groups it says are "not compatible" with the party's values.
 5. [Dominic Cummings: I discussed ousting PM after 2019 election landslide](https://www.bbc.co.uk/news/uk-politics-57880118) - Boris Johnson's former aide says Downing Street rifts developed within days of a landslide victory.
 6. [Five Tory MPs found to have breached code of conduct](https://www.bbc.co.uk/news/uk-politics-57914664) - The MPs sought to influence a judge's decision regarding the case of former MP Charlie Elphicke.
