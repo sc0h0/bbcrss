@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 15:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 16:07:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,6 +93,13 @@
             <pubDate>Wed, 14 Jul 2021 23:49:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tanzania: Erick Kabendera on Samia Suluhu Hassan, being imprisoned and freedom]]></title>
+            <description><![CDATA[Freed Tanzanian journalist Erick Kabendera says the country needs to tackle injustices which took place during John Magufuli's presidency.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57920572</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57920572</guid>
+            <pubDate>Wed, 21 Jul 2021 15:59:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Joshi is swapping life in captivity for a new start in the jungle]]></title>
             <description><![CDATA[After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57854071</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-57828581</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57828581</guid>
             <pubDate>Tue, 13 Jul 2021 17:04:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa Zuma riots: Child thrown from burning building]]></title>
-            <description><![CDATA[The mother and baby in Durban, eastern South Africa, were safely reunited after their rescue.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57818778</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57818778</guid>
-            <pubDate>Tue, 13 Jul 2021 10:22:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -16,7 +16,7 @@
 16. [Wally Funk: The 82-year-old on Jeff Bezos's Blue Origin flight](https://www.bbc.co.uk/news/world-us-canada-57686654) - Wally Funk was overlooked for space flight in the 60s but got a second chance with Jeff Bezos.
 17. [Mandira Bedi: What Hindu scriptures say about women at cremations](https://www.bbc.co.uk/news/world-asia-india-57894855) - Indian actress Mandira Bedi made news for doing her husband's last rites, generally a male preserve.
 18. [Germany grapples with flood havoc](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
-19. [Zhengzhou Henan: Chest-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
+19. [Zhengzhou Henan: Waist-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
 20. [Henan floods: Woman swept down street by extreme flood waters](https://www.bbc.co.uk/news/world-asia-57912150) - Bystanders managed to rescue the woman in Henan province, where several people have died amid flooding.
 21. [Jeff Bezos and crew launch into space on New Shepard](https://www.bbc.co.uk/news/world-57900620) - Billionaire Jeff Bezos has launched into space, in the first crewed flight of his rocket ship, New Shepard.
 22. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
