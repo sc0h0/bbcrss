@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 13:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 13:36:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Zoom offers app store with team-building games]]></title>
+            <description><![CDATA[A range of both productivity and fun apps will be available for users within the Zoom platform.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57916519</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57916519</guid>
+            <pubDate>Wed, 21 Jul 2021 13:01:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EU plans to make Bitcoin transfers more traceable]]></title>
             <description><![CDATA[Companies handling crypto-assets would have to collect customer details.]]></description>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57897401</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57897401</guid>
             <pubDate>Tue, 20 Jul 2021 04:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin mining machines steamrolled by Malaysia police]]></title>
-            <description><![CDATA[Officers had seized more than 1,000 Bitcoin mining units allegedly powered by stolen electricity.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57897444</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57897444</guid>
-            <pubDate>Tue, 20 Jul 2021 07:03:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cyber-flashing: 'I get explicit messages every day']]></title>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 13:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 13:33:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,11 +170,18 @@
             <pubDate>Mon, 19 Jul 2021 17:09:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[SDLP leader says UK government has lost trust on Protocol]]></title>
+            <description><![CDATA[Colum Eastwood asks the NI secretary why he thought anyone in Northern Ireland would trust the UK government.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57918324</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57918324</guid>
+            <pubDate>Wed, 21 Jul 2021 13:23:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DUP leader welcomes UK government move on NI Protocol]]></title>
             <description><![CDATA[The UK government's announcement that it wants significant changes to the Brexit deal has been welcomed by the DUP leader.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57918319</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57918319</guid>
-            <pubDate>Wed, 21 Jul 2021 12:41:24 GMT</pubDate>
+            <pubDate>Wed, 21 Jul 2021 13:23:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ballywatticock's moment in the sun]]></title>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57889605</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57889605</guid>
             <pubDate>Tue, 20 Jul 2021 06:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[River Blackwater: 'We last got through safely in 2006']]></title>
-            <description><![CDATA[A campaign group calls for a section of the River Blackwater to be cleared of a silt blockage]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57892143</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57892143</guid>
-            <pubDate>Mon, 19 Jul 2021 18:00:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Western Trust: Families reject care home abuse apology]]></title>
