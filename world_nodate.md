@@ -17,10 +17,10 @@
 17. [Mandira Bedi: What Hindu scriptures say about women at cremations](https://www.bbc.co.uk/news/world-asia-india-57894855) - Indian actress Mandira Bedi made news for doing her husband's last rites, generally a male preserve.
 18. [Germany grapples with flood havoc](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
 19. [Commuters and children rescued from China floodwaters](https://www.bbc.co.uk/news/world-asia-57908888) - Many people have been saved from the the waist-high waters across Henan province.
-20. [Henan floods: Woman swept down street by extreme flood waters](https://www.bbc.co.uk/news/world-asia-57912150) - Bystanders managed to rescue the woman in Henan province, where several people have died amid flooding.
-21. [Europe floods: 'I have an axe beside my bed'](https://www.bbc.co.uk/news/world-europe-57923443) - Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.
-22. [The battle for Indonesia's Gold Island](https://www.bbc.co.uk/news/world-asia-57902815) - There are fears that a mine will threaten Sangihe island's ancient forests and local water supply.
-23. [Jeff Bezos and crew launch into space on New Shepard](https://www.bbc.co.uk/news/world-57900620) - Billionaire Jeff Bezos has launched into space, in the first crewed flight of his rocket ship, New Shepard.
+20. [Europe floods: 'I have an axe beside my bed'](https://www.bbc.co.uk/news/world-europe-57923443) - Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.
+21. [The battle for Indonesia's Gold Island](https://www.bbc.co.uk/news/world-asia-57902815) - There are fears that a mine will threaten Sangihe island's ancient forests and local water supply.
+22. [Jeff Bezos and crew launch into space on New Shepard](https://www.bbc.co.uk/news/world-57900620) - Billionaire Jeff Bezos has launched into space, in the first crewed flight of his rocket ship, New Shepard.
+23. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
 24. [Tokyo Olympics: Sweden stun USA in women's football opener](https://www.bbc.co.uk/sport/olympics/57912250) - Sweden's women's football team stun world champions the United States in their opening match at the Olympic Games in Tokyo.
 25. [Tokyo Olympics: Team GB women's football take the knee](https://www.bbc.co.uk/sport/olympics/57913424) - Great Britain's women's football squad take the knee before their opening 2-0 win over Chile at Tokyo 2020.
 26. [Tokyo 2020: Where might hosts Japan win medals?](https://www.bbc.co.uk/sport/olympics/57886826) - The Japanese Olympic Committee has set a target of 30 golds in Tokyo, but in which sports might those medals be won?
