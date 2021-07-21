@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 18:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 18:55:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Fri, 16 Jul 2021 15:22:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Europe floods: 'I have an axe beside my bed']]></title>
+            <description><![CDATA[Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57923443</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57923443</guid>
+            <pubDate>Wed, 21 Jul 2021 18:46:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First space tourist Dennis Tito: 'I was euphoric']]></title>
             <description><![CDATA[Dennis Tito paid $20 million to travel to the International Space Station in 2001.]]></description>
             <link>https://www.bbc.co.uk/news/business-57891867</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57869617</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57869617</guid>
             <pubDate>Fri, 16 Jul 2021 19:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The migrants hunger-striking for legal status in Belgium]]></title>
-            <description><![CDATA[More than 400 go without food demanding a clear path to residency in Belgium.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57867823</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57867823</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

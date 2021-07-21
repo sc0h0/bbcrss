@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 18:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 18:56:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,13 +58,6 @@
             <pubDate>Wed, 21 Jul 2021 16:31:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: New data shows care homes worst hit by Covid, and Starmer isolating]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57920430</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57920430</guid>
-            <pubDate>Wed, 21 Jul 2021 16:25:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Liverpool stripped of Unesco World Heritage status]]></title>
             <description><![CDATA[The city is deleted from the much-coveted Unesco list because of developments on the waterfront.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-57879475</link>
@@ -72,11 +65,11 @@
             <pubDate>Wed, 21 Jul 2021 17:01:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Priti Patel defends deal to stop rising numbers crossing Channel]]></title>
-            <description><![CDATA[The government is paying France £54m in a bid to stem the number of migrants travelling to the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57916659</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57916659</guid>
-            <pubDate>Wed, 21 Jul 2021 15:22:11 GMT</pubDate>
+            <title><![CDATA[Monkeypox: More than 200 contacts tracked in US for rare disease]]></title>
+            <description><![CDATA[No instances of the rare disease had been recorded in the US since 2003.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57919573</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57919573</guid>
+            <pubDate>Wed, 21 Jul 2021 18:48:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PMQs: Boris Johnson urged to apologise for 'over 80s' Covid comment]]></title>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57917172</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57917172</guid>
             <pubDate>Wed, 21 Jul 2021 13:54:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Priti Patel defends deal to stop rising numbers crossing Channel]]></title>
+            <description><![CDATA[The government is paying France £54m in a bid to stem the number of migrants travelling to the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57916659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57916659</guid>
+            <pubDate>Wed, 21 Jul 2021 15:22:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils]]></title>
@@ -100,18 +100,18 @@
             <pubDate>Wed, 21 Jul 2021 16:27:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Europe floods: 'I have an axe beside my bed']]></title>
+            <description><![CDATA[Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57923443</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57923443</guid>
+            <pubDate>Wed, 21 Jul 2021 18:46:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Giant hail damages cars and windows in heatwave storm]]></title>
             <description><![CDATA[Golf ball-sized hail comes "thundering down" as the extreme heat warning for England continues.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-57909700</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-57909700</guid>
             <pubDate>Wed, 21 Jul 2021 14:49:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tens of thousands of Jurassic fossils found at secret site]]></title>
-            <description><![CDATA[The fossils were originally uncovered by two hobby palaeontologists during lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57903725</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57903725</guid>
-            <pubDate>Tue, 20 Jul 2021 23:02:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Doctor Who's John Bishop in car crash avoiding 'big chicken']]></title>
@@ -140,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57900909</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57900909</guid>
             <pubDate>Wed, 21 Jul 2021 15:41:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tens of thousands of Jurassic fossils found at secret site]]></title>
+            <description><![CDATA[The fossils were originally uncovered by two hobby palaeontologists during lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57903725</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57903725</guid>
+            <pubDate>Tue, 20 Jul 2021 23:02:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[American football star Tom Brady cracks election results joke at White House]]></title>
