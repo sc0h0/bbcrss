@@ -1,6 +1,6 @@
 1. [Heatwave: Wales' temperatures could peak as holiday getaway begins](https://www.bbc.co.uk/news/uk-wales-57892927) - About 11% of people planning a UK holiday intend to do so in Wales, one survey suggests.
-2. [Domestic abuse: 'I went to prison three times - I'm so ashamed'](https://www.bbc.co.uk/news/uk-wales-57900940) - Mike went to prison three times for domestic violence, but says he has turned his life around.
-3. [Heatwave: People 'walking into A&E with life-threatening conditions'](https://www.bbc.co.uk/news/uk-wales-57907214) - One hospital boss says people with life-threatening conditions are walking into A&E.
+2. [Heatwave: People 'walking into A&E with life-threatening conditions'](https://www.bbc.co.uk/news/uk-wales-57907214) - One hospital boss says people with life-threatening conditions are walking into A&E.
+3. [Domestic abuse: 'I went to prison three times - I'm so ashamed'](https://www.bbc.co.uk/news/uk-wales-57900940) - Mike went to prison three times for domestic violence, but says he has turned his life around.
 4. [Watchdog to probe Gwent Police officer's 'use of force' in video](https://www.bbc.co.uk/news/uk-wales-57896406) - The video was shared by Black Lives Matter groups, who claim the officer used excessive force.
 5. [Hot weather: Welsh outlets shut due to 'unbearable' temperatures](https://www.bbc.co.uk/news/uk-wales-57899296) - A seaside resort restaurant and a village pub temporarily close in the extreme heat warning.
 6. [Cardiff man jumped from car after argument, inquest told](https://www.bbc.co.uk/news/uk-wales-57906114) - James Davies argued with his girlfriend before his death, a coroner's court hears.
