@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 07:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 07:31:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -287,6 +287,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57890640</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57890640</guid>
             <pubDate>Mon, 19 Jul 2021 12:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What's the Northern Ireland Protocol?]]></title>
+            <description><![CDATA[Why are there now some border checks between Great Britain and Northern Ireland?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53724381</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53724381</guid>
+            <pubDate>Wed, 30 Jun 2021 16:26:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules from 19 July: What has changed?]]></title>
