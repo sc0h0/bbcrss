@@ -25,4 +25,4 @@
 25. [Rheolau ail dai yn 'annheg' ac 'afresymol' i berchnogion](https://www.bbc.co.uk/newyddion/57904467) - Yn ôl rhai perchnogion ail gartrefi, mae'r pwnc yn "llawer mwy cymhleth" nag y mae'n ymddangos.
 26. [Arestio un wedi marwolaeth dyn yng Ngheredigion](https://www.bbc.co.uk/newyddion/57914202) - Dywedodd Heddlu Dyfed-Powys bod dyn 37 oed wedi marw yn dilyn digwyddiad yn oriau man 21 Gorffennaf.
 27. [Cam-drin arlein: 'Targed oherwydd mod i'n ddynes'](https://www.bbc.co.uk/newyddion/57904833) - Llinos Medi Huws a Bethan Sayed sy'n rhannu profiadau o dderbyn bygythiadau ar-lein
-28. [Alun Wyn Jones: Y stori dylwyth teg bron yn gyflawn](https://www.bbc.co.uk/newyddion/57918728) - Cennydd Davies sy'n bwrw golwg dros y 15 ar gyfer prawf cynta'r Llewod, a'r dewis o un dyn arbennig.
+28. [Disgwyl i Steve Cooper adael fel rheolwr Abertawe](https://www.bbc.co.uk/newyddion/57916088) - Y gred yw fod y rheolwr yn rhwystredig nad yw wedi gallu cryfhau'r garfan dros yr haf.
