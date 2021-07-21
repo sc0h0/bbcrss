@@ -1,4 +1,4 @@
-1. [Heatwave: Wales' temperatures could peak as holiday getaway begins](https://www.bbc.co.uk/news/uk-wales-57892927) - An extreme heat weather warning is in place as temperatures could hit 32C (90F) on Wednesday.
+1. [Heatwave: Wales' temperatures soar as holiday getaway begins](https://www.bbc.co.uk/news/uk-wales-57892927) - An extreme heat weather warning is in place as temperatures could hit 32C (90F) on Wednesday.
 2. [Cardigan murder investigation: Tributes after man's death](https://www.bbc.co.uk/news/uk-wales-57918439) - A 22-year-old man is arrested on suspicion of murder after John Bell, 37, was found dead.
 3. [Dinosaurs: 'Spectacular' fossil footprint find by four-year-old goes on display](https://www.bbc.co.uk/news/uk-wales-57910510) - A 200-million-year-old fossilised footprint could help scientists understand how dinosaurs walked.
 4. [A55 Anglesey: Man crushed by lorry as he crawled from crash](https://www.bbc.co.uk/news/uk-wales-57920041) - Ciaran Michael Murray was seen crawling on the road before being struck by a lorry, inquest hears.
@@ -16,7 +16,7 @@
 16. [Barry cricket death: 'My friend was literally just dying there'](https://www.bbc.co.uk/news/uk-wales-57892928) - Tributes to 44-year-old father-of-three who died playing for his local cricket club.
 17. [Tokyo Olympics: Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price](https://www.bbc.co.uk/sport/av/olympics/57876234) - The Duke of Cambridge meets Team GB boxer and medal hopeful Lauren Price at Kensington Palace.
 18. [Rescuers find lost dog Ollie after swim off Porthcawl](https://www.bbc.co.uk/news/uk-wales-57880619) - Ollie was found by the RNLI three miles away from where he jumped into the sea for a swim.
-19. [Steve Cooper: Head coach to leave Swansea City](https://www.bbc.co.uk/sport/football/57918658) - Steve Cooper is set to leave his position as Swansea City's head coach.
+19. [Steve Cooper: Head coach leaves Swansea City](https://www.bbc.co.uk/sport/football/57918658) - Steve Cooper leaves his position as Swansea City's head coach after two years in charge.
 20. [Alun Wyn Jones to captain British and Irish Lions in first Test against South Africa](https://www.bbc.co.uk/sport/rugby-union/57914574) - Alun Wyn Jones returns to captain the British and Irish Lions against South Africa on Saturday, in a side including three Scottish players for the first time since 1997.
 21. [Tokyo Olympics: Team GB footballers begin with win over Chile](https://www.bbc.co.uk/sport/football/57905236) - Team GB started their Olympic campaign successfully as the women's football side comfortably beat Chile in an empty stadium in Sapporo, Japan.
 22. [British and Irish Lions 2021: Captain Alun Wyn Jones reflects on 'surreal' return](https://www.bbc.co.uk/sport/rugby-union/57913078) - British and Irish Lions captain Alun Wyn Jones reflects on completing a remarkable recovery to lead the tourists against South Africa.

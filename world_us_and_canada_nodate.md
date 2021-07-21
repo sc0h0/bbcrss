@@ -1,6 +1,6 @@
 1. [Covid-19 pandemic drives US life expectancy fall](https://www.bbc.co.uk/news/world-us-canada-57917973) - Data shows the average American lifespan declined by one-and-a-half years in 2020.
 2. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just over 10 minutes after launch.
-3. [Former informant 'White Boy Rick' sues FBI for $100m](https://www.bbc.co.uk/news/world-us-canada-57918115) - The one-time teenage FBI informant says his work with the agency amounts to 'child abuse/
+3. [Former informant 'White Boy Rick' sues FBI for $100m](https://www.bbc.co.uk/news/world-us-canada-57918115) - The one-time teenage FBI informant says his work with the agency amounts to 'child abuse'
 4. [Oregon Bootleg Fire: Evacuations as largest US fire burns 364,000 acres](https://www.bbc.co.uk/news/world-us-canada-57890935) - The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.
 5. [Thomas Barrack: Top Trump aide accused of working as foreign agent](https://www.bbc.co.uk/news/world-us-canada-57909836) - Thomas Barrack is alleged to have lobbied the US government on behalf of the United Arab Emirates.
 6. [JP Morgan: US banking giant gives boss 'special award'](https://www.bbc.co.uk/news/business-57911203) - The award to Jamie Dimon is to persuade him to lead the company for a "significant number of years".

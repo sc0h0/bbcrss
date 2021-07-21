@@ -3,7 +3,7 @@
 3. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
 4. [Nigeria secures release of 100 kidnapped mothers and children](https://www.bbc.co.uk/news/world-africa-57910833) - The group, most of them women and children, were kidnapped last month in Nigeria's Zamfara state.
 5. [The battle for Indonesia's Gold Island](https://www.bbc.co.uk/news/world-asia-57902815) - There are fears that a mine will threaten Sangihe island's ancient forests and local water supply.
-6. [Former informant 'White Boy Rick' sues FBI for $100m](https://www.bbc.co.uk/news/world-us-canada-57918115) - The one-time teenage FBI informant says his work with the agency amounts to 'child abuse/
+6. [Former informant 'White Boy Rick' sues FBI for $100m](https://www.bbc.co.uk/news/world-us-canada-57918115) - The one-time teenage FBI informant says his work with the agency amounts to 'child abuse'
 7. [Strife-torn Haiti gets new prime minister](https://www.bbc.co.uk/news/world-latin-america-57910829) - Ariel Henry's appointment comes nearly two weeks after President Jovenel Moïse was assassinated.
 8. [Gold toilet found in Russian police bribery probe](https://www.bbc.co.uk/news/world-europe-57914270) - Investigators show video of a palatial villa, accusing traffic police of a mafia-style racket.
 9. [Spain arrest over celebrity Twitter accounts hack](https://www.bbc.co.uk/news/technology-57916521) - The police action is the latest in a series of arrests over the 2020 attack on a series of celebrity accounts.
