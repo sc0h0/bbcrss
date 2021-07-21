@@ -21,6 +21,6 @@
 21. [World Matchplay 2021: Gerwyn Price wins all-Welsh battle against Jonny Clayton](https://www.bbc.co.uk/sport/darts/57909914) - World champion Gerwyn Price beats Welsh compatriot Jonny Clayton 11-3 to reach the quarter-finals of the 2021 World Matchplay in Blackpool.
 22. [Rheolau ail dai yn 'annheg' ac 'afresymol' i berchnogion](https://www.bbc.co.uk/newyddion/57904467) - Yn ôl rhai perchnogion ail gartrefi, mae'r pwnc yn "llawer mwy cymhleth" nag y mae'n ymddangos.
 23. [Rhybudd y gallai'r tymheredd godi eto i 32C yng Nghymru](https://www.bbc.co.uk/newyddion/57906840) - Fe allai'r tymheredd gyrraedd ei lefel uchaf eleni wrth i'r rhybudd oren am wres eithafol barhau.
-24. [Alun Wyn Jones yn ôl i'r Llewod tair wythnos wedi anaf](https://www.bbc.co.uk/newyddion/57914954) - Bydd yn gapten y Llewod gyfer y gêm brawf gyntaf yn erbyn De Affrica, dair wythnos ar ôl datgymalu ei ysgwydd.
+24. [Alun Wyn Jones yn ôl i'r Llewod tair wythnos wedi anaf](https://www.bbc.co.uk/newyddion/57914954) - Bydd yn gapten y Llewod ar gyfer y gêm brawf gyntaf, er iddo ddatgymalu ei ysgwydd fis diwethaf.
 25. [Gareth Bonello yn plethu lleisiau Cymru ac India](https://www.bbc.co.uk/newyddion/57902854) - Khasi-Cymru Collective yw prosiect newydd y cerddor, sy'n cynnwys artistiaid o India
 26. [Prif hyfforddwyr yn gadael tîm rygbi Merched Cymru](https://www.bbc.co.uk/newyddion/57892737) - Warren Abrahams yn gadael ei swydd lai na naw mis ar ôl cael ei benodi.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 09:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 09:50:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,25 @@
             <pubDate>Tue, 20 Jul 2021 17:25:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: India outrage over 'no oxygen shortage death data' claim]]></title>
+            <description><![CDATA[A minister's claim that no Covid deaths were reported from a lack of oxygen has sparked anger.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57911638</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57911638</guid>
+            <pubDate>Wed, 21 Jul 2021 06:44:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Anger as half of Australians in lockdown again]]></title>
             <description><![CDATA[Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-57911032</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57911032</guid>
             <pubDate>Wed, 21 Jul 2021 06:32:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mucormycosis: India records more than 4,300 'black fungus' deaths]]></title>
+            <description><![CDATA[The normally rare infection has a 50% mortality rate and is hitting recovering Covid-19 patients.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57897682</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57897682</guid>
+            <pubDate>Wed, 21 Jul 2021 08:23:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympics: Tokyo 2020 chief does not rule out cancelling Games]]></title>
@@ -44,13 +58,6 @@
             <pubDate>Wed, 21 Jul 2021 04:05:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mandira Bedi: What Hindu scriptures say about women at cremations]]></title>
-            <description><![CDATA[Indian actress Mandira Bedi made news for doing her husband's last rites, generally a male preserve.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57894855</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57894855</guid>
-            <pubDate>Tue, 20 Jul 2021 23:01:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The battle for Indonesia's Gold Island]]></title>
             <description><![CDATA[There are fears that a mine will threaten Sangihe island's ancient forests and local water supply.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57902815</link>
@@ -58,11 +65,11 @@
             <pubDate>Tue, 20 Jul 2021 23:02:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[China says Microsoft hacking accusations fabricated by US and allies]]></title>
-            <description><![CDATA[There are concerns that the attack on the tech giant suggests China's cyber-behaviour is escalating.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57898147</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57898147</guid>
-            <pubDate>Tue, 20 Jul 2021 10:33:09 GMT</pubDate>
+            <title><![CDATA[2032 Games: Brisbane confirmed as Olympic and Paralympic host]]></title>
+            <description><![CDATA[Brisbane is confirmed as the host of the 2032 Olympic and Paralympic Games after approval at an IOC meeting in Tokyo]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57912026</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57912026</guid>
+            <pubDate>Wed, 21 Jul 2021 09:23:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nike trainer output at key factory hit by Covid outbreak]]></title>
@@ -70,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/business-57902093</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57902093</guid>
             <pubDate>Tue, 20 Jul 2021 17:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China says Microsoft hacking accusations fabricated by US and allies]]></title>
+            <description><![CDATA[There are concerns that the attack on the tech giant suggests China's cyber-behaviour is escalating.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57898147</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57898147</guid>
+            <pubDate>Tue, 20 Jul 2021 10:33:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eid al-Adha prayers continue as rockets fired in Afghanistan]]></title>
@@ -86,53 +100,11 @@
             <pubDate>Tue, 20 Jul 2021 08:12:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Singapore shocked by killing of boy, 13, at school]]></title>
-            <description><![CDATA[A 16-year-old student is charged with murder after a body is found in a bathroom and an axe seized.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57897762</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57897762</guid>
-            <pubDate>Tue, 20 Jul 2021 04:48:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin mining machines steamrolled by Malaysia police]]></title>
-            <description><![CDATA[Officers had seized more than 1,000 Bitcoin mining units allegedly powered by stolen electricity.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57897444</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57897444</guid>
-            <pubDate>Tue, 20 Jul 2021 07:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Composer Keigo Oyamada resigns over bullying at school]]></title>
-            <description><![CDATA[Keigo Oyamada resigned after it came out that he bullied disabled classmates and boasted about it.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57891364</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57891364</guid>
-            <pubDate>Mon, 19 Jul 2021 14:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brands drop Chinese-Canadian star Kris Wu over sex allegations]]></title>
-            <description><![CDATA[Kris Wu denies allegations that he coerced young girls, including minors, into having sex with him.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57884438</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57884438</guid>
-            <pubDate>Tue, 20 Jul 2021 12:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katie Hopkins deported from Australia over quarantine rules]]></title>
-            <description><![CDATA[Katie Hopkins - a far-right British commentator - bragged about plans to break isolation rules.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57883692</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57883692</guid>
-            <pubDate>Mon, 19 Jul 2021 12:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carlos Ghosn: Father and son sentenced for helping ex-Nissan boss escape]]></title>
-            <description><![CDATA[Michael and Peter Taylor were convicted of helping ex-Nissan boss Carlos Ghosn escape Japan in 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57883892</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57883892</guid>
-            <pubDate>Mon, 19 Jul 2021 04:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Athletes test positive for Covid at Olympic village]]></title>
-            <description><![CDATA[Two South Africa footballers test positive for Covid-19 in the Olympic village, while eight Team GB athletes and staff are cleared to resume training.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57844406</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57844406</guid>
-            <pubDate>Mon, 19 Jul 2021 12:30:30 GMT</pubDate>
+            <title><![CDATA[Mandira Bedi: What Hindu scriptures say about women at cremations]]></title>
+            <description><![CDATA[Indian actress Mandira Bedi made news for doing her husband's last rites, generally a male preserve.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57894855</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57894855</guid>
+            <pubDate>Tue, 20 Jul 2021 23:01:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Does Japan have Covid under control?]]></title>
@@ -168,90 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-57845644</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57845644</guid>
             <pubDate>Sun, 18 Jul 2021 23:43:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: How quiet rebel Naomi Osaka is changing Japan]]></title>
-            <description><![CDATA[Naomi Osaka's relationship with Japan has not always been easy, but change rarely is. How the face of the Games is changing the host nation.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57841166</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57841166</guid>
-            <pubDate>Fri, 16 Jul 2021 08:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Korindo: Korean palm oil giant stripped of sustainability status]]></title>
-            <description><![CDATA[A BBC investigation found Korindo had been buying and burning swathes of Asia's largest rainforests.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57845156</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57845156</guid>
-            <pubDate>Thu, 15 Jul 2021 02:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dying alone in Indonesia's grim battle with Covid-19]]></title>
-            <description><![CDATA[Firefighters haul bodies from homes as hospitals scramble for oxygen in Asia's new Covid epicentre.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57830770</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57830770</guid>
-            <pubDate>Thu, 15 Jul 2021 23:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Viewpoint: Why Sikhs celebrate kindness]]></title>
-            <description><![CDATA[A new book asks why Sikhs have made it a tradition to help strangers in their darkest moments.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57817615</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57817615</guid>
-            <pubDate>Thu, 15 Jul 2021 23:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: The gymnasts 'building bridges between cultures']]></title>
-            <description><![CDATA[The town of Murayama in northern Japan is preparing to welcome a team of Bulgarian Olympians.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57839224</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57839224</guid>
-            <pubDate>Thu, 15 Jul 2021 23:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gujarat: The Indian baby who was abducted twice]]></title>
-            <description><![CDATA[The disappearance of a two-day-old baby was the start of a case that crossed state lines in India.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57691616</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57691616</guid>
-            <pubDate>Thu, 15 Jul 2021 00:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian campaign to improve education about sexual consent]]></title>
-            <description><![CDATA[Thousands of stories have emerged of Australian students sexually assaulted by fellow pupils.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57824489</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57824489</guid>
-            <pubDate>Tue, 13 Jul 2021 23:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uttar Pradesh bill: The myth of India's population explosion]]></title>
-            <description><![CDATA[India's most populous state has a contentious plan for curbing population growth. But is it necessary?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57801764</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57801764</guid>
-            <pubDate>Tue, 13 Jul 2021 00:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In numbers: Life in Afghanistan after America leaves]]></title>
-            <description><![CDATA[How did 20 years of war between the US and the Taliban change Afghanistan?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57767067</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57767067</guid>
-            <pubDate>Tue, 13 Jul 2021 00:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What do we know about China's coronavirus vaccines?]]></title>
-            <description><![CDATA[Sinovac and Sinopharm jabs are being used in many countries that are seeing a surge of infections.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57817591</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57817591</guid>
-            <pubDate>Tue, 13 Jul 2021 09:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plastic surgery booming in China despite the dangers]]></title>
-            <description><![CDATA[Young people are using social media apps to plan cosmetic procedures which don't always meet expectations.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57691525</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57691525</guid>
-            <pubDate>Tue, 13 Jul 2021 00:14:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan woman 'unbroken' after being shot by her husband]]></title>
-            <description><![CDATA[Afghan woman Shakila Zareen had to have 22 operations after being shot in the face by her husband.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57779841</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57779841</guid>
-            <pubDate>Sun, 11 Jul 2021 23:04:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
