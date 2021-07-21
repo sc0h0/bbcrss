@@ -2,7 +2,7 @@
 2. [Domestic abuse: 'I went to prison three times - I'm so ashamed'](https://www.bbc.co.uk/news/uk-wales-57900940) - Mike went to prison three times for domestic violence, but says he has turned his life around.
 3. [Heatwave: People 'walking into A&E with life-threatening conditions'](https://www.bbc.co.uk/news/uk-wales-57907214) - One hospital boss says people with life-threatening conditions are walking into A&E.
 4. [Cardiff: Bute Park attack leaves man with life-threatening injuries](https://www.bbc.co.uk/news/uk-wales-57900310) - "To subject another person to violence in this way is intolerable," says senior police officer.
-5. [Part of M4 near Cardiff reopened after lorry crash](https://www.bbc.co.uk/news/uk-wales-57903438) - One person was taken to hospital after a crash involving a lorry on the motorway around Cardiff.
+5. [M4: Lanes on motorway at Cardiff shut following lorry crash](https://www.bbc.co.uk/news/uk-wales-57903438) - One person was taken to hospital after a crash involving a lorry on the motorway around Cardiff.
 6. [Watchdog to probe Gwent Police officer's 'use of force' in video](https://www.bbc.co.uk/news/uk-wales-57896406) - The video was shared by Black Lives Matter groups, who claim the officer used excessive force.
 7. [Violence against women: Top police role to be announced](https://www.bbc.co.uk/news/uk-57909118) - A new strategy for England and Wales comes amid concern about rape convictions and abuse in schools.
 8. [Cardiff man jumped from car after argument, inquest told](https://www.bbc.co.uk/news/uk-wales-57906114) - James Davies argued with his girlfriend before his death, a coroner's court hears.
@@ -21,7 +21,7 @@
 21. [Tokyo Olympics: Team GB women's football boss Hege Riise ready for 'emotional rollercoaster'](https://www.bbc.co.uk/sport/football/57905236) - Team GB's women's football boss Hege Riise says dealing with emotions "will be crucial" at the Tokyo Olympics.
 22. [Olympics: Tokyo 2020 chief does not rule out cancelling Games](https://www.bbc.co.uk/news/world-asia-57911122) - Just days before the Games' opening ceremony, more athletes have tested positive for Covid.
 23. [Rheolau ail dai yn 'annheg' ac 'afresymol' i berchnogion](https://www.bbc.co.uk/newyddion/57904467) - Yn ôl rhai perchnogion ail gartrefi, mae'r pwnc yn "llawer mwy cymhleth" nag y mae'n ymddangos.
-24. ['Gwres yn cynyddu'r straen' ar wasanaethau iechyd](https://www.bbc.co.uk/newyddion/57902996) - Mae rheolwyr yn apelio ar bobl i osgoi rhoi mwy o bwysau ar y gwasanaeth ambiwlans ac adrannau brys.
-25. [Pryder am effaith 'ddinistriol' gwersylla gwyllt ar natur](https://www.bbc.co.uk/newyddion/57905016) - Mae gwersylla gwyllt yn peryglu ecosystemau bregus Cymru, yn ôl yr Ymddiriedolaeth Genedlaethol.
+24. [Rhybudd y gallai'r tymheredd godi eto i 32C yng Nghymru](https://www.bbc.co.uk/newyddion/57906840) - Fe allai'r tymheredd gyrraedd ei lefel uchaf eleni wrth i'r rhybudd oren am wres eithafol barhau.
+25. ['Gwres yn cynyddu'r straen' ar wasanaethau iechyd](https://www.bbc.co.uk/newyddion/57902996) - Mae rheolwyr yn apelio ar bobl i osgoi rhoi mwy o bwysau ar y gwasanaeth ambiwlans ac adrannau brys.
 26. [Gareth Bonello yn plethu lleisiau Cymru ac India](https://www.bbc.co.uk/newyddion/57902854) - Khasi-Cymru Collective yw prosiect newydd y cerddor, sy'n cynnwys artistiaid o India
 27. [Prif hyfforddwyr yn gadael tîm rygbi Merched Cymru](https://www.bbc.co.uk/newyddion/57892737) - Warren Abrahams yn gadael ei swydd lai na naw mis ar ôl cael ei benodi.
