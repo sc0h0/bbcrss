@@ -40,3 +40,4 @@
 40. [Carl Starfelt: Celtic sign Swedish centre-half from Rubin Kazan](https://www.bbc.co.uk/sport/football/57844402) - Celtic sign Swedish centre-half Carl Starfelt from Rubin Kazan for an undisclosed fee.
 41. [Pedro Martinez Losa: Scotland appoint Bordeaux manager as head coach](https://www.bbc.co.uk/sport/football/57901052) - Pedro Martinez Losa is confirmed as the new head coach of the Scotland women's national team - more than seven months after Shelley Kerr stood down.
 42. [Tokyo Olympics: Katie Archibald on her gold medal dreams & pressure](https://www.bbc.co.uk/sport/olympics/57874662) - Cyclist Katie Archibald tells BBC Sport about her dreams of another gold medal and the pressure of helping Laura Kenny become Britain's best.
+43. [Kristoffer Ajer: Brentford sign Norway centre-back from Celtic on five-year deal](https://www.bbc.co.uk/sport/football/57922585) - Brentford sign Norway centre-back Kristoffer Ajer from Celtic on a five-year-deal.

@@ -1,5 +1,5 @@
 1. [Pegasus: Princess Latifa and Princess Haya numbers 'among leaks'](https://www.bbc.co.uk/news/world-middle-east-57922543) - Numbers used by Princesses Latifa and Haya are reportedly found in a database at the heart of the leaks.
-2. [China floods: 12 dead in Zhengzhou train and thousands evacuated in Henan](https://www.bbc.co.uk/news/world-asia-china-57861067) - Passengers describe how they climbed onto chairs to keep their heads above the floodwaters.
+2. ['It was hard to breathe': China flood terror as subway submerged](https://www.bbc.co.uk/news/world-asia-china-57920412) - Passengers tell of their fear after a busy subway carriage was flooded in central Henan province.
 3. [Monkeypox: More than 200 contacts tracked in US for rare disease](https://www.bbc.co.uk/news/world-us-canada-57919573) - No instances of the rare disease had been recorded in the US since 2003.
 4. [Harvey Weinstein pleads not guilty to LA sexual assault charges](https://www.bbc.co.uk/news/entertainment-arts-57912377) - The disgraced Hollywood producer appears in court in a wheelchair, facing sexual assault charges.
 5. [Former informant 'White Boy Rick' sues FBI for $100m](https://www.bbc.co.uk/news/world-us-canada-57918115) - The one-time teenage FBI informant says his work with the agency amounts to 'child abuse'
