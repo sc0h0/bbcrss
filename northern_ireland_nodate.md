@@ -1,6 +1,6 @@
 1. [Arlene Arkinson murdered by child rapist Robert Howard, inquest finds](https://www.bbc.co.uk/news/uk-northern-ireland-57918801) - An inquest concludes the teenager, who disappeared in August 1994, was killed by rapist Robert Howard.
 2. [Lu Na McKinney: Stephen McKinney guilty of murdering wife](https://www.bbc.co.uk/news/uk-northern-ireland-57916004) - Stephen McKinney, 44, had denied murdering his wife off Devenish Island, in Lough Erne, in April 2017.
-3. [Brexit: NI-GB trade agreement must be overhauled immediately - UK](https://www.bbc.co.uk/news/uk-politics-57911148) - The government says the Northern Ireland Protocol is damaging trade and tearing at the "fabric" of the UK.
+3. [Brexit: UK wants to redraw Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - Lord Frost says the Northern Ireland Protocol is tearing the UK's "fabric" - but the EU won't renegotiate.
 4. [Brexit: Stormont Parties divided on UK call to amend NI Protocol](https://www.bbc.co.uk/news/uk-northern-ireland-57901928) - Unionists welcome bid to change post-Brexit trade rules, but other parties criticise the move.
 5. [Covid-19: Two further deaths and 1,973 positive cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57918797) - There are currently 134 patients with Covid-19 in NI hospitals, eight of whom are in intensive care.
 6. [M&S to cut Christmas products in Northern Ireland](https://www.bbc.co.uk/news/business-57899239) - Chairman Archie Norman says customs checks will mean higher prices and less choice for customers.
