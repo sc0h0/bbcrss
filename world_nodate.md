@@ -1,4 +1,4 @@
-1. [Zhengzhou: 12 dead and thousands evacuated in China floods](https://www.bbc.co.uk/news/world-asia-china-57861067) - One social media user said residents were stuck on rooftops because they did not know how to swim.
+1. [Zhengzhou Henan: 12 dead and thousands evacuated in China floods](https://www.bbc.co.uk/news/world-asia-china-57861067) - One social media user said residents were stuck on rooftops because they did not know how to swim.
 2. [Nigeria secures release of 100 kidnapped mothers and children](https://www.bbc.co.uk/news/world-africa-57910833) - The group, most of them women and children, were kidnapped last month in Nigeria's Zamfara state.
 3. [Strife-torn Haiti gets new prime minister](https://www.bbc.co.uk/news/world-latin-america-57910829) - Ariel Henry's appointment comes nearly two weeks after President Jovenel Moïse was assassinated.
 4. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
@@ -6,7 +6,7 @@
 6. [Covid: France rolls out health pass as cases soar](https://www.bbc.co.uk/news/world-europe-57907678) - From Wednesday people will need proof of vaccination or a negative test to access some public places.
 7. [Olympics: Tokyo 2020 chief does not rule out cancelling Games](https://www.bbc.co.uk/news/world-asia-57911122) - Just days before the Games' opening ceremony, more athletes have tested positive for Covid.
 8. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just over 10 minutes after launch.
-9. [Covid-19: India outrage over no oxygen shortage death data](https://www.bbc.co.uk/news/world-asia-india-57911638) - A minister's claim that no Covid deaths were reported from a lack of oxygen has sparked anger.
+9. [Covid-19: India outrage over 'no oxygen shortage death data' claim](https://www.bbc.co.uk/news/world-asia-india-57911638) - A minister's claim that no Covid deaths were reported from a lack of oxygen has sparked anger.
 10. [JP Morgan: US banking giant gives boss 'special award'](https://www.bbc.co.uk/news/business-57911203) - The award to Jamie Dimon is to persuade him to lead the company for a "significant number of years".
 11. [Pegasus: French President Macron identified as spyware target](https://www.bbc.co.uk/news/world-europe-57907258) - The president's phone number was found on a list of numbers that were potential phone hacking targets.
 12. [Climate change: US pushes China to make faster carbon cuts](https://www.bbc.co.uk/news/science-environment-57904042) - US climate envoy John Kerry says help from China is needed to avoid a dangerous rise in heat.
@@ -16,7 +16,7 @@
 16. [Wally Funk: The 82-year-old on Jeff Bezos's Blue Origin flight](https://www.bbc.co.uk/news/world-us-canada-57686654) - Wally Funk was overlooked for space flight in the 60s but got a second chance with Jeff Bezos.
 17. [Mandira Bedi: What Hindu scriptures say about women at cremations](https://www.bbc.co.uk/news/world-asia-india-57894855) - Indian actress Mandira Bedi made news for doing her husband's last rites, generally a male preserve.
 18. [Germany grapples with flood havoc](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
-19. [Waist-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
+19. [Zhengzhou Henan: Waist-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
 20. [Jeff Bezos and crew launch into space on New Shepard](https://www.bbc.co.uk/news/world-57900620) - Billionaire Jeff Bezos has launched into space, in the first crewed flight of his rocket ship, New Shepard.
 21. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
 22. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.

@@ -1,14 +1,14 @@
 1. [M&S to cut Christmas products in Northern Ireland](https://www.bbc.co.uk/news/business-57899239) - Chairman Archie Norman says customs checks will mean higher prices and less choice for customers.
-2. [UK government borrowing falls in June](https://www.bbc.co.uk/news/business-57912347) - Despite a fall, borrowing was still the second-highest on record for June as Covid spending continues.
+2. [UK government borrowing falls in June as economy reopens](https://www.bbc.co.uk/news/business-57912347) - Despite a fall, borrowing was still the second-highest on record for June as Covid spending continues.
 3. [JP Morgan: US banking giant gives boss 'special award'](https://www.bbc.co.uk/news/business-57911203) - The award to Jamie Dimon is to persuade him to lead the company for a "significant number of years".
 4. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
-5. [Backlash as pinged staff rules called unworkable](https://www.bbc.co.uk/news/business-57901500) - Exemptions will be "considered on a case-by-case basis", but firms warn time is not on their side.
-6. [Netflix to include mobile games for subscribers](https://www.bbc.co.uk/news/business-57910038) - The firm said on Tuesday that the "time is right to learn more about how our members value games".
-7. [Nike trainer output at key factory hit by Covid outbreak](https://www.bbc.co.uk/news/business-57902093) - Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.
-8. [Women's state pension: Compensation closer for Waspi campaigners](https://www.bbc.co.uk/news/business-57900320) - The government was too slow to tell women they would be directly affected by the rising state pension age.
-9. [Travel firms lose court bid on traffic light list](https://www.bbc.co.uk/news/business-57903979) - Decisions taken by the government on the traffic light travel list were not unlawful, judges rule.
-10. [Covid: Officers told not to check green and amber arrivals, union says](https://www.bbc.co.uk/news/uk-57909022) - Passenger locator forms and mandatory tests will not be routinely reviewed in England, a union confirms.
-11. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
+5. [Netflix to include mobile games for subscribers](https://www.bbc.co.uk/news/business-57910038) - The firm said on Tuesday that the "time is right to learn more about how our members value games".
+6. [Backlash as pinged staff rules called unworkable](https://www.bbc.co.uk/news/business-57901500) - Exemptions will be "considered on a case-by-case basis", but firms warn time is not on their side.
+7. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
+8. [Nike trainer output at key factory hit by Covid outbreak](https://www.bbc.co.uk/news/business-57902093) - Nike could run out of its Vietnamese-made trainers because of a rise in Covid infections in the region.
+9. [Women's state pension: Compensation closer for Waspi campaigners](https://www.bbc.co.uk/news/business-57900320) - The government was too slow to tell women they would be directly affected by the rising state pension age.
+10. [Travel firms lose court bid on traffic light list](https://www.bbc.co.uk/news/business-57903979) - Decisions taken by the government on the traffic light travel list were not unlawful, judges rule.
+11. [Covid: Officers told not to check green and amber arrivals, union says](https://www.bbc.co.uk/news/uk-57909022) - Passenger locator forms and mandatory tests will not be routinely reviewed in England, a union confirms.
 12. [HMV backs High Street with plans for 10 new stores](https://www.bbc.co.uk/news/business-57899065) - The music chain's owner says people love shopping and want to touch goods before buying.
 13. [Apple delays return to office as Covid cases rise](https://www.bbc.co.uk/news/technology-57891289) - A three-day-a-week return to the office is reportedly postponed until October.
 14. [Israel PM warns Ben & Jerry's owner Unilever of consequences over sales ban](https://www.bbc.co.uk/news/world-middle-east-57902243) - The ice cream maker's parent company Unilever is told "strong action" will be taken against boycotts.

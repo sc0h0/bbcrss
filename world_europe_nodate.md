@@ -1,10 +1,10 @@
 1. [Covid: France rolls out health pass as cases soar](https://www.bbc.co.uk/news/world-europe-57907678) - From Wednesday people will need proof of vaccination or a negative test to access some public places.
 2. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - There have now been more migrants crossing the Channel this year than in the whole of 2020.
 3. [Brexit: UK to outline how it wants to overhaul Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The government calls a deal, which could see sausage exports from Britain to NI banned, unsustainable.
-4. [In pictures: Germany grapples with flood aftermath](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
-5. [UK clashes with EU over Gibraltar's post-Brexit status](https://www.bbc.co.uk/news/uk-politics-57908376) - Foreign Secretary Dominic Raab says a draft EU mandate undermines UK sovereignty over the territory.
-6. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
-7. [Pegasus: French President Macron identified as spyware target](https://www.bbc.co.uk/news/world-europe-57907258) - The president's phone number was found on a list of numbers that were potential phone hacking targets.
+4. [Pegasus: French President Macron identified as spyware target](https://www.bbc.co.uk/news/world-europe-57907258) - The president's phone number was found on a list of numbers that were potential phone hacking targets.
+5. [In pictures: Germany grapples with flood aftermath](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
+6. [UK clashes with EU over Gibraltar's post-Brexit status](https://www.bbc.co.uk/news/uk-politics-57908376) - Foreign Secretary Dominic Raab says a draft EU mandate undermines UK sovereignty over the territory.
+7. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
 8. [European Beach Handball Championships: Norway hit with 1,500 euros bikini fine](https://www.bbc.co.uk/sport/handball/57890430) - Norway are fined 1,500 euros (£1,295) for wearing shorts instead of bikini bottoms at the European Beach Handball Championships.
 9. [Anthony Joshua v Oleksandr Usyk confirmed for Tottenham on 25 September](https://www.bbc.co.uk/sport/boxing/57907669) - Anthony Joshua will defend his world heavyweight titles against Oleksandr Usyk at Tottenham Hotspur Stadium on 25 September.
 10. [Tokyo Olympics: Poland send six swimmers home after selecting too many by mistake](https://www.bbc.co.uk/sport/olympics/57898489) - Poland send six swimmers home from the Tokyo Olympics after selecting too many by mistake.
@@ -16,13 +16,8 @@
 16. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
 17. [What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?](https://www.bbc.co.uk/news/explainers-56997931) - What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.
 18. [The migrants hunger-striking for legal status in Belgium](https://www.bbc.co.uk/news/world-europe-57867823) - More than 400 go without food demanding a clear path to residency in Belgium.
-19. [Clean-up operations in flood-hit western Europe](https://www.bbc.co.uk/news/world-europe-57861385) - Record rainfall in western Europe has caused rivers to burst their banks, leaving dozens dead.
-20. [Germany floods: 'My city looks like a battlefield'](https://www.bbc.co.uk/news/world-europe-57862570) - Witnesses voice their grief and horror at the deadly floods in western Germany.
-21. [Flood disaster in maps and charts](https://www.bbc.co.uk/news/world-europe-57862894) - Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.
-22. [Europe floods: Neighbourhoods clear up after record rainfall](https://www.bbc.co.uk/news/world-europe-57861384) - BBC Netherlands correspondent Anna Holligan is in Valkenburg, where some residents have been forced to leave their homes.
-23. [In pictures: Floods kill dozens](https://www.bbc.co.uk/news/world-europe-57858826) - Record rainfall caused rivers to burst their banks, leaving at least 122 dead in Germany and Belgium.
-24. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
-25. [Horse racing: Inside the abattoir slaughtering racehorses](https://www.bbc.co.uk/news/uk-57896848) - Campaign group Animal Aid set up covert cameras in one of the few slaughterhouses licensed to kill horses.
-26. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
-27. [Drone footage shows flood damage in Germany and Belgium](https://www.bbc.co.uk/news/world-europe-57869617) - At least 120 people have died and hundreds more are unaccounted for in western Europe.
-28. [Germany floods: Helicopter rescues residents from rooftops](https://www.bbc.co.uk/news/world-europe-57849206) - Dozens of people have died and many more are missing after severe floods in Germany.
+19. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
+20. [Horse racing: Inside the abattoir slaughtering racehorses](https://www.bbc.co.uk/news/uk-57896848) - Campaign group Animal Aid set up covert cameras in one of the few slaughterhouses licensed to kill horses.
+21. [Europe floods: Residents return home to see damage inflicted](https://www.bbc.co.uk/news/world-europe-57878577) - Resident in Kleivelderweg, deep inside the Dutch disaster zone, find homes and businesses destroyed.
+22. [Drone footage shows flood damage in Germany and Belgium](https://www.bbc.co.uk/news/world-europe-57869617) - At least 120 people have died and hundreds more are unaccounted for in western Europe.
+23. [Germany floods: Helicopter rescues residents from rooftops](https://www.bbc.co.uk/news/world-europe-57849206) - Dozens of people have died and many more are missing after severe floods in Germany.

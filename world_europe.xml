@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 07:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 08:19:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Wed, 21 Jul 2021 07:48:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pegasus: French President Macron identified as spyware target]]></title>
+            <description><![CDATA[The president's phone number was found on a list of numbers that were potential phone hacking targets.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57907258</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907258</guid>
+            <pubDate>Tue, 20 Jul 2021 19:55:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[In pictures: Germany grapples with flood aftermath]]></title>
             <description><![CDATA[A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57902024</link>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/technology-57901113</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57901113</guid>
             <pubDate>Tue, 20 Jul 2021 17:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pegasus: French President Macron identified as spyware target]]></title>
-            <description><![CDATA[The president's phone number was found on a list of numbers that were potential phone hacking targets.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57907258</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907258</guid>
-            <pubDate>Tue, 20 Jul 2021 19:55:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[European Beach Handball Championships: Norway hit with 1,500 euros bikini fine]]></title>
@@ -140,41 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57867823</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57867823</guid>
             <pubDate>Fri, 16 Jul 2021 23:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clean-up operations in flood-hit western Europe]]></title>
-            <description><![CDATA[Record rainfall in western Europe has caused rivers to burst their banks, leaving dozens dead.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57861385</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57861385</guid>
-            <pubDate>Fri, 16 Jul 2021 09:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany floods: 'My city looks like a battlefield']]></title>
-            <description><![CDATA[Witnesses voice their grief and horror at the deadly floods in western Germany.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57862570</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57862570</guid>
-            <pubDate>Fri, 16 Jul 2021 13:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flood disaster in maps and charts]]></title>
-            <description><![CDATA[Maps, images and graphics showing the heavy rainfall and flooding that has caused widespread damage.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57862894</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57862894</guid>
-            <pubDate>Fri, 16 Jul 2021 16:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europe floods: Neighbourhoods clear up after record rainfall]]></title>
-            <description><![CDATA[BBC Netherlands correspondent Anna Holligan is in Valkenburg, where some residents have been forced to leave their homes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57861384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57861384</guid>
-            <pubDate>Fri, 16 Jul 2021 08:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In pictures: Floods kill dozens]]></title>
-            <description><![CDATA[Record rainfall caused rivers to burst their banks, leaving at least 122 dead in Germany and Belgium.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57858826</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57858826</guid>
-            <pubDate>Fri, 16 Jul 2021 12:56:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First space tourist Dennis Tito: 'I was euphoric']]></title>
