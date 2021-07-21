@@ -1,7 +1,7 @@
 1. [Heatwave: Wales' temperatures could peak as holiday getaway begins](https://www.bbc.co.uk/news/uk-wales-57892927) - An extreme heat weather warning is in place as temperatures could hit 32C (90F) on Wednesday.
 2. [Man arrested on murder charge after Cardigan death](https://www.bbc.co.uk/news/uk-wales-57918439) - A 37-year-old man died in the town, leading to the arrest of a 22-year-old on Wednesday.
 3. [Dinosaurs: 'Spectacular' fossil footprint find by four-year-old goes on display](https://www.bbc.co.uk/news/uk-wales-57910510) - A 200-million-year-old fossilised footprint could help scientists understand how dinosaurs walked.
-4. [Neo-Nazi Andrew Dymock jailed for terror offences](https://www.bbc.co.uk/news/uk-england-somerset-57920928) - A judge tells Andrew Dymock, 24, he had promoted a "distorted and wicked cause".
+4. [Neo-Nazi Andrew Dymock jailed for terror offences and hate crimes](https://www.bbc.co.uk/news/uk-england-somerset-57920928) - Andrew Dymock promoted a "distorted and wicked cause" and chose a path of "hatred and bigotry".
 5. [John Bishop in car crash avoiding 'big chicken'](https://www.bbc.co.uk/news/uk-wales-57916501) - John Bishop, 54, was travelling through Wales to get a ferry to Ireland at the time.
 6. [Newport Wafer Fab boss denies Chinese state link](https://www.bbc.co.uk/news/uk-wales-57920037) - Wafer Fab in Newport has been bought by Nexperia, a subsidiary of Wingtech, a Chinese-backed firm.
 7. [Covid antibodies estimated for 92.6% of adults in Wales](https://www.bbc.co.uk/news/uk-wales-57915167) - Nearly three quarters of under 25s - and nearly 93% of adults overall - are believed to have antibodies.

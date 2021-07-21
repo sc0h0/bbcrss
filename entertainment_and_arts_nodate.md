@@ -1,6 +1,6 @@
 1. [John Lydon likens Sex Pistols agreement to slave labour](https://www.bbc.co.uk/news/entertainment-arts-57918628) - Johnny Rotten's former bandmates are suing him to allow the band's music to be used in a TV drama.
 2. [Taylor Swift: No more Grammys for singer's re-recorded Fearless album](https://www.bbc.co.uk/news/entertainment-arts-57913404) - She will not submit the new version of her 2008 album, though 2020's Evermore will be in contention.
-3. [Craig Charles to replace Shaun Keaveny on 6 Music](https://www.bbc.co.uk/news/entertainment-arts-57912382) - The actor and DJ will take over on the station's weekend afternoon show from October.
+3. [Craig Charles to replace Shaun Keaveny on 6 Music](https://www.bbc.co.uk/news/entertainment-arts-57912382) - The actor and DJ will take over on the station's weekday afternoon show from October.
 4. [AJ Tracey, Headie One and Pa Salieu lead GRM Daily Rated awards](https://www.bbc.co.uk/news/entertainment-arts-57903275) - The three rappers have four nominations apiece, while Little Simz is up for best female artist.
 5. [Lee Child: Why Forsyth's Day Of The Jackal was a game-changer for thrillers](https://www.bbc.co.uk/news/entertainment-arts-57856646) - The Jack Reacher novelist explains the huge influence of Frederick Forsyth's first thriller.
 6. [Glastonbury decides against one-off concert in September](https://www.bbc.co.uk/news/entertainment-arts-57913369) - Organisers say they've decided not to press ahead with staging the one-day festival.
