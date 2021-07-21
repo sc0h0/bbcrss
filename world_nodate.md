@@ -16,8 +16,8 @@
 16. [Wally Funk: The 82-year-old on Jeff Bezos's Blue Origin flight](https://www.bbc.co.uk/news/world-us-canada-57686654) - Wally Funk was overlooked for space flight in the 60s but got a second chance with Jeff Bezos.
 17. [Mandira Bedi: What Hindu scriptures say about women at cremations](https://www.bbc.co.uk/news/world-asia-india-57894855) - Indian actress Mandira Bedi made news for doing her husband's last rites, generally a male preserve.
 18. [Germany grapples with flood havoc](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
-19. [Jeff Bezos and crew launch into space on New Shepard](https://www.bbc.co.uk/news/world-57900620) - Billionaire Jeff Bezos has launched into space, in the first crewed flight of his rocket ship, New Shepard.
-20. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
-21. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
-22. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
-23. [Channel crossings migrants: 'We need a safe place'](https://www.bbc.co.uk/news/uk-57899177) - A BBC team encounters some of the migrants trying to make the dangerous journey to England.
+19. [Severe floods hit China's Henan province](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
+20. [Jeff Bezos and crew launch into space on New Shepard](https://www.bbc.co.uk/news/world-57900620) - Billionaire Jeff Bezos has launched into space, in the first crewed flight of his rocket ship, New Shepard.
+21. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
+22. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
+23. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
