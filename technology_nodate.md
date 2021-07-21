@@ -1,16 +1,16 @@
-1. [Zoom offers app store with team-building games](https://www.bbc.co.uk/news/technology-57916519) - A range of both productivity and fun apps will be available for users within the Zoom platform.
-2. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
-3. [China: Taobao, Weibo fined for illegal child content](https://www.bbc.co.uk/news/business-57911207) - Major online platforms like Weibo, Taobao and QQ have been fined and ordered to "clean up".
-4. [Netflix to include mobile games for subscribers](https://www.bbc.co.uk/news/business-57910038) - The firm said on Tuesday that the "time is right to learn more about how our members value games".
-5. [Keep your router out of the sun, Virgin Media warns](https://www.bbc.co.uk/news/technology-57901108) - The company is alerting customers to the risk of overheating.
-6. [Biden rows back on Facebook 'killing people' comment](https://www.bbc.co.uk/news/technology-57901710) - The US president says he was referring to a dozen people spreading misinformation on the platform.
-7. [Northern's ticket machines hit by ransomware cyber attack](https://www.bbc.co.uk/news/uk-england-57892711) - Northern rail's new self-service machines were installed at 420 stations two months ago.
-8. [Apple delays return to office as Covid cases rise](https://www.bbc.co.uk/news/technology-57891289) - A three-day-a-week return to the office is reportedly postponed until October.
-9. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just over 10 minutes after launch.
-10. [Covid: Will lockdown change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
-11. [Council algorithms mass profile millions, campaigners say](https://www.bbc.co.uk/news/uk-57869647) - Most of the software is "secret, unevidenced, invasive and likely discriminatory", Big Brother Watch says.
-12. [China says Microsoft hacking accusations fabricated by US and allies](https://www.bbc.co.uk/news/world-asia-china-57898147) - There are concerns that the attack on the tech giant suggests China's cyber-behaviour is escalating.
-13. [Twitter suspends Marjorie Taylor Greene over 'misleading' Covid posts](https://www.bbc.co.uk/news/world-us-canada-57897401) - Georgia Republican Marjorie Taylor Greene has been a vocal critic of vaccines and the use of masks.
+1. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - The police action is the latest in a series of arrests over the 2020 attack on a series of celebrity accounts.
+2. [Zoom offers app store with team-building games](https://www.bbc.co.uk/news/technology-57916519) - A range of both productivity and fun apps will be available for users within the Zoom platform.
+3. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
+4. [China: Taobao, Weibo fined for illegal child content](https://www.bbc.co.uk/news/business-57911207) - Major online platforms like Weibo, Taobao and QQ have been fined and ordered to "clean up".
+5. [Netflix to include mobile games for subscribers](https://www.bbc.co.uk/news/business-57910038) - The firm said on Tuesday that the "time is right to learn more about how our members value games".
+6. [Keep your router out of the sun, Virgin Media warns](https://www.bbc.co.uk/news/technology-57901108) - The company is alerting customers to the risk of overheating.
+7. [Biden rows back on Facebook 'killing people' comment](https://www.bbc.co.uk/news/technology-57901710) - The US president says he was referring to a dozen people spreading misinformation on the platform.
+8. [Northern's ticket machines hit by ransomware cyber attack](https://www.bbc.co.uk/news/uk-england-57892711) - Northern rail's new self-service machines were installed at 420 stations two months ago.
+9. [Apple delays return to office as Covid cases rise](https://www.bbc.co.uk/news/technology-57891289) - A three-day-a-week return to the office is reportedly postponed until October.
+10. [Jeff Bezos launches to space aboard New Shepard rocket ship](https://www.bbc.co.uk/news/science-environment-57849364) - The world's richest man and three other passengers return safely just over 10 minutes after launch.
+11. [Covid: Will lockdown change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
+12. [Council algorithms mass profile millions, campaigners say](https://www.bbc.co.uk/news/uk-57869647) - Most of the software is "secret, unevidenced, invasive and likely discriminatory", Big Brother Watch says.
+13. [China says Microsoft hacking accusations fabricated by US and allies](https://www.bbc.co.uk/news/world-asia-china-57898147) - There are concerns that the attack on the tech giant suggests China's cyber-behaviour is escalating.
 14. [Cyber-flashing: 'I get explicit messages every day'](https://www.bbc.co.uk/news/uk-57902816) - Influencer Elle Edwards lets us inside her DMs to show the extent of sexual abuse faced by women online.
 15. [Spyware: The software that watches you](https://www.bbc.co.uk/news/technology-57894917) - BBC’s cyber reporter, Joe Tidy, agreed to be spied on to understand the spyware experience further.
 16. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
