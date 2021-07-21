@@ -1,4 +1,4 @@
-1. [M&S to cut Christmas products in Northern Ireland](https://www.bbc.co.uk/news/business-57899239) - Wed, 21 Jul 2021 07:00:15 GMT - Chairman Archie Norman says customs checks will mean higher prices and less choice for customers.
+1. [M&S to cut Christmas products in Northern Ireland](https://www.bbc.co.uk/news/business-57899239) - Wed, 21 Jul 2021 07:33:55 GMT - Chairman Archie Norman says customs checks will mean higher prices and less choice for customers.
 2. [UK government borrowing falls in June](https://www.bbc.co.uk/news/business-57912347) - Wed, 21 Jul 2021 06:53:58 GMT - Despite a fall, borrowing was still the second-highest on record for June as Covid spending continues.
 3. [JP Morgan: US banking giant gives boss 'special award'](https://www.bbc.co.uk/news/business-57911203) - Wed, 21 Jul 2021 04:59:04 GMT - The award to Jamie Dimon is to persuade him to lead the company for a "significant number of years".
 4. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Tue, 20 Jul 2021 22:58:42 GMT - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?

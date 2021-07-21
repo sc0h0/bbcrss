@@ -2,7 +2,7 @@
 2. [Marcus Rashford defends charity deals over profit claims](https://www.bbc.co.uk/news/uk-england-manchester-57912240) - The England striker asks why footballers "can't just do the right thing" for charity.
 3. [Seaside poor health overlooked, warns Whitty](https://www.bbc.co.uk/news/uk-57908387) - Bad housing and deprivation are a toxic mix for health, says England's chief medical officer.
 4. [England heatwave: Giant hail in Leicestershire damages cars](https://www.bbc.co.uk/news/uk-england-leicestershire-57909700) - Golf ball-sized hail comes "thundering down" as the extreme heat warning for England continues.
-5. [Teenager found dead in Knottingley canal in hot weather](https://www.bbc.co.uk/news/uk-england-leeds-57911897) - The boy's death is the third involving water in Yorkshire over the past few days.
+5. [Teenager found dead in Knottingley canal in hot weather](https://www.bbc.co.uk/news/uk-england-leeds-57911897) - The boy's death is the fourth nvolving water in Yorkshire over the past few days.
 6. [Hospital cleaner: 'Nobody says thank you'](https://www.bbc.co.uk/news/uk-england-london-57909642) - Ernesta has been campaigning for better pay and conditions for cleaners during the pandemic.
 7. [Girl killed in Wiltshire crash 'full of life and laughter'](https://www.bbc.co.uk/news/uk-england-wiltshire-57909295) - Eloise Jackson, 7, was struck by a lorry while riding her bicycle in Collingbourne Ducis, Wiltshire.
 8. [Latitude 2021: What being a Covid test event means for the festival](https://www.bbc.co.uk/news/uk-england-suffolk-57895625) - The festival in Suffolk will be the first major event following the lifting of most restrictions.
