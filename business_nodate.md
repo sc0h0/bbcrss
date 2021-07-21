@@ -1,5 +1,5 @@
 1. [M&S to cut Christmas products in Northern Ireland](https://www.bbc.co.uk/news/business-57899239) - Chairman Archie Norman says customs checks will mean higher prices and less choice for customers.
-2. [UK government borrowing falls in June as economy reopens](https://www.bbc.co.uk/news/business-57912347) - Despite a fall, borrowing was still the second-highest on record for June as Covid spending continues.
+2. [UK government borrowing falls in June as economy reopens](https://www.bbc.co.uk/news/business-57912347) - But government borrowing was still the second-highest on record for June as Covid spending continues.
 3. [JP Morgan: US banking giant gives boss 'special award'](https://www.bbc.co.uk/news/business-57911203) - The award to Jamie Dimon is to persuade him to lead the company for a "significant number of years".
 4. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
 5. [Netflix to include mobile games for subscribers](https://www.bbc.co.uk/news/business-57910038) - The firm said on Tuesday that the "time is right to learn more about how our members value games".
