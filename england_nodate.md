@@ -17,9 +17,9 @@
 17. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
 18. [Hospital cleaner: 'Nobody says thank you'](https://www.bbc.co.uk/news/uk-england-london-57909642) - Ernesta has been campaigning for better pay and conditions for cleaners during the pandemic.
 19. [Covid: Royal Blackburn Hospital facing huge pressures](https://www.bbc.co.uk/news/uk-england-lancashire-57900021) - Royal Blackburn Hospital staff say they are feeling the pressure due to a rise in Covid cases.
-20. [Storms hit Essex and Cambridgeshire after hot spell](https://www.bbc.co.uk/news/uk-england-essex-57909228) - The Met Office has issued an amber warning for thunderstorms.
-21. [Meet the paddleboarders cleaning up the canals](https://www.bbc.co.uk/news/uk-england-manchester-57902379) - Volunteers have been using their spare time to go litter picking along Manchester's canal tow paths.
-22. [Derbyshire lorry driver builds kestrel nest boxes in spare time](https://www.bbc.co.uk/news/uk-england-derbyshire-57824187) - Nature-loving lorry driver builds nest boxes for kestrels in his spare time.
+20. [Manchester author achieves dream thanks to literacy classes](https://www.bbc.co.uk/news/uk-england-manchester-57867004) - Karen Woods was illiterate at 39 but has now published 21 novels and teaches creative writing.
+21. [Thunderstorms hit after hot spell](https://www.bbc.co.uk/news/uk-england-essex-57909228) - The Met Office has issued an amber warning for thunderstorms.
+22. [Meet the paddleboarders cleaning up the canals](https://www.bbc.co.uk/news/uk-england-manchester-57902379) - Volunteers have been using their spare time to go litter picking along Manchester's canal tow paths.
 23. [Vue cinema chain fined £750,000 over seat crush death](https://www.bbc.co.uk/news/uk-england-birmingham-57908134) - Ateeq Rafiq died after getting his head stuck under a motorised footrest while searching for keys.
 24. [Diamonds swapped for pebbles in London gem heist](https://www.bbc.co.uk/news/uk-england-london-57906031) - Gems worth £4.2m were allegedly swapped for pebbles at a Mayfair jewellers, a court hears.
 25. [Student murdered in watch robbery attempt near Harrods, court hears](https://www.bbc.co.uk/news/uk-england-london-57898473) - The student was stabbed in the chest and collapsed and died near the Harrods Christmas tree.

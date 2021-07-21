@@ -1,5 +1,5 @@
-1. [Brexit: UK to outline how it wants to overhaul Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The government calls a deal, which could see sausage exports from Britain to NI banned, unsustainable.
-2. [Liverpool stripped of Unesco World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475) - The city is deleted from the much-coveted Unesco list because of developments on the waterfront.
+1. [Liverpool stripped of Unesco World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475) - The city is deleted from the much-coveted Unesco list because of developments on the waterfront.
+2. [Brexit: UK to outline how it wants to overhaul Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The government calls a deal, which could see sausage exports from Britain to NI banned, unsustainable.
 3. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - There have now been more migrants crossing the Channel this year than in the whole of 2020.
 4. [GB women's footballers take knee ahead of first win](https://www.bbc.co.uk/sport/olympics/57913424) - Great Britain's women's football squad take the knee before their opening 2-0 win over Chile at Tokyo 2020.
 5. [Dr Michael Heath: Families feared they cremated the wrong person](https://www.bbc.co.uk/news/uk-england-57888136) - Families say Dr Michael Heath made multiple errors investigating the deaths of their loved ones.
