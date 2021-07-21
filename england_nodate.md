@@ -1,5 +1,5 @@
 1. [Liverpool stripped of Unesco World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475) - The city is deleted from the much-coveted Unesco list because of developments on the waterfront.
-2. [NHS workers in England offered 3% pay rise](https://www.bbc.co.uk/news/health-57922712) - Nurses and other NHS workers will get the extra 'in recognition of unique impact of pandemic' on staff.
+2. [NHS workers in England offered 3% pay rise](https://www.bbc.co.uk/news/health-57922712) - Nurses and other NHS workers will get the award "in recognition of the unique impact of pandemic" on staff.
 3. [Neo-Nazi Andrew Dymock jailed for terror and hate crimes](https://www.bbc.co.uk/news/uk-england-somerset-57920928) - Andrew Dymock promoted a "distorted and wicked cause" and chose a path of "hatred and bigotry".
 4. [The Smithy Family: Police urge public not to investigate TikTok house arson](https://www.bbc.co.uk/news/uk-england-london-57915749) - Nick Smith said his family could have been killed when their house caught fire in a suspected arson.
 5. [Jordan Banks: Stepdad saw boy hit by lightning, inquest hears](https://www.bbc.co.uk/news/uk-england-lancashire-57917009) - Jordan Banks, nine, died due to an "extremely rare" lightning strike during football training.

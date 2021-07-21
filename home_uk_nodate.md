@@ -1,4 +1,4 @@
-1. [NHS workers in England offered 3% pay rise](https://www.bbc.co.uk/news/health-57922712) - Nurses and other NHS workers will get the extra 'in recognition of unique impact of pandemic' on staff.
+1. [NHS workers in England offered 3% pay rise](https://www.bbc.co.uk/news/health-57922712) - Nurses and other NHS workers will get the award "in recognition of the unique impact of pandemic" on staff.
 2. [Brexit: UK wants to redraw Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - Lord Frost says the Northern Ireland Protocol is tearing the UK's "fabric" - but the EU won't renegotiate.
 3. [Keir Starmer to isolate after his child tests positive for Covid](https://www.bbc.co.uk/news/uk-politics-57918823) - The Labour leader was at PMQs earlier but had tested negative this morning, his spokesman says.
 4. [BP: Lorry driver shortages closing some sites temporarily](https://www.bbc.co.uk/news/business-57912922) - The oil firm says the "vast majority" of shortages were being "resolved within a day".
