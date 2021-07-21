@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 19:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 19:54:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Opioid crisis: US drug giants reach $26bn settlement]]></title>
+            <description><![CDATA[Four drug-makers and distributors have agreed to pay the sum to settle thousands of government lawsuits.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57910039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57910039</guid>
+            <pubDate>Wed, 21 Jul 2021 19:53:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BP: Lorry driver shortages closing some sites temporarily]]></title>
             <description><![CDATA[The oil firm says the "vast majority" of shortages were being "resolved within a day".]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-57911203</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57911203</guid>
             <pubDate>Wed, 21 Jul 2021 04:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there a solution to the hospitality staff crisis?]]></title>
-            <description><![CDATA[Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?]]></description>
-            <link>https://www.bbc.co.uk/news/business-57817775</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57817775</guid>
-            <pubDate>Tue, 20 Jul 2021 22:58:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The little tech firm gunning for an airspeed record]]></title>
