@@ -1,5 +1,5 @@
-1. [Zhengzhou Henan: 12 dead and thousands evacuated in China floods](https://www.bbc.co.uk/news/world-asia-china-57861067) - One social media user said residents were stuck on rooftops because they did not know how to swim.
-2. [Zhengzhou Henan: Waist-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
+1. [Henan floods: 12 dead in Zhengzhou train and thousands evacuated in China](https://www.bbc.co.uk/news/world-asia-china-57861067) - Commuters describe how they climbed onto chairs to keep their heads above the floodwaters.
+2. [Zhengzhou Henan: Chest-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
 3. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
 4. [Olympics: Tokyo 2020 chief does not rule out cancelling Games](https://www.bbc.co.uk/news/world-asia-57911122) - Just days before the Games' opening ceremony, more athletes have tested positive for Covid.
 5. [Mandira Bedi: What Hindu scriptures say about women at cremations](https://www.bbc.co.uk/news/world-asia-india-57894855) - Indian actress Mandira Bedi made news for doing her husband's last rites, generally a male preserve.

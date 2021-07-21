@@ -11,7 +11,7 @@
 11. [Covid: Asia follows global shares slide amid recovery fears](https://www.bbc.co.uk/news/business-57885183) - Stocks in Asia follow Monday's falls, but shares in Europe make a brighter start on Tuesday.
 12. [Tony Blair's Irish Famine message not signed off by him, archive papers show](https://www.bbc.co.uk/news/uk-57894210) - Files show the former PM's private secretary wrote the statement but could not reach him for approval.
 13. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
-14. ['Squiggly wiggly' fossils rise from a Jurassic sea](https://www.bbc.co.uk/news/science-environment-57853537) - Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.
+14. ['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils](https://www.bbc.co.uk/news/science-environment-57853537) - Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.
 15. [Heatwaves: What do they do to the body and who is at risk?](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
 16. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
 17. [What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?](https://www.bbc.co.uk/news/explainers-56997931) - What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.

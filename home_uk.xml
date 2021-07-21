@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 08:59:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 09:23:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[There have now been more migrants crossing the Channel this year than in the whole of 2020.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57909188</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57909188</guid>
-            <pubDate>Wed, 21 Jul 2021 08:29:47 GMT</pubDate>
+            <pubDate>Wed, 21 Jul 2021 09:02:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Seaside poor health overlooked, warns Whitty]]></title>
@@ -37,6 +37,13 @@
             <pubDate>Wed, 21 Jul 2021 03:29:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Commuters trapped on trains as China floods rise]]></title>
+            <description><![CDATA[Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57908888</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57908888</guid>
+            <pubDate>Tue, 20 Jul 2021 17:25:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Cancelling Olympics 'not ruled out' and lockdown anger]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday morning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57907019</link>
@@ -44,18 +51,18 @@
             <pubDate>Wed, 21 Jul 2021 07:06:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Zhengzhou Henan: Waist-high flooding hits China trains and roads]]></title>
-            <description><![CDATA[Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57908888</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57908888</guid>
-            <pubDate>Tue, 20 Jul 2021 17:25:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Anger as half of Australians in lockdown again]]></title>
             <description><![CDATA[Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-57911032</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57911032</guid>
             <pubDate>Wed, 21 Jul 2021 06:32:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marcus Rashford defends charity deals over profit claims]]></title>
+            <description><![CDATA[The England striker asks why footballers "can't just do the right thing" for charity.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57912240</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57912240</guid>
+            <pubDate>Wed, 21 Jul 2021 08:39:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Violence against women: Top police role to be announced]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/business-57899239</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57899239</guid>
             <pubDate>Wed, 21 Jul 2021 07:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marcus Rashford defends charity deals over profit claims]]></title>
-            <description><![CDATA[The England striker asks why footballers "can't just do the right thing" for charity.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57912240</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57912240</guid>
-            <pubDate>Wed, 21 Jul 2021 08:39:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[E-scooter crash leaves girl, 3, seriously injured]]></title>
@@ -198,7 +198,7 @@
             <pubDate>Tue, 20 Jul 2021 22:58:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Squiggly wiggly' fossils rise from a Jurassic sea]]></title>
+            <title><![CDATA['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils]]></title>
             <description><![CDATA[Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57853537</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57853537</guid>
@@ -240,6 +240,13 @@
             <pubDate>Tue, 20 Jul 2021 23:01:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jones to captain Lions in first Test against South Africa]]></title>
+            <description><![CDATA[Alun Wyn Jones returns to captain the British and Irish Lions against South Africa on Saturday, in a side including three Scottish players for the first time since 1997.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57914574</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57914574</guid>
+            <pubDate>Wed, 21 Jul 2021 09:08:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England win pulsating series decider against Pakistan]]></title>
             <description><![CDATA[England overcome an almighty wobble to defeat Pakistan in a pulsating final Twenty20 at Old Trafford and win the series 2-1.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57882585</link>
@@ -273,13 +280,6 @@
             <link>https://www.bbc.co.uk/sport/disability-sport/57902661</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/disability-sport/57902661</guid>
             <pubDate>Wed, 21 Jul 2021 08:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bucks complete series turnaround to win first NBA title for 50 years]]></title>
-            <description><![CDATA[Giannis Antetokounmpo scores 50 points as the Milwaukee Bucks claim their first NBA title for 50 years with a 105-98 win over the Phoenix Suns.]]></description>
-            <link>https://www.bbc.co.uk/sport/basketball/57911917</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/basketball/57911917</guid>
-            <pubDate>Wed, 21 Jul 2021 07:30:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Covid passports': How can the NHS Covid Pass prove I've had both jabs?]]></title>

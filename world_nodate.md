@@ -1,4 +1,4 @@
-1. [Zhengzhou Henan: 12 dead and thousands evacuated in China floods](https://www.bbc.co.uk/news/world-asia-china-57861067) - One social media user said residents were stuck on rooftops because they did not know how to swim.
+1. [Henan floods: 12 dead in Zhengzhou train and thousands evacuated in China](https://www.bbc.co.uk/news/world-asia-china-57861067) - Commuters describe how they climbed onto chairs to keep their heads above the floodwaters.
 2. [Nigeria secures release of 100 kidnapped mothers and children](https://www.bbc.co.uk/news/world-africa-57910833) - The group, most of them women and children, were kidnapped last month in Nigeria's Zamfara state.
 3. [Strife-torn Haiti gets new prime minister](https://www.bbc.co.uk/news/world-latin-america-57910829) - Ariel Henry's appointment comes nearly two weeks after President Jovenel Moïse was assassinated.
 4. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
@@ -12,11 +12,11 @@
 12. [Climate change: US pushes China to make faster carbon cuts](https://www.bbc.co.uk/news/science-environment-57904042) - US climate envoy John Kerry says help from China is needed to avoid a dangerous rise in heat.
 13. [Sudan's Darfur conflict's latest surge in violence displaces thousands](https://www.bbc.co.uk/news/world-africa-57899843) - "I have cried so much, my eyes can barely see," one mother tells the BBC after seeing her brother die.
 14. [Pegasus scandal: Are we all becoming unknowing spies?](https://www.bbc.co.uk/news/technology-57910355) - We may be stepping into a world in which we are all spies - and at the same time are all spied on.
-15. [Covid: The Mexican villages refusing to vaccinate](https://www.bbc.co.uk/news/world-latin-america-57893466) - Take-up of the vaccine among indigenous towns in Chiapas state is as low as 2% in some areas.
+15. [Covid: The Mexican villages refusing to vaccinate](https://www.bbc.co.uk/news/world-latin-america-57893466) - Residents in remote Mexican towns are being influenced by lies and rumours swirling around on WhatsApp.
 16. [Wally Funk: The 82-year-old on Jeff Bezos's Blue Origin flight](https://www.bbc.co.uk/news/world-us-canada-57686654) - Wally Funk was overlooked for space flight in the 60s but got a second chance with Jeff Bezos.
 17. [Mandira Bedi: What Hindu scriptures say about women at cremations](https://www.bbc.co.uk/news/world-asia-india-57894855) - Indian actress Mandira Bedi made news for doing her husband's last rites, generally a male preserve.
 18. [Germany grapples with flood havoc](https://www.bbc.co.uk/news/world-europe-57902024) - A massive clean-up is under way, but Germany's flood damage won't be fixed for many months.
-19. [Zhengzhou Henan: Waist-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
+19. [Zhengzhou Henan: Chest-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
 20. [Jeff Bezos and crew launch into space on New Shepard](https://www.bbc.co.uk/news/world-57900620) - Billionaire Jeff Bezos has launched into space, in the first crewed flight of his rocket ship, New Shepard.
 21. [Eid al-Adha prayers continue as rockets fired in Afghanistan](https://www.bbc.co.uk/news/world-asia-57900618) - Some of the worshippers in Kabul appeared frightened and unsure what to do when they heard multiple explosions.
 22. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
