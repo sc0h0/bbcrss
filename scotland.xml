@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 17:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 17:47:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57915572</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57915572</guid>
             <pubDate>Wed, 21 Jul 2021 10:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anansi Boys: New Amazon Prime series to be filmed in Scotland]]></title>
+            <description><![CDATA[Shooting of a TV adaptation of Neil Gaiman's Anansi Boys will begin in Leith later this year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57921286</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57921286</guid>
+            <pubDate>Wed, 21 Jul 2021 17:43:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Surgery backlog 'could take years' to tackle]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57910065</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57910065</guid>
             <pubDate>Wed, 21 Jul 2021 11:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Sales 'closer' to pre-pandemic levels]]></title>
-            <description><![CDATA[Retailers say June saw the best monthly sales for 16 months, but warn Covid continues "to cast a shadow".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-57903119</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-57903119</guid>
-            <pubDate>Wed, 21 Jul 2021 05:03:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What are the rules at level zero?]]></title>
@@ -275,6 +275,13 @@
             <pubDate>Wed, 14 Jul 2021 09:14:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Carl Starfelt: Celtic sign Swedish centre-half from Rubin Kazan]]></title>
+            <description><![CDATA[Celtic sign Swedish centre-half Carl Starfelt from Rubin Kazan for an undisclosed fee.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57844402</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57844402</guid>
+            <pubDate>Wed, 21 Jul 2021 17:43:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pedro Martinez Losa: Scotland appoint Bordeaux manager as head coach]]></title>
             <description><![CDATA[Pedro Martinez Losa is confirmed as the new head coach of the Scotland women's national team - more than seven months after Shelley Kerr stood down.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57901052</link>
@@ -287,13 +294,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/57874662</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57874662</guid>
             <pubDate>Wed, 21 Jul 2021 08:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ryder Cup: Robert MacIntyre attitude would be 'brilliant', says Colin Montgomerie]]></title>
-            <description><![CDATA[Former captain Colin Montgomerie backs Bob MacIntyre for a place at the Ryder Cup after another impressive showing at The Open.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/57917533</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57917533</guid>
-            <pubDate>Wed, 21 Jul 2021 14:08:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

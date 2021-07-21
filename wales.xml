@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 17:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 17:47:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[All Welsh NHS staff to get 3% pay rise]]></title>
+            <description><![CDATA[Nurses, doctors and dentists will be offered a 3% pay rise by the Welsh government.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-57915990</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57915990</guid>
+            <pubDate>Wed, 21 Jul 2021 17:39:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Heatwave: Wales' temperatures soar as holiday getaway begins]]></title>
             <description><![CDATA[An extreme heat weather warning is in place as temperatures could hit 32C (90F) on Wednesday.]]></description>
@@ -35,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57910510</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57910510</guid>
             <pubDate>Wed, 21 Jul 2021 13:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales heatwave solves mystery of plane's fate from 1944]]></title>
+            <description><![CDATA[The mystery surrounding the 1944 US Air Force aircraft was hidden in Snowdonia's waters, until now.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57921985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57921985</guid>
+            <pubDate>Wed, 21 Jul 2021 17:35:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A55 Anglesey: Man crushed by lorry as he crawled from crash]]></title>
@@ -86,20 +100,6 @@
             <pubDate>Wed, 21 Jul 2021 15:12:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Catastrophic' backlog at driving licence body, warns union]]></title>
-            <description><![CDATA[MPs are told bad decisions by DVLA managers resulted in a "catastrophic" processing backlog of 1.4 million cases.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57916619</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57916619</guid>
-            <pubDate>Wed, 21 Jul 2021 16:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[M4: Lanes on motorway at Swansea shut following crash]]></title>
-            <description><![CDATA[Congestion around Swansea as the motorway is partially shut due to emergency repair work.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57903438</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57903438</guid>
-            <pubDate>Wed, 21 Jul 2021 11:23:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mayhill: ‘Rioters taught my son anger and hatred’]]></title>
             <description><![CDATA[Adam Romain says his previously loving and calm son has become aggressive after witnessing a riot.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57907596</link>
@@ -143,7 +143,7 @@
         </item>
         <item>
             <title><![CDATA[Steve Cooper: Head coach leaves Swansea City]]></title>
-            <description><![CDATA[Steve Cooper leaves his position as Swansea City's head coach after two years in charge.]]></description>
+            <description><![CDATA[Steve Cooper leaves his position as Swansea City's head coach after just over two years in charge.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57918658</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57918658</guid>
             <pubDate>Wed, 21 Jul 2021 17:18:05 GMT</pubDate>

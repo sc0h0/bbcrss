@@ -1,4 +1,4 @@
-1. [NHS workers in England offered 3% pay rise](https://www.bbc.co.uk/news/health-57922712) - Nurses and other NHS workers will get the extra 'in recognition of unique impact of pandemic' on staff.
+1. [NHS workers in England offered 3% pay rise](https://www.bbc.co.uk/news/health-57922712) - Nurses and other NHS workers will get the award "in recognition of the unique impact of pandemic" on staff.
 2. [Coronavirus: Worst affected care homes revealed by watchdog](https://www.bbc.co.uk/news/uk-politics-57905821) - Figures from Care Quality Commission lay out the pandemic's 'devastating impact' on care homes in England.
 3. [Seaside poor health overlooked, warns Whitty](https://www.bbc.co.uk/news/uk-57908387) - Bad housing and deprivation are a toxic mix for health, says England's chief medical officer.
 4. [Non-surgical beauty treatment industry like Wild West - MPs](https://www.bbc.co.uk/news/health-57895186) - "Complete absence" of regulation of treatments such as botox-style injections and fillers condemned by MPs.
