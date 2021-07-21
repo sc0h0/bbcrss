@@ -1,7 +1,7 @@
 1. [China floods: Thousands evacuated as rail stations and roads submerged](https://www.bbc.co.uk/news/world-asia-china-57861067) - Record rainfall has left more than 12 dead and flooded stations and roads in Zhengzhou city.
 2. [Severe floods hit China's Henan province](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
 3. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
-4. [Olympics: Tokyo 2020 chief does not rule out cancelling Games](https://www.bbc.co.uk/news/world-asia-57911122) - The global sporting event is due to start on Friday but more athletes have tested positive for Covid.
+4. [Olympics: Tokyo 2020 chief does not rule out cancelling Games](https://www.bbc.co.uk/news/world-asia-57911122) - Just days before the Games' opening ceremony, more athletes have tested positive for Covid.
 5. [Mandira Bedi: Actress stirs debate over women's role at cremations](https://www.bbc.co.uk/news/world-asia-india-57894855) - India's Mandira Bedi made news for performing her husband's last rites, generally a male preserve.
 6. [The battle for Indonesia's Gold Island](https://www.bbc.co.uk/news/world-asia-57902815) - There are fears that a mine will threaten Sangihe island's ancient forests and local water supply.
 7. [China says Microsoft hacking accusations fabricated by US and allies](https://www.bbc.co.uk/news/world-asia-china-57898147) - There are concerns that the attack on the tech giant suggests China's cyber-behaviour is escalating.

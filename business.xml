@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 00:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 04:15:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[JP Morgan: US banking giant gives boss 'special award']]></title>
+            <description><![CDATA[The award to Jamie Dimon is to persuade him to lead the company for a "significant number of years".]]></description>
+            <link>https://www.bbc.co.uk/news/business-57911203</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57911203</guid>
+            <pubDate>Wed, 21 Jul 2021 04:01:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is there a solution to the hospitality staff crisis?]]></title>
             <description><![CDATA[Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?]]></description>
@@ -37,13 +44,6 @@
             <pubDate>Tue, 20 Jul 2021 21:42:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Women's state pension: Compensation closer for Waspi campaigners]]></title>
-            <description><![CDATA[The government was too slow to tell women they would be directly affected by the rising state pension age.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57900320</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57900320</guid>
-            <pubDate>Tue, 20 Jul 2021 12:10:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Travel firms lose court bid on traffic light list]]></title>
             <description><![CDATA[Decisions taken by the government on the traffic light travel list were not unlawful, judges rule.]]></description>
             <link>https://www.bbc.co.uk/news/business-57903979</link>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/business-57902093</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57902093</guid>
             <pubDate>Tue, 20 Jul 2021 17:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women's state pension: Compensation closer for Waspi campaigners]]></title>
+            <description><![CDATA[The government was too slow to tell women they would be directly affected by the rising state pension age.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57900320</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57900320</guid>
+            <pubDate>Tue, 20 Jul 2021 12:10:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Officers told not to check green and amber arrivals, union says]]></title>
