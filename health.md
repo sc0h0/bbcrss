@@ -1,4 +1,4 @@
-1. [NHS workers in England offered 3% pay rise](https://www.bbc.co.uk/news/health-57922712) - Wed, 21 Jul 2021 19:00:16 GMT - The offer is 2% more than was proposed in March, "in recognition of the unique impact of pandemic".
+1. [NHS workers in England offered 3% pay rise](https://www.bbc.co.uk/news/health-57922712) - Wed, 21 Jul 2021 19:13:47 GMT - The offer is 2% more than was proposed in March, "in recognition of the unique impact of pandemic".
 2. [Coronavirus: Worst affected care homes revealed by watchdog](https://www.bbc.co.uk/news/uk-politics-57905821) - Wed, 21 Jul 2021 16:26:04 GMT - Figures from Care Quality Commission lay out the pandemic's 'devastating impact' on care homes in England.
 3. [Seaside poor health overlooked, warns Whitty](https://www.bbc.co.uk/news/uk-57908387) - Wed, 21 Jul 2021 03:29:06 GMT - Bad housing and deprivation are a toxic mix for health, says England's chief medical officer.
 4. [Non-surgical beauty treatment industry like Wild West - MPs](https://www.bbc.co.uk/news/health-57895186) - Wed, 21 Jul 2021 04:16:35 GMT - "Complete absence" of regulation of treatments such as botox-style injections and fillers condemned by MPs.
