@@ -9,7 +9,7 @@
 9. [Nigeria secures release of 100 kidnapped mothers and children](https://www.bbc.co.uk/news/world-africa-57910833) - The group, most of them women and children, were kidnapped last month in Nigeria's Zamfara state.
 10. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - France will double the number of police patrolling beaches, as record numbers cross the Channel.
 11. [Covid: Officers told not to check green and amber arrivals, union says](https://www.bbc.co.uk/news/uk-57909022) - Passenger locator forms and mandatory tests will not be routinely reviewed in England, a union confirms.
-12. [China floods: Thousands evacuated as rail stations and roads submerged](https://www.bbc.co.uk/news/world-asia-china-57861067) - Record rainfall has left more than 12 dead and flooded stations and roads in Zhengzhou city.
+12. [Zhengzhou: 12 dead and thousands evacuated in China floods](https://www.bbc.co.uk/news/world-asia-china-57861067) - One social media user said residents were stuck on rooftops because they did not know how to swim.
 13. [Judicial review: Plan to reform scrutiny by courts revealed](https://www.bbc.co.uk/news/uk-57909168) - Ministers say they want to save courts time and money, but campaigners say the move will curb scrutiny.
 14. [The Papers: 'Gunboat diplomacy' and fears of new Covid rules](https://www.bbc.co.uk/news/blogs-the-papers-57910489) - The front pages focus on migrant crossings and warnings new Covid restrictions may be needed in England.
 15. [American football star Tom Brady cracks election results joke at White House](https://www.bbc.co.uk/news/world-us-canada-57910869) - The star quarterback shared a laugh with President Biden and said people "don't think we won" either.

@@ -1,4 +1,4 @@
-1. [China floods: Thousands evacuated as rail stations and roads submerged](https://www.bbc.co.uk/news/world-asia-china-57861067) - Record rainfall has left more than 12 dead and flooded stations and roads in Zhengzhou city.
+1. [Zhengzhou: 12 dead and thousands evacuated in China floods](https://www.bbc.co.uk/news/world-asia-china-57861067) - One social media user said residents were stuck on rooftops because they did not know how to swim.
 2. [Nigeria secures release of 100 kidnapped mothers and children](https://www.bbc.co.uk/news/world-africa-57910833) - The group, most of them women and children, were kidnapped last month in Nigeria's Zamfara state.
 3. [Strife-torn Haiti gets new prime minister](https://www.bbc.co.uk/news/world-latin-america-57910829) - Ariel Henry's appointment comes nearly two weeks after President Jovenel Moïse was assassinated.
 4. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.

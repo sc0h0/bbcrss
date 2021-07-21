@@ -1,4 +1,4 @@
-1. [China floods: Thousands evacuated as rail stations and roads submerged](https://www.bbc.co.uk/news/world-asia-china-57861067) - Record rainfall has left more than 12 dead and flooded stations and roads in Zhengzhou city.
+1. [Zhengzhou: 12 dead and thousands evacuated in China floods](https://www.bbc.co.uk/news/world-asia-china-57861067) - One social media user said residents were stuck on rooftops because they did not know how to swim.
 2. [Severe floods hit China's Henan province](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
 3. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
 4. [Olympics: Tokyo 2020 chief does not rule out cancelling Games](https://www.bbc.co.uk/news/world-asia-57911122) - Just days before the Games' opening ceremony, more athletes have tested positive for Covid.
