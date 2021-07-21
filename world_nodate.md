@@ -1,4 +1,4 @@
-1. [Henan floods: 12 dead in Zhengzhou train and thousands evacuated in China](https://www.bbc.co.uk/news/world-asia-china-57861067) - Passengers describe how they climbed onto chairs to keep their heads above the floodwaters.
+1. [China floods: 12 dead in Zhengzhou train and thousands evacuated in Henan](https://www.bbc.co.uk/news/world-asia-china-57861067) - Passengers describe how they climbed onto chairs to keep their heads above the floodwaters.
 2. [Nigeria secures release of 100 kidnapped mothers and children](https://www.bbc.co.uk/news/world-africa-57910833) - The group, most of them women and children, were kidnapped last month in Nigeria's Zamfara state.
 3. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
 4. [Tokyo Olympics: Sweden stun USA in women's football opener](https://www.bbc.co.uk/sport/olympics/57912250) - Sweden's women's football team stun world champions the United States in their opening match at the Olympic Games in Tokyo.

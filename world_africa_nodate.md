@@ -1,5 +1,5 @@
-1. [Nigeria secures release of 100 kidnapped mothers and children](https://www.bbc.co.uk/news/world-africa-57910833) - The group, most of them women and children, were kidnapped last month in Nigeria's Zamfara state.
-2. [Sudan's Darfur conflict's latest surge in violence displaces thousands](https://www.bbc.co.uk/news/world-africa-57899843) - "I have cried so much, my eyes can barely see," one mother tells the BBC after seeing her brother die.
+1. [Sudan's Darfur conflict's latest surge in violence displaces thousands](https://www.bbc.co.uk/news/world-africa-57899843) - "I have cried so much, my eyes can barely see," one mother tells the BBC after seeing her brother die.
+2. [Nigeria secures release of 100 kidnapped mothers and children](https://www.bbc.co.uk/news/world-africa-57910833) - The group, most of them women and children, were kidnapped last month in Nigeria's Zamfara state.
 3. [Tokyo 2020: Egypt's Sherif to 'play with heart' in historic medal bid](https://www.bbc.co.uk/sport/africa/57844534) - Mayar Sherif will play 'with her heart' as she becomes the first Egyptian woman to play Olympic tennis for her country.
 4. [Nigeria's security crises - five different threats](https://www.bbc.co.uk/news/world-africa-57860993) - Almost every part of Nigeria is facing a security crisis - from kidnapping to extremist insurgencies.
 5. [South Africa Zuma riots: What's behind the violence and looting?](https://www.bbc.co.uk/news/world-africa-57860998) - Some analysts say the violence wasn't spontaneous anger but a deliberate strategy of sabotage.

@@ -1,7 +1,7 @@
 1. [Covid: France rolls out health pass as cases soar](https://www.bbc.co.uk/news/world-europe-57907678) - From Wednesday people will need proof of vaccination or a negative test to access some public places.
 2. [Gold toilet found in Russian police bribery probe](https://www.bbc.co.uk/news/world-europe-57914270) - Investigators show video of a palatial villa, accusing traffic police of a mafia-style racket.
 3. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - There have now been more migrants crossing the Channel this year than in the whole of 2020.
-4. [Brexit: UK to outline how it wants to overhaul Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The government calls a deal, which could see sausage exports from Britain to NI banned, unsustainable.
+4. [Brexit: NI-GB trade agreement must be overhauled immediately - UK](https://www.bbc.co.uk/news/uk-politics-57911148) - The government says the Northern Ireland Protocol is damaging trade and tearing at the "fabric" of the UK.
 5. [Pegasus: French President Macron identified as spyware target](https://www.bbc.co.uk/news/world-europe-57907258) - The president's phone number was found on a list of numbers that were potential phone hacking targets.
 6. [Tokyo Olympics: Sweden stun USA in women's football opener](https://www.bbc.co.uk/sport/olympics/57912250) - Sweden's women's football team stun world champions the United States in their opening match at the Olympic Games in Tokyo.
 7. [Liverpool stripped of Unesco World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475) - The city is deleted from the much-coveted Unesco list because of developments on the waterfront.

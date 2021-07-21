@@ -17,8 +17,8 @@
 17. [Coronavirus: Hospitality Ulster calls for NI recovery strategy](https://www.bbc.co.uk/news/uk-northern-ireland-57857496) - Industry representatives say businesses are struggling after lockdown and need help from Stormont.
 18. [Coronavirus: Robin Swann concerned by rise in Covid-19 cases](https://www.bbc.co.uk/news/uk-northern-ireland-57854088) - More than 1,000 new cases of Covid-19 were recorded in Northern Ireland on Thursday.
 19. [Heatwaves: What do they do to the body and who is at risk?](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
-20. ['It's golf with guns' - Kirsty Hegarty's Tokyo journey ](https://www.bbc.co.uk/sport/av/olympics/57865476) - Trap shooter Kirsty Hegarty tells BBC Sport NI all about trap shooting and a surprising addition to her Team GB kit which got her rather excited.
-21. [Latest Northern Ireland weather forecast](https://www.bbc.co.uk/news/uk-northern-ireland-26018439) - The weather forecast in Northern Ireland.
+20. [Latest Northern Ireland weather forecast](https://www.bbc.co.uk/news/uk-northern-ireland-26018439) - The weather forecast in Northern Ireland.
+21. ['It's golf with guns' - Kirsty Hegarty's Tokyo journey ](https://www.bbc.co.uk/sport/av/olympics/57865476) - Trap shooter Kirsty Hegarty tells BBC Sport NI all about trap shooting and a surprising addition to her Team GB kit which got her rather excited.
 22. [River Blackwater: Silt blockage 'damaging fishermen and tourism'](https://www.bbc.co.uk/news/uk-northern-ireland-57841201) - A build up of silt has blocked a section of the River Blackwater near Lough Neagh for 15 years.
 23. [Ann Murray, the illegal poteen distiller who lived in a cave](https://www.bbc.co.uk/news/uk-northern-ireland-57852184) - Ann Murray spent 50 years living and producing her own alcohol in County Antrim's Red Bay Caves.
 24. [Mary Ann McCracken letters shed new light on last years](https://www.bbc.co.uk/news/uk-northern-ireland-57808883) - The anti-slavery campaigner was active in Belfast well into her 90s, new letters reveal.
