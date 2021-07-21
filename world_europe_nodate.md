@@ -1,4 +1,4 @@
-1. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - The police action is the latest in a series of arrests over the 2020 attack on a series of celebrity accounts.
+1. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.
 2. [Covid: France rolls out health pass as cases soar](https://www.bbc.co.uk/news/world-europe-57907678) - From Wednesday people will need proof of vaccination or a negative test to access some public places.
 3. [Gold toilet found in Russian police bribery probe](https://www.bbc.co.uk/news/world-europe-57914270) - Investigators show video of a palatial villa, accusing traffic police of a mafia-style racket.
 4. [UK defends latest Channel crossings deal](https://www.bbc.co.uk/news/uk-57916659) - The government is paying France £54m in a bid to stem the number of migrants travelling to the UK.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 17:57:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 18:24:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -94,7 +94,7 @@
         </item>
         <item>
             <title><![CDATA[British man arrested in Spain over Twitter hack]]></title>
-            <description><![CDATA[The police action is the latest in a series of arrests over the 2020 attack on a series of celebrity accounts.]]></description>
+            <description><![CDATA[The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57916521</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57916521</guid>
             <pubDate>Wed, 21 Jul 2021 16:27:01 GMT</pubDate>
@@ -121,7 +121,7 @@
             <pubDate>Wed, 21 Jul 2021 13:49:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dinosaurs: 'Spectacular' fossil footprint find by four-year-old goes on display]]></title>
+            <title><![CDATA[Dinosaurs: Fossil footprint found by four-year-old goes on show]]></title>
             <description><![CDATA[A 200-million-year-old fossilised footprint could help scientists understand how dinosaurs walked.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57910510</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57910510</guid>
@@ -247,13 +247,6 @@
             <pubDate>Tue, 20 Jul 2021 23:01:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Medal hope Hill out of Tokyo Olympics after Covid test]]></title>
-            <description><![CDATA[British medal hope Amber Hill withdraws from the women's skeet competition at this summer's Olympics after testing positive for Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57917553</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57917553</guid>
-            <pubDate>Wed, 21 Jul 2021 16:43:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['For two days, that was my tour done' - 'Miracle man' Jones on 'surreal' Lions return ]]></title>
             <description><![CDATA[British and Irish Lions captain Alun Wyn Jones reflects on completing a remarkable recovery to lead the tourists against South Africa.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57913078</link>
@@ -266,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/football/57905236</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57905236</guid>
             <pubDate>Wed, 21 Jul 2021 10:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Medal hope Hill out of Tokyo Olympics after Covid test]]></title>
+            <description><![CDATA[British medal hope Amber Hill withdraws from the women's skeet competition at this summer's Olympics after testing positive for Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57917553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57917553</guid>
+            <pubDate>Wed, 21 Jul 2021 16:43:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['We got bopped' - Sweden end USA's 44-match unbeaten run in Tokyo]]></title>

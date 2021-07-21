@@ -1,4 +1,4 @@
-1. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - Wed, 21 Jul 2021 16:27:01 GMT - The police action is the latest in a series of arrests over the 2020 attack on a series of celebrity accounts.
+1. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - Wed, 21 Jul 2021 16:27:01 GMT - The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.
 2. [Covid: France rolls out health pass as cases soar](https://www.bbc.co.uk/news/world-europe-57907678) - Wed, 21 Jul 2021 01:05:08 GMT - From Wednesday people will need proof of vaccination or a negative test to access some public places.
 3. [Gold toilet found in Russian police bribery probe](https://www.bbc.co.uk/news/world-europe-57914270) - Wed, 21 Jul 2021 10:02:34 GMT - Investigators show video of a palatial villa, accusing traffic police of a mafia-style racket.
 4. [UK defends latest Channel crossings deal](https://www.bbc.co.uk/news/uk-57916659) - Wed, 21 Jul 2021 15:22:11 GMT - The government is paying France £54m in a bid to stem the number of migrants travelling to the UK.
