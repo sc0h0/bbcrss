@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 08:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 09:07:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid in Scotland: Surgery backlog 'could take years' to tackle]]></title>
+            <description><![CDATA[The chief executive of NHS Grampian says waiting lists due to Covid across Scotland will not be stabilised in a matter of months.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57903174</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57903174</guid>
+            <pubDate>Wed, 21 Jul 2021 08:56:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Radical reforms could help sex crime victims, says justice secretary]]></title>
             <description><![CDATA[Justice Secretary Keith Brown says low Scottish conviction rates suggest more needs to be done to help victims.]]></description>
@@ -282,6 +289,13 @@
             <pubDate>Wed, 14 Jul 2021 09:14:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Alun Wyn Jones to captain British and Irish Lions in first Test against South Africa]]></title>
+            <description><![CDATA[Alun Wyn Jones returns to captain the British and Irish Lions against South Africa on Saturday, in a side including three Scottish players for the first time since 1997.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57914574</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57914574</guid>
+            <pubDate>Wed, 21 Jul 2021 09:00:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Katie Archibald on her gold medal dreams & pressure]]></title>
             <description><![CDATA[Cyclist Katie Archibald tells BBC Sport about her dreams of another gold medal and the pressure of helping Laura Kenny become Britain's best.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57874662</link>
@@ -301,13 +315,6 @@
             <link>https://www.bbc.co.uk/sport/football/57910469</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57910469</guid>
             <pubDate>Tue, 20 Jul 2021 21:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stuart Hogg fuelled by 2017 British and Irish Lions 'hurt']]></title>
-            <description><![CDATA[Stuart Hogg says the disappointment of leaving the 2017 British and Irish tour to New Zealand with injury has made him "focused" on success in South Africa.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57905253</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57905253</guid>
-            <pubDate>Tue, 20 Jul 2021 14:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

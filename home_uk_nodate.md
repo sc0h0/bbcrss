@@ -1,10 +1,10 @@
 1. [Brexit: UK to outline how it wants to overhaul Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - The government calls a deal, which could see sausage exports from Britain to NI banned, unsustainable.
 2. [UK and France agree deal to tackle rise in Channel crossings](https://www.bbc.co.uk/news/uk-57909188) - There have now been more migrants crossing the Channel this year than in the whole of 2020.
-3. [Covid-19: Cancelling Olympics 'not ruled out' and lockdown anger](https://www.bbc.co.uk/news/uk-57907019) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
-4. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
-5. [Violence against women: Top police role to be announced](https://www.bbc.co.uk/news/uk-57909118) - A new strategy for England and Wales comes amid concern about rape convictions and abuse in schools.
-6. [Seaside poor health overlooked, warns Whitty](https://www.bbc.co.uk/news/uk-57908387) - Bad housing and deprivation are a toxic mix for health, says England's chief medical officer.
-7. [Zhengzhou Henan: Waist-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
+3. [Seaside poor health overlooked, warns Whitty](https://www.bbc.co.uk/news/uk-57908387) - Bad housing and deprivation are a toxic mix for health, says England's chief medical officer.
+4. [Covid-19: Cancelling Olympics 'not ruled out' and lockdown anger](https://www.bbc.co.uk/news/uk-57907019) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
+5. [Zhengzhou Henan: Waist-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
+6. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
+7. [Violence against women: Top police role to be announced](https://www.bbc.co.uk/news/uk-57909118) - A new strategy for England and Wales comes amid concern about rape convictions and abuse in schools.
 8. [Non-surgical beauty treatment industry like Wild West - MPs](https://www.bbc.co.uk/news/health-57895186) - "Complete absence" of regulation of treatments such as botox-style injections and fillers condemned by MPs.
 9. [M&S to cut Christmas products in Northern Ireland](https://www.bbc.co.uk/news/business-57899239) - Chairman Archie Norman says customs checks will mean higher prices and less choice for customers.
 10. [Marcus Rashford defends charity deals over profit claims](https://www.bbc.co.uk/news/uk-england-manchester-57912240) - The England striker asks why footballers "can't just do the right thing" for charity.

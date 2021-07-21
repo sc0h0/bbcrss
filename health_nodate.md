@@ -27,7 +27,7 @@
 27. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
 28. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 29. [Covid: What do over-18s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - All over-18s can now get the Covid jab, but Boris Johnson has criticised the take-up among young people.
-30. [What are the India, Brazil, South Africa and UK variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
+30. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
 31. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
 32. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Experts think a limited group of children should be offered Covid jabs ahead of winter.
 33. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Busting myths and explaining the facts around vaccines.
