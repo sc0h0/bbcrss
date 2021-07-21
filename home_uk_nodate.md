@@ -1,6 +1,6 @@
 1. [Liverpool stripped of Unesco World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475) - The city is deleted from the much-coveted Unesco list because of developments on the waterfront.
-2. [Brexit: NI-GB trade agreement must be overhauled immediately - UK](https://www.bbc.co.uk/news/uk-politics-57911148) - The government says the Northern Ireland Protocol is damaging trade and tearing at the "fabric" of the UK.
-3. [Keir Starmer to isolate after child gets Covid](https://www.bbc.co.uk/news/uk-politics-57918823) - Labour leader Sir Keir Starmer is self-isolating after one of his children tests positive for Covid.
+2. [Brexit: UK wants to redraw Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - Lord Frost says the Northern Ireland Protocol is tearing the UK's "fabric" - but the EU won't renegotiate.
+3. [Keir Starmer to isolate after his child tests positive for Covid](https://www.bbc.co.uk/news/uk-politics-57918823) - The Labour leader was at PMQs earlier but had tested negative this morning, his spokesman says.
 4. [China floods: 12 dead in Zhengzhou train and thousands evacuated in Henan](https://www.bbc.co.uk/news/world-asia-china-57861067) - Passengers describe how they climbed onto chairs to keep their heads above the floodwaters.
 5. [Medal hope Amber Hill out of Tokyo Olympics](https://www.bbc.co.uk/sport/olympics/57917553) - British medal hope Amber Hill withdraws from the women's skeet competition at this summer's Olympics after testing positive for Covid-19.
 6. [Priti Patel defends deal to stop rising numbers crossing Channel](https://www.bbc.co.uk/news/uk-57916659) - The government is paying France £54m in a bid to stem the number of migrants travelling to the UK.
