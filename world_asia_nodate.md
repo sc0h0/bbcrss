@@ -1,4 +1,4 @@
-1. [Henan floods: 12 dead in Zhengzhou train and thousands evacuated in China](https://www.bbc.co.uk/news/world-asia-china-57861067) - Commuters describe how they climbed onto chairs to keep their heads above the floodwaters.
+1. [Henan floods: 12 dead in Zhengzhou train and thousands evacuated in China](https://www.bbc.co.uk/news/world-asia-china-57861067) - Passengers describe how they climbed onto chairs to keep their heads above the floodwaters.
 2. [Zhengzhou Henan: Chest-high flooding hits China trains and roads](https://www.bbc.co.uk/news/world-asia-57908888) - Roads and subway stations have been submerged and one region recorded 40cm (15 inches) of rainfall.
 3. [Covid-19: India outrage over 'no oxygen shortage death data' claim](https://www.bbc.co.uk/news/world-asia-india-57911638) - A minister's claim that no Covid deaths were reported from a lack of oxygen has sparked anger.
 4. [Covid: Anger as half of Australians in lockdown again](https://www.bbc.co.uk/news/world-australia-57911032) - Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.
