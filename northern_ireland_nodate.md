@@ -1,4 +1,4 @@
-1. [Arlene Arkinson murdered by child rapist Robert Howard](https://www.bbc.co.uk/news/uk-northern-ireland-57918801) - An inquest concludes the teenager, who disappeared in August 1994, was killed by rapist Robert Howard.
+1. [Arlene Arkinson murdered by child rapist Robert Howard, inquest finds](https://www.bbc.co.uk/news/uk-northern-ireland-57918801) - An inquest concludes the teenager, who disappeared in August 1994, was killed by rapist Robert Howard.
 2. [Lu Na McKinney: Stephen McKinney guilty of murdering wife](https://www.bbc.co.uk/news/uk-northern-ireland-57916004) - Stephen McKinney, 44, had denied murdering his wife off Devenish Island, in Lough Erne, in April 2017.
 3. [Brexit: NI-GB trade agreement must be overhauled immediately - UK](https://www.bbc.co.uk/news/uk-politics-57911148) - The government says the Northern Ireland Protocol is damaging trade and tearing at the "fabric" of the UK.
 4. [Brexit: Stormont Parties divided on UK call to amend NI Protocol](https://www.bbc.co.uk/news/uk-northern-ireland-57901928) - Unionists welcome bid to change post-Brexit trade rules, but SDLP and Alliance criticise the move.

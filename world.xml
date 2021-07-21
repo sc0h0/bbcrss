@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 13:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 14:27:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,25 +44,11 @@
             <pubDate>Wed, 21 Jul 2021 02:46:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Sweden stun USA in women's football opener]]></title>
-            <description><![CDATA[Sweden's women's football team stun world champions the United States in their opening match at the Olympic Games in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57912250</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57912250</guid>
-            <pubDate>Wed, 21 Jul 2021 13:22:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The battle for Indonesia's Gold Island]]></title>
             <description><![CDATA[There are fears that a mine will threaten Sangihe island's ancient forests and local water supply.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57902815</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57902815</guid>
             <pubDate>Tue, 20 Jul 2021 23:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2032 Games: Brisbane confirmed as Olympic and Paralympic host]]></title>
-            <description><![CDATA[Brisbane is confirmed as the host of the 2032 Olympic and Paralympic Games after approval at an IOC meeting in Tokyo]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57912026</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57912026</guid>
-            <pubDate>Wed, 21 Jul 2021 09:23:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taylor Swift: No more Grammys for singer's re-recorded Fearless album]]></title>
@@ -93,11 +79,25 @@
             <pubDate>Wed, 21 Jul 2021 08:23:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: France rolls out health pass as cases soar]]></title>
+            <description><![CDATA[From Wednesday people will need proof of vaccination or a negative test to access some public places.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57907678</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57907678</guid>
+            <pubDate>Wed, 21 Jul 2021 01:05:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: India outrage over 'no oxygen shortage death data' claim]]></title>
             <description><![CDATA[A minister's claim that no Covid deaths were reported from a lack of oxygen has sparked anger.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57911638</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57911638</guid>
             <pubDate>Wed, 21 Jul 2021 06:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China: Taobao, Weibo fined for illegal child content]]></title>
+            <description><![CDATA[Major online platforms like Weibo, Taobao and QQ have been fined and ordered to "clean up".]]></description>
+            <link>https://www.bbc.co.uk/news/business-57911207</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57911207</guid>
+            <pubDate>Wed, 21 Jul 2021 07:36:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sudan's Darfur conflict's latest surge in violence displaces thousands]]></title>
@@ -175,6 +175,41 @@
             <link>https://www.bbc.co.uk/news/business-57891867</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57891867</guid>
             <pubDate>Mon, 19 Jul 2021 23:02:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Sweden stun USA in women's football opener]]></title>
+            <description><![CDATA[Sweden's women's football team stun world champions the United States in their opening match at the Olympic Games in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57912250</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57912250</guid>
+            <pubDate>Wed, 21 Jul 2021 13:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Team GB women's football take the knee]]></title>
+            <description><![CDATA[Great Britain's women's football squad take the knee before their opening 2-0 win over Chile at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57913424</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57913424</guid>
+            <pubDate>Wed, 21 Jul 2021 10:12:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: Where might hosts Japan win medals?]]></title>
+            <description><![CDATA[The Japanese Olympic Committee has set a target of 30 golds in Tokyo, but in which sports might those medals be won?]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57886826</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57886826</guid>
+            <pubDate>Wed, 21 Jul 2021 09:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2032 Games: Brisbane confirmed as Olympic and Paralympic host]]></title>
+            <description><![CDATA[Brisbane is confirmed as the host of the 2032 Olympic and Paralympic Games after approval at an IOC meeting in Tokyo]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57912026</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57912026</guid>
+            <pubDate>Wed, 21 Jul 2021 09:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>
+            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
+            <pubDate>Wed, 14 Jul 2021 05:02:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
