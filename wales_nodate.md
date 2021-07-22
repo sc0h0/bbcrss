@@ -24,5 +24,5 @@
 24. [Undeb i herio'r llywodraeth yn y llys dros reolau llygredd](https://www.bbc.co.uk/newyddion/57931792) - NFU Cymru'n ennill yr hawl am adolygiad barnwrol yn ymwneud â'r polisi Pharthau Perygl Nitradau (NVZ).
 25. [Aelodaeth y Ffermwyr Ifanc 'wedi haneru' dros y pandemig](https://www.bbc.co.uk/newyddion/57916087) - CFfI Cymru wedi gorfod cynnal digwyddiadau'n rhithiol, ond yn obeithiol y daw aelodau yn ôl.
 26. [Gorddos laddodd y dioddefwr Covid cyntaf o Brydain](https://www.bbc.co.uk/newyddion/57927043) - Y person cyntaf o Brydain i ddal, a gwella o'r coronafeirws wedi marw oherwydd gorddos cyffuriau.
-27. [Y Cymry fydd yn mynd am aur yn Tokyo](https://www.bbc.co.uk/newyddion/57916347) - Catrin Heledd sy'n trafod pwy yw ein gobeithion gorau am fedalau
+27. [Tokyo 2020: Gobeithion Takeshi](https://www.bbc.co.uk/newyddion/57935053) - Y darlithydd Cymraeg o Tokyo sy'n rhannu ychydig o'i obeithion ar drothwy'r Gemau Olympaidd.
 28. [Cyn-reolwr Cymru, Mike Smith wedi marw yn 83 oed](https://www.bbc.co.uk/newyddion/57933081) - Mae Mike Smith, y Sais cyntaf i fod yn rheolwr pêl-droed Cymru wedi marw yn 83 oed.
