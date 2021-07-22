@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 23:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 23:47:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -324,6 +324,41 @@
             <pubDate>Thu, 22 Jul 2021 18:03:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coronavirus: How does the NHS test-and-trace system and app work?]]></title>
+            <description><![CDATA[The contact tracing app could be changed to make it less sensitive, so it sends fewer alerts.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
+            <pubDate>Thu, 22 Jul 2021 15:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
+            <description><![CDATA[All over-18s can now get the Covid jab, but the government has criticised take-up among young people.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57273875</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
+            <pubDate>Thu, 22 Jul 2021 15:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the Delta, Gamma, Beta and Alpha Covid variants?]]></title>
+            <description><![CDATA[UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55659820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
+            <pubDate>Wed, 21 Jul 2021 08:48:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympic Games: When are they and will they go ahead despite Covid?]]></title>
+            <description><![CDATA[The Tokyo Summer Olympics begin formally on Friday, despite a surge in Covid cases in Japan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57240044</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57240044</guid>
+            <pubDate>Thu, 22 Jul 2021 16:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The progress made in vaccinating the country's adult population, as more than 46 million people have received at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Thu, 22 Jul 2021 16:27:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Care homes worst hit by Covid – search the data ]]></title>
             <description><![CDATA[Figures from Care Quality Commission lay out the pandemic's 'devastating impact' on care homes in England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57905821</link>
@@ -366,20 +401,6 @@
             <pubDate>Mon, 14 Jun 2021 10:57:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympic Games: When are they and will they go ahead despite Covid?]]></title>
-            <description><![CDATA[The Tokyo Summer Olympics begin formally on Friday, despite a surge in Covid cases in Japan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57240044</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57240044</guid>
-            <pubDate>Thu, 22 Jul 2021 16:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: How does the NHS test-and-trace system and app work?]]></title>
-            <description><![CDATA[The contact tracing app could be changed to make it less sensitive, so it sends fewer alerts.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
-            <pubDate>Thu, 22 Jul 2021 15:40:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Covid passports': How can the NHS Covid Pass prove I've had both jabs?]]></title>
             <description><![CDATA[Clubbers and people attending mass events in England will have to prove they've had both Covid jabs.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
@@ -392,13 +413,6 @@
             <link>https://www.bbc.co.uk/news/health-55534727</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55534727</guid>
             <pubDate>Tue, 20 Jul 2021 12:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
-            <description><![CDATA[All over-18s can now get the Covid jab, but the government has criticised take-up among young people.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57273875</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
-            <pubDate>Thu, 22 Jul 2021 15:17:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>
@@ -464,6 +478,34 @@
             <pubDate>Wed, 23 Jun 2021 14:28:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith opens up on body image & tackling racism in sport]]></title>
+            <description><![CDATA[Dina Asher-Smith opens up about life on and off the track with friend and Radio 1 DJ Clara Amfo.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57916292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57916292</guid>
+            <pubDate>Thu, 22 Jul 2021 06:58:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Hannah Mills and rower Mohamed Sbihi to be Team GB flag bearers]]></title>
+            <description><![CDATA[Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57925326</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57925326</guid>
+            <pubDate>Thu, 22 Jul 2021 11:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: BBC TV, radio and online coverage - times and channels]]></title>
+            <description><![CDATA[Full listings and coverage channels for the Tokyo Olympics across BBC TV, BBC iPlayer, BBC radio and online.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57822560</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57822560</guid>
+            <pubDate>Thu, 22 Jul 2021 10:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Ten tear-jerking moments from the Olympics past]]></title>
+            <description><![CDATA[It isn't always the big names and blue-riband events that create all the memories. Here are 10 times the Olympics has set spines tingling and tears flowing]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57824699</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57824699</guid>
+            <pubDate>Fri, 16 Jul 2021 09:32:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Olympic football: Men's players to watch at Tokyo 2020]]></title>
             <description><![CDATA[Here is the lowdown on the biggest names and brightest stars looking to shine this summer in the men's Olympic football tournament.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57833180</link>
@@ -525,41 +567,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/57240400</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57240400</guid>
             <pubDate>Tue, 13 Jul 2021 05:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cocaine in the UK: The DJ and friends helping addicts beat their 'beasts']]></title>
-            <description><![CDATA[More people in the UK are taking cocaine. A DJ and ex-addict in Liverpool is helping them stop.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57733774</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57733774</guid>
-            <pubDate>Tue, 20 Jul 2021 23:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils]]></title>
-            <description><![CDATA[Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57853537</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57853537</guid>
-            <pubDate>Wed, 21 Jul 2021 05:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Esther Dingley: Partner vows to keep searching for missing hiker]]></title>
-            <description><![CDATA[The partner of missing hiker Esther Dingley explains why he won't give up searching for her.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-57818035</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-57818035</guid>
-            <pubDate>Fri, 16 Jul 2021 00:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Under the skin of OnlyFans]]></title>
-            <description><![CDATA[A BBC investigation reveals concerns about how the site, known for porn, is structured and moderated.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57269939</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57269939</guid>
-            <pubDate>Fri, 16 Jul 2021 23:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Broadway dancer whose lockdown business bloomed]]></title>
-            <description><![CDATA[When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-57840115</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57840115</guid>
-            <pubDate>Sat, 17 Jul 2021 23:22:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

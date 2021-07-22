@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 23:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 23:46:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Major websites hit by global outage]]></title>
+            <description><![CDATA[The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57929544</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929544</guid>
+            <pubDate>Thu, 22 Jul 2021 17:03:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Olympics opening ceremony director sacked for Holocaust joke]]></title>
             <description><![CDATA[The decision to remove Kentaro Kobayashi comes a day before the opening show is due to be held.]]></description>
@@ -30,13 +37,6 @@
             <pubDate>Thu, 22 Jul 2021 13:57:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Major websites hit by global outage]]></title>
-            <description><![CDATA[The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57929544</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929544</guid>
-            <pubDate>Thu, 22 Jul 2021 17:03:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: China rejects WHO plan for second phase of virus origin probe]]></title>
             <description><![CDATA[China says a proposal to audit labs shows "disrespect to common sense and arrogance towards science".]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57926368</link>
@@ -44,18 +44,18 @@
             <pubDate>Thu, 22 Jul 2021 13:46:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[California sues Activision Blizzard over alleged harassment]]></title>
-            <description><![CDATA[One of the world's largest gaming companies is accused of endemic discrimination and harassment.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57929543</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929543</guid>
-            <pubDate>Thu, 22 Jul 2021 14:35:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coronavirus: Italy brings in Covid certificate amid spike in infections]]></title>
             <description><![CDATA[All those aged 12 and over with at least one jab will be able to access bars, cinemas and gyms.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57937722</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57937722</guid>
             <pubDate>Thu, 22 Jul 2021 22:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia Tigray crisis: New front opens in war as aid fears grow]]></title>
+            <description><![CDATA[A bloody eight-month battle for control of the Tigray region spills over into neighbouring Afar.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57926832</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57926832</guid>
+            <pubDate>Thu, 22 Jul 2021 17:59:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US border agents seize 15 giant snails]]></title>
@@ -72,6 +72,20 @@
             <pubDate>Thu, 22 Jul 2021 15:55:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Indian tax authorities raid media outlets Bharat Samachar and Dainik Bhaskar]]></title>
+            <description><![CDATA[The government denies that the raids were in retaliation for unfavourable reporting.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57937862</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57937862</guid>
+            <pubDate>Thu, 22 Jul 2021 23:44:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[California sues Activision Blizzard over alleged harassment]]></title>
+            <description><![CDATA[One of the world's largest gaming companies is accused of endemic discrimination and harassment.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57929543</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929543</guid>
+            <pubDate>Thu, 22 Jul 2021 14:35:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Joe Biden says he's self-conscious as president]]></title>
             <description><![CDATA[The president reflects on his first six months in the White House in a town hall hosted in Ohio.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57924435</link>
@@ -79,32 +93,11 @@
             <pubDate>Thu, 22 Jul 2021 13:48:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AI advance could transform battle against disease]]></title>
-            <description><![CDATA[A program has been used to predict the structures of nearly every protein in the human body.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57929095</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57929095</guid>
-            <pubDate>Thu, 22 Jul 2021 15:24:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Black bear at softball arena still not caught out]]></title>
             <description><![CDATA[There are no fans at the Azuma Stadium in Fukushima for the Olympic softball tournament, but US players are keeping their eyes out for a ticketless intruder.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57927169</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57927169</guid>
             <pubDate>Thu, 22 Jul 2021 10:57:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethiopia Tigray crisis: New front opens in war as aid fears grow]]></title>
-            <description><![CDATA[A bloody eight-month battle for control of the Tigray region spills over into neighbouring Afar.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57926832</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57926832</guid>
-            <pubDate>Thu, 22 Jul 2021 17:59:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 12-year-old becoming Tokyo's youngest Olympian]]></title>
-            <description><![CDATA[Hend Zaza from Syria reveals her inspiration for getting into table tennis at such a young age.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57925985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57925985</guid>
-            <pubDate>Thu, 22 Jul 2021 14:02:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wuhan virus: Was US money used to fund risky research in China?]]></title>
@@ -135,6 +128,13 @@
             <pubDate>Thu, 22 Jul 2021 23:00:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AI advance could transform battle against disease]]></title>
+            <description><![CDATA[A program has been used to predict the structures of nearly every protein in the human body.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57929095</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57929095</guid>
+            <pubDate>Thu, 22 Jul 2021 15:24:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I survived Norway's worst terror attack]]></title>
             <description><![CDATA[Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.]]></description>
             <link>https://www.bbc.co.uk/news/stories-57920682</link>
@@ -163,6 +163,13 @@
             <pubDate>Thu, 22 Jul 2021 23:00:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The 12-year-old becoming Tokyo's youngest Olympian]]></title>
+            <description><![CDATA[Hend Zaza from Syria reveals her inspiration for getting into table tennis at such a young age.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57925985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57925985</guid>
+            <pubDate>Thu, 22 Jul 2021 14:02:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China floods: Drone footage shows the scale of damage as clean up begins]]></title>
             <description><![CDATA[As aerial pictures show the extent of destruction, our correspondent reports on the situation on the ground.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57926019</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-57913517</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57913517</guid>
             <pubDate>Wed, 21 Jul 2021 23:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Halima Aden and Tommy Hilfiger: ‘It’s not just about diverse catwalks’]]></title>
-            <description><![CDATA[The world’s first hijab-wearing supermodel talks to fashion designer Tommy Hilfiger about why she quit the industry.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57918698</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57918698</guid>
-            <pubDate>Wed, 21 Jul 2021 23:00:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: A Games in a pandemic, new sports, British medal hopes and global stars to watch]]></title>
