@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 05:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 05:37:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Wed, 21 Jul 2021 21:37:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Harvey Weinstein pleads not guilty to LA sexual assault charges]]></title>
-            <description><![CDATA[The disgraced Hollywood producer appears in court in a wheelchair, facing sexual assault charges.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57912377</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57912377</guid>
-            <pubDate>Wed, 21 Jul 2021 20:57:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Joe Biden says he's self-conscious as president]]></title>
             <description><![CDATA[The president reflects on his first six months in the White House in a town hall hosted in Ohio.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57924435</link>
@@ -65,18 +58,18 @@
             <pubDate>Thu, 22 Jul 2021 04:45:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I survived Norway's worst terror attack']]></title>
-            <description><![CDATA[Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in a summer camp for young activists on Utøya island on 22 July 2011.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-57920682</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57920682</guid>
-            <pubDate>Wed, 21 Jul 2021 23:09:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[YouTube removes Bolsonaro videos for Covid misinformation]]></title>
             <description><![CDATA[The tech giant said its decision was based on its content policies, not on ideology or politics.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57923862</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57923862</guid>
             <pubDate>Thu, 22 Jul 2021 04:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Argentina introduces new ID cards for non-binary people]]></title>
+            <description><![CDATA[Under the new system, residents can select 'x' as their gender on passports and national ID cards.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57923856</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57923856</guid>
+            <pubDate>Wed, 21 Jul 2021 22:52:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former informant 'White Boy Rick' sues FBI for $100m]]></title>
@@ -86,6 +79,13 @@
             <pubDate>Wed, 21 Jul 2021 16:45:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Harvey Weinstein pleads not guilty to LA sexual assault charges]]></title>
+            <description><![CDATA[The disgraced Hollywood producer appears in court in a wheelchair, facing sexual assault charges.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57912377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57912377</guid>
+            <pubDate>Wed, 21 Jul 2021 20:57:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Monkeypox: More than 200 contacts tracked in US for rare disease]]></title>
             <description><![CDATA[No instances of the rare disease had been recorded in the US since 2003.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57919573</link>
@@ -93,11 +93,11 @@
             <pubDate>Wed, 21 Jul 2021 18:48:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Argentina introduces new ID cards for non-binary people]]></title>
-            <description><![CDATA[Under the new system, residents can select 'x' as their gender on passports and national ID cards.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57923856</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57923856</guid>
-            <pubDate>Wed, 21 Jul 2021 22:52:17 GMT</pubDate>
+            <title><![CDATA['I survived Norway's worst terror attack']]></title>
+            <description><![CDATA[Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in a summer camp for young activists on Utøya island on 22 July 2011.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-57920682</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57920682</guid>
+            <pubDate>Wed, 21 Jul 2021 23:09:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Where and why is the US vaccine rollout slowing down?]]></title>
@@ -171,7 +171,7 @@
         </item>
         <item>
             <title><![CDATA[The jungle-trekking Covid vaccinators helping to protect remote Indian villages.]]></title>
-            <description><![CDATA[Latgam Singpu and his team use rope bridges, school buses and incentives to reach remote villages]]></description>
+            <description><![CDATA[Latgam Singpu and his team use rope bridges, school buses and incentives to reach remote villages.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57917673</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57917673</guid>
             <pubDate>Wed, 21 Jul 2021 23:05:41 GMT</pubDate>
