@@ -1,7 +1,7 @@
 1. [Covid: 600,000 patients on NHS Wales waiting lists](https://www.bbc.co.uk/news/uk-wales-57915989) - More than 19% of the Welsh population is waiting for treatment, latest figures show.
 2. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
-3. [Covid in Wales: Young farmers' club membership halves](https://www.bbc.co.uk/news/uk-wales-57919623) - But members are starting to return as Covid rules are relaxed, says the Wales chair.
-4. [Swansea: 3D printed ear would 'transform' girl's life](https://www.bbc.co.uk/news/uk-wales-57903527) - Scientists will use human cells and plant-based materials to rebuild an ear for 10-year-old Radiyah.
+3. [Swansea: 3D printed ear would 'transform' girl's life](https://www.bbc.co.uk/news/uk-wales-57903527) - Scientists will use human cells and plant-based materials to rebuild an ear for 10-year-old Radiyah.
+4. [Covid in Wales: Young farmers' club membership halves](https://www.bbc.co.uk/news/uk-wales-57919623) - But members are starting to return as Covid rules are relaxed, says the Wales chair.
 5. [Motorcyclist killed in crash on A44 near Aberystwyth](https://www.bbc.co.uk/news/uk-wales-57925835) - The motorcyclist died at the scene after crashing with a lorry near Aberystwyth on Wednesday.
 6. [Mills and Sbihi to be Team GB flag bearers in Tokyo](https://www.bbc.co.uk/sport/olympics/57925326) - Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.
 7. [Climate change: Airbus aims for 'climate-neutral' flights by 2035](https://www.bbc.co.uk/news/uk-wales-57923403) - And the wing-maker's Flintshire factory will play a "critical" role, says one senior manager.
