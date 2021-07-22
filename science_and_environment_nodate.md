@@ -1,4 +1,4 @@
-1. [AI breakthrough could transform battle against disease](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
+1. [AI breakthrough could spark medical revolution](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
 2. [Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again](https://www.bbc.co.uk/news/business-57924354) - The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.
 3. ['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils](https://www.bbc.co.uk/news/science-environment-57853537) - Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.
 4. [Russia sends long-delayed module to space station](https://www.bbc.co.uk/news/science-environment-57921439) - The 13m-long, 20-tonne Nauka laboratory is finally going into orbit after a delay of 14 years.

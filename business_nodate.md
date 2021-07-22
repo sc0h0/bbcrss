@@ -1,5 +1,5 @@
 1. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
-2. [Websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - Dozens of hugely popular websites have been knocked offline.
+2. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - Dozens of popular websites have been knocked offline.
 3. [UK tech giant founder Mike Lynch can be extradited to US](https://www.bbc.co.uk/news/business-57933718) - Lawyers for Autonomy's founder, Mike Lynch, say he will fight the US authorities' bid to try him for fraud.
 4. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
 5. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - The Co-op says that supplies of soft drinks, beer and deodorant have been affected.

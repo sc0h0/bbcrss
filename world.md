@@ -1,5 +1,5 @@
 1. [Olympics opening ceremony director sacked for Holocaust joke](https://www.bbc.co.uk/news/world-asia-57924885) - Thu, 22 Jul 2021 12:54:52 GMT - The decision to remove Kentaro Kobayashi comes a day before the opening show is due to be held.
-2. [Websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - Thu, 22 Jul 2021 16:52:46 GMT - Dozens of hugely popular websites have been knocked offline.
+2. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - Thu, 22 Jul 2021 17:03:18 GMT - Dozens of popular websites have been knocked offline.
 3. [Covid: China rejects WHO plan for second phase of virus origin probe](https://www.bbc.co.uk/news/world-asia-china-57926368) - Thu, 22 Jul 2021 13:46:56 GMT - China says a proposal to audit labs shows "disrespect to common sense and arrogance towards science".
 4. ['It was hard to breathe': China flood terror as train carriage submerged](https://www.bbc.co.uk/news/world-asia-china-57920412) - Thu, 22 Jul 2021 10:09:18 GMT - Passengers tell of their fear after a busy subway carriage was flooded in central Henan province.
 5. [California sues Activision Blizzard over alleged harassment](https://www.bbc.co.uk/news/technology-57929543) - Thu, 22 Jul 2021 14:35:48 GMT - One of the world's largest gaming companies is accused of endemic discrimination and harassment.

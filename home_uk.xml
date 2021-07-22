@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 17:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 17:28:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,14 @@
             <description><![CDATA[The Co-op says that supplies of soft drinks, beer and deodorant have been affected.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57924264</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57924264</guid>
-            <pubDate>Thu, 22 Jul 2021 14:48:40 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 17:05:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Websites hit by global outage]]></title>
-            <description><![CDATA[Dozens of hugely popular websites have been knocked offline.]]></description>
+            <title><![CDATA[Major websites hit by global outage]]></title>
+            <description><![CDATA[Dozens of popular websites have been knocked offline.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57929544</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929544</guid>
-            <pubDate>Thu, 22 Jul 2021 16:52:46 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 17:03:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Croydon tram crash: Passengers accidentally killed, jury finds]]></title>
@@ -37,11 +37,11 @@
             <pubDate>Thu, 22 Jul 2021 13:13:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tommy Robinson loses High Court libel case]]></title>
-            <description><![CDATA[The anti-Islam activist is ordered to pay a Syrian teenage refugee £100,000 in damages.]]></description>
+            <title><![CDATA[Tommy Robinson loses Jamal Hijazi libel case]]></title>
+            <description><![CDATA[The High Court orders the anti-Islam activist to pay a teenage refugee £100,000 in damages.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-57930901</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57930901</guid>
-            <pubDate>Thu, 22 Jul 2021 15:41:05 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 17:24:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Post Office scandal: Postmasters to get up to £100,000]]></title>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57927398</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57927398</guid>
             <pubDate>Thu, 22 Jul 2021 16:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK has no idea of EU fishing catch in its waters, says Labour]]></title>
-            <description><![CDATA[The government says it is trying to get EU boats to declare everything they land in UK waters.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57922251</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57922251</guid>
-            <pubDate>Thu, 22 Jul 2021 15:45:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: I beat an Olympian...when I was younger]]></title>
@@ -268,13 +261,6 @@
             <pubDate>Thu, 22 Jul 2021 14:06:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred opener breaks TV and crowd records]]></title>
-            <description><![CDATA[The Hundred's opening match, Oval Invincibles v Manchester Originals, breaks TV audience record]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57930830</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57930830</guid>
-            <pubDate>Thu, 22 Jul 2021 14:34:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo 2020 men's football: Richarlison inspires Brazil, Spain held by Egypt, Wood makes history for NZ]]></title>
             <description><![CDATA[Richarlison's first-half hat-trick inspires Brazil to a 4-2 win over Germany despite a second-half wobble, as Spain are held by Egypt.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57926170</link>
@@ -296,11 +282,25 @@
             <pubDate>Thu, 22 Jul 2021 14:22:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Hundred opener breaks TV and crowd records]]></title>
+            <description><![CDATA[The Hundred's opening match, Oval Invincibles v Manchester Originals, breaks TV audience record]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57930830</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57930830</guid>
+            <pubDate>Thu, 22 Jul 2021 14:34:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Dina Asher-Smith opens up on body image & tackling racism in sport]]></title>
             <description><![CDATA[Dina Asher-Smith opens up about life on and off the track with friend and Radio 1 DJ Clara Amfo.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57916292</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57916292</guid>
             <pubDate>Thu, 22 Jul 2021 06:58:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Brazil's Richarlison scores first-half hat-trick against Germany]]></title>
+            <description><![CDATA[Everton's Richarlison scores a first-half hat-trick for Brazil to make it 3-0 in their opening match against Germany at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/57928991</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/57928991</guid>
+            <pubDate>Thu, 22 Jul 2021 11:52:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Care homes worst hit by Covid – search the data ]]></title>

@@ -6,7 +6,7 @@
 6. [Brexit: No breakthrough on NI protocol after PM speaks to EU chief](https://www.bbc.co.uk/news/uk-politics-57930799) - Boris Johnson speaks to EU chief Ursula von der Leyen about the UK's demand to rework the Brexit deal.
 7. [Fan-led review says English football at genuine risk](https://www.bbc.co.uk/sport/football/57929695) - The dangers facing English league clubs are "very real", with key aspects of the nation's game "at genuine risk", says the chair of a fan-led review commissioned by the government.
 8. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
-9. [Tommy Robinson loses High Court libel case](https://www.bbc.co.uk/news/uk-england-leeds-57930901) - The anti-Islam activist is ordered to pay a Syrian teenage refugee £100,000 in damages.
+9. [Tommy Robinson loses Jamal Hijazi libel case](https://www.bbc.co.uk/news/uk-england-leeds-57930901) - The High Court orders the anti-Islam activist to pay a teenage refugee £100,000 in damages.
 10. [Michael Jackson super fan among those sanctioned by UK](https://www.bbc.co.uk/news/uk-57923588) - A vice-president of Equatorial Guinea is among five people to receive UK "anti-corruption" sanctions.
 11. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
 12. [Abortion in NI: Westminster directs Stormont to set up services](https://www.bbc.co.uk/news/uk-northern-ireland-57921537) - Westminster has intervened with a formal direction requiring Stormont to commission services.
