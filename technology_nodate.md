@@ -4,7 +4,7 @@
 4. [California sues Activision Blizzard over alleged harassment](https://www.bbc.co.uk/news/technology-57929543) - One of the world's largest gaming companies is accused of endemic discrimination and harassment.
 5. [Pegasus spyware seller: Blame our customers, not us, for hacking](https://www.bbc.co.uk/news/technology-57922664) - NSO Group tells BBC News: "The finger-pointing should be at the customer."
 6. [Twitter trials upvote and downvote buttons](https://www.bbc.co.uk/news/technology-57923215) - Some iOS users will see thumb and arrow buttons as the company experiments with voting.
-7. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Lawyers for Autonomy's founder, Mike Lynch, say he will fight the US authorities' bid to try him for fraud.
+7. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Autonomy's founder, Mike Lynch, says he will fight the US authorities' bid to try him for fraud.
 8. [Call for online abusers to be reported to bosses](https://www.bbc.co.uk/news/technology-57907852) - A group is calling for companies to set up ways for people to report workers behaving abusively online.
 9. [Stinky Bay? Local names added to map to aid coastal rescue](https://www.bbc.co.uk/news/technology-57916520) - Local names for coastal places are added to OS maps to help rescuers locate those in need.
 10. [Senior US Catholic resigns over Grindr allegations](https://www.bbc.co.uk/news/technology-57909329) - A newsletter obtains mobile app data allegedly showing a Roman Catholic official used Grindr and visited gay bars.
@@ -15,9 +15,9 @@
 15. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
 16. [Robot helps people get dressed and other tech news](https://www.bbc.co.uk/news/technology-57862434) - Romana Kreider looks at some of the best technology news stories of the week.
 17. [Duran Duran’s Invisible: 'Thrilled' with AI collaboration](https://www.bbc.co.uk/news/technology-57737384) - Musician Nick Rhodes explains why artificial intelligence was key in making their new music video.
-18. [Zoomtown-on-Sea? The lure of a new life on the coast](https://www.bbc.co.uk/news/uk-57892934) - Remote working meant the Lancaster family could live anywhere - they found their sea view in Scarborough.
-19. [Pegasus scandal: Are we all becoming unknowing spies?](https://www.bbc.co.uk/news/technology-57910355) - We may be stepping into a world in which we are all spies - and at the same time are all spied on.
-20. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
-21. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
-22. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
-23. [NHS Covid app: Should it stay or should it go?](https://www.bbc.co.uk/news/technology-57836325) - There is a clash over the future of the NHS tracing app, as many delete it - or ignore its alerts.
+18. [What does a future-proofed home look like?](https://www.bbc.co.uk/news/business-57738681) - The technology exists to make homes more resilient to extreme weather, but it can be expensive.
+19. [Zoomtown-on-Sea? The lure of a new life on the coast](https://www.bbc.co.uk/news/uk-57892934) - Remote working meant the Lancaster family could live anywhere - they found their sea view in Scarborough.
+20. [Pegasus scandal: Are we all becoming unknowing spies?](https://www.bbc.co.uk/news/technology-57910355) - We may be stepping into a world in which we are all spies - and at the same time are all spied on.
+21. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
+22. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
+23. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.

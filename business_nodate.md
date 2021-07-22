@@ -1,7 +1,7 @@
 1. [UK food workers to be exempt from Covid isolation](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry will move to daily Covid testing, the government says, after isolating workers led to supply shortages.
 2. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
 3. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
-4. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Lawyers for Autonomy's founder, Mike Lynch, say he will fight the US authorities' bid to try him for fraud.
+4. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Autonomy's founder, Mike Lynch, says he will fight the US authorities' bid to try him for fraud.
 5. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - The Co-op says that supplies of soft drinks, beer and deodorant have been affected.
 6. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
 7. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
@@ -10,9 +10,9 @@
 10. [Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again](https://www.bbc.co.uk/news/business-57924354) - The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.
 11. [Hackers reportedly demand $50m from Saudi Aramco over data leak](https://www.bbc.co.uk/news/business-57924355) - The world's most valuable oil producer confirmed to the BBC that company files had been leaked.
 12. [Nord Stream 2: US and Germany reach deal on controversial Russian gas pipeline](https://www.bbc.co.uk/news/world-europe-57923655) - The US says the agreement prevents Russia from using the pipeline as a political weapon over Europe.
-13. [Heatwave: The worst jobs to have as temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
-14. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
-15. [CEO Secrets: 'Four-day weeks are good for business'](https://www.bbc.co.uk/news/business-57894093) - CEO Joe Munns says giving his workers a three-day weekend makes them happier and more productive.
-16. [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128) - Electroflight has built the E-NXT which it hopes will break the electric airspeed record.
-17. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
-18. [CEO Secrets: 'Don't sell your technology too early'](https://www.bbc.co.uk/news/business-57805207) - The CEO of an eco-friendly textiles firm advises holding out for the biggest customer you can find
+13. [How global conferences are using tech to stay in business](https://www.bbc.co.uk/news/business-57817807) - Moving events online kept the industry going during the pandemic and now they're here to stay.
+14. [Heatwave: The worst jobs to have as temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
+15. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
+16. [CEO Secrets: 'Four-day weeks are good for business'](https://www.bbc.co.uk/news/business-57894093) - CEO Joe Munns says giving his workers a three-day weekend makes them happier and more productive.
+17. [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128) - Electroflight has built the E-NXT which it hopes will break the electric airspeed record.
+18. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
