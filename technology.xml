@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 09:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 10:15:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[More than 600,000 people told to self-isolate by NHS Covid-19 app]]></title>
+            <description><![CDATA[618,903 people in England and Wales received self-isolation alerts in the week up to 14 July]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57929162</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929162</guid>
+            <pubDate>Thu, 22 Jul 2021 10:08:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pegasus spyware seller: Blame our customers not us for hacking]]></title>
             <description><![CDATA[NSO Group tells BBC News: "The finger-pointing should be at the customer."]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-57910038</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57910038</guid>
             <pubDate>Tue, 20 Jul 2021 21:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northern's ticket machines hit by ransomware cyber attack]]></title>
-            <description><![CDATA[Northern rail's new self-service machines were installed at 420 stations two months ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57892711</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57892711</guid>
-            <pubDate>Tue, 20 Jul 2021 08:35:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cyber-flashing: 'I get explicit messages every day']]></title>
