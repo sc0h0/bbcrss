@@ -5,7 +5,7 @@
 5. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
 6. [Covid-19: Shops try to ease pingdemic fears and record cases for adults in their 20s](https://www.bbc.co.uk/news/uk-57923590) - Five things you need to know about the coronavirus pandemic this Thursday evening.
 7. [Covid cases at record levels for 20 to 29-year-olds](https://www.bbc.co.uk/news/health-57933108) - Everyone in this age group should be cautious when socialising, officials say, and get two jabs.
-8. [The Hundred: Oval Invincibles secure entertaining win over Manchester Originals in first men's game](https://www.bbc.co.uk/sport/cricket/57931910) - Oval Invincibles edge out Manchester Originals in an entertaining first men's match of The Hundred at The Oval.
+8. [Invincibles open men's Hundred with entertaining win](https://www.bbc.co.uk/sport/cricket/57931910) - Oval Invincibles edge out Manchester Originals in an entertaining first men's match of The Hundred at The Oval.
 9. [Olympics opening ceremony director sacked for Holocaust joke](https://www.bbc.co.uk/news/world-asia-57924885) - The decision to remove Kentaro Kobayashi comes a day before the opening show is due to be held.
 10. [Gary Lineker to host new ITV gameshow, Sitting on a Fortune](https://www.bbc.co.uk/news/entertainment-arts-57927271) - The MOTD presenter will now also front Sitting on a Fortune, where contestants can win £100,000.
 11. [California sues Activision Blizzard over alleged harassment](https://www.bbc.co.uk/news/technology-57929543) - One of the world's largest gaming companies is accused of endemic discrimination and harassment.

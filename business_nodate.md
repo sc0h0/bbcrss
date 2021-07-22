@@ -10,10 +10,9 @@
 10. [Hackers reportedly demand $50m from Saudi Aramco over data leak](https://www.bbc.co.uk/news/business-57924355) - The world's most valuable oil producer confirmed to the BBC that company files had been leaked.
 11. [Nord Stream 2: US and Germany reach deal on controversial Russian gas pipeline](https://www.bbc.co.uk/news/world-europe-57923655) - The US says the agreement prevents Russia from using the pipeline as a political weapon over Europe.
 12. [Opioid crisis: US drug giants reach $26bn settlement](https://www.bbc.co.uk/news/business-57910039) - Four drug-makers and distributors have agreed to pay the sum to settle thousands of government lawsuits.
-13. [BP: Lorry driver shortages closing some sites temporarily](https://www.bbc.co.uk/news/business-57912922) - The oil firm says the "vast majority" of shortages were being "resolved within a day".
-14. [Heatwave: The worst jobs to have as temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
-15. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
-16. [CEO Secrets: 'Four-day weeks are good for business'](https://www.bbc.co.uk/news/business-57894093) - CEO Joe Munns says giving his workers a three-day weekend makes them happier and more productive.
-17. [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128) - Electroflight has built the E-NXT which it hopes will break the electric airspeed record.
-18. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
-19. [CEO Secrets: 'Don't sell your technology too early'](https://www.bbc.co.uk/news/business-57805207) - The CEO of an eco-friendly textiles firm advises holding out for the biggest customer you can find
+13. [Heatwave: The worst jobs to have as temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
+14. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
+15. [CEO Secrets: 'Four-day weeks are good for business'](https://www.bbc.co.uk/news/business-57894093) - CEO Joe Munns says giving his workers a three-day weekend makes them happier and more productive.
+16. [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128) - Electroflight has built the E-NXT which it hopes will break the electric airspeed record.
+17. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
+18. [CEO Secrets: 'Don't sell your technology too early'](https://www.bbc.co.uk/news/business-57805207) - The CEO of an eco-friendly textiles firm advises holding out for the biggest customer you can find
