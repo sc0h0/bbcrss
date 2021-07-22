@@ -1,4 +1,4 @@
-1. [YouTube removes Bolsonaro videos for Covid misinformation](https://www.bbc.co.uk/news/world-latin-america-57923862) - The tech giant said its decision was based on its content policies, not on ideology or politics.
+1. [YouTube removes Bolsonaro videos for Covid misinformation](https://www.bbc.co.uk/news/world-latin-america-57923862) - The tech giant says its decision was based on its content policies, not on ideology or politics.
 2. [Argentina introduces new ID cards for non-binary people](https://www.bbc.co.uk/news/world-latin-america-57923856) - Under the new system, residents can select 'x' as their gender on passports and national ID cards.
 3. [Covid: The Mexican villages refusing to vaccinate](https://www.bbc.co.uk/news/world-latin-america-57893466) - Residents in remote Mexican towns are being influenced by lies and rumours swirling around on WhatsApp.
 4. [Strife-torn Haiti gets new prime minister](https://www.bbc.co.uk/news/world-latin-america-57910829) - Ariel Henry's appointment comes nearly two weeks after President Jovenel Moïse was assassinated.
@@ -7,8 +7,8 @@
 7. [Latin American Foto Festival: Strength and resistance](https://www.bbc.co.uk/news/in-pictures-57819892) - Caribbean and Latin American photography features in the fourth Annual Latin American Foto Festival.
 8. [Cuba protests: Tax on food and medicine imports lifted](https://www.bbc.co.uk/news/world-latin-america-57844864) - In response to rare protests, Cuba will temporarily allow travellers to bring in some goods tax-free.
 9. [Covid-19: Second doses run dry in Brazil's scramble to vaccinate](https://www.bbc.co.uk/news/world-latin-america-57819263) - Many are struggling to source their second dose of the Covid-19 jab in one of the worst-hit countries.
-10. [Colombia bets on privately funded Covid vaccinations](https://www.bbc.co.uk/news/world-latin-america-57819261) - The private-sector scheme allows companies to vaccinate their Colombian staff, regardless of need.
-11. [Climate change: Amazon regions emit more carbon than they absorb](https://www.bbc.co.uk/news/science-environment-57839364) - Rising heat and deforestation cause eastern parts of the Amazon to become carbon sources, not sinks.
+10. [Climate change: Amazon regions emit more carbon than they absorb](https://www.bbc.co.uk/news/science-environment-57839364) - Rising heat and deforestation cause eastern parts of the Amazon to become carbon sources, not sinks.
+11. [Colombia bets on privately funded Covid vaccinations](https://www.bbc.co.uk/news/world-latin-america-57819261) - The private-sector scheme allows companies to vaccinate their Colombian staff, regardless of need.
 12. [Cuba protests: Frustration at government runs deep](https://www.bbc.co.uk/news/world-latin-america-57823130) - Comments on state media show Cubans had been voicing their anger long before the latest protests.
 13. [Cuba protests: Internet sheds light on anger - until it goes dark](https://www.bbc.co.uk/news/world-latin-america-57818918) - Social media played a key role in rare protests, and the government moved quickly to restrict it.
 14. [Cuba protests: Three key issues that explain the rare unrest](https://www.bbc.co.uk/news/world-latin-america-57802170) - Cuba has been plunged into turmoil by unusual protests. We look at the main drivers of unrest.

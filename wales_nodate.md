@@ -1,4 +1,4 @@
-1. [NHS Wales: Promise to transform service to cope with demand](https://www.bbc.co.uk/news/uk-wales-57915989) - Delivery of urgent care to be transformed during "challenging period" for the NHS, says minister.
+1. [NHS Wales: Promise to transform service to cope with demand](https://www.bbc.co.uk/news/uk-wales-57915989) - Delivery of urgent care to be transformed during a "challenging period", says the health minister.
 2. [Covid in Wales: Young farmers' club membership halves](https://www.bbc.co.uk/news/uk-wales-57919623) - But members are starting to return as Covid rules are relaxed, says the Wales chair.
 3. [3D printing: Swansea research 'could revolutionise facial reconstruction'](https://www.bbc.co.uk/news/uk-wales-57903527) - The £2.5m study will use human cells and plant-based materials to rebuild ears and noses.
 4. [Mills and Sbihi to be Team GB Olympic flag bearers](https://www.bbc.co.uk/sport/olympics/57925326) - Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.

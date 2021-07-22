@@ -5,7 +5,7 @@
 5. [Joe Biden says he's self-conscious as president](https://www.bbc.co.uk/news/world-us-canada-57924435) - The president reflects on his first six months in the White House in a town hall hosted in Ohio.
 6. [Yuen Long attack: Hong Kong court gives seven jail time](https://www.bbc.co.uk/news/world-asia-china-57925055) - The 2019 attack in Yuen Long was captured by victims and bystanders on phones and shocked the city.
 7. ['I survived Norway's worst terror attack'](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in a summer camp for young activists on Utøya island on 22 July 2011.
-8. [YouTube removes Bolsonaro videos for Covid misinformation](https://www.bbc.co.uk/news/world-latin-america-57923862) - The tech giant said its decision was based on its content policies, not on ideology or politics.
+8. [YouTube removes Bolsonaro videos for Covid misinformation](https://www.bbc.co.uk/news/world-latin-america-57923862) - The tech giant says its decision was based on its content policies, not on ideology or politics.
 9. [Argentina introduces new ID cards for non-binary people](https://www.bbc.co.uk/news/world-latin-america-57923856) - Under the new system, residents can select 'x' as their gender on passports and national ID cards.
 10. [Former informant 'White Boy Rick' sues FBI for $100m](https://www.bbc.co.uk/news/world-us-canada-57918115) - The one-time teenage FBI informant says his work with the agency amounts to 'child abuse'
 11. [Harvey Weinstein pleads not guilty to LA sexual assault charges](https://www.bbc.co.uk/news/entertainment-arts-57912377) - The disgraced Hollywood producer appears in court in a wheelchair, facing sexual assault charges.
