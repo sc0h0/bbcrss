@@ -1,4 +1,4 @@
-1. [Olympics opening ceremony director dismissed on eve of event](https://www.bbc.co.uk/news/world-asia-57924885) - After the removal of Kentaro Kobayashi, organisers are now re-assessing how to hold Friday's event.
+1. [Olympics opening ceremony director sacked for Holocaust joke](https://www.bbc.co.uk/news/world-asia-57924885) - The decision to remove Kentaro Kobayashi comes a day before the opening show is due to be held.
 2. ['It was hard to breathe': China flood terror as train carriage submerged](https://www.bbc.co.uk/news/world-asia-china-57920412) - Passengers tell of their fear after a busy subway carriage was flooded in central Henan province.
 3. [Henan floods: Woman swept down street by extreme flood waters](https://www.bbc.co.uk/news/world-asia-57912150) - Bystanders managed to rescue the woman in Henan province, where several people have died amid flooding.
 4. [Yuen Long attack: Hong Kong court gives seven jail time](https://www.bbc.co.uk/news/world-asia-china-57925055) - The 2019 attack in Yuen Long was captured by victims and bystanders on phones and shocked the city.
