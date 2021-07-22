@@ -1,5 +1,5 @@
 1. [More than 600,000 people told to isolate by app last week](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
-2. [Croydon tram crash: Passengers accidentally killed, jury concludes](https://www.bbc.co.uk/news/uk-england-london-57721493) - Seven people died when the tram tipped over and spun off the track in Croydon in November 2016.
+2. [Croydon tram crash: Passengers accidentally killed, jury finds](https://www.bbc.co.uk/news/uk-england-london-57721493) - Seven people died when the tram tipped over and spun off the track in Croydon in November 2016.
 3. [Covid: Shoppers told there is no need to panic buy](https://www.bbc.co.uk/news/uk-57924264) - Business Secretary Kwasi Kwateng says the government is "concerned about instances of shortages".
 4. [Olympics opening ceremony director sacked for Holocaust joke](https://www.bbc.co.uk/news/world-asia-57924885) - The decision to remove Kentaro Kobayashi comes a day before the opening show is due to be held.
 5. [Mercury Prize nominations: Wolf Alice, Arlo Parks and Celeste make the shortlist](https://www.bbc.co.uk/news/entertainment-arts-57913364) - The band are joined by Arlo Parks, Celeste, Ghetts and Mogwai on the album of the year shortlist.
