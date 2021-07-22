@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jul 2021 23:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 01:38:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Monkeypox: More than 200 contacts tracked in US for rare disease]]></title>
+            <description><![CDATA[No instances of the rare disease had been recorded in the US since 2003.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57919573</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57919573</guid>
+            <pubDate>Wed, 21 Jul 2021 18:48:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19 pandemic drives US life expectancy fall]]></title>
             <description><![CDATA[Data shows the average American lifespan declined by one-and-a-half years in 2020.]]></description>
@@ -28,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57918115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57918115</guid>
             <pubDate>Wed, 21 Jul 2021 16:45:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harvey Weinstein pleads not guilty to LA sexual assault charges]]></title>
+            <description><![CDATA[The disgraced Hollywood producer appears in court in a wheelchair, facing sexual assault charges.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57912377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57912377</guid>
+            <pubDate>Wed, 21 Jul 2021 20:57:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wildfires: Firefighters battle blaze from top of moving train]]></title>

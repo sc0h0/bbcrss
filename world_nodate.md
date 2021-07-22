@@ -19,7 +19,7 @@
 19. [Pegasus scandal: Are we all becoming unknowing spies?](https://www.bbc.co.uk/news/technology-57910355) - We may be stepping into a world in which we are all spies - and at the same time are all spied on.
 20. [Covid: The Mexican villages refusing to vaccinate](https://www.bbc.co.uk/news/world-latin-america-57893466) - Residents in remote Mexican towns are being influenced by lies and rumours swirling around on WhatsApp.
 21. [Commuters and children rescued from China floodwaters](https://www.bbc.co.uk/news/world-asia-57908888) - Many people have been saved from the the waist-high waters across Henan province.
-22. [The jungle-trekking Covid vaccinators helping to protect remote Indian villages.](https://www.bbc.co.uk/news/world-asia-india-57917673) - Latgam Singpu and his team of Covid vaccinators use rope bridges, school buses and incentives to reach remote villages in India's Arunachal Pradesh state.
+22. [The jungle-trekking Covid vaccinators helping to protect remote Indian villages.](https://www.bbc.co.uk/news/world-asia-india-57917673) - Latgam Singpu and his team use rope bridges, school buses and incentives to reach remote villages
 23. [Europe floods: 'I have an axe beside my bed'](https://www.bbc.co.uk/news/world-europe-57923443) - Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.
 24. [The battle for Indonesia's Gold Island](https://www.bbc.co.uk/news/world-asia-57902815) - There are fears that a mine will threaten Sangihe island's ancient forests and local water supply.
 25. [Jeff Bezos and crew launch into space on New Shepard](https://www.bbc.co.uk/news/world-57900620) - Billionaire Jeff Bezos has launched into space, in the first crewed flight of his rocket ship, New Shepard.

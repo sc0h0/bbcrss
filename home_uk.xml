@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 00:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 01:36:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -324,6 +324,41 @@
             <pubDate>Wed, 21 Jul 2021 10:17:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Who has to self-isolate and what if I'm fully vaccinated?]]></title>
+            <description><![CDATA[There has been confusion about who needs to self-isolate and which workers might be able to avoid it.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54239922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54239922</guid>
+            <pubDate>Wed, 21 Jul 2021 15:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid rules from 19 July: What has changed?]]></title>
+            <description><![CDATA[Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Mon, 19 Jul 2021 15:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
+            <description><![CDATA[Experts think a limited group of children should be offered Covid jabs ahead of winter.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Tue, 20 Jul 2021 13:57:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: Is it a cold or coronavirus?]]></title>
+            <description><![CDATA[With similar symptoms, deciding whether or not you need to get tested for coronavirus can be tricky.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54145299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54145299</guid>
+            <pubDate>Mon, 14 Jun 2021 10:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Wed, 21 Jul 2021 15:55:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympic Games: When are they and will they go ahead despite Covid?]]></title>
             <description><![CDATA[The Tokyo Summer Olympics begin formally on Friday, despite a surge in Covid cases in Japan.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57240044</link>
@@ -352,13 +387,6 @@
             <pubDate>Tue, 20 Jul 2021 12:04:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Wed, 21 Jul 2021 15:55:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: What do over-18s need to know about the vaccine?]]></title>
             <description><![CDATA[All over-18s can now get the Covid jab, but Boris Johnson has criticised the take-up among young people.]]></description>
             <link>https://www.bbc.co.uk/news/health-57273875</link>
@@ -385,20 +413,6 @@
             <link>https://www.bbc.co.uk/news/health-57833394</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57833394</guid>
             <pubDate>Fri, 16 Jul 2021 11:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid rules from 19 July: What has changed?]]></title>
-            <description><![CDATA[Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 19 Jul 2021 15:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Who has to self-isolate and what if I'm fully vaccinated?]]></title>
-            <description><![CDATA[There has been confusion about who needs to self-isolate and which workers might be able to avoid it.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-54239922</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54239922</guid>
-            <pubDate>Wed, 21 Jul 2021 15:25:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules and guidance for face masks and coverings from 19 July?]]></title>
@@ -441,6 +455,34 @@
             <link>https://www.bbc.co.uk/news/health-52354520</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52354520</guid>
             <pubDate>Wed, 23 Jun 2021 14:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: Olympic men's football players to watch]]></title>
+            <description><![CDATA[Here is the lowdown on the biggest names and brightest stars looking to shine this summer in the men's Olympic football tournament.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57833180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57833180</guid>
+            <pubDate>Wed, 21 Jul 2021 11:24:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Katie Archibald on her gold medal dreams & pressure]]></title>
+            <description><![CDATA[Cyclist Katie Archibald tells BBC Sport about her dreams of another gold medal and the pressure of helping Laura Kenny become Britain's best.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57874662</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57874662</guid>
+            <pubDate>Wed, 21 Jul 2021 08:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: Top 10 days for Team GB at the Olympics]]></title>
+            <description><![CDATA[BBC Sport selects the top 10 unmissable days for Team GB fans at the Tokyo 2020 Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57447260</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57447260</guid>
+            <pubDate>Mon, 19 Jul 2021 13:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: How quiet rebel Naomi Osaka is changing Japan]]></title>
+            <description><![CDATA[Naomi Osaka's relationship with Japan has not always been easy, but change rarely is. How the face of the Games is changing the host nation.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57841166</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57841166</guid>
+            <pubDate>Fri, 16 Jul 2021 08:54:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>

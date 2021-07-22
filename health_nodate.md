@@ -42,6 +42,6 @@
 42. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
 43. [Covid: Can children have the Covid vaccine in the UK?](https://www.bbc.co.uk/news/health-57892100) - Hundreds of thousands of under-18s will now be offered the jab in the UK - but not all. Here's why.
 44. ['She just wouldn't eat'](https://www.bbc.co.uk/news/health-57923838) - NHS data shows a 50% increase in eating disorder admissions in 2020-21 among under-19s compared to the year before.
-45. [The jungle-trekking Covid vaccinators helping to protect remote Indian villages.](https://www.bbc.co.uk/news/world-asia-india-57917673) - Latgam Singpu and his team of Covid vaccinators use rope bridges, school buses and incentives to reach remote villages in India's Arunachal Pradesh state.
+45. [The jungle-trekking Covid vaccinators helping to protect remote Indian villages.](https://www.bbc.co.uk/news/world-asia-india-57917673) - Latgam Singpu and his team use rope bridges, school buses and incentives to reach remote villages
 46. [Shielders 'feeling abandoned' as coronavirus restrictions lifted](https://www.bbc.co.uk/news/uk-57894885) - Three people who were told to shield during lockdown share their concerns as rules are eased in England.
 47. [Nadhim Zahawi: At-risk children aged 12-17 to be offered vaccine](https://www.bbc.co.uk/news/uk-57894636) - The vaccines minister says children with health conditions will be offered the Pfizer-BioNTech vaccine
