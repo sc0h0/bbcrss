@@ -1,4 +1,4 @@
-1. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - Dozens of popular websites have been knocked offline.
+1. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
 2. [Gun owners' fears after firearms dealer data breach](https://www.bbc.co.uk/news/technology-57932823) - Thousands of records from the popular shotgun and rifle sales site Guntrader were posted to the dark web.
 3. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
 4. [California sues Activision Blizzard over alleged harassment](https://www.bbc.co.uk/news/technology-57929543) - One of the world's largest gaming companies is accused of endemic discrimination and harassment.

@@ -1,5 +1,5 @@
 1. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - The Co-op says that supplies of soft drinks, beer and deodorant have been affected.
-2. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - Dozens of popular websites have been knocked offline.
+2. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
 3. [Croydon tram crash: Passengers accidentally killed, jury finds](https://www.bbc.co.uk/news/uk-england-london-57721493) - Seven people died when the tram tipped over and spun off the track in Croydon in November 2016.
 4. [Tommy Robinson loses Jamal Hijazi libel case](https://www.bbc.co.uk/news/uk-england-leeds-57930901) - The High Court orders the anti-Islam activist to pay a teenage refugee £100,000 in damages.
 5. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
@@ -37,8 +37,8 @@
 37. [F1 teams could face penalties if they visit race stewards without invitation](https://www.bbc.co.uk/sport/formula1/57933378) - Formula 1 teams are warned they could face penalties if they visit race stewards without an invitation.
 38. [The first Test - readers' Lions XV and the key head to heads](https://www.bbc.co.uk/sport/rugby-union/57930557) - BBC Sport reveals its readers' XV, which exposes some key head-to-head battles for Saturday's South Africa Test.
 39. [The Hundred opener breaks TV and crowd records](https://www.bbc.co.uk/sport/cricket/57930830) - The Hundred's opening match, Oval Invincibles v Manchester Originals, breaks TV audience record
-40. [Tokyo Olympics: Dina Asher-Smith opens up on body image & tackling racism in sport](https://www.bbc.co.uk/sport/av/olympics/57916292) - Dina Asher-Smith opens up about life on and off the track with friend and Radio 1 DJ Clara Amfo.
-41. [Tokyo Olympics: Brazil's Richarlison scores first-half hat-trick against Germany](https://www.bbc.co.uk/sport/av/57928991) - Everton's Richarlison scores a first-half hat-trick for Brazil to make it 3-0 in their opening match against Germany at the Tokyo Olympics.
+40. [Tokyo Olympics: Brazil, Japan and Mexico off the mark in best goals from the opening round](https://www.bbc.co.uk/sport/av/57932274) - Watch Paulinho's superb strike for Brazil and all the best goals from the opening day of men's football at Tokyo 2020.
+41. [Tokyo Olympics: Dina Asher-Smith opens up on body image & tackling racism in sport](https://www.bbc.co.uk/sport/av/olympics/57916292) - Dina Asher-Smith opens up about life on and off the track with friend and Radio 1 DJ Clara Amfo.
 42. [Care homes worst hit by Covid – search the data ](https://www.bbc.co.uk/news/uk-politics-57905821) - Figures from Care Quality Commission lay out the pandemic's 'devastating impact' on care homes in England.
 43. [Covid: Who has to self-isolate and what if I'm fully vaccinated?](https://www.bbc.co.uk/news/explainers-54239922) - There has been confusion about who needs to self-isolate and which workers might be able to avoid it.
 44. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.

@@ -1,11 +1,11 @@
-1. [Nord Stream 2: US and Germany reach deal on controversial Russian gas pipeline](https://www.bbc.co.uk/news/world-europe-57923655) - The US says the agreement prevents Russia from using the pipeline as a political weapon over Europe.
-2. [I survived Norway's worst terror attack](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.
-3. [Soldier statue reignites Spanish row over fascism](https://www.bbc.co.uk/news/world-europe-57902023) - Spain's legionnaires symbolised fascism, but Madrid may soon have a statue honouring them.
-4. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.
-5. [Gold toilet found in Russian police bribery probe](https://www.bbc.co.uk/news/world-europe-57914270) - Investigators show video of a palatial villa, accusing traffic police of a mafia-style racket.
-6. [UK defends latest Channel crossings deal](https://www.bbc.co.uk/news/uk-57916659) - The government is paying France £54m in a bid to stem the number of migrants travelling to the UK.
-7. [Liverpool stripped of Unesco World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475) - The city is deleted from the much-coveted Unesco list because of developments on the waterfront.
-8. [Brexit: UK wants to redraw Northern Ireland Protocol](https://www.bbc.co.uk/news/uk-politics-57911148) - Lord Frost says the Northern Ireland Protocol is tearing the UK's "fabric" - but the EU won't renegotiate.
+1. [EU chief rejects UK bid to renegotiate Brexit deal](https://www.bbc.co.uk/news/uk-politics-57930799) - Boris Johnson speaks to EU chief Ursula von der Leyen about the UK's demand to rework the Brexit deal.
+2. [Nord Stream 2: US and Germany reach deal on controversial Russian gas pipeline](https://www.bbc.co.uk/news/world-europe-57923655) - The US says the agreement prevents Russia from using the pipeline as a political weapon over Europe.
+3. [I survived Norway's worst terror attack](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.
+4. [Soldier statue reignites Spanish row over fascism](https://www.bbc.co.uk/news/world-europe-57902023) - Spain's legionnaires symbolised fascism, but Madrid may soon have a statue honouring them.
+5. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.
+6. [Gold toilet found in Russian police bribery probe](https://www.bbc.co.uk/news/world-europe-57914270) - Investigators show video of a palatial villa, accusing traffic police of a mafia-style racket.
+7. [UK defends latest Channel crossings deal](https://www.bbc.co.uk/news/uk-57916659) - The government is paying France £54m in a bid to stem the number of migrants travelling to the UK.
+8. [Liverpool stripped of Unesco World Heritage status](https://www.bbc.co.uk/news/uk-england-merseyside-57879475) - The city is deleted from the much-coveted Unesco list because of developments on the waterfront.
 9. [Russia sends long-delayed module to space station](https://www.bbc.co.uk/news/science-environment-57921439) - The 13m-long, 20-tonne Nauka laboratory is finally going into orbit after a delay of 14 years.
 10. [Tokyo Olympics: Sweden stun USA in women's football opener](https://www.bbc.co.uk/sport/olympics/57912250) - Sweden's women's football team stun world champions the United States in their opening match at the Olympic Games in Tokyo.
 11. [Covid: France rolls out health pass as cases soar](https://www.bbc.co.uk/news/world-europe-57907678) - From Wednesday people will need proof of vaccination or a negative test to access some public places.

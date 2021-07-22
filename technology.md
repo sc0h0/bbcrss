@@ -1,4 +1,4 @@
-1. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - Thu, 22 Jul 2021 17:03:18 GMT - Dozens of popular websites have been knocked offline.
+1. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - Thu, 22 Jul 2021 17:03:18 GMT - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
 2. [Gun owners' fears after firearms dealer data breach](https://www.bbc.co.uk/news/technology-57932823) - Thu, 22 Jul 2021 16:57:14 GMT - Thousands of records from the popular shotgun and rifle sales site Guntrader were posted to the dark web.
 3. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - Thu, 22 Jul 2021 13:09:26 GMT - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
 4. [California sues Activision Blizzard over alleged harassment](https://www.bbc.co.uk/news/technology-57929543) - Thu, 22 Jul 2021 14:35:48 GMT - One of the world's largest gaming companies is accused of endemic discrimination and harassment.

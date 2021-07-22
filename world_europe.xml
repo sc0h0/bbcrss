@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 17:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 18:21:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[EU chief rejects UK bid to renegotiate Brexit deal]]></title>
+            <description><![CDATA[Boris Johnson speaks to EU chief Ursula von der Leyen about the UK's demand to rework the Brexit deal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57930799</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57930799</guid>
+            <pubDate>Thu, 22 Jul 2021 13:57:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nord Stream 2: US and Germany reach deal on controversial Russian gas pipeline]]></title>
             <description><![CDATA[The US says the agreement prevents Russia from using the pipeline as a political weapon over Europe.]]></description>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-57879475</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57879475</guid>
             <pubDate>Wed, 21 Jul 2021 17:01:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit: UK wants to redraw Northern Ireland Protocol]]></title>
-            <description><![CDATA[Lord Frost says the Northern Ireland Protocol is tearing the UK's "fabric" - but the EU won't renegotiate.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57911148</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57911148</guid>
-            <pubDate>Wed, 21 Jul 2021 15:09:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russia sends long-delayed module to space station]]></title>
