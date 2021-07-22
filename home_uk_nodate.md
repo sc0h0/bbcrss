@@ -65,7 +65,7 @@
 65. [Tokyo Olympics: What to expect in the women's football tournament](https://www.bbc.co.uk/sport/olympics/57723213) - The Olympic Games are almost here so what can we expect at the women's football tournament?
 66. [What are the new sports at the Tokyo Olympic Games?](https://www.bbc.co.uk/sport/olympics/57240400) - With 34 new events in total added to the Tokyo Olympic programme, BBC Sport takes a look at what's new.
 67. [Cocaine in the UK: The DJ and friends helping addicts beat their 'beasts'](https://www.bbc.co.uk/news/uk-57733774) - More people in the UK are taking cocaine. A DJ and ex-addict in Liverpool is helping them stop.
-68. [Esther Dingley: Partner vows to keep searching for missing hiker](https://www.bbc.co.uk/news/uk-england-tyne-57818035) - The partner of missing hiker Esther Dingley explains why he won't give up searching for her.
-69. [Under the skin of OnlyFans](https://www.bbc.co.uk/news/uk-57269939) - A BBC investigation reveals concerns about how the site, known for porn, is structured and moderated.
-70. [The Broadway dancer whose lockdown business bloomed](https://www.bbc.co.uk/news/stories-57840115) - When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.
-71. [Coronavirus doctor's diary: Unvaccinated patients with many regrets](https://www.bbc.co.uk/news/stories-57866661) - The number of Covid patients in Bradford Royal Infirmary is rising sharply - and half are unvaccinated.
+68. ['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils](https://www.bbc.co.uk/news/science-environment-57853537) - Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.
+69. [Esther Dingley: Partner vows to keep searching for missing hiker](https://www.bbc.co.uk/news/uk-england-tyne-57818035) - The partner of missing hiker Esther Dingley explains why he won't give up searching for her.
+70. [Under the skin of OnlyFans](https://www.bbc.co.uk/news/uk-57269939) - A BBC investigation reveals concerns about how the site, known for porn, is structured and moderated.
+71. [The Broadway dancer whose lockdown business bloomed](https://www.bbc.co.uk/news/stories-57840115) - When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.
