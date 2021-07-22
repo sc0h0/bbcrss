@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 22:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 22:45:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Thu, 22 Jul 2021 15:24:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again]]></title>
-            <description><![CDATA[The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57924354</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57924354</guid>
-            <pubDate>Thu, 22 Jul 2021 02:38:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils]]></title>
             <description><![CDATA[Scientists are excavating one of the most important Jurassic sites ever discovered in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57853537</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57853537</guid>
             <pubDate>Wed, 21 Jul 2021 05:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again]]></title>
+            <description><![CDATA[The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57924354</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57924354</guid>
+            <pubDate>Thu, 22 Jul 2021 02:38:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russia sends long-delayed module to space station]]></title>
@@ -72,25 +72,11 @@
             <pubDate>Mon, 19 Jul 2021 23:02:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hubble space telescope's function is restored]]></title>
-            <description><![CDATA[Engineers restore the Hubble Space Telescope to full operations, after a computer glitch in June.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57885865</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57885865</guid>
-            <pubDate>Mon, 19 Jul 2021 08:21:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Oregon Bootleg Fire: Evacuations as largest US fire burns 364,000 acres]]></title>
             <description><![CDATA[The nation's largest active wildfire forces thousands to evacuate in the state of Oregon.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57890935</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57890935</guid>
             <pubDate>Tue, 20 Jul 2021 22:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ros Atkins on… the North America heat waves]]></title>
-            <description><![CDATA[Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57868135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57868135</guid>
-            <pubDate>Fri, 16 Jul 2021 23:00:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Using plastic waste to help solve sand shortages]]></title>
@@ -107,18 +93,18 @@
             <pubDate>Fri, 16 Jul 2021 21:08:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mystery 19th Century botanist tracked down following appeal]]></title>
-            <description><![CDATA[Pressed flowers and a poem found inside a centuries-old botany book sparked a quest to find the owner.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57847727</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57847727</guid>
-            <pubDate>Fri, 16 Jul 2021 23:16:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[UK looks to extend ivory ban to hippos and other animals]]></title>
             <description><![CDATA[Ministers say elephants are not the only animals at risk from hunters, as they launch consultation.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57867935</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57867935</guid>
             <pubDate>Sat, 17 Jul 2021 00:25:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins on… the North America heat waves]]></title>
+            <description><![CDATA[Ros Atkins explains the link between climate change and recent heat waves in the US and Canada.]]></description>
+            <link>https://www.bbc.co.uk/news/world-57868135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57868135</guid>
+            <pubDate>Fri, 16 Jul 2021 23:00:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National Food Strategy: Tax sugar and salt and prescribe veg, report says]]></title>
@@ -170,11 +156,11 @@
             <pubDate>Wed, 14 Jul 2021 18:23:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blue Origin: Teenager to fly into space with Jeff Bezos]]></title>
-            <description><![CDATA[Oliver Daemen, 18, will become the youngest person to fly to space with the Blue Origin venture.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57855650</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57855650</guid>
-            <pubDate>Thu, 15 Jul 2021 16:33:26 GMT</pubDate>
+            <title><![CDATA[Hubble space telescope's function is restored]]></title>
+            <description><![CDATA[Engineers restore the Hubble Space Telescope to full operations, after a computer glitch in June.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57885865</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57885865</guid>
+            <pubDate>Mon, 19 Jul 2021 08:21:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Virgin Galactic: Richard Branson's long, winding path to space]]></title>
@@ -198,6 +184,13 @@
             <pubDate>Tue, 20 Jul 2021 16:10:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mystery 19th Century botanist tracked down following appeal]]></title>
+            <description><![CDATA[Pressed flowers and a poem found inside a centuries-old botany book sparked a quest to find the owner.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57847727</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57847727</guid>
+            <pubDate>Fri, 16 Jul 2021 23:16:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Benjamin Jesty: The unsung hero of vaccination]]></title>
             <description><![CDATA[Edward Jenner is credited with inventing the vaccine but his method was pioneered by a Dorset farmer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-dorset-57460445</link>
@@ -217,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57782955</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57782955</guid>
             <pubDate>Fri, 09 Jul 2021 23:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Appeal to identify 'La Botaniste' who slipped from history]]></title>
-            <description><![CDATA[Who was the mysterious Isabella Allen and what was her contribution to 19th Century botanical science?]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57601841</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57601841</guid>
-            <pubDate>Sun, 27 Jun 2021 06:48:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: How can you make your home eco-friendly?]]></title>
