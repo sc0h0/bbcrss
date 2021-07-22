@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 05:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 05:19:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,18 +44,18 @@
             <pubDate>Thu, 22 Jul 2021 02:52:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Eating disorders: Number of under-20s in hospital up 50%]]></title>
-            <description><![CDATA[Admissions soared during the pandemic, and NHS bosses warn they are running out of beds.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57908556</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57908556</guid>
-            <pubDate>Thu, 22 Jul 2021 03:54:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US firefighters battle blaze from top of moving train]]></title>
             <description><![CDATA[Officials in California are pulling out all the stops to contain the state's largest wildfire.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57922181</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57922181</guid>
             <pubDate>Wed, 21 Jul 2021 17:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eating disorders: Number of under-20s in hospital up 50%]]></title>
+            <description><![CDATA[Admissions soared during the pandemic, and NHS bosses warn they are running out of beds.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57908556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57908556</guid>
+            <pubDate>Thu, 22 Jul 2021 03:54:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['It was hard to breathe': China flood terror as train carriage submerged]]></title>
@@ -79,6 +79,13 @@
             <pubDate>Thu, 22 Jul 2021 03:27:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Students offered cash to defer medical degree]]></title>
+            <description><![CDATA[Applicants offered free accommodation and £10,000 cash by Exeter University to defer until 2022.]]></description>
+            <link>https://www.bbc.co.uk/news/education-57908436</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57908436</guid>
+            <pubDate>Thu, 22 Jul 2021 05:14:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Argentina introduces new ID cards for non-binary people]]></title>
             <description><![CDATA[Under the new system, residents can select 'x' as their gender on passports and national ID cards.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57923856</link>
@@ -86,18 +93,11 @@
             <pubDate>Wed, 21 Jul 2021 22:52:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Harvey Weinstein pleads not guilty to LA sexual assault charges]]></title>
-            <description><![CDATA[The disgraced Hollywood producer appears in court in a wheelchair, facing sexual assault charges.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57912377</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57912377</guid>
-            <pubDate>Wed, 21 Jul 2021 20:57:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: 'Pingdemic' hits supermarkets and NHS pay 'insult']]></title>
             <description><![CDATA[The front pages focus on the impact of isolating staff on shops and the 3% pay rise offer for NHS staff.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57923803</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57923803</guid>
-            <pubDate>Wed, 21 Jul 2021 23:14:24 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 05:08:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Halima Aden and Tommy Hilfiger: ‘It’s not just about diverse catwalks’]]></title>
@@ -261,11 +261,11 @@
             <pubDate>Wed, 21 Jul 2021 21:41:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Ellen White scores brace to secure victory 2-0 for Team GB against Chile - highlights]]></title>
-            <description><![CDATA[Watch highlights as Ellen White strikes twice in Sapporo to give Team GB a 2-0 win over Chile in the opening women's football match of Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57913420</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57913420</guid>
-            <pubDate>Wed, 21 Jul 2021 09:50:39 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Boxer Frazer Clarke v Jordan Banjo - who wins in tests of speed, accuracy & power?]]></title>
+            <description><![CDATA[Team GB's super-heavyweight boxer Frazer Clarke takes on Diversity's Jordan Banjo - but who will be victorious?]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57916287</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57916287</guid>
+            <pubDate>Thu, 22 Jul 2021 05:12:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Who has to self-isolate and what if I'm fully vaccinated?]]></title>
