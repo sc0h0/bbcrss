@@ -1,4 +1,4 @@
-1. [Covid: Panic buying discouraged amid new pingdemic peak](https://www.bbc.co.uk/news/uk-57924264) - Business Secretary Kwasi Kwarteng says the government is "concerned about instances of shortages".
+1. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - Business Secretary Kwasi Kwarteng says the government is "concerned about instances of shortages".
 2. [Charity, dating and pet spending booms, says Nationwide](https://www.bbc.co.uk/news/business-57907867) - People have been spending more on non-essentials as Covid restrictions ease, Nationwide says.
 3. [Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again](https://www.bbc.co.uk/news/business-57924354) - The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.
 4. [Hackers reportedly demand $50m from Saudi Aramco over data leak](https://www.bbc.co.uk/news/business-57924355) - The world's most valuable oil producer confirmed to the BBC that company files had been leaked.

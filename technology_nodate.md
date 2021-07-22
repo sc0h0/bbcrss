@@ -1,15 +1,15 @@
 1. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
 2. [Pegasus spyware seller: Blame our customers not us for hacking](https://www.bbc.co.uk/news/technology-57922664) - NSO Group tells BBC News: "The finger-pointing should be at the customer."
-3. [Call for online abusers to be reported to bosses](https://www.bbc.co.uk/news/technology-57907852) - A group is calling for companies to set up ways for people to report workers behaving abusively online.
-4. [Stinky Bay? Local names added to map to aid coastal rescue](https://www.bbc.co.uk/news/technology-57916520) - Local names for coastal places are added to OS maps to help rescuers locate those in need.
-5. [Senior US Catholic resigns over Grindr allegations](https://www.bbc.co.uk/news/technology-57909329) - A newsletter obtains mobile app data allegedly showing a Roman Catholic official used Grindr and visited gay bars.
-6. [Hackers reportedly demand $50m from Saudi Aramco over data leak](https://www.bbc.co.uk/news/business-57924355) - The world's most valuable oil producer confirmed to the BBC that company files had been leaked.
-7. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.
-8. [Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again](https://www.bbc.co.uk/news/business-57924354) - The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.
-9. [Zoom offers app store with team-building games](https://www.bbc.co.uk/news/technology-57916519) - A range of both productivity and fun apps will be available for users within the Zoom platform.
-10. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
-11. [China: Taobao, Weibo fined for illegal child content](https://www.bbc.co.uk/news/business-57911207) - Major online platforms like Weibo, Taobao and QQ have been fined and ordered to "clean up".
-12. [Netflix to include mobile games for subscribers](https://www.bbc.co.uk/news/business-57910038) - The firm said on Tuesday that the "time is right to learn more about how our members value games".
+3. [Twitter trials upvote and downvote buttons](https://www.bbc.co.uk/news/technology-57923215) - Some iOS users will see thumb and arrow buttons as the company experiments with voting.
+4. [Call for online abusers to be reported to bosses](https://www.bbc.co.uk/news/technology-57907852) - A group is calling for companies to set up ways for people to report workers behaving abusively online.
+5. [Stinky Bay? Local names added to map to aid coastal rescue](https://www.bbc.co.uk/news/technology-57916520) - Local names for coastal places are added to OS maps to help rescuers locate those in need.
+6. [Senior US Catholic resigns over Grindr allegations](https://www.bbc.co.uk/news/technology-57909329) - A newsletter obtains mobile app data allegedly showing a Roman Catholic official used Grindr and visited gay bars.
+7. [Hackers reportedly demand $50m from Saudi Aramco over data leak](https://www.bbc.co.uk/news/business-57924355) - The world's most valuable oil producer confirmed to the BBC that company files had been leaked.
+8. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.
+9. [Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again](https://www.bbc.co.uk/news/business-57924354) - The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.
+10. [Zoom offers app store with team-building games](https://www.bbc.co.uk/news/technology-57916519) - A range of both productivity and fun apps will be available for users within the Zoom platform.
+11. [EU plans to make Bitcoin transfers more traceable](https://www.bbc.co.uk/news/technology-57901113) - Companies handling crypto-assets would have to collect customer details.
+12. [China: Taobao, Weibo fined for illegal child content](https://www.bbc.co.uk/news/business-57911207) - Major online platforms like Weibo, Taobao and QQ have been fined and ordered to "clean up".
 13. [Cyber-flashing: 'I get explicit messages every day'](https://www.bbc.co.uk/news/uk-57902816) - Influencer Elle Edwards lets us inside her DMs to show the extent of sexual abuse faced by women online.
 14. [Spyware: The software that watches you](https://www.bbc.co.uk/news/technology-57894917) - BBC’s cyber reporter, Joe Tidy, agreed to be spied on to understand the spyware experience further.
 15. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
