@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 20:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 20:47:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Racism probe as 'bananas thrown at Cardiff City academy players']]></title>
+            <description><![CDATA[Probe as former Cardiff City youth team footballer says he and a team-mate were racially abused.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57934499</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57934499</guid>
+            <pubDate>Thu, 22 Jul 2021 20:43:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Heatwave: Temperatures soar as Wales basks in hottest day of 2021]]></title>
             <description><![CDATA[Wales recorded its hottest day of the year as four-day extreme heat warning ends.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Thu, 22 Jul 2021 18:27:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS Wales: A&E waits longest in nine years as hospital admissions rise]]></title>
-            <description><![CDATA[More than 19% of the Welsh population is waiting for treatment, the figures also show.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57915989</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57915989</guid>
-            <pubDate>Thu, 22 Jul 2021 12:11:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: How many deaths have there been in Wales?]]></title>
             <description><![CDATA[It is the highest number of deaths reported in a single day since 2 April, when five were reported.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57935150</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57917953</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57917953</guid>
             <pubDate>Thu, 22 Jul 2021 12:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS Wales: A&E waits longest in nine years as hospital admissions rise]]></title>
+            <description><![CDATA[More than 19% of the Welsh population is waiting for treatment, the figures also show.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57915989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57915989</guid>
+            <pubDate>Thu, 22 Jul 2021 12:11:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mike Smith: Former Wales and Hull City manager dies aged 83]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57903527</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57903527</guid>
             <pubDate>Thu, 22 Jul 2021 13:56:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welsh water pollution rules face court challenge]]></title>
-            <description><![CDATA[A farming union has won the right to ask a judge to intervene over controversial new regulations.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-politics-57929321</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57929321</guid>
-            <pubDate>Thu, 22 Jul 2021 14:57:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHS Wales pay rise offer: 'Claps don't pay the bills']]></title>
