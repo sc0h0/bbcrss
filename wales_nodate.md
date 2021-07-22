@@ -1,7 +1,7 @@
 1. [NHS Wales: Promise to transform service to cope with demand](https://www.bbc.co.uk/news/uk-wales-57915989) - Delivery of urgent care to be transformed during a "challenging period", says the health minister.
 2. [Covid in Wales: Young farmers' club membership halves](https://www.bbc.co.uk/news/uk-wales-57919623) - But members are starting to return as Covid rules are relaxed, says the Wales chair.
 3. [3D printing: Swansea research 'could revolutionise facial reconstruction'](https://www.bbc.co.uk/news/uk-wales-57903527) - The £2.5m study will use human cells and plant-based materials to rebuild ears and noses.
-4. [Mills and Sbihi to be Team GB Olympic flag bearers](https://www.bbc.co.uk/sport/olympics/57925326) - Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.
+4. [Mills and Sbihi to be Team GB flag bearers in Tokyo](https://www.bbc.co.uk/sport/olympics/57925326) - Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.
 5. [Climate change: Airbus aims for 'climate-neutral' flights by 2035](https://www.bbc.co.uk/news/uk-wales-57923403) - And the wing-maker's Flintshire factory will play a "critical" role, says one senior manager.
 6. [NHS workers in Wales to get 3% pay rise](https://www.bbc.co.uk/news/uk-wales-politics-57915990) - One union describes the offer as "bitterly disappointing" compared to the 12.5% it had demanded.
 7. [Wales heatwave solves mystery of plane's fate from 1944](https://www.bbc.co.uk/news/uk-wales-57921985) - The mystery surrounding the 1944 US Air Force aircraft was hidden in Snowdonia's waters, until now.
@@ -15,7 +15,7 @@
 15. [Mayhill: ‘Rioters taught my son anger and hatred’](https://www.bbc.co.uk/news/uk-wales-57907596) - Adam Romain says his previously loving and calm son has become aggressive after witnessing a riot.
 16. [Heatwave: Stay safe in the sun, says Welsh Ambulance Service](https://www.bbc.co.uk/news/uk-wales-57910591) - The ambulance service urges people to take care as it faces a rising number of 999 calls.
 17. [Heatwave: Hot weather closes Pontyclun pub](https://www.bbc.co.uk/news/uk-wales-57908735) - Landlord Simon Cole temporarily shuts the Pipeworks Bar after the mercury hit 30.9C.
-18. [John Eustace: Queens Park Rangers assistant boss a contender for Swansea City job](https://www.bbc.co.uk/sport/football/57923015) - Queens Park Rangers assistant manager John Eustace is a contender to be the next Swansea City boss.
+18. [John Eustace: Queens Park Rangers assistant boss a contender for Swansea City job](https://www.bbc.co.uk/sport/football/57923015) - Queens Park Rangers assistant manager John Eustace is a leading contender to be the next Swansea City boss.
 19. [British and Irish Lions 2021: Captain Alun Wyn Jones reflects on 'surreal' return](https://www.bbc.co.uk/sport/rugby-union/57913078) - British and Irish Lions captain Alun Wyn Jones reflects on completing a remarkable recovery to lead the tourists against South Africa.
 20. [Steve Cooper: Head coach leaves Swansea City](https://www.bbc.co.uk/sport/football/57918658) - Steve Cooper leaves his position as Swansea City's head coach after just over two years in charge.
 21. [The Hundred: Carlos Brathwaite shares his five ones to watch](https://www.bbc.co.uk/sport/cricket/57834683) - West Indies and Manchester Originals all-rounder Carlos Brathwaite shares his top five players to watch out for in the men's Hundred competition.
