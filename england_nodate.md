@@ -1,7 +1,7 @@
 1. [Croydon tram crash passenger deaths ruled accidental](https://www.bbc.co.uk/news/uk-england-london-57721493) - Seven people died when the tram tipped over and spun off the track in Croydon in November 2016.
 2. [Brixton stabbing: Man killed after 'group confrontation'](https://www.bbc.co.uk/news/uk-england-london-57925768) - High-end sports cars, thought to be part of a music video being filmed, were also at the scene of the stabbing.
 3. [Cornwall holidaymakers told to pack Covid tests](https://www.bbc.co.uk/news/uk-england-cornwall-57927359) - Visitors are being asked to "respect local communities in holiday hotspots".
-4. [PCSO Julia James: Hundreds line streets ahead of funeral](https://www.bbc.co.uk/news/uk-england-kent-57920198) - A service is being held at Canterbury Cathedral three months after the community officer was killed.
+4. [PCSO Julia James: Tributes paid as hundreds gather for funeral](https://www.bbc.co.uk/news/uk-england-kent-57920198) - A service is being held at Canterbury Cathedral three months after the community officer was killed.
 5. [Australia and NZ pull out of World Cup in England](https://www.bbc.co.uk/sport/rugby-league/57925720) - Australia and New Zealand pull out of the Rugby League World Cup because of "player welfare and safety concerns" related to the Covid-19 pandemic.
 6. [Residents of Ipswich flats say cladding repairs affecting health](https://www.bbc.co.uk/news/uk-england-suffolk-57916147) - Residents of a tower block wrapped in plastic say the lack of light is affecting their health.
 7. [Bill and Ted actor Alex Winter supports British man's tumour fund](https://www.bbc.co.uk/news/uk-england-leeds-57926187) - Christian Laycock's cancer treatment fundraiser gets support from one of the franchise's stars.

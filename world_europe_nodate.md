@@ -1,5 +1,5 @@
 1. [Nord Stream 2: US and Germany reach deal on controversial Russian gas pipeline](https://www.bbc.co.uk/news/world-europe-57923655) - The US says the agreement prevents Russia from using the pipeline as a political weapon over Europe.
-2. ['I survived Norway's worst terror attack'](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in a summer camp for young activists on Utøya island on 22 July 2011.
+2. [I survived Norway's worst terror attack](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.
 3. [Soldier statue reignites Spanish row over fascism](https://www.bbc.co.uk/news/world-europe-57902023) - Spain's legionnaires symbolised fascism, but Madrid may soon have a statue honouring them.
 4. [British man arrested in Spain over Twitter hack](https://www.bbc.co.uk/news/technology-57916521) - The 2020 attack on a series of celebrity accounts targeted Elon Musk and Barack Obama, among others.
 5. [Gold toilet found in Russian police bribery probe](https://www.bbc.co.uk/news/world-europe-57914270) - Investigators show video of a palatial villa, accusing traffic police of a mafia-style racket.

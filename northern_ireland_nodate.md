@@ -1,6 +1,6 @@
 1. [Stormont directed to set up abortion services in Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-57921537) - Westminster has intervened with a formal direction requiring Stormont to commission services.
 2. [Damien Walsh: Ombudsman finds investigation failures in UDA murder](https://www.bbc.co.uk/news/uk-northern-ireland-57918718) - An ombudsman's report identifies police failings after the 1993 killing of teenager Damien Walsh.
-3. [Covid-19: NI Executive to discuss coronavirus restrictions](https://www.bbc.co.uk/news/uk-northern-ireland-57922396) - Proposals to further ease restrictions, including reopening of theatres, may be approved later.
+3. [Covid-19: NI Executive discuss coronavirus restrictions](https://www.bbc.co.uk/news/uk-northern-ireland-57922396) - Proposals to further ease restrictions, including reopening of theatres, may be approved later.
 4. [Belfast GP surgery pays out over sign language interpreter failure](https://www.bbc.co.uk/news/uk-northern-ireland-57923702) - A mother and daughter did not know they could have had a sign language interpreter during GP visits.
 5. [Arlene Arkinson 'let down by criminal justice system'](https://www.bbc.co.uk/news/uk-northern-ireland-57927563) - An ex-detective who took over the inquiry says police should apologise for searching a family home.
 6. [Newcastle: Boy in critical condition after being struck by van](https://www.bbc.co.uk/news/uk-northern-ireland-57926552) - An eight-year-old is in hospital after the collision in the Dundrum Road area of Newcastle, County Down.
