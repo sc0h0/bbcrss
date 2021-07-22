@@ -1,6 +1,6 @@
 1. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - The Co-op says that supplies of soft drinks, beer and deodorant have been affected.
 2. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
-3. [UK tech giant founder Mike Lynch can be extradited to US](https://www.bbc.co.uk/news/business-57933718) - Lawyers for Autonomy's founder, Mike Lynch, say he will fight the US authorities' bid to try him for fraud.
+3. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Lawyers for Autonomy's founder, Mike Lynch, say he will fight the US authorities' bid to try him for fraud.
 4. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
 5. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
 6. [Inflation spike temporary, says BoE deputy governor](https://www.bbc.co.uk/news/business-57922199) - The recent pick up in price rises is not expected to last, says Bank of England deputy Ben Broadbent.
