@@ -1,5 +1,5 @@
 1. [Police Federation says it has no confidence in Patel amid pay row](https://www.bbc.co.uk/news/uk-politics-57933129) - The Police Federation describes a pay freeze for this year as an "insult" to officers.
-2. [Greensill had extraordinarily privileged access to government, says inquiry](https://www.bbc.co.uk/news/uk-politics-57927390) - Financier Lex Greensill used his government role as a "marketing platform" for his firm, a report says.
+2. [Greensill: Top official's widow hits out at lobbying report](https://www.bbc.co.uk/news/uk-politics-57933130) - Lord Heywood is 'scapegoated' by a report looking at the role of Australian financier Lex Greensill, she says.
 3. [Dawn Butler thrown out of Commons for PM lie accusation](https://www.bbc.co.uk/news/uk-politics-57927398) - Dawn Butler breaks parliamentary rules by accusing Boris Johnson of lying.
 4. [UK has no idea of EU fishing catch in its waters, says Labour](https://www.bbc.co.uk/news/uk-politics-57922251) - The government says it is trying to get EU boats to declare everything they land in UK waters.
 5. [Nurses may consider industrial action over 3% NHS pay rise, union says](https://www.bbc.co.uk/news/health-57924271) - The Royal College of Nursing says members are "angry and upset" about the size of the increase.
