@@ -8,7 +8,7 @@
 8. [Fan-led review says English football at genuine risk](https://www.bbc.co.uk/sport/football/57929695) - The dangers facing English league clubs are "very real", with key aspects of the nation's game "at genuine risk", says the chair of a fan-led review commissioned by the government.
 9. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
 10. [Tommy Robinson loses Jamal Hijazi libel case](https://www.bbc.co.uk/news/uk-england-leeds-57930901) - The High Court orders the anti-Islam activist to pay a teenage refugee £100,000 in damages.
-11. [Michael Jackson super fan among those sanctioned by UK](https://www.bbc.co.uk/news/uk-57923588) - A vice-president of Equatorial Guinea is among five people to receive UK "anti-corruption" sanctions.
+11. [Michael Jackson superfan among those sanctioned by UK](https://www.bbc.co.uk/news/uk-57923588) - A vice-president of Equatorial Guinea is among five people to receive UK "anti-corruption" sanctions.
 12. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
 13. [Abortion in NI: Westminster directs Stormont to set up services](https://www.bbc.co.uk/news/uk-northern-ireland-57921537) - Westminster has intervened with a formal direction requiring Stormont to commission services.
 14. [PMQs: Boris Johnson urged to apologise for 'over 80s' Covid comment](https://www.bbc.co.uk/news/uk-politics-57917172) - Boris Johnson comes under fire at Prime Minister's Questions over a text leaked by Dominic Cummings.
