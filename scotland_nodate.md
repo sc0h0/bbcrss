@@ -28,7 +28,7 @@
 28. [Entire whisky distillery ships out to China](https://www.bbc.co.uk/news/uk-scotland-scotland-business-57825081) - More than 35 tonnes of production equipment is leaving Scotland for the port of Tianjin under a £3m deal.
 29. [Are European 'Aires' the answer to Scotland's dirty campers?](https://www.bbc.co.uk/news/uk-scotland-57803377) - The French-style sites with basic facilities for motorhomes are popping up across Scotland.
 30. [Greenpeace call for more support for oil workers to move into green jobs](https://www.bbc.co.uk/news/uk-scotland-57936319) - The environmental group wants more funds to support the transition for oil and gas workers into the green economy.
-31. [Welcome to the Care Home Olympics](https://www.bbc.co.uk/news/uk-scotland-57936247) - Fifteen Scottish care homes compete in sports inspired by the Tokyo Olympic Games.
+31. [Welcome to the care home 'Olympics'](https://www.bbc.co.uk/news/uk-scotland-57936247) - Fifteen Scottish care homes compete in sports inspired by the Tokyo Olympic Games.
 32. [Scottish A&Es seeing 'winter-type pressures', says emergency consultant](https://www.bbc.co.uk/news/uk-scotland-57919940) - Emergency care consultant Dr John-Paul Loughrey speaks about the pressures being felt this summer in Scotland's casualty units.
 33. [Covid in Scotland: Vaccinating younger teens 'should not be ruled out'](https://www.bbc.co.uk/news/uk-scotland-57906908) - The first minister urges experts to keep vaccination of younger teens under review.
 34. [Covid in ScotlandThe 13-year-old suffering with 'Covid Toes'](https://www.bbc.co.uk/news/uk-scotland-57867125) - Sofia has had the condition since October and is now barely able to walk or wear normal shoes.

@@ -1,8 +1,8 @@
-1. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
-2. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - Dozens of popular websites have been knocked offline.
+1. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - The Co-op says that supplies of soft drinks, beer and deodorant have been affected.
+2. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
 3. [UK tech giant founder Mike Lynch can be extradited to US](https://www.bbc.co.uk/news/business-57933718) - Lawyers for Autonomy's founder, Mike Lynch, say he will fight the US authorities' bid to try him for fraud.
 4. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
-5. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - The Co-op says that supplies of soft drinks, beer and deodorant have been affected.
+5. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - Dozens of popular websites have been knocked offline.
 6. [Inflation spike temporary, says BoE deputy governor](https://www.bbc.co.uk/news/business-57922199) - The recent pick up in price rises is not expected to last, says Bank of England deputy Ben Broadbent.
 7. [Charity, dating and pet spending booms, says Nationwide](https://www.bbc.co.uk/news/business-57907867) - People have been spending more on non-essentials as Covid restrictions ease, Nationwide says.
 8. [Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again](https://www.bbc.co.uk/news/business-57924354) - The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.
