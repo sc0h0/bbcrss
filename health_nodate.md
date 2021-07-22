@@ -11,7 +11,7 @@
 11. [Covid: Hundreds of thousands of under-18s to get vaccine](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says children at high risk from Covid will be offered the jab.
 12. [Covid: Mask wearing return for Jersey as cases rise](https://www.bbc.co.uk/news/world-europe-jersey-57898428) - Mask wearing will be mandatory in public indoor settings again after a rise in Jersey Covid cases.
 13. [Covid: Isolation rules loosened for critical workers](https://www.bbc.co.uk/news/uk-57894392) - People performing "critical" tasks including air traffic controllers will still be able to work under new rules.
-14. [How the lives of ex-sportsmen and women have been affected by concussion](https://www.bbc.co.uk/sport/57932622) - BBC Radio 5 Live speaks to former sportsmen and women and their families about how concussion has changed their lives.
+14. [Concussion and sport: How the lives of ex-sportspeople have been affected by concussion](https://www.bbc.co.uk/sport/57932622) - BBC Radio 5 Live speaks to former sportsmen and women and their families about how concussion has changed their lives.
 15. [Covid: Where and why is the US vaccine rollout slowing down?](https://www.bbc.co.uk/news/57889961) - Vaccinations in the US are slowing as infections rise - we've looked at where and why this is happening.
 16. [Covid: What happens when people no longer have to wear masks?](https://www.bbc.co.uk/news/health-57861677) - Face coverings became optional in many settings in England on Monday - what's the evidence for them?
 17. [Heatwaves: What do they do to the body and who is at risk?](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
