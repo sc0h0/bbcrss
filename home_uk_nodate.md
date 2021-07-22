@@ -46,8 +46,8 @@
 46. [Covid: Who has to self-isolate and what if I'm fully vaccinated?](https://www.bbc.co.uk/news/explainers-54239922) - There has been confusion about who needs to self-isolate and which workers might be able to avoid it.
 47. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
 48. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Vaccine experts recommend that a limited group of children should be offered Covid jabs ahead of winter.
-49. [Covid symptoms: Is it a cold or coronavirus?](https://www.bbc.co.uk/news/health-54145299) - With similar symptoms, deciding whether or not you need to get tested for coronavirus can be tricky.
-50. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+49. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+50. [Covid symptoms: Is it a cold or coronavirus?](https://www.bbc.co.uk/news/health-54145299) - With similar symptoms, deciding whether or not you need to get tested for coronavirus can be tricky.
 51. [Tokyo Olympic Games: When are they and will they go ahead despite Covid?](https://www.bbc.co.uk/news/world-asia-57240044) - The Tokyo Summer Olympics begin formally on Friday, despite a surge in Covid cases in Japan.
 52. [Coronavirus: How does the NHS test-and-trace system and app work?](https://www.bbc.co.uk/news/explainers-52442754) - The contact tracing app could be changed to make it less sensitive, so it sends fewer alerts.
 53. ['Covid passports': How can the NHS Covid Pass prove I've had both jabs?](https://www.bbc.co.uk/news/explainers-55718553) - Clubbers and people attending mass events in England will have to prove they've had both Covid jabs.
