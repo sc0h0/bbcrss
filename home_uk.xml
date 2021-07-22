@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 10:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 10:33:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[More than 600,000 people told to self-isolate by NHS Covid-19 app]]></title>
+            <title><![CDATA[More than 600,000 people told to isolate by Covid app]]></title>
             <description><![CDATA[618,903 people in England and Wales received self-isolation alerts in the week up to 14 July]]></description>
             <link>https://www.bbc.co.uk/news/technology-57929162</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929162</guid>
-            <pubDate>Thu, 22 Jul 2021 10:08:38 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 10:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Shoppers told there is no need to panic buy]]></title>
+            <description><![CDATA[Business Secretary Kwasi Kwateng says the government is "concerned about instances of shortages".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57924264</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57924264</guid>
+            <pubDate>Thu, 22 Jul 2021 10:02:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympics opening ceremony director sacked for Holocaust joke]]></title>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-57924885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57924885</guid>
             <pubDate>Thu, 22 Jul 2021 09:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Shoppers told there is no need to panic buy]]></title>
-            <description><![CDATA[Business Secretary Kwasi Kwateng says the government is "concerned about instances of shortages",]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57924264</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57924264</guid>
-            <pubDate>Thu, 22 Jul 2021 10:02:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lone women in Covid quarantine hotels to get female guards]]></title>
@@ -247,18 +247,25 @@
             <pubDate>Thu, 22 Jul 2021 09:41:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Alexis Vega puts Mexico ahead against France]]></title>
-            <description><![CDATA[Forward Alexis Vega opens the scoring for Mexico, giving them a 1-0 lead against France in their opening match of Tokyo 2020 at the Tokyo Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57928985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57928985</guid>
-            <pubDate>Thu, 22 Jul 2021 09:40:24 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Mexico stun France with 4-1 win - highlights]]></title>
+            <description><![CDATA[Watch highlights as Mexico win their opening match of Tokyo 2020, comfortably beating France 4-1 at the Tokyo Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57928988</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57928988</guid>
+            <pubDate>Thu, 22 Jul 2021 10:30:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hundred: Watch the best moments from the first game]]></title>
+            <description><![CDATA[Watch the best moments from the inaugural game of The Hundred, as Oval Invincibles pull off a thrilling victory over Manchester Originals.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/57922800</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57922800</guid>
+            <pubDate>Wed, 21 Jul 2021 21:41:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Who has to self-isolate and what if I'm fully vaccinated?]]></title>
             <description><![CDATA[There has been confusion about who needs to self-isolate and which workers might be able to avoid it.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-54239922</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54239922</guid>
-            <pubDate>Wed, 21 Jul 2021 15:25:46 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 10:29:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules from 19 July: What has changed?]]></title>
@@ -300,7 +307,7 @@
             <description><![CDATA[The contact tracing app could be changed to make it less sensitive, so it sends fewer alerts.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52442754</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
-            <pubDate>Wed, 21 Jul 2021 14:53:20 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 10:25:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Covid passports': How can the NHS Covid Pass prove I've had both jabs?]]></title>

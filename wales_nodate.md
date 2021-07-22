@@ -1,14 +1,14 @@
-1. [NHS Wales: Promise to transform service to cope with demand](https://www.bbc.co.uk/news/uk-wales-57915989) - Delivery of urgent care to be transformed during a "challenging period", says the health minister.
-2. [Covid in Wales: Young farmers' club membership halves](https://www.bbc.co.uk/news/uk-wales-57919623) - But members are starting to return as Covid rules are relaxed, says the Wales chair.
-3. [Swansea: 3D printed ear would 'transform' girl's life](https://www.bbc.co.uk/news/uk-wales-57903527) - Scientists will use human cells and plant-based materials to rebuild an ear for 10-year-old Radiyah.
-4. [Motorcyclist killed in crash on A44 near Aberystwyth](https://www.bbc.co.uk/news/uk-wales-57925835) - The motorcyclist died at the scene after crashing with a lorry near Aberystwyth on Wednesday.
-5. [Mills and Sbihi to be Team GB flag bearers in Tokyo](https://www.bbc.co.uk/sport/olympics/57925326) - Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.
-6. [Climate change: Airbus aims for 'climate-neutral' flights by 2035](https://www.bbc.co.uk/news/uk-wales-57923403) - And the wing-maker's Flintshire factory will play a "critical" role, says one senior manager.
-7. [Neath Port Talbot 'cow' row council leader cleared of misconduct](https://www.bbc.co.uk/news/uk-wales-57925838) - Rob Jones referred himself to the ombudsman after he was recorded calling a Senedd member a "cow".
-8. [NHS workers in Wales to get 3% pay rise](https://www.bbc.co.uk/news/uk-wales-politics-57915990) - One union describes the offer as "bitterly disappointing" compared to the 12.5% it had demanded.
-9. [A55 Anglesey: Man crushed by lorry as he crawled from crash](https://www.bbc.co.uk/news/uk-wales-57920041) - Ciaran Michael Murray was seen crawling on the road before being struck by a lorry, inquest hears.
-10. [Springwatch's Iolo Williams angry as sea scooters hit birds](https://www.bbc.co.uk/news/uk-wales-57918483) - Springwatch presenter Iolo Williams wants users to require licences and vehicles to carry number plates.
-11. [Cardigan murder investigation: Tributes after man's death](https://www.bbc.co.uk/news/uk-wales-57918439) - A 22-year-old man is arrested on suspicion of murder after John Bell, 37, was found dead.
+1. [Covid: 600,000 patients on NHS Wales waiting lists](https://www.bbc.co.uk/news/uk-wales-57915989) - More than 19% of the Welsh population is waiting for treatment, latest figures show.
+2. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
+3. [Covid in Wales: Young farmers' club membership halves](https://www.bbc.co.uk/news/uk-wales-57919623) - But members are starting to return as Covid rules are relaxed, says the Wales chair.
+4. [Swansea: 3D printed ear would 'transform' girl's life](https://www.bbc.co.uk/news/uk-wales-57903527) - Scientists will use human cells and plant-based materials to rebuild an ear for 10-year-old Radiyah.
+5. [Motorcyclist killed in crash on A44 near Aberystwyth](https://www.bbc.co.uk/news/uk-wales-57925835) - The motorcyclist died at the scene after crashing with a lorry near Aberystwyth on Wednesday.
+6. [Mills and Sbihi to be Team GB flag bearers in Tokyo](https://www.bbc.co.uk/sport/olympics/57925326) - Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.
+7. [Climate change: Airbus aims for 'climate-neutral' flights by 2035](https://www.bbc.co.uk/news/uk-wales-57923403) - And the wing-maker's Flintshire factory will play a "critical" role, says one senior manager.
+8. [Neath Port Talbot 'cow' row council leader cleared of misconduct](https://www.bbc.co.uk/news/uk-wales-57925838) - Rob Jones referred himself to the ombudsman after he was recorded calling a Senedd member a "cow".
+9. [NHS workers in Wales to get 3% pay rise](https://www.bbc.co.uk/news/uk-wales-politics-57915990) - One union describes the offer as "bitterly disappointing" compared to the 12.5% it had demanded.
+10. [A55 Anglesey: Man crushed by lorry as he crawled from crash](https://www.bbc.co.uk/news/uk-wales-57920041) - Ciaran Michael Murray was seen crawling on the road before being struck by a lorry, inquest hears.
+11. [Springwatch's Iolo Williams angry as sea scooters hit birds](https://www.bbc.co.uk/news/uk-wales-57918483) - Springwatch presenter Iolo Williams wants users to require licences and vehicles to carry number plates.
 12. [Covid: Young farmers' clubs lose half their flock in pandemic](https://www.bbc.co.uk/news/uk-wales-57923766) - Membership fell from around 4,000 to 2,000 during the pandemic, but is starting to improve.
 13. [Dinosaur footprint found by girl, 4, to go on display](https://www.bbc.co.uk/news/uk-wales-57921987) - The discovery by Lily may show how the extinct reptiles kept their feet on the ground.
 14. [Heatwave: Workers struggle to avoid 'unbearable' temperatures](https://www.bbc.co.uk/news/uk-wales-57923094) - For some workers, it is impossible to avoid the scorching temperatures during the heatwave.
@@ -23,5 +23,5 @@
 23. [Aelodaeth y Ffermwyr Ifanc 'wedi haneru' dros y pandemig](https://www.bbc.co.uk/newyddion/57916087) - CFfI Cymru wedi gorfod cynnal digwyddiadau'n rhithiol, ond yn obeithiol y daw aelodau yn ôl.
 24. [Pryder cyflenwad dŵr wrth i bibellau fyrstio naw gwaith](https://www.bbc.co.uk/newyddion/57921134) - Mae 'na alw am weithredu wedi i brif bibellau dŵr Gwyddelwern fyrstio naw gwaith ers mis Ebrill.
 25. ['Trawsnewid' darpariaeth gofal brys yng Nghymru](https://www.bbc.co.uk/newyddion/57918731) - Strategaeth newydd Llywodraeth Cymru yn ceisio lleihau faint o bobl sy'n mynd i'r ysbyty am driniaeth.
-26. [Sut mae ymdopi mewn gwres llethol?](https://www.bbc.co.uk/newyddion/57916351) - Rodolfo Piskorski sy'n cynnig 'chydig o gyngor ar sut i ddelio â'r haul
+26. [Y Cymry fydd yn mynd am aur yn Tokyo](https://www.bbc.co.uk/newyddion/57916347) - Catrin Heledd sy'n trafod pwy yw ein gobeithion gorau am fedalau
 27. [Steve Cooper yn gadael ei swydd fel rheolwr Abertawe](https://www.bbc.co.uk/newyddion/57916088) - Y gred yw fod y rheolwr wedi bod yn rhwystredig nad oedd wedi gallu cryfhau'r garfan dros yr haf.
