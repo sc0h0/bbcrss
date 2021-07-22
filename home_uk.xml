@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 14:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 15:17:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Thu, 22 Jul 2021 12:54:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gary Lineker to host new ITV gameshow, Sitting on a Fortune]]></title>
+            <description><![CDATA[The MOTD presenter will now also front Sitting on a Fortune, where contestants can win £100,000.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57927271</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57927271</guid>
+            <pubDate>Thu, 22 Jul 2021 15:09:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mercury Prize nominations: Wolf Alice, Arlo Parks and Celeste make the shortlist]]></title>
             <description><![CDATA[The band are joined by Arlo Parks, Celeste, Ghetts and Mogwai on the album of the year shortlist.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57913364</link>
@@ -65,32 +72,11 @@
             <pubDate>Thu, 22 Jul 2021 09:44:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[China floods: Drone footage shows the scale of damage as clean up begins]]></title>
-            <description><![CDATA[As aerial pictures show the extent of destruction, our correspondent reports on the situation on the ground.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57926019</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57926019</guid>
-            <pubDate>Thu, 22 Jul 2021 07:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greensill had extraordinarily privileged access to government, says inquiry]]></title>
-            <description><![CDATA[Financier Lex Greensill used his government role as a "marketing platform" for his firm, a report says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57927390</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57927390</guid>
-            <pubDate>Thu, 22 Jul 2021 12:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK has no idea of EU fishing catch in its waters, says Labour]]></title>
-            <description><![CDATA[The government says it is trying to get EU boats to declare everything they land in UK waters.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57922251</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57922251</guid>
-            <pubDate>Thu, 22 Jul 2021 13:32:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pegasus spyware seller: Blame our customers not us for hacking]]></title>
-            <description><![CDATA[NSO Group tells BBC News: "The finger-pointing should be at the customer."]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57922664</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57922664</guid>
-            <pubDate>Thu, 22 Jul 2021 09:02:10 GMT</pubDate>
+            <title><![CDATA[California sues Activision Blizzard over alleged harassment]]></title>
+            <description><![CDATA[One of the world's largest gaming companies is accused of endemic discrimination and harassment.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57929543</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929543</guid>
+            <pubDate>Thu, 22 Jul 2021 14:35:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Michael Jackson super fan among those sanctioned by UK]]></title>
@@ -98,6 +84,20 @@
             <link>https://www.bbc.co.uk/news/uk-57923588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57923588</guid>
             <pubDate>Thu, 22 Jul 2021 13:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China floods: Drone footage shows the scale of damage as clean up begins]]></title>
+            <description><![CDATA[As aerial pictures show the extent of destruction, our correspondent reports on the situation on the ground.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57926019</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57926019</guid>
+            <pubDate>Thu, 22 Jul 2021 07:41:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK has no idea of EU fishing catch in its waters, says Labour]]></title>
+            <description><![CDATA[The government says it is trying to get EU boats to declare everything they land in UK waters.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57922251</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57922251</guid>
+            <pubDate>Thu, 22 Jul 2021 13:32:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: I beat an Olympian...when I was younger]]></title>
@@ -240,18 +240,18 @@
             <pubDate>Thu, 22 Jul 2021 14:06:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith on the Olympics, Vogue, and speaking out against injustice]]></title>
-            <description><![CDATA[In an interview with Radio 1 DJ Clara Amfo for BBC Sport, Dina Asher-Smith talks Olympics, body positivity and speaking out against injustice.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57848718</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57848718</guid>
-            <pubDate>Thu, 22 Jul 2021 05:04:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Hundred opener breaks TV and crowd records]]></title>
             <description><![CDATA[The Hundred's opening match, Oval Invincibles v Manchester Originals, breaks TV audience record]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57930830</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57930830</guid>
             <pubDate>Thu, 22 Jul 2021 14:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020 men's football: Richarlison inspires Brazil, Spain held by Egypt, Wood makes history for NZ]]></title>
+            <description><![CDATA[Richarlison's first-half hat-trick inspires Brazil to a 4-2 win over Germany despite a second-half wobble, as Spain are held by Egypt.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57926170</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57926170</guid>
+            <pubDate>Thu, 22 Jul 2021 13:42:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[F1 teams could face penalties if they visit race stewards without invitation]]></title>
@@ -261,11 +261,11 @@
             <pubDate>Thu, 22 Jul 2021 14:31:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo 2020 men's football: Richarlison inspires Brazil, Spain held by Egypt, Wood makes history for NZ]]></title>
-            <description><![CDATA[Richarlison's first-half hat-trick inspires Brazil to a 4-2 win over Germany despite a second-half wobble, as Spain are held by Egypt.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57926170</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57926170</guid>
-            <pubDate>Thu, 22 Jul 2021 13:42:58 GMT</pubDate>
+            <title><![CDATA[The first Test - readers' Lions XV and the key head to heads]]></title>
+            <description><![CDATA[BBC Sport reveals its readers' XV, which exposes some key head-to-head battles for Saturday's South Africa Test.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57930557</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57930557</guid>
+            <pubDate>Thu, 22 Jul 2021 14:22:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Dina Asher-Smith opens up on body image & tackling racism in sport]]></title>
@@ -345,11 +345,11 @@
             <pubDate>Tue, 20 Jul 2021 12:04:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: What do over-18s need to know about the vaccine?]]></title>
-            <description><![CDATA[All over-18s can now get the Covid jab, but Boris Johnson has criticised the take-up among young people.]]></description>
+            <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
+            <description><![CDATA[All over-18s can now get the Covid jab, but the government has criticised take-up among young people.]]></description>
             <link>https://www.bbc.co.uk/news/health-57273875</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
-            <pubDate>Tue, 20 Jul 2021 14:48:57 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 15:17:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules for travelling to green, amber and red list countries?]]></title>

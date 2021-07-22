@@ -8,7 +8,7 @@
 8. [Motorcyclist killed in crash on A44 near Aberystwyth](https://www.bbc.co.uk/news/uk-wales-57925835) - The motorcyclist died at the scene after crashing with a lorry near Aberystwyth on Wednesday.
 9. [Mills and Sbihi to be Team GB flag bearers in Tokyo](https://www.bbc.co.uk/sport/olympics/57925326) - Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.
 10. [Swansea: 3D printed ear would 'transform' girl's life](https://www.bbc.co.uk/news/uk-wales-57903527) - Scientists will use human cells and plant-based materials to rebuild an ear for 10-year-old Radiyah.
-11. [Welsh water pollution rules face court challenge](https://www.bbc.co.uk/news/uk-wales-politics-57929321) - A farming union has won the right to ask a judge to intervene over controversial new rules.
+11. [Welsh water pollution rules face court challenge](https://www.bbc.co.uk/news/uk-wales-politics-57929321) - A farming union has won the right to ask a judge to intervene over controversial new regulations.
 12. [Climate change: Airbus aims for 'climate-neutral' flights by 2035](https://www.bbc.co.uk/news/uk-wales-57923403) - And the wing-maker's Flintshire factory will play a "critical" role, says one senior manager.
 13. [Covid: Young farmers' clubs lose half their flock in pandemic](https://www.bbc.co.uk/news/uk-wales-57923766) - Membership fell from around 4,000 to 2,000 during the pandemic, but is starting to improve.
 14. [Dinosaur footprint found by girl, 4, to go on display](https://www.bbc.co.uk/news/uk-wales-57921987) - The discovery by Lily may show how the extinct reptiles kept their feet on the ground.
@@ -20,7 +20,7 @@
 20. [British and Irish Lions 2021: Key head to heads for South Africa Test and readers' XV](https://www.bbc.co.uk/sport/rugby-union/57930557) - BBC Sport reveals its readers' XV, which exposes some key head-to-head battles for Saturday's South Africa Test.
 21. [British and Irish Lions 2021: Captain Alun Wyn Jones reflects on 'surreal' return](https://www.bbc.co.uk/sport/rugby-union/57913078) - British and Irish Lions captain Alun Wyn Jones reflects on completing a remarkable recovery to lead the tourists against South Africa.
 22. [Steve Cooper: Head coach leaves Swansea City](https://www.bbc.co.uk/sport/football/57918658) - Steve Cooper leaves his position as Swansea City's head coach after just over two years in charge.
-23. [Rugby League World Cup: Australia and New Zealand pull out of tournament](https://www.bbc.co.uk/sport/rugby-league/57925720) - Australia and New Zealand pull out of the Rugby League World Cup because of "player welfare and safety concerns" related to the Covid-19 pandemic.
+23. [Harry Lennon: Ex-Charlton and Southend defender signs for Wrexham](https://www.bbc.co.uk/sport/football/57931386) - Former Southend United defender Harry Lennon joinS Wrexham on a one-year contract, with the option of an extension.
 24. [Undeb i herio'r llywodraeth yn y llys dros reolau llygredd](https://www.bbc.co.uk/newyddion/57931792) - NFU Cymru'n ennill yr hawl am adolygiad barnwrol yn ymwneud â'r polisi Pharthau Perygl Nitradau (NVZ).
 25. [Aelodaeth y Ffermwyr Ifanc 'wedi haneru' dros y pandemig](https://www.bbc.co.uk/newyddion/57916087) - CFfI Cymru wedi gorfod cynnal digwyddiadau'n rhithiol, ond yn obeithiol y daw aelodau yn ôl.
 26. [Gorddos laddodd y dioddefwr Covid cyntaf o Brydain](https://www.bbc.co.uk/newyddion/57927043) - Y person cyntaf o Brydain i ddal, a gwella o'r coronafeirws wedi marw oherwydd gorddos cyffuriau.
