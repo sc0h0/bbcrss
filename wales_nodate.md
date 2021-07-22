@@ -1,4 +1,4 @@
-1. ['Serious' crash as lorry hits number of people in Pontyclun](https://www.bbc.co.uk/news/uk-wales-57934076) - At least five ambulances are at the scene in Llantrisant Road, Pontyclun, near the Windsor pub.
+1. ['Serious' crash as vehicle hits number of people in Pontyclun](https://www.bbc.co.uk/news/uk-wales-57934076) - At least five ambulances are at the scene in Llantrisant Road, Pontyclun, near the Windsor pub.
 2. [Racism probe as 'bananas thrown at Cardiff City academy players'](https://www.bbc.co.uk/news/uk-wales-57934499) - Probe as former Cardiff City youth team footballer says he and a team-mate were racially abused.
 3. [Heatwave: Temperatures soar as Wales basks in hottest day of 2021](https://www.bbc.co.uk/news/uk-wales-57934070) - Wales recorded its hottest day of the year as four-day extreme heat warning ends.
 4. [Welsh NHS pay rise: Nurses 'not ruling out strike' after 3% offer](https://www.bbc.co.uk/news/uk-wales-57929185) - One nurse says the offer is "pitiful" and that people are leaving the profession "in droves".
