@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 07:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 07:39:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Wed, 21 Jul 2021 23:09:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[John Coates: Australian Olympic boss in awkward 'mansplaining' row]]></title>
+            <description><![CDATA[In an awkward exchange, John Coates ordered politician Annastacia Palaszczuk to attend the Olympics.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57924986</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57924986</guid>
+            <pubDate>Thu, 22 Jul 2021 07:11:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[YouTube removes Bolsonaro videos for Covid misinformation]]></title>
             <description><![CDATA[The tech giant says its decision was based on its content policies, not on ideology or politics.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57923862</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57912377</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57912377</guid>
             <pubDate>Wed, 21 Jul 2021 20:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monkeypox: More than 200 contacts tracked in US for rare disease]]></title>
-            <description><![CDATA[No instances of the rare disease had been recorded in the US since 2003.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57919573</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57919573</guid>
-            <pubDate>Wed, 21 Jul 2021 18:48:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Where and why is the US vaccine rollout slowing down?]]></title>
