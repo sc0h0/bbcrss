@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 14:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 14:23:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Theatre and concert hall decision in NI delayed]]></title>
+            <description><![CDATA[The NI Executive has agreed to relax some Covid restrictions including numbers who can meet outdoors.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57922396</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57922396</guid>
+            <pubDate>Thu, 22 Jul 2021 14:13:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stormont directed to set up abortion services in Northern Ireland]]></title>
             <description><![CDATA[Westminster has intervened with a formal direction requiring Stormont to commission services.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57918718</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57918718</guid>
             <pubDate>Thu, 22 Jul 2021 13:16:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Health minister urges caution over easing restrictions]]></title>
-            <description><![CDATA[Ministers are meeting to decide whether some restrictions in Northern Ireland should be relaxed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57922396</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57922396</guid>
-            <pubDate>Thu, 22 Jul 2021 12:37:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: No breakthrough on NI protocol after PM speaks to EU chief]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Thu, 22 Jul 2021 13:25:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Belfast GP surgery pays out over sign language interpreter failure]]></title>
-            <description><![CDATA[A mother and daughter did not know they could have had a sign language interpreter during GP visits.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57923702</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57923702</guid>
-            <pubDate>Thu, 22 Jul 2021 05:40:59 GMT</pubDate>
+            <title><![CDATA[Victims campaigners protest Trouble legacy plans]]></title>
+            <description><![CDATA[Members of the Innocent Victims United met to oppose plans to end Troubles-related prosecutions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57927568</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57927568</guid>
+            <pubDate>Thu, 22 Jul 2021 14:17:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newcastle: Boy in critical condition after being struck by van]]></title>
@@ -77,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57926552</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57926552</guid>
             <pubDate>Thu, 22 Jul 2021 10:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belfast GP surgery pays out over sign language interpreter failure]]></title>
+            <description><![CDATA[A mother and daughter did not know they could have had a sign language interpreter during GP visits.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57923702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57923702</guid>
+            <pubDate>Thu, 22 Jul 2021 05:40:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nanotechnology: Seagate-led NI consortium wins £42m grant]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/57866340</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57866340</guid>
             <pubDate>Thu, 22 Jul 2021 06:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is NI's marathon success by accident or design?]]></title>
-            <description><![CDATA[Stephen Scullion, Kevin Seaward and Paul Pollock will form an entirely Northern Irish line-up in Ireland's Olympic men's marathon challenge.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/57702247</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57702247</guid>
-            <pubDate>Thu, 22 Jul 2021 06:32:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fermanagh: Man dies after entering Lough Melvin]]></title>
@@ -156,6 +156,13 @@
             <pubDate>Thu, 15 Jul 2021 19:03:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Is NI's marathon success by accident or design?]]></title>
+            <description><![CDATA[Stephen Scullion, Kevin Seaward and Paul Pollock will form an entirely Northern Irish line-up in Ireland's Olympic men's marathon challenge.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/57702247</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57702247</guid>
+            <pubDate>Thu, 22 Jul 2021 06:32:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Extreme heat: NI records hottest day ever for second time in week]]></title>
             <description><![CDATA[The thermometer hit 31.3C in Castlederg on Wednesday, says the Met Office.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57920672</link>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/uk-57902663</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57902663</guid>
             <pubDate>Tue, 20 Jul 2021 18:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['It's golf with guns' - Kirsty Hegarty's Tokyo journey ]]></title>
-            <description><![CDATA[Trap shooter Kirsty Hegarty tells BBC Sport NI all about trap shooting and a surprising addition to her Team GB kit which got her rather excited.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57865476</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57865476</guid>
-            <pubDate>Tue, 20 Jul 2021 06:11:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Our lives just finished then']]></title>
