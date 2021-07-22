@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 10:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 11:06:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[An official report on lobbying says Lex Greensill's conflicts of interest 'should have been considered".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57927390</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57927390</guid>
-            <pubDate>Thu, 22 Jul 2021 10:43:53 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 10:53:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nurses may consider industrial action over 3% NHS pay rise, union says]]></title>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/health-57924271</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57924271</guid>
             <pubDate>Thu, 22 Jul 2021 09:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More than 600,000 people told to isolate by NHS Covid-19 app]]></title>
+            <description><![CDATA[618,903 people in England and Wales received self-isolation alerts in the week up to 14 July]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57929162</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929162</guid>
+            <pubDate>Thu, 22 Jul 2021 10:51:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: UK wants to redraw Northern Ireland Protocol]]></title>
@@ -44,13 +51,6 @@
             <pubDate>Wed, 21 Jul 2021 13:54:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Self-isolation hits bin collections across country]]></title>
-            <description><![CDATA[Campaigners are worried fly-tipping will increase as people struggle to get rid of waste.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57908171</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57908171</guid>
-            <pubDate>Wed, 21 Jul 2021 16:36:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Priti Patel defends deal to stop rising numbers crossing Channel]]></title>
             <description><![CDATA[The government is paying France £54m in a bid to stem the number of migrants travelling to the UK.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57916659</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57918265</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57918265</guid>
             <pubDate>Wed, 21 Jul 2021 20:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Self-isolation hits bin collections across country]]></title>
+            <description><![CDATA[Campaigners are worried fly-tipping will increase as people struggle to get rid of waste.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57908171</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57908171</guid>
+            <pubDate>Wed, 21 Jul 2021 16:36:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apsana Begum: Labour MP pleads not guilty to housing fraud]]></title>
