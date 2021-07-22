@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 11:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 12:33:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,32 +30,11 @@
             <pubDate>Thu, 22 Jul 2021 11:05:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why are Scotland's emergency departments so busy?]]></title>
-            <description><![CDATA[Emergency department admissions this year are almost 40% higher than pre-pandemic levels, figures show.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57903066</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57903066</guid>
-            <pubDate>Thu, 22 Jul 2021 05:09:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Troon station fire: Call for safety probe over unstaffed stations]]></title>
             <description><![CDATA[The RMT union wants an "urgent investigation" following the blaze at Troon railway station.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57927724</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57927724</guid>
             <pubDate>Thu, 22 Jul 2021 09:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digital dairy scheme lands 'game-changing' support]]></title>
-            <description><![CDATA[A project aiming to create up to 600 new jobs in south west Scotland and Cumbria gets £21.3m funding.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57914520</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57914520</guid>
-            <pubDate>Thu, 22 Jul 2021 05:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: 'Pingdemic' crisis and Scotland's vaccine pass app]]></title>
-            <description><![CDATA[Thousands of workers are forced to self-isolate and vaccine passports make Scotland's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57925449</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57925449</guid>
-            <pubDate>Thu, 22 Jul 2021 06:56:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strathspey Thistle: Highland League side who achieved highest finish without playing]]></title>
@@ -72,18 +51,25 @@
             <pubDate>Thu, 22 Jul 2021 11:34:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Digital dairy scheme lands 'game-changing' support]]></title>
+            <description><![CDATA[A project aiming to create up to 600 new jobs in south west Scotland and Cumbria gets £21.3m funding.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57914520</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57914520</guid>
+            <pubDate>Thu, 22 Jul 2021 05:08:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: 'Pingdemic' crisis and Scotland's vaccine pass app]]></title>
+            <description><![CDATA[Thousands of workers are forced to self-isolate and vaccine passports make Scotland's front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57925449</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57925449</guid>
+            <pubDate>Thu, 22 Jul 2021 06:56:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Anansi Boys: New Amazon Prime series to be filmed in Scotland]]></title>
             <description><![CDATA[Shooting of a TV adaptation of Neil Gaiman's Anansi Boys will begin in Leith later this year.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57921286</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57921286</guid>
             <pubDate>Wed, 21 Jul 2021 17:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
-            <description><![CDATA[Concerns have been raised about vaccine uptake among younger adults, but are they less likely to want a jab? Here, we examine the statistics.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57915106</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57915106</guid>
-            <pubDate>Wed, 21 Jul 2021 14:17:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Weekly rise in virus death numbers]]></title>
@@ -112,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-57840694</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-57840694</guid>
             <pubDate>Wed, 21 Jul 2021 15:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
+            <description><![CDATA[Concerns have been raised about vaccine uptake among younger adults, but are they less likely to want a jab? Here, we examine the statistics.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57915106</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57915106</guid>
+            <pubDate>Wed, 21 Jul 2021 14:17:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -156,13 +149,6 @@
             <pubDate>Wed, 07 Jul 2021 05:11:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Can rising Edinburgh cases be explained?]]></title>
-            <description><![CDATA[Scotland's capital has seen positive coronavirus cases reach unprecedented levels in the last two weeks. So, why might that be?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57668976</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57668976</guid>
-            <pubDate>Thu, 01 Jul 2021 05:20:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: Can we stop worrying about high case numbers?]]></title>
             <description><![CDATA[As vaccination reduces serious illness from Covid-19, the Scottish government is changing its strategy.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57581952</link>
@@ -175,41 +161,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57076243</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57076243</guid>
             <pubDate>Tue, 15 Jun 2021 14:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Recorded cases in children reach highest level]]></title>
-            <description><![CDATA[The number of weekly cases among 0-14 year olds is now higher than in early January, figures show.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57398757</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57398757</guid>
-            <pubDate>Wed, 09 Jun 2021 15:57:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: What will the next few months be like?]]></title>
-            <description><![CDATA[Scotland has put the brakes on easing Covid restrictions this summer but there is confidence it is just a pause.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57500221</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57500221</guid>
-            <pubDate>Wed, 16 Jun 2021 21:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Answers to your questions]]></title>
-            <description><![CDATA[Some of the most recent answers to your questions about the pandemic in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57361417</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57361417</guid>
-            <pubDate>Tue, 15 Jun 2021 16:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Ten ways crime changed during the pandemic]]></title>
-            <description><![CDATA[Shoplifting slumped but assaults on police officers went up during a "unique year" for crime levels in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57357800</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57357800</guid>
-            <pubDate>Fri, 04 Jun 2021 13:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: When will we know if the vaccination programme is working?]]></title>
-            <description><![CDATA[The link between Covid cases and hospital admissions seems to be weakening - but when will we know for sure?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57328828</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57328828</guid>
-            <pubDate>Thu, 03 Jun 2021 05:35:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['My heart sank' - BBC Scotland's Olympics team forced to isolate in Tokyo]]></title>

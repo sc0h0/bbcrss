@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 11:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 12:33:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: 600,000 patients on NHS Wales waiting lists]]></title>
-            <description><![CDATA[More than 19% of the Welsh population is waiting for treatment, latest figures show.]]></description>
+            <title><![CDATA[NHS Wales: A&E waits longest in nine years as hospital admissions rise]]></title>
+            <description><![CDATA[More than 19% of the Welsh population is waiting for treatment, the figures also show.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57915989</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57915989</guid>
-            <pubDate>Thu, 22 Jul 2021 11:16:14 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 12:11:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More than 600,000 people told to isolate by NHS Covid-19 app]]></title>
@@ -65,6 +65,13 @@
             <pubDate>Thu, 22 Jul 2021 11:31:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Welsh water pollution rules face court challenge]]></title>
+            <description><![CDATA[A farming union has won the right to ask a judge to intervene over controversial new rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-57929321</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57929321</guid>
+            <pubDate>Thu, 22 Jul 2021 12:01:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate change: Airbus aims for 'climate-neutral' flights by 2035]]></title>
             <description><![CDATA[And the wing-maker's Flintshire factory will play a "critical" role, says one senior manager.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57923403</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57925838</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57925838</guid>
             <pubDate>Thu, 22 Jul 2021 09:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS workers in Wales to get 3% pay rise]]></title>
-            <description><![CDATA[One union describes the offer as "bitterly disappointing" compared to the 12.5% it had demanded.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-politics-57915990</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57915990</guid>
-            <pubDate>Wed, 21 Jul 2021 20:06:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A55 Anglesey: Man crushed by lorry as he crawled from crash]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Tue, 20 Jul 2021 21:22:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mike Smith: Former Wales and Hull City manager dies, aged 83]]></title>
+            <description><![CDATA[Former Wales manager Mike Smith, the first non-Welshman to manage the national side, has died at the age of 83.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57931380</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57931380</guid>
+            <pubDate>Thu, 22 Jul 2021 12:06:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[John Eustace: Queens Park Rangers assistant boss a contender for Swansea City job]]></title>
             <description><![CDATA[Queens Park Rangers assistant manager John Eustace is a leading contender to be the next Swansea City boss.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57923015</link>
@@ -170,13 +177,6 @@
             <pubDate>Thu, 22 Jul 2021 10:41:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Osian Roberts says Morocco can be in world's top 20 as he steps down as technical director]]></title>
-            <description><![CDATA[Welsh coach Osian Roberts says Morocco has the potential to be in world football's top 20 as he steps down as technical director.]]></description>
-            <link>https://www.bbc.co.uk/sport/africa/57918045</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/africa/57918045</guid>
-            <pubDate>Thu, 22 Jul 2021 09:17:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Aelodaeth y Ffermwyr Ifanc 'wedi haneru' dros y pandemig]]></title>
             <description><![CDATA[CFfI Cymru wedi gorfod cynnal digwyddiadau'n rhithiol, ond yn obeithiol y daw aelodau yn ôl.]]></description>
             <link>https://www.bbc.co.uk/newyddion/57916087</link>
@@ -191,11 +191,11 @@
             <pubDate>Thu, 22 Jul 2021 05:53:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Trawsnewid' darpariaeth gofal brys yng Nghymru]]></title>
-            <description><![CDATA[Strategaeth newydd Llywodraeth Cymru yn ceisio lleihau faint o bobl sy'n mynd i'r ysbyty am driniaeth.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57918731</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57918731</guid>
-            <pubDate>Thu, 22 Jul 2021 09:41:39 GMT</pubDate>
+            <title><![CDATA[Gorddos laddodd y dioddefwr Covid cyntaf o Brydain]]></title>
+            <description><![CDATA[Y person cyntaf o Brydain i ddal, a gwella o'r coronafeirws wedi marw oherwydd gorddos cyffuriau.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57927043</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57927043</guid>
+            <pubDate>Thu, 22 Jul 2021 12:22:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Y Cymry fydd yn mynd am aur yn Tokyo]]></title>
