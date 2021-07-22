@@ -1,7 +1,7 @@
 1. [NHS Wales: Promise to transform service to cope with demand](https://www.bbc.co.uk/news/uk-wales-57915989) - Delivery of urgent care to be transformed during a "challenging period", says the health minister.
 2. [Covid in Wales: Young farmers' club membership halves](https://www.bbc.co.uk/news/uk-wales-57919623) - But members are starting to return as Covid rules are relaxed, says the Wales chair.
-3. [3D printing: Swansea research 'could revolutionise facial reconstruction'](https://www.bbc.co.uk/news/uk-wales-57903527) - The £2.5m study will use human cells and plant-based materials to rebuild ears and noses.
-4. [Mills and Sbihi to be Team GB flag bearers in Tokyo](https://www.bbc.co.uk/sport/olympics/57925326) - Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.
+3. [Mills and Sbihi to be Team GB flag bearers in Tokyo](https://www.bbc.co.uk/sport/olympics/57925326) - Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.
+4. [3D printing: Swansea research 'could revolutionise facial reconstruction'](https://www.bbc.co.uk/news/uk-wales-57903527) - The £2.5m study will use human cells and plant-based materials to rebuild ears and noses.
 5. [Climate change: Airbus aims for 'climate-neutral' flights by 2035](https://www.bbc.co.uk/news/uk-wales-57923403) - And the wing-maker's Flintshire factory will play a "critical" role, says one senior manager.
 6. [NHS workers in Wales to get 3% pay rise](https://www.bbc.co.uk/news/uk-wales-politics-57915990) - One union describes the offer as "bitterly disappointing" compared to the 12.5% it had demanded.
 7. [A55 Anglesey: Man crushed by lorry as he crawled from crash](https://www.bbc.co.uk/news/uk-wales-57920041) - Ciaran Michael Murray was seen crawling on the road before being struck by a lorry, inquest hears.
