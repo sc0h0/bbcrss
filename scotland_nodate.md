@@ -1,5 +1,5 @@
 1. [Why are Scotland's emergency departments so busy?](https://www.bbc.co.uk/news/uk-scotland-57903066) - Emergency department admissions this year are almost 40% higher than pre-pandemic levels, figures show.
-2. [Troon station: Line to reopen following devastating fire](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57921852) - Services will go through but not stop at the station from Friday as work continues to make the building safe.
+2. [Troon station fire: Call for safety probe over unstaffed stations](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57927724) - The RMT union wants an "urgent investigation" following the blaze at Troon railway station.
 3. [Serious motorway crash brings traffic to standstill near Gretna](https://www.bbc.co.uk/news/uk-scotland-south-scotland-57923753) - The A74(M) near Gretna was closed as some motorists said they were at a standstill for several hours.
 4. [Scotland's papers: 'Pingdemic' crisis and Scotland's vaccine pass app](https://www.bbc.co.uk/news/uk-scotland-57925449) - Thousands of workers are forced to self-isolate and vaccine passports make Scotland's front pages.
 5. [Digital dairy scheme lands 'game-changing' support](https://www.bbc.co.uk/news/uk-scotland-south-scotland-57914520) - A project aiming to create up to 600 new jobs in south west Scotland and Cumbria gets £21.3m funding.

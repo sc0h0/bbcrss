@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 09:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 09:54:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-57924885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57924885</guid>
             <pubDate>Thu, 22 Jul 2021 09:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: China rejects WHO plan for second phase of virus origin probe]]></title>
+            <description><![CDATA[China says a proposal to audit labs shows "disrespect to common sense and arrogance towards science".]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57926368</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57926368</guid>
+            <pubDate>Thu, 22 Jul 2021 09:31:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China floods: Drone footage shows the scale of damage as clean up begins]]></title>
@@ -44,13 +51,6 @@
             <pubDate>Thu, 22 Jul 2021 07:11:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Henan floods: Woman swept down street by extreme flood waters]]></title>
-            <description><![CDATA[Bystanders managed to rescue the woman in Henan province, where several people have died amid flooding.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57912150</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57912150</guid>
-            <pubDate>Wed, 21 Jul 2021 09:54:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Yuen Long attack: Hong Kong court gives seven jail time]]></title>
             <description><![CDATA[The 2019 attack in Yuen Long was captured by victims and bystanders on phones and shocked the city.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57925055</link>
@@ -58,18 +58,18 @@
             <pubDate>Thu, 22 Jul 2021 04:45:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[China floods: People unite on social media to help flood victims]]></title>
-            <description><![CDATA[China's Weibo platform became an online space connecting people seeking help with rescue teams.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57924535</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57924535</guid>
-            <pubDate>Thu, 22 Jul 2021 03:47:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Australia and NZ pull out of Rugby League World Cup]]></title>
             <description><![CDATA[Australia and New Zealand pull out of the Rugby League World Cup because of "player welfare and safety concerns" related to the Covid-19 pandemic.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-league/57925720</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/57925720</guid>
             <pubDate>Thu, 22 Jul 2021 09:23:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China floods: People unite on social media to help flood victims]]></title>
+            <description><![CDATA[China's Weibo platform became an online space connecting people seeking help with rescue teams.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57924535</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57924535</guid>
+            <pubDate>Thu, 22 Jul 2021 03:47:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Travelling to an Olympic Games like no other]]></title>
@@ -105,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-57911032</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57911032</guid>
             <pubDate>Wed, 21 Jul 2021 06:32:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Olympics: Tokyo 2020 chief does not rule out cancelling Games]]></title>
-            <description><![CDATA[Just days before the Games' opening ceremony, more athletes have tested positive for Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57911122</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57911122</guid>
-            <pubDate>Wed, 21 Jul 2021 04:05:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympic Games Tokyo 2020: India's top medal contenders]]></title>
