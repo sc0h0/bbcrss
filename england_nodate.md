@@ -15,11 +15,11 @@
 15. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
 16. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
 17. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
-18. ['Day After Tomorrow' hail hits East of England](https://www.bbc.co.uk/news/uk-england-essex-57918556) - Social media users post videos of huge hailstones falling from the sky.
-19. [Hospital cleaner: 'Nobody says thank you'](https://www.bbc.co.uk/news/uk-england-london-57909642) - Ernesta has been campaigning for better pay and conditions for cleaners during the pandemic.
-20. [Covid: Royal Blackburn Hospital facing huge pressures](https://www.bbc.co.uk/news/uk-england-lancashire-57900021) - Royal Blackburn Hospital staff say they are feeling the pressure due to a rise in Covid cases.
-21. [Manchester author achieves dream thanks to literacy classes](https://www.bbc.co.uk/news/uk-england-manchester-57867004) - Karen Woods was illiterate at 39 but has now published 21 novels and teaches creative writing.
-22. [Thunderstorms hit after hot spell](https://www.bbc.co.uk/news/uk-england-essex-57909228) - The Met Office has issued an amber warning for thunderstorms.
+18. [Master distiller brings gin back to home town Henley-upon-Thames](https://www.bbc.co.uk/news/uk-england-oxfordshire-57913910) - Jacob Wilson overcame illness to set up the first distillery in Henley in 270 years.
+19. ['Day After Tomorrow' hail hits East of England](https://www.bbc.co.uk/news/uk-england-essex-57918556) - Social media users post videos of huge hailstones falling from the sky.
+20. [Hospital cleaner: 'Nobody says thank you'](https://www.bbc.co.uk/news/uk-england-london-57909642) - Ernesta has been campaigning for better pay and conditions for cleaners during the pandemic.
+21. [Covid: Royal Blackburn Hospital facing huge pressures](https://www.bbc.co.uk/news/uk-england-lancashire-57900021) - Royal Blackburn Hospital staff say they are feeling the pressure due to a rise in Covid cases.
+22. [Manchester author achieves dream thanks to literacy classes](https://www.bbc.co.uk/news/uk-england-manchester-57867004) - Karen Woods was illiterate at 39 but has now published 21 novels and teaches creative writing.
 23. [Colin Pitchfork: MoJ sorry for sex offenders register error](https://www.bbc.co.uk/news/uk-england-leicestershire-57920167) - The government admits it was wrong to say the double killer would not be on the sex offenders register.
 24. [Residents of Ipswich flats say cladding repairs affecting health](https://www.bbc.co.uk/news/uk-england-suffolk-57916147) - Residents of a tower block wrapped in plastic say the lack of light is affecting their health.
 25. [Covid: Manchester Pride parade cancelled over safety concerns](https://www.bbc.co.uk/news/uk-england-manchester-57919317) - Manchester Pride's annual parade is scrapped over organisers' concerns about Covid safety rules.

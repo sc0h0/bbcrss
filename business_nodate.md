@@ -1,4 +1,4 @@
-1. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal will receive up to £100,000.
+1. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
 2. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - Business Secretary Kwasi Kwarteng says the government is "concerned about instances of shortages".
 3. [Charity, dating and pet spending booms, says Nationwide](https://www.bbc.co.uk/news/business-57907867) - People have been spending more on non-essentials as Covid restrictions ease, Nationwide says.
 4. [Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again](https://www.bbc.co.uk/news/business-57924354) - The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.

@@ -1,6 +1,6 @@
 1. [Welsh NHS pay rise: Nurses 'not ruling out strike' after 3% offer](https://www.bbc.co.uk/news/uk-wales-57929185) - One nurse says the offer is "pitiful" and that people are leaving the profession "in droves".
 2. [NHS Wales: A&E waits longest in nine years as hospital admissions rise](https://www.bbc.co.uk/news/uk-wales-57915989) - More than 19% of the Welsh population is waiting for treatment, the figures also show.
-3. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal will receive up to £100,000.
+3. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
 4. [Illegal dog breeder who mutilated puppies' ears jailed](https://www.bbc.co.uk/news/uk-wales-57917953) - Christopher Mae "cropped" dogs' ears which made them more valuable, magistrates are told.
 5. [Wales weather warning: Thunderstorms set to replace heatwave](https://www.bbc.co.uk/news/uk-wales-57929643) - A yellow warning for rain has been issued for most of Wales, replacing first-ever amber heat warning.
 6. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
@@ -25,4 +25,4 @@
 25. [Aelodaeth y Ffermwyr Ifanc 'wedi haneru' dros y pandemig](https://www.bbc.co.uk/newyddion/57916087) - CFfI Cymru wedi gorfod cynnal digwyddiadau'n rhithiol, ond yn obeithiol y daw aelodau yn ôl.
 26. [Gorddos laddodd y dioddefwr Covid cyntaf o Brydain](https://www.bbc.co.uk/newyddion/57927043) - Y person cyntaf o Brydain i ddal, a gwella o'r coronafeirws wedi marw oherwydd gorddos cyffuriau.
 27. [Y Cymry fydd yn mynd am aur yn Tokyo](https://www.bbc.co.uk/newyddion/57916347) - Catrin Heledd sy'n trafod pwy yw ein gobeithion gorau am fedalau
-28. [Steve Cooper yn gadael ei swydd fel rheolwr Abertawe](https://www.bbc.co.uk/newyddion/57916088) - Y gred yw fod y rheolwr wedi bod yn rhwystredig nad oedd wedi gallu cryfhau'r garfan dros yr haf.
+28. [Cyn-reolwr Cymru, Mike Smith wedi marw yn 83 oed](https://www.bbc.co.uk/newyddion/57933081) - Mae Mike Smith, y Sais cyntaf i fod yn rheolwr pêl-droed Cymru wedi marw yn 83 oed.
