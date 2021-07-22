@@ -1,4 +1,4 @@
-1. [Pegasus spyware seller: Blame our customers not us for hacking](https://www.bbc.co.uk/news/technology-57922664) - NSO Group tells BBC News: "The finger-pointing should be at the customer."
+1. [Pegasus spyware seller: Blame our customers, not us, for hacking](https://www.bbc.co.uk/news/technology-57922664) - NSO Group tells BBC News: "The finger-pointing should be at the customer."
 2. [Pegasus: Princess Latifa and Princess Haya numbers 'among leaks'](https://www.bbc.co.uk/news/world-middle-east-57922543) - Numbers used by Princesses Latifa and Haya are reportedly found in a database at the heart of the leaks.
 3. [The 12-year-old becoming Tokyo's youngest Olympian](https://www.bbc.co.uk/news/world-middle-east-57925985) - Hend Zaza from Syria reveals her inspiration for getting into table tennis at such a young age.
 4. [Hackers reportedly demand $50m from Saudi Aramco over data leak](https://www.bbc.co.uk/news/business-57924355) - The world's most valuable oil producer confirmed to the BBC that company files had been leaked.

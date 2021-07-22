@@ -2,7 +2,7 @@
 2. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
 3. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
 4. [California sues Activision Blizzard over alleged harassment](https://www.bbc.co.uk/news/technology-57929543) - One of the world's largest gaming companies is accused of endemic discrimination and harassment.
-5. [Pegasus spyware seller: Blame our customers not us for hacking](https://www.bbc.co.uk/news/technology-57922664) - NSO Group tells BBC News: "The finger-pointing should be at the customer."
+5. [Pegasus spyware seller: Blame our customers, not us, for hacking](https://www.bbc.co.uk/news/technology-57922664) - NSO Group tells BBC News: "The finger-pointing should be at the customer."
 6. [Twitter trials upvote and downvote buttons](https://www.bbc.co.uk/news/technology-57923215) - Some iOS users will see thumb and arrow buttons as the company experiments with voting.
 7. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Lawyers for Autonomy's founder, Mike Lynch, say he will fight the US authorities' bid to try him for fraud.
 8. [Call for online abusers to be reported to bosses](https://www.bbc.co.uk/news/technology-57907852) - A group is calling for companies to set up ways for people to report workers behaving abusively online.
