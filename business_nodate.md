@@ -1,4 +1,4 @@
-1. [Covid: No need to panic buy, says supermarket boss](https://www.bbc.co.uk/news/uk-57924264) - Iceland says empty shelves are not industry-wide but the rising 'pingdemic' threatens shop openings.
+1. [Covid: Shoppers told there is no need to panic buy](https://www.bbc.co.uk/news/uk-57924264) - Iceland says empty shelves are not industry-wide but the rising 'pingdemic' threatens shop openings.
 2. [Charity, dating and pet spending booms, says Nationwide](https://www.bbc.co.uk/news/business-57907867) - People have been spending more on non-essentials as Covid restrictions ease, Nationwide says.
 3. [Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again](https://www.bbc.co.uk/news/business-57924354) - The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.
 4. [Opioid crisis: US drug giants reach $26bn settlement](https://www.bbc.co.uk/news/business-57910039) - Four drug-makers and distributors have agreed to pay the sum to settle thousands of government lawsuits.
