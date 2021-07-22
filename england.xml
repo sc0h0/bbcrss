@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 05:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 06:03:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Wed, 21 Jul 2021 17:01:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Colin Pitchfork: MoJ sorry for sex offenders register error]]></title>
+            <description><![CDATA[The government admits it was wrong to say the double killer would not be on the sex offenders register.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-57920167</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-57920167</guid>
+            <pubDate>Thu, 22 Jul 2021 06:00:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NHS workers in England offered 3% pay rise]]></title>
             <description><![CDATA[The offer is 2% more than was proposed in March, "in recognition of the unique impact of pandemic".]]></description>
             <link>https://www.bbc.co.uk/news/health-57922712</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57922712</guid>
             <pubDate>Wed, 21 Jul 2021 21:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neo-Nazi Andrew Dymock jailed for terror and hate crimes]]></title>
-            <description><![CDATA[Andrew Dymock promoted a "distorted and wicked cause" and chose a path of "hatred and bigotry".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-57920928</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57920928</guid>
-            <pubDate>Wed, 21 Jul 2021 16:31:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Twins keep running in the family]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Wed, 21 Jul 2021 14:52:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Birmingham Commonwealth Games: Free tickets for all city's children in care]]></title>
-            <description><![CDATA[Up to 5,000 tickets will be given to children in care in Birmingham for the Commonwealth Games.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57922277</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57922277</guid>
-            <pubDate>Thu, 22 Jul 2021 05:31:52 GMT</pubDate>
+            <title><![CDATA[Neo-Nazi Andrew Dymock jailed for terror and hate crimes]]></title>
+            <description><![CDATA[Andrew Dymock promoted a "distorted and wicked cause" and chose a path of "hatred and bigotry".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-57920928</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57920928</guid>
+            <pubDate>Wed, 21 Jul 2021 16:31:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Smithy Family: Police urge public not to investigate TikTok house arson]]></title>
@@ -93,11 +93,11 @@
             <pubDate>Wed, 21 Jul 2021 19:20:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Seaforth Docks: Worker dies in freight container incident]]></title>
-            <description><![CDATA[The 67-year-old man died at the scene of the incident during cargo operations.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-57922061</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57922061</guid>
-            <pubDate>Wed, 21 Jul 2021 19:09:02 GMT</pubDate>
+            <title><![CDATA[Birmingham Commonwealth Games: Free tickets for all city's children in care]]></title>
+            <description><![CDATA[Up to 5,000 tickets will be given to children in care in Birmingham for the Commonwealth Games.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57922277</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57922277</guid>
+            <pubDate>Thu, 22 Jul 2021 05:31:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peterborough Lido: What has the easing of restrictions meant for visitors?]]></title>
@@ -170,6 +170,13 @@
             <pubDate>Tue, 20 Jul 2021 17:14:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Seaforth Docks: Worker dies in freight container incident]]></title>
+            <description><![CDATA[The 67-year-old man died at the scene of the incident during cargo operations.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-57922061</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57922061</guid>
+            <pubDate>Wed, 21 Jul 2021 19:09:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Police officers stabbed at West Bromwich shopping centre]]></title>
             <description><![CDATA[The officers receive "slash injuries" in the attack at the New Square centre, in West Bromwich.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-57918379</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-57920250</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-57920250</guid>
             <pubDate>Wed, 21 Jul 2021 16:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euros 2020: Pair charged with helping fans break into Wembley]]></title>
-            <description><![CDATA[Two 18-year-olds are accused of stealing items which would allow people into the Euros final.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57914715</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57914715</guid>
-            <pubDate>Wed, 21 Jul 2021 13:04:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Staffordshire surgery delayed due to Covid numbers and isolating]]></title>
@@ -247,11 +247,11 @@
             <pubDate>Wed, 21 Jul 2021 15:55:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Thrilling finish sees Oval Invincibles win first ever Hundred match]]></title>
-            <description><![CDATA[Oval Invincibles pull off a thrilling victory over Manchester Originals as the women's Hundred begins with a bang at The Oval.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57923193</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57923193</guid>
-            <pubDate>Wed, 21 Jul 2021 20:51:56 GMT</pubDate>
+            <title><![CDATA[The Hundred begins with fireworks, DJs and a brilliant match on opening night]]></title>
+            <description><![CDATA[The Hundred begins with fireworks, DJs and live music but, most importantly, a young crowd is captivated by a thrilling opening game.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57923883</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57923883</guid>
+            <pubDate>Thu, 22 Jul 2021 05:36:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[White's brace hands Team GB opening win]]></title>
