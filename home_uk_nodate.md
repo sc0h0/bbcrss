@@ -1,5 +1,5 @@
 1. [UK food workers to be exempt from Covid isolation](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry will move to daily Covid testing, the government says, after isolating workers led to supply shortages.
-2. ['Serious' crash as vehicle hits number of people in Pontyclun](https://www.bbc.co.uk/news/uk-wales-57934076) - At least five ambulances are at the scene in Llantrisant Road, Pontyclun, near the Windsor pub.
+2. ['Serious' crash as vehicle hits people outside Pontyclun pub](https://www.bbc.co.uk/news/uk-wales-57934076) - At least five ambulances are at the scene but it is not yet known how many people have been injured.
 3. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
 4. [Tommy Robinson loses Jamal Hijazi libel case](https://www.bbc.co.uk/news/uk-england-leeds-57930901) - The High Court orders the anti-Islam activist to pay a teenage refugee £100,000 in damages.
 5. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
