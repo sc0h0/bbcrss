@@ -1,10 +1,10 @@
-1. [Welsh NHS pay rise: Nurses 'not ruling out strike' after 3% offer](https://www.bbc.co.uk/news/uk-wales-57929185) - One nurse says the offer is "pitiful" and that people are leaving the profession "in droves".
-2. [Covid in Wales: Isolation for vaccinated contacts to end in August](https://www.bbc.co.uk/news/uk-wales-politics-57929324) - Government spells out plans after 11,000 received isolation alerts in Wales in one week of July.
-3. [Investigation after man, 52, dies at city centre gym](https://www.bbc.co.uk/news/uk-wales-57934069) - Fellow gym members tried to save him with the gym's defibrillator as they waited for paramedics.
-4. [NHS Wales: A&E waits longest in nine years as hospital admissions rise](https://www.bbc.co.uk/news/uk-wales-57915989) - More than 19% of the Welsh population is waiting for treatment, the figures also show.
-5. [Covid: How many deaths have there been in Wales?](https://www.bbc.co.uk/news/uk-wales-57935150) - It is the highest number of deaths reported in a single day since 2 April, when five were reported.
-6. [Illegal dog breeder who mutilated puppies' ears jailed](https://www.bbc.co.uk/news/uk-wales-57917953) - Christopher Mae "cropped" dogs' ears which made them more valuable, magistrates are told.
-7. [Wales weather warning: Thunderstorms set to replace heatwave](https://www.bbc.co.uk/news/uk-wales-57929643) - A yellow warning for rain has been issued for most of Wales, replacing first-ever amber heat warning.
+1. [Heatwave: Temperatures soar as Wales basks in hottest day of 2021](https://www.bbc.co.uk/news/uk-wales-57934070) - Wales recorded its hottest day of the year as four-day extreme heat warning ends.
+2. [Welsh NHS pay rise: Nurses 'not ruling out strike' after 3% offer](https://www.bbc.co.uk/news/uk-wales-57929185) - One nurse says the offer is "pitiful" and that people are leaving the profession "in droves".
+3. [Covid in Wales: Isolation for vaccinated contacts to end in August](https://www.bbc.co.uk/news/uk-wales-politics-57929324) - Government spells out plans after 11,000 received isolation alerts in Wales in one week of July.
+4. [Investigation after man, 52, dies at city centre gym](https://www.bbc.co.uk/news/uk-wales-57934069) - Fellow gym members tried to save him with the gym's defibrillator as they waited for paramedics.
+5. [NHS Wales: A&E waits longest in nine years as hospital admissions rise](https://www.bbc.co.uk/news/uk-wales-57915989) - More than 19% of the Welsh population is waiting for treatment, the figures also show.
+6. [Covid: How many deaths have there been in Wales?](https://www.bbc.co.uk/news/uk-wales-57935150) - It is the highest number of deaths reported in a single day since 2 April, when five were reported.
+7. [Illegal dog breeder who mutilated puppies' ears jailed](https://www.bbc.co.uk/news/uk-wales-57917953) - Christopher Mae "cropped" dogs' ears which made them more valuable, magistrates are told.
 8. [Mike Smith: Former Wales and Hull City manager dies aged 83](https://www.bbc.co.uk/sport/football/57931380) - Former Wales manager Mike Smith, the first non-Welshman to manage the national side, has died at the age of 83.
 9. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
 10. [Motorcyclist killed in crash on A44 near Aberystwyth](https://www.bbc.co.uk/news/uk-wales-57925835) - The motorcyclist died at the scene after crashing with a lorry near Aberystwyth on Wednesday.
