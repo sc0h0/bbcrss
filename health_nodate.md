@@ -1,5 +1,5 @@
 1. [Nurses may consider industrial action over 3% NHS pay rise, union says](https://www.bbc.co.uk/news/health-57924271) - The Royal College of Nursing says members are "angry and upset" about the size of the increase.
-2. [Eating disorders: Number of under-20s in hospital up 50%](https://www.bbc.co.uk/news/health-57908556) - Admissions soared during the pandemic, and NHS bosses warn they are running out of beds.
+2. [Eating disorders: The terrible impact of the pandemic on the young](https://www.bbc.co.uk/news/health-57908556) - Admissions soared during the pandemic, and NHS bosses warn they are running out of beds.
 3. [Sport is 'marking its own homework' on athletes' brain injuries, say MPs](https://www.bbc.co.uk/news/health-57907772) - There has been little effort to protect athletes or track concussion problems, an MPs' inquiry says.
 4. [Coronavirus: Worst affected care homes revealed by watchdog](https://www.bbc.co.uk/news/uk-politics-57905821) - Figures from Care Quality Commission lay out the pandemic's 'devastating impact' on care homes in England.
 5. [Seaside poor health overlooked, warns Whitty](https://www.bbc.co.uk/news/uk-57908387) - Bad housing and deprivation are a toxic mix for health, says England's chief medical officer.
