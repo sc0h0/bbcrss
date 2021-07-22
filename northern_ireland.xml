@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 09:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 09:40:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Thu, 22 Jul 2021 05:40:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Arlene Arkinson 'let down by criminal justice system']]></title>
+            <description><![CDATA[An ex-detective who took over the inquiry says police should apologise for searching a family home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57927563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57927563</guid>
+            <pubDate>Thu, 22 Jul 2021 09:31:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Portrush: Mass brawl involving 70 youths at train station]]></title>
             <description><![CDATA[The train station on Eglinton Street was closed for a period and an 18-year-old arrested by police.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57927571</link>
@@ -65,11 +72,11 @@
             <pubDate>Thu, 22 Jul 2021 06:31:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Arlene Arkinson murdered by child rapist Robert Howard, inquest finds]]></title>
-            <description><![CDATA[An inquest concludes the teenager, who disappeared in August 1994, was killed by rapist Robert Howard.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57918801</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57918801</guid>
-            <pubDate>Wed, 21 Jul 2021 18:02:13 GMT</pubDate>
+            <title><![CDATA[Is NI's marathon success by accident or design?]]></title>
+            <description><![CDATA[Stephen Scullion, Kevin Seaward and Paul Pollock will form an entirely Northern Irish line-up in Ireland's Olympic men's marathon challenge.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/57702247</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57702247</guid>
+            <pubDate>Thu, 22 Jul 2021 06:32:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fermanagh: Man dies after entering Lough Melvin]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57918804</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57918804</guid>
             <pubDate>Wed, 21 Jul 2021 16:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is NI's marathon success by accident or design?]]></title>
-            <description><![CDATA[Stephen Scullion, Kevin Seaward and Paul Pollock will form an entirely Northern Irish line-up in Ireland's Olympic men's marathon challenge.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/57702247</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57702247</guid>
-            <pubDate>Thu, 22 Jul 2021 06:32:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extreme heat: NI records hottest day ever for second time in week]]></title>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57914686</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57914686</guid>
             <pubDate>Wed, 21 Jul 2021 17:27:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit: UK wants to redraw Northern Ireland Protocol]]></title>
-            <description><![CDATA[Lord Frost says the Northern Ireland Protocol is tearing the UK's "fabric" - but the EU won't renegotiate.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57911148</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57911148</guid>
-            <pubDate>Wed, 21 Jul 2021 15:09:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Two further deaths and 1,973 positive cases in NI]]></title>
@@ -212,6 +205,13 @@
             <pubDate>Wed, 21 Jul 2021 13:23:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Arlene Arkinson murdered by child rapist Robert Howard, inquest finds]]></title>
+            <description><![CDATA[An inquest concludes the teenager, who disappeared in August 1994, was killed by rapist Robert Howard.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57918801</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57918801</guid>
+            <pubDate>Wed, 21 Jul 2021 18:02:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lu Na McKinney: Stephen McKinney guilty of murdering wife]]></title>
             <description><![CDATA[Stephen McKinney, 44, had denied murdering his wife off Devenish Island, in Lough Erne, in April 2017.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57916004</link>
@@ -231,13 +231,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57894655</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57894655</guid>
             <pubDate>Mon, 19 Jul 2021 16:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All-Ireland MFC: Derry’s future ‘looks bright’ after Tullamore triumph]]></title>
-            <description><![CDATA[Oak Leaf captain Matthew Downey has ‘one up’ on legendary dad Henry after helping Derry to victory over Kerry in the All-Ireland minor final.]]></description>
-            <link>https://www.bbc.co.uk/sport/gaelic-games/57890977</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/gaelic-games/57890977</guid>
-            <pubDate>Mon, 19 Jul 2021 13:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: ROI indoor hospitality to resume on 26 July]]></title>
