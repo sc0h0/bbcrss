@@ -21,8 +21,8 @@
 21. [British and Irish Lions 2021: Captain Alun Wyn Jones reflects on 'surreal' return](https://www.bbc.co.uk/sport/rugby-union/57913078) - British and Irish Lions captain Alun Wyn Jones reflects on completing a remarkable recovery to lead the tourists against South Africa.
 22. [Steve Cooper: Head coach leaves Swansea City](https://www.bbc.co.uk/sport/football/57918658) - Steve Cooper leaves his position as Swansea City's head coach after just over two years in charge.
 23. [Rugby League World Cup: Australia and New Zealand pull out of tournament](https://www.bbc.co.uk/sport/rugby-league/57925720) - Australia and New Zealand pull out of the Rugby League World Cup because of "player welfare and safety concerns" related to the Covid-19 pandemic.
-24. [Aelodaeth y Ffermwyr Ifanc 'wedi haneru' dros y pandemig](https://www.bbc.co.uk/newyddion/57916087) - CFfI Cymru wedi gorfod cynnal digwyddiadau'n rhithiol, ond yn obeithiol y daw aelodau yn ôl.
-25. [Pryder cyflenwad dŵr wrth i bibellau fyrstio naw gwaith](https://www.bbc.co.uk/newyddion/57921134) - Mae 'na alw am weithredu wedi i brif bibellau dŵr Gwyddelwern fyrstio naw gwaith ers mis Ebrill.
+24. [Undeb i herio'r llywodraeth yn y llys dros reolau llygredd](https://www.bbc.co.uk/newyddion/57931792) - NFU Cymru'n ennill yr hawl am adolygiad barnwrol yn ymwneud â'r polisi Pharthau Perygl Nitradau (NVZ).
+25. [Aelodaeth y Ffermwyr Ifanc 'wedi haneru' dros y pandemig](https://www.bbc.co.uk/newyddion/57916087) - CFfI Cymru wedi gorfod cynnal digwyddiadau'n rhithiol, ond yn obeithiol y daw aelodau yn ôl.
 26. [Gorddos laddodd y dioddefwr Covid cyntaf o Brydain](https://www.bbc.co.uk/newyddion/57927043) - Y person cyntaf o Brydain i ddal, a gwella o'r coronafeirws wedi marw oherwydd gorddos cyffuriau.
 27. [Y Cymry fydd yn mynd am aur yn Tokyo](https://www.bbc.co.uk/newyddion/57916347) - Catrin Heledd sy'n trafod pwy yw ein gobeithion gorau am fedalau
 28. [Steve Cooper yn gadael ei swydd fel rheolwr Abertawe](https://www.bbc.co.uk/newyddion/57916088) - Y gred yw fod y rheolwr wedi bod yn rhwystredig nad oedd wedi gallu cryfhau'r garfan dros yr haf.

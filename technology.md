@@ -1,4 +1,4 @@
-1. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - Thu, 22 Jul 2021 11:22:22 GMT - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
+1. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - Thu, 22 Jul 2021 13:09:26 GMT - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
 2. [Pegasus spyware seller: Blame our customers not us for hacking](https://www.bbc.co.uk/news/technology-57922664) - Thu, 22 Jul 2021 09:02:10 GMT - NSO Group tells BBC News: "The finger-pointing should be at the customer."
 3. [Twitter trials upvote and downvote buttons](https://www.bbc.co.uk/news/technology-57923215) - Thu, 22 Jul 2021 12:39:47 GMT - Some iOS users will see thumb and arrow buttons as the company experiments with voting.
 4. [Call for online abusers to be reported to bosses](https://www.bbc.co.uk/news/technology-57907852) - Wed, 21 Jul 2021 23:39:40 GMT - A group is calling for companies to set up ways for people to report workers behaving abusively online.
