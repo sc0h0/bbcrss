@@ -1,4 +1,4 @@
-1. [Teenage girl killed in motorway minibus crash on](https://www.bbc.co.uk/news/uk-scotland-south-scotland-57923753) - Two others are in a critical condition after an accident which closed the A74(M) near Gretna for 12 hours.
+1. [Teenage girl killed in motorway minibus crash near Gretna](https://www.bbc.co.uk/news/uk-scotland-south-scotland-57923753) - Two others are in a critical condition after an accident which closed the A74(M) near Gretna for 12 hours.
 2. [COP26: Glasgow will 'welcome' climate protests say council leader](https://www.bbc.co.uk/news/uk-scotland-57927933) - Council leader Susan Aitken urged campaigners to respect the city and residents during the climate summit
 3. [Why are Scotland's emergency departments so busy?](https://www.bbc.co.uk/news/uk-scotland-57903066) - Emergency department admissions this year are almost 40% higher than pre-pandemic levels, figures show.
 4. [Troon station fire: Call for safety probe over unstaffed stations](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57927724) - The RMT union wants an "urgent investigation" following the blaze at Troon railway station.
