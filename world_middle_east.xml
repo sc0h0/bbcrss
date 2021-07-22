@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 14:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 14:40:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57922543</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57922543</guid>
             <pubDate>Wed, 21 Jul 2021 20:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 12-year-old becoming Tokyo's youngest Olympian]]></title>
+            <description><![CDATA[Hend Zaza from Syria reveals her inspiration for getting into table tennis at such a young age.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57925985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57925985</guid>
+            <pubDate>Thu, 22 Jul 2021 14:02:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hackers reportedly demand $50m from Saudi Aramco over data leak]]></title>
@@ -184,13 +191,6 @@
             <pubDate>Fri, 25 Jun 2021 23:21:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo 2020: Hend Zaza, 12, is youngest athlete at Olympics]]></title>
-            <description><![CDATA[Hend Zaza from Syria reveals her inspiration for getting into table tennis at such a young age.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57925985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57925985</guid>
-            <pubDate>Thu, 22 Jul 2021 14:02:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19 tests while you wait in Israeli airport]]></title>
             <description><![CDATA[Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57869807</link>
@@ -217,6 +217,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57685203</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57685203</guid>
             <pubDate>Thu, 01 Jul 2021 23:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cash-strapped Lebanese army sells helicopter rides]]></title>
+            <description><![CDATA[The army is trying to boost its finances, which have been hit by Lebanon's severe economic crisis.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57686396</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57686396</guid>
+            <pubDate>Thu, 01 Jul 2021 15:06:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

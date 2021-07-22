@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 14:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 14:40:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57923753</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57923753</guid>
             <pubDate>Thu, 22 Jul 2021 10:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Thu, 22 Jul 2021 14:38:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: Glasgow will 'welcome' climate protests says council leader]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57915106</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57915106</guid>
             <pubDate>Wed, 21 Jul 2021 14:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Wed, 21 Jul 2021 14:52:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What are the rules at level zero?]]></title>
