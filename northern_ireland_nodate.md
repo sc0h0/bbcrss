@@ -1,7 +1,7 @@
 1. [Covid-19: Theatre and concert hall decision in NI delayed](https://www.bbc.co.uk/news/uk-northern-ireland-57922396) - The NI Executive has agreed to relax some Covid restrictions including numbers who can meet outdoors.
 2. [Abortion in NI: Westminster directs Stormont to set up services](https://www.bbc.co.uk/news/uk-northern-ireland-57921537) - Westminster has intervened with a formal direction requiring Stormont to commission services.
 3. [Damien Walsh: Ombudsman finds investigation failures in UDA murder](https://www.bbc.co.uk/news/uk-northern-ireland-57918718) - An ombudsman's report identifies police failings after the 1993 killing of teenager Damien Walsh.
-4. [Extreme Heat: Translink suspends ticket sales to Helen's Bay](https://www.bbc.co.uk/news/uk-northern-ireland-57932848) - Ticket sales are on hold over the large number of travellers to the County Down beauty spot.
+4. [Extreme Heat: NI temperature record broken for third time in a week](https://www.bbc.co.uk/news/uk-northern-ireland-57932848) - A weather station in the city of Armagh recorded a high of 31.4 C on Thursday afternoon.
 5. [Brexit: No breakthrough on NI protocol after PM speaks to EU chief](https://www.bbc.co.uk/news/uk-politics-57930799) - Boris Johnson speaks to EU chief Ursula von der Leyen about the UK's demand to rework the Brexit deal.
 6. [Arlene Arkinson 'let down by criminal justice system'](https://www.bbc.co.uk/news/uk-northern-ireland-57927563) - An ex-detective who took over the inquiry says police should apologise for searching a family home.
 7. [Nurses' pay: Health Department to bring forward proposals](https://www.bbc.co.uk/news/uk-northern-ireland-57926555) - It comes after a 3% pay rise is offered to NHS staff in England and Wales.
