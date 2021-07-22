@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 13:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 13:37:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,25 @@
             <pubDate>Thu, 22 Jul 2021 06:19:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ScotWind offshore wind auction attracts 74 bids]]></title>
+            <description><![CDATA[Crown Estate Scotland says 74 bids have been lodged by developers seeking to develop projects on the seabed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-57904501</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-57904501</guid>
+            <pubDate>Thu, 22 Jul 2021 12:53:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Woman allegedly put young boy through operations he did not need]]></title>
             <description><![CDATA[The 49-year-old denies wilfully ill-treating the child including at Royal Aberdeen Children's Hospital.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57926971</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57926971</guid>
             <pubDate>Thu, 22 Jul 2021 13:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are Scotland's emergency departments so busy?]]></title>
+            <description><![CDATA[The number of people turning up at emergency departments in Scotland is rising sharply, figures show.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57903066</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57903066</guid>
+            <pubDate>Thu, 22 Jul 2021 13:29:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Troon station fire: Call for safety probe over unstaffed stations]]></title>
@@ -65,25 +79,11 @@
             <pubDate>Thu, 22 Jul 2021 11:34:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ScotWind offshore wind auction attracts 74 bids]]></title>
-            <description><![CDATA[Crown Estate Scotland says 74 bids have been lodged by developers seeking to develop projects on the seabed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-57904501</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-57904501</guid>
-            <pubDate>Thu, 22 Jul 2021 12:53:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Digital dairy scheme lands 'game-changing' support]]></title>
             <description><![CDATA[A project aiming to create up to 600 new jobs in south west Scotland and Cumbria gets £21.3m funding.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-57914520</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-57914520</guid>
             <pubDate>Thu, 22 Jul 2021 05:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anansi Boys: New Amazon Prime series to be filmed in Scotland]]></title>
-            <description><![CDATA[Shooting of a TV adaptation of Neil Gaiman's Anansi Boys will begin in Leith later this year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57921286</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57921286</guid>
-            <pubDate>Wed, 21 Jul 2021 17:43:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
@@ -268,8 +268,8 @@
             <pubDate>Wed, 21 Jul 2021 17:43:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish Gossip: Celtic, Rangers, Edouard, Ajer, Mueller, Baldock, Veerman, St Johnstone, Crystal Palace, Dunfermline, Sheffield Utd, Doohan, Tranmere]]></title>
-            <description><![CDATA[Celtic eye Sheffield United right-back George Baldock, as Orlando City striker Chris Mueller is expected to join a Scottish club this winter.]]></description>
+            <title><![CDATA[Scottish Gossip: Celtic, Rangers, Edouard, Ajer, Baldock, Veerman, St Johnstone, Crystal Palace, Dunfermline, Sheffield Utd, Doohan, Tranmere]]></title>
+            <description><![CDATA[Celtic eye Sheffield United right-back George Baldock, as Odsonne Edouard is linked with Crystal Palace.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57925859</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57925859</guid>
             <pubDate>Thu, 22 Jul 2021 07:17:39 GMT</pubDate>
