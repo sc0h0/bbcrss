@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jul 2021 04:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 05:01:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Olympics opening ceremony director dismissed on eve of event]]></title>
+            <description><![CDATA[After the removal of Kentaro Kobayashi, organisers are now re-assessing how to hold Friday's event.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57924885</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57924885</guid>
+            <pubDate>Thu, 22 Jul 2021 04:56:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Shops try to keep shelves stocked as more staff isolate]]></title>
             <description><![CDATA[The government must "act fast" to avoid disruption to food supply, the British Retail Consortium says.]]></description>
@@ -27,7 +34,7 @@
             <description><![CDATA[The Royal College of Nursing says members are "angry and upset" about the size of the increase.]]></description>
             <link>https://www.bbc.co.uk/news/health-57924271</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57924271</guid>
-            <pubDate>Thu, 22 Jul 2021 04:10:06 GMT</pubDate>
+            <pubDate>Thu, 22 Jul 2021 04:51:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lone women in Covid quarantine hotels to get female guards]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-57923856</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57923856</guid>
             <pubDate>Wed, 21 Jul 2021 22:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Self-isolation hits bin collections across country]]></title>
-            <description><![CDATA[Campaigners are worried fly-tipping will increase as people struggle to get rid of waste.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57908171</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57908171</guid>
-            <pubDate>Wed, 21 Jul 2021 16:36:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harvey Weinstein pleads not guilty to LA sexual assault charges]]></title>
@@ -205,7 +205,7 @@
             <pubDate>Wed, 21 Jul 2021 23:26:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo 2020 Olympics: India's top medal contenders]]></title>
+            <title><![CDATA[Olympic Games Tokyo 2020: India's top medal contenders]]></title>
             <description><![CDATA[India sends its largest ever contingent to the Tokyo Olympics in the hope of bettering its medals tally.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57913544</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57913544</guid>
