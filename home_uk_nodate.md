@@ -10,8 +10,8 @@
 10. [Children in Need and Comic Relief to air from BBC Salford studios](https://www.bbc.co.uk/news/entertainment-arts-57940447) - The BBC's annual fundraising events will be broadcast from the city from 2021 onwards.
 11. [Sarm Heslop: Missing woman's parents still have hope](https://www.bbc.co.uk/news/uk-england-hampshire-57911889) - Four months after she vanished, it is still not known what happened to Sarm Heslop.
 12. [13 Reasons Why star Tommy Dorfman comes out as transgender](https://www.bbc.co.uk/news/newsbeat-57940888) - The 29-year-old confirmed on Instagram her pronouns are now "she/her".
-13. [The Papers: 'Ping peril' and pupils isolating 'needless'](https://www.bbc.co.uk/news/blogs-the-papers-57937492) - Concerns over workers and school children being told to isolate continue to dominate the front pages.
-14. [Tusker Rock's shipwrecks graveyard captured in art project](https://www.bbc.co.uk/news/uk-wales-57918489) - Photographer Peter Britton wants his project to stand as a legacy to those lost to Tusker Rock.
+13. [Tusker Rock's shipwrecks graveyard captured in art project](https://www.bbc.co.uk/news/uk-wales-57918489) - Photographer Peter Britton wants his project to stand as a legacy to those lost to Tusker Rock.
+14. [The Papers: 'Ping peril' and pupils isolating 'needless'](https://www.bbc.co.uk/news/blogs-the-papers-57937492) - Concerns over workers and school children being told to isolate continue to dominate the front pages.
 15. [The cost of hosting the Olympics](https://www.bbc.co.uk/news/57919584) - Holding the world's biggest sporting event comes with a hefty price tag
 16. [Emily Ratajkowski sponsors Bantry Basketball Club in County Cork](https://www.bbc.co.uk/news/world-europe-57932456) - Emily Ratajkowski buys kit for Bantry's U15 and U16 teams, setting Snapchat "on fire".
 17. [The refugee athlete who lost his mum to Covid](https://www.bbc.co.uk/news/world-57937673) - Abdullah Sediqi, 24, is competing at the Tokyo Games in her honour.
@@ -51,16 +51,16 @@
 51. [Tokyo Olympics: What to expect in the women's football tournament](https://www.bbc.co.uk/sport/olympics/57723213) - The Olympic Games are almost here so what can we expect at the women's football tournament?
 52. [What are the new sports at the Tokyo Olympic Games?](https://www.bbc.co.uk/sport/olympics/57240400) - With 34 new events in total added to the Tokyo Olympic programme, BBC Sport takes a look at what's new.
 53. [Coronavirus: How does the NHS test-and-trace system and app work?](https://www.bbc.co.uk/news/explainers-52442754) - The contact tracing app could be changed to make it less sensitive, so it sends fewer alerts.
-54. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - All over-18s can now get the Covid jab, but the government has criticised take-up among young people.
-55. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
-56. [Tokyo Olympic Games: When are they and will they go ahead despite Covid?](https://www.bbc.co.uk/news/world-asia-57240044) - The Tokyo Summer Olympics begin formally on Friday, despite a surge in Covid cases in Japan.
+54. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
+55. [Tokyo Olympic Games: When are they and will they go ahead despite Covid?](https://www.bbc.co.uk/news/world-asia-57240044) - The Tokyo Summer Olympics begin formally on Friday, despite a surge in Covid cases in Japan.
+56. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - All over-18s can now get the Covid jab, but the government has criticised take-up among young people.
 57. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The progress made in vaccinating the country's adult population, as more than 46 million people have received at least one dose.
 58. [Care homes worst hit by Covid – search the data ](https://www.bbc.co.uk/news/uk-politics-57905821) - Figures from Care Quality Commission lay out the pandemic's 'devastating impact' on care homes in England.
 59. [Covid: Who has to self-isolate, which workers are exempt and what if I'm fully vaccinated?](https://www.bbc.co.uk/news/explainers-54239922) - A small number of named employees in key sectors will be exempt from some rules
-60. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
-61. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Vaccine experts recommend that a limited group of children should be offered Covid jabs ahead of winter.
-62. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-63. [Covid symptoms: Is it a cold or coronavirus?](https://www.bbc.co.uk/news/health-54145299) - With similar symptoms, deciding whether or not you need to get tested for coronavirus can be tricky.
+60. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+61. [Covid symptoms: Is it a cold or coronavirus?](https://www.bbc.co.uk/news/health-54145299) - With similar symptoms, deciding whether or not you need to get tested for coronavirus can be tricky.
+62. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
+63. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Vaccine experts recommend that a limited group of children should be offered Covid jabs ahead of winter.
 64. ['Covid passports': How can the NHS Covid Pass prove I've had both jabs?](https://www.bbc.co.uk/news/explainers-55718553) - Clubbers and people attending mass events in England will have to prove they've had both Covid jabs.
 65. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
 66. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - Fully jabbed adults don't have to self-isolate after visiting amber-list countries - except France.
