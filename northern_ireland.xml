@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 05:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 05:46:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Brexit: 'Clear opportunities and frictions' in NI Protocol, says Invest NI]]></title>
+            <description><![CDATA[There is clarity for firms considering investment in Northern Ireland, says the boss of Invest NI.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57932457</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57932457</guid>
+            <pubDate>Fri, 23 Jul 2021 05:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reimagining Northern Ireland's cities after lockdown]]></title>
+            <description><![CDATA[Developments like parklets reflect the permanent ways the pandemic is changing our spaces.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57930985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57930985</guid>
+            <pubDate>Fri, 23 Jul 2021 05:45:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Theatre and concert hall decision in NI delayed]]></title>
             <description><![CDATA[The NI Executive has agreed to relax some Covid restrictions including numbers who can meet outdoors.]]></description>
@@ -56,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/business-57928397</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57928397</guid>
             <pubDate>Thu, 22 Jul 2021 15:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emily Ratajkowski sponsors Bantry Basketball Club in County Cork]]></title>
-            <description><![CDATA[Emily Ratajkowski buys kit for Bantry's U15 and U16 teams, setting Snapchat "on fire".]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57932456</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57932456</guid>
-            <pubDate>Thu, 22 Jul 2021 18:24:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: No breakthrough on NI protocol after PM speaks to EU chief]]></title>
@@ -247,6 +254,13 @@
             <pubDate>Wed, 21 Jul 2021 12:01:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Emily Ratajkowski sponsors Bantry Basketball Club in County Cork]]></title>
+            <description><![CDATA[Emily Ratajkowski buys kit for Bantry's U15 and U16 teams, setting Snapchat "on fire".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57932456</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57932456</guid>
+            <pubDate>Thu, 22 Jul 2021 18:24:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Drownings: Two deaths in counties Leitrim and Cavan]]></title>
             <description><![CDATA[Gardaí say there is no foul play suspected in either of the separate incidents on Wednesday.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57926959</link>
@@ -273,13 +287,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57899902</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57899902</guid>
             <pubDate>Wed, 21 Jul 2021 12:30:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belfast boxer to carry Irish flag at Olympics]]></title>
-            <description><![CDATA[Belfast boxer Brendan Irvine and team-mate Kellie Harrington will carry the Irish flag at the Tokyo Olympics opening ceremony on Friday.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57898847</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57898847</guid>
-            <pubDate>Tue, 20 Jul 2021 06:40:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

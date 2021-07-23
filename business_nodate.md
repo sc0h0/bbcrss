@@ -1,5 +1,5 @@
 1. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry move to daily testing after isolating workers led to supply shortages.
-2. [Zomato IPO: India food delivery 'unicorn' opens $1.2bn offering](https://www.bbc.co.uk/news/world-asia-india-57831196) - It is the first big Indian digital start-up to go public - expectations are high but analysts are wary.
+2. [India food delivery giant Zomato sees stellar stock market debut](https://www.bbc.co.uk/news/business-57938217) - Shares in the Ant Group-backed company traded more than 80% higher than their initial public offering price.
 3. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
 4. [Road planners able to ignore climate change, campaigners claim](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.
 5. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
