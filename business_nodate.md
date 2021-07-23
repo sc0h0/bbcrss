@@ -1,5 +1,5 @@
-1. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
-2. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
+1. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
+2. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
 3. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
 4. [People splash out on food and drink for Euro 2020](https://www.bbc.co.uk/news/business-57939140) - Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.
 5. [Rural vacuum for getting hold of cash](https://www.bbc.co.uk/news/business-57941001) - People living in rural areas have less chance of withdrawing or depositing cash nearby, research finds.

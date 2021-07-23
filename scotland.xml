@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 11:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 11:42:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Fri, 23 Jul 2021 10:43:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England's Covid infection rate overtakes Scotland]]></title>
+            <description><![CDATA[Cases continue to increase, with more rises possible once the impact of easing restrictions kicks in.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57942217</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57942217</guid>
+            <pubDate>Fri, 23 Jul 2021 11:21:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Two men killed in three-car crash on A713 in Ayrshire]]></title>
             <description><![CDATA[A 35-year-old driver and a 65-year-old passenger in another car died at the scene on the A713 near Patna.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57941647</link>
@@ -44,13 +51,6 @@
             <pubDate>Fri, 23 Jul 2021 05:09:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Shop staff exempt from isolation amid 'panic buying']]></title>
-            <description><![CDATA[New rules allowing food industry workers to be exempt from self-isolation dominates the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57924025</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57924025</guid>
-            <pubDate>Fri, 23 Jul 2021 06:56:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Man jailed for sex with underage girls in Aberdeen]]></title>
             <description><![CDATA[A judge rejected a plea to spare the 23-year-old a jail sentence following his crimes in Aberdeen.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57942458</link>
@@ -58,18 +58,18 @@
             <pubDate>Fri, 23 Jul 2021 11:10:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scotland's papers: Shop staff exempt from isolation amid 'panic buying']]></title>
+            <description><![CDATA[New rules allowing food industry workers to be exempt from self-isolation dominates the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57924025</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57924025</guid>
+            <pubDate>Fri, 23 Jul 2021 06:56:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Daily contact testing in schools cuts absences, study finds]]></title>
             <description><![CDATA[A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.]]></description>
             <link>https://www.bbc.co.uk/news/health-57930214</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57930214</guid>
             <pubDate>Thu, 22 Jul 2021 23:53:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Deaths at four-month high despite fall in cases]]></title>
-            <description><![CDATA[Nicola Sturgeon says the deaths of another 22 people are a reminder of the "toll" the virus can take.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57931530</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57931530</guid>
-            <pubDate>Thu, 22 Jul 2021 15:33:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hottest day of the year so far in Scotland]]></title>
