@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 08:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 09:23:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57934989</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57934989</guid>
             <pubDate>Fri, 23 Jul 2021 05:09:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two men killed in three-car crash on A713 in Ayrshire]]></title>
+            <description><![CDATA[A 35-year-old driver and a 65-year-old passenger in another car died at the scene on the A713 near Patna]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57941647</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57941647</guid>
+            <pubDate>Fri, 23 Jul 2021 09:17:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland's papers: Shop staff exempt from isolation amid 'panic buying']]></title>
@@ -100,13 +107,6 @@
             <pubDate>Thu, 22 Jul 2021 06:19:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why are Scotland's emergency departments so busy?]]></title>
-            <description><![CDATA[The number of people turning up at emergency departments in Scotland is rising sharply, figures show.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57903066</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57903066</guid>
-            <pubDate>Thu, 22 Jul 2021 13:29:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
             <description><![CDATA[Concerns have been raised about vaccine uptake among younger adults, but are they less likely to want a jab? Here, we examine the statistics.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57915106</link>
@@ -161,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57076243</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57076243</guid>
             <pubDate>Tue, 15 Jun 2021 14:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are Scotland's emergency departments so busy?]]></title>
+            <description><![CDATA[The number of people turning up at emergency departments in Scotland is rising sharply, figures show.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57903066</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57903066</guid>
+            <pubDate>Thu, 22 Jul 2021 13:29:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['My heart sank' - BBC Scotland's Olympics team forced to isolate in Tokyo]]></title>
