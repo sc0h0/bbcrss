@@ -1,4 +1,4 @@
-1. [Wuhan virus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?
+1. [Coronavirus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?
 2. [Washington shooting: Gunman opens fire outside restaurant](https://www.bbc.co.uk/news/world-us-canada-57937868) - It comes as gun violence is on the rise in Washington DC and other American cities.
 3. [US slaps sanctions on Cuban officials after protest crackdown](https://www.bbc.co.uk/news/world-us-canada-57935558) - President Biden has been under increasing pressure to respond to the historic anti-regime protests.
 4. [California sues Activision Blizzard over alleged harassment](https://www.bbc.co.uk/news/technology-57929543) - One of the world's largest gaming companies is accused of endemic discrimination and harassment.

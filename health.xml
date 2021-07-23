@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 02:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 03:23:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid vaccine: Eight-week gap seen as sweet spot for Pfizer jab antibodies]]></title>
+            <description><![CDATA[Spacing out doses boosts antibody levels, say researchers - who suggest eight weeks as the "sweet spot"]]></description>
+            <link>https://www.bbc.co.uk/news/health-57929953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57929953</guid>
+            <pubDate>Thu, 22 Jul 2021 23:51:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Child winter respiratory illness on rise in summer]]></title>
             <description><![CDATA[Parents are warned to look out for signs of RSV, after lockdown disrupted its normal winter spread.]]></description>

@@ -12,7 +12,7 @@
 12. [California sues Activision Blizzard over alleged harassment](https://www.bbc.co.uk/news/technology-57929543) - One of the world's largest gaming companies is accused of endemic discrimination and harassment.
 13. [Joe Biden says he's self-conscious as president](https://www.bbc.co.uk/news/world-us-canada-57924435) - The president reflects on his first six months in the White House in a town hall hosted in Ohio.
 14. [Tokyo Olympics: Black bear at softball arena still not caught out](https://www.bbc.co.uk/sport/olympics/57927169) - There are no fans at the Azuma Stadium in Fukushima for the Olympic softball tournament, but US players are keeping their eyes out for a ticketless intruder.
-15. [Wuhan virus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?
+15. [Coronavirus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?
 16. [Trading sex for cosmetic surgery in Mexico's narco capital](https://www.bbc.co.uk/news/stories-57932216) - The influence of narcos has caused many women to undergo cosmetic surgery in Mexico's Sinaloa state.
 17. [Sundarbans: why the world’s largest mangrove forest is sinking](https://www.bbc.co.uk/news/world-asia-india-57929463) - The low-lying islands are being battered by violent storms, rising sea levels, and melting ice from the Himalayas.
 18. [The cost of hosting the Olympics](https://www.bbc.co.uk/news/57919584) - Holding the world's biggest sporting event comes with a hefty price tag

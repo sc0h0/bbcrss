@@ -1,6 +1,6 @@
 1. [Raj Kundra: Indian millionaire embroiled in porn scandal](https://www.bbc.co.uk/news/world-asia-india-57897783) - Raj Kundra, husband of Bollywood star Shilpa Shetty, has been accused of running a porn production ring.
 2. [Olympics opening ceremony director sacked for Holocaust joke](https://www.bbc.co.uk/news/world-asia-57924885) - The decision to remove Kentaro Kobayashi comes a day before the opening show is due to be held.
-3. [Wuhan virus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?
+3. [Coronavirus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?
 4. [Covid: China rejects WHO plan for second phase of virus origin probe](https://www.bbc.co.uk/news/world-asia-china-57926368) - China says a proposal to audit labs shows "disrespect to common sense and arrogance towards science".
 5. [Indian tax authorities raid media outlets Bharat Samachar and Dainik Bhaskar](https://www.bbc.co.uk/news/world-asia-india-57937862) - The government denies that the raids were in retaliation for unfavourable reporting.
 6. [China floods: Drone footage shows the scale of damage as clean up begins](https://www.bbc.co.uk/news/world-asia-china-57926019) - As aerial pictures show the extent of destruction, our correspondent reports on the situation on the ground.
