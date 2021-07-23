@@ -24,5 +24,5 @@
 24. [Pontyclun: Chwech yn yr ysbyty ar ôl i gar daro tafarn](https://www.bbc.co.uk/newyddion/57906843) - Fri, 23 Jul 2021 09:22:19 GMT - Y gred yw bod dyn 79 oed wedi dioddef "episod feddygol" cyn i'w gar daro'r bobl a'r dafarn ym Mhontyclun.
 25. ['Hawl i bawb' fod yn eu cymuned ar ddiwedd oes](https://www.bbc.co.uk/newyddion/57932136) - Fri, 23 Jul 2021 05:50:34 GMT - Galw am wneud mwy i sicrhau'r gofal gorau posib i bobl yn eu cymuned ar ddiwedd eu bywydau.
 26. [Honiadau o fwlio hiliol yn academi CPD Caerdydd](https://www.bbc.co.uk/newyddion/57905021) - Thu, 22 Jul 2021 21:39:10 GMT - Teulu plentyn sy'n honni iddo ddioddef bwlio hiliol yn poeni nad yw'r clwb yn trin yr honiadau'n ddigon difrifol.
-27. [Tokyo 2020: Gobeithion Takeshi](https://www.bbc.co.uk/newyddion/57935053) - Thu, 22 Jul 2021 16:07:25 GMT - Y darlithydd Cymraeg o Tokyo sy'n rhannu ychydig o'i obeithion ar drothwy'r Gemau Olympaidd.
+27. [Covid-19: Cerddoriaeth yw fy mywyd... a diflannodd popeth dros nos](https://www.bbc.co.uk/newyddion/57934679) - Fri, 23 Jul 2021 09:55:04 GMT - Profiad Gordon Morison o golli rhan helaeth o’i fywoliaeth o ganlyniad i bandemig Covid.
 28. [Morgannwg yn trechu Sir Warwig yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/57936623) - Thu, 22 Jul 2021 18:02:17 GMT - Dechrau da i ymgyrch y Cymry yn y Cwpan Undydd gan ennill gêm agos iawn yng Nghaerdydd.
