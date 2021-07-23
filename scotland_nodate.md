@@ -1,6 +1,6 @@
 1. [Covid in Scotland: Critical workers to be exempt from self-isolation](https://www.bbc.co.uk/news/uk-scotland-57937583) - It is understood health and care workers and some supermarket staff will be among those who can avoid isolating.
 2. [Mystery orcas spotted in Scotland found in Norway](https://www.bbc.co.uk/news/uk-scotland-57934989) - The pod of six killer whales photographed in a Norwegian fjord were last spotted off Vatersay in 2018.
-3. [Two men killed in three-car crash on A713 in Ayrshire](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57941647) - A 35-year-old driver and a 65-year-old passenger in another car died at the scene on the A713 near Patna
+3. [Two men killed in three-car crash on A713 in Ayrshire](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57941647) - A 35-year-old driver and a 65-year-old passenger in another car died at the scene on the A713 near Patna.
 4. [Scotland's papers: Shop staff exempt from isolation amid 'panic buying'](https://www.bbc.co.uk/news/uk-scotland-57924025) - New rules allowing food industry workers to be exempt from self-isolation dominates the front pages.
 5. [Daily contact testing in schools cuts absences, study finds](https://www.bbc.co.uk/news/health-57930214) - A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.
 6. [Covid in Scotland: Deaths at four-month high despite fall in cases](https://www.bbc.co.uk/news/uk-scotland-57931530) - Nicola Sturgeon says the deaths of another 22 people are a reminder of the "toll" the virus can take.
