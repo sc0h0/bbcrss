@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 15:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 16:03:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Fri, 23 Jul 2021 10:08:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MLB's Cleveland Indians drop controversial name]]></title>
+            <description><![CDATA[After decades of criticism from Native American groups, the Cleveland Indians have a new name.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57946842</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57946842</guid>
+            <pubDate>Fri, 23 Jul 2021 15:45:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US fires: Inside a US fire truck driving through a wildfire]]></title>
             <description><![CDATA[As burning ash pelts their vehicle, video shows firefighters in California drive through the flames.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57943338</link>
@@ -48,14 +55,7 @@
             <description><![CDATA[Xi Jinping is the first Chinese leader in 30 years to make an official trip to the troubled region.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57941893</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57941893</guid>
-            <pubDate>Fri, 23 Jul 2021 15:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China floods: Henan mother dies after saving baby from mudslide]]></title>
-            <description><![CDATA[Rescuers believe she had flung her daughter to safety just as their home in Henan was hit.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57897474</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57897474</guid>
-            <pubDate>Fri, 23 Jul 2021 09:29:27 GMT</pubDate>
+            <pubDate>Fri, 23 Jul 2021 16:02:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indonesia: Covid-positive man boards flight disguised as wife]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-57938542</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57938542</guid>
             <pubDate>Fri, 23 Jul 2021 04:28:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China floods: Henan mother dies after saving baby from mudslide]]></title>
+            <description><![CDATA[Rescuers believe she had flung her daughter to safety just as their home in Henan was hit.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57897474</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57897474</guid>
+            <pubDate>Fri, 23 Jul 2021 09:29:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: China rejects WHO plan for second phase of virus origin probe]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57932456</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57932456</guid>
             <pubDate>Thu, 22 Jul 2021 18:24:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Washington shooting: Gunman opens fire outside restaurant]]></title>
-            <description><![CDATA[It comes as gun violence is on the rise in Washington DC and other American cities.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57937868</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57937868</guid>
-            <pubDate>Fri, 23 Jul 2021 04:13:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Was US money used to fund risky research in China?]]></title>
@@ -195,7 +195,7 @@
             <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
-            <pubDate>Fri, 23 Jul 2021 14:33:41 GMT</pubDate>
+            <pubDate>Fri, 23 Jul 2021 16:02:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Coates: Australian Olympic boss in awkward 'mansplaining' row]]></title>
