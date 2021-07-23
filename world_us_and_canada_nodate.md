@@ -1,5 +1,5 @@
 1. [Coronavirus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?
-2. [Las Vegas murder case cracked with record-small amount of DNA](https://www.bbc.co.uk/news/world-us-canada-57947785) - Just 15 cells' worth of DNA was used to track down the man suspected of killing a US girl in 1989.
+2. [Las Vegas murder case cracked with smallest ever amount of DNA](https://www.bbc.co.uk/news/world-us-canada-57947785) - Just 15 cells' worth of DNA was used to track down the man suspected of killing a US girl in 1989.
 3. [MLB's Cleveland Indians drop controversial name](https://www.bbc.co.uk/news/world-us-canada-57946842) - After decades of criticism from Native American groups, the Cleveland Indians have a new name.
 4. [Gender disparities still vex Tokyo Olympics games](https://www.bbc.co.uk/news/world-us-canada-57937102) - From breastfeeding to representation, women are still frustrated at the most 'gender balanced' Olympics games
 5. [Washington shooting: Gunman opens fire outside restaurant](https://www.bbc.co.uk/news/world-us-canada-57937868) - It comes as gun violence is on the rise in Washington DC and other American cities.

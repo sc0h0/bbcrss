@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 20:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 20:49:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/health-57942217</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57942217</guid>
             <pubDate>Fri, 23 Jul 2021 20:09:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: One in 80 has Covid, and an Olympic opening ceremony like no other]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57946077</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57946077</guid>
-            <pubDate>Fri, 23 Jul 2021 16:41:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Double-jabbed students denied quarantine exemption]]></title>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-57945502</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57945502</guid>
             <pubDate>Fri, 23 Jul 2021 16:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concern mounts for missing 11-year-old schoolgirl from Bolton]]></title>
+            <description><![CDATA[The parents of Fatuma Kadir, who travelled from Manchester to London by train, say they are in "shock".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57950115</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57950115</guid>
+            <pubDate>Fri, 23 Jul 2021 20:41:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wales boss Ryan Giggs denies assaulting ex-girlfriend]]></title>
@@ -293,7 +293,7 @@
             <description><![CDATA[Unknown 22-year-old Chris Benjamin leads Birmingham Phoenix to a stunning last-gasp victory over London Spirit in the men's Hundred.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57949800</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57949800</guid>
-            <pubDate>Fri, 23 Jul 2021 20:37:48 GMT</pubDate>
+            <pubDate>Fri, 23 Jul 2021 20:45:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spirit stutter to win over Phoenix in women's Hundred]]></title>
