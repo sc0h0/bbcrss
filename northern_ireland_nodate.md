@@ -1,5 +1,5 @@
 1. [Covid-19: 'More than 60% admitted to hospital not vaccinated'](https://www.bbc.co.uk/news/uk-northern-ireland-57940347) - The medical director of the Belfast Trust said the health service was facing significant pressure.
-2. [Teenager pulled from Lough Sheelin dies in hospital](https://www.bbc.co.uk/news/world-europe-57940577) - The teenager was the fifth person to die after entering lakes on the island of Ireland in the last week.
+2. [Teenager pulled from Lough Sheelin dies in hospital](https://www.bbc.co.uk/news/world-europe-57940577) - The teenager was the fifth person to die in lakes on the island of Ireland in the last week.
 3. [Brexit: 'Clear opportunities and frictions' in NI Protocol, says Invest NI](https://www.bbc.co.uk/news/uk-northern-ireland-57932457) - There is clarity for firms considering investment in Northern Ireland, says the boss of Invest NI.
 4. [Reimagining Northern Ireland's cities after lockdown](https://www.bbc.co.uk/news/uk-northern-ireland-57930985) - Developments like parklets reflect the permanent ways the pandemic is changing our spaces.
 5. [Concussion: Father calls for mandatory brain injury lessons](https://www.bbc.co.uk/news/uk-northern-ireland-57930988) - A father of a 14-year-old who died after a school rugby match says dangers must be highlighted.

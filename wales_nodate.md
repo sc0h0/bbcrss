@@ -5,11 +5,11 @@
 5. [Covid in Wales: Isolation for vaccinated contacts to end in August](https://www.bbc.co.uk/news/uk-wales-politics-57929324) - Government spells out plans after 11,000 received isolation alerts in Wales in one week of July.
 6. [Investigation after man, 52, dies at city centre gym](https://www.bbc.co.uk/news/uk-wales-57934069) - Fellow gym members tried to save him with the gym's defibrillator as they waited for paramedics.
 7. [Illegal dog breeder who mutilated puppies' ears jailed](https://www.bbc.co.uk/news/uk-wales-57917953) - Christopher Mae "cropped" dogs' ears which made them more valuable, magistrates are told.
-8. [Covid: How many deaths have there been in Wales?](https://www.bbc.co.uk/news/uk-wales-57935150) - It is the highest number of deaths reported in a single day since 2 April, when five were reported.
-9. [Welsh NHS pay rise: Nurses 'not ruling out strike' after 3% offer](https://www.bbc.co.uk/news/uk-wales-57929185) - One nurse says the offer is "pitiful" and that people are leaving the profession "in droves".
-10. [NHS Wales: A&E waits longest in nine years as hospital admissions rise](https://www.bbc.co.uk/news/uk-wales-57915989) - More than 19% of the Welsh population is waiting for treatment, the figures also show.
-11. [Motorcyclist killed in crash on A44 near Aberystwyth](https://www.bbc.co.uk/news/uk-wales-57925835) - The motorcyclist died at the scene after crashing with a lorry near Aberystwyth on Wednesday.
-12. [Wales weather warning: Thunderstorms set to replace heatwave](https://www.bbc.co.uk/news/uk-wales-57929643) - A yellow warning for rain has been issued for most of Wales, replacing first-ever amber heat warning.
+8. [Wales weather warning: Thunderstorms set to replace heatwave](https://www.bbc.co.uk/news/uk-wales-57929643) - A yellow warning for rain has been issued for most of Wales, replacing first-ever amber heat warning.
+9. [Covid: How many deaths have there been in Wales?](https://www.bbc.co.uk/news/uk-wales-57935150) - It is the highest number of deaths reported in a single day since 2 April, when five were reported.
+10. [Welsh NHS pay rise: Nurses 'not ruling out strike' after 3% offer](https://www.bbc.co.uk/news/uk-wales-57929185) - One nurse says the offer is "pitiful" and that people are leaving the profession "in droves".
+11. [NHS Wales: A&E waits longest in nine years as hospital admissions rise](https://www.bbc.co.uk/news/uk-wales-57915989) - More than 19% of the Welsh population is waiting for treatment, the figures also show.
+12. [Motorcyclist killed in crash on A44 near Aberystwyth](https://www.bbc.co.uk/news/uk-wales-57925835) - The motorcyclist died at the scene after crashing with a lorry near Aberystwyth on Wednesday.
 13. [Pontyclun crash: Aftermath after car hits pub, injuring six](https://www.bbc.co.uk/news/uk-wales-57939709) - The driver is believed to have had a "medical episode" before his car hit the pub.
 14. [NHS Wales pay rise offer: 'Claps don't pay the bills'](https://www.bbc.co.uk/news/uk-wales-57932294) - Nurses react to an offer of a 3% pay rise from Welsh government.
 15. [Covid: Young farmers' clubs lose half their flock in pandemic](https://www.bbc.co.uk/news/uk-wales-57923766) - Membership fell from around 4,000 to 2,000 during the pandemic, but is starting to improve.
