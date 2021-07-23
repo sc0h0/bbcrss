@@ -9,7 +9,7 @@
 9. [Man rescued in Alaska after week-long bear attack ordeal](https://www.bbc.co.uk/news/world-us-canada-57939501) - US Coast Guard officials spotted an SOS sign on a remote shack where the man had been staying.
 10. [Children in Need and Comic Relief to air from BBC Salford studios](https://www.bbc.co.uk/news/entertainment-arts-57940447) - The BBC's annual fundraising events will be broadcast from the city from 2021 onwards.
 11. [Sarm Heslop: Missing woman's parents still have hope](https://www.bbc.co.uk/news/uk-england-hampshire-57911889) - Four months after she vanished, it is still not known what happened to Sarm Heslop.
-12. [Pontyclun crash: Six in hospital after car hits people outside pub](https://www.bbc.co.uk/news/uk-wales-57934076) - Police believe the driver of the car suffered a "medical episode" just before the crash.
+12. [13 Reasons Why star Tommy Dorfman comes out as transgender](https://www.bbc.co.uk/news/newsbeat-57940888) - The 29-year-old confirmed on Instagram her pronouns are now "she/her".
 13. [The Papers: 'Ping peril' and pupils isolating 'needless'](https://www.bbc.co.uk/news/blogs-the-papers-57937492) - Concerns over workers and school children being told to isolate continue to dominate the front pages.
 14. [Tusker Rock's shipwrecks graveyard captured in art project](https://www.bbc.co.uk/news/uk-wales-57918489) - Photographer Peter Britton wants his project to stand as a legacy to those lost to Tusker Rock.
 15. [The cost of hosting the Olympics](https://www.bbc.co.uk/news/57919584) - Holding the world's biggest sporting event comes with a hefty price tag
