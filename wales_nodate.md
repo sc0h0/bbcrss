@@ -1,5 +1,5 @@
 1. [Wales boss Ryan Giggs denies assaulting ex-girlfriend](https://www.bbc.co.uk/news/uk-wales-57939707) - He allegedly used controlling behaviour, including kicking his ex-girlfriend out of his hotel room naked.
-2. [Cardigan murder investigation: Man charged after death](https://www.bbc.co.uk/news/uk-wales-57947641) - Ashley Keegan, 22, is due to appear in court charged with murdering John Bell in Cardigan.
+2. [Cardigan murder probe: Man charged after 'loving father's' death](https://www.bbc.co.uk/news/uk-wales-57947641) - Ashley Keegan, 22, is due to appear in court charged with murdering John Bell in Cardigan.
 3. [Pontyclun crash: Three in hospital after car hits people outside pub](https://www.bbc.co.uk/news/uk-wales-57934076) - Police believe the driver of the car suffered a "medical episode" just before the crash.
 4. [Gwynedd man killed himself after paying romance scammers](https://www.bbc.co.uk/news/uk-wales-57935467) - "Gentle soul" Chris Leeds was found dead after parting with thousands of pounds, an inquest hears.
 5. [Racism probe as 'bananas thrown at Cardiff City academy players'](https://www.bbc.co.uk/news/uk-wales-57934499) - Probe as former Cardiff City youth team footballer says he and a team-mate were racially abused.
@@ -23,6 +23,6 @@
 23. [British and Irish Lions 2021: Wyn Jones' journey from Llandovery farm to Lions front-row](https://www.bbc.co.uk/sport/rugby-union/57925554) - Wales prop Wyn Jones charts his journey from a Llandovery farm to anchoring the British and Irish Lions Test front-row.
 24. [Marwolaeth Aberteifi: Cyhuddo dyn o lofruddiaeth](https://www.bbc.co.uk/newyddion/57948264) - Bydd dyn 22 oed yn mynd o flaen llys ynadon ddydd Sadwrn wedi ei gyhuddo o lofruddio John Bell.
 25. [Pontyclun: Chwech yn yr ysbyty ar ôl i gar daro tafarn](https://www.bbc.co.uk/newyddion/57906843) - Y gred yw bod dyn 79 oed wedi dioddef "episod feddygol" cyn i'w gar daro'r bobl a'r dafarn ym Mhontyclun.
-26. ['Hawl i bawb' fod yn eu cymuned ar ddiwedd oes](https://www.bbc.co.uk/newyddion/57932136) - Galw am wneud mwy i sicrhau'r gofal gorau posib i bobl yn eu cymuned ar ddiwedd eu bywydau.
+26. [Cymru i gael stormydd o daranau wedi'r gwres mawr](https://www.bbc.co.uk/newyddion/57950199) - Rhybudd melyn am law mewn grym yn rhannau o'r de wedi dyddiau o haul tanbaid ar draws Cymru.
 27. ['Rhaid parchu pobl ac anifeiliaid cefn gwlad'](https://www.bbc.co.uk/newyddion/57904839) - Neges i ymwelwyr gan Wyn Evans, sy'n ffermio ger Aberystwyth
 28. [Morgannwg yn trechu Sir Warwig yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/57936623) - Dechrau da i ymgyrch y Cymry yn y Cwpan Undydd gan ennill gêm agos iawn yng Nghaerdydd.
