@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 17:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 17:32:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,18 @@
             <pubDate>Fri, 23 Jul 2021 15:51:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Carrickfergus: Police investigate posts about asylum seekers]]></title>
+            <description><![CDATA[A senior officer says the comments on a group in Carrickfergus are potential hate crimes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57948637</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57948637</guid>
+            <pubDate>Fri, 23 Jul 2021 17:27:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: One further death and 1,337 positive cases in NI]]></title>
             <description><![CDATA[There are currently 163 patients with Covid-19 in NI hospitals, 16 of whom are in intensive care.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57943451</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57943451</guid>
-            <pubDate>Fri, 23 Jul 2021 13:46:56 GMT</pubDate>
+            <pubDate>Fri, 23 Jul 2021 17:30:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extreme heat: Ireland records two tropical nights in a row]]></title>

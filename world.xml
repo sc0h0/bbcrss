@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 17:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 17:33:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Fri, 23 Jul 2021 17:01:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Las Vegas murder case cracked with record-small amount of DNA]]></title>
+            <description><![CDATA[Just 15 cells' worth of DNA was used to track down the man suspected of killing a US girl in 1989.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57947785</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57947785</guid>
+            <pubDate>Fri, 23 Jul 2021 16:59:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man rescued in Alaska after week-long bear attack ordeal]]></title>
             <description><![CDATA[US Coast Guard officials spotted an SOS sign on a remote shack where the man had been staying.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57939501</link>
@@ -51,18 +58,18 @@
             <pubDate>Fri, 23 Jul 2021 11:13:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MLB's Cleveland Indians drop controversial name]]></title>
-            <description><![CDATA[After decades of criticism from Native American groups, the Cleveland Indians have a new name.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57946842</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57946842</guid>
-            <pubDate>Fri, 23 Jul 2021 15:45:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[German TV apologises for smearing mud on clothes at flood site]]></title>
             <description><![CDATA[A video showed Susanna Ohlen rubbing herself with dirt before broadcasting from a flood-hit town.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57946430</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57946430</guid>
             <pubDate>Fri, 23 Jul 2021 16:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MLB's Cleveland Indians drop controversial name]]></title>
+            <description><![CDATA[After decades of criticism from Native American groups, the Cleveland Indians have a new name.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57946842</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57946842</guid>
+            <pubDate>Fri, 23 Jul 2021 15:45:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indonesia: Covid-positive man boards flight disguised as wife]]></title>
@@ -72,11 +79,11 @@
             <pubDate>Fri, 23 Jul 2021 04:28:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India monsoon: 36 dead after landslides in Maharashtra]]></title>
-            <description><![CDATA[Rescuers have been recovering bodies from under debris but more people are feared missing.]]></description>
+            <title><![CDATA[India monsoon: 110 dead after heavy rainfall in Maharashtra]]></title>
+            <description><![CDATA[Rescuers are racing to evacuate survivors but many are feared missing in the state of Maharashtra.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57938839</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57938839</guid>
-            <pubDate>Fri, 23 Jul 2021 11:00:55 GMT</pubDate>
+            <pubDate>Fri, 23 Jul 2021 17:33:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: China rejects WHO plan for second phase of virus origin probe]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-57926368</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57926368</guid>
             <pubDate>Fri, 23 Jul 2021 02:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raj Kundra: Indian millionaire embroiled in porn scandal]]></title>
-            <description><![CDATA[Raj Kundra, husband of Bollywood star Shilpa Shetty, has been accused of running a porn production ring.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57897783</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57897783</guid>
-            <pubDate>Fri, 23 Jul 2021 01:44:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First Chinese presidential visit to Tibet in 30 years]]></title>

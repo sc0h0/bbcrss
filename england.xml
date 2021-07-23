@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 16:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 17:29:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Fri, 23 Jul 2021 15:56:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Soldier found dead in barracks at Larkhill, Salisbury]]></title>
-            <description><![CDATA[The Ministry of Defence says it is investigating the circumstances surrounding her death.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</guid>
-            <pubDate>Fri, 23 Jul 2021 14:15:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Met Office storm warning for campsites and caravans]]></title>
             <description><![CDATA[Thunderstorms and 55mph gusts of wind could disrupt the plans of holidaymakers, the Met Office says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57945502</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57945502</guid>
             <pubDate>Fri, 23 Jul 2021 16:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Makina: the UK subculture you've probably never heard of]]></title>
+            <description><![CDATA[A leading MC says the music genre's return after Covid is going to be "something special".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-57946983</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57946983</guid>
+            <pubDate>Fri, 23 Jul 2021 15:58:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Durham A1 crash: Seaham couple named as Elaine Sullivan and David Daglish]]></title>
@@ -65,6 +65,13 @@
             <pubDate>Fri, 23 Jul 2021 13:10:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Soldier found dead in barracks at Larkhill, Salisbury]]></title>
+            <description><![CDATA[The Ministry of Defence says it is investigating the circumstances surrounding her death.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</guid>
+            <pubDate>Fri, 23 Jul 2021 14:15:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sarm Heslop: Missing woman's parents still have hope]]></title>
             <description><![CDATA[Four months after she vanished, it is still not known what happened to Sarm Heslop.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-57911889</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-humber-57945482</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57945482</guid>
             <pubDate>Fri, 23 Jul 2021 16:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keon Lincoln: Teenager denies murdering 15-year-old Birmingham boy]]></title>
-            <description><![CDATA[Four other youths have also denied murdering Keon Lincoln, who was shot and stabbed in Birmingham.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57948025</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57948025</guid>
-            <pubDate>Fri, 23 Jul 2021 15:47:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hyde Park £205m mansion makeover gets go-ahead]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Fri, 23 Jul 2021 16:26:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Weston-super-Mare marine lake shut over water safety fears]]></title>
-            <description><![CDATA[A bather became stuck in the mud and water quality has deteriorated at the lake, the council said.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-57942046</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57942046</guid>
-            <pubDate>Fri, 23 Jul 2021 10:34:28 GMT</pubDate>
+            <title><![CDATA[Keon Lincoln: Teenager denies murdering 15-year-old Birmingham boy]]></title>
+            <description><![CDATA[Four other youths have also denied murdering Keon Lincoln, who was shot and stabbed in Birmingham.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57948025</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57948025</guid>
+            <pubDate>Fri, 23 Jul 2021 15:47:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jadon Sancho: England winger completes £73m move to Manchester United from Borussia Dortmund]]></title>
@@ -226,18 +226,18 @@
             <pubDate>Fri, 23 Jul 2021 16:42:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Hundred: London Spirit survive a scare to beat Birmingham Phoenix at Edgbaston]]></title>
+            <description><![CDATA[London Spirit survive a big scare to beat Birmingham Phoenix and begin their women's Hundred campaign with a three-wicket win.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57946337</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57946337</guid>
+            <pubDate>Fri, 23 Jul 2021 17:28:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Women's Super League fixtures: Chelsea begin WSL title defence at Arsenal]]></title>
             <description><![CDATA[Chelsea will begin their Women's Super League title defence at Arsenal, while Manchester City travel to Everton.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57928978</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57928978</guid>
             <pubDate>Fri, 23 Jul 2021 08:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marc Skinner: Man Utd agree terms with Orlando Pride boss]]></title>
-            <description><![CDATA[Manchester United women are believed to have agreed personal terms with manager Marc Skinner.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57944598</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57944598</guid>
-            <pubDate>Fri, 23 Jul 2021 14:19:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

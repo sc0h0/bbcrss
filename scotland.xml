@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 17:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 17:37:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57937583</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57937583</guid>
             <pubDate>Fri, 23 Jul 2021 16:29:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lanarkshire families asked to help care amid 'sustained pressure' on NHS]]></title>
+            <description><![CDATA[Urgent care for the most vulnerable is being prioritised in Lanarkshire due to "sustained pressure".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57947825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57947825</guid>
+            <pubDate>Fri, 23 Jul 2021 17:07:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Double-jabbed students denied quarantine exemption]]></title>
@@ -79,20 +86,6 @@
             <pubDate>Fri, 23 Jul 2021 15:24:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mystery orcas spotted in Scotland found in Norway]]></title>
-            <description><![CDATA[The pod of six killer whales photographed in a Norwegian fjord were last spotted off Vatersay in 2018.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57934989</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57934989</guid>
-            <pubDate>Fri, 23 Jul 2021 05:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Daily testing can keep pupils in school, study suggests]]></title>
-            <description><![CDATA[A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57930214</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57930214</guid>
-            <pubDate>Fri, 23 Jul 2021 11:53:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
             <description><![CDATA[Concerns have been raised about vaccine uptake among younger adults, but are they less likely to want a jab? Here, we examine the statistics.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57915106</link>
@@ -147,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57076243</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57076243</guid>
             <pubDate>Tue, 15 Jun 2021 14:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mystery orcas spotted in Scotland found in Norway]]></title>
+            <description><![CDATA[The pod of six killer whales photographed in a Norwegian fjord were last spotted off Vatersay in 2018.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57934989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57934989</guid>
+            <pubDate>Fri, 23 Jul 2021 05:09:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why are Scotland's emergency departments so busy?]]></title>
