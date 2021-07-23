@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 23:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 23:42:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,11 @@
             <pubDate>Fri, 23 Jul 2021 21:04:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US fires: Inside a US fire truck driving through a wildfire]]></title>
-            <description><![CDATA[As burning ash pelts their vehicle, video shows firefighters in California drive through the flames.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57943338</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57943338</guid>
-            <pubDate>Fri, 23 Jul 2021 11:13:24 GMT</pubDate>
+            <title><![CDATA[Tips from the Netherlands on how to build a nation of cyclists]]></title>
+            <description><![CDATA[Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57944428</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57944428</guid>
+            <pubDate>Fri, 23 Jul 2021 23:01:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Angelina Jolie wins appeal to remove judge from Brad Pitt divorce case]]></title>
@@ -100,6 +100,34 @@
             <pubDate>Fri, 23 Jul 2021 15:45:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[DRC volcano: Reuniting children with families after the eruption]]></title>
+            <description><![CDATA[Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57947193</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57947193</guid>
+            <pubDate>Fri, 23 Jul 2021 23:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia's Tigray crisis: What's stopping aid getting in?]]></title>
+            <description><![CDATA[A renewed surge in fighting has made it ever more difficult for aid to reach areas in desperate need.]]></description>
+            <link>https://www.bbc.co.uk/news/57929853</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/57929853</guid>
+            <pubDate>Fri, 23 Jul 2021 23:30:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccines: Why a giant plastic bag shortage is slowing the rollout]]></title>
+            <description><![CDATA[A look at the critical vaccine components in short supply, as a new global marketplace is launched to tackle bottlenecks.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57024322</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57024322</guid>
+            <pubDate>Fri, 23 Jul 2021 23:33:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is the Great Barrier Reef in trouble? A simple guide]]></title>
+            <description><![CDATA[Australia's natural wonder faces a battle to survive - here's a simple guide.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57938858</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57938858</guid>
+            <pubDate>Fri, 23 Jul 2021 11:27:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus: Was US money used to fund risky research in China?]]></title>
             <description><![CDATA[What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?]]></description>
             <link>https://www.bbc.co.uk/news/57932699</link>
@@ -114,46 +142,25 @@
             <pubDate>Thu, 22 Jul 2021 23:20:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[1991 reforms: The year that transformed India]]></title>
+            <description><![CDATA[The BBC looks back at the pivotal moment when India's economy changed forever.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57939341</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57939341</guid>
+            <pubDate>Fri, 23 Jul 2021 23:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US fires: Inside a US fire truck driving through a wildfire]]></title>
+            <description><![CDATA[As burning ash pelts their vehicle, video shows firefighters in California drive through the flames.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57943338</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57943338</guid>
+            <pubDate>Fri, 23 Jul 2021 11:13:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sundarbans: Why the world’s largest mangrove forest is sinking]]></title>
             <description><![CDATA[The low-lying islands are being battered by violent storms, rising sea levels, and melting ice from the Himalayas.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57929463</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57929463</guid>
             <pubDate>Thu, 22 Jul 2021 23:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The cost of hosting the Olympics]]></title>
-            <description><![CDATA[Holding the world's biggest sporting event comes with a hefty price tag]]></description>
-            <link>https://www.bbc.co.uk/news/57919584</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57919584</guid>
-            <pubDate>Thu, 22 Jul 2021 23:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethiopia Tigray crisis: New front opens as aid fears grow]]></title>
-            <description><![CDATA[A bloody eight-month battle for control of the Tigray region spills over into neighbouring Afar.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57926832</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57926832</guid>
-            <pubDate>Thu, 22 Jul 2021 17:59:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI advance could transform battle against disease]]></title>
-            <description><![CDATA[A program has been used to predict the structures of nearly every protein in the human body.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57929095</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57929095</guid>
-            <pubDate>Thu, 22 Jul 2021 15:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tips from the Netherlands on how to build a nation of cyclists]]></title>
-            <description><![CDATA[Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57944428</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57944428</guid>
-            <pubDate>Fri, 23 Jul 2021 23:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DRC volcano: Reuniting children with families after the eruption]]></title>
-            <description><![CDATA[Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57947193</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57947193</guid>
-            <pubDate>Fri, 23 Jul 2021 23:00:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The refugee athlete who lost his mum to Covid]]></title>
@@ -163,18 +170,11 @@
             <pubDate>Thu, 22 Jul 2021 23:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tusker Rock's shipwrecks graveyard captured in art project]]></title>
-            <description><![CDATA[Photographer Peter Britton wants his project to stand as a legacy to those lost to Tusker Rock.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57918489</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57918489</guid>
-            <pubDate>Fri, 23 Jul 2021 05:13:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 12-year-old becoming Tokyo's youngest Olympian]]></title>
-            <description><![CDATA[Hend Zaza from Syria reveals her inspiration for getting into table tennis at such a young age.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57925985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57925985</guid>
-            <pubDate>Thu, 22 Jul 2021 14:02:32 GMT</pubDate>
+            <title><![CDATA[The cost of hosting the Olympics]]></title>
+            <description><![CDATA[Holding the world's biggest sporting event comes with a hefty price tag]]></description>
+            <link>https://www.bbc.co.uk/news/57919584</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/57919584</guid>
+            <pubDate>Thu, 22 Jul 2021 23:00:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Is the USA 'Dream Team' era coming to an end?]]></title>

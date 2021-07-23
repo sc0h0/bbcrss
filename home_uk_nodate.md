@@ -3,9 +3,9 @@
 3. [Cold case cracked with smallest ever amount of DNA](https://www.bbc.co.uk/news/world-us-canada-57947785) - Just 15 cells' worth of DNA was used to track down the man suspected of killing a US girl in 1989.
 4. [Met Office storm warning for campsites and caravans](https://www.bbc.co.uk/news/uk-57945502) - Thunderstorms and 55mph gusts of wind could disrupt the plans of holidaymakers, the Met Office says.
 5. [Concern mounts for missing 11-year-old schoolgirl from Bolton](https://www.bbc.co.uk/news/uk-england-manchester-57950115) - The parents of Fatuma Kadir, who travelled from Manchester to London by train, say they are in "shock".
-6. [Covid: Gareth Southgate urges young people to have jab](https://www.bbc.co.uk/news/uk-57950059) - The England manager says vaccination is a chance for them to "get your freedom back".
-7. [Covid: Double-jabbed students denied quarantine exemption](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57941652) - Three St Andrews University friends all received their first dose in England and their second in Scotland.
-8. [Jeff Bezos and Sir Richard Branson not yet astronauts, US says](https://www.bbc.co.uk/news/world-us-canada-57950149) - The US government has tightened rules on which space-goers can claim their astronaut wings.
+6. [Jeff Bezos and Sir Richard Branson not yet astronauts, US says](https://www.bbc.co.uk/news/world-us-canada-57950149) - The US government has tightened rules on which space-goers can claim their astronaut wings.
+7. [Covid: Gareth Southgate urges young people to have jab](https://www.bbc.co.uk/news/uk-57950059) - The England manager says vaccination is a chance for them to "get your freedom back".
+8. [Covid: Double-jabbed students denied quarantine exemption](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57941652) - Three St Andrews University friends all received their first dose in England and their second in Scotland.
 9. [German TV apologises for smearing mud on clothes at flood site](https://www.bbc.co.uk/news/world-europe-57946430) - A video showed Susanna Ohlen rubbing herself with dirt before broadcasting from a flood-hit town.
 10. [Wales boss Ryan Giggs denies assaulting ex-girlfriend](https://www.bbc.co.uk/news/uk-wales-57939707) - He allegedly used controlling behaviour, including kicking his ex-girlfriend out of his hotel room naked.
 11. [China imposes sanctions on US officials](https://www.bbc.co.uk/news/world-asia-china-57950720) - The sanctions are in response to recent US sanctions on Chinese officials in Hong Kong.
