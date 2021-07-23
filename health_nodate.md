@@ -1,5 +1,5 @@
 1. [Covid infections around the UK continue to rise](https://www.bbc.co.uk/news/health-57942217) - Cases continue to increase, with more rises possible once the impact of easing restrictions kicks in.
-2. [Daily contact testing in schools cuts absences, study finds](https://www.bbc.co.uk/news/health-57930214) - A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.
+2. [Daily testing can keep pupils in school, study suggests](https://www.bbc.co.uk/news/health-57930214) - A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.
 3. [AI breakthrough could spark medical revolution](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
 4. [Covid vaccine: Eight-week gap seen as sweet spot for Pfizer jab antibodies](https://www.bbc.co.uk/news/health-57929953) - Spacing out doses boosts antibody levels, say researchers - who suggest eight weeks as the "sweet spot".
 5. [Child winter respiratory illness on rise in summer](https://www.bbc.co.uk/news/health-57908561) - Parents are warned to look out for signs of RSV, after lockdown disrupted its normal winter spread.

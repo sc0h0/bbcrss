@@ -1,4 +1,4 @@
-1. [Daily contact testing in schools cuts absences, study finds](https://www.bbc.co.uk/news/health-57930214) - A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.
+1. [Daily testing can keep pupils in school, study suggests](https://www.bbc.co.uk/news/health-57930214) - A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.
 2. ['Ghost school' with no students for a second year](https://www.bbc.co.uk/news/education-57892935) - English language schools warn they are on the "brink of collapse" after two summers without students.
 3. [Students offered cash to defer medical degree](https://www.bbc.co.uk/news/education-57908436) - Applicants offered free accommodation and £10,000 cash by Exeter University to defer until 2022.
 4. [Almost a quarter of England's pupils out of school](https://www.bbc.co.uk/news/education-57901993) - The "pingdemic" continues to affect schools and families with nearly 25% absent as the term ends.
