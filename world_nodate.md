@@ -1,7 +1,7 @@
 1. [How this will be an Olympics like no other](https://www.bbc.co.uk/sport/olympics/57865245) - With the opening ceremony set for Friday, BBC Sport previews the Tokyo 2020 Olympics - a Games like no other.
 2. [Covid vaccine: Eight-week gap seen as sweet spot for Pfizer jab antibodies](https://www.bbc.co.uk/news/health-57929953) - Spacing out doses boosts antibody levels, say researchers - who suggest eight weeks as the "sweet spot".
 3. [China floods: Henan mother dies after saving baby from mudslide](https://www.bbc.co.uk/news/world-asia-china-57897474) - Rescuers believe she had flung her daughter to safety just as their home in Henan was hit.
-4. [Tibet: China's President Xi Jinping makes visit to troubled region](https://www.bbc.co.uk/news/world-asia-china-57941893) - Xi Jinping is the first Chinese leader in 30 years to make an official trip to the troubled region.
+4. [Chinese president Xi Jinping visits troubled region of Tibet](https://www.bbc.co.uk/news/world-asia-china-57941893) - Xi Jinping is the first Chinese leader in 30 years to make an official trip to the troubled region.
 5. [Man rescued in Alaska after week-long bear attack ordeal](https://www.bbc.co.uk/news/world-us-canada-57939501) - US Coast Guard officials spotted an SOS sign on a remote shack where the man had been staying.
 6. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
 7. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
