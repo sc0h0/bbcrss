@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 14:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 14:37:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/technology-57941625</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57941625</guid>
             <pubDate>Fri, 23 Jul 2021 13:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ransomware key to unlock customer data from REvil attack]]></title>
+            <description><![CDATA[The gang behind the attack had previously asked for $70m to access the stolen files.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57946117</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57946117</guid>
+            <pubDate>Fri, 23 Jul 2021 14:31:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AI breakthrough could spark medical revolution]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/technology-57929543</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929543</guid>
             <pubDate>Thu, 22 Jul 2021 14:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mike Lynch: UK extradition treaty doesn't rely on any facts]]></title>
-            <description><![CDATA[Autonomy's founder, Mike Lynch, says he will fight the US authorities' bid to try him for fraud.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57933718</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57933718</guid>
-            <pubDate>Thu, 22 Jul 2021 23:23:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cyber-flashing: 'I get explicit messages every day']]></title>
