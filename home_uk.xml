@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 16:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 16:47:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,18 @@
             <pubDate>Fri, 23 Jul 2021 15:02:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid infections around the UK continue to rise]]></title>
-            <description><![CDATA[Cases continue to increase, with more rises possible once the impact of easing restrictions kicks in.]]></description>
+            <title><![CDATA[Daily Covid cases down for fourth day in UK]]></title>
+            <description><![CDATA[New infections are down but it is too soon to say if cases have peaked, say experts.]]></description>
             <link>https://www.bbc.co.uk/news/health-57942217</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57942217</guid>
-            <pubDate>Fri, 23 Jul 2021 13:01:04 GMT</pubDate>
+            <pubDate>Fri, 23 Jul 2021 16:28:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: One in 80 has Covid, and an Olympic opening ceremony like no other]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57946077</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57946077</guid>
+            <pubDate>Fri, 23 Jul 2021 16:41:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wales boss Ryan Giggs denies assaulting ex-girlfriend]]></title>
@@ -42,6 +49,20 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57941652</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57941652</guid>
             <pubDate>Fri, 23 Jul 2021 14:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Met Office storm warning for campsites and caravans]]></title>
+            <description><![CDATA[Thunderstorms and 55mph gusts of wind could disrupt the plans of holidaymakers, the Met Office says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57945502</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57945502</guid>
+            <pubDate>Fri, 23 Jul 2021 16:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German TV apologises for smearing mud on clothes at flood site]]></title>
+            <description><![CDATA[A video showed Susanna Ohlen rubbing herself with dirt before broadcasting from a flood-hit town.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57946430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57946430</guid>
+            <pubDate>Fri, 23 Jul 2021 16:01:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US fires: Inside a US fire truck driving through a wildfire]]></title>
@@ -65,13 +86,6 @@
             <pubDate>Fri, 23 Jul 2021 09:39:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jadon Sancho: England winger completes £73m move to Manchester United from Borussia Dortmund]]></title>
-            <description><![CDATA[England winger Jadon Sancho completes his £73m move to Manchester United from Borussia Dortmund.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57827831</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57827831</guid>
-            <pubDate>Fri, 23 Jul 2021 12:45:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Soldier found dead in barracks at Larkhill, Salisbury]]></title>
             <description><![CDATA[The Ministry of Defence says it is investigating the circumstances surrounding her death.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</link>
@@ -84,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/technology-57946117</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57946117</guid>
             <pubDate>Fri, 23 Jul 2021 14:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Printer ink pricier than champagne finds Which?]]></title>
-            <description><![CDATA[According to a Which survey a pint of printer ink could cost up to £1,300.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57941625</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57941625</guid>
-            <pubDate>Fri, 23 Jul 2021 13:04:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Simpson: Good Morning Britain hosts apologise after swearing]]></title>
@@ -119,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57918489</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57918489</guid>
             <pubDate>Fri, 23 Jul 2021 05:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sundarbans: Why the world’s largest mangrove forest is sinking]]></title>
+            <description><![CDATA[The low-lying islands are being battered by violent storms, rising sea levels, and melting ice from the Himalayas.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57929463</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57929463</guid>
+            <pubDate>Thu, 22 Jul 2021 23:00:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mystery orcas spotted in Scotland found in Norway]]></title>
@@ -161,27 +175,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-57927801</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57927801</guid>
             <pubDate>Thu, 22 Jul 2021 16:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: I beat an Olympian... when I was younger]]></title>
-            <description><![CDATA[Radio 1 Newsbeat speaks to people who can boast they once beat some of the current Team GB.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57919563</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57919563</guid>
-            <pubDate>Thu, 22 Jul 2021 10:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fashion for Crocs continues to break records]]></title>
-            <description><![CDATA[The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57935256</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57935256</guid>
-            <pubDate>Fri, 23 Jul 2021 10:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dawn Butler thrown out of Commons for PM lie accusation]]></title>
-            <description><![CDATA[Dawn Butler breaks parliamentary rules by accusing Boris Johnson of lying.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57927398</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57927398</guid>
-            <pubDate>Fri, 23 Jul 2021 08:17:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change, a coalmine and a town that needs jobs]]></title>
@@ -275,6 +268,13 @@
             <pubDate>Thu, 22 Jul 2021 15:35:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jadon Sancho: England winger completes £73m move to Manchester United from Borussia Dortmund]]></title>
+            <description><![CDATA[England winger Jadon Sancho completes his £73m move to Manchester United from Borussia Dortmund.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57827831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57827831</guid>
+            <pubDate>Fri, 23 Jul 2021 12:45:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A year late and with a pandemic still raging, these Olympics will be a Games like no other]]></title>
             <description><![CDATA[With the opening ceremony set for Friday, BBC Sport previews the Tokyo 2020 Olympics - a Games like no other.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57865245</link>
@@ -289,11 +289,11 @@
             <pubDate>Fri, 23 Jul 2021 14:19:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Naomi Osaka lights the Olympic flame to start Tokyo 2020]]></title>
-            <description><![CDATA[Watch as tennis star Naomi Osaka lights the Olympic flame to get the Tokyo 2020 Olympics under way.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57947138</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57947138</guid>
-            <pubDate>Fri, 23 Jul 2021 15:13:40 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Watch best opening ceremony moments in two minutes]]></title>
+            <description><![CDATA[Watch all the best bits from the Tokyo 2020 opening ceremony - including the best of the athletes' entrances and the lighting of the iconic Olympic flame by Naomi Osaka.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57947141</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57947141</guid>
+            <pubDate>Fri, 23 Jul 2021 16:31:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Hundred - Birmingham Phoenix v London Spirit: Freya Davies slower ball dismisses Shafali Verma]]></title>
@@ -303,11 +303,11 @@
             <pubDate>Fri, 23 Jul 2021 15:08:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brentford sign England youth international Peart-Harris from Chelsea]]></title>
-            <description><![CDATA[Brentford complete the signing of England youth international Myles Peart-Harris from Chelsea on a four-year contract.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57946017</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57946017</guid>
-            <pubDate>Fri, 23 Jul 2021 13:46:26 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Naomi Osaka lights the Olympic flame to start Tokyo 2020]]></title>
+            <description><![CDATA[Watch as tennis star Naomi Osaka lights the Olympic flame to get the Tokyo 2020 Olympics under way.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57947138</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57947138</guid>
+            <pubDate>Fri, 23 Jul 2021 15:13:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['What a sight!' - Drones light up above Olympic stadium]]></title>
@@ -440,7 +440,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Thu, 22 Jul 2021 16:34:30 GMT</pubDate>
+            <pubDate>Fri, 23 Jul 2021 16:31:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid symptoms: Is it a cold or coronavirus?]]></title>

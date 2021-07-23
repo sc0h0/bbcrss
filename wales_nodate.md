@@ -1,10 +1,10 @@
 1. [Wales boss Ryan Giggs denies assaulting ex-girlfriend](https://www.bbc.co.uk/news/uk-wales-57939707) - He allegedly used controlling behaviour, including kicking his ex-girlfriend out of his hotel room naked.
 2. [Pontyclun crash: Three in hospital after car hits people outside pub](https://www.bbc.co.uk/news/uk-wales-57934076) - Police believe the driver of the car suffered a "medical episode" just before the crash.
-3. [Gwynedd man killed himself after paying romance scammers](https://www.bbc.co.uk/news/uk-wales-57935467) - Chris Leeds was speaking online to women who began asking him for money, an inquest heard.
+3. [Gwynedd man killed himself after paying romance scammers](https://www.bbc.co.uk/news/uk-wales-57935467) - "Gentle soul" Chris Leeds was found dead after parting with thousands of pounds, an inquest hears.
 4. [Racism probe as 'bananas thrown at Cardiff City academy players'](https://www.bbc.co.uk/news/uk-wales-57934499) - Probe as former Cardiff City youth team footballer says he and a team-mate were racially abused.
-5. [Covid: Wizz Air postpones Cardiff Airport launch](https://www.bbc.co.uk/news/uk-wales-57944339) - The budget airline delays its Cardiff launch until 2022 "due to ongoing coronavirus restrictions".
+5. [Wales weather warning: Thunderstorms set to replace heatwave](https://www.bbc.co.uk/news/uk-wales-57929643) - A yellow warning for rain covers large parts of of Wales, replacing first-ever amber heat warning.
 6. [Briton Ferry bin lorry 'taken and crashed' as crew took break](https://www.bbc.co.uk/news/uk-wales-57941011) - Police are investigating reports three people took the lorry before it crashed into a wall.
-7. [Wales weather warning: Thunderstorms set to replace heatwave](https://www.bbc.co.uk/news/uk-wales-57929643) - A yellow warning for rain covers large parts of of Wales, replacing first-ever amber heat warning.
+7. [Covid: Wizz Air postpones Cardiff Airport launch](https://www.bbc.co.uk/news/uk-wales-57944339) - The budget airline delays its Cardiff launch until 2022 "due to ongoing coronavirus restrictions".
 8. [Tusker Rock's shipwrecks graveyard captured in art project](https://www.bbc.co.uk/news/uk-wales-57918489) - Photographer Peter Britton wants his project to stand as a legacy to those lost to Tusker Rock.
 9. [Pollution: 'Bring houses down' plea for most polluted street](https://www.bbc.co.uk/news/uk-wales-57935458) - Homes on Hafodyrynys were supposed to be demolished - but are still standing and being ransacked.
 10. [Geraint Thomas backs bid to save cycling track](https://www.bbc.co.uk/sport/cycling/57939521) - Tour de France 2018 champion Geraint Thomas urges people to oppose plans to demolish the track where he started cycling.

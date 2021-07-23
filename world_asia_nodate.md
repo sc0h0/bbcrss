@@ -1,5 +1,5 @@
 1. [Why is the Great Barrier Reef in trouble? A simple guide](https://www.bbc.co.uk/news/world-australia-57938858) - Australia's natural wonder faces a battle to survive - here's a simple guide.
-2. [Chinese President becomes first to visit Tibet in 30 years](https://www.bbc.co.uk/news/world-asia-china-57941893) - Xi Jinping is the first Chinese leader in 30 years to make an official trip to the troubled region.
+2. [First Chinese presidential visit to Tibet in 30 years](https://www.bbc.co.uk/news/world-asia-china-57941893) - Xi Jinping is the first Chinese leader in 30 years to make an official trip to the troubled region.
 3. [Afghanistan: ‘Taliban gains are not irreversible’](https://www.bbc.co.uk/news/world-asia-57940851) - We are working to retake strategic locations, the country’s national security adviser says.
 4. [India monsoon: 36 dead after landslides in Maharashtra](https://www.bbc.co.uk/news/world-asia-india-57938839) - Rescuers have been recovering bodies from under debris but more people are feared missing.
 5. [China floods: Henan mother dies after saving baby from mudslide](https://www.bbc.co.uk/news/world-asia-china-57897474) - Rescuers believe she had flung her daughter to safety just as their home in Henan was hit.
