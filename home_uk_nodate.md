@@ -1,4 +1,4 @@
-1. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry move to daily testing after isolating workers led to supply shortages.
+1. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
 2. [Omagh bomb: 'Real prospect attack could have been prevented'](https://www.bbc.co.uk/news/uk-northern-ireland-57937174) - A judge also calls for new investigations into the Real IRA attack which killed 29 people.
 3. [People splash out on food and drink for Euro 2020](https://www.bbc.co.uk/news/business-57939140) - Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.
 4. [Sarm Heslop: Missing woman's parents still have hope](https://www.bbc.co.uk/news/uk-england-hampshire-57911889) - Four months after she vanished, it is still not known what happened to Sarm Heslop.
@@ -38,10 +38,10 @@
 38. [Parents' fears over sexting and abuse among teenagers](https://www.bbc.co.uk/news/education-57599347) - A mother and a father reveal their shock at learning of their children's experiences of online sex.
 39. [Coronavirus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?
 40. [Tokyo Olympics: Japanese artists reimagine countries as anime samurai](https://www.bbc.co.uk/news/world-asia-57911348) - The creators have used the flags of competing nations as inspiration to design Japanese warriors.
-41. [Tokyo 2020: Katarina Johnson-Thompson's battles with injury & self-doubt in pursuit of Olympic gold](https://www.bbc.co.uk/sport/olympics/57901791) - How Katarina Johnson-Thompson tore up everything to claim world gold and will have to upset the odds once more to win in Tokyo.
-42. [What does a future-proofed home look like?](https://www.bbc.co.uk/news/business-57738681) - The technology exists to make homes more resilient to extreme weather, but it can be expensive.
-43. [Amy Winehouse: Could there be new music on the way?](https://www.bbc.co.uk/news/entertainment-arts-57926362) - Ten years after her death, Amy's parents say they want fans to hear CDs of her unreleased material.
-44. [Trading sex for cosmetic surgery in Mexico's narco capital](https://www.bbc.co.uk/news/stories-57932216) - The influence of narcos has caused many women to undergo cosmetic surgery in Mexico's Sinaloa state.
+41. [Trading sex for cosmetic surgery in Mexico's narco capital](https://www.bbc.co.uk/news/stories-57932216) - The influence of narcos has caused many women to undergo cosmetic surgery in Mexico's Sinaloa state.
+42. [Tokyo 2020: Katarina Johnson-Thompson's battles with injury & self-doubt in pursuit of Olympic gold](https://www.bbc.co.uk/sport/olympics/57901791) - How Katarina Johnson-Thompson tore up everything to claim world gold and will have to upset the odds once more to win in Tokyo.
+43. [What does a future-proofed home look like?](https://www.bbc.co.uk/news/business-57738681) - The technology exists to make homes more resilient to extreme weather, but it can be expensive.
+44. [Amy Winehouse: Could there be new music on the way?](https://www.bbc.co.uk/news/entertainment-arts-57926362) - Ten years after her death, Amy's parents say they want fans to hear CDs of her unreleased material.
 45. ['I thought rape isn't something that happens to men'](https://www.bbc.co.uk/news/uk-england-57892684) - Support charities say male victims of sexual assault sometimes feel their experiences don't count.
 46. [Eating disorders: The terrible impact of the pandemic on the young](https://www.bbc.co.uk/news/health-57908556) - Admissions soared during the pandemic, and NHS bosses warn they are running out of beds.
 47. [Post Office scandal: What the Horizon saga is all about](https://www.bbc.co.uk/news/business-56718036) - The background to the cases of sub-postmasters whose convictions were based on evidence from faulty IT.

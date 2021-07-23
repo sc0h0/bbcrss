@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 10:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 11:13:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,7 +24,7 @@
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Double-jabbed students denied quarantine exemption]]></title>
-            <description><![CDATA[The St Andrews University friends all received their first dose in England and their second in Scotland.]]></description>
+            <description><![CDATA[St Andrews University friends all received their first dose in England and their second in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57941652</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57941652</guid>
             <pubDate>Fri, 23 Jul 2021 10:43:30 GMT</pubDate>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57924025</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57924025</guid>
             <pubDate>Fri, 23 Jul 2021 06:56:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man jailed for sex with underage girls in Aberdeen]]></title>
+            <description><![CDATA[A judge rejected a plea to spare the 23-year-old a jail sentence following his crimes in Aberdeen.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57942458</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57942458</guid>
+            <pubDate>Fri, 23 Jul 2021 11:10:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daily contact testing in schools cuts absences, study finds]]></title>

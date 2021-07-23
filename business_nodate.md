@@ -1,16 +1,16 @@
-1. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry move to daily testing after isolating workers led to supply shortages.
-2. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
-3. [People splash out on food and drink for Euro 2020](https://www.bbc.co.uk/news/business-57939140) - Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.
-4. [Rural vacuum for getting hold of cash](https://www.bbc.co.uk/news/business-57941001) - People living in rural areas have less chance of withdrawing or depositing cash nearby, research finds.
-5. [Road planners able to ignore climate change, campaigners claim](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.
+1. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
+2. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
+3. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
+4. [People splash out on food and drink for Euro 2020](https://www.bbc.co.uk/news/business-57939140) - Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.
+5. [Rural vacuum for getting hold of cash](https://www.bbc.co.uk/news/business-57941001) - People living in rural areas have less chance of withdrawing or depositing cash nearby, research finds.
 6. [India Zomato: Shares of food delivery app soar 80% on market debut](https://www.bbc.co.uk/news/business-57938217) - The firm's stock exchange listing sets the pace for other start-ups that are thriving in the pandemic.
-7. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
-8. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
-9. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
-10. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Autonomy's founder, Mike Lynch, says he will fight the US authorities' bid to try him for fraud.
-11. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - The Co-op says that supplies of soft drinks, beer and deodorant have been affected.
-12. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
-13. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
+7. [Road planners able to ignore climate change, campaigners claim](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.
+8. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
+9. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
+10. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
+11. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Autonomy's founder, Mike Lynch, says he will fight the US authorities' bid to try him for fraud.
+12. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - The Co-op says that supplies of soft drinks, beer and deodorant have been affected.
+13. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
 14. [Inflation spike temporary, says BoE deputy governor](https://www.bbc.co.uk/news/business-57922199) - The recent pick up in price rises is not expected to last, says Bank of England deputy Ben Broadbent.
 15. [How global conferences are using tech to stay in business](https://www.bbc.co.uk/news/business-57817807) - Moving events online kept the industry going during the pandemic and now they're here to stay.
 16. [Heatwave: The worst jobs to have as temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
