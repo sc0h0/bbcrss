@@ -1,4 +1,4 @@
-1. [Covid: Food exemption scheme delayed until Monday](https://www.bbc.co.uk/news/business-57937342) - Fri, 23 Jul 2021 17:47:25 GMT - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
+1. [Covid: Food exemption scheme delayed until Monday](https://www.bbc.co.uk/news/business-57937342) - Fri, 23 Jul 2021 21:42:49 GMT - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
 2. [Covid: New testing plan will not work, warn firms](https://www.bbc.co.uk/news/business-57945229) - Fri, 23 Jul 2021 17:40:43 GMT - Industry body, the CBI, criticises government plans that allow some key staff to bypass the NHS Covid app.
 3. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Fri, 23 Jul 2021 12:39:04 GMT - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
 4. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Fri, 23 Jul 2021 09:39:21 GMT - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
