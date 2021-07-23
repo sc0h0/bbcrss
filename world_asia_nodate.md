@@ -1,6 +1,6 @@
 1. [Raj Kundra: Indian millionaire embroiled in porn scandal](https://www.bbc.co.uk/news/world-asia-india-57897783) - Raj Kundra, husband of Bollywood star Shilpa Shetty, has been accused of running a porn production ring.
 2. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
-3. [Indonesia: Covid-positive man disguised as wife boards flight](https://www.bbc.co.uk/news/world-asia-57938542) - He may never have been caught if he had not changed into his regular clothes midway through the flight.
+3. [Indonesia: Covid-positive man boards flight disguised as wife](https://www.bbc.co.uk/news/world-asia-57938542) - He may never have been caught if he had not changed into his regular clothes midway through the flight.
 4. [Olympics opening ceremony director sacked for Holocaust joke](https://www.bbc.co.uk/news/world-asia-57924885) - The decision to remove Kentaro Kobayashi comes a day before the opening show is due to be held.
 5. [Coronavirus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?
 6. [Covid: China rejects WHO plan for second phase of virus origin probe](https://www.bbc.co.uk/news/world-asia-china-57926368) - China says a proposal to audit labs shows "disrespect to common sense and arrogance towards science".
