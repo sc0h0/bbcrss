@@ -1,4 +1,4 @@
-1. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Fri, 23 Jul 2021 11:37:01 GMT - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
+1. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Fri, 23 Jul 2021 12:39:04 GMT - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
 2. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Fri, 23 Jul 2021 12:20:40 GMT - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
 3. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Fri, 23 Jul 2021 09:39:21 GMT - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
 4. [People splash out on food and drink for Euro 2020](https://www.bbc.co.uk/news/business-57939140) - Fri, 23 Jul 2021 09:12:53 GMT - Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 12:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 12:56:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,7 +23,7 @@
             <pubDate>Fri, 23 Jul 2021 11:30:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Omagh bombing: Reaction to High Court ruling]]></title>
+            <title><![CDATA[Omagh ruling: Victims' families and politicians react]]></title>
             <description><![CDATA[Victims' families and politicians respond to the judgement in case linked to Real IRA attack.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57940348</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57940348</guid>
@@ -44,6 +44,13 @@
             <pubDate>Fri, 23 Jul 2021 09:24:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dankse Bank in Northern Ireland makes £38m pre-tax profit]]></title>
+            <description><![CDATA[The figure is a major recovery for the bank compared to the £3m profit in the same period of 2020]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57943450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57943450</guid>
+            <pubDate>Fri, 23 Jul 2021 12:44:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lough Sheelin: Teenager pulled from water dies in hospital]]></title>
             <description><![CDATA[The teenager was the fifth person to die in lakes on the island of Ireland in the last week.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57940577</link>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57932457</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57932457</guid>
             <pubDate>Fri, 23 Jul 2021 07:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Concussion: Father calls for mandatory brain injury lessons]]></title>
-            <description><![CDATA[A father of a 14-year-old who died after a school rugby match says dangers must be highlighted.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57930988</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57930988</guid>
-            <pubDate>Fri, 23 Jul 2021 05:51:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Philip Doyle and Hannah Scott into repechage]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Fri, 16 Jul 2021 05:36:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Concussion: Father calls for mandatory brain injury lessons]]></title>
+            <description><![CDATA[A father of a 14-year-old who died after a school rugby match says dangers must be highlighted.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57930988</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57930988</guid>
+            <pubDate>Fri, 23 Jul 2021 05:51:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reimagining Northern Ireland's cities after lockdown]]></title>
             <description><![CDATA[Developments like parklets reflect the permanent ways the pandemic is changing our spaces.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57930985</link>
@@ -163,25 +170,18 @@
             <pubDate>Thu, 22 Jul 2021 06:31:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is NI's marathon success by accident or design?]]></title>
-            <description><![CDATA[Stephen Scullion, Kevin Seaward and Paul Pollock will form an entirely Northern Irish line-up in Ireland's Olympic men's marathon challenge.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/57702247</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57702247</guid>
-            <pubDate>Thu, 22 Jul 2021 06:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extreme heat: NI records hottest day ever for second time in week]]></title>
-            <description><![CDATA[The thermometer hit 31.3C in Castlederg on Wednesday, says the Met Office.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57920672</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57920672</guid>
-            <pubDate>Wed, 21 Jul 2021 16:57:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Heatwaves: What do they do to the body and who is at risk?]]></title>
             <description><![CDATA[What impact do high temperatures have on our bodies?]]></description>
             <link>https://www.bbc.co.uk/news/health-49112807</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-49112807</guid>
             <pubDate>Tue, 20 Jul 2021 17:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is NI's marathon success by accident or design?]]></title>
+            <description><![CDATA[Stephen Scullion, Kevin Seaward and Paul Pollock will form an entirely Northern Irish line-up in Ireland's Olympic men's marathon challenge.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/57702247</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57702247</guid>
+            <pubDate>Thu, 22 Jul 2021 06:32:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Rhys McClenaghan takes inspiration from Mary Peters on Olympic journey]]></title>
