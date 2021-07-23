@@ -19,7 +19,7 @@
 19. [Marr on catching Covid after being double vaccinated](https://www.bbc.co.uk/news/health-57640550) - The BBC's Andrew Marr fell ill with Covid-19, despite being vaccinated twice.
 20. [Your questions about vaccines and periods answered](https://www.bbc.co.uk/news/newsbeat-57616063) - Find out what experts believe the short and long term effects of a covid jab will be on your period.
 21. [Long Covid: 'I've blood clots, a braced leg and damaged heart... but I'm home'](https://www.bbc.co.uk/news/uk-57569540) - For three months, Bill Wilson lived a nightmare, trapped behind a plastic facemask fighting Covid.
-22. [Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
+22. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
 23. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
 24. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
 25. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?

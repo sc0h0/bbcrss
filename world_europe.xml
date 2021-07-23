@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 10:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 10:30:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Thu, 22 Jul 2021 22:03:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Extreme heat & humidity at Games as Russian archer faints]]></title>
+            <description><![CDATA[A Russian archer faints during Olympic qualifying as intense heat in Tokyo is in the spotlight just hours before the Games officially open.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57940257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57940257</guid>
+            <pubDate>Fri, 23 Jul 2021 10:01:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pegasus spyware: French President Macron changes phone after hack reports]]></title>
             <description><![CDATA[Mr Macron was one of several world leaders reportedly targeted by NSO Group's Pegasus spyware.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57937867</link>
@@ -44,18 +51,11 @@
             <pubDate>Thu, 22 Jul 2021 19:57:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo 2020 men's football: Richarlison inspires Brazil, Spain held by Egypt, Wood makes history for NZ]]></title>
+            <title><![CDATA[Olympic football: Richarlison inspires Brazil as Spain falter]]></title>
             <description><![CDATA[Richarlison's first-half hat-trick inspires Brazil to a 4-2 win over Germany despite a second-half wobble, as Spain are held by Egypt.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57926170</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57926170</guid>
             <pubDate>Thu, 22 Jul 2021 13:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nord Stream 2: US and Germany reach deal on controversial Russian gas pipeline]]></title>
-            <description><![CDATA[The US says the agreement prevents Russia from using the pipeline as a political weapon over Europe.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57923655</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57923655</guid>
-            <pubDate>Wed, 21 Jul 2021 21:37:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK has no idea of EU fishing catch in its waters, says Labour]]></title>
