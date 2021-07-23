@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 15:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 15:33:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Tennis star Osaka lights Olympic flame as Games begin]]></title>
+            <description><![CDATA[The Tokyo 2020 Games are officially under way as Naomi Osaka lights the Olympic flame in a poignant opening ceremony.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57929293</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57929293</guid>
+            <pubDate>Fri, 23 Jul 2021 15:02:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid infections around the UK continue to rise]]></title>
             <description><![CDATA[Cases continue to increase, with more rises possible once the impact of easing restrictions kicks in.]]></description>
@@ -30,11 +37,11 @@
             <pubDate>Fri, 23 Jul 2021 14:41:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Omagh bomb: 'Real prospect attack could have been prevented']]></title>
-            <description><![CDATA[A judge also calls for new investigations into the Real IRA attack which killed 29 people.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57937174</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57937174</guid>
-            <pubDate>Fri, 23 Jul 2021 11:30:09 GMT</pubDate>
+            <title><![CDATA[Covid: Double-jabbed students denied quarantine exemption]]></title>
+            <description><![CDATA[Three St Andrews University friends all received their first dose in England and their second in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57941652</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57941652</guid>
+            <pubDate>Fri, 23 Jul 2021 14:54:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US fires: Inside a US fire truck driving through a wildfire]]></title>
@@ -42,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57943338</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57943338</guid>
             <pubDate>Fri, 23 Jul 2021 11:13:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Omagh bomb: 'Real prospect attack could have been prevented']]></title>
+            <description><![CDATA[A judge also calls for new investigations into the Real IRA attack which killed 29 people.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57937174</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57937174</guid>
+            <pubDate>Fri, 23 Jul 2021 11:30:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Firm fined £2.6m for claiming clothes prevent Covid]]></title>
@@ -56,13 +70,6 @@
             <link>https://www.bbc.co.uk/sport/football/57827831</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57827831</guid>
             <pubDate>Fri, 23 Jul 2021 12:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greensill: Lady Heywood's anger at 'scapegoating' of late husband by inquiry]]></title>
-            <description><![CDATA[Lady Heywood calls a report on the Greensill lobbying scandal a "fabricated attack" on her late husband.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57933130</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57933130</guid>
-            <pubDate>Fri, 23 Jul 2021 14:43:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soldier found dead in barracks at Larkhill, Salisbury]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Fri, 23 Jul 2021 13:04:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man rescued in Alaska after week-long bear attack ordeal]]></title>
-            <description><![CDATA[US Coast Guard officials spotted an SOS sign on a remote shack where the man had been staying.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57939501</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57939501</guid>
-            <pubDate>Fri, 23 Jul 2021 10:08:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[John Simpson: Good Morning Britain hosts apologise after swearing]]></title>
             <description><![CDATA[Veteran foreign correspondent let the rude word slip on the ITV show shortly before 0650 BST.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57940487</link>
@@ -100,102 +100,18 @@
             <pubDate>Fri, 23 Jul 2021 09:19:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith opens up on body image & tackling racism in sport]]></title>
-            <description><![CDATA[Dina Asher-Smith opens up about life on and off the track with friend and Radio 1 DJ Clara Amfo.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57916292</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57916292</guid>
-            <pubDate>Thu, 22 Jul 2021 06:58:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Ten tear-jerking moments from the Olympics past]]></title>
-            <description><![CDATA[It isn't always the big names and blue-riband events that create all the memories. Here are 10 times the Olympics has set spines tingling and tears flowing]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57824699</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57824699</guid>
-            <pubDate>Fri, 16 Jul 2021 09:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: BBC TV schedule, radio and online coverage - times and channels]]></title>
-            <description><![CDATA[Full listings and coverage channels for the Tokyo Olympics across BBC TV, BBC iPlayer, BBC radio and online.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57822560</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57822560</guid>
-            <pubDate>Thu, 22 Jul 2021 10:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Olympic football: Men's players to watch at Tokyo 2020]]></title>
-            <description><![CDATA[Here is the lowdown on the biggest names and brightest stars looking to shine this summer in the men's Olympic football tournament.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57833180</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57833180</guid>
-            <pubDate>Wed, 21 Jul 2021 11:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Katie Archibald on her gold medal dreams & pressure]]></title>
-            <description><![CDATA[Cyclist Katie Archibald tells BBC Sport about her dreams of another gold medal and the pressure of helping Laura Kenny become Britain's best.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57874662</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57874662</guid>
-            <pubDate>Wed, 21 Jul 2021 08:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: Top 10 days for Team GB at the Olympics]]></title>
-            <description><![CDATA[BBC Sport selects the top 10 unmissable days for Team GB fans at the Tokyo 2020 Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57447260</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57447260</guid>
-            <pubDate>Mon, 19 Jul 2021 13:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics opening ceremony: Hannah Mills and rower Mohamed Sbihi to be Team GB flag bearers]]></title>
-            <description><![CDATA[Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57925326</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57925326</guid>
-            <pubDate>Thu, 22 Jul 2021 11:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: How quiet rebel Naomi Osaka is changing Japan]]></title>
-            <description><![CDATA[Naomi Osaka's relationship with Japan has not always been easy, but change rarely is. How the face of the Games is changing the host nation.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57841166</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57841166</guid>
-            <pubDate>Fri, 16 Jul 2021 08:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>
-            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
-            <pubDate>Fri, 23 Jul 2021 14:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Projected medal table, Team GB medallists and international stars to watch]]></title>
-            <description><![CDATA[Data company Gracenote forecasts the Tokyo 2020 medal table, Team GB medallists and the international stars to watch.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57888185</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57888185</guid>
-            <pubDate>Tue, 20 Jul 2021 07:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Tom Daley on triumph, trauma and his likely last shot at gold]]></title>
-            <description><![CDATA[The 'baby' of Beijing has become a father, a husband and an LGBTQ+ spokesperson. Tom Daley has perhaps one final shot at Olympic gold.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57817424</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57817424</guid>
-            <pubDate>Mon, 19 Jul 2021 23:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: What to expect in the women's football tournament]]></title>
-            <description><![CDATA[The Olympic Games are almost here so what can we expect at the women's football tournament?]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57723213</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57723213</guid>
-            <pubDate>Tue, 20 Jul 2021 05:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the new sports at the Tokyo Olympic Games?]]></title>
-            <description><![CDATA[With 34 new events in total added to the Tokyo Olympic programme, BBC Sport takes a look at what's new.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57240400</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57240400</guid>
-            <pubDate>Tue, 13 Jul 2021 05:15:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Latitude Festival: 'It's so nice to get back into the festival vibe']]></title>
             <description><![CDATA[About 40,000 people are expected at this year's Latitude Festival each day.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-57940287</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57940287</guid>
             <pubDate>Fri, 23 Jul 2021 12:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Old: Critics split on M Night Shyamalan's new thriller]]></title>
+            <description><![CDATA[Old, the new film from M Night Shyamalan, sees the characters start to age at rapid speed.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57940492</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57940492</guid>
+            <pubDate>Fri, 23 Jul 2021 14:43:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tusker Rock's shipwrecks graveyard captured in art project]]></title>
@@ -359,13 +275,6 @@
             <pubDate>Thu, 22 Jul 2021 15:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo 2020 Olympics officially open as Osaka lights flame]]></title>
-            <description><![CDATA[The Tokyo 2020 Games are officially under way as Naomi Osaka lights the Olympic flame in a poignant opening ceremony.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57929293</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57929293</guid>
-            <pubDate>Fri, 23 Jul 2021 15:02:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A year late and with a pandemic still raging, these Olympics will be a Games like no other]]></title>
             <description><![CDATA[With the opening ceremony set for Friday, BBC Sport previews the Tokyo 2020 Olympics - a Games like no other.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57865245</link>
@@ -373,18 +282,18 @@
             <pubDate>Fri, 23 Jul 2021 07:11:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Marc Skinner: Man Utd agree terms with Orlando Pride boss]]></title>
+            <title><![CDATA[Man Utd agree terms with Orlando boss Skinner to replace Stoney]]></title>
             <description><![CDATA[Manchester United women are believed to have agreed personal terms with manager Marc Skinner.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57944598</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57944598</guid>
             <pubDate>Fri, 23 Jul 2021 14:19:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Watch as the sky above Japan's Olympic stadium is illuminated by 1800 drones]]></title>
-            <description><![CDATA[Watch as the sky above Japan's Olympic stadium is illuminated by 1800 drones for the opening ceremony of the Tokyo 2020 Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57940556</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57940556</guid>
-            <pubDate>Fri, 23 Jul 2021 14:40:59 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Naomi Osaka lights the Olympic flame to start Tokyo 2020]]></title>
+            <description><![CDATA[Watch as tennis star Naomi Osaka lights the Olympic flame to get the Tokyo 2020 Olympics underway.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57947138</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57947138</guid>
+            <pubDate>Fri, 23 Jul 2021 15:13:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB enter the opening ceremony in Tokyo]]></title>
@@ -394,11 +303,116 @@
             <pubDate>Fri, 23 Jul 2021 12:59:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred - Oval Invincibles v Manchester Originals: Watch highlights of the first men's Hundred match]]></title>
-            <description><![CDATA[Watch the best moments from the opening match of the men's Hundred, as Oval Invincibles beat the Manchester Originals.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57937643</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57937643</guid>
-            <pubDate>Thu, 22 Jul 2021 21:12:13 GMT</pubDate>
+            <title><![CDATA[The Hundred: Shafali Verma bowled by Davies for 13]]></title>
+            <description><![CDATA[London Spirit's Freya Davies delivers a perfect slower ball to Shafali Verma who misses the delivery completely and is bowled for 13 at Edgbaston.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/57947135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57947135</guid>
+            <pubDate>Fri, 23 Jul 2021 15:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brentford sign England youth international Peart-Harris from Chelsea]]></title>
+            <description><![CDATA[Brentford complete the signing of England youth international Myles Peart-Harris from Chelsea on a four-year contract.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57946017</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57946017</guid>
+            <pubDate>Fri, 23 Jul 2021 13:46:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['What a sight!' - Drones light up above Olympic stadium]]></title>
+            <description><![CDATA[Watch as the sky above Japan's Olympic stadium is illuminated by 1,800 drones for the opening ceremony of the Tokyo 2020 Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57940556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57940556</guid>
+            <pubDate>Fri, 23 Jul 2021 14:40:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith opens up on body image & tackling racism in sport]]></title>
+            <description><![CDATA[Dina Asher-Smith opens up about life on and off the track with friend and Radio 1 DJ Clara Amfo.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57916292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57916292</guid>
+            <pubDate>Thu, 22 Jul 2021 06:58:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Ten tear-jerking moments from the Olympics past]]></title>
+            <description><![CDATA[It isn't always the big names and blue-riband events that create all the memories. Here are 10 times the Olympics has set spines tingling and tears flowing]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57824699</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57824699</guid>
+            <pubDate>Fri, 16 Jul 2021 09:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: BBC TV schedule, radio and online coverage - times and channels]]></title>
+            <description><![CDATA[Full listings and coverage channels for the Tokyo Olympics across BBC TV, BBC iPlayer, BBC radio and online.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57822560</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57822560</guid>
+            <pubDate>Fri, 23 Jul 2021 15:09:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olympic football: Men's players to watch at Tokyo 2020]]></title>
+            <description><![CDATA[Here is the lowdown on the biggest names and brightest stars looking to shine this summer in the men's Olympic football tournament.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57833180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57833180</guid>
+            <pubDate>Wed, 21 Jul 2021 11:24:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Katie Archibald on her gold medal dreams & pressure]]></title>
+            <description><![CDATA[Cyclist Katie Archibald tells BBC Sport about her dreams of another gold medal and the pressure of helping Laura Kenny become Britain's best.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57874662</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57874662</guid>
+            <pubDate>Wed, 21 Jul 2021 08:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: Top 10 days for Team GB at the Olympics]]></title>
+            <description><![CDATA[BBC Sport selects the top 10 unmissable days for Team GB fans at the Tokyo 2020 Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57447260</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57447260</guid>
+            <pubDate>Mon, 19 Jul 2021 13:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics opening ceremony: Hannah Mills and rower Mohamed Sbihi to be Team GB flag bearers]]></title>
+            <description><![CDATA[Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57925326</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57925326</guid>
+            <pubDate>Thu, 22 Jul 2021 11:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: How quiet rebel Naomi Osaka is changing Japan]]></title>
+            <description><![CDATA[Naomi Osaka's relationship with Japan has not always been easy, but change rarely is. How the face of the Games is changing the host nation.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57841166</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57841166</guid>
+            <pubDate>Fri, 16 Jul 2021 08:54:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>
+            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
+            <pubDate>Fri, 23 Jul 2021 14:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Projected medal table, Team GB medallists and international stars to watch]]></title>
+            <description><![CDATA[Data company Gracenote forecasts the Tokyo 2020 medal table, Team GB medallists and the international stars to watch.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57888185</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57888185</guid>
+            <pubDate>Tue, 20 Jul 2021 07:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Tom Daley on triumph, trauma and his likely last shot at gold]]></title>
+            <description><![CDATA[The 'baby' of Beijing has become a father, a husband and an LGBTQ+ spokesperson. Tom Daley has perhaps one final shot at Olympic gold.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57817424</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57817424</guid>
+            <pubDate>Mon, 19 Jul 2021 23:02:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: What to expect in the women's football tournament]]></title>
+            <description><![CDATA[The Olympic Games are almost here so what can we expect at the women's football tournament?]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57723213</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57723213</guid>
+            <pubDate>Tue, 20 Jul 2021 05:26:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the new sports at the Tokyo Olympic Games?]]></title>
+            <description><![CDATA[With 34 new events in total added to the Tokyo Olympic programme, BBC Sport takes a look at what's new.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57240400</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57240400</guid>
+            <pubDate>Tue, 13 Jul 2021 05:15:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympic Games: When are they and how will Covid affect them?]]></title>
