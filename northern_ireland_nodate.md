@@ -1,5 +1,5 @@
 1. [Omagh bomb: 'Real prospect attack could have been prevented'](https://www.bbc.co.uk/news/uk-northern-ireland-57937174) - A judge also calls for new investigations into the Real IRA attack which killed 29 people.
-2. [Omagh bombing: Politicians react to High Court ruling](https://www.bbc.co.uk/news/uk-northern-ireland-57940348) - A judge has ruled that there was a real prospect the Real IRA attack could have been stopped.
+2. [Omagh bombing: Reaction to High Court ruling](https://www.bbc.co.uk/news/uk-northern-ireland-57940348) - Victims' families and politicians respond to the judgement in case linked to Real IRA attack.
 3. [Covid-19: 'More than 60% admitted to hospital not vaccinated'](https://www.bbc.co.uk/news/uk-northern-ireland-57940347) - The medical director of the Belfast Trust said the health service was facing significant pressure.
 4. [Brexit: More than 2,000 medicines face withdrawal over Protocol](https://www.bbc.co.uk/news/uk-northern-ireland-57941657) - Some firms will stop supplying medicines when a grace period ends, says pharmaceutical group.
 5. [Lough Sheelin: Teenager pulled from water dies in hospital](https://www.bbc.co.uk/news/world-europe-57940577) - The teenager was the fifth person to die in lakes on the island of Ireland in the last week.
@@ -17,8 +17,8 @@
 17. [Interim Covid vaccine certificates to be launched for NI travellers](https://www.bbc.co.uk/news/uk-northern-ireland-57868779) - Anyone travelling from Northern Ireland after the 25 July should wait to use a new app.
 18. [Coronavirus: Hospitality Ulster calls for NI recovery strategy](https://www.bbc.co.uk/news/uk-northern-ireland-57857496) - Industry representatives say businesses are struggling after lockdown and need help from Stormont.
 19. [Reimagining Northern Ireland's cities after lockdown](https://www.bbc.co.uk/news/uk-northern-ireland-57930985) - Developments like parklets reflect the permanent ways the pandemic is changing our spaces.
-20. [NI's trio of female rowers looking for Tokyo glory](https://www.bbc.co.uk/sport/av/olympics/57866340) - Northern Ireland's trio of female rowers - Rebecca Shorten, Hannah Scott and Rebecca Edwards - tell BBC Sport NI about their journey to Tokyo and their ambitions at the Games
-21. [Latest Northern Ireland weather forecast](https://www.bbc.co.uk/news/uk-northern-ireland-26018439) - The weather forecast in Northern Ireland.
+20. [Latest Northern Ireland weather forecast](https://www.bbc.co.uk/news/uk-northern-ireland-26018439) - The weather forecast in Northern Ireland.
+21. [NI's trio of female rowers looking for Tokyo glory](https://www.bbc.co.uk/sport/av/olympics/57866340) - Northern Ireland's trio of female rowers - Rebecca Shorten, Hannah Scott and Rebecca Edwards - tell BBC Sport NI about their journey to Tokyo and their ambitions at the Games
 22. [Is NI's marathon success by accident or design?](https://www.bbc.co.uk/sport/athletics/57702247) - Stephen Scullion, Kevin Seaward and Paul Pollock will form an entirely Northern Irish line-up in Ireland's Olympic men's marathon challenge.
 23. [Extreme heat: NI records hottest day ever for second time in week](https://www.bbc.co.uk/news/uk-northern-ireland-57920672) - The thermometer hit 31.3C in Castlederg on Wednesday, says the Met Office.
 24. [Heatwaves: What do they do to the body and who is at risk?](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?

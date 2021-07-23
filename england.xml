@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 11:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 12:31:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-57911889</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-57911889</guid>
             <pubDate>Fri, 23 Jul 2021 05:47:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soldier found dead in barracks at Larkhill, Salisbury]]></title>
+            <description><![CDATA[The Ministry of Defence is investigating the death of a soldier at an Army barracks in Salisbury.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</guid>
+            <pubDate>Fri, 23 Jul 2021 12:03:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marcus Rashford mural messages removed after heavy rain]]></title>
@@ -37,6 +44,20 @@
             <pubDate>Fri, 23 Jul 2021 11:28:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Smithy Family quit TikTok after arson attack]]></title>
+            <description><![CDATA[Nick Smith told followers the family were "taking time to fix themselves" after the house fire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57864221</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57864221</guid>
+            <pubDate>Fri, 23 Jul 2021 12:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The DJ who took a nightclub to the streets ]]></title>
+            <description><![CDATA[After coronavirus shut the nightclubs he DJs in, SUAT, of Oxted, took his decks on to the streets.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-surrey-57935752</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-surrey-57935752</guid>
+            <pubDate>Fri, 23 Jul 2021 10:10:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Great Yarmouth borough has highest rise in 'pings' from app]]></title>
             <description><![CDATA[Parts of Great Yarmouth borough are already undergoing enhanced testing after a sharp rise in cases.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-57935982</link>
@@ -51,13 +72,6 @@
             <pubDate>Fri, 23 Jul 2021 10:41:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The DJ who took a nightclub to the streets ]]></title>
-            <description><![CDATA[After coronavirus shut the nightclubs he DJs in, SUAT, of Oxted, took his decks on to the streets.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-surrey-57935752</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-surrey-57935752</guid>
-            <pubDate>Fri, 23 Jul 2021 10:10:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Oxfordshire lake death: Mother pays tribute to 'caring' daughter]]></title>
             <description><![CDATA[Nicole Sanders was one of six people who died last weekend after having problems in water in England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-57940537</link>
@@ -70,20 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57931154</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-57931154</guid>
             <pubDate>Fri, 23 Jul 2021 05:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dundas Aqueduct repaired by abseiling stonemasons]]></title>
-            <description><![CDATA[Dundas Aqueduct is considered to be one of England's finest examples of Georgian canal engineering.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57931430</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57931430</guid>
-            <pubDate>Fri, 23 Jul 2021 05:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roman treasure returns to Norfolk town where it was found]]></title>
-            <description><![CDATA[The Thetford hoard has been held at the British Museum since its discovery by detectorists in 1979.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-57929603</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-57929603</guid>
-            <pubDate>Fri, 23 Jul 2021 05:33:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parkrun: Northampton runner, 88, to jog 400th race as event returns]]></title>
@@ -177,6 +177,13 @@
             <pubDate>Thu, 22 Jul 2021 17:19:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Roman treasure returns to Norfolk town where it was found]]></title>
+            <description><![CDATA[The Thetford hoard has been held at the British Museum since its discovery by detectorists in 1979.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-57929603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-57929603</guid>
+            <pubDate>Fri, 23 Jul 2021 05:33:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Croydon tram crash passenger deaths ruled accidental]]></title>
             <description><![CDATA[Seven people died when the tram tipped over and spun off the track in Croydon in November 2016.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57721493</link>
@@ -184,39 +191,18 @@
             <pubDate>Thu, 22 Jul 2021 13:13:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pistol: Danny Boyle's Sex Pistols drama filmed in Hemel Hempstead]]></title>
-            <description><![CDATA[The director and his crew transform Hemel Hempstead into gritty urban centres for a punk drama.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57933408</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57933408</guid>
-            <pubDate>Thu, 22 Jul 2021 17:42:24 GMT</pubDate>
+            <title><![CDATA[Dundas Aqueduct repaired by abseiling stonemasons]]></title>
+            <description><![CDATA[Dundas Aqueduct is considered to be one of England's finest examples of Georgian canal engineering.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57931430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57931430</guid>
+            <pubDate>Fri, 23 Jul 2021 05:38:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Channel crossings: Hundreds more migrants cross to UK]]></title>
-            <description><![CDATA[The government said a surge in illegal migration across Europe had seen a rise in crossings.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-57937202</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57937202</guid>
-            <pubDate>Thu, 22 Jul 2021 19:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tommy Robinson loses Jamal Hijazi libel case]]></title>
-            <description><![CDATA[The High Court orders the anti-Islam activist to pay a teenage refugee £100,000 in damages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-57930901</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57930901</guid>
-            <pubDate>Thu, 22 Jul 2021 17:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manchester Arena Inquiry: Bomb victims felt abandoned, says sister]]></title>
-            <description><![CDATA[The families of victims of the 2017 bombing describe the "horrific" aftermath at Manchester Arena.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57933016</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57933016</guid>
-            <pubDate>Thu, 22 Jul 2021 17:09:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Midlands Police chief calls for Test and Trace exemptions]]></title>
-            <description><![CDATA[The high number of West Midlands Police staff self-isolating is making policing "challenging".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57931627</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57931627</guid>
-            <pubDate>Thu, 22 Jul 2021 17:16:40 GMT</pubDate>
+            <title><![CDATA[Jadon Sancho: England winger completes £73m move to Manchester United from Borussia Dortmund]]></title>
+            <description><![CDATA[England winger Jadon Sancho completes his £73m move to Manchester United from Borussia Dortmund.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57827831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57827831</guid>
+            <pubDate>Fri, 23 Jul 2021 12:28:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women's Super League fixtures: Chelsea begin WSL title defence at Arsenal]]></title>
@@ -224,6 +210,13 @@
             <link>https://www.bbc.co.uk/sport/football/57928978</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57928978</guid>
             <pubDate>Fri, 23 Jul 2021 08:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Striker James completes Chelsea switch]]></title>
+            <description><![CDATA[Chelsea confirm the signing of Manchester United forward Lauren James on a four-year deal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57943942</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57943942</guid>
+            <pubDate>Fri, 23 Jul 2021 12:06:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Johnson-Thompson bids to upset Olympic odds]]></title>
@@ -238,20 +231,6 @@
             <link>https://www.bbc.co.uk/sport/football/57942276</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57942276</guid>
             <pubDate>Fri, 23 Jul 2021 09:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[County Championship: Somerset to face Nottinghamshire in Division One opener]]></title>
-            <description><![CDATA[Somerset's bid for a first County Championship title will resume against Nottinghamshire when the second phase of the competition gets under way.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57941313</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57941313</guid>
-            <pubDate>Fri, 23 Jul 2021 10:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Son Heung-min: Tottenham forward signs new four-year contract]]></title>
-            <description><![CDATA[Tottenham forward Son Heung-min signs a new four-year contract keeping him at the club until 2025.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57941327</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57941327</guid>
-            <pubDate>Fri, 23 Jul 2021 09:56:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
