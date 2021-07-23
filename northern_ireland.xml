@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 17:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 18:21:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57944740</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57944740</guid>
             <pubDate>Fri, 23 Jul 2021 17:36:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI vaccine certificate scheme under 'extreme pressure']]></title>
+            <description><![CDATA[People having trouble applying for a vaccine certificate describe the process as "a shambles".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57946702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57946702</guid>
+            <pubDate>Fri, 23 Jul 2021 17:55:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extreme heat: Ireland records two tropical nights in a row]]></title>
@@ -93,27 +100,6 @@
             <pubDate>Fri, 23 Jul 2021 05:46:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Ireland's women's hockey team's journey to their first Games]]></title>
-            <description><![CDATA[BBC Sport NI looks into the journey of the Ireland women's hockey team ahead of their first Olympic Games]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57877092</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57877092</guid>
-            <pubDate>Fri, 23 Jul 2021 05:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Japanese artists reimagine countries as anime samurai]]></title>
-            <description><![CDATA[The creators have used the flags of competing nations as inspiration to design Japanese warriors.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57911348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57911348</guid>
-            <pubDate>Thu, 22 Jul 2021 23:15:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extreme Heat: NI temperature record broken for third time in a week]]></title>
-            <description><![CDATA[A weather station in the city of Armagh recorded a high of 31.4 C on Thursday afternoon.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57932848</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57932848</guid>
-            <pubDate>Thu, 22 Jul 2021 22:49:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: One further death and 1,337 positive cases in NI]]></title>
             <description><![CDATA[There are currently 163 patients with Covid-19 in NI hospitals, 16 of whom are in intensive care.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57943451</link>
@@ -156,11 +142,11 @@
             <pubDate>Thu, 22 Jul 2021 16:27:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Concussion: Father calls for mandatory brain injury lessons]]></title>
-            <description><![CDATA[A father of a 14-year-old who died after a school rugby match says dangers must be highlighted.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57930988</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57930988</guid>
-            <pubDate>Fri, 23 Jul 2021 05:51:11 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Japanese artists reimagine countries as anime samurai]]></title>
+            <description><![CDATA[The creators have used the flags of competing nations as inspiration to design Japanese warriors.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57911348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57911348</guid>
+            <pubDate>Thu, 22 Jul 2021 23:15:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
@@ -170,6 +156,20 @@
             <pubDate>Fri, 23 Jul 2021 14:18:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Ireland's women's hockey team's journey to their first Games]]></title>
+            <description><![CDATA[BBC Sport NI looks into the journey of the Ireland women's hockey team ahead of their first Olympic Games]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57877092</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57877092</guid>
+            <pubDate>Fri, 23 Jul 2021 05:13:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Concussion: Father calls for mandatory brain injury lessons]]></title>
+            <description><![CDATA[A father of a 14-year-old who died after a school rugby match says dangers must be highlighted.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57930988</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57930988</guid>
+            <pubDate>Fri, 23 Jul 2021 05:51:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reimagining Northern Ireland's cities after lockdown]]></title>
             <description><![CDATA[Developments like parklets reflect the permanent ways the pandemic is changing our spaces.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57930985</link>
@@ -177,25 +177,11 @@
             <pubDate>Fri, 23 Jul 2021 05:45:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NI's trio of female rowers looking for Tokyo glory]]></title>
-            <description><![CDATA[Northern Ireland's trio of female rowers - Rebecca Shorten, Hannah Scott and Rebecca Edwards - tell BBC Sport NI about their journey to Tokyo and their ambitions at the Games]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57866340</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57866340</guid>
-            <pubDate>Thu, 22 Jul 2021 06:31:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Heatwaves: What do they do to the body and who is at risk?]]></title>
             <description><![CDATA[What impact do high temperatures have on our bodies?]]></description>
             <link>https://www.bbc.co.uk/news/health-49112807</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-49112807</guid>
             <pubDate>Tue, 20 Jul 2021 17:33:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is NI's marathon success by accident or design?]]></title>
-            <description><![CDATA[Stephen Scullion, Kevin Seaward and Paul Pollock will form an entirely Northern Irish line-up in Ireland's Olympic men's marathon challenge.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/57702247</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57702247</guid>
-            <pubDate>Thu, 22 Jul 2021 06:32:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Omagh bomb: Families of victims react to court ruling]]></title>
