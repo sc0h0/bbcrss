@@ -6,7 +6,7 @@
 6. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
 7. [Indonesia: Covid-positive man boards flight disguised as wife](https://www.bbc.co.uk/news/world-asia-57938542) - He may never have been caught if he had not changed into his regular clothes midway through the flight.
 8. [Emily Ratajkowski sponsors Bantry Basketball Club in County Cork](https://www.bbc.co.uk/news/world-europe-57932456) - Emily Ratajkowski buys kit for Bantry's U15 and U16 teams, setting Snapchat "on fire".
-9. [Ethiopia Tigray crisis: New front opens in war as aid fears grow](https://www.bbc.co.uk/news/world-africa-57926832) - A bloody eight-month battle for control of the Tigray region spills over into neighbouring Afar.
+9. [Ethiopia Tigray crisis: New front opens as aid fears grow](https://www.bbc.co.uk/news/world-africa-57926832) - A bloody eight-month battle for control of the Tigray region spills over into neighbouring Afar.
 10. [Indian tax authorities raid media outlets Bharat Samachar and Dainik Bhaskar](https://www.bbc.co.uk/news/world-asia-india-57937862) - The government denies that the raids were in retaliation for unfavourable reporting.
 11. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
 12. [Washington shooting: Gunman opens fire outside restaurant](https://www.bbc.co.uk/news/world-us-canada-57937868) - It comes as gun violence is on the rise in Washington DC and other American cities.
