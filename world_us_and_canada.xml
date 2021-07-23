@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 02:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 02:52:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[California sues Activision Blizzard over alleged harassment]]></title>
-            <description><![CDATA[One of the world's largest gaming companies is accused of endemic discrimination and harassment.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57929543</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929543</guid>
-            <pubDate>Thu, 22 Jul 2021 14:35:48 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Wuhan virus: Was US money used to fund risky research in China?]]></title>
             <description><![CDATA[What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?]]></description>
@@ -30,11 +23,25 @@
             <pubDate>Thu, 22 Jul 2021 23:06:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Washington shooting: Gunman opens fire outside restaurant]]></title>
+            <description><![CDATA[It comes as gun violence is on the rise in Washington DC and other American cities.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57937868</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57937868</guid>
+            <pubDate>Fri, 23 Jul 2021 02:46:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US slaps sanctions on Cuban officials after protest crackdown]]></title>
             <description><![CDATA[President Biden has been under increasing pressure to respond to the historic anti-regime protests.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57935558</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57935558</guid>
             <pubDate>Thu, 22 Jul 2021 19:22:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[California sues Activision Blizzard over alleged harassment]]></title>
+            <description><![CDATA[One of the world's largest gaming companies is accused of endemic discrimination and harassment.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57929543</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929543</guid>
+            <pubDate>Thu, 22 Jul 2021 14:35:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Monkeypox: More than 200 contacts tracked in US for rare disease]]></title>
