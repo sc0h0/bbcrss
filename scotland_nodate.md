@@ -1,4 +1,4 @@
-1. [Covid in Scotland: Critical workers to be exempt from self-isolation](https://www.bbc.co.uk/news/uk-scotland-57937583) - It is understood health and care workers and some supermarket staff will be among those who can avoid isolating.
+1. [Covid in Scotland: Critical workers to be exempt from self-isolation](https://www.bbc.co.uk/news/uk-scotland-57937583) - Emergency services, food and transport workers will be among those who can apply to avoid isolating.
 2. [Covid in Scotland: Double-jabbed students denied quarantine exemption](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57941652) - St Andrews University friends all received their first dose in England and their second in Scotland.
 3. [Two men killed in three-car crash on A713 in Ayrshire](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57941647) - A 35-year-old driver and a 65-year-old passenger in another car died at the scene on the A713 near Patna.
 4. [Mystery orcas spotted in Scotland found in Norway](https://www.bbc.co.uk/news/uk-scotland-57934989) - The pod of six killer whales photographed in a Norwegian fjord were last spotted off Vatersay in 2018.
