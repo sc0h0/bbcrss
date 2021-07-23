@@ -1,4 +1,4 @@
-1. [Covid: New testing plan will not work, says CBI](https://www.bbc.co.uk/news/business-57945229) - Fri, 23 Jul 2021 14:41:52 GMT - The industry body criticises government plans that allow some key staff to bypass the NHS Covid app.
+1. [Covid: New testing plan will not work, says CBI](https://www.bbc.co.uk/news/business-57945229) - Fri, 23 Jul 2021 17:40:43 GMT - The industry body criticises government plans that allow some key staff to bypass the NHS Covid app.
 2. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Fri, 23 Jul 2021 12:39:04 GMT - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
 3. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Fri, 23 Jul 2021 14:52:48 GMT - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
 4. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Fri, 23 Jul 2021 09:39:21 GMT - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
