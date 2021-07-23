@@ -1,4 +1,4 @@
-1. [Daily Covid cases down for fourth day in UK](https://www.bbc.co.uk/news/health-57942217) - Fri, 23 Jul 2021 16:28:26 GMT - New infections are down but it is too soon to say if cases have peaked, say experts.
+1. [Daily Covid cases down for third day in UK](https://www.bbc.co.uk/news/health-57942217) - Fri, 23 Jul 2021 20:09:58 GMT - New infections are down but it is too soon to say if cases have peaked, say experts.
 2. [Covid: Moderna jab approved for teenagers in EU](https://www.bbc.co.uk/news/world-europe-57947183) - Fri, 23 Jul 2021 15:58:12 GMT - Vaccination with Moderna's jab can now be extended to adolescents, the EU medicines watchdog says.
 3. [Daily testing can keep pupils in school, study suggests](https://www.bbc.co.uk/news/health-57930214) - Fri, 23 Jul 2021 11:53:57 GMT - A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.
 4. [AI breakthrough could spark medical revolution](https://www.bbc.co.uk/news/science-environment-57929095) - Thu, 22 Jul 2021 15:24:57 GMT - A program has been used to predict the structures of nearly every protein in the human body.

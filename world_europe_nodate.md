@@ -1,6 +1,6 @@
 1. [Covid: Moderna jab approved for teenagers in EU](https://www.bbc.co.uk/news/world-europe-57947183) - Vaccination with Moderna's jab can now be extended to adolescents, the EU medicines watchdog says.
 2. [German TV apologises for smearing mud on clothes at flood site](https://www.bbc.co.uk/news/world-europe-57946430) - A video showed Susanna Ohlen rubbing herself with dirt before broadcasting from a flood-hit town.
-3. [Daily Covid cases down for fourth day in UK](https://www.bbc.co.uk/news/health-57942217) - New infections are down but it is too soon to say if cases have peaked, say experts.
+3. [Daily Covid cases down for third day in UK](https://www.bbc.co.uk/news/health-57942217) - New infections are down but it is too soon to say if cases have peaked, say experts.
 4. [Tokyo Olympics: Russian archer faints in heat & rowing schedule changed due to weather](https://www.bbc.co.uk/sport/olympics/57940257) - A Russian archer faints in intense heat during Olympic qualifying and the rowing schedule is changed with the Tokyo weather in the spotlight as the Games officially open.
 5. [Jadon Sancho: England winger completes £73m move to Manchester United from Borussia Dortmund](https://www.bbc.co.uk/sport/football/57827831) - England winger Jadon Sancho completes his £73m move to Manchester United from Borussia Dortmund.
 6. [Coronavirus: Italy brings in Covid certificate amid spike in infections](https://www.bbc.co.uk/news/world-europe-57937722) - All those aged 12 and over with at least one jab will be able to access bars, cinemas and gyms.

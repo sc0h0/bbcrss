@@ -1,5 +1,5 @@
 1. [Tennis star Osaka lights Olympic flame as Games begin](https://www.bbc.co.uk/sport/olympics/57929293) - The Tokyo 2020 Games are officially under way as Naomi Osaka lights the Olympic flame in a poignant opening ceremony.
-2. [Daily Covid cases down for fourth day in UK](https://www.bbc.co.uk/news/health-57942217) - New infections are down but it is too soon to say if cases have peaked, say experts.
+2. [Daily Covid cases down for third day in UK](https://www.bbc.co.uk/news/health-57942217) - New infections are down but it is too soon to say if cases have peaked, say experts.
 3. [Covid-19: One in 80 has Covid, and an Olympic opening ceremony like no other](https://www.bbc.co.uk/news/uk-57946077) - Five things you need to know about the coronavirus pandemic this Friday evening.
 4. [Covid: Double-jabbed students denied quarantine exemption](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57941652) - Three St Andrews University friends all received their first dose in England and their second in Scotland.
 5. [Las Vegas murder case cracked with record-small amount of DNA](https://www.bbc.co.uk/news/world-us-canada-57947785) - Just 15 cells' worth of DNA was used to track down the man suspected of killing a US girl in 1989.

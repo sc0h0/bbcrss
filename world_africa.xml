@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 19:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 20:15:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,6 +93,13 @@
             <pubDate>Wed, 21 Jul 2021 23:00:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Teenage skateboarder Boipelo Awuah is the youngest African at Tokyo 2020]]></title>
+            <description><![CDATA[Fifteen-year-old skateboarder Boipelo Awuah is the youngest African at Tokyo 2020. She explains how she got into the sport and why it feels so good to be at the Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/africa/57917473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/africa/57917473</guid>
+            <pubDate>Thu, 22 Jul 2021 06:04:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tanzania: Erick Kabendera on Samia Suluhu Hassan, being imprisoned and freedom]]></title>
             <description><![CDATA[Freed Tanzanian journalist Erick Kabendera says the country needs to tackle injustices which took place during John Magufuli's presidency.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57920572</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/sport/av/africa/57840235</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/africa/57840235</guid>
             <pubDate>Thu, 15 Jul 2021 08:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa Zuma riots: Mother on throwing baby from burning building]]></title>
-            <description><![CDATA[The building was allegedly set on fire by looters amid an eruption of riots across South Africa.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57843685</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57843685</guid>
-            <pubDate>Wed, 14 Jul 2021 19:37:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
