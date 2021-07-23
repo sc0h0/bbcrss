@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 03:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 03:40:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Thu, 22 Jul 2021 22:03:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid vaccine: Eight-week gap seen as sweet spot for Pfizer jab antibodies]]></title>
+            <description><![CDATA[Spacing out doses boosts antibody levels, say researchers - who suggest eight weeks as the "sweet spot"]]></description>
+            <link>https://www.bbc.co.uk/news/health-57929953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57929953</guid>
+            <pubDate>Thu, 22 Jul 2021 23:51:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Child winter respiratory illness on rise in summer]]></title>
             <description><![CDATA[Parents are warned to look out for signs of RSV, after lockdown disrupted its normal winter spread.]]></description>
             <link>https://www.bbc.co.uk/news/health-57908561</link>
@@ -72,11 +79,11 @@
             <pubDate>Fri, 23 Jul 2021 01:43:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emily Ratajkowski sponsors Bantry Basketball Club in County Cork]]></title>
-            <description><![CDATA[Emily Ratajkowski buys kit for Bantry's U15 and U16 teams, setting Snapchat "on fire".]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57932456</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57932456</guid>
-            <pubDate>Thu, 22 Jul 2021 18:24:42 GMT</pubDate>
+            <title><![CDATA[Washington shooting: Gunman opens fire outside restaurant]]></title>
+            <description><![CDATA[It comes as gun violence is on the rise in Washington DC and other American cities.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57937868</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57937868</guid>
+            <pubDate>Fri, 23 Jul 2021 03:01:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extreme Heat: NI temperature record broken for third time in a week]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-57935256</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57935256</guid>
             <pubDate>Thu, 22 Jul 2021 16:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pilot praises RAF Lakenheath plane spotter for saving his life]]></title>
-            <description><![CDATA[Ian Simpson alerts an airbase after seeing sparks and flames coming from the rear of a jet.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57927801</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57927801</guid>
-            <pubDate>Thu, 22 Jul 2021 16:33:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Ping peril' and pupils isolating 'needless']]></title>
@@ -121,6 +121,20 @@
             <pubDate>Thu, 22 Jul 2021 23:00:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Emily Ratajkowski sponsors Bantry Basketball Club in County Cork]]></title>
+            <description><![CDATA[Emily Ratajkowski buys kit for Bantry's U15 and U16 teams, setting Snapchat "on fire".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57932456</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57932456</guid>
+            <pubDate>Thu, 22 Jul 2021 18:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pilot praises RAF Lakenheath plane spotter for saving his life]]></title>
+            <description><![CDATA[Ian Simpson alerts an airbase after seeing sparks and flames coming from the rear of a jet.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57927801</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57927801</guid>
+            <pubDate>Thu, 22 Jul 2021 16:33:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: I beat an Olympian... when I was younger]]></title>
             <description><![CDATA[Radio 1 Newsbeat speaks to people who can boast they once beat some of the current Team GB.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57919563</link>
@@ -140,27 +154,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57925985</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57925985</guid>
             <pubDate>Thu, 22 Jul 2021 14:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hamlet: Sir Ian McKellen's age-blind prince divides critics]]></title>
-            <description><![CDATA[The reviews are in for the veteran's re-working of the classic Shakespeare play.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57926398</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57926398</guid>
-            <pubDate>Thu, 22 Jul 2021 11:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I survived Norway's worst terror attack]]></title>
-            <description><![CDATA[Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-57920682</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57920682</guid>
-            <pubDate>Wed, 21 Jul 2021 23:09:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Halima Aden and Tommy Hilfiger: ‘It’s not just about diverse catwalks’]]></title>
-            <description><![CDATA[The world’s first hijab-wearing supermodel talks to fashion designer Tommy Hilfiger about why she quit the industry.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57918698</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57918698</guid>
-            <pubDate>Wed, 21 Jul 2021 23:00:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parents' fears over sexting and abuse among teenagers]]></title>

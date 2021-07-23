@@ -1,18 +1,19 @@
 1. [UK food workers to be exempt from Covid isolation](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry will move to daily Covid testing, the government says, after isolating workers led to supply shortages.
-2. [Road planners 'can ignore climate change'](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.
-3. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
-4. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
-5. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Autonomy's founder, Mike Lynch, says he will fight the US authorities' bid to try him for fraud.
-6. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - The Co-op says that supplies of soft drinks, beer and deodorant have been affected.
-7. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
-8. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
-9. [Inflation spike temporary, says BoE deputy governor](https://www.bbc.co.uk/news/business-57922199) - The recent pick up in price rises is not expected to last, says Bank of England deputy Ben Broadbent.
-10. [Charity, dating and pet spending booms, says Nationwide](https://www.bbc.co.uk/news/business-57907867) - People have been spending more on non-essentials as Covid restrictions ease, Nationwide says.
-11. [Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again](https://www.bbc.co.uk/news/business-57924354) - The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.
-12. [Hackers reportedly demand $50m from Saudi Aramco over data leak](https://www.bbc.co.uk/news/business-57924355) - The world's most valuable oil producer confirmed to the BBC that company files had been leaked.
-13. [How global conferences are using tech to stay in business](https://www.bbc.co.uk/news/business-57817807) - Moving events online kept the industry going during the pandemic and now they're here to stay.
-14. [Heatwave: The worst jobs to have as temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
-15. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
-16. [CEO Secrets: 'Four-day weeks are good for business'](https://www.bbc.co.uk/news/business-57894093) - CEO Joe Munns says giving his workers a three-day weekend makes them happier and more productive.
-17. [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128) - Electroflight has built the E-NXT which it hopes will break the electric airspeed record.
-18. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
+2. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
+3. [Road planners 'can ignore climate change'](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.
+4. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
+5. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
+6. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Autonomy's founder, Mike Lynch, says he will fight the US authorities' bid to try him for fraud.
+7. [Covid: Supermarkets say shortages are not widespread](https://www.bbc.co.uk/news/uk-57924264) - The Co-op says that supplies of soft drinks, beer and deodorant have been affected.
+8. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
+9. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
+10. [Inflation spike temporary, says BoE deputy governor](https://www.bbc.co.uk/news/business-57922199) - The recent pick up in price rises is not expected to last, says Bank of England deputy Ben Broadbent.
+11. [Charity, dating and pet spending booms, says Nationwide](https://www.bbc.co.uk/news/business-57907867) - People have been spending more on non-essentials as Covid restrictions ease, Nationwide says.
+12. [Bitcoin climbs as Elon Musk says Tesla 'likely' to accept it again](https://www.bbc.co.uk/news/business-57924354) - The firm had said in May it would no longer accept the cryptocurrency over environmental concerns.
+13. [Hackers reportedly demand $50m from Saudi Aramco over data leak](https://www.bbc.co.uk/news/business-57924355) - The world's most valuable oil producer confirmed to the BBC that company files had been leaked.
+14. [How global conferences are using tech to stay in business](https://www.bbc.co.uk/news/business-57817807) - Moving events online kept the industry going during the pandemic and now they're here to stay.
+15. [Heatwave: The worst jobs to have as temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
+16. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
+17. [CEO Secrets: 'Four-day weeks are good for business'](https://www.bbc.co.uk/news/business-57894093) - CEO Joe Munns says giving his workers a three-day weekend makes them happier and more productive.
+18. [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128) - Electroflight has built the E-NXT which it hopes will break the electric airspeed record.
+19. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
