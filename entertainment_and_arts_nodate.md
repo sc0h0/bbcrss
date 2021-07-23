@@ -1,5 +1,5 @@
 1. [Amy Winehouse: Could there be new music on the way?](https://www.bbc.co.uk/news/entertainment-arts-57926362) - Ten years after her death, Amy's parents say they want fans to hear CDs of her unreleased material.
-2. [Latitude Festival: 'It's so nice to get back into the festival vibe'](https://www.bbc.co.uk/news/uk-england-suffolk-57940287) - About 40,000 people are expected at this year's Latitude Festival, which was cancelled in 2020.
+2. [Latitude Festival: 'It's so nice to get back into the festival vibe'](https://www.bbc.co.uk/news/uk-england-suffolk-57940287) - About 40,000 people are expected at this year's Latitude Festival each day.
 3. [Children in Need and Comic Relief to air from BBC Salford studios](https://www.bbc.co.uk/news/entertainment-arts-57940447) - The BBC's annual fundraising events will be broadcast from the city from 2021 onwards.
 4. [John Simpson: Good Morning Britain hosts apologise after swearing](https://www.bbc.co.uk/news/entertainment-arts-57940487) - Veteran foreign correspondent let the rude word slip on the ITV show shortly before 0650 BST.
 5. [13 Reasons Why star Tommy Dorfman comes out as transgender](https://www.bbc.co.uk/news/newsbeat-57940888) - The 29-year-old confirmed on Instagram her pronouns are now "she/her".
