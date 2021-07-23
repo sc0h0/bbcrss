@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 13:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 13:37:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -191,18 +191,11 @@
             <pubDate>Tue, 13 Jul 2021 05:15:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: How does the NHS test-and-trace system and app work?]]></title>
-            <description><![CDATA[The contact tracing app could be changed to make it less sensitive, so it sends fewer alerts.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
-            <pubDate>Fri, 23 Jul 2021 09:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the Delta, Gamma, Beta and Alpha Covid variants?]]></title>
-            <description><![CDATA[UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55659820</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
-            <pubDate>Wed, 21 Jul 2021 08:48:07 GMT</pubDate>
+            <title><![CDATA[Latitude Festival: 'It's so nice to get back into the festival vibe']]></title>
+            <description><![CDATA[About 40,000 people are expected at this year's Latitude Festival, which was cancelled in 2020.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-57940287</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-57940287</guid>
+            <pubDate>Fri, 23 Jul 2021 12:18:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tusker Rock's shipwrecks graveyard captured in art project]]></title>
@@ -294,6 +287,13 @@
             <link>https://www.bbc.co.uk/news/57932699</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/57932699</guid>
             <pubDate>Thu, 22 Jul 2021 23:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the Delta, Gamma, Beta and Alpha Covid variants?]]></title>
+            <description><![CDATA[UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55659820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
+            <pubDate>Wed, 21 Jul 2021 08:48:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Japanese artists reimagine countries as anime samurai]]></title>
@@ -448,6 +448,13 @@
             <link>https://www.bbc.co.uk/news/health-54145299</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54145299</guid>
             <pubDate>Mon, 14 Jun 2021 10:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How does the NHS test-and-trace system and app work?]]></title>
+            <description><![CDATA[The contact tracing app could be changed to make it less sensitive, so it sends fewer alerts.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
+            <pubDate>Fri, 23 Jul 2021 09:17:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules from 19 July: What has changed?]]></title>
