@@ -16,8 +16,8 @@
 16. [Interim Covid vaccine certificates to be launched for NI travellers](https://www.bbc.co.uk/news/uk-northern-ireland-57868779) - Anyone travelling from Northern Ireland after the 25 July should wait to use a new app.
 17. [Coronavirus: Hospitality Ulster calls for NI recovery strategy](https://www.bbc.co.uk/news/uk-northern-ireland-57857496) - Industry representatives say businesses are struggling after lockdown and need help from Stormont.
 18. [Concussion: Father calls for mandatory brain injury lessons](https://www.bbc.co.uk/news/uk-northern-ireland-57930988) - A father of a 14-year-old who died after a school rugby match says dangers must be highlighted.
-19. [Reimagining Northern Ireland's cities after lockdown](https://www.bbc.co.uk/news/uk-northern-ireland-57930985) - Developments like parklets reflect the permanent ways the pandemic is changing our spaces.
-20. [Latest Northern Ireland weather forecast](https://www.bbc.co.uk/news/uk-northern-ireland-26018439) - The weather forecast in Northern Ireland.
+19. [Latest Northern Ireland weather forecast](https://www.bbc.co.uk/news/uk-northern-ireland-26018439) - The weather forecast in Northern Ireland.
+20. [Reimagining Northern Ireland's cities after lockdown](https://www.bbc.co.uk/news/uk-northern-ireland-57930985) - Developments like parklets reflect the permanent ways the pandemic is changing our spaces.
 21. [NI's trio of female rowers looking for Tokyo glory](https://www.bbc.co.uk/sport/av/olympics/57866340) - Northern Ireland's trio of female rowers - Rebecca Shorten, Hannah Scott and Rebecca Edwards - tell BBC Sport NI about their journey to Tokyo and their ambitions at the Games
 22. [Heatwaves: What do they do to the body and who is at risk?](https://www.bbc.co.uk/news/health-49112807) - What impact do high temperatures have on our bodies?
 23. [Is NI's marathon success by accident or design?](https://www.bbc.co.uk/sport/athletics/57702247) - Stephen Scullion, Kevin Seaward and Paul Pollock will form an entirely Northern Irish line-up in Ireland's Olympic men's marathon challenge.
