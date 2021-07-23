@@ -1,6 +1,6 @@
 1. [Covid: New testing plan will not work, says CBI](https://www.bbc.co.uk/news/business-57945229) - The industry body criticises government plans that allow some key staff to bypass the NHS Covid app.
 2. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
-3. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
+3. [Covid: Food exemption scheme delayed until Monday](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
 4. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
 5. [Rural vacuum for getting hold of cash](https://www.bbc.co.uk/news/business-57941001) - People living in rural areas have less chance of withdrawing or depositing cash nearby, research finds.
 6. [People splash out on food and drink for Euro 2020](https://www.bbc.co.uk/news/business-57939140) - Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.

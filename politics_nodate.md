@@ -3,7 +3,7 @@
 3. [Government rules out searching Matt Hancock's private emails](https://www.bbc.co.uk/news/uk-politics-57930820) - Matt Hancock was among four ministers who used their personal email accounts for official business.
 4. [Dawn Butler thrown out of Commons for PM lie accusation](https://www.bbc.co.uk/news/uk-politics-57927398) - Dawn Butler breaks parliamentary rules by accusing Boris Johnson of lying.
 5. [Police Federation says it has no confidence in Patel amid pay row](https://www.bbc.co.uk/news/uk-politics-57933129) - The Police Federation describes a pay freeze for this year as an "insult" to officers.
-6. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
+6. [Covid: Food exemption scheme delayed until Monday](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
 7. [UK has no idea of EU fishing catch in its waters, says Labour](https://www.bbc.co.uk/news/uk-politics-57922251) - The government says it is trying to get EU boats to declare everything they land in UK waters.
 8. [Nurses may consider industrial action over 3% NHS pay rise, union says](https://www.bbc.co.uk/news/health-57924271) - The Royal College of Nursing says members are "angry and upset" about the size of the increase.
 9. [Brexit: No breakthrough on NI protocol after PM speaks to EU chief](https://www.bbc.co.uk/news/uk-politics-57930799) - Boris Johnson speaks to EU chief Ursula von der Leyen about the UK's demand to rework the Brexit deal.
