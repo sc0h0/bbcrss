@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 23:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 23:36:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Face palm: When the emoji you want doesn't exist]]></title>
+            <description><![CDATA[There are about 3,000 emojis to choose from but what happens when the one you want isn't there?]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57848226</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57848226</guid>
+            <pubDate>Fri, 23 Jul 2021 23:31:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zuckerberg wants Facebook to become online 'metaverse']]></title>
             <description><![CDATA[CEO wants users to work, game and communicate in a virtual world, often using VR headsets.]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/technology-57929544</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929544</guid>
             <pubDate>Thu, 22 Jul 2021 17:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California sues Activision Blizzard over alleged harassment]]></title>
-            <description><![CDATA[One of the world's largest gaming companies is accused of endemic discrimination and harassment.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57929543</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57929543</guid>
-            <pubDate>Thu, 22 Jul 2021 14:35:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beach rover picks up cigarette butts and other tech news]]></title>

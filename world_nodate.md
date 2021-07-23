@@ -1,6 +1,6 @@
 1. [China imposes sanctions on US officials](https://www.bbc.co.uk/news/world-asia-china-57950720) - The sanctions are in response to recent US sanctions on Chinese officials in Hong Kong.
 2. [Tokyo Olympics: 2020 Games begin as Naomi Osaka lights Olympic flame in poignant ceremony](https://www.bbc.co.uk/sport/olympics/57929293) - The Tokyo 2020 Games are officially under way as Naomi Osaka lights the Olympic flame in a poignant opening ceremony.
-3. [Covid: Moderna jab approved for teenagers in EU](https://www.bbc.co.uk/news/world-europe-57947183) - Vaccination with Moderna's jab can now be extended to adolescents, the EU medicines watchdog says.
+3. [Olympics: Munich victims honoured for first time at opening ceremony](https://www.bbc.co.uk/news/world-asia-57924111) - Nearly 50 years after 11 Israeli athletes were killed, a moment's silence is marked in Tokyo.
 4. [Jovenel Moïse: Unrest mars funeral of assassinated Haitian leader](https://www.bbc.co.uk/news/world-latin-america-57915760) - Gunshots and tear gas punctuate the funeral of former Haitian President Jovenel Moïse.
 5. [Jeff Bezos and Sir Richard Branson not yet astronauts, US says](https://www.bbc.co.uk/news/world-us-canada-57950149) - The US government has tightened rules on which space-goers can claim their astronaut wings.
 6. [US fires: Inside a US fire truck driving through a wildfire](https://www.bbc.co.uk/news/world-us-canada-57943338) - As burning ash pelts their vehicle, video shows firefighters in California drive through the flames.
@@ -17,7 +17,7 @@
 17. [Ethiopia Tigray crisis: New front opens as aid fears grow](https://www.bbc.co.uk/news/world-africa-57926832) - A bloody eight-month battle for control of the Tigray region spills over into neighbouring Afar.
 18. [AI advance could transform battle against disease](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
 19. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
-20. [DRC volcano: Reuniting children with families after the eruption](https://www.bbc.co.uk/news/world-africa-57947193) - Two months after a volcano erupted near the city of Goma in the Democratic Republic of Congo, aid organisations are still trying to reunite children separated from their families.
+20. [DRC volcano: Reuniting children with families after the eruption](https://www.bbc.co.uk/news/world-africa-57947193) - Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.
 21. [The refugee athlete who lost his mum to Covid](https://www.bbc.co.uk/news/world-57937673) - Abdullah Sediqi, 24, is competing at the Tokyo Games in her honour.
 22. [Tusker Rock's shipwrecks graveyard captured in art project](https://www.bbc.co.uk/news/uk-wales-57918489) - Photographer Peter Britton wants his project to stand as a legacy to those lost to Tusker Rock.
 23. [The 12-year-old becoming Tokyo's youngest Olympian](https://www.bbc.co.uk/news/world-middle-east-57925985) - Hend Zaza from Syria reveals her inspiration for getting into table tennis at such a young age.
