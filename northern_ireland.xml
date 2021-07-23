@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 07:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 07:57:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: 'Over 60% admitted to hospital not vaccinated']]></title>
+            <description><![CDATA[The medical director of the Belfast Trust said the health service was facing significant pressure.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57940347</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57940347</guid>
+            <pubDate>Fri, 23 Jul 2021 07:55:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brexit: 'Clear opportunities and frictions' in NI Protocol, says Invest NI]]></title>
             <description><![CDATA[There is clarity for firms considering investment in Northern Ireland, says the boss of Invest NI.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57932457</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57932457</guid>
-            <pubDate>Fri, 23 Jul 2021 05:39:36 GMT</pubDate>
+            <pubDate>Fri, 23 Jul 2021 07:41:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reimagining Northern Ireland's cities after lockdown]]></title>
@@ -51,18 +58,18 @@
             <pubDate>Fri, 23 Jul 2021 05:13:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Theatre and concert hall decision in NI delayed]]></title>
-            <description><![CDATA[The NI Executive has agreed to relax some Covid restrictions including numbers who can meet outdoors.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57922396</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57922396</guid>
-            <pubDate>Thu, 22 Jul 2021 21:05:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Extreme Heat: NI temperature record broken for third time in a week]]></title>
             <description><![CDATA[A weather station in the city of Armagh recorded a high of 31.4 C on Thursday afternoon.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57932848</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57932848</guid>
             <pubDate>Thu, 22 Jul 2021 22:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Theatre and concert hall decision in NI delayed]]></title>
+            <description><![CDATA[The NI Executive has agreed to relax some Covid restrictions including numbers who can meet outdoors.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57922396</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57922396</guid>
+            <pubDate>Thu, 22 Jul 2021 21:05:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Abortion in NI: Westminster directs Stormont to set up services]]></title>
