@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 14:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 14:49:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Fri, 23 Jul 2021 13:01:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wales boss Ryan Giggs pleads not guilty to assaulting women]]></title>
-            <description><![CDATA[The Wales manager is accused of attacking two women during an incident in Salford.]]></description>
+            <title><![CDATA[Wales boss Ryan Giggs denies assaulting ex-girlfriend]]></title>
+            <description><![CDATA[He allegedly used controlling behaviour, including kicking his ex-girlfriend out of his hotel room naked.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57939707</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57939707</guid>
-            <pubDate>Fri, 23 Jul 2021 13:40:37 GMT</pubDate>
+            <pubDate>Fri, 23 Jul 2021 14:41:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Omagh bomb: 'Real prospect attack could have been prevented']]></title>
@@ -62,14 +62,7 @@
             <description><![CDATA[Lady Heywood calls a report on the Greensill lobbying scandal a "fabricated attack" on her late husband.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57933130</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57933130</guid>
-            <pubDate>Fri, 23 Jul 2021 14:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rail services face cuts as staff self-isolate]]></title>
-            <description><![CDATA[Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".]]></description>
-            <link>https://www.bbc.co.uk/news/business-57940660</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57940660</guid>
-            <pubDate>Fri, 23 Jul 2021 12:39:04 GMT</pubDate>
+            <pubDate>Fri, 23 Jul 2021 14:43:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soldier found dead in barracks at Larkhill, Salisbury]]></title>
@@ -77,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</guid>
             <pubDate>Fri, 23 Jul 2021 14:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ransomware key to unlock customer data from REvil attack]]></title>
+            <description><![CDATA[The gang behind the attack had previously asked for $70m to access the stolen files.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57946117</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57946117</guid>
+            <pubDate>Fri, 23 Jul 2021 14:31:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Printer ink pricier than champagne finds Which?]]></title>
@@ -373,18 +373,18 @@
             <pubDate>Fri, 23 Jul 2021 14:19:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Watch as the sky above Japan's Olympic stadium is illuminated by 1800 drones]]></title>
+            <description><![CDATA[Watch as the sky above Japan's Olympic stadium is illuminated by 1800 drones for the opening ceremony of the Tokyo 2020 Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57940556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57940556</guid>
+            <pubDate>Fri, 23 Jul 2021 14:40:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Team GB enter the opening ceremony in Tokyo]]></title>
             <description><![CDATA[Watch as Team GB enter the Olympic opening ceremony for Tokyo 2020, led by joint flagbearers Hannah Mills and Mohamed Sbihi.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57940553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57940553</guid>
             <pubDate>Fri, 23 Jul 2021 12:59:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Watch BBC Sport's Tokyo 2020 Olympics opening sequence]]></title>
-            <description><![CDATA[Watch the BBC Sport Tokyo 2020 Olympics opening sequence, with narration from Michael Ward.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/57940550</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/57940550</guid>
-            <pubDate>Fri, 23 Jul 2021 11:46:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Hundred - Oval Invincibles v Manchester Originals: Watch highlights of the first men's Hundred match]]></title>
@@ -394,11 +394,11 @@
             <pubDate>Thu, 22 Jul 2021 21:12:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Adam Peaty meets Reece Parkinson to talk cars, fatherhood & staying undefeated.]]></title>
-            <description><![CDATA[British swimmer Adam Peaty meets BBC Radio 1's Reece Parkinson to talk cars, fatherhood and staying undefeated at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57441928</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57441928</guid>
-            <pubDate>Fri, 23 Jul 2021 05:21:27 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Watch BBC Sport's Tokyo 2020 Olympics opening sequence]]></title>
+            <description><![CDATA[Watch the BBC Sport Tokyo 2020 Olympics opening sequence, with narration from Michael Ward.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/57940550</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/57940550</guid>
+            <pubDate>Fri, 23 Jul 2021 11:46:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympic Games: When are they and how will Covid affect them?]]></title>

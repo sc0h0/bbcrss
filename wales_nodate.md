@@ -1,5 +1,5 @@
-1. [Pontyclun crash: Six in hospital after car hits people outside pub](https://www.bbc.co.uk/news/uk-wales-57934076) - Police believe the driver of the car suffered a "medical episode" just before the crash.
-2. [Wales boss Ryan Giggs pleads not guilty to assaulting women](https://www.bbc.co.uk/news/uk-wales-57939707) - The Wales manager is accused of attacking two women during an incident in Salford.
+1. [Wales boss Ryan Giggs denies assaulting ex-girlfriend](https://www.bbc.co.uk/news/uk-wales-57939707) - He allegedly used controlling behaviour, including kicking his ex-girlfriend out of his hotel room naked.
+2. [Pontyclun crash: Six in hospital after car hits people outside pub](https://www.bbc.co.uk/news/uk-wales-57934076) - Police believe the driver of the car suffered a "medical episode" just before the crash.
 3. [Racism probe as 'bananas thrown at Cardiff City academy players'](https://www.bbc.co.uk/news/uk-wales-57934499) - Probe as former Cardiff City youth team footballer says he and a team-mate were racially abused.
 4. [Tusker Rock's shipwrecks graveyard captured in art project](https://www.bbc.co.uk/news/uk-wales-57918489) - Photographer Peter Britton wants his project to stand as a legacy to those lost to Tusker Rock.
 5. [Briton Ferry bin lorry 'taken and crashed' as crew took break](https://www.bbc.co.uk/news/uk-wales-57941011) - Police are investigating reports three people took the lorry before it crashed into a wall.

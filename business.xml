@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 14:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 14:50:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: New testing plan will not work, says CBI]]></title>
+            <description><![CDATA[The industry body criticises government plans that allow some key staff to bypass the NHS Covid app.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57945229</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57945229</guid>
+            <pubDate>Fri, 23 Jul 2021 14:41:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rail services face cuts as staff self-isolate]]></title>
             <description><![CDATA[Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".]]></description>
@@ -37,18 +44,18 @@
             <pubDate>Fri, 23 Jul 2021 09:39:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[People splash out on food and drink for Euro 2020]]></title>
-            <description><![CDATA[Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57939140</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57939140</guid>
-            <pubDate>Fri, 23 Jul 2021 09:12:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rural vacuum for getting hold of cash]]></title>
             <description><![CDATA[People living in rural areas have less chance of withdrawing or depositing cash nearby, research finds.]]></description>
             <link>https://www.bbc.co.uk/news/business-57941001</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57941001</guid>
             <pubDate>Fri, 23 Jul 2021 09:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People splash out on food and drink for Euro 2020]]></title>
+            <description><![CDATA[Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57939140</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57939140</guid>
+            <pubDate>Fri, 23 Jul 2021 09:12:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India Zomato: Shares of food delivery app soar 80% on market debut]]></title>
@@ -105,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/business-57928397</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57928397</guid>
             <pubDate>Thu, 22 Jul 2021 15:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inflation spike temporary, says BoE deputy governor]]></title>
-            <description><![CDATA[The recent pick up in price rises is not expected to last, says Bank of England deputy Ben Broadbent.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57922199</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57922199</guid>
-            <pubDate>Thu, 22 Jul 2021 15:39:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How global conferences are using tech to stay in business]]></title>
