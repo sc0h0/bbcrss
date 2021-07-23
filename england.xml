@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 13:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 13:52:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Fri, 23 Jul 2021 12:03:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Marcus Rashford mural messages removed after heavy rain]]></title>
-            <description><![CDATA[Manchester City Council intends to preserve the messages, which were left in support of the England star.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57937592</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57937592</guid>
-            <pubDate>Fri, 23 Jul 2021 11:21:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Frank Varey: Teenage boxing champion dies after river swim]]></title>
             <description><![CDATA[Tributes are being paid to Frank Varey, 16, whose body was pulled from the River Dee in Cheshire.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-57928688</link>
@@ -49,6 +42,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-57864221</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57864221</guid>
             <pubDate>Fri, 23 Jul 2021 12:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newcastle library book returned 63 years late]]></title>
+            <description><![CDATA[The copy of How to Lie with Statistics is decades past its return date of 25 November 1958.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-57940909</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-57940909</guid>
+            <pubDate>Fri, 23 Jul 2021 13:10:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marcus Rashford mural messages removed after heavy rain]]></title>
+            <description><![CDATA[Manchester City Council intends to preserve the messages, which were left in support of the England star.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57937592</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57937592</guid>
+            <pubDate>Fri, 23 Jul 2021 11:21:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Great Yarmouth borough has highest rise in 'pings' from app]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57941273</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57941273</guid>
             <pubDate>Fri, 23 Jul 2021 10:41:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oxfordshire lake death: Mother pays tribute to 'caring' daughter]]></title>
-            <description><![CDATA[Nicole Sanders was one of six people who died last weekend after having problems in water in England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-57940537</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-oxfordshire-57940537</guid>
-            <pubDate>Fri, 23 Jul 2021 10:24:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bobby Ball: Lytham statue to capture 'iconic' braces twang]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57922161</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57922161</guid>
             <pubDate>Thu, 22 Jul 2021 16:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oxfordshire lake death: Mother pays tribute to 'caring' daughter]]></title>
+            <description><![CDATA[Nicole Sanders was one of six people who died last weekend after having problems in water in England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-57940537</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-oxfordshire-57940537</guid>
+            <pubDate>Fri, 23 Jul 2021 13:51:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tewkesbury man first to swim 47.1 miles of River Avon]]></title>
