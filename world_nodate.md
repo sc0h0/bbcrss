@@ -13,7 +13,7 @@
 13. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
 14. [Coronavirus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?
 15. [Trading sex for cosmetic surgery in Mexico's narco capital](https://www.bbc.co.uk/news/stories-57932216) - The influence of narcos has caused many women to undergo cosmetic surgery in Mexico's Sinaloa state.
-16. [Sundarbans: why the world’s largest mangrove forest is sinking](https://www.bbc.co.uk/news/world-asia-india-57929463) - The low-lying islands are being battered by violent storms, rising sea levels, and melting ice from the Himalayas.
+16. [Sundarbans: Why the world’s largest mangrove forest is sinking](https://www.bbc.co.uk/news/world-asia-india-57929463) - The low-lying islands are being battered by violent storms, rising sea levels, and melting ice from the Himalayas.
 17. [The cost of hosting the Olympics](https://www.bbc.co.uk/news/57919584) - Holding the world's biggest sporting event comes with a hefty price tag
 18. [Ethiopia Tigray crisis: New front opens as aid fears grow](https://www.bbc.co.uk/news/world-africa-57926832) - A bloody eight-month battle for control of the Tigray region spills over into neighbouring Afar.
 19. [AI advance could transform battle against disease](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
