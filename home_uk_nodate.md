@@ -1,6 +1,6 @@
 1. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry move to daily testing after isolating workers led to supply shortages.
 2. [Olympics opening ceremony to begin later](https://www.bbc.co.uk/sport/olympics/57865245) - With the opening ceremony set for Friday, BBC Sport previews the Tokyo 2020 Olympics - a Games like no other.
-3. [Euro 2020 boosts food and drink retail sales](https://www.bbc.co.uk/news/business-57939140) - Sales rose by 0.5% as millions stocked up on food and drink to watch the Euro 2020 football tournament.
+3. [People splash out on food and drink for Euro 2020](https://www.bbc.co.uk/news/business-57939140) - Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.
 4. [Daily contact testing in schools cuts absences, study finds](https://www.bbc.co.uk/news/health-57930214) - A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.
 5. [Covid-19: Isolation exemption, and daily pupil testing 'cuts' absences](https://www.bbc.co.uk/news/uk-57934360) - Five things you need to know about the coronavirus pandemic this Friday morning.
 6. [Covid vaccine: Eight-week gap seen as sweet spot for Pfizer jab antibodies](https://www.bbc.co.uk/news/health-57929953) - Spacing out doses boosts antibody levels, say researchers - who suggest eight weeks as the "sweet spot".

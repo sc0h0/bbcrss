@@ -1,5 +1,5 @@
 1. [Tokyo prepares to open an Olympics like no other](https://www.bbc.co.uk/sport/olympics/57865245) - With the opening ceremony set for Friday, BBC Sport previews the Tokyo 2020 Olympics - a Games like no other.
-2. [China floods: Henan mother dies after saving baby from mudslide](https://www.bbc.co.uk/news/world-asia-china-57897474) - Rescuers believe she had flung her daughter to safety just as their home in Henan was buried.
+2. [China floods: Henan mother dies after saving baby from mudslide](https://www.bbc.co.uk/news/world-asia-china-57897474) - Rescuers believe she had flung her daughter to safety just as their home in Henan was hit.
 3. [India Zomato: Shares of food delivery app soar 80% on market debut](https://www.bbc.co.uk/news/business-57938217) - The firm's stock exchange listing sets the pace for other start-ups that are thriving in the pandemic.
 4. [Raj Kundra: Indian millionaire embroiled in porn scandal](https://www.bbc.co.uk/news/world-asia-india-57897783) - Raj Kundra, husband of Bollywood star Shilpa Shetty, has been accused of running a porn production ring.
 5. [Indonesia: Covid-positive man boards flight disguised as wife](https://www.bbc.co.uk/news/world-asia-57938542) - He may never have been caught if he had not changed into his regular clothes midway through the flight.
@@ -15,7 +15,7 @@
 15. [Olympic Games Tokyo 2020: India's top medal contenders](https://www.bbc.co.uk/news/world-asia-india-57913544) - India sends its largest ever contingent to the Tokyo Olympics in the hope of bettering its medals tally.
 16. [The battle for Indonesia's Gold Island](https://www.bbc.co.uk/news/world-asia-57902815) - There are fears that a mine will threaten Sangihe island's ancient forests and local water supply.
 17. [Mandira Bedi: What Hindu scriptures say about women at cremations](https://www.bbc.co.uk/news/world-asia-india-57894855) - Indian actress Mandira Bedi made news for doing her husband's last rites, generally a male preserve.
-18. [Tokyo 2020: Does Japan have Covid under control?](https://www.bbc.co.uk/news/57556978) - With the Olympics starting this on Friday, more and more Covid cases are being reported.
+18. [Tokyo 2020: Does Japan have Covid under control?](https://www.bbc.co.uk/news/57556978) - With the Olympics starting today, new Covid cases continue to be reported.
 19. [Tokyo Olympics: Athletes find new ways to train in lockdown](https://www.bbc.co.uk/news/world-asia-57887074) - Participants in the upcoming Games have been going to unusual lengths to stay in shape under restrictions.
 20. [Covid: Is China's vaccine success waning in Asia?](https://www.bbc.co.uk/news/world-asia-57845644) - Thailand and Indonesia's switch to other Covid jabs has raised questions about Chinese vaccines.
 21. [Covid: Ivermectin, milk among Indonesia's unproven 'cures'](https://www.bbc.co.uk/news/world-asia-pacific-57838033) - As Indonesia sees a surge fuelled by the Delta variant, misleading health claims are spreading.
