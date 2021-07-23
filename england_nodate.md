@@ -27,5 +27,5 @@
 27. [Jadon Sancho: England winger completes £73m move to Manchester United from Borussia Dortmund](https://www.bbc.co.uk/sport/football/57827831) - England winger Jadon Sancho completes his £73m move to Manchester United from Borussia Dortmund.
 28. [Women's Super League fixtures: Chelsea begin WSL title defence at Arsenal](https://www.bbc.co.uk/sport/football/57928978) - Chelsea will begin their Women's Super League title defence at Arsenal, while Manchester City travel to Everton.
 29. [Striker James completes Chelsea switch](https://www.bbc.co.uk/sport/football/57943942) - Chelsea confirm the signing of Manchester United forward Lauren James on a four-year deal.
-30. [Johnson-Thompson bids to upset Olympic odds](https://www.bbc.co.uk/sport/olympics/57901791) - How Katarina Johnson-Thompson tore up everything to claim world gold and will have to upset the odds once more to win in Tokyo.
-31. [QPR assistant Eustace set for Swansea job](https://www.bbc.co.uk/sport/football/57942276) - Swansea City are poised to appoint John Eustace as their new manager.
+30. [Mick Harford: Luton Town assistant says prostate cancer his 'biggest fight'](https://www.bbc.co.uk/sport/football/57937183) - Luton assistant Mick Harford says facing prostate cancer will be his "biggest fight" as he prepares to start radiotherapy treatment.
+31. [Johnson-Thompson bids to upset Olympic odds](https://www.bbc.co.uk/sport/olympics/57901791) - How Katarina Johnson-Thompson tore up everything to claim world gold and will have to upset the odds once more to win in Tokyo.

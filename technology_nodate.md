@@ -1,14 +1,14 @@
 1. [Zuckerberg wants Facebook to become online 'metaverse'](https://www.bbc.co.uk/news/technology-57942909) - CEO wants users to work, game and communicate in a virtual world, often using VR headsets.
-2. [AI breakthrough could spark medical revolution](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
-3. [Gun owners' fears after firearms dealer data breach](https://www.bbc.co.uk/news/technology-57932823) - Thousands of records from the popular shotgun and rifle sales site Guntrader were posted to the dark web.
-4. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
-5. [India Zomato: Shares of food delivery app soar 80% on market debut](https://www.bbc.co.uk/news/business-57938217) - The firm's stock exchange listing sets the pace for other start-ups that are thriving in the pandemic.
-6. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
-7. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
-8. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
-9. [California sues Activision Blizzard over alleged harassment](https://www.bbc.co.uk/news/technology-57929543) - One of the world's largest gaming companies is accused of endemic discrimination and harassment.
-10. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Autonomy's founder, Mike Lynch, says he will fight the US authorities' bid to try him for fraud.
-11. [Pegasus spyware seller: Blame our customers, not us, for hacking](https://www.bbc.co.uk/news/technology-57922664) - NSO Group tells BBC News: "The finger-pointing should be at the customer."
+2. [Printer ink pricier than champagne finds Which?](https://www.bbc.co.uk/news/technology-57941625) - According to a Which survey a pint of printer ink could cost up to £1,300.
+3. [AI breakthrough could spark medical revolution](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
+4. [Gun owners' fears after firearms dealer data breach](https://www.bbc.co.uk/news/technology-57932823) - Thousands of records from the popular shotgun and rifle sales site Guntrader were posted to the dark web.
+5. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
+6. [India Zomato: Shares of food delivery app soar 80% on market debut](https://www.bbc.co.uk/news/business-57938217) - The firm's stock exchange listing sets the pace for other start-ups that are thriving in the pandemic.
+7. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
+8. [More than 600,000 people told to isolate by NHS Covid-19 app](https://www.bbc.co.uk/news/technology-57929162) - 618,903 people in England and Wales received self-isolation alerts in the week up to 14 July
+9. [Major websites hit by global outage](https://www.bbc.co.uk/news/technology-57929544) - The websites of HSBC, British Airways and Airbnb are among those to have briefly gone offline.
+10. [California sues Activision Blizzard over alleged harassment](https://www.bbc.co.uk/news/technology-57929543) - One of the world's largest gaming companies is accused of endemic discrimination and harassment.
+11. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Autonomy's founder, Mike Lynch, says he will fight the US authorities' bid to try him for fraud.
 12. [Cyber-flashing: 'I get explicit messages every day'](https://www.bbc.co.uk/news/uk-57902816) - Influencer Elle Edwards lets us inside her DMs to show the extent of sexual abuse faced by women online.
 13. [Spyware: The software that watches you](https://www.bbc.co.uk/news/technology-57894917) - BBC’s cyber reporter, Joe Tidy, agreed to be spied on to understand the spyware experience further.
 14. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.

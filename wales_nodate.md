@@ -24,5 +24,5 @@
 24. [Pontyclun: Chwech yn yr ysbyty ar ôl i gar daro tafarn](https://www.bbc.co.uk/newyddion/57906843) - Y gred yw bod dyn 79 oed wedi dioddef "episod feddygol" cyn i'w gar daro'r bobl a'r dafarn ym Mhontyclun.
 25. ['Hawl i bawb' fod yn eu cymuned ar ddiwedd oes](https://www.bbc.co.uk/newyddion/57932136) - Galw am wneud mwy i sicrhau'r gofal gorau posib i bobl yn eu cymuned ar ddiwedd eu bywydau.
 26. [Honiadau o fwlio hiliol yn academi CPD Caerdydd](https://www.bbc.co.uk/newyddion/57905021) - Teulu plentyn sy'n honni iddo ddioddef bwlio hiliol yn poeni nad yw'r clwb yn trin yr honiadau'n ddigon difrifol.
-27. [Covid-19: Cerddoriaeth yw fy mywyd... a diflannodd popeth dros nos](https://www.bbc.co.uk/newyddion/57934679) - Profiad Gordon Morison o golli rhan helaeth o’i fywoliaeth o ganlyniad i bandemig Covid.
+27. ['Rhaid parchu pobl ac anifeiliaid cefn gwlad'](https://www.bbc.co.uk/newyddion/57904839) - Neges i ymwelwyr gan Wyn Evans, sy'n ffermio ger Aberystwyth
 28. [Morgannwg yn trechu Sir Warwig yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/57936623) - Dechrau da i ymgyrch y Cymry yn y Cwpan Undydd gan ennill gêm agos iawn yng Nghaerdydd.
