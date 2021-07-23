@@ -1,5 +1,5 @@
 1. [Daily contact testing in schools cuts absences, study finds](https://www.bbc.co.uk/news/health-57930214) - A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.
-2. [Covid vaccine: Eight-week gap seen as sweet spot for Pfizer jab antibodies](https://www.bbc.co.uk/news/health-57929953) - Spacing out doses boosts antibody levels, say researchers - who suggest eight weeks as the "sweet spot"
+2. [Covid vaccine: Eight-week gap seen as sweet spot for Pfizer jab antibodies](https://www.bbc.co.uk/news/health-57929953) - Spacing out doses boosts antibody levels, say researchers - who suggest eight weeks as the "sweet spot".
 3. [Child winter respiratory illness on rise in summer](https://www.bbc.co.uk/news/health-57908561) - Parents are warned to look out for signs of RSV, after lockdown disrupted its normal winter spread.
 4. [Covid cases at record levels for 20 to 29-year-olds](https://www.bbc.co.uk/news/health-57933108) - Everyone in this age group should be cautious when socialising, officials say, and get two jabs.
 5. [Nurses may consider industrial action over 3% NHS pay rise, union says](https://www.bbc.co.uk/news/health-57924271) - The Royal College of Nursing says members are "angry and upset" about the size of the increase.

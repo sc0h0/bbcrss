@@ -1,6 +1,6 @@
 1. [Government rules out searching Matt Hancock's private emails](https://www.bbc.co.uk/news/uk-politics-57930820) - Matt Hancock was among four ministers who used their personal email accounts for official business.
 2. [Police Federation says it has no confidence in Patel amid pay row](https://www.bbc.co.uk/news/uk-politics-57933129) - The Police Federation describes a pay freeze for this year as an "insult" to officers.
-3. [UK food workers to be exempt from Covid isolation](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry will move to daily Covid testing, the government says, after isolating workers led to supply shortages.
+3. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry move to daily testing after isolating workers led to supply shortages.
 4. [Greensill: Top official's widow hits out at lobbying report](https://www.bbc.co.uk/news/uk-politics-57933130) - Lord Heywood is 'scapegoated' by a report looking at the role of Australian financier Lex Greensill, she says.
 5. [Dawn Butler thrown out of Commons for PM lie accusation](https://www.bbc.co.uk/news/uk-politics-57927398) - Dawn Butler breaks parliamentary rules by accusing Boris Johnson of lying.
 6. [UK has no idea of EU fishing catch in its waters, says Labour](https://www.bbc.co.uk/news/uk-politics-57922251) - The government says it is trying to get EU boats to declare everything they land in UK waters.

@@ -1,6 +1,6 @@
-1. [UK food workers to be exempt from Covid isolation](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry will move to daily Covid testing, the government says, after isolating workers led to supply shortages.
+1. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry move to daily testing after isolating workers led to supply shortages.
 2. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
-3. [Road planners 'can ignore climate change'](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.
+3. [Road planners able to ignore climate change, campaigners claim](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.
 4. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
 5. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
 6. [Mike Lynch: UK extradition treaty doesn't rely on any facts](https://www.bbc.co.uk/news/business-57933718) - Autonomy's founder, Mike Lynch, says he will fight the US authorities' bid to try him for fraud.
