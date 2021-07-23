@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 06:00:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 06:32:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Thu, 22 Jul 2021 18:27:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Illegal dog breeder who mutilated puppies' ears jailed]]></title>
+            <description><![CDATA[Christopher Mae "cropped" dogs' ears which made them more valuable, magistrates are told.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57917953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57917953</guid>
+            <pubDate>Thu, 22 Jul 2021 12:35:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: How many deaths have there been in Wales?]]></title>
             <description><![CDATA[It is the highest number of deaths reported in a single day since 2 April, when five were reported.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57935150</link>
@@ -72,13 +79,6 @@
             <pubDate>Thu, 22 Jul 2021 17:56:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Illegal dog breeder who mutilated puppies' ears jailed]]></title>
-            <description><![CDATA[Christopher Mae "cropped" dogs' ears which made them more valuable, magistrates are told.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57917953</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57917953</guid>
-            <pubDate>Thu, 22 Jul 2021 12:35:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NHS Wales: A&E waits longest in nine years as hospital admissions rise]]></title>
             <description><![CDATA[More than 19% of the Welsh population is waiting for treatment, the figures also show.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57915989</link>
@@ -86,18 +86,18 @@
             <pubDate>Thu, 22 Jul 2021 12:11:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mike Smith: Former Wales and Hull City manager dies aged 83]]></title>
-            <description><![CDATA[Former Wales manager Mike Smith, the first non-Welshman to manage the national side, has died at the age of 83.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57931380</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57931380</guid>
-            <pubDate>Thu, 22 Jul 2021 12:06:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Motorcyclist killed in crash on A44 near Aberystwyth]]></title>
             <description><![CDATA[The motorcyclist died at the scene after crashing with a lorry near Aberystwyth on Wednesday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57925835</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57925835</guid>
             <pubDate>Thu, 22 Jul 2021 09:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales weather warning: Thunderstorms set to replace heatwave]]></title>
+            <description><![CDATA[A yellow warning for rain has been issued for most of Wales, replacing first-ever amber heat warning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57929643</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57929643</guid>
+            <pubDate>Thu, 22 Jul 2021 11:44:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHS Wales pay rise offer: 'Claps don't pay the bills']]></title>
@@ -170,11 +170,11 @@
             <pubDate>Thu, 22 Jul 2021 16:02:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Hannah Mills and rower Mohamed Sbihi to be Team GB flag bearers]]></title>
-            <description><![CDATA[Sailor Hannah Mills and rower Mohamed Sbihi are chosen to carry the flag for Great Britain at Friday's Tokyo Olympics opening ceremony.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57925326</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57925326</guid>
-            <pubDate>Thu, 22 Jul 2021 11:31:18 GMT</pubDate>
+            <title><![CDATA[Mike Smith: Former Wales and Hull City manager dies aged 83]]></title>
+            <description><![CDATA[Former Wales manager Mike Smith, the first non-Welshman to manage the national side, has died at the age of 83.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57931380</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57931380</guid>
+            <pubDate>Thu, 22 Jul 2021 12:06:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pontyclun: Chwech yn yr ysbyty ar ôl i gar daro tafarn]]></title>

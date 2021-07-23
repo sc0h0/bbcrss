@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 06:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 06:27:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57930988</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57930988</guid>
             <pubDate>Fri, 23 Jul 2021 05:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Philip Doyle and Hannah Scott into repechage]]></title>
+            <description><![CDATA[Team Ireland's Philip Doyle and Team GB's Hannah Scott both fail to make it through their initial rowing heats on Day 1 of the Olympic Games]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57939212</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57939212</guid>
+            <pubDate>Fri, 23 Jul 2021 05:46:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Theatre and concert hall decision in NI delayed]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57930799</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57930799</guid>
             <pubDate>Thu, 22 Jul 2021 13:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Axa Insurance: Company announces 60 new jobs for Londonderry]]></title>
-            <description><![CDATA[The new jobs will take the firm's workforce in the north west to more than 600.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57932797</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57932797</guid>
-            <pubDate>Thu, 22 Jul 2021 16:08:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Portrush: Mass brawl involving 70 youths at train station]]></title>
@@ -184,6 +184,13 @@
             <pubDate>Tue, 20 Jul 2021 17:33:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The parklets popping up in Belfast city centre]]></title>
+            <description><![CDATA[Spaces for car parking are being turned into places for people on the Ormeau Road and Linenhall Street.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57932632</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57932632</guid>
+            <pubDate>Fri, 23 Jul 2021 06:08:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Our lives just finished then']]></title>
             <description><![CDATA[A report concludes there were failures in the investigation into the murder of a teenager in 1993.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57932629</link>
@@ -205,11 +212,11 @@
             <pubDate>Wed, 21 Jul 2021 07:18:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SDLP leader says UK government has lost trust on Protocol]]></title>
-            <description><![CDATA[Colum Eastwood asks the NI secretary why he thought anyone in Northern Ireland would trust the UK government.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57918324</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57918324</guid>
-            <pubDate>Wed, 21 Jul 2021 14:30:30 GMT</pubDate>
+            <title><![CDATA[Axa Insurance: Company announces 60 new jobs for Londonderry]]></title>
+            <description><![CDATA[The new jobs will take the firm's workforce in the north west to more than 600.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57932797</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57932797</guid>
+            <pubDate>Thu, 22 Jul 2021 16:08:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arlene Arkinson 'let down by criminal justice system']]></title>
