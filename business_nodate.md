@@ -1,7 +1,7 @@
 1. [Covid: Food workers given exemption from isolation rules](https://www.bbc.co.uk/news/business-57937342) - Key parts of the food industry move to daily testing after isolating workers led to supply shortages.
 2. [Euro 2020 boosts food and drink retail sales](https://www.bbc.co.uk/news/business-57939140) - Sales rose by 0.5% as millions stocked up on food and drink to watch the Euro 2020 football tournament.
 3. [Road planners able to ignore climate change, campaigners claim](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.
-4. [India food delivery giant Zomato sees stellar stock market debut](https://www.bbc.co.uk/news/business-57938217) - Shares in the Ant Group-backed company traded more than 80% higher than their initial public offering price.
+4. [India Zomato: Shares of food delivery app soar 80% on market debut](https://www.bbc.co.uk/news/business-57938217) - The firm's stock exchange listing sets the pace for other start-ups that are thriving in the pandemic.
 5. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
 6. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
 7. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
