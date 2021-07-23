@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jul 2021 03:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jul 2021 04:16:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Government rules out searching Matt Hancock's private emails]]></title>
+            <description><![CDATA[Matt Hancock was among four ministers who used their personal email accounts for official business.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57930820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57930820</guid>
+            <pubDate>Fri, 23 Jul 2021 04:05:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Police Federation says it has no confidence in Patel amid pay row]]></title>
             <description><![CDATA[The Police Federation describes a pay freeze for this year as an "insult" to officers.]]></description>
