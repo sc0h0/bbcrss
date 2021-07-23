@@ -13,7 +13,7 @@
 13. [Post Office scandal: Postmasters to get up to £100,000](https://www.bbc.co.uk/news/business-57928397) - Subpostmasters wrongly convicted of offences during an IT scandal are to receive interim compensation.
 14. [Inflation spike temporary, says BoE deputy governor](https://www.bbc.co.uk/news/business-57922199) - The recent pick up in price rises is not expected to last, says Bank of England deputy Ben Broadbent.
 15. [How global conferences are using tech to stay in business](https://www.bbc.co.uk/news/business-57817807) - Moving events online kept the industry going during the pandemic and now they're here to stay.
-16. [Heatwave: The worst jobs to have as temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
+16. [Heatwave: The worst jobs to have when temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
 17. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
 18. [CEO Secrets: 'Four-day weeks are good for business'](https://www.bbc.co.uk/news/business-57894093) - CEO Joe Munns says giving his workers a three-day weekend makes them happier and more productive.
 19. [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128) - Electroflight has built the E-NXT which it hopes will break the electric airspeed record.
