@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 06:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 06:59:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Sat, 24 Jul 2021 06:03:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rhys McClenaghan impresses in Tokyo opener]]></title>
+            <description><![CDATA[Irish gymnast Rhys McClenaghan qualifies for next Sunday's pommel horse final at the Olympics as Lisburn boxer Kurt Walker wins his opener.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57952195</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57952195</guid>
+            <pubDate>Sat, 24 Jul 2021 04:57:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Omagh bomb: 'Real prospect attack could have been prevented']]></title>
             <description><![CDATA[A judge also calls for new investigations into the Real IRA attack which killed 29 people.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57937174</link>
@@ -72,11 +79,11 @@
             <pubDate>Fri, 23 Jul 2021 17:27:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Marcus Smith: British and Irish Lions angered by 'offensive' slur on Irish Independent podcast]]></title>
-            <description><![CDATA[The British and Irish Lions and Harlequins both express anger over former Ireland international Neil Francis' description of fly-half Marcus Smith.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57946171</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57946171</guid>
-            <pubDate>Fri, 23 Jul 2021 19:22:28 GMT</pubDate>
+            <title><![CDATA[Senior Open: Darren Clarke hits three-under 67 to take one-shot Sunningdale lead]]></title>
+            <description><![CDATA[Darren Clarke leads The Senior Open by one shot at the halfway stage after a 67 leaves him a shot ahead of Bernhard Langer and Jerry Kelly.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/57941157</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/57941157</guid>
+            <pubDate>Fri, 23 Jul 2021 18:28:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extreme heat: Ireland records two tropical nights in a row]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57941663</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57941663</guid>
             <pubDate>Fri, 23 Jul 2021 14:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit: More than 2,000 medicines face withdrawal over Protocol]]></title>
-            <description><![CDATA[Some firms will stop supplying medicines when a grace period ends, says pharmaceutical group.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57941657</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57941657</guid>
-            <pubDate>Fri, 23 Jul 2021 14:09:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Belfast Trust to cancel some surgeries]]></title>

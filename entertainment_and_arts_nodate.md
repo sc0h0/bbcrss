@@ -1,5 +1,5 @@
 1. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.
-2. [KSI: YouTuber and rapper tops UK album chart](https://www.bbc.co.uk/news/entertainment-arts-57940455) - His star-studded LP, All Over The Place, went straight in at the summit on Friday.
+2. [KSI: YouTuber and rapper tops UK albums chart](https://www.bbc.co.uk/news/entertainment-arts-57940455) - His star-studded LP, All Over The Place, went straight in at the summit on Friday.
 3. [Critics split on Sixth Sense director's new thriller](https://www.bbc.co.uk/news/entertainment-arts-57940492) - Old, the new film from M Night Shyamalan, sees the characters start to age at rapid speed.
 4. [Tramlines 2021: Fans 'making up' for missed years](https://www.bbc.co.uk/news/uk-england-south-yorkshire-57948667) - The festival in Sheffield in the biggest in Europe since the lifting of most restrictions.
 5. [Amy Winehouse: Could there be new music on the way?](https://www.bbc.co.uk/news/entertainment-arts-57926362) - Ten years after her death, Amy's parents say they want fans to hear CDs of her unreleased material.
