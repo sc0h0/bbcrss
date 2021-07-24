@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 09:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 10:12:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -226,6 +226,13 @@
             <pubDate>Fri, 23 Jul 2021 15:47:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man Utd manager Ole Gunnar Solskjaer signs new deal until 2024]]></title>
+            <description><![CDATA[Manchester United manager Ole Gunnar Solskjaer signs a new deal with the club until 2024, with an option for a further year.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57954333</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57954333</guid>
+            <pubDate>Sat, 24 Jul 2021 10:08:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[T20 debut on Sunday, Hundred matchwinner on Friday - Benjamin stars in thrilling Phoenix win]]></title>
             <description><![CDATA[Unknown 22-year-old Chris Benjamin leads Birmingham Phoenix to a stunning last-gasp victory over London Spirit in the men's Hundred.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57949800</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/football/57942169</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57942169</guid>
             <pubDate>Fri, 23 Jul 2021 16:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Super League: Leeds Rhinos 38-16 Salford Red Devils - Leeming inspires Rhinos to victory]]></title>
-            <description><![CDATA[Kruise Leeming scores twice as Leeds comfortably beat Salford 38-16 to register their first win in three Super League games.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/57928500</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/57928500</guid>
-            <pubDate>Fri, 23 Jul 2021 21:26:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
