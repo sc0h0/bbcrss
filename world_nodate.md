@@ -1,5 +1,5 @@
-1. [Surfside tower collapse: No sign of final victim as Miami search ends](https://www.bbc.co.uk/news/world-us-canada-57951422) - As the search for remains in the collapsed apartment block ends, one victim remains unaccounted for.
-2. [India monsoon: Rescuers search for survivors after heavy rains](https://www.bbc.co.uk/news/world-asia-india-57952521) - Heavy rains have battered India's western coast, leaving dozens dead and prompting mass evacuations.
+1. [India monsoon: Rescuers search for survivors after heavy rains](https://www.bbc.co.uk/news/world-asia-india-57952521) - Heavy rains have battered India's western coast, leaving dozens dead and prompting mass evacuations.
+2. [Surfside tower collapse: No sign of final victim as Miami search ends](https://www.bbc.co.uk/news/world-us-canada-57951422) - As the search for remains in the collapsed apartment block ends, one victim remains unaccounted for.
 3. [Australia Covid: Arrests at anti-lockdown protests](https://www.bbc.co.uk/news/world-australia-57952516) - Thousands take to the streets in Sydney, with further protests in Melbourne and Brisbane.
 4. [China imposes sanctions on US officials](https://www.bbc.co.uk/news/world-asia-china-57950720) - The sanctions are in response to recent US sanctions on Chinese officials in Hong Kong.
 5. [Jovenel Moïse: Unrest mars funeral of assassinated Haitian leader](https://www.bbc.co.uk/news/world-latin-america-57915760) - Gunshots and tear gas punctuate the funeral of former Haitian President Jovenel Moïse.

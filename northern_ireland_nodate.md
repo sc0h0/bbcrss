@@ -1,5 +1,5 @@
 1. [Covid-19: One further death and 1,520 positive cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57952689) - The total deaths linked to Covid-19 in Northern Ireland since the start of the pandemic is 2,168.
-2. [Dublin: Shots fired at Irish police patrol car in Tallaght](https://www.bbc.co.uk/news/world-europe-57955148) - Gardaí are investigating the incident which happened in Tallaght at about 02:30 local time on Saturday.
+2. [Shots fired at police patrol car in Dublin](https://www.bbc.co.uk/news/world-europe-57955148) - Gardaí are investigating the incident which happened in Tallaght at about 02:30 local time on Saturday.
 3. [Covid-19: NI vaccine certificate app launches after interim scheme 'pressure'](https://www.bbc.co.uk/news/uk-northern-ireland-57946702) - The CovidCertNI app is now live as interim vaccine certification system users describe "a shambles".
 4. [Coronavirus: Draft guidelines for Irish indoor hospitality published](https://www.bbc.co.uk/news/world-europe-57949844) - From Monday, businesses must ask customers for proof that they have immunity from Covid-19.
 5. [Water deaths: Public warned of 'hidden dangers' in lakes and rivers](https://www.bbc.co.uk/news/uk-northern-ireland-57942446) - RNLI says rivers, lakes and reservoirs have "hidden obstacles" that can trap.
