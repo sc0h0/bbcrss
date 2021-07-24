@@ -10,8 +10,8 @@
 10. [Covid-19: Air travel takes off on busiest weekend since pandemic began](https://www.bbc.co.uk/news/uk-57948383) - Huge queues at some airports are reported on the first weekend of the summer holidays for many.
 11. [Esther Dingley: Partner informed of 'remains' find in Pyrenees](https://www.bbc.co.uk/news/uk-england-tyne-57954180) - Esther Dingley disappeared on a solo walk near the France-Spain border in November.
 12. [Covid in Scotland: Thousands turn off tracking app](https://www.bbc.co.uk/news/uk-scotland-57941343) - Protect Scotland was active on just 900,000 phones last week, despite two million downloads.
-13. [Lightning strikes and storms follow UK heatwave](https://www.bbc.co.uk/news/uk-57954071) - Days of high summer temperatures give way to storms.
-14. [Covid vaccine: Gareth Southgate urges young people to get jab](https://www.bbc.co.uk/news/uk-57950059) - The England manager says vaccination is a chance to "get your freedom back".
+13. [Covid vaccine: Gareth Southgate urges young people to get jab](https://www.bbc.co.uk/news/uk-57950059) - The England manager says vaccination is a chance to "get your freedom back".
+14. [Lightning strikes and storms follow UK heatwave](https://www.bbc.co.uk/news/uk-57954071) - Days of high summer temperatures give way to storms.
 15. [The young imam using Instagram to change opinions](https://www.bbc.co.uk/news/uk-england-manchester-57946493) - Sabah Ahmedi wants to show imams can "have a laugh", have "a bit of banter" and "wear colourful socks".
 16. [Scarborough hotel owner couple helping homeless people](https://www.bbc.co.uk/news/uk-57916769) - Jess and Andrew Waggitt opened their doors to vulnerable people during the pandemic and continue to do so.
 17. [DRC volcano: Reuniting children with families after the eruption](https://www.bbc.co.uk/news/world-africa-57947193) - Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.
