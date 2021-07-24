@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 13:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 13:37:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Liverpool sinkhole thought to be caused by water main burst]]></title>
+            <description><![CDATA[The incident sparked a large emergency response as fire crews worked to stop flooding.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-57954296</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57954296</guid>
+            <pubDate>Sat, 24 Jul 2021 13:33:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Esther Dingley: Partner informed of 'remains' find in Pyrenees]]></title>
             <description><![CDATA[Esther Dingley disappeared on a solo walk near the France-Spain border in November.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-57954208</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-57954208</guid>
             <pubDate>Sat, 24 Jul 2021 12:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open water: Swimmers urged not to take chances]]></title>
-            <description><![CDATA[It is thought 28 people have lost their lives in open water during the recent hot weather.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57953480</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57953480</guid>
-            <pubDate>Sat, 24 Jul 2021 13:22:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Goole WW2 bomb: M62 closed as Army prepares to detonate device]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-57954547</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-57954547</guid>
             <pubDate>Sat, 24 Jul 2021 12:27:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open water: Swimmers urged not to take chances]]></title>
+            <description><![CDATA[It is thought 28 people have lost their lives in open water during the recent hot weather.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57953480</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57953480</guid>
+            <pubDate>Sat, 24 Jul 2021 13:22:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lightning destroys roofs as storms end heatwave in southern England and Wales]]></title>

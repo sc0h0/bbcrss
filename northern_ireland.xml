@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 13:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 13:44:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57952689</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57952689</guid>
             <pubDate>Sat, 24 Jul 2021 13:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Muck Island: Kayakers rescued by RNLI near Islandmagee]]></title>
+            <description><![CDATA[Three people were found in the water, one showing effects of being in cold water for a prolonged period. ]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57955149</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57955149</guid>
+            <pubDate>Sat, 24 Jul 2021 13:31:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shots fired at police patrol car in Dublin]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Sat, 24 Jul 2021 05:45:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Children with special educational needs 'forgotten' during pandemic]]></title>
-            <description><![CDATA[A report finds some families felt that Covid-19 was used as "an excuse" to limit or stop services.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57948640</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57948640</guid>
-            <pubDate>Sat, 24 Jul 2021 05:53:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ballywatticock: What is the origin of NI weather station names?]]></title>
             <description><![CDATA[Ballywatticock had its moment in the sun but what is its origin that of other weather station names?]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57914914</link>
@@ -70,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57955062</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57955062</guid>
             <pubDate>Sat, 24 Jul 2021 12:03:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Children with special educational needs 'forgotten' during pandemic]]></title>
+            <description><![CDATA[A report finds some families felt that Covid-19 was used as "an excuse" to limit or stop services.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57948640</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57948640</guid>
+            <pubDate>Sat, 24 Jul 2021 05:53:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Badger cull considered in attempt to tackle bovine TB]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Fri, 23 Jul 2021 11:30:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Carrickfergus: Police investigate posts about asylum seekers]]></title>
-            <description><![CDATA[A senior officer says the comments on a group in Carrickfergus are potential hate crimes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57948637</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57948637</guid>
-            <pubDate>Fri, 23 Jul 2021 17:27:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Belfast Trust to cancel some surgeries]]></title>
             <description><![CDATA[The trust says the decision will relieve some of the pressure on its bed and staffing issues.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57940347</link>
@@ -107,11 +107,11 @@
             <pubDate>Fri, 23 Jul 2021 15:51:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: One further death and 1,337 positive cases in NI]]></title>
-            <description><![CDATA[There are currently 163 patients with Covid-19 in NI hospitals, 16 of whom are in intensive care.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57943451</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57943451</guid>
-            <pubDate>Fri, 23 Jul 2021 17:30:34 GMT</pubDate>
+            <title><![CDATA[Coronavirus: NI businesses hit by app 'pingdemic']]></title>
+            <description><![CDATA[Businesses call for changes to the StopCovidNI app as they lose trade due to self-isolation rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57899897</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57899897</guid>
+            <pubDate>Tue, 20 Jul 2021 10:04:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Where are Covid-19 vaccine clinics in NI?]]></title>
