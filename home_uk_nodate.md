@@ -2,7 +2,7 @@
 2. [Daily tests not self-isolation for police, fire, borders, transport and freight staff](https://www.bbc.co.uk/news/uk-57950930) - Police, fire, borders and transport staff are now eligible in England, with 200 new test centres promised.
 3. [British and Irish Lions: Lions fight back to clinch series opener](https://www.bbc.co.uk/sport/rugby-union/57955588) - The British and Irish Lions draw first blood in the Test series against world champions South Africa after fighting back from nine points down at the break.
 4. [Six people taken to hospital after funfair incident](https://www.bbc.co.uk/news/uk-northern-ireland-57957404) - Emergency services were called to the scene after a 999 call was made on Saturday evening.
-5. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired teargas as clashes broke out during protests against Covid-19 curbs and vaccination.
+5. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired teargas during protests against Covid-19 curbs and vaccination.
 6. [Lightning destroys roofs as storms end heatwave in southern England and Wales](https://www.bbc.co.uk/news/uk-57952825) - Southern Britain is hit by heavy rain but there is a sunny start to school holidays further north.
 7. [Fatuma Kadir: Missing 11-year-old Bolton girl is found](https://www.bbc.co.uk/news/uk-england-manchester-57955421) - Fatuma Kadir, who travelled from Bolton to London, is found after police mount a nationwide search.
 8. [Parkrun back on in England after Covid pandemic suspension](https://www.bbc.co.uk/news/uk-57955672) - The free 5km community event, which takes place in parks, was suspended during the Covid pandemic.

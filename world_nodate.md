@@ -2,7 +2,7 @@
 2. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
 3. [Budapest Pride stands up for LGBT rights in Hungary](https://www.bbc.co.uk/news/world-europe-57957348) - Organisers accuse Hungary's right-wing government of seeking to discriminate against gay people.
 4. [Typhoon In-Fa sweeps towards China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - Typhoon In-Fa is expected to make landfall on Sunday, days after floods devastated central areas.
-5. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired teargas as clashes broke out during protests against Covid-19 curbs and vaccination.
+5. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired teargas during protests against Covid-19 curbs and vaccination.
 6. [Baby orca, Toa, dies in New Zealand after failed search for mother](https://www.bbc.co.uk/news/world-asia-57950919) - Toa, a killer whale stranded from his family, had washed ashore on the New Zealand coast.
 7. [Australia Covid: Arrests at anti-lockdown protests](https://www.bbc.co.uk/news/world-australia-57952516) - Thousands take to the streets in Sydney, with further protests in Melbourne and Brisbane.
 8. [Surfside tower collapse: No sign of final victim as Miami search ends](https://www.bbc.co.uk/news/world-us-canada-57951422) - As the search for remains in the collapsed apartment block ends, one victim remains unaccounted for.
