@@ -1,8 +1,8 @@
-1. [KSI: YouTuber and rapper tops UK album chart](https://www.bbc.co.uk/news/entertainment-arts-57940455) - His star-studded LP, All Over The Place, went straight in at the summit on Friday.
-2. [Latitude Festival: 'It's so nice to get back into the festival vibe'](https://www.bbc.co.uk/news/uk-england-suffolk-57940287) - About 40,000 people are expected at this year's Latitude Festival each day.
+1. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival in the UK since 2019.
+2. [KSI: YouTuber and rapper tops UK album chart](https://www.bbc.co.uk/news/entertainment-arts-57940455) - His star-studded LP, All Over The Place, went straight in at the summit on Friday.
 3. [Critics split on Sixth Sense director's new thriller](https://www.bbc.co.uk/news/entertainment-arts-57940492) - Old, the new film from M Night Shyamalan, sees the characters start to age at rapid speed.
-4. [Amy Winehouse: Could there be new music on the way?](https://www.bbc.co.uk/news/entertainment-arts-57926362) - Ten years after her death, Amy's parents say they want fans to hear CDs of her unreleased material.
-5. [Children in Need and Comic Relief to air from BBC Salford studios](https://www.bbc.co.uk/news/entertainment-arts-57940447) - The BBC's annual fundraising events will be broadcast from the city from 2021 onwards.
+4. [Tramlines 2021: Fans 'making up' for missed years](https://www.bbc.co.uk/news/uk-england-south-yorkshire-57948667) - The festival in Sheffield in the biggest in Europe since the lifting of most restrictions.
+5. [Amy Winehouse: Could there be new music on the way?](https://www.bbc.co.uk/news/entertainment-arts-57926362) - Ten years after her death, Amy's parents say they want fans to hear CDs of her unreleased material.
 6. [John Simpson: Good Morning Britain hosts apologise after swearing](https://www.bbc.co.uk/news/entertainment-arts-57940487) - Veteran foreign correspondent let the rude word slip on the ITV show shortly before 0650 BST.
 7. [Anne-Marie: I've always loved the idea of revenge](https://www.bbc.co.uk/news/entertainment-arts-57889391) - The pop star on beating anxiety, growing bored of her biggest song, and her revenge fantasies.
 8. [Halima Aden and Tommy Hilfiger: ‘It’s not just about diverse catwalks’](https://www.bbc.co.uk/news/world-57918698) - The world’s first hijab-wearing supermodel talks to fashion designer Tommy Hilfiger about why she quit the industry.

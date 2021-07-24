@@ -1,5 +1,5 @@
-1. [Covid in Scotland: Thousands turn off tracking app](https://www.bbc.co.uk/news/uk-scotland-57941343) - The Protect Scotland app was active on about 900,000 phones last week despite being downloaded two million times.
-2. [Divers search Loch Lomond for missing person](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57945374) - An emergency response was launched near Balloch Country Park after reports of a person in the water.
+1. [Teenager found dead after Loch Lomond search](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57945374) - A major search operation was launched at Balloch Country Park just after 19:00 on Friday.
+2. [Covid in Scotland: Thousands turn off tracking app](https://www.bbc.co.uk/news/uk-scotland-57941343) - The Protect Scotland app was active on about 900,000 phones last week despite being downloaded two million times.
 3. [The Rig: 'Scotland's Justin Bieber' leads cast of new Amazon drama](https://www.bbc.co.uk/news/uk-scotland-57942719) - Martin Compston's latest co-star reckons the Line of Duty actor is as famous in Scotland as a pop icon.
 4. [Tokyo Olympics: Who are Scotland's main medal hopes?](https://www.bbc.co.uk/sport/olympics/57798490) - Olympic veterans Hannah Miley and Eilidh Doyle assess the Tokyo medal chances of the Scottish contingent in Team GB.
 5. [Covid in Scotland: Critical workers to be exempt from self-isolation](https://www.bbc.co.uk/news/uk-scotland-57937583) - Emergency services, transport and government workers will also be among those who can apply to avoid isolating.
