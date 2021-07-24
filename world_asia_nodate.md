@@ -2,7 +2,7 @@
 2. [Baby orca, Toa, dies in New Zealand after failed search for mother](https://www.bbc.co.uk/news/world-asia-57950919) - Toa, a killer whale stranded from his family, had washed ashore on the New Zealand coast.
 3. [Australia Covid: Arrests at anti-lockdown protests](https://www.bbc.co.uk/news/world-australia-57952516) - Thousands take to the streets in Sydney, with further protests in Melbourne and Brisbane.
 4. [Why is the Great Barrier Reef in trouble? A simple guide](https://www.bbc.co.uk/news/world-australia-57938858) - Australia's natural wonder faces a battle to survive - here's a simple guide.
-5. [India monsoon: 110 dead after heavy rainfall in Maharashtra](https://www.bbc.co.uk/news/world-asia-india-57938839) - Rescuers are racing to evacuate survivors but many are feared missing in the state of Maharashtra.
+5. [India monsoon: 110 dead after heavy rainfall in Maharashtra](https://www.bbc.co.uk/news/world-asia-india-57938839) - Rescuers are racing to evacuate survivors, but many are feared missing in the state of Maharashtra.
 6. [1991 reforms: The year that transformed India](https://www.bbc.co.uk/news/world-asia-india-57939341) - The BBC looks back at the pivotal moment when India's economy changed forever.
 7. [First Chinese presidential visit to Tibet in 30 years](https://www.bbc.co.uk/news/world-asia-china-57941893) - Xi Jinping is the first Chinese leader in 30 years to make an official trip to the troubled region.
 8. [Afghanistan: ‘Taliban gains are not irreversible’](https://www.bbc.co.uk/news/world-asia-57940851) - We are working to retake strategic locations, the country’s national security adviser says.

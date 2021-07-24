@@ -1,4 +1,4 @@
-1. [Met Office storm warning for campsites and caravans](https://www.bbc.co.uk/news/uk-57945502) - Thunderstorms and 55mph gusts of wind could disrupt the plans of holidaymakers, the Met Office says.
+1. [Storm warning as lightning strike damages homes](https://www.bbc.co.uk/news/uk-57952825) - Heavy rain and thunderstorms are forecast for southern England and Wales as extreme heat comes to an end.
 2. [Concern mounts for missing 11-year-old schoolgirl from Bolton](https://www.bbc.co.uk/news/uk-england-manchester-57950115) - The parents of Fatuma Kadir, who travelled from Manchester to London by train, say they are in "shock".
 3. [Covid: North East gets five-week government support to slow growth](https://www.bbc.co.uk/news/uk-england-57949940) - From Monday extra help will be given to the region to ramp up testing and vaccine rollouts.
 4. [Coronavirus: Mum urges 'get jab' after son hospitalised](https://www.bbc.co.uk/news/uk-england-tees-57375406) - Aiden's mum says it "infuriates" her when parents presume their children will not get ill.
@@ -6,12 +6,12 @@
 6. [Newcastle's Mining Institute reopens after £8.9m revamp](https://www.bbc.co.uk/news/uk-england-tyne-57942709) - The former Institute of Mining and Mechanical Engineers and will host events and exhibitions.
 7. [Escape to Victory: The Ipswich footballers who made a cult classic](https://www.bbc.co.uk/news/uk-england-suffolk-57840345) - How did a group of Ipswich Town players end up starring in a film with Pele, Stallone and Caine?
 8. [Covid-19: Sadiq Khan urges PM to change isolation rules earlier](https://www.bbc.co.uk/news/uk-57951577) - Fully vaccinated people should avoid quarantine now by testing daily, the Mayor of London says.
-9. [Tributes to Stoke-on-Trent man who died on trip to beach](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57945294) - The family of 21-year-old Hamza Mansoor have thanked "all the heroes" who tried to save him.
-10. [Makina: the UK subculture you've probably never heard of](https://www.bbc.co.uk/news/uk-england-57946983) - A leading MC says the music genre's return after Covid is going to be "something special".
-11. [Newcastle library book returned 63 years late](https://www.bbc.co.uk/news/uk-england-tyne-57940909) - The copy of How to Lie with Statistics is decades past its return date of 25 November 1958.
-12. [M62 police shooting: Inquest into death of Yassar Yaqub put back](https://www.bbc.co.uk/news/uk-england-leeds-57943269) - Judge Guy Kearl QC tells a pre-inquest review it is necessary to ensure "all angles are considered".
-13. [Soldier found dead in barracks at Larkhill, Salisbury](https://www.bbc.co.uk/news/uk-england-wiltshire-57943159) - The Ministry of Defence says it is investigating the circumstances surrounding her death.
-14. [Sarm Heslop: Missing woman's parents still have hope](https://www.bbc.co.uk/news/uk-england-hampshire-57911889) - Four months after she vanished, it is still not known what happened to Sarm Heslop.
+9. [Reforms set for Bristol council's 'shambolic' SEND system](https://www.bbc.co.uk/news/uk-england-bristol-57945607) - Long-term plans that include building 450 schools following damning reports are set to go ahead.
+10. [Tributes to Stoke-on-Trent man who died on trip to beach](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57945294) - The family of 21-year-old Hamza Mansoor have thanked "all the heroes" who tried to save him.
+11. [Makina: the UK subculture you've probably never heard of](https://www.bbc.co.uk/news/uk-england-57946983) - A leading MC says the music genre's return after Covid is going to be "something special".
+12. [Newcastle library book returned 63 years late](https://www.bbc.co.uk/news/uk-england-tyne-57940909) - The copy of How to Lie with Statistics is decades past its return date of 25 November 1958.
+13. [M62 police shooting: Inquest into death of Yassar Yaqub put back](https://www.bbc.co.uk/news/uk-england-leeds-57943269) - Judge Guy Kearl QC tells a pre-inquest review it is necessary to ensure "all angles are considered".
+14. [Soldier found dead in barracks at Larkhill, Salisbury](https://www.bbc.co.uk/news/uk-england-wiltshire-57943159) - The Ministry of Defence says it is investigating the circumstances surrounding her death.
 15. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
 16. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
 17. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
