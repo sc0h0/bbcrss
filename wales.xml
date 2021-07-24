@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 10:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 11:11:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Sat, 24 Jul 2021 05:05:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Helen Glover and Polly Swann into semi-finals, Andy Murray and Joe Salisbury win]]></title>
+            <description><![CDATA[A shaky start for Helen Glover and Polly Swann but Andy Murray and Joe Salisbury win doubles opener.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57951792</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57951792</guid>
+            <pubDate>Sat, 24 Jul 2021 08:47:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bristol Rovers v Swansea City friendly called off due to Covid cases]]></title>
             <description><![CDATA[Swansea City's pre-season friendly at Bristol Rovers on Saturday is cancelled due to Covid-19 cases at the Championship club.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57953909</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/sport/football/57942276</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57942276</guid>
             <pubDate>Fri, 23 Jul 2021 09:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British and Irish Lions 2021: McBryde backs Jones forward pair for first Test impact]]></title>
-            <description><![CDATA[British and Irish Lions forwards coach Robin McBryde says prop Wyn Jones and captain Alun Wyn Jones are fully deserving of their places for Saturday's first Test with South Africa.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/57947349</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/57947349</guid>
-            <pubDate>Fri, 23 Jul 2021 17:17:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rhai myfyrwyr rhyngwladol yn wynebu ffi cwarantîn o £1,750]]></title>
@@ -185,7 +185,7 @@
         </item>
         <item>
             <title><![CDATA[Dim medal yn y ras ffordd i Geraint Thomas ar ôl disgyn]]></title>
-            <description><![CDATA[Richard Carapaz o Ecuador yn ennill y ras yn Tokyo wrth i'r Cymro ddod oddi ar ei feic unwaith eto.]]></description>
+            <description><![CDATA[Richard Carapaz o Ecuador yn ennill aur yn Tokyo wrth i'r Cymro ddod oddi ar ei feic unwaith eto.]]></description>
             <link>https://www.bbc.co.uk/newyddion/57953312</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57953312</guid>
             <pubDate>Sat, 24 Jul 2021 10:36:05 GMT</pubDate>
