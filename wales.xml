@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 14:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 14:24:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -156,6 +156,13 @@
             <pubDate>Sat, 24 Jul 2021 12:45:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Adam Peaty eases into semi-finals as Team GB's footballers secure place in knockouts]]></title>
+            <description><![CDATA[On day one of the Tokyo Olympics, Adam Peaty progresses while GB's women's footballers continue their winning ways.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57955443</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57955443</guid>
+            <pubDate>Sat, 24 Jul 2021 13:58:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[British and Irish Lions 2021: Emotionally-charged South Africa pose huge challenge]]></title>
             <description><![CDATA[The British and Irish Lions prepare to face a South Africa side driven to provide hope for their country.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57947839</link>
@@ -163,18 +170,18 @@
             <pubDate>Fri, 23 Jul 2021 22:18:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Geraint Thomas: Team GB cyclist crashes in Tokyo Olympics road race]]></title>
-            <description><![CDATA[Watch as Team GB cyclists Geraint Thomas and Tao Geoghegan Hart crash in the men's road race on day one of the Tokyo Olympics- Britain's Tao Geoghegan Hart also involved.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57950904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57950904</guid>
-            <pubDate>Sat, 24 Jul 2021 05:05:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rhai myfyrwyr rhyngwladol yn wynebu ffi cwarantîn o £1,750]]></title>
             <description><![CDATA["Annerbyniol" medd undeb myfyrwyr fod rhai yn gorfod astudio o bell tan eu bod yn gallu fforddio talu'r gost.]]></description>
             <link>https://www.bbc.co.uk/newyddion/57941946</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57941946</guid>
             <pubDate>Sat, 24 Jul 2021 07:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dyn o Aberteifi yn y llys ar gyhuddiad o lofruddio]]></title>
+            <description><![CDATA[Mae Ashley Keegan, 22, wedi ei gyhuddo o lofruddio John Bell mewn digwyddiad yn Aberteifi.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57955661</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57955661</guid>
+            <pubDate>Sat, 24 Jul 2021 14:19:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ystyried gwahardd cŵn o 18 o draethau yng Ngwynedd]]></title>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/newyddion/57955658</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57955658</guid>
             <pubDate>Sat, 24 Jul 2021 12:46:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dim medal yn y ras ffordd i Geraint Thomas ar ôl disgyn]]></title>
-            <description><![CDATA[Richard Carapaz o Ecuador yn ennill aur yn Tokyo wrth i'r Cymro ddod oddi ar ei feic unwaith eto.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57953312</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57953312</guid>
-            <pubDate>Sat, 24 Jul 2021 10:36:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

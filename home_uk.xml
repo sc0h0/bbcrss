@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 14:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 14:21:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -310,6 +310,13 @@
             <pubDate>Thu, 22 Jul 2021 15:35:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What happened on day one in Tokyo? Peaty through and GB footballers beat Japan]]></title>
+            <description><![CDATA[On day one of the Tokyo Olympics, Adam Peaty progresses while GB's women's footballers continue their winning ways.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57955443</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57955443</guid>
+            <pubDate>Sat, 24 Jul 2021 13:58:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man Utd manager Ole Gunnar Solskjaer signs new deal until 2024]]></title>
             <description><![CDATA[Manchester United manager Ole Gunnar Solskjaer signs a new deal with the club until 2024, with an option for a further year.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57954333</link>
@@ -336,13 +343,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/57953956</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57953956</guid>
             <pubDate>Sat, 24 Jul 2021 12:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Sam Ward, Liam Ansell and Jack Waller give GB win in opening hockey fixture]]></title>
-            <description><![CDATA[Watch highlights as Team GB beat South Africa 3-1 in their men's hockey opening fixture with goals from Sam Ward, Liam Ansell and Jack Waller.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57955618</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57955618</guid>
-            <pubDate>Sat, 24 Jul 2021 12:39:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Helen Glover and Polly Swann into semi-finals, Andy Murray and Joe Salisbury win]]></title>
