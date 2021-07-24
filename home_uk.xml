@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 04:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 04:44:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Fri, 23 Jul 2021 21:17:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: More testing sites and PM faces isolation pressure]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Saturday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57951934</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57951934</guid>
+            <pubDate>Sat, 24 Jul 2021 04:36:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Latitude festival: Magical, emotional... and a little bit frightening]]></title>
             <description><![CDATA[Bands and fans describe the atmosphere at the UK's first full-capacity festival in the UK since 2019.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57946872</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57947785</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57947785</guid>
             <pubDate>Fri, 23 Jul 2021 16:59:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German TV apologises for smearing mud on clothes at flood site]]></title>
-            <description><![CDATA[A video showed Susanna Ohlen rubbing herself with dirt before broadcasting from a flood-hit town.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57946430</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57946430</guid>
-            <pubDate>Fri, 23 Jul 2021 16:01:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marcus Smith: British and Irish Lions angered by 'offensive' slur on Irish Independent podcast]]></title>
@@ -296,11 +296,11 @@
             <pubDate>Thu, 22 Jul 2021 15:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Protest a fundamental human right - Asher-Smith]]></title>
-            <description><![CDATA[Team GB sprinter Dina Asher-Smith speaks out in support of athlete protests at the Tokyo 2020 Olympics]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57942477</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57942477</guid>
-            <pubDate>Fri, 23 Jul 2021 16:40:36 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Great Britain's Heather Watson loses in first round]]></title>
+            <description><![CDATA[Great Britain's Heather Watson loses in the first round of the women's singles to Germany's Anna-Lena Friedsam.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57951681</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57951681</guid>
+            <pubDate>Sat, 24 Jul 2021 04:21:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Helen Glover 'has fight on her hands' to retain rowing title]]></title>
@@ -308,6 +308,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/57951296</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57951296</guid>
             <pubDate>Sat, 24 Jul 2021 01:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protest a fundamental human right - Asher-Smith]]></title>
+            <description><![CDATA[Team GB sprinter Dina Asher-Smith speaks out in support of athlete protests at the Tokyo 2020 Olympics]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57942477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57942477</guid>
+            <pubDate>Fri, 23 Jul 2021 16:40:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['South Africa are going to be superhuman' - Lions face huge challenge in first Test]]></title>
@@ -329,13 +336,6 @@
             <link>https://www.bbc.co.uk/sport/football/57943489</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57943489</guid>
             <pubDate>Fri, 23 Jul 2021 21:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spirit stutter to win over Phoenix in women's Hundred]]></title>
-            <description><![CDATA[London Spirit survive a big scare to beat Birmingham Phoenix and begin their women's Hundred campaign with a three-wicket win.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57946337</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57946337</guid>
-            <pubDate>Fri, 23 Jul 2021 17:28:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Helen Glover and Polly Swann: Team GB pair third in Tokyo Olympics heat]]></title>
