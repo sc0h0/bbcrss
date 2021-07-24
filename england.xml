@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 13:52:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 14:46:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Liverpool sinkhole appears after water main bursts]]></title>
-            <description><![CDATA[Work to repair the 4.5m by 6m (15ft by 20ft) hole in Liverpool is expected to take at least two weeks.]]></description>
+            <description><![CDATA[Work to repair the 6m (20ft) hole in Liverpool is expected to take at least two weeks to complete]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-57954296</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57954296</guid>
             <pubDate>Sat, 24 Jul 2021 13:33:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joggers and walkers' joy as England Parkrun resumes]]></title>
+            <description><![CDATA[The free 5km community event, which takes place in parks, was suspended during the Covid pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57955672</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57955672</guid>
+            <pubDate>Sat, 24 Jul 2021 14:37:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Esther Dingley: Partner informed of 'remains' find in Pyrenees]]></title>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-tyne-57954180</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-57954180</guid>
             <pubDate>Sat, 24 Jul 2021 11:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry Dunn: US files motion to keep Anne Sacoolas job details secret]]></title>
-            <description><![CDATA[The US government urges a court to keep details of Anne Sacoolas' State Department job under wraps.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-57954208</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-57954208</guid>
-            <pubDate>Sat, 24 Jul 2021 12:23:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Goole WW2 bomb: M62 closed as Army prepares to detonate device]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Sat, 24 Jul 2021 13:22:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Harry Dunn: US files motion to keep Anne Sacoolas job details secret]]></title>
+            <description><![CDATA[The US government urges a court to keep details of Anne Sacoolas' State Department job under wraps.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-57954208</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-57954208</guid>
+            <pubDate>Sat, 24 Jul 2021 12:23:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lightning destroys roofs as storms end heatwave in southern England and Wales]]></title>
             <description><![CDATA[Southern Britain is hit by torrential rain but there's a sunny start to school holidays further north.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57952825</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57952825</guid>
             <pubDate>Sat, 24 Jul 2021 13:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Duxford air show 2021: First flying displays in almost two years]]></title>
-            <description><![CDATA[All air shows at the Imperial War Museum venue were cancelled in 2020.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-57932257</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-57932257</guid>
-            <pubDate>Sat, 24 Jul 2021 10:43:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Romsey industrial estate blaze involving 35,000 tonnes of waste]]></title>
@@ -98,55 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-tyne-57942709</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-57942709</guid>
             <pubDate>Sat, 24 Jul 2021 07:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: North East gets five-week government support to slow growth]]></title>
-            <description><![CDATA[From Monday extra help will be given to the region to ramp up testing and vaccine rollouts.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57949940</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57949940</guid>
-            <pubDate>Fri, 23 Jul 2021 19:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reforms set for Bristol council's 'shambolic' SEND system]]></title>
-            <description><![CDATA[Long-term plans that include building 450 schools following damning reports are set to go ahead.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-57945607</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-57945607</guid>
-            <pubDate>Sat, 24 Jul 2021 09:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tributes to Stoke-on-Trent man who died on trip to beach]]></title>
-            <description><![CDATA[The family of 21-year-old Hamza Mansoor have thanked "all the heroes" who tried to save him.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57945294</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57945294</guid>
-            <pubDate>Fri, 23 Jul 2021 20:08:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Makina: the UK subculture you've probably never heard of]]></title>
-            <description><![CDATA[A leading MC says the music genre's return after Covid is going to be "something special".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-57946983</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-57946983</guid>
-            <pubDate>Fri, 23 Jul 2021 15:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newcastle library book returned 63 years late]]></title>
-            <description><![CDATA[The copy of How to Lie with Statistics is decades past its return date of 25 November 1958.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-57940909</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-57940909</guid>
-            <pubDate>Fri, 23 Jul 2021 13:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[M62 police shooting: Inquest into death of Yassar Yaqub put back]]></title>
-            <description><![CDATA[Judge Guy Kearl QC tells a pre-inquest review it is necessary to ensure "all angles are considered".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-57943269</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57943269</guid>
-            <pubDate>Fri, 23 Jul 2021 16:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soldier found dead in barracks at Larkhill, Salisbury]]></title>
-            <description><![CDATA[The Ministry of Defence says it is investigating the circumstances surrounding her death.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-57943159</guid>
-            <pubDate>Fri, 23 Jul 2021 14:15:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
