@@ -12,8 +12,8 @@
 12. [Man arrested after car hits group of people on Blackpool North Pier](https://www.bbc.co.uk/news/uk-england-lancashire-57957823) - The driver fled the scene but police later arrested a 30-year-old man on suspicion of attempted murder.
 13. [Esther Dingley: Partner informed of 'remains' find in Pyrenees](https://www.bbc.co.uk/news/uk-england-tyne-57954180) - Esther Dingley disappeared on a solo walk near the France-Spain border in November.
 14. [Lightning strikes and storms follow UK heatwave](https://www.bbc.co.uk/news/uk-57954071) - Days of high summer temperatures give way to storms.
-15. [The young imam using Instagram to change opinions](https://www.bbc.co.uk/news/uk-england-manchester-57946493) - Sabah Ahmedi wants to show imams can "have a laugh", have "a bit of banter" and "wear colourful socks".
-16. [Budapest Pride stands up for LGBT rights in Hungary](https://www.bbc.co.uk/news/world-europe-57957348) - Organisers accuse Hungary's right-wing government of seeking to discriminate against gay people.
+15. [Budapest Pride stands up for LGBT rights in Hungary](https://www.bbc.co.uk/news/world-europe-57957348) - Organisers accuse Hungary's right-wing government of seeking to discriminate against gay people.
+16. [The young imam using Instagram to change opinions](https://www.bbc.co.uk/news/uk-england-manchester-57946493) - Sabah Ahmedi wants to show imams can "have a laugh", have "a bit of banter" and "wear colourful socks".
 17. [Scarborough hotel owner couple helping homeless people](https://www.bbc.co.uk/news/uk-57916769) - Jess and Andrew Waggitt opened their doors to vulnerable people during the pandemic and continue to do so.
 18. [DRC volcano: Reuniting children with families after the eruption](https://www.bbc.co.uk/news/world-africa-57947193) - Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.
 19. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
