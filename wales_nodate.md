@@ -23,4 +23,4 @@
 23. [Symud mwy o geir wedi eu parcio'n anghyfreithlon yn Eryri](https://www.bbc.co.uk/newyddion/57955662) - Mae'r awdurdodau'n benderfynol o osgoi golygfeydd tebyg i'r hyn a gafwyd yn ystod haf llynedd.
 24. [De Affrica 17-22 Llewod](https://www.bbc.co.uk/newyddion/57955664) - Dan Biggar yn cicio 14 pwynt wrth i'r Llewod ddod yn ôl yn yr ail hanner i drechu De Affrica.
 25. [Arestio dyn arall wedi ymosodiad mewn parc yng Nghaerdydd](https://www.bbc.co.uk/newyddion/57955663) - Ail berson wedi'i gyhuddo o geisio llofruddio, wedi i ddyn gael ei anafu'n ddifrifol yn yr ymosodiad.
-26. [The Hundred: Menywod Tân Cymreig yn colli eu gêm gyntaf](https://www.bbc.co.uk/newyddion/57955665) - Menywod Tân Cymreig yn colli eu gêm gyntaf yn y gystadleuaeth newydd 100 pelawd.
+26. [The Hundred: Dynion Tân Cymreig yn ennill ond merched yn colli](https://www.bbc.co.uk/newyddion/57955665) - Dynion Tân Cymreig yn ennill eu gêm gyntaf yn y gystadleuaeth newydd, ond y merched yn colli.
