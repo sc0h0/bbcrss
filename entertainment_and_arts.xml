@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 23:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 23:22:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,6 +93,13 @@
             <pubDate>Wed, 21 Jul 2021 01:02:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[From lockdown animations to Snoop Dogg music video]]></title>
+            <description><![CDATA[After his homemade animations went viral, Snoop Dogg asked Peter Quinn to direct his new video.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57916539</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57916539</guid>
+            <pubDate>Sat, 24 Jul 2021 23:09:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10 years on: Amy's parents on new documentary]]></title>
             <description><![CDATA[The late singer's father says he hopes a new documentary will show a "more rounded image" of Amy.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57850132</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57839265</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57839265</guid>
             <pubDate>Wed, 14 Jul 2021 14:39:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rashford mural artist: 'Incredible how people have come together']]></title>
-            <description><![CDATA[Street artist Akse, who has repaired his Rashford mural, says local people have united to show their support.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57822845</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57822845</guid>
-            <pubDate>Tue, 13 Jul 2021 12:09:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
