@@ -21,7 +21,7 @@
 21. [British and Irish Lions 2021: Where South Africa Test series may be won and lost](https://www.bbc.co.uk/sport/rugby-union/57933334) - Fast starts, scrums and replacements - where will the British and Irish Lions Test series in South Africa be won and lost?
 22. [Wales women have reached 'catastrophic point', says ex-wing Caryl James](https://www.bbc.co.uk/sport/rugby-union/57947351) - Ex-Wales wing Caryl James says the women's national team has reached a low point and needs a drastic overhaul.
 23. [Rhai myfyrwyr rhyngwladol yn wynebu ffi cwarantîn o £1,750](https://www.bbc.co.uk/newyddion/57941946) - Dywedodd Undeb Cenedlaethol Myfyrwyr Cymru ei fod yn anghywir bod rhai prifysgolion ddim yn talu'r gost.
-24. [Marwolaeth Aberteifi: Cyhuddo dyn o lofruddiaeth](https://www.bbc.co.uk/newyddion/57948264) - Bydd dyn 22 oed yn mynd o flaen llys ynadon ddydd Sadwrn wedi ei gyhuddo o lofruddio John Bell.
-25. [Pontyclun: Chwech yn yr ysbyty ar ôl i gar daro tafarn](https://www.bbc.co.uk/newyddion/57906843) - Y gred yw bod dyn 79 oed wedi dioddef "episod feddygol" cyn i'w gar daro'r bobl a'r dafarn ym Mhontyclun.
+24. [Ystyried gwahardd cŵn o 18 o draethau yng Ngwynedd](https://www.bbc.co.uk/newyddion/57933818) - Penodi dau swyddog gorfodaeth ymhlith mesurau newydd i daclo problemau baw ci mewn mannau cyhoeddus.
+25. [Marwolaeth Aberteifi: Cyhuddo dyn o lofruddiaeth](https://www.bbc.co.uk/newyddion/57948264) - Bydd dyn 22 oed yn mynd o flaen llys ynadon ddydd Sadwrn wedi ei gyhuddo o lofruddio John Bell.
 26. ['Rhaid parchu pobl ac anifeiliaid cefn gwlad'](https://www.bbc.co.uk/newyddion/57904839) - Neges i ymwelwyr gan Wyn Evans, sy'n ffermio ger Aberystwyth
 27. [Morgannwg yn trechu Sir Warwig yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/57936623) - Dechrau da i ymgyrch y Cymry yn y Cwpan Undydd gan ennill gêm agos iawn yng Nghaerdydd.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 07:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 07:43:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/uk-57950930</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57950930</guid>
             <pubDate>Sat, 24 Jul 2021 06:07:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Helen Glover and Polly Swann battle into semi-finals, Andy Murray and Joe Salisbury win]]></title>
-            <description><![CDATA[A shaky start for Helen Glover and Polly Swann but Andy Murray and Joe Salisbury win doubles opener.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57951792</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57951792</guid>
-            <pubDate>Sat, 24 Jul 2021 05:16:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Met Office storm warning for campsites and caravans]]></title>
@@ -44,6 +37,13 @@
             <pubDate>Fri, 23 Jul 2021 21:17:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Latitude festival: Magical, emotional... and a little bit frightening]]></title>
+            <description><![CDATA[Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57946872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57946872</guid>
+            <pubDate>Sat, 24 Jul 2021 00:02:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: More testing sites and PM faces isolation pressure]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Saturday evening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57951934</link>
@@ -51,18 +51,18 @@
             <pubDate>Sat, 24 Jul 2021 04:36:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Helen Glover 'has fight on her hands' to retain rowing title]]></title>
+            <description><![CDATA[Team GB's Helen Glover "has a fight on her hands" to win her third rowing Olympic gold medal after a disappointing display in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57951296</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57951296</guid>
+            <pubDate>Sat, 24 Jul 2021 07:11:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Sadiq Khan urges PM to change isolation rules earlier]]></title>
             <description><![CDATA[Fully vaccinated people should avoid quarantine now by testing daily, the Mayor of London says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57951577</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57951577</guid>
             <pubDate>Sat, 24 Jul 2021 05:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Latitude festival: Magical, emotional... and a little bit frightening]]></title>
-            <description><![CDATA[Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57946872</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57946872</guid>
-            <pubDate>Sat, 24 Jul 2021 00:02:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Surfside tower collapse: No sign of final victim as Miami search ends]]></title>
@@ -296,32 +296,11 @@
             <pubDate>Thu, 22 Jul 2021 15:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Helen Glover 'has fight on her hands' to retain rowing title]]></title>
-            <description><![CDATA[Team GB's Helen Glover "has a fight on her hands" to win her third rowing Olympic gold medal after a disappointing display in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57951296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57951296</guid>
-            <pubDate>Sat, 24 Jul 2021 07:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Masked anthems and medals served on trays - China's Yang wins first gold of Games]]></title>
-            <description><![CDATA[Chinese shooter Yang Qian wins the first gold of the Olympics but has to sing her anthem behind a mask and hang her own medal round her neck.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57952436</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57952436</guid>
-            <pubDate>Sat, 24 Jul 2021 06:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Fight for your dreams' - Tokyo's youngest Olympian after first-round defeat]]></title>
-            <description><![CDATA[Youngest Olympian Hend Zaza, the 12-year-old Syrian table tennis star, wants to inspire others despite losing 4-0 in the preliminary round.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57952235</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57952235</guid>
-            <pubDate>Sat, 24 Jul 2021 05:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Table tennis 12-year-old Hend Zaza, gymnast Zou Jingyuan and 3x3 basketball - best moments]]></title>
-            <description><![CDATA[Watch some of the best moments from the opening events of the Tokyo Olympics including a 12-year-old table tennis player and debut of 3x3 basketball.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57952616</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57952616</guid>
-            <pubDate>Sat, 24 Jul 2021 06:41:59 GMT</pubDate>
+            <title><![CDATA[Murray and Salisbury through in doubles in Tokyo but Watson goes out]]></title>
+            <description><![CDATA[Andy Murray and Joe Salisbury go through in the men's doubles but Heather Watson loses in the first round of the women's singles.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57951681</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57951681</guid>
+            <pubDate>Sat, 24 Jul 2021 06:47:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geraint Thomas: Team GB cyclist crashes in Tokyo Olympics road race]]></title>
@@ -345,18 +324,53 @@
             <pubDate>Fri, 23 Jul 2021 22:47:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Andy Murray and Joe Salisbury through in doubles, Heather Watson out of singles]]></title>
-            <description><![CDATA[Andy Murray and Joe Salisbury go through in the men's doubles but Heather Watson loses in the first round of the women's singles.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57951681</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57951681</guid>
-            <pubDate>Sat, 24 Jul 2021 06:47:22 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Team GB men's four win rowing heat to reach final]]></title>
+            <description><![CDATA[Watch as Team GB's men's four win their heat to become the first British finalists at the Tokyo Olympics on day one of the Games.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57950906</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57950906</guid>
+            <pubDate>Sat, 24 Jul 2021 05:26:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Polly Swann: Olympic rower on working the wards, training in her shed & unfinished business]]></title>
-            <description><![CDATA[BBC Scotland speaks to Olympic rower Polly Swann on juggling training for Tokyo with working in a surgical ward in the midst of the coronavirus pandemic.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57585733</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57585733</guid>
-            <pubDate>Thu, 22 Jul 2021 06:19:24 GMT</pubDate>
+            <title><![CDATA[Jadon Sancho: Is right or left wing his best Man Utd position? Or a liberator for Fernandes?]]></title>
+            <description><![CDATA[What clues does Jadon Sancho's Borussia Dortmund career give us about how he will fit in at Manchester United?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57943489</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57943489</guid>
+            <pubDate>Fri, 23 Jul 2021 21:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Medals Table]]></title>
+            <description><![CDATA[Medals table for the 2020 Olympics in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57836709</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57836709</guid>
+            <pubDate>Wed, 14 Jul 2021 14:18:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Helen Glover and Polly Swann battle into semi-finals, Andy Murray and Joe Salisbury win]]></title>
+            <description><![CDATA[A shaky start for Helen Glover and Polly Swann but Andy Murray and Joe Salisbury win doubles opener.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57951792</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57951792</guid>
+            <pubDate>Sat, 24 Jul 2021 07:33:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: First gold of Games goes to China's Yang Qian in shooting]]></title>
+            <description><![CDATA[Chinese shooter Yang Qian wins the first gold of the Olympics but has to sing her anthem behind a mask and hang her own medal round her neck.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57952436</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57952436</guid>
+            <pubDate>Sat, 24 Jul 2021 06:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Table tennis 12-year-old Hend Zaza, gymnast Zou Jingyuan and 3x3 basketball - best moments]]></title>
+            <description><![CDATA[Watch some of the best moments from the opening events of the Tokyo Olympics including a 12-year-old table tennis player and debut of 3x3 basketball.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57952616</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57952616</guid>
+            <pubDate>Sat, 24 Jul 2021 06:41:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Syria's Hend Zaza, 12, is out, but hopes to inspire others]]></title>
+            <description><![CDATA[Youngest Olympian Hend Zaza, the 12-year-old Syrian table tennis star, wants to inspire others despite losing 4-0 in the preliminary round.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57952235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57952235</guid>
+            <pubDate>Sat, 24 Jul 2021 05:57:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: How well do you know Olympic sports lingo?]]></title>
@@ -364,6 +378,20 @@
             <link>https://www.bbc.co.uk/sport/olympics/57322644</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57322644</guid>
             <pubDate>Thu, 15 Jul 2021 04:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>
+            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
+            <pubDate>Fri, 23 Jul 2021 16:02:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polly Swann: Olympic rower on working the wards, training in her shed & unfinished business]]></title>
+            <description><![CDATA[BBC Scotland speaks to Olympic rower Polly Swann on juggling training for Tokyo with working in a surgical ward in the midst of the coronavirus pandemic.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57585733</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57585733</guid>
+            <pubDate>Thu, 22 Jul 2021 06:19:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Watch best opening ceremony moments in two minutes]]></title>
@@ -378,13 +406,6 @@
             <link>https://www.bbc.co.uk/sport/athletics/57652166</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57652166</guid>
             <pubDate>Thu, 01 Jul 2021 06:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>
-            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
-            <pubDate>Fri, 23 Jul 2021 16:02:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Jamaican sprinter Shelly-Ann Fraser-Pryce trying to reach 'great things']]></title>
@@ -462,20 +483,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/57841166</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57841166</guid>
             <pubDate>Fri, 16 Jul 2021 08:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Projected medal table, Team GB medallists and international stars to watch]]></title>
-            <description><![CDATA[Data company Gracenote forecasts the Tokyo 2020 medal table, Team GB medallists and the international stars to watch.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57888185</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57888185</guid>
-            <pubDate>Tue, 20 Jul 2021 07:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Tom Daley on triumph, trauma and his likely last shot at gold]]></title>
-            <description><![CDATA[The 'baby' of Beijing has become a father, a husband and an LGBTQ+ spokesperson. Tom Daley has perhaps one final shot at Olympic gold.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57817424</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57817424</guid>
-            <pubDate>Mon, 19 Jul 2021 23:02:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
