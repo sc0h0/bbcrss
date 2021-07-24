@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 08:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 08:43:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Wed, 21 Jul 2021 18:00:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Geraint Thomas' hopes dashed in crash as Ecuador's Richard Carapaz wins road race gold]]></title>
+            <description><![CDATA[Geraint Thomas' medal hopes are dashed during fall in the men's road race as Ecuador's Richard Carapaz wins gold.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57952349</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57952349</guid>
+            <pubDate>Sat, 24 Jul 2021 08:38:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[British and Irish Lions 2021: Emotionally-charged South Africa pose huge challenge]]></title>
             <description><![CDATA[The British and Irish Lions prepare to face a South Africa side driven to provide hope for their country.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57947839</link>
@@ -163,13 +170,6 @@
             <pubDate>Fri, 23 Jul 2021 16:00:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wales women have reached 'catastrophic point', says ex-wing Caryl James]]></title>
-            <description><![CDATA[Ex-Wales wing Caryl James says the women's national team has reached a low point and needs a drastic overhaul.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57947351</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57947351</guid>
-            <pubDate>Fri, 23 Jul 2021 20:49:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rhai myfyrwyr rhyngwladol yn wynebu ffi cwarantîn o £1,750]]></title>
             <description><![CDATA[Dywedodd Undeb Cenedlaethol Myfyrwyr Cymru ei fod yn anghywir bod rhai prifysgolion ddim yn talu'r gost.]]></description>
             <link>https://www.bbc.co.uk/newyddion/57941946</link>
@@ -184,18 +184,18 @@
             <pubDate>Sat, 24 Jul 2021 07:34:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dim medal Olympaidd i Geraint Thomas wedi iddo ddisgyn]]></title>
+            <description><![CDATA[Richard Carapaz yn ennill y ras ffordd yn Tokyo wrth i'r Cymro ddod oddi ar ei feic unwaith eto.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57953312</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57953312</guid>
+            <pubDate>Sat, 24 Jul 2021 08:37:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Y Llewod: Peidiwch disgwyl gwledd o rygbi agored!]]></title>
             <description><![CDATA[Cennydd Davies sy'n edrych ymlaen at y prawf cyntaf rhwng y Llewod a De Affrica yn ddiweddarach.]]></description>
             <link>https://www.bbc.co.uk/newyddion/57945697</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57945697</guid>
             <pubDate>Sat, 24 Jul 2021 08:17:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Morgannwg yn trechu Sir Warwig yn y Cwpan Undydd]]></title>
-            <description><![CDATA[Dechrau da i ymgyrch y Cymry yn y Cwpan Undydd gan ennill gêm agos iawn yng Nghaerdydd.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57936623</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57936623</guid>
-            <pubDate>Thu, 22 Jul 2021 18:02:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
