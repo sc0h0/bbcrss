@@ -1,4 +1,4 @@
-1. [Covid-19: Daily tests to avoid isolation expanded in England](https://www.bbc.co.uk/news/uk-57950930) - Police, transport, freight and fire workers will now join the daily contact testing scheme.
+1. [Covid-19: Daily tests to avoid isolation expanded in England](https://www.bbc.co.uk/news/uk-57950930) - Police and fire staff are now included after criticism that the scheme did not go far enough.
 2. [Covid: The holiday makers having to self-isolate abroad](https://www.bbc.co.uk/news/business-57946480) - Some holidaymakers who tested positive for Covid while abroad are having to stay and self-isolate.
 3. [Covid: Food exemption scheme delayed until Monday](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
 4. [Covid: New testing plan will not work, warn firms](https://www.bbc.co.uk/news/business-57945229) - Industry body, the CBI, criticises government plans that allow some key staff to bypass the NHS Covid app.

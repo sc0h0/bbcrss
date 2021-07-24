@@ -1,4 +1,4 @@
-1. [Covid-19: Daily tests to avoid isolation expanded in England](https://www.bbc.co.uk/news/uk-57950930) - Police, transport, freight and fire workers will now join the daily contact testing scheme.
+1. [Covid-19: Daily tests to avoid isolation expanded in England](https://www.bbc.co.uk/news/uk-57950930) - Police and fire staff are now included after criticism that the scheme did not go far enough.
 2. [Storm warning as lightning strike damages homes](https://www.bbc.co.uk/news/uk-57952825) - Heavy rain and thunderstorms are forecast for southern England and Wales as extreme heat comes to an end.
 3. [Concern mounts for missing 11-year-old schoolgirl from Bolton](https://www.bbc.co.uk/news/uk-england-manchester-57950115) - The parents of Fatuma Kadir, who travelled from Manchester to London by train, say they are in "shock".
 4. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.

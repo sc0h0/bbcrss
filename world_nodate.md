@@ -8,7 +8,7 @@
 8. [Jeff Bezos and Sir Richard Branson not yet astronauts, US says](https://www.bbc.co.uk/news/world-us-canada-57950149) - The US government has tightened rules on which space-goers can claim their astronaut wings.
 9. [Olympics: Munich victims honoured for first time at opening ceremony](https://www.bbc.co.uk/news/world-asia-57924111) - Nearly 50 years after 11 Israeli athletes were killed, a moment's silence is marked in Tokyo.
 10. [Las Vegas murder case cracked with smallest ever amount of DNA](https://www.bbc.co.uk/news/world-us-canada-57947785) - Just 15 cells' worth of DNA was used to track down the man suspected of killing a US girl in 1989.
-11. [India monsoon: 110 dead after heavy rainfall in Maharashtra](https://www.bbc.co.uk/news/world-asia-india-57938839) - Rescuers are racing to evacuate survivors but many are feared missing in the state of Maharashtra.
+11. [India monsoon: 110 dead after heavy rainfall in Maharashtra](https://www.bbc.co.uk/news/world-asia-india-57938839) - Rescuers are racing to evacuate survivors, but many are feared missing in the state of Maharashtra.
 12. [German TV apologises for smearing mud on clothes at flood site](https://www.bbc.co.uk/news/world-europe-57946430) - A video showed Susanna Ohlen rubbing herself with dirt before broadcasting from a flood-hit town.
 13. [DRC volcano: Reuniting children with families after the eruption](https://www.bbc.co.uk/news/world-africa-57947193) - Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.
 14. [Ethiopia's Tigray crisis: What's stopping aid getting in?](https://www.bbc.co.uk/news/57929853) - A renewed surge in fighting has made it ever more difficult for aid to reach areas in desperate need.

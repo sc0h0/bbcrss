@@ -22,5 +22,5 @@
 22. [British and Irish Lions 2021: Where South Africa Test series may be won and lost](https://www.bbc.co.uk/sport/rugby-union/57933334) - Fast starts, scrums and replacements - where will the British and Irish Lions Test series in South Africa be won and lost?
 23. [Rhai myfyrwyr rhyngwladol yn wynebu ffi cwarantîn o £1,750](https://www.bbc.co.uk/newyddion/57941946) - Dywedodd Undeb Cenedlaethol Myfyrwyr Cymru ei fod yn anghywir bod rhai prifysgolion ddim yn talu'r gost.
 24. [Ystyried gwahardd cŵn o 18 o draethau yng Ngwynedd](https://www.bbc.co.uk/newyddion/57933818) - Penodi dau swyddog gorfodaeth ymhlith mesurau newydd i daclo problemau baw ci mewn mannau cyhoeddus.
-25. [Dim medal Olympaidd i Geraint Thomas wedi iddo ddisgyn](https://www.bbc.co.uk/newyddion/57953312) - Richard Carapaz yn ennill y ras ffordd yn Tokyo wrth i'r Cymro ddod oddi ar ei feic unwaith eto.
+25. [Dim medal yn y ras ffordd i Geraint Thomas ar ôl disgyn](https://www.bbc.co.uk/newyddion/57953312) - Richard Carapaz o Ecuador yn ennill y ras yn Tokyo wrth i'r Cymro ddod oddi ar ei feic unwaith eto.
 26. [Y Llewod: Peidiwch disgwyl gwledd o rygbi agored!](https://www.bbc.co.uk/newyddion/57945697) - Cennydd Davies sy'n edrych ymlaen at y prawf cyntaf rhwng y Llewod a De Affrica yn ddiweddarach.
