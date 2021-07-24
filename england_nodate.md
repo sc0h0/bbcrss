@@ -1,7 +1,7 @@
 1. [Esther Dingley: Partner informed of 'remains' find in Pyrenees](https://www.bbc.co.uk/news/uk-england-tyne-57954180) - The hiker disappeared on a solo walk near the France-Spain border in November.
 2. [Lightning destroys roofs as storms end heatwave in southern England and Wales](https://www.bbc.co.uk/news/uk-57952825) - Southern Britain is hit by torrential rain but there's a sunny start to school holidays further north.
 3. [Concern mounts for missing 11-year-old schoolgirl from Bolton](https://www.bbc.co.uk/news/uk-england-manchester-57950115) - The parents of Fatuma Kadir, who travelled from Manchester to London by train, say they are in "shock".
-4. [Goole WWII bomb: M62 closure in place ahead of detonation](https://www.bbc.co.uk/news/uk-england-humber-57953506) - Restrictions remain in place in Goole ahead of detonation on Saturday afternoon.
+4. [Goole WW2 bomb: M62 closed as Army prepares to detonate device](https://www.bbc.co.uk/news/uk-england-humber-57953506) - Army bomb experts will carry out a controlled explosion of the device, found on a new housing estate.
 5. [Coronavirus: Mum urges 'get jab' after son hospitalised](https://www.bbc.co.uk/news/uk-england-tees-57375406) - Aiden's mum says it "infuriates" her when parents presume their children will not get ill.
 6. [Newcastle's Mining Institute reopens after £8.9m revamp](https://www.bbc.co.uk/news/uk-england-tyne-57942709) - The former Institute of Mining and Mechanical Engineers and will host events and exhibitions.
 7. [Escape to Victory: The Ipswich footballers who made a cult classic](https://www.bbc.co.uk/news/uk-england-suffolk-57840345) - How did a group of Ipswich Town players end up starring in a film with Pele, Stallone and Caine?
