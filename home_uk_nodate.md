@@ -6,9 +6,9 @@
 6. [Parkrun back on in England after Covid pandemic suspension](https://www.bbc.co.uk/news/uk-57955672) - The free 5km community event, which takes place in parks, was suspended during the Covid pandemic.
 7. [Goole WW2 bomb: Army experts carry out controlled explosion](https://www.bbc.co.uk/news/uk-england-humber-57953506) - Army bomb disposal experts detonate the 500lb (227kg) device found on a new-build housing estate.
 8. [Open water: Swimmers urged not to take chances](https://www.bbc.co.uk/news/uk-57953480) - It is thought 28 people have lost their lives in open water during the recent hot weather.
-9. [Covid-19: Air travel takes off on busiest weekend since pandemic began](https://www.bbc.co.uk/news/uk-57948383) - Huge queues at some airports are reported on the first weekend of the summer holidays for many.
-10. [Esther Dingley: Partner informed of 'remains' find in Pyrenees](https://www.bbc.co.uk/news/uk-england-tyne-57954180) - Esther Dingley disappeared on a solo walk near the France-Spain border in November.
-11. [Covid in Scotland: Thousands turn off tracking app](https://www.bbc.co.uk/news/uk-scotland-57941343) - Protect Scotland was active on just 900,000 phones last week, despite two million downloads.
+9. [Murder probe after Bury woman dies from severe burns](https://www.bbc.co.uk/news/uk-england-manchester-57957818) - Three men are arrested in connection with the death of the 31-year-old in Bury, Greater Manchester.
+10. [Covid-19: Air travel takes off on busiest weekend since pandemic began](https://www.bbc.co.uk/news/uk-57948383) - Huge queues at some airports are reported on the first weekend of the summer holidays for many.
+11. [Esther Dingley: Partner informed of 'remains' find in Pyrenees](https://www.bbc.co.uk/news/uk-england-tyne-57954180) - Esther Dingley disappeared on a solo walk near the France-Spain border in November.
 12. [Covid vaccine: Gareth Southgate urges young people to get jab](https://www.bbc.co.uk/news/uk-57950059) - The England manager says vaccination is a chance to "get your freedom back".
 13. [Lightning strikes and storms follow UK heatwave](https://www.bbc.co.uk/news/uk-57954071) - Days of high summer temperatures give way to storms.
 14. [The young imam using Instagram to change opinions](https://www.bbc.co.uk/news/uk-england-manchester-57946493) - Sabah Ahmedi wants to show imams can "have a laugh", have "a bit of banter" and "wear colourful socks".
