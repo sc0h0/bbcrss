@@ -1,4 +1,4 @@
-1. [M2 Belfast: Fire service fights bus blaze on motorway](https://www.bbc.co.uk/news/uk-northern-ireland-57955150) - Part of the motorway is closed and motorists are advised to seek alternative routes.
+1. [M2 Belfast: Fire service puts out bus blaze on motorway](https://www.bbc.co.uk/news/uk-northern-ireland-57955150) - Part of the motorway was closed during the blaze but has now reopened.
 2. [Covid-19: One further death and 1,520 positive cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57952689) - More than 1m people have received two doses of a Covid-19 vaccine in NI with more than 2.2m doses administered.
 3. [Muck Island: Kayakers rescued by RNLI near Islandmagee](https://www.bbc.co.uk/news/uk-northern-ireland-57955149) - Three people were found in the water, one showing effects of being in cold water for a prolonged period. 
 4. [Shots fired at police patrol car in Dublin](https://www.bbc.co.uk/news/world-europe-57955148) - Gardaí are investigating the incident which happened in Tallaght at about 02:30 local time on Saturday.
