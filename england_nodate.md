@@ -1,4 +1,4 @@
-1. [Liverpool sinkhole thought to be caused by water main burst](https://www.bbc.co.uk/news/uk-england-merseyside-57954296) - The incident sparked a large emergency response as fire crews worked to stop flooding.
+1. [Liverpool sinkhole appears after water main bursts](https://www.bbc.co.uk/news/uk-england-merseyside-57954296) - Work to repair the 4.5m by 6m (15ft by 20ft) hole in Liverpool is expected to take at least two weeks.
 2. [Esther Dingley: Partner informed of 'remains' find in Pyrenees](https://www.bbc.co.uk/news/uk-england-tyne-57954180) - Esther Dingley disappeared on a solo walk near the France-Spain border in November.
 3. [Harry Dunn: US files motion to keep Anne Sacoolas job details secret](https://www.bbc.co.uk/news/uk-england-northamptonshire-57954208) - The US government urges a court to keep details of Anne Sacoolas' State Department job under wraps.
 4. [Goole WW2 bomb: M62 closed as Army prepares to detonate device](https://www.bbc.co.uk/news/uk-england-humber-57953506) - Army bomb experts will carry out a controlled explosion of the device, found on a new housing estate.
@@ -36,4 +36,4 @@
 36. [Man Utd manager Ole Gunnar Solskjaer signs new deal until 2024](https://www.bbc.co.uk/sport/football/57954333) - Manchester United manager Ole Gunnar Solskjaer signs a new deal with the club until 2024, with an option for a further year.
 37. [T20 debut on Sunday, Hundred matchwinner on Friday - Benjamin stars in thrilling Phoenix win](https://www.bbc.co.uk/sport/cricket/57949800) - Unknown 22-year-old Chris Benjamin leads Birmingham Phoenix to a stunning last-gasp victory over London Spirit in the men's Hundred.
 38. [Jadon Sancho: England winger completes £73m move to Manchester United from Borussia Dortmund](https://www.bbc.co.uk/sport/football/57827831) - England winger Jadon Sancho completes his £73m move to Manchester United from Borussia Dortmund.
-39. [Toby Alderweireld: Tottenham defender in talks with Qatari club Al-Duhail](https://www.bbc.co.uk/sport/football/57955608) - Tottenham defender Toby Alderweireld is in talks with Qatari club Al-Duhail.
+39. [Toby Alderweireld: Spurs defender in talks with Qatar's Al-Duhail](https://www.bbc.co.uk/sport/football/57955608) - Tottenham defender Toby Alderweireld is in talks with Qatari club Al-Duhail.
