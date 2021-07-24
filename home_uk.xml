@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 23:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 23:39:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Sat, 24 Jul 2021 18:39:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Clashes in Paris over Covid measures]]></title>
+            <description><![CDATA[French anti-riot police fired teargas during protests against Covid-19 curbs and vaccination.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57956846</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57956846</guid>
+            <pubDate>Sat, 24 Jul 2021 20:56:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Six people taken to hospital after funfair incident]]></title>
             <description><![CDATA[Emergency services were called to the scene after a 999 call was made on Saturday evening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57957404</link>
@@ -37,11 +44,11 @@
             <pubDate>Sat, 24 Jul 2021 21:08:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clashes in Paris over Covid measures]]></title>
-            <description><![CDATA[French anti-riot police fired teargas during protests against Covid-19 curbs and vaccination.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57956846</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57956846</guid>
-            <pubDate>Sat, 24 Jul 2021 20:56:03 GMT</pubDate>
+            <title><![CDATA[The experiences replacing closed High Street stores]]></title>
+            <description><![CDATA[Go-karts, bowling alleys and eateries have taken the place of closed retailers on the High Street.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57934829</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57934829</guid>
+            <pubDate>Sat, 24 Jul 2021 23:35:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lightning destroys roofs as storms end heatwave in southern England and Wales]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-humber-57953506</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57953506</guid>
             <pubDate>Sat, 24 Jul 2021 16:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open water: Swimmers urged not to take chances]]></title>
-            <description><![CDATA[It is thought 28 people have lost their lives in open water during the recent hot weather.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57953480</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57953480</guid>
-            <pubDate>Sat, 24 Jul 2021 13:22:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LA man who mocked Covid-19 vaccines dies of virus]]></title>
@@ -338,13 +338,6 @@
             <pubDate>Thu, 22 Jul 2021 15:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What happened on day one in Tokyo? Peaty through and GB footballers beat Japan]]></title>
-            <description><![CDATA[On day one of the Tokyo Olympics, Adam Peaty progresses while GB's women's footballers continue their winning ways.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57955443</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57955443</guid>
-            <pubDate>Sat, 24 Jul 2021 13:58:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Welsh Fire hold on to beat Superchargers in last-over thriller]]></title>
             <description><![CDATA[Welsh Fire win a high-scoring, see-sawing match against Northern Superchargers in the men's Hundred at Headingley.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57955648</link>
@@ -385,6 +378,13 @@
             <link>https://www.bbc.co.uk/sport/57957980</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/57957980</guid>
             <pubDate>Sat, 24 Jul 2021 22:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Vivianne Miedema, Rose Lavelle and Dominique Janssen feature in best goals]]></title>
+            <description><![CDATA[Watch the best strikes from Vivianne Miedema, Dominique Janssen and Rose Lavelle in our round-up of the best goals from the second round of women's games at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57956661</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57956661</guid>
+            <pubDate>Sat, 24 Jul 2021 15:48:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Geraint Thomas' hopes dashed in crash as Ecuador's Richard Carapaz wins road race gold]]></title>

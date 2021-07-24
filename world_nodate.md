@@ -4,10 +4,10 @@
 4. [Typhoon In-Fa sweeps towards China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - Typhoon In-Fa is expected to make landfall on Sunday, days after floods devastated central areas.
 5. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired teargas during protests against Covid-19 curbs and vaccination.
 6. [Serial killer on death row Rodney Alcala dies of natural causes](https://www.bbc.co.uk/news/world-us-canada-57955961) - Infamous "Dating Game Killer" Rodney Alcala was sentenced in 2010 for murdering women in California.
-7. [Australia Covid: Arrests at anti-lockdown protests](https://www.bbc.co.uk/news/world-australia-57952516) - Thousands take to the streets in Sydney, with further protests in Melbourne and Brisbane.
+7. [LA man who mocked Covid-19 vaccines dies of virus](https://www.bbc.co.uk/news/world-us-canada-57958358) - Stephen Harmon, who opposed getting vaccinated, has died after a month-long struggle with the virus.
 8. [Surfside tower collapse: No sign of final victim as Miami search ends](https://www.bbc.co.uk/news/world-us-canada-57951422) - As the search for remains in the collapsed apartment block ends, one victim remains unaccounted for.
-9. [LA man who mocked Covid-19 vaccines dies of virus](https://www.bbc.co.uk/news/world-us-canada-57958358) - Stephen Harmon, who opposed getting vaccinated, has died after a month-long struggle with the virus.
-10. [China imposes sanctions on US officials](https://www.bbc.co.uk/news/world-asia-china-57950720) - The sanctions are in response to recent US sanctions on Chinese officials in Hong Kong.
+9. [R. Kelly accused of abusing teenage boy he met in McDonald's](https://www.bbc.co.uk/news/world-us-canada-57958367) - The R&B star had sexual contact with a 17-year-old he met in McDonald's, prosecutors claim.
+10. [Australia Covid: Arrests at anti-lockdown protests](https://www.bbc.co.uk/news/world-australia-57952516) - Thousands take to the streets in Sydney, with further protests in Melbourne and Brisbane.
 11. [Angelina Jolie wins appeal to remove judge from Brad Pitt divorce case](https://www.bbc.co.uk/news/world-us-canada-57946434) - The ruling is a victory for Angelina Jolie, who is locked in a custody battle with Brad Pitt.
 12. [Baby orca, Toa, dies in New Zealand after failed search for mother](https://www.bbc.co.uk/news/world-asia-57950919) - Toa, a killer whale stranded from his family, had washed ashore on the New Zealand coast.
 13. [Nigeria's hipster herders - the funky Fulanis](https://www.bbc.co.uk/news/world-africa-57929704) - Fulani herders are usually found in forests herding cattle but when they go to cities, they dress in style.
