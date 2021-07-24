@@ -2,8 +2,8 @@
 2. [Tokyo Olympics: Geraint Thomas' hopes dashed in crash as Ecuador's Richard Carapaz wins road race gold](https://www.bbc.co.uk/sport/olympics/57952349) - Geraint Thomas' medal hopes are dashed during fall in the men's road race as Ecuador's Richard Carapaz wins gold.
 3. [Holidays in Wales: How your staycation looked in 1971](https://www.bbc.co.uk/news/uk-wales-57918491) - The holiday camps are packed, the sun is shining and the phrase "staycation" is yet to be invented.
 4. [Girl's tragic balloon accident death marked 125 years on](https://www.bbc.co.uk/news/uk-wales-57932076) - Louisa Maud Evans, 14, fell to her death in an aeronautic display, triggering a change in the law.
-5. [Wales boss Ryan Giggs denies assaulting ex-girlfriend](https://www.bbc.co.uk/news/uk-wales-57939707) - He allegedly used controlling behaviour, including kicking his ex-girlfriend out of his hotel room naked.
-6. [Cardigan murder probe: Man charged after 'loving father's' death](https://www.bbc.co.uk/news/uk-wales-57947641) - Ashley Keegan, 22, is due to appear in court charged with murdering John Bell in Cardigan.
+5. [Cardigan murder accused Ashley Keegan appears in court](https://www.bbc.co.uk/news/uk-wales-57956292) - Ashley Keegan, 22, is remanded in custody to appear before Swansea Crown Court on Tuesday.
+6. [Wales boss Ryan Giggs denies assaulting ex-girlfriend](https://www.bbc.co.uk/news/uk-wales-57939707) - He allegedly used controlling behaviour, including kicking his ex-girlfriend out of his hotel room naked.
 7. [Pontyclun crash: Three in hospital after car hits people outside pub](https://www.bbc.co.uk/news/uk-wales-57934076) - Police believe the driver of the car suffered a "medical episode" just before the crash.
 8. [Gwynedd man killed himself after paying romance scammers](https://www.bbc.co.uk/news/uk-wales-57935467) - "Gentle soul" Chris Leeds was found dead after parting with thousands of pounds, an inquest hears.
 9. [Racism probe as 'bananas thrown at Cardiff City academy players'](https://www.bbc.co.uk/news/uk-wales-57934499) - Probe as former Cardiff City youth team footballer says he and a team-mate were racially abused.
