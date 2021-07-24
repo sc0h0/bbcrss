@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 18:01:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 18:27:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Teenager found dead after Loch Lomond search]]></title>
-            <description><![CDATA[A major search operation was launched at Balloch Country Park just after 19:00 on Friday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57945374</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57945374</guid>
-            <pubDate>Sat, 24 Jul 2021 00:04:56 GMT</pubDate>
+            <title><![CDATA[Police crackdown at national parks over anti-social behaviour]]></title>
+            <description><![CDATA[Loch Lomond and Cairngorms officers are escalating patrols over anti-social behaviour and water safety issues.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57956023</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57956023</guid>
+            <pubDate>Sat, 24 Jul 2021 18:00:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -28,6 +28,20 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
             <pubDate>Sat, 24 Jul 2021 13:29:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[M74 motorway closed after crash with two motorbikes and car]]></title>
+            <description><![CDATA[Police Scotland were called to the scene between Junctions 10 and 11 at Lesmahagow on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57957728</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57957728</guid>
+            <pubDate>Sat, 24 Jul 2021 17:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teenager found dead after Loch Lomond search]]></title>
+            <description><![CDATA[A major search operation was launched at Balloch Country Park just after 19:00 on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57945374</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57945374</guid>
+            <pubDate>Sat, 24 Jul 2021 00:04:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Large stones stolen from wall at Torwood Castle]]></title>
@@ -51,20 +65,6 @@
             <pubDate>Sat, 24 Jul 2021 10:19:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[M74 motorway closed after crash with two motorbikes and car]]></title>
-            <description><![CDATA[Police Scotland were called to the scene between Junctions 10 and 11 at Lesmahagow on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57957728</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57957728</guid>
-            <pubDate>Sat, 24 Jul 2021 17:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How did Scots fare overnight at the Tokyo Olympics?]]></title>
-            <description><![CDATA[Joy for Kim Little, Andy and Jamie Murray but mixed fortunes for other Scots on the first full day of competition at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57919209</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57919209</guid>
-            <pubDate>Sat, 24 Jul 2021 14:42:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Martin Compston: 'Scotland's Justin Bieber' leads cast of The Rig]]></title>
             <description><![CDATA[Martin Compston's latest co-star reckons the Line of Duty actor is as famous in Scotland as a pop icon.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57942719</link>
@@ -72,18 +72,18 @@
             <pubDate>Sat, 24 Jul 2021 10:20:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Troon railway station to reopen to passengers after fire]]></title>
-            <description><![CDATA[ScotRail said services to Ayr will resume on Monday and Glasgow-bound trains will return from Friday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57954827</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57954827</guid>
-            <pubDate>Sat, 24 Jul 2021 12:16:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Very high risk' wildfire warning follows heatwave]]></title>
             <description><![CDATA[The Scottish Fire and Rescue Service alert covers Easter Ross, central Highlands and south-west Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57953879</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57953879</guid>
             <pubDate>Sat, 24 Jul 2021 09:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Troon railway station to reopen to passengers after fire]]></title>
+            <description><![CDATA[ScotRail said services to Ayr will resume on Monday and Glasgow-bound trains will return from Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57954827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57954827</guid>
+            <pubDate>Sat, 24 Jul 2021 12:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Critical workers to be exempt from self-isolation]]></title>
@@ -112,20 +112,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-57934140</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-57934140</guid>
             <pubDate>Fri, 23 Jul 2021 14:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England's Covid infection rate overtakes Scotland]]></title>
-            <description><![CDATA[New infections are down but it is too soon to say if cases have peaked, say experts.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57942217</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57942217</guid>
-            <pubDate>Fri, 23 Jul 2021 20:09:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amur tiger cubs get first health check at Highland Wildlife Park]]></title>
-            <description><![CDATA[The nine-week-old endangered Amur tigers are being kept in a cubbing den at Highland Wildlife Park]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57941345</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57941345</guid>
-            <pubDate>Fri, 23 Jul 2021 11:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
@@ -296,6 +282,20 @@
             <pubDate>Thu, 22 Jul 2021 17:03:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: How did the Scots fare? Andy and Jamie Murray win, mixed fortunes for others]]></title>
+            <description><![CDATA[Joy for Kim Little, Andy and Jamie Murray but mixed fortunes for other Scots on the first full day of competition at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57919209</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57919209</guid>
+            <pubDate>Sat, 24 Jul 2021 14:42:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British and Irish Lions: Lions fight back to clinch series opener]]></title>
+            <description><![CDATA[The British and Irish Lions draw first blood in the Test series against world champions South Africa after fighting back from nine points down at the break.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57955588</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57955588</guid>
+            <pubDate>Sat, 24 Jul 2021 18:24:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Olympic women's football: Team GB beat Japan to qualify for knockout stages]]></title>
             <description><![CDATA[Great Britain guarantee their progress to the knockout stages of the Olympic women's football competition with victory over hosts Japan in Sapporo.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57932917</link>
@@ -303,25 +303,18 @@
             <pubDate>Sat, 24 Jul 2021 13:13:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Celtic: Ange Postecoglou's confidence unaffected by 6-2 friendly loss]]></title>
+            <description><![CDATA[Celtic's heavy loss to West Ham "makes no difference" to Ange Postecoglou's confidence for Wednesday's game with Midtjylland.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57957450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57957450</guid>
+            <pubDate>Sat, 24 Jul 2021 18:22:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Andy Murray among 'best-ever British athletes' - Leon Smith]]></title>
             <description><![CDATA[Leadership, resilience and inspiration - long-time coach Leon Smith on Andy Murray's Olympic success as he defends his title in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/57904998</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/57904998</guid>
             <pubDate>Sat, 24 Jul 2021 10:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geraint Thomas: Team GB cyclist crashes in Tokyo Olympics road race]]></title>
-            <description><![CDATA[Watch as Team GB cyclists Geraint Thomas and Tao Geoghegan Hart crash in the men's road race on day one of the Tokyo Olympics- Britain's Tao Geoghegan Hart also involved.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57950904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57950904</guid>
-            <pubDate>Sat, 24 Jul 2021 05:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish League Cup: Arbroath, Ayr, Dundee, Kilmarnock, Livingston, Motherwell & Raith Rovers progress]]></title>
-            <description><![CDATA[Arbroath, Ayr, Kilmarnock and Raith Rovers join top-flight Dundee, Livingston and Motherwell in reaching the Scottish League Cup second round.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57955217</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57955217</guid>
-            <pubDate>Sat, 24 Jul 2021 16:13:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
