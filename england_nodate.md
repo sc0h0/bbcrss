@@ -2,7 +2,7 @@
 2. [Liverpool sinkhole appears after water main bursts](https://www.bbc.co.uk/news/uk-england-merseyside-57954296) - Work to repair the 6m (20ft) hole in Liverpool is expected to take at least two weeks to complete
 3. [Esther Dingley: Partner informed of 'remains' find in Pyrenees](https://www.bbc.co.uk/news/uk-england-tyne-57954180) - Esther Dingley disappeared on a solo walk near the France-Spain border in November.
 4. [Parkrun: Northampton runner, 88, completes 400th event](https://www.bbc.co.uk/news/uk-england-northamptonshire-57954713) - Bob Emmerson says he now wants to get to 500 runs as he "can't give it up".
-5. [Goole WW2 bomb: M62 closed as Army prepares to detonate device](https://www.bbc.co.uk/news/uk-england-humber-57953506) - Army bomb experts will carry out a controlled explosion of the device, found on a new housing estate.
+5. [Goole WW2 bomb: Army experts carry out controlled explosion](https://www.bbc.co.uk/news/uk-england-humber-57953506) - Army bomb disposal experts carry out a detonation on the live device.
 6. [Coronavirus: Mum urges 'get jab' after son hospitalised](https://www.bbc.co.uk/news/uk-england-tees-57375406) - Aiden's mum says it "infuriates" her when parents presume their children will not get ill.
 7. [Cornwall beach dog dies after swallowing fish hook](https://www.bbc.co.uk/news/uk-england-cornwall-57954547) - Terrier Mabel was taken to an animal hospital but suffered a ruptured artery in an operation.
 8. [Open water: Swimmers urged not to take chances](https://www.bbc.co.uk/news/uk-57953480) - It is thought 28 people have lost their lives in open water during the recent hot weather.
