@@ -8,7 +8,7 @@
 8. [Coronavirus: Mum urges 'get jab' after son hospitalised](https://www.bbc.co.uk/news/uk-england-tees-57375406) - Aiden's mum says it "infuriates" her when parents presume their children will not get ill.
 9. [Open water: Swimmers urged not to take chances](https://www.bbc.co.uk/news/uk-57953480) - It is thought 28 people have lost their lives in open water during the recent hot weather.
 10. [Cornwall beach dog dies after swallowing fish hook](https://www.bbc.co.uk/news/uk-england-cornwall-57954547) - Terrier Mabel was taken to an animal hospital but suffered a ruptured artery in an operation.
-11. [Lightning destroys roofs as storms end heatwave in southern England and Wales](https://www.bbc.co.uk/news/uk-57952825) - Southern Britain is hit by torrential rain but there's a sunny start to school holidays further north.
+11. [Lightning destroys roofs as storms end heatwave in southern England and Wales](https://www.bbc.co.uk/news/uk-57952825) - Southern Britain is hit by heavy rain but there is a sunny start to school holidays further north.
 12. [Romsey industrial estate blaze involving 35,000 tonnes of waste](https://www.bbc.co.uk/news/uk-england-hampshire-57953819) - Residents near the blaze at Yokesford Hill Industrial Estate are advised to shut their windows.
 13. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
 14. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
