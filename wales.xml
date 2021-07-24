@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 07:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 07:17:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,6 +170,13 @@
             <pubDate>Fri, 23 Jul 2021 16:00:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rhai myfyrwyr rhyngwladol yn wynebu ffi cwarantîn o £1,750]]></title>
+            <description><![CDATA[Dywedodd Undeb Cenedlaethol Myfyrwyr Cymru ei fod yn anghywir bod rhai prifysgolion ddim yn talu'r gost.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57941946</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57941946</guid>
+            <pubDate>Sat, 24 Jul 2021 07:08:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Marwolaeth Aberteifi: Cyhuddo dyn o lofruddiaeth]]></title>
             <description><![CDATA[Bydd dyn 22 oed yn mynd o flaen llys ynadon ddydd Sadwrn wedi ei gyhuddo o lofruddio John Bell.]]></description>
             <link>https://www.bbc.co.uk/newyddion/57948264</link>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/newyddion/57906843</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57906843</guid>
             <pubDate>Fri, 23 Jul 2021 19:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cymru i gael stormydd o daranau wedi'r gwres mawr]]></title>
-            <description><![CDATA[Rhybudd melyn am law mewn grym yn rhannau o'r de wedi dyddiau o haul tanbaid ar draws Cymru.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57950199</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57950199</guid>
-            <pubDate>Fri, 23 Jul 2021 19:22:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Rhaid parchu pobl ac anifeiliaid cefn gwlad']]></title>
