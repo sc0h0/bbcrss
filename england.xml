@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 16:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 17:15:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -212,6 +212,13 @@
             <pubDate>Sat, 24 Jul 2021 11:10:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Hundred: Jemimah Rodrigues leads Northern Superchargers to victory]]></title>
+            <description><![CDATA[Jemimah Rodrigues plays the innings of The Hundred so far to take Northern Superchargers almost single-handedly to victory over Welsh Fire.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57955128</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57955128</guid>
+            <pubDate>Sat, 24 Jul 2021 17:01:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[T20 debut on Sunday, Hundred matchwinner on Friday - Benjamin stars in thrilling Phoenix win]]></title>
             <description><![CDATA[Unknown 22-year-old Chris Benjamin leads Birmingham Phoenix to a stunning last-gasp victory over London Spirit in the men's Hundred.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57949800</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/football/57827831</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57827831</guid>
             <pubDate>Fri, 23 Jul 2021 12:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toby Alderweireld: Spurs defender in talks with Qatar's Al-Duhail]]></title>
-            <description><![CDATA[Tottenham defender Toby Alderweireld is in talks with Qatari club Al-Duhail.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57955608</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57955608</guid>
-            <pubDate>Sat, 24 Jul 2021 13:18:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
