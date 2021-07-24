@@ -22,6 +22,5 @@
 22. [Wales women have reached 'catastrophic point', says ex-wing Caryl James](https://www.bbc.co.uk/sport/rugby-union/57947351) - Ex-Wales wing Caryl James says the women's national team has reached a low point and needs a drastic overhaul.
 23. [Rhai myfyrwyr rhyngwladol yn wynebu ffi cwarantîn o £1,750](https://www.bbc.co.uk/newyddion/57941946) - Dywedodd Undeb Cenedlaethol Myfyrwyr Cymru ei fod yn anghywir bod rhai prifysgolion ddim yn talu'r gost.
 24. [Ystyried gwahardd cŵn o 18 o draethau yng Ngwynedd](https://www.bbc.co.uk/newyddion/57933818) - Penodi dau swyddog gorfodaeth ymhlith mesurau newydd i daclo problemau baw ci mewn mannau cyhoeddus.
-25. [Marwolaeth Aberteifi: Cyhuddo dyn o lofruddiaeth](https://www.bbc.co.uk/newyddion/57948264) - Bydd dyn 22 oed yn mynd o flaen llys ynadon ddydd Sadwrn wedi ei gyhuddo o lofruddio John Bell.
-26. ['Rhaid parchu pobl ac anifeiliaid cefn gwlad'](https://www.bbc.co.uk/newyddion/57904839) - Neges i ymwelwyr gan Wyn Evans, sy'n ffermio ger Aberystwyth
-27. [Morgannwg yn trechu Sir Warwig yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/57936623) - Dechrau da i ymgyrch y Cymry yn y Cwpan Undydd gan ennill gêm agos iawn yng Nghaerdydd.
+25. [Y Llewod: Peidiwch disgwyl gwledd o rygbi agored!](https://www.bbc.co.uk/newyddion/57945697) - Cennydd Davies sy'n edrych ymlaen at y prawf cyntaf rhwng y Llewod a De Affrica yn ddiweddarach.
+26. [Morgannwg yn trechu Sir Warwig yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/57936623) - Dechrau da i ymgyrch y Cymry yn y Cwpan Undydd gan ennill gêm agos iawn yng Nghaerdydd.

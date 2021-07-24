@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 08:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 08:33:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,7 +37,7 @@
             <pubDate>Sat, 24 Jul 2021 07:34:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Rig: 'Scotland's Justin Bieber' leads cast of new Amazon drama]]></title>
+            <title><![CDATA[Martin Compston: 'Scotland's Justin Bieber' leads cast of The Rig]]></title>
             <description><![CDATA[Martin Compston's latest co-star reckons the Line of Duty actor is as famous in Scotland as a pop icon.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57942719</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57942719</guid>
@@ -79,18 +79,18 @@
             <pubDate>Fri, 23 Jul 2021 09:17:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England's Covid infection rate overtakes Scotland]]></title>
-            <description><![CDATA[New infections are down but it is too soon to say if cases have peaked, say experts.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57942217</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57942217</guid>
-            <pubDate>Fri, 23 Jul 2021 20:09:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Railway engineers build beaver pass on Highland line]]></title>
             <description><![CDATA[The tunnel near Gleneagles will prevent the protected animals building dams across drainage culverts.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-57934140</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-57934140</guid>
             <pubDate>Fri, 23 Jul 2021 14:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's Covid infection rate overtakes Scotland]]></title>
+            <description><![CDATA[New infections are down but it is too soon to say if cases have peaked, say experts.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57942217</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57942217</guid>
+            <pubDate>Fri, 23 Jul 2021 20:09:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amur tiger cubs get first health check at Highland Wildlife Park]]></title>
@@ -289,6 +289,13 @@
             <pubDate>Fri, 23 Jul 2021 22:34:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Celtic, Rangers, Edouard, Goldson, Forster, Motherwell, Brighton, Southampton, Clarke-Harris, Couto, Arriaga]]></title>
+            <description><![CDATA[Brighton & Hove Albion are reportedly preparing a £20m offer for Celtic's Odsonne Edouard as Peterborough United's Jonson Clarke-Harris admits interest in joining Rangers.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57940906</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57940906</guid>
+            <pubDate>Sat, 24 Jul 2021 08:08:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Helen Glover 'has fight on her hands' to retain rowing title]]></title>
             <description><![CDATA[Team GB's Helen Glover "has a fight on her hands" to win her third rowing Olympic gold medal after a disappointing display in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57951296</link>
@@ -301,13 +308,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/57944412</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57944412</guid>
             <pubDate>Fri, 23 Jul 2021 12:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British and Irish Lions 2021: Where South Africa Test series may be won and lost]]></title>
-            <description><![CDATA[Fast starts, scrums and replacements - where will the British and Irish Lions Test series in South Africa be won and lost?]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/57933334</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57933334</guid>
-            <pubDate>Fri, 23 Jul 2021 16:00:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
