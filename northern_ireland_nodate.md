@@ -1,7 +1,7 @@
 1. [Six people taken to hospital after funfair incident](https://www.bbc.co.uk/news/uk-northern-ireland-57957404) - Emergency services were called to the scene after a 999 call was made on Saturday evening.
 2. [M2 Belfast: Fire service puts out bus blaze on motorway](https://www.bbc.co.uk/news/uk-northern-ireland-57955150) - The bus driver noticed smoke at the rear of the vehicle before the blaze took hold.
 3. [Covid-19: One further death and 1,520 positive cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57952689) - More than 1m people have received two doses of a Covid-19 vaccine in NI with more than 2.2m doses administered.
-4. [Anti-lockdown protests in Belfast and Dublin](https://www.bbc.co.uk/news/uk-northern-ireland-57957405) - Police say they will review footage of the Belfast protest and consider any legal breaches.
+4. [Belfast and Dublin protests over Covid restrictions](https://www.bbc.co.uk/news/uk-northern-ireland-57957405) - Police say they will review footage of the Belfast protest and consider any legal breaches.
 5. [Muck Island: Kayakers rescued by RNLI near Islandmagee](https://www.bbc.co.uk/news/uk-northern-ireland-57955149) - Three people were found in the water, one showing effects of being in cold water for a prolonged period. 
 6. [Lurgan: Two arrested after £80k suspected cannabis seizure](https://www.bbc.co.uk/news/uk-northern-ireland-57955151) - The suspected drugs were found in a Lurgan house after officers responded to a reported incident.
 7. [BLM policing damaged relations, says police chief](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57957400) - Simon Byrne attends an event in Londonderry with some organisers of Black Lives Matter protests.
