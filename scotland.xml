@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 10:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 10:33:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,10 +24,10 @@
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Thousands turn off tracking app]]></title>
-            <description><![CDATA[The Protect Scotland app was active on about 900,000 phones last week despite being downloaded two million times.]]></description>
+            <description><![CDATA[Protect Scotland was active on about 900,000 phones last week despite being downloaded two million times.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57941343</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57941343</guid>
-            <pubDate>Fri, 23 Jul 2021 21:27:24 GMT</pubDate>
+            <pubDate>Sat, 24 Jul 2021 10:19:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Large stones stolen from wall at Torwood Castle]]></title>
@@ -55,7 +55,7 @@
             <description><![CDATA[Martin Compston's latest co-star reckons the Line of Duty actor is as famous in Scotland as a pop icon.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57942719</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57942719</guid>
-            <pubDate>Fri, 23 Jul 2021 21:40:51 GMT</pubDate>
+            <pubDate>Sat, 24 Jul 2021 10:20:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How did the Scots fare overnight at Tokyo Olympics?]]></title>
@@ -315,13 +315,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/57951296</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57951296</guid>
             <pubDate>Sat, 24 Jul 2021 07:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geraint Thomas: Team GB cyclist crashes in Tokyo Olympics road race]]></title>
-            <description><![CDATA[Watch as Team GB cyclists Geraint Thomas and Tao Geoghegan Hart crash in the men's road race on day one of the Tokyo Olympics- Britain's Tao Geoghegan Hart also involved.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57950904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57950904</guid>
-            <pubDate>Sat, 24 Jul 2021 05:05:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
