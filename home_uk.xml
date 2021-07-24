@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 01:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 02:01:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: More testing sites for key workers to avoid isolation in England]]></title>
+            <description><![CDATA[Police, transport, freight and fire workers will be able to join the daily contact testing scheme.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57950930</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57950930</guid>
+            <pubDate>Sat, 24 Jul 2021 01:14:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Daily Covid cases down for third day in UK]]></title>
             <description><![CDATA[New infections are down but it is too soon to say if cases have peaked, say experts.]]></description>
@@ -72,13 +79,6 @@
             <pubDate>Fri, 23 Jul 2021 16:59:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Gareth Southgate urges young people to have jab]]></title>
-            <description><![CDATA[The England manager says vaccination is a chance for them to "get your freedom back".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57950059</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57950059</guid>
-            <pubDate>Fri, 23 Jul 2021 21:30:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[German TV apologises for smearing mud on clothes at flood site]]></title>
             <description><![CDATA[A video showed Susanna Ohlen rubbing herself with dirt before broadcasting from a flood-hit town.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57946430</link>
@@ -100,7 +100,7 @@
             <pubDate>Fri, 23 Jul 2021 22:55:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Newspaper headlines: Pingdemic 'to last weeks' and healthy 'rewards' planned]]></title>
+            <title><![CDATA[The Papers: Pingdemic 'to last weeks' and healthy 'rewards' planned]]></title>
             <description><![CDATA[Several of Saturday's papers also carry images of the opening ceremony of the Tokyo Olympic Games.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57950840</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57950840</guid>
@@ -310,18 +310,18 @@
             <pubDate>Fri, 23 Jul 2021 15:02:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['South Africa are going to be superhuman' - Lions face huge challenge in first Test]]></title>
+            <description><![CDATA[The British and Irish Lions prepare to face a South Africa side driven to provide hope for their country.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/57947839</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57947839</guid>
+            <pubDate>Fri, 23 Jul 2021 22:18:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pro debut on Sunday, men's Hundred matchwinner on Friday - Benjamin stars in thrilling Phoenix win]]></title>
             <description><![CDATA[Unknown 22-year-old Chris Benjamin leads Birmingham Phoenix to a stunning last-gasp victory over London Spirit in the men's Hundred.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57949800</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57949800</guid>
             <pubDate>Fri, 23 Jul 2021 21:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spirit stutter to win over Phoenix in women's Hundred]]></title>
-            <description><![CDATA[London Spirit survive a big scare to beat Birmingham Phoenix and begin their women's Hundred campaign with a three-wicket win.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57946337</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57946337</guid>
-            <pubDate>Fri, 23 Jul 2021 17:28:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jadon Sancho: Is right or left wing his best Man Utd position? Or a liberator for Fernandes?]]></title>
@@ -331,18 +331,18 @@
             <pubDate>Fri, 23 Jul 2021 21:06:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred - Birmingham Phoenix v London Spirit: Plays of the day]]></title>
-            <description><![CDATA[Watch the best moments of the women's and men's Hundred matches at Edgbaston as Birmingham Phoenix hosted London Spirit.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57949632</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57949632</guid>
-            <pubDate>Fri, 23 Jul 2021 22:47:04 GMT</pubDate>
+            <title><![CDATA[Spirit stutter to win over Phoenix in women's Hundred]]></title>
+            <description><![CDATA[London Spirit survive a big scare to beat Birmingham Phoenix and begin their women's Hundred campaign with a three-wicket win.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57946337</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57946337</guid>
+            <pubDate>Fri, 23 Jul 2021 17:28:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred - Birmingham Phoenix v London Spirit: Andrew Milne removes Ravi Bopara caught & bowled]]></title>
-            <description><![CDATA[Birmingham Phoenix bowler Andrew Milne shows stunning reactions to remove London Spirit's Ravi Bopara caught and bowled for 17 in The Hundred at Edgbaston.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57949923</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57949923</guid>
-            <pubDate>Fri, 23 Jul 2021 19:21:06 GMT</pubDate>
+            <title><![CDATA[Helen Glover and Polly Swann: Team GB pair third in Tokyo Olympics heat]]></title>
+            <description><![CDATA[Olympic champion Helen Glover and partner Polly Swann finish a disappointing third in their women's pair heat on day one of the Tokyo Olympics - but reach the semi-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57950901</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57950901</guid>
+            <pubDate>Sat, 24 Jul 2021 01:50:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Polly Swann: Olympic rower on working the wards, training in her shed & unfinished business]]></title>
