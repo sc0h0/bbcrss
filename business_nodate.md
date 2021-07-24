@@ -1,12 +1,12 @@
-1. [Covid: The holiday makers having to self-isolate abroad](https://www.bbc.co.uk/news/business-57946480) - Some holidaymakers who tested positive for Covid while abroad are having to stay and self-isolate.
-2. [Covid: Food exemption scheme delayed until Monday](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
-3. [Covid: New testing plan will not work, warn firms](https://www.bbc.co.uk/news/business-57945229) - Industry body, the CBI, criticises government plans that allow some key staff to bypass the NHS Covid app.
-4. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
-5. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
-6. [Rural vacuum for getting hold of cash](https://www.bbc.co.uk/news/business-57941001) - People living in rural areas have less chance of withdrawing or depositing cash nearby, research finds.
-7. [People splash out on food and drink for Euro 2020](https://www.bbc.co.uk/news/business-57939140) - Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.
-8. [India Zomato: Shares of food delivery app soar on market debut](https://www.bbc.co.uk/news/business-57938217) - The firm's stock exchange listing sets the pace for other start-ups that are thriving in the pandemic.
-9. [Road planners able to ignore climate change, campaigners claim](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.
+1. [Covid-19: More testing sites for key workers to avoid isolation in England](https://www.bbc.co.uk/news/uk-57950930) - Police, transport, freight and fire workers will be able to join the daily contact testing scheme.
+2. [Covid: The holiday makers having to self-isolate abroad](https://www.bbc.co.uk/news/business-57946480) - Some holidaymakers who tested positive for Covid while abroad are having to stay and self-isolate.
+3. [Covid: Food exemption scheme delayed until Monday](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
+4. [Covid: New testing plan will not work, warn firms](https://www.bbc.co.uk/news/business-57945229) - Industry body, the CBI, criticises government plans that allow some key staff to bypass the NHS Covid app.
+5. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
+6. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
+7. [Rural vacuum for getting hold of cash](https://www.bbc.co.uk/news/business-57941001) - People living in rural areas have less chance of withdrawing or depositing cash nearby, research finds.
+8. [People splash out on food and drink for Euro 2020](https://www.bbc.co.uk/news/business-57939140) - Retail sales rose by 0.5% as millions stocked up on food and drink to watch the football tournament.
+9. [India Zomato: Shares of food delivery app soar on market debut](https://www.bbc.co.uk/news/business-57938217) - The firm's stock exchange listing sets the pace for other start-ups that are thriving in the pandemic.
 10. [Didi shares fall on reports China is planning penalties](https://www.bbc.co.uk/news/business-57938212) - The ride-hailing giant's shares are now down by more than 25% since their New York market debut last month.
 11. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
 12. [Fashion for Crocs continues to break records](https://www.bbc.co.uk/news/business-57935256) - The chunky shoe's sales nearly doubled in the three months to the end of June compared with last year.
