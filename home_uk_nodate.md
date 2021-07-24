@@ -3,7 +3,7 @@
 3. [Met Office storm warning for campsites and caravans](https://www.bbc.co.uk/news/uk-57945502) - Thunderstorms and 55mph gusts of wind could disrupt the plans of holidaymakers, the Met Office says.
 4. [Concern mounts for missing 11-year-old schoolgirl from Bolton](https://www.bbc.co.uk/news/uk-england-manchester-57950115) - The parents of Fatuma Kadir, who travelled from Manchester to London by train, say they are in "shock".
 5. [Covid-19: More testing sites and PM faces isolation pressure](https://www.bbc.co.uk/news/uk-57951934) - Five things you need to know about the coronavirus pandemic this Saturday evening.
-6. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival in the UK since 2019.
+6. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.
 7. [Surfside tower collapse: Search for bodies concludes](https://www.bbc.co.uk/news/world-us-canada-57951422) - Firefighters say their search is over, a month after the building collapsed, with 97 confirmed dead.
 8. [Covid-19: Air travel takes off on busiest weekend since pandemic](https://www.bbc.co.uk/news/uk-57948383) - As school holidays begin for many, the airline industry says tens of thousands are flying abroad.
 9. [Jeff Bezos and Sir Richard Branson not yet astronauts, US says](https://www.bbc.co.uk/news/world-us-canada-57950149) - The US government has tightened rules on which space-goers can claim their astronaut wings.
