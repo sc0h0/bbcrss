@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 16:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 17:16:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Flash floods: Parts of London under water after heavy rain]]></title>
-            <description><![CDATA[The Met Office says some areas could see 75-100mm of rain in just a few hours.]]></description>
+            <title><![CDATA[UK Weather: Flooding in London after heavy rain]]></title>
+            <description><![CDATA[Officials warn of hazardous travel conditions as heavy rainfall causes disruption in the capital.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57963856</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57963856</guid>
-            <pubDate>Sun, 25 Jul 2021 16:13:56 GMT</pubDate>
+            <pubDate>Sun, 25 Jul 2021 17:15:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Football manager Joey Barton charged with attacking woman]]></title>
@@ -282,6 +282,13 @@
             <pubDate>Sun, 25 Jul 2021 13:34:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[FSA chief says making proof of vaccination mandatory at football matches could cause 'chaos']]></title>
+            <description><![CDATA[Making proof of full vaccination mandatory at Premier League matches could cause "chaos" at some clubs, the Football Supporters' Association has warned.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57963468</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57963468</guid>
+            <pubDate>Sun, 25 Jul 2021 16:12:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Hundred: Birmingham Phoenix beat Manchester Originals to get first win]]></title>
             <description><![CDATA[Birmingham Phoenix pick up their first win of the women's Hundred with a 20-run victory over Manchester Originals at Emirates Old Trafford.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57964027</link>
@@ -294,13 +301,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/57962556</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57962556</guid>
             <pubDate>Sun, 25 Jul 2021 15:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hundred organisers say online 'racism or other forms of abuse' unacceptable]]></title>
-            <description><![CDATA[Organisers of The Hundred say they do not "accept racism or other forms of abuse" following "recent online comments directed towards players and fans".]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57961240</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57961240</guid>
-            <pubDate>Sun, 25 Jul 2021 12:12:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

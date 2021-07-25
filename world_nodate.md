@@ -1,8 +1,8 @@
 1. [Shock golds and Osaka's return at Tokyo 2020](https://www.bbc.co.uk/sport/olympics/57961046) - Austria's Anna Kiesenhofer and Tunisian teenager Ahmed Hafnaoui win surprise golds on a drama-filled second day at the Tokyo Olympics.
-2. [Australia Covid: Anti-lockdown protesters condemned](https://www.bbc.co.uk/news/world-australia-57960044) - It comes after thousands marched through Australian cities to demand an end to lockdown measures.
+2. [India landslide: Nine tourists killed as boulders fall from hilltop](https://www.bbc.co.uk/news/world-asia-india-57955964) - A vehicle carrying tourists from Delhi is struck by large rocks in the state of Himachal Pradesh.
 3. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
 4. [Jackie Mason, rabbi turned comedian, dies aged 93](https://www.bbc.co.uk/news/world-us-canada-57960048) - The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.
-5. [India landslide: Nine tourists killed as boulders fall from hilltop](https://www.bbc.co.uk/news/world-asia-india-57955964) - A vehicle carrying tourists from Delhi is struck by large rocks in the state of Himachal Pradesh.
+5. [Australia Covid: Anti-lockdown protesters condemned](https://www.bbc.co.uk/news/world-australia-57960044) - It comes after thousands marched through Australian cities to demand an end to lockdown measures.
 6. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
 7. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
 8. [Typhoon sweeps into eastern China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - A major storm makes landfall in the city of Zhoushan, days after floods devastated central areas.
