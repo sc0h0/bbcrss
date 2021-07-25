@@ -23,5 +23,5 @@
 23. [British and Irish Lions: First Test win over South Africa 'ultimate game of two halves'](https://www.bbc.co.uk/sport/rugby-union/57958188) - Former captain Brian O'Driscoll says the British and Irish Lions' win over South Africa in the first Test was the "ultimate game of two halves".
 24. [Isadeiledd gwael am 'niweidio' twristiaeth ac amgylchedd Cymru](https://www.bbc.co.uk/newyddion/57949107) - Trenau gorlawn, tagfeydd traffig a phroblemau parcio ymhlith yr heriau cyn ymweld ag atyniadau Cymru.
 25. [Disgwyl clywed am gais Treftadaeth Byd ardal lechi Gwynedd](https://www.bbc.co.uk/newyddion/57950205) - Mae disgwyl i UNESCO benderfynu ar statws cais ardaloedd llechi Gwynedd yr wythnos hon.
-26. [Symud mwy o geir wedi eu parcio'n anghyfreithlon yn Eryri](https://www.bbc.co.uk/newyddion/57955662) - Mae'r awdurdodau'n benderfynol o osgoi golygfeydd tebyg i'r hyn a gafwyd yn ystod haf llynedd.
+26. [Ymosodiad Parc Bute: Cyhuddo dau ddyn o geisio llofruddio](https://www.bbc.co.uk/newyddion/57960633) - Dau ddyn wedi'u cyhuddo o geisio llofruddio yn dilyn yr ymosodiad, a'r heddlu'n dal i chwilio am ddynes.
 27. [De Affrica 17-22 Llewod](https://www.bbc.co.uk/newyddion/57955664) - Dan Biggar yn cicio 14 pwynt wrth i'r Llewod ddod yn ôl yn yr ail hanner i drechu De Affrica.
