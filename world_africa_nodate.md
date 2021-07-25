@@ -1,6 +1,6 @@
 1. [Nigeria school kidnappers abduct man delivering ransom](https://www.bbc.co.uk/news/world-africa-57960544) - Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.
 2. [Nigeria's hipster herders - the funky Fulanis](https://www.bbc.co.uk/news/world-africa-57929704) - Fulani herders are usually found in forests herding cattle but when they go to cities, they dress in style.
-3. [Tunisia's Hafnaoui wins Africa's first gold medal](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
+3. [Tunisia's Hafnaoui wins Africa's first Tokyo gold](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
 4. [DRC volcano: Reuniting children with families after the eruption](https://www.bbc.co.uk/news/world-africa-57947193) - Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.
 5. [Tokyo Olympics: Zambia's Banda claims her second hat-trick of Games](https://www.bbc.co.uk/sport/africa/57954736) - Zambia striker Barbra Banda becomes first woman to score back-to-back hat-tricks at the same Olympics in 4-4 Group F draw with China.
 6. [British and Irish Lions: Lions fight back to clinch series opener](https://www.bbc.co.uk/sport/rugby-union/57955588) - The British and Irish Lions draw first blood in the Test series against world champions South Africa after fighting back from nine points down at the break.

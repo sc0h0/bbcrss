@@ -1,9 +1,9 @@
-1. [Tokyo Olympics: Tunisia's Hafnaoui wins shock swimming gold](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
-2. [Australia Covid: Anti-lockdown protesters condemned](https://www.bbc.co.uk/news/world-australia-57960044) - It comes after thousands marched through Australian cities to demand an end to lockdown measures.
-3. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
-4. [Nigeria school kidnappers abduct man delivering ransom](https://www.bbc.co.uk/news/world-africa-57960544) - Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.
-5. [Typhoon sweeps into eastern China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - A major storm makes landfall in the city of Zhoushan, days after floods devastated central areas.
-6. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired tear gas during protests against Covid-19 curbs and vaccination.
+1. [Australia Covid: Anti-lockdown protesters condemned](https://www.bbc.co.uk/news/world-australia-57960044) - It comes after thousands marched through Australian cities to demand an end to lockdown measures.
+2. [Tokyo Olympics: Tunisia's Hafnaoui wins shock swimming gold](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
+3. [Nigeria school kidnappers abduct man delivering ransom](https://www.bbc.co.uk/news/world-africa-57960544) - Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.
+4. [Typhoon sweeps into eastern China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - A major storm makes landfall in the city of Zhoushan, days after floods devastated central areas.
+5. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired tear gas during protests against Covid-19 curbs and vaccination.
+6. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
 7. [R. Kelly accused of abusing teenage boy he met in McDonald's](https://www.bbc.co.uk/news/world-us-canada-57958367) - The R&B star had sexual contact with a 17-year-old he met in McDonald's, prosecutors claim.
 8. [Budapest Pride stands up for LGBT rights in Hungary](https://www.bbc.co.uk/news/world-europe-57957348) - Organisers accuse Hungary's right-wing government of seeking to discriminate against gay people.
 9. [Surfside tower collapse: No sign of final victim as Miami search ends](https://www.bbc.co.uk/news/world-us-canada-57951422) - As the search for remains in the collapsed apartment block ends, one victim remains unaccounted for.

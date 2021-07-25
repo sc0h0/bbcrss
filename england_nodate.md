@@ -1,7 +1,7 @@
 1. [Football manager Joey Barton charged with attacking woman](https://www.bbc.co.uk/news/uk-england-london-57960977) - The former Premier League player is charged by police after an incident in London.
 2. [Rings stolen from woman's finger in Chelmsford hospital](https://www.bbc.co.uk/news/uk-england-essex-57955562) - The gold, ruby and diamond bands were replaced with low value "tin" rings, police say.
 3. [Four injured as shots fired at Manchester engagement party](https://www.bbc.co.uk/news/uk-england-manchester-57960851) - Two men, a woman and a 16-year-old girl were hospitalised after five shots were fired, police say.
-4. [Great Yarmouth: 'This town got stuck in time but now I'm loving it'](https://www.bbc.co.uk/news/uk-england-norfolk-56744949) - Great Yarmouth is turning its fortunes round with an increase in visitors and several big projects.
+4. [Thousands enjoy Latitude Festival after Covid cancels 2020 event](https://www.bbc.co.uk/news/uk-england-suffolk-57960887) - The organiser of the four-day event says "it's a dream come true" it has been able to go ahead.
 5. [Tokyo Olympics: Chelsie Giles wins Team GB's first medal with judo bronze](https://www.bbc.co.uk/sport/olympics/57960295) - Judoka Chelsie Giles wins Team GB's first medal of the Tokyo Olympics with bronze in the women's -52kg event.
 6. [Crummock Water: Body found in lake believed to be missing man](https://www.bbc.co.uk/news/uk-england-cumbria-57961077) - The body was found on Saturday but formal identification has not yet taken place, police say.
 7. [Weed garden wins RHS gold at Tatton Park flower show](https://www.bbc.co.uk/news/uk-england-manchester-57961460) - The team behind Weed Thriller want to show that native plants are essential for wildlife.
