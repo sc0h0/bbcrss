@@ -1,6 +1,6 @@
 1. [Carrickfergus funfair ride incident caused by teens, organisers say](https://www.bbc.co.uk/news/uk-northern-ireland-57960383) - Planet Fun says injuries were caused in County Antrim on Saturday because of "misuse of equipment".
-2. [M2 Belfast: Fire service puts out bus blaze on motorway](https://www.bbc.co.uk/news/uk-northern-ireland-57955150) - The bus driver noticed smoke at the rear of the vehicle before the blaze took hold.
-3. [From lockdown animations to Snoop Dogg music video](https://www.bbc.co.uk/news/uk-northern-ireland-57916539) - After his homemade animations went viral, Snoop Dogg asked Peter Quinn to direct his new video.
+2. [From lockdown animations to Snoop Dogg music video](https://www.bbc.co.uk/news/uk-northern-ireland-57916539) - After his homemade animations went viral, Snoop Dogg asked Peter Quinn to direct his new video.
+3. [M2 Belfast: Fire service puts out bus blaze on motorway](https://www.bbc.co.uk/news/uk-northern-ireland-57955150) - The bus driver noticed smoke at the rear of the vehicle before the blaze took hold.
 4. [New exhibition explores life along Derry-Donegal border](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57885075) - The production, entitled Borderlands, will feature interviews from 22 people living in border areas.
 5. [Covid-19: One further death and 1,520 positive cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57952689) - More than 1m people have received two doses of a Covid-19 vaccine in NI with more than 2.2m doses administered.
 6. [Belfast and Dublin protests over Covid restrictions](https://www.bbc.co.uk/news/uk-northern-ireland-57957405) - Police say they will review footage of the Belfast protest and consider any legal breaches.
