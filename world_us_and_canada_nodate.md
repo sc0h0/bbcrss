@@ -1,7 +1,7 @@
 1. [Jackie Mason, rabbi turned comedian, dies aged 93](https://www.bbc.co.uk/news/world-us-canada-57960048) - The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.
-2. [Surfside tower collapse: No sign of final victim as Miami search ends](https://www.bbc.co.uk/news/world-us-canada-57951422) - As the search for remains in the collapsed apartment block ends, one victim remains unaccounted for.
-3. [Serial killer on death row Rodney Alcala dies of natural causes](https://www.bbc.co.uk/news/world-us-canada-57955961) - Infamous "Dating Game Killer" Rodney Alcala was sentenced in 2010 for murdering women in California.
-4. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
+2. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
+3. [Surfside tower collapse: No sign of final victim as Miami search ends](https://www.bbc.co.uk/news/world-us-canada-57951422) - As the search for remains in the collapsed apartment block ends, one victim remains unaccounted for.
+4. [Serial killer on death row Rodney Alcala dies of natural causes](https://www.bbc.co.uk/news/world-us-canada-57955961) - Infamous "Dating Game Killer" Rodney Alcala was sentenced in 2010 for murdering women in California.
 5. [LA man who mocked Covid-19 vaccines dies of virus](https://www.bbc.co.uk/news/world-us-canada-57958358) - Stephen Harmon, who opposed getting vaccinated, has died after a month-long struggle with the virus.
 6. [R. Kelly accused of abusing teenage boy he met in McDonald's](https://www.bbc.co.uk/news/world-us-canada-57958367) - The R&B star had sexual contact with a 17-year-old he met in McDonald's, prosecutors claim.
 7. [Las Vegas murder case cracked with smallest ever amount of DNA](https://www.bbc.co.uk/news/world-us-canada-57947785) - Just 15 cells' worth of DNA was used to track down the man suspected of killing a US girl in 1989.
