@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 11:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 12:26:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,18 +93,18 @@
             <pubDate>Sat, 24 Jul 2021 14:09:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI vaccine certificate app launches after interim scheme 'pressure']]></title>
-            <description><![CDATA[The CovidCertNI app is now live as interim vaccine certification system users describe "a shambles".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57946702</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57946702</guid>
-            <pubDate>Fri, 23 Jul 2021 20:44:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Water deaths: Public warned of 'hidden dangers' in lakes and rivers]]></title>
             <description><![CDATA[RNLI says rivers, lakes and reservoirs have "hidden obstacles" that can trap.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57942446</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57942446</guid>
             <pubDate>Sat, 24 Jul 2021 05:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI vaccine certificate app launches after interim scheme 'pressure']]></title>
+            <description><![CDATA[The CovidCertNI app is now live as interim vaccine certification system users describe "a shambles".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57946702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57946702</guid>
+            <pubDate>Fri, 23 Jul 2021 20:44:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Children with special educational needs 'forgotten' during pandemic]]></title>
@@ -140,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57867718</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57867718</guid>
             <pubDate>Fri, 16 Jul 2021 20:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interim Covid vaccine certificates to be launched for NI travellers]]></title>
-            <description><![CDATA[Anyone travelling from Northern Ireland after the 25 July should wait to use a new app.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57868779</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57868779</guid>
-            <pubDate>Fri, 16 Jul 2021 19:48:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ballywatticock: What is the origin of NI weather station names?]]></title>
