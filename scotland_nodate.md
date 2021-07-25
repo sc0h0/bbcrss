@@ -33,3 +33,4 @@
 33. [Welcome to the care home 'Olympics'](https://www.bbc.co.uk/news/uk-scotland-57936247) - Fifteen Scottish care homes compete in sports inspired by the Tokyo Olympic Games.
 34. [Kirsty Gilmour: Badminton player picks dream dinner party](https://www.bbc.co.uk/sport/scotland/52175172) - BBC Scotland asked badminton player Kirsty Gilmour to pick the four celebrities she would invite round for dinner.
 35. [World Matchplay 2021: Peter Wright beats Michael van Gerwen to reach final](https://www.bbc.co.uk/sport/darts/57958439) - Peter Wright beats Michael van Gerwen to join Dimitri van den Bergh in the final of the World Matchplay in Blackpool.
+36. [Cameron Norrie wins Los Cabos Open final for first ATP title](https://www.bbc.co.uk/sport/tennis/57955749) - Britain's Cameron Norrie claims his first ATP singles title with a 6-2 6-2 victory over Brandon Nakashima in the final of the Los Cabos Open in Mexico.
