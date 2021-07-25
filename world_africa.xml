@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 09:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 10:13:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Sun, 25 Jul 2021 05:34:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ethiopia's Tigray crisis: What's stopping aid getting in?]]></title>
-            <description><![CDATA[A renewed surge in fighting has made it ever more difficult for aid to reach areas in desperate need.]]></description>
-            <link>https://www.bbc.co.uk/news/57929853</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57929853</guid>
-            <pubDate>Fri, 23 Jul 2021 23:30:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DRC volcano: Reuniting children with families after the eruption]]></title>
             <description><![CDATA[Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57947193</link>
@@ -63,6 +56,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/57955588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57955588</guid>
             <pubDate>Sat, 24 Jul 2021 18:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia's Tigray crisis: What's stopping aid getting in?]]></title>
+            <description><![CDATA[A renewed surge in fighting has made it ever more difficult for aid to reach areas in desperate need.]]></description>
+            <link>https://www.bbc.co.uk/news/57929853</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/57929853</guid>
+            <pubDate>Fri, 23 Jul 2021 23:30:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ethiopia Tigray crisis: New front opens as aid fears grow]]></title>
@@ -91,27 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-57860993</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57860993</guid>
             <pubDate>Sun, 18 Jul 2021 23:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa Zuma riots: What's behind the violence and looting?]]></title>
-            <description><![CDATA[Some analysts say the violence wasn't spontaneous anger but a deliberate strategy of sabotage.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57860998</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57860998</guid>
-            <pubDate>Fri, 16 Jul 2021 23:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethiopia's Tigray crisis: Fleeing for fear of new ethnic conflict]]></title>
-            <description><![CDATA["War is inevitable - it is ethnic cleansing," says an Ethiopian doctor who has escaped to Sudan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57818673</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57818673</guid>
-            <pubDate>Thu, 15 Jul 2021 23:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa Zuma riots: Fact-checking claims about the protests]]></title>
-            <description><![CDATA[We've looked at some examples of misleading images and videos, claiming to be from the current protests.]]></description>
-            <link>https://www.bbc.co.uk/news/57834755</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57834755</guid>
-            <pubDate>Thu, 15 Jul 2021 23:33:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Halima Aden and Tommy Hilfiger: ‘It’s not just about diverse catwalks’]]></title>
