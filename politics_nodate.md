@@ -1,4 +1,4 @@
-1. [Javid apologises for 'cower' Covid remark](https://www.bbc.co.uk/news/uk-57961870) - The health secretary says he used a poor choice of word in a tweet, after criticism from victims' group.
+1. [Sajid Javid apologises for 'cower' Covid remark](https://www.bbc.co.uk/news/uk-57961870) - The health secretary says he used a poor choice of word in a tweet, after criticism from victims' group.
 2. [Greensill: Lady Heywood's anger at 'scapegoating' of late husband by inquiry](https://www.bbc.co.uk/news/uk-politics-57933130) - Lady Heywood calls a report on the Greensill lobbying scandal a "fabricated attack" on her late husband.
 3. [Climate change, a coalmine and a town that needs jobs](https://www.bbc.co.uk/news/uk-politics-57927389) - In Cumbria, environmental concerns come into conflict with economic hopes.
 4. [Government rules out searching Matt Hancock's private emails](https://www.bbc.co.uk/news/uk-politics-57930820) - Matt Hancock was among four ministers who used their personal email accounts for official business.
