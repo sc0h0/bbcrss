@@ -3,7 +3,7 @@
 3. [Daily tests not self-isolation for police, fire, borders, transport and freight staff](https://www.bbc.co.uk/news/uk-57950930) - Police, fire, borders and transport staff are now eligible in England, with 200 new test centres promised.
 4. [Covid: The holidaymakers having to self-isolate abroad](https://www.bbc.co.uk/news/business-57946480) - Some holidaymakers who tested positive for Covid while abroad are having to stay and self-isolate.
 5. [Covid: Food exemption scheme delayed until Monday](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
-6. [Covid: New testing plan will not work, warn firms](https://www.bbc.co.uk/news/business-57945229) - Industry body, the CBI, criticises government plans that allow some key staff to bypass the NHS Covid app.
+6. [Covid: New testing plan will not work, warn firms](https://www.bbc.co.uk/news/business-57945229) - Industry body the CBI criticises government plans that allow some key staff to bypass the NHS Covid app.
 7. [Rural vacuum for getting hold of cash](https://www.bbc.co.uk/news/business-57941001) - People living in rural areas have less chance of withdrawing or depositing cash nearby, research finds.
 8. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
 9. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
