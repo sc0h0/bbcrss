@@ -1,4 +1,4 @@
-1. [Large meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
+1. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
 2. [Jeff Bezos and Sir Richard Branson not yet astronauts, US says](https://www.bbc.co.uk/news/world-us-canada-57950149) - The US government has tightened rules on which space-goers can claim their astronaut wings.
 3. [AI breakthrough could spark medical revolution](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
 4. [Road planners able to ignore climate change, campaigners claim](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.

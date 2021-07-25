@@ -1,6 +1,6 @@
 1. [Shock golds and Osaka's return at Tokyo 2020](https://www.bbc.co.uk/sport/olympics/57961046) - Austria's Anna Kiesenhofer and Tunisian teenager Ahmed Hafnaoui win surprise golds on a drama-filled second day at the Tokyo Olympics.
 2. [Australia Covid: Anti-lockdown protesters condemned](https://www.bbc.co.uk/news/world-australia-57960044) - It comes after thousands marched through Australian cities to demand an end to lockdown measures.
-3. [Large meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
+3. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
 4. [Jackie Mason, rabbi turned comedian, dies aged 93](https://www.bbc.co.uk/news/world-us-canada-57960048) - The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.
 5. [India landslide: Nine tourists killed as boulders fall from hilltop](https://www.bbc.co.uk/news/world-asia-india-57955964) - A vehicle carrying tourists from Delhi is struck by large rocks in the state of Himachal Pradesh.
 6. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
@@ -18,11 +18,11 @@
 18. [Excitement over wooden shipwreck found in Antigua's seabed](https://www.bbc.co.uk/news/world-latin-america-57878969) - Historians believe the wreck found in Antigua to be the 1762 Beaumont, a French merchant ship.
 19. [The YouTubers who blew the whistle on an anti-vax plot](https://www.bbc.co.uk/news/blogs-trending-57928647) - A mysterious marketing agency secretly offered to pay social media stars to spread disinformation about Covid-19 vaccines
 20. [DRC volcano: Reuniting children with families after the eruption](https://www.bbc.co.uk/news/world-africa-57947193) - Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.
-21. [ICYMI: World's deepest pool and a royal ritual resumes](https://www.bbc.co.uk/news/world-57950189) - Here's a round-up of the week's news you might have missed.
-22. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
-23. [1991 reforms: The year that transformed India](https://www.bbc.co.uk/news/world-asia-india-57939341) - The BBC looks back at the pivotal moment when India's economy changed forever.
-24. [US fires: Inside a US fire truck driving through a wildfire](https://www.bbc.co.uk/news/world-us-canada-57943338) - As burning ash pelts their vehicle, video shows firefighters in California drive through the flames.
-25. [Sundarbans: Why the world’s largest mangrove forest is sinking](https://www.bbc.co.uk/news/world-asia-india-57929463) - The low-lying islands are being battered by violent storms, rising sea levels, and melting ice from the Himalayas.
+21. [Rockslide destroys bridge in northern India](https://www.bbc.co.uk/news/world-asia-india-57964308) - It was one of several landslides in Himachal Pradesh on Sunday.
+22. [ICYMI: World's deepest pool and a royal ritual resumes](https://www.bbc.co.uk/news/world-57950189) - Here's a round-up of the week's news you might have missed.
+23. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
+24. [1991 reforms: The year that transformed India](https://www.bbc.co.uk/news/world-asia-india-57939341) - The BBC looks back at the pivotal moment when India's economy changed forever.
+25. [US fires: Inside a US fire truck driving through a wildfire](https://www.bbc.co.uk/news/world-us-canada-57943338) - As burning ash pelts their vehicle, video shows firefighters in California drive through the flames.
 26. [Golds, shock exits and heat on day one](https://www.bbc.co.uk/sport/olympics/57952239) - There were early gold medals for China, Iran and South Korea on a sweltering opening day of the Tokyo Olympic Games.
 27. [Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes](https://www.bbc.co.uk/sport/olympics/57778808) - Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.
 28. [Tokyo Olympics: Is the USA 'Dream Team' era coming to an end?](https://www.bbc.co.uk/sport/olympics/57895457) - Team USA's men's and women's basketball teams have had difficult preparations for the Olympics, so could Tokyo 2020 see an end to their domination?

@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 16:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 16:53:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus infections continue to fall in UK]]></title>
+            <description><![CDATA[But any rise in cases linked to the 19 July unlocking is unlikely to show up in the daily data just yet.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57962995</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57962995</guid>
+            <pubDate>Sun, 25 Jul 2021 16:05:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Moderna jab approved for teenagers in EU]]></title>
             <description><![CDATA[Vaccination with Moderna's jab can now be extended to adolescents, the EU medicines watchdog says.]]></description>

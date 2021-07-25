@@ -11,12 +11,12 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 16:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 16:49:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Large meteor wows Norway after blazing through night sky]]></title>
+            <title><![CDATA[Meteor wows Norway after blazing through night sky]]></title>
             <description><![CDATA[The meteor is believed to have landed in a forest after flashes of light were seen across Norway.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57962384</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57962384</guid>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/57960575</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57960575</guid>
             <pubDate>Sun, 25 Jul 2021 10:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teenage motorbike rider dies after crash in Spain]]></title>
+            <description><![CDATA[Hugo Millan, a 14-year-old motorbike rider, has died after crashing at a race in Spain.]]></description>
+            <link>https://www.bbc.co.uk/sport/motorsport/57961530</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/57961530</guid>
+            <pubDate>Sun, 25 Jul 2021 15:43:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: German women's gymnastics team wears full-body suits]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57946430</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57946430</guid>
             <pubDate>Fri, 23 Jul 2021 16:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tips from the Netherlands on how to build a nation of cyclists]]></title>
-            <description><![CDATA[Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57944428</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57944428</guid>
-            <pubDate>Fri, 23 Jul 2021 23:01:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics - what to look out for]]></title>
@@ -114,6 +114,13 @@
             <pubDate>Tue, 20 Jul 2021 15:28:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tips from the Netherlands on how to build a nation of cyclists]]></title>
+            <description><![CDATA[Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57944428</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57944428</guid>
+            <pubDate>Fri, 23 Jul 2021 23:01:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Europe floods: 'I have an axe beside my bed']]></title>
             <description><![CDATA[Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57923443</link>
@@ -140,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57878577</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57878577</guid>
             <pubDate>Sun, 18 Jul 2021 07:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drone footage shows flood damage in Germany and Belgium]]></title>
-            <description><![CDATA[At least 120 people have died and hundreds more are unaccounted for in western Europe.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57869617</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57869617</guid>
-            <pubDate>Fri, 16 Jul 2021 19:27:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

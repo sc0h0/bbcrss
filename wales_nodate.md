@@ -23,7 +23,7 @@
 23. [British and Irish Lions: Lions fight back to clinch series opener](https://www.bbc.co.uk/sport/rugby-union/57955588) - The British and Irish Lions draw first blood in the Test series against world champions South Africa after fighting back from nine points down at the break.
 24. [Tokyo Olympics: 'We knew I could make the Olympics team' - Joe Brier](https://www.bbc.co.uk/sport/av/olympics/57962045) - Welsh 400m runner Joe Brier aims to make the most of his Olympics chance after being called into the GB squad.
 25. [Protestwyr ger tŷ Mark Drakeford wedi 'croesi ffin'](https://www.bbc.co.uk/newyddion/57962586) - Y cyn-brif weinidog, Carwyn Jones, yn beirniadu tactegau "eithafol" y protestwyr yng Nghaerdydd.
-26. [Isadeiledd gwael am 'niweidio' twristiaeth ac amgylchedd Cymru](https://www.bbc.co.uk/newyddion/57949107) - Trenau gorlawn, tagfeydd traffig a phroblemau parcio ymhlith yr heriau cyn ymweld ag atyniadau Cymru.
-27. [Sioc wrth i Jade Jones golli yn rownd gyntaf y taekwondo](https://www.bbc.co.uk/newyddion/57960634) - Fydd y pencampwr taekwondo ddim yn cael y cyfle i fynd am drydedd medal aur Olympaidd.
+26. [Yr actores Buddug Williams wedi marw yn 88 oed](https://www.bbc.co.uk/newyddion/57962585) - Roedd hi fwyaf adnabyddus am chwarae rhan Anti Marian am flynyddoedd ar Pobol y Cwm.
+27. [Isadeiledd gwael am 'niweidio' twristiaeth ac amgylchedd Cymru](https://www.bbc.co.uk/newyddion/57949107) - Trenau gorlawn, tagfeydd traffig a phroblemau parcio ymhlith yr heriau cyn ymweld ag atyniadau Cymru.
 28. [Seiclwr ifanc yn anelu am yr Olympics](https://www.bbc.co.uk/newyddion/57941553) - Mae Huw Buck Jones wedi ei ddewis i dîm beicio mynydd Prydain ac yn gobeithio gwneud gyrfa ohoni.
 29. [Harry Wilson yn symud o Lerpwl i Fulham am £12m](https://www.bbc.co.uk/newyddion/57960638) - Mae gan yr ymosodwr o Gorwen 29 cap dros Gymru ac roedd yn rhan o'r garfan yn Euro 2020.
