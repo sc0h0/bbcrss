@@ -6,7 +6,7 @@
 6. [Sajid Javid apologises for 'cower' Covid remark](https://www.bbc.co.uk/news/uk-57961870) - The health secretary says he used a poor choice of word in a tweet, after criticism from victims' group.
 7. [Chaos warning over jabs proof at Premier League games](https://www.bbc.co.uk/sport/football/57963468) - Making proof of full vaccination mandatory at Premier League matches could cause "chaos" at some clubs, the Football Supporters' Association has warned.
 8. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
-9. [Covid: Lockdown protest at Mark Drakeford's home 'crossed line'](https://www.bbc.co.uk/news/uk-wales-57963035) - First Minister Mark Drakeford's predecessor says the protesters are "on a different planet".
+9. [Covid: Lockdown protest at Mark Drakeford's home 'crossed line'](https://www.bbc.co.uk/news/uk-wales-57963035) - Mark Drakeford's predecessor says protesters used "a favourite tactic of the far right in America".
 10. [Government pingdemic response chaotic, say food supply firms](https://www.bbc.co.uk/news/business-57936883) - Supply firms are having to fight to keep food on supermarket shelves, an industry body warns.
 11. [Covid vaccine: Speech comparing NHS medics to Nazis condemned](https://www.bbc.co.uk/news/uk-57962675) - The Royal College of Nursing says the comments at a protest rally were "reprehensible".
 12. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.

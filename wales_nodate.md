@@ -1,4 +1,4 @@
-1. [Covid: Lockdown protest at Mark Drakeford's home 'crossed line'](https://www.bbc.co.uk/news/uk-wales-57963035) - First Minister Mark Drakeford's predecessor says the protesters are "on a different planet".
+1. [Covid: Lockdown protest at Mark Drakeford's home 'crossed line'](https://www.bbc.co.uk/news/uk-wales-57963035) - Mark Drakeford's predecessor says protesters used "a favourite tactic of the far right in America".
 2. [Wales' tourist image 'could be harmed' by overloaded infrastructure](https://www.bbc.co.uk/news/uk-wales-57898837) - Wales is walking a fine balance between encouraging visitors and overcrowding, an expert says.
 3. [Tokyo Olympics: Jade Jones 'trapped by fear' before first-round elimination](https://www.bbc.co.uk/sport/olympics/57958917) - Two-time Olympic taekwondo champion Jade Jones said she was trapped by fear in her first-round loss at the Tokyo Games.
 4. [Tomasz Waga: Two more charged with Cardiff murder](https://www.bbc.co.uk/news/uk-wales-57964092) - Josif Nushi and Mihal Dhana are the latest to be charged after being arrested in Paris.
