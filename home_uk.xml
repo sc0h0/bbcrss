@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 10:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 10:42:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Javid apologises for 'cower' Covid remark]]></title>
+            <description><![CDATA[Health Secretary Sajid Javid apologises for his poor choice of word when he said people should no longer "cower" from coronavirus,]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57961870</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57961870</guid>
+            <pubDate>Sun, 25 Jul 2021 10:35:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Chelsie Giles wins Team GB's first medal with judo bronze]]></title>
             <description><![CDATA[Judoka Chelsie Giles wins Team GB's first medal of the Tokyo Olympics with bronze in the women's -52kg event.]]></description>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/57959891</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57959891</guid>
             <pubDate>Sun, 25 Jul 2021 05:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sajid Javid criticised for 'cower' Covid remark]]></title>
-            <description><![CDATA[He is accused of insulting those who have followed the rules and causing "deep hurt" to victims' families.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57958538</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57958538</guid>
-            <pubDate>Sun, 25 Jul 2021 01:25:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Covid cost to last for 'decades' - and is UK a variant breeding ground?]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Fri, 23 Jul 2021 23:30:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Giles wins GB's first medal, Sinden fights for gold - what's happened so far on day two?]]></title>
+            <description><![CDATA[Day two of the Tokyo 2020 Olympics is under way, and Team GB's first medal has been won.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57961562</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57961562</guid>
+            <pubDate>Sun, 25 Jul 2021 10:26:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sinden going for Team GB's first Tokyo gold in taekwondo]]></title>
             <description><![CDATA[Bradly Sinden guarantees Great Britain's second medal of the Tokyo Olympics by reaching the men's -68kg taekwondo final.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57958918</link>
@@ -233,11 +240,11 @@
             <pubDate>Sun, 25 Jul 2021 09:02:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jones shock & Murray withdraws from tennis singles - day two so far]]></title>
-            <description><![CDATA[Day two of the Tokyo 2020 Olympics is under way, and there has been a shock defeat for GB taekwondo star Jade Jones.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57959157</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57959157</guid>
-            <pubDate>Sun, 25 Jul 2021 05:32:04 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Judoka Chelsie Giles wins Team GB's first medal at Tokyo 2020]]></title>
+            <description><![CDATA[Chelsie Giles becomes Great Britain's first medallist of the Tokyo Olympics, winning bronze after defeating Switzerland's Fabienne Kocher in the women's -52kg judo competition.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57961164</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57961164</guid>
+            <pubDate>Sun, 25 Jul 2021 10:28:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Bradly Sinden guarantees Team GB medal by reaching taekwondo final]]></title>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/57959827</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57959827</guid>
             <pubDate>Sun, 25 Jul 2021 09:10:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: 'Not the usual Biles' - US star struggles to find form in qualifying]]></title>
-            <description><![CDATA[Watch highlights as Simone Biles is far from perfect as the USA finish second behind the Russian Olympic Committee in gymnastics qualifying.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57961161</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57961161</guid>
-            <pubDate>Sun, 25 Jul 2021 09:53:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Anna Kiesenhofer wins shock road race gold with GB's Lizzie Deignan 11th]]></title>

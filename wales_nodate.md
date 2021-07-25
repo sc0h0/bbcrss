@@ -1,9 +1,9 @@
 1. [Wales' tourist image 'could be harmed' by overloaded infrastructure](https://www.bbc.co.uk/news/uk-wales-57898837) - Wales is walking a fine balance between encouraging visitors and overcrowding, an expert says.
 2. [Bute Park: Two charged with attempted murder after man hurt](https://www.bbc.co.uk/news/uk-wales-57952734) - Police appeal for help to identify a third suspect, an unknown woman, while a man remains in hospital.
 3. [Tokyo Olympics: Jade Jones eliminated in first round in Tokyo](https://www.bbc.co.uk/sport/olympics/57958917) - Two-time Olympic taekwondo champion Jade Jones loses her first-round match with Kimia Alizadeh at the Tokyo Games.
-4. [Female military staff denied justice by inadequate system - MPs](https://www.bbc.co.uk/news/uk-57956698) - Veterans describe a "boys' club" where sex assaults were hushed up and complaining could be career-ending.
-5. [Unesco World Heritage: Wales' slate landscape bid for honour](https://www.bbc.co.uk/news/uk-wales-57945263) - Slate from north-west Wales "roofed the 19th Century world" as it was exported around the globe.
-6. [Bryn wind farm: Calls to withdraw 250m-high turbines plan](https://www.bbc.co.uk/news/uk-wales-57944180) - Residents fear the 250m high turbines would pose risks to wildlife, property values and health.
+4. [Bryn wind farm: Calls to withdraw 250m-high turbines plan](https://www.bbc.co.uk/news/uk-wales-57944180) - Residents fear the 250m high turbines would pose risks to wildlife, property values and health.
+5. [Female military staff denied justice by inadequate system - MPs](https://www.bbc.co.uk/news/uk-57956698) - Veterans describe a "boys' club" where sex assaults were hushed up and complaining could be career-ending.
+6. [Unesco World Heritage: Wales' slate landscape bid for honour](https://www.bbc.co.uk/news/uk-wales-57945263) - Slate from north-west Wales "roofed the 19th Century world" as it was exported around the globe.
 7. [Boulders blocked ambulance from reaching boy who had stroke](https://www.bbc.co.uk/news/uk-wales-57955017) - Cain, 13, was playing with friends at a reservoir when he collapsed.
 8. [Snowdonia: Cars towed away for 'dangerous' parking](https://www.bbc.co.uk/news/uk-wales-57956288) - Authorities remove a Seat Leon and Dacia Duster for obstructing the A5.
 9. [Ovarian cancer: Terminally-ill woman fulfils truck ride dream](https://www.bbc.co.uk/news/uk-wales-57945259) - When Edna Pomery was told she may have weeks to live, she wanted to tick this off her bucket list.

@@ -1,7 +1,7 @@
 1. [Tokyo Olympics: Tunisia's Hafnaoui wins shock swimming gold](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
 2. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
 3. [Nigeria school kidnappers abduct man delivering ransom](https://www.bbc.co.uk/news/world-africa-57960544) - Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.
-4. [Typhoon In-Fa sweeps into China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - Typhoon In-Fa makes landfall in the city of Zhoushan, days after floods devastated central areas.
+4. [Typhoon sweeps into eastern China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - A major storm makes landfall in the city of Zhoushan, days after floods devastated central areas.
 5. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired tear gas during protests against Covid-19 curbs and vaccination.
 6. [Serial killer on death row Rodney Alcala dies of natural causes](https://www.bbc.co.uk/news/world-us-canada-57955961) - Infamous "Dating Game Killer" Rodney Alcala was sentenced in 2010 for murdering women in California.
 7. [R. Kelly accused of abusing teenage boy he met in McDonald's](https://www.bbc.co.uk/news/world-us-canada-57958367) - The R&B star had sexual contact with a 17-year-old he met in McDonald's, prosecutors claim.
