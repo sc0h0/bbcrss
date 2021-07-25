@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 21:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 21:39:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan curfew imposed as Taliban militants advance]]></title>
+            <description><![CDATA[The government says the measure is to help its forces stop Taliban militants infiltrating cities.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57933364</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57933364</guid>
+            <pubDate>Sun, 25 Jul 2021 21:25:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[India landslide: Nine tourists killed as boulders fall from hilltop]]></title>
             <description><![CDATA[A vehicle carrying tourists from Delhi is struck by large rocks in the state of Himachal Pradesh.]]></description>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-57955138</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57955138</guid>
             <pubDate>Sun, 25 Jul 2021 10:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan curfew imposed as Taliban militants advance]]></title>
-            <description><![CDATA[The government says the measure is to help its forces stop Taliban militants infiltrating cities.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57933364</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57933364</guid>
-            <pubDate>Sun, 25 Jul 2021 08:04:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India monsoon: Rescuers search for survivors after heavy rains]]></title>
@@ -100,11 +100,11 @@
             <pubDate>Fri, 23 Jul 2021 09:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[1991 reforms: The year that transformed India]]></title>
-            <description><![CDATA[The BBC looks back at the pivotal moment when India's economy changed forever.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57939341</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57939341</guid>
-            <pubDate>Fri, 23 Jul 2021 23:05:30 GMT</pubDate>
+            <title><![CDATA[Tokyo 2020: Travelling to an Olympic Games like no other]]></title>
+            <description><![CDATA[The BBC's Mariko Oi reflects on her personal experience of covering the Games during a global pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57913517</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57913517</guid>
+            <pubDate>Wed, 21 Jul 2021 23:10:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is the Great Barrier Reef in trouble? A simple guide]]></title>
@@ -112,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-57938858</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57938858</guid>
             <pubDate>Fri, 23 Jul 2021 11:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: Travelling to an Olympic Games like no other]]></title>
-            <description><![CDATA[The BBC's Mariko Oi reflects on her personal experience of covering the Games during a global pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57913517</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57913517</guid>
-            <pubDate>Wed, 21 Jul 2021 23:10:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Was US money used to fund risky research in China?]]></title>
