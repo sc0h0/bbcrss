@@ -5,7 +5,7 @@
 5. [Female military staff denied justice by inadequate system - MPs](https://www.bbc.co.uk/news/uk-57956698) - A landmark report says serious sexual assault and rape cases should be tried in civilian courts.
 6. [Covid-19: Covid cost to last for 'decades' - and is UK a variant breeding ground?](https://www.bbc.co.uk/news/uk-57959449) - Five things you need to know about the coronavirus pandemic this Sunday morning.
 7. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired tear gas during protests against Covid-19 curbs and vaccination.
-8. [Carrickfergus: Six people taken to hospital after funfair incident](https://www.bbc.co.uk/news/uk-northern-ireland-57957404) - Emergency services were called to the scene after a 999 call was made on Saturday evening.
+8. [Carrickfergus: Six people taken to hospital after funfair incident](https://www.bbc.co.uk/news/uk-northern-ireland-57957404) - A passenger on the ride in Carrickfergus, County Antrim, says it was a "terrifying experience".
 9. [LA man who mocked Covid-19 vaccines dies of virus](https://www.bbc.co.uk/news/world-us-canada-57958358) - Stephen Harmon, who opposed getting vaccinated, has died after a month-long struggle with the virus.
 10. [The experiences replacing closed High Street stores](https://www.bbc.co.uk/news/business-57934829) - Go-karts, bowling alleys and eateries have taken the place of closed retailers on the High Street.
 11. [British and Irish Lions: Lions fight back to clinch series opener](https://www.bbc.co.uk/sport/rugby-union/57955588) - The British and Irish Lions draw first blood in the Test series against world champions South Africa after fighting back from nine points down at the break.

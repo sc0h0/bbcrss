@@ -1,4 +1,4 @@
-1. [Six people taken to hospital after Carrickfergus funfair ride incident](https://www.bbc.co.uk/news/uk-northern-ireland-57957404) - Emergency services were called to the scene after a 999 call was made on Saturday evening.
+1. [Six people taken to hospital after Carrickfergus funfair ride incident](https://www.bbc.co.uk/news/uk-northern-ireland-57957404) - A passenger on the ride in Carrickfergus, County Antrim, says it was a "terrifying experience".
 2. [M2 Belfast: Fire service puts out bus blaze on motorway](https://www.bbc.co.uk/news/uk-northern-ireland-57955150) - The bus driver noticed smoke at the rear of the vehicle before the blaze took hold.
 3. [From lockdown animations to Snoop Dogg music video](https://www.bbc.co.uk/news/uk-northern-ireland-57916539) - After his homemade animations went viral, Snoop Dogg asked Peter Quinn to direct his new video.
 4. [New exhibition explores life along Derry-Donegal border](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-57885075) - The production, entitled Borderlands, will feature interviews from 22 people living in border areas.
