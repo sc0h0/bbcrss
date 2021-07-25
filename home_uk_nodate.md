@@ -8,7 +8,7 @@
 8. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
 9. [Covid: Lockdown protest at Mark Drakeford's home 'crossed line'](https://www.bbc.co.uk/news/uk-wales-57963035) - First Minister Mark Drakeford's predecessor says the protesters are "on a different planet".
 10. [Government pingdemic response chaotic, say food supply firms](https://www.bbc.co.uk/news/business-57936883) - Supply firms are having to fight to keep food on supermarket shelves, an industry body warns.
-11. [Jackie Mason, rabbi turned comedian, dies aged 93](https://www.bbc.co.uk/news/world-us-canada-57960048) - The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.
+11. [Covid vaccine: Speech comparing NHS medics to Nazis condemned](https://www.bbc.co.uk/news/uk-57962675) - The Royal College of Nursing says the comments at a protest rally were "reprehensible".
 12. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
 13. [Hugo Millan: Spaniard, 14, dies after crash at MotorLand Aragon](https://www.bbc.co.uk/sport/motorsport/57961530) - Hugo Millan, a 14-year-old motorbike rider, has died after crashing at a race in Spain.
 14. [Tokyo Olympics: The youngest athletes, past and present](https://www.bbc.co.uk/news/world-57945947) - GB skateboarder Sky Brown is 13 years old, but there have been even younger in the history of the Games.
