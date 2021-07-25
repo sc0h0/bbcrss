@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 10:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 11:11:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -254,6 +254,13 @@
             <pubDate>Sat, 24 Jul 2021 11:10:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Adam Peaty breezes into 100m breaststroke final]]></title>
+            <description><![CDATA[Adam Peaty remains on course to become the first British swimmer to retain an Olympic title as he breezed into the 100m breaststroke final.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57958760</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57958760</guid>
+            <pubDate>Sun, 25 Jul 2021 03:47:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[British and Irish Lions: Lions fight back to clinch series opener]]></title>
             <description><![CDATA[The British and Irish Lions draw first blood in the Test series against world champions South Africa after fighting back from nine points down at the break.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57955588</link>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/57955128</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57955128</guid>
             <pubDate>Sat, 24 Jul 2021 17:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T20 debut on Sunday, Hundred matchwinner on Friday - Benjamin stars in thrilling Phoenix win]]></title>
-            <description><![CDATA[Unknown 22-year-old Chris Benjamin leads Birmingham Phoenix to a stunning last-gasp victory over London Spirit in the men's Hundred.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57949800</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57949800</guid>
-            <pubDate>Fri, 23 Jul 2021 21:19:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
