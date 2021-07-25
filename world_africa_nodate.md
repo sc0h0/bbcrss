@@ -1,4 +1,4 @@
-1. [Tunisia's Hafnaoui wins shock swimming gold](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
+1. [Tunisia's Hafnaoui wins Africa's first gold medal](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
 2. [Nigeria's hipster herders - the funky Fulanis](https://www.bbc.co.uk/news/world-africa-57929704) - Fulani herders are usually found in forests herding cattle but when they go to cities, they dress in style.
 3. [Ethiopia's Tigray crisis: What's stopping aid getting in?](https://www.bbc.co.uk/news/57929853) - A renewed surge in fighting has made it ever more difficult for aid to reach areas in desperate need.
 4. [DRC volcano: Reuniting children with families after the eruption](https://www.bbc.co.uk/news/world-africa-57947193) - Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 07:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 07:27:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,11 +177,18 @@
             <pubDate>Sat, 24 Jul 2021 21:54:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Isadeiledd gwael am 'niweidio' twristiaeth a'r amgylchedd]]></title>
+            <title><![CDATA[Isadeiledd gwael am 'niweidio' twristiaeth ac amgylchedd Cymru]]></title>
             <description><![CDATA[Trenau gorlawn, tagfeydd traffig a phroblemau parcio ymhlith yr heriau cyn ymweld ag atyniadau Cymru.]]></description>
             <link>https://www.bbc.co.uk/newyddion/57949107</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57949107</guid>
             <pubDate>Sun, 25 Jul 2021 07:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disgwyl clywed am gais Treftadaeth Byd ardal lechi Gwynedd]]></title>
+            <description><![CDATA[Mae disgwyl i UNESCO benderfynu ar statws cais ardaloedd llechi Gwynedd yr wythnos hon.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57950205</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57950205</guid>
+            <pubDate>Sun, 25 Jul 2021 07:18:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Symud mwy o geir wedi eu parcio'n anghyfreithlon yn Eryri]]></title>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/newyddion/57955664</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57955664</guid>
             <pubDate>Sat, 24 Jul 2021 18:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: Dynion Tân Cymreig yn ennill ond merched yn colli]]></title>
-            <description><![CDATA[Dynion Tân Cymreig yn ennill eu gêm gyntaf yn y gystadleuaeth newydd, ond y merched yn colli.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57955665</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57955665</guid>
-            <pubDate>Sat, 24 Jul 2021 20:35:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
