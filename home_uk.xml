@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 03:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 03:39:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-57958178</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57958178</guid>
             <pubDate>Sat, 24 Jul 2021 23:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andy Murray withdraws from Olympics singles]]></title>
+            <description><![CDATA[Andy Murray withdraws from the men's singles at the Tokyo Olympics with a minor thigh strain.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57958708</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57958708</guid>
+            <pubDate>Sun, 25 Jul 2021 03:30:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sajid Javid criticised for 'cower' Covid remark]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-57957823</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57957823</guid>
             <pubDate>Sat, 24 Jul 2021 19:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Esther Dingley: Partner informed of 'remains' find in Pyrenees]]></title>
-            <description><![CDATA[Esther Dingley disappeared on a solo walk near the France-Spain border in November.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-57954180</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-57954180</guid>
-            <pubDate>Sat, 24 Jul 2021 11:06:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Serial killer on death row Rodney Alcala dies of natural causes]]></title>
@@ -233,11 +233,11 @@
             <pubDate>Fri, 23 Jul 2021 23:30:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Defending champion Murray withdraws from Olympics singles]]></title>
-            <description><![CDATA[Andy Murray withdraws from the men's singles at the Tokyo Olympics with a minor thigh strain.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57958708</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57958708</guid>
-            <pubDate>Sun, 25 Jul 2021 03:20:32 GMT</pubDate>
+            <title><![CDATA[Double Olympic champion Jones suffers first-round defeat]]></title>
+            <description><![CDATA[Two-time Olympic taekwondo champion Jade Jones loses her first-round match with Kimia Alizadeh at the Tokyo Games.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57958917</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57958917</guid>
+            <pubDate>Sun, 25 Jul 2021 03:37:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GB begin Olympic hockey title defence with Germany loss]]></title>
@@ -254,25 +254,11 @@
             <pubDate>Sat, 24 Jul 2021 21:54:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Welsh Fire hold on to beat Superchargers in last-over thriller]]></title>
-            <description><![CDATA[Welsh Fire win a high-scoring, see-sawing match against Northern Superchargers in the men's Hundred at Headingley.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57955648</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57955648</guid>
-            <pubDate>Sat, 24 Jul 2021 20:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joe Joyce: British heavyweight moves a step closer to world title shot after stopping Carlos Takam]]></title>
-            <description><![CDATA[British heavyweight Joe Joyce stops Carlos Takam at Wembley Arena to move a step closer to a world title shot.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/57958529</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/57958529</guid>
-            <pubDate>Sat, 24 Jul 2021 23:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brilliant Rodrigues innings leads Superchargers to victory over Welsh Fire in women's Hundred]]></title>
-            <description><![CDATA[Jemimah Rodrigues plays the innings of The Hundred to almost single-handedly take Northern Superchargers to victory over Welsh Fire.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57955128</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57955128</guid>
-            <pubDate>Sat, 24 Jul 2021 17:01:17 GMT</pubDate>
+            <title><![CDATA[DeChambeau out of Olympics after positive Covid-19 test]]></title>
+            <description><![CDATA[US golfer Bryson DeChambeau is out of the Tokyo 2020 Olympics after testing positive for Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57959149</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57959149</guid>
+            <pubDate>Sun, 25 Jul 2021 03:25:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Hundred: Watch the best of Saturday's action]]></title>
@@ -280,6 +266,20 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/57957695</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57957695</guid>
             <pubDate>Sat, 24 Jul 2021 21:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Vivianne Miedema, Rose Lavelle and Dominique Janssen feature in best goals]]></title>
+            <description><![CDATA[Watch the best strikes from Vivianne Miedema, Dominique Janssen and Rose Lavelle in our round-up of the best goals from the second round of women's games at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57956661</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57956661</guid>
+            <pubDate>Sat, 24 Jul 2021 15:48:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Brilliant scenes as China's Sun Yiwen win's fencing gold in overtime]]></title>
+            <description><![CDATA[China's Sun Yiwen beat five-time Olympian Ana Maria Popescu of Romania 11-10 in overtime to win gold in the women's epee fencing final.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57957298</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57957298</guid>
+            <pubDate>Sat, 24 Jul 2021 15:49:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Adam Peaty reaches 100m breaststroke semi-final for GB]]></title>
