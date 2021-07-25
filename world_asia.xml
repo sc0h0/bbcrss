@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 04:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 04:50:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Australia's Barty stunned in Olympics first round]]></title>
+            <description><![CDATA[World number one Ashleigh Barty is stunned by Sara Sorribes Tormo of Spain in the first round of women's Olympics singles in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57959225</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57959225</guid>
+            <pubDate>Sun, 25 Jul 2021 04:26:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Typhoon In-Fa sweeps towards China after flooding chaos]]></title>
             <description><![CDATA[Typhoon In-Fa is expected to make landfall on Sunday, days after floods devastated central areas.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Sat, 24 Jul 2021 06:15:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[China imposes sanctions on US officials]]></title>
-            <description><![CDATA[The sanctions are in response to recent US sanctions on Chinese officials in Hong Kong.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57950720</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57950720</guid>
-            <pubDate>Fri, 23 Jul 2021 22:55:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Baby orca, Toa, dies in New Zealand after failed search for mother]]></title>
             <description><![CDATA[Toa, a killer whale stranded from his family, had washed ashore on the New Zealand coast.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-57950919</link>
@@ -72,6 +72,13 @@
             <pubDate>Fri, 23 Jul 2021 16:02:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[China imposes sanctions on US officials]]></title>
+            <description><![CDATA[The sanctions are in response to recent US sanctions on Chinese officials in Hong Kong.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-57950720</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57950720</guid>
+            <pubDate>Fri, 23 Jul 2021 22:55:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China floods: Henan mother dies after saving baby from mudslide]]></title>
             <description><![CDATA[Rescuers believe she had flung her daughter to safety just as their home in Henan was hit.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57897474</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-57938858</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57938858</guid>
             <pubDate>Fri, 23 Jul 2021 11:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firm fined £2.6m for claiming clothes prevent Covid]]></title>
-            <description><![CDATA[Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57940657</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57940657</guid>
-            <pubDate>Fri, 23 Jul 2021 09:39:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Travelling to an Olympic Games like no other]]></title>
