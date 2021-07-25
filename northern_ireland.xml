@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 22:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 23:01:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Sat, 24 Jul 2021 23:09:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Two more deaths and 1,264 new cases in NI]]></title>
-            <description><![CDATA[A further two people have died within 28 days of testing positive for Covid-19 in Northern Ireland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57962488</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57962488</guid>
-            <pubDate>Sun, 25 Jul 2021 15:38:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lisnaskea: Firefighters battle fires in Fermanagh forest and on Divis Mountain]]></title>
             <description><![CDATA[The NI Fire and Rescue Service urges people to keep roads clear for emergency vehicles.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57964348</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57964348</guid>
             <pubDate>Sun, 25 Jul 2021 22:44:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Two more deaths and 1,264 new cases in NI]]></title>
+            <description><![CDATA[A further two people have died within 28 days of testing positive for Covid-19 in Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57962488</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57962488</guid>
+            <pubDate>Sun, 25 Jul 2021 15:38:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New exhibition explores life along Derry-Donegal border]]></title>
