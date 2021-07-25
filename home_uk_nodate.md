@@ -1,8 +1,8 @@
 1. [Taxpayers to bear Covid cost for decades to come, say MPs](https://www.bbc.co.uk/news/uk-57958178) - UK national debt has increased to more than £2.2 trillion during the pandemic, almost 100% of GDP.
-2. [Jones shock & Murray withdraws from tennis singles - day two so far ](https://www.bbc.co.uk/sport/olympics/57959157) - Day two of the Tokyo 2020 Olympics is under way, and there has been a shock defeat for GB taekwondo star Jade Jones.
+2. [Jones defeat & Murray withdraws from tennis singles - day two so far ](https://www.bbc.co.uk/sport/olympics/57959157) - Day two of the Tokyo 2020 Olympics is under way, and there has been a shock defeat for GB taekwondo star Jade Jones.
 3. [Sajid Javid criticised for 'cower' Covid remark](https://www.bbc.co.uk/news/uk-57958538) - Opposition MPs and a victims' group founder criticise the health secretary's "insensitive comments".
-4. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired teargas during protests against Covid-19 curbs and vaccination.
-5. [Covid-19: Covid cost to last for 'decades' - and is UK a variant breeding ground?](https://www.bbc.co.uk/news/uk-57959449) - Five things you need to know about the coronavirus pandemic this Sunday morning.
+4. [Covid-19: Covid cost to last for 'decades' - and is UK a variant breeding ground?](https://www.bbc.co.uk/news/uk-57959449) - Five things you need to know about the coronavirus pandemic this Sunday morning.
+5. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired teargas during protests against Covid-19 curbs and vaccination.
 6. [The experiences replacing closed High Street stores](https://www.bbc.co.uk/news/business-57934829) - Go-karts, bowling alleys and eateries have taken the place of closed retailers on the High Street.
 7. [LA man who mocked Covid-19 vaccines dies of virus](https://www.bbc.co.uk/news/world-us-canada-57958358) - Stephen Harmon, who opposed getting vaccinated, has died after a month-long struggle with the virus.
 8. [Six people taken to hospital after funfair incident](https://www.bbc.co.uk/news/uk-northern-ireland-57957404) - Emergency services were called to the scene after a 999 call was made on Saturday evening.

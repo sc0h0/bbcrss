@@ -1,7 +1,7 @@
 1. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
 2. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired teargas during protests against Covid-19 curbs and vaccination.
-3. [Budapest Pride stands up for LGBT rights in Hungary](https://www.bbc.co.uk/news/world-europe-57957348) - Organisers accuse Hungary's right-wing government of seeking to discriminate against gay people.
-4. [Typhoon In-Fa sweeps into China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - Typhoon In-Fa makes landfall in the city of Zhoushan, days after floods devastated central areas.
+3. [Typhoon In-Fa sweeps into China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - Typhoon In-Fa makes landfall in the city of Zhoushan, days after floods devastated central areas.
+4. [Budapest Pride stands up for LGBT rights in Hungary](https://www.bbc.co.uk/news/world-europe-57957348) - Organisers accuse Hungary's right-wing government of seeking to discriminate against gay people.
 5. [Serial killer on death row Rodney Alcala dies of natural causes](https://www.bbc.co.uk/news/world-us-canada-57955961) - Infamous "Dating Game Killer" Rodney Alcala was sentenced in 2010 for murdering women in California.
 6. [R. Kelly accused of abusing teenage boy he met in McDonald's](https://www.bbc.co.uk/news/world-us-canada-57958367) - The R&B star had sexual contact with a 17-year-old he met in McDonald's, prosecutors claim.
 7. [LA man who mocked Covid-19 vaccines dies of virus](https://www.bbc.co.uk/news/world-us-canada-57958358) - Stephen Harmon, who opposed getting vaccinated, has died after a month-long struggle with the virus.
