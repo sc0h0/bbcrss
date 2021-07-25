@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 09:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 09:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -52,7 +52,7 @@
         </item>
         <item>
             <title><![CDATA[Female military staff denied justice by inadequate system - MPs]]></title>
-            <description><![CDATA[A landmark report says serious sexual assault and rape cases should be tried in civilian courts.]]></description>
+            <description><![CDATA[Veterans describe a "boys' club" where sex assaults were hushed up and complaining could be career-ending.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57956698</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57956698</guid>
             <pubDate>Sat, 24 Jul 2021 23:14:58 GMT</pubDate>
@@ -226,8 +226,15 @@
             <pubDate>Fri, 23 Jul 2021 23:30:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Judoka Giles wins Team GB's first Tokyo medal]]></title>
+            <description><![CDATA[Judoka Chelsie Giles wins Team GB's first medal of the Tokyo Olympics with bronze in the women's -52kg event.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57960295</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57960295</guid>
+            <pubDate>Sun, 25 Jul 2021 09:43:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sinden guarantees first Team GB medal at Tokyo Olympics]]></title>
-            <description><![CDATA[Bradly Sinden guarantees Great Britain's first medal of the Tokyo Olympics by reaching the men's -68kg taekwondo final.]]></description>
+            <description><![CDATA[Bradly Sinden guarantees Great Britain's second medal of the Tokyo Olympics by reaching the men's -68kg taekwondo final.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57958918</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57958918</guid>
             <pubDate>Sun, 25 Jul 2021 09:02:17 GMT</pubDate>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/57961066</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57961066</guid>
             <pubDate>Sun, 25 Jul 2021 09:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slowest qualifier wins shock swimming gold for Tunisia]]></title>
-            <description><![CDATA[Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57959479</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57959479</guid>
-            <pubDate>Sun, 25 Jul 2021 05:34:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Anna Kiesenhofer wins shock road race gold with GB's Lizzie Deignan 11th]]></title>
