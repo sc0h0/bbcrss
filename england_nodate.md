@@ -3,7 +3,7 @@
 3. [Fatuma Kadir: Missing 11-year-old Bolton girl is found](https://www.bbc.co.uk/news/uk-england-manchester-57955421) - Fatuma Kadir, who travelled from Bolton to London, is found after police mount a nationwide search.
 4. [Chess: The 12-year-old boy taking the game by storm](https://www.bbc.co.uk/news/uk-england-london-57919082) - "Shrez" has been playing chess since he was five and wants to become world champion one day.
 5. [Man arrested after car hits group of people on Blackpool North Pier](https://www.bbc.co.uk/news/uk-england-lancashire-57957823) - The driver fled the scene but police later arrested a 30-year-old man on suspicion of attempted murder.
-6. [Nestlé Newcastle: 'You think a sweet factory will be there forever'](https://www.bbc.co.uk/news/uk-england-tyne-57840455) - Nestlé's factory in Newcastle is set to close in two years with the loss of more than 500 jobs.
+6. [Great Yarmouth: 'This town got stuck in time but now I'm loving it'](https://www.bbc.co.uk/news/uk-england-norfolk-56744949) - Great Yarmouth is turning its fortunes round with an increase in visitors and several big projects.
 7. [Esther Dingley: Partner informed of 'remains' find in Pyrenees](https://www.bbc.co.uk/news/uk-england-tyne-57954180) - Esther Dingley disappeared on a solo walk near the France-Spain border in November.
 8. [Liverpool sinkhole appears after water main bursts](https://www.bbc.co.uk/news/uk-england-merseyside-57954296) - Work to repair the 6m (20ft) hole in Liverpool is expected to take at least two weeks to complete
 9. [Parkrun: Northampton runner, 88, completes 400th event](https://www.bbc.co.uk/news/uk-england-northamptonshire-57954713) - Bob Emmerson says he now wants to get to 500 runs as he "can't give it up".
