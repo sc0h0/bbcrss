@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 05:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 06:26:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57945263</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57945263</guid>
             <pubDate>Sat, 24 Jul 2021 20:49:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: Jade Jones loses to Kimia Alizadeh in first match]]></title>
+            <description><![CDATA[Watch the final moments as two-time champion Jade Jones loses in her first match at the Tokyo Olympics to Kimia Alizadeh of the Refugee Olympic Team.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57959259</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57959259</guid>
+            <pubDate>Sun, 25 Jul 2021 03:54:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boulders blocked ambulance from reaching boy who had stroke]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57929224</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57929224</guid>
             <pubDate>Sat, 24 Jul 2021 07:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Geraint Thomas' hopes dashed in crash as Ecuador's Richard Carapaz wins road race gold]]></title>
-            <description><![CDATA[Geraint Thomas' medal hopes are dashed during fall in the men's road race as Ecuador's Richard Carapaz wins gold.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57952349</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57952349</guid>
-            <pubDate>Sat, 24 Jul 2021 12:28:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Holidays in Wales: How your staycation looked in 1971]]></title>
@@ -149,13 +149,6 @@
             <pubDate>Sun, 25 Jul 2021 04:04:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred: Welsh Fire hold on to beat Northern Superchargers in thriller]]></title>
-            <description><![CDATA[Welsh Fire win a high-scoring, see-sawing match against Northern Superchargers in the men's Hundred at Headingley.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57955648</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57955648</guid>
-            <pubDate>Sat, 24 Jul 2021 20:35:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Jones beaten in taekwondo, Murray withdraws from tennis singles]]></title>
             <description><![CDATA[Day two of the Tokyo 2020 Olympics is under way, and there has been a shock defeat for GB taekwondo star Jade Jones.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57959157</link>
@@ -168,6 +161,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/57958700</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57958700</guid>
             <pubDate>Sun, 25 Jul 2021 05:37:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hundred: Welsh Fire hold on to beat Northern Superchargers in thriller]]></title>
+            <description><![CDATA[Welsh Fire win a high-scoring, see-sawing match against Northern Superchargers in the men's Hundred at Headingley.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57955648</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57955648</guid>
+            <pubDate>Sat, 24 Jul 2021 20:35:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[British and Irish Lions: First Test win over South Africa 'ultimate game of two halves']]></title>

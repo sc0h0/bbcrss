@@ -1,5 +1,5 @@
 1. [Australia's Barty stunned in Olympics first round](https://www.bbc.co.uk/sport/olympics/57959225) - World number one Ashleigh Barty is stunned by Sara Sorribes Tormo of Spain in the first round of women's Olympics singles in Tokyo.
-2. [Typhoon In-Fa sweeps towards China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - Typhoon In-Fa is expected to make landfall on Sunday, days after floods devastated central areas.
+2. [Typhoon In-Fa sweeps into China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - Typhoon In-Fa makes landfall in the city of Zhoushan, days after floods devastated central areas.
 3. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
 4. [India monsoon: Rescuers search for survivors after heavy rains](https://www.bbc.co.uk/news/world-asia-india-57952521) - Heavy rains have battered India's western coast, leaving dozens dead and prompting mass evacuations.
 5. [Tokyo Olympics: First gold of Games goes to China's Yang Qian in shooting](https://www.bbc.co.uk/sport/olympics/57952436) - Chinese shooter Yang Qian wins the first gold of the Olympics but has to sing her anthem behind a mask and hang her own medal round her neck.
