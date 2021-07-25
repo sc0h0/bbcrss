@@ -8,7 +8,7 @@
 8. [Female military staff denied justice by inadequate system - MPs](https://www.bbc.co.uk/news/uk-57956698) - Veterans describe a "boys' club" where sex assaults were hushed up and complaining could be career-ending.
 9. [Boulders blocked ambulance from reaching boy who had stroke](https://www.bbc.co.uk/news/uk-wales-57955017) - Cain, 13, was playing with friends at a reservoir when he collapsed.
 10. [Snowdonia: Cars towed away for 'dangerous' parking](https://www.bbc.co.uk/news/uk-wales-57956288) - Authorities remove a Seat Leon and Dacia Duster for obstructing the A5.
-11. [Ovarian cancer: Terminally-ill woman fulfils truck ride dream](https://www.bbc.co.uk/news/uk-wales-57945259) - When Edna Pomery was told she may have weeks to live, she wanted to tick this off her bucket list.
+11. [Ovarian cancer: Terminally-ill woman fulfils truck ride dream](https://www.bbc.co.uk/news/uk-wales-57945259) - When Edna Pomeroy was told she may have weeks to live, she wanted to tick this off her bucket list.
 12. [Covid: Wales' red list students could face £1,750 quarantine fee](https://www.bbc.co.uk/news/uk-wales-57929224) - The National Union of Students says it is wrong that some universities will not cover the cost.
 13. [Girl's tragic balloon accident death marked 125 years on](https://www.bbc.co.uk/news/uk-wales-57932076) - Louisa Maud Evans, 14, fell to her death in an aeronautic display, triggering a change in the law.
 14. [Tokyo Olympics: 'I put too much pressure on myself' - Jade Jones on shock taekwondo exit](https://www.bbc.co.uk/sport/av/olympics/57961788) - Two-time Olympic taekwondo champion Jade Jones discusses her shock defeat to Kimia Alizadeh of the Refugee Olympic Team in the first round of the women's -57kg tournament.
