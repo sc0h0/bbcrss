@@ -1,4 +1,4 @@
-1. [Man, woman and boy die in Loch Lomond incident](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57962111) - Police say they died at the scene near Ardlui after getting into difficulty in the water.
+1. [Man, woman and boy die in Loch Lomond incident](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57962111) - The deaths near Ardlui are among six water-related fatalities in Scotland over the past three days.
 2. [Tokyo Olympics: Andy Murray withdraws from men's singles with minor thigh strain](https://www.bbc.co.uk/sport/olympics/57958708) - Andy Murray withdraws from the men's singles at the Tokyo Olympics with a minor thigh strain.
 3. [Motorcyclist dies in M74 crash with car and two bikes](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57957728) - Police Scotland were called to the scene between Junctions 10 and 11 at Lesmahagow on Saturday.
 4. [Boy, 11, dies in river at Alexander Hamilton Memorial Park](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57960531) - Police Scotland said the child was pulled from the water on Saturday afternoon but died at the scene.
