@@ -1,4 +1,4 @@
-1. [Covid-19: Health trusts in appeal to off-duty staff](https://www.bbc.co.uk/news/uk-northern-ireland-57964603) - The Belfast and South Eastern trusts ask staff to come to work on Sunday evening due to system pressure.
+1. [Covid-19: Health trusts in appeal to off-duty staff](https://www.bbc.co.uk/news/uk-northern-ireland-57964603) - Health officials say surgeries may be cancelled due to "extreme strain" from rising Covid admissions.
 2. [Carrickfergus funfair ride incident caused by teens, organisers say](https://www.bbc.co.uk/news/uk-northern-ireland-57960383) - Planet Fun says injuries were caused in County Antrim on Saturday because of "misuse of equipment".
 3. [North coast dolphins and a Rathlin shark](https://www.bbc.co.uk/news/uk-northern-ireland-57962485) - Dolphins swimming near the beach and a thresher shark leaping from the sea are caught on camera.
 4. [Coronavirus: More than one million people in NI have two Covid jabs](https://www.bbc.co.uk/news/uk-northern-ireland-57963666) - About 70% of NI adults have had two doses but just 56% of under 30s have come forward, officials say.
