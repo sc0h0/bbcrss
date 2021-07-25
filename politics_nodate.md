@@ -1,4 +1,4 @@
-1. [Sajid Javid criticised for 'cower' Covid remark](https://www.bbc.co.uk/news/uk-57958538) - Opposition MPs and a victims' group founder criticise the health secretary's "insensitive comments".
+1. [Sajid Javid criticised for 'cower' Covid remark](https://www.bbc.co.uk/news/uk-57958538) - He is accused of insulting those who have followed the rules and causing "deep hurt" to victims' families.
 2. [Greensill: Lady Heywood's anger at 'scapegoating' of late husband by inquiry](https://www.bbc.co.uk/news/uk-politics-57933130) - Lady Heywood calls a report on the Greensill lobbying scandal a "fabricated attack" on her late husband.
 3. [Climate change, a coalmine and a town that needs jobs](https://www.bbc.co.uk/news/uk-politics-57927389) - In Cumbria, environmental concerns come into conflict with economic hopes.
 4. [Government rules out searching Matt Hancock's private emails](https://www.bbc.co.uk/news/uk-politics-57930820) - Matt Hancock was among four ministers who used their personal email accounts for official business.
