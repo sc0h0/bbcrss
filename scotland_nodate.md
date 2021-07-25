@@ -1,5 +1,5 @@
 1. [Man, woman and boy die in Loch Lomond incident](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57962111) - The deaths near Ardlui are among six water-related fatalities in Scotland over the past three days.
-2. [Scottish climber Rick Allen feared dead in K2 avalanche](https://www.bbc.co.uk/news/uk-scotland-57964217) - The 68-year-old was attempting a new route on the world's second highest mountain.
+2. [Scottish climber Rick Allen dies in K2 avalanche](https://www.bbc.co.uk/news/uk-scotland-57964217) - The 68-year-old was attempting a new route on the world's second highest mountain.
 3. [Covid in Scotland: Where are the latest cases?](https://www.bbc.co.uk/news/uk-scotland-53511877) - A daily update on the number and location of coronavirus cases in Scotland.
 4. [Tokyo Olympics: Andy Murray withdraws from men's singles with minor thigh strain](https://www.bbc.co.uk/sport/olympics/57958708) - Andy Murray withdraws from the men's singles at the Tokyo Olympics with a minor thigh strain.
 5. [Motorcyclist dies in M74 crash with car and two bikes](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57957728) - Police Scotland were called to the scene between Junctions 10 and 11 at Lesmahagow on Saturday.

@@ -1,5 +1,5 @@
 1. [India landslide: Nine tourists killed as boulders fall from hilltop](https://www.bbc.co.uk/news/world-asia-india-57955964) - A vehicle carrying tourists from Delhi is struck by large rocks in the state of Himachal Pradesh.
-2. [Scottish climber Rick Allen feared dead in K2 avalanche](https://www.bbc.co.uk/news/uk-scotland-57964217) - The 68-year-old was attempting a new route on the world's second highest mountain.
+2. [Scottish climber Rick Allen dies in K2 avalanche](https://www.bbc.co.uk/news/uk-scotland-57964217) - The 68-year-old was attempting a new route on the world's second highest mountain.
 3. [Australia Covid: Anti-lockdown protesters condemned](https://www.bbc.co.uk/news/world-australia-57960044) - It comes after thousands marched through Australian cities to demand an end to lockdown measures.
 4. [Australia's Barty stunned in Olympics first round](https://www.bbc.co.uk/sport/olympics/57959225) - World number one Ashleigh Barty is stunned by Sara Sorribes Tormo of Spain in the first round of women's Olympics singles in Tokyo.
 5. [Typhoon sweeps into eastern China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - A major storm makes landfall in the city of Zhoushan, days after floods devastated central areas.
