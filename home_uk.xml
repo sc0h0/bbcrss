@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 23:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 23:29:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -254,13 +254,6 @@
             <pubDate>Sun, 25 Jul 2021 19:41:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GB's Sinden wins silver after Giles takes bronze - Olympics round-up]]></title>
-            <description><![CDATA[Day two of the Tokyo 2020 Olympics brings Team GB's first medals with taekwondo silver for Bradly Sinden and Chelsie Giles winning judo bronze.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57962633</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57962633</guid>
-            <pubDate>Sun, 25 Jul 2021 13:34:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[France end USA's 25-game basketball winning streak]]></title>
             <description><![CDATA[The USA's men's basketball team see their 25-game winning streak at the Olympics ended as they are stunned 83-76 by France in their Tokyo opener.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57963416</link>
@@ -289,11 +282,18 @@
             <pubDate>Sun, 25 Jul 2021 13:41:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Judoka Chelsie Giles wins Team GB's first medal at Tokyo 2020]]></title>
-            <description><![CDATA[Chelsie Giles becomes Great Britain's first medallist of the Tokyo Olympics, winning bronze after defeating Switzerland's Fabienne Kocher in the women's -52kg judo competition.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57961164</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57961164</guid>
-            <pubDate>Sun, 25 Jul 2021 10:28:02 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: France beat USA 83-76 to end unbeaten run]]></title>
+            <description><![CDATA[Watch the best plays as France stun USA in their opening game by 83-76 after the reigning champions endured their first Olympics defeat in 25 games.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57964377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57964377</guid>
+            <pubDate>Sun, 25 Jul 2021 16:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hundred: Matt Parkinson & Issy Wong in best of Sunday's action]]></title>
+            <description><![CDATA[Watch the best moments from Sunday's Hundred matches as London Spirit host Oval Invincibles and Manchester Originals take on Birmingham Phoenix.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/57964492</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57964492</guid>
+            <pubDate>Sun, 25 Jul 2021 20:22:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Bradly Sinden takes silver for Great Britain after defeat in taekwondo final]]></title>
