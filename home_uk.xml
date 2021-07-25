@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 15:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 16:21:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Sun, 25 Jul 2021 13:34:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coronavirus infections continue to fall in UK]]></title>
+            <description><![CDATA[But any rise in cases linked to the 19 July unlocking is unlikely to show up in the daily data just yet.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57962995</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57962995</guid>
+            <pubDate>Sun, 25 Jul 2021 16:05:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man, woman and boy die in Loch Lomond incident]]></title>
             <description><![CDATA[The deaths near Ardlui are among six water-related fatalities in Scotland over the past three days.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57962111</link>
@@ -37,11 +44,11 @@
             <pubDate>Sun, 25 Jul 2021 14:32:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK will be paying for Covid for decades, say MPs]]></title>
-            <description><![CDATA[They also criticised the government's spending on unusable protective kit and called for an urgent inquiry.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57958178</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57958178</guid>
-            <pubDate>Sun, 25 Jul 2021 04:45:16 GMT</pubDate>
+            <title><![CDATA[Flash floods: Parts of London under water after heavy rain]]></title>
+            <description><![CDATA[The Met Office says some areas could see 75-100mm of rain in just a few hours.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57963856</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57963856</guid>
+            <pubDate>Sun, 25 Jul 2021 16:13:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Large meteor wows Norway after blazing through night sky]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57962384</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57962384</guid>
             <pubDate>Sun, 25 Jul 2021 14:42:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Female military staff denied justice by inadequate system - MPs]]></title>
-            <description><![CDATA[Veterans describe a "boys' club" where sex assaults were hushed up and complaining could be career-ending.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57956698</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57956698</guid>
-            <pubDate>Sat, 24 Jul 2021 23:14:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wildfires spread from California to Nevada]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Sun, 25 Jul 2021 10:59:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nigeria school kidnappers abduct man delivering ransom]]></title>
-            <description><![CDATA[Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57960544</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57960544</guid>
-            <pubDate>Sun, 25 Jul 2021 13:07:56 GMT</pubDate>
+            <title><![CDATA[Covid: Lockdown protest at Mark Drakeford's home 'crossed line']]></title>
+            <description><![CDATA[First Minister Mark Drakeford's predecessor says the protesters are "on a different planet".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57963035</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57963035</guid>
+            <pubDate>Sun, 25 Jul 2021 15:50:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[East Dulwich stabbing: Man charged with murder of woman, 36]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-57925777</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57925777</guid>
             <pubDate>Sun, 25 Jul 2021 08:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hugo Millan: Spaniard, 14, dies after crash at MotorLand Aragon]]></title>
+            <description><![CDATA[Hugo Millan, a 14-year-old motorbike rider, has died after crashing at a race in Spain.]]></description>
+            <link>https://www.bbc.co.uk/sport/motorsport/57961530</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/57961530</guid>
+            <pubDate>Sun, 25 Jul 2021 15:43:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: The youngest athletes, past and present]]></title>
@@ -233,13 +240,6 @@
             <pubDate>Fri, 23 Jul 2021 23:30:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hugo Millan: Spaniard, 14, dies after crash at MotorLand Aragon]]></title>
-            <description><![CDATA[Hugo Millan, a 14-year-old motorbike rider, has died after crashing at a race in Spain.]]></description>
-            <link>https://www.bbc.co.uk/sport/motorsport/57961530</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/57961530</guid>
-            <pubDate>Sun, 25 Jul 2021 15:43:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Bradly Sinden wins taekwondo silver for GB after narrow defeat in final]]></title>
             <description><![CDATA[Great Britain's Bradly Sinden wins silver medal after losing the men's -68kg taekwondo final to Uzbekistan's Ulugbek Rashitov at the Tokyo Olympics]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57961070</link>
@@ -254,18 +254,18 @@
             <pubDate>Sun, 25 Jul 2021 10:28:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: France beat USA 83-76 to end unbeaten run]]></title>
+            <description><![CDATA[Watch the best plays as France stun USA in their opening game by 83-76 after the reigning champions endured their first Olympics defeat in 25 games.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57964377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57964377</guid>
+            <pubDate>Sun, 25 Jul 2021 16:11:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: 'I put too much pressure on myself' - Jade Jones on shock taekwondo exit]]></title>
             <description><![CDATA[Two-time Olympic taekwondo champion Jade Jones discusses her shock defeat to Kimia Alizadeh of the Refugee Olympic Team in the first round of the women's -57kg tournament.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57961788</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57961788</guid>
             <pubDate>Sun, 25 Jul 2021 11:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Liberato Cacace, Teboho Mokoena and Teji Savanier in best goals on day two]]></title>
-            <description><![CDATA[Watch the best goals from day two of the men's football competition - featuring stunning strikes from Liberato Cacace, Teboho Mokoena and Teji Savanier.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57961073</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57961073</guid>
-            <pubDate>Sun, 25 Jul 2021 15:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Bradly Sinden takes silver for Great Britain after defeat in taekwondo final]]></title>
@@ -503,7 +503,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sat, 24 Jul 2021 18:01:05 GMT</pubDate>
+            <pubDate>Sun, 25 Jul 2021 16:15:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules from 19 July: What has changed?]]></title>
