@@ -25,4 +25,4 @@
 25. [Disgwyl clywed am gais Treftadaeth Byd ardal lechi Gwynedd](https://www.bbc.co.uk/newyddion/57950205) - Sun, 25 Jul 2021 07:18:33 GMT - Mae disgwyl i UNESCO benderfynu ar statws cais ardaloedd llechi Gwynedd yr wythnos hon.
 26. [Sioc wrth i Jade Jones golli yn rownd gyntaf y taekwondo](https://www.bbc.co.uk/newyddion/57960634) - Sun, 25 Jul 2021 08:24:50 GMT - Fydd y pencampwr taekwondo ddim yn cael y cyfle i fynd am drydedd medal aur Olympaidd.
 27. [Seiclwr ifanc yn anelu am yr Olympics](https://www.bbc.co.uk/newyddion/57941553) - Sun, 25 Jul 2021 08:09:59 GMT - Mae Huw Buck Jones wedi ei ddewis i dîm beicio mynydd Prydain ac yn gobeithio gwneud gyrfa ohoni.
-28. [De Affrica 17-22 Llewod](https://www.bbc.co.uk/newyddion/57955664) - Sat, 24 Jul 2021 18:07:12 GMT - Dan Biggar yn cicio 14 pwynt wrth i'r Llewod ddod yn ôl yn yr ail hanner i drechu De Affrica.
+28. [Harry Wilson yn symud o Lerpwl i Fulham am £12m](https://www.bbc.co.uk/newyddion/57960638) - Sun, 25 Jul 2021 09:26:23 GMT - Mae gan yr ymosodwr o Gorwen 29 cap dros Gymru ac roedd yn rhan o'r garfan yn Euro 2020.

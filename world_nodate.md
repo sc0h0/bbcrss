@@ -1,4 +1,4 @@
-1. [Tunisian teenager wins shock swimming gold](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
+1. [Tokyo Olympics: Tunisia's Hafnaoui wins shock swimming gold](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
 2. [Typhoon In-Fa sweeps into China after flooding chaos](https://www.bbc.co.uk/news/world-asia-china-57955138) - Typhoon In-Fa makes landfall in the city of Zhoushan, days after floods devastated central areas.
 3. [Clashes in Paris over Covid measures](https://www.bbc.co.uk/news/world-europe-57956846) - French anti-riot police fired tear gas during protests against Covid-19 curbs and vaccination.
 4. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
