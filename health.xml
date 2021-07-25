@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 23:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 23:20:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -289,6 +289,13 @@
             <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The new surgical tool inspired by a wasp]]></title>
+            <description><![CDATA[The device avoids clogging by using friction instead of suction, similar to the way a parasitoid wasp lays its eggs.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57889149</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57889149</guid>
+            <pubDate>Sun, 25 Jul 2021 23:06:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Children Covid vaccine: Who can have the jab in the UK?]]></title>
             <description><![CDATA[Hundreds of thousands of under-18s will now be offered the jab in the UK - but not all. Here's why.]]></description>
             <link>https://www.bbc.co.uk/news/health-57892100</link>
@@ -315,13 +322,6 @@
             <link>https://www.bbc.co.uk/news/uk-57894885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894885</guid>
             <pubDate>Mon, 19 Jul 2021 18:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nadhim Zahawi: At-risk children aged 12-17 to be offered vaccine]]></title>
-            <description><![CDATA[The vaccines minister says children with health conditions will be offered the Pfizer-BioNTech vaccine]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57894636</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894636</guid>
-            <pubDate>Mon, 19 Jul 2021 16:10:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

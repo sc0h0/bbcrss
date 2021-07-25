@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jul 2021 22:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 23:21:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Sun, 25 Jul 2021 15:00:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: One athlete braved sharks and crocodiles]]></title>
+            <description><![CDATA[Training for the Olympics can be a full-time job but Jo Brigden-Jones has combined it with much more.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57938909</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57938909</guid>
+            <pubDate>Sun, 25 Jul 2021 23:04:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish climber Rick Allen dies in K2 avalanche]]></title>
             <description><![CDATA[The 68-year-old was attempting a new route on the world's second highest mountain.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57964217</link>
@@ -44,13 +51,6 @@
             <pubDate>Sun, 25 Jul 2021 10:59:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australia's Barty stunned in Olympics first round]]></title>
-            <description><![CDATA[World number one Ashleigh Barty is stunned by Sara Sorribes Tormo of Spain in the first round of women's Olympics singles in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57959225</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57959225</guid>
-            <pubDate>Sun, 25 Jul 2021 05:35:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Typhoon sweeps into eastern China after flooding chaos]]></title>
             <description><![CDATA[A major storm makes landfall in the city of Zhoushan, days after floods devastated central areas.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57955138</link>
@@ -58,11 +58,11 @@
             <pubDate>Sun, 25 Jul 2021 10:37:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India monsoon: Rescuers search for survivors after heavy rains]]></title>
-            <description><![CDATA[Heavy rains have battered India's western coast, leaving dozens dead and prompting mass evacuations.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57952521</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57952521</guid>
-            <pubDate>Sat, 24 Jul 2021 11:20:02 GMT</pubDate>
+            <title><![CDATA[Australia's Barty stunned in Olympics first round]]></title>
+            <description><![CDATA[World number one Ashleigh Barty is stunned by Sara Sorribes Tormo of Spain in the first round of women's Olympics singles in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57959225</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57959225</guid>
+            <pubDate>Sun, 25 Jul 2021 05:35:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: First gold of Games goes to China's Yang Qian in shooting]]></title>
@@ -79,25 +79,18 @@
             <pubDate>Sat, 24 Jul 2021 02:24:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[India monsoon: Rescuers search for survivors after heavy rains]]></title>
+            <description><![CDATA[Heavy rains have battered India's western coast, leaving dozens dead and prompting mass evacuations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-57952521</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57952521</guid>
+            <pubDate>Sat, 24 Jul 2021 11:20:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First Chinese presidential visit to Tibet in 30 years]]></title>
             <description><![CDATA[Xi Jinping is the first Chinese leader in 30 years to make an official trip to the troubled region.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57941893</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57941893</guid>
             <pubDate>Fri, 23 Jul 2021 16:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China imposes sanctions on US officials]]></title>
-            <description><![CDATA[The sanctions are in response to recent US sanctions on Chinese officials in Hong Kong.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57950720</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57950720</guid>
-            <pubDate>Fri, 23 Jul 2021 22:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China floods: Henan mother dies after saving baby from mudslide]]></title>
-            <description><![CDATA[Rescuers believe she had flung her daughter to safety just as their home in Henan was hit.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57897474</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57897474</guid>
-            <pubDate>Fri, 23 Jul 2021 09:29:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Travelling to an Olympic Games like no other]]></title>
