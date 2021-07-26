@@ -3,7 +3,7 @@
 3. [The new surgical tool inspired by a wasp](https://www.bbc.co.uk/news/science-environment-57889149) - The device avoids clogging by using friction instead of suction, similar to the way a parasitoid wasp lays its eggs.
 4. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
 5. [Climate change: Israel to cut 85% of emissions by mid-century](https://www.bbc.co.uk/news/world-middle-east-57965028) - PM Naftali Bennett says the decision will help the country gradually shift to a low-carbon economy.
-6. [Jeff Bezos and Sir Richard Branson not yet astronauts, US says](https://www.bbc.co.uk/news/world-us-canada-57950149) - The US government has tightened rules on which space-goers can claim their astronaut wings.
+6. [Jeff Bezos and Sir Richard Branson may not be astronauts, US says](https://www.bbc.co.uk/news/world-us-canada-57950149) - The US government has tightened rules on which space-goers can claim their astronaut wings.
 7. [AI breakthrough could spark medical revolution](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
 8. [Road planners able to ignore climate change, campaigners claim](https://www.bbc.co.uk/news/business-57935608) - Government guidelines mean road planners can effectively ignore climate change, campaigners say.
 9. [Met Office issues first UK extreme heat warning](https://www.bbc.co.uk/news/uk-57893385) - It covers south-west England and large parts of Wales as the UK experiences a prolonged hot spell.
