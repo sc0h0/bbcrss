@@ -1,6 +1,6 @@
 1. [Ministers consider blocking China's role in UK nuclear power](https://www.bbc.co.uk/news/business-57967908) - The move, amid rising tensions with Beijing, could impact the development of a plant in Suffolk.
 2. [Heathrow warns of further fall in passenger numbers](https://www.bbc.co.uk/news/business-57967907) - The airport says it could see even fewer travellers in 2021 due to testing requirements and restrictions.
-3. [Tesco Bank to close all its current accounts](https://www.bbc.co.uk/news/business-57973960) - The bank says most of the current accounts have limited activity and are not being used.
+3. [Tesco Bank to close all its current accounts](https://www.bbc.co.uk/news/business-57973960) - The bank says most of the accounts have limited activity and are not being used.
 4. [Amazon Bitcoin job ad boosts cryptocurrency surge](https://www.bbc.co.uk/news/technology-57971451) - News Amazon is hiring a digital-currency expert has helped boost the value of Bitcoin.
 5. [Marlboro maker Philip Morris could stop selling cigarettes in UK](https://www.bbc.co.uk/news/business-57964253) - Health charity Ash said it was hard to take such claims seriously from a cigarette manufacturer.
 6. [Covid: 'I earned less, but spent the same'](https://www.bbc.co.uk/news/business-57941003) - A new Couch to Financial Fitness programme aims to help people organise their finances post-pandemic.
@@ -13,8 +13,8 @@
 13. [Covid: Food exemption scheme delayed until Monday](https://www.bbc.co.uk/news/business-57937342) - Iceland warns the move will not solve the issue of staff shortages in supermarkets themselves.
 14. [Rural vacuum for getting hold of cash](https://www.bbc.co.uk/news/business-57941001) - People living in rural areas have less chance of withdrawing or depositing cash nearby, research finds.
 15. [Covid: New testing plan will not work, warn firms](https://www.bbc.co.uk/news/business-57945229) - Industry body the CBI criticises government plans that allow some key staff to bypass the NHS Covid app.
-16. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
-17. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
+16. [Firm fined £2.6m for claiming clothes prevent Covid](https://www.bbc.co.uk/news/business-57940657) - Australian activewear company Lorna Jane is branded "exploitative" and "predatory" by a judge.
+17. [Rail services face cuts as staff self-isolate](https://www.bbc.co.uk/news/business-57940660) - Operators say they may have to run fewer trains as more employees are hit by the "pingdemic".
 18. [How global conferences are using tech to stay in business](https://www.bbc.co.uk/news/business-57817807) - Moving events online kept the industry going during the pandemic and now they're here to stay.
 19. [Heatwave: The worst jobs to have when temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
 20. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
