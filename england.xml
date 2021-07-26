@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 06:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 06:34:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Mon, 26 Jul 2021 05:23:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man charged after car hits pedestrians near Blackpool pier]]></title>
+            <description><![CDATA[A 30-year-old man is charged with attempted murder after a car hit a group near a Blackpool pier.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57967317</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57967317</guid>
+            <pubDate>Mon, 26 Jul 2021 06:00:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Senior doctors in England to be consulted on NHS pay offer]]></title>
             <description><![CDATA[The BMA doctors' union says the 3% pay rise offer for NHS staff in England is "bitterly disappointing".]]></description>
             <link>https://www.bbc.co.uk/news/uk-57964780</link>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-57962679</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57962679</guid>
             <pubDate>Sun, 25 Jul 2021 23:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man charged after car hits pedestrians near Blackpool pier]]></title>
-            <description><![CDATA[A 30-year-old man is charged with attempted murder after a car hit a group near a Blackpool pier.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-57967317</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57967317</guid>
-            <pubDate>Mon, 26 Jul 2021 06:00:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Public artwork dedicated to pandemic NHS staff]]></title>
