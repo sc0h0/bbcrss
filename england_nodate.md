@@ -4,7 +4,7 @@
 4. [Nissan reveals 400 new jobs in manufacturing at Sunderland plant](https://www.bbc.co.uk/news/uk-england-tyne-57962364) - Earlier this month the Japanese carmaker said it was was investing £1bn in the site.
 5. [Man charged after car hits pedestrians near Blackpool pier](https://www.bbc.co.uk/news/uk-england-lancashire-57967317) - A 30-year-old man is charged with attempted murder after a car hit a group near a Blackpool pier.
 6. [Senior doctors in England to be consulted on NHS pay offer](https://www.bbc.co.uk/news/uk-57964780) - The BMA doctors' union says the 3% pay rise offer for NHS staff in England is "bitterly disappointing".
-7. [Migrant boats getting bigger, says Home Office](https://www.bbc.co.uk/news/uk-57966417) - Some 378 people crossed the Channel on Sunday, after record numbers made the journey last month.
+7. [Almost 600 migrant Channel crossings at weekend](https://www.bbc.co.uk/news/uk-57966417) - Home secretary says she is determined to stop journeys, after record number of attempts last month.
 8. [National Adoption Strategy: £48m to improve services in England](https://www.bbc.co.uk/news/uk-57962679) - A new National Adoption Strategy aims to enhance support to families and end a postcode lottery.
 9. [Covid-19: Public artwork dedicated to pandemic NHS staff](https://www.bbc.co.uk/news/uk-england-birmingham-57961747) - The exhibition honouring key workers visits Birmingham, Manchester, Edinburgh and London.
 10. [Government pingdemic response chaotic, say food supply firms](https://www.bbc.co.uk/news/business-57936883) - Supply firms are having to fight to keep food on supermarket shelves, an industry body warns.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 06:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 07:09:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,7 @@
             <description><![CDATA[The deaths of six people, including four children, in water related accidents makes the front pages.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57967211</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57967211</guid>
-            <pubDate>Mon, 26 Jul 2021 05:55:23 GMT</pubDate>
+            <pubDate>Mon, 26 Jul 2021 06:50:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The repair shop trying to fix throwaway culture]]></title>
@@ -233,6 +233,20 @@
             <pubDate>Thu, 22 Jul 2021 17:16:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Celtic, Rangers, St Johnstone, Motherwell, Edouard, Sakala]]></title>
+            <description><![CDATA[Brighton ready to launch bid for Celtic striker as a host of English clubs chase Rangers defender...]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57963938</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57963938</guid>
+            <pubDate>Mon, 26 Jul 2021 06:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Team GB's Duncan Scott wins 200m freestyle semi-final]]></title>
+            <description><![CDATA[Watch highlights as Team GB's Duncan Scott wins his 200m freestyle semi-final at Tokyo 2020, with Tom Dean also qualifying for the final at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57966044</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57966044</guid>
+            <pubDate>Mon, 26 Jul 2021 04:15:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celtic to host Hearts in Scottish League Cup, St Johnstone visit Arbroath]]></title>
             <description><![CDATA[Celtic will host Hearts in the second round of the Scottish League Cup while holders St Johnstone visit Arbroath.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57963929</link>
@@ -245,20 +259,6 @@
             <link>https://www.bbc.co.uk/sport/darts/57965368</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/darts/57965368</guid>
             <pubDate>Sun, 25 Jul 2021 22:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kirsty Gilmour: Badminton player picks dream dinner party]]></title>
-            <description><![CDATA[BBC Scotland asked badminton player Kirsty Gilmour to pick the four celebrities she would invite round for dinner.]]></description>
-            <link>https://www.bbc.co.uk/sport/scotland/52175172</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/scotland/52175172</guid>
-            <pubDate>Sun, 25 Jul 2021 11:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish League Cup: St Mirren & Dunfermline as Hearts make it four wins out of four]]></title>
-            <description><![CDATA[St Mirren and Dunfermline take up the final two spots in the League Cup second round after the Buddies beat Partick Thistle before Hearts defeat Inverness.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57963755</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57963755</guid>
-            <pubDate>Sun, 25 Jul 2021 18:34:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

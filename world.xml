@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 06:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 07:11:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Tunisia PM sacked after violent Covid protests]]></title>
-            <description><![CDATA[Protesters clashed with police as they demanded the government be dismissed over Covid failings.]]></description>
+            <title><![CDATA[Tunisia's PM sacked after violent Covid protests]]></title>
+            <description><![CDATA[The president says he is taking over, after a virus surge reignites economic and political unrest.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57958555</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57958555</guid>
-            <pubDate>Mon, 26 Jul 2021 02:22:32 GMT</pubDate>
+            <pubDate>Mon, 26 Jul 2021 07:10:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Zealand to allow IS-linked mother to be repatriated]]></title>
@@ -44,25 +44,18 @@
             <pubDate>Sun, 25 Jul 2021 19:56:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Israel to cut 85% of emissions by mid-century]]></title>
-            <description><![CDATA[PM Naftali Bennett says the decision will help the country gradually shift to a low-carbon economy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57965028</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57965028</guid>
-            <pubDate>Sun, 25 Jul 2021 19:17:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan curfew imposed as Taliban militants advance]]></title>
-            <description><![CDATA[The government says the measure is to help its forces stop Taliban militants infiltrating cities.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57933364</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57933364</guid>
-            <pubDate>Sun, 25 Jul 2021 21:25:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Deadly street protests over Iran water shortages]]></title>
             <description><![CDATA[Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57948717</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57948717</guid>
             <pubDate>Sun, 25 Jul 2021 23:06:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tencent shares slide after Beijing crackdown on music rights]]></title>
+            <description><![CDATA[China's market watchdog said the technology giant broke the country's anti-competition rules.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57966023</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57966023</guid>
+            <pubDate>Mon, 26 Jul 2021 04:45:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: S Korea TV sorry for using pizza to depict Italy]]></title>
@@ -72,11 +65,11 @@
             <pubDate>Mon, 26 Jul 2021 04:44:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meteor wows Norway after blazing through night sky]]></title>
-            <description><![CDATA[The meteor is believed to have landed in a forest after flashes of light were seen across Norway.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57962384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57962384</guid>
-            <pubDate>Sun, 25 Jul 2021 14:42:56 GMT</pubDate>
+            <title><![CDATA[Climate change: Israel to cut 85% of emissions by mid-century]]></title>
+            <description><![CDATA[PM Naftali Bennett says the decision will help the country gradually shift to a low-carbon economy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57965028</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57965028</guid>
+            <pubDate>Sun, 25 Jul 2021 19:17:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rockslide destroys bridge in northern India]]></title>
@@ -84,6 +77,20 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-57964308</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57964308</guid>
             <pubDate>Sun, 25 Jul 2021 16:25:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan curfew imposed as Taliban militants advance]]></title>
+            <description><![CDATA[The government says the measure is to help its forces stop Taliban militants infiltrating cities.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57933364</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57933364</guid>
+            <pubDate>Sun, 25 Jul 2021 21:25:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meteor wows Norway after blazing through night sky]]></title>
+            <description><![CDATA[The meteor is believed to have landed in a forest after flashes of light were seen across Norway.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57962384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57962384</guid>
+            <pubDate>Sun, 25 Jul 2021 14:42:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jackie Mason, rabbi turned comedian, dies aged 93]]></title>

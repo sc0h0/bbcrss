@@ -1,5 +1,5 @@
 1. [Labour proposes 'new deal for jobs' to transform UK economy](https://www.bbc.co.uk/news/uk-57962405) - Deputy leader Angela Rayner will kick off a summer campaign to "fundamentally change" the economy.
-2. [Migrant boats getting bigger, says Home Office](https://www.bbc.co.uk/news/uk-57966417) - Some 378 people crossed the Channel on Sunday, after record numbers made the journey last month.
+2. [Almost 600 migrant Channel crossings at weekend](https://www.bbc.co.uk/news/uk-57966417) - Home secretary says she is determined to stop journeys, after record number of attempts last month.
 3. [National Adoption Strategy: £48m to improve services in England](https://www.bbc.co.uk/news/uk-57962679) - A new National Adoption Strategy aims to enhance support to families and end a postcode lottery.
 4. [Senior doctors in England to be consulted on NHS pay offer](https://www.bbc.co.uk/news/uk-57964780) - The BMA doctors' union says the 3% pay rise offer for NHS staff in England is "bitterly disappointing".
 5. [Covid: Lockdown protest at Mark Drakeford's home 'crossed line'](https://www.bbc.co.uk/news/uk-wales-57963035) - Mark Drakeford's predecessor says protesters used "a favourite tactic of the far right in America".
