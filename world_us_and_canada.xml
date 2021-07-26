@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 13:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 16:06:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[White House: US to maintain Covid foreign travel restrictions]]></title>
+            <description><![CDATA[The White House says current rules will remain due to rising cases and variant transmission.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57976015</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57976015</guid>
+            <pubDate>Mon, 26 Jul 2021 16:05:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Fauci says US heading in wrong direction as cases rise]]></title>
             <description><![CDATA[President Joe Biden's top medical adviser says cases are rising in areas with low vaccination rates.]]></description>

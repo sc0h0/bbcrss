@@ -5,7 +5,7 @@
 5. [Whipps Cross Hospital patients evacuated after flooding](https://www.bbc.co.uk/news/uk-england-london-57971381) - "Major incident" at Whipps Cross Hospital as fire brigade takes 1,000 flood calls across London.
 6. [Lockdown weight gain averaging half a stone - survey](https://www.bbc.co.uk/news/health-57968651) - Four in 10 adults in England have become fatter during the pandemic, a survey suggests.
 7. [Dieter Brummer: Home and Away actor dies aged 45](https://www.bbc.co.uk/news/world-australia-57967777) - Brummer famously played Shane Parrish - Melissa George's love interest on the TV soap in the 1990s.
-8. [High Court climate bid dismissed against projects including Stonehenge tunnel](https://www.bbc.co.uk/news/uk-england-57968573) - Campaigners say the ruling is deeply worrying for "anyone hoping for urgent action on climate".
+8. [High Court bid against road schemes dismissed](https://www.bbc.co.uk/news/uk-england-57968573) - Campaigners fail to halt the £27bn project, which includes plans for a tunnel at Stonehenge.
 9. [Joey Barton denies assaulting his wife Georgia](https://www.bbc.co.uk/news/uk-england-bristol-57969765) - The Bristol Rovers manager allegedly left his wife with a head injury in an attack in Kew, London.
 10. [Ian Paterson: Plans for further breast surgeon compensation](https://www.bbc.co.uk/news/uk-england-birmingham-57967899) - A further 5,500 patients of Ian Paterson have been identified since he was jailed.
 11. [Wayne Rooney reports photos to Greater Manchester Police](https://www.bbc.co.uk/news/uk-england-manchester-57970044) - The images appear to show the ex-England footballer asleep with unknown women posing beside him.
