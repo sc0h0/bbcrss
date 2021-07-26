@@ -3,13 +3,13 @@
 3. [Bute Park attack: Two in court on attempted murder charges](https://www.bbc.co.uk/news/uk-wales-57971421) - A 54-year-old man remains in hospital after being attacked in the Cardiff park last week.
 4. [Universal basic income: Wales' trial 'should include everyone'](https://www.bbc.co.uk/news/uk-wales-57944123) - Supporters want everyone in a test area to get a fixed amount of money, regardless of income.
 5. [Politician complaints double 'largely due' to Neil McEvoy](https://www.bbc.co.uk/news/uk-wales-57948216) - Of the 216 complaints made about Welsh politicians in 2020-21, 97 were about one man.
-6. [Wales' tourist image 'could be harmed' by overloaded infrastructure](https://www.bbc.co.uk/news/uk-wales-57898837) - Wales is walking a fine balance between encouraging visitors and overcrowding, an expert says.
-7. [Football: Wales' oldest cap record broken within a week](https://www.bbc.co.uk/news/uk-wales-57964093) - A cap from 1899 is unearthed, just one week after one from 1905 was donated to a museum.
-8. [Tomasz Waga: Two more charged with Cardiff murder](https://www.bbc.co.uk/news/uk-wales-57964092) - Josif Nushi and Mihal Dhana are the latest to be charged after being arrested in Paris.
-9. [Denbigh: Man in hospital after 'serious assault'](https://www.bbc.co.uk/news/uk-wales-57960250) - The victim is being treated in hospital after being attacked near a kebab house, police say.
-10. [Female military staff denied justice by inadequate system - MPs](https://www.bbc.co.uk/news/uk-57956698) - Veterans describe a "boys' club" where sex assaults were hushed up and complaining could be career-ending.
-11. [Boulders blocked ambulance from reaching boy who had stroke](https://www.bbc.co.uk/news/uk-wales-57955017) - Cain, 13, was playing with friends at a reservoir when he collapsed.
-12. [Snowdonia: Cars towed away for 'dangerous' parking](https://www.bbc.co.uk/news/uk-wales-57956288) - Authorities remove a Seat Leon and Dacia Duster for obstructing the A5.
+6. [Catalogue of failings in cancer patient's hospital care](https://www.bbc.co.uk/news/uk-wales-57967546) - A 71-year-old woman died the day after being admitted to Prince Charles Hospital in Merthyr Tydfil.
+7. [Weather: Thunderstorm warning issued for most of Wales](https://www.bbc.co.uk/news/uk-wales-57971472) - A weather warning has been issued for thunderstorms for north, mid and parts of south-west Wales.
+8. [Football: Wales' oldest cap record broken within a week](https://www.bbc.co.uk/news/uk-wales-57964093) - A cap from 1899 is unearthed, just one week after one from 1905 was donated to a museum.
+9. [Wales' tourist image 'could be harmed' by overloaded infrastructure](https://www.bbc.co.uk/news/uk-wales-57898837) - Wales is walking a fine balance between encouraging visitors and overcrowding, an expert says.
+10. [Tomasz Waga: Two more charged with Cardiff murder](https://www.bbc.co.uk/news/uk-wales-57964092) - Josif Nushi and Mihal Dhana are the latest to be charged after being arrested in Paris.
+11. [Female military staff denied justice by inadequate system - MPs](https://www.bbc.co.uk/news/uk-57956698) - Veterans describe a "boys' club" where sex assaults were hushed up and complaining could be career-ending.
+12. [Boulders blocked ambulance from reaching boy who had stroke](https://www.bbc.co.uk/news/uk-wales-57955017) - Cain, 13, was playing with friends at a reservoir when he collapsed.
 13. [Tokyo Olympics: 'I put too much pressure on myself' - Jade Jones on shock taekwondo exit](https://www.bbc.co.uk/sport/av/olympics/57961788) - Two-time Olympic taekwondo champion Jade Jones discusses her shock defeat to Kimia Alizadeh of the Refugee Olympic Team in the first round of the women's -57kg tournament.
 14. [Bryn wind farm: Calls to withdraw 250m-high turbines plan](https://www.bbc.co.uk/news/uk-wales-57944180) - Residents fear the 250m high turbines would pose risks to wildlife, property values and health.
 15. [Holidays in Wales: How your staycation looked in 1971](https://www.bbc.co.uk/news/uk-wales-57918491) - The holiday camps are packed, the sun is shining and the phrase "staycation" is yet to be invented.
