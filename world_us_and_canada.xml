@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 16:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 19:47:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US combat forces to leave Iraq by end of year]]></title>
+            <description><![CDATA[The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57970464</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57970464</guid>
+            <pubDate>Mon, 26 Jul 2021 19:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How US military pullback in Iraq could benefit Iran]]></title>
+            <description><![CDATA[The withdrawal of remaining US combat troops could help Iran achieve its ambitions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57976007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57976007</guid>
+            <pubDate>Mon, 26 Jul 2021 19:20:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[White House: US to maintain Covid foreign travel restrictions]]></title>
             <description><![CDATA[The White House says current rules will remain due to rising cases and variant transmission.]]></description>
@@ -28,20 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57962387</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57962387</guid>
             <pubDate>Sun, 25 Jul 2021 19:56:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US accused of demonising China in high-level talks]]></title>
-            <description><![CDATA[US Deputy Secretary of State Wendy Sherman is the most senior official to visit under Mr Biden.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57966427</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57966427</guid>
-            <pubDate>Mon, 26 Jul 2021 07:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jackie Mason, rabbi turned comedian, dies aged 93]]></title>
-            <description><![CDATA[The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57960048</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57960048</guid>
-            <pubDate>Sun, 25 Jul 2021 14:25:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wildfires spread from California to Nevada]]></title>
@@ -65,46 +65,18 @@
             <pubDate>Sat, 24 Jul 2021 07:04:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jackie Mason, rabbi turned comedian, dies aged 93]]></title>
+            <description><![CDATA[The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57960048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57960048</guid>
+            <pubDate>Sun, 25 Jul 2021 14:25:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Serial killer on death row Rodney Alcala dies of natural causes]]></title>
             <description><![CDATA[Infamous "Dating Game Killer" Rodney Alcala was sentenced in 2010 for murdering women in California.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57955961</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57955961</guid>
             <pubDate>Sat, 24 Jul 2021 21:26:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LA man who mocked Covid-19 vaccines dies of virus]]></title>
-            <description><![CDATA[Stephen Harmon, who opposed getting vaccinated, has died after a month-long struggle with the virus.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57958358</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57958358</guid>
-            <pubDate>Sat, 24 Jul 2021 22:32:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[R. Kelly accused of abusing teenage boy he met in McDonald's]]></title>
-            <description><![CDATA[The R&B star had sexual contact with a 17-year-old he met in McDonald's, prosecutors claim.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57958367</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57958367</guid>
-            <pubDate>Sat, 24 Jul 2021 23:42:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Las Vegas murder case cracked with smallest ever amount of DNA]]></title>
-            <description><![CDATA[Just 15 cells' worth of DNA was used to track down the man suspected of killing a US girl in 1989.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57947785</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57947785</guid>
-            <pubDate>Fri, 23 Jul 2021 16:59:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MLB's Cleveland Indians drop controversial name]]></title>
-            <description><![CDATA[After decades of criticism from Native American groups, the Cleveland Indians have a new name.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57946842</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57946842</guid>
-            <pubDate>Fri, 23 Jul 2021 15:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angelina Jolie wins appeal to remove judge from Brad Pitt divorce case]]></title>
-            <description><![CDATA[The ruling is a victory for Angelina Jolie, who is locked in a custody battle with Brad Pitt.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57946434</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57946434</guid>
-            <pubDate>Fri, 23 Jul 2021 21:56:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gender disparities still vex Tokyo Olympic Games]]></title>
