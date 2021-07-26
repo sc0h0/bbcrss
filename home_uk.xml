@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 07:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 08:24:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,13 +65,6 @@
             <pubDate>Mon, 26 Jul 2021 05:42:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New Zealand to allow IS-linked mother to be repatriated]]></title>
-            <description><![CDATA[Permission for a mother and her children to travel was not taken lightly, NZ prime minister says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57965825</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57965825</guid>
-            <pubDate>Mon, 26 Jul 2021 03:51:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Man, woman and boy die in Loch Lomond incident]]></title>
             <description><![CDATA[The deaths near Ardlui are among six water-related fatalities in Scotland over the past three days.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57962111</link>
@@ -115,10 +108,10 @@
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Tom Daley and Matty Lee win gold in men's synchronised 10m platform]]></title>
-            <description><![CDATA[Tom Daley wins a first gold medal at his fourth Olympic Games as he claims victory alongside Matty Lee in the men's synchronised 10m platform.]]></description>
+            <description><![CDATA[Tom Daley wins a first Olympic gold medal as he claims victory alongside Matty Lee in the men's synchronised 10m platform.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57966599</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966599</guid>
-            <pubDate>Mon, 26 Jul 2021 07:40:53 GMT</pubDate>
+            <pubDate>Mon, 26 Jul 2021 08:06:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Great Britain's Tom Pidcock takes mountain biking gold]]></title>
@@ -170,13 +163,6 @@
             <pubDate>Sun, 25 Jul 2021 23:08:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: Cases fall as jabs 'turn tide' and unions fight testing plan]]></title>
-            <description><![CDATA[A sustained fall in UK cases for the first time out of lockdown is among the stories leading the papers.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-57965239</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57965239</guid>
-            <pubDate>Mon, 26 Jul 2021 03:43:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Deadly street protests over Iran water shortages]]></title>
             <description><![CDATA[Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57948717</link>
@@ -184,11 +170,25 @@
             <pubDate>Sun, 25 Jul 2021 23:06:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Papers: Cases fall as jabs 'turn tide' and unions fight testing plan]]></title>
+            <description><![CDATA[A sustained fall in UK cases for the first time out of lockdown is among the stories leading the papers.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-57965239</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-57965239</guid>
+            <pubDate>Mon, 26 Jul 2021 03:43:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The new surgical tool inspired by a wasp]]></title>
             <description><![CDATA[The device avoids clogging by using friction instead of suction, similar to the way a parasitoid wasp lays its eggs.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57889149</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57889149</guid>
             <pubDate>Sun, 25 Jul 2021 23:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Making of Tom Daley]]></title>
+            <description><![CDATA[Olympian Tom Daley looks back at the moments that have shaped his life and career.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57888849</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57888849</guid>
+            <pubDate>Mon, 19 Jul 2021 20:50:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The repair team preserving an 18th Century home]]></title>
@@ -296,11 +296,11 @@
             <pubDate>Mon, 26 Jul 2021 07:25:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: GB's Lauren Williams reaches women's taekwondo final]]></title>
-            <description><![CDATA[Great Britain's Lauren Williams is guaranteed a medal in the women's 67kg taekwondo competition in Tokyo 2020.]]></description>
+            <title><![CDATA[Tokyo Olympics: GB's Lauren Williams reaches women's -67kg taekwondo final]]></title>
+            <description><![CDATA[Great Britain's Lauren Williams is guaranteed a medal in the women's -67kg taekwondo competition at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57968427</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968427</guid>
-            <pubDate>Mon, 26 Jul 2021 07:45:48 GMT</pubDate>
+            <pubDate>Mon, 26 Jul 2021 08:13:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB's Tom Pidcock wins gold in mountain bike cross-country]]></title>
@@ -310,11 +310,11 @@
             <pubDate>Mon, 26 Jul 2021 07:52:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Ariarna Titmus' coach Dean Boxall goes wild following her 400m freestyle win]]></title>
-            <description><![CDATA[Watch the wild celebrations of the coach to Australian swimmer Ariarna Titmus after she wins a thrilling 400m freestyle gold at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57966627</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57966627</guid>
-            <pubDate>Mon, 26 Jul 2021 04:50:26 GMT</pubDate>
+            <title><![CDATA[Adam Peaty wins gold, Alex Yee gets triathlon silver, Ariarne Titmus triumphs and men's rugby sevens get underway]]></title>
+            <description><![CDATA[Watch what you may have missed from the early events of day three at the Tokyo Olympics including Adam Peaty and Ariarne Titmus gold, GB's Alex Yee winning silver and rugby sevens getting underway.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57966538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57966538</guid>
+            <pubDate>Mon, 26 Jul 2021 07:03:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympics day-by-day guide - 21 gold medals to be won on Monday]]></title>

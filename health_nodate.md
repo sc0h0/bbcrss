@@ -3,7 +3,7 @@
 3. [Covid: Moderna jab approved for teenagers in EU](https://www.bbc.co.uk/news/world-europe-57947183) - Vaccination with Moderna's jab can now be extended to adolescents, the EU medicines watchdog says.
 4. [Daily testing can keep pupils in school, study suggests](https://www.bbc.co.uk/news/health-57930214) - A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.
 5. [Covid-19: Health trusts in appeal to off-duty staff](https://www.bbc.co.uk/news/uk-northern-ireland-57964603) - Health officials say some services and surgery may be cancelled due to "extreme strain" from Covid admissions.
-6. [AI breakthrough could spark medical revolution](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
+6. [Flooded London hospitals ask patients to stay away](https://www.bbc.co.uk/news/uk-57965298) - Torrential rain saw severe flooding in homes, roads and tube stations in parts of London on Sunday.
 7. [Covid vaccine: Eight-week gap seen as sweet spot for Pfizer jab antibodies](https://www.bbc.co.uk/news/health-57929953) - Spacing out doses boosts antibody levels, say researchers - who suggest eight weeks as the "sweet spot".
 8. [Child winter respiratory illness on rise in summer](https://www.bbc.co.uk/news/health-57908561) - Parents are warned to look out for signs of RSV, after lockdown disrupted its normal winter spread.
 9. [Covid cases at record levels for 20 to 29-year-olds](https://www.bbc.co.uk/news/health-57933108) - Everyone in this age group should be cautious when socialising, officials say, and get two jabs.

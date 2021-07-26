@@ -16,7 +16,7 @@
 16. [Cars towed for 'dangerous' parking in Snowdonia](https://www.bbc.co.uk/news/uk-wales-57956443) - Authorities are trying to avoid a repeat of summer 2020, when hundreds of cars obstructed roads.
 17. [Pontyclun crash: Aftermath after car hits pub, injuring six](https://www.bbc.co.uk/news/uk-wales-57939709) - The driver is believed to have had a "medical episode" before his car hit the pub.
 18. [Pollution: Former resident calls for demolition of homes](https://www.bbc.co.uk/news/uk-wales-57941020) - Martin Brown's house was due to be demolished because of air pollution.
-19. [Tokyo Olympics: GB's Lauren Williams reaches women's taekwondo final](https://www.bbc.co.uk/sport/olympics/57968427) - Great Britain's Lauren Williams is guaranteed a medal in the women's 67kg taekwondo competition in Tokyo 2020.
+19. [Tokyo Olympics: GB's Lauren Williams reaches women's -67kg taekwondo final](https://www.bbc.co.uk/sport/olympics/57968427) - Great Britain's Lauren Williams is guaranteed a medal in the women's -67kg taekwondo competition at Tokyo 2020.
 20. [Matt Grimes: Fulham eye move for Swansea City captain](https://www.bbc.co.uk/sport/football/57967506) - Fulham are interested in signing Swansea City captain Matt Grimes.
 21. [Tokyo Olympics: Adam Peaty defends swimming title, Alex Yee wins triathlon silver](https://www.bbc.co.uk/sport/olympics/57966473) - It's day three of the Tokyo Olympics, where Adam Peaty has won Team GB's first gold medal of the Games.
 22. [Tokyo Olympics: Great Britain beat Canada 3-1 as Liam Ansell strikes twice](https://www.bbc.co.uk/sport/olympics/57966593) - Liam Ansell finds the net twice as Great Britain's men make it two wins from two at Tokyo 2020 with victory over Canada.
