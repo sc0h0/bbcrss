@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 20:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 20:45:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57970464</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57970464</guid>
             <pubDate>Mon, 26 Jul 2021 20:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bezos' $2bn offer to get back in race to the Moon]]></title>
+            <description><![CDATA[The billionaire offers to pay $2bn in Nasa costs to be reconsidered for a key Moon lander contract.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57978465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57978465</guid>
+            <pubDate>Mon, 26 Jul 2021 20:31:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tunisia President Kais Saied accused of coup amid clashes]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-57973810</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57973810</guid>
             <pubDate>Mon, 26 Jul 2021 12:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Record civilian casualties in 2021, UN reports]]></title>
-            <description><![CDATA[More than 1,600 civilians have been killed so far in 2021, and the UN fears a further rise.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57967960</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57967960</guid>
-            <pubDate>Mon, 26 Jul 2021 12:11:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[German lawyers wrangle over pensioner's WW2 tank in basement]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-57975088</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57975088</guid>
             <pubDate>Mon, 26 Jul 2021 16:30:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Record civilian casualties in 2021, UN reports]]></title>
+            <description><![CDATA[More than 1,600 civilians have been killed so far in 2021, and the UN fears a further rise.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57967960</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57967960</guid>
+            <pubDate>Mon, 26 Jul 2021 12:11:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China accuses US of oppressing Beijing in high-level talks]]></title>
@@ -91,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57948717</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57948717</guid>
             <pubDate>Sun, 25 Jul 2021 23:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Researchers begin discussions on vital report]]></title>
-            <description><![CDATA[A two-week virtual negotiation begins on the most critical climate change report since 2013.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57944015</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57944015</guid>
-            <pubDate>Sun, 25 Jul 2021 23:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Momiji Nishiya wins skateboarding gold at just 13]]></title>
-            <description><![CDATA[At the age of 13, Japan's Momiji Nishiya wins the first-ever Olympic gold medal in women's street skateboarding.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57966611</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966611</guid>
-            <pubDate>Mon, 26 Jul 2021 06:39:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How US military pullback in Iraq could benefit Iran]]></title>
