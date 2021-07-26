@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 17:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 17:34:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,6 +93,13 @@
             <pubDate>Sun, 25 Jul 2021 13:29:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NI Covid-19 restrictions: Your questions answered]]></title>
+            <description><![CDATA[BBC News NI sets out the latest steps ministers are taking to ease Northern Ireland's lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-54117810</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-54117810</guid>
+            <pubDate>Mon, 26 Jul 2021 17:23:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus: More than one million people in NI have two Covid jabs]]></title>
             <description><![CDATA[About 70% of NI adults have had two doses but just 56% of under 30s have come forward, officials say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57963666</link>
@@ -133,27 +140,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57940347</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57940347</guid>
             <pubDate>Fri, 23 Jul 2021 15:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: NI businesses hit by app 'pingdemic']]></title>
-            <description><![CDATA[Businesses call for changes to the StopCovidNI app as they lose trade due to self-isolation rules.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57899897</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57899897</guid>
-            <pubDate>Tue, 20 Jul 2021 10:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Where are Covid-19 vaccine clinics in NI?]]></title>
-            <description><![CDATA[Anyone aged 18 can now get a coronavirus jab at walk-in centres across Northern Ireland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57863840</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57863840</guid>
-            <pubDate>Fri, 23 Jul 2021 11:56:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Southern Trust suspends hospital visits as cases spike]]></title>
-            <description><![CDATA[The decision was taken as NI recorded its highest daily number of coronavirus cases since January.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57867718</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57867718</guid>
-            <pubDate>Fri, 16 Jul 2021 20:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>

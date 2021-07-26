@@ -3,7 +3,7 @@
 3. [Coronavirus infections continue to fall in UK](https://www.bbc.co.uk/news/health-57962995) - But any rise in cases linked to the 19 July unlocking is unlikely to show up in the daily data just yet.
 4. [Senior doctors in England to be consulted on NHS pay offer](https://www.bbc.co.uk/news/uk-57964780) - The BMA doctors' union says the 3% pay rise offer for NHS staff in England is "bitterly disappointing".
 5. [Flooded London hospitals ask patients to stay away](https://www.bbc.co.uk/news/uk-57965298) - Torrential rain saw severe flooding in homes, roads and tube stations in parts of London on Sunday.
-6. [Whipps Cross Hospital patients evacuated after flooding](https://www.bbc.co.uk/news/uk-england-london-57971381) - "Major incident" at Whipps Cross Hospital as fire brigade takes 1,000 flood calls across London.
+6. [Whipps Cross Hospital patients evacuated after flooding](https://www.bbc.co.uk/news/uk-england-london-57971381) - Planned surgery and outpatient appointments at Whipps Cross Hospital are cancelled after "huge" floods.
 7. [Covid: Moderna jab approved for teenagers in EU](https://www.bbc.co.uk/news/world-europe-57947183) - Vaccination with Moderna's jab can now be extended to adolescents, the EU medicines watchdog says.
 8. [Covid-19: Recent claims about cremations and vaccines fact-checked](https://www.bbc.co.uk/news/57941113) - Debunking claims shared widely on social media about cremations in the UK and US vaccine statistics.
 9. [Covid-19: Health trusts in appeal to off-duty staff](https://www.bbc.co.uk/news/uk-northern-ireland-57964603) - Health officials say some services and surgery may be cancelled due to "extreme strain" from Covid admissions.

@@ -1,4 +1,4 @@
-1. [Give workers full rights from day one – Labour](https://www.bbc.co.uk/news/uk-57962405) - Mon, 26 Jul 2021 12:53:17 GMT - Deputy leader Angela Rayner sets out plans for a "new deal" for workers post-pandemic.
+1. [Give workers full rights from day one – Labour](https://www.bbc.co.uk/news/uk-57962405) - Mon, 26 Jul 2021 17:22:30 GMT - Deputy leader Angela Rayner sets out plans for a "new deal" for workers post-pandemic.
 2. [Almost 600 migrant Channel crossings at weekend](https://www.bbc.co.uk/news/uk-57966417) - Mon, 26 Jul 2021 06:52:58 GMT - Home secretary says she is determined to stop journeys, after record number of attempts last month.
 3. [National Adoption Strategy: £48m to improve services in England](https://www.bbc.co.uk/news/uk-57962679) - Mon, 26 Jul 2021 09:15:52 GMT - A new National Adoption Strategy aims to enhance support to families and end a postcode lottery.
 4. [Senior doctors in England to be consulted on NHS pay offer](https://www.bbc.co.uk/news/uk-57964780) - Mon, 26 Jul 2021 00:01:35 GMT - The BMA doctors' union says the 3% pay rise offer for NHS staff in England is "bitterly disappointing".

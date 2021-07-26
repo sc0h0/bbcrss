@@ -1,13 +1,13 @@
 1. [Tunisia President Kais Saied accused of coup amid clashes](https://www.bbc.co.uk/news/world-africa-57976005) - Months of tensions over Covid and the economy culminates in the sacking of the prime minister.
 2. [US accused of demonising China in high-level talks](https://www.bbc.co.uk/news/world-asia-china-57966427) - US Deputy Secretary of State Wendy Sherman is the most senior official to visit under Mr Biden.
-3. [Deadly street protests over Iran water shortages](https://www.bbc.co.uk/news/world-middle-east-57948717) - Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.
+3. [Sandstorm swallows city in northwestern China](https://www.bbc.co.uk/news/world-asia-china-57973810) - Dust clouds towered at least 100 metres (330ft) over Dunhuang.
 4. [Afghanistan: Record civilian casualties in 2021, UN reports](https://www.bbc.co.uk/news/world-asia-57967960) - More than 1,600 civilians have been killed so far in 2021, and the UN fears a further rise.
 5. [German lawyers wrangle over pensioner's WW2 tank in basement](https://www.bbc.co.uk/news/world-europe-57965260) - The 84-year-old kept the vehicle in his basement, along with an anti-aircraft gun and a torpedo.
 6. [Greece seeks spear fisher who killed famous seal](https://www.bbc.co.uk/news/world-europe-57969485) - Kostis, a rare Mediterranean monk seal rescued as a pup, is killed by a spear gun.
 7. [AKO Caine Prize: Meron Hadero named first Ethiopian winner](https://www.bbc.co.uk/news/world-africa-57975088) - Judges praised Meron Hadero's short story The Street Sweep which ends in a "clever twist".
-8. [White House: US to maintain Covid foreign travel restrictions](https://www.bbc.co.uk/news/world-us-canada-57976015) - The White House says current rules will remain due to rising cases and variant transmission.
-9. [Dieter Brummer: Home and Away actor dies aged 45](https://www.bbc.co.uk/news/world-australia-57967777) - Brummer famously played Shane Parrish - Melissa George's love interest on the TV soap in the 1990s.
-10. [Pink offers to pay bikini bottoms fine for Norway women's handball team](https://www.bbc.co.uk/news/entertainment-arts-57967486) - The Norway women's side were last week fined for wearing shorts instead of bikini bottoms in a match.
+8. [Nikola Tesla: Sparks fly over plans to honour inventor with coin](https://www.bbc.co.uk/news/world-europe-57969489) - Both Croatia and Serbia claim Nikola Tesla, pioneer of alternating current electricity, as their hero.
+9. [White House: US to maintain Covid foreign travel restrictions](https://www.bbc.co.uk/news/world-us-canada-57976015) - The White House says current rules will remain due to rising cases and variant transmission.
+10. [Deadly street protests over Iran water shortages](https://www.bbc.co.uk/news/world-middle-east-57948717) - Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.
 11. [Climate change: Researchers begin discussions on vital report](https://www.bbc.co.uk/news/science-environment-57944015) - A two-week virtual negotiation begins on the most critical climate change report since 2013.
 12. [Tokyo Olympics: Momiji Nishiya wins skateboarding gold at just 13](https://www.bbc.co.uk/sport/olympics/57966611) - At the age of 13, Japan's Momiji Nishiya wins the first-ever Olympic gold medal in women's street skateboarding.
 13. [Unesco adds Madrid's Paseo del Prado and Retiro Park to heritage list](https://www.bbc.co.uk/news/world-europe-57955966) - The famous Paseo del Prado and Retiro Park are symbols of the Spanish capital's history.
@@ -17,10 +17,10 @@
 17. [Covid-19: Recent claims about cremations and vaccines fact-checked](https://www.bbc.co.uk/news/57941113) - Debunking claims shared widely on social media about cremations in the UK and US vaccine statistics.
 18. [Excitement over wooden shipwreck found in Antigua's seabed](https://www.bbc.co.uk/news/world-latin-america-57878969) - Historians believe the wreck found in Antigua to be the 1762 Beaumont, a French merchant ship.
 19. [Tunisia: Key moments as political turmoil unfolds](https://www.bbc.co.uk/news/world-africa-57972459) - Tunisia's president sacks the PM and the speaker is barred entry to parliament following violent protests.
-20. [Sandstorm swallows city in northwestern China](https://www.bbc.co.uk/news/world-asia-china-57973810) - Dust clouds towered at least 100 metres (330ft) over Dunhuang.
-21. [Rockslide destroys bridge in northern India](https://www.bbc.co.uk/news/world-asia-india-57964308) - It was one of several landslides in Himachal Pradesh on Sunday.
-22. [Afrobeats in Japan: British-Nigerian hip hop dancer teaching children how to dance](https://www.bbc.co.uk/news/world-africa-57949287) - Yinka Oshiletu, a British-Nigerian hip hop dancer is bringing Afrobeats sounds to Japan's young dancers.
-23. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
+20. [Rockslide destroys bridge in northern India](https://www.bbc.co.uk/news/world-asia-india-57964308) - It was one of several landslides in Himachal Pradesh on Sunday.
+21. [Afrobeats in Japan: British-Nigerian hip hop dancer teaching children how to dance](https://www.bbc.co.uk/news/world-africa-57949287) - Yinka Oshiletu, a British-Nigerian hip hop dancer is bringing Afrobeats sounds to Japan's young dancers.
+22. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
+23. [ICYMI: World's deepest pool and a royal ritual resumes](https://www.bbc.co.uk/news/world-57950189) - Here's a round-up of the week's news you might have missed.
 24. [Slowest qualifier wins shock swimming title](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
 25. [Tokyo Olympics: German women's gymnastics team wears full-body suits](https://www.bbc.co.uk/sport/olympics/57961055) - Germany's gymnasts wear full-body suits in women's qualification at the Olympics as they continue their stand against the sexualisation of their sport.
 26. [Austrian wins shock Olympic cycling gold](https://www.bbc.co.uk/sport/olympics/57960575) - Austria's Anna Kiesenhofer launches a remarkable solo breakaway to win road race gold on her Olympic debut, as Britain's Lizzie Deignan finishes 11th.

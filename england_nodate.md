@@ -1,7 +1,7 @@
 1. [Olly Stephens: Two boys guilty of teen's murder](https://www.bbc.co.uk/news/uk-england-berkshire-57901344) - Olly Stephens, 13, was lured by a girl to a field where he was attacked by two 14-year-olds.
-2. [Whipps Cross Hospital patients evacuated after flooding](https://www.bbc.co.uk/news/uk-england-london-57971381) - "Major incident" at Whipps Cross Hospital as fire brigade takes 1,000 flood calls across London.
+2. [Whipps Cross Hospital patients evacuated after flooding](https://www.bbc.co.uk/news/uk-england-london-57971381) - Planned surgery and outpatient appointments at Whipps Cross Hospital are cancelled after "huge" floods.
 3. [Bernadette Walker: Scott Walker guilty of murder](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57931813) - Scott Walker murdered Bernadette Walker, 17, and her mother Sarah helped cover up the killing.
-4. [Marcus Rashford mural: Money raised goes to foodbank charity](https://www.bbc.co.uk/news/uk-england-manchester-57970520) - Footballer Marcus Rashford requests £40,000 raised by well-wishers is donated to a foodbank charity.
+4. [Marcus Rashford mural: Money raised goes to food bank charity](https://www.bbc.co.uk/news/uk-england-manchester-57970520) - Footballer Marcus Rashford requests £40,000 raised by well-wishers is donated to a food bank charity.
 5. [Wayne Rooney reports photos to Greater Manchester Police](https://www.bbc.co.uk/news/uk-england-manchester-57970044) - The images appear to show the ex-England footballer asleep with unknown women posing beside him.
 6. [Ian Paterson: Plans for further breast surgeon compensation](https://www.bbc.co.uk/news/uk-england-birmingham-57967899) - A further 5,500 patients of Ian Paterson have been identified since he was jailed.
 7. [Newly-weds delighted after lost ring found in Windermere](https://www.bbc.co.uk/news/uk-england-cumbria-57969093) - A diver found the ring after it slipped off the groom's finger into the water on his wedding day.
