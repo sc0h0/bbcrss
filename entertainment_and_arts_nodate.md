@@ -1,7 +1,7 @@
 1. [Dieter Brummer: Home and Away actor dies aged 45](https://www.bbc.co.uk/news/world-australia-57967777) - Brummer famously played Shane Parrish - Melissa George's love interest on the TV soap in the 1990s.
 2. [Ronan Keating accepts phone hacking damages](https://www.bbc.co.uk/news/entertainment-arts-57967494) - The ex-Boyzone singer's lawyers told the High Court of the distress caused by newspapers stories.
 3. [Pink offers to pay bikini bottoms fine for Norway women's handball team](https://www.bbc.co.uk/news/entertainment-arts-57967486) - The Norway women's side were last week fined for wearing shorts instead of bikini bottoms in a match.
-4. [Standon Calling festival abandoned due to flooding](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57968331) - The music festival, which had a capacity of 15,000, was cancelled during its final day.
+4. [Standon Calling festival-goers make most of mud as heavy rain hits](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57969974) - Organisers of the festival call it off due to flooding and risk of lightning.
 5. [Jackie Mason, rabbi turned comedian, dies aged 93](https://www.bbc.co.uk/news/world-us-canada-57960048) - The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.
 6. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.
 7. [R. Kelly accused of abusing teenage boy he met in McDonald's](https://www.bbc.co.uk/news/world-us-canada-57958367) - The R&B star had sexual contact with a 17-year-old he met in McDonald's, prosecutors claim.

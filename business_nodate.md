@@ -1,6 +1,6 @@
 1. [Ministers consider blocking China's role in UK nuclear power](https://www.bbc.co.uk/news/business-57967908) - The move, amid rising tensions with Beijing, could impact the development of a plant in Suffolk.
 2. [Heathrow warns of further fall in passenger numbers](https://www.bbc.co.uk/news/business-57967907) - The airport says it could see even fewer travellers in 2021 due to testing requirements and restrictions.
-3. [Marlboro maker Philip Morris could stop selling cigarettes in UK](https://www.bbc.co.uk/news/business-57964253) - Tobacco giant Philip Morris says the brand could disappear from shops in 10 years' time.
+3. [Marlboro maker Philip Morris could stop selling cigarettes in UK](https://www.bbc.co.uk/news/business-57964253) - Health charity Ash said it was hard to take such claims seriously from a cigarette manufacturer.
 4. [Covid: 'I earned less, but spent the same'](https://www.bbc.co.uk/news/business-57941003) - A new Couch to Financial Fitness programme aims to help people organise their finances post-pandemic.
 5. [Shares in Chinese online tutoring firms slump after shake-up](https://www.bbc.co.uk/news/business-57966027) - It is one of the biggest ever overhauls of China's $120bn private tutoring industry.
 6. [Tencent shares slide after Beijing crackdown on music rights](https://www.bbc.co.uk/news/business-57966023) - China's market watchdog said the technology giant broke the country's anti-competition rules.
