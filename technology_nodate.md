@@ -1,14 +1,14 @@
-1. [Amazon Bitcoin job ad boosts cryptocurrency surge](https://www.bbc.co.uk/news/technology-57971451) - News Amazon is hiring a digital-currency expert has helped boost the value of Bitcoin.
-2. [Shares in Chinese online tutoring firms slump after shake-up](https://www.bbc.co.uk/news/business-57966027) - It is one of the biggest ever overhauls of China's $120bn private tutoring industry.
-3. [Tencent shares slide after Beijing crackdown on music rights](https://www.bbc.co.uk/news/business-57966023) - China's market watchdog said the technology giant broke the country's anti-competition rules.
-4. [Face palm: When the emoji you want doesn't exist](https://www.bbc.co.uk/news/technology-57848226) - There are about 3,000 emojis to choose from but what happens when the one you want isn't there?
-5. [Zuckerberg wants Facebook to become online 'metaverse'](https://www.bbc.co.uk/news/technology-57942909) - CEO wants users to work, game and communicate in a virtual world, often using VR headsets.
-6. [Printer ink pricier than champagne finds Which?](https://www.bbc.co.uk/news/technology-57941625) - According to a Which survey a pint of printer ink could cost up to £1,300.
-7. [Ransomware key to unlock customer data from REvil attack](https://www.bbc.co.uk/news/technology-57946117) - The gang behind the attack had previously asked for $70m to access the stolen files.
-8. [AI breakthrough could spark medical revolution](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
-9. [Gun owners' fears after firearms dealer data breach](https://www.bbc.co.uk/news/technology-57932823) - Thousands of records from the popular shotgun and rifle sales site Guntrader were posted to the dark web.
-10. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
-11. [India Zomato: Shares of food delivery app soar on market debut](https://www.bbc.co.uk/news/business-57938217) - The firm's stock exchange listing sets the pace for other start-ups that are thriving in the pandemic.
+1. [Over-60s with only virtual contact 'more lonely'](https://www.bbc.co.uk/news/technology-57970595) - UK-US research finds old people who used only telephone and online communication were more lonely.
+2. [Amazon Bitcoin job ad boosts cryptocurrency surge](https://www.bbc.co.uk/news/technology-57971451) - News Amazon is hiring a digital-currency expert has helped boost the value of Bitcoin.
+3. [Shares in Chinese online tutoring firms slump after shake-up](https://www.bbc.co.uk/news/business-57966027) - It is one of the biggest ever overhauls of China's $120bn private tutoring industry.
+4. [Tencent shares slide after Beijing crackdown on music rights](https://www.bbc.co.uk/news/business-57966023) - China's market watchdog said the technology giant broke the country's anti-competition rules.
+5. [Face palm: When the emoji you want doesn't exist](https://www.bbc.co.uk/news/technology-57848226) - There are about 3,000 emojis to choose from but what happens when the one you want isn't there?
+6. [Zuckerberg wants Facebook to become online 'metaverse'](https://www.bbc.co.uk/news/technology-57942909) - CEO wants users to work, game and communicate in a virtual world, often using VR headsets.
+7. [Printer ink pricier than champagne finds Which?](https://www.bbc.co.uk/news/technology-57941625) - According to a Which survey a pint of printer ink could cost up to £1,300.
+8. [Ransomware key to unlock customer data from REvil attack](https://www.bbc.co.uk/news/technology-57946117) - The gang behind the attack had previously asked for $70m to access the stolen files.
+9. [AI breakthrough could spark medical revolution](https://www.bbc.co.uk/news/science-environment-57929095) - A program has been used to predict the structures of nearly every protein in the human body.
+10. [Gun owners' fears after firearms dealer data breach](https://www.bbc.co.uk/news/technology-57932823) - Thousands of records from the popular shotgun and rifle sales site Guntrader were posted to the dark web.
+11. [Twitter and Snap add users as restrictions ease](https://www.bbc.co.uk/news/business-57935258) - The social media companies passed analysts' expectations with their latest financial update.
 12. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
 13. [Beach rover picks up cigarette butts and other tech news](https://www.bbc.co.uk/news/technology-57930091) - Jen Copestake looks at some of the best technology news stories of the week.
 14. [Cyber-flashing: 'I get explicit messages every day'](https://www.bbc.co.uk/news/uk-57902816) - Influencer Elle Edwards lets us inside her DMs to show the extent of sexual abuse faced by women online.

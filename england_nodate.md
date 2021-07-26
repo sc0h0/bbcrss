@@ -7,9 +7,9 @@
 7. [Stonehenge A303 tunnel: High Court challenge bid dismissed](https://www.bbc.co.uk/news/uk-england-57968573) - Campaigners say the ruling is deeply worrying for "anyone hoping for urgent action on climate".
 8. [Ian Paterson: Plans for further breast surgeon compensation](https://www.bbc.co.uk/news/uk-england-birmingham-57967899) - A further 5,500 patients of Ian Paterson have been identified since he was jailed.
 9. [Sir Richard Sutton: Murder accused pleads not guilty](https://www.bbc.co.uk/news/uk-england-dorset-57969536) - Thomas Schreiber is charged with murdering one of UK's richest men, Sir Richard Sutton, in Dorset.
-10. [Mortar bomb find halts Guiseley-Ilkley rail services](https://www.bbc.co.uk/news/uk-england-leeds-57971329) - Services were stopped between Guiseley and Ilkley as the "safe" training device was dealt with.
-11. [Coventry patient waited 17 hours on floor for ambulance](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57967567) - Care home staff fear to move Jean Burgess during her long wait for paramedics.
-12. [Blackpool drug warning: 'High-purity ecstasy' leaves two in hospital](https://www.bbc.co.uk/news/uk-england-lancashire-57967324) - Two men fell ill after apparently taking drugs containing "a high level of MDMA", police say.
+10. [Tokyo Olympics: Nerves of Adam Peaty's family before swim](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57972870) - They say they have been feeling the pressure of the Olympic swimmer's title defence.
+11. [Mortar bomb find halts Guiseley-Ilkley rail services](https://www.bbc.co.uk/news/uk-england-leeds-57971329) - Services were stopped between Guiseley and Ilkley as the "safe" training device was dealt with.
+12. [Coventry patient waited 17 hours on floor for ambulance](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57967567) - Care home staff fear to move Jean Burgess during her long wait for paramedics.
 13. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
 14. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
 15. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
