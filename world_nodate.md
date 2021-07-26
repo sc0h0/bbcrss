@@ -1,15 +1,15 @@
 1. [US combat forces to leave Iraq by end of year](https://www.bbc.co.uk/news/world-us-canada-57970464) - The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.
 2. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to pay $2bn in Nasa costs to be reconsidered for a key Moon lander contract.
 3. [Tunisia President Kais Saied accused of coup amid clashes](https://www.bbc.co.uk/news/world-africa-57976005) - Months of tension over Covid and the economy culminate in the sacking of the prime minister.
-4. [Sandstorm swallows city in northwestern China](https://www.bbc.co.uk/news/world-asia-china-57973810) - Dust clouds towered at least 100 metres (330ft) over Dunhuang.
-5. [German lawyers wrangle over pensioner's WW2 tank in basement](https://www.bbc.co.uk/news/world-europe-57965260) - The 84-year-old kept the vehicle in his basement, along with an anti-aircraft gun and a torpedo.
-6. [Greece seeks spear fisher who killed famous seal](https://www.bbc.co.uk/news/world-europe-57969485) - Kostis, a rare Mediterranean monk seal rescued as a pup, is killed by a spear gun.
-7. [AKO Caine Prize: Meron Hadero named first Ethiopian winner](https://www.bbc.co.uk/news/world-africa-57975088) - Judges praised Meron Hadero's short story The Street Sweep which ends in a "clever twist".
-8. [Afghanistan: Record civilian casualties in 2021, UN reports](https://www.bbc.co.uk/news/world-asia-57967960) - More than 1,600 civilians have been killed so far in 2021, and the UN fears a further rise.
-9. [China accuses US of oppressing Beijing in high-level talks](https://www.bbc.co.uk/news/world-asia-china-57966427) - Senior Washington and Beijing officials clash on issues including sanctions, tariffs and human rights.
-10. [Nikola Tesla: Sparks fly over plans to honour inventor with coin](https://www.bbc.co.uk/news/world-europe-57969489) - Both Croatia and Serbia claim Nikola Tesla, pioneer of alternating current electricity, as their hero.
-11. [White House: US to maintain Covid foreign travel restrictions](https://www.bbc.co.uk/news/world-us-canada-57976015) - The White House says current rules will remain due to rising cases and variant transmission.
-12. [Deadly street protests over Iran water shortages](https://www.bbc.co.uk/news/world-middle-east-57948717) - Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.
+4. [Surfside tower collapse: Final victim identified from rubble](https://www.bbc.co.uk/news/world-us-canada-57979126) - The family of Estelle Hedaya say they have confirmation she is the 98th victim of the Surfside disaster.
+5. [Sandstorm swallows city in northwestern China](https://www.bbc.co.uk/news/world-asia-china-57973810) - Dust clouds towered at least 100 metres (330ft) over Dunhuang.
+6. [German lawyers wrangle over pensioner's WW2 tank in basement](https://www.bbc.co.uk/news/world-europe-57965260) - The 84-year-old kept the vehicle in his basement, along with an anti-aircraft gun and a torpedo.
+7. [Greece seeks spear fisher who killed famous seal](https://www.bbc.co.uk/news/world-europe-57969485) - Kostis, a rare Mediterranean monk seal rescued as a pup, is killed by a spear gun.
+8. [AKO Caine Prize: Meron Hadero named first Ethiopian winner](https://www.bbc.co.uk/news/world-africa-57975088) - Judges praised Meron Hadero's short story The Street Sweep which ends in a "clever twist".
+9. [Afghanistan: Record civilian casualties in 2021, UN reports](https://www.bbc.co.uk/news/world-asia-57967960) - More than 1,600 civilians have been killed so far in 2021, and the UN fears a further rise.
+10. [China accuses US of oppressing Beijing in high-level talks](https://www.bbc.co.uk/news/world-asia-china-57966427) - Senior Washington and Beijing officials clash on issues including sanctions, tariffs and human rights.
+11. [Nikola Tesla: Sparks fly over plans to honour inventor with coin](https://www.bbc.co.uk/news/world-europe-57969489) - Both Croatia and Serbia claim Nikola Tesla, pioneer of alternating current electricity, as their hero.
+12. [White House: US to maintain Covid foreign travel restrictions](https://www.bbc.co.uk/news/world-us-canada-57976015) - The White House says current rules will remain due to rising cases and variant transmission.
 13. [How US military pullback in Iraq could benefit Iran](https://www.bbc.co.uk/news/world-middle-east-57976007) - The withdrawal of remaining US combat troops could help Iran achieve its ambitions.
 14. [Covid passports: How do they work around the world?](https://www.bbc.co.uk/news/world-europe-56522408) - How are countries enforcing vaccine passports and what can people use them for?
 15. [Unesco adds Madrid's Paseo del Prado and Retiro Park to heritage list](https://www.bbc.co.uk/news/world-europe-57955966) - The famous Paseo del Prado and Retiro Park are symbols of the Spanish capital's history.
@@ -20,9 +20,9 @@
 20. [Excitement over wooden shipwreck found in Antigua's seabed](https://www.bbc.co.uk/news/world-latin-america-57878969) - Historians believe the wreck found in Antigua to be the 1762 Beaumont, a French merchant ship.
 21. [Tunisia: Key moments as political turmoil unfolds](https://www.bbc.co.uk/news/world-africa-57972459) - Tunisia's president sacks the PM and the speaker is barred entry to parliament following violent protests.
 22. [Rockslide destroys bridge in northern India](https://www.bbc.co.uk/news/world-asia-india-57964308) - It was one of several landslides in Himachal Pradesh on Sunday.
-23. [Afrobeats in Japan: British-Nigerian hip hop dancer teaching children how to dance](https://www.bbc.co.uk/news/world-africa-57949287) - Yinka Oshiletu, a British-Nigerian hip hop dancer is bringing Afrobeats sounds to Japan's young dancers.
-24. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
-25. [ICYMI: World's deepest pool and a royal ritual resumes](https://www.bbc.co.uk/news/world-57950189) - Here's a round-up of the week's news you might have missed.
+23. [Deadly street protests over Iran water shortages](https://www.bbc.co.uk/news/world-middle-east-57948717) - Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.
+24. [Afrobeats in Japan: British-Nigerian hip hop dancer teaching children how to dance](https://www.bbc.co.uk/news/world-africa-57949287) - Yinka Oshiletu, a British-Nigerian hip hop dancer is bringing Afrobeats sounds to Japan's young dancers.
+25. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
 26. [Slowest qualifier wins shock swimming title](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
 27. [Tokyo Olympics: German women's gymnastics team wears full-body suits](https://www.bbc.co.uk/sport/olympics/57961055) - Germany's gymnasts wear full-body suits in women's qualification at the Olympics as they continue their stand against the sexualisation of their sport.
 28. [Austrian wins shock Olympic cycling gold](https://www.bbc.co.uk/sport/olympics/57960575) - Austria's Anna Kiesenhofer launches a remarkable solo breakaway to win road race gold on her Olympic debut, as Britain's Lizzie Deignan finishes 11th.

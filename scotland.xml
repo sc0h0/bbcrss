@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 21:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 21:59:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,25 +23,25 @@
             <pubDate>Mon, 26 Jul 2021 14:51:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Long Covid has left me feeling 'so much older' than 23]]></title>
+            <description><![CDATA[A nurse in her early 20s who became unwell in November 2020 after testing positive for Covid has "never really recovered fully".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57968732</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57968732</guid>
+            <pubDate>Mon, 26 Jul 2021 21:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The healthcare heroes vaccinating Scotland]]></title>
+            <description><![CDATA[Meet the people who have gone above and beyond to get jabs into arms across the country.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57602460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57602460</guid>
+            <pubDate>Mon, 26 Jul 2021 21:57:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man dismissed over Highlands school Legionella concerns]]></title>
             <description><![CDATA[Bev Parkinson wrote a report critical of his employers' management of water systems at some Highland schools.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57970505</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57970505</guid>
             <pubDate>Mon, 26 Jul 2021 14:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Mon, 26 Jul 2021 14:58:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: How did the Scots do on day three? Scott & Dawson make finals]]></title>
-            <description><![CDATA[A second round exit in the tennis doubles for Jamie Murray but promise for the Scots in the swimming pool on the third day of Olympic competition.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57968149</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968149</guid>
-            <pubDate>Mon, 26 Jul 2021 09:40:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ally Dawson: Former Rangers and Scotland player dies aged 63]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57970845</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57970845</guid>
             <pubDate>Mon, 26 Jul 2021 11:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: How did the Scots do on day three? Scott & Dawson make finals]]></title>
+            <description><![CDATA[A second round exit in the tennis doubles for Jamie Murray but promise for the Scots in the swimming pool on the third day of Olympic competition.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57968149</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968149</guid>
+            <pubDate>Mon, 26 Jul 2021 09:40:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Police Scotland exports its 'human rights' approach]]></title>
@@ -93,11 +100,11 @@
             <pubDate>Mon, 26 Jul 2021 11:42:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus infections continue to fall in UK]]></title>
-            <description><![CDATA[But any rise in cases linked to the 19 July unlocking is unlikely to show up in the daily data just yet.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57962995</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57962995</guid>
-            <pubDate>Mon, 26 Jul 2021 02:45:51 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Mon, 26 Jul 2021 14:58:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
