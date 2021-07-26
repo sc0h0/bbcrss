@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 14:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 14:18:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57970504</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57970504</guid>
             <pubDate>Mon, 26 Jul 2021 10:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man dismissed over Highlands school Legionella concerns]]></title>
+            <description><![CDATA[Bev Parkinson wrote a report critical of his employers' management of water systems at some Highland schools.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57970505</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57970505</guid>
+            <pubDate>Mon, 26 Jul 2021 14:11:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BP fined £50,000 for breaching licence condition]]></title>
@@ -226,18 +233,18 @@
             <pubDate>Thu, 22 Jul 2021 17:16:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Laura Muir eyes medal to 'kick-start' sustained track success]]></title>
-            <description><![CDATA[British middle-distance runner Laura Muir says "I know it's in me" as she aims to end a "hard" wait for a first outdoor world medal in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57932787</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57932787</guid>
-            <pubDate>Mon, 26 Jul 2021 10:49:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[British and Irish Lions: Finn Russell back training but prop Wyn Jones doubtful for second Test]]></title>
             <description><![CDATA[Scotland fly-half Finn Russell returns to British and Irish Lions training today but Wales prop Wyn Jones is doubtful for the second Test against South Africa.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57970496</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57970496</guid>
             <pubDate>Mon, 26 Jul 2021 11:53:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Laura Muir eyes medal to 'kick-start' sustained track success]]></title>
+            <description><![CDATA[British middle-distance runner Laura Muir says "I know it's in me" as she aims to end a "hard" wait for a first outdoor world medal in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57932787</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57932787</guid>
+            <pubDate>Mon, 26 Jul 2021 10:49:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish Gossip: Celtic, Rangers, St Johnstone, Motherwell, Edouard, Sakala]]></title>
@@ -252,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/57966044</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57966044</guid>
             <pubDate>Mon, 26 Jul 2021 04:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rangers: Steven Gerrard hails Fashion Sakala after win over Real Madrid]]></title>
+            <description><![CDATA[Rangers boss Steven Gerrard hails the "incredible attitude" of Fashion Sakala as the forward scores in a 2-1 friendly victory over Real Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57968157</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57968157</guid>
+            <pubDate>Mon, 26 Jul 2021 08:38:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
