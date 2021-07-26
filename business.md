@@ -1,4 +1,4 @@
-1. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - Mon, 26 Jul 2021 21:27:25 GMT - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
+1. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - Mon, 26 Jul 2021 22:00:44 GMT - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
 2. [Tesco Bank to close all its current accounts](https://www.bbc.co.uk/news/business-57973960) - Mon, 26 Jul 2021 13:59:15 GMT - The bank says most of the accounts have limited activity and are not being used.
 3. [UK defence firm bid monitored by government](https://www.bbc.co.uk/news/business-57973962) - Mon, 26 Jul 2021 17:03:48 GMT - The government says it will monitor the proposed sale of Ultra Electronics to US equity-owned Cobham.
 4. [Jaguar Land Rover owner Tata Motors feels chip shortage strain](https://www.bbc.co.uk/news/business-57975445) - Mon, 26 Jul 2021 15:17:12 GMT - Tata Motors sees losses narrow, but warns that a lack of semiconductors could halve car production.
