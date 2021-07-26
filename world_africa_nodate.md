@@ -1,6 +1,6 @@
 1. [Tunisia PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - Protesters clashed with police as they demanded the government be dismissed over Covid failings.
-2. [Nigeria school kidnappers abduct man delivering ransom](https://www.bbc.co.uk/news/world-africa-57960544) - Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.
-3. [Nigerian outrage at brazen bandit attacks](https://www.bbc.co.uk/news/world-africa-57934849) - The shooting down of a military jet shows how organised crime is becoming more daring by the day.
+2. [Nigerian outrage at brazen bandit attacks](https://www.bbc.co.uk/news/world-africa-57934849) - The shooting down of a military jet shows how organised crime is becoming more daring by the day.
+3. [Nigeria school kidnappers abduct man delivering ransom](https://www.bbc.co.uk/news/world-africa-57960544) - Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.
 4. [Tunisia's Hafnaoui wins Africa's first Tokyo gold](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
 5. [DRC volcano: Reuniting children with families after the eruption](https://www.bbc.co.uk/news/world-africa-57947193) - Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.
 6. [Tokyo Olympics: Zambia's Banda claims her second hat-trick of Games](https://www.bbc.co.uk/sport/africa/57954736) - Zambia striker Barbra Banda becomes first woman to score back-to-back hat-tricks at the same Olympics in 4-4 Group F draw with China.

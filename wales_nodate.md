@@ -25,4 +25,4 @@
 25. [Cynnydd mewn cwynion 'yn bennaf oherwydd Neil McEvoy'](https://www.bbc.co.uk/newyddion/57948256) - O'r 216 o gwynion i'r Comisiynydd Safonau y llynedd am Aelodau'r Senedd, roedd 97 yn erbyn y cyn-AS.
 26. [Claf canser wedi cael 'safon wael o ofal', medd ombwdsmon](https://www.bbc.co.uk/newyddion/57963401) - Mae Bwrdd Iechyd Cwm Taf Morgannwg wedi cytuno ar sawl argymhelliad yn sgil yr adroddiad damniol.
 27. [Seiclwr ifanc yn anelu am yr Olympics](https://www.bbc.co.uk/newyddion/57941553) - Mae Huw Buck Jones wedi ei ddewis i dîm beicio mynydd Prydain ac yn gobeithio gwneud gyrfa ohoni.
-28. [Buddugoliaeth i Forgannwg yn erbyn Northants](https://www.bbc.co.uk/newyddion/57963402) - Morgannwg ar ben eu grŵp wedi buddugoliaeth yn erbyn Sir Northampton.
+28. [Cynnwys syrffio yn y Gemau Olympaidd yn hwb i'r gamp](https://www.bbc.co.uk/newyddion/57948260) - Clwb Syrffio Pen Llŷn yn dweud bod twf aruthrol yn nifer y bobl leol sydd am fanteisio ar donnau Cymru.

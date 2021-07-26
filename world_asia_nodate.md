@@ -1,6 +1,6 @@
 1. [Tencent shares slide after Beijing crackdown on music rights](https://www.bbc.co.uk/news/business-57966023) - China's market watchdog said the technology giant broke the country's anti-competition rules.
 2. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
-3. [Tokyo 2020: S Korea TV sorry for using pizza to depict Italy](https://www.bbc.co.uk/news/world-asia-57966293) - MBC also used Chernobyl to depict Ukraine and Dracula to show Romania at the Opening Ceremony.
+3. [Tokyo 2020: S Korea TV sorry for using pizza to depict Italy](https://www.bbc.co.uk/news/world-asia-57966293) - MBC also used Chernobyl to depict Ukraine and Dracula to show Romania at the Olympics opening ceremony.
 4. [India landslide: Nine tourists killed as boulders fall from hilltop](https://www.bbc.co.uk/news/world-asia-india-57955964) - A vehicle carrying tourists from Delhi is struck by large rocks in the state of Himachal Pradesh.
 5. [Tokyo Olympics: One athlete braved sharks and crocodiles](https://www.bbc.co.uk/news/world-australia-57938909) - Training for the Olympics can be a full-time job but Jo Brigden-Jones has combined it with much more.
 6. [India monsoon: Rescuers search for survivors after heavy rains](https://www.bbc.co.uk/news/world-asia-india-57952521) - Heavy rains have battered India's western coast, leaving dozens dead and prompting mass evacuations.
