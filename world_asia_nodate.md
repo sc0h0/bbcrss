@@ -1,6 +1,6 @@
 1. [Archibald Prize: 100 years of Australia's top portrait honour](https://www.bbc.co.uk/news/world-australia-57967778) - Over 100 years, the Archibald Prize has become better at reflecting Australian diversity.
 2. [Afghanistan: Record civilian casualties in 2021, UN reports](https://www.bbc.co.uk/news/world-asia-57967960) - More than 1,600 civilians have been killed so far in 2021, and the UN fears a further rise.
-3. [US accused of demonising China in high-level talks](https://www.bbc.co.uk/news/world-asia-china-57966427) - US Deputy Secretary of State Wendy Sherman is the most senior official to visit under Mr Biden.
+3. [China accuses US of oppressing Beijing in high-level talks](https://www.bbc.co.uk/news/world-asia-china-57966427) - Senior Washington and Beijing officials clash on issues including sanctions, tariffs and human rights.
 4. [Sandstorm swallows city in northwestern China](https://www.bbc.co.uk/news/world-asia-china-57973810) - Dust clouds towered at least 100 metres (330ft) over Dunhuang.
 5. [Tokyo Olympics: Momiji Nishiya wins skateboarding gold at just 13](https://www.bbc.co.uk/sport/olympics/57966611) - At the age of 13, Japan's Momiji Nishiya wins the first-ever Olympic gold medal in women's street skateboarding.
 6. [Dieter Brummer: Home and Away actor dies aged 45](https://www.bbc.co.uk/news/world-australia-57967777) - Brummer famously played Shane Parrish - Melissa George's love interest on the TV soap in the 1990s.

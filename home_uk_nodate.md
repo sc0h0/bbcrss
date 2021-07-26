@@ -5,7 +5,7 @@
 5. [Covid: More pinged workers eligible for daily tests instead of isolation](https://www.bbc.co.uk/news/uk-politics-57977282) - Waste workers, prison staff and defence workers will be able to avoid isolation, the government says.
 6. [Covid-19: New cases fall for sixth day running and lockdown weight gain](https://www.bbc.co.uk/news/uk-57972579) - Five things you need to know about the coronavirus pandemic this Monday evening.
 7. [Bernadette Walker: Scott Walker guilty of murder](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57931813) - Scott Walker murdered Bernadette Walker, 17, and her mother Sarah helped cover up the killing.
-8. [Whipps Cross Hospital patients evacuated after flooding](https://www.bbc.co.uk/news/uk-england-london-57971381) - Planned surgery and outpatient appointments at Whipps Cross Hospital are cancelled after "huge" floods.
+8. [US combat forces to leave Iraq by end of year](https://www.bbc.co.uk/news/world-us-canada-57970464) - The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.
 9. [COP26 climate summit president says progress made, but not enough](https://www.bbc.co.uk/news/science-environment-57975025) - The first in-person climate meeting in 18 months sees tentative progress, but not enough.
 10. [Joey Barton denies assaulting his wife Georgia](https://www.bbc.co.uk/news/uk-england-bristol-57969765) - The Bristol Rovers manager allegedly left his wife with a head injury in an attack in Kew, London.
 11. [Canterbury Cathedral stained glass is among world's oldest](https://www.bbc.co.uk/news/science-environment-57768815) - New research indicates that stained glass windows from Canterbury Cathedral may be among the oldest in the world.

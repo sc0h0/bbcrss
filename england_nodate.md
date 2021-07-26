@@ -7,9 +7,9 @@
 7. [Speakers' Corner: Counter-terrorism police probe knife attack](https://www.bbc.co.uk/news/uk-england-london-57973119) - A 39-year-old woman suffered a slash injury to the face during the assault.
 8. [Stockwell Six: Fourth member of group to appeal against conviction](https://www.bbc.co.uk/news/uk-england-london-57973112) - Texo Johnson was one of six men to be wrongly jailed for a robbery in south London nearly 50 years ago.
 9. [Wayne Rooney reports photos to Greater Manchester Police](https://www.bbc.co.uk/news/uk-england-manchester-57970044) - The images appear to show the ex-England footballer asleep with unknown women posing beside him.
-10. [Tokyo Olympics: Nerves of Adam Peaty's family before swim](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57972870) - They say they have been feeling the pressure of the Olympic swimmer's title defence.
+10. [Tom Daley's home city Plymouth celebrates Olympic gold medal](https://www.bbc.co.uk/news/uk-england-devon-57978334) - Supporters and leaders in the diving champion's home city are celebrating his historic victory.
 11. [Birmingham's Selfridges covered in huge artistic wrap](https://www.bbc.co.uk/news/uk-england-birmingham-57976604) - Osman Yousefzada designed the temporary cover which he says is aimed at giving a "message of hope".
-12. [Tom Daley's home city Plymouth celebrates Olympic gold medal](https://www.bbc.co.uk/news/uk-england-devon-57978334) - Supporters and leaders in the diving champion's home city are celebrating his historic victory.
+12. [Tokyo Olympics: Nerves of Adam Peaty's family before swim](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57972870) - They say they have been feeling the pressure of the Olympic swimmer's title defence.
 13. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
 14. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
 15. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
