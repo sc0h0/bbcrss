@@ -1,8 +1,8 @@
 1. [Greece seeks spear fisher who killed famous seal](https://www.bbc.co.uk/news/world-europe-57969485) - Kostis, a rare Mediterranean monk seal rescued as a pup, is killed by a spear gun.
 2. [German lawyers wrangle over pensioner's WW2 tank in basement](https://www.bbc.co.uk/news/world-europe-57965260) - The 84-year-old kept the vehicle in his basement, along with an anti-aircraft gun and a torpedo.
-3. [Pink offers to pay bikini bottoms fine for Norway women's handball team](https://www.bbc.co.uk/news/entertainment-arts-57967486) - The Norway women's side were last week fined for wearing shorts instead of bikini bottoms in a match.
-4. [Coronavirus: Irish pubs and restaurants resume indoor service](https://www.bbc.co.uk/news/world-europe-57965158) - Many pubs, especially those that don't serve food, have been closed since March 2020.
-5. [Triathlon gold goes to Norway at Tokyo 2020](https://www.bbc.co.uk/sport/olympics/57965589) - Great Britain's Alex Yee wins silver in a punishing men's triathlon at the Tokyo Olympics as Kristian Blummenfelt of Norway claims gold.
+3. [Nikola Tesla: Sparks fly over plans to honour inventor with coin](https://www.bbc.co.uk/news/world-europe-57969489) - Both Croatia and Serbia claim Nikola Tesla, pioneer of alternating current electricity, as their hero.
+4. [Pink offers to pay bikini bottoms fine for Norway women's handball team](https://www.bbc.co.uk/news/entertainment-arts-57967486) - The Norway women's side were last week fined for wearing shorts instead of bikini bottoms in a match.
+5. [Coronavirus: Irish pubs and restaurants resume indoor service](https://www.bbc.co.uk/news/world-europe-57965158) - Many pubs, especially those that don't serve food, have been closed since March 2020.
 6. [Tokyo 2020: S Korea TV sorry for using pizza to depict Italy](https://www.bbc.co.uk/news/world-asia-57966293) - MBC also used Chernobyl to depict Ukraine and Dracula to show Romania at the Olympics opening ceremony.
 7. [Hugo Millan: Spaniard, 14, dies after crash at MotorLand Aragon](https://www.bbc.co.uk/sport/motorsport/57961530) - Hugo Millan, a 14-year-old motorbike rider, has died after crashing at a race in Spain.
 8. [Could Covid vaccine be taken as a pill?](https://www.bbc.co.uk/news/health-57553602) - Researchers are looking at easier ways for people to get the vaccine, including via inhalers and tablets.
