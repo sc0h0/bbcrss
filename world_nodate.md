@@ -5,8 +5,8 @@
 5. [Climate change: Israel to cut 85% of emissions by mid-century](https://www.bbc.co.uk/news/world-middle-east-57965028) - PM Naftali Bennett says the decision will help the country gradually shift to a low-carbon economy.
 6. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
 7. [Deadly street protests over Iran water shortages](https://www.bbc.co.uk/news/world-middle-east-57948717) - Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.
-8. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
-9. [Australia Covid: Anti-lockdown protesters condemned](https://www.bbc.co.uk/news/world-australia-57960044) - It comes after thousands marched through Australian cities to demand an end to lockdown measures.
+8. [Tokyo 2020: S Korea TV sorry for using pizza to depict Italy](https://www.bbc.co.uk/news/world-asia-57966293) - MBC also used Chernobyl to depict Ukraine and Dracula to show Romania at the Opening Ceremony.
+9. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
 10. [Rockslide destroys bridge in northern India](https://www.bbc.co.uk/news/world-asia-india-57964308) - It was one of several landslides in Himachal Pradesh on Sunday.
 11. [Jackie Mason, rabbi turned comedian, dies aged 93](https://www.bbc.co.uk/news/world-us-canada-57960048) - The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.
 12. [Nigeria school kidnappers abduct man delivering ransom](https://www.bbc.co.uk/news/world-africa-57960544) - Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.
