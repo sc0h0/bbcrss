@@ -1,4 +1,4 @@
-1. [Bernadette Walker: Scott Walker guilty of murder](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57931813) - Scott Walker killed Bernadette Walker, 17, whose body has never been found.
+1. [Bernadette Walker: Scott Walker guilty of murder](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57931813) - Scott Walker killed his ex-partner's daughter Bernadette Walker, whose body has never been found.
 2. [Whipps Cross Hospital patients evacuated after flooding](https://www.bbc.co.uk/news/uk-england-london-57971381) - "Major incident" at Whipps Cross Hospital as fire brigade takes 1,000 flood calls across London.
 3. [Standon Calling festival-goers make most of mud as heavy rain hits](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57969974) - Organisers of the festival call it off due to flooding and risk of lightning.
 4. [Tokyo Olympics: Tom Daley and Matty Lee win gold in men's synchronised 10m platform](https://www.bbc.co.uk/sport/olympics/57966599) - Britain's Tom Daley wins a first Olympic gold medal as he claims victory alongside Matty Lee in the men's synchronised 10m platform.

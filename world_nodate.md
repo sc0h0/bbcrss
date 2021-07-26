@@ -16,11 +16,11 @@
 16. [Maharashtra: How one city avoided worst of India floods](https://www.bbc.co.uk/news/world-asia-india-57969153) - At least 149 people have died across the Indian state this monsoon season.
 17. [Covid-19: Recent claims about cremations and vaccines fact-checked](https://www.bbc.co.uk/news/57941113) - Debunking claims shared widely on social media about cremations in the UK and US vaccine statistics.
 18. [Excitement over wooden shipwreck found in Antigua's seabed](https://www.bbc.co.uk/news/world-latin-america-57878969) - Historians believe the wreck found in Antigua to be the 1762 Beaumont, a French merchant ship.
-19. [Sandstorm swallows city in northwestern China](https://www.bbc.co.uk/news/world-asia-china-57973810) - Dust clouds towered at least 100 metres (330ft) over Dunhuang.
-20. [Rockslide destroys bridge in northern India](https://www.bbc.co.uk/news/world-asia-india-57964308) - It was one of several landslides in Himachal Pradesh on Sunday.
-21. [Afrobeats in Japan: British-Nigerian hip hop dancer teaching children how to dance](https://www.bbc.co.uk/news/world-africa-57949287) - Yinka Oshiletu, a British-Nigerian hip hop dancer is bringing Afrobeats sounds to Japan's young dancers.
-22. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
-23. [ICYMI: World's deepest pool and a royal ritual resumes](https://www.bbc.co.uk/news/world-57950189) - Here's a round-up of the week's news you might have missed.
+19. [Tunisia: Key moments as political turmoil unfolds](https://www.bbc.co.uk/news/world-africa-57972459) - Tunisia's president sacks the PM and the speaker is barred entry to parliament following violent protests.
+20. [Sandstorm swallows city in northwestern China](https://www.bbc.co.uk/news/world-asia-china-57973810) - Dust clouds towered at least 100 metres (330ft) over Dunhuang.
+21. [Rockslide destroys bridge in northern India](https://www.bbc.co.uk/news/world-asia-india-57964308) - It was one of several landslides in Himachal Pradesh on Sunday.
+22. [Afrobeats in Japan: British-Nigerian hip hop dancer teaching children how to dance](https://www.bbc.co.uk/news/world-africa-57949287) - Yinka Oshiletu, a British-Nigerian hip hop dancer is bringing Afrobeats sounds to Japan's young dancers.
+23. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
 24. [Slowest qualifier wins shock swimming title](https://www.bbc.co.uk/sport/olympics/57959479) - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.
 25. [Austrian wins shock Olympic cycling gold](https://www.bbc.co.uk/sport/olympics/57960575) - Austria's Anna Kiesenhofer launches a remarkable solo breakaway to win road race gold on her Olympic debut, as Britain's Lizzie Deignan finishes 11th.
 26. [Tokyo Olympics medals table](https://www.bbc.co.uk/sport/olympics/57836709) - Medals table for the 2020 Olympics in Tokyo.
