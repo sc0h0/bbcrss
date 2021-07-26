@@ -1,5 +1,5 @@
 1. [Pink offers to pay bikini bottoms fine for Norway women's handball team](https://www.bbc.co.uk/news/entertainment-arts-57967486) - The Norway women's side were last week fined for wearing shorts instead of bikini bottoms in a match.
-2. [Coronavirus: Irish pubs and restaurants to resume indoor service](https://www.bbc.co.uk/news/world-europe-57965158) - Many pubs, especially those that don't serve food, have been closed since March 2020.
+2. [Coronavirus: Irish pubs and restaurants resume indoor service](https://www.bbc.co.uk/news/world-europe-57965158) - Many pubs, especially those that don't serve food, have been closed since March 2020.
 3. [Triathlon gold goes to Norway at Tokyo 2020](https://www.bbc.co.uk/sport/olympics/57965589) - Great Britain's Alex Yee wins silver in a punishing men's triathlon at the Tokyo Olympics as Kristian Blummenfelt of Norway claims gold.
 4. [Flooded London hospitals ask patients to stay away](https://www.bbc.co.uk/news/uk-57965298) - Torrential rain saw severe flooding in homes, roads and tube stations in parts of London on Sunday.
 5. [Tokyo 2020: S Korea TV sorry for using pizza to depict Italy](https://www.bbc.co.uk/news/world-asia-57966293) - MBC also used Chernobyl to depict Ukraine and Dracula to show Romania at the Olympics opening ceremony.

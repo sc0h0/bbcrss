@@ -1,5 +1,5 @@
-1. [US accused of demonising China in high-level talks](https://www.bbc.co.uk/news/world-asia-china-57966427) - US Deputy Secretary of State Wendy Sherman is the most senior official to visit under Mr Biden.
-2. [Covid: Fauci says US heading in wrong direction as cases rise](https://www.bbc.co.uk/news/world-us-canada-57962387) - President Joe Biden's top medical adviser says cases are rising in areas with low vaccination rates.
+1. [Covid: Fauci says US heading in wrong direction as cases rise](https://www.bbc.co.uk/news/world-us-canada-57962387) - President Joe Biden's top medical adviser says cases are rising in areas with low vaccination rates.
+2. [US accused of demonising China in high-level talks](https://www.bbc.co.uk/news/world-asia-china-57966427) - US Deputy Secretary of State Wendy Sherman is the most senior official to visit under Mr Biden.
 3. [Jackie Mason, rabbi turned comedian, dies aged 93](https://www.bbc.co.uk/news/world-us-canada-57960048) - The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.
 4. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
 5. [Pink offers to pay bikini bottoms fine for Norway women's handball team](https://www.bbc.co.uk/news/entertainment-arts-57967486) - The Norway women's side were last week fined for wearing shorts instead of bikini bottoms in a match.
