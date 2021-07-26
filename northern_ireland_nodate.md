@@ -1,4 +1,4 @@
-1. [Covid-19: ICU numbers increase over weekend](https://www.bbc.co.uk/news/uk-northern-ireland-57968664) - The chief nursing officer says a surge in demand due to Covid has come more quickly than expected.
+1. [Covid-19: Hospital pressures mount as ICU numbers increase](https://www.bbc.co.uk/news/uk-northern-ireland-57968664) - The chief nursing officer says a surge in demand due to Covid has come more quickly than expected.
 2. [Covid-19: Executive to consider theatre and concert reopening](https://www.bbc.co.uk/news/uk-northern-ireland-57965166) - A number of Covid-19 restrictions will lift today such as increased limits on outdoor meetings.
 3. [Coronavirus: Irish pubs and restaurants to resume indoor service](https://www.bbc.co.uk/news/world-europe-57965158) - Many pubs, especially those that don't serve food, have been closed since March 2020.
 4. [Lisnaskea: Firefighters still on the scene at Tully Forest](https://www.bbc.co.uk/news/uk-northern-ireland-57964348) - One appliance remains at the scene of the Tully Forest fire in Lisnaskea.

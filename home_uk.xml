@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 10:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 10:49:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,28 @@
             <description><![CDATA[Six people died in accidents on Loch Lomond and on rivers in South Lanarkshire between Friday and Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57968392</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57968392</guid>
-            <pubDate>Mon, 26 Jul 2021 08:52:09 GMT</pubDate>
+            <pubDate>Mon, 26 Jul 2021 10:32:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dieter Brummer: Home and Away actor dies aged 45]]></title>
+            <description><![CDATA[Brummer famously played Shane Parrish - Melissa George's love interest on the TV soap in the 1990s.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57967777</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57967777</guid>
+            <pubDate>Mon, 26 Jul 2021 10:32:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joey Barton denies assaulting his wife Georgia]]></title>
+            <description><![CDATA[The Bristol Rovers manager allegedly left his wife with a head injury in an attack in Kew, London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-57969765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-57969765</guid>
+            <pubDate>Mon, 26 Jul 2021 10:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tunisia's PM sacked after violent Covid protests]]></title>
+            <description><![CDATA[The president says he is taking over, after a virus surge reignites economic and political unrest.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57958555</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57958555</guid>
+            <pubDate>Mon, 26 Jul 2021 10:31:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Fauci says US heading in wrong direction as cases rise]]></title>
@@ -42,27 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57962387</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57962387</guid>
             <pubDate>Sun, 25 Jul 2021 19:56:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dieter Brummer: Home and Away actor dies aged 45]]></title>
-            <description><![CDATA[Brummer famously played Shane Parrish - Melissa George's love interest on the TV soap in the 1990s.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57967777</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57967777</guid>
-            <pubDate>Mon, 26 Jul 2021 09:53:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joey Barton denies assault charge against woman]]></title>
-            <description><![CDATA[The Bristol Rovers manager is accused of attacking a woman, leaving her with a head injury.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-57969765</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-57969765</guid>
-            <pubDate>Mon, 26 Jul 2021 10:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tunisia's PM sacked after violent Covid protests]]></title>
-            <description><![CDATA[The president says he is taking over, after a virus surge reignites economic and political unrest.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57958555</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57958555</guid>
-            <pubDate>Mon, 26 Jul 2021 09:32:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senior doctors in England to be consulted on NHS pay offer]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Mon, 26 Jul 2021 09:17:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[National Adoption Strategy: £48m to improve services in England]]></title>
-            <description><![CDATA[A new National Adoption Strategy aims to enhance support to families and end a postcode lottery.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57962679</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57962679</guid>
-            <pubDate>Mon, 26 Jul 2021 09:15:52 GMT</pubDate>
+            <title><![CDATA[Sir Richard Sutton: Murder accused pleads not guilty]]></title>
+            <description><![CDATA[Thomas Schreiber is charged with murdering one of UK's richest men, Sir Richard Sutton, in Dorset.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-57969536</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-57969536</guid>
+            <pubDate>Mon, 26 Jul 2021 10:02:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Researchers begin discussions on vital report]]></title>
@@ -115,7 +115,7 @@
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Tom Daley and Matty Lee win gold in men's synchronised 10m platform]]></title>
-            <description><![CDATA[Tom Daley wins a first Olympic gold medal as he claims victory alongside Matty Lee in the men's synchronised 10m platform.]]></description>
+            <description><![CDATA[Britain's Tom Daley wins a first Olympic gold medal as he claims victory alongside Matty Lee in the men's synchronised 10m platform.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57966599</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966599</guid>
             <pubDate>Mon, 26 Jul 2021 09:25:04 GMT</pubDate>
@@ -128,11 +128,11 @@
             <pubDate>Mon, 26 Jul 2021 07:58:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Adam Peaty defends swimming title, Alex Yee wins triathlon silver]]></title>
-            <description><![CDATA[It's day three of the Tokyo Olympics, where Adam Peaty has won Team GB's first gold medal of the Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57966473</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966473</guid>
-            <pubDate>Mon, 26 Jul 2021 05:53:47 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: GB's Lauren Williams reaches women's -67kg taekwondo final]]></title>
+            <description><![CDATA[Great Britain's Lauren Williams is guaranteed a medal in the women's -67kg taekwondo competition at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57968427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968427</guid>
+            <pubDate>Mon, 26 Jul 2021 08:13:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics medals table]]></title>
@@ -147,6 +147,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/57965589</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57965589</guid>
             <pubDate>Mon, 26 Jul 2021 00:11:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Adam Peaty defends swimming title, Alex Yee wins triathlon silver]]></title>
+            <description><![CDATA[It's day three of the Tokyo Olympics, where Adam Peaty has won Team GB's first gold medal of the Games.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57966473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966473</guid>
+            <pubDate>Mon, 26 Jul 2021 05:53:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Momiji Nishiya wins skateboarding gold at just 13]]></title>
@@ -296,18 +303,11 @@
             <pubDate>Sat, 24 Jul 2021 23:10:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tom Daley and Matty Lee claim gold in men's synchronised 10m platform at Tokyo Olympics]]></title>
-            <description><![CDATA[Watch as Team GB's Tom Daley and Matty Lee win a brilliant diving gold in the men's synchronised 10m platform.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57966541</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57966541</guid>
-            <pubDate>Mon, 26 Jul 2021 07:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: GB's Lauren Williams reaches women's -67kg taekwondo final]]></title>
-            <description><![CDATA[Great Britain's Lauren Williams is guaranteed a medal in the women's -67kg taekwondo competition at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57968427</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968427</guid>
-            <pubDate>Mon, 26 Jul 2021 08:13:36 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Tom Daley and Matty Lee take diving gold - highlights]]></title>
+            <description><![CDATA[Watch highlights as Tom Daley ends his long wait for an Olympic gold medal with a sublime display alongside Matty Lee in the men's synchronised 10m platform.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57968328</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57968328</guid>
+            <pubDate>Mon, 26 Jul 2021 10:09:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB's Tom Pidcock wins gold in mountain bike cross-country]]></title>
@@ -343,6 +343,13 @@
             <link>https://www.bbc.co.uk/sport/35176037</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/35176037</guid>
             <pubDate>Wed, 16 Jun 2021 07:57:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Incredible attitude' - Gerrard praises 'exciting' Sakala after Rangers beat Real Madrid]]></title>
+            <description><![CDATA[Rangers boss Steven Gerrard hails the "incredible attitude" of Fashion Sakala as the forward scores in a 2-1 friendly victory over Real Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57968157</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57968157</guid>
+            <pubDate>Mon, 26 Jul 2021 08:38:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What has changed?]]></title>
