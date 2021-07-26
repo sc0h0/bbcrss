@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 07:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 07:42:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,14 @@
             <description><![CDATA[Torrential rain saw severe flooding in homes, roads and tube stations in parts of London on Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-57965298</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57965298</guid>
-            <pubDate>Mon, 26 Jul 2021 06:55:44 GMT</pubDate>
+            <pubDate>Mon, 26 Jul 2021 07:39:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Tom Daley and Matty Lee win gold in men's synchronised 10m platform]]></title>
             <description><![CDATA[Tom Daley wins a first gold medal at his fourth Olympic Games as he claims victory alongside Matty Lee in the men's synchronised 10m platform.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57966599</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966599</guid>
-            <pubDate>Mon, 26 Jul 2021 07:25:36 GMT</pubDate>
+            <pubDate>Mon, 26 Jul 2021 07:40:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adam Peaty wins GB's first gold of Tokyo Games]]></title>
@@ -163,6 +163,13 @@
             <pubDate>Fri, 23 Jul 2021 23:00:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Great Britain's Tom Pidcock takes mountain biking gold]]></title>
+            <description><![CDATA[Great Britain's Tom Pidcock claims Olympic gold with a dominant display in the men's mountain bike cross-country in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57967799</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57967799</guid>
+            <pubDate>Mon, 26 Jul 2021 07:39:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Hundred: Matt Parkinson stars as Originals beat Phoenix for first win]]></title>
             <description><![CDATA[Matt Parkinson bamboozles Birmingham Phoenix with a sensational spell of leg-spin bowling to give Manchester Originals their first win of The Hundred.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57964027</link>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/sport/football/57963468</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57963468</guid>
             <pubDate>Sun, 25 Jul 2021 16:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Super League: Further postponements for St Helens and Castleford Tigers]]></title>
-            <description><![CDATA[Super League games involving St Helens and Castleford Tigers are postponed because of coronavirus cases at the two clubs.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/57964789</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/57964789</guid>
-            <pubDate>Sun, 25 Jul 2021 18:19:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
