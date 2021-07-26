@@ -2,7 +2,7 @@
 2. [Almost 600 migrant Channel crossings at weekend](https://www.bbc.co.uk/news/uk-57966417) - Home secretary says she is determined to stop journeys, after record number of attempts last month.
 3. [National Adoption Strategy: £48m to improve services in England](https://www.bbc.co.uk/news/uk-57962679) - A new National Adoption Strategy aims to enhance support to families and end a postcode lottery.
 4. [Senior doctors in England to be consulted on NHS pay offer](https://www.bbc.co.uk/news/uk-57964780) - The BMA doctors' union says the 3% pay rise offer for NHS staff in England is "bitterly disappointing".
-5. [Covid: Lockdown protest at Mark Drakeford's home 'crossed line'](https://www.bbc.co.uk/news/uk-wales-57963035) - Mark Drakeford's predecessor says protesters used "a favourite tactic of the far right in America".
+5. [First minister security review call after home protest](https://www.bbc.co.uk/news/uk-wales-57960252) - Anti-lockdown protest branded "totally unacceptable" by former head of security for the Royal Family.
 6. [Daily tests not self-isolation for police, fire, borders, transport and freight staff](https://www.bbc.co.uk/news/uk-57950930) - Police, fire, borders and transport staff are now eligible in England, with 200 new test centres promised.
 7. [Sajid Javid apologises for 'cower' Covid remark](https://www.bbc.co.uk/news/uk-57961870) - The health secretary says he used a poor choice of word in a tweet, after criticism from victims' group.
 8. [Climate change: Researchers begin discussions on vital report](https://www.bbc.co.uk/news/science-environment-57944015) - A two-week virtual negotiation begins on the most critical climate change report since 2013.
