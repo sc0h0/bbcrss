@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 02:51:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 04:08:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-57958555</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57958555</guid>
             <pubDate>Mon, 26 Jul 2021 02:22:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand to allow IS-linked mother to be repatriated]]></title>
+            <description><![CDATA[Permission for a mother and her children to travel was not taken lightly, NZ prime minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57965825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57965825</guid>
+            <pubDate>Mon, 26 Jul 2021 03:51:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Triathlon gold goes to Norway at Tokyo 2020]]></title>
@@ -58,13 +65,6 @@
             <pubDate>Sun, 25 Jul 2021 23:06:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jackie Mason, rabbi turned comedian, dies aged 93]]></title>
-            <description><![CDATA[The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57960048</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57960048</guid>
-            <pubDate>Sun, 25 Jul 2021 14:25:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Meteor wows Norway after blazing through night sky]]></title>
             <description><![CDATA[The meteor is believed to have landed in a forest after flashes of light were seen across Norway.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57962384</link>
@@ -86,11 +86,11 @@
             <pubDate>Sun, 25 Jul 2021 16:25:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Typhoon sweeps into eastern China after flooding chaos]]></title>
-            <description><![CDATA[A major storm makes landfall in the city of Zhoushan, days after floods devastated central areas.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57955138</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57955138</guid>
-            <pubDate>Sun, 25 Jul 2021 10:37:32 GMT</pubDate>
+            <title><![CDATA[Jackie Mason, rabbi turned comedian, dies aged 93]]></title>
+            <description><![CDATA[The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57960048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57960048</guid>
+            <pubDate>Sun, 25 Jul 2021 14:25:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nigeria school kidnappers abduct man delivering ransom]]></title>
