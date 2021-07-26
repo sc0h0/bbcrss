@@ -1,5 +1,5 @@
 1. [Man tried to save wife and son from drowning in Loch Lomond](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57972950) - Waris Ali tells the BBC that the water at the end of a Loch Lomond pier had "looked very safe".
-2. [Long Covid has left me feeling 'so much older' than 23](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57968732) - A nurse in her early 20s who became unwell in November 2020 after testing positive for Covid has "never really recovered fully".
+2. [Long Covid: 'I don't feel 23 anymore, I feel so much older'](https://www.bbc.co.uk/news/uk-scotland-57978645) - Heather Campbell tested positive for the virus last November, six months after she started her nursing career.
 3. [Covid: The healthcare heroes vaccinating Scotland](https://www.bbc.co.uk/news/uk-scotland-57602460) - Meet the people who have gone above and beyond to get jabs into arms across the country.
 4. [Shetland fires 'should act as warning to modular building industry'](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57942459) - Two devastating fires involved buildings made from factory-built units brought up to islands by sea.
 5. [Ally Dawson: Former Rangers and Scotland player dies aged 63](https://www.bbc.co.uk/sport/football/57974323) - Ally Dawson, the former Rangers, Blackburn, Airdrie and Scotland player, has died aged 63.
