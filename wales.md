@@ -24,5 +24,5 @@
 24. ['Angen i beilot Cyflog Sylfaenol gynnwys pawb'](https://www.bbc.co.uk/newyddion/57963396) - Mon, 26 Jul 2021 05:42:55 GMT - Mae Llywodraeth Cymru wedi awgrymu mai dim ond pobl sydd wedi gadael gofal fydd yn rhan o'r cynllun peilot.
 25. [Cynnydd mewn cwynion 'yn bennaf oherwydd Neil McEvoy'](https://www.bbc.co.uk/newyddion/57948256) - Mon, 26 Jul 2021 06:04:13 GMT - O'r 216 o gwynion i'r Comisiynydd Safonau y llynedd am Aelodau'r Senedd, roedd 97 yn erbyn y cyn-AS.
 26. [Claf canser wedi cael 'safon wael o ofal', medd ombwdsmon](https://www.bbc.co.uk/newyddion/57963401) - Mon, 26 Jul 2021 05:52:45 GMT - Mae Bwrdd Iechyd Cwm Taf Morgannwg wedi cytuno ar sawl argymhelliad yn sgil yr adroddiad damniol.
-27. [Seiclwr ifanc yn anelu am yr Olympics](https://www.bbc.co.uk/newyddion/57941553) - Sun, 25 Jul 2021 08:09:59 GMT - Mae Huw Buck Jones wedi ei ddewis i dîm beicio mynydd Prydain ac yn gobeithio gwneud gyrfa ohoni.
+27. [Ateb y Galw: Elan Rhys](https://www.bbc.co.uk/newyddion/57947173) - Mon, 26 Jul 2021 09:22:34 GMT - Y gantores Elan Rhys sy'n cael ei holi yr wythnos yma
 28. [Cynnwys syrffio yn y Gemau Olympaidd yn hwb i'r gamp](https://www.bbc.co.uk/newyddion/57948260) - Mon, 26 Jul 2021 06:12:37 GMT - Clwb Syrffio Pen Llŷn yn dweud bod twf aruthrol yn nifer y bobl leol sydd am fanteisio ar donnau Cymru.

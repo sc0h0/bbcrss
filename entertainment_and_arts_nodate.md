@@ -1,5 +1,5 @@
 1. [Dieter Brummer: Home and Away actor dies aged 45](https://www.bbc.co.uk/news/world-australia-57967777) - Brummer famously played Shane Parrish - Melissa George's love interest on the TV soap in the 1990s.
-2. [Pink offers to pay bikini bottoms fine for Norway women's handball team](https://www.bbc.co.uk/news/entertainment-arts-57967486) - The Norway women's side were recently fined for wearing shorts instead of bikini bottoms in a match.
+2. [Pink offers to pay bikini bottoms fine for Norway women's handball team](https://www.bbc.co.uk/news/entertainment-arts-57967486) - The Norway women's side were last week fined for wearing shorts instead of bikini bottoms in a match.
 3. [Standon Calling festival abandoned due to flooding](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57968331) - The music festival, which had a capacity of 15,000, was cancelled during its final day.
 4. [Jackie Mason, rabbi turned comedian, dies aged 93](https://www.bbc.co.uk/news/world-us-canada-57960048) - The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.
 5. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.
