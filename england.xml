@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 13:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 13:46:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Mon, 26 Jul 2021 12:20:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ian Paterson: Plans for further breast surgeon compensation]]></title>
+            <description><![CDATA[A further 5,500 patients of Ian Paterson have been identified since he was jailed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57967899</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57967899</guid>
+            <pubDate>Mon, 26 Jul 2021 13:08:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sir Richard Sutton: Murder accused pleads not guilty]]></title>
             <description><![CDATA[Thomas Schreiber is charged with murdering one of UK's richest men, Sir Richard Sutton, in Dorset.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-dorset-57969536</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-57967324</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-57967324</guid>
             <pubDate>Mon, 26 Jul 2021 08:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol to Weston-super-Mare rail services reduced due to staff isolating]]></title>
-            <description><![CDATA[GWR Bristol to Weston-super-Mare services will be reduced on weekdays and Saturdays until 13 August.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-57940377</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57940377</guid>
-            <pubDate>Mon, 26 Jul 2021 08:38:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
@@ -184,11 +184,11 @@
             <pubDate>Mon, 26 Jul 2021 12:37:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[National Adoption Strategy: £48m to improve services in England]]></title>
-            <description><![CDATA[A new National Adoption Strategy aims to enhance support to families and end a postcode lottery.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57962679</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57962679</guid>
-            <pubDate>Mon, 26 Jul 2021 09:15:52 GMT</pubDate>
+            <title><![CDATA[Bristol to Weston-super-Mare rail services reduced due to staff isolating]]></title>
+            <description><![CDATA[GWR Bristol to Weston-super-Mare services will be reduced on weekdays and Saturdays until 13 August.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-57940377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57940377</guid>
+            <pubDate>Mon, 26 Jul 2021 08:38:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man charged after car hits pedestrians near Blackpool pier]]></title>
@@ -198,25 +198,25 @@
             <pubDate>Mon, 26 Jul 2021 06:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Public artwork dedicated to pandemic NHS staff]]></title>
-            <description><![CDATA[The exhibition honouring key workers visits Birmingham, Manchester, Edinburgh and London.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57961747</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57961747</guid>
-            <pubDate>Mon, 26 Jul 2021 05:21:23 GMT</pubDate>
+            <title><![CDATA[Tramlines 2021: Musicians 'overwhelmed' as festival returns]]></title>
+            <description><![CDATA[Organisers say it was "incredible" to see people back with their friends, enjoying the music.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-57968341</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-57968341</guid>
+            <pubDate>Mon, 26 Jul 2021 11:12:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Adam Peaty makes history as he wins Great Britain's first gold of Games]]></title>
-            <description><![CDATA[Adam Peaty writes his name into the history books once again as he wins 100m breaststroke gold in Tokyo to become the first British swimmer to defend his Olympic title.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57965943</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57965943</guid>
-            <pubDate>Mon, 26 Jul 2021 03:55:48 GMT</pubDate>
+            <title><![CDATA[Tom Daley: The boy with the Olympic dream that came true]]></title>
+            <description><![CDATA[The 'baby' of Beijing became a father, a husband and an LGBTQ+ spokesperson. And now Tom Daley is an Olympic gold medallist. This is his story.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57968119</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968119</guid>
+            <pubDate>Mon, 26 Jul 2021 12:53:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Tom Pidcock wins mountain bike gold for GB]]></title>
-            <description><![CDATA[Great Britain's Tom Pidcock claims Olympic gold in the mountain bike cross-country - two months after breaking a collarbone.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57967799</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57967799</guid>
-            <pubDate>Mon, 26 Jul 2021 11:17:30 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Adam Peaty becomes two-time Olympic champion - immortality next?]]></title>
+            <description><![CDATA[Adam Peaty won 100m breaststroke gold on Monday to become a double Olympic champion - and there's plenty more to come from the Briton.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57968850</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968850</guid>
+            <pubDate>Mon, 26 Jul 2021 11:51:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Gold medals for Team GB's Adam Peaty, Tom Daley and Matty Lee, and Tom Pidcock]]></title>
@@ -224,13 +224,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/57968233</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968233</guid>
             <pubDate>Mon, 26 Jul 2021 08:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tottenham sign Bryan Gil as Erik Lamela joins Sevilla]]></title>
-            <description><![CDATA[Tottenham sign Sevilla winger Bryan Gil, with Spurs midfielder Erik Lamela joining the Spanish club as part of the deal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57934261</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57934261</guid>
-            <pubDate>Mon, 26 Jul 2021 13:11:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
