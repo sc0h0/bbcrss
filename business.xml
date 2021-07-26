@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 22:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 23:17:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[House prices at new high as buyers seek more space]]></title>
+            <description><![CDATA[Strong demand for houses will last into 2022 as buyers react to the pandemic, says property website Zoopla.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57976341</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57976341</guid>
+            <pubDate>Mon, 26 Jul 2021 23:00:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tesla profit surge driven by record car deliveries]]></title>
             <description><![CDATA[The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.]]></description>
@@ -105,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/business-57936883</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57936883</guid>
             <pubDate>Sun, 25 Jul 2021 15:56:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The experiences replacing closed High Street stores]]></title>
-            <description><![CDATA[Go-karts, bowling alleys and eateries have taken the place of closed retailers on the High Street.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57934829</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57934829</guid>
-            <pubDate>Sat, 24 Jul 2021 23:35:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why remote working leaves us vulnerable to cyber-attacks]]></title>

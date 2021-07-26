@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 22:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 23:18:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -289,6 +289,20 @@
             <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Brazil: Why are so many pregnant women dying from Covid?]]></title>
+            <description><![CDATA[One in five women that died from coronavirus in Brazil didn't have access to an intensive care unit.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57974754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57974754</guid>
+            <pubDate>Mon, 26 Jul 2021 23:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parkour athlete: 'She wants to be a doctor so she can fix me']]></title>
+            <description><![CDATA[Luke Callinan, 35, has been diagnosed with a rare form of multiple sclerosis.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57932996</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57932996</guid>
+            <pubDate>Mon, 26 Jul 2021 23:00:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The new surgical tool inspired by a wasp]]></title>
             <description><![CDATA[The device avoids clogging by using friction instead of suction, similar to the way a parasitoid wasp lays its eggs.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57889149</link>
@@ -308,20 +322,6 @@
             <link>https://www.bbc.co.uk/news/health-57923838</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57923838</guid>
             <pubDate>Wed, 21 Jul 2021 23:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The jungle-trekking Covid vaccinators helping to protect remote Indian villages.]]></title>
-            <description><![CDATA[Latgam Singpu and his team use rope bridges, school buses and incentives to reach remote villages.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57917673</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57917673</guid>
-            <pubDate>Wed, 21 Jul 2021 23:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shielders 'feeling abandoned' as coronavirus restrictions lifted]]></title>
-            <description><![CDATA[Three people who were told to shield during lockdown share their concerns as rules are eased in England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57894885</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57894885</guid>
-            <pubDate>Mon, 19 Jul 2021 18:33:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
