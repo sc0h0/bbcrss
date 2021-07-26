@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 05:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 05:47:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -69,7 +69,7 @@
             <description><![CDATA[The 68-year-old was attempting a new route on the world's second highest mountain.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57964217</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57964217</guid>
-            <pubDate>Sun, 25 Jul 2021 17:51:05 GMT</pubDate>
+            <pubDate>Mon, 26 Jul 2021 05:42:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tunisia PM sacked after violent Covid protests]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Sun, 25 Jul 2021 14:32:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New Zealand to allow IS-linked mother to be repatriated]]></title>
-            <description><![CDATA[Permission for a mother and her children to travel was not taken lightly, NZ prime minister says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57965825</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57965825</guid>
-            <pubDate>Mon, 26 Jul 2021 03:51:16 GMT</pubDate>
+            <title><![CDATA[National Adoption Strategy: £48m to improve services in England]]></title>
+            <description><![CDATA[A new National Adoption Strategy aims to enhance support to families and end a postcode lottery.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57962679</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57962679</guid>
+            <pubDate>Sun, 25 Jul 2021 23:50:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Researchers begin discussions on vital report]]></title>
@@ -212,11 +212,25 @@
             <pubDate>Sat, 24 Jul 2021 23:10:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Team GB's first gold and a second silver - what's happened so far on day three?]]></title>
+            <description><![CDATA[It's day three of the Tokyo Olympics, where Adam Peaty has won Team GB's first gold medal of the Games.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57966473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966473</guid>
+            <pubDate>Mon, 26 Jul 2021 05:06:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Naomi Osaka, Garbine Muguruza, Anastasia Pavlyuchenkova into third round of women's singles]]></title>
             <description><![CDATA[Japan's Naomi Osaka cruises into the third round of the Tokyo Olympics women's singles with a 65-minute victory over Viktorija Golubic.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57966463</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966463</guid>
             <pubDate>Mon, 26 Jul 2021 03:44:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Daley & Pidcock in action with 21 gold medals to be won - Olympics day-by-day guide]]></title>
+            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
+            <pubDate>Sun, 25 Jul 2021 15:03:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adam Peaty: Watch emotional interview with Team GB gold medal winner at Tokyo Olympics]]></title>
@@ -233,20 +247,6 @@
             <pubDate>Sun, 25 Jul 2021 19:41:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain beat Canada as Liam Ansell strikes twice]]></title>
-            <description><![CDATA[Liam Ansell finds the net twice as Great Britain's men make it two wins from two at Tokyo 2020 with victory over Canada.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57966593</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966593</guid>
-            <pubDate>Mon, 26 Jul 2021 04:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dominant Wright thrashes Van den Bergh to win World Matchplay]]></title>
-            <description><![CDATA[Peter Wright claims his first World Matchplay title as he thrashes defending champion Dimitri van den Bergh in Blackpool.]]></description>
-            <link>https://www.bbc.co.uk/sport/darts/57965368</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/darts/57965368</guid>
-            <pubDate>Sun, 25 Jul 2021 22:49:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['We know they are coming' - Lions lock Itoje wary of South Africa response]]></title>
             <description><![CDATA[Maro Itoje warns his British and Irish Lions team-mates to take heed of previous tours and expect a strong response from South Africa on Saturday.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57965098</link>
@@ -259,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/35176037</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/35176037</guid>
             <pubDate>Wed, 16 Jun 2021 07:57:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Momiji Nishiya wins skateboarding gold at just 13]]></title>
+            <description><![CDATA[At the age of 13, Japan's Momiji Nishiya wins the first-ever Olympic gold medal in women's street skateboarding.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57966611</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966611</guid>
+            <pubDate>Mon, 26 Jul 2021 05:30:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch: Peaty powers home in 100m breaststroke]]></title>
@@ -282,18 +289,18 @@
             <pubDate>Mon, 26 Jul 2021 04:50:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain beat Canada convincingly in opening rugby sevens match]]></title>
-            <description><![CDATA[Great Britain's men begin their rugby sevens campaign with a convincing 24-0 win over Canada at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57965726</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57965726</guid>
-            <pubDate>Mon, 26 Jul 2021 01:33:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: GB's Alex Yee wins silver in men's triathlon as Kristian Blummenfelt takes gold]]></title>
             <description><![CDATA[Great Britain's Alex Yee wins silver in a punishing men's triathlon at the Tokyo Olympics as Kristian Blummenfelt of Norway claims gold.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57965589</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57965589</guid>
             <pubDate>Mon, 26 Jul 2021 00:11:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Great Britain beat Canada convincingly in opening rugby sevens match]]></title>
+            <description><![CDATA[Great Britain's men begin their rugby sevens campaign with a convincing 24-0 win over Canada at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57965726</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57965726</guid>
+            <pubDate>Mon, 26 Jul 2021 01:33:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: German women's gymnastics team wears full-body suits]]></title>
@@ -322,125 +329,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/57960575</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57960575</guid>
             <pubDate>Sun, 25 Jul 2021 10:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Adam Peaty breezes into 100m breaststroke final]]></title>
-            <description><![CDATA[Adam Peaty will aim to become the first British swimmer to retain an Olympic title when he competes in the 100m breaststroke final at 03:12 BST on Monday.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57958760</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57958760</guid>
-            <pubDate>Sun, 25 Jul 2021 19:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Yuto Horigome wins first ever Olympic skateboarding gold]]></title>
-            <description><![CDATA[Watch as 22-year-old Yuto Horigome of Japan makes history by becoming the first Olympic skateboarding gold medallist.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57959256</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57959256</guid>
-            <pubDate>Sun, 25 Jul 2021 06:09:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Australia set world record in women's 4x100m freestyle relay]]></title>
-            <description><![CDATA[Watch as the Australian women's 4x100 freestyle relay team set a new world record to win gold on day two of the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57960154</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57960154</guid>
-            <pubDate>Sun, 25 Jul 2021 06:25:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Tunisia's Ahmed Hafnaoui wins gold, surfing and skateboarding debut & Jade Jones beaten]]></title>
-            <description><![CDATA[Watch key moments from the early events of day two at the Tokyo Olympics including a swimming shock, new sports taking centre stage and heartbreak for Jade Jones.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57959819</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57959819</guid>
-            <pubDate>Sun, 25 Jul 2021 05:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two-time champion Jones loses in Olympics first round]]></title>
-            <description><![CDATA[Watch the final moments as two-time champion Jade Jones loses in her first match at the Tokyo Olympics to Kimia Alizadeh of the Refugee Olympic Team.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57959259</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57959259</guid>
-            <pubDate>Sun, 25 Jul 2021 03:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: I beat an Olympian... when I was younger]]></title>
-            <description><![CDATA[Radio 1 Newsbeat speaks to people who can boast they once beat some of the current Team GB.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57919563</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57919563</guid>
-            <pubDate>Thu, 22 Jul 2021 10:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: Top 10 days for Team GB at the Olympics]]></title>
-            <description><![CDATA[BBC Sport selects the top 10 unmissable days for Team GB fans at the Tokyo 2020 Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57447260</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57447260</guid>
-            <pubDate>Mon, 19 Jul 2021 13:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>
-            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
-            <pubDate>Sun, 25 Jul 2021 15:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GB's defending champion Whitlock set to make pommel final]]></title>
-            <description><![CDATA[Great Britain's defending champion Max Whitlock reaches the pommel horse final at the Tokyo Olympics with a score of 14.900.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57953352</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57953352</guid>
-            <pubDate>Sat, 24 Jul 2021 11:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: First gold of Games goes to China's Yang Qian in shooting]]></title>
-            <description><![CDATA[Chinese shooter Yang Qian wins the first gold of the Olympics but has to sing her anthem behind a mask and hang her own medal round her neck.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57952436</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57952436</guid>
-            <pubDate>Sat, 24 Jul 2021 06:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: BBC TV schedule, radio and online coverage - times and channels]]></title>
-            <description><![CDATA[Full listings and coverage channels for the Tokyo Olympics across BBC TV, BBC iPlayer, BBC radio and online.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57822560</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57822560</guid>
-            <pubDate>Sat, 24 Jul 2021 17:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Table tennis 12-year-old Hend Zaza, gymnast Zou Jingyuan and 3x3 basketball - best moments]]></title>
-            <description><![CDATA[Watch some of the best moments from the opening events of the Tokyo Olympics including a 12-year-old table tennis player and debut of 3x3 basketball.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57952616</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57952616</guid>
-            <pubDate>Sat, 24 Jul 2021 06:41:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Syria's Hend Zaza, 12, is out, but hopes to inspire others]]></title>
-            <description><![CDATA[Youngest Olympian Hend Zaza, the 12-year-old Syrian table tennis star, wants to inspire others despite losing 4-0 in the preliminary round.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57952235</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57952235</guid>
-            <pubDate>Sat, 24 Jul 2021 05:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: How well do you know Olympic sports lingo?]]></title>
-            <description><![CDATA[Ever heard of a guppy hold? Know which sport would see a pancake used? Test how good your knowledge of Olympic lingo is.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57322644</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57322644</guid>
-            <pubDate>Thu, 15 Jul 2021 04:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polly Swann: Olympic rower on working the wards, training in her shed & unfinished business]]></title>
-            <description><![CDATA[BBC Scotland speaks to Olympic rower Polly Swann on juggling training for Tokyo with working in a surgical ward in the midst of the coronavirus pandemic.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57585733</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57585733</guid>
-            <pubDate>Thu, 22 Jul 2021 06:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Watch best opening ceremony moments in two minutes]]></title>
-            <description><![CDATA[Watch all the best bits from the Tokyo 2020 opening ceremony - including the best of the athletes' entrances and the lighting of the iconic Olympic flame by Naomi Osaka.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57947141</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57947141</guid>
-            <pubDate>Fri, 23 Jul 2021 16:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Team GB athletics - who are the medal hopes?]]></title>
-            <description><![CDATA[Who are Great Britain's big hopes and long shots to get on the podium in Tokyo? London 2012 Olympian and former world silver medallist Hannah England gives her view...]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/57652166</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/57652166</guid>
-            <pubDate>Thu, 01 Jul 2021 06:51:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long Covid: What is it and what are the symptoms?]]></title>
