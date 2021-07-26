@@ -12,7 +12,7 @@
 12. [Oil producing nations agree deal to control prices](https://www.bbc.co.uk/news/business-57882449) - The Opec cartel and Russia will boost supply which should see petrol prices at the pumps come down.
 13. [In pictures: Masks and social distancing at downsized Hajj](https://www.bbc.co.uk/news/world-middle-east-57875572) - Only about 60,000 pilgrims living in Saudi Arabia were eligible to take part this year.
 14. [Iran protests: One killed in water crisis demonstration](https://www.bbc.co.uk/news/world-middle-east-57873405) - Iran is facing a severe drought, and there is growing public anger over water and power shortages.
-15. [How US pullback in Iraq could benefit Iran](https://www.bbc.co.uk/news/world-middle-east-57976007) - The withdrawal of remaining US combat troops could help Iran achieve its ambitions.
+15. [How US military pullback in Iraq could benefit Iran](https://www.bbc.co.uk/news/world-middle-east-57976007) - The withdrawal of remaining US combat troops could help Iran achieve its ambitions.
 16. [Tokyo 2020: Egypt's Sherif to 'play with heart' in historic medal bid](https://www.bbc.co.uk/sport/africa/57844534) - Mayar Sherif will play 'with her heart' as she becomes the first Egyptian woman to play Olympic tennis for her country.
 17. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
 18. [The referee making Olympic history](https://www.bbc.co.uk/sport/africa/57899407) - The first Arab and African woman to referee 3x3 basketball at the Olympics shares how her Muslim faith has guided her career.
