@@ -1,4 +1,4 @@
-1. [Tunisia PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - Protesters clashed with police as they demanded the government be dismissed over Covid failings.
+1. [Tunisia's PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - The president says he is taking over, after a virus surge reignites economic and political unrest.
 2. [Nigerian outrage at brazen bandit attacks](https://www.bbc.co.uk/news/world-africa-57934849) - The shooting down of a military jet shows how organised crime is becoming more daring by the day.
 3. [Mali insurgency: Investigating corruption allegations in the military](https://www.bbc.co.uk/news/world-africa-57946367) - Africa Eye investigates the cycle of death, violence and corruption in Mali's military.
 4. [Nigeria school kidnappers abduct man delivering ransom](https://www.bbc.co.uk/news/world-africa-57960544) - Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.

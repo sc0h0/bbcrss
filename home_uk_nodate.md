@@ -1,7 +1,7 @@
 1. [Adam Peaty wins GB's first gold of Tokyo Games](https://www.bbc.co.uk/sport/olympics/57965943) - Adam Peaty writes his name into the history books once again as he wins 100m breaststroke gold in Tokyo to become the first British swimmer to defend his Olympic title.
 2. [Flooded London hospitals ask patients to stay away](https://www.bbc.co.uk/news/uk-57965298) - Torrential rain saw severe flooding in homes, roads and tube stations in parts of London on Sunday.
 3. [Covid: Fauci says US heading in wrong direction as cases rise](https://www.bbc.co.uk/news/world-us-canada-57962387) - President Joe Biden's top medical adviser says cases are rising in areas with low vaccination rates.
-4. [Tunisia PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - Protesters clashed with police as they demanded the government be dismissed over Covid failings.
+4. [Tunisia's PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - The president says he is taking over, after a virus surge reignites economic and political unrest.
 5. [Covid-19: Falling infections in UK and cases rise in US](https://www.bbc.co.uk/news/uk-57964498) - Five things you need to know about the coronavirus pandemic this Monday morning.
 6. [Senior doctors in England to be consulted on NHS pay offer](https://www.bbc.co.uk/news/uk-57964780) - The BMA doctors' union says the 3% pay rise offer for NHS staff in England is "bitterly disappointing".
 7. [Scottish climber Rick Allen dies in K2 avalanche](https://www.bbc.co.uk/news/uk-scotland-57964217) - The 68-year-old was attempting a new route on the world's second highest mountain.
