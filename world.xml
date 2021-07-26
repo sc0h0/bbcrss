@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 14:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 14:44:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Mon, 26 Jul 2021 12:11:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Greece seeks spear fisher who killed famous seal]]></title>
+            <description><![CDATA[Kostis, a rare Mediterranean monk seal rescued as a pup, is killed by a spear gun.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57969485</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57969485</guid>
+            <pubDate>Mon, 26 Jul 2021 13:27:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dieter Brummer: Home and Away actor dies aged 45]]></title>
             <description><![CDATA[Brummer famously played Shane Parrish - Melissa George's love interest on the TV soap in the 1990s.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-57967777</link>
@@ -72,11 +79,11 @@
             <pubDate>Mon, 26 Jul 2021 03:51:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Fauci says US heading in wrong direction as cases rise]]></title>
-            <description><![CDATA[President Joe Biden's top medical adviser says cases are rising in areas with low vaccination rates.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57962387</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57962387</guid>
-            <pubDate>Sun, 25 Jul 2021 19:56:57 GMT</pubDate>
+            <title><![CDATA[Climate change: Researchers begin discussions on vital report]]></title>
+            <description><![CDATA[A two-week virtual negotiation begins on the most critical climate change report since 2013.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57944015</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57944015</guid>
+            <pubDate>Sun, 25 Jul 2021 23:31:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Momiji Nishiya wins skateboarding gold at just 13]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-57966023</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57966023</guid>
             <pubDate>Mon, 26 Jul 2021 04:45:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Researchers begin discussions on vital report]]></title>
-            <description><![CDATA[A two-week virtual negotiation begins on the most critical climate change report since 2013.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57944015</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57944015</guid>
-            <pubDate>Sun, 25 Jul 2021 23:31:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unesco adds Madrid's Paseo del Prado and Retiro Park to heritage list]]></title>

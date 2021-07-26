@@ -1,5 +1,5 @@
 1. [Daley and Peaty spark Tokyo gold rush for Team GB](https://www.bbc.co.uk/sport/olympics/57972548) - Day three of the Tokyo Olympics was 'Magic Monday' for Team GB with three golds - for divers Tom Daley and Matty Lee, swimmer Adam Peaty and Tom Pidcock in mountain biking.
-2. [Man tried to save wife and son from drowning in Loch Lomond](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57972950) - Waris Ali tells the BBC about his attempts to save his wife, son and a family friend from drowning in Loch Lomond.
+2. [Man tried to save wife and son from drowning in Loch Lomond](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57972950) - Waris Ali tells the BBC that the water at the end of Loch Lomond pier had "looked very safe".
 3. [Whipps Cross Hospital patients evacuated after flooding](https://www.bbc.co.uk/news/uk-england-london-57971381) - "Major incident" at Whipps Cross Hospital as fire brigade takes 1,000 flood calls across London.
 4. [Lockdown weight gain averaging half a stone - survey](https://www.bbc.co.uk/news/health-57968651) - Four in 10 adults in England have become fatter during the pandemic, a survey suggests.
 5. [Bernadette Walker: Scott Walker guilty of murder](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57931813) - Scott Walker killed his ex-partner's daughter Bernadette Walker, whose body has never been found.

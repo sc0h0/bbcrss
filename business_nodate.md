@@ -1,5 +1,5 @@
-1. [Ministers consider blocking China's role in UK nuclear power](https://www.bbc.co.uk/news/business-57967908) - The move, amid rising tensions with Beijing, could impact the development of a plant in Suffolk.
-2. [Air travel yet to meaningfully restart, says UK industry](https://www.bbc.co.uk/news/business-57967907) - Bookings have not recovered due to the "frustrating" traffic light system, a trade group says.
+1. [Air travel yet to meaningfully restart, says UK industry](https://www.bbc.co.uk/news/business-57967907) - Bookings have not recovered due to the "frustrating" traffic light system, a trade group says.
+2. [Ministers consider blocking China's role in UK nuclear power](https://www.bbc.co.uk/news/business-57967908) - The move, amid rising tensions with Beijing, could impact the development of a plant in Suffolk.
 3. [Tesco Bank to close all its current accounts](https://www.bbc.co.uk/news/business-57973960) - The bank says most of the accounts have limited activity and are not being used.
 4. [Amazon Bitcoin job ad boosts cryptocurrency surge](https://www.bbc.co.uk/news/technology-57971451) - News Amazon is hiring a digital-currency expert has helped boost the value of Bitcoin.
 5. [Marlboro maker Philip Morris could stop selling cigarettes in UK](https://www.bbc.co.uk/news/business-57964253) - Health charity Ash said it was hard to take such claims seriously from a cigarette manufacturer.
