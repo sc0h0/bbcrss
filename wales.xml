@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 14:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 14:31:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,25 @@
             <pubDate>Mon, 26 Jul 2021 12:39:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid case rate in Wales falls for fifth day in row]]></title>
+            <description><![CDATA[As vaccinations pass another major milestone, Covid case rates fall for a fifth day in Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57969591</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57969591</guid>
+            <pubDate>Mon, 26 Jul 2021 14:21:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: GB's Lauren Williams wins silver in -67kg taekwondo]]></title>
             <description><![CDATA[Great Britain's Lauren Williams takes silver in the -67kg taekwondo at Tokyo 2020 after being beaten by Matea Jelic of Croatia in the final.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57968427</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968427</guid>
             <pubDate>Mon, 26 Jul 2021 13:26:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caerphilly lumberjack killed felling trees died from asphyxia, inquest hears]]></title>
+            <description><![CDATA[Ben Thomas was clearing trees from a forest when he was crushed to death in August 2017.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57971422</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57971422</guid>
+            <pubDate>Mon, 26 Jul 2021 13:44:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bute Park attack: Two in court on attempted murder charges]]></title>
@@ -42,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57944123</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57944123</guid>
             <pubDate>Mon, 26 Jul 2021 05:18:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caerphilly lumberjack killed felling trees died from asphyxia, inquest hears]]></title>
-            <description><![CDATA[Ben Thomas was clearing trees from a forest when he was crushed to death in August 2017.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57971422</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57971422</guid>
-            <pubDate>Mon, 26 Jul 2021 13:44:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Weather: Thunderstorm warning issued for most of Wales]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57964092</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57964092</guid>
             <pubDate>Sun, 25 Jul 2021 17:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boulders blocked ambulance from reaching boy who had stroke]]></title>
-            <description><![CDATA[Cain, 13, was playing with friends at a reservoir when he collapsed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57955017</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57955017</guid>
-            <pubDate>Sat, 24 Jul 2021 16:31:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: 'I put too much pressure on myself' - Jade Jones on shock taekwondo exit]]></title>
@@ -163,18 +163,18 @@
             <pubDate>Mon, 26 Jul 2021 11:53:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Team GB women's footballers focused on winning group - Riise]]></title>
+            <description><![CDATA[Team GB's women's footballers have "a great opportunity" to win their group at Tokyo 2020, says boss Hege Riise.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57973560</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57973560</guid>
+            <pubDate>Mon, 26 Jul 2021 14:26:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[British and Irish Lions: Pick your Lions XV for the second Test]]></title>
             <description><![CDATA[Stick or twist? What changes, if any, should Lions coach Warren Gatland make as he attempts to close out a series victory over South Africa?]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/57955593</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57955593</guid>
             <pubDate>Mon, 26 Jul 2021 05:41:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Gold medals for Team GB's Adam Peaty, Tom Daley and Matty Lee, and Tom Pidcock]]></title>
-            <description><![CDATA[It's day three of the Tokyo Olympics, where the gold rush has started for Team GB.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57968233</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968233</guid>
-            <pubDate>Mon, 26 Jul 2021 08:32:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arian i Lauren Williams yn y taekwondo yn Tokyo]]></title>

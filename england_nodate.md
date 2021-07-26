@@ -4,7 +4,7 @@
 4. [Newly-weds delighted after lost ring found in Windermere](https://www.bbc.co.uk/news/uk-england-cumbria-57969093) - A diver found the ring after it slipped off the groom's finger into the water on his wedding day.
 5. [Joey Barton denies assaulting his wife Georgia](https://www.bbc.co.uk/news/uk-england-bristol-57969765) - The Bristol Rovers manager allegedly left his wife with a head injury in an attack in Kew, London.
 6. [Wayne Rooney reports photos to Greater Manchester Police](https://www.bbc.co.uk/news/uk-england-manchester-57970044) - The images appear to show the ex-England footballer asleep with unknown women posing beside him.
-7. [Stonehenge A303 tunnel: High Court challenge bid dismissed](https://www.bbc.co.uk/news/uk-england-57968573) - Campaigners argue Grant Shapps had not paid enough attention to environmental matters.
+7. [Stonehenge A303 tunnel: High Court challenge bid dismissed](https://www.bbc.co.uk/news/uk-england-57968573) - Campaigners say the ruling is deeply worrying for "anyone hoping for urgent action on climate".
 8. [Ian Paterson: Plans for further breast surgeon compensation](https://www.bbc.co.uk/news/uk-england-birmingham-57967899) - A further 5,500 patients of Ian Paterson have been identified since he was jailed.
 9. [Sir Richard Sutton: Murder accused pleads not guilty](https://www.bbc.co.uk/news/uk-england-dorset-57969536) - Thomas Schreiber is charged with murdering one of UK's richest men, Sir Richard Sutton, in Dorset.
 10. [Mortar bomb find halts Guiseley-Ilkley rail services](https://www.bbc.co.uk/news/uk-england-leeds-57971329) - Services were stopped between Guiseley and Ilkley as the "safe" training device was dealt with.
