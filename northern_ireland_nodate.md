@@ -1,5 +1,5 @@
-1. [Covid-19: Hospital pressures mount as ICU numbers increase](https://www.bbc.co.uk/news/uk-northern-ireland-57968664) - The chief nursing officer says a surge in demand due to Covid has come more quickly than expected.
-2. [Covid-19: Executive agrees on theatre and concert reopening](https://www.bbc.co.uk/news/uk-northern-ireland-57965166) - Theatres and concert venues can reopen while there are changes to how many people can meet indoors.
+1. [Covid-19: Executive agrees on theatre and concert reopening](https://www.bbc.co.uk/news/uk-northern-ireland-57965166) - Theatres and concert venues can reopen while there are changes to how many people can meet indoors.
+2. [Covid-19: Hospital pressures mount as ICU numbers increase](https://www.bbc.co.uk/news/uk-northern-ireland-57968664) - The chief nursing officer says a surge in demand due to Covid has come more quickly than expected.
 3. [Coronavirus: Irish pubs and restaurants resume indoor service](https://www.bbc.co.uk/news/world-europe-57965158) - Many pubs, especially those that don't serve food, have been closed since March 2020.
 4. [Dr Michael Watt will not appear at neurological inquiry](https://www.bbc.co.uk/news/uk-northern-ireland-57972150) - An inquiry into governance issues around Dr Michael Watt has accepted he is unfit to give evidence.
 5. [Lisnaskea: Tully Forest fire had 'huge impact' on environment](https://www.bbc.co.uk/news/uk-northern-ireland-57964348) - NI Fire and Rescue says a fire in Tully Forest, near Lisnaskea, had a huge impact on local wildlife.
