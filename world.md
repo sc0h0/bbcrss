@@ -1,4 +1,4 @@
-1. [Tunisia President Kais Saied accused of coup amid clashes](https://www.bbc.co.uk/news/world-africa-57976005) - Mon, 26 Jul 2021 16:00:57 GMT - Months of tensions over Covid and the economy culminates in the sacking of the prime minister.
+1. [Tunisia President Kais Saied accused of coup amid clashes](https://www.bbc.co.uk/news/world-africa-57976005) - Mon, 26 Jul 2021 18:20:42 GMT - Months of tension over Covid and the economy culminate in the sacking of the prime minister.
 2. [US accused of demonising China in high-level talks](https://www.bbc.co.uk/news/world-asia-china-57966427) - Mon, 26 Jul 2021 07:48:57 GMT - US Deputy Secretary of State Wendy Sherman is the most senior official to visit under Mr Biden.
 3. [Sandstorm swallows city in northwestern China](https://www.bbc.co.uk/news/world-asia-china-57973810) - Mon, 26 Jul 2021 12:31:18 GMT - Dust clouds towered at least 100 metres (330ft) over Dunhuang.
 4. [Afghanistan: Record civilian casualties in 2021, UN reports](https://www.bbc.co.uk/news/world-asia-57967960) - Mon, 26 Jul 2021 12:11:19 GMT - More than 1,600 civilians have been killed so far in 2021, and the UN fears a further rise.

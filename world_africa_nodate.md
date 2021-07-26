@@ -1,4 +1,4 @@
-1. [Tunisia President Kais Saied accused of coup amid clashes](https://www.bbc.co.uk/news/world-africa-57976005) - Months of tensions over Covid and the economy culminates in the sacking of the prime minister.
+1. [Tunisia President Kais Saied accused of coup amid clashes](https://www.bbc.co.uk/news/world-africa-57976005) - Months of tension over Covid and the economy culminate in the sacking of the prime minister.
 2. [AKO Caine Prize: Meron Hadero named first Ethiopian winner](https://www.bbc.co.uk/news/world-africa-57975088) - Judges praised Meron Hadero's short story The Street Sweep which ends in a "clever twist".
 3. [Nigerian outrage at brazen bandit attacks](https://www.bbc.co.uk/news/world-africa-57934849) - The shooting down of a military jet shows how organised crime is becoming more daring by the day.
 4. [Tokyo Olympics: Ruth Gbagbi, Hedaya Wahba and Seif Eissa all win taekwondo bronze](https://www.bbc.co.uk/sport/africa/57969595) - Ivory Coast's Ruth Gbagbi as well as Egyptian duo Hedaya Wahba and Seif Eissa win bronze in taekwondo on day three at the Tokyo Olympics.
