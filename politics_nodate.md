@@ -71,7 +71,7 @@
 71. [Cummings: 'No-one on Earth' knows answer if Brexit is a good idea](https://www.bbc.co.uk/news/uk-politics-57907893) - Former Downing Street aide Dominic Cummings tells the BBC he thought it was "good that Brexit happened".
 72. [Cummings: Eight takeaways from his interview](https://www.bbc.co.uk/news/uk-politics-57882892) - The PM's former chief adviser on lockdowns, Downing Street rows, Brexit and coup discussions.
 73. [Brexit: What's the Northern Ireland Protocol?](https://www.bbc.co.uk/news/explainers-53724381) - Urgent changes to the post-Brexit Northern Ireland Protocol have been called for by the UK government.
-74. [Covid rules from 19 July: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
+74. [Covid rules: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
 75. [How does Dominic Cummings now earn a living?](https://www.bbc.co.uk/news/uk-politics-49101464) - A profile of Boris Johnson's former right-hand-man, who has turned into his chief tormentor.
 76. [Coventry City of Culture: The women who helped shape a 'city of justice'](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57555779) - Coventry women have always been at the heart of the struggle for social justice, a historian says.
 77. [Foreign aid: Who will be hit by the UK government cuts?](https://www.bbc.co.uk/news/57362816) - The UK government is reducing its spending this year on foreign aid - with major consequences for some recipients.
