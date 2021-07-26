@@ -3,8 +3,8 @@
 3. [Flooded London hospitals ask patients to stay away](https://www.bbc.co.uk/news/uk-57965298) - Torrential rain saw severe flooding in homes, roads and tube stations in parts of London on Sunday.
 4. [Covid: Fauci says US heading in wrong direction as cases rise](https://www.bbc.co.uk/news/world-us-canada-57962387) - President Joe Biden's top medical adviser says cases are rising in areas with low vaccination rates.
 5. [Speakers' Corner: Woman attacked with knife](https://www.bbc.co.uk/news/uk-57965251) - The 39-year-old was taken to hospital after the attack in London's Hyde Park, police say.
-6. [Tunisia PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - Protesters clashed with police as they demanded the government be dismissed over Covid failings.
-7. [Scottish climber Rick Allen dies in K2 avalanche](https://www.bbc.co.uk/news/uk-scotland-57964217) - The 68-year-old was attempting a new route on the world's second highest mountain.
+6. [Scottish climber Rick Allen dies in K2 avalanche](https://www.bbc.co.uk/news/uk-scotland-57964217) - The 68-year-old was attempting a new route on the world's second highest mountain.
+7. [Tunisia PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - Protesters clashed with police as they demanded the government be dismissed over Covid failings.
 8. [Man, woman and boy die in Loch Lomond incident](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57962111) - The deaths near Ardlui are among six water-related fatalities in Scotland over the past three days.
 9. [Rockslide destroys bridge in northern India](https://www.bbc.co.uk/news/world-asia-india-57964308) - It was one of several landslides in Himachal Pradesh on Sunday.
 10. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
