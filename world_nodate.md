@@ -1,7 +1,7 @@
 1. [Covid: Fauci says US heading in wrong direction as cases rise](https://www.bbc.co.uk/news/world-us-canada-57962387) - President Joe Biden's top medical adviser says cases are rising in areas with low vaccination rates.
-2. [Climate change: Israel to cut 85% of emissions by mid-century](https://www.bbc.co.uk/news/world-middle-east-57965028) - PM Naftali Bennett says the decision will help the country gradually shift to a low-carbon economy.
-3. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
-4. [Shock golds and Osaka's return at Tokyo 2020](https://www.bbc.co.uk/sport/olympics/57961046) - Austria's Anna Kiesenhofer and Tunisian teenager Ahmed Hafnaoui win surprise golds on a drama-filled second day at the Tokyo Olympics.
+2. [Triathlon gold goes to Norway at Tokyo 2020](https://www.bbc.co.uk/sport/olympics/57965589) - Great Britain's Alex Yee wins silver in a punishing men's triathlon at the Tokyo Olympics as Kristian Blummenfelt of Norway claims gold.
+3. [Climate change: Israel to cut 85% of emissions by mid-century](https://www.bbc.co.uk/news/world-middle-east-57965028) - PM Naftali Bennett says the decision will help the country gradually shift to a low-carbon economy.
+4. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
 5. [Deadly street protests over Iran water shortages](https://www.bbc.co.uk/news/world-middle-east-57948717) - Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.
 6. [Jackie Mason, rabbi turned comedian, dies aged 93](https://www.bbc.co.uk/news/world-us-canada-57960048) - The famed US stand-up comedian and actor voiced Krusty the Clown's father in The Simpsons.
 7. [Afghanistan curfew imposed as Taliban militants advance](https://www.bbc.co.uk/news/world-asia-57933364) - The government says the measure is to help its forces stop Taliban militants infiltrating cities.
