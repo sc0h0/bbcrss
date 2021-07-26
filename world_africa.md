@@ -1,4 +1,4 @@
-1. [Tunisia PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - Mon, 26 Jul 2021 00:57:20 GMT - Protesters clashed with police as they demanded the government be dismissed over Covid failings.
+1. [Tunisia PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - Mon, 26 Jul 2021 02:22:32 GMT - Protesters clashed with police as they demanded the government be dismissed over Covid failings.
 2. [Nigeria school kidnappers abduct man delivering ransom](https://www.bbc.co.uk/news/world-africa-57960544) - Sun, 25 Jul 2021 13:07:56 GMT - Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.
 3. [Nigerian outrage at brazen bandit attacks](https://www.bbc.co.uk/news/world-africa-57934849) - Sun, 25 Jul 2021 23:10:08 GMT - The shooting down of a military jet shows how organised crime is becoming more daring by the day.
 4. [Tunisia's Hafnaoui wins Africa's first Tokyo gold](https://www.bbc.co.uk/sport/olympics/57959479) - Sun, 25 Jul 2021 05:34:24 GMT - Tunisia's Ahmed Hafnaoui takes a shock gold medal in the men's 400m freestyle on Sunday.

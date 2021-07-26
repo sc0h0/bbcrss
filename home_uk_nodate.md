@@ -1,10 +1,10 @@
-1. [Coronavirus infections continue to fall in UK](https://www.bbc.co.uk/news/health-57962995) - But any rise in cases linked to the 19 July unlocking is unlikely to show up in the daily data just yet.
-2. [Flooded London hospitals ask patients to stay away](https://www.bbc.co.uk/news/uk-57965298) - Torrential rain saw severe flooding in homes, roads and tube stations in parts of London on Sunday.
-3. [Man, woman and boy die in Loch Lomond incident](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57962111) - The deaths near Ardlui are among six water-related fatalities in Scotland over the past three days.
-4. [Covid: Fauci says US heading in wrong direction as cases rise](https://www.bbc.co.uk/news/world-us-canada-57962387) - President Joe Biden's top medical adviser says cases are rising in areas with low vaccination rates.
-5. [Speakers' Corner: Woman attacked with knife](https://www.bbc.co.uk/news/uk-57965251) - The 39-year-old was taken to hospital after the attack in London's Hyde Park, police say.
-6. [Tunisia PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - Protesters clashed with police as they demanded the government be dismissed over Covid failings.
-7. [Sajid Javid apologises for 'cower' Covid remark](https://www.bbc.co.uk/news/uk-57961870) - The health secretary says he used a poor choice of word in a tweet, after criticism from victims' group.
+1. [Peaty writes his name into history books](https://www.bbc.co.uk/sport/olympics/57965943) - Adam Peaty writes his name into the history books once again as he wins 100m breaststroke gold in Tokyo to become the first British swimmer to defend his Olympic title.
+2. [Coronavirus infections continue to fall in UK](https://www.bbc.co.uk/news/health-57962995) - But any rise in cases linked to the 19 July unlocking is unlikely to show up in the daily data just yet.
+3. [Flooded London hospitals ask patients to stay away](https://www.bbc.co.uk/news/uk-57965298) - Torrential rain saw severe flooding in homes, roads and tube stations in parts of London on Sunday.
+4. [Man, woman and boy die in Loch Lomond incident](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57962111) - The deaths near Ardlui are among six water-related fatalities in Scotland over the past three days.
+5. [Covid: Fauci says US heading in wrong direction as cases rise](https://www.bbc.co.uk/news/world-us-canada-57962387) - President Joe Biden's top medical adviser says cases are rising in areas with low vaccination rates.
+6. [Speakers' Corner: Woman attacked with knife](https://www.bbc.co.uk/news/uk-57965251) - The 39-year-old was taken to hospital after the attack in London's Hyde Park, police say.
+7. [Tunisia PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - Protesters clashed with police as they demanded the government be dismissed over Covid failings.
 8. [Rockslide destroys bridge in northern India](https://www.bbc.co.uk/news/world-asia-india-57964308) - It was one of several landslides in Himachal Pradesh on Sunday.
 9. [Unesco adds Madrid's Paseo del Prado and Retiro Park to heritage list](https://www.bbc.co.uk/news/world-europe-57955966) - The famous Paseo del Prado and Retiro Park are symbols of the Spanish capital's history.
 10. [Wildfires spread from California to Nevada](https://www.bbc.co.uk/news/world-us-canada-57961767) - Fire crews are battling extreme temperatures to control wildfires in California and Nevada.
