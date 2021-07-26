@@ -1,4 +1,4 @@
-1. [Tunisia's PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - The president says he is taking over, after a virus surge reignites economic and political unrest.
+1. [Tunisia President Kais Saied accused of coup amid clashes](https://www.bbc.co.uk/news/world-africa-57976005) - Months of tensions over Covid and the economy culminates in the sacking of the prime minister.
 2. [US accused of demonising China in high-level talks](https://www.bbc.co.uk/news/world-asia-china-57966427) - US Deputy Secretary of State Wendy Sherman is the most senior official to visit under Mr Biden.
 3. [Deadly street protests over Iran water shortages](https://www.bbc.co.uk/news/world-middle-east-57948717) - Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.
 4. [Afghanistan: Record civilian casualties in 2021, UN reports](https://www.bbc.co.uk/news/world-asia-57967960) - More than 1,600 civilians have been killed so far in 2021, and the UN fears a further rise.
