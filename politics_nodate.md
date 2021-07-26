@@ -1,4 +1,4 @@
-1. [Labour proposes 'new deal for jobs' to transform UK economy](https://www.bbc.co.uk/news/uk-57962405) - Deputy leader Angela Rayner will kick off a summer campaign to "fundamentally change" the economy.
+1. [Give workers full rights from day one – Labour](https://www.bbc.co.uk/news/uk-57962405) - Deputy leader Angela Rayner sets out plans for a "new deal" for workers post-pandemic.
 2. [Almost 600 migrant Channel crossings at weekend](https://www.bbc.co.uk/news/uk-57966417) - Home secretary says she is determined to stop journeys, after record number of attempts last month.
 3. [National Adoption Strategy: £48m to improve services in England](https://www.bbc.co.uk/news/uk-57962679) - A new National Adoption Strategy aims to enhance support to families and end a postcode lottery.
 4. [Senior doctors in England to be consulted on NHS pay offer](https://www.bbc.co.uk/news/uk-57964780) - The BMA doctors' union says the 3% pay rise offer for NHS staff in England is "bitterly disappointing".
