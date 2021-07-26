@@ -1,6 +1,6 @@
 1. [Tunisia's PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - The president says he is taking over, after a virus surge reignites economic and political unrest.
 2. [Deadly street protests over Iran water shortages](https://www.bbc.co.uk/news/world-middle-east-57948717) - Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.
-3. [Afghanistan: Record civilian casualties in 2021, UN reports](https://www.bbc.co.uk/news/world-asia-57967960) - There have been more than 1,600 civilian deaths so far in 2021, and the UN fears a further rise.
+3. [Afghanistan: Record civilian casualties in 2021, UN reports](https://www.bbc.co.uk/news/world-asia-57967960) - More than 1,600 civilians have been killed so far in 2021, and the UN fears a further rise.
 4. [New Zealand to allow IS-linked mother to be repatriated](https://www.bbc.co.uk/news/world-asia-57965825) - Permission for a mother and her children to travel was not taken lightly, NZ prime minister says.
 5. [Dieter Brummer: Home and Away actor dies aged 45](https://www.bbc.co.uk/news/world-australia-57967777) - Brummer famously played Shane Parrish - Melissa George's love interest on the TV soap in the 1990s.
 6. [Pink offers to pay bikini bottoms fine for Norway women's handball team](https://www.bbc.co.uk/news/entertainment-arts-57967486) - The Norway women's side were last week fined for wearing shorts instead of bikini bottoms in a match.

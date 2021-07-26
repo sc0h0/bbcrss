@@ -1,6 +1,6 @@
 1. [Tunisia's PM sacked after violent Covid protests](https://www.bbc.co.uk/news/world-africa-57958555) - The president says he is taking over, after a virus surge reignites economic and political unrest.
 2. [Nigerian outrage at brazen bandit attacks](https://www.bbc.co.uk/news/world-africa-57934849) - The shooting down of a military jet shows how organised crime is becoming more daring by the day.
-3. [Tokyo Olympics: Ivory Coast's Ruth Gbagbi bags taekwondo bronze](https://www.bbc.co.uk/sport/africa/57969595) - Ivory Coast's Ruth Gbagbi wins bronze again in taekwondo on day three at the Tokyo Olympics.
+3. [Tokyo Olympics: Ivory Coast's Ruth Gbagbi and Egypt's Hedaya Whaba both win taekwondo bronze](https://www.bbc.co.uk/sport/africa/57969595) - Ivory Coast's Ruth Gbagbi and Egypt's Hedaya Whaba win bronze in taekwondo on day three at the Tokyo Olympics.
 4. [Mali insurgency: Investigating corruption allegations in the military](https://www.bbc.co.uk/news/world-africa-57946367) - Africa Eye investigates the cycle of death, violence and corruption in Mali's military.
 5. [Afrobeats in Japan: British-Nigerian hip hop dancer teaching children how to dance](https://www.bbc.co.uk/news/world-africa-57949287) - Yinka Oshiletu, a British-Nigerian hip hop dancer is bringing Afrobeats sounds to Japan's young dancers.
 6. [Nigeria school kidnappers abduct man delivering ransom](https://www.bbc.co.uk/news/world-africa-57960544) - Criminals kidnap an elderly man who was sent to pay a ransom for the release of 136 school children.

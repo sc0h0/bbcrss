@@ -1,4 +1,4 @@
-1. [Afghanistan: Record civilian casualties in 2021, UN reports](https://www.bbc.co.uk/news/world-asia-57967960) - There have been more than 1,600 civilian deaths so far in 2021, and the UN fears a further rise.
+1. [Afghanistan: Record civilian casualties in 2021, UN reports](https://www.bbc.co.uk/news/world-asia-57967960) - More than 1,600 civilians have been killed so far in 2021, and the UN fears a further rise.
 2. [Tokyo Olympics: Momiji Nishiya wins skateboarding gold at just 13](https://www.bbc.co.uk/sport/olympics/57966611) - At the age of 13, Japan's Momiji Nishiya wins the first-ever Olympic gold medal in women's street skateboarding.
 3. [Maharashtra: How one city avoided worst of India floods](https://www.bbc.co.uk/news/world-asia-india-57969153) - At least 149 people have died across the Indian state this monsoon season.
 4. [Dieter Brummer: Home and Away actor dies aged 45](https://www.bbc.co.uk/news/world-australia-57967777) - Brummer famously played Shane Parrish - Melissa George's love interest on the TV soap in the 1990s.
