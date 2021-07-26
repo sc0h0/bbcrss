@@ -1,4 +1,4 @@
-1. [Covid-19: Fully vaccinated staff 'should still isolate'](https://www.bbc.co.uk/news/uk-northern-ireland-57968664) - A doctors' trade body says there is a "need to balance risk" as two health trusts issue staff appeal.
+1. [Covid-19: Fully vaccinated health staff 'should still isolate'](https://www.bbc.co.uk/news/uk-northern-ireland-57968664) - A doctors' trade body says there is a "need to balance risk" as two health trusts issue staff appeal.
 2. [Covid-19: Executive to consider theatre and concert reopening](https://www.bbc.co.uk/news/uk-northern-ireland-57965166) - A number of Covid-19 restrictions will lift today such as increased limits on outdoor meetings.
 3. [Coronavirus: Irish pubs and restaurants to resume indoor service](https://www.bbc.co.uk/news/world-europe-57965158) - Many pubs, especially those that don't serve food, have been closed since March 2020.
 4. [Lisnaskea: Firefighters battle fires in Fermanagh forest and on Divis Mountain](https://www.bbc.co.uk/news/uk-northern-ireland-57964348) - The NI Fire and Rescue Service urges people to keep roads clear for emergency vehicles.

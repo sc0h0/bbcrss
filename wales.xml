@@ -11,23 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 08:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 09:09:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[First minister security review call after home protest]]></title>
+            <description><![CDATA[Anti-lockdown protest branded "totally unacceptable" by former head of security for the Royal Family.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57960252</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57960252</guid>
+            <pubDate>Mon, 26 Jul 2021 09:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: GB's Lauren Williams reaches women's -67kg taekwondo final]]></title>
+            <description><![CDATA[Great Britain's Lauren Williams is guaranteed a medal in the women's -67kg taekwondo competition at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57968427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968427</guid>
+            <pubDate>Mon, 26 Jul 2021 08:13:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Universal basic income: Wales' trial 'should include everyone']]></title>
             <description><![CDATA[Supporters want everyone in a test area to get a fixed amount of money, regardless of income.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57944123</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57944123</guid>
             <pubDate>Mon, 26 Jul 2021 05:18:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Lockdown protest at Mark Drakeford's home 'crossed line']]></title>
-            <description><![CDATA[Mark Drakeford's predecessor says protesters used "a favourite tactic of the far right in America".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57963035</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57963035</guid>
-            <pubDate>Sun, 25 Jul 2021 20:47:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Politician complaints double 'largely due' to Neil McEvoy]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57964092</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57964092</guid>
             <pubDate>Sun, 25 Jul 2021 17:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Jade Jones 'trapped by fear' before first-round elimination]]></title>
-            <description><![CDATA[Two-time Olympic taekwondo champion Jade Jones said she was trapped by fear in her first-round loss at the Tokyo Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57958917</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57958917</guid>
-            <pubDate>Sun, 25 Jul 2021 11:50:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Denbigh: Man in hospital after 'serious assault']]></title>
@@ -142,13 +142,6 @@
             <pubDate>Fri, 23 Jul 2021 12:06:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: GB's Lauren Williams reaches women's -67kg taekwondo final]]></title>
-            <description><![CDATA[Great Britain's Lauren Williams is guaranteed a medal in the women's -67kg taekwondo competition at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57968427</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968427</guid>
-            <pubDate>Mon, 26 Jul 2021 08:13:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Matt Grimes: Fulham eye move for Swansea City captain]]></title>
             <description><![CDATA[Fulham are interested in signing Swansea City captain Matt Grimes.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57967506</link>
@@ -175,6 +168,13 @@
             <link>https://www.bbc.co.uk/sport/football/57942276</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57942276</guid>
             <pubDate>Sun, 25 Jul 2021 13:27:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British and Irish Lions 2021: 'We can be pleased but bits to work on' - Alun Wyn Jones]]></title>
+            <description><![CDATA[British and Irish Lions captain Alun Wyn Jones is pleased with their first Test win against South Africa but says they will have to improve if they want to clinch the series.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/57962043</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/57962043</guid>
+            <pubDate>Sun, 25 Jul 2021 12:25:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Angen i beilot Cyflog Sylfaenol gynnwys pawb']]></title>
