@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 10:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 10:37:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,11 @@
             <pubDate>Tue, 27 Jul 2021 09:12:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Olympic champion's coronavirus comeback and more tests for 'pinged' workers]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57978244</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57978244</guid>
-            <pubDate>Tue, 27 Jul 2021 06:55:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: More pinged workers eligible for daily tests instead of isolation]]></title>
-            <description><![CDATA[Waste workers, prison staff and defence workers will be able to avoid isolation, the government says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57977282</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57977282</guid>
-            <pubDate>Mon, 26 Jul 2021 21:30:43 GMT</pubDate>
+            <title><![CDATA[Covid: Insurance threat for pinged holidaymakers]]></title>
+            <description><![CDATA[Some travel insurance policies will not cover cancellation costs for travellers told to self-isolate.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57983455</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57983455</guid>
+            <pubDate>Tue, 27 Jul 2021 10:11:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Whipps Cross Hospital cancels operations after flooding]]></title>
@@ -58,6 +51,13 @@
             <pubDate>Tue, 27 Jul 2021 07:49:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: More pinged workers eligible for daily tests instead of isolation]]></title>
+            <description><![CDATA[Waste workers, prison staff and defence workers will be able to avoid isolation, the government says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57977282</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57977282</guid>
+            <pubDate>Mon, 26 Jul 2021 21:30:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Miami tower collapse: Final victim identified from rubble]]></title>
             <description><![CDATA[The family of Estelle Hedaya say they have confirmation she is the 98th victim of the Surfside disaster.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57979126</link>
@@ -65,25 +65,25 @@
             <pubDate>Tue, 27 Jul 2021 05:53:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wayne Rooney: Cheshire Police reviewing blackmail complaint]]></title>
+            <description><![CDATA[Cheshire Police confirm a complaint of blackmail was made in relation to photos of Wayne Rooney.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57970050</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57970050</guid>
+            <pubDate>Tue, 27 Jul 2021 10:05:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bradford child sexual abuse: Authorities apologise after review]]></title>
+            <description><![CDATA[The Bradford Partnership said "more needs to be done" to help victims of child sexual abuse in the district.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-57982761</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57982761</guid>
+            <pubDate>Tue, 27 Jul 2021 10:03:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bezos' $2bn offer to get back in race to the Moon]]></title>
             <description><![CDATA[The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57978465</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57978465</guid>
             <pubDate>Mon, 26 Jul 2021 20:31:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Insurance threat for pinged holidaymakers]]></title>
-            <description><![CDATA[Some travel insurance policies will not cover cancellation costs for travellers told to self-isolate.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57983455</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57983455</guid>
-            <pubDate>Tue, 27 Jul 2021 10:11:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US combat forces to leave Iraq by end of year]]></title>
-            <description><![CDATA[The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57970464</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57970464</guid>
-            <pubDate>Tue, 27 Jul 2021 10:16:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[House prices at new high as buyers seek more space]]></title>
@@ -272,7 +272,7 @@
             <description><![CDATA[Great Britain's men stage an impressive comeback to beat the United States 26-21 and set up an Olympic rugby sevens semi-final against New Zealand.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57982072</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57982072</guid>
-            <pubDate>Tue, 27 Jul 2021 09:37:20 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 10:36:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tom Dean: Swimmer's family and friends celebrate his 200m freestyle gold]]></title>

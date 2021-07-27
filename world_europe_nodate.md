@@ -1,4 +1,4 @@
-1. [Vatican's Cardinal Becciu on trial in $412m fraud case](https://www.bbc.co.uk/news/world-europe-57981508) - Cardinal Becciu goes on trial with nine others accused over a London property deal that went sour.
+1. [Vatican's Cardinal Becciu on trial in $412m fraud case](https://www.bbc.co.uk/news/world-europe-57981508) - Cardinal Becciu was once close to the Pope but was sacked after reports of financial misdeeds.
 2. [Beach handball: 'It's shocking to have to pay to not play in our pants'](https://www.bbc.co.uk/news/uk-57940896) - Tonje Lerstad tells Newsbeat about a rollercoaster week for Norway's women's beach handball team.
 3. [Greece seeks spear fisher who killed famous seal](https://www.bbc.co.uk/news/world-europe-57969485) - Kostis, a rare Mediterranean monk seal rescued as a pup, is killed by a spear gun.
 4. [German lawyers wrangle over pensioner's WW2 tank in basement](https://www.bbc.co.uk/news/world-europe-57965260) - The 84-year-old kept the vehicle in his basement, along with an anti-aircraft gun and a torpedo.
