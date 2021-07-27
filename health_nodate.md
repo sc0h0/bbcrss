@@ -36,7 +36,7 @@
 36. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 37. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 38. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-39. [Dad builds robotic 'exo-skeleton' to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer said he was inspired to build the suit after his son asked him to.
+39. [Dad builds robotic 'exo-skeleton' to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
 40. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.
 41. [Multiple sclerosis: Parkour athlete's loss of mobility 'mortifying'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57932996) - Luke Callinan, 35, has been diagnosed with a rare form of multiple sclerosis.
 42. [The new surgical tool inspired by a wasp](https://www.bbc.co.uk/news/science-environment-57889149) - The device avoids clogging by using friction instead of suction, similar to the way a parasitoid wasp lays its eggs.

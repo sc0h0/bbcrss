@@ -5,7 +5,7 @@
 5. [Olympics: What happened on day four?](https://www.bbc.co.uk/sport/olympics/57980135) - Tom Dean takes gold ahead of compatriot Duncan Scott as Great Britain makes its best ever start to an Olympics.
 6. [Nikola Tesla: Sparks fly over plans to honour inventor with coin](https://www.bbc.co.uk/news/world-europe-57969489) - Both Croatia and Serbia claim Nikola Tesla, pioneer of alternating current electricity, as their hero.
 7. [Raphael Varane: Man Utd agree fee for Real Madrid defender](https://www.bbc.co.uk/sport/football/57967166) - Manchester United agree a fee with Real Madrid for France international defender Raphael Varane.
-8. [Dad builds robotic 'exo-skeleton' to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer said he was inspired to build the suit after his son asked him to.
+8. [Dad builds robotic 'exo-skeleton' to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
 9. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
 10. [COP26 climate summit president says progress made, but not enough](https://www.bbc.co.uk/news/science-environment-57975025) - The first in-person climate meeting in 18 months sees some tentative progress, but no breakthroughs.
 11. [Covid passports: How do they work around the world?](https://www.bbc.co.uk/news/world-europe-56522408) - How are countries enforcing vaccine passports and what can people use them for?

@@ -1,7 +1,7 @@
 1. [Culture of cover-up saw hundreds of children abused in Lambeth, report finds](https://www.bbc.co.uk/news/uk-57984924) - More than 700 children suffered cruelty and sexual abuse at care homes in south London, an inquiry finds.
 2. [Biles says mental health concerns led to withdrawal](https://www.bbc.co.uk/sport/olympics/57982665) - Simone Biles says she "has to focus on her mental health" after pulling out of the gymnastics women's team final at Tokyo 2020.
 3. [Six more GB medals as gymnasts and swimmers star](https://www.bbc.co.uk/sport/olympics/57980135) - Tom Dean takes gold ahead of compatriot Duncan Scott as Great Britain makes its best ever start to an Olympics.
-4. [Covid: UK Covid cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - The PM is urging people to "remain cautious" despite the fall and not to jump to conclusions.
+4. [Covid: UK Covid cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
 5. [Bradford child sex abuse: Children 'remain unprotected'](https://www.bbc.co.uk/news/uk-england-leeds-57982761) - The report says some children in Bradford have "suffered abuse no child should have to experience".
 6. [Mum hit by car at Denbighshire festival as daughter, 2, thrown to safety](https://www.bbc.co.uk/news/uk-wales-57979208) - "I genuinely believed my whole family had died", says Jenna O'Neill, who suffered serious injuries.
 7. [Covid: Insurance threat for pinged holidaymakers](https://www.bbc.co.uk/news/business-57983455) - Some travel insurance policies will not cover cancellation costs for travellers told to self-isolate.
@@ -11,7 +11,7 @@
 11. [Covid: Alert over inaccurate thermometers bought in UK](https://www.bbc.co.uk/news/health-57982479) - Sales have increased in the pandemic but some products are not fit for purpose, UK regulator warns.
 12. [Tesco offers £1,000 joining bonus for HGV lorry drivers](https://www.bbc.co.uk/news/business-57983698) - The supermarket chain is deploying the recruitment tactic amid a shortage in lorry drivers.
 13. [DaBaby's HIV and gay comments 'perpetuate discrimination'](https://www.bbc.co.uk/news/newsbeat-57984070) - The rapper made false claims about the life expectancy of people with HIV at a US festival.
-14. [Dad builds robotic 'exo-skeleton' to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer said he was inspired to build the suit after his son asked him to.
+14. [Dad builds robotic 'exo-skeleton' to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
 15. [Beach handball: 'It's shocking to have to pay to not play in our pants'](https://www.bbc.co.uk/news/uk-57940896) - Tonje Lerstad tells Newsbeat about a rollercoaster week for Norway's women's beach handball team.
 16. [Turner Prize returns to Tate Liverpool after 15 years](https://www.bbc.co.uk/news/uk-england-merseyside-57982406) - The renowned event will be held at the Tate Liverpool gallery in late 2022, it is announced.
 17. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.

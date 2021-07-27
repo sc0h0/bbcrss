@@ -14,7 +14,7 @@
 14. [Archibald Prize: 100 years of Australia's top portrait honour](https://www.bbc.co.uk/news/world-australia-57967778) - Over 100 years, the Archibald Prize has become better at reflecting Australian diversity.
 15. [How US military pullback in Iraq could benefit Iran](https://www.bbc.co.uk/news/world-middle-east-57976007) - The withdrawal of remaining US combat troops could help Iran achieve its ambitions.
 16. [Covid passports: How do they work around the world?](https://www.bbc.co.uk/news/world-europe-56522408) - How are countries enforcing vaccine passports and what can people use them for?
-17. [Dad builds robotic 'exo-skeleton' to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer said he was inspired to build the suit after his son asked him to.
+17. [Dad builds robotic 'exo-skeleton' to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
 18. [Is there a future for Africa's lions?](https://www.bbc.co.uk/news/science-environment-57968405) - As lion populations decline across much of Africa, could community-led conservation help reverse this trend?
 19. [Tunisia: Key moments as political turmoil unfolds](https://www.bbc.co.uk/news/world-africa-57972459) - Tunisia's president sacks the PM and the speaker is barred entry to parliament following violent protests.
 20. [Hemingway 'lookalike' chosen in Florida contest](https://www.bbc.co.uk/news/world-us-canada-57978084) - A 63-year-old won the Key West, Florida contest for his likeness to the award-winning author.
