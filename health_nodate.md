@@ -1,5 +1,5 @@
 1. [Contaminated-blood inquiry: Former Health Minister Clarke denies responsibility](https://www.bbc.co.uk/news/uk-57986582) - Lord Clarke is the first senior health minister from the 1980s to testify on the NHS scandal.
-2. [Covid: UK Covid cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
+2. [Covid: UK cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
 3. [Covid: Alert over inaccurate thermometers bought in UK](https://www.bbc.co.uk/news/health-57982479) - Sales have increased in the pandemic but some products are not fit for purpose, UK regulator warns.
 4. [Covid-19: Irish vaccine programme to include 12-15-year-olds](https://www.bbc.co.uk/news/world-europe-57984314) - Taoiseach (Irish PM) Micheál Martin says it represents a "significant opening up" of the programme.
 5. [Lockdown weight gain averaging half a stone - survey](https://www.bbc.co.uk/news/health-57968651) - Four in 10 adults in England have become fatter during the pandemic, a survey suggests.

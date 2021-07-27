@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 17:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 17:44:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Health Trusts cancel surgeries as Covid admissions rise]]></title>
+            <description><![CDATA[The chief medical officer says the health service is operating under "huge pressures".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57991391</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57991391</guid>
+            <pubDate>Tue, 27 Jul 2021 17:41:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Roads and property flooded in NI thunderstorms]]></title>
             <description><![CDATA[Police warn motorists to be cautious as the Met Office issued a yellow weather warning.]]></description>
@@ -37,13 +44,6 @@
             <pubDate>Tue, 27 Jul 2021 12:26:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: Sammy Wilson clashed with Edwin Poots over NI Protocol]]></title>
-            <description><![CDATA[In a letter, Sammy Wilson questions why the agriculture minister had not "resisted" officials' views.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57976548</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57976548</guid>
-            <pubDate>Tue, 27 Jul 2021 05:23:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brexit: EU publishes proposals to simplify NI Protocol]]></title>
             <description><![CDATA[The UK government says plans on the transport of medicines, food and animals do not go far enough.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57978453</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57975051</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57975051</guid>
             <pubDate>Tue, 27 Jul 2021 12:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Sammy Wilson clashed with Edwin Poots over NI Protocol]]></title>
+            <description><![CDATA[In a letter, Sammy Wilson questions why the agriculture minister had not "resisted" officials' views.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57976548</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57976548</guid>
+            <pubDate>Tue, 27 Jul 2021 05:23:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Irish vaccine programme to include 12-15-year-olds]]></title>
