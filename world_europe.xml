@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 10:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 10:24:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-57981508</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57981508</guid>
             <pubDate>Tue, 27 Jul 2021 08:26:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beach handball: 'It's shocking to have to pay to not play in our pants']]></title>
+            <description><![CDATA[Tonje Lerstad tells Newsbeat about a rollercoaster week for Norway's women's beach handball team.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57940896</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57940896</guid>
+            <pubDate>Tue, 27 Jul 2021 09:36:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece seeks spear fisher who killed famous seal]]></title>
@@ -58,13 +65,6 @@
             <pubDate>Tue, 27 Jul 2021 07:23:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pink offers to pay bikini bottoms fine for Norway women's handball team]]></title>
-            <description><![CDATA[The Norway women's side were last week fined for wearing shorts instead of bikini bottoms in a match.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57967486</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57967486</guid>
-            <pubDate>Mon, 26 Jul 2021 09:29:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Extreme weather: What causes flash flooding?]]></title>
             <description><![CDATA[Cities across the world are at risk of extreme rainfall overwhelming their streets]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57969877</link>
@@ -73,7 +73,7 @@
         </item>
         <item>
             <title><![CDATA[COP26 climate summit president says progress made, but not enough]]></title>
-            <description><![CDATA[The first in-person climate meeting in 18 months sees tentative progress, but not enough.]]></description>
+            <description><![CDATA[The first in-person climate meeting in 18 months sees some tentative progress, but no breakthroughs.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57975025</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57975025</guid>
             <pubDate>Mon, 26 Jul 2021 18:29:54 GMT</pubDate>

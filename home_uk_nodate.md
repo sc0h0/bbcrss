@@ -6,8 +6,8 @@
 6. [Whipps Cross Hospital cancels operations after flooding](https://www.bbc.co.uk/news/uk-england-london-57964769) - Appointments at Whipps Cross have also been rearranged with some to be held virtually.
 7. [Miami tower collapse: Final victim identified from rubble](https://www.bbc.co.uk/news/world-us-canada-57979126) - The family of Estelle Hedaya say they have confirmation she is the 98th victim of the Surfside disaster.
 8. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.
-9. [US combat forces to leave Iraq by end of year](https://www.bbc.co.uk/news/world-us-canada-57970464) - The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.
-10. [Australia's vaccine rollout colossal failure - ex-PM](https://www.bbc.co.uk/news/world-australia-57980530) - Ex-PM Malcolm Turnbull tells the BBC he believes Australia's borders won't reopen until early 2022.
+9. [Covid: Insurance threat for pinged holidaymakers](https://www.bbc.co.uk/news/business-57983455) - Some travel insurance policies will not cover cancellation costs for travellers told to self-isolate.
+10. [US combat forces to leave Iraq by end of year](https://www.bbc.co.uk/news/world-us-canada-57970464) - The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.
 11. [House prices at new high as buyers seek more space](https://www.bbc.co.uk/news/business-57976341) - Strong demand for houses will last into 2022 as buyers react to the pandemic, says property website Zoopla.
 12. [Beach handball: 'It's shocking to have to pay to not play in our pants'](https://www.bbc.co.uk/news/uk-57940896) - Tonje Lerstad tells Newsbeat about a rollercoaster week for Norway's women's beach handball team.
 13. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.

@@ -11,13 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 09:59:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 10:23:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[COP26 climate summit president says progress made, but not enough]]></title>
-            <description><![CDATA[The first in-person climate meeting in 18 months sees tentative progress, but not enough.]]></description>
+            <description><![CDATA[The first in-person climate meeting in 18 months sees some tentative progress, but no breakthroughs.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57975025</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57975025</guid>
             <pubDate>Mon, 26 Jul 2021 18:29:54 GMT</pubDate>
@@ -72,20 +72,6 @@
             <pubDate>Sun, 25 Jul 2021 19:17:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jeff Bezos and Sir Richard Branson may not be astronauts, US says]]></title>
-            <description><![CDATA[The US government has tightened rules on which space-goers can claim their astronaut wings.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57950149</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57950149</guid>
-            <pubDate>Fri, 23 Jul 2021 21:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI breakthrough could spark medical revolution]]></title>
-            <description><![CDATA[A program has been used to predict the structures of nearly every protein in the human body.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57929095</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57929095</guid>
-            <pubDate>Thu, 22 Jul 2021 15:24:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Road planners able to ignore climate change, campaigners claim]]></title>
             <description><![CDATA[Government guidelines mean road planners can effectively ignore climate change, campaigners say.]]></description>
             <link>https://www.bbc.co.uk/news/business-57935608</link>
@@ -135,6 +121,13 @@
             <pubDate>Wed, 14 Jul 2021 15:04:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jeff Bezos and Sir Richard Branson may not be astronauts, US says]]></title>
+            <description><![CDATA[The US government has tightened rules on which space-goers can claim their astronaut wings.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57950149</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57950149</guid>
+            <pubDate>Fri, 23 Jul 2021 21:04:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jeff Bezos launches to space aboard New Shepard rocket ship]]></title>
             <description><![CDATA[The world's richest man and three other passengers return safely just over 10 minutes after launch.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57849364</link>
@@ -149,18 +142,32 @@
             <pubDate>Wed, 21 Jul 2021 15:55:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Virgin Galactic: Richard Branson's long, winding path to space]]></title>
-            <description><![CDATA[The BBC tracks the long, winding road to Sir Richard Branson's flight to the edge of space.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57798167</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57798167</guid>
-            <pubDate>Sun, 11 Jul 2021 16:47:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hubble space telescope's function is restored]]></title>
             <description><![CDATA[Engineers restore the Hubble Space Telescope to full operations, after a computer glitch in June.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57885865</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57885865</guid>
             <pubDate>Mon, 19 Jul 2021 08:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there a future for Africa's lions?]]></title>
+            <description><![CDATA[As lion populations decline across much of Africa, could community-led conservation help reverse this trend?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57968405</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57968405</guid>
+            <pubDate>Mon, 26 Jul 2021 23:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI breakthrough could spark medical revolution]]></title>
+            <description><![CDATA[A program has been used to predict the structures of nearly every protein in the human body.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57929095</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57929095</guid>
+            <pubDate>Thu, 22 Jul 2021 15:24:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Virgin Galactic: Richard Branson's long, winding path to space]]></title>
+            <description><![CDATA[The BBC tracks the long, winding road to Sir Richard Branson's flight to the edge of space.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57798167</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57798167</guid>
+            <pubDate>Sun, 11 Jul 2021 16:47:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Jurassic Pompeii' yields thousands of 'squiggly wiggly' fossils]]></title>
@@ -182,20 +189,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-dorset-57460445</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-57460445</guid>
             <pubDate>Wed, 14 Jul 2021 05:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate crisis rallies young people]]></title>
-            <description><![CDATA[Thousands of young people are joining a mission to help solve the environmental crisis facing their generation.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57827178</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57827178</guid>
-            <pubDate>Wed, 14 Jul 2021 08:05:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid origins: Scientists weigh up evidence over virus's origins]]></title>
-            <description><![CDATA[Researchers aim to "set the record straight" on how the virus transferred from bats into humans.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57782955</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57782955</guid>
-            <pubDate>Fri, 09 Jul 2021 23:20:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
