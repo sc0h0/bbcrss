@@ -1,14 +1,14 @@
-1. [Mum hit by car at Denbighshire festival as daughter, 2, thrown to safety](https://www.bbc.co.uk/news/uk-wales-57979208) - "I genuinely believed my whole family had died", says Jenna O'Neill, who suffered serious injuries.
+1. [Mum hit by car at Denbighshire festival as daughter, 2, thrown to safety](https://www.bbc.co.uk/news/uk-wales-57979208) - "I genuinely believed my whole family had died," says Jenna O'Neill, who suffered serious injuries.
 2. [Pub beer garden crash man 'happy to be alive' ](https://www.bbc.co.uk/news/uk-wales-57983966) - Darren George, 30, remains in hospital after a car crashed into a pub beer garden.
-3. [Covid in Wales: Shielding will not be used again, top doctor says](https://www.bbc.co.uk/news/uk-wales-politics-57983581) - The Welsh government says it will not ask 130,000 vulnerable people to isolate at home in future.
-4. [David Jones death: Man jailed for nine years for manslaughter](https://www.bbc.co.uk/news/uk-wales-57981505) - David John Jones died in hospital after he was assaulted in Holyhead, in November.
-5. [Bute Park attack: Girl, 16, held on suspicion of attempted murder](https://www.bbc.co.uk/news/uk-wales-57984253) - Two men have already appeared in court after a man received life-threatening injuries in an attack.
-6. [Lumberjack out of sight when tree crushed him to death](https://www.bbc.co.uk/news/uk-wales-57984255) - Ben Thomas died at work when a tree fell on him as he cleared wood from a forest.
-7. [Elaine Hidden died after three calls for an ambulance, inquest hears](https://www.bbc.co.uk/news/uk-wales-57980963) - Asthma sufferer Elaine Hidden's family made three 999 calls for an ambulance, an inquest hears.
-8. ['Pingdemic' pressure on council staff and services](https://www.bbc.co.uk/news/uk-wales-57984250) - Waste, recycling and social services are being particularly hard hit by staff absence, leaders say.
-9. [Cardigan murder: Accused in court as man stabbed seven times](https://www.bbc.co.uk/news/uk-wales-57989174) - Ashley Keegan appears in court charged with murdering John Bell in Cardigan.
-10. [Sunburn and back pain among non-emergency 999 calls](https://www.bbc.co.uk/news/uk-wales-57983962) - One person called 999 to say they were unable to go to the toilet, the ambulance service says.
-11. [Sea scooter riders 'face barrage of criticism'](https://www.bbc.co.uk/news/uk-wales-57973510) - TV presenter Iolo Williams had reported seeing riders plough through sea birds off the Welsh coast.
+3. [Mark Drakeford's safety not at risk from protest at his home, police say](https://www.bbc.co.uk/news/uk-wales-politics-57983585) - Police defend handling of protest at first minister's home in Cardiff.
+4. [Covid in Wales: Shielding will not be used again, top doctor says](https://www.bbc.co.uk/news/uk-wales-politics-57983581) - The Welsh government says it will not ask 130,000 vulnerable people to isolate at home in future.
+5. [David Jones death: Man jailed for nine years for manslaughter](https://www.bbc.co.uk/news/uk-wales-57981505) - David John Jones died in hospital after he was assaulted in Holyhead, in November.
+6. [Bute Park attack: Girl, 16, held on suspicion of attempted murder](https://www.bbc.co.uk/news/uk-wales-57984253) - Two men have already appeared in court after a man received life-threatening injuries in an attack.
+7. [Waterspout appears off west Wales coast](https://www.bbc.co.uk/news/uk-wales-57989175) - Waterspouts occur when a tornado forms over oceans, rivers or lakes.
+8. [Lumberjack out of sight when tree crushed him to death](https://www.bbc.co.uk/news/uk-wales-57984255) - Ben Thomas died at work when a tree fell on him as he cleared wood from a forest.
+9. [Elaine Hidden died after three calls for an ambulance, inquest hears](https://www.bbc.co.uk/news/uk-wales-57980963) - Asthma sufferer Elaine Hidden's family made three 999 calls for an ambulance, an inquest hears.
+10. ['Pingdemic' pressure on council staff and services](https://www.bbc.co.uk/news/uk-wales-57984250) - Waste, recycling and social services are being particularly hard hit by staff absence, leaders say.
+11. [Cardigan murder: Accused in court as man stabbed seven times](https://www.bbc.co.uk/news/uk-wales-57989174) - Ashley Keegan appears in court charged with murdering John Bell in Cardigan.
 12. [BAME teacher shortage at 'crisis point' in Wales](https://www.bbc.co.uk/news/uk-wales-57978728) - A shortage of role models could be one of the reasons why there is a lack, says one new teacher.
 13. [World War Two Arctic Convoys veteran given Royal Navy funeral](https://www.bbc.co.uk/news/uk-wales-57976879) - Alan Higgins honoured after surviving being torpedoed, the D-Day landings and World War Two.
 14. [Black representation: ‘I never saw a teacher who looked like me’](https://www.bbc.co.uk/news/uk-wales-57983960) - Natalie Jones says teaching did not seem like a possible career choice for her.

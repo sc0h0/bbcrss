@@ -1,14 +1,14 @@
-1. [Activision staff condemn firm's response to harassment claims](https://www.bbc.co.uk/news/technology-57984784) - About 1,000 Activision Blizzard staff sign a letter describing managers' response as insulting.
-2. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
-3. [Over-60s with only virtual contact 'more lonely'](https://www.bbc.co.uk/news/technology-57970595) - UK-US research finds old people who used only telephone and online communication were more lonely.
-4. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.
-5. [Amazon Bitcoin job ad boosts cryptocurrency surge](https://www.bbc.co.uk/news/technology-57971451) - News Amazon is hiring a digital-currency expert has helped boost the value of Bitcoin.
-6. [Shares in Chinese online tutoring firms slump after shake-up](https://www.bbc.co.uk/news/business-57966027) - It is one of the biggest ever overhauls of China's $120bn private tutoring industry.
-7. [Tencent shares slide after Beijing crackdown on music rights](https://www.bbc.co.uk/news/business-57966023) - China's market watchdog said the technology giant broke the country's anti-competition rules.
-8. [Face palm: When the emoji you want doesn't exist](https://www.bbc.co.uk/news/technology-57848226) - There are about 3,000 emojis to choose from but what happens when the one you want isn't there?
-9. [Zuckerberg wants Facebook to become online 'metaverse'](https://www.bbc.co.uk/news/technology-57942909) - CEO wants users to work, game and communicate in a virtual world, often using VR headsets.
-10. [Printer ink pricier than champagne finds Which?](https://www.bbc.co.uk/news/technology-57941625) - According to a Which survey a pint of printer ink could cost up to £1,300.
-11. [Ransomware key to unlock customer data from REvil attack](https://www.bbc.co.uk/news/technology-57946117) - The gang behind the attack had previously asked for $70m to access the stolen files.
+1. [Twitter accused of inaction on anti-Semitic tweets](https://www.bbc.co.uk/news/technology-57970598) - Campaign Against Antisemitism says many reported hateful tweets are not being removed.
+2. [Activision staff condemn firm's response to harassment claims](https://www.bbc.co.uk/news/technology-57984784) - About 1,000 Activision Blizzard staff sign a letter describing managers' response as insulting.
+3. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
+4. [Over-60s with only virtual contact 'more lonely'](https://www.bbc.co.uk/news/technology-57970595) - UK-US research finds old people who used only telephone and online communication were more lonely.
+5. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.
+6. [Amazon Bitcoin job ad boosts cryptocurrency surge](https://www.bbc.co.uk/news/technology-57971451) - News Amazon is hiring a digital-currency expert has helped boost the value of Bitcoin.
+7. [Shares in Chinese online tutoring firms slump after shake-up](https://www.bbc.co.uk/news/business-57966027) - It is one of the biggest ever overhauls of China's $120bn private tutoring industry.
+8. [Tencent shares slide after Beijing crackdown on music rights](https://www.bbc.co.uk/news/business-57966023) - China's market watchdog said the technology giant broke the country's anti-competition rules.
+9. [Face palm: When the emoji you want doesn't exist](https://www.bbc.co.uk/news/technology-57848226) - There are about 3,000 emojis to choose from but what happens when the one you want isn't there?
+10. [Zuckerberg wants Facebook to become online 'metaverse'](https://www.bbc.co.uk/news/technology-57942909) - CEO wants users to work, game and communicate in a virtual world, often using VR headsets.
+11. [Printer ink pricier than champagne finds Which?](https://www.bbc.co.uk/news/technology-57941625) - According to a Which survey a pint of printer ink could cost up to £1,300.
 12. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
 13. [Beach rover picks up cigarette butts and other tech news](https://www.bbc.co.uk/news/technology-57930091) - Jen Copestake looks at some of the best technology news stories of the week.
 14. [Cyber-flashing: 'I get explicit messages every day'](https://www.bbc.co.uk/news/uk-57902816) - Influencer Elle Edwards lets us inside her DMs to show the extent of sexual abuse faced by women online.
