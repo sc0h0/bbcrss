@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 19:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 19:26:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,18 @@
             <pubDate>Tue, 27 Jul 2021 18:01:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: EU halts legal action against UK over NI Protocol 'breaches']]></title>
+            <title><![CDATA[Brexit: EU pauses legal action against UK over NI Protocol 'breaches']]></title>
             <description><![CDATA[The action began in March after the UK made a move to change the implementation of the protocol.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57986307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57986307</guid>
-            <pubDate>Tue, 27 Jul 2021 18:25:34 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 19:11:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Over-12s should be offered vaccine, says Peter Weir]]></title>
+            <description><![CDATA[Former Education Minister Peter Weir says doing so could reduce virus spread and school absences.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57992080</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57992080</guid>
+            <pubDate>Tue, 27 Jul 2021 19:09:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Roads and property flooded in NI thunderstorms]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57984521</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57984521</guid>
             <pubDate>Tue, 27 Jul 2021 10:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Missing ring found by father-and-son detectorists at Downhill]]></title>
-            <description><![CDATA[Metal detectorists Andy and Ryan McCloy came to the rescue after a bride-to-be's social media appeal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57975051</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57975051</guid>
-            <pubDate>Tue, 27 Jul 2021 18:50:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: Sammy Wilson clashed with Edwin Poots over NI Protocol]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Mon, 26 Jul 2021 17:23:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Missing ring found by father-and-son detectorists at Downhill]]></title>
+            <description><![CDATA[Metal detectorists Andy and Ryan McCloy came to the rescue after a bride-to-be's social media appeal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57975051</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57975051</guid>
+            <pubDate>Tue, 27 Jul 2021 18:50:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
             <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-57911348</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57911348</guid>
             <pubDate>Thu, 22 Jul 2021 23:15:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Ireland's women's hockey team's journey to their first Games]]></title>
-            <description><![CDATA[BBC Sport NI looks into the journey of the Ireland women's hockey team ahead of their first Olympic Games]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57877092</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57877092</guid>
-            <pubDate>Fri, 23 Jul 2021 05:13:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bride-to-be reunited with ring lost on Downhill Beach]]></title>

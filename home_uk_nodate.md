@@ -10,7 +10,7 @@
 10. [IMF upgrades UK economic forecast](https://www.bbc.co.uk/news/business-57987091) - Wealth gap between countries could widen due to differing access to Covid vaccines, the IMF says.
 11. [Covid: Alert over inaccurate thermometers bought in UK](https://www.bbc.co.uk/news/health-57982479) - Sales have increased in the pandemic but some products are not fit for purpose, UK regulator warns.
 12. [A27 crash: Lorry driver caught on camera texting before collision](https://www.bbc.co.uk/news/uk-england-sussex-57988029) - Derek Holland texted and used both hands to peel a banana before a crash which injured three people.
-13. [DaBaby's HIV and gay comments 'perpetuate discrimination'](https://www.bbc.co.uk/news/newsbeat-57984070) - The rapper made false claims about the life expectancy of people with HIV at a US festival.
+13. [Instagram makes under-16s' accounts private by default](https://www.bbc.co.uk/news/technology-57984790) - Only approved followers can see posts and "like" or comment on accounts that retain the private setting.
 14. [Dad builds robotic exoskeleton to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
 15. [Beach handball: 'It's shocking to have to pay to not play in our pants'](https://www.bbc.co.uk/news/uk-57940896) - Tonje Lerstad tells Newsbeat about a rollercoaster week for Norway's women's beach handball team.
 16. [Turner Prize returns to Tate Liverpool after 15 years](https://www.bbc.co.uk/news/uk-england-merseyside-57982406) - The renowned event will be held at the Tate Liverpool gallery in late 2022, it is announced.
