@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 16:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 16:44:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Roads and property flooded in NI thunderstorms]]></title>
+            <description><![CDATA[Police warn motorists to be cautious as the Met Office issued a yellow weather warning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57990217</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57990217</guid>
+            <pubDate>Tue, 27 Jul 2021 16:34:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[High Street voucher scheme: Robin Swann to consider vaccination link]]></title>
             <description><![CDATA[Robin Swann says he will look at only allowing those fully vaccinated to cash in high street vouchers.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Tue, 27 Jul 2021 07:23:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Irish vaccine programme to include 12-15-year-olds]]></title>
-            <description><![CDATA[Taoiseach (Irish PM) Micheál Martin says it represents a "significant opening up" of the programme.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57984314</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57984314</guid>
-            <pubDate>Tue, 27 Jul 2021 14:25:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Irish Sea rescue after man spends 10 hours in water]]></title>
             <description><![CDATA[The man is "stressed but stable" after his ordeal in the Irish Sea off the coast of County Louth.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57984521</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57975051</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57975051</guid>
             <pubDate>Tue, 27 Jul 2021 12:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Irish vaccine programme to include 12-15-year-olds]]></title>
+            <description><![CDATA[Taoiseach (Irish PM) Micheál Martin says it represents a "significant opening up" of the programme.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57984314</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57984314</guid>
+            <pubDate>Tue, 27 Jul 2021 14:25:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Getting back on stage will 'feel like Christmas']]></title>

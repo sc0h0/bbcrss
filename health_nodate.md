@@ -1,11 +1,11 @@
 1. [Contaminated-blood inquiry: Former Health Minister Clarke denies responsibility](https://www.bbc.co.uk/news/uk-57986582) - Lord Clarke is the first senior health minister from the 1980s to testify on the NHS scandal.
-2. [Covid: Alert over inaccurate thermometers bought in UK](https://www.bbc.co.uk/news/health-57982479) - Sales have increased in the pandemic but some products are not fit for purpose, UK regulator warns.
-3. [Lockdown weight gain averaging half a stone - survey](https://www.bbc.co.uk/news/health-57968651) - Four in 10 adults in England have become fatter during the pandemic, a survey suggests.
-4. [Ian Paterson: Plans for further breast surgeon compensation](https://www.bbc.co.uk/news/uk-england-birmingham-57967899) - A further 5,500 patients of Ian Paterson have been identified since he was jailed.
-5. [Coronavirus infections continue to fall in UK](https://www.bbc.co.uk/news/health-57962995) - But any rise in cases linked to the 19 July unlocking is unlikely to show up in the daily data just yet.
-6. [Senior doctors in England to be consulted on NHS pay offer](https://www.bbc.co.uk/news/uk-57964780) - The BMA doctors' union says the 3% pay rise offer for NHS staff in England is "bitterly disappointing".
-7. [Flooded London hospitals ask patients to stay away](https://www.bbc.co.uk/news/uk-57965298) - Torrential rain saw severe flooding in homes, roads and tube stations in parts of London on Sunday.
-8. [Whipps Cross Hospital patients evacuated after flooding](https://www.bbc.co.uk/news/uk-england-london-57971381) - Planned surgery and outpatient appointments at Whipps Cross Hospital are cancelled after "huge" floods.
+2. [Covid: UK Covid cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
+3. [Covid: Alert over inaccurate thermometers bought in UK](https://www.bbc.co.uk/news/health-57982479) - Sales have increased in the pandemic but some products are not fit for purpose, UK regulator warns.
+4. [Covid-19: Irish vaccine programme to include 12-15-year-olds](https://www.bbc.co.uk/news/world-europe-57984314) - Taoiseach (Irish PM) Micheál Martin says it represents a "significant opening up" of the programme.
+5. [Lockdown weight gain averaging half a stone - survey](https://www.bbc.co.uk/news/health-57968651) - Four in 10 adults in England have become fatter during the pandemic, a survey suggests.
+6. [Ian Paterson: Plans for further breast surgeon compensation](https://www.bbc.co.uk/news/uk-england-birmingham-57967899) - A further 5,500 patients of Ian Paterson have been identified since he was jailed.
+7. [Coronavirus infections continue to fall in UK](https://www.bbc.co.uk/news/health-57962995) - But any rise in cases linked to the 19 July unlocking is unlikely to show up in the daily data just yet.
+8. [Senior doctors in England to be consulted on NHS pay offer](https://www.bbc.co.uk/news/uk-57964780) - The BMA doctors' union says the 3% pay rise offer for NHS staff in England is "bitterly disappointing".
 9. [Concussion and sport: How the lives of ex-sportspeople have been affected by concussion](https://www.bbc.co.uk/sport/57932622) - BBC Radio 5 Live speaks to former sportsmen and women and their families about how concussion has changed their lives.
 10. [Covid: Where and why is the US vaccine rollout slowing down?](https://www.bbc.co.uk/news/57889961) - Vaccinations in the US are slowing as infections rise - we've looked at where and why this is happening.
 11. [Covid: What happens when people no longer have to wear masks?](https://www.bbc.co.uk/news/health-57861677) - Face coverings became optional in many settings in England on Monday - what's the evidence for them?
@@ -36,7 +36,7 @@
 36. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 37. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 38. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-39. [Dad builds robotic 'exo-skeleton' to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
+39. [Dad builds robotic exoskeleton to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
 40. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.
 41. [Michael Gove on vaccine passports at events with big crowds](https://www.bbc.co.uk/news/uk-politics-57988623) - People should be “confident” those attending large-scale events are “less likely to be carriers of the virus”, the Cabinet Office Minister says.
 42. [Boris Johnson on Covid infection rates falling for six days](https://www.bbc.co.uk/news/uk-politics-57986503) - The prime minister urges people not to “run away with premature conclusions” amid a fall in positive test numbers.

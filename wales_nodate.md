@@ -4,10 +4,10 @@
 4. [David Jones death: Man jailed for nine years for manslaughter](https://www.bbc.co.uk/news/uk-wales-57981505) - David John Jones died in hospital after he was assaulted in Holyhead, in November.
 5. [Bute Park attack: Girl, 16, held on suspicion of attempted murder](https://www.bbc.co.uk/news/uk-wales-57984253) - Two men have already appeared in court after a man received life-threatening injuries in an attack.
 6. [Lumberjack out of sight when tree crushed him to death](https://www.bbc.co.uk/news/uk-wales-57984255) - Ben Thomas died at work when a tree fell on him as he cleared wood from a forest.
-7. [Cardigan murder: Accused in court as man stabbed seven times](https://www.bbc.co.uk/news/uk-wales-57989174) - Ashley Keegan appears in court charged with murdering John Bell in Cardigan.
-8. [Brexit: The Walnut Tree temporarily closes because of 'staff shortage'](https://www.bbc.co.uk/news/uk-wales-57971770) - A well-known Welsh restaurant has temporarily closed because of a "staff shortage".
-9. [Sunburn and back pain among non-emergency 999 calls](https://www.bbc.co.uk/news/uk-wales-57983962) - One person called 999 to say they were unable to go to the toilet, the ambulance service says.
-10. [A487 Porthmadog crash: Van driver airlifted to hospital](https://www.bbc.co.uk/news/uk-wales-57981501) - Police were called to the A487 on Tuesday, with the other driver believed to have minor injuries.
+7. [Elaine Hidden died after three calls for an ambulance, inquest hears](https://www.bbc.co.uk/news/uk-wales-57980963) - Asthma sufferer Elaine Hidden's family made three 999 calls for an ambulance, an inquest hears.
+8. ['Pingdemic' pressure on council staff and services](https://www.bbc.co.uk/news/uk-wales-57984250) - Waste, recycling and social services are being particularly hard hit by staff absence, leaders say.
+9. [Cardigan murder: Accused in court as man stabbed seven times](https://www.bbc.co.uk/news/uk-wales-57989174) - Ashley Keegan appears in court charged with murdering John Bell in Cardigan.
+10. [Sunburn and back pain among non-emergency 999 calls](https://www.bbc.co.uk/news/uk-wales-57983962) - One person called 999 to say they were unable to go to the toilet, the ambulance service says.
 11. [Sea scooter riders 'face barrage of criticism'](https://www.bbc.co.uk/news/uk-wales-57973510) - TV presenter Iolo Williams had reported seeing riders plough through sea birds off the Welsh coast.
 12. [BAME teacher shortage at 'crisis point' in Wales](https://www.bbc.co.uk/news/uk-wales-57978728) - A shortage of role models could be one of the reasons why there is a lack, says one new teacher.
 13. [World War Two Arctic Convoys veteran given Royal Navy funeral](https://www.bbc.co.uk/news/uk-wales-57976879) - Alan Higgins honoured after surviving being torpedoed, the D-Day landings and World War Two.
