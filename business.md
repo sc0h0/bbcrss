@@ -1,4 +1,4 @@
-1. [Tech giants' profits soar as pandemic boom continues](https://www.bbc.co.uk/news/business-57979268) - Tue, 27 Jul 2021 21:13:17 GMT - Apple, Google parent company Alphabet and Microsoft report soaring quarterly profits.
+1. [Tech giants' profits soar as pandemic boom continues](https://www.bbc.co.uk/news/business-57979268) - Tue, 27 Jul 2021 22:06:12 GMT - Apple, Google parent company Alphabet and Microsoft report soaring quarterly profits.
 2. [Morrisons' shareholder will not back takeover bid](https://www.bbc.co.uk/news/business-57991894) - Tue, 27 Jul 2021 18:11:44 GMT - Silchester International says it is not inclined to support a £6.3bn deal for the supermarket chain.
 3. [Tesco offers £1,000 joining bonus for HGV lorry drivers](https://www.bbc.co.uk/news/business-57983698) - Tue, 27 Jul 2021 17:34:16 GMT - The supermarket chain is deploying the recruitment tactic amid a shortage in lorry drivers.
 4. [Covid: Insurance threat for pinged holidaymakers](https://www.bbc.co.uk/news/business-57983455) - Tue, 27 Jul 2021 10:11:02 GMT - Some travel insurance policies will not cover cancellation costs for travellers told to self-isolate.
