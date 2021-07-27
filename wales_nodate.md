@@ -1,4 +1,4 @@
-1. [Mum hit by car at Denbighshire festival as daughter, 2, 'thrown to safety'](https://www.bbc.co.uk/news/uk-wales-57979208) - "I genuinely believed my whole family had died", says Jenna O'Neill, who suffered serious injuries.
+1. [Mum hit by car at Denbighshire festival as daughter, 2, thrown to safety](https://www.bbc.co.uk/news/uk-wales-57979208) - "I genuinely believed my whole family had died", says Jenna O'Neill, who suffered serious injuries.
 2. ['Open land for wild camping in Wales', say campaigners](https://www.bbc.co.uk/news/uk-wales-57440636) - As holidaymakers face difficulties booking traditional campsites, some are looking elsewhere.
 3. [Brexit: The Walnut Tree temporarily closes because of 'staff shortage'](https://www.bbc.co.uk/news/uk-wales-57971770) - A well-known Welsh restaurant has temporarily closed because of a "staff shortage".
 4. [Sea scooter riders 'face barrage of criticism'](https://www.bbc.co.uk/news/uk-wales-57973510) - TV presenter Iolo Williams had reported seeing riders plough through sea birds off the Welsh coast.
@@ -23,6 +23,6 @@
 23. [British and Irish Lions 2021: Mako Vunipola rejects Rassie Erasmus 'reckless' claim](https://www.bbc.co.uk/sport/rugby-union/57967792) - Prop Mako Vunipola rejects Rassie Erasmus' suggestion that he was "dangerous" and "reckless" during the British and Irish Lions' 22-17 first Test victory in South Africa.
 24. ['Cleifion yn sownd yn yr ysbyty o achos prinder gofalwyr'](https://www.bbc.co.uk/newyddion/57941170) - Cyngor Gwynedd yn cydnabod bod recriwtio digon o ofalwyr i drin pobl yn eu cartrefi yn broblem.
 25. ['Argyfwng' prinder athrawon o gefndir ethnig lleiafrifol](https://www.bbc.co.uk/newyddion/57941171) - Prinder athrawon o gefndir ethnig lleiafrifol wedi cyrraedd pwynt o "argyfwng", yn ôl cadeirydd Cyngor Hil Cymru.
-26. [Galw am adolygiad o ddiogelwch Mark Drakeford yn sgil protest](https://www.bbc.co.uk/newyddion/57949110) - Arbenigwr yn galw am adolygiad o ddiogelwch y Prif Weinidog yn dilyn protest y tu allan i'w dŷ.
+26. [Beicwyr dŵr: 'Rhai unigolion sy'n rhoi enw drwg'](https://www.bbc.co.uk/newyddion/57974000) - Mae'r heddlu wedi bygwth erlyn yn dilyn adroddiadau o feicwyr dŵr yn amharu ar fywyd gwyllt yn y gogledd.
 27. [Anabledd yn arwain at yrfa o helpu eraill yn stadiwm Liberty](https://www.bbc.co.uk/newyddion/57916025) - Mae gan Mark Phillips Barlys yr Ymennydd ac mae'n 'profi pawb yn anghywir' yn ei yrfa gyda Chlwb Pêl-droed Abertawe
 28. ['Y Llewod wedi dangos eu dannedd yn Cape Town'](https://www.bbc.co.uk/newyddion/57974001) - Doedd hi ddim yn bert, ond roedd ennill y prawf cyntaf yn hollbwysig, meddai Cennydd Davies.

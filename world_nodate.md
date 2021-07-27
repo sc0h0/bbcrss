@@ -1,5 +1,5 @@
-1. [US combat forces to leave Iraq by end of year](https://www.bbc.co.uk/news/world-us-canada-57970464) - The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.
-2. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.
+1. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.
+2. [US combat forces to leave Iraq by end of year](https://www.bbc.co.uk/news/world-us-canada-57970464) - The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.
 3. [Malcolm Turnbull: Australia ex-PM says vaccine rollout 'a colossal failure'](https://www.bbc.co.uk/news/world-australia-57980530) - Ex-PM Malcolm Turnbull tells the BBC he believes Australia's borders won't reopen until early 2022.
 4. [North and South Korea restore hotline after a year](https://www.bbc.co.uk/news/world-57979937) - The two countries have not spoke since Pyongyang cut off all channels of communication last year.
 5. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to pay $2bn in Nasa costs to be reconsidered for a key Moon lander contract.

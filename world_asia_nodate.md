@@ -1,4 +1,4 @@
-1. [Tokyo Olympics: Naomi Osaka loses to Marketa Vondrousova](https://www.bbc.co.uk/sport/olympics/57980493) - Japanese superstar Naomi Osaka suffers a surprise exit in her home Olympics as Czech Marketa Vondrousova earns a straight-set win.
+1. [Tokyo Olympics: Naomi Osaka loses to Marketa Vondrousova in women's singles tennis](https://www.bbc.co.uk/sport/olympics/57980493) - Japanese superstar Naomi Osaka suffers a surprise exit in her home Olympics as Czech Marketa Vondrousova earns a straight-set win.
 2. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.
 3. [North and South Korea restore hotline after a year](https://www.bbc.co.uk/news/world-57979937) - The two countries have not spoke since Pyongyang cut off all channels of communication last year.
 4. [Archibald Prize: 100 years of Australia's top portrait honour](https://www.bbc.co.uk/news/world-australia-57967778) - Over 100 years, the Archibald Prize has become better at reflecting Australian diversity.
