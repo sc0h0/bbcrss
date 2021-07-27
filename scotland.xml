@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 13:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 14:14:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Tue, 27 Jul 2021 14:01:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flooding concerns as heavy rain and heavy rain forecast]]></title>
             <description><![CDATA[The Met Office issues an amber warning for thunderstorms covering a large part of the country.]]></description>
@@ -37,18 +44,25 @@
             <pubDate>Tue, 27 Jul 2021 08:39:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid risk 'eight times higher' for shielding group, study shows]]></title>
-            <description><![CDATA[A study has shown people advised to shield were also five times more likely to die from the virus.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57982227</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57982227</guid>
-            <pubDate>Tue, 27 Jul 2021 10:24:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Post-lockdown rise in harassment of dolphins]]></title>
             <description><![CDATA[Conservationists say there has been a rise in boat traffic-related disturbance of the protected species.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57982738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57982738</guid>
             <pubDate>Tue, 27 Jul 2021 11:19:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Air traffic controllers strike to shut six Hial airports]]></title>
+            <description><![CDATA[Inverness, Sumburgh and Dundee are among the airports affected by a dispute over changes to air traffic control.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57982741</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57982741</guid>
+            <pubDate>Tue, 27 Jul 2021 14:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid risk 'eight times higher' for shielding group, study shows]]></title>
+            <description><![CDATA[A study has shown people advised to shield were also five times more likely to die from the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57982227</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57982227</guid>
+            <pubDate>Tue, 27 Jul 2021 10:24:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shetland fires 'should act as warning to modular building industry']]></title>
@@ -58,32 +72,11 @@
             <pubDate>Tue, 27 Jul 2021 07:52:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Long Covid: 'I don't feel 23 anymore, I feel so much older']]></title>
-            <description><![CDATA[Heather Campbell tested positive for the virus in November, six months after starting her nursing career.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57978645</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57978645</guid>
-            <pubDate>Tue, 27 Jul 2021 07:52:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fresh bid to save McVitie's biscuit factory from closure]]></title>
             <description><![CDATA[Nearly 500 jobs are at risk at the factory in the east end of Glasgow, which opened almost 100 years ago.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57979182</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57979182</guid>
             <pubDate>Tue, 27 Jul 2021 11:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: Loch tragedy dad and row over Covid milestone]]></title>
-            <description><![CDATA[A man who tried to save his wife and son from drowning and a row over Covid jabs makes the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57980770</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57980770</guid>
-            <pubDate>Tue, 27 Jul 2021 06:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Mon, 26 Jul 2021 14:58:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
@@ -140,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57076243</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57076243</guid>
             <pubDate>Tue, 15 Jun 2021 14:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long Covid: 'I don't feel 23 anymore, I feel so much older']]></title>
+            <description><![CDATA[Heather Campbell tested positive for the virus in November, six months after starting her nursing career.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57978645</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57978645</guid>
+            <pubDate>Tue, 27 Jul 2021 14:07:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The repair shop trying to fix throwaway culture]]></title>

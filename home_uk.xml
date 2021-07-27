@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 13:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 14:18:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,14 +27,14 @@
             <description><![CDATA[Simone Biles pulled out of the gymnastics women's team final at Tokyo 2020 before her United States team went on to claim silver.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57982665</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57982665</guid>
-            <pubDate>Tue, 27 Jul 2021 13:34:27 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 14:05:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GB's Dean takes stunning gold in swimming]]></title>
-            <description><![CDATA[Tom Dean takes gold ahead of compatriot Duncan Scott, while Georgia Taylor-Brown wins triathlon silver as Great Britain's strong start to the Tokyo Games continues.]]></description>
+            <description><![CDATA[Tom Dean takes gold ahead of compatriot Duncan Scott as Great Britain makes its best ever start to an Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57980135</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57980135</guid>
-            <pubDate>Tue, 27 Jul 2021 12:43:39 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 13:55:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: PM warns against 'premature conclusions' as cases fall]]></title>
@@ -76,7 +76,14 @@
             <description><![CDATA[Appointments at Whipps Cross have also been rearranged with some to be held virtually.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57964769</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57964769</guid>
-            <pubDate>Tue, 27 Jul 2021 13:47:16 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 14:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Alert over inaccurate thermometers bought in UK]]></title>
+            <description><![CDATA[Sales have increased in the pandemic but some products are not fit for purpose, UK regulator warns.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57982479</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57982479</guid>
+            <pubDate>Tue, 27 Jul 2021 13:50:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tesco offers £1,000 joining bonus for HGV lorry drivers]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-57983698</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57983698</guid>
             <pubDate>Tue, 27 Jul 2021 13:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home Office to investigate deportation of Chinese sailors after WW2]]></title>
-            <description><![CDATA[An MP says investigating why Chinese sailors were deported from Liverpool is a "step in the right direction".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-57967833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-57967833</guid>
-            <pubDate>Tue, 27 Jul 2021 09:04:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DaBaby's HIV and gay comments 'perpetuate discrimination']]></title>
@@ -240,25 +240,11 @@
             <pubDate>Sun, 25 Jul 2021 23:06:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Jennifer Gadirova's floor routine in GB's surprise bronze medal display]]></title>
-            <description><![CDATA[Watch Jennifer Gadirova's floor routine as Great Britain win a surprise bronze medal - their first women's team gymnastics medal since 1928.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57987512</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57987512</guid>
-            <pubDate>Tue, 27 Jul 2021 13:32:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Bianca Walkden earns bronze for GB after semi-final defeat]]></title>
             <description><![CDATA[Great Britain's Bianca Walkden recovers from an agonising semi-final defeat to beat Aleksandra Kowalczuk of Poland to bronze in the Olympic taekwondo +67kg.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57982790</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57982790</guid>
             <pubDate>Tue, 27 Jul 2021 12:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Simone Biles pulls out of women's team final after vault]]></title>
-            <description><![CDATA[USA's Simone Biles pulls out of the women's team gymnastics final after performing her vault routine at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57984124</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57984124</guid>
-            <pubDate>Tue, 27 Jul 2021 11:50:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vunipola, Murray and Harris to start second Lions Test]]></title>
@@ -282,6 +268,13 @@
             <pubDate>Wed, 16 Jun 2021 07:57:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo 2020: Tom Dean wins gold with Duncan Scott clinching silver for GB in men's 200m freestyle]]></title>
+            <description><![CDATA[Watch all the action and reaction from family and friends as Team GB's Tom Dean wins 200m freestyle gold with team-mate Duncan Scott clinching silver at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57984120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57984120</guid>
+            <pubDate>Tue, 27 Jul 2021 10:53:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tom Dean: Swimmer's family and friends celebrate his 200m freestyle gold]]></title>
             <description><![CDATA[Watch what happened when Team GB swimmer Tom Dean's family and friends gathered in his mum's garden to watch him in the 200m freestyle final at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57979950</link>
@@ -289,11 +282,25 @@
             <pubDate>Tue, 27 Jul 2021 05:31:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Jennifer Gadirova's floor routine in GB's surprise bronze medal display]]></title>
+            <description><![CDATA[Watch Jennifer Gadirova's floor routine as Great Britain win a surprise bronze medal - their first women's team gymnastics medal since 1928.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57987512</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57987512</guid>
+            <pubDate>Tue, 27 Jul 2021 13:32:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Great Britain - including Charlotte Dujardin - win team dressage bonze]]></title>
             <description><![CDATA[Charlotte Dujardin moves alongside Katherine Grainger as Great Britain's most decorated female Olympian as she claims team dressage bronze.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57982071</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57982071</guid>
-            <pubDate>Tue, 27 Jul 2021 13:52:02 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 14:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Simone Biles pulls out of women's team final after vault]]></title>
+            <description><![CDATA[USA's Simone Biles pulls out of the women's team gymnastics final after performing her vault routine at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57984124</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57984124</guid>
+            <pubDate>Tue, 27 Jul 2021 11:50:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Naomi Osaka loses to Marketa Vondrousova in women's singles tennis]]></title>
@@ -412,7 +419,7 @@
             <description><![CDATA[Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 26 Jul 2021 08:39:32 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 13:59:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long Covid: What is it and what are the symptoms?]]></title>

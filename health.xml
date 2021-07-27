@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 13:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 14:13:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Contaminated blood inquiry: Former health minister Clarke to give evidence]]></title>
-            <description><![CDATA[It is the first time a senior minister serving at the time of the scandal has faced the inquiry.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57979570</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57979570</guid>
-            <pubDate>Tue, 27 Jul 2021 03:29:17 GMT</pubDate>
+            <title><![CDATA[Contaminated-blood inquiry: Former Health Minister Clarke denies responsibility]]></title>
+            <description><![CDATA[Lord Clarke is the first senior health minister from the 1980s to testify on the NHS scandal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57986582</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57986582</guid>
+            <pubDate>Tue, 27 Jul 2021 14:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Alert over inaccurate thermometers bought in UK]]></title>
+            <description><![CDATA[Sales have increased in the pandemic but some products are not fit for purpose, UK regulator warns.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57982479</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57982479</guid>
+            <pubDate>Tue, 27 Jul 2021 13:50:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lockdown weight gain averaging half a stone - survey]]></title>
@@ -63,20 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-57971381</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57971381</guid>
             <pubDate>Mon, 26 Jul 2021 17:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Moderna jab approved for teenagers in EU]]></title>
-            <description><![CDATA[Vaccination with Moderna's jab can now be extended to adolescents, the EU medicines watchdog says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57947183</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57947183</guid>
-            <pubDate>Fri, 23 Jul 2021 15:58:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Recent claims about cremations and vaccines fact-checked]]></title>
-            <description><![CDATA[Debunking claims shared widely on social media about cremations in the UK and US vaccine statistics.]]></description>
-            <link>https://www.bbc.co.uk/news/57941113</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57941113</guid>
-            <pubDate>Sun, 25 Jul 2021 23:09:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Concussion and sport: How the lives of ex-sportspeople have been affected by concussion]]></title>
@@ -223,7 +216,7 @@
             <description><![CDATA[Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 26 Jul 2021 08:39:32 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 13:59:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: When will I get the vaccine?]]></title>
