@@ -1,5 +1,5 @@
-1. [Mum hit by car at Denbighshire festival as daughter, 2, thrown to safety](https://www.bbc.co.uk/news/uk-wales-57979208) - "I genuinely believed my whole family had died," says Jenna O'Neill, who suffered serious injuries.
-2. [Pub beer garden crash man 'happy to be alive' ](https://www.bbc.co.uk/news/uk-wales-57983966) - Darren George, 30, remains in hospital after a car crashed into a pub beer garden.
+1. [Pub beer garden crash man 'happy to be alive' ](https://www.bbc.co.uk/news/uk-wales-57983966) - Darren George, 30, remains in hospital after a car crashed into a pub beer garden.
+2. [Mum hit by car at Denbighshire festival as daughter, 2, thrown to safety](https://www.bbc.co.uk/news/uk-wales-57979208) - "I genuinely believed my whole family had died," says Jenna O'Neill, who suffered serious injuries.
 3. [Mark Drakeford's safety not at risk from protest at his home, police say](https://www.bbc.co.uk/news/uk-wales-politics-57983585) - Police defend handling of protest at first minister's home in Cardiff.
 4. [Covid in Wales: Shielding will not be used again, top doctor says](https://www.bbc.co.uk/news/uk-wales-politics-57983581) - The Welsh government says it will not ask 130,000 vulnerable people to isolate at home in future.
 5. [David Jones death: Man jailed for nine years for manslaughter](https://www.bbc.co.uk/news/uk-wales-57981505) - David John Jones died in hospital after he was assaulted in Holyhead, in November.
@@ -24,6 +24,6 @@
 24. [The Hundred: Welsh Fire fans upset by late ticket cancellations at Sophia Gardens](https://www.bbc.co.uk/sport/cricket/57989657) - Cricket fans are left frustrated after 1,000 tickets were cancelled just days before Welsh Fire's first home game in Cardiff.
 25. ['Dim bygythiad i'r Prif Weinidog' medd Heddlu'r De](https://www.bbc.co.uk/newyddion/57991012) - Cafodd pryderon eu mynegi am ddiogelwch Mark Drakeford wedi protest y tu allan i'w gartref.
 26. [Dyn yn y llys ar gyhuddiad o lofruddio yn Aberteifi](https://www.bbc.co.uk/newyddion/57982081) - Cafodd John Williams Bell, 37, ei ddarganfod ar y ffordd i Bont Aberteifi yn oriau mân 21 Gorffennaf.
-27. [Cleifion 'yn gaeth' yn ysbytai Gwynedd achos diffyg gofalwyr](https://www.bbc.co.uk/newyddion/57941170) - Mae dros 20 o bobl yn methu gadael ysbytai yn Nhremadog a Bangor oherwydd diffyg gofalwyr, meddai gwleidydd lleol.
+27. [Dyn gafodd ei daro ger tafarn 'yn falch i fod yn fyw'](https://www.bbc.co.uk/newyddion/57991013) - Mae Darren George, 30, yn dal yn yr ysbyty wedi i gar daro i mewn iddo mewn gardd tafarn ym Mhontyclun.
 28. [Beth sy'n digwydd yn Eisteddfod 2021?](https://www.bbc.co.uk/newyddion/57984353) - Sut allwch chi ddilyn y Brifwyl eleni?
 29. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Conor Murray, Chris Harris a Mako Vunipola yn dechrau, gyda'r Cymro, Taulupe Faletau ar y fainc.

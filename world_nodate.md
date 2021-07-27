@@ -1,5 +1,5 @@
 1. [Biles says mental health concerns led to pull out](https://www.bbc.co.uk/sport/olympics/57982665) - Simone Biles says she "has to focus on her mental health" after pulling out of the gymnastics women's team final at Tokyo 2020.
-2. [Capitol riot: Officers describe racial slurs at 6 January hearing](https://www.bbc.co.uk/news/world-us-canada-57989578) - Four officers who fought Trump supporters on 6 January give evidence at the first day of an inquiry.
+2. [Capitol riot: Policeman tells 6 January hearing he feared he would die](https://www.bbc.co.uk/news/world-us-canada-57989578) - Four officers who fought Trump supporters on 6 January give evidence on the first day of an inquiry.
 3. [Atlanta spa shootings: Georgia man pleads guilty](https://www.bbc.co.uk/news/world-us-canada-57989425) - Robert Aaron Long, charged with killing eight people in March, says he murdered four of the victims.
 4. [Dad builds robotic exoskeleton to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
 5. [Leverkusen blast: German chemical plant explosion leaves one dead](https://www.bbc.co.uk/news/world-europe-57978043) - Officials in Leverkusen say four people are missing and 16 were injured in the blast on Tuesday.

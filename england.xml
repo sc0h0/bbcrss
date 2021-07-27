@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 17:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 18:17:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,25 @@
             <pubDate>Tue, 27 Jul 2021 15:44:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Simon Bramhall: Liver branding surgeon's suspension 'insufficient']]></title>
+            <description><![CDATA[Simon Bramhall branded his initials on two patients' livers during operations in Birmingham.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-57987154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-57987154</guid>
+            <pubDate>Tue, 27 Jul 2021 17:10:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid patient discharged after 203 days in Norfolk hospital]]></title>
+            <description><![CDATA[Sean Hunte's family was called three times to say their goodbyes to the 58-year-old teacher.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-57988590</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-57988590</guid>
+            <pubDate>Tue, 27 Jul 2021 17:34:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Callum Osborne-Ward: Sea and land search for missing teen resumes]]></title>
             <description><![CDATA[Callum Osborne-Ward went missing from a group that got into difficulty off the Dorset coast.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-dorset-57980977</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-57980977</guid>
             <pubDate>Tue, 27 Jul 2021 11:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A27 crash: Lorry driver caught on camera texting before collision]]></title>
-            <description><![CDATA[Derek Holland texted and used both hands to peel a banana before a crash which injured three people.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-57988029</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57988029</guid>
-            <pubDate>Tue, 27 Jul 2021 16:41:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suffolk staycation: 'You don't need to go abroad to holiday']]></title>
@@ -44,18 +51,11 @@
             <pubDate>Tue, 27 Jul 2021 13:10:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oldham killer who daubed victim's body in nail varnish is jailed]]></title>
-            <description><![CDATA[A man who stabbed his girlfriend to death before scrawling "it was me" on her body is jailed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57984198</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57984198</guid>
-            <pubDate>Tue, 27 Jul 2021 16:42:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Channel crossings: People smugglers 'using smaller boats as a diversion']]></title>
-            <description><![CDATA[Small dinghies distract police while larger boats cross the English Channel, a French MP says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-57981919</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57981919</guid>
-            <pubDate>Tue, 27 Jul 2021 12:14:33 GMT</pubDate>
+            <title><![CDATA[A27 crash: Lorry driver caught on camera texting before collision]]></title>
+            <description><![CDATA[Derek Holland texted and used both hands to peel a banana before a crash which injured three people.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-57988029</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57988029</guid>
+            <pubDate>Tue, 27 Jul 2021 16:41:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Home Office to investigate deportation of Chinese sailors after WW2]]></title>
@@ -72,25 +72,25 @@
             <pubDate>Tue, 27 Jul 2021 15:10:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Oldham killer who daubed victim's body in nail varnish is jailed]]></title>
+            <description><![CDATA[A man who stabbed his girlfriend to death before scrawling "it was me" on her body is jailed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57984198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57984198</guid>
+            <pubDate>Tue, 27 Jul 2021 16:42:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel crossings: People smugglers 'using smaller boats as a diversion']]></title>
+            <description><![CDATA[Small dinghies distract police while larger boats cross the English Channel, a French MP says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-57981919</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57981919</guid>
+            <pubDate>Tue, 27 Jul 2021 12:14:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wasp nest found in Peterborough toilet cistern]]></title>
             <description><![CDATA[Thousands of wasps set up home in a toilet cistern while the owner is briefly away.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-57977680</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-57977680</guid>
             <pubDate>Tue, 27 Jul 2021 13:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wayne Rooney: Cheshire Police reviewing blackmail complaint]]></title>
-            <description><![CDATA[Cheshire Police confirm a complaint of blackmail was made in relation to photos of Wayne Rooney.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57970050</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57970050</guid>
-            <pubDate>Tue, 27 Jul 2021 10:05:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Security expert to lead fresh London terror review]]></title>
-            <description><![CDATA[Sadiq Khan warns that extremists have used the lockdowns to "radicalise the vulnerable".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57982826</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57982826</guid>
-            <pubDate>Tue, 27 Jul 2021 10:43:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greater Manchester Police branded 'institutionally racist']]></title>
@@ -142,6 +142,13 @@
             <pubDate>Mon, 19 Jul 2021 09:34:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New agricultural techniques trialled in Devon]]></title>
+            <description><![CDATA[A South West nature reserve is pioneering new agricultural techniques as part of a UK-wide scheme.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-57990881</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-57990881</guid>
+            <pubDate>Tue, 27 Jul 2021 16:29:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Prince Philip: 'Surreal' letter from palace after royal portrait]]></title>
             <description><![CDATA[Honor sent a painting to the Queen after the prince's death and was surprised at the response.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989375</link>
@@ -149,7 +156,7 @@
             <pubDate>Tue, 27 Jul 2021 14:45:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Woman hikes 88 peaks in memory of mum]]></title>
+            <title><![CDATA[Woman hikes up 88 Peak District hills in memory of mother]]></title>
             <description><![CDATA[Lucy Coppack climbed to honour her mum, who designed one of the trig pillars marking the highest points.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57982402</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57982402</guid>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57961460</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57961460</guid>
             <pubDate>Sun, 25 Jul 2021 10:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chess: The 12-year-old boy taking the game by storm]]></title>
-            <description><![CDATA["Shrez" has been playing chess since he was five and wants to become world champion one day.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57919082</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57919082</guid>
-            <pubDate>Sun, 25 Jul 2021 06:31:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Art installation unveiled in Brighton in memory of Covid victims]]></title>
@@ -233,11 +233,11 @@
             <pubDate>Tue, 27 Jul 2021 13:55:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mike Hendrick: Former England, Derbyshire and Nottinghamshire bowler dies aged 72]]></title>
-            <description><![CDATA[Former England, Derbyshire and Nottinghamshire bowler Mike Hendrick dies at the age of 72.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/57988843</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57988843</guid>
-            <pubDate>Tue, 27 Jul 2021 15:09:05 GMT</pubDate>
+            <title><![CDATA[Raphael Varane: Man Utd confirm agreement with Real Madrid to sign defender]]></title>
+            <description><![CDATA[Manchester United confirm they have reached an agreement to sign France defender Raphael Varane from Real Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57885665</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57885665</guid>
+            <pubDate>Tue, 27 Jul 2021 18:12:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
