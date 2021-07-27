@@ -1,15 +1,15 @@
 1. [Mum hit by car at Denbighshire festival as daughter, 2, thrown to safety](https://www.bbc.co.uk/news/uk-wales-57979208) - "I genuinely believed my whole family had died", says Jenna O'Neill, who suffered serious injuries.
-2. [Covid in Wales: Shielding will not be used again, top doctor says](https://www.bbc.co.uk/news/uk-wales-politics-57983581) - The Welsh government says it will not ask 130,000 vulnerable people to isolate at home in future.
-3. [David Jones death: Man jailed for nine years for manslaughter](https://www.bbc.co.uk/news/uk-wales-57981505) - David John Jones died in hospital after he was assaulted in Holyhead, in November.
-4. [Bute Park attack: Girl, 16, held on suspicion of attempted murder](https://www.bbc.co.uk/news/uk-wales-57984253) - Two men have already appeared in court after a man received life-threatening injuries in an attack.
-5. [Lumberjack out of sight when tree crushed him to death](https://www.bbc.co.uk/news/uk-wales-57984255) - Ben Thomas died at work when a tree fell on him as he cleared wood from a forest.
-6. [A487 Porthmadog crash: Van driver airlifted to hospital](https://www.bbc.co.uk/news/uk-wales-57981501) - Police were called to the A487 on Tuesday, with the other driver believed to have minor injuries.
-7. [Brexit: The Walnut Tree temporarily closes because of 'staff shortage'](https://www.bbc.co.uk/news/uk-wales-57971770) - A well-known Welsh restaurant has temporarily closed because of a "staff shortage".
-8. [Sunburn and back pain among non-emergency 999 calls](https://www.bbc.co.uk/news/uk-wales-57983962) - One person called 999 to say they were unable to go to the toilet, the ambulance service says.
-9. ['Open land for wild camping in Wales', say campaigners](https://www.bbc.co.uk/news/uk-wales-57440636) - As holidaymakers face difficulties booking traditional campsites, some are looking elsewhere.
-10. [Sea scooter riders 'face barrage of criticism'](https://www.bbc.co.uk/news/uk-wales-57973510) - TV presenter Iolo Williams had reported seeing riders plough through sea birds off the Welsh coast.
-11. [BAME teacher shortage at 'crisis point' in Wales](https://www.bbc.co.uk/news/uk-wales-57978728) - A shortage of role models could be one of the reasons why there is a lack, says one new teacher.
-12. [Snowdon: Person dies in fall from Crib Goch ridge](https://www.bbc.co.uk/news/uk-wales-57980961) - The person died after falling on the lower slopes of Crib Goch's north ridge, say rescuers.
+2. [Pontyclun crash: Man hurt outside pub 'happy to be alive'](https://www.bbc.co.uk/news/uk-wales-57983966) - Darren George, 30, remains in hospital after a car crashed into a pub beer garden.
+3. [Covid in Wales: Shielding will not be used again, top doctor says](https://www.bbc.co.uk/news/uk-wales-politics-57983581) - The Welsh government says it will not ask 130,000 vulnerable people to isolate at home in future.
+4. [David Jones death: Man jailed for nine years for manslaughter](https://www.bbc.co.uk/news/uk-wales-57981505) - David John Jones died in hospital after he was assaulted in Holyhead, in November.
+5. [Bute Park attack: Girl, 16, held on suspicion of attempted murder](https://www.bbc.co.uk/news/uk-wales-57984253) - Two men have already appeared in court after a man received life-threatening injuries in an attack.
+6. [Lumberjack out of sight when tree crushed him to death](https://www.bbc.co.uk/news/uk-wales-57984255) - Ben Thomas died at work when a tree fell on him as he cleared wood from a forest.
+7. [Cardigan murder: Accused in court as man stabbed seven times](https://www.bbc.co.uk/news/uk-wales-57989174) - Ashley Keegan appears in court charged with murdering John Bell in Cardigan.
+8. [Brexit: The Walnut Tree temporarily closes because of 'staff shortage'](https://www.bbc.co.uk/news/uk-wales-57971770) - A well-known Welsh restaurant has temporarily closed because of a "staff shortage".
+9. [Sunburn and back pain among non-emergency 999 calls](https://www.bbc.co.uk/news/uk-wales-57983962) - One person called 999 to say they were unable to go to the toilet, the ambulance service says.
+10. [A487 Porthmadog crash: Van driver airlifted to hospital](https://www.bbc.co.uk/news/uk-wales-57981501) - Police were called to the A487 on Tuesday, with the other driver believed to have minor injuries.
+11. [Sea scooter riders 'face barrage of criticism'](https://www.bbc.co.uk/news/uk-wales-57973510) - TV presenter Iolo Williams had reported seeing riders plough through sea birds off the Welsh coast.
+12. [BAME teacher shortage at 'crisis point' in Wales](https://www.bbc.co.uk/news/uk-wales-57978728) - A shortage of role models could be one of the reasons why there is a lack, says one new teacher.
 13. [World War Two Arctic Convoys veteran given Royal Navy funeral](https://www.bbc.co.uk/news/uk-wales-57976879) - Alan Higgins honoured after surviving being torpedoed, the D-Day landings and World War Two.
 14. [Black representation: ‘I never saw a teacher who looked like me’](https://www.bbc.co.uk/news/uk-wales-57983960) - Natalie Jones says teaching did not seem like a possible career choice for her.
 15. [Tokyo Olympics: Lauren Williams' family celebrate silver medal success](https://www.bbc.co.uk/news/uk-wales-57978726) - Lauren Williams' sister proud of Tokyo 2020 taekwondo runner-up as family cheer on Welsh star.
