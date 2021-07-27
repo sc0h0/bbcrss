@@ -56,7 +56,7 @@
 56. [Covid: Hundreds of thousands of under-18s to get vaccine](https://www.bbc.co.uk/news/health-57885845) - The vaccines minister says children at high risk from Covid will be offered the jab.
 57. [Brexit: DUP leader calls for renegotiation of Brexit deal](https://www.bbc.co.uk/news/uk-northern-ireland-57885367) - Sir Jeffrey Donaldson was speaking after meeting the European Commission vice president on Monday.
 58. [Government set to lay out plans for abortion in NI](https://www.bbc.co.uk/news/uk-northern-ireland-57882472) - The commissioning of abortion services in Northern Ireland has stalled at the executive level.
-59. [Boris Johnson: Stop and search has 'important part” in fighting crime](https://www.bbc.co.uk/news/uk-politics-57986500) - The PM defends the wider use of stop and search powers, as a "kind and loving" way to get dangerous weapons off the streets.
+59. [Boris Johnson on Covid infection rates falling for six days](https://www.bbc.co.uk/news/uk-politics-57986503) - The prime minister urges people not to “run away with premature conclusions” amid a fall in positive test numbers.
 60. [Angela Rayner on Labour's plan for flexible working](https://www.bbc.co.uk/news/uk-politics-57973490) - Many workers have been "incredibly flexible" working through the Covid pandemic says Labour's deputy leader.
 61. [IndyRef2: SNP MP calls for penalties to decide independence](https://www.bbc.co.uk/news/uk-politics-57930801) - Chris Stephens jokingly suggested a second referendum could be decided on spot-kicks.
 62. [Dawn Butler suspended from Commons for calling PM liar](https://www.bbc.co.uk/news/uk-politics-57935246) - An MP refuses to withdraw her claims that Boris Johnson lied to Parliament and is ordered out of the Commons.
