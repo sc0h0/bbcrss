@@ -1,5 +1,5 @@
 1. [US combat forces to leave Iraq by end of year](https://www.bbc.co.uk/news/world-us-canada-57970464) - The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.
-2. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Maps of Afghanistan showing who controls districts in fighting between the government and Taliban.
+2. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.
 3. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to pay $2bn in Nasa costs to be reconsidered for a key Moon lander contract.
 4. [Tunisia President Kais Saied accused of coup amid clashes](https://www.bbc.co.uk/news/world-africa-57976005) - Months of tension over Covid and the economy culminate in the sacking of the prime minister.
 5. [Surfside tower collapse: Final victim identified from rubble](https://www.bbc.co.uk/news/world-us-canada-57979126) - The family of Estelle Hedaya say they have confirmation she is the 98th victim of the Surfside disaster.
