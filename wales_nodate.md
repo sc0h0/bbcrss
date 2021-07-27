@@ -24,6 +24,6 @@
 24. [Albert Stuivenberg: Arsenal assistant manager leaves Wales coaching role](https://www.bbc.co.uk/sport/football/57974739) - Arsenal assistant manager Albert Stuivenberg leaves his position as Wales assistant coach.
 25. [Dyn yn y llys ar gyhuddiad o lofruddio yn Aberteifi](https://www.bbc.co.uk/newyddion/57982081) - Cafodd John Williams Bell, 37, ei ddarganfod ar y ffordd i Bont Aberteifi yn oriau mân 21 Gorffennaf.
 26. [Cleifion 'yn gaeth' yn ysbytai Gwynedd achos diffyg gofalwyr](https://www.bbc.co.uk/newyddion/57941170) - Mae dros 20 o bobl yn methu gadael ysbytai yn Nhremadog a Bangor oherwydd diffyg gofalwyr, meddai gwleidydd lleol.
-27. ['Taflu' merch, 2, i'w hachub wrth i gar daro ei mam](https://www.bbc.co.uk/newyddion/57981322) - Cafodd y fam anafiadau difrifol wedi i'r car rolio lawr llethr yn ystod gŵyl yn Sir Ddinbych.
+27. [Naw mlynedd o garchar am ddynladdiad yng Nghaergybi](https://www.bbc.co.uk/newyddion/57983153) - Cyfaddefodd Gareth Wyn Jones ddynladdiad David John Jones, ac fe gafodd ddedfryd ychwanegol am drosedd gyffuriau.
 28. [Beth sy'n digwydd yn Eisteddfod 2021?](https://www.bbc.co.uk/newyddion/57984353) - Sut allwch chi ddilyn y Brifwyl eleni?
 29. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Conor Murray, Chris Harris a Mako Vunipola yn dechrau, gyda'r Cymro, Taulupe Faletau ar y fainc.
