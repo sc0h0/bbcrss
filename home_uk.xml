@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 21:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 21:23:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,7 @@
             <description><![CDATA[Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".]]></description>
             <link>https://www.bbc.co.uk/news/uk-57981899</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57981899</guid>
-            <pubDate>Tue, 27 Jul 2021 16:48:34 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 21:05:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six more GB medals as gymnasts and swimmers star]]></title>
@@ -72,8 +72,8 @@
             <pubDate>Tue, 27 Jul 2021 15:16:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: CDC brings back mask guidance for virus hot spots]]></title>
-            <description><![CDATA[In states seeing surges, US health officials again recommend masking indoors - including at schools.]]></description>
+            <title><![CDATA[Covid-19: CDC brings back indoor mask guidance for virus hot spots]]></title>
+            <description><![CDATA[In states seeing surges, US health officials again recommend masking for all - including at schools.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57989777</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57989777</guid>
             <pubDate>Tue, 27 Jul 2021 19:54:36 GMT</pubDate>
@@ -268,6 +268,13 @@
             <pubDate>Sun, 25 Jul 2021 23:06:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Biles praised for prioritising mental health after pulling out of Olympic gymnastics final]]></title>
+            <description><![CDATA[The US Olympic chief praises Simone Biles for prioritising her mental health after she withdraws from the women's gymnastics team final in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57992327</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57992327</guid>
+            <pubDate>Tue, 27 Jul 2021 21:09:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man Utd agree to sign Varane for initial £34m fee]]></title>
             <description><![CDATA[Manchester United confirm they have reached an agreement to sign France defender Raphael Varane from Real Madrid.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57885665</link>
@@ -310,13 +317,6 @@
             <pubDate>Tue, 27 Jul 2021 14:46:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred - Welsh Fire v Southern Brave: Jonny Bairstow's best shots as he hits 72 not out]]></title>
-            <description><![CDATA[Watch the best shots as Welsh Fire captain Jonny Bairstow hits 72 not out, including five sixes, against Southern Brave in The Hundred at Sophia Gardens in Cardiff]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57990680</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57990680</guid>
-            <pubDate>Tue, 27 Jul 2021 19:57:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tom Dean: Swimmer's family and friends celebrate his 200m freestyle gold]]></title>
             <description><![CDATA[Watch what happened when Team GB swimmer Tom Dean's family and friends gathered in his mum's garden to watch him in the 200m freestyle final at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57979950</link>
@@ -324,18 +324,18 @@
             <pubDate>Tue, 27 Jul 2021 05:31:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain - including Charlotte Dujardin - win team dressage bonze]]></title>
+            <title><![CDATA[What's happening on Wednesday?]]></title>
+            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
+            <pubDate>Tue, 27 Jul 2021 15:58:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Great Britain - including Charlotte Dujardin - win team dressage bronze]]></title>
             <description><![CDATA[Charlotte Dujardin equals the most number of Olympic medals won by a British woman by claiming team dressage bronze in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57982071</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57982071</guid>
             <pubDate>Tue, 27 Jul 2021 19:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Boxer Youness Baalla attempts bite on opponent during last-16 fight]]></title>
-            <description><![CDATA[Boxer Youness Baalla attempts to bite his opponent David Nyika during their last-16 fight at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57981674</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57981674</guid>
-            <pubDate>Tue, 27 Jul 2021 10:11:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB's gymnasts give emotional interview after bronze medal win]]></title>
@@ -378,13 +378,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/57982787</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57982787</guid>
             <pubDate>Tue, 27 Jul 2021 10:49:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>
-            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
-            <pubDate>Tue, 27 Jul 2021 15:58:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics medals table]]></title>
