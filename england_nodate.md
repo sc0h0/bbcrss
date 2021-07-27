@@ -1,5 +1,5 @@
 1. [Bradford child sexual abuse: Authorities apologise after review](https://www.bbc.co.uk/news/uk-england-leeds-57982761) - The Bradford Partnership said "more needs to be done" to help victims of child sexual abuse in the district.
-2. [Home Office to investigate Chinese seamen deportations after WW2](https://www.bbc.co.uk/news/uk-england-merseyside-57967833) - An MP says investigating why Chinese seamen were deported from Liverpool is a "step in the right direction".
+2. [Home Office to investigate deportation of Chinese sailors after WW2](https://www.bbc.co.uk/news/uk-england-merseyside-57967833) - An MP says investigating why Chinese sailors were deported from Liverpool is a "step in the right direction".
 3. [Wayne Rooney: Cheshire Police reviewing blackmail complaint](https://www.bbc.co.uk/news/uk-england-manchester-57970050) - Cheshire Police confirm a complaint of blackmail was made in relation to photos of Wayne Rooney.
 4. [Multiple sclerosis: Parkour athlete's loss of mobility 'mortifying'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57932996) - Luke Callinan, 35, has been diagnosed with a rare form of multiple sclerosis.
 5. [Boris Johnson pledges to target drug abuse in anti-crime push](https://www.bbc.co.uk/news/uk-politics-57978618) - More local officers and tagging of ex-prisoners are also promised, but police demand extra funding.

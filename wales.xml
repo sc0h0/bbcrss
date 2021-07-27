@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 10:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 10:59:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,11 +65,25 @@
             <pubDate>Mon, 26 Jul 2021 19:26:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Boris Johnson pledges to target drug abuse in anti-crime push]]></title>
+            <description><![CDATA[More local officers and tagging of ex-prisoners are also promised, but police demand extra funding.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57978618</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57978618</guid>
+            <pubDate>Tue, 27 Jul 2021 10:39:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First minister security review call after home protest]]></title>
             <description><![CDATA[Anti-lockdown protest branded "totally unacceptable" by former head of security for the Royal Family.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57960252</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57960252</guid>
             <pubDate>Mon, 26 Jul 2021 19:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weather: Thunderstorm warning issued for most of Wales]]></title>
+            <description><![CDATA[A weather warning has been issued for thunderstorms for north, mid and parts of south-west Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57971472</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57971472</guid>
+            <pubDate>Mon, 26 Jul 2021 11:20:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid case rate in Wales falls for fifth day in row]]></title>
@@ -84,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57976879</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57976879</guid>
             <pubDate>Mon, 26 Jul 2021 20:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caerphilly lumberjack killed felling trees died from asphyxia, inquest hears]]></title>
-            <description><![CDATA[Ben Thomas was clearing trees from a forest when he was crushed to death in August 2017.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57971422</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57971422</guid>
-            <pubDate>Mon, 26 Jul 2021 13:44:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weather: Thunderstorm warning issued for most of Wales]]></title>
-            <description><![CDATA[A weather warning has been issued for thunderstorms for north, mid and parts of south-west Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57971472</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57971472</guid>
-            <pubDate>Mon, 26 Jul 2021 11:20:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Black representation: ‘I never saw a teacher who looked like me’]]></title>
