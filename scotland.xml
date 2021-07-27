@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 05:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 05:46:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Long Covid: 'I don't feel 23 anymore, I feel so much older']]></title>
-            <description><![CDATA[Heather Campbell tested positive for the virus last November, six months after she started her nursing career.]]></description>
+            <description><![CDATA[Heather Campbell tested positive for the virus in November, six months after starting her nursing career.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57978645</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57978645</guid>
             <pubDate>Mon, 26 Jul 2021 21:55:54 GMT</pubDate>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57942459</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57942459</guid>
             <pubDate>Mon, 26 Jul 2021 22:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fresh bid to save McVitie's biscuit factory from closure]]></title>
+            <description><![CDATA[Nearly 500 jobs are at risk at the factory in the east end of Glasgow, which opened almost 100 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57979182</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57979182</guid>
+            <pubDate>Tue, 27 Jul 2021 05:42:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ally Dawson: Former Rangers and Scotland player dies aged 63]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57976196</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57976196</guid>
             <pubDate>Mon, 26 Jul 2021 18:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The repair shop trying to fix throwaway culture]]></title>
-            <description><![CDATA[A social enterprise has opened up shop in Glasgow to encourage communities to repair and reuse their possessions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-57785498</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-57785498</guid>
-            <pubDate>Mon, 26 Jul 2021 05:03:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57076243</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57076243</guid>
             <pubDate>Tue, 15 Jun 2021 14:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The repair shop trying to fix throwaway culture]]></title>
+            <description><![CDATA[A social enterprise has opened up shop in Glasgow to encourage communities to repair and reuse their possessions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-57785498</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-57785498</guid>
+            <pubDate>Mon, 26 Jul 2021 05:03:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geek Retreat rolls the dice on smaller town stores]]></title>
