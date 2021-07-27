@@ -1,4 +1,4 @@
-1. [Contaminated blood inquiry: Former health minister Clarke to give evidence](https://www.bbc.co.uk/news/uk-57979570) - It is the first time a health minister serving at the time of the scandal has faced the inquiry.
+1. [Contaminated blood inquiry: Former health minister Clarke to give evidence](https://www.bbc.co.uk/news/uk-57979570) - It is the first time a senior minister serving at the time of the scandal has faced the inquiry.
 2. [Lockdown weight gain averaging half a stone - survey](https://www.bbc.co.uk/news/health-57968651) - Four in 10 adults in England have become fatter during the pandemic, a survey suggests.
 3. [Ian Paterson: Plans for further breast surgeon compensation](https://www.bbc.co.uk/news/uk-england-birmingham-57967899) - A further 5,500 patients of Ian Paterson have been identified since he was jailed.
 4. [Coronavirus infections continue to fall in UK](https://www.bbc.co.uk/news/health-57962995) - But any rise in cases linked to the 19 July unlocking is unlikely to show up in the daily data just yet.

@@ -1,5 +1,5 @@
 1. [Boris Johnson pledges to target drug abuse in anti-crime push](https://www.bbc.co.uk/news/uk-politics-57978618) - More local officers and tagging of ex-prisoners are also promised, but police demand extra funding.
-2. [Contaminated blood inquiry: Former health minister Clarke to give evidence](https://www.bbc.co.uk/news/uk-57979570) - It is the first time a health minister serving at the time of the scandal has faced the inquiry.
+2. [Contaminated blood inquiry: Former health minister Clarke to give evidence](https://www.bbc.co.uk/news/uk-57979570) - It is the first time a senior minister serving at the time of the scandal has faced the inquiry.
 3. [Give workers full rights from day one – Labour](https://www.bbc.co.uk/news/uk-57962405) - Deputy leader Angela Rayner sets out plans for a "new deal" for workers post-pandemic.
 4. [Covid: More pinged workers eligible for daily tests instead of isolation](https://www.bbc.co.uk/news/uk-politics-57977282) - Waste workers, prison staff and defence workers will be able to avoid isolation, the government says.
 5. [COP26 climate summit president says progress made, but not enough](https://www.bbc.co.uk/news/science-environment-57975025) - The first in-person climate meeting in 18 months sees tentative progress, but not enough.

@@ -1,8 +1,8 @@
 1. [Mum hit by car at Denbighshire festival as daughter, 2, 'thrown to safety'](https://www.bbc.co.uk/news/uk-wales-57979208) - Jenna O'Neill suffered serious injuries but praises "hero husband for saving" daughter Ayla.
 2. ['Open land for wild camping in Wales', say campaigners](https://www.bbc.co.uk/news/uk-wales-57440636) - As holidaymakers face difficulties booking traditional campsites, some are looking elsewhere.
 3. [Brexit: The Walnut Tree temporarily closes because of 'staff shortage'](https://www.bbc.co.uk/news/uk-wales-57971770) - A well-known Welsh restaurant has temporarily closed because of a "staff shortage".
-4. [First minister security review call after home protest](https://www.bbc.co.uk/news/uk-wales-57960252) - Anti-lockdown protest branded "totally unacceptable" by former head of security for the Royal Family.
-5. ['Not all motor watercraft riders are irresponsible](https://www.bbc.co.uk/news/uk-wales-57973510) - TV presenter Iolo Williams had reported seeing riders plough through sea birds off the Welsh coast.
+4. [Sea scooter riders 'face barrage of criticism'](https://www.bbc.co.uk/news/uk-wales-57973510) - TV presenter Iolo Williams had reported seeing riders plough through sea birds off the Welsh coast.
+5. [First minister security review call after home protest](https://www.bbc.co.uk/news/uk-wales-57960252) - Anti-lockdown protest branded "totally unacceptable" by former head of security for the Royal Family.
 6. [CCTV fitted as Taff's Well gardener's allotment 'sabotaged' by weed killer](https://www.bbc.co.uk/news/uk-wales-57968239) - Gardener David Legge fits CCTV cameras as he claims his vegetables are being targeted by vandals.
 7. [Covid case rate in Wales falls for fifth day in row](https://www.bbc.co.uk/news/uk-wales-57969591) - Covid case rates fall for a fifth day in a row in Wales as fully-jabbed people pass two million.
 8. [World War Two Arctic Convoys veteran given Royal Navy funeral](https://www.bbc.co.uk/news/uk-wales-57976879) - Alan Higgins honoured after surviving being torpedoed, the D-Day landings and World War Two.
