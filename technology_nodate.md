@@ -1,6 +1,6 @@
 1. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
 2. [Over-60s with only virtual contact 'more lonely'](https://www.bbc.co.uk/news/technology-57970595) - UK-US research finds old people who used only telephone and online communication were more lonely.
-3. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to pay $2bn in Nasa costs to be reconsidered for a key Moon lander contract.
+3. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.
 4. [Amazon Bitcoin job ad boosts cryptocurrency surge](https://www.bbc.co.uk/news/technology-57971451) - News Amazon is hiring a digital-currency expert has helped boost the value of Bitcoin.
 5. [Shares in Chinese online tutoring firms slump after shake-up](https://www.bbc.co.uk/news/business-57966027) - It is one of the biggest ever overhauls of China's $120bn private tutoring industry.
 6. [Tencent shares slide after Beijing crackdown on music rights](https://www.bbc.co.uk/news/business-57966023) - China's market watchdog said the technology giant broke the country's anti-competition rules.

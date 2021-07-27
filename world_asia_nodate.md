@@ -1,4 +1,4 @@
-1. [Hong Kong: First person charged under national security law found guilty](https://www.bbc.co.uk/news/world-asia-china-57979938) - More than 100 people have been arrested since the controversial and widely criticised law came into force.
+1. [Hong Kong: First person charged under national security law found guilty](https://www.bbc.co.uk/news/world-asia-china-57979938) - The 24-year-old had flown a flag with a protest slogan while riding a motorcycle into police officers.
 2. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.
 3. [Tokyo Olympics: Naomi Osaka loses to Marketa Vondrousova in women's singles tennis](https://www.bbc.co.uk/sport/olympics/57980493) - Japanese superstar Naomi Osaka suffers a surprise exit in her home Olympics as Czech Marketa Vondrousova earns a straight-set win.
 4. [Sri Lanka: World's largest star sapphire cluster found in backyard](https://www.bbc.co.uk/news/world-asia-57981046) - The "Serendipity Sapphire" was accidentally found by a gem trader in the Ratnapura region.

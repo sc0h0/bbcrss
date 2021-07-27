@@ -1,5 +1,5 @@
 1. [COP26 climate summit president says progress made, but not enough](https://www.bbc.co.uk/news/science-environment-57975025) - The first in-person climate meeting in 18 months sees tentative progress, but not enough.
-2. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to pay $2bn in Nasa costs to be reconsidered for a key Moon lander contract.
+2. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.
 3. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
 4. [Climate change: Researchers begin discussions on vital report](https://www.bbc.co.uk/news/science-environment-57944015) - A two-week virtual negotiation begins on the most critical climate change report since 2013.
 5. [Canterbury Cathedral stained glass is among world's oldest](https://www.bbc.co.uk/news/science-environment-57768815) - New research indicates that stained glass windows from Canterbury Cathedral may be among the oldest in the world.

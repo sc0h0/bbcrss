@@ -2,7 +2,7 @@
 2. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
 3. [China stocks see biggest slump in US since 2008 financial crisis](https://www.bbc.co.uk/news/business-57979857) - The value of New York-listed Chinese companies has plummeted after a series of crackdowns by Beijing.
 4. [UK defence firm bid monitored by government](https://www.bbc.co.uk/news/business-57973962) - The government says it will monitor the proposed sale of Ultra Electronics to US equity-owned Cobham.
-5. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to pay $2bn in Nasa costs to be reconsidered for a key Moon lander contract.
+5. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.
 6. [Covid: More pinged workers eligible for daily tests instead of isolation](https://www.bbc.co.uk/news/uk-politics-57977282) - Waste workers, prison staff and defence workers will be able to avoid isolation, the government says.
 7. [Jaguar Land Rover owner Tata Motors feels chip shortage strain](https://www.bbc.co.uk/news/business-57975445) - Tata Motors sees losses narrow, but warns that a lack of semiconductors could halve car production.
 8. [Tesco Bank to close all its current accounts](https://www.bbc.co.uk/news/business-57973960) - The bank says most of the accounts have limited activity and are not being used.

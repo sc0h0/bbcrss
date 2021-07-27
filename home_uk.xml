@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 07:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 08:19:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[GB's Dean takes stunning gold in swimming]]></title>
-            <description><![CDATA[Tom Dean claims a stunning gold and Duncan Scott silver to ensure a British one-two finish in a thrilling 200m freestyle at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57979697</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57979697</guid>
-            <pubDate>Tue, 27 Jul 2021 06:11:41 GMT</pubDate>
+            <description><![CDATA[Tom Dean takes gold ahead of compatriot Duncan Scott, while Georgia Taylor-Brown wins triathlon silver as Great Britain's strong start to the Tokyo Games continues.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57980135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57980135</guid>
+            <pubDate>Tue, 27 Jul 2021 07:50:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson pledges to target drug abuse in anti-crime push]]></title>
             <description><![CDATA[More local officers and tagging of ex-prisoners are also promised, but police demand extra funding.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-57978618</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57978618</guid>
-            <pubDate>Tue, 27 Jul 2021 07:35:11 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 08:02:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mum hit by car at Denbighshire festival as daughter, 2, thrown to safety]]></title>
@@ -51,6 +51,13 @@
             <pubDate>Mon, 26 Jul 2021 21:30:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Whipps Cross Hospital cancels operations after flooding]]></title>
+            <description><![CDATA[Appointments at Whipps Cross have also been rearranged with some to be held virtually.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57964769</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57964769</guid>
+            <pubDate>Tue, 27 Jul 2021 07:49:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Miami tower collapse: Final victim identified from rubble]]></title>
             <description><![CDATA[The family of Estelle Hedaya say they have confirmation she is the 98th victim of the Surfside disaster.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57979126</link>
@@ -59,7 +66,7 @@
         </item>
         <item>
             <title><![CDATA[Bezos' $2bn offer to get back in race to the Moon]]></title>
-            <description><![CDATA[The billionaire offers to pay $2bn in Nasa costs to be reconsidered for a key Moon lander contract.]]></description>
+            <description><![CDATA[The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57978465</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57978465</guid>
             <pubDate>Mon, 26 Jul 2021 20:31:34 GMT</pubDate>
@@ -69,7 +76,7 @@
             <description><![CDATA[The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57970464</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57970464</guid>
-            <pubDate>Tue, 27 Jul 2021 02:15:17 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 08:14:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Australia's vaccine rollout colossal failure - ex-PM]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Tue, 27 Jul 2021 06:40:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[North and South Korea restore hotline after a year]]></title>
-            <description><![CDATA[The two countries have not spoke since Pyongyang cut off all channels of communication last year.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57979937</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57979937</guid>
-            <pubDate>Tue, 27 Jul 2021 04:21:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: 'Pure gold' at Olympics and tags for burglars plan]]></title>
             <description><![CDATA[The papers cover the UK's gold medals in Tokyo and government plans for a "crackdown" on crime.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-57978946</link>
@@ -101,7 +101,7 @@
         </item>
         <item>
             <title><![CDATA[Brazil: Why are so many pregnant women dying from Covid?]]></title>
-            <description><![CDATA[One in five women that died from coronavirus in Brazil didn't have access to an intensive care unit.]]></description>
+            <description><![CDATA[One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57974754</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57974754</guid>
             <pubDate>Mon, 26 Jul 2021 23:00:15 GMT</pubDate>
@@ -261,6 +261,13 @@
             <pubDate>Tue, 27 Jul 2021 02:23:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Bianca Walkden loses taekwondo semi-final in last second]]></title>
+            <description><![CDATA[Great Britain's Bianca Walkden suffers a last-gasp defeat to South Korea's Lee Da-bin in the Olympic taekwondo +67kg semi-final.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57982638</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57982638</guid>
+            <pubDate>Tue, 27 Jul 2021 08:07:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: GB's Georgia Taylor-Brown wins triathlon silver as Flora Duffy wins gold]]></title>
             <description><![CDATA[Team GB's Georgia Taylor-Brown wins triathlon silver despite suffering a puncture, as Flora Duffy wins Bermuda's first ever Olympic gold medal at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57979667</link>
@@ -279,7 +286,7 @@
             <description><![CDATA[Andy Murray continues his bid for a fourth Olympic medal as he and Joe Salisbury reach the men's doubles quarter-finals in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57981271</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57981271</guid>
-            <pubDate>Tue, 27 Jul 2021 07:25:33 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 08:05:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England players to hold talks over men's Ashes tour as some consider pulling out]]></title>
@@ -289,13 +296,6 @@
             <pubDate>Mon, 26 Jul 2021 17:50:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Raphael Varane: Man Utd agree fee for Real Madrid defender]]></title>
-            <description><![CDATA[Manchester United agree a fee with Real Madrid for France international defender Raphael Varane.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57967166</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57967166</guid>
-            <pubDate>Mon, 26 Jul 2021 19:27:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tom Dean: Swimmer's family and friends celebrate his 200m freestyle gold]]></title>
             <description><![CDATA[Watch what happened when Team GB swimmer Tom Dean's family and friends gathered in his mum's garden to watch him in the 200m freestyle final at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57979950</link>
@@ -303,18 +303,25 @@
             <pubDate>Tue, 27 Jul 2021 05:31:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Tom Dean takes gold & Duncan Scott silver for GB in 200m freestyle]]></title>
+            <description><![CDATA[Tom Dean claims a stunning gold and Duncan Scott silver to ensure a British one-two finish in a thrilling 200m freestyle at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57979697</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57979697</guid>
+            <pubDate>Tue, 27 Jul 2021 06:11:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Walkden suffers last-gasp semi-final defeat]]></title>
             <description><![CDATA[Great Britain's Bianca Walkden suffers a last-gasp defeat by South Korea's Lee Da-bin in the Olympic taekwondo +67kg semi-final.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57982069</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57982069</guid>
-            <pubDate>Tue, 27 Jul 2021 07:43:19 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 08:06:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Naomi Osaka loses to Marketa Vondrousova in women's singles tennis]]></title>
             <description><![CDATA[Japanese superstar Naomi Osaka suffers a surprise exit in her home Olympics as Czech Marketa Vondrousova earns a straight-set win.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57980493</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57980493</guid>
-            <pubDate>Tue, 27 Jul 2021 06:16:54 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 08:14:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Britain's Georgia Taylor-Brown wins silver in women's triathlon]]></title>
@@ -322,13 +329,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/57979326</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57979326</guid>
             <pubDate>Tue, 27 Jul 2021 04:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Tom Dean takes gold, plus silvers for Duncan Scott and Georgia Taylor-Brown]]></title>
-            <description><![CDATA[Tom Dean takes gold ahead of compatriot Duncan Scott, while Georgia Taylor-Brown wins triathlon silver as Great Britain's strong start to the Tokyo Games continues.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57980135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57980135</guid>
-            <pubDate>Tue, 27 Jul 2021 07:50:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>
