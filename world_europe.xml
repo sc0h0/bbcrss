@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 08:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 09:16:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,6 +79,13 @@
             <pubDate>Mon, 26 Jul 2021 18:29:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid passports: How do they work around the world?]]></title>
+            <description><![CDATA[How are countries enforcing vaccine passports and what can people use them for?]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56522408</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56522408</guid>
+            <pubDate>Mon, 26 Jul 2021 21:01:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Could Covid vaccine be taken as a pill?]]></title>
             <description><![CDATA[Researchers are looking at easier ways for people to get the vaccine, including via inhalers and tablets.]]></description>
             <link>https://www.bbc.co.uk/news/health-57553602</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57955966</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57955966</guid>
             <pubDate>Sun, 25 Jul 2021 20:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meteor wows Norway after blazing through night sky]]></title>
-            <description><![CDATA[The meteor is believed to have landed in a forest after flashes of light were seen across Norway.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57962384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57962384</guid>
-            <pubDate>Sun, 25 Jul 2021 14:42:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tips from the Netherlands on how to build a nation of cyclists]]></title>

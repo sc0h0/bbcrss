@@ -7,10 +7,10 @@
 7. [Pink offers to pay bikini bottoms fine for Norway women's handball team](https://www.bbc.co.uk/news/entertainment-arts-57967486) - The Norway women's side were last week fined for wearing shorts instead of bikini bottoms in a match.
 8. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
 9. [COP26 climate summit president says progress made, but not enough](https://www.bbc.co.uk/news/science-environment-57975025) - The first in-person climate meeting in 18 months sees tentative progress, but not enough.
-10. [Could Covid vaccine be taken as a pill?](https://www.bbc.co.uk/news/health-57553602) - Researchers are looking at easier ways for people to get the vaccine, including via inhalers and tablets.
-11. [Canterbury Cathedral stained glass is among world's oldest](https://www.bbc.co.uk/news/science-environment-57768815) - New research indicates that stained glass windows from Canterbury Cathedral may be among the oldest in the world.
-12. [Unesco adds Madrid's Paseo del Prado and Retiro Park to heritage list](https://www.bbc.co.uk/news/world-europe-57955966) - The famous Paseo del Prado and Retiro Park are symbols of the Spanish capital's history.
-13. [Meteor wows Norway after blazing through night sky](https://www.bbc.co.uk/news/world-europe-57962384) - The meteor is believed to have landed in a forest after flashes of light were seen across Norway.
+10. [Covid passports: How do they work around the world?](https://www.bbc.co.uk/news/world-europe-56522408) - How are countries enforcing vaccine passports and what can people use them for?
+11. [Could Covid vaccine be taken as a pill?](https://www.bbc.co.uk/news/health-57553602) - Researchers are looking at easier ways for people to get the vaccine, including via inhalers and tablets.
+12. [Canterbury Cathedral stained glass is among world's oldest](https://www.bbc.co.uk/news/science-environment-57768815) - New research indicates that stained glass windows from Canterbury Cathedral may be among the oldest in the world.
+13. [Unesco adds Madrid's Paseo del Prado and Retiro Park to heritage list](https://www.bbc.co.uk/news/world-europe-57955966) - The famous Paseo del Prado and Retiro Park are symbols of the Spanish capital's history.
 14. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
 15. [I survived Norway's worst terror attack](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.
 16. [Europe floods: 'I have an axe beside my bed'](https://www.bbc.co.uk/news/world-europe-57923443) - Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.
