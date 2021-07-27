@@ -9,8 +9,8 @@
 9. [US combat forces to leave Iraq by end of year](https://www.bbc.co.uk/news/world-us-canada-57970464) - The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.
 10. [Australia's vaccine rollout colossal failure - ex-PM](https://www.bbc.co.uk/news/world-australia-57980530) - Ex-PM Malcolm Turnbull tells the BBC he believes Australia's borders won't reopen until early 2022.
 11. [House prices at new high as buyers seek more space](https://www.bbc.co.uk/news/business-57976341) - Strong demand for houses will last into 2022 as buyers react to the pandemic, says property website Zoopla.
-12. [The Papers: 'Pure gold' at Olympics and tags for burglars plan](https://www.bbc.co.uk/news/blogs-the-papers-57978946) - The papers cover the UK's gold medals in Tokyo and government plans for a "crackdown" on crime.
-13. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.
+12. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.
+13. [The Papers: 'Pure gold' at Olympics and tags for burglars plan](https://www.bbc.co.uk/news/blogs-the-papers-57978946) - The papers cover the UK's gold medals in Tokyo and government plans for a "crackdown" on crime.
 14. [Parkour athlete: 'She wants to be a doctor so she can fix me'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57932996) - Luke Callinan, 35, has been diagnosed with a rare form of multiple sclerosis.
 15. [Archibald Prize: 100 years of Australia's top portrait honour](https://www.bbc.co.uk/news/world-australia-57967778) - Over 100 years, the Archibald Prize has become better at reflecting Australian diversity.
 16. [Hemingway 'lookalike' chosen in Florida contest](https://www.bbc.co.uk/news/world-us-canada-57978084) - A 63-year-old won the Key West, Florida contest for his likeness to the award-winning author.
