@@ -1,6 +1,6 @@
 1. [Bradford child sex abuse: Children 'remain unprotected'](https://www.bbc.co.uk/news/uk-england-leeds-57982761) - The report says some children in Bradford have "suffered abuse no child should have to experience".
-2. [Simon Bramhall: Liver branding surgeon's suspension 'insufficient'](https://www.bbc.co.uk/news/uk-england-birmingham-57987154) - Simon Bramhall branded his initials on two patients' livers during operations in Birmingham.
-3. [Covid patient discharged after 203 days in Norfolk hospital](https://www.bbc.co.uk/news/uk-england-norfolk-57988590) - Sean Hunte's family was called three times to say their goodbyes to the 58-year-old teacher.
+2. [Covid patient discharged after 203 days in Norfolk hospital](https://www.bbc.co.uk/news/uk-england-norfolk-57988590) - Sean Hunte's family was called three times to say their goodbyes to the 58-year-old teacher.
+3. [Simon Bramhall: Liver branding surgeon's suspension 'insufficient'](https://www.bbc.co.uk/news/uk-england-birmingham-57987154) - Simon Bramhall branded his initials on two patients' livers during operations in Birmingham.
 4. [Northern pool frog project reversing extinction say experts](https://www.bbc.co.uk/news/uk-england-norfolk-57991619) - The frogs are flown in from Sweden and reintroduced to their old hopping grounds in Norfolk.
 5. [A27 crash: Lorry driver caught on camera texting before collision](https://www.bbc.co.uk/news/uk-england-sussex-57988029) - Derek Holland texted and used both hands to peel a banana before a crash which injured three people.
 6. [Suffolk staycation: 'You don't need to go abroad to holiday'](https://www.bbc.co.uk/news/uk-england-suffolk-57947334) - Those opting to spend the summer in the UK rather than abroad share their experiences.
