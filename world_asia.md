@@ -1,4 +1,4 @@
-1. [North and South Korea restore communication hotline](https://www.bbc.co.uk/news/world-57979937) - Tue, 27 Jul 2021 03:22:12 GMT - The two countries have not spoke since Pyongyang cut off all channels of communication last year.
+1. [North and South Korea restore hotline after a year](https://www.bbc.co.uk/news/world-57979937) - Tue, 27 Jul 2021 04:21:15 GMT - The two countries have not spoke since Pyongyang cut off all channels of communication last year.
 2. [Archibald Prize: 100 years of Australia's top portrait honour](https://www.bbc.co.uk/news/world-australia-57967778) - Mon, 26 Jul 2021 23:00:10 GMT - Over 100 years, the Archibald Prize has become better at reflecting Australian diversity.
 3. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Mon, 26 Jul 2021 23:01:08 GMT - Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.
 4. [The Indian girl killed for wearing jeans](https://www.bbc.co.uk/news/world-asia-india-57968350) - Mon, 26 Jul 2021 23:09:55 GMT - Neha Paswan was allegedly beaten to death by relatives who disagreed with her choice of clothes.
