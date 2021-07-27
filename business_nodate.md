@@ -1,7 +1,7 @@
 1. [Morrisons' shareholder will not back takeover bid](https://www.bbc.co.uk/news/business-57991894) - Silchester International says it is not inclined to support a £6.3bn deal for the supermarket chain.
 2. [Tesco offers £1,000 joining bonus for HGV lorry drivers](https://www.bbc.co.uk/news/business-57983698) - The supermarket chain is deploying the recruitment tactic amid a shortage in lorry drivers.
 3. [Covid: Insurance threat for pinged holidaymakers](https://www.bbc.co.uk/news/business-57983455) - Some travel insurance policies will not cover cancellation costs for travellers told to self-isolate.
-4. [Vaccine access deepens divide between rich and poor nations](https://www.bbc.co.uk/news/business-57987091) - Economic prospects have diverged further due to differing access to Covid vaccines, the IMF says.
+4. [IMF upgrades UK economic forecast](https://www.bbc.co.uk/news/business-57987091) - Wealth gap between countries could widen due to differing access to Covid vaccines, the IMF says.
 5. [Stain remover demand rises as distancing shrinks](https://www.bbc.co.uk/news/business-57981759) - Vanish-maker Reckitt says the end of social distancing has led to a focus on appearance.
 6. [Bid for better bailiffs as pandemic debts rise](https://www.bbc.co.uk/news/business-57983457) - A plan is agreed to reduce aggressive debt collection, although charities still want statutory regulation.
 7. [Activision staff condemn firm's response to harassment claims](https://www.bbc.co.uk/news/technology-57984784) - About 1,000 Activision Blizzard staff sign a letter describing managers' response as insulting.
