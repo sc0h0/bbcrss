@@ -12,12 +12,10 @@
 12. [Marlboro maker Philip Morris could stop selling cigarettes in UK](https://www.bbc.co.uk/news/business-57964253) - Health charity Ash said it was hard to take such claims seriously from a cigarette manufacturer.
 13. [Covid: 'I earned less, but spent the same'](https://www.bbc.co.uk/news/business-57941003) - A new Couch to Financial Fitness programme aims to help people organise their finances post-pandemic.
 14. [Shares in Chinese online tutoring firms slump after shake-up](https://www.bbc.co.uk/news/business-57966027) - It is one of the biggest ever overhauls of China's $120bn private tutoring industry.
-15. [Tencent shares slide after Beijing crackdown on music rights](https://www.bbc.co.uk/news/business-57966023) - China's market watchdog said the technology giant broke the country's anti-competition rules.
-16. [Government pingdemic response chaotic, say food supply firms](https://www.bbc.co.uk/news/business-57936883) - Supply firms are having to fight to keep food on supermarket shelves, an industry body warns.
-17. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
-18. [How global conferences are using tech to stay in business](https://www.bbc.co.uk/news/business-57817807) - Moving events online kept the industry going during the pandemic and now they're here to stay.
-19. [Heatwave: The worst jobs to have when temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
-20. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
-21. [CEO Secrets: 'Four-day weeks are good for business'](https://www.bbc.co.uk/news/business-57894093) - CEO Joe Munns says giving his workers a three-day weekend makes them happier and more productive.
-22. [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128) - Electroflight has built the E-NXT which it hopes will break the electric airspeed record.
-23. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.
+15. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
+16. [How global conferences are using tech to stay in business](https://www.bbc.co.uk/news/business-57817807) - Moving events online kept the industry going during the pandemic and now they're here to stay.
+17. [Heatwave: The worst jobs to have when temperatures soar](https://www.bbc.co.uk/news/uk-wales-57914904) - Not all jobs are equal when it comes to working in extreme heat, but which are the worst?
+18. [Is there a solution to the hospitality staff crisis?](https://www.bbc.co.uk/news/business-57817775) - Aside from Covid and Brexit, are there other reasons for the shortage of hospitality workers?
+19. [CEO Secrets: 'Four-day weeks are good for business'](https://www.bbc.co.uk/news/business-57894093) - CEO Joe Munns says giving his workers a three-day weekend makes them happier and more productive.
+20. [The little tech firm gunning for an airspeed record](https://www.bbc.co.uk/news/business-57747128) - Electroflight has built the E-NXT which it hopes will break the electric airspeed record.
+21. [Using plastic waste to help solve sand shortages](https://www.bbc.co.uk/news/business-57832425) - With construction sand in short supply crushed plastic is being used as an alternative.

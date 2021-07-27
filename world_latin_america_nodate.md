@@ -1,5 +1,5 @@
 1. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil didn't have access to an intensive care unit.
-2. [Bermuda's Duffy makes Olympic history](https://www.bbc.co.uk/sport/olympics/57979326) - Great Britain's Georgia Taylor-Brown fights back from a bike puncture to earn an Olympic silver medal in the women's triathlon.
+2. [Flora Duffy wins Bermuda's first ever Olympic gold](https://www.bbc.co.uk/sport/olympics/57979326) - Great Britain's Georgia Taylor-Brown fights back from a bike puncture to earn an Olympic silver medal in the women's triathlon.
 3. [Neymar: Paris St-Germain forward and Barcelona settle legal dispute](https://www.bbc.co.uk/sport/football/57975005) - Barcelona reach an out-of-court agreement in "amicable fashion" with former forward Neymar to end a legal dispute between the club and player.
 4. [Covid: Delta variant spreads globally as cases soar](https://www.bbc.co.uk/news/world-57907681) - With low global vaccination rates, the variant's spread is threatening to overwhelm health systems.
 5. [Excitement over wooden shipwreck found in Antigua's seabed](https://www.bbc.co.uk/news/world-latin-america-57878969) - Historians believe the wreck found in Antigua to be the 1762 Beaumont, a French merchant ship.
