@@ -38,7 +38,7 @@
 38. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 39. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
 40. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.
-41. [Parkour athlete: 'She wants to be a doctor so she can fix me'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57932996) - Luke Callinan, 35, has been diagnosed with a rare form of multiple sclerosis.
+41. [Multiple sclerosis: Parkour athlete's loss of mobility 'mortifying'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57932996) - Luke Callinan, 35, has been diagnosed with a rare form of multiple sclerosis.
 42. [The new surgical tool inspired by a wasp](https://www.bbc.co.uk/news/science-environment-57889149) - The device avoids clogging by using friction instead of suction, similar to the way a parasitoid wasp lays its eggs.
 43. [Children Covid vaccine: Who can have the jab in the UK?](https://www.bbc.co.uk/news/health-57892100) - Hundreds of thousands of under-18s will now be offered the jab in the UK - but not all. Here's why.
 44. ['She just wouldn't eat'](https://www.bbc.co.uk/news/health-57923838) - NHS data shows a 50% increase in eating disorder admissions in 2020-21 among under-19s compared to the year before.
