@@ -1,5 +1,5 @@
 1. [US combat forces to leave Iraq by end of year](https://www.bbc.co.uk/news/world-us-canada-57970464) - The move, while largely symbolic, could provide a domestic boost to both the US and Iraqi leaders.
-2. [Surfside tower collapse: Final victim identified from rubble](https://www.bbc.co.uk/news/world-us-canada-57979126) - The family of Estelle Hedaya say they have confirmation she is the 98th victim of the Surfside disaster.
+2. [Miami tower collapse: Final victim identified from rubble](https://www.bbc.co.uk/news/world-us-canada-57979126) - The family of Estelle Hedaya say they have confirmation she is the 98th victim of the Surfside disaster.
 3. [Thomas Barrack: Top Trump aide pleads not guilty to working as foreign agent](https://www.bbc.co.uk/news/world-us-canada-57979356) - Thomas Barrack has been accused of lobbying the US government on behalf of the United Arab Emirates.
 4. [Hemingway 'lookalike' chosen in Florida contest](https://www.bbc.co.uk/news/world-us-canada-57978084) - A 63-year-old won the Key West, Florida contest for his likeness to the award-winning author.
 5. [White House: US to maintain Covid foreign travel restrictions](https://www.bbc.co.uk/news/world-us-canada-57976015) - The White House says current rules will remain due to rising cases and variant transmission.

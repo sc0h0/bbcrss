@@ -3,7 +3,7 @@
 3. [Malcolm Turnbull: Australia ex-PM says vaccine rollout 'a colossal failure'](https://www.bbc.co.uk/news/world-australia-57980530) - Ex-PM Malcolm Turnbull tells the BBC he believes Australia's borders won't reopen until early 2022.
 4. [North and South Korea restore hotline after a year](https://www.bbc.co.uk/news/world-57979937) - The two countries have not spoke since Pyongyang cut off all channels of communication last year.
 5. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to pay $2bn in Nasa costs to be reconsidered for a key Moon lander contract.
-6. [Surfside tower collapse: Final victim identified from rubble](https://www.bbc.co.uk/news/world-us-canada-57979126) - The family of Estelle Hedaya say they have confirmation she is the 98th victim of the Surfside disaster.
+6. [Miami tower collapse: Final victim identified from rubble](https://www.bbc.co.uk/news/world-us-canada-57979126) - The family of Estelle Hedaya say they have confirmation she is the 98th victim of the Surfside disaster.
 7. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil didn't have access to an intensive care unit.
 8. [Tunisia President Kais Saied accused of coup amid clashes](https://www.bbc.co.uk/news/world-africa-57976005) - Months of tension over Covid and the economy culminate in the sacking of the prime minister.
 9. [Thomas Barrack: Top Trump aide pleads not guilty to working as foreign agent](https://www.bbc.co.uk/news/world-us-canada-57979356) - Thomas Barrack has been accused of lobbying the US government on behalf of the United Arab Emirates.
