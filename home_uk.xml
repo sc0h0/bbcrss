@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 05:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 05:37:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -66,10 +66,10 @@
         </item>
         <item>
             <title><![CDATA[Mum hit by car at Denbighshire festival as daughter, 2, 'thrown to safety']]></title>
-            <description><![CDATA[Jenna O'Neill suffered serious injuries but praises "hero husband for saving" daughter Ayla.]]></description>
+            <description><![CDATA["I genuinely believed my whole family had died", says Jenna O'Neill, who suffered serious injuries.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57979208</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57979208</guid>
-            <pubDate>Mon, 26 Jul 2021 23:10:17 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 05:31:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contaminated blood inquiry: Former health minister Clarke to give evidence]]></title>
@@ -247,6 +247,13 @@
             <pubDate>Sun, 25 Jul 2021 23:06:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Great Britain men suffer first loss with 5-1 defeat by Germany]]></title>
+            <description><![CDATA[Great Britain's men suffer their first defeat of the Tokyo Olympics with a 5-1 loss to Germany in Pool B.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57979876</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57979876</guid>
+            <pubDate>Tue, 27 Jul 2021 05:28:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England players to hold talks over men's Ashes tour as some consider pulling out]]></title>
             <description><![CDATA[England men's players will meet with the ECB as some consider pulling out of this winter's Ashes if their families are not allowed to travel to Australia.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/57976072</link>
@@ -259,6 +266,13 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/57979350</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57979350</guid>
             <pubDate>Tue, 27 Jul 2021 02:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Dean: Swimmer's family and friends celebrate his 200m freestyle gold]]></title>
+            <description><![CDATA[Watch what happened when Team GB swimmer Tom Dean's family and friends gathered in his mum's garden to watch him in the 200m freestyle final at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57979950</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57979950</guid>
+            <pubDate>Tue, 27 Jul 2021 05:31:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB's Georgia Taylor-Brown wins triathlon silver as Flora Duffy wins gold]]></title>
@@ -282,25 +296,11 @@
             <pubDate>Mon, 26 Jul 2021 21:18:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Raphael Varane: Man Utd agree fee for Real Madrid defender]]></title>
-            <description><![CDATA[Manchester United agree a fee with Real Madrid for France international defender Raphael Varane.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57967166</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57967166</guid>
-            <pubDate>Mon, 26 Jul 2021 19:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stradivarius and Battaash eye five in a row at Goodwood]]></title>
-            <description><![CDATA[Stradivarius and Battaash are chasing record fifth consecutive wins at Glorious Goodwood, which starts on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/sport/horse-racing/57942204</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/horse-racing/57942204</guid>
-            <pubDate>Mon, 26 Jul 2021 14:56:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Naomi Osaka loses to Marketa Vondrousova]]></title>
             <description><![CDATA[Japanese superstar Naomi Osaka suffers a surprise exit in her home Olympics as Czech Marketa Vondrousova earns a straight-set win.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57980493</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57980493</guid>
-            <pubDate>Tue, 27 Jul 2021 05:00:32 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 05:26:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Britain's Georgia Taylor-Brown wins silver in women's triathlon]]></title>
@@ -350,48 +350,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/57975477</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57975477</guid>
             <pubDate>Mon, 26 Jul 2021 15:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Tom Pidcock wins mountain bike gold for GB]]></title>
-            <description><![CDATA[Great Britain's Tom Pidcock claims Olympic gold in the mountain bike cross-country - two months after breaking a collarbone.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57967799</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57967799</guid>
-            <pubDate>Mon, 26 Jul 2021 18:47:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Tom Daley and Matty Lee win gold in men's synchronised 10m platform]]></title>
-            <description><![CDATA[Britain's Tom Daley wins a first Olympic gold medal as he claims victory alongside Matty Lee in the men's synchronised 10m platform.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57966599</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966599</guid>
-            <pubDate>Mon, 26 Jul 2021 09:25:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: GB's Alex Yee wins silver in men's triathlon as Kristian Blummenfelt takes gold]]></title>
-            <description><![CDATA[Great Britain's Alex Yee wins silver in a punishing men's triathlon at the Tokyo Olympics as Kristian Blummenfelt of Norway claims gold.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57965589</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57965589</guid>
-            <pubDate>Mon, 26 Jul 2021 00:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Momiji Nishiya wins skateboarding gold at just 13]]></title>
-            <description><![CDATA[At the age of 13, Japan's Momiji Nishiya wins the first-ever Olympic gold medal in women's street skateboarding.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57966611</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966611</guid>
-            <pubDate>Mon, 26 Jul 2021 06:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Peaty powers home in 100m breaststroke]]></title>
-            <description><![CDATA[Watch Adam Peaty create history by becoming the first British swimmer to retain an Olympic title with gold in the 100m breaststroke at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57966253</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57966253</guid>
-            <pubDate>Mon, 26 Jul 2021 02:47:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Boat causes false start in men's triathlon]]></title>
-            <description><![CDATA[Watch the bizarre moment a boat holds up the start of the triathlon at the Toyko 2020 Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57965640</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57965640</guid>
-            <pubDate>Sun, 25 Jul 2021 23:08:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>

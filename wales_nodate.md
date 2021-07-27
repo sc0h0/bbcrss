@@ -1,4 +1,4 @@
-1. [Mum hit by car at Denbighshire festival as daughter, 2, 'thrown to safety'](https://www.bbc.co.uk/news/uk-wales-57979208) - Jenna O'Neill suffered serious injuries but praises "hero husband for saving" daughter Ayla.
+1. [Mum hit by car at Denbighshire festival as daughter, 2, 'thrown to safety'](https://www.bbc.co.uk/news/uk-wales-57979208) - "I genuinely believed my whole family had died", says Jenna O'Neill, who suffered serious injuries.
 2. ['Open land for wild camping in Wales', say campaigners](https://www.bbc.co.uk/news/uk-wales-57440636) - As holidaymakers face difficulties booking traditional campsites, some are looking elsewhere.
 3. [Brexit: The Walnut Tree temporarily closes because of 'staff shortage'](https://www.bbc.co.uk/news/uk-wales-57971770) - A well-known Welsh restaurant has temporarily closed because of a "staff shortage".
 4. [Sea scooter riders 'face barrage of criticism'](https://www.bbc.co.uk/news/uk-wales-57973510) - TV presenter Iolo Williams had reported seeing riders plough through sea birds off the Welsh coast.
