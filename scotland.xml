@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 11:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 11:32:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Tue, 27 Jul 2021 10:24:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Post-lockdown rise in harassment of dolphins]]></title>
+            <description><![CDATA[Conservationists say there has been a rise in boat traffic-related disturbance of the protected species.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57982738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57982738</guid>
+            <pubDate>Tue, 27 Jul 2021 11:19:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scotland's papers: Loch tragedy dad and row over Covid milestone]]></title>
             <description><![CDATA[A man who tried to save his wife and son from drowning and a row over Covid jabs makes the front pages.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57980770</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57978645</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57978645</guid>
             <pubDate>Tue, 27 Jul 2021 07:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man tried to save wife and son from drowning in Loch Lomond]]></title>
-            <description><![CDATA[Waris Ali tells the BBC that the water at the end of a Loch Lomond pier had "looked very safe".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57972950</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57972950</guid>
-            <pubDate>Mon, 26 Jul 2021 14:51:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fresh bid to save McVitie's biscuit factory from closure]]></title>

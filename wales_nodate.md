@@ -24,5 +24,5 @@
 24. [Cleifion 'yn gaeth' yn ysbytai Gwynedd achos diffyg gofalwyr](https://www.bbc.co.uk/newyddion/57941170) - Mae dros 20 o bobl yn methu gadael ysbytai yn Nhremadog a Bangor oherwydd diffyg gofalwyr, meddai gwleidydd lleol.
 25. ['Taflu' merch, 2, i'w hachub wrth i gar daro ei mam](https://www.bbc.co.uk/newyddion/57981322) - Cafodd y fam anafiadau difrifol wedi i'r car rolio lawr llethr yn ystod gŵyl yn Sir Ddinbych.
 26. [Person wedi marw ar ôl syrthio o Grib Goch Yr Wyddfa](https://www.bbc.co.uk/newyddion/57982423) - Bu farw ar ôl syrthio ar lethrau isaf ochr ogleddol Crib Goch, yn ôl tîm achub mynydd.
-27. [Anabledd yn arwain at yrfa o helpu eraill yn stadiwm Liberty](https://www.bbc.co.uk/newyddion/57916025) - Mae gan Mark Phillips Barlys yr Ymennydd ac mae'n 'profi pawb yn anghywir' yn ei yrfa gyda Chlwb Pêl-droed Abertawe
+27. [Byw gyda Crohn's a magu plentyn ifanc](https://www.bbc.co.uk/newyddion/57985398) - Enfys Roberts sy'n trafod yr heriau o fagu ei merch fach a byw gyda chyflwr hirdymor.
 28. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Conor Murray, Chris Harris a Mako Vunipola yn dechrau, gyda'r Cymro, Taulupe Faletau ar y fainc.
