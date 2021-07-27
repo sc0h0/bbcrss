@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 00:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 01:06:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Mon, 26 Jul 2021 22:00:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tesco Bank to close all its current accounts]]></title>
-            <description><![CDATA[The bank says most of the accounts have limited activity and are not being used.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57973960</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57973960</guid>
-            <pubDate>Mon, 26 Jul 2021 13:59:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[UK defence firm bid monitored by government]]></title>
             <description><![CDATA[The government says it will monitor the proposed sale of Ultra Electronics to US equity-owned Cobham.]]></description>
             <link>https://www.bbc.co.uk/news/business-57973962</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57973962</guid>
             <pubDate>Mon, 26 Jul 2021 17:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bezos' $2bn offer to get back in race to the Moon]]></title>
+            <description><![CDATA[The billionaire offers to pay $2bn in Nasa costs to be reconsidered for a key Moon lander contract.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57978465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57978465</guid>
+            <pubDate>Mon, 26 Jul 2021 20:31:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jaguar Land Rover owner Tata Motors feels chip shortage strain]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57977282</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57977282</guid>
             <pubDate>Mon, 26 Jul 2021 21:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesco Bank to close all its current accounts]]></title>
+            <description><![CDATA[The bank says most of the accounts have limited activity and are not being used.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57973960</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57973960</guid>
+            <pubDate>Mon, 26 Jul 2021 13:59:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Air travel yet to meaningfully restart, says UK industry]]></title>
