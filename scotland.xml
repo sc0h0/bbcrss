@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 11:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 11:48:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,13 +58,6 @@
             <pubDate>Tue, 27 Jul 2021 11:19:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Loch tragedy dad and row over Covid milestone]]></title>
-            <description><![CDATA[A man who tried to save his wife and son from drowning and a row over Covid jabs makes the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57980770</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57980770</guid>
-            <pubDate>Tue, 27 Jul 2021 06:51:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Shetland fires 'should act as warning to modular building industry']]></title>
             <description><![CDATA[Two devastating fires involved buildings made from factory-built units brought up to islands by sea.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57942459</link>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57979182</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57979182</guid>
             <pubDate>Tue, 27 Jul 2021 11:14:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Loch tragedy dad and row over Covid milestone]]></title>
+            <description><![CDATA[A man who tried to save his wife and son from drowning and a row over Covid jabs makes the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57980770</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57980770</guid>
+            <pubDate>Tue, 27 Jul 2021 06:51:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
