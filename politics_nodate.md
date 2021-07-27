@@ -5,7 +5,7 @@
 5. [My dog Dilyn can't control his romantic urges, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-57987491) - Boris Johnson reveals Downing Street's resident Jack Russell-cross has a weakness for human legs.
 6. [Labour's Wes Streeting back at work and cancer free](https://www.bbc.co.uk/news/uk-politics-57983355) - Wes Streeting says he counts his "lucky stars" after surgery to remove a kidney.
 7. [Covid: More pinged workers eligible for daily tests instead of isolation](https://www.bbc.co.uk/news/uk-politics-57977282) - Waste workers, prison staff and defence workers will be able to avoid isolation, the government says.
-8. [GMB withdraw London Labour funding over caretaker sacking](https://www.bbc.co.uk/news/uk-england-london-57988501) - The union says it will no longer fund London Labour due to the "callous" dismissal of Gary Bolister.
+8. [GMB withdraw London Labour funding over sacking](https://www.bbc.co.uk/news/uk-england-london-57988501) - The union says it will no longer fund London Labour due to the "callous" dismissal of Gary Bolister.
 9. [Brexit: EU publishes proposals to simplify NI Protocol](https://www.bbc.co.uk/news/uk-northern-ireland-57978453) - The UK government says plans on the transport of medicines, food and animals do not go far enough.
 10. [Give workers full rights from day one – Labour](https://www.bbc.co.uk/news/uk-57962405) - Deputy leader Angela Rayner sets out plans for a "new deal" for workers post-pandemic.
 11. [COP26 climate summit president says progress made, but not enough](https://www.bbc.co.uk/news/science-environment-57975025) - The first in-person climate meeting in 18 months sees some tentative progress, but no breakthroughs.

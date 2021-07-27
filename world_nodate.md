@@ -6,8 +6,8 @@
 6. [DaBaby's HIV and gay comments 'perpetuate discrimination'](https://www.bbc.co.uk/news/newsbeat-57984070) - The rapper made false claims about the life expectancy of people with HIV at a US festival.
 7. [Sri Lanka: World's largest star sapphire cluster found in backyard](https://www.bbc.co.uk/news/world-asia-57981046) - The "Serendipity Sapphire" was accidentally found by a gem trader in Sri Lanka's Ratnapura region.
 8. [Israel-Gaza conflict: Apparent war crimes committed, says rights group](https://www.bbc.co.uk/news/world-middle-east-57982567) - Human Rights Watch accuses Israel and Palestinian militants of unlawful attacks in May's conflict.
-9. [Vatican's Cardinal Becciu on trial in $412m fraud case](https://www.bbc.co.uk/news/world-europe-57981508) - Cardinal Becciu was once close to the Pope but was sacked after reports of financial misdeeds.
-10. [Hong Kong: First person charged under national security law found guilty](https://www.bbc.co.uk/news/world-asia-china-57979938) - The 24-year-old had flown a flag with a protest slogan while riding a motorcycle into police officers.
+9. [Greece: Forest fire rips through area near Athens](https://www.bbc.co.uk/news/world-europe-57987855) - About 300 firefighters, water-dropping planes and helicopters helped bring the blaze under control.
+10. [Vatican's Cardinal Becciu on trial in $412m fraud case](https://www.bbc.co.uk/news/world-europe-57981508) - Cardinal Becciu was once close to the Pope but was sacked after reports of financial misdeeds.
 11. [Activision staff condemn firm's response to harassment claims](https://www.bbc.co.uk/news/technology-57984784) - About 1,000 Activision Blizzard staff sign a letter describing managers' response as insulting.
 12. [Man in contraption washes up in Florida after trying to run on water](https://www.bbc.co.uk/news/world-us-canada-57983648) - Reza Baluchi was trying to "run" 1,000 miles north, but ended up 30 miles south of his start point.
 13. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.
