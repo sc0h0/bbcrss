@@ -1,4 +1,4 @@
-1. [Tesco offers £1,000 joining bonus for HGV lorry drivers](https://www.bbc.co.uk/news/business-57983698) - Tue, 27 Jul 2021 12:08:30 GMT - The supermarket chain is deploying the recruitment tactic amid a shortage in lorry drivers.
+1. [Tesco offers £1,000 joining bonus for HGV lorry drivers](https://www.bbc.co.uk/news/business-57983698) - Tue, 27 Jul 2021 13:29:37 GMT - The supermarket chain is deploying the recruitment tactic amid a shortage in lorry drivers.
 2. [Covid: Insurance threat for pinged holidaymakers](https://www.bbc.co.uk/news/business-57983455) - Tue, 27 Jul 2021 10:11:02 GMT - Some travel insurance policies will not cover cancellation costs for travellers told to self-isolate.
 3. [Vaccine access deepens divide between rich and poor nations](https://www.bbc.co.uk/news/business-57987091) - Tue, 27 Jul 2021 13:00:37 GMT - Economic prospects have diverged further due to differing access to Covid vaccines, the IMF says.
 4. [Stain remover demand rises as distancing shrinks](https://www.bbc.co.uk/news/business-57981759) - Tue, 27 Jul 2021 09:49:19 GMT - Vanish-maker Reckitt says the end of social distancing has led to a focus on appearance.
