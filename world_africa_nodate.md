@@ -1,5 +1,5 @@
 1. [Kenyans sue the British army over fire at wildlife sanctuary](https://www.bbc.co.uk/news/world-africa-57486433) - Some 1,000 people are going to court after a fire destroyed 12,000 acres of land at a wildlife sanctuary.
-2. [Sunday Igboho: Benin investigates Nigerian separatist leader](https://www.bbc.co.uk/news/world-africa-57969120) - Nigeria's plan to have Sunday Igboho extradited are fading as he faces criminal accusations in Benin.
+2. [Sunday Igboho: What's stopping Benin extraditing the Nigerian separatist leader?](https://www.bbc.co.uk/news/world-africa-57969120) - Nigeria's plan to have Sunday Igboho extradited are fading as he faces criminal accusations in Benin.
 3. [Tokyo Olympics: Silvers for SA but rugby disappointment](https://www.bbc.co.uk/sport/africa/57982362) - Tatjana Schoenmaker and Bianca Buitendag claim South Africa's first medals of the Tokyo Olympics but the rugby sevens side lose in the quarter-finals.
 4. [Is there a future for Africa's lions?](https://www.bbc.co.uk/news/science-environment-57968405) - As lion populations decline across much of Africa, could community-led conservation help reverse this trend?
 5. [AKO Caine Prize: Meron Hadero named first Ethiopian winner](https://www.bbc.co.uk/news/world-africa-57975088) - Judges praised Meron Hadero's short story The Street Sweep which ends in a "clever twist".
