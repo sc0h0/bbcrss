@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 23:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 23:39:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,25 @@
             <pubDate>Tue, 27 Jul 2021 13:55:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: EU pauses legal action against UK over NI Protocol 'breaches']]></title>
-            <description><![CDATA[The action began in March after the UK made a move to change the implementation of the protocol.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57986307</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57986307</guid>
-            <pubDate>Tue, 27 Jul 2021 21:37:39 GMT</pubDate>
+            <title><![CDATA['Transformative' disability plan to be unveiled]]></title>
+            <description><![CDATA[A £1.6bn strategy aimed at improving the lives of disabled people is to be set out by the government.]]></description>
+            <link>https://www.bbc.co.uk/news/disability-57987803</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-57987803</guid>
+            <pubDate>Tue, 27 Jul 2021 23:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: CDC brings back indoor mask guidance for virus hot spots]]></title>
+            <description><![CDATA[In states seeing surges, US health officials again recommend masking for all - including at schools.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57989777</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57989777</guid>
+            <pubDate>Tue, 27 Jul 2021 19:54:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chronic health issues for third in late 40s - study]]></title>
+            <description><![CDATA[About one in three has problems such as high blood pressure and mental ill health, a study suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57982476</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57982476</guid>
+            <pubDate>Tue, 27 Jul 2021 23:34:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Capitol Hill police officer in tears during testimony]]></title>
@@ -72,25 +86,11 @@
             <pubDate>Tue, 27 Jul 2021 18:24:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: CDC brings back indoor mask guidance for virus hot spots]]></title>
-            <description><![CDATA[In states seeing surges, US health officials again recommend masking for all - including at schools.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57989777</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57989777</guid>
-            <pubDate>Tue, 27 Jul 2021 19:54:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Murder investigation after child dies in Ardoyne]]></title>
             <description><![CDATA[Emergency services were called to a house in Brompton Park shortly after a quarter past eight on Tuesday evening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57992425</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57992425</guid>
             <pubDate>Tue, 27 Jul 2021 21:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A27 crash: Lorry driver caught on camera texting before collision]]></title>
-            <description><![CDATA[Derek Holland texted and used both hands to peel a banana before a crash which injured three people.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-57988029</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-57988029</guid>
-            <pubDate>Tue, 27 Jul 2021 16:41:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Instagram makes under-16s' accounts private by default]]></title>
@@ -289,11 +289,18 @@
             <pubDate>Tue, 27 Jul 2021 18:45:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: GB gymnastics quartet win historic team bronze medal]]></title>
-            <description><![CDATA[Watch highlights as Great Britain's quartet win the first medal in the women's gymnastics team event for 93 years with bronze in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57987512</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57987512</guid>
-            <pubDate>Tue, 27 Jul 2021 13:32:46 GMT</pubDate>
+            <title><![CDATA[Tokyo 2020: Tom Dean wins gold with Duncan Scott clinching silver for GB in men's 200m freestyle]]></title>
+            <description><![CDATA[Watch all the action and reaction from family and friends as Team GB's Tom Dean wins 200m freestyle gold with team-mate Duncan Scott clinching silver at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57984120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57984120</guid>
+            <pubDate>Tue, 27 Jul 2021 10:53:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Simone Biles says "put mental health first" after withdrawing from team final]]></title>
+            <description><![CDATA[Four-time Olympic gold medallist Simone Biles says it is important to "put mental health first" after pulling out of the women's team final at 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57993247</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57993247</guid>
+            <pubDate>Tue, 27 Jul 2021 23:16:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chelsea open talks over France defender Kounde - Wednesday's football gossip    ]]></title>
@@ -315,13 +322,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/57989497</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57989497</guid>
             <pubDate>Tue, 27 Jul 2021 20:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: Jonny Bairstow, Smriti Mandhana, Quinton de Kock, Danni Wyatt star as Welsh Fire take on Southern Brave]]></title>
-            <description><![CDATA[Watch the best moments of the women's and men's Hundred matches on Tuesday as Welsh Fire took on Southern Brave at Sophia Gardens in Cardiff]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/57992899</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/57992899</guid>
-            <pubDate>Tue, 27 Jul 2021 21:58:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tom Dean: Swimmer's family and friends celebrate his 200m freestyle gold]]></title>
