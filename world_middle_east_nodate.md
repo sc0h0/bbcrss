@@ -30,8 +30,8 @@
 30. [Nizar Banat: Palestinians turn on leaders after activist's death](https://www.bbc.co.uk/news/world-middle-east-57694104) - Rare protests call for ousting of the president as anger builds over the man's death in custody.
 31. [The precarious life of a Gaza fisherman](https://www.bbc.co.uk/news/world-middle-east-57643737) - Fishermen in Gaza eke out a precarious living amid restrictions over where they can cast their nets.
 32. [Female genital mutilation (FGM): 'I had it, but my daughters won't'](https://www.bbc.co.uk/news/world-middle-east-57530121) - Two mothers subjected to FGM tell how they will not let their daughters suffer the same.
-33. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
-34. [Iraqi firefighters tackle blaze in Covid ward](https://www.bbc.co.uk/news/world-middle-east-57815621) - More than 50 people have died after a fire broke out in a coronavirus isolation ward at a hospital in Iraq.
-35. [Videographer goes viral with sheep drone shots](https://www.bbc.co.uk/news/world-middle-east-57690125) - Lior Patel's drone footage of sheep has been viewed more than 100,000 times on Facebook.
-36. [Lebanon’s ‘suffocating’ energy crisis](https://www.bbc.co.uk/news/world-middle-east-57685203) - Six-year-old Sedra is one of the people whose lives have been put at risk by the country's energy crisis.
-37. [Cash-strapped Lebanese army sells helicopter rides](https://www.bbc.co.uk/news/world-middle-east-57686396) - The army is trying to boost its finances, which have been hit by Lebanon's severe economic crisis.
+33. [Lebanon’s descent into darkness](https://www.bbc.co.uk/news/world-middle-east-57988693) - The country's economic crisis has forced some families to move into refugee camps to survive.
+34. [Covid-19 tests while you wait in Israeli airport](https://www.bbc.co.uk/news/world-middle-east-57869807) - Ben Gurion airport in Israel has introduced fast Covid-19 tests for travellers.
+35. [Iraqi firefighters tackle blaze in Covid ward](https://www.bbc.co.uk/news/world-middle-east-57815621) - More than 50 people have died after a fire broke out in a coronavirus isolation ward at a hospital in Iraq.
+36. [Videographer goes viral with sheep drone shots](https://www.bbc.co.uk/news/world-middle-east-57690125) - Lior Patel's drone footage of sheep has been viewed more than 100,000 times on Facebook.
+37. [Lebanon’s ‘suffocating’ energy crisis](https://www.bbc.co.uk/news/world-middle-east-57685203) - Six-year-old Sedra is one of the people whose lives have been put at risk by the country's energy crisis.
