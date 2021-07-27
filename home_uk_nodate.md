@@ -1,5 +1,5 @@
 1. [Cover-up culture saw hundreds abused in care homes](https://www.bbc.co.uk/news/uk-57984924) - More than 700 children suffered cruelty and sexual abuse at care homes in south London, an inquiry finds.
-2. [Biles praised for prioritising her mental health](https://www.bbc.co.uk/sport/olympics/57992327) - The US Olympic chief praises Simone Biles for prioritising her mental health after she withdraws from the women's gymnastics team final in Tokyo.
+2. [Biles praised for prioritising her mental health](https://www.bbc.co.uk/sport/olympics/57992327) - American gymnast Simone Biles is praised for prioritising "mental wellness over all else" after pulling out of the Olympic women's team final.
 3. [Covid: UK cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
 4. [Six more GB medals as gymnasts and swimmers star](https://www.bbc.co.uk/sport/olympics/57980135) - Tom Dean takes gold ahead of compatriot Duncan Scott as Great Britain makes its best ever start to an Olympics.
 5. [Brexit: EU pauses legal action against UK over NI Protocol 'breaches'](https://www.bbc.co.uk/news/uk-northern-ireland-57986307) - The action began in March after the UK made a move to change the implementation of the protocol.
@@ -7,7 +7,7 @@
 7. [IMF upgrades UK economic forecast](https://www.bbc.co.uk/news/business-57987091) - Wealth gap between countries could widen due to differing access to Covid vaccines, the IMF says.
 8. [Contaminated-blood inquiry: Former Health Minister Clarke denies responsibility](https://www.bbc.co.uk/news/uk-57986582) - Lord Clarke is the first senior health minister from the 1980s to testify on the NHS scandal.
 9. [Covid-19: CDC brings back indoor mask guidance for virus hot spots](https://www.bbc.co.uk/news/world-us-canada-57989777) - In states seeing surges, US health officials again recommend masking for all - including at schools.
-10. [Covid: Alert over inaccurate thermometers bought in UK](https://www.bbc.co.uk/news/health-57982479) - Sales have increased in the pandemic but some products are not fit for purpose, UK regulator warns.
+10. [Murder investigation after child dies in Ardoyne](https://www.bbc.co.uk/news/uk-northern-ireland-57992425) - Emergency services were called to a house in Brompton Park shortly after a quarter past eight on Tuesday evening.
 11. [A27 crash: Lorry driver caught on camera texting before collision](https://www.bbc.co.uk/news/uk-england-sussex-57988029) - Derek Holland texted and used both hands to peel a banana before a crash which injured three people.
 12. [Instagram makes under-16s' accounts private by default](https://www.bbc.co.uk/news/technology-57984790) - Only approved followers can see posts and "like" or comment on accounts that retain the private setting.
 13. [Eagle eyes spot kestrel chicks in jet plane exhaust](https://www.bbc.co.uk/news/uk-wales-57992207) - The young birds "lucky to be alive" after found hiding in exhaust of an Airbus plane during repairs.
