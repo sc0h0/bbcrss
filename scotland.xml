@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 07:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 07:54:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,7 +41,7 @@
             <description><![CDATA[Heather Campbell tested positive for the virus in November, six months after starting her nursing career.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57978645</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57978645</guid>
-            <pubDate>Mon, 26 Jul 2021 21:55:54 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 07:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: The healthcare heroes vaccinating Scotland]]></title>
@@ -55,7 +55,7 @@
             <description><![CDATA[Two devastating fires involved buildings made from factory-built units brought up to islands by sea.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57942459</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57942459</guid>
-            <pubDate>Mon, 26 Jul 2021 22:05:01 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 07:52:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fresh bid to save McVitie's biscuit factory from closure]]></title>
@@ -72,11 +72,11 @@
             <pubDate>Mon, 26 Jul 2021 16:34:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Thunderstorms warning for most of Scotland on Tuesday]]></title>
-            <description><![CDATA[The Met Office issues a yellow warning for Tuesday, covering most of the country from 12:00 until 23:59.]]></description>
+            <title><![CDATA[Flooding concerns as heavy rain expected to hit Scotland]]></title>
+            <description><![CDATA[The Met Office issues a yellow warning for thunderstorms covering most of the country.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57970845</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57970845</guid>
-            <pubDate>Mon, 26 Jul 2021 11:04:52 GMT</pubDate>
+            <pubDate>Tue, 27 Jul 2021 07:49:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rick Allen: K2 avalanche climber 'died doing what he loved']]></title>
@@ -84,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57972064</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57972064</guid>
             <pubDate>Mon, 26 Jul 2021 15:17:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man dismissed over Highlands school Legionella concerns]]></title>
-            <description><![CDATA[Bev Parkinson wrote a report critical of his employers' management of water systems at some Highland schools.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57970505</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57970505</guid>
-            <pubDate>Mon, 26 Jul 2021 14:11:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -247,6 +240,13 @@
             <pubDate>Tue, 27 Jul 2021 02:23:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Andy Murray and Joe Salisbury advance to men's doubles quarter-finals]]></title>
+            <description><![CDATA[Andy Murray continues his bid for a fourth Olympic medal as he and Joe Salisbury reach the men's doubles quarter-finals in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57981271</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57981271</guid>
+            <pubDate>Tue, 27 Jul 2021 07:25:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Laura Muir eyes medal to 'kick-start' sustained track success]]></title>
             <description><![CDATA[British middle-distance runner Laura Muir says "I know it's in me" as she aims to end a "hard" wait for a first outdoor world medal in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57932787</link>
@@ -259,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/57970496</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/57970496</guid>
             <pubDate>Mon, 26 Jul 2021 11:53:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Celic, Rangers, St Johnstone, Aberdeen, Hibs, St Mirren]]></title>
-            <description><![CDATA[Celtic striker Leigh Griffiths is out of his side's Champions League qualifier second leg with a calf injury.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57981292</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57981292</guid>
-            <pubDate>Tue, 27 Jul 2021 06:37:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
