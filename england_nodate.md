@@ -1,5 +1,5 @@
 1. [Bradford child sex abuse: Children 'remain unprotected'](https://www.bbc.co.uk/news/uk-england-leeds-57982761) - The report says some children in Bradford have "suffered abuse no child should have to experience".
-2. [Culture of cover-up saw hundreds of children abused, report finds](https://www.bbc.co.uk/news/uk-57984924) - More than 700 children suffered cruelty and sexual abuse at care homes in south London, an inquiry finds.
+2. [Culture of cover-up saw hundreds of children abused in Lambeth, report finds](https://www.bbc.co.uk/news/uk-57984924) - More than 700 children suffered cruelty and sexual abuse at care homes in south London, an inquiry finds.
 3. [Channel crossings: People smugglers 'using smaller boats as a diversion'](https://www.bbc.co.uk/news/uk-england-kent-57981919) - Small dinghies distract police while larger boats cross the English Channel, a French MP says.
 4. [Home Office to investigate deportation of Chinese sailors after WW2](https://www.bbc.co.uk/news/uk-england-merseyside-57967833) - An MP says investigating why Chinese sailors were deported from Liverpool is a "step in the right direction".
 5. [Wayne Rooney: Cheshire Police reviewing blackmail complaint](https://www.bbc.co.uk/news/uk-england-manchester-57970050) - Cheshire Police confirm a complaint of blackmail was made in relation to photos of Wayne Rooney.
