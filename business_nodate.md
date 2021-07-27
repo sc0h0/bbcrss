@@ -1,4 +1,4 @@
-1. [Stain remover demand rises as distancing shrinks](https://www.bbc.co.uk/news/business-57981759) - Vanish-maker Reckitt Benckiser says the end of social distancing has led to a focus on appearance.
+1. [Stain remover demand rises as distancing shrinks](https://www.bbc.co.uk/news/business-57981759) - Vanish-maker Reckitt says the end of social distancing has led to a focus on appearance.
 2. [House prices at new high as buyers seek more space](https://www.bbc.co.uk/news/business-57976341) - Strong demand for houses will last into 2022 as buyers react to the pandemic, says property website Zoopla.
 3. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
 4. [China stocks see biggest slump in US since 2008 financial crisis](https://www.bbc.co.uk/news/business-57979857) - The value of New York-listed Chinese companies has plummeted after a series of crackdowns by Beijing.

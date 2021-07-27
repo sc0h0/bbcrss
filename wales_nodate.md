@@ -25,4 +25,4 @@
 25. ['Taflu' merch, 2, i'w hachub wrth i gar daro ei mam](https://www.bbc.co.uk/newyddion/57981322) - Cafodd y fam anafiadau difrifol wedi i'r car rolio lawr llethr yn ystod gŵyl yn Sir Ddinbych.
 26. ['Argyfwng' prinder athrawon o gefndir ethnig lleiafrifol](https://www.bbc.co.uk/newyddion/57941171) - Prinder athrawon o gefndir ethnig lleiafrifol wedi cyrraedd pwynt o "argyfwng", yn ôl cadeirydd Cyngor Hil Cymru.
 27. [Anabledd yn arwain at yrfa o helpu eraill yn stadiwm Liberty](https://www.bbc.co.uk/newyddion/57916025) - Mae gan Mark Phillips Barlys yr Ymennydd ac mae'n 'profi pawb yn anghywir' yn ei yrfa gyda Chlwb Pêl-droed Abertawe
-28. ['Y Llewod wedi dangos eu dannedd yn Cape Town'](https://www.bbc.co.uk/newyddion/57974001) - Doedd hi ddim yn bert, ond roedd ennill y prawf cyntaf yn hollbwysig, meddai Cennydd Davies.
+28. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Conor Murray, Chris Harris a Mako Vunipola oll yn dechrau, ac mae wythwr Cymru, Taulupe Faletau, ymysg yr eilyddion.
