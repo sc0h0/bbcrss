@@ -1,5 +1,5 @@
-1. [Bradford child sexual abuse: Authorities apologise after review](https://www.bbc.co.uk/news/uk-england-leeds-57982761) - The Bradford Partnership said "more needs to be done" to help victims of child sexual abuse in the district.
-2. [Culture of cover-up saw hundreds of children abused, report finds](https://www.bbc.co.uk/news/uk-57984924) - More than 700 children suffered cruelty and sexual abuse at care homes in Lambeth, an inquiry finds.
+1. [Bradford child sex abuse: Children 'remain unprotected'](https://www.bbc.co.uk/news/uk-england-leeds-57982761) - Bradford Council and the police admit "more needs to be done" to help victims of child sexual abuse.
+2. [Culture of cover-up saw hundreds of children abused, report finds](https://www.bbc.co.uk/news/uk-57984924) - More than 700 children suffered cruelty and sexual abuse at care homes in south London, an inquiry finds.
 3. [Home Office to investigate deportation of Chinese sailors after WW2](https://www.bbc.co.uk/news/uk-england-merseyside-57967833) - An MP says investigating why Chinese sailors were deported from Liverpool is a "step in the right direction".
 4. [Multiple sclerosis: Parkour athlete's loss of mobility 'mortifying'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57932996) - Luke Callinan, 35, has been diagnosed with a rare form of multiple sclerosis.
 5. [Wayne Rooney: Cheshire Police reviewing blackmail complaint](https://www.bbc.co.uk/news/uk-england-manchester-57970050) - Cheshire Police confirm a complaint of blackmail was made in relation to photos of Wayne Rooney.
