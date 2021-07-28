@@ -1,4 +1,4 @@
-1. [Flood patrols in force as heavy rain continues across Scotland](https://www.bbc.co.uk/news/uk-scotland-57970845) - The north east of Scotland is among the areas expected to be worst hit, with a Met Office amber alert in place.
+1. [Flood patrols in force as heavy rain continues across Scotland](https://www.bbc.co.uk/news/uk-scotland-57970845) - The north east of Scotland is among the worst hit areas, with a Met Office amber alert in place.
 2. [Glasgow fire: St Simon's Church gutted in overnight blaze](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57994913) - More than 30 firefighters were called out to the blaze at St Simon's Church in Glasgow's Partick.
 3. [Tokyo Olympics: Great Britain win emphatic gold in 4x200m freestyle relay](https://www.bbc.co.uk/sport/olympics/57993545) - Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.
 4. [Lib Dem MSP Alex Cole-Hamilton announces leadership bid](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57996717) - Alex-Cole Hamilton is currently the only person to have put their name forward to succeed Willie Rennie.

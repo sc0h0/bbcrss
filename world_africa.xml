@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 11:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 11:45:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Wed, 28 Jul 2021 10:37:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics 2020: Refugee weightlifter Cyrille Chachit on his journey]]></title>
+            <description><![CDATA[Cyrille Chachit has gone from despair to representing the Refugee Olympic Team in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/africa/57992047</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/africa/57992047</guid>
+            <pubDate>Wed, 28 Jul 2021 10:37:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ivory Coast president and rival in first meeting since civil war]]></title>
             <description><![CDATA[President Alassane Ouattara and Laurent Gbagbo shook hands at the presidential palace on Tuesday.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57987858</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57987858</guid>
             <pubDate>Tue, 27 Jul 2021 21:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Igboho: What's stopping Benin extraditing the Nigerian separatist leader?]]></title>
-            <description><![CDATA[Nigeria's plan to have Sunday Igboho extradited are fading as he faces criminal accusations in Benin.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57969120</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57969120</guid>
-            <pubDate>Tue, 27 Jul 2021 11:59:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moroccan Baalla attempts bite in Olympics fight]]></title>
@@ -65,6 +65,13 @@
             <pubDate>Wed, 28 Jul 2021 09:37:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sunday Igboho: What's stopping Benin extraditing the Nigerian separatist leader?]]></title>
+            <description><![CDATA[Nigeria's plan to have Sunday Igboho extradited are fading as he faces criminal accusations in Benin.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57969120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57969120</guid>
+            <pubDate>Tue, 27 Jul 2021 11:59:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kenyans sue the British army over fire at wildlife sanctuary]]></title>
             <description><![CDATA[Some 1,000 people are going to court after a fire destroyed 12,000 acres of land at a wildlife sanctuary.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57486433</link>
@@ -79,25 +86,11 @@
             <pubDate>Sun, 25 Jul 2021 23:10:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mali insurgency: Investigating corruption allegations in the military]]></title>
-            <description><![CDATA[Africa Eye investigates the cycle of death, violence and corruption in Mali's military.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57946367</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57946367</guid>
-            <pubDate>Mon, 26 Jul 2021 06:30:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nigeria's hipster herders - the funky Fulanis]]></title>
             <description><![CDATA[Fulani herders are usually found in forests herding cattle but when they go to cities, they dress in style.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57929704</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57929704</guid>
             <pubDate>Sat, 24 Jul 2021 23:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Igboho: The Nigerian separatist who wants a Yoruba nation]]></title>
-            <description><![CDATA[Sunday Igboho is accused of stoking ethnic tensions in Nigeria after targeting Fulani herders.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-55934275</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55934275</guid>
-            <pubDate>Mon, 26 Jul 2021 09:36:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ethiopia's Tigray crisis: What's stopping aid getting in?]]></title>
@@ -121,13 +114,6 @@
             <pubDate>Wed, 21 Jul 2021 23:26:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics 2020: Refugee weightlifter Cyrille Chachit on his journey]]></title>
-            <description><![CDATA[Cyrille Chachit has gone from despair to representing the Refugee Olympic Team in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/africa/57992047</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/africa/57992047</guid>
-            <pubDate>Wed, 28 Jul 2021 10:37:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Is there a future for Africa's lions?]]></title>
             <description><![CDATA[As lion populations decline across much of Africa, could community-led conservation help reverse this trend?]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57968405</link>
@@ -140,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-57949287</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57949287</guid>
             <pubDate>Sun, 25 Jul 2021 23:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mali insurgency: Investigating corruption allegations in the military]]></title>
+            <description><![CDATA[Africa Eye investigates the cycle of death, violence and corruption in Mali's military.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57946367</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57946367</guid>
+            <pubDate>Mon, 26 Jul 2021 06:30:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DRC volcano: Reuniting children with families after the eruption]]></title>

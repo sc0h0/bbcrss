@@ -4,8 +4,8 @@
 4. [Sweden charges man over 1988 Iran prison massacre](https://www.bbc.co.uk/news/world-europe-57996483) - Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.
 5. [Lebanon’s descent into darkness](https://www.bbc.co.uk/news/world-middle-east-57988693) - The country's economic crisis has forced some families to move into refugee camps to survive.
 6. [Canadian police reveal decade-long Manitoba residential school inquiry](https://www.bbc.co.uk/news/world-us-canada-57977938) - Police are investigating abuse claims at a former school that sought to assimilate indigenous children.
-7. [Joey Jordison: Slipknot founding drummer dies aged 46](https://www.bbc.co.uk/news/world-us-canada-57993121) - Jordison was a member of the mask-wearing heavy metal band and also performed with the likes of Metallica.
-8. [Ivory Coast president and rival in first meeting since civil war](https://www.bbc.co.uk/news/world-africa-57987858) - President Alassane Ouattara and Laurent Gbagbo shook hands at the presidential palace on Tuesday.
+7. [Tanzania's Samia Suluhu Hassan gets Covid jab in policy reverse](https://www.bbc.co.uk/news/world-africa-57996155) - After the Covid scepticism of her predecessor, Tanzania's President Samia launches a vaccine campaign.
+8. [Joey Jordison: Slipknot founding drummer dies aged 46](https://www.bbc.co.uk/news/world-us-canada-57993121) - Jordison was a member of the mask-wearing heavy metal band and also performed with the likes of Metallica.
 9. [Barabanki accident: Eighteen die after truck crashes into bus in India](https://www.bbc.co.uk/news/world-asia-india-57993968) - The victims were migrant workers who were going home to meet their families.
 10. [Covid: Sydney extends lockdown as other Australian cities reopen](https://www.bbc.co.uk/news/world-australia-57993337) - Infections in Australia's largest city remain stubbornly high, despite five weeks of restrictions.
 11. [Wu-Tang Clan album bought by Martin Shkreli sold by US government](https://www.bbc.co.uk/news/world-us-canada-57992807) - The album was handed over as part of a $7.4m deal with a notorious former drug firm executive.
