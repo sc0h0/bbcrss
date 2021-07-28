@@ -1,7 +1,7 @@
 1. [Are middle-aged people more unhealthy than ever?](https://www.bbc.co.uk/news/health-57999892) - Why could the current cohort of 40-somethings be proving less healthy than previous generations?
 2. [NHS England appoints first female chief executive](https://www.bbc.co.uk/news/health-57908563) - Amanda Pritchard to take over from Sir Simon Stevens on 1 August, describing it as a great honour.
 3. [Blood inquiry: Former health minister defends blood products advice on Aids](https://www.bbc.co.uk/news/health-58004764) - Infected blood scandal survivors have accused ministers of misleading the public in 1983.
-4. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the change will help reunite family and friends in England and Scotland.
+4. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the rule change in England, Scotland and Wales will help reunite family and friends.
 5. [Chronic health issues for third in late 40s - study](https://www.bbc.co.uk/news/health-57982476) - About one in three has problems such as high blood pressure and mental ill health, a study suggests.
 6. [Covid: Deaf woman wins claim over lack of sign language at briefings](https://www.bbc.co.uk/news/uk-england-leeds-57998047) - A lack of sign language at two government briefings was discriminatory, a High Court judge finds.
 7. [Coronavirus: Four numbers that reveal the real trends](https://www.bbc.co.uk/news/health-57984170) - Does a week of falling case numbers mean we're close to the end?

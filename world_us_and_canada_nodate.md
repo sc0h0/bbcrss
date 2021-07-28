@@ -1,6 +1,6 @@
 1. [Remington: US gunmaker offers $33m to Sandy Hook shooting victims](https://www.bbc.co.uk/news/world-us-canada-58001480) - Victims' families from Sandy Hook elementary school sued Remington for the sale of the rifle.
 2. [Capitol riot: Policeman tells 6 January hearing he feared he would die](https://www.bbc.co.uk/news/world-us-canada-57989578) - Officers on duty when Trump supporters stormed the US Capitol give tearful testimony at an inquiry.
-3. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the change will help reunite family and friends in England and Scotland.
+3. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the rule change in England, Scotland and Wales will help reunite family and friends.
 4. [Colorado officer arrested after threatening to shoot suspect during stop](https://www.bbc.co.uk/news/world-us-canada-58005556) - The Colorado officer was filmed striking a man with his gun, saying "if you move, I will shoot you".
 5. [Canadian police reveal decade-long Manitoba residential school inquiry](https://www.bbc.co.uk/news/world-us-canada-57977938) - Police are investigating abuse claims at a former school that sought to assimilate indigenous children.
 6. [Rapper DaBaby apologises for HIV comments as Boohoo drops him](https://www.bbc.co.uk/news/newsbeat-57999121) - And Boohoo has ended its clothing deal with the rapper as the latest critic of his onstage comments.

@@ -1,7 +1,7 @@
 1. [Bosnian Serbs defy top UN official Inzko over genocide denial](https://www.bbc.co.uk/news/world-europe-58001974) - Ethnic Serb leaders, accused of playing down the Srebrenica massacre, will now boycott parliament.
 2. [Sweden charges man over 1988 Iran prison massacre](https://www.bbc.co.uk/news/world-europe-57996483) - Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.
 3. [Man on scooter steals millions from upmarket Paris jeweller](https://www.bbc.co.uk/news/world-europe-57995190) - The middle-aged armed robber targets a store in an upmarket area of the French capital.
-4. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the change will help reunite family and friends in England and Scotland.
+4. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the rule change in England, Scotland and Wales will help reunite family and friends.
 5. [Liam Campbell: Omagh suspect to be extradited to Lithuania over Real IRA weapons](https://www.bbc.co.uk/news/world-europe-58000853) - Liam Campbell's appeal against extradition to face weapons smuggling charges is dismissed.
 6. [Football: Brazil into quarters but Germany exit](https://www.bbc.co.uk/sport/olympics/57995721) - Brazil ease through to the quarter-finals of the men's Olympic football but 2016 silver medallists Germany are eliminated.
 7. [Roma child: 'My only goal is to finish school'](https://www.bbc.co.uk/news/world-europe-57978365) - How one school in Croatia is working to improve education opportunities for Roma children like Kristina.
