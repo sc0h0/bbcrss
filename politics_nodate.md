@@ -1,7 +1,7 @@
 1. [Boris Johnson predicts steady economic recovery post-pandemic](https://www.bbc.co.uk/news/uk-politics-57995845) - Boris Johnson still warns of "bumps on the road" ahead as the IMF predicts 7% growth for the UK economy.
 2. [Covid travel: Fully jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
 3. [Covid: UK cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
-4. [£1.6bn disability plan aims to tackle inequalities](https://www.bbc.co.uk/news/disability-57987803) - The strategy outlines key pledges to improve the lives of disabled people but critics say it doesn't go far enough.
+4. [Critics give muted response to ministers' £1.6bn disability strategy](https://www.bbc.co.uk/news/disability-57987803) - The government says it is a once in a generation transformative plan but critics say it is lacking.
 5. [Honda workers in Swindon to face 'reality check' after it closes](https://www.bbc.co.uk/news/uk-england-wiltshire-57987601) - Swindon car plant prepares to stop production on July 30 after 35 years of production.
 6. [Electric car charging prices 'must be fair' say MPs](https://www.bbc.co.uk/news/business-57963912) - Consumers should not have to pay excessive prices to use public car charging, MPs say.
 7. [Covid: Turning down Covid vaccine is selfish, says Michael Gove](https://www.bbc.co.uk/news/uk-politics-57987016) - The Cabinet Office minister said those declining a jab could see themselves barred from events.

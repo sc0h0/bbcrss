@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 10:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 10:40:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -114,6 +114,13 @@
             <pubDate>Tue, 20 Jul 2021 23:06:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics 2020: Refugee weightlifter Cyrille Chachit on his journey]]></title>
+            <description><![CDATA[Cyrille Chachit has gone from despair to representing the Refugee Olympic Team in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/africa/57992047</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/africa/57992047</guid>
+            <pubDate>Wed, 28 Jul 2021 10:37:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is there a future for Africa's lions?]]></title>
             <description><![CDATA[As lion populations decline across much of Africa, could community-led conservation help reverse this trend?]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57968405</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-57920572</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57920572</guid>
             <pubDate>Wed, 21 Jul 2021 15:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joshi is swapping life in captivity for a new start in the jungle]]></title>
-            <description><![CDATA[After a lifetime in captivity, Joshi is going to live in the jungle in Congo-Brazzaville.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57854071</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57854071</guid>
-            <pubDate>Sat, 17 Jul 2021 23:05:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
