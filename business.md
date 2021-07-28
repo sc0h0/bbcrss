@@ -1,5 +1,5 @@
 1. [International cruises to restart from UK](https://www.bbc.co.uk/news/business-58006163) - Wed, 28 Jul 2021 19:22:01 GMT - Quarantine for fully vaccinated arrivals from US and EU to UK ports also waived.
-2. [US economic recovery 'making progress', says Fed](https://www.bbc.co.uk/news/business-57979270) - Wed, 28 Jul 2021 19:07:20 GMT - Widespread vaccinations have helped boost the economy and employment, the US central bank says.
+2. [US economic recovery 'making progress', says Fed](https://www.bbc.co.uk/news/business-57979270) - Wed, 28 Jul 2021 19:31:58 GMT - Widespread vaccinations have helped boost the economy and employment, the US central bank says.
 3. [Housing market cools as stamp duty break withdrawn](https://www.bbc.co.uk/news/business-57997492) - Wed, 28 Jul 2021 09:24:19 GMT - UK house prices still rose by 10.5% compared with a year ago, Nationwide building society says.
 4. [Covid test plan a 'pointless solution' says Iceland boss](https://www.bbc.co.uk/news/business-57916620) - Wed, 28 Jul 2021 15:53:35 GMT - Supermarket boss says government scheme only fixes half the issue because it excludes store workers.
 5. [Cannabis part of the future says tobacco giant](https://www.bbc.co.uk/news/business-57995285) - Wed, 28 Jul 2021 13:45:39 GMT - British American Tobacco says its future lies in getting people to switch to nicotine alternatives.
