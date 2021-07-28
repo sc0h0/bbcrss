@@ -23,7 +23,7 @@
 23. [Tokyo Olympics: Great Britain rowers win silver in men's quadruple sculls](https://www.bbc.co.uk/sport/olympics/57993357) - Britain's rowers win their first Olympic medal in the men's quadruple sculls as Harry Leask, Angus Groom, Tom Barras and Jack Beaumont claim silver at Tokyo 2020.
 24. [One-Day Cup: Somerset edge Glamorgan by one run](https://www.bbc.co.uk/sport/cricket/58001176) - Somerset beat Glamorgan by one run in a One-Day Cup thriller at Taunton with 87 from captain Ben Green proving the key contribution.
 25. [Safle Treftadaeth Byd UNESCO i ardal llechi Gwynedd](https://www.bbc.co.uk/newyddion/57994907) - Mae Cyngor Gwynedd yn gobeithio y bydd ennill y statws yn arwain at adfywio'r ardal a chreu swyddi newydd.
-26. [Cymru i newid rheolau cwarantin er 'risgiau clir'](https://www.bbc.co.uk/newyddion/57998993) - Llywodraeth Cymru'n "gresynu" ar y newid yn Lloegr, ond byddai'n "aneffeithiol" ceisio glynu at reolau gwahanol.
-27. [Sgwâr Canolog y BBC yw cartref yr Orsedd](https://www.bbc.co.uk/newyddion/57949114) - Bydd prif seremonïau'r ŵyl yn dod yn fyw o bencadlys BBC Cymru yng Nghaerdydd.
+26. [Achub dwy 'gafodd eu taro gan fellten' ar Yr Wyddfa](https://www.bbc.co.uk/newyddion/58002072) - Dywedodd criw achub bod dwy ddynes wedi derbyn triniaeth, un am fân anafiadau, ac un oedd mewn cyflwr "mwy difrifol".
+27. [Cymru i newid rheolau cwarantin er 'risgiau clir'](https://www.bbc.co.uk/newyddion/57998993) - Llywodraeth Cymru'n "gresynu" ar y newid yn Lloegr, ond byddai'n "aneffeithiol" ceisio glynu at reolau gwahanol.
 28. [Fy Stafell i: 'Stydi'r Meuryn' Ceri Wyn Jones](https://www.bbc.co.uk/newyddion/57975995) - Meuryn Y Talwrn Ceri Wyn Jones sy'n ein tywys o gwmpas ei stydi
 29. [Morgannwg yn colli o un rhediad yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/58002068) - Boddi wrth ymyl y lan wnaeth Morgannwg yn erbyn Gwlad yr Hâf ar ôl i law fyrhau'r gêm.
