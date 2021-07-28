@@ -22,7 +22,7 @@
 22. [British & Irish Lions: Warren Gatland makes three changes for second Lions Test](https://www.bbc.co.uk/sport/rugby-union/57983305) - British and Irish Lions name squad for second South Africa test - with Mako Vunipola, Conor Murray and Chris Harris starting.
 23. [Tokyo Olympics: Team GB's Lauren Price reaches middleweight quarter-finals](https://www.bbc.co.uk/sport/av/olympics/57994254) - Team GB's Lauren Price eases through the middleweight round of 16 at the Tokyo Olympis, beating Mongolian Munkhbat Myagmarjargal.
 24. [Cardiff City 0-4 Southampton: Bluebirds fans return after 17 months away](https://www.bbc.co.uk/sport/football/57992027) - Cardiff City play in front of their home fans for the first time since February 2020 as they lose 4-0 to Southampton in a pre-season friendly.
-25. [Medalau aur cyntaf i Gymry yn Tokyo](https://www.bbc.co.uk/newyddion/57995205) - Medal aur i Matthew Richards a Calum Jarvis yn y pwll nofio i Team GB.
+25. [Medalau aur cyntaf i Gymry yn Tokyo](https://www.bbc.co.uk/newyddion/57995205) - Medal aur i Matthew Richards a Calum Jarvis yn y pwll nofio i Team GB, a medal arian hefyd i'r rhwyfwr Tom Barras.
 26. [Statws Treftadaeth Byd wedi cael effaith bositif](https://www.bbc.co.uk/newyddion/57983156) - Cyn penderfyniad UNESCO am ardaloedd llechi Gwynedd, gwahaniaeth barn am yr effaith bosib.
 27. [Cyhuddo merch 16 oed o geisio llofruddio dyn yng Nghaerdydd](https://www.bbc.co.uk/newyddion/57994904) - Mae dau ddyn eisoes wedi bod ger bron llys wedi i ddyn gael anafiadau sy'n bygwth ei fywyd.
 28. [Beth sy'n digwydd yn Eisteddfod 2021?](https://www.bbc.co.uk/newyddion/57984353) - Sut allwch chi ddilyn y Brifwyl eleni?

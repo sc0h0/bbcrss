@@ -1,4 +1,4 @@
-1. [Fully-jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Wed, 28 Jul 2021 06:17:56 GMT - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
+1. [Fully-jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Wed, 28 Jul 2021 06:38:22 GMT - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
 2. [Food distributors complain of lack of detail over Covid tests](https://www.bbc.co.uk/news/business-57916620) - Wed, 28 Jul 2021 05:17:35 GMT - Smaller food delivery services say they have been left in the dark over the new Covid daily testing plans.
 3. [Toy giant Mattel warns of higher prices as costs rise](https://www.bbc.co.uk/news/business-57993497) - Wed, 28 Jul 2021 04:10:08 GMT - The Barbie maker's comments as it announced better than expected quarterly sales.
 4. [Electric car charging prices 'must be fair' say MPs](https://www.bbc.co.uk/news/business-57963912) - Wed, 28 Jul 2021 00:23:39 GMT - Consumers should not have to pay excessive prices to use public car charging, MPs say.
