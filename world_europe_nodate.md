@@ -1,4 +1,4 @@
-1. [Bosnian Serbs defy top UN official Inzko over genocide denial](https://www.bbc.co.uk/news/world-europe-58001974) - Ethnic Serb leaders, accused of playing down the Srebrenica massacre, will now boycott parliament.
+1. [Bosnian Serbs defy top UN official Inzko over genocide denial](https://www.bbc.co.uk/news/world-europe-58001974) - Ethnic Serb leaders accused of playing down the Srebrenica massacre will now boycott parliament.
 2. [Sweden charges man over 1988 Iran prison massacre](https://www.bbc.co.uk/news/world-europe-57996483) - Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.
 3. [Man on scooter steals millions from upmarket Paris jeweller](https://www.bbc.co.uk/news/world-europe-57995190) - The middle-aged armed robber targets a store in an upmarket area of the French capital.
 4. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the rule change in England, Scotland and Wales will help reunite family and friends.

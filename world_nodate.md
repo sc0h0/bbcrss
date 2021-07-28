@@ -1,5 +1,5 @@
 1. [Simone Biles: What are the twisties in gymnastics?](https://www.bbc.co.uk/news/world-us-canada-57986166) - US gymnast Simone Biles said she was "having a little bit of the twisties".
-2. [Bosnian Serbs defy top UN official Inzko over genocide denial](https://www.bbc.co.uk/news/world-europe-58001974) - Ethnic Serb leaders, accused of playing down the Srebrenica massacre, will now boycott parliament.
+2. [Bosnian Serbs defy top UN official Inzko over genocide denial](https://www.bbc.co.uk/news/world-europe-58001974) - Ethnic Serb leaders accused of playing down the Srebrenica massacre will now boycott parliament.
 3. [Lebanon’s descent into darkness](https://www.bbc.co.uk/news/world-middle-east-57988693) - The country's economic crisis has forced some families to move into refugee camps to survive.
 4. [Gilgamesh tablet: US authorities take ownership of artefact](https://www.bbc.co.uk/news/world-us-canada-57992957) - The Gilgamesh Dream Tablet was imported illegally into the US before being bought by Hobby Lobby.
 5. [China expanding its nuclear capabilities, scientists say](https://www.bbc.co.uk/news/world-asia-china-57995185) - It is building a site that will have extra capacity to store and launch missiles, scientists say.
