@@ -1,5 +1,5 @@
 1. [Shamook: Star Wars effects company ILM hires Mandalorian deepfaker](https://www.bbc.co.uk/news/entertainment-arts-57996094) - The artist, who uses the online alias Shamook, has been recruited by Industrial Light and Magic.
-2. [Rapper DaBaby apologises over HIV comments made at festival](https://www.bbc.co.uk/news/newsbeat-57999121) - The rapper has faced a backlash since making the false claims about people living with HIV.
+2. [Rapper DaBaby apologises for HIV comments made at festival](https://www.bbc.co.uk/news/newsbeat-57999121) - The rapper has faced a backlash since making the false claims about people living with HIV.
 3. [KT Tunstall scraps tour dates over hearing problems](https://www.bbc.co.uk/news/entertainment-arts-57996035) - The singer, who is deaf in her left ear, puts concerts on hold after her right ear develops problems.
 4. [Bob Odenkirk: Better Call Saul star collapses on set of Breaking Bad spin-off](https://www.bbc.co.uk/news/entertainment-arts-57996085) - The US actor was reportedly rushed to hospital in Los Angeles after being taken ill in New Mexico.
 5. [Joey Jordison: Slipknot founding drummer dies aged 46](https://www.bbc.co.uk/news/world-us-canada-57993121) - Jordison was a member of the mask-wearing heavy metal band and also performed with the likes of Metallica.

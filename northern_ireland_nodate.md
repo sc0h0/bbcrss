@@ -1,5 +1,5 @@
 1. [Ardoyne: Woman arrested over murder of baby in Belfast](https://www.bbc.co.uk/news/uk-northern-ireland-57992425) - A second child is in intensive care in hospital after the incident at a house in the Ardoyne area.
-2. [Casement Park stadium plans are approved](https://www.bbc.co.uk/news/uk-northern-ireland-57995132) - Plans for the new multimillion-pound project in west Belfast are given formal approval.
+2. [Casement Park stadium plans are formally approved](https://www.bbc.co.uk/news/uk-northern-ireland-57995132) - It is not clear how the project will be funded as costs have risen above the original estimate to £110m.
 3. [Northern Trust: 'Major discrepancies' in radiologist review](https://www.bbc.co.uk/news/uk-northern-ireland-57991397) - A review into the work of a locum consultant radiologist finds issues affecting 12 cases so far.
 4. [Denis Bradley: Government made 'major blunder' over legacy plans](https://www.bbc.co.uk/news/uk-northern-ireland-57995123) - Presentation of plans on Troubles-related legacy issues made the situation worse, says Denis Bradley.
 5. [Kidney transplant: 'Two people gave me my life back'](https://www.bbc.co.uk/news/uk-northern-ireland-57916546) - Ciaran Campbell, 33, from Dungannon in County Tyrone, has received two kidney transplants.

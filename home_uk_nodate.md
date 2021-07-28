@@ -1,7 +1,7 @@
 1. [Covid: Self-isolation rule changes on 16 August 'nailed on' - PM](https://www.bbc.co.uk/news/uk-57998247) - Recent falls in cases are encouraging but it is too early to draw conclusions, Boris Johnson says.
 2. [Covid: Deaf woman wins claim over lack of sign language at briefings](https://www.bbc.co.uk/news/uk-england-leeds-57998047) - A lack of sign language at government briefings amounts to discrimination, a High Court judge finds.
 3. [Covid test plan a 'pointless solution' says Iceland boss](https://www.bbc.co.uk/news/business-57916620) - Supermarket boss says government scheme only fixes half the issue because it excludes store workers.
-4. [Tokyo Olympics: Simone Biles out of individual all-around final](https://www.bbc.co.uk/sport/olympics/57973716) - American gymnast and four-time Olympic gold medallist Simone Biles withdraws from the individual all-around final Tokyo Olympics.
+4. [Simone Biles withdraws from all-around final](https://www.bbc.co.uk/sport/olympics/57973716) - American gymnast and four-time Olympic gold medallist Simone Biles withdraws from the individual all-around final Tokyo Olympics.
 5. [Electric car charging prices 'must be fair' say MPs](https://www.bbc.co.uk/news/business-57963912) - Consumers should not have to pay excessive prices to use public car charging, MPs say.
 6. [Boris Johnson predicts steady economic recovery post-pandemic](https://www.bbc.co.uk/news/uk-politics-57995845) - Boris Johnson still warns of "bumps on the road" ahead as the IMF predicts 7% growth for the UK economy.
 7. [Joey Jordison: Slipknot founding drummer dies aged 46](https://www.bbc.co.uk/news/world-us-canada-57993121) - Jordison was a member of the mask-wearing heavy metal band and also performed with the likes of Metallica.
