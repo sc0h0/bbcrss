@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 15:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 16:27:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: No quarantine for fully jabbed US and EU travellers to England]]></title>
+            <description><![CDATA[The travel industry had been pushing for the rule change so tourists can more easily come to England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57999362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57999362</guid>
+            <pubDate>Wed, 28 Jul 2021 16:20:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Channel crossings: RNLI chief hits out over migrant rescue abuse]]></title>
             <description><![CDATA[The charity's boss speaks out after its lifeboat crews are heckled for rescuing migrants.]]></description>
@@ -38,17 +45,10 @@
         </item>
         <item>
             <title><![CDATA[Trafford General: Lightning strike sets hospital roof on fire]]></title>
-            <description><![CDATA[Some patients and staff are evacuated as fire crews tackle the blaze at Trafford General Hospital.]]></description>
+            <description><![CDATA[Some patients and staff were evacuated after the blaze broke out at Trafford General Hospital.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58002628</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58002628</guid>
-            <pubDate>Wed, 28 Jul 2021 15:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lost Morecambe and Wise Show a 'huge discovery']]></title>
-            <description><![CDATA[A tape of the BBC show was thought lost, but found by Eric's son in the family attic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461</guid>
-            <pubDate>Wed, 28 Jul 2021 15:35:58 GMT</pubDate>
+            <pubDate>Wed, 28 Jul 2021 16:10:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ashby Ville: Boy, 14, dies in lake at Scunthorpe nature reserve]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-humber-57992157</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57992157</guid>
             <pubDate>Wed, 28 Jul 2021 14:10:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lost Morecambe and Wise Show a 'huge discovery']]></title>
+            <description><![CDATA[A tape of the BBC show was thought lost, but found by Eric Morecambe's son in the family attic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461</guid>
+            <pubDate>Wed, 28 Jul 2021 15:35:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Worksop chimney sweeps find Santa letter lost for decades]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57998885</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-57998885</guid>
             <pubDate>Wed, 28 Jul 2021 14:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wayne Rooney: Police drop blackmail complaint]]></title>
-            <description><![CDATA[Police say no offences have taken place regarding the social media photographs of Wayne Rooney.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57989881</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57989881</guid>
-            <pubDate>Wed, 28 Jul 2021 06:19:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Matt Hancock: Newmarket Town Council passes no-confidence vote]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Mon, 19 Jul 2021 09:34:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Birmingham 2022: Drones light show mark one year to go]]></title>
+            <description><![CDATA[The skies of Birmingham were lit up to mark a year until the city hosts the Commonwealth Games.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57999884</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57999884</guid>
+            <pubDate>Wed, 28 Jul 2021 12:57:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Channel crossings: RNLI release footage of rescue]]></title>
             <description><![CDATA[The video shows about 12 people, including young children, in a dinghy being pulled to safety.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-57999386</link>
@@ -163,11 +170,11 @@
             <pubDate>Tue, 27 Jul 2021 14:45:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Woman hikes 88 peaks in memory of mum]]></title>
-            <description><![CDATA[Lucy Coppack climbed to honour her mum, who designed one of the trig pillars marking the highest points.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-57982402</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57982402</guid>
-            <pubDate>Tue, 27 Jul 2021 11:03:49 GMT</pubDate>
+            <title><![CDATA[Wayne Rooney: Police drop blackmail complaint]]></title>
+            <description><![CDATA[Police say no offences have taken place regarding the social media photographs of Wayne Rooney.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-57989881</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57989881</guid>
+            <pubDate>Wed, 28 Jul 2021 06:19:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sheffield Forgemasters: Ministry of Defence to acquire steel firm]]></title>
@@ -251,7 +258,7 @@
             <description><![CDATA[Manchester Originals match against Northern Superchargers in the women's Hundred is abandoned without a ball being bowled.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58003159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58003159</guid>
-            <pubDate>Wed, 28 Jul 2021 14:23:06 GMT</pubDate>
+            <pubDate>Wed, 28 Jul 2021 16:15:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Charlotte Dujardin wins dressage bronze to become most decorated female Briton]]></title>
