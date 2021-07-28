@@ -1,7 +1,7 @@
-1. [Covid: Furlough scheme set to wind down further](https://www.bbc.co.uk/news/business-57981760) - Employers will have to contribute more to the job support scheme before it is phased out in September.
-2. ['We lost our life savings in a cryptocurrency scam'](https://www.bbc.co.uk/news/business-57983458) - A pensioner caught up in an investment saga lost it all, prompting warnings to others.
-3. [Car production hit by 'pingdemic' and global chip shortage](https://www.bbc.co.uk/news/business-58002724) - The UK industry says the demand is there but it is "desperately trying to get back to full capacity".
-4. [International cruises from England to restart](https://www.bbc.co.uk/news/business-58006163) - Quarantine for fully vaccinated arrivals from US and EU to UK ports also waived.
+1. [International cruises from England to restart](https://www.bbc.co.uk/news/business-58006163) - Quarantine for fully vaccinated arrivals from US and EU to UK ports also waived.
+2. [Covid: Furlough scheme set to wind down further](https://www.bbc.co.uk/news/business-57981760) - Employers will have to contribute more to the job support scheme before it is phased out in September.
+3. ['We lost our life savings in a cryptocurrency scam'](https://www.bbc.co.uk/news/business-57983458) - A pensioner caught up in an investment saga lost it all, prompting warnings to others.
+4. [Car production hit by 'pingdemic' and global chip shortage](https://www.bbc.co.uk/news/business-58002724) - The UK industry says the demand is there but it is "desperately trying to get back to full capacity".
 5. [Google workers will need Covid jabs to return to office](https://www.bbc.co.uk/news/business-58006810) - The search engine says it will roll the policy out globally across its offices in the coming months.
 6. [Facebook warns growth set to slow 'significantly'](https://www.bbc.co.uk/news/business-58006689) - The technology giant said on Wednesday that the third and fourth quarters would see advertising sales drop.
 7. [US economic recovery 'making progress', says Fed](https://www.bbc.co.uk/news/business-57979270) - Widespread vaccinations have helped boost the economy and employment, the US central bank says.

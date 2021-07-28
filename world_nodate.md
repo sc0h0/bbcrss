@@ -11,7 +11,7 @@
 11. [Man on scooter steals millions from upmarket Paris jeweller](https://www.bbc.co.uk/news/world-europe-57995190) - The middle-aged armed robber targets a store in an upmarket area of the French capital.
 12. [Tanzania leader gets jab in reverse of Covid policy](https://www.bbc.co.uk/news/world-africa-57996155) - After the Covid scepticism of her predecessor, Tanzania's President Samia launches a vaccine campaign.
 13. [South Africa riots: The inside story of Durban's week of anarchy](https://www.bbc.co.uk/news/world-africa-57996373) - The worst unrest since white-minority rule ended has left deep scars, especially in the coastal city of Durban.
-14. [Why cannabis is still a banned Olympics substance](https://www.bbc.co.uk/news/world-us-canada-58003743) - Sha'carri Richardson won't be competing due to a positive marijuana test. People are asking why.
+14. [Why cannabis is still a banned Olympics substance](https://www.bbc.co.uk/news/world-us-canada-58003743) - US sprinter Sha'carri Richardson won't compete due to a positive marijuana test. People are asking why.
 15. [Pedro Castillo: The primary school teacher who became Peru's president](https://www.bbc.co.uk/news/world-latin-america-57941309) - The meteoric rise of leftist Pedro Castillo has shaken Peru's political and business elite.
 16. [Gaza photographer hopes digital art boom can help raise aid money](https://www.bbc.co.uk/news/world-middle-east-57970467) - A Palestinian photographer wants to help children by selling an image from May's conflict.
 17. [Teodoro Nguema Obiang Mangue and his love of Bugattis and Michael Jackson](https://www.bbc.co.uk/news/world-africa-58001750) - Teodoro Nguema Obiang Mangue, tipped as Equatorial Guinea's next leader, is under sanctions in the UK and France.
