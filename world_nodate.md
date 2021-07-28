@@ -23,11 +23,11 @@
 23. [Archibald Prize: 100 years of Australia's top portrait honour](https://www.bbc.co.uk/news/world-australia-57967778) - Over 100 years, the Archibald Prize has become better at reflecting Australian diversity.
 24. [How US military pullback in Iraq could benefit Iran](https://www.bbc.co.uk/news/world-middle-east-57976007) - The withdrawal of remaining US combat troops could help Iran achieve its ambitions.
 25. [Covid passports: How do they work around the world?](https://www.bbc.co.uk/news/world-europe-56522408) - How are countries enforcing vaccine passports and what can people use them for?
-26. [Capitol Hill police officer in tears during testimony](https://www.bbc.co.uk/news/world-us-canada-57989607) - Officer Gonell gave an emotional statement during the first day of the US Capitol riot inquiry.
-27. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.
-28. [Is there a future for Africa's lions?](https://www.bbc.co.uk/news/science-environment-57968405) - As lion populations decline across much of Africa, could community-led conservation help reverse this trend?
-29. [Tunisia: Key moments as political turmoil unfolds](https://www.bbc.co.uk/news/world-africa-57972459) - Tunisia's president sacks the PM and the speaker is barred entry to parliament following violent protests.
-30. [Hemingway 'lookalike' chosen in Florida contest](https://www.bbc.co.uk/news/world-us-canada-57978084) - A 63-year-old won the Key West, Florida contest for his likeness to the award-winning author.
+26. [Petrol bombs thrown at Cuban embassy in Paris](https://www.bbc.co.uk/news/world-57995485) - Cuba's foreign ministry has released surveillance footage of the attack at its embassy in France.
+27. [Capitol Hill police officer in tears during testimony](https://www.bbc.co.uk/news/world-us-canada-57989607) - Officer Gonell gave an emotional statement during the first day of the US Capitol riot inquiry.
+28. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.
+29. [Is there a future for Africa's lions?](https://www.bbc.co.uk/news/science-environment-57968405) - As lion populations decline across much of Africa, could community-led conservation help reverse this trend?
+30. [Tunisia: Key moments as political turmoil unfolds](https://www.bbc.co.uk/news/world-africa-57972459) - Tunisia's president sacks the PM and the speaker is barred entry to parliament following violent protests.
 31. [Tokyo Olympics: Take a tour of the incredible venues](https://www.bbc.co.uk/news/world-asia-57981049) - They range from an arena built by a father and son, to a legendary home of Japanese martial arts.
 32. [Tokyo Olympics: German gymnasts' full-body suits inspire other athletes](https://www.bbc.co.uk/news/world-57978134) - British-Jamaican gymnast Danusia Francis believes athletes should have a choice over their outfits.
 33. [Tokyo Olympics medals table](https://www.bbc.co.uk/sport/olympics/57836709) - Medals table for the 2020 Olympics in Tokyo.
