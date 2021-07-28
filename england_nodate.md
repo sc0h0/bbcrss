@@ -19,8 +19,8 @@
 19. [Woman hikes up 88 Peak District hills in memory of mother](https://www.bbc.co.uk/news/uk-england-manchester-57982402) - Lucy Coppack climbed to honour her mum, who designed one of the trig pillars marking the highest points.
 20. [Multiple sclerosis: Parkour athlete's loss of mobility 'mortifying'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57932996) - Luke Callinan, 35, has been diagnosed with a rare form of multiple sclerosis.
 21. [Weed garden wins RHS gold at Tatton Park flower show](https://www.bbc.co.uk/news/uk-england-manchester-57961460) - The team behind Weed Thriller want to show that native plants are essential for wildlife.
-22. [Motorcyclist, 20, dies in four-vehicle crash in Devon](https://www.bbc.co.uk/news/uk-england-devon-57995635) - The local man was pronounced dead at the scene of the crash in North Devon.
-23. [Rochdale children suffering repeated cycles of abuse, Ofsted says](https://www.bbc.co.uk/news/uk-england-manchester-57997000) - Children's services in Rochdale are once again ordered to improve due to a range of shortcomings.
+22. [Tom Dean: double Olympic gold medallist's raw talent](https://www.bbc.co.uk/news/uk-england-somerset-57991792) - University of Bath student Tom Dean twice recovered from Covid on the way to Tokyo Olympic success.
+23. [Motorcyclist, 20, dies in four-vehicle crash in Devon](https://www.bbc.co.uk/news/uk-england-devon-57995635) - The local man was pronounced dead at the scene of the crash in North Devon.
 24. [Police watchdog to investigate death of 80-year-old man in Plymouth](https://www.bbc.co.uk/news/uk-england-devon-57991079) - The man was seriously injured while police were present, the watchdog says.
 25. [Thomas Cromwell: Historic letters reveal details of London mansion](https://www.bbc.co.uk/news/uk-england-london-57990681) - Cromwell was considered by King Henry VIII to be his "most faithful servant".
 26. [Birmingham 2022: Commonwealth Games one year away](https://www.bbc.co.uk/news/uk-england-birmingham-57984824) - Twelve months out from 28 July 2022, Birmingham organisers point to the role to be played region-wide.

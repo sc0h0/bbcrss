@@ -8,8 +8,8 @@
 8. [Ivory Coast president and rival in first meeting since civil war](https://www.bbc.co.uk/news/world-africa-57987858) - President Alassane Ouattara and Laurent Gbagbo shook hands at the presidential palace on Tuesday.
 9. [Covid: Sydney extends lockdown as other Australian cities reopen](https://www.bbc.co.uk/news/world-australia-57993337) - Infections in Australia's largest city remain stubbornly high, despite five weeks of restrictions.
 10. [Wu-Tang Clan album bought by Martin Shkreli sold by US government](https://www.bbc.co.uk/news/world-us-canada-57992807) - The album was handed over as part of a $7.4m deal with a notorious former drug firm executive.
-11. [Gilgamesh tablet: US authorities take ownership of artefact](https://www.bbc.co.uk/news/world-us-canada-57992957) - The Gilgamesh Dream Tablet was imported illegally into the US before being bought by Hobby Lobby.
-12. [Atlanta spa shootings: Georgia man pleads guilty](https://www.bbc.co.uk/news/world-us-canada-57989425) - Robert Aaron Long, charged with killing eight people in March, says he murdered four of the victims.
+11. [Atlanta spa shootings: Georgia man pleads guilty](https://www.bbc.co.uk/news/world-us-canada-57989425) - Robert Aaron Long, charged with killing eight people in March, says he murdered four of the victims.
+12. [Bob Odenkirk: Better Call Saul star collapses on set of Breaking Bad spin-off](https://www.bbc.co.uk/news/entertainment-arts-57996085) - The US actor was reportedly rushed to hospital in Los Angeles after being taken ill in New Mexico.
 13. [Dad builds robotic exoskeleton to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
 14. [Indians turn to crowdfunding to pay Covid bills](https://www.bbc.co.uk/news/world-asia-india-57981252) - More and more Indians are asking strangers to help them pay off crushing medical debt.
 15. [Key moments from first hearing of Capitol riot inquiry](https://www.bbc.co.uk/news/world-us-canada-57992997) - Police officers gave emotional testimony about their struggles during the riot to US lawmakers.
