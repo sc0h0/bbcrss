@@ -1,4 +1,4 @@
-1. [Dusty Hill: ZZ Top founding bassist dies aged 72](https://www.bbc.co.uk/news/world-us-canada-58006978) - Wed, 28 Jul 2021 20:51:55 GMT - Dusty Hill played bass for the iconic US blues rock band for more than five decades.
+1. [Dusty Hill: ZZ Top bassist dies aged 72](https://www.bbc.co.uk/news/world-us-canada-58006978) - Wed, 28 Jul 2021 20:51:55 GMT - Dusty Hill played bass for the iconic US blues rock band for more than five decades.
 2. [Shamook: Star Wars effects company ILM hires Mandalorian deepfaker](https://www.bbc.co.uk/news/entertainment-arts-57996094) - Wed, 28 Jul 2021 15:08:41 GMT - The artist, who uses the online alias Shamook, has been recruited by Industrial Light and Magic.
 3. [KT Tunstall scraps tour dates over hearing problems](https://www.bbc.co.uk/news/entertainment-arts-57996035) - Wed, 28 Jul 2021 08:01:04 GMT - The singer, who is deaf in her left ear, puts concerts on hold after her right ear develops problems.
 4. [Little Mix waxworks unveiled at Madame Tussauds](https://www.bbc.co.uk/news/uk-england-tyne-58004244) - Wed, 28 Jul 2021 15:39:41 GMT - The exhibition includes a waxwork of Jesy Nelson, who left the group in December.

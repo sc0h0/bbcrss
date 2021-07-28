@@ -3,7 +3,7 @@
 3. [Lebanon’s descent into darkness](https://www.bbc.co.uk/news/world-middle-east-57988693) - The country's economic crisis has forced some families to move into refugee camps to survive.
 4. [Gilgamesh tablet: US authorities take ownership of artefact](https://www.bbc.co.uk/news/world-us-canada-57992957) - The Gilgamesh Dream Tablet was imported illegally into the US before being bought by Hobby Lobby.
 5. [China expanding its nuclear capabilities, scientists say](https://www.bbc.co.uk/news/world-asia-china-57995185) - It is building a site that will have extra capacity to store and launch missiles, scientists say.
-6. [Dusty Hill: ZZ Top founding bassist dies aged 72](https://www.bbc.co.uk/news/world-us-canada-58006978) - Dusty Hill played bass for the iconic US blues rock band for more than five decades.
+6. [Dusty Hill: ZZ Top bassist dies aged 72](https://www.bbc.co.uk/news/world-us-canada-58006978) - Dusty Hill played bass for the iconic US blues rock band for more than five decades.
 7. [Man on scooter steals millions from upmarket Paris jeweller](https://www.bbc.co.uk/news/world-europe-57995190) - The middle-aged armed robber targets a store in an upmarket area of the French capital.
 8. [Remington: US gunmaker offers $33m to Sandy Hook shooting victims](https://www.bbc.co.uk/news/world-us-canada-58001480) - Victims' families from Sandy Hook elementary school sued Remington for the sale of the rifle.
 9. [Sweden charges man over 1988 Iran prison massacre](https://www.bbc.co.uk/news/world-europe-57996483) - Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.

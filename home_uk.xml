@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 21:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 21:30:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Wed, 28 Jul 2021 17:52:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dusty Hill: ZZ Top bassist dies aged 72]]></title>
+            <description><![CDATA[Dusty Hill played bass for the iconic US blues rock band for more than five decades.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58006978</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58006978</guid>
+            <pubDate>Wed, 28 Jul 2021 20:51:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Queen's lawyers secured amendment to Scottish green energy law]]></title>
             <description><![CDATA[The legislation was changed so the monarch's private estates could not be subject to compulsory purchase orders.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58005875</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-58002514</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58002514</guid>
             <pubDate>Wed, 28 Jul 2021 20:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Channel crossings: RNLI chief hits out over migrant rescue abuse]]></title>
-            <description><![CDATA[The charity's boss speaks out after its lifeboat crews are heckled for rescuing migrants.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-57999224</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57999224</guid>
-            <pubDate>Wed, 28 Jul 2021 13:14:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extinction Rebellion: Paralympian James Brown guilty over plane stunt]]></title>
@@ -273,6 +273,13 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/58006393</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58006393</guid>
             <pubDate>Wed, 28 Jul 2021 19:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Charlotte Dujardin wins bronze in the individual dressage - her sixth Olympic medal]]></title>
+            <description><![CDATA[Charlotte Dujardin wins bronze in the individual dressage and becomes Great Britain's most decorated female Olympian with six medals.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57998205</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57998205</guid>
+            <pubDate>Wed, 28 Jul 2021 13:47:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Staging of Rugby League World Cup this year 'threatened', organisers say]]></title>
