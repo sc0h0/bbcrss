@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 12:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 13:04:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: The pandemic explored in maps and data]]></title>
+            <description><![CDATA[Political scientist Dr Robert Muggah looks at the effects of the pandemic and national lockdowns.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58001206</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58001206</guid>
+            <pubDate>Wed, 28 Jul 2021 12:47:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Oculus recalls Quest 2 headset pads after skin rashes]]></title>
             <description><![CDATA[Quest 2 headset owners are urged to claim a free silicone cover to avoid skin issues.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57978465</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57978465</guid>
             <pubDate>Mon, 26 Jul 2021 20:31:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon Bitcoin job ad boosts cryptocurrency surge]]></title>
-            <description><![CDATA[News Amazon is hiring a digital-currency expert has helped boost the value of Bitcoin.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57971451</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57971451</guid>
-            <pubDate>Mon, 26 Jul 2021 12:25:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Team BRIT’s Aaron Morgan: How hand controls help me race]]></title>
