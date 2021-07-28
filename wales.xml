@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 11:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 11:29:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Wed, 28 Jul 2021 05:50:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Shielding from Covid: 'I couldn't face going back to work']]></title>
+            <description><![CDATA[Concerns about contracting Covid, even after being fully vaccinated, sees one woman quit her job.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57995550</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57995550</guid>
+            <pubDate>Wed, 28 Jul 2021 11:19:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Richards & Jarvis help GB win Olympic gold]]></title>
             <description><![CDATA[Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57993545</link>
@@ -48,7 +55,7 @@
             <description><![CDATA[Just over 90,000 pupils in Wales were absent from school in the last full week of term, figures show.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-57996960</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57996960</guid>
-            <pubDate>Wed, 28 Jul 2021 10:30:41 GMT</pubDate>
+            <pubDate>Wed, 28 Jul 2021 11:23:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eagle eyes spot kestrel chicks in jet plane exhaust]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Tue, 27 Jul 2021 14:18:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elaine Hidden died after three calls for an ambulance, inquest hears]]></title>
-            <description><![CDATA[Asthma sufferer Elaine Hidden's family made three 999 calls for an ambulance, an inquest hears.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57980963</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57980963</guid>
-            <pubDate>Tue, 27 Jul 2021 17:02:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[World War Two Arctic Convoys veteran given Royal Navy funeral]]></title>
             <description><![CDATA[Alan Higgins honoured after surviving being torpedoed, the D-Day landings and World War Two.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57976879</link>
@@ -108,7 +108,7 @@
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB's Lauren Price reaches middleweight quarter-finals]]></title>
-            <description><![CDATA[Team GB's Lauren Price eases through the middleweight round of 16 at the Tokyo Olympis, beating Mongolian Munkhbat Myagmarjargal.]]></description>
+            <description><![CDATA[Team GB's Lauren Price eases through the middleweight round of 16 at the Tokyo Olympics, beating Mongolian Munkhbat Myagmarjargal.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57994254</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57994254</guid>
             <pubDate>Wed, 28 Jul 2021 05:30:57 GMT</pubDate>
@@ -174,7 +174,7 @@
             <description><![CDATA[Britain's Geraint Thomas and Tao Geoghegan Hart finish outside the top 10 as Slovenia's Primoz Roglic wins time trial gold at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57986021</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57986021</guid>
-            <pubDate>Wed, 28 Jul 2021 08:49:11 GMT</pubDate>
+            <pubDate>Wed, 28 Jul 2021 11:25:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Timmy Abraham: Fulham forward joins Newport County on loan]]></title>

@@ -7,7 +7,7 @@
 7. [Joey Jordison: Slipknot founding drummer dies aged 46](https://www.bbc.co.uk/news/world-us-canada-57993121) - Jordison was a member of the mask-wearing heavy metal band and also performed with the likes of Metallica.
 8. [Housing market cools as stamp duty break withdrawn](https://www.bbc.co.uk/news/business-57997492) - UK house prices still rose by 10.5% compared with a year ago, Nationwide building society says.
 9. [Wayne Rooney: Police drop blackmail complaint](https://www.bbc.co.uk/news/uk-england-manchester-57989881) - Police say no offences have taken place regarding the social media photographs of Wayne Rooney.
-10. [Critics give muted response to ministers' £1.6bn disability strategy](https://www.bbc.co.uk/news/disability-57987803) - The government says it is a once in a generation transformative plan but critics say it is lacking.
+10. [Oculus recalls Quest 2 headset pads after skin rashes](https://www.bbc.co.uk/news/technology-57997112) - Quest 2 headset owners are urged to claim a free silicone cover to avoid skin issues.
 11. [Unesco: Wales' slate landscape bids for place on World Heritage list](https://www.bbc.co.uk/news/uk-wales-57973511) - Welsh slate landscape bids to join Egypt's Pyramids and India's Taj Mahal on prestigious list.
 12. [The Papers: UK 'reopens to world' and 'betrayed' kids in care](https://www.bbc.co.uk/news/blogs-the-papers-57992717) - A quarantine waiver for EU and US travellers and a cover-up in social care lead the front pages.
 13. [Tidal turbine in Orkney starts generating power](https://www.bbc.co.uk/news/uk-scotland-57991442) - The device, anchored in waters off Orkney, is now connected to the grid.
