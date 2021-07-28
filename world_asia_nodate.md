@@ -3,7 +3,7 @@
 3. [Anger as Covid-ravaged Malaysia lifts pandemic measures](https://www.bbc.co.uk/news/world-asia-57993617) - It comes as hospitals are overwhelmed, with pictures showing patients sharing oxygen cylinders.
 4. [Hong Kong: First person charged under national security law found guilty](https://www.bbc.co.uk/news/world-asia-china-57979938) - The 24-year-old had flown a flag with a protest slogan while riding a motorcycle into police officers.
 5. [Indians turn to crowdfunding to pay Covid bills](https://www.bbc.co.uk/news/world-asia-india-57981252) - More and more Indians are asking strangers to help them pay off crushing medical debt.
-6. [Barabanki accident: Eighteen die after truck crashes into bus in India](https://www.bbc.co.uk/news/world-asia-india-57993968) - The victims were migrants workers who were going home to meet their families.
+6. [Barabanki accident: Eighteen die after truck crashes into bus in India](https://www.bbc.co.uk/news/world-asia-india-57993968) - The victims were migrant workers who were going home to meet their families.
 7. [Tokyo Olympics: Naomi Osaka loses to Marketa Vondrousova in women's singles tennis](https://www.bbc.co.uk/sport/olympics/57980493) - Japanese superstar Naomi Osaka suffers a surprise exit in her home Olympics as Czech Marketa Vondrousova earns a straight-set win.
 8. [Sri Lanka: World's largest star sapphire cluster found in backyard](https://www.bbc.co.uk/news/world-asia-57981046) - The "Serendipity Sapphire" was accidentally found by a gem trader in Sri Lanka's Ratnapura region.
 9. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.
