@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 20:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 21:08:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Dusty Hill: ZZ Top founding bassist dies aged 72]]></title>
+            <description><![CDATA[Dusty Hill played bass for the iconic US blues rock band for more than five decades.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58006978</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58006978</guid>
+            <pubDate>Wed, 28 Jul 2021 20:51:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shamook: Star Wars effects company ILM hires Mandalorian deepfaker]]></title>
             <description><![CDATA[The artist, who uses the online alias Shamook, has been recruited by Industrial Light and Magic.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57996035</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57996035</guid>
             <pubDate>Wed, 28 Jul 2021 08:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bob Odenkirk: Better Call Saul star collapses on set of Breaking Bad spin-off]]></title>
-            <description><![CDATA[The US actor was reportedly rushed to hospital in Los Angeles after being taken ill in New Mexico.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57996085</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57996085</guid>
-            <pubDate>Wed, 28 Jul 2021 09:33:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Little Mix waxworks unveiled at Madame Tussauds]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461</guid>
             <pubDate>Wed, 28 Jul 2021 20:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bob Odenkirk: Better Call Saul star collapses on set of Breaking Bad spin-off]]></title>
+            <description><![CDATA[The US actor was reportedly rushed to hospital in Los Angeles after being taken ill in New Mexico.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57996085</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57996085</guid>
+            <pubDate>Wed, 28 Jul 2021 09:33:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Delia Smith buys Nick Chinnery's Norwich paintings series]]></title>
