@@ -10,7 +10,7 @@
 10. [Victoria Hall: Man arrested in 1999 teen murder case](https://www.bbc.co.uk/news/uk-england-suffolk-58002514) - Victoria Hall, 17, was abducted on her way home from a Suffolk nightclub more than 20 years ago.
 11. [Extinction Rebellion: Paralympian James Brown guilty over plane stunt](https://www.bbc.co.uk/news/uk-england-london-58001773) - Former Paralympian James Brown glued himself to an aircraft in an Extinction Rebellion protest.
 12. [Two women struck by lightning at Snowdon summit](https://www.bbc.co.uk/news/uk-wales-57999183) - Rescuers said the pair were "very lucky" to be alive after being hit by a lightning on Snowdon.
-13. [Lost Morecambe and Wise Show a 'huge discovery'](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461) - A tape of the BBC show was thought lost, but found by Eric Morecambe's son in the family attic.
+13. [Activision Blizzard staff walk out over harassment claims](https://www.bbc.co.uk/news/world-us-canada-58005455) - Employees of the company behind Call of Duty are angry over allegations of sexism and harassment.
 14. [Tidal turbine in Orkney starts generating power](https://www.bbc.co.uk/news/uk-scotland-57991442) - The device, anchored in waters off Orkney, is now connected to the grid.
 15. [Aerial dancers enjoy striking Honister sunrise performance](https://www.bbc.co.uk/news/uk-england-cumbria-58002734) - Three aerial dancers suspend themselves from 1,000ft (305m) up for a routine in the Lake District.
 16. [Covid: Medal for GP who came out of retirement to treat patients](https://www.bbc.co.uk/news/uk-england-somerset-57998509) - A GP who came out of retirement to treat patients in the pandemic is awarded a medal.
