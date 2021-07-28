@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 05:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 05:57:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,13 +79,6 @@
             <pubDate>Tue, 27 Jul 2021 22:49:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Let more Afghan interpreters resettle in UK, say ex-military chiefs]]></title>
-            <description><![CDATA[More Afghans who worked for British forces should be allowed to resettle in the UK, former military chiefs say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57990020</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57990020</guid>
-            <pubDate>Wed, 28 Jul 2021 04:02:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gilgamesh tablet: US authorities take ownership of artefact]]></title>
             <description><![CDATA[The Gilgamesh Dream Tablet was imported illegally into the US before being bought by Hobby Lobby.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57992957</link>
@@ -93,18 +86,18 @@
             <pubDate>Tue, 27 Jul 2021 23:36:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israel-Gaza conflict: Apparent war crimes committed, says rights group]]></title>
-            <description><![CDATA[Human Rights Watch accuses Israel and Palestinian militants of unlawful attacks in May's conflict.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57982567</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57982567</guid>
-            <pubDate>Tue, 27 Jul 2021 18:44:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Greece: Forest fire rips through area near Athens]]></title>
             <description><![CDATA[About 300 firefighters, water-dropping planes and helicopters helped bring the blaze under control.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57987855</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57987855</guid>
             <pubDate>Tue, 27 Jul 2021 18:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dad builds robotic exoskeleton to help son walk]]></title>
+            <description><![CDATA[The French robotics engineer says he was inspired to build the suit after his son asked him to.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57985857</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57985857</guid>
+            <pubDate>Tue, 27 Jul 2021 13:22:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indians turn to crowdfunding to pay Covid bills]]></title>
@@ -133,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-57917683</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57917683</guid>
             <pubDate>Tue, 27 Jul 2021 23:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dad builds robotic exoskeleton to help son walk]]></title>
-            <description><![CDATA[The French robotics engineer says he was inspired to build the suit after his son asked him to.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57985857</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57985857</guid>
-            <pubDate>Tue, 27 Jul 2021 13:22:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The black immigrant who challenged US segregation - nearly 190 years ago]]></title>
@@ -198,13 +184,6 @@
             <pubDate>Tue, 27 Jul 2021 14:41:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Take a tour of the incredible venues]]></title>
-            <description><![CDATA[They range from an arena built by a father and son, to a legendary home of Japanese martial arts.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57981049</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57981049</guid>
-            <pubDate>Tue, 27 Jul 2021 23:01:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brazil: Why are so many pregnant women dying from Covid?]]></title>
             <description><![CDATA[One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57974754</link>
@@ -224,6 +203,20 @@
             <link>https://www.bbc.co.uk/news/world-africa-57972459</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57972459</guid>
             <pubDate>Mon, 26 Jul 2021 13:26:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hemingway 'lookalike' chosen in Florida contest]]></title>
+            <description><![CDATA[A 63-year-old won the Key West, Florida contest for his likeness to the award-winning author.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57978084</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57978084</guid>
+            <pubDate>Mon, 26 Jul 2021 20:46:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Take a tour of the incredible venues]]></title>
+            <description><![CDATA[They range from an arena built by a father and son, to a legendary home of Japanese martial arts.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57981049</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57981049</guid>
+            <pubDate>Tue, 27 Jul 2021 23:01:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: German gymnasts' full-body suits inspire other athletes]]></title>
@@ -259,34 +252,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/57981411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57981411</guid>
             <pubDate>Tue, 27 Jul 2021 08:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tears on the podium for a dream come true]]></title>
-            <description><![CDATA[The 'baby' of Beijing became a father, a husband and an LGBTQ+ spokesperson. And now Tom Daley is an Olympic gold medallist. This is his story.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57968119</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968119</guid>
-            <pubDate>Mon, 26 Jul 2021 12:53:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian Olympic Committee win gymnastics gold]]></title>
-            <description><![CDATA[The Russian Olympic Committee hold on to take gymnastics men's team gold as Great Britain finish fourth.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57968367</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57968367</guid>
-            <pubDate>Mon, 26 Jul 2021 13:53:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Ariarne Titmus beats Katie Ledecky in women's 400m freestyle, Dressel takes first gold]]></title>
-            <description><![CDATA[Australia's Ariarne Titmus triumphs over American five-time Olympic gold medallist Katie Ledecky in the women's 400m freestyle.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57966724</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57966724</guid>
-            <pubDate>Mon, 26 Jul 2021 06:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: German women's gymnastics team wears full-body suits]]></title>
-            <description><![CDATA[Germany's gymnasts wear full-body suits in women's qualification at the Olympics as they continue their stand against the sexualisation of their sport.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57961055</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57961055</guid>
-            <pubDate>Sun, 25 Jul 2021 14:23:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
