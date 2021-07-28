@@ -1,6 +1,6 @@
-1. [Boris Johnson pledges to to target crime and anti-social behaviour](https://www.bbc.co.uk/news/uk-politics-57978618) - More local officers and wider use of public 'chain gangs' are promised, but police demand extra funding.
-2. [Covid: UK cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
-3. [Fully-jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
+1. [Fully-jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
+2. [Boris Johnson pledges to to target crime and anti-social behaviour](https://www.bbc.co.uk/news/uk-politics-57978618) - More local officers and wider use of public 'chain gangs' are promised, but police demand extra funding.
+3. [Covid: UK cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
 4. [Covid: Turning down Covid vaccine is selfish, says Michael Gove](https://www.bbc.co.uk/news/uk-politics-57987016) - The Cabinet Office minister said those declining a jab could see themselves barred from events.
 5. [Contaminated-blood inquiry: Former Health Minister Clarke denies responsibility](https://www.bbc.co.uk/news/uk-57986582) - Lord Clarke is the first senior health minister from the 1980s to testify on the NHS scandal.
 6. [My dog Dilyn can't control his romantic urges, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-57987491) - Boris Johnson reveals Downing Street's resident Jack Russell-cross has a weakness for human legs.

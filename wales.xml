@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 04:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 05:13:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-57973511</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57973511</guid>
             <pubDate>Wed, 28 Jul 2021 04:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Richards & Jarvis help GB win Olympic gold]]></title>
+            <description><![CDATA[Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57993545</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57993545</guid>
+            <pubDate>Wed, 28 Jul 2021 04:14:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pub beer garden crash man 'happy to be alive' ]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-politics-57983581</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-57983581</guid>
             <pubDate>Tue, 27 Jul 2021 15:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bute Park attack: Girl, 16, held on suspicion of attempted murder]]></title>
-            <description><![CDATA[Two men have already appeared in court after a man received life-threatening injuries in an attack.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57984253</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57984253</guid>
-            <pubDate>Tue, 27 Jul 2021 12:46:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Waterspout appears off west Wales coast]]></title>
@@ -149,13 +149,6 @@
             <pubDate>Sun, 25 Jul 2021 11:02:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain win emphatic gold in 4x200m freestyle relay]]></title>
-            <description><![CDATA[Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57993545</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57993545</guid>
-            <pubDate>Wed, 28 Jul 2021 04:14:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Great Britain rowers win silver in men's quadruple sculls]]></title>
             <description><![CDATA[Britain's rowers win their first Olympic medal in the men's quadruple sculls as Harry Leask, Angus Groom, Tom Barras and Jack Beaumont claim silver at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57993357</link>
@@ -184,25 +177,32 @@
             <pubDate>Tue, 27 Jul 2021 19:50:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Dim bygythiad i'r Prif Weinidog' medd Heddlu'r De]]></title>
-            <description><![CDATA[Cafodd pryderon eu mynegi am ddiogelwch Mark Drakeford wedi protest y tu allan i'w gartref.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57991012</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57991012</guid>
-            <pubDate>Tue, 27 Jul 2021 16:51:34 GMT</pubDate>
+            <title><![CDATA[The Hundred: Smriti Mandhana secures victory for Southern Brave]]></title>
+            <description><![CDATA[India star Smriti Mandhana hits an unbeaten 61 as Southern Brave race to a comfortable win against Welsh Fire.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57989496</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57989496</guid>
+            <pubDate>Tue, 27 Jul 2021 16:42:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dyn yn y llys ar gyhuddiad o lofruddio yn Aberteifi]]></title>
-            <description><![CDATA[Cafodd John Williams Bell, 37, ei ddarganfod ar y ffordd i Bont Aberteifi yn oriau mân 21 Gorffennaf.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57982081</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57982081</guid>
-            <pubDate>Tue, 27 Jul 2021 14:31:04 GMT</pubDate>
+            <title><![CDATA[Statws Treftadaeth Byd wedi cael effaith bositif]]></title>
+            <description><![CDATA[Cyn penderfyniad UNESCO am ardaloedd llechi Gwynedd, gwahaniaeth barn am yr effaith bosib.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57983156</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57983156</guid>
+            <pubDate>Wed, 28 Jul 2021 05:03:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dyn gafodd ei daro ger tafarn 'yn falch i fod yn fyw']]></title>
-            <description><![CDATA[Mae Darren George, 30, yn dal yn yr ysbyty wedi i gar daro i mewn iddo mewn gardd tafarn ym Mhontyclun.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57991013</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57991013</guid>
-            <pubDate>Tue, 27 Jul 2021 18:17:02 GMT</pubDate>
+            <title><![CDATA[Ymgynghoriad ar gamau i reoleiddio sefydliadau rhyw]]></title>
+            <description><![CDATA[Mae Cyngor Gwynedd eisiau derbyn grymoedd i gael rheoleiddio a thrwyddedu sefydliadau rhyw y sir.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57949111</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57949111</guid>
+            <pubDate>Wed, 28 Jul 2021 05:03:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ymgynghoriad ar gerflun dadleuol o HM Stanley yn Ninbych]]></title>
+            <description><![CDATA[Bydd ymgynghoriad cyhoeddus ar ddyfodol y cerflun yn digwydd dros flwyddyn wedi iddo gael ei addo.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/57991011</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57991011</guid>
+            <pubDate>Wed, 28 Jul 2021 05:05:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beth sy'n digwydd yn Eisteddfod 2021?]]></title>
