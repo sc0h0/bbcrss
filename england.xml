@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 19:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 19:50:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-57999362</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57999362</guid>
             <pubDate>Wed, 28 Jul 2021 19:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Northampton midwife attacked by egg-throwers in Coventry]]></title>
+            <description><![CDATA[Laney Holland had been visiting a patient when the gang threw eggs, flour and water at her car.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58003441</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58003441</guid>
+            <pubDate>Wed, 28 Jul 2021 19:42:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Channel crossings: RNLI chief hits out over migrant rescue abuse]]></title>
@@ -37,13 +44,6 @@
             <pubDate>Wed, 28 Jul 2021 14:09:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Marble Arch Mound: 'I wouldn't pay £4 to walk up a hill']]></title>
-            <description><![CDATA[The public reacts to London's newest tourist attraction, which is facing complaints of being incomplete.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58001770</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58001770</guid>
-            <pubDate>Wed, 28 Jul 2021 17:52:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Extinction Rebellion: Paralympian James Brown guilty over plane stunt]]></title>
             <description><![CDATA[Former Paralympian James Brown glued himself to an aircraft in an Extinction Rebellion protest.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58001773</link>
@@ -58,11 +58,11 @@
             <pubDate>Wed, 28 Jul 2021 14:08:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lost Morecambe and Wise Show a 'huge discovery']]></title>
-            <description><![CDATA[A tape of the BBC show was thought lost, but found by Eric Morecambe's son in the family attic.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461</guid>
-            <pubDate>Wed, 28 Jul 2021 15:35:58 GMT</pubDate>
+            <title><![CDATA[Marble Arch Mound: 'I wouldn't pay £4 to walk up a hill']]></title>
+            <description><![CDATA[The public reacts to London's newest tourist attraction, which is facing complaints of being incomplete.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58001770</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58001770</guid>
+            <pubDate>Wed, 28 Jul 2021 17:52:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trafford General: Lightning strike sets hospital roof on fire]]></title>
@@ -79,13 +79,6 @@
             <pubDate>Wed, 28 Jul 2021 15:53:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ashby Ville: Boy, 14, dies in lake at Scunthorpe nature reserve]]></title>
-            <description><![CDATA[The 14-year-old boy's body was recovered from the lake at Ashby Ville in Scunthorpe, say police.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-humber-57992157</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57992157</guid>
-            <pubDate>Wed, 28 Jul 2021 14:10:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Worksop chimney sweeps find Santa letter lost for decades]]></title>
             <description><![CDATA[The slightly burnt note asks for a "cowboy suit and guns and a hat and everything".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57997837</link>
@@ -100,11 +93,18 @@
             <pubDate>Wed, 28 Jul 2021 14:05:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Judith Fox: Woman killed and dismembered mother jury finds]]></title>
-            <description><![CDATA[Lucy Fox was given a hospital order after being diagnosed with a paranoid illness.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-shropshire-57997503</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-57997503</guid>
-            <pubDate>Wed, 28 Jul 2021 11:40:31 GMT</pubDate>
+            <title><![CDATA[Lost Morecambe and Wise Show a 'huge discovery']]></title>
+            <description><![CDATA[A tape of the BBC show was thought lost, but found by Eric Morecambe's son in the family attic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461</guid>
+            <pubDate>Wed, 28 Jul 2021 15:35:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ashby Ville: Boy, 14, dies in lake at Scunthorpe nature reserve]]></title>
+            <description><![CDATA[The 14-year-old boy's body was recovered from the lake at Ashby Ville in Scunthorpe, say police.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-57992157</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57992157</guid>
+            <pubDate>Wed, 28 Jul 2021 14:10:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>

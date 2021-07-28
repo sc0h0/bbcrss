@@ -1,14 +1,14 @@
 1. [Covid-19: The pandemic explored in maps and data](https://www.bbc.co.uk/news/technology-58001206) - Political scientist Dr Robert Muggah looks at the effects of the pandemic and national lockdowns.
-2. [Oculus recalls Quest 2 headset pads after skin rashes](https://www.bbc.co.uk/news/technology-57997112) - Quest 2 headset owners are urged to claim a free silicone cover to avoid skin issues.
-3. [Intel chief warns of two-year chip shortage](https://www.bbc.co.uk/news/technology-57996908) - Pat Gelsinger talks chip crisis, China and how the firm intends to fight back in the marketplace.
-4. [Ofcom appoints online safety head to take on big tech](https://www.bbc.co.uk/news/technology-57996909) - Anna-Sophie Harling will have responsibility over how big technology companies regulate harmful speech.
-5. [Former eBay supervisor jailed for cyber-stalking critics](https://www.bbc.co.uk/news/technology-57997117) - A former police captain turned eBay employee harassed critics of the online-auction company.
-6. [Shamook: Star Wars effects company ILM hires Mandalorian deepfaker](https://www.bbc.co.uk/news/entertainment-arts-57996094) - The artist, who uses the online alias Shamook, has been recruited by Industrial Light and Magic.
-7. [Twitter accused of inaction on anti-Semitic tweets](https://www.bbc.co.uk/news/technology-57970598) - Campaign Against Antisemitism says many reported hateful tweets are not being removed.
+2. [Activision Blizzard staff walk out over harassment claims](https://www.bbc.co.uk/news/world-us-canada-58005455) - Employees of the company behind Call of Duty are angry over allegations of sexism and harassment.
+3. [Oculus recalls Quest 2 headset pads after skin rashes](https://www.bbc.co.uk/news/technology-57997112) - Quest 2 headset owners are urged to claim a free silicone cover to avoid skin issues.
+4. [Intel chief warns of two-year chip shortage](https://www.bbc.co.uk/news/technology-57996908) - Pat Gelsinger talks chip crisis, China and how the firm intends to fight back in the marketplace.
+5. [Ofcom appoints online safety head to take on big tech](https://www.bbc.co.uk/news/technology-57996909) - Anna-Sophie Harling will have responsibility over how big technology companies regulate harmful speech.
+6. [Former eBay supervisor jailed for cyber-stalking critics](https://www.bbc.co.uk/news/technology-57997117) - A former police captain turned eBay employee harassed critics of the online-auction company.
+7. [Shamook: Star Wars effects company ILM hires Mandalorian deepfaker](https://www.bbc.co.uk/news/entertainment-arts-57996094) - The artist, who uses the online alias Shamook, has been recruited by Industrial Light and Magic.
 8. [Tech giants' profits soar as pandemic boom continues](https://www.bbc.co.uk/news/business-57979268) - Apple, Google parent company Alphabet and Microsoft report soaring quarterly profits.
-9. [Instagram makes under-16s' accounts private by default](https://www.bbc.co.uk/news/technology-57984790) - Only approved followers can see posts and "like" or comment on accounts that retain the private setting.
-10. [Electric car charging prices 'must be fair' say MPs](https://www.bbc.co.uk/news/business-57963912) - Consumers should not have to pay excessive prices to use public car charging, MPs say.
-11. [Activision staff condemn firm's response to harassment claims](https://www.bbc.co.uk/news/technology-57984784) - About 1,000 Activision Blizzard staff sign a letter describing managers' response as insulting.
+9. [Twitter accused of inaction on anti-Semitic tweets](https://www.bbc.co.uk/news/technology-57970598) - Campaign Against Antisemitism says many reported hateful tweets are not being removed.
+10. [Instagram makes under-16s' accounts private by default](https://www.bbc.co.uk/news/technology-57984790) - Only approved followers can see posts and "like" or comment on accounts that retain the private setting.
+11. [Electric car charging prices 'must be fair' say MPs](https://www.bbc.co.uk/news/business-57963912) - Consumers should not have to pay excessive prices to use public car charging, MPs say.
 12. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
 13. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
 14. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
