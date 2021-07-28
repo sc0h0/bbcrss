@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 14:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 14:23:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,7 +58,7 @@
             <pubDate>Wed, 28 Jul 2021 10:12:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Irish boxer Kurt Walker stuns top seed to reach quarter-finals]]></title>
+            <title><![CDATA[Walker stuns top seed to make Olympics last eight]]></title>
             <description><![CDATA[Lisburn boxer Kurt Walker storms into the featherweight quarter-finals as Ireland women's four rowers win the country's first medal in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57994312</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57994312</guid>
@@ -135,27 +135,6 @@
             <pubDate>Mon, 26 Jul 2021 17:23:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Executive agrees on theatre and concert reopening]]></title>
-            <description><![CDATA[Theatres and concert venues can reopen while there are changes to how many people can meet indoors.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57965166</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57965166</guid>
-            <pubDate>Mon, 26 Jul 2021 20:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Hospital pressures mount as ICU numbers increase]]></title>
-            <description><![CDATA[The chief nursing officer says a surge in demand due to Covid has come more quickly than expected.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57968664</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57968664</guid>
-            <pubDate>Mon, 26 Jul 2021 20:30:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belsonic and Custom House Square concerts ask for proof of Covid status]]></title>
-            <description><![CDATA[Belsonic and Custom House Square ask for proof of a negative test, vaccinations or antibodies.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57974083</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57974083</guid>
-            <pubDate>Mon, 26 Jul 2021 18:04:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Getting back on stage will 'feel like Christmas']]></title>
             <description><![CDATA[Two young actors cannot wait to perform live in front of an indoor audience on Tuesday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57983830</link>
@@ -198,6 +177,13 @@
             <pubDate>Wed, 28 Jul 2021 13:27:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['The biggest victory of Lisburn boxer's career!']]></title>
+            <description><![CDATA[Team Ireland boxer Kurt Walker is one win away from an Olympic medal after defeating Uzbekistan's world champion Mirazizbek Mirzakhalilov.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57993993</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57993993</guid>
+            <pubDate>Wed, 28 Jul 2021 12:46:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bride-to-be reunited with ring lost on Downhill Beach]]></title>
             <description><![CDATA[A father-and-son metal-detecting duo find a distraught bride-to-be's missing ring on a beach.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57986308</link>
@@ -210,13 +196,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57986301</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57986301</guid>
             <pubDate>Tue, 27 Jul 2021 17:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shark spotting and dolphins diving off the coastline]]></title>
-            <description><![CDATA[Many creatures of the sea have been popping up in recent times in waters off the island of Ireland.]]></description>
-            <link>https://www.bbc.co.uk/news/57977019</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57977019</guid>
-            <pubDate>Mon, 26 Jul 2021 16:13:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[North west floods support scheme opens for farmers]]></title>
@@ -280,20 +259,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57949844</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57949844</guid>
             <pubDate>Sat, 24 Jul 2021 14:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shots fired at police patrol car in Dublin]]></title>
-            <description><![CDATA[Gardaí are investigating the incident which happened in Tallaght at about 02:30 local time on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57955148</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57955148</guid>
-            <pubDate>Sat, 24 Jul 2021 11:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extreme heat: Ireland records two tropical nights in a row]]></title>
-            <description><![CDATA[It is the first time temperatures fell no lower than 20C on the island of Ireland two nights in a row.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57941663</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57941663</guid>
-            <pubDate>Fri, 23 Jul 2021 14:14:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

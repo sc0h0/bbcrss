@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 14:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 14:21:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid in Scotland: No decision on travel quarantine rules]]></title>
+            <description><![CDATA[It comes after the UK government said fully vaccinated visitors from the EU or US will not need to isolate in England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58001540</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58001540</guid>
+            <pubDate>Wed, 28 Jul 2021 14:13:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flood patrols in force as heavy rain continues across Scotland]]></title>
             <description><![CDATA[The north east of Scotland is among the worst hit areas, with a Met Office amber alert in place.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57994913</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57994913</guid>
             <pubDate>Wed, 28 Jul 2021 10:09:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lib Dem MSP Alex Cole-Hamilton announces leadership bid]]></title>
-            <description><![CDATA[Alex Cole-Hamilton is currently the only person to have put their name forward to succeed Willie Rennie.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57996717</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57996717</guid>
-            <pubDate>Wed, 28 Jul 2021 09:35:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Priest attacked by man with bottle in Edinburgh cathedral]]></title>
@@ -51,11 +51,25 @@
             <pubDate>Wed, 28 Jul 2021 12:28:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Scottish mice helping to rewild Ealing]]></title>
+            <description><![CDATA[Tiny harvest mice are being exported from East Kilbride to Ealing to help with a rewilding project.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58002484</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58002484</guid>
+            <pubDate>Wed, 28 Jul 2021 14:14:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Luxury' race will be among most expensive on earth]]></title>
             <description><![CDATA[A four-day ultramarathon covering 120 miles on the west coast of Scotland will cost £15,499 to enter.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57975285</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57975285</guid>
             <pubDate>Wed, 28 Jul 2021 05:34:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lib Dem MSP Alex Cole-Hamilton announces leadership bid]]></title>
+            <description><![CDATA[Alex Cole-Hamilton is currently the only person to have put their name forward to succeed Willie Rennie.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57996717</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57996717</guid>
+            <pubDate>Wed, 28 Jul 2021 09:35:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Etape Caledonia: 'Pandemic and potatoes' lead to bike race route reversal]]></title>
@@ -70,20 +84,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/57993545</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57993545</guid>
             <pubDate>Wed, 28 Jul 2021 13:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Most powerful' tidal turbine starts generating electricity off Orkney]]></title>
-            <description><![CDATA[The Orbital O2, which is anchored off Orkney, has the capacity to meet the annual power demand of 2,000 homes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</guid>
-            <pubDate>Wed, 28 Jul 2021 06:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: A gold and silver in the water, but Murray suffers doubles defeat]]></title>
-            <description><![CDATA[Scotland take their medal tally to three with a gold and silver, but Andy Murray's Olympics are over.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57995231</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57995231</guid>
-            <pubDate>Wed, 28 Jul 2021 06:34:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KT Tunstall scraps tour dates over hearing problems]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57076243</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57076243</guid>
             <pubDate>Tue, 15 Jun 2021 14:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Most powerful' tidal turbine starts generating electricity off Orkney]]></title>
+            <description><![CDATA[The Orbital O2, which is anchored off Orkney, has the capacity to meet the annual power demand of 2,000 homes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</guid>
+            <pubDate>Wed, 28 Jul 2021 06:44:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish boy plucked from obscurity stars in Indian film Mimi on Netflix]]></title>
@@ -268,6 +275,13 @@
             <pubDate>Wed, 28 Jul 2021 13:20:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: A gold and silver in the water, but Murray suffers doubles defeat]]></title>
+            <description><![CDATA[Scotland take their medal tally to three with a gold and silver, but Andy Murray's Olympics are over.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57995231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57995231</guid>
+            <pubDate>Wed, 28 Jul 2021 06:34:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Tom Dean & Duncan Scott lead Team GB to 4x200m freestyle relay gold]]></title>
             <description><![CDATA[Watch highlights as Tom Dean and Duncan Scott lead Team GB to a brilliant 4x200m freestyle relay gold with a dominant display alongside Matt Richards and James Guy.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57993136</link>
@@ -280,13 +294,6 @@
             <link>https://www.bbc.co.uk/sport/football/57984509</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57984509</guid>
             <pubDate>Tue, 27 Jul 2021 13:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Team GB claim silver in men's quadruple sculls final]]></title>
-            <description><![CDATA[Team GB claim their first ever Olympic medal in the men's quadruple sculls with silver at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57993127</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57993127</guid>
-            <pubDate>Wed, 28 Jul 2021 02:13:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

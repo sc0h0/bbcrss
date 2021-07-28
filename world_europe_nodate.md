@@ -4,15 +4,14 @@
 4. [Liam Campbell: Omagh suspect to be extradited to Lithuania over Real IRA weapons](https://www.bbc.co.uk/news/world-europe-58000853) - Liam Campbell's appeal against extradition to face weapons smuggling charges is dismissed.
 5. [Football: Brazil into quarters but Germany exit](https://www.bbc.co.uk/sport/olympics/57995721) - Brazil ease through to the quarter-finals of the men's Olympic football but 2016 silver medallists Germany are eliminated.
 6. [Wales' slate landscape wins World Heritage status](https://www.bbc.co.uk/news/uk-wales-57986167) - The north-west slate mining area is said to have "roofed the world" at its height in the 19th Century.
-7. [Brexit: EU pauses legal action against UK over NI Protocol 'breaches'](https://www.bbc.co.uk/news/uk-northern-ireland-57986307) - The action began in March after the UK made a move to change the implementation of the protocol.
-8. [Dad builds robotic exoskeleton to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
-9. ['Luxury' race will be among most expensive on earth](https://www.bbc.co.uk/news/uk-scotland-57975285) - A four-day ultramarathon covering 120 miles on the west coast of Scotland will cost £15,499 to enter.
-10. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
-11. [COP26 climate summit president says progress made, but not enough](https://www.bbc.co.uk/news/science-environment-57975025) - The first in-person climate meeting in 18 months sees some tentative progress, but no breakthroughs.
-12. [Covid passports: How do they work around the world?](https://www.bbc.co.uk/news/world-europe-56522408) - How are countries enforcing vaccine passports and what can people use them for?
-13. [Could Covid vaccine be taken as a pill?](https://www.bbc.co.uk/news/health-57553602) - Researchers are looking at easier ways for people to get the vaccine, including via inhalers and tablets.
-14. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
-15. [I survived Norway's worst terror attack](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.
-16. [Europe floods: 'I have an axe beside my bed'](https://www.bbc.co.uk/news/world-europe-57923443) - Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.
-17. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
-18. [Horse racing: Inside the abattoir slaughtering racehorses](https://www.bbc.co.uk/news/uk-57896848) - Campaign group Animal Aid set up covert cameras in one of the few slaughterhouses licensed to kill horses.
+7. [Dad builds robotic exoskeleton to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
+8. ['Luxury' race will be among most expensive on earth](https://www.bbc.co.uk/news/uk-scotland-57975285) - A four-day ultramarathon covering 120 miles on the west coast of Scotland will cost £15,499 to enter.
+9. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
+10. [COP26 climate summit president says progress made, but not enough](https://www.bbc.co.uk/news/science-environment-57975025) - The first in-person climate meeting in 18 months sees some tentative progress, but no breakthroughs.
+11. [Covid passports: How do they work around the world?](https://www.bbc.co.uk/news/world-europe-56522408) - How are countries enforcing vaccine passports and what can people use them for?
+12. [Could Covid vaccine be taken as a pill?](https://www.bbc.co.uk/news/health-57553602) - Researchers are looking at easier ways for people to get the vaccine, including via inhalers and tablets.
+13. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
+14. [I survived Norway's worst terror attack](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.
+15. [Europe floods: 'I have an axe beside my bed'](https://www.bbc.co.uk/news/world-europe-57923443) - Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.
+16. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
+17. [Horse racing: Inside the abattoir slaughtering racehorses](https://www.bbc.co.uk/news/uk-57896848) - Campaign group Animal Aid set up covert cameras in one of the few slaughterhouses licensed to kill horses.
