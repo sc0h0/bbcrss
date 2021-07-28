@@ -1,10 +1,10 @@
 1. [NHS England to appoint first female chief executive](https://www.bbc.co.uk/news/health-57908563) - The prime minister is expected to rubber-stamp Amanda Pritchard's appointment imminently.
-2. [Chronic health issues for third in late 40s - study](https://www.bbc.co.uk/news/health-57982476) - About one in three has problems such as high blood pressure and mental ill health, a study suggests.
-3. [Covid: Deaf woman wins claim over lack of sign language at briefings](https://www.bbc.co.uk/news/uk-england-leeds-57998047) - A lack of sign language at two government briefings was discriminatory, a High Court judge finds.
-4. [Coronavirus: Four numbers that reveal the real trends](https://www.bbc.co.uk/news/health-57984170) - Does a week of falling case numbers mean we're close to the end?
-5. [Covid: UK cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
-6. [Contaminated-blood inquiry: Former Health Minister Clarke denies responsibility](https://www.bbc.co.uk/news/uk-57986582) - Lord Clarke is the first senior health minister from the 1980s to testify on the NHS scandal.
-7. [Covid travel: Fully jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
+2. [Covid: No quarantine for fully jabbed US and EU travellers to England](https://www.bbc.co.uk/news/uk-57999362) - The travel industry had been pushing for the rule change so tourists can more easily come to England.
+3. [Chronic health issues for third in late 40s - study](https://www.bbc.co.uk/news/health-57982476) - About one in three has problems such as high blood pressure and mental ill health, a study suggests.
+4. [Covid: Deaf woman wins claim over lack of sign language at briefings](https://www.bbc.co.uk/news/uk-england-leeds-57998047) - A lack of sign language at two government briefings was discriminatory, a High Court judge finds.
+5. [Coronavirus: Four numbers that reveal the real trends](https://www.bbc.co.uk/news/health-57984170) - Does a week of falling case numbers mean we're close to the end?
+6. [Covid: UK cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
+7. [Contaminated-blood inquiry: Former Health Minister Clarke denies responsibility](https://www.bbc.co.uk/news/uk-57986582) - Lord Clarke is the first senior health minister from the 1980s to testify on the NHS scandal.
 8. [Covid: Alert over inaccurate thermometers bought in UK](https://www.bbc.co.uk/news/health-57982479) - Sales have increased in the pandemic but some products are not fit for purpose, UK regulator warns.
 9. [Covid-19: Irish vaccine programme to include 12-15-year-olds](https://www.bbc.co.uk/news/world-europe-57984314) - Taoiseach (Irish PM) Micheál Martin says it represents a "significant opening up" of the programme.
 10. [Lockdown weight gain averaging half a stone - survey](https://www.bbc.co.uk/news/health-57968651) - Four in 10 adults in England have become fatter during the pandemic, a survey suggests.
