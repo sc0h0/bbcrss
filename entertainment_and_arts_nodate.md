@@ -6,7 +6,7 @@
 6. [Dua Lipa 'horrified' at DaBaby's HIV and gay comments](https://www.bbc.co.uk/news/newsbeat-57984070) - The rapper made false claims about the life expectancy of people with HIV at a US festival.
 7. [Britney Spears officially requests new conservator to replace her father](https://www.bbc.co.uk/news/entertainment-arts-57982252) - The star's new lawyer says her father's control of her career is "insane and depressing".
 8. [Peter Kay: Comic announces charity return for cancer patient](https://www.bbc.co.uk/news/entertainment-arts-57984740) - The comic will host two live Q&As in October in aid of Laura Nuttall, who has brain cancer.
-9. [Booker Prize 2021: Former winner Kazuo Ishiguro leads longlist](https://www.bbc.co.uk/news/entertainment-arts-57982282) - The Japanese-born British novelist previously won the award in 1989 with The Remains Of The Day.
+9. [Booker Prize 2021: Former winner Kazuo Ishiguro makes longlist](https://www.bbc.co.uk/news/entertainment-arts-57982282) - The Japanese-born British novelist previously won the award in 1989 with The Remains Of The Day.
 10. [Turner Prize returns to Tate Liverpool after 15 years](https://www.bbc.co.uk/news/uk-england-merseyside-57982406) - The renowned event will be held at the Tate Liverpool gallery in late 2022, it is announced.
 11. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.
 12. [Amy Winehouse: Could there be new music on the way?](https://www.bbc.co.uk/news/entertainment-arts-57926362) - Ten years after her death, Amy's parents say they want fans to hear CDs of her unreleased material.
