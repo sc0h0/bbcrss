@@ -1,4 +1,4 @@
-1. [Murder investigation after child dies in Ardoyne](https://www.bbc.co.uk/news/uk-northern-ireland-57992425) - Emergency services were called to a house in Brompton Park shortly after a quarter past eight on Tuesday evening.
+1. [Ardoyne: Woman arrested over murder of baby in Belfast](https://www.bbc.co.uk/news/uk-northern-ireland-57992425) - A second child is in intensive care in hospital after the incident at a house in the Ardoyne area.
 2. [Northern Trust: 'Major discrepancies' in radiologist review](https://www.bbc.co.uk/news/uk-northern-ireland-57991397) - A review into the work of a locum consultant radiologist finds issues affecting 12 cases so far.
 3. [MPs urge government to meet Birmingham pub bombings families](https://www.bbc.co.uk/news/uk-england-birmingham-57985651) - They complain proposed legislation will "close the book" on bereaved people's quest for justice.
 4. [Kidney transplant: 'Two people gave me my life back'](https://www.bbc.co.uk/news/uk-northern-ireland-57916546) - Ciaran Campbell, 33, from Dungannon in County Tyrone, has received two kidney transplants.
