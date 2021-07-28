@@ -1,5 +1,5 @@
-1. [Covid test plan a 'pointless solution' says Iceland boss](https://www.bbc.co.uk/news/business-57916620) - Supermarket boss says government scheme only fixes half the issue because it excludes store workers.
-2. [Housing market cools as stamp duty break withdrawn](https://www.bbc.co.uk/news/business-57997492) - UK house prices still rose by 10.5% compared with a year ago, Nationwide building society says.
+1. [Housing market cools as stamp duty break withdrawn](https://www.bbc.co.uk/news/business-57997492) - UK house prices still rose by 10.5% compared with a year ago, Nationwide building society says.
+2. [Covid test plan a 'pointless solution' says Iceland boss](https://www.bbc.co.uk/news/business-57916620) - Supermarket boss says government scheme only fixes half the issue because it excludes store workers.
 3. [Cannabis part of the future says tobacco giant](https://www.bbc.co.uk/news/business-57995285) - British American Tobacco says its future lies in getting people to switch to nicotine alternatives.
 4. [Toy giant Mattel warns of higher prices as costs rise](https://www.bbc.co.uk/news/business-57993497) - The Barbie maker's comments as it announced better than expected quarterly sales.
 5. [Electric car charging prices 'must be fair' say MPs](https://www.bbc.co.uk/news/business-57963912) - Consumers should not have to pay excessive prices to use public car charging, MPs say.

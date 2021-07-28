@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 10:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 11:10:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Wed, 28 Jul 2021 09:35:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Priest attacked by man with bottle in Edinburgh cathedral]]></title>
+            <description><![CDATA[The priest was sitting alone praying when he was assaulted in St Mary's Cathedral in Edinburgh.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57989939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57989939</guid>
+            <pubDate>Wed, 28 Jul 2021 10:53:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Luxury' race will be among most expensive on earth]]></title>
             <description><![CDATA[A four-day ultramarathon covering 120 miles on the west coast of Scotland will cost £15,499 to enter.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57975285</link>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</guid>
             <pubDate>Wed, 28 Jul 2021 06:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: Vaccines for teens and Covid in 'retreat']]></title>
-            <description><![CDATA[Nicola Sturgeon's latest comments on the coronavirus pandemic feature on Scotland's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57993021</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57993021</guid>
-            <pubDate>Wed, 28 Jul 2021 07:10:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish boy plucked from obscurity stars in Indian film Mimi on Netflix]]></title>
@@ -86,18 +86,11 @@
             <pubDate>Wed, 28 Jul 2021 06:34:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Nicola Sturgeon optimistic major restrictions will end]]></title>
-            <description><![CDATA[The first minister is due to announce next week whether most remaining restrictions will be lifted on 9 August.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57987662</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57987662</guid>
-            <pubDate>Tue, 27 Jul 2021 15:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Priest attacked by man with bottle in Edinburgh cathedral]]></title>
-            <description><![CDATA[The priest was sitting alone praying when he was assaulted in St Mary's Cathedral in Edinburgh.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57989939</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57989939</guid>
-            <pubDate>Tue, 27 Jul 2021 20:28:00 GMT</pubDate>
+            <title><![CDATA[Scotland's papers: Vaccines for teens and Covid in 'retreat']]></title>
+            <description><![CDATA[Nicola Sturgeon's latest comments on the coronavirus pandemic feature on Scotland's front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57993021</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57993021</guid>
+            <pubDate>Wed, 28 Jul 2021 07:10:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
