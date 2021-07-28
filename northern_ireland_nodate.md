@@ -9,7 +9,7 @@
 9. [Covid-19: Three more deaths and 1,600 new cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58001613) - Three more people have died within 28 days of testing positive for Covid-19 in Northern Ireland.
 10. [Kidney transplant: 'Two people gave me my life back'](https://www.bbc.co.uk/news/uk-northern-ireland-57916546) - Ciaran Campbell, 33, from Dungannon in County Tyrone, has received two kidney transplants.
 11. [Northern Ireland businesses increase value of external sales](https://www.bbc.co.uk/news/uk-northern-ireland-57999870) - Great Britain remained the biggest external market in 2019 with sales of £11.3bn, up nearly 7% on 2018.
-12. [MPs urge government to meet Birmingham pub bombings families](https://www.bbc.co.uk/news/uk-england-birmingham-57985651) - They complain proposed legislation will "close the book" on bereaved people's quest for justice.
+12. [Home secretary meets Birmingham pub bombings families](https://www.bbc.co.uk/news/uk-england-birmingham-57985651) - A group of MPs say proposed legislation would "close the book" on families' quest for justice.
 13. [Covid-19: Over-12s should be offered vaccine, says Peter Weir](https://www.bbc.co.uk/news/uk-northern-ireland-57992080) - Former Education Minister Peter Weir says doing so could reduce virus spread and school absences.
 14. [High Street voucher scheme: Robin Swann to consider vaccination link](https://www.bbc.co.uk/news/uk-northern-ireland-57981148) - Robin Swann says he will look at only allowing those fully vaccinated to cash in high street vouchers.
 15. [Covid-19: Health Trusts cancel surgeries as Covid admissions rise](https://www.bbc.co.uk/news/uk-northern-ireland-57991391) - The chief medical officer says the health service is operating under "huge pressures".

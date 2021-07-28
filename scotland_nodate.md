@@ -2,7 +2,7 @@
 2. [Covid in Scotland: Where are the latest cases?](https://www.bbc.co.uk/news/uk-scotland-53511877) - A daily update on the number and location of coronavirus cases in Scotland.
 3. [Flood patrols in force as heavy rain continues across Scotland](https://www.bbc.co.uk/news/uk-scotland-57970845) - The north east of Scotland is among the worst hit areas, with a Met Office amber alert in place.
 4. [Glasgow fire: St Simon's Church gutted in overnight blaze](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57994913) - More than 30 firefighters were called out to the blaze at St Simon's Church in Glasgow's Partick.
-5. [Priest attacked by man with bottle in Edinburgh cathedral](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57989939) - The priest was sitting alone praying when he was assaulted in St Mary's Cathedral in Edinburgh.
+5. [Priest attacked by man with bottle in Edinburgh cathedral](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-57989939) - The priest was sitting alone praying when he was assaulted in St Mary's Catholic Cathedral in Edinburgh.
 6. [Teenager who died in A96 crash named by police](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57998567) - Stuart Begg, 18, from Keith was the driver of a green Ford Fiesta involved in the collision on the A96.
 7. [The Scottish mice helping to rewild Ealing](https://www.bbc.co.uk/news/uk-scotland-58002484) - Tiny harvest mice are being exported from East Kilbride to Ealing to help with a rewilding project.
 8. ['Luxury' race will be among most expensive on earth](https://www.bbc.co.uk/news/uk-scotland-57975285) - A four-day ultramarathon covering 120 miles on the west coast of Scotland will cost £15,499 to enter.
