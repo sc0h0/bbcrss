@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 01:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 01:57:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57993121</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57993121</guid>
             <pubDate>Wed, 28 Jul 2021 01:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Sydney extends lockdown as other Australian cities reopen]]></title>
+            <description><![CDATA[Infections in Australia's largest city remain stubbornly high, despite five weeks of restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-57993337</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57993337</guid>
+            <pubDate>Wed, 28 Jul 2021 01:51:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simone Biles: American gymnast praised for 'prioritising mental wellness']]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57987855</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57987855</guid>
             <pubDate>Tue, 27 Jul 2021 18:58:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leverkusen blast: German chemical plant explosion leaves one dead]]></title>
-            <description><![CDATA[Officials in Leverkusen say four people are missing and 16 were injured in the blast on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57978043</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57978043</guid>
-            <pubDate>Tue, 27 Jul 2021 15:14:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Key moments from first hearing of Capitol riot inquiry]]></title>
