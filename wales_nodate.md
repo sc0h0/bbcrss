@@ -23,5 +23,5 @@
 23. [Timmy Abraham: Fulham forward joins Newport County on loan](https://www.bbc.co.uk/sport/football/57994657) - Fulham forward Timmy Abraham says he is raring to go after joining Newport County on loan.
 24. [Safle Treftadaeth Byd UNESCO i ardal llechi Gwynedd](https://www.bbc.co.uk/newyddion/57994907) - Mae Cyngor Gwynedd yn gobeithio y bydd ennill y statws yn arwain at adfywio'r ardal a chreu swyddi newydd.
 25. [Medalau aur cyntaf i Gymry yn Tokyo](https://www.bbc.co.uk/newyddion/57995205) - Medal aur i Matthew Richards a Calum Jarvis yn y pwll nofio i Team GB, a medal arian hefyd i'r rhwyfwr Tom Barras.
-26. [Cyhuddo merch 16 oed o geisio llofruddio dyn yng Nghaerdydd](https://www.bbc.co.uk/newyddion/57994904) - Mae dau ddyn eisoes wedi bod ger bron llys wedi i ddyn gael anafiadau sy'n bygwth ei fywyd.
+26. [Sgwâr Canolog y BBC yw cartref yr Orsedd](https://www.bbc.co.uk/newyddion/57949114) - Bydd prif seremonïau'r ŵyl yn dod yn fyw o bencadlys BBC Cymru yng Nghaerdydd.
 27. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Conor Murray, Chris Harris a Mako Vunipola yn dechrau, gyda'r Cymro, Taulupe Faletau ar y fainc.
