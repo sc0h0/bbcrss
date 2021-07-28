@@ -5,10 +5,10 @@
 5. [Liam Campbell: Omagh suspect to be extradited to Lithuania over Real IRA weapons](https://www.bbc.co.uk/news/world-europe-58000853) - Liam Campbell's appeal against extradition to face weapons smuggling charges is dismissed.
 6. [Football: Brazil into quarters but Germany exit](https://www.bbc.co.uk/sport/olympics/57995721) - Brazil ease through to the quarter-finals of the men's Olympic football but 2016 silver medallists Germany are eliminated.
 7. [Roma child: 'My only goal is to finish school'](https://www.bbc.co.uk/news/world-europe-57978365) - How one school in Croatia is working to improve education opportunities for Roma children like Kristina.
-8. [Dad builds robotic exoskeleton to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
-9. ['Luxury' race will be among most expensive on earth](https://www.bbc.co.uk/news/uk-scotland-57975285) - A four-day ultramarathon covering 120 miles on the west coast of Scotland will cost £15,499 to enter.
-10. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
-11. [COP26 climate summit president says progress made, but not enough](https://www.bbc.co.uk/news/science-environment-57975025) - The first in-person climate meeting in 18 months sees some tentative progress, but no breakthroughs.
+8. [Teodoro Nguema Obiang Mangue and his love of Bugattis and Michael Jackson](https://www.bbc.co.uk/news/world-africa-58001750) - Teodoro Nguema Obiang Mangue, tipped as Equatorial Guinea's next leader, is under sanctions in the UK and France.
+9. [Dad builds robotic exoskeleton to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
+10. ['Luxury' race will be among most expensive on earth](https://www.bbc.co.uk/news/uk-scotland-57975285) - A four-day ultramarathon covering 120 miles on the west coast of Scotland will cost £15,499 to enter.
+11. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
 12. [Covid passports: How do they work around the world?](https://www.bbc.co.uk/news/world-europe-56522408) - How are countries enforcing vaccine passports and what can people use them for?
 13. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
 14. [I survived Norway's worst terror attack](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.

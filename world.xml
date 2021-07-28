@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 17:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 17:57:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Wed, 28 Jul 2021 13:59:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sweden charges man over 1988 Iran prison massacre]]></title>
-            <description><![CDATA[Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57996483</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57996483</guid>
-            <pubDate>Wed, 28 Jul 2021 10:47:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lebanon’s descent into darkness]]></title>
             <description><![CDATA[The country's economic crisis has forced some families to move into refugee camps to survive.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57988693</link>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57992957</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57992957</guid>
             <pubDate>Wed, 28 Jul 2021 13:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bosnian Serbs defy top UN official Inzko over genocide denial]]></title>
+            <description><![CDATA[Ethnic Serb leaders, accused of playing down the Srebrenica massacre, will now boycott parliament.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58001974</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58001974</guid>
+            <pubDate>Wed, 28 Jul 2021 17:02:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shamook: Star Wars effects company ILM hires Mandalorian deepfaker]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Wed, 28 Jul 2021 16:08:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sweden charges man over 1988 Iran prison massacre]]></title>
+            <description><![CDATA[Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57996483</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57996483</guid>
+            <pubDate>Wed, 28 Jul 2021 10:47:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bob Odenkirk: Better Call Saul star collapses on set of Breaking Bad spin-off]]></title>
             <description><![CDATA[The US actor was reportedly rushed to hospital in Los Angeles after being taken ill in New Mexico.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-57996085</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57996085</guid>
             <pubDate>Wed, 28 Jul 2021 09:33:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bosnian Serbs defy top UN official Inzko over genocide denial]]></title>
-            <description><![CDATA[Ethnic Serb leaders, accused of playing down the Srebrenica massacre, will now boycott parliament.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58001974</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58001974</guid>
-            <pubDate>Wed, 28 Jul 2021 17:02:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tanzania leader gets jab in reverse of Covid policy]]></title>
@@ -121,7 +121,7 @@
             <pubDate>Wed, 28 Jul 2021 03:09:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Teodoro Nguema Obiang Mangue and his love of Buggatis and Michael Jackson]]></title>
+            <title><![CDATA[Teodoro Nguema Obiang Mangue and his love of Bugattis and Michael Jackson]]></title>
             <description><![CDATA[Teodoro Nguema Obiang Mangue, tipped as Equatorial Guinea's next leader, is under sanctions in the UK and France.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58001750</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58001750</guid>

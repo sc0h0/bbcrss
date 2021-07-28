@@ -25,4 +25,4 @@
 25. [Rheolau teithio: 'Anodd iawn' i Gymru beidio â dilyn Lloegr](https://www.bbc.co.uk/newyddion/57998993) - Wed, 28 Jul 2021 15:45:26 GMT - Ar hyn o bryd, dim ond pobl a dderbyniodd eu pigiadau yn y DU all osgoi cwarantin, ond mae'r rheolau ar fin newid.
 26. [Sgwâr Canolog y BBC yw cartref yr Orsedd](https://www.bbc.co.uk/newyddion/57949114) - Wed, 28 Jul 2021 13:16:30 GMT - Bydd prif seremonïau'r ŵyl yn dod yn fyw o bencadlys BBC Cymru yng Nghaerdydd.
 27. [Fy Stafell i: 'Stydi'r Meuryn' Ceri Wyn Jones](https://www.bbc.co.uk/newyddion/57975995) - Wed, 28 Jul 2021 13:49:03 GMT - Meuryn Y Talwrn Ceri Wyn Jones sy'n ein tywys o gwmpas ei stydi
-28. [Medalau aur cyntaf i Gymry yn Tokyo](https://www.bbc.co.uk/newyddion/57995205) - Wed, 28 Jul 2021 06:29:42 GMT - Medal aur i Matthew Richards a Calum Jarvis yn y pwll nofio i Team GB, a medal arian hefyd i'r rhwyfwr Tom Barras.
+28. [Morgannwg yn colli o un rhediad yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/58002068) - Wed, 28 Jul 2021 18:07:58 GMT - Boddi wrth ymyl y lan wnaeth Morgannwg yn erbyn Gwlad yr Hâf ar ôl i law fyrhau'r gêm.
