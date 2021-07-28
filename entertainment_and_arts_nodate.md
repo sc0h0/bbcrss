@@ -1,7 +1,7 @@
 1. [Shamook: Star Wars effects company ILM hires Mandalorian deepfaker](https://www.bbc.co.uk/news/entertainment-arts-57996094) - The artist, who uses the online alias Shamook, has been recruited by Industrial Light and Magic.
 2. [KT Tunstall scraps tour dates over hearing problems](https://www.bbc.co.uk/news/entertainment-arts-57996035) - The singer, who is deaf in her left ear, puts concerts on hold after her right ear develops problems.
 3. [Bob Odenkirk: Better Call Saul star collapses on set of Breaking Bad spin-off](https://www.bbc.co.uk/news/entertainment-arts-57996085) - The US actor was reportedly rushed to hospital in Los Angeles after being taken ill in New Mexico.
-4. [Rapper DaBaby apologises for HIV comments made at festival](https://www.bbc.co.uk/news/newsbeat-57999121) - The rapper has faced a backlash since making the false claims about people living with HIV.
+4. [Rapper DaBaby apologises for HIV comments as Boohoo drops him](https://www.bbc.co.uk/news/newsbeat-57999121) - And Boohoo has ended its clothing deal with the rapper as the latest critic of his onstage comments.
 5. [Joey Jordison: Slipknot founding drummer dies aged 46](https://www.bbc.co.uk/news/world-us-canada-57993121) - Jordison was a member of the mask-wearing heavy metal band and also performed with the likes of Metallica.
 6. [Wu-Tang Clan album bought by Martin Shkreli sold by US government](https://www.bbc.co.uk/news/world-us-canada-57992807) - The album was handed over as part of a $7.4m deal with a notorious former drug firm executive.
 7. [City of Culture: Low ticket sales see shows cut for weekend gig](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57996860) - Organisers blame the "pingdemic" and people's anxieties about returning to venues.

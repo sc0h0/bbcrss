@@ -1,15 +1,15 @@
 1. [Covid-19: The pandemic explored in maps and data](https://www.bbc.co.uk/news/technology-58001206) - Political scientist Dr Robert Muggah looks at the effects of the pandemic and national lockdowns.
 2. [Oculus recalls Quest 2 headset pads after skin rashes](https://www.bbc.co.uk/news/technology-57997112) - Quest 2 headset owners are urged to claim a free silicone cover to avoid skin issues.
 3. [Intel chief warns of two-year chip shortage](https://www.bbc.co.uk/news/technology-57996908) - Pat Gelsinger talks chip crisis, China and how the firm intends to fight back in the marketplace.
-4. [Shamook: Star Wars effects company ILM hires Mandalorian deepfaker](https://www.bbc.co.uk/news/entertainment-arts-57996094) - The artist, who uses the online alias Shamook, has been recruited by Industrial Light and Magic.
-5. [Twitter accused of inaction on anti-Semitic tweets](https://www.bbc.co.uk/news/technology-57970598) - Campaign Against Antisemitism says many reported hateful tweets are not being removed.
-6. [Tech giants' profits soar as pandemic boom continues](https://www.bbc.co.uk/news/business-57979268) - Apple, Google parent company Alphabet and Microsoft report soaring quarterly profits.
-7. [Instagram makes under-16s' accounts private by default](https://www.bbc.co.uk/news/technology-57984790) - Only approved followers can see posts and "like" or comment on accounts that retain the private setting.
-8. [Electric car charging prices 'must be fair' say MPs](https://www.bbc.co.uk/news/business-57963912) - Consumers should not have to pay excessive prices to use public car charging, MPs say.
-9. [Activision staff condemn firm's response to harassment claims](https://www.bbc.co.uk/news/technology-57984784) - About 1,000 Activision Blizzard staff sign a letter describing managers' response as insulting.
-10. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
-11. [Over-60s with only virtual contact 'more lonely'](https://www.bbc.co.uk/news/technology-57970595) - UK-US research finds old people who used only telephone and online communication were more lonely.
-12. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.
+4. [Ofcom appoints online safety head to take on big tech](https://www.bbc.co.uk/news/technology-57996909) - Anna-Sophie Harling will have responsibility over how big technology companies regulate harmful speech.
+5. [Shamook: Star Wars effects company ILM hires Mandalorian deepfaker](https://www.bbc.co.uk/news/entertainment-arts-57996094) - The artist, who uses the online alias Shamook, has been recruited by Industrial Light and Magic.
+6. [Twitter accused of inaction on anti-Semitic tweets](https://www.bbc.co.uk/news/technology-57970598) - Campaign Against Antisemitism says many reported hateful tweets are not being removed.
+7. [Tech giants' profits soar as pandemic boom continues](https://www.bbc.co.uk/news/business-57979268) - Apple, Google parent company Alphabet and Microsoft report soaring quarterly profits.
+8. [Instagram makes under-16s' accounts private by default](https://www.bbc.co.uk/news/technology-57984790) - Only approved followers can see posts and "like" or comment on accounts that retain the private setting.
+9. [Electric car charging prices 'must be fair' say MPs](https://www.bbc.co.uk/news/business-57963912) - Consumers should not have to pay excessive prices to use public car charging, MPs say.
+10. [Activision staff condemn firm's response to harassment claims](https://www.bbc.co.uk/news/technology-57984784) - About 1,000 Activision Blizzard staff sign a letter describing managers' response as insulting.
+11. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
+12. [Over-60s with only virtual contact 'more lonely'](https://www.bbc.co.uk/news/technology-57970595) - UK-US research finds old people who used only telephone and online communication were more lonely.
 13. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
 14. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
 15. [Beach rover picks up cigarette butts and other tech news](https://www.bbc.co.uk/news/technology-57930091) - Jen Copestake looks at some of the best technology news stories of the week.
