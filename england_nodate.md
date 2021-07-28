@@ -1,4 +1,4 @@
-1. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the change will help reunite family and friends in England and Scotland.
+1. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the rule change in England, Scotland and Wales will help reunite family and friends.
 2. [Channel crossings: RNLI chief hits out over migrant rescue abuse](https://www.bbc.co.uk/news/uk-england-kent-57999224) - The charity's boss speaks out after its lifeboat crews are heckled for rescuing migrants.
 3. [Victoria Hall: Man arrested in 1999 teen murder case](https://www.bbc.co.uk/news/uk-england-suffolk-58002514) - Victoria Hall, 17, was abducted on her way home from a Suffolk nightclub more than 20 years ago.
 4. [Marble Arch Mound: 'I wouldn't pay £4 to walk up a hill'](https://www.bbc.co.uk/news/uk-england-london-58001770) - The public reacts to London's newest tourist attraction, which is facing complaints of being incomplete.
