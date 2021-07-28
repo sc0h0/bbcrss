@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 13:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 13:49:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -268,18 +268,25 @@
             <pubDate>Wed, 28 Jul 2021 13:20:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Team GB claim silver in men's quadruple sculls final]]></title>
-            <description><![CDATA[Team GB claim their first ever Olympic medal in the men's quadruple sculls with silver at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57993127</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57993127</guid>
-            <pubDate>Wed, 28 Jul 2021 02:13:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Tom Dean & Duncan Scott lead Team GB to 4x200m freestyle relay gold]]></title>
             <description><![CDATA[Watch highlights as Tom Dean and Duncan Scott lead Team GB to a brilliant 4x200m freestyle relay gold with a dominant display alongside Matt Richards and James Guy.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/57993136</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57993136</guid>
             <pubDate>Wed, 28 Jul 2021 04:13:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leigh Griffiths: Celtic striker can 'win fans back', says manager Ange Postecoglou]]></title>
+            <description><![CDATA[Manager Ange Postecoglou says Leigh Griffiths can "win them back" after he was booed by some Celtic fans during Saturday's friendly defeat to West Ham.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57984509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57984509</guid>
+            <pubDate>Tue, 27 Jul 2021 13:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Team GB claim silver in men's quadruple sculls final]]></title>
+            <description><![CDATA[Team GB claim their first ever Olympic medal in the men's quadruple sculls with silver at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57993127</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57993127</guid>
+            <pubDate>Wed, 28 Jul 2021 02:13:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

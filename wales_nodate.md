@@ -1,14 +1,14 @@
 1. [Wales' slate landscape wins World Heritage status](https://www.bbc.co.uk/news/uk-wales-57986167) - The north-west slate mining area is said to have "roofed the world" at its height in the 19th Century.
 2. [Tokyo Olympics: How Matt Richards went from garden pool to gold](https://www.bbc.co.uk/news/uk-wales-57994645) - Matt Richards' relay swim team almost broke the world record as they won gold in Tokyo.
-3. [Bute Park attack: Girl, 16, charged with attempted murder](https://www.bbc.co.uk/news/uk-wales-57994643) - She is the third person charged after an attack left a man in a 'life-threatening condition'.
-4. [Shielding from Covid: 'I couldn't face going back to work'](https://www.bbc.co.uk/news/uk-wales-57995550) - Concerns about contracting Covid, even after being fully vaccinated, sees one woman quit her job.
-5. [Covid in Wales: Almost a quarter absent from school at end of term](https://www.bbc.co.uk/news/uk-wales-politics-57996960) - Just over 90,000 pupils in Wales were absent from school in the last full week of term, figures show.
-6. [Welsh film moves production to Lithuania due to lack of funding](https://www.bbc.co.uk/news/uk-wales-57986735) - A film staring Ray Winstone is moving production to Lithuania due to lack of funding in Wales
-7. [Richards & Jarvis help GB win Olympic gold](https://www.bbc.co.uk/sport/olympics/57993545) - Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.
-8. [Eagle eyes spot kestrel chicks in jet plane exhaust](https://www.bbc.co.uk/news/uk-wales-57992207) - The young birds "lucky to be alive" after found hiding in exhaust of an Airbus plane during repairs.
-9. [Pub beer garden crash man 'happy to be alive' ](https://www.bbc.co.uk/news/uk-wales-57983966) - Darren George, 30, remains in hospital after a car crashed into a pub beer garden.
-10. [Barras helps GB win Olympic rowing silver](https://www.bbc.co.uk/sport/olympics/57993357) - Britain's rowers win their first Olympic medal in the men's quadruple sculls as Harry Leask, Angus Groom, Tom Barras and Jack Beaumont claim silver at Tokyo 2020.
-11. [David Jones death: Man jailed for nine years for manslaughter](https://www.bbc.co.uk/news/uk-wales-57981505) - David John Jones died in hospital after he was assaulted in Holyhead, in November.
+3. [Former special constable Phillip Gregory jailed for child sex abuse](https://www.bbc.co.uk/news/uk-wales-57994650) - One of Phillip Gregory's victims tells a court he had "stolen" her childhood.
+4. [Bute Park attack: Girl, 16, charged with attempted murder](https://www.bbc.co.uk/news/uk-wales-57994643) - She is the third person charged after an attack left a man in a 'life-threatening condition'.
+5. [Shielding from Covid: 'I couldn't face going back to work'](https://www.bbc.co.uk/news/uk-wales-57995550) - Concerns about contracting Covid, even after being fully vaccinated, sees one woman quit her job.
+6. [Covid in Wales: Almost a quarter absent from school at end of term](https://www.bbc.co.uk/news/uk-wales-politics-57996960) - Just over 90,000 pupils in Wales were absent from school in the last full week of term, figures show.
+7. [Welsh film moves production to Lithuania due to lack of funding](https://www.bbc.co.uk/news/uk-wales-57986735) - A film staring Ray Winstone is moving production to Lithuania due to lack of funding in Wales
+8. [Richards & Jarvis help GB win Olympic gold](https://www.bbc.co.uk/sport/olympics/57993545) - Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.
+9. [Eagle eyes spot kestrel chicks in jet plane exhaust](https://www.bbc.co.uk/news/uk-wales-57992207) - The young birds "lucky to be alive" after found hiding in exhaust of an Airbus plane during repairs.
+10. [Pub beer garden crash man 'happy to be alive' ](https://www.bbc.co.uk/news/uk-wales-57983966) - Darren George, 30, remains in hospital after a car crashed into a pub beer garden.
+11. [Barras helps GB win Olympic rowing silver](https://www.bbc.co.uk/sport/olympics/57993357) - Britain's rowers win their first Olympic medal in the men's quadruple sculls as Harry Leask, Angus Groom, Tom Barras and Jack Beaumont claim silver at Tokyo 2020.
 12. [World War Two Arctic Convoys veteran given Royal Navy funeral](https://www.bbc.co.uk/news/uk-wales-57976879) - Alan Higgins honoured after surviving being torpedoed, the D-Day landings and World War Two.
 13. [Tokyo Olympics: Team GB's Lauren Price reaches middleweight quarter-finals](https://www.bbc.co.uk/sport/av/olympics/57994254) - Team GB's Lauren Price eases through the middleweight round of 16 at the Tokyo Olympics, beating Mongolian Munkhbat Myagmarjargal.
 14. [Waterspout appears off west Wales coast](https://www.bbc.co.uk/news/uk-wales-57989175) - Waterspouts occur when a tornado forms over oceans, rivers or lakes.
@@ -24,4 +24,5 @@
 24. [Safle Treftadaeth Byd UNESCO i ardal llechi Gwynedd](https://www.bbc.co.uk/newyddion/57994907) - Mae Cyngor Gwynedd yn gobeithio y bydd ennill y statws yn arwain at adfywio'r ardal a chreu swyddi newydd.
 25. [Medalau aur cyntaf i Gymry yn Tokyo](https://www.bbc.co.uk/newyddion/57995205) - Medal aur i Matthew Richards a Calum Jarvis yn y pwll nofio i Team GB, a medal arian hefyd i'r rhwyfwr Tom Barras.
 26. [Sgwâr Canolog y BBC yw cartref yr Orsedd](https://www.bbc.co.uk/newyddion/57949114) - Bydd prif seremonïau'r ŵyl yn dod yn fyw o bencadlys BBC Cymru yng Nghaerdydd.
-27. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Conor Murray, Chris Harris a Mako Vunipola yn dechrau, gyda'r Cymro, Taulupe Faletau ar y fainc.
+27. [Fy Stafell i: 'Stydi'r Meuryn' Ceri Wyn Jones](https://www.bbc.co.uk/newyddion/57975995) - Meuryn Y Talwrn Ceri Wyn Jones sy'n ein tywys o gwmpas ei stydi
+28. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Conor Murray, Chris Harris a Mako Vunipola yn dechrau, gyda'r Cymro, Taulupe Faletau ar y fainc.

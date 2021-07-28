@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 13:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 13:52:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-kent-57999224</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57999224</guid>
             <pubDate>Wed, 28 Jul 2021 13:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man arrested over murder of Victoria Hall in 1999]]></title>
+            <description><![CDATA[Victoria Hall, 17, was abducted on her way home from a Suffolk nightclub more than 20 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58002514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58002514</guid>
+            <pubDate>Wed, 28 Jul 2021 13:52:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Deaf woman wins claim over lack of sign language at briefings]]></title>
@@ -69,7 +76,7 @@
             <description><![CDATA[Medics say Alta Fixsler has no chance of recovery but her parents want her to be treated abroad.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-57990742</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-57990742</guid>
-            <pubDate>Wed, 28 Jul 2021 11:11:21 GMT</pubDate>
+            <pubDate>Wed, 28 Jul 2021 13:50:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Judith Fox: Woman killed and dismembered mother jury finds]]></title>
@@ -198,6 +205,13 @@
             <pubDate>Wed, 28 Jul 2021 09:25:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Relay gold and sculling silver for GB - what's happened on day five?]]></title>
+            <description><![CDATA[Charlotte Dujardin wins dressage bronze to become the most decorated British female Olympian, as Team GB's swimmers secure gold.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57993948</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57993948</guid>
+            <pubDate>Wed, 28 Jul 2021 13:18:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Charlotte Dujardin wins dressage bronze to become most decorated female Briton]]></title>
             <description><![CDATA[Great Britain's Charlotte Dujardin becomes Great Britain's most decorated female Olympian by winning dressage bronze at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58000595</link>
@@ -212,18 +226,11 @@
             <pubDate>Wed, 28 Jul 2021 11:03:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain win emphatic gold in 4x200m freestyle relay]]></title>
-            <description><![CDATA[Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57993545</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57993545</guid>
-            <pubDate>Wed, 28 Jul 2021 13:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Relay gold and sculling silver for GB - what's happened on day five?]]></title>
-            <description><![CDATA[Charlotte Dujardin wins dressage bronze to become the most decorated British female Olympian, as Team GB's swimmers secure gold.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57993948</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57993948</guid>
-            <pubDate>Wed, 28 Jul 2021 13:18:56 GMT</pubDate>
+            <title><![CDATA[Meet the GB sevens player who used to train in a B&Q car park]]></title>
+            <description><![CDATA[Team GB rugby sevens player Deborah Fleming shares her journey from training in a car park to being selected for the 2020 Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57930124</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57930124</guid>
+            <pubDate>Wed, 28 Jul 2021 07:37:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
