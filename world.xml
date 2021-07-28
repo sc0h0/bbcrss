@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 16:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 17:20:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,6 +79,13 @@
             <pubDate>Wed, 28 Jul 2021 09:33:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bosnian Serbs defy top UN official Inzko over genocide denial]]></title>
+            <description><![CDATA[Ethnic Serb leaders, accused of playing down the Srebrenica massacre, will now boycott parliament.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58001974</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58001974</guid>
+            <pubDate>Wed, 28 Jul 2021 17:02:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tanzania leader gets jab in reverse of Covid policy]]></title>
             <description><![CDATA[After the Covid scepticism of her predecessor, Tanzania's President Samia launches a vaccine campaign.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57996155</link>
@@ -93,18 +100,11 @@
             <pubDate>Wed, 28 Jul 2021 08:03:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Atlanta spa shootings: Georgia man pleads guilty]]></title>
-            <description><![CDATA[Robert Aaron Long, charged with killing eight people in March, says he murdered four of the victims.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57989425</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57989425</guid>
-            <pubDate>Tue, 27 Jul 2021 15:54:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dad builds robotic exoskeleton to help son walk]]></title>
-            <description><![CDATA[The French robotics engineer says he was inspired to build the suit after his son asked him to.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57985857</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57985857</guid>
-            <pubDate>Tue, 27 Jul 2021 13:22:25 GMT</pubDate>
+            <title><![CDATA[Pedro Castillo: The primary school teacher who became Peru's president]]></title>
+            <description><![CDATA[The meteoric rise of leftist Pedro Castillo has shaken Peru's political and business elite.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-57941309</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57941309</guid>
+            <pubDate>Wed, 28 Jul 2021 16:59:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Why 'superhuman' Simone Biles could change attitudes to mental health in sport]]></title>
@@ -156,48 +156,6 @@
             <pubDate>Sat, 24 Jul 2021 13:15:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mapping the advance of the Taliban in Afghanistan]]></title>
-            <description><![CDATA[Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57933979</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57933979</guid>
-            <pubDate>Mon, 26 Jul 2021 23:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Indian girl killed for wearing jeans]]></title>
-            <description><![CDATA[Neha Paswan was allegedly beaten to death by relatives who disagreed with her choice of clothes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-57968350</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57968350</guid>
-            <pubDate>Mon, 26 Jul 2021 23:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kenyans sue the British army over fire at wildlife sanctuary]]></title>
-            <description><![CDATA[Some 1,000 people are going to court after a fire destroyed 12,000 acres of land at a wildlife sanctuary.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57486433</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57486433</guid>
-            <pubDate>Mon, 26 Jul 2021 23:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Archibald Prize: 100 years of Australia's top portrait honour]]></title>
-            <description><![CDATA[Over 100 years, the Archibald Prize has become better at reflecting Australian diversity.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57967778</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57967778</guid>
-            <pubDate>Mon, 26 Jul 2021 23:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How US military pullback in Iraq could benefit Iran]]></title>
-            <description><![CDATA[The withdrawal of remaining US combat troops could help Iran achieve its ambitions.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57976007</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57976007</guid>
-            <pubDate>Mon, 26 Jul 2021 19:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid passports: How do they work around the world?]]></title>
-            <description><![CDATA[How are countries enforcing vaccine passports and what can people use them for?]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-56522408</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56522408</guid>
-            <pubDate>Mon, 26 Jul 2021 21:01:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Petrol bombs thrown at Cuban embassy in Paris]]></title>
             <description><![CDATA[Cuba's foreign ministry has released surveillance footage of the attack at its embassy in France.]]></description>
             <link>https://www.bbc.co.uk/news/world-57995485</link>
@@ -212,6 +170,13 @@
             <pubDate>Tue, 27 Jul 2021 14:41:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dad builds robotic exoskeleton to help son walk]]></title>
+            <description><![CDATA[The French robotics engineer says he was inspired to build the suit after his son asked him to.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57985857</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57985857</guid>
+            <pubDate>Tue, 27 Jul 2021 13:22:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brazil: Why are so many pregnant women dying from Covid?]]></title>
             <description><![CDATA[One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-57974754</link>
@@ -224,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57968405</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57968405</guid>
             <pubDate>Mon, 26 Jul 2021 23:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tunisia: Key moments as political turmoil unfolds]]></title>
-            <description><![CDATA[Tunisia's president sacks the PM and the speaker is barred entry to parliament following violent protests.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57972459</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57972459</guid>
-            <pubDate>Mon, 26 Jul 2021 13:26:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simone Biles: What are the twisties in gymnastics?]]></title>
