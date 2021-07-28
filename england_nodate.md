@@ -1,4 +1,4 @@
-1. [Channel crossings: RNLI chief hits out over migrant rescue abuse](https://www.bbc.co.uk/news/uk-england-kent-57999224) - The RNLI boss spoke out after it emerged lifeboat crews were being heckled for rescuing migrants.
+1. [Channel crossings: RNLI chief hits out over migrant rescue abuse](https://www.bbc.co.uk/news/uk-england-kent-57999224) - The charity's boss speaks out after its lifeboat crews are heckled for rescuing migrants.
 2. [Victoria Hall: Man arrested in 1999 teen murder case](https://www.bbc.co.uk/news/uk-england-suffolk-58002514) - Victoria Hall, 17, was abducted on her way home from a Suffolk nightclub more than 20 years ago.
 3. [Richmond School teacher trampled to death by cows, inquest hears](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57999964) - David Clark died after being trampled by a herd of cows while walking his dogs in North Yorkshire.
 4. [Trafford General: Lightning strike sets hospital roof on fire](https://www.bbc.co.uk/news/uk-england-manchester-58002628) - Some patients and staff are evacuated as fire crews tackle the blaze at Trafford General Hospital.
