@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jul 2021 15:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 15:50:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Are middle-aged people more unhealthy than ever?]]></title>
+            <description><![CDATA[Why could the current cohort of 40-somethings be proving less healthy than previous generations?]]></description>
+            <link>https://www.bbc.co.uk/news/health-57999892</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57999892</guid>
+            <pubDate>Wed, 28 Jul 2021 15:29:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NHS England to appoint first female chief executive]]></title>
             <description><![CDATA[The prime minister is expected to rubber-stamp Amanda Pritchard's appointment imminently.]]></description>
@@ -41,7 +48,7 @@
             <description><![CDATA[A lack of sign language at two government briefings was discriminatory, a High Court judge finds.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-57998047</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-57998047</guid>
-            <pubDate>Wed, 28 Jul 2021 12:40:07 GMT</pubDate>
+            <pubDate>Wed, 28 Jul 2021 15:48:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Four numbers that reveal the real trends]]></title>
