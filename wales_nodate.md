@@ -1,4 +1,4 @@
-1. [Unesco: Wales' slate landscape bids for place on World Heritage list](https://www.bbc.co.uk/news/uk-wales-57973511) - Welsh slate landscape bids to join Egypt's Pyramids and India's Taj Mahal on prestigious list.
+1. [Wales' slate landscape wins World Heritage status](https://www.bbc.co.uk/news/uk-wales-57986167) - The north-west slate mining area is said to have "roofed the world" at its height in the 19th Century.
 2. [Tokyo Olympics: How Matt Richards went from garden pool to gold](https://www.bbc.co.uk/news/uk-wales-57994645) - Matt Richards' relay swim team almost broke the world record as they won gold in Tokyo.
 3. [Bute Park attack: Girl, 16, charged with attempted murder](https://www.bbc.co.uk/news/uk-wales-57994643) - She is the third person charged after an attack left a man in a 'life-threatening condition'.
 4. [Shielding from Covid: 'I couldn't face going back to work'](https://www.bbc.co.uk/news/uk-wales-57995550) - Concerns about contracting Covid, even after being fully vaccinated, sees one woman quit her job.
@@ -22,8 +22,7 @@
 22. [Lauren Price's Olympic boxing debut 'couldn't have gone any better'](https://www.bbc.co.uk/sport/av/olympics/57994655) - World champion middleweight Lauren Price says her Olympic boxing debut could not have gone any better after securing her place in the quarter-final.
 23. [Tokyo Olympics: Geraint Thomas and Tao Geoghegan Hart finish outside top 10 in time trial](https://www.bbc.co.uk/sport/olympics/57986021) - Britain's Geraint Thomas and Tao Geoghegan Hart finish outside the top 10 as Slovenia's Primoz Roglic wins time trial gold at the Tokyo Olympics.
 24. [Timmy Abraham: Fulham forward joins Newport County on loan](https://www.bbc.co.uk/sport/football/57994657) - Fulham forward Timmy Abraham says he is raring to go after joining Newport County on loan.
-25. [Medalau aur cyntaf i Gymry yn Tokyo](https://www.bbc.co.uk/newyddion/57995205) - Medal aur i Matthew Richards a Calum Jarvis yn y pwll nofio i Team GB, a medal arian hefyd i'r rhwyfwr Tom Barras.
-26. [Statws Treftadaeth Byd wedi cael effaith bositif](https://www.bbc.co.uk/newyddion/57983156) - Cyn penderfyniad UNESCO am ardaloedd llechi Gwynedd, gwahaniaeth barn am yr effaith bosib.
+25. [Safle Treftadaeth Byd UNESCO i ardal llechi Gwynedd](https://www.bbc.co.uk/newyddion/57994907) - Mae Cyngor Gwynedd yn gobeithio y bydd ennill y statws yn arwain at adfywio'r ardal a chreu swyddi newydd.
+26. [Medalau aur cyntaf i Gymry yn Tokyo](https://www.bbc.co.uk/newyddion/57995205) - Medal aur i Matthew Richards a Calum Jarvis yn y pwll nofio i Team GB, a medal arian hefyd i'r rhwyfwr Tom Barras.
 27. [Cyhuddo merch 16 oed o geisio llofruddio dyn yng Nghaerdydd](https://www.bbc.co.uk/newyddion/57994904) - Mae dau ddyn eisoes wedi bod ger bron llys wedi i ddyn gael anafiadau sy'n bygwth ei fywyd.
-28. [Beth sy'n digwydd yn Eisteddfod 2021?](https://www.bbc.co.uk/newyddion/57984353) - Sut allwch chi ddilyn y Brifwyl eleni?
-29. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Conor Murray, Chris Harris a Mako Vunipola yn dechrau, gyda'r Cymro, Taulupe Faletau ar y fainc.
+28. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Conor Murray, Chris Harris a Mako Vunipola yn dechrau, gyda'r Cymro, Taulupe Faletau ar y fainc.

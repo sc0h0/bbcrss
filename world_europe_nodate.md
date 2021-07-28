@@ -2,9 +2,9 @@
 2. [Roma student: 'My only goal is to finish school'](https://www.bbc.co.uk/news/world-europe-57978365) - How one school in Croatia is working to improve education opportunities for Roma children like Kristina.
 3. [Greece: Forest fire rips through area near Athens](https://www.bbc.co.uk/news/world-europe-57987855) - About 300 firefighters, water-dropping planes and helicopters helped bring the blaze under control.
 4. [Covid travel: Fully jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
-5. [Brexit: EU pauses legal action against UK over NI Protocol 'breaches'](https://www.bbc.co.uk/news/uk-northern-ireland-57986307) - The action began in March after the UK made a move to change the implementation of the protocol.
-6. [Leverkusen blast: German chemical plant explosion leaves one dead](https://www.bbc.co.uk/news/world-europe-57978043) - Officials in Leverkusen say four people are missing and 16 were injured in the blast on Tuesday.
-7. [Covid-19: Irish vaccine programme to include 12-15-year-olds](https://www.bbc.co.uk/news/world-europe-57984314) - Taoiseach (Irish PM) Micheál Martin says it represents a "significant opening up" of the programme.
+5. [Football: Brazil into quarters but Germany exit](https://www.bbc.co.uk/sport/olympics/57995721) - Brazil ease through to the quarter-finals of the men's Olympic football but 2016 silver medallists Germany are eliminated.
+6. [Wales' slate landscape wins World Heritage status](https://www.bbc.co.uk/news/uk-wales-57986167) - The north-west slate mining area is said to have "roofed the world" at its height in the 19th Century.
+7. [Brexit: EU pauses legal action against UK over NI Protocol 'breaches'](https://www.bbc.co.uk/news/uk-northern-ireland-57986307) - The action began in March after the UK made a move to change the implementation of the protocol.
 8. [Dad builds robotic exoskeleton to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
 9. ['Luxury' race will be among most expensive on earth](https://www.bbc.co.uk/news/uk-scotland-57975285) - A four-day ultramarathon covering 120 miles on the west coast of Scotland will cost £15,499 to enter.
 10. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
