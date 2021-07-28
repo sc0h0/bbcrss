@@ -2,7 +2,7 @@
 2. [Coronavirus: Four numbers that reveal the real trends](https://www.bbc.co.uk/news/health-57984170) - Does a week of falling case numbers mean we're close to the end?
 3. [Covid: UK cases fall for seventh day in a row](https://www.bbc.co.uk/news/uk-57981899) - Despite falling numbers, the PM is urging people to "remain cautious" and "not jump to conclusions".
 4. [Contaminated-blood inquiry: Former Health Minister Clarke denies responsibility](https://www.bbc.co.uk/news/uk-57986582) - Lord Clarke is the first senior health minister from the 1980s to testify on the NHS scandal.
-5. [Fully jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
+5. [Covid travel: Fully jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
 6. [Covid: Alert over inaccurate thermometers bought in UK](https://www.bbc.co.uk/news/health-57982479) - Sales have increased in the pandemic but some products are not fit for purpose, UK regulator warns.
 7. [Covid-19: Irish vaccine programme to include 12-15-year-olds](https://www.bbc.co.uk/news/world-europe-57984314) - Taoiseach (Irish PM) Micheál Martin says it represents a "significant opening up" of the programme.
 8. [Lockdown weight gain averaging half a stone - survey](https://www.bbc.co.uk/news/health-57968651) - Four in 10 adults in England have become fatter during the pandemic, a survey suggests.

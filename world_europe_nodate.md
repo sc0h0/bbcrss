@@ -1,6 +1,6 @@
 1. [Greece: Forest fire rips through area near Athens](https://www.bbc.co.uk/news/world-europe-57987855) - About 300 firefighters, water-dropping planes and helicopters helped bring the blaze under control.
 2. [Roma student: 'My only goal is to finish school'](https://www.bbc.co.uk/news/world-europe-57978365) - How one school in Croatia is working to improve education opportunities for Roma children like Kristina.
-3. [Fully jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
+3. [Covid travel: Fully jabbed from EU and US could avoid quarantine](https://www.bbc.co.uk/news/uk-57992929) - Senior cabinet ministers are due to discuss the move for arrivals to England in a meeting on Wednesday.
 4. [Brexit: EU pauses legal action against UK over NI Protocol 'breaches'](https://www.bbc.co.uk/news/uk-northern-ireland-57986307) - The action began in March after the UK made a move to change the implementation of the protocol.
 5. [Leverkusen blast: German chemical plant explosion leaves one dead](https://www.bbc.co.uk/news/world-europe-57978043) - Officials in Leverkusen say four people are missing and 16 were injured in the blast on Tuesday.
 6. [Vatican's Cardinal Becciu on trial in $412m fraud case](https://www.bbc.co.uk/news/world-europe-57981508) - Cardinal Becciu was once close to the Pope but was sacked after reports of financial misdeeds.
