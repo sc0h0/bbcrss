@@ -1,4 +1,4 @@
-1. [Covid: No quarantine for fully jabbed US and EU travellers to England](https://www.bbc.co.uk/news/uk-57999362) - The travel industry had been pushing for the rule change so tourists can more easily come to England.
+1. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the change will help reunite family and friends in England and Scotland.
 2. [Channel crossings: RNLI chief hits out over migrant rescue abuse](https://www.bbc.co.uk/news/uk-england-kent-57999224) - The charity's boss speaks out after its lifeboat crews are heckled for rescuing migrants.
 3. [Victoria Hall: Man arrested in 1999 teen murder case](https://www.bbc.co.uk/news/uk-england-suffolk-58002514) - Victoria Hall, 17, was abducted on her way home from a Suffolk nightclub more than 20 years ago.
 4. [Richmond School teacher trampled to death by cows, inquest hears](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-57999964) - David Clark died after being trampled by a herd of cows while walking his dogs in North Yorkshire.
@@ -16,10 +16,10 @@
 16. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
 17. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
 18. [Birmingham 2022: Drones light show mark one year to go](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57999884) - The skies of Birmingham were lit up to mark a year until the city hosts the Commonwealth Games.
-19. [Channel crossings: RNLI release footage of rescue](https://www.bbc.co.uk/news/uk-england-kent-57999386) - The video shows about 12 people, including young children, in a dinghy being pulled to safety.
-20. [Aerial dancers enjoy striking Honister sunrise performance](https://www.bbc.co.uk/news/uk-england-cumbria-58002734) - Three aerial dancers suspend themselves from 1,000ft (305m) up for a routine in the Lake District.
-21. [New agricultural techniques trialled in Devon](https://www.bbc.co.uk/news/uk-england-devon-57990881) - A South West nature reserve is pioneering new agricultural techniques as part of a UK-wide scheme.
-22. [Prince Philip: 'Surreal' letter from palace after royal portrait](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989375) - Honor sent a painting to the Queen after the prince's death and was surprised at the response.
+19. [Terminally-ill Rotherham mum on fight for life and family](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58004513) - Mum-of-two Helen Davy received the diagnosis four years after her husband's death.
+20. [Channel crossings: RNLI release footage of rescue](https://www.bbc.co.uk/news/uk-england-kent-57999386) - The video shows about 12 people, including young children, in a dinghy being pulled to safety.
+21. [Aerial dancers enjoy striking Honister sunrise performance](https://www.bbc.co.uk/news/uk-england-cumbria-58002734) - Three aerial dancers suspend themselves from 1,000ft (305m) up for a routine in the Lake District.
+22. [New agricultural techniques trialled in Devon](https://www.bbc.co.uk/news/uk-england-devon-57990881) - A South West nature reserve is pioneering new agricultural techniques as part of a UK-wide scheme.
 23. [Wayne Rooney: Police drop blackmail complaint](https://www.bbc.co.uk/news/uk-england-manchester-57989881) - Police say no offences have taken place regarding the social media photographs of Wayne Rooney.
 24. [Sheffield Forgemasters: Ministry of Defence to acquire steel firm](https://www.bbc.co.uk/news/uk-england-south-yorkshire-57997858) - Sheffield Forgemasters will see up to £400m of investment in the next decade, the government says.
 25. [Covid: Deaf woman wins claim over lack of sign language at briefings](https://www.bbc.co.uk/news/uk-england-leeds-57998047) - A lack of sign language at two government briefings was discriminatory, a High Court judge finds.

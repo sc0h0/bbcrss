@@ -29,7 +29,7 @@
 29. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.
 30. [Is there a future for Africa's lions?](https://www.bbc.co.uk/news/science-environment-57968405) - As lion populations decline across much of Africa, could community-led conservation help reverse this trend?
 31. [Tunisia: Key moments as political turmoil unfolds](https://www.bbc.co.uk/news/world-africa-57972459) - Tunisia's president sacks the PM and the speaker is barred entry to parliament following violent protests.
-32. [Simone Biles: What are the twisties in gymnastics?](https://www.bbc.co.uk/news/world-us-canada-57986166) - US gymnast Simone Biles reportedly said she was "having a little bit of the twisties".
+32. [Simone Biles: What are the twisties in gymnastics?](https://www.bbc.co.uk/news/world-us-canada-57986166) - US gymnast Simone Biles said she was "having a little bit of the twisties".
 33. [Tokyo Olympics: Take a tour of the incredible venues](https://www.bbc.co.uk/news/world-asia-57981049) - They range from an arena built by a father and son, to a legendary home of Japanese martial arts.
 34. [Tokyo Olympics tennis: Andy Murray & Joe Salisbury out, Novak Djokovic wins](https://www.bbc.co.uk/sport/olympics/57994553) - Andy Murray's bid for an Olympic gold at a third successive Games ends as he and Joe Salisbury lose in the men's doubles semi-finals in Tokyo.
 35. [Dujardin now GB's most decorated female Olympian](https://www.bbc.co.uk/sport/olympics/58000595) - Great Britain's Charlotte Dujardin becomes Great Britain's most decorated female Olympian by winning dressage bronze at Tokyo 2020.

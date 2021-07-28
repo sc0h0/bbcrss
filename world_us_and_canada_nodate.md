@@ -1,6 +1,6 @@
 1. [Remington: US gunmaker offers $33m to Sandy Hook shooting victims](https://www.bbc.co.uk/news/world-us-canada-58001480) - Victims' families from Sandy Hook elementary school sued Remington for the sale of the rifle.
 2. [Capitol riot: Policeman tells 6 January hearing he feared he would die](https://www.bbc.co.uk/news/world-us-canada-57989578) - Officers on duty when Trump supporters stormed the US Capitol give tearful testimony at an inquiry.
-3. [Covid: No quarantine for fully jabbed US and EU travellers to England](https://www.bbc.co.uk/news/uk-57999362) - The travel industry had been pushing for the rule change so tourists can more easily come to England.
+3. [Covid: No quarantine for fully jabbed US and EU travellers](https://www.bbc.co.uk/news/uk-57999362) - Ministers hope the change will help reunite family and friends in England and Scotland.
 4. [Canadian police reveal decade-long Manitoba residential school inquiry](https://www.bbc.co.uk/news/world-us-canada-57977938) - Police are investigating abuse claims at a former school that sought to assimilate indigenous children.
 5. [Rapper DaBaby apologises for HIV comments as Boohoo drops him](https://www.bbc.co.uk/news/newsbeat-57999121) - And Boohoo has ended its clothing deal with the rapper as the latest critic of his onstage comments.
 6. [Tokyo Olympics: Simone Biles out of individual all-around final](https://www.bbc.co.uk/sport/olympics/57973716) - American gymnast and four-time Olympic gold medallist Simone Biles withdraws from the individual all-around final Tokyo Olympics.
