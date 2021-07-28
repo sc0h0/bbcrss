@@ -1,5 +1,5 @@
 1. [Channel crossings: RNLI chief hits out over migrant rescue abuse](https://www.bbc.co.uk/news/uk-england-kent-57999224) - The RNLI boss spoke out after it emerged lifeboat crews were being heckled for rescuing migrants.
-2. [Man arrested over murder of Victoria Hall in 1999](https://www.bbc.co.uk/news/uk-england-suffolk-58002514) - Victoria Hall, 17, was abducted on her way home from a Suffolk nightclub more than 20 years ago.
+2. [Victoria Hall: Man arrested in 1999 teen murder case](https://www.bbc.co.uk/news/uk-england-suffolk-58002514) - Victoria Hall, 17, was abducted on her way home from a Suffolk nightclub more than 20 years ago.
 3. [Covid: Deaf woman wins claim over lack of sign language at briefings](https://www.bbc.co.uk/news/uk-england-leeds-57998047) - A lack of sign language at two government briefings was discriminatory, a High Court judge finds.
 4. [Sheffield Forgemasters: Ministry of Defence to acquire steel firm](https://www.bbc.co.uk/news/uk-england-south-yorkshire-57997858) - Sheffield Forgemasters will see up to £400m of investment in the next decade, the government says.
 5. [Bristol Rovers president Wael al-Qadi apologises for Joey Barton statement](https://www.bbc.co.uk/news/uk-england-bristol-57990366) - The club's president says anyone found guilty of violent offences "will be dismissed immediately".
@@ -22,7 +22,7 @@
 22. [Multiple sclerosis: Parkour athlete's loss of mobility 'mortifying'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57932996) - Luke Callinan, 35, has been diagnosed with a rare form of multiple sclerosis.
 23. [Charles attends Staffordshire police memorial dedication](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57983080) - The new national memorial to fallen officers and staff honours "courageous sacrifice".
 24. [West Suffolk Hospital: 'Witch hunt' NHS Trust boss steps down](https://www.bbc.co.uk/news/uk-england-suffolk-57976409) - Dr Stephen Dunn was chief executive at a hospital when staff were asked to submit fingerprints.
-25. [Harborough District Council sends out 700 court summonses in error](https://www.bbc.co.uk/news/uk-england-leicestershire-57986682) - The authority says some residents may not have received a final warning over unpaid council tax.
+25. [Escaped 6ft boa constrictor in Measham found in shed](https://www.bbc.co.uk/news/uk-england-leicestershire-57998239) - Owner Shannon Surch says Bo the snake was found just yards from the house among her pet rabbits.
 26. [Funnel cloud spotted near Daventry as storms move in](https://www.bbc.co.uk/news/uk-england-northamptonshire-57995935) - Onlookers say it started off as a "wispy cloud" but got "bigger and closer to the ground".
 27. [Tom Dean: double Olympic gold medallist's raw talent](https://www.bbc.co.uk/news/uk-england-somerset-57991792) - University of Bath student Tom Dean twice recovered from Covid on the way to Tokyo Olympic success.
 28. [Relay gold and sculling silver for GB - what's happened on day five?](https://www.bbc.co.uk/sport/olympics/57993948) - Charlotte Dujardin wins dressage bronze to become the most decorated British female Olympian, as Team GB's swimmers secure gold.

@@ -1,5 +1,5 @@
 1. [Covid: Sydney extends lockdown as other Australian cities reopen](https://www.bbc.co.uk/news/world-australia-57993337) - Infections in Australia's largest city remain stubbornly high, despite five weeks of restrictions.
-2. [China building nuclear missile silo field, scientists say](https://www.bbc.co.uk/news/world-asia-china-57995185) - A new report based on high-quality satellite images says the site could hold up to 100 silos.
+2. [China expanding its nuclear capabilities, scientists say](https://www.bbc.co.uk/news/world-asia-china-57995185) - It is building a site that will have extra capacity to store and launch missiles, scientists say.
 3. [Anger as Covid-ravaged Malaysia lifts pandemic measures](https://www.bbc.co.uk/news/world-asia-57993617) - It comes as hospitals are overwhelmed, with pictures showing patients sharing oxygen cylinders.
 4. [Kris Wu: Why a superstar sparked China's sexual consent debate](https://www.bbc.co.uk/news/world-asia-china-57938328) - A growing rape allegation controversy centering on Kris Wu has renewed discussion on sexual consent.
 5. [Hong Kong: First person charged under national security law found guilty](https://www.bbc.co.uk/news/world-asia-china-57979938) - The 24-year-old had flown a flag with a protest slogan while riding a motorcycle into police officers.

@@ -1,7 +1,7 @@
 1. [Sweden charges man over 1988 Iran prison massacre](https://www.bbc.co.uk/news/world-europe-57996483) - Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.
 2. [Covid: No quarantine for fully jabbed US and EU travellers to England](https://www.bbc.co.uk/news/uk-57999362) - The travel industry had been pushing for the rule change so tourists can more easily come to England.
 3. [Roma student: 'My only goal is to finish school'](https://www.bbc.co.uk/news/world-europe-57978365) - How one school in Croatia is working to improve education opportunities for Roma children like Kristina.
-4. [Greece: Forest fire rips through area near Athens](https://www.bbc.co.uk/news/world-europe-57987855) - About 300 firefighters, water-dropping planes and helicopters helped bring the blaze under control.
+4. [Liam Campbell: Omagh suspect to be extradited to Lithuania over Real IRA weapons](https://www.bbc.co.uk/news/world-europe-58000853) - Liam Campbell's appeal against extradition to face weapons smuggling charges is dismissed.
 5. [Football: Brazil into quarters but Germany exit](https://www.bbc.co.uk/sport/olympics/57995721) - Brazil ease through to the quarter-finals of the men's Olympic football but 2016 silver medallists Germany are eliminated.
 6. [Wales' slate landscape wins World Heritage status](https://www.bbc.co.uk/news/uk-wales-57986167) - The north-west slate mining area is said to have "roofed the world" at its height in the 19th Century.
 7. [Brexit: EU pauses legal action against UK over NI Protocol 'breaches'](https://www.bbc.co.uk/news/uk-northern-ireland-57986307) - The action began in March after the UK made a move to change the implementation of the protocol.
