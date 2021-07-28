@@ -1,8 +1,8 @@
 1. [Unesco: Wales' slate landscape bids for place on World Heritage list](https://www.bbc.co.uk/news/uk-wales-57973511) - Welsh slate landscape bids to join Egypt's Pyramids and India's Taj Mahal on prestigious list.
-2. [Tokyo Olympics: Matt Richards' parents 'delighted' with gold medal](https://www.bbc.co.uk/news/uk-wales-57994645) - Matt Richards' relay swim team almost broke the world record as they won gold in Tokyo.
+2. [Tokyo Olympics: How Matt Richards went from garden pool to gold](https://www.bbc.co.uk/news/uk-wales-57994645) - Matt Richards' relay swim team almost broke the world record as they won gold in Tokyo.
 3. [Bute Park attack: Girl, 16, charged with attempted murder](https://www.bbc.co.uk/news/uk-wales-57994643) - She is the third person charged after an attack left a man in a 'life-threatening condition'.
 4. [Richards & Jarvis help GB win Olympic gold](https://www.bbc.co.uk/sport/olympics/57993545) - Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.
-5. [Covid in Wales: Almost a quarter absent from school at end of term](https://www.bbc.co.uk/news/uk-wales-politics-57996960) - More than 8% were off school for Covid-related reasons, new figures show.
+5. [Covid in Wales: Almost a quarter absent from school at end of term](https://www.bbc.co.uk/news/uk-wales-politics-57996960) - Just over 90,000 pupils in Wales were absent from school in the last full week of term, figures show.
 6. [Eagle eyes spot kestrel chicks in jet plane exhaust](https://www.bbc.co.uk/news/uk-wales-57992207) - The young birds "lucky to be alive" after found hiding in exhaust of an Airbus plane during repairs.
 7. [Pub beer garden crash man 'happy to be alive' ](https://www.bbc.co.uk/news/uk-wales-57983966) - Darren George, 30, remains in hospital after a car crashed into a pub beer garden.
 8. [Barras helps GB win Olympic rowing silver](https://www.bbc.co.uk/sport/olympics/57993357) - Britain's rowers win their first Olympic medal in the men's quadruple sculls as Harry Leask, Angus Groom, Tom Barras and Jack Beaumont claim silver at Tokyo 2020.
