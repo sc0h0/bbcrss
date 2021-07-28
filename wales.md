@@ -25,4 +25,5 @@
 25. [Medalau aur cyntaf i Gymry yn Tokyo](https://www.bbc.co.uk/newyddion/57995205) - Wed, 28 Jul 2021 06:29:42 GMT - Medal aur i Matthew Richards a Calum Jarvis yn y pwll nofio i Team GB, a medal arian hefyd i'r rhwyfwr Tom Barras.
 26. [Statws Treftadaeth Byd wedi cael effaith bositif](https://www.bbc.co.uk/newyddion/57983156) - Wed, 28 Jul 2021 05:03:13 GMT - Cyn penderfyniad UNESCO am ardaloedd llechi Gwynedd, gwahaniaeth barn am yr effaith bosib.
 27. [Cyhuddo merch 16 oed o geisio llofruddio dyn yng Nghaerdydd](https://www.bbc.co.uk/newyddion/57994904) - Wed, 28 Jul 2021 06:03:15 GMT - Mae dau ddyn eisoes wedi bod ger bron llys wedi i ddyn gael anafiadau sy'n bygwth ei fywyd.
-28. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Tue, 27 Jul 2021 09:45:11 GMT - Conor Murray, Chris Harris a Mako Vunipola yn dechrau, gyda'r Cymro, Taulupe Faletau ar y fainc.
+28. [Beth sy'n digwydd yn Eisteddfod 2021?](https://www.bbc.co.uk/newyddion/57984353) - Tue, 27 Jul 2021 13:41:08 GMT - Sut allwch chi ddilyn y Brifwyl eleni?
+29. [Tri newid i'r Llewod ar gyfer yr ail gêm brawf](https://www.bbc.co.uk/newyddion/57983152) - Tue, 27 Jul 2021 09:45:11 GMT - Conor Murray, Chris Harris a Mako Vunipola yn dechrau, gyda'r Cymro, Taulupe Faletau ar y fainc.

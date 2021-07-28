@@ -1,26 +1,25 @@
-1. [Twitter accused of inaction on anti-Semitic tweets](https://www.bbc.co.uk/news/technology-57970598) - Campaign Against Antisemitism says many reported hateful tweets are not being removed.
-2. [Tech giants' profits soar as pandemic boom continues](https://www.bbc.co.uk/news/business-57979268) - Apple, Google parent company Alphabet and Microsoft report soaring quarterly profits.
-3. [Instagram makes under-16s' accounts private by default](https://www.bbc.co.uk/news/technology-57984790) - Only approved followers can see posts and "like" or comment on accounts that retain the private setting.
-4. [Electric car charging prices 'must be fair' say MPs](https://www.bbc.co.uk/news/business-57963912) - Consumers should not have to pay excessive prices to use public car charging, MPs say.
-5. [Activision staff condemn firm's response to harassment claims](https://www.bbc.co.uk/news/technology-57984784) - About 1,000 Activision Blizzard staff sign a letter describing managers' response as insulting.
-6. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
-7. [Over-60s with only virtual contact 'more lonely'](https://www.bbc.co.uk/news/technology-57970595) - UK-US research finds old people who used only telephone and online communication were more lonely.
-8. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.
-9. [Amazon Bitcoin job ad boosts cryptocurrency surge](https://www.bbc.co.uk/news/technology-57971451) - News Amazon is hiring a digital-currency expert has helped boost the value of Bitcoin.
-10. [Shares in Chinese online tutoring firms slump after shake-up](https://www.bbc.co.uk/news/business-57966027) - It is one of the biggest ever overhauls of China's $120bn private tutoring industry.
-11. [Tencent shares slide after Beijing crackdown on music rights](https://www.bbc.co.uk/news/business-57966023) - China's market watchdog said the technology giant broke the country's anti-competition rules.
-12. [Face palm: When the emoji you want doesn't exist](https://www.bbc.co.uk/news/technology-57848226) - There are about 3,000 emojis to choose from but what happens when the one you want isn't there?
-13. [Zuckerberg wants Facebook to become online 'metaverse'](https://www.bbc.co.uk/news/technology-57942909) - CEO wants users to work, game and communicate in a virtual world, often using VR headsets.
-14. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
-15. [Beach rover picks up cigarette butts and other tech news](https://www.bbc.co.uk/news/technology-57930091) - Jen Copestake looks at some of the best technology news stories of the week.
-16. [Cyber-flashing: 'I get explicit messages every day'](https://www.bbc.co.uk/news/uk-57902816) - Influencer Elle Edwards lets us inside her DMs to show the extent of sexual abuse faced by women online.
-17. [Spyware: The software that watches you](https://www.bbc.co.uk/news/technology-57894917) - BBC’s cyber reporter, Joe Tidy, agreed to be spied on to understand the spyware experience further.
-18. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
-19. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
-20. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
-21. [Covid: Will lockdown change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
-22. [What does a future-proofed home look like?](https://www.bbc.co.uk/news/business-57738681) - The technology exists to make homes more resilient to extreme weather, but it can be expensive.
-23. [Zoomtown-on-Sea? The lure of a new life on the coast](https://www.bbc.co.uk/news/uk-57892934) - Remote working meant the Lancaster family could live anywhere - they found their sea view in Scarborough.
-24. [Pegasus scandal: Are we all becoming unknowing spies?](https://www.bbc.co.uk/news/technology-57910355) - We may be stepping into a world in which we are all spies - and at the same time are all spied on.
-25. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
-26. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
+1. [Oculus recalls Quest 2 headset pads after skin rashes](https://www.bbc.co.uk/news/technology-57997112) - Quest 2 headset owners are urged to claim a free silicone cover to avoid skin issues.
+2. [Twitter accused of inaction on anti-Semitic tweets](https://www.bbc.co.uk/news/technology-57970598) - Campaign Against Antisemitism says many reported hateful tweets are not being removed.
+3. [Tech giants' profits soar as pandemic boom continues](https://www.bbc.co.uk/news/business-57979268) - Apple, Google parent company Alphabet and Microsoft report soaring quarterly profits.
+4. [Instagram makes under-16s' accounts private by default](https://www.bbc.co.uk/news/technology-57984790) - Only approved followers can see posts and "like" or comment on accounts that retain the private setting.
+5. [Electric car charging prices 'must be fair' say MPs](https://www.bbc.co.uk/news/business-57963912) - Consumers should not have to pay excessive prices to use public car charging, MPs say.
+6. [Activision staff condemn firm's response to harassment claims](https://www.bbc.co.uk/news/technology-57984784) - About 1,000 Activision Blizzard staff sign a letter describing managers' response as insulting.
+7. [Tesla profit surge driven by record car deliveries](https://www.bbc.co.uk/news/business-57935264) - The electric carmaker's revenues nearly doubled in the three months to 30 June compared with last year.
+8. [Over-60s with only virtual contact 'more lonely'](https://www.bbc.co.uk/news/technology-57970595) - UK-US research finds old people who used only telephone and online communication were more lonely.
+9. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.
+10. [Amazon Bitcoin job ad boosts cryptocurrency surge](https://www.bbc.co.uk/news/technology-57971451) - News Amazon is hiring a digital-currency expert has helped boost the value of Bitcoin.
+11. [Shares in Chinese online tutoring firms slump after shake-up](https://www.bbc.co.uk/news/business-57966027) - It is one of the biggest ever overhauls of China's $120bn private tutoring industry.
+12. [Tencent shares slide after Beijing crackdown on music rights](https://www.bbc.co.uk/news/business-57966023) - China's market watchdog said the technology giant broke the country's anti-competition rules.
+13. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
+14. [Beach rover picks up cigarette butts and other tech news](https://www.bbc.co.uk/news/technology-57930091) - Jen Copestake looks at some of the best technology news stories of the week.
+15. [Cyber-flashing: 'I get explicit messages every day'](https://www.bbc.co.uk/news/uk-57902816) - Influencer Elle Edwards lets us inside her DMs to show the extent of sexual abuse faced by women online.
+16. [Spyware: The software that watches you](https://www.bbc.co.uk/news/technology-57894917) - BBC’s cyber reporter, Joe Tidy, agreed to be spied on to understand the spyware experience further.
+17. [Custom glasses: Will 3D-printing change our eyewear?](https://www.bbc.co.uk/news/technology-57817901) - Eyewear can be more tailored to an individual’s face producing a better fit and reduce overstocking.
+18. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
+19. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
+20. [Covid: Will lockdown change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
+21. [What does a future-proofed home look like?](https://www.bbc.co.uk/news/business-57738681) - The technology exists to make homes more resilient to extreme weather, but it can be expensive.
+22. [Zoomtown-on-Sea? The lure of a new life on the coast](https://www.bbc.co.uk/news/uk-57892934) - Remote working meant the Lancaster family could live anywhere - they found their sea view in Scarborough.
+23. [Pegasus scandal: Are we all becoming unknowing spies?](https://www.bbc.co.uk/news/technology-57910355) - We may be stepping into a world in which we are all spies - and at the same time are all spied on.
+24. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
+25. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
