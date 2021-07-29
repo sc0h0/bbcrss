@@ -4,7 +4,7 @@
 4. [UK already undergoing disruptive climate change](https://www.bbc.co.uk/news/science-environment-57988023) - Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.
 5. [Price tag for new flagship royal yacht could hit £250m](https://www.bbc.co.uk/news/uk-politics-58002977) - The defence secretary confirms the cost of the new "floating embassy" could be £100m higher than expected.
 6. [Official Secrets Act: Do government plans threaten investigative journalism?](https://www.bbc.co.uk/news/uk-politics-57998950) - Campaigners and reporters say planned changes to the Official Secrets Act threaten press freedoms.
-7. [Global education summit targets pandemic-hit schooling](https://www.bbc.co.uk/news/education-58006728) - A summit in London is raising aid to support 175 million children in the poorest countries.
+7. [Malala says girls' education 'worth fighting for'](https://www.bbc.co.uk/news/education-58006728) - Education summit in London is raising aid to support 175 million children in the poorest countries.
 8. [Boris Johnson predicts steady economic recovery post-pandemic](https://www.bbc.co.uk/news/uk-politics-57995845) - Boris Johnson still warns of "bumps on the road" ahead as the IMF predicts 7% growth for the UK economy.
 9. [Covid: Self-isolation rule changes on 16 August 'nailed on' - PM](https://www.bbc.co.uk/news/uk-57998247) - Recent falls in cases are encouraging but it is too early to draw conclusions, Boris Johnson says.
 10. [Covid: UK sends nine million vaccines to vulnerable countries](https://www.bbc.co.uk/news/uk-politics-58004934) - The government has promised to donate 100m surplus doses to other countries before the middle of 2022.
