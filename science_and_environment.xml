@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 14:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 15:13:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-57988023</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57988023</guid>
             <pubDate>Thu, 29 Jul 2021 07:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delayed Russian Nauka module joins space station]]></title>
+            <description><![CDATA[It was scheduled to launch in 2007, but the 13m-long, 20-tonne laboratory is finally in position.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58013283</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58013283</guid>
+            <pubDate>Thu, 29 Jul 2021 14:56:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Electric car charging prices 'must be fair' say MPs]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Mon, 26 Jul 2021 20:31:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Extreme weather: What causes flash flooding?]]></title>
-            <description><![CDATA[Cities across the world are at risk of extreme rainfall overwhelming their streets]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57969877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57969877</guid>
-            <pubDate>Mon, 26 Jul 2021 16:24:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Climate change: Researchers begin discussions on vital report]]></title>
             <description><![CDATA[A two-week virtual negotiation begins on the most critical climate change report since 2013.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57944015</link>
@@ -65,25 +65,11 @@
             <pubDate>Sun, 25 Jul 2021 23:31:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canterbury Cathedral stained glass is among world's oldest]]></title>
-            <description><![CDATA[New research indicates that stained glass windows from Canterbury Cathedral may be among the oldest in the world.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57768815</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57768815</guid>
-            <pubDate>Mon, 26 Jul 2021 13:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The new surgical tool inspired by a wasp]]></title>
-            <description><![CDATA[The device avoids clogging by using friction instead of suction, similar to the way a parasitoid wasp lays its eggs.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57889149</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57889149</guid>
-            <pubDate>Sun, 25 Jul 2021 23:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meteor wows Norway after blazing through night sky]]></title>
-            <description><![CDATA[The meteor is believed to have landed in a forest after flashes of light were seen across Norway.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57962384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57962384</guid>
-            <pubDate>Sun, 25 Jul 2021 14:42:56 GMT</pubDate>
+            <title><![CDATA[Extreme weather: What causes flash flooding?]]></title>
+            <description><![CDATA[Cities across the world are at risk of extreme rainfall overwhelming their streets]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57969877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57969877</guid>
+            <pubDate>Mon, 26 Jul 2021 16:24:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Israel to cut 85% of emissions by mid-century]]></title>
@@ -128,18 +114,11 @@
             <pubDate>Fri, 16 Jul 2021 11:36:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Formula 1 boss Ross Brawn says hydrogen could be future fuel]]></title>
-            <description><![CDATA[Hydrogen-powered cars could be the future of Formula 1 according to Ross Brawn, the F1 managing director for motorsports.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/57842205</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/57842205</guid>
-            <pubDate>Thu, 15 Jul 2021 23:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Amazon regions emit more carbon than they absorb]]></title>
-            <description><![CDATA[Rising heat and deforestation cause eastern parts of the Amazon to become carbon sources, not sinks.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57839364</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57839364</guid>
-            <pubDate>Wed, 14 Jul 2021 15:04:59 GMT</pubDate>
+            <title><![CDATA[Meteor wows Norway after blazing through night sky]]></title>
+            <description><![CDATA[The meteor is believed to have landed in a forest after flashes of light were seen across Norway.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57962384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57962384</guid>
+            <pubDate>Sun, 25 Jul 2021 14:42:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jeff Bezos and Sir Richard Branson may not be astronauts, US says]]></title>
@@ -163,11 +142,11 @@
             <pubDate>Wed, 21 Jul 2021 15:55:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hubble space telescope's function is restored]]></title>
-            <description><![CDATA[Engineers restore the Hubble Space Telescope to full operations, after a computer glitch in June.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57885865</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57885865</guid>
-            <pubDate>Mon, 19 Jul 2021 08:21:55 GMT</pubDate>
+            <title><![CDATA[The new surgical tool inspired by a wasp]]></title>
+            <description><![CDATA[The device avoids clogging by using friction instead of suction, similar to the way a parasitoid wasp lays its eggs.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57889149</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57889149</guid>
+            <pubDate>Sun, 25 Jul 2021 23:06:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is there a future for Africa's lions?]]></title>
@@ -196,20 +175,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57853537</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57853537</guid>
             <pubDate>Wed, 21 Jul 2021 05:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mystery 19th Century botanist tracked down following appeal]]></title>
-            <description><![CDATA[Pressed flowers and a poem found inside a centuries-old botany book sparked a quest to find the owner.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57847727</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57847727</guid>
-            <pubDate>Fri, 16 Jul 2021 23:16:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benjamin Jesty: The unsung hero of vaccination]]></title>
-            <description><![CDATA[Edward Jenner is credited with inventing the vaccine but his method was pioneered by a Dorset farmer.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-57460445</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-57460445</guid>
-            <pubDate>Wed, 14 Jul 2021 05:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

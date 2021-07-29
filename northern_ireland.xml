@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 14:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 15:14:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: NI Executive to relax travel isolation rules]]></title>
+            <description><![CDATA[Ministers will ease restrictions on fully vaccinated EU or US travellers from 31 July.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58004816</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58004816</guid>
+            <pubDate>Thu, 29 Jul 2021 15:09:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ardoyne baby death: Victim named as Liam O’Keefe]]></title>
             <description><![CDATA[A woman arrested on suspicion of murder is released from hospital and transferred to police custody.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Thu, 29 Jul 2021 14:17:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Wellbeing back to pre-pandemic levels, says Nisra]]></title>
-            <description><![CDATA[People's mental health has also improved, according to a government survey.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58012623</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58012623</guid>
-            <pubDate>Thu, 29 Jul 2021 11:58:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Vaccination plea after cancer surgeries cancelled]]></title>
             <description><![CDATA[A health trust chief says there is a "direct link" between unvaccinated people and the cancellations.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58009128</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58007573</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58007573</guid>
             <pubDate>Thu, 29 Jul 2021 03:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Wellbeing back to pre-pandemic levels, says Nisra]]></title>
+            <description><![CDATA[People's mental health has also improved, according to a government survey.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58012623</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58012623</guid>
+            <pubDate>Thu, 29 Jul 2021 11:58:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Two deaths and 1,471 new cases in NI]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58005434</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58005434</guid>
             <pubDate>Thu, 29 Jul 2021 05:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: NI Executive to discuss travel isolation rules]]></title>
-            <description><![CDATA[Ministers will discuss whether to relax restrictions on fully vaccinated EU or US travellers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58004816</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58004816</guid>
-            <pubDate>Thu, 29 Jul 2021 07:04:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: EU and UK criticised for 'flawed' protocol approach]]></title>

@@ -6,10 +6,10 @@
 6. [Death of Caerphilly lumberjack crushed by tree accidental](https://www.bbc.co.uk/news/uk-wales-58009263) - Ben Thomas was killed when a tree leaning against the one he had just cut down fell and crushed him.
 7. [Covid case rate falls for eighth consecutive day](https://www.bbc.co.uk/news/uk-wales-58009193) - Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.
 8. [Snowdon: Two women hit by lightning at mountain summit](https://www.bbc.co.uk/news/uk-wales-57999183) - Rescuers said the pair were "very lucky" to be alive after being hit by a lightning on Snowdon.
-9. [Climate change: Green energy barriers 'threaten' net zero goal](https://www.bbc.co.uk/news/uk-wales-58001745) - Problems starting renewable energy schemes could see firms bypass Wales, a group of MPs warn.
-10. [Woman died in Cardiff home after waiting 'hours' for ambulance](https://www.bbc.co.uk/news/uk-wales-58005545) - Maria Whale's husband John questioned whether his wife would have lived if help had come sooner.
-11. [Wales' slate landscape wins World Heritage status](https://www.bbc.co.uk/news/uk-wales-57986167) - The north-west slate mining area is said to have "roofed the world" at its height in the 19th Century.
-12. [Welsh film moves production to Lithuania due to lack of funding](https://www.bbc.co.uk/news/uk-wales-57986735) - A film staring Ray Winstone is moving production to Lithuania due to lack of funding in Wales
+9. [Swindon pair found guilty of trafficking vulnerable women](https://www.bbc.co.uk/news/uk-england-wiltshire-58015900) - Cristian Simion and Mihaela Borcos made about £70k after exploiting women who had come to the UK.
+10. [Climate change: Green energy barriers 'threaten' net zero goal](https://www.bbc.co.uk/news/uk-wales-58001745) - Problems starting renewable energy schemes could see firms bypass Wales, a group of MPs warn.
+11. [Woman died in Cardiff home after waiting 'hours' for ambulance](https://www.bbc.co.uk/news/uk-wales-58005545) - Maria Whale's husband John questioned whether his wife would have lived if help had come sooner.
+12. [Wales' slate landscape wins World Heritage status](https://www.bbc.co.uk/news/uk-wales-57986167) - The north-west slate mining area is said to have "roofed the world" at its height in the 19th Century.
 13. [LGBTQ people 'need to be part of' Wales' awareness push](https://www.bbc.co.uk/news/uk-wales-58001743) - It is hoped a new plan will see LGBTQ+ rights made mainstream across schools and the public sector.
 14. [Welsh slate landscape crowned a World Heritage site](https://www.bbc.co.uk/news/uk-wales-58007018) - The slate landscape of north-west Wales becomes the 32 UK site to be on Unesco's heritage list.
 15. [Woman who died in 'severe' pain at Cardiff home waited 'hours' for ambulance](https://www.bbc.co.uk/news/uk-wales-58006259) - John Whale's wife Maria died after they waited more than two hours for an ambulance.

@@ -1,6 +1,6 @@
 1. [Outspoken billionaire Sun Dawu jailed for 18 years in China](https://www.bbc.co.uk/news/world-asia-china-58007515) - Sun Dawu has in the past been vocal in criticising authorities and has spoken out about human rights.
 2. [Simone Biles thankful for love and support](https://www.bbc.co.uk/sport/olympics/58008278) - US gymnast Simone Biles reacts to the widespread support she has received after withdrawing from Thursday's all-around final.
-3. [Malala says girls' education 'worth fighting for'](https://www.bbc.co.uk/news/education-58006728) - Education summit in London is raising aid to support 175 million children in the poorest countries.
+3. [Malala says girls' education 'worth fighting for'](https://www.bbc.co.uk/news/education-58006728) - The campaigner tells a summit that improving education should be a key part of the pandemic recovery.
 4. [Covid vaccines: Tourists head to the US to get vaccinated](https://www.bbc.co.uk/news/world-us-canada-58004253) - Some tourists are spending thousands of dollars to travel to the US to get a coronavirus vaccine.
 5. [Hushpuppi: Nigerian influencer pleads guilty to money laundering](https://www.bbc.co.uk/news/world-africa-58002932) - Ramon Abbas, known as Hushpuppi, posted photos of his lavish lifestyle to 2.5m Instagram followers.
 6. [Daphne Caruana Galizia: Malta responsible for journalist death - inquiry](https://www.bbc.co.uk/news/world-europe-58012903) - A report quoted by Maltese media says officials could have prevented Daphne Caruana Galizia's 2017 murder.

@@ -1,4 +1,4 @@
-1. [Malala says girls' education 'worth fighting for'](https://www.bbc.co.uk/news/education-58006728) - Education summit in London is raising aid to support 175 million children in the poorest countries.
+1. [Malala says girls' education 'worth fighting for'](https://www.bbc.co.uk/news/education-58006728) - The campaigner tells a summit that improving education should be a key part of the pandemic recovery.
 2. [Richer parents pressure teachers on exam grades](https://www.bbc.co.uk/news/education-57999790) - Sharp-elbowed parents have chased better grades in this year's replacement exams, a study says.
 3. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
 4. [Cambridge University: Stormzy and HSBC fund 30 black students](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58011700) - The grime musician is helping finance a further 30 students at the world-renowned university.
