@@ -2,9 +2,9 @@
 2. [Van-Tam says jabs have prevented 60,000 Covid deaths](https://www.bbc.co.uk/news/newsbeat-58014546) - He says future lockdowns are less likely the more people, including 18-25-year olds, get vaccinated.
 3. [GB win canoe slalom silver and shooting bronze](https://www.bbc.co.uk/sport/olympics/58009952) - Mallory Franklin wins canoe slalom silver and shooter Matthew Coward-Holley claims trap bronze for Team GB on day six of the Olympics.
 4. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
-5. [Actor Bob Odenkirk 'stable' after collapsing on set](https://www.bbc.co.uk/news/entertainment-arts-58009727) - The US actor is still in hospital after being rushed there from the set of Better Call Saul.
-6. ['We lost our life savings in a cryptocurrency scam'](https://www.bbc.co.uk/news/business-57983458) - A pensioner caught up in an investment saga lost it all, prompting warnings to others.
-7. [UK already undergoing disruptive climate change](https://www.bbc.co.uk/news/science-environment-57988023) - Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.
+5. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
+6. [Actor Bob Odenkirk 'stable' after collapsing on set](https://www.bbc.co.uk/news/entertainment-arts-58009727) - The US actor is still in hospital after being rushed there from the set of Better Call Saul.
+7. ['We lost our life savings in a cryptocurrency scam'](https://www.bbc.co.uk/news/business-57983458) - A pensioner caught up in an investment saga lost it all, prompting warnings to others.
 8. [Cyclist jailed after Tower Hamlets hit-and-run death](https://www.bbc.co.uk/news/uk-england-london-58009784) - Peter McCombie died eight days after the crash from traumatic head injuries.
 9. [Man admits sharing Islamic State beheading videos](https://www.bbc.co.uk/news/uk-58012430) - Stefan Aristidou is the 14th person convicted of terror charges of hundreds who returned from Syria.
 10. [Cambridge University: Stormzy and HSBC fund 30 black students](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58011700) - The grime musician is helping finance a further 30 students at the world-renowned university.

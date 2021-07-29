@@ -1,4 +1,4 @@
-1. [US economic growth 'disappoints' as Covid surges](https://www.bbc.co.uk/news/business-58007120) - Thu, 29 Jul 2021 13:43:28 GMT - The world's largest economy grew by 6.5% in the second quarter but fell short of forecasts.
+1. [US economic growth 'disappoints' as Covid surges](https://www.bbc.co.uk/news/business-58007120) - Thu, 29 Jul 2021 14:15:09 GMT - The world's largest economy grew by 6.5% in the second quarter but fell short of forecasts.
 2. [Fewest people on furlough since pandemic began](https://www.bbc.co.uk/news/business-57981760) - Thu, 29 Jul 2021 11:18:58 GMT - Under-25s are coming off furlough twice as fast as all other age brackets, says the Treasury.
 3. [Drug firm fined for huge price rise that hit NHS](https://www.bbc.co.uk/news/business-58009149) - Thu, 29 Jul 2021 11:36:18 GMT - Advanz pushed up the price of thyroid tablet packs more than 10-fold, says the competition watchdog.
 4. ['We lost our life savings in a cryptocurrency scam'](https://www.bbc.co.uk/news/business-57983458) - Wed, 28 Jul 2021 23:03:30 GMT - A pensioner caught up in an investment saga lost it all, prompting warnings to others.
