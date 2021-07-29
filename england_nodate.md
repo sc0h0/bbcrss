@@ -8,7 +8,7 @@
 8. [Honour for unsung 'creator of cinema' William Friese-Greene](https://www.bbc.co.uk/news/uk-england-bristol-57984681) - A series of events are being held to highlight the impact William Friese-Greene had on film.
 9. [London anti-Semitism increased as Middle East tensions grew](https://www.bbc.co.uk/news/uk-england-london-58001771) - Violence against Jewish people in London rose as tensions grew in the Middle East, new figures show.
 10. [Bury Council left vulnerable boy without education for 10 months](https://www.bbc.co.uk/news/uk-england-manchester-58000714) - Bury Council, which admitted "a number of failures", has paid compensation to the family.
-11. [Northampton midwife attacked by egg-throwers in Coventry](https://www.bbc.co.uk/news/uk-england-northamptonshire-58003441) - Laney Holland had been visiting a patient when the gang threw eggs, flour and water at her car.
+11. [Lily Parr: Unseen photos show first women's football stars](https://www.bbc.co.uk/news/uk-england-manchester-57998587) - They show superstar striker Lily Parr and her teammates at the height of their success in the 1930s.
 12. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
 13. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
 14. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
