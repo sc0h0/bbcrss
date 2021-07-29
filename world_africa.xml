@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 13:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 13:24:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58002932</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58002932</guid>
             <pubDate>Thu, 29 Jul 2021 11:53:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia's Tigray crisis: Fighting escalates despite ceasefire]]></title>
+            <description><![CDATA[Forces in Amhara are battling rebels on three fronts along the border with Tigray, officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58013100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58013100</guid>
+            <pubDate>Thu, 29 Jul 2021 12:55:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[South Africa riots: The inside story of Durban's week of anarchy]]></title>
@@ -42,27 +49,6 @@
             <link>https://www.bbc.co.uk/sport/africa/58010359</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/africa/58010359</guid>
             <pubDate>Thu, 29 Jul 2021 09:15:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: German cycling boss Patrick Moster sent home after making racist remarks]]></title>
-            <description><![CDATA[Patrick Moster, the sports director of the German Cycling Union, has been sent home from the Olympics after making racist comments during Wednesday's men's road time trial.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58008797</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58008797</guid>
-            <pubDate>Thu, 29 Jul 2021 06:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malawi’s president Lazarus Chakwera defends bringing family to London summit]]></title>
-            <description><![CDATA[Malawi’s president has brought family members on a UK trip but says they were needed for the event.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57999922</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57999922</guid>
-            <pubDate>Wed, 28 Jul 2021 13:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tanzania's Samia Suluhu Hassan gets Covid jab in policy reverse]]></title>
-            <description><![CDATA[After the Covid scepticism of her predecessor, Tanzania's President Samia launches a vaccine campaign.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57996155</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57996155</guid>
-            <pubDate>Wed, 28 Jul 2021 11:18:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teodoro Nguema Obiang Mangue and his love of Bugattis and Michael Jackson]]></title>
@@ -121,6 +107,13 @@
             <pubDate>Fri, 23 Jul 2021 23:30:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Malawi’s president Lazarus Chakwera defends bringing family to London summit]]></title>
+            <description><![CDATA[Malawi’s president has brought family members on a UK trip but says they were needed for the event.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57999922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57999922</guid>
+            <pubDate>Wed, 28 Jul 2021 13:33:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics 2020: Refugee weightlifter Cyrille Tchatchet on his journey]]></title>
             <description><![CDATA[Cyrille Tchatchet has gone from despair to representing the Refugee Olympic Team in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/av/africa/57992047</link>
@@ -161,13 +154,6 @@
             <link>https://www.bbc.co.uk/news/world-57918698</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57918698</guid>
             <pubDate>Wed, 21 Jul 2021 23:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teenage skateboarder Boipelo Awuah is the youngest African at Tokyo 2020]]></title>
-            <description><![CDATA[Fifteen-year-old skateboarder Boipelo Awuah is the youngest African at Tokyo 2020. She explains how she got into the sport and why it feels so good to be at the Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/africa/57917473</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/africa/57917473</guid>
-            <pubDate>Thu, 22 Jul 2021 06:04:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
