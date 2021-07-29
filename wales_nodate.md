@@ -1,15 +1,15 @@
 1. [Llanelli boy 'didn't get enough support' from school before death](https://www.bbc.co.uk/news/uk-wales-58011859) - Byron John says his son Bradley "had a future that he wanted and yearned for".
-2. [LGBTQ: Wales' bid to be 'most friendly' nation in Europe](https://www.bbc.co.uk/news/uk-wales-57986732) - A new plan aims to make Wales "the most LGBTQ+ friendly" nation in Europe.
-3. [Olympics: Headstone bid for champion in unmarked grave](https://www.bbc.co.uk/news/uk-wales-58008948) - Cecil Griffiths died in poverty and his family could not afford a headstone for the relay winner.
-4. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58011880) - A yellow warning for wind covers large parts of the south Wales coast on Thursday and Friday.
-5. [Covid case rate falls for eighth consecutive day](https://www.bbc.co.uk/news/uk-wales-58009193) - Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.
-6. [Pilot's frustration at hotel quarantine during family bereavement](https://www.bbc.co.uk/news/uk-england-58011922) - Ryan Harris' tried to appeal so he could help search for his father-in-law but was refused.
-7. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
-8. [Anglesey farmer dies in pick-up truck crash](https://www.bbc.co.uk/news/uk-wales-58011879) - Police are appealing for witnesses and dashcam footage after single-vehicle crash on Anglesey.
-9. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
-10. [Death of Caerphilly lumberjack crushed by tree accidental](https://www.bbc.co.uk/news/uk-wales-58009263) - Ben Thomas was killed when a tree leaning against the one he had just cut down fell and crushed him.
-11. [Snowdon: Two women hit by lightning at mountain summit](https://www.bbc.co.uk/news/uk-wales-57999183) - Rescuers said the pair were "very lucky" to be alive after being hit by a lightning on Snowdon.
-12. [Swindon pair found guilty of trafficking vulnerable women](https://www.bbc.co.uk/news/uk-england-wiltshire-58015900) - Cristian Simion and Mihaela Borcos made about £70k after exploiting women who had come to the UK.
+2. [Sacked Dyfed-Powys Police PC made sexual comments about public](https://www.bbc.co.uk/news/uk-wales-58018185) - PC Simon England was struck off after his force appealed against an earlier decision not to sack him.
+3. [LGBTQ: Wales' bid to be 'most friendly' nation in Europe](https://www.bbc.co.uk/news/uk-wales-57986732) - A new plan aims to make Wales "the most LGBTQ+ friendly" nation in Europe.
+4. [Olympics: Headstone bid for champion in unmarked grave](https://www.bbc.co.uk/news/uk-wales-58008948) - Cecil Griffiths died in poverty and his family could not afford a headstone for the relay winner.
+5. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58011880) - A yellow warning for wind covers large parts of the south Wales coast on Thursday and Friday.
+6. [Covid case rate falls for eighth consecutive day](https://www.bbc.co.uk/news/uk-wales-58009193) - Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.
+7. [Pilot's frustration at hotel quarantine during family bereavement](https://www.bbc.co.uk/news/uk-england-58011922) - Ryan Harris' tried to appeal so he could help search for his father-in-law but was refused.
+8. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
+9. [Anglesey farmer dies in pick-up truck crash](https://www.bbc.co.uk/news/uk-wales-58011879) - Police are appealing for witnesses and dashcam footage after single-vehicle crash on Anglesey.
+10. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
+11. [Death of Caerphilly lumberjack crushed by tree accidental](https://www.bbc.co.uk/news/uk-wales-58009263) - Ben Thomas was killed when a tree leaning against the one he had just cut down fell and crushed him.
+12. [Snowdon: Two women hit by lightning at mountain summit](https://www.bbc.co.uk/news/uk-wales-57999183) - Rescuers said the pair were "very lucky" to be alive after being hit by a lightning on Snowdon.
 13. [Bradley John 'should be coming up to his 18th birthday'](https://www.bbc.co.uk/news/uk-wales-58019640) - Father of Bradley John, 14, says the fact he "took his life" at school is "very, very symbolic".
 14. [Talking Books Wales: How one woman helped so many blind people read](https://www.bbc.co.uk/news/uk-wales-58018316) - After losing her sight in her 30s, Rhian Evans says she "used that disability" to help others.
 15. [LGBTQ people 'need to be part of' Wales' awareness push](https://www.bbc.co.uk/news/uk-wales-58001743) - It is hoped a new plan will see LGBTQ+ rights made mainstream across schools and the public sector.
@@ -22,7 +22,7 @@
 22. [Tokyo Olympics: Athletes can light up Covid-hit Games, says Christian Malcolm](https://www.bbc.co.uk/sport/olympics/57983062) - UK Athletics head coach Christian Malcolm says the stars of track and field can "light up" the Olympics after the challenges brought by Covid-19.
 23. [Tokyo Olympics: Welsh rower Victoria Thornley says anything can happen in final](https://www.bbc.co.uk/sport/av/wales/58008425) - Welsh rower Victoria Thornley reaches her third consecutive Olympic rowing final in her third different boat.
 24. [Richard Jones, cerddor a chyfansoddwr Ail Symudiad, wedi marw](https://www.bbc.co.uk/newyddion/58005359) - Cerddor a chyfansoddwr grŵp Ail Symudiad, Richard Jones wedi marw, fis yn unig ar ôl ei frawd Wyn.
-25. ['Dwi eisiau byw fy mywyd yn ddibryder fel pawb arall'](https://www.bbc.co.uk/newyddion/58005355) - Sicrhau mai Cymru yw'r wlad fwyaf cyfeillgar i bobl LHDTC+ yn Ewrop yw nod Llywodraeth Cymru.
+25. [Storm Evert i daro mannau ar hyd arfordir de Cymru](https://www.bbc.co.uk/newyddion/58003946) - Dywed y Swyddfa Dywydd fod gwyntoedd o hyd at 65mya mewn mannau arfordirol yn debygol.
 26. [Torrwr coed wedi marw'n ddamweiniol, medd rheithgor](https://www.bbc.co.uk/newyddion/58014569) - Bu farw Ben Thomas wrth dorri coed mewn coedwig yn Sir Caerffili bron i bedair blynedd yn ôl.
 27. [Ble mae Safleoedd Treftadaeth UNESCO Cymru?](https://www.bbc.co.uk/newyddion/58011709) - Y mannau yng Nghymru sydd wedi ennill statws treftadaeth rhyngwladol
 28. [Morgannwg yn colli o un rhediad yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/58002068) - Boddi wrth ymyl y lan wnaeth Morgannwg yn erbyn Gwlad yr Hâf ar ôl i law fyrhau'r gêm.
