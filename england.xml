@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 11:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 11:20:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,14 @@
             <description><![CDATA[Andrew Devine died as a result of injuries he sustained 32 years earlier, a coroner concludes.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-58011373</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58011373</guid>
-            <pubDate>Thu, 29 Jul 2021 10:24:46 GMT</pubDate>
+            <pubDate>Thu, 29 Jul 2021 11:15:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parton landslide forces families from their homes]]></title>
-            <description><![CDATA[An investigation is under way at a coastal village after cracks were seen in a large hill.]]></description>
+            <description><![CDATA[Ten houses are evacuated and the main route through the village could be shut for six months.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-58011466</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-58011466</guid>
-            <pubDate>Thu, 29 Jul 2021 10:53:56 GMT</pubDate>
+            <pubDate>Thu, 29 Jul 2021 11:18:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vishal Mehrotra: Police scrapped plans for schoolboy murder appeal]]></title>
@@ -62,7 +62,7 @@
             <description><![CDATA[Robert William Crampton said he is hoping to be reunited with the hopeful note penned on his behalf.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58006173</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58006173</guid>
-            <pubDate>Thu, 29 Jul 2021 06:02:42 GMT</pubDate>
+            <pubDate>Thu, 29 Jul 2021 11:16:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stone man denies racially abusing Rio Ferdinand]]></title>
@@ -79,25 +79,18 @@
             <pubDate>Thu, 29 Jul 2021 07:37:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Alex Belfield: Former BBC presenter denies stalking charges]]></title>
+            <description><![CDATA[The former BBC Radio Leeds presenter is accused of stalking eight people.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58012030</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58012030</guid>
+            <pubDate>Thu, 29 Jul 2021 11:14:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Matty Sherrington's family 'overwhelmed' by support]]></title>
             <description><![CDATA[More than £6,500 has been raised following the death of 14-year-old Matty Sherrington.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tees-58009279</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-58009279</guid>
             <pubDate>Thu, 29 Jul 2021 08:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bolton death: Murder arrest after man's body found in home]]></title>
-            <description><![CDATA[Police are treating the death of 46-year-old David Jones in Bolton as "unexplained".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58009735</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58009735</guid>
-            <pubDate>Thu, 29 Jul 2021 07:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mikey Poulli: The young blind footballer backed by star players]]></title>
-            <description><![CDATA[Mikey Poulli, who lost his sight due to a rare degenerative condition, dreams of playing for England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57987451</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57987451</guid>
-            <pubDate>Wed, 28 Jul 2021 23:05:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lily Parr: Unseen photos show first women's football stars]]></title>
@@ -142,6 +135,13 @@
             <pubDate>Mon, 19 Jul 2021 09:34:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mikey Poulli: The young blind footballer backed by star players]]></title>
+            <description><![CDATA[Mikey Poulli, who lost his sight due to a rare degenerative condition, dreams of playing for England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57987451</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57987451</guid>
+            <pubDate>Wed, 28 Jul 2021 23:05:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Leicester asylum seeker: 'My allotment saved my life']]></title>
             <description><![CDATA[Joel Chitsa says gardening helped deal with the pain of being forced to leave Zimbabwe.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-57931064</link>
@@ -149,7 +149,7 @@
             <pubDate>Thu, 29 Jul 2021 05:23:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I wouldn't pay £4 to walk up a hill']]></title>
+            <title><![CDATA[Marble Arch Mound: 'I wouldn't pay £4 to walk up a hill']]></title>
             <description><![CDATA[The public reacts to London's newest tourist attraction, which is facing complaints of being incomplete.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58001770</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58001770</guid>
@@ -168,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58004513</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58004513</guid>
             <pubDate>Wed, 28 Jul 2021 16:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Channel crossings: RNLI release footage of rescue]]></title>
-            <description><![CDATA[The video shows about 12 people, including young children, in a dinghy being pulled to safety.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-57999386</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57999386</guid>
-            <pubDate>Wed, 28 Jul 2021 12:23:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: Thorpe Park in Surrey opens pop-up clinic]]></title>
@@ -209,7 +202,7 @@
             <description><![CDATA[Matthew Coward-Holley claims Great Britain's 17th medal of the Tokyo Olympics with bronze in the men's trap shooting final.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58008798</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58008798</guid>
-            <pubDate>Thu, 29 Jul 2021 08:11:38 GMT</pubDate>
+            <pubDate>Thu, 29 Jul 2021 11:12:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
