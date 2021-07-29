@@ -6,7 +6,7 @@
 6. [Lost Morecambe and Wise Show a 'huge discovery'](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-57989461) - A tape of the BBC show was thought lost, but found by Eric Morecambe's son in the family attic.
 7. [Little Mix waxworks unveiled at Madame Tussauds](https://www.bbc.co.uk/news/uk-england-tyne-58004244) - The exhibition includes a waxwork of Jesy Nelson, who left the group in December.
 8. [Rapper DaBaby apologises for HIV comments as Boohoo drops him](https://www.bbc.co.uk/news/newsbeat-57999121) - And Boohoo has ended its clothing deal with the rapper as the latest critic of his onstage comments.
-9. [Bob Odenkirk: Better Call Saul star collapses on set of Breaking Bad spin-off](https://www.bbc.co.uk/news/entertainment-arts-57996085) - The US actor was reportedly rushed to hospital in Los Angeles after being taken ill in New Mexico.
+9. [Bob Odenkirk: Better Call Saul star collapses on set of Breaking Bad spin-off](https://www.bbc.co.uk/news/entertainment-arts-57996085) - The US actor was reportedly rushed to hospital in Albuquerque after being taken ill in New Mexico.
 10. [Delia Smith buys Nick Chinnery's Norwich paintings series](https://www.bbc.co.uk/news/uk-england-norfolk-58000875) - Nick Chinnery, who only started painting in 2017, says it is "fantastic" to have sold his entire set.
 11. [Wu-Tang Clan album bought by Martin Shkreli sold by US government](https://www.bbc.co.uk/news/world-us-canada-57992807) - The album was handed over as part of a $7.4m deal with a notorious former drug firm executive.
 12. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.
