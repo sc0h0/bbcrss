@@ -1,4 +1,4 @@
-1. [Daphne Caruana Galizia: Malta responsible for journalist death - inquiry](https://www.bbc.co.uk/news/world-europe-58012903) - A report quoted by Maltese media says officials could have prevented Daphne Caruana Galizia's 2017 murder.
+1. [Daphne Caruana Galizia: Malta responsible for journalist death - inquiry](https://www.bbc.co.uk/news/world-europe-58012903) - The results of an inquiry say officials could have prevented Daphne Caruana Galizia's 2017 murder.
 2. [Covid: Stalled Russian vaccines cause global anger](https://www.bbc.co.uk/news/world-europe-58003893) - Deliveries of Russia's Sputnik V vaccine have fallen far below expectations.
 3. [UK already undergoing disruptive climate change](https://www.bbc.co.uk/news/science-environment-57988023) - Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.
 4. [Tokyo Olympics rowing: Ireland's Paul O'Donovan & Fintan McCarthy win lightweight men's double sculls](https://www.bbc.co.uk/sport/olympics/58007573) - Ireland win their first gold medal of the Tokyo 2020 Olympic Games as Paul O'Donovan and Fintan McCarthy claim the lightweight men's double sculls.

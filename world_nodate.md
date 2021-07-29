@@ -1,4 +1,4 @@
-1. [Daphne Caruana Galizia: Malta responsible for journalist death - inquiry](https://www.bbc.co.uk/news/world-europe-58012903) - A report quoted by Maltese media says officials could have prevented Daphne Caruana Galizia's 2017 murder.
+1. [Daphne Caruana Galizia: Malta responsible for journalist death - inquiry](https://www.bbc.co.uk/news/world-europe-58012903) - The results of an inquiry say officials could have prevented Daphne Caruana Galizia's 2017 murder.
 2. [American Lee takes gold as Biles watches on](https://www.bbc.co.uk/sport/olympics/58009885) - American Sunisa Lee takes gymnastics all-around gold at the Olympics as defending champion Simone Biles watches from the stands after withdrawing to prioritise her mental health.
 3. [Afghanistan Taliban: Flash flooding kills dozens in remote province](https://www.bbc.co.uk/news/world-asia-58017439) - At least 60 people die and many are missing in a remote area controlled by Islamist militants.
 4. [PM says education is universal cure despite aid row](https://www.bbc.co.uk/news/education-58006728) - A global summit raises £2.9bn to support education in some of the world's poorest countries.

@@ -2,7 +2,7 @@
 2. [Covid: Professor Jonathan Van-Tam answers your questions](https://www.bbc.co.uk/news/uk-58020100) - The deputy chief medical officer answers a range of questions about Covid from young audience members.
 3. [Covid-19: Jabs prevented 60,000 deaths analysis suggests, as pings hit new record](https://www.bbc.co.uk/news/uk-58016293) - Five things you need to know about the coronavirus pandemic this Thursday evening.
 4. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
-5. [Daphne Caruana Galizia: Malta responsible for journalist death - inquiry](https://www.bbc.co.uk/news/world-europe-58012903) - A report quoted by Maltese media says officials could have prevented Daphne Caruana Galizia's 2017 murder.
+5. [Daphne Caruana Galizia: Malta responsible for journalist death - inquiry](https://www.bbc.co.uk/news/world-europe-58012903) - The results of an inquiry say officials could have prevented Daphne Caruana Galizia's 2017 murder.
 6. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
 7. [GB win canoe slalom silver and shooting bronze](https://www.bbc.co.uk/sport/olympics/58009952) - Mallory Franklin wins canoe slalom silver and shooter Matthew Coward-Holley claims trap bronze for Team GB on day six of the Olympics.
 8. [Storm Evert: South West braces for 75mph winds and heavy rain](https://www.bbc.co.uk/news/uk-england-cornwall-58010633) - Heavy rain and strong winds are expected to hit the region.
