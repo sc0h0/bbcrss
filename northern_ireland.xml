@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 10:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 10:30:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,20 +72,6 @@
             <pubDate>Thu, 29 Jul 2021 07:13:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ardoyne: Woman arrested over murder of baby in Belfast]]></title>
-            <description><![CDATA[A second child is in intensive care in hospital after the incident at a house in the Ardoyne area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57992425</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57992425</guid>
-            <pubDate>Wed, 28 Jul 2021 20:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: How is furlough changing and when will it end?]]></title>
-            <description><![CDATA[Employers will contribute more to the cost of keeping their staff furloughed from 1 August.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
-            <pubDate>Thu, 29 Jul 2021 09:50:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Stormont 'ignored women's needs' in pandemic response]]></title>
             <description><![CDATA[The Women's Policy Group wants ministers to help provide better childcare and workplace equality.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58005429</link>
@@ -98,6 +84,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58001773</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58001773</guid>
             <pubDate>Wed, 28 Jul 2021 17:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How is furlough changing and when will it end?]]></title>
+            <description><![CDATA[Employers will contribute more to the cost of keeping their staff furloughed from 1 August.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
+            <pubDate>Thu, 29 Jul 2021 09:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ardoyne: Woman arrested over murder of baby in Belfast]]></title>
+            <description><![CDATA[A second child is in intensive care in hospital after the incident at a house in the Ardoyne area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57992425</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57992425</guid>
+            <pubDate>Wed, 28 Jul 2021 20:07:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Three more deaths and 1,600 new cases in NI]]></title>

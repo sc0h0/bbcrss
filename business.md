@@ -1,4 +1,4 @@
-1. [Under-25s exit furlough fastest as scheme nears end](https://www.bbc.co.uk/news/business-57981760) - Thu, 29 Jul 2021 09:26:53 GMT - The number of people on furlough is now at its lowest level since the start of the pandemic.
+1. [Fewest people on furlough since pandemic began](https://www.bbc.co.uk/news/business-57981760) - Thu, 29 Jul 2021 10:23:46 GMT - Under-25s are coming off furlough twice as fast as all other age brackets, says the Treasury.
 2. [Drug firm fined for huge price rise that hit NHS](https://www.bbc.co.uk/news/business-58009149) - Thu, 29 Jul 2021 10:13:41 GMT - Advanz pushed up the price of thyroid tablet packs more than 10-fold, says the competition watchdog.
 3. ['We lost our life savings in a cryptocurrency scam'](https://www.bbc.co.uk/news/business-57983458) - Wed, 28 Jul 2021 23:03:30 GMT - A pensioner caught up in an investment saga lost it all, prompting warnings to others.
 4. [Netflix US cast and crew must be vaccinated to work](https://www.bbc.co.uk/news/business-58006810) - Thu, 29 Jul 2021 08:59:27 GMT - The online streaming firm is the latest company to make Covid jabs mandatory for workers.

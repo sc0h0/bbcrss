@@ -1,4 +1,4 @@
-1. [Under-25s exit furlough fastest as scheme nears end](https://www.bbc.co.uk/news/business-57981760) - The number of people on furlough is now at its lowest level since the start of the pandemic.
+1. [Fewest people on furlough since pandemic began](https://www.bbc.co.uk/news/business-57981760) - Under-25s are coming off furlough twice as fast as all other age brackets, says the Treasury.
 2. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
 3. [Global education summit targets pandemic-hit schooling](https://www.bbc.co.uk/news/education-58006728) - A summit in London is raising aid to support 175 million children in the poorest countries.
 4. [UK already undergoing disruptive climate change](https://www.bbc.co.uk/news/science-environment-57988023) - Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.
