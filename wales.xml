@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 20:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 21:03:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid in Wales: Self-isolation rules to ease for double jabbed]]></title>
+            <description><![CDATA[Fully vaccinated contacts of positive Covid cases will not have to isolate from 7 August.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-58013131</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-58013131</guid>
+            <pubDate>Thu, 29 Jul 2021 21:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Freshwater East: Callum Jones left paralysed after diving into sea]]></title>
             <description><![CDATA[Callum Jones ran into the water and dived in, hitting something beneath the surface.]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58011879</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58011879</guid>
             <pubDate>Thu, 29 Jul 2021 16:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022]]></title>
-            <description><![CDATA[The star of the BBC sci-fi drama series will bow out with a trio of specials.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57940451</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57940451</guid>
-            <pubDate>Thu, 29 Jul 2021 14:00:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Death of Caerphilly lumberjack crushed by tree accidental]]></title>
@@ -177,6 +177,13 @@
             <pubDate>Thu, 29 Jul 2021 06:40:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dim angen hunan-ynysu os ydych wedi'ch brechu'n llawn]]></title>
+            <description><![CDATA[Llywodraeth Cymru'n cyhoeddi newid i'r rheolau ar hunan-ynysu fydd mewn grym o 7 Awst ymlaen.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58019282</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58019282</guid>
+            <pubDate>Thu, 29 Jul 2021 21:00:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd']]></title>
             <description><![CDATA[Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".]]></description>
             <link>https://www.bbc.co.uk/newyddion/58003945</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/newyddion/58005359</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58005359</guid>
             <pubDate>Thu, 29 Jul 2021 20:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storm Evert i daro mannau ar hyd arfordir de Cymru]]></title>
-            <description><![CDATA[Dywed y Swyddfa Dywydd fod gwyntoedd o hyd at 65mya mewn mannau arfordirol yn debygol.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58003946</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58003946</guid>
-            <pubDate>Thu, 29 Jul 2021 17:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ble mae Safleoedd Treftadaeth UNESCO Cymru?]]></title>

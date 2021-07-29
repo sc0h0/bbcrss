@@ -1,14 +1,14 @@
-1. [Freshwater East: Callum Jones left paralysed after diving into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and dived in, hitting something beneath the surface.
-2. [Llanelli boy 'didn't get enough support' from school before death](https://www.bbc.co.uk/news/uk-wales-58011859) - Byron John says his son Bradley "had a future that he wanted and yearned for".
-3. [Sacked Dyfed-Powys Police PC made sexual comments about public](https://www.bbc.co.uk/news/uk-wales-58018185) - PC Simon England was struck off after his force appealed against an earlier decision not to sack him.
-4. [LGBTQ: Wales' bid to be 'most friendly' nation in Europe](https://www.bbc.co.uk/news/uk-wales-57986732) - A new plan aims to make Wales "the most LGBTQ+ friendly" nation in Europe.
-5. [Olympics: Headstone bid for champion in unmarked grave](https://www.bbc.co.uk/news/uk-wales-58008948) - Cecil Griffiths died in poverty and his family could not afford a headstone for the relay winner.
-6. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58011880) - A yellow warning for wind covers large parts of the south Wales coast on Thursday and Friday.
-7. [Covid case rate falls for eighth consecutive day](https://www.bbc.co.uk/news/uk-wales-58009193) - Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.
-8. [Pilot's frustration at hotel quarantine during family bereavement](https://www.bbc.co.uk/news/uk-england-58011922) - Ryan Harris' tried to appeal so he could help search for his father-in-law but was refused.
-9. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
-10. [Anglesey farmer dies in pick-up truck crash](https://www.bbc.co.uk/news/uk-wales-58011879) - Police are appealing for witnesses and dashcam footage after single-vehicle crash on Anglesey.
-11. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
+1. [Covid in Wales: Self-isolation rules to ease for double jabbed](https://www.bbc.co.uk/news/uk-wales-politics-58013131) - Fully vaccinated contacts of positive Covid cases will not have to isolate from 7 August.
+2. [Freshwater East: Callum Jones left paralysed after diving into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and dived in, hitting something beneath the surface.
+3. [Llanelli boy 'didn't get enough support' from school before death](https://www.bbc.co.uk/news/uk-wales-58011859) - Byron John says his son Bradley "had a future that he wanted and yearned for".
+4. [Sacked Dyfed-Powys Police PC made sexual comments about public](https://www.bbc.co.uk/news/uk-wales-58018185) - PC Simon England was struck off after his force appealed against an earlier decision not to sack him.
+5. [LGBTQ: Wales' bid to be 'most friendly' nation in Europe](https://www.bbc.co.uk/news/uk-wales-57986732) - A new plan aims to make Wales "the most LGBTQ+ friendly" nation in Europe.
+6. [Olympics: Headstone bid for champion in unmarked grave](https://www.bbc.co.uk/news/uk-wales-58008948) - Cecil Griffiths died in poverty and his family could not afford a headstone for the relay winner.
+7. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58011880) - A yellow warning for wind covers large parts of the south Wales coast on Thursday and Friday.
+8. [Covid case rate falls for eighth consecutive day](https://www.bbc.co.uk/news/uk-wales-58009193) - Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.
+9. [Pilot's frustration at hotel quarantine during family bereavement](https://www.bbc.co.uk/news/uk-england-58011922) - Ryan Harris' tried to appeal so he could help search for his father-in-law but was refused.
+10. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
+11. [Anglesey farmer dies in pick-up truck crash](https://www.bbc.co.uk/news/uk-wales-58011879) - Police are appealing for witnesses and dashcam footage after single-vehicle crash on Anglesey.
 12. [Death of Caerphilly lumberjack crushed by tree accidental](https://www.bbc.co.uk/news/uk-wales-58009263) - Ben Thomas was killed when a tree leaning against the one he had just cut down fell and crushed him.
 13. [Bradley John 'should be coming up to his 18th birthday'](https://www.bbc.co.uk/news/uk-wales-58019640) - Father of Bradley John, 14, says the fact he "took his life" at school is "very, very symbolic".
 14. [Talking Books Wales: How one woman helped so many blind people read](https://www.bbc.co.uk/news/uk-wales-58018316) - After losing her sight in her 30s, Rhian Evans says she "used that disability" to help others.
@@ -21,8 +21,8 @@
 21. [Calum Jarvis: The fifth man of Team GB's 4x200m freestyle relay gold at Tokyo Olympics](https://www.bbc.co.uk/sport/olympics/58012510) - He did not swim in the Olympic 4x200m freestyle relay final, but Calum Jarvis will return from Tokyo with a gold medal.
 22. [Tokyo Olympics: Athletes can light up Covid-hit Games, says Christian Malcolm](https://www.bbc.co.uk/sport/olympics/57983062) - UK Athletics head coach Christian Malcolm says the stars of track and field can "light up" the Olympics after the challenges brought by Covid-19.
 23. [Tokyo Olympics: Welsh rower Victoria Thornley says anything can happen in final](https://www.bbc.co.uk/sport/av/wales/58008425) - Welsh rower Victoria Thornley reaches her third consecutive Olympic rowing final in her third different boat.
-24. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
-25. [Richard Jones, cerddor a chyfansoddwr Ail Symudiad, wedi marw](https://www.bbc.co.uk/newyddion/58005359) - Cerddor a chyfansoddwr grŵp Ail Symudiad, Richard Jones wedi marw, fis yn unig ar ôl ei frawd Wyn.
-26. [Storm Evert i daro mannau ar hyd arfordir de Cymru](https://www.bbc.co.uk/newyddion/58003946) - Dywed y Swyddfa Dywydd fod gwyntoedd o hyd at 65mya mewn mannau arfordirol yn debygol.
+24. [Dim angen hunan-ynysu os ydych wedi'ch brechu'n llawn](https://www.bbc.co.uk/newyddion/58019282) - Llywodraeth Cymru'n cyhoeddi newid i'r rheolau ar hunan-ynysu fydd mewn grym o 7 Awst ymlaen.
+25. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
+26. [Richard Jones, cerddor a chyfansoddwr Ail Symudiad, wedi marw](https://www.bbc.co.uk/newyddion/58005359) - Cerddor a chyfansoddwr grŵp Ail Symudiad, Richard Jones wedi marw, fis yn unig ar ôl ei frawd Wyn.
 27. [Ble mae Safleoedd Treftadaeth UNESCO Cymru?](https://www.bbc.co.uk/newyddion/58011709) - Y mannau yng Nghymru sydd wedi ennill statws treftadaeth rhyngwladol
 28. [Cyngres Europa: Y Seintiau drwodd ond Cei Connah allan](https://www.bbc.co.uk/newyddion/58003948) - Y Seintiau'n rhoi crasfa i dîm o Lithwania, ond Cei Connah allan er gwaethaf buddugoliaeth.
