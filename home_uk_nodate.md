@@ -1,8 +1,8 @@
 1. [UK already undergoing disruptive climate change](https://www.bbc.co.uk/news/science-environment-57988023) - Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.
 2. [Simone Biles thankful for love and support](https://www.bbc.co.uk/sport/olympics/58008278) - US gymnast Simone Biles reacts to the widespread support she has received after withdrawing from Thursday's all-around final.
 3. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
-4. [Hillsborough's 97th victim was unlawfully killed, coroner concludes](https://www.bbc.co.uk/news/uk-england-merseyside-58011373) - Andrew Devine died as a result of injuries he sustained 32 years earlier, a coroner concludes.
-5. [Actor Bob Odenkirk 'stable' after collapsing on set](https://www.bbc.co.uk/news/entertainment-arts-58009727) - The US actor is still in hospital after being rushed there from the set of Better Call Saul.
+4. [Actor Bob Odenkirk 'stable' after collapsing on set](https://www.bbc.co.uk/news/entertainment-arts-58009727) - The US actor is still in hospital after being rushed there from the set of Better Call Saul.
+5. [Hillsborough's 97th victim was unlawfully killed, coroner concludes](https://www.bbc.co.uk/news/uk-england-merseyside-58011373) - Andrew Devine died as a result of injuries he sustained 32 years earlier, a coroner concludes.
 6. [Fewest people on furlough since pandemic began](https://www.bbc.co.uk/news/business-57981760) - Under-25s are coming off furlough twice as fast as all other age brackets, says the Treasury.
 7. [Netflix US cast and crew must be vaccinated to work](https://www.bbc.co.uk/news/business-58006810) - The online streaming firm is the latest company to make Covid jabs mandatory for workers.
 8. ['We lost our life savings in a cryptocurrency scam'](https://www.bbc.co.uk/news/business-57983458) - A pensioner caught up in an investment saga lost it all, prompting warnings to others.
@@ -66,7 +66,7 @@
 66. [Covid vaccines: How fast is progress around the world?](https://www.bbc.co.uk/news/world-56237778) - Charts and maps tracking the progress of Covid vaccination programmes.
 67. [Covid vaccine: How many people in the UK have been vaccinated so far?](https://www.bbc.co.uk/news/health-55274833) - The progress made in vaccinating the country's adult population, as more than 46 million people have received at least one dose.
 68. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
-69. [Coronavirus: How does the NHS test-and-trace system and app work?](https://www.bbc.co.uk/news/explainers-52442754) - The contact tracing app could be changed to make it less sensitive, so it sends fewer alerts.
+69. [Coronavirus: How does the NHS test-and-trace system and app work?](https://www.bbc.co.uk/news/explainers-52442754) - A record number of alerts are being sent by the NHS Covid app.
 70. [Care homes worst hit by Covid – search the data ](https://www.bbc.co.uk/news/uk-politics-57905821) - Figures from Care Quality Commission lay out the pandemic's 'devastating impact' on care homes in England.
 71. [Covid map: Coronavirus cases, deaths, vaccinations by country](https://www.bbc.co.uk/news/world-51235105) - Key maps and charts explaining how the virus has spread around the world.
 72. [Tokyo Olympic Games: When are they and how will Covid affect them?](https://www.bbc.co.uk/news/world-asia-57240044) - The Tokyo Summer Olympics have begun, despite a surge in Covid cases in Japan.

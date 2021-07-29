@@ -1,4 +1,4 @@
-1. [NHS Covid-19 app pings rise by over 70,000](https://www.bbc.co.uk/news/technology-57970603) - Thu, 29 Jul 2021 10:09:15 GMT - Nearly 690,000 people in England and Wales received self-isolation alerts in the week up to 21 July.
+1. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - Thu, 29 Jul 2021 11:04:03 GMT - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
 2. [Fresh warning over rip-off locator forms on Google](https://www.bbc.co.uk/news/technology-58001205) - Thu, 29 Jul 2021 00:01:31 GMT - 'Devious' sites which charge money for a free passenger locator form top search engine results.
 3. [Google app charges targeted by mass legal claim](https://www.bbc.co.uk/news/technology-57996912) - Thu, 29 Jul 2021 06:50:40 GMT - A new legal action seeks compensation for all UK Android users who buy apps on Google Play.
 4. [Facebook warns growth set to slow 'significantly'](https://www.bbc.co.uk/news/business-58006689) - Wed, 28 Jul 2021 21:32:06 GMT - The technology giant said on Wednesday that the third and fourth quarters would see advertising sales drop.
