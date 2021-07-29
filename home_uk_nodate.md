@@ -7,7 +7,7 @@
 7. [Drug firm fined for huge price rise that hit NHS](https://www.bbc.co.uk/news/business-58009149) - Advanz pushed up the price of thyroid tablet packs more than 10-fold, says the competition watchdog.
 8. [Outspoken billionaire Sun Dawu jailed for 18 years in China](https://www.bbc.co.uk/news/world-asia-china-58007515) - Sun Dawu has in the past been vocal in criticising authorities and has spoken out about human rights.
 9. [Vishal Mehrotra: Police scrapped plans for schoolboy murder appeal](https://www.bbc.co.uk/news/uk-england-sussex-57995512) - The father of a murdered boy says a police decision not to appeal for information is "disgusting".
-10. [Google workers will need Covid jabs to return to office](https://www.bbc.co.uk/news/business-58006810) - The search engine says it will roll the policy out globally across its offices in the coming months.
+10. [Netflix to ask US cast and crew to get vaccinated](https://www.bbc.co.uk/news/business-58006810) - The online streaming firm is the latest company to make Covid jabs mandatory for workers.
 11. [Fresh warning over rip-off locator forms on Google](https://www.bbc.co.uk/news/technology-58001205) - 'Devious' sites which charge money for a free passenger locator form top search engine results.
 12. [The Papers: Travel 'hope' and 'health risk' over quarantine end](https://www.bbc.co.uk/news/blogs-the-papers-58006958) - The papers cover the impact of the decision to ease quarantine for vaccinated US and EU travellers.
 13. [Author of Christmas letter to Santa found by Worksop chimney sweeps revealed](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58006173) - Robert William Crampton said he is hoping to be reunited with the hopeful note penned on his behalf.
