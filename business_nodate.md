@@ -1,9 +1,9 @@
 1. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.
 2. ['I was asked how often I use the toilet'](https://www.bbc.co.uk/news/business-58020735) - Disabled jobseekers have to overcome too many barriers, MPs say.
 3. [Empty shop numbers rise as Covid continues to bite](https://www.bbc.co.uk/news/business-58007313) - The number of vacant shops continues to rise after a year of lockdowns, the BRC says.
-4. [Amazon predicts slower sales growth as Covid boost eases](https://www.bbc.co.uk/news/business-58020895) - The tech giant says third quarter sales growth will be slower as customers return to physical shops.
-5. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
-6. [Bumble to give staff unlimited paid leave](https://www.bbc.co.uk/news/business-57997445) - The dating app's policy is subject to manager approval and comes after the firm shut down for a week.
+4. [Bumble to give staff unlimited paid holiday](https://www.bbc.co.uk/news/business-57997445) - The dating app's policy is subject to manager approval and comes after the firm shut down for a week.
+5. [Amazon predicts slower sales growth as Covid boost eases](https://www.bbc.co.uk/news/business-58020895) - The tech giant says third quarter sales growth will be slower as customers return to physical shops.
+6. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
 7. [Shareholder dissent grows over Morrison's takeover bid](https://www.bbc.co.uk/news/business-58018966) - More shareholders are coming out against a proposed £6.3bn deal for the supermarket chain.
 8. [Robinhood has a muted stock market debut](https://www.bbc.co.uk/news/business-57997450) - Shares in the online trading platform fell in its first day of trading in a lacklustre debut.
 9. [US economic growth 'disappoints' as Covid surges](https://www.bbc.co.uk/news/business-58007120) - The world's largest economy grew by 6.5% in the second quarter but fell short of forecasts.

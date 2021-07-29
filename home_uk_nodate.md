@@ -1,7 +1,7 @@
-1. [Jabs prevented 60,000 Covid deaths and 22m cases - Van-Tam](https://www.bbc.co.uk/news/newsbeat-58014546) - He says future lockdowns are less likely the more people, including 18-25-year olds, get vaccinated.
-2. [Covid-19: Biden tells states to offer $100 vaccine incentive as cases rise](https://www.bbc.co.uk/news/world-us-canada-58020090) - The US president also announced that all federal workers must be vaccinated or subjected to testing.
-3. [Nightclubs start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
-4. [Migrant women and babies held in shocking conditions, MPs find](https://www.bbc.co.uk/news/uk-58019981) - A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.
+1. [Pregnant women urged to get jab as majority unvaccinated](https://www.bbc.co.uk/news/health-58014779) - Estimates suggest that hundreds of thousands of pregnant women in England have not yet had the vaccine.
+2. [Nightclubs start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
+3. [Migrant women and babies held in shocking conditions, MPs find](https://www.bbc.co.uk/news/uk-58019981) - A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.
+4. [Covid-19: Biden tells states to offer $100 vaccine incentive as cases rise](https://www.bbc.co.uk/news/world-us-canada-58020090) - The US president also announced that all federal workers must be vaccinated or subjected to testing.
 5. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
 6. [Marcus Coutain: Knee-on-neck arrest PC will not face disciplinary action](https://www.bbc.co.uk/news/uk-england-london-58017384) - Footage showed Marcus Coutain asking an officer to "get off my neck" during his arrest in July 2020.
 7. [Storm Evert: South West braces for 75mph winds and heavy rain](https://www.bbc.co.uk/news/uk-england-cornwall-58010633) - Heavy rain and strong winds are expected to hit the region.
@@ -9,7 +9,7 @@
 9. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.
 10. [Settlement in Canadian wrong sperm lawsuit](https://www.bbc.co.uk/news/world-us-canada-58017079) - Former fertility doctor Norman Barwin used his own or unknown sperm to impregnate patients.
 11. [Empty shop numbers rise as Covid continues to bite](https://www.bbc.co.uk/news/business-58007313) - The number of vacant shops continues to rise after a year of lockdowns, the BRC says.
-12. [Bumble to give staff unlimited paid leave](https://www.bbc.co.uk/news/business-57997445) - The dating app's policy is subject to manager approval and comes after the firm shut down for a week.
+12. [Bumble to give staff unlimited paid holiday](https://www.bbc.co.uk/news/business-57997445) - The dating app's policy is subject to manager approval and comes after the firm shut down for a week.
 13. [The Papers: 'No jab, no job' threat and 'red alert' for travel](https://www.bbc.co.uk/news/blogs-the-papers-58020875) - The papers cover concerns about compulsory vaccination at work and possible changes to travel rules.
 14. [Mikey Poulli: The young blind footballer backed by star players](https://www.bbc.co.uk/news/uk-england-london-57987451) - Mikey Poulli, who lost his sight due to a rare degenerative condition, dreams of playing for England.
 15. [Disease killing 'Europe's oldest' elm tree](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58013952) - Believed to almost 800 years old, the Beauly elm has been laser scanned as part of work to document it.
