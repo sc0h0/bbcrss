@@ -25,4 +25,4 @@
 25. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Thu, 29 Jul 2021 18:47:30 GMT - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
 26. [Storm Evert i daro mannau ar hyd arfordir de Cymru](https://www.bbc.co.uk/newyddion/58003946) - Thu, 29 Jul 2021 17:52:52 GMT - Dywed y Swyddfa Dywydd fod gwyntoedd o hyd at 65mya mewn mannau arfordirol yn debygol.
 27. [Ble mae Safleoedd Treftadaeth UNESCO Cymru?](https://www.bbc.co.uk/newyddion/58011709) - Thu, 29 Jul 2021 12:03:33 GMT - Y mannau yng Nghymru sydd wedi ennill statws treftadaeth rhyngwladol
-28. [Morgannwg yn colli o un rhediad yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/58002068) - Wed, 28 Jul 2021 18:07:58 GMT - Boddi wrth ymyl y lan wnaeth Morgannwg yn erbyn Gwlad yr Hâf ar ôl i law fyrhau'r gêm.
+28. [Y Seintiau Newydd yn rhoi crasfa i dîm o Lithwania](https://www.bbc.co.uk/newyddion/58003948) - Thu, 29 Jul 2021 19:19:59 GMT - Y Cymry drwodd i drydedd rownd Cyngres Europa ar ôl trechu FK Kauno Zalgiris o 10-1 dros ddau gymal.

@@ -25,4 +25,4 @@
 25. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
 26. [Storm Evert i daro mannau ar hyd arfordir de Cymru](https://www.bbc.co.uk/newyddion/58003946) - Dywed y Swyddfa Dywydd fod gwyntoedd o hyd at 65mya mewn mannau arfordirol yn debygol.
 27. [Ble mae Safleoedd Treftadaeth UNESCO Cymru?](https://www.bbc.co.uk/newyddion/58011709) - Y mannau yng Nghymru sydd wedi ennill statws treftadaeth rhyngwladol
-28. [Morgannwg yn colli o un rhediad yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/58002068) - Boddi wrth ymyl y lan wnaeth Morgannwg yn erbyn Gwlad yr Hâf ar ôl i law fyrhau'r gêm.
+28. [Y Seintiau Newydd yn rhoi crasfa i dîm o Lithwania](https://www.bbc.co.uk/newyddion/58003948) - Y Cymry drwodd i drydedd rownd Cyngres Europa ar ôl trechu FK Kauno Zalgiris o 10-1 dros ddau gymal.
