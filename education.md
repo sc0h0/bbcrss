@@ -1,4 +1,4 @@
-1. [Richer parents pressured teachers on exam grades](https://www.bbc.co.uk/news/education-57999790) - Wed, 28 Jul 2021 23:01:11 GMT - Sharp-elbowed parents have chased better grades in this year's replacement exams, a study says.
+1. [Richer parents pressure teachers on exam grades](https://www.bbc.co.uk/news/education-57999790) - Wed, 28 Jul 2021 23:01:11 GMT - Sharp-elbowed parents have chased better grades in this year's replacement exams, a study says.
 2. [Reckless to scrap BTecs, educators warn](https://www.bbc.co.uk/news/education-57996697) - Wed, 28 Jul 2021 23:55:06 GMT - The government is urged to rethink its plans to introduce new technical qualifications in England.
 3. [MPs call for national register of home-educated children](https://www.bbc.co.uk/news/education-57974170) - Tue, 27 Jul 2021 13:41:14 GMT - They say the government must "get a grip" on the number of children taught at home in England.
 4. [National Adoption Strategy: £48m to improve services in England](https://www.bbc.co.uk/news/uk-57962679) - Mon, 26 Jul 2021 09:15:52 GMT - A new National Adoption Strategy aims to enhance support to families and end a postcode lottery.
