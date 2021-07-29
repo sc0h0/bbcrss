@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 14:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 14:39:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,6 +100,13 @@
             <pubDate>Wed, 28 Jul 2021 23:05:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[In pictures: International Tiger Day 2021]]></title>
+            <description><![CDATA[The annual event aims to raise awareness around the endangered big cats.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-58012200</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-58012200</guid>
+            <pubDate>Thu, 29 Jul 2021 14:12:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rare Harry Potter book sells for £80k at Leyburn auction]]></title>
             <description><![CDATA[The volume sold at auction in North Yorkshire for almost three times its estimated price.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58003050</link>
@@ -147,41 +154,6 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58006958</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58006958</guid>
             <pubDate>Thu, 29 Jul 2021 05:05:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arthur: Popular children's show to end after 25 years]]></title>
-            <description><![CDATA[US public broadcaster PBS confirmed the final episode will air in winter 2022.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58005458</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58005458</guid>
-            <pubDate>Wed, 28 Jul 2021 21:32:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aerial dancers enjoy striking Honister sunrise performance]]></title>
-            <description><![CDATA[Three aerial dancers suspend themselves from 1,000ft (305m) up for a routine in the Lake District.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58002734</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-58002734</guid>
-            <pubDate>Wed, 28 Jul 2021 14:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tidal turbine in Orkney starts generating power]]></title>
-            <description><![CDATA[The device, anchored in waters off Orkney, is now connected to the grid.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57991442</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57991442</guid>
-            <pubDate>Wed, 28 Jul 2021 05:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Medal for GP who came out of retirement to treat patients]]></title>
-            <description><![CDATA[A GP who came out of retirement to treat patients in the pandemic is awarded a medal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-57998509</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-57998509</guid>
-            <pubDate>Wed, 28 Jul 2021 15:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: German gymnasts' full-body suits inspire other athletes]]></title>
-            <description><![CDATA[British-Jamaican gymnast Danusia Francis believes athletes should have a choice over their outfits.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57978134</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57978134</guid>
-            <pubDate>Tue, 27 Jul 2021 23:01:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pingdemic: Bar staff being told to delete NHS Covid-19 app]]></title>
