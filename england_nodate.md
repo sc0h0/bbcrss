@@ -2,7 +2,7 @@
 2. [Parton landslide forces families from their homes](https://www.bbc.co.uk/news/uk-england-cumbria-58011466) - Fourteen houses are evacuated and the main route through the village could be shut for six months.
 3. [Man jailed after fake Amazon delivery driver gun attack](https://www.bbc.co.uk/news/uk-england-london-58017379) - Vincente Forde disguised himself as an Amazon delivery driver to attack his victim at his home.
 4. [Pilot's frustration at hotel quarantine during family bereavement](https://www.bbc.co.uk/news/uk-england-58011922) - Ryan Harris' tried to appeal so he could help search for his father-in-law but was refused.
-5. [Storm Evert: South West braces for 75mph winds and heavy rain](https://www.bbc.co.uk/news/uk-england-cornwall-58010633) - Heavy rain and strong winds are expected to hit the region from Thursday evening.
+5. [Storm Evert: South West braces for 75mph winds and heavy rain](https://www.bbc.co.uk/news/uk-england-cornwall-58010633) - Heavy rain and strong winds are expected to hit the region.
 6. [Covid: The doctor sisters working through the pandemic](https://www.bbc.co.uk/news/uk-england-devon-58011779) - Caitlín and Megan Prosser have been supporting each other throughout the Covid-19 pandemic.
 7. [Farmer loses four year legal bid to save alpaca](https://www.bbc.co.uk/news/uk-england-gloucestershire-57997877) - Geronimo twice tested positive for bovine TB but his owner refused a government order to cull him.
 8. [Chesterfield hospital trust apology over death of newborn baby](https://www.bbc.co.uk/news/uk-england-derbyshire-58012160) - Brody was just over 18 hours old when he died at Chesterfield Royal Hospital in 2019.
