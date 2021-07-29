@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 19:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 20:09:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,18 +177,18 @@
             <pubDate>Thu, 29 Jul 2021 19:39:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Richard Jones, cerddor a chyfansoddwr Ail Symudiad, wedi marw]]></title>
-            <description><![CDATA[Cerddor a chyfansoddwr grŵp Ail Symudiad, Richard Jones wedi marw, fis yn unig ar ôl ei frawd Wyn.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58005359</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58005359</guid>
-            <pubDate>Thu, 29 Jul 2021 09:03:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd']]></title>
             <description><![CDATA[Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".]]></description>
             <link>https://www.bbc.co.uk/newyddion/58003945</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58003945</guid>
             <pubDate>Thu, 29 Jul 2021 18:47:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Richard Jones, cerddor a chyfansoddwr Ail Symudiad, wedi marw]]></title>
+            <description><![CDATA[Cerddor a chyfansoddwr grŵp Ail Symudiad, Richard Jones wedi marw, fis yn unig ar ôl ei frawd Wyn.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58005359</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58005359</guid>
+            <pubDate>Thu, 29 Jul 2021 20:08:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Storm Evert i daro mannau ar hyd arfordir de Cymru]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Thu, 29 Jul 2021 12:03:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Y Seintiau Newydd yn rhoi crasfa i dîm o Lithwania]]></title>
-            <description><![CDATA[Y Cymry drwodd i drydedd rownd Cyngres Europa ar ôl trechu FK Kauno Zalgiris o 10-1 dros ddau gymal.]]></description>
+            <title><![CDATA[Cyngres Europa: Y Seintiau drwodd ond Cei Connah allan]]></title>
+            <description><![CDATA[Y Seintiau'n rhoi crasfa i dîm o Lithwania, ond Cei Connah allan er gwaethaf buddugoliaeth.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58003948</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58003948</guid>
-            <pubDate>Thu, 29 Jul 2021 19:19:59 GMT</pubDate>
+            <pubDate>Thu, 29 Jul 2021 20:01:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

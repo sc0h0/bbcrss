@@ -21,8 +21,8 @@
 21. [Calum Jarvis: The fifth man of Team GB's 4x200m freestyle relay gold at Tokyo Olympics](https://www.bbc.co.uk/sport/olympics/58012510) - He did not swim in the Olympic 4x200m freestyle relay final, but Calum Jarvis will return from Tokyo with a gold medal.
 22. [Tokyo Olympics: Athletes can light up Covid-hit Games, says Christian Malcolm](https://www.bbc.co.uk/sport/olympics/57983062) - UK Athletics head coach Christian Malcolm says the stars of track and field can "light up" the Olympics after the challenges brought by Covid-19.
 23. [The New Saints 5-1 Kauno Zalgiris (Agg 10-1)](https://www.bbc.co.uk/sport/football/57988539) - The New Saints secure their biggest aggregate victory in Europe with another emphatic win over Kauno Zalgiris to advance in the Europa Conference League.
-24. [Richard Jones, cerddor a chyfansoddwr Ail Symudiad, wedi marw](https://www.bbc.co.uk/newyddion/58005359) - Cerddor a chyfansoddwr grŵp Ail Symudiad, Richard Jones wedi marw, fis yn unig ar ôl ei frawd Wyn.
-25. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
+24. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
+25. [Richard Jones, cerddor a chyfansoddwr Ail Symudiad, wedi marw](https://www.bbc.co.uk/newyddion/58005359) - Cerddor a chyfansoddwr grŵp Ail Symudiad, Richard Jones wedi marw, fis yn unig ar ôl ei frawd Wyn.
 26. [Storm Evert i daro mannau ar hyd arfordir de Cymru](https://www.bbc.co.uk/newyddion/58003946) - Dywed y Swyddfa Dywydd fod gwyntoedd o hyd at 65mya mewn mannau arfordirol yn debygol.
 27. [Ble mae Safleoedd Treftadaeth UNESCO Cymru?](https://www.bbc.co.uk/newyddion/58011709) - Y mannau yng Nghymru sydd wedi ennill statws treftadaeth rhyngwladol
-28. [Y Seintiau Newydd yn rhoi crasfa i dîm o Lithwania](https://www.bbc.co.uk/newyddion/58003948) - Y Cymry drwodd i drydedd rownd Cyngres Europa ar ôl trechu FK Kauno Zalgiris o 10-1 dros ddau gymal.
+28. [Cyngres Europa: Y Seintiau drwodd ond Cei Connah allan](https://www.bbc.co.uk/newyddion/58003948) - Y Seintiau'n rhoi crasfa i dîm o Lithwania, ond Cei Connah allan er gwaethaf buddugoliaeth.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 19:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 20:14:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58010860</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58010860</guid>
             <pubDate>Thu, 29 Jul 2021 15:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Craig Murray's appeal bid fails over Alex Salmond trial blogs]]></title>
+            <description><![CDATA[Craig Murray will now have to begin an eight-month jail sentence over blog posts he wrote about the Alex Salmond trial.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58018127</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58018127</guid>
+            <pubDate>Thu, 29 Jul 2021 20:09:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Thu, 29 Jul 2021 12:48:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inverness, Sumburgh and Dundee among airports shut by strike]]></title>
-            <description><![CDATA[Inverness, Sumburgh, Kirkwall and Dundee are among those closed for 24 hours in a dispute over centralisation.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57997274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57997274</guid>
-            <pubDate>Thu, 29 Jul 2021 05:23:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fears for 100 Aberdeen jobs at oil services company Baker Hughes]]></title>
             <description><![CDATA[Baker Hughes has told workers it is proposing to close its base in the Bridge of Don in Aberdeen.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58010338</link>
@@ -86,6 +86,13 @@
             <pubDate>Thu, 29 Jul 2021 15:42:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Inverness, Sumburgh and Dundee among airports shut by strike]]></title>
+            <description><![CDATA[Inverness, Sumburgh, Kirkwall and Dundee are among those closed for 24 hours in a dispute over centralisation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57997274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-57997274</guid>
+            <pubDate>Thu, 29 Jul 2021 05:23:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Call for Greenock jail to be replaced as leaky roof closes cells]]></title>
             <description><![CDATA[More than 100 years after it was built HMP Greenock is described as "ill-suited" to a modern prison system.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58005882</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58007215</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58007215</guid>
             <pubDate>Thu, 29 Jul 2021 05:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK already undergoing disruptive climate change]]></title>
-            <description><![CDATA[Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57988023</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57988023</guid>
-            <pubDate>Thu, 29 Jul 2021 07:13:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
@@ -282,11 +282,11 @@
             <pubDate>Fri, 23 Jul 2021 21:40:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BK Häcken 2-0 Aberdeen (3-5 agg): Stephen Glass' side survive scare]]></title>
-            <description><![CDATA[Aberdeen held off a spirited fightback by BK Hacken to progress to the Europa Conference League third qualifying round despite defeat in Gothenburg.]]></description>
+            <title><![CDATA[BK Häcken 2-0 Aberdeen (3-5 agg): Stephen Glass says side were victims of first leg success]]></title>
+            <description><![CDATA[Aberdeen were "victims of our own success", says manager Stephen Glass, after his side progressed in the Europa Conference League despite a second-leg defeat by BK Hacken.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57972231</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57972231</guid>
-            <pubDate>Thu, 29 Jul 2021 18:25:17 GMT</pubDate>
+            <pubDate>Thu, 29 Jul 2021 20:01:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FC Santa Coloma 1-2 Hibernian (1-5 agg): Jack Ross' men ease past Andorrans]]></title>
