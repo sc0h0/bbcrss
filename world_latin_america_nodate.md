@@ -1,5 +1,5 @@
 1. [Pedro Castillo: The primary school teacher who became Peru's president](https://www.bbc.co.uk/news/world-latin-america-57941309) - The meteoric rise of leftist Pedro Castillo has shaken Peru's political and business elite.
-2. [Johnny Ventura: Dominican merengue legend dies aged 81](https://www.bbc.co.uk/news/world-latin-america-58011686) - The singer, whose career spanned six decades, is considered one of merengue's greatest artists.
+2. [Johnny Ventura: Dominican merengue legend dies aged 81](https://www.bbc.co.uk/news/world-latin-america-58011686) - The Dominican Republic singer, whose career spanned six decades, is seen as a Latin music legend.
 3. [Petrol bombs thrown at Cuban embassy in Paris](https://www.bbc.co.uk/news/world-57995485) - Cuba's foreign ministry has released surveillance footage of the attack at its embassy in France.
 4. [Tokyo Olympics: Flora Duffy claims historic first gold for Bermuda](https://www.bbc.co.uk/sport/olympics/57964362) - With a population of just 63,000, Bermuda became the least populous nation or territory to win an Olympic gold medal at a summer Games when Flora Duffy won the triathlon in Tokyo.
 5. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.

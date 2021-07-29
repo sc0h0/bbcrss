@@ -8,7 +8,7 @@
 8. [Cyclist jailed after Tower Hamlets hit-and-run death](https://www.bbc.co.uk/news/uk-england-london-58009784) - Peter McCombie died eight days after the crash from traumatic head injuries.
 9. [Man admits sharing Islamic State beheading videos](https://www.bbc.co.uk/news/uk-58012430) - Stefan Aristidou is the 14th person convicted of terror charges of hundreds who returned from Syria.
 10. [Cambridge University: Stormzy and HSBC fund 30 black students](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58011700) - The grime musician is helping finance a further 30 students at the world-renowned university.
-11. [Wayne Rooney apologises over hotel photographs](https://www.bbc.co.uk/sport/football/58003766) - Derby boss Wayne Rooney apologises to his family and club after images of the ex-England and Manchester United forward were shared online.
+11. [Storm Evert: South West braces for 75mph winds and heavy rain](https://www.bbc.co.uk/news/uk-england-cornwall-58010633) - Heavy rain and strong winds are expected to hit the region from Thursday evening.
 12. [Mikey Poulli: The young blind footballer backed by star players](https://www.bbc.co.uk/news/uk-england-london-57987451) - Mikey Poulli, who lost his sight due to a rare degenerative condition, dreams of playing for England.
 13. [In pictures: International Tiger Day 2021](https://www.bbc.co.uk/news/in-pictures-58012200) - The annual event aims to raise awareness around the endangered big cats.
 14. [Rare Harry Potter book sells for £80k at Leyburn auction](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58003050) - The volume sold at auction in North Yorkshire for almost three times its estimated price.

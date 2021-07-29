@@ -1,4 +1,4 @@
-1. [Covid-19: NI Executive to relax travel isolation rules](https://www.bbc.co.uk/news/uk-northern-ireland-58004816) - Fully vaccinated EU and US travellers coming to NI will not need to quarantine from 31 July.
+1. [Covid-19: NI Executive to relax travel isolation rules](https://www.bbc.co.uk/news/uk-northern-ireland-58004816) - Fully vaccinated EU and US travellers coming to Northern Ireland will not need to quarantine from 2 August.
 2. [Ardoyne baby death: Victim named as Liam O’Keefe](https://www.bbc.co.uk/news/uk-northern-ireland-58009834) - A woman arrested on suspicion of murder is released from hospital and transferred to police custody.
 3. [High street voucher scheme: £100 cards 'to be available in September'](https://www.bbc.co.uk/news/uk-northern-ireland-58012540) - Every adult in Northern Ireland can receive a voucher if they are on the updated electoral register.
 4. [Braniel Primary: 'Rumours and poison' spread about Irish language school](https://www.bbc.co.uk/news/uk-northern-ireland-58010736) - Naíscoil na Seolta, east Belfast's first Irish language pre-school, was due to open at Braniel Primary.

@@ -3,7 +3,7 @@
 3. [H.E.R. on shedding her anonymity and conquering R&B](https://www.bbc.co.uk/news/entertainment-arts-57987421) - For years the singer stayed in the shadows but after Grammy and Oscar wins she's ready to be seen.
 4. [Marilyn Manson files to dismiss Esme Bianco's sex assault case](https://www.bbc.co.uk/news/entertainment-arts-58010542) - The rock star says claims by Game of Thrones actress Esme Bianco are part of a "coordinated attack".
 5. [Bob Odenkirk: Better Call Saul actor 'stable' after 'heart-related incident' during filming](https://www.bbc.co.uk/news/entertainment-arts-58009727) - The US actor is still in hospital after being rushed there from the set of Better Call Saul.
-6. [Johnny Ventura: Dominican merengue legend dies aged 81](https://www.bbc.co.uk/news/world-latin-america-58011686) - The singer, whose career spanned six decades, is considered one of merengue's greatest artists.
+6. [Johnny Ventura: Dominican merengue legend dies aged 81](https://www.bbc.co.uk/news/world-latin-america-58011686) - The Dominican Republic singer, whose career spanned six decades, is seen as a Latin music legend.
 7. [Rare Harry Potter book sells for £80k at Leyburn auction](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58003050) - The volume sold at auction in North Yorkshire for almost three times its estimated price.
 8. [Netflix US cast and crew must be vaccinated to work](https://www.bbc.co.uk/news/business-58006810) - The online streaming firm is the latest company to make Covid jabs mandatory for workers.
 9. [Dusty Hill: ZZ Top bassist dies aged 72](https://www.bbc.co.uk/news/world-us-canada-58006978) - Dusty Hill played bass for the iconic US blues rock band for more than five decades.
