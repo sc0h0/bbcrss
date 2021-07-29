@@ -1,4 +1,4 @@
-1. [International cruises from England to restart](https://www.bbc.co.uk/news/business-58006163) - Wed, 28 Jul 2021 23:32:09 GMT - Quarantine for fully vaccinated arrivals from US and EU to UK ports also waived.
+1. [International cruises from England to restart](https://www.bbc.co.uk/news/business-58006163) - Wed, 28 Jul 2021 23:32:09 GMT - People arriving at UK ports who have been fully vaccinated in the US and the EU will not have to isolate.
 2. [Covid: Furlough scheme set to wind down further](https://www.bbc.co.uk/news/business-57981760) - Wed, 28 Jul 2021 23:03:02 GMT - Employers will have to contribute more to the job support scheme before it is phased out in September.
 3. ['We lost our life savings in a cryptocurrency scam'](https://www.bbc.co.uk/news/business-57983458) - Wed, 28 Jul 2021 23:03:30 GMT - A pensioner caught up in an investment saga lost it all, prompting warnings to others.
 4. [Car production hit by 'pingdemic' and global chip shortage](https://www.bbc.co.uk/news/business-58002724) - Wed, 28 Jul 2021 23:03:50 GMT - The UK industry says the demand is there but it is "desperately trying to get back to full capacity".
