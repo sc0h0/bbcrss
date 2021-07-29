@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 05:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 06:14:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Thu, 29 Jul 2021 05:47:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International cruises from England to restart]]></title>
-            <description><![CDATA[People arriving at UK ports who have been fully vaccinated in the US and the EU will not have to isolate.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58006163</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58006163</guid>
-            <pubDate>Wed, 28 Jul 2021 23:32:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Richer parents pressured teachers on exam grades]]></title>
             <description><![CDATA[Sharp-elbowed parents have chased better grades in this year's replacement exams, a study says.]]></description>
             <link>https://www.bbc.co.uk/news/education-57999790</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-57999790</guid>
             <pubDate>Wed, 28 Jul 2021 23:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International cruises from England to restart]]></title>
+            <description><![CDATA[People arriving at UK ports who have been fully vaccinated in the US and the EU will not have to isolate.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58006163</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58006163</guid>
+            <pubDate>Thu, 29 Jul 2021 05:52:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Outspoken billionaire Sun Dawu jailed for 18 years in China]]></title>
@@ -212,13 +212,6 @@
             <pubDate>Wed, 28 Jul 2021 15:29:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Medal misses in rowing and swimming - what's happened so far on day six?]]></title>
-            <description><![CDATA[Day six of Tokyo 2020 has brought two more fourth-place finishes for Team GB in rowing, while swimmer James Wilby finishes sixth in the 200m breaststroke.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58007975</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58007975</guid>
-            <pubDate>Thu, 29 Jul 2021 05:14:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Midtjylland dump Celtic out of Champions League]]></title>
             <description><![CDATA[Beleaguered Celtic's Champions League hopes ended in the second qualifying round for the second consecutive year as a callow side were undone in extra time by Denmark's Midtjylland.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57972180</link>
@@ -233,11 +226,18 @@
             <pubDate>Thu, 29 Jul 2021 03:22:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Biles: 'Love & support has shown me I am more than my accomplishments']]></title>
+            <description><![CDATA[US gymnast Simone Biles reacts to the widespread support she has received after withdrawing from Thursday's all-around final.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58008278</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58008278</guid>
+            <pubDate>Thu, 29 Jul 2021 06:04:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[PSG open Pogba talks - Thursday's football gossip]]></title>
             <description><![CDATA[PSG open Pogba discussions, Arsenal offer Bellerin in Martinez deal, Spurs targeting Vlahovic, plus more.]]></description>
             <link>https://www.bbc.co.uk/sport/58002444</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/58002444</guid>
-            <pubDate>Wed, 28 Jul 2021 22:31:19 GMT</pubDate>
+            <pubDate>Thu, 29 Jul 2021 05:59:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB's Kye Whyte and Bethany Shriever reach BMX racing semi-finals]]></title>
@@ -261,6 +261,13 @@
             <pubDate>Thu, 29 Jul 2021 03:58:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Glover and Swann fourth in rowing final, James Wilby sixth in 200m breaststroke]]></title>
+            <description><![CDATA[Day six of Tokyo 2020 has brought two more fourth-place finishes for Team GB in rowing, while swimmer James Wilby finishes sixth in the 200m breaststroke.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58007975</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58007975</guid>
+            <pubDate>Thu, 29 Jul 2021 05:14:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Helen Glover rules out another Games bid]]></title>
             <description><![CDATA[Britain's Helen Glover rules out another Olympics rowing bid after the mother of three's hopes of a fairytale finish at Tokyo 2020 are dashed.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58007365</link>
@@ -275,6 +282,13 @@
             <pubDate>Thu, 29 Jul 2021 04:07:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics rowing: Ireland's Paul O'Donovan & Fintan McCarthy win lightweight men's double sculls]]></title>
+            <description><![CDATA[Ireland win their first gold medal of the Tokyo 2020 Olympic Games as Paul O'Donovan and Fintan McCarthy claim the lightweight men's double sculls.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58007573</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58007573</guid>
+            <pubDate>Thu, 29 Jul 2021 03:05:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What are the twisties in gymnastics?]]></title>
             <description><![CDATA[US gymnast Simone Biles said she was "having a little bit of the twisties".]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57986166</link>
@@ -287,13 +301,6 @@
             <link>https://www.bbc.co.uk/news/newsbeat-57977584</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57977584</guid>
             <pubDate>Wed, 28 Jul 2021 23:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics rowing: Ireland's Paul O'Donovan & Fintan McCarthy win lightweight men's double sculls]]></title>
-            <description><![CDATA[Ireland win their first gold medal of the Tokyo 2020 Olympic Games as Paul O'Donovan and Fintan McCarthy claim the lightweight men's double sculls.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58007573</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58007573</guid>
-            <pubDate>Thu, 29 Jul 2021 03:05:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>

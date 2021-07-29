@@ -22,7 +22,7 @@
 22. [Tokyo Olympics: Great Britain win emphatic gold in 4x200m freestyle relay](https://www.bbc.co.uk/sport/olympics/57993545) - Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.
 23. [Rugby League World Cup: Organisers admit 'significant challenges threaten' event](https://www.bbc.co.uk/sport/rugby-league/58006088) - There are "significant challenges that threaten" the Rugby League World Cup being staged as scheduled later this year, organisers admit.
 24. ['Bwlch ariannol' yn rhwystro datblygiadau ynni gwyrdd](https://www.bbc.co.uk/newyddion/57949116) - Rhaid mynd i'r afael â'r heriau sy'n wynebu datblygiadau ynni gwyrdd yng Nghymru, yn ôl gwleidyddion.
-25. [Safle Treftadaeth Byd UNESCO i ardal llechi Gwynedd](https://www.bbc.co.uk/newyddion/57994907) - Mae Cyngor Gwynedd yn gobeithio y bydd ennill y statws yn arwain at adfywio'r ardal a chreu swyddi newydd.
-26. [Achub dwy 'gafodd eu taro gan fellten' ar Yr Wyddfa](https://www.bbc.co.uk/newyddion/58002072) - Dywedodd criw achub bod dwy ddynes wedi derbyn triniaeth, un am fân anafiadau, ac un oedd mewn cyflwr "mwy difrifol".
+25. ['Dwi eisiau byw fy mywyd yn ddibryder fel pawb arall'](https://www.bbc.co.uk/newyddion/58005355) - Sicrhau mai Cymru yw'r wlad fwyaf cyfeillgar i bobl LHDTC+ yn Ewrop yw nod Llywodraeth Cymru.
+26. [Safle Treftadaeth Byd UNESCO i ardal llechi Gwynedd](https://www.bbc.co.uk/newyddion/57994907) - Mae Cyngor Gwynedd yn gobeithio y bydd ennill y statws yn arwain at adfywio'r ardal a chreu swyddi newydd.
 27. [Fy Stafell i: 'Stydi'r Meuryn' Ceri Wyn Jones](https://www.bbc.co.uk/newyddion/57975995) - Meuryn Y Talwrn Ceri Wyn Jones sy'n ein tywys o gwmpas ei stydi
 28. [Morgannwg yn colli o un rhediad yn y Cwpan Undydd](https://www.bbc.co.uk/newyddion/58002068) - Boddi wrth ymyl y lan wnaeth Morgannwg yn erbyn Gwlad yr Hâf ar ôl i law fyrhau'r gêm.

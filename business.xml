@@ -11,24 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 05:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 06:12:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[International cruises from England to restart]]></title>
-            <description><![CDATA[People arriving at UK ports who have been fully vaccinated in the US and the EU will not have to isolate.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58006163</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58006163</guid>
-            <pubDate>Wed, 28 Jul 2021 23:32:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber slides over reports SoftBank selling 45 million shares]]></title>
-            <description><![CDATA[Japan's SoftBank is selling the shares to cover losses in other investments, according to one report.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58007745</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58007745</guid>
-            <pubDate>Thu, 29 Jul 2021 05:03:23 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Covid: Furlough scheme set to wind down further]]></title>
             <description><![CDATA[Employers will have to contribute more to the job support scheme before it is phased out in September.]]></description>
@@ -44,6 +30,13 @@
             <pubDate>Wed, 28 Jul 2021 23:03:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Google workers will need Covid jabs to return to office]]></title>
+            <description><![CDATA[The search engine says it will roll the policy out globally across its offices in the coming months.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58006810</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58006810</guid>
+            <pubDate>Wed, 28 Jul 2021 22:06:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Car production hit by 'pingdemic' and global chip shortage]]></title>
             <description><![CDATA[The UK industry says the demand is there but it is "desperately trying to get back to full capacity".]]></description>
             <link>https://www.bbc.co.uk/news/business-58002724</link>
@@ -51,11 +44,18 @@
             <pubDate>Wed, 28 Jul 2021 23:03:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google workers will need Covid jabs to return to office]]></title>
-            <description><![CDATA[The search engine says it will roll the policy out globally across its offices in the coming months.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58006810</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58006810</guid>
-            <pubDate>Wed, 28 Jul 2021 22:06:59 GMT</pubDate>
+            <title><![CDATA[International cruises from England to restart]]></title>
+            <description><![CDATA[People arriving at UK ports who have been fully vaccinated in the US and the EU will not have to isolate.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58006163</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58006163</guid>
+            <pubDate>Thu, 29 Jul 2021 05:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uber slides over reports SoftBank selling 45 million shares]]></title>
+            <description><![CDATA[Japan's SoftBank is selling the shares to cover losses in other investments, according to one report.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58007745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58007745</guid>
+            <pubDate>Thu, 29 Jul 2021 05:03:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Facebook warns growth set to slow 'significantly']]></title>
