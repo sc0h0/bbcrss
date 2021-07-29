@@ -3,7 +3,7 @@
 3. [Man jailed after fake Amazon delivery driver gun attack](https://www.bbc.co.uk/news/uk-england-london-58017379) - Vincente Forde disguised himself as an Amazon delivery driver to attack his victim at his home.
 4. [Parton landslide forces families from their homes](https://www.bbc.co.uk/news/uk-england-cumbria-58011466) - Fourteen houses are evacuated and the main route through the village could be shut for six months.
 5. [Pilot's frustration at hotel quarantine during family bereavement](https://www.bbc.co.uk/news/uk-england-58011922) - Ryan Harris' tried to appeal so he could help search for his father-in-law but was refused.
-6. [Terrorist found driving London bin lorry jailed](https://www.bbc.co.uk/news/uk-england-london-58017388) - Andrew Rowe drove nine different vehicles as part of his work at Hammersmith and Fulham Council.
+6. [Convicted terrorist found driving London bin lorries jailed](https://www.bbc.co.uk/news/uk-england-london-58017388) - Andrew Rowe drove nine different vehicles as part of his work at Hammersmith and Fulham Council.
 7. [Worcester teen dances again after itchy skin 'miracle cure'](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58016969) - Connie McGrath has gone from staying on the sofa to a "ball of energy" in months.
 8. [Hillsborough's 97th victim was unlawfully killed, coroner concludes](https://www.bbc.co.uk/news/uk-england-merseyside-58011373) - Andrew Devine died as a result of injuries he sustained 32 years earlier, a coroner concludes.
 9. [Chesterfield hospital trust apology over death of newborn baby](https://www.bbc.co.uk/news/uk-england-derbyshire-58012160) - Brody was just over 18 hours old when he died at Chesterfield Royal Hospital in 2019.
