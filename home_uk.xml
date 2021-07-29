@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 00:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 01:44:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,13 +72,6 @@
             <pubDate>Wed, 28 Jul 2021 23:55:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dusty Hill: ZZ Top bassist dies aged 72]]></title>
-            <description><![CDATA[Dusty Hill played bass for the iconic US blues rock band for more than five decades.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58006978</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58006978</guid>
-            <pubDate>Wed, 28 Jul 2021 20:51:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fresh warning over rip-off locator forms on Google]]></title>
             <description><![CDATA['Devious' sites which charge money for a free passenger locator form top search engine results.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58001205</link>
@@ -93,11 +86,18 @@
             <pubDate>Wed, 28 Jul 2021 21:32:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Activision Blizzard staff walk out over harassment claims]]></title>
-            <description><![CDATA[Employees of the company behind Call of Duty are angry over allegations of sexism and harassment.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58005455</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58005455</guid>
-            <pubDate>Wed, 28 Jul 2021 19:44:24 GMT</pubDate>
+            <title><![CDATA[Google workers will need Covid jabs to return to office]]></title>
+            <description><![CDATA[The search engine says it will roll the policy out globally across its offices in the coming months.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58006810</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58006810</guid>
+            <pubDate>Wed, 28 Jul 2021 22:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dusty Hill: ZZ Top bassist dies aged 72]]></title>
+            <description><![CDATA[Dusty Hill played bass for the iconic US blues rock band for more than five decades.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58006978</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58006978</guid>
+            <pubDate>Wed, 28 Jul 2021 20:51:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Travel 'hope' and 'health risk' over quarantine end]]></title>
@@ -205,25 +205,11 @@
             <pubDate>Wed, 28 Jul 2021 15:29:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dujardin sets new record and GB swimmers claim relay gold - what happened on day five?]]></title>
-            <description><![CDATA[Charlotte Dujardin wins dressage bronze to become the most decorated British female Olympian, as Team GB's swimmers secure gold.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57993948</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57993948</guid>
-            <pubDate>Wed, 28 Jul 2021 14:33:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Midtjylland dump Celtic out of Champions League]]></title>
             <description><![CDATA[Beleaguered Celtic's Champions League hopes ended in the second qualifying round for the second consecutive year as a callow side were undone in extra time by Denmark's Midtjylland.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57972180</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57972180</guid>
             <pubDate>Wed, 28 Jul 2021 20:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PSG open Pogba talks - Thursday's football gossip]]></title>
-            <description><![CDATA[PSG open Pogba discussions, Arsenal offer Bellerin in Martinez deal, Spurs targeting Vlahovic, plus more.]]></description>
-            <link>https://www.bbc.co.uk/sport/58002444</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/58002444</guid>
-            <pubDate>Wed, 28 Jul 2021 22:31:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Tom Dean & Duncan Scott lead Team GB to 4x200m freestyle relay gold]]></title>
@@ -233,6 +219,13 @@
             <pubDate>Wed, 28 Jul 2021 04:13:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PSG open Pogba talks - Thursday's football gossip]]></title>
+            <description><![CDATA[PSG open Pogba discussions, Arsenal offer Bellerin in Martinez deal, Spurs targeting Vlahovic, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/58002444</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/58002444</guid>
+            <pubDate>Wed, 28 Jul 2021 22:31:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Hundred: Adam Milne, Colin Ingram, Danni Wyatt, Sarah Taylor - watch the best catches so far]]></title>
             <description><![CDATA[Watch the best catches from a thrilling opening week of The Hundred, including Andrew Milne's stunning caught and bowled effort for Birmingham Phoenix.]]></description>
             <link>https://www.bbc.co.uk/sport/av/cricket/58006393</link>
@@ -240,11 +233,18 @@
             <pubDate>Wed, 28 Jul 2021 19:21:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Charlotte Dujardin wins bronze in the individual dressage - her sixth Olympic medal]]></title>
-            <description><![CDATA[Charlotte Dujardin wins bronze in the individual dressage and becomes Great Britain's most decorated female Olympian with six medals.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/57998205</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57998205</guid>
-            <pubDate>Wed, 28 Jul 2021 13:47:36 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: 3x3 basketball women's and men's finals - watch highlights]]></title>
+            <description><![CDATA[Watch highlights of the 3x3 basketball finals, with USA facing ROC in the women's final and Latvia taking on ROC in the men's final.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58005435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58005435</guid>
+            <pubDate>Wed, 28 Jul 2021 16:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Fintan McCarthy and Paul O'Donovan win Ireland's first Olympic rowing gold in lightweight double sculls]]></title>
+            <description><![CDATA[Watch Finton McCarthy and Paul O'Donovan make history by winning Ireland's first Olympic rowing gold with victory in the men's lightweight double sculls.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58007457</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58007457</guid>
+            <pubDate>Thu, 29 Jul 2021 01:39:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[European football market contracts by £3.4bn in first fall for more than a decade]]></title>
@@ -252,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/football/57992366</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57992366</guid>
             <pubDate>Wed, 28 Jul 2021 23:00:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Helen Glover and Polly Swann finish fourth in women's pair]]></title>
+            <description><![CDATA[Helen Glover's return to rowing does not have a fairytale finish as the mother-of-three and Polly Swann finish fourth in the Olympic women's pair.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58007365</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58007365</guid>
+            <pubDate>Thu, 29 Jul 2021 01:36:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: How to think like a champion]]></title>
