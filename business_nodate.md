@@ -1,8 +1,8 @@
 1. [Drug firm fined for huge price rise that hit NHS](https://www.bbc.co.uk/news/business-58009149) - Advanz pushed up the price of thyroid tablet packs more than 10-fold, says the competition watchdog.
 2. [Covid: Furlough scheme set to wind down further](https://www.bbc.co.uk/news/business-57981760) - Employers will have to contribute more to the job support scheme before it is phased out in September.
 3. ['We lost our life savings in a cryptocurrency scam'](https://www.bbc.co.uk/news/business-57983458) - A pensioner caught up in an investment saga lost it all, prompting warnings to others.
-4. [Australia house prices soar at 'unsustainable' rate](https://www.bbc.co.uk/news/business-58007746) - Six state capitals have seen record prices for the third quarter in a row, the survey said.
-5. [Netflix to ask US cast and crew to get vaccinated](https://www.bbc.co.uk/news/business-58006810) - The online streaming firm is the latest company to make Covid jabs mandatory for workers.
+4. [Netflix US cast and crew must be vaccinated to work](https://www.bbc.co.uk/news/business-58006810) - The online streaming firm is the latest company to make Covid jabs mandatory for workers.
+5. [Australia house prices soar at 'unsustainable' rate](https://www.bbc.co.uk/news/business-58007746) - Six state capitals have seen record prices for the third quarter in a row, the survey said.
 6. [Car production hit by 'pingdemic' and global chip shortage](https://www.bbc.co.uk/news/business-58002724) - The UK industry says the demand is there but it is "desperately trying to get back to full capacity".
 7. [International cruises from England to restart](https://www.bbc.co.uk/news/business-58006163) - People arriving at UK ports who have been fully vaccinated in the US and the EU will not have to isolate.
 8. [Uber slides over reports SoftBank selling 45 million shares](https://www.bbc.co.uk/news/business-58007745) - Japan's SoftBank is selling the shares to cover losses in other investments, according to one report.

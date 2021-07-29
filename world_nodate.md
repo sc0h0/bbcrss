@@ -2,7 +2,7 @@
 2. [Simone Biles thankful for love and support](https://www.bbc.co.uk/sport/olympics/58008278) - US gymnast Simone Biles reacts to the widespread support she has received after withdrawing from Thursday's all-around final.
 3. [China interest in Afghanistan could be 'positive', says US Blinken](https://www.bbc.co.uk/news/world-asia-58007517) - US Secretary of State Antony Blinken's comments came after Taliban envoys went on a visit to China.
 4. [Covid vaccines: Tourists head to the US to get vaccinated](https://www.bbc.co.uk/news/world-us-canada-58004253) - Some tourists are spending thousands of dollars to travel to the US to get a coronavirus vaccine.
-5. [Netflix to ask US cast and crew to get vaccinated](https://www.bbc.co.uk/news/business-58006810) - The online streaming firm is the latest company to make Covid jabs mandatory for workers.
+5. [Netflix US cast and crew must be vaccinated to work](https://www.bbc.co.uk/news/business-58006810) - The online streaming firm is the latest company to make Covid jabs mandatory for workers.
 6. [Bosnian Serbs defy top UN official Inzko over genocide denial](https://www.bbc.co.uk/news/world-europe-58001974) - Ethnic Serb leaders accused of playing down the Srebrenica massacre will now boycott parliament.
 7. [Dusty Hill: ZZ Top bassist dies aged 72](https://www.bbc.co.uk/news/world-us-canada-58006978) - Dusty Hill played bass for the iconic US blues rock band for more than five decades.
 8. [China expanding its nuclear capabilities, scientists say](https://www.bbc.co.uk/news/world-asia-china-57995185) - It is building a site that will have extra capacity to store and launch missiles, scientists say.
