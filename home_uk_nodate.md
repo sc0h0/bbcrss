@@ -62,7 +62,7 @@
 62. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - All over-18s can now get the Covid jab, but the government has criticised take-up among young people.
 63. [Covid rules: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
 64. [What are the rules and guidance for face masks and coverings from 19 July?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
-65. [What are the rules for travelling to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - People vaccinated in Europe or the US will no longer need to isolate when they arrive in England from an amber country.
+65. [What are the holiday rules for travel to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - People vaccinated in Europe or the US will no longer need to isolate when arriving from amber countries.
 66. [Covid: Who has to self-isolate, which workers are exempt and what if I'm fully vaccinated?](https://www.bbc.co.uk/news/explainers-54239922) - A small number of named employees in key sectors will be exempt from some rules
 67. ['Covid passports': How can the NHS Covid Pass prove I've had both jabs?](https://www.bbc.co.uk/news/explainers-55718553) - Clubbers and people attending mass events in England will have to prove they've had both Covid jabs.
 68. [Lockdown muscle loss: Five ways to get back in shape](https://www.bbc.co.uk/news/uk-56887390) - Lockdown inactivity may have left people with weaker muscles - there are simple solutions.
