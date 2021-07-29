@@ -1,5 +1,5 @@
 1. [Covid: Sydney extends lockdown as other Australian cities reopen](https://www.bbc.co.uk/news/world-australia-57993337) - Infections in Australia's largest city remain stubbornly high, despite five weeks of restrictions.
-2. [Outspoken billionaire Sun Dawu jailed for 18 years in China](https://www.bbc.co.uk/news/world-asia-china-58007515) - He has in the past been vocal in criticising authorities and has spoken out about human rights.
+2. [Outspoken billionaire Sun Dawu jailed for 18 years in China](https://www.bbc.co.uk/news/world-asia-china-58007515) - Sun Dawu has in the past been vocal in criticising authorities and has spoken out about human rights.
 3. [China expanding its nuclear capabilities, scientists say](https://www.bbc.co.uk/news/world-asia-china-57995185) - It is building a site that will have extra capacity to store and launch missiles, scientists say.
 4. [Anger as Covid-ravaged Malaysia lifts pandemic measures](https://www.bbc.co.uk/news/world-asia-57993617) - It comes as hospitals are overwhelmed, with pictures showing patients sharing oxygen cylinders.
 5. [Barabanki accident: Eighteen die after truck crashes into bus in India](https://www.bbc.co.uk/news/world-asia-india-57993968) - The victims were migrant workers who were going home to meet their families.

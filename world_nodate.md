@@ -1,4 +1,4 @@
-1. [Outspoken billionaire Sun Dawu jailed for 18 years in China](https://www.bbc.co.uk/news/world-asia-china-58007515) - He has in the past been vocal in criticising authorities and has spoken out about human rights.
+1. [Outspoken billionaire Sun Dawu jailed for 18 years in China](https://www.bbc.co.uk/news/world-asia-china-58007515) - Sun Dawu has in the past been vocal in criticising authorities and has spoken out about human rights.
 2. [Tokyo Olympics: Caeleb Dressel breaks Olympic record on way to second gold](https://www.bbc.co.uk/sport/olympics/58007535) - USA's Caeleb Dressel sets an Olympic record on his way to winning the men's 100m freestyle gold as he aims to become one of the most successful swimmers at a Games.
 3. [Bosnian Serbs defy top UN official Inzko over genocide denial](https://www.bbc.co.uk/news/world-europe-58001974) - Ethnic Serb leaders accused of playing down the Srebrenica massacre will now boycott parliament.
 4. [Covid vaccines: Tourists head to the US to get vaccinated](https://www.bbc.co.uk/news/world-us-canada-58004253) - Some tourists are spending thousands of dollars to travel to the US to get a coronavirus vaccine.
