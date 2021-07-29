@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 09:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 10:15:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[NHS Covid-19 app pings rise by over 70,000]]></title>
+            <description><![CDATA[Nearly 690,000 people in England and Wales received self-isolation alerts in the week up to 21 July.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57970603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57970603</guid>
+            <pubDate>Thu, 29 Jul 2021 10:09:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fresh warning over rip-off locator forms on Google]]></title>
             <description><![CDATA['Devious' sites which charge money for a free passenger locator form top search engine results.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/technology-57997112</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57997112</guid>
             <pubDate>Wed, 28 Jul 2021 10:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tech giants' profits soar as pandemic boom continues]]></title>
-            <description><![CDATA[Apple, Google parent company Alphabet and Microsoft report soaring quarterly profits.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57979268</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57979268</guid>
-            <pubDate>Tue, 27 Jul 2021 22:06:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Team BRIT’s Aaron Morgan: How hand controls help me race]]></title>
