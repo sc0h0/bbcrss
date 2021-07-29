@@ -11,16 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 11:56:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 12:32:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Llanelli boy 'didn't get enough support' from school before death]]></title>
+            <description><![CDATA[Byron John says his son Bradley "had a future that he wanted and yearned for".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58011859</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58011859</guid>
+            <pubDate>Thu, 29 Jul 2021 12:00:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LGBTQ: Wales' bid to be 'most friendly' nation in Europe]]></title>
             <description><![CDATA[A new plan aims to make Wales "the most LGBTQ+ friendly" nation in Europe.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57986732</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57986732</guid>
             <pubDate>Thu, 29 Jul 2021 05:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storm Evert: Yellow warning for wind on south Wales coast]]></title>
+            <description><![CDATA[A yellow warning for wind covers large parts of the south Wales coast on Thursday and Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58011880</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58011880</guid>
+            <pubDate>Thu, 29 Jul 2021 11:45:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Snowdon: Two women hit by lightning at mountain summit]]></title>
@@ -37,11 +51,11 @@
             <pubDate>Thu, 29 Jul 2021 11:15:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Storm Evert: Yellow warning for wind on south Wales coast]]></title>
-            <description><![CDATA[A yellow warning for wind covers large parts of the south Wales coast on Thursday and Friday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58011880</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58011880</guid>
-            <pubDate>Thu, 29 Jul 2021 11:45:49 GMT</pubDate>
+            <title><![CDATA[Covid case rate falls for eighth consecutive day]]></title>
+            <description><![CDATA[Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58009193</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58009193</guid>
+            <pubDate>Thu, 29 Jul 2021 11:57:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Green energy barriers 'threaten' net zero goal]]></title>
@@ -65,13 +79,6 @@
             <pubDate>Wed, 28 Jul 2021 21:23:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: How Matt Richards went from garden pool to gold]]></title>
-            <description><![CDATA[Matt Richards' relay swim team almost broke the world record as they won gold in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57994645</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57994645</guid>
-            <pubDate>Wed, 28 Jul 2021 11:06:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Welsh film moves production to Lithuania due to lack of funding]]></title>
             <description><![CDATA[A film staring Ray Winstone is moving production to Lithuania due to lack of funding in Wales]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57986735</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58003299</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58003299</guid>
             <pubDate>Wed, 28 Jul 2021 15:35:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former special constable Phillip Gregory jailed for child sex abuse]]></title>
-            <description><![CDATA[One of Phillip Gregory's victims tells a court he had "stolen" her childhood.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57994650</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57994650</guid>
-            <pubDate>Wed, 28 Jul 2021 13:40:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LGBTQ people 'need to be part of' Wales' awareness push]]></title>
@@ -142,25 +142,25 @@
             <pubDate>Thu, 29 Jul 2021 11:44:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Welsh swimming golden boy Matthew Richards targets more success]]></title>
+            <description><![CDATA[Welsh swimming Olympic champion Matthew Richards is already targeting more gold medal success in the pool.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58011008</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58011008</guid>
+            <pubDate>Thu, 29 Jul 2021 12:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Calum Jarvis: The fifth man of Team GB's 4x200m freestyle relay gold at Tokyo Olympics]]></title>
+            <description><![CDATA[He did not swim in the Olympic 4x200m freestyle relay final, but Calum Jarvis will return from Tokyo with a gold medal.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58012510</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58012510</guid>
+            <pubDate>Thu, 29 Jul 2021 12:02:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Athletes can light up Covid-hit Games, says Christian Malcolm]]></title>
             <description><![CDATA[UK Athletics head coach Christian Malcolm says the stars of track and field can "light up" the Olympics after the challenges brought by Covid-19.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57983062</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57983062</guid>
             <pubDate>Thu, 29 Jul 2021 10:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain's women beaten by New Zealand in rugby sevens]]></title>
-            <description><![CDATA[Great Britain's women suffer a blow in their Olympic rugby sevens quarter-final bid as a late New Zealand try saw them beaten 26-21 in the pool stage.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58009876</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58009876</guid>
-            <pubDate>Thu, 29 Jul 2021 10:13:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swansea City: Alan Tate unsure over club's managerial search]]></title>
-            <description><![CDATA[Alan Tate is unsure how long he will be in charge at Swansea City as the club's search for a manager continues.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58006315</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58006315</guid>
-            <pubDate>Wed, 28 Jul 2021 20:47:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Welsh rower Victoria Thornley says anything can happen in final]]></title>
@@ -177,13 +177,6 @@
             <pubDate>Thu, 29 Jul 2021 09:03:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Bwlch ariannol' yn rhwystro datblygiadau ynni gwyrdd]]></title>
-            <description><![CDATA[Rhaid mynd i'r afael â'r heriau sy'n wynebu datblygiadau ynni gwyrdd yng Nghymru, yn ôl gwleidyddion.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57949116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57949116</guid>
-            <pubDate>Thu, 29 Jul 2021 05:45:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Dwi eisiau byw fy mywyd yn ddibryder fel pawb arall']]></title>
             <description><![CDATA[Sicrhau mai Cymru yw'r wlad fwyaf cyfeillgar i bobl LHDTC+ yn Ewrop yw nod Llywodraeth Cymru.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58005355</link>
@@ -191,11 +184,18 @@
             <pubDate>Thu, 29 Jul 2021 06:04:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fy Stafell i: 'Stydi'r Meuryn' Ceri Wyn Jones]]></title>
-            <description><![CDATA[Meuryn Y Talwrn Ceri Wyn Jones sy'n ein tywys o gwmpas ei stydi]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57975995</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57975995</guid>
-            <pubDate>Wed, 28 Jul 2021 13:49:03 GMT</pubDate>
+            <title><![CDATA[Torrwr coed wedi marw'n ddamweiniol, medd rheithgor]]></title>
+            <description><![CDATA[Bu farw Ben Thomas wrth dorri coed mewn coedwig yn Sir Caerffili bron i bedair blynedd yn ôl.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58014569</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58014569</guid>
+            <pubDate>Thu, 29 Jul 2021 12:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ble mae Safleoedd Treftadaeth UNESCO Cymru?]]></title>
+            <description><![CDATA[Y mannau yng Nghymru sydd wedi ennill statws treftadaeth rhyngwladol]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58011709</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58011709</guid>
+            <pubDate>Thu, 29 Jul 2021 12:03:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Morgannwg yn colli o un rhediad yn y Cwpan Undydd]]></title>
