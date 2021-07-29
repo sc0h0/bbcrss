@@ -1,5 +1,5 @@
 1. [Richer parents pressure teachers on exam grades](https://www.bbc.co.uk/news/education-57999790) - Sharp-elbowed parents have chased better grades in this year's replacement exams, a study says.
-2. [Global fundraiser for 88 million more children in school](https://www.bbc.co.uk/news/education-58006728) - The summit in London wants to raise £3.6bn for schools in some of the world's poorest countries.
+2. [Global education summit targets pandemic-hit schooling](https://www.bbc.co.uk/news/education-58006728) - A summit in London is raising aid to support 175 million children in the poorest countries.
 3. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
 4. [Reckless to scrap BTecs, educators warn](https://www.bbc.co.uk/news/education-57996697) - The government is urged to rethink its plans to introduce new technical qualifications in England.
 5. [MPs call for national register of home-educated children](https://www.bbc.co.uk/news/education-57974170) - They say the government must "get a grip" on the number of children taught at home in England.

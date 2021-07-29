@@ -1,6 +1,6 @@
 1. [Under-25s exit furlough fastest as scheme nears end](https://www.bbc.co.uk/news/business-57981760) - The number of people on furlough is now at its lowest level since the start of the pandemic.
 2. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
-3. [Global fundraiser for 88 million more children in school](https://www.bbc.co.uk/news/education-58006728) - The summit in London wants to raise £3.6bn for schools in some of the world's poorest countries.
+3. [Global education summit targets pandemic-hit schooling](https://www.bbc.co.uk/news/education-58006728) - A summit in London is raising aid to support 175 million children in the poorest countries.
 4. [UK already undergoing disruptive climate change](https://www.bbc.co.uk/news/science-environment-57988023) - Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.
 5. [Price tag for new flagship royal yacht could hit £250m](https://www.bbc.co.uk/news/uk-politics-58002977) - The defence secretary confirms the cost of the new "floating embassy" could be £100m higher than expected.
 6. [Official Secrets Act: Do government plans threaten investigative journalism?](https://www.bbc.co.uk/news/uk-politics-57998950) - Campaigners and reporters say planned changes to the Official Secrets Act threaten press freedoms.
