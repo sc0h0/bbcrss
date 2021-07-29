@@ -1,8 +1,8 @@
 1. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
 2. [Van-Tam says jabs have prevented 60,000 Covid deaths](https://www.bbc.co.uk/news/newsbeat-58014546) - He says future lockdowns are less likely the more people, including 18-25-year olds, get vaccinated.
 3. [GB win canoe slalom silver and shooting bronze](https://www.bbc.co.uk/sport/olympics/58009952) - Mallory Franklin wins canoe slalom silver and shooter Matthew Coward-Holley claims trap bronze for Team GB on day six of the Olympics.
-4. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
-5. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
+4. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
+5. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
 6. [Actor Bob Odenkirk 'stable' after collapsing on set](https://www.bbc.co.uk/news/entertainment-arts-58009727) - The US actor is still in hospital after being rushed there from the set of Better Call Saul.
 7. ['We lost our life savings in a cryptocurrency scam'](https://www.bbc.co.uk/news/business-57983458) - A pensioner caught up in an investment saga lost it all, prompting warnings to others.
 8. [Cyclist jailed after Tower Hamlets hit-and-run death](https://www.bbc.co.uk/news/uk-england-london-58009784) - Peter McCombie died eight days after the crash from traumatic head injuries.
