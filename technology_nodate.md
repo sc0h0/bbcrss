@@ -15,11 +15,12 @@
 15. [Beach rover picks up cigarette butts and other tech news](https://www.bbc.co.uk/news/technology-57930091) - Jen Copestake looks at some of the best technology news stories of the week.
 16. [Cyber-flashing: 'I get explicit messages every day'](https://www.bbc.co.uk/news/uk-57902816) - Influencer Elle Edwards lets us inside her DMs to show the extent of sexual abuse faced by women online.
 17. [Spyware: The software that watches you](https://www.bbc.co.uk/news/technology-57894917) - BBC’s cyber reporter, Joe Tidy, agreed to be spied on to understand the spyware experience further.
-18. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
-19. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
-20. [Covid: Will lockdown change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
-21. [What does a future-proofed home look like?](https://www.bbc.co.uk/news/business-57738681) - The technology exists to make homes more resilient to extreme weather, but it can be expensive.
-22. [Zoomtown-on-Sea? The lure of a new life on the coast](https://www.bbc.co.uk/news/uk-57892934) - Remote working meant the Lancaster family could live anywhere - they found their sea view in Scarborough.
-23. [Pegasus scandal: Are we all becoming unknowing spies?](https://www.bbc.co.uk/news/technology-57910355) - We may be stepping into a world in which we are all spies - and at the same time are all spied on.
-24. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
-25. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
+18. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
+19. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
+20. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
+21. [Covid: Will lockdown change England's new tech habits?](https://www.bbc.co.uk/news/technology-57890005) - The pandemic brought about big changes in the way people use tech - the question is will they last?
+22. [What does a future-proofed home look like?](https://www.bbc.co.uk/news/business-57738681) - The technology exists to make homes more resilient to extreme weather, but it can be expensive.
+23. [Zoomtown-on-Sea? The lure of a new life on the coast](https://www.bbc.co.uk/news/uk-57892934) - Remote working meant the Lancaster family could live anywhere - they found their sea view in Scarborough.
+24. [Pegasus scandal: Are we all becoming unknowing spies?](https://www.bbc.co.uk/news/technology-57910355) - We may be stepping into a world in which we are all spies - and at the same time are all spied on.
+25. [Finding 'Grace': Murder, DNA and ancestry](https://www.bbc.co.uk/news/technology-57801794) - How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.
+26. [Why was my tweet about football labelled abusive?](https://www.bbc.co.uk/news/technology-57836409) - A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.
