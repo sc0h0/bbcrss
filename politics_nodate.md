@@ -3,7 +3,7 @@
 3. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
 4. [Holocaust memorial outside Parliament to go ahead](https://www.bbc.co.uk/news/uk-58012111) - Fears have been raised that the site could become a terrorist target, but ministers say it will be safe.
 5. [UK already undergoing disruptive climate change](https://www.bbc.co.uk/news/science-environment-57988023) - Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.
-6. [Price tag for new flagship royal yacht could hit £250m](https://www.bbc.co.uk/news/uk-politics-58002977) - The defence secretary confirms the cost of the new "floating embassy" could be £100m higher than expected.
+6. [Price tag for new flagship yacht could hit £250m](https://www.bbc.co.uk/news/uk-politics-58002977) - The defence secretary confirms the cost of the new "floating embassy" could be £100m higher than expected.
 7. [Official Secrets Act: Do government plans threaten investigative journalism?](https://www.bbc.co.uk/news/uk-politics-57998950) - Campaigners and reporters say planned changes to the Official Secrets Act threaten press freedoms.
 8. [Malala says girls' education 'worth fighting for'](https://www.bbc.co.uk/news/education-58006728) - The campaigner tells a summit that improving education should be a key part of the pandemic recovery.
 9. [Boris Johnson predicts steady economic recovery post-pandemic](https://www.bbc.co.uk/news/uk-politics-57995845) - Boris Johnson still warns of "bumps on the road" ahead as the IMF predicts 7% growth for the UK economy.

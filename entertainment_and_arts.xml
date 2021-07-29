@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 15:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 16:18:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[The Suicide Squad: Positive reviews for 'riotous' film]]></title>
+            <description><![CDATA[Critics largely embrace the film, with most saying it is "slicker and funnier" than the 2016 movie.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58009752</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58009752</guid>
+            <pubDate>Thu, 29 Jul 2021 16:18:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022]]></title>
             <description><![CDATA[The star of the BBC sci-fi drama series will bow out with a trio of specials.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58009824</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58009824</guid>
             <pubDate>Thu, 29 Jul 2021 10:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[H.E.R. on shedding her anonymity and conquering R&B]]></title>
-            <description><![CDATA[For years the singer stayed in the shadows but after Grammy and Oscar wins she's ready to be seen.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57987421</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57987421</guid>
-            <pubDate>Wed, 28 Jul 2021 23:16:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marilyn Manson files to dismiss Esme Bianco's sex assault case]]></title>
@@ -100,11 +100,11 @@
             <pubDate>Wed, 28 Jul 2021 17:52:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shamook: Star Wars effects company ILM hires Mandalorian deepfaker]]></title>
-            <description><![CDATA[The artist, who uses the online alias Shamook, has been recruited by Industrial Light and Magic.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57996094</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57996094</guid>
-            <pubDate>Wed, 28 Jul 2021 15:08:41 GMT</pubDate>
+            <title><![CDATA[H.E.R. on shedding her anonymity and conquering R&B]]></title>
+            <description><![CDATA[For years the singer stayed in the shadows but after Grammy and Oscar wins she's ready to be seen.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-57987421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57987421</guid>
+            <pubDate>Wed, 28 Jul 2021 23:16:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Knitting photo wins Wellcome Photography Prize]]></title>

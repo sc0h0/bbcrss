@@ -1,6 +1,6 @@
-1. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
-2. [X Factor: ITV has no plans for another series of the show](https://www.bbc.co.uk/news/entertainment-arts-58009824) - The fat lady may be singing for Simon Cowell's long-running but currently dormant TV talent show.
-3. [H.E.R. on shedding her anonymity and conquering R&B](https://www.bbc.co.uk/news/entertainment-arts-57987421) - For years the singer stayed in the shadows but after Grammy and Oscar wins she's ready to be seen.
+1. [The Suicide Squad: Positive reviews for 'riotous' film](https://www.bbc.co.uk/news/entertainment-arts-58009752) - Critics largely embrace the film, with most saying it is "slicker and funnier" than the 2016 movie.
+2. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
+3. [X Factor: ITV has no plans for another series of the show](https://www.bbc.co.uk/news/entertainment-arts-58009824) - The fat lady may be singing for Simon Cowell's long-running but currently dormant TV talent show.
 4. [Marilyn Manson files to dismiss Esme Bianco's sex assault case](https://www.bbc.co.uk/news/entertainment-arts-58010542) - The rock star says claims by Game of Thrones actress Esme Bianco are part of a "coordinated attack".
 5. [Bob Odenkirk: Better Call Saul actor 'stable' after 'heart-related incident' during filming](https://www.bbc.co.uk/news/entertainment-arts-58009727) - The US actor is still in hospital after being rushed there from the set of Better Call Saul.
 6. [Johnny Ventura: Dominican merengue legend dies aged 81](https://www.bbc.co.uk/news/world-latin-america-58011686) - The Dominican Republic singer, whose career spanned six decades, is seen as a Latin music legend.
@@ -10,7 +10,7 @@
 10. [Fake or Fortune?: 'Henry Moore sculpture' mystery solved by TV show](https://www.bbc.co.uk/news/uk-england-norfolk-57986891) - Experts give their verdict on a piece thought to be the work of the acclaimed artist.
 11. [Arthur: Popular children's show to end after 25 years](https://www.bbc.co.uk/news/world-us-canada-58005458) - US public broadcaster PBS confirmed the final episode will air in winter 2022.
 12. [Marble Arch Mound: 'I wouldn't pay £4 to walk up a hill'](https://www.bbc.co.uk/news/uk-england-london-58001770) - The public reacts to London's newest tourist attraction, which is facing complaints of being incomplete.
-13. [Shamook: Star Wars effects company ILM hires Mandalorian deepfaker](https://www.bbc.co.uk/news/entertainment-arts-57996094) - The artist, who uses the online alias Shamook, has been recruited by Industrial Light and Magic.
+13. [H.E.R. on shedding her anonymity and conquering R&B](https://www.bbc.co.uk/news/entertainment-arts-57987421) - For years the singer stayed in the shadows but after Grammy and Oscar wins she's ready to be seen.
 14. [Knitting photo wins Wellcome Photography Prize](https://www.bbc.co.uk/news/in-pictures-57989254) - A gallery of some of the winning pictures from this year's Wellcome Photography Prize.
 15. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.
 16. [Amy Winehouse: Could there be new music on the way?](https://www.bbc.co.uk/news/entertainment-arts-57926362) - Ten years after her death, Amy's parents say they want fans to hear CDs of her unreleased material.

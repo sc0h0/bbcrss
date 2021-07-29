@@ -2,13 +2,13 @@
 2. [LGBTQ: Wales' bid to be 'most friendly' nation in Europe](https://www.bbc.co.uk/news/uk-wales-57986732) - A new plan aims to make Wales "the most LGBTQ+ friendly" nation in Europe.
 3. [Olympics: Headstone bid for champion in unmarked grave](https://www.bbc.co.uk/news/uk-wales-58008948) - Cecil Griffiths died in poverty and his family could not afford a headstone for the relay winner.
 4. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58011880) - A yellow warning for wind covers large parts of the south Wales coast on Thursday and Friday.
-5. [Death of Caerphilly lumberjack crushed by tree accidental](https://www.bbc.co.uk/news/uk-wales-58009263) - Ben Thomas was killed when a tree leaning against the one he had just cut down fell and crushed him.
-6. [Covid case rate falls for eighth consecutive day](https://www.bbc.co.uk/news/uk-wales-58009193) - Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.
-7. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
-8. [Snowdon: Two women hit by lightning at mountain summit](https://www.bbc.co.uk/news/uk-wales-57999183) - Rescuers said the pair were "very lucky" to be alive after being hit by a lightning on Snowdon.
-9. [Swindon pair found guilty of trafficking vulnerable women](https://www.bbc.co.uk/news/uk-england-wiltshire-58015900) - Cristian Simion and Mihaela Borcos made about £70k after exploiting women who had come to the UK.
-10. [Climate change: Green energy barriers 'threaten' net zero goal](https://www.bbc.co.uk/news/uk-wales-58001745) - Problems starting renewable energy schemes could see firms bypass Wales, a group of MPs warn.
-11. [Woman died in Cardiff home after waiting 'hours' for ambulance](https://www.bbc.co.uk/news/uk-wales-58005545) - Maria Whale's husband John questioned whether his wife would have lived if help had come sooner.
+5. [Covid case rate falls for eighth consecutive day](https://www.bbc.co.uk/news/uk-wales-58009193) - Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.
+6. [Anglesey farmer, 63, dies in pick-up truck crash](https://www.bbc.co.uk/news/uk-wales-58011879) - Police are appealing for witnesses and dashcam footage after single-vehicle crash on Anglesey.
+7. [Death of Caerphilly lumberjack crushed by tree accidental](https://www.bbc.co.uk/news/uk-wales-58009263) - Ben Thomas was killed when a tree leaning against the one he had just cut down fell and crushed him.
+8. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
+9. [Snowdon: Two women hit by lightning at mountain summit](https://www.bbc.co.uk/news/uk-wales-57999183) - Rescuers said the pair were "very lucky" to be alive after being hit by a lightning on Snowdon.
+10. [Swindon pair found guilty of trafficking vulnerable women](https://www.bbc.co.uk/news/uk-england-wiltshire-58015900) - Cristian Simion and Mihaela Borcos made about £70k after exploiting women who had come to the UK.
+11. [Climate change: Green energy barriers 'threaten' net zero goal](https://www.bbc.co.uk/news/uk-wales-58001745) - Problems starting renewable energy schemes could see firms bypass Wales, a group of MPs warn.
 12. [LGBTQ people 'need to be part of' Wales' awareness push](https://www.bbc.co.uk/news/uk-wales-58001743) - It is hoped a new plan will see LGBTQ+ rights made mainstream across schools and the public sector.
 13. [Welsh slate landscape crowned a World Heritage site](https://www.bbc.co.uk/news/uk-wales-58007018) - The slate landscape of north-west Wales becomes the 32 UK site to be on Unesco's heritage list.
 14. [Woman who died in 'severe' pain at Cardiff home waited 'hours' for ambulance](https://www.bbc.co.uk/news/uk-wales-58006259) - John Whale's wife Maria died after they waited more than two hours for an ambulance.
