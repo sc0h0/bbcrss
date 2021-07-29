@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 17:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 17:49:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,18 +72,11 @@
             <pubDate>Thu, 29 Jul 2021 14:21:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cyclist jailed after Tower Hamlets hit-and-run death]]></title>
-            <description><![CDATA[Peter McCombie died eight days after the crash from traumatic head injuries.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58009784</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58009784</guid>
-            <pubDate>Thu, 29 Jul 2021 09:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Victoria Hall: Man released under investigation over 1999 murder]]></title>
-            <description><![CDATA[Victoria Hall, 17, was abducted on her way home from a Suffolk nightclub more than 20 years ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58015434</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58015434</guid>
-            <pubDate>Thu, 29 Jul 2021 15:54:58 GMT</pubDate>
+            <title><![CDATA[Charity art trail defaced with 'anti-vax' stickers]]></title>
+            <description><![CDATA[Several statues on display for the Sheffield charity art event were "vandalised", a charity says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58017279</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58017279</guid>
+            <pubDate>Thu, 29 Jul 2021 16:25:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Good Samaritan plumber fears company closure]]></title>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-58011836</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58011836</guid>
             <pubDate>Thu, 29 Jul 2021 13:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farmer loses four year legal bid to save alpaca]]></title>
+            <description><![CDATA[Geronimo twice tested positive for bovine TB but his owner refused a government order to cull him.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57997877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-57997877</guid>
+            <pubDate>Thu, 29 Jul 2021 16:52:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hidden Lake District railway station restored by couple]]></title>
@@ -175,6 +175,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58012030</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58012030</guid>
             <pubDate>Thu, 29 Jul 2021 11:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Victoria Hall: Man released under investigation over 1999 murder]]></title>
+            <description><![CDATA[Victoria Hall, 17, was abducted on her way home from a Suffolk nightclub more than 20 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58015434</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58015434</guid>
+            <pubDate>Thu, 29 Jul 2021 15:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cyclist jailed after Tower Hamlets hit-and-run death]]></title>
+            <description><![CDATA[Peter McCombie died eight days after the crash from traumatic head injuries.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58009784</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58009784</guid>
+            <pubDate>Thu, 29 Jul 2021 09:34:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rare Harry Potter book sells for £80k at Leyburn auction]]></title>
