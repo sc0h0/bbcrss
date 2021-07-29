@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 12:33:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 13:02:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[NHS Covid-19 app pings rise by over 70,000 to new record]]></title>
+            <description><![CDATA[The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57970603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57970603</guid>
+            <pubDate>Thu, 29 Jul 2021 11:52:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: University students could be told jabs are required - Raab]]></title>
             <description><![CDATA[There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.]]></description>
@@ -30,6 +37,13 @@
             <pubDate>Thu, 29 Jul 2021 07:53:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Malala says girls' education 'worth fighting for']]></title>
+            <description><![CDATA[Education summit in London is raising aid to support 175 million children in the poorest countries.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58006728</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58006728</guid>
+            <pubDate>Thu, 29 Jul 2021 11:33:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Actor Bob Odenkirk 'stable' after collapsing on set]]></title>
             <description><![CDATA[The US actor is still in hospital after being rushed there from the set of Better Call Saul.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58009727</link>
@@ -37,11 +51,11 @@
             <pubDate>Thu, 29 Jul 2021 09:15:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hillsborough's 97th victim was unlawfully killed, coroner concludes]]></title>
-            <description><![CDATA[Andrew Devine died as a result of injuries he sustained 32 years earlier, a coroner concludes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58011373</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58011373</guid>
-            <pubDate>Thu, 29 Jul 2021 11:46:08 GMT</pubDate>
+            <title><![CDATA['We lost our life savings in a cryptocurrency scam']]></title>
+            <description><![CDATA[A pensioner caught up in an investment saga lost it all, prompting warnings to others.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57983458</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57983458</guid>
+            <pubDate>Wed, 28 Jul 2021 23:03:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Holocaust memorial outside Parliament to go ahead]]></title>
@@ -58,25 +72,18 @@
             <pubDate>Thu, 29 Jul 2021 07:13:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fewest people on furlough since pandemic began]]></title>
-            <description><![CDATA[Under-25s are coming off furlough twice as fast as all other age brackets, says the Treasury.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57981760</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57981760</guid>
-            <pubDate>Thu, 29 Jul 2021 11:18:58 GMT</pubDate>
+            <title><![CDATA[Wayne Rooney apologises over hotel photographs]]></title>
+            <description><![CDATA[Derby boss Wayne Rooney apologises to his family and club after images of the ex-England and Manchester United forward were shared online.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58003766</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58003766</guid>
+            <pubDate>Wed, 28 Jul 2021 21:44:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Malala says girls' education 'worth fighting for']]></title>
-            <description><![CDATA[Education summit in London is raising aid to support 175 million children in the poorest countries.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58006728</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58006728</guid>
-            <pubDate>Thu, 29 Jul 2021 11:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We lost our life savings in a cryptocurrency scam']]></title>
-            <description><![CDATA[A pensioner caught up in an investment saga lost it all, prompting warnings to others.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57983458</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57983458</guid>
-            <pubDate>Wed, 28 Jul 2021 23:03:30 GMT</pubDate>
+            <title><![CDATA[Peter McCombie: Cyclist jailed after Tower Hamlets hit-and-run death]]></title>
+            <description><![CDATA[The 72-year-old died eight days after the crash from traumatic head injuries.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58009784</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58009784</guid>
+            <pubDate>Thu, 29 Jul 2021 09:34:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[X Factor: ITV has no plans for another series of the show]]></title>
@@ -86,18 +93,18 @@
             <pubDate>Thu, 29 Jul 2021 10:22:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wayne Rooney apologises over hotel photographs]]></title>
-            <description><![CDATA[Derby boss Wayne Rooney apologises to his family and club after images of the ex-England and Manchester United forward were shared online.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58003766</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58003766</guid>
-            <pubDate>Wed, 28 Jul 2021 21:44:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mikey Poulli: The young blind footballer backed by star players]]></title>
             <description><![CDATA[Mikey Poulli, who lost his sight due to a rare degenerative condition, dreams of playing for England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-57987451</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57987451</guid>
             <pubDate>Wed, 28 Jul 2021 23:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rare Harry Potter book sells for £80k at Leyburn auction]]></title>
+            <description><![CDATA[The volume sold at auction in North Yorkshire for almost three times its estimated price.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58003050</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58003050</guid>
+            <pubDate>Thu, 29 Jul 2021 12:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: The doctor sisters working through the pandemic]]></title>
@@ -268,18 +275,18 @@
             <pubDate>Thu, 29 Jul 2021 09:04:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Watch the best moments from the 'Brutal' BMX quarter-finals]]></title>
-            <description><![CDATA[Watch some of the best moments from the "brutal" BMX quarter-finals featuring GB's Kye Whyte and Bethany Shriever who both progressed to the semi-finals.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58011106</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58011106</guid>
-            <pubDate>Thu, 29 Jul 2021 11:52:34 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Michaela Blyde stars in best women's sevens tries as Team GB and New Zealand play out thriller]]></title>
+            <description><![CDATA[Watch the best tries of today from six fixture in the women's rugby sevens tournament, including action from a thrilling game between Great Britain and New Zealand.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58011066</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58011066</guid>
+            <pubDate>Thu, 29 Jul 2021 12:41:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Djokovic into semis after thrashing Nishikori as Bencic reaches women's final]]></title>
             <description><![CDATA[Novak Djokovic remains on course for a 'Golden Slam' after thrashing home hope Kei Nishikori to ease into the Olympic semi-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58010246</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58010246</guid>
-            <pubDate>Thu, 29 Jul 2021 11:14:41 GMT</pubDate>
+            <pubDate>Thu, 29 Jul 2021 12:42:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Mallory Franklin wins canoe slalom silver as shooter Matthew Coward-Holley wins trap bronze]]></title>

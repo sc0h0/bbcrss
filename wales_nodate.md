@@ -1,14 +1,14 @@
 1. [Llanelli boy 'didn't get enough support' from school before death](https://www.bbc.co.uk/news/uk-wales-58011859) - Byron John says his son Bradley "had a future that he wanted and yearned for".
 2. [LGBTQ: Wales' bid to be 'most friendly' nation in Europe](https://www.bbc.co.uk/news/uk-wales-57986732) - A new plan aims to make Wales "the most LGBTQ+ friendly" nation in Europe.
-3. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58011880) - A yellow warning for wind covers large parts of the south Wales coast on Thursday and Friday.
-4. [Snowdon: Two women hit by lightning at mountain summit](https://www.bbc.co.uk/news/uk-wales-57999183) - Rescuers said the pair were "very lucky" to be alive after being hit by a lightning on Snowdon.
-5. [Olympics: Headstone bid for champion in unmarked grave](https://www.bbc.co.uk/news/uk-wales-58008948) - Cecil Griffiths died in poverty and his family could not afford a headstone for the relay winner.
-6. [Covid case rate falls for eighth consecutive day](https://www.bbc.co.uk/news/uk-wales-58009193) - Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.
-7. [Climate change: Green energy barriers 'threaten' net zero goal](https://www.bbc.co.uk/news/uk-wales-58001745) - Problems starting renewable energy schemes could see firms bypass Wales, a group of MPs warn.
-8. [Woman died in Cardiff home after waiting 'hours' for ambulance](https://www.bbc.co.uk/news/uk-wales-58005545) - Maria Whale's husband John questioned whether his wife would have lived if help had come sooner.
-9. [Wales' slate landscape wins World Heritage status](https://www.bbc.co.uk/news/uk-wales-57986167) - The north-west slate mining area is said to have "roofed the world" at its height in the 19th Century.
-10. [Welsh film moves production to Lithuania due to lack of funding](https://www.bbc.co.uk/news/uk-wales-57986735) - A film staring Ray Winstone is moving production to Lithuania due to lack of funding in Wales
-11. [Caerphilly lumberjack 'not due to work' when crushed by tree](https://www.bbc.co.uk/news/uk-wales-58003299) - Ben Thomas changed his plans when he picked up a new chainsaw and was offered work, inquest hears.
+3. [Olympics: Headstone bid for champion in unmarked grave](https://www.bbc.co.uk/news/uk-wales-58008948) - Cecil Griffiths died in poverty and his family could not afford a headstone for the relay winner.
+4. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58011880) - A yellow warning for wind covers large parts of the south Wales coast on Thursday and Friday.
+5. [Snowdon: Two women hit by lightning at mountain summit](https://www.bbc.co.uk/news/uk-wales-57999183) - Rescuers said the pair were "very lucky" to be alive after being hit by a lightning on Snowdon.
+6. [Death of Caerphilly lumberjack crushed by tree accidental](https://www.bbc.co.uk/news/uk-wales-58009263) - Ben Thomas was killed when a tree leaning against the one he had just cut down fell and crushed him.
+7. [Covid case rate falls for eighth consecutive day](https://www.bbc.co.uk/news/uk-wales-58009193) - Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.
+8. [Climate change: Green energy barriers 'threaten' net zero goal](https://www.bbc.co.uk/news/uk-wales-58001745) - Problems starting renewable energy schemes could see firms bypass Wales, a group of MPs warn.
+9. [Woman died in Cardiff home after waiting 'hours' for ambulance](https://www.bbc.co.uk/news/uk-wales-58005545) - Maria Whale's husband John questioned whether his wife would have lived if help had come sooner.
+10. [Wales' slate landscape wins World Heritage status](https://www.bbc.co.uk/news/uk-wales-57986167) - The north-west slate mining area is said to have "roofed the world" at its height in the 19th Century.
+11. [Welsh film moves production to Lithuania due to lack of funding](https://www.bbc.co.uk/news/uk-wales-57986735) - A film staring Ray Winstone is moving production to Lithuania due to lack of funding in Wales
 12. [LGBTQ people 'need to be part of' Wales' awareness push](https://www.bbc.co.uk/news/uk-wales-58001743) - It is hoped a new plan will see LGBTQ+ rights made mainstream across schools and the public sector.
 13. [Welsh slate landscape crowned a World Heritage site](https://www.bbc.co.uk/news/uk-wales-58007018) - The slate landscape of north-west Wales becomes the 32 UK site to be on Unesco's heritage list.
 14. [Woman who died in 'severe' pain at Cardiff home waited 'hours' for ambulance](https://www.bbc.co.uk/news/uk-wales-58006259) - John Whale's wife Maria died after they waited more than two hours for an ambulance.
