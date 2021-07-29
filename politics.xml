@@ -11,23 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 09:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 09:30:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: Furlough scheme set to wind down further]]></title>
-            <description><![CDATA[Employers will have to contribute more to the job support scheme before it is phased out in September.]]></description>
+            <title><![CDATA[Under-25s exit furlough fastest as scheme nears end]]></title>
+            <description><![CDATA[The number of people on furlough is now at its lowest level since the start of the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/business-57981760</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57981760</guid>
-            <pubDate>Wed, 28 Jul 2021 23:03:02 GMT</pubDate>
+            <pubDate>Thu, 29 Jul 2021 09:26:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Self-isolation rule changes on 16 August 'nailed on' - PM]]></title>
-            <description><![CDATA[Recent falls in cases are encouraging but it is too early to draw conclusions, Boris Johnson says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57998247</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57998247</guid>
-            <pubDate>Wed, 28 Jul 2021 15:17:59 GMT</pubDate>
+            <title><![CDATA[Covid: University students could be told jabs are required - Raab]]></title>
+            <description><![CDATA[There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58009677</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58009677</guid>
+            <pubDate>Thu, 29 Jul 2021 09:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global fundraiser for 88 million more children in school]]></title>
+            <description><![CDATA[The summit in London wants to raise £3.6bn for schools in some of the world's poorest countries.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58006728</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58006728</guid>
+            <pubDate>Thu, 29 Jul 2021 09:25:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK already undergoing disruptive climate change]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57988023</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57988023</guid>
             <pubDate>Thu, 29 Jul 2021 07:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson predicts steady economic recovery post-pandemic]]></title>
-            <description><![CDATA[Boris Johnson still warns of "bumps on the road" ahead as the IMF predicts 7% growth for the UK economy.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57995845</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57995845</guid>
-            <pubDate>Wed, 28 Jul 2021 09:06:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Price tag for new flagship royal yacht could hit £250m]]></title>
@@ -56,6 +56,20 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57998950</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57998950</guid>
             <pubDate>Thu, 29 Jul 2021 07:25:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boris Johnson predicts steady economic recovery post-pandemic]]></title>
+            <description><![CDATA[Boris Johnson still warns of "bumps on the road" ahead as the IMF predicts 7% growth for the UK economy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-57995845</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57995845</guid>
+            <pubDate>Wed, 28 Jul 2021 09:06:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Self-isolation rule changes on 16 August 'nailed on' - PM]]></title>
+            <description><![CDATA[Recent falls in cases are encouraging but it is too early to draw conclusions, Boris Johnson says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-57998247</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57998247</guid>
+            <pubDate>Wed, 28 Jul 2021 15:17:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: UK sends nine million vaccines to vulnerable countries]]></title>
