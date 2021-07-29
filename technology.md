@@ -1,4 +1,4 @@
-1. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - Thu, 29 Jul 2021 13:02:08 GMT - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
+1. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - Thu, 29 Jul 2021 13:26:56 GMT - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
 2. [Fresh warning over rip-off locator forms on Google](https://www.bbc.co.uk/news/technology-58001205) - Thu, 29 Jul 2021 00:01:31 GMT - 'Devious' sites which charge money for a free passenger locator form top search engine results.
 3. [Older Kindles may lose internet connection, Amazon warns](https://www.bbc.co.uk/news/technology-58013362) - Thu, 29 Jul 2021 12:27:45 GMT - Amazon tells customers older Kindles might lost their ability to connect online.
 4. [Google app charges targeted by mass legal claim](https://www.bbc.co.uk/news/technology-57996912) - Thu, 29 Jul 2021 06:50:40 GMT - A new legal action seeks compensation for all UK Android users who buy apps on Google Play.
