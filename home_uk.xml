@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 20:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 20:36:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,25 @@
             <pubDate>Thu, 29 Jul 2021 16:13:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS Covid-19 app pings rise by over 70,000 to new record]]></title>
-            <description><![CDATA[The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57970603</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57970603</guid>
-            <pubDate>Thu, 29 Jul 2021 13:26:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Marcus Coutain: Knee-on-neck arrest PC will not face disciplinary action]]></title>
             <description><![CDATA[Footage showed Marcus Coutain asking an officer to "get off my neck" during his arrest in July 2020.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58017384</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58017384</guid>
             <pubDate>Thu, 29 Jul 2021 19:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storm Evert: South West braces for 75mph winds and heavy rain]]></title>
+            <description><![CDATA[Heavy rain and strong winds are expected to hit the region.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58010633</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58010633</guid>
+            <pubDate>Thu, 29 Jul 2021 19:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS Covid-19 app pings rise by over 70,000 to new record]]></title>
+            <description><![CDATA[The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57970603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57970603</guid>
+            <pubDate>Thu, 29 Jul 2021 13:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daphne Caruana Galizia: Malta responsible for journalist death - inquiry]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58009952</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58009952</guid>
             <pubDate>Thu, 29 Jul 2021 15:39:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storm Evert: South West braces for 75mph winds and heavy rain]]></title>
-            <description><![CDATA[Heavy rain and strong winds are expected to hit the region.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58010633</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58010633</guid>
-            <pubDate>Thu, 29 Jul 2021 19:23:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Actor Bob Odenkirk 'stable' after collapsing on set]]></title>
@@ -265,7 +265,7 @@
             <description><![CDATA[Trent Rockets maintain their 100% record in the men's Hundred as they edge past London Spirit in a low-scoring thriller at Lord's.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58020224</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58020224</guid>
-            <pubDate>Thu, 29 Jul 2021 20:18:44 GMT</pubDate>
+            <pubDate>Thu, 29 Jul 2021 20:30:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Red Bull's Hamilton penalty request rejected]]></title>
