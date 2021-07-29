@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 21:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 22:02:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Drug deaths in Scotland could rise to new record]]></title>
+            <description><![CDATA[Experts are predicting that the country's drug-related deaths could increase for the seventh year in a row.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58019510</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58019510</guid>
+            <pubDate>Thu, 29 Jul 2021 21:58:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nearly 35,000 workers in Scotland removed from furlough scheme]]></title>
             <description><![CDATA[A total of 141,500 remained on the job retention scheme at the end of June - down from 175,300 at the end of May.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58018127</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58018127</guid>
             <pubDate>Thu, 29 Jul 2021 20:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Thu, 29 Jul 2021 13:49:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Airport chief welcomes travel changes but warns normality 'long way' off]]></title>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58007215</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58007215</guid>
             <pubDate>Thu, 29 Jul 2021 05:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Thu, 29 Jul 2021 13:49:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
