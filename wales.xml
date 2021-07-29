@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 18:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 18:54:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Freshwater East: Callum Jones left paralysed after diving into sea]]></title>
+            <description><![CDATA[Callum Jones ran into the water and dived in, hitting something beneath the surface.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58009262</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58009262</guid>
+            <pubDate>Thu, 29 Jul 2021 18:47:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Llanelli boy 'didn't get enough support' from school before death]]></title>
             <description><![CDATA[Byron John says his son Bradley "had a future that he wanted and yearned for".]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58009263</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58009263</guid>
             <pubDate>Thu, 29 Jul 2021 12:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snowdon: Two women hit by lightning at mountain summit]]></title>
-            <description><![CDATA[Rescuers said the pair were "very lucky" to be alive after being hit by a lightning on Snowdon.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57999183</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57999183</guid>
-            <pubDate>Wed, 28 Jul 2021 21:32:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bradley John 'should be coming up to his 18th birthday']]></title>
@@ -184,18 +184,18 @@
             <pubDate>Thu, 29 Jul 2021 09:03:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd']]></title>
+            <description><![CDATA[Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58003945</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58003945</guid>
+            <pubDate>Thu, 29 Jul 2021 18:47:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Storm Evert i daro mannau ar hyd arfordir de Cymru]]></title>
             <description><![CDATA[Dywed y Swyddfa Dywydd fod gwyntoedd o hyd at 65mya mewn mannau arfordirol yn debygol.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58003946</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58003946</guid>
             <pubDate>Thu, 29 Jul 2021 17:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Torrwr coed wedi marw'n ddamweiniol, medd rheithgor]]></title>
-            <description><![CDATA[Bu farw Ben Thomas wrth dorri coed mewn coedwig yn Sir Caerffili bron i bedair blynedd yn ôl.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58014569</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58014569</guid>
-            <pubDate>Thu, 29 Jul 2021 12:06:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ble mae Safleoedd Treftadaeth UNESCO Cymru?]]></title>
