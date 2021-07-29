@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 06:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 06:34:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58005882</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58005882</guid>
             <pubDate>Thu, 29 Jul 2021 05:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK already undergoing disruptive climate change]]></title>
+            <description><![CDATA[Last year was the third warmest, fifth wettest and eight sunniest on record in the UK, scientists warn.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57988023</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57988023</guid>
+            <pubDate>Thu, 29 Jul 2021 00:15:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man killed in Aberdeenshire after crash between car and lorry]]></title>
@@ -296,27 +303,6 @@
             <pubDate>Fri, 23 Jul 2021 21:40:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain win emphatic gold in 4x200m freestyle relay]]></title>
-            <description><![CDATA[Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57993545</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57993545</guid>
-            <pubDate>Wed, 28 Jul 2021 13:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain rowers win silver in men's quadruple sculls]]></title>
-            <description><![CDATA[Britain's rowers win their first Olympic medal in the men's quadruple sculls as Harry Leask, Angus Groom, Tom Barras and Jack Beaumont claim silver at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57993357</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57993357</guid>
-            <pubDate>Wed, 28 Jul 2021 03:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics tennis: Andy Murray & Joe Salisbury out, Novak Djokovic wins]]></title>
-            <description><![CDATA[Andy Murray's bid for an Olympic gold at a third successive Games ends as he and Joe Salisbury lose in the men's doubles semi-finals in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57994553</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57994553</guid>
-            <pubDate>Wed, 28 Jul 2021 13:20:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Celtic: Ange Postecoglou says he's been not clear enough about need for signings]]></title>
             <description><![CDATA[Celtic manager Ange Postecoglou says he has not "done a good enough job of convincing" the club's hierarchy of the need for squad reinforcements after their Champions League exit.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58007048</link>
@@ -324,11 +310,32 @@
             <pubDate>Wed, 28 Jul 2021 22:41:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: A gold and silver in the water, but Murray suffers doubles defeat]]></title>
-            <description><![CDATA[Scotland take their medal tally to three with a gold and silver, but Andy Murray's Olympics are over.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57995231</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57995231</guid>
-            <pubDate>Wed, 28 Jul 2021 06:34:17 GMT</pubDate>
+            <title><![CDATA[Helen Glover and Polly Swann: Team GB pair finish fourth in rowing final at Tokyo Olympics]]></title>
+            <description><![CDATA[Double Olympic champion Helen Glover and partner Polly Swann finish fourth in the women's pair final at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58007455</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58007455</guid>
+            <pubDate>Thu, 29 Jul 2021 01:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Team GB's Duncan Scott wins 200m individual medley semi-final]]></title>
+            <description><![CDATA[Watch as Team GB's Duncan Scott swims his way into the 200m individual medley final where he will try to win his third medal at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58007828</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58007828</guid>
+            <pubDate>Thu, 29 Jul 2021 03:58:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Great Britain win emphatic gold in 4x200m freestyle relay]]></title>
+            <description><![CDATA[Great Britain's men secure another gold in the Olympic pool with a dominant victory in the 4x200m freestyle relay in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57993545</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57993545</guid>
+            <pubDate>Wed, 28 Jul 2021 13:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics tennis: Andy Murray & Joe Salisbury out, Novak Djokovic wins]]></title>
+            <description><![CDATA[Andy Murray's bid for an Olympic gold at a third successive Games ends as he and Joe Salisbury lose in the men's doubles semi-finals in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57994553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57994553</guid>
+            <pubDate>Wed, 28 Jul 2021 13:20:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
