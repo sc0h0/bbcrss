@@ -1,15 +1,15 @@
 1. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
-2. [Google to ban sugar-daddy apps from Play Store](https://www.bbc.co.uk/news/technology-58011672) - Apps focused on "compensated sexual relationships" will be prohibited from 1 September.
-3. [Fresh warning over rip-off locator forms on Google](https://www.bbc.co.uk/news/technology-58001205) - 'Devious' sites which charge money for a free passenger locator form top search engine results.
-4. [Older Kindles may lose internet connection, Amazon warns](https://www.bbc.co.uk/news/technology-58013362) - Amazon tells customers older Kindles might lose their ability to connect online.
-5. [Google app charges targeted by mass legal claim](https://www.bbc.co.uk/news/technology-57996912) - A new legal action seeks compensation for all UK Android users who buy apps on Google Play.
-6. [Facebook warns growth set to slow 'significantly'](https://www.bbc.co.uk/news/business-58006689) - The technology giant said on Wednesday that the third and fourth quarters would see advertising sales drop.
-7. [Uber slides over reports SoftBank selling 45 million shares](https://www.bbc.co.uk/news/business-58007745) - Japan's SoftBank is selling the shares to cover losses in other investments, according to one report.
-8. [Covid-19: The pandemic explored in maps and data](https://www.bbc.co.uk/news/technology-58001206) - Political scientist Dr Robert Muggah looks at the effects of the pandemic and national lockdowns.
-9. [Activision Blizzard staff walk out over harassment claims](https://www.bbc.co.uk/news/world-us-canada-58005455) - Employees of the company behind Call of Duty are angry over allegations of sexism and harassment.
-10. [Intel chief warns of two-year chip shortage](https://www.bbc.co.uk/news/technology-57996908) - Pat Gelsinger talks chip crisis, China and how the firm intends to fight back in the marketplace.
-11. [Ofcom appoints online safety head to take on big tech](https://www.bbc.co.uk/news/technology-57996909) - Anna-Sophie Harling will have responsibility over how big technology companies regulate harmful speech.
-12. [Former eBay supervisor jailed for cyber-stalking critics](https://www.bbc.co.uk/news/technology-57997117) - A former police captain turned eBay employee harassed critics of the online-auction company.
+2. [Rick Astley rolls into a billion YouTube views](https://www.bbc.co.uk/news/technology-58011677) - Rickroll meme helps Never Gonna Give You Up reach new heights.
+3. [Google to ban sugar-daddy apps from Play Store](https://www.bbc.co.uk/news/technology-58011672) - Apps focused on "compensated sexual relationships" will be prohibited from 1 September.
+4. [Fresh warning over rip-off locator forms on Google](https://www.bbc.co.uk/news/technology-58001205) - 'Devious' sites which charge money for a free passenger locator form top search engine results.
+5. [Older Kindles may lose internet connection, Amazon warns](https://www.bbc.co.uk/news/technology-58013362) - Amazon tells customers older Kindles might lose their ability to connect online.
+6. [Google app charges targeted by mass legal claim](https://www.bbc.co.uk/news/technology-57996912) - A new legal action seeks compensation for all UK Android users who buy apps on Google Play.
+7. [Facebook warns growth set to slow 'significantly'](https://www.bbc.co.uk/news/business-58006689) - The technology giant said on Wednesday that the third and fourth quarters would see advertising sales drop.
+8. [Uber slides over reports SoftBank selling 45 million shares](https://www.bbc.co.uk/news/business-58007745) - Japan's SoftBank is selling the shares to cover losses in other investments, according to one report.
+9. [Covid-19: The pandemic explored in maps and data](https://www.bbc.co.uk/news/technology-58001206) - Political scientist Dr Robert Muggah looks at the effects of the pandemic and national lockdowns.
+10. [Activision Blizzard staff walk out over harassment claims](https://www.bbc.co.uk/news/world-us-canada-58005455) - Employees of the company behind Call of Duty are angry over allegations of sexism and harassment.
+11. [Intel chief warns of two-year chip shortage](https://www.bbc.co.uk/news/technology-57996908) - Pat Gelsinger talks chip crisis, China and how the firm intends to fight back in the marketplace.
+12. [Ofcom appoints online safety head to take on big tech](https://www.bbc.co.uk/news/technology-57996909) - Anna-Sophie Harling will have responsibility over how big technology companies regulate harmful speech.
 13. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
 14. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
 15. [Beach rover picks up cigarette butts and other tech news](https://www.bbc.co.uk/news/technology-57930091) - Jen Copestake looks at some of the best technology news stories of the week.
