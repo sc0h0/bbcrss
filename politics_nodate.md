@@ -1,6 +1,6 @@
 1. [Fewest people on furlough since pandemic began](https://www.bbc.co.uk/news/business-57981760) - Under-25s are coming off furlough twice as fast as all other age brackets, says the Treasury.
 2. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
-3. [Westminster Holocaust memorial given go-ahead by Robert Jenrick](https://www.bbc.co.uk/news/uk-58012111) - Fears have been raised that the site could become a terrorist target, but ministers say it will be safe.
+3. [Holocaust memorial outside Parliament to go ahead](https://www.bbc.co.uk/news/uk-58012111) - Fears have been raised that the site could become a terrorist target, but ministers say it will be safe.
 4. [UK already undergoing disruptive climate change](https://www.bbc.co.uk/news/science-environment-57988023) - Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.
 5. [Price tag for new flagship royal yacht could hit £250m](https://www.bbc.co.uk/news/uk-politics-58002977) - The defence secretary confirms the cost of the new "floating embassy" could be £100m higher than expected.
 6. [Official Secrets Act: Do government plans threaten investigative journalism?](https://www.bbc.co.uk/news/uk-politics-57998950) - Campaigners and reporters say planned changes to the Official Secrets Act threaten press freedoms.

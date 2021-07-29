@@ -1,4 +1,4 @@
-1. [Drug firm fined for huge price rise that hit NHS](https://www.bbc.co.uk/news/business-58009149) - Thu, 29 Jul 2021 10:13:41 GMT - Advanz pushed up the price of thyroid tablet packs more than 10-fold, says the competition watchdog.
+1. [Drug firm fined for huge price rise that hit NHS](https://www.bbc.co.uk/news/business-58009149) - Thu, 29 Jul 2021 11:36:18 GMT - Advanz pushed up the price of thyroid tablet packs more than 10-fold, says the competition watchdog.
 2. [Are middle-aged people more unhealthy than ever?](https://www.bbc.co.uk/news/health-57999892) - Wed, 28 Jul 2021 15:29:14 GMT - Why could the current cohort of 40-somethings be proving less healthy than previous generations?
 3. [Woman died in Cardiff home after waiting 'hours' for ambulance](https://www.bbc.co.uk/news/uk-wales-58005545) - Wed, 28 Jul 2021 22:03:30 GMT - Maria Whale's husband John questioned whether his wife would have lived if help had come sooner.
 4. [NHS England appoints first female chief executive](https://www.bbc.co.uk/news/health-57908563) - Wed, 28 Jul 2021 18:10:10 GMT - Amanda Pritchard to take over from Sir Simon Stevens on 1 August, describing it as a great honour.

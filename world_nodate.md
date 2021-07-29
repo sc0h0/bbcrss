@@ -1,7 +1,7 @@
 1. [Outspoken billionaire Sun Dawu jailed for 18 years in China](https://www.bbc.co.uk/news/world-asia-china-58007515) - Sun Dawu has in the past been vocal in criticising authorities and has spoken out about human rights.
 2. [Simone Biles thankful for love and support](https://www.bbc.co.uk/sport/olympics/58008278) - US gymnast Simone Biles reacts to the widespread support she has received after withdrawing from Thursday's all-around final.
 3. [US: China interest in Afghanistan could be positive](https://www.bbc.co.uk/news/world-asia-58007517) - US Secretary of State Antony Blinken's comments came after Taliban envoys went on a visit to China.
-4. [Global education summit targets pandemic-hit schooling](https://www.bbc.co.uk/news/education-58006728) - A summit in London is raising aid to support 175 million children in the poorest countries.
+4. [Malala says girls' education 'worth fighting for'](https://www.bbc.co.uk/news/education-58006728) - Education summit in London is raising aid to support 175 million children in the poorest countries.
 5. [Covid vaccines: Tourists head to the US to get vaccinated](https://www.bbc.co.uk/news/world-us-canada-58004253) - Some tourists are spending thousands of dollars to travel to the US to get a coronavirus vaccine.
 6. [Israel investigating shooting of Palestinian boy in West Bank](https://www.bbc.co.uk/news/world-middle-east-58010712) - Palestinian officials say soldiers shot the 12-year-old as he travelled in a car in the West Bank.
 7. [Actor Bob Odenkirk 'stable' after collapsing on set](https://www.bbc.co.uk/news/entertainment-arts-58009727) - The US actor is still in hospital after being rushed there from the set of Better Call Saul.
