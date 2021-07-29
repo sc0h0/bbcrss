@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 05:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 05:17:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/technology-58001205</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58001205</guid>
             <pubDate>Thu, 29 Jul 2021 00:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uber slides over reports SoftBank selling 45 million shares]]></title>
+            <description><![CDATA[Japan's SoftBank is selling the shares to cover losses in other investments, according to one report.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58007745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58007745</guid>
+            <pubDate>Thu, 29 Jul 2021 05:03:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: The pandemic explored in maps and data]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58005455</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58005455</guid>
             <pubDate>Wed, 28 Jul 2021 19:44:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oculus recalls Quest 2 headset pads after skin rashes]]></title>
-            <description><![CDATA[Quest 2 headset owners are urged to claim a free silicone cover to avoid skin issues.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57997112</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57997112</guid>
-            <pubDate>Wed, 28 Jul 2021 10:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Intel chief warns of two-year chip shortage]]></title>
@@ -70,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57996094</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57996094</guid>
             <pubDate>Wed, 28 Jul 2021 15:08:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oculus recalls Quest 2 headset pads after skin rashes]]></title>
+            <description><![CDATA[Quest 2 headset owners are urged to claim a free silicone cover to avoid skin issues.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57997112</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57997112</guid>
+            <pubDate>Wed, 28 Jul 2021 10:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tech giants' profits soar as pandemic boom continues]]></title>
