@@ -1,5 +1,5 @@
 1. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Thu, 29 Jul 2021 23:01:31 GMT - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.
-2. ["I was asked how often I use the toilet"](https://www.bbc.co.uk/news/business-58020735) - Thu, 29 Jul 2021 23:02:48 GMT - Disabled jobseekers have to overcome too many barriers, MPs say.
+2. ['I was asked how often I use the toilet'](https://www.bbc.co.uk/news/business-58020735) - Thu, 29 Jul 2021 23:02:48 GMT - Disabled jobseekers have to overcome too many barriers, MPs say.
 3. [Empty shop numbers rise as Covid continues to bite](https://www.bbc.co.uk/news/business-58007313) - Thu, 29 Jul 2021 23:03:34 GMT - The number of vacant shops continues to rise after a year of lockdowns, the BRC says.
 4. [Amazon predicts slower sales growth as Covid boost eases](https://www.bbc.co.uk/news/business-58020895) - Thu, 29 Jul 2021 21:41:36 GMT - The tech giant says third quarter sales growth will be slower as customers return to physical shops.
 5. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - Thu, 29 Jul 2021 21:18:27 GMT - The star says box office takings for Black Widow were hit when it was streamed at the same time.
