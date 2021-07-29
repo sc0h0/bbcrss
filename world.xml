@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jul 2021 17:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 19:01:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Thu, 29 Jul 2021 17:49:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Theodore McCarrick: Defrocked US cardinal charged with assault and battery]]></title>
+            <description><![CDATA[Theodore McCarrick is believed to be the highest-ranking US Catholic to face criminal abuse charges.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58019652</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58019652</guid>
+            <pubDate>Thu, 29 Jul 2021 18:54:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid vaccines: Tourists head to the US to get vaccinated]]></title>
             <description><![CDATA[Some tourists are spending thousands of dollars to travel to the US to get a coronavirus vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58004253</link>
@@ -58,18 +65,18 @@
             <pubDate>Thu, 29 Jul 2021 11:53:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Johnny Ventura: Dominican merengue legend dies aged 81]]></title>
-            <description><![CDATA[The Dominican Republic singer, whose career spanned six decades, is seen as a Latin music legend.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58011686</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58011686</guid>
-            <pubDate>Thu, 29 Jul 2021 15:00:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ethiopia's Tigray crisis: Fighting escalates despite ceasefire]]></title>
             <description><![CDATA[Forces in Amhara are battling rebels on three fronts along the border with Tigray, officials say.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58013100</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58013100</guid>
             <pubDate>Thu, 29 Jul 2021 12:55:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Johnny Ventura: Dominican merengue legend dies aged 81]]></title>
+            <description><![CDATA[The Dominican Republic singer, whose career spanned six decades, is seen as a Latin music legend.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58011686</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58011686</guid>
+            <pubDate>Thu, 29 Jul 2021 15:00:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Netflix US cast and crew must be vaccinated to work]]></title>
