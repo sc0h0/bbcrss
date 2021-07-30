@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 09:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 09:47:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58021390</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58021390</guid>
             <pubDate>Fri, 30 Jul 2021 00:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Biden tells states to offer $100 vaccine incentive as cases rise]]></title>
-            <description><![CDATA[The US president also announced that all federal workers must be vaccinated or subjected to testing.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58020090</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58020090</guid>
-            <pubDate>Thu, 29 Jul 2021 21:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hong Kong: First person jailed under security law given nine years]]></title>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-58022068</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58022068</guid>
             <pubDate>Fri, 30 Jul 2021 04:26:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Biden tells states to offer $100 vaccine incentive as cases rise]]></title>
+            <description><![CDATA[The US president also announced that all federal workers must be vaccinated or subjected to testing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58020090</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58020090</guid>
+            <pubDate>Thu, 29 Jul 2021 21:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Didi: Chinese ride-hailing giant denies plans to go private]]></title>

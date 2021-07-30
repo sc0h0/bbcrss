@@ -30,7 +30,7 @@
 30. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Thu, 29 Jul 2021 15:59:30 GMT - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 31. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - Thu, 29 Jul 2021 15:57:40 GMT - All over-18s can now get the Covid jab, but the government has criticised take-up among young people.
 32. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - Wed, 21 Jul 2021 08:48:07 GMT - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
-33. [Covid rules: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Tue, 27 Jul 2021 13:59:18 GMT - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
+33. [Covid rules: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Fri, 30 Jul 2021 09:48:44 GMT - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
 34. [Covid: When will I get the vaccine?](https://www.bbc.co.uk/news/health-55045639) - Tue, 20 Jul 2021 13:57:48 GMT - Vaccine experts recommend that a limited group of children should be offered Covid jabs ahead of winter.
 35. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Mon, 10 May 2021 17:16:50 GMT - Busting myths and explaining the facts around vaccines.
 36. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864) - Sat, 14 Mar 2020 01:02:03 GMT - What is it like to have the coronavirus, how will it affect you and how is it treated?
