@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 23:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 23:44:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[From Afghan interpreter to US homeless - until reaching the American dream]]></title>
+            <description><![CDATA[Thousands of Afghan interpreters have waited years to flee to the US. Arriving is a different story.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58020494</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58020494</guid>
+            <pubDate>Fri, 30 Jul 2021 23:06:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19 pandemic: Japan widens emergency over 'frightening' spike]]></title>
             <description><![CDATA[The Olympics host is facing record Covid case numbers, fuelled by the virulent Delta strain.]]></description>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-58026038</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58026038</guid>
             <pubDate>Fri, 30 Jul 2021 12:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First group of evacuated Afghan interpreters arrives in US]]></title>
-            <description><![CDATA[About 200 interpreters and their families land near Washington DC as the US withdraws from Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58019650</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58019650</guid>
-            <pubDate>Fri, 30 Jul 2021 15:34:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Sydney: Military deployed to help enforce lockdown]]></title>
@@ -118,7 +118,7 @@
             <description><![CDATA[An eight-character phrase popularised during the protests has landed one man in jail for nine years.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-58009605</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58009605</guid>
-            <pubDate>Fri, 30 Jul 2021 07:12:48 GMT</pubDate>
+            <pubDate>Fri, 30 Jul 2021 23:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympics: The hidden sight of Tokyo's homeless]]></title>
