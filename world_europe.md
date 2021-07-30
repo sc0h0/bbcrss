@@ -1,5 +1,5 @@
 1. [Turkey fires: Blazes threaten Marmaris and other coastal resorts](https://www.bbc.co.uk/news/world-58026832) - Fri, 30 Jul 2021 09:57:04 GMT - Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.
-2. [Amazon hit with $886m fine for alleged data breach](https://www.bbc.co.uk/news/business-58024116) - Fri, 30 Jul 2021 15:31:50 GMT - The tech giant rejects claims it has broken European Union data protection laws.
+2. [Amazon hit with $886m fine for alleged data breach](https://www.bbc.co.uk/news/business-58024116) - Fri, 30 Jul 2021 15:47:45 GMT - The tech giant rejects claims it has broken European Union data protection laws.
 3. [Eurozone out of recession after economy grows 2%](https://www.bbc.co.uk/news/business-58024112) - Fri, 30 Jul 2021 11:31:24 GMT - Data suggests all economies in the 19-country bloc expanded in the last three months.
 4. [Drug deaths in Scotland reach new record level](https://www.bbc.co.uk/news/uk-scotland-58024296) - Fri, 30 Jul 2021 09:17:46 GMT - The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.
 5. [Esther Dingley: Remains confirmed as those of missing hiker](https://www.bbc.co.uk/news/uk-england-tyne-58022860) - Fri, 30 Jul 2021 10:25:35 GMT - Esther Dingley disappeared in the Pyrenees mountains in November.

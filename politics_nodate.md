@@ -2,7 +2,7 @@
 2. [Apsana Begum: Labour MP cleared of fraudulent housing claims](https://www.bbc.co.uk/news/uk-england-london-58024457) - Apsana Begum says the trial caused her "great distress" and damaged her reputation.
 3. [UK military opens first space command centre](https://www.bbc.co.uk/news/uk-politics-58029083) - The new operations centre will help the UK maintain a "battle-winning advantage", ministers say.
 4. [Migrant women and babies held in shocking conditions, MPs find](https://www.bbc.co.uk/news/uk-58019981) - A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.
-5. [Prof Chris Whitty: Man sentenced after St James's Park assault](https://www.bbc.co.uk/news/uk-england-58031419) - Lewis Hughes says he lost his job after assaulting England's chief medical officer in central London.
+5. [Prof Chris Whitty: Man sentenced for St James's Park assault](https://www.bbc.co.uk/news/uk-england-58031419) - Lewis Hughes says he lost his job after assaulting England's chief medical officer in central London.
 6. [RNLI donations increase after migrant rescue criticism](https://www.bbc.co.uk/news/uk-politics-58009646) - The lifeboat charity says it has been "overwhelmed" by support after it released footage of Channel rescues.
 7. [Holocaust memorial outside Parliament to go ahead](https://www.bbc.co.uk/news/uk-58012111) - Fears have been raised that the site could become a terrorist target, but ministers say it will be safe.
 8. [David Greenhalgh death: Tributes paid to Bolton Council leader](https://www.bbc.co.uk/news/uk-england-manchester-58019551) - David Greenhalgh became the first Tory leader of Bolton Council in four decades.

@@ -1,4 +1,4 @@
-1. [Hunt for certainty over Covid cases continues](https://www.bbc.co.uk/news/health-58029383) - Fri, 30 Jul 2021 15:18:45 GMT - Flurry of Covid data struggles to explain what's going on
+1. [Hunt for certainty over Covid cases continues](https://www.bbc.co.uk/news/health-58029383) - Fri, 30 Jul 2021 15:18:45 GMT - Flurry of Covid data does not resolve debate around state of the pandemic in the UK.
 2. [Pregnant women urged to get jab as majority unvaccinated](https://www.bbc.co.uk/news/health-58014779) - Fri, 30 Jul 2021 09:26:02 GMT - Estimates suggest hundreds of thousands of pregnant women in England have not yet had the vaccine.
 3. [Covid: Up to one in four admitted to hospital for other reasons](https://www.bbc.co.uk/news/health-58025045) - Fri, 30 Jul 2021 15:04:49 GMT - The government says counting all patients who test positive is vital because of the impact on the NHS.
 4. [Drug deaths in Scotland reach new record level](https://www.bbc.co.uk/news/uk-scotland-58024296) - Fri, 30 Jul 2021 09:17:46 GMT - The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.

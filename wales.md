@@ -23,5 +23,5 @@
 23. [Dim angen hunan-ynysu os ydych wedi'ch brechu'n llawn](https://www.bbc.co.uk/newyddion/58019282) - Fri, 30 Jul 2021 09:57:34 GMT - Llywodraeth Cymru'n cyhoeddi newid i'r rheolau ar hunan-ynysu fydd mewn grym o 7 Awst ymlaen.
 24. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Thu, 29 Jul 2021 18:47:30 GMT - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
 25. [Y cyhoeddwr llyfrau a'r awdur Roger Boore wedi marw yn 82](https://www.bbc.co.uk/newyddion/58023526) - Fri, 30 Jul 2021 14:01:07 GMT - Cafodd un o sylfaenwyr Gwasg y Dref Wen ei anrhydeddu am ei gyfraniad i faes llenyddiaeth plant.
-26. [Sut i aros yn ddiogel yn y môr](https://www.bbc.co.uk/newyddion/58026864) - Fri, 30 Jul 2021 10:31:06 GMT - Cyngor yr RNLI am ddiogelwch dŵr a beth i wneud mewn argyfwng
+26. [Eisteddfod AmGen 2021: Gorsedd Cymru yn dychwelyd i'r prif seremonïau](https://www.bbc.co.uk/newyddion/58030859) - Fri, 30 Jul 2021 15:36:17 GMT - Yr Archdderwydd Myrddin ap Dafydd sy'n trafod gwaith yr orsedd yn absenoldeb Eisteddfod draddodiadol.
 27. [Cyngres Europa: Y Seintiau drwodd ond Cei Connah allan](https://www.bbc.co.uk/newyddion/58003948) - Thu, 29 Jul 2021 20:01:14 GMT - Y Seintiau'n rhoi crasfa i dîm o Lithwania, ond Cei Connah allan er gwaethaf buddugoliaeth.
