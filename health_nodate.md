@@ -1,4 +1,4 @@
-1. [Pregnant women urged to get jab as majority unvaccinated](https://www.bbc.co.uk/news/health-58014779) - Estimates suggest that hundreds of thousands of pregnant women in England have not yet had the vaccine.
+1. [Pregnant women urged to get jab as majority unvaccinated](https://www.bbc.co.uk/news/health-58014779) - Estimates suggest hundreds of thousands of pregnant women in England have not yet had the vaccine.
 2. [Covid vaccines have prevented 60,000 deaths in England - Jonathan Van-Tam](https://www.bbc.co.uk/news/newsbeat-58014546) - He says future lockdowns are less likely the more people, including 18-25-year olds, get vaccinated.
 3. [Nightclubs start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
 4. [Drug firm fined for huge price rise that hit NHS](https://www.bbc.co.uk/news/business-58009149) - Advanz pushed up the price of thyroid tablet packs more than 10-fold, says the competition watchdog.

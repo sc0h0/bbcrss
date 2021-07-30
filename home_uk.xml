@@ -11,13 +11,20 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 05:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 05:22:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
+            <title><![CDATA[Shriever wins historic BMX racing gold]]></title>
+            <description><![CDATA[Britain's Bethany Shriever wins gold in the women's BMX racing final, moments after Kye Whyte claims the nation's first Olympic medal in the men's.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58022309</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58022309</guid>
+            <pubDate>Fri, 30 Jul 2021 05:05:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pregnant women urged to get jab as majority unvaccinated]]></title>
-            <description><![CDATA[Estimates suggest that hundreds of thousands of pregnant women in England have not yet had the vaccine.]]></description>
+            <description><![CDATA[Estimates suggest hundreds of thousands of pregnant women in England have not yet had the vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/health-58014779</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58014779</guid>
             <pubDate>Thu, 29 Jul 2021 23:41:36 GMT</pubDate>
@@ -65,6 +72,13 @@
             <pubDate>Thu, 29 Jul 2021 19:23:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scarlett Johansson sues Disney over streaming of Black Widow]]></title>
+            <description><![CDATA[The star says box office takings for Black Widow were hit when it was streamed at the same time.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58017445</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58017445</guid>
+            <pubDate>Thu, 29 Jul 2021 21:18:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Wales: Self-isolation rules to ease for double jabbed]]></title>
             <description><![CDATA[Fully vaccinated contacts of positive Covid cases will not have to isolate from 7 August.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58013131</link>
@@ -77,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-58012884</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58012884</guid>
             <pubDate>Thu, 29 Jul 2021 23:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Biden tells states to offer $100 vaccine incentive as cases rise]]></title>
-            <description><![CDATA[The US president also announced that all federal workers must be vaccinated or subjected to testing.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58020090</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58020090</guid>
-            <pubDate>Thu, 29 Jul 2021 21:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scarlett Johansson sues Disney over streaming of Black Widow]]></title>
-            <description><![CDATA[The star says box office takings for Black Widow were hit when it was streamed at the same time.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58017445</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58017445</guid>
-            <pubDate>Thu, 29 Jul 2021 21:18:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US sailor charged over massive USS Bonhomme warship blaze in 2020]]></title>
@@ -129,7 +129,7 @@
         </item>
         <item>
             <title><![CDATA[Disease killing 'Europe's oldest' elm tree]]></title>
-            <description><![CDATA[Believed to almost 800 years old, the Beauly elm has been laser scanned as part of work to document it.]]></description>
+            <description><![CDATA[Believed to almost 800 years old, the Beauly elm has been laser-scanned as part of work to document it.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58013952</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58013952</guid>
             <pubDate>Thu, 29 Jul 2021 22:06:22 GMT</pubDate>
@@ -205,15 +205,8 @@
             <pubDate>Thu, 29 Jul 2021 23:04:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Could a Covid 'pingdemic' ruin the start of the English football season?]]></title>
-            <description><![CDATA[BBC Sport looks at how the new English football season will cope with Covid-19 testing and contact tracing now that restrictions have been lifted.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58018981</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58018981</guid>
-            <pubDate>Thu, 29 Jul 2021 21:25:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Bethany Shriever wins gold for GB in women's BMX final]]></title>
-            <description><![CDATA[Britain's Bethany Shriever wins the first gold medal in the women's BMX racing final, holding off two-time champion Mariana Pajon to win.]]></description>
+            <description><![CDATA[Britain's Bethany Shriever wins gold in the women's BMX racing final, holding off two-time champion Mariana Pajon.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58022557</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58022557</guid>
             <pubDate>Fri, 30 Jul 2021 04:31:38 GMT</pubDate>
@@ -226,11 +219,11 @@
             <pubDate>Fri, 30 Jul 2021 04:23:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Erasmus records hour-long video demanding 'equal chance' from Lions Test officials]]></title>
-            <description><![CDATA[South Africa boss Rassie Erasmus records an hour-long video monologue railing against the refereeing in his side's first-Test defeat by the British and Irish Lions.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58012090</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58012090</guid>
-            <pubDate>Thu, 29 Jul 2021 16:09:36 GMT</pubDate>
+            <title><![CDATA[Could a Covid 'pingdemic' ruin the start of the English football season?]]></title>
+            <description><![CDATA[BBC Sport looks at how the new English football season will cope with Covid-19 testing and contact tracing now that restrictions have been lifted.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58018981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58018981</guid>
+            <pubDate>Thu, 29 Jul 2021 21:25:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Duncan Scott wins silver medal in 200m individual medley final]]></title>
@@ -247,6 +240,13 @@
             <pubDate>Fri, 30 Jul 2021 04:48:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Erasmus records hour-long video demanding 'equal chance' from Lions Test officials]]></title>
+            <description><![CDATA[South Africa boss Rassie Erasmus records an hour-long video monologue railing against the refereeing in his side's first-Test defeat by the British and Irish Lions.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58012090</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58012090</guid>
+            <pubDate>Thu, 29 Jul 2021 16:09:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Aberdeen survive Hacken scare to progress in Europa Conference League - highlights & report]]></title>
             <description><![CDATA[Aberdeen were "victims of our own success", says manager Stephen Glass, after his side progressed in the Europa Conference League despite a second-leg defeat by BK Hacken.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57972231</link>
@@ -254,11 +254,18 @@
             <pubDate>Thu, 29 Jul 2021 20:01:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Bethany Shriever & Kye Whyte win historic medals in BMX racing]]></title>
-            <description><![CDATA[Britain's Bethany Shriever wins gold in the women's BMX racing final, moments after Kye Whyte claims the nation's first Olympic medal in the men's.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58022309</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58022309</guid>
-            <pubDate>Fri, 30 Jul 2021 04:24:05 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Ben Whittaker and Pat McCormack wins secure boxing medals]]></title>
+            <description><![CDATA[Great Britain's Ben Whittaker and Pat McCormack are both guaranteed Olympic medals after winning their respective fights on Friday.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58021874</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58021874</guid>
+            <pubDate>Fri, 30 Jul 2021 05:13:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith through to 100m semi-finals]]></title>
+            <description><![CDATA[Dina Asher-Smith starts her bid to become the first British woman to win an Olympic individual sprint gold with progress in the 100m heats.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58021977</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58021977</guid>
+            <pubDate>Fri, 30 Jul 2021 04:57:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Duncan Scott wins third medal with silver in 200m medley]]></title>
@@ -269,17 +276,10 @@
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB men's eight take bronze, Vicky Thornley fourth]]></title>
-            <description><![CDATA[Great Britain fail to win an Olympic rowing gold for the first Games since 1984 as the men's eight crew claim bronze.]]></description>
+            <description><![CDATA[Great Britain fail to win an Olympic rowing gold for the first Games since 1980 as the men's eight crew claim bronze.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58021565</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58021565</guid>
             <pubDate>Fri, 30 Jul 2021 02:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: GB's rower Vicky Thornley misses out on bronze medal in single sculls]]></title>
-            <description><![CDATA[Team GB's Vicky Thornley narrowly misses out on a bronze medal as she finishes fourth in the single sculls at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58021758</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58021758</guid>
-            <pubDate>Fri, 30 Jul 2021 01:36:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hong Kong crowd booing China's anthem sparks police probe]]></title>
@@ -294,6 +294,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58021032</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58021032</guid>
             <pubDate>Thu, 29 Jul 2021 22:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: GB's rower Vicky Thornley misses out on bronze medal in single sculls]]></title>
+            <description><![CDATA[Team GB's Vicky Thornley narrowly misses out on a bronze medal as she finishes fourth in the single sculls at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58021758</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58021758</guid>
+            <pubDate>Fri, 30 Jul 2021 01:36:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics medals table]]></title>

@@ -1,7 +1,7 @@
 1. [Covid in Sydney: Military deployed to help enforce lockdown](https://www.bbc.co.uk/news/world-australia-58021718) - Authorities say the deployment is needed, but critics argue it will "pick on" marginalised groups.
 2. [Covid-19: Biden tells states to offer $100 vaccine incentive as cases rise](https://www.bbc.co.uk/news/world-us-canada-58020090) - The US president also announced that all federal workers must be vaccinated or subjected to testing.
 3. [US sailor charged over massive USS Bonhomme warship blaze in 2020](https://www.bbc.co.uk/news/world-us-canada-58021390) - More than 60 people were injured, and the $1bn USS Bonhomme Richard had to be scrapped.
-4. [Hong Kong crowd booing China's anthem sparks police probe](https://www.bbc.co.uk/news/world-asia-china-58022068) - Police are investigating an incident where hundreds jeered while watching an Olympics broadcast.
+4. [Nanjing: New China virus outbreak worst after Wuhan, says state media](https://www.bbc.co.uk/news/world-asia-china-58021911) - Almost 200 people have been infected since the virus was first detected at Nanjing airport on 20 July.
 5. [Olympics: The hidden sight of Tokyo's homeless](https://www.bbc.co.uk/news/world-asia-58016848) - For many among Tokyo's homeless community the Olympics are far from a cause for celebration.
 6. [Didi: Chinese ride-hailing giant denies plans to go private](https://www.bbc.co.uk/news/business-58021828) - Didi shares surged by almost 50% in pre-market trade after a report that it planned to go private.
 7. [Russian module mishap destabilises International Space Station](https://www.bbc.co.uk/news/science-environment-58021394) - The ISS was pushed out of position after engines on a new Russian module unexpectedly fired up.
@@ -21,9 +21,9 @@
 21. [Petrol bombs thrown at Cuban embassy in Paris](https://www.bbc.co.uk/news/world-57995485) - Cuba's foreign ministry has released surveillance footage of the attack at its embassy in France.
 22. [Capitol Hill police officer in tears during testimony](https://www.bbc.co.uk/news/world-us-canada-57989607) - Officer Gonell gave an emotional statement during the first day of the US Capitol riot inquiry.
 23. [Lebanon’s descent into darkness](https://www.bbc.co.uk/news/world-middle-east-57988693) - The country's economic crisis has forced some families to move into refugee camps to survive.
-24. [Dressage: How to make a horse dance](https://www.bbc.co.uk/news/newsbeat-57999120) - For some, it's an oddity to watch only at the Olympics... for others, it's a lifetime of training.
-25. [Tokyo Olympics: Novak Djokovic thrashes Kei Nishikori to reach men's semi-finals](https://www.bbc.co.uk/sport/olympics/58010246) - Novak Djokovic remains on course for a 'Golden Slam' after thrashing home hope Kei Nishikori to ease into the Olympic semi-finals.
-26. [Tokyo Olympics: Simone Biles reacts to support for withdrawal from team and all-around finals](https://www.bbc.co.uk/sport/olympics/58008278) - US gymnast Simone Biles reacts to the widespread support she has received after withdrawing from Thursday's all-around final.
-27. [Rowers win Ireland's first gold](https://www.bbc.co.uk/sport/olympics/58007573) - Ireland win their first gold medal of the Tokyo 2020 Olympic Games as Paul O'Donovan and Fintan McCarthy claim the lightweight men's double sculls.
-28. [Tokyo Olympics medals table](https://www.bbc.co.uk/sport/olympics/57836709) - Medals table for the 2020 Olympics in Tokyo.
-29. [Tokyo Olympics: How to think like a champion](https://www.bbc.co.uk/news/newsbeat-57977584) - Newsbeat speaks to Bill Beswick, the psychologist behind the 26-year-old breaststroke star.
+24. [Hong Kong crowd booing China's anthem sparks police probe](https://www.bbc.co.uk/news/world-asia-china-58022068) - Police are investigating an incident where hundreds jeered while watching an Olympics broadcast.
+25. [Dressage: How to make a horse dance](https://www.bbc.co.uk/news/newsbeat-57999120) - For some, it's an oddity to watch only at the Olympics... for others, it's a lifetime of training.
+26. [Tokyo Olympics: Novak Djokovic thrashes Kei Nishikori to reach men's semi-finals](https://www.bbc.co.uk/sport/olympics/58010246) - Novak Djokovic remains on course for a 'Golden Slam' after thrashing home hope Kei Nishikori to ease into the Olympic semi-finals.
+27. [Tokyo Olympics: Simone Biles reacts to support for withdrawal from team and all-around finals](https://www.bbc.co.uk/sport/olympics/58008278) - US gymnast Simone Biles reacts to the widespread support she has received after withdrawing from Thursday's all-around final.
+28. [Rowers win Ireland's first gold](https://www.bbc.co.uk/sport/olympics/58007573) - Ireland win their first gold medal of the Tokyo 2020 Olympic Games as Paul O'Donovan and Fintan McCarthy claim the lightweight men's double sculls.
+29. [Tokyo Olympics medals table](https://www.bbc.co.uk/sport/olympics/57836709) - Medals table for the 2020 Olympics in Tokyo.
