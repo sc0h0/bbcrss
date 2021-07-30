@@ -26,4 +26,4 @@
 26. [Tokyo Olympics: Novak Djokovic thrashes Kei Nishikori to reach men's semi-finals](https://www.bbc.co.uk/sport/olympics/58010246) - Novak Djokovic remains on course for a 'Golden Slam' after thrashing home hope Kei Nishikori to ease into the Olympic semi-finals.
 27. [Tokyo Olympics: Simone Biles reacts to support for withdrawal from team and all-around finals](https://www.bbc.co.uk/sport/olympics/58008278) - US gymnast Simone Biles reacts to the widespread support she has received after withdrawing from Thursday's all-around final.
 28. [Rowers win Ireland's first gold](https://www.bbc.co.uk/sport/olympics/58007573) - Ireland win their first gold medal of the Tokyo 2020 Olympic Games as Paul O'Donovan and Fintan McCarthy claim the lightweight men's double sculls.
-29. [Tokyo Olympics medals table](https://www.bbc.co.uk/sport/olympics/57836709) - Medals table for the 2020 Olympics in Tokyo.
+29. [Tokyo Olympics: Medal table - which country has won most golds?](https://www.bbc.co.uk/sport/olympics/57836709) - Which country is leading the medal table? How are Great Britain getting on? Medals table for the 2020 Olympics in Tokyo.

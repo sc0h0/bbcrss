@@ -1,6 +1,6 @@
 1. [Pregnant women urged to get jab as majority unvaccinated](https://www.bbc.co.uk/news/health-58014779) - Estimates suggest hundreds of thousands of pregnant women in England have not yet had the vaccine.
 2. [Covid vaccines have prevented 60,000 deaths in England - Jonathan Van-Tam](https://www.bbc.co.uk/news/newsbeat-58014546) - He says future lockdowns are less likely the more people, including 18-25-year olds, get vaccinated.
-3. [Nightclubs start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
+3. [Club nights start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
 4. [Drug firm fined for huge price rise that hit NHS](https://www.bbc.co.uk/news/business-58009149) - Advanz pushed up the price of thyroid tablet packs more than 10-fold, says the competition watchdog.
 5. [Are middle-aged people more unhealthy than ever?](https://www.bbc.co.uk/news/health-57999892) - Why could the current cohort of 40-somethings be proving less healthy than previous generations?
 6. [Woman died in Cardiff home after waiting 'hours' for ambulance](https://www.bbc.co.uk/news/uk-wales-58005545) - Maria Whale's husband John questioned whether his wife would have lived if help had come sooner.
