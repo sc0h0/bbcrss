@@ -1,7 +1,7 @@
 1. [End self-isolation for double-jabbed sooner, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57962409) - Labour is calling on Boris Johnson to bring England in to line with Wales on quarantine measures.
 2. [Apsana Begum: Labour MP cleared of fraudulent housing claims](https://www.bbc.co.uk/news/uk-england-london-58024457) - The Poplar and Limehouse MP is found not guilty of "dishonestly" obtaining social housing.
 3. [Migrant women and babies held in shocking conditions, MPs find](https://www.bbc.co.uk/news/uk-58019981) - A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.
-4. [Prof Chris Whitty: Man pleads guilty to park assault](https://www.bbc.co.uk/news/uk-england-58031419) - Lewis Hughes pleads guilty to assaulting England's chief medical officer Chris Whitty in central London.
+4. [Prof Chris Whitty: Man pleads guilty to park assault](https://www.bbc.co.uk/news/uk-england-58031419) - Lewis Hughes says he lost his job after assaulting England's chief medical officer in St James's Park, London.
 5. [RNLI donations increase after migrant rescue criticism](https://www.bbc.co.uk/news/uk-politics-58009646) - The lifeboat charity says it has been "overwhelmed" by support after it released footage of Channel rescues.
 6. [Holocaust memorial outside Parliament to go ahead](https://www.bbc.co.uk/news/uk-58012111) - Fears have been raised that the site could become a terrorist target, but ministers say it will be safe.
 7. [David Greenhalgh death: Tributes paid to Bolton Council leader](https://www.bbc.co.uk/news/uk-england-manchester-58019551) - David Greenhalgh became the first Tory leader of Bolton Council in four decades.

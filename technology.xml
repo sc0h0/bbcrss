@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 14:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 14:40:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Facebook, Google expect jabs for office return]]></title>
+            <description><![CDATA[The tech companies will require vaccination for returning in-office employees as Covid-19 cases rise in US]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58027356</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58027356</guid>
+            <pubDate>Fri, 30 Jul 2021 14:29:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A US company has turned a former coal plant into a gas-fired Bitcoin mine]]></title>
             <description><![CDATA[Environmentalists have criticised the gas-fired mine but the company says it offsets its emissions.]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/technology-58013362</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58013362</guid>
             <pubDate>Thu, 29 Jul 2021 12:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google app charges targeted by mass legal claim]]></title>
-            <description><![CDATA[A new legal action seeks compensation for all UK Android users who buy apps on Google Play.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57996912</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57996912</guid>
-            <pubDate>Thu, 29 Jul 2021 06:50:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Untethered bi-pedal robot runs 5km and other tech news]]></title>
