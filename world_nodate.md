@@ -5,7 +5,7 @@
 5. [Amazon hit with $886m fine for alleged data breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
 6. [Turkey fires: Blazes threaten Marmaris and other coastal resorts](https://www.bbc.co.uk/news/world-58026832) - Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.
 7. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
-8. [US sailor charged over massive USS Bonhomme warship blaze in 2020](https://www.bbc.co.uk/news/world-us-canada-58021390) - More than 60 people were injured, and the $1bn USS Bonhomme Richard had to be scrapped.
+8. [Deadly oil tanker attack in Arabian Sea](https://www.bbc.co.uk/news/world-middle-east-57977702) - Two crew members, a British and a Romanian citizen, are killed in an incident off the coast of Oman.
 9. [China nuclear: Taishan reactor shut down over damaged fuel rods](https://www.bbc.co.uk/news/world-asia-china-58026038) - The operator says the EPR reactor at Taishan in China is "under control" despite fuel rod concerns.
 10. [Djokovic's 'golden Grand Slam' bid thwarted](https://www.bbc.co.uk/sport/olympics/58023509) - Novak Djokovic's hopes of winning a 'Golden Slam' are over after losing to Alexander Zverev in the Olympic tennis semi-finals.
 11. [Covid in Sydney: Military deployed to help enforce lockdown](https://www.bbc.co.uk/news/world-australia-58021718) - Authorities say the deployment is needed, but critics argue it will "pick on" marginalised groups.
