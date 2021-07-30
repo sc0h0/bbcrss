@@ -22,6 +22,6 @@
 22. [Tokyo Olympics: Great Britain beat USA to reach rugby sevens semi-final](https://www.bbc.co.uk/sport/olympics/58027501) - Great Britain overcome the USA to reach the women's rugby sevens semi-final at the Olympic Games in Tokyo.
 23. [Dim angen hunan-ynysu os ydych wedi'ch brechu'n llawn](https://www.bbc.co.uk/newyddion/58019282) - Llywodraeth Cymru'n cyhoeddi newid i'r rheolau ar hunan-ynysu fydd mewn grym o 7 Awst ymlaen.
 24. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
-25. [Dinasyddion yr UE 'angen ymgeisio dros eu plant'](https://www.bbc.co.uk/newyddion/58019990) - Mae dal yn bosib i rieni geisio i'w plant gael aros yng Nghymru er taw 30 Mehefin oedd y dyddiau cau.
+25. [Dynes wedi ei hanafu gan rasel tu ôl i boster cam-wybodaeth](https://www.bbc.co.uk/newyddion/58026942) - Dywedodd Layla Stokes o Gaerdydd ei bod yn 'flin' am y poster gwrth-fwgwd ac wedi'i scrwnsio.
 26. [Beth sy'n digwydd yn Eisteddfod 2021?](https://www.bbc.co.uk/newyddion/57984353) - Sut allwch chi ddilyn y Brifwyl eleni?
 27. [Cyngres Europa: Y Seintiau drwodd ond Cei Connah allan](https://www.bbc.co.uk/newyddion/58003948) - Y Seintiau'n rhoi crasfa i dîm o Lithwania, ond Cei Connah allan er gwaethaf buddugoliaeth.
