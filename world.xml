@@ -11,30 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 20:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 20:37:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Israel accuses Iran over deadly oil tanker attack]]></title>
+            <description><![CDATA[The country's foreign minister blames "Iranian terrorism" for an attack that left two people dead.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57977702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57977702</guid>
+            <pubDate>Fri, 30 Jul 2021 20:26:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19 pandemic: Japan widens emergency over 'frightening' spike]]></title>
             <description><![CDATA[The Olympics host is facing record Covid case numbers, fuelled by the virulent Delta strain.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58024158</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58024158</guid>
             <pubDate>Fri, 30 Jul 2021 11:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nanjing: New virus outbreak worst since Wuhan, say Chinese state media]]></title>
-            <description><![CDATA[Almost 200 people have been infected since the virus was first detected at Nanjing airport on 20 July.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58021911</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58021911</guid>
-            <pubDate>Fri, 30 Jul 2021 09:26:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel accuses Iran over deadly oil tanker attack]]></title>
-            <description><![CDATA[Two crew members, a British and a Romanian citizen, are killed in an incident off the coast of Oman.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57977702</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57977702</guid>
-            <pubDate>Fri, 30 Jul 2021 20:26:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Woman charged for disturbing Yellowstone mother grizzly]]></title>
@@ -44,18 +37,11 @@
             <pubDate>Fri, 30 Jul 2021 18:14:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australia to return 14 artworks of disputed provenance to India]]></title>
-            <description><![CDATA[The National Gallery says their repatriation will "close a very difficult chapter of our history".]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58027898</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58027898</guid>
-            <pubDate>Fri, 30 Jul 2021 11:50:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey fires: Blazes threaten Marmaris and other coastal resorts]]></title>
-            <description><![CDATA[Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58026832</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58026832</guid>
-            <pubDate>Fri, 30 Jul 2021 09:57:04 GMT</pubDate>
+            <title><![CDATA[Nanjing: New virus outbreak worst since Wuhan, say Chinese state media]]></title>
+            <description><![CDATA[Almost 200 people have been infected since the virus was first detected at Nanjing airport on 20 July.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58021911</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58021911</guid>
+            <pubDate>Fri, 30 Jul 2021 09:26:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amanda Knox claims Matt Damon film Stillwater profits from her life]]></title>
@@ -65,11 +51,11 @@
             <pubDate>Fri, 30 Jul 2021 17:23:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hong Kong: First person jailed under security law given nine years]]></title>
-            <description><![CDATA[Tong Ying-kit rode a motorbike into police officers while flying a flag with a protest slogan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58022072</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58022072</guid>
-            <pubDate>Fri, 30 Jul 2021 09:33:42 GMT</pubDate>
+            <title><![CDATA[Turkey fires: Blazes threaten Marmaris and other coastal resorts]]></title>
+            <description><![CDATA[Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58026832</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58026832</guid>
+            <pubDate>Fri, 30 Jul 2021 09:57:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russia stops Cubans trying to enter EU on air beds]]></title>
@@ -77,6 +63,20 @@
             <link>https://www.bbc.co.uk/news/world-europe-58033042</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58033042</guid>
             <pubDate>Fri, 30 Jul 2021 18:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong: First person jailed under security law given nine years]]></title>
+            <description><![CDATA[Tong Ying-kit rode a motorbike into police officers while flying a flag with a protest slogan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58022072</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58022072</guid>
+            <pubDate>Fri, 30 Jul 2021 09:33:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia to return 14 artworks of disputed provenance to India]]></title>
+            <description><![CDATA[The National Gallery says their repatriation will "close a very difficult chapter of our history".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58027898</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58027898</guid>
+            <pubDate>Fri, 30 Jul 2021 11:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazon hit with $886m fine for alleged data law breach]]></title>
