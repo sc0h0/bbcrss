@@ -9,7 +9,7 @@
 9. [Theodore McCarrick: Defrocked US cardinal charged with assault and battery](https://www.bbc.co.uk/news/world-us-canada-58019652) - Theodore McCarrick is believed to be the highest-ranking US Catholic to face criminal abuse charges.
 10. [China interest in Afghanistan could be 'positive', says Blinken](https://www.bbc.co.uk/news/world-asia-58007517) - US Secretary of State Antony Blinken's comments came after Taliban envoys went on a visit to China.
 11. [Simone Biles: Young gymnasts comment on her withdrawal](https://www.bbc.co.uk/news/world-us-canada-58020080) - The young athletes said the star showed that not everything needs to be sacrificed for titles.
-12. [Billie Eilish: Critics praise "defiant" second album, Happier Than Ever](https://www.bbc.co.uk/news/entertainment-arts-58024655) - The teen megastar's second album, Happier Than Ever, gives an unflinching portrayal of global fame.
+12. [Billie Eilish: Critics praise 'defiant' second album, Happier Than Ever](https://www.bbc.co.uk/news/entertainment-arts-58024655) - The teen megastar's second album, Happier Than Ever, gives an unflinching portrayal of global fame.
 13. [How US military pullback in Iraq could benefit Iran](https://www.bbc.co.uk/news/world-middle-east-57976007) - The withdrawal of remaining US combat troops could help Iran achieve its ambitions.
 14. [Gender disparities still vex Tokyo Olympic Games](https://www.bbc.co.uk/news/world-us-canada-57937102) - From breastfeeding to representation, women are still frustrated at most 'gender balanced' Games.
 15. [Coronavirus: Was US money used to fund risky research in China?](https://www.bbc.co.uk/news/57932699) - What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?

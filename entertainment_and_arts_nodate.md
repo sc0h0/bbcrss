@@ -1,6 +1,6 @@
 1. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
 2. [Proms conductor: 'We're going to play our hearts out'](https://www.bbc.co.uk/news/entertainment-arts-58018951) - Dalia Stasevska discusses the pressures of a pandemic Proms, and the return of Rule, Britannia!
-3. [Billie Eilish: Critics praise "defiant" second album, Happier Than Ever](https://www.bbc.co.uk/news/entertainment-arts-58024655) - The teen megastar's second album, Happier Than Ever, gives an unflinching portrayal of global fame.
+3. [Billie Eilish: Critics praise 'defiant' second album, Happier Than Ever](https://www.bbc.co.uk/news/entertainment-arts-58024655) - The teen megastar's second album, Happier Than Ever, gives an unflinching portrayal of global fame.
 4. [Latitude festival-goers test positive for coronavirus](https://www.bbc.co.uk/news/uk-england-suffolk-58025078) - The 40,000 people a day Latitude festival is a Covid-19 restrictions test event for the government.
 5. [The Strokes Is This It at 20: Nudes, booze and 9/11](https://www.bbc.co.uk/news/entertainment-arts-57967493) - How the New York City band's 2001 debut album heralded "a new spirit in guitar music".
 6. [Australia to return 14 artworks of disputed provenance to India](https://www.bbc.co.uk/news/entertainment-arts-58027898) - The National Gallery says their repatriation will "close a very difficult chapter of our history".
