@@ -11,23 +11,44 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 22:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 22:36:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Furlough cut 'kick in teeth' as businesses recover]]></title>
+            <description><![CDATA[Making businesses pay more towards furlough could lead to job losses, unions have warned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58030769</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58030769</guid>
+            <pubDate>Fri, 30 Jul 2021 22:28:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crickhowell rape: Police search for masked men after woman attacked]]></title>
             <description><![CDATA[The "harrowing" early hours attack happened as she walked on the main road in a small rural town.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58018051</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58018051</guid>
-            <pubDate>Fri, 30 Jul 2021 20:27:33 GMT</pubDate>
+            <pubDate>Fri, 30 Jul 2021 22:33:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Alarming' Swansea carer shortage prompts family SOS call]]></title>
-            <description><![CDATA[Family members are being encouraged to learn nursing tasks, such as changing dressings.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58025444</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58025444</guid>
-            <pubDate>Fri, 30 Jul 2021 14:40:48 GMT</pubDate>
+            <title><![CDATA[Pontypridd: Knife found as man hurt in town centre 'altercation']]></title>
+            <description><![CDATA[Police are investigating after a knife was recovered after an "altercation" between three men.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58033910</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58033910</guid>
+            <pubDate>Fri, 30 Jul 2021 22:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sikh and Hindu ashes scattering site to open in Cardiff]]></title>
+            <description><![CDATA[A dedicated site for ashes to be scattered into flowing water is to be officially opened.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57988853</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57988853</guid>
+            <pubDate>Fri, 30 Jul 2021 22:26:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cardiff: Murder arrest after sudden death of woman]]></title>
+            <description><![CDATA[Police say they are not looking for anyone else in connection with the woman's death.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58029216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58029216</guid>
+            <pubDate>Fri, 30 Jul 2021 14:13:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Wales: Isolation for double-jabbed contacts to end]]></title>
@@ -37,18 +58,18 @@
             <pubDate>Fri, 30 Jul 2021 16:56:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Alarming' Swansea carer shortage prompts family SOS call]]></title>
+            <description><![CDATA[Family members are being encouraged to learn nursing tasks, such as changing dressings.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58025444</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58025444</guid>
+            <pubDate>Fri, 30 Jul 2021 14:40:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NHS pay review: No rise for Welsh NHS' lowest paid in 'botched' review]]></title>
             <description><![CDATA[Health minister apologies after wrongly announcing starting pay for Welsh NHS staff would rise.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58032733</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-58032733</guid>
             <pubDate>Fri, 30 Jul 2021 20:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardiff: Murder arrest after sudden death of woman]]></title>
-            <description><![CDATA[Police say they are not looking for anyone else in connection with the woman's death.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58029216</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58029216</guid>
-            <pubDate>Fri, 30 Jul 2021 14:13:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anglesey: Crossbow attack leaves farm animals seriously injured]]></title>
@@ -70,20 +91,6 @@
             <link>https://www.bbc.co.uk/sport/football/58031157</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58031157</guid>
             <pubDate>Fri, 30 Jul 2021 16:59:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Callum Jones, 20, left paralysed after running into sea]]></title>
-            <description><![CDATA[Callum Jones ran into the water and hit something beneath the surface.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58009262</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58009262</guid>
-            <pubDate>Fri, 30 Jul 2021 05:25:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blaenau Gwent council boss defends colleague's two salaries]]></title>
-            <description><![CDATA[Opposition councillors say the move is "not the right thing to do in the face of the public".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58026063</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58026063</guid>
-            <pubDate>Fri, 30 Jul 2021 12:15:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid infections estimated to have risen in Wales]]></title>
