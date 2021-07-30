@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 12:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 13:03:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Thu, 29 Jul 2021 22:01:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man who died in crash between car and lorry in Aberdeenshire named]]></title>
+            <description><![CDATA[The 25-year-old driver of the car, Andrew MacLurg, was pronounced dead at the scene in Aberdeenshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58028534</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58028534</guid>
+            <pubDate>Fri, 30 Jul 2021 13:00:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scotswoman breaks Land's End-John O'Groats cycle record]]></title>
             <description><![CDATA[Christina Mackenzie is the first female cyclist to complete the 839-mile route in under 52 hours.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58025382</link>
@@ -72,32 +79,11 @@
             <pubDate>Thu, 29 Jul 2021 22:06:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Teacher 'exodus' and call for new addicts' law]]></title>
-            <description><![CDATA[A drop in the number of registered teachers and demand for a new "right to recovery" law for drug addicts make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58021216</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58021216</guid>
-            <pubDate>Fri, 30 Jul 2021 06:38:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Craig Murray's appeal bid fails over Alex Salmond trial blogs]]></title>
             <description><![CDATA[Craig Murray will now have to begin an eight-month jail sentence over blog posts he wrote about the Alex Salmond trial.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58018127</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58018127</guid>
             <pubDate>Thu, 29 Jul 2021 20:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The seaweed farmers with high hopes for their harvest]]></title>
-            <description><![CDATA[Kelp grown off the coast of the Isle of Skye could be used in food, packaging and cosmetic products.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57996627</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57996627</guid>
-            <pubDate>Thu, 29 Jul 2021 22:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airport chief welcomes travel changes but warns normality 'long way' off]]></title>
-            <description><![CDATA[Edinburgh Airport chief Gordon Dewar says Scotland is "massively behind" mainland Europe on aviation recovery.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58010197</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58010197</guid>
-            <pubDate>Thu, 29 Jul 2021 11:52:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -135,6 +121,13 @@
             <pubDate>Mon, 19 Jul 2021 09:34:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The seaweed farmers with high hopes for their harvest]]></title>
+            <description><![CDATA[Kelp grown off the coast of the Isle of Skye could be used in food, packaging and cosmetic products.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57996627</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57996627</guid>
+            <pubDate>Thu, 29 Jul 2021 22:02:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Duncan Scott makes history with second silver as Jemma Reekie eases through]]></title>
             <description><![CDATA[Duncan Scott becomes the first British swimmer to win three medals at a single Olympic Games since 1908 with a second Tokyo silver as Jemma Reekie eases through in the 800m.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58024258</link>
@@ -163,6 +156,13 @@
             <pubDate>Wed, 28 Jul 2021 05:34:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish drug deaths: 'We need more addicts in treatment']]></title>
+            <description><![CDATA[The drug minister says the level of deaths in Scotland is a "national disgrace" and has pledged to get more people into treatment.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58029815</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58029815</guid>
+            <pubDate>Fri, 30 Jul 2021 12:43:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[High hopes for Scottish farmed seaweed]]></title>
             <description><![CDATA[Kelp grown off the coast of the Isle of Skye could be used in food, packaging and cosmetic products.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58020364</link>
@@ -189,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57968728</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-57968728</guid>
             <pubDate>Mon, 26 Jul 2021 14:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['If it's broken, fix it' - The shop trying to fix throwaway culture]]></title>
-            <description><![CDATA[Glasgow social enterprise Remade Network fixes everything from phones to textiles to help reduce our impact on the environment.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57945907</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57945907</guid>
-            <pubDate>Mon, 26 Jul 2021 05:03:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Duncan Scott wins silver medal in 200m individual medley final]]></title>

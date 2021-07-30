@@ -1,14 +1,14 @@
 1. [Covid in Wales: Self-isolation rules to ease for double jabbed](https://www.bbc.co.uk/news/uk-wales-politics-58013131) - Wales will be the first part of the UK to stop telling fully vaccinated adults to self-isolate.
 2. [Covid: Cardiff woman 'cut by razor behind anti-mask poster'](https://www.bbc.co.uk/news/uk-wales-58020985) - Layla Stokes says she has been to the doctor to have the cut tested for any diseases.
-3. [Callum Jones, 20, left paralysed after running into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and hit something beneath the surface.
-4. [Children in care: Lack of secure accommodation 'scandalous'](https://www.bbc.co.uk/news/uk-wales-58025443) - A supreme court judge says a lack of approved homes is causing an "extremely difficult situation".
-5. [Blaenau Gwent council boss defends colleague's two salaries](https://www.bbc.co.uk/news/uk-wales-58026063) - Opposition councillors say the move is "not the right thing to do in the face of the public".
-6. [Theatr Ardudwy: 'Fraudulent' theatre producer 'misled' community](https://www.bbc.co.uk/news/uk-wales-58023864) - Kallum O'Sullivan promised to reinvent Theatr Ardudwy after it closed in 2017 due to safety concerns.
-7. [Brexit: 'EU citizens in Wales unaware children need to apply to stay'](https://www.bbc.co.uk/news/uk-wales-58015546) - The 30 June deadline to apply to stay has passed, but some late applications will be allowed.
-8. [Blind people in Wales frustrated by Covid vaccine access](https://www.bbc.co.uk/news/uk-wales-58013982) - Those living with sight disabilities criticise accessibility to information and jab centres.
-9. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58023667) - A yellow warning for wind covers large parts of the south Wales coast.
-10. [BT: Landlines reconnected after Bangor building fire](https://www.bbc.co.uk/news/uk-wales-58025442) - Some customers were left without a landline overnight while services were restored.
-11. [Llanelli boy 'didn't get enough support' from school before death](https://www.bbc.co.uk/news/uk-wales-58011859) - Byron John says his son Bradley "had a future that he wanted and yearned for".
+3. ['Alarming' Swansea carer shortage prompts family SOS call](https://www.bbc.co.uk/news/uk-wales-58025444) - Family members are being encouraged to learn nursing tasks, such as changing dressings.
+4. [Callum Jones, 20, left paralysed after running into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and hit something beneath the surface.
+5. [Children in care: Lack of secure accommodation 'scandalous'](https://www.bbc.co.uk/news/uk-wales-58025443) - A supreme court judge says a lack of approved homes is causing an "extremely difficult situation".
+6. [Blaenau Gwent council boss defends colleague's two salaries](https://www.bbc.co.uk/news/uk-wales-58026063) - Opposition councillors say the move is "not the right thing to do in the face of the public".
+7. [Theatr Ardudwy: 'Fraudulent' theatre producer 'misled' community](https://www.bbc.co.uk/news/uk-wales-58023864) - Kallum O'Sullivan promised to reinvent Theatr Ardudwy after it closed in 2017 due to safety concerns.
+8. [Brexit: 'EU citizens in Wales unaware children need to apply to stay'](https://www.bbc.co.uk/news/uk-wales-58015546) - The 30 June deadline to apply to stay has passed, but some late applications will be allowed.
+9. [Blind people in Wales frustrated by Covid vaccine access](https://www.bbc.co.uk/news/uk-wales-58013982) - Those living with sight disabilities criticise accessibility to information and jab centres.
+10. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58023667) - A yellow warning for wind covers large parts of the south Wales coast.
+11. [BT: Landlines reconnected after Bangor building fire](https://www.bbc.co.uk/news/uk-wales-58025442) - Some customers were left without a landline overnight while services were restored.
 12. [LGBTQ: Wales' bid to be 'most friendly' nation in Europe](https://www.bbc.co.uk/news/uk-wales-57986732) - A new plan aims to make Wales "the most LGBTQ+ friendly" nation in Europe.
 13. [Bradley John 'should be coming up to his 18th birthday'](https://www.bbc.co.uk/news/uk-wales-58019640) - Father of Bradley John, 14, says the fact he "took his life" at school is "very, very symbolic".
 14. [Talking Books Wales: How one woman helped so many blind people read](https://www.bbc.co.uk/news/uk-wales-58018316) - After losing her sight in her 30s, Rhian Evans says she "used that disability" to help others.
@@ -24,5 +24,5 @@
 24. [Dim angen hunan-ynysu os ydych wedi'ch brechu'n llawn](https://www.bbc.co.uk/newyddion/58019282) - Llywodraeth Cymru'n cyhoeddi newid i'r rheolau ar hunan-ynysu fydd mewn grym o 7 Awst ymlaen.
 25. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
 26. [Dynes wedi ei hanafu gan rasel tu ôl i boster cam-wybodaeth](https://www.bbc.co.uk/newyddion/58026942) - Dywedodd Layla Stokes o Gaerdydd ei bod yn 'flin' am y poster gwrth-fwgwd ac wedi'i scrwnsio.
-27. [Beth sy'n digwydd yn Eisteddfod 2021?](https://www.bbc.co.uk/newyddion/57984353) - Sut allwch chi ddilyn y Brifwyl eleni?
+27. [Sut i aros yn ddiogel yn y môr](https://www.bbc.co.uk/newyddion/58026864) - Cyngor yr RNLI am ddiogelwch dŵr a beth i wneud mewn argyfwng
 28. [Cyngres Europa: Y Seintiau drwodd ond Cei Connah allan](https://www.bbc.co.uk/newyddion/58003948) - Y Seintiau'n rhoi crasfa i dîm o Lithwania, ond Cei Connah allan er gwaethaf buddugoliaeth.
