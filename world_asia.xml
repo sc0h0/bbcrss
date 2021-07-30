@@ -11,24 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 13:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 14:03:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Hong Kong: First person jailed under security law given nine years]]></title>
-            <description><![CDATA[Tong Ying-kit rode a motorbike into police officers while flying a flag with a protest slogan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58022072</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58022072</guid>
-            <pubDate>Fri, 30 Jul 2021 09:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Liberate Hong Kong': The slogan that will land you in jail]]></title>
-            <description><![CDATA[An eight-character phrase popularised during the protests has landed one man in jail for nine years.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58009605</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58009605</guid>
-            <pubDate>Fri, 30 Jul 2021 07:12:48 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Covid-19 pandemic: Japan widens emergency over 'frightening' spike]]></title>
             <description><![CDATA[The Olympics host is facing record Covid case numbers, fuelled by the virulent Delta strain.]]></description>
@@ -42,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-58021911</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58021911</guid>
             <pubDate>Fri, 30 Jul 2021 09:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong: First person jailed under security law given nine years]]></title>
+            <description><![CDATA[Tong Ying-kit rode a motorbike into police officers while flying a flag with a protest slogan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58022072</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58022072</guid>
+            <pubDate>Fri, 30 Jul 2021 09:33:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Australia to return 14 artworks of disputed provenance to India]]></title>
@@ -112,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58007517</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58007517</guid>
             <pubDate>Thu, 29 Jul 2021 07:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Liberate Hong Kong': The slogan that will land you in jail]]></title>
+            <description><![CDATA[An eight-character phrase popularised during the protests has landed one man in jail for nine years.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58009605</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58009605</guid>
+            <pubDate>Fri, 30 Jul 2021 07:12:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympics: The hidden sight of Tokyo's homeless]]></title>
