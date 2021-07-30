@@ -1,4 +1,4 @@
-1. [Ardoyne baby death: Woman in court charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - Raluca Tagani is accused of the murder of her son Liam O'Keefe in Belfast on Tuesday.
+1. [Ardoyne baby death: Mother in court charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - Raluca Tagani is accused of the murder of her son Liam O'Keefe in Belfast on Tuesday.
 2. [Bank of Ireland: Woman awarded £18k in sexual harassment case](https://www.bbc.co.uk/news/uk-northern-ireland-58010751) - The sexual harassment was serious and repeatedly violated the woman's dignity, a tribunal found.
 3. [Coronavirus: 'Frantic' efforts to fix NI Covid passport system](https://www.bbc.co.uk/news/uk-northern-ireland-58024225) - The online system has been out of action since Tuesday due to concerns about data security.
 4. [Covid-19: Three more deaths and 1,101 new cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58029407) - Three people have died within 28 days of testing positive for Covid-19 in Northern Ireland.
@@ -17,9 +17,9 @@
 17. [Covid-19: NI furlough claims fell to 44,000 by end of June](https://www.bbc.co.uk/news/uk-northern-ireland-58009132) - The scheme is being wound down further this weekend and is due to close at the end of September.
 18. [Covid: How is furlough changing and when will it end?](https://www.bbc.co.uk/news/explainers-52135342) - Employers will contribute more to the cost of keeping their staff furloughed from 1 August.
 19. [NI Covid-19 restrictions: Your questions answered](https://www.bbc.co.uk/news/uk-northern-ireland-54117810) - BBC News NI sets out the latest steps ministers are taking to ease Northern Ireland's lockdown.
-20. [Latest Northern Ireland weather forecast](https://www.bbc.co.uk/news/uk-northern-ireland-26018439) - The weather forecast in Northern Ireland.
-21. [Covid-19: Getting back on stage will 'feel like Christmas'](https://www.bbc.co.uk/news/uk-northern-ireland-57983830) - Two young actors cannot wait to perform live in front of an indoor audience on Tuesday.
-22. [Missing ring found by father-and-son detectorists at Downhill](https://www.bbc.co.uk/news/uk-northern-ireland-57975051) - Metal detectorists Andy and Ryan McCloy came to the rescue after a bride-to-be's social media appeal.
+20. [Covid-19: Getting back on stage will 'feel like Christmas'](https://www.bbc.co.uk/news/uk-northern-ireland-57983830) - Two young actors cannot wait to perform live in front of an indoor audience on Tuesday.
+21. [Missing ring found by father-and-son detectorists at Downhill](https://www.bbc.co.uk/news/uk-northern-ireland-57975051) - Metal detectorists Andy and Ryan McCloy came to the rescue after a bride-to-be's social media appeal.
+22. [Latest Northern Ireland weather forecast](https://www.bbc.co.uk/news/uk-northern-ireland-26018439) - The weather forecast in Northern Ireland.
 23. [Ballywatticock: What is the origin of NI weather station names?](https://www.bbc.co.uk/news/uk-northern-ireland-57914914) - Ballywatticock had its moment in the sun but what is its origin that of other weather station names?
 24. [Omagh ruling: Victims' families and politicians react](https://www.bbc.co.uk/news/uk-northern-ireland-57940348) - Victims' families and politicians respond to the judgement in case linked to Omagh bomb.
 25. [Belfast: Archaeology students stumble across Neolithic find](https://www.bbc.co.uk/news/uk-england-cornwall-58030609) - The QUB students were looking for 18th and 19th century artefacts in Stranmillis in south Belfast.

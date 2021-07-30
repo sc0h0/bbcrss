@@ -1,4 +1,4 @@
-1. [Man pleads guilty to Chris Whitty assault](https://www.bbc.co.uk/news/uk-england-58031419) - Lewis Hughs pleads guilty to assaulting England's chief medical officer Chris Whitty in central London.
+1. [Prof Chris Whitty: Man pleads guilty to park assault](https://www.bbc.co.uk/news/uk-england-58031419) - Lewis Hughes pleads guilty to assaulting England's chief medical officer Chris Whitty in central London.
 2. [Esther Dingley: Remains confirmed as those of missing hiker](https://www.bbc.co.uk/news/uk-england-tyne-58022860) - Esther Dingley disappeared in the Pyrenees mountains in November.
 3. [Harvey Price: Met officers probed over 'inappropriate' WhatsApp messages](https://www.bbc.co.uk/news/uk-england-london-58009788) - Katie Price calls for eight police officers to be sacked amid allegations they made comments about her son.
 4. [Storm Evert: Strong winds and heavy rain cause disruption](https://www.bbc.co.uk/news/uk-england-cornwall-58022839) - There were more than 20 rescues off the Isles of Scilly where winds reached 69mph (111km/h).

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 14:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 14:29:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -121,6 +121,20 @@
             <pubDate>Fri, 30 Jul 2021 10:45:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics 2020: 'I'm Nigerian and Ghanaian, but I compete for Ghana']]></title>
+            <description><![CDATA[Triple jumper Nadia Eke talks dance, jollof and wellbeing as she prepares to compete at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/africa/58030421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/africa/58030421</guid>
+            <pubDate>Fri, 30 Jul 2021 14:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Niger President Mohamed Bazoum on the importance of keeping girls in school]]></title>
+            <description><![CDATA[Niger President Mohamed Bazoum says that his country must work hard to keep girls in school.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58030419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58030419</guid>
+            <pubDate>Fri, 30 Jul 2021 13:22:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Malawi’s president Lazarus Chakwera defends bringing family to London summit]]></title>
             <description><![CDATA[Malawi’s president has brought family members on a UK trip but says they were needed for the event.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57999922</link>
@@ -154,20 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-57946367</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57946367</guid>
             <pubDate>Mon, 26 Jul 2021 06:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DRC volcano: Reuniting children with families after the eruption]]></title>
-            <description><![CDATA[Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57947193</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57947193</guid>
-            <pubDate>Fri, 23 Jul 2021 23:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Halima Aden and Tommy Hilfiger: ‘It’s not just about diverse catwalks’]]></title>
-            <description><![CDATA[The world’s first hijab-wearing supermodel talks to fashion designer Tommy Hilfiger about why she quit the industry.]]></description>
-            <link>https://www.bbc.co.uk/news/world-57918698</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57918698</guid>
-            <pubDate>Wed, 21 Jul 2021 23:00:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
