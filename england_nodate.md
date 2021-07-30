@@ -3,10 +3,10 @@
 3. [Yorkshire strength of identity revealed by survey answers](https://www.bbc.co.uk/news/uk-england-humber-57998638) - There were more than 4,500 responses to the Yorkshire Society survey collated by Hull's university.
 4. [Night camera captures first beaver born in Norfolk in 600 years](https://www.bbc.co.uk/news/uk-england-norfolk-58011639) - The baby, or kit, was born to a pair of Eurasian beavers introduced to Wild Ken Hill last year.
 5. [Storm Evert: South West braced for 75mph winds and heavy rain](https://www.bbc.co.uk/news/uk-england-cornwall-58010633) - Heavy rain and strong winds are expected to hit the region.
-6. [FareShare warns of holiday hunger with no school meals](https://www.bbc.co.uk/news/uk-england-bristol-57925896) - Food charity FareShare says holiday hunger "is especially bad this year".
+6. [Teens who met during cancer treatment star in new campaign](https://www.bbc.co.uk/news/uk-england-birmingham-58015307) - The five friends have faced blood and brain cancers together and now feature in a new campaign film.
 7. [‘My dog travelled 50 miles on a bus to Kent’](https://www.bbc.co.uk/news/uk-england-london-58013312) - Chip the Norfolk terrier jumped on board a double-decker wedding bus by mistake.
-8. [Teens who met during cancer treatment star in new campaign](https://www.bbc.co.uk/news/uk-england-birmingham-58015307) - The five friends have faced blood and brain cancers together and now feature in a new campaign film.
-9. [Nightclubs start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
+8. [Nightclubs start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
+9. [FareShare warns of holiday hunger with no school meals](https://www.bbc.co.uk/news/uk-england-bristol-57925896) - Food charity FareShare says holiday hunger "is especially bad this year".
 10. [Devon teacher brings history lessons to TikTok](https://www.bbc.co.uk/news/uk-england-devon-58015327) - Laurie Matthews has taken her road trip history lessons to TikTok whilst camping in her Fiat 500.
 11. [Convicted terrorist found driving London bin lorries jailed](https://www.bbc.co.uk/news/uk-england-london-58017388) - Andrew Rowe drove nine different vehicles as part of his work at Hammersmith and Fulham Council.
 12. [Parton landslide forces families from their homes](https://www.bbc.co.uk/news/uk-england-cumbria-58011466) - Fourteen houses are evacuated and the main route through the village could be shut for six months.
