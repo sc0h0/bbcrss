@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 14:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 15:13:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58012834</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58012834</guid>
             <pubDate>Thu, 29 Jul 2021 23:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics 2020: 'I'm Nigerian and Ghanaian, but I compete for Ghana']]></title>
+            <description><![CDATA[Triple jumper Nadia Eke talks dance, jollof and wellbeing as she prepares to compete at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/africa/58030421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/africa/58030421</guid>
+            <pubDate>Fri, 30 Jul 2021 14:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Kenya's runners form 'mum's club']]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58002932</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58002932</guid>
             <pubDate>Thu, 29 Jul 2021 11:53:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Nigerian federation 'bears responsibility' for ineligible athletes]]></title>
-            <description><![CDATA[The Athletics Federation of Nigeria takes responsibility for failings that sees 10 athletes ruled ineligible for the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/africa/58010359</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/africa/58010359</guid>
-            <pubDate>Thu, 29 Jul 2021 09:15:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[South Africa riots: The inside story of Durban's week of anarchy]]></title>
@@ -121,13 +121,6 @@
             <pubDate>Fri, 30 Jul 2021 10:45:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics 2020: 'I'm Nigerian and Ghanaian, but I compete for Ghana']]></title>
-            <description><![CDATA[Triple jumper Nadia Eke talks dance, jollof and wellbeing as she prepares to compete at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/africa/58030421</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/africa/58030421</guid>
-            <pubDate>Fri, 30 Jul 2021 14:23:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Niger President Mohamed Bazoum on the importance of keeping girls in school]]></title>
             <description><![CDATA[Niger President Mohamed Bazoum says that his country must work hard to keep girls in school.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58030419</link>
@@ -168,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-57946367</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57946367</guid>
             <pubDate>Mon, 26 Jul 2021 06:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DRC volcano: Reuniting children with families after the eruption]]></title>
+            <description><![CDATA[Children are still separated from parents, two months after a volcano erupted near Goma in DR Congo.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57947193</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57947193</guid>
+            <pubDate>Fri, 23 Jul 2021 23:00:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
