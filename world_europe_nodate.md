@@ -2,7 +2,7 @@
 2. [Amazon hit with $886m fine for alleged data breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
 3. [Eurozone out of recession after economy grows 2%](https://www.bbc.co.uk/news/business-58024112) - Data suggests all economies in the 19-country bloc expanded in the last three months.
 4. [Tokyo Olympics: Russians face backlash from fellow competitors](https://www.bbc.co.uk/sport/olympics/58023171) - The Russian Olympic Committee are fourth in the medal table at the Tokyo Games but their athletes are facing questions from fellow competitors about whether they should even be there.
-5. [Drug deaths in Scotland reach new record level](https://www.bbc.co.uk/news/uk-scotland-58024296) - The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.
+5. [Euro 2020: Wembley steward admits theft over Euro final wristbands](https://www.bbc.co.uk/news/uk-england-london-58031483) - Yusaf Amin tried to sell security passes, uniforms and wristbands to ticketless fans for £4,500.
 6. [Esther Dingley: Remains confirmed as those of missing hiker](https://www.bbc.co.uk/news/uk-england-tyne-58022860) - Esther Dingley disappeared in the Pyrenees mountains in November.
 7. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
 8. [Covid: Stalled Russian vaccines cause global anger](https://www.bbc.co.uk/news/world-europe-58003893) - Deliveries of Russia's Sputnik V vaccine have fallen far below expectations.
