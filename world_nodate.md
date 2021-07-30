@@ -1,5 +1,5 @@
 1. [Covid in Sydney: Military deployed to help enforce lockdown](https://www.bbc.co.uk/news/world-australia-58021718) - Authorities say the deployment is needed, but critics argue it will "pick on" marginalised groups.
-2. [Nanjing: New China virus outbreak worst after Wuhan, says state media](https://www.bbc.co.uk/news/world-asia-china-58021911) - Almost 200 people have been infected since the virus was first detected at Nanjing airport on 20 July.
+2. [Nanjing: New virus outbreak worst after Wuhan, says China state media](https://www.bbc.co.uk/news/world-asia-china-58021911) - Almost 200 people have been infected since the virus was first detected at Nanjing airport on 20 July.
 3. [US sailor charged over massive USS Bonhomme warship blaze in 2020](https://www.bbc.co.uk/news/world-us-canada-58021390) - More than 60 people were injured, and the $1bn USS Bonhomme Richard had to be scrapped.
 4. [Covid-19: Biden tells states to offer $100 vaccine incentive as cases rise](https://www.bbc.co.uk/news/world-us-canada-58020090) - The US president also announced that all federal workers must be vaccinated or subjected to testing.
 5. [Olympics: The hidden sight of Tokyo's homeless](https://www.bbc.co.uk/news/world-asia-58016848) - For many among Tokyo's homeless community the Olympics are far from a cause for celebration.

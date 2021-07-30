@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 06:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 06:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[A US company has turned a former coal plant into a gas-fired Bitcoin mine]]></title>
+            <description><![CDATA[Environmentalists have criticised the gas-fired mine but the company says it offsets its emissions.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58020010</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58020010</guid>
+            <pubDate>Thu, 29 Jul 2021 23:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rick Astley rolls into a billion YouTube views]]></title>
+            <description><![CDATA[Rickroll meme helps Never Gonna Give You Up reach new heights.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58011677</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58011677</guid>
+            <pubDate>Thu, 29 Jul 2021 17:28:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NHS Covid-19 app pings rise by over 70,000 to new record]]></title>
             <description><![CDATA[The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.]]></description>
@@ -30,11 +44,18 @@
             <pubDate>Fri, 30 Jul 2021 03:40:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rick Astley rolls into a billion YouTube views]]></title>
-            <description><![CDATA[Rickroll meme helps Never Gonna Give You Up reach new heights.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58011677</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58011677</guid>
-            <pubDate>Thu, 29 Jul 2021 17:28:12 GMT</pubDate>
+            <title><![CDATA[Amazon predicts slower sales growth as Covid boost eases]]></title>
+            <description><![CDATA[The tech giant says third quarter sales growth will be slower as customers return to physical shops.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58020895</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58020895</guid>
+            <pubDate>Thu, 29 Jul 2021 21:41:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scarlett Johansson sues Disney over streaming of Black Widow]]></title>
+            <description><![CDATA[The star says box office takings for Black Widow were hit when it was streamed at the same time.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58017445</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58017445</guid>
+            <pubDate>Thu, 29 Jul 2021 21:18:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google to ban sugar-daddy apps from Play Store]]></title>
@@ -84,27 +105,6 @@
             <link>https://www.bbc.co.uk/news/technology-58001206</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58001206</guid>
             <pubDate>Wed, 28 Jul 2021 12:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Activision Blizzard staff walk out over harassment claims]]></title>
-            <description><![CDATA[Employees of the company behind Call of Duty are angry over allegations of sexism and harassment.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58005455</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58005455</guid>
-            <pubDate>Wed, 28 Jul 2021 19:44:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intel chief warns of two-year chip shortage]]></title>
-            <description><![CDATA[Pat Gelsinger talks chip crisis, China and how the firm intends to fight back in the marketplace.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57996908</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57996908</guid>
-            <pubDate>Wed, 28 Jul 2021 12:18:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ofcom appoints online safety head to take on big tech]]></title>
-            <description><![CDATA[Anna-Sophie Harling will have responsibility over how big technology companies regulate harmful speech.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57996909</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57996909</guid>
-            <pubDate>Wed, 28 Jul 2021 14:15:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Team BRIT’s Aaron Morgan: How hand controls help me race]]></title>
