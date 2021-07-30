@@ -1,5 +1,5 @@
 1. [Esther Dingley: Remains confirmed as those of missing hiker](https://www.bbc.co.uk/news/uk-england-tyne-58022860) - Esther Dingley disappeared in the Pyrenees mountains in November.
-2. [Storm Evert: Strong winds and heavy rain cause disruption](https://www.bbc.co.uk/news/uk-england-cornwall-58022839) - A yellow warning for strong to gale force winds remains in place as Storm Evert hits the UK.
+2. [Storm Evert: Strong winds and heavy rain cause disruption](https://www.bbc.co.uk/news/uk-england-cornwall-58022839) - There were more than 20 rescues off the Isles of Scilly where winds reached 69mph (111km/h).
 3. [Hastings sewage leak: Bulverhythe beach closed after pipe breaks](https://www.bbc.co.uk/news/uk-england-sussex-58023211) - Sewage spilt from a burst pipe for a second time after Southern Water turned on a pumping station.
 4. ['Brighton cat killer' Steven Bouquet jailed for stabbing 16 pets](https://www.bbc.co.uk/news/uk-england-sussex-58017099) - Steven Bouquet has been jailed for more than five years after he killed nine cats in night attacks.
 5. [Cawston Park: Failed hospital's directors still working in residential care](https://www.bbc.co.uk/news/uk-england-norfolk-57944572) - A coroner says the directors of a hospital where failures led to a man's death still run care homes.
