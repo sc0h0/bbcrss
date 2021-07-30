@@ -7,7 +7,7 @@
 7. [Storm Evert: Strong winds and heavy rain in South West](https://www.bbc.co.uk/news/uk-england-cornwall-58022839) - A yellow warning for strong to gale force winds remains in place as Storm Evert hits the UK.
 8. [Ardoyne baby death: Woman charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - The 29-year-old is due in court later on Friday over the death of a baby in north Belfast on Tuesday.
 9. [Migrant women and babies held in shocking conditions, MPs find](https://www.bbc.co.uk/news/uk-58019981) - A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.
-10. [Hong Kong: First person sentenced under security law gets nine years jail](https://www.bbc.co.uk/news/world-asia-china-58022072) - Tong Ying-kit had rode a motorbike into police officers while flying a flag with a protest slogan.
+10. [Hong Kong: First person sentenced under security law gets nine years jail](https://www.bbc.co.uk/news/world-asia-china-58022072) - Tong Ying-kit rode a motorbike into police officers while flying a flag with a protest slogan.
 11. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
 12. [The Papers: 'No jab, no job' threat and 'red alert' for travel](https://www.bbc.co.uk/news/blogs-the-papers-58020875) - The papers cover concerns about compulsory vaccination at work and possible changes to travel rules.
 13. [Olympics: The hidden sight of Tokyo's homeless](https://www.bbc.co.uk/news/world-asia-58016848) - For many among Tokyo's homeless community the Olympics are far from a cause for celebration.
