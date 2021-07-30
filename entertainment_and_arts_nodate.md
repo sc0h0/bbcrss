@@ -1,7 +1,7 @@
-1. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
-2. [Nightclubs start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
-3. [The Suicide Squad: Positive reviews for 'riotous' film](https://www.bbc.co.uk/news/entertainment-arts-58009752) - Critics largely embrace the film, with most saying it is "slicker and funnier" than the 2016 movie.
-4. [The Strokes debut Is This It at 20: Nudes, booze and 9/11](https://www.bbc.co.uk/news/entertainment-arts-57967493) - How the New York City band's 2001 debut album heralded "a new spirit in guitar music".
+1. [The Strokes Is This It at 20: Nudes, booze and 9/11](https://www.bbc.co.uk/news/entertainment-arts-57967493) - How the New York City band's 2001 debut album heralded "a new spirit in guitar music".
+2. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
+3. [Nightclubs start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
+4. [The Suicide Squad: Positive reviews for 'riotous' film](https://www.bbc.co.uk/news/entertainment-arts-58009752) - Critics largely embrace the film, with most saying it is "slicker and funnier" than the 2016 movie.
 5. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
 6. [X Factor: ITV has no plans for another series of the show](https://www.bbc.co.uk/news/entertainment-arts-58009824) - The fat lady may be singing for Simon Cowell's long-running but currently dormant TV talent show.
 7. [Older Kindles may lose internet connection, Amazon warns](https://www.bbc.co.uk/news/technology-58013362) - Amazon tells customers older Kindles might lose their ability to connect online.

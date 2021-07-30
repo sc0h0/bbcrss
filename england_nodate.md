@@ -1,4 +1,4 @@
-1. [Storm Evert: South West braces for 75mph winds and heavy rain](https://www.bbc.co.uk/news/uk-england-cornwall-58010633) - Heavy rain and strong winds are expected to hit the region.
+1. [Storm Evert: South West braced for 75mph winds and heavy rain](https://www.bbc.co.uk/news/uk-england-cornwall-58010633) - Heavy rain and strong winds are expected to hit the region.
 2. [Marcus Coutain: Knee-on-neck arrest PC will not face disciplinary action](https://www.bbc.co.uk/news/uk-england-london-58017384) - Footage showed Marcus Coutain asking an officer to "get off my neck" during his arrest in July 2020.
 3. [Man jailed after fake Amazon delivery driver gun attack](https://www.bbc.co.uk/news/uk-england-london-58017379) - Vincente Forde disguised himself as an Amazon delivery driver to attack his victim at his home.
 4. [Parton landslide forces families from their homes](https://www.bbc.co.uk/news/uk-england-cumbria-58011466) - Fourteen houses are evacuated and the main route through the village could be shut for six months.
