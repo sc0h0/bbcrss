@@ -11,16 +11,58 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 05:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 05:38:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Migrant women and babies held in shocking conditions, MPs find]]></title>
+            <description><![CDATA[A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58019981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58019981</guid>
+            <pubDate>Thu, 29 Jul 2021 23:38:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Storm Evert: South West braced for 75mph winds and heavy rain]]></title>
             <description><![CDATA[Heavy rain and strong winds are expected to hit the region.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-58010633</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58010633</guid>
             <pubDate>Thu, 29 Jul 2021 19:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FareShare warns of holiday hunger with no school meals]]></title>
+            <description><![CDATA[Food charity FareShare says holiday hunger "is especially bad this year".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-57925896</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-57925896</guid>
+            <pubDate>Fri, 30 Jul 2021 05:22:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Night camera captures first beaver born in Norfolk in 600 years]]></title>
+            <description><![CDATA[The baby, or kit, was born to a pair of Eurasian beavers introduced to Wild Ken Hill last year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58011639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58011639</guid>
+            <pubDate>Fri, 30 Jul 2021 05:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nightclubs start asking for NHS Covid pass in England]]></title>
+            <description><![CDATA[It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58015800</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58015800</guid>
+            <pubDate>Thu, 29 Jul 2021 21:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Convicted terrorist found driving London bin lorries jailed]]></title>
+            <description><![CDATA[Andrew Rowe drove nine different vehicles as part of his work at Hammersmith and Fulham Council.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58017388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58017388</guid>
+            <pubDate>Thu, 29 Jul 2021 20:25:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yorkshire strength of identity revealed by survey answers]]></title>
+            <description><![CDATA[There were more than 4,500 responses to the Yorkshire Society survey collated by Hull's university.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-57998638</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-57998638</guid>
+            <pubDate>Fri, 30 Jul 2021 05:21:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marcus Coutain: Knee-on-neck arrest PC will not face disciplinary action]]></title>
@@ -44,20 +86,6 @@
             <pubDate>Thu, 29 Jul 2021 14:50:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pilot's frustration at hotel quarantine during family bereavement]]></title>
-            <description><![CDATA[Ryan Harris' tried to appeal so he could help search for his father-in-law but was refused.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-58011922</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58011922</guid>
-            <pubDate>Thu, 29 Jul 2021 14:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Convicted terrorist found driving London bin lorries jailed]]></title>
-            <description><![CDATA[Andrew Rowe drove nine different vehicles as part of his work at Hammersmith and Fulham Council.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58017388</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58017388</guid>
-            <pubDate>Thu, 29 Jul 2021 20:25:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Worcester teen dances again after itchy skin 'miracle cure']]></title>
             <description><![CDATA[Connie McGrath has gone from staying on the sofa to a "ball of energy" in months.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58016969</link>
@@ -65,39 +93,11 @@
             <pubDate>Thu, 29 Jul 2021 15:47:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hillsborough's 97th victim was unlawfully killed, coroner concludes]]></title>
-            <description><![CDATA[Andrew Devine died as a result of injuries he sustained 32 years earlier, a coroner concludes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58011373</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58011373</guid>
-            <pubDate>Thu, 29 Jul 2021 11:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chesterfield hospital trust apology over death of newborn baby]]></title>
-            <description><![CDATA[Brody was just over 18 hours old when he died at Chesterfield Royal Hospital in 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58012160</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-58012160</guid>
-            <pubDate>Thu, 29 Jul 2021 14:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farmer loses four year legal bid to save alpaca]]></title>
-            <description><![CDATA[Geronimo twice tested positive for bovine TB but his owner refused a government order to cull him.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57997877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-57997877</guid>
-            <pubDate>Thu, 29 Jul 2021 16:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Good Samaritan plumber fears company closure]]></title>
-            <description><![CDATA[James Anderson carries out free work for people who might otherwise struggle to afford it.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58011836</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58011836</guid>
-            <pubDate>Thu, 29 Jul 2021 13:43:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hidden Lake District railway station restored by couple]]></title>
-            <description><![CDATA[Bassenthwaite Lake station took two years to restore after it had been derelict for decades.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58014752</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-58014752</guid>
-            <pubDate>Thu, 29 Jul 2021 15:26:36 GMT</pubDate>
+            <title><![CDATA[Pilot's frustration at hotel quarantine during family bereavement]]></title>
+            <description><![CDATA[Ryan Harris' tried to appeal so he could help search for his father-in-law but was refused.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58011922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58011922</guid>
+            <pubDate>Thu, 29 Jul 2021 14:59:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
@@ -170,39 +170,39 @@
             <pubDate>Wed, 28 Jul 2021 12:57:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chesterfield hospital trust apology over death of newborn baby]]></title>
+            <description><![CDATA[Brody was just over 18 hours old when he died at Chesterfield Royal Hospital in 2019.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58012160</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-58012160</guid>
+            <pubDate>Thu, 29 Jul 2021 14:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farmer loses four year legal bid to save alpaca]]></title>
+            <description><![CDATA[Geronimo twice tested positive for bovine TB but his owner refused a government order to cull him.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57997877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-57997877</guid>
+            <pubDate>Thu, 29 Jul 2021 16:52:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good Samaritan plumber fears company closure]]></title>
+            <description><![CDATA[James Anderson carries out free work for people who might otherwise struggle to afford it.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58011836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58011836</guid>
+            <pubDate>Thu, 29 Jul 2021 13:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hidden Lake District railway station restored by couple]]></title>
+            <description><![CDATA[Bassenthwaite Lake station took two years to restore after it had been derelict for decades.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58014752</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-58014752</guid>
+            <pubDate>Thu, 29 Jul 2021 15:26:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ashby Ville: Police name boy who drowned in lake at nature reserve]]></title>
             <description><![CDATA[The body of 14-year-old Kai Gardner-Pugh was recovered from the lake at Ashby Ville Nature Reserve.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-humber-58016264</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-58016264</guid>
             <pubDate>Thu, 29 Jul 2021 13:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alex Belfield: Former BBC presenter denies stalking charges]]></title>
-            <description><![CDATA[The former BBC Radio Leeds presenter is accused of stalking eight people.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58012030</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58012030</guid>
-            <pubDate>Thu, 29 Jul 2021 11:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charity art trail defaced with 'anti-vax' stickers]]></title>
-            <description><![CDATA[Several statues on display for the Sheffield charity art event were "vandalised", a charity says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58017279</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58017279</guid>
-            <pubDate>Thu, 29 Jul 2021 16:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Victoria Hall: Man released under investigation over 1999 murder]]></title>
-            <description><![CDATA[Victoria Hall, 17, was abducted on her way home from a Suffolk nightclub more than 20 years ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58015434</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58015434</guid>
-            <pubDate>Thu, 29 Jul 2021 15:54:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cyclist jailed after Tower Hamlets hit-and-run death]]></title>
-            <description><![CDATA[Peter McCombie died eight days after the crash from traumatic head injuries.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58009784</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58009784</guid>
-            <pubDate>Thu, 29 Jul 2021 09:34:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>

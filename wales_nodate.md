@@ -21,7 +21,7 @@
 21. [Tokyo Olympics: Team GB's men's eight crew win bronze medal in 'incredible' final](https://www.bbc.co.uk/sport/av/olympics/58021760) - Team GB's men's eight crew win bronze in the final race of the Tokyo 2020 regatta, being narrowly pipped to silver by Germany as New Zealand take gold.
 22. [Tokyo Olympics: Welsh swimming golden boy Matthew Richards targets more success](https://www.bbc.co.uk/sport/av/olympics/58011008) - Welsh swimming Olympic champion Matthew Richards is already targeting more gold medal success in the pool.
 23. [Dim angen hunan-ynysu os ydych wedi'ch brechu'n llawn](https://www.bbc.co.uk/newyddion/58019282) - Llywodraeth Cymru'n cyhoeddi newid i'r rheolau ar hunan-ynysu fydd mewn grym o 7 Awst ymlaen.
-24. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
-25. [Richard Jones, cerddor a chyfansoddwr Ail Symudiad, wedi marw](https://www.bbc.co.uk/newyddion/58005359) - Cerddor a chyfansoddwr grŵp Ail Symudiad, Richard Jones wedi marw, fis yn unig ar ôl ei frawd Wyn.
+24. [Dinasyddion yr UE 'angen ymgeisio dros eu plant'](https://www.bbc.co.uk/newyddion/58019990) - Mae dal yn bosib i rieni geisio i'w plant gael aros yng Nghymru er taw 30 Mehefin oedd y dyddiau cau.
+25. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
 26. [Ble mae Safleoedd Treftadaeth UNESCO Cymru?](https://www.bbc.co.uk/newyddion/58011709) - Y mannau yng Nghymru sydd wedi ennill statws treftadaeth rhyngwladol
 27. [Cyngres Europa: Y Seintiau drwodd ond Cei Connah allan](https://www.bbc.co.uk/newyddion/58003948) - Y Seintiau'n rhoi crasfa i dîm o Lithwania, ond Cei Connah allan er gwaethaf buddugoliaeth.

@@ -8,8 +8,8 @@
 8. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
 9. [Ethiopia's Tigray crisis: Fighting escalates despite ceasefire](https://www.bbc.co.uk/news/world-africa-58013100) - Forces in Amhara are battling rebels on three fronts along the border with Tigray, officials say.
 10. [Daphne Caruana Galizia: Malta responsible for journalist death - inquiry](https://www.bbc.co.uk/news/world-europe-58012903) - The results of an inquiry say officials could have prevented Daphne Caruana Galizia's 2017 murder.
-11. [Coronavirus: Israel to give third jab to people aged over 60](https://www.bbc.co.uk/news/world-middle-east-58021386) - Israel will offer Covid boosters amid a recent surge in infections.
-12. [Johnny Ventura: Dominican merengue legend dies aged 81](https://www.bbc.co.uk/news/world-latin-america-58011686) - The Dominican Republic singer, whose career spanned six decades, is seen as a Latin music legend.
+11. [Deal agreed for patients and children of fertility doctor who used own sperm](https://www.bbc.co.uk/news/world-us-canada-58017079) - Former fertility doctor Norman Barwin used his own or unknown sperm to impregnate patients.
+12. [Coronavirus: Israel to give third jab to people aged over 60](https://www.bbc.co.uk/news/world-middle-east-58021386) - Israel will offer Covid boosters amid a recent surge in infections.
 13. [China warns UK as carrier strike group approaches](https://www.bbc.co.uk/news/world-asia-58015367) - A fleet of British ships is currently sailing through the South China Sea en route to Japan.
 14. [Covid and a coup: The double crisis pushing Myanmar to the brink](https://www.bbc.co.uk/news/world-asia-57993930) - A surge in virus cases has dealt a fresh blow to a country already dealing with military coup.
 15. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
