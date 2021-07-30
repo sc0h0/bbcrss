@@ -1,13 +1,13 @@
 1. [Covid in Wales: Self-isolation rules to ease for double jabbed](https://www.bbc.co.uk/news/uk-wales-politics-58013131) - Wales will be the first part of the UK to stop telling fully vaccinated adults to self-isolate.
-2. [Callum Jones, 20, left paralysed after running into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and hit something beneath the surface.
-3. [Blind people in Wales frustrated by Covid vaccine access](https://www.bbc.co.uk/news/uk-wales-58013982) - Those living with sight disabilities criticise accessibility to information and jab centres.
-4. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58023667) - A yellow warning for wind covers large parts of the south Wales coast.
-5. [Llanelli boy 'didn't get enough support' from school before death](https://www.bbc.co.uk/news/uk-wales-58011859) - Byron John says his son Bradley "had a future that he wanted and yearned for".
-6. [Bangor: Fire at BT building leaves people without internet and phone](https://www.bbc.co.uk/news/uk-wales-politics-58019642) - Nobody was hurt and the "vast majority" of broadband services were not affected, BT says.
-7. [Sacked Dyfed-Powys Police PC made sexual comments about public](https://www.bbc.co.uk/news/uk-wales-58018185) - PC Simon England was struck off after his force appealed against an earlier decision not to sack him.
-8. [LGBTQ: Wales' bid to be 'most friendly' nation in Europe](https://www.bbc.co.uk/news/uk-wales-57986732) - A new plan aims to make Wales "the most LGBTQ+ friendly" nation in Europe.
-9. [Olympics: Headstone bid for champion in unmarked grave](https://www.bbc.co.uk/news/uk-wales-58008948) - Cecil Griffiths died in poverty and his family could not afford a headstone for the relay winner.
-10. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58011880) - A yellow warning for wind covers large parts of the south Wales coast on Thursday and Friday.
+2. [Covid: Cardiff woman 'cut by razor behind anti-mask poster'](https://www.bbc.co.uk/news/uk-wales-58020985) - Layla Stokes says she has been to the doctor to have the cut tested for any diseases.
+3. [Callum Jones, 20, left paralysed after running into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and hit something beneath the surface.
+4. [Blind people in Wales frustrated by Covid vaccine access](https://www.bbc.co.uk/news/uk-wales-58013982) - Those living with sight disabilities criticise accessibility to information and jab centres.
+5. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58023667) - A yellow warning for wind covers large parts of the south Wales coast.
+6. [Bangor: Most landlines reconnected after BT fire](https://www.bbc.co.uk/news/uk-wales-58025442) - Nobody was hurt and the fire was quickly extinguished, BT says.
+7. [Llanelli boy 'didn't get enough support' from school before death](https://www.bbc.co.uk/news/uk-wales-58011859) - Byron John says his son Bradley "had a future that he wanted and yearned for".
+8. [Sacked Dyfed-Powys Police PC made sexual comments about public](https://www.bbc.co.uk/news/uk-wales-58018185) - PC Simon England was struck off after his force appealed against an earlier decision not to sack him.
+9. [LGBTQ: Wales' bid to be 'most friendly' nation in Europe](https://www.bbc.co.uk/news/uk-wales-57986732) - A new plan aims to make Wales "the most LGBTQ+ friendly" nation in Europe.
+10. [Olympics: Headstone bid for champion in unmarked grave](https://www.bbc.co.uk/news/uk-wales-58008948) - Cecil Griffiths died in poverty and his family could not afford a headstone for the relay winner.
 11. [Covid case rate falls for eighth consecutive day](https://www.bbc.co.uk/news/uk-wales-58009193) - Figures show 18 of Wales' 22 local authority areas are seeing a drop in case rates among under-25s.
 12. [Bradley John 'should be coming up to his 18th birthday'](https://www.bbc.co.uk/news/uk-wales-58019640) - Father of Bradley John, 14, says the fact he "took his life" at school is "very, very symbolic".
 13. [Talking Books Wales: How one woman helped so many blind people read](https://www.bbc.co.uk/news/uk-wales-58018316) - After losing her sight in her 30s, Rhian Evans says she "used that disability" to help others.
