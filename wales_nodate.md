@@ -21,7 +21,7 @@
 21. [South Africa v British & Irish Lions: Rassie Erasmus complains about refereeing in video monologue](https://www.bbc.co.uk/sport/rugby-union/58012090) - South Africa boss Rassie Erasmus records an hour-long video monologue railing against the refereeing in his side's first-Test defeat by the British and Irish Lions.
 22. [Tokyo Olympics: Team GB's men's eight crew win bronze medal in 'incredible' final](https://www.bbc.co.uk/sport/av/olympics/58021760) - Team GB's men's eight crew win bronze in the final race of the Tokyo 2020 regatta, being narrowly pipped to silver by Germany as New Zealand take gold.
 23. [Dim angen hunan-ynysu os ydych wedi'ch brechu'n llawn](https://www.bbc.co.uk/newyddion/58019282) - Llywodraeth Cymru'n cyhoeddi newid i'r rheolau ar hunan-ynysu fydd mewn grym o 7 Awst ymlaen.
-24. [Tân BT Bangor yn torri cysylltiadau ffôn a band eang](https://www.bbc.co.uk/newyddion/58023521) - Chafodd neb anaf, medd BT a does dim effaith i "fwyafrif helaeth" eu gwasanaethau band eang.
+24. [Tân BT Bangor yn torri cysylltiadau ffôn a band eang](https://www.bbc.co.uk/newyddion/58023521) - Chafodd neb anaf, medd BT ac mae peirianwyr wedi gweithio drwy'r nos i adfer gwasanaethau band eang.
 25. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
 26. [Ble mae Safleoedd Treftadaeth UNESCO Cymru?](https://www.bbc.co.uk/newyddion/58011709) - Y mannau yng Nghymru sydd wedi ennill statws treftadaeth rhyngwladol
 27. [Cyngres Europa: Y Seintiau drwodd ond Cei Connah allan](https://www.bbc.co.uk/newyddion/58003948) - Y Seintiau'n rhoi crasfa i dîm o Lithwania, ond Cei Connah allan er gwaethaf buddugoliaeth.

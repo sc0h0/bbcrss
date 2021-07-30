@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 08:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 08:36:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[British Airways owner IAG to ramp up flights]]></title>
+            <description><![CDATA[IAG, which also owns Iberia, says it plans to run at 75% of its 2019 passenger capacity by the end of the year.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58024108</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58024108</guid>
+            <pubDate>Fri, 30 Jul 2021 08:34:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dairy giant Arla says driver crisis hitting milk supply]]></title>
             <description><![CDATA[Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Fri, 30 Jul 2021 03:40:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bumble to give staff unlimited paid holiday]]></title>
-            <description><![CDATA[The dating app's policy is subject to manager approval and comes after the firm shut down for a week.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57997445</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57997445</guid>
-            <pubDate>Thu, 29 Jul 2021 18:16:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scarlett Johansson sues Disney over streaming of Black Widow]]></title>
             <description><![CDATA[The star says box office takings for Black Widow were hit when it was streamed at the same time.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58017445</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/business-58018966</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58018966</guid>
             <pubDate>Thu, 29 Jul 2021 19:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bumble to give staff unlimited paid holiday]]></title>
+            <description><![CDATA[The dating app's policy is subject to manager approval and comes after the firm shut down for a week.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57997445</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57997445</guid>
+            <pubDate>Thu, 29 Jul 2021 18:16:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazon predicts slower sales growth as Covid boost eases]]></title>
