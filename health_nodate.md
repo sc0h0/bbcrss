@@ -1,5 +1,5 @@
 1. [Pregnant women urged to get jab as majority unvaccinated](https://www.bbc.co.uk/news/health-58014779) - Estimates suggest hundreds of thousands of pregnant women in England have not yet had the vaccine.
-2. [More detailed data released on Covid in hospitals](https://www.bbc.co.uk/news/health-58025045) - New NHS England data shows 23% of Covid patients were admitted for other reasons.
+2. [Covid: Up to one in four admitted to hospital for other reasons](https://www.bbc.co.uk/news/health-58025045) - The government says counting all patients who test positive is vital because of the impact on the NHS.
 3. [Drug deaths in Scotland reach new record level](https://www.bbc.co.uk/news/uk-scotland-58024296) - The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.
 4. [Covid vaccines have prevented 60,000 deaths in England - Jonathan Van-Tam](https://www.bbc.co.uk/news/newsbeat-58014546) - He says future lockdowns are less likely the more people, including 18-25-year olds, get vaccinated.
 5. [Club night drops NHS Covid pass requirement](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.

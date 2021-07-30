@@ -1,4 +1,4 @@
-1. [Tokyo Olympics: SA's Schoenmaker wins gold and sets world record on day seven](https://www.bbc.co.uk/sport/africa/58024685) - As the athletics begins at the Tokyo Olympics there is a gold and a world record for South African swimmer Tatjana Schoenmaker.
+1. [Tokyo Olympics: SA's Schoenmaker and Ehiopia's Selemon Barega both win gold on day seven](https://www.bbc.co.uk/sport/africa/58024685) - Ethiopia's Selemon Barega wins the first athletics gold of the Tokyo Olympics while in the pool there is a gold and a world record for South Africa's Tatjana Schoenmaker.
 2. [Africa's week in pictures: 23-29 July 2021](https://www.bbc.co.uk/news/world-africa-58012834) - A selection of the week's best photos from across the continent and beyond.
 3. [Tokyo Olympics: Kenya's runners form 'mum's club'](https://www.bbc.co.uk/sport/av/africa/58010722) - Top Kenyan female athletes have been juggling parenting and training for the Tokyo Olympics.
 4. [Ethiopia's Tigray crisis: Fighting escalates despite ceasefire](https://www.bbc.co.uk/news/world-africa-58013100) - Forces in Amhara are battling rebels on three fronts along the border with Tigray, officials say.
