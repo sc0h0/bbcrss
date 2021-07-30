@@ -1,5 +1,5 @@
-1. [The Strokes Is This It at 20: Nudes, booze and 9/11](https://www.bbc.co.uk/news/entertainment-arts-57967493) - How the New York City band's 2001 debut album heralded "a new spirit in guitar music".
-2. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
+1. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
+2. [The Strokes Is This It at 20: Nudes, booze and 9/11](https://www.bbc.co.uk/news/entertainment-arts-57967493) - How the New York City band's 2001 debut album heralded "a new spirit in guitar music".
 3. [Nightclubs start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
 4. [The Suicide Squad: Positive reviews for 'riotous' film](https://www.bbc.co.uk/news/entertainment-arts-58009752) - Critics largely embrace the film, with most saying it is "slicker and funnier" than the 2016 movie.
 5. [Doctor Who: Jodie Whittaker and Chris Chibnall to leave in 2022](https://www.bbc.co.uk/news/entertainment-arts-57940451) - The star of the BBC sci-fi drama series will bow out with a trio of specials.
