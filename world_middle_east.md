@@ -1,4 +1,4 @@
-1. [Deadly oil tanker attack in Arabian Sea](https://www.bbc.co.uk/news/world-middle-east-57977702) - Fri, 30 Jul 2021 15:54:49 GMT - Two crew members, a British and a Romanian citizen, are killed in an incident off the coast of Oman.
+1. [Deadly oil tanker attack in Arabian Sea](https://www.bbc.co.uk/news/world-middle-east-57977702) - Fri, 30 Jul 2021 17:34:41 GMT - Two crew members, a British and a Romanian citizen, are killed in an incident off the coast of Oman.
 2. [Coronavirus: Israel to give third jab to people aged over 60](https://www.bbc.co.uk/news/world-middle-east-58021386) - Fri, 30 Jul 2021 10:30:50 GMT - Israel will offer Covid boosters amid a recent surge in infections.
 3. [Israel investigating shooting of Palestinian boy in West Bank](https://www.bbc.co.uk/news/world-middle-east-58010712) - Thu, 29 Jul 2021 15:41:18 GMT - Palestinian officials say soldiers shot the 12-year-old as he travelled in a car in the West Bank.
 4. [Lebanon’s descent into darkness](https://www.bbc.co.uk/news/world-middle-east-57988693) - Tue, 27 Jul 2021 23:01:09 GMT - The country's economic crisis has forced some families to move into refugee camps to survive.
