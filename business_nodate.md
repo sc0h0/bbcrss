@@ -1,17 +1,17 @@
 1. [British Airways owner IAG to ramp up flights](https://www.bbc.co.uk/news/business-58024108) - IAG, which also owns Iberia, says it plans to run at 75% of its 2019 passenger capacity by the end of the year.
-2. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.
-3. ['I was asked how often I use the toilet'](https://www.bbc.co.uk/news/business-58020735) - Disabled jobseekers have to overcome too many barriers, MPs say.
-4. [Empty shop numbers rise as Covid continues to bite](https://www.bbc.co.uk/news/business-58007313) - The number of vacant shops continues to rise after a year of lockdowns, the BRC says.
-5. [Didi: Chinese ride-hailing giant denies plans to go private](https://www.bbc.co.uk/news/business-58021828) - Didi shares surged by almost 50% in pre-market trade after a report that it planned to go private.
+2. [Eurozone out of recession after economy grows 2%](https://www.bbc.co.uk/news/business-58024112) - Data suggests all economies in the 19-country bloc expanded in the last three months.
+3. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.
+4. ['I was asked how often I use the toilet'](https://www.bbc.co.uk/news/business-58020735) - Disabled jobseekers have to overcome too many barriers, MPs say.
+5. [Empty shop numbers rise as Covid continues to bite](https://www.bbc.co.uk/news/business-58007313) - The number of vacant shops continues to rise after a year of lockdowns, the BRC says.
 6. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
-7. [Shareholder dissent grows over Morrisons takeover bid](https://www.bbc.co.uk/news/business-58018966) - More shareholders are coming out against a proposed £6.3bn deal for the supermarket chain.
-8. [Bumble to give staff unlimited paid holiday](https://www.bbc.co.uk/news/business-57997445) - The dating app's policy is subject to manager approval and comes after the firm shut down for a week.
-9. [Amazon predicts slower sales growth as Covid boost eases](https://www.bbc.co.uk/news/business-58020895) - The tech giant says third quarter sales growth will be slower as customers return to physical shops.
-10. [Robinhood has a muted stock market debut](https://www.bbc.co.uk/news/business-57997450) - Shares in the online trading platform fell in its first day of trading in a lacklustre debut.
-11. [US economic growth 'disappoints' as Covid surges](https://www.bbc.co.uk/news/business-58007120) - The world's largest economy grew by 6.5% in the second quarter but fell short of forecasts.
-12. [Fewest people on furlough since pandemic began](https://www.bbc.co.uk/news/business-57981760) - Under-25s are coming off furlough twice as fast as all other age brackets, says the Treasury.
-13. [Drug firm fined for huge price rise that hit NHS](https://www.bbc.co.uk/news/business-58009149) - Advanz pushed up the price of thyroid tablet packs more than 10-fold, says the competition watchdog.
-14. [Netflix US cast and crew must be vaccinated to work](https://www.bbc.co.uk/news/business-58006810) - The online streaming firm is the latest company to make Covid jabs mandatory for workers.
+7. [Didi: Chinese ride-hailing giant denies plans to go private](https://www.bbc.co.uk/news/business-58021828) - Didi shares surged by almost 50% in pre-market trade after a report that it planned to go private.
+8. [Shareholder dissent grows over Morrisons takeover bid](https://www.bbc.co.uk/news/business-58018966) - More shareholders are coming out against a proposed £6.3bn deal for the supermarket chain.
+9. [Bumble to give staff unlimited paid holiday](https://www.bbc.co.uk/news/business-57997445) - The dating app's policy is subject to manager approval and comes after the firm shut down for a week.
+10. [Amazon predicts slower sales growth as Covid boost eases](https://www.bbc.co.uk/news/business-58020895) - The tech giant says third quarter sales growth will be slower as customers return to physical shops.
+11. [Robinhood has a muted stock market debut](https://www.bbc.co.uk/news/business-57997450) - Shares in the online trading platform fell in its first day of trading in a lacklustre debut.
+12. [US economic growth 'disappoints' as Covid surges](https://www.bbc.co.uk/news/business-58007120) - The world's largest economy grew by 6.5% in the second quarter but fell short of forecasts.
+13. [Fewest people on furlough since pandemic began](https://www.bbc.co.uk/news/business-57981760) - Under-25s are coming off furlough twice as fast as all other age brackets, says the Treasury.
+14. [Drug firm fined for huge price rise that hit NHS](https://www.bbc.co.uk/news/business-58009149) - Advanz pushed up the price of thyroid tablet packs more than 10-fold, says the competition watchdog.
 15. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
 16. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
 17. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.

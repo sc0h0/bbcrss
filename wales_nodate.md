@@ -2,8 +2,8 @@
 2. [Covid: Cardiff woman 'cut by razor behind anti-mask poster'](https://www.bbc.co.uk/news/uk-wales-58020985) - Layla Stokes says she has been to the doctor to have the cut tested for any diseases.
 3. [Callum Jones, 20, left paralysed after running into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and hit something beneath the surface.
 4. [Children in care: Lack of secure accommodation 'scandalous'](https://www.bbc.co.uk/news/uk-wales-58025443) - A supreme court judge says a lack of approved homes is causing an "extremely difficult situation".
-5. [Brexit: 'EU citizens in Wales unaware children need to apply to stay'](https://www.bbc.co.uk/news/uk-wales-58015546) - Charities say some EU citizens "did not know" they needed to apply by the 30 June deadline.
-6. [Theatr Arduwy: 'Fraudulent' theatre producer 'misled' community](https://www.bbc.co.uk/news/uk-wales-58023864) - Kallum O'Sullivan promised to reinvent the theatre after closing in 2017 due to safety concerns.
+5. [Brexit: 'EU citizens in Wales unaware children need to apply to stay'](https://www.bbc.co.uk/news/uk-wales-58015546) - The 30 June deadline to apply to stay has passed, but some late applications will be allowed.
+6. [Theatr Arduwy: 'Fraudulent' theatre producer 'misled' community](https://www.bbc.co.uk/news/uk-wales-58023864) - Kallum O'Sullivan promised to reinvent Theatr Arduwy after it closed in 2017 due to safety concerns.
 7. [Blind people in Wales frustrated by Covid vaccine access](https://www.bbc.co.uk/news/uk-wales-58013982) - Those living with sight disabilities criticise accessibility to information and jab centres.
 8. [Storm Evert: Yellow warning for wind on south Wales coast](https://www.bbc.co.uk/news/uk-wales-58023667) - A yellow warning for wind covers large parts of the south Wales coast.
 9. [BT: Landlines reconnected after Bangor building fire](https://www.bbc.co.uk/news/uk-wales-58025442) - Some customers were left without a landline overnight while services were restored.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 11:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 11:38:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,25 @@
             <pubDate>Fri, 30 Jul 2021 11:17:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stephen Bear: Reality TV star denies sexual images charges]]></title>
+            <description><![CDATA[Stephen Bear, who won Celebrity Big Brother, denies sharing private images and voyeurism.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-58025231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-58025231</guid>
+            <pubDate>Fri, 30 Jul 2021 11:12:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No Queen hug after Duke of Edinburgh death hard, says grandson Peter Phillips]]></title>
+            <description><![CDATA[Everyone saw her sitting alone at the Duke of Edinburgh's funeral, says Peter Phillips.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58024149</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-58024149</guid>
+            <pubDate>Fri, 30 Jul 2021 11:00:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[London Marathon: New mum campaigns for pregnancy deferral rule change]]></title>
             <description><![CDATA[Faith Geraghty is denied permission to defer her competition place due to an unplanned C-section.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-57997879</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-57997879</guid>
             <pubDate>Fri, 30 Jul 2021 08:51:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘My dog travelled 50 miles on a bus to Kent’]]></title>
-            <description><![CDATA[Chip the Norfolk terrier jumped on board a double-decker wedding bus by mistake.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58013312</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58013312</guid>
-            <pubDate>Fri, 30 Jul 2021 05:43:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Euro 2020: More people sought over Wembley final disorder]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58011639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58011639</guid>
             <pubDate>Fri, 30 Jul 2021 05:28:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Camp Bestival will be as normal as possible, says organiser Rob da Bank]]></title>
-            <description><![CDATA[Festival-goers started arriving on Thursday, but some public arenas were affected by Storm Evert.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58023222</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58023222</guid>
-            <pubDate>Fri, 30 Jul 2021 11:20:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Fri, 30 Jul 2021 05:52:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[‘My dog travelled 50 miles on a bus to Kent’]]></title>
+            <description><![CDATA[Chip the Norfolk terrier jumped on board a double-decker wedding bus by mistake.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58013312</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58013312</guid>
+            <pubDate>Fri, 30 Jul 2021 05:43:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Manchester teenager urges black people to give blood]]></title>
             <description><![CDATA[Zenith, 18, began donating blood to support her brother Charming, who has sickle cell disease.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58014249</link>
@@ -163,11 +170,11 @@
             <pubDate>Wed, 28 Jul 2021 23:05:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Leicester asylum seeker: 'My allotment saved my life']]></title>
-            <description><![CDATA[Joel Chitsa says gardening helped deal with the pain of being forced to leave Zimbabwe.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-57931064</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-57931064</guid>
-            <pubDate>Thu, 29 Jul 2021 05:23:10 GMT</pubDate>
+            <title><![CDATA[Camp Bestival will be as normal as possible, says organiser Rob da Bank]]></title>
+            <description><![CDATA[Festival-goers started arriving on Thursday, but some public arenas were affected by Storm Evert.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58023222</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58023222</guid>
+            <pubDate>Fri, 30 Jul 2021 11:20:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Migrant women and babies held in shocking conditions, MPs find]]></title>
