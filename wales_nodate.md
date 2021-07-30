@@ -22,6 +22,6 @@
 22. [Tokyo Olympics: Welsh swimming golden boy Matthew Richards targets more success](https://www.bbc.co.uk/sport/av/olympics/58011008) - Welsh swimming Olympic champion Matthew Richards is already targeting more gold medal success in the pool.
 23. [Dim angen hunan-ynysu os ydych wedi'ch brechu'n llawn](https://www.bbc.co.uk/newyddion/58019282) - Llywodraeth Cymru'n cyhoeddi newid i'r rheolau ar hunan-ynysu fydd mewn grym o 7 Awst ymlaen.
 24. [Dinasyddion yr UE 'angen ymgeisio dros eu plant'](https://www.bbc.co.uk/newyddion/58019990) - Mae dal yn bosib i rieni geisio i'w plant gael aros yng Nghymru er taw 30 Mehefin oedd y dyddiau cau.
-25. [Theatr Ardudwy: Addewid i ailagor a gwario £500k yn 'gelwydd'](https://www.bbc.co.uk/newyddion/58003945) - Addewid cynhyrchydd ifanc i wario £500,000 ar ailagor Theatr Ardudwy yn "gelwydd llwyr".
+25. [Pobl ddall yn 'rhwystredig' gyda'r rhaglen frechu](https://www.bbc.co.uk/newyddion/58014570) - Mae diffyg cyfathrebu'n amharu ar brofiadau pobl ddall a rhannol ddall wrth gael eu brechu, medd elusen.
 26. [Ble mae Safleoedd Treftadaeth UNESCO Cymru?](https://www.bbc.co.uk/newyddion/58011709) - Y mannau yng Nghymru sydd wedi ennill statws treftadaeth rhyngwladol
 27. [Cyngres Europa: Y Seintiau drwodd ond Cei Connah allan](https://www.bbc.co.uk/newyddion/58003948) - Y Seintiau'n rhoi crasfa i dîm o Lithwania, ond Cei Connah allan er gwaethaf buddugoliaeth.
