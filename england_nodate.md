@@ -5,7 +5,7 @@
 5. [Brixton stabbing: Man, 18, charged with murder](https://www.bbc.co.uk/news/uk-england-london-58030258) - Shane Jerome, 23, was pronounced dead at the scene outside Brixton Tube station on 21 July.
 6. [Euro 2020: Wembley steward admits theft over Euro final wristbands](https://www.bbc.co.uk/news/uk-england-london-58031483) - Yusaf Amin tried to sell security passes, uniforms and wristbands to ticketless fans for £4,500.
 7. [Stonehenge tunnel campaigners win court battle](https://www.bbc.co.uk/news/uk-england-wiltshire-58024139) - A judicial review into road works near the world heritage site finds for the campaigners.
-8. [Ubbeston: Two women seriously hurt by falling oak tree](https://www.bbc.co.uk/news/uk-england-suffolk-58034680) - The pair, in their 20s, were believed to have been at an outdoor party when the tree collapsed.
+8. [Storm Evert: Falling tree injures women at party as winds rage](https://www.bbc.co.uk/news/uk-england-suffolk-58034680) - The pair, in their 20s, were believed to have been at an outdoor party when the tree collapsed.
 9. [Cambridgeshire Nigel Ebbage murder: Lance Woollard jailed](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58033463) - Lance Woollard stabbed his daughter's ex-partner 21 times after a long-running custody battle.
 10. [Mum killed daughter, 3, and cousin in crash while 'showing off'](https://www.bbc.co.uk/news/uk-england-tyne-58030205) - Mary Stokes was "showing off" to her five young passengers when she caused the head-on collision.
 11. [Apsana Begum: Labour MP cleared of fraudulent housing claims](https://www.bbc.co.uk/news/uk-england-london-58024457) - Apsana Begum says the trial caused her "great distress" and damaged her reputation.
