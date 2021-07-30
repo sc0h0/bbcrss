@@ -9,7 +9,7 @@
 9. [Briton killed in oil tanker attack in Arabian Sea](https://www.bbc.co.uk/news/world-middle-east-57977702) - Two crew members, a British and a Romanian citizen, are killed in an incident off the coast of Oman.
 10. [Hunt for certainty over Covid cases continues](https://www.bbc.co.uk/news/health-58029383) - Flurry of Covid data does not resolve debate around state of the pandemic in the UK.
 11. [Stonehenge tunnel campaigners win court battle](https://www.bbc.co.uk/news/uk-england-wiltshire-58024139) - A judicial review into road works near the world heritage site finds for the campaigners.
-12. [Russia stops Cubans trying to enter EU by air bed](https://www.bbc.co.uk/news/world-europe-58033042) - Three Cubans caught trying to cross a river into Estonia are said to have been heading for Spain.
+12. [Russia stops Cubans trying to enter EU on air beds](https://www.bbc.co.uk/news/world-europe-58033042) - Three Cubans caught trying to cross a river into Estonia are said to have been heading for Spain.
 13. [Euro 2020: Wembley steward admits theft over Euro final wristbands](https://www.bbc.co.uk/news/uk-england-london-58031483) - Yusaf Amin tried to sell security passes, uniforms and wristbands to ticketless fans for £4,500.
 14. [Jersey teenager asking world leaders for advice](https://www.bbc.co.uk/news/world-europe-jersey-58031202) - Leo, 18, sent 200 letters asking for life advice and wisdom from leaders around the globe.
 15. [The separated refugees brought back together by judo](https://www.bbc.co.uk/news/world-58020945) - Sanda Aldass and Muna Dahouk have trained together since childhood but the war in Syria separated them.

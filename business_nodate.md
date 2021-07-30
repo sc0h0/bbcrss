@@ -1,4 +1,4 @@
-1. [Amazon hit with $886m fine for alleged data breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
+1. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
 2. [British Airways owner IAG to ramp up flights](https://www.bbc.co.uk/news/business-58024108) - IAG, which also owns Iberia, says it plans to run at 75% of its 2019 passenger capacity by the end of the year.
 3. [Eurozone out of recession after economy grows 2%](https://www.bbc.co.uk/news/business-58024112) - Data suggests all economies in the 19-country bloc expanded in the last three months.
 4. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.

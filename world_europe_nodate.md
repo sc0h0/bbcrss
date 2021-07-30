@@ -1,5 +1,5 @@
 1. [Turkey fires: Blazes threaten Marmaris and other coastal resorts](https://www.bbc.co.uk/news/world-58026832) - Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.
-2. [Amazon hit with $886m fine for alleged data breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
+2. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
 3. [Eurozone out of recession after economy grows 2%](https://www.bbc.co.uk/news/business-58024112) - Data suggests all economies in the 19-country bloc expanded in the last three months.
 4. [Tokyo Olympics: Russians face backlash from fellow competitors](https://www.bbc.co.uk/sport/olympics/58023171) - The Russian Olympic Committee are fourth in the medal table at the Tokyo Games but their athletes are facing questions from fellow competitors about whether they should even be there.
 5. [Euro 2020: Wembley steward admits theft over Euro final wristbands](https://www.bbc.co.uk/news/uk-england-london-58031483) - Yusaf Amin tried to sell security passes, uniforms and wristbands to ticketless fans for £4,500.

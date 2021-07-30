@@ -1,4 +1,4 @@
-1. [Amazon hit with $886m fine for alleged data breach](https://www.bbc.co.uk/news/business-58024116) - Fri, 30 Jul 2021 17:21:46 GMT - The tech giant rejects claims it has broken European Union data protection laws.
+1. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - Fri, 30 Jul 2021 19:38:49 GMT - The tech giant rejects claims it has broken European Union data protection laws.
 2. [British Airways owner IAG to ramp up flights](https://www.bbc.co.uk/news/business-58024108) - Fri, 30 Jul 2021 08:50:22 GMT - IAG, which also owns Iberia, says it plans to run at 75% of its 2019 passenger capacity by the end of the year.
 3. [Eurozone out of recession after economy grows 2%](https://www.bbc.co.uk/news/business-58024112) - Fri, 30 Jul 2021 11:31:24 GMT - Data suggests all economies in the 19-country bloc expanded in the last three months.
 4. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Thu, 29 Jul 2021 23:01:31 GMT - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.

@@ -6,8 +6,8 @@
 6. [Turkey fires: Blazes threaten Marmaris and other coastal resorts](https://www.bbc.co.uk/news/world-58026832) - Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.
 7. [Amanda Knox claims Matt Damon film Stillwater profits from her life](https://www.bbc.co.uk/news/entertainment-arts-58031645) - The director of Stillwater said he was fascinated by Ms Knox's wrongful murder conviction in Italy.
 8. [Hong Kong: First person jailed under security law given nine years](https://www.bbc.co.uk/news/world-asia-china-58022072) - Tong Ying-kit rode a motorbike into police officers while flying a flag with a protest slogan.
-9. [Russia stops Cubans trying to enter EU by air bed](https://www.bbc.co.uk/news/world-europe-58033042) - Three Cubans caught trying to cross a river into Estonia are said to have been heading for Spain.
-10. [Amazon hit with $886m fine for alleged data breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
+9. [Russia stops Cubans trying to enter EU on air beds](https://www.bbc.co.uk/news/world-europe-58033042) - Three Cubans caught trying to cross a river into Estonia are said to have been heading for Spain.
+10. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
 11. [China nuclear: Taishan reactor shut down over damaged fuel rods](https://www.bbc.co.uk/news/world-asia-china-58026038) - The operator says the EPR reactor at Taishan in China is "under control" despite fuel rod concerns.
 12. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
 13. [China warns UK as carrier strike group approaches](https://www.bbc.co.uk/news/world-asia-58015367) - A fleet of British ships is currently sailing through the South China Sea en route to Japan.
