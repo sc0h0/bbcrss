@@ -9,11 +9,10 @@
 9. [Shareholder dissent grows over Morrisons takeover bid](https://www.bbc.co.uk/news/business-58018966) - More shareholders are coming out against a proposed £6.3bn deal for the supermarket chain.
 10. [Bumble to give staff unlimited paid holiday](https://www.bbc.co.uk/news/business-57997445) - The dating app's policy is subject to manager approval and comes after the firm shut down for a week.
 11. [Amazon predicts slower sales growth as Covid boost eases](https://www.bbc.co.uk/news/business-58020895) - The tech giant says third quarter sales growth will be slower as customers return to physical shops.
-12. [Robinhood has a muted stock market debut](https://www.bbc.co.uk/news/business-57997450) - Shares in the online trading platform fell in its first day of trading in a lacklustre debut.
-13. [US economic growth 'disappoints' as Covid surges](https://www.bbc.co.uk/news/business-58007120) - The world's largest economy grew by 6.5% in the second quarter but fell short of forecasts.
-14. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
-15. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
-16. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
-17. [CEO Secrets: The son who hired his father and sister](https://www.bbc.co.uk/news/business-57968798) - Ross Testa explains why he hired his sister and then his father for his social media business.
-18. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
-19. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
+12. [US economic growth 'disappoints' as Covid surges](https://www.bbc.co.uk/news/business-58007120) - The world's largest economy grew by 6.5% in the second quarter but fell short of forecasts.
+13. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
+14. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
+15. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
+16. [CEO Secrets: The son who hired his father and sister](https://www.bbc.co.uk/news/business-57968798) - Ross Testa explains why he hired his sister and then his father for his social media business.
+17. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
+18. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
