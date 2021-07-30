@@ -22,7 +22,7 @@
 22. [Covid: The doctor sisters working through the pandemic](https://www.bbc.co.uk/news/uk-england-devon-58011779) - Caitlín and Megan Prosser have been supporting each other throughout the Covid-19 pandemic.
 23. [Jordan Lee: Blackpool man who murdered baby daughter jailed](https://www.bbc.co.uk/news/uk-england-lancashire-58028070) - Jordan Lee was heard shouting at the four-month-old to "shut-up" before severely beating her.
 24. [Stephen Bear: Reality TV star denies sexual images charges](https://www.bbc.co.uk/news/uk-england-essex-58025231) - Stephen Bear, who won Celebrity Big Brother, denies sharing private images and voyeurism.
-25. [Parton landslide: Community rallies as worries grow](https://www.bbc.co.uk/news/uk-england-cumbria-58025452) - Villagers are pulling together after cracks in a hill forced 14 families to leave their homes.
+25. [Parton landslide: Families not allowed home for weekend](https://www.bbc.co.uk/news/uk-england-cumbria-58025452) - The 14 families were forced to leave after cracks appeared in the hill behind their houses.
 26. [M1: Woman caught driving at 130mph 'needed the toilet'](https://www.bbc.co.uk/news/uk-england-derbyshire-58028010) - Officers pointed out the woman had actually sped past motorway services.
 27. [Hastings sewage leak: Bulverhythe beach closed after pipe breaks](https://www.bbc.co.uk/news/uk-england-sussex-58023211) - Sewage spilt from a burst pipe for a second time after Southern Water turned on a pumping station.
 28. [Tokyo Olympics: Bethany Shriever wins BMX gold as GB claim six medals](https://www.bbc.co.uk/sport/olympics/58022228) - Bethany Shriever claimed a thrilling BMX gold and Duncan Scott extended his streak in the pool as Great Britain won six Olympic medals on Friday.
