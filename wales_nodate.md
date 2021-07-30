@@ -1,14 +1,14 @@
 1. [Crickhowell rape: Police search for masked men after woman attacked](https://www.bbc.co.uk/news/uk-wales-58018051) - The "harrowing" early hours attack happened as she walked on the main road in a small rural town.
 2. ['Alarming' Swansea carer shortage prompts family SOS call](https://www.bbc.co.uk/news/uk-wales-58025444) - Family members are being encouraged to learn nursing tasks, such as changing dressings.
 3. [Covid in Wales: Isolation for double-jabbed contacts to end](https://www.bbc.co.uk/news/uk-wales-politics-58013131) - Wales will be the first UK nation to stop fully vaccinated Covid close contacts self-isolating.
-4. [Covid: Cardiff woman 'cut by razor behind anti-mask poster'](https://www.bbc.co.uk/news/uk-wales-58020985) - Layla Stokes says she has been to the doctor to have the cut tested for any diseases.
+4. [NHS pay review: No rise for Welsh NHS' lowest paid in 'botched' review](https://www.bbc.co.uk/news/uk-wales-politics-58032733) - Health minister apologies after wrongly announcing starting pay for Welsh NHS staff would rise.
 5. [Cardiff: Murder arrest after sudden death of woman](https://www.bbc.co.uk/news/uk-wales-58029216) - Police say they are not looking for anyone else in connection with the woman's death.
 6. [Anglesey: Crossbow attack leaves farm animals seriously injured](https://www.bbc.co.uk/news/uk-wales-58031518) - A calf is expected to survive despite being shot in the eye and two rams were shot with a crossbow.
-7. [Callum Jones, 20, left paralysed after running into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and hit something beneath the surface.
-8. [Blaenau Gwent council boss defends colleague's two salaries](https://www.bbc.co.uk/news/uk-wales-58026063) - Opposition councillors say the move is "not the right thing to do in the face of the public".
-9. [Covid infections estimated to have risen in Wales](https://www.bbc.co.uk/news/uk-wales-58025719) - According to a swap survey, an estimated 18,800 people across Wales have Covid.
-10. [Children in care: Lack of secure accommodation 'scandalous'](https://www.bbc.co.uk/news/uk-wales-58025443) - A supreme court judge says a lack of approved homes is causing an "extremely difficult situation".
-11. [Theatr Ardudwy: 'Fraudulent' theatre producer 'misled' community](https://www.bbc.co.uk/news/uk-wales-58023864) - Kallum O'Sullivan promised to reinvent Theatr Ardudwy after it closed in 2017 due to safety concerns.
+7. [Covid: Cardiff woman 'cut by razor behind anti-mask poster'](https://www.bbc.co.uk/news/uk-wales-58020985) - Layla Stokes says she has been to the doctor to have the cut tested for any diseases.
+8. [Callum Jones, 20, left paralysed after running into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and hit something beneath the surface.
+9. [Blaenau Gwent council boss defends colleague's two salaries](https://www.bbc.co.uk/news/uk-wales-58026063) - Opposition councillors say the move is "not the right thing to do in the face of the public".
+10. [Covid infections estimated to have risen in Wales](https://www.bbc.co.uk/news/uk-wales-58025719) - According to a swap survey, an estimated 18,800 people across Wales have Covid.
+11. [Children in care: Lack of secure accommodation 'scandalous'](https://www.bbc.co.uk/news/uk-wales-58025443) - A supreme court judge says a lack of approved homes is causing an "extremely difficult situation".
 12. [Mobo: Welsh music of black origin project started to 'help give back'](https://www.bbc.co.uk/news/uk-wales-58030464) - The new project will allow five singers and producers to be mentored by music professionals.
 13. [Bradley John 'should be coming up to his 18th birthday'](https://www.bbc.co.uk/news/uk-wales-58019640) - Father of Bradley John, 14, says the fact he "took his life" at school is "very, very symbolic".
 14. [Talking Books Wales: How one woman helped so many blind people read](https://www.bbc.co.uk/news/uk-wales-58018316) - After losing her sight in her 30s, Rhian Evans says she "used that disability" to help others.
