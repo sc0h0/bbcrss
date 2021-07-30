@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 14:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 14:20:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58022228</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58022228</guid>
             <pubDate>Fri, 30 Jul 2021 13:32:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man pleads guilty to Chris Whitty assault]]></title>
+            <description><![CDATA[Lewis Hughs pleads guilty to assaulting England's chief medical officer Chris Whitty in central London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58031419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58031419</guid>
+            <pubDate>Fri, 30 Jul 2021 14:19:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Esther Dingley: Remains confirmed as those of missing hiker]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-58026832</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58026832</guid>
             <pubDate>Fri, 30 Jul 2021 09:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ardoyne baby death: Woman in court charged with murder]]></title>
-            <description><![CDATA[Raluca Tagani is accused of the murder of her son Liam O'Keefe in Belfast on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58022828</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58022828</guid>
-            <pubDate>Fri, 30 Jul 2021 12:00:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Critics praise 'defiant' Billie Eilish album ]]></title>
@@ -233,6 +233,13 @@
             <pubDate>Thu, 29 Jul 2021 23:04:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Valtteri Bottas fastest in Hungarian Grand Prix second practice]]></title>
+            <description><![CDATA[Valtteri Bottas leads Lewis Hamilton in a Mercedes one-two ahead of Red Bull's Max Verstappen in second practice at the Hungarian Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58028174</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/58028174</guid>
+            <pubDate>Fri, 30 Jul 2021 14:13:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Relive how GB's Bethany Shriever and Kye Whyte won historic BMX medals]]></title>
             <description><![CDATA[Watch the best bits from GB's history-making day in the BMX racing finals, as Britain's Bethany Shriever wins gold in the women's final and Kye Whyte takes silver in the men's final.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58027131</link>
@@ -335,7 +342,7 @@
             <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
-            <pubDate>Fri, 30 Jul 2021 10:38:21 GMT</pubDate>
+            <pubDate>Fri, 30 Jul 2021 14:10:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Take a tour of the incredible venues]]></title>

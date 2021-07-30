@@ -1,5 +1,5 @@
 1. [Covid-19 pandemic: Japan widens emergency over 'frightening' spike](https://www.bbc.co.uk/news/world-asia-58024158) - The Olympics host is facing record Covid case numbers, fuelled by the virulent Delta strain.
-2. [Nanjing: New virus outbreak worst after Wuhan, say Chinese state media](https://www.bbc.co.uk/news/world-asia-china-58021911) - Almost 200 people have been infected since the virus was first detected at Nanjing airport on 20 July.
+2. [Nanjing: New virus outbreak worst since Wuhan, say Chinese state media](https://www.bbc.co.uk/news/world-asia-china-58021911) - Almost 200 people have been infected since the virus was first detected at Nanjing airport on 20 July.
 3. [Hong Kong: First person jailed under security law given nine years](https://www.bbc.co.uk/news/world-asia-china-58022072) - Tong Ying-kit rode a motorbike into police officers while flying a flag with a protest slogan.
 4. [Australia to return 14 artworks of disputed provenance to India](https://www.bbc.co.uk/news/entertainment-arts-58027898) - The National Gallery says their repatriation will "close a very difficult chapter of our history".
 5. [China nuclear: Taishan reactor shut down over damaged fuel rods](https://www.bbc.co.uk/news/world-asia-china-58026038) - The operator says the EPR reactor at Taishan in China is "under control" despite fuel rod concerns.
