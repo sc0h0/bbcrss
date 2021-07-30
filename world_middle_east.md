@@ -1,4 +1,4 @@
-1. [Coronavirus: Israel to give third jab to people aged over 60](https://www.bbc.co.uk/news/world-middle-east-58021386) - Thu, 29 Jul 2021 23:48:04 GMT - Israel will offer Covid boosters amid a recent surge in infections.
+1. [Coronavirus: Israel to give third jab to people aged over 60](https://www.bbc.co.uk/news/world-middle-east-58021386) - Fri, 30 Jul 2021 10:30:50 GMT - Israel will offer Covid boosters amid a recent surge in infections.
 2. [Israel investigating shooting of Palestinian boy in West Bank](https://www.bbc.co.uk/news/world-middle-east-58010712) - Thu, 29 Jul 2021 15:41:18 GMT - Palestinian officials say soldiers shot the 12-year-old as he travelled in a car in the West Bank.
 3. [Lebanon’s descent into darkness](https://www.bbc.co.uk/news/world-middle-east-57988693) - Tue, 27 Jul 2021 23:01:09 GMT - The country's economic crisis has forced some families to move into refugee camps to survive.
 4. [Sweden charges man over 1988 Iran prison massacre](https://www.bbc.co.uk/news/world-europe-57996483) - Wed, 28 Jul 2021 10:47:31 GMT - Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.

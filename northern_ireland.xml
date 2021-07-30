@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 10:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 10:31:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Fri, 30 Jul 2021 09:50:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Out-of-hours GP services cut back in the Southern Trust area]]></title>
+            <description><![CDATA[Its Armagh, South Tyrone and Kilkeel centres will close until at least the end of August.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58025005</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58025005</guid>
+            <pubDate>Fri, 30 Jul 2021 10:09:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19 response to dominate north-south meeting]]></title>
             <description><![CDATA[It comes as the DUP issues a fresh warning over its involvement in north-south engagement.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58020308</link>
@@ -86,25 +93,11 @@
             <pubDate>Thu, 29 Jul 2021 13:11:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Féile an Phobail asks for proof of Covid status]]></title>
-            <description><![CDATA[Féile an Phobail asks attendees for proof of a negative test, vaccinations or antibodies.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58016151</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58016151</guid>
-            <pubDate>Thu, 29 Jul 2021 14:17:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Casement Park redevelopment costs could exceed £140m - Givan]]></title>
             <description><![CDATA[NI's first minister says the redevelopment could cost about double the original estimate.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58005434</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58005434</guid>
             <pubDate>Thu, 29 Jul 2021 16:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europa Conference League: Larne draw with AGF Aarhus to reach next round]]></title>
-            <description><![CDATA[Larne's fairytale European adventure continues after a 1-1 draw with Danish side ARG Aarhus in the second round of Europa Conference League qualifying.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57982963</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57982963</guid>
-            <pubDate>Thu, 29 Jul 2021 18:57:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Vaccination plea after cancer surgeries cancelled]]></title>
@@ -119,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58012627</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58012627</guid>
             <pubDate>Thu, 29 Jul 2021 17:06:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Féile an Phobail asks for proof of Covid status]]></title>
+            <description><![CDATA[Féile an Phobail asks attendees for proof of a negative test, vaccinations or antibodies.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58016151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58016151</guid>
+            <pubDate>Thu, 29 Jul 2021 14:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Wellbeing back to pre-pandemic levels, says Nisra]]></title>
@@ -142,13 +142,6 @@
             <pubDate>Thu, 29 Jul 2021 09:50:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Travellers fear vaccine passports will come too late]]></title>
-            <description><![CDATA[Some travellers due to fly within days, or even hours, are still waiting for their certification.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57998569</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57998569</guid>
-            <pubDate>Wed, 28 Jul 2021 14:29:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NI Covid-19 restrictions: Your questions answered]]></title>
             <description><![CDATA[BBC News NI sets out the latest steps ministers are taking to ease Northern Ireland's lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-54117810</link>
@@ -156,11 +149,11 @@
             <pubDate>Thu, 29 Jul 2021 20:09:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Getting back on stage will 'feel like Christmas']]></title>
-            <description><![CDATA[Two young actors cannot wait to perform live in front of an indoor audience on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57983830</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57983830</guid>
-            <pubDate>Tue, 27 Jul 2021 11:40:44 GMT</pubDate>
+            <title><![CDATA[Covid-19: Travellers fear vaccine passports will come too late]]></title>
+            <description><![CDATA[Some travellers due to fly within days, or even hours, are still waiting for their certification.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57998569</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57998569</guid>
+            <pubDate>Wed, 28 Jul 2021 14:29:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
@@ -168,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
             <pubDate>Fri, 30 Jul 2021 06:14:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Getting back on stage will 'feel like Christmas']]></title>
+            <description><![CDATA[Two young actors cannot wait to perform live in front of an indoor audience on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57983830</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57983830</guid>
+            <pubDate>Tue, 27 Jul 2021 11:40:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Missing ring found by father-and-son detectorists at Downhill]]></title>
