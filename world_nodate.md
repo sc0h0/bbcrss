@@ -1,6 +1,6 @@
 1. [Covid-19 pandemic: Japan widens emergency over 'frightening' spike](https://www.bbc.co.uk/news/world-asia-58024158) - The Olympics host is facing record Covid case numbers, fuelled by the virulent Delta strain.
 2. [Nanjing: New virus outbreak worst since Wuhan, say Chinese state media](https://www.bbc.co.uk/news/world-asia-china-58021911) - Almost 200 people have been infected since the virus was first detected at Nanjing airport on 20 July.
-3. [Deadly oil tanker attack in Arabian Sea](https://www.bbc.co.uk/news/world-middle-east-57977702) - Two crew members, a British and a Romanian citizen, are killed in an incident off the coast of Oman.
+3. [Israel accuses Iran over deadly oil tanker attack](https://www.bbc.co.uk/news/world-middle-east-57977702) - Two crew members, a British and a Romanian citizen, are killed in an incident off the coast of Oman.
 4. [Woman charged for disturbing Yellowstone mother grizzly](https://www.bbc.co.uk/news/world-us-canada-58020967) - A woman faces wildlife endangerment charges for a close call with a mother grizzly in Yellowstone.
 5. [Australia to return 14 artworks of disputed provenance to India](https://www.bbc.co.uk/news/entertainment-arts-58027898) - The National Gallery says their repatriation will "close a very difficult chapter of our history".
 6. [Turkey fires: Blazes threaten Marmaris and other coastal resorts](https://www.bbc.co.uk/news/world-58026832) - Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.

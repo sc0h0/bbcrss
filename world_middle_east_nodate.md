@@ -1,4 +1,4 @@
-1. [Deadly oil tanker attack in Arabian Sea](https://www.bbc.co.uk/news/world-middle-east-57977702) - Two crew members, a British and a Romanian citizen, are killed in an incident off the coast of Oman.
+1. [Israel accuses Iran over deadly oil tanker attack](https://www.bbc.co.uk/news/world-middle-east-57977702) - The country's foreign minister blames "Iranian terrorism" for an attack that left two people dead.
 2. [Coronavirus: Israel to give third jab to people aged over 60](https://www.bbc.co.uk/news/world-middle-east-58021386) - Israel will offer Covid boosters amid a recent surge in infections.
 3. [Israel investigating shooting of Palestinian boy in West Bank](https://www.bbc.co.uk/news/world-middle-east-58010712) - Palestinian officials say soldiers shot the 12-year-old as he travelled in a car in the West Bank.
 4. [Lebanon’s descent into darkness](https://www.bbc.co.uk/news/world-middle-east-57988693) - The country's economic crisis has forced some families to move into refugee camps to survive.
