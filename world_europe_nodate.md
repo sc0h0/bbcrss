@@ -2,7 +2,7 @@
 2. [Lewis Hamilton and Sebastian Vettel speak out over Hungary anti-LGBTQ+ law](https://www.bbc.co.uk/sport/formula1/58015479) - Formula 1 drivers Lewis Hamilton and Sebastian Vettel speak out against Hungary's new anti-LGBTQ+ law before this weekend's grand prix.
 3. [Daphne Caruana Galizia: Malta responsible for journalist death - inquiry](https://www.bbc.co.uk/news/world-europe-58012903) - The results of an inquiry say officials could have prevented Daphne Caruana Galizia's 2017 murder.
 4. [Russian module mishap destabilises International Space Station](https://www.bbc.co.uk/news/science-environment-58021394) - The ISS was pushed out of position after engines on a new Russian module unexpectedly fired up.
-5. [Djokovic's 'golden Grand Slam' bid ends](https://www.bbc.co.uk/sport/olympics/58023509) - Novak Djokovic's hopes of winning a 'golden Grand Slam' are over after losing to Alexander Zverev in the Olympic tennis semi-finals.
+5. [Djokovic's 'golden Grand Slam' bid ends](https://www.bbc.co.uk/sport/olympics/58023509) - Novak Djokovic's hopes of winning a 'Golden Slam' are over after losing to Alexander Zverev in the Olympic tennis semi-finals.
 6. [Migrant women and babies held in shocking conditions, MPs find](https://www.bbc.co.uk/news/uk-58019981) - A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.
 7. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
 8. [Covid: Stalled Russian vaccines cause global anger](https://www.bbc.co.uk/news/world-europe-58003893) - Deliveries of Russia's Sputnik V vaccine have fallen far below expectations.

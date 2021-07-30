@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 10:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 10:53:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Fri, 30 Jul 2021 09:33:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Turkey fires: Blazes threaten Marmaris and other coastal resorts]]></title>
+            <description><![CDATA[Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58026832</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58026832</guid>
+            <pubDate>Fri, 30 Jul 2021 09:57:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Russian module mishap destabilises International Space Station]]></title>
             <description><![CDATA[The ISS was pushed out of position after engines on a new Russian module unexpectedly fired up.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58021394</link>
@@ -58,18 +65,18 @@
             <pubDate>Fri, 30 Jul 2021 07:56:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Sydney: Military deployed to help enforce lockdown]]></title>
-            <description><![CDATA[Authorities say the deployment is needed, but critics argue it will "pick on" marginalised groups.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58021718</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58021718</guid>
-            <pubDate>Fri, 30 Jul 2021 03:03:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Djokovic's 'golden Grand Slam' bid thwarted]]></title>
             <description><![CDATA[Novak Djokovic's hopes of winning a 'Golden Slam' are over after losing to Alexander Zverev in the Olympic tennis semi-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58023509</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58023509</guid>
             <pubDate>Fri, 30 Jul 2021 10:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Sydney: Military deployed to help enforce lockdown]]></title>
+            <description><![CDATA[Authorities say the deployment is needed, but critics argue it will "pick on" marginalised groups.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58021718</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58021718</guid>
+            <pubDate>Fri, 30 Jul 2021 03:03:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deal agreed for patients and children of fertility doctor who used own sperm]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58020090</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58020090</guid>
             <pubDate>Thu, 29 Jul 2021 21:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Didi: Chinese ride-hailing giant denies plans to go private]]></title>
-            <description><![CDATA[Didi shares surged by almost 50% in pre-market trade after a report that it planned to go private.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58021828</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58021828</guid>
-            <pubDate>Fri, 30 Jul 2021 03:40:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China warns UK as carrier strike group approaches]]></title>
