@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 23:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 23:20:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -212,6 +212,20 @@
             <pubDate>Wed, 21 Jul 2021 06:05:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KT Tunstall on her show-halting hearing loss]]></title>
+            <description><![CDATA[The singer-songwriter has put her touring plans on hold over concerns she could become completely deaf.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58033812</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58033812</guid>
+            <pubDate>Fri, 30 Jul 2021 23:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dorset photographer shoots Star Wars Lego in cinematic style]]></title>
+            <description><![CDATA[A 34-year-old Dorset photographer is recreating cinematic sci-fi scenes using his Star Wars Lego kits.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58015659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58015659</guid>
+            <pubDate>Fri, 30 Jul 2021 23:10:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rapper ENNY talks sexual consent in latest track]]></title>
             <description><![CDATA[The rising south London rapper talks about art imitating life in her new single.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58014225</link>
@@ -238,20 +252,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-57949287</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57949287</guid>
             <pubDate>Sun, 25 Jul 2021 23:06:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From lockdown animations to Snoop Dogg music video]]></title>
-            <description><![CDATA[After his homemade animations went viral, Snoop Dogg asked Peter Quinn to direct his new video.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57916539</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57916539</guid>
-            <pubDate>Sat, 24 Jul 2021 23:09:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 years on: Amy's parents on new documentary]]></title>
-            <description><![CDATA[The late singer's father says he hopes a new documentary will show a "more rounded image" of Amy.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57850132</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57850132</guid>
-            <pubDate>Thu, 15 Jul 2021 23:24:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
