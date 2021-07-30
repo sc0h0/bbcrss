@@ -1,6 +1,6 @@
 1. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.
 2. ['I was asked how often I use the toilet'](https://www.bbc.co.uk/news/business-58020735) - Disabled jobseekers have to overcome too many barriers, MPs say.
-3. [Didi: Chinese ride-hailing giant denies plans to go private](https://www.bbc.co.uk/news/business-58021828) - Its shares surged by almost 50% in pre-market trade after a report that it planned to go private.
+3. [Didi: Chinese ride-hailing giant denies plans to go private](https://www.bbc.co.uk/news/business-58021828) - Didi shares surged by almost 50% in pre-market trade after a report that it planned to go private.
 4. [Empty shop numbers rise as Covid continues to bite](https://www.bbc.co.uk/news/business-58007313) - The number of vacant shops continues to rise after a year of lockdowns, the BRC says.
 5. [Bumble to give staff unlimited paid holiday](https://www.bbc.co.uk/news/business-57997445) - The dating app's policy is subject to manager approval and comes after the firm shut down for a week.
 6. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.

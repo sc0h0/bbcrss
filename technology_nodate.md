@@ -1,5 +1,5 @@
 1. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
-2. [Didi: Chinese ride-hailing giant denies plans to go private](https://www.bbc.co.uk/news/business-58021828) - Its shares surged by almost 50% in pre-market trade after a report that it planned to go private.
+2. [Didi: Chinese ride-hailing giant denies plans to go private](https://www.bbc.co.uk/news/business-58021828) - Didi shares surged by almost 50% in pre-market trade after a report that it planned to go private.
 3. [Rick Astley rolls into a billion YouTube views](https://www.bbc.co.uk/news/technology-58011677) - Rickroll meme helps Never Gonna Give You Up reach new heights.
 4. [Google to ban sugar-daddy apps from Play Store](https://www.bbc.co.uk/news/technology-58011672) - Apps focused on "compensated sexual relationships" will be prohibited from 1 September.
 5. [Fresh warning over rip-off locator forms on Google](https://www.bbc.co.uk/news/technology-58001205) - 'Devious' sites which charge money for a free passenger locator form top search engine results.
