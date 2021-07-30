@@ -7,7 +7,7 @@
 7. ['Brighton cat killer' Steven Bouquet jailed for stabbing 16 pets](https://www.bbc.co.uk/news/uk-england-sussex-58017099) - Steven Bouquet has been jailed for more than five years after he killed nine cats in night attacks.
 8. [Storm Evert: Strong winds and heavy rain cause disruption](https://www.bbc.co.uk/news/uk-england-cornwall-58022839) - There were more than 20 rescues off the Isles of Scilly where winds reached 69mph (111km/h).
 9. [Turkey fires: Blazes threaten Marmaris and other coastal resorts](https://www.bbc.co.uk/news/world-58026832) - Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.
-10. [Ardoyne baby death: Woman charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - The 29-year-old is due in court later on Friday over the death of a baby in north Belfast on Tuesday.
+10. [Ardoyne baby death: Woman in court charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - A 29-year-old woman appears in court charged with the murder of a baby boy in Ardoyne.
 11. [Hong Kong: First person jailed under security law given nine years](https://www.bbc.co.uk/news/world-asia-china-58022072) - Tong Ying-kit rode a motorbike into police officers while flying a flag with a protest slogan.
 12. [Olympics: The hidden sight of Tokyo's homeless](https://www.bbc.co.uk/news/world-asia-58016848) - For many among Tokyo's homeless community the Olympics are far from a cause for celebration.
 13. [The Papers: 'No jab, no job' threat and 'red alert' for travel](https://www.bbc.co.uk/news/blogs-the-papers-58020875) - The papers cover concerns about compulsory vaccination at work and possible changes to travel rules.

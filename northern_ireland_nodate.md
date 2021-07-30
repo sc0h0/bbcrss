@@ -1,4 +1,4 @@
-1. [Ardoyne baby death: Woman charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - The 29-year-old is due in court later on Friday over the death of a baby in north Belfast on Tuesday.
+1. [Ardoyne baby death: Woman in court charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - A 29-year-old woman appears in court charged with the murder of a baby boy in Ardoyne.
 2. [Bank of Ireland: Woman awarded £18k in sexual harassment case](https://www.bbc.co.uk/news/uk-northern-ireland-58010751) - The sexual harassment was serious and repeatedly violated the woman's dignity, a tribunal found.
 3. [Coronavirus: 'Frantic' efforts to fix NI Covid passport system](https://www.bbc.co.uk/news/uk-northern-ireland-58024225) - The online system has been out of action since Tuesday due to concerns about data security.
 4. [Ballymena: Rare cancer diagnosis leads to unlikely friendship](https://www.bbc.co.uk/news/uk-northern-ireland-58017631) - Cat McKenna and Amber Scott met after being diagnosed with neuroendocrine cancer.
