@@ -4,8 +4,8 @@
 4. [Holocaust memorial outside Parliament to go ahead](https://www.bbc.co.uk/news/uk-58012111) - Fears have been raised that the site could become a terrorist target, but ministers say it will be safe.
 5. [Drug deaths in Scotland reach new record level](https://www.bbc.co.uk/news/uk-scotland-58024296) - The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.
 6. [David Greenhalgh death: Tributes paid to Bolton Council leader](https://www.bbc.co.uk/news/uk-england-manchester-58019551) - David Greenhalgh became the first Tory leader of Bolton Council in four decades.
-7. [Global summit raises $4bn for schools despite aid row](https://www.bbc.co.uk/news/education-58006728) - World leaders pledge to get more children into school in the world's poorest countries.
-8. [Walking and biking prioritised in new Highway Code](https://www.bbc.co.uk/news/uk-58021450) - Greater priority for pedestrians at crossings and for cyclists at junctions are among the changes.
+7. [Walking and biking prioritised in new Highway Code](https://www.bbc.co.uk/news/uk-58021450) - Greater priority for pedestrians at crossings and for cyclists at junctions are among the changes.
+8. [Global summit raises $4bn for schools despite aid row](https://www.bbc.co.uk/news/education-58006728) - World leaders pledge to get more children into school in the world's poorest countries.
 9. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
 10. [Covid vaccines have prevented 60,000 deaths in England - Jonathan Van-Tam](https://www.bbc.co.uk/news/newsbeat-58014546) - He says future lockdowns are less likely the more people, including 18-25-year olds, get vaccinated.
 11. [UK already undergoing disruptive climate change](https://www.bbc.co.uk/news/science-environment-57988023) - Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.
