@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 16:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 16:48:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,14 @@
             <description><![CDATA[Lewis Hughes says he lost his job after assaulting England's chief medical officer in central London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-58031419</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58031419</guid>
-            <pubDate>Fri, 30 Jul 2021 15:46:34 GMT</pubDate>
+            <pubDate>Fri, 30 Jul 2021 16:41:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: One in four coronavirus patients in hospital for other reasons, and surge in Japan]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58030125</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58030125</guid>
+            <pubDate>Fri, 30 Jul 2021 16:16:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shriever takes BMX gold as GB claim six medals]]></title>
@@ -51,6 +58,13 @@
             <pubDate>Fri, 30 Jul 2021 15:18:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Briton killed in oil tanker attack in Arabian Sea]]></title>
+            <description><![CDATA[Two crew members, a British and a Romanian citizen, are killed in an incident off the coast of Oman.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57977702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57977702</guid>
+            <pubDate>Fri, 30 Jul 2021 15:54:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Esther Dingley: Remains confirmed as those of missing hiker]]></title>
             <description><![CDATA[Esther Dingley disappeared in the Pyrenees mountains in November.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tyne-58022860</link>
@@ -69,14 +83,7 @@
             <description><![CDATA[A judicial review into road works near the world heritage site finds for the campaigners.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-wiltshire-58024139</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-58024139</guid>
-            <pubDate>Fri, 30 Jul 2021 15:38:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drug deaths in Scotland reach new record level]]></title>
-            <description><![CDATA[The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58024296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58024296</guid>
-            <pubDate>Fri, 30 Jul 2021 09:17:46 GMT</pubDate>
+            <pubDate>Fri, 30 Jul 2021 16:46:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Brighton cat killer' Steven Bouquet jailed for stabbing 16 pets]]></title>
@@ -163,25 +170,18 @@
             <pubDate>Thu, 29 Jul 2021 22:06:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mikey Poulli: The young blind footballer backed by star players]]></title>
-            <description><![CDATA[Mikey Poulli, who lost his sight due to a rare degenerative condition, dreams of playing for England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57987451</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-57987451</guid>
-            <pubDate>Wed, 28 Jul 2021 23:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In pictures: International Tiger Day 2021]]></title>
-            <description><![CDATA[The annual event aims to raise awareness around the endangered big cats.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-58012200</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-58012200</guid>
-            <pubDate>Thu, 29 Jul 2021 14:12:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[‘I'm black, my partner's white - stop asking me if this is my baby’]]></title>
             <description><![CDATA[When Ena Miller had a baby, she was unprepared for the constant comments about her daughter's skin tone.]]></description>
             <link>https://www.bbc.co.uk/news/stories-57897237</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57897237</guid>
             <pubDate>Fri, 30 Jul 2021 00:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drug deaths in Scotland reach new record level]]></title>
+            <description><![CDATA[The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58024296</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58024296</guid>
+            <pubDate>Fri, 30 Jul 2021 09:17:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proms conductor: 'We're going to play our hearts out']]></title>
@@ -247,6 +247,13 @@
             <pubDate>Thu, 29 Jul 2021 23:04:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England's Stokes to take 'indefinite break' from all cricket ]]></title>
+            <description><![CDATA[Ben Stokes "will take an indefinite break from all cricket with immediate effect" and has withdrawn from England's Test squad for the series against India.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58033393</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58033393</guid>
+            <pubDate>Fri, 30 Jul 2021 16:39:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ben White: Arsenal sign England defender from Brighton in £50m deal]]></title>
             <description><![CDATA[Arsenal sign England "intelligent defender" Ben White from Brighton & Hove Albion in £50m deal.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57898497</link>
@@ -261,6 +268,13 @@
             <pubDate>Fri, 30 Jul 2021 14:13:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['It hits like a train' - GB 'devastated' by Olympic exit]]></title>
+            <description><![CDATA[GB head coach Hege Riise says there is "no-one to blame" after the 4-3 quarter-final defeat by Australia at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58029572</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58029572</guid>
+            <pubDate>Fri, 30 Jul 2021 13:31:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Relive how GB's Bethany Shriever and Kye Whyte won historic BMX medals]]></title>
             <description><![CDATA[Watch the best bits from GB's history-making day in the BMX racing finals, as Britain's Bethany Shriever wins gold in the women's final and Kye Whyte takes silver in the men's final.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58027131</link>
@@ -268,18 +282,11 @@
             <pubDate>Fri, 30 Jul 2021 11:27:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shriever wins BMX gold for GB, Whyte takes silver in men's event]]></title>
-            <description><![CDATA[Britain's Bethany Shriever wins gold in the women's BMX racing final, moments after Kye Whyte claims the nation's first Olympic medal in the men's.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58022309</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58022309</guid>
-            <pubDate>Fri, 30 Jul 2021 06:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Australia knock Great Britain out in quarter-finals]]></title>
-            <description><![CDATA[Watch highlights as Ellen White's hat-trick is in vain as Team GB bow out of Tokyo 2020 following a 4-3 extra-time defeat against Australia in the quarter finals.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58029203</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58029203</guid>
-            <pubDate>Fri, 30 Jul 2021 11:55:57 GMT</pubDate>
+            <title><![CDATA[Tokyo 2020: Five reasons why Saturday's women's 100m will light up Olympics]]></title>
+            <description><![CDATA[Five reasons why the women's 100m will be one of the standout events on Saturday at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57830148</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57830148</guid>
+            <pubDate>Fri, 30 Jul 2021 16:04:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Two medals, no gold - what has gone wrong with GB rowing?]]></title>
