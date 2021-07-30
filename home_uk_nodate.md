@@ -4,7 +4,7 @@
 4. [Covid-19: Pregnancy jab plea and nightclubs start asking for Covid pass](https://www.bbc.co.uk/news/uk-58023101) - Five things you need to know about the coronavirus pandemic this Friday morning.
 5. [Russian module mishap destabilises International Space Station](https://www.bbc.co.uk/news/science-environment-58021394) - The ISS was pushed out of position after engines on a new Russian module unexpectedly fired up.
 6. [Nightclubs start asking for NHS Covid pass in England](https://www.bbc.co.uk/news/uk-58015800) - It comes as the Lib Dems demand MPs debate their use in England amid concerns over discrimination.
-7. [Storm Evert: Strong winds and heavy rain in South West](https://www.bbc.co.uk/news/uk-england-cornwall-58022839) - A yellow warning for strong to gale force winds remains in place as Storm Evert hits the UK.
+7. [Storm Evert: Strong winds and heavy rain cause disruption](https://www.bbc.co.uk/news/uk-england-cornwall-58022839) - A yellow warning for strong to gale force winds remains in place as Storm Evert hits the UK.
 8. [Ardoyne baby death: Woman charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - The 29-year-old is due in court later on Friday over the death of a baby in north Belfast on Tuesday.
 9. [Migrant women and babies held in shocking conditions, MPs find](https://www.bbc.co.uk/news/uk-58019981) - A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.
 10. [Hong Kong: First person jailed under security law given nine years](https://www.bbc.co.uk/news/world-asia-china-58022072) - Tong Ying-kit rode a motorbike into police officers while flying a flag with a protest slogan.
