@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 17:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 17:54:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Fri, 30 Jul 2021 15:21:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: End-of-life visitors 'need quarantine support']]></title>
-            <description><![CDATA[Claire Herriot, whose father is dying at a Glasgow hospital, has now been allowed to leave hotel quarantine in Edinburgh.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58029986</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58029986</guid>
-            <pubDate>Fri, 30 Jul 2021 17:32:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scotland's seventh drowning victim in a week dies in hospital]]></title>
             <description><![CDATA[Aman Sharma, 34, was pulled from Loch Lubnaig on Sunday afternoon but never regained consciousness.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58026262</link>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58025872</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58025872</guid>
             <pubDate>Fri, 30 Jul 2021 17:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: End-of-life visitors 'need quarantine support']]></title>
+            <description><![CDATA[Claire Herriot, whose father is dying at a Glasgow hospital, has now been allowed to leave hotel quarantine in Edinburgh.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58029986</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58029986</guid>
+            <pubDate>Fri, 30 Jul 2021 17:32:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man stabbed victim to death weeks after prison release]]></title>
