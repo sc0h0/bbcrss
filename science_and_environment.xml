@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 17:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 17:33:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,20 @@
             <link>https://www.bbc.co.uk/news/science-environment-58021394</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58021394</guid>
             <pubDate>Fri, 30 Jul 2021 04:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The fungus and bacteria tackling plastic waste]]></title>
+            <description><![CDATA[Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?]]></description>
+            <link>https://www.bbc.co.uk/news/business-57733178</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57733178</guid>
+            <pubDate>Thu, 29 Jul 2021 23:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK military opens first space command centre]]></title>
+            <description><![CDATA[The new operations centre will help the UK maintain a "battle-winning advantage", ministers say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58029083</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58029083</guid>
+            <pubDate>Fri, 30 Jul 2021 15:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK already undergoing disruptive climate change]]></title>
@@ -49,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</guid>
             <pubDate>Wed, 28 Jul 2021 06:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bezos' $2bn offer to get back in race to the Moon]]></title>
-            <description><![CDATA[The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57978465</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57978465</guid>
-            <pubDate>Mon, 26 Jul 2021 20:31:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Researchers begin discussions on vital report]]></title>
@@ -114,11 +121,11 @@
             <pubDate>Fri, 16 Jul 2021 11:36:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meteor wows Norway after blazing through night sky]]></title>
-            <description><![CDATA[The meteor is believed to have landed in a forest after flashes of light were seen across Norway.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57962384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57962384</guid>
-            <pubDate>Sun, 25 Jul 2021 14:42:56 GMT</pubDate>
+            <title><![CDATA[Bezos' $2bn offer to get back in race to the Moon]]></title>
+            <description><![CDATA[The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57978465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57978465</guid>
+            <pubDate>Mon, 26 Jul 2021 20:31:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jeff Bezos and Sir Richard Branson may not be astronauts, US says]]></title>
