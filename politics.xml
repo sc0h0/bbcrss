@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 07:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 07:57:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Thu, 29 Jul 2021 15:00:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Holocaust memorial outside Parliament to go ahead]]></title>
+            <description><![CDATA[Fears have been raised that the site could become a terrorist target, but ministers say it will be safe.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58012111</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58012111</guid>
+            <pubDate>Thu, 29 Jul 2021 15:14:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid vaccines have prevented 60,000 deaths in England - Jonathan Van-Tam]]></title>
             <description><![CDATA[He says future lockdowns are less likely the more people, including 18-25-year olds, get vaccinated.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58014546</link>
@@ -51,18 +58,18 @@
             <pubDate>Thu, 29 Jul 2021 18:53:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS Covid-19 app pings rise by over 70,000 to new record]]></title>
-            <description><![CDATA[The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57970603</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57970603</guid>
-            <pubDate>Thu, 29 Jul 2021 13:26:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PM says education is universal cure despite aid row]]></title>
             <description><![CDATA[A global summit raises £2.9bn to support education in some of the world's poorest countries.]]></description>
             <link>https://www.bbc.co.uk/news/education-58006728</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58006728</guid>
             <pubDate>Thu, 29 Jul 2021 17:49:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS Covid-19 app pings rise by over 70,000 to new record]]></title>
+            <description><![CDATA[The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57970603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57970603</guid>
+            <pubDate>Thu, 29 Jul 2021 13:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK already undergoing disruptive climate change]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58018850</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58018850</guid>
             <pubDate>Thu, 29 Jul 2021 19:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Holocaust memorial outside Parliament to go ahead]]></title>
-            <description><![CDATA[Fears have been raised that the site could become a terrorist target, but ministers say it will be safe.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58012111</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58012111</guid>
-            <pubDate>Thu, 29 Jul 2021 15:14:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Price tag for new flagship yacht could hit £250m]]></title>
