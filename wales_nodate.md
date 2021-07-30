@@ -1,5 +1,5 @@
 1. [Covid in Wales: Self-isolation rules to ease for double jabbed](https://www.bbc.co.uk/news/uk-wales-politics-58013131) - Fully vaccinated contacts of positive Covid cases will not have to isolate from 7 August.
-2. [Freshwater East: Callum Jones left paralysed after diving into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and dived in, hitting something beneath the surface.
+2. [Callum Jones, 20, left paralysed after running into sea](https://www.bbc.co.uk/news/uk-wales-58009262) - Callum Jones ran into the water and hit something beneath the surface.
 3. [Blind people in Wales frustrated by Covid vaccine access](https://www.bbc.co.uk/news/uk-wales-58013982) - Those living with sight disabilities criticise accessibility to information and jab centres.
 4. [Llanelli boy 'didn't get enough support' from school before death](https://www.bbc.co.uk/news/uk-wales-58011859) - Byron John says his son Bradley "had a future that he wanted and yearned for".
 5. [Bangor: Fire at BT building leaves people without internet and phone](https://www.bbc.co.uk/news/uk-wales-politics-58019642) - Nobody was hurt and the "vast majority" of broadband services were not affected, BT says.

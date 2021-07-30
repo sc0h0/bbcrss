@@ -1,5 +1,5 @@
-1. [Covid-19: NI Executive to relax travel isolation rules](https://www.bbc.co.uk/news/uk-northern-ireland-58004816) - Fully vaccinated EU and US travellers coming to Northern Ireland will not need to quarantine from 2 August.
-2. [Ardoyne baby death: Victim named as Liam O’Keefe](https://www.bbc.co.uk/news/uk-northern-ireland-58009834) - A woman arrested on suspicion of murder is released from hospital and transferred to police custody.
+1. [Ardoyne baby death: Woman charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - The 29-year-old is due in court later on Friday over the death of a baby in north Belfast on Tuesday.
+2. [Covid-19: NI Executive to relax travel isolation rules](https://www.bbc.co.uk/news/uk-northern-ireland-58004816) - Fully vaccinated EU and US travellers coming to Northern Ireland will not need to quarantine from 2 August.
 3. [NI abortion: Givan vows to resist commissioning order](https://www.bbc.co.uk/news/uk-northern-ireland-58018850) - Paul Givan says he is taking legal advice over the order for Stormont to commission abortion services.
 4. [High street voucher scheme: £100 cards 'to be available in September'](https://www.bbc.co.uk/news/uk-northern-ireland-58012540) - Every adult in Northern Ireland can receive a voucher if they are on the updated electoral register.
 5. [Féile an Phobail asks for proof of Covid status](https://www.bbc.co.uk/news/uk-northern-ireland-58016151) - Féile an Phobail asks attendees for proof of a negative test, vaccinations or antibodies.
