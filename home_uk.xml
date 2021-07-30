@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 05:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 06:15:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Shriever wins historic BMX racing gold]]></title>
-            <description><![CDATA[Britain's Bethany Shriever wins gold in the women's BMX racing final, moments after Kye Whyte claims the nation's first Olympic medal in the men's.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58022309</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58022309</guid>
-            <pubDate>Fri, 30 Jul 2021 05:05:46 GMT</pubDate>
+            <title><![CDATA[Shriever takes BMX gold as GB claim five medals]]></title>
+            <description><![CDATA[Bethany Shriever claims BMX gold and Kye White silver as Duncan Scott and Luke Greenbank add to Great Britain's swimming medal haul.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58022228</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58022228</guid>
+            <pubDate>Fri, 30 Jul 2021 06:04:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pregnant women urged to get jab as majority unvaccinated]]></title>
@@ -86,18 +86,18 @@
             <pubDate>Fri, 30 Jul 2021 05:21:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ardoyne baby death: Woman charged with murder]]></title>
+            <description><![CDATA[The 29-year-old is due in court later on Friday over the death of a baby in north Belfast on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58022828</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58022828</guid>
+            <pubDate>Fri, 30 Jul 2021 05:27:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dairy giant Arla says driver crisis hitting milk supply]]></title>
             <description><![CDATA[Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.]]></description>
             <link>https://www.bbc.co.uk/news/business-58012884</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58012884</guid>
             <pubDate>Thu, 29 Jul 2021 23:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US sailor charged over massive USS Bonhomme warship blaze in 2020]]></title>
-            <description><![CDATA[More than 60 people were injured, and the $1bn USS Bonhomme Richard had to be scrapped.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58021390</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58021390</guid>
-            <pubDate>Fri, 30 Jul 2021 00:51:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'No jab, no job' threat and 'red alert' for travel]]></title>
@@ -126,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/newsbeat-58005174</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58005174</guid>
             <pubDate>Thu, 29 Jul 2021 23:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are America's unvaccinated changing their minds?]]></title>
+            <description><![CDATA[Covid cases are surging across the US, fuelled by the Delta variant - and unvaccinated Americans.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58017289</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58017289</guid>
+            <pubDate>Fri, 30 Jul 2021 00:52:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Disease killing 'Europe's oldest' elm tree]]></title>
@@ -205,13 +212,6 @@
             <pubDate>Thu, 29 Jul 2021 23:04:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shriever's BMX glory as GB win five medals - what's happened so far on day seven?]]></title>
-            <description><![CDATA[Bethany Shriever claims BMX gold and Kye White silver as Duncan Scott and Luke Greenbank add to Great Britain's swimming medal haul.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58022228</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58022228</guid>
-            <pubDate>Fri, 30 Jul 2021 05:20:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Bethany Shriever wins gold for GB in women's BMX final]]></title>
             <description><![CDATA[Britain's Bethany Shriever wins gold in the women's BMX racing final, holding off two-time champion Mariana Pajon.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58022557</link>
@@ -254,11 +254,25 @@
             <pubDate>Thu, 29 Jul 2021 16:09:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Aberdeen survive Hacken scare to progress in Europa Conference League - highlights & report]]></title>
+            <description><![CDATA[Aberdeen were "victims of our own success", says manager Stephen Glass, after his side progressed in the Europa Conference League despite a second-leg defeat by BK Hacken.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57972231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57972231</guid>
+            <pubDate>Thu, 29 Jul 2021 20:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shriever wins historic BMX racing gold]]></title>
+            <description><![CDATA[Britain's Bethany Shriever wins gold in the women's BMX racing final, moments after Kye Whyte claims the nation's first Olympic medal in the men's.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58022309</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58022309</guid>
+            <pubDate>Fri, 30 Jul 2021 06:13:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Ben Whittaker and Pat McCormack wins secure boxing medals]]></title>
             <description><![CDATA[Great Britain's Ben Whittaker and Pat McCormack are both guaranteed Olympic medals after winning their respective fights on Friday.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58021874</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58021874</guid>
-            <pubDate>Fri, 30 Jul 2021 05:36:41 GMT</pubDate>
+            <pubDate>Fri, 30 Jul 2021 06:05:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Dina Asher-Smith through to 100m semi-finals]]></title>
