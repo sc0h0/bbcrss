@@ -1,4 +1,4 @@
-1. [Hong Kong: Man sentenced to nine years jail for protest slogan](https://www.bbc.co.uk/news/world-asia-china-58022072) - Tong Ying-kit rode a motorbike into police officers while flying a "liberate Hong Kong" flag.
+1. [Hong Kong man sentenced to nine years jail in landmark ruling](https://www.bbc.co.uk/news/world-asia-china-58022072) - Tong Ying-kit rode a motorbike into police officers while flying a "liberate Hong Kong" flag.
 2. [Covid in Sydney: Military deployed to help enforce lockdown](https://www.bbc.co.uk/news/world-australia-58021718) - Authorities say the deployment is needed, but critics argue it will "pick on" marginalised groups.
 3. [Covid and a coup: The double crisis pushing Myanmar to the brink](https://www.bbc.co.uk/news/world-asia-57993930) - A surge in virus cases has dealt a fresh blow to a country already dealing with military coup.
 4. [Nanjing: New virus outbreak worst after Wuhan, says China state media](https://www.bbc.co.uk/news/world-asia-china-58021911) - Almost 200 people have been infected since the virus was first detected at Nanjing airport on 20 July.

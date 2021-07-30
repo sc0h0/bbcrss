@@ -1,10 +1,10 @@
 1. [Migrant women and babies held in shocking conditions, MPs find](https://www.bbc.co.uk/news/uk-58019981) - A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.
 2. [RNLI donations increase after migrant rescue criticism](https://www.bbc.co.uk/news/uk-politics-58009646) - The lifeboat charity says it has been "overwhelmed" by support after it released footage of Channel rescues.
 3. [Covid vaccines have prevented 60,000 deaths in England - Jonathan Van-Tam](https://www.bbc.co.uk/news/newsbeat-58014546) - He says future lockdowns are less likely the more people, including 18-25-year olds, get vaccinated.
-4. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
-5. [Fewest people on furlough since pandemic began](https://www.bbc.co.uk/news/business-57981760) - Under-25s are coming off furlough twice as fast as all other age brackets, says the Treasury.
-6. [PM says education is universal cure despite aid row](https://www.bbc.co.uk/news/education-58006728) - A global summit raises £2.9bn to support education in some of the world's poorest countries.
-7. [David Greenhalgh death: Tributes paid to Bolton Council leader](https://www.bbc.co.uk/news/uk-england-manchester-58019551) - David Greenhalgh became the first Tory leader of Bolton Council in four decades.
+4. [David Greenhalgh death: Tributes paid to Bolton Council leader](https://www.bbc.co.uk/news/uk-england-manchester-58019551) - David Greenhalgh became the first Tory leader of Bolton Council in four decades.
+5. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
+6. [Fewest people on furlough since pandemic began](https://www.bbc.co.uk/news/business-57981760) - Under-25s are coming off furlough twice as fast as all other age brackets, says the Treasury.
+7. [PM says education is universal cure despite aid row](https://www.bbc.co.uk/news/education-58006728) - A global summit raises £2.9bn to support education in some of the world's poorest countries.
 8. [UK already undergoing disruptive climate change](https://www.bbc.co.uk/news/science-environment-57988023) - Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.
 9. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
 10. [NI abortion: Givan vows to resist commissioning order](https://www.bbc.co.uk/news/uk-northern-ireland-58018850) - Paul Givan says he is taking legal advice over the order for Stormont to commission abortion services.

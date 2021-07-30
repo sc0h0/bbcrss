@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 07:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 07:23:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Mon, 19 Jul 2021 09:34:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Manchester teenager urges black people to give blood]]></title>
+            <description><![CDATA[Zenith, 18, began donating blood to support her brother Charming, who has sickle cell disease.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58014249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58014249</guid>
+            <pubDate>Fri, 30 Jul 2021 07:04:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: The doctor sisters working through the pandemic]]></title>
             <description><![CDATA[Caitlín and Megan Prosser have been supporting each other throughout the Covid-19 pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-58011779</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58001770</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58001770</guid>
             <pubDate>Wed, 28 Jul 2021 17:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Birmingham 2022: Drones light show mark one year to go]]></title>
-            <description><![CDATA[The skies of Birmingham were lit up to mark a year until the city hosts the Commonwealth Games.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57999884</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-57999884</guid>
-            <pubDate>Wed, 28 Jul 2021 12:57:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man jailed after fake Amazon delivery driver gun attack]]></title>
@@ -205,6 +205,13 @@
             <pubDate>Thu, 29 Jul 2021 15:26:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Bethany Shriever wins BMX gold as GB claim six medals]]></title>
+            <description><![CDATA[Bethany Shriever claims BMX gold and Kye White silver as Duncan Scott and Luke Greenbank add to Great Britain's swimming medal haul.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58022228</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58022228</guid>
+            <pubDate>Fri, 30 Jul 2021 07:01:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Bethany Shriever & Kye Whyte win historic medals in BMX racing]]></title>
             <description><![CDATA[Britain's Bethany Shriever wins gold in the women's BMX racing final, moments after Kye Whyte claims the nation's first Olympic medal in the men's.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58022309</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58023501</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58023501</guid>
             <pubDate>Fri, 30 Jul 2021 06:59:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Luke Greenbank takes bronze in men's 200m backstroke final]]></title>
-            <description><![CDATA[Luke Greenbank continues Great Britain's impressive performances in the pool at the Tokyo Olympics by winning bronze in the men's 200m backstroke final.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58021684</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58021684</guid>
-            <pubDate>Fri, 30 Jul 2021 02:47:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
