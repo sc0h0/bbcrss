@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jul 2021 13:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 13:49:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Fri, 30 Jul 2021 11:36:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: End-of-life visitors 'need quarantine support']]></title>
+            <description><![CDATA[Claire Herriot said hotel quarantine was adding to the trauma of saying goodbye to her father.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58029986</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58029986</guid>
+            <pubDate>Fri, 30 Jul 2021 13:41:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scotland's seventh drowning victim in a week dies in hospital]]></title>
             <description><![CDATA[The 34-year-old was rescued from Loch Lubnaig on Sunday afternoon after getting into difficulty but later died.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58026262</link>
@@ -44,11 +51,11 @@
             <pubDate>Fri, 30 Jul 2021 10:14:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scott wins silver as wait for individual gold goes on]]></title>
-            <description><![CDATA[Duncan Scott wins his third medal of the Tokyo Olympics and Great Britain's sixth in the pool with silver in the men's 200m individual medley.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58021616</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58021616</guid>
-            <pubDate>Fri, 30 Jul 2021 03:00:55 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Duncan Scott makes history with second silver as Jemma Reekie eases through]]></title>
+            <description><![CDATA[Duncan Scott becomes the first British swimmer to win three medals at a single Olympic Games since 1908 with a second Tokyo silver as Jemma Reekie eases through in the 800m.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58024258</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58024258</guid>
+            <pubDate>Fri, 30 Jul 2021 11:33:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five ways to tackle Scotland's drugs crisis]]></title>
@@ -128,13 +135,6 @@
             <pubDate>Thu, 29 Jul 2021 22:02:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Duncan Scott makes history with second silver as Jemma Reekie eases through]]></title>
-            <description><![CDATA[Duncan Scott becomes the first British swimmer to win three medals at a single Olympic Games since 1908 with a second Tokyo silver as Jemma Reekie eases through in the 800m.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58024258</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58024258</guid>
-            <pubDate>Fri, 30 Jul 2021 11:33:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Most powerful' tidal turbine starts generating electricity off Orkney]]></title>
             <description><![CDATA[The Orbital O2, which is anchored off Orkney, has the capacity to meet the annual power demand of 2,000 homes.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</link>
@@ -191,6 +191,13 @@
             <pubDate>Mon, 26 Jul 2021 14:38:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Duncan Scott wins third medal with silver in 200m medley]]></title>
+            <description><![CDATA[Duncan Scott wins his third medal of the Tokyo Olympics and Great Britain's sixth in the pool with silver in the men's 200m individual medley.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58021616</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58021616</guid>
+            <pubDate>Fri, 30 Jul 2021 03:00:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Duncan Scott wins silver medal in 200m individual medley final]]></title>
             <description><![CDATA[Duncan Scott wins his third medal of the Tokyo Olympics and GB's sixth in the pool with silver in the men's 200m individual medley.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58021767</link>
@@ -210,13 +217,6 @@
             <link>https://www.bbc.co.uk/sport/football/58027341</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58027341</guid>
             <pubDate>Fri, 30 Jul 2021 11:59:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joe Hart: Celtic interested in signing Tottenham's former England goalkeeper]]></title>
-            <description><![CDATA[Celtic are interested in former England international Joe Hart as they attempt to address their goalkeeping problems.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58019807</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58019807</guid>
-            <pubDate>Thu, 29 Jul 2021 20:41:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
