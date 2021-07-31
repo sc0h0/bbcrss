@@ -1,4 +1,4 @@
-1. [Coronavirus: 'Frantic' efforts to fix NI Covid passport system](https://www.bbc.co.uk/news/uk-northern-ireland-58024225) - The online system has been out of action since Tuesday due to concerns about data security.
+1. [Work to fix NI Covid passport service 'going well' but still out of action](https://www.bbc.co.uk/news/uk-northern-ireland-58024225) - The online system has been out of action since Tuesday due to concerns about data security.
 2. [Q&A: Getting jabbed after NI vaccination centres close for first jabs](https://www.bbc.co.uk/news/uk-northern-ireland-politics-57986801) - Saturday is the last day to get your first dose of a Covid jab at NI's mass vaccination centres.
 3. [School uniforms: Should schools face a price limit?](https://www.bbc.co.uk/news/uk-northern-ireland-57733760) - From blazers to branded PE kits, the annual back-to-school bill can leave some families in debt.
 4. [Pensioner Olympian Mike Bull still pole-vaulting at 74](https://www.bbc.co.uk/news/uk-northern-ireland-58017671) - Mike Bull is a double Commonwealth gold medallist and Olympic finalist in the sport.

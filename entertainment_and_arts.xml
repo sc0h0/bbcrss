@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 11:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 12:23:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Wed, 21 Jul 2021 06:05:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Billie Eilish opens up to Clara Amfo on internet trolls]]></title>
+            <description><![CDATA[Eilish tells Amfo of her frustration with internet criticism in a new documentary to be broadcast on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58039782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58039782</guid>
+            <pubDate>Sat, 31 Jul 2021 11:57:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KT Tunstall on her show-halting hearing loss]]></title>
             <description><![CDATA[The singer-songwriter has put her touring plans on hold over concerns she could become completely deaf.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58033812</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-57967778</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57967778</guid>
             <pubDate>Mon, 26 Jul 2021 23:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afrobeats in Japan: British-Nigerian hip hop dancer teaching children how to dance]]></title>
-            <description><![CDATA[Yinka Oshiletu, a British-Nigerian hip hop dancer is bringing Afrobeats sounds to Japan's young dancers.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57949287</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57949287</guid>
-            <pubDate>Sun, 25 Jul 2021 23:06:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
