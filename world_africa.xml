@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 22:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 23:05:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Fri, 30 Jul 2021 10:45:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The women fighting infertility stigma in Nigeria]]></title>
+            <description><![CDATA[Three Nigerian women confront the prejudice they have faced on their fertility journeys.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58004523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58004523</guid>
+            <pubDate>Sat, 31 Jul 2021 23:01:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Niger President Mohamed Bazoum on the importance of keeping girls in school]]></title>
             <description><![CDATA[Niger President Mohamed Bazoum says that his country must work hard to keep girls in school.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58030419</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-57949287</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57949287</guid>
             <pubDate>Sun, 25 Jul 2021 23:06:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mali insurgency: Investigating corruption allegations in the military]]></title>
-            <description><![CDATA[Africa Eye investigates the cycle of death, violence and corruption in Mali's military.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57946367</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57946367</guid>
-            <pubDate>Mon, 26 Jul 2021 06:30:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
