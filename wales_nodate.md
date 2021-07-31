@@ -1,6 +1,6 @@
 1. [Boy, five, dies after being found in Ogmore River, Bridgend](https://www.bbc.co.uk/news/uk-wales-58039096) - The discovery was made after police were called to a report of a missing child.
 2. [Body-worn cameras for Denbighshire council staff after abuse](https://www.bbc.co.uk/news/uk-wales-58033983) - A man has been arrested after a parking warden was allegedly racially abused after issuing a ticket.
-3. [Sikh and Hindu ashes scattering site to open in Cardiff](https://www.bbc.co.uk/news/uk-wales-57988853) - A dedicated site for ashes to be scattered into flowing water is to be officially opened.
+3. [Sikh and Hindu ashes scattering site opens in Cardiff](https://www.bbc.co.uk/news/uk-wales-57988853) - A dedicated site for ashes to be scattered into flowing water is officially opened in Cardiff.
 4. [Covid: Furlough cut 'could push businesses off cliff edge'](https://www.bbc.co.uk/news/uk-wales-58030769) - Making businesses pay more towards furlough could lead to job losses, unions warn.
 5. [Pontypridd: Knife found as man hurt in town centre 'altercation'](https://www.bbc.co.uk/news/uk-wales-58033910) - Police are investigating after a knife was recovered after an "altercation" between three men.
 6. [Crickhowell rape: Police search for masked men after woman attacked](https://www.bbc.co.uk/news/uk-wales-58018051) - The "harrowing" early hours attack happened as she walked on the main road in a small rural town.

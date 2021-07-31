@@ -1,4 +1,4 @@
-1. [Carrie and Boris Johnson expecting second child](https://www.bbc.co.uk/news/uk-58042146) - Carrie and Boris Johnson are expecting a second child, months after a miscarriage left her "heartbroken".
+1. [Carrie Johnson and Boris Johnson expecting second child](https://www.bbc.co.uk/news/uk-58042146) - The couple are expecting a second child, months after a miscarriage left Carrie "heartbroken".
 2. [End self-isolation for double-jabbed sooner, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57962409) - Labour is calling on Boris Johnson to bring England in to line with Wales on quarantine measures.
 3. [Guli Frances-Dehqhani: The bishop tackling England's housing crisis](https://www.bbc.co.uk/news/uk-politics-57985577) - The Church of England owns a lot of land - Guli Frances-Dehqhani wants to use it for the common good.
 4. [Apsana Begum: Labour MP cleared of fraudulent housing claims](https://www.bbc.co.uk/news/uk-england-london-58024457) - Apsana Begum says the trial caused her "great distress" and damaged her reputation.
