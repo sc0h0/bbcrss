@@ -6,7 +6,7 @@
 6. [Brighton Pride: Gala night kicks off scaled-back festivities](https://www.bbc.co.uk/news/uk-england-sussex-58017104) - The launch night will feature an array of acts including cabaret, drag, live music and spoken word.
 7. [Israel accuses Iran over deadly oil tanker attack](https://www.bbc.co.uk/news/world-middle-east-57977702) - The country's foreign minister blames "Iranian terrorism" for an attack that left two people dead.
 8. ['Covid vaccine scammers nearly got me'](https://www.bbc.co.uk/news/business-58029113) - Sioban Moore escaped disaster by a whisker after receiving a fake email inviting her for a jab.
-9. [Child, five, dies after being found in Ogmore River, Bridgend](https://www.bbc.co.uk/news/uk-wales-58039096) - The discovery was made after police were called to a report of a missing child.
+9. [Boy, five, dies after being found in Ogmore River, Bridgend](https://www.bbc.co.uk/news/uk-wales-58039096) - The discovery was made after police were called to a report of a missing child.
 10. [Escobar pub accused of glorifying drug lord's reign of terror](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282) - Colombians in Nottingham say they are disgusted at a new bar that shares the drug lord's surname.
 11. [Pensioner Olympian Mike Bull still pole vaulting at 74](https://www.bbc.co.uk/news/uk-northern-ireland-58017671) - Mike Bull is a double Commonwealth gold medallist and Olympic finalist in the sport.
 12. [Imelda Staunton pictured as Queen in Netflix's The Crown for first time](https://www.bbc.co.uk/news/uk-58037289) - Staunton takes on the role played by Claire Foy and Olivia Colman for the drama's fifth series.

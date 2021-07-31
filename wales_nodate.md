@@ -1,4 +1,4 @@
-1. [Child, five, dies after being found in Ogmore River, Bridgend](https://www.bbc.co.uk/news/uk-wales-58039096) - The discovery was made after police were called to a report of a missing child.
+1. [Boy, five, dies after being found in Ogmore River, Bridgend](https://www.bbc.co.uk/news/uk-wales-58039096) - The discovery was made after police were called to a report of a missing child.
 2. [Body-worn cameras for Denbighshire council staff after abuse](https://www.bbc.co.uk/news/uk-wales-58033983) - A man has been arrested after a parking warden was allegedly racially abused after issuing a ticket.
 3. [Sikh and Hindu ashes scattering site to open in Cardiff](https://www.bbc.co.uk/news/uk-wales-57988853) - A dedicated site for ashes to be scattered into flowing water is to be officially opened.
 4. [Covid: Furlough cut 'could push businesses off cliff edge'](https://www.bbc.co.uk/news/uk-wales-58030769) - Making businesses pay more towards furlough could lead to job losses, unions warn.

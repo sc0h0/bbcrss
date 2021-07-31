@@ -1,4 +1,4 @@
-1. [Covid-19: Eight more Covid-linked deaths and 1,177 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58041432) - Eight people have died within 28 days of testing positive for Covid-19 in Northern Ireland.
+1. [Covid-19: Eight more Covid-linked deaths and 1,177 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58041432) - The total number of deaths with Covid-19 in Northern Ireland since the start of the pandemic is 2,189.
 2. [Coronavirus: Work to fix NI Covid passport service 'going well'](https://www.bbc.co.uk/news/uk-northern-ireland-58024225) - The online system has been out of action since Tuesday due to concerns about data security.
 3. [Q&A: Getting jabbed after NI vaccination centres close for first jabs](https://www.bbc.co.uk/news/uk-northern-ireland-politics-57986801) - Saturday is the last day to get your first dose of a Covid jab at NI's mass vaccination centres.
 4. [School uniforms: Should schools face a price limit?](https://www.bbc.co.uk/news/uk-northern-ireland-57733760) - From blazers to branded PE kits, the annual back-to-school bill can leave some families in debt.
