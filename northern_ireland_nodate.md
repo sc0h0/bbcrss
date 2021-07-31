@@ -3,7 +3,7 @@
 3. [School uniforms: Should schools face a price limit?](https://www.bbc.co.uk/news/uk-northern-ireland-57733760) - From blazers to branded PE kits, the annual back-to-school bill can leave some families in debt.
 4. [Pensioner Olympian Mike Bull still pole-vaulting at 74](https://www.bbc.co.uk/news/uk-northern-ireland-58017671) - Mike Bull is a double Commonwealth gold medallist and Olympic finalist in the sport.
 5. [Covid-19: Three more deaths and 1,101 new cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58029407) - Three people have died within 28 days of testing positive for Covid-19 in Northern Ireland.
-6. [How gymnast Rhys McClenaghan made it to Tokyo](https://www.bbc.co.uk/sport/olympics/58001490) - Rhys McClenaghan's rise to one of Ireland's biggest medal hopes at Tokyo 2020 is the product of a lifelong love affair with gymnastics
+6. [How gymnast Rhys McClenaghan made it to Tokyo](https://www.bbc.co.uk/sport/olympics/58001490) - Rhys McClenaghan's rise to being one of Ireland's biggest medal hopes at Tokyo 2020 is the product of a lifelong love affair with gymnastics.
 7. [Ardoyne baby death: Mother in court charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - Raluca Tagani is accused of the murder of her son Liam O'Keefe in Belfast on Tuesday.
 8. [McIlroy and Lowry in medal contention at Olympics](https://www.bbc.co.uk/sport/olympics/58038418) - Rory McIlroy and Shane Lowry remain in medal contention going into their final round of the men's golf event at the Olympics
 9. [Bank of Ireland: Woman awarded £18k in sexual harassment case](https://www.bbc.co.uk/news/uk-northern-ireland-58010751) - The sexual harassment was serious and repeatedly violated the woman's dignity, a tribunal found.

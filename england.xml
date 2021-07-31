@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 10:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 10:44:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,6 +261,13 @@
             <pubDate>Sat, 31 Jul 2021 09:08:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith fails to make 100m final but Daryll Neita through]]></title>
+            <description><![CDATA[Dina Asher-Smith fails to make the 100m final after clocking a below-par 11.05 seconds in the semi-final - but Great Britain team-mate Daryll Neita is through.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58040322</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58040322</guid>
+            <pubDate>Sat, 31 Jul 2021 10:40:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Great Britain win 4x100m mixed medley relay gold]]></title>
             <description><![CDATA[Great Britain secure a fourth swimming gold at an Olympics for the first time in 113 years by winning the inaugural 4x100m mixed medley relay in a world-record time.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58037439</link>
@@ -273,13 +280,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58035243</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58035243</guid>
             <pubDate>Sat, 31 Jul 2021 00:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jack Grealish: Manchester City make £100m bid for Aston Villa and England midfielder]]></title>
-            <description><![CDATA[Manchester City make an English record £100m bid for Aston Villa captain Jack Grealish.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58032330</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58032330</guid>
-            <pubDate>Fri, 30 Jul 2021 21:48:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
