@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 14:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 14:40:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Escobar pub accused of glorifying drug lord's reign of terror]]></title>
-            <description><![CDATA[Colombians in Nottingham say they are disgusted at a new bar that shares the drug lord's surname.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282</guid>
-            <pubDate>Sat, 31 Jul 2021 07:35:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Alex Scott proud of accent amid criticism from Lord Jones]]></title>
             <description><![CDATA[Lord Jones criticised Londoner Alex Scott for "her very noticeable inability to pronounce her 'g's".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58040793</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58040793</guid>
             <pubDate>Sat, 31 Jul 2021 13:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Escobar pub accused of glorifying drug lord's reign of terror]]></title>
+            <description><![CDATA[Colombians in Nottingham say they are disgusted at a new bar that shares the drug lord's surname.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282</guid>
+            <pubDate>Sat, 31 Jul 2021 07:35:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: Halifax circus and London festivals in jabs push]]></title>
@@ -261,18 +261,18 @@
             <pubDate>Sat, 31 Jul 2021 13:46:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lewis Hamilton booed after taking pole position for Hungarian Grand Prix]]></title>
+            <description><![CDATA[Lewis Hamilton beats Valtteri Bottas to a Mercedes one-two ahead of Red Bull's Max Verstappen in Hungarian Grand Prix qualifying.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58040494</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/58040494</guid>
+            <pubDate>Sat, 31 Jul 2021 14:19:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Dina Asher-Smith pulls out of 200m after hamstring tear]]></title>
             <description><![CDATA[Great Britain's world champion Dina Asher-Smith pulls out of the Olympic 200m after revealing she tore her hamstring earlier this month.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58040588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58040588</guid>
             <pubDate>Sat, 31 Jul 2021 14:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artingstall claims boxing bronze in Tokyo]]></title>
-            <description><![CDATA[Karriss Artingstall takes Olympic bronze after a narrow defeat by Japan's Sena Irie, while Team GB team-mate Lauren Price beats Panama's Atheyna Bylon to guarantee at least a bronze.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58038081</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038081</guid>
-            <pubDate>Sat, 31 Jul 2021 11:22:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
