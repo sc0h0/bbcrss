@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 14:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 14:34:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -226,6 +226,13 @@
             <pubDate>Mon, 26 Jul 2021 14:38:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rangers 3-0 Livingston: Champions start with win]]></title>
+            <description><![CDATA[Scott Wright's sublime finish finally kills off stubborn Livingston as Rangers begin their first Scottish Premiership title defence in 10 years with victory.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57951054</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57951054</guid>
+            <pubDate>Sat, 31 Jul 2021 14:24:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[British and Irish Lions bid for series win, but Rassie Erasmus is in the limelight]]></title>
             <description><![CDATA[The British and Irish Lions will bid to go 2-0 up in a Test series for the first time since 1997 on Saturday, but Rassie Erasmus took the limelight in the game's build-up.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58027772</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/football/58038929</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58038929</guid>
             <pubDate>Sat, 31 Jul 2021 07:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Premiership: Why you should embrace the bedlam of Scotland's top flight]]></title>
-            <description><![CDATA[BBC Scotland explains why you should embrace in the bedlam of this season's Scottish Premiership.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57821757</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57821757</guid>
-            <pubDate>Fri, 30 Jul 2021 08:39:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
