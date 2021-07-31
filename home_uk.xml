@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 06:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 06:49:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Sat, 31 Jul 2021 01:37:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KT Tunstall on her show-halting hearing loss]]></title>
-            <description><![CDATA[The singer-songwriter has put her touring plans on hold over concerns she could become completely deaf.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58033812</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58033812</guid>
-            <pubDate>Fri, 30 Jul 2021 23:06:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Donald Trump ordered to hand over tax returns to Congress]]></title>
             <description><![CDATA[The ruling is a big legal blow to the ex-president, who has not publicly disclosed his tax returns.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58020969</link>
@@ -65,11 +58,18 @@
             <pubDate>Fri, 30 Jul 2021 22:56:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nigerian Sprinter Okagbare fails drugs test]]></title>
+            <title><![CDATA[Nigerian sprinter Okagbare fails drugs test]]></title>
             <description><![CDATA[Nigerian sprinter Blessing Okagbare is out of the Tokyo Olympics after being suspended for failing a drugs test.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58037280</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037280</guid>
             <pubDate>Sat, 31 Jul 2021 00:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Furlough 'kick in teeth' for firms and 'Covid jab scammers nearly got me']]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58037961</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58037961</guid>
+            <pubDate>Sat, 31 Jul 2021 06:33:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Storm Evert: Falling tree injures women at party as winds rage]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58034753</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58034753</guid>
             <pubDate>Sat, 31 Jul 2021 04:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KT Tunstall on her show-halting hearing loss]]></title>
+            <description><![CDATA[The singer-songwriter has put her touring plans on hold over concerns she could become completely deaf.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58033812</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58033812</guid>
+            <pubDate>Fri, 30 Jul 2021 23:06:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dorset photographer shoots Star Wars Lego in cinematic style]]></title>
@@ -216,7 +223,7 @@
             <description><![CDATA[Great Britain kick off a golden Saturday by winning two of the new mixed relay events to take their total medal haul in Tokyo to 26.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58037771</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037771</guid>
-            <pubDate>Sat, 31 Jul 2021 06:10:40 GMT</pubDate>
+            <pubDate>Sat, 31 Jul 2021 06:47:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB win gold in 4x100m mixed medley relay in world-record time]]></title>
@@ -237,7 +244,7 @@
             <description><![CDATA[Great Britain's Emma Wilson celebrates a bronze medal on her Olympic debut in the women's windsurfing event at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58038348</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038348</guid>
-            <pubDate>Sat, 31 Jul 2021 06:14:44 GMT</pubDate>
+            <pubDate>Sat, 31 Jul 2021 06:43:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Desperate' Erasmus in limelight as Lions bid for series win]]></title>
@@ -272,7 +279,7 @@
             <description><![CDATA[Great Britain's Lauren Price is guaranteed at least an Olympic bronze medal after a dominant win over Panama's Atheyna Bylon in the middleweight boxing quarter-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58038081</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038081</guid>
-            <pubDate>Sat, 31 Jul 2021 05:02:37 GMT</pubDate>
+            <pubDate>Sat, 31 Jul 2021 06:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Caeleb Dressel wins 100m butterfly gold for USA in world record time]]></title>
