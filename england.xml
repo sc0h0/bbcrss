@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 16:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 16:35:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Man dies and two ill after taking drugs at Tottenham nightclub]]></title>
+            <description><![CDATA[Police have urged anyone who bought drugs in or near the club to dispose of them immediately.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58040799</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58040799</guid>
+            <pubDate>Sat, 31 Jul 2021 16:30:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alex Scott proud of accent amid criticism from Lord Jones]]></title>
             <description><![CDATA[Lord Jones criticised Londoner Alex Scott for "her very noticeable inability to pronounce her 'g's".]]></description>
@@ -23,11 +30,11 @@
             <pubDate>Sat, 31 Jul 2021 13:51:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Harrison Ballantyne: WH Malcolm Limited fined £6.5m over death]]></title>
-            <description><![CDATA[Harrison Ballantyne died retrieving a football from Daventry International Rail Freight Terminal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58039757</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58039757</guid>
-            <pubDate>Sat, 31 Jul 2021 09:55:30 GMT</pubDate>
+            <title><![CDATA[Woman dies after house fire in Smethwick]]></title>
+            <description><![CDATA[A man and another woman are led to safety by emergency services in the early hours.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58040897</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58040897</guid>
+            <pubDate>Sat, 31 Jul 2021 16:19:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Escobar pub accused of glorifying drug lord's reign of terror]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282</guid>
             <pubDate>Sat, 31 Jul 2021 07:35:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol: Council warns of 'lethal' pills following death]]></title>
-            <description><![CDATA[Health bosses are becoming "increasingly concerned" about high-strength drugs in circulation.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58040485</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-58040485</guid>
-            <pubDate>Sat, 31 Jul 2021 15:38:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: Halifax circus and London festivals in jabs push]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-57901188</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-57901188</guid>
             <pubDate>Sat, 31 Jul 2021 07:47:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anglo-Saxon coin found in Wiltshire could sell for £200k]]></title>
+            <description><![CDATA[The extremely rare penny is thought to be the only late Anglo-Saxon gold coin in private hands.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-58028670</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-58028670</guid>
+            <pubDate>Sat, 31 Jul 2021 07:27:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[High Wycombe: Murder arrest after man found dead in street]]></title>
@@ -79,11 +86,11 @@
             <pubDate>Fri, 30 Jul 2021 23:10:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anglo-Saxon coin found in Wiltshire could sell for £200k]]></title>
-            <description><![CDATA[The extremely rare penny is thought to be the only late Anglo-Saxon gold coin in private hands.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-58028670</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-58028670</guid>
-            <pubDate>Sat, 31 Jul 2021 07:27:55 GMT</pubDate>
+            <title><![CDATA[Harrison Ballantyne: WH Malcolm Limited fined £6.5m over death]]></title>
+            <description><![CDATA[Harrison Ballantyne died retrieving a football from Daventry International Rail Freight Terminal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58039757</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58039757</guid>
+            <pubDate>Sat, 31 Jul 2021 09:55:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brixton stabbing: Brandon Aldon McNeil charged with murder]]></title>
@@ -91,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58039498</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58039498</guid>
             <pubDate>Sat, 31 Jul 2021 11:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Twinkle Twinkle' sisters' Colchester statue gets go ahead]]></title>
-            <description><![CDATA[Jane and Ann Taylor, who both wrote children's poems, lived in Colchester from 1796-1810.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-58039751</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-58039751</guid>
-            <pubDate>Sat, 31 Jul 2021 12:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Sadistic' rapist Bradley Dawes jailed for 17 years]]></title>
-            <description><![CDATA[The judge said Bradley Dawes' actions were "motivated by his hostility towards women".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58032522</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58032522</guid>
-            <pubDate>Sat, 31 Jul 2021 12:06:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
@@ -177,6 +170,20 @@
             <pubDate>Fri, 30 Jul 2021 05:52:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Twinkle Twinkle' sisters' Colchester statue gets go ahead]]></title>
+            <description><![CDATA[Jane and Ann Taylor, who both wrote children's poems, lived in Colchester from 1796-1810.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-58039751</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-58039751</guid>
+            <pubDate>Sat, 31 Jul 2021 12:42:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Sadistic' rapist Bradley Dawes jailed for 17 years]]></title>
+            <description><![CDATA[The judge said Bradley Dawes' actions were "motivated by his hostility towards women".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58032522</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58032522</guid>
+            <pubDate>Sat, 31 Jul 2021 12:06:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[World War One Suffolk Regiment veteran gets headstone in Cambridge]]></title>
             <description><![CDATA[A Battle of the Somme veteran gets a memorial stone more than 100 years after he died.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-57990666</link>
@@ -192,10 +199,10 @@
         </item>
         <item>
             <title><![CDATA[Search for man after body found at Birmingham house]]></title>
-            <description><![CDATA[The body of a 19-year-old woman was found at a house in Birmingham on Saturday morning.]]></description>
+            <description><![CDATA[The body of a 19-year-old woman was found at a house in Birmingham on Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58039469</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58039469</guid>
-            <pubDate>Sat, 31 Jul 2021 12:15:53 GMT</pubDate>
+            <pubDate>Sat, 31 Jul 2021 16:26:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cleveland Bridge: Production resumes as buyer sought]]></title>
@@ -226,62 +233,6 @@
             <pubDate>Fri, 30 Jul 2021 17:18:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brixton stabbing: Man, 18, charged with murder]]></title>
-            <description><![CDATA[Shane Jerome, 23, was pronounced dead at the scene outside Brixton Tube station on 21 July.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58030258</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58030258</guid>
-            <pubDate>Fri, 30 Jul 2021 18:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro 2020: Wembley steward admits theft over Euro final wristbands]]></title>
-            <description><![CDATA[Yusaf Amin tried to sell security passes, uniforms and wristbands to ticketless fans for £4,500.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58031483</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58031483</guid>
-            <pubDate>Fri, 30 Jul 2021 16:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stonehenge tunnel campaigners win court battle]]></title>
-            <description><![CDATA[A judicial review into road works near the world heritage site finds for the campaigners.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-58024139</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-58024139</guid>
-            <pubDate>Fri, 30 Jul 2021 17:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mum killed daughter, 3, and cousin in crash while 'showing off']]></title>
-            <description><![CDATA[Mary Stokes was "showing off" to her five young passengers when she caused the head-on collision.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58030205</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-58030205</guid>
-            <pubDate>Fri, 30 Jul 2021 15:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apsana Begum: Labour MP cleared of fraudulent housing claims]]></title>
-            <description><![CDATA[Apsana Begum says the trial caused her "great distress" and damaged her reputation.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58024457</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58024457</guid>
-            <pubDate>Fri, 30 Jul 2021 15:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dog sniffs out cigarette stash hidden in wall]]></title>
-            <description><![CDATA[The hidden compartment was discovered during raids on two stores in Stoke-on-Trent.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58029193</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58029193</guid>
-            <pubDate>Fri, 30 Jul 2021 14:57:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jordan Lee: Blackpool man who murdered baby daughter jailed]]></title>
-            <description><![CDATA[Jordan Lee was heard shouting at the four-month-old to "shut-up" before severely beating her.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58028070</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58028070</guid>
-            <pubDate>Fri, 30 Jul 2021 12:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith exit but gold for Great Britain in mixed relay events]]></title>
-            <description><![CDATA[Great Britain kick off a golden Saturday by winning two of the new mixed relay events but there is disappointment for Dina Asher-Smith.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58037771</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037771</guid>
-            <pubDate>Sat, 31 Jul 2021 13:46:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lewis Hamilton booed after taking pole position for Hungarian Grand Prix]]></title>
             <description><![CDATA[Lewis Hamilton beats Valtteri Bottas to a Mercedes one-two ahead of Red Bull's Max Verstappen in Hungarian Grand Prix qualifying.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/58040494</link>
@@ -294,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58040588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58040588</guid>
             <pubDate>Sat, 31 Jul 2021 14:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hundred: Alice Davidson-Richards stars with bat and ball as Northern Superchargers beat Oval Invincibles]]></title>
+            <description><![CDATA[Alice Davidson-Richards starred with bat and ball as Northern Superchargers beat Oval Invincibles in the women's Hundred at Headingley]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58040957</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58040957</guid>
+            <pubDate>Sat, 31 Jul 2021 16:35:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

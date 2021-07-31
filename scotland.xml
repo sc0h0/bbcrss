@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 16:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 16:48:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,11 +65,25 @@
             <pubDate>Sat, 31 Jul 2021 11:17:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Wilful' house fire in Glasgow being probed by police]]></title>
+            <description><![CDATA[The blaze in Glasgow city centre, which saw residents evacuated but nobody injured, is under investigation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58040856</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58040856</guid>
+            <pubDate>Sat, 31 Jul 2021 16:12:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scotland's papers: The 'shameful' drugs deaths crisis]]></title>
             <description><![CDATA[A record number of people dying of drug misuse for the seventh year in a row dominates the front pages.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58038975</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58038975</guid>
             <pubDate>Sat, 31 Jul 2021 08:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drug deaths in Scotland reach new record level]]></title>
+            <description><![CDATA[The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58024296</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58024296</guid>
+            <pubDate>Fri, 30 Jul 2021 09:17:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland's seventh drowning victim in a week dies in hospital]]></title>
@@ -84,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58034362</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58034362</guid>
             <pubDate>Fri, 30 Jul 2021 22:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drug deaths in Scotland reach new record level]]></title>
-            <description><![CDATA[The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58024296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58024296</guid>
-            <pubDate>Fri, 30 Jul 2021 09:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MP Joanna Cherry says SNP failed over Twitter threats]]></title>
-            <description><![CDATA[The MP said she is "very disappointed" that her party didn't condemn a man who sent "obscene" messages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58025872</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58025872</guid>
-            <pubDate>Fri, 30 Jul 2021 17:12:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
@@ -205,13 +205,6 @@
             <pubDate>Mon, 26 Jul 2021 14:38:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain win 4x100m mixed medley relay gold]]></title>
-            <description><![CDATA[Great Britain secure a fourth swimming gold at an Olympics for the first time in 113 years by winning the inaugural 4x100m mixed medley relay in a world-record time.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58037439</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037439</guid>
-            <pubDate>Sat, 31 Jul 2021 03:45:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rangers 3-0 Livingston: Champions start with win]]></title>
             <description><![CDATA[Scott Wright's sublime finish finally kills off stubborn Livingston as Rangers begin their first Scottish Premiership title defence in 10 years with victory.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57951054</link>
@@ -219,18 +212,25 @@
             <pubDate>Sat, 31 Jul 2021 14:24:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Great Britain win 4x100m mixed medley relay gold]]></title>
+            <description><![CDATA[Great Britain secure a fourth swimming gold at an Olympics for the first time in 113 years by winning the inaugural 4x100m mixed medley relay in a world-record time.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58037439</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037439</guid>
+            <pubDate>Sat, 31 Jul 2021 03:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raith Rovers 4-4 Hamilton Academical: Accies fight back from 4-0 down]]></title>
+            <description><![CDATA[Hamilton complete an incredible fightback from 4-0 down to salvage a draw away to Raith Rovers on the opening day of the Scottish Championship.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57951140</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57951140</guid>
+            <pubDate>Sat, 31 Jul 2021 16:15:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dundee 2-2 St Mirren: 10-man hosts come from behind twice to earn draw]]></title>
             <description><![CDATA[Dundee came from behind twice and survived Max Anderson's sending off to earn a draw against St Mirren on their Scottish Premiership return at Dens Park.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57951050</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57951050</guid>
             <pubDate>Sat, 31 Jul 2021 15:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ross County 0-0 St Johnstone: Ali McCann misses penalty in scrappy draw]]></title>
-            <description><![CDATA[Ali McCann blazes a penalty over as St Johnstone open their Premiership campaign with a goalless draw at Ross County.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57951052</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57951052</guid>
-            <pubDate>Sat, 31 Jul 2021 15:52:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
