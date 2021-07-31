@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 20:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 21:02:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -205,6 +205,13 @@
             <pubDate>Sat, 31 Jul 2021 19:32:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hearts 2-1 Celtic: John Souttar header claims win for Robbie Neilson's side]]></title>
+            <description><![CDATA[Celtic suffer opening-day defeat for the first time in 24 years - and Ange Postecoglou's chastening start as manager continued - as Hearts made a winning Scottish Premiership return.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57951053</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57951053</guid>
+            <pubDate>Sat, 31 Jul 2021 20:55:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Great Britain win 4x100m mixed medley relay gold]]></title>
             <description><![CDATA[Great Britain secure a fourth swimming gold at an Olympics for the first time in 113 years by winning the inaugural 4x100m mixed medley relay in a world-record time.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58037439</link>
@@ -217,13 +224,6 @@
             <link>https://www.bbc.co.uk/sport/football/57951054</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57951054</guid>
             <pubDate>Sat, 31 Jul 2021 14:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raith Rovers 4-4 Hamilton Academical: Accies fight back from 4-0 down]]></title>
-            <description><![CDATA[Hamilton complete an incredible fightback from 4-0 down to salvage a draw away to Raith Rovers on the opening day of the Scottish Championship.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57951140</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57951140</guid>
-            <pubDate>Sat, 31 Jul 2021 16:15:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
