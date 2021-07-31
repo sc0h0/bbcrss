@@ -1,4 +1,4 @@
-1. [Owners of home car chargers urged to install updates](https://www.bbc.co.uk/news/technology-58014315) - Security vulnerabilities in two domestic electric car chargers have been discovered by researchers.
+1. [Home car charger owners urged to install updates](https://www.bbc.co.uk/news/technology-58011014) - Security vulnerabilities in two domestic electric car chargers were discovered by researchers.
 2. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
 3. [Facebook, Google expect jabs for office return](https://www.bbc.co.uk/news/technology-58027356) - The tech companies will require vaccination for returning in-office employees as Covid-19 cases rise in US
 4. [A US company has turned a former coal plant into a gas-fired Bitcoin mine](https://www.bbc.co.uk/news/technology-58020010) - Environmentalists have criticised the gas-fired mine but the company says it offsets its emissions.
