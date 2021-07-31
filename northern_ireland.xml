@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 10:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 10:30:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,11 +79,11 @@
             <pubDate>Fri, 30 Jul 2021 05:39:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[All-Ireland GAA finals to host 40,000 fans]]></title>
-            <description><![CDATA[The All-Ireland football and hurling finals will be played in front of 40,000 spectators at Croke Park]]></description>
-            <link>https://www.bbc.co.uk/sport/northern-ireland/58029316</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/northern-ireland/58029316</guid>
-            <pubDate>Fri, 30 Jul 2021 16:20:24 GMT</pubDate>
+            <title><![CDATA[Bigger things than football, says Down U20 captain]]></title>
+            <description><![CDATA[After leading Down's U20 football team to an extra-time victory over Monaghan in the Ulster final, man of the match Ruairi O'Hare dedicates the victory to his late friend.]]></description>
+            <link>https://www.bbc.co.uk/sport/gaelic-games/58039022</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/gaelic-games/58039022</guid>
+            <pubDate>Sat, 31 Jul 2021 10:04:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI Protocol issues raised at north-south meeting]]></title>
@@ -233,6 +233,13 @@
             <pubDate>Sun, 25 Jul 2021 05:14:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[All-Ireland GAA finals to host 40,000 fans]]></title>
+            <description><![CDATA[The All-Ireland football and hurling finals will be played in front of 40,000 spectators at Croke Park]]></description>
+            <link>https://www.bbc.co.uk/sport/northern-ireland/58029316</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/northern-ireland/58029316</guid>
+            <pubDate>Fri, 30 Jul 2021 16:20:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rowers win Ireland's first gold at Tokyo Olympics]]></title>
             <description><![CDATA[Ireland win their first gold medal of the Tokyo 2020 Olympic Games as Paul O'Donovan and Fintan McCarthy claim the lightweight men's double sculls.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58007573</link>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57984314</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57984314</guid>
             <pubDate>Tue, 27 Jul 2021 14:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ronan Keating accepts phone hacking damages]]></title>
-            <description><![CDATA[The ex-Boyzone singer's lawyers told the High Court of the distress caused by newspapers stories.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57967494</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57967494</guid>
-            <pubDate>Mon, 26 Jul 2021 11:31:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
