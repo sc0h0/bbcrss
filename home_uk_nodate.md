@@ -1,4 +1,4 @@
-1. [Double GB gold in new mixed events](https://www.bbc.co.uk/sport/olympics/58037771) - Great Britain kick off a golden Saturday by winning two of the new mixed relay events to take their total medal haul in Tokyo to 26.
+1. [Double GB gold in new mixed events](https://www.bbc.co.uk/sport/olympics/58037771) - Great Britain kick off a golden Saturday by winning two of the new mixed relay events to take their total medal haul in Tokyo to 28.
 2. [Simone Biles: Tokyo Olympics gymnast withdraws from two more events](https://www.bbc.co.uk/sport/olympics/58037479) - American Simone Biles pulls out of the vault and uneven bars gymnastics finals at the Tokyo 2020 Olympics.
 3. [Israel accuses Iran over deadly oil tanker attack](https://www.bbc.co.uk/news/world-middle-east-57977702) - The country's foreign minister blames "Iranian terrorism" for an attack that left two people dead.
 4. [Brighton Pride: Gala night kicks off scaled-back festivities](https://www.bbc.co.uk/news/uk-england-sussex-58017104) - The launch night will feature an array of acts including cabaret, drag, live music and spoken word.
