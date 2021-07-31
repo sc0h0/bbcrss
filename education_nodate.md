@@ -1,4 +1,4 @@
-1. [Covid vaccine not to be compulsory for university lectures](https://www.bbc.co.uk/news/uk-58040302) - Ministers are no longer considering making two doses mandatory for students in England, the BBC learns.
+1. [Covid vaccine will not be compulsory for university lectures](https://www.bbc.co.uk/news/uk-58040302) - Ministers are no longer considering making two doses mandatory for students in England, the BBC learns.
 2. [Global summit raises $4bn for schools despite aid row](https://www.bbc.co.uk/news/education-58006728) - World leaders pledge to get more children into school in the world's poorest countries.
 3. [Richer parents pressure teachers on exam grades](https://www.bbc.co.uk/news/education-57999790) - Sharp-elbowed parents have chased better grades in this year's replacement exams, a study says.
 4. [Covid: University students could be told jabs are required - Raab](https://www.bbc.co.uk/news/uk-58009677) - There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.
