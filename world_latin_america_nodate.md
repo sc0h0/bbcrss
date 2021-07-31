@@ -1,4 +1,4 @@
-1. [Tokyo Olympics: Elaine Thompson-Herah defends 100m title](https://www.bbc.co.uk/sport/olympics/58041334) - Elaine Thompson-Herah became the second-fastest woman in history as she beat fellow Jamaican Shelly-Ann Fraser-Pryce to defend her Olympic 100m title.
+1. [Tokyo Olympics: Elaine Thompson-Herah successfully defends 100m title](https://www.bbc.co.uk/sport/olympics/58041334) - Elaine Thompson-Herah became the second-fastest woman in history as she beat fellow Jamaican Shelly-Ann Fraser-Pryce to retain her Olympic 100m title.
 2. [Russia stops Cubans trying to enter EU on air beds](https://www.bbc.co.uk/news/world-europe-58033042) - Three Cubans caught trying to cross a river into Estonia are said to have been heading for Spain.
 3. [UK venue accused of glorifying drug lord Escobar](https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282) - Colombians in Nottingham say they are disgusted at a new bar that shares the drug lord's surname.
 4. [Johnny Ventura: Dominican merengue legend dies aged 81](https://www.bbc.co.uk/news/world-latin-america-58011686) - The Dominican Republic singer, whose career spanned six decades, is seen as a Latin music legend.
