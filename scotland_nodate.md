@@ -30,4 +30,3 @@
 30. [Tokyo Olympics: Gold for Kathleen Dawson in mixed relay](https://www.bbc.co.uk/sport/olympics/58039384) - Kathleen Dawson recovers from starting slip as Great Britain win mixed relay gold but there is disappointment for shooter Seonaid McIntosh.
 31. [Scottish Premiership: Things to watch out for on opening weekend](https://www.bbc.co.uk/sport/football/57995962) - From Celtic in crisis to novice managers, here's what to watch out for as a new Scottish Premiership season begins.
 32. [Tokyo Olympics: Shooter Seonaid McIntosh 'heartbroken' to leave empty-handed](https://www.bbc.co.uk/sport/olympics/58040282) - "Heartbroken" world number one Seonaid McIntosh says a lack of competition during the Covid-19 pandemic was a major factor in her surprise failure to claim an Olympic medal in Tokyo.
-33. [Listen: Off the Ball](https://www.bbc.co.uk/sport/av/football/58040472) - Listen to Off the Ball on BBC Radio Scotland with Tam Cowan and Ray Bradshaw.
