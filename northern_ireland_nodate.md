@@ -4,7 +4,7 @@
 4. [Pensioner Olympian Mike Bull still pole-vaulting at 74](https://www.bbc.co.uk/news/uk-northern-ireland-58017671) - Mike Bull is a double Commonwealth gold medallist and Olympic finalist in the sport.
 5. [Covid-19: Three more deaths and 1,101 new cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58029407) - Three people have died within 28 days of testing positive for Covid-19 in Northern Ireland.
 6. [Ardoyne baby death: Mother in court charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - Raluca Tagani is accused of the murder of her son Liam O'Keefe in Belfast on Tuesday.
-7. [English and Lavin miss out on Olympics semi-finals](https://www.bbc.co.uk/sport/olympics/58038418) - Mark English narrowly misses out on a place in the 800m semi-finals, as does Sarah Lavin in the 100m hurdles on day eight in Tokyo
+7. [English and Lavin miss out on Olympics semi-finals](https://www.bbc.co.uk/sport/olympics/58038418) - Rory McIlroy and Shane Lowry remain in medal contention going into their final round of the men's golf event at the Olympics
 8. [Bank of Ireland: Woman awarded £18k in sexual harassment case](https://www.bbc.co.uk/news/uk-northern-ireland-58010751) - The sexual harassment was serious and repeatedly violated the woman's dignity, a tribunal found.
 9. [NI Protocol issues raised at north-south meeting](https://www.bbc.co.uk/news/uk-northern-ireland-58020308) - It comes as the DUP issues a fresh warning over its involvement in north-south engagement.
 10. [Out-of-hours GP services cut back in the Southern Trust area](https://www.bbc.co.uk/news/uk-northern-ireland-58025005) - Armagh, South Tyrone and Kilkeel centres will close until at least the end of August.
