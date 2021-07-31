@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 14:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 14:54:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58040793</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58040793</guid>
             <pubDate>Sat, 31 Jul 2021 13:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harrison Ballantyne: WH Malcolm Limited fined £6.5m over death]]></title>
+            <description><![CDATA[Harrison Ballantyne died retrieving a football from Daventry International Rail Freight Terminal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58039757</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58039757</guid>
+            <pubDate>Sat, 31 Jul 2021 09:55:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Escobar pub accused of glorifying drug lord's reign of terror]]></title>
@@ -55,7 +62,7 @@
             <description><![CDATA[Repairs to the very large sewage pipe are ongoing, as is the clean up of the flooded beach front.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-sussex-58039801</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58039801</guid>
-            <pubDate>Sat, 31 Jul 2021 14:03:29 GMT</pubDate>
+            <pubDate>Sat, 31 Jul 2021 14:53:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dorset photographer shoots Star Wars Lego in cinematic style]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58032522</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58032522</guid>
             <pubDate>Sat, 31 Jul 2021 12:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brighton Pride: Gala night kicks off scaled-back festivities]]></title>
-            <description><![CDATA[The launch night will feature an array of acts including cabaret, drag, live music and spoken word.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-58017104</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58017104</guid>
-            <pubDate>Sat, 31 Jul 2021 07:25:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
@@ -168,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-devon-58015327</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58015327</guid>
             <pubDate>Fri, 30 Jul 2021 05:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brighton Pride: Gala night kicks off scaled-back festivities]]></title>
+            <description><![CDATA[The launch night will feature an array of acts including cabaret, drag, live music and spoken word.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-58017104</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58017104</guid>
+            <pubDate>Sat, 31 Jul 2021 07:25:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Search for man after body found at Birmingham house]]></title>
