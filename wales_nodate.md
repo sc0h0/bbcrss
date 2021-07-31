@@ -22,6 +22,6 @@
 22. [Swansea City 1-3 Southampton: Saints ease to pre-season victory](https://www.bbc.co.uk/sport/football/58041791) - Southampton continue preparations for the new Premier League season with a comfortable 3-1 win at Swansea City.
 23. [Cardiff City 2-0 Newport County: Joe Ralls and Mark Harris give Bluebirds victory](https://www.bbc.co.uk/sport/football/58041388) - Joe Ralls and Mark Harris give Cardiff City victory over Newport County in their final pre-season friendly ahead of the new season.
 24. [Darganfod corff bachgen mewn afon ym Mhen-y-bont ar Ogwr](https://www.bbc.co.uk/newyddion/58040726) - Daeth swyddogion heddlu o hyd i'r bachgen yn dilyn adroddiadau fod plentyn ar goll yn ardal Sarn ym Mhen-y-bont ar Ogwr.
-25. [Eisteddfod AmGen 2021 'fel Prifwyl arferol, ond heb gae'](https://www.bbc.co.uk/newyddion/58003943) - Trefnwyr y Brifwyl i wneud "popeth yn eu gallu" i gael maes traddodiadol yn 2022, yn ôl y prif weithredwr.
-26. [Cyswllt Cymraeg â'r heddlu yn 'hawl, nid braint'](https://www.bbc.co.uk/newyddion/58033494) - Prif Gwnstabl newydd Heddlu Dyfed-Powys am i bob cymuned dderbyn gwasanaeth trwy gyfrwng y Gymraeg.
+25. [De Affrica 27-9 Llewod](https://www.bbc.co.uk/newyddion/58042805) - Cyfres y Llewod: Yr ymwelwyr yn colli'r ail brawf yn erbyn De Affrica yn Cape Town.
+26. [Eisteddfod AmGen 2021 'fel Prifwyl arferol, ond heb gae'](https://www.bbc.co.uk/newyddion/58003943) - Trefnwyr y Brifwyl i wneud "popeth yn eu gallu" i gael maes traddodiadol yn 2022, yn ôl y prif weithredwr.
 27. [Lauren Price yn saff o fedal yn y bocsio pwysau canol](https://www.bbc.co.uk/newyddion/58039432) - Lauren Price yn saff o fedal yn y bocsio pwysau canol ar ôl buddugoliaeth yn rownd yr wyth olaf.
