@@ -1,7 +1,7 @@
 1. [Work to fix NI Covid passport service 'going well' but still out of action](https://www.bbc.co.uk/news/uk-northern-ireland-58024225) - The online system has been out of action since Tuesday due to concerns about data security.
 2. [Q&A: Getting jabbed after NI vaccination centres close for first jabs](https://www.bbc.co.uk/news/uk-northern-ireland-politics-57986801) - Saturday is the last day to get your first dose of a Covid jab at NI's mass vaccination centres.
 3. [School uniforms: Should schools face a price limit?](https://www.bbc.co.uk/news/uk-northern-ireland-57733760) - From blazers to branded PE kits, the annual back-to-school bill can leave some families in debt.
-4. [Pensioner Olympian Mike Bull still pole-vaulting at 74](https://www.bbc.co.uk/news/uk-northern-ireland-58017671) - Mike Bull is a double Commonwealth gold medallist and Olympic finalist in the sport.
+4. [Pensioner Olympian Mike Bull still pole vaulting at 74](https://www.bbc.co.uk/news/uk-northern-ireland-58017671) - Mike Bull is a double Commonwealth gold medallist and Olympic finalist in the sport.
 5. [Covid-19: Three more deaths and 1,101 new cases in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58029407) - Three people have died within 28 days of testing positive for Covid-19 in Northern Ireland.
 6. [How gymnast Rhys McClenaghan made it to Tokyo](https://www.bbc.co.uk/sport/olympics/58001490) - Rhys McClenaghan's rise to being one of Ireland's biggest medal hopes at Tokyo 2020 is the product of a lifelong love affair with gymnastics.
 7. [Ardoyne baby death: Mother in court charged with murder](https://www.bbc.co.uk/news/uk-northern-ireland-58022828) - Raluca Tagani is accused of the murder of her son Liam O'Keefe in Belfast on Tuesday.
