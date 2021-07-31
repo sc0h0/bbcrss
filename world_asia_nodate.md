@@ -1,4 +1,4 @@
-1. [From Afghan interpreter to US homeless - until reaching the American dream](https://www.bbc.co.uk/news/world-us-canada-58020494) - Thousands of Afghan interpreters have waited years to flee to the US. Arriving is a different story.
+1. [From Afghan interpreter to US homeless - the long road to the American dream](https://www.bbc.co.uk/news/world-us-canada-58020494) - Thousands of Afghan interpreters have waited years to flee to the US. Arriving is a different story.
 2. [Australia Covid: Brisbane lockdown after Delta variant cases](https://www.bbc.co.uk/news/world-australia-58039299) - Millions of Australians in parts of Queensland enter a snap lockdown from Saturday afternoon.
 3. [India reptile park struggles to survive amid Covid](https://www.bbc.co.uk/news/world-asia-india-58025057) - The future is uncertain for the thousands of snakes, lizards and crocodiles at the Guindy Snake Park.
 4. [Covid-19 pandemic: Japan widens emergency over 'frightening' spike](https://www.bbc.co.uk/news/world-asia-58024158) - The Olympics host is facing record Covid case numbers, fuelled by the virulent Delta strain.
