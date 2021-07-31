@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 11:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 11:51:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58037479</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037479</guid>
             <pubDate>Sat, 31 Jul 2021 02:10:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine not to be compulsory for university lectures]]></title>
+            <description><![CDATA[Ministers are no longer considering making two doses mandatory for students in England, the BBC learns.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58040302</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58040302</guid>
+            <pubDate>Sat, 31 Jul 2021 11:50:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel accuses Iran over deadly oil tanker attack]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58039946</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58039946</guid>
             <pubDate>Sat, 31 Jul 2021 10:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRS ordered to hand over Donald Trump tax returns to Congress]]></title>
-            <description><![CDATA[The ruling is a big legal blow to the ex-president, who has not publicly disclosed his tax returns.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58020969</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58020969</guid>
-            <pubDate>Fri, 30 Jul 2021 22:56:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Escobar pub accused of glorifying drug lord's reign of terror]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Fri, 30 Jul 2021 09:17:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith pulls out of 200m after hamstring tear]]></title>
-            <description><![CDATA[Great Britain's world champion Dina Asher-Smith pulls out of the Olympic 200m after revealing she tore her hamstring earlier this month.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58040588</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58040588</guid>
-            <pubDate>Sat, 31 Jul 2021 11:36:51 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith & Asha Philip fail to qualify but Daryll Neita heads to 100m final]]></title>
+            <description><![CDATA[Watch highlights as Team GB's Dina Asher-Smith and Asha Philip fail to qualify for the 100 metre final but Daryll Neita advances as one of the fastest losers.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58040047</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58040047</guid>
+            <pubDate>Sat, 31 Jul 2021 11:46:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Jonny Brownlee, Adam Peaty and Lauren Price in day eight best bits]]></title>
@@ -233,11 +233,18 @@
             <pubDate>Sat, 31 Jul 2021 03:48:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Jonny Brownlee finally claims Olympic gold in triathlon mixed relay]]></title>
-            <description><![CDATA[Great Britain's Jessica Learmonth, Jonny Brownlee, Georgia Taylor-Brown and Alex Yee win inaugural Olympic triathlon mixed relay.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58037562</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58037562</guid>
-            <pubDate>Sat, 31 Jul 2021 02:35:51 GMT</pubDate>
+            <title><![CDATA[Djokovic beaten to Olympic singles bronze by Carreno Busta]]></title>
+            <description><![CDATA[Novak Djokovic throws one racquet and smashes another as his bid for an Olympic medal ends in defeat by Spain's Pablo Carreno Busta.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58038816</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038816</guid>
+            <pubDate>Sat, 31 Jul 2021 10:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith pulls out of 200m after hamstring tear]]></title>
+            <description><![CDATA[Great Britain's world champion Dina Asher-Smith pulls out of the Olympic 200m after revealing she tore her hamstring earlier this month.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58040588</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58040588</guid>
+            <pubDate>Sat, 31 Jul 2021 11:36:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Triathlon mixed relay gold for Learmonth, Brownlee, Taylor-Brown & Yee]]></title>
@@ -254,13 +261,6 @@
             <pubDate>Sat, 31 Jul 2021 03:45:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain's Emma Wilson wins bronze in women's windsurfing]]></title>
-            <description><![CDATA[Great Britain's Emma Wilson celebrates a bronze medal on her Olympic debut in the women's windsurfing event at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58038348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038348</guid>
-            <pubDate>Sat, 31 Jul 2021 07:36:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Novak Djokovic hurls and smashes racquet in bronze medal match defeat]]></title>
             <description><![CDATA[Novak Djokovic displays his frustrations during his bronze medal match against Pablo Carreno Busta, throwing a racquet and then smashing another against a net post.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58037826</link>
@@ -273,6 +273,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58038026</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038026</guid>
             <pubDate>Sat, 31 Jul 2021 09:42:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Great Britain's Emma Wilson wins bronze in women's windsurfing]]></title>
+            <description><![CDATA[Great Britain's Emma Wilson celebrates a bronze medal on her Olympic debut in the women's windsurfing event at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58038348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038348</guid>
+            <pubDate>Sat, 31 Jul 2021 07:36:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Caeleb Dressel wins 100m butterfly gold for USA in world record time]]></title>
