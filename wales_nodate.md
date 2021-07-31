@@ -24,5 +24,4 @@
 24. [Eisteddfod AmGen 2021 'fel Prifwyl arferol, ond heb gae'](https://www.bbc.co.uk/newyddion/58003943) - Trefnwyr y Brifwyl i wneud "popeth yn eu gallu" i gael maes traddodiadol yn 2022, yn ôl y prif weithredwr.
 25. [Cyswllt Cymraeg â'r heddlu yn 'hawl, nid braint'](https://www.bbc.co.uk/newyddion/58033494) - Prif Gwnstabl newydd Heddlu Dyfed-Powys am i bob cymuned dderbyn gwasanaeth trwy gyfrwng y Gymraeg.
 26. [Agor safle i Hindŵiaid a Siciaid wasgaru llwch anwyliaid](https://www.bbc.co.uk/newyddion/58025802) - Wedi blynyddoedd o chwilio am leoliad addas, agor safle i bobl wasgaru llwch i ddŵr yn ôl traddodiad y ddwy ffydd.
-27. [Eisteddfod AmGen 2021: Gorsedd Cymru yn dychwelyd i'r prif seremonïau](https://www.bbc.co.uk/newyddion/58030859) - Yr Archdderwydd Myrddin ap Dafydd sy'n trafod gwaith yr orsedd yn absenoldeb Eisteddfod draddodiadol.
-28. [Y Llewod yn gobeithio selio'r gyfres yn Cape Town](https://www.bbc.co.uk/newyddion/58031322) - Y capten Alun Wyn Jones yn targedu buddugoliaeth arall i'r Llewod yn yr ail brawf erbyn De Affrica.
+27. [Y Llewod yn gobeithio selio'r gyfres yn Cape Town](https://www.bbc.co.uk/newyddion/58031322) - Y capten Alun Wyn Jones yn targedu buddugoliaeth arall i'r Llewod yn yr ail brawf erbyn De Affrica.
