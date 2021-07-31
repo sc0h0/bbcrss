@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 05:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 05:58:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Triathlon mixed relay gold for Learmonth, Brownlee, Taylor-Brown & Yee]]></title>
+            <description><![CDATA[Great Britain's Jessica Learmonth, Jonny Brownlee, Georgia Taylor-Brown and Alex Yee produce a superb performance to win gold in the first Olympic triathlon mixed relay.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58035243</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58035243</guid>
+            <pubDate>Sat, 31 Jul 2021 00:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GB claim mixed medley swimming relay gold]]></title>
+            <description><![CDATA[Great Britain secure a fourth swimming gold at an Olympics for the first time in 113 years by winning the inaugural 4x100m mixed medley relay in a world-record time.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58037439</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037439</guid>
+            <pubDate>Sat, 31 Jul 2021 03:45:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Simone Biles: Tokyo Olympics gymnast withdraws from two more events]]></title>
             <description><![CDATA[American Simone Biles pulls out of the vault and uneven bars gymnastics finals at the Tokyo 2020 Olympics.]]></description>
@@ -77,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/technology-58011014</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58011014</guid>
             <pubDate>Sat, 31 Jul 2021 01:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hunt for certainty over Covid cases continues]]></title>
-            <description><![CDATA[Flurry of Covid data does not resolve debate around state of the pandemic in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58029383</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58029383</guid>
-            <pubDate>Fri, 30 Jul 2021 15:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amanda Knox claims Matt Damon film Stillwater profits from her life]]></title>
-            <description><![CDATA[The director of Stillwater said he was fascinated by Ms Knox's wrongful murder conviction in Italy.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58031645</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58031645</guid>
-            <pubDate>Fri, 30 Jul 2021 17:23:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Summer breaks in Europe on 'brink' and 'hols hell']]></title>
@@ -247,11 +247,11 @@
             <pubDate>Fri, 30 Jul 2021 21:43:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England's Stokes to take 'indefinite break' from all cricket ]]></title>
-            <description><![CDATA[Ben Stokes "will take an indefinite break from all cricket with immediate effect" and has withdrawn from England's Test squad for the series against India.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58033393</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58033393</guid>
-            <pubDate>Fri, 30 Jul 2021 20:42:23 GMT</pubDate>
+            <title><![CDATA[US BMX racer Fields 'doing well' after suffering brain bleed in crash]]></title>
+            <description><![CDATA[Connor Fields' father says the Rio 2016 gold medallist is "doing well" after he suffered a brain haemorrhage in a crash in the Olympic BMX semi-final.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58038021</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038021</guid>
+            <pubDate>Sat, 31 Jul 2021 05:30:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Lauren Price is through to semi-finals and guarantees GB a medal]]></title>
@@ -268,25 +268,11 @@
             <pubDate>Sat, 31 Jul 2021 00:11:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain win 4x100m mixed medley relay gold]]></title>
-            <description><![CDATA[Great Britain secure a fourth swimming gold at an Olympics for the first time in 113 years by winning the inaugural 4x100m mixed medley relay in a world-record time.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58037439</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037439</guid>
-            <pubDate>Sat, 31 Jul 2021 03:45:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Lauren Price guaranteed at least bronze after beating Atheyna Bylon]]></title>
             <description><![CDATA[Great Britain's Lauren Price is guaranteed at least an Olympic bronze medal after a dominant win over Panama's Atheyna Bylon in the middleweight boxing quarter-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58038081</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038081</guid>
             <pubDate>Sat, 31 Jul 2021 05:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Triathlon mixed relay gold for Learmonth, Brownlee, Taylor-Brown & Yee]]></title>
-            <description><![CDATA[Great Britain's Jessica Learmonth, Jonny Brownlee, Georgia Taylor-Brown and Alex Yee produce a superb performance to win gold in the first Olympic triathlon mixed relay.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58035243</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58035243</guid>
-            <pubDate>Sat, 31 Jul 2021 00:58:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Caeleb Dressel wins 100m butterfly gold for USA in world record time]]></title>
@@ -406,6 +392,13 @@
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Fri, 30 Jul 2021 16:06:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hunt for certainty over Covid cases continues]]></title>
+            <description><![CDATA[Flurry of Covid data does not resolve debate around state of the pandemic in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58029383</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58029383</guid>
+            <pubDate>Fri, 30 Jul 2021 15:18:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What's the advice for pregnant women and those who haven't had the jab?]]></title>
