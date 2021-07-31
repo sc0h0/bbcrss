@@ -1,8 +1,8 @@
-1. [Home car charger owners urged to install updates](https://www.bbc.co.uk/news/technology-58011014) - Security vulnerabilities in two domestic electric car chargers were discovered by researchers.
-2. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
-3. [Facebook, Google expect jabs for office return](https://www.bbc.co.uk/news/technology-58027356) - The tech companies will require vaccination for returning in-office employees as Covid-19 cases rise in US
-4. [A US company has turned a former coal plant into a gas-fired Bitcoin mine](https://www.bbc.co.uk/news/technology-58020010) - Environmentalists have criticised the gas-fired mine but the company says it offsets its emissions.
-5. [Rick Astley rolls into a billion YouTube views](https://www.bbc.co.uk/news/technology-58011677) - Rickroll meme helps Never Gonna Give You Up reach new heights.
+1. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - All of a sudden, WoW players are in revolt, and its competitors are having a boom.
+2. [Home car charger owners urged to install updates](https://www.bbc.co.uk/news/technology-58011014) - Security vulnerabilities in two domestic electric car chargers were discovered by researchers.
+3. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
+4. [Facebook, Google expect jabs for office return](https://www.bbc.co.uk/news/technology-58027356) - The tech companies will require vaccination for returning in-office employees as Covid-19 cases rise in US
+5. [A US company has turned a former coal plant into a gas-fired Bitcoin mine](https://www.bbc.co.uk/news/technology-58020010) - Environmentalists have criticised the gas-fired mine but the company says it offsets its emissions.
 6. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
 7. [Amazon predicts slower sales growth as Covid boost eases](https://www.bbc.co.uk/news/business-58020895) - The tech giant says third quarter sales growth will be slower as customers return to physical shops.
 8. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
