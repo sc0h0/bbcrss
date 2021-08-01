@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 04:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 05:05:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -205,6 +205,13 @@
             <pubDate>Sat, 31 Jul 2021 17:43:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Armand Duplantis glad to have avoided coffee with Sam Kendricks]]></title>
+            <description><![CDATA[Armand Duplantis is glad that a phone call from his girlfriend meant he missed a coffee with Sam Kendricks before the American's positive Covid test.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58038467</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038467</guid>
+            <pubDate>Sat, 31 Jul 2021 07:07:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Medal table - which country has won most golds?]]></title>
             <description><![CDATA[Which country is leading the medal table? How are Great Britain getting on? Medals table for the 2020 Olympics in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57836709</link>
@@ -217,13 +224,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58038416</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038416</guid>
             <pubDate>Sat, 31 Jul 2021 06:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nigerian sprinter Okagbare fails drugs test]]></title>
-            <description><![CDATA[Nigerian sprinter Blessing Okagbare is out of the Tokyo Olympics after being suspended for failing a drugs test.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58037280</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037280</guid>
-            <pubDate>Sat, 31 Jul 2021 10:20:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

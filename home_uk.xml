@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 04:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 05:12:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Sun, 01 Aug 2021 00:31:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Turkey: Foreign tourists evacuated as wildfires threaten resorts]]></title>
+            <description><![CDATA[Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58043912</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58043912</guid>
+            <pubDate>Sun, 01 Aug 2021 04:37:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘Lenders won’t touch us - my home’s worth nothing']]></title>
             <description><![CDATA[Campaigners say government attempts to unlock parts of the property market paralysed by the cladding crisis have stalled.]]></description>
             <link>https://www.bbc.co.uk/news/business-58031545</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58031545</guid>
             <pubDate>Sat, 31 Jul 2021 23:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey: Foreign tourists evacuated as wildfires threaten resorts]]></title>
-            <description><![CDATA[Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rise.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58043912</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58043912</guid>
-            <pubDate>Sun, 01 Aug 2021 04:37:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Volunteer race marshal dies in Brands Hatch crash]]></title>
@@ -219,18 +219,18 @@
             <pubDate>Fri, 30 Jul 2021 22:00:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whittaker wins to reach Olympic boxing final]]></title>
-            <description><![CDATA[Great Britain's Ben Whittaker will compete for Olympic gold after a win over Imam Khataev secures a place in the Tokyo 2020 final.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58044571</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044571</guid>
-            <pubDate>Sun, 01 Aug 2021 04:32:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Final Test will be 'like a cup final', says Gatland after loss to South Africa]]></title>
             <description><![CDATA[British and Irish Lions head coach Warren Gatland says the deciding third and final Test against South Africa next Saturday will be a "cup final".]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58043738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58043738</guid>
             <pubDate>Sat, 31 Jul 2021 20:35:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[McCormack guaranteed Olympic welterweight silver as Walsh pulls out with injury]]></title>
+            <description><![CDATA[Team GB's Pat McCormack is guaranteed at least a silver medal in the men's welterweight competition after Ireland's Aidan Walsh pulls out of their semi-final with an ankle injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58044108</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044108</guid>
+            <pubDate>Sun, 01 Aug 2021 00:21:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frustrations boil over as pressure intensifies in Hungary]]></title>
@@ -282,6 +282,13 @@
             <pubDate>Sun, 01 Aug 2021 04:20:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Ben Whittaker beats Imam Khataev to reach final]]></title>
+            <description><![CDATA[Great Britain's Ben Whittaker will compete for Olympic gold after a win over Imam Khataev secures a place in the Tokyo 2020 final.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58044571</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044571</guid>
+            <pubDate>Sun, 01 Aug 2021 04:32:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Caeleb Dressel wins his fourth gold of the games in 50m freestyle]]></title>
             <description><![CDATA[Watch USA's Caeleb Dressel win the 50m freestyle "by miles" to claim his fourth gold medal of the Tokyo Olympic Games.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58044510</link>
@@ -294,13 +301,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58045157</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58045157</guid>
             <pubDate>Sun, 01 Aug 2021 04:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Team GB's Pat McCormack guaranteed silver after Aidan Walsh withdraws]]></title>
-            <description><![CDATA[Team GB's Pat McCormack is guaranteed at least a silver medal in the men's welterweight competition after Ireland's Aidan Walsh pulls out of their semi-final with an ankle injury.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58044108</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044108</guid>
-            <pubDate>Sun, 01 Aug 2021 00:21:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Dina Asher-Smith reveals she tore her hamstring at British Olympic trials]]></title>

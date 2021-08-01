@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 04:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 05:15:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Fri, 30 Jul 2021 10:45:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sunflower farming blooms in Kenya after khat export ban]]></title>
+            <description><![CDATA[Some farmers are growing sunflowers to boost their incomes after a ban on exports of the khat plant.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57970755</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57970755</guid>
+            <pubDate>Sun, 01 Aug 2021 05:01:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The women fighting infertility stigma in Nigeria]]></title>
             <description><![CDATA[Three Nigerian women confront the prejudice they have faced on their fertility journeys.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58004523</link>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-57968405</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57968405</guid>
             <pubDate>Mon, 26 Jul 2021 23:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afrobeats in Japan: British-Nigerian hip hop dancer teaching children how to dance]]></title>
-            <description><![CDATA[Yinka Oshiletu, a British-Nigerian hip hop dancer is bringing Afrobeats sounds to Japan's young dancers.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57949287</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57949287</guid>
-            <pubDate>Sun, 25 Jul 2021 23:06:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

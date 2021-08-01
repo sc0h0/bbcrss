@@ -1,4 +1,4 @@
-1. [Turkey: Foreign tourists evacuated as wildfires threaten resorts](https://www.bbc.co.uk/news/world-europe-58043912) - Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rise.
+1. [Turkey: Foreign tourists evacuated as wildfires threaten resorts](https://www.bbc.co.uk/news/world-europe-58043912) - Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.
 2. [Turkey fires: Blazes threaten Marmaris and other coastal resorts](https://www.bbc.co.uk/news/world-58026832) - Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.
 3. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
 4. [Tokyo Olympics: Georgia athletes removed from Games after sightseeing trip](https://www.bbc.co.uk/sport/olympics/58039393) - Two Georgian silver medallists are told to leave the Olympic Games for taking a sightseeing trip in Tokyo.
