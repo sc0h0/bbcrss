@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 14:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 14:34:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,11 @@
             <pubDate>Sun, 01 Aug 2021 12:41:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Belarus Olympics: Krystsina Tsimanouskaya refusing to fly home]]></title>
+            <title><![CDATA[Belarus Olympics: Krystsina Tsimanouskaya refuses to fly home]]></title>
             <description><![CDATA[Krystsina Tsimanouskaya complained about team coaches after which she was taken to the airport.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58046183</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58046183</guid>
-            <pubDate>Sun, 01 Aug 2021 13:54:27 GMT</pubDate>
+            <pubDate>Sun, 01 Aug 2021 14:31:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Taxi and food discounts offer to boost youth vaccine uptake]]></title>
@@ -51,13 +51,6 @@
             <pubDate>Sat, 31 Jul 2021 23:14:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turkey: Foreign tourists evacuated as wildfires threaten resorts]]></title>
-            <description><![CDATA[Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58043912</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58043912</guid>
-            <pubDate>Sun, 01 Aug 2021 04:37:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sky News Australia barred for week by YouTube over Covid misinformation]]></title>
             <description><![CDATA[The digital giant bans the channel from uploading new content for a week over misinformation breaches.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58045787</link>
@@ -72,11 +65,11 @@
             <pubDate>Sun, 01 Aug 2021 12:44:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Volunteer race marshal dies in Brands Hatch crash]]></title>
-            <description><![CDATA[The marshal died after an accident during a race at the track, leading to the cancellation of the event.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58043285</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58043285</guid>
-            <pubDate>Sun, 01 Aug 2021 11:07:32 GMT</pubDate>
+            <title><![CDATA[Tanker attack: Tensions rise as Iran and Israel trade accusations]]></title>
+            <description><![CDATA[Israel's PM warns he could send "a message" in retaliation, as Iran rejects "baseless" accusations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58048007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58048007</guid>
+            <pubDate>Sun, 01 Aug 2021 14:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prosecutor Nazir Afzal: I couldn't defend a rapist]]></title>
@@ -86,18 +79,25 @@
             <pubDate>Sun, 01 Aug 2021 14:06:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Turkey: Foreign tourists evacuated as wildfires threaten resorts]]></title>
+            <description><![CDATA[Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58043912</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58043912</guid>
+            <pubDate>Sun, 01 Aug 2021 04:37:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Volunteer race marshal dies in Brands Hatch crash]]></title>
+            <description><![CDATA[The marshal died after an accident during a race at the track, leading to the cancellation of the event.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58043285</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58043285</guid>
+            <pubDate>Sun, 01 Aug 2021 11:07:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Northern Ireland's Covid-19 vaccine passport date extended]]></title>
             <description><![CDATA[People travelling abroad from Northern Ireland on Tuesday can now apply for the certificate.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58047786</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58047786</guid>
             <pubDate>Sun, 01 Aug 2021 11:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abergele holiday park incident: Man held as girl, 15, dies]]></title>
-            <description><![CDATA[A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58048295</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58048295</guid>
-            <pubDate>Sun, 01 Aug 2021 12:06:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Erotic, maybe a bit sexy, but not pornographic']]></title>
@@ -219,11 +219,18 @@
             <pubDate>Fri, 30 Jul 2021 22:00:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Max Whitlock defends Olympic pommel horse title]]></title>
-            <description><![CDATA[Great Britain's Max Whitlock retains his Olympic pommel horse title with a flawless routine in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58046816</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58046816</guid>
-            <pubDate>Sun, 01 Aug 2021 10:26:11 GMT</pubDate>
+            <title><![CDATA[The trick no woman had done before - how a 360 backflip won gold for GB]]></title>
+            <description><![CDATA[A trick revered, unexpected and never done by a woman before - what is the backflip 360 pulled off by Charlotte Worthington?]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58047473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047473</guid>
+            <pubDate>Sun, 01 Aug 2021 14:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: How Team GB's Max Whitlock won pommel horse gold as rivals faltered]]></title>
+            <description><![CDATA[Watch how Team GB's Max Whitlock defended his Olympic pommel horse title, performing the first routine in the final and setting a mark that his rivals could not match at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58048684</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58048684</guid>
+            <pubDate>Sun, 01 Aug 2021 14:27:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Italy's Lamont Marcell Jacobs wins 100m final while GB's Zharnel Hughes disqualified]]></title>
@@ -231,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58048681</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58048681</guid>
             <pubDate>Sun, 01 Aug 2021 13:34:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Worthington recovers from fall to win BMX gold in Tokyo while Brooks takes bronze ]]></title>
-            <description><![CDATA[Great Britain's Charlotte Worthington wins a thrilling gold in the women's BMX park freestyle Olympic final.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58044570</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044570</guid>
-            <pubDate>Sun, 01 Aug 2021 04:10:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Matt Dawson column: British and Irish Lions crying out for creative player]]></title>
