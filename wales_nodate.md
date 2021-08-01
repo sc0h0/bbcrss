@@ -1,6 +1,6 @@
 1. [Abergele holiday park incident: Man held as girl, 15, dies](https://www.bbc.co.uk/news/uk-wales-58048295) - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
 2. [Bridgend river death: Police keep 'open mind' after boy, 5, dies](https://www.bbc.co.uk/news/uk-wales-58045998) - The boy was found after police were called to reports of a missing child on Saturday morning.
-3. [Covid: No incentives for youth vaccine uptake in Wales](https://www.bbc.co.uk/news/uk-wales-58047609) - Young people In England, however, are to get taxi and takeaway discounts for taking up a jab offer.
+3. [Covid: No incentives for youth vaccine uptake in Wales](https://www.bbc.co.uk/news/uk-wales-58047609) - Young people In England, however, are to get travel and takeaway discounts for taking up a jab offer.
 4. [Cardiff Park Plaza fire: Four rescued from flat above hotel](https://www.bbc.co.uk/news/uk-wales-58039097) - The blaze happened in a private flat above Cardiff's Park Plaza Hotel, sparking an evacuation.
 5. [Covid: Cardiff ice rink to reopen after 'frustrating' wait](https://www.bbc.co.uk/news/uk-wales-58010522) - One of Wales' two ice rinks is to open for the first time in 17 months as the other remains shut.
 6. [Person dies following early morning crash in Swansea](https://www.bbc.co.uk/news/uk-wales-58047608) - Police are appealing for witnesses to the single-vehicle crash which happened just before 04:00 BST.

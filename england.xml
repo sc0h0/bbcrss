@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 16:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 16:48:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Sun, 01 Aug 2021 15:59:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gorleston man charged with murder of Pat Holland]]></title>
-            <description><![CDATA[A 41-year-old man is charged with the murder of Pat Holland, 83, who was last seen a week ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58048959</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58048959</guid>
-            <pubDate>Sun, 01 Aug 2021 13:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Video: Eggborough Power Station cooling towers demolished]]></title>
             <description><![CDATA[The 300ft (90m) high structures in Eggborough were demolished as part of a plan to redevelop the site.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58050113</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58050113</guid>
             <pubDate>Sun, 01 Aug 2021 15:28:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gorleston man charged with murder of Pat Holland]]></title>
+            <description><![CDATA[A 41-year-old man is charged with the murder of Pat Holland, 83, who was last seen a week ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58048959</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58048959</guid>
+            <pubDate>Sun, 01 Aug 2021 13:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Corby BMX centre 'so proud' of British medals]]></title>
@@ -51,6 +51,13 @@
             <pubDate>Sun, 01 Aug 2021 11:08:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Birmingham murder case police identify stabbing victim]]></title>
+            <description><![CDATA[Police said they could not trace any family of Brahane Yordanos who was found on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58047661</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58047661</guid>
+            <pubDate>Sun, 01 Aug 2021 16:29:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Max Whitlock and Charlotte Worthington land gold on day nine]]></title>
             <description><![CDATA[Charlotte Worthington wins a dramatic BMX park freestyle Olympic gold as Max Whitlock retains pommel horse title.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58045115</link>
@@ -65,13 +72,6 @@
             <pubDate>Sun, 01 Aug 2021 06:37:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Birmingham city centre attack: Arrest as man dies]]></title>
-            <description><![CDATA[The 33-year-old died in hospital after being assaulted in Birmingham city centre.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58042704</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58042704</guid>
-            <pubDate>Sun, 01 Aug 2021 11:03:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sutton Hoo-era Norfolk sword pyramid find 'lost by lord']]></title>
             <description><![CDATA[The tiny object was found by a metal detectorist and is inlaid with Indian or Sri Lankan garnets.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-57999456</link>
@@ -79,11 +79,11 @@
             <pubDate>Sun, 01 Aug 2021 07:06:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Norwich deaths: Bodies of man and woman found in house]]></title>
-            <description><![CDATA[The deaths are currently being treated as unexplained, Norfolk Police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58046330</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58046330</guid>
-            <pubDate>Sun, 01 Aug 2021 10:53:17 GMT</pubDate>
+            <title><![CDATA[Shipdham death: Murder arrest as woman dies at house]]></title>
+            <description><![CDATA[Police officers were called to an address in Shipdham, near Dereham, on Sunday afternoon.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58050447</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58050447</guid>
+            <pubDate>Sun, 01 Aug 2021 16:43:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
@@ -156,6 +156,13 @@
             <pubDate>Fri, 30 Jul 2021 14:34:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Birmingham city centre attack: Arrest as man dies]]></title>
+            <description><![CDATA[The 33-year-old died in hospital after being assaulted in Birmingham city centre.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58042704</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58042704</guid>
+            <pubDate>Sun, 01 Aug 2021 11:03:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Louise Kam: Two arrested as police seek missing woman]]></title>
             <description><![CDATA[Louise Kam was last seen in a shopping centre in Barnet, north-west London, on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58042862</link>
@@ -170,11 +177,11 @@
             <pubDate>Sat, 31 Jul 2021 07:47:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man dies and two ill after taking drugs at Tottenham nightclub]]></title>
-            <description><![CDATA[Police have urged anyone who bought drugs in or near the club to dispose of them immediately.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58040799</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58040799</guid>
-            <pubDate>Sat, 31 Jul 2021 16:30:21 GMT</pubDate>
+            <title><![CDATA[Norwich deaths: Bodies of man and woman found in house]]></title>
+            <description><![CDATA[The deaths are currently being treated as unexplained, Norfolk Police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58046330</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58046330</guid>
+            <pubDate>Sun, 01 Aug 2021 10:53:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[High Wycombe: Murder arrests after man found dead in street]]></title>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58039946</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58039946</guid>
             <pubDate>Sun, 01 Aug 2021 13:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine: Halifax circus and London festivals in jabs push]]></title>
-            <description><![CDATA[Pop-up vaccine clinics are opening to encourage more people to get vaccinated against Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-58039581</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58039581</guid>
-            <pubDate>Sat, 31 Jul 2021 13:47:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hastings sewage leak: Bulverhythe hut owner 'devastated']]></title>
@@ -205,6 +205,13 @@
             <pubDate>Sat, 31 Jul 2021 07:11:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ocon takes shock Hungary win with Hamilton third]]></title>
+            <description><![CDATA[Alpine's Esteban Ocon takes a maiden Formula 1 victory in an extraordinary and madcap Hungarian Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58049146</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/58049146</guid>
+            <pubDate>Sun, 01 Aug 2021 15:51:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Max Whitlock defends Olympic pommel horse title]]></title>
             <description><![CDATA[Great Britain's Max Whitlock produces a sublime performance to defend his Olympic title by winning gold in the men's pommel horse.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58044973</link>
@@ -212,11 +219,11 @@
             <pubDate>Sun, 01 Aug 2021 11:00:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ocon takes shock Hungary win with Hamilton third]]></title>
-            <description><![CDATA[Alpine's Esteban Ocon takes a maiden Formula 1 victory in an extraordinary and madcap Hungarian Grand Prix.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/58049146</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/58049146</guid>
-            <pubDate>Sun, 01 Aug 2021 15:51:41 GMT</pubDate>
+            <title><![CDATA[Shane Warne: London Spirit head coach tests positive for Covid-19]]></title>
+            <description><![CDATA[London Spirit head coach Shane Warne tests positive for Covid-19 and will miss their next fixture.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58050577</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58050577</guid>
+            <pubDate>Sun, 01 Aug 2021 16:43:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Charlotte Worthington wins BMX freestyle gold for Great Britain]]></title>

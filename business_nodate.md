@@ -1,5 +1,5 @@
 1. [Pay rise for Aldi lorry drivers amid shortage](https://www.bbc.co.uk/news/business-58047483) - The supermarket is the latest to offer incentives for drivers after disruption to supply chains.
-2. [Covid: UK hits 85m jab milestone amid discount push for young](https://www.bbc.co.uk/news/uk-58044088) - Cheap taxi rides and takeaways will be offered in a bid to boost vaccine uptake among young people.
+2. [Covid: UK hits 85m jab milestone amid discount push for young](https://www.bbc.co.uk/news/uk-58044088) - Cheap travel and takeaways will be offered in a bid to boost vaccine uptake among young people.
 3. [Covid: One in five firms plan job cuts as furlough tapers - survey](https://www.bbc.co.uk/news/uk-58043041) - From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.
 4. [Heatwave risk from plans to convert shops to homes](https://www.bbc.co.uk/news/business-58029653) - Turning more commercial property into homes raises fears of sub-standard conditions, says a report.
 5. [‘Lenders won’t touch us - my home’s worth nothing'](https://www.bbc.co.uk/news/business-58031545) - Campaigners say government attempts to unlock parts of the property market paralysed by the cladding crisis have stalled.
