@@ -29,3 +29,4 @@
 29. [World War One Suffolk Regiment veteran gets headstone in Cambridge](https://www.bbc.co.uk/news/uk-england-suffolk-57990666) - A Battle of the Somme veteran gets a memorial stone more than 100 years after he died.
 30. [Tokyo Olympics: Max Whitlock defends Olympic pommel horse title](https://www.bbc.co.uk/sport/olympics/58044973) - Great Britain's Max Whitlock produces a sublime performance to defend his Olympic title by winning gold in the men's pommel horse.
 31. [Tokyo Olympics: Charlotte Worthington wins BMX freestyle gold for Great Britain](https://www.bbc.co.uk/sport/olympics/58044570) - Great Britain's Charlotte Worthington wins a thrilling gold in the women's BMX park freestyle Olympic final.
+32. [Sheffield Wednesday v Huddersfield Town](https://www.bbc.co.uk/sport/football/57958673) - Live coverage of Sunday's Carabao Cup game between Sheffield Wednesday and Huddersfield Town.
