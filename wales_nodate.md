@@ -20,7 +20,7 @@
 20. [Russell Martin: MK Dons manager's style would suit Swansea City, says Alan Tate](https://www.bbc.co.uk/sport/football/58041792) - Caretaker manager Alan Tate believes Russell Martin's football philosophy makes him an ideal fit for Swansea City.
 21. [Cardiff Rugby go back to the future to begin post-Blues new era](https://www.bbc.co.uk/sport/rugby-union/58019430) - Cardiff Rugby go back to the future to begin a new era after changing their name from Cardiff Blues.
 22. [Arestio dyn wedi marwolaeth merch 15 oed mewn parc gwyliau](https://www.bbc.co.uk/newyddion/58048276) - Dyn, 19, wedi ei arestio yn dilyn marwolaeth merch, 15, mewn parc gwyliau ger Abergele ddydd Sadwrn.
-23. [Achub pedwar o bobl yn dilyn tân mewn fflat yng Nghaerdydd](https://www.bbc.co.uk/newyddion/58046468) - Achub tri phlentyn ac un oedolyn yn dilyn tân mewn fflat uwchben Gwesty Park Plaza yn y brifddinas.
-24. [Heddlu'n 'cadw meddwl agored' am farwolaeth bachgen ifanc](https://www.bbc.co.uk/newyddion/58046469) - Cafodd corff y bachgen pum mlwydd oed ei ddarganfod yn Afon Ogwr yn dilyn adroddiadau fod plentyn ar goll.
+23. [Heddlu'n 'cadw meddwl agored' am farwolaeth bachgen ifanc](https://www.bbc.co.uk/newyddion/58046469) - Cafodd corff y bachgen pum mlwydd oed ei ganfod yn Afon Ogwr yn dilyn adroddiadau fod plentyn ar goll.
+24. ['Dim cymhellion i Gymry ifanc gael brechiad,' medd Llywodraeth Cymru](https://www.bbc.co.uk/newyddion/58050935) - Yn wahanol i Loegr, nid yw Llywodraeth Cymru'n bwriadu cynnig cymhellion i bobl ifanc gael brechlyn Covid.
 25. [Llythyrau caru a thystion: Sut oedd hawlio iawndal ar ôl torcalon](https://www.bbc.co.uk/newyddion/58029257) - Elin Tomos sy'n edrych ar hanes y ddeddf Torri Amod Priodas.
 26. [Abertawe yn penodi Russell Martin yn brif hyfforddwr](https://www.bbc.co.uk/newyddion/58034032) - Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.
