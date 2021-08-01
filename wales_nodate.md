@@ -1,4 +1,4 @@
-1. [Abergele holiday park incident: Girl, 15, dies in disturbance](https://www.bbc.co.uk/news/uk-wales-58048295) - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
+1. [Abergele holiday park incident: Man held as girl, 15, dies](https://www.bbc.co.uk/news/uk-wales-58048295) - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
 2. [Bridgend river death: Police keep 'open mind' after boy, 5, dies](https://www.bbc.co.uk/news/uk-wales-58045998) - The boy was found after police were called to reports of a missing child on Saturday morning.
 3. [Cardiff Park Plaza fire: Four rescued from flat above hotel](https://www.bbc.co.uk/news/uk-wales-58039097) - The blaze happened in a private flat above Cardiff's Park Plaza Hotel, sparking an evacuation.
 4. [Covid: Cardiff ice rink to reopen after 'frustrating' wait](https://www.bbc.co.uk/news/uk-wales-58010522) - One of Wales' two ice rinks is to open for the first time in 17 months as the other remains shut.
@@ -21,8 +21,8 @@
 21. [Russell Martin: MK Dons manager's style would suit Swansea City, says Alan Tate](https://www.bbc.co.uk/sport/football/58041792) - Caretaker manager Alan Tate believes Russell Martin's football philosophy makes him an ideal fit for Swansea City.
 22. [Cardiff Rugby go back to the future to begin post-Blues new era](https://www.bbc.co.uk/sport/rugby-union/58019430) - Cardiff Rugby go back to the future to begin a new era after changing their name from Cardiff Blues.
 23. [Osian Roberts: Ex-Wales assistant set to join Patrick Vieira at Crystal Palace](https://www.bbc.co.uk/sport/football/58045550) - Former Wales assistant manager Osian Roberts is set to join Crystal Palace as number two to Patrick Vieira.
-24. [Achub pedwar o bobl yn dilyn tân mewn fflat yng Nghaerdydd](https://www.bbc.co.uk/newyddion/58046468) - Achub tri phlentyn ac un oedolyn yn dilyn tân mewn fflat uwchben Gwesty Park Plaza yn y brif ddinas.
-25. [Heddlu'n 'cadw meddwl agored' am farwolaeth bachgen ifanc](https://www.bbc.co.uk/newyddion/58046469) - Cafodd corff y bachgen pum mlwydd oed ei ddarganfod yn Afon Ogwr yn dilyn adroddiadau fod plentyn ar goll.
-26. [Cyhoeddi llyfrau'r Brifwyl yn hwb i'r byd cyhoeddi](https://www.bbc.co.uk/newyddion/57985419) - Roedd colli cyfrolau yr Eisteddfod wedi costio cyfanswm o oddeutu £100,000 i'r diwydiant llyfrau y llynedd.
+24. [Arestio dyn wedi marwolaeth merch 15 oed mewn parc gwyliau](https://www.bbc.co.uk/newyddion/58048276) - Dyn 19 oed wedi cael ei arestio yn dilyn marwolaeth merch 15 oed mewn parc gwyliau ger Abergele ddydd Sadwrn.
+25. [Achub pedwar o bobl yn dilyn tân mewn fflat yng Nghaerdydd](https://www.bbc.co.uk/newyddion/58046468) - Achub tri phlentyn ac un oedolyn yn dilyn tân mewn fflat uwchben Gwesty Park Plaza yn y brif ddinas.
+26. [Heddlu'n 'cadw meddwl agored' am farwolaeth bachgen ifanc](https://www.bbc.co.uk/newyddion/58046469) - Cafodd corff y bachgen pum mlwydd oed ei ddarganfod yn Afon Ogwr yn dilyn adroddiadau fod plentyn ar goll.
 27. [Llythyrau caru a thystion: Sut oedd hawlio iawndal ar ôl torcalon](https://www.bbc.co.uk/newyddion/58029257) - Elin Tomos sy'n edrych ar hanes y ddeddf Torri Amod Priodas.
 28. [Disgwyl i Crystal Palace benodi Roberts fel is-reolwr](https://www.bbc.co.uk/newyddion/58046473) - Mae disgwyl i Osian Roberts ymuno â Crystal Palace fel rhan o dîm hyfforddi y rheolwr newydd Patrick Vieira.
