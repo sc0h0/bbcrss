@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 05:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 06:22:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -289,6 +289,13 @@
             <pubDate>Sat, 31 Jul 2021 23:01:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The autistic-friendly toy shop: 'We have got this']]></title>
+            <description><![CDATA[Retail worker Romilly, who is autistic, wants to create a comfortable space for other autistic people to shop in.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58026672</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58026672</guid>
+            <pubDate>Sat, 31 Jul 2021 23:04:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dad builds robotic exoskeleton to help son walk]]></title>
             <description><![CDATA[The French robotics engineer says he was inspired to build the suit after his son asked him to.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57985857</link>
@@ -301,13 +308,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-57974754</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57974754</guid>
             <pubDate>Mon, 26 Jul 2021 23:00:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michael Gove on vaccine passports at events with big crowds]]></title>
-            <description><![CDATA[People should be “confident” those attending large-scale events are “less likely to be carriers of the virus”, the Cabinet Office Minister says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57988623</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57988623</guid>
-            <pubDate>Tue, 27 Jul 2021 13:55:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
