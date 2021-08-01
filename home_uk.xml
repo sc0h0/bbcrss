@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 03:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 03:42:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Great Britain wins a record eighth swimming medal in Tokyo while Duncan Scott becomes the most decorated British Olympian at a Games after silver in the men's 4x100m medley relay.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58044350</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044350</guid>
-            <pubDate>Sun, 01 Aug 2021 03:20:37 GMT</pubDate>
+            <pubDate>Sun, 01 Aug 2021 03:40:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Charlotte Worthington wins BMX freestyle gold for Great Britain]]></title>
@@ -51,18 +51,18 @@
             <pubDate>Sat, 31 Jul 2021 23:14:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Simone Biles withdraws from floor final at Tokyo Olympics]]></title>
+            <description><![CDATA[American Simone Biles withdraws from the floor final but is yet to make a decision on whether to compete on beam.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58045046</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045046</guid>
+            <pubDate>Sun, 01 Aug 2021 03:39:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: One in five firms plan job cuts as furlough tapers - survey]]></title>
             <description><![CDATA[From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58043041</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58043041</guid>
             <pubDate>Sat, 31 Jul 2021 23:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Fighting rages as Taliban besiege three key cities]]></title>
-            <description><![CDATA[Fears rise of a humanitarian crisis as Islamist militants seek to capture major Afghan urban areas.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58040141</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58040141</guid>
-            <pubDate>Sat, 31 Jul 2021 19:10:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heatwave risk from plans to convert shops to homes]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Sat, 31 Jul 2021 23:13:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Fighting rages as Taliban besiege three key cities]]></title>
+            <description><![CDATA[Fears rise of a humanitarian crisis as Islamist militants seek to capture major Afghan urban areas.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58040141</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58040141</guid>
+            <pubDate>Sat, 31 Jul 2021 19:10:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Anti-eviction lawmaker camps overnight on US Capitol steps]]></title>
             <description><![CDATA[Cori Bush fears millions of US tenants could be at risk if an eviction freeze is allowed to expire.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58043908</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58043908</guid>
             <pubDate>Sat, 31 Jul 2021 22:31:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boy, five, dies after being found in Ogmore River, Bridgend]]></title>
-            <description><![CDATA[The discovery was made after police were called to a report of a missing child.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58039096</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58039096</guid>
-            <pubDate>Sat, 31 Jul 2021 15:57:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Britain's Wood shocks China's Xu to win WBA title]]></title>
@@ -93,11 +93,11 @@
             <pubDate>Sat, 31 Jul 2021 23:12:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Carrie Johnson and Boris Johnson expecting second child]]></title>
-            <description><![CDATA[The couple are expecting a second child, months after a miscarriage left Carrie "heartbroken".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58042146</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58042146</guid>
-            <pubDate>Sat, 31 Jul 2021 16:52:59 GMT</pubDate>
+            <title><![CDATA[Boy, five, dies after being found in Ogmore River, Bridgend]]></title>
+            <description><![CDATA[The discovery was made after police were called to a report of a missing child.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58039096</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58039096</guid>
+            <pubDate>Sat, 31 Jul 2021 15:57:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Kebabs for jabs' and 'baby no 2' for PM and Carrie]]></title>
@@ -219,25 +219,18 @@
             <pubDate>Fri, 30 Jul 2021 22:00:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Simone Biles withdraws from floor final]]></title>
-            <description><![CDATA[American Simone Biles withdraws from the floor final but is yet to make a decision on whether to compete on beam.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58045046</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045046</guid>
-            <pubDate>Sun, 01 Aug 2021 03:23:23 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Caeleb Dressel wins his fourth gold of the games in 50m freestyle]]></title>
+            <description><![CDATA[Watch USA's Caeleb Dressel win the 50m freestyle "by miles" to claim his fourth gold medal of the Tokyo Olympic Games.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58044510</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58044510</guid>
+            <pubDate>Sun, 01 Aug 2021 02:34:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Final Test like will be 'like a cup final', says Gatland after loss to South Africa]]></title>
-            <description><![CDATA[British and Irish Lions head coach Warren Gatland says the deciding third and final Test against South Africa next Saturday will be a "cup final".]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58043738</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58043738</guid>
-            <pubDate>Sat, 31 Jul 2021 20:35:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Late Hearts winner hands Celtic first opening-day loss in 24 years]]></title>
-            <description><![CDATA[Celtic suffer opening-day defeat for the first time in 24 years - and Ange Postecoglou's chastening start as manager continued - as Hearts made a winning Scottish Premiership return.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57951053</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57951053</guid>
-            <pubDate>Sat, 31 Jul 2021 21:05:28 GMT</pubDate>
+            <title><![CDATA[The Hundred: Fancy fielding & big sixes - Saturday's best Hundred action]]></title>
+            <description><![CDATA[Watch the best moments from Saturday's action in the men's and women's Hundred as Welsh Fire took on Manchester Originals and Northern Superchargers faced Oval Invincibles.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/58043668</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58043668</guid>
+            <pubDate>Sat, 31 Jul 2021 20:26:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dina Asher-Smith's secret injury & Elaine Thompson-Herah's gold in 100m at Tokyo Olympics]]></title>
@@ -247,18 +240,25 @@
             <pubDate>Sat, 31 Jul 2021 15:57:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Jonny Brownlee, Adam Peaty and Lauren Price in day eight best bits]]></title>
-            <description><![CDATA[Watch the best moments from the early events on day eight at the Tokyo Olympics, including gold-winning relay races for Team GB and more boxing success.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58038563</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58038563</guid>
-            <pubDate>Sat, 31 Jul 2021 07:47:45 GMT</pubDate>
+            <title><![CDATA[Final Test will be 'like a cup final', says Gatland after loss to South Africa]]></title>
+            <description><![CDATA[British and Irish Lions head coach Warren Gatland says the deciding third and final Test against South Africa next Saturday will be a "cup final".]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58043738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58043738</guid>
+            <pubDate>Sat, 31 Jul 2021 20:35:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred: Fancy fielding & big sixes - Saturday's best Hundred action]]></title>
-            <description><![CDATA[Watch the best moments from Saturday's action in the men's and women's Hundred as Welsh Fire took on Manchester Originals and Northern Superchargers faced Oval Invincibles.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58043668</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58043668</guid>
-            <pubDate>Sat, 31 Jul 2021 20:26:26 GMT</pubDate>
+            <title><![CDATA[Frustrations boil over as pressure intensifies in Hungary]]></title>
+            <description><![CDATA[If it's not coming from the teams, it's coming from the fans. the pressure increases on Lewis Hamilton and Max Verstappen in Hungary.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58041542</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/58041542</guid>
+            <pubDate>Sat, 31 Jul 2021 17:25:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GB head fourth-place table, Canadian women dominate & Japan get hosts' boost - Tokyo stats]]></title>
+            <description><![CDATA[Simon Gleave from Nielsen Gracenote picks out some interesting data from the Olympic medal table at its halfway stage.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58028292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58028292</guid>
+            <pubDate>Sat, 31 Jul 2021 20:07:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB's Pat McCormack guaranteed silver after Aidan Walsh withdraws]]></title>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 03:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 03:42:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Sat, 31 Jul 2021 22:31:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Simone Biles withdraws from floor final at Tokyo Olympics]]></title>
+            <description><![CDATA[American Simone Biles withdraws from the floor final but is yet to make a decision on whether to compete on beam.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58045046</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045046</guid>
+            <pubDate>Sun, 01 Aug 2021 03:39:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Israel accuses Iran over deadly oil tanker attack]]></title>
             <description><![CDATA[The country's foreign minister blames "Iranian terrorism" for an attack that left two people dead.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-57977702</link>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58042344</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58042344</guid>
             <pubDate>Sat, 31 Jul 2021 16:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simone Biles: Tokyo Olympics gymnast withdraws from two more events]]></title>
-            <description><![CDATA[American Simone Biles pulls out of the vault and uneven bars gymnastics finals at the Tokyo 2020 Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58037479</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037479</guid>
-            <pubDate>Sat, 31 Jul 2021 02:10:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Billie Eilish opens up on internet trolls]]></title>
@@ -198,6 +198,13 @@
             <pubDate>Sun, 01 Aug 2021 03:15:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Simone Biles criticism baffles Callum Skinner: Mental health 'not death of sport']]></title>
+            <description><![CDATA[Criticism of Simone Biles for withdrawing from some events at Tokyo 2020 is "baffling", says Olympic gold medallist Callum Skinner.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58038535</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038535</guid>
+            <pubDate>Sat, 31 Jul 2021 17:43:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dressel sets world record to win third Tokyo gold]]></title>
             <description><![CDATA[American Caeleb Dressel gains his third gold medal of the Tokyo Olympics with a 100m butterfly world record, while Katie Ledecky and Kaylee McKeown also win golds.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58038416</link>
@@ -217,13 +224,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58037280</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037280</guid>
             <pubDate>Sat, 31 Jul 2021 10:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dressage: How to make a horse dance]]></title>
-            <description><![CDATA[For some, it's an oddity to watch only at the Olympics... for others, it's a lifetime of training.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57999120</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57999120</guid>
-            <pubDate>Thu, 29 Jul 2021 23:21:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
