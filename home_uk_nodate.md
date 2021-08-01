@@ -1,5 +1,5 @@
 1. [Tokyo Olympics: Lamont Marcell Jacobs claims shock 100m gold](https://www.bbc.co.uk/sport/olympics/58046880) - Italy's Lamont Marcell Jacobs claims a shock gold in the Olympic 100m final, after Great Britain's Zharnel Hughes is disqualified for a false start.
-2. [Three murder arrests over child's river death](https://www.bbc.co.uk/news/uk-wales-58049509) - A 13-year-old boy and two adults are arrested on suspicion of murder, police say.
+2. [Three murder arrests over boy's river death in Bridgend](https://www.bbc.co.uk/news/uk-wales-58049509) - A 13-year-old boy and two adults are arrested on suspicion of murder, police say.
 3. [Belarus Olympics: Krystsina Tsimanouskaya refuses 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58046183) - Krystsina Tsimanouskaya says she fears for her safety as Belarus orders her home for complaining about coaches.
 4. [Whitlock fires Team GB gold medal tally to 10](https://www.bbc.co.uk/sport/olympics/58045115) - Charlotte Worthington wins a dramatic BMX park freestyle Olympic gold as Max Whitlock retains pommel horse title.
 5. [Covid: UK hits 85m jab milestone amid discount push for young](https://www.bbc.co.uk/news/uk-58044088) - Cheap travel and takeaways will be offered in a bid to boost vaccine uptake among young people.
