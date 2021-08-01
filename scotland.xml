@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 09:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 10:14:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,20 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58046343</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58046343</guid>
             <pubDate>Sun, 01 Aug 2021 08:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adopting the recovery position]]></title>
+            <description><![CDATA[Banks are taking money out of their bad loan pots and larger companies in Scotland are reflecting activity overseas.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58047221</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58047221</guid>
+            <pubDate>Sun, 01 Aug 2021 09:59:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Residents evacuated after Glasgow tower block fire]]></title>
+            <description><![CDATA[The blaze broke out on the the 17th floor of a multi-storey block of flats in Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58046347</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58046347</guid>
+            <pubDate>Sun, 01 Aug 2021 09:56:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Digital vaccine certificates to replace paper versions]]></title>
@@ -91,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58034362</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58034362</guid>
             <pubDate>Fri, 30 Jul 2021 22:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drug deaths in Scotland reach new record level]]></title>
-            <description><![CDATA[The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58024296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58024296</guid>
-            <pubDate>Fri, 30 Jul 2021 09:17:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -238,13 +245,6 @@
             <link>https://www.bbc.co.uk/sport/football/57995962</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57995962</guid>
             <pubDate>Sat, 31 Jul 2021 20:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rangers 3-0 Livingston: Champions start with win]]></title>
-            <description><![CDATA[Rangers manager Steven Gerrard has backed "outstanding" Scott Wright to step in should Ianis Hagi fail to recover from injury for Tuesday's Champions League qualifier in Malmo.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57951054</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57951054</guid>
-            <pubDate>Sat, 31 Jul 2021 21:35:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
