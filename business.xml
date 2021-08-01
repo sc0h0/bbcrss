@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jul 2021 23:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 00:39:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Taxi and food discounts offer to boost youth jabs]]></title>
+            <description><![CDATA[The government's latest vaccine drive comes as 67% of 18 to 29-year-olds in England have had a first jab.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58044088</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58044088</guid>
+            <pubDate>Sun, 01 Aug 2021 00:31:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: One in five firms plan job cuts as furlough tapers - survey]]></title>
             <description><![CDATA[From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.]]></description>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/business-58020735</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58020735</guid>
             <pubDate>Thu, 29 Jul 2021 23:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Empty shop numbers rise as Covid continues to bite]]></title>
-            <description><![CDATA[The number of vacant shops continues to rise after a year of lockdowns, the BRC says.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58007313</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58007313</guid>
-            <pubDate>Fri, 30 Jul 2021 06:49:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['My bakery lets you take a bite out of celebs']]></title>

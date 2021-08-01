@@ -1,16 +1,16 @@
-1. [Covid: One in five firms plan job cuts as furlough tapers - survey](https://www.bbc.co.uk/news/uk-58043041) - From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.
-2. [Heatwave risk from plans to convert shops to homes](https://www.bbc.co.uk/news/business-58029653) - Turning more commercial property into homes raises fears of sub-standard conditions, says a report.
-3. [‘Lenders won’t touch us - my home’s worth nothing'](https://www.bbc.co.uk/news/business-58031545) - Campaigners say government attempts to unlock parts of the property market paralysed by the cladding crisis have stalled.
-4. [Employee shortages: Where have all the workers gone?](https://www.bbc.co.uk/news/business-58014256) - From hospitality to road haulage, firms say they can't get staff. So are employees now calling the shots?
-5. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
-6. ['Covid vaccine scammers nearly got me'](https://www.bbc.co.uk/news/business-58029113) - Sioban Moore escaped disaster by a whisker after receiving a fake email inviting her for a jab.
-7. [Monzo bank in money laundering rules investigation](https://www.bbc.co.uk/news/business-58033700) - Monzo warned investors that the investigation could have a negative impact on the digital bank.
-8. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
-9. [British Airways owner IAG to ramp up flights](https://www.bbc.co.uk/news/business-58024108) - IAG, which also owns Iberia, says it plans to run at 75% of its 2019 passenger capacity by the end of the year.
-10. [Eurozone out of recession after economy grows 2%](https://www.bbc.co.uk/news/business-58024112) - Data suggests all economies in the 19-country bloc expanded in the last three months.
-11. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.
-12. ['I was asked how often I use the toilet'](https://www.bbc.co.uk/news/business-58020735) - Disabled jobseekers have to overcome too many barriers, MPs say.
-13. [Empty shop numbers rise as Covid continues to bite](https://www.bbc.co.uk/news/business-58007313) - The number of vacant shops continues to rise after a year of lockdowns, the BRC says.
+1. [Taxi and food discounts offer to boost youth jabs](https://www.bbc.co.uk/news/uk-58044088) - The government's latest vaccine drive comes as 67% of 18 to 29-year-olds in England have had a first jab.
+2. [Covid: One in five firms plan job cuts as furlough tapers - survey](https://www.bbc.co.uk/news/uk-58043041) - From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.
+3. [Heatwave risk from plans to convert shops to homes](https://www.bbc.co.uk/news/business-58029653) - Turning more commercial property into homes raises fears of sub-standard conditions, says a report.
+4. [‘Lenders won’t touch us - my home’s worth nothing'](https://www.bbc.co.uk/news/business-58031545) - Campaigners say government attempts to unlock parts of the property market paralysed by the cladding crisis have stalled.
+5. [Employee shortages: Where have all the workers gone?](https://www.bbc.co.uk/news/business-58014256) - From hospitality to road haulage, firms say they can't get staff. So are employees now calling the shots?
+6. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
+7. ['Covid vaccine scammers nearly got me'](https://www.bbc.co.uk/news/business-58029113) - Sioban Moore escaped disaster by a whisker after receiving a fake email inviting her for a jab.
+8. [Monzo bank in money laundering rules investigation](https://www.bbc.co.uk/news/business-58033700) - Monzo warned investors that the investigation could have a negative impact on the digital bank.
+9. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
+10. [British Airways owner IAG to ramp up flights](https://www.bbc.co.uk/news/business-58024108) - IAG, which also owns Iberia, says it plans to run at 75% of its 2019 passenger capacity by the end of the year.
+11. [Eurozone out of recession after economy grows 2%](https://www.bbc.co.uk/news/business-58024112) - Data suggests all economies in the 19-country bloc expanded in the last three months.
+12. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.
+13. ['I was asked how often I use the toilet'](https://www.bbc.co.uk/news/business-58020735) - Disabled jobseekers have to overcome too many barriers, MPs say.
 14. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
 15. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
 16. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
