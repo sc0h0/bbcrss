@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 23:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 23:30:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Smaller firms hit by 'pingdemic' staff shortages]]></title>
+            <description><![CDATA[An ill-timed alert on the NHS Covid app can mean bar staff losing out on tip income at the weekend.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57997447</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57997447</guid>
+            <pubDate>Sun, 01 Aug 2021 23:15:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond Meat boss backs tax on meat consumption]]></title>
+            <description><![CDATA[Ethan Brown tells the BBC his firm wants to bring down the price of plant-based meat.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58032552</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58032552</guid>
+            <pubDate>Sun, 01 Aug 2021 23:29:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zoom settles US class action privacy lawsuit for $86m]]></title>
             <description><![CDATA[The video conferencing firm denies wrongdoing, but has agreed to boost security measures.]]></description>
@@ -86,18 +100,11 @@
             <pubDate>Sat, 31 Jul 2021 13:33:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amazon hit with $886m fine for alleged data law breach]]></title>
-            <description><![CDATA[The tech giant rejects claims it has broken European Union data protection laws.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58024116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58024116</guid>
-            <pubDate>Fri, 30 Jul 2021 19:38:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British Airways owner IAG to ramp up flights]]></title>
-            <description><![CDATA[IAG, which also owns Iberia, says it plans to run at 75% of its 2019 passenger capacity by the end of the year.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58024108</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58024108</guid>
-            <pubDate>Fri, 30 Jul 2021 08:50:22 GMT</pubDate>
+            <title><![CDATA[The fungus and bacteria tackling plastic waste]]></title>
+            <description><![CDATA[Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?]]></description>
+            <link>https://www.bbc.co.uk/news/business-57733178</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57733178</guid>
+            <pubDate>Thu, 29 Jul 2021 23:04:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['My bakery lets you take a bite out of celebs']]></title>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/business-57720504</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57720504</guid>
             <pubDate>Mon, 26 Jul 2021 23:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why remote working leaves us vulnerable to cyber-attacks]]></title>
-            <description><![CDATA[Experts warn working from home has led to complacency over security protocols]]></description>
-            <link>https://www.bbc.co.uk/news/business-57847652</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57847652</guid>
-            <pubDate>Sun, 25 Jul 2021 23:00:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
