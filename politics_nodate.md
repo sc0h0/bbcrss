@@ -1,6 +1,6 @@
 1. [Carrie Johnson and Boris Johnson expecting second child](https://www.bbc.co.uk/news/uk-58042146) - The couple are expecting a second child, months after a miscarriage left Carrie "heartbroken".
 2. [End self-isolation for double-jabbed sooner, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57962409) - Labour is calling on Boris Johnson to bring England in to line with Wales on quarantine measures.
-3. [Guli Frances-Dehqhani: The bishop tackling England's housing crisis](https://www.bbc.co.uk/news/uk-politics-57985577) - The Church of England owns a lot of land - Guli Frances-Dehqhani wants to use it for the common good.
+3. [Guli Francis-Dehqani: The bishop tackling England's housing crisis](https://www.bbc.co.uk/news/uk-politics-57985577) - The Church of England owns a lot of land - Guli Francis-Dehqani wants to use it for the common good.
 4. [Apsana Begum: Labour MP cleared of fraudulent housing claims](https://www.bbc.co.uk/news/uk-england-london-58024457) - Apsana Begum says the trial caused her "great distress" and damaged her reputation.
 5. [UK military opens first space command centre](https://www.bbc.co.uk/news/uk-politics-58029083) - The new operations centre will help the UK maintain a "battle-winning advantage", ministers say.
 6. [Migrant women and babies held in shocking conditions, MPs find](https://www.bbc.co.uk/news/uk-58019981) - A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.
