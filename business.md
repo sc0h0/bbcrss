@@ -1,4 +1,4 @@
-1. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - Sun, 01 Aug 2021 20:45:33 GMT - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
+1. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - Sun, 01 Aug 2021 22:34:26 GMT - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
 2. [Pay rise for Aldi lorry drivers amid shortage](https://www.bbc.co.uk/news/business-58047483) - Sun, 01 Aug 2021 12:33:21 GMT - The supermarket is the latest to offer incentives for drivers after disruption to supply chains.
 3. [Covid: UK hits 85m jab milestone amid discount push for young](https://www.bbc.co.uk/news/uk-58044088) - Sun, 01 Aug 2021 16:18:05 GMT - Cheap travel and takeaways will be offered in a bid to boost vaccine uptake among young people.
 4. [Covid: One in five firms plan job cuts as furlough tapers - survey](https://www.bbc.co.uk/news/uk-58043041) - Sat, 31 Jul 2021 23:10:52 GMT - From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.

@@ -1,5 +1,5 @@
 1. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - Sat, 31 Jul 2021 23:18:12 GMT - All of a sudden, WoW players are in revolt, and its competitors are having a boom.
-2. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - Sun, 01 Aug 2021 20:45:33 GMT - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
+2. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - Sun, 01 Aug 2021 22:34:26 GMT - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
 3. [Home car charger owners urged to install updates](https://www.bbc.co.uk/news/technology-58011014) - Sat, 31 Jul 2021 01:43:36 GMT - Security vulnerabilities in two domestic electric car chargers were discovered by researchers.
 4. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Sat, 31 Jul 2021 00:39:20 GMT - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
 5. [Facebook, Google expect jabs for office return](https://www.bbc.co.uk/news/technology-58027356) - Fri, 30 Jul 2021 14:29:08 GMT - The tech companies will require vaccination for returning in-office employees as Covid-19 cases rise in US
