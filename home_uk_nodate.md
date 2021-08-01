@@ -10,7 +10,7 @@
 10. [DaBaby dropped by US music festival Lollapalooza](https://www.bbc.co.uk/news/world-us-canada-58048728) - The Chicago festival is the latest to cut ties, after the rapper's derogatory comments about people with HIV.
 11. [Prosecutor Nazir Afzal: I couldn't defend a rapist](https://www.bbc.co.uk/news/uk-58047464) - A top solicitor tells how he quit as a defence lawyer after refusing to represent an alleged rapist.
 12. [Volunteer race marshal dies in Brands Hatch crash](https://www.bbc.co.uk/news/uk-england-kent-58043285) - The marshal died in an accident during a race at the track, leading to the cancellation of the event.
-13. [Northern Ireland's Covid-19 vaccine passport date extended](https://www.bbc.co.uk/news/uk-northern-ireland-58047786) - People travelling abroad from Northern Ireland on Tuesday can now apply for the certificate.
+13. [Covid-19: NI vaccination passport applications extended](https://www.bbc.co.uk/news/uk-northern-ireland-58047786) - People travelling abroad from NI up to and including 10 August can apply for a vaccine certificate.
 14. [Pre-surgery photoshoot 'was not pornographic'](https://www.bbc.co.uk/news/uk-england-derbyshire-57893530) - Alison Walker signed up for a boudoir photoshoot before having a double mastectomy.
 15. [Turkey wildfires: People flee as blazes spread in Marmaris and Bodrum](https://www.bbc.co.uk/news/world-58038753) - Some neighbourhoods have been evacuated after gusts of wind spread the flames into residential areas.
 16. [Tom Daley knits while watching Olympic springboard final](https://www.bbc.co.uk/news/uk-58047795) - Twitter is deluged with images of the Olympian knitting a "purple concoction" in the stands in Tokyo.
