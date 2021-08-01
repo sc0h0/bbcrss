@@ -1,5 +1,5 @@
 1. [Turkey: Foreign tourists evacuated as wildfires threaten resorts](https://www.bbc.co.uk/news/world-europe-58043912) - Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.
-2. [Turkey fires: Blazes threaten Marmaris and other coastal resorts](https://www.bbc.co.uk/news/world-58026832) - Villages and hotels are evacuated as firefighters attempt to put out dozens of blazes.
+2. [French boxer stages ring sit protest after loss](https://www.bbc.co.uk/sport/olympics/58045775) - Frenchman Mourad Aliev refuses to live the ring in the aftermath of his controversial loss to Great Britain's Frazer Clarke.
 3. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
 4. [Tokyo Olympics: Georgia athletes removed from Games after sightseeing trip](https://www.bbc.co.uk/sport/olympics/58039393) - Two Georgian silver medallists are told to leave the Olympic Games for taking a sightseeing trip in Tokyo.
 5. [Russia stops Cubans trying to enter EU on air beds](https://www.bbc.co.uk/news/world-europe-58033042) - Three Cubans caught trying to cross a river into Estonia are said to have been heading for Spain.

@@ -1,6 +1,6 @@
-1. [Bridgend river death: Police keep 'open mind' after boy, 5, dies](https://www.bbc.co.uk/news/uk-wales-58045998) - The boy was found after police were called to reports of a missing child on Saturday morning.
-2. [Cardiff Park Plaza fire: Four rescued from flat above hotel](https://www.bbc.co.uk/news/uk-wales-58039097) - The blaze happened in a private flat above Cardiff's Park Plaza Hotel, sparking an evacuation.
-3. [Police attend 'serious incident' at holiday park near Abergele](https://www.bbc.co.uk/news/uk-wales-58041681) - A spokesman for the holiday park says they are "shocked and saddened" by the "tragic incident".
+1. [Abergele holiday park incident: Girl, 15, dies in disturbance](https://www.bbc.co.uk/news/uk-wales-58048295) - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
+2. [Bridgend river death: Police keep 'open mind' after boy, 5, dies](https://www.bbc.co.uk/news/uk-wales-58045998) - The boy was found after police were called to reports of a missing child on Saturday morning.
+3. [Cardiff Park Plaza fire: Four rescued from flat above hotel](https://www.bbc.co.uk/news/uk-wales-58039097) - The blaze happened in a private flat above Cardiff's Park Plaza Hotel, sparking an evacuation.
 4. [Covid: Cardiff ice rink to reopen after 'frustrating' wait](https://www.bbc.co.uk/news/uk-wales-58010522) - One of Wales' two ice rinks is to open for the first time in 17 months as the other remains shut.
 5. [Covid: Hope for in-person National Eisteddfod in 2022](https://www.bbc.co.uk/news/uk-wales-58047605) - Organisers say it will have to comply with Covid rules after two years of online festivals.
 6. [Tokyo Olympics: Welsh swimmer Daniel Jervis eyes British record after finishing fifth](https://www.bbc.co.uk/sport/av/olympics/58046822) - Daniel Jervis believes he will soon break fellow Welshman David Davies' British record for the 1500m freestyle after finishing fifth at the Tokyo Olympics.
