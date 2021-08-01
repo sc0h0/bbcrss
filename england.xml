@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 08:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 09:29:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Sun, 01 Aug 2021 07:06:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hertfordshire church vandalised 10 days after reopening]]></title>
+            <description><![CDATA[Windows are smashed, powder fire extinguishers let off and bleach thrown over the floor and altar.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58041864</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58041864</guid>
+            <pubDate>Sun, 01 Aug 2021 09:26:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Escobar pub accused of glorifying drug lord's reign of terror]]></title>
             <description><![CDATA[Colombians in Nottingham say they are disgusted at a new bar that shares the drug lord's surname.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58039946</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58039946</guid>
             <pubDate>Sat, 31 Jul 2021 13:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hastings sewage leak: Bulverhythe hut owner 'devastated']]></title>
-            <description><![CDATA[Repairs to the very large sewage pipe are ongoing, as is the clean up of the flooded beach front.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-58039801</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58039801</guid>
-            <pubDate>Sat, 31 Jul 2021 14:53:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
@@ -168,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-essex-58031486</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-58031486</guid>
             <pubDate>Fri, 30 Jul 2021 14:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hastings sewage leak: Bulverhythe hut owner 'devastated']]></title>
+            <description><![CDATA[Repairs to the very large sewage pipe are ongoing, as is the clean up of the flooded beach front.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-58039801</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58039801</guid>
+            <pubDate>Sat, 31 Jul 2021 14:53:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nottinghamshire Victorian signal box reopens as museum]]></title>

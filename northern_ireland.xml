@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 09:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 09:29:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Sun, 01 Aug 2021 05:36:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Eight more Covid-linked deaths and 1,177 new cases]]></title>
-            <description><![CDATA[The total number of deaths with Covid-19 in Northern Ireland since the start of the pandemic is 2,189.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58041432</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58041432</guid>
-            <pubDate>Sat, 31 Jul 2021 15:53:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Walker and McIlroy agonisingly miss out on medals]]></title>
             <description><![CDATA[Ireland golfer Rory McIlroy and boxer Kurt Walker fall narrowly short of securing bronze medals on day nine of the Tokyo Olympics]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58045617</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045617</guid>
             <pubDate>Sun, 01 Aug 2021 08:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Eight more Covid-linked deaths and 1,177 new cases]]></title>
+            <description><![CDATA[The total number of deaths with Covid-19 in Northern Ireland since the start of the pandemic is 2,189.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58041432</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58041432</guid>
+            <pubDate>Sat, 31 Jul 2021 15:53:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tyrone earn dramatic Ulster Final win over Monaghan]]></title>
