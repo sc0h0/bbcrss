@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 13:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 13:32:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Lamont Marcell Jacobs claims shock 100m gold]]></title>
+            <description><![CDATA[Italy's Lamont Marcell Jacobs claims a shock gold in the Olympic 100m final, after Great Britain's Zharnel Hughes is disqualified for a false start.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58046880</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58046880</guid>
+            <pubDate>Sun, 01 Aug 2021 13:31:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Whitlock fires Team GB gold medal tally to 10]]></title>
             <description><![CDATA[Charlotte Worthington wins a dramatic BMX park freestyle Olympic gold as Max Whitlock retains pommel horse title.]]></description>
@@ -41,7 +48,7 @@
             <description><![CDATA[Krystsina Tsimanouskaya tells Reuters she will not go to Belarus after she is taken to Tokyo airport.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58046183</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58046183</guid>
-            <pubDate>Sun, 01 Aug 2021 13:05:13 GMT</pubDate>
+            <pubDate>Sun, 01 Aug 2021 13:20:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turkey: Foreign tourists evacuated as wildfires threaten resorts]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58048295</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58048295</guid>
             <pubDate>Sun, 01 Aug 2021 12:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Taliban continue attacks on three major cities]]></title>
-            <description><![CDATA[Fears rise of a humanitarian crisis as Islamist militants seek to take their first provincial capital.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58040141</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58040141</guid>
-            <pubDate>Sun, 01 Aug 2021 07:24:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Erotic, maybe a bit sexy, but not pornographic']]></title>
@@ -212,13 +212,6 @@
             <pubDate>Fri, 30 Jul 2021 22:00:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Italy's Jacobs wins shock 100m gold as GB's Hughes is disqualified]]></title>
-            <description><![CDATA[Italy's Lamont Marcell Jacobs claims a shock gold in the Olympic 100m final, after Great Britain's Zharnel Hughes is disqualified for a false start.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58046880</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58046880</guid>
-            <pubDate>Sun, 01 Aug 2021 13:05:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Max Whitlock defends Olympic pommel horse title]]></title>
             <description><![CDATA[Great Britain's Max Whitlock retains his Olympic pommel horse title with a flawless routine in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58046816</link>
@@ -233,11 +226,11 @@
             <pubDate>Sun, 01 Aug 2021 04:10:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Brilliant BMX, unbeatable Dressel and more boxing success in day nine early best bits]]></title>
-            <description><![CDATA[Watch the best moments from the early events on day nine at the Tokyo Olympics, including dramatic BMX finals and more swimming and boxing success for Great Britain.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58046088</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58046088</guid>
-            <pubDate>Sun, 01 Aug 2021 06:58:14 GMT</pubDate>
+            <title><![CDATA[BMX freestyle: No-hands tricks, history-making flips and GB gold - best skills]]></title>
+            <description><![CDATA[Watch the best tricks from the BMX freestyle finals including a no-hands trick from Logan Martin of Team Australia in the men's final and a history-making 360-degree backflip from British rider Charlotte Worthington who won gold in dramatic fashion in the women's final.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58048385</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58048385</guid>
+            <pubDate>Sun, 01 Aug 2021 13:24:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Matt Dawson column: British and Irish Lions crying out for creative player]]></title>
@@ -245,6 +238,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/58043808</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58043808</guid>
             <pubDate>Sun, 01 Aug 2021 08:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['The contest of the summer' - Fired-up Brunt gets better of Verma again as Rockets beat Phoenix]]></title>
+            <description><![CDATA[Katherine Brunt again gets the better of India's Shafali Verma as Trent Rockets beat Birmingham Phoenix in the women's Hundred.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58047443</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58047443</guid>
+            <pubDate>Sun, 01 Aug 2021 13:00:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Max Whitlock defends Olympic pommel horse title]]></title>
