@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 10:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 11:09:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58047221</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58047221</guid>
             <pubDate>Sun, 01 Aug 2021 09:59:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pedestrian dies after being hit by car on A90 near Boddam]]></title>
+            <description><![CDATA[The 31-year-old man was struck by a white VW Golf near Boddam in Aberdeenshire at about 00:05 on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58047825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58047825</guid>
+            <pubDate>Sun, 01 Aug 2021 10:59:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Residents evacuated after Glasgow tower block fire]]></title>
@@ -77,27 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58040559</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58040559</guid>
             <pubDate>Sat, 31 Jul 2021 11:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dawson's delight as she wins Olympic swimming gold]]></title>
-            <description><![CDATA[Kathleen Dawson becomes the first Scottish woman in nearly 70 years to win an Olympic medal in the pool.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58040853</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58040853</guid>
-            <pubDate>Sat, 31 Jul 2021 16:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Wilful' house fire in Glasgow being probed by police]]></title>
-            <description><![CDATA[The blaze in Glasgow city centre, which saw residents evacuated but nobody injured, is under investigation.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58040856</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58040856</guid>
-            <pubDate>Sat, 31 Jul 2021 16:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's seventh drowning victim in a week dies in hospital]]></title>
-            <description><![CDATA[Aman Sharma, 34, was pulled from Loch Lubnaig on Sunday afternoon but never regained consciousness.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58026262</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58026262</guid>
-            <pubDate>Fri, 30 Jul 2021 16:54:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flexibility allows Edinburgh Art Festival to flourish]]></title>
@@ -233,18 +219,18 @@
             <pubDate>Sun, 01 Aug 2021 10:28:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Listen: Off the Ball with guest Daniel Gray]]></title>
+            <description><![CDATA[Listen to Off the Ball on BBC Radio Scotland as author Daniel Gray joins Tam Cowan and guest presenter Ray Bradshaw.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58040472</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58040472</guid>
+            <pubDate>Sun, 01 Aug 2021 11:00:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Gossip: Rangers, Celtic, Hearts, Hibernian, SPFL sponsorship]]></title>
             <description><![CDATA[Rangers and the SPFL in row over sponsorship deal, Celtic striker not sure about proposed move to England...]]></description>
             <link>https://www.bbc.co.uk/sport/football/58046348</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58046348</guid>
             <pubDate>Sun, 01 Aug 2021 07:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Premiership: Things to watch out for on opening weekend]]></title>
-            <description><![CDATA[From new signings to novice managers, here's what to watch out for as a new Scottish Premiership season begins.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57995962</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57995962</guid>
-            <pubDate>Sat, 31 Jul 2021 20:25:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
