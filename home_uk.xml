@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 12:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 13:18:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Sun, 01 Aug 2021 12:51:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turkey: Foreign tourists evacuated as wildfires threaten resorts]]></title>
-            <description><![CDATA[Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58043912</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58043912</guid>
-            <pubDate>Sun, 01 Aug 2021 04:37:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[‘Lenders won’t touch us - my home’s worth nothing']]></title>
             <description><![CDATA[Campaigners say government attempts to unlock parts of the property market paralysed by the cladding crisis have stalled.]]></description>
             <link>https://www.bbc.co.uk/news/business-58031545</link>
@@ -44,18 +37,25 @@
             <pubDate>Sat, 31 Jul 2021 23:14:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Belarus Olympics: Krystsina Tsimanouskaya refusing to fly home]]></title>
+            <description><![CDATA[Krystsina Tsimanouskaya tells Reuters she will not go to Belarus after she is taken to Tokyo airport.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58046183</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58046183</guid>
+            <pubDate>Sun, 01 Aug 2021 13:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turkey: Foreign tourists evacuated as wildfires threaten resorts]]></title>
+            <description><![CDATA[Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58043912</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58043912</guid>
+            <pubDate>Sun, 01 Aug 2021 04:37:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sky News Australia barred for week by YouTube over Covid misinformation]]></title>
             <description><![CDATA[The digital giant bans the channel from uploading new content for a week over misinformation breaches.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58045787</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58045787</guid>
             <pubDate>Sun, 01 Aug 2021 10:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belarus Olympics: Krystsina Tsimanouskaya refusing to fly home]]></title>
-            <description><![CDATA[Krystsina Tsimanouskaya tells Reuters she will not go to Belarus after she is taken to Tokyo airport.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58046183</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58046183</guid>
-            <pubDate>Sun, 01 Aug 2021 12:54:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Volunteer race marshal dies in Brands Hatch crash]]></title>
@@ -86,13 +86,6 @@
             <pubDate>Sun, 01 Aug 2021 12:06:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New Zealand Dawn Raids: Jacinda Ardern formally apologises]]></title>
-            <description><![CDATA[Jacinda Ardern says Pacific Islander communities still "suffer and carry the scars" from the policy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58046178</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58046178</guid>
-            <pubDate>Sun, 01 Aug 2021 08:27:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Taliban continue attacks on three major cities]]></title>
             <description><![CDATA[Fears rise of a humanitarian crisis as Islamist militants seek to take their first provincial capital.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58040141</link>
@@ -100,18 +93,25 @@
             <pubDate>Sun, 01 Aug 2021 07:24:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Your pictures on the theme of 'making tracks']]></title>
-            <description><![CDATA[A selection of striking images from our readers around the world.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-57982618</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57982618</guid>
-            <pubDate>Sat, 31 Jul 2021 23:19:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Erotic, maybe a bit sexy, but not pornographic']]></title>
             <description><![CDATA[Alison Walker signed up for a boudoir photoshoot before having a double mastectomy.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-derbyshire-57893530</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-57893530</guid>
             <pubDate>Sun, 01 Aug 2021 06:59:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Daley knits while watching Olympic springboard final]]></title>
+            <description><![CDATA[Twitter is deluged with images of the Olympian knitting a "purple concoction" in the stands in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58047795</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58047795</guid>
+            <pubDate>Sun, 01 Aug 2021 13:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'making tracks']]></title>
+            <description><![CDATA[A selection of striking images from our readers around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-57982618</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57982618</guid>
+            <pubDate>Sat, 31 Jul 2021 23:19:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The autistic-friendly toy shop: 'We have got this']]></title>
@@ -154,27 +154,6 @@
             <link>https://www.bbc.co.uk/news/in-pictures-58025592</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-58025592</guid>
             <pubDate>Fri, 30 Jul 2021 23:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Declan Brooks 'won't ever get over' double-backflip BMX crash]]></title>
-            <description><![CDATA[Declan Brooks was knocked unconscious in a crash that almost cost him his BMX place at Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58016999</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58016999</guid>
-            <pubDate>Fri, 30 Jul 2021 23:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Bennerley Viaduct has Facebook followers in Germany']]></title>
-            <description><![CDATA[The Victorian rail bridge was almost demolished but now has fans all over the world.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-57399727</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-57399727</guid>
-            <pubDate>Fri, 30 Jul 2021 23:09:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leg breaks to crowdfunding - Shriever's gold medal story]]></title>
-            <description><![CDATA[Bethany Shriever lost funding in 2017. Four years and one crowdfunding campaign later, she's BMX Olympic champion.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58028734</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58028734</guid>
-            <pubDate>Fri, 30 Jul 2021 16:52:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Laurel Hubbard: The reluctant history-maker at the centre of sport's transgender debate]]></title>
@@ -233,6 +212,13 @@
             <pubDate>Fri, 30 Jul 2021 22:00:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Italy's Jacobs wins shock 100m gold as GB's Hughes is disqualified]]></title>
+            <description><![CDATA[Italy's Lamont Marcell Jacobs claims a shock gold in the Olympic 100m final, after Great Britain's Zharnel Hughes is disqualified for a false start.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58046880</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58046880</guid>
+            <pubDate>Sun, 01 Aug 2021 13:05:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Max Whitlock defends Olympic pommel horse title]]></title>
             <description><![CDATA[Great Britain's Max Whitlock retains his Olympic pommel horse title with a flawless routine in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58046816</link>
@@ -247,13 +233,6 @@
             <pubDate>Sun, 01 Aug 2021 04:10:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Matt Dawson column: British and Irish Lions crying out for creative player]]></title>
-            <description><![CDATA[Former Lion Matt Dawson says the tour is crying out for a player to create a moment that turns the tide.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58043808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58043808</guid>
-            <pubDate>Sun, 01 Aug 2021 08:56:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Brilliant BMX, unbeatable Dressel and more boxing success in day nine early best bits]]></title>
             <description><![CDATA[Watch the best moments from the early events on day nine at the Tokyo Olympics, including dramatic BMX finals and more swimming and boxing success for Great Britain.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58046088</link>
@@ -261,11 +240,11 @@
             <pubDate>Sun, 01 Aug 2021 06:58:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['The contest of the summer' - Fired-up Brunt gets better of Verma again as Rockets beat Phoenix]]></title>
-            <description><![CDATA[Katherine Brunt again gets the better of India's Shafali Verma as Trent Rockets beat Birmingham Phoenix in the women's Hundred.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58047443</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58047443</guid>
-            <pubDate>Sun, 01 Aug 2021 12:54:45 GMT</pubDate>
+            <title><![CDATA[Matt Dawson column: British and Irish Lions crying out for creative player]]></title>
+            <description><![CDATA[Former Lion Matt Dawson says the tour is crying out for a player to create a moment that turns the tide.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58043808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58043808</guid>
+            <pubDate>Sun, 01 Aug 2021 08:56:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Max Whitlock defends Olympic pommel horse title]]></title>
@@ -317,34 +296,6 @@
             <pubDate>Fri, 30 Jul 2021 11:54:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain eventers in strong medal positions after cross-country]]></title>
-            <description><![CDATA[Oliver Townend leads the individual eventing standings at the Olympics after the cross-country phase as the GB team retain top spot.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58045607</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045607</guid>
-            <pubDate>Sun, 01 Aug 2021 11:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Ben Whittaker into final as Frazer Clarke beats Mourad Aliev]]></title>
-            <description><![CDATA[Ben Whittaker will fight for Olympic boxing gold, while fellow Briton Frazer Clarke lands a controversial victory in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58044571</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044571</guid>
-            <pubDate>Sun, 01 Aug 2021 05:40:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Caeleb Dressel wins his fourth gold of the games in 50m freestyle]]></title>
-            <description><![CDATA[Watch USA's Caeleb Dressel win the 50m freestyle "by miles" to claim his fourth gold medal of the Tokyo Olympic Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58044510</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58044510</guid>
-            <pubDate>Sun, 01 Aug 2021 02:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith reveals she tore her hamstring at British Olympic trials]]></title>
-            <description><![CDATA[Team GB's Dina Asher-Smith tells BBC Sport she tore her hamstring during the British Olympic trials after she failed to qualify for the Tokyo Olympics 100m final and pulled out of the 200m.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58040110</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58040110</guid>
-            <pubDate>Sat, 31 Jul 2021 12:19:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>
             <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
@@ -357,41 +308,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58037826</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58037826</guid>
             <pubDate>Sat, 31 Jul 2021 09:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Triathlon mixed relay gold for Learmonth, Brownlee, Taylor-Brown & Yee]]></title>
-            <description><![CDATA[Great Britain's Jessica Learmonth, Jonny Brownlee, Georgia Taylor-Brown and Alex Yee produce a superb performance to win gold in the first Olympic triathlon mixed relay.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58035243</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58035243</guid>
-            <pubDate>Sat, 31 Jul 2021 00:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simone Biles: Tokyo Olympics gymnast withdraws from two more events]]></title>
-            <description><![CDATA[American Simone Biles pulls out of the vault and uneven bars gymnastics finals at the Tokyo 2020 Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58037479</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037479</guid>
-            <pubDate>Sat, 31 Jul 2021 02:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GB claim mixed medley swimming relay gold]]></title>
-            <description><![CDATA[Great Britain secure a fourth swimming gold at an Olympics for the first time in 113 years by winning the inaugural 4x100m mixed medley relay in a world-record time.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58037439</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037439</guid>
-            <pubDate>Sat, 31 Jul 2021 03:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Dina Asher-Smith pulls out of 200m after hamstring tear]]></title>
-            <description><![CDATA[Great Britain's world champion Dina Asher-Smith pulls out of the Olympic 200m after revealing she tore her hamstring earlier this month.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58040588</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58040588</guid>
-            <pubDate>Sat, 31 Jul 2021 14:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: The medal winners' flowers that pay tribute to 2011 disaster]]></title>
-            <description><![CDATA[More than 5,000 bouquets are being handed to athletes at the Olympic and Paralympic Games - and have a special significance, with flowers from areas devastated by a 2011 earthquake and tsunami.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58038026</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58038026</guid>
-            <pubDate>Sat, 31 Jul 2021 09:42:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Medal table - which country has won most golds?]]></title>
