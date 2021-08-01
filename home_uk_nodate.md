@@ -6,10 +6,10 @@
 6. [Volunteer race marshal dies in Brands Hatch crash](https://www.bbc.co.uk/news/uk-england-kent-58043285) - The marshal died after an accident during a race at the track, leading to the cancellation of the event.
 7. [Bridgend river death: Police keep 'open mind' after boy, 5, dies](https://www.bbc.co.uk/news/uk-wales-58045998) - The boy was found after police were called to reports of a missing child on Saturday morning.
 8. [Covid: One in five firms plan job cuts as furlough tapers - survey](https://www.bbc.co.uk/news/uk-58043041) - From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.
-9. [Heatwave risk from plans to convert shops to homes](https://www.bbc.co.uk/news/business-58029653) - Turning more commercial property into homes raises fears of sub-standard conditions, says a report.
-10. [Afghanistan: Taliban continue attacks on three major cities](https://www.bbc.co.uk/news/world-asia-58040141) - Fears rise of a humanitarian crisis as Islamist militants seek to take their first provincial capital.
-11. [Anti-eviction lawmaker camps overnight on US Capitol steps](https://www.bbc.co.uk/news/world-us-canada-58043908) - Cori Bush fears millions of US tenants could be at risk as a Covid-related eviction freeze expires.
-12. [Britain's Wood shocks China's Xu to win WBA title](https://www.bbc.co.uk/sport/boxing/58043778) - Britain's Leigh Wood beats China's Xu Can via 12th round stoppage to claim the WBA featherweight title
+9. [New Zealand Dawn Raids: Jacinda Ardern formally apologises](https://www.bbc.co.uk/news/world-asia-58046178) - Jacinda Ardern says Pacific Islander communities still "suffer and carry the scars" from the policy.
+10. [Heatwave risk from plans to convert shops to homes](https://www.bbc.co.uk/news/business-58029653) - Turning more commercial property into homes raises fears of sub-standard conditions, says a report.
+11. [Afghanistan: Taliban continue attacks on three major cities](https://www.bbc.co.uk/news/world-asia-58040141) - Fears rise of a humanitarian crisis as Islamist militants seek to take their first provincial capital.
+12. [Anti-eviction lawmaker camps overnight on US Capitol steps](https://www.bbc.co.uk/news/world-us-canada-58043908) - Cori Bush fears millions of US tenants could be at risk as a Covid-related eviction freeze expires.
 13. [The Papers: 'Kebabs for jabs' and 'baby no 2' for PM and Carrie](https://www.bbc.co.uk/news/blogs-the-papers-58043872) - Several papers report that Boris Johnson and wife Carrie are expecting their second child together.
 14. [Your pictures on the theme of 'making tracks'](https://www.bbc.co.uk/news/in-pictures-57982618) - A selection of striking images from our readers around the world.
 15. [The autistic-friendly toy shop: 'We have got this'](https://www.bbc.co.uk/news/uk-england-58026672) - Retail worker Romilly, who is autistic, wants to create a comfortable space for other autistic people to shop in.
