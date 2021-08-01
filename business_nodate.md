@@ -1,20 +1,18 @@
-1. [Pay rise for Aldi lorry drivers amid shortage](https://www.bbc.co.uk/news/business-58047483) - The supermarket is the latest to offer incentives for drivers after disruption to supply chains.
-2. [Covid: UK hits 85m jab milestone amid discount push for young](https://www.bbc.co.uk/news/uk-58044088) - Cheap travel and takeaways will be offered in a bid to boost vaccine uptake among young people.
-3. [Covid: One in five firms plan job cuts as furlough tapers - survey](https://www.bbc.co.uk/news/uk-58043041) - From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.
-4. [Heatwave risk from plans to convert shops to homes](https://www.bbc.co.uk/news/business-58029653) - Turning more commercial property into homes raises fears of sub-standard conditions, says a report.
-5. [‘Lenders won’t touch us - my home’s worth nothing'](https://www.bbc.co.uk/news/business-58031545) - Campaigners say government attempts to unlock parts of the property market paralysed by the cladding crisis have stalled.
-6. [Employee shortages: Where have all the workers gone?](https://www.bbc.co.uk/news/business-58014256) - From hospitality to road haulage, firms say they can't get staff. So are employees now calling the shots?
-7. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
-8. ['Covid vaccine scammers nearly got me'](https://www.bbc.co.uk/news/business-58029113) - Sioban Moore escaped disaster by a whisker after receiving a fake email inviting her for a jab.
-9. [Monzo bank in money laundering rules investigation](https://www.bbc.co.uk/news/business-58033700) - Monzo warned investors that the investigation could have a negative impact on the digital bank.
-10. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
-11. [British Airways owner IAG to ramp up flights](https://www.bbc.co.uk/news/business-58024108) - IAG, which also owns Iberia, says it plans to run at 75% of its 2019 passenger capacity by the end of the year.
-12. [Eurozone out of recession after economy grows 2%](https://www.bbc.co.uk/news/business-58024112) - Data suggests all economies in the 19-country bloc expanded in the last three months.
-13. [Dairy giant Arla says driver crisis hitting milk supply](https://www.bbc.co.uk/news/business-58012884) - Supermarket supplier Arla Foods says a lorry driver shortage has forced it to cut deliveries by up to 25%.
-14. ['I was asked how often I use the toilet'](https://www.bbc.co.uk/news/business-58020735) - Disabled jobseekers have to overcome too many barriers, MPs say.
-15. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
-16. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
-17. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
-18. [CEO Secrets: The son who hired his father and sister](https://www.bbc.co.uk/news/business-57968798) - Ross Testa explains why he hired his sister and then his father for his social media business.
-19. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
-20. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
+1. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
+2. [Pay rise for Aldi lorry drivers amid shortage](https://www.bbc.co.uk/news/business-58047483) - The supermarket is the latest to offer incentives for drivers after disruption to supply chains.
+3. [Covid: UK hits 85m jab milestone amid discount push for young](https://www.bbc.co.uk/news/uk-58044088) - Cheap travel and takeaways will be offered in a bid to boost vaccine uptake among young people.
+4. [Covid: One in five firms plan job cuts as furlough tapers - survey](https://www.bbc.co.uk/news/uk-58043041) - From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.
+5. [Heatwave risk from plans to convert shops to homes](https://www.bbc.co.uk/news/business-58029653) - Turning more commercial property into homes raises fears of sub-standard conditions, says a report.
+6. [‘Lenders won’t touch us - my home’s worth nothing'](https://www.bbc.co.uk/news/business-58031545) - Campaigners say government attempts to unlock parts of the property market paralysed by the cladding crisis have stalled.
+7. [Employee shortages: Where have all the workers gone?](https://www.bbc.co.uk/news/business-58014256) - From hospitality to road haulage, firms say they can't get staff. So are employees now calling the shots?
+8. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
+9. ['Covid vaccine scammers nearly got me'](https://www.bbc.co.uk/news/business-58029113) - Sioban Moore escaped disaster by a whisker after receiving a fake email inviting her for a jab.
+10. [Monzo bank in money laundering rules investigation](https://www.bbc.co.uk/news/business-58033700) - Monzo warned investors that the investigation could have a negative impact on the digital bank.
+11. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
+12. [British Airways owner IAG to ramp up flights](https://www.bbc.co.uk/news/business-58024108) - IAG, which also owns Iberia, says it plans to run at 75% of its 2019 passenger capacity by the end of the year.
+13. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
+14. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
+15. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
+16. [CEO Secrets: The son who hired his father and sister](https://www.bbc.co.uk/news/business-57968798) - Ross Testa explains why he hired his sister and then his father for his social media business.
+17. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
+18. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
