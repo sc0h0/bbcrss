@@ -1,5 +1,5 @@
 1. [Turkey: Foreign tourists evacuated as wildfires threaten resorts](https://www.bbc.co.uk/news/world-europe-58043912) - Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.
-2. [Belarus Olympics: Krystsina Tsimanouskaya refusing to fly home](https://www.bbc.co.uk/news/world-europe-58046183) - Krystsina Tsimanouskaya tells Reuters she will not go to Belarus after she is taken to Tokyo airport.
+2. [Belarus Olympics: Krystsina Tsimanouskaya refusing to fly home](https://www.bbc.co.uk/news/world-europe-58046183) - Krystsina Tsimanouskaya complained about team coaches after which she was taken to the airport.
 3. [Tokyo Olympics: Lamont Marcell Jacobs claims shock 100m gold](https://www.bbc.co.uk/sport/olympics/58046880) - Italy's Lamont Marcell Jacobs claims a shock gold in the Olympic 100m final, after Great Britain's Zharnel Hughes is disqualified for a false start.
 4. [French boxer stages ring sit protest after loss](https://www.bbc.co.uk/sport/olympics/58045775) - Frenchman Mourad Aliev refuses to live the ring in the aftermath of his controversial loss to Great Britain's Frazer Clarke.
 5. [Amazon hit with $886m fine for alleged data law breach](https://www.bbc.co.uk/news/business-58024116) - The tech giant rejects claims it has broken European Union data protection laws.
