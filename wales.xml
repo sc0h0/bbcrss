@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 06:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 06:47:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Cardiff Park Plaza fire: Four rescued from flat above hotel]]></title>
+            <description><![CDATA[The blaze happened in a private flat above Cardiff's Park Plaza Hotel, sparking an evacuation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58039097</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58039097</guid>
+            <pubDate>Sun, 01 Aug 2021 06:35:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Boy, five, dies after being found in Ogmore River, Bridgend]]></title>
             <description><![CDATA[The discovery was made after police were called to a report of a missing child.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58018051</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58018051</guid>
             <pubDate>Fri, 30 Jul 2021 22:33:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardiff: Murder arrest after sudden death of woman]]></title>
-            <description><![CDATA[Police say they are not looking for anyone else in connection with the woman's death.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58029216</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58029216</guid>
-            <pubDate>Fri, 30 Jul 2021 14:13:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mobo: Welsh music of black origin project started to 'help give back']]></title>
