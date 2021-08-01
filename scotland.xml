@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 13:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 13:39:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58044350</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044350</guid>
             <pubDate>Sun, 01 Aug 2021 03:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Sun, 01 Aug 2021 13:36:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alex Salmond trial blogger hands himself in to police]]></title>
@@ -44,13 +51,6 @@
             <pubDate>Sun, 01 Aug 2021 10:59:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: NHS pressures and drug treatment cutbacks]]></title>
-            <description><![CDATA[The expected impact of winter on the NHS and cuts to a drug addict support scheme make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58046343</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58046343</guid>
-            <pubDate>Sun, 01 Aug 2021 08:51:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Adopting the recovery position]]></title>
             <description><![CDATA[Banks are taking money out of their bad loan pots and larger companies in Scotland are reflecting activity overseas.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58047221</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58046347</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58046347</guid>
             <pubDate>Sun, 01 Aug 2021 09:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: NHS pressures and drug treatment cutbacks]]></title>
+            <description><![CDATA[The expected impact of winter on the NHS and cuts to a drug addict support scheme make the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58046343</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58046343</guid>
+            <pubDate>Sun, 01 Aug 2021 08:51:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Digital vaccine certificates to replace paper versions]]></title>
@@ -91,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58034362</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58034362</guid>
             <pubDate>Fri, 30 Jul 2021 22:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cyclist in critical condition after crash with car near Aviemore]]></title>
-            <description><![CDATA[The 18-year-old was riding on the A95 near Aviemore when he was involved in a collision with a red Peugeot 307.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58040559</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58040559</guid>
-            <pubDate>Sat, 31 Jul 2021 11:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Sat, 31 Jul 2021 17:32:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
