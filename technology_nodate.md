@@ -1,14 +1,14 @@
 1. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - All of a sudden, WoW players are in revolt, and its competitors are having a boom.
-2. [Home car charger owners urged to install updates](https://www.bbc.co.uk/news/technology-58011014) - Security vulnerabilities in two domestic electric car chargers were discovered by researchers.
-3. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
-4. [Facebook, Google expect jabs for office return](https://www.bbc.co.uk/news/technology-58027356) - The tech companies will require vaccination for returning in-office employees as Covid-19 cases rise in US
-5. [A US company has turned a former coal plant into a gas-fired Bitcoin mine](https://www.bbc.co.uk/news/technology-58020010) - Environmentalists have criticised the gas-fired mine but the company says it offsets its emissions.
-6. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
-7. [Amazon predicts slower sales growth as Covid boost eases](https://www.bbc.co.uk/news/business-58020895) - The tech giant says third quarter sales growth will be slower as customers return to physical shops.
-8. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
-9. [Google to ban sugar-daddy apps from Play Store](https://www.bbc.co.uk/news/technology-58011672) - Apps focused on "compensated sexual relationships" will be prohibited from 1 September.
-10. [Fresh warning over rip-off locator forms on Google](https://www.bbc.co.uk/news/technology-58001205) - 'Devious' sites which charge money for a free passenger locator form top search engine results.
-11. [Older Kindles may lose internet connection, Amazon warns](https://www.bbc.co.uk/news/technology-58013362) - Amazon tells customers older Kindles might lose their ability to connect online.
+2. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
+3. [Home car charger owners urged to install updates](https://www.bbc.co.uk/news/technology-58011014) - Security vulnerabilities in two domestic electric car chargers were discovered by researchers.
+4. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
+5. [Facebook, Google expect jabs for office return](https://www.bbc.co.uk/news/technology-58027356) - The tech companies will require vaccination for returning in-office employees as Covid-19 cases rise in US
+6. [A US company has turned a former coal plant into a gas-fired Bitcoin mine](https://www.bbc.co.uk/news/technology-58020010) - Environmentalists have criticised the gas-fired mine but the company says it offsets its emissions.
+7. [NHS Covid-19 app pings rise by over 70,000 to new record](https://www.bbc.co.uk/news/technology-57970603) - The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.
+8. [Amazon predicts slower sales growth as Covid boost eases](https://www.bbc.co.uk/news/business-58020895) - The tech giant says third quarter sales growth will be slower as customers return to physical shops.
+9. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
+10. [Google to ban sugar-daddy apps from Play Store](https://www.bbc.co.uk/news/technology-58011672) - Apps focused on "compensated sexual relationships" will be prohibited from 1 September.
+11. [Fresh warning over rip-off locator forms on Google](https://www.bbc.co.uk/news/technology-58001205) - 'Devious' sites which charge money for a free passenger locator form top search engine results.
 12. [Untethered bi-pedal robot runs 5km and other tech news](https://www.bbc.co.uk/news/technology-58014320) - Jen Copestake looks at some of the best technology news stories of the week.
 13. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
 14. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
