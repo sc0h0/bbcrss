@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 12:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 12:46:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[Charlotte Worthington wins a dramatic BMX park freestyle Olympic gold as Max Whitlock retains pommel horse title.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58045115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045115</guid>
-            <pubDate>Sun, 01 Aug 2021 11:20:12 GMT</pubDate>
+            <pubDate>Sun, 01 Aug 2021 12:41:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bristol teenager in "unbearable" pain due to eczema]]></title>
@@ -58,6 +58,13 @@
             <pubDate>Sun, 01 Aug 2021 11:08:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Eggborough Power Station: Four towers demolished]]></title>
+            <description><![CDATA[The coal-fired station at Eggborough stopped production in March 2018 with the loss of 170 jobs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58047126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58047126</guid>
+            <pubDate>Sun, 01 Aug 2021 12:44:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man dies after late-night attack in Birmingham city centre]]></title>
             <description><![CDATA[The 33-year-old died in hospital after being assaulted in Birmingham city centre.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58042704</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-57999456</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-57999456</guid>
             <pubDate>Sun, 01 Aug 2021 07:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man dies and two ill after taking drugs at Tottenham nightclub]]></title>
-            <description><![CDATA[Police have urged anyone who bought drugs in or near the club to dispose of them immediately.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58040799</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58040799</guid>
-            <pubDate>Sat, 31 Jul 2021 16:30:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hertfordshire church vandalised 10 days after reopening]]></title>
@@ -191,6 +191,13 @@
             <pubDate>Fri, 30 Jul 2021 14:40:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man dies and two ill after taking drugs at Tottenham nightclub]]></title>
+            <description><![CDATA[Police have urged anyone who bought drugs in or near the club to dispose of them immediately.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58040799</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58040799</guid>
+            <pubDate>Sat, 31 Jul 2021 16:30:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[High Wycombe: Murder arrest after man found dead in street]]></title>
             <description><![CDATA[Police officers found the victim in Micklefield Road, High Wycombe in the early hours of Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58039946</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-58039581</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58039581</guid>
             <pubDate>Sat, 31 Jul 2021 13:47:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Escobar pub accused of glorifying drug lord's reign of terror]]></title>
-            <description><![CDATA[Colombians in Nottingham say they are disgusted at a new bar that shares the drug lord's surname.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-57940282</guid>
-            <pubDate>Sat, 31 Jul 2021 07:35:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hastings sewage leak: Bulverhythe hut owner 'devastated']]></title>
@@ -252,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58044570</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044570</guid>
             <pubDate>Sun, 01 Aug 2021 04:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheffield Wednesday v Huddersfield Town]]></title>
-            <description><![CDATA[Live coverage of Sunday's Carabao Cup game between Sheffield Wednesday and Huddersfield Town.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57958673</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57958673</guid>
-            <pubDate>Sun, 01 Aug 2021 11:30:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

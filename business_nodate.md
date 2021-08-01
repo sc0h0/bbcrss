@@ -1,4 +1,4 @@
-1. [Pay rise for Aldi lorry drivers amid shortage](https://www.bbc.co.uk/news/business-58047483) - The supermarket is the latest to offer incentives to attract HGV drivers amid an industry-wide shortage.
+1. [Pay rise for Aldi lorry drivers amid shortage](https://www.bbc.co.uk/news/business-58047483) - The supermarket is the latest to offer incentives for drivers after disruption to supply chains.
 2. [Covid: Taxi and food discounts offer to boost youth vaccine uptake](https://www.bbc.co.uk/news/uk-58044088) - The government's latest vaccine drive comes as 68% of 18 to 29-year-olds in England have had a first jab.
 3. [Covid: One in five firms plan job cuts as furlough tapers - survey](https://www.bbc.co.uk/news/uk-58043041) - From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.
 4. [Heatwave risk from plans to convert shops to homes](https://www.bbc.co.uk/news/business-58029653) - Turning more commercial property into homes raises fears of sub-standard conditions, says a report.
