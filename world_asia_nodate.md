@@ -1,4 +1,4 @@
-1. [Afghanistan: Fighting rages as Taliban besiege three key cities](https://www.bbc.co.uk/news/world-asia-58040141) - Fears rise of a humanitarian crisis as Islamist militants seek to capture major Afghan urban areas.
+1. [Afghanistan: Taliban continue attacks on three major cities](https://www.bbc.co.uk/news/world-asia-58040141) - Fears rise of a humanitarian crisis as Islamist militants seek to take their first provincial capital.
 2. [From Afghan interpreter to US homeless - the long road to the American dream](https://www.bbc.co.uk/news/world-us-canada-58020494) - Thousands of Afghan interpreters have waited years to flee to the US. Arriving is a different story.
 3. [Australia Covid: Brisbane lockdown after Delta variant cases](https://www.bbc.co.uk/news/world-australia-58039299) - Millions of Australians in parts of Queensland enter a snap lockdown from Saturday afternoon.
 4. [Kris Wu: K-Pop star arrested on suspicion of rape](https://www.bbc.co.uk/news/world-asia-china-58042353) - The Chinese-Canadian star denies allegations made online by several women in China.

@@ -1,4 +1,4 @@
-1. [Afghanistan: Fighting rages as Taliban besiege three key cities](https://www.bbc.co.uk/news/world-asia-58040141) - Fears rise of a humanitarian crisis as Islamist militants seek to capture major Afghan urban areas.
+1. [Afghanistan: Taliban continue attacks on three major cities](https://www.bbc.co.uk/news/world-asia-58040141) - Fears rise of a humanitarian crisis as Islamist militants seek to take their first provincial capital.
 2. [Anti-eviction lawmaker camps overnight on US Capitol steps](https://www.bbc.co.uk/news/world-us-canada-58043908) - Cori Bush fears millions of US tenants could be at risk as a Covid-related eviction freeze expires.
 3. [Turkey: Foreign tourists evacuated as wildfires threaten resorts](https://www.bbc.co.uk/news/world-europe-58043912) - Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.
 4. [Simone Biles withdraws from floor final at Tokyo Olympics](https://www.bbc.co.uk/sport/olympics/58045046) - American Simone Biles withdraws from the floor final but is yet to make a decision on whether to compete on beam.
