@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 15:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 16:09:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -205,11 +205,18 @@
             <pubDate>Sun, 01 Aug 2021 10:28:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hearts 2-1 Celtic: How Tynecastle side's backbone showed up visitors' frailties]]></title>
-            <description><![CDATA[Celtic suffered their first opening day loss since 1997 as Hearts returned to the Scottish Premiership in style. BBC Scotland takes a look at the key talking points from Tynecastle.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58043953</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58043953</guid>
-            <pubDate>Sat, 31 Jul 2021 23:16:36 GMT</pubDate>
+            <title><![CDATA[Aberdeen 2-0 Dundee United: Dominant hosts ease to win]]></title>
+            <description><![CDATA[Aberdeen begin the Scottish Premiership season with a dominant win over Dundee United at Pittodrie.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57958659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57958659</guid>
+            <pubDate>Sun, 01 Aug 2021 15:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Celtic: Seismic month as issues come to head for Scottish Premiership club]]></title>
+            <description><![CDATA[Eight games, an Old Firm derby and the transfer window closing - Celtic and Ange Postecoglou face a seismic month as myriad issues come to head.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58049234</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58049234</guid>
+            <pubDate>Sun, 01 Aug 2021 15:59:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Josh Doig: Full-back 'highly likely' to leave Hibs]]></title>
@@ -217,13 +224,6 @@
             <link>https://www.bbc.co.uk/sport/football/58048821</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58048821</guid>
             <pubDate>Sun, 01 Aug 2021 15:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Rangers, Celtic, Hearts, Hibernian, SPFL sponsorship]]></title>
-            <description><![CDATA[Rangers and the SPFL in row over sponsorship deal, Celtic striker not sure about proposed move to England...]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58046348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58046348</guid>
-            <pubDate>Sun, 01 Aug 2021 07:57:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,7 +1,7 @@
 1. [Tokyo Olympics: Lamont Marcell Jacobs claims shock 100m gold](https://www.bbc.co.uk/sport/olympics/58046880) - Italy's Lamont Marcell Jacobs claims a shock gold in the Olympic 100m final, after Great Britain's Zharnel Hughes is disqualified for a false start.
 2. [Whitlock fires Team GB gold medal tally to 10](https://www.bbc.co.uk/sport/olympics/58045115) - Charlotte Worthington wins a dramatic BMX park freestyle Olympic gold as Max Whitlock retains pommel horse title.
 3. [Belarus Olympics: Krystsina Tsimanouskaya refuses to fly home](https://www.bbc.co.uk/news/world-europe-58046183) - Krystsina Tsimanouskaya says Belarus is trying to force her home early after she complained about her coaches.
-4. [Covid: UK hits 85m jab milestone amid discount push for young](https://www.bbc.co.uk/news/uk-58044088) - Cheap taxi rides and takeaways will be offered in a bid to boost vaccine uptake among young people.
+4. [Covid: UK hits 85m jab milestone amid discount push for young](https://www.bbc.co.uk/news/uk-58044088) - Cheap travel and takeaways will be offered in a bid to boost vaccine uptake among young people.
 5. [‘Lenders won’t touch us - my home’s worth nothing'](https://www.bbc.co.uk/news/business-58031545) - Campaigners say government attempts to unlock parts of the property market paralysed by the cladding crisis have stalled.
 6. [Eggborough Power Station: Four cooling towers demolished](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58047126) - The coal-fired station at Eggborough stopped production in 2018 with the loss of 170 jobs.
 7. [Ocon takes shock Hungary Grand Prix win](https://www.bbc.co.uk/sport/formula1/58049146) - Alpine's Esteban Ocon takes a maiden Formula 1 victory in an extraordinary and madcap Hungarian Grand Prix.
@@ -9,7 +9,7 @@
 9. [Tanker attack: Tensions rise as Iran and Israel trade accusations](https://www.bbc.co.uk/news/world-middle-east-58048007) - Israel's PM warns he could send "a message" in retaliation, as Iran rejects "baseless" accusations.
 10. [Prosecutor Nazir Afzal: I couldn't defend a rapist](https://www.bbc.co.uk/news/uk-58047464) - A top solicitor tells how he quit as a defence lawyer after refusing to represent an alleged rapist.
 11. [Turkey: Foreign tourists evacuated as wildfires threaten resorts](https://www.bbc.co.uk/news/world-europe-58043912) - Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.
-12. [Volunteer race marshal dies in Brands Hatch crash](https://www.bbc.co.uk/news/uk-england-kent-58043285) - The marshal died after an accident during a race at the track, leading to the cancellation of the event.
+12. [Volunteer race marshal dies in Brands Hatch crash](https://www.bbc.co.uk/news/uk-england-kent-58043285) - The marshal died in an accident during a race at the track, leading to the cancellation of the event.
 13. [Northern Ireland's Covid-19 vaccine passport date extended](https://www.bbc.co.uk/news/uk-northern-ireland-58047786) - People travelling abroad from Northern Ireland on Tuesday can now apply for the certificate.
 14. [Pre-surgery photoshoot 'was not pornographic'](https://www.bbc.co.uk/news/uk-england-derbyshire-57893530) - Alison Walker signed up for a boudoir photoshoot before having a double mastectomy.
 15. [Tom Daley knits while watching Olympic springboard final](https://www.bbc.co.uk/news/uk-58047795) - Twitter is deluged with images of the Olympian knitting a "purple concoction" in the stands in Tokyo.
