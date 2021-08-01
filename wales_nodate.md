@@ -1,5 +1,5 @@
-1. [Abergele holiday park incident: Man held as girl, 15, dies](https://www.bbc.co.uk/news/uk-wales-58048295) - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
-2. [Bridgend river death: Police keep 'open mind' after boy, 5, dies](https://www.bbc.co.uk/news/uk-wales-58045998) - The boy was found after police were called to reports of a missing child on Saturday morning.
+1. [Three murder arrests over child's river death](https://www.bbc.co.uk/news/uk-wales-58049509) - A 13-year-old boy and two adults are arrested on suspicion of murder, police say.
+2. [Abergele holiday park incident: Man held as girl, 15, dies](https://www.bbc.co.uk/news/uk-wales-58048295) - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
 3. [Covid: No incentives for youth vaccine uptake in Wales](https://www.bbc.co.uk/news/uk-wales-58047609) - Young people In England, however, are to get travel and takeaway discounts for taking up a jab offer.
 4. [Cardiff Park Plaza fire: Four rescued from flat above hotel](https://www.bbc.co.uk/news/uk-wales-58039097) - The blaze happened in a private flat above Cardiff's Park Plaza Hotel, sparking an evacuation.
 5. [Person dies following early morning crash in Swansea](https://www.bbc.co.uk/news/uk-wales-58047608) - Police are appealing for witnesses to the single-vehicle crash which happened just before 04:00 BST.
@@ -19,8 +19,8 @@
 19. [Tokyo Olympics: Great Britain lose 3-1 to India in men's hockey quarter-finals](https://www.bbc.co.uk/sport/olympics/58045615) - Great Britain miss out on a place in the men's Olympic semi-finals as they lose 3-1 to India.
 20. [British and Irish Lions: Stuart Hogg denies allegations of biting](https://www.bbc.co.uk/sport/rugby-union/58047341) - British and Irish Lions full-back Stuart Hogg denies allegedly biting Willie le Roux during the side's defeat by South Africa in the second Test.
 21. [Russell Martin: MK Dons manager's style would suit Swansea City, says Alan Tate](https://www.bbc.co.uk/sport/football/58041792) - Caretaker manager Alan Tate believes Russell Martin's football philosophy makes him an ideal fit for Swansea City.
-22. [Arestio dyn wedi marwolaeth merch 15 oed mewn parc gwyliau](https://www.bbc.co.uk/newyddion/58048276) - Dyn, 19, wedi ei arestio yn dilyn marwolaeth merch, 15, mewn parc gwyliau ger Abergele ddydd Sadwrn.
-23. [Heddlu'n 'cadw meddwl agored' am farwolaeth bachgen ifanc](https://www.bbc.co.uk/newyddion/58046469) - Cafodd corff y bachgen pum mlwydd oed ei ganfod yn Afon Ogwr yn dilyn adroddiadau fod plentyn ar goll.
-24. ['Dim cymhellion i Gymry ifanc gael brechiad,' medd Llywodraeth Cymru](https://www.bbc.co.uk/newyddion/58050935) - Yn wahanol i Loegr, nid yw Llywodraeth Cymru'n bwriadu cynnig cymhellion i bobl ifanc gael brechlyn Covid.
+22. [Arestio tri ar amheuaeth o lofruddiaeth ar ôl marwolaeth bachgen, 5](https://www.bbc.co.uk/newyddion/58050940) - Tri o bobl wedi'u harestio ar amheuaeth o lofruddiaeth ar ôl i fachgen 5 oed gael ei ganfod yn farw yn Afon Ogwr.
+23. ['Dim cymhellion i Gymry ifanc gael brechiad,' medd Llywodraeth Cymru](https://www.bbc.co.uk/newyddion/58050935) - Yn wahanol i Loegr, nid yw Llywodraeth Cymru'n bwriadu cynnig cymhellion i bobl ifanc gael brechlyn Covid.
+24. [Arestio dyn wedi marwolaeth merch 15 oed mewn parc gwyliau](https://www.bbc.co.uk/newyddion/58048276) - Dyn, 19, wedi ei arestio yn dilyn marwolaeth merch, 15, mewn parc gwyliau ger Abergele ddydd Sadwrn.
 25. [Llythyrau caru a thystion: Sut oedd hawlio iawndal ar ôl torcalon](https://www.bbc.co.uk/newyddion/58029257) - Elin Tomos sy'n edrych ar hanes y ddeddf Torri Amod Priodas.
 26. [Abertawe yn penodi Russell Martin yn brif hyfforddwr](https://www.bbc.co.uk/newyddion/58034032) - Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.
