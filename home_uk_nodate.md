@@ -13,7 +13,7 @@
 13. [The Papers: 'Kebabs for jabs' and 'baby no 2' for PM and Carrie](https://www.bbc.co.uk/news/blogs-the-papers-58043872) - Several papers report that Boris Johnson and wife Carrie are expecting their second child together.
 14. [Your pictures on the theme of 'making tracks'](https://www.bbc.co.uk/news/in-pictures-57982618) - A selection of striking images from our readers around the world.
 15. [The autistic-friendly toy shop: 'We have got this'](https://www.bbc.co.uk/news/uk-england-58026672) - Retail worker Romilly, who is autistic, wants to create a comfortable space for other autistic people to shop in.
-16. [Billie Eilish opens up to Clara Amfo on trolls](https://www.bbc.co.uk/news/entertainment-arts-58039782) - Eilish tells Amfo of her frustration with internet criticism in a new documentary to be broadcast on Saturday.
+16. [Billie Eilish opens up to Clara Amfo on trolls](https://www.bbc.co.uk/news/entertainment-arts-58039782) - Eilish tells Amfo of her frustration with internet criticism in a new documentary.
 17. [ICYMI: Decoding feline feelings and a breathtaking bungee jump](https://www.bbc.co.uk/news/uk-58027187) - A round-up of the week's news you might have missed.
 18. [Dorset photographer shoots Star Wars Lego in cinematic style](https://www.bbc.co.uk/news/uk-england-dorset-58015659) - A 34-year-old Dorset photographer is recreating cinematic sci-fi scenes using his Star Wars Lego kits.
 19. [The man who 'killed' Pluto](https://www.bbc.co.uk/news/stories-57989204) - How Mike Brown’s discovery of a larger object threatened Pluto’s 75-year status as a planet

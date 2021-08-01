@@ -14,7 +14,7 @@
 14. [Benin Bronzes: Nigeria dispute jeopardises return of artefacts](https://www.bbc.co.uk/news/world-africa-57914111) - Several museums in Europe have talked of returning the looted artefacts - but where will they be housed in Nigeria?
 15. [Halima Aden and Tommy Hilfiger: ‘It’s not just about diverse catwalks’](https://www.bbc.co.uk/news/world-57918698) - The world’s first hijab-wearing supermodel talks to fashion designer Tommy Hilfiger about why she quit the industry.
 16. [Latitude 2021: What being a Covid test event means for the festival](https://www.bbc.co.uk/news/uk-england-suffolk-57895625) - The festival in Suffolk will be the first major event following the lifting of most restrictions.
-17. [Billie Eilish opens up to Clara Amfo on internet trolls](https://www.bbc.co.uk/news/entertainment-arts-58039782) - Eilish tells Amfo of her frustration with internet criticism in a new documentary to be broadcast on Saturday.
+17. [Billie Eilish opens up to Clara Amfo on internet trolls](https://www.bbc.co.uk/news/entertainment-arts-58039782) - Eilish tells Amfo of her frustration with internet criticism in a new documentary.
 18. [KT Tunstall on her show-halting hearing loss](https://www.bbc.co.uk/news/entertainment-arts-58033812) - The singer-songwriter has put her touring plans on hold over concerns she could become completely deaf.
 19. [Dorset photographer shoots Star Wars Lego in cinematic style](https://www.bbc.co.uk/news/uk-england-dorset-58015659) - A 34-year-old Dorset photographer is recreating cinematic sci-fi scenes using his Star Wars Lego kits.
 20. [Rapper ENNY talks sexual consent in latest track](https://www.bbc.co.uk/news/entertainment-arts-58014225) - The rising south London rapper talks about art imitating life in her new single.
