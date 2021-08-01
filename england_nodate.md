@@ -29,3 +29,4 @@
 29. [Tokyo Olympics: Max Whitlock defends Olympic pommel horse title](https://www.bbc.co.uk/sport/olympics/58044973) - Great Britain's Max Whitlock produces a sublime performance to defend his Olympic title by winning gold in the men's pommel horse.
 30. [Shane Warne: London Spirit head coach tests positive for Covid-19](https://www.bbc.co.uk/sport/cricket/58050577) - London Spirit head coach Shane Warne tests positive for Covid-19 and will miss their next fixture.
 31. [Tokyo Olympics: Charlotte Worthington wins BMX freestyle gold for Great Britain](https://www.bbc.co.uk/sport/olympics/58044570) - Great Britain's Charlotte Worthington wins a thrilling gold in the women's BMX park freestyle Olympic final.
+32. [Super League: Wigan Warriors thump winless Leigh Centurions 50-6](https://www.bbc.co.uk/sport/rugby-league/58049907) - Wigan Warriors cruise to a Super League victory over bottom side Leigh.

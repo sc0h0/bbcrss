@@ -17,11 +17,11 @@
 17. [Nigeria's kidnap crisis: 'I saw my two-year-old carried by a man with a gun'](https://www.bbc.co.uk/news/world-africa-57929074) - Parents of schoolchildren abducted in Nigeria describe their trauma, and dilemma over the ransom demands.
 18. [India reptile park struggles to survive amid Covid](https://www.bbc.co.uk/news/world-asia-india-58025057) - The future is uncertain for the thousands of snakes, lizards and crocodiles at the Guindy Snake Park.
 19. [China warns UK as carrier strike group approaches](https://www.bbc.co.uk/news/world-asia-58015367) - A fleet of British ships is currently sailing through the South China Sea en route to Japan.
-20. [The women fighting infertility stigma in Nigeria](https://www.bbc.co.uk/news/world-africa-58004523) - Three Nigerian women confront the prejudice they have faced on their fertility journeys.
-21. [ICYMI: Decoding feline feelings and a breathtaking bungee jump](https://www.bbc.co.uk/news/uk-58027187) - A round-up of the week's news you might have missed.
-22. [The man who 'killed' Pluto](https://www.bbc.co.uk/news/stories-57989204) - How Mike Brown’s discovery of a larger object threatened Pluto’s 75-year status as a planet
-23. [The separated refugees brought back together by judo](https://www.bbc.co.uk/news/world-58020945) - Sanda Aldass and Muna Dahouk have trained together since childhood but the war in Syria separated them.
-24. [Olympics: The hidden sight of Tokyo's homeless](https://www.bbc.co.uk/news/world-asia-58016848) - For many among Tokyo's homeless community the Olympics are far from a cause for celebration.
+20. [Turkey wildfires: People flee as blazes spread in Marmaris and Bodrum](https://www.bbc.co.uk/news/world-58038753) - Some neighbourhoods have been evacuated after gusts of wind spread the flames into residential areas.
+21. [The women fighting infertility stigma in Nigeria](https://www.bbc.co.uk/news/world-africa-58004523) - Three Nigerian women confront the prejudice they have faced on their fertility journeys.
+22. [ICYMI: Decoding feline feelings and a breathtaking bungee jump](https://www.bbc.co.uk/news/uk-58027187) - A round-up of the week's news you might have missed.
+23. [The man who 'killed' Pluto](https://www.bbc.co.uk/news/stories-57989204) - How Mike Brown’s discovery of a larger object threatened Pluto’s 75-year status as a planet
+24. [The separated refugees brought back together by judo](https://www.bbc.co.uk/news/world-58020945) - Sanda Aldass and Muna Dahouk have trained together since childhood but the war in Syria separated them.
 25. [Laurel Hubbard: The reluctant history-maker at the centre of sport's transgender debate](https://www.bbc.co.uk/sport/olympics/57989022) - Weightlifter Laurel Hubbard is set to become the first openly transgender athlete to compete in a different gender category to that which they were born at an Olympics.
 26. [Tom Daley knits while watching Olympic springboard final](https://www.bbc.co.uk/news/uk-58047795) - Twitter is deluged with images of the Olympian knitting a "purple concoction" in the stands in Tokyo.
 27. [French boxer stages ring sit protest after loss](https://www.bbc.co.uk/sport/olympics/58045775) - Frenchman Mourad Aliev refuses to live the ring in the aftermath of his controversial loss to Great Britain's Frazer Clarke.

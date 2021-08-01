@@ -13,8 +13,8 @@
 13. [Roma child: 'My only goal is to finish school'](https://www.bbc.co.uk/news/world-europe-57978365) - How one school in Croatia is working to improve education opportunities for Roma children like Kristina.
 14. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
 15. [Covid passports: How do they work around the world?](https://www.bbc.co.uk/news/world-europe-56522408) - How are countries enforcing vaccine passports and what can people use them for?
-16. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
-17. [I survived Norway's worst terror attack](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.
-18. [Europe floods: 'I have an axe beside my bed'](https://www.bbc.co.uk/news/world-europe-57923443) - Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.
-19. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
-20. [Horse racing: Inside the abattoir slaughtering racehorses](https://www.bbc.co.uk/news/uk-57896848) - Campaign group Animal Aid set up covert cameras in one of the few slaughterhouses licensed to kill horses.
+16. [Turkey wildfires: People flee as blazes spread in Marmaris and Bodrum](https://www.bbc.co.uk/news/world-58038753) - Some neighbourhoods have been evacuated after gusts of wind spread the flames into residential areas.
+17. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
+18. [I survived Norway's worst terror attack](https://www.bbc.co.uk/news/stories-57920682) - Lisa Husby recalls hiding in fear as far-right extremist Anders Breivik went on a killing spree in 2011.
+19. [Europe floods: 'I have an axe beside my bed'](https://www.bbc.co.uk/news/world-europe-57923443) - Marion Wenzel showed the BBC around her flood-wrecked house in Ahrweiler, Germany.
+20. [First space tourist Dennis Tito: 'I was euphoric'](https://www.bbc.co.uk/news/business-57891867) - Dennis Tito paid $20 million to travel to the International Space Station in 2001.
