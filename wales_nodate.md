@@ -23,4 +23,4 @@
 23. [Achub pedwar o bobl yn dilyn tân mewn fflat yng Nghaerdydd](https://www.bbc.co.uk/newyddion/58046468) - Achub tri phlentyn ac un oedolyn yn dilyn tân mewn fflat uwchben Gwesty Park Plaza yn y brifddinas.
 24. [Heddlu'n 'cadw meddwl agored' am farwolaeth bachgen ifanc](https://www.bbc.co.uk/newyddion/58046469) - Cafodd corff y bachgen pum mlwydd oed ei ddarganfod yn Afon Ogwr yn dilyn adroddiadau fod plentyn ar goll.
 25. [Llythyrau caru a thystion: Sut oedd hawlio iawndal ar ôl torcalon](https://www.bbc.co.uk/newyddion/58029257) - Elin Tomos sy'n edrych ar hanes y ddeddf Torri Amod Priodas.
-26. [Disgwyl i Crystal Palace benodi Roberts fel is-reolwr](https://www.bbc.co.uk/newyddion/58046473) - Mae disgwyl i Osian Roberts ymuno â Crystal Palace fel rhan o dîm hyfforddi y rheolwr newydd Patrick Vieira.
+26. [Abertawe yn penodi Russell Martin yn brif hyfforddwr](https://www.bbc.co.uk/newyddion/58034032) - Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.
