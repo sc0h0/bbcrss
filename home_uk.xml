@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 08:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 09:09:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,18 +100,18 @@
             <pubDate>Sun, 01 Aug 2021 04:34:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'Kebabs for jabs' and 'baby no 2' for PM and Carrie]]></title>
-            <description><![CDATA[Several papers report that Boris Johnson and wife Carrie are expecting their second child together.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-58043872</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58043872</guid>
-            <pubDate>Sun, 01 Aug 2021 04:43:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Your pictures on the theme of 'making tracks']]></title>
             <description><![CDATA[A selection of striking images from our readers around the world.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-57982618</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-57982618</guid>
             <pubDate>Sat, 31 Jul 2021 23:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Kebabs for jabs' and 'baby no 2' for PM and Carrie]]></title>
+            <description><![CDATA[Several papers report that Boris Johnson and wife Carrie are expecting their second child together.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-58043872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58043872</guid>
+            <pubDate>Sun, 01 Aug 2021 04:43:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The autistic-friendly toy shop: 'We have got this']]></title>
@@ -233,25 +233,18 @@
             <pubDate>Sun, 01 Aug 2021 04:10:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Matt Dawson column: British and Irish Lions crying out for creative player]]></title>
+            <description><![CDATA[Former Lion Matt Dawson says the tour is crying out for a player to create a moment that turns the tide.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58043808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58043808</guid>
+            <pubDate>Sun, 01 Aug 2021 08:56:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Brilliant BMX, unbeatable Dressel and more boxing success in day nine early best bits]]></title>
             <description><![CDATA[Watch the best moments from the early events on day nine at the Tokyo Olympics, including dramatic BMX finals and more swimming and boxing success for Great Britain.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58046088</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58046088</guid>
             <pubDate>Sun, 01 Aug 2021 06:58:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schauffele clinches men's golf gold - with seven-way play-off for bronze]]></title>
-            <description><![CDATA[American Xander Schauffele clinches the men's golf gold medal on a tense final day that is going to a play-off for bronze.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58045578</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045578</guid>
-            <pubDate>Sun, 01 Aug 2021 08:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biles withdraws from Olympic floor final and GB's Gadirova will now compete]]></title>
-            <description><![CDATA[American Simone Biles withdraws from the floor final but is yet to make a decision on whether to compete on beam.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58045046</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045046</guid>
-            <pubDate>Sun, 01 Aug 2021 03:39:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB's Frazer Clarke advances to super-heavyweight semi-finals]]></title>
@@ -261,6 +254,13 @@
             <pubDate>Sun, 01 Aug 2021 06:25:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Biles withdraws from Olympic floor final and GB's Gadirova will now compete]]></title>
+            <description><![CDATA[American Simone Biles withdraws from the floor final but is yet to make a decision on whether to compete on beam.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58045046</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045046</guid>
+            <pubDate>Sun, 01 Aug 2021 03:39:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[McKee beats 'Pitbull' Freire to win featherweight title at Bellator 263]]></title>
             <description><![CDATA[Rising US star AJ McKee beats featherweight champion Patricio 'Pitbull' Freire to take the title and land a $1m prize at Bellator 263.]]></description>
             <link>https://www.bbc.co.uk/sport/mixed-martial-arts/58045844</link>
@@ -268,11 +268,11 @@
             <pubDate>Sun, 01 Aug 2021 07:02:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Final Test will be 'like a cup final', says Gatland after loss to South Africa]]></title>
-            <description><![CDATA[British and Irish Lions head coach Warren Gatland says the deciding third and final Test against South Africa next Saturday will be a "cup final".]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58043738</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58043738</guid>
-            <pubDate>Sat, 31 Jul 2021 20:35:30 GMT</pubDate>
+            <title><![CDATA[Sign up for the BBC Sport app ]]></title>
+            <description><![CDATA[With latest scores and headlines sent straight to your device, personalisation and much more, ensure you have a great sporting life with BBC Sport.]]></description>
+            <link>https://www.bbc.co.uk/sport/35176037</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/35176037</guid>
+            <pubDate>Wed, 16 Jun 2021 07:57:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB's Charlotte Worthington wins BMX freestyle gold in dramatic final]]></title>
@@ -282,18 +282,18 @@
             <pubDate>Sun, 01 Aug 2021 03:51:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Xander Schauffele wins gold as golf goes to bronze-medal play-off]]></title>
+            <description><![CDATA[American Xander Schauffele clinches the men's golf gold medal on a tense final day that is going to a play-off for bronze.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58045578</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045578</guid>
+            <pubDate>Sun, 01 Aug 2021 08:51:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Mourad Aliev in ring protest after Frazer Clarke defeat]]></title>
             <description><![CDATA[Frenchman Mourad Aliev refuses to live the ring in the aftermath of his controversial loss to Great Britain's Frazer Clarke.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58045775</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045775</guid>
             <pubDate>Sun, 01 Aug 2021 07:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain win record eighth swimming medal with men's 4x100m relay silver]]></title>
-            <description><![CDATA[Great Britain wins a record eighth swimming medal in Tokyo while Duncan Scott ends with four medals - the most by a Brit at a Games - after silver in the men's 4x100m medley relay.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58044350</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044350</guid>
-            <pubDate>Sun, 01 Aug 2021 03:40:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Duncan Scott becomes GB's most decorated Olympian after relay silver]]></title>
@@ -308,6 +308,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58023141</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58023141</guid>
             <pubDate>Fri, 30 Jul 2021 11:54:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Great Britain win record eighth swimming medal with men's 4x100m relay silver]]></title>
+            <description><![CDATA[Great Britain wins a record eighth swimming medal in Tokyo while Duncan Scott ends with four medals - the most by a Brit at a Games - after silver in the men's 4x100m medley relay.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58044350</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58044350</guid>
+            <pubDate>Sun, 01 Aug 2021 03:40:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Great Britain eventers in strong medal positions after cross-country]]></title>

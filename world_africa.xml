@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 08:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 09:09:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Nairobi - the centre of East Africa's thriving arts scene]]></title>
-            <description><![CDATA[Artists from across East Africa have converged on Kenya's capital, creating a vibrant scene.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-57422167</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57422167</guid>
-            <pubDate>Sat, 31 Jul 2021 23:11:12 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Samuel Takyi secures Ghana's first Olympic medal since 1992 on day nine]]></title>
+            <description><![CDATA[Boxer Samuel Takyi wins Ghana's first Olympic medal since the men's football team won bronze at the 1992 Games in Barcelona.]]></description>
+            <link>https://www.bbc.co.uk/sport/africa/58046599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/africa/58046599</guid>
+            <pubDate>Sun, 01 Aug 2021 08:38:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Namibian athlete says 'You can't tell me now I am not a woman']]></title>
+            <description><![CDATA[Namibia's Beatrice Masilingi is excited to compete at the Olympics despite being forced out of the 400m due to high levels of testosterone.]]></description>
+            <link>https://www.bbc.co.uk/sport/africa/58029941</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/africa/58029941</guid>
+            <pubDate>Sun, 01 Aug 2021 07:51:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The women fighting infertility stigma in Nigeria]]></title>
@@ -37,13 +44,6 @@
             <pubDate>Sun, 01 Aug 2021 05:01:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Ivory Coast's Marie-Josee Ta Lou misses medal on day eight]]></title>
-            <description><![CDATA[Ivorian Marie-Josee Ta Lou finishes fourth in the women's 100m final at the Tokyo Olympics as Ivory Coast and Egypt are knocked out of the men's football.]]></description>
-            <link>https://www.bbc.co.uk/sport/africa/58039330</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/africa/58039330</guid>
-            <pubDate>Sat, 31 Jul 2021 13:07:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nigeria's kidnap crisis: 'I saw my two-year-old carried by a man with a gun']]></title>
             <description><![CDATA[Parents of schoolchildren abducted in Nigeria describe their trauma, and dilemma over the ransom demands.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-57929074</link>
@@ -51,11 +51,11 @@
             <pubDate>Fri, 30 Jul 2021 23:17:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[South Africa 27-9 British and Irish Lions: Springboks level series in fiery encounter]]></title>
-            <description><![CDATA[The British and Irish Lions' series with South Africa will go to a decider after the Springboks win a fiery second Test 27-9 at Cape Town Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58041234</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58041234</guid>
-            <pubDate>Sat, 31 Jul 2021 19:32:48 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Ivory Coast's Marie-Josee Ta Lou misses medal on day eight]]></title>
+            <description><![CDATA[Ivorian Marie-Josee Ta Lou finishes fourth in the women's 100m final at the Tokyo Olympics as Ivory Coast and Egypt are knocked out of the men's football.]]></description>
+            <link>https://www.bbc.co.uk/sport/africa/58039330</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/africa/58039330</guid>
+            <pubDate>Sat, 31 Jul 2021 13:07:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nigerian sprinter Okagbare fails drugs test]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58037280</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58037280</guid>
             <pubDate>Sat, 31 Jul 2021 10:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa 27-9 British and Irish Lions: Springboks level series in fiery encounter]]></title>
+            <description><![CDATA[The British and Irish Lions' series with South Africa will go to a decider after the Springboks win a fiery second Test 27-9 at Cape Town Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58041234</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58041234</guid>
+            <pubDate>Sat, 31 Jul 2021 19:32:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kenya's President Uhuru Kenyatta criticises 'vaccine nationalism']]></title>
