@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 05:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 05:43:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,20 @@
             <pubDate>Sat, 31 Jul 2021 15:53:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Are NI's young people resisting the vaccine?]]></title>
+            <description><![CDATA[Why do vaccination numbers among the under-30s in Northern Ireland remain relatively low?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57975927</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57975927</guid>
+            <pubDate>Sun, 01 Aug 2021 05:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cork: How sheep and goats uncovered hidden headstones]]></title>
+            <description><![CDATA[More than 500 graves thought lost forever have been uncovered by volunteers - both animal and human.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58026027</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58026027</guid>
+            <pubDate>Sun, 01 Aug 2021 05:36:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tyrone earn dramatic Ulster Final win over Monaghan]]></title>
             <description><![CDATA[Tyrone hold off Monaghan's second-half comeback to win a 16th Ulster Football title as the Red Hands edge a dramatic 0-16 to 0-15 win at Croke Park.]]></description>
             <link>https://www.bbc.co.uk/sport/gaelic-games/58042304</link>
@@ -44,13 +58,6 @@
             <pubDate>Sat, 31 Jul 2021 05:22:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[School uniforms: Should schools face a price limit?]]></title>
-            <description><![CDATA[From blazers to branded PE kits, the annual back-to-school bill can leave some families in debt.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57733760</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57733760</guid>
-            <pubDate>Sat, 31 Jul 2021 05:28:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pensioner Olympian Mike Bull still pole vaulting at 74]]></title>
             <description><![CDATA[Mike Bull is a double Commonwealth gold medallist and Olympic finalist in the sport.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58017671</link>
@@ -58,11 +65,11 @@
             <pubDate>Sat, 31 Jul 2021 05:33:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How gymnast Rhys McClenaghan made it to Tokyo]]></title>
-            <description><![CDATA[Rhys McClenaghan's rise to being one of Ireland's biggest medal hopes at Tokyo 2020 is the product of a lifelong love affair with gymnastics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58001490</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58001490</guid>
-            <pubDate>Sat, 31 Jul 2021 10:37:26 GMT</pubDate>
+            <title><![CDATA[School uniforms: Should schools face a price limit?]]></title>
+            <description><![CDATA[From blazers to branded PE kits, the annual back-to-school bill can leave some families in debt.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57733760</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57733760</guid>
+            <pubDate>Sat, 31 Jul 2021 05:28:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ireland out of Olympics after GB hockey defeat]]></title>
@@ -79,18 +86,18 @@
             <pubDate>Sat, 31 Jul 2021 13:12:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ardoyne baby death: Mother in court charged with murder]]></title>
-            <description><![CDATA[Raluca Tagani is accused of the murder of her son Liam O'Keefe in Belfast on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58022828</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58022828</guid>
-            <pubDate>Fri, 30 Jul 2021 12:00:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bigger things than football, says Down U20 captain]]></title>
             <description><![CDATA[After leading Down's U20 football team to an extra-time victory over Monaghan in the Ulster final, man of the match Ruairi O'Hare dedicates the victory to his late friend.]]></description>
             <link>https://www.bbc.co.uk/sport/gaelic-games/58039022</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/gaelic-games/58039022</guid>
             <pubDate>Sat, 31 Jul 2021 10:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ardoyne baby death: Mother in court charged with murder]]></title>
+            <description><![CDATA[Raluca Tagani is accused of the murder of her son Liam O'Keefe in Belfast on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58022828</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58022828</guid>
+            <pubDate>Fri, 30 Jul 2021 12:00:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Nisra records increase in NI's virus-related deaths]]></title>
@@ -135,6 +142,13 @@
             <pubDate>Thu, 29 Jul 2021 14:17:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How gymnast Rhys McClenaghan made it to Tokyo]]></title>
+            <description><![CDATA[Rhys McClenaghan's rise to being one of Ireland's biggest medal hopes at Tokyo 2020 is the product of a lifelong love affair with gymnastics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58001490</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58001490</guid>
+            <pubDate>Sat, 31 Jul 2021 10:37:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ballymena: Rare cancer diagnosis leads to unlikely friendship]]></title>
             <description><![CDATA[Cat McKenna and Amber Scott met after being diagnosed with neuroendocrine cancer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58017631</link>
@@ -161,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
             <pubDate>Sat, 31 Jul 2021 07:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ballywatticock: What is the origin of NI weather station names?]]></title>
-            <description><![CDATA[Ballywatticock had its moment in the sun but what is its origin that of other weather station names?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57914914</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57914914</guid>
-            <pubDate>Sat, 24 Jul 2021 05:46:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belfast: Archaeology students stumble across Neolithic find]]></title>
