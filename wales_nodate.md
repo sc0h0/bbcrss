@@ -21,7 +21,7 @@
 21. [Cardiff Rugby go back to the future to begin post-Blues new era](https://www.bbc.co.uk/sport/rugby-union/58019430) - Cardiff Rugby go back to the future to begin a new era after changing their name from Cardiff Blues.
 22. [Tokyo Olympics: Charlotte Worthington wins gold and GB swimmers make history](https://www.bbc.co.uk/sport/olympics/58045115) - Charlotte Worthington wins a dramatic BMX park freestyle Olympic gold as Great Britain's swimmers complete historic Games.
 23. [The Hundred: Manchester Originals men beat Welsh Fire to avenge women's defeat](https://www.bbc.co.uk/sport/cricket/58040251) - Manchester Originals men avenge Welsh Fire's victory over their women earlier in the day with a dominant seven-wicket win in Cardiff.
-24. [Darganfod corff bachgen mewn afon ym Mhen-y-bont ar Ogwr](https://www.bbc.co.uk/newyddion/58040726) - Daeth swyddogion heddlu o hyd i'r bachgen yn dilyn adroddiadau fod plentyn ar goll yn ardal Sarn ym Mhen-y-bont ar Ogwr.
-25. [De Affrica 27-9 Llewod](https://www.bbc.co.uk/newyddion/58042805) - Cyfres y Llewod: Yr ymwelwyr yn colli'r ail brawf yn erbyn De Affrica yn Cape Town.
-26. [Eisteddfod AmGen 2021 'fel Prifwyl arferol, ond heb gae'](https://www.bbc.co.uk/newyddion/58003943) - Trefnwyr y Brifwyl i wneud "popeth yn eu gallu" i gael maes traddodiadol yn 2022, yn ôl y prif weithredwr.
-27. [Lauren Price yn saff o fedal yn y bocsio pwysau canol](https://www.bbc.co.uk/newyddion/58039432) - Lauren Price yn saff o fedal yn y bocsio pwysau canol ar ôl buddugoliaeth yn rownd yr wyth olaf.
+24. [Cyhoeddi llyfrau'r Brifwyl yn hwb i'r byd cyhoeddi](https://www.bbc.co.uk/newyddion/57985419) - Roedd colli cyfrolau yr Eisteddfod wedi costio cyfanswm o oddeutu £100,000 i'r diwydiant llyfrau y llynedd.
+25. [Darganfod corff bachgen mewn afon ym Mhen-y-bont ar Ogwr](https://www.bbc.co.uk/newyddion/58040726) - Daeth swyddogion heddlu o hyd i'r bachgen yn dilyn adroddiadau fod plentyn ar goll yn ardal Sarn ym Mhen-y-bont ar Ogwr.
+26. [Ailagor canolfan sglefrio iâ wedi cyfnod 'rhwystredig'](https://www.bbc.co.uk/newyddion/58040727) - Un o'r ddau o ganolfannau sglefrio iâ yng Nghymru i agor am y tro cyntaf ers 17 mis tra bod y llall yn parhau ar gau.
+27. [De Affrica 27-9 Llewod](https://www.bbc.co.uk/newyddion/58042805) - Cyfres y Llewod: Yr ymwelwyr yn colli'r ail brawf yn erbyn De Affrica yn Cape Town.
