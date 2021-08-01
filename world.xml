@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 14:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 15:22:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Afghanistan: Taliban continue attacks on three major cities]]></title>
-            <description><![CDATA[Fears rise of a humanitarian crisis as Islamist militants seek to take their first provincial capital.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58040141</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58040141</guid>
-            <pubDate>Sun, 01 Aug 2021 07:24:59 GMT</pubDate>
+            <title><![CDATA[Tanker attack: Tensions rise as Iran and Israel trade accusations]]></title>
+            <description><![CDATA[Israel's PM warns he could send "a message" in retaliation, as Iran rejects "baseless" accusations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58048007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58048007</guid>
+            <pubDate>Sun, 01 Aug 2021 14:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turkey: Foreign tourists evacuated as wildfires threaten resorts]]></title>
@@ -30,13 +30,6 @@
             <pubDate>Sun, 01 Aug 2021 04:37:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Belarus Olympics: Krystsina Tsimanouskaya refuses to fly home]]></title>
-            <description><![CDATA[Krystsina Tsimanouskaya complained about team coaches after which she was taken to the airport.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58046183</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58046183</guid>
-            <pubDate>Sun, 01 Aug 2021 14:31:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Italy's Lamont Jacobs wins shock 100m gold ]]></title>
             <description><![CDATA[Italy's Lamont Marcell Jacobs claims a shock gold in the Olympic 100m final, after Great Britain's Zharnel Hughes is disqualified for a false start.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58046880</link>
@@ -44,11 +37,11 @@
             <pubDate>Sun, 01 Aug 2021 14:19:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tanker attack: Tensions rise as Iran and Israel trade accusations]]></title>
-            <description><![CDATA[Israel's PM warns he could send "a message" in retaliation, as Iran rejects "baseless" accusations.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58048007</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58048007</guid>
-            <pubDate>Sun, 01 Aug 2021 14:13:20 GMT</pubDate>
+            <title><![CDATA[Belarus Olympics: Krystsina Tsimanouskaya refuses to fly home]]></title>
+            <description><![CDATA[Krystsina Tsimanouskaya says Belarus is trying to force her home early after she complained about her coaches.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58046183</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58046183</guid>
+            <pubDate>Sun, 01 Aug 2021 14:31:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: 'Can we have two golds?' - high jumpers share win]]></title>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58048827</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58048827</guid>
             <pubDate>Sun, 01 Aug 2021 14:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Taliban continue attacks on three major cities]]></title>
+            <description><![CDATA[Fears rise of a humanitarian crisis as Islamist militants seek to take their first provincial capital.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58040141</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58040141</guid>
+            <pubDate>Sun, 01 Aug 2021 07:24:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sky News Australia barred for week by YouTube over Covid misinformation]]></title>
