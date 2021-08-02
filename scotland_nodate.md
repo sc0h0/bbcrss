@@ -31,4 +31,4 @@
 31. [European draws: Five Scottish clubs to learn play-off fate](https://www.bbc.co.uk/sport/football/58048757) - Not since 2012-13 have Scotland had five clubs in Europe. All five will be in the play-off draws on Monday ahead of their third qualifying round ties.
 32. [Motherwell 2-3 Hibernian: Visitors claim thrilling opening win](https://www.bbc.co.uk/sport/football/57958660) - Hibernian fans played a "massive part" in their team's thrilling comeback victory at Motherwell, says head coach Jack Ross.
 33. [Aberdeen 2-0 Dundee United: Dominant hosts ease to win](https://www.bbc.co.uk/sport/football/57958659) - Aberdeen begin the Scottish Premiership season with a dominant win over Dundee United at Pittodrie.
-34. [Kilmarnock v Ayr United: Four memorable derby meetings](https://www.bbc.co.uk/sport/football/57998617) - BBC Sport looks back at four memorable meetings of Kilmarnock and Ayr United as the sides prepare to lock horns once again.
+34. [Watch: The best saves from Scottish Premiership opening weekend](https://www.bbc.co.uk/sport/av/football/58051395) - Watch the best saves from the opening weekend of the new Scottish Premiership season.

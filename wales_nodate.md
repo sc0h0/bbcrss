@@ -23,6 +23,6 @@
 23. [Tokyo Olympics: Welsh duo Jake Heyward and Joe Brier prepare for Olympics debut](https://www.bbc.co.uk/sport/av/olympics/58054010) - Welsh duo Jake Heyward and Joe Brier prepare to make their for Olympics debut this week in Tokyo.
 24. [Arestio tri ar amheuaeth o lofruddiaeth ar ôl marwolaeth bachgen](https://www.bbc.co.uk/newyddion/58050940) - Tri o bobl wedi'u harestio ar amheuaeth o lofruddiaeth ar ôl i fachgen 5 oed gael ei ganfod yn farw yn Afon Ogwr.
 25. ['Mwy o gymorth i eisteddfodau bach yn y dyfodol'](https://www.bbc.co.uk/newyddion/58034025) - Awgrym y bydd mwy o gefnogaeth i eisteddfodau lleol yn y dyfodol i ddelio â gofynion newydd.
-26. ['Dim cymhellion i Gymry ifanc gael brechiad,' medd Llywodraeth Cymru](https://www.bbc.co.uk/newyddion/58050935) - Yn wahanol i Loegr, nid yw Llywodraeth Cymru'n bwriadu cynnig cymhellion i bobl ifanc gael brechlyn Covid.
-27. [Ateb y Galw: Y cerddor Marged Rhys](https://www.bbc.co.uk/newyddion/57983627) - Y cerddor Marged Rhys sy'n cael ei holi yr wythnos yma.
+26. [Rhybudd melyn am stormydd i dde Cymru](https://www.bbc.co.uk/newyddion/58056992) - Dywedodd y Swyddfa Dywydd bod perygl y gallai cawodydd trwm o law achosi llifogydd ac oedi i deithwyr.
+27. [Oriel: Gig Eisteddfod Gudd](https://www.bbc.co.uk/newyddion/58055724) - Blas o benwythnos o gerddoriaeth fyw wnaeth agor yr Eisteddfod AmGen.
 28. [Abertawe yn penodi Russell Martin yn brif hyfforddwr](https://www.bbc.co.uk/newyddion/58034032) - Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.
