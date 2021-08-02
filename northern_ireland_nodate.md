@@ -1,5 +1,5 @@
 1. [Covid-19: Cancer surgery cancellations 'potentially avoidable'](https://www.bbc.co.uk/news/uk-northern-ireland-58053491) - The Royal College of Surgeons says it had suggested plans to keep cancer surgeries on track.
-2. [Cregagh: Family forced to relocate after 'sectarian threat'](https://www.bbc.co.uk/news/uk-northern-ireland-58054526) - Police say the Catholic family did not feel safe in their own home in the Cregagh estate in east Belfast.
+2. [Cregagh: Family forced to move after 'sectarian threat'](https://www.bbc.co.uk/news/uk-northern-ireland-58054526) - Police say the Catholic family did not feel safe in their own home in the Cregagh estate in east Belfast.
 3. [Vaccine passport: Almost 300 fraudulent claims rejected](https://www.bbc.co.uk/news/uk-northern-ireland-58054973) - The Department of Health says the system is now "stable and running well".
 4. [Covid-19: Five more deaths and 872 new coronavirus cases](https://www.bbc.co.uk/news/uk-northern-ireland-58058268) - The total number of Covid-19 vaccines administered in Northern Ireland is now 2,267,984.
 5. [Belfast Glider: Decision time for planned new routes](https://www.bbc.co.uk/news/uk-northern-ireland-politics-58005194) - How can new rapid transit routes in Belfast best serve the city's population?
