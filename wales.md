@@ -1,4 +1,4 @@
-1. [Three murder arrests over boy's river death in Bridgend](https://www.bbc.co.uk/news/uk-wales-58049509) - Mon, 02 Aug 2021 09:40:11 GMT - A 13-year-old boy and two adults are arrested on suspicion of murder after a child's body was found.
+1. [Three murder arrests over boy's river death in Bridgend](https://www.bbc.co.uk/news/uk-wales-58049509) - Mon, 02 Aug 2021 11:13:38 GMT - They came after the after the body of a boy, named locally as Logan, was found.
 2. [Abergele holiday park incident: Man held as girl, 15, dies](https://www.bbc.co.uk/news/uk-wales-58048295) - Sun, 01 Aug 2021 12:06:08 GMT - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
 3. [Coin marks 150 years since Alice in Wonderland sequel](https://www.bbc.co.uk/news/uk-wales-58053780) - Mon, 02 Aug 2021 10:07:56 GMT - The Alice in Wonderland themed £5 coin celebrates 150 years since Lewis Carroll's famous tales.
 4. [Disability: Paralysed woman to swim English Channel](https://www.bbc.co.uk/news/uk-wales-58025736) - Mon, 02 Aug 2021 04:58:04 GMT - Paula Craig, 58, is one of a relay team aiming to complete the 21-mile swim to France.

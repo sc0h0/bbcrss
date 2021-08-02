@@ -6,10 +6,10 @@
 6. [Sebastian Vettel disqualified from Hungarian Grand Prix after finishing second](https://www.bbc.co.uk/sport/formula1/58050375) - Aston Martin's Sebastian Vettel is disqualified after finishing second in the Hungarian GP because of a fuel infringement.
 7. [Mitholz - the tranquil Swiss village facing a time bomb](https://www.bbc.co.uk/news/world-europe-57996485) - More than 60 years after a deadly explosion ruined Mitholz, the village remains under threat.
 8. [BMX 360 backflip: The trick that secured Charlotte Worthington Team GB gold](https://www.bbc.co.uk/sport/olympics/58047473) - A trick revered, unexpected and never done by a woman before - what is the backflip 360 pulled off by Charlotte Worthington?
-9. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
+9. [The EU vaccine 'passport' and what it means for travel](https://www.bbc.co.uk/news/explainers-57665765) - An EU vaccine "passport" is being introduced, enabling holders to prove they have been jabbed.
 10. [Covid: Stalled Russian vaccines cause global anger](https://www.bbc.co.uk/news/world-europe-58003893) - Deliveries of Russia's Sputnik V vaccine have fallen far below expectations.
-11. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
-12. [Covid passports: How do they work around the world?](https://www.bbc.co.uk/news/world-europe-56522408) - How are countries enforcing vaccine passports and what can people use them for?
+11. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
+12. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
 13. [Turkey wildfires: People flee as blazes spread in Marmaris and Bodrum](https://www.bbc.co.uk/news/world-58038753) - Some neighbourhoods have been evacuated after gusts of wind spread the flames into residential areas.
 14. [Roma student: 'My only goal is to finish school'](https://www.bbc.co.uk/news/world-europe-57978365) - How one school in Croatia is working to improve education opportunities for Roma children like Kristina.
 15. [Tips from the Netherlands on how to build a nation of cyclists](https://www.bbc.co.uk/news/world-europe-57944428) - Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.
