@@ -5,7 +5,7 @@
 5. [Cliff collapse at Eype beach prompts warning](https://www.bbc.co.uk/news/uk-england-dorset-58053050) - The fall means the beach has been cut off between Eype and Seatown.
 6. [Charlotte Worthington: Family hope Olympic gold inspires others](https://www.bbc.co.uk/news/uk-england-manchester-58033770) - Charlotte Worthington's parents hope her BMX freestyle Olympic gold inspires others.
 7. [Tax fraudster ordered to repay £5.5m within three months](https://www.bbc.co.uk/news/uk-england-tyne-58055929) - Stanley Miller had multiple bank accounts and a property portfolio after evading tax, police say.
-8. [Two die in Wolverhampton crash after police pursuit](https://www.bbc.co.uk/news/uk-england-birmingham-58056728) - The police watchdog begins an investigation which it says is in its early stages.
+8. [Men in 2014 Lowestoft boat accident died after vessel capsized](https://www.bbc.co.uk/news/uk-england-suffolk-58056384) - Andrew Porter and Malcolm Sayer have never been found after their boat capsized in 2014.
 9. [Yordanos Brhane: Murder arrest over Hockley stabbing](https://www.bbc.co.uk/news/uk-england-birmingham-58057890) - Police say they believe the male suspect knew the deceased, 19-year-old Yordanos Brhane.
 10. [Grenfell Tower: Man accused of burning model to face retrial](https://www.bbc.co.uk/news/uk-england-london-58054431) - Paul Bussetti will face a new trial after the High Court quashed his previous acquittal.
 11. [Cambridge University's King's College meadow harvested with horses](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58057800) - The meadow outside King's College Chapel is being harvested using traditional methods.

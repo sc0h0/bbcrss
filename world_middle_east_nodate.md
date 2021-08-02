@@ -1,4 +1,4 @@
-1. [UK summons Iranian envoy over tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - The UK and US blame Iran for the attack in which two people were killed, and have vowed to respond.
+1. [UK and Iran summon diplomats after tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.
 2. [Sheikh Jarrah: Palestinians await Jerusalem evictions ruling](https://www.bbc.co.uk/news/world-middle-east-58024060) - The threatened takeover of homes by Jewish settlers in Sheikh Jarrah has stoked Palestinian anger.
 3. [Tanker attack: UK and US blame Iran for deadly ship attack](https://www.bbc.co.uk/news/world-middle-east-58048007) - The UK accuses Tehran of violating international law, while Iran calls the accusations "baseless".
 4. [Tokyo Olympics: 'Can we have two golds?' - high jumpers share win](https://www.bbc.co.uk/sport/olympics/58048827) - An incredible Olympic high jump final ended with both Qatar's Mutaz Essa Barshim and Italy's Gianmarco Tamberi taking gold medals.

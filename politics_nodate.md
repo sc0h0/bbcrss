@@ -1,6 +1,6 @@
 1. [Covid-19: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 2. [Labour: Tories must come clean over elite donors](https://www.bbc.co.uk/news/uk-politics-58055642) - Newspaper reports say party donors were given access to the PM and chancellor for their contributions.
-3. [UK summons Iranian envoy over tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - The UK and US blame Iran for the attack in which two people were killed, and have vowed to respond.
+3. [UK and Iran summon diplomats after tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.
 4. [Humza Yousaf reports nursery over discrimination fears](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234) - Health Secretary Humza Yousaf says his daughter was twice refused a place at the nursery, which denies any discrimination.
 5. [Carrie Johnson and Boris Johnson expecting second child](https://www.bbc.co.uk/news/uk-58042146) - The couple are expecting a second child, months after a miscarriage left Carrie "heartbroken".
 6. [Pingdemic: ‘I'm losing hundreds of pounds in tips’](https://www.bbc.co.uk/news/business-57997447) - An ill-timed alert on the NHS Covid app can mean bar staff losing out on tip income at the weekend.

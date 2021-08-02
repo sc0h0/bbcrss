@@ -1,4 +1,4 @@
-1. [Bridgend river death: Boy, 5, named as Logan Mwangi](https://www.bbc.co.uk/news/uk-wales-58049509) - Three people are arrested on suspicion of murder after Logan Mwangi was found on Saturday.
+1. [Bridgend river death: Boy, 5, named as Logan Mwangi](https://www.bbc.co.uk/news/uk-wales-58049509) - Three people are arrested on suspicion of murder after Logan Mwangi, also known as Williamson, died.
 2. [I'm a Celebrity...Get Me Out Here! to return to Wales in 2021](https://www.bbc.co.uk/news/uk-wales-58053077) - The 21st series of the hit ITV reality show is set to return to Gwrych Castle in November.
 3. [Wales weather warning: Thunderstorms set to hit south-east Wales](https://www.bbc.co.uk/news/uk-wales-58056577) - The yellow warning could see lightning strikes and heavy rain damaging homes, the Met Office says.
 4. [Hay director Peter Florence quits as gross misconduct claim upheld](https://www.bbc.co.uk/news/uk-wales-58060304) - Peter Florence was suspended in October following an internal complaint against him.

@@ -1,6 +1,6 @@
 1. [Belarus Olympian given Polish visa after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
 2. [Transgender athlete Hubbard out of Olympics](https://www.bbc.co.uk/sport/olympics/58054891) - Transgender athlete Laurel Hubbard makes Olympic history but fails to record a successful lift in the women's +87kg weightlifting.
-3. [UK summons Iranian envoy over tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - The UK and US blame Iran for the attack in which two people were killed, and have vowed to respond.
+3. [UK and Iran summon diplomats after tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.
 4. [Turkey wildfires: Eight dead as blazes sweep through tourist resorts](https://www.bbc.co.uk/news/world-europe-58057081) - Firefighters battle blazes in soaring temperatures as wildfires ravage resorts in southern Europe.
 5. [Matt Damon's daughter stopped him using a gay slur](https://www.bbc.co.uk/news/entertainment-arts-58053709) - The actor vowed to never use term again after his daughter explained to him why it was unacceptable.
 6. [Kenya's first female paraglider on life from a bird's eye view](https://www.bbc.co.uk/news/world-africa-58055592) - "Kenya 1" aka Nyambura Kariuki, shares her thoughts on being Kenya's first ever female paraglider.
