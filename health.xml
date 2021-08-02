@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 23:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 00:23:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[NHS pay: Call for privately employed staff to get increase]]></title>
+            <description><![CDATA[Cleaners and others employed by contractors should receive the same rise as NHS staff, a union says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58047623</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58047623</guid>
+            <pubDate>Sun, 01 Aug 2021 23:52:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Pulse oxygen monitors work less well on darker skin, experts say]]></title>
             <description><![CDATA[Pulse oximeters, which spot falling oxygen levels, may work less well on darker skin, experts warn.]]></description>
@@ -100,13 +107,6 @@
             <pubDate>Wed, 28 Jul 2021 18:10:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blood inquiry: Former health minister defends blood products advice on Aids]]></title>
-            <description><![CDATA[Infected blood scandal survivors have accused ministers of misleading the public in 1983.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58004764</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58004764</guid>
-            <pubDate>Wed, 28 Jul 2021 16:17:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid vaccines: Tourists head to the US to get vaccinated]]></title>
             <description><![CDATA[Some tourists are spending thousands of dollars to travel to the US to get a coronavirus vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58004253</link>
@@ -147,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/world-57796133</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-57796133</guid>
             <pubDate>Thu, 15 Jul 2021 00:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why bonding over the Euros appeared to increase Covid cases in men]]></title>
+            <description><![CDATA[Psychologists say men need to be part of a group in order to vent their feelings and emotions.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58015593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58015593</guid>
+            <pubDate>Sun, 01 Aug 2021 23:34:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>

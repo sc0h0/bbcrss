@@ -23,5 +23,5 @@
 23. [Arestio tri ar amheuaeth o lofruddiaeth ar ôl marwolaeth bachgen](https://www.bbc.co.uk/newyddion/58050940) - Sun, 01 Aug 2021 20:09:17 GMT - Tri o bobl wedi'u harestio ar amheuaeth o lofruddiaeth ar ôl i fachgen 5 oed gael ei ganfod yn farw yn Afon Ogwr.
 24. ['Dim cymhellion i Gymry ifanc gael brechiad,' medd Llywodraeth Cymru](https://www.bbc.co.uk/newyddion/58050935) - Sun, 01 Aug 2021 18:00:14 GMT - Yn wahanol i Loegr, nid yw Llywodraeth Cymru'n bwriadu cynnig cymhellion i bobl ifanc gael brechlyn Covid.
 25. [Arestio dyn wedi marwolaeth merch 15 oed mewn parc gwyliau](https://www.bbc.co.uk/newyddion/58048276) - Sun, 01 Aug 2021 11:47:15 GMT - Dyn, 19, wedi ei arestio yn dilyn marwolaeth merch, 15, mewn parc gwyliau ger Abergele ddydd Sadwrn.
-26. [Llythyrau caru a thystion: Sut oedd hawlio iawndal ar ôl torcalon](https://www.bbc.co.uk/newyddion/58029257) - Sun, 01 Aug 2021 07:30:32 GMT - Elin Tomos sy'n edrych ar hanes y ddeddf Torri Amod Priodas.
+26. [Ateb y Galw: Y cerddor Marged Rhys](https://www.bbc.co.uk/newyddion/57983627) - Mon, 02 Aug 2021 00:01:32 GMT - Y cerddor Marged Rhys sy'n cael ei holi yr wythnos yma.
 27. [Abertawe yn penodi Russell Martin yn brif hyfforddwr](https://www.bbc.co.uk/newyddion/58034032) - Sun, 01 Aug 2021 17:36:48 GMT - Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Aug 2021 23:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 00:21:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Wed, 28 Jul 2021 06:44:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Then and now: The burning issue of wildfires]]></title>
+            <description><![CDATA[Scientists are increasingly concerned climate change is making fires more frequent and more intense.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57946155</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57946155</guid>
+            <pubDate>Sun, 01 Aug 2021 23:21:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate change: Researchers begin discussions on vital report]]></title>
             <description><![CDATA[A two-week virtual negotiation begins on the most critical climate change report since 2013.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57944015</link>
@@ -112,13 +119,6 @@
             <link>https://www.bbc.co.uk/news/uk-57838103</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57838103</guid>
             <pubDate>Thu, 15 Jul 2021 13:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Science failed to predict flood and heat intensity]]></title>
-            <description><![CDATA[Scientists want a super-computer powerful enough to accurately project the most damaging extremes.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57863205</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57863205</guid>
-            <pubDate>Fri, 16 Jul 2021 11:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bezos' $2bn offer to get back in race to the Moon]]></title>
