@@ -1,4 +1,4 @@
-1. [UK defence firm Meggitt bought by US giant](https://www.bbc.co.uk/news/business-58054184) - Mon, 02 Aug 2021 07:15:42 GMT - The aerospace technology firm agrees to a £6.3bn takeover bid from US company Parker-Hannifin.
+1. [Defence firm Meggitt's new US owner in jobs pledge](https://www.bbc.co.uk/news/business-58054184) - Mon, 02 Aug 2021 09:49:16 GMT - US company Parker-Hannifin, which is buying Meggitt for £6.3bn, says it will safeguard UK jobs.
 2. [Banking giant HSBC sees first half profit more than double](https://www.bbc.co.uk/news/business-58051818) - Mon, 02 Aug 2021 07:02:40 GMT - The UK-based firm said the jump in profits was driven by an economic rebound in Britain and Hong Kong.
 3. [Smaller firms hit by 'pingdemic' staff shortages](https://www.bbc.co.uk/news/business-57997447) - Sun, 01 Aug 2021 23:15:53 GMT - An ill-timed alert on the NHS Covid app can mean bar staff losing out on tip income at the weekend.
 4. [Beyond Meat boss backs tax on meat consumption](https://www.bbc.co.uk/news/business-58032552) - Sun, 01 Aug 2021 23:29:05 GMT - Ethan Brown tells the BBC his firm wants to bring down the price of plant-based meat.
