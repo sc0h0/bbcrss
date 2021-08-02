@@ -6,9 +6,9 @@
 6. [Tokyo Olympics: Serhiy Kulish eliminated after shooting at rival's target](https://www.bbc.co.uk/sport/olympics/58059350) - Ukraine's Serhiy Kulish gets distracted by a wardrobe malfunction and shoots at his rival's target.
 7. [Mitholz - the tranquil Swiss village facing a time bomb](https://www.bbc.co.uk/news/world-europe-57996485) - More than 60 years after a deadly explosion ruined Mitholz, the village remains under threat.
 8. [BMX 360 backflip: The trick that secured Charlotte Worthington Team GB gold](https://www.bbc.co.uk/sport/olympics/58047473) - A trick revered, unexpected and never done by a woman before - what is the backflip 360 pulled off by Charlotte Worthington?
-9. [The EU vaccine 'passport' and what it means for travel](https://www.bbc.co.uk/news/explainers-57665765) - An EU vaccine "passport" is being introduced, enabling holders to prove they have been jabbed.
-10. [Covid: Stalled Russian vaccines cause global anger](https://www.bbc.co.uk/news/world-europe-58003893) - Deliveries of Russia's Sputnik V vaccine have fallen far below expectations.
-11. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
+9. [Dementia risk greatest for defenders, says new research](https://www.bbc.co.uk/sport/football/58060644) - The risk of dementia in former footballers increases according to the position they played in, says new research.
+10. [The EU vaccine 'passport' and what it means for travel](https://www.bbc.co.uk/news/explainers-57665765) - An EU vaccine "passport" is being introduced, enabling holders to prove they have been jabbed.
+11. [Covid: Stalled Russian vaccines cause global anger](https://www.bbc.co.uk/news/world-europe-58003893) - Deliveries of Russia's Sputnik V vaccine have fallen far below expectations.
 12. [Extreme weather: What causes flash flooding?](https://www.bbc.co.uk/news/science-environment-57969877) - Cities across the world are at risk of extreme rainfall overwhelming their streets
 13. [Turkey wildfires: People flee as blazes spread in Marmaris and Bodrum](https://www.bbc.co.uk/news/world-58038753) - Some neighbourhoods have been evacuated after gusts of wind spread the flames into residential areas.
 14. [Roma student: 'My only goal is to finish school'](https://www.bbc.co.uk/news/world-europe-57978365) - How one school in Croatia is working to improve education opportunities for Roma children like Kristina.

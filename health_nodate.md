@@ -1,4 +1,4 @@
-1. [Covid: NHS app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
+1. [NHS Covid-19 app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
 2. [Football: Dementia risk greatest for defenders](https://www.bbc.co.uk/sport/football/58060644) - The risk of dementia in former footballers increases according to the position they played in, says new research.
 3. [NHS pay: Call for privately employed staff to get increase](https://www.bbc.co.uk/news/uk-58047623) - Cleaners and others employed by contractors should receive the same rise as NHS staff, a union says.
 4. [No Covid traces found in railway stations or trains](https://www.bbc.co.uk/news/uk-58052378) - Heavily touched areas like escalator handles, ticket machines and benches were swabbed for the virus.

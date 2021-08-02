@@ -1,5 +1,5 @@
-1. [Covid: PM wants 'balanced and simple' approach to travel](https://www.bbc.co.uk/news/uk-58059614) - Boris Johnson says the UK must not import Covid variants amid speculation about an amber watchlist.
-2. [Covid: NHS app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
+1. [Covid: PM defends approach to international travel](https://www.bbc.co.uk/news/uk-58059614) - Boris Johnson says the UK must not import Covid variants amid speculation about an amber watchlist.
+2. [NHS Covid-19 app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
 3. [Labour: Tories must come clean over elite donors](https://www.bbc.co.uk/news/uk-politics-58055642) - Newspaper reports say party donors were given access to the PM and chancellor for their contributions.
 4. [UK and Iran summon diplomats after tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.
 5. [Humza Yousaf reports nursery over discrimination fears](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234) - Health Secretary Humza Yousaf says his daughter was twice refused a place at the nursery, which denies any discrimination.
