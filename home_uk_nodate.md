@@ -1,4 +1,4 @@
-1. [Covid: NHS app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - NHS Covid App being tweaked so fewer contacts will be advised to self-isolate following a close contact with a positive case
+1. [Covid: NHS app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
 2. [Tokyo Olympics: Emily Campbell becomes first British female weightlifter to win Olympic medal](https://www.bbc.co.uk/sport/olympics/58059401) - Emily Campbell becomes the first British female weightlifter to win an Olympic medal with +87kg silver.
 3. [Streatham terror attack: Concern over 'extremist' knifeman before release](https://www.bbc.co.uk/news/uk-england-london-58057162) - Sudesh Amman stabbed two people before being shot by police on a south London street last year.
 4. [UK and Iran summon diplomats after tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.

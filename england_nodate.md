@@ -1,9 +1,9 @@
 1. [Streatham terror attack: Concern over 'extremist' knifeman before release](https://www.bbc.co.uk/news/uk-england-london-58057162) - Sudesh Amman stabbed two people before being shot by police on a south London street last year.
-2. [Covid-19: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
-3. [Blackpool drowning: 'Hero' dies saving woman from sea](https://www.bbc.co.uk/news/uk-england-lancashire-58055884) - Alex Gibson, 22, jumped into the sea near Blackpool's North Pier in the early hours of Friday.
-4. [West Midlands Police officer convicted of assaults](https://www.bbc.co.uk/news/uk-england-birmingham-58058831) - PC Declan Jones commits both offences while on duty in Birmingham.
-5. [Tonnes of chalk fall in Beachy Head collapse](https://www.bbc.co.uk/news/uk-england-sussex-58058994) - A major collapse of cliffs at Beachy Head has cut off an access path to the Belle Tout lighthouse.
-6. [Charlotte Worthington: Family hope Olympic gold inspires others](https://www.bbc.co.uk/news/uk-england-manchester-58033770) - Charlotte Worthington's parents hope her BMX freestyle Olympic gold inspires others.
+2. [West Midlands Police officer convicted of assaults](https://www.bbc.co.uk/news/uk-england-birmingham-58058831) - PC Declan Jones commits both offences while on duty in Birmingham.
+3. [Tonnes of chalk fall in Beachy Head collapse](https://www.bbc.co.uk/news/uk-england-sussex-58058994) - A major collapse of cliffs at Beachy Head has cut off an access path to the Belle Tout lighthouse.
+4. [Blackpool drowning: 'Hero' dies saving woman from sea](https://www.bbc.co.uk/news/uk-england-lancashire-58055884) - Alex Gibson, 22, jumped into the sea near Blackpool's North Pier in the early hours of Friday.
+5. [Charlotte Worthington: Family hope Olympic gold inspires others](https://www.bbc.co.uk/news/uk-england-manchester-58033770) - Charlotte Worthington's parents hope her BMX freestyle Olympic gold inspires others.
+6. [Covid: NHS app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
 7. [Tax fraudster ordered to repay £5.5m within three months](https://www.bbc.co.uk/news/uk-england-tyne-58055929) - Stanley Miller had multiple bank accounts and a property portfolio after evading tax, police say.
 8. [Men in 2014 Lowestoft boat accident died after vessel capsized](https://www.bbc.co.uk/news/uk-england-suffolk-58056384) - Andrew Porter and Malcolm Sayer have never been found after their boat capsized in 2014.
 9. [Yordanos Brhane: Murder arrest over Hockley stabbing](https://www.bbc.co.uk/news/uk-england-birmingham-58057890) - Police say they believe the male suspect knew the deceased, 19-year-old Yordanos Brhane.

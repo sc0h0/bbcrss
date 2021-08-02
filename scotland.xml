@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 15:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 15:47:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -38,10 +38,10 @@
         </item>
         <item>
             <title><![CDATA[Duncan Scott's parents 'delighted' at Tokyo Olympics success]]></title>
-            <description><![CDATA[The swimmer's parents have been watching the "nail biting" action alone at home in Clackmannanshire.]]></description>
+            <description><![CDATA[The swimmer's parents have been watching the "nail biting" action from their home in Clackmannanshire.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58055682</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58055682</guid>
-            <pubDate>Mon, 02 Aug 2021 10:13:20 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 15:41:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Warning of water scarcity following dry weather]]></title>
@@ -77,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58049594</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58049594</guid>
             <pubDate>Mon, 02 Aug 2021 08:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: Swimming success and nursery 'discrimination' claim]]></title>
-            <description><![CDATA[Duncan Scott's Olympic success leads several papers, while another reports claims of discrimination at a Scottish nursery.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58053253</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58053253</guid>
-            <pubDate>Mon, 02 Aug 2021 07:36:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Laser pen shone at search and rescue helicopter near Dumfries]]></title>
@@ -226,6 +219,13 @@
             <pubDate>Mon, 02 Aug 2021 12:22:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Jemma Reekie aiming to emulate Dame Kelly Holmes' glory]]></title>
+            <description><![CDATA[Jemma Reekie is taking inspiration from Dame Kelly Holmes as she prepares to try to emulate her feat of an Olympic medal in the 800m.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58014929</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58014929</guid>
+            <pubDate>Mon, 02 Aug 2021 15:44:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Malmo v Rangers: Steven Gerrard expects 'physically strong' challenge]]></title>
             <description><![CDATA[Steven Gerrard anticipates a "physically strong" challenge from Malmo in Rangers' Champions League qualifier.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58059487</link>
@@ -238,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58056114</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58056114</guid>
             <pubDate>Mon, 02 Aug 2021 08:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motherwell 2-3 Hibernian: Visitors claim thrilling opening win]]></title>
-            <description><![CDATA[Hibernian fans played a "massive part" in their team's thrilling comeback victory at Motherwell, says head coach Jack Ross.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57958660</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57958660</guid>
-            <pubDate>Mon, 02 Aug 2021 08:36:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

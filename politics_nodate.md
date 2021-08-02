@@ -1,4 +1,4 @@
-1. [Covid: NHS app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - NHS Covid App being tweaked so fewer contacts will be advised to self-isolate following a close contact with a positive case
+1. [Covid: NHS app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
 2. [Covid-19: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 3. [Labour: Tories must come clean over elite donors](https://www.bbc.co.uk/news/uk-politics-58055642) - Newspaper reports say party donors were given access to the PM and chancellor for their contributions.
 4. [UK and Iran summon diplomats after tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.
