@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 21:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 21:22:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[China Covid: Concerns grow as Delta outbreak spreads]]></title>
-            <description><![CDATA[Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58052894</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58052894</guid>
-            <pubDate>Mon, 02 Aug 2021 14:17:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Afghanistan: Street fighting rages as Taliban attack key city]]></title>
             <description><![CDATA[The militants are battling to take control of a provincial capital for the first time in years.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58051481</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58051481</guid>
             <pubDate>Mon, 02 Aug 2021 21:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China Covid: Concerns grow as Delta outbreak spreads]]></title>
+            <description><![CDATA[Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58052894</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58052894</guid>
+            <pubDate>Mon, 02 Aug 2021 14:17:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China flood death toll rises sharply to over 300]]></title>
@@ -63,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-57913544</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-57913544</guid>
             <pubDate>Mon, 02 Aug 2021 08:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How South Korea's migrant wives are breaking the glass ceiling]]></title>
-            <description><![CDATA[Many arrived not knowing the language, but are now carving out a significant place in society.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57716704</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57716704</guid>
-            <pubDate>Mon, 02 Aug 2021 01:56:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Orphan's reunion with British soldier after 19 years]]></title>
@@ -140,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-58021911</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58021911</guid>
             <pubDate>Fri, 30 Jul 2021 09:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How South Korea's migrant wives are breaking the glass ceiling]]></title>
+            <description><![CDATA[Many arrived not knowing the language, but are now carving out a significant place in society.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-57716704</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57716704</guid>
+            <pubDate>Mon, 02 Aug 2021 01:56:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Weightlifter at the centre of sport's transgender debate]]></title>
