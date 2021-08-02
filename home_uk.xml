@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 10:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 10:38:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58039094</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58039094</guid>
             <pubDate>Mon, 02 Aug 2021 05:08:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samaritans volunteers met vulnerable callers for sex]]></title>
+            <description><![CDATA[The charity says it is taking action following a "very small number of safeguarding incidents".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58057031</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58057031</guid>
+            <pubDate>Mon, 02 Aug 2021 10:30:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Covid traces found in railway stations or trains]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58029042</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58029042</guid>
             <pubDate>Sun, 01 Aug 2021 21:28:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Banking giant HSBC sees first half profit more than double]]></title>
-            <description><![CDATA[The UK-based firm said the jump in profits was driven by an economic rebound in Britain and Hong Kong.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58051818</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58051818</guid>
-            <pubDate>Mon, 02 Aug 2021 07:02:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Watch the moment Australian's handlebars fall off]]></title>
@@ -142,18 +142,25 @@
             <pubDate>Sun, 01 Aug 2021 06:59:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EastEnders: 'I was ignorant about my schizophrenia']]></title>
-            <description><![CDATA[Antonio Ferreira is using his personal experience to advise the soap on a storyline.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57986350</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57986350</guid>
-            <pubDate>Sun, 01 Aug 2021 23:34:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The reluctant history-maker in sport's transgender debate]]></title>
             <description><![CDATA[Weightlifter Laurel Hubbard is set to become the first openly transgender athlete to compete in a different gender category to that which they were born at an Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57989022</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57989022</guid>
             <pubDate>Sun, 01 Aug 2021 08:32:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pingdemic: ‘I'm losing hundreds of pounds in tips’]]></title>
+            <description><![CDATA[An ill-timed alert on the NHS Covid app can mean bar staff losing out on tip income at the weekend.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57997447</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57997447</guid>
+            <pubDate>Mon, 02 Aug 2021 10:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EastEnders: 'I was ignorant about my schizophrenia']]></title>
+            <description><![CDATA[Antonio Ferreira is using his personal experience to advise the soap on a storyline.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57986350</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57986350</guid>
+            <pubDate>Sun, 01 Aug 2021 23:34:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why bonding over the Euros appeared to increase Covid cases in men]]></title>
@@ -206,17 +213,17 @@
         </item>
         <item>
             <title><![CDATA[Kenny starts bid for gold, medal hopes in eventing & Muir into semis - what's happened so far on day 10?]]></title>
-            <description><![CDATA[Great Britain qualify second fastest in the team pursuit on a day that could deliver more medals in Tokyo.]]></description>
+            <description><![CDATA[Great Britain win a first Olympic team eventing gold since 1972 while the women's team pursuit gets off to a promising start.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58052368</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58052368</guid>
-            <pubDate>Mon, 02 Aug 2021 10:01:43 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 10:34:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain eventers win team gold in Tokyo]]></title>
+            <title><![CDATA[Tokyo Olympics: Great Britain eventers win team gold for first time in 49 years]]></title>
             <description><![CDATA[Great Britain win Olympic team eventing gold for the first time in 49 years and are well placed for individual medals later on Monday.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58047135</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047135</guid>
-            <pubDate>Mon, 02 Aug 2021 10:16:43 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 10:34:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Simone Biles on start list for beam final]]></title>
@@ -224,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58054200</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58054200</guid>
             <pubDate>Mon, 02 Aug 2021 09:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Oliver Townend leads Team GB to gold medal in eventing]]></title>
+            <description><![CDATA[Watch the moment Oliver Townend seals Great Britain's first Olympic team eventing gold medal in 49 years the team eventing final at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58056120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58056120</guid>
+            <pubDate>Mon, 02 Aug 2021 10:26:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Great Britain women and men progress in team pursuit]]></title>
@@ -238,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58056117</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58056117</guid>
             <pubDate>Mon, 02 Aug 2021 10:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: Watch the best bits from our 'favourite martial arts expert' Lutalo Muhammad]]></title>
-            <description><![CDATA[Lutalo Muhammad lights up Tokyo 2020 with his taekwondo demonstrations, passionate reactions and top-notch analysis in the best bits from the Tokyo 2020 BBC Sport pundit.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58039961</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58039961</guid>
-            <pubDate>Mon, 02 Aug 2021 07:29:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Laura Muir progresses, Sifan Hassan falls but wins, Shericka Jackson exits]]></title>
@@ -359,6 +366,20 @@
             <pubDate>Tue, 27 Jul 2021 23:01:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How many cases are in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sun, 01 Aug 2021 15:56:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the Delta, Gamma, Beta and Alpha Covid variants?]]></title>
+            <description><![CDATA[UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55659820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55659820</guid>
+            <pubDate>Mon, 02 Aug 2021 09:56:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘Covid passports’: How to get the NHS Covid Pass]]></title>
             <description><![CDATA[People in England can use the pass for travel and to visit venues which ask for them.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
@@ -387,13 +408,6 @@
             <pubDate>Mon, 14 Jun 2021 10:57:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How many cases are in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sun, 01 Aug 2021 15:56:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: How is furlough changing and when will it end?]]></title>
             <description><![CDATA[Employers will contribute more to the cost of keeping their staff furloughed from 1 August.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52135342</link>
@@ -419,7 +433,7 @@
             <description><![CDATA[Key maps and charts explaining how the virus has spread around the world.]]></description>
             <link>https://www.bbc.co.uk/news/world-51235105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
-            <pubDate>Fri, 30 Jul 2021 10:06:03 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 10:28:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the holiday rules for travel to green, amber and red list countries?]]></title>
