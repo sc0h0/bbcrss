@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 21:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 21:49:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58065081</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58065081</guid>
             <pubDate>Mon, 02 Aug 2021 21:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Cancer surgery cancellations 'potentially avoidable']]></title>
-            <description><![CDATA[The Royal College of Surgeons says it had suggested plans to keep cancer surgeries on track.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58053491</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58053491</guid>
-            <pubDate>Mon, 02 Aug 2021 21:36:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Pancreatic cancer surgery cancellation 'devastating' for family]]></title>
@@ -44,6 +37,13 @@
             <pubDate>Mon, 02 Aug 2021 15:19:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Cancer surgery cancellations 'potentially avoidable']]></title>
+            <description><![CDATA[The Royal College of Surgeons says it had suggested plans to keep cancer surgeries on track.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58053491</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58053491</guid>
+            <pubDate>Mon, 02 Aug 2021 21:36:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[La Girona: Investigation over suspected shipwreck theft]]></title>
             <description><![CDATA[Divers have allegedly removed artefacts from an Armada warship sunk off the County Antrim coast.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58062920</link>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58058272</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58058272</guid>
             <pubDate>Mon, 02 Aug 2021 15:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Belfast: Bullet lodged in house door after shooting]]></title>
+            <description><![CDATA[Police say the attack, which happened on Sunday evening, could have had serious consequences.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58062423</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58062423</guid>
+            <pubDate>Mon, 02 Aug 2021 21:43:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cregagh: Family forced to move after 'sectarian threat']]></title>
@@ -91,41 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-58050538</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58050538</guid>
             <pubDate>Mon, 02 Aug 2021 12:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: The NI athletes in action in the second week of the Games]]></title>
-            <description><![CDATA[Of the 31 Northern Irish athletes to be selected to compete at the Tokyo Olympics, only six remain in competition in the days to come]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58047094</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047094</guid>
-            <pubDate>Mon, 02 Aug 2021 04:52:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: 'I had a little niggle' - Ciara Mageean misses out in 1500m heats]]></title>
-            <description><![CDATA[Ireland's 1500m hopeful Ciara Mageean is out of the Tokyo Olympics after finishing 10th in her heat, as Sarah Healy and Phil Healy also fail to progress.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58020643</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58020643</guid>
-            <pubDate>Mon, 02 Aug 2021 05:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Rhys McClenaghan seventh in men's pommel horse final]]></title>
-            <description><![CDATA[Rhys McClenaghan suffers Olympic heartbreak as a dismount early in his routine saw him finish seventh in the men's pommel horse final]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58047092</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047092</guid>
-            <pubDate>Sun, 01 Aug 2021 10:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We'll be back better' - GB captain Ames after hockey exit]]></title>
-            <description><![CDATA[Team GB's men's hockey player David Ames tells BBC Sport that the squad will come back 'better and stronger' after their Tokyo 2020 quarter-final defeat to India.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58053174</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58053174</guid>
-            <pubDate>Mon, 02 Aug 2021 06:56:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: Rory McIlroy says Olympics not just another tournament after missing out on medal]]></title>
-            <description><![CDATA[Rory McIlroy admits his perception of participating in the Olympic Games has changed after missing out on a medal in the men's golf tournament in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58040578</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58040578</guid>
-            <pubDate>Sun, 01 Aug 2021 10:11:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Are NI's young people resisting the vaccine?]]></title>
