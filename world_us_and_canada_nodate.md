@@ -1,5 +1,5 @@
-1. [Raven Saunders: What the Olympian's X protest means to her](https://www.bbc.co.uk/news/world-us-canada-58048727) - The US shot-putter defies a ban on podium gestures after taking silver at the Tokyo Games.
-2. [Canada fines travellers for fake vaccination and testing papers](https://www.bbc.co.uk/news/world-us-canada-58063647) - The travellers arriving from the US were caught and fined C$19,720 ($16,000, £11,500).
+1. [Canada fines travellers for fake vaccination and testing papers](https://www.bbc.co.uk/news/world-us-canada-58063647) - The travellers arriving from the US were caught and fined C$19,720 ($16,000, £11,500).
+2. [Covid third wave: Americans 'scared and angry' as pandemic worsens](https://www.bbc.co.uk/news/world-us-canada-58014719) - As the Delta variant causes a rethink about risk, Americans are battling to keep a feeling of normalcy.
 3. [Goldman Sachs raises banker pay after 95-hour week complaint](https://www.bbc.co.uk/news/business-58054983) - The pay rise comes as top city banker says young recruits should stop moaning about long hours.
 4. [Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting](https://www.bbc.co.uk/news/newsbeat-58054216) - The suspected shooter, Joseph Jimenez, 20, appeared in Riverside County Superior Court on Friday.
 5. [Matt Damon's daughter stopped him using a gay slur](https://www.bbc.co.uk/news/entertainment-arts-58053709) - The actor vowed to never use term again after his daughter explained to him why it was unacceptable.
