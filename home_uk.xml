@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 20:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 20:39:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Mon, 02 Aug 2021 16:15:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bridgend river death: Boy, 5, named as Logan Mwangi]]></title>
-            <description><![CDATA[Three people are arrested on suspicion of murder after Logan Mwangi, also known as Williamson, died.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58049509</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58049509</guid>
-            <pubDate>Mon, 02 Aug 2021 19:51:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dizzee Rascal: Rapper charged with assaulting woman]]></title>
             <description><![CDATA[The rapper, whose real name is Dylan Mills, is charged with assault after an incident in south London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58063759</link>
@@ -58,11 +51,18 @@
             <pubDate>Mon, 02 Aug 2021 19:26:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NHS app tweaked and I'm a Celeb returns to Wales]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58057037</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58057037</guid>
-            <pubDate>Mon, 02 Aug 2021 16:41:09 GMT</pubDate>
+            <title><![CDATA[Hugs and tears at Heathrow as families reunite]]></title>
+            <description><![CDATA[Changes to UK travel rules for fully vaccinated US and EU passengers have lead to emotional scenes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58055804</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58055804</guid>
+            <pubDate>Mon, 02 Aug 2021 17:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bridgend river death: Boy, 5, named as Logan Mwangi]]></title>
+            <description><![CDATA[Three people are arrested on suspicion of murder after Logan Mwangi, also known as Williamson, died.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58049509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58049509</guid>
+            <pubDate>Mon, 02 Aug 2021 19:51:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Streatham terror attack: Concern over 'extremist' knifeman before release]]></title>
@@ -79,11 +79,11 @@
             <pubDate>Mon, 02 Aug 2021 16:32:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hugs and tears at Heathrow as families reunite]]></title>
-            <description><![CDATA[Changes to UK travel rules for fully vaccinated US and EU passengers have lead to emotional scenes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58055804</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58055804</guid>
-            <pubDate>Mon, 02 Aug 2021 17:01:18 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Street fighting rages as Taliban attack key city]]></title>
+            <description><![CDATA[The militants are battling to take control of a provincial capital for the first time in years.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58051481</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58051481</guid>
+            <pubDate>Mon, 02 Aug 2021 18:30:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK and Iran summon diplomats after tanker attack]]></title>
@@ -280,6 +280,13 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58060548</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58060548</guid>
             <pubDate>Mon, 02 Aug 2021 15:15:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Emily Campbell becomes first British female weightlifter to win medal]]></title>
+            <description><![CDATA[Watch highlights as Emily Campbell becomes the first British female weightlifter to win an Olympic medal with +87kg silver.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58056714</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58056714</guid>
+            <pubDate>Mon, 02 Aug 2021 13:51:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Laurel Hubbard out of weightlifting after failing to register successful lift]]></title>
