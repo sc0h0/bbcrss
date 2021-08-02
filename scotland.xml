@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 19:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 19:33:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,32 +37,11 @@
             <pubDate>Mon, 02 Aug 2021 14:48:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Duncan Scott's parents 'delighted' at Tokyo Olympics success]]></title>
-            <description><![CDATA[The swimmer's parents have been watching the "nail biting" action from their home in Clackmannanshire.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58055682</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58055682</guid>
-            <pubDate>Mon, 02 Aug 2021 16:10:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[East Kilbride taxi driver cleared of passenger's murder]]></title>
             <description><![CDATA[Derek McClinton was accused of killing Craig Kearney after he called him "specky" in March 2017.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58063277</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58063277</guid>
             <pubDate>Mon, 02 Aug 2021 16:48:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Muir eases through as calm conditions thwart sailors]]></title>
-            <description><![CDATA[Laura Muir is into the 1500m semi-finals while Scotland's hopes of sailing medals have been thwarted - temporarily by calm conditions - as the Olympics rolls into its final week in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58032308</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58032308</guid>
-            <pubDate>Mon, 02 Aug 2021 14:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COP26: How is Scotland tackling climate change?]]></title>
-            <description><![CDATA[The Scottish government says its targets are some of the toughest in the world - but what progress is being made?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57970435</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57970435</guid>
-            <pubDate>Mon, 02 Aug 2021 05:31:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland's gas pipelines sold to Canadian consortium]]></title>
@@ -77,6 +56,27 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58057302</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58057302</guid>
             <pubDate>Mon, 02 Aug 2021 12:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COP26: How is Scotland tackling climate change?]]></title>
+            <description><![CDATA[The Scottish government says its targets are some of the toughest in the world - but what progress is being made?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57970435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57970435</guid>
+            <pubDate>Mon, 02 Aug 2021 05:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Muir eases through as calm conditions thwart sailors]]></title>
+            <description><![CDATA[Laura Muir is into the 1500m semi-finals while Scotland's hopes of sailing medals have been thwarted - temporarily by calm conditions - as the Olympics rolls into its final week in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58032308</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58032308</guid>
+            <pubDate>Mon, 02 Aug 2021 14:35:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Duncan Scott's parents 'delighted' at Tokyo Olympics success]]></title>
+            <description><![CDATA[The swimmer's parents have been watching the "nail biting" action from their home in Clackmannanshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58055682</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58055682</guid>
+            <pubDate>Mon, 02 Aug 2021 16:10:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Warning of water scarcity following dry weather]]></title>
