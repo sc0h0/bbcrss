@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 08:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 09:18:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,14 @@
             <description><![CDATA[People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58050538</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58050538</guid>
-            <pubDate>Mon, 02 Aug 2021 08:46:08 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 09:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tanker attack: UK and US blame Iran for deadly ship attack]]></title>
+            <description><![CDATA[The UK accuses Tehran of violating international law, while Iran calls the accusations "baseless".]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58048007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58048007</guid>
+            <pubDate>Sun, 01 Aug 2021 21:28:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carrie Johnson and Boris Johnson expecting second child]]></title>
@@ -28,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-58042146</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58042146</guid>
             <pubDate>Sat, 31 Jul 2021 16:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smaller firms hit by 'pingdemic' staff shortages]]></title>
+            <description><![CDATA[An ill-timed alert on the NHS Covid app can mean bar staff losing out on tip income at the weekend.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57997447</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57997447</guid>
+            <pubDate>Sun, 01 Aug 2021 23:15:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End self-isolation for double-jabbed sooner, says Sir Keir Starmer]]></title>
@@ -149,27 +163,6 @@
             <pubDate>Thu, 29 Jul 2021 11:18:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: University students could be told jabs are required - Raab]]></title>
-            <description><![CDATA[There will be "advance warning" if vaccines become compulsory for halls, the foreign secretary says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58009677</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58009677</guid>
-            <pubDate>Thu, 29 Jul 2021 11:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI abortion: Givan vows to resist commissioning order]]></title>
-            <description><![CDATA[Paul Givan says he is taking legal advice over the order for Stormont to commission abortion services.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58018850</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58018850</guid>
-            <pubDate>Thu, 29 Jul 2021 19:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Price tag for new flagship yacht could hit £250m]]></title>
-            <description><![CDATA[The defence secretary confirms the cost of the new "floating embassy" could be £100m higher than expected.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58002977</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58002977</guid>
-            <pubDate>Wed, 28 Jul 2021 14:50:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Free England from isolation rules earlier - Starmer]]></title>
             <description><![CDATA[Double-vaccinated people should be freed from isolation rules more quickly in England, says Labour leader.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58029002</link>
@@ -203,6 +196,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57986503</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57986503</guid>
             <pubDate>Tue, 27 Jul 2021 12:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Covid passports’: How to get the NHS Covid Pass]]></title>
+            <description><![CDATA[People in England can use the pass for travel and to visit venues which ask for them.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
+            <pubDate>Mon, 02 Aug 2021 08:51:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Official Secrets Act: Do government plans threaten investigative journalism?]]></title>
@@ -259,62 +259,6 @@
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
             <pubDate>Fri, 30 Jul 2021 09:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How does Dominic Cummings now earn a living?]]></title>
-            <description><![CDATA[A profile of Boris Johnson's former right-hand-man, who has turned into his chief tormentor.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-49101464</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-49101464</guid>
-            <pubDate>Tue, 20 Jul 2021 18:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coventry City of Culture: The women who helped shape a 'city of justice']]></title>
-            <description><![CDATA[Coventry women have always been at the heart of the struggle for social justice, a historian says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57555779</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57555779</guid>
-            <pubDate>Sat, 17 Jul 2021 23:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Foreign aid: Who will be hit by the UK government cuts?]]></title>
-            <description><![CDATA[The UK government is reducing its spending this year on foreign aid - with major consequences for some recipients.]]></description>
-            <link>https://www.bbc.co.uk/news/57362816</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57362816</guid>
-            <pubDate>Tue, 13 Jul 2021 16:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What more can be done to stop racist abuse online?]]></title>
-            <description><![CDATA[Abuse directed at England footballers has prompted calls for more action to tackle hate online.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57820048</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57820048</guid>
-            <pubDate>Wed, 14 Jul 2021 14:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are lots of people deleting the NHS Covid app?]]></title>
-            <description><![CDATA[Are people using the government's Covid app or are they deleting it?]]></description>
-            <link>https://www.bbc.co.uk/news/57779371</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57779371</guid>
-            <pubDate>Fri, 16 Jul 2021 15:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Will free school meals continue over summer holidays?]]></title>
-            <description><![CDATA[A year on from Marcus Rashford's successful campaign, what is the current situation?]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-53053337</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53053337</guid>
-            <pubDate>Fri, 02 Jul 2021 16:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does political pressure shape pandemic decisions?]]></title>
-            <description><![CDATA[With Scotland and England on the road out of lockdown, does political pressure encourage a "four nation" approach?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57737414</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-57737414</guid>
-            <pubDate>Wed, 07 Jul 2021 05:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ministers see off MPs' attempts to amend new crime bill]]></title>
-            <description><![CDATA[MPs have approved controversial new public order laws but ministers signal concessions to come.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57680917</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57680917</guid>
-            <pubDate>Tue, 06 Jul 2021 14:03:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
