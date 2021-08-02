@@ -8,7 +8,7 @@
 8. [Dave's new album has biggest opening week of 2021](https://www.bbc.co.uk/news/entertainment-arts-58029355) - We're All Alone In This Together notches up 74,000 sales in its first week on release.
 9. [Amanda Knox claims Matt Damon film Stillwater profits from her life](https://www.bbc.co.uk/news/entertainment-arts-58031645) - The director of Stillwater said he was fascinated by Ms Knox's wrongful murder conviction in Italy.
 10. [Scarlett Johansson sues Disney over streaming of Black Widow](https://www.bbc.co.uk/news/world-us-canada-58017445) - The star says box office takings for Black Widow were hit when it was streamed at the same time.
-11. [The Strokes Is This It at 20: Nudes, booze and 9/11](https://www.bbc.co.uk/news/entertainment-arts-57967493) - How the New York City band's 2001 debut album heralded "a new spirit in guitar music".
+11. [The Strokes' Is This It at 20: Nudes, booze and 9/11](https://www.bbc.co.uk/news/entertainment-arts-57967493) - How the New York City band's 2001 debut album heralded "a new spirit in guitar music".
 12. [H.E.R. on shedding her anonymity and conquering R&B](https://www.bbc.co.uk/news/entertainment-arts-57987421) - For years the singer stayed in the shadows but after Grammy and Oscar wins she's ready to be seen.
 13. [Knitting photo wins Wellcome Photography Prize](https://www.bbc.co.uk/news/in-pictures-57989254) - A gallery of some of the winning pictures from this year's Wellcome Photography Prize.
 14. [Latitude festival: Magical, emotional... and a little bit frightening](https://www.bbc.co.uk/news/entertainment-arts-57946872) - Bands and fans describe the atmosphere at the UK's first full-capacity festival since 2019.

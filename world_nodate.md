@@ -1,4 +1,4 @@
-1. [Belarus Olympian safe in Tokyo hotel after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Krystsina Tsimanouskaya alleges she was almost forced onto a plane home after criticising her coaches.
+1. [Belarus Olympian safe in Tokyo hotel after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Krystsina Tsimanouskaya alleges she was almost forced on to a plane home after criticising her coaches.
 2. [Tanker attack: UK and US blame Iran for deadly ship attack](https://www.bbc.co.uk/news/world-middle-east-58048007) - The UK accuses Tehran of violating international law, while Iran calls the accusations "baseless".
 3. [Turkey: People flee popular tourist spots to escape wildfires](https://www.bbc.co.uk/news/world-europe-58051746) - Footage has emerged showing people fleeing the deadly fires which have engulfed parts of Turkey.
 4. [Sheikh Jarrah: Palestinians await Jerusalem evictions ruling](https://www.bbc.co.uk/news/world-middle-east-58024060) - The threatened takeover of homes by Jewish settlers in Sheikh Jarrah has stoked Palestinian anger.

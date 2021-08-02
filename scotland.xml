@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 07:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 07:20:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid in Scotland: Quarantine ends for fully jabbed EU and US visitors]]></title>
-            <description><![CDATA[Fully vaccinated people from the EU and US no longer have to quarantine after arriving in Scotland.]]></description>
+            <title><![CDATA[Covid in Scotland: No quarantine for fully vaccinated EU and US visitors]]></title>
+            <description><![CDATA[Double-jabbed people from the EU and US no longer have to quarantine after arriving in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58053135</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58053135</guid>
-            <pubDate>Mon, 02 Aug 2021 06:46:00 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 07:18:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: How is Scotland tackling climate change?]]></title>
@@ -65,6 +65,13 @@
             <pubDate>Sun, 01 Aug 2021 07:57:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cardiff Airport: New flight service to Edinburgh to start]]></title>
+            <description><![CDATA[They will be the first flights linking Cardiff and Edinburgh since Flybe collapsed last year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58049504</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58049504</guid>
+            <pubDate>Mon, 02 Aug 2021 07:00:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alex Salmond trial blogger hands himself in to police]]></title>
             <description><![CDATA[Ex-diplomat Craig Murray was sentenced to eight months in jail over blogs he wrote about the trial of Alex Salmond.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58047830</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58046347</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58046347</guid>
             <pubDate>Sun, 01 Aug 2021 09:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Digital vaccine certificates to replace paper versions]]></title>
-            <description><![CDATA[A £600,000 contract has been awarded by the Scottish government to replace the paper Covid vaccination certificates.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58038976</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58038976</guid>
-            <pubDate>Sat, 31 Jul 2021 10:51:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
