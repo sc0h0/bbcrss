@@ -1,5 +1,5 @@
-1. [Three murder arrests over boy's river death in Bridgend](https://www.bbc.co.uk/news/uk-wales-58049509) - Mon, 02 Aug 2021 11:47:10 GMT - They came after the after the body of a boy, named locally as Logan, was found.
-2. [I'm a Celeb set to return to Wales' Gwrych Castle](https://www.bbc.co.uk/news/uk-wales-58053077) - Mon, 02 Aug 2021 11:39:16 GMT - The 21st series of the ITV reality show is set to return to Abergele's Gwrych Castle in November.
+1. [Three murder arrests over boy's river death in Bridgend](https://www.bbc.co.uk/news/uk-wales-58049509) - Mon, 02 Aug 2021 11:50:10 GMT - They came after the after the body of a boy, named locally as Logan, was found.
+2. [I'm a Celeb set to return to Wales' Gwrych Castle](https://www.bbc.co.uk/news/uk-wales-58053077) - Mon, 02 Aug 2021 11:57:37 GMT - The 21st series of the ITV reality show is set to return to Abergele's Gwrych Castle in November.
 3. [Abergele holiday park incident: Man held as girl, 15, dies](https://www.bbc.co.uk/news/uk-wales-58048295) - Sun, 01 Aug 2021 12:06:08 GMT - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
 4. [Coin marks 150 years since Alice in Wonderland sequel](https://www.bbc.co.uk/news/uk-wales-58053780) - Mon, 02 Aug 2021 10:07:56 GMT - The Alice in Wonderland themed £5 coin celebrates 150 years since Lewis Carroll's famous tales.
 5. [Disability: Paralysed woman to swim English Channel](https://www.bbc.co.uk/news/uk-wales-58025736) - Mon, 02 Aug 2021 04:58:04 GMT - Paula Craig, 58, is one of a relay team aiming to complete the 21-mile swim to France.
@@ -23,6 +23,6 @@
 23. [Russell Martin: MK Dons manager named Swansea City head coach](https://www.bbc.co.uk/sport/football/58046826) - Sun, 01 Aug 2021 17:00:28 GMT - Swansea City name MK Dons manager Russell Martin as their new head coach.
 24. [Bachgen fu farw mewn afon wedi'i enwi'n lleol](https://www.bbc.co.uk/newyddion/58058308) - Mon, 02 Aug 2021 11:42:55 GMT - Mae tri pherson wedi eu harestio ar amheuaeth o lofruddiaeth wedi i'w gorff ddod i'r fei yn Afon Ogwr.
 25. ['Mwy o gymorth i eisteddfodau bach yn y dyfodol'](https://www.bbc.co.uk/newyddion/58034025) - Mon, 02 Aug 2021 05:44:38 GMT - Awgrym y bydd mwy o gefnogaeth i eisteddfodau lleol yn y dyfodol i ddelio â gofynion newydd.
-26. [Rhybudd melyn am stormydd i dde Cymru](https://www.bbc.co.uk/newyddion/58056992) - Mon, 02 Aug 2021 10:34:17 GMT - Dywedodd y Swyddfa Dywydd bod perygl y gallai cawodydd trwm o law achosi llifogydd ac oedi i deithwyr.
+26. ['I'm a Celebrity' i ddychwelyd i Abergele am ail flwyddyn](https://www.bbc.co.uk/newyddion/58026949) - Mon, 02 Aug 2021 12:01:31 GMT - Bydd cyfres nesaf y rhaglen deledu yn cael ei lleoli yng Nghastell Gwrych am yr ail flwyddyn yn olynol.
 27. [Oriel: Gig Eisteddfod Gudd](https://www.bbc.co.uk/newyddion/58055724) - Mon, 02 Aug 2021 10:33:48 GMT - Blas o benwythnos o gerddoriaeth fyw wnaeth agor yr Eisteddfod AmGen.
 28. [Abertawe yn penodi Russell Martin yn brif hyfforddwr](https://www.bbc.co.uk/newyddion/58034032) - Sun, 01 Aug 2021 17:36:48 GMT - Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.

@@ -23,6 +23,6 @@
 23. [Russell Martin: MK Dons manager named Swansea City head coach](https://www.bbc.co.uk/sport/football/58046826) - Swansea City name MK Dons manager Russell Martin as their new head coach.
 24. [Bachgen fu farw mewn afon wedi'i enwi'n lleol](https://www.bbc.co.uk/newyddion/58058308) - Mae tri pherson wedi eu harestio ar amheuaeth o lofruddiaeth wedi i'w gorff ddod i'r fei yn Afon Ogwr.
 25. ['Mwy o gymorth i eisteddfodau bach yn y dyfodol'](https://www.bbc.co.uk/newyddion/58034025) - Awgrym y bydd mwy o gefnogaeth i eisteddfodau lleol yn y dyfodol i ddelio â gofynion newydd.
-26. [Rhybudd melyn am stormydd i dde Cymru](https://www.bbc.co.uk/newyddion/58056992) - Dywedodd y Swyddfa Dywydd bod perygl y gallai cawodydd trwm o law achosi llifogydd ac oedi i deithwyr.
+26. ['I'm a Celebrity' i ddychwelyd i Abergele am ail flwyddyn](https://www.bbc.co.uk/newyddion/58026949) - Bydd cyfres nesaf y rhaglen deledu yn cael ei lleoli yng Nghastell Gwrych am yr ail flwyddyn yn olynol.
 27. [Oriel: Gig Eisteddfod Gudd](https://www.bbc.co.uk/newyddion/58055724) - Blas o benwythnos o gerddoriaeth fyw wnaeth agor yr Eisteddfod AmGen.
 28. [Abertawe yn penodi Russell Martin yn brif hyfforddwr](https://www.bbc.co.uk/newyddion/58034032) - Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.

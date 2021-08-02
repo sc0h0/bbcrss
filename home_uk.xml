@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 11:45:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 12:04:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Mon, 02 Aug 2021 10:06:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Transgender athlete Hubbard out of Olympics]]></title>
+            <description><![CDATA[Transgender athlete Laurel Hubbard makes Olympic history but fails to record a successful lift in the women's +87kg weightlifting.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58054891</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58054891</guid>
+            <pubDate>Mon, 02 Aug 2021 11:55:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China Covid: Concerns grow as Delta outbreak spreads]]></title>
             <description><![CDATA[Local headlines have been dominated by news on the outbreak with several provinces affected.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-58052894</link>
@@ -30,18 +37,18 @@
             <pubDate>Mon, 02 Aug 2021 08:48:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grenfell Tower: Man accused of burning model to face retrial]]></title>
-            <description><![CDATA[Paul Bussetti will face a new trial after the High Court quashed his previous acquittal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58054431</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58054431</guid>
-            <pubDate>Mon, 02 Aug 2021 09:11:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Paralysed swimmer in English Channel record bid]]></title>
             <description><![CDATA[Paula Craig was paralysed after being hit by a car in 2001 - now she aims to swim the Channel.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58039094</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58039094</guid>
             <pubDate>Mon, 02 Aug 2021 05:08:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grenfell Tower: Man accused of burning model to face retrial]]></title>
+            <description><![CDATA[Paul Bussetti will face a new trial after the High Court quashed his previous acquittal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58054431</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58054431</guid>
+            <pubDate>Mon, 02 Aug 2021 09:11:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Samaritans volunteers met vulnerable callers for sex]]></title>
@@ -65,25 +72,11 @@
             <pubDate>Mon, 02 Aug 2021 11:20:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting]]></title>
-            <description><![CDATA[The suspected shooter, Joseph Jimenez, 20, appeared in Riverside County Superior Court on Friday.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58054216</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58054216</guid>
-            <pubDate>Mon, 02 Aug 2021 09:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China flood death toll rises sharply to over 300]]></title>
-            <description><![CDATA[More victims are discovered following the severe floods that engulfed Henan province in July.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58056667</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58056667</guid>
-            <pubDate>Mon, 02 Aug 2021 10:36:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Three murder arrests over boy's river death in Bridgend]]></title>
             <description><![CDATA[They came after the after the body of a boy, named locally as Logan, was found.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58049509</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58049509</guid>
-            <pubDate>Mon, 02 Aug 2021 11:27:03 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 11:50:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harry Kane: Tottenham striker fails to show up to Spurs' training ground]]></title>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/sport/football/58053653</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58053653</guid>
             <pubDate>Mon, 02 Aug 2021 11:32:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm a Celeb set to return to Wales' Gwrych Castle]]></title>
+            <description><![CDATA[The 21st series of the ITV reality show is set to return to Abergele's Gwrych Castle in November.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58053077</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58053077</guid>
+            <pubDate>Mon, 02 Aug 2021 11:57:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['The reason I'm doing this is because I was inspired by him']]></title>
@@ -233,18 +233,18 @@
             <pubDate>Mon, 02 Aug 2021 10:26:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Indonesia's Greysia Polii swaps racquet mid-rally before winning badminton gold]]></title>
+            <description><![CDATA[Watch as Indonesia badminton player Greysia Polii swaps her racquet mid-rally during the women's doubles final which she and partner Apriyani Rahayu went on to win.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58056117</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58056117</guid>
+            <pubDate>Mon, 02 Aug 2021 10:09:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Great Britain women and men progress in team pursuit]]></title>
             <description><![CDATA[Great Britain progress in the women's and men's team pursuit as the track cycling gets under way at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58054883</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58054883</guid>
             <pubDate>Mon, 02 Aug 2021 09:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Indonesia's Greysia Poli swaps racquet mid-rally before winning badminton gold]]></title>
-            <description><![CDATA[Watch as Indonesia badminton player Greysia Poli swaps her racquet mid-rally during the women's doubles final which she and partner Apriyani Rahayu went on to win.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58056117</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58056117</guid>
-            <pubDate>Mon, 02 Aug 2021 10:09:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sign up for the BBC Sport app ]]></title>
