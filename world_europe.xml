@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 06:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 07:03:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,13 +23,6 @@
             <pubDate>Mon, 02 Aug 2021 06:04:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turkey: Foreign tourists evacuated as wildfires threaten resorts]]></title>
-            <description><![CDATA[Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58043912</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58043912</guid>
-            <pubDate>Sun, 01 Aug 2021 04:37:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Turkey: People flee popular tourist spots to escape wildfires]]></title>
             <description><![CDATA[Footage has emerged showing people fleeing the deadly fires which have engulfed parts of Turkey.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58051746</link>
@@ -37,11 +30,25 @@
             <pubDate>Mon, 02 Aug 2021 02:25:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Turkey: Foreign tourists evacuated as wildfires threaten resorts]]></title>
+            <description><![CDATA[Coastguard vessels and private boats have brought holidaymakers to safety, as the death toll rises.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58043912</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58043912</guid>
+            <pubDate>Sun, 01 Aug 2021 04:37:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Giant panda twins born in French zoo]]></title>
             <description><![CDATA[The event is described as "exceptional" by experts, as panda reproduction is notoriously difficult.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58052139</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58052139</guid>
             <pubDate>Mon, 02 Aug 2021 04:05:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: New rules for fully jabbed US and EU arrivals begin]]></title>
+            <description><![CDATA[People vaccinated in the EU or US will not need to isolate when coming to the UK from an amber country.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58050538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58050538</guid>
+            <pubDate>Mon, 02 Aug 2021 06:19:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Lamont Marcell Jacobs claims shock 100m gold]]></title>
@@ -58,32 +65,18 @@
             <pubDate>Sun, 01 Aug 2021 14:36:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[French boxer stages ring sit protest after loss]]></title>
-            <description><![CDATA[Frenchman Mourad Aliev refuses to live the ring in the aftermath of his controversial loss to Great Britain's Frazer Clarke.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58045775</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045775</guid>
-            <pubDate>Sun, 01 Aug 2021 07:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon hit with $886m fine for alleged data law breach]]></title>
-            <description><![CDATA[The tech giant rejects claims it has broken European Union data protection laws.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58024116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58024116</guid>
-            <pubDate>Fri, 30 Jul 2021 19:38:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Georgia athletes removed from Games after sightseeing trip]]></title>
-            <description><![CDATA[Two Georgian silver medallists are told to leave the Olympic Games for taking a sightseeing trip in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58039393</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58039393</guid>
-            <pubDate>Sat, 31 Jul 2021 12:47:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mitholz - the tranquil Swiss village facing a time bomb]]></title>
             <description><![CDATA[More than 60 years after a deadly explosion ruined Mitholz, the village remains under threat.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57996485</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57996485</guid>
             <pubDate>Fri, 30 Jul 2021 23:14:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BMX 360 backflip: The trick that secured Charlotte Worthington Team GB gold]]></title>
+            <description><![CDATA[A trick revered, unexpected and never done by a woman before - what is the backflip 360 pulled off by Charlotte Worthington?]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58047473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047473</guid>
+            <pubDate>Sun, 01 Aug 2021 14:28:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The fungus and bacteria tackling plastic waste]]></title>
@@ -98,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58003893</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58003893</guid>
             <pubDate>Thu, 29 Jul 2021 13:24:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dressage: How to make a horse dance]]></title>
-            <description><![CDATA[For some, it's an oddity to watch only at the Olympics... for others, it's a lifetime of training.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-57999120</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-57999120</guid>
-            <pubDate>Thu, 29 Jul 2021 23:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roma child: 'My only goal is to finish school']]></title>
-            <description><![CDATA[How one school in Croatia is working to improve education opportunities for Roma children like Kristina.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57978365</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57978365</guid>
-            <pubDate>Tue, 27 Jul 2021 23:00:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extreme weather: What causes flash flooding?]]></title>
@@ -135,6 +114,13 @@
             <pubDate>Sun, 01 Aug 2021 10:38:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Roma student: 'My only goal is to finish school']]></title>
+            <description><![CDATA[How one school in Croatia is working to improve education opportunities for Roma children like Kristina.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-57978365</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57978365</guid>
+            <pubDate>Tue, 27 Jul 2021 23:00:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tips from the Netherlands on how to build a nation of cyclists]]></title>
             <description><![CDATA[Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57944428</link>
@@ -154,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57923443</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57923443</guid>
             <pubDate>Wed, 21 Jul 2021 18:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First space tourist Dennis Tito: 'I was euphoric']]></title>
-            <description><![CDATA[Dennis Tito paid $20 million to travel to the International Space Station in 2001.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57891867</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57891867</guid>
-            <pubDate>Mon, 19 Jul 2021 23:02:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

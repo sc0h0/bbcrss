@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 06:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 07:04:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Coronavirus: New rules for fully jabbed US and EU arrivals begin]]></title>
-            <description><![CDATA[People vaccinated in the EU or US will not need to isolate when coming to the UK from an amber country.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58050538</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58050538</guid>
-            <pubDate>Mon, 02 Aug 2021 06:19:50 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Quarantine ends for fully jabbed EU and US visitors]]></title>
+            <description><![CDATA[Fully vaccinated people from the EU and US no longer have to quarantine after arriving in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58053135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58053135</guid>
+            <pubDate>Mon, 02 Aug 2021 06:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: How is Scotland tackling climate change?]]></title>
@@ -51,18 +51,11 @@
             <pubDate>Mon, 02 Aug 2021 03:01:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scott: Record medal haul 'doesn't feel real yet']]></title>
-            <description><![CDATA[Duncan Scott on blocking out distractions to make history for Great Britain despite falling short of his four golds target.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58047645</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047645</guid>
-            <pubDate>Sun, 01 Aug 2021 14:04:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alex Salmond trial blogger hands himself in to police]]></title>
-            <description><![CDATA[Ex-diplomat Craig Murray was sentenced to eight months in jail over blogs he wrote about the trial of Alex Salmond.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58047830</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58047830</guid>
-            <pubDate>Sun, 01 Aug 2021 12:17:54 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Muir eases through as calm conditions thwart sailors]]></title>
+            <description><![CDATA[Laura Muir is into the 1500m semi-finals while Scotland's hopes of sailing medals have been thwarted - temporarily by calm conditions - as the Olympics rolls into its final week in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58032308</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58032308</guid>
+            <pubDate>Mon, 02 Aug 2021 06:47:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Thousands of teenagers to get jab before school return]]></title>
@@ -72,18 +65,25 @@
             <pubDate>Sun, 01 Aug 2021 07:57:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Alex Salmond trial blogger hands himself in to police]]></title>
+            <description><![CDATA[Ex-diplomat Craig Murray was sentenced to eight months in jail over blogs he wrote about the trial of Alex Salmond.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58047830</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58047830</guid>
+            <pubDate>Sun, 01 Aug 2021 12:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scott: Record medal haul 'doesn't feel real yet']]></title>
+            <description><![CDATA[Duncan Scott on blocking out distractions to make history for Great Britain despite falling short of his four golds target.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58047645</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047645</guid>
+            <pubDate>Sun, 01 Aug 2021 14:04:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pedestrian dies after being hit by car on A90 near Boddam]]></title>
             <description><![CDATA[The 31-year-old man was struck by a white VW Golf near Boddam in Aberdeenshire at about 00:05 on Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58047825</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58047825</guid>
             <pubDate>Sun, 01 Aug 2021 10:59:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adopting the recovery position]]></title>
-            <description><![CDATA[Banks are taking money out of their bad loan pots and larger companies in Scotland are reflecting activity overseas.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58047221</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58047221</guid>
-            <pubDate>Sun, 01 Aug 2021 09:59:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Residents evacuated after Glasgow tower block fire]]></title>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/health-51205344</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
             <pubDate>Mon, 19 Jul 2021 09:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adopting the recovery position]]></title>
+            <description><![CDATA[Banks are taking money out of their bad loan pots and larger companies in Scotland are reflecting activity overseas.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58047221</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58047221</guid>
+            <pubDate>Sun, 01 Aug 2021 09:59:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Six ways to tackle Scotland's drugs crisis]]></title>
@@ -226,6 +233,13 @@
             <pubDate>Sun, 01 Aug 2021 15:49:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Shelly-Ann Fraser-Pryce and Beth Dobbin progress to 200m semis]]></title>
+            <description><![CDATA[Britain's Beth Dobbin will join Shelly-Ann Fraser-Pryce and Elaine Thompson-Herah in the 200m semi-finals after finishing second in her qualifying heat.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58051768</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58051768</guid>
+            <pubDate>Mon, 02 Aug 2021 05:07:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[British and Irish Lions: Stuart Hogg denies allegations of biting]]></title>
             <description><![CDATA[British and Irish Lions full-back Stuart Hogg denies allegedly biting Willie le Roux during the side's defeat by South Africa in the second Test.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58047341</link>
@@ -238,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/football/58049234</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58049234</guid>
             <pubDate>Sun, 01 Aug 2021 15:59:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch the weekend's Scottish Premiership goals]]></title>
-            <description><![CDATA[Watch all 17 goals from the Scottish Premiership's opening weekend, which included wins for Rangers, Hearts, Aberdeen and Hibernian.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58051205</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58051205</guid>
-            <pubDate>Sun, 01 Aug 2021 23:00:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
