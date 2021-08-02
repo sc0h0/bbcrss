@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 09:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 09:50:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Vaccine complacency warning over Covid deaths]]></title>
+            <description><![CDATA[A senior GP warns of the dangers of a "can't be bothered" attitude towards getting a Covid jab.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58053491</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58053491</guid>
+            <pubDate>Mon, 02 Aug 2021 09:40:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vaccine passport: Almost 300 fraudulent claims rejected]]></title>
             <description><![CDATA[The Department of Health says the system is now "stable and running well".]]></description>
@@ -58,13 +65,6 @@
             <pubDate>Sun, 01 Aug 2021 15:23:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Are NI's young people resisting the vaccine?]]></title>
-            <description><![CDATA[Why do vaccination numbers among the under-30s in Northern Ireland remain relatively low?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57975927</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57975927</guid>
-            <pubDate>Sun, 01 Aug 2021 05:34:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: The NI athletes in action in the second week of the Games]]></title>
             <description><![CDATA[Of the 31 Northern Irish athletes to be selected to compete at the Tokyo Olympics, only six remain in competition in the days to come]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58047094</link>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/sport/golf/58040578</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58040578</guid>
             <pubDate>Sun, 01 Aug 2021 10:11:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Are NI's young people resisting the vaccine?]]></title>
+            <description><![CDATA[Why do vaccination numbers among the under-30s in Northern Ireland remain relatively low?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57975927</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57975927</guid>
+            <pubDate>Sun, 01 Aug 2021 05:34:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Q&A: Getting jabbed after NI vaccination centres close for first jabs]]></title>
