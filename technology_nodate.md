@@ -1,5 +1,5 @@
 1. [NHS Covid-19 app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
-2. [Warship positions faked including British strike group](https://www.bbc.co.uk/news/technology-58027363) - Nearly 100 naval ships may have had their locations faked through manipulation of AIS safety system.
+2. [Warship positions faked including UK aircraft carrier](https://www.bbc.co.uk/news/technology-58027363) - Nearly 100 naval ships may have had their locations faked through manipulation of AIS safety system.
 3. [Anti-Semitic social posts 'not taken down' in 80% of cases](https://www.bbc.co.uk/news/technology-58058428) - A report tracking hundreds of anti-Semitic social posts finds firms fail to act in 80% of cases.
 4. [Afterpay: Jack Dorsey's Square in Australia's biggest buyout](https://www.bbc.co.uk/news/business-58051815) - The $29bn deal for Afterpay will create an instalments payment giant in a hugely growing sector.
 5. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.

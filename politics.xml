@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 17:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 17:57:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,6 +170,13 @@
             <pubDate>Thu, 29 Jul 2021 13:26:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PM: 'We must stop importing variants from abroad']]></title>
+            <description><![CDATA[Boris Johnson says a "balanced approach" is needed for foreign travel but wants advice to be "simple".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58063002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58063002</guid>
+            <pubDate>Mon, 02 Aug 2021 17:48:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Free England from isolation rules earlier - Starmer]]></title>
             <description><![CDATA[Double-vaccinated people should be freed from isolation rules more quickly in England, says Labour leader.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58029002</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57988623</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57988623</guid>
             <pubDate>Tue, 27 Jul 2021 13:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson on Covid infection rates falling for six days]]></title>
-            <description><![CDATA[The prime minister urges people not to “run away with premature conclusions” amid a fall in positive test numbers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57986503</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57986503</guid>
-            <pubDate>Tue, 27 Jul 2021 12:34:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Covid passports’: How to get the NHS Covid Pass]]></title>
