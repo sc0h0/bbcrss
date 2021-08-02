@@ -1,4 +1,4 @@
-1. [China Covid: Concerns grow as Delta outbreak spreads](https://www.bbc.co.uk/news/world-asia-china-58052894) - Local headlines have been dominated by news on the outbreak with several provinces affected.
+1. [China Covid: Concerns grow as Delta outbreak spreads](https://www.bbc.co.uk/news/world-asia-china-58052894) - Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.
 2. [China flood death toll rises sharply to over 300](https://www.bbc.co.uk/news/world-asia-china-58056667) - More victims are discovered following the severe floods that engulfed Henan province in July.
 3. [Giant panda twins born in French zoo](https://www.bbc.co.uk/news/world-europe-58052139) - The event is described as "exceptional" by experts, as panda reproduction is notoriously difficult.
 4. [Afterpay: Jack Dorsey's Square in Australia's biggest buyout](https://www.bbc.co.uk/news/business-58051815) - The $29bn deal for Afterpay will create an instalments payment giant in a hugely growing sector.
