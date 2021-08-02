@@ -1,4 +1,4 @@
-1. [Coronavirus: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
+1. [Covid-19: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 2. [UK summons Iranian envoy over tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - The UK and US blame Iran for the attack in which two people were killed, and have vowed to respond.
 3. [Humza Yousaf reports nursery over discrimination fears](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234) - Health Secretary Humza Yousaf says his daughter was twice refused a place at the nursery, which denies any discrimination.
 4. [Carrie Johnson and Boris Johnson expecting second child](https://www.bbc.co.uk/news/uk-58042146) - The couple are expecting a second child, months after a miscarriage left Carrie "heartbroken".

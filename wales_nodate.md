@@ -1,10 +1,10 @@
-1. [Three murder arrests over boy's river death in Bridgend](https://www.bbc.co.uk/news/uk-wales-58049509) - They came after the after the body of a boy, named locally as Logan, was found.
-2. [I'm a Celeb set to return to Wales' Gwrych Castle](https://www.bbc.co.uk/news/uk-wales-58053077) - The 21st series of the ITV reality show is set to return to Abergele's Gwrych Castle in November.
-3. [Abergele holiday park incident: Man held as girl, 15, dies](https://www.bbc.co.uk/news/uk-wales-58048295) - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
-4. [Coin marks 150 years since Alice in Wonderland sequel](https://www.bbc.co.uk/news/uk-wales-58053780) - The Alice in Wonderland themed £5 coin celebrates 150 years since Lewis Carroll's famous tales.
+1. [Three murder arrests over boy's river death in Bridgend](https://www.bbc.co.uk/news/uk-wales-58049509) - They came after the after the body of a boy, named locally as Logan Williamson, was found.
+2. [I'm a Celebrity...Get Me Out Here! to return to Wales in 2021](https://www.bbc.co.uk/news/uk-wales-58053077) - The 21st series of the hit ITV reality show is set to return to Gwrych Castle in November.
+3. [Wales weather warning: Thunderstorms set to hit south-east Wales](https://www.bbc.co.uk/news/uk-wales-58056577) - The yellow warning could see lightning strikes and heavy rain damaging homes, the Met Office says.
+4. [Abergele holiday park incident: Man held as girl, 15, dies](https://www.bbc.co.uk/news/uk-wales-58048295) - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
 5. [Disability: Paralysed woman to swim English Channel](https://www.bbc.co.uk/news/uk-wales-58025736) - Paula Craig, 58, is one of a relay team aiming to complete the 21-mile swim to France.
-6. [Wales weather warning: Thunderstorms set to hit south-east Wales](https://www.bbc.co.uk/news/uk-wales-58056577) - The yellow warning could see lightning strikes and heavy rain damaging homes, the Met Office says.
-7. [Coronavirus: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
+6. [Coin marks 150 years since Alice in Wonderland sequel](https://www.bbc.co.uk/news/uk-wales-58053780) - The Alice in Wonderland themed £5 coin celebrates 150 years since Lewis Carroll's famous tales.
+7. [Covid-19: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 8. [Person dies following early morning crash in Swansea](https://www.bbc.co.uk/news/uk-wales-58047608) - Police are appealing for witnesses to the single-vehicle crash which happened just before 04:00 BST.
 9. [Cardiff Airport: New flight service to Edinburgh to start](https://www.bbc.co.uk/news/uk-wales-58049504) - They will be the first flights linking Cardiff and Edinburgh since Flybe collapsed last year.
 10. [Woman, 80, found clinging to branch in river rescued](https://www.bbc.co.uk/news/uk-wales-58049508) - The 80-year-old woman was treated by paramedics at the scene before being taken to hospital.

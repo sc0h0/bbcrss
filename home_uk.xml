@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 12:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 13:03:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Mon, 02 Aug 2021 12:16:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Streatham terror attack: Concern over 'extremist' knifeman before release]]></title>
+            <description><![CDATA[Sudesh Amman stabbed two people before being shot by police on a south London street last year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58057162</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58057162</guid>
+            <pubDate>Mon, 02 Aug 2021 12:29:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[UK summons Iranian envoy over tanker attack]]></title>
             <description><![CDATA[The UK and US blame Iran for the attack in which two people were killed, and have vowed to respond.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58059271</link>
@@ -30,11 +37,11 @@
             <pubDate>Mon, 02 Aug 2021 12:25:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: First people arriving into UK after rules relaxed for fully jabbed]]></title>
+            <title><![CDATA[Covid-19: First people arriving into UK after rules relaxed for fully jabbed]]></title>
             <description><![CDATA[People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58050538</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58050538</guid>
-            <pubDate>Mon, 02 Aug 2021 12:04:30 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 12:58:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paralysed swimmer in English Channel record bid]]></title>
@@ -51,7 +58,7 @@
             <pubDate>Mon, 02 Aug 2021 08:48:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blackpool: 'Hero' dies saving woman from sea]]></title>
+            <title><![CDATA[Blackpool drowning: 'Hero' dies saving woman from sea]]></title>
             <description><![CDATA[Alex Gibson, 22, jumped into the sea near Blackpool's North Pier in the early hours of Friday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-58055884</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58055884</guid>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-58057031</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58057031</guid>
             <pubDate>Mon, 02 Aug 2021 10:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grenfell Tower: Man accused of burning model to face retrial]]></title>
-            <description><![CDATA[Paul Bussetti will face a new trial after the High Court quashed his previous acquittal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58054431</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58054431</guid>
-            <pubDate>Mon, 02 Aug 2021 09:11:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belarus Olympian given Polish visa after refusing 'forced' flight home]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Mon, 02 Aug 2021 11:32:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[I'm a Celeb set to return to Wales' Gwrych Castle]]></title>
-            <description><![CDATA[The 21st series of the ITV reality show is set to return to Abergele's Gwrych Castle in November.]]></description>
+            <title><![CDATA[I'm a Celebrity...Get Me Out Here! to return to Wales in 2021]]></title>
+            <description><![CDATA[The 21st series of the hit ITV reality show is set to return to Gwrych Castle in November.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58053077</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58053077</guid>
-            <pubDate>Mon, 02 Aug 2021 11:57:37 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 12:56:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['The reason I'm doing this is because I was inspired by him']]></title>
@@ -226,8 +226,15 @@
             <pubDate>Sun, 01 Aug 2021 23:22:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Oliver Townend leads Team GB to gold medal in eventing]]></title>
-            <description><![CDATA[Watch the moment Oliver Townend seals Great Britain's first Olympic team eventing gold medal in 49 years the team eventing final at Tokyo 2020.]]></description>
+            <title><![CDATA[Campbell wins silver to earn first GB Olympic medal in women's weightlifting]]></title>
+            <description><![CDATA[Emily Campbell becomes the first British female weightlifter to win an Olympic medal with +87kg silver.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58059401</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58059401</guid>
+            <pubDate>Mon, 02 Aug 2021 12:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Oliver Townend leads GB to gold medal in eventing]]></title>
+            <description><![CDATA[Watch highlights as Great Britain win their first Olympic team eventing gold medal in 49 years at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58056120</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58056120</guid>
             <pubDate>Mon, 02 Aug 2021 10:26:03 GMT</pubDate>
@@ -244,7 +251,7 @@
             <description><![CDATA[Tottenham are drawn against Northern Irish team Larne or Portuguese side Pacos de Ferreira in the inaugural Europa Conference League play-offs.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58057963</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58057963</guid>
-            <pubDate>Mon, 02 Aug 2021 12:20:14 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 12:59:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Great Britain women and men progress in team pursuit]]></title>
@@ -261,13 +268,6 @@
             <pubDate>Wed, 16 Jun 2021 07:57:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Olympiakos or Ludogorets await Rangers in Champions League]]></title>
-            <description><![CDATA[Rangers will face either Olympiakos or Ludogorets should they defeat Malmo in the Champions League as Celtic, St Johnstone, Aberdeen and Hibernian learn potential foes.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58056211</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58056211</guid>
-            <pubDate>Mon, 02 Aug 2021 12:22:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Team eventing gold for GB while Laura Kenny and Laura Muir progress]]></title>
             <description><![CDATA[Great Britain win a first Olympic team eventing gold since 1972 while the women's team pursuit gets off to a promising start.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58052368</link>
@@ -275,11 +275,11 @@
             <pubDate>Mon, 02 Aug 2021 11:25:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain eventers win team gold for first time in 49 years]]></title>
-            <description><![CDATA[Great Britain win Olympic team eventing gold for the first time in 49 years and are well placed for individual medals later on Monday.]]></description>
+            <title><![CDATA[Tokyo Olympics: Great Britain eventers win team gold and Tom McEwen claims individual silver]]></title>
+            <description><![CDATA[Great Britain won Olympic team eventing gold for the first time in 49 years and Tom McEwen added a silver in the individual category.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58047135</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047135</guid>
-            <pubDate>Mon, 02 Aug 2021 11:34:21 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 12:49:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women's Olympic football: Canada beat USA to reach final]]></title>

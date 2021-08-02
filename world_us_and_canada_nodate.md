@@ -1,7 +1,7 @@
 1. [Raven Saunders: What the Olympian's X protest means to her](https://www.bbc.co.uk/news/world-us-canada-58048727) - The US shot-putter defies a ban on podium gestures after taking silver at the Tokyo Games.
 2. [Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting](https://www.bbc.co.uk/news/newsbeat-58054216) - The suspected shooter, Joseph Jimenez, 20, appeared in Riverside County Superior Court on Friday.
 3. [Matt Damon's daughter stopped him using a gay slur](https://www.bbc.co.uk/news/entertainment-arts-58053709) - The actor vowed to never use term again after his daughter explained to him why it was unacceptable.
-4. [Coronavirus: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
+4. [Covid-19: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 5. [Jay Pickett: US actor dies on set of western film](https://www.bbc.co.uk/news/entertainment-arts-58053717) - The star, described as "a true cowboy", died aged 60 of a suspected heart attack while on horseback.
 6. [DaBaby dropped by US music festival Lollapalooza](https://www.bbc.co.uk/news/world-us-canada-58048728) - The Chicago festival is the latest to cut ties, after the rapper's derogatory comments about people with HIV.
 7. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.

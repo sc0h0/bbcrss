@@ -1,4 +1,4 @@
-1. [I'm a Celeb set to return to Wales' Gwrych Castle](https://www.bbc.co.uk/news/uk-wales-58053077) - Mon, 02 Aug 2021 12:43:24 GMT - The 21st series of the hit ITV reality show is set to return to Gwrych Castle in November.
+1. [I'm a Celebrity...Get Me Out Here! to return to Wales in 2021](https://www.bbc.co.uk/news/uk-wales-58053077) - Mon, 02 Aug 2021 12:56:53 GMT - The 21st series of the hit ITV reality show is set to return to Gwrych Castle in November.
 2. [Matt Damon's daughter stopped him using a gay slur](https://www.bbc.co.uk/news/entertainment-arts-58053709) - Mon, 02 Aug 2021 09:53:00 GMT - The actor vowed to never use term again after his daughter explained to him why it was unacceptable.
 3. [Jay Pickett: US actor dies on set of western film](https://www.bbc.co.uk/news/entertainment-arts-58053717) - Mon, 02 Aug 2021 11:01:42 GMT - The star, described as "a true cowboy", died aged 60 of a suspected heart attack while on horseback.
 4. [EastEnders: 'I was ignorant about my schizophrenia'](https://www.bbc.co.uk/news/newsbeat-57986350) - Sun, 01 Aug 2021 23:34:13 GMT - Antonio Ferreira is using his personal experience to advise the soap on a storyline.
