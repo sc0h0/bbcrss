@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 12:00:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 12:37:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK summons Iranian envoy over tanker attack]]></title>
+            <description><![CDATA[The UK and US blame Iran for the attack in which two people were killed, and have vowed to respond.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58059271</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58059271</guid>
+            <pubDate>Mon, 02 Aug 2021 12:25:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sheikh Jarrah: Palestinians await Jerusalem evictions ruling]]></title>
             <description><![CDATA[The threatened takeover of homes by Jewish settlers in Sheikh Jarrah has stoked Palestinian anger.]]></description>
