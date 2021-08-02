@@ -2,7 +2,7 @@
 2. [Government could intervene in Meggitt takeover](https://www.bbc.co.uk/news/business-58054184) - The UK government is "closely monitoring" a US firm's plan to buy the UK defence and aerospace company.
 3. [Banking giant HSBC sees first half profit more than double](https://www.bbc.co.uk/news/business-58051818) - The UK-based firm said the jump in profits was driven by an economic rebound in Britain and Hong Kong.
 4. [Pingdemic: ‘I'm losing hundreds of pounds in tips’](https://www.bbc.co.uk/news/business-57997447) - An ill-timed alert on the NHS Covid app can mean bar staff losing out on tip income at the weekend.
-5. [Beyond Meat boss backs tax on meat consumption](https://www.bbc.co.uk/news/business-58032552) - Ethan Brown tells the BBC his firm wants to bring down the price of plant-based meat.
+5. [Beyond Meat boss: Tax on negative impacts "does appeal"](https://www.bbc.co.uk/news/business-58032552) - Ethan Brown tells the BBC his firm wants to bring down the price of plant-based meat.
 6. [Afterpay: Jack Dorsey's Square in Australia's biggest buyout](https://www.bbc.co.uk/news/business-58051815) - The $29bn deal for Afterpay will create an instalments payment giant in a hugely growing sector.
 7. [Hollywood plans £700m film and TV studios in Hertfordshire](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58029042) - Developers say the site could contribute £300m a year to the local economy and create 4,500 jobs.
 8. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.

@@ -7,8 +7,8 @@
 7. [Kenya's first female paraglider on life from a bird's eye view](https://www.bbc.co.uk/news/world-africa-58055592) - "Kenya 1" aka Nyambura Kariuki, shares her thoughts on being Kenya's first ever female paraglider.
 8. [Kathy Griffin: US comedian has surgery after lung cancer diagnosis](https://www.bbc.co.uk/news/entertainment-arts-58061672) - Kathy Griffin is having half of her left lung removed, saying "doctors are very optimistic".
 9. [German court sets trial for 100-year-old alleged Nazi guard](https://www.bbc.co.uk/news/world-europe-58057082) - The man is accused of assisting in 3,518 murders at the Sachsenhausen camp during World War Two.
-10. [Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting](https://www.bbc.co.uk/news/newsbeat-58054216) - The suspected shooter, Joseph Jimenez, 20, appeared in Riverside County Superior Court on Friday.
-11. [Ethiopia's Tigray crisis: Rebels vow to fight on until blockade ends](https://www.bbc.co.uk/news/world-africa-58056588) - Gen Tsadkan, who leads the rebel forces, tells the BBC they aim to reclaim lost territory.
+10. [Afghanistan: Street fighting rages as Taliban attack key city](https://www.bbc.co.uk/news/world-asia-58051481) - The militants are battling to take control of a provincial capital for the first time in years.
+11. [Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting](https://www.bbc.co.uk/news/newsbeat-58054216) - The suspected shooter, Joseph Jimenez, 20, appeared in Riverside County Superior Court on Friday.
 12. [China Covid: Concerns grow as Delta outbreak spreads](https://www.bbc.co.uk/news/world-asia-china-58052894) - Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.
 13. [Nigerian student shocked to see friend's body in anatomy class](https://www.bbc.co.uk/news/world-africa-57748122) - Nigerian students often dissect "unclaimed" bodies from mortuaries but some are victims of police violence.
 14. [Iran water: What's causing the shortages?](https://www.bbc.co.uk/news/58012290) - Iranian officials have warned of historic drought while experts blame years of poor water management.
