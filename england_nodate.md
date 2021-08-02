@@ -2,7 +2,7 @@
 2. [Covid-19: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 3. [Blackpool drowning: 'Hero' dies saving woman from sea](https://www.bbc.co.uk/news/uk-england-lancashire-58055884) - Alex Gibson, 22, jumped into the sea near Blackpool's North Pier in the early hours of Friday.
 4. [West Midlands Police officer convicted of assaults](https://www.bbc.co.uk/news/uk-england-birmingham-58058831) - PC Declan Jones commits both offences while on duty in Birmingham.
-5. [Cliff collapse at Eype beach prompts warning](https://www.bbc.co.uk/news/uk-england-dorset-58053050) - The fall means the beach has been cut off between Eype and Seatown.
+5. [Tonnes of chalk fall in Beachy Head collapse](https://www.bbc.co.uk/news/uk-england-sussex-58058994) - A major collapse of cliffs at Beachy Head has cut off an access path to the Belle Tout lighthouse.
 6. [Charlotte Worthington: Family hope Olympic gold inspires others](https://www.bbc.co.uk/news/uk-england-manchester-58033770) - Charlotte Worthington's parents hope her BMX freestyle Olympic gold inspires others.
 7. [Tax fraudster ordered to repay £5.5m within three months](https://www.bbc.co.uk/news/uk-england-tyne-58055929) - Stanley Miller had multiple bank accounts and a property portfolio after evading tax, police say.
 8. [Men in 2014 Lowestoft boat accident died after vessel capsized](https://www.bbc.co.uk/news/uk-england-suffolk-58056384) - Andrew Porter and Malcolm Sayer have never been found after their boat capsized in 2014.

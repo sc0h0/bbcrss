@@ -8,7 +8,7 @@
 8. [Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting](https://www.bbc.co.uk/news/newsbeat-58054216) - The suspected shooter, Joseph Jimenez, 20, appeared in Riverside County Superior Court on Friday.
 9. [Ethiopia's Tigray crisis: Rebels vow to fight on until blockade ends](https://www.bbc.co.uk/news/world-africa-58056588) - Gen Tsadkan, who leads the rebel forces, tells the BBC they aim to reclaim lost territory.
 10. [China Covid: Concerns grow as Delta outbreak spreads](https://www.bbc.co.uk/news/world-asia-china-58052894) - Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.
-11. [Sheikh Jarrah: Palestinians await Jerusalem evictions ruling](https://www.bbc.co.uk/news/world-middle-east-58024060) - The threatened takeover of homes by Jewish settlers in Sheikh Jarrah has stoked Palestinian anger.
+11. [Sheikh Jarrah: Palestinians offered way out from evictions](https://www.bbc.co.uk/news/world-middle-east-58024060) - Judges come up with a plan to end a long-running saga which has fuelled Israel-Palestinian tensions.
 12. [Raven Saunders: What the Olympian's X protest means to her](https://www.bbc.co.uk/news/world-us-canada-58048727) - The US shot-putter defies a ban on podium gestures after taking silver at the Tokyo Games.
 13. [Nigerian student shocked to see friend's body in anatomy class](https://www.bbc.co.uk/news/world-africa-57748122) - Nigerian students often dissect "unclaimed" bodies from mortuaries but some are victims of police violence.
 14. [Iran water: What's causing the shortages?](https://www.bbc.co.uk/news/58012290) - Iranian officials have warned of historic drought while experts blame years of poor water management.
