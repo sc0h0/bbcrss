@@ -1,5 +1,5 @@
 1. [Raven Saunders: What the Olympian's X protest means to her](https://www.bbc.co.uk/news/world-us-canada-58048727) - The US shot-putter defies a ban on podium gestures after taking silver at the Tokyo Games.
-2. [Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting](https://www.bbc.co.uk/news/newsbeat-58054216) - The death of Anthony Barajas, 19, was confirmed after several days spent on life support.
+2. [Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting](https://www.bbc.co.uk/news/newsbeat-58054216) - The suspected shooter, Joseph Jimenez, 20, appeared in Riverside County Superior Court on Friday.
 3. [Coronavirus: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 4. [DaBaby dropped by US music festival Lollapalooza](https://www.bbc.co.uk/news/world-us-canada-58048728) - The Chicago festival is the latest to cut ties, after the rapper's derogatory comments about people with HIV.
 5. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.

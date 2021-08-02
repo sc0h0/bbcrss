@@ -1,7 +1,7 @@
 1. [Coronavirus: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 2. [Tanker attack: UK and US blame Iran for deadly ship attack](https://www.bbc.co.uk/news/world-middle-east-58048007) - The UK accuses Tehran of violating international law, while Iran calls the accusations "baseless".
 3. [Carrie Johnson and Boris Johnson expecting second child](https://www.bbc.co.uk/news/uk-58042146) - The couple are expecting a second child, months after a miscarriage left Carrie "heartbroken".
-4. [Smaller firms hit by 'pingdemic' staff shortages](https://www.bbc.co.uk/news/business-57997447) - An ill-timed alert on the NHS Covid app can mean bar staff losing out on tip income at the weekend.
+4. [Pingdemic: ‘I'm losing hundreds of pounds in tips’](https://www.bbc.co.uk/news/business-57997447) - An ill-timed alert on the NHS Covid app can mean bar staff losing out on tip income at the weekend.
 5. [End self-isolation for double-jabbed sooner, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57962409) - Labour is calling on Boris Johnson to bring England in to line with Wales on quarantine measures.
 6. [Guli Francis-Dehqani: The bishop tackling England's housing crisis](https://www.bbc.co.uk/news/uk-politics-57985577) - The Church of England owns a lot of land - Guli Francis-Dehqani wants to use it for the common good.
 7. [NHS pay: Call for privately employed staff to get increase](https://www.bbc.co.uk/news/uk-58047623) - Cleaners and others employed by contractors should receive the same rise as NHS staff, a union says.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 09:54:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 10:22:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Sun, 01 Aug 2021 12:06:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coin marks 150 years since Alice in Wonderland sequel]]></title>
+            <description><![CDATA[The Alice in Wonderland themed £5 coin celebrates 150 years since Lewis Carroll's famous tales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58053780</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58053780</guid>
+            <pubDate>Mon, 02 Aug 2021 10:07:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Disability: Paralysed woman to swim English Channel]]></title>
             <description><![CDATA[Paula Craig, 58, is one of a relay team aiming to complete the 21-mile swim to France.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58025736</link>
@@ -37,11 +44,18 @@
             <pubDate>Mon, 02 Aug 2021 04:58:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wales weather warning: Thunderstorms set to hit south-east Wales]]></title>
+            <description><![CDATA[The yellow warning could see lightning strikes and heavy rain damaging homes, the Met Office says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58056577</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58056577</guid>
+            <pubDate>Mon, 02 Aug 2021 10:02:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Coronavirus: First people arriving into UK after rules relaxed for fully jabbed]]></title>
             <description><![CDATA[People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58050538</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58050538</guid>
-            <pubDate>Mon, 02 Aug 2021 09:02:20 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 10:06:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Person dies following early morning crash in Swansea]]></title>
@@ -65,6 +79,13 @@
             <pubDate>Sun, 01 Aug 2021 16:59:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Light winds delay Mills' gold meal push]]></title>
+            <description><![CDATA[Great Britain's hopes of sailing medals will have to wait after Monday's action is postponed because of light winds.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58053689</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58053689</guid>
+            <pubDate>Mon, 02 Aug 2021 06:32:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: No incentives for youth vaccine uptake in Wales]]></title>
             <description><![CDATA[Young people In England, however, are to get travel and takeaway discounts for taking up a jab offer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58047609</link>
@@ -77,27 +98,6 @@
             <link>https://www.bbc.co.uk/sport/football/58046826</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58046826</guid>
             <pubDate>Sun, 01 Aug 2021 17:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardiff Park Plaza fire: Four rescued from flat above hotel]]></title>
-            <description><![CDATA[The blaze happened in a private flat above Cardiff's Park Plaza Hotel, sparking an evacuation.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58039097</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58039097</guid>
-            <pubDate>Sun, 01 Aug 2021 10:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lions braced for Gatland's 'notorious' changes for series decider]]></title>
-            <description><![CDATA[The British and Irish Lions will be a different beast in the South Africa series decider, Alun Wyn Jones warns.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58050017</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58050017</guid>
-            <pubDate>Sun, 01 Aug 2021 20:59:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Cardiff ice rink to reopen after 'frustrating' wait]]></title>
-            <description><![CDATA[One of Wales' two ice rinks is to open for the first time in 17 months as the other remains shut.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58010522</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58010522</guid>
-            <pubDate>Sun, 01 Aug 2021 06:22:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paralysed swimmer Paula Craig in English Channel record bid]]></title>
@@ -149,6 +149,13 @@
             <pubDate>Mon, 02 Aug 2021 09:40:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lions braced for Gatland's 'notorious' changes for series decider]]></title>
+            <description><![CDATA[The British and Irish Lions will be a different beast in the South Africa series decider, Alun Wyn Jones warns.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58050017</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58050017</guid>
+            <pubDate>Sun, 01 Aug 2021 20:59:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Germany smash world record as GB finish second fastest in women's team pursuit]]></title>
             <description><![CDATA[Watch as Germany smash the women's team pursuit world record while Great Britain finish second fastest in qualifying.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58056114</link>
@@ -156,18 +163,11 @@
             <pubDate>Mon, 02 Aug 2021 08:54:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Light winds force sailing postponement]]></title>
-            <description><![CDATA[Great Britain's hopes of sailing medals will have to wait after Monday's action is postponed because of light winds.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58053689</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58053689</guid>
-            <pubDate>Mon, 02 Aug 2021 06:32:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Laura Kenny and Laura Muir through and medals on the cards on day 10]]></title>
             <description><![CDATA[Great Britain qualify second fastest in the team pursuit on a day that could deliver more medals in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58052368</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58052368</guid>
-            <pubDate>Mon, 02 Aug 2021 09:21:22 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 10:01:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Welsh duo Jake Heyward and Joe Brier prepare for Olympics debut]]></title>

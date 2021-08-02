@@ -39,6 +39,6 @@
 39. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
 40. [Covid: Professor Jonathan Van-Tam answers your questions](https://www.bbc.co.uk/news/uk-58020184) - The deputy chief medical officer answers a range of questions about Covid from young audience members.
 41. [The women fighting infertility stigma in Nigeria](https://www.bbc.co.uk/news/world-africa-58004523) - Three Nigerian women confront the prejudice they have faced on their fertility journeys.
-42. [The autistic-friendly toy shop: 'We have got this'](https://www.bbc.co.uk/news/uk-england-58026672) - Retail worker Romilly, who is autistic, wants to create a comfortable space for other autistic people to shop in.
+42. [The autism-friendly toy shop: 'We have got this'](https://www.bbc.co.uk/news/uk-england-58026672) - Retail worker Romilly, who is autistic, wants to create a comfortable space for other autistic people to shop in.
 43. [Dad builds robotic exoskeleton to help son walk](https://www.bbc.co.uk/news/world-europe-57985857) - The French robotics engineer says he was inspired to build the suit after his son asked him to.
 44. [Brazil: Why are so many pregnant women dying from Covid?](https://www.bbc.co.uk/news/world-latin-america-57974754) - One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.
