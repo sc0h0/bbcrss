@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 00:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 01:37:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Sun, 01 Aug 2021 21:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['You can be African and black and play polo']]></title>
-            <description><![CDATA[Molawa Adesuyi is calling for more young people from ethnic minority backgrounds to take up his sport.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58049010</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58049010</guid>
-            <pubDate>Sun, 01 Aug 2021 19:26:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hollywood plans £700m film and TV studios in Hertfordshire]]></title>
             <description><![CDATA[Developers say the site could contribute £300m a year to the local economy and create 4,500 jobs.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58029042</link>
@@ -51,11 +44,11 @@
             <pubDate>Sun, 01 Aug 2021 21:28:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Zoom settles US class action privacy lawsuit for $86m]]></title>
-            <description><![CDATA[The video conferencing firm denies wrongdoing, but has agreed to boost security measures.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58050391</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58050391</guid>
-            <pubDate>Sun, 01 Aug 2021 22:34:26 GMT</pubDate>
+            <title><![CDATA[England's Mings says mental health 'plummeted']]></title>
+            <description><![CDATA[England defender Tyrone Mings says his "mental health plummeted" in the build-up to Euro 2020 because he felt people were doubting his place in the side.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58051349</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58051349</guid>
+            <pubDate>Sun, 01 Aug 2021 21:58:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tanker attack: UK and US blame Iran for deadly ship attack]]></title>
@@ -65,11 +58,11 @@
             <pubDate>Sun, 01 Aug 2021 21:28:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beyond Meat boss backs tax on meat consumption]]></title>
-            <description><![CDATA[Ethan Brown tells the BBC his firm wants to bring down the price of plant-based meat.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58032552</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58032552</guid>
-            <pubDate>Sun, 01 Aug 2021 23:29:05 GMT</pubDate>
+            <title><![CDATA[Zoom settles US class action privacy lawsuit for $86m]]></title>
+            <description><![CDATA[The video conferencing firm denies wrongdoing, but has agreed to boost security measures.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58050391</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58050391</guid>
+            <pubDate>Sun, 01 Aug 2021 22:34:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHS pay: Call for privately employed staff to get increase]]></title>
@@ -79,11 +72,18 @@
             <pubDate>Sun, 01 Aug 2021 23:52:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England's Mings says mental health 'plummeted']]></title>
-            <description><![CDATA[England defender Tyrone Mings says his "mental health plummeted" in the build-up to Euro 2020 because he felt people were doubting his place in the side.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58051349</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58051349</guid>
-            <pubDate>Sun, 01 Aug 2021 21:58:55 GMT</pubDate>
+            <title><![CDATA[Beyond Meat boss backs tax on meat consumption]]></title>
+            <description><![CDATA[Ethan Brown tells the BBC his firm wants to bring down the price of plant-based meat.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58032552</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58032552</guid>
+            <pubDate>Sun, 01 Aug 2021 23:29:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['You can be African and black and play polo']]></title>
+            <description><![CDATA[Molawa Adesuyi is calling for more young people from ethnic minority backgrounds to take up his sport.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58049010</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58049010</guid>
+            <pubDate>Sun, 01 Aug 2021 19:26:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smaller firms hit by 'pingdemic' staff shortages]]></title>
@@ -240,18 +240,25 @@
             <pubDate>Sun, 01 Aug 2021 22:12:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whitlock & Worthington win gold as GB swimmers make history - what happened on day nine?]]></title>
-            <description><![CDATA[Charlotte Worthington wins a dramatic BMX park freestyle Olympic gold as Max Whitlock retains pommel horse title.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58045115</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58045115</guid>
-            <pubDate>Sun, 01 Aug 2021 14:58:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lions prop Sinckler cited for 'bite' during second Test]]></title>
             <description><![CDATA[British and Irish Lions prop Kyle Sinckler is cited for an alleged bite during Saturday's second Test defeat by South Africa.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58051015</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58051015</guid>
             <pubDate>Sun, 01 Aug 2021 18:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Laura Kenny on gold medals, severe injuries & becoming a mum]]></title>
+            <description><![CDATA[Four-time Olympic champion Laura Kenny looks back on the key moments that have shaped her journey to become Great Britain's most successful Olympic female competitor.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/57839204</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/57839204</guid>
+            <pubDate>Mon, 02 Aug 2021 01:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hundred: A 'phenomenal' flying catch & deadly direct hits - Sunday's best action]]></title>
+            <description><![CDATA[Watch the best moments from Sunday's action in the men's and women's Hundred as Birmingham Phoenix took on Trent Rockets at Edgbaston and London Spirit faced Southern Brave at Lord's.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/58050658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58050658</guid>
+            <pubDate>Sun, 01 Aug 2021 20:35:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: How Team GB's Max Whitlock won pommel horse gold as rivals faltered]]></title>
@@ -261,18 +268,11 @@
             <pubDate>Sun, 01 Aug 2021 14:27:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Italy's Lamont Marcell Jacobs wins 100m final while GB's Zharnel Hughes disqualified]]></title>
-            <description><![CDATA[Watch highlights as Lamont Marcell Jacobs claims gold in the men's 100m final after Great Britain's Zharnel Hughes is disqualified for a false start at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58048681</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58048681</guid>
-            <pubDate>Sun, 01 Aug 2021 13:34:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: A 'phenomenal' flying catch & deadly direct hits - Sunday's best action]]></title>
-            <description><![CDATA[Watch the best moments from Sunday's action in the men's and women's Hundred as Birmingham Phoenix took on Trent Rockets at Edgbaston and London Spirit faced Southern Brave at Lord's.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58050658</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58050658</guid>
-            <pubDate>Sun, 01 Aug 2021 20:35:29 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Mutaz Barshim and Gianmarco Tamberi agree to share gold medal]]></title>
+            <description><![CDATA[Watch highlights as Italy's Gianmarco Tamberi and Qatar's Mutaz Barshim agree to share high jump gold instead of going into a jump-off at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58049699</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58049699</guid>
+            <pubDate>Sun, 01 Aug 2021 15:52:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: 'Can we have two golds?' - high jumpers share win]]></title>
@@ -373,6 +373,41 @@
             <pubDate>Tue, 27 Jul 2021 23:01:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[‘Covid passports’: How to get the NHS Covid Pass]]></title>
+            <description><![CDATA[People in England can use the pass for travel and to visit venues which ask for them.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
+            <pubDate>Fri, 30 Jul 2021 08:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown muscle loss: Five ways to get back in shape]]></title>
+            <description><![CDATA[Lockdown inactivity may have left people with weaker muscles - there are simple solutions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56887390</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56887390</guid>
+            <pubDate>Fri, 14 May 2021 23:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
+            <description><![CDATA[All over-18s can now get the Covid jab, but the government has criticised take-up among young people.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57273875</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
+            <pubDate>Thu, 29 Jul 2021 15:57:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: Is it a cold or coronavirus?]]></title>
+            <description><![CDATA[With similar symptoms, deciding whether or not you need to get tested for coronavirus can be tricky.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54145299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54145299</guid>
+            <pubDate>Mon, 14 Jun 2021 10:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many cases are in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sun, 01 Aug 2021 15:56:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: How is furlough changing and when will it end?]]></title>
             <description><![CDATA[Employers will contribute more to the cost of keeping their staff furloughed from 1 August.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52135342</link>
@@ -399,20 +434,6 @@
             <link>https://www.bbc.co.uk/news/world-51235105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Fri, 30 Jul 2021 10:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many cases are in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sun, 01 Aug 2021 15:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Covid passports’: How to get the NHS Covid Pass]]></title>
-            <description><![CDATA[People in England can use the pass for travel and to visit venues which ask for them.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Fri, 30 Jul 2021 08:56:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the holiday rules for travel to green, amber and red list countries?]]></title>
@@ -450,25 +471,11 @@
             <pubDate>Fri, 30 Jul 2021 11:29:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid symptoms: Is it a cold or coronavirus?]]></title>
-            <description><![CDATA[With similar symptoms, deciding whether or not you need to get tested for coronavirus can be tricky.]]></description>
-            <link>https://www.bbc.co.uk/news/health-54145299</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54145299</guid>
-            <pubDate>Mon, 14 Jun 2021 10:57:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The EU vaccine 'passport' and what it means for travel]]></title>
             <description><![CDATA[An EU vaccine "passport" is being introduced, enabling holders to prove they have been jabbed.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-57665765</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57665765</guid>
             <pubDate>Tue, 13 Jul 2021 16:50:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
-            <description><![CDATA[All over-18s can now get the Covid jab, but the government has criticised take-up among young people.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57273875</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
-            <pubDate>Thu, 29 Jul 2021 15:57:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Four numbers that reveal the real trends]]></title>
@@ -504,13 +511,6 @@
             <link>https://www.bbc.co.uk/news/health-51205344</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
             <pubDate>Mon, 19 Jul 2021 09:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lockdown muscle loss: Five ways to get back in shape]]></title>
-            <description><![CDATA[Lockdown inactivity may have left people with weaker muscles - there are simple solutions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56887390</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56887390</guid>
-            <pubDate>Fri, 14 May 2021 23:06:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long Covid: What is it and what are the symptoms?]]></title>
