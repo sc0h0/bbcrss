@@ -13,10 +13,9 @@
 13. [Employee shortages: Where have all the workers gone?](https://www.bbc.co.uk/news/business-58014256) - From hospitality to road haulage, firms say they can't get staff. So are employees now calling the shots?
 14. [Elon Musk: 'I don't want to be CEO of anything'](https://www.bbc.co.uk/news/technology-58035124) - Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?
 15. ['Covid vaccine scammers nearly got me'](https://www.bbc.co.uk/news/business-58029113) - Sioban Moore escaped disaster by a whisker after receiving a fake email inviting her for a jab.
-16. [Monzo bank in money laundering rules investigation](https://www.bbc.co.uk/news/business-58033700) - Monzo warned investors that the investigation could have a negative impact on the digital bank.
-17. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
-18. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
-19. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
-20. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
-21. [CEO Secrets: The son who hired his father and sister](https://www.bbc.co.uk/news/business-57968798) - Ross Testa explains why he hired his sister and then his father for his social media business.
-22. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
+16. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
+17. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
+18. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
+19. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
+20. [CEO Secrets: The son who hired his father and sister](https://www.bbc.co.uk/news/business-57968798) - Ross Testa explains why he hired his sister and then his father for his social media business.
+21. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
