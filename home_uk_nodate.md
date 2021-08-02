@@ -4,7 +4,7 @@
 4. [Paralysed swimmer in English Channel record bid](https://www.bbc.co.uk/news/uk-wales-58039094) - Paula Craig was paralysed after being hit by a car in 2001 - now she aims to swim the Channel.
 5. [Samaritans volunteers met vulnerable callers for sex](https://www.bbc.co.uk/news/uk-58057031) - The charity says it is taking action following a "very small number of safeguarding incidents".
 6. [No Covid traces found in railway stations or trains](https://www.bbc.co.uk/news/uk-58052378) - Heavily touched areas like escalator handles, ticket machines and benches were swabbed for the virus.
-7. [Belarus Olympian seeking asylum in Poland after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
+7. [Belarus Olympian given Polish visa after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
 8. [Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting](https://www.bbc.co.uk/news/newsbeat-58054216) - The suspected shooter, Joseph Jimenez, 20, appeared in Riverside County Superior Court on Friday.
 9. [China flood death toll rises sharply to over 300](https://www.bbc.co.uk/news/world-asia-china-58056667) - More victims are discovered following the severe floods that engulfed Henan province in July.
 10. [Three murder arrests over boy's river death in Bridgend](https://www.bbc.co.uk/news/uk-wales-58049509) - They came after the after the body of a boy, named locally as Logan, was found.

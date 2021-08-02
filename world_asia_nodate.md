@@ -2,7 +2,7 @@
 2. [China flood death toll rises sharply to over 300](https://www.bbc.co.uk/news/world-asia-china-58056667) - More victims are discovered following the severe floods that engulfed Henan province in July.
 3. [Giant panda twins born in French zoo](https://www.bbc.co.uk/news/world-europe-58052139) - The event is described as "exceptional" by experts, as panda reproduction is notoriously difficult.
 4. [Afterpay: Jack Dorsey's Square in Australia's biggest buyout](https://www.bbc.co.uk/news/business-58051815) - The $29bn deal for Afterpay will create an instalments payment giant in a hugely growing sector.
-5. [Belarus Olympian seeking asylum in Poland after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
+5. [Belarus Olympian given Polish visa after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
 6. [How South Korea's migrant wives are breaking the glass ceiling](https://www.bbc.co.uk/news/world-asia-57716704) - Many arrived not knowing the language, but are now carving out a significant place in society.
 7. [Afghanistan: Taliban continue attacks on three major cities](https://www.bbc.co.uk/news/world-asia-58040141) - Fears rise of a humanitarian crisis as Islamist militants seek to take their first provincial capital.
 8. [Afghanistan: Orphan's reunion with British soldier after 19 years](https://www.bbc.co.uk/news/world-asia-58028234) - Ramin Paikar was among the orphans visited by British soldiers stationed in Kabul in 2002.
