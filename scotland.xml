@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 06:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 06:43:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57970435</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57970435</guid>
             <pubDate>Mon, 02 Aug 2021 05:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Swimming success and nursery 'discrimination' claim]]></title>
+            <description><![CDATA[Duncan Scott's Olympic success leads several papers, while another reports claims of discrimination at a Scottish nursery.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58053253</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58053253</guid>
+            <pubDate>Mon, 02 Aug 2021 06:28:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teacher from Aberdeen caught up in Turkish wildfires]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58046347</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58046347</guid>
             <pubDate>Sun, 01 Aug 2021 09:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: NHS pressures and drug treatment cutbacks]]></title>
-            <description><![CDATA[The expected impact of winter on the NHS and cuts to a drug addict support scheme make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58046343</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58046343</guid>
-            <pubDate>Sun, 01 Aug 2021 08:51:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Digital vaccine certificates to replace paper versions]]></title>
