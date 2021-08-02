@@ -19,7 +19,7 @@
 19. [Nigerian outrage at brazen bandit attacks](https://www.bbc.co.uk/news/world-africa-57934849) - The shooting down of a military jet shows how organised crime is becoming more daring by the day.
 20. [Nigeria's hipster herders - the funky Fulanis](https://www.bbc.co.uk/news/world-africa-57929704) - Fulani herders are usually found in forests herding cattle but when they go to cities, they dress in style.
 21. [Ethiopia's Tigray crisis: What's stopping aid getting in?](https://www.bbc.co.uk/news/57929853) - A renewed surge in fighting has made it ever more difficult for aid to reach areas in desperate need.
-22. [Kenya's first female paraglider on life from a bird's eye view](https://www.bbc.co.uk/news/world-africa-58055592) - 'Kenya 1' aka Nyambura Kariuki, shares her thoughts on being Kenya's first ever female paraglider.
+22. [Kenya's first female paraglider on life from a bird's eye view](https://www.bbc.co.uk/news/world-africa-58055592) - "Kenya 1" aka Nyambura Kariuki, shares her thoughts on being Kenya's first ever female paraglider.
 23. [Tokyo Olympics 2020: 'I'm Nigerian and Ghanaian, but I compete for Ghana'](https://www.bbc.co.uk/sport/av/africa/58030421) - Triple jumper Nadia Eke talks dance, jollof and wellbeing as she prepares to compete at Tokyo 2020.
 24. [Niger President Mohamed Bazoum on the importance of keeping girls in school](https://www.bbc.co.uk/news/world-africa-58030419) - Niger President Mohamed Bazoum says that his country must work hard to keep girls in school.
 25. [Tokyo Olympics: Kenya's runners form 'mum's club'](https://www.bbc.co.uk/sport/av/africa/58010722) - Top Kenyan female athletes have been juggling parenting and training for the Tokyo Olympics.

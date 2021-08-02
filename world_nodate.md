@@ -1,6 +1,6 @@
 1. [Belarus Olympian given Polish visa after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
 2. [Matt Damon's daughter stopped him using a gay slur](https://www.bbc.co.uk/news/entertainment-arts-58053709) - The actor vowed to never use term again after his daughter explained to him why it was unacceptable.
-3. [Kenya's first female paraglider on life from a bird's eye view](https://www.bbc.co.uk/news/world-africa-58055592) - 'Kenya 1' aka Nyambura Kariuki, shares her thoughts on being Kenya's first ever female paraglider.
+3. [Kenya's first female paraglider on life from a bird's eye view](https://www.bbc.co.uk/news/world-africa-58055592) - "Kenya 1" aka Nyambura Kariuki, shares her thoughts on being Kenya's first ever female paraglider.
 4. [China flood death toll rises sharply to over 300](https://www.bbc.co.uk/news/world-asia-china-58056667) - More victims are discovered following the severe floods that engulfed Henan province in July.
 5. [Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting](https://www.bbc.co.uk/news/newsbeat-58054216) - The suspected shooter, Joseph Jimenez, 20, appeared in Riverside County Superior Court on Friday.
 6. [Ethiopia's Tigray crisis: Rebels vow to fight on until blockade ends](https://www.bbc.co.uk/news/world-africa-58056588) - Gen Tsadkan, who leads the rebel forces, tells the BBC they aim to reclaim lost territory.
