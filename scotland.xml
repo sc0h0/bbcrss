@@ -11,16 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 21:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 22:06:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid in Scotland: Families reunited as quarantine rules relaxed]]></title>
-            <description><![CDATA[People who have been double-jabbed in the EU and US no longer have to isolate when they arrive in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58053135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58053135</guid>
-            <pubDate>Mon, 02 Aug 2021 15:48:46 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Nicola Sturgeon to set out plans for lifting restrictions]]></title>
+            <description><![CDATA[Nicola Sturgeon is to confirm whether Scotland will move "beyond level zero" on 9 August as planned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58057371</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58057371</guid>
+            <pubDate>Mon, 02 Aug 2021 21:58:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's growing sewage spill problem]]></title>
+            <description><![CDATA[The number of overspills into rivers and seas has risen by 40% in five years as pressure mounts on the sewer network.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58040852</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58040852</guid>
+            <pubDate>Mon, 02 Aug 2021 21:55:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I stopped drinking - then baking business turned my life around]]></title>
+            <description><![CDATA[Lesley Smith gave up alcohol for the sake of her children but had "no outlet" until she found a passion for making cakes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58011992</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58011992</guid>
+            <pubDate>Mon, 02 Aug 2021 21:59:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Humza Yousaf reports nursery over discrimination fears]]></title>
@@ -28,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</guid>
             <pubDate>Mon, 02 Aug 2021 16:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Mon, 02 Aug 2021 14:48:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[East Kilbride taxi driver cleared of passenger's murder]]></title>
@@ -58,11 +65,11 @@
             <pubDate>Mon, 02 Aug 2021 19:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COP26: How is Scotland tackling climate change?]]></title>
-            <description><![CDATA[The Scottish government says its targets are some of the toughest in the world - but what progress is being made?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57970435</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57970435</guid>
-            <pubDate>Mon, 02 Aug 2021 05:31:49 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Families reunited as quarantine rules relaxed]]></title>
+            <description><![CDATA[People who have been double-jabbed in the EU and US no longer have to isolate when they arrive in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58053135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58053135</guid>
+            <pubDate>Mon, 02 Aug 2021 15:48:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Armed robber targets Inverness shop twice in 12 hours]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58057302</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58057302</guid>
             <pubDate>Mon, 02 Aug 2021 12:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Muir eases through as calm conditions thwart sailors]]></title>
-            <description><![CDATA[Laura Muir is into the 1500m semi-finals while Scotland's hopes of sailing medals have been thwarted - temporarily by calm conditions - as the Olympics rolls into its final week in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58032308</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58032308</guid>
-            <pubDate>Mon, 02 Aug 2021 14:35:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duncan Scott's parents 'delighted' at Tokyo Olympics success]]></title>
@@ -100,25 +100,11 @@
             <pubDate>Mon, 02 Aug 2021 15:01:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Warning of water scarcity following dry weather]]></title>
-            <description><![CDATA[Sepa has asked people to help save water after levels drop at some Scottish rivers, burns and lochs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58057301</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58057301</guid>
-            <pubDate>Mon, 02 Aug 2021 10:52:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teacher from Aberdeen caught up in Turkish wildfires]]></title>
-            <description><![CDATA[Amy Hutchinson, from Aberdeen, said she was "surrounded by red fire" near the tourist resort of Marmaris.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58049594</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58049594</guid>
-            <pubDate>Mon, 02 Aug 2021 08:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Laser pen shone at search and rescue helicopter near Dumfries]]></title>
-            <description><![CDATA[Police say the "reckless" act is thought to have happened close to Amisfield Primary School near Dumfries.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58055817</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58055817</guid>
-            <pubDate>Mon, 02 Aug 2021 11:39:07 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Mon, 02 Aug 2021 14:48:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
@@ -147,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/health-51205344</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
             <pubDate>Mon, 19 Jul 2021 09:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COP26: How is Scotland tackling climate change?]]></title>
+            <description><![CDATA[The Scottish government says its targets are some of the toughest in the world - but what progress is being made?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57970435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57970435</guid>
+            <pubDate>Mon, 02 Aug 2021 05:31:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adopting the recovery position]]></title>
@@ -198,6 +191,13 @@
             <pubDate>Wed, 28 Jul 2021 05:34:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Overflows: ‘There is raw sewage going into the river’]]></title>
+            <description><![CDATA[Data shows that the number of recorded sewage spills in Scotland has increased by 40% over the last five years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58061389</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58061389</guid>
+            <pubDate>Mon, 02 Aug 2021 21:54:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Humza Yousaf reports nursery over discrimination fears]]></title>
             <description><![CDATA[Scotland's health secretary says his daughter was twice refused a place at the nursery, which denies any discrimination.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58064620</link>
@@ -226,13 +226,6 @@
             <pubDate>Fri, 30 Jul 2021 12:43:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[High hopes for Scottish farmed seaweed]]></title>
-            <description><![CDATA[Kelp grown off the coast of the Isle of Skye could be used in food, packaging and cosmetic products.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58020364</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58020364</guid>
-            <pubDate>Thu, 29 Jul 2021 22:04:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Joe Hart: Tottenham's former England goalkeeper close to Celtic move]]></title>
             <description><![CDATA[Former England and Manchester City goalkeeper Joe Hart is close to joining Celtic from Tottenham.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58065246</link>
@@ -254,11 +247,11 @@
             <pubDate>Mon, 02 Aug 2021 15:44:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Champions League: Rangers could face Olympiakos or Ludogorets as other Scots teams learn opponents]]></title>
-            <description><![CDATA[Rangers will face either Olympiakos or Ludogorets should they defeat Malmo in the Champions League as Celtic, St Johnstone, Aberdeen and Hibernian learn potential foes.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58056211</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58056211</guid>
-            <pubDate>Mon, 02 Aug 2021 12:22:31 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Muir eases through as calm conditions thwart sailors]]></title>
+            <description><![CDATA[Laura Muir is into the 1500m semi-finals while Scotland's hopes of sailing medals have been thwarted - temporarily by calm conditions - as the Olympics rolls into its final week in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58032308</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58032308</guid>
+            <pubDate>Mon, 02 Aug 2021 14:35:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
