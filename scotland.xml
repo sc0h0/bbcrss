@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 05:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 05:38:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,25 @@
             <pubDate>Mon, 02 Aug 2021 05:01:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[COP26: How is Scotland tackling climate change?]]></title>
+            <description><![CDATA[The Scottish government says its targets are some of the toughest in the world - but what progress is being made?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57970435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57970435</guid>
+            <pubDate>Mon, 02 Aug 2021 05:31:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Laura Muir progresses, Sifan Hassan falls but wins, Shericka Jackson exits]]></title>
             <description><![CDATA[Great Britain's Laura Muir and Katie Snowden progress through the women's 1500m heats at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58051856</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58051856</guid>
             <pubDate>Mon, 02 Aug 2021 03:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teacher from Aberdeen caught up in Turkish wildfires]]></title>
+            <description><![CDATA[Amy Hutchinson, from Aberdeen, said she was "surrounded by red fire" near the tourist resort of Marmaris.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58049594</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58049594</guid>
+            <pubDate>Mon, 02 Aug 2021 05:25:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scott: Record medal haul 'doesn't feel real yet']]></title>
@@ -84,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58038976</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58038976</guid>
             <pubDate>Sat, 31 Jul 2021 10:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardinal Keith O'Brien: Abuse accuser says lessons not learned]]></title>
-            <description><![CDATA[Former priest Brian Devlin has waived his anonymity to write a book on the scandal that rocked the Catholic Church in 2013.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58030036</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58030036</guid>
-            <pubDate>Sat, 31 Jul 2021 08:37:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
