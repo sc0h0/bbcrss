@@ -1,5 +1,5 @@
 1. [Covid-19: Cancer surgery cancellations 'potentially avoidable'](https://www.bbc.co.uk/news/uk-northern-ireland-58053491) - The Royal College of Surgeons says it had suggested plans to keep cancer surgeries on track.
-2. [Covid-19: Pancreatic cancer surgery cancellation 'devastating' for family](https://www.bbc.co.uk/news/uk-northern-ireland-58064310) - The family of a Belfast man with pancreatic cancer appeal for help after his surgery is cancelled twice.
+2. [Covid-19: Pancreatic cancer surgery cancellation 'devastating' for family](https://www.bbc.co.uk/news/uk-northern-ireland-58064310) - The family of a Belfast man with pancreatic cancer appeal for help as his surgery is cancelled twice.
 3. [Barry's Amusements in Portrush sold to developer Michael Herbert](https://www.bbc.co.uk/news/uk-northern-ireland-58054527) - The seafront venue was owned by the Trufelli family since 1926 and was on the market since 2019.
 4. [La Girona: Investigation over suspected shipwreck theft](https://www.bbc.co.uk/news/uk-northern-ireland-58062920) - Divers have allegedly removed artefacts from an Armada warship sunk off the County Antrim coast.
 5. [Castlederg confirmed as holding NI's hottest day record](https://www.bbc.co.uk/news/uk-northern-ireland-58058272) - From big freeze and heatwave, Castlederg holds the record for NI's lowest and highest temperatures.
