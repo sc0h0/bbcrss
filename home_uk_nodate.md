@@ -8,7 +8,7 @@
 8. [Bridgend river death: Boy, 5, named as Logan Mwangi](https://www.bbc.co.uk/news/uk-wales-58049509) - Three people are arrested on suspicion of murder after Logan Mwangi, also known as Williamson, died.
 9. [Belarus Olympian given Polish visa after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
 10. [Vitaly Shishov: Head of Belarusian group missing in Kyiv](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov was reported missing by his partner after failing to return from his morning jog.
-11. [Abergele: Man charged with murder of girl, 15, at holiday park](https://www.bbc.co.uk/news/uk-wales-58050226) - A 15-year-old girl died following a "domestic disturbance" at a holiday park on Saturday.
+11. [Twitter works with news sites to tackle disinformation](https://www.bbc.co.uk/news/business-58065463) - Twitter announces it will cooperate with two news agencies to promote more reliable information.
 12. [Isles of Scilly walrus spotted off Republic of Ireland](https://www.bbc.co.uk/news/uk-england-cornwall-58065003) - Wally has been on the islands since June and has travelled thousands of miles around Europe.
 13. [The Papers: Holidays 'saved' and 'pinging the changes'](https://www.bbc.co.uk/news/blogs-the-papers-58065083) - Many of Tuesday's front pages focus on the decision to scrap a proposed amber travel watch-list.
 14. [Watch the moment Australian's handlebars fall off](https://www.bbc.co.uk/sport/av/olympics/58056707) - Watch the moment when Australia's Alex Porter falls in the men's team pursuit following a handlebar failure.
