@@ -1,4 +1,4 @@
-1. [Goldman Sachs gives pay rise after 95-hour week complaint](https://www.bbc.co.uk/news/business-58054983) - The pay rise comes as top city banker says young recruits should stop moaning about long hours.
+1. [Goldman Sachs raises banker pay after 95-hour week complaint](https://www.bbc.co.uk/news/business-58054983) - The pay rise comes as top city banker says young recruits should stop moaning about long hours.
 2. [Government could intervene in Meggitt takeover](https://www.bbc.co.uk/news/business-58054184) - The UK government is "closely monitoring" a US firm's plan to buy the UK defence and aerospace company.
 3. [Banking giant HSBC sees first half profit more than double](https://www.bbc.co.uk/news/business-58051818) - The UK-based firm said the jump in profits was driven by an economic rebound in Britain and Hong Kong.
 4. [Pingdemic: ‘I'm losing hundreds of pounds in tips’](https://www.bbc.co.uk/news/business-57997447) - An ill-timed alert on the NHS Covid app can mean bar staff losing out on tip income at the weekend.

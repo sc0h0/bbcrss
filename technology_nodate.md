@@ -1,4 +1,4 @@
-1. [Covid: NHS app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - It will focus on the two days before someone without symptoms tests positive, rather than five days.
+1. [Covid: NHS app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
 2. [Anti-Semitic social posts 'not taken down' in 80% of cases](https://www.bbc.co.uk/news/technology-58058428) - A report tracking hundreds of anti-Semitic social posts finds firms fail to act in 80% of cases.
 3. [Afterpay: Jack Dorsey's Square in Australia's biggest buyout](https://www.bbc.co.uk/news/business-58051815) - The $29bn deal for Afterpay will create an instalments payment giant in a hugely growing sector.
 4. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
