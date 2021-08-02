@@ -3,7 +3,7 @@
 3. [Transgender athlete Hubbard out of Olympics](https://www.bbc.co.uk/sport/olympics/58054891) - Transgender athlete Laurel Hubbard makes Olympic history but fails to record a successful lift in the women's +87kg weightlifting.
 4. [UK and Iran summon diplomats after tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.
 5. [Turkey wildfires: Eight dead as blazes sweep through tourist resorts](https://www.bbc.co.uk/news/world-europe-58057081) - Firefighters battle blazes in soaring temperatures as wildfires ravage resorts in southern Europe.
-6. [Sheikh Jarrah: Palestinians offered way out from evictions](https://www.bbc.co.uk/news/world-middle-east-58024060) - Judges come up with a plan to end a long-running saga which has fuelled Israel-Palestinian tensions.
+6. [Sheikh Jarrah: Palestinians reject offer to end evictions threat](https://www.bbc.co.uk/news/world-middle-east-58024060) - A plan to end a long-running saga which has fuelled Israel-Palestinian tensions is turned down.
 7. [Kenya's first female paraglider on life from a bird's eye view](https://www.bbc.co.uk/news/world-africa-58055592) - "Kenya 1" aka Nyambura Kariuki, shares her thoughts on being Kenya's first ever female paraglider.
 8. [Kathy Griffin: US comedian has surgery after lung cancer diagnosis](https://www.bbc.co.uk/news/entertainment-arts-58061672) - Kathy Griffin is having half of her left lung removed, saying "doctors are very optimistic".
 9. [German court sets trial for 100-year-old alleged Nazi guard](https://www.bbc.co.uk/news/world-europe-58057082) - The man is accused of assisting in 3,518 murders at the Sachsenhausen camp during World War Two.
