@@ -11,23 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 05:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 05:24:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: New rules for fully jabbed US and EU arrivals begin]]></title>
+            <description><![CDATA[People vaccinated in the EU or US will not need to isolate when coming to the UK from an amber country.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58050538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58050538</guid>
+            <pubDate>Mon, 02 Aug 2021 05:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Laura Muir progresses, Sifan Hassan falls but wins, Shericka Jackson exits]]></title>
+            <description><![CDATA[Great Britain's Laura Muir and Katie Snowden progress through the women's 1500m heats at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58051856</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58051856</guid>
+            <pubDate>Mon, 02 Aug 2021 03:01:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scott: Record medal haul 'doesn't feel real yet']]></title>
             <description><![CDATA[Duncan Scott on blocking out distractions to make history for Great Britain despite falling short of his four golds target.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58047645</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047645</guid>
             <pubDate>Sun, 01 Aug 2021 14:04:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Sun, 01 Aug 2021 13:36:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alex Salmond trial blogger hands himself in to police]]></title>
@@ -86,18 +93,11 @@
             <pubDate>Sat, 31 Jul 2021 08:37:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flexibility allows Edinburgh Art Festival to flourish]]></title>
-            <description><![CDATA[BBC Scotland's Pauline McLean finds "much to admire" as the capital's summer events start to return.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58034362</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58034362</guid>
-            <pubDate>Fri, 30 Jul 2021 22:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three men in hospital after crashed car catches fire near Peterculter]]></title>
-            <description><![CDATA[An 18-year-old man suffered "life-changing injuries" in the smash on the A93 outside Peterculter.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58040686</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58040686</guid>
-            <pubDate>Sat, 31 Jul 2021 12:48:21 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Sun, 01 Aug 2021 13:36:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
