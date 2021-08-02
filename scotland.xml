@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 16:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 16:53:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,7 +41,7 @@
             <description><![CDATA[The swimmer's parents have been watching the "nail biting" action from their home in Clackmannanshire.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58055682</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58055682</guid>
-            <pubDate>Mon, 02 Aug 2021 15:41:18 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 16:10:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Warning of water scarcity following dry weather]]></title>
@@ -65,11 +65,25 @@
             <pubDate>Mon, 02 Aug 2021 05:31:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[East Kilbride taxi driver cleared of passenger's murder]]></title>
+            <description><![CDATA[Derek McClinton was accused of killing Craig Kearney after he called him "specky" in March 2017.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58063277</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58063277</guid>
+            <pubDate>Mon, 02 Aug 2021 16:48:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Armed robber targets Inverness shop twice in 12 hours]]></title>
             <description><![CDATA[Staff were threatened with a knife in two incidents at the same shop in Inverness at the weekend.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58057302</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58057302</guid>
             <pubDate>Mon, 02 Aug 2021 12:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dementia risk greatest for defenders, says new research]]></title>
+            <description><![CDATA[The risk of dementia in former footballers increases according to the position they played in, says new research.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58060644</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58060644</guid>
+            <pubDate>Mon, 02 Aug 2021 15:01:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teacher from Aberdeen caught up in Turkish wildfires]]></title>
@@ -84,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58055817</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58055817</guid>
             <pubDate>Mon, 02 Aug 2021 11:39:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardiff Airport: New flight service to Edinburgh to start]]></title>
-            <description><![CDATA[They will be the first flights linking Cardiff and Edinburgh since Flybe collapsed last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58049504</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58049504</guid>
-            <pubDate>Mon, 02 Aug 2021 07:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Thousands of teenagers to get jab before school return]]></title>
-            <description><![CDATA[Vaccinations will be offered to young people aged between 12 and 17 who have certain health conditions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58042470</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58042470</guid>
-            <pubDate>Sun, 01 Aug 2021 07:57:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
@@ -184,6 +184,13 @@
             <pubDate>Mon, 02 Aug 2021 15:53:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Duncan Scott's parents on 'tremendous' Tokyo Olympics success]]></title>
+            <description><![CDATA[The parents of Scottish swimmer Duncan Scott share their joy as their son takes home a record Olympic medal haul.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58062840</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58062840</guid>
+            <pubDate>Mon, 02 Aug 2021 16:10:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish drug deaths: 'We need more drug users in treatment']]></title>
             <description><![CDATA[The drug minister says the level of deaths in Scotland is a "national disgrace" and has pledged to get more people into treatment.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58029815</link>
@@ -205,25 +212,11 @@
             <pubDate>Wed, 28 Jul 2021 14:14:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glasgow rapper Oakzy B wants to be 'bigger than Burns']]></title>
-            <description><![CDATA[Oakzy B is one of the contenders battling it out for a £50,000 prize in BBC Three's The Rap Game.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57982866</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57982866</guid>
-            <pubDate>Tue, 27 Jul 2021 08:59:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Champions League: Rangers could face Olympiakos or Ludogorets as other Scots teams learn opponents]]></title>
             <description><![CDATA[Rangers will face either Olympiakos or Ludogorets should they defeat Malmo in the Champions League as Celtic, St Johnstone, Aberdeen and Hibernian learn potential foes.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58056211</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58056211</guid>
             <pubDate>Mon, 02 Aug 2021 12:22:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Jemma Reekie aiming to emulate Dame Kelly Holmes' glory]]></title>
-            <description><![CDATA[Jemma Reekie is taking inspiration from Dame Kelly Holmes as she prepares to try to emulate her feat of an Olympic medal in the 800m.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58014929</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58014929</guid>
-            <pubDate>Mon, 02 Aug 2021 15:44:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Malmo v Rangers: Steven Gerrard expects 'physically strong' challenge]]></title>
@@ -233,11 +226,18 @@
             <pubDate>Mon, 02 Aug 2021 13:33:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Germany smash world record as GB finish second fastest in women's team pursuit]]></title>
-            <description><![CDATA[Watch as Germany smash the women's team pursuit world record while Great Britain finish second fastest in qualifying.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58056114</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58056114</guid>
-            <pubDate>Mon, 02 Aug 2021 08:54:02 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Jemma Reekie aiming to emulate Dame Kelly Holmes' glory]]></title>
+            <description><![CDATA[Jemma Reekie is taking inspiration from Dame Kelly Holmes as she prepares to try to emulate her feat of an Olympic medal in the 800m.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58014929</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58014929</guid>
+            <pubDate>Mon, 02 Aug 2021 15:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Celtic: Andres Iniesta 'encouraged' Kyogo Furuhashi's move to Glasgow club]]></title>
+            <description><![CDATA[Barcelona and Spain legend Andres Iniesta played a part in Kyogo Furuhashi's transfer to Celtic, the Japan striker reveals.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58062076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58062076</guid>
+            <pubDate>Mon, 02 Aug 2021 16:26:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

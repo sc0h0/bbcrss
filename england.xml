@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 16:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 16:49:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[West Midlands Police officer convicted of assaults]]></title>
+            <description><![CDATA[The police watchdog says there is no evidence to support complaints the attacks were racially driven.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58058831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58058831</guid>
+            <pubDate>Mon, 02 Aug 2021 16:15:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Streatham terror attack: Concern over 'extremist' knifeman before release]]></title>
             <description><![CDATA[Sudesh Amman stabbed two people before being shot by police on a south London street last year.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58057162</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58057162</guid>
             <pubDate>Mon, 02 Aug 2021 15:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Midlands Police officer convicted of assaults]]></title>
-            <description><![CDATA[PC Declan Jones commits both offences while on duty in Birmingham.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58058831</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58058831</guid>
-            <pubDate>Mon, 02 Aug 2021 15:45:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tonnes of chalk fall in Beachy Head collapse]]></title>
@@ -55,7 +55,21 @@
             <description><![CDATA[The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58062180</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58062180</guid>
-            <pubDate>Mon, 02 Aug 2021 15:59:08 GMT</pubDate>
+            <pubDate>Mon, 02 Aug 2021 16:46:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blackpool drowning: 'Hero' dies saving woman from sea]]></title>
+            <description><![CDATA[Alex Gibson, 22, jumped into the sea near Blackpool's North Pier in the early hours of Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58055884</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58055884</guid>
+            <pubDate>Mon, 02 Aug 2021 12:26:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cotheridge murder-accused 'staged love rival's suicide']]></title>
+            <description><![CDATA[Neil Parkinson was found dead in a burning car in Cotheridge, Worcestershire, in December.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58060348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hereford-worcester-58060348</guid>
+            <pubDate>Mon, 02 Aug 2021 15:24:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Men in 2014 Lowestoft boat accident died after vessel capsized]]></title>
@@ -72,25 +86,18 @@
             <pubDate>Mon, 02 Aug 2021 10:26:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blackpool drowning: 'Hero' dies saving woman from sea]]></title>
-            <description><![CDATA[Alex Gibson, 22, jumped into the sea near Blackpool's North Pier in the early hours of Friday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58055884</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58055884</guid>
-            <pubDate>Mon, 02 Aug 2021 12:26:10 GMT</pubDate>
+            <title><![CDATA[London Underground: Union calls off two 24-hour strikes]]></title>
+            <description><![CDATA[A further two days of strike action remain planned for the end of August, the RMT union says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58054435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58054435</guid>
+            <pubDate>Mon, 02 Aug 2021 16:48:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grenfell Tower: Man accused of burning model to face retrial]]></title>
-            <description><![CDATA[Paul Bussetti will face a new trial after the High Court quashed his previous acquittal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58054431</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58054431</guid>
-            <pubDate>Mon, 02 Aug 2021 09:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cambridge University's King's College meadow harvested with horses]]></title>
-            <description><![CDATA[The meadow outside King's College Chapel is being harvested using traditional methods.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58057800</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58057800</guid>
-            <pubDate>Mon, 02 Aug 2021 13:01:51 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Man builds squirrel course in Hitchin garden]]></title>
+            <description><![CDATA[Steve Barley spent almost three months building the course, designed around events in a heptathlon.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58004533</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58004533</guid>
+            <pubDate>Sun, 01 Aug 2021 23:01:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why bonding over the Euros appeared to increase Covid cases in men]]></title>
@@ -128,13 +135,6 @@
             <pubDate>Tue, 13 Jul 2021 15:02:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Man builds squirrel course in Hitchin garden]]></title>
-            <description><![CDATA[Steve Barley spent almost three months building the course, designed around events in a heptathlon.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58004533</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58004533</guid>
-            <pubDate>Sun, 01 Aug 2021 23:01:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Video: Eggborough Power Station cooling towers demolished]]></title>
             <description><![CDATA[The 300ft (90m) high structures in Eggborough were demolished as part of a plan to redevelop the site.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58050113</link>
@@ -161,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-dorset-58015659</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58015659</guid>
             <pubDate>Fri, 30 Jul 2021 23:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Bennerley Viaduct has Facebook followers in Germany']]></title>
+            <description><![CDATA[The Victorian rail bridge was almost demolished but now has fans all over the world.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-57399727</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-57399727</guid>
+            <pubDate>Fri, 30 Jul 2021 23:09:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hollywood plans £700m film and TV studios in Hertfordshire]]></title>
