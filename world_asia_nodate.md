@@ -1,4 +1,4 @@
-1. [Belarus sprinter refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58046183) - Krystsina Tsimanouskaya says she fears for her safety as Belarus orders her home for complaining about coaches.
+1. [Belarus athlete refuses 'forced' flight from Tokyo](https://www.bbc.co.uk/news/world-europe-58046183) - Krystsina Tsimanouskaya says she fears for her safety as Belarus orders her home for complaining about coaches.
 2. [Afterpay: Jack Dorsey's Square in Australia's biggest buyout](https://www.bbc.co.uk/news/business-58051815) - The $29bn deal for Afterpay will create an instalments payment giant in a hugely growing sector.
 3. [Myanmar: State of emergency extended with coup leader as PM](https://www.bbc.co.uk/news/world-asia-58045792) - Gen Min Aung Hlaing takes on the new title and says emergency rule may last until August 2023.
 4. [How South Korea's migrant wives are breaking the glass ceiling](https://www.bbc.co.uk/news/world-asia-57716704) - Many arrived not knowing the language, but are now carving out a significant place in society.
