@@ -21,7 +21,7 @@
 21. [The Hundred: Jimmy Neesham extends Welsh Fire stay](https://www.bbc.co.uk/sport/cricket/58058438) - New Zealand all-rounder Jimmy Neesham will remain with Welsh Fire after the withdrawal of South Africa fast bowler Lungi Ngidi.
 22. [Tottenham face potential Larne tie in Europa Conference League play-offs](https://www.bbc.co.uk/sport/football/58057963) - Tottenham are drawn against Northern Irish team Larne or Portuguese side Pacos de Ferreira in the inaugural Europa Conference League play-offs.
 23. [Lions braced for Gatland's 'notorious' changes for series decider](https://www.bbc.co.uk/sport/rugby-union/58050017) - The British and Irish Lions will be a different beast in the South Africa series decider, Alun Wyn Jones warns.
-24. [Bachgen fu farw mewn afon wedi'i enwi'n lleol](https://www.bbc.co.uk/newyddion/58058308) - Mae tri pherson wedi eu harestio ar amheuaeth o lofruddiaeth wedi i'w gorff ddod i'r fei yn Afon Ogwr.
+24. [Heddlu'n enwi bachgen fu farw yn Afon Ogwr ger Pen-y-bont](https://www.bbc.co.uk/newyddion/58058308) - Mae tri pherson wedi eu harestio ar amheuaeth o lofruddiaeth wedi i'w gorff ddod i'r fei yn Afon Ogwr.
 25. [Cyfarwyddwr Gŵyl y Gelli: 'Camymddygiad difrifol'](https://www.bbc.co.uk/newyddion/58058311) - Peter Florence yn ymddiswyddo wedi casgliad annibynnol ei fod wedi torri rheolau bwlio ac aflonyddu.
 26. ['I'm a Celebrity' i ddychwelyd i Abergele am ail flwyddyn](https://www.bbc.co.uk/newyddion/58026949) - Bydd cyfres nesaf y rhaglen deledu yn cael ei lleoli yng Nghastell Gwrych am yr ail flwyddyn yn olynol.
 27. [Oriel: Gig Eisteddfod Gudd](https://www.bbc.co.uk/newyddion/58055724) - Blas o benwythnos o gerddoriaeth fyw wnaeth agor yr Eisteddfod AmGen.
