@@ -5,7 +5,7 @@
 5. [China Covid: Concerns grow as Delta outbreak spreads](https://www.bbc.co.uk/news/world-asia-china-58052894) - Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.
 6. [Blackpool drowning: 'Hero' dies saving woman from sea](https://www.bbc.co.uk/news/uk-england-lancashire-58055884) - Alex Gibson, 22, jumped into the sea near Blackpool's North Pier in the early hours of Friday.
 7. [Samaritans volunteers met vulnerable callers for sex](https://www.bbc.co.uk/news/uk-58057031) - The charity says it is taking action following a "very small number of safeguarding incidents".
-8. [Bridgend river death: Boy, 5, named as Logan Williamson](https://www.bbc.co.uk/news/uk-wales-58049509) - Three people are arrested on suspicion of murder after Logan Williamson was found on Saturday.
+8. [Bridgend river death: Boy, 5, named as Logan Mwangi](https://www.bbc.co.uk/news/uk-wales-58049509) - Three people are arrested on suspicion of murder after Logan Mwangi was found on Saturday.
 9. [Belarus Olympian given Polish visa after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
 10. [Scotland's health secretary reports nursery over discrimination fears](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234) - Health Secretary Humza Yousaf says his daughter was twice refused a place at the nursery, which denies any discrimination.
 11. [I'm a Celebrity...Get Me Out Here! to return to Wales in 2021](https://www.bbc.co.uk/news/uk-wales-58053077) - The 21st series of the hit ITV reality show is set to return to Gwrych Castle in November.
