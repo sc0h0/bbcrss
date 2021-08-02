@@ -1,10 +1,10 @@
 1. [Tanker attack: UK and US blame Iran for deadly ship attack](https://www.bbc.co.uk/news/world-middle-east-58048007) - The UK accuses Tehran of violating international law, while Iran calls the accusations "baseless".
 2. [Turkey: People flee popular tourist spots to escape wildfires](https://www.bbc.co.uk/news/world-europe-58051746) - Footage has emerged showing people fleeing the deadly fires which have engulfed parts of Turkey.
 3. [Belarus Olympics: Krystsina Tsimanouskaya refuses 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58046183) - Krystsina Tsimanouskaya says she fears for her safety as Belarus orders her home for complaining about coaches.
-4. [Italy's Lamont Jacobs wins shock 100m gold ](https://www.bbc.co.uk/sport/olympics/58046880) - Italy's Lamont Marcell Jacobs claims a shock gold in the Olympic 100m final, after Great Britain's Zharnel Hughes is disqualified for a false start.
+4. [Giant panda twins born in French zoo](https://www.bbc.co.uk/news/world-europe-58052139) - The event is described as "exceptional" by experts, as panda reproduction is notoriously difficult.
 5. [Raven Saunders: What the Olympian's X protest means to her](https://www.bbc.co.uk/news/world-us-canada-58048727) - The US shot-putter defies a ban on podium gestures after taking silver at the Tokyo Games.
-6. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
-7. ['You can be African and black and play polo'](https://www.bbc.co.uk/news/uk-58049010) - Molawa Adesuyi is calling for more young people from ethnic minority backgrounds to take up his sport.
+6. ['You can be African and black and play polo'](https://www.bbc.co.uk/news/uk-58049010) - Molawa Adesuyi is calling for more young people from ethnic minority backgrounds to take up his sport.
+7. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
 8. [Myanmar: State of emergency extended with coup leader as PM](https://www.bbc.co.uk/news/world-asia-58045792) - Gen Min Aung Hlaing takes on the new title and says emergency rule may last until August 2023.
 9. [DaBaby dropped by US music festival Lollapalooza](https://www.bbc.co.uk/news/world-us-canada-58048728) - The Chicago festival is the latest to cut ties, after the rapper's derogatory comments about people with HIV.
 10. [Nigeria suspends 'Hushpuppi-linked' police officer Abba Kyari](https://www.bbc.co.uk/news/world-africa-58046942) - The deputy commissioner is indicted in the US for allegedly taking a bribe from an influencer.
