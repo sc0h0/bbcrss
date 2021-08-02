@@ -1,4 +1,4 @@
-1. [Belarus Olympian safe in Tokyo hotel after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Krystsina Tsimanouskay alleges she was almost forced onto a plane home after criticising her coaches.
+1. [Belarus Olympian safe in Tokyo hotel after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Krystsina Tsimanouskaya alleges she was almost forced onto a plane home after criticising her coaches.
 2. [Tanker attack: UK and US blame Iran for deadly ship attack](https://www.bbc.co.uk/news/world-middle-east-58048007) - The UK accuses Tehran of violating international law, while Iran calls the accusations "baseless".
 3. [Turkey: People flee popular tourist spots to escape wildfires](https://www.bbc.co.uk/news/world-europe-58051746) - Footage has emerged showing people fleeing the deadly fires which have engulfed parts of Turkey.
 4. [Giant panda twins born in French zoo](https://www.bbc.co.uk/news/world-europe-58052139) - The event is described as "exceptional" by experts, as panda reproduction is notoriously difficult.

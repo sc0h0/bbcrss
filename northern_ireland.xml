@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 04:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 05:14:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,20 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58047786</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58047786</guid>
             <pubDate>Sun, 01 Aug 2021 21:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belfast Glider: Decision time for planned new routes]]></title>
+            <description><![CDATA[How can new rapid transit routes in Belfast best serve the city's population?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-politics-58005194</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-politics-58005194</guid>
+            <pubDate>Mon, 02 Aug 2021 05:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Ciara Mageean misses out in 1,500m heats]]></title>
+            <description><![CDATA[Ireland's 1,500m hopeful Ciara Mageean is out of the Tokyo Olympics after finishing 10th in her heat, as Sarah Healy and Phil Healy also fail to progress.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58020643</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58020643</guid>
+            <pubDate>Mon, 02 Aug 2021 05:03:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belfast Mater Hospital nurse has car hijacked after night shift]]></title>
@@ -37,25 +51,11 @@
             <pubDate>Sun, 01 Aug 2021 15:23:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Rhys McClenaghan seventh in men's pommel horse final]]></title>
-            <description><![CDATA[Rhys McClenaghan suffers Olympic heartbreak as a dismount early in his routine saw him finish seventh in the men's pommel horse final]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58047092</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047092</guid>
-            <pubDate>Sun, 01 Aug 2021 10:33:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Are NI's young people resisting the vaccine?]]></title>
             <description><![CDATA[Why do vaccination numbers among the under-30s in Northern Ireland remain relatively low?]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57975927</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57975927</guid>
             <pubDate>Sun, 01 Aug 2021 05:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: 10,000 vaccinated at walk-in centres in Republic of Ireland]]></title>
-            <description><![CDATA[About two thirds of those vaccinated on Saturday were under 19, the health service chief says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58048445</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58048445</guid>
-            <pubDate>Sun, 01 Aug 2021 12:32:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Donaghadee: Harbour time capsule recovery could cost £720k]]></title>
@@ -93,13 +93,6 @@
             <pubDate>Sun, 01 Aug 2021 05:36:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tyrone earn dramatic Ulster Final win over Monaghan]]></title>
-            <description><![CDATA[Tyrone hold off Monaghan's second-half comeback to win a 16th Ulster Football title as the Red Hands edge a dramatic 0-16 to 0-15 win at Croke Park.]]></description>
-            <link>https://www.bbc.co.uk/sport/gaelic-games/58042304</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/gaelic-games/58042304</guid>
-            <pubDate>Sat, 31 Jul 2021 16:50:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Q&A: Getting jabbed after NI vaccination centres close for first jabs]]></title>
             <description><![CDATA[Saturday is the last day to get your first dose of a Covid jab at NI's mass vaccination centres.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-politics-57986801</link>
@@ -133,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57863840</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57863840</guid>
             <pubDate>Sat, 31 Jul 2021 14:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: The NI athletes in action in the second week of the Games]]></title>
+            <description><![CDATA[Of the 31 Northern Irish athletes to be selected to compete at the Tokyo Olympics, only six remain in competition in the days to come]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58047094</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047094</guid>
+            <pubDate>Mon, 02 Aug 2021 04:52:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[School uniforms: Should schools face a price limit?]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Sun, 25 Jul 2021 05:14:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: 10,000 vaccinated at walk-in centres in Republic of Ireland]]></title>
+            <description><![CDATA[About two thirds of those vaccinated on Saturday were under 19, the health service chief says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58048445</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58048445</guid>
+            <pubDate>Sun, 01 Aug 2021 12:32:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[All-Ireland GAA finals to host 40,000 fans]]></title>
             <description><![CDATA[The All-Ireland football and hurling finals will be played in front of 40,000 spectators at Croke Park]]></description>
             <link>https://www.bbc.co.uk/sport/northern-ireland/58029316</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57984521</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57984521</guid>
             <pubDate>Tue, 27 Jul 2021 10:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Irish vaccine programme to include 12-15-year-olds]]></title>
-            <description><![CDATA[Taoiseach (Irish PM) Micheál Martin says it represents a "significant opening up" of the programme.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57984314</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57984314</guid>
-            <pubDate>Tue, 27 Jul 2021 14:25:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
