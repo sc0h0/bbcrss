@@ -1,4 +1,4 @@
-1. [Coronavirus: New rules for fully jabbed US and EU arrivals begin](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US will not need to isolate when coming to the UK from an amber country.
+1. [Coronavirus: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 2. [No Covid traces found in railway stations or trains](https://www.bbc.co.uk/news/uk-58052378) - Heavily touched areas like escalator handles, ticket machines and benches were swabbed for the virus.
 3. [Hollywood plans £700m film and TV studios in Hertfordshire](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58029042) - Developers say the site could contribute £300m a year to the local economy and create 4,500 jobs.
 4. [Nottingham church minister's journey from drugs and gang crime](https://www.bbc.co.uk/news/uk-england-nottinghamshire-56940634) - Paul Traynor is an ordained minister but he was once caught in a cycle of crime, drugs and violence.

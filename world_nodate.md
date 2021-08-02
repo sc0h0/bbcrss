@@ -1,4 +1,4 @@
-1. [Belarus Olympian safe in Tokyo hotel after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Krystsina Tsimanouskaya alleges she was almost forced on to a plane home after criticising her coaches.
+1. [Belarus Olympian seeking asylum in Poland after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
 2. [Tanker attack: UK and US blame Iran for deadly ship attack](https://www.bbc.co.uk/news/world-middle-east-58048007) - The UK accuses Tehran of violating international law, while Iran calls the accusations "baseless".
 3. [China Covid: Concerns grow as Delta outbreak spreads](https://www.bbc.co.uk/news/world-asia-china-58052894) - Local headlines have been dominated by news on the outbreak with several provinces affected and millions getting tested.
 4. [Turkey: People flee popular tourist spots to escape wildfires](https://www.bbc.co.uk/news/world-europe-58051746) - Footage has emerged showing people fleeing the deadly fires which have engulfed parts of Turkey.

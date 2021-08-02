@@ -1,5 +1,5 @@
 1. [Three murder arrests over boy's river death in Bridgend](https://www.bbc.co.uk/news/uk-wales-58049509) - A 13-year-old boy and two adults arrested on suspicion of murder after a child's body was found.
-2. [Coronavirus: New rules for fully jabbed US and EU arrivals begin](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US will not need to isolate when coming to the UK from an amber country.
+2. [Coronavirus: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 3. [Abergele holiday park incident: Man held as girl, 15, dies](https://www.bbc.co.uk/news/uk-wales-58048295) - A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.
 4. [Disability: Paralysed woman to swim English Channel](https://www.bbc.co.uk/news/uk-wales-58025736) - Paula Craig, 56, is one of a relay team aiming to complete the 21-mile swim to France.
 5. [Person dies following early morning crash in Swansea](https://www.bbc.co.uk/news/uk-wales-58047608) - Police are appealing for witnesses to the single-vehicle crash which happened just before 04:00 BST.

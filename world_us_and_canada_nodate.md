@@ -1,5 +1,5 @@
 1. [Raven Saunders: What the Olympian's X protest means to her](https://www.bbc.co.uk/news/world-us-canada-58048727) - The US shot-putter defies a ban on podium gestures after taking silver at the Tokyo Games.
-2. [Coronavirus: New rules for fully jabbed US and EU arrivals begin](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US will not need to isolate when coming to the UK from an amber country.
+2. [Coronavirus: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 3. [DaBaby dropped by US music festival Lollapalooza](https://www.bbc.co.uk/news/world-us-canada-58048728) - The Chicago festival is the latest to cut ties, after the rapper's derogatory comments about people with HIV.
 4. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
 5. [SolarWinds: Top US prosecutors hit by suspected Russian hack](https://www.bbc.co.uk/news/world-us-canada-58042344) - It is feared hackers may have accessed sensitive legal files during last year's SolarWinds breach.

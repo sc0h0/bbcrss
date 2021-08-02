@@ -1,4 +1,4 @@
-1. [Coronavirus: New rules for fully jabbed US and EU arrivals begin](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US will not need to isolate when coming to the UK from an amber country.
+1. [Coronavirus: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 2. [Carrie Johnson and Boris Johnson expecting second child](https://www.bbc.co.uk/news/uk-58042146) - The couple are expecting a second child, months after a miscarriage left Carrie "heartbroken".
 3. [End self-isolation for double-jabbed sooner, says Sir Keir Starmer](https://www.bbc.co.uk/news/uk-politics-57962409) - Labour is calling on Boris Johnson to bring England in to line with Wales on quarantine measures.
 4. [Guli Francis-Dehqani: The bishop tackling England's housing crisis](https://www.bbc.co.uk/news/uk-politics-57985577) - The Church of England owns a lot of land - Guli Francis-Dehqani wants to use it for the common good.
