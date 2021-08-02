@@ -7,7 +7,7 @@
 7. [Person dies following early morning crash in Swansea](https://www.bbc.co.uk/news/uk-wales-58047608) - Police are appealing for witnesses to the single-vehicle crash which happened just before 04:00 BST.
 8. [Cardiff Airport: New flight service to Edinburgh to start](https://www.bbc.co.uk/news/uk-wales-58049504) - They will be the first flights linking Cardiff and Edinburgh since Flybe collapsed last year.
 9. [Woman, 80, found clinging to branch in river rescued](https://www.bbc.co.uk/news/uk-wales-58049508) - The 80-year-old woman was treated by paramedics at the scene before being taken to hospital.
-10. [Light winds delay Mills' gold meal push](https://www.bbc.co.uk/sport/olympics/58053689) - Great Britain's hopes of sailing medals will have to wait after Monday's action is postponed because of light winds.
+10. [Light winds delay Mills' gold medal push](https://www.bbc.co.uk/sport/olympics/58053689) - Great Britain's hopes of sailing medals will have to wait after Monday's action is postponed because of light winds.
 11. [Covid: No incentives for youth vaccine uptake in Wales](https://www.bbc.co.uk/news/uk-wales-58047609) - Young people In England, however, are to get travel and takeaway discounts for taking up a jab offer.
 12. [Russell Martin: MK Dons manager named Swansea City head coach](https://www.bbc.co.uk/sport/football/58046826) - Swansea City name MK Dons manager Russell Martin as their new head coach.
 13. [Paralysed swimmer Paula Craig in English Channel record bid](https://www.bbc.co.uk/news/uk-wales-58039094) - Paula Craig was paralysed after being hit by a car in 2001 - now she aims to swim the Channel.
