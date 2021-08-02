@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 18:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 19:12:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58049509</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58049509</guid>
             <pubDate>Mon, 02 Aug 2021 18:17:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abergele: Man charged with murder of girl, 15, at holiday park]]></title>
+            <description><![CDATA[A 15-year-old girl died following a "domestic disturbance" at a holiday park on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58050226</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58050226</guid>
+            <pubDate>Mon, 02 Aug 2021 19:02:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I'm a Celebrity...Get Me Out Here! to return to Wales in 2021]]></title>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58060304</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58060304</guid>
             <pubDate>Mon, 02 Aug 2021 16:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abergele holiday park incident: Man held as girl, 15, dies]]></title>
-            <description><![CDATA[A 15-year-old girl dies and a 19-year-old man has been arrested after the incident on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58048295</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58048295</guid>
-            <pubDate>Sun, 01 Aug 2021 12:06:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Disability: Paralysed woman to swim English Channel]]></title>
@@ -170,11 +170,18 @@
             <pubDate>Mon, 02 Aug 2021 15:28:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glamorgan Cricket: Hugh Morris warns over Swansea future due to standards at St Helen's]]></title>
-            <description><![CDATA[Glamorgan chief executive Hugh Morris warns that standards at St Helen's are below what will be required for first-class cricket from 2023.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58001181</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58001181</guid>
-            <pubDate>Mon, 02 Aug 2021 14:42:28 GMT</pubDate>
+            <title><![CDATA[James Harris: Glamorgan re-sign Middlesex all-rounder on three-year deal]]></title>
+            <description><![CDATA[All-rounder James Harris says he has "years and years" left to play after re-signing for Glamorgan on a three-year deal from Middlesex.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/57935346</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/57935346</guid>
+            <pubDate>Mon, 02 Aug 2021 18:31:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cyhuddo dyn o lofruddio merch 15 oed mewn parc gwyliau]]></title>
+            <description><![CDATA[Dyn 19 oed o Fanceinion wedi'i gyhuddo yn dilyn marwolaeth merch 15 oed mewn parc gwyliau ger Abergele.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58061377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58061377</guid>
+            <pubDate>Mon, 02 Aug 2021 18:56:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heddlu'n enwi bachgen fu farw yn Afon Ogwr ger Pen-y-bont]]></title>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/newyddion/58058311</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58058311</guid>
             <pubDate>Mon, 02 Aug 2021 13:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I'm a Celebrity' i ddychwelyd i Abergele am ail flwyddyn]]></title>
-            <description><![CDATA[Bydd cyfres nesaf y rhaglen deledu yn cael ei lleoli yng Nghastell Gwrych am yr ail flwyddyn yn olynol.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58026949</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58026949</guid>
-            <pubDate>Mon, 02 Aug 2021 12:43:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oriel: Gig Eisteddfod Gudd]]></title>
