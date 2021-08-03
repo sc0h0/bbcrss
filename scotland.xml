@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 05:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 05:35:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Tue, 03 Aug 2021 05:09:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Teenage driver dies in two-car crash near Dunkeld]]></title>
+            <description><![CDATA[The A9 was closed for a number of hours following the crash near Dunkeld at about 17:00 on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58063283</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58063283</guid>
+            <pubDate>Tue, 03 Aug 2021 05:27:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I stopped drinking - then baking business turned my life around]]></title>
             <description><![CDATA[Lesley Smith gave up alcohol for the sake of her children but had "no outlet" until she found a passion for making cakes.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58011992</link>
@@ -51,13 +58,6 @@
             <pubDate>Mon, 02 Aug 2021 16:48:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Humza Yousaf reports nursery over discrimination fears]]></title>
-            <description><![CDATA[Health Secretary Humza Yousaf says his daughter was twice refused a place at the nursery, which denies any discrimination.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</guid>
-            <pubDate>Mon, 02 Aug 2021 16:00:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Muir eases through as calm conditions thwart sailors]]></title>
             <description><![CDATA[Laura Muir is into the 1500m semi-finals while Scotland's hopes of sailing medals have been thwarted - temporarily by calm conditions - as the Olympics rolls into its final week in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58032308</link>
@@ -65,11 +65,11 @@
             <pubDate>Mon, 02 Aug 2021 14:35:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Police close A9 north of Dunkeld after three-vehicle collision]]></title>
-            <description><![CDATA[The road was shut in both directions after the crash near Dunkeld at about 17:00 on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58063283</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58063283</guid>
-            <pubDate>Mon, 02 Aug 2021 20:13:20 GMT</pubDate>
+            <title><![CDATA[Humza Yousaf reports nursery over discrimination fears]]></title>
+            <description><![CDATA[Health Secretary Humza Yousaf says his daughter was twice refused a place at the nursery, which denies any discrimination.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</guid>
+            <pubDate>Mon, 02 Aug 2021 16:00:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Families reunited as quarantine rules relaxed]]></title>

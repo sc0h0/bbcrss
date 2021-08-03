@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 05:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 05:35:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58051481</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58051481</guid>
             <pubDate>Tue, 03 Aug 2021 01:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Dylan Fletcher and Stuart Bithell win gold for Great Britain in men's 49er sailing]]></title>
+            <description><![CDATA[Dylan Fletcher and Stuart Bithell claim gold for Great Britain after winning a dramatic men's 49er medal race.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58067716</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067716</guid>
+            <pubDate>Tue, 03 Aug 2021 05:20:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sturgeon to set out plans for lifting restrictions]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58063759</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58063759</guid>
             <pubDate>Mon, 02 Aug 2021 19:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New vote sought in Amazon union fight]]></title>
-            <description><![CDATA[A National Labor Relations Board official wants another union vote for Amazon workers in Alabama.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58065874</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58065874</guid>
-            <pubDate>Tue, 03 Aug 2021 00:38:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Holidays 'saved' and 'pinging the changes']]></title>
@@ -254,13 +254,6 @@
             <pubDate>Sun, 01 Aug 2021 23:21:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gemili injured, Warholm creates history & Biles to return - day 11 in Tokyo so far]]></title>
-            <description><![CDATA[British sprinter Adam Gemili suffers injury heartbreak in the Olympic men's 200m, but there is still the prospect of a medal-rush for the nation on day 11 in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58066781</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58066781</guid>
-            <pubDate>Tue, 03 Aug 2021 04:52:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Karsten Warholm sets new world record in 400m hurdles]]></title>
             <description><![CDATA[Norway's Karsten Warholm sets a "mind-blowing" new world record of 45.94 seconds to win gold in 400m hurdles at the Olympic Stadium in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58065722</link>
@@ -303,18 +296,25 @@
             <pubDate>Tue, 03 Aug 2021 01:14:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[South Africa's Erasmus faces misconduct hearing for criticising officials in defeat by Lions]]></title>
+            <description><![CDATA[South Africa director of rugby Rassie Erasmus will face a misconduct hearing after his criticism of the match officials following their first-Test defeat by the British and Irish Lions.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58064491</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58064491</guid>
+            <pubDate>Mon, 02 Aug 2021 19:17:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Dylan Fletcher & Stuart Bithell win gold, Karsten Warholm creates history, Simone Biles returns]]></title>
+            <description><![CDATA[Sailors Dylan Fletcher and Stuart Bithell start what Great Britain hope will be a medal rush on day 11 of Tokyo 2020 with a stunning grab for gold.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58066781</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58066781</guid>
+            <pubDate>Tue, 03 Aug 2021 05:32:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Karsten Warholm sets stunning 400m hurdles world record]]></title>
             <description><![CDATA[Norwegian Karsten Warholm runs a stunning men's 400m hurdles race to obliterate his previous world record and take gold at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58067231</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067231</guid>
             <pubDate>Tue, 03 Aug 2021 04:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Dylan Fletcher and Stuart Bithell win gold for Great Britain in men's 49er sailing]]></title>
-            <description><![CDATA[Dylan Fletcher and Stuart Bithell claim gold for Great Britain after winning a dramatic men's 49er medal race.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58067716</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067716</guid>
-            <pubDate>Tue, 03 Aug 2021 05:20:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Adam Gemili's 200m medal hopes dashed by injury]]></title>
