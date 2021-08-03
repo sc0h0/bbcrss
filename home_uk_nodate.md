@@ -2,7 +2,7 @@
 2. [Drug deaths in England and Wales highest since 1993](https://www.bbc.co.uk/news/uk-58070848) - In total, 4,561 deaths related to drug poisoning were registered in England and Wales last year.
 3. [Streatham terror attack: Sudesh Amman 'wanted to kill the Queen'](https://www.bbc.co.uk/news/uk-england-london-58070758) - Sudesh Amman stabbed two people in south London only days after being released from prison.
 4. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
-5. [Afghanistan general says Taliban gains threaten global security](https://www.bbc.co.uk/news/world-asia-58068299) - An Afghan general warns of devastating consequences if the Taliban win their fight against government forces.
+5. [Afghanistan: Lashkar Gah residents urged to evacuate amid Taliban battle](https://www.bbc.co.uk/news/world-asia-58068299) - People are told to flee Lashkar Gah ahead of a major army operation against the Taliban.
 6. [Wuhan: Chinese city to test entire population after virus resurfaces](https://www.bbc.co.uk/news/world-asia-china-58066744) - The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.
 7. [Abergele: Man in court charged with sister's murder](https://www.bbc.co.uk/news/uk-wales-58068097) - Matthew Selby, 19, was at Llandudno magistrates court charged with the murder at a holiday park.
 8. [Rishi Sunak warns young home working may hurt their career](https://www.bbc.co.uk/news/business-58068998) - The chancellor says being in the office helped him build strong relationships when he started out.
