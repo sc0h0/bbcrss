@@ -2,7 +2,7 @@
 2. [Queer Eye star Tan France welcomes first child via surrogate](https://www.bbc.co.uk/news/entertainment-arts-58073755) - The Queer Eye star reveals he and his husband Rob have become parents to their first son Ismail.
 3. [Bennifer 2.0: How Jennifer Lopez and Ben Affleck got us talking again](https://www.bbc.co.uk/news/entertainment-arts-58030649) - How a viral photo of Jennifer Lopez and Ben Affleck exposed the internet's lust for nostalgia.
 4. [DaBaby thankful for 'education' as more festivals drop him](https://www.bbc.co.uk/news/newsbeat-58070538) - The rapper has apologised again for his "misinformed" comments about HIV and AIDS.
-5. [Coronavirus: Sir Van Morrison ends legal action over live music ban](https://www.bbc.co.uk/news/uk-northern-ireland-58072973) - The singer had challenged Covid-19 restrictions which prevented life music performances.
+5. [Coronavirus: Sir Van Morrison ends legal action over live music ban](https://www.bbc.co.uk/news/uk-northern-ireland-58072973) - The singer had challenged Covid-19 restrictions which prevented live music performances.
 6. [Dizzee Rascal: Rapper charged with assaulting woman](https://www.bbc.co.uk/news/uk-england-london-58063759) - The rapper, whose real name is Dylan Mills, is charged with assault after an incident in south London.
 7. [Kathy Griffin reveals lung cancer diagnosis](https://www.bbc.co.uk/news/entertainment-arts-58061672) - Kathy Griffin is having half of her left lung removed, saying "doctors are very optimistic".
 8. [I'm a Celebrity...Get Me Out Here! to return to Wales in 2021](https://www.bbc.co.uk/news/uk-wales-58053077) - The 21st series of the hit ITV reality show is set to return to Gwrych Castle in November.
