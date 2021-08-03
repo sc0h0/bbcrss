@@ -1,5 +1,5 @@
-1. [Covid in Scotland: Most restrictions to end from 9 August](https://www.bbc.co.uk/news/uk-scotland-58057380) - Social distancing will no longer be required in most locations - but the wearing of face coverings will continue.
-2. [Covid: Vaccines to be offered to 16 and 17 year olds](https://www.bbc.co.uk/news/uk-58080232) - UK ministers are expected to accept the advice of the committee of independent health experts.
+1. [Covid: Vaccines to be offered to 16 and 17 year olds](https://www.bbc.co.uk/news/uk-58080232) - UK ministers are expected to accept the advice of the committee of independent health experts.
+2. [Covid in Scotland: Most restrictions to end from 9 August](https://www.bbc.co.uk/news/uk-scotland-58057380) - Social distancing will no longer be required in most locations - but the wearing of face coverings will continue.
 3. [MV Asphalt Princess: Ship hijacked off UAE ordered to sail to Iran](https://www.bbc.co.uk/news/world-middle-east-58078506) - The Panama-flagged MV Asphalt Princess has been ordered to sail to Iran, officials say.
 4. [Woman’s DNA helps convict her father for rape](https://www.bbc.co.uk/news/uk-58073015) - An adoptee's discovery that her mother was raped at 13 leads to 11 years in jail for Carvel Bennett.
 5. [Aya Hachem: Seven men guilty of drive-by shooting murder](https://www.bbc.co.uk/news/uk-england-lancashire-58077841) - Innocent passer-by Aya Hachem, 19, was shot dead in a feud between two Blackburn tyre firm owners.
