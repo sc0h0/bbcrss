@@ -1,4 +1,4 @@
-1. [Abergele: Man in court charged with sister's murder](https://www.bbc.co.uk/news/uk-wales-58068097) - Matthew Selby, 19, was at Llandudno magistrates court charged with the murder at a holiday park.
+1. [Towyn: Man in court charged with sister's murder](https://www.bbc.co.uk/news/uk-wales-58068097) - Matthew Selby, 19, was at Llandudno magistrates court charged with the murder at a holiday park.
 2. [Bridgend river death: Friends of boy, 5, 'heartbroken'](https://www.bbc.co.uk/news/uk-wales-58069625) - Classmates and neighbours leave tributes near the river where the five-year-old boy was found dead.
 3. [I'm a Celebrity: What else links Wales and Australia?](https://www.bbc.co.uk/news/uk-wales-58075201) - They may be 9,000 miles apart, but the TV show's two host countries have surprising things in common.
 4. [Thunderstorm and heavy rain warning for parts of Wales](https://www.bbc.co.uk/news/uk-wales-58071768) - Up to 100mm (4in) of rain could fall in the hardest hit areas on Friday, the Met Office warns.

@@ -5,7 +5,7 @@
 5. [Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting](https://www.bbc.co.uk/news/uk-politics-58073145) - Svetlana Tikhanovskaya says she has been assured of further UK support, amid a crackdown on dissent.
 6. [Streatham terror attack: Sudesh Amman 'wanted to kill the Queen'](https://www.bbc.co.uk/news/uk-england-london-58070758) - Sudesh Amman stabbed two people in south London only days after being released from prison.
 7. [Afghanistan: Lashkar Gah residents urged to evacuate amid Taliban battle](https://www.bbc.co.uk/news/world-asia-58068299) - People are told to flee Lashkar Gah ahead of a major army operation against the Taliban.
-8. [Abergele: Man in court charged with sister's murder](https://www.bbc.co.uk/news/uk-wales-58068097) - Matthew Selby, 19, was at Llandudno magistrates court charged with the murder at a holiday park.
+8. [Towyn: Man in court charged with sister's murder](https://www.bbc.co.uk/news/uk-wales-58068097) - Matthew Selby, 19, was at Llandudno magistrates court charged with the murder at a holiday park.
 9. [Drug deaths in England and Wales highest since 1993](https://www.bbc.co.uk/news/uk-58070848) - In total, 4,561 deaths related to drug poisoning were registered in England and Wales last year.
 10. [Matt Damon says he has never personally used gay slur](https://www.bbc.co.uk/news/entertainment-arts-58069170) - The Hollywood star had been criticised for saying he had only recently "retired" the insult.
 11. [Robyn Williams: Met Police takes legal action over officer's reinstatement](https://www.bbc.co.uk/news/uk-england-london-58072822) - Robyn Williams was reinstated after being dismissed over possession of a child abuse video.
