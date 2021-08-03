@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 11:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 11:56:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Tue, 03 Aug 2021 11:21:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wuhan: Chinese city to test entire population after virus resurfaces]]></title>
-            <description><![CDATA[The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58066744</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58066744</guid>
-            <pubDate>Tue, 03 Aug 2021 06:06:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Neanderthal markings in Spain suggest cave art, study says]]></title>
             <description><![CDATA[Red stains found in caves in Spain were created more than 60,000 years ago, researchers say.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58070141</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58070141</guid>
             <pubDate>Tue, 03 Aug 2021 11:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wuhan: Chinese city to test entire population after virus resurfaces]]></title>
+            <description><![CDATA[The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58066744</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58066744</guid>
+            <pubDate>Tue, 03 Aug 2021 06:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Matt Damon says he has never personally used gay slur]]></title>
@@ -177,11 +177,25 @@
             <pubDate>Mon, 02 Aug 2021 02:25:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Simone Biles returns with bronze, Karsten Warholm smashes record]]></title>
+            <title><![CDATA[Simone Biles wins Tokyo Olympics beam bronze on emotional return]]></title>
+            <description><![CDATA[Simone Biles wins bronze in the beam final in an emotional return to Olympic gymnastics competition.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58069211</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58069211</guid>
+            <pubDate>Tue, 03 Aug 2021 10:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What has happened so far on day 11?]]></title>
             <description><![CDATA[Simone Biles wins bronze on an emotional return to Olympic competition on the day canoeist Lisa Carrington earns double gold and hurdler Karsten Warholm smashes a world record.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58067507</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067507</guid>
             <pubDate>Tue, 03 Aug 2021 10:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian athletes 'damaged beds and rooms']]></title>
+            <description><![CDATA[Australian athletes damaged beds in their Olympic village hotel rooms and put a hole in a wall before leaving, the country's Olympic committee says.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58072039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58072039</guid>
+            <pubDate>Tue, 03 Aug 2021 11:45:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Sifan Hassan takes 5,000m gold in first leg of attempted treble]]></title>
@@ -203,20 +217,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58067716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067716</guid>
             <pubDate>Tue, 03 Aug 2021 08:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All you need to know about new climbing event]]></title>
-            <description><![CDATA[Climbing is the last of the new Olympic sports to make its appearance at Tokyo 2020. Here's a guide to the things you need to know.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57998157</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57998157</guid>
-            <pubDate>Mon, 02 Aug 2021 16:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: USA men's basketball team beat Spain to reach last four]]></title>
-            <description><![CDATA[Defending champions USA beat Spain for the fourth Olympics in a row to reach the men's basketball semi-finals.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58067515</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067515</guid>
-            <pubDate>Tue, 03 Aug 2021 10:26:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

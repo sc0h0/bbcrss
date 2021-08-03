@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 11:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 11:57:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Tue, 03 Aug 2021 11:21:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Karsten Warholm sets stunning 400m hurdles world record]]></title>
-            <description><![CDATA[Norwegian Karsten Warholm runs a stunning men's 400m hurdles race to obliterate his previous world record and take gold at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58067231</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067231</guid>
-            <pubDate>Tue, 03 Aug 2021 04:33:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[IOC launches investigation into Belarus sprinter case]]></title>
             <description><![CDATA[Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58065318</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58065318</guid>
             <pubDate>Tue, 03 Aug 2021 04:27:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neanderthal markings in Spain suggest cave art, study says]]></title>
+            <description><![CDATA[Red stains found in caves in Spain were created more than 60,000 years ago, researchers say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58070141</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58070141</guid>
+            <pubDate>Tue, 03 Aug 2021 11:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: 'You can take our flag but not our love for Russia']]></title>
@@ -44,18 +44,11 @@
             <pubDate>Mon, 02 Aug 2021 23:05:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anti-Semitic social posts 'not taken down' in 80% of cases]]></title>
-            <description><![CDATA[A report tracking hundreds of anti-Semitic social posts finds firms fail to act in 80% of cases.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58058428</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58058428</guid>
-            <pubDate>Mon, 02 Aug 2021 12:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German court sets trial for 100-year-old alleged Nazi guard]]></title>
-            <description><![CDATA[The man is accused of assisting in 3,518 murders at the Sachsenhausen camp during World War Two.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58057082</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58057082</guid>
-            <pubDate>Mon, 02 Aug 2021 16:42:15 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Karsten Warholm sets stunning 400m hurdles world record]]></title>
+            <description><![CDATA[Norwegian Karsten Warholm runs a stunning men's 400m hurdles race to obliterate his previous world record and take gold at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58067231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067231</guid>
+            <pubDate>Tue, 03 Aug 2021 04:33:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[F1's Esteban Ocon: How it feels winning your first Formula 1 race]]></title>
@@ -72,6 +65,20 @@
             <pubDate>Mon, 02 Aug 2021 04:05:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sport climbing makes its Olympic debut - here's all you need to know]]></title>
+            <description><![CDATA[Climbing is the last of the new Olympic sports to make its appearance at Tokyo 2020. Here's a guide to the things you need to know.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57998157</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57998157</guid>
+            <pubDate>Mon, 02 Aug 2021 16:51:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The EU vaccine 'passport' and what it means for travel]]></title>
+            <description><![CDATA[An EU vaccine "passport" is being introduced, enabling holders to prove they have been jabbed.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-57665765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57665765</guid>
+            <pubDate>Mon, 02 Aug 2021 09:53:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mitholz - the tranquil Swiss village facing a time bomb]]></title>
             <description><![CDATA[More than 60 years after a deadly explosion ruined Mitholz, the village remains under threat.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-57996485</link>
@@ -84,20 +91,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58047473</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58047473</guid>
             <pubDate>Sun, 01 Aug 2021 14:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dementia risk greatest for defenders, says new research]]></title>
-            <description><![CDATA[The risk of dementia in former footballers increases according to the position they played in, says new research.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58060644</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58060644</guid>
-            <pubDate>Mon, 02 Aug 2021 15:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The EU vaccine 'passport' and what it means for travel]]></title>
-            <description><![CDATA[An EU vaccine "passport" is being introduced, enabling holders to prove they have been jabbed.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-57665765</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-57665765</guid>
-            <pubDate>Mon, 02 Aug 2021 09:53:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turkey: People flee popular tourist spots to escape wildfires]]></title>
