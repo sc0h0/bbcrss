@@ -1,5 +1,5 @@
 1. [Return to the office would help young workers, says Rishi Sunak](https://www.bbc.co.uk/news/business-58068998) - The chancellor says being in the office helped him build strong relationships when he started out.
-2. [Greggs to hire 500 staff as it plans 100 new stores](https://www.bbc.co.uk/news/business-58068988) - The bakery chain swings back to profit and says it plans to keep expanding on the High Street.
+2. [Greggs to create 500 jobs as it plans 100 more stores](https://www.bbc.co.uk/news/business-58068988) - The bakery chain swings back to profit and says it plans to keep expanding on the High Street.
 3. [Bank fraud: ‘I had £9,000 stolen from my account’](https://www.bbc.co.uk/news/business-58061993) - Scam victims are having difficulties getting bank support after losing cash, consumer group Which? says.
 4. [Covid-19: Amber watchlist travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - A government source says they have dropped proposals for a new category in the traffic light system.
 5. [Shares slide after China brands online games 'electronic drugs'](https://www.bbc.co.uk/news/business-58066659) - In recent months Beijing has cracked down on China's technology and private education industries.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 08:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 08:46:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,11 +170,18 @@
             <pubDate>Sun, 01 Aug 2021 06:59:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Laura Kenny wins fifth medal as Great Britain take team pursuit silver]]></title>
+            <description><![CDATA[Four-time Olympic champion Laura Kenny claims silver as Great Britain lose to Germany in the team pursuit final.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58069120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58069120</guid>
+            <pubDate>Tue, 03 Aug 2021 08:45:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: GB's Giles Scott wins Finn class, gold in men's 49er & silver in mixed Nacra 17]]></title>
             <description><![CDATA[Great Britain win two golds and a silver on a thrilling day in sailing at the Tokyo 2020 Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58067716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067716</guid>
-            <pubDate>Tue, 03 Aug 2021 08:29:11 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 08:41:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB diver Jack Laugher wins bronze in men’s 3m springboard]]></title>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58066599</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58066599</guid>
             <pubDate>Tue, 03 Aug 2021 04:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v India: BBC Sport pundits predict the winners]]></title>
-            <description><![CDATA[Can England cope without Ben Stokes? Will India claim a first series win in England since 2007? And which member of the BBC team cannot decide?]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58023809</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58023809</guid>
-            <pubDate>Tue, 03 Aug 2021 03:26:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

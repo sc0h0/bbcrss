@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 08:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 08:49:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,7 +65,7 @@
             <pubDate>Tue, 03 Aug 2021 06:06:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Greggs to hire 500 staff as it plans 100 new stores]]></title>
+            <title><![CDATA[Greggs to create 500 jobs as it plans 100 more stores]]></title>
             <description><![CDATA[The bakery chain swings back to profit and says it plans to keep expanding on the High Street.]]></description>
             <link>https://www.bbc.co.uk/news/business-58068988</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58068988</guid>
@@ -261,6 +261,13 @@
             <pubDate>Sun, 01 Aug 2021 23:21:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kenny wins fifth medal as GB women take team pursuit silver]]></title>
+            <description><![CDATA[Four-time Olympic champion Laura Kenny claims silver as Great Britain lose to Germany in the team pursuit final.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58069120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58069120</guid>
+            <pubDate>Tue, 03 Aug 2021 08:45:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Diver Laugher wins bronze in 3m springboard]]></title>
             <description><![CDATA[Diver Jack Laugher wins an Olympic bronze medal in the men's 3m springboard at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58068690</link>
@@ -303,13 +310,6 @@
             <pubDate>Tue, 03 Aug 2021 05:54:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Britain's Raducanu beaten in first match since Wimbledon]]></title>
-            <description><![CDATA[Britain's Emma Raducanu is beaten in straight sets by world number 51 Zhang Shuai in her first match since her run to the last 16 at Wimbledon.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58068167</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58068167</guid>
-            <pubDate>Tue, 03 Aug 2021 06:55:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: GB and Denmark collide in men's team pursuit]]></title>
             <description><![CDATA[Drama in the men's team pursuit qualifying as Denmark's rider collides with GB's Charlie Tanfield.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58069532</link>
@@ -328,7 +328,7 @@
             <description><![CDATA[Great Britain win two golds and a silver on a thrilling day in sailing at the Tokyo 2020 Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58067716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067716</guid>
-            <pubDate>Tue, 03 Aug 2021 08:29:11 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 08:41:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Karsten Warholm sets stunning 400m hurdles world record]]></title>
