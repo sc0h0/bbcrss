@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 20:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 20:43:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Tue, 03 Aug 2021 12:44:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Food fight: The other British bake-off]]></title>
+            <description><![CDATA[How Domino's and Greggs turned up the heat during the pandemic to deliver tasty profits.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58080953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58080953</guid>
+            <pubDate>Tue, 03 Aug 2021 20:31:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Scotland: Self-isolation of whole classes 'no longer routine']]></title>
             <description><![CDATA[Secondary school pupils will be still be asked to wear face coverings in classrooms for at least the first six weeks of term.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58073215</link>
@@ -79,32 +86,11 @@
             <pubDate>Tue, 03 Aug 2021 15:32:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's growing sewage spill problem]]></title>
-            <description><![CDATA[The number of overspills into rivers and seas has risen by 40% in five years as pressure mounts on the sewer network.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58040852</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58040852</guid>
-            <pubDate>Tue, 03 Aug 2021 05:06:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Scots cycling trio secure silver medals as Reekie misses out on 800m medal]]></title>
             <description><![CDATA[Four cyclists take silver medals, but Jemma Reekie narrowly misses out on a 800m medal on a busy day for the Scots at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58068498</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58068498</guid>
             <pubDate>Tue, 03 Aug 2021 12:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COP26 'should be hybrid event' says former climate chief Figueres]]></title>
-            <description><![CDATA[The main architect of Paris Agreement says the summit will need to be a mix of virtual and in-person meetings.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58055854</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58055854</guid>
-            <pubDate>Tue, 03 Aug 2021 05:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teenage driver dies in two-car crash near Dunkeld]]></title>
-            <description><![CDATA[The A9 was closed for a number of hours following the crash near Dunkeld at about 17:00 on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58063283</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58063283</guid>
-            <pubDate>Tue, 03 Aug 2021 05:27:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
@@ -140,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58071989</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58071989</guid>
             <pubDate>Tue, 03 Aug 2021 15:55:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's growing sewage spill problem]]></title>
+            <description><![CDATA[The number of overspills into rivers and seas has risen by 40% in five years as pressure mounts on the sewer network.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58040852</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58040852</guid>
+            <pubDate>Tue, 03 Aug 2021 05:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I stopped drinking - then baking business turned my life around]]></title>
@@ -219,7 +212,7 @@
             <pubDate>Mon, 02 Aug 2021 15:53:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Malmo 2-1 Rangers: Steven Davis goal "an important lifeline" says Steven Gerrard]]></title>
+            <title><![CDATA[Malmo 2-1 Rangers: Steven Davis goal 'an important lifeline', says Steven Gerrard]]></title>
             <description><![CDATA[A "big moment" from Steven Davis has given Rangers "an important lifeline" in their quest for the Champions League group stage despite defeat by Swedish side Malmo, says boss Steven Gerrard.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58059487</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58059487</guid>
