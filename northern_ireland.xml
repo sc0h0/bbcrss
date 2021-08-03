@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 08:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 08:39:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Irish hospitality rules 'incentivising' vaccine uptake]]></title>
+            <description><![CDATA[The Republic of Ireland's vaccine rate has surpassed the rate in Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58069252</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58069252</guid>
+            <pubDate>Tue, 03 Aug 2021 08:37:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cost of rural crime drops, but fly-tipping up]]></title>
             <description><![CDATA[Covid-19 restrictions, better farm security and policing are credited with the fall in incidents.]]></description>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58062920</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58062920</guid>
             <pubDate>Mon, 02 Aug 2021 16:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Belfast: Bullet lodged in house door after shooting]]></title>
-            <description><![CDATA[Police say the attack, which happened on Sunday evening, could have had serious consequences.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58062423</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58062423</guid>
-            <pubDate>Mon, 02 Aug 2021 21:43:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Leon Reid progresses to semis as Kellie Harrington nets medal]]></title>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 08:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 08:34:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -62,7 +62,7 @@
             <description><![CDATA[Anna Burnet takes sailing silver with John Gimson on a busy day for the Scots at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58068498</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58068498</guid>
-            <pubDate>Tue, 03 Aug 2021 08:16:34 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 08:32:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[East Kilbride taxi driver cleared of passenger's murder]]></title>
@@ -177,6 +177,13 @@
             <pubDate>Mon, 02 Aug 2021 21:54:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: John Gimson and Anna Burnet win silver for Britain in mixed Nacra 17 class sailing]]></title>
+            <description><![CDATA[John Gimson and Anna Burnet secure silver for Great Britain in the mixed Nacra 17 class.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58069529</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58069529</guid>
+            <pubDate>Tue, 03 Aug 2021 07:51:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Humza Yousaf reports nursery over discrimination fears]]></title>
             <description><![CDATA[Scotland's health secretary says his daughter was twice refused a place at the nursery, which denies any discrimination.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58064620</link>
@@ -198,25 +205,11 @@
             <pubDate>Mon, 02 Aug 2021 16:10:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish drug deaths: 'We need more drug users in treatment']]></title>
-            <description><![CDATA[The drug minister says the level of deaths in Scotland is a "national disgrace" and has pledged to get more people into treatment.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58029815</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58029815</guid>
-            <pubDate>Fri, 30 Jul 2021 12:43:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Joe Hart: Tottenham's former England goalkeeper close to Celtic move]]></title>
             <description><![CDATA[Former England and Manchester City goalkeeper Joe Hart is close to joining Celtic from Tottenham Hotspur.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58065246</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58065246</guid>
             <pubDate>Mon, 02 Aug 2021 21:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: John Gimson and Anna Burnet win silver for Britain in mixed Nacra 17 class sailing]]></title>
-            <description><![CDATA[John Gimson and Anna Burnet secure silver for Great Britain in the mixed Nacra 17 class.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58069529</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58069529</guid>
-            <pubDate>Tue, 03 Aug 2021 07:51:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB's women's pursuit team crash after world record time on their way to final]]></title>
@@ -231,6 +224,13 @@
             <link>https://www.bbc.co.uk/sport/football/58068506</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58068506</guid>
             <pubDate>Tue, 03 Aug 2021 07:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malmo v Rangers: Steven Gerrard expects 'physically strong' challenge]]></title>
+            <description><![CDATA[Steven Gerrard anticipates a "physically strong" challenge from Malmo in Rangers' Champions League qualifier.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58059487</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58059487</guid>
+            <pubDate>Mon, 02 Aug 2021 13:33:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

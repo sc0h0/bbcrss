@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 08:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 08:40:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,11 +44,11 @@
             <pubDate>Mon, 02 Aug 2021 23:04:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Amber watchlist travel idea scrapped]]></title>
-            <description><![CDATA[A government source says they have dropped proposals for a new category in the traffic light system.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58064470</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58064470</guid>
-            <pubDate>Tue, 03 Aug 2021 07:23:25 GMT</pubDate>
+            <title><![CDATA[Matt Damon says he has never personally used gay slur]]></title>
+            <description><![CDATA[The Hollywood star had been criticised for saying he had only recently "retired" the insult.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58069170</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58069170</guid>
+            <pubDate>Tue, 03 Aug 2021 08:21:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Amber watchlist idea dropped and tears at airport reunions]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Tue, 03 Aug 2021 06:06:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Greggs: New stores set to create 500 jobs]]></title>
+            <title><![CDATA[Greggs to hire 500 staff as it plans 100 new stores]]></title>
             <description><![CDATA[The bakery chain swings back to profit and says it plans to keep expanding on the High Street.]]></description>
             <link>https://www.bbc.co.uk/news/business-58068988</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58068988</guid>
-            <pubDate>Tue, 03 Aug 2021 07:50:47 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 08:35:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sturgeon to set out plans for lifting restrictions]]></title>
@@ -310,6 +310,13 @@
             <pubDate>Tue, 03 Aug 2021 06:55:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: GB and Denmark collide in men's team pursuit]]></title>
+            <description><![CDATA[Drama in the men's team pursuit qualifying as Denmark's rider collides with GB's Charlie Tanfield.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58069532</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58069532</guid>
+            <pubDate>Tue, 03 Aug 2021 08:18:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Sailing gold, a kayak queen and a wondrous world record in day eleven early best bits]]></title>
             <description><![CDATA[Watch the best moments from day eleven at the Tokyo Olympics, including a thrilling sailing gold medal for GB, a history making kayak final and a "mind-blowing" new world record.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58068588</link>
@@ -321,7 +328,7 @@
             <description><![CDATA[Great Britain win two golds and a silver on a thrilling day in sailing at the Tokyo 2020 Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58067716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067716</guid>
-            <pubDate>Tue, 03 Aug 2021 07:57:41 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 08:29:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Karsten Warholm sets stunning 400m hurdles world record]]></title>
@@ -700,13 +707,6 @@
             <link>https://www.bbc.co.uk/news/explainers-53917432</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53917432</guid>
             <pubDate>Wed, 14 Jul 2021 09:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus cure: What progress are we making on treatments?]]></title>
-            <description><![CDATA[Medical teams around the world are learning which medicines work best against Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/health-52354520</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52354520</guid>
-            <pubDate>Wed, 23 Jun 2021 14:28:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
