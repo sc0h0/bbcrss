@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 19:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 19:38:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,10 +31,10 @@
         </item>
         <item>
             <title><![CDATA[Warning of 'potential hijack' of ship under way off UAE coast]]></title>
-            <description><![CDATA[UK officials advise vessels in the Gulf of Oman to be cautious but have not given details.]]></description>
+            <description><![CDATA[Unconfirmed reports say that armed men boarded a Panama-flagged tanker in the Gulf of Oman.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58078506</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58078506</guid>
-            <pubDate>Tue, 03 Aug 2021 18:27:42 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 19:27:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine]]></title>
@@ -177,6 +177,13 @@
             <pubDate>Mon, 02 Aug 2021 10:31:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo 2020: Round-up of the action from Day 11]]></title>
+            <description><![CDATA[Elaine Thompson-Herah makes sprint history and hurdler Karsten Warholm smashes a world record on the day Simone Biles wins bronze on an emotional return to Olympic competition.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58076523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58076523</guid>
+            <pubDate>Tue, 03 Aug 2021 14:52:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Simone Biles wins Tokyo Olympics beam bronze on emotional return]]></title>
             <description><![CDATA[Simone Biles wins bronze in the beam final in an emotional return to Olympic gymnastics competition.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58069211</link>
@@ -210,13 +217,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58067716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067716</guid>
             <pubDate>Tue, 03 Aug 2021 13:35:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All you need to know about new climbing event]]></title>
-            <description><![CDATA[Climbing is the last of the new Olympic sports to make its appearance at Tokyo 2020. Here's a guide to the things you need to know.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57998157</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57998157</guid>
-            <pubDate>Mon, 02 Aug 2021 16:51:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
