@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 05:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 06:31:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Mon, 02 Aug 2021 19:26:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[West Midlands Police officer convicted of assaults]]></title>
-            <description><![CDATA[The police watchdog says there is no evidence to support complaints the attacks were racially driven.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58058831</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58058831</guid>
-            <pubDate>Mon, 02 Aug 2021 16:15:31 GMT</pubDate>
+            <title><![CDATA[Assisted dying: Campaigners renewed hope for change in the law]]></title>
+            <description><![CDATA[David Peace intends to travel abroad to end his life before his motor neurone disease deteriorates further.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58014609</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58014609</guid>
+            <pubDate>Mon, 02 Aug 2021 23:04:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Streatham terror attack: Concern over 'extremist' knifeman before release]]></title>
-            <description><![CDATA[Sudesh Amman stabbed two people before being shot by police on a south London street last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58057162</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58057162</guid>
-            <pubDate>Mon, 02 Aug 2021 16:58:33 GMT</pubDate>
+            <title><![CDATA[NHS Covid-19 app in England and Wales tweaked to notify fewer contacts]]></title>
+            <description><![CDATA[The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58062180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58062180</guid>
+            <pubDate>Mon, 02 Aug 2021 22:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tonnes of chalk fall in Beachy Head collapse]]></title>
@@ -42,6 +42,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-sussex-58058994</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58058994</guid>
             <pubDate>Mon, 02 Aug 2021 20:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spennylympics: Couple taking on every Olympic sport in 17 days]]></title>
+            <description><![CDATA[They're attempting to complete all 96 individual events for charity within the timespan of Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58063298</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58063298</guid>
+            <pubDate>Mon, 02 Aug 2021 23:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Midlands Police officer convicted of assaults]]></title>
+            <description><![CDATA[The police watchdog says there is no evidence to support complaints the attacks were racially driven.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58058831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58058831</guid>
+            <pubDate>Mon, 02 Aug 2021 16:15:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stonehenge: Brian May finds oldest family photo]]></title>
@@ -58,20 +72,6 @@
             <pubDate>Mon, 02 Aug 2021 16:01:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS Covid-19 app in England and Wales tweaked to notify fewer contacts]]></title>
-            <description><![CDATA[The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58062180</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58062180</guid>
-            <pubDate>Mon, 02 Aug 2021 22:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Isles of Scilly walrus spotted off Republic of Ireland]]></title>
-            <description><![CDATA[Wally has been on the islands since June and has travelled thousands of miles around Europe.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58065003</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58065003</guid>
-            <pubDate>Mon, 02 Aug 2021 20:33:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brands Hatch: Robert Foote named as marshal killed in crash]]></title>
             <description><![CDATA[Former mayor Robert Foote has been named locally as the man who died in a crash at the race circuit.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-58059534</link>
@@ -86,32 +86,18 @@
             <pubDate>Mon, 02 Aug 2021 15:24:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Men in 2014 Lowestoft boat accident died after vessel capsized]]></title>
-            <description><![CDATA[Andrew Porter and Malcolm Sayer have never been found after their boat capsized in 2014.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58056384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58056384</guid>
-            <pubDate>Mon, 02 Aug 2021 15:02:01 GMT</pubDate>
+            <title><![CDATA[Streatham terror attack: Concern over 'extremist' knifeman before release]]></title>
+            <description><![CDATA[Sudesh Amman stabbed two people before being shot by police on a south London street last year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58057162</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58057162</guid>
+            <pubDate>Mon, 02 Aug 2021 16:58:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[London Underground: Union calls off two 24-hour strikes]]></title>
-            <description><![CDATA[A further two days of strike action remain planned for the end of August, the RMT union says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58054435</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58054435</guid>
-            <pubDate>Mon, 02 Aug 2021 16:48:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tax fraudster ordered to repay £5.5m within three months]]></title>
-            <description><![CDATA[Stanley Miller had multiple bank accounts and a property portfolio after evading tax, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58055929</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-58055929</guid>
-            <pubDate>Mon, 02 Aug 2021 10:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Man builds squirrel course in Hitchin garden]]></title>
-            <description><![CDATA[Steve Barley spent almost three months building the course, designed around events in a heptathlon.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58004533</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58004533</guid>
-            <pubDate>Sun, 01 Aug 2021 23:01:50 GMT</pubDate>
+            <title><![CDATA[Isles of Scilly walrus spotted off Republic of Ireland]]></title>
+            <description><![CDATA[Wally has been on the islands since June and has travelled thousands of miles around Europe.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58065003</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58065003</guid>
+            <pubDate>Mon, 02 Aug 2021 20:33:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why bonding over the Euros appeared to increase Covid cases in men]]></title>
@@ -149,13 +135,6 @@
             <pubDate>Tue, 13 Jul 2021 15:02:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Assisted dying: Campaigners renewed hope for change in the law]]></title>
-            <description><![CDATA[David Peace intends to travel abroad to end his life before his motor neurone disease deteriorates further.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58014609</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58014609</guid>
-            <pubDate>Mon, 02 Aug 2021 23:04:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[West Midlands canal rubbish is 'worst ever']]></title>
             <description><![CDATA[The Canal & River Trust says the waste dumped in West Midlands waterways is the worst it's ever seen.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58058733</link>
@@ -168,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58033770</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58033770</guid>
             <pubDate>Mon, 02 Aug 2021 10:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Man builds squirrel course in Hitchin garden]]></title>
+            <description><![CDATA[Steve Barley spent almost three months building the course, designed around events in a heptathlon.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58004533</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58004533</guid>
+            <pubDate>Sun, 01 Aug 2021 23:01:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Video: Eggborough Power Station cooling towers demolished]]></title>
