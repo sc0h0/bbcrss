@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 07:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 07:48:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Afghanistan: Street fighting rages as Taliban attack key city]]></title>
+            <title><![CDATA[Afghanistan: General says Taliban gains threaten global security]]></title>
             <description><![CDATA[The militants are battling to take control of a provincial capital for the first time in years.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58051481</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58051481</guid>
-            <pubDate>Tue, 03 Aug 2021 01:00:36 GMT</pubDate>
+            <link>https://www.bbc.co.uk/news/world-asia-58068299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58068299</guid>
+            <pubDate>Tue, 03 Aug 2021 07:32:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: British sailors win gold, Karsten Warholm creates history, Simone Biles returns]]></title>
@@ -37,13 +37,6 @@
             <pubDate>Tue, 03 Aug 2021 07:06:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Amber watchlist idea dropped and tears at airport reunions]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58065534</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58065534</guid>
-            <pubDate>Tue, 03 Aug 2021 06:58:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Assisted dying: Campaigners renewed hope for change in the law]]></title>
             <description><![CDATA[David Peace intends to travel abroad to end his life before his motor neurone disease deteriorates further.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58014609</link>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-58064470</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58064470</guid>
             <pubDate>Tue, 03 Aug 2021 07:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Amber watchlist idea dropped and tears at airport reunions]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58065534</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58065534</guid>
+            <pubDate>Tue, 03 Aug 2021 06:58:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wuhan: Chinese city to test entire population after virus resurfaces]]></title>
@@ -84,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-58066465</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58066465</guid>
             <pubDate>Tue, 03 Aug 2021 04:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Olympics launches inquiry into Belarus case]]></title>
-            <description><![CDATA[Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58065318</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58065318</guid>
-            <pubDate>Tue, 03 Aug 2021 04:27:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Qantas stands down 2,500 staff over Sydney lockdown]]></title>
@@ -296,6 +289,13 @@
             <pubDate>Tue, 03 Aug 2021 07:07:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Premier League: The most exciting Premier League transfers ever]]></title>
+            <description><![CDATA[We've compiled a list of players who caused a real stir when they moved to a Premier League club, whether their spell was successful or not.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58011839</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58011839</guid>
+            <pubDate>Tue, 03 Aug 2021 05:54:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Britain's Raducanu beaten in first match since Wimbledon]]></title>
             <description><![CDATA[Britain's Emma Raducanu is beaten in straight sets by world number 51 Zhang Shuai in her first match since her run to the last 16 at Wimbledon.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58068167</link>
@@ -303,14 +303,7 @@
             <pubDate>Tue, 03 Aug 2021 06:55:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[All you need to know about the new Olympic event of sport climbing]]></title>
-            <description><![CDATA[Climbing is the last of the new Olympic sports to make its appearance at Tokyo 2020. Here's a guide to the things you need to know.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57998157</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57998157</guid>
-            <pubDate>Mon, 02 Aug 2021 16:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Sailing gold, a kayak queen and a wonderous world record in day eleven early best bits]]></title>
+            <title><![CDATA[Tokyo Olympics: Sailing gold, a kayak queen and a wondrous world record in day eleven early best bits]]></title>
             <description><![CDATA[Watch the best moments from day eleven at the Tokyo Olympics, including a thrilling sailing gold medal for GB, a history making kayak final and a "mind-blowing" new world record.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58068588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58068588</guid>

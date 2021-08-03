@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 07:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 07:44:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,13 +184,6 @@
             <pubDate>Tue, 03 Aug 2021 04:33:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Simone Biles on start list for beam final]]></title>
-            <description><![CDATA[Simone Biles will compete in the beam final as she takes up her final chance of an individual medal at an Olympics where she has withdrawn from four other finals.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58054200</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58054200</guid>
-            <pubDate>Mon, 02 Aug 2021 09:02:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Sifan Hassan takes 5,000m gold in first leg of attempted treble]]></title>
             <description><![CDATA[Sifan Hassan takes 5,000m gold as she bids for an unprecedented Olympic treble on the track in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58060630</link>
@@ -205,18 +198,25 @@
             <pubDate>Mon, 02 Aug 2021 13:23:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: USA men's basketball team beat Spain to reach last four]]></title>
+            <description><![CDATA[Defending champions USA beat Spain for the fourth Olympics in a row to reach the men's basketball semi-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58067515</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067515</guid>
+            <pubDate>Tue, 03 Aug 2021 06:39:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Simone Biles on start list for beam final]]></title>
+            <description><![CDATA[Simone Biles will compete in the beam final as she takes up her final chance of an individual medal at an Olympics where she has withdrawn from four other finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58054200</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58054200</guid>
+            <pubDate>Mon, 02 Aug 2021 09:02:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Medal table - which country has won most golds?]]></title>
             <description><![CDATA[Which country is leading the medal table? How are Great Britain getting on? Medals table for the 2020 Olympics in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57836709</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57836709</guid>
             <pubDate>Sun, 01 Aug 2021 14:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Mijain Lopez wins fourth straight gold in Greco-Roman wrestling]]></title>
-            <description><![CDATA[Greco-Roman wrestler Mijain Lopez cements his position in the record books by winning his fourth straight Olympic gold medal.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58058894</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58058894</guid>
-            <pubDate>Mon, 02 Aug 2021 13:57:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
