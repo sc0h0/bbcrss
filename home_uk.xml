@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 04:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 04:59:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -38,7 +38,7 @@
         </item>
         <item>
             <title><![CDATA[Gangs on e-scooters targeting GPS farm equipment]]></title>
-            <description><![CDATA[Theft claims have dropped in the pandemic but technology remains a draw for thieves, says insurer.]]></description>
+            <description><![CDATA[Total theft claims fall after the pandemic but technology stays a draw for criminals, says insurer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58066465</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58066465</guid>
             <pubDate>Tue, 03 Aug 2021 04:15:06 GMT</pubDate>
@@ -94,7 +94,7 @@
         </item>
         <item>
             <title><![CDATA[The Papers: Holidays 'saved' and 'pinging the changes']]></title>
-            <description><![CDATA[Many of Tuesday's front pages focus on the decision to scrap a proposed amber travel watch-list.]]></description>
+            <description><![CDATA[Many of Tuesday's front pages focus on the decision to scrap a proposed amber travel watchlist.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58065083</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58065083</guid>
             <pubDate>Tue, 03 Aug 2021 04:44:34 GMT</pubDate>
@@ -268,18 +268,18 @@
             <pubDate>Tue, 03 Aug 2021 04:25:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[VAR 'won't penalise trivial things' in Premier League]]></title>
-            <description><![CDATA[The use of video assistant referees will be 'dialled back' in the Premier League, with officials told not to penalise "trivial things".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58064333</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58064333</guid>
-            <pubDate>Mon, 02 Aug 2021 21:35:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Who is key and where will series be decided between England and India?]]></title>
             <description><![CDATA[Can England cope without Ben Stokes? Will India claim a first series win in England since 2007? And which member of the BBC team cannot decide?]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58023809</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58023809</guid>
             <pubDate>Tue, 03 Aug 2021 03:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VAR 'won't penalise trivial things' in Premier League]]></title>
+            <description><![CDATA[The use of video assistant referees will be 'dialled back' in the Premier League, with officials told not to penalise "trivial things".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58064333</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58064333</guid>
+            <pubDate>Mon, 02 Aug 2021 21:35:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Great Britain sprinter Adam Gemili gives emotional interview after hamstring injury]]></title>
