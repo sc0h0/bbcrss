@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 10:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 11:16:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Abergele: Man in court charged with sister's murder]]></title>
-            <description><![CDATA[Matthew Selby, 19, appeared at Llandudno magistrates court on Wednesday morning charged with the murder at a holiday park.]]></description>
+            <description><![CDATA[Matthew Selby, 19, was at Llandudno magistrates court charged with the murder at a holiday park.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58068097</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58068097</guid>
-            <pubDate>Tue, 03 Aug 2021 10:53:32 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 11:07:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The seaside town fighting violence and frustration]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Thu, 29 Jul 2021 16:57:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[British and Irish Lions: Warren Gatland makes sweeping changes for third Test]]></title>
+            <description><![CDATA[British and Irish Lions head coach Warren Gatland makes sweeping changes to his matchday squad for Saturday's decisive third Test against South Africa.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58072518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58072518</guid>
+            <pubDate>Tue, 03 Aug 2021 11:04:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Confident Jake Heyward into 1500m semis 'under the radar']]></title>
             <description><![CDATA[Welsh 1500m runner Jake Heyward wins his heat on his Olympic debut in Tokyo and says he is confident going into the semi-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58068287</link>
@@ -170,25 +177,11 @@
             <pubDate>Tue, 03 Aug 2021 09:14:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred: Bowlers lead Welsh Fire to win over Oval Invincibles]]></title>
-            <description><![CDATA[Welsh Fire strangle Oval Invincibles with a brilliant bowling performance at The Oval, to earn back-to-back victories in the women's Hundred.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58061116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58061116</guid>
-            <pubDate>Mon, 02 Aug 2021 17:06:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dyn o flaen llys ar gyhuddiad o lofruddio'i chwaer]]></title>
             <description><![CDATA[Matthew Selby, 19, wedi'i gyhuddo o ladd ei chwaer Amanda, 15, mewn parc carafanau ger Abergele.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58071638</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58071638</guid>
             <pubDate>Tue, 03 Aug 2021 10:21:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Y Rhyl yn un o'r trefi mwyaf treisgar a difreintiedig']]></title>
-            <description><![CDATA[Ymdrechion yn Y Rhyl i adfer parch a disgyblaeth yn sgil ymchwil sy'n dweud ei bod yn dref dreisgar a difreintiedig.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58059819</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58059819</guid>
-            <pubDate>Tue, 03 Aug 2021 05:13:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dynes â llosgiadau difrifol yn graddio i helpu eraill]]></title>
@@ -198,6 +191,13 @@
             <pubDate>Tue, 03 Aug 2021 05:15:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Medal arian Olympaidd i Elinor Barker]]></title>
+            <description><![CDATA[Y Gymraes yn cipio medal arian fel aelod o dîm seiclo ymlid Prydain yn Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58070478</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58070478</guid>
+            <pubDate>Tue, 03 Aug 2021 08:51:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Y recordiau prin (a gwerthfawr!) Cymraeg]]></title>
             <description><![CDATA[Y casglwr recordiau Rhys Lloyd Jones sy'n sôn am yr albymau hen a newydd sydd werth eu cadw.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58016283</link>
@@ -205,11 +205,11 @@
             <pubDate>Tue, 03 Aug 2021 08:15:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Medal arian Olympaidd i Elinor Barker]]></title>
-            <description><![CDATA[Y Gymraes yn cipio medal arian fel aelod o dîm seiclo ymlid Prydain yn Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58070478</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58070478</guid>
-            <pubDate>Tue, 03 Aug 2021 08:51:41 GMT</pubDate>
+            <title><![CDATA[Abertawe yn penodi Russell Martin yn brif hyfforddwr]]></title>
+            <description><![CDATA[Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58034032</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58034032</guid>
+            <pubDate>Sun, 01 Aug 2021 17:36:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
