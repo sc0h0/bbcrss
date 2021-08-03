@@ -1,4 +1,4 @@
-1. [Afghanistan: General says Taliban gains threaten global security](https://www.bbc.co.uk/news/world-asia-58068299) - An Afghan general warns of devastating consequences if the Taliban win their fight against government forces.
+1. [Afghanistan general says Taliban gains threaten global security](https://www.bbc.co.uk/news/world-asia-58068299) - An Afghan general warns of devastating consequences if the Taliban win their fight against government forces.
 2. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people flee from Belarus following a crackdown.
 3. [Wuhan: Chinese city to test entire population after virus resurfaces](https://www.bbc.co.uk/news/world-asia-china-58066744) - The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.
 4. [Tokyo 2020: A parent's plea in the shadow of the Olympics](https://www.bbc.co.uk/news/world-asia-58057432) - This dad is drawing attention to what he calls the kidnapping of children by their own parents in Japan.

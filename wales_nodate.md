@@ -25,4 +25,4 @@
 25. [Dynes â llosgiadau difrifol yn graddio i helpu eraill](https://www.bbc.co.uk/newyddion/58061370) - Fe wnaeth Catrin Pugh ddioddef llosgiadau ar 96% o'i chorff mewn damwain bws yn yr Alpau yn 2013.
 26. [Adfywiad Cei Llechi Caernarfon yn 'dipyn o sioe'](https://www.bbc.co.uk/newyddion/58026948) - Mae prosiect adfywio'r safle hanesyddol wedi ei gwblhau gan ddynodi pennod newydd i'r dref.
 27. [Y recordiau prin (a gwerthfawr!) Cymraeg](https://www.bbc.co.uk/newyddion/58016283) - Y casglwr recordiau Rhys Lloyd Jones sy'n sôn am yr albymau hen a newydd sydd werth eu cadw.
-28. [Abertawe yn penodi Russell Martin yn brif hyfforddwr](https://www.bbc.co.uk/newyddion/58034032) - Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.
+28. [Medal arian Olympaidd i Elinor Barker](https://www.bbc.co.uk/newyddion/58070478) - Y Gymraes yn cipio medal arian fel aelod o dîm seiclo ymlid Prydain yn Tokyo.
