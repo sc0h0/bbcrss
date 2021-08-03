@@ -1,7 +1,7 @@
 1. [Return to the office would help young workers, says Rishi Sunak](https://www.bbc.co.uk/news/business-58068998) - The chancellor says being in the office helped him build strong relationships when he started out.
 2. [Greggs to create 500 jobs as it plans 100 more stores](https://www.bbc.co.uk/news/business-58068988) - The bakery chain swings back to profit and says it plans to keep expanding on the High Street.
 3. [Bank fraud: ‘I had £9,000 stolen from my account’](https://www.bbc.co.uk/news/business-58061993) - Scam victims are having difficulties getting bank support after losing cash, consumer group Which? says.
-4. [Covid-19: Amber watchlist travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - A government source says they have dropped proposals for a new category in the traffic light system.
+4. [Covid-19: Amber watchlist travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - Government sources say they have dropped proposals for a new category in the traffic light system.
 5. [Shares slide after China brands online games 'electronic drugs'](https://www.bbc.co.uk/news/business-58066659) - In recent months Beijing has cracked down on China's technology and private education industries.
 6. [Qantas stands down 2,500 staff over Sydney lockdown](https://www.bbc.co.uk/news/world-australia-58066390) - The airline says it expects Australia's largest city to be closed for at least two more months.
 7. [Finance firms plan to close coal plants in Asia](https://www.bbc.co.uk/news/business-58066660) - The Asian Development Bank aims to have the plan ready for the COP26 climate conference in November.
@@ -13,13 +13,11 @@
 13. [Banking giant HSBC sees first half profit more than double](https://www.bbc.co.uk/news/business-58051818) - The UK-based firm said the jump in profits was driven by an economic rebound in Britain and Hong Kong.
 14. [Afterpay: Jack Dorsey's Square in Australia's biggest buyout](https://www.bbc.co.uk/news/business-58051815) - The $29bn deal for Afterpay will create an instalments payment giant in a hugely growing sector.
 15. [Hollywood plans £700m film and TV studios in Hertfordshire](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58029042) - Developers say the site could contribute £300m a year to the local economy and create 4,500 jobs.
-16. [Zoom settles US class action privacy lawsuit for $86m](https://www.bbc.co.uk/news/business-58050391) - The video conferencing firm denies wrongdoing, but has agreed to boost security measures.
-17. [Pay rise for Aldi lorry drivers amid shortage](https://www.bbc.co.uk/news/business-58047483) - The supermarket is the latest to offer incentives for drivers after disruption to supply chains.
-18. [Corporate fraud: The dark side of business](https://www.bbc.co.uk/news/business-58026162) - Twenty years on from the collapse of Enron, are the rules preventing corporate fraud tough enough?
-19. [Finding answers to the world's drinking water crisis](https://www.bbc.co.uk/news/business-57847654) - Scientists are racing to come up with technologies that can solve the world's clean water shortage.
-20. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
-21. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
-22. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
-23. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
-24. [CEO Secrets: The son who hired his father and sister](https://www.bbc.co.uk/news/business-57968798) - Ross Testa explains why he hired his sister and then his father for his social media business.
-25. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
+16. [Corporate fraud: The dark side of business](https://www.bbc.co.uk/news/business-58026162) - Twenty years on from the collapse of Enron, are the rules preventing corporate fraud tough enough?
+17. [Finding answers to the world's drinking water crisis](https://www.bbc.co.uk/news/business-57847654) - Scientists are racing to come up with technologies that can solve the world's clean water shortage.
+18. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
+19. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
+20. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
+21. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
+22. [CEO Secrets: The son who hired his father and sister](https://www.bbc.co.uk/news/business-57968798) - Ross Testa explains why he hired his sister and then his father for his social media business.
+23. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.

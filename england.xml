@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 09:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 09:20:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Mon, 02 Aug 2021 23:08:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[West Midlands Police officer convicted of assaults]]></title>
-            <description><![CDATA[The police watchdog says there is no evidence to support complaints the attacks were racially driven.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58058831</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58058831</guid>
-            <pubDate>Mon, 02 Aug 2021 16:15:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stonehenge: Brian May finds oldest family photo]]></title>
             <description><![CDATA[The image dating back to the 1860s was found in the collection of Queen guitarist Brian May.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-wiltshire-58058188</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-58058188</guid>
             <pubDate>Tue, 03 Aug 2021 05:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Midlands Police officer convicted of assaults]]></title>
+            <description><![CDATA[The police watchdog says there is no evidence to support complaints the attacks were racially driven.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58058831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58058831</guid>
+            <pubDate>Mon, 02 Aug 2021 16:15:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Warmley baby death: Father guilty of murder and mother cleared]]></title>
@@ -77,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-kent-58059534</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58059534</guid>
             <pubDate>Mon, 02 Aug 2021 16:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cotheridge murder-accused 'staged love rival's suicide']]></title>
-            <description><![CDATA[Neil Parkinson was found dead in a burning car in Cotheridge, Worcestershire, in December.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58060348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hereford-worcester-58060348</guid>
-            <pubDate>Mon, 02 Aug 2021 15:24:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tewkesbury PE teacher struck off for faked pupil sports course certificates]]></title>
@@ -174,7 +167,7 @@
             <description><![CDATA[Jason Kenny wins a record-equalling eighth Olympic medal with team sprint silver 19 minutes after wife Laura takes team pursuit silver in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58069120</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58069120</guid>
-            <pubDate>Tue, 03 Aug 2021 09:00:21 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 09:09:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB's Giles Scott wins Finn class, gold in men's 49er & silver in mixed Nacra 17]]></title>
@@ -191,11 +184,11 @@
             <pubDate>Tue, 03 Aug 2021 07:49:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Adam Gemili's 200m medal hopes dashed by injury]]></title>
-            <description><![CDATA[British sprinter Adam Gemili's hopes of a medal in the men's 200m are dashed as he pulls up with an injury in the heats.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58066599</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58066599</guid>
-            <pubDate>Tue, 03 Aug 2021 04:43:17 GMT</pubDate>
+            <title><![CDATA[Romelu Lukaku: Inter reject Chelsea's £85m bid for Belgium striker]]></title>
+            <description><![CDATA[Inter Milan reject Chelsea's £85m bid for striker Romelu Lukaku.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58068429</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58068429</guid>
+            <pubDate>Tue, 03 Aug 2021 09:14:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
