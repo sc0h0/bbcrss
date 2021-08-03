@@ -4,7 +4,7 @@
 4. [Wuhan: Chinese city to test entire population after virus resurfaces](https://www.bbc.co.uk/news/world-asia-china-58066744) - The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.
 5. [Matt Damon says he has never personally used gay slur](https://www.bbc.co.uk/news/entertainment-arts-58069170) - The Hollywood star had been criticised for saying he had only recently "retired" the insult.
 6. [Tokyo Olympics: NZ weightlifter Laurel Hubbard set to 'hang up her boots'](https://www.bbc.co.uk/news/world-58072911) - The transgender weightlifter made Olympic history but says her time in the sport is probably up.
-7. [Sheikh Jarrah: Palestinians reject offer to end evictions threat](https://www.bbc.co.uk/news/world-middle-east-58024060) - A plan to end a long-running saga which has fuelled Israel-Palestinian tensions is turned down.
+7. [Sheikh Jarrah: Palestinians and Israelis baulk at evictions compromise](https://www.bbc.co.uk/news/world-middle-east-58024060) - A plan to end a long-running saga which has fuelled Israel-Palestinian tensions faces rejection.
 8. [Belarus sprinter Krystina Timanovskaya says protest is not political](https://www.bbc.co.uk/news/world-europe-58065318) - Olympian Krystina Timanovskaya tells the BBC she would like to return home "when I know it's safe".
 9. [Qantas stands down 2,500 staff over Sydney lockdown](https://www.bbc.co.uk/news/world-australia-58066390) - The airline says it expects Australia's largest city to be closed for at least two more months.
 10. [Official recommends rerun in Amazon union fight](https://www.bbc.co.uk/news/technology-58065874) - A National Labor Relations Board official wants another union vote for Amazon workers in Alabama.
