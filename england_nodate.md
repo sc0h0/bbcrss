@@ -8,7 +8,7 @@
 8. [Soldier seriously injured at Warcop training camp in Cumbria](https://www.bbc.co.uk/news/uk-england-cumbria-58079731) - The Ministry of Defence says an investigation has begun to establish what happened.
 9. [Ex vicar Paul Battersby jailed again for child sex abuse images](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58072514) - It is the fourth time the former vicar has been jailed for offences involving child sex abuse.
 10. [Streatham terror attack: Sudesh Amman 'wanted to kill the Queen'](https://www.bbc.co.uk/news/uk-england-london-58070758) - Sudesh Amman stabbed two people in south London only days after being released from prison.
-11. [Leopold Bennet-Budkinov: Missing boy is found safe](https://www.bbc.co.uk/news/uk-england-london-58058034) - Leopold Bennet-Budkinov had not been seen since Sunday afternoon.
+11. [Missing Ringwood golden eagle found after six days](https://www.bbc.co.uk/news/uk-england-hampshire-58079321) - Gerry the golden eagle flew away during a public demonstration at a wildlife centre in Hampshire.
 12. [Drug dealers jailed after getting car stuck in trolley bay](https://www.bbc.co.uk/news/uk-england-oxfordshire-58077099) - Police found the men with crack cocaine and heroin after they crashed at a Morrison's supermarket.
 13. [Why bonding over the Euros appeared to increase Covid cases in men](https://www.bbc.co.uk/news/health-58015593) - Psychologists say men need to be part of a group in order to vent their feelings and emotions.
 14. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
