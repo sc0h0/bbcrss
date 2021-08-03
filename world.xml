@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 04:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 04:35:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Belarus Olympian safe in Polish embassy, Japan says]]></title>
-            <description><![CDATA[Sprinter Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.]]></description>
+            <title><![CDATA[IOC launches investigation into Belarus sprinter case]]></title>
+            <description><![CDATA[Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58065318</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58065318</guid>
-            <pubDate>Tue, 03 Aug 2021 04:00:17 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 04:27:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Street fighting rages as Taliban attack key city]]></title>
@@ -37,7 +37,7 @@
             <pubDate>Mon, 02 Aug 2021 23:12:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Qantas stand downs 2,500 staff over Sydney lockdown]]></title>
+            <title><![CDATA[Qantas stands down 2,500 staff over Sydney lockdown]]></title>
             <description><![CDATA[The airline says it expects Australia's largest city to be closed for at least two more months.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58066390</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58066390</guid>
@@ -177,6 +177,13 @@
             <pubDate>Sat, 31 Jul 2021 23:01:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Karsten Warholm sets stunning 400m hurdles world record]]></title>
+            <description><![CDATA[Norwegian Karsten Warholm runs a stunning men's 400m hurdles race to obliterate his previous world record and take gold at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58067231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067231</guid>
+            <pubDate>Tue, 03 Aug 2021 04:33:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Simone Biles on start list for beam final]]></title>
             <description><![CDATA[Simone Biles will compete in the beam final as she takes up her final chance of an individual medal at an Olympics where she has withdrawn from four other finals.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58054200</link>
@@ -198,13 +205,6 @@
             <pubDate>Mon, 02 Aug 2021 13:23:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Mijain Lopez wins fourth straight gold in Greco-Roman wrestling]]></title>
-            <description><![CDATA[Greco-Roman wrestler Mijain Lopez cements his position in the record books by winning his fourth straight Olympic gold medal.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58058894</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58058894</guid>
-            <pubDate>Mon, 02 Aug 2021 13:57:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Medal table - which country has won most golds?]]></title>
             <description><![CDATA[Which country is leading the medal table? How are Great Britain getting on? Medals table for the 2020 Olympics in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57836709</link>
@@ -212,11 +212,11 @@
             <pubDate>Sun, 01 Aug 2021 14:10:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Transgender athlete Hubbard out of Olympics]]></title>
-            <description><![CDATA[Transgender athlete Laurel Hubbard makes Olympic history but fails to record a successful lift in the women's +87kg weightlifting.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58054891</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58054891</guid>
-            <pubDate>Mon, 02 Aug 2021 22:19:00 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Mijain Lopez wins fourth straight gold in Greco-Roman wrestling]]></title>
+            <description><![CDATA[Greco-Roman wrestler Mijain Lopez cements his position in the record books by winning his fourth straight Olympic gold medal.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58058894</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58058894</guid>
+            <pubDate>Mon, 02 Aug 2021 13:57:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

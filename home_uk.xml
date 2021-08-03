@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 04:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 04:47:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,13 +23,6 @@
             <pubDate>Tue, 03 Aug 2021 01:00:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Amber watch-list travel idea scrapped]]></title>
-            <description><![CDATA[A government source says they have dropped proposals for a new category in the traffic light system.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58064470</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58064470</guid>
-            <pubDate>Tue, 03 Aug 2021 00:55:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sturgeon to set out plans for lifting restrictions]]></title>
             <description><![CDATA[Nicola Sturgeon is to confirm whether Scotland will move beyond level zero on 9 August as planned.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58057371</link>
@@ -37,18 +30,11 @@
             <pubDate>Mon, 02 Aug 2021 21:58:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Belarus Olympian safe in Polish embassy, Japan says]]></title>
-            <description><![CDATA[Sprinter Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.]]></description>
+            <title><![CDATA[Olympics launches inquiry into Belarus case]]></title>
+            <description><![CDATA[Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58065318</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58065318</guid>
-            <pubDate>Tue, 03 Aug 2021 04:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kidney transplants cancelled amid NI staff shortage]]></title>
-            <description><![CDATA[Healthy kidneys from deceased donors were turned down due to a lack of nurses to support surgeons.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58065081</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58065081</guid>
-            <pubDate>Mon, 02 Aug 2021 22:05:02 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 04:27:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gangs on e-scooters targeting GPS farm equipment]]></title>
@@ -56,6 +42,20 @@
             <link>https://www.bbc.co.uk/news/uk-58066465</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58066465</guid>
             <pubDate>Tue, 03 Aug 2021 04:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Amber watch-list travel idea scrapped]]></title>
+            <description><![CDATA[A government source says they have dropped proposals for a new category in the traffic light system.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58064470</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58064470</guid>
+            <pubDate>Tue, 03 Aug 2021 00:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kidney transplants cancelled amid NI staff shortage]]></title>
+            <description><![CDATA[Healthy kidneys from deceased donors were turned down due to a lack of nurses to support surgeons.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58065081</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58065081</guid>
+            <pubDate>Mon, 02 Aug 2021 22:05:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bank fraud: ‘I had £9,000 stolen from my account’]]></title>
@@ -72,7 +72,7 @@
             <pubDate>Mon, 02 Aug 2021 22:03:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Qantas stand downs 2,500 staff over Sydney lockdown]]></title>
+            <title><![CDATA[Qantas stands down 2,500 staff over Sydney lockdown]]></title>
             <description><![CDATA[The airline says it expects Australia's largest city to be closed for at least two more months.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58066390</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58066390</guid>
@@ -97,7 +97,7 @@
             <description><![CDATA[Many of Tuesday's front pages focus on the decision to scrap a proposed amber travel watch-list.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58065083</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58065083</guid>
-            <pubDate>Mon, 02 Aug 2021 22:57:20 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 04:44:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Assisted dying: Campaigners renewed hope for change in the law]]></title>
@@ -261,18 +261,11 @@
             <pubDate>Mon, 02 Aug 2021 19:17:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kane absent from Spurs' training ground amid transfer speculation]]></title>
-            <description><![CDATA[Harry Kane, a transfer target for Manchester City, fails to return to the Tottenham training ground as expected on Monday morning amid speculation over his future.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58053653</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58053653</guid>
-            <pubDate>Mon, 02 Aug 2021 15:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: Great Britain sprinter Adam Gemili gives emotional interview after hamstring injury]]></title>
-            <description><![CDATA[Great Britain sprinter Adam Gemili explains how he felt his hamstring pull moments before his Olympic 200m heat in Tokyo, but still attempted to race.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58067421</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58067421</guid>
-            <pubDate>Tue, 03 Aug 2021 04:16:18 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Karsten Warholm sets new world record in 400m hurdles]]></title>
+            <description><![CDATA[Norway's Karsten Warholm sets a "mind-blowing" new world record of 45.94 seconds to win gold in 400m hurdles at the Olympic Stadium in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58065722</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58065722</guid>
+            <pubDate>Tue, 03 Aug 2021 04:25:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[VAR 'won't penalise trivial things' in Premier League]]></title>
@@ -289,6 +282,13 @@
             <pubDate>Tue, 03 Aug 2021 03:26:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo 2020: Great Britain sprinter Adam Gemili gives emotional interview after hamstring injury]]></title>
+            <description><![CDATA[Great Britain sprinter Adam Gemili explains how he felt his hamstring pull moments before his Olympic 200m heat in Tokyo, but still attempted to race.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58067421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58067421</guid>
+            <pubDate>Tue, 03 Aug 2021 04:16:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Hundred - Oval Invincibles v Welsh Fire: Juggling catches & whipped sixes - best of Monday's action]]></title>
             <description><![CDATA[Watch the best moments from Monday's action in the men's and women's Hundred as Oval Invincibles took on Welsh Fire at the Oval.]]></description>
             <link>https://www.bbc.co.uk/sport/av/cricket/58064562</link>
@@ -296,18 +296,25 @@
             <pubDate>Mon, 02 Aug 2021 21:10:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[All you need to know about the new Olympic event of sport climbing]]></title>
-            <description><![CDATA[Climbing is the last of the new Olympic sports to make its appearance at Tokyo 2020. Here's a guide to the things you need to know.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57998157</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57998157</guid>
-            <pubDate>Mon, 02 Aug 2021 16:51:25 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: GB skateboarder Sky Brown is ready to take on the world]]></title>
+            <description><![CDATA[Skateboarder Sky Brown is set to become Britain's youngest ever summer Olympian when she competes in the Ariake Urban Sports Park at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58066371</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58066371</guid>
+            <pubDate>Tue, 03 Aug 2021 01:14:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Karsten Warholm sets stunning 400m hurdles world record]]></title>
+            <description><![CDATA[Norwegian Karsten Warholm runs a stunning men's 400m hurdles race to obliterate his previous world record and take gold at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58067231</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067231</guid>
+            <pubDate>Tue, 03 Aug 2021 04:33:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Adam Gemili's 200m medal hopes dashed by injury]]></title>
             <description><![CDATA[British sprinter Adam Gemili's hopes of a medal in the men's 200m are dashed as he pulls up with an injury in the heats.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58066599</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58066599</guid>
-            <pubDate>Tue, 03 Aug 2021 03:39:48 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 04:43:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB's Jodie Williams and Ama Pipi through to semi-finals of women's 400m heats]]></title>

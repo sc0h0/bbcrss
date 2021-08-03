@@ -1,5 +1,5 @@
 1. [Covid-19: Amber watch-list travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - A government source says they have dropped proposals for a new category in the traffic light system.
-2. [Qantas stand downs 2,500 staff over Sydney lockdown](https://www.bbc.co.uk/news/world-australia-58066390) - The airline says it expects Australia's largest city to be closed for at least two more months.
+2. [Qantas stands down 2,500 staff over Sydney lockdown](https://www.bbc.co.uk/news/world-australia-58066390) - The airline says it expects Australia's largest city to be closed for at least two more months.
 3. [Bank fraud: ‘I had £9,000 stolen from my account’](https://www.bbc.co.uk/news/business-58061993) - Scam victims are having difficulties getting bank support after losing cash, consumer group Which? says.
 4. [Twitter works with news sites to tackle disinformation](https://www.bbc.co.uk/news/business-58065463) - Twitter announces it will cooperate with two news agencies to promote more reliable information.
 5. [Goldman Sachs raises banker pay after 95-hour week complaint](https://www.bbc.co.uk/news/business-58054983) - The pay rise comes as top city banker says young recruits should stop moaning about long hours.
