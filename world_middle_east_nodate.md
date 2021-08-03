@@ -1,4 +1,4 @@
-1. [Warning of 'potential hijack' of ship under way off UAE coast](https://www.bbc.co.uk/news/world-middle-east-58078506) - UK officials advise vessels in the Gulf of Oman to be cautious but have not given details.
+1. [Warning of 'potential hijack' of ship under way off UAE coast](https://www.bbc.co.uk/news/world-middle-east-58078506) - Unconfirmed reports say that armed men boarded a Panama-flagged tanker in the Gulf of Oman.
 2. [UK and Iran summon diplomats after tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.
 3. [Sheikh Jarrah: Palestinians and Israelis baulk at evictions compromise](https://www.bbc.co.uk/news/world-middle-east-58024060) - A plan to end a long-running saga which has fuelled Israel-Palestinian tensions faces rejection.
 4. [Tanker attack: UK and US blame Iran for deadly ship attack](https://www.bbc.co.uk/news/world-middle-east-58048007) - The UK accuses Tehran of violating international law, while Iran calls the accusations "baseless".
