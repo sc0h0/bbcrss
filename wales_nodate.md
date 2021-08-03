@@ -25,4 +25,4 @@
 25. [Dynes â llosgiadau difrifol yn graddio i helpu eraill](https://www.bbc.co.uk/newyddion/58061370) - Fe wnaeth Catrin Pugh ddioddef llosgiadau ar 96% o'i chorff mewn damwain bws yn yr Alpau yn 2013.
 26. [Chwech o Gymru yn nhîm y Llewod i'r prawf olaf](https://www.bbc.co.uk/newyddion/58070479) - Llu o newidiadau i'r Llewod wrth baratoi am y prawf olaf tyngedfennol yn erbyn De Affrica.
 27. [Lluniau Cymro tu ôl i'r camera yn yr Olympau](https://www.bbc.co.uk/newyddion/58074325) - Mae Siôn Dafydd Palmer yn rhannu ei brofiad o ffilmio yn Gemau Olympaidd Tokyo yn ystod cyfnod Covid
-28. [Medal arian Olympaidd i Elinor Barker](https://www.bbc.co.uk/newyddion/58070478) - Y Gymraes yn cipio medal arian fel aelod o dîm seiclo ymlid Prydain yn Tokyo.
+28. [Buddugoliaeth o bum wiced i Forgannwg dros Surrey](https://www.bbc.co.uk/newyddion/58078353) - Tair wiced i Salter a dwy yr un i Carey a Cooke wrth i Surrey gael eu bowlio allan mewn 44 pelawd.
