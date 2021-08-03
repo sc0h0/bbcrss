@@ -2,8 +2,8 @@
 2. [Greggs to create 500 jobs as it plans 100 more stores](https://www.bbc.co.uk/news/business-58068988) - The bakery chain swings back to profit and says it plans to keep expanding on the High Street.
 3. [Bank fraud: ‘I had £9,000 stolen from my account’](https://www.bbc.co.uk/news/business-58061993) - Scam victims are having difficulties getting bank support after losing cash, consumer group Which? says.
 4. [Covid-19: Amber watchlist travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - Government sources say they have dropped proposals for a new category in the traffic light system.
-5. [Shares slide after China brands online games 'electronic drugs'](https://www.bbc.co.uk/news/business-58066659) - In recent months Beijing has cracked down on China's technology and private education industries.
-6. [Ministers reject calls to lower state pension age to 60](https://www.bbc.co.uk/news/uk-politics-58070099) - The government says lowering the state pension age is not fair or affordable for taxpayers.
+5. [Ministers reject calls to lower state pension age to 60](https://www.bbc.co.uk/news/uk-politics-58070099) - The government says lowering the state pension age is not fair or affordable for taxpayers.
+6. [Shares slide after China brands online games 'electronic drugs'](https://www.bbc.co.uk/news/business-58066659) - In recent months Beijing has cracked down on China's technology and private education industries.
 7. [Qantas stands down 2,500 staff over Sydney lockdown](https://www.bbc.co.uk/news/world-australia-58066390) - The airline says it expects Australia's largest city to be closed for at least two more months.
 8. [Finance firms plan to close coal plants in Asia](https://www.bbc.co.uk/news/business-58066660) - The Asian Development Bank aims to have the plan ready for the COP26 climate conference in November.
 9. [Twitter works with news sites to tackle disinformation](https://www.bbc.co.uk/news/business-58065463) - Twitter announces it will cooperate with two news agencies to promote more reliable information.
