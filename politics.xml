@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 07:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 07:23:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/uk-58064470</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58064470</guid>
             <pubDate>Tue, 03 Aug 2021 00:55:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS Covid-19 app in England and Wales tweaked to notify fewer contacts]]></title>
-            <description><![CDATA[The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58062180</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58062180</guid>
-            <pubDate>Mon, 02 Aug 2021 22:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Labour: Tories must come clean over elite donors]]></title>
@@ -58,6 +51,13 @@
             <pubDate>Mon, 02 Aug 2021 20:25:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Humza Yousaf reports nursery over discrimination fears]]></title>
+            <description><![CDATA[Health Secretary Humza Yousaf says his daughter was twice refused a place at the nursery, which denies any discrimination.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</guid>
+            <pubDate>Mon, 02 Aug 2021 16:00:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Carrie Johnson and Boris Johnson expecting second child]]></title>
             <description><![CDATA[The couple are expecting a second child, months after a miscarriage left Carrie "heartbroken".]]></description>
             <link>https://www.bbc.co.uk/news/uk-58042146</link>
@@ -65,11 +65,11 @@
             <pubDate>Sat, 31 Jul 2021 16:52:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Humza Yousaf reports nursery over discrimination fears]]></title>
-            <description><![CDATA[Health Secretary Humza Yousaf says his daughter was twice refused a place at the nursery, which denies any discrimination.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</guid>
-            <pubDate>Mon, 02 Aug 2021 16:00:51 GMT</pubDate>
+            <title><![CDATA[NHS Covid-19 app in England and Wales tweaked to notify fewer contacts]]></title>
+            <description><![CDATA[The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58062180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58062180</guid>
+            <pubDate>Mon, 02 Aug 2021 22:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pingdemic: ‘I'm losing hundreds of pounds in tips’]]></title>
