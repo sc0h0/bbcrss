@@ -1,5 +1,5 @@
 1. [Covid-19: Irish hospitality rules 'incentivising' vaccine uptake](https://www.bbc.co.uk/news/uk-northern-ireland-58069252) - The Republic of Ireland's vaccine rate has surpassed the rate in Northern Ireland.
-2. [Only one-in-three currently in line for £100 high street voucher](https://www.bbc.co.uk/news/uk-northern-ireland-58070740) - Fewer a third of people are signed up to the electoral register, which is tied to the scheme.
+2. [One in three currently in line for £100 high street voucher](https://www.bbc.co.uk/news/uk-northern-ireland-58070740) - Fewer than a third of people are signed up to the electoral register, which is tied to the scheme.
 3. [Coronavirus: Sir Van Morrison ends legal action over live music ban](https://www.bbc.co.uk/news/uk-northern-ireland-58072973) - The singer had challenged Covid-19 restrictions which prevented life music performances.
 4. [Emergency departments: Big increase in 12-hour waits at hospitals](https://www.bbc.co.uk/news/uk-northern-ireland-58072979) - About one in 20 people who went to an emergency department in 2020 had to wait longer than 12 hours.
 5. [Public sector contracts affected by rising building material costs](https://www.bbc.co.uk/news/uk-northern-ireland-58070738) - Companies could be allowed to increase the prices of previously agreed public sector contracts.
