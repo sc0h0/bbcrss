@@ -3,7 +3,7 @@
 3. [I'm a Celebrity: What else links Wales and Australia?](https://www.bbc.co.uk/news/uk-wales-58075201) - They may be 9,000 miles apart, but the TV show's two host countries have surprising things in common.
 4. [Thunderstorm and heavy rain warning for parts of Wales](https://www.bbc.co.uk/news/uk-wales-58071768) - Up to 100mm (4in) of rain could fall in the hardest hit areas on Friday, the Met Office warns.
 5. [Man admits daubing Nazi graffiti on Rhyl War Memorial](https://www.bbc.co.uk/news/uk-wales-58071770) - Gareth Bradley, 31, escapes jail after admitting 15 offences including damaging Rhyl War Memorial.
-6. [Ceredigion: Closed leisure centres will not reopen until Autumn](https://www.bbc.co.uk/news/uk-wales-58068098) - Months after opening elsewhere, facilities at Cardigan, Plascrug and Lampeter will not open this summer.
+6. [Ceredigion: Closed leisure centres will not reopen until autumn](https://www.bbc.co.uk/news/uk-wales-58068098) - Months after opening elsewhere, facilities at Cardigan, Plascrug and Lampeter will not open this summer.
 7. [The seaside town fighting violence and frustration](https://www.bbc.co.uk/news/uk-58029524) - Can the government's "levelling up" agenda help one of the most violent towns in England and Wales?
 8. [French Alps coach crash survivor graduates on mission to help others](https://www.bbc.co.uk/news/uk-wales-58059974) - Only the soles of Catrin Pugh's feet were not burnt when her coach crashed and burst into flames.
 9. [Shops and schools proposed for council election pilots in Wales](https://www.bbc.co.uk/news/uk-wales-politics-58060044) - Could voting with your weekly shop boost turnout at next year's council elections?
@@ -24,5 +24,5 @@
 24. [Dyn o flaen llys ar gyhuddiad o lofruddio'i chwaer](https://www.bbc.co.uk/newyddion/58071638) - Matthew Selby, 19, wedi'i gyhuddo o ladd ei chwaer Amanda, 15, mewn parc carafanau ger Abergele.
 25. [Dynes â llosgiadau difrifol yn graddio i helpu eraill](https://www.bbc.co.uk/newyddion/58061370) - Fe wnaeth Catrin Pugh ddioddef llosgiadau ar 96% o'i chorff mewn damwain bws yn yr Alpau yn 2013.
 26. [Chwech o Gymru yn nhîm y Llewod i'r prawf olaf](https://www.bbc.co.uk/newyddion/58070479) - Llu o newidiadau i'r Llewod wrth baratoi am y prawf olaf tyngedfennol yn erbyn De Affrica.
-27. [Y recordiau prin (a gwerthfawr!) Cymraeg](https://www.bbc.co.uk/newyddion/58016283) - Y casglwr recordiau Rhys Lloyd Jones sy'n sôn am yr albymau hen a newydd sydd werth eu cadw.
+27. [Eisteddfod AmGen: Canlyniadau'r wythnos yn llawn a chlipiau fideo](https://www.bbc.co.uk/newyddion/58056224) - Canlyniadau'r cystadlaethau a chlipiau'r enillwyr
 28. [Medal arian Olympaidd i Elinor Barker](https://www.bbc.co.uk/newyddion/58070478) - Y Gymraes yn cipio medal arian fel aelod o dîm seiclo ymlid Prydain yn Tokyo.
