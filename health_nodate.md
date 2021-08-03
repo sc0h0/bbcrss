@@ -1,4 +1,4 @@
-1. [Covid: Vaccines set to be offered to 16 and 17 year olds](https://www.bbc.co.uk/news/uk-58080232) - Ministers are expected to accept the advice of the committee of independent health experts.
+1. [Covid: Vaccines to be offered to 16 and 17 year olds](https://www.bbc.co.uk/news/uk-58080232) - UK ministers are expected to accept the advice of the committee of independent health experts.
 2. [Wuhan: Chinese city to test entire population after virus resurfaces](https://www.bbc.co.uk/news/world-asia-china-58066744) - The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.
 3. [NHS Covid-19 app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
 4. [Assisted dying: Campaigners renewed hope for change in the law](https://www.bbc.co.uk/news/uk-england-london-58014609) - David Peace intends to travel abroad to end his life before his motor neurone disease deteriorates further.

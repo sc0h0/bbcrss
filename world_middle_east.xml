@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 23:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 23:22:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Tue, 03 Aug 2021 20:41:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK and Iran summon diplomats after tanker attack]]></title>
-            <description><![CDATA[Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58059271</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58059271</guid>
-            <pubDate>Mon, 02 Aug 2021 20:25:57 GMT</pubDate>
+            <title><![CDATA[Beirut blast: ‘The day our city exploded’]]></title>
+            <description><![CDATA[One year on from the blast that rocked Beirut, no one has yet been made accountable.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58076999</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58076999</guid>
+            <pubDate>Tue, 03 Aug 2021 23:01:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sheikh Jarrah: Palestinians and Israelis baulk at evictions compromise]]></title>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58024060</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58024060</guid>
             <pubDate>Tue, 03 Aug 2021 13:17:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK and Iran summon diplomats after tanker attack]]></title>
+            <description><![CDATA[Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58059271</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58059271</guid>
+            <pubDate>Mon, 02 Aug 2021 20:25:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tanker attack: UK and US blame Iran for deadly ship attack]]></title>
@@ -156,13 +163,6 @@
             <pubDate>Wed, 14 Jul 2021 23:49:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beirut blast: ‘The day our city exploded’]]></title>
-            <description><![CDATA[One year on from the blast that rocked Beirut, no one has yet been made accountable.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58076999</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58076999</guid>
-            <pubDate>Tue, 03 Aug 2021 23:01:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The separated refugees brought back together by judo]]></title>
             <description><![CDATA[Sanda Aldass and Muna Dahouk have trained together since childhood but the war in Syria separated them.]]></description>
             <link>https://www.bbc.co.uk/news/world-58020945</link>
@@ -189,6 +189,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57869807</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57869807</guid>
             <pubDate>Sat, 17 Jul 2021 23:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iraqi firefighters tackle blaze in Covid ward]]></title>
+            <description><![CDATA[More than 50 people have died after a fire broke out in a coronavirus isolation ward at a hospital in Iraq.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-57815621</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57815621</guid>
+            <pubDate>Tue, 13 Jul 2021 03:07:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

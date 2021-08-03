@@ -16,11 +16,13 @@
 16. [Banking giant HSBC sees first half profit more than double](https://www.bbc.co.uk/news/business-58051818) - The UK-based firm said the jump in profits was driven by an economic rebound in Britain and Hong Kong.
 17. [Afterpay: Jack Dorsey's Square in Australia's biggest buyout](https://www.bbc.co.uk/news/business-58051815) - The $29bn deal for Afterpay will create an instalments payment giant in a hugely growing sector.
 18. [Hollywood plans £700m film and TV studios in Hertfordshire](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58029042) - Developers say the site could contribute £300m a year to the local economy and create 4,500 jobs.
-19. [The collapse of Enron and the dark side of business](https://www.bbc.co.uk/news/business-58026162) - Twenty years on from the collapse of Enron, are the rules preventing corporate fraud tough enough?
-20. [Finding answers to the world's drinking water crisis](https://www.bbc.co.uk/news/business-57847654) - Scientists are racing to come up with technologies that can solve the world's clean water shortage.
-21. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
-22. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
-23. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
-24. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
-25. [CEO Secrets: The son who hired his father and sister](https://www.bbc.co.uk/news/business-57968798) - Ross Testa explains why he hired his sister and then his father for his social media business.
-26. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
+19. [The downfall of Nissan's Carlos Ghosn: An insider's view](https://www.bbc.co.uk/news/business-58070929) - Former Nissan lawyer Ravinder Passi had a ringside seat of the downfall of chairman Carlos Ghosn.
+20. [What is solarpunk and can it help save the planet?](https://www.bbc.co.uk/news/business-57761297) - Solarpunk is art movement that imagines a world where technology is used for the good of the planet.
+21. [The collapse of Enron and the dark side of business](https://www.bbc.co.uk/news/business-58026162) - Twenty years on from the collapse of Enron, are the rules preventing corporate fraud tough enough?
+22. [Finding answers to the world's drinking water crisis](https://www.bbc.co.uk/news/business-57847654) - Scientists are racing to come up with technologies that can solve the world's clean water shortage.
+23. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
+24. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.
+25. [Music industry turns to livestreaming to boost revenue](https://www.bbc.co.uk/news/business-57817809) - Festivals, DJs and musicians are all using new tech to entertain fans and make money during Covid.
+26. [My Money: 'I had forgotten how it all adds up'](https://www.bbc.co.uk/news/business-57888910) - Marketeer Toni says being able to socialise more and meet colleagues is pushing her spending higher.
+27. [CEO Secrets: The son who hired his father and sister](https://www.bbc.co.uk/news/business-57968798) - Ross Testa explains why he hired his sister and then his father for his social media business.
+28. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
