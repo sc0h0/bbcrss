@@ -1,4 +1,4 @@
-1. [Belarus Olympian given Polish visa after refusing 'forced' flight home](https://www.bbc.co.uk/news/world-europe-58052144) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
+1. [Belarus Olympian safe in Polish embassy, Japan says](https://www.bbc.co.uk/news/world-europe-58065318) - Sprinter Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
 2. [Vitaly Shishov: Head of Belarusian group missing in Kyiv](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov was reported missing by his partner after failing to return from his morning jog.
 3. [Turkey wildfires: Eight dead as blazes sweep through tourist resorts](https://www.bbc.co.uk/news/world-europe-58057081) - Firefighters battle blazes in soaring temperatures as wildfires ravage resorts in southern Europe.
 4. [Turkey: People flee popular tourist spots to escape wildfires](https://www.bbc.co.uk/news/world-europe-58051746) - Footage has emerged showing people fleeing the deadly fires which have engulfed parts of Turkey.
