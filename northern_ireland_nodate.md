@@ -1,6 +1,6 @@
 1. [Covid-19: Irish hospitality rules 'incentivising' vaccine uptake](https://www.bbc.co.uk/news/uk-northern-ireland-58069252) - The Republic of Ireland's vaccine rate has surpassed the rate in Northern Ireland.
 2. [Kevin Lunney trial: Attack was 'ordeal of brutality'](https://www.bbc.co.uk/news/world-europe-58075623) - He was subjected to an ordeal of gratuitous violence designed to terrify him, a court hears.
-3. [Covid-19: People on old electoral register 'eligible for high street voucher'](https://www.bbc.co.uk/news/uk-northern-ireland-58070740) - People previously registered to vote 'should still be able to get a high street voucher'.
+3. [Covid-19: People on old electoral register 'eligible for high street voucher'](https://www.bbc.co.uk/news/uk-northern-ireland-58070740) - People previously registered to vote should still be able to get a high street voucher.
 4. [Coronavirus: Sir Van Morrison ends legal action over live music ban](https://www.bbc.co.uk/news/uk-northern-ireland-58072973) - The singer had challenged Covid-19 restrictions which prevented live music performances.
 5. [Emergency departments: Big increase in 12-hour waits at hospitals](https://www.bbc.co.uk/news/uk-northern-ireland-58072979) - About one in 20 people who went to an emergency department in 2020 had to wait longer than 12 hours.
 6. [Public sector contracts affected by rising building material costs](https://www.bbc.co.uk/news/uk-northern-ireland-58070738) - Companies could be allowed to increase the prices of previously agreed public sector contracts.

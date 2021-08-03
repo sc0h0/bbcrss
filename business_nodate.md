@@ -1,6 +1,6 @@
-1. [Rishi Sunak warns young home working may hurt their career](https://www.bbc.co.uk/news/business-58068998) - The chancellor says being in the office helped him build strong relationships when he started out.
+1. [New York restaurant customers to need Covid jabs](https://www.bbc.co.uk/news/business-58021334) - The city is to require people using indoor businesses to have had Covid vaccinations.
 2. [Sweaty Betty sold in a £300m deal to a US firm](https://www.bbc.co.uk/news/business-58078160) - The upmarket UK sportswear company is sold to US buyer Wolverine Worldwide, which sells footwear and lifestyle brands
-3. [New York restaurant customers to need Covid jabs](https://www.bbc.co.uk/news/business-58021334) - The city is to require people using indoor businesses to have had Covid vaccinations.
+3. [Rishi Sunak warns young home working may hurt their career](https://www.bbc.co.uk/news/business-58068998) - The chancellor says being in the office helped him build strong relationships when he started out.
 4. [Greggs to create 500 jobs as it plans 100 more stores](https://www.bbc.co.uk/news/business-58068988) - The bakery chain swings back to profit and says it plans to keep expanding on the High Street.
 5. [Bank fraud: ‘I had £9,000 stolen from my account’](https://www.bbc.co.uk/news/business-58061993) - Scam victims are having difficulties getting bank support after losing cash, consumer group Which? says.
 6. [Covid-19: Amber watchlist travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - Government sources say they have dropped proposals for a new category in the traffic light system.
