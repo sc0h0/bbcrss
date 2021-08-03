@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 15:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 15:39:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,14 @@
             <description><![CDATA[Secondary school pupils will be still be asked to wear face coverings in classrooms for at least the first six weeks of term.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58073215</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58073215</guid>
-            <pubDate>Tue, 03 Aug 2021 15:10:14 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 15:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: How will the rules change on 9 August?]]></title>
+            <description><![CDATA[Scotland's levels system of restrictions is set to end - but what does that mean people can do?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53166816</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53166816</guid>
+            <pubDate>Tue, 03 Aug 2021 15:08:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish stadiums will allow 5,000 fans without prior permission]]></title>
@@ -58,18 +65,18 @@
             <pubDate>Tue, 03 Aug 2021 09:36:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CalMac-chartered ship back in service after repair]]></title>
+            <description><![CDATA[The MV Arrow broke down just a week after it was brought in to help on the Stornoway-Ullapool route.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58070582</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58070582</guid>
+            <pubDate>Tue, 03 Aug 2021 15:32:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scotland's growing sewage spill problem]]></title>
             <description><![CDATA[The number of overspills into rivers and seas has risen by 40% in five years as pressure mounts on the sewer network.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58040852</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58040852</guid>
             <pubDate>Tue, 03 Aug 2021 05:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I stopped drinking - then baking business turned my life around]]></title>
-            <description><![CDATA[Lesley Smith gave up alcohol for the sake of her children but had "no outlet" until she found a passion for making cakes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58011992</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58011992</guid>
-            <pubDate>Tue, 03 Aug 2021 05:06:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Scots cycling trio secure silver medals as Reekie misses out on 800m medal]]></title>
@@ -114,13 +121,6 @@
             <pubDate>Mon, 02 Aug 2021 19:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: How will the rules change on 9 August?]]></title>
-            <description><![CDATA[Scotland's levels system of restrictions is set to end - but what does that mean people can do?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53166816</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53166816</guid>
-            <pubDate>Tue, 03 Aug 2021 15:08:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>
             <description><![CDATA[Concerns have been raised about vaccine uptake among younger adults, but are they less likely to want a jab? Here, we examine the statistics.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57915106</link>
@@ -140,6 +140,20 @@
             <link>https://www.bbc.co.uk/news/health-51205344</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
             <pubDate>Mon, 19 Jul 2021 09:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid map: Coronavirus cases, deaths, vaccinations by country]]></title>
+            <description><![CDATA[Key maps and charts explaining how the virus has spread around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51235105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Mon, 02 Aug 2021 10:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I stopped drinking - then baking business turned my life around]]></title>
+            <description><![CDATA[Lesley Smith gave up alcohol for the sake of her children but had "no outlet" until she found a passion for making cakes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58011992</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58011992</guid>
+            <pubDate>Tue, 03 Aug 2021 05:06:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: How is Scotland tackling climate change?]]></title>
@@ -212,18 +226,18 @@
             <pubDate>Mon, 02 Aug 2021 15:53:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Celtic: Joe Hart signs from Tottenham & James McCarthy arrives after leaving Crystal Palace]]></title>
+            <description><![CDATA[Celtic have signed goalkeeper Joe Hart from Tottenham Hotspur and midfielder James McCarthy after he left Crystal Palace.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58077880</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58077880</guid>
+            <pubDate>Tue, 03 Aug 2021 15:06:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Katie Archibald, Jack Carlin and Neah Evans eye Paris gold after Tokyo silvers]]></title>
             <description><![CDATA[Scotland's Katie Archibald, Jack Carlin and Neah Evans set their sights on gold in Paris 2024 after having to settle for silver in Tokyo on Tuesday.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58070727</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58070727</guid>
             <pubDate>Tue, 03 Aug 2021 11:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celtic sign Joe Hart and James McCarthy]]></title>
-            <description><![CDATA[Celtic have signed goalkeeper Joe Hart from Tottenham Hotspur and midfielder James McCarthy after he left Crystal Palace.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58077880</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58077880</guid>
-            <pubDate>Tue, 03 Aug 2021 15:06:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Silver for GB in women's team pursuit as Germany set world record again]]></title>

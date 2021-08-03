@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 15:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 15:34:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan fighting traps terrified Lashkar Gah residents]]></title>
+            <description><![CDATA[Afghans tell of corpses on the roads as they try to flee fighting for control of Lashkar Gah.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58074525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58074525</guid>
+            <pubDate>Tue, 03 Aug 2021 15:02:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afghanistan: Lashkar Gah residents urged to evacuate amid Taliban battle]]></title>
             <description><![CDATA[People are told to flee Lashkar Gah ahead of a major army operation against the Taliban.]]></description>
@@ -58,13 +65,6 @@
             <pubDate>Tue, 03 Aug 2021 06:02:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Chinese nationalists turn on their athletes]]></title>
-            <description><![CDATA[To ultra-nationalists online, losing an Olympic medal is being "unpatriotic", experts say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58024068</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58024068</guid>
-            <pubDate>Mon, 02 Aug 2021 23:05:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid vaccine inequity 'completely unacceptable and unethical']]></title>
             <description><![CDATA[Rich countries need to do more to give vaccines to poor countries, says top WHO adviser Helen Clark.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58067686</link>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58052139</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58052139</guid>
             <pubDate>Mon, 02 Aug 2021 04:05:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Chinese nationalists turn on their athletes]]></title>
+            <description><![CDATA[To ultra-nationalists online, losing an Olympic medal is being "unpatriotic", experts say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58024068</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58024068</guid>
+            <pubDate>Mon, 02 Aug 2021 23:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics 2020: Can Indian men's hockey end 41-year drought?]]></title>
