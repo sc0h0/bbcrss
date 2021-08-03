@@ -7,8 +7,8 @@
 7. [Bank fraud: ‘I had £9,000 stolen from my account’](https://www.bbc.co.uk/news/business-58061993) - Scam victims are having difficulties getting bank support after losing cash, consumer group Which? says.
 8. [Vitaly Shishov: Head of Belarusian group missing in Kyiv](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov was reported missing by his partner after failing to return from his morning jog.
 9. [Qantas stands down 2,500 staff over Sydney lockdown](https://www.bbc.co.uk/news/world-australia-58066390) - The airline says it expects Australia's largest city to be closed for at least two more months.
-10. [New vote sought in Amazon union fight](https://www.bbc.co.uk/news/technology-58065874) - A National Labor Relations Board official wants another union vote for Amazon workers in Alabama.
-11. [Twitter works with news sites to tackle disinformation](https://www.bbc.co.uk/news/business-58065463) - Twitter announces it will cooperate with two news agencies to promote more reliable information.
+10. [Dizzee Rascal: Rapper charged with assaulting woman](https://www.bbc.co.uk/news/uk-england-london-58063759) - The rapper, whose real name is Dylan Mills, is charged with assault after an incident in south London.
+11. [New vote sought in Amazon union fight](https://www.bbc.co.uk/news/technology-58065874) - A National Labor Relations Board official wants another union vote for Amazon workers in Alabama.
 12. [The Papers: Holidays 'saved' and 'pinging the changes'](https://www.bbc.co.uk/news/blogs-the-papers-58065083) - Many of Tuesday's front pages focus on the decision to scrap a proposed amber travel watchlist.
 13. [Assisted dying: Campaigners renewed hope for change in the law](https://www.bbc.co.uk/news/uk-england-london-58014609) - David Peace intends to travel abroad to end his life before his motor neurone disease deteriorates further.
 14. [Tokyo 2020: A parent's plea in the shadow of the Olympics](https://www.bbc.co.uk/news/world-asia-58057432) - This dad is drawing attention to what he calls the kidnapping of children by their own parents in Japan.
