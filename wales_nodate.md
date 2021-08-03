@@ -1,10 +1,10 @@
 1. [Abergele: Man in court charged with sister's murder](https://www.bbc.co.uk/news/uk-wales-58068097) - Matthew Selby, 19, appeared at Llandudno magistrates court on Wednesday morning charged with the murder at a holiday park.
-2. [Levelling up: The seaside town fighting violence and frustration](https://www.bbc.co.uk/news/uk-58029524) - Can the government's "levelling up" agenda help one of the most violent towns in England and Wales?
+2. [The seaside town fighting violence and frustration](https://www.bbc.co.uk/news/uk-58029524) - Can the government's "levelling up" agenda help one of the most violent towns in England and Wales?
 3. [Shops and schools proposed for council election pilots in Wales](https://www.bbc.co.uk/news/uk-wales-politics-58060044) - Could voting with your weekly shop boost turnout at next year's council elections?
-4. [French Alps coach crash survivor graduates on mission to help others](https://www.bbc.co.uk/news/uk-wales-58059974) - Only the soles of Catrin Pugh's feet were not burnt when her coach crashed and burst into flames.
-5. [Strata Florida: Exhibition tracks rural life in Ceredigion](https://www.bbc.co.uk/news/uk-wales-58061893) - Mynachlog Fawr in 30 Objects aims to give a "vivid glimpse" into rural life through the ages.
-6. [Bridgend river death: Boy, 5, named as Logan Mwangi](https://www.bbc.co.uk/news/uk-wales-58049509) - Three people are arrested on suspicion of murder after Logan Mwangi, also known as Williamson, died.
-7. [Falling tree causes 'significant damage' to Powys house](https://www.bbc.co.uk/news/uk-wales-58063673) - No-one was hurt in the incident on Monday evening, Mid and West Wales Fire and Rescue Service says.
+4. [Thunderstorm and heavy rain warning for parts of Wales](https://www.bbc.co.uk/news/uk-wales-58071768) - Up to 100mm (4in) of rain could fall in the hardest hit areas on Friday, the Met Office warns.
+5. [French Alps coach crash survivor graduates on mission to help others](https://www.bbc.co.uk/news/uk-wales-58059974) - Only the soles of Catrin Pugh's feet were not burnt when her coach crashed and burst into flames.
+6. [Strata Florida: Exhibition tracks rural life in Ceredigion](https://www.bbc.co.uk/news/uk-wales-58061893) - Mynachlog Fawr in 30 Objects aims to give a "vivid glimpse" into rural life through the ages.
+7. [Bridgend river death: Boy, 5, named as Logan Mwangi](https://www.bbc.co.uk/news/uk-wales-58049509) - Three people are arrested on suspicion of murder after Logan Mwangi, also known as Williamson, died.
 8. [Tokyo 2020: Young Welsh climbers dream of Olympic gold](https://www.bbc.co.uk/news/uk-wales-58069621) - More indoor competitions are needed to help young Welsh climbers reach their Olympian dreams, says teen.
 9. [Hay director Peter Florence quits as gross misconduct claim upheld](https://www.bbc.co.uk/news/uk-wales-58060304) - Peter Florence was suspended in October following an internal complaint against him.
 10. [I'm a Celebrity...Get Me Out Here! to return to Wales in 2021](https://www.bbc.co.uk/news/uk-wales-58053077) - The 21st series of the hit ITV reality show is set to return to Gwrych Castle in November.
@@ -21,8 +21,8 @@
 21. [Tokyo Olympics: Jason Kenny equals British record, Karsten Warholm creates history, Simone Biles returns](https://www.bbc.co.uk/sport/olympics/58066781) - Giles Scott earns Great Britain's second Olympic sailing gold on Tuesday, starting what Team GB hope will be a medal rush on day 11 of Tokyo 2020.
 22. [Michael Wilde: Striker leaves Connah's Quay Nomads](https://www.bbc.co.uk/sport/football/58070678) - Striker Michael Wilde leaves Connah's Quay Nomads following the expiry of his contract.
 23. [The Hundred: Bowlers lead Welsh Fire to win over Oval Invincibles](https://www.bbc.co.uk/sport/cricket/58061116) - Welsh Fire strangle Oval Invincibles with a brilliant bowling performance at The Oval, to earn back-to-back victories in the women's Hundred.
-24. ['Y Rhyl yn un o'r trefi mwyaf treisgar a difreintiedig'](https://www.bbc.co.uk/newyddion/58059819) - Ymdrechion yn Y Rhyl i adfer parch a disgyblaeth yn sgil ymchwil sy'n dweud ei bod yn dref dreisgar a difreintiedig.
-25. [Dynes â llosgiadau difrifol yn graddio i helpu eraill](https://www.bbc.co.uk/newyddion/58061370) - Fe wnaeth Catrin Pugh ddioddef llosgiadau ar 96% o'i chorff mewn damwain bws yn yr Alpau yn 2013.
-26. [Adfywiad Cei Llechi Caernarfon yn 'dipyn o sioe'](https://www.bbc.co.uk/newyddion/58026948) - Mae prosiect adfywio'r safle hanesyddol wedi ei gwblhau gan ddynodi pennod newydd i'r dref.
+24. [Dyn o flaen llys ar gyhuddiad o lofruddio'i chwaer](https://www.bbc.co.uk/newyddion/58071638) - Matthew Selby, 19, wedi'i gyhuddo o ladd ei chwaer Amanda, 15, mewn parc carafanau ger Abergele.
+25. ['Y Rhyl yn un o'r trefi mwyaf treisgar a difreintiedig'](https://www.bbc.co.uk/newyddion/58059819) - Ymdrechion yn Y Rhyl i adfer parch a disgyblaeth yn sgil ymchwil sy'n dweud ei bod yn dref dreisgar a difreintiedig.
+26. [Dynes â llosgiadau difrifol yn graddio i helpu eraill](https://www.bbc.co.uk/newyddion/58061370) - Fe wnaeth Catrin Pugh ddioddef llosgiadau ar 96% o'i chorff mewn damwain bws yn yr Alpau yn 2013.
 27. [Y recordiau prin (a gwerthfawr!) Cymraeg](https://www.bbc.co.uk/newyddion/58016283) - Y casglwr recordiau Rhys Lloyd Jones sy'n sôn am yr albymau hen a newydd sydd werth eu cadw.
 28. [Medal arian Olympaidd i Elinor Barker](https://www.bbc.co.uk/newyddion/58070478) - Y Gymraes yn cipio medal arian fel aelod o dîm seiclo ymlid Prydain yn Tokyo.

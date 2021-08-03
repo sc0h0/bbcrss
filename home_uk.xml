@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 10:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 10:37:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[In total, 4,561 deaths related to drug poisoning were registered in England and Wales last year.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58070848</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58070848</guid>
-            <pubDate>Tue, 03 Aug 2021 09:59:30 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 10:32:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan general says Taliban gains threaten global security]]></title>
@@ -58,7 +58,7 @@
             <pubDate>Tue, 03 Aug 2021 10:00:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Return to the office would help young workers, says Rishi Sunak]]></title>
+            <title><![CDATA[Rishi Sunak warns young home working may hurt their career]]></title>
             <description><![CDATA[The chancellor says being in the office helped him build strong relationships when he started out.]]></description>
             <link>https://www.bbc.co.uk/news/business-58068998</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58068998</guid>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58057906</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58057906</guid>
             <pubDate>Tue, 03 Aug 2021 09:36:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: 'You can take our flag but not our love for Russia']]></title>
+            <description><![CDATA[Russia may be banned from the Olympics, but Russians are still winning medals – and rivals aren't happy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58063003</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58063003</guid>
+            <pubDate>Mon, 02 Aug 2021 23:05:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: A parent's plea in the shadow of the Olympics]]></title>
@@ -198,13 +205,6 @@
             <pubDate>Mon, 02 Aug 2021 19:41:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bennifer 2.0: How Jennifer Lopez and Ben Affleck got us talking again]]></title>
-            <description><![CDATA[How a viral photo of Jennifer Lopez and Ben Affleck exposed the internet's lust for nostalgia.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58030649</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58030649</guid>
-            <pubDate>Mon, 02 Aug 2021 23:24:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The collapse of Enron and the dark side of business]]></title>
             <description><![CDATA[Twenty years on from the collapse of Enron, are the rules preventing corporate fraud tough enough?]]></description>
             <link>https://www.bbc.co.uk/news/business-58026162</link>
@@ -212,11 +212,11 @@
             <pubDate>Tue, 03 Aug 2021 09:57:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[F1's Esteban Ocon: How it feels winning your first Formula 1 race]]></title>
-            <description><![CDATA[The 24-year-old Frenchman pulled off a huge F1 shock by winning the Hungarian Grand Prix]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58061076</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58061076</guid>
-            <pubDate>Mon, 02 Aug 2021 23:27:08 GMT</pubDate>
+            <title><![CDATA[Bennifer 2.0: How Jennifer Lopez and Ben Affleck got us talking again]]></title>
+            <description><![CDATA[How a viral photo of Jennifer Lopez and Ben Affleck exposed the internet's lust for nostalgia.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58030649</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58030649</guid>
+            <pubDate>Mon, 02 Aug 2021 23:24:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I stopped drinking - then baking business turned my life around]]></title>
@@ -224,6 +224,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58011992</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58011992</guid>
             <pubDate>Tue, 03 Aug 2021 05:06:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[F1's Esteban Ocon: How it feels winning your first Formula 1 race]]></title>
+            <description><![CDATA[The 24-year-old Frenchman pulled off a huge F1 shock by winning the Hungarian Grand Prix]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58061076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58061076</guid>
+            <pubDate>Mon, 02 Aug 2021 23:27:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is solarpunk and can it help save the planet?]]></title>
@@ -268,25 +275,25 @@
             <pubDate>Sun, 01 Aug 2021 23:21:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GB's McCormack wins boxing silver]]></title>
+            <description><![CDATA[Pat McCormack is unable to become Great Britain's first boxing gold medallist at Tokyo 2020 after losing in the men's welterweight.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58066789</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58066789</guid>
+            <pubDate>Tue, 03 Aug 2021 10:33:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kennys both win silver medals as Jason becomes GB's most decorated Olympian]]></title>
             <description><![CDATA[Jason Kenny becomes Great Britain's most decorated Olympian as team sprint silver brings an eighth medal after wife Laura takes team pursuit silver.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58069120</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58069120</guid>
-            <pubDate>Tue, 03 Aug 2021 09:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simone Biles: USA gymnast returns at Tokyo Olympics with strong performance in beam final]]></title>
-            <description><![CDATA[USA's Simone Biles returns to competition with a strong performance in the beam final and wins bronze at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58070044</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58070044</guid>
-            <pubDate>Tue, 03 Aug 2021 09:50:18 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 10:24:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simone Biles wins Tokyo Olympics beam bronze on emotional return]]></title>
             <description><![CDATA[Simone Biles wins bronze in the beam final in an emotional return to Olympic gymnastics competition.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58069211</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58069211</guid>
-            <pubDate>Tue, 03 Aug 2021 10:11:37 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 10:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chelsea £85m bid for Inter's Lukaku rejected]]></title>
@@ -322,6 +329,13 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58069532</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58069532</guid>
             <pubDate>Tue, 03 Aug 2021 08:18:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simone Biles: USA gymnast returns at Tokyo Olympics with strong performance in beam final]]></title>
+            <description><![CDATA[USA's Simone Biles returns to competition with a strong performance in the beam final and wins bronze at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58070044</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58070044</guid>
+            <pubDate>Tue, 03 Aug 2021 09:50:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Sailing gold, a kayak queen and a wondrous world record in day eleven early best bits]]></title>
@@ -693,20 +707,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-57905821</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57905821</guid>
             <pubDate>Wed, 21 Jul 2021 16:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympic Games: When are they and how will Covid affect them?]]></title>
-            <description><![CDATA[The Tokyo Summer Olympics have begun, despite a surge in Covid cases in Japan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57240044</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57240044</guid>
-            <pubDate>Fri, 23 Jul 2021 13:04:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Why is social distancing coming to an end?]]></title>
-            <description><![CDATA[Social distancing rules are changing across the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51506729</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
-            <pubDate>Fri, 16 Jul 2021 08:49:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,5 +1,5 @@
 1. [Covid-19: Amber watchlist travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - Government sources say they have dropped proposals for a new category in the traffic light system.
-2. [Return to the office would help young workers, says Rishi Sunak](https://www.bbc.co.uk/news/business-58068998) - The chancellor says being in the office helped him build strong relationships when he started out.
+2. [Rishi Sunak warns young home working may hurt their career](https://www.bbc.co.uk/news/business-58068998) - The chancellor says being in the office helped him build strong relationships when he started out.
 3. [Ministers reject calls to lower state pension age to 60](https://www.bbc.co.uk/news/uk-politics-58070099) - The government says lowering the state pension age is not fair or affordable for taxpayers.
 4. [Labour: Tories must come clean over elite donors](https://www.bbc.co.uk/news/uk-politics-58055642) - Newspaper reports say party donors were given access to the PM and chancellor for their contributions.
 5. [Covid in Scotland: Nicola Sturgeon to set out plans for lifting restrictions](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58057371) - Nicola Sturgeon is to confirm whether Scotland will move beyond level zero on 9 August as planned.
