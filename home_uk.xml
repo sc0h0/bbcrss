@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 02:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 02:50:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,7 +79,7 @@
             <pubDate>Mon, 02 Aug 2021 23:08:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Official recommends rerun in Amazon union fight]]></title>
+            <title><![CDATA[Rerun called for in Amazon union fight]]></title>
             <description><![CDATA[A National Labor Relations Board official wants another union vote for Amazon workers in Alabama.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58065874</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58065874</guid>
@@ -268,13 +268,6 @@
             <pubDate>Mon, 02 Aug 2021 15:16:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: GB's Jodie Williams and Ama Pipi through to semi-finals of women's 400m heats]]></title>
-            <description><![CDATA[Britain's Jodie Williams wins her heat to join Shaunae Miller-Uibo and Allyson Felix in the 400m semi-finals, with fellow Briton Ama Pipi also qualifying as a fastest loser.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58065714</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58065714</guid>
-            <pubDate>Tue, 03 Aug 2021 02:34:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Without coffee I wouldn't be champion' - Hassan wins 5,000m for first leg of gruelling treble]]></title>
             <description><![CDATA[Sifan Hassan takes 5,000m gold as she bids for an unprecedented Olympic treble on the track in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58060630</link>
@@ -301,6 +294,20 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/58064562</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58064562</guid>
             <pubDate>Mon, 02 Aug 2021 21:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Oliver Townend leads GB to gold medal in eventing]]></title>
+            <description><![CDATA[Watch highlights as Great Britain win their first Olympic team eventing gold medal in 49 years at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58056120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58056120</guid>
+            <pubDate>Mon, 02 Aug 2021 10:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: GB's Jodie Williams and Ama Pipi through to semi-finals of women's 400m heats]]></title>
+            <description><![CDATA[Britain's Jodie Williams wins her heat to join Shaunae Miller-Uibo and Allyson Felix in the 400m semi-finals, with fellow Briton Ama Pipi also qualifying as a fastest loser.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58065714</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58065714</guid>
+            <pubDate>Tue, 03 Aug 2021 02:34:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Simone Biles on start list for beam final]]></title>
