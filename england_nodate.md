@@ -21,5 +21,4 @@
 21. ['Erotic, maybe a bit sexy, but not pornographic'](https://www.bbc.co.uk/news/uk-england-derbyshire-57893530) - Alison Walker signed up for a boudoir photoshoot before having a double mastectomy.
 22. [Tokyo Olympics: Jason and Laura Kenny both claim track cycling silver](https://www.bbc.co.uk/sport/olympics/58069120) - Jason Kenny becomes Great Britain's most decorated Olympian as team sprint silver brings an eighth medal after wife Laura takes team pursuit silver.
 23. [Tokyo Olympics: GB's Giles Scott wins Finn class, gold in men's 49er & silver in mixed Nacra 17](https://www.bbc.co.uk/sport/olympics/58067716) - Great Britain win two golds and a silver on a thrilling day in sailing at the Tokyo 2020 Olympics.
-24. [Tokyo Olympics: GB diver Jack Laugher wins bronze in men’s 3m springboard](https://www.bbc.co.uk/sport/olympics/58068690) - Diver Jack Laugher wins an Olympic bronze medal in the men's 3m springboard at Tokyo 2020.
-25. [Romelu Lukaku: Inter reject Chelsea's £85m bid for Belgium striker](https://www.bbc.co.uk/sport/football/58068429) - Inter Milan reject Chelsea's £85m bid for striker Romelu Lukaku.
+24. [Romelu Lukaku: Inter reject Chelsea's £85m bid for Belgium striker](https://www.bbc.co.uk/sport/football/58068429) - Inter Milan reject Chelsea's £85m bid for striker Romelu Lukaku.
