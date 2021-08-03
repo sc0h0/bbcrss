@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 05:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 05:43:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid-19: Amber watch-list travel idea scrapped]]></title>
+            <title><![CDATA[Covid-19: Amber watchlist travel idea scrapped]]></title>
             <description><![CDATA[A government source says they have dropped proposals for a new category in the traffic light system.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58064470</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58064470</guid>
             <pubDate>Tue, 03 Aug 2021 00:55:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bank fraud: ‘I had £9,000 stolen from my account’]]></title>
+            <description><![CDATA[Scam victims are having difficulties getting bank support after losing cash, consumer group Which? says.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58061993</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58061993</guid>
+            <pubDate>Mon, 02 Aug 2021 23:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shares slide after China brands online games 'electronic drugs']]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-58066390</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58066390</guid>
             <pubDate>Tue, 03 Aug 2021 02:58:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank fraud: ‘I had £9,000 stolen from my account’]]></title>
-            <description><![CDATA[Scam victims are having difficulties getting bank support after losing cash, consumer group Which? says.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58061993</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58061993</guid>
-            <pubDate>Mon, 02 Aug 2021 23:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finance firms plan to close coal plants in Asia]]></title>
@@ -119,55 +119,6 @@
             <link>https://www.bbc.co.uk/news/business-58047483</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58047483</guid>
             <pubDate>Sun, 01 Aug 2021 12:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: UK hits 85m jab milestone amid discount push for young]]></title>
-            <description><![CDATA[Cheap travel and takeaways will be offered in a bid to boost vaccine uptake among young people.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58044088</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58044088</guid>
-            <pubDate>Sun, 01 Aug 2021 16:18:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: One in five firms plan job cuts as furlough tapers - survey]]></title>
-            <description><![CDATA[From Sunday, government payments reduce to 60% towards salaries, with employers paying 20%.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58043041</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58043041</guid>
-            <pubDate>Sat, 31 Jul 2021 23:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heatwave risk from plans to convert shops to homes]]></title>
-            <description><![CDATA[Turning more commercial property into homes raises fears of sub-standard conditions, says a report.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58029653</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58029653</guid>
-            <pubDate>Sat, 31 Jul 2021 23:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Lenders won’t touch us - my home’s worth nothing']]></title>
-            <description><![CDATA[Campaigners say government attempts to unlock parts of the property market paralysed by the cladding crisis have stalled.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58031545</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58031545</guid>
-            <pubDate>Sat, 31 Jul 2021 23:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Employee shortages: Where have all the workers gone?]]></title>
-            <description><![CDATA[From hospitality to road haulage, firms say they can't get staff. So are employees now calling the shots?]]></description>
-            <link>https://www.bbc.co.uk/news/business-58014256</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58014256</guid>
-            <pubDate>Fri, 30 Jul 2021 22:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk: 'I don't want to be CEO of anything']]></title>
-            <description><![CDATA[Elon Musk reiterated on Friday that he doesn't want to be Space X or Tesla boss. What's going on?]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58035124</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58035124</guid>
-            <pubDate>Sat, 31 Jul 2021 00:39:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Covid vaccine scammers nearly got me']]></title>
-            <description><![CDATA[Sioban Moore escaped disaster by a whisker after receiving a fake email inviting her for a jab.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58029113</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58029113</guid>
-            <pubDate>Fri, 30 Jul 2021 22:01:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Corporate fraud: The dark side of business]]></title>

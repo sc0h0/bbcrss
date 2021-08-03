@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 05:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 05:49:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,14 +27,7 @@
             <description><![CDATA[Dylan Fletcher and Stuart Bithell claim gold for Great Britain after winning a dramatic men's 49er medal race.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58067716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58067716</guid>
-            <pubDate>Tue, 03 Aug 2021 05:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sturgeon to set out plans for lifting restrictions]]></title>
-            <description><![CDATA[Nicola Sturgeon is to confirm whether Scotland will move beyond level zero on 9 August as planned.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58057371</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58057371</guid>
-            <pubDate>Tue, 03 Aug 2021 05:06:11 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 05:44:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympics launches inquiry into Belarus case]]></title>
@@ -44,6 +37,13 @@
             <pubDate>Tue, 03 Aug 2021 04:27:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Amber watchlist travel idea scrapped]]></title>
+            <description><![CDATA[A government source says they have dropped proposals for a new category in the traffic light system.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58064470</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58064470</guid>
+            <pubDate>Tue, 03 Aug 2021 00:55:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gangs on e-scooters targeting GPS farm equipment]]></title>
             <description><![CDATA[Total theft claims fall after the pandemic but technology stays a draw for criminals, says insurer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58066465</link>
@@ -51,11 +51,11 @@
             <pubDate>Tue, 03 Aug 2021 04:15:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Amber watch-list travel idea scrapped]]></title>
-            <description><![CDATA[A government source says they have dropped proposals for a new category in the traffic light system.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58064470</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58064470</guid>
-            <pubDate>Tue, 03 Aug 2021 00:55:30 GMT</pubDate>
+            <title><![CDATA[Sturgeon to set out plans for lifting restrictions]]></title>
+            <description><![CDATA[Nicola Sturgeon is to confirm whether Scotland will move beyond level zero on 9 August as planned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58057371</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58057371</guid>
+            <pubDate>Tue, 03 Aug 2021 05:06:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kidney transplants cancelled amid NI staff shortage]]></title>
@@ -485,6 +485,13 @@
             <pubDate>Tue, 27 Jul 2021 23:01:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Mon, 02 Aug 2021 16:13:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
             <description><![CDATA[Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/health-57888429</link>
@@ -511,13 +518,6 @@
             <link>https://www.bbc.co.uk/news/health-57833394</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57833394</guid>
             <pubDate>Fri, 16 Jul 2021 11:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many cases are in your area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 02 Aug 2021 16:13:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Covid passports’: How to get the NHS Covid Pass]]></title>

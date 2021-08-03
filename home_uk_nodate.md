@@ -1,9 +1,9 @@
 1. [Afghanistan: Street fighting rages as Taliban attack key city](https://www.bbc.co.uk/news/world-asia-58051481) - The militants are battling to take control of a provincial capital for the first time in years.
 2. [Tokyo Olympics: Dylan Fletcher and Stuart Bithell win gold for Great Britain in men's 49er sailing](https://www.bbc.co.uk/sport/olympics/58067716) - Dylan Fletcher and Stuart Bithell claim gold for Great Britain after winning a dramatic men's 49er medal race.
-3. [Sturgeon to set out plans for lifting restrictions](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58057371) - Nicola Sturgeon is to confirm whether Scotland will move beyond level zero on 9 August as planned.
-4. [Olympics launches inquiry into Belarus case](https://www.bbc.co.uk/news/world-europe-58065318) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
+3. [Olympics launches inquiry into Belarus case](https://www.bbc.co.uk/news/world-europe-58065318) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
+4. [Covid-19: Amber watchlist travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - A government source says they have dropped proposals for a new category in the traffic light system.
 5. [Gangs on e-scooters targeting GPS farm equipment](https://www.bbc.co.uk/news/uk-58066465) - Total theft claims fall after the pandemic but technology stays a draw for criminals, says insurer.
-6. [Covid-19: Amber watch-list travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - A government source says they have dropped proposals for a new category in the traffic light system.
+6. [Sturgeon to set out plans for lifting restrictions](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58057371) - Nicola Sturgeon is to confirm whether Scotland will move beyond level zero on 9 August as planned.
 7. [Kidney transplants cancelled amid NI staff shortage](https://www.bbc.co.uk/news/uk-northern-ireland-58065081) - Healthy kidneys from deceased donors were turned down due to a lack of nurses to support surgeons.
 8. [Bank fraud: ‘I had £9,000 stolen from my account’](https://www.bbc.co.uk/news/business-58061993) - Scam victims are having difficulties getting bank support after losing cash, consumer group Which? says.
 9. [Vitaly Shishov: Head of Belarusian group missing in Kyiv](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov was reported missing by his partner after failing to return from his morning jog.
@@ -65,11 +65,11 @@
 65. [Tokyo Olympics: Novak Djokovic hurls and smashes racquet in bronze medal match defeat](https://www.bbc.co.uk/sport/av/olympics/58037826) - Novak Djokovic displays his frustrations during his bronze medal match against Pablo Carreno Busta, throwing a racquet and then smashing another against a net post.
 66. [Tokyo Olympics: Medal table - which country has won most golds?](https://www.bbc.co.uk/sport/olympics/57836709) - Which country is leading the medal table? How are Great Britain getting on? Medals table for the 2020 Olympics in Tokyo.
 67. [Tokyo Olympics: Take a tour of the incredible venues](https://www.bbc.co.uk/news/world-asia-57981049) - They range from an arena built by a father and son, to a legendary home of Japanese martial arts.
-68. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
-69. [Coronavirus: How does the NHS test-and-trace system and app work?](https://www.bbc.co.uk/news/explainers-52442754) - A record number of alerts are being sent by the NHS Covid app.
-70. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
-71. [Long Covid: What is it and what are the symptoms?](https://www.bbc.co.uk/news/health-57833394) - New research links as many as 200 different symptoms to the condition.
-72. [How many cases are in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+68. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+69. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
+70. [Coronavirus: How does the NHS test-and-trace system and app work?](https://www.bbc.co.uk/news/explainers-52442754) - A record number of alerts are being sent by the NHS Covid app.
+71. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
+72. [Long Covid: What is it and what are the symptoms?](https://www.bbc.co.uk/news/health-57833394) - New research links as many as 200 different symptoms to the condition.
 73. [‘Covid passports’: How to get the NHS Covid Pass](https://www.bbc.co.uk/news/explainers-55718553) - People in England can use the pass for travel and to visit venues which ask for them.
 74. [Lockdown muscle loss: Five ways to get back in shape](https://www.bbc.co.uk/news/uk-56887390) - Lockdown inactivity may have left people with weaker muscles - there are simple solutions.
 75. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - All over-18s can now get the Covid jab, but the government has criticised take-up among young people.
