@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 14:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 15:15:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting]]></title>
+            <description><![CDATA[Svetlana Tikhanovskaya says she has been assured of further UK support, amid a crackdown on dissent.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58073145</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58073145</guid>
+            <pubDate>Tue, 03 Aug 2021 13:10:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Amber watchlist travel idea scrapped]]></title>
             <description><![CDATA[Government sources say they have dropped proposals for a new category in the traffic light system.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58072985</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58072985</guid>
             <pubDate>Tue, 03 Aug 2021 12:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting]]></title>
-            <description><![CDATA[Svetlana Tikhanovskaya says she has been assured of further UK support, amid a crackdown on dissent.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58073145</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58073145</guid>
-            <pubDate>Tue, 03 Aug 2021 13:10:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Most restrictions to end from 9 August]]></title>
@@ -70,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-58070848</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58070848</guid>
             <pubDate>Tue, 03 Aug 2021 14:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine]]></title>
-            <description><![CDATA[Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58065313</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58065313</guid>
-            <pubDate>Tue, 03 Aug 2021 13:52:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shops and schools proposed for council election pilots in Wales]]></title>
@@ -321,7 +314,7 @@
             <description><![CDATA[Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Fri, 30 Jul 2021 09:48:44 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 15:13:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
