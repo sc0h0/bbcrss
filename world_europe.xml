@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 18:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 19:14:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,13 @@
             <pubDate>Tue, 03 Aug 2021 15:39:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Christian Eriksen referee: Defibrillators save lives]]></title>
+            <description><![CDATA[Premier League referee Anthony Taylor outlines why defibrillators should be available for grassroots football.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58080593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58080593</guid>
+            <pubDate>Tue, 03 Aug 2021 18:46:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Turkey: People flee popular tourist spots to escape wildfires]]></title>
             <description><![CDATA[Footage has emerged showing people fleeing the deadly fires which have engulfed parts of Turkey.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58051746</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57978365</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57978365</guid>
             <pubDate>Tue, 27 Jul 2021 23:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tips from the Netherlands on how to build a nation of cyclists]]></title>
-            <description><![CDATA[Some tips from the Dutch Cycling Embassy on how to make bikes the easiest and safest way to travel.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57944428</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57944428</guid>
-            <pubDate>Fri, 23 Jul 2021 23:01:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
