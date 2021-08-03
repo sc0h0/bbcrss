@@ -1,4 +1,4 @@
-1. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people flee from Belarus following a crackdown.
+1. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
 2. [Tokyo Olympics: Karsten Warholm sets stunning 400m hurdles world record](https://www.bbc.co.uk/sport/olympics/58067231) - Norwegian Karsten Warholm runs a stunning men's 400m hurdles race to obliterate his previous world record and take gold at Tokyo 2020.
 3. [IOC launches investigation into Belarus sprinter case](https://www.bbc.co.uk/news/world-europe-58065318) - Olympian Krystina Timanovskaya says she was almost forced on a plane home after criticising coaches.
 4. [Tokyo 2020: 'You can take our flag but not our love for Russia'](https://www.bbc.co.uk/news/world-58063003) - Russia may be banned from the Olympics, but Russians are still winning medals – and rivals aren't happy.

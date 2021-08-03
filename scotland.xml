@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 09:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 09:41:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Tue, 03 Aug 2021 07:21:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Grandfather lands 'biggest ever cod' in Scottish waters]]></title>
+            <description><![CDATA[The fish caught off Shetland weighed in at 49lbs (22kg) and left 60-year-old Tony Urwin "shattered".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58057906</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58057906</guid>
+            <pubDate>Tue, 03 Aug 2021 09:36:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I stopped drinking - then baking business turned my life around]]></title>
             <description><![CDATA[Lesley Smith gave up alcohol for the sake of her children but had "no outlet" until she found a passion for making cakes.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58011992</link>
@@ -58,8 +65,8 @@
             <pubDate>Tue, 03 Aug 2021 05:27:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Scots Katie Archibald, Jack Carlin, Neah Evans and Anna Burnet secure silver medals]]></title>
-            <description><![CDATA[Katie Archibald, Jack Carlin, Neah Evans and Anna Burnet take silver medals on a busy day for the Scots at the Tokyo Olympics.]]></description>
+            <title><![CDATA[Tokyo Olympics: Scots Katie Archibald, Anna Burnet, Jack Carlin and Neah Evans secure silver medals]]></title>
+            <description><![CDATA[Katie Archibald, Anna Burnet, Jack Carlin and Neah Evans take silver medals on a busy day for the Scots at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58068498</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58068498</guid>
             <pubDate>Tue, 03 Aug 2021 08:59:29 GMT</pubDate>
@@ -77,20 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</guid>
             <pubDate>Mon, 02 Aug 2021 16:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Duncan Scott's parents 'delighted' at Tokyo Olympics success]]></title>
-            <description><![CDATA[The swimmer's parents have been watching the "nail biting" action from their home in Clackmannanshire.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58055682</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58055682</guid>
-            <pubDate>Mon, 02 Aug 2021 16:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's gas pipelines sold to Canadian consortium]]></title>
-            <description><![CDATA[SSE has sold its one-third stake in Scotland's gas supply network for £1225m, to focus on renewable electricity.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58063791</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58063791</guid>
-            <pubDate>Mon, 02 Aug 2021 17:15:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fire-hit Crannog Centre given £51,000 cash boost]]></title>
@@ -205,18 +198,25 @@
             <pubDate>Mon, 02 Aug 2021 16:10:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Silver for GB in women's team pursuit as Germany set world record again]]></title>
+            <description><![CDATA[Germany's women's pursuit team set a new world record for the third race in a row to take the Olympic title ahead of Great Britain.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58069535</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58069535</guid>
+            <pubDate>Tue, 03 Aug 2021 08:54:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Jason Kenny equals medal record with silver in men's team sprint]]></title>
+            <description><![CDATA[Jason Kenny wins a record-equalling eighth Olympic medal with team sprint silver, Netherlands win gold.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58069538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58069538</guid>
+            <pubDate>Tue, 03 Aug 2021 09:15:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Joe Hart: Tottenham's former England goalkeeper close to Celtic move]]></title>
             <description><![CDATA[Former England and Manchester City goalkeeper Joe Hart is close to joining Celtic from Tottenham Hotspur.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58065246</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58065246</guid>
             <pubDate>Mon, 02 Aug 2021 21:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Team GB's women's pursuit team crash after world record time on their way to final]]></title>
-            <description><![CDATA[Team GB's women's pursuit team advance to the final, beating Australia with a world record time, before teammates Neah Evans and Katie Archibald crash into each other.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58068893</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58068893</guid>
-            <pubDate>Tue, 03 Aug 2021 07:43:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish Gossip: Rangers, Celtic, Alegria, Jones, Crystal Palace, Wigan, Scales, Banks, Shamrock Rovers]]></title>
@@ -226,11 +226,11 @@
             <pubDate>Tue, 03 Aug 2021 07:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Malmo v Rangers: Steven Gerrard expects 'physically strong' challenge]]></title>
-            <description><![CDATA[Steven Gerrard anticipates a "physically strong" challenge from Malmo in Rangers' Champions League qualifier.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58059487</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58059487</guid>
-            <pubDate>Mon, 02 Aug 2021 13:33:49 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Team GB's women's pursuit team crash after world record time on their way to final]]></title>
+            <description><![CDATA[Team GB's women's pursuit team advance to the final, beating Australia with a world record time, before teammates Neah Evans and Katie Archibald crash into each other.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58068893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58068893</guid>
+            <pubDate>Tue, 03 Aug 2021 07:43:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
