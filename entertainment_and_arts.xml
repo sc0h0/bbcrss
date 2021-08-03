@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Aug 2021 23:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 01:08:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Thu, 22 Jul 2021 00:52:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Alice in Wonderland sequel £5 coin 'evokes childhood memories']]></title>
+            <description><![CDATA[The coin artist says all generations will enjoy the Through the Looking Glass themed scene.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58055788</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58055788</guid>
+            <pubDate>Mon, 02 Aug 2021 12:24:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Billie Eilish opens up to Clara Amfo on internet trolls]]></title>
             <description><![CDATA[Eilish tells Amfo of her frustration with internet criticism in a new documentary.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58039782</link>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58001770</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58001770</guid>
             <pubDate>Wed, 28 Jul 2021 17:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Archibald Prize: 100 years of Australia's top portrait honour]]></title>
-            <description><![CDATA[Over 100 years, the Archibald Prize has become better at reflecting Australian diversity.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-57967778</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-57967778</guid>
-            <pubDate>Mon, 26 Jul 2021 23:00:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
