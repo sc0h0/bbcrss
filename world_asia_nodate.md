@@ -1,5 +1,5 @@
 1. [Afghanistan: Street fighting rages as Taliban attack key city](https://www.bbc.co.uk/news/world-asia-58051481) - The militants are battling to take control of a provincial capital for the first time in years.
-2. [China Covid: Concerns grow as Delta outbreak spreads](https://www.bbc.co.uk/news/world-asia-china-58052894) - Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.
+2. [Nanjing: Concerns in China grow as Delta outbreak spreads](https://www.bbc.co.uk/news/world-asia-china-58052894) - Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.
 3. [Tokyo Olympics: Chinese nationalists turn on their athletes](https://www.bbc.co.uk/news/world-asia-china-58024068) - To ultra-nationalists online, losing an Olympic medal is being "unpatriotic", experts say.
 4. [Tokyo 2020: A parent's plea in the shadow of the Olympics](https://www.bbc.co.uk/news/world-asia-58057432) - This dad is drawing attention to what he calls the kidnapping of children by their own parents in Japan.
 5. [Covid-19: The mystery of rising infections in India's Kerala](https://www.bbc.co.uk/news/world-asia-india-58054124) - Covid-19 cases continue to rise in Kerala despite the waning of the second wave elsewhere in India.

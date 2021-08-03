@@ -9,7 +9,7 @@
 9. [Official recommends rerun in Amazon union fight](https://www.bbc.co.uk/news/technology-58065874) - A National Labor Relations Board official wants another union vote for Amazon workers in Alabama.
 10. [Kathy Griffin: US comedian has surgery after lung cancer diagnosis](https://www.bbc.co.uk/news/entertainment-arts-58061672) - Kathy Griffin is having half of her left lung removed, saying "doctors are very optimistic".
 11. [German court sets trial for 100-year-old alleged Nazi guard](https://www.bbc.co.uk/news/world-europe-58057082) - The man is accused of assisting in 3,518 murders at the Sachsenhausen camp during World War Two.
-12. [China Covid: Concerns grow as Delta outbreak spreads](https://www.bbc.co.uk/news/world-asia-china-58052894) - Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.
+12. [Nanjing: Concerns in China grow as Delta outbreak spreads](https://www.bbc.co.uk/news/world-asia-china-58052894) - Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.
 13. [West faces dilemmas over tanker attack](https://www.bbc.co.uk/news/world-middle-east-58061401) - A drone attack on a ship off the coast of Oman has worsened already strained ties with Iran.
 14. [Nigerian student shocked to see friend's body in anatomy class](https://www.bbc.co.uk/news/world-africa-57748122) - Nigerian students often dissect "unclaimed" bodies from mortuaries but some are victims of police violence.
 15. [Iran water: What's causing the shortages?](https://www.bbc.co.uk/news/58012290) - Iranian officials have warned of historic drought while experts blame years of poor water management.
