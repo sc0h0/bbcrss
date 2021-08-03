@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 16:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 16:55:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Boris Johnson will not meet Nicola Sturgeon during trip to Scotland]]></title>
+            <description><![CDATA[Boris Johnson will not meet Scotland's first minister this week, according to a letter seen by the BBC.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58079390</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079390</guid>
+            <pubDate>Tue, 03 Aug 2021 16:41:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting]]></title>
             <description><![CDATA[Svetlana Tikhanovskaya says she has been assured of further UK support, amid a crackdown on dissent.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58073145</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58073145</guid>
-            <pubDate>Tue, 03 Aug 2021 13:10:15 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 16:26:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Amber watchlist travel idea scrapped]]></title>
@@ -51,18 +58,18 @@
             <pubDate>Tue, 03 Aug 2021 14:52:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rishi Sunak warns young home working may hurt their career]]></title>
-            <description><![CDATA[The chancellor says being in the office helped him build strong relationships when he started out.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58068998</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58068998</guid>
-            <pubDate>Tue, 03 Aug 2021 11:17:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ministers reject calls to lower state pension age to 60]]></title>
             <description><![CDATA[The government says lowering the state pension age is not fair or affordable for taxpayers.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58070099</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58070099</guid>
             <pubDate>Tue, 03 Aug 2021 10:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rishi Sunak warns young home working may hurt their career]]></title>
+            <description><![CDATA[The chancellor says being in the office helped him build strong relationships when he started out.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58068998</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58068998</guid>
+            <pubDate>Tue, 03 Aug 2021 11:17:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drug deaths in England and Wales highest since 1993]]></title>

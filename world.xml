@@ -11,30 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 16:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 16:54:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Afghanistan: Lashkar Gah residents urged to evacuate amid Taliban battle]]></title>
-            <description><![CDATA[People are told to flee Lashkar Gah ahead of a major army operation against the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58068299</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58068299</guid>
-            <pubDate>Tue, 03 Aug 2021 11:40:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Andrew Cuomo: New York Governor sexually harassed women, report finds]]></title>
             <description><![CDATA[The investigation comes months after several women accused Andrew Cuomo of sexual misconduct.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58077255</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58077255</guid>
-            <pubDate>Tue, 03 Aug 2021 15:49:13 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 16:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan fighting traps terrified Lashkar Gah residents]]></title>
+            <description><![CDATA[Afghans tell of corpses on the roads as they try to flee fighting for control of Lashkar Gah.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58074525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58074525</guid>
+            <pubDate>Tue, 03 Aug 2021 15:02:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine]]></title>
             <description><![CDATA[Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58065313</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58065313</guid>
-            <pubDate>Tue, 03 Aug 2021 13:52:41 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 16:33:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neanderthal markings in Spain suggest cave art, study says]]></title>
@@ -51,18 +51,25 @@
             <pubDate>Tue, 03 Aug 2021 14:40:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: NZ weightlifter Laurel Hubbard set to 'hang up her boots']]></title>
+            <title><![CDATA[Tokyo Olympics: New Zealand's Laurel Hubbard set to 'hang up her boots']]></title>
             <description><![CDATA[The transgender weightlifter made Olympic history but says her time in the sport is probably up.]]></description>
             <link>https://www.bbc.co.uk/news/world-58072911</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58072911</guid>
             <pubDate>Tue, 03 Aug 2021 11:21:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[German pensioner prosecuted over WW2 tank found in house]]></title>
-            <description><![CDATA[The 82-year-old has been handed a suspended sentence and fined €250,000 (£213,469).]]></description>
+            <title><![CDATA[German pensioner given hefty fine for WW2 tank in house]]></title>
+            <description><![CDATA[The 82 year old is given a suspended sentence and fined €250,000 (£213,469).]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58077039</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58077039</guid>
             <pubDate>Tue, 03 Aug 2021 15:57:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese gold medallists face investigation over Mao badges]]></title>
+            <description><![CDATA[The cyclists appeared on the podium wearing the badges in a potential breach of Olympic rules.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58075743</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58075743</guid>
+            <pubDate>Tue, 03 Aug 2021 16:54:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sheikh Jarrah: Palestinians and Israelis baulk at evictions compromise]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58024060</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58024060</guid>
             <pubDate>Tue, 03 Aug 2021 13:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wuhan: Chinese city to test entire population after virus resurfaces]]></title>
-            <description><![CDATA[The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58066744</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58066744</guid>
-            <pubDate>Tue, 03 Aug 2021 06:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Matt Damon says he has never personally used gay slur]]></title>
@@ -93,11 +93,11 @@
             <pubDate>Tue, 03 Aug 2021 12:55:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Qantas stands down 2,500 staff over Sydney lockdown]]></title>
-            <description><![CDATA[The airline says it expects Australia's largest city to be closed for at least two more months.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58066390</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58066390</guid>
-            <pubDate>Tue, 03 Aug 2021 02:58:15 GMT</pubDate>
+            <title><![CDATA[Wuhan: Chinese city to test entire population after virus resurfaces]]></title>
+            <description><![CDATA[The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58066744</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58066744</guid>
+            <pubDate>Tue, 03 Aug 2021 06:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Chinese nationalists turn on their athletes]]></title>
