@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 13:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 14:04:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covd in Scotland: Most restrictions to end from 9 August]]></title>
-            <description><![CDATA[Social distancing no longer be required in most locations - but the wearing of face coverings will continue.]]></description>
+            <title><![CDATA[Covid in Scotland: Most restrictions to end from 9 August]]></title>
+            <description><![CDATA[Social distancing will no longer be required in most locations - but the wearing of face coverings will continue.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58057380</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58057380</guid>
-            <pubDate>Tue, 03 Aug 2021 13:27:17 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 13:53:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Jason Kenny claims British landmark as GB secure seven medals while Simone Biles wins bronze]]></title>
@@ -37,18 +37,11 @@
             <pubDate>Tue, 03 Aug 2021 12:19:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Drug deaths in England and Wales highest since 1993]]></title>
-            <description><![CDATA[In total, 4,561 deaths related to drug poisoning were registered in England and Wales last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58070848</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58070848</guid>
-            <pubDate>Tue, 03 Aug 2021 11:45:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine]]></title>
             <description><![CDATA[Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58065313</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58065313</guid>
-            <pubDate>Tue, 03 Aug 2021 11:21:02 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 13:52:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting]]></title>
@@ -72,18 +65,18 @@
             <pubDate>Tue, 03 Aug 2021 11:40:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wuhan: Chinese city to test entire population after virus resurfaces]]></title>
-            <description><![CDATA[The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58066744</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58066744</guid>
-            <pubDate>Tue, 03 Aug 2021 06:06:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Abergele: Man in court charged with sister's murder]]></title>
             <description><![CDATA[Matthew Selby, 19, was at Llandudno magistrates court charged with the murder at a holiday park.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58068097</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58068097</guid>
             <pubDate>Tue, 03 Aug 2021 11:07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drug deaths in England and Wales highest since 1993]]></title>
+            <description><![CDATA[In total, 4,561 deaths related to drug poisoning were registered in England and Wales last year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58070848</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58070848</guid>
+            <pubDate>Tue, 03 Aug 2021 11:45:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Matt Damon says he has never personally used gay slur]]></title>
@@ -205,6 +198,13 @@
             <pubDate>Mon, 02 Aug 2021 23:58:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ever Given: 'We're all interested to see how big it is']]></title>
+            <description><![CDATA[Onlookers have come from far and wide to see the huge container ship come in to dock.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58071519</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58071519</guid>
+            <pubDate>Tue, 03 Aug 2021 12:24:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Behind-the-scenes battles over amber watchlist]]></title>
             <description><![CDATA[Cabinet divisions over international travel rules spilled out into the open this week, writes Adam Fleming.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58072985</link>
@@ -303,11 +303,18 @@
             <pubDate>Tue, 03 Aug 2021 13:11:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Jamaica's Elaine Thompson-Herah takes gold in 200m final]]></title>
-            <description><![CDATA[Elaine Thompson-Herah confirmed her place among the pantheon of sprint greats as she secured an unprecedented women's 100m-200m double-double with a sensational victory in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58075391</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58075391</guid>
-            <pubDate>Tue, 03 Aug 2021 13:31:56 GMT</pubDate>
+            <title><![CDATA[Sinckler free to play in third Lions Test after citing dismissed]]></title>
+            <description><![CDATA[A citing against British and Irish Lions prop Kyle Sinckler for an alleged bite in the second Test against South Africa has been dismissed.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58073121</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58073121</guid>
+            <pubDate>Tue, 03 Aug 2021 13:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Team GB's Keely Hodgkinson wins silver in 800m final]]></title>
+            <description><![CDATA[Nineteen-year-old Keely Hodgkinson wins 800m silver for Team GB at the Tokyo Olympics, breaking Dame Kelly Holmes British record with a time of one minute 55.88 seconds.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58075703</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58075703</guid>
+            <pubDate>Tue, 03 Aug 2021 13:49:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kennys both win silver medals as Jason becomes GB's most decorated Olympian]]></title>
@@ -324,25 +331,11 @@
             <pubDate>Tue, 03 Aug 2021 10:49:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Team GB win thrilling sailing gold on the line against Germany in 49er]]></title>
-            <description><![CDATA[Team GB's Dylan Fletcher and Stuart Bithell win sailing gold in a thrilling race for the line against Germany in the 49er medal race.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58067567</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58067567</guid>
-            <pubDate>Tue, 03 Aug 2021 05:53:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biles 'proud' after Olympic beam bronze on emotional return]]></title>
-            <description><![CDATA[Simone Biles wins bronze in the beam final in an emotional return to Olympic gymnastics competition.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58069211</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58069211</guid>
-            <pubDate>Tue, 03 Aug 2021 10:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gatland makes sweeping changes for third Lions Test]]></title>
-            <description><![CDATA[British and Irish Lions head coach Warren Gatland makes sweeping changes to his matchday squad for Saturday's decisive third Test against South Africa.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58072518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58072518</guid>
-            <pubDate>Tue, 03 Aug 2021 12:17:57 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Jamaica's Elaine Thompson-Herah takes gold in 200m final]]></title>
+            <description><![CDATA[Elaine Thompson-Herah confirmed her place among the pantheon of sprint greats as she secured an unprecedented women's 100m-200m double-double with a sensational victory in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58075391</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58075391</guid>
+            <pubDate>Tue, 03 Aug 2021 13:31:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB and Denmark collide in men's team pursuit]]></title>
@@ -356,7 +349,7 @@
             <description><![CDATA[Elaine Thompson-Herah confirms her place among the pantheon of sprint greats as she secured an unprecedented women's 100m-200m 'double-double' with a sensational victory over the longer distance in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58069612</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58069612</guid>
-            <pubDate>Tue, 03 Aug 2021 13:04:20 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 14:00:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simone Biles: USA gymnast returns at Tokyo Olympics with strong performance in beam final]]></title>

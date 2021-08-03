@@ -1,7 +1,7 @@
 1. [Covid-19: Amber watchlist travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - Government sources say they have dropped proposals for a new category in the traffic light system.
 2. [Covid-19: Behind-the-scenes battles over amber watchlist](https://www.bbc.co.uk/news/uk-politics-58072985) - Cabinet divisions over international travel rules spilled out into the open this week, writes Adam Fleming.
 3. [Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting](https://www.bbc.co.uk/news/uk-politics-58073145) - Svetlana Tikhanovskaya says she has been assured of further UK support, amid a crackdown on dissent.
-4. [Covd in Scotland: Most restrictions to end from 9 August](https://www.bbc.co.uk/news/uk-scotland-58057380) - Social distancing no longer be required in most locations - but the wearing of face coverings will continue.
+4. [Covid in Scotland: Most restrictions to end from 9 August](https://www.bbc.co.uk/news/uk-scotland-58057380) - Social distancing will no longer be required in most locations - but the wearing of face coverings will continue.
 5. [Rishi Sunak warns young home working may hurt their career](https://www.bbc.co.uk/news/business-58068998) - The chancellor says being in the office helped him build strong relationships when he started out.
 6. [Ministers reject calls to lower state pension age to 60](https://www.bbc.co.uk/news/uk-politics-58070099) - The government says lowering the state pension age is not fair or affordable for taxpayers.
 7. [Labour: Tories must come clean over elite donors](https://www.bbc.co.uk/news/uk-politics-58055642) - Newspaper reports say party donors were given access to the PM and chancellor for their contributions.

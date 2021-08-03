@@ -1,4 +1,4 @@
-1. [Covd in Scotland: Most restrictions to end from 9 August](https://www.bbc.co.uk/news/uk-scotland-58057380) - Social distancing no longer be required in most locations - but the wearing of face coverings will continue.
+1. [Covid in Scotland: Most restrictions to end from 9 August](https://www.bbc.co.uk/news/uk-scotland-58057380) - Social distancing will no longer be required in most locations - but the wearing of face coverings will continue.
 2. [Covid in Scotland: Self-isolation of whole classes 'no longer routine'](https://www.bbc.co.uk/news/uk-scotland-58073215) - Nicola Sturgeon says secondary school pupils will be still be required to wear face coverings in classrooms.
 3. [Scotland's growing sewage spill problem](https://www.bbc.co.uk/news/uk-scotland-58040852) - The number of overspills into rivers and seas has risen by 40% in five years as pressure mounts on the sewer network.
 4. [Grandfather lands 'biggest ever cod' in Scottish waters](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58057906) - The fish caught off Shetland weighed in at 49lbs (22kg) and left 60-year-old Tony Urwin "shattered".
