@@ -1,4 +1,4 @@
-1. [Afghanistan: Street fighting rages as Taliban attack key city](https://www.bbc.co.uk/news/world-asia-58051481) - The militants are battling to take control of a provincial capital for the first time in years.
+1. [Afghanistan: General says Taliban gains threaten global security](https://www.bbc.co.uk/news/world-asia-58068299) - An Afghan general warns of devastating consequences if the Taliban win their fight against government forces.
 2. [Wuhan: Chinese city to test entire population after virus resurfaces](https://www.bbc.co.uk/news/world-asia-china-58066744) - The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.
 3. [Qantas stands down 2,500 staff over Sydney lockdown](https://www.bbc.co.uk/news/world-australia-58066390) - The airline says it expects Australia's largest city to be closed for at least two more months.
 4. [Shares slide after China brands online games 'electronic drugs'](https://www.bbc.co.uk/news/business-58066659) - In recent months Beijing has cracked down on China's technology and private education industries.

@@ -24,5 +24,5 @@
 24. ['Y Rhyl yn un o'r trefi mwyaf treisgar a difreintiedig'](https://www.bbc.co.uk/newyddion/58059819) - Ymdrechion yn Y Rhyl i adfer parch a disgyblaeth yn sgil ymchwil sy'n dweud ei bod yn dref dreisgar a difreintiedig.
 25. [Dynes â llosgiadau difrifol yn graddio i helpu eraill](https://www.bbc.co.uk/newyddion/58061370) - Fe wnaeth Catrin Pugh ddioddef llosgiadau ar 96% o'i chorff mewn damwain bws yn yr Alpau yn 2013.
 26. [Adfywiad Cei Llechi Caernarfon yn 'dipyn o sioe'](https://www.bbc.co.uk/newyddion/58026948) - Mae prosiect adfywio'r safle hanesyddol wedi ei gwblhau gan ddynodi pennod newydd i'r dref.
-27. [Oriel: Gig Eisteddfod Gudd](https://www.bbc.co.uk/newyddion/58055724) - Blas o benwythnos o gerddoriaeth fyw wnaeth agor yr Eisteddfod AmGen.
+27. [Y recordiau prin (a gwerthfawr!) Cymraeg](https://www.bbc.co.uk/newyddion/58016283) - Y casglwr recordiau Rhys Lloyd Jones sy'n sôn am yr albymau hen a newydd sydd werth eu cadw.
 28. [Abertawe yn penodi Russell Martin yn brif hyfforddwr](https://www.bbc.co.uk/newyddion/58034032) - Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.
