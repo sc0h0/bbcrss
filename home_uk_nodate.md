@@ -7,7 +7,7 @@
 7. [Aya Hachem: Seven men guilty of drive-by shooting murder](https://www.bbc.co.uk/news/uk-england-lancashire-58077841) - Innocent passer-by Aya Hachem, 19, was shot dead in a feud between two Blackburn tyre firm owners.
 8. [Streatham terror attack: Sudesh Amman 'wanted to kill the Queen'](https://www.bbc.co.uk/news/uk-england-london-58070758) - Sudesh Amman stabbed two people in south London only days after being released from prison.
 9. [Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting](https://www.bbc.co.uk/news/uk-politics-58073145) - Svetlana Tikhanovskaya says she has been assured of further UK support, amid a crackdown on dissent.
-10. [Drug deaths in England and Wales highest since 1993](https://www.bbc.co.uk/news/uk-58070848) - In total, 4,561 deaths related to drug poisoning were registered in England and Wales last year.
+10. [Ever Given: Cargo ship that blocked Suez Canal arrives in Felixstowe](https://www.bbc.co.uk/news/uk-england-suffolk-58078100) - The Ever Given docks at the Port of Felixstowe months after it was originally due to arrive.
 11. [Drug dealers jailed after getting car stuck in trolley bay](https://www.bbc.co.uk/news/uk-england-oxfordshire-58077099) - Police found the men with crack cocaine and heroin after they crashed at a Morrison's supermarket.
 12. [Alderney couple 'overwhelmed' by support after homophobic abuse](https://www.bbc.co.uk/news/world-europe-guernsey-58069185) - Supportive letters are sent from around the world after an Alderney couple get homophobic abuse.
 13. ['Witnessing my mum be abused by her ex-partner'](https://www.bbc.co.uk/news/uk-58063101) - Betty Harper, 19, wrote a song the night her mum, Natasha, was beaten by her then-partner.
