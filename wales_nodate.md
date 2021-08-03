@@ -2,11 +2,11 @@
 2. [Shops and schools proposed for council election pilots in Wales](https://www.bbc.co.uk/news/uk-wales-politics-58060044) - Could voting with your weekly shop boost turnout at next year's council elections?
 3. [Abergele: Man charged with murder of girl, 15, at holiday park](https://www.bbc.co.uk/news/uk-wales-58050226) - A 15-year-old girl died following a "domestic disturbance" at a holiday park on Saturday.
 4. [French Alps coach crash survivor graduates on mission to help others](https://www.bbc.co.uk/news/uk-wales-58059974) - Only the soles of Catrin Pugh's feet were not burnt when her coach crashed and burst into flames.
-5. [Bridgend river death: Boy, 5, named as Logan Mwangi](https://www.bbc.co.uk/news/uk-wales-58049509) - Three people are arrested on suspicion of murder after Logan Mwangi, also known as Williamson, died.
-6. [Falling tree causes 'significant damage' to Powys house](https://www.bbc.co.uk/news/uk-wales-58063673) - No-one was hurt in the incident on Monday evening, Mid and West Wales Fire and Rescue Service says.
-7. [I'm a Celebrity...Get Me Out Here! to return to Wales in 2021](https://www.bbc.co.uk/news/uk-wales-58053077) - The 21st series of the hit ITV reality show is set to return to Gwrych Castle in November.
+5. [Strata Florida: Exhibition tracks rural life in Ceredigion](https://www.bbc.co.uk/news/uk-wales-58061893) - Mynachlog Fawr in 30 Objects aims to give a "vivid glimpse" into rural life through the ages.
+6. [Bridgend river death: Boy, 5, named as Logan Mwangi](https://www.bbc.co.uk/news/uk-wales-58049509) - Three people are arrested on suspicion of murder after Logan Mwangi, also known as Williamson, died.
+7. [Falling tree causes 'significant damage' to Powys house](https://www.bbc.co.uk/news/uk-wales-58063673) - No-one was hurt in the incident on Monday evening, Mid and West Wales Fire and Rescue Service says.
 8. [Hay director Peter Florence quits as gross misconduct claim upheld](https://www.bbc.co.uk/news/uk-wales-58060304) - Peter Florence was suspended in October following an internal complaint against him.
-9. [Disability: Paralysed woman to swim English Channel](https://www.bbc.co.uk/news/uk-wales-58025736) - Paula Craig, 58, is one of a relay team aiming to complete the 21-mile swim to France.
+9. [I'm a Celebrity...Get Me Out Here! to return to Wales in 2021](https://www.bbc.co.uk/news/uk-wales-58053077) - The 21st series of the hit ITV reality show is set to return to Gwrych Castle in November.
 10. [Coin marks 150 years since Alice in Wonderland sequel](https://www.bbc.co.uk/news/uk-wales-58053780) - The Alice in Wonderland themed £5 coin celebrates 150 years since Lewis Carroll's famous tales.
 11. [Covid-19: First people arriving into UK after rules relaxed for fully jabbed](https://www.bbc.co.uk/news/uk-58050538) - People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.
 12. [Cardiff Airport: New flight service to Edinburgh to start](https://www.bbc.co.uk/news/uk-wales-58049504) - They will be the first flights linking Cardiff and Edinburgh since Flybe collapsed last year.
