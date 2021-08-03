@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 11:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 11:23:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -202,7 +202,14 @@
             <description><![CDATA[British and Irish Lions head coach Warren Gatland makes sweeping changes to his matchday squad for Saturday's decisive third Test against South Africa.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58072518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58072518</guid>
-            <pubDate>Tue, 03 Aug 2021 11:04:52 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 11:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Katie Archibald, Jack Carlin and Neah Evans eye Paris gold after Tokyo silvers]]></title>
+            <description><![CDATA[Scotland's Katie Archibald, Jack Carlin and Neah Evans set their sights on gold in Paris 2024 after having to settle for silver in Tokyo on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58070727</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58070727</guid>
+            <pubDate>Tue, 03 Aug 2021 11:21:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Silver for GB in women's team pursuit as Germany set world record again]]></title>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/football/58065246</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58065246</guid>
             <pubDate>Mon, 02 Aug 2021 21:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Rangers, Celtic, Alegria, Jones, Crystal Palace, Wigan, Scales, Banks, Shamrock Rovers, St Johnstone, Galatasaray]]></title>
-            <description><![CDATA[Rangers reportedly close in on Colombia youth striker Juan Alegria as Celtic make a move for Shamrock Rovers defender Liam Scales.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58068506</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58068506</guid>
-            <pubDate>Tue, 03 Aug 2021 07:47:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

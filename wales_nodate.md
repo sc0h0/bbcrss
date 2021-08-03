@@ -23,6 +23,6 @@
 23. [Michael Wilde: Striker leaves Connah's Quay Nomads](https://www.bbc.co.uk/sport/football/58070678) - Striker Michael Wilde leaves Connah's Quay Nomads following the expiry of his contract.
 24. [Dyn o flaen llys ar gyhuddiad o lofruddio'i chwaer](https://www.bbc.co.uk/newyddion/58071638) - Matthew Selby, 19, wedi'i gyhuddo o ladd ei chwaer Amanda, 15, mewn parc carafanau ger Abergele.
 25. [Dynes â llosgiadau difrifol yn graddio i helpu eraill](https://www.bbc.co.uk/newyddion/58061370) - Fe wnaeth Catrin Pugh ddioddef llosgiadau ar 96% o'i chorff mewn damwain bws yn yr Alpau yn 2013.
-26. [Medal arian Olympaidd i Elinor Barker](https://www.bbc.co.uk/newyddion/58070478) - Y Gymraes yn cipio medal arian fel aelod o dîm seiclo ymlid Prydain yn Tokyo.
+26. [Chwech o Gymru yn nhîm y Llewod i'r prawf olaf](https://www.bbc.co.uk/newyddion/58070479) - Llu o newidiadau i'r Llewod wrth baratoi am y prawf olaf tyngedfennol yn erbyn De Affrica.
 27. [Y recordiau prin (a gwerthfawr!) Cymraeg](https://www.bbc.co.uk/newyddion/58016283) - Y casglwr recordiau Rhys Lloyd Jones sy'n sôn am yr albymau hen a newydd sydd werth eu cadw.
-28. [Abertawe yn penodi Russell Martin yn brif hyfforddwr](https://www.bbc.co.uk/newyddion/58034032) - Yr Elyrch wedi penodi cyn-reolwr MK Dons yn dilyn ymadawiad Steve Cooper.
+28. [Medal arian Olympaidd i Elinor Barker](https://www.bbc.co.uk/newyddion/58070478) - Y Gymraes yn cipio medal arian fel aelod o dîm seiclo ymlid Prydain yn Tokyo.

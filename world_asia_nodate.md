@@ -2,7 +2,7 @@
 2. [Wuhan: Chinese city to test entire population after virus resurfaces](https://www.bbc.co.uk/news/world-asia-china-58066744) - The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.
 3. [Qantas stands down 2,500 staff over Sydney lockdown](https://www.bbc.co.uk/news/world-australia-58066390) - The airline says it expects Australia's largest city to be closed for at least two more months.
 4. [Shares slide after China brands online games 'electronic drugs'](https://www.bbc.co.uk/news/business-58066659) - In recent months Beijing has cracked down on China's technology and private education industries.
-5. [England v India: Visitors look for redemption as Test series begins](https://www.bbc.co.uk/news/world-asia-india-58053404) - India have lost their last three Test series in England, but they are eager to write a new future.
+5. [England v India: Visitors look for redemption as Test series begins](https://www.bbc.co.uk/news/world-asia-india-58053404) - India have lost their last three Test series in England, but they are eager to script a new future.
 6. [Tokyo Olympics: Chinese nationalists turn on their athletes](https://www.bbc.co.uk/news/world-asia-china-58024068) - To ultra-nationalists online, losing an Olympic medal is being "unpatriotic", experts say.
 7. [Covid vaccine inequity 'completely unacceptable and unethical'](https://www.bbc.co.uk/news/world-asia-58067686) - Rich countries need to do more to give vaccines to poor countries, says top WHO adviser Helen Clark.
 8. [Finance firms plan to close coal plants in Asia](https://www.bbc.co.uk/news/business-58066660) - The Asian Development Bank aims to have the plan ready for the COP26 climate conference in November.
