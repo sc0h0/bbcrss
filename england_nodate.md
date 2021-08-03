@@ -7,8 +7,8 @@
 7. [Joe Anderson: Liverpool council must reconsider paying legal fees](https://www.bbc.co.uk/news/uk-england-merseyside-58056148) - Former Liverpool mayor Joe Anderson is being investigated for bribery and witness intimidation.
 8. [Brands Hatch: Robert Foote named as marshal killed in crash](https://www.bbc.co.uk/news/uk-england-kent-58059534) - Former mayor Robert Foote has been named locally as the man who died in a crash at the race circuit.
 9. [Tewkesbury PE teacher struck off for faked pupil sports course certificates](https://www.bbc.co.uk/news/uk-england-gloucestershire-58062373) - The teacher who worked at a special school in Gloucestershire did not submit any pupils' work.
-10. [Stonehenge: Brian May finds oldest family photo](https://www.bbc.co.uk/news/uk-england-wiltshire-58058188) - The image dating back to the 1860s was found in the collection of Queen guitarist Brian May.
-11. ['Hot Fuzz' Hardwick swan detained for blocking traffic](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58069355) - The "angry" bird is taken into police custody after "swanning around" a busy road, police say.
+10. ['Hot Fuzz' Hardwick swan detained for blocking traffic](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58069355) - The "angry" bird is taken into police custody after "swanning around" a busy road, police say.
+11. [Record number of Cornish choughs fledge](https://www.bbc.co.uk/news/uk-england-cornwall-58070518) - Sixty-six choughlets, or young choughs, have fledged this year from 23 breeding pairs.
 12. [Why bonding over the Euros appeared to increase Covid cases in men](https://www.bbc.co.uk/news/health-58015593) - Psychologists say men need to be part of a group in order to vent their feelings and emotions.
 13. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
 14. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
