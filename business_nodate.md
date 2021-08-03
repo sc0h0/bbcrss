@@ -13,7 +13,7 @@
 13. [Banking giant HSBC sees first half profit more than double](https://www.bbc.co.uk/news/business-58051818) - The UK-based firm said the jump in profits was driven by an economic rebound in Britain and Hong Kong.
 14. [Afterpay: Jack Dorsey's Square in Australia's biggest buyout](https://www.bbc.co.uk/news/business-58051815) - The $29bn deal for Afterpay will create an instalments payment giant in a hugely growing sector.
 15. [Hollywood plans £700m film and TV studios in Hertfordshire](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58029042) - Developers say the site could contribute £300m a year to the local economy and create 4,500 jobs.
-16. [Corporate fraud: The dark side of business](https://www.bbc.co.uk/news/business-58026162) - Twenty years on from the collapse of Enron, are the rules preventing corporate fraud tough enough?
+16. [The collapse of Enron and the dark side of business](https://www.bbc.co.uk/news/business-58026162) - Twenty years on from the collapse of Enron, are the rules preventing corporate fraud tough enough?
 17. [Finding answers to the world's drinking water crisis](https://www.bbc.co.uk/news/business-57847654) - Scientists are racing to come up with technologies that can solve the world's clean water shortage.
 18. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
 19. ['My bakery lets you take a bite out of celebs'](https://www.bbc.co.uk/news/business-57865991) - Funny Face Bakery shot to fame when Kris Jenner and Kim Kardashian posted about its cookies.

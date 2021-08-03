@@ -1,6 +1,6 @@
-1. [Levelling up: The seaside town fighting violence and frustration](https://www.bbc.co.uk/news/uk-58029524) - Can the government's "levelling up" agenda help one of the most violent towns in England and Wales?
-2. [Shops and schools proposed for council election pilots in Wales](https://www.bbc.co.uk/news/uk-wales-politics-58060044) - Could voting with your weekly shop boost turnout at next year's council elections?
-3. [Abergele: Man charged with murder of girl, 15, at holiday park](https://www.bbc.co.uk/news/uk-wales-58050226) - A 15-year-old girl died following a "domestic disturbance" at a holiday park on Saturday.
+1. [Abergele: Man in court charged with sister's murder](https://www.bbc.co.uk/news/uk-wales-58068097) - Matthew Selby, 19, appeared at Llandudno magistrates court on Wednesday morning charged with the murder at a holiday park.
+2. [Levelling up: The seaside town fighting violence and frustration](https://www.bbc.co.uk/news/uk-58029524) - Can the government's "levelling up" agenda help one of the most violent towns in England and Wales?
+3. [Shops and schools proposed for council election pilots in Wales](https://www.bbc.co.uk/news/uk-wales-politics-58060044) - Could voting with your weekly shop boost turnout at next year's council elections?
 4. [French Alps coach crash survivor graduates on mission to help others](https://www.bbc.co.uk/news/uk-wales-58059974) - Only the soles of Catrin Pugh's feet were not burnt when her coach crashed and burst into flames.
 5. [Strata Florida: Exhibition tracks rural life in Ceredigion](https://www.bbc.co.uk/news/uk-wales-58061893) - Mynachlog Fawr in 30 Objects aims to give a "vivid glimpse" into rural life through the ages.
 6. [Bridgend river death: Boy, 5, named as Logan Mwangi](https://www.bbc.co.uk/news/uk-wales-58049509) - Three people are arrested on suspicion of murder after Logan Mwangi, also known as Williamson, died.
