@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Aug 2021 16:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 17:29:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,21 @@
             <description><![CDATA[The investigation comes months after several women accused Andrew Cuomo of sexual misconduct.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58077255</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58077255</guid>
-            <pubDate>Tue, 03 Aug 2021 16:14:54 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 17:11:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan fighting traps terrified Lashkar Gah residents]]></title>
-            <description><![CDATA[Afghans tell of corpses on the roads as they try to flee fighting for control of Lashkar Gah.]]></description>
+            <title><![CDATA[Afghanistan war: Bodies on the streets as fighting traps Lashkar Gah residents]]></title>
+            <description><![CDATA[Terrified locals are fleeing if they can as the Taliban and troops battle to control Lashkar Gah.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58074525</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58074525</guid>
-            <pubDate>Tue, 03 Aug 2021 15:02:04 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 17:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Warning of 'potential hijack' of ship under way off UAE coast]]></title>
+            <description><![CDATA[UK officials advise shipping vessels in the Gulf of Oman to be cautious but have not given details.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58078506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58078506</guid>
+            <pubDate>Tue, 03 Aug 2021 17:19:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58065313</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58065313</guid>
             <pubDate>Tue, 03 Aug 2021 16:33:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neanderthal markings in Spain suggest cave art, study says]]></title>
-            <description><![CDATA[Red stains found in caves in Spain were created more than 60,000 years ago, researchers say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58070141</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58070141</guid>
-            <pubDate>Tue, 03 Aug 2021 11:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Elaine Thompson-Herah completes unprecedented 'double-double']]></title>
@@ -72,6 +72,13 @@
             <pubDate>Tue, 03 Aug 2021 16:54:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Neanderthal markings in Spain suggest cave art, study says]]></title>
+            <description><![CDATA[Red stains found in caves in Spain were created more than 60,000 years ago, researchers say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58070141</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58070141</guid>
+            <pubDate>Tue, 03 Aug 2021 11:27:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sheikh Jarrah: Palestinians and Israelis baulk at evictions compromise]]></title>
             <description><![CDATA[A plan to end a long-running saga which has fuelled Israel-Palestinian tensions faces rejection.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58024060</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58065318</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58065318</guid>
             <pubDate>Tue, 03 Aug 2021 12:55:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wuhan: Chinese city to test entire population after virus resurfaces]]></title>
-            <description><![CDATA[The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58066744</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58066744</guid>
-            <pubDate>Tue, 03 Aug 2021 06:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Chinese nationalists turn on their athletes]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Mon, 02 Aug 2021 23:27:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ever Given: Ship docks in Felixstowe after Suez Canal delay]]></title>
+            <description><![CDATA[The Ever Given reaches UK shores after being delayed when it ran aground in the Suez Canal, Egypt.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58078730</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58078730</guid>
+            <pubDate>Tue, 03 Aug 2021 15:56:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo 2020: A parent's plea in the shadow of the Olympics]]></title>
             <description><![CDATA[This dad is drawing attention to what he calls the kidnapping of children by their own parents in Japan.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58057432</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-58056949</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58056949</guid>
             <pubDate>Mon, 02 Aug 2021 10:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey: People flee popular tourist spots to escape wildfires]]></title>
-            <description><![CDATA[Footage has emerged showing people fleeing the deadly fires which have engulfed parts of Turkey.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58051746</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58051746</guid>
-            <pubDate>Mon, 02 Aug 2021 02:25:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simone Biles wins Tokyo Olympics beam bronze on emotional return]]></title>
