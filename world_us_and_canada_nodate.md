@@ -2,7 +2,7 @@
 2. [Covid third wave: Americans 'scared and angry' as pandemic worsens](https://www.bbc.co.uk/news/world-us-canada-58014719) - As the Delta variant causes a rethink about risk, Americans are battling to keep a feeling of normalcy.
 3. [Goldman Sachs raises banker pay after 95-hour week complaint](https://www.bbc.co.uk/news/business-58054983) - The pay rise comes as top city banker says young recruits should stop moaning about long hours.
 4. [Official recommends rerun in Amazon union fight](https://www.bbc.co.uk/news/technology-58065874) - A National Labor Relations Board official wants another union vote for Amazon workers in Alabama.
-5. [CDC director Rochelle Walensky says vaccines worked in Provincetown](https://www.bbc.co.uk/news/world-us-canada-58065854) - CDC director Rochelle Walensky says vaccines protected Provincetown amid an "immense amount of exposure".
+5. [CDC director Rochelle Walensky says vaccines worked in Provincetown](https://www.bbc.co.uk/news/world-us-canada-58065854) - Rochelle Walensky says vaccines protected Provincetown amid an "immense amount of exposure".
 6. [Kathy Griffin: US comedian has surgery after lung cancer diagnosis](https://www.bbc.co.uk/news/entertainment-arts-58061672) - Kathy Griffin is having half of her left lung removed, saying "doctors are very optimistic".
 7. [Anthony Barajas: US TikToker dies after 'unprovoked' cinema shooting](https://www.bbc.co.uk/news/newsbeat-58054216) - The suspected shooter, Joseph Jimenez, 20, appeared in Riverside County Superior Court on Friday.
 8. [Matt Damon's daughter stopped him using a gay slur](https://www.bbc.co.uk/news/entertainment-arts-58053709) - The actor vowed to never use term again after his daughter explained to him why it was unacceptable.
