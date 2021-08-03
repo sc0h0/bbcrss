@@ -35,7 +35,7 @@
 35. [EastEnders: 'I was ignorant about my schizophrenia'](https://www.bbc.co.uk/news/newsbeat-57986350) - Antonio Ferreira is using his personal experience to advise the soap on a storyline.
 36. [Why bonding over the Euros appeared to increase Covid cases in men](https://www.bbc.co.uk/news/health-58015593) - Psychologists say men need to be part of a group in order to vent their feelings and emotions.
 37. [Then and now: The burning issue of wildfires](https://www.bbc.co.uk/news/science-environment-57946155) - Scientists are increasingly concerned climate change is making fires more frequent and more intense.
-38. [GB's McCormack wins boxing silver](https://www.bbc.co.uk/sport/olympics/58066789) - Pat McCormack is unable to become Great Britain's first boxing gold medallist at Tokyo 2020 after losing in the men's welterweight.
+38. [GB's McCormack wins boxing silver](https://www.bbc.co.uk/sport/olympics/58066789) - Pat McCormack wins a silver medal for Great Britain after losing a hard-fought men's welterweight contest to Cuba's Roniel Iglesias in Tokyo.
 39. [Kennys both win silver medals as Jason becomes GB's most decorated Olympian](https://www.bbc.co.uk/sport/olympics/58069120) - Jason Kenny becomes Great Britain's most decorated Olympian as team sprint silver brings an eighth medal after wife Laura takes team pursuit silver.
 40. [Biles 'proud' after Olympic beam bronze on emotional return](https://www.bbc.co.uk/sport/olympics/58069211) - Simone Biles wins bronze in the beam final in an emotional return to Olympic gymnastics competition.
 41. [Chelsea £85m bid for Inter's Lukaku rejected](https://www.bbc.co.uk/sport/football/58068429) - Inter Milan reject Chelsea's £85m bid for striker Romelu Lukaku.
