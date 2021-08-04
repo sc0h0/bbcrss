@@ -1,5 +1,5 @@
-1. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
-2. [Belarus sprinter Krystina Timanovskaya says protest is not political](https://www.bbc.co.uk/news/world-europe-58065318) - Olympian Krystina Timanovskaya tells the BBC she would like to return home "when I know it's safe".
+1. [Belarus sprinter Krystina Timanovskaya to leave Tokyo for Poland](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya took refuge in the Polish embassy after refusing to board a flight to Belarus.
+2. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
 3. [Neanderthal markings in Spain suggest cave art, study says](https://www.bbc.co.uk/news/world-europe-58070141) - Red stains found in caves in Spain were created more than 60,000 years ago, researchers say.
 4. [German pensioner given hefty fine for WW2 tank in house](https://www.bbc.co.uk/news/world-europe-58077039) - The 82 year old is given a suspended sentence and fined €250,000 (£213,469).
 5. [Tokyo 2020: 'You can take our flag but not our love for Russia'](https://www.bbc.co.uk/news/world-58063003) - Russia may be banned from the Olympics, but Russians are still winning medals – and rivals aren't happy.
