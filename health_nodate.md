@@ -1,4 +1,4 @@
-1. [Covid vaccine set to be offered to 16 and 17-year-olds](https://www.bbc.co.uk/news/uk-58080232) - More than one million teenagers would be included in a new rollout if ministers accept expert advice.
+1. [Covid: Jabs for 16 and 17-year-olds to start within weeks](https://www.bbc.co.uk/news/uk-58091693) - About 1.4 million more teenagers will be eligible for the Pfizer vaccine and will not need parental consent.
 2. [Long-lasting Covid-19 symptoms rare in children](https://www.bbc.co.uk/news/health-58071898) - Children who become ill with coronavirus mostly recover in less than a week, research suggests.
 3. [China Covid: China targets school students to control case surge](https://www.bbc.co.uk/news/world-asia-china-58052902) - Authorities in China are scrambling to control the spread of the virus by ramping up testing and vaccinations.
 4. [NHS Covid-19 app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
