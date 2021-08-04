@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 09:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 09:33:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,6 +79,13 @@
             <pubDate>Tue, 03 Aug 2021 15:08:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cairngorms eagle chicks fitted with new type of tag]]></title>
+            <description><![CDATA[Conservationists say the devices will provide more detailed and accurate information on the birds' movements.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58086020</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58086020</guid>
+            <pubDate>Wed, 04 Aug 2021 09:18:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Drugs minister promises action on 'national shame']]></title>
             <description><![CDATA[Angela Constance says it is a priority but remains non-committal on a Right to Recovery Bill proposed by the Scottish Conservatives.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58065417</link>
@@ -86,18 +93,18 @@
             <pubDate>Tue, 03 Aug 2021 19:00:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Highlands powerline to get first major revamp since 1950s]]></title>
-            <description><![CDATA[The replacement line could potentially be buried underground where it passes Skye's famous Cuillin Hills.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58077661</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58077661</guid>
-            <pubDate>Wed, 04 Aug 2021 05:27:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Would you move to an island for £50,000?]]></title>
             <description><![CDATA[The Scottish government is proposing an Islands Bond to encourage young people to stay or move to the islands.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58070578</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58070578</guid>
             <pubDate>Tue, 03 Aug 2021 12:44:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Highlands powerline to get first major revamp since 1950s]]></title>
+            <description><![CDATA[The replacement line could potentially be buried underground where it passes Skye's famous Cuillin Hills.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58077661</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58077661</guid>
+            <pubDate>Wed, 04 Aug 2021 05:27:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Food fight: The other British bake-off]]></title>

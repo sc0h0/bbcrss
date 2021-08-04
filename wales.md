@@ -24,5 +24,5 @@
 24. ['Symud at gyfrifoldeb personol' os fydd llacio pellach](https://www.bbc.co.uk/newyddion/58078760) - Wed, 04 Aug 2021 05:35:19 GMT - Prif swyddog meddygol yn galw ar bobl i ymddwyn yn "synhwyrol" os fydd rheolau Covid yn llacio ar 7 Awst.
 25. ['20,000 o dai cymdeithasol i'w rhentu erbyn 2026'](https://www.bbc.co.uk/newyddion/58078761) - Wed, 04 Aug 2021 05:54:45 GMT - Disgwyl manylion cynlluniau i fynd i'r afael â phrinder tai ac allyriadau tŷ gwydr yng Nghymru.
 26. [Aur i Hannah Mills yn yr hwylio yn Tokyo](https://www.bbc.co.uk/newyddion/58084682) - Wed, 04 Aug 2021 07:51:10 GMT - Y Gymraes bellach ydy'r hwylwraig fwyaf llwyddiannus erioed o Brydain yn y Gemau Olympaidd.
-27. [Lluniau Cymro tu ôl i'r camera yn yr Olympau](https://www.bbc.co.uk/newyddion/58074325) - Tue, 03 Aug 2021 14:54:22 GMT - Mae Siôn Dafydd Palmer yn rhannu ei brofiad o ffilmio yn Gemau Olympaidd Tokyo yn ystod cyfnod Covid
+27. [Bardd y Mis: Pum munud gyda Derec Llwyd Morgan](https://www.bbc.co.uk/newyddion/57902974) - Wed, 04 Aug 2021 09:18:00 GMT - Ambell gwestiwn i ddod i adnabod Bardd y Mis Radio Cymru.
 28. [Y Llewod yn mentro er mwyn llwyddo ar y cymal olaf](https://www.bbc.co.uk/newyddion/58075694) - Wed, 04 Aug 2021 06:18:44 GMT - Y Springboks yw'r ffefrynnau o drwch blewyn, ond da chi, peidiwch â diystyru'r Llewod o dan Gatland.
