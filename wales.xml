@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 20:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 21:04:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Self-isolation payment raised to £750 in Wales]]></title>
+            <description><![CDATA[Grants for people on low pay in Wales and told to self-isolate will increase by £250 from this weekend.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-58093465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-58093465</guid>
+            <pubDate>Wed, 04 Aug 2021 21:00:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Holiday park murder accused in court amid tributes to Amanda Selby]]></title>
             <description><![CDATA[Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Wed, 04 Aug 2021 12:31:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lee Collins: Yeovil Town captain's death was suicide, records coroner]]></title>
-            <description><![CDATA[An inquest heard Yeovil Town captain Lee Collins also had drugs and alcohol in his system.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-58090985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-58090985</guid>
-            <pubDate>Wed, 04 Aug 2021 17:46:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Heavy rain and thunderstorm warning extended in Wales]]></title>
             <description><![CDATA[Met Office warn of rain on Wednesday and thunderstorms on Friday across parts of Wales.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58087494</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58089062</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58089062</guid>
             <pubDate>Wed, 04 Aug 2021 12:58:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lee Collins: Yeovil Town captain's death was suicide, records coroner]]></title>
+            <description><![CDATA[An inquest heard Yeovil Town captain Lee Collins also had drugs and alcohol in his system.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-58090985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-58090985</guid>
+            <pubDate>Wed, 04 Aug 2021 17:46:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Hannah Mills' family cheer her to gold]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58078894</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58078894</guid>
             <pubDate>Wed, 04 Aug 2021 14:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marle Hall outdoor centre closure 'heartbreaking']]></title>
-            <description><![CDATA[The stately home on the edge of Snowdonia is "consistently under-utilised", the county council says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58085329</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58085329</guid>
-            <pubDate>Wed, 04 Aug 2021 13:48:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Low carbon house: Green energy saves one resident £100 a month]]></title>
@@ -177,18 +177,18 @@
             <pubDate>Wed, 04 Aug 2021 19:41:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dyfan Lewis yw enillydd Coron Eisteddfod AmGen 2021]]></title>
-            <description><![CDATA[Casgliad o gerddi "trydanol, cyhyrog, deallus" yn cipio Coron y Brifwyl mewn seremoni yng Nghaerdydd.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58089160</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58089160</guid>
-            <pubDate>Wed, 04 Aug 2021 19:30:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bachgen tair oed wedi marw mewn gwrthdrawiad ar fferm]]></title>
             <description><![CDATA[Cafodd yr heddlu eu galw i fferm ger pentref Efailwen yn Sir Gâr nos Fawrth.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58088218</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58088218</guid>
             <pubDate>Wed, 04 Aug 2021 17:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dyfan Lewis yw enillydd Coron Eisteddfod AmGen 2021]]></title>
+            <description><![CDATA[Casgliad o gerddi "trydanol, cyhyrog, deallus" yn cipio Coron y Brifwyl mewn seremoni yng Nghaerdydd.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58089160</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58089160</guid>
+            <pubDate>Wed, 04 Aug 2021 19:30:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Megan Hunter yw Prif Enillydd Gwobr Llyfr y Flwyddyn]]></title>
