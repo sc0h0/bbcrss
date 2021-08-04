@@ -3,7 +3,7 @@
 3. [Migrant Channel crossings: 284 people reach the UK](https://www.bbc.co.uk/news/uk-england-kent-58083490) - The Home Office says the rising number of people making the "dangerous" crossing is unacceptable.
 4. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
 5. [Tokyo Olympics: Italy break world record to win team pursuit gold](https://www.bbc.co.uk/sport/olympics/58085705) - Italy break their own world record to be crowned men's team pursuit Olympic champions for the first time in 61 years at Tokyo 2020.
-6. [German pensioner given hefty fine for WW2 tank in house](https://www.bbc.co.uk/news/world-europe-58077039) - The 82 year old is given a suspended sentence and fined €250,000 (£213,469).
+6. [Three dead in train crash near Czech-German border](https://www.bbc.co.uk/news/world-europe-58083778) - An express train from Munich hits a commuter train near the Czech Republic town of Domazlice.
 7. [Tokyo 2020: 'You can take our flag but not our love for Russia'](https://www.bbc.co.uk/news/world-58063003) - Russia may be banned from the Olympics, but Russians are still winning medals – and rivals aren't happy.
 8. [Tokyo Olympics sparks anti-LGBT slurs on Russian TV](https://www.bbc.co.uk/news/world-europe-58029133) - Gay and transgender athletes in Tokyo have been singled out for abuse on Russian state television.
 9. [Vitaly Shishov: Belarus dissidents who disappeared and died](https://www.bbc.co.uk/news/world-europe-58079461) - For years opponents of Belarus leader Alexander Lukashenko have been hounded - sometimes fatally.
