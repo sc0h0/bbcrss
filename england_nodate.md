@@ -1,4 +1,4 @@
-1. [Covid: Jabs for 16 and 17-year-olds to start within weeks](https://www.bbc.co.uk/news/uk-58091693) - The change in guidance from the UK's vaccine experts affects around 1.4 million teenagers.
+1. [Covid: Jabs for 16 and 17-year-olds to start within weeks](https://www.bbc.co.uk/news/uk-58091693) - About 1.4 million more teenagers will be eligible for the Pfizer vaccine and will not need parental consent.
 2. [Ivi Miley death: Man jailed for killing baby daughter](https://www.bbc.co.uk/news/uk-england-manchester-58089819) - Anthony Miley is jailed for manslaughter after three-month-old Ivi died from catastrophic injuries.
 3. [Streatham terror attack: Sudesh Amman 'told mentor he had changed'](https://www.bbc.co.uk/news/uk-england-london-58090651) - Sudesh Amman convinced two mentors he had changed before stabbing two people, an inquest hears.
 4. [Lee Collins: Yeovil Town captain's death was suicide, records coroner](https://www.bbc.co.uk/news/uk-england-somerset-58090985) - An inquest heard Yeovil Town captain Lee Collins also had drugs and alcohol in his system.

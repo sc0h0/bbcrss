@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 17:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 17:28:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58078053</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58078053</guid>
             <pubDate>Wed, 04 Aug 2021 13:41:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boris Johnson 'not in favour' of drug consumption rooms]]></title>
+            <description><![CDATA[The Scottish government is committed to setting up "safe" consumption facilities - but the prime minister opposes them.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58092735</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58092735</guid>
+            <pubDate>Wed, 04 Aug 2021 17:24:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58089687</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58089687</guid>
             <pubDate>Wed, 04 Aug 2021 14:39:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Boris Johnson to begin two-day visit to Scotland]]></title>
-            <description><![CDATA[The prime minister will not meet Scotland's first minister despite being invited to her official residence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58079390</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079390</guid>
-            <pubDate>Wed, 04 Aug 2021 14:33:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blair Drummond Safari Park cleared over animal welfare allegations]]></title>
@@ -275,11 +275,11 @@
             <pubDate>Wed, 04 Aug 2021 10:48:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Andy Murray gets wildcard for Cincinnati Masters]]></title>
-            <description><![CDATA[Andy Murray is given a wildcard to compete in the Cincinnati Masters later this month.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58060726</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58060726</guid>
-            <pubDate>Wed, 04 Aug 2021 06:59:08 GMT</pubDate>
+            <title><![CDATA[Lawrence Shankland: Belgian club Beerschot bid for Dundee Utd striker]]></title>
+            <description><![CDATA[Dundee United are mulling over an offer from Belgian top-flight side Beerschot for striker Lawrence Shankland.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58089901</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58089901</guid>
+            <pubDate>Wed, 04 Aug 2021 17:21:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
