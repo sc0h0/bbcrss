@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 08:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 08:59:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,25 @@
             <pubDate>Wed, 04 Aug 2021 07:55:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beirut blast: ‘The day our city exploded’]]></title>
+            <description><![CDATA[One year on from the blast that rocked Beirut, no one has yet been made accountable.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58076999</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58076999</guid>
+            <pubDate>Tue, 03 Aug 2021 23:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Selena Gomez criticises latest 'tasteless' TV transplant joke]]></title>
+            <description><![CDATA[The Good Fight is the latest show to reference singer Selena Gomez's 2017 kidney transplant.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58083763</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58083763</guid>
+            <pubDate>Wed, 04 Aug 2021 08:18:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Belarus sprinter Krystina Timanovskaya flies out of Japan]]></title>
             <description><![CDATA[Krystina Timanovskaya refused orders to fly home early and is now en route to Vienna.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58081254</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58081254</guid>
             <pubDate>Wed, 04 Aug 2021 06:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China Covid: China targets school students to control case surge]]></title>
-            <description><![CDATA[Authorities in China are scrambling to control the spread of the virus by ramping up testing and vaccinations.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58052902</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58052902</guid>
-            <pubDate>Wed, 04 Aug 2021 04:05:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Andrew Cuomo: Biden says governor should resign over harassment report]]></title>
@@ -58,18 +65,11 @@
             <pubDate>Tue, 03 Aug 2021 21:20:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beirut blast: ‘The day our city exploded’]]></title>
-            <description><![CDATA[One year on from the blast that rocked Beirut, no one has yet been made accountable.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58076999</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58076999</guid>
-            <pubDate>Tue, 03 Aug 2021 23:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German pensioner given hefty fine for WW2 tank in house]]></title>
-            <description><![CDATA[The 82 year old is given a suspended sentence and fined €250,000 (£213,469).]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58077039</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58077039</guid>
-            <pubDate>Tue, 03 Aug 2021 15:57:11 GMT</pubDate>
+            <title><![CDATA[China Covid: China targets school students to control case surge]]></title>
+            <description><![CDATA[Authorities in China are scrambling to control the spread of the virus by ramping up testing and vaccinations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58052902</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58052902</guid>
+            <pubDate>Wed, 04 Aug 2021 04:05:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel]]></title>
