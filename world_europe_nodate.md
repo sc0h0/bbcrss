@@ -1,4 +1,4 @@
-1. [Belarus sprinter Krystina Timanovskaya lands in Vienna](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya refused orders to fly home early and is set to travel to Warsaw.
+1. [Belarus sprinter Krystina Timanovskaya arrives in Poland](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya was granted a humanitarian visa after she refused orders to fly home early.
 2. [Belarus protests: Trial of opposition figures begins](https://www.bbc.co.uk/news/world-europe-58083672) - Protest organiser Maria Kolesnikova has been charged with threatening national security.
 3. [Greece wildfires force people to flee island by boat](https://www.bbc.co.uk/news/world-europe-58093275) - Scores of people on Evia were forced to evacuate by sea as wildfire spread rapidly, destroying homes.
 4. [Migrant Channel crossings: 281 people reach the UK](https://www.bbc.co.uk/news/uk-england-kent-58083490) - The Home Office says the rising number of people making the "dangerous" crossing is unacceptable.
