@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 14:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 15:18:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid in Scotland: Scotland to begin vaccinating 16 and 17-year-olds]]></title>
+            <description><![CDATA[Nicola Sturgeon says they will be offered the vaccine as soon as possible following advice from the UK advisory body.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58091362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58091362</guid>
+            <pubDate>Wed, 04 Aug 2021 15:14:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid in Scotland: Confusion over 'vertical drinking' rules in pubs]]></title>
             <description><![CDATA[Industry figures say people will be able to drink while standing up in pubs, despite John Swinney saying they will not.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58078053</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58078053</guid>
             <pubDate>Wed, 04 Aug 2021 13:41:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: All 16 and 17-year-olds to be offered jab]]></title>
-            <description><![CDATA[The change in guidance from the UK's vaccine experts affects around 1.4 million teenagers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58091693</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58091693</guid>
-            <pubDate>Wed, 04 Aug 2021 14:47:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -254,6 +254,13 @@
             <pubDate>Wed, 04 Aug 2021 11:38:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[FK Jablonec v Celtic: Ange Postecoglou driving recruitment charge]]></title>
+            <description><![CDATA[Celtic manager Ange Postecoglou says he is driving the club's recruitment as they continue to "push hard" to bolster their squad.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58007178</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58007178</guid>
+            <pubDate>Wed, 04 Aug 2021 14:53:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Joanna Muir on modern pentathlon Olympic hopes]]></title>
             <description><![CDATA[Modern pentathlete Joanna Muir tells BBC Scotland about having to calm horses, sword fighting, and her Olympic hopes.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57841169</link>
@@ -273,13 +280,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/58060726</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58060726</guid>
             <pubDate>Wed, 04 Aug 2021 06:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hibernian v HNK Rijeka: Jack Ross bristles at 'stereotypical' view of Scottish game]]></title>
-            <description><![CDATA[Preview followed by live coverage of Thursday's Europa Conference League game between Hibernian and HNK Rijeka.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58061285</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58061285</guid>
-            <pubDate>Wed, 04 Aug 2021 14:29:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
