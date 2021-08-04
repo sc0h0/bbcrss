@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 10:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 10:38:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,18 +58,18 @@
             <pubDate>Wed, 04 Aug 2021 05:24:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indyref2: Why has the campaign for another vote gone quiet?]]></title>
-            <description><![CDATA[Boris Johnson visits Scotland with no sign an independence referendum will be soon, writes Nick Eardley.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58079551</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079551</guid>
-            <pubDate>Wed, 04 Aug 2021 07:52:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scotland's papers: Freedom 'within sight' but 'mixed feeling' for pubs]]></title>
             <description><![CDATA[The announcement that most restrictions will be lifted in Scotland dominates the front pages.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58081184</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58081184</guid>
             <pubDate>Wed, 04 Aug 2021 07:37:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indyref2: Why has the campaign for another vote gone quiet?]]></title>
+            <description><![CDATA[Boris Johnson visits Scotland with no sign an independence referendum will be soon, writes Nick Eardley.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58079551</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079551</guid>
+            <pubDate>Wed, 04 Aug 2021 07:52:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: How will the rules change on 9 August?]]></title>
@@ -282,11 +282,11 @@
             <pubDate>Wed, 04 Aug 2021 08:13:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish Gossip: Celtic, Buta, Doohan, Rangers, Veerman, Aberdeen, St Johnstone]]></title>
-            <description><![CDATA[Personal terms to be agreed after Celtic agree to sign Royal Antwerp right-back.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58083923</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58083923</guid>
-            <pubDate>Wed, 04 Aug 2021 06:42:44 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Jason Kenny and Jack Carlin progress in men's sprint, Katy Marchant through to keirin quarter-finals]]></title>
+            <description><![CDATA[Jason Kenny starts the defence of his Olympic sprint title with three victories in the opening rounds.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58086075</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58086075</guid>
+            <pubDate>Wed, 04 Aug 2021 10:19:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

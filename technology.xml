@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 10:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 10:36:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[MP Maria Miller wants AI 'nudifying' tool banned]]></title>
+            <description><![CDATA[A website that allows people to undress a photograph in seconds is gaining lots of users.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-57996910</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57996910</guid>
+            <pubDate>Wed, 04 Aug 2021 10:26:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blizzard Entertainment president steps down]]></title>
             <description><![CDATA[J Allen Brack quits the Call of Duty and Warcraft game-maker, amid staff protests and allegations of a sexist workplace culture.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-58051815</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58051815</guid>
             <pubDate>Mon, 02 Aug 2021 02:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zoom settles US class action privacy lawsuit for $86m]]></title>
-            <description><![CDATA[The video conferencing firm denies wrongdoing, but has agreed to boost security measures.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58050391</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58050391</guid>
-            <pubDate>Sun, 01 Aug 2021 22:34:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Untethered bi-pedal robot runs 5km and other tech news]]></title>

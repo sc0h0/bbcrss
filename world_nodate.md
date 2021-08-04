@@ -1,8 +1,8 @@
 1. [Gunmen attack home of Afghan defence minister in Kabul](https://www.bbc.co.uk/news/world-asia-58081253) - The minister was not at home during the first major attack by militants in Kabul for nearly a year.
-2. [MV Asphalt Princess: Suspected hijackers leave ship off UAE](https://www.bbc.co.uk/news/world-middle-east-58083671) - Men who boarded a Panama-flagged bitumen tanker have now left the vessel, officials say.
+2. [Delhi rape and murder: Indians protest over Dalit girl's forced cremation](https://www.bbc.co.uk/news/world-asia-india-58083052) - A couple accuse a priest and three others of raping and murdering their daughter aged nine.
 3. [Missouri governor pardons couple who pointed guns at protesters](https://www.bbc.co.uk/news/world-us-canada-58083772) - Missouri's governor pardons the couple who pointed guns at Black Lives Matter protesters last year.
 4. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
-5. [Delhi rape and murder: Indians protest over Dalit girl's forced cremation](https://www.bbc.co.uk/news/world-asia-india-58083052) - A couple accuse a priest and three others of raping and murdering their daughter aged nine.
+5. [MV Asphalt Princess: Suspected hijackers leave ship off UAE](https://www.bbc.co.uk/news/world-middle-east-58083671) - Men who boarded a Panama-flagged bitumen tanker have now left the vessel, officials say.
 6. [Selena Gomez criticises latest 'tasteless' TV transplant joke](https://www.bbc.co.uk/news/entertainment-arts-58083763) - The Good Fight is the latest show to reference singer Selena Gomez's 2017 kidney transplant.
 7. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya refused orders to fly home early and is now en route to Vienna.
 8. [Andrew Cuomo: Biden says governor should resign over harassment report](https://www.bbc.co.uk/news/world-us-canada-58077255) - The new report comes months after several women accused the New York governor of sexual misconduct.
