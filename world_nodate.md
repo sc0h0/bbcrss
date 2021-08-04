@@ -4,10 +4,10 @@
 4. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
 5. [Gunmen attack home of Afghan defence minister in Kabul](https://www.bbc.co.uk/news/world-asia-58081253) - The minister was not at home during the first major attack by militants in Kabul for nearly a year.
 6. [Missouri governor pardons couple who pointed guns at protesters](https://www.bbc.co.uk/news/world-us-canada-58083772) - Missouri's governor pardons the couple who pointed guns at Black Lives Matter protesters last year.
-7. [Three dead in train crash near Czech-German border](https://www.bbc.co.uk/news/world-europe-58083778) - An express train from Munich hits a commuter train near the Czech Republic town of Domazlice.
+7. [WhatsApp 'view once' brings disappearing photos and videos](https://www.bbc.co.uk/news/technology-58087379) - The "view once" feature lets users open an image one time only before it is deleted forever.
 8. [MV Asphalt Princess: Suspected hijackers leave ship off UAE](https://www.bbc.co.uk/news/world-middle-east-58083671) - Men who boarded a Panama-flagged bitumen tanker have now left the vessel, officials say.
 9. [Selena Gomez criticises latest 'tasteless' TV transplant joke](https://www.bbc.co.uk/news/entertainment-arts-58083763) - The Good Fight is the latest show to reference singer Selena Gomez's 2017 kidney transplant.
-10. [Andrew Cuomo: Biden says governor should resign over harassment report](https://www.bbc.co.uk/news/world-us-canada-58077255) - The new report comes months after several women accused the New York governor of sexual misconduct.
+10. [Three dead in train crash near Czech-German border](https://www.bbc.co.uk/news/world-europe-58083778) - An express train from Munich hits a commuter train near the Czech Republic town of Domazlice.
 11. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya refused orders to fly home early and is now en route to Vienna.
 12. [Tokyo Olympics: Taiwan stars trolled by Chinese nationalists](https://www.bbc.co.uk/news/world-asia-china-58082265) - Chinese nationalists interpreted support for Taiwan's athletes as support for the island's independence.
 13. [Afghanistan war: Bodies on the streets as fighting traps Lashkar Gah residents](https://www.bbc.co.uk/news/world-asia-58074525) - Terrified locals are fleeing if they can as the Taliban and troops battle to control Lashkar Gah.

@@ -9,11 +9,11 @@
 9. [Gangs on e-scooters targeting GPS farm equipment](https://www.bbc.co.uk/news/uk-58066465) - Total theft claims fall after the pandemic but technology stays a draw for criminals, says insurer.
 10. [NHS Covid-19 app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
 11. [Twitter works with news sites to tackle disinformation](https://www.bbc.co.uk/news/business-58065463) - Twitter announces it will cooperate with two news agencies to promote more reliable information.
-12. [Untethered bi-pedal robot runs 5km and other tech news](https://www.bbc.co.uk/news/technology-58014320) - Jen Copestake looks at some of the best technology news stories of the week.
-13. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
-14. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
-15. [Beach rover picks up cigarette butts and other tech news](https://www.bbc.co.uk/news/technology-57930091) - Jen Copestake looks at some of the best technology news stories of the week.
-16. [Cyber-flashing: 'I get explicit messages every day'](https://www.bbc.co.uk/news/uk-57902816) - Influencer Elle Edwards lets us inside her DMs to show the extent of sexual abuse faced by women online.
+12. [How smart buildings could transform our experience of work](https://www.bbc.co.uk/news/technology-58014316) - Lara Lewington visits a new smart office block to see how technology could transform working lives.
+13. [CEO Secrets: Airbnb boss shares his business advice](https://www.bbc.co.uk/news/business-58025562) - Brian Chesky, co-founder and CEO of Airbnb, shares his business advice for the CEO Secrets series.
+14. [Untethered bi-pedal robot runs 5km and other tech news](https://www.bbc.co.uk/news/technology-58014320) - Jen Copestake looks at some of the best technology news stories of the week.
+15. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
+16. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
 17. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - All of a sudden, WoW players are in revolt, and its competitors are having a boom.
 18. [Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel](https://www.bbc.co.uk/news/world-australia-58053519) - The short-form video platform is giving fans unprecedented insight into the athletes' experience.
 19. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
