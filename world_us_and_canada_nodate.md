@@ -3,7 +3,7 @@
 3. [Obama birthday: The virus crashed his party - should it change your plans?](https://www.bbc.co.uk/news/world-us-canada-58080853) - We asked experts what the virus surges mean for get-togethers during this "summer of freedom".
 4. [The Offspring drummer Pete Parada says he was dropped over vaccine refusal](https://www.bbc.co.uk/news/entertainment-arts-58085459) - Pete Parada says a doctor advised him not to have the jab because of a rare autoimmune disorder.
 5. [Missouri governor pardons couple who pointed guns at protesters](https://www.bbc.co.uk/news/world-us-canada-58083772) - Missouri's governor pardons the couple who pointed guns at Black Lives Matter protesters last year.
-6. [Robinhood shares surge 80% amid frenzied trading](https://www.bbc.co.uk/news/business-58091533) - After a poor stock market debut, amateur investors are snapping up shares in the online trading platform.
+6. [Robinhood shares surge amid frenzied trading](https://www.bbc.co.uk/news/business-58091533) - After a poor stock market debut, amateur investors are snapping up shares in the online trading platform.
 7. [Selena Gomez criticises latest 'tasteless' TV transplant joke](https://www.bbc.co.uk/news/entertainment-arts-58083763) - The Good Fight is the latest show to reference singer Selena Gomez's 2017 kidney transplant.
 8. [Simone Biles 'shows how much gymnastics has changed'](https://www.bbc.co.uk/news/world-us-canada-58043512) - Biles' withdrawal shows how attitudes have changed, says former USA gymnast Dominique Moceanu.
 9. [Andrew Cuomo: Why is the NY Governor under pressure to resign?](https://www.bbc.co.uk/news/world-us-canada-58092655) - Democrats, including President Biden, have called for the New York governor to go.

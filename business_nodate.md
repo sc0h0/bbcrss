@@ -1,6 +1,6 @@
 1. [Covid travel: France no longer amber-plus and green list expands](https://www.bbc.co.uk/news/business-58079107) - As restrictions on France ease, countries including Germany, Austria and Norway move to the green list.
 2. [Vanguard: Investment giant to pay vaccinated workers $1,000](https://www.bbc.co.uk/news/business-58091534) - Asset manager Vanguard will reward staff who get jabbed, but it won't mandate vaccinations.
-3. [Robinhood shares surge 80% amid frenzied trading](https://www.bbc.co.uk/news/business-58091533) - After a poor stock market debut, amateur investors are snapping up shares in the online trading platform.
+3. [Robinhood shares surge amid frenzied trading](https://www.bbc.co.uk/news/business-58091533) - After a poor stock market debut, amateur investors are snapping up shares in the online trading platform.
 4. [Net zero targets 'unrealistic' says Oxfam report](https://www.bbc.co.uk/news/business-58079101) - Oxfam’s chief executive said that net zero targets made by companies and governments are "unreliable and unproven".
 5. [High Court backs compensation for Provident customers](https://www.bbc.co.uk/news/business-58089605) - The doorstep lender's borrowers can claim partial compensation for mis-sold loans after court ruling.
 6. [Rihanna now officially a billionaire](https://www.bbc.co.uk/news/world-us-canada-58092465) - The star is now the wealthiest female musician in the world, according to Forbes.

@@ -8,7 +8,7 @@
 8. [Tokyo Olympics sparks anti-LGBT slurs on Russian TV](https://www.bbc.co.uk/news/world-europe-58029133) - Gay and transgender athletes in Tokyo have been singled out for abuse on Russian state television.
 9. [Vitaly Shishov: Belarus dissidents who disappeared and died](https://www.bbc.co.uk/news/world-europe-58079461) - For years opponents of Belarus leader Alexander Lukashenko have been hounded - sometimes fatally.
 10. [F1's Esteban Ocon: How it feels winning your first Formula 1 race](https://www.bbc.co.uk/news/world-us-canada-58061076) - The 24-year-old Frenchman pulled off a huge F1 shock by winning the Hungarian Grand Prix
-11. [Amber-plus list: Why were extra travel restrictions imposed on France?](https://www.bbc.co.uk/news/58061520) - Why did ministers decide to retain quarantine for arrivals from France?
+11. [Amber-plus list: Why were extra travel restrictions imposed on France?](https://www.bbc.co.uk/news/58061520) - France has now been taken off the amber-plus list but why was it put on it in the first place?
 12. [Sport climbing makes its Olympic debut - here's all you need to know](https://www.bbc.co.uk/sport/olympics/57998157) - Climbing is the last of the new Olympic sports to make its appearance at Tokyo 2020. Here's a guide to the things you need to know.
 13. [The EU vaccine 'passport' and what it means for travel](https://www.bbc.co.uk/news/explainers-57665765) - An EU vaccine "passport" is being introduced, enabling holders to prove they have been jabbed.
 14. [Belarus Olympian Timanovskaya: 'When it's safe, I want to return home'](https://www.bbc.co.uk/news/world-europe-58072913) - A sprinter from Belarus who refused her team's order to fly home early from the Olympics says her actions were not a form of political protest.
