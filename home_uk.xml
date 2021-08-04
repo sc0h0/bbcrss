@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 09:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 09:46:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Sky Brown wins bronze and becomes Great Britain's youngest summer Olympian with success also coming in sailing and boxing.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58082545</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58082545</guid>
-            <pubDate>Wed, 04 Aug 2021 08:10:31 GMT</pubDate>
+            <pubDate>Wed, 04 Aug 2021 09:40:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine set to be offered to 16 and 17-year-olds]]></title>
@@ -30,18 +30,18 @@
             <pubDate>Wed, 04 Aug 2021 08:12:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Jabs for over 16s, and is the virus threat over?]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58078231</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58078231</guid>
-            <pubDate>Wed, 04 Aug 2021 06:52:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Long-lasting Covid-19 symptoms rare in children]]></title>
             <description><![CDATA[Children who become ill with coronavirus mostly recover in less than a week, research suggests.]]></description>
             <link>https://www.bbc.co.uk/news/health-58071898</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58071898</guid>
             <pubDate>Wed, 04 Aug 2021 00:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ever Given: Cargo unloaded from ship that blocked Suez Canal]]></title>
+            <description><![CDATA[The Ever Given arrived at Felixstowe on Tuesday and is expected to leave on Thursday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58085950</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58085950</guid>
+            <pubDate>Wed, 04 Aug 2021 09:16:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belarus sprinter Krystina Timanovskaya flies out of Japan]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Wed, 04 Aug 2021 06:09:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Barbie of Oxford Covid vaccine designer Dame Sarah Gilbert created]]></title>
-            <description><![CDATA[Dame Sarah Gilbert says she found it "very strange" at first, but hopes it will inspire children.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58077396</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58077396</guid>
-            <pubDate>Tue, 03 Aug 2021 23:47:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lauren Goodger foreign exchange Instagram advert banned]]></title>
             <description><![CDATA[The TV star had been paid for a post that a watchdog says wasn't obviously identifiable as an ad.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58084534</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58084534</guid>
             <pubDate>Wed, 04 Aug 2021 08:22:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barbie of Oxford Covid vaccine designer Dame Sarah Gilbert created]]></title>
+            <description><![CDATA[Dame Sarah Gilbert says she found it "very strange" at first, but hopes it will inspire children.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58077396</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58077396</guid>
+            <pubDate>Tue, 03 Aug 2021 23:47:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beirut blast: ‘The day our city exploded’]]></title>
@@ -247,6 +247,13 @@
             <pubDate>Tue, 03 Aug 2021 18:30:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: GB's Ben Whittaker says he doesn't want to look like a 'spoiled brat' after winning Olympic silver]]></title>
+            <description><![CDATA[Great Britain's Ben Whittaker says he's "so upset" that he didn't win gold in the men's light-heavyweight final at the Tokyo Olympics but doesn't want to look like a "spoiled brat".]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58085095</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58085095</guid>
+            <pubDate>Wed, 04 Aug 2021 09:20:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bronze medallist Brown makes Olympic history ]]></title>
             <description><![CDATA[Sky Brown wins bronze in the women's park skateboarding final at the Tokyo Games, making the 13-year-old Great Britain's youngest Olympic medallist of all time.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58082535</link>
@@ -374,10 +381,10 @@
         </item>
         <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
-            <description><![CDATA[All over-18s can now get the Covid jab, but the government has criticised take-up among young people.]]></description>
+            <description><![CDATA[The govenment is expected to announce that 16 and 17-year-olds will receive the Covid vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/health-57273875</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
-            <pubDate>Thu, 29 Jul 2021 15:57:40 GMT</pubDate>
+            <pubDate>Wed, 04 Aug 2021 09:40:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
