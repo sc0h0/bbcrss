@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 12:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 13:01:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Wed, 04 Aug 2021 10:48:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Woman watching Love Island nearly hit as car smashes into living room]]></title>
+            <description><![CDATA[Rhia Brindley is told if she had been in her usual spot to watch TV, she would be "injured or dead".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58086150</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58086150</guid>
+            <pubDate>Wed, 04 Aug 2021 12:50:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Migrant Channel crossings: 281 people reach the UK]]></title>
             <description><![CDATA[The Home Office says the rising number of people making the "dangerous" crossing is unacceptable.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-58083490</link>
@@ -51,25 +58,11 @@
             <pubDate>Wed, 04 Aug 2021 06:56:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Woman watching Love Island nearly hit as car smashes into living room]]></title>
-            <description><![CDATA[Rhia Brindley is told if she had been in her usual spot to watch TV, she would be "injured or dead".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58086150</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58086150</guid>
-            <pubDate>Wed, 04 Aug 2021 09:48:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Where are Team GB’s English medallists from?]]></title>
             <description><![CDATA[With day 11 of the competition over, the North West currently leads the way when it comes to medals.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-58073305</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58073305</guid>
             <pubDate>Tue, 03 Aug 2021 17:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vigil held for sisters murdered in park]]></title>
-            <description><![CDATA[Family and friends gather at a vigil to honour women lost to male violence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58080643</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58080643</guid>
-            <pubDate>Wed, 04 Aug 2021 06:16:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Blistered' couple set to finish Olympic sports challenge]]></title>
@@ -163,6 +156,13 @@
             <pubDate>Wed, 04 Aug 2021 05:14:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vigil held for sisters murdered in park]]></title>
+            <description><![CDATA[Family and friends gather at a vigil to honour women lost to male violence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58080643</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58080643</guid>
+            <pubDate>Wed, 04 Aug 2021 06:16:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bradford child sexual abuse: 19 men arrested]]></title>
             <description><![CDATA[The inquiry is connected to offences against one female in Bradford between 2000-2005, police say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-58084134</link>
@@ -205,18 +205,25 @@
             <pubDate>Wed, 04 Aug 2021 05:32:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Britain's Katarina Johnson-Thompson withdraws injured from heptathlon]]></title>
+            <description><![CDATA[Katarina Johnson-Thompson withdraw from the Olympic women's heptathlon with a calf injury that caused her to pull up in the 200m.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58082673</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58082673</guid>
+            <pubDate>Wed, 04 Aug 2021 12:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manchester City closing in on signing Jack Grealish for £100m from Aston Villa]]></title>
+            <description><![CDATA[Manchester City are closing in on the £100m signing of Aston Villa skipper Jack Grealish.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58088911</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58088911</guid>
+            <pubDate>Wed, 04 Aug 2021 12:55:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Sky Brown becomes GB's youngest medallist, plus sailing and showjumping gold]]></title>
             <description><![CDATA[Sky Brown wins bronze and becomes Great Britain's youngest summer Olympian with success also coming in sailing, showjumping and boxing.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58082545</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58082545</guid>
-            <pubDate>Wed, 04 Aug 2021 12:43:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Great Britain's Ben Whittaker wins boxing silver after defeat by Arlen Lopez]]></title>
-            <description><![CDATA[Ben Whittaker wins Great Britain's second silver of the Tokyo 2020 Olympic Games after losing to Cuba's Arlen Lopez in the light-heavyweight gold-medal bout.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58083205</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58083205</guid>
-            <pubDate>Wed, 04 Aug 2021 07:48:20 GMT</pubDate>
+            <pubDate>Wed, 04 Aug 2021 12:52:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

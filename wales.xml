@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 12:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 13:09:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Wed, 04 Aug 2021 12:23:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Skewen: 'Carnage' as flood-hit residents flooded again]]></title>
-            <description><![CDATA[The flash floods hit just after work began on a water management scheme to protect the area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58077730</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58077730</guid>
-            <pubDate>Tue, 03 Aug 2021 19:34:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tragedy became Sliding Doors moment for politician]]></title>
             <description><![CDATA[Julie James's life changed overnight when the father of her first child was killed in a car crash.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58058218</link>
@@ -58,11 +51,25 @@
             <pubDate>Wed, 04 Aug 2021 06:40:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gwent Police arrest nine in raid on indecent images of children]]></title>
+            <description><![CDATA[Officers identified 12 children from south-east Wales who were at risk as nine men are arrested.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58089062</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58089062</guid>
+            <pubDate>Wed, 04 Aug 2021 12:58:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Hikers' plea for help after positive test]]></title>
             <description><![CDATA[Paul McErlean and his friends were offered a spare caravan by a former UK home secretary.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58075183</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58075183</guid>
             <pubDate>Wed, 04 Aug 2021 09:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skewen: 'Carnage' as flood-hit residents flooded again]]></title>
+            <description><![CDATA[The flash floods hit just after work began on a water management scheme to protect the area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58077730</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58077730</guid>
+            <pubDate>Tue, 03 Aug 2021 19:34:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Wales set to build 20,000 low-carbon social homes]]></title>
@@ -79,25 +86,18 @@
             <pubDate>Wed, 04 Aug 2021 10:51:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bridgend river death: Friends of boy, 5, 'heartbroken']]></title>
-            <description><![CDATA[Classmates and neighbours leave tributes near the river where the five-year-old boy was found dead.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58069625</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58069625</guid>
-            <pubDate>Tue, 03 Aug 2021 14:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whitchurch: PC denies assaulting suspect during arrest]]></title>
-            <description><![CDATA[PC Rowan Knight allegedly assaulted an individual while performing an arrest in a Cardiff suburb.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58077079</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58077079</guid>
-            <pubDate>Tue, 03 Aug 2021 17:28:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thunderstorm and heavy rain warning for parts of Wales]]></title>
             <description><![CDATA[Up to 100mm (4in) of rain could fall in the hardest hit areas on Friday, the Met Office warns.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58071768</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58071768</guid>
             <pubDate>Tue, 03 Aug 2021 10:28:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bridgend river death: Friends of boy, 5, 'heartbroken']]></title>
+            <description><![CDATA[Classmates and neighbours leave tributes near the river where the five-year-old boy was found dead.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58069625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58069625</guid>
+            <pubDate>Tue, 03 Aug 2021 14:26:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change minister skied to school in Canada]]></title>
@@ -170,11 +170,11 @@
             <pubDate>Wed, 04 Aug 2021 09:02:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brodie Reid: Winger joins Cardiff Devils roster]]></title>
-            <description><![CDATA[Cardiff Devils sign winger Brodie Reid for the new campaign.]]></description>
-            <link>https://www.bbc.co.uk/sport/ice-hockey/58087231</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/ice-hockey/58087231</guid>
-            <pubDate>Wed, 04 Aug 2021 12:02:13 GMT</pubDate>
+            <title><![CDATA[Ethan Lewis: Saracens sign hooker from Cardiff]]></title>
+            <description><![CDATA[Premiership club Saracens sign hooker Ethan Lewis on a permanent deal from Cardiff following a loan spell last season.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58088000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58088000</guid>
+            <pubDate>Wed, 04 Aug 2021 12:52:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teyrngedau i ferch 15 oed fu farw mewn parc gwyliau]]></title>
