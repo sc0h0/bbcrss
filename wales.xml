@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 15:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 15:50:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58083395</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58083395</guid>
             <pubDate>Wed, 04 Aug 2021 14:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 3, killed in collision with vehicle at farm in Clynderwen]]></title>
+            <description><![CDATA[The boy died at the scene of the incident at the farm in Pembrokeshire, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58089814</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58089814</guid>
+            <pubDate>Wed, 04 Aug 2021 15:47:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Wales: Teens aged 16-17 to be offered jabs]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58074305</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58074305</guid>
             <pubDate>Wed, 04 Aug 2021 12:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Hannah Mills' family cheer her to gold]]></title>
-            <description><![CDATA[Hannah Mills becomes the most successful female sailor in Olympic history by winning the 470 gold.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58089059</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58089059</guid>
-            <pubDate>Wed, 04 Aug 2021 12:12:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lee Collins: Yeovil Town captain's death was suicide, records coroner]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Wed, 04 Aug 2021 12:58:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tragedy became Sliding Doors moment for politician]]></title>
-            <description><![CDATA[Julie James's life changed overnight when the father of her first child was killed in a car crash.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-politics-58058218</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-58058218</guid>
-            <pubDate>Wed, 04 Aug 2021 06:40:52 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Hannah Mills' family cheer her to gold]]></title>
+            <description><![CDATA[Hannah Mills becomes the most successful female sailor in Olympic history by winning the 470 gold.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58089059</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58089059</guid>
+            <pubDate>Wed, 04 Aug 2021 12:12:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccines: Three-quarters of 18 to 29-year-olds get first jab]]></title>

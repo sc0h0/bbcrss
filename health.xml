@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 15:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 15:56:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,6 +261,13 @@
             <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: 'No time to waste' in vaccinating 16-17 year olds]]></title>
+            <description><![CDATA[Children aged 16-17 should be vaccinated "as fast as practically possible", Prof Jonathan Van-Tam says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58092705</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58092705</guid>
+            <pubDate>Wed, 04 Aug 2021 15:39:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Professor Jonathan Van-Tam answers your questions]]></title>
             <description><![CDATA[The deputy chief medical officer answers a range of questions about Covid from young audience members.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58020184</link>
@@ -287,13 +294,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-57985857</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57985857</guid>
             <pubDate>Tue, 27 Jul 2021 13:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brazil: Why are so many pregnant women dying from Covid?]]></title>
-            <description><![CDATA[One in five women that died from coronavirus in Brazil did not have access to an intensive care unit.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57974754</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57974754</guid>
-            <pubDate>Mon, 26 Jul 2021 23:00:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

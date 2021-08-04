@@ -1,11 +1,11 @@
 1. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
-2. [Covid in Wales: Teens aged 16-17 to be offered jabs](https://www.bbc.co.uk/news/uk-wales-politics-58088296) - Jabs for young confirmed after new advice from committee of vaccine experts.
-3. [Covid: If Wales' restrictions ease, be sensible - top doctor](https://www.bbc.co.uk/news/uk-wales-58074305) - Wales' restrictions on social distancing, indoor gathering and face masks could ease this weekend.
-4. [Tokyo Olympics: Hannah Mills' family cheer her to gold](https://www.bbc.co.uk/news/uk-wales-58089059) - Hannah Mills becomes the most successful female sailor in Olympic history by winning the 470 gold.
+2. [Boy, 3, killed in collision with vehicle at farm in Clynderwen](https://www.bbc.co.uk/news/uk-wales-58089814) - The boy died at the scene of the incident at the farm in Pembrokeshire, police say.
+3. [Covid in Wales: Teens aged 16-17 to be offered jabs](https://www.bbc.co.uk/news/uk-wales-politics-58088296) - Jabs for young confirmed after new advice from committee of vaccine experts.
+4. [Covid: If Wales' restrictions ease, be sensible - top doctor](https://www.bbc.co.uk/news/uk-wales-58074305) - Wales' restrictions on social distancing, indoor gathering and face masks could ease this weekend.
 5. [Lee Collins: Yeovil Town captain's death was suicide, records coroner](https://www.bbc.co.uk/news/uk-england-somerset-58090985) - An inquest heard Yeovil Town captain Lee Collins also had drugs and alcohol in his system.
 6. [Heavy rain and thunderstorm warning extended in Wales](https://www.bbc.co.uk/news/uk-wales-58087494) - Met Office warn of rain on Wednesday and thunderstorms on Friday across parts of Wales.
 7. [Gwent Police arrest nine in raid on indecent images of children](https://www.bbc.co.uk/news/uk-wales-58089062) - Officers identified 12 children from south-east Wales who were at risk as nine men are arrested.
-8. [Tragedy became Sliding Doors moment for politician](https://www.bbc.co.uk/news/uk-wales-politics-58058218) - Julie James's life changed overnight when the father of her first child was killed in a car crash.
+8. [Tokyo Olympics: Hannah Mills' family cheer her to gold](https://www.bbc.co.uk/news/uk-wales-58089059) - Hannah Mills becomes the most successful female sailor in Olympic history by winning the 470 gold.
 9. [Covid vaccines: Three-quarters of 18 to 29-year-olds get first jab](https://www.bbc.co.uk/news/uk-wales-58087242) - Most health boards are offering walk-in vaccinations over fears young people will not have the jab.
 10. [Skewen: 'Carnage' as flood-hit residents flooded again](https://www.bbc.co.uk/news/uk-wales-58077730) - The flash floods hit just after work began on a water management scheme to protect the area.
 11. [Climate change: Wales set to build 20,000 low-carbon social homes](https://www.bbc.co.uk/news/uk-wales-58078894) - Welsh ministers announce plans to tackle a housing shortage and the problem of climate change.
