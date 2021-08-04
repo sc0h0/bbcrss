@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 12:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 12:44:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Wed, 04 Aug 2021 07:52:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Keir Starmer attacks government record on green jobs]]></title>
+            <description><![CDATA[The Labour leader says there is a "chasm between soundbites and action" on climate-friendly employment.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58088236</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58088236</guid>
+            <pubDate>Wed, 04 Aug 2021 12:11:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MP Maria Miller wants AI 'nudifying' tool banned]]></title>
             <description><![CDATA[A website that allows people to undress a photograph in seconds is gaining lots of users.]]></description>
             <link>https://www.bbc.co.uk/news/technology-57996910</link>
@@ -44,13 +51,6 @@
             <pubDate>Tue, 03 Aug 2021 12:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid vaccine set to be offered to 16 and 17-year-olds]]></title>
-            <description><![CDATA[More than one million teenagers would be included in a new rollout if ministers accept expert advice.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58080232</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58080232</guid>
-            <pubDate>Wed, 04 Aug 2021 10:01:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tories face questions over co-chair's firm marketing Covid tests to rich clients]]></title>
             <description><![CDATA[The Conservatives say Ben Elliot's business activities are separate from the party after Labour criticism.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58071608</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58070099</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58070099</guid>
             <pubDate>Tue, 03 Aug 2021 10:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine set to be offered to 16 and 17-year-olds]]></title>
+            <description><![CDATA[More than one million teenagers would be included in a new rollout if ministers accept expert advice.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58080232</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58080232</guid>
+            <pubDate>Wed, 04 Aug 2021 12:17:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting]]></title>
