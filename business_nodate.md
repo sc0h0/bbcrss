@@ -1,6 +1,6 @@
 1. [Robinhood shares surge 80% amid frenzied trading](https://www.bbc.co.uk/news/business-58091533) - After a poor stock market debut, amateur investors are snapping up shares in the online trading platform.
-2. [High Court backs compensation for Provident customers](https://www.bbc.co.uk/news/business-58089605) - The doorstep lender's borrowers can claim partial compensation for mis-sold loans after court ruling.
-3. [Net zero targets 'unrealistic' says Oxfam report](https://www.bbc.co.uk/news/business-58079101) - Oxfam’s chief executive said that net zero targets made by companies and governments are "unreliable and unproven".
+2. [Net zero targets 'unrealistic' says Oxfam report](https://www.bbc.co.uk/news/business-58079101) - Oxfam’s chief executive said that net zero targets made by companies and governments are "unreliable and unproven".
+3. [High Court backs compensation for Provident customers](https://www.bbc.co.uk/news/business-58089605) - The doorstep lender's borrowers can claim partial compensation for mis-sold loans after court ruling.
 4. [Rihanna now officially a billionaire](https://www.bbc.co.uk/news/world-us-canada-58092465) - The star is now the wealthiest female musician in the world, according to Forbes.
 5. [Taylor Wimpey rejects housing market bubble fears](https://www.bbc.co.uk/news/business-58083883) - The housebuilder sees bumper profits and builds a record number of new homes in the first half of 2021.
 6. [Keir Starmer attacks government record on green jobs](https://www.bbc.co.uk/news/uk-politics-58088236) - The Labour leader says there is a "chasm between soundbites and action" on climate-friendly employment.

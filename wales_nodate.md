@@ -21,7 +21,7 @@
 21. [Sean Morrison: Cardiff City sights set on automatic promotion, says skipper](https://www.bbc.co.uk/sport/football/58080763) - Captain Sean Morrison says automatic promotion is the target for Cardiff City ahead of the new Championship season.
 22. [Tokyo Olympics: 'Surreal' feeling for Olympic record breaker Hannah Mills](https://www.bbc.co.uk/sport/av/olympics/58089435) - Hannah Mills admits it is a strange feeling to become the most successful female sailor in Olympic history.
 23. [Tokyo Olympics: Sky Brown becomes GB's youngest medallist, plus sailing and showjumping golds](https://www.bbc.co.uk/sport/olympics/58082545) - Great Britain are fourth in the Olympic medal table after sailing and showjumping golds plus a skateboarding bronze for Sky Brown, 13.
-24. [Bachgen tair oed wedi marw mewn gwrthdrawiad ar fferm](https://www.bbc.co.uk/newyddion/58088218) - Cafodd yr heddlu eu galw i fferm ger pentref Efailwen nos Fawrth.
+24. [Bachgen tair oed wedi marw mewn gwrthdrawiad ar fferm](https://www.bbc.co.uk/newyddion/58088218) - Cafodd yr heddlu eu galw i fferm ger pentref Efailwen yn Sir Gâr nos Fawrth.
 25. [Pobl ifanc 16 a 17 oed i gael cynnig brechiad Covid](https://www.bbc.co.uk/newyddion/58088219) - Mae gwaith yn mynd rhagddo i gynnig y brechiadau, yn ôl y Gweinidog Iechyd, Eluned Morgan.
 26. [Teyrnged teulu i ferch 15 oed fu farw mewn parc gwyliau](https://www.bbc.co.uk/newyddion/58084689) - Mae brawd Amanda Selby, Matthew, wedi ymddangos yn y llys ar gyhuddiad o lofruddio ei chwaer.
 27. [Gareth Davies: Cofio taith y Llewod i Dde Affrica 1980](https://www.bbc.co.uk/newyddion/58087754) - Cyn-faswr Cymru sy'n hel atgofion am ei daith gyda'r Llewod i Dde Affrica

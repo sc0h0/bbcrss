@@ -1,4 +1,4 @@
-1. [Covid: Jabs for 16 and 17-year-olds to start within weeks](https://www.bbc.co.uk/news/uk-58091693) - Wed, 04 Aug 2021 16:24:42 GMT - The change in guidance from the UK's vaccine experts affects around 1.4 million teenagers.
+1. [Covid: Jabs for 16 and 17-year-olds to start within weeks](https://www.bbc.co.uk/news/uk-58091693) - Wed, 04 Aug 2021 17:33:59 GMT - About 1.4 million more teenagers will be eligible for the Pfizer vaccine and will not need parental consent.
 2. [Covid vaccine will not be compulsory for university lectures](https://www.bbc.co.uk/news/uk-58040302) - Sat, 31 Jul 2021 16:17:04 GMT - Ministers are no longer considering making two doses mandatory for students in England, the BBC learns.
 3. [Global summit raises $4bn for schools despite aid row](https://www.bbc.co.uk/news/education-58006728) - Thu, 29 Jul 2021 17:49:12 GMT - World leaders pledge to get more children into school in the world's poorest countries.
 4. [Richer parents pressure teachers on exam grades](https://www.bbc.co.uk/news/education-57999790) - Wed, 28 Jul 2021 23:01:11 GMT - Sharp-elbowed parents have chased better grades in this year's replacement exams, a study says.
