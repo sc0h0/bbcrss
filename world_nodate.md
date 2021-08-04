@@ -8,7 +8,7 @@
 8. [MV Asphalt Princess: Suspected hijackers leave ship off UAE](https://www.bbc.co.uk/news/world-middle-east-58083671) - Men who boarded a Panama-flagged bitumen tanker have now left the vessel, officials say.
 9. [Selena Gomez criticises latest 'tasteless' TV transplant joke](https://www.bbc.co.uk/news/entertainment-arts-58083763) - The Good Fight is the latest show to reference singer Selena Gomez's 2017 kidney transplant.
 10. [Three dead in train crash near Czech-German border](https://www.bbc.co.uk/news/world-europe-58083778) - An express train from Munich hits a commuter train near the Czech Republic town of Domazlice.
-11. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya refused orders to fly home early and is now en route to Vienna.
+11. [Belarus sprinter Krystina Timanovskaya lands in Vienna](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya refused orders to fly home early and is set to travel to Warsaw.
 12. [Tokyo Olympics: Taiwan stars trolled by Chinese nationalists](https://www.bbc.co.uk/news/world-asia-china-58082265) - Chinese nationalists interpreted support for Taiwan's athletes as support for the island's independence.
 13. [Afghanistan war: Bodies on the streets as fighting traps Lashkar Gah residents](https://www.bbc.co.uk/news/world-asia-58074525) - Terrified locals are fleeing if they can as the Taliban and troops battle to control Lashkar Gah.
 14. [Tunisia crisis: Democrats, despots and the fight for power](https://www.bbc.co.uk/news/world-africa-58071263) - Tunisia is in turmoil since the president suspended parliament and increased his own power.

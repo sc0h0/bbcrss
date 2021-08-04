@@ -1,4 +1,4 @@
-1. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya refused orders to fly home early and is now en route to Vienna.
+1. [Belarus sprinter Krystina Timanovskaya lands in Vienna](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya refused orders to fly home early and is set to travel to Warsaw.
 2. [Belarus protests: Trial of opposition figures begins](https://www.bbc.co.uk/news/world-europe-58083672) - Protest organiser Maria Kolesnikova has been charged with threatening national security.
 3. [Migrant Channel crossings: 281 people reach the UK](https://www.bbc.co.uk/news/uk-england-kent-58083490) - The Home Office says the rising number of people making the "dangerous" crossing is unacceptable.
 4. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
