@@ -2,8 +2,8 @@
 2. [What happened on day 12 at the Tokyo Olympics?](https://www.bbc.co.uk/sport/olympics/58082545) - Great Britain are fourth in the Olympic medal table after sailing and showjumping golds plus a skateboarding bronze for Sky Brown, 13.
 3. [Lee Collins: Yeovil Town captain's death was suicide, records coroner](https://www.bbc.co.uk/news/uk-england-somerset-58090985) - An inquest heard Yeovil Town captain Lee Collins also had drugs and alcohol in his system.
 4. [Veteran charity runner robbed at knifepoint near Burton upon Trent](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58093315) - Phil Hammond said he would continue his 1,200-mile challenge despite the crime.
-5. [Rihanna now officially a billionaire](https://www.bbc.co.uk/news/world-us-canada-58092465) - The star is now the wealthiest female musician in the world, according to Forbes.
-6. [Covid-19: Jabs for 16 and 17-year-olds and Offspring drummer dropped](https://www.bbc.co.uk/news/uk-58087521) - Five things you need to know about the coronavirus pandemic this Wednesday evening.
+5. [Strictly Come Dancing: Tom Fletcher, AJ Odudu and Robert Webb in line-up](https://www.bbc.co.uk/news/entertainment-arts-58089932) - McFly's Tom Fletcher, TV presenter AJ Odudu and Peep Show's Robert Webb will take to the dancefloor.
+6. [Rihanna now officially a billionaire](https://www.bbc.co.uk/news/world-us-canada-58092465) - The star is now the wealthiest female musician in the world, according to Forbes.
 7. [Extinction Rebellion: Judge demands review of protester convictions](https://www.bbc.co.uk/news/uk-58092234) - Prosecutors are asked if they stand by the convictions of protesters after a second successful appeal.
 8. [Dismal England collapse in first Test against India](https://www.bbc.co.uk/sport/cricket/58092958) - England begin their series against India in depressingly predictable fashion with another atrocious batting collapse at Trent Bridge.
 9. [Barack Obama scales back 60th birthday party as Covid cases rise](https://www.bbc.co.uk/news/world-us-canada-58083780) - The former president turns 60 on Wednesday but has cancelled plans for a big party this weekend.

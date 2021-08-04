@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 18:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 18:51:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,18 +65,18 @@
             <pubDate>Wed, 04 Aug 2021 16:33:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man charged after Crumlin Road hijacking]]></title>
-            <description><![CDATA[A 41-year-old man is due in court on Thursday charged with a number of offences including hijacking.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58093175</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58093175</guid>
-            <pubDate>Wed, 04 Aug 2021 17:02:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kevin Lunney trial hears accused's actions 'fall short of proof']]></title>
             <description><![CDATA[The defence for a man accused of abducting Kevin Lunney concedes his client's actions are "suspicious".]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58089152</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58089152</guid>
             <pubDate>Wed, 04 Aug 2021 15:29:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man charged after Crumlin Road hijacking]]></title>
+            <description><![CDATA[A 41-year-old man is due in court on Thursday charged with a number of offences including hijacking.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58093175</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58093175</guid>
+            <pubDate>Wed, 04 Aug 2021 17:02:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympic Women's Golf: Leona Maguire & Stephanie Meadow in touch after day one]]></title>
@@ -252,6 +252,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58010383</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58010383</guid>
             <pubDate>Thu, 29 Jul 2021 08:37:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Electric Picnic festival fails to get council licence]]></title>
+            <description><![CDATA[Laois County Council says the decision was taken in conjunction with the latest public health advice.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58093962</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58093962</guid>
+            <pubDate>Wed, 04 Aug 2021 18:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: 'Lack of transparency' over Irish decisions]]></title>
