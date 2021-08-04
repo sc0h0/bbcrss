@@ -1,6 +1,6 @@
 1. [Tokyo Olympics: Andre de Grasse claims 200m gold](https://www.bbc.co.uk/sport/olympics/58088922) - Canada's Andre de Grasse finishes fast to overhaul world champion Noah Lyles and win the Olympic 200m title.
 2. [USS Bonhomme Richard fire: Suspect identified as 20-year-old Navy sailor](https://www.bbc.co.uk/news/world-us-canada-58091854) - A newly unsealed warrant also reveals suspicions that fire stations on the ship were sabotaged.
-3. [Covid third wave: The virus crashed Obama's party - should it change your plans?](https://www.bbc.co.uk/news/world-us-canada-58080853) - We asked experts what the US virus surges mean for get-togethers during this "summer of freedom".
+3. [Obama birthday: The virus crashed his party - should it change your plans?](https://www.bbc.co.uk/news/world-us-canada-58080853) - We asked experts what the US virus surges mean for get-togethers during this "summer of freedom".
 4. [Missouri governor pardons couple who pointed guns at protesters](https://www.bbc.co.uk/news/world-us-canada-58083772) - Missouri's governor pardons the couple who pointed guns at Black Lives Matter protesters last year.
 5. [Robinhood shares surge 80% amid frenzied trading](https://www.bbc.co.uk/news/business-58091533) - After a poor stock market debut, amateur investors are snapping up shares in the online trading platform.
 6. [Selena Gomez criticises latest 'tasteless' TV transplant joke](https://www.bbc.co.uk/news/entertainment-arts-58083763) - The Good Fight is the latest show to reference singer Selena Gomez's 2017 kidney transplant.
