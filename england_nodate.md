@@ -1,5 +1,5 @@
 1. [Covid vaccine set to be offered to 16 and 17-year-olds](https://www.bbc.co.uk/news/uk-58080232) - More than one million teenagers would be included in a new rollout if ministers accept expert advice.
-2. [Migrant Channel crossings: 284 people reach the UK](https://www.bbc.co.uk/news/uk-england-kent-58083490) - The Home Office says the rising number of people making the "dangerous" crossing is unacceptable.
+2. [Migrant Channel crossings: 281 people reach the UK](https://www.bbc.co.uk/news/uk-england-kent-58083490) - The Home Office says the rising number of people making the "dangerous" crossing is unacceptable.
 3. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
 4. [Dog-snatching thief filmed by doorbell camera in Horndean](https://www.bbc.co.uk/news/uk-england-hampshire-58086838) - A 13-year-old boy was walking his border terrier Melchy when he was pushed out of the way.
 5. [Ever Given: Cargo unloaded from ship that blocked Suez Canal](https://www.bbc.co.uk/news/uk-england-suffolk-58085950) - The Ever Given arrived at Felixstowe on Tuesday and is expected to leave on Thursday.
