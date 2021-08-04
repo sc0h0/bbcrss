@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 15:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 15:44:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: Jabs for 16 and 17-year-olds to start 'within weeks']]></title>
+            <title><![CDATA[Covid: Jabs for 16 and 17-year-olds to start within weeks]]></title>
             <description><![CDATA[The change in guidance from the UK's vaccine experts affects around 1.4 million teenagers.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58091693</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58091693</guid>
-            <pubDate>Wed, 04 Aug 2021 15:11:55 GMT</pubDate>
+            <pubDate>Wed, 04 Aug 2021 15:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Streatham terror attack: Sudesh Amman 'told mentor he had changed']]></title>
+            <description><![CDATA[Sudesh Amman convinced two mentors he had changed before stabbing two people, an inquest hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58090651</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58090651</guid>
+            <pubDate>Wed, 04 Aug 2021 14:50:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lee Collins: Yeovil Town captain's death was suicide, records coroner]]></title>
@@ -37,18 +44,18 @@
             <pubDate>Wed, 04 Aug 2021 14:38:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ever Given: Cargo unloaded from ship that blocked Suez Canal]]></title>
-            <description><![CDATA[The Ever Given arrived at Felixstowe on Tuesday and is expected to leave on Thursday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58085950</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58085950</guid>
-            <pubDate>Wed, 04 Aug 2021 12:16:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Top Gear production to move to Bristol from 2022]]></title>
             <description><![CDATA[The long-running BBC motoring show will move out of London next year.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58086981</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58086981</guid>
             <pubDate>Wed, 04 Aug 2021 13:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ever Given: Cargo unloaded from ship that blocked Suez Canal]]></title>
+            <description><![CDATA[The Ever Given arrived at Felixstowe on Tuesday and is expected to leave on Thursday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58085950</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58085950</guid>
+            <pubDate>Wed, 04 Aug 2021 12:16:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Holiday park murder accused in court amid tributes to Amanda Selby]]></title>
@@ -65,13 +72,6 @@
             <pubDate>Wed, 04 Aug 2021 13:32:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dog-snatching thief filmed by doorbell camera in Horndean]]></title>
-            <description><![CDATA[A 13-year-old boy was walking his border terrier Melchy when he was pushed out of the way.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58086838</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58086838</guid>
-            <pubDate>Wed, 04 Aug 2021 10:48:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Where are Team GB’s English medallists from?]]></title>
             <description><![CDATA[With day 11 of the competition over, the North West currently leads the way when it comes to medals.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-58073305</link>
@@ -84,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58086150</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58086150</guid>
             <pubDate>Wed, 04 Aug 2021 12:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wigan family rescue deer from drowning in canal]]></title>
-            <description><![CDATA[Chris and Denver Kendall, from Wigan, tied two dog leads together to pull the animal to safety.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58080726</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58080726</guid>
-            <pubDate>Wed, 04 Aug 2021 05:10:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why bonding over the Euros appeared to increase Covid cases in men]]></title>
@@ -135,6 +128,20 @@
             <pubDate>Wed, 04 Aug 2021 14:49:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wigan family rescue deer from drowning in canal]]></title>
+            <description><![CDATA[Chris and Denver Kendall, from Wigan, tied two dog leads together to pull the animal to safety.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58080726</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58080726</guid>
+            <pubDate>Wed, 04 Aug 2021 05:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dog-snatching thief filmed by doorbell camera in Horndean]]></title>
+            <description><![CDATA[A 13-year-old boy was walking his border terrier Melchy when he was pushed out of the way.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58086838</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58086838</guid>
+            <pubDate>Wed, 04 Aug 2021 10:48:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Basketball: Chatham teenager gets scholarship to play for top US side]]></title>
             <description><![CDATA[Tamara Fournillier-Onadeko, who plays at youth level in the GB squad, is heading to Chicago.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-58074005</link>
@@ -142,25 +149,11 @@
             <pubDate>Wed, 04 Aug 2021 05:26:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fisherwomen honoured in Great Yarmouth photography exhibition]]></title>
+            <title><![CDATA[Exhibition celebrates women of fishing industry]]></title>
             <description><![CDATA[An exhibition is dedicated to decades of women who have worked in the industry on the east coast.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58077623</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58077623</guid>
             <pubDate>Wed, 04 Aug 2021 08:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ever Given: Time-lapse video captures Felixstowe arrival]]></title>
-            <description><![CDATA["We could still see Egyptian sand on its bow," said film-maker Brian Abrams as the ship docked.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58080614</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58080614</guid>
-            <pubDate>Tue, 03 Aug 2021 18:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank scam victims speak of trouble getting refunds]]></title>
-            <description><![CDATA[Some banks are not refunding customers' losses as they should be under a new code, a regulator says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58077621</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58077621</guid>
-            <pubDate>Wed, 04 Aug 2021 05:17:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Migrant Channel crossings: 281 people reach the UK]]></title>
