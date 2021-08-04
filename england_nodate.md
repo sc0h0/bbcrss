@@ -16,8 +16,8 @@
 16. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
 17. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
 18. [Assisted dying: Campaigners renewed hope for change in the law](https://www.bbc.co.uk/news/uk-england-london-58014609) - David Peace intends to travel abroad to end his life before his motor neurone disease deteriorates further.
-19. ['I want to be like Tom Daley'](https://www.bbc.co.uk/news/uk-england-devon-58069885) - Young divers describe how Olympic medallist Tom Daley inspired them to take up the sport.
-20. [West Midlands canal rubbish is 'worst ever'](https://www.bbc.co.uk/news/uk-england-birmingham-58058733) - The Canal & River Trust says the waste dumped in West Midlands waterways is the worst it's ever seen.
+19. [Basketball: Chatham teenager gets scholarship to play for top US side](https://www.bbc.co.uk/news/uk-england-kent-58074005) - Tamara Fournillier-Onadeko, who plays at youth level in the GB squad, is heading to Chicago.
+20. [Tokyo Olympics: Young divers 'want to be like Tom Daley'](https://www.bbc.co.uk/news/uk-england-devon-58069885) - Young divers describe how Olympic medallist Tom Daley inspired them to take up the sport.
 21. [Charlotte Worthington: Family hope Olympic gold inspires others](https://www.bbc.co.uk/news/uk-england-manchester-58033770) - Charlotte Worthington's parents hope her BMX freestyle Olympic gold inspires others.
 22. [Tokyo Olympics: Man builds squirrel course in Hitchin garden](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58004533) - Steve Barley spent almost three months building the course, designed around events in a heptathlon.
 23. [Abdullah Balouchi death: Four men jailed for 'senseless' street killing](https://www.bbc.co.uk/news/uk-england-humber-58078280) - The men, aged between 18 and 22, are sentenced for the fatal stabbing of Abdullah Balouchi in Hull.
