@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 07:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 08:15:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[COP26 'should be hybrid event' says former climate chief Figueres]]></title>
+            <description><![CDATA[The main architect of Paris Agreement says the summit will need to be a mix of virtual and in-person meetings.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58055854</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58055854</guid>
+            <pubDate>Tue, 03 Aug 2021 05:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Wales 'to build 20,000 low-carbon social homes']]></title>
+            <description><![CDATA[A Welsh minister is to set out plans to tackle a housing shortage and the problem of climate change.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58078894</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58078894</guid>
+            <pubDate>Wed, 04 Aug 2021 06:39:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finance firms plan to close coal plants in Asia]]></title>
             <description><![CDATA[The Asian Development Bank aims to have the plan ready for the COP26 climate conference in November.]]></description>
@@ -51,18 +65,11 @@
             <pubDate>Fri, 30 Jul 2021 15:06:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK already undergoing disruptive climate change]]></title>
-            <description><![CDATA[Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57988023</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57988023</guid>
-            <pubDate>Thu, 29 Jul 2021 07:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian module mishap destabilises International Space Station]]></title>
-            <description><![CDATA[The ISS was pushed out of position after engines on a new Russian module unexpectedly fired up.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58021394</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58021394</guid>
-            <pubDate>Fri, 30 Jul 2021 04:06:53 GMT</pubDate>
+            <title><![CDATA[COP26 climate summit president says progress made, but not enough]]></title>
+            <description><![CDATA[The first in-person climate meeting in 18 months sees some tentative progress, but no breakthroughs.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57975025</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57975025</guid>
+            <pubDate>Mon, 26 Jul 2021 18:29:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Electric car charging prices 'must be fair' say MPs]]></title>
@@ -72,18 +79,11 @@
             <pubDate>Wed, 28 Jul 2021 00:23:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COP26 climate summit president says progress made, but not enough]]></title>
-            <description><![CDATA[The first in-person climate meeting in 18 months sees some tentative progress, but no breakthroughs.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57975025</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57975025</guid>
-            <pubDate>Mon, 26 Jul 2021 18:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Most powerful' tidal turbine starts generating electricity off Orkney]]></title>
-            <description><![CDATA[The Orbital O2, which is anchored off Orkney, has the capacity to meet the annual power demand of 2,000 homes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</guid>
-            <pubDate>Wed, 28 Jul 2021 06:44:23 GMT</pubDate>
+            <title><![CDATA[UK already undergoing disruptive climate change]]></title>
+            <description><![CDATA[Last year was the third warmest, fifth wettest and eighth sunniest on record in the UK, scientists warn.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57988023</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57988023</guid>
+            <pubDate>Thu, 29 Jul 2021 07:13:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran water: What's causing the shortages?]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/58012290</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/58012290</guid>
             <pubDate>Sun, 01 Aug 2021 23:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Most powerful' tidal turbine starts generating electricity off Orkney]]></title>
+            <description><![CDATA[The Orbital O2, which is anchored off Orkney, has the capacity to meet the annual power demand of 2,000 homes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57991351</guid>
+            <pubDate>Wed, 28 Jul 2021 06:44:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Researchers begin discussions on vital report]]></title>
@@ -140,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-57971910</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57971910</guid>
             <pubDate>Tue, 03 Aug 2021 09:20:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian module mishap destabilises International Space Station]]></title>
+            <description><![CDATA[The ISS was pushed out of position after engines on a new Russian module unexpectedly fired up.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58021394</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58021394</guid>
+            <pubDate>Fri, 30 Jul 2021 04:06:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bezos' $2bn offer to get back in race to the Moon]]></title>

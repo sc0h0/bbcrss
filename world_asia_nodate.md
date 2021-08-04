@@ -1,5 +1,5 @@
 1. [Afghanistan war: Bodies on the streets as fighting traps Lashkar Gah residents](https://www.bbc.co.uk/news/world-asia-58074525) - Terrified locals are fleeing if they can as the Taliban and troops battle to control Lashkar Gah.
-2. [Gunmen attack home of Afghan defence minister in Kabul](https://www.bbc.co.uk/news/world-asia-58081253) - The minister was not at home during the attack, which came amid rising unrest across the country.
+2. [Gunmen attack home of Afghan defence minister in Kabul](https://www.bbc.co.uk/news/world-asia-58081253) - The minister was not at home during the first major attack by militants in Kabul for nearly a year.
 3. [China Covid: China targets school students to control case surge](https://www.bbc.co.uk/news/world-asia-china-58052902) - Authorities in China are scrambling to control the spread of the virus by ramping up testing and vaccinations.
 4. [Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel](https://www.bbc.co.uk/news/world-australia-58053519) - The short-form video platform is giving fans unprecedented insight into the athletes' experience.
 5. [The group rescuing pets orphaned by Covid in Indonesia](https://www.bbc.co.uk/news/world-asia-58082216) - Animals without anyone to care for them has become a real issue in the pandemic in Indonesia.
