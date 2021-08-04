@@ -4,7 +4,7 @@
 4. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
 5. [Floods: Research shows millions more at risk of flooding](https://www.bbc.co.uk/news/science-environment-58087479) - Numbers of people exposed to flooding globally have risen by almost a quarter in two decades.
 6. [Rihanna now officially a billionaire](https://www.bbc.co.uk/news/world-us-canada-58092465) - The star is now the wealthiest female musician in the world, according to Forbes.
-7. [Tokyo Olympics: Sky Brown becomes GB's youngest medallist, plus sailing and showjumping golds](https://www.bbc.co.uk/sport/olympics/58082545) - Great Britain are fourth in the Olympic medal table after sailing and showjumping golds plus a skateboarding bronze for Sky Brown, 13.
+7. [Elaine Thompson-Herah 'mistakenly' blocked on Instagram](https://www.bbc.co.uk/sport/olympics/58094908) - The Jamaican sprinter was blocked after posting footage of her races on her Instagram account.
 8. [Thailand bans coral-damaging sunscreens in marine parks](https://www.bbc.co.uk/news/world-asia-58092472) - Anyone flouting the rules could be fined due to the damage some lotions can cause to coral.
 9. [USS Bonhomme Richard fire: Suspect identified as 20-year-old Navy sailor](https://www.bbc.co.uk/news/world-us-canada-58091854) - A newly unsealed warrant also reveals suspicions that fire stations on the ship were sabotaged.
 10. [Greece wildfires force people to flee island by boat](https://www.bbc.co.uk/news/world-europe-58093275) - Scores of people on Evia were forced to evacuate by sea as wildfire spread rapidly, destroying homes.
