@@ -1,6 +1,6 @@
 1. [Covid: If Wales' restrictions ease, be sensible - top doctor](https://www.bbc.co.uk/news/uk-wales-58074305) - Wales' restrictions on social distancing, indoor gathering and face masks could ease this weekend.
 2. [Skewen: 'Carnage' as flood-hit residents flooded again](https://www.bbc.co.uk/news/uk-wales-58077730) - The flash floods hit just after work began on a water management scheme to protect the area.
-3. [Tokyo Olympics: Team GB sailors Hannah Mills and Eilidh McIntyre win 470 gold](https://www.bbc.co.uk/sport/olympics/58083440) - Hannah Mills becomes Great Britain's most decorated female Olympic sailor as she and Eilidh McIntyre win 470 gold at Tokyo 2020.
+3. [Tokyo Olympics: Team GB sailors Hannah Mills and Eilidh McIntyre win 470 gold](https://www.bbc.co.uk/sport/olympics/58083440) - Hannah Mills becomes the most successful female sailor in Olympic history as she and Eilidh McIntyre win 470 gold at Tokyo 2020.
 4. [Tragedy became Sliding Doors moment for politician](https://www.bbc.co.uk/news/uk-wales-politics-58058218) - Julie James's life changed overnight when the father of her first child was killed in a car crash.
 5. [Covid-19: Hikers' plea for help after positive test](https://www.bbc.co.uk/news/uk-northern-ireland-58075183) - Paul McErlean and his friends were offered a spare caravan by a former UK home secretary.
 6. [Climate change: Wales 'to build 20,000 low-carbon social homes'](https://www.bbc.co.uk/news/uk-wales-58078894) - A Welsh minister is to set out plans to tackle a housing shortage and the problem of climate change.
