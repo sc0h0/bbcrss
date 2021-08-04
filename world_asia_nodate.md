@@ -1,4 +1,4 @@
-1. [Delhi rape and murder: Indians protest over Dalit girl's forced cremation](https://www.bbc.co.uk/news/world-asia-india-58083052) - A couple accuse a priest and three others of raping and murdering their daughter, aged nine.
+1. [Dalit girl rape and murder: Indians protest over girl's forced cremation](https://www.bbc.co.uk/news/world-asia-india-58083052) - A couple accuse a priest and three others of raping and murdering their daughter, aged nine.
 2. [Gunmen attack home of Afghan defence minister in Kabul](https://www.bbc.co.uk/news/world-asia-58081253) - The minister was not at home during the first major attack by militants in Kabul for nearly a year.
 3. [China Covid: China targets school students to control case surge](https://www.bbc.co.uk/news/world-asia-china-58052902) - Authorities in China are scrambling to control the spread of the virus by ramping up testing and vaccinations.
 4. [Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel](https://www.bbc.co.uk/news/world-australia-58053519) - The short-form video platform is giving fans unprecedented insight into the athletes' experience.

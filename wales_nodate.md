@@ -1,5 +1,5 @@
 1. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
-2. [Boy, 3, killed in collision with vehicle at farm in Clynderwen](https://www.bbc.co.uk/news/uk-wales-58089814) - The boy died at the scene of the incident at the farm in Pembrokeshire, police say.
+2. [Boy, 3, killed in collision with vehicle at farm in Efailwen](https://www.bbc.co.uk/news/uk-wales-58089814) - The boy died at the scene of the incident at the farm in Carmarthenshire, police say.
 3. [Covid in Wales: Teens aged 16-17 to be offered jabs](https://www.bbc.co.uk/news/uk-wales-politics-58088296) - Jabs for young confirmed after new advice from committee of vaccine experts.
 4. [Covid: If Wales' restrictions ease, be sensible - top doctor](https://www.bbc.co.uk/news/uk-wales-58074305) - Wales' restrictions on social distancing, indoor gathering and face masks could ease this weekend.
 5. [Lee Collins: Yeovil Town captain's death was suicide, records coroner](https://www.bbc.co.uk/news/uk-england-somerset-58090985) - An inquest heard Yeovil Town captain Lee Collins also had drugs and alcohol in his system.
