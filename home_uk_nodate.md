@@ -21,7 +21,7 @@
 21. [Barbra Streisand: 'I've always had the right to sing what I want'](https://www.bbc.co.uk/news/entertainment-arts-58056164) - The star looks back at her career, and explains how she's always maintained creative control.
 22. [13 things to know about GB's Sky Brown](https://www.bbc.co.uk/sport/olympics/57998750) - Sky Brown is the all-singing, all-dancing athlete who has travelled an unusual route to becoming a British Olympic medallist.
 23. [Seasick swimmer makes history by completing Outer Hebrides challenge](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58059477) - James Armour has become the first person to swim, run and cycle the length of the Outer Hebrides.
-24. [Indyref2: Why has the campaign for another vote gone quiet?](https://www.bbc.co.uk/news/uk-politics-58079551) - Boris Johnson visits Scotland with no sign of an independence referendum will be soon, writes Nick Eardley.
+24. [Indyref2: Why has the campaign for another vote gone quiet?](https://www.bbc.co.uk/news/uk-politics-58079551) - Boris Johnson visits Scotland with no sign an independence referendum will be soon, writes Nick Eardley.
 25. [The downfall of Nissan's Carlos Ghosn: An insider's view](https://www.bbc.co.uk/news/business-58070929) - Former Nissan lawyer Ravinder Passi had a ringside seat of the downfall of chairman Carlos Ghosn.
 26. [Abandoned by my friends when I was diagnosed with cancer](https://www.bbc.co.uk/news/newsbeat-58033162) - New research by the Teenage Cancer Trust finds some young people feel "abandoned" during treatment.
 27. [Amber-plus list: Why were extra travel restrictions imposed on France?](https://www.bbc.co.uk/news/58061520) - Why did ministers decide to retain quarantine for arrivals from France?

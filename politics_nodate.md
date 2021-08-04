@@ -1,5 +1,5 @@
 1. [Covid: Boris Johnson to begin two-day visit to Scotland](https://www.bbc.co.uk/news/uk-politics-58079390) - The prime minister will not meet Scotland's first minister despite being invited to her official residence.
-2. [Indyref2: Why has the campaign for another vote gone quiet?](https://www.bbc.co.uk/news/uk-politics-58079551) - Boris Johnson visits Scotland with no sign of an independence referendum will be soon, writes Nick Eardley.
+2. [Indyref2: Why has the campaign for another vote gone quiet?](https://www.bbc.co.uk/news/uk-politics-58079551) - Boris Johnson visits Scotland with no sign an independence referendum will be soon, writes Nick Eardley.
 3. [Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting](https://www.bbc.co.uk/news/uk-politics-58073145) - Svetlana Tikhanovskaya says she has been assured of further UK support, amid a crackdown on dissent.
 4. [Covid-19: Amber watchlist travel idea scrapped](https://www.bbc.co.uk/news/uk-58064470) - Government sources say they have dropped proposals for a new category in the traffic light system.
 5. [Covid-19: Behind-the-scenes battles over amber watchlist](https://www.bbc.co.uk/news/uk-politics-58072985) - Cabinet divisions over international travel rules spilled out into the open this week, writes Adam Fleming.
