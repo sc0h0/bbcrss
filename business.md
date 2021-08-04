@@ -1,4 +1,4 @@
-1. [Taylor Wimpey rejects housing market bubble fears](https://www.bbc.co.uk/news/business-58083883) - Wed, 04 Aug 2021 07:35:09 GMT - The housebuilder sees bumper profits and builds a record number of new homes in the first half of 2021.
+1. [Taylor Wimpey rejects housing market bubble fears](https://www.bbc.co.uk/news/business-58083883) - Wed, 04 Aug 2021 07:50:43 GMT - The housebuilder sees bumper profits and builds a record number of new homes in the first half of 2021.
 2. [Petrol prices at eight-year high, says RAC](https://www.bbc.co.uk/news/business-58076604) - Wed, 04 Aug 2021 06:09:52 GMT - Prices have risen for nine straight months - and are expected to increase further - the motoring group says.
 3. [MV Asphalt Princess: Suspected hijackers leave ship off UAE](https://www.bbc.co.uk/news/world-middle-east-58083671) - Wed, 04 Aug 2021 06:56:20 GMT - Men who boarded a Panama-flagged bitumen tanker have now left the vessel, officials say.
 4. [New York restaurant customers to need Covid jabs](https://www.bbc.co.uk/news/business-58021334) - Tue, 03 Aug 2021 17:27:39 GMT - The city is to require people using indoor businesses to have had Covid vaccinations.
