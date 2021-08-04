@@ -2,12 +2,12 @@
 2. [Migrant Channel crossings: 284 people reach the UK](https://www.bbc.co.uk/news/uk-england-kent-58083490) - The Home Office says the rising number of people making the "dangerous" crossing is unacceptable.
 3. [Tokyo Olympics: Where are Team GB’s English medallists from?](https://www.bbc.co.uk/news/uk-england-58073305) - With day 11 of the competition over, the North West currently leads the way when it comes to medals.
 4. [Ever Given: Cargo ship that blocked Suez Canal arrives in Felixstowe](https://www.bbc.co.uk/news/uk-england-suffolk-58078100) - The Ever Given docks at the Port of Felixstowe months after it was originally due to arrive.
-5. [Bradford child sexual abuse: 19 men arrested](https://www.bbc.co.uk/news/uk-england-leeds-58084134) - The inquiry is connected to offences against one female in Bradford between 2000-2005, police say.
-6. [Basketball: Chatham teenager gets scholarship to play for top US side](https://www.bbc.co.uk/news/uk-england-kent-58074005) - Tamara Fournillier-Onadeko, who plays at youth level in the GB squad, is heading to Chicago.
-7. [Vigil held for sisters murdered in park](https://www.bbc.co.uk/news/uk-england-london-58080643) - Family and friends gather at a vigil to honour women lost to male violence.
-8. [Boy, 5, dies after department store head injury](https://www.bbc.co.uk/news/uk-england-essex-58080163) - Police say specialist officers are supporting the boy's family following his death.
-9. [Tom Miller: Hiding student fell to death at illegal lockdown party](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58070838) - Rumours of a police raid prompted Tom Miller to climb out of a window, an inquest hears.
-10. [Aya Hachem: Seven men guilty of drive-by shooting murder](https://www.bbc.co.uk/news/uk-england-lancashire-58077841) - Innocent passer-by Aya Hachem, 19, was shot dead in a feud between two Blackburn tyre firm owners.
+5. [Basketball: Chatham teenager gets scholarship to play for top US side](https://www.bbc.co.uk/news/uk-england-kent-58074005) - Tamara Fournillier-Onadeko, who plays at youth level in the GB squad, is heading to Chicago.
+6. [Hot air balloons take to the sky over city](https://www.bbc.co.uk/news/uk-england-bristol-58083380) - Dozens of balloons take off from a park in Bristol as part of Fiesta Fortnight.
+7. [Bradford child sexual abuse: 19 men arrested](https://www.bbc.co.uk/news/uk-england-leeds-58084134) - The inquiry is connected to offences against one female in Bradford between 2000-2005, police say.
+8. [Vigil held for sisters murdered in park](https://www.bbc.co.uk/news/uk-england-london-58080643) - Family and friends gather at a vigil to honour women lost to male violence.
+9. [Boy, 5, dies after department store head injury](https://www.bbc.co.uk/news/uk-england-essex-58080163) - Police say specialist officers are supporting the boy's family following his death.
+10. [Tom Miller: Hiding student fell to death at illegal lockdown party](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58070838) - Rumours of a police raid prompted Tom Miller to climb out of a window, an inquest hears.
 11. [Award for 'Covid hero' Taunton dressmaker who made PPE](https://www.bbc.co.uk/news/uk-england-somerset-58074665) - The Taunton Scrubbers was made up of 800 volunteers from across Somerset at its peak.
 12. [Why bonding over the Euros appeared to increase Covid cases in men](https://www.bbc.co.uk/news/health-58015593) - Psychologists say men need to be part of a group in order to vent their feelings and emotions.
 13. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
