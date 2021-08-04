@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 18:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 20:37:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Mon, 02 Aug 2021 23:05:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Four-year-old US piano prodigy flourishing amid pandemic]]></title>
+            <description><![CDATA[Brigitte's parents just wanted to keep her busy. Now, she's been invited to play at Carnegie Hall.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58094008</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58094008</guid>
+            <pubDate>Wed, 04 Aug 2021 17:30:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lebanon blast: ‘Path towards reform irreversible’]]></title>
             <description><![CDATA[We owe it to our people to tackle issues which led to the blast, the ambassador to the UK says.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58091119</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58057432</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58057432</guid>
             <pubDate>Mon, 02 Aug 2021 23:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: 'You can take our flag but not our love for Russia']]></title>
-            <description><![CDATA[Russia may be banned from the Olympics, but Russians are still winning medals – and rivals aren't happy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58063003</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58063003</guid>
-            <pubDate>Mon, 02 Aug 2021 23:05:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Andre de Grasse claims 200m gold]]></title>
