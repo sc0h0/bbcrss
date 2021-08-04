@@ -1,6 +1,6 @@
 1. [Andrew Cuomo: Biden says governor should resign over harassment report](https://www.bbc.co.uk/news/world-us-canada-58077255) - The new report comes months after several women accused the New York governor of sexual misconduct.
 2. [Gunmen attack home of Afghan defence minister in Kabul](https://www.bbc.co.uk/news/world-asia-58081253) - The minister was not at home during the attack, which came rising unrest across the country.
-3. [Belarus sprinter Krystina Timanovskaya to leave Tokyo for Poland](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya took refuge in the Polish embassy after refusing to board a flight to Belarus.
+3. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya had refused orders to fly home early to Belarus and is now en route to Vienna.
 4. [MV Asphalt Princess: Ship hijacked off UAE ordered to sail to Iran](https://www.bbc.co.uk/news/world-middle-east-58078506) - The Panama-flagged MV Asphalt Princess has been ordered to sail to Iran, officials say.
 5. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
 6. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
