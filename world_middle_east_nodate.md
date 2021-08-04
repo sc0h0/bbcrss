@@ -1,4 +1,4 @@
-1. [MV Asphalt Princess: Ship hijacked off UAE ordered to sail to Iran](https://www.bbc.co.uk/news/world-middle-east-58078506) - The Panama-flagged MV Asphalt Princess has been ordered to sail to Iran, officials say.
+1. [MV Asphalt Princess: Suspected hijackers leave ship off UAE](https://www.bbc.co.uk/news/world-middle-east-58083671) - Men who boarded a Panama-flagged bitumen tanker have now left the vessel, officials say.
 2. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
 3. [Sheikh Jarrah: Palestinians and Israelis baulk at evictions compromise](https://www.bbc.co.uk/news/world-middle-east-58024060) - A plan to end a long-running saga which has fuelled Israel-Palestinian tensions faces rejection.
 4. [UK and Iran summon diplomats after tanker attack](https://www.bbc.co.uk/news/world-middle-east-58059271) - Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.

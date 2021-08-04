@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 06:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 07:06:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/business-58076604</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58076604</guid>
             <pubDate>Wed, 04 Aug 2021 06:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MV Asphalt Princess: Suspected hijackers leave ship off UAE]]></title>
+            <description><![CDATA[Men who boarded a Panama-flagged bitumen tanker have now left the vessel, officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58083671</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58083671</guid>
+            <pubDate>Wed, 04 Aug 2021 06:56:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New York restaurant customers to need Covid jabs]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/business-58081815</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58081815</guid>
             <pubDate>Wed, 04 Aug 2021 03:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MV Asphalt Princess: Ship hijacked off UAE ordered to sail to Iran]]></title>
-            <description><![CDATA[The Panama-flagged MV Asphalt Princess has been ordered to sail to Iran, officials say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58078506</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58078506</guid>
-            <pubDate>Tue, 03 Aug 2021 20:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Timber shortage due to 'unprecedented' post-lockdown demand]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-58064470</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58064470</guid>
             <pubDate>Tue, 03 Aug 2021 07:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MV Asphalt Princess: Ship hijacked off UAE ordered to sail to Iran]]></title>
+            <description><![CDATA[The Panama-flagged MV Asphalt Princess has been ordered to sail to Iran, officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58078506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58078506</guid>
+            <pubDate>Tue, 03 Aug 2021 20:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ministers reject calls to lower state pension age to 60]]></title>
