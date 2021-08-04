@@ -1,5 +1,5 @@
-1. [Belarus protests: Trial of opposition figures begins](https://www.bbc.co.uk/news/world-europe-58083672) - Protest organiser Maria Kolesnikova has been charged with threatening national security.
-2. [Delhi rape and murder: Indians protest over Dalit girl's forced cremation](https://www.bbc.co.uk/news/world-asia-india-58083052) - A couple accuse a priest and three others of raping and murdering their daughter, aged nine.
+1. [Delhi rape and murder: Indians protest over Dalit girl's forced cremation](https://www.bbc.co.uk/news/world-asia-india-58083052) - A couple accuse a priest and three others of raping and murdering their daughter, aged nine.
+2. [Belarus protests: Trial of opposition figures begins](https://www.bbc.co.uk/news/world-europe-58083672) - Protest organiser Maria Kolesnikova has been charged with threatening national security.
 3. [Barack Obama scales back 60th birthday party as Covid cases rise](https://www.bbc.co.uk/news/world-us-canada-58083780) - The former president turns 60 on Wednesday but has cancelled plans for a big party this weekend.
 4. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
 5. [Gunmen attack home of Afghan defence minister in Kabul](https://www.bbc.co.uk/news/world-asia-58081253) - The minister was not at home during the first major attack by militants in Kabul for nearly a year.

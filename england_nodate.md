@@ -1,6 +1,6 @@
-1. [Covid vaccine set to be offered to 16 and 17-year-olds](https://www.bbc.co.uk/news/uk-58080232) - More than one million teenagers would be included in a new rollout if ministers accept expert advice.
-2. [Ever Given: Cargo unloaded from ship that blocked Suez Canal](https://www.bbc.co.uk/news/uk-england-suffolk-58085950) - The Ever Given arrived at Felixstowe on Tuesday and is expected to leave on Thursday.
-3. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
+1. [Ever Given: Cargo unloaded from ship that blocked Suez Canal](https://www.bbc.co.uk/news/uk-england-suffolk-58085950) - The Ever Given arrived at Felixstowe on Tuesday and is expected to leave on Thursday.
+2. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
+3. [Top Gear production to move to Bristol from 2022](https://www.bbc.co.uk/news/entertainment-arts-58086981) - The long-running BBC motoring show will move out of London next year.
 4. [Dog-snatching thief filmed by doorbell camera in Horndean](https://www.bbc.co.uk/news/uk-england-hampshire-58086838) - A 13-year-old boy was walking his border terrier Melchy when he was pushed out of the way.
 5. [Woman watching Love Island nearly hit as car smashes into living room](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58086150) - Rhia Brindley is told if she had been in her usual spot to watch TV, she would be "injured or dead".
 6. [Tipton house fire: Woman arrested after man and dog killed](https://www.bbc.co.uk/news/uk-england-birmingham-58088457) - An 18-year-old woman is held on suspicion of arson after the deadly blaze in Tipton, West Midlands.
