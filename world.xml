@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 23:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 23:41:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -191,11 +191,11 @@
             <pubDate>Mon, 02 Aug 2021 23:12:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Andre de Grasse claims 200m gold]]></title>
-            <description><![CDATA[Canada's Andre de Grasse finishes fast to overhaul world champion Noah Lyles and win the Olympic 200m title.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58088922</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58088922</guid>
-            <pubDate>Wed, 04 Aug 2021 14:14:49 GMT</pubDate>
+            <title><![CDATA[Quinn: Canada's transgender footballer on being 'visible' and playing at the Olympics]]></title>
+            <description><![CDATA[Quinn, a defender for Canada's women's football team, came out as transgender in September 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58061475</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58061475</guid>
+            <pubDate>Wed, 04 Aug 2021 20:19:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Sydney McLaughlin smashes record, Kokona Hiraki, 12, wins silver]]></title>
@@ -203,6 +203,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58082645</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58082645</guid>
             <pubDate>Wed, 04 Aug 2021 13:43:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Andre de Grasse claims 200m gold]]></title>
+            <description><![CDATA[Canada's Andre de Grasse finishes fast to overhaul world champion Noah Lyles and win the Olympic 200m title.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58088922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58088922</guid>
+            <pubDate>Wed, 04 Aug 2021 14:14:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Golf caddie suffers heatstroke in searing heat]]></title>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58081505</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58081505</guid>
             <pubDate>Wed, 04 Aug 2021 03:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Medal table - which country has won most golds?]]></title>
-            <description><![CDATA[Which country is leading the medal table? How are Great Britain getting on? Medals table for the 2020 Olympics in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57836709</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57836709</guid>
-            <pubDate>Sun, 01 Aug 2021 14:10:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
