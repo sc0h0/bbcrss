@@ -1,4 +1,4 @@
-1. [Covid: Boris Johnson to begin two-day visit to Scotland](https://www.bbc.co.uk/news/uk-politics-58079390) - The prime minister will not meet Scotland's first minister despite being invited to her official residence.
+1. [Sturgeon: Strange the PM will not meet me](https://www.bbc.co.uk/news/uk-politics-58079390) - Nicola Sturgeon says she does not feel snubbed but it is odd not to meet PM on his Scotland visit.
 2. [Indyref2: Why has the campaign for another vote gone quiet?](https://www.bbc.co.uk/news/uk-politics-58079551) - Boris Johnson visits Scotland with no sign an independence referendum will be soon, writes Nick Eardley.
 3. [Boris Johnson 'not in favour' of drug consumption rooms](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58092735) - The Scottish government is committed to setting up "safe" consumption facilities - but the prime minister opposes them.
 4. [Keir Starmer attacks government record on green jobs](https://www.bbc.co.uk/news/uk-politics-58088236) - The Labour leader says there is a "chasm between soundbites and action" on climate-friendly employment.
