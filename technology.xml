@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 08:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 08:35:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,25 @@
             <pubDate>Tue, 03 Aug 2021 16:12:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lauren Goodger foreign exchange Instagram advert banned]]></title>
+            <description><![CDATA[The TV star had been paid for a post that a watchdog says wasn't obviously identifiable as an ad.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58084534</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58084534</guid>
+            <pubDate>Wed, 04 Aug 2021 08:22:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Li Auto: China Tesla rival plans Hong Kong secondary listing]]></title>
             <description><![CDATA[The move comes as Chinese firms listed in the US face increasing scrutiny by Beijing and Washington.]]></description>
             <link>https://www.bbc.co.uk/news/business-58081815</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58081815</guid>
             <pubDate>Wed, 04 Aug 2021 03:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shares slide after China brands online games 'electronic drugs']]></title>
+            <description><![CDATA[In recent months Beijing has cracked down on China's technology and private education industries.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58066659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58066659</guid>
+            <pubDate>Tue, 03 Aug 2021 06:21:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Official recommends rerun in Amazon union fight]]></title>
@@ -49,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-58062180</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58062180</guid>
             <pubDate>Mon, 02 Aug 2021 22:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shares slide after China brands online games 'electronic drugs']]></title>
-            <description><![CDATA[In recent months Beijing has cracked down on China's technology and private education industries.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58066659</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58066659</guid>
-            <pubDate>Tue, 03 Aug 2021 06:21:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Twitter works with news sites to tackle disinformation]]></title>
@@ -93,27 +100,6 @@
             <pubDate>Sun, 01 Aug 2021 22:34:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The perfect storm striking World of Warcraft]]></title>
-            <description><![CDATA[All of a sudden, WoW players are in revolt, and its competitors are having a boom.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58017429</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58017429</guid>
-            <pubDate>Sat, 31 Jul 2021 23:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sky News Australia barred for week by YouTube over Covid misinformation]]></title>
-            <description><![CDATA[The digital giant bans the channel from uploading new content for a week over misinformation breaches.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58045787</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58045787</guid>
-            <pubDate>Sun, 01 Aug 2021 10:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home car charger owners urged to install updates]]></title>
-            <description><![CDATA[Security vulnerabilities in two domestic electric car chargers were discovered by researchers.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58011014</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58011014</guid>
-            <pubDate>Tue, 03 Aug 2021 07:23:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Untethered bi-pedal robot runs 5km and other tech news]]></title>
             <description><![CDATA[Jen Copestake looks at some of the best technology news stories of the week.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58014320</link>
@@ -147,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-57902816</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57902816</guid>
             <pubDate>Tue, 20 Jul 2021 23:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The perfect storm striking World of Warcraft]]></title>
+            <description><![CDATA[All of a sudden, WoW players are in revolt, and its competitors are having a boom.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58017429</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58017429</guid>
+            <pubDate>Sat, 31 Jul 2021 23:18:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel]]></title>
@@ -210,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/technology-57801794</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57801794</guid>
             <pubDate>Fri, 16 Jul 2021 00:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why was my tweet about football labelled abusive?]]></title>
-            <description><![CDATA[A BBC journalist sets out to discover how Twitter moderates posts after he was banned from the platform.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57836409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57836409</guid>
-            <pubDate>Sat, 17 Jul 2021 23:22:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

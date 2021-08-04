@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 08:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 08:37:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Wed, 04 Aug 2021 08:12:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Long-lasting Covid-19 symptoms rare in children]]></title>
-            <description><![CDATA[Children who become ill with coronavirus mostly recover in less than a week, research suggests.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58071898</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58071898</guid>
-            <pubDate>Wed, 04 Aug 2021 00:04:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Jabs for over 16s, and is the virus threat over?]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday morning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58078231</link>
@@ -44,18 +37,18 @@
             <pubDate>Wed, 04 Aug 2021 06:52:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Long-lasting Covid-19 symptoms rare in children]]></title>
+            <description><![CDATA[Children who become ill with coronavirus mostly recover in less than a week, research suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58071898</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58071898</guid>
+            <pubDate>Wed, 04 Aug 2021 00:04:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Belarus sprinter Krystina Timanovskaya flies out of Japan]]></title>
             <description><![CDATA[Krystina Timanovskaya refused orders to fly home early and is now en route to Vienna.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58081254</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58081254</guid>
             <pubDate>Wed, 04 Aug 2021 06:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Cuomo: Biden says governor should resign over harassment report]]></title>
-            <description><![CDATA[The new report comes months after several women accused the New York governor of sexual misconduct.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58077255</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58077255</guid>
-            <pubDate>Tue, 03 Aug 2021 21:20:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MV Asphalt Princess: Ship hijacked off UAE ordered to sail to Iran]]></title>
@@ -72,11 +65,11 @@
             <pubDate>Wed, 04 Aug 2021 07:09:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Timber shortage due to 'unprecedented' post-lockdown demand]]></title>
-            <description><![CDATA[Prices are rising sharply as climate change and post-lockdown DIY and building projects hit supplies.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57920510</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57920510</guid>
-            <pubDate>Tue, 03 Aug 2021 23:57:02 GMT</pubDate>
+            <title><![CDATA[Covid: Boris Johnson to begin two-day visit to Scotland]]></title>
+            <description><![CDATA[The prime minister will not meet Scotland's first minister despite being invited to her official residence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58079390</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079390</guid>
+            <pubDate>Wed, 04 Aug 2021 08:00:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Petrol prices at eight-year high, says RAC]]></title>
@@ -184,6 +177,13 @@
             <pubDate>Wed, 04 Aug 2021 05:24:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Indyref2: Why has the campaign for another vote gone quiet?]]></title>
+            <description><![CDATA[Boris Johnson visits Scotland with no sign of an independence referendum will be soon, writes Nick Eardley.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58079551</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079551</guid>
+            <pubDate>Wed, 04 Aug 2021 07:52:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The downfall of Nissan's Carlos Ghosn: An insider's view]]></title>
             <description><![CDATA[Former Nissan lawyer Ravinder Passi had a ringside seat of the downfall of chairman Carlos Ghosn.]]></description>
             <link>https://www.bbc.co.uk/news/business-58070929</link>
@@ -203,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/58061520</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/58061520</guid>
             <pubDate>Wed, 04 Aug 2021 01:12:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indyref2: Why has the campaign for another vote gone quiet?]]></title>
-            <description><![CDATA[Boris Johnson visits Scotland with no sign of an independence referendum will be soon, writes Nick Eardley.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58079551</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079551</guid>
-            <pubDate>Wed, 04 Aug 2021 07:52:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Villa sign Jamaica winger Bailey from Bayer Leverkusen]]></title>
