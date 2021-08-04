@@ -23,6 +23,6 @@
 23. [One-club players: Giggs, Scholes, Le Tissier, Maldini and Totti turned down big moves](https://www.bbc.co.uk/sport/football/58071152) - With Jack Grealish and Harry Kane considering their futures, BBC Sport looks at some players who turned down money-spinning moves to become legends at their clubs.
 24. ['Symud at gyfrifoldeb personol' os fydd llacio pellach](https://www.bbc.co.uk/newyddion/58078760) - Prif swyddog meddygol yn galw ar bobl i ymddwyn yn "synhwyrol" os fydd rheolau Covid yn llacio ar 7 Awst.
 25. ['20,000 o dai cymdeithasol i'w rhentu erbyn 2026'](https://www.bbc.co.uk/newyddion/58078761) - Disgwyl manylion cynlluniau i fynd i'r afael â phrinder tai ac allyriadau tŷ gwydr yng Nghymru.
-26. ['Safon cystadleuaeth Dysgwr y Flwyddyn yn eithriadol'](https://www.bbc.co.uk/newyddion/57985423) - Bydd enillydd cystadleuaeth Dysgwr y Flwyddyn yn cael ei gyhoeddi brynhawn dydd Mercher.
+26. [Aur i Hannah Mills yn yr hwylio yn Tokyo](https://www.bbc.co.uk/newyddion/58084682) - Ond mae'r canlyniad yn answyddogol am y tro oherwydd protest gan un o'r timau eraill.
 27. [Lluniau Cymro tu ôl i'r camera yn yr Olympau](https://www.bbc.co.uk/newyddion/58074325) - Mae Siôn Dafydd Palmer yn rhannu ei brofiad o ffilmio yn Gemau Olympaidd Tokyo yn ystod cyfnod Covid
 28. [Y Llewod yn mentro er mwyn llwyddo ar y cymal olaf](https://www.bbc.co.uk/newyddion/58075694) - Y Springboks yw'r ffefrynnau o drwch blewyn, ond da chi, peidiwch â diystyru'r Llewod o dan Gatland.
