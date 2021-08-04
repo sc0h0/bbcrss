@@ -1,4 +1,4 @@
-1. [Covid: Vaccines to be offered to 16 and 17 year olds](https://www.bbc.co.uk/news/uk-58080232) - More than one million teenagers would be included in a new rollout if ministers accept expert advice.
+1. [Covid: Vaccines set to be offered to 16 and 17 year olds](https://www.bbc.co.uk/news/uk-58080232) - More than one million teenagers would be included in a new rollout if ministers accept expert advice.
 2. [Long-lasting Covid-19 symptoms rare in children](https://www.bbc.co.uk/news/health-58071898) - Children who become ill with coronavirus mostly recover in less than a week, research suggests.
 3. [Wuhan: Chinese city to test entire population after virus resurfaces](https://www.bbc.co.uk/news/world-asia-china-58066744) - The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.
 4. [NHS Covid-19 app in England and Wales tweaked to notify fewer contacts](https://www.bbc.co.uk/news/uk-58062180) - The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.
