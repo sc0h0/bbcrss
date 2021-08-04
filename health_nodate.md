@@ -33,8 +33,8 @@
 33. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 34. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 35. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-36. [Covid: 'No time to waste' in vaccinating 16-17 year olds](https://www.bbc.co.uk/news/uk-58092705) - Children aged 16-17 should be vaccinated "as fast as practically possible", Prof Jonathan Van-Tam says.
-37. [Covid: 16 and 17-year-olds react to jab rollout plan](https://www.bbc.co.uk/news/uk-58092946) - All 16 and 17-year-olds in the UK will be offered Covid jabs within weeks, it has been announced.
-38. [Covid: Professor Jonathan Van-Tam answers your questions](https://www.bbc.co.uk/news/uk-58020184) - The deputy chief medical officer answers a range of questions about Covid from young audience members.
-39. [The women fighting infertility stigma in Nigeria](https://www.bbc.co.uk/news/world-africa-58004523) - Three Nigerian women confront the prejudice they have faced on their fertility journeys.
-40. [The autism-friendly toy shop: 'We have got this'](https://www.bbc.co.uk/news/uk-england-58026672) - Retail worker Romilly, who is autistic, wants to create a comfortable space for other autistic people to shop in.
+36. [Munchausen by Internet: Are chronic illness influencers really faking it?](https://www.bbc.co.uk/news/stories-58093455) - Munchausen by Internet: Are some influencers faking illnesses for fame, money and attention?
+37. [Covid: 'No time to waste' in vaccinating 16-17 year olds](https://www.bbc.co.uk/news/uk-58092705) - Children aged 16-17 should be vaccinated "as fast as practically possible", Prof Jonathan Van-Tam says.
+38. [Covid: 16 and 17-year-olds react to jab rollout plan](https://www.bbc.co.uk/news/uk-58092946) - All 16 and 17-year-olds in the UK will be offered Covid jabs within weeks, it has been announced.
+39. [Covid: Professor Jonathan Van-Tam answers your questions](https://www.bbc.co.uk/news/uk-58020184) - The deputy chief medical officer answers a range of questions about Covid from young audience members.
+40. [The women fighting infertility stigma in Nigeria](https://www.bbc.co.uk/news/world-africa-58004523) - Three Nigerian women confront the prejudice they have faced on their fertility journeys.
