@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 04:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 05:16:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58079390</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079390</guid>
             <pubDate>Tue, 03 Aug 2021 18:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indyref2: Why has the campaign for another vote gone quiet?]]></title>
+            <description><![CDATA[Boris Johnson heads to Scotland this week with no sign an independence referendum will be soon.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58079551</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079551</guid>
+            <pubDate>Wed, 04 Aug 2021 00:24:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Highlands powerline to get first major revamp since 1950s]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Tue, 03 Aug 2021 15:32:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Scots cycling trio secure silver medals as Reekie misses out on 800m medal]]></title>
-            <description><![CDATA[Four cyclists take silver medals, but Jemma Reekie narrowly misses out on a 800m medal on a busy day for the Scots at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58068498</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58068498</guid>
-            <pubDate>Tue, 03 Aug 2021 12:52:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
             <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
@@ -133,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/world-51235105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Mon, 02 Aug 2021 10:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indyref2: Why has the campaign for another vote gone quiet?]]></title>
-            <description><![CDATA[Boris Johnson heads to Scotland this week with no sign an independence referendum will be soon.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58079551</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079551</guid>
-            <pubDate>Wed, 04 Aug 2021 00:24:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Your questions answered on life after level zero]]></title>
