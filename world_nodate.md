@@ -7,7 +7,7 @@
 7. [German pensioner given hefty fine for WW2 tank in house](https://www.bbc.co.uk/news/world-europe-58077039) - The 82 year old is given a suspended sentence and fined €250,000 (£213,469).
 8. [Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel](https://www.bbc.co.uk/news/world-australia-58053519) - The short-form video platform is giving fans unprecedented insight into the athletes' experience.
 9. [FBI used pictures of staff for undercover sex crime stings](https://www.bbc.co.uk/news/world-us-canada-58077310) - A watchdog says the FBI put office staff in danger by using their photos to lure sexual predators.
-10. [Tokyo Olympics: Taiwan stars trolled by Chinese nationalists](https://www.bbc.co.uk/news/world-asia-china-58082265) - Chinese nationalists interpreted saw for Taiwan's athletes as support for the island's independence.
+10. [Tokyo Olympics: Taiwan stars trolled by Chinese nationalists](https://www.bbc.co.uk/news/world-asia-china-58082265) - Chinese nationalists interpreted support for Taiwan's athletes as support for the island's independence.
 11. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
 12. [Li Auto: China Tesla rival plans Hong Kong secondary listing](https://www.bbc.co.uk/news/business-58081815) - The move comes as Chinese firms listed in the US face increasing scrutiny by Beijing and Washington.
 13. [Afghanistan war: Bodies on the streets as fighting traps Lashkar Gah residents](https://www.bbc.co.uk/news/world-asia-58074525) - Terrified locals are fleeing if they can as the Taliban and troops battle to control Lashkar Gah.

@@ -1,7 +1,7 @@
-1. [Covid: Vaccines set to be offered to 16 and 17 year olds](https://www.bbc.co.uk/news/uk-58080232) - More than one million teenagers would be included in a new rollout if ministers accept expert advice.
+1. [Covid vaccine set to be offered to 16 and 17-year-olds](https://www.bbc.co.uk/news/uk-58080232) - More than one million teenagers would be included in a new rollout if ministers accept expert advice.
 2. [Long-lasting Covid-19 symptoms rare in children](https://www.bbc.co.uk/news/health-58071898) - Children who become ill with coronavirus mostly recover in less than a week, research suggests.
-3. [MV Asphalt Princess: Ship hijacked off UAE ordered to sail to Iran](https://www.bbc.co.uk/news/world-middle-east-58078506) - The Panama-flagged MV Asphalt Princess has been ordered to sail to Iran, officials say.
-4. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya had refused orders to fly home early to Belarus and is now en route to Vienna.
+3. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya had refused orders to fly home early to Belarus and is now en route to Vienna.
+4. [MV Asphalt Princess: Ship hijacked off UAE ordered to sail to Iran](https://www.bbc.co.uk/news/world-middle-east-58078506) - The Panama-flagged MV Asphalt Princess has been ordered to sail to Iran, officials say.
 5. [Andrew Cuomo: Biden says governor should resign over harassment report](https://www.bbc.co.uk/news/world-us-canada-58077255) - The new report comes months after several women accused the New York governor of sexual misconduct.
 6. [Gunmen attack home of Afghan defence minister in Kabul](https://www.bbc.co.uk/news/world-asia-58081253) - The minister was not at home during the attack, which came rising unrest across the country.
 7. [Covid-19: Hikers' plea for help after positive test](https://www.bbc.co.uk/news/uk-northern-ireland-58075183) - Paul McErlean and his friends were offered a spare caravan by a former UK home secretary.
@@ -20,7 +20,7 @@
 20. [Tokyo Olympics sparks anti-LGBT slurs on Russian TV](https://www.bbc.co.uk/news/world-europe-58029133) - Gay and transgender athletes in Tokyo have been singled out for abuse on Russian state television.
 21. [Rett syndrome: My sister speaks to me without words](https://www.bbc.co.uk/news/disability-58073175) - Sisters Victoria and Clare have a strong bond, but a rare syndrome means they have never spoken.
 22. [Barbra Streisand: 'I've always had the right to sing what I want'](https://www.bbc.co.uk/news/entertainment-arts-58056164) - The star looks back at her career, and explains how she's always maintained creative control.
-23. [Sky Brown: 13 things to know about GB's 13-year-old Olympic skateboarding medallist](https://www.bbc.co.uk/sport/olympics/57998750) - Brown is the all-singing, all-dancing medal hopeful with an unusual route to becoming a British Olympic medallist
+23. [13 things to know about GB's Sky Brown](https://www.bbc.co.uk/sport/olympics/57998750) - Brown is the all-singing, all-dancing medal hopeful with an unusual route to becoming a British Olympic medallist
 24. [Seasick swimmer makes history by completing Outer Hebrides challenge](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58059477) - James Armour has become the first person to swim, run and cycle the length of the Outer Hebrides.
 25. [The downfall of Nissan's Carlos Ghosn: An insider's view](https://www.bbc.co.uk/news/business-58070929) - Former Nissan lawyer Ravinder Passi had a ringside seat of the downfall of chairman Carlos Ghosn.
 26. [Abandoned by my friends when I was diagnosed with cancer](https://www.bbc.co.uk/news/newsbeat-58033162) - New research by the Teenage Cancer Trust finds some young people feel "abandoned" during treatment.

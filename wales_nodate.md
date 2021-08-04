@@ -22,7 +22,7 @@
 22. [One-Day Cup: Glamorgan ease to five-wicket win over Surrey](https://www.bbc.co.uk/sport/cricket/58076807) - Glamorgan beat Surrey by five wickets in the One-Day Cup, with Hamish Rutherford making 58 and Andrew Salter taking 3-37 in Surrey's 132.
 23. [British and Irish Lions: Kyle Sinckler can play in third Test after citing dismissed](https://www.bbc.co.uk/sport/rugby-union/58073121) - A citing against British and Irish Lions prop Kyle Sinckler for an alleged bite in the second Test against South Africa has been dismissed.
 24. ['Symud at gyfrifoldeb personol' os fydd llacio pellach](https://www.bbc.co.uk/newyddion/58078760) - Prif swyddog meddygol yn galw ar bobl i ymddwyn yn "synhwyrol" os fydd rheolau Covid yn llacio ar 7 Awst.
-25. [Lleucu Roberts yw enillydd Gwobr Goffa Daniel Owen](https://www.bbc.co.uk/newyddion/58070480) - Wedi buddugoliaeth yn 2014, Lleucu Roberts o Rostryfan yn cipio Gwobr Goffa Daniel Owen am yr eildro.
-26. [Llyfr y Flwyddyn: Enillwyr categorïau plant a ffeithiol](https://www.bbc.co.uk/newyddion/58032132) - Cofiant O. M. Edwards yn ennill y categori ffeithiol a #helynt sydd wedi ennill y categori i blant a phobl Ifanc.
+25. ['20,000 o dai cymdeithasol i'w rhentu erbyn 2026'](https://www.bbc.co.uk/newyddion/58078761) - Disgwyl manylion cynlluniau i fynd i'r afael â phrinder tai ac allyriadau tŷ gwydr yng Nghymru.
+26. [Lleucu Roberts yw enillydd Gwobr Goffa Daniel Owen](https://www.bbc.co.uk/newyddion/58070480) - Wedi buddugoliaeth yn 2014, Lleucu Roberts o Rostryfan yn cipio Gwobr Goffa Daniel Owen am yr eildro.
 27. [Lluniau Cymro tu ôl i'r camera yn yr Olympau](https://www.bbc.co.uk/newyddion/58074325) - Mae Siôn Dafydd Palmer yn rhannu ei brofiad o ffilmio yn Gemau Olympaidd Tokyo yn ystod cyfnod Covid
 28. [Buddugoliaeth o bum wiced i Forgannwg dros Surrey](https://www.bbc.co.uk/newyddion/58078353) - Tair wiced i Salter a dwy yr un i Carey a Cooke wrth i Surrey gael eu bowlio allan mewn 44 pelawd.
