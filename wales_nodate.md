@@ -1,5 +1,5 @@
 1. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
-2. [Boy, 3, killed in collision with vehicle at farm in Efailwen](https://www.bbc.co.uk/news/uk-wales-58089814) - The boy died at the scene of the incident at the farm in Carmarthenshire, police say.
+2. [Boy, 3, killed in collision with vehicle at farm near Efailwen](https://www.bbc.co.uk/news/uk-wales-58089814) - The boy died at the scene of the incident at the farm in Carmarthenshire, police say.
 3. [Covid in Wales: Teens aged 16-17 to be offered jabs](https://www.bbc.co.uk/news/uk-wales-politics-58088296) - Jabs for young confirmed after new advice from committee of vaccine experts.
 4. [Covid: If Wales' restrictions ease, be sensible - top doctor](https://www.bbc.co.uk/news/uk-wales-58074305) - Wales' restrictions on social distancing, indoor gathering and face masks could ease this weekend.
 5. [Lee Collins: Yeovil Town captain's death was suicide, records coroner](https://www.bbc.co.uk/news/uk-england-somerset-58090985) - An inquest heard Yeovil Town captain Lee Collins also had drugs and alcohol in his system.
@@ -21,7 +21,7 @@
 21. [Sean Morrison: Cardiff City sights set on automatic promotion, says skipper](https://www.bbc.co.uk/sport/football/58080763) - Captain Sean Morrison says automatic promotion is the target for Cardiff City ahead of the new Championship season.
 22. [Tokyo Olympics: 'Surreal' feeling for Olympic record breaker Hannah Mills](https://www.bbc.co.uk/sport/av/olympics/58089435) - Hannah Mills admits it is a strange feeling to become the most successful female sailor in Olympic history.
 23. [Tokyo Olympics: Sky Brown becomes GB's youngest medallist, plus sailing and showjumping golds](https://www.bbc.co.uk/sport/olympics/58082545) - Great Britain are fourth in the Olympic medal table after sailing and showjumping golds plus a skateboarding bronze for Sky Brown, 13.
-24. [Bachgen tair oed wedi marw mewn gwrthdrawiad ar fferm](https://www.bbc.co.uk/newyddion/58088218) - Cafodd yr heddlu eu galw i fferm yn ardal Clunderwen, Sir Benfro, nos Fawrth.
+24. [Bachgen tair oed wedi marw mewn gwrthdrawiad ar fferm](https://www.bbc.co.uk/newyddion/58088218) - Cafodd yr heddlu eu galw i fferm ger pentref Efailwen nos Fawrth.
 25. [Pobl ifanc 16 a 17 oed i gael cynnig brechiad Covid](https://www.bbc.co.uk/newyddion/58088219) - Mae gwaith yn mynd rhagddo i gynnig y brechiadau, yn ôl y Gweinidog Iechyd, Eluned Morgan.
 26. [Teyrnged teulu i ferch 15 oed fu farw mewn parc gwyliau](https://www.bbc.co.uk/newyddion/58084689) - Mae brawd Amanda Selby, Matthew, wedi ymddangos yn y llys ar gyhuddiad o lofruddio ei chwaer.
 27. [Gareth Davies: Cofio taith y Llewod i Dde Affrica 1980](https://www.bbc.co.uk/newyddion/58087754) - Cyn-faswr Cymru sy'n hel atgofion am ei daith gyda'r Llewod i Dde Affrica

@@ -12,7 +12,7 @@
 12. [Matt Damon says he has never personally used gay slur](https://www.bbc.co.uk/news/entertainment-arts-58069170) - The Hollywood star had been criticised for saying he had only recently "retired" the insult.
 13. [Canada fines travellers for fake vaccination and testing papers](https://www.bbc.co.uk/news/world-us-canada-58063647) - The travellers arriving from the US were caught and fined C$19,720 ($16,000, £11,500).
 14. [Official recommends rerun in Amazon union fight](https://www.bbc.co.uk/news/technology-58065874) - A National Labor Relations Board official wants another union vote for Amazon workers in Alabama.
-15. [Simone Biles 'shows how much gymnastics has changed'](https://www.bbc.co.uk/news/world-us-canada-58043512) - Biles' withdrawal shows abuse will no longer be tolerated says former USA gymnast Dominique Moceanu.
+15. [Simone Biles 'shows how much gymnastics has changed'](https://www.bbc.co.uk/news/world-us-canada-58043512) - Biles' withdrawal shows how attitudes have changed, says former USA gymnast Dominique Moceanu.
 16. [Covid third wave: Americans 'scared and angry' as pandemic worsens](https://www.bbc.co.uk/news/world-us-canada-58014719) - As the Delta variant causes a rethink about risk, Americans are battling to keep a feeling of normalcy.
 17. [Bennifer 2.0: How Jennifer Lopez and Ben Affleck got us talking again](https://www.bbc.co.uk/news/entertainment-arts-58030649) - How a viral photo of Jennifer Lopez and Ben Affleck exposed the internet's lust for nostalgia.
 18. [Are America's unvaccinated changing their minds?](https://www.bbc.co.uk/news/world-us-canada-58017289) - Timothy lives in a county where only a third are fully jabbed - he says he regrets his choice now.

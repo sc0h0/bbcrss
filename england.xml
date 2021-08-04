@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 16:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 17:00:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -220,7 +220,7 @@
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Britain's Katarina Johnson-Thompson withdraws injured from heptathlon]]></title>
-            <description><![CDATA[Katarina Johnson-Thompson withdraws from the Olympic women's heptathlon with a calf injury that caused her to pull up in the 200m.]]></description>
+            <description><![CDATA[Katarina Johnson-Thompson withdraws from the Olympic heptathlon with a calf injury that caused her to pull up in the 200m.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58082673</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58082673</guid>
             <pubDate>Wed, 04 Aug 2021 12:54:00 GMT</pubDate>
@@ -231,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/football/58088911</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58088911</guid>
             <pubDate>Wed, 04 Aug 2021 12:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huge sixes and a new high score - Willey inspires Superchargers to win over Spirit]]></title>
+            <description><![CDATA[David Willey's extraordinary hitting fires Northern Superchargers to a crushing 63-run win over London Spirit in the men's Hundred.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58074723</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58074723</guid>
+            <pubDate>Tue, 03 Aug 2021 20:42:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

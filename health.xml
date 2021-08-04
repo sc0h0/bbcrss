@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 16:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 17:04:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -174,7 +174,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Tue, 03 Aug 2021 16:26:58 GMT</pubDate>
+            <pubDate>Wed, 04 Aug 2021 16:42:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
@@ -268,6 +268,13 @@
             <pubDate>Wed, 04 Aug 2021 15:39:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: 16 and 17-year-olds react to jab rollout plan]]></title>
+            <description><![CDATA[All 16 and 17-year-olds in the UK will be offered Covid jabs within weeks, it has been announced.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58092946</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58092946</guid>
+            <pubDate>Wed, 04 Aug 2021 16:40:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Professor Jonathan Van-Tam answers your questions]]></title>
             <description><![CDATA[The deputy chief medical officer answers a range of questions about Covid from young audience members.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58020184</link>
@@ -287,13 +294,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-58026672</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58026672</guid>
             <pubDate>Sat, 31 Jul 2021 23:04:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dad builds robotic exoskeleton to help son walk]]></title>
-            <description><![CDATA[The French robotics engineer says he was inspired to build the suit after his son asked him to.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57985857</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57985857</guid>
-            <pubDate>Tue, 27 Jul 2021 13:22:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
