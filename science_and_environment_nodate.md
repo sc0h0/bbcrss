@@ -1,6 +1,6 @@
 1. [COP26 'should be hybrid event' says former climate chief Figueres](https://www.bbc.co.uk/news/uk-scotland-58055854) - The main architect of Paris Agreement says the summit will need to be a mix of virtual and in-person meetings.
 2. [Timber shortage due to 'unprecedented' post-lockdown demand](https://www.bbc.co.uk/news/science-environment-57920510) - Prices are rising sharply as climate change and post-lockdown DIY and building projects hit supplies.
-3. [Climate change: Wales 'to build 20,000 low-carbon social homes'](https://www.bbc.co.uk/news/uk-wales-58078894) - A Welsh minister is to set out plans to tackle a housing shortage and the problem of climate change.
+3. [Climate change: Wales set to build 20,000 low-carbon social homes](https://www.bbc.co.uk/news/uk-wales-58078894) - A Welsh minister is to set out plans to tackle a housing shortage and the problem of climate change.
 4. [Finance firms plan to close coal plants in Asia](https://www.bbc.co.uk/news/business-58066660) - The Asian Development Bank aims to have the plan ready for the COP26 climate conference in November.
 5. [Then and now: The burning issue of wildfires](https://www.bbc.co.uk/news/science-environment-57946155) - Scientists are increasingly concerned climate change is making fires more frequent and more intense.
 6. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
