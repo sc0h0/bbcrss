@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 03:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 04:20:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58074525</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58074525</guid>
             <pubDate>Tue, 03 Aug 2021 17:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China Covid: China targets school students to control case surge]]></title>
+            <description><![CDATA[Authorities in China are scrambling to control the spread of the virus by ramping up testing and vaccinations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58052902</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58052902</guid>
+            <pubDate>Wed, 04 Aug 2021 04:05:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gunmen attack home of Afghan defence minister in Kabul]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Tue, 03 Aug 2021 04:45:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Finance firms plan to close coal plants in Asia]]></title>
-            <description><![CDATA[The Asian Development Bank aims to have the plan ready for the COP26 climate conference in November.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58066660</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58066660</guid>
-            <pubDate>Tue, 03 Aug 2021 10:02:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nanjing: Concerns in China grow as Delta outbreak spreads]]></title>
             <description><![CDATA[Authorities are carrying out mass testing and have imposed sweeping lockdowns across 15 provinces.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-58052894</link>
@@ -93,25 +93,18 @@
             <pubDate>Mon, 02 Aug 2021 14:17:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo 2020: A parent's plea in the shadow of the Olympics]]></title>
-            <description><![CDATA[This dad is drawing attention to what he calls the kidnapping of children by their own parents in Japan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58057432</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58057432</guid>
-            <pubDate>Mon, 02 Aug 2021 23:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China flood death toll rises sharply to over 300]]></title>
-            <description><![CDATA[More victims are discovered following the severe floods that engulfed Henan province in July.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58056667</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58056667</guid>
-            <pubDate>Mon, 02 Aug 2021 10:36:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Giant panda twins born in French zoo]]></title>
             <description><![CDATA[The event is described as "exceptional" by experts, as panda reproduction is notoriously difficult.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58052139</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58052139</guid>
             <pubDate>Mon, 02 Aug 2021 04:05:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: A parent's plea in the shadow of the Olympics]]></title>
+            <description><![CDATA[This dad is drawing attention to what he calls the kidnapping of children by their own parents in Japan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58057432</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58057432</guid>
+            <pubDate>Mon, 02 Aug 2021 23:12:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Chinese nationalists turn on their athletes]]></title>
