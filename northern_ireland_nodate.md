@@ -1,5 +1,5 @@
 1. [Carnlough: Sea swimmer dies after getting into difficulty](https://www.bbc.co.uk/news/uk-northern-ireland-58087650) - Emergency services were called to the scene in Carnlough at about 13.30 BST on Wednesday.
-2. [All 16 and 17-year-olds in NI to be offered Covid jab](https://www.bbc.co.uk/news/uk-northern-ireland-58090121) - The move follows approval from the Joint Committee on Vaccination and Immunisation.
+2. [All 16 and 17-year-olds in NI to be offered Covid jab](https://www.bbc.co.uk/news/uk-northern-ireland-58090121) - There are also changes to NI's travel list, with fully-vaccinated arrivals from France no longer required to quarantine.
 3. [Covid-19: Hospitality vaccine pass 'would be blackmail'](https://www.bbc.co.uk/news/uk-northern-ireland-58084640) - The head of Hospitality Ulster says restaurants, bars and cafes would be "singled out".
 4. [Covid-19: Hospital visiting rules tightened by NI health trusts](https://www.bbc.co.uk/news/uk-northern-ireland-58088267) - Officials have halted or restricted visitors' contact with patients as pressure mounts on services.
 5. [Worker dies in Taranto factory incident in Tandragee](https://www.bbc.co.uk/news/uk-northern-ireland-58089149) - Police say the death at the Taranto concrete site in Tandragee is not being treated as suspicious.

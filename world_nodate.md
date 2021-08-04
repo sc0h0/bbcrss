@@ -5,7 +5,7 @@
 5. [Floods: Research shows millions more at risk of flooding](https://www.bbc.co.uk/news/science-environment-58087479) - Numbers of people exposed to flooding globally have risen by almost a quarter in two decades.
 6. [Rihanna now officially a billionaire](https://www.bbc.co.uk/news/world-us-canada-58092465) - The star is now the wealthiest female musician in the world, according to Forbes.
 7. [Elaine Thompson-Herah: Instagram blocks gold medallist who shared race win](https://www.bbc.co.uk/sport/olympics/58094908) - The Jamaican sprinter was blocked after posting footage of her races on her Instagram account.
-8. [Bangladesh lightning strike kills 17 of wedding party](https://www.bbc.co.uk/news/world-asia-58094680) - The wedding party was disembarking from a boat when several lightning bolts hit the group.
+8. [Bangladesh lightning strike kills 17 wedding party guests](https://www.bbc.co.uk/news/world-asia-58094680) - The wedding party was disembarking from a boat when several lightning bolts hit the group.
 9. [Thailand bans coral-damaging sunscreens in marine parks](https://www.bbc.co.uk/news/world-asia-58092472) - Anyone flouting the rules could be fined due to the damage some lotions can cause to coral.
 10. [USS Bonhomme Richard fire: Suspect identified as 20-year-old Navy sailor](https://www.bbc.co.uk/news/world-us-canada-58091854) - A newly unsealed warrant also reveals suspicions that fire stations on the ship were sabotaged.
 11. [Greece wildfires force people to flee island by boat](https://www.bbc.co.uk/news/world-europe-58093275) - Scores of people on Evia were forced to evacuate by sea as wildfire spread rapidly, destroying homes.
