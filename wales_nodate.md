@@ -23,6 +23,6 @@
 23. [Jordan Greenidge: Newport County sign striker on one-year deal](https://www.bbc.co.uk/sport/football/58094918) - Striker Jordan Greenidge joins Newport County on a one-year contract after a trial at the League Two club.
 24. [Dyfan Lewis yw enillydd Coron Eisteddfod AmGen 2021](https://www.bbc.co.uk/newyddion/58089160) - Casgliad o gerddi "trydanol, cyhyrog, deallus" yn cipio Coron y Brifwyl mewn seremoni yng Nghaerdydd.
 25. [Bachgen tair oed wedi marw mewn gwrthdrawiad ar fferm](https://www.bbc.co.uk/newyddion/58088218) - Cafodd yr heddlu eu galw i fferm ger pentref Efailwen yn Sir Gâr nos Fawrth.
-26. [Pobl ifanc 16 a 17 oed i gael cynnig brechiad Covid](https://www.bbc.co.uk/newyddion/58088219) - Mae gwaith yn mynd rhagddo i gynnig y brechiadau, yn ôl y Gweinidog Iechyd, Eluned Morgan.
+26. [Megan Hunter yw Prif Enillydd Gwobr Llyfr y Flwyddyn](https://www.bbc.co.uk/newyddion/58025760) - Gwaith 'pwerus ac ysgytwol' Megan Angharad Hunter yn ennill y brif wobr a chofiant O.M yn ennill Gwobr Barn y Bobl.
 27. [Gareth Davies: Cofio taith y Llewod i Dde Affrica 1980](https://www.bbc.co.uk/newyddion/58087754) - Cyn-faswr Cymru sy'n hel atgofion am ei daith gyda'r Llewod i Dde Affrica
 28. [Aur i Hannah Mills yn yr hwylio yn Tokyo](https://www.bbc.co.uk/newyddion/58084682) - Y Gymraes bellach ydy'r hwylwraig fwyaf llwyddiannus erioed o Brydain yn y Gemau Olympaidd.
