@@ -1,4 +1,4 @@
-1. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya had refused orders to fly home early to Belarus and is now en route to Vienna.
+1. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya refused orders to fly home early and is now en route to Vienna.
 2. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
 3. [Neanderthal markings in Spain suggest cave art, study says](https://www.bbc.co.uk/news/world-europe-58070141) - Red stains found in caves in Spain were created more than 60,000 years ago, researchers say.
 4. [Tokyo Olympics: Karsten Warholm world record evokes Bolt and Beamon on magic day](https://www.bbc.co.uk/sport/olympics/58076796) - Norway's Karsten Warholm shocks and awes with a time that makes a quantum leap in the possible and credible.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 05:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 06:28:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58069612</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58069612</guid>
             <pubDate>Tue, 03 Aug 2021 14:40:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Men's Olympic football: Brazil win shootout to set up Spain football final]]></title>
+            <description><![CDATA[Brazil reached back-to-back men's Olympic football finals following a penalty shootout victory over Mexico.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58072447</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58072447</guid>
+            <pubDate>Tue, 03 Aug 2021 14:41:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Mijain Lopez wins fourth straight gold in Greco-Roman wrestling]]></title>
@@ -93,6 +100,13 @@
             <pubDate>Tue, 20 Jul 2021 23:07:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Quicker, faster, better!' - Thompson-Herah's 'double-double']]></title>
+            <description><![CDATA[Elaine Thompson-Herah confirms her place among the pantheon of sprint greats as she completes an Olympic 100m-200m double for the second time with a sensational victory in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58075391</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58075391</guid>
+            <pubDate>Tue, 03 Aug 2021 13:31:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid vaccines: Tourists head to the US to get vaccinated]]></title>
             <description><![CDATA[Some tourists are spending thousands of dollars to travel to the US to get a coronavirus vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58004253</link>
@@ -126,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-57808649</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57808649</guid>
             <pubDate>Thu, 15 Jul 2021 00:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba: Rare protests see thousands on streets]]></title>
-            <description><![CDATA[Protesters say they are angry about the government’s handling of both coronavirus and the economy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57803481</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57803481</guid>
-            <pubDate>Mon, 12 Jul 2021 13:34:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

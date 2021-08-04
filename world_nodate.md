@@ -1,4 +1,4 @@
-1. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya had refused orders to fly home early to Belarus and is now en route to Vienna.
+1. [Belarus sprinter Krystina Timanovskaya flies out of Japan](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya refused orders to fly home early and is now en route to Vienna.
 2. [Gunmen attack home of Afghan defence minister in Kabul](https://www.bbc.co.uk/news/world-asia-58081253) - The minister was not at home during the attack, which came rising unrest across the country.
 3. [China Covid: China targets school students to control case surge](https://www.bbc.co.uk/news/world-asia-china-58052902) - Authorities in China are scrambling to control the spread of the virus by ramping up testing and vaccinations.
 4. [MV Asphalt Princess: Ship hijacked off UAE ordered to sail to Iran](https://www.bbc.co.uk/news/world-middle-east-58078506) - The Panama-flagged MV Asphalt Princess has been ordered to sail to Iran, officials say.
