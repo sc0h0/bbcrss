@@ -1,5 +1,5 @@
 1. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
-2. [Covid: All 16 and 17-year-olds to be offered jab](https://www.bbc.co.uk/news/uk-58091693) - All 16 and 17-year-olds should have a first dose of the Covid jab, the UK's vaccine experts announce.
+2. [Covid: All 16 and 17-year-olds to be offered jab](https://www.bbc.co.uk/news/uk-58091693) - The change in guidance from the UK's vaccine experts affects around 1.4 million teenagers.
 3. [Covid: If Wales' restrictions ease, be sensible - top doctor](https://www.bbc.co.uk/news/uk-wales-58074305) - Wales' restrictions on social distancing, indoor gathering and face masks could ease this weekend.
 4. [Tokyo Olympics: Hannah Mills' family cheer her to gold](https://www.bbc.co.uk/news/uk-wales-58089059) - Hannah Mills becomes the most successful female sailor in Olympic history by winning the 470 gold.
 5. [Heavy rain and thunderstorm warning extended in Wales](https://www.bbc.co.uk/news/uk-wales-58087494) - Met Office warn of rain on Wednesday and thunderstorms on Friday across parts of Wales.
