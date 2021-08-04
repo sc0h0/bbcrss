@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 11:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 11:25:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Wed, 04 Aug 2021 10:01:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Long-lasting Covid-19 symptoms rare in children]]></title>
-            <description><![CDATA[Children who become ill with coronavirus mostly recover in less than a week, research suggests.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58071898</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58071898</guid>
-            <pubDate>Wed, 04 Aug 2021 00:04:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ever Given: Cargo unloaded from ship that blocked Suez Canal]]></title>
             <description><![CDATA[The Ever Given arrived at Felixstowe on Tuesday and is expected to leave on Thursday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-58085950</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58085950</guid>
             <pubDate>Wed, 04 Aug 2021 10:29:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long-lasting Covid-19 symptoms rare in children]]></title>
+            <description><![CDATA[Children who become ill with coronavirus mostly recover in less than a week, research suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58071898</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58071898</guid>
+            <pubDate>Wed, 04 Aug 2021 00:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belarus protests: Trial of opposition figures begins]]></title>
@@ -84,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58076999</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58076999</guid>
             <pubDate>Tue, 03 Aug 2021 23:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WhatsApp 'view once' brings disappearing photos and videos]]></title>
+            <description><![CDATA[The "view once" feature lets users open an image one time only before it is deleted forever.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58087379</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58087379</guid>
+            <pubDate>Wed, 04 Aug 2021 10:51:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Jabs for over-16s, and 'King Kenny']]></title>

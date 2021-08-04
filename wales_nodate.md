@@ -21,8 +21,8 @@
 21. [Tokyo Olympics: Heavy Dutch semi-final defeat 'tough to take' - GB's Sarah Jones](https://www.bbc.co.uk/sport/av/olympics/58084222) - GB's Sarah Jones says their 5-1 semi-final loss to the Netherlands in the Tokyo 2020 hockey semi-finals was painful.
 22. [Tokyo Olympics: Sky Brown becomes GB's youngest medallist, plus sailing and boxing success](https://www.bbc.co.uk/sport/olympics/58082545) - Sky Brown wins bronze and becomes Great Britain's youngest summer Olympian with success also coming in sailing and boxing.
 23. [Tokyo Olympics: GB lose to the Netherlands in women's hockey semi-finals](https://www.bbc.co.uk/sport/olympics/58081905) - Great Britain will not retain their Olympic women's hockey title following defeat by the Netherlands in the semi-finals at Tokyo 2020.
-24. ['Symud at gyfrifoldeb personol' os fydd llacio pellach](https://www.bbc.co.uk/newyddion/58078760) - Prif swyddog meddygol yn galw ar bobl i ymddwyn yn "synhwyrol" os fydd rheolau Covid yn llacio ar 7 Awst.
-25. [Teyrnged i ferch 15 oed fu farw mewn parc gwyliau](https://www.bbc.co.uk/newyddion/58084689) - Mae brawd Amanda Selby, Matthew, wedi ymddangos yn y llys ar gyhuddiad o lofruddio ei chwaer.
-26. ['20,000 o dai cymdeithasol i'w rhentu erbyn 2026'](https://www.bbc.co.uk/newyddion/58078761) - Disgwyl manylion cynlluniau i fynd i'r afael â phrinder tai ac allyriadau tŷ gwydr yng Nghymru.
+24. [Teyrngedau i ferch 15 oed fu farw mewn parc gwyliau](https://www.bbc.co.uk/newyddion/58084689) - Mae brawd Amanda Selby, Matthew, wedi ymddangos yn y llys ar gyhuddiad o lofruddio ei chwaer.
+25. ['Symud at gyfrifoldeb personol' os fydd llacio pellach](https://www.bbc.co.uk/newyddion/58078760) - Prif swyddog meddygol yn galw ar bobl i ymddwyn yn "synhwyrol" os fydd rheolau Covid yn llacio ar 7 Awst.
+26. [Aur i Hannah Mills yn yr hwylio yn Tokyo](https://www.bbc.co.uk/newyddion/58084682) - Y Gymraes bellach ydy'r hwylwraig fwyaf llwyddiannus erioed o Brydain yn y Gemau Olympaidd.
 27. [Bardd y Mis: Pum munud gyda Derec Llwyd Morgan](https://www.bbc.co.uk/newyddion/57902974) - Ambell gwestiwn i ddod i adnabod Bardd y Mis Radio Cymru.
-28. [Aur i Hannah Mills yn yr hwylio yn Tokyo](https://www.bbc.co.uk/newyddion/58084682) - Y Gymraes bellach ydy'r hwylwraig fwyaf llwyddiannus erioed o Brydain yn y Gemau Olympaidd.
+28. [Y Llewod yn mentro er mwyn llwyddo ar y cymal olaf](https://www.bbc.co.uk/newyddion/58075694) - Y Springboks yw'r ffefrynnau o drwch blewyn, ond da chi, peidiwch â diystyru'r Llewod o dan Gatland.

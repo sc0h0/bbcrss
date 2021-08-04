@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Aug 2021 11:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Aug 2021 11:20:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Wed, 04 Aug 2021 06:56:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Where are Team GB’s English medallists from?]]></title>
-            <description><![CDATA[With day 11 of the competition over, the North West currently leads the way when it comes to medals.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-58073305</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58073305</guid>
-            <pubDate>Tue, 03 Aug 2021 17:03:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Holiday park murder accused in court amid tributes to Amanda Selby]]></title>
             <description><![CDATA[Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58083395</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58083395</guid>
             <pubDate>Wed, 04 Aug 2021 11:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dog-snatching thief filmed by doorbell camera in Horndean]]></title>
+            <description><![CDATA[A 13-year-old boy was walking his border terrier Melchy when he was pushed out of the way.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58086838</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58086838</guid>
+            <pubDate>Wed, 04 Aug 2021 10:48:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ever Given: Cargo unloaded from ship that blocked Suez Canal]]></title>
@@ -58,11 +58,11 @@
             <pubDate>Wed, 04 Aug 2021 09:48:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bradford child sexual abuse: 19 men arrested]]></title>
-            <description><![CDATA[The inquiry is connected to offences against one female in Bradford between 2000-2005, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-58084134</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58084134</guid>
-            <pubDate>Wed, 04 Aug 2021 07:10:35 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Where are Team GB’s English medallists from?]]></title>
+            <description><![CDATA[With day 11 of the competition over, the North West currently leads the way when it comes to medals.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58073305</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58073305</guid>
+            <pubDate>Tue, 03 Aug 2021 17:03:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vigil held for sisters murdered in park]]></title>
@@ -161,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58033072</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58033072</guid>
             <pubDate>Wed, 04 Aug 2021 05:14:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bradford child sexual abuse: 19 men arrested]]></title>
+            <description><![CDATA[The inquiry is connected to offences against one female in Bradford between 2000-2005, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58084134</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58084134</guid>
+            <pubDate>Wed, 04 Aug 2021 07:10:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tom Miller: Hiding student fell to death at illegal lockdown party]]></title>
