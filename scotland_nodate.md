@@ -1,4 +1,4 @@
-1. [Covid in Scotland: Confusion over 'vertical drinking' rules in pubs](https://www.bbc.co.uk/news/uk-scotland-58078053) - There is uncertainty over whether drinking while standing at bars will be allowed from 9 August.
+1. [Covid in Scotland: Confusion over 'vertical drinking' rules in pubs](https://www.bbc.co.uk/news/uk-scotland-58078053) - Industry figures say people will be able to drink while standing up in pubs, despite John Swinney saying they will not.
 2. [Covid vaccine set to be offered to 16 and 17-year-olds](https://www.bbc.co.uk/news/uk-58080232) - More than one million teenagers would be included in a new rollout if ministers accept expert advice.
 3. [TRNSMT festival confirmed to go ahead in September](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58085069) - Organiser Geoff Ellis said the event had permission to go ahead with 50,000 music fans attending.
 4. [Covid: Boris Johnson to begin two-day visit to Scotland](https://www.bbc.co.uk/news/uk-politics-58079390) - The prime minister will not meet Scotland's first minister despite being invited to her official residence.

@@ -1,7 +1,7 @@
 1. [Barbra Streisand: 'I've always had the right to sing what I want'](https://www.bbc.co.uk/news/entertainment-arts-58056164) - The star looks back at her career, and explains how she's always maintained creative control.
 2. [Selena Gomez criticises 'tasteless' TV transplant joke](https://www.bbc.co.uk/news/entertainment-arts-58083763) - The Good Fight is the latest show to reference singer Selena Gomez's 2017 kidney transplant.
 3. [The Offspring drummer Pete Parada says he was dropped over vaccine refusal](https://www.bbc.co.uk/news/entertainment-arts-58085459) - Pete Parada says a doctor advised him not to have the jab because of a rare autoimmune disorder.
-4. [Top Gear production to move to Bristol from 2022](https://www.bbc.co.uk/news/entertainment-arts-58086981) - The long-running BBC show will move out of London next year.
+4. [Top Gear production to move to Bristol from 2022](https://www.bbc.co.uk/news/entertainment-arts-58086981) - The long-running BBC motoring show will move out of London next year.
 5. [Lauren Goodger foreign exchange Instagram advert banned](https://www.bbc.co.uk/news/newsbeat-58084534) - The TV star had been paid for a post that a watchdog says wasn't obviously identifiable as an ad.
 6. [TRNSMT festival confirmed to go ahead in September](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58085069) - Organiser Geoff Ellis said the event had permission to go ahead with 50,000 music fans attending.
 7. [Matt Damon says he has never personally used gay slur](https://www.bbc.co.uk/news/entertainment-arts-58069170) - The Hollywood star had been criticised for saying he had only recently "retired" the insult.

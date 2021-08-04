@@ -6,7 +6,7 @@
 6. [Gwent Police arrest nine in raid on indecent images of children](https://www.bbc.co.uk/news/uk-wales-58089062) - Officers identified 12 children from south-east Wales who were at risk as nine men are arrested.
 7. [Covid-19: Hikers' plea for help after positive test](https://www.bbc.co.uk/news/uk-northern-ireland-58075183) - Paul McErlean and his friends were offered a spare caravan by a former UK home secretary.
 8. [Skewen: 'Carnage' as flood-hit residents flooded again](https://www.bbc.co.uk/news/uk-wales-58077730) - The flash floods hit just after work began on a water management scheme to protect the area.
-9. [Climate change: Wales set to build 20,000 low-carbon social homes](https://www.bbc.co.uk/news/uk-wales-58078894) - A Welsh minister is to set out plans to tackle a housing shortage and the problem of climate change.
+9. [Climate change: Wales set to build 20,000 low-carbon social homes](https://www.bbc.co.uk/news/uk-wales-58078894) - Welsh ministers announce plans to tackle a housing shortage and the problem of climate change.
 10. [Marle Hall outdoor centre closure 'heartbreaking'](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58085329) - The stately home on the edge of Snowdonia is "consistently under-utilised", the county council says.
 11. [Thunderstorm and heavy rain warning for parts of Wales](https://www.bbc.co.uk/news/uk-wales-58071768) - Up to 100mm (4in) of rain could fall in the hardest hit areas on Friday, the Met Office warns.
 12. [Bridgend river death: Friends of boy, 5, 'heartbroken'](https://www.bbc.co.uk/news/uk-wales-58069625) - Classmates and neighbours leave tributes near the river where the five-year-old boy was found dead.
