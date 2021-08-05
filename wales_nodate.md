@@ -23,4 +23,4 @@
 23. [Y dwbl i Lleucu Roberts wrth ennill y Fedal Ryddiaith](https://www.bbc.co.uk/newyddion/58103613) - Y dwbl eto i Lleucu Roberts sydd wedi cipio'r Fedal Ryddiaith a Gwobr Goffa Daniel Owen yn yr un Eisteddfod.
 24. [Cyhuddo tri o bobl yn dilyn marwolaeth bachgen mewn afon](https://www.bbc.co.uk/newyddion/58097596) - Cafodd Logan Mwangi, oedd yn bump oed, ei ganfod yn Afon Ogwr yn gynnar fore Sadwrn.
 25. [Brwydr y Bandiau: Pwy yw'r pedwar olaf?](https://www.bbc.co.uk/newyddion/58079521) - Dod i adnabod bandiau rownd derfynol Brwydr y Bandiau 2021.
-26. [Aur i Hannah Mills yn yr hwylio yn Tokyo](https://www.bbc.co.uk/newyddion/58084682) - Y Gymraes bellach ydy'r hwylwraig fwyaf llwyddiannus erioed o Brydain yn y Gemau Olympaidd.
+26. [Cyngres Europa: Y Seintiau Newydd yn trechu Plzeň](https://www.bbc.co.uk/newyddion/58106005) - Buddugoliaeth i'r Seintiau yng Nghyngres Europa yn erbyn Viktoria Plzeň o'r Weriniaeth Tsiec.
