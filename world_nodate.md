@@ -3,7 +3,7 @@
 3. [Elaine Thompson-Herah: Instagram blocks gold medallist who shared race win](https://www.bbc.co.uk/sport/olympics/58094908) - The Jamaican sprinter was blocked after posting footage of her races on her Instagram account.
 4. [Migrant van crash kills at least 10 in Texas](https://www.bbc.co.uk/news/world-us-canada-58098189) - Officials say 30 people were onboard when their vehicle hit a metal pole and stop sign.
 5. [US plans to require Covid vaccine for foreign travellers](https://www.bbc.co.uk/news/world-us-canada-58095549) - Most international travellers will eventually need to be vaccinated when the US reopens borders.
-6. [Greece wildfires force people to flee island by boat](https://www.bbc.co.uk/news/world-europe-58093275) - Scores of people on Evia were forced to evacuate by sea as wildfire spread rapidly, destroying homes.
+6. [Washington NFL team bans fans from wearing Native American dress](https://www.bbc.co.uk/news/world-us-canada-58099157) - The club, which dropped the name Redskins last year, says fans can no longer wear headdresses at games.
 7. [Thailand bans coral-damaging sunscreens in marine parks](https://www.bbc.co.uk/news/world-asia-58092472) - Anyone flouting the rules could be fined due to the damage some lotions can cause to coral.
 8. [Iran's new hardline president Ebrahim Raisi to be sworn in](https://www.bbc.co.uk/news/world-middle-east-58097195) - Ebrahim Raisi takes over amid heightened tensions with the West and growing discontent at home.
 9. [Covid: WHO calls for booster pause to vaccinate poorer nations](https://www.bbc.co.uk/news/world-58090051) - WHO chief says it would allow at least 10% of the population in every country to be vaccinated.
@@ -19,10 +19,10 @@
 19. [Andrew Cuomo: Why is the NY Governor under pressure to resign?](https://www.bbc.co.uk/news/world-us-canada-58092655) - Democrats, including President Biden, have called for the New York governor to go.
 20. [Tunisia crisis: Democrats, despots and the fight for power](https://www.bbc.co.uk/news/world-africa-58071263) - Tunisia is in turmoil since the president suspended parliament and increased his own power.
 21. [Four-year-old US piano prodigy flourishing amid pandemic](https://www.bbc.co.uk/news/world-us-canada-58094008) - Brigitte's parents just wanted to keep her busy. Now, she's been invited to play at Carnegie Hall.
-22. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
-23. [Lebanon blast: ‘Path towards reform irreversible’](https://www.bbc.co.uk/news/world-middle-east-58091119) - We owe it to our people to tackle issues which led to the blast, the ambassador to the UK says.
-24. [‘I can’t study sitting on the pavement’](https://www.bbc.co.uk/news/world-asia-india-58025055) - Asma Shaikh, a 17-year-old homeless girl, has big dreams. But the pandemic has brought new challenges.
-25. [Ever Given: Time-lapse video captures Felixstowe arrival](https://www.bbc.co.uk/news/uk-england-suffolk-58080614) - "We could still see Egyptian sand on its bow," said film-maker Brian Abrams as the ship docked.
+22. [Greece wildfires force people to flee island by boat](https://www.bbc.co.uk/news/world-europe-58093275) - Scores of people on Evia were forced to evacuate by sea as wildfire spread rapidly, destroying homes.
+23. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
+24. [Lebanon blast: ‘Path towards reform irreversible’](https://www.bbc.co.uk/news/world-middle-east-58091119) - We owe it to our people to tackle issues which led to the blast, the ambassador to the UK says.
+25. [‘I can’t study sitting on the pavement’](https://www.bbc.co.uk/news/world-asia-india-58025055) - Asma Shaikh, a 17-year-old homeless girl, has big dreams. But the pandemic has brought new challenges.
 26. [Peter Bol: The Sudanese-Australian runner who lifted a nation](https://www.bbc.co.uk/news/world-australia-58095689) - Peter Bol's Olympics has delighted Australians, becoming a "symbol of what we can aspire to be".
 27. [Quinn: Canada's transgender footballer on being 'visible' and playing at the Olympics](https://www.bbc.co.uk/sport/olympics/58061475) - Quinn, a defender for Canada's women's football team, came out as transgender in September 2020.
 28. [Tokyo Olympics: Sky Brown eyes surfing at Paris 2024 after skateboarding bronze](https://www.bbc.co.uk/sport/olympics/58084934) - After making history by becoming Great Britain's youngest ever Olympic medal winner, skateboarder Sky Brown is already plotting her next move.
