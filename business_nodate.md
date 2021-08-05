@@ -1,4 +1,4 @@
-1. [Covid travel: France no longer amber-plus and green list expands](https://www.bbc.co.uk/news/business-58079107) - As restrictions on France ease, countries including Germany, Austria and Norway move to the green list.
+1. [Covid travel: France no longer amber-plus as green list expands](https://www.bbc.co.uk/news/business-58079107) - Germany, Austria and Norway move to the green list under changes to the travel traffic light system.
 2. [Pret, McColls and Welcome Break in minimum wage fail](https://www.bbc.co.uk/news/business-58083889) - Retailers and 190 other businesses broke the law by underpaying workers, the government says.
 3. ['It feels like we've lost a family member'](https://www.bbc.co.uk/news/business-58090354) - As cat deaths mount from a fatal disease, an investigation into a possible link to pet food continues.
 4. [Vanguard: Investment giant to pay vaccinated workers $1,000](https://www.bbc.co.uk/news/business-58091534) - Asset manager Vanguard will reward staff who get jabbed, but it won't mandate vaccinations.
