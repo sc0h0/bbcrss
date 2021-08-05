@@ -3,7 +3,7 @@
 3. [Sports Direct's Mike Ashley to hand reins to future son-in-law](https://www.bbc.co.uk/news/business-58097496) - The tycoon, whose empire also includes House of Fraser and Evans Cycles, is set to hand power to his future son-in-law.
 4. [Strictly Come Dancing: John Whaite to be in first all-male partnership](https://www.bbc.co.uk/news/entertainment-arts-58089932) - TV chef John Whaite makes history, joining Tom Fletcher, AJ Odudu and Robert Webb on the line-up.
 5. [Number pinged by Covid app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - The fall come ahead of changes to the app to make it notify fewer contacts.
-6. [Migrant crossings: Record 482 cross English Channel in one day](https://www.bbc.co.uk/news/uk-england-kent-58100694) - According to Home Office figures, there have now been 10,260 arrivals in 435 boats so far in 2021.
+6. [Migrant crossings: Record 482 cross English Channel in one day](https://www.bbc.co.uk/news/uk-england-kent-58100694) - According to Home Office figures, there have now been 10,236 arrivals in 434 boats so far in 2021.
 7. [Bridgend: Man in court accused of Logan Mwangi murder](https://www.bbc.co.uk/news/uk-wales-58053074) - Logan Mwangi was found dead in the River Ogmore in Bridgend county on Saturday.
 8. [Paul Embery: Pro-Brexit fire union official unfairly sacked, tribunal finds](https://www.bbc.co.uk/news/uk-56376172) - A tribunal finds Paul Embery was subject to a "witch hunt" after appearing at a Leave Means Leave rally.
 9. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.

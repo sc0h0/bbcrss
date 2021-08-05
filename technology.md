@@ -1,4 +1,4 @@
-1. [Number pinged by Covid app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - Thu, 05 Aug 2021 10:37:17 GMT - The fall come ahead of changes to the app to make it notify fewer contacts.
+1. [Number pinged by Covid app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - Thu, 05 Aug 2021 11:23:30 GMT - The fall come ahead of changes to the app to make it notify fewer contacts.
 2. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Wed, 04 Aug 2021 23:41:15 GMT - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
 3. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - Thu, 05 Aug 2021 05:58:39 GMT - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
 4. [MP Maria Miller wants AI 'nudifying' tool banned](https://www.bbc.co.uk/news/technology-57996910) - Wed, 04 Aug 2021 10:26:31 GMT - A website that allows people to undress a photograph in seconds is gaining lots of users.

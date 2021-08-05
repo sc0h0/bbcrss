@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 11:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 11:23:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58100006</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58100006</guid>
             <pubDate>Thu, 05 Aug 2021 10:03:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strike actress wins £11k payout in pregnancy discrimination case]]></title>
+            <description><![CDATA[Antonia Kinlay lost her role in a BBC TV adaptation of one of JK Rowling's crime novels.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58100574</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58100574</guid>
+            <pubDate>Thu, 05 Aug 2021 11:19:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jack Antonoff has redefined pop music. Here's how]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/technology-58086629</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58086629</guid>
             <pubDate>Wed, 04 Aug 2021 23:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Becoming Tina Turner in London's West End]]></title>
-            <description><![CDATA[Aisha Jawando takes over from Adrienne Warren in the title role in the musical Tina.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58017932</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58017932</guid>
-            <pubDate>Wed, 04 Aug 2021 23:01:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rihanna now officially a billionaire]]></title>
@@ -149,6 +149,13 @@
             <pubDate>Thu, 29 Jul 2021 23:19:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Becoming Tina Turner in London's West End]]></title>
+            <description><![CDATA[Aisha Jawando takes over from Adrienne Warren in the title role in the musical Tina.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58017932</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58017932</guid>
+            <pubDate>Wed, 04 Aug 2021 23:01:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fisherwomen honoured in photography exhibition]]></title>
             <description><![CDATA[An exhibition is dedicated to decades of women who have worked in the industry on the east coast.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58077623</link>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58033812</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58033812</guid>
             <pubDate>Fri, 30 Jul 2021 23:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rapper ENNY talks sexual consent in latest track]]></title>
-            <description><![CDATA[The rising south London rapper talks about art imitating life in her new single.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58014225</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58014225</guid>
-            <pubDate>Thu, 29 Jul 2021 23:08:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

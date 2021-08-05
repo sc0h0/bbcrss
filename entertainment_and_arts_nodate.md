@@ -1,9 +1,9 @@
 1. [Strictly Come Dancing: John Whaite to be in first all-male partnership](https://www.bbc.co.uk/news/entertainment-arts-58089932) - TV chef John Whaite makes history, joining Tom Fletcher, AJ Odudu and Robert Webb on the line-up.
 2. [Paul Johnson: Chicago house music DJ dies at 50 after catching Covid](https://www.bbc.co.uk/news/entertainment-arts-58100006) - Johnson, who had a 1999 hit with Get Get Down, had been in intensive care with the virus.
-3. [Jack Antonoff has redefined pop music. Here's how](https://www.bbc.co.uk/news/entertainment-arts-58085468) - Taylor Swift, Lana Del Rey and Lorde all rely on his advice. Now he's making a statement of his own.
-4. [Love Island: 'Misleading' Casa Amor episode sparks 4,330 complaints](https://www.bbc.co.uk/news/entertainment-arts-58085465) - More than 4,000 viewers complained that events were misleading and caused unnecessary distress.
-5. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
-6. [Becoming Tina Turner in London's West End](https://www.bbc.co.uk/news/entertainment-arts-58017932) - Aisha Jawando takes over from Adrienne Warren in the title role in the musical Tina.
+3. [Strike actress wins £11k payout in pregnancy discrimination case](https://www.bbc.co.uk/news/entertainment-arts-58100574) - Antonia Kinlay lost her role in a BBC TV adaptation of one of JK Rowling's crime novels.
+4. [Jack Antonoff has redefined pop music. Here's how](https://www.bbc.co.uk/news/entertainment-arts-58085468) - Taylor Swift, Lana Del Rey and Lorde all rely on his advice. Now he's making a statement of his own.
+5. [Love Island: 'Misleading' Casa Amor episode sparks 4,330 complaints](https://www.bbc.co.uk/news/entertainment-arts-58085465) - More than 4,000 viewers complained that events were misleading and caused unnecessary distress.
+6. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
 7. [Rihanna now officially a billionaire](https://www.bbc.co.uk/news/world-us-canada-58092465) - The star is now the wealthiest female musician in the world, according to Forbes.
 8. [Selena Gomez criticises 'tasteless' TV transplant joke](https://www.bbc.co.uk/news/entertainment-arts-58083763) - The Good Fight is the latest show to reference singer Selena Gomez's 2017 kidney transplant.
 9. [The Offspring drummer Pete Parada says he was dropped over vaccine refusal](https://www.bbc.co.uk/news/entertainment-arts-58085459) - Pete Parada says a doctor advised him not to have the jab because of a rare autoimmune disorder.
@@ -17,9 +17,9 @@
 17. [EastEnders: 'I was ignorant about my schizophrenia'](https://www.bbc.co.uk/news/newsbeat-57986350) - Antonio Ferreira is using his personal experience to advise the soap on a storyline.
 18. [The X Factor: What became of the star-making hit show?](https://www.bbc.co.uk/news/entertainment-arts-58024286) - How the show that once topped viewing figures, and created big stars appears to have run its course.
 19. [The Strokes' Is This It at 20: Nudes, booze and 9/11](https://www.bbc.co.uk/news/entertainment-arts-57967493) - How the New York City band's 2001 debut album heralded "a new spirit in guitar music".
-20. [Fisherwomen honoured in photography exhibition](https://www.bbc.co.uk/news/uk-england-norfolk-58077623) - An exhibition is dedicated to decades of women who have worked in the industry on the east coast.
-21. [Four-year-old US piano prodigy flourishing amid pandemic](https://www.bbc.co.uk/news/world-us-canada-58094008) - Brigitte's parents just wanted to keep her busy. Now, she's been invited to play at Carnegie Hall.
-22. [I'm A Celebrity 2021: Ant & Dec to return to Gwrych Castle](https://www.bbc.co.uk/news/uk-wales-58071771) - Ant and Dec are returning to Wales to host I'm A Celebrity... Get Me Out Of Here! from Gwrych Castle.
-23. [Billie Eilish opens up to Clara Amfo on internet trolls](https://www.bbc.co.uk/news/entertainment-arts-58039782) - Eilish tells Amfo of her frustration with internet criticism in a new documentary.
-24. [KT Tunstall on her show-halting hearing loss](https://www.bbc.co.uk/news/entertainment-arts-58033812) - The singer-songwriter has put her touring plans on hold over concerns she could become completely deaf.
-25. [Rapper ENNY talks sexual consent in latest track](https://www.bbc.co.uk/news/entertainment-arts-58014225) - The rising south London rapper talks about art imitating life in her new single.
+20. [Becoming Tina Turner in London's West End](https://www.bbc.co.uk/news/entertainment-arts-58017932) - Aisha Jawando takes over from Adrienne Warren in the title role in the musical Tina.
+21. [Fisherwomen honoured in photography exhibition](https://www.bbc.co.uk/news/uk-england-norfolk-58077623) - An exhibition is dedicated to decades of women who have worked in the industry on the east coast.
+22. [Four-year-old US piano prodigy flourishing amid pandemic](https://www.bbc.co.uk/news/world-us-canada-58094008) - Brigitte's parents just wanted to keep her busy. Now, she's been invited to play at Carnegie Hall.
+23. [I'm A Celebrity 2021: Ant & Dec to return to Gwrych Castle](https://www.bbc.co.uk/news/uk-wales-58071771) - Ant and Dec are returning to Wales to host I'm A Celebrity... Get Me Out Of Here! from Gwrych Castle.
+24. [Billie Eilish opens up to Clara Amfo on internet trolls](https://www.bbc.co.uk/news/entertainment-arts-58039782) - Eilish tells Amfo of her frustration with internet criticism in a new documentary.
+25. [KT Tunstall on her show-halting hearing loss](https://www.bbc.co.uk/news/entertainment-arts-58033812) - The singer-songwriter has put her touring plans on hold over concerns she could become completely deaf.
