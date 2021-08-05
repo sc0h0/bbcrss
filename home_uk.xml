@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 14:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 14:40:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,25 @@
             <pubDate>Thu, 05 Aug 2021 12:37:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Strictly Come Dancing: John Whaite to be in first all-male partnership]]></title>
-            <description><![CDATA[TV chef John Whaite makes history, joining Tom Fletcher, AJ Odudu and Robert Webb on the line-up.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58089932</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58089932</guid>
-            <pubDate>Thu, 05 Aug 2021 08:08:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Epstein meetings a huge mistake, says Bill Gates]]></title>
             <description><![CDATA[The Microsoft co-founder says he should not have given the convicted sex offender "credibility".]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58099778</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58099778</guid>
             <pubDate>Thu, 05 Aug 2021 10:49:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bournemouth beach closed after 'large animal' spotted in sea]]></title>
+            <description><![CDATA[Visitors say there was a shark sighting, though lifeguards were unable to identify the animal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58090890</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58090890</guid>
+            <pubDate>Thu, 05 Aug 2021 14:27:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strictly Come Dancing: John Whaite to be in first all-male partnership]]></title>
+            <description><![CDATA[TV chef John Whaite makes history, joining Tom Fletcher, AJ Odudu and Robert Webb on the line-up.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58089932</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58089932</guid>
+            <pubDate>Thu, 05 Aug 2021 08:08:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Walls wins GB's first track cycling gold in Tokyo]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58053074</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58053074</guid>
             <pubDate>Thu, 05 Aug 2021 13:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paul Embery: Pro-Brexit fire union official unfairly sacked, tribunal finds]]></title>
-            <description><![CDATA[A tribunal finds Paul Embery was subject to a "witch hunt" after appearing at a Leave Means Leave rally.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-56376172</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56376172</guid>
-            <pubDate>Thu, 05 Aug 2021 12:23:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extinction Rebellion: Third protester conviction quashed]]></title>
@@ -219,6 +219,13 @@
             <pubDate>Tue, 03 Aug 2021 23:12:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Valentino Rossi: Nine-time world champion to retire at end of 2021 MotoGP season]]></title>
+            <description><![CDATA[Italian MotoGP legend Valentino Rossi says this season will be his last.]]></description>
+            <link>https://www.bbc.co.uk/sport/motorsport/58097548</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/58097548</guid>
+            <pubDate>Thu, 05 Aug 2021 14:37:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Archer to miss T20 World Cup and Ashes with stress fracture of elbow]]></title>
             <description><![CDATA[England fast bowler Jofra Archer will miss this winter's T20 World Cup and the Ashes tour of Australia with a stress facture of the elbow.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58101797</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58101513</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58101513</guid>
             <pubDate>Thu, 05 Aug 2021 12:30:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Braspennincx wins keirin gold - six years after surviving heart attack]]></title>
-            <description><![CDATA[Dutch rider Shanne Braspennincx wins Olympic gold in the keirin, six years after suffering a heart attack.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58097363</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58097363</guid>
-            <pubDate>Thu, 05 Aug 2021 13:28:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB's Matt Walls wins omnium gold]]></title>
@@ -335,7 +335,7 @@
             <description><![CDATA[The government has updated its red, amber and green lists of countries.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52544307</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Thu, 05 Aug 2021 13:25:54 GMT</pubDate>
+            <pubDate>Thu, 05 Aug 2021 14:33:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>

@@ -5,8 +5,8 @@
 5. [Munchausen by Internet: Are chronic illness influencers really faking it?](https://www.bbc.co.uk/news/stories-58093455) - Munchausen by Internet: Are some influencers faking illnesses for fame, money and attention?
 6. [Epstein meetings a huge mistake, says Bill Gates](https://www.bbc.co.uk/news/world-us-canada-58099778) - The Microsoft co-founder says he should not have given the convicted sex offender "credibility".
 7. [Washington NFL team bans fans from wearing Native American dress](https://www.bbc.co.uk/news/world-us-canada-58099157) - The club, which dropped the name Redskins last year, says fans can no longer wear headdresses at games.
-8. [Mexico sues US gun manufacturers over arms trafficking](https://www.bbc.co.uk/news/world-latin-america-58091071) - The lawsuit accuses companies of fuelling bloodshed through negligent business practices.
-9. [Russian gay family flees to Spain after threats](https://www.bbc.co.uk/news/world-europe-58103833) - The lesbian family suffered homophobic abuse after appearing in a Russian health food ad.
+8. [Russian gay family flees to Spain after threats](https://www.bbc.co.uk/news/world-europe-58103833) - The lesbian family suffered homophobic abuse after appearing in a Russian health food ad.
+9. [Turkish influencer prosecuted 'for photos at Amsterdam sex museum'](https://www.bbc.co.uk/news/world-europe-58102368) - Merve Taskin says she faces obscenity charges in Turkey after posting "joke" photos of sex toys.
 10. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
 11. [Paul Johnson: Chicago house music DJ dies at 50 after catching Covid](https://www.bbc.co.uk/news/entertainment-arts-58100006) - Johnson, who had a 1999 hit with Get Get Down, had been in intensive care with the virus.
 12. [Why whales in Alaska have been so happy](https://www.bbc.co.uk/news/world-us-canada-58032702) - What will happen to Alaska's whales when tourism returns to waters stilled by Covid?
