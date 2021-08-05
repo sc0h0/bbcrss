@@ -2,7 +2,7 @@
 2. [Covid: 16 and 17-year-olds in Wales could get jab before term starts](https://www.bbc.co.uk/news/uk-wales-58106571) - Invitations for 16 and 17-year-olds could be sent in the coming days, the health minister says.
 3. [Covid: Wales follows travel rules changes despite criticism](https://www.bbc.co.uk/news/uk-wales-politics-58101108) - Wales will replicate England's travel changes, but ministers say they were not consulted.
 4. [South Wales Police gets more 999 calls than ever before](https://www.bbc.co.uk/news/uk-wales-58106836) - There has been "unprecedented" demand, with 24,265 emergency calls in July.
-5. [Ryan Reynolds: `Wrexham - the club and the community are incredible'](https://www.bbc.co.uk/sport/av/football/58108958) - Hollywood star Ryan Reynolds is ‘very, very excited’ to be co-owner of Wrexham, with the new season fast approaching.
+5. ['Wrexham - the club and the community are incredible'](https://www.bbc.co.uk/sport/av/football/58108958) - Hollywood star Ryan Reynolds is ‘very, very excited’ to be co-owner of Wrexham, with the new season fast approaching.
 6. [Thatcher helped climate by closing coal mines, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-58107009) - Boris Johnson's comments on carbon reduction during his Scottish trip are attacked by Labour and the SNP.
 7. [Minimum wage: 10 firms in Wales underpaid staff](https://www.bbc.co.uk/news/uk-wales-58094098) - A total of 171 workers were not paid £78,000 by the businesses between 2012 and 2018.
 8. [Former Wales and Lions full-back Terry Davies dies](https://www.bbc.co.uk/sport/rugby-union/58108957) - Former Wales and British and Irish Lions full-back Terry Davies dies at the age of 88.
