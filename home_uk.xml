@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 07:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 07:54:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,7 +30,7 @@
             <pubDate>Thu, 05 Aug 2021 04:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bridgend river death: Three charged in Logan Mwangi case]]></title>
+            <title><![CDATA[Bridgend: Three charged over Logan Mwangi river death]]></title>
             <description><![CDATA[Two adults and a 13-year-old boy are charged in connection with the death of Logan Mwangi.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58053074</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58053074</guid>
@@ -79,18 +79,25 @@
             <pubDate>Wed, 04 Aug 2021 22:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Government accused of 'burying' conversion therapy report]]></title>
-            <description><![CDATA[Boris Johnson vowed to ban the "abhorrent" practice - but an official report on it has yet to appear.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58078582</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58078582</guid>
-            <pubDate>Wed, 04 Aug 2021 23:02:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mexico sues US gun manufacturers over arms trafficking]]></title>
             <description><![CDATA[The lawsuit accuses companies of fuelling bloodshed through negligent business practices.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58091071</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58091071</guid>
             <pubDate>Wed, 04 Aug 2021 23:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strictly Come Dancing: John Whaite to be in first all-male partnership]]></title>
+            <description><![CDATA[TV chef John Whaite makes history, joining Tom Fletcher, AJ Odudu and Robert Webb on the line-up.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58089932</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58089932</guid>
+            <pubDate>Thu, 05 Aug 2021 07:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's colourful marine life]]></title>
+            <description><![CDATA[Scuba-diver Ross McLaren has taken thousands of photos of marine life in Scotland's rivers and sea-lochs.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-58071314</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-58071314</guid>
+            <pubDate>Wed, 04 Aug 2021 23:46:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'French reconnection' and 'Sky on a high']]></title>
@@ -105,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/stories-58093455</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-58093455</guid>
             <pubDate>Wed, 04 Aug 2021 23:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's colourful marine life]]></title>
-            <description><![CDATA[Scuba-diver Ross McLaren has taken thousands of photos of marine life in Scotland's rivers and sea-lochs.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-58071314</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-58071314</guid>
-            <pubDate>Wed, 04 Aug 2021 23:46:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Becoming Tina Turner in London's West End]]></title>
@@ -254,11 +254,18 @@
             <pubDate>Thu, 05 Aug 2021 03:42:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Keegan Palmer wins first men's park skateboarding gold]]></title>
-            <description><![CDATA[Australian 18-year-old Keegan Palmer wins gold in the first Olympic men's park skateboarding final at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58096619</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58096619</guid>
-            <pubDate>Thu, 05 Aug 2021 04:51:33 GMT</pubDate>
+            <title><![CDATA[Alex Yee: 'I didn't feel worthy to stand on the start line']]></title>
+            <description><![CDATA[Alex Yee, 23, won two medals at the Olympics - but had self-worth issues when he first turned pro.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58077269</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58077269</guid>
+            <pubDate>Thu, 05 Aug 2021 07:05:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peter Bol: The Sudanese-Australian runner who lifted a nation]]></title>
+            <description><![CDATA[Peter Bol's Olympics has delighted Australians, becoming a "symbol of what we can aspire to be".]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58095689</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58095689</guid>
+            <pubDate>Thu, 05 Aug 2021 04:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Britain's Liam Heath claims bronze in men's kayak single 200m]]></title>
@@ -268,11 +275,11 @@
             <pubDate>Thu, 05 Aug 2021 03:39:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Peter Bol: The Sudanese-Australian runner who lifted a nation]]></title>
-            <description><![CDATA[Peter Bol's Olympics has delighted Australians, becoming a "symbol of what we can aspire to be".]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58095689</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58095689</guid>
-            <pubDate>Thu, 05 Aug 2021 04:51:34 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Keegan Palmer wins first men's park skateboarding gold]]></title>
+            <description><![CDATA[Australian 18-year-old Keegan Palmer wins gold in the first Olympic men's park skateboarding final at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58096619</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58096619</guid>
+            <pubDate>Thu, 05 Aug 2021 04:51:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB's Hector Pardoe pulls out of marathon swim after eye hit by elbow]]></title>

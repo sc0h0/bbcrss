@@ -1,4 +1,4 @@
-1. [Bridgend river death: Three charged in Logan Mwangi case](https://www.bbc.co.uk/news/uk-wales-58053074) - Thu, 05 Aug 2021 05:45:41 GMT - Two adults and a 13-year-old boy are charged in connection with the death of Logan Mwangi.
+1. [Bridgend: Three charged over Logan Mwangi river death](https://www.bbc.co.uk/news/uk-wales-58053074) - Thu, 05 Aug 2021 05:45:41 GMT - Two adults and a 13-year-old boy are charged in connection with the death of Logan Mwangi.
 2. [Covid: Self-isolation payment raised to £750 in Wales](https://www.bbc.co.uk/news/uk-wales-politics-58093465) - Wed, 04 Aug 2021 21:00:04 GMT - Grants for people on low pay in Wales and told to self-isolate will increase by £250 from this weekend.
 3. [Heart app aims to cut NHS waiting lists in north Wales](https://www.bbc.co.uk/news/uk-wales-58094104) - Thu, 05 Aug 2021 05:18:40 GMT - Cardiac patients will be monitored remotely by mobile phone during a trial of the app by clinicians.
 4. [Minimum wage: Ten firms in Wales underpaid staff](https://www.bbc.co.uk/news/uk-wales-58094098) - Thu, 05 Aug 2021 06:09:23 GMT - A total of 171 workers were not paid £78,000 by the businesses between 2012 and 2018.
