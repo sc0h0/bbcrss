@@ -1,4 +1,4 @@
-1. [Iran's new hardline president Ebrahim Raisi to be sworn in](https://www.bbc.co.uk/news/world-middle-east-58097195) - Ebrahim Raisi takes over amid heightened tensions with the West and growing discontent at home.
+1. [Iran's new hardline President Ebrahim Raisi sworn in](https://www.bbc.co.uk/news/world-middle-east-58097195) - Ebrahim Raisi takes over amid heightened tensions with the West and growing discontent at home.
 2. [MV Asphalt Princess: Suspected hijackers leave ship off UAE](https://www.bbc.co.uk/news/world-middle-east-58083671) - Men who boarded a Panama-flagged bitumen tanker have now left the vessel, officials say.
 3. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
 4. [Sheikh Jarrah: Palestinians and Israelis baulk at evictions compromise](https://www.bbc.co.uk/news/world-middle-east-58024060) - A plan to end a long-running saga which has fuelled Israel-Palestinian tensions faces rejection.
