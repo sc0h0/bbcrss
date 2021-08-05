@@ -1,4 +1,4 @@
-1. [Linden Foods: Man dies after incident at Granville site](https://www.bbc.co.uk/news/uk-northern-ireland-58102060) - The Health and Safety Executive and the police are carrying out investigations into the death.
+1. [Linden Foods: Man dies after incident at food processing site](https://www.bbc.co.uk/news/uk-northern-ireland-58102060) - The Health and Safety Executive and the police are investigating the death at Linden Foods near Dungannon.
 2. [Covid-19: Older people commissioner urges more care home staff to get jab](https://www.bbc.co.uk/news/uk-northern-ireland-58098341) - Official figures show that more than one in five local care homes are dealing with an outbreak.
 3. [Covid-19: Irish 12-15-year-olds can register for jab from next week](https://www.bbc.co.uk/news/world-europe-58102051) - The plan to extend the country's vaccination programme was announced in July.
 4. [Carnlough: Sea swimmer dies after getting into difficulty](https://www.bbc.co.uk/news/uk-northern-ireland-58087650) - Emergency services were called to the scene in Carnlough at about 13.30 BST on Wednesday.

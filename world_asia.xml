@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 15:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 15:55:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,25 +23,18 @@
             <pubDate>Thu, 05 Aug 2021 06:51:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sharks from above: Filming 'friendly' encounters in Sydney]]></title>
+            <description><![CDATA[Jason Iggleden captures stunning moments in Sydney, often helping to reduce people's fear.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58009981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58009981</guid>
+            <pubDate>Thu, 05 Aug 2021 15:42:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Article 370: Why more locals in Kashmir are becoming militants]]></title>
             <description><![CDATA[Two years after India revoked Kashmir's status, more locals are taking up arms in the disputed region.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-58025062</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58025062</guid>
             <pubDate>Wed, 04 Aug 2021 23:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dalit girl rape and murder: Indians protest over girl's forced cremation]]></title>
-            <description><![CDATA[A couple accuse a priest and three others of raping and murdering their daughter, aged nine.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58083052</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58083052</guid>
-            <pubDate>Wed, 04 Aug 2021 10:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gunmen attack home of Afghan defence minister in Kabul]]></title>
-            <description><![CDATA[The minister was not at home during the first major attack by militants in Kabul for nearly a year.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58081253</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58081253</guid>
-            <pubDate>Wed, 04 Aug 2021 08:33:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thailand bans coral-damaging sunscreens in marine parks]]></title>
@@ -58,6 +51,13 @@
             <pubDate>Thu, 05 Aug 2021 07:11:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rugby League World Cup 2021 postponed until 2022 following withdrawals]]></title>
+            <description><![CDATA[The Rugby League World Cup in England is postponed until 2022 following the withdrawal of defending champions Australia, and New Zealand.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/57630566</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/57630566</guid>
+            <pubDate>Thu, 05 Aug 2021 10:45:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bangladesh lightning strike kills 17 wedding party guests]]></title>
             <description><![CDATA[The wedding party was disembarking from a boat when several lightning bolts hit the group.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58094680</link>
@@ -70,6 +70,20 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-58052902</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58052902</guid>
             <pubDate>Wed, 04 Aug 2021 04:05:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gunmen attack home of Afghan defence minister in Kabul]]></title>
+            <description><![CDATA[The minister was not at home during the first major attack by militants in Kabul for nearly a year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58081253</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58081253</guid>
+            <pubDate>Wed, 04 Aug 2021 08:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dalit girl rape and murder: Indians protest over girl's forced cremation]]></title>
+            <description><![CDATA[A couple accuse a priest and three others of raping and murdering their daughter, aged nine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58083052</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58083052</guid>
+            <pubDate>Wed, 04 Aug 2021 10:35:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The group rescuing pets orphaned by Covid in Indonesia]]></title>
