@@ -1,4 +1,4 @@
-1. [Number pinged by Covid app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - The fall comes ahead of changes to the app to make it notify fewer contacts.
+1. [Number pinged by NHS Covid-19 app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - The fall is based on data gathered before changes to the app which mean it will notify fewer contacts.
 2. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
 3. [Keeping old computers going costs government £2.3bn a year, says report](https://www.bbc.co.uk/news/uk-politics-58085316) - Just under half the entire IT budget goes on patching up outdated systems, a government report says.
 4. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.

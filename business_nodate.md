@@ -1,8 +1,8 @@
-1. [UK interest rates held at record low despite inflation fears](https://www.bbc.co.uk/news/business-58098118) - Bank of England rate-setters keep rates at record low of 0.1%, saying inflation rise is "transitory".
+1. [UK interest rates held despite warning inflation to hit 4%](https://www.bbc.co.uk/news/business-58098118) - Bank of England says inflation's heading for 4% this year, but interest rates are held at 0.1%.
 2. [Sports Direct's Mike Ashley to hand reins to future son-in-law](https://www.bbc.co.uk/news/business-58097496) - The tycoon, whose empire also includes House of Fraser and Evans Cycles, is set to hand power to his future son-in-law.
 3. [Mike Ashley: Who is the founder of Sports Direct?](https://www.bbc.co.uk/news/business-35863847) - Profile of Sports Direct founder and Newcastle United billionaire owner Mike Ashley.
 4. [Coronavirus: Transport secretary defends travel rule changes](https://www.bbc.co.uk/news/uk-58100523) - Grant Shapps says the traffic light system has been "simplified" while Britons in Mexico face a dash home before its move to the red list.
-5. [Electric vehicle sales outpace diesel again](https://www.bbc.co.uk/news/business-58100474) - Electric cars outsell diesel again, but new UK car registrations fall by almost a third in July.
+5. [Electric vehicle sales outpace diesel again](https://www.bbc.co.uk/news/business-58100474) - More electric cars are registered than diesel again, but new UK car registrations fall in July.
 6. [Pret, McColls and Welcome Break in minimum wage fail](https://www.bbc.co.uk/news/business-58083889) - Retailers and 190 other businesses broke the law by underpaying workers, the government says.
 7. [Cat death rise: 'It feels like we've lost a family member'](https://www.bbc.co.uk/news/business-58090354) - As cat deaths mount from a fatal disease, an investigation into a possible link to pet food continues.
 8. [Covid travel: France moves to amber list and green list expands](https://www.bbc.co.uk/news/business-58079107) - Up to 6,000 Britons are currently in Mexico, which is moving to the red list, Grant Shapps says.
