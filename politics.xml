@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 08:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 09:16:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Wed, 04 Aug 2021 10:26:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid travel: France moves to amber list and green list expands]]></title>
+            <description><![CDATA[Up to 6,000 Britons are currently in Mexico, which is moving to the red list, Grant Shapps says.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58079107</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58079107</guid>
+            <pubDate>Thu, 05 Aug 2021 09:13:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tories face questions over co-chair's firm marketing Covid tests to rich clients]]></title>
             <description><![CDATA[The Conservatives say Ben Elliot's business activities are separate from the party after Labour criticism.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58071608</link>
@@ -86,13 +93,6 @@
             <pubDate>Wed, 04 Aug 2021 13:29:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting]]></title>
-            <description><![CDATA[Svetlana Tikhanovskaya says she has been assured of further UK support, amid a crackdown on dissent.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58073145</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58073145</guid>
-            <pubDate>Tue, 03 Aug 2021 16:26:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rishi Sunak warns young home working may hurt their career]]></title>
             <description><![CDATA[The chancellor says being in the office helped him build strong relationships when he started out.]]></description>
             <link>https://www.bbc.co.uk/news/business-58068998</link>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-58070848</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58070848</guid>
             <pubDate>Tue, 03 Aug 2021 14:47:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting]]></title>
+            <description><![CDATA[Svetlana Tikhanovskaya says she has been assured of further UK support, amid a crackdown on dissent.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58073145</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58073145</guid>
+            <pubDate>Tue, 03 Aug 2021 16:26:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shops and schools proposed for council election pilots in Wales]]></title>
