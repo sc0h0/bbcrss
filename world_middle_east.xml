@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 07:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 08:18:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Iran's new hardline president Ebrahim Raisi to be sworn in]]></title>
+            <description><![CDATA[Ebrahim Raisi takes over amid heightened tensions with the West and growing discontent at home.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58097195</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58097195</guid>
+            <pubDate>Thu, 05 Aug 2021 07:47:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MV Asphalt Princess: Suspected hijackers leave ship off UAE]]></title>
             <description><![CDATA[Men who boarded a Panama-flagged bitumen tanker have now left the vessel, officials say.]]></description>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58021386</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58021386</guid>
             <pubDate>Fri, 30 Jul 2021 10:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel investigating shooting of Palestinian boy in West Bank]]></title>
-            <description><![CDATA[Palestinian officials say soldiers shot the 12-year-old as he travelled in a car in the West Bank.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58010712</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58010712</guid>
-            <pubDate>Thu, 29 Jul 2021 15:41:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tunisia crisis: Democrats, despots and the fight for power]]></title>

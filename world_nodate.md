@@ -4,13 +4,13 @@
 4. [Covid: WHO calls for booster pause to vaccinate poorer nations](https://www.bbc.co.uk/news/world-58090051) - WHO chief says it would allow at least 10% of the population in every country to be vaccinated.
 5. [US plans to require Covid vaccine for foreign travellers](https://www.bbc.co.uk/news/world-us-canada-58095549) - Most international travellers will eventually need to be vaccinated when the US reopens borders.
 6. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
-7. [Belarus protests: Trial of opposition figures begins](https://www.bbc.co.uk/news/world-europe-58083672) - Protest organiser Maria Kolesnikova has been charged with threatening national security.
-8. [Dalit girl rape and murder: Indians protest over girl's forced cremation](https://www.bbc.co.uk/news/world-asia-india-58083052) - A couple accuse a priest and three others of raping and murdering their daughter, aged nine.
+7. [Thailand bans coral-damaging sunscreens in marine parks](https://www.bbc.co.uk/news/world-asia-58092472) - Anyone flouting the rules could be fined due to the damage some lotions can cause to coral.
+8. [Belarus protests: Trial of opposition figures begins](https://www.bbc.co.uk/news/world-europe-58083672) - Protest organiser Maria Kolesnikova has been charged with threatening national security.
 9. [Rihanna now officially a billionaire](https://www.bbc.co.uk/news/world-us-canada-58092465) - The star is now the wealthiest female musician in the world, according to Forbes.
 10. [Floods: Research shows millions more at risk of flooding](https://www.bbc.co.uk/news/science-environment-58087479) - Numbers of people exposed to flooding globally have risen by almost a quarter in two decades.
 11. [Bangladesh lightning strike kills 17 wedding party guests](https://www.bbc.co.uk/news/world-asia-58094680) - The wedding party was disembarking from a boat when several lightning bolts hit the group.
-12. [Greece wildfires force people to flee island by boat](https://www.bbc.co.uk/news/world-europe-58093275) - Scores of people on Evia were forced to evacuate by sea as wildfire spread rapidly, destroying homes.
-13. [USS Bonhomme Richard fire: Suspect identified as 20-year-old Navy sailor](https://www.bbc.co.uk/news/world-us-canada-58091854) - A newly unsealed warrant also reveals suspicions that fire stations on the ship were sabotaged.
+12. [Dalit girl rape and murder: Indians protest over girl's forced cremation](https://www.bbc.co.uk/news/world-asia-india-58083052) - A couple accuse a priest and three others of raping and murdering their daughter, aged nine.
+13. [Greece wildfires force people to flee island by boat](https://www.bbc.co.uk/news/world-europe-58093275) - Scores of people on Evia were forced to evacuate by sea as wildfire spread rapidly, destroying homes.
 14. [Why whales in Alaska have been so happy](https://www.bbc.co.uk/news/world-us-canada-58032702) - What will happen to Alaska's whales when tourism returns to waters stilled by Covid?
 15. [Simone Biles 'shows how much gymnastics has changed'](https://www.bbc.co.uk/news/world-us-canada-58043512) - Biles' withdrawal shows how attitudes have changed, says former USA gymnast Dominique Moceanu.
 16. [Article 370: Why more locals in Kashmir are becoming militants](https://www.bbc.co.uk/news/world-asia-india-58025062) - Two years after India revoked Kashmir's status, more locals are taking up arms in the disputed region.

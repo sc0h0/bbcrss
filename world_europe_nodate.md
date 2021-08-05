@@ -1,9 +1,9 @@
 1. [Belarus sprinter Krystina Timanovskaya arrives in Poland](https://www.bbc.co.uk/news/world-europe-58081254) - Krystina Timanovskaya was granted a humanitarian visa after she refused orders to fly home early.
 2. [Belarus protests: Trial of opposition figures begins](https://www.bbc.co.uk/news/world-europe-58083672) - Protest organiser Maria Kolesnikova has been charged with threatening national security.
 3. [Greece wildfires force people to flee island by boat](https://www.bbc.co.uk/news/world-europe-58093275) - Scores of people on Evia were forced to evacuate by sea as wildfire spread rapidly, destroying homes.
-4. [Migrant Channel crossings: 281 people reach the UK](https://www.bbc.co.uk/news/uk-england-kent-58083490) - The Home Office says the rising number of people making the "dangerous" crossing is unacceptable.
-5. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
-6. [Tokyo Olympics: Italy break world record to win team pursuit gold](https://www.bbc.co.uk/sport/olympics/58085705) - Italy break their own world record to be crowned men's team pursuit Olympic champions for the first time in 61 years at Tokyo 2020.
+4. [Covid travel: France moves to amber list and green list expands](https://www.bbc.co.uk/news/business-58079107) - But some in the travel industry argue the government has not gone far enough in its announcement.
+5. [Migrant Channel crossings: 281 people reach the UK](https://www.bbc.co.uk/news/uk-england-kent-58083490) - The Home Office says the rising number of people making the "dangerous" crossing is unacceptable.
+6. [Vitaly Shishov: Head of Belarus exiles group found dead in Ukraine](https://www.bbc.co.uk/news/world-europe-58065313) - Vitaly Shishov lived in Ukraine and led a group helping people who fled the Belarus crackdown.
 7. [Three dead in train crash near Czech-German border](https://www.bbc.co.uk/news/world-europe-58083778) - An express train from Munich hits a commuter train near the Czech Republic town of Domazlice.
 8. [Tokyo Olympics sparks anti-LGBT slurs on Russian TV](https://www.bbc.co.uk/news/world-europe-58029133) - Gay and transgender athletes in Tokyo have been singled out for abuse on Russian state television.
 9. [Vitaly Shishov: Belarus dissidents who disappeared and died](https://www.bbc.co.uk/news/world-europe-58079461) - For years opponents of Belarus leader Alexander Lukashenko have been hounded - sometimes fatally.
