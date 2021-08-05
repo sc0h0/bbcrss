@@ -1,8 +1,8 @@
 1. [Mike Ashley to step down from leading Sports Direct Group](https://www.bbc.co.uk/news/business-58097496) - The tycoon, whose empire also includes House of Fraser and Evans Cycles, is set to hand power to his future son-in-law.
 2. [Covid travel: France moves to amber list and green list expands](https://www.bbc.co.uk/news/business-58079107) - But some in the travel industry argue the government has not gone far enough in its announcement.
 3. [Pret, McColls and Welcome Break in minimum wage fail](https://www.bbc.co.uk/news/business-58083889) - Retailers and 190 other businesses broke the law by underpaying workers, the government says.
-4. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
-5. ['It feels like we've lost a family member'](https://www.bbc.co.uk/news/business-58090354) - As cat deaths mount from a fatal disease, an investigation into a possible link to pet food continues.
+4. ['It feels like we've lost a family member'](https://www.bbc.co.uk/news/business-58090354) - As cat deaths mount from a fatal disease, an investigation into a possible link to pet food continues.
+5. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
 6. [Vanguard: Investment giant to pay vaccinated workers $1,000](https://www.bbc.co.uk/news/business-58091534) - Asset manager Vanguard will reward staff who get jabbed, but it won't mandate vaccinations.
 7. [Robinhood shares surge amid frenzied trading](https://www.bbc.co.uk/news/business-58091533) - After a poor stock market debut, amateur investors are snapping up shares in the online trading platform.
 8. [Net zero targets 'unrealistic' says Oxfam report](https://www.bbc.co.uk/news/business-58079101) - Oxfam’s chief executive said that net zero targets made by companies and governments are "unreliable and unproven".
