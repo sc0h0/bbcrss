@@ -1,14 +1,14 @@
 1. [How a fake network pushes pro-China propaganda](https://www.bbc.co.uk/news/world-asia-china-58062630) - The web of 350 fake social media profiles aims to discredit the West, sometimes with garish cartoons.
 2. [Mexico sues US gun manufacturers over arms trafficking](https://www.bbc.co.uk/news/world-latin-america-58091071) - The lawsuit accuses companies of fuelling bloodshed through negligent business practices.
-3. [Elaine Thompson-Herah: Instagram blocks gold medallist who shared race win](https://www.bbc.co.uk/sport/olympics/58094908) - The Jamaican sprinter was blocked after posting footage of her races on her Instagram account.
+3. [Epstein meetings a huge mistake, says Bill Gates](https://www.bbc.co.uk/news/world-us-canada-58099778) - The Microsoft co-founder says he should not have given the convicted sex offender "credibility".
 4. [Migrant van crash kills at least 10 in Texas](https://www.bbc.co.uk/news/world-us-canada-58098189) - Officials say 30 people were onboard when their vehicle hit a metal pole and stop sign.
 5. [Four-year-old US piano prodigy flourishing amid pandemic](https://www.bbc.co.uk/news/world-us-canada-58094008) - Brigitte's parents just wanted to keep her busy. Now, she's been invited to play at Carnegie Hall.
 6. [Washington NFL team bans fans from wearing Native American dress](https://www.bbc.co.uk/news/world-us-canada-58099157) - The club, which dropped the name Redskins last year, says fans can no longer wear headdresses at games.
 7. [Thailand bans coral-damaging sunscreens in marine parks](https://www.bbc.co.uk/news/world-asia-58092472) - Anyone flouting the rules could be fined due to the damage some lotions can cause to coral.
 8. [Iran's new hardline president Ebrahim Raisi to be sworn in](https://www.bbc.co.uk/news/world-middle-east-58097195) - Ebrahim Raisi takes over amid heightened tensions with the West and growing discontent at home.
 9. [Paul Johnson: Chicago house music DJ dies at 50 after catching Covid](https://www.bbc.co.uk/news/entertainment-arts-58100006) - Johnson, who had a 1999 hit with Get Get Down, had been in intensive care with the virus.
-10. [US plans to require Covid vaccine for foreign travellers](https://www.bbc.co.uk/news/world-us-canada-58095549) - Most international travellers will eventually need to be vaccinated when the US reopens borders.
-11. [Rihanna now officially a billionaire](https://www.bbc.co.uk/news/world-us-canada-58092465) - The star is now the wealthiest female musician in the world, according to Forbes.
+10. [Elaine Thompson-Herah: Instagram blocks gold medallist who shared race win](https://www.bbc.co.uk/sport/olympics/58094908) - The Jamaican sprinter was blocked after posting footage of her races on her Instagram account.
+11. [US plans to require Covid vaccine for foreign travellers](https://www.bbc.co.uk/news/world-us-canada-58095549) - Most international travellers will eventually need to be vaccinated when the US reopens borders.
 12. [Bangladesh lightning strike kills 17 wedding party guests](https://www.bbc.co.uk/news/world-asia-58094680) - The wedding party was disembarking from a boat when several lightning bolts hit the group.
 13. [Why whales in Alaska have been so happy](https://www.bbc.co.uk/news/world-us-canada-58032702) - What will happen to Alaska's whales when tourism returns to waters stilled by Covid?
 14. [Simone Biles 'shows how much gymnastics has changed'](https://www.bbc.co.uk/news/world-us-canada-58043512) - Biles' withdrawal shows how attitudes have changed, says former USA gymnast Dominique Moceanu.
