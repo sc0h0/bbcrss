@@ -7,7 +7,7 @@
 7. [Former Wales and Lions full-back Terry Davies dies](https://www.bbc.co.uk/sport/rugby-union/58108957) - Former Wales and British and Irish Lions full-back Terry Davies dies at the age of 88.
 8. [Thatcher helped climate by closing coal mines, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-58107009) - Boris Johnson's comments on carbon reduction during his Scottish trip are attacked by Labour and the SNP.
 9. [Minimum wage: 10 firms in Wales underpaid staff](https://www.bbc.co.uk/news/uk-wales-58094098) - A total of 171 workers were not paid £78,000 by the businesses between 2012 and 2018.
-10. [Wales' rain and thunderstorm warning extended](https://www.bbc.co.uk/news/uk-wales-58087494) - The Met Office warn homes could be flooded and roads closed as storms hit north and mid Wales.
+10. [Two days of rain and thunderstorms forecast for north and mid Wales](https://www.bbc.co.uk/news/uk-wales-58087494) - Homes could flood and roads close as they strike north and mid Wales, the Met Office has warned.
 11. [I'm A Celebrity: Work planned on Gwrych Castle ahead of ITV return](https://www.bbc.co.uk/news/uk-wales-58106564) - Councillors will debate alterations to the Grade I-listed building ahead of the show's return.
 12. [Covid lockdown easing: What are people looking forward to in Wales?](https://www.bbc.co.uk/news/uk-wales-58103608) - As most restrictions end in Wales on Saturday, weddings, events and socialising are back.
 13. [Smartphone app creates clever way to monitor patients](https://www.bbc.co.uk/news/uk-wales-58091637) - Evan Dobson is taking part in a 12-week trial of an app to monitor his heart condition.

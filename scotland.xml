@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 21:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 21:52:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Thu, 05 Aug 2021 20:55:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Thu, 05 Aug 2021 13:53:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fife athletics coach guilty of sex offences against teenage girls]]></title>
             <description><![CDATA[Former athletics coach Eric Simpson, 73, targeted teenage girls in Fife between 1981 and 1999.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58107370</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58107370</guid>
             <pubDate>Thu, 05 Aug 2021 16:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Director pay and bonus rules for SPFL clubs' loan]]></title>
+            <description><![CDATA[Scottish ministers have put strict conditions on £25.2m worth of emergency Covid loans given to Scottish football clubs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58104430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58104430</guid>
+            <pubDate>Thu, 05 Aug 2021 21:41:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: Questions raised over climate summit]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58094836</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58094836</guid>
             <pubDate>Thu, 05 Aug 2021 12:04:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Thu, 05 Aug 2021 13:53:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: How will the rules change on 9 August?]]></title>
