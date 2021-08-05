@@ -1,4 +1,4 @@
-1. [Iran's new hardline President Ebrahim Raisi sworn in](https://www.bbc.co.uk/news/world-middle-east-58097195) - Ebrahim Raisi takes over amid heightened tensions with the West and growing discontent at home.
+1. [US urges Iran's new President Ebrahim Raisi to resume nuclear talks](https://www.bbc.co.uk/news/world-middle-east-58109087) - The state department says Ebrahim Raisi should seize the opportunity to revive a landmark 2015 deal.
 2. [Belarus Olympian Timanovskaya says grandmother warned her not to come home](https://www.bbc.co.uk/news/world-europe-58104195) - Krystina Timanovskaya says she fled after being warned it was not safe to fly home from the Olympics.
 3. [Lalibela: Ethiopia's Tigray rebels take Unesco world heritage town](https://www.bbc.co.uk/news/world-africa-58101912) - Forces from the Tigray region have taken control of Lalibela, home to famed rock-hewn churches.
 4. [Munchausen by Internet: Are chronic illness influencers really faking it?](https://www.bbc.co.uk/news/stories-58093455) - Munchausen by Internet: Are some influencers faking illnesses for fame, money and attention?
