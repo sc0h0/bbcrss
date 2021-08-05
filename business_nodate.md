@@ -1,4 +1,4 @@
-1. [Mike Ashley to step down from leading Sports Direct Group](https://www.bbc.co.uk/news/business-58097496) - The tycoon, whose empire also includes House of Fraser and Evans Cycles, is set to hand power to his future son-in-law.
+1. [Sports Direct's Mike Ashley to hand reins to future son-in-law](https://www.bbc.co.uk/news/business-58097496) - The tycoon, whose empire also includes House of Fraser and Evans Cycles, is set to hand power to his future son-in-law.
 2. [Covid travel: France moves to amber list and green list expands](https://www.bbc.co.uk/news/business-58079107) - Up to 6,000 Britons are currently in Mexico, which is moving to the red list, Grant Shapps says.
 3. [Pret, McColls and Welcome Break in minimum wage fail](https://www.bbc.co.uk/news/business-58083889) - Retailers and 190 other businesses broke the law by underpaying workers, the government says.
 4. ['It feels like we've lost a family member'](https://www.bbc.co.uk/news/business-58090354) - As cat deaths mount from a fatal disease, an investigation into a possible link to pet food continues.

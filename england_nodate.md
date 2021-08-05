@@ -9,7 +9,7 @@
 9. [Man killed in tanker attack named as Adrian Underwood](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58092151) - Adrian Underwood died when the ship was struck by an explosive-laden drone off the coast of Oman.
 10. [Alta Fixsler: European court rejects appeal over Jewish girl's life support](https://www.bbc.co.uk/news/uk-england-manchester-58074291) - Two-year-old Alta Fixsler's parents say withdrawing treatment is against their religious beliefs.
 11. [Rutland Osprey Project celebrates after 200th chick fledges](https://www.bbc.co.uk/news/uk-england-leicestershire-58090662) - The Rutland Osprey Project reaches the milestone as it marks 25 years since it began.
-12. [What are the holiday rules for travel to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - The government has updated its red, amber and green lists of countries.
+12. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The government is expected to announce that 16 and 17-year-olds will receive the Covid vaccine.
 13. [Why bonding over the Euros appeared to increase Covid cases in men](https://www.bbc.co.uk/news/health-58015593) - Psychologists say men need to be part of a group in order to vent their feelings and emotions.
 14. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
 15. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
