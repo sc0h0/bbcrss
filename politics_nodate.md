@@ -2,7 +2,7 @@
 2. [Conservative donors have no influence on policy, insists Grant Shapps](https://www.bbc.co.uk/news/uk-politics-58098887) - Grant Shapps defends big donors getting access to Boris Johnson and Rishi Sunak.
 3. [Ben Elliot: Conservative Party money man with A-list connections](https://www.bbc.co.uk/news/uk-politics-58100884) - Tory fundraiser and co-chairman Ben Elliot is at the centre of controversy over an elite donors club.
 4. [Keeping old computers going costs government £2.3bn a year, says report](https://www.bbc.co.uk/news/uk-politics-58085316) - Just under half the entire IT budget goes on patching up outdated systems, a government report says.
-5. [COP26: Warnings that climate summit may not happen](https://www.bbc.co.uk/news/uk-politics-58107010) - With less than 90 days to go until COP26 in Glasgow, there is uncertainty surrounding the event.
+5. [COP26: Questions raised over climate summit](https://www.bbc.co.uk/news/uk-politics-58107010) - With less than 90 days to go until COP26 in Glasgow, there is uncertainty surrounding the event.
 6. [New oil development off Shetland should not go ahead - Starmer](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58103843) - The Labour leader says it would send the wrong signal for the Cambo oil field to be approved ahead of COP26.
 7. [Paul Embery: Pro-Brexit fire union official unfairly sacked, tribunal finds](https://www.bbc.co.uk/news/uk-56376172) - A tribunal finds Paul Embery was subject to a "witch hunt" after appearing at a Leave Means Leave rally.
 8. [Channel crossings: Hundreds more migrants reach UK after record day](https://www.bbc.co.uk/news/uk-england-kent-58100694) - According to Home Office figures, there have now been 10,711 arrivals in 449 boats so far in 2021.
