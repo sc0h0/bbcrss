@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 18:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 18:27:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,18 +72,11 @@
             <pubDate>Thu, 05 Aug 2021 16:40:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Holborn crash: Doctor killed in HGV collision 'was on way to patients']]></title>
-            <description><![CDATA[Dr Marta Krawiec, 41, "died on her way to her patients", her family has said.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58104440</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58104440</guid>
-            <pubDate>Thu, 05 Aug 2021 15:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: 'Extra special' as twins, say Gadirova sisters]]></title>
-            <description><![CDATA[Jessica and Jennifer Gadirova, 16, return to Britain after securing team bronze in the gymnastics.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58101556</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58101556</guid>
-            <pubDate>Thu, 05 Aug 2021 12:26:09 GMT</pubDate>
+            <title><![CDATA[Robert Dawes: Jailed drug smuggler charged with gun murder]]></title>
+            <description><![CDATA[The 52-year-old victim was shot in 2002 over a drug debt allegedly owed by a member of his family.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58105493</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58105493</guid>
+            <pubDate>Thu, 05 Aug 2021 16:57:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Salfords: Pedestrian dies in ambulance crash]]></title>
@@ -93,11 +86,18 @@
             <pubDate>Thu, 05 Aug 2021 17:43:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ever Given: Ship that blocked Suez Canal leaves Felixstowe]]></title>
-            <description><![CDATA[The Ever Given leaves Felixstowe after 2,000 containers were unloaded.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58100664</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58100664</guid>
-            <pubDate>Thu, 05 Aug 2021 10:27:52 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: 'Extra special' as twins, say Gadirova sisters]]></title>
+            <description><![CDATA[Jessica and Jennifer Gadirova, 16, return to Britain after securing team bronze in the gymnastics.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58101556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58101556</guid>
+            <pubDate>Thu, 05 Aug 2021 12:26:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family pleads for return of therapy dog stolen from Derbyshire kennels]]></title>
+            <description><![CDATA[Elvis, a cockapoo, was stolen from a Derbyshire kennels along with two other dogs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58104919</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-58104919</guid>
+            <pubDate>Thu, 05 Aug 2021 16:16:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
@@ -196,6 +196,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-kent-58074005</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58074005</guid>
             <pubDate>Wed, 04 Aug 2021 05:26:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ever Given: Ship that blocked Suez Canal leaves Felixstowe]]></title>
+            <description><![CDATA[The Ever Given leaves Felixstowe after 2,000 containers were unloaded.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58100664</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58100664</guid>
+            <pubDate>Thu, 05 Aug 2021 10:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holborn crash: Doctor killed in HGV collision 'was on way to patients']]></title>
+            <description><![CDATA[Dr Marta Krawiec, 41, "died on her way to her patients", her family has said.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58104440</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58104440</guid>
+            <pubDate>Thu, 05 Aug 2021 15:20:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Migrant crossings: Record 482 cross English Channel in one day]]></title>
