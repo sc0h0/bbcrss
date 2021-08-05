@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 22:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 23:13:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Mon, 26 Jul 2021 13:05:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why artificial intelligence is being used to write adverts]]></title>
+            <description><![CDATA[Advertisers are increasingly using artificial intelligence to come up with their winning slogans.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57781557</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57781557</guid>
+            <pubDate>Thu, 05 Aug 2021 23:06:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The perfect storm striking World of Warcraft]]></title>
             <description><![CDATA[All of a sudden, WoW players are in revolt, and its competitors are having a boom.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58017429</link>
@@ -168,41 +175,6 @@
             <link>https://www.bbc.co.uk/news/business-57847652</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57847652</guid>
             <pubDate>Sun, 25 Jul 2021 23:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Will lockdown change England's new tech habits?]]></title>
-            <description><![CDATA[The pandemic brought about big changes in the way people use tech - the question is will they last?]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57890005</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57890005</guid>
-            <pubDate>Mon, 19 Jul 2021 23:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What does a future-proofed home look like?]]></title>
-            <description><![CDATA[The technology exists to make homes more resilient to extreme weather, but it can be expensive.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57738681</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57738681</guid>
-            <pubDate>Thu, 22 Jul 2021 23:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zoomtown-on-Sea? The lure of a new life on the coast]]></title>
-            <description><![CDATA[Remote working meant the Lancaster family could live anywhere - they found their sea view in Scarborough.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-57892934</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-57892934</guid>
-            <pubDate>Thu, 22 Jul 2021 09:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pegasus scandal: Are we all becoming unknowing spies?]]></title>
-            <description><![CDATA[We may be stepping into a world in which we are all spies - and at the same time are all spied on.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57910355</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57910355</guid>
-            <pubDate>Wed, 21 Jul 2021 01:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finding 'Grace': Murder, DNA and ancestry]]></title>
-            <description><![CDATA[How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57801794</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57801794</guid>
-            <pubDate>Fri, 16 Jul 2021 00:05:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

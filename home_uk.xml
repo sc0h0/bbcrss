@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 22:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 23:12:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Thu, 05 Aug 2021 18:01:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US to allow visitors from Hong Kong to stay for 18 months]]></title>
+            <description><![CDATA[Thousands can stay in US for 18 months because China is eroding territory's freedoms, the US president says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58105075</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58105075</guid>
+            <pubDate>Thu, 05 Aug 2021 22:52:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Messi will not stay at Barcelona, says club]]></title>
             <description><![CDATA[Barcelona say Lionel Messi will not be staying at the club "because of financial and structural obstacles".]]></description>
             <link>https://www.bbc.co.uk/sport/football/58108298</link>
@@ -79,13 +86,6 @@
             <pubDate>Thu, 05 Aug 2021 20:47:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bournemouth beach closed after 'large animal' spotted in sea]]></title>
-            <description><![CDATA[Visitors say there was a shark sighting, though lifeguards were unable to identify the animal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58090890</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58090890</guid>
-            <pubDate>Thu, 05 Aug 2021 14:27:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jack Grealish: Man City sign England midfielder from Aston Villa for £100m]]></title>
             <description><![CDATA[England midfielder Jack Grealish joins Manchester City from Aston Villa for a British record transfer fee of £100m.]]></description>
             <link>https://www.bbc.co.uk/sport/football/57818660</link>
@@ -100,13 +100,6 @@
             <pubDate>Thu, 05 Aug 2021 15:31:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Footballer Ballack's son Emilio dies, aged 18]]></title>
-            <description><![CDATA[Emilio Ballack, the son of former Germany and Chelsea midfielder Michael Ballack, dies in a quad-bike accident, aged 18.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58106077</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58106077</guid>
-            <pubDate>Thu, 05 Aug 2021 17:14:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: Social media push on jabs, and uni entrance exams]]></title>
             <description><![CDATA[New campaigns to encourage the take up of Covid vaccinations are a focus for the front pages.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58109217</link>
@@ -119,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58089932</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58089932</guid>
             <pubDate>Thu, 05 Aug 2021 08:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bournemouth beach closed after 'large animal' spotted in sea]]></title>
+            <description><![CDATA[Visitors say there was a shark sighting, though lifeguards were unable to identify the animal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58090890</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58090890</guid>
+            <pubDate>Thu, 05 Aug 2021 14:27:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fish with 'human' teeth caught in North Carolina]]></title>
@@ -154,34 +154,6 @@
             <link>https://www.bbc.co.uk/news/stories-58093455</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-58093455</guid>
             <pubDate>Wed, 04 Aug 2021 23:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Becoming Tina Turner in London's West End]]></title>
-            <description><![CDATA[Aisha Jawando takes over from Adrienne Warren in the title role in the musical Tina.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58017932</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58017932</guid>
-            <pubDate>Wed, 04 Aug 2021 23:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four-year-old US piano prodigy flourishing amid pandemic]]></title>
-            <description><![CDATA[Brigitte's parents just wanted to keep her busy. Now, she's been invited to play at Carnegie Hall.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58094008</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58094008</guid>
-            <pubDate>Wed, 04 Aug 2021 17:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Special educational needs: 'My battle to get an equal education']]></title>
-            <description><![CDATA[Claude created a petition to try to stop other young people having to go through what he has.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58076091</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58076091</guid>
-            <pubDate>Wed, 04 Aug 2021 23:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toxteth boy, 14, cleans up fly-tipping spot and designs community garden]]></title>
-            <description><![CDATA[Khan, 14, wants to turn an area being used as a dumping ground into a public garden and allotment.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58089751</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58089751</guid>
-            <pubDate>Wed, 04 Aug 2021 19:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ben Elliot: Conservative Party money man with A-list connections]]></title>
@@ -240,41 +212,6 @@
             <pubDate>Wed, 04 Aug 2021 23:56:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mike Ashley: Who is the founder of Sports Direct?]]></title>
-            <description><![CDATA[Profile of Sports Direct founder and Newcastle United billionaire owner Mike Ashley.]]></description>
-            <link>https://www.bbc.co.uk/news/business-35863847</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-35863847</guid>
-            <pubDate>Thu, 05 Aug 2021 12:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I run my business from my pimped-up camper van']]></title>
-            <description><![CDATA[Liam Chester was burnt out with work so he converted a camper van to take his office into nature.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58025876</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58025876</guid>
-            <pubDate>Thu, 05 Aug 2021 05:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jack Antonoff has redefined pop music. Here's how]]></title>
-            <description><![CDATA[Taylor Swift, Lana Del Rey and Lorde all rely on his advice. Now he's making a statement of his own.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58085468</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58085468</guid>
-            <pubDate>Wed, 04 Aug 2021 23:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BA flight 149: Was it on a secret 'military intelligence mission'?]]></title>
-            <description><![CDATA[Passengers and crew were taken hostage by Iraq when the flight landed in Kuwait in 1990.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58087520</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58087520</guid>
-            <pubDate>Wed, 04 Aug 2021 13:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics sparks anti-LGBT slurs on Russian TV]]></title>
-            <description><![CDATA[Gay and transgender athletes in Tokyo have been singled out for abuse on Russian state television.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58029133</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58029133</guid>
-            <pubDate>Tue, 03 Aug 2021 23:12:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Anderson leads thrilling England fightback before rain]]></title>
             <description><![CDATA[James Anderson spearheads an exhilarating England recovery before the weather curtails the second day of the first Test against India.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58106765</link>
@@ -315,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/58108046</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58108046</guid>
             <pubDate>Thu, 05 Aug 2021 17:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: GB's Holly Bradshaw wins bronze in the women's pole vault]]></title>
+            <description><![CDATA[Holly Bradshaw claims Britain's second track and field medal in Tokyo and finally landed her first major championship podium finish with pole vault bronze.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58101513</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58101513</guid>
+            <pubDate>Thu, 05 Aug 2021 12:30:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB's Matt Walls wins omnium gold]]></title>

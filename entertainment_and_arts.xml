@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 22:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 23:11:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Thu, 29 Jul 2021 23:19:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tankus the Henge: Touring in France post-Brexit 'a puzzle']]></title>
+            <description><![CDATA[Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58063110</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58063110</guid>
+            <pubDate>Thu, 05 Aug 2021 23:02:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Becoming Tina Turner in London's West End]]></title>
             <description><![CDATA[Aisha Jawando takes over from Adrienne Warren in the title role in the musical Tina.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58017932</link>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58039782</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58039782</guid>
             <pubDate>Sat, 31 Jul 2021 11:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KT Tunstall on her show-halting hearing loss]]></title>
-            <description><![CDATA[The singer-songwriter has put her touring plans on hold over concerns she could become completely deaf.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58033812</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58033812</guid>
-            <pubDate>Fri, 30 Jul 2021 23:06:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 22:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 23:13:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,20 @@
             <pubDate>Wed, 04 Aug 2021 21:10:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Will Turkey's bees return after the wildfires?]]></title>
+            <description><![CDATA[Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58108697</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58108697</guid>
+            <pubDate>Thu, 05 Aug 2021 23:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tankus the Henge: Touring in France post-Brexit 'a puzzle']]></title>
+            <description><![CDATA[Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58063110</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58063110</guid>
+            <pubDate>Thu, 05 Aug 2021 23:02:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Athlete Krystina Timanovskaya: 'It's dangerous for me in Belarus']]></title>
             <description><![CDATA[Athlete Krystina Timanovskaya tells the BBC that she can't return to her home country over safety fears.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58099987</link>
@@ -126,20 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58051746</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58051746</guid>
             <pubDate>Mon, 02 Aug 2021 02:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey wildfires: People flee as blazes spread in Marmaris and Bodrum]]></title>
-            <description><![CDATA[Some neighbourhoods have been evacuated after gusts of wind spread the flames into residential areas.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58038753</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58038753</guid>
-            <pubDate>Sun, 01 Aug 2021 10:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roma student: 'My only goal is to finish school']]></title>
-            <description><![CDATA[How one school in Croatia is working to improve education opportunities for Roma children like Kristina.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-57978365</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-57978365</guid>
-            <pubDate>Tue, 27 Jul 2021 23:00:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

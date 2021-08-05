@@ -17,9 +17,9 @@
 17. [EastEnders: 'I was ignorant about my schizophrenia'](https://www.bbc.co.uk/news/newsbeat-57986350) - Antonio Ferreira is using his personal experience to advise the soap on a storyline.
 18. [The X Factor: What became of the star-making hit show?](https://www.bbc.co.uk/news/entertainment-arts-58024286) - How the show that once topped viewing figures, and created big stars appears to have run its course.
 19. [The Strokes' Is This It at 20: Nudes, booze and 9/11](https://www.bbc.co.uk/news/entertainment-arts-57967493) - How the New York City band's 2001 debut album heralded "a new spirit in guitar music".
-20. [Becoming Tina Turner in London's West End](https://www.bbc.co.uk/news/entertainment-arts-58017932) - Aisha Jawando takes over from Adrienne Warren in the title role in the musical Tina.
-21. [Fisherwomen honoured in photography exhibition](https://www.bbc.co.uk/news/uk-england-norfolk-58077623) - An exhibition is dedicated to decades of women who have worked in the industry on the east coast.
-22. [Four-year-old US piano prodigy flourishing amid pandemic](https://www.bbc.co.uk/news/world-us-canada-58094008) - Brigitte's parents just wanted to keep her busy. Now, she's been invited to play at Carnegie Hall.
-23. [I'm A Celebrity 2021: Ant & Dec to return to Gwrych Castle](https://www.bbc.co.uk/news/uk-wales-58071771) - Ant and Dec are returning to Wales to host I'm A Celebrity... Get Me Out Of Here! from Gwrych Castle.
-24. [Billie Eilish opens up to Clara Amfo on internet trolls](https://www.bbc.co.uk/news/entertainment-arts-58039782) - Eilish tells Amfo of her frustration with internet criticism in a new documentary.
-25. [KT Tunstall on her show-halting hearing loss](https://www.bbc.co.uk/news/entertainment-arts-58033812) - The singer-songwriter has put her touring plans on hold over concerns she could become completely deaf.
+20. [Tankus the Henge: Touring in France post-Brexit 'a puzzle'](https://www.bbc.co.uk/news/entertainment-arts-58063110) - Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.
+21. [Becoming Tina Turner in London's West End](https://www.bbc.co.uk/news/entertainment-arts-58017932) - Aisha Jawando takes over from Adrienne Warren in the title role in the musical Tina.
+22. [Fisherwomen honoured in photography exhibition](https://www.bbc.co.uk/news/uk-england-norfolk-58077623) - An exhibition is dedicated to decades of women who have worked in the industry on the east coast.
+23. [Four-year-old US piano prodigy flourishing amid pandemic](https://www.bbc.co.uk/news/world-us-canada-58094008) - Brigitte's parents just wanted to keep her busy. Now, she's been invited to play at Carnegie Hall.
+24. [I'm A Celebrity 2021: Ant & Dec to return to Gwrych Castle](https://www.bbc.co.uk/news/uk-wales-58071771) - Ant and Dec are returning to Wales to host I'm A Celebrity... Get Me Out Of Here! from Gwrych Castle.
+25. [Billie Eilish opens up to Clara Amfo on internet trolls](https://www.bbc.co.uk/news/entertainment-arts-58039782) - Eilish tells Amfo of her frustration with internet criticism in a new documentary.
