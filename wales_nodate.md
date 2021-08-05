@@ -7,9 +7,9 @@
 7. [I'm A Celebrity: Work planned on Gwrych Castle ahead of ITV return](https://www.bbc.co.uk/news/uk-wales-58106564) - Councillors will debate alterations to the Grade I-listed building ahead of the show's return.
 8. [Heart app aims to cut NHS waiting lists in Wales](https://www.bbc.co.uk/news/uk-wales-58094104) - Cardiac patients will be monitored remotely by mobile phone during a trial of the app by clinicians.
 9. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
-10. [Covid in Wales: Teens aged 16-17 to be offered jabs](https://www.bbc.co.uk/news/uk-wales-politics-58088296) - Jabs for young confirmed after new advice from committee of vaccine experts.
+10. [Wales' rain and thunderstorm warning extended](https://www.bbc.co.uk/news/uk-wales-58087494) - The Met Office warn homes could be flooded and roads closed as storms hit north and mid Wales.
 11. [Boy, 3, killed in collision with vehicle at farm near Efailwen](https://www.bbc.co.uk/news/uk-wales-58089814) - The boy died at the scene of the incident at the farm in Carmarthenshire, police say.
-12. [Wales' rain and thunderstorm warning extended](https://www.bbc.co.uk/news/uk-wales-58087494) - The Met Office warn homes could be flooded and roads closed as storms hit north and mid Wales.
+12. [Gwent Police arrest nine in raid on indecent images of children](https://www.bbc.co.uk/news/uk-wales-58089062) - Officers identified 12 children from south-east Wales who were at risk as nine men are arrested.
 13. [Smartphone app creates clever way to monitor patients](https://www.bbc.co.uk/news/uk-wales-58091637) - Evan Dobson is taking part in a 12-week trial of an app to monitor his heart condition.
 14. [Low carbon house: Green energy saves one resident £100 a month](https://www.bbc.co.uk/news/uk-wales-58089068) - To tackle a housing shortage and greenhouse gases, 20,000 low carbon homes are being built.
 15. [Climate change minister skied to school in Canada](https://www.bbc.co.uk/news/uk-wales-58083390) - Julie James talks about her childhood growing up in Canada, the United States and Wales.
@@ -21,8 +21,8 @@
 21. [Kieffer Moore: Cardiff boss Mick McCarthy happy at lack of interest in Wales striker](https://www.bbc.co.uk/sport/football/58105482) - Cardiff City manager Mick McCarthy says he is "surprised," and "delighted," the club have not received interest in Wales striker Kieffer Moore.
 22. [Rugby League World Cup 2021 postponed until 2022 following withdrawals](https://www.bbc.co.uk/sport/rugby-league/57630566) - The Rugby League World Cup in England is postponed until 2022 following the withdrawal of defending champions Australia, and New Zealand.
 23. [Welsh Fire relishing 'special' first Hundred before Trent Rockets double-header](https://www.bbc.co.uk/sport/cricket/58103673) - Welsh Fire hope to prolong their first taste of The Hundred as the group stage passes its halfway point with a double-header against Trent Rockets.
-24. [Cyhuddo tri o bobl yn dilyn marwolaeth bachgen mewn afon](https://www.bbc.co.uk/newyddion/58097596) - Cafodd Logan Mwangi, oedd yn bump oed, ei ganfod yn Afon Ogwr yn gynnar fore Sadwrn.
-25. ['Diffyg trafod ar deithiau tramor yn annerbyniol'](https://www.bbc.co.uk/newyddion/58105426) - Llywodraeth Cymru yn dweud nad yw'n bosib cael polisi ar wahân i Loegr ac y bydd newidiadau yn dod i rym fore Sul.
-26. [Skylrk o Ddyffryn Nantlle yn ennill Brwydr y Bandiau](https://www.bbc.co.uk/newyddion/58102240) - Prosiect cerddoriaeth Hedydd Ioan o Ddyffryn Nantlle sydd wedi ennill Brwydr y Bandiau yn Eisteddfod AmGen 2021.
+24. [Y dwbl i Lleucu Roberts wrth ennill y Fedal Ryddiaith](https://www.bbc.co.uk/newyddion/58103613) - Y dwbl eto i Lleucu Roberts sydd wedi cipio'r Fedal Ryddiaith a Gwobr Goffa Daniel Owen yn yr un Eisteddfod.
+25. [Cyhuddo tri o bobl yn dilyn marwolaeth bachgen mewn afon](https://www.bbc.co.uk/newyddion/58097596) - Cafodd Logan Mwangi, oedd yn bump oed, ei ganfod yn Afon Ogwr yn gynnar fore Sadwrn.
+26. ['Diffyg trafod ar deithiau tramor yn annerbyniol'](https://www.bbc.co.uk/newyddion/58105426) - Llywodraeth Cymru yn dweud nad yw'n bosib cael polisi ar wahân i Loegr ac y bydd newidiadau yn dod i rym fore Sul.
 27. [Brwydr y Bandiau: Pwy yw'r pedwar olaf?](https://www.bbc.co.uk/newyddion/58079521) - Dod i adnabod bandiau rownd derfynol Brwydr y Bandiau 2021.
 28. [Aur i Hannah Mills yn yr hwylio yn Tokyo](https://www.bbc.co.uk/newyddion/58084682) - Y Gymraes bellach ydy'r hwylwraig fwyaf llwyddiannus erioed o Brydain yn y Gemau Olympaidd.
