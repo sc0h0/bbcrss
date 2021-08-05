@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 11:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 11:40:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58100954</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58100954</guid>
             <pubDate>Thu, 05 Aug 2021 10:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Met Office issues thunderstorm warning for Northern Ireland]]></title>
+            <description><![CDATA[Slow moving showers could bring up to 20mm of rain in an hour, leading to difficult driving conditions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58102048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58102048</guid>
+            <pubDate>Thu, 05 Aug 2021 11:36:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Littering: Northern Ireland councils crack down at hotspots]]></title>
