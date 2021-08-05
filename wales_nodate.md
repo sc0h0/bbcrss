@@ -22,7 +22,7 @@
 22. [Hannah Mills' golden voyage: From Cardiff reservoir to Olympic history maker](https://www.bbc.co.uk/sport/olympics/58023441) - Wales' Hannah Mills becomes the most successful female sailor in Olympic history with a second gold medal in Tokyo to add to Rio success and London 2012 silver.
 23. [Welsh Fire relishing 'special' first Hundred before Trent Rockets double-header](https://www.bbc.co.uk/sport/cricket/58103673) - Welsh Fire hope to prolong their first taste of The Hundred as the group stage passes its halfway point with a double-header against Trent Rockets.
 24. [Cyhuddo tri o bobl yn dilyn marwolaeth bachgen mewn afon](https://www.bbc.co.uk/newyddion/58097596) - Cafodd Logan Mwangi, oedd yn bump oed, ei ganfod yn Afon Ogwr yn gynnar fore Sadwrn.
-25. ['Colli gwaddol yr Eisteddfod yn ergyd i ardal'](https://www.bbc.co.uk/newyddion/58092385) - Pryderon na fydd ardaloedd yn elwa'n llawn o waddol y Brifwyl am gryn amser.
-26. [Bachgen tair oed wedi marw mewn gwrthdrawiad ar fferm](https://www.bbc.co.uk/newyddion/58088218) - Cafodd yr heddlu eu galw i fferm ger pentref Efailwen yn Sir Gâr nos Fawrth.
+25. ['Diffyg trafod ar deithiau tramor yn annerbyniol'](https://www.bbc.co.uk/newyddion/58105426) - Llywodraeth Cymru yn dweud nad yw'n bosib cael polisi ar wahân i Loegr ac y bydd newidiadau yn dod i rym fore Sul.
+26. ['Colli gwaddol yr Eisteddfod yn ergyd i ardal'](https://www.bbc.co.uk/newyddion/58092385) - Pryderon na fydd ardaloedd yn elwa'n llawn o waddol y Brifwyl am gryn amser.
 27. [Brwydr y Bandiau: Pwy yw'r pedwar olaf?](https://www.bbc.co.uk/newyddion/58079521) - Dod i adnabod bandiau rownd derfynol Brwydr y Bandiau 2021.
 28. [Aur i Hannah Mills yn yr hwylio yn Tokyo](https://www.bbc.co.uk/newyddion/58084682) - Y Gymraes bellach ydy'r hwylwraig fwyaf llwyddiannus erioed o Brydain yn y Gemau Olympaidd.
