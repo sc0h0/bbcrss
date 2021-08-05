@@ -1,4 +1,4 @@
-1. [Logan Mwangi Bridgend river death: Three in court](https://www.bbc.co.uk/news/uk-wales-58053074) - Logan Mwangi was found dead in the River Ogmore in Bridgend county on Saturday.
+1. [Logan Mwangi: Mum and step-dad in court over death of boy, 5](https://www.bbc.co.uk/news/uk-wales-58053074) - John Cole, 39, is charged with murdering his step-son, five-year-old Logan Mwangi.
 2. [Covid: Self-isolation payment raised to £750 in Wales](https://www.bbc.co.uk/news/uk-wales-politics-58093465) - Grants for people on low pay in Wales and told to self-isolate will increase by £250 from this weekend.
 3. [Minimum wage: Ten firms in Wales underpaid staff](https://www.bbc.co.uk/news/uk-wales-58094098) - A total of 171 workers were not paid £78,000 by the businesses between 2012 and 2018.
 4. [Heart app aims to cut NHS waiting lists in Wales](https://www.bbc.co.uk/news/uk-wales-58094104) - Cardiac patients will be monitored remotely by mobile phone during a trial of the app by clinicians.

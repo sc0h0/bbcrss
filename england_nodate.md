@@ -3,9 +3,9 @@
 3. [Bournemouth beach closed after 'large animal' spotted in sea](https://www.bbc.co.uk/news/uk-england-dorset-58090890) - Visitors say there was a shark sighting, though lifeguards were unable to identify the animal.
 4. [Greater Manchester Police officer in court accused of sexual assaults](https://www.bbc.co.uk/news/uk-england-manchester-58102258) - Mohammed Adnan Ali, 35, faces 21 charges including five sexual assaults between 2015 and 2018.
 5. [Tokyo Olympics: 'Extra special' as twins, say Gadirova sisters](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58101556) - Jessica and Jennifer Gadirova, 16, return to Britain after securing team bronze in the gymnastics.
-6. [Ever Given: Ship that blocked Suez Canal leaves Felixstowe](https://www.bbc.co.uk/news/uk-england-suffolk-58100664) - The Ever Given leaves Felixstowe after 2,000 containers were unloaded.
-7. [Nottingham phone thieves distracted victims by dancing](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58103794) - Police say the men pretended to be drunk to distract their student victims.
-8. [Liverpool add Hillsborough's 97th victim to Anfield memorial](https://www.bbc.co.uk/news/uk-england-merseyside-58099651) - Andrew Devine died last month 32 years after sustaining life-changing injuries at Hillsborough.
+6. [Nottingham phone thieves distracted victims by dancing](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58103794) - Police say the men pretended to be drunk to distract their student victims.
+7. [Liverpool add Hillsborough's 97th victim to Anfield memorial](https://www.bbc.co.uk/news/uk-england-merseyside-58099651) - Andrew Devine died last month 32 years after sustaining life-changing injuries at Hillsborough.
+8. [Ever Given: Ship that blocked Suez Canal leaves Felixstowe](https://www.bbc.co.uk/news/uk-england-suffolk-58100664) - The Ever Given leaves Felixstowe after 2,000 containers were unloaded.
 9. [Covid vaccine refuser died after terrible mistake, says partner](https://www.bbc.co.uk/news/uk-england-dorset-58080116) - Leslie Lawrenson died and his partner became seriously ill with Covid after they refused vaccines.
 10. [James Hollett: Man denies speeding at over 200mph on M23](https://www.bbc.co.uk/news/uk-england-sussex-58088825) - A police investigation was launched after footage showing a speeding motorists was posted online.
 11. [Driver finds escaped lizard in car](https://www.bbc.co.uk/news/uk-england-devon-58099796) - A driver made the unusual discovery and called the RSPCA for help.
