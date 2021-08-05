@@ -25,5 +25,5 @@
 25. [Cyhuddo tri o bobl yn dilyn marwolaeth bachgen mewn afon](https://www.bbc.co.uk/newyddion/58097596) - Thu, 05 Aug 2021 05:59:42 GMT - Cafodd Logan Mwangi, oedd yn bump oed, ei ganfod yn Afon Ogwr yn gynnar fore Sadwrn.
 26. ['Colli gwaddol yr Eisteddfod yn ergyd i ardal'](https://www.bbc.co.uk/newyddion/58092385) - Thu, 05 Aug 2021 05:40:22 GMT - Pryderon na fydd ardaloedd yn elwa'n llawn o waddol y Brifwyl am gryn amser.
 27. [Bachgen tair oed wedi marw mewn gwrthdrawiad ar fferm](https://www.bbc.co.uk/newyddion/58088218) - Wed, 04 Aug 2021 17:39:14 GMT - Cafodd yr heddlu eu galw i fferm ger pentref Efailwen yn Sir Gâr nos Fawrth.
-28. [Gareth Davies: Cofio taith y Llewod i Dde Affrica 1980](https://www.bbc.co.uk/newyddion/58087754) - Wed, 04 Aug 2021 14:39:26 GMT - Cyn-faswr Cymru sy'n hel atgofion am ei daith gyda'r Llewod i Dde Affrica
+28. [Brwydr y Bandiau: Pwy yw'r pedwar olaf?](https://www.bbc.co.uk/newyddion/58079521) - Thu, 05 Aug 2021 08:31:13 GMT - Dod i adnabod bandiau rownd derfynol Brwydr y Bandiau 2021.
 29. [Aur i Hannah Mills yn yr hwylio yn Tokyo](https://www.bbc.co.uk/newyddion/58084682) - Wed, 04 Aug 2021 07:51:10 GMT - Y Gymraes bellach ydy'r hwylwraig fwyaf llwyddiannus erioed o Brydain yn y Gemau Olympaidd.
