@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 15:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 16:28:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Thu, 05 Aug 2021 13:36:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Streatham attack: Sudesh Amman 'one of the most dangerous individuals']]></title>
-            <description><![CDATA[Officers warned an attack was imminent weeks before Sudesh Amman went on a stabbing spree in Streatham.]]></description>
+            <title><![CDATA[Streatham attack: 'Missed opportunity' to stop terrorist, inquest told]]></title>
+            <description><![CDATA[Sudesh Amman was spotted buying items later used to fashion a fake suicide belt.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58097955</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58097955</guid>
-            <pubDate>Thu, 05 Aug 2021 14:58:50 GMT</pubDate>
+            <pubDate>Thu, 05 Aug 2021 16:09:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bournemouth beach closed after 'large animal' spotted in sea]]></title>
@@ -58,13 +58,6 @@
             <pubDate>Thu, 05 Aug 2021 13:11:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Liverpool add Hillsborough's 97th victim to Anfield memorial]]></title>
-            <description><![CDATA[Andrew Devine died last month 32 years after sustaining life-changing injuries at Hillsborough.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58099651</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58099651</guid>
-            <pubDate>Thu, 05 Aug 2021 12:25:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Redhill: Pedestrian dies in ambulance crash]]></title>
             <description><![CDATA[The 40-year-old woman was pronounced dead at the scene in Redhill, Surrey, police say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-surrey-58105882</link>
@@ -79,18 +72,25 @@
             <pubDate>Thu, 05 Aug 2021 12:17:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Holborn crash: Doctor killed in HGV collision 'was on way to patients']]></title>
+            <description><![CDATA[Dr Marta Krawiec, 41, "died on her way to her patients", her family has said.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58104440</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58104440</guid>
+            <pubDate>Thu, 05 Aug 2021 15:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oatly loses trademark battle against Glebe Farm over oat milk]]></title>
+            <description><![CDATA[Cambridgeshire's Glebe Farm Foods PureOaty drink does not copy the Oatly branding, a judge rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58102252</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58102252</guid>
+            <pubDate>Thu, 05 Aug 2021 15:31:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ever Given: Ship that blocked Suez Canal leaves Felixstowe]]></title>
             <description><![CDATA[The Ever Given leaves Felixstowe after 2,000 containers were unloaded.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-58100664</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58100664</guid>
             <pubDate>Thu, 05 Aug 2021 10:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Driver finds escaped lizard in car]]></title>
-            <description><![CDATA[A driver made the unusual discovery and called the RSPCA for help.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58099796</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58099796</guid>
-            <pubDate>Thu, 05 Aug 2021 11:00:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
@@ -111,7 +111,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Wed, 04 Aug 2021 16:42:40 GMT</pubDate>
+            <pubDate>Thu, 05 Aug 2021 16:25:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long Covid: What is it and what are the symptoms?]]></title>
@@ -191,6 +191,13 @@
             <pubDate>Wed, 04 Aug 2021 05:26:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Liverpool add Hillsborough's 97th victim to Anfield memorial]]></title>
+            <description><![CDATA[Andrew Devine died last month 32 years after sustaining life-changing injuries at Hillsborough.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58099651</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58099651</guid>
+            <pubDate>Thu, 05 Aug 2021 12:25:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[London riots: Youth services cut in half since unrest]]></title>
             <description><![CDATA[London's young people have missed out on £240m of investment over the last 10 years, figures show.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58030259</link>
@@ -212,18 +219,11 @@
             <pubDate>Thu, 05 Aug 2021 12:21:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sex abuser jailed for grooming 15-year-old]]></title>
-            <description><![CDATA[Malcolm Peter Barwick is jailed for six-and-a-half years for abusing the teenager.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58098967</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58098967</guid>
-            <pubDate>Thu, 05 Aug 2021 09:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rutland Osprey Project celebrates after 200th chick fledges]]></title>
-            <description><![CDATA[The Rutland Osprey Project reaches the milestone as it marks 25 years since it began.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58090662</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-58090662</guid>
-            <pubDate>Thu, 05 Aug 2021 10:47:33 GMT</pubDate>
+            <title><![CDATA[Driver finds escaped lizard in car]]></title>
+            <description><![CDATA[A driver made the unusual discovery and called the RSPCA for help.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58099796</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58099796</guid>
+            <pubDate>Thu, 05 Aug 2021 11:00:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jofra Archer: England bowler to miss T20 World Cup and Ashes]]></title>
