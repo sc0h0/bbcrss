@@ -1,6 +1,6 @@
 1. [Covid travel: France no longer amber-plus as green list expands](https://www.bbc.co.uk/news/business-58079107) - Germany, Austria and Norway move to the green list under changes to the travel traffic light system.
 2. [Pret, McColls and Welcome Break in minimum wage fail](https://www.bbc.co.uk/news/business-58083889) - Retailers and 190 other businesses broke the law by underpaying workers, the government says.
-3. [TikTok tests Snapchat-like 24-hour feature, say reports](https://www.bbc.co.uk/news/business-58095639) - The reports come as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
+3. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
 4. ['It feels like we've lost a family member'](https://www.bbc.co.uk/news/business-58090354) - As cat deaths mount from a fatal disease, an investigation into a possible link to pet food continues.
 5. [Vanguard: Investment giant to pay vaccinated workers $1,000](https://www.bbc.co.uk/news/business-58091534) - Asset manager Vanguard will reward staff who get jabbed, but it won't mandate vaccinations.
 6. [Robinhood shares surge amid frenzied trading](https://www.bbc.co.uk/news/business-58091533) - After a poor stock market debut, amateur investors are snapping up shares in the online trading platform.

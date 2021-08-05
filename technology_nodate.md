@@ -1,5 +1,5 @@
 1. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
-2. [TikTok tests Snapchat-like 24-hour feature, say reports](https://www.bbc.co.uk/news/business-58095639) - The reports come as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
+2. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
 3. [MP Maria Miller wants AI 'nudifying' tool banned](https://www.bbc.co.uk/news/technology-57996910) - A website that allows people to undress a photograph in seconds is gaining lots of users.
 4. [WhatsApp 'view once' brings disappearing photos and videos](https://www.bbc.co.uk/news/technology-58087379) - The "view once" feature lets users open an image one time only before it is deleted forever.
 5. [Facebook and academics row over data access](https://www.bbc.co.uk/news/technology-58086628) - The social network accuses researchers of putting people's privacy at risk.
