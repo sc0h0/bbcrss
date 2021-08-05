@@ -1,4 +1,4 @@
-1. [Numbers pinged by Covid app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - The fall come ahead of changes to the app to make it notify fewer contacts.
+1. [Number pinged by Covid app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - The fall come ahead of changes to the app to make it notify fewer contacts.
 2. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
 3. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
 4. [MP Maria Miller wants AI 'nudifying' tool banned](https://www.bbc.co.uk/news/technology-57996910) - A website that allows people to undress a photograph in seconds is gaining lots of users.
