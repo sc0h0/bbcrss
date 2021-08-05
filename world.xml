@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 00:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 01:54:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -198,6 +198,13 @@
             <pubDate>Wed, 04 Aug 2021 20:19:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Sky Brown eyes surfing at Paris 2024 after skateboarding bronze]]></title>
+            <description><![CDATA[After making history by becoming Great Britain's youngest ever Olympic medal winner, skateboarder Sky Brown is already plotting her next move.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58084934</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58084934</guid>
+            <pubDate>Wed, 04 Aug 2021 13:16:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Sydney McLaughlin smashes record, Kokona Hiraki, 12, wins silver]]></title>
             <description><![CDATA[Hurdler Sydney McLaughlin smashes her own world record to win 400m hurdles gold on the day 12-year-old Kokona Hiraki becomes the youngest Olympic medallist for 85 years.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58082645</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-58082265</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58082265</guid>
             <pubDate>Wed, 04 Aug 2021 04:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simone Biles: Tokyo 2020 medallist on 'unique Olympic experience']]></title>
-            <description><![CDATA[American Simone Biles says she will "forever cherish" her "unique Olympic experience" after taking her overall Games medal haul to seven in Japan.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58081505</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58081505</guid>
-            <pubDate>Wed, 04 Aug 2021 03:07:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
