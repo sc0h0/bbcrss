@@ -1,4 +1,4 @@
-1. [Logan Mwangi: Three charged after boy's Bridgend river death](https://www.bbc.co.uk/news/uk-wales-58053074) - Logan Mwangi, also known as Logan Williamson, was found in the Ogmore River on Saturday.
+1. [Logan Mwangi: Three charged after boy's Bridgend river death](https://www.bbc.co.uk/news/uk-wales-58053074) - Two adults and a 13-year-old boy are charged in connection with the death of Logan Mwangi.
 2. [Covid: Self-isolation payment raised to £750 in Wales](https://www.bbc.co.uk/news/uk-wales-politics-58093465) - Grants for people on low pay in Wales and told to self-isolate will increase by £250 from this weekend.
 3. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
 4. [Boy, 3, killed in collision with vehicle at farm near Efailwen](https://www.bbc.co.uk/news/uk-wales-58089814) - The boy died at the scene of the incident at the farm in Carmarthenshire, police say.

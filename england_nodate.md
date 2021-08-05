@@ -8,7 +8,7 @@
 8. [Tokyo Olympics: Liverpool millionaire aiding GB's medal haul](https://www.bbc.co.uk/news/uk-england-merseyside-58088648) - Barrie Wells sponsored Olympic silver medallist Keely Hodgkinson after she failed to get funding.
 9. [Croydon tram crash: Victims' families call for new inquest](https://www.bbc.co.uk/news/uk-england-london-58090855) - An inquest found the crash which killed seven people in south London was an accident.
 10. [Covid jabs given to 100 seafarers in Cornwall](https://www.bbc.co.uk/news/uk-england-cornwall-58085710) - The vaccine is given to seafarers who are at sea for months, regardless of their nationality.
-11. [Top Gear production to move to Bristol from 2022](https://www.bbc.co.uk/news/entertainment-arts-58086981) - The long-running BBC motoring show will move out of London next year.
+11. [Rutland Osprey Project celebrates after 200th chick fledges](https://www.bbc.co.uk/news/uk-england-leicestershire-58090662) - The Rutland Osprey Project reaches the milestone as it marks 25 years since it began.
 12. [Ever Given: Cargo unloaded from ship that blocked Suez Canal](https://www.bbc.co.uk/news/uk-england-suffolk-58085950) - The Ever Given arrived at Felixstowe on Tuesday and is expected to leave on Thursday.
 13. [Woman watching Love Island nearly hit as car smashes into living room](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58086150) - Rhia Brindley is told if she had been in her usual spot to watch TV, she would be "injured or dead".
 14. [Why bonding over the Euros appeared to increase Covid cases in men](https://www.bbc.co.uk/news/health-58015593) - Psychologists say men need to be part of a group in order to vent their feelings and emotions.
