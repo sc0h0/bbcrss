@@ -1,4 +1,4 @@
-1. [UK interest rates held despite warning inflation to hit 4%](https://www.bbc.co.uk/news/business-58098118) - Bank of England says inflation's heading for 4% this year, but interest rates are held at 0.1%.
+1. [UK interest rates held despite warning inflation to hit 4%](https://www.bbc.co.uk/news/business-58098118) - Bank of England expects inflation to head higher this year, but interest rates are held at 0.1%.
 2. [Sports Direct's Mike Ashley to hand reins to future son-in-law](https://www.bbc.co.uk/news/business-58097496) - The tycoon, whose empire also includes House of Fraser and Evans Cycles, is set to hand power to his future son-in-law.
 3. [Mike Ashley: Who is the founder of Sports Direct?](https://www.bbc.co.uk/news/business-35863847) - Profile of Sports Direct founder and Newcastle United billionaire owner Mike Ashley.
 4. [Coronavirus: Transport secretary defends travel rule changes](https://www.bbc.co.uk/news/uk-58100523) - Grant Shapps says the traffic light system has been "simplified" while Britons in Mexico face a dash home before its move to the red list.
