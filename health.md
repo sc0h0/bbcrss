@@ -1,4 +1,4 @@
-1. [Covid: Fifth of England hospital admissions aged 18-34](https://www.bbc.co.uk/news/health-58095503) - Thu, 05 Aug 2021 04:36:00 GMT - The new NHS chief executive urges unvaccinated young adults to get jabbed, saying it is 'so important'.
+1. [Covid: Fifth of England hospital admissions aged 18-34](https://www.bbc.co.uk/news/health-58095503) - Thu, 05 Aug 2021 04:36:00 GMT - The new NHS chief executive urges unvaccinated young adults to get jabbed, saying it is "so important".
 2. [Covid: Pressured oxygen reduces ventilator need](https://www.bbc.co.uk/news/health-58088508) - Thu, 05 Aug 2021 00:05:32 GMT - A study should improve care for patients and prevent oxygen supplies being wasted.
 3. [Covid: Jabs for 16 and 17-year-olds to start within weeks](https://www.bbc.co.uk/news/uk-58091693) - Wed, 04 Aug 2021 18:48:06 GMT - About 1.4 million more teenagers will be eligible for the Pfizer vaccine and will not need parental consent.
 4. [Long-lasting Covid-19 symptoms rare in children](https://www.bbc.co.uk/news/health-58071898) - Wed, 04 Aug 2021 00:04:00 GMT - Children who become ill with coronavirus mostly recover in less than a week, research suggests.

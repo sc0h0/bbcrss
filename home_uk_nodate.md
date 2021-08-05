@@ -1,9 +1,9 @@
 1. [Covid travel: France no longer amber-plus as green list expands](https://www.bbc.co.uk/news/business-58079107) - Germany, Austria and Norway move to the green list under changes to the travel traffic light system.
-2. [Covid: Fifth of England hospital admissions aged 18-34](https://www.bbc.co.uk/news/health-58095503) - The new NHS chief executive urges unvaccinated young adults to get jabbed, saying it is 'so important'.
+2. [Covid: Fifth of England hospital admissions aged 18-34](https://www.bbc.co.uk/news/health-58095503) - The new NHS chief executive urges unvaccinated young adults to get jabbed, saying it is "so important".
 3. [How a fake network pushes pro-China propaganda](https://www.bbc.co.uk/news/world-asia-china-58062630) - The web of 350 fake social media profiles aims to discredit the West, sometimes with garish cartoons.
-4. [Pret, McColls and Welcome Break in minimum wage fail](https://www.bbc.co.uk/news/business-58083889) - Retailers and 190 other businesses broke the law by underpaying workers, the government says.
+4. [Logan Mwangi: Three charged after boy's Bridgend river death](https://www.bbc.co.uk/news/uk-wales-58053074) - Logan Mwangi, also known as Logan Williamson, was found in the Ogmore River on Saturday.
 5. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
-6. [Logan Mwangi: Three charged after boy's Bridgend river death](https://www.bbc.co.uk/news/uk-wales-58053074) - Logan Mwangi, also known as Logan Williamson, was found in the Ogmore River on Saturday.
+6. [Pret, McColls and Welcome Break in minimum wage fail](https://www.bbc.co.uk/news/business-58083889) - Retailers and 190 other businesses broke the law by underpaying workers, the government says.
 7. [Euro 2020 racist abuse - 11 people arrested](https://www.bbc.co.uk/news/uk-58094408) - Hundreds of racist messages were reported following England's defeat and police inquiries continue.
 8. [Marcus Rashford: Poor families missing out on food vouchers](https://www.bbc.co.uk/news/uk-politics-58091705) - The footballer says health professionals need to do more to raise awareness about the NHS scheme.
 9. [Government accused of 'burying' conversion therapy report](https://www.bbc.co.uk/news/uk-politics-58078582) - Boris Johnson vowed to ban the "abhorrent" practice - but an official report on it has yet to appear.
