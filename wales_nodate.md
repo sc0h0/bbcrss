@@ -23,6 +23,6 @@
 23. [Welsh Fire relishing 'special' first Hundred before Trent Rockets double-header](https://www.bbc.co.uk/sport/cricket/58103673) - Welsh Fire hope to prolong their first taste of The Hundred as the group stage passes its halfway point with a double-header against Trent Rockets.
 24. [Cyhuddo tri o bobl yn dilyn marwolaeth bachgen mewn afon](https://www.bbc.co.uk/newyddion/58097596) - Cafodd Logan Mwangi, oedd yn bump oed, ei ganfod yn Afon Ogwr yn gynnar fore Sadwrn.
 25. ['Diffyg trafod ar deithiau tramor yn annerbyniol'](https://www.bbc.co.uk/newyddion/58105426) - Llywodraeth Cymru yn dweud nad yw'n bosib cael polisi ar wahân i Loegr ac y bydd newidiadau yn dod i rym fore Sul.
-26. ['Colli gwaddol yr Eisteddfod yn ergyd i ardal'](https://www.bbc.co.uk/newyddion/58092385) - Pryderon na fydd ardaloedd yn elwa'n llawn o waddol y Brifwyl am gryn amser.
+26. [Skylrk o Ddyffryn Nantlle yn ennill Brwydr y Bandiau](https://www.bbc.co.uk/newyddion/58102240) - Prosiect cerddoriaeth Hedydd Ioan o Ddyffryn Nantlle sydd wedi ennill Brwydr y Bandiau yn Eisteddfod AmGen 2021.
 27. [Brwydr y Bandiau: Pwy yw'r pedwar olaf?](https://www.bbc.co.uk/newyddion/58079521) - Dod i adnabod bandiau rownd derfynol Brwydr y Bandiau 2021.
 28. [Aur i Hannah Mills yn yr hwylio yn Tokyo](https://www.bbc.co.uk/newyddion/58084682) - Y Gymraes bellach ydy'r hwylwraig fwyaf llwyddiannus erioed o Brydain yn y Gemau Olympaidd.
