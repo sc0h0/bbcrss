@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 06:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 07:04:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Covid travel: France moves to amber list and green list expands]]></title>
-            <description><![CDATA[Figures in the travel industry argue the government has not gone far enough in its announcement.]]></description>
+            <description><![CDATA[But some in the travel industry argue the government has not gone far enough in its announcement.]]></description>
             <link>https://www.bbc.co.uk/news/business-58079107</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58079107</guid>
             <pubDate>Thu, 05 Aug 2021 06:39:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Drinking at the bar will be allowed in pubs]]></title>
-            <description><![CDATA["Vertical drinking" can take place - and nightclub dancing without masks is also set to agreed, says Scotland's national clinical director.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58078053</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58078053</guid>
-            <pubDate>Wed, 04 Aug 2021 19:04:27 GMT</pubDate>
+            <title><![CDATA[Sturgeon: Strange the PM will not meet me]]></title>
+            <description><![CDATA[Nicola Sturgeon says she does not feel snubbed but it is odd not to meet PM on his Scotland visit.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58079390</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079390</guid>
+            <pubDate>Wed, 04 Aug 2021 19:37:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland's papers: Vaccines rolled out to more teens ahead of new term]]></title>
@@ -44,11 +44,11 @@
             <pubDate>Thu, 05 Aug 2021 05:12:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sturgeon: Strange the PM will not meet me]]></title>
-            <description><![CDATA[Nicola Sturgeon says she does not feel snubbed but it is odd not to meet PM on his Scotland visit.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58079390</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079390</guid>
-            <pubDate>Wed, 04 Aug 2021 19:37:28 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Drinking at the bar will be allowed in pubs]]></title>
+            <description><![CDATA["Vertical drinking" can take place - and nightclub dancing without masks is also set to agreed, says Scotland's national clinical director.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58078053</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58078053</guid>
+            <pubDate>Wed, 04 Aug 2021 19:04:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Scotland to begin vaccinating 16 and 17-year-olds]]></title>
@@ -247,25 +247,18 @@
             <pubDate>Wed, 04 Aug 2021 14:53:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: SPFL, Rangers, Celtic, Hazard, Dundee United, Shankland]]></title>
+            <description><![CDATA[SPFL bosses hold talks amid escalating row with Rangers over league's commercial deal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58091163</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58091163</guid>
+            <pubDate>Thu, 05 Aug 2021 06:58:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Joanna Muir on modern pentathlon Olympic hopes]]></title>
             <description><![CDATA[Modern pentathlete Joanna Muir tells BBC Scotland about having to calm horses, sword fighting, and her Olympic hopes.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57841169</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57841169</guid>
             <pubDate>Wed, 04 Aug 2021 07:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Laura Muir through and Scott Brash goes for individual medal]]></title>
-            <description><![CDATA[Athlete Laura Muir continues her pursuit of an Olympic medal as show jumper Scott Brash seeks individual medal.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58084386</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58084386</guid>
-            <pubDate>Wed, 04 Aug 2021 10:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lawrence Shankland: Belgian club Beerschot bid for Dundee Utd striker]]></title>
-            <description><![CDATA[Dundee United are mulling over an offer from Belgian top-flight side Beerschot for striker Lawrence Shankland.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58089901</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58089901</guid>
-            <pubDate>Wed, 04 Aug 2021 17:21:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

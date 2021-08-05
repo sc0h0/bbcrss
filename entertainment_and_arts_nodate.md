@@ -1,6 +1,6 @@
 1. [Strictly Come Dancing: Tom Fletcher, AJ Odudu and Robert Webb in line-up](https://www.bbc.co.uk/news/entertainment-arts-58089932) - McFly's Tom Fletcher, TV presenter AJ Odudu and Peep Show's Robert Webb will take to the dancefloor.
-2. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
-3. [Jack Antonoff has redefined pop music. Here's how](https://www.bbc.co.uk/news/entertainment-arts-58085468) - Taylor Swift, Lana Del Rey and Lorde all rely on his advice. Now he's making a statement of his own.
+2. [Jack Antonoff has redefined pop music. Here's how](https://www.bbc.co.uk/news/entertainment-arts-58085468) - Taylor Swift, Lana Del Rey and Lorde all rely on his advice. Now he's making a statement of his own.
+3. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
 4. [Love Island: 'Misleading' Casa Amor episode sparks 4,330 complaints](https://www.bbc.co.uk/news/entertainment-arts-58085465) - More than 4,000 viewers complained that events were misleading and caused unnecessary distress.
 5. [Barbra Streisand: 'I've always had the right to sing what I want'](https://www.bbc.co.uk/news/entertainment-arts-58056164) - The star looks back at her career, and explains how she's always maintained creative control.
 6. [Rihanna now officially a billionaire](https://www.bbc.co.uk/news/world-us-canada-58092465) - The star is now the wealthiest female musician in the world, according to Forbes.
