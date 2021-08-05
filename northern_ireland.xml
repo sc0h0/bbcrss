@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 08:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 08:34:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Older people commissioner urges more care home staff to get jab]]></title>
+            <description><![CDATA[Official figures show that more than one in five local care homes are dealing with an outbreak.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58098341</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58098341</guid>
+            <pubDate>Thu, 05 Aug 2021 08:17:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Carnlough: Sea swimmer dies after getting into difficulty]]></title>
             <description><![CDATA[Emergency services were called to the scene in Carnlough at about 13.30 BST on Wednesday.]]></description>
@@ -30,11 +37,11 @@
             <pubDate>Thu, 05 Aug 2021 07:06:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[All 16 and 17-year-olds in NI to be offered Covid jab]]></title>
-            <description><![CDATA[There are also changes to NI's travel list, with fully-vaccinated arrivals from France no longer required to quarantine.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58090121</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58090121</guid>
-            <pubDate>Wed, 04 Aug 2021 22:27:09 GMT</pubDate>
+            <title><![CDATA[Littering: Northern Ireland councils crack down at hotspots]]></title>
+            <description><![CDATA[Three councils in Northern Ireland are using private contractors to tackle littering and dog fouling.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57841202</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57841202</guid>
+            <pubDate>Thu, 05 Aug 2021 05:31:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Northern Ireland firms fined for underpaying staff]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Thu, 05 Aug 2021 05:26:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Littering: Northern Ireland councils crack down at hotspots]]></title>
-            <description><![CDATA[Three councils in Northern Ireland are using private contractors to tackle littering and dog fouling.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57841202</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57841202</guid>
-            <pubDate>Thu, 05 Aug 2021 05:31:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Perseid meteor shower to be visible over Northern Ireland]]></title>
             <description><![CDATA[Potentially hundreds of the brightest meteors will be visible across Northern Ireland in August.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58090973</link>
@@ -65,11 +65,11 @@
             <pubDate>Thu, 05 Aug 2021 05:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Hospitality vaccine pass 'would be blackmail']]></title>
-            <description><![CDATA[The head of Hospitality Ulster says restaurants, bars and cafes would be "singled out".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58084640</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58084640</guid>
-            <pubDate>Wed, 04 Aug 2021 11:32:40 GMT</pubDate>
+            <title><![CDATA[All 16 and 17-year-olds in NI to be offered Covid jab]]></title>
+            <description><![CDATA[There are also changes to NI's travel list, with fully-vaccinated arrivals from France no longer required to quarantine.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58090121</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58090121</guid>
+            <pubDate>Wed, 04 Aug 2021 22:27:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Hospital visiting rules tightened by NI health trusts]]></title>
@@ -86,13 +86,6 @@
             <pubDate>Wed, 04 Aug 2021 17:24:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[County Cork shootings inquest returns unlawful killing and suicide verdicts]]></title>
-            <description><![CDATA[Inquest says Mark O’Sullivan was unlawfully killed, and records his brother and father took their own lives.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58091329</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58091329</guid>
-            <pubDate>Wed, 04 Aug 2021 16:11:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kevin Lunney trial hears accused's actions 'fall short of proof']]></title>
             <description><![CDATA[The defence for a man accused of abducting Kevin Lunney concedes his client's actions are "suspicious".]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58089152</link>
@@ -105,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58093175</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58093175</guid>
             <pubDate>Wed, 04 Aug 2021 17:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Hospitality vaccine pass 'would be blackmail']]></title>
+            <description><![CDATA[The head of Hospitality Ulster says restaurants, bars and cafes would be "singled out".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58084640</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58084640</guid>
+            <pubDate>Wed, 04 Aug 2021 11:32:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Balmoral Show needs vaccine or negative test]]></title>
@@ -254,6 +254,13 @@
             <pubDate>Thu, 29 Jul 2021 08:37:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[County Cork shootings inquest returns unlawful killing and suicide verdicts]]></title>
+            <description><![CDATA[Inquest says Mark O’Sullivan was unlawfully killed, and records his brother and father took their own lives.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58091329</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58091329</guid>
+            <pubDate>Wed, 04 Aug 2021 16:11:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Electric Picnic festival fails to get council licence]]></title>
             <description><![CDATA[Laois County Council says the decision was taken in conjunction with the latest public health advice.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58093962</link>
@@ -287,13 +294,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58048445</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58048445</guid>
             <pubDate>Sun, 01 Aug 2021 12:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All-Ireland GAA finals to host 40,000 fans]]></title>
-            <description><![CDATA[The All-Ireland football and hurling finals will be played in front of 40,000 spectators at Croke Park]]></description>
-            <link>https://www.bbc.co.uk/sport/northern-ireland/58029316</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/northern-ireland/58029316</guid>
-            <pubDate>Fri, 30 Jul 2021 16:20:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

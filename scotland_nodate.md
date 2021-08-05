@@ -1,4 +1,4 @@
-1. [Covid travel: France moves to amber list and green list expands](https://www.bbc.co.uk/news/business-58079107) - But some in the travel industry argue the government has not gone far enough in its announcement.
+1. [Covid travel: France moves to amber list and green list expands](https://www.bbc.co.uk/news/business-58079107) - Up to 6,000 Britons are currently in Mexico, which is moving to the red list, Grant Shapps says.
 2. [Sturgeon: Strange the PM will not meet me](https://www.bbc.co.uk/news/uk-politics-58079390) - Nicola Sturgeon says she does not feel snubbed but it is odd not to meet PM on his Scotland visit.
 3. [Scotland's papers: Vaccines rolled out to more teens ahead of new term](https://www.bbc.co.uk/news/uk-scotland-58097168) - The news that 16 and 17-year-olds are to be vaccinated against Covid dominates a number of papers.
 4. ['I run my business from my pimped-up camper van'](https://www.bbc.co.uk/news/uk-scotland-58025876) - Liam Chester was burnt out with work so he converted a camper van to take his office into nature.
