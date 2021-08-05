@@ -8,7 +8,7 @@
 8. [Russian gay family flees to Spain after threats](https://www.bbc.co.uk/news/world-europe-58103833) - The lesbian family suffered homophobic abuse after appearing in a Russian health food ad.
 9. [Notorious 'Ndrangheta mafia fugitive arrested after two years on the run](https://www.bbc.co.uk/news/world-europe-58105070) - Mobster Domenico Paviglianiti, known as the "boss of the bosses", has been arrested in Madrid.
 10. [Turkish influencer prosecuted 'for photos at Amsterdam sex museum'](https://www.bbc.co.uk/news/world-europe-58102368) - Merve Taskin says she faces obscenity charges in Turkey after posting "joke" photos of sex toys.
-11. [Belgian students face trial over initiation death](https://www.bbc.co.uk/news/world-europe-58106534) - Eighteen former members of an elite university fraternity are linked to the death of a black student.
+11. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - Thousands can stay in US for 18 months because China is eroding territory's freedoms, the US president says.
 12. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
 13. [How a fake network pushes pro-China propaganda](https://www.bbc.co.uk/news/world-asia-china-58062630) - The web of 350 fake social media profiles aims to discredit the West, sometimes with garish cartoons.
 14. [Why whales in Alaska have been so happy](https://www.bbc.co.uk/news/world-us-canada-58032702) - What will happen to Alaska's whales when tourism returns to waters stilled by Covid?
