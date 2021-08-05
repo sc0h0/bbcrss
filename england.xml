@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 16:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 17:23:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Kaylee-Jayde Priest: Mother and boyfriend convicted]]></title>
+            <description><![CDATA[Kaylee-Jayde Priest died from serious chest and abdominal injuries, a trial has heard.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58106169</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58106169</guid>
+            <pubDate>Thu, 05 Aug 2021 17:20:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Aya Hachem: Men jailed for student's drive-by murder]]></title>
             <description><![CDATA[Aya Hachem was "in the wrong place at the wrong time" when she was shot in a feud between tyre firms.]]></description>
@@ -23,18 +30,11 @@
             <pubDate>Thu, 05 Aug 2021 13:36:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kaylee-Jayde Priest: Mother and boyfriend convicted]]></title>
-            <description><![CDATA[Kaylee-Jayde Priest died from serious chest and abdominal injuries, a trial has heard.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58106169</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58106169</guid>
-            <pubDate>Thu, 05 Aug 2021 16:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Transport secretary defends travel rule changes]]></title>
-            <description><![CDATA[British tourists in Mexico who are due back after Sunday's deadline will need to decide whether to come home early to avoid quarantining.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58100523</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58100523</guid>
-            <pubDate>Thu, 05 Aug 2021 16:25:36 GMT</pubDate>
+            <title><![CDATA[Oatly loses trademark battle against Glebe Farm over oat milk]]></title>
+            <description><![CDATA[Cambridgeshire's Glebe Farm Foods PureOaty drink does not copy the Oatly branding, a judge rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58102252</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58102252</guid>
+            <pubDate>Thu, 05 Aug 2021 15:31:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bournemouth beach closed after 'large animal' spotted in sea]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-dorset-58090890</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58090890</guid>
             <pubDate>Thu, 05 Aug 2021 14:27:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: PM and transport secretary defend travel changes]]></title>
+            <description><![CDATA[British tourists in Mexico who are due back after Sunday's deadline will need to decide whether to come home early to avoid quarantining.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58100523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58100523</guid>
+            <pubDate>Thu, 05 Aug 2021 17:12:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Streatham attack: 'Missed opportunity' to stop terrorist, inquest told]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58103794</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58103794</guid>
             <pubDate>Thu, 05 Aug 2021 13:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oatly loses trademark battle against Glebe Farm over oat milk]]></title>
-            <description><![CDATA[Cambridgeshire's Glebe Farm Foods PureOaty drink does not copy the Oatly branding, a judge rules.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58102252</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58102252</guid>
-            <pubDate>Thu, 05 Aug 2021 15:31:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Northumberland Santa impersonator sentenced for sexual assaults]]></title>
@@ -202,7 +202,7 @@
             <description><![CDATA[According to Home Office figures, there have now been 10,236 arrivals in 434 boats so far in 2021.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-58100694</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58100694</guid>
-            <pubDate>Thu, 05 Aug 2021 12:02:19 GMT</pubDate>
+            <pubDate>Thu, 05 Aug 2021 17:06:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liverpool add Hillsborough's 97th victim to Anfield memorial]]></title>
@@ -233,18 +233,25 @@
             <pubDate>Thu, 05 Aug 2021 11:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anderson leads thrilling England fightback before rain]]></title>
+            <title><![CDATA[Anderson leads England fightback against India]]></title>
             <description><![CDATA[James Anderson spearheads an exhilarating England recovery before the weather curtails the second day of the first Test against India.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58106765</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58106765</guid>
             <pubDate>Thu, 05 Aug 2021 16:41:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Hundred: Manchester Originals shock Southern Brave in women's competition]]></title>
+            <description><![CDATA[The previously winless Manchester Originals produce the shock of the women's Hundred so far to beat the unbeaten Southern Brave in a rain-affected game at Emirates Old Trafford.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58106112</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58106112</guid>
+            <pubDate>Thu, 05 Aug 2021 17:22:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jofra Archer: England bowler to miss T20 World Cup and Ashes]]></title>
             <description><![CDATA[England fast bowler Jofra Archer will miss this winter's T20 World Cup and the Ashes tour of Australia with a stress facture of the elbow.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58101797</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58101797</guid>
-            <pubDate>Thu, 05 Aug 2021 12:00:24 GMT</pubDate>
+            <pubDate>Thu, 05 Aug 2021 17:15:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB's Matt Walls wins omnium gold]]></title>

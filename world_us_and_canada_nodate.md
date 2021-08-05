@@ -11,7 +11,7 @@
 11. [Vanguard: Investment giant to pay vaccinated workers $1,000](https://www.bbc.co.uk/news/business-58091534) - Asset manager Vanguard will reward staff who get jabbed, but it won't mandate vaccinations.
 12. [USS Bonhomme Richard fire: Suspect identified as 20-year-old Navy sailor](https://www.bbc.co.uk/news/world-us-canada-58091854) - A newly unsealed warrant also reveals suspicions that fire stations on the ship were sabotaged.
 13. [Migrant van crash kills at least 10 in Texas](https://www.bbc.co.uk/news/world-us-canada-58098189) - Officials say 30 people were onboard when their vehicle hit a metal pole and stop sign.
-14. [Obama birthday: The virus crashed his party - should it change your plans?](https://www.bbc.co.uk/news/world-us-canada-58080853) - We asked experts what the virus surges mean for get-togethers during this "summer of freedom".
+14. [Covid crashed Obama's party - should Delta change your plans?](https://www.bbc.co.uk/news/world-us-canada-58080853) - As Covid changes Obama's birthday plans we ask experts what the virus surge means for your summer.
 15. [Simone Biles 'shows how much gymnastics has changed'](https://www.bbc.co.uk/news/world-us-canada-58043512) - Biles' withdrawal shows how attitudes have changed, says former USA gymnast Dominique Moceanu.
 16. [Andrew Cuomo: Why is the NY Governor under pressure to resign?](https://www.bbc.co.uk/news/world-us-canada-58092655) - Democrats, including President Biden, have called for the New York governor to go.
 17. [Covid third wave: Americans 'scared and angry' as pandemic worsens](https://www.bbc.co.uk/news/world-us-canada-58014719) - As the Delta variant causes a rethink about risk, Americans are battling to keep a feeling of normalcy.

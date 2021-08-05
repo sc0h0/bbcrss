@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 16:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 17:21:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58100884</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58100884</guid>
             <pubDate>Thu, 05 Aug 2021 15:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thatcher helped climate by closing coal mines, says Boris Johnson]]></title>
+            <description><![CDATA[Boris Johnson's comments on carbon reduction on Scottish trip are attacked by Labour and the SNP.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58107009</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107009</guid>
+            <pubDate>Thu, 05 Aug 2021 17:12:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keeping old computers going costs government £2.3bn a year, says report]]></title>
@@ -55,7 +62,7 @@
             <description><![CDATA[According to Home Office figures, there have now been 10,236 arrivals in 434 boats so far in 2021.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-58100694</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58100694</guid>
-            <pubDate>Thu, 05 Aug 2021 12:02:19 GMT</pubDate>
+            <pubDate>Thu, 05 Aug 2021 17:06:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Government accused of 'burying' conversion therapy report]]></title>
@@ -79,11 +86,11 @@
             <pubDate>Wed, 04 Aug 2021 22:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: Transport secretary defends travel rule changes]]></title>
+            <title><![CDATA[Coronavirus: PM and transport secretary defend travel changes]]></title>
             <description><![CDATA[British tourists in Mexico who are due back after Sunday's deadline will need to decide whether to come home early to avoid quarantining.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58100523</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58100523</guid>
-            <pubDate>Thu, 05 Aug 2021 16:25:36 GMT</pubDate>
+            <pubDate>Thu, 05 Aug 2021 17:12:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keir Starmer attacks government record on green jobs]]></title>
