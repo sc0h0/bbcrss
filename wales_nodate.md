@@ -5,7 +5,7 @@
 5. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
 6. [Covid in Wales: Teens aged 16-17 to be offered jabs](https://www.bbc.co.uk/news/uk-wales-politics-58088296) - Jabs for young confirmed after new advice from committee of vaccine experts.
 7. [Boy, 3, killed in collision with vehicle at farm near Efailwen](https://www.bbc.co.uk/news/uk-wales-58089814) - The boy died at the scene of the incident at the farm in Carmarthenshire, police say.
-8. [Heavy rain and thunderstorm warning extended in Wales](https://www.bbc.co.uk/news/uk-wales-58087494) - Met Office warn of rain on Wednesday and thunderstorms on Friday across parts of Wales.
+8. [Wales' rain and thunderstorm warning extended](https://www.bbc.co.uk/news/uk-wales-58087494) - The Met Office warn homes could be flooded and roads closed as storms hit north and mid Wales.
 9. [Gwent Police arrest nine in raid on indecent images of children](https://www.bbc.co.uk/news/uk-wales-58089062) - Officers identified 12 children from south-east Wales who were at risk as nine men are arrested.
 10. [Covid: If Wales' restrictions ease, be sensible - top doctor](https://www.bbc.co.uk/news/uk-wales-58074305) - Wales' restrictions on social distancing, indoor gathering and face masks could ease this weekend.
 11. [Lee Collins: Yeovil Town captain's death was suicide, records coroner](https://www.bbc.co.uk/news/uk-england-somerset-58090985) - An inquest heard Yeovil Town captain Lee Collins also had drugs and alcohol in his system.
