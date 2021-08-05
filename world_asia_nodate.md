@@ -15,7 +15,7 @@
 15. [Covid vaccine inequity 'completely unacceptable and unethical'](https://www.bbc.co.uk/news/world-asia-58067686) - Rich countries need to do more to give vaccines to poor countries, says top WHO adviser Helen Clark.
 16. [Tokyo 2020: A parent's plea in the shadow of the Olympics](https://www.bbc.co.uk/news/world-asia-58057432) - This dad is drawing attention to what he calls the kidnapping of children by their own parents in Japan.
 17. [Tokyo Olympics: Chinese nationalists turn on their athletes](https://www.bbc.co.uk/news/world-asia-china-58024068) - To ultra-nationalists online, losing an Olympic medal is being "unpatriotic", experts say.
-18. [Tokyo Olympics 2020: Can Indian men's hockey end 41-year drought?](https://www.bbc.co.uk/news/world-asia-india-58067121) - The Indian men's team won the last of their eight Olympic gold medals in Moscow in 1980.
+18. [Tokyo Olympics 2020: India men's hockey ends 41-year Olympic drought](https://www.bbc.co.uk/news/world-asia-india-58067121) - The Indian men's team won a bronze in Tokyo - their first Olympic medal since 1980.
 19. [Covid-19: The mystery of rising infections in India's Kerala](https://www.bbc.co.uk/news/world-asia-india-58054124) - Covid-19 cases continue to rise in Kerala despite the waning of the second wave elsewhere in India.
 20. [Afghanistan: Orphan's reunion with British soldier after 19 years](https://www.bbc.co.uk/news/world-asia-58028234) - Ramin Paikar was among the orphans visited by British soldiers stationed in Kabul in 2002.
 21. [How South Korea's migrant wives are breaking the glass ceiling](https://www.bbc.co.uk/news/world-asia-57716704) - Many arrived not knowing the language, but are now carving out a significant place in society.
