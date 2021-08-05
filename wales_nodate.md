@@ -1,5 +1,5 @@
 1. [Logan Mwangi: Mum and step-dad in court over death of boy, five](https://www.bbc.co.uk/news/uk-wales-58053074) - John Cole, 39, is charged with murdering his step-son, five-year-old Logan Mwangi.
-2. [Covid: Wales follows travel rules changes despite criticism](https://www.bbc.co.uk/news/uk-wales-politics-58101108) - Wales to replicate England's travel changes, but ministers say they were not consulted.
+2. [Covid: Wales follows travel rules changes despite criticism](https://www.bbc.co.uk/news/uk-wales-politics-58101108) - Wales will replicate England's travel changes, but ministers say they were not consulted.
 3. [Thatcher helped climate by closing coal mines, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-58107009) - Boris Johnson's comments on carbon reduction on Scottish trip are attacked by Labour and the SNP.
 4. [Minimum wage: 10 firms in Wales underpaid staff](https://www.bbc.co.uk/news/uk-wales-58094098) - A total of 171 workers were not paid £78,000 by the businesses between 2012 and 2018.
 5. [Covid: Self-isolation payment raised to £750 in Wales](https://www.bbc.co.uk/news/uk-wales-politics-58093465) - Grants for people on low pay in Wales and told to self-isolate will increase by £250 from this weekend.
