@@ -1,10 +1,10 @@
 1. [Russian gay family flees to Spain after threats](https://www.bbc.co.uk/news/world-europe-58103833) - The lesbian family suffered homophobic abuse after appearing in a Russian health food ad.
 2. [Turkish influencer prosecuted 'for photos at Amsterdam sex museum'](https://www.bbc.co.uk/news/world-europe-58102368) - Merve Taskin says she faces obscenity charges in Turkey after posting "joke" photos of sex toys.
 3. [Belarus Olympian Timanovskaya says grandmother warned her not to come home](https://www.bbc.co.uk/news/world-europe-58104195) - Krystina Timanovskaya says she fled after being warned it was not safe to fly home from the Olympics.
-4. [Notorious 'Ndrangheta mafia fugitive arrested after two years on the run](https://www.bbc.co.uk/news/world-europe-58105070) - Mobster Domenico Paviglianiti, known as the "boss of the bosses", has been arrested in Madrid.
-5. [Migrant crossings: Record 482 cross English Channel in one day](https://www.bbc.co.uk/news/uk-england-kent-58100694) - According to Home Office figures, there have now been 10,236 arrivals in 434 boats so far in 2021.
-6. [Google Maps warns drivers about emission charges](https://www.bbc.co.uk/news/technology-58102651) - Drivers heading through London or Paris will receive a warning about clean-air fees and fines.
-7. [Covid travel: France moves to amber list and green list expands](https://www.bbc.co.uk/news/business-58079107) - Up to 6,000 Britons are currently in Mexico, which is moving to the red list, Grant Shapps says.
+4. [Lionel Messi will not stay at Barcelona](https://www.bbc.co.uk/sport/football/58108298) - Barcelona say Lionel Messi will not be staying at the club "because of financial and structural obstacles".
+5. [Belgian students face trial over initiation death](https://www.bbc.co.uk/news/world-europe-58106534) - Eighteen former members of an elite university fraternity are linked to the death of a black student.
+6. [Notorious 'Ndrangheta mafia fugitive arrested after two years on the run](https://www.bbc.co.uk/news/world-europe-58105070) - Mobster Domenico Paviglianiti, known as the "boss of the bosses", has been arrested in Madrid.
+7. [Google Maps warns drivers about emission charges](https://www.bbc.co.uk/news/technology-58102651) - Drivers heading through London or Paris will receive a warning about clean-air fees and fines.
 8. [Valentino Rossi: Nine-time world champion to retire at end of 2021 MotoGP season](https://www.bbc.co.uk/sport/motorsport/58097548) - Italian MotoGP great Valentino Rossi says this season will be his last.
 9. [What are the big aims for the UN climate summit?](https://www.bbc.co.uk/news/science-environment-56901261) - The annual climate change summit is being held in Glasgow - who's going and what's at stake?
 10. [Scotland's colourful marine life ](https://www.bbc.co.uk/news/in-pictures-58071314) - Scuba-diver Ross McLaren has taken thousands of photos of marine life in Scotland's rivers and sea-lochs.
