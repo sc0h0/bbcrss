@@ -1,7 +1,7 @@
 1. [Conservative donors have no influence on policy, insists Grant Shapps](https://www.bbc.co.uk/news/uk-politics-58098887) - Grant Shapps defends big donors getting access to Boris Johnson and Rishi Sunak.
 2. [Marcus Rashford: Poor families missing out on food vouchers](https://www.bbc.co.uk/news/uk-politics-58091705) - The footballer says health professionals need to do more to raise awareness about the NHS scheme.
 3. [Government accused of 'burying' conversion therapy report](https://www.bbc.co.uk/news/uk-politics-58078582) - Boris Johnson vowed to ban the "abhorrent" practice - but an official report on it has yet to appear.
-4. [Migrant crossings: Record 482 cross English Channel in one day](https://www.bbc.co.uk/news/uk-england-kent-58100694) - According to Home Office figures, there have now been 10,260 arrivals in 435 boats so far in 2021.
+4. [Migrant crossings: Record 482 cross English Channel in one day](https://www.bbc.co.uk/news/uk-england-kent-58100694) - According to Home Office figures, there have now been 10,236 arrivals in 434 boats so far in 2021.
 5. [Sturgeon: Strange the PM will not meet me](https://www.bbc.co.uk/news/uk-politics-58079390) - Nicola Sturgeon says she does not feel snubbed but it is odd not to meet PM on his Scotland visit.
 6. [Boris Johnson 'not in favour' of drug consumption rooms](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58092735) - The Scottish government is committed to setting up "safe" consumption facilities - but the prime minister opposes them.
 7. [Keir Starmer attacks government record on green jobs](https://www.bbc.co.uk/news/uk-politics-58088236) - The Labour leader says there is a "chasm between soundbites and action" on climate-friendly employment.
