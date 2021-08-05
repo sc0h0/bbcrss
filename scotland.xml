@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 17:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 17:43:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58103843</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58103843</guid>
             <pubDate>Thu, 05 Aug 2021 15:27:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thatcher helped climate by closing coal mines, says Boris Johnson]]></title>
+            <description><![CDATA[Boris Johnson's comments on carbon reduction on Scottish trip are attacked by Labour and the SNP.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58107009</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107009</guid>
+            <pubDate>Thu, 05 Aug 2021 17:24:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -37,18 +44,18 @@
             <pubDate>Thu, 05 Aug 2021 12:51:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Firefighters driving ambulances to help out NHS]]></title>
-            <description><![CDATA[The volunteers are assisting because of "significant pressure" on Scotland's ambulance service.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58103353</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58103353</guid>
-            <pubDate>Thu, 05 Aug 2021 13:19:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fife athletics coach guilty of sex offences against teenage girls]]></title>
             <description><![CDATA[Former athletics coach Eric Simpson, 73, targeted teenage girls in Fife between 1981 and 1999.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58107370</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58107370</guid>
             <pubDate>Thu, 05 Aug 2021 16:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Firefighters driving ambulances to help out NHS]]></title>
+            <description><![CDATA[The volunteers are assisting because of "significant pressure" on Scotland's ambulance service.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58103353</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58103353</guid>
+            <pubDate>Thu, 05 Aug 2021 13:19:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women's health: I'm in pain but it took years for anyone to listen]]></title>
@@ -84,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58094836</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58094836</guid>
             <pubDate>Thu, 05 Aug 2021 12:04:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Jack Carlin through to semi-finals as Scots help relay team to final]]></title>
-            <description><![CDATA[On a quiet day for Scots at the Tokyo 2020 Olympics, some of the country's medal hopes progress in their disciplines.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58098268</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58098268</guid>
-            <pubDate>Thu, 05 Aug 2021 10:49:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death crash driver fails to win back licence early]]></title>
-            <description><![CDATA[Murray Geddes got behind the wheel because he was fed up waiting for a taxi but caused the death of a friend.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58092499</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58092499</guid>
-            <pubDate>Thu, 05 Aug 2021 13:59:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: How will the rules change on 9 August?]]></title>
@@ -205,6 +198,13 @@
             <pubDate>Mon, 02 Aug 2021 19:15:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Jack Carlin through to semi-finals as Scots help relay team to final]]></title>
+            <description><![CDATA[On a quiet day for Scots at the Tokyo 2020 Olympics, some of the country's medal hopes progress in their disciplines.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58098268</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58098268</guid>
+            <pubDate>Thu, 05 Aug 2021 10:49:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Europa League: Sportscene to show Jablonec v Celtic & Galatasaray v St Johnstone live]]></title>
             <description><![CDATA[Celtic's and St Johnstone's Europa League matches on Thursday will be shown live on Sportscene.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58040776</link>
@@ -224,13 +224,6 @@
             <link>https://www.bbc.co.uk/sport/football/58007178</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58007178</guid>
             <pubDate>Wed, 04 Aug 2021 14:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Galatasaray v St Johnstone: Callum Davidson's men aim to thrive as underdogs]]></title>
-            <description><![CDATA[Manager Callum Davidson hopes St Johnstone's status as "unknowns" in European football can help them catch Galatasaray by surprise.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58061278</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58061278</guid>
-            <pubDate>Wed, 04 Aug 2021 21:38:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

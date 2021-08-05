@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 17:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 17:42:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58098341</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58098341</guid>
             <pubDate>Thu, 05 Aug 2021 08:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Irish 12-15-year-olds can register for jab from next week]]></title>
-            <description><![CDATA[The plan to extend the country's vaccination programme was announced in July.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58102051</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58102051</guid>
-            <pubDate>Thu, 05 Aug 2021 13:20:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carnlough: Sea swimmer dies after getting into difficulty]]></title>
@@ -65,11 +58,18 @@
             <pubDate>Thu, 05 Aug 2021 11:36:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bronze Age sword on display in Fermanagh museum]]></title>
+            <description><![CDATA[The Bronze Age sword had been in private hands since being discovered on the shores of the River Erne in County Fermanagh in 1952.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58093268</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58093268</guid>
+            <pubDate>Thu, 05 Aug 2021 17:23:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Three more Covid-linked deaths and 1,641 new cases]]></title>
             <description><![CDATA[Three more Covid-linked deaths and another 1,641 cases of coronavirus are reported on Thursday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58104559</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58104559</guid>
-            <pubDate>Thu, 05 Aug 2021 13:41:18 GMT</pubDate>
+            <pubDate>Thu, 05 Aug 2021 17:36:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Northern Ireland deprivation: One in 10 children living with 'food insecurity']]></title>
@@ -282,6 +282,13 @@
             <pubDate>Thu, 29 Jul 2021 08:37:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Irish 12-15-year-olds can register for jab from next week]]></title>
+            <description><![CDATA[The plan to extend the country's vaccination programme was announced in July.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58102051</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58102051</guid>
+            <pubDate>Thu, 05 Aug 2021 13:20:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[County Cork shootings inquest returns unlawful killing and suicide verdicts]]></title>
             <description><![CDATA[Inquest says Mark O’Sullivan was unlawfully killed, and records his brother and father took their own lives.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58091329</link>
@@ -315,13 +322,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-58065003</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58065003</guid>
             <pubDate>Mon, 02 Aug 2021 20:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: 10,000 vaccinated at walk-in centres in Republic of Ireland]]></title>
-            <description><![CDATA[About two thirds of those vaccinated on Saturday were under 19, the health service chief says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58048445</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58048445</guid>
-            <pubDate>Sun, 01 Aug 2021 12:32:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

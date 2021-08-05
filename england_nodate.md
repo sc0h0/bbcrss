@@ -1,4 +1,4 @@
-1. [Kaylee-Jayde Priest: Mother and boyfriend convicted](https://www.bbc.co.uk/news/uk-england-birmingham-58106169) - Kaylee-Jayde Priest died from serious chest and abdominal injuries, a trial has heard.
+1. [Kaylee-Jayde Priest: Mother and boyfriend convicted of manslaughter](https://www.bbc.co.uk/news/uk-england-birmingham-58106169) - Kaylee-Jayde Priest's grandmother said she was "stolen from me in the most brutal of ways".
 2. [Aya Hachem: Men jailed for student's drive-by murder](https://www.bbc.co.uk/news/uk-england-lancashire-58087826) - Aya Hachem was "in the wrong place at the wrong time" when she was shot in a feud between tyre firms.
 3. [Oatly loses trademark battle against Glebe Farm over oat milk](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58102252) - Cambridgeshire's Glebe Farm Foods PureOaty drink does not copy the Oatly branding, a judge rules.
 4. [Bournemouth beach closed after 'large animal' spotted in sea](https://www.bbc.co.uk/news/uk-england-dorset-58090890) - Visitors say there was a shark sighting, though lifeguards were unable to identify the animal.
