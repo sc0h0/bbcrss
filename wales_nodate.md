@@ -1,6 +1,6 @@
 1. [Bridgend: Three charged over Logan Mwangi river death](https://www.bbc.co.uk/news/uk-wales-58053074) - Two adults and a 13-year-old boy are charged in connection with the death of Logan Mwangi.
 2. [Covid: Self-isolation payment raised to £750 in Wales](https://www.bbc.co.uk/news/uk-wales-politics-58093465) - Grants for people on low pay in Wales and told to self-isolate will increase by £250 from this weekend.
-3. [Heart app aims to cut NHS waiting lists in north Wales](https://www.bbc.co.uk/news/uk-wales-58094104) - Cardiac patients will be monitored remotely by mobile phone during a trial of the app by clinicians.
+3. [Heart app aims to cut NHS waiting lists in Wales](https://www.bbc.co.uk/news/uk-wales-58094104) - Cardiac patients will be monitored remotely by mobile phone during a trial of the app by clinicians.
 4. [Minimum wage: Ten firms in Wales underpaid staff](https://www.bbc.co.uk/news/uk-wales-58094098) - A total of 171 workers were not paid £78,000 by the businesses between 2012 and 2018.
 5. [Holiday park murder accused in court amid tributes to Amanda Selby](https://www.bbc.co.uk/news/uk-wales-58083395) - Tributes are paid to Amanda Selby as her brother Matthew appears in court, charged with her murder.
 6. [Covid in Wales: Teens aged 16-17 to be offered jabs](https://www.bbc.co.uk/news/uk-wales-politics-58088296) - Jabs for young confirmed after new advice from committee of vaccine experts.

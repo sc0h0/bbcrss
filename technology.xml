@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 10:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 10:44:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Numbers pinged by Covid app falls significantly]]></title>
+            <description><![CDATA[The fall come ahead of changes to the app to make it notify fewer contacts.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58076215</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58076215</guid>
+            <pubDate>Thu, 05 Aug 2021 10:37:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nearly a third of waking hours spent on TV and streaming, Ofcom says]]></title>
             <description><![CDATA[Older people have been watching more linear TV while on-demand is a big hit with younger audiences.]]></description>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-58062180</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58062180</guid>
             <pubDate>Mon, 02 Aug 2021 22:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twitter works with news sites to tackle disinformation]]></title>
-            <description><![CDATA[Twitter announces it will cooperate with two news agencies to promote more reliable information.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58065463</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58065463</guid>
-            <pubDate>Mon, 02 Aug 2021 23:20:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How smart buildings could transform our experience of work]]></title>
