@@ -26,7 +26,7 @@
 26. [Basketball: Chatham teenager gets scholarship to play for top US side](https://www.bbc.co.uk/news/uk-england-kent-58074005) - Tamara Fournillier-Onadeko, who plays at youth level in the GB squad, is heading to Chicago.
 27. [Ever Given: Ship that blocked Suez Canal leaves Felixstowe](https://www.bbc.co.uk/news/uk-england-suffolk-58100664) - The Ever Given leaves Felixstowe after 2,000 containers were unloaded.
 28. [Holborn crash: Doctor killed in HGV collision 'was on way to patients'](https://www.bbc.co.uk/news/uk-england-london-58104440) - Dr Marta Krawiec, 41, "died on her way to her patients", her family has said.
-29. [Migrant crossings: Record 482 cross English Channel in one day](https://www.bbc.co.uk/news/uk-england-kent-58100694) - According to Home Office figures, there have now been 10,236 arrivals in 434 boats so far in 2021.
+29. [Channel crossings: Hundreds more migrants reach UK after record day](https://www.bbc.co.uk/news/uk-england-kent-58100694) - According to Home Office figures, there have now been 10,711 arrivals in 449 boats so far in 2021.
 30. [Liverpool add Hillsborough's 97th victim to Anfield memorial](https://www.bbc.co.uk/news/uk-england-merseyside-58099651) - Andrew Devine died last month 32 years after sustaining life-changing injuries at Hillsborough.
 31. [London riots: Youth services cut in half since unrest](https://www.bbc.co.uk/news/uk-england-london-58030259) - London's young people have missed out on £240m of investment over the last 10 years, figures show.
 32. [Greater Manchester Police officer in court accused of sexual assaults](https://www.bbc.co.uk/news/uk-england-manchester-58102258) - Mohammed Adnan Ali, 35, faces 21 charges including five sexual assaults between 2015 and 2018.
