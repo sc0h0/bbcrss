@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 04:57:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 05:13:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Logan Mwangi: Three charged after boy's Bridgend river death]]></title>
+            <description><![CDATA[Logan Mwangi, also known as Logan Williamson, was found in the Ogmore River on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58053074</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58053074</guid>
+            <pubDate>Thu, 05 Aug 2021 05:10:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Self-isolation payment raised to £750 in Wales]]></title>
             <description><![CDATA[Grants for people on low pay in Wales and told to self-isolate will increase by £250 from this weekend.]]></description>
@@ -86,18 +93,18 @@
             <pubDate>Wed, 04 Aug 2021 12:12:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Skewen: 'Carnage' as flood-hit residents flooded again]]></title>
-            <description><![CDATA[The flash floods hit just after work began on a water management scheme to protect the area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58077730</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58077730</guid>
-            <pubDate>Tue, 03 Aug 2021 19:34:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Climate change: Wales set to build 20,000 low-carbon social homes]]></title>
             <description><![CDATA[Welsh ministers announce plans to tackle a housing shortage and the problem of climate change.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58078894</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58078894</guid>
             <pubDate>Wed, 04 Aug 2021 14:39:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skewen: 'Carnage' as flood-hit residents flooded again]]></title>
+            <description><![CDATA[The flash floods hit just after work began on a water management scheme to protect the area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58077730</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58077730</guid>
+            <pubDate>Tue, 03 Aug 2021 19:34:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smartphone app creates clever way to monitor patients]]></title>

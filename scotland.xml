@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Aug 2021 04:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Aug 2021 05:14:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid travel: France no longer amber-plus as green list expands]]></title>
+            <description><![CDATA[Germany, Austria and Norway move to the green list under changes to the travel traffic light system.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58079107</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58079107</guid>
+            <pubDate>Thu, 05 Aug 2021 01:25:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid in Scotland: Scotland to begin vaccinating 16 and 17-year-olds]]></title>
             <description><![CDATA[Nicola Sturgeon says they will be offered the vaccine as soon as possible following advice from the UK advisory body.]]></description>
@@ -34,7 +41,7 @@
             <description><![CDATA[Liam Chester was burnt out with work so he converted a camper van to take his office into nature.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58025876</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58025876</guid>
-            <pubDate>Wed, 04 Aug 2021 22:21:43 GMT</pubDate>
+            <pubDate>Thu, 05 Aug 2021 05:12:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson 'not in favour' of drug consumption rooms]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Wed, 04 Aug 2021 19:38:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Seasick swimmer makes history by completing Outer Hebrides challenge]]></title>
-            <description><![CDATA[James Armour has become the first person to swim, run and cycle the length of the Outer Hebrides.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58059477</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58059477</guid>
-            <pubDate>Wed, 04 Aug 2021 05:24:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Suspect formerly of Telford 'believed to have been in Scotland']]></title>
             <description><![CDATA[Robert Wieczorkowski has links to Aberdeen, police say, after a body was found in Shropshire.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-58092144</link>
@@ -142,6 +142,13 @@
             <pubDate>Mon, 02 Aug 2021 10:28:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Seasick swimmer makes history by completing Outer Hebrides challenge]]></title>
+            <description><![CDATA[James Armour has become the first person to swim, run and cycle the length of the Outer Hebrides.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58059477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58059477</guid>
+            <pubDate>Wed, 04 Aug 2021 05:24:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Indyref2: Why has the campaign for another vote gone quiet?]]></title>
             <description><![CDATA[Boris Johnson visits Scotland with no sign an independence referendum will be soon, writes Nick Eardley.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58079551</link>
@@ -175,34 +182,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57970435</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57970435</guid>
             <pubDate>Mon, 02 Aug 2021 05:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six ways to tackle Scotland's drugs crisis]]></title>
-            <description><![CDATA[What can be done to try to halt Scotland's rising toll of drug-related deaths?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-48921696</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-48921696</guid>
-            <pubDate>Fri, 30 Jul 2021 13:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adopting the recovery position]]></title>
-            <description><![CDATA[Banks are taking money out of their bad loan pots and larger companies in Scotland are reflecting activity overseas.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58047221</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58047221</guid>
-            <pubDate>Sun, 01 Aug 2021 09:59:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The seaweed farmers with high hopes for their harvest]]></title>
-            <description><![CDATA[Kelp grown off the coast of the Isle of Skye could be used in food, packaging and cosmetic products.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57996627</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57996627</guid>
-            <pubDate>Thu, 29 Jul 2021 22:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Luxury' race will be among most expensive on earth]]></title>
-            <description><![CDATA[A four-day ultramarathon covering 120 miles on the west coast of Scotland will cost £15,499 to enter.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57975285</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57975285</guid>
-            <pubDate>Wed, 28 Jul 2021 05:34:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PM's full interview on visit to Scotland]]></title>
