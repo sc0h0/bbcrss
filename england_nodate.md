@@ -8,7 +8,7 @@
 8. [Northumberland Santa impersonator sentenced for sexual assaults](https://www.bbc.co.uk/news/uk-england-tyne-58106725) - Raymond Finn was given a suspended jail sentence for assaulting the two women while in costume.
 9. [Holborn crash: Doctor killed in HGV collision 'was on way to patients'](https://www.bbc.co.uk/news/uk-england-london-58104440) - Dr Marta Krawiec, 41, "died on her way to her patients", her family has said.
 10. [Tokyo Olympics: 'Extra special' as twins, say Gadirova sisters](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58101556) - Jessica and Jennifer Gadirova, 16, return to Britain after securing team bronze in the gymnastics.
-11. [Redhill: Pedestrian dies in ambulance crash](https://www.bbc.co.uk/news/uk-england-surrey-58105882) - The 40-year-old woman was pronounced dead at the scene in Redhill, Surrey, police say.
+11. [Salfords: Pedestrian dies in ambulance crash](https://www.bbc.co.uk/news/uk-england-surrey-58105882) - The 40-year-old woman was pronounced dead at the scene in Salfords, Surrey, police say.
 12. [Ever Given: Ship that blocked Suez Canal leaves Felixstowe](https://www.bbc.co.uk/news/uk-england-suffolk-58100664) - The Ever Given leaves Felixstowe after 2,000 containers were unloaded.
 13. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The government is expected to announce that 16 and 17-year-olds will receive the Covid vaccine.
 14. [What are the holiday rules for travel to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - The government has updated its red, amber and green lists of countries.
