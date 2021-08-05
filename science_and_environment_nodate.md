@@ -1,4 +1,4 @@
-1. [Farming's chemicals mix killing more bees - study](https://www.bbc.co.uk/news/science-environment-58089545) - Commercial formulas, which contain multiple chemicals, should require their own licences, researchers say.
+1. [Farm pesticides killing more bees - study](https://www.bbc.co.uk/news/science-environment-58089545) - Commercial formulas containing multiple chemicals should require their own licences, researchers say.
 2. [Floods: Research shows millions more at risk of flooding](https://www.bbc.co.uk/news/science-environment-58087479) - Numbers of people exposed to flooding globally have risen by almost a quarter in two decades.
 3. [Keir Starmer attacks government record on green jobs](https://www.bbc.co.uk/news/uk-politics-58088236) - The Labour leader says there is a "chasm between soundbites and action" on climate-friendly employment.
 4. [Thailand bans coral-damaging sunscreens in marine parks](https://www.bbc.co.uk/news/world-asia-58092472) - Anyone flouting the rules could be fined due to the damage some lotions can cause to coral.
