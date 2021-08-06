@@ -1,7 +1,7 @@
 1. [California Gold Rush town 'destroyed' by state's largest wildfire](https://www.bbc.co.uk/news/world-us-canada-58106314) - The Dixie Fire, the largest burning in California, has razed much of the town of Greenville.
 2. [Tucker Carlson: What the Fox News host is doing in Hungary](https://www.bbc.co.uk/news/world-europe-58104200) - The controversial news host is the latest high-profile ally of Hungary's embattled prime minister.
 3. [Apple to scan iPhones for child sex abuse images](https://www.bbc.co.uk/news/technology-58109748) - Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.
-4. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - Thousands can stay in US for 18 months because China is eroding territory's freedoms, the US president says.
+4. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - China reacts angrily to the announcement, which allows thousands to stay in the US for 18 months.
 5. [Climate Change: Half US cars to be zero-emission by 2030 - Biden](https://www.bbc.co.uk/news/world-us-canada-58101907) - Cars produce nearly a third of US carbon emissions and sales of electric vehicles lag behind Europe.
 6. [Epstein meetings a huge mistake, says Bill Gates](https://www.bbc.co.uk/news/world-us-canada-58099778) - The Microsoft co-founder says he should not have given the convicted sex offender "credibility".
 7. [Andrew Cuomo faces impeachment threat as New York governor](https://www.bbc.co.uk/news/world-us-canada-58105261) - Fellow Democrats are urging New York’s governor to quit or be forced out after a report into alleged harassment.

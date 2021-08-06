@@ -22,6 +22,6 @@
 22. [The New Saints 4-2 Viktoria Plzen](https://www.bbc.co.uk/sport/football/58078533) - Declan McManus' hat-trick gives The New Saints a great chance of reaching the Europa Conference League play-offs with victory over Viktoria Plzen.
 23. [Diddymu cyfyngiadau wrth symud i lefel rhybudd sero](https://www.bbc.co.uk/newyddion/58106002) - 15 mis ers y cyfnod clo cyntaf, bydd y rhan fwyaf o gyfyngiadau coronafeirws Cymru'n cael eu llacio ddydd Sadwrn.
 24. ['Coedwigoedd newydd yn dinistrio cymunedau gwledig'](https://www.bbc.co.uk/newyddion/58103913) - Wrth werthu ffermydd i greu coedwigoedd, rhybudd bod "y gymuned, iaith ac hyd yn oed enwau'r caeau" yn diflannu.
-25. [Y dwbl i Lleucu Roberts wrth ennill y Fedal Ryddiaith](https://www.bbc.co.uk/newyddion/58103613) - Y dwbl eto i Lleucu Roberts sydd wedi cipio'r Fedal Ryddiaith a Gwobr Goffa Daniel Owen yn yr un Eisteddfod.
+25. ['Mae fy rhieni wedi eu sugno i fyd o gelwydd Covid-19'](https://www.bbc.co.uk/newyddion/58103919) - Menyw'n galw am atal gwefannau sy'n rhannu newyddion ffug yn dilyn profiad personol ei theulu.
 26. [Brwydr y Bandiau: Pwy yw'r pedwar olaf?](https://www.bbc.co.uk/newyddion/58079521) - Dod i adnabod bandiau rownd derfynol Brwydr y Bandiau 2021.
 27. [Cyngres Europa: Y Seintiau Newydd yn trechu Plzeň](https://www.bbc.co.uk/newyddion/58106005) - Buddugoliaeth i'r Seintiau yng Nghyngres Europa yn erbyn Viktoria Plzeň o'r Weriniaeth Tsiec.

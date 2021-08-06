@@ -1,4 +1,4 @@
-1. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - Thousands can stay in US for 18 months because China is eroding territory's freedoms, the US president says.
+1. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - China reacts angrily to the announcement, which allows thousands to stay in the US for 18 months.
 2. [China: How Delta threatens a prized zero Covid strategy](https://www.bbc.co.uk/news/world-asia-china-58095909) - China's battling its widest outbreak since Wuhan - how long can it keep Covid out?
 3. [China: Backlash over marriage question in Olympian's interview](https://www.bbc.co.uk/news/world-asia-china-58110014) - Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".
 4. [Indian women's hockey: Sixteen stories of struggle, one tale of triumph](https://www.bbc.co.uk/news/world-asia-india-58071416) - Fighting until the very end, India go down 3-4 to Great Britain in the bronze medal playoff.
