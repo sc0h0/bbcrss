@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 07:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 07:32:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Thu, 05 Aug 2021 20:55:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[COP26: How serious is the government about climate conference?]]></title>
+            <description><![CDATA[With less than 90 days to go until COP26 in Glasgow, there is uncertainty surrounding the event.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58107010</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107010</guid>
+            <pubDate>Thu, 05 Aug 2021 20:10:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Live events to be protected by £750m government-backed insurance scheme]]></title>
             <description><![CDATA[Music festivals are among the events in the UK that will be protected if they are forced to cancel.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58103249</link>
@@ -44,11 +51,11 @@
             <pubDate>Thu, 05 Aug 2021 10:34:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ben Elliot: Conservative Party money man with A-list connections]]></title>
-            <description><![CDATA[Tory fundraiser and co-chairman Ben Elliot is at the centre of controversy over an elite donors club.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58100884</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58100884</guid>
-            <pubDate>Thu, 05 Aug 2021 15:24:25 GMT</pubDate>
+            <title><![CDATA[New oil development off Shetland should not go ahead - Starmer]]></title>
+            <description><![CDATA[The Labour leader says it would send the wrong signal for the Cambo oil field to be approved ahead of COP26.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58103843</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58103843</guid>
+            <pubDate>Thu, 05 Aug 2021 19:21:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keeping old computers going costs government £2.3bn a year, says report]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58085316</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58085316</guid>
             <pubDate>Thu, 05 Aug 2021 11:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New oil development off Shetland should not go ahead - Starmer]]></title>
-            <description><![CDATA[The Labour leader says it would send the wrong signal for the Cambo oil field to be approved ahead of COP26.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58103843</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58103843</guid>
-            <pubDate>Thu, 05 Aug 2021 19:21:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paul Embery: Pro-Brexit fire union official unfairly sacked, tribunal finds]]></title>
@@ -359,18 +359,18 @@
             <pubDate>Wed, 28 Jul 2021 15:12:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COP26: Questions raised over climate summit]]></title>
-            <description><![CDATA[With less than 90 days to go until COP26 in Glasgow, there is uncertainty surrounding the event.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58107010</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107010</guid>
-            <pubDate>Thu, 05 Aug 2021 20:10:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Riots 10 years on: The five summer nights when London burned]]></title>
             <description><![CDATA[In August 2011 a man was shot dead by police in London, triggering the worst civil unrest in decades.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58058031</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58058031</guid>
             <pubDate>Fri, 06 Aug 2021 00:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Elliot: Conservative Party money man with A-list connections]]></title>
+            <description><![CDATA[Tory fundraiser and co-chairman Ben Elliot is at the centre of controversy over an elite donors club.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58100884</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58100884</guid>
+            <pubDate>Thu, 05 Aug 2021 15:24:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Behind-the-scenes battles over amber watchlist]]></title>
