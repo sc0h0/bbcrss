@@ -1,4 +1,4 @@
-1. [Brighton toddler death: Verphy Kudi jailed for leaving toddler alone for days](https://www.bbc.co.uk/news/uk-england-sussex-58102792) - Verphy Kudi left her 20-month-old-daughter alone in Brighton as she partied in London and Coventry.
+1. [Brighton toddler death: Verphy Kudi jailed for leaving toddler alone for days](https://www.bbc.co.uk/news/uk-england-sussex-58102792) - Verphy Kudi's 20-month-old-daughter died from influenza and starvation after being left alone.
 2. [Magistrates' court sends woman's address to abuser 'in error'](https://www.bbc.co.uk/news/uk-england-kent-58089705) - A woman's "life has fallen apart" after learning her violent husband was given her new address.
 3. [Cornwall visitors putting pressure on services](https://www.bbc.co.uk/news/uk-england-cornwall-58099906) - Numbers of visitors to Cornwall are exceptionally high, with pressure on roads and health services.
 4. [Covid in Bradford: 'I just want to see mum and dad one last time'](https://www.bbc.co.uk/news/uk-england-leeds-58115377) - Young people in Bradford share their intense experiences of the Covid pandemic in an inner city.
