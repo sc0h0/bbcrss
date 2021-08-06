@@ -60,4 +60,4 @@
 60. [John Stonehouse: Bizarre tale of the MP who faked his own death](https://www.bbc.co.uk/news/uk-politics-57942759) - Was John Stonehouse a spy who betrayed his country? Or a naive and broken man? James Naughtie investigates.
 61. [Brexit: What's the Northern Ireland Protocol?](https://www.bbc.co.uk/news/explainers-53724381) - Urgent changes to the post-Brexit Northern Ireland Protocol have been called for by the UK government.
 62. [Cummings: Eight takeaways from his interview](https://www.bbc.co.uk/news/uk-politics-57882892) - The PM's former chief adviser on lockdowns, Downing Street rows, Brexit and coup discussions.
-63. [Covid rules: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
+63. [Covid rules: What's changing in Wales, Scotland and the UK](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.

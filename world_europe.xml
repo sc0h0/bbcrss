@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 08:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 09:17:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Thu, 05 Aug 2021 19:15:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Swiss woman found dead in Thailand near waterfall]]></title>
+            <description><![CDATA[Autopsy results are expected Friday after police find a body under a black sheet near a waterfall.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58112979</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58112979</guid>
+            <pubDate>Fri, 06 Aug 2021 08:48:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Russian gay family flees to Spain after threats]]></title>
             <description><![CDATA[The lesbian family suffered homophobic abuse after appearing in a Russian health food ad.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58103833</link>
@@ -51,18 +58,18 @@
             <pubDate>Thu, 05 Aug 2021 14:29:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will Turkey's bees return after the wildfires?]]></title>
-            <description><![CDATA[Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58108527</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58108527</guid>
-            <pubDate>Thu, 05 Aug 2021 23:32:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Belgian students face trial over initiation death]]></title>
             <description><![CDATA[Eighteen former members of an elite university fraternity are linked to the death of a black student.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58106534</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58106534</guid>
             <pubDate>Thu, 05 Aug 2021 17:56:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Turkey's bees return after the wildfires?]]></title>
+            <description><![CDATA[Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58108527</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58108527</guid>
+            <pubDate>Thu, 05 Aug 2021 23:32:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is Fox News host Carlson doing in Hungary?]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58097606</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58097606</guid>
             <pubDate>Thu, 05 Aug 2021 12:49:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics sparks anti-LGBT slurs on Russian TV]]></title>
-            <description><![CDATA[Gay and transgender athletes in Tokyo have been singled out for abuse on Russian state television.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58029133</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58029133</guid>
-            <pubDate>Tue, 03 Aug 2021 23:12:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will Turkey's bees return after the wildfires?]]></title>

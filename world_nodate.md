@@ -7,9 +7,9 @@
 7. [St Vincent and the Grenadines leader hit during anti-vaccine mandate protest](https://www.bbc.co.uk/news/world-latin-america-58110684) - St Vincent and the Grenadines PM Ralph Gonsalves, 74, is recovering in hospital, his office says.
 8. [US urges Iran's new President Ebrahim Raisi to resume nuclear talks](https://www.bbc.co.uk/news/world-middle-east-58109087) - The state department says Ebrahim Raisi should seize the opportunity to revive a landmark 2015 deal.
 9. [California Gold Rush town 'destroyed' by state's largest wildfire](https://www.bbc.co.uk/news/world-us-canada-58106314) - The Dixie Fire, the largest burning in California, has razed much of the town of Greenville.
-10. [Russian gay family flees to Spain after threats](https://www.bbc.co.uk/news/world-europe-58103833) - The lesbian family suffered homophobic abuse after appearing in a Russian health food ad.
+10. [Swiss woman found dead in Thailand near waterfall](https://www.bbc.co.uk/news/world-asia-58112979) - Autopsy results are expected Friday after police find a body under a black sheet near a waterfall.
 11. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - China reacts angrily to the announcement, which allows thousands to stay in the US for 18 months.
-12. [Turkish influencer prosecuted 'for photos at Amsterdam sex museum'](https://www.bbc.co.uk/news/world-europe-58102368) - Merve Taskin says she faces obscenity charges in Turkey after posting "joke" photos of sex toys.
+12. [Russian gay family flees to Spain after threats](https://www.bbc.co.uk/news/world-europe-58103833) - The lesbian family suffered homophobic abuse after appearing in a Russian health food ad.
 13. [Mozambique insurgency: Rwanda leads the fightback](https://www.bbc.co.uk/news/world-africa-58079510) - A 1,000-strong force has made major gains against the insurgents since its deployment last month.
 14. [Indian women's hockey: Sixteen stories of struggle, one tale of triumph](https://www.bbc.co.uk/news/world-asia-india-58071416) - Fighting until the very end, India go down 3-4 to Great Britain in the bronze medal playoff.
 15. [Africa's week in pictures: 30 July-5 August 2021](https://www.bbc.co.uk/news/world-africa-58073608) - A selection of the best photos from Africa's week dominated by the Olympics.

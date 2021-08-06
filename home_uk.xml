@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 08:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 09:19:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Kenny first GB woman to win gold at three games]]></title>
+            <description><![CDATA[Laura Kenny becomes the first British woman to win gold at three Olympics as she and Katie Archibald are crowned madison champions.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58113628</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58113628</guid>
+            <pubDate>Fri, 06 Aug 2021 09:09:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Energy bills to rise by at least £139 for millions of households]]></title>
             <description><![CDATA[Fuel poverty charities say the price cap increase will come at the worst time during winter.]]></description>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58072098</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58072098</guid>
             <pubDate>Fri, 06 Aug 2021 08:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A-levels: Bumper year for top grades predicted]]></title>
-            <description><![CDATA[Results could see very high grades this year, which could put pressure on some university courses.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58106929</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58106929</guid>
-            <pubDate>Fri, 06 Aug 2021 07:50:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Starter salaries rising amid candidate shortages]]></title>
@@ -233,6 +233,13 @@
             <pubDate>Thu, 05 Aug 2021 19:19:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: GB's Lauren Price stages 'terrific' comeback to book place in middleweight final]]></title>
+            <description><![CDATA[Watch highlights as GB's Lauren Price secures her place in the gold-medal middleweight bout at Tokyo 2020 after staging a "terrific" comeback to beat Nouchka Fontijn.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58110777</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58110777</guid>
+            <pubDate>Fri, 06 Aug 2021 06:32:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GB boxer Price to fight for Olympic middleweight gold after narrow points win]]></title>
             <description><![CDATA[Great Britain boxer Lauren Price will fight for a gold medal on the final day of Tokyo 2020 after winning her women's middleweight semi-final.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58111123</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58110122</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58110122</guid>
             <pubDate>Fri, 06 Aug 2021 04:54:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: GB's Lauren Price stages 'terrific' comeback to book place in middleweight final]]></title>
-            <description><![CDATA[Watch highlights as GB's Lauren Price secures her place in the gold-medal middleweight bout at Tokyo 2020 after staging a "terrific" comeback to beat Nouchka Fontijn.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58110777</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58110777</guid>
-            <pubDate>Fri, 06 Aug 2021 06:32:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v India highlights: James Anderson leads England fightback on day two]]></title>
@@ -373,11 +373,11 @@
             <pubDate>Wed, 14 Jul 2021 09:36:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid rules: What has changed?]]></title>
+            <title><![CDATA[Covid rules: What's changing in Wales, Scotland and the UK]]></title>
             <description><![CDATA[Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52530518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Tue, 03 Aug 2021 15:13:47 GMT</pubDate>
+            <pubDate>Fri, 06 Aug 2021 09:11:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
