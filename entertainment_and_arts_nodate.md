@@ -22,6 +22,6 @@
 22. [Tankus the Henge: Touring in France post-Brexit 'a puzzle'](https://www.bbc.co.uk/news/entertainment-arts-58063110) - Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.
 23. [Becoming Tina Turner in London's West End](https://www.bbc.co.uk/news/entertainment-arts-58017932) - Aisha Jawando takes over from Adrienne Warren in the title role in the musical Tina.
 24. [Manga artist from Kenya on his passion for Japanese comics](https://www.bbc.co.uk/news/world-africa-58105542) - Kenyan manga artist Shin explains his passion for Japanese comics and what it takes to make a great one.
-25. [Fisherwomen honoured in photography exhibition](https://www.bbc.co.uk/news/uk-england-norfolk-58077623) - An exhibition is dedicated to decades of women who have worked in the industry on the east coast.
-26. [Four-year-old US piano prodigy flourishing amid pandemic](https://www.bbc.co.uk/news/world-us-canada-58094008) - Brigitte's parents just wanted to keep her busy. Now, she's been invited to play at Carnegie Hall.
-27. [I'm A Celebrity 2021: Ant & Dec to return to Gwrych Castle](https://www.bbc.co.uk/news/uk-wales-58071771) - Ant and Dec are returning to Wales to host I'm A Celebrity... Get Me Out Of Here! from Gwrych Castle.
+25. [Bronze Age sword on display in Fermanagh museum](https://www.bbc.co.uk/news/uk-northern-ireland-58093268) - The Bronze Age sword had been in private hands since being discovered on the shores of the River Erne in County Fermanagh in 1952.
+26. [Fisherwomen honoured in photography exhibition](https://www.bbc.co.uk/news/uk-england-norfolk-58077623) - An exhibition is dedicated to decades of women who have worked in the industry on the east coast.
+27. [Four-year-old US piano prodigy flourishing amid pandemic](https://www.bbc.co.uk/news/world-us-canada-58094008) - Brigitte's parents just wanted to keep her busy. Now, she's been invited to play at Carnegie Hall.

@@ -1,4 +1,4 @@
-1. ['Bumper year' for top A-level grades predicted](https://www.bbc.co.uk/news/education-58106929) - Results could see very high grades this year, which could put pressure on some university courses.
+1. [A-levels: Bumper year for top grades predicted](https://www.bbc.co.uk/news/education-58106929) - Results could see very high grades this year, which could put pressure on some university courses.
 2. [Covid: Jabs for 16 and 17-year-olds to start within weeks](https://www.bbc.co.uk/news/uk-58091693) - About 1.4 million more teenagers will be eligible for the Pfizer vaccine and will not need parental consent.
 3. [Covid vaccine will not be compulsory for university lectures](https://www.bbc.co.uk/news/uk-58040302) - Ministers are no longer considering making two doses mandatory for students in England, the BBC learns.
 4. [Global summit raises $4bn for schools despite aid row](https://www.bbc.co.uk/news/education-58006728) - World leaders pledge to get more children into school in the world's poorest countries.

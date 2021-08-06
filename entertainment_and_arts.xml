@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 00:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 01:38:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,6 +184,13 @@
             <pubDate>Thu, 05 Aug 2021 14:24:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bronze Age sword on display in Fermanagh museum]]></title>
+            <description><![CDATA[The Bronze Age sword had been in private hands since being discovered on the shores of the River Erne in County Fermanagh in 1952.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58093268</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58093268</guid>
+            <pubDate>Thu, 05 Aug 2021 17:23:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fisherwomen honoured in photography exhibition]]></title>
             <description><![CDATA[An exhibition is dedicated to decades of women who have worked in the industry on the east coast.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58077623</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58094008</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58094008</guid>
             <pubDate>Wed, 04 Aug 2021 17:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm A Celebrity 2021: Ant & Dec to return to Gwrych Castle]]></title>
-            <description><![CDATA[Ant and Dec are returning to Wales to host I'm A Celebrity... Get Me Out Of Here! from Gwrych Castle.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58071771</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58071771</guid>
-            <pubDate>Tue, 03 Aug 2021 15:17:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

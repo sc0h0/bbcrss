@@ -10,11 +10,11 @@
 10. [Channel crossings: Hundreds more migrants reach UK after record day](https://www.bbc.co.uk/news/uk-england-kent-58100694) - According to Home Office figures, there have now been 10,711 arrivals in 449 boats so far in 2021.
 11. [Robert Dawes: Jailed drug smuggler charged with gun murder](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58105493) - The 52-year-old victim was shot in 2002 over a drug debt allegedly owed by a member of his family.
 12. [Salfords: Pedestrian dies in ambulance crash](https://www.bbc.co.uk/news/uk-england-surrey-58105882) - The 40-year-old woman was pronounced dead at the scene in Salfords, Surrey, police say.
-13. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The government is expected to announce that 16 and 17-year-olds will receive the Covid vaccine.
-14. [What are the holiday rules for travel to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - The government has updated its red, amber and green lists of countries.
-15. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-16. [Long Covid: What is it and what are the symptoms?](https://www.bbc.co.uk/news/health-57833394) - New research links as many as 200 different symptoms to the condition.
-17. [Covid: When will teenagers get the jab and do I need a booster?](https://www.bbc.co.uk/news/health-55045639) - More teenagers will be able to receive the Covid vaccine, and a third jab will soon be available for the most vulnerable.
+13. [What are the holiday rules for travel to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - The government has updated its red, amber and green lists of countries.
+14. [Covid-19: Five ways to avoid catching the virus indoors](https://www.bbc.co.uk/news/explainers-53917432) - As social distancing restrictions end in England and ease in Scotland, good ventilation remains vital.
+15. [Covid rules: What has changed?](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
+16. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The government is expected to announce that 16 and 17-year-olds will receive the Covid vaccine.
+17. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 18. [Why bonding over the Euros appeared to increase Covid cases in men](https://www.bbc.co.uk/news/health-58015593) - Psychologists say men need to be part of a group in order to vent their feelings and emotions.
 19. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
 20. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
