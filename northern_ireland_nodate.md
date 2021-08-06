@@ -5,7 +5,7 @@
 5. [Robin Swann set to offer health staff 3% pay rise](https://www.bbc.co.uk/news/uk-northern-ireland-58114231) - Health minister Robin Swann says he will accept the increase recommended by a pay review body.
 6. [Kevin Lunney trial: October date set for verdict](https://www.bbc.co.uk/news/uk-northern-ireland-58119816) - Four men deny charges of falsely imprisoning Mr Lunney and intentionally causing him serious harm.
 7. [Jordan Leckey: Jam sandwich tops off possible record-breaking swim](https://www.bbc.co.uk/news/uk-northern-ireland-58121247) - Jordan Leckey is waiting to hear if he's officially set a new record for a swim from NI to Scotland.
-8. [Coronavirus: More than 3,000 registered Covid-19 deaths in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58112415) - The NI Statistics and Research Agency found 18 more deaths were registered in the week up to 30 July.
+8. [Coronavirus: More than 3,000 registered Covid-19 deaths in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58112415) - For the first time, a person under the age of 15 is among the Covid-related deaths registered.
 9. [Covid-19: Four more Covid-linked deaths and 1,434 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58119813) - The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,213.
 10. [Rosslare Port: Heroin worth more than €12m seized](https://www.bbc.co.uk/news/world-europe-58113729) - Revenue says investigations are ongoing following the seizure of the drugs.
 11. [Former Northern Ireland senior coroner John Leckey dies](https://www.bbc.co.uk/news/uk-northern-ireland-58114230) - John Leckey presided over the inquest into the Omagh bombing, among other high-profile hearings.
