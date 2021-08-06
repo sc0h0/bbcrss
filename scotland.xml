@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 12:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 13:07:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Covid in Scotland: Young doctors urge peers to get vaccinated]]></title>
-            <description><![CDATA[Medics in their 20s and 30s share their experiences in hospitals in an open letter to young Scots.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58108477</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58108477</guid>
-            <pubDate>Fri, 06 Aug 2021 08:42:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Laura Kenny and Katie Archibald win madison gold before Jack Carlin wins sprint bronze]]></title>
             <description><![CDATA[Laura Kenny and Katie Archibald win Olympic madison gold before Jack Carlin wins sprint bronze.]]></description>
@@ -30,11 +23,18 @@
             <pubDate>Fri, 06 Aug 2021 10:34:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Young doctors urge peers to get vaccinated]]></title>
+            <description><![CDATA[Medics in their 20s and 30s share their experiences in hospitals in an open letter to young Scots.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58108477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58108477</guid>
+            <pubDate>Fri, 06 Aug 2021 08:42:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No apology from Boris Johnson over Thatcher coal mine closures remark]]></title>
-            <description><![CDATA[But No 10 said Boris Johnson recognises the pain of closures, after he said they helped the climate.]]></description>
+            <description><![CDATA[But No 10 says Boris Johnson recognises the pain of closures, after he said they helped the climate.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58117044</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58117044</guid>
-            <pubDate>Fri, 06 Aug 2021 12:16:49 GMT</pubDate>
+            <pubDate>Fri, 06 Aug 2021 12:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson: Why mining gaffe will linger after Scottish visit]]></title>
@@ -170,6 +170,13 @@
             <pubDate>Wed, 04 Aug 2021 07:52:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Laura Kenny and Katie Archibald win historic gold in women's madison]]></title>
+            <description><![CDATA[Laura Kenny becomes the first British woman to win gold at three Olympic Games as she and Katie Archibald are crowned madison champions in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58113831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58113831</guid>
+            <pubDate>Fri, 06 Aug 2021 09:16:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sir Keir Starmer: 'Shetland oil field should be blocked']]></title>
             <description><![CDATA[The Labour leader says approval should not be given for a new oil and gas development west of Shetland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58103993</link>
@@ -198,13 +205,6 @@
             <pubDate>Mon, 02 Aug 2021 21:54:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Humza Yousaf reports nursery over discrimination fears]]></title>
-            <description><![CDATA[Scotland's health secretary says his daughter was twice refused a place at the nursery, which denies any discrimination.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58064620</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58064620</guid>
-            <pubDate>Mon, 02 Aug 2021 19:15:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: GB's Jack Carlin wins bronze in individual sprint]]></title>
             <description><![CDATA[Watch as Team GB's Jack Carlin claims an impressive bronze medal in the men's individual sprint after beating ROC's Denis Dmitriev in two successive heats.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58115831</link>
@@ -224,6 +224,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58104430</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58104430</guid>
             <pubDate>Fri, 06 Aug 2021 05:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Great Britain beat India to win women's hockey bronze]]></title>
+            <description><![CDATA[Great Britain claim bronze in the women's hockey at Tokyo 2020 with a thrilling 4-3 victory against India as the Netherlands take gold.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58110122</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58110122</guid>
+            <pubDate>Fri, 06 Aug 2021 11:42:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,5 +1,5 @@
 1. [COP26: Alok Sharma criticised for international - and quarantine-free - travel](https://www.bbc.co.uk/news/uk-politics-58112621) - Alok Sharma visited more than 30 countries to set up climate conference - and didn't quarantine.
-2. [No apology from Boris Johnson over Thatcher coal mine closures remark](https://www.bbc.co.uk/news/uk-politics-58117044) - But No 10 said Boris Johnson recognises the pain of closures, after he said they helped the climate.
+2. [No apology from Boris Johnson over Thatcher coal mine closures remark](https://www.bbc.co.uk/news/uk-politics-58117044) - But No 10 says Boris Johnson recognises the pain of closures, after he said they helped the climate.
 3. [COP26: How serious is the government about climate conference?](https://www.bbc.co.uk/news/uk-politics-58107010) - With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.
 4. [Sir Keir Starmer: Labour should be proud of Tony Blair's record](https://www.bbc.co.uk/news/uk-politics-58113968) - Labour leader Sir Keir Starmer vows turn the party "inside out" to win the next general election.
 5. [Covid: Live events to be protected by £750m government-backed insurance scheme](https://www.bbc.co.uk/news/entertainment-arts-58103249) - Music festivals are among the events in the UK that will be protected if they are forced to cancel.
