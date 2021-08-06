@@ -1,4 +1,4 @@
-1. [Greece battles deadly wildfires near Athens and on Evia island](https://www.bbc.co.uk/news/world-europe-58114106) - At least one person is confirmed dead, and thousands have been forced to flee their homes.
+1. [Greece fires spread uncontrolled, killing a fireman](https://www.bbc.co.uk/news/world-europe-58124129) - Thousands of people are being evacuated as uncontrolled fires continue to rage.
 2. [Olympics expels Belarus coaches over athlete removal](https://www.bbc.co.uk/news/world-europe-58095558) - Ms Timanovskaya said she was forced to leave Tokyo after she complained about her coaches online.
 3. [Covid: Italy rolls out 'green pass' for public venue access](https://www.bbc.co.uk/news/world-europe-58115213) - All those aged 12 and over with at least one jab will be able to access bars, cinemas and gyms.
 4. [Snickers Spain pulls TV advert after homophobia accusations](https://www.bbc.co.uk/news/world-europe-58120598) - The brand apologises for a "misunderstanding" after its Spanish commercial was heavily criticised.

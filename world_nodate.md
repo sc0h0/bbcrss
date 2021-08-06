@@ -1,6 +1,6 @@
 1. [Afghanistan war: Taliban capture regional capital Zaranj](https://www.bbc.co.uk/news/world-asia-58119886) - Officials say the insurgents took the southern city of Zaranj, in a big blow to government forces.
 2. [Families of 9/11 victims tell Biden not to attend memorial events](https://www.bbc.co.uk/news/world-us-canada-58121267) - Relatives of the 2001 terror attack victims say Mr Biden must declassify what role Saudi Arabia had.
-3. [Greece battles deadly wildfires near Athens and on Evia island](https://www.bbc.co.uk/news/world-europe-58114106) - At least one person is confirmed dead, and thousands have been forced to flee their homes.
+3. [Greece fires spread uncontrolled, killing a fireman](https://www.bbc.co.uk/news/world-europe-58124129) - Thousands of people are being evacuated as uncontrolled fires continue to rage.
 4. [Allyson Felix sets record with 10th medal](https://www.bbc.co.uk/sport/olympics/58117306) - American Allyson Felix becomes the most decorated female track and field athlete of all time by taking 400m bronze for her 10th Olympic medal.
 5. [Jennifer Aniston explains cutting off unvaccinated friends](https://www.bbc.co.uk/news/entertainment-arts-58112957) - The Friends actor has elaborated on why she has "lost a few people" who have refused the jab.
 6. [Dixie Fire: California town decimated by largest active US blaze](https://www.bbc.co.uk/news/world-us-canada-58123369) - The US' largest active fire warped street lights and destroyed the town of Greenville, California.
