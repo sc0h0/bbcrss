@@ -1,7 +1,7 @@
 1. [Women's Olympic football: Canada beat Sweden on penalties to win women's football gold](https://www.bbc.co.uk/sport/olympics/58117978) - Canada beat Sweden 3-2 on penalties to win women's football gold at Tokyo 2020.
 2. [Dixie Fire: California town decimated by largest active US blaze](https://www.bbc.co.uk/news/world-us-canada-58123369) - The US' largest active fire warped street lights and destroyed the town of Greenville, California.
 3. [US expands citizenship for children born abroad in win for same-sex couples](https://www.bbc.co.uk/news/world-us-canada-58123371) - Children born through surrogacy or IVF can now qualify, even without being related to the US parent.
-4. [Families of 9/11 victims tell Biden not attend memorial events](https://www.bbc.co.uk/news/world-us-canada-58121267) - Relatives of the 2001 terror attack victims say Mr Biden must declassify what role Saudi Arabia had.
+4. [Families of 9/11 victims tell Biden not to attend memorial events](https://www.bbc.co.uk/news/world-us-canada-58121267) - Relatives of the 2001 terror attack victims say Mr Biden must declassify what role Saudi Arabia had.
 5. [US economy adds more jobs than expected in July](https://www.bbc.co.uk/news/business-58118016) - US employers added 943,000 jobs in July, while the unemployment rate fell to 5.4%.
 6. [Virgin Galactic space flight tickets to start at $450,000](https://www.bbc.co.uk/news/business-58120009) - The firm has reopened ticket sales after successfully completing its first fully-crewed space flight in July.
 7. [Two arrested over plot to kill Myanmar UN ambassador](https://www.bbc.co.uk/news/world-us-canada-58088866) - Ambassador Kyaw Moe Tun is a vocal critic of Myanmar's junta, which seized power in a coup on 1 February.
