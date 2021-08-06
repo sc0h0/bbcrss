@@ -1,6 +1,6 @@
 1. [Mozambique insurgency: Rwanda leads the fightback](https://www.bbc.co.uk/news/world-africa-58079510) - A 1,000-strong force has made major gains against the insurgents since its deployment last month.
-2. [Lalibela: Ethiopia's Tigray rebels take Unesco world heritage town](https://www.bbc.co.uk/news/world-africa-58101912) - Forces from the Tigray region have taken control of Lalibela, home to famed rock-hewn churches.
-3. [Africa's week in pictures: 30 July-5 August 2021](https://www.bbc.co.uk/news/world-africa-58073608) - A selection of the best photos from Africa's week dominated by the Olympics.
+2. [Africa's week in pictures: 30 July-5 August 2021](https://www.bbc.co.uk/news/world-africa-58073608) - A selection of the best photos from Africa's week dominated by the Olympics.
+3. [Lalibela: Ethiopia's Tigray rebels take Unesco world heritage town](https://www.bbc.co.uk/news/world-africa-58101912) - Forces from the Tigray region have taken control of Lalibela, home to famed rock-hewn churches.
 4. [Tokyo Olympics: History for Burkina Faso's Hugues Fabrice Zango and an Olympic record for Kipsang](https://www.bbc.co.uk/sport/africa/58098826) - Hugues Fabrice Zango wins Burkina Faso's first ever Olympic medal as Kenya's Abel Kipsang sets a new Olympic record on day 13 of the Tokyo Games.
 5. [Manga artist from Kenya on his passion for Japanese comics](https://www.bbc.co.uk/news/world-africa-58105542) - Kenyan manga artist Shin explains his passion for Japanese comics and what it takes to make a great one.
 6. [Peter Bol: The Sudanese-Australian runner who lifted a nation](https://www.bbc.co.uk/news/world-australia-58095689) - Peter Bol's Olympics has delighted Australians, becoming a "symbol of what we can aspire to be".

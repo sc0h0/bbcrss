@@ -22,7 +22,7 @@
 22. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
 23. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
 24. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
-25. [What are the rules and guidance for face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in Scotland and Wales.
+25. [What are the rules and guidance for face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in other parts of the UK.
 26. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 27. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The government is expected to announce that 16 and 17-year-olds will receive the Covid vaccine.
 28. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
