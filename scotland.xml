@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 11:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 11:22:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,25 +51,25 @@
             <pubDate>Fri, 06 Aug 2021 08:52:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Gold for Katie Archibald, bronze for Jack Carlin & Sarah Robertson]]></title>
+            <description><![CDATA[On a busy day for Scots at the Tokyo 2020 Olympics, Katie Archibald and Jack Carlin win gold and bronze in the velodrome.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58112562</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58112562</guid>
+            <pubDate>Fri, 06 Aug 2021 10:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emirates Airline set to restart Glasgow-Dubai route]]></title>
+            <description><![CDATA[The airline's move comes as the United Arab Emirates is switched to the UK's amber travel list.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58106352</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58106352</guid>
+            <pubDate>Fri, 06 Aug 2021 11:11:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Scotland: Director pay and bonus rules for SPFL clubs' loan]]></title>
             <description><![CDATA[Scottish ministers have put strict conditions on £25.2m worth of emergency Covid loans given to Scottish football clubs.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58104430</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58104430</guid>
             <pubDate>Fri, 06 Aug 2021 05:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RBS report: Hiring activity 'still rising sharply']]></title>
-            <description><![CDATA[A survey of recruiters suggests Scottish firms continue to expand their workforces as the economy reopens.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58101643</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58101643</guid>
-            <pubDate>Fri, 06 Aug 2021 05:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Energy bills to rise by at least £139 for millions of households]]></title>
-            <description><![CDATA[Fuel poverty charities say the price cap increase will come at the worst time during winter.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58106105</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58106105</guid>
-            <pubDate>Fri, 06 Aug 2021 10:17:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -198,13 +198,6 @@
             <pubDate>Mon, 02 Aug 2021 19:15:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Gold for Katie Archibald, bronze for Jack Carlin & Sarah Robertson]]></title>
-            <description><![CDATA[On a busy day for Scots at the Tokyo 2020 Olympics, Katie Archibald and Jack Carlin win gold and bronze in the velodrome.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58112562</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58112562</guid>
-            <pubDate>Fri, 06 Aug 2021 10:14:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: GB's Jack Carlin wins bronze in individual sprint]]></title>
             <description><![CDATA[Watch as Team GB's Jack Carlin claims an impressive bronze medal in the men's individual sprint after beating ROC's Denis Dmitriev in two successive heats.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58115831</link>
@@ -217,6 +210,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/58113948</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58113948</guid>
             <pubDate>Fri, 06 Aug 2021 10:09:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Great Britain beat India to win women's hockey bronze]]></title>
+            <description><![CDATA[Great Britain claim bronze in the women's hockey at Tokyo 2020 with a thrilling 4-3 victory against India.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58110122</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58110122</guid>
+            <pubDate>Fri, 06 Aug 2021 04:54:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

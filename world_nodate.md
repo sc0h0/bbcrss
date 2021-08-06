@@ -6,8 +6,8 @@
 6. [CNN fires unvaccinated employees for going to office](https://www.bbc.co.uk/news/world-us-canada-58112125) - The network is among several US firms to require employees working with others to be vaccinated.
 7. [Jennifer Aniston explains cutting off unvaccinated friends](https://www.bbc.co.uk/news/entertainment-arts-58112957) - The Friends actor has elaborated on why she has "lost a few people" who have refused the jab.
 8. [St Vincent and the Grenadines leader hit during anti-vaccine mandate protest](https://www.bbc.co.uk/news/world-latin-america-58110684) - St Vincent and the Grenadines PM Ralph Gonsalves, 74, is recovering in hospital, his office says.
-9. [Apple to scan iPhones for child sex abuse images](https://www.bbc.co.uk/news/technology-58109748) - Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.
-10. [Lalibela: Ethiopia's Tigray rebels take Unesco world heritage town](https://www.bbc.co.uk/news/world-africa-58101912) - Forces from the Tigray region have taken control of Lalibela, home to famed rock-hewn churches.
+9. [Lalibela: Ethiopia's Tigray rebels take Unesco world heritage town](https://www.bbc.co.uk/news/world-africa-58101912) - Forces from the Tigray region have taken control of Lalibela, home to famed rock-hewn churches.
+10. [Covid: Italy rolls out 'green pass' for public venue access](https://www.bbc.co.uk/news/world-europe-58115213) - All those aged 12 and over with at least one jab will be able to access bars, cinemas and gyms.
 11. [Swiss woman found dead in Thailand near waterfall](https://www.bbc.co.uk/news/world-asia-58112979) - Autopsy results are expected Friday after police find a body under a black sheet near a waterfall.
 12. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - China reacts angrily to the announcement, which allows thousands to stay in the US for 18 months.
 13. [Mozambique insurgency: Rwanda leads the fightback](https://www.bbc.co.uk/news/world-africa-58079510) - A 1,000-strong force has made major gains against the insurgents since its deployment last month.
