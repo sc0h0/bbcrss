@@ -1,10 +1,10 @@
 1. [Olympics expels Belarus coaches over athlete removal](https://www.bbc.co.uk/news/world-europe-58095558) - Ms Timanovskaya said she was forced to leave Tokyo after she complained about her coaches online.
-2. [Vitaly Shishov: Belarus activist feared for life before he died](https://www.bbc.co.uk/news/world-europe-58095551) - The girlfriend of a Belarusian activist who died in Ukraine says he would never have killed himself.
-3. [Lionel Messi will not stay at Barcelona](https://www.bbc.co.uk/sport/football/58108298) - Barcelona say Lionel Messi will not be staying at the club "because of financial and structural obstacles".
-4. [Swiss woman found dead in Thailand near waterfall](https://www.bbc.co.uk/news/world-asia-58112979) - Autopsy results are expected Friday after police find a body under a black sheet near a waterfall.
-5. [Russian gay family flees to Spain after threats](https://www.bbc.co.uk/news/world-europe-58103833) - The lesbian family suffered homophobic abuse after appearing in a Russian health food ad.
-6. [Turkish influencer prosecuted 'for photos at Amsterdam sex museum'](https://www.bbc.co.uk/news/world-europe-58102368) - Merve Taskin says she faces obscenity charges in Turkey after posting "joke" photos of sex toys.
-7. [Belgian students face trial over initiation death](https://www.bbc.co.uk/news/world-europe-58106534) - Eighteen former members of an elite university fraternity are linked to the death of a black student.
+2. [Greece battles wildfires near Athens and on Evia island](https://www.bbc.co.uk/news/world-europe-58114106) - Strong winds and scorching heat fuel dozens of blazes, forcing thousands to evacuate.
+3. [Vitaly Shishov: Belarus activist feared for life before he died](https://www.bbc.co.uk/news/world-europe-58095551) - The girlfriend of a Belarusian activist who died in Ukraine says he would never have killed himself.
+4. [Lionel Messi will not stay at Barcelona](https://www.bbc.co.uk/sport/football/58108298) - Barcelona say Lionel Messi will not be staying at the club "because of financial and structural obstacles".
+5. [Swiss woman found dead in Thailand near waterfall](https://www.bbc.co.uk/news/world-asia-58112979) - Autopsy results are expected Friday after police find a body under a black sheet near a waterfall.
+6. [Russian gay family flees to Spain after threats](https://www.bbc.co.uk/news/world-europe-58103833) - The lesbian family suffered homophobic abuse after appearing in a Russian health food ad.
+7. [Turkish influencer prosecuted 'for photos at Amsterdam sex museum'](https://www.bbc.co.uk/news/world-europe-58102368) - Merve Taskin says she faces obscenity charges in Turkey after posting "joke" photos of sex toys.
 8. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-europe-58108527) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.
 9. [What is Fox News host Carlson doing in Hungary?](https://www.bbc.co.uk/news/world-europe-58104200) - The controversial news host is the latest high-profile ally of Hungary's embattled prime minister.
 10. [Brexit rules burden bands touring in EU](https://www.bbc.co.uk/news/entertainment-arts-58006647) - One band explain what it's been like trying to tour in France in the age of Covid and Brexit.
