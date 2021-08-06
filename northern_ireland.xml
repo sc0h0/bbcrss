@@ -11,10 +11,31 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 05:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 05:26:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19 vaccines now on offer for over 16s in Northern Ireland]]></title>
+            <description><![CDATA[Northern Ireland is the first part of the UK to give jabs to 16 and 17 year olds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58105372</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58105372</guid>
+            <pubDate>Fri, 06 Aug 2021 05:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adoption in NI: Families welcome new laws to provide support]]></title>
+            <description><![CDATA[Adoptive parents welcome a new bill to modernise NI's laws and provide families with more support.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-politics-56324095</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-politics-56324095</guid>
+            <pubDate>Fri, 06 Aug 2021 05:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Stephanie Meadow stays in touch with medal runners as Leona Maguire fades]]></title>
+            <description><![CDATA[Ireland's Stephanie Meadow keeps her outside hopes of an Olympic medal in the women's golf alive with a third round of 68 in Saitama.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58086725</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58086725</guid>
+            <pubDate>Fri, 06 Aug 2021 05:15:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Linden Foods: Man dies after incident at food processing site]]></title>
             <description><![CDATA[The Health and Safety Executive and the police are investigating the death at Linden Foods near Dungannon.]]></description>
@@ -23,32 +44,11 @@
             <pubDate>Thu, 05 Aug 2021 16:48:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Older people commissioner urges more care home staff to get jab]]></title>
-            <description><![CDATA[Official figures show that more than one in five local care homes are dealing with an outbreak.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58098341</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58098341</guid>
-            <pubDate>Thu, 05 Aug 2021 08:50:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Carnlough: Sea swimmer dies after getting into difficulty]]></title>
             <description><![CDATA[Emergency services were called to the scene in Carnlough at about 13.30 BST on Wednesday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58087650</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58087650</guid>
             <pubDate>Thu, 05 Aug 2021 06:27:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sinn Féin's Alex Maskey will not stand in next NI Assembly election]]></title>
-            <description><![CDATA[Mr Maskey, the assembly's speaker, says it has been an "honour" to represent communities.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58100954</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58100954</guid>
-            <pubDate>Thu, 05 Aug 2021 10:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Hospital procedures in NI decrease by 46%]]></title>
-            <description><![CDATA[New figures highlight the huge reduction in work carried out in the health system due to Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58100956</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58100956</guid>
-            <pubDate>Thu, 05 Aug 2021 12:31:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Met Office issues thunderstorm warning for Northern Ireland]]></title>
@@ -65,11 +65,32 @@
             <pubDate>Thu, 05 Aug 2021 17:23:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sinn Féin's Alex Maskey will not stand in next NI Assembly election]]></title>
+            <description><![CDATA[Mr Maskey, the assembly's speaker, says it has been an "honour" to represent communities.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58100954</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58100954</guid>
+            <pubDate>Thu, 05 Aug 2021 10:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Older people commissioner urges more care home staff to get jab]]></title>
+            <description><![CDATA[Official figures show that more than one in five local care homes are dealing with an outbreak.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58098341</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58098341</guid>
+            <pubDate>Thu, 05 Aug 2021 08:50:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Irish FA: Northern Ireland-Switzerland crowd number 'still uncertain' says new president Conrad Kirkwood]]></title>
             <description><![CDATA[New Irish FA president Conrad Kirkwood says safety will inform the number of spectators allowed to attend Northern Ireland's World Cup qualifier with Switzerland in September.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58108287</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58108287</guid>
             <pubDate>Thu, 05 Aug 2021 19:20:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Hospital procedures in NI decrease by 46%]]></title>
+            <description><![CDATA[New figures highlight the huge reduction in work carried out in the health system due to Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58100956</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58100956</guid>
+            <pubDate>Thu, 05 Aug 2021 12:31:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Europa Conference League: Larne lose first leg 4-0 to Pacos de Ferreira]]></title>
@@ -84,41 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58100957</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58100957</guid>
             <pubDate>Thu, 05 Aug 2021 17:43:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ireland's most expensive ram sells for 44,000 euros]]></title>
-            <description><![CDATA[The ram's County Donegal owner says the record-breaking price is a "once in a lifetime" deal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58098328</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58098328</guid>
-            <pubDate>Thu, 05 Aug 2021 09:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A5 road project exceeds £80m with work yet to start]]></title>
-            <description><![CDATA[The dual carriageway will connect Londonderry to the border at Aughnacloy and beyond to Dublin.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58090116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58090116</guid>
-            <pubDate>Thu, 05 Aug 2021 12:12:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Car sales in Northern Ireland fall in year-on-year decline]]></title>
-            <description><![CDATA[The exceptional level of sales in 2020 as the first lockdown ended is a major reason for the decrease.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58102058</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58102058</guid>
-            <pubDate>Thu, 05 Aug 2021 11:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northern Ireland firms fined for underpaying staff]]></title>
-            <description><![CDATA[The UK's business minister says there is no excuse for not paying staff the minimum wage.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58090976</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58090976</guid>
-            <pubDate>Thu, 05 Aug 2021 05:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Littering: Northern Ireland councils crack down at hotspots]]></title>
-            <description><![CDATA[Three councils in Northern Ireland are using private contractors to tackle littering and dog fouling.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57841202</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57841202</guid>
-            <pubDate>Thu, 05 Aug 2021 05:31:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Three more Covid-linked deaths and 1,641 new cases]]></title>
@@ -254,6 +240,13 @@
             <pubDate>Mon, 02 Aug 2021 20:25:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A5 road project exceeds £80m with work yet to start]]></title>
+            <description><![CDATA[The dual carriageway will connect Londonderry to the border at Aughnacloy and beyond to Dublin.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58090116</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58090116</guid>
+            <pubDate>Thu, 05 Aug 2021 12:12:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Praise for man who stopped Londonderry fire spreading]]></title>
             <description><![CDATA[A resident of the flats says he awoke to find thick smoke in the communal corridor.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58057183</link>
@@ -275,11 +268,11 @@
             <pubDate>Sat, 31 Jul 2021 20:26:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Londonderry: Man taken to hospital after stabbing]]></title>
-            <description><![CDATA[The man was found with injuries to his neck in the early hours of Thursday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58010383</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58010383</guid>
-            <pubDate>Thu, 29 Jul 2021 08:37:31 GMT</pubDate>
+            <title><![CDATA[Ireland's most expensive ram sells for 44,000 euros]]></title>
+            <description><![CDATA[The ram's County Donegal owner says the record-breaking price is a "once in a lifetime" deal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58098328</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58098328</guid>
+            <pubDate>Thu, 05 Aug 2021 09:21:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Irish 12-15-year-olds can register for jab from next week]]></title>
@@ -315,13 +308,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58084003</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58084003</guid>
             <pubDate>Wed, 04 Aug 2021 06:48:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wally the walrus sighted off Waterford]]></title>
-            <description><![CDATA[Wally has been on the islands since June and has travelled thousands of miles around Europe.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58065003</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58065003</guid>
-            <pubDate>Mon, 02 Aug 2021 20:33:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
