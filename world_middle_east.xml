@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 23:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 23:55:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Mercer Street: Tanker blast evidence points to Iran, says US]]></title>
+            <description><![CDATA[The attack on the Israeli-operated merchant tanker last week killed two people.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58124489</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58124489</guid>
+            <pubDate>Fri, 06 Aug 2021 23:42:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US urges Iran's new President Ebrahim Raisi to resume nuclear talks]]></title>
             <description><![CDATA[The state department says Ebrahim Raisi should seize the opportunity to revive a landmark 2015 deal.]]></description>
@@ -42,20 +49,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58024060</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58024060</guid>
             <pubDate>Tue, 03 Aug 2021 13:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK and Iran summon diplomats after tanker attack]]></title>
-            <description><![CDATA[Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58059271</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58059271</guid>
-            <pubDate>Mon, 02 Aug 2021 20:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tanker attack: UK and US blame Iran for deadly ship attack]]></title>
-            <description><![CDATA[The UK accuses Tehran of violating international law, while Iran calls the accusations "baseless".]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58048007</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58048007</guid>
-            <pubDate>Mon, 02 Aug 2021 11:32:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: 'Can we have two golds?' - high jumpers share win]]></title>
