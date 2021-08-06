@@ -1,4 +1,4 @@
-1. [Sam and Chris Gould: Twins' suicides leads to victim policing change](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58072098) - Sam and Chris Gould took their own lives after a sex abuse investigation was dropped.
+1. [Sam and Chris Gould: Twins' suicides lead to victim policing change](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58072098) - Sam and Chris Gould took their own lives after a sex abuse investigation was dropped.
 2. [London riots: 'My shop was burned down but we came back stronger'](https://www.bbc.co.uk/news/uk-england-london-58031162) - Trevor Reeves and Bushra Ahmed both lost businesses during a night of violence in August 2011.
 3. [Boris Johnson faces backlash over Thatcher coal mines comment](https://www.bbc.co.uk/news/uk-politics-58107009) - The PM said closing "so many" coal mines gave the UK an "early start" in climate fight.
 4. [Pride in London parade cancelled for second year](https://www.bbc.co.uk/news/uk-england-london-58112895) - The UK's biggest LGBT pride festival usually takes place every summer in the capital.
