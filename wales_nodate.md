@@ -1,5 +1,5 @@
-1. [Covid: Most of Wales' coronavirus rules to end Saturday](https://www.bbc.co.uk/news/uk-wales-58102007) - Nightclubs will be able to reopen, but face masks will still be needed in shops and hospitals.
-2. [Tree-planting: Why are large investment firms buying Welsh farms?](https://www.bbc.co.uk/news/uk-wales-58103603) - Plans to encourage more tree-planting are under fire for "destroying communities" in rural areas.
+1. [Covid: Most of Wales' coronavirus rules to end Saturday](https://www.bbc.co.uk/news/uk-wales-58102007) - While social distancing laws will end, face masks will still have to be worn in many places.
+2. [Tree-planting: Why are large investment firms buying Welsh farms?](https://www.bbc.co.uk/news/uk-wales-58103603) - Plans to encourage more tree-planting are under fire for "destroying" rural communities.
 3. [Tokyo Olympics: Lauren Price to fight for gold after beating Nouchka Fontijn](https://www.bbc.co.uk/sport/olympics/58111123) - Great Britain boxer Lauren Price will fight for a gold medal on the final day of Tokyo 2020 after winning her women's middleweight semi-final.
 4. [Covid anti-vaxxers: 'Shut down fake news sites,' begs daughter](https://www.bbc.co.uk/news/uk-wales-58103604) - The woman says her parents have been fooled by conspiracy theories about Covid online.
 5. [Two days of rain and thunderstorms forecast for north and mid Wales](https://www.bbc.co.uk/news/uk-wales-58087494) - Homes could flood and roads close as they strike north and mid Wales, the Met Office has warned.

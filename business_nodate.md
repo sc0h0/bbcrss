@@ -1,5 +1,5 @@
-1. [Energy bills to rise by at least £139 for millions of households](https://www.bbc.co.uk/news/business-58106105) - Fuel poverty charities say the price cap increase will come at the worst time during winter.
-2. [Morrisons agrees to raised £6.7bn takeover offer from Fortress](https://www.bbc.co.uk/news/business-58112224) - The new £6.7bn bid for the supermarket from Fortress comes amid rumours of a rival offer from another US firm.
+1. [Morrisons agrees to raised £6.7bn takeover offer from Fortress](https://www.bbc.co.uk/news/business-58112224) - The new £6.7bn bid for the supermarket from Fortress comes amid rumours of a rival offer from another US firm.
+2. [Energy bills to rise by at least £139 for millions of households](https://www.bbc.co.uk/news/business-58106105) - Fuel poverty charities say the price cap increase will come at the worst time during winter.
 3. [House price growth slows as housing market cools](https://www.bbc.co.uk/news/business-58112221) - The Halifax says house prices rose again in July, but the market seems to be cooling down.
 4. [Starter salaries rising amid candidate shortages](https://www.bbc.co.uk/news/business-58104399) - KPMG research shows now is a good time to be looking for a job, due to high demand from employers.
 5. [South Park creators sign $900m deal to make seasons and movies](https://www.bbc.co.uk/news/business-58109993) - The agreement comes as technology and media giants battle to dominate the global streaming market.
