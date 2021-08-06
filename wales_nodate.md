@@ -21,6 +21,6 @@
 21. [Tokyo Olympics: Gold for Laura Kenny & Katie Archibald, Lauren Price through, hockey & cycling bronzes](https://www.bbc.co.uk/sport/olympics/58111115) - Cyclist Laura Kenny becomes the first British woman to win gold at three Olympics as Team GB move up to fourth in the medal table after more success on day 14.
 22. [Codi'r rhan fwyaf o gyfyngiadau Covid Cymru ddydd Sadwrn](https://www.bbc.co.uk/newyddion/58106002) - 17 mis ers y cyfnod clo cyntaf, bydd y rhan fwyaf o gyfyngiadau coronafeirws Cymru'n cael eu llacio ddydd Sadwrn.
 23. ['Coedwigoedd newydd yn dinistrio cymunedau gwledig'](https://www.bbc.co.uk/newyddion/58103913) - Rhybudd bod "y gymuned, iaith ac hyd yn oed enwau'r caeau" yn diflannu wrth werthu ffermydd.
-24. ['Mae fy rhieni wedi eu sugno i fyd o gelwydd Covid-19'](https://www.bbc.co.uk/newyddion/58103919) - Menyw'n galw am atal gwefannau sy'n rhannu newyddion ffug yn dilyn profiad personol ei theulu.
+24. [Dros 800 o achosion newydd Covid-19 wedi eu cofnodi](https://www.bbc.co.uk/newyddion/58046476) - Mae 2.3m o bobl wedi derbyn brechiad yn erbyn y feirws, a bron 2.1m wedi cael dau ddos.
 25. [Yr Eisteddfod: 'Dating agency' gorau Cymru!](https://www.bbc.co.uk/newyddion/58086140) - Straeon cyplau wnaeth gyfarfod eu partneriaid yn y Brifwyl.
 26. [Lauren Price i ymladd am fedal aur yn y Gemau Olympaidd](https://www.bbc.co.uk/newyddion/58112022) - Mae'r bocsiwr wedi sicrhau lle yn rownd derfynol cystadleuaeth pwysau canol y merched ddydd Sul.
