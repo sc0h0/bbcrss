@@ -5,7 +5,7 @@
 5. [Kaylee-Jayde Priest: Mother jailed for killing her three-year-old](https://www.bbc.co.uk/news/uk-england-birmingham-58119754) - The child was hurt for disturbing her mother and partner when they tried to have sex, a judge says.
 6. [Declan Donnelly 'targeted by car thief ring'](https://www.bbc.co.uk/news/uk-england-london-58121929) - His car was among high-value vehicles worth about £750,000 that were targeted, a court hears.
 7. [Scarlet Lady: Queues in Portsmouth for cruise ship Covid testing](https://www.bbc.co.uk/news/uk-england-hampshire-58123879) - The Scarlet Lady's departure was delayed as customers queued for hours for Covid tests.
-8. [Ed Sheeran named in Ipswich Town squad list and given number 17](https://www.bbc.co.uk/news/uk-england-suffolk-58121177) - The chart-topping artist is a regular visitor to the club's ground.
+8. [Ed Sheeran named in Ipswich Town squad list and given number 17](https://www.bbc.co.uk/news/uk-england-suffolk-58121177) - The chart-topping artist lives in Suffolk and is a regular visitor to the club's ground.
 9. [Mum 'instantly knew' son was terror attacker](https://www.bbc.co.uk/news/uk-england-london-58113040) - Shortly before the stabbings Sudesh Amman told his mother "bye bye, I love you", an inquest hears.
 10. [Cornwall visitors putting pressure on services](https://www.bbc.co.uk/news/uk-england-cornwall-58099906) - Numbers of visitors to Cornwall are exceptionally high, with pressure on roads and health services.
 11. [Gunman convicted of 'cold-blooded executions' in Range Rover in Dudley](https://www.bbc.co.uk/news/uk-england-birmingham-58115139) - A jury finds Jonathan Houseman guilty of murdering two men in a car park over a £200,000 debt.

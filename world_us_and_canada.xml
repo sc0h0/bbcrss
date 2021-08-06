@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 20:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 21:17:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Fri, 06 Aug 2021 16:44:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Two arrested over plot to kill Myanmar UN ambassador - US]]></title>
+            <description><![CDATA[Ambassador Kyaw Moe Tun is a vocal critic of Myanmar's junta, which seized power in a coup on 1 February.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58088866</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58088866</guid>
+            <pubDate>Fri, 06 Aug 2021 21:04:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jennifer Aniston explains cutting off unvaccinated friends]]></title>
             <description><![CDATA[The Friends actor has elaborated on why she has "lost a few people" who have refused the jab.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58112957</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58117306</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58117306</guid>
             <pubDate>Fri, 06 Aug 2021 13:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple to scan iPhones for child sex abuse images]]></title>
-            <description><![CDATA[Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58109748</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58109748</guid>
-            <pubDate>Thu, 05 Aug 2021 23:35:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[California Gold Rush town 'destroyed' by state's largest wildfire]]></title>
@@ -107,18 +107,18 @@
             <pubDate>Wed, 04 Aug 2021 19:01:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Simone Biles 'shows how much gymnastics has changed']]></title>
-            <description><![CDATA[Biles' withdrawal shows how attitudes have changed, says former USA gymnast Dominique Moceanu.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58043512</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58043512</guid>
-            <pubDate>Wed, 04 Aug 2021 16:18:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Andrew Cuomo: Why is the NY Governor under pressure to resign?]]></title>
             <description><![CDATA[Democrats, including President Biden, have called for the New York governor to go.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58092655</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58092655</guid>
             <pubDate>Fri, 06 Aug 2021 18:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simone Biles 'shows how much gymnastics has changed']]></title>
+            <description><![CDATA[Biles' withdrawal shows how attitudes have changed, says former USA gymnast Dominique Moceanu.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58043512</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58043512</guid>
+            <pubDate>Wed, 04 Aug 2021 16:18:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid third wave: Americans 'scared and angry' as pandemic worsens]]></title>
