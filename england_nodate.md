@@ -7,7 +7,7 @@
 7. [Bournemouth beach closed after 'large animal' spotted in sea](https://www.bbc.co.uk/news/uk-england-dorset-58090890) - Visitors say there was a shark sighting, though lifeguards were unable to identify the animal.
 8. [Dea-John Reid: Five people deny murdering boy, 14](https://www.bbc.co.uk/news/uk-england-birmingham-58108657) - Two men and three teenagers plead not guilty over the death of Dea-John Reid.
 9. [Tokyo 2020: Max Whitlock gets hero's welcome at gym club](https://www.bbc.co.uk/news/uk-england-essex-58031488) - The gold medallist performed backflips for cheering crowds on his return from Tokyo.
-10. [Weston shanty festival benefits from Covid call-off](https://www.bbc.co.uk/news/uk-england-somerset-58105110) - Due to be held in 2020, the Weston Shanty Festival hopes to ride the wave of interest in the genre.
+10. [Wolverhampton couple's wedding photo in Moon launch](https://www.bbc.co.uk/news/uk-england-birmingham-58102566) - Rosie and Andy Hart have won a contest to have their likeness sent to the lunar surface in 2022.
 11. [What are the holiday rules for travel to green, amber and red list countries?](https://www.bbc.co.uk/news/explainers-52544307) - The government has updated its red, amber and green lists of countries.
 12. [Covid-19: Five ways to avoid catching the virus indoors](https://www.bbc.co.uk/news/explainers-53917432) - As social distancing restrictions end in England and ease in Scotland, good ventilation remains vital.
 13. [Covid rules: What's changing in Wales, Scotland, England and Northern Ireland](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
