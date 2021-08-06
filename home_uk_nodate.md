@@ -2,8 +2,8 @@
 2. [Covid: Live events to be protected by £750m government-backed insurance scheme](https://www.bbc.co.uk/news/entertainment-arts-58103249) - Music festivals are among the events in the UK that will be protected if they are forced to cancel.
 3. [Apple to scan iPhones for child sex abuse images](https://www.bbc.co.uk/news/technology-58109748) - Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.
 4. [Covid: Most of Wales' coronavirus rules to end Saturday](https://www.bbc.co.uk/news/uk-wales-58102007) - Nightclubs will be able to reopen, but face masks will still be needed in shops and hospitals.
-5. [A-levels: Bumper year for top grades predicted](https://www.bbc.co.uk/news/education-58106929) - Results could see very high grades this year, which could put pressure on some university courses.
-6. [Afghan war: I can still hear my cry, says mother of dead soldier](https://www.bbc.co.uk/news/uk-58107220) - As fighting in Afghanistan rages, the BBC speaks to the mother of a British soldier who died there nearly 10 years ago.
+5. [Afghan war: I can still hear my cry, says mother of dead soldier](https://www.bbc.co.uk/news/uk-58107220) - As fighting in Afghanistan rages, the BBC speaks to the mother of a British soldier who died there nearly 10 years ago.
+6. [A-levels: Bumper year for top grades predicted](https://www.bbc.co.uk/news/education-58106929) - Results could see very high grades this year, which could put pressure on some university courses.
 7. [Starter salaries rising amid candidate shortages](https://www.bbc.co.uk/news/business-58104399) - KPMG research shows now is a good time to be looking for a job, due to high demand from employers.
 8. [Australia borders: Citizens living overseas could be 'trapped' if they return](https://www.bbc.co.uk/news/world-australia-58110308) - Australians who live overseas will require exemptions to leave Australia if they return home.
 9. [South Park creators sign $900m deal to make seasons and movies](https://www.bbc.co.uk/news/business-58109993) - The agreement comes as technology and media giants battle to dominate the global streaming market.

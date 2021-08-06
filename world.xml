@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 04:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 05:27:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Thu, 05 Aug 2021 21:21:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sharks from above: Filming 'friendly' encounters in Sydney]]></title>
-            <description><![CDATA[Jason Iggleden captures stunning moments in Sydney, often helping to reduce people's fear.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58009981</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58009981</guid>
-            <pubDate>Thu, 05 Aug 2021 23:01:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Australia borders: Citizens living overseas could be 'trapped' if they return]]></title>
             <description><![CDATA[Australians who live overseas will require exemptions to leave Australia if they return home.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58110308</link>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/technology-58109748</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58109748</guid>
             <pubDate>Thu, 05 Aug 2021 23:35:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China: Backlash over marriage question in Olympian's interview]]></title>
+            <description><![CDATA[Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58110014</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58110014</guid>
+            <pubDate>Fri, 06 Aug 2021 04:55:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lalibela: Ethiopia's Tigray rebels take Unesco world heritage town]]></title>
@@ -79,6 +79,13 @@
             <pubDate>Thu, 05 Aug 2021 14:23:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US to allow visitors from Hong Kong to stay for 18 months]]></title>
+            <description><![CDATA[Thousands can stay in US for 18 months because China is eroding territory's freedoms, the US president says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58105075</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58105075</guid>
+            <pubDate>Fri, 06 Aug 2021 01:26:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Notorious 'Ndrangheta mafia fugitive arrested after two years on the run]]></title>
             <description><![CDATA[Mobster Domenico Paviglianiti, known as the "boss of the bosses", has been arrested in Madrid.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58105070</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58102368</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58102368</guid>
             <pubDate>Thu, 05 Aug 2021 14:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US to allow visitors from Hong Kong to stay for 18 months]]></title>
-            <description><![CDATA[Thousands can stay in US for 18 months because China is eroding territory's freedoms, the US president says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58105075</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58105075</guid>
-            <pubDate>Fri, 06 Aug 2021 01:26:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mozambique insurgency: Rwanda leads the fightback]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Thu, 05 Aug 2021 14:13:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sharks from above: Filming 'friendly' encounters in Sydney]]></title>
+            <description><![CDATA[Jason Iggleden captures stunning moments in Sydney, often helping to reduce people's fear.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58009981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58009981</guid>
+            <pubDate>Thu, 05 Aug 2021 23:01:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Will Turkey's bees return after the wildfires?]]></title>
             <description><![CDATA[Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58108697</link>
@@ -161,20 +168,6 @@
             <link>https://www.bbc.co.uk/news/health-58100674</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58100674</guid>
             <pubDate>Thu, 05 Aug 2021 23:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manga artist from Kenya on his passion for Japanese comics]]></title>
-            <description><![CDATA[Kenyan manga artist Shin explains his passion for Japanese comics and what it takes to make a great one.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58105542</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58105542</guid>
-            <pubDate>Thu, 05 Aug 2021 14:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China: Backlash over marriage question in Olympian's interview]]></title>
-            <description><![CDATA[Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58110014</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58110014</guid>
-            <pubDate>Fri, 06 Aug 2021 04:55:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teenager Quan sets record to win women's diving gold]]></title>
@@ -210,6 +203,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58043512</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58043512</guid>
             <pubDate>Wed, 04 Aug 2021 16:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics medal table - which country has won most golds?]]></title>
+            <description><![CDATA[Which country is leading the medal table? How are Great Britain getting on? Medals table for the 2020 Olympics in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57836709</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57836709</guid>
+            <pubDate>Sun, 01 Aug 2021 14:10:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
