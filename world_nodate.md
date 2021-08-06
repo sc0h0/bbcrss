@@ -14,11 +14,11 @@
 14. [Indian women's hockey: Sixteen stories of struggle, one tale of triumph](https://www.bbc.co.uk/news/world-asia-india-58071416) - Fighting until the very end, India go down 3-4 to Great Britain in the bronze medal playoff.
 15. [Africa's week in pictures: 30 July-5 August 2021](https://www.bbc.co.uk/news/world-africa-58073608) - A selection of the best photos from Africa's week dominated by the Olympics.
 16. [COP26: What is the UN climate conference in Glasgow and why is it so important?](https://www.bbc.co.uk/news/science-environment-56901261) - The annual climate change summit is being held in Glasgow - who's going and what's at stake?
-17. [Sharks from above: Filming 'friendly' encounters in Sydney](https://www.bbc.co.uk/news/world-australia-58009981) - Jason Iggleden captures stunning moments in Sydney, often helping to reduce people's fear.
-18. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-middle-east-58108697) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.
-19. [Tankus the Henge: Touring in France post-Brexit 'a puzzle'](https://www.bbc.co.uk/news/entertainment-arts-58063110) - Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.
-20. [Afghanistan: Mother of British soldier anger at war](https://www.bbc.co.uk/news/uk-58063109) - Nathalie's son Cpl Jake Hartley was killed while serving in Helmand in 2012.
-21. [Covid vaccine: Needle-phobic call for vaccine exemption](https://www.bbc.co.uk/news/health-58100674) - Adam has anxiety and a phobia of needles and has twice attempted to get a Covid-19 vaccine.
+17. [Afghan interpreter: 'A better life for my wife and children in the UK'](https://www.bbc.co.uk/news/uk-58124249) - Afghan interpreters who worked with British forces are being relocated to the UK, as the Taliban advance.
+18. [Sharks from above: Filming 'friendly' encounters in Sydney](https://www.bbc.co.uk/news/world-australia-58009981) - Jason Iggleden captures stunning moments in Sydney, often helping to reduce people's fear.
+19. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-middle-east-58108697) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.
+20. [Tankus the Henge: Touring in France post-Brexit 'a puzzle'](https://www.bbc.co.uk/news/entertainment-arts-58063110) - Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.
+21. [Afghanistan: Mother of British soldier anger at war](https://www.bbc.co.uk/news/uk-58063109) - Nathalie's son Cpl Jake Hartley was killed while serving in Helmand in 2012.
 22. [Kenny first GB woman to win gold at three games](https://www.bbc.co.uk/sport/olympics/58113628) - Laura Kenny and Katie Archibald win Olympic madison gold before Jack Carlin wins sprint bronze.
 23. [China: Backlash over marriage question in Olympian's interview](https://www.bbc.co.uk/news/world-asia-china-58110014) - Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".
 24. [Teenager Quan sets record to win women's diving gold](https://www.bbc.co.uk/sport/olympics/58097526) - Chinese diver Quan Hongchan, 14, sets a new world record to beat 15-year-old Chen Yuxi and win women's diving 10m platform gold.
