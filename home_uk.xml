@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 23:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 23:22:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,13 +58,6 @@
             <pubDate>Fri, 06 Aug 2021 17:07:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ed Sheeran named in Ipswich Town squad list and given number 17]]></title>
-            <description><![CDATA[The chart-topping artist lives in Suffolk and is a regular visitor to the club's ground.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58121177</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58121177</guid>
-            <pubDate>Fri, 06 Aug 2021 19:48:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Boris Johnson will not isolate after Covid case among staff]]></title>
             <description><![CDATA[No 10 says he was not in close contact with a staffer who tested positive during a visit to Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58123017</link>
@@ -72,11 +65,18 @@
             <pubDate>Fri, 06 Aug 2021 19:20:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Couple separated by pandemic get travel exemption to marry]]></title>
-            <description><![CDATA[Chris Quealy is allowed to leave Australia to wed Penny Steven in England, after 18 months apart.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58119159</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58119159</guid>
-            <pubDate>Fri, 06 Aug 2021 14:46:15 GMT</pubDate>
+            <title><![CDATA[Ed Sheeran named in Ipswich Town squad list and given number 17]]></title>
+            <description><![CDATA[The chart-topping artist lives in Suffolk and is a regular visitor to the club's ground.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58121177</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58121177</guid>
+            <pubDate>Fri, 06 Aug 2021 19:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[University clearing may be 'much more competitive' this year - Ucas boss]]></title>
+            <description><![CDATA["It's still a good year for clearing," says the admissions service boss, ahead of results day next week.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58124095</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58124095</guid>
+            <pubDate>Fri, 06 Aug 2021 23:02:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At risk Afghan journalists to be offered UK relocation]]></title>
@@ -84,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-58121472</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58121472</guid>
             <pubDate>Fri, 06 Aug 2021 22:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: First 16 and 17-year-olds offered jabs and the Edinburgh Fringe returns]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58119219</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58119219</guid>
-            <pubDate>Fri, 06 Aug 2021 16:33:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Footballer Kane denies he refused to train]]></title>
@@ -119,6 +112,20 @@
             <link>https://www.bbc.co.uk/news/uk-58124249</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58124249</guid>
             <pubDate>Fri, 06 Aug 2021 21:13:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dead Ringers impressionists on how Covid changed their work]]></title>
+            <description><![CDATA[Impressionists Jon Culshaw, Jan Ravens and Debra Stephenson on their ever-changing political material.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58079981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079981</guid>
+            <pubDate>Fri, 06 Aug 2021 23:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: Olympic athletes struggle with heat at Games]]></title>
+            <description><![CDATA[This Games are one of the warmest on record, with many athletes complaining about the high temperatures.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58110846</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58110846</guid>
+            <pubDate>Fri, 06 Aug 2021 23:08:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wolverhampton couple's wedding photo in Moon launch]]></title>
@@ -163,6 +170,48 @@
             <pubDate>Fri, 06 Aug 2021 10:59:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[COP26: What is the UN climate conference in Glasgow and why is it so important?]]></title>
+            <description><![CDATA[The annual climate change summit is being held in Glasgow - who's going and what's at stake?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-56901261</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56901261</guid>
+            <pubDate>Fri, 06 Aug 2021 07:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ryan Reynolds: Why Free Guy is more than a 'video game movie']]></title>
+            <description><![CDATA[The Canadian actor's latest film sees him play a different kind of "naïve and innocent" character.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58061823</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58061823</guid>
+            <pubDate>Fri, 06 Aug 2021 23:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mayflower 400 years: How many people are related to the Mayflower pilgrims?]]></title>
+            <description><![CDATA[For some, the17th century "pilgrim fathers" are also real-life ancestors. But for how many?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57698818</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57698818</guid>
+            <pubDate>Fri, 06 Aug 2021 23:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['We want trillions to heal our wounds']]></title>
+            <description><![CDATA[Descendants of victims of Germany's atrocities in Namibia say the money offered is not nearly enough.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57961151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57961151</guid>
+            <pubDate>Fri, 06 Aug 2021 23:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capturing the disappearing sounds of the workplace]]></title>
+            <description><![CDATA[An archive preserving sounds from offices, factories and shops will also be a resource for artists and musicians.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056235</guid>
+            <pubDate>Fri, 06 Aug 2021 21:57:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The activist entrepreneurs running zero-waste shops]]></title>
+            <description><![CDATA[Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57920754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57920754</guid>
+            <pubDate>Fri, 06 Aug 2021 21:24:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Energy price cap: What is it and how does it affect my bills?]]></title>
             <description><![CDATA[The regulator Ofgem announces that the energy price cap will rise - but how does it work?]]></description>
             <link>https://www.bbc.co.uk/news/business-58090533</link>
@@ -182,41 +231,6 @@
             <link>https://www.bbc.co.uk/news/stories-58089029</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-58089029</guid>
             <pubDate>Fri, 06 Aug 2021 09:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan war: I can still hear my cry, says mother of dead soldier]]></title>
-            <description><![CDATA[As fighting in Afghanistan rages, the BBC speaks to the mother of a British soldier who died there nearly 10 years ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58107220</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58107220</guid>
-            <pubDate>Thu, 05 Aug 2021 18:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Riots 10 years on: The five summer nights when London burned]]></title>
-            <description><![CDATA[In August 2011 a man was shot dead by police in London, triggering the worst civil unrest in decades.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58058031</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58058031</guid>
-            <pubDate>Fri, 06 Aug 2021 00:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zola: How a road trip became a viral story of sex trafficking]]></title>
-            <description><![CDATA[The epic Twitter saga of a 19-year-old that attracted thousands of followers hits the big screen.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58016738</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58016738</guid>
-            <pubDate>Thu, 05 Aug 2021 23:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine and needle phobia: 'It feels like the world is ending']]></title>
-            <description><![CDATA[Adam, 23, says he's so scared of needles he's been unable to get a Covid-19 jab.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58086377</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58086377</guid>
-            <pubDate>Fri, 06 Aug 2021 00:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Only way you'll get to Oxford is on a bus']]></title>
-            <description><![CDATA[Social mobility campaigner Sir Peter Lampl worries about the lack of fair opportunity for young people.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58013607</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58013607</guid>
-            <pubDate>Fri, 06 Aug 2021 00:17:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robinson continues England resurgence despite costly missed chances - highlights & report]]></title>
@@ -252,6 +266,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/58119049</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58119049</guid>
             <pubDate>Fri, 06 Aug 2021 22:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PSG to offer Messi two-year deal at meeting on Saturday - gossip]]></title>
+            <description><![CDATA[Chelsea enter the race for Messi as a deal for Lukaku edges closer, while West Ham are up against Juve for Milenkovic, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/58119362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/58119362</guid>
+            <pubDate>Fri, 06 Aug 2021 21:57:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Golds for GB cyclists Laura Kenny & Katie Archibald, Kate French wins modern pentathlon, Laura Muir takes 1500m silver]]></title>
