@@ -1,4 +1,4 @@
-1. [COP26: Government defends Alok Sharma over quarantine-free travel](https://www.bbc.co.uk/news/uk-politics-58112621) - Alok Sharma reportedly visited more than 30 countries as president of a climate change conference.
+1. [COP26: Alok Sharma criticised for international - and quarantine free - travel](https://www.bbc.co.uk/news/uk-politics-58112621) - Alok Sharma visited more than 30 countries to set up climate conference - and didn't quarantine.
 2. [Boris Johnson faces backlash over Thatcher coal mines comment](https://www.bbc.co.uk/news/uk-politics-58107009) - The PM said closing "so many" coal mines gave the UK an "early start" in climate fight.
 3. [COP26: How serious is the government about climate conference?](https://www.bbc.co.uk/news/uk-politics-58107010) - With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.
 4. [Covid: Live events to be protected by £750m government-backed insurance scheme](https://www.bbc.co.uk/news/entertainment-arts-58103249) - Music festivals are among the events in the UK that will be protected if they are forced to cancel.

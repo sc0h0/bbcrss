@@ -9,16 +9,14 @@
 9. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
 10. [WhatsApp 'view once' brings disappearing photos and videos](https://www.bbc.co.uk/news/technology-58087379) - The "view once" feature lets users open an image one time only before it is deleted forever.
 11. [Facebook and academics row over data access](https://www.bbc.co.uk/news/technology-58086628) - The social network accuses researchers of putting people's privacy at risk.
-12. [Blizzard Entertainment president steps down](https://www.bbc.co.uk/news/technology-58061231) - J Allen Brack quits the Call of Duty and Warcraft game-maker, amid staff protests and allegations of a sexist workplace culture.
-13. [Lauren Goodger foreign exchange Instagram advert banned](https://www.bbc.co.uk/news/newsbeat-58084534) - The TV star had been paid for a post that a watchdog says wasn't obviously identifiable as an ad.
-14. [How smart buildings could transform our experience of work](https://www.bbc.co.uk/news/technology-58014316) - Lara Lewington visits a new smart office block to see how technology could transform working lives.
-15. [CEO Secrets: Airbnb boss shares his business advice](https://www.bbc.co.uk/news/business-58025562) - Brian Chesky, co-founder and CEO of Airbnb, shares his business advice for the CEO Secrets series.
-16. [Untethered bi-pedal robot runs 5km and other tech news](https://www.bbc.co.uk/news/technology-58014320) - Jen Copestake looks at some of the best technology news stories of the week.
-17. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
-18. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
-19. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
-20. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - All of a sudden, WoW players are in revolt, and its competitors are having a boom.
-21. [Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel](https://www.bbc.co.uk/news/world-australia-58053519) - The short-form video platform is giving fans unprecedented insight into the athletes' experience.
-22. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
-23. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
-24. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
+12. [How smart buildings could transform our experience of work](https://www.bbc.co.uk/news/technology-58014316) - Lara Lewington visits a new smart office block to see how technology could transform working lives.
+13. [CEO Secrets: Airbnb boss shares his business advice](https://www.bbc.co.uk/news/business-58025562) - Brian Chesky, co-founder and CEO of Airbnb, shares his business advice for the CEO Secrets series.
+14. [Untethered bi-pedal robot runs 5km and other tech news](https://www.bbc.co.uk/news/technology-58014320) - Jen Copestake looks at some of the best technology news stories of the week.
+15. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
+16. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
+17. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
+18. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - All of a sudden, WoW players are in revolt, and its competitors are having a boom.
+19. [Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel](https://www.bbc.co.uk/news/world-australia-58053519) - The short-form video platform is giving fans unprecedented insight into the athletes' experience.
+20. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
+21. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
+22. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 09:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 09:54:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Fri, 06 Aug 2021 08:42:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Energy bills to rise by at least £139 for millions of households]]></title>
-            <description><![CDATA[Fuel poverty charities say the price cap increase will come at the worst time during winter.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58106105</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58106105</guid>
-            <pubDate>Fri, 06 Aug 2021 08:07:54 GMT</pubDate>
+            <title><![CDATA[Sprats return to the River Clyde in huge numbers]]></title>
+            <description><![CDATA[The return of the fish, a source of food for other species, signals an improvement in the river's ecosystem.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58114116</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58114116</guid>
+            <pubDate>Fri, 06 Aug 2021 09:34:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland's papers: PM's coal mines 'joke' and club's 'freedom party']]></title>
@@ -35,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58111683</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58111683</guid>
             <pubDate>Fri, 06 Aug 2021 07:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sprats return to the River Clyde in huge numbers]]></title>
-            <description><![CDATA[The return of the fish, a source of food for other species, signals an improvement in the river's ecosystem.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58114116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58114116</guid>
-            <pubDate>Fri, 06 Aug 2021 09:34:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson faces backlash over Thatcher coal mines comment]]></title>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58104430</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58104430</guid>
             <pubDate>Fri, 06 Aug 2021 05:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Energy bills to rise by at least £139 for millions of households]]></title>
+            <description><![CDATA[Fuel poverty charities say the price cap increase will come at the worst time during winter.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58106105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58106105</guid>
+            <pubDate>Fri, 06 Aug 2021 08:07:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RBS report: Hiring activity 'still rising sharply']]></title>
@@ -226,11 +226,11 @@
             <pubDate>Mon, 02 Aug 2021 19:15:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Laura Kenny sets record as she and Katie Archibald win madison gold]]></title>
-            <description><![CDATA[Laura Kenny becomes the first British woman to win gold at three Olympics as she and Katie Archibald are crowned madison champions.]]></description>
+            <title><![CDATA[Tokyo Olympics: Laura Kenny and Katie Archibald win madison gold before Jack Carlin wins sprint bronze.]]></title>
+            <description><![CDATA[Laura Kenny and Katie Archibald win Olympic madison gold before Jack Carlin wins sprint bronze.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58113628</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58113628</guid>
-            <pubDate>Fri, 06 Aug 2021 09:36:46 GMT</pubDate>
+            <pubDate>Fri, 06 Aug 2021 09:48:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Great Britain beat India to win women's hockey bronze]]></title>
@@ -245,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/football/58061278</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58061278</guid>
             <pubDate>Thu, 05 Aug 2021 21:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Gossip: Rangers, Celtic, St Johnstone, Dundee United, SPFL]]></title>
+            <description><![CDATA[SPFL sponsorship row with Rangers rumbles on, Celtic linked with Argentina full-back...]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58112032</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58112032</guid>
+            <pubDate>Fri, 06 Aug 2021 06:58:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
