@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 10:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 10:58:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Fri, 06 Aug 2021 09:37:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jennifer Aniston explains cutting off unvaccinated friends]]></title>
+            <description><![CDATA[The Friends actor has elaborated on why she has "lost a few people" who have refused the jab.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58112957</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58112957</guid>
+            <pubDate>Fri, 06 Aug 2021 10:43:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China: Backlash over marriage question in Olympian's interview]]></title>
             <description><![CDATA[Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-58110014</link>
@@ -59,17 +66,10 @@
         </item>
         <item>
             <title><![CDATA[Afghanistan: Dawa Khan Menapal assassinated in Kabul]]></title>
-            <description><![CDATA[The Taliban said its militants killed Dawa Khan Menapal in the capital on Friday.]]></description>
+            <description><![CDATA[Taliban militants killed Dawa Khan Menapal in the capital after warning they would target officials.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58112981</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58112981</guid>
             <pubDate>Fri, 06 Aug 2021 10:35:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple to scan iPhones for child sex abuse images]]></title>
-            <description><![CDATA[Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58109748</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58109748</guid>
-            <pubDate>Thu, 05 Aug 2021 23:35:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sam and Chris Gould: Twins' suicides lead to victim policing change]]></title>
@@ -219,13 +219,6 @@
             <pubDate>Thu, 05 Aug 2021 20:10:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Laura Kenny and Katie Archibald win historic gold in women's madison]]></title>
-            <description><![CDATA[Laura Kenny becomes the first British woman to win gold at three Olympic Games as she and Katie Archibald are crowned madison champions in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58113831</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58113831</guid>
-            <pubDate>Fri, 06 Aug 2021 09:16:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: GB's Jack Carlin wins bronze in individual sprint]]></title>
             <description><![CDATA[Watch as Team GB's Jack Carlin claims an impressive bronze medal in the men's individual sprint after beating ROC's Denis Dmitriev in two successive heats.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58115831</link>
@@ -247,6 +240,13 @@
             <pubDate>Fri, 06 Aug 2021 06:32:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GB boxer Price to fight for Olympic middleweight gold after narrow points win]]></title>
+            <description><![CDATA[Great Britain boxer Lauren Price will fight for a gold medal on the final day of Tokyo 2020 after winning her women's middleweight semi-final.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58111123</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58111123</guid>
+            <pubDate>Fri, 06 Aug 2021 06:30:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Great Britain win hockey bronze with thrilling victory against India]]></title>
             <description><![CDATA[Great Britain claim bronze in the women's hockey at Tokyo 2020 with a thrilling 4-3 victory against India.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58110122</link>
@@ -254,11 +254,18 @@
             <pubDate>Fri, 06 Aug 2021 04:54:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Gold for Laura Kenny & Katie Archibald, Lauren Price through & hockey bronze]]></title>
+            <title><![CDATA[Tokyo Olympics: Gold for Laura Kenny & Katie Archibald, Lauren Price through, hockey & cycling bronzes]]></title>
             <description><![CDATA[Cyclist Laura Kenny becomes the first British woman to win gold at three Olympics as Team GB move up to fourth in the medal table after more success on day 14.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58111115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58111115</guid>
-            <pubDate>Fri, 06 Aug 2021 09:56:14 GMT</pubDate>
+            <pubDate>Fri, 06 Aug 2021 10:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Laura Kenny and Katie Archibald win historic gold in women's madison]]></title>
+            <description><![CDATA[Laura Kenny becomes the first British woman to win gold at three Olympic Games as she and Katie Archibald are crowned madison champions in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58113831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58113831</guid>
+            <pubDate>Fri, 06 Aug 2021 09:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics medal table - which country has won most golds?]]></title>

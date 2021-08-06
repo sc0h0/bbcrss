@@ -1,4 +1,4 @@
-1. [Afghanistan: Dawa Khan Menapal assassinated in Kabul](https://www.bbc.co.uk/news/world-asia-58112981) - The Taliban said its militants killed Dawa Khan Menapal in the capital on Friday.
+1. [Afghanistan: Dawa Khan Menapal assassinated in Kabul](https://www.bbc.co.uk/news/world-asia-58112981) - Taliban militants killed Dawa Khan Menapal in the capital after warning they would target officials.
 2. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - China reacts angrily to the announcement, which allows thousands to stay in the US for 18 months.
 3. [China: Backlash over marriage question in Olympian's interview](https://www.bbc.co.uk/news/world-asia-china-58110014) - Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".
 4. [China: How Delta threatens a prized zero Covid strategy](https://www.bbc.co.uk/news/world-asia-china-58095909) - China's battling its widest outbreak since Wuhan - how long can it keep Covid out?
