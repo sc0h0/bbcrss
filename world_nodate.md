@@ -1,4 +1,4 @@
-1. [Taliban capture regional capital - Afghan officials](https://www.bbc.co.uk/news/world-asia-58119886) - The Taliban reportedly take a provincial capital, a key moment in their offensive on Afghan government forces.
+1. [Afghanistan war: Taliban capture regional capital Zaranj, officials say](https://www.bbc.co.uk/news/world-asia-58119886) - The Taliban reportedly take a provincial capital, a key moment in their offensive on Afghan government forces.
 2. [Olympics expels Belarus coaches over athlete removal](https://www.bbc.co.uk/news/world-europe-58095558) - Ms Timanovskaya said she was forced to leave Tokyo after she complained about her coaches online.
 3. [Vitaly Shishov: Belarus activist feared for life before he died](https://www.bbc.co.uk/news/world-europe-58095551) - The girlfriend of a Belarusian activist who died in Ukraine says he would never have killed himself.
 4. [Greece battles wildfires near Athens and on Evia island](https://www.bbc.co.uk/news/world-europe-58114106) - Strong winds and scorching heat fuel dozens of blazes, forcing thousands to evacuate.
