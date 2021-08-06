@@ -1,7 +1,7 @@
 1. [Afghanistan war: Taliban capture regional capital Zaranj, officials say](https://www.bbc.co.uk/news/world-asia-58119886) - The Taliban reportedly take a provincial capital, a key moment in their offensive on Afghan government forces.
 2. [Olympics expels Belarus coaches over athlete removal](https://www.bbc.co.uk/news/world-europe-58095558) - Ms Timanovskaya said she was forced to leave Tokyo after she complained about her coaches online.
 3. [Vitaly Shishov: Belarus activist feared for life before he died](https://www.bbc.co.uk/news/world-europe-58095551) - The girlfriend of a Belarusian activist who died in Ukraine says he would never have killed himself.
-4. [Greece battles wildfires near Athens and on Evia island](https://www.bbc.co.uk/news/world-europe-58114106) - Strong winds and scorching heat fuel dozens of blazes, forcing thousands to evacuate.
+4. [Greece battles deadly wildfires near Athens and on Evia island](https://www.bbc.co.uk/news/world-europe-58114106) - At least one person is confirmed dead, and thousands have been forced to flee their homes.
 5. [China: Backlash over marriage question in Olympian's interview](https://www.bbc.co.uk/news/world-asia-china-58110014) - Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".
 6. [CNN fires unvaccinated employees for going to office](https://www.bbc.co.uk/news/world-us-canada-58112125) - The network is among several US firms to require employees working with others to be vaccinated.
 7. [Jennifer Aniston explains cutting off unvaccinated friends](https://www.bbc.co.uk/news/entertainment-arts-58112957) - The Friends actor has elaborated on why she has "lost a few people" who have refused the jab.
@@ -18,7 +18,7 @@
 18. [Sharks from above: Filming 'friendly' encounters in Sydney](https://www.bbc.co.uk/news/world-australia-58009981) - Jason Iggleden captures stunning moments in Sydney, often helping to reduce people's fear.
 19. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-middle-east-58108697) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.
 20. [Tankus the Henge: Touring in France post-Brexit 'a puzzle'](https://www.bbc.co.uk/news/entertainment-arts-58063110) - Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.
-21. [Afghanistan: British soldier's mother tells of grief, years after his death](https://www.bbc.co.uk/news/uk-58063109) - Nathalie Bouzigues' son, Corporal Jake Hartley, was killed while serving in Helmand in 2012.
+21. [Afghanistan: Mother of British soldier anger at war](https://www.bbc.co.uk/news/uk-58063109) - Nathalie's son Cpl Jake Hartley was killed while serving in Helmand in 2012.
 22. [Covid vaccine: Needle-phobic call for vaccine exemption](https://www.bbc.co.uk/news/health-58100674) - Adam has anxiety and a phobia of needles and has twice attempted to get a Covid-19 vaccine.
 23. [Teenager Quan sets record to win women's diving gold](https://www.bbc.co.uk/sport/olympics/58097526) - Chinese diver Quan Hongchan, 14, sets a new world record to beat 15-year-old Chen Yuxi and win women's diving 10m platform gold.
 24. [Elaine Thompson-Herah: Instagram blocks gold medallist who shared race win](https://www.bbc.co.uk/sport/olympics/58094908) - The Jamaican sprinter was blocked after posting footage of her races on her Instagram account.
