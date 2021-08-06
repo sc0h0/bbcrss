@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 17:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 17:53:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/technology-58109748</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58109748</guid>
             <pubDate>Thu, 05 Aug 2021 23:35:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Virgin Galactic space flight tickets to start at $450,000]]></title>
+            <description><![CDATA[The firm has reopened ticket sales after successfully completing its first fully-crewed space flight in July.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58120009</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58120009</guid>
+            <pubDate>Fri, 06 Aug 2021 16:44:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jennifer Aniston explains cutting off unvaccinated friends]]></title>
@@ -63,41 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58106314</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58106314</guid>
             <pubDate>Thu, 05 Aug 2021 16:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US to allow visitors from Hong Kong to stay for 18 months]]></title>
-            <description><![CDATA[China reacts angrily to the announcement, which allows thousands to stay in the US for 18 months.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58105075</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58105075</guid>
-            <pubDate>Fri, 06 Aug 2021 06:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate Change: Half US cars to be zero-emission by 2030 - Biden]]></title>
-            <description><![CDATA[Cars produce nearly a third of US carbon emissions and sales of electric vehicles lag behind Europe.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58101907</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58101907</guid>
-            <pubDate>Thu, 05 Aug 2021 12:29:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Epstein meetings a huge mistake, says Bill Gates]]></title>
-            <description><![CDATA[The Microsoft co-founder says he should not have given the convicted sex offender "credibility".]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58099778</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58099778</guid>
-            <pubDate>Thu, 05 Aug 2021 10:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Cuomo faces impeachment threat as New York governor]]></title>
-            <description><![CDATA[Fellow Democrats are urging New York’s governor to quit or be forced out after a report into alleged harassment.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58105261</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58105261</guid>
-            <pubDate>Thu, 05 Aug 2021 17:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fish with 'human' teeth caught in North Carolina]]></title>
-            <description><![CDATA[The creature, caught in North Carolina, is believed to be a sheepshead fish.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58105044</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58105044</guid>
-            <pubDate>Thu, 05 Aug 2021 19:58:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tucker Carlson: What the Fox News host is doing in Hungary]]></title>
@@ -147,76 +119,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58017289</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58017289</guid>
             <pubDate>Fri, 30 Jul 2021 00:52:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Afghan interpreter to US homeless - the long road to the American dream]]></title>
-            <description><![CDATA[Thousands of Afghan interpreters have waited years to flee to the US. Arriving is a different story.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58020494</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58020494</guid>
-            <pubDate>Mon, 02 Aug 2021 19:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simone Biles: Young gymnasts comment on her withdrawal]]></title>
-            <description><![CDATA[The young athletes said the star showed that not everything needs to be sacrificed for titles.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58020080</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58020080</guid>
-            <pubDate>Thu, 29 Jul 2021 20:37:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[September 11 attacks: What happened that day and after]]></title>
-            <description><![CDATA[How the devastating 2001 plane attacks on America unfolded and how they shaped our age.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57698668</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57698668</guid>
-            <pubDate>Tue, 03 Aug 2021 11:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Billie Eilish: Critics praise 'defiant' second album, Happier Than Ever]]></title>
-            <description><![CDATA[The teen megastar's second album, Happier Than Ever, gives an unflinching portrayal of global fame.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58024655</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58024655</guid>
-            <pubDate>Fri, 30 Jul 2021 13:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How US military pullback in Iraq could benefit Iran]]></title>
-            <description><![CDATA[The withdrawal of remaining US combat troops could help Iran achieve its ambitions.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57976007</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57976007</guid>
-            <pubDate>Mon, 26 Jul 2021 19:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gender disparities still vex Tokyo Olympic Games]]></title>
-            <description><![CDATA[From breastfeeding to representation, women are still frustrated at most 'gender balanced' Games.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57937102</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57937102</guid>
-            <pubDate>Fri, 23 Jul 2021 20:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: Was US money used to fund risky research in China?]]></title>
-            <description><![CDATA[What's the row about virus research in China between a prominent Republican and Dr Anthony Fauci?]]></description>
-            <link>https://www.bbc.co.uk/news/57932699</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/57932699</guid>
-            <pubDate>Mon, 02 Aug 2021 16:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A weekend in America: Shootings in Washington spotlight growing problem]]></title>
-            <description><![CDATA[A stadium was sent into panic and a six-year-old was killed in two of the weekend's worst shootings.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57840801</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57840801</guid>
-            <pubDate>Mon, 19 Jul 2021 21:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finding 'Grace': Murder, DNA and ancestry]]></title>
-            <description><![CDATA[How a novel use of DNA and ancestry websites is helping police uncover clues in cold case murders.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57801794</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57801794</guid>
-            <pubDate>Fri, 16 Jul 2021 00:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Broadway dancer whose lockdown business bloomed]]></title>
-            <description><![CDATA[When Covid closed New York theatres, dancer Robbie Fairchild started a business that put down roots.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-57840115</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-57840115</guid>
-            <pubDate>Sat, 17 Jul 2021 23:22:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vauhxx Booker: Black man condemns charges over alleged race attack]]></title>
