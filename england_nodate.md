@@ -20,7 +20,7 @@
 20. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
 21. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
 22. [Covid in Bradford: 'I just want to see mum and dad one last time'](https://www.bbc.co.uk/news/uk-england-leeds-58115377) - Young people in Bradford share their intense experiences of the Covid pandemic in an inner city.
-23. [Covid-19: Man, 23, 'thought body could brush virus off'](https://www.bbc.co.uk/news/uk-england-merseyside-58121193) - Patients at the Royal Liverpool Hospital tell BBC North West Tonight about being ill with Covid-19.
+23. [Covid-19: Man, 23, 'thought body could brush off virus'](https://www.bbc.co.uk/news/uk-england-merseyside-58121193) - Patients at the Royal Liverpool Hospital tell BBC North West Tonight about being ill with Covid-19.
 24. [London riots: 'My shop was burned down but we came back stronger'](https://www.bbc.co.uk/news/uk-england-london-58031162) - Trevor Reeves and Bushra Ahmed both lost businesses during a night of violence in August 2011.
 25. ['I proved them wrong'](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58111780) - John Noble's recovery from an accident which left him with severe injuries has been described as a "miracle".
 26. [Nottingham phone thieves distracted victims by dancing](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58103794) - Police say the men pretended to be drunk to distract their student victims.
