@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 02:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 03:00:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Belarus: IOC expels two coaches over Krystina Timanovskaya case]]></title>
+            <description><![CDATA[Ms Timanovskaya said she was forced to leave Tokyo after she complained about her coaches online.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58095558</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58095558</guid>
+            <pubDate>Fri, 06 Aug 2021 02:40:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Live events to be protected by £750m government insurance scheme]]></title>
             <description><![CDATA[Music festivals are among the events in the UK that will be protected if they are forced to cancel.]]></description>
@@ -37,13 +44,6 @@
             <pubDate>Thu, 05 Aug 2021 21:00:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghan war: I can still hear my cry, says mother of dead soldier]]></title>
-            <description><![CDATA[As fighting in Afghanistan rages, the BBC speaks to the mother of a British soldier who died there nearly 10 years ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58107220</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58107220</guid>
-            <pubDate>Thu, 05 Aug 2021 18:01:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A-levels: Bumper year for top grades predicted]]></title>
             <description><![CDATA[Results could see very high grades this year, which could put pressure on some university courses.]]></description>
             <link>https://www.bbc.co.uk/news/education-58106929</link>
@@ -58,18 +58,18 @@
             <pubDate>Thu, 05 Aug 2021 23:02:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghan war: I can still hear my cry, says mother of dead soldier]]></title>
+            <description><![CDATA[As fighting in Afghanistan rages, the BBC speaks to the mother of a British soldier who died there nearly 10 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58107220</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58107220</guid>
+            <pubDate>Thu, 05 Aug 2021 18:01:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Women in hotel quarantine to get harassment reporting line]]></title>
             <description><![CDATA[The government takes a new step to prevent sexual harassment by security guards in quarantine hotels.]]></description>
             <link>https://www.bbc.co.uk/news/stories-58089029</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-58089029</guid>
             <pubDate>Fri, 06 Aug 2021 00:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belarus Olympian Timanovskaya says grandmother warned her not to come home]]></title>
-            <description><![CDATA[Krystina Timanovskaya says she fled after being warned it was not safe to fly home from the Olympics.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58104195</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58104195</guid>
-            <pubDate>Thu, 05 Aug 2021 15:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazon delays office return until 2022 as Covid spreads]]></title>
@@ -79,18 +79,18 @@
             <pubDate>Thu, 05 Aug 2021 20:47:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jack Grealish: Man City sign England midfielder from Aston Villa for £100m]]></title>
-            <description><![CDATA[England midfielder Jack Grealish joins Manchester City from Aston Villa for a British record transfer fee of £100m.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/57818660</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57818660</guid>
-            <pubDate>Thu, 05 Aug 2021 21:44:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US to allow visitors from Hong Kong to stay for 18 months]]></title>
             <description><![CDATA[Thousands can stay in US for 18 months because China is eroding territory's freedoms, the US president says.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58105075</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58105075</guid>
             <pubDate>Fri, 06 Aug 2021 01:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jack Grealish: Man City sign England midfielder from Aston Villa for £100m]]></title>
+            <description><![CDATA[England midfielder Jack Grealish joins Manchester City from Aston Villa for a British record transfer fee of £100m.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/57818660</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/57818660</guid>
+            <pubDate>Thu, 05 Aug 2021 21:44:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thatcher helped climate by closing coal mines, says Boris Johnson]]></title>
@@ -247,18 +247,18 @@
             <pubDate>Thu, 05 Aug 2021 19:57:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Belarus Olympian Timanovskaya says grandmother warned her not to come home]]></title>
+            <description><![CDATA[Krystina Timanovskaya says she fled after being warned it was not safe to fly home from the Olympics.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58104195</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58104195</guid>
+            <pubDate>Thu, 05 Aug 2021 15:41:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Valentino Rossi: Nine-time world champion to retire at end of 2021 MotoGP season]]></title>
             <description><![CDATA[Italian MotoGP great Valentino Rossi says this season will be his last.]]></description>
             <link>https://www.bbc.co.uk/sport/motorsport/58097548</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/58097548</guid>
             <pubDate>Thu, 05 Aug 2021 15:51:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v India highlights: James Anderson leads England fightback on day two]]></title>
-            <description><![CDATA[James Anderson takes two wickets in two balls to lead an England fightback on day two of the First Test with India at Trent Bridge, leaving the tourists 125-4 at the close of play.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58108046</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58108046</guid>
-            <pubDate>Thu, 05 Aug 2021 17:03:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indian women's hockey: Sixteen stories of struggle, one tale of triumph]]></title>

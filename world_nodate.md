@@ -1,5 +1,5 @@
-1. [US urges Iran's new President Ebrahim Raisi to resume nuclear talks](https://www.bbc.co.uk/news/world-middle-east-58109087) - The state department says Ebrahim Raisi should seize the opportunity to revive a landmark 2015 deal.
-2. [Belarus Olympian Timanovskaya says grandmother warned her not to come home](https://www.bbc.co.uk/news/world-europe-58104195) - Krystina Timanovskaya says she fled after being warned it was not safe to fly home from the Olympics.
+1. [Olympics expels Belarus coaches over athlete removal](https://www.bbc.co.uk/news/world-europe-58095558) - Ms Timanovskaya said she was forced to leave Tokyo after she complained about her coaches online.
+2. [US urges Iran's new President Ebrahim Raisi to resume nuclear talks](https://www.bbc.co.uk/news/world-middle-east-58109087) - The state department says Ebrahim Raisi should seize the opportunity to revive a landmark 2015 deal.
 3. [Sharks from above: Filming 'friendly' encounters in Sydney](https://www.bbc.co.uk/news/world-australia-58009981) - Jason Iggleden captures stunning moments in Sydney, often helping to reduce people's fear.
 4. [Apple to scan iPhones for child sex abuse images](https://www.bbc.co.uk/news/technology-58109748) - Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.
 5. [Lalibela: Ethiopia's Tigray rebels take Unesco world heritage town](https://www.bbc.co.uk/news/world-africa-58101912) - Forces from the Tigray region have taken control of Lalibela, home to famed rock-hewn churches.
