@@ -4,7 +4,7 @@
 4. [China: Backlash over marriage question in Olympian's interview](https://www.bbc.co.uk/news/world-asia-china-58110014) - Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".
 5. [Apple to scan iPhones for child sex abuse images](https://www.bbc.co.uk/news/technology-58109748) - Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.
 6. [Belarus: IOC expels two coaches over Krystina Timanovskaya case](https://www.bbc.co.uk/news/world-europe-58095558) - Ms Timanovskaya said she was forced to leave Tokyo after she complained about her coaches online.
-7. [Covid: Most of Wales' coronavirus rules to end Saturday](https://www.bbc.co.uk/news/uk-wales-58102007) - Nightclubs will be able to reopen, but face masks will still be needed in shops and hospitals.
+7. [Sam and Chris Gould: Twins' suicides leads to victim policing change](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58072098) - Sam and Chris Gould took their own lives after a sex abuse investigation was dropped.
 8. [A-levels: Bumper year for top grades predicted](https://www.bbc.co.uk/news/education-58106929) - Results could see very high grades this year, which could put pressure on some university courses.
 9. [Starter salaries rising amid candidate shortages](https://www.bbc.co.uk/news/business-58104399) - KPMG research shows now is a good time to be looking for a job, due to high demand from employers.
 10. [Australia borders: Citizens living overseas could be 'trapped' if they return](https://www.bbc.co.uk/news/world-australia-58110308) - Australians who live overseas will require exemptions to leave Australia if they return home.
