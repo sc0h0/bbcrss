@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 14:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 14:51:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -104,7 +104,7 @@
             <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Thu, 05 Aug 2021 13:53:33 GMT</pubDate>
+            <pubDate>Fri, 06 Aug 2021 14:43:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: How will the rules change on 9 August?]]></title>
@@ -252,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/football/58103699</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58103699</guid>
             <pubDate>Fri, 06 Aug 2021 12:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Director pay and bonus rules for SPFL clubs' loan]]></title>
+            <description><![CDATA[Scottish ministers have put strict conditions on £25.2m worth of emergency Covid loans given to Scottish football clubs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58104430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58104430</guid>
+            <pubDate>Fri, 06 Aug 2021 05:05:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
