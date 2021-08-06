@@ -14,7 +14,7 @@
 14. [The Offspring drummer Pete Parada says he was dropped over vaccine refusal](https://www.bbc.co.uk/news/entertainment-arts-58085459) - Pete Parada says a doctor advised him not to have the jab because of a rare autoimmune disorder.
 15. [Top Gear production to move to Bristol from 2022](https://www.bbc.co.uk/news/entertainment-arts-58086981) - The long-running BBC motoring show will move out of London next year.
 16. [Wagatha Christie: Jamie Vardy's phone may be analysed in libel case](https://www.bbc.co.uk/news/newsbeat-58093015) - The device could now be inspected as part of Rebekah Vardy's and Coleen Rooney's libel battle.
-17. ['It just isn't sustainable' - Why touring in the EU problematic for British bands](https://www.bbc.co.uk/news/entertainment-arts-58006647) - One band explain what it's been like trying to tour in France in the age of Covid and Brexit.
+17. [Why touring in the EU is problematic for British bands](https://www.bbc.co.uk/news/entertainment-arts-58006647) - One band explain what it's been like trying to tour in France in the age of Covid and Brexit.
 18. [Barbra Streisand: 'I've always had the right to sing what I want'](https://www.bbc.co.uk/news/entertainment-arts-58056164) - The star looks back at her career, and explains how she's always maintained creative control.
 19. [Bennifer 2.0: How Jennifer Lopez and Ben Affleck got us talking again](https://www.bbc.co.uk/news/entertainment-arts-58030649) - How a viral photo of Jennifer Lopez and Ben Affleck exposed the internet's lust for nostalgia.
 20. [Annabel Williams: Behind the scenes secrets of a celebrity vocal coach](https://www.bbc.co.uk/news/newsbeat-57992447) - She has voice-trained Amy Winehouse, Jennifer Hudson and reckons she can help anyone to sing.

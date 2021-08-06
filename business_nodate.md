@@ -1,4 +1,4 @@
-1. [Energy prices rise again for millions of households](https://www.bbc.co.uk/news/business-58106105) - Fuel poverty charities say the price cap increase will come at the worst time during winter.
+1. [Energy bills to rise by at least £139 for millions of households](https://www.bbc.co.uk/news/business-58106105) - Fuel poverty charities say the price cap increase will come at the worst time during winter.
 2. [Starter salaries rising amid candidate shortages](https://www.bbc.co.uk/news/business-58104399) - KPMG research shows now is a good time to be looking for a job, due to high demand from employers.
 3. [South Park creators sign $900m deal to make seasons and movies](https://www.bbc.co.uk/news/business-58109993) - The agreement comes as technology and media giants battle to dominate the global streaming market.
 4. [Amazon delays office return until 2022 as Covid spreads](https://www.bbc.co.uk/news/business-58108457) - Amazon joins Wells Fargo and BlackRock in extending work-from-home guidance due to the pandemic.

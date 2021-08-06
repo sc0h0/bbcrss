@@ -24,4 +24,4 @@
 24. ['Coedwigoedd newydd yn dinistrio cymunedau gwledig'](https://www.bbc.co.uk/newyddion/58103913) - Wrth werthu ffermydd i greu coedwigoedd, rhybudd bod "y gymuned, iaith ac hyd yn oed enwau'r caeau" yn diflannu.
 25. ['Mae fy rhieni wedi eu sugno i fyd o gelwydd Covid-19'](https://www.bbc.co.uk/newyddion/58103919) - Menyw'n galw am atal gwefannau sy'n rhannu newyddion ffug yn dilyn profiad personol ei theulu.
 26. [Brwydr y Bandiau: Pwy yw'r pedwar olaf?](https://www.bbc.co.uk/newyddion/58079521) - Dod i adnabod bandiau rownd derfynol Brwydr y Bandiau 2021.
-27. [Cyngres Europa: Y Seintiau Newydd yn trechu Plzeň](https://www.bbc.co.uk/newyddion/58106005) - Buddugoliaeth i'r Seintiau yng Nghyngres Europa yn erbyn Viktoria Plzeň o'r Weriniaeth Tsiec.
+27. [Lauren Price i ymladd am fedal aur yn y Gemau Olympaidd](https://www.bbc.co.uk/newyddion/58112022) - Mae'r bocsiwr wedi sicrhau lle yn rownd derfynol cystadleuaeth pwysau canol y merched ddydd Sul.
