@@ -11,7 +11,7 @@
 11. [Turkish influencer prosecuted 'for photos at Amsterdam sex museum'](https://www.bbc.co.uk/news/world-europe-58102368) - Merve Taskin says she faces obscenity charges in Turkey after posting "joke" photos of sex toys.
 12. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - Thousands can stay in US for 18 months because China is eroding territory's freedoms, the US president says.
 13. [Mozambique insurgency: Rwanda leads the fightback](https://www.bbc.co.uk/news/world-africa-58079510) - A 1,000-strong force has made major gains against the insurgents since its deployment last month.
-14. [Indian women's hockey: Sixteen stories of struggle, one tale of triumph](https://www.bbc.co.uk/news/world-asia-india-58071416) - India will compete for a medal as they take on Great Britain in the bronze medal playoff.
+14. [Indian women's hockey: Sixteen stories of struggle, one tale of triumph](https://www.bbc.co.uk/news/world-asia-india-58071416) - Fighting until the very end, India go down 3-4 to Great Britain in the bronze medal playoff.
 15. [Africa's week in pictures: 30 July-5 August 2021](https://www.bbc.co.uk/news/world-africa-58073608) - A selection of the best photos from Africa's week dominated by the Olympics.
 16. [Tucker Carlson: What the Fox News host is doing in Hungary](https://www.bbc.co.uk/news/world-europe-58104200) - The controversial news host is the latest high-profile ally of Hungary's embattled prime minister.
 17. [COP26: What is the UN climate conference in Glasgow and why is it so important?](https://www.bbc.co.uk/news/science-environment-56901261) - The annual climate change summit is being held in Glasgow - who's going and what's at stake?
