@@ -21,6 +21,6 @@
 21. [Tokyo Olympics: Golds for GB cyclists Laura Kenny & Katie Archibald, Kate French wins modern pentathlon, Laura Muir takes 1500m silver](https://www.bbc.co.uk/sport/olympics/58116800) - Cyclist Laura Kenny becomes the first British woman to win gold at three Olympics, pentathlete Kate French triumphs and Laura Muir wins 1500m silver at Tokyo 2020.
 22. [Teyrnged teulu i fachgen tair oed fu farw ar fferm](https://www.bbc.co.uk/newyddion/58118173) - Cafodd Ianto Siôr Jenkins ei ladd mewn digwyddiad ar fferm ger Efailwen yn Sir Gaerfyrddin ddydd Mawrth.
 23. [Codi'r rhan fwyaf o gyfyngiadau Covid Cymru ddydd Sadwrn](https://www.bbc.co.uk/newyddion/58106002) - 17 mis ers y cyfnod clo cyntaf, bydd y rhan fwyaf o gyfyngiadau coronafeirws Cymru'n cael eu llacio ddydd Sadwrn.
-24. ['Coedwigoedd newydd yn dinistrio cymunedau gwledig'](https://www.bbc.co.uk/newyddion/58103913) - Rhybudd bod "y gymuned, iaith ac hyd yn oed enwau'r caeau" yn diflannu wrth werthu ffermydd.
+24. [Logan Mwangi: Dyddiad ar gyfer achos llofruddiaeth](https://www.bbc.co.uk/newyddion/58114784) - Tri diffynnydd yn Llys Goron ar gyhuddiadau'n ymwneud â marwolaeth y bachgen pump oed.
 25. [20 mlynedd ers i ferch gipio'r Gadair am y tro cyntaf](https://www.bbc.co.uk/newyddion/58105462) - Mererid Hopwood yn cofio ei chadeirio yn Eisteddfod Genedlaethol Dinbych 2001.
 26. [Lauren Price i ymladd am fedal aur yn y Gemau Olympaidd](https://www.bbc.co.uk/newyddion/58112022) - Mae'r bocsiwr wedi sicrhau lle yn rownd derfynol cystadleuaeth pwysau canol y merched ddydd Sul.
