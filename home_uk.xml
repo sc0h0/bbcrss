@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 11:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 12:34:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Fri, 06 Aug 2021 10:17:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jennifer Aniston explains cutting off unvaccinated friends]]></title>
-            <description><![CDATA[The Friends actor has elaborated on why she has "lost a few people" who have refused the jab.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58112957</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58112957</guid>
-            <pubDate>Fri, 06 Aug 2021 10:43:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Alpaca farmer vows to stand between gunman and condemned Geronimo]]></title>
             <description><![CDATA[Geronimo the alpaca is condemned to death after twice testing positive for bovine tuberculosis.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58114686</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-58114686</guid>
             <pubDate>Fri, 06 Aug 2021 11:30:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jennifer Aniston explains cutting off unvaccinated friends]]></title>
+            <description><![CDATA[The Friends actor has elaborated on why she has "lost a few people" who have refused the jab.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58112957</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58112957</guid>
+            <pubDate>Fri, 06 Aug 2021 10:43:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CNN fires unvaccinated employees for going to office]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/stories-58089029</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-58089029</guid>
             <pubDate>Fri, 06 Aug 2021 09:37:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Morrisons agrees to raised £6.7bn takeover offer from Fortress]]></title>
+            <description><![CDATA[The new £6.7bn bid for the supermarket from Fortress comes amid rumours of a rival offer from another US firm.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58112224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58112224</guid>
+            <pubDate>Fri, 06 Aug 2021 11:42:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China: Backlash over marriage question in Olympian's interview]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58072098</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58072098</guid>
             <pubDate>Fri, 06 Aug 2021 08:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia borders: Citizens living overseas could be 'trapped' if they return]]></title>
-            <description><![CDATA[Australians who live overseas will require exemptions to leave Australia if they return home.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58110308</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58110308</guid>
-            <pubDate>Fri, 06 Aug 2021 04:17:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wolverhampton couple's wedding photo in Moon launch]]></title>
@@ -226,13 +226,6 @@
             <pubDate>Thu, 05 Aug 2021 20:10:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GB's French storms to modern pentathlon gold]]></title>
-            <description><![CDATA[Kate French storms away from the field with a dominant run in the final event of the modern pentathlon to earn Great Britain's 18th gold of the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58114320</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58114320</guid>
-            <pubDate>Fri, 06 Aug 2021 11:18:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: GB's Jack Carlin wins bronze in individual sprint]]></title>
             <description><![CDATA[Watch as Team GB's Jack Carlin claims an impressive bronze medal in the men's individual sprint after beating ROC's Denis Dmitriev in two successive heats.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58115831</link>
@@ -261,11 +254,25 @@
             <pubDate>Thu, 05 Aug 2021 19:19:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Gold for Laura Kenny & Katie Archibald, Lauren Price through, hockey & cycling bronzes]]></title>
-            <description><![CDATA[Cyclist Laura Kenny becomes the first British woman to win gold at three Olympics as Team GB move up to fourth in the medal table after more success on day 14.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58111115</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58111115</guid>
-            <pubDate>Fri, 06 Aug 2021 10:51:42 GMT</pubDate>
+            <title><![CDATA['We can't get caught up in the scrapping' - Lawes targeting up-tempo Lions decider]]></title>
+            <description><![CDATA[Flanker Courtney Lawes says the British and Irish Lions cannot get caught up in "scrapping" with South Africa in Saturday's decisive third Test.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58113948</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58113948</guid>
+            <pubDate>Fri, 06 Aug 2021 10:09:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Golds for GB cyclists Laura Kenny & Katie Archibald, and Kate French in modern pentathlon]]></title>
+            <description><![CDATA[Cyclist Laura Kenny becomes the first British woman to win gold at three Olympics and pentathlete Kate French triumphs as Team GB move up to fourth in the medal table.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58116800</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58116800</guid>
+            <pubDate>Fri, 06 Aug 2021 11:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Kate French storms to modern pentathlon gold for Great Britain]]></title>
+            <description><![CDATA[Kate French storms away from the field with a dominant run in the final event of the modern pentathlon to earn Great Britain's 18th gold of the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58114320</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58114320</guid>
+            <pubDate>Fri, 06 Aug 2021 12:11:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Laura Kenny and Katie Archibald win historic gold in women's madison]]></title>
@@ -357,6 +364,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
             <pubDate>Thu, 05 Aug 2021 15:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
+            <description><![CDATA[What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-56997931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56997931</guid>
+            <pubDate>Fri, 06 Aug 2021 12:02:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the holiday rules for travel to green, amber and red list countries?]]></title>

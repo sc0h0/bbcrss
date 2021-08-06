@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 11:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 12:36:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Fri, 06 Aug 2021 11:42:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boris Johnson faces backlash over Thatcher coal mines comment]]></title>
-            <description><![CDATA[The PM said closing "so many" coal mines gave the UK an "early start" in climate fight.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58107009</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107009</guid>
-            <pubDate>Fri, 06 Aug 2021 08:52:36 GMT</pubDate>
+            <title><![CDATA[No apology from Boris Johnson over Thatcher coal mine closures remark]]></title>
+            <description><![CDATA[But No 10 said Boris Johnson recognises the pain of closures, after he said they helped the climate.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58117044</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58117044</guid>
+            <pubDate>Fri, 06 Aug 2021 12:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: How serious is the government about climate conference?]]></title>
@@ -51,13 +51,6 @@
             <pubDate>Fri, 06 Aug 2021 06:37:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conservative donors have no influence on policy, insists Grant Shapps]]></title>
-            <description><![CDATA[Grant Shapps defends big donors getting access to Boris Johnson and Rishi Sunak.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58098887</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58098887</guid>
-            <pubDate>Thu, 05 Aug 2021 10:34:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Keeping old computers going costs government £2.3bn a year, says report]]></title>
             <description><![CDATA[Just under half the entire IT budget goes on patching up outdated systems, a government report says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58085316</link>
@@ -70,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58103843</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58103843</guid>
             <pubDate>Thu, 05 Aug 2021 19:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conservative donors have no influence on policy, insists Grant Shapps]]></title>
+            <description><![CDATA[Grant Shapps defends big donors getting access to Boris Johnson and Rishi Sunak.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58098887</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58098887</guid>
+            <pubDate>Thu, 05 Aug 2021 10:34:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paul Embery: Pro-Brexit fire union official unfairly sacked, tribunal finds]]></title>
@@ -366,6 +366,13 @@
             <pubDate>Wed, 28 Jul 2021 15:12:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Boris Johnson: Why mining gaffe will linger after Scottish visit]]></title>
+            <description><![CDATA[Boris Johnson put his foot in it by joking that Margaret Thatcher gave the UK a "big early start" in the shift away from coal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58117514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58117514</guid>
+            <pubDate>Fri, 06 Aug 2021 12:19:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Riots 10 years on: The five summer nights when London burned]]></title>
             <description><![CDATA[In August 2011 a man was shot dead by police in London, triggering the worst civil unrest in decades.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58058031</link>
@@ -380,18 +387,18 @@
             <pubDate>Thu, 05 Aug 2021 15:24:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Behind-the-scenes battles over amber watchlist]]></title>
-            <description><![CDATA[Cabinet divisions over international travel rules spilled out into the open this week, writes Adam Fleming.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58072985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58072985</guid>
-            <pubDate>Tue, 03 Aug 2021 12:27:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Indyref2: Why has the campaign for another vote gone quiet?]]></title>
             <description><![CDATA[Boris Johnson visits Scotland with no sign an independence referendum will be soon, writes Nick Eardley.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58079551</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079551</guid>
             <pubDate>Wed, 04 Aug 2021 07:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Behind-the-scenes battles over amber watchlist]]></title>
+            <description><![CDATA[Cabinet divisions over international travel rules spilled out into the open this week, writes Adam Fleming.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58072985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58072985</guid>
+            <pubDate>Tue, 03 Aug 2021 12:27:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tragedy became Sliding Doors moment for politician]]></title>

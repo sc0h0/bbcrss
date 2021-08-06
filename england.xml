@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 11:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 12:30:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,32 @@
             <pubDate>Fri, 06 Aug 2021 00:01:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boris Johnson faces backlash over Thatcher coal mines comment]]></title>
-            <description><![CDATA[The PM said closing "so many" coal mines gave the UK an "early start" in climate fight.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58107009</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107009</guid>
-            <pubDate>Fri, 06 Aug 2021 08:52:36 GMT</pubDate>
+            <title><![CDATA[Cornwall visitors putting pressure on services]]></title>
+            <description><![CDATA[Numbers of visitors to Cornwall are exceptionally high, with pressure on roads and health services.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58099906</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58099906</guid>
+            <pubDate>Fri, 06 Aug 2021 11:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magistrates' court sends woman's address to abuser 'in error']]></title>
+            <description><![CDATA[A woman's "life has fallen apart" after learning her violent husband was given her new address.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58089705</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58089705</guid>
+            <pubDate>Fri, 06 Aug 2021 11:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Bradford: 'I just want to see mum and dad one last time']]></title>
+            <description><![CDATA[Young people in Bradford share their intense experiences of the Covid pandemic in an inner city.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58115377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58115377</guid>
+            <pubDate>Fri, 06 Aug 2021 11:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No apology from Boris Johnson over Thatcher coal mine closures remark]]></title>
+            <description><![CDATA[But No 10 said Boris Johnson recognises the pain of closures, after he said they helped the climate.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58117044</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58117044</guid>
+            <pubDate>Fri, 06 Aug 2021 12:16:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pride in London parade cancelled for second year]]></title>
@@ -44,32 +65,11 @@
             <pubDate>Fri, 06 Aug 2021 10:22:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghan war: I can still hear my cry, says mother of dead soldier]]></title>
-            <description><![CDATA[As fighting in Afghanistan rages, the BBC speaks to the mother of a British soldier who died there nearly 10 years ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58107220</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58107220</guid>
-            <pubDate>Thu, 05 Aug 2021 18:01:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kaylee-Jayde Priest: Mother and boyfriend convicted of manslaughter]]></title>
             <description><![CDATA[Kaylee-Jayde Priest's grandmother said she was "stolen from me in the most brutal of ways".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58106169</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58106169</guid>
             <pubDate>Thu, 05 Aug 2021 18:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bournemouth beach closed after 'large animal' spotted in sea]]></title>
-            <description><![CDATA[Visitors say there was a shark sighting, though lifeguards were unable to identify the animal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58090890</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58090890</guid>
-            <pubDate>Thu, 05 Aug 2021 14:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dea-John Reid: Five people deny murdering boy, 14]]></title>
-            <description><![CDATA[Two men and three teenagers plead not guilty over the death of Dea-John Reid.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58108657</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58108657</guid>
-            <pubDate>Thu, 05 Aug 2021 20:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Max Whitlock gets hero's welcome at gym club]]></title>
@@ -84,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58102566</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58102566</guid>
             <pubDate>Fri, 06 Aug 2021 10:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
+            <description><![CDATA[What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-56997931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56997931</guid>
+            <pubDate>Fri, 06 Aug 2021 12:02:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the holiday rules for travel to green, amber and red list countries?]]></title>
@@ -112,13 +119,6 @@
             <link>https://www.bbc.co.uk/news/health-57273875</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
             <pubDate>Thu, 05 Aug 2021 09:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Thu, 05 Aug 2021 16:25:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why bonding over the Euros appeared to increase Covid cases in men]]></title>
