@@ -4,7 +4,7 @@
 4. [Families of 9/11 victims tell Biden not attend memorial events](https://www.bbc.co.uk/news/world-us-canada-58121267) - Relatives of the 2001 terror attack victims say Mr Biden must declassify what role Saudi Arabia had.
 5. [US economy adds more jobs than expected in July](https://www.bbc.co.uk/news/business-58118016) - US employers added 943,000 jobs in July, while the unemployment rate fell to 5.4%.
 6. [Virgin Galactic space flight tickets to start at $450,000](https://www.bbc.co.uk/news/business-58120009) - The firm has reopened ticket sales after successfully completing its first fully-crewed space flight in July.
-7. [Two arrested over plot to kill Myanmar UN ambassador - US](https://www.bbc.co.uk/news/world-us-canada-58088866) - Ambassador Kyaw Moe Tun is a vocal critic of Myanmar's junta, which seized power in a coup on 1 February.
+7. [Two arrested over plot to kill Myanmar UN ambassador](https://www.bbc.co.uk/news/world-us-canada-58088866) - Ambassador Kyaw Moe Tun is a vocal critic of Myanmar's junta, which seized power in a coup on 1 February.
 8. [Jennifer Aniston explains cutting off unvaccinated friends](https://www.bbc.co.uk/news/entertainment-arts-58112957) - The Friends actor has elaborated on why she has "lost a few people" who have refused the jab.
 9. [CNN fires unvaccinated employees for going to office](https://www.bbc.co.uk/news/world-us-canada-58112125) - The network is among several US firms to require employees working with others to be vaccinated.
 10. [Felix sets record with 10th Olympic medal](https://www.bbc.co.uk/sport/olympics/58117306) - American Allyson Felix becomes the most decorated female track and field athlete of all time by taking 400m bronze for her 10th Olympic medal.
