@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 16:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 17:07:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -62,7 +62,7 @@
             <description><![CDATA[The brand apologises for a "misunderstanding" after its Spanish commercial was heavily criticised.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58120598</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58120598</guid>
-            <pubDate>Fri, 06 Aug 2021 16:07:33 GMT</pubDate>
+            <pubDate>Fri, 06 Aug 2021 17:07:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[St Vincent and the Grenadines leader hit during anti-vaccine mandate protest]]></title>
@@ -163,6 +163,13 @@
             <pubDate>Thu, 05 Aug 2021 23:01:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kenny first GB woman to win gold at three games]]></title>
+            <description><![CDATA[Laura Kenny and Katie Archibald win Olympic madison gold before Jack Carlin wins sprint bronze.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58113628</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58113628</guid>
+            <pubDate>Fri, 06 Aug 2021 10:34:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Teenager Quan sets record to win women's diving gold]]></title>
             <description><![CDATA[Chinese diver Quan Hongchan, 14, sets a new world record to beat 15-year-old Chen Yuxi and win women's diving 10m platform gold.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58097526</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58043512</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58043512</guid>
             <pubDate>Wed, 04 Aug 2021 16:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics medal table - which country has won most golds?]]></title>
-            <description><![CDATA[Which country is leading the medal table? How are Great Britain getting on? Medals table for the 2020 Olympics in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57836709</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57836709</guid>
-            <pubDate>Sun, 01 Aug 2021 14:10:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
