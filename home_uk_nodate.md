@@ -1,7 +1,7 @@
 1. [Kenny first GB woman to win gold at three games](https://www.bbc.co.uk/sport/olympics/58113628) - Laura Kenny and Katie Archibald win Olympic madison gold before Jack Carlin wins sprint bronze.
 2. [Covid: First 16 and 17-year-olds begin to get vaccine invites](https://www.bbc.co.uk/news/uk-58112765) - It comes as new figures show most patients in hospital with Covid in England are unvaccinated.
 3. [Brighton toddler death: Verphy Kudi jailed for leaving toddler alone for days](https://www.bbc.co.uk/news/uk-england-sussex-58102792) - Verphy Kudi's 20-month-old-daughter died from influenza and starvation after being left alone.
-4. [Afghanistan war: Taliban capture regional capital Zaranj](https://www.bbc.co.uk/news/world-asia-58119886) - Officials say the insurgents have taken the southern city of Zaranj, in a big blow to government forces.
+4. [Afghanistan war: Taliban capture regional capital Zaranj](https://www.bbc.co.uk/news/world-asia-58119886) - Officials say the insurgents took the southern city of Zaranj, in a big blow to government forces.
 5. [Couple separated by pandemic get travel exemption to marry](https://www.bbc.co.uk/news/uk-58119159) - Chris Quealy is allowed to leave Australia to wed Penny Steven in England, after 18 months apart.
 6. [Doctor Hossam Metwally poisoned partner in 'exorcism ritual'](https://www.bbc.co.uk/news/uk-england-humber-58116324) - Hossam Metwally is told he faces jail for botched ceremonies which sent Kelly Wilson into a coma.
 7. [Geronimo: Minister urged not to allow 'healthy' alpaca's death](https://www.bbc.co.uk/news/uk-england-gloucestershire-58114686) - More than 80,000 people sign a petition to save Geronimo whose owner denies the alpaca has TB.
