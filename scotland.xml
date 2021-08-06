@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 20:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 20:32:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid in Scotland: Children under 12 to be exempt from wearing face masks]]></title>
+            <description><![CDATA[From Monday, children in Scotland under 12 will no longer be required to wear face coverings in public places.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58118237</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58118237</guid>
+            <pubDate>Fri, 06 Aug 2021 20:29:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid in Scotland: 'Three Ds' rules for nightclub reopening]]></title>
             <description><![CDATA[New guidance ahead of Covid restrictions ending on Monday says masks can be removed for drinking, dining and dancing.]]></description>
@@ -35,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
             <pubDate>Fri, 06 Aug 2021 14:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boris Johnson will not isolate after Covid case among staff]]></title>
+            <description><![CDATA[No 10 says he was not in close contact with a staffer who tested positive during a visit to Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58123017</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58123017</guid>
+            <pubDate>Fri, 06 Aug 2021 19:20:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heavy rain and flooding causes disruption across Scotland]]></title>
@@ -58,13 +72,6 @@
             <pubDate>Fri, 06 Aug 2021 15:10:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: 'Harsh reality' of abuse faced by NHS staff]]></title>
-            <description><![CDATA[A new video reveals the slurs and racial abuse frontline workers get from some patients in Lanarkshire.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58118232</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58118232</guid>
-            <pubDate>Fri, 06 Aug 2021 13:18:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No apology from Boris Johnson over Thatcher coal mine closures remark]]></title>
             <description><![CDATA[But No 10 says Boris Johnson recognises the pain of closures, after he said they helped the climate.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58117044</link>
@@ -72,18 +79,11 @@
             <pubDate>Fri, 06 Aug 2021 15:36:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man whose body was found at fire in Glasgow park is named]]></title>
-            <description><![CDATA[William Leiper lived near the scene of the blaze at Househill Park in the Pollok area of Glasgow.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58119004</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58119004</guid>
-            <pubDate>Fri, 06 Aug 2021 17:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Young doctors urge peers to get vaccinated]]></title>
-            <description><![CDATA[Medics in their 20s and 30s share their experiences in hospitals in an open letter to young Scots.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58108477</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58108477</guid>
-            <pubDate>Fri, 06 Aug 2021 08:42:10 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: 'Harsh reality' of abuse faced by NHS staff]]></title>
+            <description><![CDATA[A new video reveals the slurs and racial abuse frontline workers get from some patients in Lanarkshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58118232</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58118232</guid>
+            <pubDate>Fri, 06 Aug 2021 13:18:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Gold for Katie Archibald, silver for Laura Muir, bronze for Jack Carlin & Sarah Robertson]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58112562</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58112562</guid>
             <pubDate>Fri, 06 Aug 2021 13:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man whose body was found at fire in Glasgow park is named]]></title>
+            <description><![CDATA[William Leiper lived near the scene of the blaze at Househill Park in the Pollok area of Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58119004</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58119004</guid>
+            <pubDate>Fri, 06 Aug 2021 17:34:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glasgow life expectancy gap widens between richest and poorest]]></title>
@@ -105,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58114403</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58114403</guid>
             <pubDate>Fri, 06 Aug 2021 13:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sprats return to the Clyde in huge numbers]]></title>
-            <description><![CDATA[The return of the fish, a source of food for other species, signals an improvement in the Clyde ecosystem.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58114116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58114116</guid>
-            <pubDate>Fri, 06 Aug 2021 13:09:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: How will the rules change on 9 August?]]></title>
