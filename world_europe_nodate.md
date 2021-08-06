@@ -2,7 +2,7 @@
 2. [Greece battles wildfires near Athens and on Evia island](https://www.bbc.co.uk/news/world-europe-58114106) - Strong winds and scorching heat fuel dozens of blazes, forcing thousands to evacuate.
 3. [Covid: Italy rolls out 'green pass' for public venue access](https://www.bbc.co.uk/news/world-europe-58115213) - All those aged 12 and over with at least one jab will be able to access bars, cinemas and gyms.
 4. [Vitaly Shishov: Belarus activist feared for life before he died](https://www.bbc.co.uk/news/world-europe-58095551) - The girlfriend of a Belarusian activist who died in Ukraine says he would never have killed himself.
-5. [Lionel Messi will not stay at Barcelona](https://www.bbc.co.uk/sport/football/58108298) - Barcelona say Lionel Messi will not be staying at the club "because of financial and structural obstacles".
+5. [Lionel Messi: Barcelona president Joan Laporta says new deal would have risked club's future](https://www.bbc.co.uk/sport/football/58114034) - Barcelona trying to keep Lionel Messi could have put the club at risk for 50 years, says president Joan Laporta.
 6. [Swiss woman found dead in Thailand near waterfall](https://www.bbc.co.uk/news/world-asia-58112979) - Autopsy results are expected Friday after police find a body under a black sheet near a waterfall.
 7. [Turkish influencer prosecuted 'for photos at Amsterdam sex museum'](https://www.bbc.co.uk/news/world-europe-58102368) - Merve Taskin says she faces obscenity charges in Turkey after posting "joke" photos of sex toys.
 8. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-europe-58108527) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.

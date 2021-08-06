@@ -1,5 +1,5 @@
 1. [Kenny first GB woman to win gold at three games](https://www.bbc.co.uk/sport/olympics/58113628) - Laura Kenny and Katie Archibald win Olympic madison gold before Jack Carlin wins sprint bronze.
-2. [Taliban capture regional capital - Afghan officials](https://www.bbc.co.uk/news/world-asia-58119886) - The Taliban reportedly take a provincial capital, a key moment in their offensive on Afghan government forces.
+2. [Afghanistan war: Taliban capture regional capital Zaranj, officials say](https://www.bbc.co.uk/news/world-asia-58119886) - The Taliban reportedly take a provincial capital, a key moment in their offensive on Afghan government forces.
 3. [Brighton toddler death: Verphy Kudi jailed for leaving toddler alone for days](https://www.bbc.co.uk/news/uk-england-sussex-58102792) - Verphy Kudi's 20-month-old-daughter died from influenza and starvation after being left alone.
 4. [Geronimo: Minister urged not to allow alpaca death 'in front of whole world'](https://www.bbc.co.uk/news/uk-england-gloucestershire-58114686) - The alpaca's owner urges the minister not to allow Geronimo's death "in front of the whole world".
 5. [Energy bills to rise by at least £139 for millions of households](https://www.bbc.co.uk/news/business-58106105) - Fuel poverty charities say the price cap increase will come at the worst time during winter.
