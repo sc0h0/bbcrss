@@ -1,14 +1,14 @@
-1. [Apple to scan iPhones for child sex abuse images](https://www.bbc.co.uk/news/technology-58109748) - Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.
-2. [Huawei revenue sees biggest ever fall](https://www.bbc.co.uk/news/technology-58104614) - Revenue from its consumer business, which includes phones, fell by nearly half.
-3. [Facebook: Damian Collins and US politicians criticise data ban](https://www.bbc.co.uk/news/technology-58104609) - Damian Collins accuses the company of shutting down legitimate research to protect its own interests.
-4. [Number pinged by NHS Covid-19 app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - The fall is based on data gathered before changes to the app which mean it will notify fewer contacts.
-5. [Google Maps warns drivers about emission charges](https://www.bbc.co.uk/news/technology-58102651) - Drivers heading through London or Paris will receive a warning about clean-air fees and fines.
-6. [Cross words over New York Times puzzle change](https://www.bbc.co.uk/news/technology-58102983) - The US-based publication is cutting third party support for its popular crossword puzzles.
-7. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
-8. [Keeping old computers going costs government £2.3bn a year, says report](https://www.bbc.co.uk/news/uk-politics-58085316) - Just under half the entire IT budget goes on patching up outdated systems, a government report says.
-9. [MP Maria Miller wants AI 'nudifying' tool banned](https://www.bbc.co.uk/news/technology-57996910) - A website that allows people to undress a photograph in seconds is gaining lots of users.
-10. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
-11. [WhatsApp 'view once' brings disappearing photos and videos](https://www.bbc.co.uk/news/technology-58087379) - The "view once" feature lets users open an image one time only before it is deleted forever.
+1. [China cracks down on celebrity online culture](https://www.bbc.co.uk/news/technology-58117027) - Weibo is to remove a list ranking celebrities by popularity on social media amid state criticism.
+2. [Apple to scan iPhones for child sex abuse images](https://www.bbc.co.uk/news/technology-58109748) - Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.
+3. [Huawei revenue sees biggest ever fall](https://www.bbc.co.uk/news/technology-58104614) - Revenue from its consumer business, which includes phones, fell by nearly half.
+4. [Facebook: Damian Collins and US politicians criticise data ban](https://www.bbc.co.uk/news/technology-58104609) - Damian Collins accuses the company of shutting down legitimate research to protect its own interests.
+5. [Number pinged by NHS Covid-19 app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - The fall is based on data gathered before changes to the app which mean it will notify fewer contacts.
+6. [Google Maps warns drivers about emission charges](https://www.bbc.co.uk/news/technology-58102651) - Drivers heading through London or Paris will receive a warning about clean-air fees and fines.
+7. [Cross words over New York Times puzzle change](https://www.bbc.co.uk/news/technology-58102983) - The US-based publication is cutting third party support for its popular crossword puzzles.
+8. [Nearly a third of waking hours spent on TV and streaming, Ofcom says](https://www.bbc.co.uk/news/technology-58086629) - Older people have been watching more linear TV while on-demand is a big hit with younger audiences.
+9. [Keeping old computers going costs government £2.3bn a year, says report](https://www.bbc.co.uk/news/uk-politics-58085316) - Just under half the entire IT budget goes on patching up outdated systems, a government report says.
+10. [MP Maria Miller wants AI 'nudifying' tool banned](https://www.bbc.co.uk/news/technology-57996910) - A website that allows people to undress a photograph in seconds is gaining lots of users.
+11. [TikTok tests Snapchat style vanishing video stories feature](https://www.bbc.co.uk/news/business-58095639) - The news comes as Facebook's WhatsApp starts to roll out a disappearing photos and videos feature.
 12. [How smart buildings could transform our experience of work](https://www.bbc.co.uk/news/technology-58014316) - Lara Lewington visits a new smart office block to see how technology could transform working lives.
 13. [CEO Secrets: Airbnb boss shares his business advice](https://www.bbc.co.uk/news/business-58025562) - Brian Chesky, co-founder and CEO of Airbnb, shares his business advice for the CEO Secrets series.
 14. [Untethered bi-pedal robot runs 5km and other tech news](https://www.bbc.co.uk/news/technology-58014320) - Jen Copestake looks at some of the best technology news stories of the week.

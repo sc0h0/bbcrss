@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 16:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 16:54:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[China cracks down on celebrity online culture]]></title>
+            <description><![CDATA[Weibo is to remove a list ranking celebrities by popularity on social media amid state criticism.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58117027</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58117027</guid>
+            <pubDate>Fri, 06 Aug 2021 16:13:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple to scan iPhones for child sex abuse images]]></title>
             <description><![CDATA[Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-58095639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58095639</guid>
             <pubDate>Thu, 05 Aug 2021 05:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WhatsApp 'view once' brings disappearing photos and videos]]></title>
-            <description><![CDATA[The "view once" feature lets users open an image one time only before it is deleted forever.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58087379</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58087379</guid>
-            <pubDate>Wed, 04 Aug 2021 12:43:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How smart buildings could transform our experience of work]]></title>
