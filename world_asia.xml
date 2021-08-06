@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 04:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 05:15:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,20 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-58095909</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58095909</guid>
             <pubDate>Fri, 06 Aug 2021 00:48:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China: Backlash over marriage question in Olympian's interview]]></title>
+            <description><![CDATA[Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58110014</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58110014</guid>
+            <pubDate>Fri, 06 Aug 2021 04:55:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indian women's hockey: Sixteen stories of struggle, one tale of triumph]]></title>
+            <description><![CDATA[Fighting until the very end, India go down 3-4 to Great Britain in the bronze medal playoff.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58071416</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58071416</guid>
+            <pubDate>Fri, 06 Aug 2021 03:28:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Australia borders: Citizens living overseas could be 'trapped' if they return]]></title>
@@ -49,20 +63,6 @@
             <link>https://www.bbc.co.uk/news/business-58109992</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58109992</guid>
             <pubDate>Fri, 06 Aug 2021 03:28:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indian women's hockey: Sixteen stories of struggle, one tale of triumph]]></title>
-            <description><![CDATA[Fighting until the very end, India go down 3-4 to Great Britain in the bronze medal playoff.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58071416</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58071416</guid>
-            <pubDate>Fri, 06 Aug 2021 03:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How a fake network pushes pro-China propaganda]]></title>
-            <description><![CDATA[The web of 350 fake social media profiles aims to discredit the West, sometimes with garish cartoons.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58062630</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58062630</guid>
-            <pubDate>Thu, 05 Aug 2021 06:51:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Article 370: Why more locals in Kashmir are becoming militants]]></title>
@@ -100,25 +100,11 @@
             <pubDate>Wed, 04 Aug 2021 04:05:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gunmen attack home of Afghan defence minister in Kabul]]></title>
-            <description><![CDATA[The minister was not at home during the first major attack by militants in Kabul for nearly a year.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58081253</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58081253</guid>
-            <pubDate>Wed, 04 Aug 2021 08:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dalit girl rape and murder: Indians protest over girl's forced cremation]]></title>
-            <description><![CDATA[A couple accuse a priest and three others of raping and murdering their daughter, aged nine.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58083052</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58083052</guid>
-            <pubDate>Wed, 04 Aug 2021 10:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The group rescuing pets orphaned by Covid in Indonesia]]></title>
-            <description><![CDATA[Animals without anyone to care for them has become a real issue in the pandemic in Indonesia.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58082216</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58082216</guid>
-            <pubDate>Wed, 04 Aug 2021 06:50:32 GMT</pubDate>
+            <title><![CDATA[How a fake network pushes pro-China propaganda]]></title>
+            <description><![CDATA[The web of 350 fake social media profiles aims to discredit the West, sometimes with garish cartoons.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58062630</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58062630</guid>
+            <pubDate>Thu, 05 Aug 2021 06:51:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘I don’t want to spend my life on the streets’]]></title>
@@ -126,27 +112,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-58025055</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58025055</guid>
             <pubDate>Tue, 03 Aug 2021 23:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Taiwan stars trolled by Chinese nationalists]]></title>
-            <description><![CDATA[Chinese nationalists interpreted support for Taiwan's athletes as support for the island's independence.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58082265</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58082265</guid>
-            <pubDate>Wed, 04 Aug 2021 04:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Australian athletes 'damaged rooms and misbehaved on flight home']]></title>
-            <description><![CDATA[Australian athletes damaged beds in their Olympic village hotel rooms and put a hole in a wall before leaving, the country's Olympic committee says.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58072039</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58072039</guid>
-            <pubDate>Tue, 03 Aug 2021 11:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wuhan: Chinese city to test entire population after virus resurfaces]]></title>
-            <description><![CDATA[The city of 11 million people is known to be the site where the coronavirus first emerged in 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58066744</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58066744</guid>
-            <pubDate>Tue, 03 Aug 2021 06:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan war: Bodies on the streets as fighting traps Lashkar Gah residents]]></title>
