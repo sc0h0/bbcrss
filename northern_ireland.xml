@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Aug 2021 18:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 18:30:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,18 +58,18 @@
             <pubDate>Fri, 06 Aug 2021 16:36:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: More than 3,000 registered Covid-19 deaths in NI]]></title>
-            <description><![CDATA[The NI Statistics and Research Agency found 18 more deaths were registered in the week up to 30 July.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58112415</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58112415</guid>
-            <pubDate>Fri, 06 Aug 2021 09:07:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jordan Leckey: Jam sandwich tops off possible record-breaking swim]]></title>
             <description><![CDATA[Jordan Leckey is waiting to hear if he's officially set a new record for a swim from NI to Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58121247</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58121247</guid>
             <pubDate>Fri, 06 Aug 2021 15:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: More than 3,000 registered Covid-19 deaths in NI]]></title>
+            <description><![CDATA[The NI Statistics and Research Agency found 18 more deaths were registered in the week up to 30 July.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58112415</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58112415</guid>
+            <pubDate>Fri, 06 Aug 2021 18:19:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Four more Covid-linked deaths and 1,434 new cases]]></title>
