@@ -1,4 +1,4 @@
-1. [Covid: Live events to be protected by £750m government insurance scheme](https://www.bbc.co.uk/news/entertainment-arts-58103249) - Music festivals are among the events in the UK that will be protected if they are forced to cancel.
+1. [Covid: Live events to be protected by £750m government-backed insurance scheme](https://www.bbc.co.uk/news/entertainment-arts-58103249) - Music festivals are among the events in the UK that will be protected if they are forced to cancel.
 2. [Thatcher helped climate by closing coal mines, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-58107009) - Boris Johnson's comments on carbon reduction during his Scottish trip are attacked by Labour and the SNP.
 3. [Conservative donors have no influence on policy, insists Grant Shapps](https://www.bbc.co.uk/news/uk-politics-58098887) - Grant Shapps defends big donors getting access to Boris Johnson and Rishi Sunak.
 4. [Ben Elliot: Conservative Party money man with A-list connections](https://www.bbc.co.uk/news/uk-politics-58100884) - Tory fundraiser and co-chairman Ben Elliot is at the centre of controversy over an elite donors club.
