@@ -1,5 +1,5 @@
 1. [COP26: Government defends Alok Sharma over quarantine-free travel](https://www.bbc.co.uk/news/uk-politics-58112621) - Alok Sharma reportedly visited more than 30 countries as president of a climate change conference.
-2. [Thatcher helped climate by closing coal mines, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-58107009) - Boris Johnson's comments on carbon reduction during his Scottish trip are attacked by Labour and the SNP.
+2. [Boris Johnson faces backlash over Thatcher coal mines comment](https://www.bbc.co.uk/news/uk-politics-58107009) - The PM said closing "so many" coal mines gave the UK an "early start" in climate fight.
 3. [COP26: How serious is the government about climate conference?](https://www.bbc.co.uk/news/uk-politics-58107010) - With less than 90 days to go until COP26 in Glasgow, there is uncertainty surrounding the event.
 4. [Covid: Live events to be protected by £750m government-backed insurance scheme](https://www.bbc.co.uk/news/entertainment-arts-58103249) - Music festivals are among the events in the UK that will be protected if they are forced to cancel.
 5. [Conservative donors have no influence on policy, insists Grant Shapps](https://www.bbc.co.uk/news/uk-politics-58098887) - Grant Shapps defends big donors getting access to Boris Johnson and Rishi Sunak.
