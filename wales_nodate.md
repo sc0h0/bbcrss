@@ -24,4 +24,3 @@
 24. ['Ry'n am i dorfeydd heidio i Dregaron yn 2022'](https://www.bbc.co.uk/newyddion/58069672) - Ar ddiwedd wythnos Eisteddfod AmGen pobl Ceredigion yn paratoi i godi momentwm ar gyfer 2022.
 25. [Gwasanaeth bysiau hyblyg i Ben Llŷn](https://www.bbc.co.uk/newyddion/58114782) - Mae teithwyr bysiau 'fflecsi' yn gallu dewis pryd a lle maent yn dymuno mynd a dod.
 26. [20 mlynedd ers i ferch gipio'r Gadair am y tro cyntaf](https://www.bbc.co.uk/newyddion/58105462) - Mererid Hopwood yn cofio ei chadeirio yn Eisteddfod Genedlaethol Dinbych 2001.
-27. [Lauren Price i ymladd am fedal aur yn y Gemau Olympaidd](https://www.bbc.co.uk/newyddion/58112022) - Mae'r bocsiwr wedi sicrhau lle yn rownd derfynol cystadleuaeth pwysau canol y merched ddydd Sul.
