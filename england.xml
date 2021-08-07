@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 06:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 07:17:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -205,6 +205,13 @@
             <pubDate>Fri, 06 Aug 2021 08:40:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Galal Yafai wins men's flyweight boxing gold with victory over Carlo Paalam]]></title>
+            <description><![CDATA[Britain's Galal Yafai wins Olympic gold in the men's 52kg flyweight boxing competition with a win over Carlo Paalam of the Philippines.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58125750</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58125750</guid>
+            <pubDate>Sat, 07 Aug 2021 06:19:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Robinson feared for England career following ban over tweets]]></title>
             <description><![CDATA[Pace bowler Ollie Robinson says he feared he would never play for England again after the discovery of historical tweets that overshadowed his debut.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58123349</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/football/58122156</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58122156</guid>
             <pubDate>Fri, 06 Aug 2021 17:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Laura Kenny and Katie Archibald win madison gold before Jack Carlin wins sprint bronze]]></title>
-            <description><![CDATA[Laura Kenny and Katie Archibald win Olympic madison gold before Jack Carlin wins sprint bronze.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58113628</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58113628</guid>
-            <pubDate>Fri, 06 Aug 2021 10:34:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
