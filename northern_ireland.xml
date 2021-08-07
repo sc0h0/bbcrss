@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 05:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 05:55:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Fri, 06 Aug 2021 16:09:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Michael Conlan: Belfast boxer secures interim WBA belt with points win over TJ Doheny]]></title>
+            <description><![CDATA[Michael Conlan beats TJ Doheny on points in Belfast to become WBA interim featherweight champion, but has eyes on a bigger prize.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58124639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58124639</guid>
+            <pubDate>Sat, 07 Aug 2021 00:05:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Linden Foods: Man who died named as Allister Kelly]]></title>
             <description><![CDATA[Allister Kelly was killed in an incident at the Linden Foods plant near Dungannon on Thursday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58113728</link>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58121247</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58121247</guid>
             <pubDate>Fri, 06 Aug 2021 15:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI Covid-19 vaccine roll-out for over 16s under way]]></title>
-            <description><![CDATA[Northern Ireland is the first part of the UK to give jabs to 16 and 17 year olds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58105372</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58105372</guid>
-            <pubDate>Fri, 06 Aug 2021 16:46:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robin Swann set to offer health staff 3% pay rise]]></title>
@@ -140,6 +140,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58097115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58097115</guid>
             <pubDate>Thu, 05 Aug 2021 05:26:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NI Covid-19 vaccine roll-out for over 16s under way]]></title>
+            <description><![CDATA[Northern Ireland is the first part of the UK to give jabs to 16 and 17 year olds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58105372</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58105372</guid>
+            <pubDate>Fri, 06 Aug 2021 16:46:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Q&A: What are Northern Ireland's Covid travel rules?]]></title>
