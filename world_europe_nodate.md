@@ -1,4 +1,4 @@
-1. [Greece wildfires spread, causing mass evacuations](https://www.bbc.co.uk/news/world-europe-58124129) - Thousands of people are evacuated north of the capital, Athens, as fires continue to rage.
+1. [Greece wildfires: PM describes 'nightmarish summer'](https://www.bbc.co.uk/news/world-europe-58132679) - Thousands have been evacuated as wildfires continue to ravage parts of the country.
 2. [Tokyo Olympics: Team USA beat France 87-82 to claim fourth straight gold medal](https://www.bbc.co.uk/sport/olympics/58125670) - USA beat France to win their fourth basketball gold medal in a row.
 3. [Tokyo Olympics: Israel's Linoy Ashram ends Russian dominance in rhythmic gymnastics](https://www.bbc.co.uk/sport/olympics/58127312) - Israel's Linoy Ashram caused a huge upset in the Olympic rhythmic gymnastics individual all-around final, becoming the first non-Russian champion since 1996.
 4. [Bat killed by cat after record 1,200-mile journey](https://www.bbc.co.uk/news/uk-58128773) - A record-breaking bat - the size of a human thumb - is discovered in Russia after flying from London.
