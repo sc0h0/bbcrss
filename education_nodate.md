@@ -1,4 +1,4 @@
-1. [Cash prize jackpot offered for double-jabbed students](https://www.bbc.co.uk/news/education-58115658) - A university hopes to boost Covid jab take-up among students by offering £5,000 cash prizes.
+1. [Cash prize jackpot offered for double-jabbed students](https://www.bbc.co.uk/news/education-58115658) - A university hopes to boost Covid jab take-up among students by offering 10 £5,000 cash prizes.
 2. [University clearing may be 'much more competitive' this year - Ucas boss](https://www.bbc.co.uk/news/education-58124095) - "It's still a good year for clearing," says the admissions service boss, ahead of results day next week.
 3. [A-levels: Bumper year for top grades predicted](https://www.bbc.co.uk/news/education-58106929) - Results could see very high grades this year, which could put pressure on some university courses.
 4. [Covid: Jabs for 16 and 17-year-olds to start within weeks](https://www.bbc.co.uk/news/uk-58091693) - About 1.4 million more teenagers will be eligible for the Pfizer vaccine and will not need parental consent.
