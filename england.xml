@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 21:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 22:20:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -247,6 +247,13 @@
             <pubDate>Sat, 07 Aug 2021 19:40:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lincoln's Bramall suffers alleged racist abuse at Gillingham]]></title>
+            <description><![CDATA[Lincoln City defender Cohen Bramall allegedly suffers racist abuse from a fan at Gillingham.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58036011</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58036011</guid>
+            <pubDate>Sat, 07 Aug 2021 22:15:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Romelu Lukaku: Chelsea close to sealing club-record £97.5m deal for Inter Milan striker]]></title>
             <description><![CDATA[Chelsea are close to sealing a deal to re-sign striker Romelu Lukaku for a club-record fee of £97.5m from Inter Milan.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58130354</link>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/58035720</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58035720</guid>
             <pubDate>Sat, 07 Aug 2021 21:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[St Helens beat Catalans Dragons to close gap at top]]></title>
-            <description><![CDATA[St Helens close the gap on Super League leaders Catalans Dragons with a crushing win in slippery conditions.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/58123964</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/58123964</guid>
-            <pubDate>Sat, 07 Aug 2021 15:37:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
