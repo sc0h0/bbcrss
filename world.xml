@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 23:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 23:26:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,6 +177,13 @@
             <pubDate>Fri, 06 Aug 2021 23:07:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Sifan Hassan wins 10,000m gold for third medal of Games]]></title>
+            <description><![CDATA[Dutchwoman Sifan Hassan wins the 10,000m to seal her second gold and third medal of the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58128859</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58128859</guid>
+            <pubDate>Sat, 07 Aug 2021 12:53:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[India wins first athletics gold in men's javelin]]></title>
             <description><![CDATA[India has now won seven medals at Tokyo - one gold, two silver and four bronze, its biggest Olympic haul ever.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-57913544</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58127312</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127312</guid>
             <pubDate>Sat, 07 Aug 2021 11:22:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: USA's Nelly Korda wins gold on dramatic final day of golf competition]]></title>
-            <description><![CDATA[American Nelly Korda wins gold on a dramatic final day in the women's Olympic golf.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58126512</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58126512</guid>
-            <pubDate>Sat, 07 Aug 2021 07:17:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

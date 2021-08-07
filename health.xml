@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 23:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 23:30:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[NHS waiting lists could rise to 14 million in England next year - analysis]]></title>
+            <description><![CDATA[Currently five million people are on hospital waiting lists, but there is a warning of a hidden backlog.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58132538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58132538</guid>
+            <pubDate>Sat, 07 Aug 2021 23:26:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Fifth of England hospital admissions aged 18-34]]></title>
             <description><![CDATA[The new NHS chief executive urges unvaccinated young adults to get jabbed, saying it is "so important".]]></description>
@@ -63,55 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-58062180</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58062180</guid>
             <pubDate>Mon, 02 Aug 2021 22:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Assisted dying: Campaigners renewed hope for change in the law]]></title>
-            <description><![CDATA[David Peace intends to travel abroad to end his life before his motor neurone disease deteriorates further.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58014609</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58014609</guid>
-            <pubDate>Mon, 02 Aug 2021 23:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sativex brain tumour trial fundraising launched]]></title>
-            <description><![CDATA[Olympic medallist Tom Daley, whose father died of a brain tumour, backs efforts to fund the research.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-58068232</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58068232</guid>
-            <pubDate>Tue, 03 Aug 2021 12:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Football: Dementia risk greatest for defenders]]></title>
-            <description><![CDATA[The risk of dementia in former footballers increases according to the position they played in, says new research.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58060644</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58060644</guid>
-            <pubDate>Mon, 02 Aug 2021 15:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS pay: Call for privately employed staff to get increase]]></title>
-            <description><![CDATA[Cleaners and others employed by contractors should receive the same rise as NHS staff, a union says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58047623</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58047623</guid>
-            <pubDate>Sun, 01 Aug 2021 23:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No Covid traces found in railway stations or trains]]></title>
-            <description><![CDATA[Heavily touched areas like escalator handles, ticket machines and benches were swabbed for the virus.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58052378</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58052378</guid>
-            <pubDate>Mon, 02 Aug 2021 04:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Pulse oxygen monitors work less well on darker skin, experts say]]></title>
-            <description><![CDATA[Pulse oximeters, which spot falling oxygen levels, may work less well on darker skin, experts warn.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58032842</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58032842</guid>
-            <pubDate>Sat, 31 Jul 2021 17:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hunt for certainty over Covid cases continues]]></title>
-            <description><![CDATA[Flurry of Covid data does not resolve debate around state of the pandemic in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58029383</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58029383</guid>
-            <pubDate>Fri, 30 Jul 2021 15:18:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: The mystery of rising infections in India's Kerala]]></title>
