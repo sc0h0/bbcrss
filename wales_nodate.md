@@ -22,6 +22,6 @@
 22. [Russell Martin: New Swansea City boss on playing style, record goals and beaches](https://www.bbc.co.uk/sport/football/58114861) - New head coach Russell Martin hopes to take Swansea City back to the future with his progressive playing style.
 23. [Llacio cyfyngiadau wrth i Gymru symud i lefel sero](https://www.bbc.co.uk/newyddion/58120975) - Y rhan fwyaf o gyfyngiadau bellach wedi'u llacio wrth i Gymru symud i lefel rhybudd sero.
 24. ['Ry'n am i dorfeydd heidio i Dregaron yn 2022'](https://www.bbc.co.uk/newyddion/58069672) - Ar ddiwedd wythnos Eisteddfod AmGen pobl Ceredigion yn paratoi i godi momentwm ar gyfer 2022.
-25. [Gwasanaeth bysiau hyblyg i Ben Llŷn](https://www.bbc.co.uk/newyddion/58114782) - Mae teithwyr bysiau 'fflecsi' yn gallu dewis pryd a lle maent yn dymuno mynd a dod.
-26. [20 mlynedd ers i ferch gipio'r Gadair am y tro cyntaf](https://www.bbc.co.uk/newyddion/58105462) - Mererid Hopwood yn cofio ei chadeirio yn Eisteddfod Genedlaethol Dinbych 2001.
+25. [Rhybudd o stormydd o daranau yn rhannau o Gymru](https://www.bbc.co.uk/newyddion/58102068) - Gall glaw trwm achosi llifogydd mewn rhai ardaloedd ddydd Sadwrn, yn ôl y Swyddfa Dywydd.
+26. [Llyfr y Flwyddyn: 'Iechyd meddwl yn epidemig ymysg pobl ifanc'](https://www.bbc.co.uk/newyddion/58118224) - Awdur y nofel fuddugol ym mhrif wobr Llyfr y Flwyddyn eleni yn disgrifio mai ei bwriad oedd ceisio 'gwneud i rai pobl ifanc deimlo'n llai unig'.
 27. [Y Llewod i ruo am y tro olaf yn Ne Affrica](https://www.bbc.co.uk/newyddion/58115263) - Gêm brawf dyngedfennol yn erbyn y Springboks yn wynebu tîm Warren Gatland.
