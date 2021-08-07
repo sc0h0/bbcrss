@@ -22,6 +22,6 @@
 22. [Tokyo Olympics: Golds for GB pentathlete Joe Choong & boxer Galal Yafai, cycling silver, Tom Daley and Josh Kerr bronzes](https://www.bbc.co.uk/sport/olympics/58129069) - Pentathlete Joe Choong wins Great Britain's 20th gold medal of the Tokyo Games after boxer Galal Yafai became an Olympic flyweight champion on Saturday.
 23. [Llacio cyfyngiadau wrth i Gymru symud i lefel sero](https://www.bbc.co.uk/newyddion/58120975) - Y rhan fwyaf o gyfyngiadau bellach wedi'u llacio wrth i Gymru symud i lefel rhybudd sero.
 24. [Teyrnged cymuned i fachgen pump oed fu farw mewn afon](https://www.bbc.co.uk/newyddion/58128547) - Tua 200 o bobl wedi ymgynnull i roi teyrnged i Logan Mwangi a gafodd ei ddarganfod yn farw yn Afon Ogwr.
-25. [Dyn yn yr ysbyty ar ôl 'trywaniad' mewn maes parcio](https://www.bbc.co.uk/newyddion/58129886) - Mae dyn 23 oed wedi cael ei arestio'n dilyn y digwyddiad ym maes parcio gwesty'r Ibis, yng Ngiât Caerdydd.
+25. [De Affrica 19-16 Llewod](https://www.bbc.co.uk/newyddion/58132129) - Y Llewod yn colli yn y trydydd prawf o 19-16 gyda De Affrica yn cipio'r gyfres o 2-1.
 26. [Llyfr y Flwyddyn: 'Iechyd meddwl yn epidemig ymysg pobl ifanc'](https://www.bbc.co.uk/newyddion/58118224) - Awdur y nofel fuddugol ym mhrif wobr Llyfr y Flwyddyn eleni yn disgrifio mai ei bwriad oedd ceisio 'gwneud i rai pobl ifanc deimlo'n llai unig'.
 27. [Adran Dau: Oldham 0-1 Casnewydd](https://www.bbc.co.uk/newyddion/58128545) - Casnewydd oedd yn fuddugol gyda Kevin Ellison yn penio'r bel mewn i'r gôl 88 munud mewn i'r gêm.
