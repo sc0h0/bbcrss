@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 08:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 09:18:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -233,18 +233,18 @@
             <pubDate>Tue, 03 Aug 2021 14:54:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GB's Jack Carlin qualifies for the keirin semi-finals]]></title>
-            <description><![CDATA[Great Britain's Jack Carlin qualifies for the keirin semi-finals at the Tokyo 2020 Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58127506</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58127506</guid>
-            <pubDate>Sat, 07 Aug 2021 07:50:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dundee Utd v Rangers : Thomas Courts on 'collateral damage', karaoke & buying the coffees]]></title>
             <description><![CDATA[Thomas Court on his rapid rise from an academy post to taking over as manager at Dundee United.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58103699</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58103699</guid>
             <pubDate>Fri, 06 Aug 2021 12:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GB's Jack Carlin qualifies for the keirin semi-finals]]></title>
+            <description><![CDATA[Great Britain's Jack Carlin qualifies for the keirin semi-finals at the Tokyo 2020 Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58127506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58127506</guid>
+            <pubDate>Sat, 07 Aug 2021 07:50:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[British and Irish Lions 2021: Courtney Lawes says tourists cannot 'scrap' against South Africa]]></title>
@@ -254,18 +254,18 @@
             <pubDate>Sat, 07 Aug 2021 08:30:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lee McGregor retains European bantamweight title despite knock down]]></title>
+            <description><![CDATA[Lee McGregor recovers from being knocked down to retain his European bantamweight title against Vincent Legrand.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58128061</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58128061</guid>
+            <pubDate>Sat, 07 Aug 2021 08:55:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Gossip: Celtic, Edouard, Southampton, Brighton, Aberdeen, Ferguson]]></title>
             <description><![CDATA[Two English clubs compete to sign Celtic striker Odsonne Edouard but striker may need to lower wage demands.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58098564</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58098564</guid>
             <pubDate>Sat, 07 Aug 2021 07:43:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Britain's Laura Muir wins silver in 1500m behind Kenya's Faith Kipyegon]]></title>
-            <description><![CDATA[Great Britain's Laura Muir ends her quest for a major outdoor medal as she wins silver in the 1500m final at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58117464</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58117464</guid>
-            <pubDate>Fri, 06 Aug 2021 15:10:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

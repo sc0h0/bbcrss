@@ -1,6 +1,6 @@
-1. [Tokyo attack: Knife-wielding man injures 10 on train](https://www.bbc.co.uk/news/world-asia-58125414) - The suspect allegedly told police he was angry when he saw women who "looked happy".
-2. [Tokyo 2020: Olympic athletes struggle with heat at Games](https://www.bbc.co.uk/news/world-asia-58110846) - This games are one of the warmest on record, with many athletes complaining about the high temperatures.
-3. [Afghanistan war: Taliban capture regional capital Zaranj](https://www.bbc.co.uk/news/world-asia-58119886) - Officials say the insurgents took the southern city of Zaranj, in a big blow to government forces.
+1. [Afghanistan war: Taliban say jail captured and prisoners freed](https://www.bbc.co.uk/news/world-asia-58127407) - Video on social media shows hundreds of inmates leaving the Afghan jail after heavy militant attacks.
+2. [Tokyo attack: Knife-wielding man injures 10 on train](https://www.bbc.co.uk/news/world-asia-58125414) - The suspect allegedly told police he was angry when he saw women who "looked happy".
+3. [Tokyo 2020: Olympic athletes struggle with heat at Games](https://www.bbc.co.uk/news/world-asia-58110846) - This games are one of the warmest on record, with many athletes complaining about the high temperatures.
 4. [Two arrested over plot to kill Myanmar UN ambassador](https://www.bbc.co.uk/news/world-us-canada-58088866) - Ambassador Kyaw Moe Tun is a vocal critic of Myanmar's junta, which seized power in a coup on 1 February.
 5. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - China reacts angrily to the announcement, which allows thousands to stay in the US for 18 months.
 6. [China: Backlash over marriage question in Olympian's interview](https://www.bbc.co.uk/news/world-asia-china-58110014) - Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".

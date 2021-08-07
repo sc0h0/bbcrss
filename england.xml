@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 08:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 09:16:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,13 +65,6 @@
             <pubDate>Sat, 07 Aug 2021 06:43:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Verphy Kudi: Mum left girl to die to party for 6 days]]></title>
-            <description><![CDATA[Verphy Kudi's 20-month-old-daughter died from influenza and starvation after being left alone.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-58102792</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58102792</guid>
-            <pubDate>Fri, 06 Aug 2021 17:25:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Duncan Browne: CCTV appeal to find witnesses in murder probe]]></title>
             <description><![CDATA[Duncan Browne suffered a cardiac arrest after he was assaulted in Liverpool and died a day later.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-58121187</link>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-58123000</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-58123000</guid>
             <pubDate>Sat, 07 Aug 2021 06:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sherwood Forest naked ramblers leave locals hot under collar]]></title>
+            <description><![CDATA[One regular visitor to Sherwood Forest says he finds it offensive seeing the nude walkers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58120317</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58120317</guid>
+            <pubDate>Sat, 07 Aug 2021 09:08:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ed Sheeran named in Ipswich Town squad list and given number 17]]></title>
@@ -170,8 +170,8 @@
             <pubDate>Fri, 06 Aug 2021 11:34:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Man, 23, 'thought body could brush off virus']]></title>
-            <description><![CDATA[Patients at the Royal Liverpool Hospital tell BBC North West Tonight about being ill with Covid-19.]]></description>
+            <title><![CDATA[Covid: Man, 23, 'thought body could brush off virus']]></title>
+            <description><![CDATA[Patients at the Royal Liverpool Hospital tell BBC North West Tonight about being ill with Covid.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-58121193</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58121193</guid>
             <pubDate>Fri, 06 Aug 2021 18:16:51 GMT</pubDate>
@@ -219,18 +219,18 @@
             <pubDate>Fri, 06 Aug 2021 18:52:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Cyclists Matt Walls and Ethan Hayter win silver in men's madison]]></title>
+            <description><![CDATA[British cyclist Matt Walls' superb Olympic debut continues as he wins a second Tokyo medal with silver in the men's madison alongside Ethan Hayter.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58127647</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127647</guid>
+            <pubDate>Sat, 07 Aug 2021 09:07:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Parker's Bournemouth hold Ismael's West Brom in Championship opener]]></title>
             <description><![CDATA[Scott Parker's Bournemouth draw the opening game of the Championship season against Valerien Ismael's West Bromwich Albion.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58021521</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58021521</guid>
             <pubDate>Fri, 06 Aug 2021 21:48:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry Kane: Tottenham striker says he would never refuse to train and will return to club on Saturday]]></title>
-            <description><![CDATA[Tottenham striker Harry Kane says he has "never refused to train" and added he will return to the club on Saturday as planned]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58122156</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58122156</guid>
-            <pubDate>Fri, 06 Aug 2021 17:12:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
