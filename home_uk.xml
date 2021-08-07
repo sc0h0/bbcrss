@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 18:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 18:37:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58130575</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58130575</guid>
             <pubDate>Sat, 07 Aug 2021 14:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riot: Off-duty Seattle police officers fired over assault]]></title>
+            <description><![CDATA[The officers stood by as Donald Trump's supporters stormed the government building, an inquiry says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58088868</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58088868</guid>
+            <pubDate>Sat, 07 Aug 2021 18:03:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bat killed by cat after record 1,200-mile journey]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58127413</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58127413</guid>
             <pubDate>Sat, 07 Aug 2021 15:09:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lionel Messi: Paris St-Germain in talks with Argentine after leaving Barcelona]]></title>
-            <description><![CDATA[Paris St-Germain are in talks with Lionel Messi's representatives about the Argentina forward joining the Ligue 1 club following his Barcelona exit.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58128763</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58128763</guid>
-            <pubDate>Sat, 07 Aug 2021 14:17:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICYMI: Surfing, an Olympic maze and a sheep stampede]]></title>
@@ -212,18 +212,25 @@
             <pubDate>Fri, 06 Aug 2021 08:16:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England v India: Joe Root makes superb century at Trent Bridge]]></title>
+            <description><![CDATA[Joe Root strokes a century of the highest class to give England hope of beating India in a see-saw first Test at Trent Bridge.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58131434</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58131434</guid>
+            <pubDate>Sat, 07 Aug 2021 18:18:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[South Africa 19-16 British and Irish Lions: Morne Steyn's late penalty wins series]]></title>
             <description><![CDATA[The British and Irish Lions lose an agonisingly close series decider to South Africa as Morne Steyn's late penalty seals a 19-16 victory.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58130765</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58130765</guid>
-            <pubDate>Sat, 07 Aug 2021 18:09:50 GMT</pubDate>
+            <pubDate>Sat, 07 Aug 2021 18:20:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England v India: Joe Root makes superb century at Trent Bridge]]></title>
-            <description><![CDATA[Joe Root strokes a century of the highest class to give England a glimmer of hope of beating India in a see-saw first Test at Trent Bridge.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58131434</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58131434</guid>
-            <pubDate>Sat, 07 Aug 2021 18:10:34 GMT</pubDate>
+            <title><![CDATA[Community Shield: Leicester City 1-0 Manchester City - Kelechi Iheanacho penalty seals win]]></title>
+            <description><![CDATA[Substitute Kelechi Iheanacho confidently despatches a late penalty as Leicester stun Manchester City to claim the Community Shield at Wembley.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58036460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58036460</guid>
+            <pubDate>Sat, 07 Aug 2021 18:31:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chelsea close to sealing £97.5m Lukaku deal]]></title>
