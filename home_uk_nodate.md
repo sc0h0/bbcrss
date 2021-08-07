@@ -18,7 +18,7 @@
 18. [Dead Ringers impressionists on how Covid changed their work](https://www.bbc.co.uk/news/uk-politics-58079981) - Impressionists Jon Culshaw, Jan Ravens and Debra Stephenson on their ever-changing political material.
 19. [Getting more black women into cycling](https://www.bbc.co.uk/news/uk-58120398) - Members of Black Girls Do Bike say the ever-growing group feels like a 'sisterhood'
 20. [Telfar Clemens: Designer creates Tokyo 2020 Olympic outfits for Team Liberia](https://www.bbc.co.uk/news/world-africa-58123178) - American-Liberian designer Telfar Clemens created Liberian team's outfits at the Tokyo Olympics.
-21. [Tokyo 2020: Olympic athletes struggle with heat at Games](https://www.bbc.co.uk/news/world-asia-58110846) - This Games are one of the warmest on record, with many athletes complaining about the high temperatures.
+21. [Tokyo 2020: Olympic athletes struggle with heat at Games](https://www.bbc.co.uk/news/world-asia-58110846) - This games are one of the warmest on record, with many athletes complaining about the high temperatures.
 22. ['We want trillions to heal our wounds'](https://www.bbc.co.uk/news/world-africa-57961151) - Descendants of victims of Germany's atrocities in Namibia say the money offered is not nearly enough.
 23. [Ryan Reynolds: Why Free Guy is more than a 'video game movie'](https://www.bbc.co.uk/news/entertainment-arts-58061823) - The Canadian actor's latest film sees him play a different kind of "naïve and innocent" character.
 24. [COP26: What is the UN climate conference in Glasgow and why is it so important?](https://www.bbc.co.uk/news/science-environment-56901261) - The annual climate change summit is being held in Glasgow - who's going and what's at stake?

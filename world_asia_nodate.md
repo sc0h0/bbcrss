@@ -1,6 +1,6 @@
 1. [Afghanistan war: Taliban capture regional capital Zaranj](https://www.bbc.co.uk/news/world-asia-58119886) - Officials say the insurgents took the southern city of Zaranj, in a big blow to government forces.
 2. [Two arrested over plot to kill Myanmar UN ambassador](https://www.bbc.co.uk/news/world-us-canada-58088866) - Ambassador Kyaw Moe Tun is a vocal critic of Myanmar's junta, which seized power in a coup on 1 February.
-3. [Tokyo 2020: Olympic athletes struggle with heat at Games](https://www.bbc.co.uk/news/world-asia-58110846) - This Games are one of the warmest on record, with many athletes complaining about the high temperatures.
+3. [Tokyo 2020: Olympic athletes struggle with heat at Games](https://www.bbc.co.uk/news/world-asia-58110846) - This games are one of the warmest on record, with many athletes complaining about the high temperatures.
 4. [US to allow visitors from Hong Kong to stay for 18 months](https://www.bbc.co.uk/news/world-us-canada-58105075) - China reacts angrily to the announcement, which allows thousands to stay in the US for 18 months.
 5. [China: Backlash over marriage question in Olympian's interview](https://www.bbc.co.uk/news/world-asia-china-58110014) - Chinese athlete Gong Lijiao was asked about her marriage plans and described as a "manly woman".
 6. [China: How Delta threatens a prized zero Covid strategy](https://www.bbc.co.uk/news/world-asia-china-58095909) - China's battling its widest outbreak since Wuhan - how long can it keep Covid out?
