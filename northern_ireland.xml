@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 13:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 13:40:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,25 @@
             <pubDate>Sat, 07 Aug 2021 12:27:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI has the highest infection rate in the UK]]></title>
-            <description><![CDATA[Hospitalisations and deaths increase, but the data shows the vaccine is doing its job.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58124142</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58124142</guid>
-            <pubDate>Sat, 07 Aug 2021 06:46:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thunderstorms weather warning in place for Northern Ireland]]></title>
             <description><![CDATA[A Met Office warning is in place until midnight with flooding reported in some parts of Fermanagh.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58127271</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58127271</guid>
             <pubDate>Sat, 07 Aug 2021 12:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Six more Covid-linked deaths and 1,349 new cases]]></title>
+            <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,219.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58127380</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58127380</guid>
+            <pubDate>Sat, 07 Aug 2021 13:39:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI has the highest infection rate in the UK]]></title>
+            <description><![CDATA[Hospitalisations and deaths increase, but the data shows the vaccine is doing its job.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58124142</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58124142</guid>
+            <pubDate>Sat, 07 Aug 2021 06:46:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anorexia: Planning for a wedding with an eating disorder]]></title>

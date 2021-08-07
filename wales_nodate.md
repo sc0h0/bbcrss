@@ -21,7 +21,7 @@
 21. [Tokyo Olympics: Gold for Galal Yafai, Tom Daley takes bronze & madison silver for Walls and Hayter](https://www.bbc.co.uk/sport/olympics/58126242) - Tom Daley claims bronze in the men's 10m platform after boxer Galal Yafai wins Team GB's first boxing gold in Tokyo to become Olympic flyweight champion.
 22. [Blackburn Rovers v Swansea City](https://www.bbc.co.uk/sport/football/58035723) - Live coverage of Saturday's Championship game between Blackburn Rovers and Swansea City.
 23. [Llacio cyfyngiadau wrth i Gymru symud i lefel sero](https://www.bbc.co.uk/newyddion/58120975) - Y rhan fwyaf o gyfyngiadau bellach wedi'u llacio wrth i Gymru symud i lefel rhybudd sero.
-24. ['Ry'n am i dorfeydd heidio i Dregaron yn 2022'](https://www.bbc.co.uk/newyddion/58069672) - Ar ddiwedd wythnos Eisteddfod AmGen pobl Ceredigion yn paratoi i godi momentwm ar gyfer 2022.
+24. [Teyrnged cymuned i fachgen pump oed fu farw mewn afon](https://www.bbc.co.uk/newyddion/58128547) - Tua 200 o bobl wedi ymgynnull i roi teyrnged i Logan Mwangi a gafodd ei ddarganfod yn farw yn Afon Ogwr.
 25. [Dyn yn yr ysbyty ar ôl 'trywaniad' mewn maes parcio](https://www.bbc.co.uk/newyddion/58129886) - Mae dyn 23 oed wedi cael ei arestio'n dilyn y digwyddiad ym maes parcio gwesty'r Ibis, yng Ngiât Caerdydd.
 26. [Llyfr y Flwyddyn: 'Iechyd meddwl yn epidemig ymysg pobl ifanc'](https://www.bbc.co.uk/newyddion/58118224) - Awdur y nofel fuddugol ym mhrif wobr Llyfr y Flwyddyn eleni yn disgrifio mai ei bwriad oedd ceisio 'gwneud i rai pobl ifanc deimlo'n llai unig'.
 27. [Y Llewod i ruo am y tro olaf yn Ne Affrica](https://www.bbc.co.uk/newyddion/58115263) - Gêm brawf dyngedfennol yn erbyn y Springboks yn wynebu tîm Warren Gatland.
