@@ -1,5 +1,5 @@
 1. [Covid-19: NI has the highest infection rate in the UK](https://www.bbc.co.uk/news/world-europe-58124142) - Hospitalisations and deaths increase, but the data shows the vaccine is doing its job.
-2. [Anorexia: Planning for a wedding with an eating disorder](https://www.bbc.co.uk/news/uk-northern-ireland-57841203) - Leah Brown says she was "bombarded" with online weight loss suggestions when planning her wedding.
+2. [Anorexia: Planning for a wedding with an eating disorder](https://www.bbc.co.uk/news/uk-northern-ireland-57841203) - Leah Brown says she was "bombarded" with online weight-loss suggestions when planning her wedding.
 3. [Lilian Bland: The Carnmoney engineer who took to the skies](https://www.bbc.co.uk/news/uk-northern-ireland-58060274) - Exhibition focuses on Lilian Bland who became the first woman to build and fly her own plane.
 4. [NBA prospect the 'Irish Hulk' blazing a trail in US basketball](https://www.bbc.co.uk/news/world-europe-58017675) - Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.
 5. [Michael Conlan: Belfast boxer secures interim WBA belt with points win over TJ Doheny](https://www.bbc.co.uk/sport/boxing/58124639) - Michael Conlan beats TJ Doheny on points in Belfast to become WBA interim featherweight champion, but has eyes on a bigger prize.

@@ -22,6 +22,6 @@
 22. [The Hundred: Trent Rockets regain top spot with win over Welsh Fire](https://www.bbc.co.uk/sport/cricket/58123013) - Trent Rockets underline their status as the team to beat in the men's Hundred by beating Welsh Fire by six wickets to reclaim to spot in the table.
 23. [Llacio cyfyngiadau wrth i Gymru symud i lefel sero](https://www.bbc.co.uk/newyddion/58120975) - Y rhan fwyaf o gyfyngiadau bellach wedi'u llacio wrth i Gymru symud i lefel rhybudd sero.
 24. ['Ry'n am i dorfeydd heidio i Dregaron yn 2022'](https://www.bbc.co.uk/newyddion/58069672) - Ar ddiwedd wythnos Eisteddfod AmGen pobl Ceredigion yn paratoi i godi momentwm ar gyfer 2022.
-25. [Gwenallt Llwyd Ifan yw enillydd Cadair Eisteddfod AmGen](https://www.bbc.co.uk/newyddion/58118172) - Bardd o Dregaron yw enillydd Cadair Eisteddfod AmGen 2021, sef Gwenallt Llwyd Ifan.
+25. [Gwasanaeth bysiau hyblyg i Ben Llŷn](https://www.bbc.co.uk/newyddion/58114782) - Mae teithwyr bysiau 'fflecsi' yn gallu dewis pryd a lle maent yn dymuno mynd a dod.
 26. [20 mlynedd ers i ferch gipio'r Gadair am y tro cyntaf](https://www.bbc.co.uk/newyddion/58105462) - Mererid Hopwood yn cofio ei chadeirio yn Eisteddfod Genedlaethol Dinbych 2001.
 27. [Lauren Price i ymladd am fedal aur yn y Gemau Olympaidd](https://www.bbc.co.uk/newyddion/58112022) - Mae'r bocsiwr wedi sicrhau lle yn rownd derfynol cystadleuaeth pwysau canol y merched ddydd Sul.
