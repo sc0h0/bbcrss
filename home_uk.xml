@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 08:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 08:59:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Sat, 07 Aug 2021 06:55:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: German pentathlon coach thrown out for punching horse]]></title>
+            <description><![CDATA[A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58127366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127366</guid>
+            <pubDate>Sat, 07 Aug 2021 08:23:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate change: New report will highlight 'stark reality' of warming]]></title>
             <description><![CDATA[The IPCC's short scientific summary due out on Monday will be strongest statement yet on climate change.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58102953</link>
@@ -58,11 +65,11 @@
             <pubDate>Sat, 07 Aug 2021 01:09:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mercer Street: Tanker blast evidence points to Iran, says US]]></title>
-            <description><![CDATA[The attack on the Israeli-operated merchant tanker last week killed two people.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58124489</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58124489</guid>
-            <pubDate>Fri, 06 Aug 2021 23:42:39 GMT</pubDate>
+            <title><![CDATA[Afghanistan war: Taliban say jail captured and prisoners freed]]></title>
+            <description><![CDATA[Video on social media shows hundreds of inmates leaving the Afghan jail after heavy militant attacks.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58127407</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58127407</guid>
+            <pubDate>Sat, 07 Aug 2021 08:48:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wood Green stabbing: Man and police officers attacked in north London]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58125414</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58125414</guid>
             <pubDate>Sat, 07 Aug 2021 03:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: German pentathlon coach thrown out for punching horse]]></title>
-            <description><![CDATA[A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58127366</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127366</guid>
-            <pubDate>Sat, 07 Aug 2021 08:23:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece fires spread uncontrolled, killing a fireman]]></title>
@@ -219,13 +219,6 @@
             <pubDate>Fri, 06 Aug 2021 08:16:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boxing gold for Yafai, bronze for Daley in diving - What's happened so far on day 15?]]></title>
-            <description><![CDATA[Tom Daley claims bronze in the men's 10m platform after boxer Galal Yafai wins Team GB's first boxing gold in Tokyo to become Olympic flyweight champion.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58126242</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58126242</guid>
-            <pubDate>Sat, 07 Aug 2021 08:21:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Robinson feared for England career following ban over tweets]]></title>
             <description><![CDATA[Pace bowler Ollie Robinson says he feared he would never play for England again after the discovery of historical tweets that overshadowed his debut.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58123349</link>
@@ -266,6 +259,20 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/58119049</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58119049</guid>
             <pubDate>Fri, 06 Aug 2021 22:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[USA's Korda holds nerve to win Olympic golf gold]]></title>
+            <description><![CDATA[American Nelly Korda wins gold on a dramatic final day in the women's Olympic golf.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58126512</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58126512</guid>
+            <pubDate>Sat, 07 Aug 2021 07:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Tom Daley wins diving bronze after boxer Galal Yafai claims Olympic gold]]></title>
+            <description><![CDATA[Tom Daley claims bronze in the men's 10m platform after boxer Galal Yafai wins Team GB's first boxing gold in Tokyo to become Olympic flyweight champion.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58126242</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58126242</guid>
+            <pubDate>Sat, 07 Aug 2021 08:21:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Daley wins bronze in men's 10m platform as Cao makes history]]></title>
