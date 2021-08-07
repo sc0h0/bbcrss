@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 07:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 07:55:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,11 +65,11 @@
             <pubDate>Fri, 06 Aug 2021 15:45:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two days of rain and thunderstorms forecast for north and mid Wales]]></title>
-            <description><![CDATA[Homes could flood and roads close as they strike north and mid Wales, the Met Office has warned.]]></description>
+            <title><![CDATA[Thunderstorm weather warning for Wales on Saturday]]></title>
+            <description><![CDATA[Heavy rain could cause some flooding and travel disruption on Saturday, the Met Office says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58087494</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58087494</guid>
-            <pubDate>Thu, 05 Aug 2021 21:50:05 GMT</pubDate>
+            <pubDate>Sat, 07 Aug 2021 07:55:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tree-planting: Why are large investment firms buying Welsh farms?]]></title>
@@ -196,6 +196,13 @@
             <link>https://www.bbc.co.uk/newyddion/58105462</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58105462</guid>
             <pubDate>Fri, 06 Aug 2021 11:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Y Llewod i ruo am y tro olaf yn Ne Affrica]]></title>
+            <description><![CDATA[Gêm brawf dyngedfennol yn erbyn y Springboks yn wynebu tîm Warren Gatland.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58115263</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58115263</guid>
+            <pubDate>Sat, 07 Aug 2021 07:39:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

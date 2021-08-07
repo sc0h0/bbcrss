@@ -5,7 +5,7 @@
 5. [Family tribute to 'blue-eyed boy' killed on Carmarthenshire farm](https://www.bbc.co.uk/news/uk-wales-58119013) - Police say three-year-old Ianto Sior Jenkins died after he was hit by a vehicle on the farm.
 6. [Charge delays slammed as St Asaph man's body 'deteriorates'](https://www.bbc.co.uk/news/uk-wales-58120457) - A coroner is concerned prosecutors' "tardiness" means a man's body remains in a mortuary.
 7. [Llanelli: Man, 56, dies after falling from e-scooter](https://www.bbc.co.uk/news/uk-wales-58120458) - No other vehicles were involved and the man died at the scene, police say.
-8. [Two days of rain and thunderstorms forecast for north and mid Wales](https://www.bbc.co.uk/news/uk-wales-58087494) - Homes could flood and roads close as they strike north and mid Wales, the Met Office has warned.
+8. [Thunderstorm weather warning for Wales on Saturday](https://www.bbc.co.uk/news/uk-wales-58087494) - Heavy rain could cause some flooding and travel disruption on Saturday, the Met Office says.
 9. [Tree-planting: Why are large investment firms buying Welsh farms?](https://www.bbc.co.uk/news/uk-wales-58103603) - Plans to encourage more tree-planting are under fire for "destroying" rural communities.
 10. [Tokyo Olympics: Lauren Price to fight for gold after beating Nouchka Fontijn](https://www.bbc.co.uk/sport/olympics/58111123) - Great Britain boxer Lauren Price will fight for a gold medal on the final day of Tokyo 2020 after winning her women's middleweight semi-final.
 11. [Covid anti-vaxxers: 'Shut down fake news sites,' begs daughter](https://www.bbc.co.uk/news/uk-wales-58103604) - The woman says her parents have been fooled by conspiracy theories about Covid online.
@@ -24,3 +24,4 @@
 24. ['Ry'n am i dorfeydd heidio i Dregaron yn 2022'](https://www.bbc.co.uk/newyddion/58069672) - Ar ddiwedd wythnos Eisteddfod AmGen pobl Ceredigion yn paratoi i godi momentwm ar gyfer 2022.
 25. [Gwasanaeth bysiau hyblyg i Ben Llŷn](https://www.bbc.co.uk/newyddion/58114782) - Mae teithwyr bysiau 'fflecsi' yn gallu dewis pryd a lle maent yn dymuno mynd a dod.
 26. [20 mlynedd ers i ferch gipio'r Gadair am y tro cyntaf](https://www.bbc.co.uk/newyddion/58105462) - Mererid Hopwood yn cofio ei chadeirio yn Eisteddfod Genedlaethol Dinbych 2001.
+27. [Y Llewod i ruo am y tro olaf yn Ne Affrica](https://www.bbc.co.uk/newyddion/58115263) - Gêm brawf dyngedfennol yn erbyn y Springboks yn wynebu tîm Warren Gatland.
