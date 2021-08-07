@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 15:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 16:05:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,10 +24,10 @@
         </item>
         <item>
             <title><![CDATA[Thunderstorms weather warning in place for Northern Ireland]]></title>
-            <description><![CDATA[A Met Office warning is in place until midnight with flooding reported in some parts of Fermanagh.]]></description>
+            <description><![CDATA[A Met Office warning is in place until midnight with flooding reported in parts of Fermanagh.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58127271</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58127271</guid>
-            <pubDate>Sat, 07 Aug 2021 12:37:27 GMT</pubDate>
+            <pubDate>Sat, 07 Aug 2021 15:50:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Six more Covid-linked deaths and 1,349 new cases]]></title>
@@ -58,6 +58,13 @@
             <pubDate>Sat, 07 Aug 2021 06:33:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Ireland's Stephanie Meadow finishes five shots behind winner Nelly Korda in seventh]]></title>
+            <description><![CDATA[Ireland's Stephanie Meadow finishes five shots behind winner Nelly Korda after an impressive final round of 66 in the women's golf in Saitama.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58126752</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58126752</guid>
+            <pubDate>Sat, 07 Aug 2021 13:29:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NBA prospect Aidan Igiehon blazing an Irish trail in US basketball]]></title>
             <description><![CDATA[Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58017675</link>
@@ -79,13 +86,6 @@
             <pubDate>Sat, 07 Aug 2021 06:46:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Ireland's Stephanie Meadow finishes five shots behind winner Nelly Korda in seventh]]></title>
-            <description><![CDATA[Ireland's Stephanie Meadow finishes five shots behind winner Nelly Korda after an impressive final round of 66 in the women's golf in Saitama.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58126752</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58126752</guid>
-            <pubDate>Sat, 07 Aug 2021 13:29:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Weather: Anglers' relief as rain returns]]></title>
             <description><![CDATA[The record temperatures of July led to river levels dropping seriously low.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58115345</link>
@@ -98,20 +98,6 @@
             <link>https://www.bbc.co.uk/sport/boxing/58124639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58124639</guid>
             <pubDate>Sat, 07 Aug 2021 00:05:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Robin Swann set to offer health staff 3% pay rise]]></title>
-            <description><![CDATA[Health minister Robin Swann says he will accept the increase recommended by a pay review body.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58114231</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58114231</guid>
-            <pubDate>Fri, 06 Aug 2021 15:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belfast flooding: Heavy rain affects travel and business]]></title>
-            <description><![CDATA[Met Office warnings remain in place for the weekend, as heavy rain and thunderstorms continue.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58116693</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58116693</guid>
-            <pubDate>Fri, 06 Aug 2021 16:50:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: More than 3,000 registered Covid-19 deaths in NI]]></title>
