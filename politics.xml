@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 05:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 06:23:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -352,6 +352,13 @@
             <pubDate>Thu, 29 Jul 2021 13:26:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dead Ringers impressionists on how Covid changed their work]]></title>
+            <description><![CDATA[Impressionists Jon Culshaw, Jan Ravens and Debra Stephenson on their ever-changing political material.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58079981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079981</guid>
+            <pubDate>Fri, 06 Aug 2021 23:07:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Boris Johnson's Thatcher remarks disgusting, says former miner]]></title>
             <description><![CDATA[A former miner has said Boris Johnson's comments on Margaret Thatcher's mine closures are "disgusting".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58113970</link>
@@ -378,13 +385,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58093828</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58093828</guid>
             <pubDate>Wed, 04 Aug 2021 16:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM: 'We must stop importing variants from abroad']]></title>
-            <description><![CDATA[Boris Johnson says a "balanced approach" is needed for foreign travel but wants advice to be "simple".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58063002</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58063002</guid>
-            <pubDate>Mon, 02 Aug 2021 17:48:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson: Why mining gaffe will linger after Scottish visit]]></title>

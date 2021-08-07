@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 05:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 06:22:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Wales moves to alert level zero with most rules scrapped]]></title>
+            <description><![CDATA[Social distancing ends, but face masks are still needed in shops and on public transport.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58086808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58086808</guid>
+            <pubDate>Sat, 07 Aug 2021 04:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cash prize jackpot offered for double-jabbed students]]></title>
+            <description><![CDATA[A university hopes to boost Covid jab take-up among students by offering £5,000 cash prizes.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58115658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58115658</guid>
+            <pubDate>Fri, 06 Aug 2021 23:54:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tokyo attack: Knife-wielding man injures 10 on train]]></title>
             <description><![CDATA[The suspect allegedly told police he was angry when he saw women who "looked happy".]]></description>
@@ -30,25 +44,11 @@
             <pubDate>Sat, 07 Aug 2021 01:09:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cash prize jackpot offered for double-jabbed students]]></title>
-            <description><![CDATA[A university hopes to boost Covid jab take-up among students by offering £5,000 cash prizes.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58115658</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58115658</guid>
-            <pubDate>Fri, 06 Aug 2021 23:54:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Climate change: New report will highlight 'stark reality' of warming]]></title>
             <description><![CDATA[The IPCC's short scientific summary due out on Monday will be strongest statement yet on climate change.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58102953</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58102953</guid>
             <pubDate>Sat, 07 Aug 2021 01:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wood Green stabbing: Man and police officers attacked in north London]]></title>
-            <description><![CDATA[The attack is not thought to be terrorism related and three people have been arrested, police said.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58124569</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58124569</guid>
-            <pubDate>Sat, 07 Aug 2021 01:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Families of 9/11 victims tell Biden not to attend memorial events]]></title>
@@ -65,18 +65,18 @@
             <pubDate>Fri, 06 Aug 2021 19:20:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Wales moves to alert level zero with most rules scrapped]]></title>
-            <description><![CDATA[Social distancing ends, but face masks are still needed in shops and on public transport.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58086808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58086808</guid>
-            <pubDate>Sat, 07 Aug 2021 04:57:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mercer Street: Tanker blast evidence points to Iran, says US]]></title>
             <description><![CDATA[The attack on the Israeli-operated merchant tanker last week killed two people.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58124489</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58124489</guid>
             <pubDate>Fri, 06 Aug 2021 23:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wood Green stabbing: Man and police officers attacked in north London]]></title>
+            <description><![CDATA[The attack is not thought to be terrorism related and three people have been arrested, police said.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58124569</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58124569</guid>
+            <pubDate>Sat, 07 Aug 2021 01:23:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece fires spread uncontrolled, killing a fireman]]></title>
@@ -226,11 +226,18 @@
             <pubDate>Fri, 06 Aug 2021 22:01:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Daley chases individual gold and Brazil v Spain in men's football final - day 15 guide]]></title>
-            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
-            <pubDate>Fri, 06 Aug 2021 17:21:00 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: GB's Galal Yafai beats Carlo Paalam to win flyweight boxing gold]]></title>
+            <description><![CDATA[Watch the best moments from the men's flyweight final as Great Britain's Galal Yafai beats Carlo Paalam of the Philippines to win gold at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58126963</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58126963</guid>
+            <pubDate>Sat, 07 Aug 2021 05:59:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Watch the best plays as USA beat France 87-82 in the men's basketball final]]></title>
+            <description><![CDATA[Watch some of the best action as Kevin Durant stars as the USA win their fourth consecutive gold medal in men's basketball with an 87-82 win over France.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58127085</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58127085</guid>
+            <pubDate>Sat, 07 Aug 2021 06:19:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Laura Muir: Watch Team GB star win brilliant 1500m silver at Tokyo Olympics]]></title>
@@ -240,20 +247,6 @@
             <pubDate>Fri, 06 Aug 2021 13:16:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred - Welsh Fire v Trent Rockets: Nat Sciver, Samit Patel & Wahab Riaz star as Rockets do the double in Cardiff]]></title>
-            <description><![CDATA[Watch the best of Friday's Hundred action as Trent Rockets do the double over Welsh Fire by winning the women's and men's matches at Sophia Gardens.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58124409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58124409</guid>
-            <pubDate>Fri, 06 Aug 2021 21:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Watch Kate French's 'incredible performance' as she wins modern pentathlon gold]]></title>
-            <description><![CDATA[Kate French storms away from the field with a dominant run in the final event of the modern pentathlon to earn Great Britain's 18th gold of the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58118505</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58118505</guid>
-            <pubDate>Fri, 06 Aug 2021 13:00:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tottenham striker Kane denies he refused to train]]></title>
             <description><![CDATA[Tottenham striker Harry Kane says he has "never refused to train" and added he will return to the club on Saturday as planned]]></description>
             <link>https://www.bbc.co.uk/sport/football/58122156</link>
@@ -261,11 +254,18 @@
             <pubDate>Fri, 06 Aug 2021 17:12:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[De Bruyne & Foden 'out for a while' - Community Shield preview]]></title>
+            <description><![CDATA[Kevin de Bruyne and fellow Manchester City midfielder Phil Foden will be "out for a while" with injuries, says boss Pep Guardiola.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58036460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58036460</guid>
+            <pubDate>Fri, 06 Aug 2021 21:32:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Galal Yafai wins men's flyweight boxing gold with victory over Carlo Paalam]]></title>
             <description><![CDATA[Britain's Galal Yafai wins Olympic gold in the men's 52kg flyweight boxing competition with a win over Carlo Paalam of the Philippines.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58125750</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58125750</guid>
-            <pubDate>Sat, 07 Aug 2021 05:45:15 GMT</pubDate>
+            <pubDate>Sat, 07 Aug 2021 06:19:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team USA beat France 87-82 to claim fourth straight gold medal]]></title>
@@ -275,18 +275,18 @@
             <pubDate>Sat, 07 Aug 2021 04:36:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Day-by-day guide to the key events, big stars and British medal hopes]]></title>
+            <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
+            <pubDate>Fri, 06 Aug 2021 17:21:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eurovision, Euro 2020 and Tokyo 2020 Olympics - Italy's golden summer]]></title>
             <description><![CDATA["This is Italy's moment of glory" - after Eurovision & Euro 2020 victories, an Italian Wimbledon finalist, now comes Olympics history in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58112120</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58112120</guid>
             <pubDate>Sat, 07 Aug 2021 01:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Golds for GB cyclists Laura Kenny & Katie Archibald, Kate French wins modern pentathlon, Laura Muir takes 1500m silver]]></title>
-            <description><![CDATA[Cyclist Laura Kenny becomes the first British woman to win gold at three Olympics, pentathlete Kate French triumphs and Laura Muir wins 1500m silver at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58116800</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58116800</guid>
-            <pubDate>Fri, 06 Aug 2021 16:03:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Great Britain win 4x100m relay silver and bronze]]></title>
