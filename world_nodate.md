@@ -1,8 +1,8 @@
 1. [Mercer Street: Tanker blast evidence points to Iran, says US](https://www.bbc.co.uk/news/world-middle-east-58124489) - The attack on the Israeli-operated merchant tanker last week killed two people.
 2. [Greece fires spread uncontrolled, killing a fireman](https://www.bbc.co.uk/news/world-europe-58124129) - Thousands of people are being evacuated as uncontrolled fires continue to rage.
-3. [Apple criticised for system that detects child abuse](https://www.bbc.co.uk/news/technology-58124495) - There are privacy concerns that the system will be expanded to scan phones for political speech.
+3. [Tokyo attack: Knife-wielding man injures 10 on train](https://www.bbc.co.uk/news/world-asia-58125414) - The suspect allegedly told police he was angry when he saw women who "looked happy".
 4. [Tokyo 2020: Olympic athletes struggle with heat at Games](https://www.bbc.co.uk/news/world-asia-58110846) - This games are one of the warmest on record, with many athletes complaining about the high temperatures.
-5. [Tokyo attack: Knife-wielding man injures 10 on train](https://www.bbc.co.uk/news/world-asia-58125414) - The suspect allegedly told police he was angry when he saw women who "looked happy".
+5. [Apple criticised for system that detects child abuse](https://www.bbc.co.uk/news/technology-58124495) - There are privacy concerns that the system will be expanded to scan phones for political speech.
 6. [Two arrested over plot to kill Myanmar UN ambassador](https://www.bbc.co.uk/news/world-us-canada-58088866) - Ambassador Kyaw Moe Tun is a vocal critic of Myanmar's junta, which seized power in a coup on 1 February.
 7. [Families of 9/11 victims tell Biden not to attend memorial events](https://www.bbc.co.uk/news/world-us-canada-58121267) - Relatives of the 2001 terror attack victims say Mr Biden must declassify what role Saudi Arabia had.
 8. [Afghanistan war: Taliban capture regional capital Zaranj](https://www.bbc.co.uk/news/world-asia-58119886) - Officials say the insurgents took the southern city of Zaranj, in a big blow to government forces.
