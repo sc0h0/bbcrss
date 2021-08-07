@@ -11,23 +11,51 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 06:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 06:45:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Belfast flooding: Heavy rain affects travel and business]]></title>
-            <description><![CDATA[Met Office warnings remain in place for the weekend, as heavy rain and thunderstorms continue.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58116693</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58116693</guid>
-            <pubDate>Fri, 06 Aug 2021 16:50:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Covid-19: NI has the highest infection rate in the UK]]></title>
             <description><![CDATA[Hospitalisations and deaths increase, but the data shows the vaccine is doing its job.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58124142</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58124142</guid>
             <pubDate>Sat, 07 Aug 2021 06:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anorexia: Planning for a wedding with an eating disorder]]></title>
+            <description><![CDATA[Leah Brown says she was "bombarded" with online weight loss suggestions when planning her wedding.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57841203</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57841203</guid>
+            <pubDate>Sat, 07 Aug 2021 06:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lilian Bland: The Carnmoney engineer who took to the skies]]></title>
+            <description><![CDATA[Exhibition focuses on Lilian Bland who became the first woman to build and fly her own plane.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58060274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58060274</guid>
+            <pubDate>Sat, 07 Aug 2021 06:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NBA prospect the 'Irish Hulk' blazing a trail in US basketball]]></title>
+            <description><![CDATA[Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58017675</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58017675</guid>
+            <pubDate>Sat, 07 Aug 2021 06:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael Conlan: Belfast boxer secures interim WBA belt with points win over TJ Doheny]]></title>
+            <description><![CDATA[Michael Conlan beats TJ Doheny on points in Belfast to become WBA interim featherweight champion, but has eyes on a bigger prize.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58124639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58124639</guid>
+            <pubDate>Sat, 07 Aug 2021 00:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belfast flooding: Heavy rain affects travel and business]]></title>
+            <description><![CDATA[Met Office warnings remain in place for the weekend, as heavy rain and thunderstorms continue.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58116693</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58116693</guid>
+            <pubDate>Fri, 06 Aug 2021 16:50:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: More than 3,000 registered Covid-19 deaths in NI]]></title>
@@ -42,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58119663</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58119663</guid>
             <pubDate>Fri, 06 Aug 2021 16:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michael Conlan: Belfast boxer secures interim WBA belt with points win over TJ Doheny]]></title>
-            <description><![CDATA[Michael Conlan beats TJ Doheny on points in Belfast to become WBA interim featherweight champion, but has eyes on a bigger prize.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58124639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58124639</guid>
-            <pubDate>Sat, 07 Aug 2021 00:05:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Linden Foods: Man who died named as Allister Kelly]]></title>
@@ -261,6 +282,13 @@
             <pubDate>Sun, 01 Aug 2021 05:36:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['They call me the Irish hulk of basketball']]></title>
+            <description><![CDATA[Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58017676</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58017676</guid>
+            <pubDate>Fri, 06 Aug 2021 23:07:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Adoption in NI: Families welcome new laws to provide support]]></title>
             <description><![CDATA[Adoptive parents welcome a new bill to modernise NI's laws and provide families with more support.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58117985</link>
@@ -280,13 +308,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58102188</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58102188</guid>
             <pubDate>Thu, 05 Aug 2021 10:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: 'I tested positive on the side of a mountain']]></title>
-            <description><![CDATA[Paul McErlean, from County Londonderry, was hiking near Snowdon when he got a text about the virus.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58093265</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58093265</guid>
-            <pubDate>Wed, 04 Aug 2021 16:27:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A5 road project exceeds £80m with work yet to start]]></title>
