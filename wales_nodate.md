@@ -1,5 +1,5 @@
 1. [Covid: Pubs busy as most rules end in Wales](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
-2. [Bridge-collapse fears trigger alert for Bassaleg homeowners](https://www.bbc.co.uk/news/uk-wales-58128542) - Temporary accommodation is available for those who decide to leave their homes, says a city council.
+2. [Bridge-collapse fears trigger alert for Bassaleg homeowners](https://www.bbc.co.uk/news/uk-wales-58128542) - Temporary accommodation is available for those who decide to leave, the council says.
 3. [Covid: Students in Wales able to enjoy first night out in 18 months](https://www.bbc.co.uk/news/uk-wales-58115223) - Nightclubs in Wales are finally able to reopen their doors - but people are urged to be sensible.
 4. [Logan Mwangi: Balloons tribute to boy found dead in river](https://www.bbc.co.uk/news/uk-wales-58128725) - About 200 people gathered to release balloons and pay tribute to five-year-old Logan.
 5. [Cardiff Gate hotel car park 'stabbing' prompts arrest](https://www.bbc.co.uk/news/uk-wales-58129985) - A 23-year-old is arrested following the incident in a car park at the Ibis hotel, Cardiff Gate.
@@ -24,4 +24,4 @@
 24. [Teyrnged cymuned i fachgen pump oed fu farw mewn afon](https://www.bbc.co.uk/newyddion/58128547) - Tua 200 o bobl wedi ymgynnull i roi teyrnged i Logan Mwangi a gafodd ei ddarganfod yn farw yn Afon Ogwr.
 25. [Dyn yn yr ysbyty ar ôl 'trywaniad' mewn maes parcio](https://www.bbc.co.uk/newyddion/58129886) - Mae dyn 23 oed wedi cael ei arestio'n dilyn y digwyddiad ym maes parcio gwesty'r Ibis, yng Ngiât Caerdydd.
 26. [Llyfr y Flwyddyn: 'Iechyd meddwl yn epidemig ymysg pobl ifanc'](https://www.bbc.co.uk/newyddion/58118224) - Awdur y nofel fuddugol ym mhrif wobr Llyfr y Flwyddyn eleni yn disgrifio mai ei bwriad oedd ceisio 'gwneud i rai pobl ifanc deimlo'n llai unig'.
-27. [Y Bencampwriaeth: Blackburn 2-1 Abertawe](https://www.bbc.co.uk/newyddion/58128544) - Abertawe'n colli ei gêm agoriadol yn y Bencampwriaeth yn erbyn Blackburn.
+27. [Adran Dau: Oldham 0-1 Casnewydd](https://www.bbc.co.uk/newyddion/58128545) - Casnewydd oedd yn fuddugol gyda Kevin Ellison yn penio'r bel mewn i'r gôl 88 munud mewn i'r gêm.

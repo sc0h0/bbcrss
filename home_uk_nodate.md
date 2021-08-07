@@ -6,9 +6,9 @@
 6. [Princess Charlotte joins Big Butterfly Count](https://www.bbc.co.uk/news/uk-58130935) - The Duke and Duchess of Cambridge share a photo to promote the Butterfly Conservation initiative.
 7. [Tokyo Olympics: German pentathlon coach thrown out for punching horse](https://www.bbc.co.uk/sport/olympics/58127366) - A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.
 8. [Wood Green stabbing: Police officers and social worker attacked](https://www.bbc.co.uk/news/uk-england-london-58124569) - Three people are arrested after the social worker and officers were attacked in north London.
-9. [Lionel Messi: Paris St-Germain in talks with Argentine after leaving Barcelona](https://www.bbc.co.uk/sport/football/58128763) - Paris St-Germain are in talks with Lionel Messi's representatives about the Argentina forward joining the Ligue 1 club following his Barcelona exit.
-10. [Covid: Pubs busy as most rules end in Wales](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
-11. [Famous Central Park owl killed in crash with van](https://www.bbc.co.uk/news/world-us-canada-58127413) - Barry the beloved owl was hit by a maintenance vehicle in the park while searching for food.
+9. [Covid: Pubs busy as most rules end in Wales](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
+10. [Famous Central Park owl killed in crash with van](https://www.bbc.co.uk/news/world-us-canada-58127413) - Barry the beloved owl was hit by a maintenance vehicle in the park while searching for food.
+11. [Lionel Messi: Paris St-Germain in talks with Argentine after leaving Barcelona](https://www.bbc.co.uk/sport/football/58128763) - Paris St-Germain are in talks with Lionel Messi's representatives about the Argentina forward joining the Ligue 1 club following his Barcelona exit.
 12. [ICYMI: Surfing, an Olympic maze and a sheep stampede](https://www.bbc.co.uk/news/world-58101466) - Some of the stories you may have missed this week.
 13. [Afghan interpreter: 'A better life for my wife and children in the UK'](https://www.bbc.co.uk/news/uk-58124249) - Afghan interpreters who worked with British forces are being relocated to the UK, as the Taliban advance.
 14. [Week in pictures: 31 July - 6 August 2021](https://www.bbc.co.uk/news/in-pictures-58100824) - A selection of powerful images taken around the world this week.
