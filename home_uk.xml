@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 11:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 11:33:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Sat, 07 Aug 2021 08:32:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cash prize jackpot offered for double-jabbed students]]></title>
-            <description><![CDATA[A university hopes to boost Covid jab take-up among students by offering 10 £5,000 cash prizes.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58115658</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58115658</guid>
-            <pubDate>Fri, 06 Aug 2021 23:54:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: German pentathlon coach thrown out for punching horse]]></title>
             <description><![CDATA[A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58127366</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127366</guid>
             <pubDate>Sat, 07 Aug 2021 08:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bat killed by cat after record 1,200-mile journey]]></title>
+            <description><![CDATA[A record-breaking bat - the size of a human thumb - is discovered in Russia after flying from London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58128773</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58128773</guid>
+            <pubDate>Sat, 07 Aug 2021 11:27:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: New report will highlight 'stark reality' of warming]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58127407</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58127407</guid>
             <pubDate>Sat, 07 Aug 2021 09:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cash prize jackpot offered for double-jabbed students]]></title>
+            <description><![CDATA[A university hopes to boost Covid jab take-up among students by offering 10 £5,000 cash prizes.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58115658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58115658</guid>
+            <pubDate>Fri, 06 Aug 2021 23:54:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dungannon: Man arrested on suspicion of murder after child's death]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58124569</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58124569</guid>
             <pubDate>Sat, 07 Aug 2021 01:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greece fires spread uncontrolled, killing a fireman]]></title>
-            <description><![CDATA[Thousands of people are being evacuated as uncontrolled fires continue to rage.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58124129</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58124129</guid>
-            <pubDate>Sat, 07 Aug 2021 08:37:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'No more lockdowns', and Team GB's medal haul]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Sat, 07 Aug 2021 05:59:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lionel Messi: Paris St-Germain in talks with Argentine after leaving Barcelona]]></title>
+            <description><![CDATA[Paris St-Germain are in talks with Lionel Messi's representatives about the Argentina forward joining the Ligue 1 club following his Barcelona exit.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58128763</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58128763</guid>
+            <pubDate>Sat, 07 Aug 2021 11:18:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Joseph Choong wins modern pentathlon gold for Team GB]]></title>
             <description><![CDATA[Joseph Choong becomes Great Britain's first individual medallist in modern pentathlon, winning gold at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58128306</link>
@@ -247,13 +254,6 @@
             <pubDate>Sat, 07 Aug 2021 09:43:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['There's been cynicism, anger and frustration' - O'Gara wants Lions 'spark' to save series]]></title>
-            <description><![CDATA[The British and Irish Lions' decisive third Test in South Africa "has huge implications for the future of rugby", says three-time tourist Ronan O'Gara.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58119049</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58119049</guid>
-            <pubDate>Fri, 06 Aug 2021 22:01:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Joe Choong wins gold for Great Britain in men's modern pentathlon]]></title>
             <description><![CDATA[Joe Choong wins gold in the men's modern pentathlon to seal an Olympic double for Great Britain after Kate French triumphed in the women's event.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58127255</link>
@@ -273,6 +273,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58125750</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58125750</guid>
             <pubDate>Sat, 07 Aug 2021 06:19:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Laura Muir comes to terms with place in history after 1500m silver]]></title>
+            <description><![CDATA[Great Britain's Laura Muir did not get much sleep after her 1500m silver, but is now starting to come to terms with her success.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58128808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58128808</guid>
+            <pubDate>Sat, 07 Aug 2021 11:00:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Cyclists Matt Walls and Ethan Hayter win silver in men's madison]]></title>
