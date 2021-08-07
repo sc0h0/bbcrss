@@ -1,4 +1,4 @@
-1. [Greece fires spread uncontrolled, killing a fireman](https://www.bbc.co.uk/news/world-europe-58124129) - Thousands of people are being evacuated as uncontrolled fires continue to rage.
+1. [Greece wildfires spread, causing mass evacuations](https://www.bbc.co.uk/news/world-europe-58124129) - Thousands of people are evacuated north of the capital, Athens, as fires continue to rage.
 2. [Tokyo Olympics: Team USA beat France 87-82 to claim fourth straight gold medal](https://www.bbc.co.uk/sport/olympics/58125670) - USA beat France to win their fourth basketball gold medal in a row.
 3. [Tokyo Olympics: Israel's Linoy Ashram ends Russian dominance in rhythmic gymnastics](https://www.bbc.co.uk/sport/olympics/58127312) - Israel's Linoy Ashram caused a huge upset in the Olympic rhythmic gymnastics individual all-around final, becoming the first non-Russian champion since 1996.
 4. [Olympics expels Belarus coaches over athlete removal](https://www.bbc.co.uk/news/world-europe-58095558) - Ms Timanovskaya said she was forced to leave Tokyo after she complained about her coaches online.
@@ -11,8 +11,8 @@
 11. [What is Fox News host Carlson doing in Hungary?](https://www.bbc.co.uk/news/world-europe-58104200) - The controversial news host is the latest high-profile ally of Hungary's embattled prime minister.
 12. [Brexit rules burden bands touring in EU](https://www.bbc.co.uk/news/entertainment-arts-58006647) - One band explain what it's been like trying to tour in France in the age of Covid and Brexit.
 13. [What are the big aims for the UN climate summit?](https://www.bbc.co.uk/news/science-environment-56901261) - The annual climate change summit is being held in Glasgow - who's going and what's at stake?
-14. ['They call me the Irish hulk of basketball'](https://www.bbc.co.uk/news/world-europe-58017676) - Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.
-15. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-middle-east-58108697) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.
-16. [Tankus the Henge: Touring in France post-Brexit 'a puzzle'](https://www.bbc.co.uk/news/entertainment-arts-58063110) - Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.
-17. [Athlete Krystina Timanovskaya: 'It's dangerous for me in Belarus'](https://www.bbc.co.uk/news/world-europe-58099987) - Athlete Krystina Timanovskaya tells the BBC that she can't return to her home country over safety fears.
-18. [Christian Eriksen referee: Defibrillators save lives](https://www.bbc.co.uk/sport/av/football/58080593) - Premier League referee Anthony Taylor outlines why defibrillators should be available for grassroots football.
+14. [Greece fires: Hundreds rescued by coastguard](https://www.bbc.co.uk/news/world-europe-58128033) - The coastguard moved 650 people from Limni, in the north of the island of Evia.
+15. ['They call me the Irish hulk of basketball'](https://www.bbc.co.uk/news/world-europe-58017676) - Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.
+16. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-middle-east-58108697) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.
+17. [Tankus the Henge: Touring in France post-Brexit 'a puzzle'](https://www.bbc.co.uk/news/entertainment-arts-58063110) - Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.
+18. [Athlete Krystina Timanovskaya: 'It's dangerous for me in Belarus'](https://www.bbc.co.uk/news/world-europe-58099987) - Athlete Krystina Timanovskaya tells the BBC that she can't return to her home country over safety fears.

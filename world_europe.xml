@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 11:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 11:52:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Greece fires spread uncontrolled, killing a fireman]]></title>
-            <description><![CDATA[Thousands of people are being evacuated as uncontrolled fires continue to rage.]]></description>
+            <title><![CDATA[Greece wildfires spread, causing mass evacuations]]></title>
+            <description><![CDATA[Thousands of people are evacuated north of the capital, Athens, as fires continue to rage.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58124129</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58124129</guid>
-            <pubDate>Sat, 07 Aug 2021 08:37:24 GMT</pubDate>
+            <pubDate>Sat, 07 Aug 2021 11:44:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team USA beat France 87-82 to claim fourth straight gold medal]]></title>
@@ -107,6 +107,13 @@
             <pubDate>Fri, 06 Aug 2021 07:07:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Greece fires: Hundreds rescued by coastguard]]></title>
+            <description><![CDATA[The coastguard moved 650 people from Limni, in the north of the island of Evia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58128033</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58128033</guid>
+            <pubDate>Sat, 07 Aug 2021 11:40:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['They call me the Irish hulk of basketball']]></title>
             <description><![CDATA[Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58017676</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58099987</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58099987</guid>
             <pubDate>Thu, 05 Aug 2021 14:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christian Eriksen referee: Defibrillators save lives]]></title>
-            <description><![CDATA[Premier League referee Anthony Taylor outlines why defibrillators should be available for grassroots football.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58080593</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58080593</guid>
-            <pubDate>Tue, 03 Aug 2021 18:46:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
