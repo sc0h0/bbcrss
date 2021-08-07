@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 09:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 09:41:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Dungannon: Man arrested on suspicion of murder after child's death]]></title>
+            <description><![CDATA[A 32-year-old man is in custody on suspicion of murder after the young girl died in hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58127275</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58127275</guid>
+            <pubDate>Sat, 07 Aug 2021 09:34:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: NI has the highest infection rate in the UK]]></title>
             <description><![CDATA[Hospitalisations and deaths increase, but the data shows the vaccine is doing its job.]]></description>
@@ -51,25 +58,11 @@
             <pubDate>Sat, 07 Aug 2021 06:27:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Michael Conlan: Belfast boxer secures interim WBA belt with points win over TJ Doheny]]></title>
-            <description><![CDATA[Michael Conlan beats TJ Doheny on points in Belfast to become WBA interim featherweight champion, but has eyes on a bigger prize.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58124639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58124639</guid>
-            <pubDate>Sat, 07 Aug 2021 00:05:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[North coast murals spring up 'to encourage footfall']]></title>
             <description><![CDATA[The mayor of Causeway Coast and Glens says the new installations are "a fantastic talking point".]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58112419</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58112419</guid>
             <pubDate>Sat, 07 Aug 2021 06:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weather: Anglers' relief as rain returns]]></title>
-            <description><![CDATA[The record temperatures of July led to river levels dropping seriously low.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58115345</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58115345</guid>
-            <pubDate>Sat, 07 Aug 2021 06:40:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Ireland's Stephanie Meadow finishes five shots behind winner Nelly Korda in seventh]]></title>
@@ -79,25 +72,25 @@
             <pubDate>Sat, 07 Aug 2021 09:16:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Weather: Anglers' relief as rain returns]]></title>
+            <description><![CDATA[The record temperatures of July led to river levels dropping seriously low.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58115345</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58115345</guid>
+            <pubDate>Sat, 07 Aug 2021 06:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael Conlan: Belfast boxer secures interim WBA belt with points win over TJ Doheny]]></title>
+            <description><![CDATA[Michael Conlan beats TJ Doheny on points in Belfast to become WBA interim featherweight champion, but has eyes on a bigger prize.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58124639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58124639</guid>
+            <pubDate>Sat, 07 Aug 2021 00:05:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Belfast flooding: Heavy rain affects travel and business]]></title>
             <description><![CDATA[Met Office warnings remain in place for the weekend, as heavy rain and thunderstorms continue.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58116693</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58116693</guid>
             <pubDate>Fri, 06 Aug 2021 16:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: More than 3,000 registered Covid-19 deaths in NI]]></title>
-            <description><![CDATA[For the first time, a person under the age of 15 is among the Covid-related deaths registered.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58112415</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58112415</guid>
-            <pubDate>Fri, 06 Aug 2021 19:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Londonderry man is jailed after refusing hotel quarantine]]></title>
-            <description><![CDATA[Court hears man did not quarantine after returning from Turkey because he could not afford the cost.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58119663</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58119663</guid>
-            <pubDate>Fri, 06 Aug 2021 16:09:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robin Swann set to offer health staff 3% pay rise]]></title>
@@ -114,11 +107,11 @@
             <pubDate>Fri, 06 Aug 2021 13:28:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Four more Covid-linked deaths and 1,434 new cases]]></title>
-            <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,213.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58119813</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58119813</guid>
-            <pubDate>Fri, 06 Aug 2021 16:22:29 GMT</pubDate>
+            <title><![CDATA[Coronavirus: More than 3,000 registered Covid-19 deaths in NI]]></title>
+            <description><![CDATA[For the first time, a person under the age of 15 is among the Covid-related deaths registered.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58112415</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58112415</guid>
+            <pubDate>Fri, 06 Aug 2021 19:25:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI Covid-19 vaccine roll-out for over 16s under way]]></title>
@@ -126,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58105372</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58105372</guid>
             <pubDate>Fri, 06 Aug 2021 16:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Four more Covid-linked deaths and 1,434 new cases]]></title>
+            <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,213.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58119813</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58119813</guid>
+            <pubDate>Fri, 06 Aug 2021 16:22:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Q&A: What are Northern Ireland's Covid travel rules?]]></title>
@@ -261,6 +261,20 @@
             <pubDate>Thu, 05 Aug 2021 17:23:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Londonderry man is jailed after refusing hotel quarantine]]></title>
+            <description><![CDATA[Court hears man did not quarantine after returning from Turkey because he could not afford the cost.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58119663</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58119663</guid>
+            <pubDate>Fri, 06 Aug 2021 16:09:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Derry City: Lafferty double and McGonigle strike give Candystripes 3-0 win over Drogheda United]]></title>
+            <description><![CDATA[A double from Daniel Lafferty and Jamie McGonigle's first goal for the club give Derry City a convincing 3-0 win over Drogheda United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58123999</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58123999</guid>
+            <pubDate>Fri, 06 Aug 2021 20:41:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A5 road project exceeds £80m with work yet to start]]></title>
             <description><![CDATA[The dual carriageway will connect Londonderry to the border at Aughnacloy and beyond to Dublin.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58090116</link>
@@ -273,20 +287,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58057183</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58057183</guid>
             <pubDate>Tue, 03 Aug 2021 12:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Communions and confirmations to resume, Bishop of Raphoe says]]></title>
-            <description><![CDATA[The Bishop of Raphoe is the fifth Irish bishop to say communions and confirmations will restart.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58054520</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58054520</guid>
-            <pubDate>Mon, 02 Aug 2021 08:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derry City beat Longford to move into sixth]]></title>
-            <description><![CDATA[Derry City beat Longford Town 2-0 in Saturday night's Premier Division game at Bishopsgate to move into sixth place in the table.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58022304</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58022304</guid>
-            <pubDate>Sat, 31 Jul 2021 20:26:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rosslare Port: Heroin worth more than €12m seized]]></title>
