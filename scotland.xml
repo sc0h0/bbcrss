@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 20:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 21:08:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -212,6 +212,13 @@
             <pubDate>Wed, 04 Aug 2021 20:25:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[South Africa 19-16 British and Irish Lions: Finn Russell 'excellent' despite loss]]></title>
+            <description><![CDATA[Head coach Warren Gatland says Finn Russell "was excellent" considering his lack of rugby in the British and Irish Lions' defeat by South Africa.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58132287</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58132287</guid>
+            <pubDate>Sat, 07 Aug 2021 21:02:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dundee United 1-0 Rangers: Robson consigns visitors to first league defeat in 41 games]]></title>
             <description><![CDATA[Rangers lose in the league for the first time in 41 games as Jamie Robson's goal secures Dundee United's first points of the campaign.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58036410</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/football/58036405</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58036405</guid>
             <pubDate>Sat, 07 Aug 2021 15:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lee McGregor retains European bantamweight title despite knock down]]></title>
-            <description><![CDATA[Lee McGregor recovers from being knocked down to retain his European bantamweight title against Vincent Legrand.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58128061</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58128061</guid>
-            <pubDate>Sat, 07 Aug 2021 08:55:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
