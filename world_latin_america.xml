@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 14:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 14:42:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Brazil defend men's football title with win over Spain]]></title>
+            <description><![CDATA[Brazil defend their Olympic men's football title following a dramatic extra-time victory over Spain.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58129614</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58129614</guid>
+            <pubDate>Sat, 07 Aug 2021 14:05:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nicaragua opposition party barred from elections]]></title>
             <description><![CDATA[President Daniel Ortega has been accused of trying to silence those who wish to stand against him.]]></description>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58094908</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58094908</guid>
             <pubDate>Wed, 04 Aug 2021 21:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Biden to continue Trump's Title 42 migrant expulsions]]></title>
-            <description><![CDATA[The White House plans to continue the controversial Title 42 policy to help combat Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58077311</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58077311</guid>
-            <pubDate>Tue, 03 Aug 2021 18:23:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pedro Castillo: The primary school teacher who became Peru's president]]></title>
