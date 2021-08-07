@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 14:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 15:10:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -191,6 +191,13 @@
             <pubDate>Sat, 07 Aug 2021 13:29:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo 2020: Japan beat US to win first Olympic baseball gold medal]]></title>
+            <description><![CDATA[An elated Japanese side won the coveted Olympic baseball gold at Tokyo 2020 after beating the United States on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58130125</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58130125</guid>
+            <pubDate>Sat, 07 Aug 2021 14:21:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Brazil defend men's football title with win over Spain]]></title>
             <description><![CDATA[Brazil defend their Olympic men's football title following a dramatic extra-time victory over Spain.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58129614</link>
@@ -205,13 +212,6 @@
             <pubDate>Sat, 07 Aug 2021 11:22:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Kenya's Peres Jepchirchir wins women's marathon]]></title>
-            <description><![CDATA[Peres Jepchirchir wins the women's marathon at Tokyo 2020 as Kenya claim a one-two in sweltering 28C heat in Japan's northern city of Sapporo.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58124519</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58124519</guid>
-            <pubDate>Sat, 07 Aug 2021 00:05:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: USA's Nelly Korda wins gold on dramatic final day of golf competition]]></title>
             <description><![CDATA[American Nelly Korda wins gold on a dramatic final day in the women's Olympic golf.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58126512</link>
@@ -219,11 +219,11 @@
             <pubDate>Sat, 07 Aug 2021 07:17:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US wins fourth straight men's basketball gold ]]></title>
-            <description><![CDATA[USA beat France to win their fourth basketball gold medal in a row.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58125670</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58125670</guid>
-            <pubDate>Sat, 07 Aug 2021 06:47:40 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Kenya's Peres Jepchirchir wins women's marathon]]></title>
+            <description><![CDATA[Peres Jepchirchir wins the women's marathon at Tokyo 2020 as Kenya claim a one-two in sweltering 28C heat in Japan's northern city of Sapporo.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58124519</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58124519</guid>
+            <pubDate>Sat, 07 Aug 2021 00:05:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
