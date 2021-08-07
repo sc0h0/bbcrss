@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 22:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 23:16:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Sun, 01 Aug 2021 23:34:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Capturing the perfect moment]]></title>
+            <description><![CDATA[Three sports photographers explain what goes into getting the best shots of the day at the Games.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58115465</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58115465</guid>
+            <pubDate>Sat, 07 Aug 2021 23:00:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tankus the Henge: Touring in France post-Brexit 'a puzzle']]></title>
             <description><![CDATA[Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58063110</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58077623</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58077623</guid>
             <pubDate>Wed, 04 Aug 2021 08:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bronze Age sword on display in Fermanagh museum]]></title>
-            <description><![CDATA[The Bronze Age sword had been in private hands since being discovered on the shores of the River Erne in County Fermanagh in 1952.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58093268</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58093268</guid>
-            <pubDate>Thu, 05 Aug 2021 17:23:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

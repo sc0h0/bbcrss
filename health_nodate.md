@@ -36,8 +36,8 @@
 36. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 37. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 38. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-39. [Covid vaccine: Needle-phobic call for vaccine exemption](https://www.bbc.co.uk/news/health-58100674) - Adam has anxiety and a phobia of needles and has twice attempted to get a Covid-19 vaccine.
-40. [Munchausen by Internet: Are chronic illness influencers really faking it?](https://www.bbc.co.uk/news/stories-58093455) - Munchausen by Internet: Are some influencers faking illnesses for fame, money and attention?
-41. [Covid: 'No time to waste' in vaccinating 16-17 year olds](https://www.bbc.co.uk/news/uk-58092705) - Children aged 16-17 should be vaccinated "as fast as practically possible", Prof Jonathan Van-Tam says.
-42. [Covid: 16 and 17-year-olds react to jab rollout plan](https://www.bbc.co.uk/news/uk-58092946) - All 16 and 17-year-olds in the UK will be offered Covid jabs within weeks, it has been announced.
-43. [Covid: Professor Jonathan Van-Tam answers your questions](https://www.bbc.co.uk/news/uk-58020184) - The deputy chief medical officer answers a range of questions about Covid from young audience members.
+39. ['Walking to space was the best day of my life'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075) - Tim, aged nine, walked 62 miles - the distance between Earth's atmosphere and the boundary of space.
+40. [Covid vaccine: Needle-phobic call for vaccine exemption](https://www.bbc.co.uk/news/health-58100674) - Adam has anxiety and a phobia of needles and has twice attempted to get a Covid-19 vaccine.
+41. [Munchausen by Internet: Are chronic illness influencers really faking it?](https://www.bbc.co.uk/news/stories-58093455) - Munchausen by Internet: Are some influencers faking illnesses for fame, money and attention?
+42. [Covid: 'No time to waste' in vaccinating 16-17 year olds](https://www.bbc.co.uk/news/uk-58092705) - Children aged 16-17 should be vaccinated "as fast as practically possible", Prof Jonathan Van-Tam says.
+43. [Covid: 16 and 17-year-olds react to jab rollout plan](https://www.bbc.co.uk/news/uk-58092946) - All 16 and 17-year-olds in the UK will be offered Covid jabs within weeks, it has been announced.
