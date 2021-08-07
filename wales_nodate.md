@@ -3,9 +3,9 @@
 3. [Logan Mwangi: Three in court over boy's river death](https://www.bbc.co.uk/news/uk-wales-58112175) - Logan Mwangi's step-dad is charged with murder and his mother with perverting the course of justice.
 4. [Covid: How will we adjust to life without so many rules?](https://www.bbc.co.uk/news/uk-wales-58121667) - With Wales moving into alert level zero, an expert says behaviours learnt in the pandemic might last.
 5. [Family tribute to 'blue-eyed boy' killed on Carmarthenshire farm](https://www.bbc.co.uk/news/uk-wales-58119013) - Police say three-year-old Ianto Sior Jenkins died after he was hit by a vehicle on the farm.
-6. [Charge delays slammed as St Asaph man's body 'deteriorates'](https://www.bbc.co.uk/news/uk-wales-58120457) - A coroner is concerned prosecutors' "tardiness" means a man's body remains in a mortuary.
+6. [Thunderstorm weather warning for Wales on Saturday](https://www.bbc.co.uk/news/uk-wales-58087494) - Heavy rain could cause some flooding and travel disruption on Saturday, the Met Office says.
 7. [Llanelli: Man, 56, dies after falling from e-scooter](https://www.bbc.co.uk/news/uk-wales-58120458) - No other vehicles were involved and the man died at the scene, police say.
-8. [Thunderstorm weather warning for Wales on Saturday](https://www.bbc.co.uk/news/uk-wales-58087494) - Heavy rain could cause some flooding and travel disruption on Saturday, the Met Office says.
+8. [Charge delays slammed as St Asaph man's body 'deteriorates'](https://www.bbc.co.uk/news/uk-wales-58120457) - A coroner is concerned prosecutors' "tardiness" means a man's body remains in a mortuary.
 9. [Tree-planting: Why are large investment firms buying Welsh farms?](https://www.bbc.co.uk/news/uk-wales-58103603) - Plans to encourage more tree-planting are under fire for "destroying" rural communities.
 10. [Tokyo Olympics: Lauren Price to fight for gold after beating Nouchka Fontijn](https://www.bbc.co.uk/sport/olympics/58111123) - Great Britain boxer Lauren Price will fight for a gold medal on the final day of Tokyo 2020 after winning her women's middleweight semi-final.
 11. [Covid anti-vaxxers: 'Shut down fake news sites,' begs daughter](https://www.bbc.co.uk/news/uk-wales-58103604) - The woman says her parents have been fooled by conspiracy theories about Covid online.
