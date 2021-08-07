@@ -1,5 +1,5 @@
 1. [Dungannon: Man arrested on suspicion of murder after child's death](https://www.bbc.co.uk/news/uk-northern-ireland-58127275) - A 32-year-old man is in custody on suspicion of murder after the young girl died in hospital.
-2. [Thunderstorms weather warning in place for Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-58127271) - A Met Office warning is in place until midnight with flooding reported in parts of Fermanagh.
+2. [Floods cause disruption amid NI weather warning](https://www.bbc.co.uk/news/uk-northern-ireland-58127271) - Northern Ireland remains under a yellow weather warning for thunderstorms after rain brought flooding.
 3. [Covid-19: Six more Covid-linked deaths and 1,349 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58127380) - The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,219.
 4. [Covid-19: NI has the highest infection rate in the UK](https://www.bbc.co.uk/news/world-europe-58124142) - Hospitalisations and deaths increase, but the data shows the vaccine is doing its job.
 5. [All-Ireland SFC semi-final: Covid concern for Tyrone ahead of Kerry showdown](https://www.bbc.co.uk/sport/gaelic-games/58130435) - The All-Ireland SFC semi-final between Tyrone and Kerry next Sunday could potentially be in doubt as the Red Hands panel is tested for Covid-19.

@@ -1,14 +1,14 @@
 1. [Covid: Pubs busy as most rules end in Wales](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
 2. [Bridge-collapse fears trigger alert for Bassaleg homeowners](https://www.bbc.co.uk/news/uk-wales-58128542) - Temporary accommodation is available for those who decide to leave, the council says.
 3. [Covid: Students in Wales able to enjoy first night out in 18 months](https://www.bbc.co.uk/news/uk-wales-58115223) - Nightclubs in Wales are finally able to reopen their doors - but people are urged to be sensible.
-4. [Logan Mwangi: Balloons tribute to boy found dead in river](https://www.bbc.co.uk/news/uk-wales-58128725) - About 200 people gathered to release balloons and pay tribute to five-year-old Logan.
-5. [Cardiff Gate hotel car park 'stabbing' prompts arrest](https://www.bbc.co.uk/news/uk-wales-58129985) - A 23-year-old is arrested following the incident in a car park at the Ibis hotel, Cardiff Gate.
+4. [South Africa 19-16 British and Irish Lions: Morne Steyn's late penalty wins series](https://www.bbc.co.uk/sport/rugby-union/58130765) - The British and Irish Lions lose an agonisingly close series decider to South Africa as Morne Steyn's late penalty seals a 19-16 victory.
+5. [Logan Mwangi: Balloons tribute to boy found dead in river](https://www.bbc.co.uk/news/uk-wales-58128725) - About 200 people gathered to release balloons and pay tribute to five-year-old Logan.
 6. [Covid: How will we adjust to life without so many rules?](https://www.bbc.co.uk/news/uk-wales-58121667) - With Wales moving into alert level zero, an expert says behaviours learnt in the pandemic might last.
-7. [Family tribute to 'blue-eyed boy' killed on Carmarthenshire farm](https://www.bbc.co.uk/news/uk-wales-58119013) - Police say three-year-old Ianto Sior Jenkins died after he was hit by a vehicle on the farm.
-8. [Llanelli: Man, 56, dies after falling from e-scooter](https://www.bbc.co.uk/news/uk-wales-58120458) - No other vehicles were involved and the man died at the scene, police say.
+7. [Cardiff Gate hotel car park 'stabbing' prompts arrest](https://www.bbc.co.uk/news/uk-wales-58129985) - A 23-year-old is arrested following the incident in a car park at the Ibis hotel, Cardiff Gate.
+8. [Family tribute to 'blue-eyed boy' killed on Carmarthenshire farm](https://www.bbc.co.uk/news/uk-wales-58119013) - Police say three-year-old Ianto Sior Jenkins died after he was hit by a vehicle on the farm.
 9. [Thunderstorm weather warning for Wales on Sunday](https://www.bbc.co.uk/news/uk-wales-58087494) - Heavy rain could cause some flooding and travel disruption on Sunday, the Met Office says.
-10. [Charge delays slammed as St Asaph man's body 'deteriorates'](https://www.bbc.co.uk/news/uk-wales-58120457) - A coroner is concerned prosecutors' "tardiness" means a man's body remains in a mortuary.
-11. [Tokyo Olympics: Lauren Price to fight for gold after beating Nouchka Fontijn](https://www.bbc.co.uk/sport/olympics/58111123) - Great Britain boxer Lauren Price will fight for a gold medal on the final day of Tokyo 2020 after winning her women's middleweight semi-final.
+10. [Llanelli: Man, 56, dies after falling from e-scooter](https://www.bbc.co.uk/news/uk-wales-58120458) - No other vehicles were involved and the man died at the scene, police say.
+11. [Charge delays slammed as St Asaph man's body 'deteriorates'](https://www.bbc.co.uk/news/uk-wales-58120457) - A coroner is concerned prosecutors' "tardiness" means a man's body remains in a mortuary.
 12. [Covid: Excitement as nightclubs reopen in Wales](https://www.bbc.co.uk/news/uk-wales-58123120) - Most of Wales' remaining Covid rules are lifted as nightclubs reopen in alert level zero.
 13. [Covid: Hospitality rules change after '18 months of hell'](https://www.bbc.co.uk/news/uk-wales-58122602) - Two-metre distancing and masks will not be legally required in pubs and restaurants from Saturday.
 14. [Covid: Live music in Wales resumes with Feeder gig](https://www.bbc.co.uk/news/uk-wales-58122607) - Despite outdoor restrictions being relaxed weeks ago, the venue is still taking precautions.
