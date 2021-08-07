@@ -1,6 +1,6 @@
 1. [Covid: Wales moves to alert level zero with most rules scrapped](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
-2. [Covid: Students in Wales able to enjoy first night out in 18 months](https://www.bbc.co.uk/news/uk-wales-58115223) - Nightclubs in Wales are finally able to reopen their doors - but people are urged to be sensible.
-3. [Bridge-collapse fears trigger alert for Bassaleg homeowners](https://www.bbc.co.uk/news/uk-wales-58128542) - Temporary accommodation is available for those who decide to leave their homes, says a city council.
+2. [Bridge-collapse fears trigger alert for Bassaleg homeowners](https://www.bbc.co.uk/news/uk-wales-58128542) - Temporary accommodation is available for those who decide to leave their homes, says a city council.
+3. [Covid: Students in Wales able to enjoy first night out in 18 months](https://www.bbc.co.uk/news/uk-wales-58115223) - Nightclubs in Wales are finally able to reopen their doors - but people are urged to be sensible.
 4. [Logan Mwangi: Three in court over boy's river death](https://www.bbc.co.uk/news/uk-wales-58112175) - Logan Mwangi's step-dad is charged with murder and his mother with perverting the course of justice.
 5. [Thunderstorm weather warning for Wales on Sunday](https://www.bbc.co.uk/news/uk-wales-58087494) - Heavy rain could cause some flooding and travel disruption on Sunday, the Met Office says.
 6. [Covid: How will we adjust to life without so many rules?](https://www.bbc.co.uk/news/uk-wales-58121667) - With Wales moving into alert level zero, an expert says behaviours learnt in the pandemic might last.
