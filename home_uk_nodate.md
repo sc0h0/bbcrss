@@ -10,7 +10,7 @@
 10. [Logan Mwangi: Balloons tribute to boy found dead in river](https://www.bbc.co.uk/news/uk-wales-58128725) - About 200 people gathered to release balloons and pay tribute to five-year-old Logan.
 11. [Dungannon: Man arrested on suspicion of murder after child's death](https://www.bbc.co.uk/news/uk-northern-ireland-58127275) - A 32-year-old man is in custody on suspicion of murder after the young girl died in hospital.
 12. [Archbishop of York: English people feel left behind by metropolitan elites](https://www.bbc.co.uk/news/uk-58127256) - Many English people are "patronised as backwardly xenophobic", the Archbishop of York says.
-13. [Covid: Wales moves to alert level zero with most rules scrapped](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
+13. [Covid: Pubs busy as most rules end in Wales](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
 14. [ICYMI: Surfing, an Olympic maze and a sheep stampede](https://www.bbc.co.uk/news/world-58101466) - Some of the stories you may have missed this week.
 15. [Afghan interpreter: 'A better life for my wife and children in the UK'](https://www.bbc.co.uk/news/uk-58124249) - Afghan interpreters who worked with British forces are being relocated to the UK, as the Taliban advance.
 16. [Week in pictures: 31 July - 6 August 2021](https://www.bbc.co.uk/news/in-pictures-58100824) - A selection of powerful images taken around the world this week.

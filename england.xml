@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 14:58:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 15:39:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -163,6 +163,13 @@
             <pubDate>Thu, 29 Jul 2021 08:57:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How golf helped a Holocaust survivor]]></title>
+            <description><![CDATA[The club was set up for Jewish people to enjoy golf and is about to celebrate its 90th anniversary.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58129539</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58129539</guid>
+            <pubDate>Sat, 07 Aug 2021 15:30:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Bradford: 'I just want to see mum and dad one last time']]></title>
             <description><![CDATA[Young people in Bradford share their intense experiences of the Covid pandemic in an inner city.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-58115377</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58111780</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58111780</guid>
             <pubDate>Fri, 06 Aug 2021 05:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nottingham phone thieves distracted victims by dancing]]></title>
-            <description><![CDATA[Police say the men pretended to be drunk to distract their student victims.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58103794</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58103794</guid>
-            <pubDate>Thu, 05 Aug 2021 13:11:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Galal Yafai wins men's flyweight boxing gold with victory over Carlo Paalam]]></title>
@@ -237,14 +237,14 @@
             <description><![CDATA[Chelsea are close to sealing a deal to re-sign striker Romelu Lukaku for a club-record fee of £97.5m from Inter Milan.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58130354</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58130354</guid>
-            <pubDate>Sat, 07 Aug 2021 14:56:44 GMT</pubDate>
+            <pubDate>Sat, 07 Aug 2021 15:27:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Golds for GB pentathlete Joe Choong & boxer Galal Yafai, cycling silver, Tom Daley and Josh Kerr bronzes]]></title>
-            <description><![CDATA[Pentathlete Joe Choong wins Great Britain's 20th gold medal of the Tokyo Games after boxer Galal Yafai became an Olympic flyweight champion on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58129069</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58129069</guid>
-            <pubDate>Sat, 07 Aug 2021 13:09:59 GMT</pubDate>
+            <title><![CDATA[St Helens beat Catalans Dragons to close gap at top]]></title>
+            <description><![CDATA[St Helens close the gap on Super League leaders Catalans Dragons with a crushing win in slippery conditions.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/58123964</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/58123964</guid>
+            <pubDate>Sat, 07 Aug 2021 15:37:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
