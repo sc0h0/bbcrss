@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 11:58:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 12:31:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,39 +23,11 @@
             <pubDate>Sat, 07 Aug 2021 09:51:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Wales moves to alert level zero with most rules scrapped]]></title>
-            <description><![CDATA[Social distancing ends, but face masks are still needed in shops and on public transport.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58086808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58086808</guid>
-            <pubDate>Sat, 07 Aug 2021 10:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Archbishop of York: English people feel left behind by metropolitan elites]]></title>
-            <description><![CDATA[Many English people are "patronised as backwardly xenophobic", the Archbishop of York says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58127256</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58127256</guid>
-            <pubDate>Sat, 07 Aug 2021 08:32:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: German pentathlon coach thrown out for punching horse]]></title>
             <description><![CDATA[A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58127366</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127366</guid>
             <pubDate>Sat, 07 Aug 2021 08:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bat killed by cat after record 1,200-mile journey]]></title>
-            <description><![CDATA[A record-breaking bat - the size of a human thumb - is discovered in Russia after flying from London.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58128773</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58128773</guid>
-            <pubDate>Sat, 07 Aug 2021 11:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: New report will highlight 'stark reality' of warming]]></title>
-            <description><![CDATA[The IPCC's short scientific summary due out on Monday will be strongest statement yet on climate change.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58102953</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58102953</guid>
-            <pubDate>Sat, 07 Aug 2021 01:11:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan war: Taliban say jail captured and prisoners freed]]></title>
@@ -65,25 +37,39 @@
             <pubDate>Sat, 07 Aug 2021 11:47:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cash prize jackpot offered for double-jabbed students]]></title>
-            <description><![CDATA[A university hopes to boost Covid jab take-up among students by offering 10 £5,000 cash prizes.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58115658</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58115658</guid>
-            <pubDate>Fri, 06 Aug 2021 23:54:47 GMT</pubDate>
+            <title><![CDATA[Archbishop of York: English people feel left behind by metropolitan elites]]></title>
+            <description><![CDATA[Many English people are "patronised as backwardly xenophobic", the Archbishop of York says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58127256</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58127256</guid>
+            <pubDate>Sat, 07 Aug 2021 12:19:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bat killed by cat after record 1,200-mile journey]]></title>
+            <description><![CDATA[A record-breaking bat - the size of a human thumb - is discovered in Russia after flying from London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58128773</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58128773</guid>
+            <pubDate>Sat, 07 Aug 2021 11:27:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Wales moves to alert level zero with most rules scrapped]]></title>
+            <description><![CDATA[Social distancing ends, but face masks are still needed in shops and on public transport.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58086808</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58086808</guid>
+            <pubDate>Sat, 07 Aug 2021 10:50:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greece fires: Hundreds rescued by coastguard]]></title>
+            <description><![CDATA[The coastguard moved 650 people from Limni, in the north of the island of Evia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58128033</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58128033</guid>
+            <pubDate>Sat, 07 Aug 2021 11:40:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dungannon: Man arrested on suspicion of murder after child's death]]></title>
             <description><![CDATA[A 32-year-old man is in custody on suspicion of murder after the young girl died in hospital.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58127275</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58127275</guid>
-            <pubDate>Sat, 07 Aug 2021 10:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple criticised for system that detects child abuse]]></title>
-            <description><![CDATA[There are privacy concerns that the system will be expanded to scan phones for political speech.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58124495</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58124495</guid>
-            <pubDate>Sat, 07 Aug 2021 01:09:09 GMT</pubDate>
+            <pubDate>Sat, 07 Aug 2021 12:27:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI has the highest infection rate in the UK]]></title>
@@ -98,6 +84,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58124569</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58124569</guid>
             <pubDate>Sat, 07 Aug 2021 01:23:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cash prize jackpot offered for double-jabbed students]]></title>
+            <description><![CDATA[A university hopes to boost Covid jab take-up among students by offering 10 £5,000 cash prizes.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58115658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58115658</guid>
+            <pubDate>Fri, 06 Aug 2021 23:54:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: New report will highlight 'stark reality' of warming]]></title>
+            <description><![CDATA[The IPCC's short scientific summary due out on Monday will be strongest statement yet on climate change.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58102953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58102953</guid>
+            <pubDate>Sat, 07 Aug 2021 01:11:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'No more lockdowns', and Team GB's medal haul]]></title>
@@ -184,6 +184,13 @@
             <pubDate>Sat, 07 Aug 2021 07:31:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The activist entrepreneurs running zero-waste shops]]></title>
+            <description><![CDATA[Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57920754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57920754</guid>
+            <pubDate>Fri, 06 Aug 2021 21:24:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mayflower 400 years: How many people are related to the Mayflower pilgrims?]]></title>
             <description><![CDATA[For some, the17th century "pilgrim fathers" are also real-life ancestors. But for how many?]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57698818</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056235</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056235</guid>
             <pubDate>Sat, 07 Aug 2021 08:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The activist entrepreneurs running zero-waste shops]]></title>
-            <description><![CDATA[Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57920754</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57920754</guid>
-            <pubDate>Fri, 06 Aug 2021 21:24:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Energy price cap: What is it and how does it affect my bills?]]></title>
@@ -247,11 +247,11 @@
             <pubDate>Sat, 07 Aug 2021 08:06:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Brazil's Hebert Sousa wins men's middleweight gold by knockout against Oleksandr Khyzhniak]]></title>
-            <description><![CDATA[Brazil's Hebert Sousa wins gold in the men's middleweight boxing by knocking out Ukraine's Oleksandr Khyzhniak with a brilliant punch.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58127094</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58127094</guid>
-            <pubDate>Sat, 07 Aug 2021 09:43:55 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Team GB's Josh Kerr 1500m wins bronze as Jakob Ingebrigtsen takes gold]]></title>
+            <description><![CDATA[Team GB's Josh Kerr wins bronze in the men's 1500m, with the second fastest time ever by a British athlete, as Norway's Jakob Ingebrigtsen takes gold.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58128309</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58128309</guid>
+            <pubDate>Sat, 07 Aug 2021 12:13:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Joe Choong wins gold for Great Britain in men's modern pentathlon]]></title>

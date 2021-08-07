@@ -1,7 +1,7 @@
 1. [Covid: Wales moves to alert level zero with most rules scrapped](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
 2. [Bridge-collapse fears trigger alert for Bassaleg homeowners](https://www.bbc.co.uk/news/uk-wales-58128542) - Temporary accommodation is available for those who decide to leave their homes, says a city council.
 3. [Covid: Students in Wales able to enjoy first night out in 18 months](https://www.bbc.co.uk/news/uk-wales-58115223) - Nightclubs in Wales are finally able to reopen their doors - but people are urged to be sensible.
-4. [Logan Mwangi: Three in court over boy's river death](https://www.bbc.co.uk/news/uk-wales-58112175) - Logan Mwangi's step-dad is charged with murder and his mother with perverting the course of justice.
+4. [Logan Mwangi: Balloons tribute to boy found dead in river](https://www.bbc.co.uk/news/uk-wales-58128725) - About 200 people gathered to release balloons and pay tribute to five-year-old Logan.
 5. [Thunderstorm weather warning for Wales on Sunday](https://www.bbc.co.uk/news/uk-wales-58087494) - Heavy rain could cause some flooding and travel disruption on Sunday, the Met Office says.
 6. [Covid: How will we adjust to life without so many rules?](https://www.bbc.co.uk/news/uk-wales-58121667) - With Wales moving into alert level zero, an expert says behaviours learnt in the pandemic might last.
 7. [Family tribute to 'blue-eyed boy' killed on Carmarthenshire farm](https://www.bbc.co.uk/news/uk-wales-58119013) - Police say three-year-old Ianto Sior Jenkins died after he was hit by a vehicle on the farm.
@@ -19,7 +19,7 @@
 19. [British and Irish Lions: Alun Wyn Jones set to equal fellow Welshman Graham Price's Lions caps record](https://www.bbc.co.uk/sport/rugby-union/58100205) - Former Wales prop Graham Price says he is happy with Alun Wyn Jones sharing his British and Irish Lions Welsh record of 12 Test appearances.
 20. [Julian Winter: Swansea City chief promises more investment from American owners](https://www.bbc.co.uk/sport/football/58116561) - Swansea City chief executive Julian Winter says the club's American owners will invest more into the Championship club this year.
 21. [Tokyo Olympics: Gold for Galal Yafai, Tom Daley takes bronze & madison silver for Walls and Hayter](https://www.bbc.co.uk/sport/olympics/58126242) - Tom Daley claims bronze in the men's 10m platform after boxer Galal Yafai wins Team GB's first boxing gold in Tokyo to become Olympic flyweight champion.
-22. [Russell Martin: New Swansea City boss on playing style, record goals and beaches](https://www.bbc.co.uk/sport/football/58114861) - New head coach Russell Martin hopes to take Swansea City back to the future with his progressive playing style.
+22. [Blackburn Rovers v Swansea City](https://www.bbc.co.uk/sport/football/58035723) - Live coverage of Saturday's Championship game between Blackburn Rovers and Swansea City.
 23. [Llacio cyfyngiadau wrth i Gymru symud i lefel sero](https://www.bbc.co.uk/newyddion/58120975) - Y rhan fwyaf o gyfyngiadau bellach wedi'u llacio wrth i Gymru symud i lefel rhybudd sero.
 24. ['Ry'n am i dorfeydd heidio i Dregaron yn 2022'](https://www.bbc.co.uk/newyddion/58069672) - Ar ddiwedd wythnos Eisteddfod AmGen pobl Ceredigion yn paratoi i godi momentwm ar gyfer 2022.
 25. [Rhybudd o stormydd o daranau yn rhannau o Gymru](https://www.bbc.co.uk/newyddion/58102068) - Gall glaw trwm achosi llifogydd mewn rhai ardaloedd ddydd Sadwrn, yn ôl y Swyddfa Dywydd.
