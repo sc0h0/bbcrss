@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 14:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 14:23:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,6 +177,13 @@
             <pubDate>Thu, 05 Aug 2021 12:51:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympics: Team GB's Josh Kerr 1500m wins bronze as Jakob Ingebrigtsen takes gold]]></title>
+            <description><![CDATA[Team GB's Josh Kerr wins bronze in the men's 1500m, with the second fastest time ever by a British athlete, as Norway's Jakob Ingebrigtsen takes gold.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58128309</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58128309</guid>
+            <pubDate>Sat, 07 Aug 2021 12:13:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Laura Muir: Watch Team GB star win brilliant 1500m silver at Tokyo Olympics]]></title>
             <description><![CDATA[Laura Muir wins a superb silver medal, shattering the British record, to finish behind Kenya's defending champion Faith Kipyegon in the 1500m final at the Tokyo Olympics.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58119293</link>
@@ -205,25 +212,11 @@
             <pubDate>Wed, 04 Aug 2021 20:25:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Most Covid restrictions in Scotland to end from 9 August]]></title>
-            <description><![CDATA[Nicola Sturgeon has confirmed almost all of Scotland's remaining Covid-19 restrictions are to end.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58077159</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58077159</guid>
-            <pubDate>Tue, 03 Aug 2021 14:54:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dundee United 1-0 Rangers: Robson consigns visitors to first league defeat in 41 games]]></title>
             <description><![CDATA[Rangers lose in the league for the first time in 41 games as Jamie Robson's goal secures Dundee United's first points of the campaign.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58036410</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58036410</guid>
             <pubDate>Sat, 07 Aug 2021 13:22:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Team GB's Josh Kerr 1500m wins bronze as Jakob Ingebrigtsen takes gold]]></title>
-            <description><![CDATA[Team GB's Josh Kerr wins bronze in the men's 1500m, with the second fastest time ever by a British athlete, as Norway's Jakob Ingebrigtsen takes gold.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58128309</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58128309</guid>
-            <pubDate>Sat, 07 Aug 2021 12:13:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[British and Irish Lions 2021: Courtney Lawes says tourists cannot 'scrap' against South Africa]]></title>
@@ -238,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/boxing/58128061</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58128061</guid>
             <pubDate>Sat, 07 Aug 2021 08:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dundee Utd: Thomas Courts on 'collateral damage', karaoke & buying the coffees]]></title>
+            <description><![CDATA[Thomas Court on his rapid rise from an academy post to taking over as manager at Dundee United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58103699</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58103699</guid>
+            <pubDate>Sat, 07 Aug 2021 13:28:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
