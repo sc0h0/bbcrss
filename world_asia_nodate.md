@@ -1,4 +1,4 @@
-1. [Afghanistan war: Sheberghan falls to Taliban, militants say](https://www.bbc.co.uk/news/world-asia-58127407) - Sheberghan in the northern Jawzjan province is the second regional capital to fall to the Taliban.
+1. [Afghanistan war: Sheberghan falls to Taliban, militants say](https://www.bbc.co.uk/news/world-asia-58127407) - Sheberghan in the northern province of Jawzjan is the second regional capital to fall to the Taliban.
 2. [Olympic Games Tokyo 2020: Neeraj Chopra wins historic Olympic gold in athletics](https://www.bbc.co.uk/news/world-asia-india-57913544) - India has now won seven medals at Tokyo - one gold, two silver and four bronze, its biggest Olympic haul ever.
 3. [Larry Page: Google co-founder granted New Zealand residency](https://www.bbc.co.uk/news/world-asia-58128475) - The country's immigration services say he applied under a category for wealthy investors.
 4. [Tokyo attack: Knife-wielding man injures 10 on train](https://www.bbc.co.uk/news/world-asia-58125414) - The suspect allegedly told police he was angry when he saw women who "looked happy".

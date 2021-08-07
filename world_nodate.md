@@ -1,4 +1,4 @@
-1. [Afghanistan war: Sheberghan falls to Taliban, militants say](https://www.bbc.co.uk/news/world-asia-58127407) - Sheberghan in the northern Jawzjan province is the second regional capital to fall to the Taliban.
+1. [Afghanistan war: Sheberghan falls to Taliban, militants say](https://www.bbc.co.uk/news/world-asia-58127407) - Sheberghan in the northern province of Jawzjan is the second regional capital to fall to the Taliban.
 2. [Greece wildfires spread, causing mass evacuations](https://www.bbc.co.uk/news/world-europe-58124129) - Thousands of people are evacuated north of the capital, Athens, as fires continue to rage.
 3. [Tokyo Olympics: German pentathlon coach thrown out for punching horse](https://www.bbc.co.uk/sport/olympics/58127366) - A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.
 4. [Capitol riot: Off-duty Seattle police officers fired over assault](https://www.bbc.co.uk/news/world-us-canada-58088868) - The officers stood by as Donald Trump's supporters stormed the government building, an inquiry says.
