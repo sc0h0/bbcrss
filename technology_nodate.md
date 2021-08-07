@@ -1,5 +1,5 @@
-1. [China cracks down on celebrity online culture](https://www.bbc.co.uk/news/technology-58117027) - Weibo is to remove a list ranking celebrities by popularity on social media amid state criticism.
-2. [Apple to scan iPhones for child sex abuse images](https://www.bbc.co.uk/news/technology-58109748) - Apple announces it will implement a system to scan US iPhones for images of child sexual abuse.
+1. [Apple criticised for system that detects child abuse](https://www.bbc.co.uk/news/technology-58124495) - There are privacy concerns that the system will be expanded to scan phones for political speech.
+2. [China cracks down on celebrity online culture](https://www.bbc.co.uk/news/technology-58117027) - Weibo is to remove a list ranking celebrities by popularity on social media amid state criticism.
 3. [Huawei revenue sees biggest ever fall](https://www.bbc.co.uk/news/technology-58104614) - Revenue from its consumer business, which includes phones, fell by nearly half.
 4. [US consumer watchdog criticises Facebook's NYU ban claim](https://www.bbc.co.uk/news/technology-58104609) - In a letter to Mark Zuckerberg, the FTC criticises the social network for inaccurate statements.
 5. [Number pinged by NHS Covid-19 app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - The fall is based on data gathered before changes to the app which mean it will notify fewer contacts.

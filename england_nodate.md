@@ -1,5 +1,5 @@
 1. [Verphy Kudi: Mum left girl to die to party for 6 days](https://www.bbc.co.uk/news/uk-england-sussex-58102792) - Verphy Kudi's 20-month-old-daughter died from influenza and starvation after being left alone.
-2. [Wood Green stabbing: Man and police officers attacked in north London](https://www.bbc.co.uk/news/uk-england-london-58124569) - It is not thought to be terrorism related and three people have been arrested, police said.
+2. [Wood Green stabbing: Man and police officers attacked in north London](https://www.bbc.co.uk/news/uk-england-london-58124569) - The attack is not thought to be terrorism related and three people have been arrested, police said.
 3. [Doctor Hossam Metwally poisoned partner in 'exorcism ritual'](https://www.bbc.co.uk/news/uk-england-humber-58116324) - Hossam Metwally is told he faces jail for botched ceremonies which sent Kelly Wilson into a coma.
 4. [Tokyo Olympics: How many medals has your region won?](https://www.bbc.co.uk/news/uk-england-58073305) - With day 14 of the competition over, the North West still leads the way when it comes to medals.
 5. [Banksy-style pieces appear in Gorleston, Great Yarmouth and Lowestoft](https://www.bbc.co.uk/news/uk-england-norfolk-58121178) - An expert says he is "pretty sure" the works are by the artist "or they are very good fakes".
