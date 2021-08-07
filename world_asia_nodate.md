@@ -1,4 +1,4 @@
-1. [Afghanistan war: Taliban say jail captured and prisoners freed](https://www.bbc.co.uk/news/world-asia-58127407) - Video on social media shows hundreds of inmates leaving the Afghan jail after heavy militant attacks.
+1. [Afghanistan war: Sheberghan falls to Taliban, militants say](https://www.bbc.co.uk/news/world-asia-58127407) - Sheberghan in the northern Jawzjan province is the second regional capital to fall to the Taliban.
 2. [Tokyo attack: Knife-wielding man injures 10 on train](https://www.bbc.co.uk/news/world-asia-58125414) - The suspect allegedly told police he was angry when he saw women who "looked happy".
 3. [China says no more Mao badges after IOC warning](https://www.bbc.co.uk/news/world-asia-china-58127804) - The Olympic body says it has been told Chinese athletes will no longer wear badges seen as political.
 4. [Tokyo 2020: Olympic athletes struggle with heat at Games](https://www.bbc.co.uk/news/world-asia-58110846) - This games are one of the warmest on record, with many athletes complaining about the high temperatures.

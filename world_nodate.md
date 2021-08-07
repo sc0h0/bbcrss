@@ -1,4 +1,4 @@
-1. [Afghanistan war: Taliban say jail captured and prisoners freed](https://www.bbc.co.uk/news/world-asia-58127407) - Video on social media shows hundreds of inmates leaving the Afghan jail after heavy militant attacks.
+1. [Afghanistan war: Sheberghan falls to Taliban, militants say](https://www.bbc.co.uk/news/world-asia-58127407) - Sheberghan in the northern Jawzjan province is the second regional capital to fall to the Taliban.
 2. [Greece wildfires spread, causing mass evacuations](https://www.bbc.co.uk/news/world-europe-58124129) - Thousands of people are evacuated north of the capital, Athens, as fires continue to rage.
 3. [Mercer Street: Tanker blast evidence points to Iran, says US](https://www.bbc.co.uk/news/world-middle-east-58124489) - The attack on the Israeli-operated merchant tanker last week killed two people.
 4. [Tokyo Olympics: German pentathlon coach thrown out for punching horse](https://www.bbc.co.uk/sport/olympics/58127366) - A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.
