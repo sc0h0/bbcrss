@@ -5,8 +5,8 @@
 5. [Wood Green stabbing: Man and police officers attacked in north London](https://www.bbc.co.uk/news/uk-england-london-58124569) - The attack is not thought to be terrorism related and three people have been arrested, police said.
 6. [Mercer Street: Tanker blast evidence points to Iran, says US](https://www.bbc.co.uk/news/world-middle-east-58124489) - The attack on the Israeli-operated merchant tanker last week killed two people.
 7. [Covid: Wales moves to alert level zero with most rules scrapped](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
-8. [Covid: More than 100 cases linked to Glasgow's Euro fan zone](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58118134) - Public Health Scotland said 103 positive cases could be traced to the month-long event at Glasgow Green
-9. [Greece fires spread uncontrolled, killing a fireman](https://www.bbc.co.uk/news/world-europe-58124129) - Thousands of people are being evacuated as uncontrolled fires continue to rage.
+8. [Greece fires spread uncontrolled, killing a fireman](https://www.bbc.co.uk/news/world-europe-58124129) - Thousands of people are being evacuated as uncontrolled fires continue to rage.
+9. [Covid: More than 100 cases linked to Glasgow's Euro fan zone](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58118134) - Public Health Scotland said 103 positive cases could be traced to the month-long event at Glasgow Green
 10. [Boris Johnson will not isolate after Covid case among staff](https://www.bbc.co.uk/news/uk-politics-58123017) - No 10 says he was not in close contact with a staffer who tested positive during a visit to Scotland.
 11. [University clearing may be 'much more competitive' this year - Ucas boss](https://www.bbc.co.uk/news/education-58124095) - "It's still a good year for clearing," says the admissions service boss, ahead of results day next week.
 12. [At risk Afghan journalists to be offered UK relocation](https://www.bbc.co.uk/news/uk-58121472) - The foreign secretary says they can move to the UK if they are under "imminent threat" from the Taliban.
