@@ -1,4 +1,4 @@
-1. [London riots: 'I don't want kids today to go down the same path'](https://www.bbc.co.uk/news/uk-england-london-58104439) - Vernel Dolor was jailed for attacking police during the 2011 riots. How did he he turn his life around?
+1. [London riots: 'I don't want kids today to go down the same path'](https://www.bbc.co.uk/news/uk-england-london-58104439) - Vernel Dolor was jailed for attacking police during the 2011 riots. How did he turn his life around?
 2. [Verphy Kudi: Mum left girl to die to party for 6 days](https://www.bbc.co.uk/news/uk-england-sussex-58102792) - Verphy Kudi's 20-month-old-daughter died from influenza and starvation after being left alone.
 3. [Wood Green stabbing: Man and police officers attacked in north London](https://www.bbc.co.uk/news/uk-england-london-58124569) - The attack is not thought to be terrorism related and three people have been arrested, police said.
 4. [Tokyo Olympics: Daley wins bronze in men's 10m platform as Cao makes history](https://www.bbc.co.uk/sport/olympics/58127075) - GB's Tom Daley wins bronze in men's 10m platform at Tokyo 2020 as China's Cao Yuan makes history.

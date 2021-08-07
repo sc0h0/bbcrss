@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 08:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 08:36:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Sat, 07 Aug 2021 06:46:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Thunderstorms weather warning in place for Northern Ireland]]></title>
+            <description><![CDATA[A Met Office warning is in place until midnight after parts of Belfast flooded on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58127271</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58127271</guid>
+            <pubDate>Sat, 07 Aug 2021 08:23:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Anorexia: Planning for a wedding with an eating disorder]]></title>
             <description><![CDATA[Leah Brown says she was "bombarded" with online weight-loss suggestions when planning her wedding.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57841203</link>
@@ -30,18 +37,18 @@
             <pubDate>Sat, 07 Aug 2021 06:33:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lilian Bland: The Carnmoney engineer who took to the skies]]></title>
-            <description><![CDATA[Exhibition focuses on Lilian Bland who became the first woman to build and fly her own plane.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58060274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58060274</guid>
-            <pubDate>Sat, 07 Aug 2021 06:27:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NBA prospect Aidan Igiehon blazing an Irish trail in US basketball]]></title>
             <description><![CDATA[Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58017675</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58017675</guid>
             <pubDate>Sat, 07 Aug 2021 06:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lilian Bland: The Carnmoney engineer who took to the skies]]></title>
+            <description><![CDATA[Exhibition focuses on Lilian Bland who became the first woman to build and fly her own plane.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58060274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58060274</guid>
+            <pubDate>Sat, 07 Aug 2021 06:27:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Michael Conlan: Belfast boxer secures interim WBA belt with points win over TJ Doheny]]></title>
