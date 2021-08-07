@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 11:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 11:23:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,13 +58,6 @@
             <pubDate>Sat, 07 Aug 2021 01:11:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Apple criticised for system that detects child abuse]]></title>
-            <description><![CDATA[There are privacy concerns that the system will be expanded to scan phones for political speech.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58124495</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58124495</guid>
-            <pubDate>Sat, 07 Aug 2021 01:09:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan war: Taliban say jail captured and prisoners freed]]></title>
             <description><![CDATA[Video on social media shows hundreds of inmates leaving the Afghan jail after heavy militant attacks.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58127407</link>
@@ -72,11 +65,25 @@
             <pubDate>Sat, 07 Aug 2021 09:45:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronavirus: Daily update]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58125421</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58125421</guid>
-            <pubDate>Sat, 07 Aug 2021 06:55:48 GMT</pubDate>
+            <title><![CDATA[Dungannon: Man arrested on suspicion of murder after child's death]]></title>
+            <description><![CDATA[A 32-year-old man is in custody on suspicion of murder after the young girl died in hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58127275</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58127275</guid>
+            <pubDate>Sat, 07 Aug 2021 10:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple criticised for system that detects child abuse]]></title>
+            <description><![CDATA[There are privacy concerns that the system will be expanded to scan phones for political speech.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58124495</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58124495</guid>
+            <pubDate>Sat, 07 Aug 2021 01:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI has the highest infection rate in the UK]]></title>
+            <description><![CDATA[Hospitalisations and deaths increase, but the data shows the vaccine is doing its job.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58124142</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58124142</guid>
+            <pubDate>Sat, 07 Aug 2021 06:46:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wood Green stabbing: Man and police officers attacked in north London]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58124129</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58124129</guid>
             <pubDate>Sat, 07 Aug 2021 08:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[University clearing may be 'much more competitive' this year - Ucas boss]]></title>
-            <description><![CDATA["It's still a good year for clearing," says the admissions service boss, ahead of results day next week.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58124095</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58124095</guid>
-            <pubDate>Fri, 06 Aug 2021 23:02:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'No more lockdowns', and Team GB's medal haul]]></title>
@@ -226,18 +226,11 @@
             <pubDate>Sat, 07 Aug 2021 05:59:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Joe Choong wins gold for Great Britain in men's modern pentathlon]]></title>
-            <description><![CDATA[Joe Choong wins gold in the men's modern pentathlon to seal an Olympic double for Great Britain after Kate French triumphed in the women's event.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58127255</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127255</guid>
-            <pubDate>Sat, 07 Aug 2021 11:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: GB's Matt Walls and Ethan Hayter win silver in men's madison with strong last lap]]></title>
-            <description><![CDATA[A strong final lap from Team GB's Matt Walls and Ethan Hayter helps them win silver in the men's madison at Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/olympics/58128303</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58128303</guid>
-            <pubDate>Sat, 07 Aug 2021 09:48:12 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Joseph Choong wins modern pentathlon gold for Team GB]]></title>
+            <description><![CDATA[Joseph Choong becomes Great Britain's first individual medallist in modern pentathlon, winning gold at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/olympics/58128306</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58128306</guid>
+            <pubDate>Sat, 07 Aug 2021 11:17:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Great Britain's Tom Daley wins bronze in the men's 10m platform]]></title>
@@ -252,6 +245,20 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58127094</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58127094</guid>
             <pubDate>Sat, 07 Aug 2021 09:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['There's been cynicism, anger and frustration' - O'Gara wants Lions 'spark' to save series]]></title>
+            <description><![CDATA[The British and Irish Lions' decisive third Test in South Africa "has huge implications for the future of rugby", says three-time tourist Ronan O'Gara.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58119049</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58119049</guid>
+            <pubDate>Fri, 06 Aug 2021 22:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Joe Choong wins gold for Great Britain in men's modern pentathlon]]></title>
+            <description><![CDATA[Joe Choong wins gold in the men's modern pentathlon to seal an Olympic double for Great Britain after Kate French triumphed in the women's event.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58127255</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127255</guid>
+            <pubDate>Sat, 07 Aug 2021 11:01:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Daley wins bronze in men's 10m platform as Cao makes history]]></title>

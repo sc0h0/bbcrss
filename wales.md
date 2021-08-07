@@ -24,4 +24,4 @@
 24. ['Ry'n am i dorfeydd heidio i Dregaron yn 2022'](https://www.bbc.co.uk/newyddion/58069672) - Sat, 07 Aug 2021 07:08:59 GMT - Ar ddiwedd wythnos Eisteddfod AmGen pobl Ceredigion yn paratoi i godi momentwm ar gyfer 2022.
 25. [Rhybudd o stormydd o daranau yn rhannau o Gymru](https://www.bbc.co.uk/newyddion/58102068) - Sat, 07 Aug 2021 10:18:09 GMT - Gall glaw trwm achosi llifogydd mewn rhai ardaloedd ddydd Sadwrn, yn ôl y Swyddfa Dywydd.
 26. [Llyfr y Flwyddyn: 'Iechyd meddwl yn epidemig ymysg pobl ifanc'](https://www.bbc.co.uk/newyddion/58118224) - Sat, 07 Aug 2021 09:59:33 GMT - Awdur y nofel fuddugol ym mhrif wobr Llyfr y Flwyddyn eleni yn disgrifio mai ei bwriad oedd ceisio 'gwneud i rai pobl ifanc deimlo'n llai unig'.
-27. [Y Llewod i ruo am y tro olaf yn Ne Affrica](https://www.bbc.co.uk/newyddion/58115263) - Sat, 07 Aug 2021 07:39:59 GMT - Gêm brawf dyngedfennol yn erbyn y Springboks yn wynebu tîm Warren Gatland.
+27. [Y Llewod i ruo am y tro olaf yn Ne Affrica](https://www.bbc.co.uk/newyddion/58115263) - Sat, 07 Aug 2021 11:13:35 GMT - Gêm brawf dyngedfennol yn erbyn y Springboks yn wynebu tîm Warren Gatland.
