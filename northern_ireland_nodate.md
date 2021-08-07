@@ -1,6 +1,6 @@
 1. [Dungannon: Man arrested on suspicion of murder after child's death](https://www.bbc.co.uk/news/uk-northern-ireland-58127275) - A 32-year-old man is in custody on suspicion of murder after the young girl died in hospital.
 2. [Covid-19: NI has the highest infection rate in the UK](https://www.bbc.co.uk/news/world-europe-58124142) - Hospitalisations and deaths increase, but the data shows the vaccine is doing its job.
-3. [Thunderstorms weather warning in place for Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-58127271) - A Met Office warning is in place until midnight after parts of Belfast flooded on Friday.
+3. [Thunderstorms weather warning in place for Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-58127271) - A Met Office warning is in place until midnight with flooding reported in some parts of Fermanagh.
 4. [Anorexia: Planning for a wedding with an eating disorder](https://www.bbc.co.uk/news/uk-northern-ireland-57841203) - Leah Brown says she was "bombarded" with online weight-loss ideas when planning her big day.
 5. [NBA prospect Aidan Igiehon blazing an Irish trail in US basketball](https://www.bbc.co.uk/news/world-europe-58017675) - Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.
 6. [Lilian Bland: The Carnmoney engineer who took to the skies](https://www.bbc.co.uk/news/uk-northern-ireland-58060274) - Exhibition focuses on Lilian Bland who became the first woman to build and fly her own plane.

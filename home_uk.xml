@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Aug 2021 10:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 11:15:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Sat, 07 Aug 2021 10:50:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Happy clubbers as rules end in Wales, and PM will not isolate]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Saturday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58125421</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58125421</guid>
-            <pubDate>Sat, 07 Aug 2021 06:55:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Archbishop of York: English people feel left behind by metropolitan elites]]></title>
             <description><![CDATA[Many English people are "patronised as backwardly xenophobic", the Archbishop of York says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58127256</link>
@@ -44,18 +37,18 @@
             <pubDate>Sat, 07 Aug 2021 08:32:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: German pentathlon coach thrown out for punching horse]]></title>
-            <description><![CDATA[A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58127366</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127366</guid>
-            <pubDate>Sat, 07 Aug 2021 08:23:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cash prize jackpot offered for double-jabbed students]]></title>
             <description><![CDATA[A university hopes to boost Covid jab take-up among students by offering 10 £5,000 cash prizes.]]></description>
             <link>https://www.bbc.co.uk/news/education-58115658</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58115658</guid>
             <pubDate>Fri, 06 Aug 2021 23:54:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: German pentathlon coach thrown out for punching horse]]></title>
+            <description><![CDATA[A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58127366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127366</guid>
+            <pubDate>Sat, 07 Aug 2021 08:23:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: New report will highlight 'stark reality' of warming]]></title>
@@ -77,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58127407</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58127407</guid>
             <pubDate>Sat, 07 Aug 2021 09:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Daily update]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58125421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58125421</guid>
+            <pubDate>Sat, 07 Aug 2021 06:55:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wood Green stabbing: Man and police officers attacked in north London]]></title>
@@ -219,18 +219,18 @@
             <pubDate>Fri, 06 Aug 2021 08:16:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Joe Choong wins gold for Great Britain in men's modern pentathlon]]></title>
-            <description><![CDATA[Joe Choong wins gold in the men's modern pentathlon to seal an Olympic double for Great Britain after Kate French triumphed in the women's event.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58127255</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127255</guid>
-            <pubDate>Sat, 07 Aug 2021 10:42:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: GB's Galal Yafai beats Carlo Paalam to win flyweight boxing gold]]></title>
             <description><![CDATA[Watch the best moments from the men's flyweight final as Great Britain's Galal Yafai beats Carlo Paalam of the Philippines to win gold at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58126963</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58126963</guid>
             <pubDate>Sat, 07 Aug 2021 05:59:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Joe Choong wins gold for Great Britain in men's modern pentathlon]]></title>
+            <description><![CDATA[Joe Choong wins gold in the men's modern pentathlon to seal an Olympic double for Great Britain after Kate French triumphed in the women's event.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58127255</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127255</guid>
+            <pubDate>Sat, 07 Aug 2021 11:01:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB's Matt Walls and Ethan Hayter win silver in men's madison with strong last lap]]></title>
@@ -254,13 +254,6 @@
             <pubDate>Sat, 07 Aug 2021 09:43:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['There's been cynicism, anger and frustration' - O'Gara wants Lions 'spark' to save series]]></title>
-            <description><![CDATA[The British and Irish Lions' decisive third Test in South Africa "has huge implications for the future of rugby", says three-time tourist Ronan O'Gara.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58119049</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58119049</guid>
-            <pubDate>Fri, 06 Aug 2021 22:01:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Daley wins bronze in men's 10m platform as Cao makes history]]></title>
             <description><![CDATA[GB's Tom Daley wins bronze in men's 10m platform at Tokyo 2020 as China's Cao Yuan makes history.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58127075</link>
@@ -279,7 +272,7 @@
             <description><![CDATA[British cyclist Matt Walls' superb Olympic debut continues as he wins a second Tokyo medal with silver in the men's madison alongside Ethan Hayter.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58127647</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58127647</guid>
-            <pubDate>Sat, 07 Aug 2021 10:26:34 GMT</pubDate>
+            <pubDate>Sat, 07 Aug 2021 10:55:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team USA beat France 87-82 to claim fourth straight gold medal]]></title>
@@ -293,7 +286,7 @@
             <description><![CDATA[Want to know what's happening when in Tokyo? Check out our comprehensive guide to all the action in Japan.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/57778808</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/57778808</guid>
-            <pubDate>Sat, 07 Aug 2021 07:43:04 GMT</pubDate>
+            <pubDate>Sat, 07 Aug 2021 11:12:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eurovision, Euro 2020 and Tokyo 2020 Olympics - Italy's golden summer]]></title>
