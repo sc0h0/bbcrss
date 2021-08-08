@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 18:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 19:03:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,6 +219,13 @@
             <pubDate>Wed, 04 Aug 2021 20:25:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Watch: Sportscene - Scottish Premiership highlights]]></title>
+            <description><![CDATA[Watch highlights of the weekend's Scottish Premiership action on Sportscene, with Steven Thompson, Michael Stewart and Steven Naismith.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58139216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58139216</guid>
+            <pubDate>Sun, 08 Aug 2021 18:57:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celtic 6-0 Dundee: Kyogo Furuhashi scores hat-trick as Ange Postecoglou gets first league win]]></title>
             <description><![CDATA[The outstanding Kyogo Furuhashi scores a hat-trick as Celtic sweep aside Dundee to give manager Ange Postecoglou a rousing first Scottish Premiership victory in front of 24,500 fans.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58044205</link>
@@ -238,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/football/58044204</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58044204</guid>
             <pubDate>Sun, 08 Aug 2021 16:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hero Open: Grant Forrest realises 'dream' with first European Tour title in St Andrews]]></title>
+            <description><![CDATA[Scotland's Grant Forrest secures his first European Tour title with a fine birdie-birdie finish on home soil at the Hero Open at St Andrews.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/58140852</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58140852</guid>
+            <pubDate>Sun, 08 Aug 2021 18:53:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
