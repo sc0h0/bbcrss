@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 06:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 06:35:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Sun, 08 Aug 2021 06:00:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Superb' Price wins boxing gold for Britain]]></title>
+            <description><![CDATA[Britain's Lauren Price becomes the first Welsh fighter to win an Olympic boxing gold medal, beating China's Li Qian in the women's middleweight final.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58134516</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58134516</guid>
+            <pubDate>Sun, 08 Aug 2021 06:25:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Pubs busy as most rules end in Wales]]></title>
             <description><![CDATA[Social distancing ends, but face masks are still needed in shops and on public transport.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58086808</link>
@@ -41,7 +48,7 @@
             <description><![CDATA[Heavy rain could cause some flooding and travel disruption on Sunday, the Met Office says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58087494</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58087494</guid>
-            <pubDate>Sat, 07 Aug 2021 10:29:54 GMT</pubDate>
+            <pubDate>Sun, 08 Aug 2021 06:32:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bridge-collapse fears trigger alert for Bassaleg homeowners]]></title>
@@ -51,11 +58,11 @@
             <pubDate>Sat, 07 Aug 2021 17:00:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[South Africa 19-16 British and Irish Lions: Morne Steyn's late penalty wins series]]></title>
-            <description><![CDATA[The British and Irish Lions lose an agonisingly close series decider to South Africa as Morne Steyn's late penalty seals a 19-16 victory.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58130765</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58130765</guid>
-            <pubDate>Sat, 07 Aug 2021 19:53:04 GMT</pubDate>
+            <title><![CDATA[British and Irish Lions: Josh Adams returns to new daughter after South Africa series loss]]></title>
+            <description><![CDATA[If anybody will have some perspective on the narrow loss of a British and Irish Lions series against South Africa it will be Wales wing Josh Adams.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58131032</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58131032</guid>
+            <pubDate>Sun, 08 Aug 2021 05:37:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Logan Mwangi: Balloons tribute to boy found dead in river]]></title>
@@ -72,25 +79,11 @@
             <pubDate>Sat, 07 Aug 2021 05:13:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: How will we adjust to life without so many rules?]]></title>
-            <description><![CDATA[With Wales moving into alert level zero, an expert says behaviours learnt in the pandemic might last.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58121667</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58121667</guid>
-            <pubDate>Sat, 07 Aug 2021 07:10:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cardiff Gate hotel car park 'stabbing' prompts arrest]]></title>
             <description><![CDATA[A 23-year-old is arrested following the incident in a car park at the Ibis hotel, Cardiff Gate.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58129985</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58129985</guid>
             <pubDate>Sat, 07 Aug 2021 13:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Family tribute to 'blue-eyed boy' killed on Carmarthenshire farm]]></title>
-            <description><![CDATA[Police say three-year-old Ianto Sior Jenkins died after he was hit by a vehicle on the farm.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58119013</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58119013</guid>
-            <pubDate>Fri, 06 Aug 2021 13:23:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Llanelli: Man, 56, dies after falling from e-scooter]]></title>
@@ -114,6 +107,13 @@
             <pubDate>Sat, 07 Aug 2021 06:03:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: How will we adjust to life without so many rules?]]></title>
+            <description><![CDATA[With Wales moving into alert level zero, an expert says behaviours learnt in the pandemic might last.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58121667</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58121667</guid>
+            <pubDate>Sat, 07 Aug 2021 07:10:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Hospitality rules change after '18 months of hell']]></title>
             <description><![CDATA[Two-metre distancing and masks will not be legally required in pubs and restaurants from Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58122602</link>
@@ -135,25 +135,18 @@
             <pubDate>Fri, 06 Aug 2021 13:43:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid lockdown easing: What are people looking forward to in Wales?]]></title>
-            <description><![CDATA[As most restrictions end in Wales on Saturday, weddings, events and socialising are back.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58103608</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58103608</guid>
-            <pubDate>Fri, 06 Aug 2021 05:07:37 GMT</pubDate>
+            <title><![CDATA[South Africa 19-16 British and Irish Lions: Morne Steyn's late penalty wins series]]></title>
+            <description><![CDATA[The British and Irish Lions lose an agonisingly close series decider to South Africa as Morne Steyn's late penalty seals a 19-16 victory.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58130765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58130765</guid>
+            <pubDate>Sat, 07 Aug 2021 19:53:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Team GB to match London 2012 with 65 medals won]]></title>
-            <description><![CDATA[Jason Kenny's gold medal, plus a boxing medal to come, means Team GB's Tokyo Olympics medal haul of 65 matches London 2012's total.]]></description>
+            <title><![CDATA[Tokyo Olympics: Team GB match London 2012 with 65 medals won]]></title>
+            <description><![CDATA[Jason Kenny's gold medal, plus boxing gold for Lauren Price, means Team GB's Tokyo Olympics medal haul of 65 matches London 2012's total.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58125822</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58125822</guid>
-            <pubDate>Sun, 08 Aug 2021 05:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British and Irish Lions: Josh Adams returns to new daughter after South Africa series loss]]></title>
-            <description><![CDATA[If anybody will have some perspective on the narrow loss of a British and Irish Lions series against South Africa it will be Wales wing Josh Adams.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58131032</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58131032</guid>
-            <pubDate>Sun, 08 Aug 2021 05:37:31 GMT</pubDate>
+            <pubDate>Sun, 08 Aug 2021 06:15:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[British and Irish Lions: 'Lions loss rather than Springboks win', says Rob Kearney]]></title>
