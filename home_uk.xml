@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 23:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 23:50:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Sun, 08 Aug 2021 18:51:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Quarantine-free travel from France resumes as UK rules change]]></title>
-            <description><![CDATA[Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58130944</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58130944</guid>
-            <pubDate>Sun, 08 Aug 2021 16:32:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[St Jude Invitational: Kim Si-woo finds water five times on one hole to score 13 on par three]]></title>
             <description><![CDATA[Finding water five times on one hole saw South Korea's Kim Si-woo score 13 on a par three to record the highest score on the PGA Tour since 1983.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/58140968</link>
@@ -70,6 +63,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/58137848</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58137848</guid>
             <pubDate>Sun, 08 Aug 2021 11:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Quarantine-free travel from France resumes as UK rules change]]></title>
+            <description><![CDATA[Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58130944</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58130944</guid>
+            <pubDate>Sun, 08 Aug 2021 16:32:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joe Willock: Newcastle agree deal to sign Arsenal midfielder for more than £20m]]></title>
@@ -191,18 +191,18 @@
             <pubDate>Sun, 08 Aug 2021 23:01:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: A look at how Team GB fared sport-by-sport compared to their funding.]]></title>
-            <description><![CDATA[How Great Britain fared sport-by-sport at the Tokyo 2020 Olympic Games relative to their funding.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58112331</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58112331</guid>
-            <pubDate>Sun, 08 Aug 2021 11:55:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Can technology help authors write a book?]]></title>
             <description><![CDATA[Writing a novel is notoriously difficult, but technology may give the writer a helping hand.]]></description>
             <link>https://www.bbc.co.uk/news/business-58098481</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58098481</guid>
             <pubDate>Sun, 08 Aug 2021 23:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: A look at how Team GB fared sport-by-sport compared to their funding.]]></title>
+            <description><![CDATA[How Great Britain fared sport-by-sport at the Tokyo 2020 Olympic Games relative to their funding.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58112331</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58112331</guid>
+            <pubDate>Sun, 08 Aug 2021 11:55:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Sydney: Communities feel under siege as troops deployed]]></title>

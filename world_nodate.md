@@ -1,5 +1,5 @@
 1. [Afghanistan war: Taliban capture three regional capitals](https://www.bbc.co.uk/news/world-asia-58135148) - Three cities, including the strategically important Kunduz, fall to the militant group in a single day.
-2. [Greece wildfires: Hundreds more evacuated as uncontrolled fires rage](https://www.bbc.co.uk/news/world-europe-58138614) - Ferries carry tourists and locals to safety from Greece's second-largest island, Evia.
+2. [Greece wildfires: Strong winds push flames towards villages](https://www.bbc.co.uk/news/world-europe-58141336) - Greece is experiencing its most severe heatwave in 30 years with temperatures reaching 45C (113F).
 3. [Greece wildfires: 'It's like a horror movie but it's real life'](https://www.bbc.co.uk/news/world-europe-58141236) - Thousands of people have had to evacuate Greece's second biggest island as severe wildfires rage.
 4. [North Korea: Kim Jong-un calls for relief in flood-hit areas](https://www.bbc.co.uk/news/world-asia-58135753) - More than 1,000 homes have been damaged and about 5,000 people evacuated as a result of flooding.
 5. [Mozambique insurgency: Key port retaken from insurgents - Rwanda](https://www.bbc.co.uk/news/world-africa-58138507) - Mocímboa da Praia was the Islamist militants' last stronghold in northern Mozambique, Rwanda says.
