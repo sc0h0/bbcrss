@@ -1,4 +1,4 @@
-1. [Dungannon: Man arrested on suspicion of murder after child's death](https://www.bbc.co.uk/news/uk-northern-ireland-58127275) - A 32-year-old man is in custody on suspicion of murder after the young girl died in hospital.
+1. [Dungannon: PSNI given more time to question child murder suspect](https://www.bbc.co.uk/news/uk-northern-ireland-58136914) - The PSNI are given an extra 36 hours to hold a man arrested after the death of a two-year-old.
 2. [Tokyo Olympics: Ireland's Kellie Harrington wins Olympic boxing gold with victory in lightweight final](https://www.bbc.co.uk/sport/olympics/58130534) - Irish boxer Kellie Harrington wins an Olympic gold medal after defeating Brazil's Beatriz Ferreira in the women's lightweight final.
 3. [Irish language: 'We need to ensure the Gaeltacht survives'](https://www.bbc.co.uk/news/world-europe-58121407) - There are fears Covid-19 could seriously damage traditional summer Irish language courses.
 4. [The Northern Ireland teacher on a mission to make learning more fun](https://www.bbc.co.uk/news/uk-northern-ireland-58093960) - Conor Bradley first started posting his lessons online to help kids learn over lockdown.
