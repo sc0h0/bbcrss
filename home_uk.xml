@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 15:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 15:39:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".]]></description>
             <link>https://www.bbc.co.uk/news/uk-58130944</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58130944</guid>
-            <pubDate>Sun, 08 Aug 2021 09:33:58 GMT</pubDate>
+            <pubDate>Sun, 08 Aug 2021 15:30:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan war: Taliban capture city of Kunduz]]></title>
@@ -37,11 +37,11 @@
             <pubDate>Sun, 08 Aug 2021 14:40:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Time running out to stop catastrophe - Alok Sharma]]></title>
-            <description><![CDATA[Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58132939</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58132939</guid>
-            <pubDate>Sun, 08 Aug 2021 13:19:15 GMT</pubDate>
+            <title><![CDATA[Greece wildfires: Hundreds more evacuated as uncontrolled fires rage]]></title>
+            <description><![CDATA[Ferries carry tourists and locals to safety from Greece's second-largest island, Evia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58138614</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58138614</guid>
+            <pubDate>Sun, 08 Aug 2021 14:05:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland warned 'cases will rise' as restrictions end]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58135753</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58135753</guid>
             <pubDate>Sun, 08 Aug 2021 10:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Time running out to stop catastrophe - Alok Sharma]]></title>
+            <description><![CDATA[Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58132939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58132939</guid>
+            <pubDate>Sun, 08 Aug 2021 13:19:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wood Green stabbing: Man charged with social worker attack]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58129253</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58129253</guid>
             <pubDate>Sun, 08 Aug 2021 11:12:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia to allow in vaccinated Umrah pilgrims]]></title>
-            <description><![CDATA[The Islamic holy city of Mecca will allow vaccinated pilgrims to enter, the Saudi authorities say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58135756</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58135756</guid>
-            <pubDate>Sun, 08 Aug 2021 13:08:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Part of 'Banksy' artwork in Lowestoft removed over flood fears]]></title>
@@ -156,27 +156,6 @@
             <pubDate>Sat, 07 Aug 2021 15:47:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Quarantine-free travel from France, and NHS waits could hit 14m]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58133477</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58133477</guid>
-            <pubDate>Sun, 08 Aug 2021 07:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICYMI: Surfing, an Olympic maze and a sheep stampede]]></title>
-            <description><![CDATA[Some of the stories you may have missed this week.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58101466</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58101466</guid>
-            <pubDate>Fri, 06 Aug 2021 23:07:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan interpreter: 'A better life for my wife and children in the UK']]></title>
-            <description><![CDATA[Afghan interpreters who worked with British forces are being relocated to the UK, as the Taliban advance.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58124249</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58124249</guid>
-            <pubDate>Fri, 06 Aug 2021 21:13:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Sydney: Communities feel under siege as troops deployed]]></title>
             <description><![CDATA[Residents say they're being treated like second-class citizens to stem a Covid outbreak.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58066389</link>
@@ -189,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/education-58085778</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58085778</guid>
             <pubDate>Sat, 07 Aug 2021 23:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Booker Prize: Novel inspired by last hanging at Cardiff prison]]></title>
+            <description><![CDATA[Mahmood Mattan's wrongful conviction has inspired a novel longlisted for the Booker Prize.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58112179</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58112179</guid>
+            <pubDate>Sun, 08 Aug 2021 15:07:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Olympic athletes targeted by false and misleading claims]]></title>
@@ -252,6 +238,13 @@
             <link>https://www.bbc.co.uk/sport/football/58137262</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137262</guid>
             <pubDate>Sun, 08 Aug 2021 12:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saka clapped by Spurs fans on Arsenal return]]></title>
+            <description><![CDATA[Tottenham fans applaud Arsenal's Bukayo Saka on to the pitch on his first appearance since Euro 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58138453</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58138453</guid>
+            <pubDate>Sun, 08 Aug 2021 15:33:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB's Jason Kenny wins the men's keirin to claim his seventh Olympic gold]]></title>
