@@ -1,4 +1,4 @@
-1. [NHS waiting lists could rise to 14 million in England next year - analysis](https://www.bbc.co.uk/news/health-58132538) - Currently five million people are on hospital waiting lists, but there is a warning of a hidden backlog.
+1. [NHS waiting lists could rise to 14 million in England next year - report](https://www.bbc.co.uk/news/health-58132538) - Currently five million people are on hospital waiting lists, but there is a warning of a hidden backlog.
 2. [Covid: Fifth of England hospital admissions aged 18-34](https://www.bbc.co.uk/news/health-58095503) - The new NHS chief executive urges unvaccinated young adults to get jabbed, saying it is "so important".
 3. [Covid: Pressured oxygen reduces ventilator need](https://www.bbc.co.uk/news/health-58088508) - A study should improve care for patients and prevent oxygen supplies being wasted.
 4. [PPE: Gateshead NHS Trust first to make its own masks](https://www.bbc.co.uk/news/uk-england-tyne-58097840) - The masks have four layers, one of which is anti-viral and proven to kill Covid, the trust says.
