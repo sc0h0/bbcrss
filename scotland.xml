@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 07:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 08:22:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Sat, 07 Aug 2021 23:19:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Quarantine-free travel to France resumes as UK rules change]]></title>
+            <description><![CDATA[Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58130944</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58130944</guid>
+            <pubDate>Sun, 08 Aug 2021 04:15:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Scotland: Drop-in vaccine clinics open for 16-17-year-olds]]></title>
             <description><![CDATA[Covid vaccines will be offered to the teenagers as early as this weekend, according to Health Secretary Humza Yousaf.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58128523</link>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/sport/olympics/58128808</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58128808</guid>
             <pubDate>Sat, 07 Aug 2021 11:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Archbishop of York: English people feel left behind by metropolitan elites]]></title>
-            <description><![CDATA[Many English people are "patronised as backwardly xenophobic", the Archbishop of York says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58127256</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58127256</guid>
-            <pubDate>Sat, 07 Aug 2021 12:19:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB's Josh Kerr takes 1500m bronze as Jakob Ingebrigtsen beats Timothy Cheruiyot to gold]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Sat, 07 Aug 2021 09:42:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: More than 100 cases linked to Glasgow's Euro fan zone]]></title>
-            <description><![CDATA[Public Health Scotland said 103 positive cases could be traced to the month-long event at Glasgow Green]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58118134</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58118134</guid>
-            <pubDate>Sat, 07 Aug 2021 00:27:31 GMT</pubDate>
+            <title><![CDATA[Archbishop of York: English people feel left behind by metropolitan elites]]></title>
+            <description><![CDATA[Many English people are "patronised as backwardly xenophobic", the Archbishop of York says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58127256</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58127256</guid>
+            <pubDate>Sat, 07 Aug 2021 12:19:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>

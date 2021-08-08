@@ -1,6 +1,6 @@
-1. [River pollution in Wales: Swimmers warned over sewage](https://www.bbc.co.uk/news/uk-wales-57947635) - Waterways have become increasingly popular places to swim, especially with pools closed in lockdown.
-2. [Sexism: Can my employer make me wear make-up and heels?](https://www.bbc.co.uk/news/uk-wales-58086061) - Many workers still deal with sexism because of the clothing they have to wear, unions say.
-3. ['Superb' Price wins boxing gold for Britain](https://www.bbc.co.uk/sport/olympics/58134516) - Britain's Lauren Price becomes the first Welsh fighter to win an Olympic boxing gold medal, beating China's Li Qian in the women's middleweight final.
+1. ['Superb' Price wins historic boxing gold ](https://www.bbc.co.uk/sport/olympics/58134516) - Britain's Lauren Price becomes the first Welsh fighter to win an Olympic boxing gold medal, beating China's Li Qian in the women's middleweight final.
+2. [River pollution in Wales: Swimmers warned over sewage](https://www.bbc.co.uk/news/uk-wales-57947635) - Waterways have become increasingly popular places to swim, especially with pools closed in lockdown.
+3. [Sexism: Can my employer make me wear make-up and heels?](https://www.bbc.co.uk/news/uk-wales-58086061) - Many workers still deal with sexism because of the clothing they have to wear, unions say.
 4. [Covid: Pubs busy as most rules end in Wales](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
 5. [Thunderstorm weather warning for Wales on Sunday](https://www.bbc.co.uk/news/uk-wales-58087494) - Heavy rain could cause some flooding and travel disruption on Sunday, the Met Office says.
 6. [Bridge-collapse fears trigger alert for Bassaleg homeowners](https://www.bbc.co.uk/news/uk-wales-58128542) - Temporary accommodation is available for those who decide to leave, the council says.
@@ -21,7 +21,7 @@
 21. [Tokyo Olympics: Team GB match London 2012 with 65 medals won](https://www.bbc.co.uk/sport/olympics/58125822) - Cyclist Jason Kenny's keirin triumph plus boxing gold for Lauren Price mean Team GB's Tokyo Olympics medal haul of 65 matches London 2012's total.
 22. [British and Irish Lions: 'Lions loss rather than Springboks win', says Rob Kearney](https://www.bbc.co.uk/sport/rugby-union/58132389) - Former British and Irish Lions full-back Rob Kearney says the current side will be "full of regret" after losing the series against South Africa.
 23. [Rhybudd i nofwyr am garthion a llygredd mewn afonydd](https://www.bbc.co.uk/newyddion/58031328) - Cafodd carthion eu colli i afonydd yng Nghymru dros 100,000 o weithiau yn 2020 yn unig.
-24. [Rhywiaeth yn dal yn broblem yn y gweithle, medd undebau](https://www.bbc.co.uk/newyddion/58117476) - Undebau'n dweud bod gweithwyr dal yn profi rhywiaeth oherwydd y dillad mae'n rhaid iddyn nhw wisgo.
+24. [Lauren Price yn ennill medal aur yn y bocsio pwysau canol](https://www.bbc.co.uk/newyddion/58128546) - Curodd Lauren Price Li Qian yn rownd derfynol y bocsio pwysau canol i ennill aur yn y Gemau Olympaidd.
 25. [Nofiwr yn y Gemau Olympaidd yn diolch i gapel Resolfen](https://www.bbc.co.uk/newyddion/58120982) - Daniel Jervis yn diolch i gapeli yn Resolfen a Rhydaman am eu gweddïau cyn iddo nofio yn y ras 1,500m dull rhydd.
 26. [Pump uchafbwynt yr Eisteddfod AmGen](https://www.bbc.co.uk/newyddion/58105453) - Er fod yna ddim Maes, roedd hi dal yn Steddfod a hanner.
 27. [De Affrica 19-16 Llewod](https://www.bbc.co.uk/newyddion/58132129) - Y Llewod yn colli yn y trydydd prawf o 19-16 gyda De Affrica yn cipio'r gyfres o 2-1.

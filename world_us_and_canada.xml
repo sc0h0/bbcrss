@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 07:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 08:20:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Team USA beat France 87-82 to claim fourth straight gold medal]]></title>
-            <description><![CDATA[USA beat France to win their fourth basketball gold medal in a row.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58125670</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58125670</guid>
-            <pubDate>Sat, 07 Aug 2021 06:47:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Capitol riot: Off-duty Seattle police officers fired over assault]]></title>
             <description><![CDATA[The officers stood by as Donald Trump's supporters stormed the government building, an inquiry says.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58088868</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58088868</guid>
             <pubDate>Sat, 07 Aug 2021 18:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dennis Thomas: Kool & The Gang founding member dies aged 70]]></title>
+            <description><![CDATA[He was one of the members who started the soul band that had massive hits like Celebration.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58135730</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58135730</guid>
+            <pubDate>Sun, 08 Aug 2021 08:13:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Famous Central Park owl killed in crash with truck]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58128475</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58128475</guid>
             <pubDate>Sat, 07 Aug 2021 14:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Team USA beat France 87-82 to claim fourth straight gold medal]]></title>
+            <description><![CDATA[USA beat France to win their fourth basketball gold medal in a row.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58125670</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58125670</guid>
+            <pubDate>Sat, 07 Aug 2021 06:47:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dixie Fire: California town decimated by largest active US blaze]]></title>
@@ -77,20 +84,6 @@
             <link>https://www.bbc.co.uk/news/business-58118016</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58118016</guid>
             <pubDate>Fri, 06 Aug 2021 14:13:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virgin Galactic space flight tickets to start at $450,000]]></title>
-            <description><![CDATA[The firm has reopened ticket sales after successfully completing its first fully-crewed space flight in July.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58120009</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58120009</guid>
-            <pubDate>Fri, 06 Aug 2021 16:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two arrested over plot to kill Myanmar UN ambassador]]></title>
-            <description><![CDATA[Ambassador Kyaw Moe Tun is a vocal critic of Myanmar's junta, which seized power in a coup on 1 February.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58088866</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58088866</guid>
-            <pubDate>Fri, 06 Aug 2021 21:04:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mayflower 400 years: How many people are related to the Mayflower pilgrims?]]></title>
