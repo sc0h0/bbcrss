@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 00:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 01:36:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Climate change: Time running out to stop catastrophe - Alok Sharma]]></title>
+            <description><![CDATA[Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58132939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58132939</guid>
+            <pubDate>Sun, 08 Aug 2021 00:36:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Climate change: New report will highlight 'stark reality' of warming]]></title>
             <description><![CDATA[The IPCC's short scientific summary due out on Monday will be strongest statement yet on climate change.]]></description>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58088236</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58088236</guid>
             <pubDate>Wed, 04 Aug 2021 14:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Timber shortage due to 'unprecedented' post-lockdown demand]]></title>
-            <description><![CDATA[Prices are rising sharply as climate change and post-lockdown DIY and building projects hit supplies.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57920510</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57920510</guid>
-            <pubDate>Tue, 03 Aug 2021 23:57:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Wales set to build 20,000 low-carbon social homes]]></title>

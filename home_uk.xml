@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 00:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 01:36:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58127407</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58127407</guid>
             <pubDate>Sat, 07 Aug 2021 19:08:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Time running out to stop catastrophe - Alok Sharma]]></title>
+            <description><![CDATA[Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58132939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58132939</guid>
+            <pubDate>Sun, 08 Aug 2021 00:36:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Capitol riot: Off-duty Seattle police officers fired over assault]]></title>
@@ -51,11 +58,25 @@
             <pubDate>Sat, 07 Aug 2021 23:26:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: More groups eligible for winter flu jabs]]></title>
+            <description><![CDATA[All over-50s, teachers, school staff and pupils and those working on Covid testing will be offered the jab.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58131218</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58131218</guid>
+            <pubDate>Sat, 07 Aug 2021 23:07:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ant McPartlin marries Anne-Marie Corbett at star-studded wedding]]></title>
             <description><![CDATA[The presenter wed Anne-Marie Corbett, with guests including sidekick Declan Donnelly and Phillip Schofield.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58130575</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58130575</guid>
             <pubDate>Sat, 07 Aug 2021 14:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuba allows small and medium-sized private businesses]]></title>
+            <description><![CDATA[Up to 100 employees will now be allowed in private companies, in a major shift after mass protests.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58132000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58132000</guid>
+            <pubDate>Sat, 07 Aug 2021 20:47:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: German pentathlon coach thrown out for punching horse]]></title>
@@ -72,32 +93,11 @@
             <pubDate>Sat, 07 Aug 2021 17:55:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: More groups eligible for winter flu jabs]]></title>
-            <description><![CDATA[All over-50s, teachers, school staff and pupils and those working on Covid testing will be offered the jab.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58131218</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58131218</guid>
-            <pubDate>Sat, 07 Aug 2021 23:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba allows small and medium-sized private businesses]]></title>
-            <description><![CDATA[Up to 100 employees will now be allowed in private companies, in a major shift after mass protests.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58132000</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58132000</guid>
-            <pubDate>Sat, 07 Aug 2021 20:47:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bat killed by cat after record 1,200-mile journey]]></title>
             <description><![CDATA[A record-breaking bat - the size of a human thumb - is discovered in Russia after flying from London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58128773</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58128773</guid>
             <pubDate>Sat, 07 Aug 2021 11:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wood Green stabbing: Police officers and social worker attacked]]></title>
-            <description><![CDATA[Three people are arrested after the social worker and officers were attacked in north London.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58124569</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58124569</guid>
-            <pubDate>Sat, 07 Aug 2021 14:13:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Climate catastrophe warning, and winter flu tests]]></title>
@@ -121,18 +121,18 @@
             <pubDate>Sat, 07 Aug 2021 23:01:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[British Asian women take on football 'taboo']]></title>
-            <description><![CDATA[A new women's football team in west London's "Little India" hopes to encourage diversity in football.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58121578</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58121578</guid>
-            <pubDate>Sat, 07 Aug 2021 23:01:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pollution: 'This is my coffin, this is why I swim with it']]></title>
             <description><![CDATA[Wild swimmer Angela Jones says she hopes her specially designed coffin will catch attention.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58023181</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58023181</guid>
             <pubDate>Sat, 07 Aug 2021 20:55:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British Asian women take on football 'taboo']]></title>
+            <description><![CDATA[A new women's football team in west London's "Little India" hopes to encourage diversity in football.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58121578</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58121578</guid>
+            <pubDate>Sat, 07 Aug 2021 23:01:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In pictures: Egypt pharaoh's 'solar boat' moved to Giza museum]]></title>
@@ -230,7 +230,7 @@
             <description><![CDATA[Kenya's Eliud Kipchoge claims victory in the men's marathon at Tokyo 2020 to become the first athlete since 1980 to retain an Olympic marathon title.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58132919</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58132919</guid>
-            <pubDate>Sun, 08 Aug 2021 00:21:12 GMT</pubDate>
+            <pubDate>Sun, 08 Aug 2021 01:24:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ian Wright disappointed by 'disgraceful behaviour' of some Leicester fans]]></title>
