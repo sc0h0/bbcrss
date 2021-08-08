@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 13:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 13:45:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Sun, 08 Aug 2021 09:18:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leicestershire death: Murder arrest after woman's body found]]></title>
+            <description><![CDATA[A man, 29, is arrested on suspicion of murdering the woman who was found near Woodhouse Eaves.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58138005</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-58138005</guid>
+            <pubDate>Sun, 08 Aug 2021 13:39:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wood Green stabbing: Man charged with social worker attack]]></title>
             <description><![CDATA[Sulai Bukhari is charged with attempted murder after the man and two police officers were attacked.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58130078</link>
@@ -30,18 +37,18 @@
             <pubDate>Sun, 08 Aug 2021 10:52:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kent footballer alleges player hurled homophobic abuse during game]]></title>
-            <description><![CDATA[Sheppey United's Jahmal Howlett-Mundle says a Tower Hamlets player made a comment during a match.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58136664</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58136664</guid>
-            <pubDate>Sun, 08 Aug 2021 09:58:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fastnet Race: Yachts leave Cowes for gruelling race]]></title>
             <description><![CDATA[The 49th biennial offshore yacht race got under way off Cowes shortly after 11:00 BST.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-58129522</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58129522</guid>
             <pubDate>Sun, 08 Aug 2021 11:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kent footballer alleges player hurled homophobic abuse during game]]></title>
+            <description><![CDATA[Sheppey United's Jahmal Howlett-Mundle says a Tower Hamlets player made a comment during a match.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58136664</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58136664</guid>
+            <pubDate>Sun, 08 Aug 2021 09:58:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lulworth Cove: Search under way for missing Jurassic Coast diver]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58136583</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58136583</guid>
             <pubDate>Sun, 08 Aug 2021 09:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Walking to space was the best day of my life']]></title>
-            <description><![CDATA[Tim, aged nine, walked 62 miles - the distance between Earth's atmosphere and the boundary of space.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075</guid>
-            <pubDate>Sat, 07 Aug 2021 23:01:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kent coast sewage leak warning area extended to Herne Bay]]></title>
@@ -163,6 +163,13 @@
             <pubDate>Thu, 29 Jul 2021 08:57:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Walking to space was the best day of my life']]></title>
+            <description><![CDATA[Tim, aged nine, walked 62 miles - the distance between Earth's atmosphere and the boundary of space.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075</guid>
+            <pubDate>Sat, 07 Aug 2021 23:01:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chorley friendship group made me smile again, says widower]]></title>
             <description><![CDATA[Gerald says he felt lonely but has "never looked back" since joining a Chorley friendship group.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-58106487</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-merseyside-58121193</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58121193</guid>
             <pubDate>Fri, 06 Aug 2021 18:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London riots: 'My shop was burned down but we came back stronger']]></title>
-            <description><![CDATA[Trevor Reeves and Bushra Ahmed both lost businesses during a night of violence in August 2011.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58031162</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58031162</guid>
-            <pubDate>Fri, 06 Aug 2021 00:01:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Festival of Britain: Sites celebrated for 70th anniversary]]></title>
@@ -233,11 +233,18 @@
             <pubDate>Sun, 08 Aug 2021 06:38:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rain stalls India in pursuit of 209 to beat England]]></title>
-            <description><![CDATA[Persistent rain delays the start of what could be a grandstand final day in the first Test between England and India at Trent Bridge.]]></description>
+            <title><![CDATA[Rain threatens to wipe out final day of England-India Test]]></title>
+            <description><![CDATA[Persistent rain threatens to ruin what could be a grandstand final day in the first Test between England and India at Trent Bridge.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58137389</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58137389</guid>
             <pubDate>Sun, 08 Aug 2021 13:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Games conclude with upbeat closing ceremony]]></title>
+            <description><![CDATA[The Tokyo Olympics, postponed and played out behind closed doors because of the Covid pandemic, conclude with a vibrant ceremony in Japan's capital.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58137574</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58137574</guid>
+            <pubDate>Sun, 08 Aug 2021 13:28:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Jason Kenny wins seventh gold but Laura Kenny reign as omnium champion over]]></title>

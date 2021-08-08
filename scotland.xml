@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 13:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 13:46:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58136344</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58136344</guid>
             <pubDate>Sun, 08 Aug 2021 13:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: How 'bulletproof' mentality propelled Josh Kerr to 1500m medal]]></title>
+            <description><![CDATA[Olympic 1500m bronze medallist Josh Kerr tells BBC Scotland how a "bulletproof mentality" helped him become only Scotland's third individual track medallist in 100 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58138363</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58138363</guid>
+            <pubDate>Sun, 08 Aug 2021 13:07:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: More groups eligible for winter flu jabs]]></title>
@@ -77,20 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58136276</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58136276</guid>
             <pubDate>Sun, 08 Aug 2021 09:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: GB's Josh Kerr takes 1500m bronze as Jakob Ingebrigtsen beats Timothy Cheruiyot to gold]]></title>
-            <description><![CDATA[Great Britain's Josh Kerr claims 1500m bronze behind stylish Jakob Ingebrigtsen, who overhauls world champion Timothy Cheruiyot for gold.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58129524</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58129524</guid>
-            <pubDate>Sat, 07 Aug 2021 13:33:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RAF Lossiemouth jets intercept Russian military aircraft]]></title>
-            <description><![CDATA[A pair of TU-142 Bear-F Maritime Reconnaissance and anti-submarine warfare aircraft had been detected.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58116631</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58116631</guid>
-            <pubDate>Sat, 07 Aug 2021 09:42:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -226,18 +219,25 @@
             <pubDate>Wed, 04 Aug 2021 20:25:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: How 'bulletproof' mentality propelled Josh Kerr to 1500m medal]]></title>
-            <description><![CDATA[Olympic 1500m bronze medallist Josh Kerr tells BBC Scotland how a "bulletproof mentality" helped him become only Scotland's third individual track medallist in 100 years.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58138363</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58138363</guid>
-            <pubDate>Sun, 08 Aug 2021 13:07:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rangers: Do Steven Gerrard's side have cause for concern before Malmo tie?]]></title>
             <description><![CDATA[With their critical Champions League qualifier against Malmo looming, do Rangers have reasons to be concerned?]]></description>
             <link>https://www.bbc.co.uk/sport/football/58130716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58130716</guid>
             <pubDate>Sat, 07 Aug 2021 16:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ross County: Does Malky Mackay's 'threadbare squad' face toughest survival challenge yet?]]></title>
+            <description><![CDATA[Following back-to-back 10th-placed finishes, do Ross County face their toughest test yet in preserving their top-flight status after a pre-season of disruption?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58074861</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58074861</guid>
+            <pubDate>Sun, 08 Aug 2021 07:12:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Celtic v Dundee: Barry Smith on 'humble' Claudio Caniggia & great days at Dens]]></title>
+            <description><![CDATA[As Dundee prepare to face Celtic, former Dens defender and manager Barry Smith recalls the last time the club beat the Parkhead side.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/47596546</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/47596546</guid>
+            <pubDate>Sun, 08 Aug 2021 07:16:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
