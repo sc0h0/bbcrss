@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 13:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 13:50:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,25 +30,25 @@
             <pubDate>Sun, 08 Aug 2021 13:39:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wood Green stabbing: Man charged with social worker attack]]></title>
-            <description><![CDATA[Sulai Bukhari is charged with attempted murder after the man and two police officers were attacked.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58130078</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58130078</guid>
-            <pubDate>Sun, 08 Aug 2021 10:52:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fastnet Race: Yachts leave Cowes for gruelling race]]></title>
-            <description><![CDATA[The 49th biennial offshore yacht race got under way off Cowes shortly after 11:00 BST.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58129522</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58129522</guid>
-            <pubDate>Sun, 08 Aug 2021 11:50:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kent footballer alleges player hurled homophobic abuse during game]]></title>
             <description><![CDATA[Sheppey United's Jahmal Howlett-Mundle says a Tower Hamlets player made a comment during a match.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-58136664</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58136664</guid>
             <pubDate>Sun, 08 Aug 2021 09:58:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kent coast sewage leak warning area extended to Herne Bay]]></title>
+            <description><![CDATA[The council says the advice will not be lifted until it is "completely satisfied the sea is safe".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58137677</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58137677</guid>
+            <pubDate>Sun, 08 Aug 2021 12:17:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wood Green stabbing: Man charged with social worker attack]]></title>
+            <description><![CDATA[Sulai Bukhari is charged with attempted murder after the man and two police officers were attacked.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58130078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58130078</guid>
+            <pubDate>Sun, 08 Aug 2021 10:52:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lulworth Cove: Search under way for missing Jurassic Coast diver]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Sun, 08 Aug 2021 09:27:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kent coast sewage leak warning area extended to Herne Bay]]></title>
-            <description><![CDATA[The council says the advice will not be lifted until it is "completely satisfied the sea is safe".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58137677</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58137677</guid>
-            <pubDate>Sun, 08 Aug 2021 12:17:55 GMT</pubDate>
+            <title><![CDATA[Fastnet Race: Yachts leave Cowes for gruelling race]]></title>
+            <description><![CDATA[The 49th biennial offshore yacht race got under way off Cowes shortly after 11:00 BST.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58129522</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58129522</guid>
+            <pubDate>Sun, 08 Aug 2021 11:50:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Team GB match London 2012 with 65 medals won as Kenny and Price take gold]]></title>
@@ -258,7 +258,7 @@
             <description><![CDATA[Aston Villa re-sign defender Axel Tuanzebe on a season-long loan from Manchester United.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58138444</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58138444</guid>
-            <pubDate>Sun, 08 Aug 2021 12:29:56 GMT</pubDate>
+            <pubDate>Sun, 08 Aug 2021 13:49:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

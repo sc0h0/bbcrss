@@ -1,5 +1,5 @@
 1. [Branson's Virgin Atlantic considers stock market listing](https://www.bbc.co.uk/news/business-58119588) - The move could see Sir Richard Branson lose overall control of the airline he founded.
-2. [Covid-19: Quarantine-free travel to France resumes as UK rules change](https://www.bbc.co.uk/news/uk-58130944) - Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".
+2. [Covid-19: Quarantine-free travel from France resumes as UK rules change](https://www.bbc.co.uk/news/uk-58130944) - Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".
 3. [Working from home 'has helped me make my career'](https://www.bbc.co.uk/news/business-58091059) - Young workers reflect on Rishi Sunak's comments they could forge stronger contacts in the office.
 4. [US stock exchange sets diversity rules for listed companies](https://www.bbc.co.uk/news/business-58123730) - The Nasdaq index will require all its listed companies to have diverse boards, or explain why they do not.
 5. [Virgin Galactic space flight tickets to start at $450,000](https://www.bbc.co.uk/news/business-58120009) - The firm has reopened ticket sales after successfully completing its first fully-crewed space flight in July.
